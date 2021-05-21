@@ -3,8 +3,8 @@ category: news
 title: "What Does Putin Have on Biden?"
 excerpt: "Only a few months ago, the Biden administration argued that Nord Stream 2, a proposed natural-gas pipeline running from Russia to Germany, was"
 publishedDateTime: 2021-05-21T11:13:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.amp.html"
 type: article
@@ -224,6 +224,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "W7VZ+W+2d4ByfjVYMVzQ1/WZXaNX0STiGruuIN64l4R7XO2KgaOWv/hfXwahtEKCRcXr0MENviZ7pk9sCd5VOx4xtnWkSsDr8J2o26eGqurIibuM/Oqea8GWSQRG61gH8NOixMlVvfLwIzu4tSF6NwGSd2ofSwWDR+qTfm3cRzQxxW9ykRy9iecbyb+NYRyihVms/+u23bk0ayJaePf601QKbPQkeqRS97sdwAFLW9SM3pk0IDSxytzDIkPw/qGH/dN+sjltqXz28fxdeXOCDlEBEB7HAXsPQtLF9DXbeLsDxXl0eMuGU7kve1Qo4MlNO49WoRntGkS8lcyevlTGWSIwSUdmgaX8cU1QJtSpa0I=;qLRazckw9gXAonYGPc/SnQ=="
+secured: "GoxCXd3nuAfsrXKDXN1phUn9KBgtMdOwmgQMqF0KExC6eCt6SBtrAOYCPQBjmpbioEPWBo15349jdAf7SwpG0eBqHIackbgeRlDpSwPGGrJ0yjFAnENJ5NLCvuaGl/UmPs9xS30xKz1Txqe0rXLuOcBKk2Ya6ZrGKaxUaLgc97WcpiJKKqml5rVRRu+u9GV0ThwLyX3o5ApCY6PGReXynlN7DyGcO+1vvf/YuCYWj+Sh4D5dVdSBxXHL0r7P40CQUpRYNOjcjP3XNWz8BqUHIY47NC4EPic4H0FwSNlwVrpRIBgQ9EDVrGjCkrWM40StKdWT1SmxzPCHkN2VX1dKzXycJ2StzRLZHifF5nCmyTg=;LEgsE7hhvH81M5wgVJHqBA=="
 ---
 

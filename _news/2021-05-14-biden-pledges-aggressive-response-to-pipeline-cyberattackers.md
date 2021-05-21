@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 265
 published: true
 
 provider:
@@ -133,20 +133,6 @@ related:
       - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/dem-debate-charleston-26.jpg?fit=1200%2C700&ssl=1"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Joe Biden remarks on the Middle East"
-    excerpt: "U.S. President Joe Biden deliver remarks on the Middle East in the Cross Hall at the White House in Washington on Thursday, May 20, 2021. Photo by Yuri Gripas/UPI"
-    publishedDateTime: 2021-05-20T23:24:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/33cd2900febd06252fab95604ae60cfb/Joe-Biden-remarks-on-the-Middle-East/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/33cd2900febd06252fab95604ae60cfb/BIDEN-MIDDLE-EAST.jpg"
-        width: 650
-        height: 433
         isCached: true
 
 secured: "6GWAWb2QXp4CEwZHTp9FWYVthNyuj4YTpNLJzdUuEZXKxHa8j8dqyy0ndfJTuRtOvRVSGrYd8ppUZ6spB43E1mol+9W3uneydiUBgtWIhh3cVIUVpkF10IkwqDFOPglfkS9J+xYJ2KxTiQhVWFtwPF9l/oIOQ7ezcB+4VKiMWH4m4EFrvD13rukaQw5ssD1Qs8Pye/Y5p1NoXaAaC/JItDZvDE6frIBl5/80goJWEhG+mzR+lQxvCcgC602k0lv2SEfjJanZmmYgwRi3IxahxOSTySUI55c7T23ObOfYPlbbQfemv880Rd1pOWiJbFcXT1dGWNZU0Tq+/YMS/vw6aOnWl5v0963kQbq8PFZ+HdU=;6hql/NNtLzdgvtzkQaSDaQ=="

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "For Biden, foreign policy has taken a backseat to domestic affairs"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-05-21T12:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/biden-foreign-policy-has-taken-backseat-domestic-affairs-n1268123"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268123"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268123"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476596/210521-israeli-artillery-unit-al-0807_3a9a9fcb6d0b7bb975e50dd12b4a101c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Ford reveals new electric F-150 Lightning pickup during Biden's visit to Michigan plant"
     excerpt: "The highly anticipated vehicle resembles the automaker’s current F-150 but has some unique exterior styling details."
     publishedDateTime: 2021-05-19T13:56:00Z

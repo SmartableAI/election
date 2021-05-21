@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Survey experts have yet to figure out what caused the most significant polling error in 40 years in Trump-Biden race"
-    excerpt: "More than six months after the astonishing polling embarrassment in the 2020 U.S. elections, survey experts examining what went wrong are uncertain about what led to the sharpest discrepancy between the polls and popular vote outcome since Ronald Reagan defeated Jimmy Carter in a near-landslide in 1980."
-    publishedDateTime: 2021-05-20T12:03:00Z
-    webUrl: "https://www.chron.com/news/article/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 67
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "BaMHo5uWhWz7vww4r9agxVtlx3iBBRt9Z+kz2N3E2qulR5jJWPpzZf6Qy+Oy5OdXRl/o56Ul+4T/gcXF7Y618OXp1uD0WW3P9yJrr/SEsZsdply/Bt5GsSoi0rnZE0pv4OZZIW161noMIqZ+iJ2zfHc8bPHHCFPRnmDPJnyHXfasWG67grkVFR87KRSgBSDAwwsGe5qTiaU9JKhrQlzgytlsyZXbr4Edzy5VUQCxHT1SYGf9hu6lhtD9YcKprGVlLB8RF0pbFHeaP67wi2HpfzuekdcIQc//Qtf0b3LcH+mbUNkLPSVX40trUoUwQARz1ib5By97ydowedc2aECFgtarXh4qnzcetXH4S04qA9i4PQe6pIm0kYMyr8UnRv2aHLaiX5ywakYqZ6+w9wnrWJYJFA5QAZRXC6nqaKKKgJdBrsONgg8TOrG4Gn29Gphcj01F1VOFIUvk+wtDr9f4+ITxaCAB80ig0BcKKdoH6KFTsgWYFA07N593cRt6WRFfcPHiUDsJRC4MkOfpK9aR+w==;qDH86bPe3efFoRdhopqaKA=="
 ---

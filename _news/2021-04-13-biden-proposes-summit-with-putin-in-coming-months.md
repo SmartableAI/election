@@ -190,7 +190,7 @@ related:
   - title: "What Does Putin Have on Biden?"
     excerpt: "Only a few months ago, the Biden administration argued that Nord Stream 2, a proposed natural-gas pipeline running from Russia to Germany, was"
     publishedDateTime: 2021-05-21T11:13:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.html"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.amp.html"
     type: article

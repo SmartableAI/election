@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20"
-excerpt: "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency"
-publishedDateTime: 2021-05-17T23:55:00Z
-originalUrl: "https://www.businessinsider.com/trump-donated-salary-presidential-pension-payments-2021-5"
-webUrl: "https://www.businessinsider.com/trump-donated-salary-presidential-pension-payments-2021-5"
+title: "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts"
+excerpt: "The federal bureaucracy, reeling under the effects of the former president, is struggling to make good on the current president’s promises."
+publishedDateTime: 2021-05-21T14:00:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/"
+webUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/"
+ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
 type: article
-quality: 90
-heat: -1
-published: false
+quality: 131
+heat: 211
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,28 +25,12 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/60a2f78af27b4c0019444f88?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJRD2WVUJAI6XPEW7X2V3ZB354.jpg&w=1440"
+    width: 1440
+    height: 962
     isCached: true
 
 related:
-  - title: "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts"
-    excerpt: "The federal bureaucracy, reeling under the effects of the former president, is struggling to make good on the current president’s promises."
-    publishedDateTime: 2021-05-21T14:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 131
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJRD2WVUJAI6XPEW7X2V3ZB354.jpg&w=1440"
-        width: 1440
-        height: 962
-        isCached: true
   - title: "Biden seeks to expand legal assistance for lower income people"
     excerpt: "President Joe Biden will sign a presidential memo aimed at boosting public defenders and civil legal aid providers in a bid to help people with lower incomes have better representation in the U.S. legal system,"
     publishedDateTime: 2021-05-18T10:27:00Z
@@ -60,6 +46,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210518&t=2&i=1562530751&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4H0OK"
         width: 835
         height: 545
+        isCached: true
+  - title: "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20"
+    excerpt: "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency"
+    publishedDateTime: 2021-05-17T23:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-donated-salary-presidential-pension-payments-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/60a2f78af27b4c0019444f88?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Survey experts have yet to figure out what caused the most significant polling error in 40 years in Trump-Biden race"
     excerpt: "More than six months after the astonishing polling embarrassment in the 2020 U.S. elections, survey experts examining what went wrong are uncertain about what led to the sharpest discrepancy between the polls and popular vote outcome since Ronald Reagan defeated Jimmy Carter in a near-landslide in 1980."
@@ -92,6 +92,6 @@ related:
         height: 433
         isCached: true
 
-secured: "XD5MHQhAkCU3iVEVAm75uMjom0yh4dh3Vh3kps4wWSqWZ7Uip1K3JDmGwxsfaI5tsC3b7HtkPXUCuAAI31q/xVbqV4z8PoWpnjYN9o0Mxawi5EWum+ZAc+3rlAASOsRq3Ai5v7LRI4Er7NcBW5bfx0oxFEMY9TaZXSwAD1RXpfc60FXRxuzXV5sfNfHWhGJZt+4BYxVrLDIXpysMwGYcCy8KbprxWUfRzYpymr+RrO5mKRrHswb91P6ksCyE194XAFvyOQVfjP0gp/erV54peFRuTblF1XHkc+WcnCyqGcaeTxZCJ38X4sgOmEHqkuedVi9KQTUksh1kkryHdkcUyWs/Qf9y+xvGl6HxOXxPL/be0XkuvD9RMiQrz8j08T5UqcAd79fsym301G//ACNo7cpHzw6Gvs01cNtj4dLhezFx/l+4gFuHANrn7xTRxKwBnhApbEiJJjhJ3sX8PSILNXdsHgHnYyhNTClaEnU6t0UzNBrlUq9P644b0FMHqxLnAeVAgd4C3coKJvLfMHcqIg==;qupDgJgVfgwrzm1WvXQjTQ=="
+secured: "fm9gd4sAxmgd5TAJ1IAgEZzF6SxVZ0U/MEOCkA+x9IsYI3mlr20yWHg35xshum7sZXIzoYvJ2rJgz06r/HdjxI9ifLCWtHYJq7qeQiV3loe/rCuw/6Fyk80frLkb0j5SqmoZVaWQnTfkp8x5Nhj+7bst+zVaya9WMa4rRVIUYoGZKo6zq6e6JYOHuPULtIaouTquu13tV9EO0ur7CG50g48cjbnCz4fQyargdP3fk1J63moUC+UOiZOARTDYV/5miFSMSYr2e+S9q6hdhS0JqlVwMejBjVx5F+QibljMd4AfTU/MCQ+onZPgBKaWMDYb9xnXKO2/P+B6LzlVsl9OIqk8WhrK/Ax/NvWi0Pw+mjc=;dhpR+kddcZCExpM5fVB6YA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.politico.com/d4/14/f5c24f44464da23be9b92104fb44/ap21077843047710-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "For Biden, foreign policy has taken a backseat to domestic affairs"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-05-21T12:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/biden-foreign-policy-has-taken-backseat-domestic-affairs-n1268123"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268123"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268123"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476596/210521-israeli-artillery-unit-al-0807_3a9a9fcb6d0b7bb975e50dd12b4a101c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Ford reveals new electric F-150 Lightning pickup during Biden's visit to Michigan plant"
     excerpt: "The highly anticipated vehicle resembles the automaker’s current F-150 but has some unique exterior styling details."

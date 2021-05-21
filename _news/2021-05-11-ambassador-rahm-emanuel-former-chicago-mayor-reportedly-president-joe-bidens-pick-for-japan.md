@@ -47,22 +47,6 @@ related:
         width: 1440
         height: 890
         isCached: true
-  - title: "Biden seeks to expand legal assistance for lower income people"
-    excerpt: "President Joe Biden will sign a presidential memo aimed at boosting public defenders and civil legal aid providers in a bid to help people with lower incomes have better representation in the U.S. legal system,"
-    publishedDateTime: 2021-05-18T10:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-court-idUSKCN2CZ17R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2CZ1CU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2CZ1CU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210518&t=2&i=1562530751&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4H0OK"
-        width: 835
-        height: 545
-        isCached: true
   - title: "Calls to deny Communion to Biden for abortion views prompt Catholic soul-searching"
     excerpt: "On paper, Nguyen-Ellis looks like the kind of Catholic who might agree with a push by the American church’s conservative bishops to deny the Eucharist to Catholic politicians, such as President Joe Biden, who support abortion rights. But Nguyen-Ellis ..."
     publishedDateTime: 2021-05-18T20:43:00Z

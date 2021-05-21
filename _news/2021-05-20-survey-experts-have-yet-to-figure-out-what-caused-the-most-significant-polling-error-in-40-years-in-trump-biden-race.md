@@ -27,35 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "'He wants to be in the fight': Donald Trump told his former White House doctor that he wants to run in 2024"
-    excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
-    publishedDateTime: 2021-05-20T19:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+  - title: "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts"
+    excerpt: "The federal bureaucracy, reeling under the effects of the former president, is struggling to make good on the current president’s promises."
+    publishedDateTime: 2021-05-21T14:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJRD2WVUJAI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 962
+        isCached: true
+  - title: "Biden seeks to expand legal assistance for lower income people"
+    excerpt: "President Joe Biden will sign a presidential memo aimed at boosting public defenders and civil legal aid providers in a bid to help people with lower incomes have better representation in the U.S. legal system,"
+    publishedDateTime: 2021-05-18T10:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-court-idUSKCN2CZ17R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2CZ1CU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2CZ1CU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210518&t=2&i=1562530751&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4H0OK"
+        width: 835
+        height: 545
+        isCached: true
+  - title: "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20"
+    excerpt: "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency"
+    publishedDateTime: 2021-05-17T23:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-donated-salary-presidential-pension-payments-2021-5"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 87
+    quality: 90
     images:
-      - url: "https://i.insider.com/603f5c55b46d720018b04846?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60a2f78af27b4c0019444f88?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "A Colorado man accused of murdering his wife told FBI agents that he submitted a ballot for Trump in her name because the 'other guys' were cheating"
-    excerpt: "Barry Morphew was charged with a felony count of forging public documents after telling investigators that he sent in a vote for his missing wife."
-    publishedDateTime: 2021-05-14T17:07:00Z
-    webUrl: "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp"
+  - title: "Joe Biden remarks on the Middle East"
+    excerpt: "U.S. President Joe Biden deliver remarks on the Middle East in the Cross Hall at the White House in Washington on Thursday, May 20, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-05-20T23:24:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/33cd2900febd06252fab95604ae60cfb/Joe-Biden-remarks-on-the-Middle-East/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
+      name: UPI.com
+      domain: upi.com
+    quality: 55
     images:
-      - url: "https://i.insider.com/609e9e50a807be0018d6227e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cdnph.upi.com/pv/upi/33cd2900febd06252fab95604ae60cfb/BIDEN-MIDDLE-EAST.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "gyaAYfg3hEgYnuRMWVwW919qzv3BubqnJS7XatxzNbrHllmJrxn8fgop6Dq/65UhOcwyqQ1Rat8tx0jsvnr0yumHBP0K5IYlbVSqw2AVOYj9NKguQFgwkrSYwRXedYU6d0HCKh+bmlQjuiHz8X1Awdgbo0bzokiyBe1a0So+AB4l9VCXNfZ6p0s/kOGMFM3ZU+jnqw5f4RvHKdi/Zw20Xfk/W0nI10Ci7wYHL3eV4Dks+bLjucIfTrAlMBgKMKcnwJIQgXRk7krnytt5/59GuHCtrT8Oi5gH63AOkVQVFx2xswKy5tGSSxQndFAhdANZ8Ya6FJcDJSloat0QKXQp61Wk1oCjX5T7xq9h8dzFlpQ=;/3ctODwkhL3fkaFnbGKoEA=="

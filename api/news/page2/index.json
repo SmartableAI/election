@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-20-us-waives-sanctions-on-nord-stream-2-as-biden-seeks-to-mend-europe-ties.md",
+      "title": "U.S. waives sanctions on Nord Stream 2 as Biden seeks to mend Europe ties",
+      "excerpt": "The Biden administration waived sanctions on the company behind Russia's Nord Stream 2 gas pipeline to Germany and its chief executive, Secretary of State Antony Blinken said on Wednesday, a move decried by critics of the project in Congress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-nord-stream-2-idUSKCN2D019I",
+      "originalUrl": "https://www.reuters.com/article/us-usa-nord-stream-2-idUSKCN2D019I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210519&t=2&i=1562705559&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4I0NT",
+          "width": 806,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D019I",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D019I",
+      "publishedDateTime": "2021-05-19T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-biden-calls-former-dem-senator-accused-of-sexual-misconduct-one-of-the-finest-men-ive-ever-served-with.md",
       "title": "Biden calls former Dem senator accused of sexual misconduct 'One of the finest men I've ever served with'’",
       "excerpt": "President Biden called a former Democratic senator whose past is checkered with complicity in a sexual assault allegation “one of the finest men I’ve ever served with.”’",
@@ -634,11 +686,11 @@
     },
     {
       "path": "_news/2021-05-19-vp-kamala-harris-covid-an-opportunity-to-transform-how-we-live-how-we-work-and-how-we-vote.md",
-      "title": "VP Kamala Harris: COVID An \"Opportunity\" To \"Transform\" How We Live, How We Work, And How We Vote",
+      "title": "VP Kamala Harris: COVID An \"Opportunity\" to \"Transform\" How We Live, How We Work, And How We Vote",
       "excerpt": "Vice President Kamala Harris called COVID-19 an \"opportunity\" to transform society in a speech to the Asian American Pacific Islander Heritage Month unity summit on Wednesday. \"As we emerge from the pandemic,",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.html",
+      "webUrl": "https://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.html#!",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -807,7 +859,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1263,63 +1315,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-trump-allies-promote-portfolios-targeting-unwoke-investors.md",
-      "title": "Trump Allies Promote Portfolios Targeting ‘Unwoke Investors’",
-      "excerpt": "A group of conservative money managers is seeking to woo investors disgruntled by increased involvement by some companies in political and social issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
-      "originalUrl": "https://www.wsj.com/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-339796/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
-      "publishedDateTime": "2021-05-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

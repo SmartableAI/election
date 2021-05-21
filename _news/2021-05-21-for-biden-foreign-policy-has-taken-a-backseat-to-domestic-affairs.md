@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Ford reveals new electric F-150 Lightning pickup during Biden's visit to Michigan plant"
-excerpt: "The highly anticipated vehicle resembles the automaker’s current F-150 but has some unique exterior styling details."
-publishedDateTime: 2021-05-19T13:56:00Z
-originalUrl: "https://www.nbcnews.com/business/autos/ford-reveals-new-electric-f-150-lightning-pickup-during-biden-n1267904?via=indexdotco"
-webUrl: "https://www.nbcnews.com/business/autos/ford-reveals-new-electric-f-150-lightning-pickup-during-biden-n1267904?via=indexdotco"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267904"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267904"
+title: "For Biden, foreign policy has taken a backseat to domestic affairs"
+excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+publishedDateTime: 2021-05-21T12:51:00Z
+originalUrl: "https://www.nbcnews.com/politics/meet-the-press/biden-foreign-policy-has-taken-backseat-domestic-affairs-n1268123"
+webUrl: "https://www.nbcnews.com/politics/meet-the-press/biden-foreign-policy-has-taken-backseat-domestic-affairs-n1268123"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268123"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268123"
 type: article
-quality: 127
+quality: 135
 heat: -1
 published: false
 
@@ -26,7 +26,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media1.s-nbcnews.com/i/newscms/2021_20/3475988/210519-joe-biden-ford-f150-jm-0848_b5550c89172a3a9195342fcfa5ab57fa.jpg"
+  - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476596/210521-israeli-artillery-unit-al-0807_3a9a9fcb6d0b7bb975e50dd12b4a101c.jpg"
     width: 2500
     height: 1667
     isCached: true
@@ -64,23 +64,23 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "For Biden, foreign policy has taken a backseat to domestic affairs"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2021-05-21T12:51:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/biden-foreign-policy-has-taken-backseat-domestic-affairs-n1268123"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268123"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268123"
+  - title: "Ford reveals new electric F-150 Lightning pickup during Biden's visit to Michigan plant"
+    excerpt: "The highly anticipated vehicle resembles the automaker’s current F-150 but has some unique exterior styling details."
+    publishedDateTime: 2021-05-19T13:56:00Z
+    webUrl: "https://www.nbcnews.com/business/autos/ford-reveals-new-electric-f-150-lightning-pickup-during-biden-n1267904?via=indexdotco"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267904"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267904"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 127
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476596/210521-israeli-artillery-unit-al-0807_3a9a9fcb6d0b7bb975e50dd12b4a101c.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_20/3475988/210519-joe-biden-ford-f150-jm-0848_b5550c89172a3a9195342fcfa5ab57fa.jpg"
         width: 2500
         height: 1667
         isCached: true
 
-secured: "S6KJU3Avjo0HNhOY73/cyraiiRKmboPrGRLyVuzTIotHa8LyYiWrHgYYSJxozHKreXiKLPDR2SPiGkhk1m4j/0kg76fmO/v1V7u4ZiQX+oO+JILYApJ3KcbGG9gokIbOUY15uEWM00sqpTrBcMF8UnbsCi7KFFmV05cO3vhYnRGiu0XWuIxM9lo/QtjqUZgYNALkLv+naWMf/ADYu/OP8RaAxaCETWUuU6Eex5TyvEKdwDDF1NE0wmJMSdMazER5DZenKo1XQ6g4O1oAHqJ1PvpwutjoXA75lNZ2A8F0YgaufNk1zS+y1pkY+b4UWXWjdkeAO050UPZe/eeAvbt5mIbKjt3hGpAIzZZoXrW9eMvgsmxUUqWo0W6bIVfCh7yBdCi7wbx614gFcfSPrgo3B/e3+4w+1/jFghVJpw05Jjlc/6alwUIlWTd64B8xoPXD53Dpryqab6uWhNFwfHTZn2H9wm08UHxv6nPBjIiUn/uIBJR6bnDnp5Yon8tBpIcX25aOozrGG4cUtI2C+CmVrg==;m/UzO1Cp4vFZxbUU8h5J5Q=="
+secured: "de6kBrsVoVbBw40HUxoZdbswW6GgXihzmlUXEYEQ+aHQxtugXO9Vjn9cCw9xK4QBkfUaqHzV+qNiSZ7V3/j55MGk6JmdtIvKa9N42EedVU1jcfCDAM7XK3iQIXrR5k0zhhOdD7N5xLJ+ACtb9PnIOvAPKQGmaE+gat57+++H0m/lxAatvMj3TWFN9WhUCXbCMH3MdEqc4p13YFHwk0Lh9IBRYCRX1RbHj1kspkkVdi+LNjm0STabzOtjrNoaFjxxu6woQT5LDussanCc4WSq0IgpI9ypTkwauLKTWRL06pA5n/v7ndiW7LFvIPB0mOiSJdK64FjJHgfgz205XbcfgpA/WlUM06uZWYhWZzk4hzg=;cGDQNYkK3DHclrdXBbUq2w=="
 ---
 
