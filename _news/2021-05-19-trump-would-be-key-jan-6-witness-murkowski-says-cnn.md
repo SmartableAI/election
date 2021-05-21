@@ -23,21 +23,21 @@ topics:
   - Donald Trump
 
 related:
-  - title: "McCarthy says he would testify about conversation with Trump during Jan. 6 Capitol assault"
-    excerpt: "House Minority Leader Kevin McCarthy took a swipe at the \"Pelosi commission\" to investigate the Jan. 6 Capitol attack as one plagued with politics."
-    publishedDateTime: 2021-05-20T18:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
+  - title: "Trump Justice Dept. secretly obtained CNN correspondent’s phone, email records"
+    excerpt: "The revelation underscores how the previous administration was willing to seek journalists’ data to investigate unwanted disclosures."
+    publishedDateTime: 2021-05-21T04:51:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 115
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
     images:
-      - url: "https://s.abcnews.com/images/Politics/kevin-mccarthy-presser-02-rt-jef-210520_1621534095132_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LQQAWZW3RAI6RNZSHRZMX4JR6I.jpg&w=1440"
+        width: 1440
+        height: 890
         isCached: true
 
 secured: "FdkVnihfzVUvklsj8IAd74vuclmmL5kHGj55WQ4JeEgYeUw22MiJYK4MsaDWacbB/4WyOVktyXlcQs0xCZYbqebvx7MPoyf1ayBGYFXpoRIIU29CN5TdvRkxhkgSyBSvc2bEYxpgifODMpx+x0D+9vk/+YtjZEStbNFm9xac5IRc6FXqnD8OefDoKmGnC6gz5t6A4B8Usj+FTlD9I7fjjbHrcQp2PBWnb+H7vk+Ewe274YfHD4iFjBTQWB/5n/dhCsVh1TwMEgex49VJosGZrcF4BOv58gXFGtuAu9iJeiI3jIy9NG+h3H0DK3gSUkCpJXzFSUKnD/rqmLHI6Fz9ZatXPUiZojs0m0hPG6PjPPEher7WkfB6c/9j2eAVwRHS3vy9iD51VGQBiMDdZW/YaV+XzeKoyMdXFkA+vdXANkvFCQOZdOJqNRweru19koQSqIzVR6K6PMQSZGH/ngWtw1d7OvKmL+2NIU+Y0YhBEKZmxFwbQKtxZwPQQ/I218GiWnzZtMIb/YP9E1Kz64DkTQ==;ebS4ssAYMzMxkjk8+DCpZw=="

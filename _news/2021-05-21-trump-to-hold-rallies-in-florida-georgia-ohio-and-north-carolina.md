@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Trump heading to battleground NC to headline state GOP convention"
-excerpt: "Former President Trump will attend the North Carolina GOP's state convention in Greenville on June 5 and will speak at the convention dinner, the state party shared first with Fox News."
-publishedDateTime: 2021-05-17T12:15:58Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vlEerDedMbA/trump-north-carolina-visit-state-gop-convention"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vlEerDedMbA/trump-north-carolina-visit-state-gop-convention"
-ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp"
+title: "Trump to hold rallies in Florida, Georgia, Ohio and North Carolina"
+excerpt: "Former President Donald Trump will hold a series of “campaign-style” rallies in notable battleground states this summer, but wouldn’t confirm if he’ll run for office in"
+publishedDateTime: 2021-05-21T04:53:00Z
+originalUrl: "https://nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/"
+webUrl: "https://nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/"
+ampWebUrl: "https://nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/amp/"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-to-hold-rallies-219.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -42,6 +39,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump heading to battleground NC to headline state GOP convention"
+    excerpt: "Former President Trump will attend the North Carolina GOP's state convention in Greenville on June 5 and will speak at the convention dinner, the state party shared first with Fox News."
+    publishedDateTime: 2021-05-17T12:15:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vlEerDedMbA/trump-north-carolina-visit-state-gop-convention"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
@@ -111,22 +124,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump to hold rallies in Florida, Georgia, Ohio and North Carolina"
-    excerpt: "Former President Donald Trump will hold a series of “campaign-style” rallies in notable battleground states this summer, but wouldn’t confirm if he’ll run for office in"
-    publishedDateTime: 2021-05-21T04:53:00Z
-    webUrl: "https://nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/"
-    ampWebUrl: "https://nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-to-hold-rallies-219.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump, GOP leaders join forces to sink Jan. 6 commission"
     excerpt: "Whatever the merits of a commission to be run by outside appointees, Republican leaders viewed it as a dagger aimed at former President Donald Trump."
     publishedDateTime: 2021-05-20T06:48:00Z
@@ -158,6 +155,6 @@ related:
         height: 500
         isCached: true
 
-secured: "BE/ZpgmuYRS9jk83Lb1UlaCXOV2efVIWgMeRJ6qMXQvvWXNjRi+866p9cMLDF1y6Eqffj3mXcSPUemKkiBql81g1mAqixuzFDyu5MBVseSdTAtOlt8KxOLhILHH/6OSj6hTzwzEaC96Sdattd7+pnKKbXE/CIXfS5Wb4DP97HgE/ITeZo65/HuXu/7fUR0DeaMwV9HZM6oGlpY1h7z7T1oDyX7BcE8zoLu/xQuY2qWjXNuF8lsdCCd4i8d/PGd3bDoCpvmwh9sY7VLD4c4EWJwr/ulFo3SALMsVJvocszPfJYaH4IYLalJAhugw7deIwpkA4kI+zf2hceVz4VLBkKaOklrsDTHzUVKnjuF6SxZs=;5rUvcAOUq0i7tDD5P7VGuQ=="
+secured: "iRC1McyYbw+gECDDCLsLSn00n0twgElo+QjDj+f0hro29eXmOLrnM2iJugNXZ6KcVq8U/+TFwUKS3jGdSqkvo2dYQw4uzjuZM7JHw87QS7lHoDKJsWtsMq2Nr3ZJuVSAhgcdJ1rLdzoHALxxtjCuzFqhHa3kVVXN65dW7kAqApSQ1n618ccLuTIFfDZEVWeOJNMGZATq4urg0O6bdMuguOJIFF3lNVTvGffAQg/kWr/dGcbsS1gIvAKKIwBKFFJKncNbrD7wZAdfyli/CFrrXaojvhBBvFVUkmdzIzLKUgXlFPMo9yThps55rJGJRNMMBM/uMB/NrWL0cs6Rqwt1OkXlZh9Knym5YrwjCSbEFL0=;mcHKGss2NoJiDwKU5dvFlA=="
 ---
 

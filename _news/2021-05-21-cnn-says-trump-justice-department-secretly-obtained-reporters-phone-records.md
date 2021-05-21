@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Washington Post: Trump Justice Department got reporters’ phone records"
-excerpt: "The Washington Post reported on Friday that the Department of Justice under former President Donald Trump secretly obtained phone records from some of the newspaper's reporters. The Post reported that the DOJ sent letters dated May 3 to Post reporters Ellen Nakashima and Greg Miller,"
-publishedDateTime: 2021-05-07T23:16:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/05/07/washington-post-trump-doj-got-reporters-phone-records/4997276001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/05/07/washington-post-trump-doj-got-reporters-phone-records/4997276001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4997276001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4997276001"
+title: "CNN says Trump Justice Department secretly obtained reporter’s phone records"
+excerpt: "The revelation comes two weeks after The Washington Post disclosed that the Justice Department had last year seized phone records belonging to three current and former journalists."
+publishedDateTime: 2021-05-21T02:06:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
 type: article
-quality: 125
-heat: 305
-published: true
+quality: 122
+heat: -1
+published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/03/24/USATODAY/usatsports/justice-department-getty-fool-1.jpg?auto=webp&format=pjpg&width=1200"
+  - url: "https://www.chicagotribune.com/resizer/sB5cQgbvIQZhpKMxyt-M95yTIwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NRXIDCVBOSJ4I3MD7H43RSYGNU.jpg"
     width: 1200
-    height: 675
+    height: 800
     isCached: true
 
 related:
+  - title: "Washington Post: Trump Justice Department got reporters’ phone records"
+    excerpt: "The Washington Post reported on Friday that the Department of Justice under former President Donald Trump secretly obtained phone records from some of the newspaper's reporters. The Post reported that the DOJ sent letters dated May 3 to Post reporters Ellen Nakashima and Greg Miller,"
+    publishedDateTime: 2021-05-07T23:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/07/washington-post-trump-doj-got-reporters-phone-records/4997276001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4997276001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4997276001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/03/24/USATODAY/usatsports/justice-department-getty-fool-1.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Rightwingers tried to discredit Trump ‘foes’ with honey trap plot – report"
     excerpt: "Efforts included ‘planned sting operation’ targeting HR McMaster and fake dating app profiles to attract FBI, says New York Times"
     publishedDateTime: 2021-05-14T15:09:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/7a943b4fe245e30044c7bfeb933f67199417b577/0_384_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e47269d2856f59946d84a4c0b2f34d9b"
         width: 600
         height: 360
-        isCached: true
-  - title: "CNN says Trump Justice Department secretly obtained reporter’s phone records"
-    excerpt: "The revelation comes two weeks after The Washington Post disclosed that the Justice Department had last year seized phone records belonging to three current and former journalists."
-    publishedDateTime: 2021-05-21T02:06:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 122
-    images:
-      - url: "https://www.chicagotribune.com/resizer/sB5cQgbvIQZhpKMxyt-M95yTIwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NRXIDCVBOSJ4I3MD7H43RSYGNU.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Washington Post says Trump Justice Department secretly seized reporters’ phone records"
     excerpt: "The Trump Justice Department secretly seized the phone records of three Washington Post reporters who covered the federal investigation into ties between Russia and Donald Trump’s 2016 presidential campaign,"
@@ -169,6 +169,6 @@ related:
       domain: usnews.com
     quality: 52
 
-secured: "QOzTEBDGg5TmFegvB0o/6oO3bAKrrRNi9TC0gQM+6P0ZH6hReRzzV2R9/IWWdUFxsggKB/pYqSm61uuAoTe3WqkdBYWPOgXM7Ceb/6bc5Hw24X1MQPOy1/hrbC5nuvdqZhNGd8GSzxqQEU9BLEeXSh5StrFRD6dLbT4l+v47BxiHXCXfZ4Bz81d0BRQMHn9rZOnAXpsDervj/VZxvbTZut2FIV/hZD8xx7IrCiC7uu8DFLBPH/+psvQDqhiqZJJ3cgsIprXCx+pA1aRV7fB+iudhR0X+2V8jnkHK7MKHE+KPtCYXqpRIonMiEnvXvg9rc1COH0h26oOwxtXwWFrvU1KODJJps1vAAo2gtUWU5lHqiUX8JjTfax4+/C8JXWV2WEOk7XFu9HGQ6/7clupQ9lhjX3JS8aMWLAPWFw0t+dlgE/xCmMFGE5I4iJ9wqlagnjYA0zjZB0xGXgCFWe37vOILrTCNGXTVCIGNqlJf+4BHNBeZQI+D2oPoRHCADYNasjxf5OfFsYL5npDmYq4gPg==;Qowco6TqcUors1TlPyVNyQ=="
+secured: "nOioV+z6Uj8tqN6ZqnvXzJXbaYutrL50zmftB8i/TGNx4jHCxWviQVF7StcD5jC5KPJR4rzP5hoMqpdBgy2kYbQpSP4stivVS+i8EyQQNE6fLIcRVfy5N2lD/rbzs0syiOLs9mIvEAeQ3SUGePDi0KeJTF8BMfCeWKhL2wCrfiDl2TXy7qeRct+OLCk4hS5YwRV+RTJdPQ1WS6UQer2cEZ6wCSiOBgjfTZB0/auE/1XRkieFRjgEr+WuZxKhaOA52QUQ3jO095Qj9be1eDaEYv3UsotvApZ0OKvJSIRv0sG38Z09nJIEC05/eabuLFcx8FS3L0fGGBRMdcYiyL2XZZnOwfN2ChoK55A4VElv4U0=;ZLuq6IGi89K+ht/u07BaDQ=="
 ---
 

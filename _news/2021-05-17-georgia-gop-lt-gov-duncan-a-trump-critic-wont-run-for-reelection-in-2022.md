@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp"
 type: article
 quality: 187
-heat: 327
+heat: 347
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-nc-convention-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump to hold rallies in Florida, Georgia, Ohio and North Carolina"
+    excerpt: "Former President Donald Trump will hold a series of “campaign-style” rallies in notable battleground states this summer, but wouldn’t confirm if he’ll run for office in"
+    publishedDateTime: 2021-05-21T04:53:00Z
+    webUrl: "https://nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/"
+    ampWebUrl: "https://nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-to-hold-rallies-219.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

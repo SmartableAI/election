@@ -126,6 +126,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump to hold rallies in Florida, Georgia, Ohio and North Carolina"
+    excerpt: "Former President Donald Trump will hold a series of “campaign-style” rallies in notable battleground states this summer, but wouldn’t confirm if he’ll run for office in"
+    publishedDateTime: 2021-05-21T04:53:00Z
+    webUrl: "https://nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/"
+    ampWebUrl: "https://nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-to-hold-rallies-219.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Bet On It. Trump Is Running."
     excerpt: "President Donald Trump wants to run for president in 2024, and so he shall. The story some Republicans like to tell themselves -- that Trump will not run again for the White House because he knows he can't win and he's smart enough to see the glory in being a GOP kingmaker -- is wishful thinking."
     publishedDateTime: 2021-05-16T10:18:00Z
