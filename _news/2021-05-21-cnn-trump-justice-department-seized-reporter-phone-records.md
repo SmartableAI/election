@@ -1,29 +1,33 @@
 ---
 category: news
 title: "CNN: Trump Justice Department seized reporter phone records"
-excerpt: "The Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent, the network said Thursday in revealing the existence of another apparent leak investigation aimed at identifying a journalist's sources."
-publishedDateTime: 2021-05-20T23:51:00Z
-originalUrl: "https://www.chron.com/entertainment/article/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
-webUrl: "https://www.chron.com/entertainment/article/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
-ampWebUrl: "https://www.chron.com/entertainment/amp/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
+excerpt: "CNN says the Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent"
+publishedDateTime: 2021-05-20T23:19:00Z
+originalUrl: "https://abcnews.go.com/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
+webUrl: "https://abcnews.go.com/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
+ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.abcnews.com/images/Entertainment/WireAP_47b26d87f8f14e2b8e0e6fd8609a3d1c_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -165,6 +169,6 @@ related:
       domain: usnews.com
     quality: 52
 
-secured: "RpQrap0Iu7ZvKuPgS0u/02/EJd11qRFqqINqv/ghhqzgIG7fWWYJi5i6svyxe7QKQltCdrayjHiGkH5pdoDepYnvw7VYTjvat/XO/hMGdkV4qBd1Jt94AjMv9t89K6lCzdKDJdBcrn7Zlzpct77xmlmJkdVjbtNC+tO+cGr6rYzNFKyOciiJ2Yk8fGabM2QvOo5zJBnAi7vTNxJC9GV5RRsFEP+PIaKuAftvw5MYALbrn/uX5o9yA+vbqfphQ6aMETsijYiJ81ERZCEMpSbpUQ4T4VEpjN2WsRoQtJQB7LTCJJkK9d5XYcYDrkmUBRxLjzCzH3nJ5kvRyF6fROY9zMDvZ0eTDqRglV2VnzHDihxABLeV2ZqlB/Um2AKiSY4QB1hMlN+frSuAobZeRq4+Pht2fOMu6m4mOnAF6va0rnF1uLsWnCom1/5yi84rr/QLFFBB8SwG4cCranaZmHjRTyfwPCOR+yxeX2WES9A8COnP6XQWl+C7Cbqy8AL948K18iQKdxIgjYya207xTcCZyw==;fWj+9xKSw3aotoW/8Dfd5w=="
+secured: "SOnV3LBdb4anr+MVLr9gf760VBZ3rqRiXYBr+QZDdwMwRmdWgomFee3f/xQQ71pdNxmVClGWa28lsf0l9nUo+iJ9y0Ct8RWPy5Iuy0V7eF2hY+kgEIBpGW3arudjpbKJDfvIhPtJteTgjWLJsFVrjD2pfjRYxiW3CrPc/6rwaIqsV25GS6XTlYTY5d/i3ZZdnt66AScdGJIl6r8YYmMhtJLc/wY63DsOP4jMr4pagx2dnNShlSleBXGb88nthCNnVwxcvpYUMQuCrcNdkb1VXISZpwzZePHBU/Qp6+qmJrnMurQmEYGWJTGIdRVxnslGY5WF+Xe8wNj2EXhr5pnpFx9UV18u0uQ0BpQVs1MHd5I=;hBmVbStjuimeLPJf97fOWw=="
 ---
 

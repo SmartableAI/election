@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden pledges aggressive response to pipeline cyberattackers"
-excerpt: "President Joe Biden has warned gasoline stations not to engage in price gouging as motorists wait for fuel to start flowing reliably through the Colonial Pipeline"
-publishedDateTime: 2021-05-13T17:39:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+title: "Biden orders U.S. agencies to assess, mitigate risks of climate change"
+excerpt: "President Joe Biden on Thursday directed federal agencies to assess and mitigate the increasing and serious risks that climate change poses to individuals, businesses, the federal government and the U."
+publishedDateTime: 2021-05-21T03:32:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-climate-idINKCN2D12OO"
+webUrl: "https://www.reuters.com/article/us-usa-biden-climate-idINKCN2D12OO"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN2D12OO"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN2D12OO"
 type: article
 quality: 125
-heat: 285
-published: true
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHX4FJFUBUI6XPEW7X2V3ZB354.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210520&t=2&i=1562871778&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4J1E4"
+    width: 817
+    height: 545
     isCached: true
 
 related:
+  - title: "Biden pledges aggressive response to pipeline cyberattackers"
+    excerpt: "President Joe Biden has warned gasoline stations not to engage in price gouging as motorists wait for fuel to start flowing reliably through the Colonial Pipeline"
+    publishedDateTime: 2021-05-13T17:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHX4FJFUBUI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Colonial pipeline reaching full capacity after cyberattack, Biden says"
     excerpt: "Bloomberg reports that Colonial, which carries 100m gallons a day, paid extortion fee in ‘untraceable cryptocurrency’"
     publishedDateTime: 2021-05-13T19:01:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/480c425c52383208147ee6c40bfc9df21b222215/0_130_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=643cb58853338c3a656190ac35c126a8"
         width: 600
         height: 360
-        isCached: true
-  - title: "Biden orders U.S. agencies to assess, mitigate risks of climate change"
-    excerpt: "President Joe Biden on Thursday directed federal agencies to assess and mitigate the increasing and serious risks that climate change poses to individuals, businesses, the federal government and the U."
-    publishedDateTime: 2021-05-21T03:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-climate-idINKCN2D12OO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN2D12OO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN2D12OO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210520&t=2&i=1562871778&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4J1E4"
-        width: 817
-        height: 545
         isCached: true
   - title: "Joe Biden Says Kremlin Not Behind Colonial Pipeline Attack, But Thinks Attackers 'Live in Russia'"
     excerpt: "President Joe Biden said he does not believe the Russian government is behind the cyberattack on the Colonial Pipeline but has reason to believe the criminals live in Russia."
@@ -149,6 +149,6 @@ related:
         height: 433
         isCached: true
 
-secured: "6GWAWb2QXp4CEwZHTp9FWYVthNyuj4YTpNLJzdUuEZXKxHa8j8dqyy0ndfJTuRtOvRVSGrYd8ppUZ6spB43E1mol+9W3uneydiUBgtWIhh3cVIUVpkF10IkwqDFOPglfkS9J+xYJ2KxTiQhVWFtwPF9l/oIOQ7ezcB+4VKiMWH4m4EFrvD13rukaQw5ssD1Qs8Pye/Y5p1NoXaAaC/JItDZvDE6frIBl5/80goJWEhG+mzR+lQxvCcgC602k0lv2SEfjJanZmmYgwRi3IxahxOSTySUI55c7T23ObOfYPlbbQfemv880Rd1pOWiJbFcXT1dGWNZU0Tq+/YMS/vw6aOnWl5v0963kQbq8PFZ+HdU=;6hql/NNtLzdgvtzkQaSDaQ=="
+secured: "mjzBSCarzEpajczDnzSMzIpIMTzrBTKK5/icFNItpYvh48ffuWVqkWvYpt5pNTszLSPWoyDMWVWlQmc0iYYkE1Hn93AXPujXJwksCSK5b4AVD3+GCz5JX+B20ehe6r7786/MMdRtN9m8QNcVL24xm+CMVQQvfrr3jiWIWNMEx95KgWCXyHQGXVpvM3NjZh7pxoroJEHaLi2c8l4iDoUonoNNYUROU0u7yiys/omdDOahBci5eyWB5j5Lw3hpNy8jKrLDeDfhsykkWcpJpifzrlXav1oJkEuqIdD9ts7y774AiNMEMmBH1g2nA/mUsp0FFffzXL0L+KUSfM8TPyK3cRopxBX6HA10FQaoQ3pmfSk=;j5tI3xnrm+kPoPh3S/4a6Q=="
 ---
 

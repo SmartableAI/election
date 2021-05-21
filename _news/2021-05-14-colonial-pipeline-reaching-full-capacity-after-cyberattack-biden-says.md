@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden orders U.S. agencies to assess, mitigate risks of climate change"
+    excerpt: "President Joe Biden on Thursday directed federal agencies to assess and mitigate the increasing and serious risks that climate change poses to individuals, businesses, the federal government and the U."
+    publishedDateTime: 2021-05-21T03:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-climate-idINKCN2D12OO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN2D12OO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN2D12OO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210520&t=2&i=1562871778&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4J1E4"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Joe Biden Says Kremlin Not Behind Colonial Pipeline Attack, But Thinks Attackers 'Live in Russia'"
     excerpt: "President Joe Biden said he does not believe the Russian government is behind the cyberattack on the Colonial Pipeline but has reason to believe the criminals live in Russia."
     publishedDateTime: 2021-05-13T19:22:00Z
