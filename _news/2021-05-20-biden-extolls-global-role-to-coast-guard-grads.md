@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden directs US to mitigate financial risk from climate"
+    excerpt: "President Joe Biden is directing federal agencies to develop a comprehensive strategy to identify and manage financial risks to government and the private sector posed by climate change"
+    publishedDateTime: 2021-05-20T23:02:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-directs-us-mitigate-financial-risk-climate-77815977"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-directs-us-mitigate-financial-risk-climate-77815977"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-directs-us-mitigate-financial-risk-climate-77815977"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d5433e5cc9b54d29bd7cf89f9ebaf1a2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'U.S. Welcome Patrol': how some border agents are struggling with Biden's policy shift"
     excerpt: "Some U.S. border patrol agents are so frustrated with President Joe Biden's more liberal border policies that they are considering early retirement, while other disgruntled colleagues are buying unofficial coins that say 'U."
     publishedDateTime: 2021-05-14T12:25:00Z

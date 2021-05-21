@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Biden to tap Homendy to head NTSB, White House confirms"
-excerpt: "The White House confirmed on Wednesday that President Joe Biden plans to nominate Jennifer Homendy to chair the National Transportation Safety Board (NTSB)."
-publishedDateTime: 2021-05-20T02:38:00Z
-originalUrl: "https://www.reuters.com/article/idUSL2N2N630R"
-webUrl: "https://www.reuters.com/article/idUSL2N2N630R"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N630R"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N630R"
+title: "Biden directs US to mitigate financial risk from climate"
+excerpt: "President Joe Biden is directing federal agencies to develop a comprehensive strategy to identify and manage financial risks to government and the private sector posed by climate change"
+publishedDateTime: 2021-05-20T23:02:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-directs-us-mitigate-financial-risk-climate-77815977"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-directs-us-mitigate-financial-risk-climate-77815977"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-directs-us-mitigate-financial-risk-climate-77815977"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-directs-us-mitigate-financial-risk-climate-77815977"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_d5433e5cc9b54d29bd7cf89f9ebaf1a2_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Supreme Court could cut into Biden agenda: The Note"
@@ -38,22 +44,6 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/supreme-court-gty-jef-210517_1621286530595_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden directs US to mitigate financial risk from climate"
-    excerpt: "President Joe Biden is directing federal agencies to develop a comprehensive strategy to identify and manage financial risks to government and the private sector posed by climate change"
-    publishedDateTime: 2021-05-20T23:02:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-directs-us-mitigate-financial-risk-climate-77815977"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-directs-us-mitigate-financial-risk-climate-77815977"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-directs-us-mitigate-financial-risk-climate-77815977"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d5433e5cc9b54d29bd7cf89f9ebaf1a2_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -87,6 +77,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden to tap Homendy to head NTSB, White House confirms"
+    excerpt: "The White House confirmed on Wednesday that President Joe Biden plans to nominate Jennifer Homendy to chair the National Transportation Safety Board (NTSB)."
+    publishedDateTime: 2021-05-20T02:38:00Z
+    webUrl: "https://www.reuters.com/article/idUSL2N2N630R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N630R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N630R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "President Joe Biden Departs White House for Connecticut"
     excerpt: "US President Joe Biden walks on the ellipse to board Marine One at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden Departs White House for Connecticut for the US Coast Guards 140th commencement."
     publishedDateTime: 2021-05-19T13:31:00Z
@@ -116,6 +117,6 @@ related:
         height: 897
         isCached: true
 
-secured: "5RT5rw1cRIsBwnJKKcCkKmEfmzqp01o8PmT4xebbqJXEn2/5zuY5YLj9WFTq0N+EcLmX/WUs88m0dolrkBGAnoE6EePPANixcs5XqODcJS4WqomETNhFels/PPXKe6uOV/+1wYCfA088x9YYFKnlAU9igK+AnAX3ficbaKzjwihAbde58yN6FwAG3ZXB/STNy8Auen0MhRktXb9If2y8gONl9TJbZQpSCGptNp2S2j3QBn9NlkKcXEU9h8g6XvlGlS1VC5+ncrxxNQcly8gBFbMaPbh2qs90dC51lOj2bIhT9IPyBewRAfGTjZTGl4KU7cVKcU6x7quILONYQU0LuV9zwly3/ctHEGABLbMfFeE=;eDIPgn4i41kb5YvcP1dNEg=="
+secured: "eSffJrZqo+hZDgo+02h+NpCo8qq5LausJmeR8/pvUp2TXjGFqWcmYVpNcYofwhb9l+mpriMfQALl8vmlXsAbvJu7V2hIMJUH9NIaQv2PLk2dxISdVJWXW+ceVTzsGjYXtI19pqY7cCXcgOrlxZDenD/jf888Tc8rHh3xf2dsmshTliuKvyz3jM8MWY+71XgHJybWQ0bX65BHWZUCBYMbY4fjNi35pQUUN72bSuyiRr2YyTZzf16tjcndWZRdRyRSuBFT25zbAdFTeq4jv0Ly4Yqgv2rj0vPJued5zb9j4gN0o1mEPoMRRPNXoqGh094HG6+exNF8Dq15RnWfbfZnlWIECoifKvdd+nfyj5CM9kM=;V76LujVv/g72e2UhFwqlXQ=="
 ---
 
