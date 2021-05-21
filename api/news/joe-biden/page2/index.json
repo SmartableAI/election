@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-10-ap-norc-poll-biden-approval-buoyed-by-his-pandemic-response.md",
+      "title": "AP-NORC poll: Biden approval buoyed by his pandemic response",
+      "excerpt": "President Joe Biden is entering the next phase of his administration with the steady approval of a majority of Americans",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-biden-approval-buoyed-pandemic-response-77598908",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-biden-approval-buoyed-pandemic-response-77598908",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_1dbd7ae9d62042af9c8ad0ac023f319c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-biden-approval-buoyed-pandemic-response-77598908",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-biden-approval-buoyed-pandemic-response-77598908",
+      "publishedDateTime": "2021-05-10T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-pastor-greg-locke-attacks-joe-biden-calls-pope-biggest-pedophile-on-the-planet.md",
       "title": "Pastor Greg Locke Attacks Joe Biden, Calls Pope 'Biggest Pedophile on the Planet'",
       "excerpt": "People tell me \"Joe Biden is a practicing Catholic,\" Locke said. \"So is the pope but he's the biggest pedophile on the planet.\"",
@@ -1536,58 +1588,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-president-biden-nominates-texas-sheriff-ed-gonzalez-to-head-ice.md",
-      "title": "President Biden nominates Texas Sheriff Ed Gonzalez to head ICE",
-      "excerpt": "President Joe Biden has announced Sheriff Ed Gonzalez of Harris County, Texas, as his nominee for director of Immigration and Customs Enforcement. He was included on a list of 11 nominations for key national security positions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/27/biden-names-harris-county-sheriff-ed-gonzalez-head-ice/4864492001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/27/biden-names-harris-county-sheriff-ed-gonzalez-head-ice/4864492001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/81d9cce7b7d1a0276ff2f5a1f631b49764f09684/c=0-229-3061-1958/local/-/media/2017/01/31/USATODAY/USATODAY/636214873441033287-USP-NFL-SUPER-BOWL-LI-SECURITY-PRESS-CONFERENCE-88450154.JPG?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4864492001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4864492001",
-      "publishedDateTime": "2021-04-28T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

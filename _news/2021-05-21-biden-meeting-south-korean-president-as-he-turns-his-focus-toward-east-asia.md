@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden 'expressed his support for a ceasefire' in call with Israeli Prime Minister, White House says"
-excerpt: "The growing number of civilian deaths in the intensifying battle between Israel and Hamas in Gaza is causing worry inside the White House as officials work the phones with partners in the region.\n    \n"
-publishedDateTime: 2021-05-17T22:40:09Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5c_JUVHtrSI/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5c_JUVHtrSI/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/biden-israel-hamas-gaza/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/biden-israel-hamas-gaza/index.html"
+title: "Biden meeting South Korean President as he turns his focus toward East Asia"
+excerpt: "President Joe Biden is set to meet with his South Korean counterpart President Moon Jae-in on Friday, the second in-person meeting with a world leader of his presidency as he seeks to turn his foreign policy focus back to East Asia.\n    \n"
+publishedDateTime: 2021-05-21T15:28:06Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FWBIxpQC05I/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FWBIxpQC05I/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/biden-moon-south-korea-meeting/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/biden-moon-south-korea-meeting/index.html"
 type: article
-quality: 161
+quality: 173
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512170722-02-joe-biden-0512-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520232404-biden-moon-split-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden meeting South Korean President as he turns his focus toward East Asia"
-    excerpt: "President Joe Biden is set to meet with his South Korean counterpart President Moon Jae-in on Friday, the second in-person meeting with a world leader of his presidency as he seeks to turn his foreign policy focus back to East Asia.\n    \n"
-    publishedDateTime: 2021-05-21T15:28:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FWBIxpQC05I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/biden-moon-south-korea-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/biden-moon-south-korea-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520232404-biden-moon-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden singles out competition with Russia and China in Coast Guard commencement"
     excerpt: "President Joe Biden singled out competition with Russia and China as part of his vision for the military branch's role in national security as he addressed the United States Coast Guard Academy's 2021 graduating class on Wednesday.\n    \n"
     publishedDateTime: 2021-05-19T17:34:32Z
@@ -92,6 +76,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519125112-01-biden-coast-guard-commencement-0519-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden 'expressed his support for a ceasefire' in call with Israeli Prime Minister, White House says"
+    excerpt: "The growing number of civilian deaths in the intensifying battle between Israel and Hamas in Gaza is causing worry inside the White House as officials work the phones with partners in the region.\n    \n"
+    publishedDateTime: 2021-05-17T22:40:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5c_JUVHtrSI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/biden-israel-hamas-gaza/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/biden-israel-hamas-gaza/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512170722-02-joe-biden-0512-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -190,6 +190,6 @@ related:
         height: 619
         isCached: true
 
-secured: "t/xJh62f2FyKOTPFowfIONcHjdHx4nVVuts+3UXyaJIJFLjFkX0XWu00Gnoln7Sxaqn5n5ed1gZh0qR3oIz1BnPKsMh5g0i4RavVEsBb/MKsv4DlwRD06CH5HxeZZldTxmZHKa4l5RCGR3QaLO4FRxmTxqWjHqNehGjchioxKZWauWKwPbEqDIT5b+Ivo6Wt0h1oSVRX4PsdYEsjtRQxzu3JPUajwj7jsNrC4luN3asPhBLnubDbrZgdDsQKEaploFXP1h4QTI7rQF2bKKkaMCV95ZHy8KOpNAwLF8/2Wf6dkDohJ/ZSF/YA6kTRYOEDiEUV6wMHWEOEkSAeNE0wmCQ5PFN/YqedvsDpIoKcyPs=;gSkla7gvcSLGgW4kxk7Gug=="
+secured: "fWqpiwzxL7Znbtf2vjGKdHOS/wcYhkVVjrUpK5GOUCDejKkmTCxc556k42LIyTn+6hDrgDjjOKWQCkfDYI768Q/+Ye23q/SuL7wGVoryti3fh+wPMZER/A4OOb5ArMKjYI3OA+qfQV4d4/bTJEK/iDaGxxar25ryR5WQaaEUfD1HNrFw7ORfJAWnVN6HldHBbNQcEy74acEkyhpNgT4OWOb2dozzq5gCt4sPrkjcrHMItZSkq8DP2bul6QVrwxYgA6PkuTLOUYTfX+AXheIDMRL8wkT1H4brxrZI7vjsYM0FnjY8NIdOoqwkvm5CA9w2aPr5j91ELm0AUcLYIhQ9eaIbPVTXv4FDbfRCg6nhkoE=;IbPvHwhQJsmEyD/n7ynSyw=="
 ---
 

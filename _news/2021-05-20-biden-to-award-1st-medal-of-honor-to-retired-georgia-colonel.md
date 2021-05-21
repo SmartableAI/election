@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-award-1st-medal-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-award-1st-medal-honor-retired-georgia-colonel-77787792"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden meets with Kennedy Center honorees at White House"
+    excerpt: "President Joe Biden spent Thursday morning in a star-studded meeting with this year’s Kennedy Center honorees. The president met at the White House with the recipients of the lifetime artistic achievement awards: country music legend Garth Brooks,"
+    publishedDateTime: 2021-05-20T20:48:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_5ac365c5e65e44b8992dfc210d726686_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden traveling to voting rights hot spot Georgia to promote plans to rebuild economy"
     excerpt: "President Joe Biden marks his 100th day in office with a trip to Georgia on Thursday, visiting former President Jimmy Carter and pitching his plans to spend trillions of dollars to rebuild the U.S. economy."
     publishedDateTime: 2021-04-29T14:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/18/business/17economy-briefing-steeltariffs/17economy-briefing-steeltariffs-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "CNN: Trump Justice Department seized reporter's email and phone records"
+    excerpt: "The DOJ secretly obtained Pentagon correspondent Barbara Starr's phone and email records in another apparent leak investigation to identify a journalist's sources."
+    publishedDateTime: 2021-05-21T14:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/cnn-trump-justice-department-seized-reporter-s-email-phone-records-n1268136"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268136"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268136"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476652/210521-doj-trump-mb-1530_b5f661bfa9dd8a5326b015d5a23c57a6.jpg"
+        width: 4000
+        height: 2667
         isCached: true
 
 secured: "qbWfHCjZUV6TloCU4iuTdJ1bJ+u+t9bmh8+jsjDF9PBtjPnkxY+b0Oqm6DehjxY+7Q9s4wjbY4pHs94lGUSfTTMvUpKTw2ZOIFNqrNfjwj1lhkoYykNQbJL7w1HCPC0wtAYFmQQoyXjCnKuufVjX4Pqtou25w7xkkbn961oHwHF+jUdC/tteLwymbWBSED7jUoSbvufATJbZRprBgRxTFof+x35lz7gv+JpjpyKOM670EF8lwKVmtpT2difhhyQb0hSdFAGRULB6F3N3iGjOw291cbuDNeO6vB27A9PVhSUMIesq1i1LiFHUYzalnBnq9jjauKENMvdnw1ILgNB8vvVpS7NigrhFVb5y9UlpdnQ=;znlJwlPE5/+6AEQOXlVkuA=="

@@ -41,6 +41,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Biden meets with Kennedy Center honorees at White House"
+    excerpt: "President Joe Biden spent Thursday morning in a star-studded meeting with this year’s Kennedy Center honorees. The president met at the White House with the recipients of the lifetime artistic achievement awards: country music legend Garth Brooks,"
+    publishedDateTime: 2021-05-20T20:48:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_5ac365c5e65e44b8992dfc210d726686_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "W//aLyA9xpy5xTPEFbC5Im70tqSfxLdToVL6mStUXmd2E/2VqvZVBA2cjXraVru0Pxk8PmMXMQBCNE/7VPlsI2+hqWFdqu2ihgvj+gvbBaDK3epJY6lAMHTNp6vsRGpcsek+A9cgqIlGh2FvKo6vSLofm5V1dQ3ScWe26O3e/+pRDLsKBaolcWy/1tXAFFZd5z/5w1/BYqgNSpWIUaRGAnwhZ2Qt5Z7TRnFX7vtpdLDffnP/ueS1BIy1NmeoJdGYmHCcd3rdnnSBth9WJBAfhIYh00nTOVK+pIRaHYeCMY/XjWxYU5ak/3C5fNKCQx8yRvFGyYgx2GxssxJ54rBZ7VkoMD10QqBQA/X0+oxgH0g=;b52ArpHpW8HQPJi727vnVw=="
 ---

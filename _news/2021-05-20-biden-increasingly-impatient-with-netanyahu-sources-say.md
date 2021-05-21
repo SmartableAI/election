@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden meeting South Korean President as he turns his focus toward East Asia"
+    excerpt: "President Joe Biden is set to meet with his South Korean counterpart President Moon Jae-in on Friday, the second in-person meeting with a world leader of his presidency as he seeks to turn his foreign policy focus back to East Asia.\n    \n"
+    publishedDateTime: 2021-05-21T15:28:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FWBIxpQC05I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/biden-moon-south-korea-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/biden-moon-south-korea-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520232404-biden-moon-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

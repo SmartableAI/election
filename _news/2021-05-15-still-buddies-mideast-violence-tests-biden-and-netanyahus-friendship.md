@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden meeting South Korean President as he turns his focus toward East Asia"
+    excerpt: "President Joe Biden is set to meet with his South Korean counterpart President Moon Jae-in on Friday, the second in-person meeting with a world leader of his presidency as he seeks to turn his foreign policy focus back to East Asia.\n    \n"
+    publishedDateTime: 2021-05-21T15:28:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FWBIxpQC05I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/biden-moon-south-korea-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/biden-moon-south-korea-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520232404-biden-moon-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden singles out competition with Russia and China in Coast Guard commencement"
     excerpt: "President Joe Biden singled out competition with Russia and China as part of his vision for the military branch's role in national security as he addressed the United States Coast Guard Academy's 2021 graduating class on Wednesday.\n    \n"
     publishedDateTime: 2021-05-19T17:34:32Z

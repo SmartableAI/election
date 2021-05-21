@@ -76,6 +76,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Inside the Simon & Schuster Blowup Over Its Mike Pence Book Deal"
+    excerpt: "Some of the book publisher’s employees and authors demanded it drop the potential blockbuster, saying it betrayed the company’s promise to oppose bigotry, while the CEO defended a commitment to a broad range of views."
+    publishedDateTime: 2021-05-21T13:23:00Z
+    webUrl: "https://www.wsj.com/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
+    ampWebUrl: "https://www.wsj.com/amp/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-341940/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Simon & Schuster Says Mike Pence Book Will Proceed, Despite Employee Petition"
     excerpt: "We come to work each day to publish, not cancel,” CEO Jonathan Karp says in a letter to staffers."
     publishedDateTime: 2021-04-20T18:53:00Z
