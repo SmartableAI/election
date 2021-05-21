@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-fuel-pipelines-mask-mandates.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-fuel-pipelines-mask-mandates.amp"
 type: article
 quality: 171
-heat: 211
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,147 @@ images:
     isCached: true
 
 related:
-  - title: "US military intercepted small aircraft in restricted airspace as Biden visited Delaware home"
-    excerpt: "The U.S. military intercepted a small aircraft that flew into restricted airspace over the weekend, grounding the pilot at a nearby airport in Pennsylvania as President Biden visited his home in Delaware."
-    publishedDateTime: 2021-05-18T02:01:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SZVVUQU-i4/us-military-intercepts-small-aircraft-restricted-airspace-biden-home"
-    ampWebUrl: "https://www.foxnews.com/politics/us-military-intercepts-small-aircraft-restricted-airspace-biden-home.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-military-intercepts-small-aircraft-restricted-airspace-biden-home.amp"
+  - title: "Biden tries to claim credit for cease-fire between Israel and Hamas"
+    excerpt: "As Israel and Hamas agreed to ceasefire after 11 days of fighting, President Biden vowed to help Israel replenish its Iron Dome system and to work with the Palestinian Authority to rebuild Gaza."
+    publishedDateTime: 2021-05-20T23:49:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/km75sX5cpHU/biden-israel-replenish-iron-dome-limit-hamas-rocket"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d00d31a1-6666-4ac8-b26f-64d7e428d11f/4d96ae63-73cc-421d-9348-814592008d48/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc6d2359-50d5-4e84-aa4c-65ce04c230a1/680d6431-b135-4af6-8c52-6631c7868a31/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "19 GOP AGs urge Biden to reinstate Keystone, protect energy infrastructure in wake of Colonial Pipeline attack"
-    excerpt: "Nineteen Republican attorneys general sent a letter to President Biden calling on his administration to support energy infrastructure, including reinstating the Keystone XL Pipeline permit, in light of the cyberattack that shut down the Colonial Pipeline."
-    publishedDateTime: 2021-05-18T15:26:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9RdlfEcj4oo/biden-colonial-pipeline-hack-energy-infrastructure"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-colonial-pipeline-hack-energy-infrastructure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-colonial-pipeline-hack-energy-infrastructure.amp"
+  - title: "Biden White House must expedite weapons to Israel, top foreign policy Republicans say"
+    excerpt: "FIRST ON FOX: The top Republicans on the Senate and House foreign policy committees are urging President Biden to expedite the planned weapons sales to Israel despite opposition from some Democrats concerned about further arming Israel amid the deadly Gaza conflict."
+    publishedDateTime: 2021-05-20T20:46:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qpQZoFUsun8/biden-white-house-expedite-weapons-israel-top-foreign-policy-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-expedite-weapons-israel-top-foreign-policy-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-expedite-weapons-israel-top-foreign-policy-republicans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Israel, Netanyahu continue to defy Biden with airstrikes amid more Hamas rocket fire"
+    excerpt: "Israel is still hammering the Gaza Strip with airstrikes Thursday and declared that it will \"continue to do so\" in response to Hamas rockets \"indiscriminately\" fired at Israelis despite admonitions from President Biden for a cease-fire. "
+    publishedDateTime: 2021-05-20T12:43:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9plqQQVJuz4/israel-netanyahu-defy-biden-de-escalation-airstrikes-hamas-rocket-fire"
+    ampWebUrl: "https://www.foxnews.com/politics/israel-netanyahu-defy-biden-de-escalation-airstrikes-hamas-rocket-fire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israel-netanyahu-defy-biden-de-escalation-airstrikes-hamas-rocket-fire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden tells Israel's Netanyahu he expects 'significant de-escalation' of Gaza conflict"
+    excerpt: "President Biden on Wednesday told Israeli Prime Minister Benjamin Netanyahu that he expects \"a significant de-escalation\" as part of the move to a potential cease-fire between Israel and Hamas."
+    publishedDateTime: 2021-05-19T14:42:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_eu4ufFYq8s/biden-israel-netanyahu-significant-de-escalation-gaza-conflict"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fc33b01-b1f5-4c90-b154-2f02da58297f/ac4bccbf-1f79-4fb1-af14-2841e4252b81/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Psaki: Biden has seen 'encouraging' cease-fire reports, tells Israel to 'start winding their operation down'"
+    excerpt: "Press secretary Jen Psaki said Thursday the White House has seen reports that Israel and Palestinian leaders might be nearing a cease-fire, reports she said were \"encouraging.\""
+    publishedDateTime: 2021-05-20T19:21:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pU5fkfTJNu8/biden-cease-fire-israel-gaza-winding-down"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cease-fire-israel-gaza-winding-down.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cease-fire-israel-gaza-winding-down.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21137590530322.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Ohio GOP House candidate Max Miller slams Biden approach to Middle East, says he would be 'champion of Israel'"
+    excerpt: "EXCLUSIVE: Republican congressional candidate and former Trump administration aide Max Miller slammed the Biden administration’s approach to the Middle East as a \"complete capitulation to terrorists,\" vowing, if elected, to be a \"champion of Israel.\" "
+    publishedDateTime: 2021-05-18T17:43:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsmQxjjhtWQ/ohio-gop-house-candidate-max-miller-biden-middle-east-israel"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-gop-house-candidate-max-miller-biden-middle-east-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-house-candidate-max-miller-biden-middle-east-israel.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 155
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5b385bd-529b-4849-bc3f-785b1c0964bb/e676a657-4d89-4bfb-ad99-f10aab3a5ea2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Pence slams Biden admin for trying to create a 'false equivalency' between Israel, Hamas"
+    excerpt: "EXCLUSIVE: Former Vice President Mike Pence slammed the Biden Administration for attempting to create a “false equivalency” between Israel and Hamas, saying he and former President Trump “set the table for lasting peace and an end to the decades-old conflict in the region,"
+    publishedDateTime: 2021-05-18T16:37:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-biden-admin-israel-hamas-false-equivalency"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-biden-admin-israel-hamas-false-equivalency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-admin-israel-hamas-false-equivalency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "New York Times ripped for appearing to blame Trump for ongoing violence between Hamas and Israel"
+    excerpt: "The New York Times was the focus of more criticism over the weekend following an article published Saturday that seemingly blamed former President Trump for the ongoing violence between Hamas and Israel."
+    publishedDateTime: 2021-05-17T20:35:00Z
+    webUrl: "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel"
+    ampWebUrl: "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c6b96e4-61b5-4ba4-bdbb-5dbaa6d9987a/c952dcd0-fb20-47d0-8450-b0c6b9b4f393/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Meghan McCain hits Biden's approach to Middle East violence: Support for Israel sounds like 'just words'"
+    excerpt: "Co-host of \"The View\" Meghan McCain took a swing at President Biden Thursday over his approach to the ongoing crisis in the Middle East between Israel and Hamas."
+    publishedDateTime: 2021-05-13T18:12:00Z
+    webUrl: "https://www.foxnews.com/media/meghan-mccain-joe-biden-middle-east-israel-support"
+    ampWebUrl: "https://www.foxnews.com/media/meghan-mccain-joe-biden-middle-east-israel-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/meghan-mccain-joe-biden-middle-east-israel-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/546b13d0-4db8-46ae-bd99-9bb074792e9c/c95c93ab-5bb1-4be0-a28c-050ef77c9493/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

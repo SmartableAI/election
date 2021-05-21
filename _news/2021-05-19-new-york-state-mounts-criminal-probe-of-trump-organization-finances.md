@@ -160,6 +160,22 @@ related:
         width: 2000
         height: 1301
         isCached: true
+  - title: "Eric Trump Called Out For Saying People Hug Him And Cry Because They Miss Donald Trump"
+    excerpt: "In his appearance on Fox News, Eric Trump claimed people have approached him to share how much they miss his father being in office. “More people have come up to me in the last week and given me hugs saying ‘we miss him so much."
+    publishedDateTime: 2021-05-20T18:41:00Z
+    webUrl: "https://www.ibtimes.com/eric-trump-called-out-saying-people-hug-him-cry-because-they-miss-donald-trump-3204275"
+    ampWebUrl: "https://www.ibtimes.com/eric-trump-called-out-saying-people-hug-him-cry-because-they-miss-donald-trump-3204275?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eric-trump-called-out-saying-people-hug-him-cry-because-they-miss-donald-trump-3204275?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/25/president-donald-trumps-son-eric-is-among-the.jpg"
+        width: 1024
+        height: 729
+        isCached: true
 
 secured: "vh2HiZgeBc7PTqToEtsLJgXlbwyFwC1vk3Aw/H2zSr/6yQ4jtJyfKGbrQZeSS8xXTFRgXIE69m/OP9jm86uHaGNHk9AxgjNd8MeXva5UlELUmPr0WyNMtfnc2donVfNkeWkwDERwQpC0dN2M7tyVbD/XM22R32Fdq2q4LJHdvAO2KUwkSx16Se935c6h1K69q15LUku81URSfrfqSWvq41h9jYSU1/XyTvzkPoL4LtqXHOMKzrNC7qg7rgP9pQAwbhn5YPcTJTDoLR8y2WgGxCA6tSX4sp+4YMZrD1UYEYndY8+djPwQLXZCcf3dd54lYSw/nn5xvEbT466NWLodCFarJLtaRuFVOZyU4/wu/0BOUuy3IFtO3+CohVJRCWlTIZsM89cP3RjhxQuWjBt5ZKnz7BBJJo3YUsfGwJGD/YutC8+vtHCg44b/W54EEBq8mkoJW4/9UVXW1X3Q5jQIlpIrXssWaTTnOMxsC13Jm7PtEZm+glKoRc8AEMjnGHvU1gOzMU185HWjw1xgFpeprQ==;fq2EC/TYMUWe+vzBXATeHA=="
 ---

@@ -32,35 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "AOC criticizes Biden statement of support for Israel as siding with 'occupation'"
-    excerpt: "U.S. Rep. Alexandria Ocasio-Cortez, D-N.Y., criticized President Biden over his Wednesday statement of support for Israel amid escalating violence with Hamas, claiming he gave little context for what stoked the tensions and was consequently “siding with occupation.”"
-    publishedDateTime: 2021-05-13T05:10:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wNI60u2TCG4/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation.amp"
+  - title: "Biden tries to claim credit for cease-fire between Israel and Hamas"
+    excerpt: "As Israel and Hamas agreed to ceasefire after 11 days of fighting, President Biden vowed to help Israel replenish its Iron Dome system and to work with the Palestinian Authority to rebuild Gaza."
+    publishedDateTime: 2021-05-20T23:49:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/km75sX5cpHU/biden-israel-replenish-iron-dome-limit-hamas-rocket"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10fce050-6dfa-430f-9d44-b46217b4aa55/8e11a4a9-96be-45e4-b6f4-6430454f1d93/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc6d2359-50d5-4e84-aa4c-65ce04c230a1/680d6431-b135-4af6-8c52-6631c7868a31/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Gen. Keane: Biden must call out Hamas terror attacks on Israel 'without equivocation'"
-    excerpt: "Fox News Senior Strategic Analyst Gen. Jack Keane said on Wednesday that the Biden administration “must call out Hamas as a terrorist without equivocation.”"
-    publishedDateTime: 2021-05-12T19:12:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IvCc7R5rQvE/biden-must-call-out-hamas-as-terrorists-without-equivocation-gen-jack-keane"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-must-call-out-hamas-as-terrorists-without-equivocation-gen-jack-keane.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-must-call-out-hamas-as-terrorists-without-equivocation-gen-jack-keane.amp"
+  - title: "Biden admin's mixed messages on fuel pipelines are as muddled as mask mandates"
+    excerpt: "Biden administration officials have sported blatant hypocrisy between prioritizing the Colonial Pipeline over the Keystone and their quick change of heart on coronavirus masking."
+    publishedDateTime: 2021-05-18T10:12:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BuniH_UNh00/biden-fuel-pipelines-mask-mandates"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-fuel-pipelines-mask-mandates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-fuel-pipelines-mask-mandates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e650873-a2f8-4a79-9700-b2a47fedc70f/56f7d7e0-f556-4494-b172-23b97bef386e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden White House must expedite weapons to Israel, top foreign policy Republicans say"
+    excerpt: "FIRST ON FOX: The top Republicans on the Senate and House foreign policy committees are urging President Biden to expedite the planned weapons sales to Israel despite opposition from some Democrats concerned about further arming Israel amid the deadly Gaza conflict."
+    publishedDateTime: 2021-05-20T20:46:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qpQZoFUsun8/biden-white-house-expedite-weapons-israel-top-foreign-policy-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-expedite-weapons-israel-top-foreign-policy-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-expedite-weapons-israel-top-foreign-policy-republicans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Israel, Netanyahu continue to defy Biden with airstrikes amid more Hamas rocket fire"
+    excerpt: "Israel is still hammering the Gaza Strip with airstrikes Thursday and declared that it will \"continue to do so\" in response to Hamas rockets \"indiscriminately\" fired at Israelis despite admonitions from President Biden for a cease-fire. "
+    publishedDateTime: 2021-05-20T12:43:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9plqQQVJuz4/israel-netanyahu-defy-biden-de-escalation-airstrikes-hamas-rocket-fire"
+    ampWebUrl: "https://www.foxnews.com/politics/israel-netanyahu-defy-biden-de-escalation-airstrikes-hamas-rocket-fire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israel-netanyahu-defy-biden-de-escalation-airstrikes-hamas-rocket-fire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -80,35 +112,51 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden faces criticism from Democrats and Republicans over escalating Israeli-Palestinian violence"
-    excerpt: "Lawmakers from vastly different ends of the political spectrum have taken aim at Biden and his administration over the growing violence in the region, calling out the president on the violence in the region — albeit for different reasons."
-    publishedDateTime: 2021-05-11T17:02:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o7iQZY72ri8/biden-israel-palestine-hamas-democrats-republicans-criticize"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-palestine-hamas-democrats-republicans-criticize.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-palestine-hamas-democrats-republicans-criticize.amp"
+  - title: "Psaki: Biden has seen 'encouraging' cease-fire reports, tells Israel to 'start winding their operation down'"
+    excerpt: "Press secretary Jen Psaki said Thursday the White House has seen reports that Israel and Palestinian leaders might be nearing a cease-fire, reports she said were \"encouraging.\""
+    publishedDateTime: 2021-05-20T19:21:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pU5fkfTJNu8/biden-cease-fire-israel-gaza-winding-down"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cease-fire-israel-gaza-winding-down.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cease-fire-israel-gaza-winding-down.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 156
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63f883a6-06be-4ace-bff6-550cbbb8026b/48a9dcbc-17e6-415b-872e-78490dcf151d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21137590530322.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "State AGs ask Biden to withdraw education proposals supporting 1619 Project, critical race theory"
-    excerpt: "A coalition of 20 state attorneys general called Wednesday for the Biden administration to withdraw education proposals that, they argue, are meant to promote critical race theory and the New York Times’ “1619 Project” in classrooms."
-    publishedDateTime: 2021-05-20T01:32:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P926zVX0blg/state-ags-biden-education-proposals-1619-project-critical-race-theory"
-    ampWebUrl: "https://www.foxnews.com/politics/state-ags-biden-education-proposals-1619-project-critical-race-theory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-ags-biden-education-proposals-1619-project-critical-race-theory.amp"
+  - title: "Ohio GOP House candidate Max Miller slams Biden approach to Middle East, says he would be 'champion of Israel'"
+    excerpt: "EXCLUSIVE: Republican congressional candidate and former Trump administration aide Max Miller slammed the Biden administration’s approach to the Middle East as a \"complete capitulation to terrorists,\" vowing, if elected, to be a \"champion of Israel.\" "
+    publishedDateTime: 2021-05-18T17:43:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsmQxjjhtWQ/ohio-gop-house-candidate-max-miller-biden-middle-east-israel"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-gop-house-candidate-max-miller-biden-middle-east-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-house-candidate-max-miller-biden-middle-east-israel.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aad779fa-f3ed-4192-aeab-68221299c6c2/f4f5306b-320d-4f34-a7fd-b2edef0b6672/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "New York Times ripped for appearing to blame Trump for ongoing violence between Hamas and Israel"
+    excerpt: "The New York Times was the focus of more criticism over the weekend following an article published Saturday that seemingly blamed former President Trump for the ongoing violence between Hamas and Israel."
+    publishedDateTime: 2021-05-17T20:35:00Z
+    webUrl: "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel"
+    ampWebUrl: "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c6b96e4-61b5-4ba4-bdbb-5dbaa6d9987a/c952dcd0-fb20-47d0-8450-b0c6b9b4f393/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

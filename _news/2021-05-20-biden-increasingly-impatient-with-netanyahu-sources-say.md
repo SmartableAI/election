@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://static.politico.com/e0/39/981bd05b41f38027444998b892bb/gettyimages-97574218-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden signed a new hate crimes law — but there's a big flaw"
+    excerpt: "Despite current incentives, many big police departments don’t report whether a crime was motivated by bias to federal authorities. And state governments often disagree on what a hate crime even is. In 2020 — the most recent year data was available — nearly a quarter of big cities didn’t report a single hate crime,"
+    publishedDateTime: 2021-05-20T19:43:00Z
+    webUrl: "https://www.politico.com/interactives/2021/state-hate-crime-laws/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://politico.com/interactives/2021/state-hate-crime-laws/media/share.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Biden dramatically scales up the pressure on Netanyahu as decades-long relationship faces its most consequential moment"
     excerpt: "President Joe Biden on Wednesday dramatically escalated his public pressure on Israeli Prime Minister Benjamin Netanyahu to end the fighting with Hamas that has stretched into a 10th day, as their decades-long relationship faces a stern test."

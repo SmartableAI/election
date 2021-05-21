@@ -152,6 +152,22 @@ related:
         width: 2000
         height: 1301
         isCached: true
+  - title: "Eric Trump Called Out For Saying People Hug Him And Cry Because They Miss Donald Trump"
+    excerpt: "In his appearance on Fox News, Eric Trump claimed people have approached him to share how much they miss his father being in office. “More people have come up to me in the last week and given me hugs saying ‘we miss him so much."
+    publishedDateTime: 2021-05-20T18:41:00Z
+    webUrl: "https://www.ibtimes.com/eric-trump-called-out-saying-people-hug-him-cry-because-they-miss-donald-trump-3204275"
+    ampWebUrl: "https://www.ibtimes.com/eric-trump-called-out-saying-people-hug-him-cry-because-they-miss-donald-trump-3204275?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eric-trump-called-out-saying-people-hug-him-cry-because-they-miss-donald-trump-3204275?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/25/president-donald-trumps-son-eric-is-among-the.jpg"
+        width: 1024
+        height: 729
+        isCached: true
   - title: "New York State Mounts Criminal Probe of Trump Organization Finances"
     excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
     publishedDateTime: 2021-05-19T07:02:00Z

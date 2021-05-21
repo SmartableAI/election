@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden admin's mixed messages on fuel pipelines are as muddled as mask mandates"
-    excerpt: "Biden administration officials have sported blatant hypocrisy between prioritizing the Colonial Pipeline over the Keystone and their quick change of heart on coronavirus masking."
-    publishedDateTime: 2021-05-18T10:12:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BuniH_UNh00/biden-fuel-pipelines-mask-mandates"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-fuel-pipelines-mask-mandates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-fuel-pipelines-mask-mandates.amp"
+  - title: "Graham blasts Biden official's remark on pipeline attack and electric cars: 'Dumbest thing in the world'"
+    excerpt: "Sen. Lindsey Graham, R-S.C., blasted the Biden administration for their \"unnerving\" response to the cyberattack that temporarily shut down the Colonial Pipeline and triggered gas shortages."
+    publishedDateTime: 2021-05-13T15:10:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JxY38DVcgzc/lindsey-graham-biden-granholm-gas-shortage-electric-cars"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-biden-granholm-gas-shortage-electric-cars.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-biden-granholm-gas-shortage-electric-cars.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 158
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e650873-a2f8-4a79-9700-b2a47fedc70f/56f7d7e0-f556-4494-b172-23b97bef386e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2cf35cb-19db-4730-b400-fa9f5394b64c/c4285afb-d3a7-43d2-bcb9-ed367c0ddd10/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "US military intercepted small aircraft in restricted airspace as Biden visited Delaware home"
-    excerpt: "The U.S. military intercepted a small aircraft that flew into restricted airspace over the weekend, grounding the pilot at a nearby airport in Pennsylvania as President Biden visited his home in Delaware."
-    publishedDateTime: 2021-05-18T02:01:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SZVVUQU-i4/us-military-intercepts-small-aircraft-restricted-airspace-biden-home"
-    ampWebUrl: "https://www.foxnews.com/politics/us-military-intercepts-small-aircraft-restricted-airspace-biden-home.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-military-intercepts-small-aircraft-restricted-airspace-biden-home.amp"
+  - title: "Hannity: How will Biden respond to pipeline attack?"
+    excerpt: "Guests: Sean Hannity, Rick Perry, Lindsey Graham, Ted Cruz, Larry Elder, Newt Gingrich, Nicole Saphier, Leo Terrell"
+    publishedDateTime: 2021-05-12T04:23:00Z
+    webUrl: "https://www.foxnews.com/transcript/hannity-how-will-biden-respond-to-pipeline-attack"
+    ampWebUrl: "https://www.foxnews.com/transcript/hannity-how-will-biden-respond-to-pipeline-attack.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-how-will-biden-respond-to-pipeline-attack.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d00d31a1-6666-4ac8-b26f-64d7e428d11f/4d96ae63-73cc-421d-9348-814592008d48/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0acf253-f719-42a7-afbb-94ba6578573c/4a6f5676-85cb-414d-bbf5-01b6ecab9c11/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-calls-netanyahu-says-israel-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.amp"
 type: article
 quality: 168
-heat: 188
+heat: 168
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Israel, Netanyahu continue to defy Biden with airstrikes amid more Hamas rocket fire"
-    excerpt: "Israel is still hammering the Gaza Strip with airstrikes Thursday and declared that it will \"continue to do so\" in response to Hamas rockets \"indiscriminately\" fired at Israelis despite admonitions from President Biden for a cease-fire. "
-    publishedDateTime: 2021-05-20T12:43:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9plqQQVJuz4/israel-netanyahu-defy-biden-de-escalation-airstrikes-hamas-rocket-fire"
-    ampWebUrl: "https://www.foxnews.com/politics/israel-netanyahu-defy-biden-de-escalation-airstrikes-hamas-rocket-fire.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israel-netanyahu-defy-biden-de-escalation-airstrikes-hamas-rocket-fire.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "7ywI55Apk9WvIgIwK0d0FM9lMDYnjvWpLr3w9+d6OoDb6JHW5LTjauF8IV4ronCpl8+ukpjLU/TpYmGSooaFyM4F+M4mebnQn//8Tu0ccBpJX0oww0VVKJ5toEEFtHCs1VLk8Eie7bL6ueuEdgo9tLpV0nxMmlRV91Ize/XUlE+gR+avns+OkYfFF6MYKfjsvTMPSTRPGKEcWJlIzXRzITDWFi6LjC4yV32NO9RRbtupCx4+ltYBWAuB+SVEcFisVwekGOLbpXu9+EieahmfhBdHC0Yr/3LKWB961ulFnaiYzZT3r9suMC7905vhN9/+0r3++M4K50f2ljde9B5ogj8HVPcM0+2nBAhnGZnL4oA=;QG+oxGO2IbVVeq1dsETb6g=="
 ---

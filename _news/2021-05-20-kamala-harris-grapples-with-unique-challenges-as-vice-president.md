@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-gra
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
 type: article
 quality: 125
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
       - url: "https://i.insider.com/60a51106f27b4c0019445460?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Vice President Kamala Harris breaks barriers but faces pressure to do more"
+    excerpt: "Some have criticized Vice President Kamala Harris for not doing more to address issues important to the Asian American community, of which she's a part. Anita Kumar, White House correspondent and associate editor at Politico,"
+    publishedDateTime: 2021-05-20T22:25:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-harris-first-asian-american-vp/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/20/8e781ad8-5f57-4796-a5a8-b10985ea3bb1/thumbnail/1200x630/12cd6c018ac933052fa2e613a84f161d/cbsn-fusion-vice-president-harris-first-asian-american-vp-thumbnail-720003-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
     excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"

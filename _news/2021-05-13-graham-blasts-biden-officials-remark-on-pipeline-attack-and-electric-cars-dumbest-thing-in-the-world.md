@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-biden-granholm-gas-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-biden-granholm-gas-shortage-electric-cars.amp"
 type: article
 quality: 158
-heat: 178
+heat: 198
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "19 GOP AGs urge Biden to reinstate Keystone, protect energy infrastructure in wake of Colonial Pipeline attack"
+    excerpt: "Nineteen Republican attorneys general sent a letter to President Biden calling on his administration to support energy infrastructure, including reinstating the Keystone XL Pipeline permit, in light of the cyberattack that shut down the Colonial Pipeline."
+    publishedDateTime: 2021-05-18T15:26:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9RdlfEcj4oo/biden-colonial-pipeline-hack-energy-infrastructure"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-colonial-pipeline-hack-energy-infrastructure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-colonial-pipeline-hack-energy-infrastructure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5b385bd-529b-4849-bc3f-785b1c0964bb/e676a657-4d89-4bfb-ad99-f10aab3a5ea2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Hannity: How will Biden respond to pipeline attack?"
     excerpt: "Guests: Sean Hannity, Rick Perry, Lindsey Graham, Ted Cruz, Larry Elder, Newt Gingrich, Nicole Saphier, Leo Terrell"
     publishedDateTime: 2021-05-12T04:23:00Z

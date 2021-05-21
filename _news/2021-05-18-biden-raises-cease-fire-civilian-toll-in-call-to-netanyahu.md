@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden signs anti-Asian hate crime bill into law"
+    excerpt: "President Joe Biden and Vice President Kamala Harris are slated to deliver remarks Thursday as Biden signs into law the COVID-19 Hate Crimes Act."
+    publishedDateTime: 2021-05-20T23:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-sign-anti-asian-hate-crime-bill-law/story?id=77801857"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-sign-anti-asian-hate-crime-bill-law/story?id=77801857"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-sign-anti-asian-hate-crime-bill-law/story?id=77801857"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-signing-hate-crimes-act-rt-jt-210520_1621537146668_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden expresses support for ceasefire on call with Netanyahu – as it happened"
     excerpt: "White House reported the US president urged Israel ‘to make every effort to ensure the protection of innocent civilians’"
     publishedDateTime: 2021-05-17T23:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D019I"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D019I"
 type: article
 quality: 124
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 806
     height: 545
     isCached: true
+
+related:
+  - title: "Kremlin hails ‘positive steps’ in US ties as Biden waives pipeline sanctions"
+    excerpt: "US secretary of state and Russia’s foreign minister are polite but firm in their first face-to-face encounter"
+    publishedDateTime: 2021-05-20T12:42:00Z
+    webUrl: "https://www.theguardian.com/world/2021/may/20/blinken-lavrov-meeting-us-russia-iceland-arctic"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/may/20/blinken-lavrov-meeting-us-russia-iceland-arctic"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/20/blinken-lavrov-meeting-us-russia-iceland-arctic"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/0a5b3c751f3789b45c3c48c5aba68346c7cb4d61/0_35_2945_1768/master/2945.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cfc419b0941389b997af93dd23afb8d7"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "+3Nr8MTfNJeQn745XUTTA3zUg9P8rNlkcEovdaqbwJft7XVT8oolM5To3PtgqnfcwbjunyzK77p8H6Y2P8fQoUTWk+0l3cUTwvSGDC2SlUqocVVPVz2D2Ct3ZDFWRtm8lrrWFQJ1IiwS8ixYmPiT4b1KJeKjU46auFIEBwRZgpy55piz1NAOLF734bMYIKw3I1ofCAlON5XHHPI4eraIx/CG49bbh3A9se9m3fp5/oGMmpNLwpaRdj02yj9JLDctY8uoXfNtsENOTrSOhM2D3+Jid1iEAJvHS5A5vpQ/1pP2p7BH2rwD2c/v+L7Bqlv9JQzgl1EhjA3XN+w+Lj38X2wZ8TpAfly/RC3ZFWcICUL0JKin76AvwIWesnSAlDzW/xU2Bf9dJW9Xx9QV612K0hPFZ6sJbP9RCC8wx7OZWBjsjegkTkMjCeLCj5Op/TKbaEhBlW1B+SPmhppJLKEXMfVaNfmFaltV02eTXPTfc7gENl5l5vaaSzvIZ+pylk711C4CttEX6BMLBuPNET30Og==;u7nfS/J07HCOhTvnEfO6fg=="
 ---

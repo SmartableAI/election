@@ -109,6 +109,20 @@ related:
         width: 3500
         height: 2333
         isCached: true
+  - title: "Biden signs bill to combat anti-Asian hate crimes"
+    excerpt: "President Joe Biden signed legislation designed to combat a dramatic rise in hate crimes against Asian Americans and Pacific Islanders. At a White House ceremony, Biden praised lawmakers who seem to agree on little but came together against hate."
+    publishedDateTime: 2021-05-20T22:07:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/20/biden-signs-bill-combat-anti-asian-hate-crimes/5191416001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ff82513d-d123-469d-894e-99364d48fbfa_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Policy experts call Biden's tough China stance damaging to climate agenda"
     excerpt: "President Joe Biden touted his electric vehicle and infrastructure plans Tuesday during remarks at a Ford facility in Michigan, where he told reporters China was currently ahead in the race for green technology."
     publishedDateTime: 2021-05-19T13:23:00Z
@@ -123,6 +137,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden, saying 'silence is complicity,' signs COVID hate crimes bill into law"
+    excerpt: "President Joe Biden on Thursday signed into law the COVID-19 Hate Crimes Act that passed Congress in a rare show of bipartisanship following a spate of high-profile attacks on Asian Americans in the wake of the coronavirus pandemic."
+    publishedDateTime: 2021-05-20T23:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-hate-crimes-idUSL2N2N72GC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N72GC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N72GC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
   - title: "Nine Republican-led states ending increased unemployment benefits as President Biden says people must take \"suitable work\""
     excerpt: "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages."
     publishedDateTime: 2021-05-12T14:54:00Z
