@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4997276001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4997276001"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/c-Ale6YBxYo5LkKH0F3piP2Xdj4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4ULNT3YHFH66AEJUZPITPRDTPQ.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "CNN: Trump Justice Department seized reporter phone records"
+    excerpt: "The Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent, the network said Thursday in revealing the existence of another apparent leak investigation aimed at identifying a journalist's sources."
+    publishedDateTime: 2021-05-20T23:51:00Z
+    webUrl: "https://www.chron.com/entertainment/article/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
+    ampWebUrl: "https://www.chron.com/entertainment/amp/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Trump Justice Department Seized Reporters’ Phone Records In ‘Authoritarian’ Move"
     excerpt: "Three Washington Post reporters became the subject of an investigation by Donald Trump’s Justice Department after reporting on his administration’s alleged ties with Russia during the 2016 election."

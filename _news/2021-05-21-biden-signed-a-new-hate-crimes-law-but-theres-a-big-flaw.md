@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden, staring down first Mideast crisis, touts ceasefire"
+    excerpt: "President Joe Biden has become increasingly impatient with Israeli Prime Minister Benjamin Netanyahu following a blunt phone call Wednesday in which the US President set a deadline for violence to ease between Israel and Hamas.\n    \n"
+    publishedDateTime: 2021-05-21T00:42:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rqwr5ZD6UVE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden singles out competition with Russia and China in Coast Guard commencement"
     excerpt: "President Joe Biden singled out competition with Russia and China as part of his vision for the military branch's role in national security as he addressed the United States Coast Guard Academy's 2021 graduating class on Wednesday.\n    \n"
     publishedDateTime: 2021-05-19T17:34:32Z
@@ -159,6 +175,6 @@ related:
         height: 619
         isCached: true
 
-secured: "xAoraZgivGBNzxZ9vrC/1ebcwk8dAXn2gEs+X5VfRdpHnNxz3fKnTe5OGUeqKCIJo9/M6vCdejbBvzIZRY352dBDZFMIE1/7BRtHPBGpcOi+HsWKs6yzFgKjr+SZRcu8JzM7DheXykEtasVxkyrNqMjFSt21aLSwIRBz6/qqe8ESi70pA9ClMnSuI/nnkDnJZBgxDWAFYPtNLdbiiJRQ9iURBOqdW8ezWv4F0JMNngJqu+aa1yHmTNL0MyPGv+GhA+5RtEpdWg1SQRZmfgEHyk7N5tDYgJgLWm5+9RNrAVTSa3Nj2FKvO9SPWAHmyWGz+yIJ/ShYiTM4zG3hZX8ldVbt0oTsDxlKnhm7bqlBFc0=;DEMWCp4DrOIfMgPDahR9JA=="
+secured: "/EbA22SFH9HietOPBXoMPXQsBjifmYObNQG797fkY0xNQcbsANZuwFn0yh2nHsoGiXLvvXo6Xs7Aa04lVt0Ppx5CqbqPz3ok5qR+BX2dgGm8GRi9t8j8W2MgeKeUUlNdlZWtB6T3w4gzPstDHAsJHl37efU+s+SAulJLH3pkMUHgR2e/cMcCiZdsbJK81XFi91YL+3smeDlICkmr8mmDnvoAvod6u0anBb0oEMXCpMDYZwOMyGvtwhkRhDTU/XaWgJGro4kSzTF2MaI1fq9Z5YBWuilvKcspU0bjsOvlhnzU8ifC2qSleztB13E6M1nLMZrYOyKmom/ioRJWjlqQF4WAjGFJ9unZxxDtdLnFBLjIMzKHcSCeRoPwl/vmgJtXMRPWSQ7ys1qd8Q2Q5BATToWlwo30e2W4WW7m26RaBMrivp7ghcKkB0pHQ3snMjCZGaY8GbkGsE0tpTYt0pgF4u+tfRJkBtYG1YS+VvzHtM0onwi1NVlTR7KJQJdR1Bg1+C+kvZRiS3hWZoT7GSIJKA==;+MKyfvZy0QQ7JNAsyuVLCw=="
 ---
 

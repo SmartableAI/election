@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden, staring down first Mideast crisis, touts ceasefire"
+    excerpt: "President Joe Biden has become increasingly impatient with Israeli Prime Minister Benjamin Netanyahu following a blunt phone call Wednesday in which the US President set a deadline for violence to ease between Israel and Hamas.\n    \n"
+    publishedDateTime: 2021-05-21T00:42:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rqwr5ZD6UVE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden singles out competition with Russia and China in Coast Guard commencement"
     excerpt: "President Joe Biden singled out competition with Russia and China as part of his vision for the military branch's role in national security as he addressed the United States Coast Guard Academy's 2021 graduating class on Wednesday.\n    \n"
     publishedDateTime: 2021-05-19T17:34:32Z

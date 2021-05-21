@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
-excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
-publishedDateTime: 2021-04-30T12:06:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+title: "CNN: Trump Justice Department seized reporter phone records"
+excerpt: "The Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent, the network said Thursday in revealing the existence of another apparent leak investigation aimed at identifying a journalist's sources."
+publishedDateTime: 2021-05-20T23:51:00Z
+originalUrl: "https://www.chron.com/entertainment/article/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
+webUrl: "https://www.chron.com/entertainment/article/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
+ampWebUrl: "https://www.chron.com/entertainment/amp/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
 type: article
-quality: 52
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Washington Post: Trump Justice Department got reporters’ phone records"
@@ -105,22 +107,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "CNN: Trump Justice Department seized reporter phone records"
-    excerpt: "The Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent, the network said Thursday in revealing the existence of another apparent leak investigation aimed at identifying a journalist's sources."
-    publishedDateTime: 2021-05-20T23:51:00Z
-    webUrl: "https://www.chron.com/entertainment/article/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
-    ampWebUrl: "https://www.chron.com/entertainment/amp/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Trump Justice Department Seized Reporters’ Phone Records In ‘Authoritarian’ Move"
     excerpt: "Three Washington Post reporters became the subject of an investigation by Donald Trump’s Justice Department after reporting on his administration’s alleged ties with Russia during the 2016 election."
     publishedDateTime: 2021-05-08T15:41:00Z
@@ -151,7 +137,18 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
+    excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
+    publishedDateTime: 2021-04-30T12:06:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 52
 
-secured: "3pWdevFGRijqxZ5uB0hkYtW5fdwhr+QA1Esrqg5BtCTH3cKIQpv/5umTJJ4SWZSOX7ZnELVj1EwH7XTAvqhtFmJd7mx5FIaoAoPPlo+qfLDwLwZJbqyMg8b6QlIgth2uHXUJZXrFq2rQtCcHbRJJB7r7/8XFWJlNJBEa9OmV/mXPd9telIXrQnCIGhlSwzrFM0HiwnC+nu06aVg9gtcVmNCaFa3ioeFAlwRw87FmVH64p7em0VdUlLtKVqx4WgXWgjkxRsaK8GnduyE2QOqMKK1okg4WRlvwTgP8eo616ImU742r02SkCIqRwUwxMp4KVJIA372wDWAZlHnEe6VFbKW0mxqZuA1MCosJQv8defFYaDk5+Mwcz7EBUe/Ugl3xO5poboQT7GIp/E16hy/XzwY4OmGEpBg5p2HeD2v4fiH7+O5DAbtjDQHRxKhvJ1l1GthlZgEwZFx0ld/wIzqOpxWz829z1M7aKIx2F+p19ajCt6SQ/w71wRrjJ7gyCs3pZ8MMNbOOJszp4CVxsCGrCA==;XZJN/OSxwp/0hrjNDFGqNA=="
+secured: "CQcXSSR8D1Ndyt38JY/8rMKK/1QofKEBu2yfzIjXmEqoqGHuSekOQE0qcAqV4E/XTMazRFxpMp7xstY1Hw/g/WbQbYLf5Abo4DQcorIuSgAt3THzfh8dpe+K5Uss1S6vwUvmXqXG0cwZ6LdEoD6Lyrsc2qXWcxyZiZWGnr3GuB4EsRuR8HitYGmqbWAl7oA+bI8wMfuGLSDuWZG3NY/MSHOLjyPURgAV3vd424ELcvRS4NYRtvAYCILrs+8SiSMMGp1y8B3JFOMGMOfPZlWD2k/SfoG8lkth+g2vUfvRaAWwcdlwzFIb1m5jwbcPqqqb3L+b+ORSt2WtS4h7cGJxgvgxoTZq4oqmZOYxp+eoui8=;dfPRehoxOKTsfXcYnOG5NQ=="
 ---
 

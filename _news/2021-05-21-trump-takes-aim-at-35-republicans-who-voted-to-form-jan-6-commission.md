@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/amp/"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Sure’: McCarthy says he’d tell Jan. 6 commission about Trump phone call"
+    excerpt: "House Minority Leader Kevin McCarthy signaled Thursday that he’d be willing to detail his phone conversation with then-President Donald Trump during the Jan. 6 Capitol riot."
+    publishedDateTime: 2021-05-21T01:35:00Z
+    webUrl: "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/"
+    ampWebUrl: "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/mccarthy-trump-phone-call-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Rep. Kevin McCarthy Struggles to Move Republicans Past Trump"
     excerpt: "Nearly three dozen House GOP lawmakers broke with party leaders over legislation to create a Jan. 6 Capitol riot commission."
     publishedDateTime: 2021-05-20T19:49:00Z

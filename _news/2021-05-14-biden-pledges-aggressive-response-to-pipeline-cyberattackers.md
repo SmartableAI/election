@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/18/fe8555ad-2e05-48f9-b9ab-c566d821a823/thumbnail/1200x630/3c31e422b218bfccabd303c8a965b44b/joebiden-replace-717672-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden hails ceasefire, pledges assistance for Gaza"
+    excerpt: "Politics Biden hails ceasefire, pledges assistance for Gaza. Posted . President Joe Biden praised a ceasefire reached between Israel and Hamas fighters on Thursday and said the Un"
+    publishedDateTime: 2021-05-21T00:08:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-hails-ceasefire-pledges-assistance-id730255189?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210520&i=OVEDRUQJJ&r=OVEDRUQJJ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live"
     excerpt: "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest"

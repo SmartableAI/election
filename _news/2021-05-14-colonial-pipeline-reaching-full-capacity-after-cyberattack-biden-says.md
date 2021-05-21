@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden hails ceasefire, pledges assistance for Gaza"
+    excerpt: "Politics Biden hails ceasefire, pledges assistance for Gaza. Posted . President Joe Biden praised a ceasefire reached between Israel and Hamas fighters on Thursday and said the Un"
+    publishedDateTime: 2021-05-21T00:08:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-hails-ceasefire-pledges-assistance-id730255189?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210520&i=OVEDRUQJJ&r=OVEDRUQJJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live"
     excerpt: "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest"
     publishedDateTime: 2021-05-13T18:32:00Z

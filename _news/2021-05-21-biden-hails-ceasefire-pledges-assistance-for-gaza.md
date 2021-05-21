@@ -1,20 +1,20 @@
 ---
 category: news
-title: "President Joe Biden urges cease-fire in Middle East conflict"
-excerpt: "The president called for a cease-fire amid the escalation of violence in the Middle East conflict between Israel and Hamas. Weijia Jiang reports."
-publishedDateTime: 2021-05-18T13:16:00Z
-originalUrl: "https://www.cbsnews.com/video/president-joe-biden-urges-cease-fire-in-middle-east-conflict/"
-webUrl: "https://www.cbsnews.com/video/president-joe-biden-urges-cease-fire-in-middle-east-conflict/"
+title: "Biden hails ceasefire, pledges assistance for Gaza"
+excerpt: "Politics Biden hails ceasefire, pledges assistance for Gaza. Posted . President Joe Biden praised a ceasefire reached between Israel and Hamas fighters on Thursday and said the Un"
+publishedDateTime: 2021-05-21T00:08:00Z
+originalUrl: "https://www.reuters.com/video/watch/biden-hails-ceasefire-pledges-assistance-id730255189?chan=6g5ka85"
+webUrl: "https://www.reuters.com/video/watch/biden-hails-ceasefire-pledges-assistance-id730255189?chan=6g5ka85"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/18/fe8555ad-2e05-48f9-b9ab-c566d821a823/thumbnail/1200x630/3c31e422b218bfccabd303c8a965b44b/joebiden-replace-717672-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://static.reuters.com/resources/r/?d=20210520&i=OVEDRUQJJ&r=OVEDRUQJJ&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -77,19 +77,19 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden hails ceasefire, pledges assistance for Gaza"
-    excerpt: "Politics Biden hails ceasefire, pledges assistance for Gaza. Posted . President Joe Biden praised a ceasefire reached between Israel and Hamas fighters on Thursday and said the Un"
-    publishedDateTime: 2021-05-21T00:08:00Z
-    webUrl: "https://www.reuters.com/video/watch/biden-hails-ceasefire-pledges-assistance-id730255189?chan=6g5ka85"
+  - title: "President Joe Biden urges cease-fire in Middle East conflict"
+    excerpt: "The president called for a cease-fire amid the escalation of violence in the Middle East conflict between Israel and Hamas. Weijia Jiang reports."
+    publishedDateTime: 2021-05-18T13:16:00Z
+    webUrl: "https://www.cbsnews.com/video/president-joe-biden-urges-cease-fire-in-middle-east-conflict/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210520&i=OVEDRUQJJ&r=OVEDRUQJJ&t=2"
-        width: 960
-        height: 540
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/18/fe8555ad-2e05-48f9-b9ab-c566d821a823/thumbnail/1200x630/3c31e422b218bfccabd303c8a965b44b/joebiden-replace-717672-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live"
     excerpt: "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest"
@@ -133,6 +133,6 @@ related:
         height: 433
         isCached: true
 
-secured: "hZHdOBXmx+wrbii8l0Fu/kz4LhDltZWCNqJ7m1NBJHHdAqTvw5r29AX6z7FfRvY1BPMGAYZ2E21b6TzOyz0plQp6pTGb9xesGNa4Nt2+SGCbfBtGfEd0fPnRG9pZTsRYFyKEmS9qjfCc92HPpM6hvCKn9muD6cXyGoigi0hhnt/i/zfYWmRlX6okVQAJv4L4wUgpf8bQ7wzpDvI2Ec11DD7YUGY2V4K2M7e2k5BgMESicco15qakWEc+aCJHDzE/3hi8ewNMr5spCtr40lUBSEh9wOPuXlRxuywso8JvU+ZWIcQdqlfoLtjktzr/YXREBt7PY20NpX+en+RD9Hi8rK++7clkoF0V1WXRxO+gbyNyJRPIZp0vN+uGO/rOYn+r9AseLI7ts0wbAa4xX08o+Cco7io+ZxKhEI+Y9/qEJW9oxTGDzvikVxZTNNYwlNrAFhGYbx2EgEnCebrgXX8PSTePIj1bwIB7WQOR18M3GuStNmrPuP0pSUZxG9e67UIcaDBL1PLcTLBbcCYxzOjvYA==;raft38y2KZWFEJ+UQGlK8Q=="
+secured: "NSleYqGa+Ay5Wvt3vSUFJiL8ccCUCPSPE1FV75vj+HlOgRcdt6sJCY+M/NuXSLj4uVCOmJTNpej2ygPYX6Rgci8Z80K2pWLU70kSClNKA0No9vJZCU1ED215FNEnQBHpZdL80LaXmGfCcc4t15WxdPYdq06XU1PdB534QUsINc+vIG4fYsGMb8z7Nfb2aUaBrNGi6frHNNAw1M/sY2O1osyHKTNHExYi0Y8YdBgyn+UCP3JkMo0lnqlFVcHhJOgX2B5shR3hToObrHlFnBiTsUJRnSC2HGhrF4+LnJ0Y73igDhxZXa4qCCclSeyfkZQ48cW0dBALRQjIP931IIf3OYtIwOOEccm+CrGjHAPVwAA=;79E1LEtG+7k1+bsVKc9DZA=="
 ---
 

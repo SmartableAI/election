@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden hails ceasefire, pledges assistance for Gaza"
+    excerpt: "Politics Biden hails ceasefire, pledges assistance for Gaza. Posted . President Joe Biden praised a ceasefire reached between Israel and Hamas fighters on Thursday and said the Un"
+    publishedDateTime: 2021-05-21T00:08:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-hails-ceasefire-pledges-assistance-id730255189?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210520&i=OVEDRUQJJ&r=OVEDRUQJJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live"
     excerpt: "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest"
     publishedDateTime: 2021-05-13T18:32:00Z
@@ -115,6 +129,6 @@ related:
         height: 700
         isCached: true
 
-secured: "lvZ9ZcaGg8BS2hq3nxJgJO1jRG/NOfpHo189OXQoXbCEho4O4ymqeK9Z+WkkjQbGAH1QfqJr5gz9tetntW0ALkaNkdnOc+a+j2QpLgoYKJg8u7O815CTODOHLDOvJw5LIOCzZvNxVbP5TibdS2b2TIIEKAXx6rFRYckTpumy82NHgYotR46Rmks1mQ298WmLviU3tZOmv4ddVAveg/mlf7C8xwL6riGZiZlbce0DKX675scFNUolVMEuFYnSrz77RrHgDnCnQugKDmWuRqhC8KCY003TZPy2hYlrC07hBv6hnEUYdAOgxenZbWfl6eIKAxrKZdtf7LKxramSNGB9iKDj7JDQK5DTY19vPHN270g=;Ep5dR2E5Pzai0FgRctmfIQ=="
+secured: "1qpQ4BhywuhxFKg0SF82XGNMbFd/S14WFqH2ZlxbnWJ/BoxzAWe5yG5nN6t9vs3IpScAGFZ+Yia9n5KyIuVrIpxMKtBpK871fvMkv3XJB2eTKBpLNW+sup6rLABk05nUR+hs2kwlJUxFHYuR8pBT6Q1rQl9TVGW9c+4D0KTWim40fYpW0IXUgagerNeBlFwkqj7MNVzcB29zrEz0irr7ctR3jp10hON9Ahfr7dhF/eZIwI4NxVWqhRfkGZ0XB3jlEsiw7hTw83rQY1qZPbOwm2d0oNvjq+dIdkqOCcE/o9H6mb3TPBv3hPtaX8pOLdZVnqzE83WM3ddc/hvndIeQ7G9BL46cIMGP8gfXNYYSKiKjQR8T9p/CMg9hR118zfob2cyWngzN+/N2KBy/DIdHB21CJikpEmh48bZhs9RXy1D6tFQs/IZSfceSp6pOlYugJyrkk9crxvWfs+SGI0M2kTTUaOUO3sDQyZH0JiY16AvaG4OFih8AXiw33KCoCpcFakjd0pL4pBNan29CiFz7GQ==;oOS94BitlPqLxUp2UVUxpg=="
 ---
 

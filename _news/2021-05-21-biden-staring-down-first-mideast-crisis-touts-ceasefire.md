@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden is going to Michigan to tout electric trucks. Violence in Middle East may overshadow the trip"
-excerpt: "President Joe Biden's Tuesday visit to Michigan to promote his economic agenda has been on the White House's calendar for weeks, but a carefully planned trip now risks being overshadowed by the recent eruption of violence in the Middle East between Hamas and Israel.\n    \n"
-publishedDateTime: 2021-05-18T13:38:06Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U1593o_Fm1g/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U1593o_Fm1g/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/biden-dearborn-michigan-israel-gaza/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/biden-dearborn-michigan-israel-gaza/index.html"
+title: "Biden, staring down first Mideast crisis, touts ceasefire"
+excerpt: "President Joe Biden has become increasingly impatient with Israeli Prime Minister Benjamin Netanyahu following a blunt phone call Wednesday in which the US President set a deadline for violence to ease between Israel and Hamas.\n    \n"
+publishedDateTime: 2021-05-21T00:42:26Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rqwr5ZD6UVE/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rqwr5ZD6UVE/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
 type: article
-quality: 161
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517232716-01-joe-biden-0516-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -44,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden, staring down first Mideast crisis, touts ceasefire"
-    excerpt: "President Joe Biden has become increasingly impatient with Israeli Prime Minister Benjamin Netanyahu following a blunt phone call Wednesday in which the US President set a deadline for violence to ease between Israel and Hamas.\n    \n"
-    publishedDateTime: 2021-05-21T00:42:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rqwr5ZD6UVE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -92,6 +76,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512170722-02-joe-biden-0512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden is going to Michigan to tout electric trucks. Violence in Middle East may overshadow the trip"
+    excerpt: "President Joe Biden's Tuesday visit to Michigan to promote his economic agenda has been on the White House's calendar for weeks, but a carefully planned trip now risks being overshadowed by the recent eruption of violence in the Middle East between Hamas and Israel.\n    \n"
+    publishedDateTime: 2021-05-18T13:38:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U1593o_Fm1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/biden-dearborn-michigan-israel-gaza/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/biden-dearborn-michigan-israel-gaza/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517232716-01-joe-biden-0516-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -174,6 +174,6 @@ related:
         height: 619
         isCached: true
 
-secured: "0MgtMDsE8b5/VKtE2I7qQWp8a2FYN3K75RmrOUAgftkYkqE+GsILuiVuH9sqyBxDhl8tjFrHhnBiKoNjL/auT0gCiw3Xcpwj/hCtxxxpGyW4pp8VGffLw6/of7Q1lMNfjANxLRFRrvqOrjN2QDYdNCMAmCZwLc1YDo/O7P5ozWiQ+UQ3VU6RnC+90pcGmCAlLMzDGgyRVAygycXiVUnTJOrk+jJqKIWiOnu841CyfenG/uaqfn72axIW1usHhaorcBGVEJCnMNymv1WIPyXcKhIcxFHjI9E3SpQ+5coVD20f+ZR2OydxSgsQeIVUBpNBwo9az0gSCxlcMSI6CIy3iaVjY3C+LdW13QWLNMLdQpE=;huEMaVHjMSKYLbMJ5f31zA=="
+secured: "psCHVaYKehifxwGmZM+pr5v6dxKqkkPv2N04cxrQX4nPt4A2O0tDmdfJ9QEDnJ/0z3+5OAJU1AiYw+HwDlBICD2bKCI4ceTR3ITkjirlWZUX8R4MbyeItpURaLoAePMGnXpg0NugWK+1mfk9D6HlO5Tz9MF/f8hAulKQFhSOpx0Q8/OygYjr0FfrwnzV3ykhu6baPW45lacszwLaPUSr/n0QeviGd4bF0qenABZGfpegDbqxDsjtjnAwxMJdVoIpzXMIT4Elk6x5RWut1OspH1K1msRmdn2ZKU6zMHuchG5UAHFgXRJbeEjgK31j860RXjBQjIu795qAym4sk9R7cnblRD1ZqZpqCqccmF7jxOg=;5WltyFjzR095AqH1EW/0+Q=="
 ---
 

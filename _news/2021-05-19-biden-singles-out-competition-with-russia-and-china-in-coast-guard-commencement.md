@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden, staring down first Mideast crisis, touts ceasefire"
+    excerpt: "President Joe Biden has become increasingly impatient with Israeli Prime Minister Benjamin Netanyahu following a blunt phone call Wednesday in which the US President set a deadline for violence to ease between Israel and Hamas.\n    \n"
+    publishedDateTime: 2021-05-21T00:42:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rqwr5ZD6UVE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden 'expressed his support for a ceasefire' in call with Israeli Prime Minister, White House says"
     excerpt: "The growing number of civilian deaths in the intensifying battle between Israel and Hamas in Gaza is causing worry inside the White House as officials work the phones with partners in the region.\n    \n"
     publishedDateTime: 2021-05-17T22:40:09Z

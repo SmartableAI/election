@@ -48,6 +48,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden praises Israel-Palestinian cease-fire, says both 'deserve to live safely and securely'"
+    excerpt: "Biden's speech was his most in-depth public comment on the conflict, which has lasted nearly 11 days, since the violence broke out."
+    publishedDateTime: 2021-05-21T01:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-praises-israel-palestinian-cease-fire-says-both-deserve-live-n1268068"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268068"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268068"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3475503/210517-joe-biden-ac-539p_500d32791934166f92e79e5a7ff70451.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "ZRHdmkzfP1t3hvY5jh5njkNAMyXfVw8NpykJ9qsSh1IKlrDhZObdmYlt8otv5tFC7erxy2zm7kL6e1DhDfs5kcP+1zrgl3TLOoVBa+Zk8MpumF/H5vuDk923hswo3pGOdyXoS7527XX5Xqx8WNcYCVIXybUHO+BDzweYFIxFOeAxNj2YfEBwhZ3dsyMJ2lMrGRLADZB5ZHdP6TMj2n+nLZBc3DAUF99XecowTtyuc7nGAXTn+p4sIL/jJscIvs0DdhebKEkIvoaBmcb8dv66SXN3wTLp4hX+6Tt1Wfh2tXfOzPdadXR5Mmx/SASAqx8MQWx7vRfwJGehr/M2taHgv0wePYEXnOXuT2T2BRzzstlTa3n7E0rDnQPkjzQBCI/IQeZWJDcuuq0BGf9gpW8zfRF5Tflb6NUZf34B8Pb70cS7SdD6+tLdynGmtLCXEs+c3qpG0sGUJ/WYg0jAzpiPB+i8ZzxxbEbpN1hpVTBw7WoK+E6Em+oAaXVXuqb0+2lKfMWSqGqUnsu2Yjz/hboDag==;FH6W4cc8ao4Ga89q1t0u2w=="
 ---

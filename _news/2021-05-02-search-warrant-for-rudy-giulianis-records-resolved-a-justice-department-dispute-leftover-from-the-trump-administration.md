@@ -95,6 +95,22 @@ related:
         width: 320
         height: 212
         isCached: true
+  - title: "CNN: Trump Justice Department seized reporter phone records"
+    excerpt: "The Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent, the network said Thursday in revealing the existence of another apparent leak investigation aimed at identifying a journalist's sources."
+    publishedDateTime: 2021-05-20T23:51:00Z
+    webUrl: "https://www.chron.com/entertainment/article/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
+    ampWebUrl: "https://www.chron.com/entertainment/amp/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/CNN-Trump-Justice-Department-seized-reporter-16192479.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump Justice Department Seized Reporters’ Phone Records In ‘Authoritarian’ Move"
     excerpt: "Three Washington Post reporters became the subject of an investigation by Donald Trump’s Justice Department after reporting on his administration’s alleged ties with Russia during the 2016 election."
     publishedDateTime: 2021-05-08T15:41:00Z

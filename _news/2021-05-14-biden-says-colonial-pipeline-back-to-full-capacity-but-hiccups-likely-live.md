@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden hails ceasefire, pledges assistance for Gaza"
+    excerpt: "Politics Biden hails ceasefire, pledges assistance for Gaza. Posted . President Joe Biden praised a ceasefire reached between Israel and Hamas fighters on Thursday and said the Un"
+    publishedDateTime: 2021-05-21T00:08:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-hails-ceasefire-pledges-assistance-id730255189?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210520&i=OVEDRUQJJ&r=OVEDRUQJJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Does Joe Biden Think He’s Done Enough to Placate Progressives?"
     excerpt: "Does Joe Biden have a deliberate strategy for dealing with his party’s progressives, or is he just winging it?"
     publishedDateTime: 2021-05-20T13:37:00Z
