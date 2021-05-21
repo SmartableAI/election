@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Joe Biden, family attend confirmation of grandson in Delaware"
-excerpt: "President Biden and first lady Jill Biden on Sunday attended the confirmation of their 14-year-old grandson Robert Hunter Biden II — the son of the late Beau Biden. The service took place at"
-publishedDateTime: 2021-04-18T20:46:00Z
-originalUrl: "https://nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/"
-webUrl: "https://nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/"
-ampWebUrl: "https://nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/amp/"
+title: "What Does Putin Have on Biden?"
+excerpt: "Only a few months ago, the Biden administration argued that Nord Stream 2, a proposed natural-gas pipeline running from Russia to Germany, was"
+publishedDateTime: 2021-05-21T11:13:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.html"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.amp.html"
 type: article
-quality: 135
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -22,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/USA-BIDEN__21.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://assets.realclear.com/images/54/541397_5_.jpg"
+    width: 750
+    height: 489
     isCached: true
 
 related:
@@ -184,21 +184,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "What Does Putin Have on Biden?"
-    excerpt: "Only a few months ago, the Biden administration argued that Nord Stream 2, a proposed natural-gas pipeline running from Russia to Germany, was"
-    publishedDateTime: 2021-05-21T11:13:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.amp.html"
+  - title: "Joe Biden, family attend confirmation of grandson in Delaware"
+    excerpt: "President Biden and first lady Jill Biden on Sunday attended the confirmation of their 14-year-old grandson Robert Hunter Biden II — the son of the late Beau Biden. The service took place at"
+    publishedDateTime: 2021-04-18T20:46:00Z
+    webUrl: "https://nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/"
+    ampWebUrl: "https://nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/amp/"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/54/541397_5_.jpg"
-        width: 750
-        height: 489
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/USA-BIDEN__21.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Joe Biden Concedes Border Refugee Issues Are A \"Crisis\""
     excerpt: "We’re going to increase the number [of refugees allowed into the country]. The problem was that the refugee part was working on the crisis that ended up on the border with young people. We couldn’t do two things at once,"
@@ -224,6 +224,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "Z7Hng//wbenQiBJ1icKch7QWMfTBM0va/8awES2V79ECOMQhgpkVHiI7zkGBLSoF08ElXcxivRGKQYUhsoJQSOhA6lb9zon3D4aXX29JAtjXSVMFZ+vC0zzXtTbsS0Mj7n/CObdQAnFM/cbm/s2xxLmaj5mOHWzEpcSv6EsRg64svo7OXhkA/YuJd5LMk4DsC8uVYv7kGE1gDvw8GjSgkK1r4MPYnlw9k1l+nUrjFKVmT6aFJW82XDTMFL9mI4c4325lj2uJpLeAsAwrvIN+AYRf8y8fE87CYjYykqKiqz+zFAln7wPGSHqjad34cmaoo5tpEig+Z4L6gCBkGMIuuITtBjaj/hnzxA6ftrFNfZY=;EEOZil/o+nvUPMsgNfJ/Hg=="
+secured: "W7VZ+W+2d4ByfjVYMVzQ1/WZXaNX0STiGruuIN64l4R7XO2KgaOWv/hfXwahtEKCRcXr0MENviZ7pk9sCd5VOx4xtnWkSsDr8J2o26eGqurIibuM/Oqea8GWSQRG61gH8NOixMlVvfLwIzu4tSF6NwGSd2ofSwWDR+qTfm3cRzQxxW9ykRy9iecbyb+NYRyihVms/+u23bk0ayJaePf601QKbPQkeqRS97sdwAFLW9SM3pk0IDSxytzDIkPw/qGH/dN+sjltqXz28fxdeXOCDlEBEB7HAXsPQtLF9DXbeLsDxXl0eMuGU7kve1Qo4MlNO49WoRntGkS8lcyevlTGWSIwSUdmgaX8cU1QJtSpa0I=;qLRazckw9gXAonYGPc/SnQ=="
 ---
 

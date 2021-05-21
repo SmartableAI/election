@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's plan to slash child poverty depends on whether the IRS can find those who need the cash most"
+    excerpt: "President Joe Biden's ambitious plan to send families with kids thousands more dollars starting in July could slash child poverty in half -- but only if the federal government can successfully deliver the money to all eligible households.\n    \n"
+    publishedDateTime: 2021-05-21T11:19:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i7A2_glSGOg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/poverty-child-tax-credit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/poverty-child-tax-credit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210516220436-02-family-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Blinken and Lavrov to hold first high-level meeting of Biden's presidency as US-Russia tensions simmer"
     excerpt: "US Secretary of State Antony Blinken is set to meet Russian Foreign Minister Sergey Lavrov Wednesday, the first high-level encounter between the US and Russia since President Joe Biden took office that comes amid heightened tensions between the former Cold War foes.\n    \n"
     publishedDateTime: 2021-05-19T17:26:12Z

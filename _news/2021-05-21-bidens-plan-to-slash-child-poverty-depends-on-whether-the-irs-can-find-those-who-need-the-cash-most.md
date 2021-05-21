@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden has a 'core conviction' to hike taxes on corporations and the rich. It could cost him."
-excerpt: "President Joe Biden's steadfast belief in taxing corporations and the rich has become a central plank in his legislative agenda, even as he's warned of political peril and red lines from Republicans.\n    \n"
-publishedDateTime: 2021-05-13T11:04:04Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oa-1RAjw1jc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oa-1RAjw1jc/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/joe-biden-tax-increases/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/joe-biden-tax-increases/index.html"
+title: "Biden's plan to slash child poverty depends on whether the IRS can find those who need the cash most"
+excerpt: "President Joe Biden's ambitious plan to send families with kids thousands more dollars starting in July could slash child poverty in half -- but only if the federal government can successfully deliver the money to all eligible households.\n    \n"
+publishedDateTime: 2021-05-21T11:19:10Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i7A2_glSGOg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i7A2_glSGOg/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/poverty-child-tax-credit/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/poverty-child-tax-credit/index.html"
 type: article
-quality: 164
+quality: 160
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210516220436-02-family-stock-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden has a 'core conviction' to hike taxes on corporations and the rich. It could cost him."
+    excerpt: "President Joe Biden's steadfast belief in taxing corporations and the rich has become a central plank in his legislative agenda, even as he's warned of political peril and red lines from Republicans.\n    \n"
+    publishedDateTime: 2021-05-13T11:04:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oa-1RAjw1jc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/joe-biden-tax-increases/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/joe-biden-tax-increases/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senators call on Biden administration to demand Saudi end blockade tactics on a starving Yemen "
     excerpt: "A group of Democratic senators are calling on President Joe Biden to take \"immediate and decisive action\" to end Saudi Arabia's \"blockade tactics\" in Yemen that have prevented food, medicine and other crucial supplies from reaching desperate and starving people there.\n    \n"
     publishedDateTime: 2021-05-20T13:00:53Z
@@ -92,22 +108,6 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518140311-02-biden-speaks-ford-michigan-0518-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's plan to slash child poverty depends on whether the IRS can find those who need the cash most"
-    excerpt: "President Joe Biden's ambitious plan to send families with kids thousands more dollars starting in July could slash child poverty in half -- but only if the federal government can successfully deliver the money to all eligible households.\n    \n"
-    publishedDateTime: 2021-05-21T11:19:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i7A2_glSGOg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/poverty-child-tax-credit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/poverty-child-tax-credit/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210516220436-02-family-stock-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -160,6 +160,6 @@ related:
         height: 619
         isCached: true
 
-secured: "vVN7ExO1PTedajuuuifev0CcO5TlpoPIsbSbTsTj8X6BOJeIDvRNrh4ZvXyiloVtouggt3LOg699zAWkojFQav/kb08LjNIf6QgnMaYbZYhhXNH9vSRkSboYi0EFR3XQzzwWbp7aPKtO6ksag9HRy3SYEXnkeYgUWuSX4VOo9Epl/i+RDB7YVdWJD0109B34v+qAWcdSdMh8YtRlASpmMm4OqZM1iciz+Q6LV7OEMkVsRXkAk2/PaGsqGE/HC7owzk2sU6btH0WwcjdVa7cPh8igH4tXthsfUVQWkW3EnrM9OGBFMlB6/2Hn2oQ9ZBTvHTV+YMvnwK92tk+HvIiAzCEAFUrUKFv0BmiZU1O9d1I=;HyZks/m1x3+jGLVcICJ6Jw=="
+secured: "oq3YT/c/O+nro9FZ7tqHIoYyT0x/ztUg6Em5z/sOvqllItpbDYEUza1gnWzZWy84UWziOahzrmx578amyB1v6fPUGpylPVfALoALbnMue44ajDxHNxdIiLghHDPIgiGctJUxLkGIteEmbHnJkCq41txoIc1K79bKQEHS3Go1/mONiytfU8mA61WjA8hJDyBWZ1kHZUWCUzGN5n/Dk7I3jKlOrCfdxuBhaTkYNKiK5t72HO6c5n/1xeMvn75Pbb/VJcWoXFeurdxzO774nHN+VmSDy9ArLPzTYFHUkY3McwHU1smfDLBb3EfHl70o5XJPNi1atmsDhVjVOQR21OB+A09xwf9ics5KAIciuJdMumk=;AYRs4w+x517YX3QnoY2S6g=="
 ---
 

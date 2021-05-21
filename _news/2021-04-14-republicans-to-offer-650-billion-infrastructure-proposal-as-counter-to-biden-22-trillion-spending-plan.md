@@ -187,6 +187,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "What Does Putin Have on Biden?"
+    excerpt: "Only a few months ago, the Biden administration argued that Nord Stream 2, a proposed natural-gas pipeline running from Russia to Germany, was"
+    publishedDateTime: 2021-05-21T11:13:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/21/what_does_putin_have_on_biden_145800.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/541397_5_.jpg"
+        width: 750
+        height: 489
+        isCached: true
   - title: "Joe Biden Concedes Border Refugee Issues Are A \"Crisis\""
     excerpt: "We’re going to increase the number [of refugees allowed into the country]. The problem was that the refugee part was working on the crisis that ended up on the border with young people. We couldn’t do two things at once,"
     publishedDateTime: 2021-04-18T13:35:00Z
