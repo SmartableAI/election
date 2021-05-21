@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-hate-can-be-given-no-saf
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp"
 type: article
 quality: 168
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/US-Capitol-AP.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "President Biden: \"Every Time We Let Hate Flourish, We Make A Lie Of Who We Are As A Nation\""
+    excerpt: "President Biden is set to sign the COVID-19 Hate Crimes Act into law at 2:00 pm on Thursday. President Biden and Vice President Harris will deliver remarks from the East Room at the White House."
+    publishedDateTime: 2021-05-21T02:22:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/20/watch_live_biden_signs_covid-19_hate_crimes_act.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/20/watch_live_biden_signs_covid-19_hate_crimes_act.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/20/watch_live_biden_signs_covid-19_hate_crimes_act.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 75
+    images:
+      - url: "https://assets.realclear.com/images/54/543508.jpg"
+        width: 876
+        height: 656
         isCached: true
 
 secured: "wYN7veZ8qYvlSUrMkQY9zx2kXuYRW0yuXHhjS4llM0uvsJggyE7YIuKYB7Sa/LODaMr/6fJNgMk/5sCjPT6rnM56ePZIR8zwl14eeK3fi9zlB5rKf/WcdhazR6aQ6NKxR/5HCqi2BlwxZlRJgsdKsCz3HYL2oymin1UGDInqyOFuxzrprZz2Jq9JZVkZvCaHcu34ltwW3E+kZnfGavS0dbphPP4F7mrmiAfVXATGx6Io4ZZ23gt/neyOvyKJmWj6voKldIMQ9WXmoTWMlAFprdMw0YC5vz78PcwUXYcsD8WSHoP+nmbRaPHgPGGLSo6AbDUg3+Xa0ylttnSDkfQLfTgXyIOiYyVxhs+m/993q8k=;Uw3uSnI082VsIh4zlbmEmg=="

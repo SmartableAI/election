@@ -117,14 +117,14 @@ related:
   - title: "Joe Biden remarks on the Middle East"
     excerpt: "U.S. President Joe Biden deliver remarks on the Middle East in the Cross Hall at the White House in Washington on Thursday, May 20, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-05-20T23:24:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/ada9834033aa7d67da6f776d4dfe75c7/Joe-Biden-remarks-on-the-Middle-East/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/33cd2900febd06252fab95604ae60cfb/Joe-Biden-remarks-on-the-Middle-East/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/ada9834033aa7d67da6f776d4dfe75c7/BIDEN-MIDDLE-EAST.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/33cd2900febd06252fab95604ae60cfb/BIDEN-MIDDLE-EAST.jpg"
         width: 650
         height: 433
         isCached: true

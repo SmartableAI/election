@@ -45,6 +45,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "President Biden: \"Every Time We Let Hate Flourish, We Make A Lie Of Who We Are As A Nation\""
+    excerpt: "President Biden is set to sign the COVID-19 Hate Crimes Act into law at 2:00 pm on Thursday. President Biden and Vice President Harris will deliver remarks from the East Room at the White House."
+    publishedDateTime: 2021-05-21T02:22:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/20/watch_live_biden_signs_covid-19_hate_crimes_act.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/20/watch_live_biden_signs_covid-19_hate_crimes_act.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/20/watch_live_biden_signs_covid-19_hate_crimes_act.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 75
+    images:
+      - url: "https://assets.realclear.com/images/54/543508.jpg"
+        width: 876
+        height: 656
+        isCached: true
 
 secured: "iw7WaSPQOV8EVUTJ/0VLiTjbTegidnzwe61aIKcOj5eDlQCIeQa3e/2WLB4nWT9GwCkVPoUe+PbV7lrFKzbcJgQ2ABpX+KR+qMJLTiW2SLKtcKEd35gahPwBRykyvk7JuIpkVcb0q8QLVCGU77EaPgUjT/aqgqyA7fSIaPsrIwbd3nFgaEzGoM4UEFsaTa9pwiLnapoEDtJDkjS00xo6tbrbPoEi+BzkfVlDqE2lnKBS1eiJATSS2qMgYYOZ+2mnXXDw+W5sS5iDFFrQN5m8MUn4SDHj5gH8L2vZh1gsYJp31/3l9+zxPhba7T0gp54S9GVi+9uvW4gvxSKhAFD5NvGaFHGzG8DbrUEOHuBXoQM=;NeGsCwXtI/9evPSZNpQMiQ=="
 ---
