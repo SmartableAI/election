@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden meets with Kennedy Center honorees at White House"
-excerpt: "President Joe Biden spent Thursday morning in a star-studded meeting with this year’s Kennedy Center honorees. The president met at the White House with the recipients of the lifetime artistic achievement awards: country music legend Garth Brooks,"
-publishedDateTime: 2021-05-20T20:48:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
+title: "Biden to host George Floyd’s family at White House"
+excerpt: "President Joe Biden’s plans to host Floyd’s family come as talks focused on the police reform bill named after Floyd have stalled on Capitol Hill."
+publishedDateTime: 2021-05-22T18:13:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/05/22/george-floyds-family-visit-president-joe-biden-white-house/5222533001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/05/22/george-floyds-family-visit-president-joe-biden-white-house/5222533001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5222533001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5222533001"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_5ac365c5e65e44b8992dfc210d726686_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.gannett-cdn.com/presto/2021/05/20/USAT/37aaf391-f4b3-4d41-aa23-f80764a105b5-018_GeorgeFloyd_Anniversary.JPG?auto=webp&crop=4718,2654,x0,y434&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "Biden meets with Kennedy Center honorees at White House"
+    excerpt: "President Joe Biden spent Thursday morning in a star-studded meeting with this year’s Kennedy Center honorees. The president met at the White House with the recipients of the lifetime artistic achievement awards: country music legend Garth Brooks,"
+    publishedDateTime: 2021-05-20T20:48:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_5ac365c5e65e44b8992dfc210d726686_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden bestows Medal of Honor on Korean War veteran"
     excerpt: "President Joe Biden is awarding his first Medal of Honor to a 94-year-old retired Army colonel for bravery more than a half-century ago in the Korean War"
@@ -79,22 +95,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden to host George Floyd’s family at White House"
-    excerpt: "President Joe Biden’s plans to host Floyd’s family come as talks focused on the police reform bill named after Floyd have stalled on Capitol Hill."
-    publishedDateTime: 2021-05-22T18:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/22/george-floyds-family-visit-president-joe-biden-white-house/5222533001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5222533001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5222533001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/20/USAT/37aaf391-f4b3-4d41-aa23-f80764a105b5-018_GeorgeFloyd_Anniversary.JPG?auto=webp&crop=4718,2654,x0,y434&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden to meet with George Floyd's family 1 year after his death as policing bill stalls"
     excerpt: "President Joe Biden will mark the first anniversary of George Floyd’s death on Tuesday by meeting with members of the Floyd family at the White House as Congress is poised to miss the president's deadline for passing police reform legislation named in Floyd's memory."
     publishedDateTime: 2021-05-22T19:28:00Z
@@ -123,6 +123,6 @@ related:
       domain: reuters.com
     quality: 98
 
-secured: "v3fjWDMKTYL1H2INTJp/NNzpgK3OlflUxa3ZEJrnATpfVl/a5hOcBfqrXU1quEcHTEzgN+W1QU4qXJ9OVxy5F7r1OTCusX0i6FZkcRdhDa7StT3f41sIJblEfyodWTX+mT8M75+EhuPo1NI8Wz6XBsQZKxdNFP82E71jFe3Ts6x5NbogcuDo1JQqFZJunhA+zEpttz9U9Fx5HQZIjAkBCm93DwPhSX4iXI1L2sUYD3UoP2OO2qBzErmx14Ngcotkr/r/vmzR6AgVLF0//ACa79Y+tE409+3bl6+Xt0lmSWo1QUQI9X8kIWXyQikBTWdUb5BIpisETQ3iBJ3s/n82baMiK/7K+0+Q4BCCN5UzN38bgpPPrwF/w548MsoV63aByoIvHJHjMA6hTS9hUcEhe18PV+t88mNws6EuQ1xId3oyv+cnTbgTe/JmvB1YLrQxxLx+5C++FRWpb9ybKjl35wlSzOs70z8rbfRCDW1t50qlQRt1SrrMWEX+B+bEWJoCEmC/I/gRUMmy/5nGv1ZGOA==;nFRHk9aE2FmSIlyk1hQVzQ=="
+secured: "98e0MZQ45mXWvcbr6ZUM8PZoWMnw3VyN+TMfQuSLGJSoreXk5Gtm7uqTPHdpN7vbx1Cxuh0hmNPpCdU9RH0TmZAAPEVjhJ+OpDBVBxY5iA6Z+0jnf2g8r2e0WBszTS13P5duMw05XgwO3W/2k+NdLuE1McM+iFI8JQXeKbdXtlX1kXpqrGWUpxVUEIjsE8V/nZIMRjUTdTpoo1gJOq82JGxiCIhAt3N7uU5H7UyhxZVE2pc19amSoZZ0FB/+P0qE1abNIhOEkFMGfR27RezXPD6iePDNr+mfsPR1CpghqA9zumPy1KDwjkgMXaaErP5MjprRL0BWdyoDbisV/UJgihC6F5WmrJYD6VWiaibEU1I=;L2bP+Ld0xeuojkye4CPMkQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-
 webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
+    excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
+    publishedDateTime: 2021-05-22T11:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/22/donald-trump-criminal-investigation-makes-his-political-future-murky/5166416001/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 26
 
 secured: "5y7KA10aSuQeZJwFn1kJZfH6P1GHXE+mrRwtNLNwyeZkWGAQoqiELjeQJf5Qozm9qahhuiSzy9LHI9GupzpOnOucYDY/4ySe2p5mXjiuXVIddqReX+Wzr2h/W4dEvCbyoPxRzobS333xD05b3dpSGJtdcKBNU7Fa+pOk0ScDUxJn/NLgGYvT1weWhEx3/a0h5Ng84KPEZz8H/hk8F0bgMtLSbuKsNpgFVAr+UnSvLt4/lRSEWl5bURfXPB9jC2PpthAsAaLbOni6mRkipfdNuel7+bi06myJ9WosYW5PTiSgRnxpyos9xHAeBZFx9cDythUNuvYvogKBv49EzaqulAYQEiHMEWlN0dxIZlGUvfuS8B8jR5Ubc6PXy3ht1CBUSe8g8Ifm3F8djsZVTGycuin3jra8CzrNqVmoGzLszyMafoB/6jXbWBgMA/T+U6xzi+Dq1rEt6GSIsGJU2fX/4RvbQA5ObGcBOFLVHG0GhaytuvxJlYvZ/pvUEVUyfacslRQFZi7rvrkCpJh8+tNg7w==;Fs8jpyM1NgLWq8Hsp91nNw=="
 ---

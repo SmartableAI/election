@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/new-york-ags-office-says-trump-orga
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
 type: article
 quality: 171
-heat: 271
+heat: 291
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/james-vs-trump-hp1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Maddow: What We Know So Far About NY's Investigation Of Donald Trump"
+    excerpt: "Rachel Maddow offers a quick overview of the discrete facts we know so far about the New York investigation of Donald Trump and the Trump Organization."
+    publishedDateTime: 2021-05-20T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/49/499280.jpg"
+        width: 1130
+        height: 846
         isCached: true
 
 secured: "/Uii2v3+k78hKVfYasjOSU9+m3fErB/g8yvgOzaizPxK9jcfxmXzzwAp5PR78UnBJ62MYenfor5o4HhYBgc+HGYIG9vGf+6Y3xmk/6rjZbQQUThkDkC/n8AJPgk+1z4xPrrCX9nd/Pomr7ilLzmvVWSlhCSWtTwV15NyGtqeVMAEQp5t3Q6/V8AVmdFLrr0bGvXpHh+XbiWxPjTITH9CGQSClScQyGz8/ee1fwc//oLQPe/AGMJT8TXe8ClQUTHGI5dbTx6N+knq7l7N6dAIe3P5NxbumGaoSE9Zw9IaIPlUKx8ycOC0WUDTpd/U+DdBn50cH5iKbtTqPMdPDsYmAOet8AosQDuaS3sZkImyA9s=;0/KHRER1VHKI/N4dCmAvEg=="

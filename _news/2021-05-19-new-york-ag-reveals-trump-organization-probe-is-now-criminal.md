@@ -108,6 +108,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Maddow: What We Know So Far About NY's Investigation Of Donald Trump"
+    excerpt: "Rachel Maddow offers a quick overview of the discrete facts we know so far about the New York investigation of Donald Trump and the Trump Organization."
+    publishedDateTime: 2021-05-20T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/49/499280.jpg"
+        width: 1130
+        height: 846
+        isCached: true
 
 secured: "ojiqHUItrAe327J6uIEFW8f25Z/xGF0AvuUa4J5wceaoFipVO1hk9ki8AjolnZpMF+tLZYuz2PlFbYGRv8eMOzvGrKWguTQkzeqbi7EuK8cpXiRhfpsfH2FETTmLSkQqT35hUScrFu+X413++vf8qeXHoPV8IJX8QtoQ25NELZmy23ECHR8U8/cRg+IJ3tqRdnBaqAugaXaLpfQPZPuGduO6p3QLlgG+W8HD6nbMp0bKMFRDYww4Jln3d/P+wxtQ0/qT9m0mCL98Mn8Lhzs02UNzC5fDrXTX4nlRcYGd9fUFpGhiRt5eD3IuRckeO4OYi3+4y3sKKRyXB1vZir3I1zcm0NtZKCaNHWQy4J5Nc8huPHRD3r2SBcXB9EzxP9hGbTARJrP227qKyLd9amxVoebl6vzOpcn1vdvrrE7dd/rY13891mCdnRHGvlwUeHH3VlqBGDsnyDUR0JLXCSJYx4T+gQzInsdbFV2m8lmNEZBVfxbwySK4yYhRYsidkg2UfQSX+tYR0R2d+ZYm4zwC/g==;iBiaZR9VwBv4EJVIC4gFTA=="
 ---

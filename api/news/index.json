@@ -499,6 +499,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-22-the-latest-biden-says-his-party-still-supports-israel.md",
+      "title": "The Latest: Biden says his party 'still supports Israel'",
+      "excerpt": "President Joe Biden says there has been no shift in his commitment to Israel’s security, but insisted a two-state solution that includes a state for Palestinians remains “the only answer” to that conf",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KTHNPHV2Q4I6XPCKMKCJZ5WMVE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-21T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-biden-worries-the-world-thinks-america-cant-lead-after-trump-and-that-its-beginning-to-look-to-china.md",
       "title": "Biden worries the world thinks America can't lead after Trump, and that it's 'beginning to look to China'",
       "excerpt": "Biden told The New York Times about the Irish prime minister commenting, \"Well, America can't lead. They can't even get their arms around Covid.\"",
@@ -846,58 +898,6 @@
         "name": "UPI.com",
         "domain": "upi.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-the-hills-morning-report-presented-by-facebook-israel-hamas-cease-fire-underway-biden-praises-unconditional-truce.md",
-      "title": "The Hill's Morning Report - Presented by Facebook - Israel-Hamas cease-fire underway; Biden praises 'unconditional' truce",
-      "excerpt": "Total U.S. coronavirus deaths reported each morning this week: Monday, 585,970; Tuesday, 586,359; Wednesday, 587,219; Thursday, 587,874. Friday, 588,539. A cease-fire took effect between Israel and Hamas hours after Israeli Prime Minister Benjamin Netanyahu ’s Security Cabinet approved a unilateral halt to an 11-day military operation in the Gaza Strip.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/morning-report/554692-the-hills-morning-report",
-      "originalUrl": "https://thehill.com/homenews/morning-report/554692-the-hills-morning-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/netanyahu.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/morning-report/554692-the-hills-morning-report?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/554692-the-hills-morning-report?amp",
-      "publishedDateTime": "2021-05-21T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

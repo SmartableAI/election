@@ -1,24 +1,20 @@
 ---
 category: news
-title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
-excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
-publishedDateTime: 2021-05-19T03:29:00Z
-originalUrl: "https://www.wsj.com/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
-webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
-ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+title: "Maddow: What We Know So Far About NY's Investigation Of Donald Trump"
+excerpt: "Rachel Maddow offers a quick overview of the discrete facts we know so far about the New York investigation of Donald Trump and the Trump Organization."
+publishedDateTime: 2021-05-20T00:00:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.html#!"
+ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.amp.html"
 type: article
-quality: 129
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-340537/social"
-    width: 1280
-    height: 640
+  - url: "https://assets.realclear.com/images/49/499280.jpg"
+    width: 1130
+    height: 846
     isCached: true
 
 related:
@@ -96,6 +92,22 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
+    excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
+    publishedDateTime: 2021-05-19T03:29:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 129
+    images:
+      - url: "https://images.wsj.net/im-340537/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump: Vance, James trying to ‘cancel’ voters with criminal probe into organization"
     excerpt: "Former President Donald Trump blasted New York Attorney General Letitia James and Manhattan District Attorney Cy​rus​ Vance Jr. for their joint criminal investigation into his organization."
     publishedDateTime: 2021-05-19T18:04:00Z
@@ -112,23 +124,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Maddow: What We Know So Far About NY's Investigation Of Donald Trump"
-    excerpt: "Rachel Maddow offers a quick overview of the discrete facts we know so far about the New York investigation of Donald Trump and the Trump Organization."
-    publishedDateTime: 2021-05-20T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/49/499280.jpg"
-        width: 1130
-        height: 846
-        isCached: true
 
-secured: "KwuoOL6O8iDRMz5NmJ3E1x+p4qtcjy55eCBHVhdgE8OKss/C1IQJzAETniq9qE3Wna0WIQr50aUPKl8gAefWW+FB1wLOhKhwr9sYyAo6HyhXB7c6uDZeT9EsvNMJdF2RQf0c/t/2YDjds5SqnyX/agKy2P6dLM3vS3Uh8ej3z/jKrzKJzeIjrhVBJ7Sb4gBUDbrMOFY5SiDztOvPcvedLMqvJZ4N0EKun5WF6Z1aMDJdQ2NsaoFruAuXSNJ2kjibuMsbQlHLVrk2Q4+WFOraV6kxQY6ZCEhNpbGVq28pfUd9i6DRZWGOyguCjyInthn5yDvnKWongS94WVu2I2PPASTpMsdiaZ2eLOvQPYWG11CSkMf9vmBPUmju01BTMEBwkFFyErkx+kSnB+GVBktCwQgxO8i1s9r0xaj9mPGk1kZkcJBJavKEarL5xwZrfxVbys+2SZj4WsW9Hy2E2YBTOWPt++H3WDTDjD2KruEFUaUdh5qeoHakhs8cBhHLGKFgRS6bij47YG85Fh7Pzuaq2Q==;FzlNKZ4HduURSCj8UJ/CzQ=="
+secured: "TZK8tBcIkj6XIXXGw1wisGnTrg28lkp+YHPyrVYHJARv/jinTYSihhcb2uxMC6s9RpyMaMuEe9cKAntP8wKx8SYEFVaT4pO50XktmafSKWjpVB7jFtumJtrnN6l9GsIOmwFZ0L2Yif6WvQ67aEs+7Nivo61uCwP9xLy8nT6nY7DA78+XZkyplHG8aqidWNn3ChoVuTc/t5Vr9noF6hVhj/iKNHQrqzV72MFQd/k0GVQ2fVRB2px5mkdqTN9BC2vvv2XHUDbFIy/JebSL0w4P+Epc6H+0s6OgrC5Wo1OqD6lNkjH0mYp2FUGl1Mz6xCxDySp//umY1QbnEe/dzeDIVLTCXT7WRP0+CQcXuEYDi/A=;XcRS09PMVNMNBffd+VSIuw=="
 ---
 

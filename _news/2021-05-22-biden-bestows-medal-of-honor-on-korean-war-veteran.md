@@ -79,6 +79,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden to host George Floyd’s family at White House"
+    excerpt: "President Joe Biden’s plans to host Floyd’s family come as talks focused on the police reform bill named after Floyd have stalled on Capitol Hill."
+    publishedDateTime: 2021-05-22T18:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/22/george-floyds-family-visit-president-joe-biden-white-house/5222533001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5222533001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5222533001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/20/USAT/37aaf391-f4b3-4d41-aa23-f80764a105b5-018_GeorgeFloyd_Anniversary.JPG?auto=webp&crop=4718,2654,x0,y434&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden to meet with George Floyd's family 1 year after his death as policing bill stalls"
+    excerpt: "President Joe Biden will mark the first anniversary of George Floyd’s death on Tuesday by meeting with members of the Floyd family at the White House as Congress is poised to miss the president's deadline for passing police reform legislation named in Floyd's memory."
+    publishedDateTime: 2021-05-22T19:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-george-floyd-01-gty-llr-210522_1621703880886_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden traveling to voting rights hot spot Georgia to promote plans to rebuild economy"
     excerpt: "President Joe Biden marks his 100th day in office with a trip to Georgia on Thursday, visiting former President Jimmy Carter and pitching his plans to spend trillions of dollars to rebuild the U.S. economy."
     publishedDateTime: 2021-04-29T14:00:00Z

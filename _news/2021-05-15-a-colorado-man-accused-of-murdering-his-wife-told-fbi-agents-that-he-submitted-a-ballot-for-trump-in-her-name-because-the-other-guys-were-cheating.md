@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
+    excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
+    publishedDateTime: 2021-05-22T11:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/22/donald-trump-criminal-investigation-makes-his-political-future-murky/5166416001/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 26
 
 secured: "BaMHo5uWhWz7vww4r9agxVtlx3iBBRt9Z+kz2N3E2qulR5jJWPpzZf6Qy+Oy5OdXRl/o56Ul+4T/gcXF7Y618OXp1uD0WW3P9yJrr/SEsZsdply/Bt5GsSoi0rnZE0pv4OZZIW161noMIqZ+iJ2zfHc8bPHHCFPRnmDPJnyHXfasWG67grkVFR87KRSgBSDAwwsGe5qTiaU9JKhrQlzgytlsyZXbr4Edzy5VUQCxHT1SYGf9hu6lhtD9YcKprGVlLB8RF0pbFHeaP67wi2HpfzuekdcIQc//Qtf0b3LcH+mbUNkLPSVX40trUoUwQARz1ib5By97ydowedc2aECFgtarXh4qnzcetXH4S04qA9i4PQe6pIm0kYMyr8UnRv2aHLaiX5ywakYqZ6+w9wnrWJYJFA5QAZRXC6nqaKKKgJdBrsONgg8TOrG4Gn29Gphcj01F1VOFIUvk+wtDr9f4+ITxaCAB80ig0BcKKdoH6KFTsgWYFA07N593cRt6WRFfcPHiUDsJRC4MkOfpK9aR+w==;qDH86bPe3efFoRdhopqaKA=="
 ---

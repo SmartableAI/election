@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Biden extolls global role to Coast Guard grads"
-excerpt: "President Joe Biden delivers his first commencement address as commander-in-chief, stressing the vital role new graduates at the Coast Guard Academy will have as the United States reasserts itself on the world stage."
-publishedDateTime: 2021-05-19T18:40:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/19/biden-extolls-global-role-coast-guard-grads/5167994001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/19/biden-extolls-global-role-coast-guard-grads/5167994001/"
+title: "President Joe Biden Meets with South Korean President Moon Jae-in in White House"
+excerpt: "U.S. President Joe Biden, right, and Moon Jae-in, South Korea's president, arrive at a news conference in the East Room of the White House in Washington, DC on Friday, May 21, 2021. Moon is set to make a last-ditch attempt to bring the U."
+publishedDateTime: 2021-05-22T02:10:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/93aa2cd5ec0f8963a56be50995be10d5/President-Joe-Biden-Meets-with-South-Korean-President-Moon-Jae-in-in-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/93aa2cd5ec0f8963a56be50995be10d5/President-Joe-Biden-Meets-with-South-Korean-President-Moon-Jae-in-in-White-House/"
 type: article
-quality: 105
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f2bcc064-d462-4c4b-9148-e518fae4c884_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://cdnph.upi.com/pv/upi/93aa2cd5ec0f8963a56be50995be10d5/BIDEN-KOREA.jpg"
+    width: 650
+    height: 433
     isCached: true
 
 related:
@@ -92,6 +88,20 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562109617&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D0JF"
         width: 818
         height: 545
+        isCached: true
+  - title: "Biden extolls global role to Coast Guard grads"
+    excerpt: "President Joe Biden delivers his first commencement address as commander-in-chief, stressing the vital role new graduates at the Coast Guard Academy will have as the United States reasserts itself on the world stage."
+    publishedDateTime: 2021-05-19T18:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/19/biden-extolls-global-role-coast-guard-grads/5167994001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f2bcc064-d462-4c4b-9148-e518fae4c884_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden to tap Homendy to head NTSB, White House confirms"
     excerpt: "The White House confirmed on Wednesday that President Joe Biden plans to nominate Jennifer Homendy to chair the National Transportation Safety Board (NTSB)."
@@ -162,21 +172,7 @@ related:
         width: 650
         height: 897
         isCached: true
-  - title: "President Joe Biden Meets with South Korean President Moon Jae-in in White House"
-    excerpt: "U.S. President Joe Biden, right, and Moon Jae-in, South Korea's president, arrive at a news conference in the East Room of the White House in Washington, DC on Friday, May 21, 2021. Moon is set to make a last-ditch attempt to bring the U."
-    publishedDateTime: 2021-05-22T02:10:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/93aa2cd5ec0f8963a56be50995be10d5/President-Joe-Biden-Meets-with-South-Korean-President-Moon-Jae-in-in-White-House/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 50
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/93aa2cd5ec0f8963a56be50995be10d5/BIDEN-KOREA.jpg"
-        width: 650
-        height: 433
-        isCached: true
 
-secured: "Hr5tYbRvllydIGD7OUIfSFrBRN93HN8TZgtVI9cCeCWSwjsxxU0z7Cg8R024EdrT1ngWe3NUI0lsX2l3nh5kt1L41ZX+SNLtLQlnOREqkJjXQFEdzNEL3Z8xL4sBjf/fVFEgQD4spYhftMOC+xCvKW5D73h/g/8OQ2uTpbM6UDSevuPvR9fMR2twPvEOMCBxcLud+/BctctvSxLaxV1u5sOZkjczFagoph8jo1sZO3EgxyipVYpN5TXtYF5QIzOZ6k098vlFXvlvYm/ExkwUS6peRF1ZW0yEr7LAz6RpzFaqBeurcRRn5FrN2SXbMwP7yxqOe5eq4BBh8gH6uHQ9USMywFdBG7Rffm+XCltLmoc=;utM9knhGsDQU/Wncr0aIHg=="
+secured: "tDwEmvF8g2mnvQjDFSRw0RFg3XZ7S95b2Hu9mustm6T0LnQ6s0srBtaP62i2sJ1zgdnbd90Be/Ax14D77yVPArV9rCPjHxPqITP0ARB5hiFAm/Yixd8PqQ4rdDbYTGCam8ubcEOs0yErCnxJqN/Ep2EO+Z7ztwWkQlDqKHBxiFRZ/RC4PwODzHkaUdQb6O+aYJ4Bt0bTq+kEkXShatsB/ILxyOzj0UpSiJivXNBLqxKCOQm50FQtg3WLOMrStgIbdVsGH5wFra4ZPfDMUaE7BX2OkS5oEdcoYJJ31TCsVCdW0tvkWksn6Beh7OVHDPgfyjlCingKD+WQApUKecoeOAXe4Ez/8JVyLIP8z+kh5qU=;LSQ4obUOQRUenvrm/7GUmw=="
 ---
 
