@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/republican-arizona-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013"
 type: article
 quality: 140
-heat: 1020
+heat: 1060
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "In Virginia, Trump's election lies look like a GOP liability"
+    excerpt: "The national Republican Party has increasingly embraced former President Donald Trump's false claims of fraud in the 2020 election"
+    publishedDateTime: 2021-05-21T17:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/virginia-trumps-election-lies-gop-liability-77831080"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/virginia-trumps-election-lies-gop-liability-77831080"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/virginia-trumps-election-lies-gop-liability-77831080"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ef08db228efd4c88895cf4ada301654c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fact check: False claim from Trump about Maricopa County election database"
     excerpt: "Trump's statement rehashes the debunked claim that there was widespread voter fraud affecting the outcome of the 2020 presidential election."
     publishedDateTime: 2021-05-18T21:07:00Z
@@ -676,6 +692,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "U.S. Attorney General Garland Weighs Release of Trump-Era Obstruction Memo"
+    excerpt: "U.S. Attorney General Merrick Garland faces a Monday deadline to decide whether to appeal a court order criticizing his predecessor William Barr, an early test of his willingness to defend the Justice Department's acts during Donald Trump's presidency."
+    publishedDateTime: 2021-05-21T16:08:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-21/us-attorney-general-garland-weighs-release-of-trump-era-obstruction-memo"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 33
   - title: "House Republicans Pick Stefanik to Replace Trump Critic Cheney in Leadership - Media"
     excerpt: "Republicans in the U.S. House of Representatives on Friday elected Elise Stefanik to serve in their No. 3 leadership position, replacing Liz Cheney, an outspoken critic of former President Donald Trump's false claims of election fraud,"
     publishedDateTime: 2021-05-14T13:34:00Z

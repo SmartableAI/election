@@ -144,6 +144,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden insists that 'my party still supports Israel'"
+    excerpt: "President Biden said that there has been “no shift” in his commitment to Israel and that the Democratic Party still supports the Jewish state, despite objections from progressives."
+    publishedDateTime: 2021-05-21T22:48:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mCiQkD6Kiac/biden-my-party-still-supports-israel"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0b37716-3ca3-44de-b178-48a4769ea36c/57bf81a7-bbf7-4609-a1bc-0f424e03f276/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pence slams Biden admin for trying to create a 'false equivalency' between Israel, Hamas"
     excerpt: "EXCLUSIVE: Former Vice President Mike Pence slammed the Biden Administration for attempting to create a “false equivalency” between Israel and Hamas, saying he and former President Trump “set the table for lasting peace and an end to the decades-old conflict in the region,"
     publishedDateTime: 2021-05-18T16:37:00Z

@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'We still need a two state solution' Biden remarks on Israel cease-fire"
+    excerpt: "President Joe Biden responded to questions about his approach to Israel during a press conference with South Korean President Moon Jae-in."
+    publishedDateTime: 2021-05-22T00:15:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-remarks-on-israel-cease-fire-during-south-korea-press-conference-112801349706"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo112801349706"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo112801349706"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/mpx/2704722219/2021_05/BidenIsrael.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "BQblr4GQ/slQI+qlWTal9ys85I4f3utk+pZoaDdPZX+d62Mp9l91zOniyveLtMpiX0NgH0OjA7A3jp/oUcQICc1ocSK2CP6k69Be5P+tcx5euPKvO3vAW+PGEe+S2hX+CMR7Qo2m4Cpci5TCfiNJd07MSXlJWIR7IFnNP7jehAJNUwc6tVVK4K9Jt7NQy36iZ0GIOBmfq18NJKt0B7lKGFBV+TQhwgmsIN0n1N0c+REi0gKBleWVw6NtUSjS+DbnhRPzZZedLN4o13b7abxML3pOl136GM7AAqMmSUIBytM60GEaLrZOrgZwXVSsJoCnhf3hGH4QcH/jEC2EAMkod+wP5My1CIwlR/VMmEyNCmI=;D7+Y6CdbdKUMqYf8mkNvWg=="
 ---
