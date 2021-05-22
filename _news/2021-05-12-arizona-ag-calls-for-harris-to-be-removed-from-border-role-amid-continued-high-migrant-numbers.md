@@ -46,54 +46,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Jill Biden said Kamala Harris can 'go f--- herself' after she attacked Joe Biden in first debate, book claims"
-    excerpt: "The relationship between the Bidens and Vice President Kamala Harris purportedly became messy after Harris -- then Joe Biden’s opponent in the primary -- came after the president for his record on busing and his boasts of his relationships with segregationist senators, according to journalist Edward"
-    publishedDateTime: 2021-05-19T18:00:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BwVqML3nqSQ/jill-biden-kamala-harris-go-f-herself-biden-debate-book"
-    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3594866f-1e28-48b4-9186-03d4f5320bd3/676ae2fc-713c-46e6-b073-9d162b1094b3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris keeps assets in tax-advantaged trust, appearing to violate own ethics pledge"
-    excerpt: "Vice President Kamala Harris keeps assets in a tax-advantaged family trust, a move that appears to violate an ethics pledge she and President Biden made on the campaign trail."
-    publishedDateTime: 2021-05-19T16:51:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5QOurbf2wEI/kamala-harris-financial-disclosure-assets-trust-ethics-pledge"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de3a1e91-b0da-44c6-9238-915f4385cf4b/6d6c657b-0a98-4c5d-b6af-d33cd0ebeecc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Rep. Hinson to introduce bill halting funding for Harris travel costs until she visits border"
-    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, on Thursday will introduce a bill that would bar taxpayer money being used for the travel expenses for Vice President Kamala Harris until she visits the southern border and issues a report on how to solve the crisis."
-    publishedDateTime: 2021-05-20T10:00:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hYVH_PNiLNY/rep-hinson-bill-kamala-harris-travel-costs-border-visit"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-hinson-bill-kamala-harris-travel-costs-border-visit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-hinson-bill-kamala-harris-travel-costs-border-visit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Controversial billboard calls Biden, Harris ‘s–theads’ in Maryland"
     excerpt: "The sign on Route 4 in Huntingtown shows cartoon faces of the smiling commander-in-chief Joe Biden and his number two stuck on top of large emoji-style drawings of poop."
     publishedDateTime: 2021-05-12T14:52:00Z
@@ -107,54 +59,6 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/maryland-billboard-98.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "VP Kamala Harris cheers Ella Emhoff on her college graduation"
-    excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
-    publishedDateTime: 2021-05-15T23:55:00Z
-    webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
-    ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "VP Kamala Harris cheers Ella Emhoff on Parsons graduation"
-    excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
-    publishedDateTime: 2021-05-15T23:55:00Z
-    webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
-    ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris keeps list of reporters who don’t ‘understand’ her: report"
-    excerpt: "Kamala Harris and her team, according to a profile of the VP published by The Atlantic, typically “dismiss” reporters and “tracks political players and reporters whom she thinks"
-    publishedDateTime: 2021-05-19T14:57:00Z
-    webUrl: "https://nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/"
-    ampWebUrl: "https://nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-reporters-7.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -189,38 +93,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Kamala Harris keeps list of reporters who don't ' fully understand her:' report"
-    excerpt: "Vice President Kamala Harris reportedly keeps a list of journalists and media members who she feels \"don't fully understand her.\" A profile of Harris published in The Atlantic claims that the vice president and her staff keep track of journalists ..."
-    publishedDateTime: 2021-05-19T22:45:00Z
-    webUrl: "https://www.foxnews.com/media/kamala-harris-keeps-list-of-reporters-who-dont-fully-understand-her-report"
-    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-keeps-list-of-reporters-who-dont-fully-understand-her-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-keeps-list-of-reporters-who-dont-fully-understand-her-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9cc64e-3031-4674-8195-c7abe250b4f8/4f273b67-7f3e-496b-bba3-09feaace0a1f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris keeps assets in tax-advantaged trust, appearing to violate own ethics pledge"
-    excerpt: "Vice President Kamala Harris keeps assets in a tax-advantaged family trust, a move that appears to violate an ethics pledge she and President Biden made on the campaign trail."
-    publishedDateTime: 2021-05-19T20:21:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de3a1e91-b0da-44c6-9238-915f4385cf4b/6d6c657b-0a98-4c5d-b6af-d33cd0ebeecc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
   - title: "CNN touts Kamala Harris as part of 'star-studded' graduation special featuring liberal celebrities"
     excerpt: "Vice President Kamala Harris will keynote what CNN calls a “star-studded\" network special honoring the Class of 2021 featuring other liberal celebrities, the network announced on Wednesday."
@@ -283,34 +155,6 @@ related:
       - url: "https://assets.realclear.com/images/54/543529.jpg"
         width: 1038
         height: 778
-        isCached: true
-  - title: "Kamala Harris's Impossible Vice Presidency"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-05-17T11:39:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/543462_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "VP Kamala Harris: \"In My Life, My Lived Experience, I Have Seen How Hate Can Pervade Our Communities\""
-    excerpt: "Vice President Harris spoke at a signing ceremony for an anti-hate crimes bill Thursday from the White House. \"Those here today are united. This bill brings us one step closer to stopping hate, not only for Asian-Americans,"
-    publishedDateTime: 2021-05-20T19:12:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 50
-    images:
-      - url: "https://assets.realclear.com/images/54/543796.jpg"
-        width: 750
-        height: 562
         isCached: true
 
 secured: "57bkNJOnS1W2V8+77zo/XSAc9FLOWjkngoXtWYCgFrswBRVYgJTDlzQKjLQjSyEkjJ3d1wYKansdnS6kHAYNvRrX5u91KjFhwr2CW/gx9ku3w7HRboBfCvsC9HSQQOKV5+qflKMh9p5s3PlQoPTK1qXuR+g2ruznoUo7FSsA/DZsdyU2AGdy9ZiN1YnipnHwFwkrjhOa7E3dykKcXR6UQAG4HmxodPvFTGW/oDHkGGBIfNR5jJml5/GV7l1jjV8FUosGzhYDG0yQEWz7RkSPjybG3h1dv8vbj23RBvJYm8v0kSEqkabzl++50v/EOpGXGyWWdeuhy5oSjIwE3pen13SpYFZLnSG1A8ocQFg+57Y=;VAvDBOf+BsTzimJRUoEU7g=="
