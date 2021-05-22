@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210516220436-02-family-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Key progressive initiatives stall in Congress as some on the left urge Biden to go bold, and go alone"
+    excerpt: "As President Joe Biden pursues his quest for a bipartisan legislative victory and Congress winds down before the Memorial Day holiday, some of the top legislative priorities for progressives are stalling in Washington as Democrats' hopes for big bold changes collide with the limits of what Biden can"
+    publishedDateTime: 2021-05-22T10:31:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fSMLmRZlxLg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/joe-biden-republicans-infrastructure-progressives/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/joe-biden-republicans-infrastructure-progressives/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Key progressive initiatives stall in Congress as some on the left urge Biden to go bold, and go alone"
+    excerpt: "As President Joe Biden pursues his quest for a bipartisan legislative victory and Congress winds down before the Memorial Day holiday, some of the top legislative priorities for progressives are stalling in Washington as Democrats' hopes for big bold changes collide with the limits of what Biden can"
+    publishedDateTime: 2021-05-22T10:31:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fSMLmRZlxLg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/joe-biden-republicans-infrastructure-progressives/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/joe-biden-republicans-infrastructure-progressives/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Blinken and Lavrov to hold first high-level meeting of Biden's presidency as US-Russia tensions simmer"
     excerpt: "US Secretary of State Antony Blinken is set to meet Russian Foreign Minister Sergey Lavrov Wednesday, the first high-level encounter between the US and Russia since President Joe Biden took office that comes amid heightened tensions between the former Cold War foes.\n    \n"
     publishedDateTime: 2021-05-19T17:26:12Z

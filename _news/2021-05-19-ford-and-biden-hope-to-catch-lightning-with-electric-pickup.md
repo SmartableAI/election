@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden weathers his first foreign crisis after months focusing on domestic troubles"
+    excerpt: "It was before 8 a.m. ET on Wednesday and President Joe Biden was on the phone with Israeli Prime Minister Benjamin Netanyahu for the fourth time in a week.\n    \n"
+    publishedDateTime: 2021-05-22T13:54:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q81nQxkU8HE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/biden-foreign-policy-middle-east-asia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/biden-foreign-policy-middle-east-asia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "For Biden, foreign policy has taken a backseat to domestic affairs"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2021-05-21T12:51:00Z

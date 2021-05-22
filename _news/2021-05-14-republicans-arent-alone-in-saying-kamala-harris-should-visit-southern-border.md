@@ -44,7 +44,7 @@ related:
   - title: "Mexico says investment and security to be discussed during Kamala Harris trip"
     excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8."
     publishedDateTime: 2021-05-19T16:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-immigration-mexico-harris-idUSKCN2D028G"
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-mexico-harris/mexico-says-investment-and-security-to-be-discussed-on-harris-visit-idUSKCN2D028G"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D028G"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D028G"
     type: article

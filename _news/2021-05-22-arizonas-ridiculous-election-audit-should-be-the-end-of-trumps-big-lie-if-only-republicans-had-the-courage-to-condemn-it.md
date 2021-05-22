@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Trump's 'Big Lie' imperils Republicans who don't embrace it"
-excerpt: "Trump's discredited allegations about a stolen election did nothing to save his presidency when courtrooms high and low, state governments and ultimately Congress — meeting in the chaos of an insurrection powered by his grievances — affirmed the legitimacy of his defeat and the honesty of the process that led to it."
-publishedDateTime: 2021-05-09T15:38:00Z
-originalUrl: "https://www.chron.com/news/article/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
-webUrl: "https://www.chron.com/news/article/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
-ampWebUrl: "https://www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+title: "Arizona's ridiculous election audit should be the end of Trump's 'Big Lie' — if only Republicans had the courage to condemn it"
+excerpt: "Arizona's election audit is a fiasco, built on Trump's \"Big Lie\" that he lost the election because of voter fraud. Republican leaders must condemn it."
+publishedDateTime: 2021-05-22T12:28:00Z
+originalUrl: "https://www.businessinsider.com/arizona-election-audit-trumps-big-lie-voter-fraud-gop-condemn-2021-5"
+webUrl: "https://www.businessinsider.com/arizona-election-audit-trumps-big-lie-voter-fraud-gop-condemn-2021-5"
 type: article
-quality: 75
+quality: 92
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://i.insider.com/60a81a54f27b4c0019446041?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -529,20 +531,6 @@ related:
         width: 852
         height: 480
         isCached: true
-  - title: "Arizona's ridiculous election audit should be the end of Trump's 'Big Lie' — if only Republicans had the courage to condemn it"
-    excerpt: "Arizona's election audit is a fiasco, built on Trump's \"Big Lie\" that he lost the election because of voter fraud. Republican leaders must condemn it."
-    publishedDateTime: 2021-05-22T12:28:00Z
-    webUrl: "https://www.businessinsider.com/arizona-election-audit-trumps-big-lie-voter-fraud-gop-condemn-2021-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/60a81a54f27b4c0019446041?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "White House Won't 'Underestimate' Trump's Chances Of Winning 2024 Election"
     excerpt: "President Joe Biden in March said he plans to run for re-election in 2024 with Vice President Kamala Harris as his running mate."
     publishedDateTime: 2021-05-10T05:09:00Z
@@ -574,6 +562,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3CQ6DDP24FCD7CZ7DDXD3CCXRQ.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Trump's 'Big Lie' imperils Republicans who don't embrace it"
+    excerpt: "Trump's discredited allegations about a stolen election did nothing to save his presidency when courtrooms high and low, state governments and ultimately Congress — meeting in the chaos of an insurrection powered by his grievances — affirmed the legitimacy of his defeat and the honesty of the process that led to it."
+    publishedDateTime: 2021-05-09T15:38:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "GOP purged Cheney for 'unity,' but Trump bent on retribution"
     excerpt: "Republican leaders insisted that purging Trump critic Rep. Liz Cheney from their ranks was necessary to unify the party ahead of next year’s midterm elections. But former President Donald Trump, who celebrated Cheney's ouster by calling her a “bitter,"
@@ -721,6 +725,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "JS+AwjFjqVZGgAhfq4XiJaKzCr2yUegTAUavSEFBo4FRGr311/2ORDeIt7yF81wdkUCw2erGFbgFV9NvE6twgsJbKugVHGgKxDHQiSf3+tOjSHYuKtBvspMr7A/DcPOsN70qXP/6kdlxdmZVZ9hI5iR1+pGcycGjavlch49zKFI85hfgpcCaznWRpvfFO1DqPLJsuIWNVaOavlbvlzDN7JHwAZYpKqW3UDULwjIsm0dN7gEueYmjtjn6jJEYC2Q/5RlE4QPS9aYBe/VNzHwFJ/nCIGQRwNuu32TmGQ3U2yk2XQCIx7GhAvIP1+m97Im1+23DVLDO6PVwrpSOZHFVDpslcPrCW86Z9YmnGGaXbpaTKcHkGaUqtqrQRZgm0cENrTz+ko0MKv0bYJsYO5vtcxOZWBQsY8/U/2bIfuxXeA63fMRQWK1E8tn38QS5FCQULomGD2kweHwhrzrPqX70FE4vuLEBMgMrYnBahYTEyPe5VRQv/lhhjE9RR9m170gbmG+R9IekwmJg+WRjaAT4Bg==;fN45c7fzAHDTL8E4ecLydg=="
+secured: "1zQKZiUEAx67Fhbq4kGtuEMNVCKpRzj6pX1Sma0RvNSjjnpwfIxLt1BOoxaoyt27KzkRjL4dUWl1EB9GSsm5nQpTuZpeDuLWFjtfwXdvchEmfFRq7hukNlOiAN5pUbgUBdd5a1jk7rMIe3nq7bwYuV35izs1rfaM0eGO7XBym/AV/nB+Im5fkD45Yg7KEow+m2j3zZxqs3tBGqMcg3WTnDeSw4INmyozp+Ckgdh9Mt4IT+JgLOT1Ki1di+Fa00IyaCzt0q7tJARvZaI6nz8OzC5DpVm+MmqLbvtbzp3UquUVHQJAHAncPAW2pLrsA8Rzz8AWC2qrFpfb/iU/0xvDnaPO2XjUjnc1ZbAs1uKctns=;5tGsXjpgulAxwxwWb9LBmA=="
 ---
 

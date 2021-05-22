@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Blinken and Lavrov to hold first high-level meeting of Biden's presidency as US-Russia tensions simmer"
-excerpt: "US Secretary of State Antony Blinken is set to meet Russian Foreign Minister Sergey Lavrov Wednesday, the first high-level encounter between the US and Russia since President Joe Biden took office that comes amid heightened tensions between the former Cold War foes.\n    \n"
-publishedDateTime: 2021-05-19T17:26:12Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4N1jyX42c4g/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4N1jyX42c4g/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
+title: "Key progressive initiatives stall in Congress as some on the left urge Biden to go bold, and go alone"
+excerpt: "As President Joe Biden pursues his quest for a bipartisan legislative victory and Congress winds down before the Memorial Day holiday, some of the top legislative priorities for progressives are stalling in Washington as Democrats' hopes for big bold changes collide with the limits of what Biden can"
+publishedDateTime: 2021-05-22T10:31:36Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fSMLmRZlxLg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fSMLmRZlxLg/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/joe-biden-republicans-infrastructure-progressives/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/joe-biden-republicans-infrastructure-progressives/index.html"
 type: article
-quality: 159
+quality: 160
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512132815-tony-blinken-sergey-lavrov-split-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -127,19 +127,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Key progressive initiatives stall in Congress as some on the left urge Biden to go bold, and go alone"
-    excerpt: "As President Joe Biden pursues his quest for a bipartisan legislative victory and Congress winds down before the Memorial Day holiday, some of the top legislative priorities for progressives are stalling in Washington as Democrats' hopes for big bold changes collide with the limits of what Biden can"
-    publishedDateTime: 2021-05-22T10:31:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fSMLmRZlxLg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/joe-biden-republicans-infrastructure-progressives/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/joe-biden-republicans-infrastructure-progressives/index.html"
+  - title: "Blinken and Lavrov to hold first high-level meeting of Biden's presidency as US-Russia tensions simmer"
+    excerpt: "US Secretary of State Antony Blinken is set to meet Russian Foreign Minister Sergey Lavrov Wednesday, the first high-level encounter between the US and Russia since President Joe Biden took office that comes amid heightened tensions between the former Cold War foes.\n    \n"
+    publishedDateTime: 2021-05-19T17:26:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4N1jyX42c4g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 160
+    quality: 159
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512132815-tony-blinken-sergey-lavrov-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -208,6 +208,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "+AoFFlEKYflveKyEUJeDEexJGHUigpAI77zB1QBd5dVgTs7u1zo07c1tFSHYnL7l7OxVfXTiqA9rPEeOSk+qqrSciniOk/lRT0IghgFOWDGjScrCemwXoEaI0Ab9PQoxuA1sRIHqcb3D770NTVZ+WEXRPMzffOGaQx7OinopdzIZtXhcMHKk/He4oZ68At/8FXy5VBs3lw59gZpOvzAU0lzwjp32ijSJ+0nhR/a0E8KNKWAR5c8XBUbPrP5em6Q6jpTFqxzT55+1OHAq3MHJnyHczdqIGiFOem2NJJ3ZbaryRysD75OypRIjP8wghTdhGFQmAdwwjuaRM2o1gRcbDnRikAASFi/nGYHECZiatQI=;3hJLAMk0rl2Chg6F+o0KJA=="
+secured: "NCCy12eXiJMe+NIy+T+eiFytVcP3aJO5kBJVXra71I9ggSbzeSoGL3onSzgTxBgJH68bYJx4a8bvuzyVhG0jqUwv2OfGuFHjW7nYJ+gsDLF626zuIBepuDm51Umakosd3UY1lTCmOfR9vaCRESN0X0wYl3e9FFFvgI/BN2ivYhCb3WRjVM+xPc7a9rmWq+B9plWhira6/E8HNPpC5AgNNQa6bSpSJvhBpQeLlRrt3vHx11n97gXIiBJ2/GTvDwe7kqiQlxpg4A2TttzByOI0dM5HYq3eDrN2qk6aH19bp7y0SN8Mo+C7Iw259RZD0PLCvB4MmwSRzQywn6+F+XoAiPUsFKuTc2/ZExq+2jxZMro=;lBNHL55DVX7lEXhmFt7WuA=="
 ---
 

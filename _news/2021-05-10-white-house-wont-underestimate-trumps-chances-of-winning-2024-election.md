@@ -533,6 +533,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Arizona's ridiculous election audit should be the end of Trump's 'Big Lie' — if only Republicans had the courage to condemn it"
+    excerpt: "Arizona's election audit is a fiasco, built on Trump's \"Big Lie\" that he lost the election because of voter fraud. Republican leaders must condemn it."
+    publishedDateTime: 2021-05-22T12:28:00Z
+    webUrl: "https://www.businessinsider.com/arizona-election-audit-trumps-big-lie-voter-fraud-gop-condemn-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/60a81a54f27b4c0019446041?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump claims Arizona election database deleted, Republican calls him ‘unhinged’"
     excerpt: "The Republican who now leads the Arizona county elections department targeted by a GOP audit of the 2020 election results is slamming former President Donald Trump and others in his party for their continued falsehoods about how the election was run."
     publishedDateTime: 2021-05-16T14:32:00Z

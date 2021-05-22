@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: CNN
       domain: cnn.com
     quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden weathers his first foreign crisis after months focusing on domestic troubles"
+    excerpt: "It was before 8 a.m. ET on Wednesday and President Joe Biden was on the phone with Israeli Prime Minister Benjamin Netanyahu for the fourth time in a week.\n    \n"
+    publishedDateTime: 2021-05-22T13:54:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q81nQxkU8HE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/biden-foreign-policy-middle-east-asia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/biden-foreign-policy-middle-east-asia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
         width: 1100

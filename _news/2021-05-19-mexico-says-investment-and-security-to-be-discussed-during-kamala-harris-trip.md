@@ -3,8 +3,8 @@ category: news
 title: "Mexico says investment and security to be discussed during Kamala Harris trip"
 excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8."
 publishedDateTime: 2021-05-19T16:29:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-immigration-mexico-harris-idUSKCN2D028G"
-webUrl: "https://www.reuters.com/article/us-usa-immigration-mexico-harris-idUSKCN2D028G"
+originalUrl: "https://www.reuters.com/article/us-usa-immigration-mexico-harris/mexico-says-investment-and-security-to-be-discussed-on-harris-visit-idUSKCN2D028G"
+webUrl: "https://www.reuters.com/article/us-usa-immigration-mexico-harris/mexico-says-investment-and-security-to-be-discussed-on-harris-visit-idUSKCN2D028G"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D028G"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D028G"
 type: article
@@ -373,6 +373,6 @@ related:
       domain: newsobserver.com
     quality: 17
 
-secured: "zeLRgutp0rqlXaqGwjchdUJ8jWzlMDfdOwj+7aI1pGtJwYQhlnoaUvm0yGlv/pZp2KnZ041ll1qt8kPC/yTBjt+jKudhATKIkwFE9QLxozsb7qQfZnZDgermDZ/n5oYrB3sfv+fSD37Y6k2X1vn+WIipsBrD8DqMwA54UxZAJ9EI32MtxhQBtsYQgL+a0FXnaI7hliE11v9SpVQactsCZlx3zQaEGHIfaiWUj+gIZofhI7uA+vWJOHHsYNCJDR2mxLH0DyuDZzj3ZI7d56IssfDsNtAmYlX4SLeoVJe2ngkpvLrQ34OFn+X3hg7tS/k0hndrPFA6fNWQgCLg/9kwITqP21Fsf/78/M6w8tN28D0Oxn1gAU9QPasoMQ849Cp5cP/Djf8ShZCo86vlT5jwunCxCzEk75UrTc6JjYJrJ5wA6skvmWWn/8G4OPfmvIC8A9/Qc/jvysSaXaz2XxNMLPO6Fy5LGLkffr2ZjlbNhL5uDon7eDsTTs5xvHVnA7Spt+RNrs/Qu6CMDuLJtFTNfw==;CQy+SnM94J9RA5OnP+cBYA=="
+secured: "anT/njkDdG2YqB7IQwB0uSNwZWgQVp1eHtxLhSIFGZ2VVMqTOwGdhfygtL4koJo3HYDV8mLgwzdc9eWMFI59pucy1v+kwR2ZTo+VDYhhZKgUW1gwkLn290vq0zLaNqYrNWQDAkEh06+ihGKdu1dx+k2OxJnqxywgFjlkP7Sh4/L9SnzrM34gn78mluraKUt91z1qsBPhh5QUOzhGQTelBCTo7+GxgQcSHM7lqd+AFJ1CvMcXY+ofPqXxjLY3XkZeNDw+ju3xrz7sd2nkMU35/PmMltAkdFCQNsxGk1zkJghtcxNtjCP67ViNwyuTY6PkYetTGxyLknen9u5hLT1sykF4BLXpgfgv1/TMh9sTTUQ=;tGjctclyfD10r35cWc30NA=="
 ---
 
