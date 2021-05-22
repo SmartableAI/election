@@ -3,8 +3,8 @@ category: news
 title: "Maddow: What We Know So Far About NY's Investigation Of Donald Trump"
 excerpt: "Rachel Maddow offers a quick overview of the discrete facts we know so far about the New York investigation of Donald Trump and the Trump Organization."
 publishedDateTime: 2021-05-20T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.amp.html"
 type: article
@@ -125,6 +125,6 @@ related:
         height: 800
         isCached: true
 
-secured: "TZK8tBcIkj6XIXXGw1wisGnTrg28lkp+YHPyrVYHJARv/jinTYSihhcb2uxMC6s9RpyMaMuEe9cKAntP8wKx8SYEFVaT4pO50XktmafSKWjpVB7jFtumJtrnN6l9GsIOmwFZ0L2Yif6WvQ67aEs+7Nivo61uCwP9xLy8nT6nY7DA78+XZkyplHG8aqidWNn3ChoVuTc/t5Vr9noF6hVhj/iKNHQrqzV72MFQd/k0GVQ2fVRB2px5mkdqTN9BC2vvv2XHUDbFIy/JebSL0w4P+Epc6H+0s6OgrC5Wo1OqD6lNkjH0mYp2FUGl1Mz6xCxDySp//umY1QbnEe/dzeDIVLTCXT7WRP0+CQcXuEYDi/A=;XcRS09PMVNMNBffd+VSIuw=="
+secured: "bXc1F87LV5uR3dMBwMbNTPHmT/k8vYJf297TXvohNTS3WK6rfmLKqLejEeNCOZymd2+EkH2jkFxzkIUtupiszqqsFxGc5xxW59Uq15lPi7pKAR/QbW93x3ZMIr1wnokGUQj+lDuksV9AbwGSN9iCfgrCk5VohR8m6XVGyvdNffHN7LghtudO8AaD875NbnvEe/QCyhLoAJ4vPPDL5SpNeU55xTlkUxuWsfZTa2VAGzgGMN4U/cNOhpaEzzR+YveNqi6CB+Ey5pqJl0oiHiDWkJ6hkBtBLztZMSFFMobVxiYrjTqNrFX8wS46gCnBs9+iu7bgndaEh5u779u29ptvHSsvir/Q3rp3RpwZwbZnpHI=;uO1QwMn33Fc5n0O8wt+blA=="
 ---
 

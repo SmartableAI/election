@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris: \"In My Life, My Lived Experience, I Have Seen How Hate Can Pervade Our Communities\""
 excerpt: "Vice President Harris spoke at a signing ceremony for an anti-hate crimes bill Thursday from the White House. \"Those here today are united. This bill brings us one step closer to stopping hate, not only for Asian-Americans,"
 publishedDateTime: 2021-05-20T19:12:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html"
 type: article
 quality: 50
 heat: -1
@@ -247,6 +247,6 @@ related:
         height: 500
         isCached: true
 
-secured: "uYiXpo+bso3AZGzIFuolsMSAiv/QUL4B6fnqIfYQLL9KrNBp3G+MrQAEzFxgmkiOkOStozGTssZUebBo8e9KgUW49QhgbPkWgpbNagCUCrf5aExX9676f0Vonf8sgvQ+4UXkDUHuAek2jYC2SdPOt62xM49DXo3pR0HAcRWXAJadIUC3plBUwobZCAjG7VlCF4OcL1zCqaYegHrmwTUXF9yfygQauYfzc6E9saFGToNdueCoosEgY71+D4t8D8LbHHVGNDOmnnJx5a5vruSFiYr3v6lSTyX8ja19eFj0eV8Av8Vj8Ki6SjSi7D3vosqGObpNfwd+WbpVi0pVUJGIDmONtfmOXs/RmhfYHssZu8l5DMrjjDCWyuUPmaBtaeB1tUMXNRoRkMl0bxU0gsPVtkXNgY/y6W+jx/cx1/PsiLBK86ZGzwdQ7+EVhv3OC4QdoudZgFDBXf+ABdo9+scpmQRpCERGWKTwsWnpnVjPh3JO2hK5Kbqa6c84M4C8zGl0IvH/YFpXMSkgi6e/UtdqaQ==;yVCNNAgCfFKTA47QuyQLzg=="
+secured: "sx9fGarJXgxogVwQoccB4ZUsvY0WotwTHEC41b+ZxhRh7VFKKoxYrW4qzDWtTi661k9yp1QYwe+3V2w3TUcXoutKi1x0CM8oMX/BDvq2QpSzTxmwcxL0BvEbcbD6JgkjC3junmjSOD/MWRJq1PHJcZcMXQWKJ2eQfiBjBYMBrdZZJw8Ou0ltOeRwzKbH5+DR6tEDNg8kOseO80xrbs9F4Z7JPom28RahRSdtwF8D45s7cM2cZJwXdB+W1NwlNwS90HP/J2T/A7kICyj/iuFGWAiDyp4y+M4KXUCnOQZ2Q48et9vxSXYDEOF0070s5ap7Ao+ESYhBBPnint4yJm5sOWMxVTWPjwzaPL46nFwl0wk=;DiOPXykN6f1cSQP5fJQDsA=="
 ---
 

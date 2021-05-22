@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-22-exclusive-no-place-like-home-karen-pence-says-of-their-move-back-to-indiana.md",
+      "title": "Exclusive: `No place like home' Karen Pence says of their move back to Indiana",
+      "excerpt": "There’s no place like home and Indiana is home,” Karen Pence said in a statement provided exclusively to USA TODAY. The Pences were not made available for an interview. In her statement, Karen Pence said the longtime Indy500 fans are especially excited to have made the move before race weekend,",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/politics/2021/05/22/former-vice-president-mike-pence-and-his-wife-karen-move-back-indiana/5207465001/",
+      "originalUrl": "https://www.indystar.com/story/news/politics/2021/05/22/former-vice-president-mike-pence-and-his-wife-karen-move-back-indiana/5207465001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/a22e047d-ea38-4ef7-bc6c-517385f517f8-01202021_Pence_GH_001.jpg?auto=webp&crop=2356,1326,x0,y200&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.indystar.com/amp/5207465001",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5207465001",
+      "publishedDateTime": "2021-05-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-fact-check-mike-pence-was-not-shot-while-fleeing-military-arrest-on-april-14.md",
       "title": "Fact Check-Mike Pence was not ‘shot while fleeing military arrest’ on April 14",
       "excerpt": "Posts sharing information that former Vice President Mike Pence was shot while fleeing military arrest are false. There is no credible evidence to support this claim.",
@@ -1520,63 +1563,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-pence-launches-political-advocacy-group-with-an-eye-to-the-trump-legacy-and-his-own-future.md",
-      "title": "Pence launches political advocacy group with an eye to the Trump legacy -- and his own future",
-      "excerpt": "Former Vice President Mike Pence on Wednesday announced the launch of a new political advocacy group, \"Advancing American Freedom,\" a move designed with an eye to his political future and his efforts to help shape the conversation around the Trump administration's legacy.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tdWNrm2BA-g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tdWNrm2BA-g/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 489,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115145314-01-mike-pence-0104-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html",
-      "publishedDateTime": "2021-04-07T08:11:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Mike Pence"
       ]
     }
