@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-award-1st-medal-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-award-1st-medal-honor-retired-georgia-colonel-77787792"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_764161d3d08947de917ac7bb3ab3c822_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden to host George Floyd's family at White House"
+    excerpt: "President Joe Biden will host George Floyd’s family at the White House Tuesday to mark the first anniversary of his death at the hands of a white Minneapolis police officer"
+    publishedDateTime: 2021-05-21T22:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden traveling to voting rights hot spot Georgia to promote plans to rebuild economy"
     excerpt: "President Joe Biden marks his 100th day in office with a trip to Georgia on Thursday, visiting former President Jimmy Carter and pitching his plans to spend trillions of dollars to rebuild the U.S. economy."

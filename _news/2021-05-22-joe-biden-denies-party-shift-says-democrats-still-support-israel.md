@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Biden, saying 'silence is complicity,' signs COVID hate crimes bill into law"
-excerpt: "President Joe Biden on Thursday signed into law the COVID-19 Hate Crimes Act that passed Congress in a rare show of bipartisanship following a spate of high-profile attacks on Asian Americans in the wake of the coronavirus pandemic."
-publishedDateTime: 2021-05-20T23:44:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-hate-crimes-idUSL2N2N72GC"
-webUrl: "https://www.reuters.com/article/usa-biden-hate-crimes-idUSL2N2N72GC"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N72GC"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N72GC"
+title: "Joe Biden Denies Party Shift, Says Democrats 'Still Support Israel'"
+excerpt: "\"I think that...my party still supports Israel,\" Biden said. \"Let's get something straight here, until the region, says unequivocally, they acknowledge the right of Israel to exist as an independent Jewish state."
+publishedDateTime: 2021-05-21T23:49:00Z
+originalUrl: "https://www.newsweek.com/joe-biden-denies-party-shift-says-democrats-still-support-israel-1593876"
+webUrl: "https://www.newsweek.com/joe-biden-denies-party-shift-says-democrats-still-support-israel-1593876"
+ampWebUrl: "https://www.newsweek.com/joe-biden-denies-party-shift-says-democrats-still-support-israel-1593876?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-denies-party-shift-says-democrats-still-support-israel-1593876?amp=1"
 type: article
-quality: 102
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://d.newsweek.com/en/full/1804053/president-joe-biden.jpg"
+    width: 2500
+    height: 1667
+    isCached: true
 
 related:
   - title: "Mike Pence Rebukes Joe Biden's Tax Plan, Says China Will Benefit While US Faces Economic Catastrophe"
@@ -89,22 +95,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Joe Biden Denies Party Shift, Says Democrats 'Still Support Israel'"
-    excerpt: "\"I think that...my party still supports Israel,\" Biden said. \"Let's get something straight here, until the region, says unequivocally, they acknowledge the right of Israel to exist as an independent Jewish state."
-    publishedDateTime: 2021-05-21T23:49:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-denies-party-shift-says-democrats-still-support-israel-1593876"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-denies-party-shift-says-democrats-still-support-israel-1593876?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-denies-party-shift-says-democrats-still-support-israel-1593876?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1804053/president-joe-biden.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Greg Pence, Mike Pence's Brother, Votes Against Jan. 6 Commission, Calls It 'Cover-up for Failed Biden Admin'"
     excerpt: "Greg Pence is defending his House vote against a commission to investigate the violent attack on the Capitol that forced his brother into a secured location, calling it a \"coverup for the failed Biden administration."
     publishedDateTime: 2021-05-20T17:42:00Z
@@ -163,6 +153,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden, saying 'silence is complicity,' signs COVID hate crimes bill into law"
+    excerpt: "President Joe Biden on Thursday signed into law the COVID-19 Hate Crimes Act that passed Congress in a rare show of bipartisanship following a spate of high-profile attacks on Asian Americans in the wake of the coronavirus pandemic."
+    publishedDateTime: 2021-05-20T23:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-hate-crimes-idUSL2N2N72GC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N72GC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N72GC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
   - title: "Nine Republican-led states ending increased unemployment benefits as President Biden says people must take \"suitable work\""
     excerpt: "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages."
     publishedDateTime: 2021-05-12T14:54:00Z
@@ -210,6 +211,6 @@ related:
         height: 433
         isCached: true
 
-secured: "intC8v2Zr1WqKFTJh9lCAT69EXIM0INDEfG4L9weUEDw+ibgN1V3rRwNRPac9bo2ZGE/yNiBJF0yOxTaicUZcAp/1gEpeVRvvXjDcg9/pV3fh3v20y6mt/8uE/AasnMp0e8N3A91z5ThSDt/cDATpWOEbk4/0MtAWgJ9AotEAKS8Dfu1DeL9TOC3K78nhNRw5jMgCGUiLASJ2Dyq+hU3wtxdEs9s9SgYa+o+yV9zW7tqZCFj6RkFRy3+wUXASNZLU9v2i+tgwcOCMxbzh4El7RTJAKIptaDvDdHVxHotffzEPUkXTUiEqxYtjgpB9RXbXReCvNmziqj8sz9jpgMHP0oReRSBUwnTPrPhfb5SmbU=;kQCfjIygfWG+EBlNK5rrxg=="
+secured: "GIoYKhO/FUs3llOgavLjNaQ3FSu6NfTYlCwPNgfjk8QsvaHtgXrRi+soSp1vBGNzqh86whTbeRYIt66R0PX1daCJtQ/oS395LkdfHnvBntQU6VoxX+498tYZuV8NtHFXVxSeu74Iz0udiGdJSHbcMXMcBDsIfhSC6xxwDnTCx4y9R/tLXw8UjeUMC8jkdXm5Gyqp9OEuihwalMo3fGsPXiyRkEu8pHbbeNbwUYrulF7BS9wdLZle1ds1SfdiASfrho1W67ov+MsdF5JIrywSXE2aflbJCXcwxjZMpKfPzuH3tUL+m08MmpWxy7mgWfzYHB5G6CORt+XXyHtpKeOqwU6wg7JAE8HmdeKmh7IOQPk=;+f+1g3pqdK6iOvr21/2v/w=="
 ---
 

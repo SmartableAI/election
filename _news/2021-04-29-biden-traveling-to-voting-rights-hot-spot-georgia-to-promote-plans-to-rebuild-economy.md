@@ -73,6 +73,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to host George Floyd's family at White House"
+    excerpt: "President Joe Biden will host George Floyd’s family at the White House Tuesday to mark the first anniversary of his death at the hands of a white Minneapolis police officer"
+    publishedDateTime: 2021-05-21T22:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "W//aLyA9xpy5xTPEFbC5Im70tqSfxLdToVL6mStUXmd2E/2VqvZVBA2cjXraVru0Pxk8PmMXMQBCNE/7VPlsI2+hqWFdqu2ihgvj+gvbBaDK3epJY6lAMHTNp6vsRGpcsek+A9cgqIlGh2FvKo6vSLofm5V1dQ3ScWe26O3e/+pRDLsKBaolcWy/1tXAFFZd5z/5w1/BYqgNSpWIUaRGAnwhZ2Qt5Z7TRnFX7vtpdLDffnP/ueS1BIy1NmeoJdGYmHCcd3rdnnSBth9WJBAfhIYh00nTOVK+pIRaHYeCMY/XjWxYU5ak/3C5fNKCQx8yRvFGyYgx2GxssxJ54rBZ7VkoMD10QqBQA/X0+oxgH0g=;b52ArpHpW8HQPJi727vnVw=="
 ---

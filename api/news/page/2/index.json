@@ -2,6 +2,115 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-20-how-the-ags-trump-probe-might-play-out-feds-eye-cuomo-virus-tests-nyc-covid-numbers-hit-low-point-as-restrictions-lift.md",
+      "title": "How the AG’s Trump probe might play out — Feds eye Cuomo virus tests — NYC Covid numbers hit low point as restrictions lift",
+      "excerpt": "But those lanes crossed this week when James notified the Trump Organization that her civil probe into whether Trump and his family members misstated property values to get tax benefits now has a criminal element.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/new-york-playbook/2021/05/20/how-the-ags-trump-probe-might-play-out-feds-eye-cuomo-virus-tests-nyc-covid-numbers-hit-low-point-as-restrictions-lift-492930",
+      "originalUrl": "https://www.politico.com/newsletters/new-york-playbook/2021/05/20/how-the-ags-trump-probe-might-play-out-feds-eye-cuomo-virus-tests-nyc-covid-numbers-hit-low-point-as-restrictions-lift-492930",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-kamala-harris-grapples-with-unique-challenges-as-vice-president.md",
+      "title": "Kamala Harris grapples with unique challenges as vice president",
+      "excerpt": "Four months into her time as vice president, Kamala Harris Kamala Harris Biden was blindsided by Harris's attack in 2019 debate: book Stacey Abrams on not being Biden's VP: 'He picked the right person' House sends anti-Asian hate bill to Biden's desk MORE is still finding her footing in the role.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president",
+      "originalUrl": "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 545,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/harriskamala_051721getty_harris.jpg",
+          "width": 980,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp",
+      "publishedDateTime": "2021-05-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-house-gop-revolt-against-trump-sets-up-tough-senate-battle-on-january-6-probe.md",
       "title": "House GOP revolt against Trump sets up tough Senate battle on January 6 probe",
       "excerpt": "Thirty-five House Republicans chose the truth and American democracy over Donald Trump's personality cult. Now their Senate colleagues face the same battle of conscience over the effort to investigate the Capitol insurrection.\n    \n",
@@ -390,7 +499,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-award-1st-medal-honor-retired-georgia-colonel-77787792",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1075,7 +1184,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1204,114 +1313,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/white-house-trump-admin-middle-east-conflict.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-trump-admin-middle-east-conflict.amp",
       "publishedDateTime": "2021-05-18T12:26:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-what-an-old-politician-understands-biden-turns-the-age-issue-to-advantage.md",
-      "title": "‘What an old politician understands’ — Biden turns the age issue to advantage",
-      "excerpt": "Biden has seemed a changed man, calmer yet bolder. He savors the job, yet governs like a guy who knows the hurdles are high and time is short.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far",
-      "originalUrl": "https://www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/b4f3b0d/2147483647/strip/true/crop/3901x2548+49+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2F5c%2F090f2eb74320953e4d22f41fd085%2Fla-photos-1staff-645664-la-me-schools-waivers-equity-15-als.JPG",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far?_amp=true",
-      "publishedDateTime": "2021-05-18T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ex-trump-dhs-officials-call-for-mayorkas-dismissal-over-border-crisis-enough-is-enough.md",
-      "title": "Ex-Trump DHS officials call for Mayorkas' dismissal over border crisis: 'Enough is enough'",
-      "excerpt": "Three top Trump-era Department of Homeland Security officials are calling on President Biden to dismiss Secretary Alejandro Mayorkas over his handling of the crisis at the southern border, accusing him of \"reckless abandonment\" of securing the border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qva-stK91w/ex-trump-dhs-officials-mayorkas-fire-border-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qva-stK91w/ex-trump-dhs-officials-mayorkas-fire-border-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a570c73-98d6-4f91-b742-2b7220d15df9/2dcdb4f5-ef07-458a-9628-0d6274662406/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ex-trump-dhs-officials-mayorkas-fire-border-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-dhs-officials-mayorkas-fire-border-crisis.amp",
-      "publishedDateTime": "2021-05-18T10:55:27-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

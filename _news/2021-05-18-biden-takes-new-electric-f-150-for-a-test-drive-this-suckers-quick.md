@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden's 'quiet' answer to a foreign policy test"
+    excerpt: "President Joe Biden's foreign policy doctrine came into sharper relief this week as tensions came to a boil between Israel and Hamas in Gaza.\n    \n"
+    publishedDateTime: 2021-05-21T22:30:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f4tVIKMzUjQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/biden-israel-gaza-gop-january-6-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/biden-israel-gaza-gop-january-6-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ford and Biden hope to catch lightning with electric pickup"
     excerpt: "While their onetime Republican allies in Congress wield fossil fuels as weapons in a culture war, Ford and other companies are moving ahead without them."
     publishedDateTime: 2021-05-19T02:44:00Z

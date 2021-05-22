@@ -93,6 +93,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Denies Party Shift, Says Democrats 'Still Support Israel'"
+    excerpt: "\"I think that...my party still supports Israel,\" Biden said. \"Let's get something straight here, until the region, says unequivocally, they acknowledge the right of Israel to exist as an independent Jewish state."
+    publishedDateTime: 2021-05-21T23:49:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-denies-party-shift-says-democrats-still-support-israel-1593876"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-denies-party-shift-says-democrats-still-support-israel-1593876?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-denies-party-shift-says-democrats-still-support-israel-1593876?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1804053/president-joe-biden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Greg Pence, Mike Pence's Brother, Votes Against Jan. 6 Commission, Calls It 'Cover-up for Failed Biden Admin'"
     excerpt: "Greg Pence is defending his House vote against a commission to investigate the violent attack on the Capitol that forced his brother into a secured location, calling it a \"coverup for the failed Biden administration."
     publishedDateTime: 2021-05-20T17:42:00Z

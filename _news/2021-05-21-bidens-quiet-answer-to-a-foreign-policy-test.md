@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Ford and Biden hope to catch lightning with electric pickup"
-excerpt: "While their onetime Republican allies in Congress wield fossil fuels as weapons in a culture war, Ford and other companies are moving ahead without them."
-publishedDateTime: 2021-05-19T02:44:00Z
-originalUrl: "https://www.politico.com/news/2021/05/18/biden-ford-electric-pickup-489276"
-webUrl: "https://www.politico.com/news/2021/05/18/biden-ford-electric-pickup-489276"
-ampWebUrl: "https://www.politico.com/amp/news/2021/05/18/biden-ford-electric-pickup-489276"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/18/biden-ford-electric-pickup-489276"
+title: "Biden's 'quiet' answer to a foreign policy test"
+excerpt: "President Joe Biden's foreign policy doctrine came into sharper relief this week as tensions came to a boil between Israel and Hamas in Gaza.\n    \n"
+publishedDateTime: 2021-05-21T22:30:24Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f4tVIKMzUjQ/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f4tVIKMzUjQ/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/biden-israel-gaza-gop-january-6-trump/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/biden-israel-gaza-gop-january-6-trump/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/d4/14/f5c24f44464da23be9b92104fb44/ap21077843047710-1.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -48,21 +47,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's 'quiet' answer to a foreign policy test"
-    excerpt: "President Joe Biden's foreign policy doctrine came into sharper relief this week as tensions came to a boil between Israel and Hamas in Gaza.\n    \n"
-    publishedDateTime: 2021-05-21T22:30:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f4tVIKMzUjQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/biden-israel-gaza-gop-january-6-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/biden-israel-gaza-gop-january-6-trump/index.html"
+  - title: "Ford and Biden hope to catch lightning with electric pickup"
+    excerpt: "While their onetime Republican allies in Congress wield fossil fuels as weapons in a culture war, Ford and other companies are moving ahead without them."
+    publishedDateTime: 2021-05-19T02:44:00Z
+    webUrl: "https://www.politico.com/news/2021/05/18/biden-ford-electric-pickup-489276"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/18/biden-ford-electric-pickup-489276"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/18/biden-ford-electric-pickup-489276"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/d4/14/f5c24f44464da23be9b92104fb44/ap21077843047710-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "For Biden, foreign policy has taken a backseat to domestic affairs"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
@@ -97,6 +96,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "2fJKh/W9Z83dS96caJszYLWHKLo10Mlu7RH574ZerjP3KP7eFvqMfXTrzN+vC4+T4G7zCz266BZyhG5YhAUBc053NnLMjiRWVNGCiErwoSkO6CNVQZ4vAojQH3IH+tY0P75h7vQORwUmT2SVjdBJWnieqj7PstOYwFqwR2xSj7krXb13gNAqE8E2CGpmGRdbRhxODRTP6BwhxhSJZun7B6mUrVFuMdOBHCPlj4FeUlWpu4EcEWGw+PS3LnXymWtLkn+AgiVtppC2NohRkaVzKDClRXo4MIt4GgQvmR0r9M20M5NeMTyLcsSWOCTNszEdj0ey76DS4cEHk1eiUL98dYFuixhdvsKQjkWba4x62El5BrRHrZnJsIiS62bapBRJAxhgnJyobjH6sr+7c0FbjUl051EnbfZk3oflUzTuiONBveiyHLWjGw7Cd+e5eIb06nwGbtL2rXinPgaBLdElo2zQJ+JsLMC5/MgcjNBFCWQ+/Oype7bkdTRLgllJ8tSVB06EbH+7AU07AoACIFFAXg==;DJs56B2PboAjPNcL5GpZ4g=="
+secured: "1X2gAKyTNjDAZU8SCgrB1v/HpFm4zAbd6wGwhdFH6PcRPItGnxkNuw7nyIeAv6VFDRzlogilylY1Mc+7aMtjyLLMrBJLGTXFMveDwyhDAr3Ucrg7TYN8veQZaqvIiIwg9Jh1iutayIcHm3gw4mJ/qHzaUwagn97Q+Ku/tUc9ygfRUJskNJzX0LeMsh05JiG1wu2NfC986IMGFmg/4dQ4hJvqZ9QioDRpqUGTt3fzg02pjeIL8PsX7j4uokcHY/M/nQ/zJwNE0rBhXSsqrScYLkzh7lnbRjXNCBQ5JDqEWQFzuZ1qnJPugwpmIuwsLeYH4vTx4qPYLjrknWFjM1f7F6S96ILGitIwSNMkmqr1yt0=;3JUbIpsh/NtkVf+FajXAZg=="
 ---
 
