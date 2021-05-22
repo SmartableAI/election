@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp"
 type: article
 quality: 194
-heat: 454
+heat: 474
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Flashback: Harris protested at southern border in 2018, but hasn't visited since taking migrant role"
+    excerpt: "Vice President Kamala Harris has come under criticism from Republicans and former Trump officials for not having visited the border in her leading role in dealing with the migrant crisis -- although she visited in 2018 to protest Trump-era policies."
+    publishedDateTime: 2021-05-22T16:52:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gearmT8w5Mk/flashback-harris-southern-border-2018-migrant-role"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -223,7 +239,7 @@ related:
   - title: "VP Kamala Harris: \"In My Life, My Lived Experience, I Have Seen How Hate Can Pervade Our Communities\""
     excerpt: "Vice President Harris spoke at a signing ceremony for an anti-hate crimes bill Thursday from the White House. \"Those here today are united. This bill brings us one step closer to stopping hate, not only for Asian-Americans,"
     publishedDateTime: 2021-05-20T19:12:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html#!"
     type: article
     provider:
       name: RealClearPolitics
@@ -235,6 +251,6 @@ related:
         height: 562
         isCached: true
 
-secured: "FRPOwpj1SuEx7POd0W6SNkVoBVM4G8WYr678FV53t+W1haSrIoC8kkEhWVLDrKyEN7/RHeooXBroiF5kAtCmtuzAJIRphMZFZdmWIIR826Vzkd6ngGySOvEommP7W4YMw9GUo7zsYvct3hODDK+ABXaf809tR+Yps6n7J+Xtk+4/yCvz0jNy3HXE6MOESwZlvG6/E4y6n4IcmjoumZyYPVF74+HONLyl00t6y6/omKVNajpOjfCs6T4HcKYcZyigPxupG/hypNQgFGVWlPmrgc0MBuLdD0siIQ4wdkz+A6p1IBJSpsf64q8TPb9s1hBmLptLjefRNypWVyWm+x9ut2vgDJPFFobAvklo/zaY8q4=;XMQ3iX+gUvKtn34C+4iDog=="
+secured: "stRGqwzN8nMqMRhgiysozpXSnxqEVoCLO15o+JBBf5Hks+fP3KRZ7T3BCRDa1PwS5PRpsO0+FPRS+uRHBSnTk6sBdMW2HFHLQcYl3o4SluBXwNpch/R2v4IxtgR6WEDJnx7AlJEyZrXO+wtfE1BaRxDH7NQPDHAsDZSdpfEvCxKRR/vXnjRx84lUmF9NH3Ed56SyVWB30UvWtpNYWL0kpGiEWP0eQZ4Vz04UFEqnWITxas1c6IE0miqrcFqTOiOREErj5wbk+eW5ilpkh7A3Cp//UQaWsHMnU/uiufzMk9o9WKmFfz8lMtfV6yeI4Xp6i55Y+BMjmAMCmyL7JaAsb27vUYR+HJzbLYD0LQiykB8=;AjNtxPzdyGeFq0qWKG/9hA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp"
 type: article
 quality: 122
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "GOP senators probe 'close coordination' between Biden administration, teachers unions on school reopenings"
+    excerpt: "A group of GOP senators is demanding answers from the Biden administration on how powerful teachers unions may have influenced school reopening guidelines as coronavirus cases declined. "
+    publishedDateTime: 2021-05-22T16:13:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aps9-RdvUM0/gop-senators-probe-biden-teachers-unions-school-reopenings"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-probe-biden-teachers-unions-school-reopenings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-probe-biden-teachers-unions-school-reopenings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "MR9GNQ2wnzgH/pMxaVI+RMl/0ubD4DcTOxsoNcMUZ4oAt+wFSDNJRCzayyorP519PzfGOvLahRk6VW6Wpv+uSFmKGEDdviQXYid6Cu+gY2/D6jr6R7L/UiL/3RgO68yJRYw6vu7jhF6NX6rXu9EHpc96x+5l73BHn5WNWQCTkkoGjkybQwEDcBTszetGI1a1uoRTOAJMI3gZKlkfE4cGbVX5/spTrPLIIzKqPhpZUj8Nb1WiTuOGicI73IyGeLMnVX+wBXY8xmaI+ApLaofeuDTH8hdKc/9Bd4DniLxMhXP7q8TzHheyD3cpUg+f75AWybnK5eM/ziSMRtYZGbv3L40wEULSALPA7hhZGXxri0o=;YSfXzcBmnsUx5yjWmoMRLg=="
 ---

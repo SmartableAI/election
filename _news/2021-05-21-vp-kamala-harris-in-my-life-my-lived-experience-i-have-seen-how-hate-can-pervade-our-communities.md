@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris: \"In My Life, My Lived Experience, I Have Seen How Hate Can Pervade Our Communities\""
 excerpt: "Vice President Harris spoke at a signing ceremony for an anti-hate crimes bill Thursday from the White House. \"Those here today are united. This bill brings us one step closer to stopping hate, not only for Asian-Americans,"
 publishedDateTime: 2021-05-20T19:12:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html#!"
 type: article
 quality: 50
 heat: -1
@@ -103,6 +103,22 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Flashback: Harris protested at southern border in 2018, but hasn't visited since taking migrant role"
+    excerpt: "Vice President Kamala Harris has come under criticism from Republicans and former Trump officials for not having visited the border in her leading role in dealing with the migrant crisis -- although she visited in 2018 to protest Trump-era policies."
+    publishedDateTime: 2021-05-22T16:52:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gearmT8w5Mk/flashback-harris-southern-border-2018-migrant-role"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -231,6 +247,6 @@ related:
         height: 500
         isCached: true
 
-secured: "+DDpr47OBHdn/W9Xu9kod4iqaqlZl5Q0VGx+uL1AAKSCtmhk15ze6D9dnf0Gs+PigS8yZZzefOgDtGP+LN68jjgzzlFA8CfUbqhepLVemq/1vQTRK5PD8CviKyMtXsUvyRb/61cVGGLvlxP8GegHaQEM0p9Ta9mI1GiEksJa9Oe3Blu0D64n9ftsA1fn8nmVqHVBrAZVki8vS4cPGlkHBUEtpOBRTNl/iekRDZXnny/TeAReuratqlBA3L2L6twhCfapT6KAuBpmF0vC03dQOaldhu/i1kQChF8JtDrikN664DK6MT50rdV4DY5ADPI2YNSK037qougdJPxwlad9Pc/UIrqZtgjSYNqYCpZ/Kds=;lbtRk8R6OIwm+rgZO1vOFw=="
+secured: "F6YhzoLM3vsRj+uEsb6FsTxocv/zDoDL1v4gwU7owQzE7Q1HerxtNO173BfwvmLvlSFuCZZPAxEGpy6UIT7gyskJlVCYYCUgAeAiRjEvYOBQ9BsI3qAp1UMkKBYhjmjSCYP6YXP3Ll0IXhq+v+ThKEu0HoqGQ7sLWuvwmvq5Sp54fxwXSZxofyV8q32EGTvysuoy4slNAcr+1cUUQ97s0iwNilh4HvruuNOiNfcDM0m5tGV8mJ7+BNzECcA+IWsv5uX/E/uBiq90wPu1lw8ykjZqCBoMioti2MlQbP6x7AyhisOy9PPbnF/NkcX+A2k8nCIDRmtz8jwYQmx4/HUDQ7qB2wRdEv3zfjAEeFc422o=;63OmCKbyHvajdK0VyAs+pQ=="
 ---
 

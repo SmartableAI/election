@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Jill Biden said Kamala Harris can 'go f--- herself' after she attacked Joe Biden in first debate, book claims"
-excerpt: "The relationship between the Bidens and Vice President Kamala Harris purportedly became messy after Harris -- then Joe Biden’s opponent in the primary -- came after the president for his record on busing and his boasts of his relationships with segregationist senators, according to journalist Edward"
-publishedDateTime: 2021-05-19T18:00:57Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BwVqML3nqSQ/jill-biden-kamala-harris-go-f-herself-biden-debate-book"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BwVqML3nqSQ/jill-biden-kamala-harris-go-f-herself-biden-debate-book"
-ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
+title: "Flashback: Harris protested at southern border in 2018, but hasn't visited since taking migrant role"
+excerpt: "Vice President Kamala Harris has come under criticism from Republicans and former Trump officials for not having visited the border in her leading role in dealing with the migrant crisis -- although she visited in 2018 to protest Trump-era policies."
+publishedDateTime: 2021-05-22T16:52:46Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gearmT8w5Mk/flashback-harris-southern-border-2018-migrant-role"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gearmT8w5Mk/flashback-harris-southern-border-2018-migrant-role"
+ampWebUrl: "https://www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp"
 type: article
-quality: 181
+quality: 170
 heat: -1
 published: false
 
@@ -26,7 +26,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3594866f-1e28-48b4-9186-03d4f5320bd3/676ae2fc-713c-46e6-b073-9d162b1094b3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -45,6 +45,22 @@ related:
     quality: 194
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Jill Biden said Kamala Harris can 'go f--- herself' after she attacked Joe Biden in first debate, book claims"
+    excerpt: "The relationship between the Bidens and Vice President Kamala Harris purportedly became messy after Harris -- then Joe Biden’s opponent in the primary -- came after the president for his record on busing and his boasts of his relationships with segregationist senators, according to journalist Edward"
+    publishedDateTime: 2021-05-19T18:00:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BwVqML3nqSQ/jill-biden-kamala-harris-go-f-herself-biden-debate-book"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3594866f-1e28-48b4-9186-03d4f5320bd3/676ae2fc-713c-46e6-b073-9d162b1094b3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -93,22 +109,6 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Flashback: Harris protested at southern border in 2018, but hasn't visited since taking migrant role"
-    excerpt: "Vice President Kamala Harris has come under criticism from Republicans and former Trump officials for not having visited the border in her leading role in dealing with the migrant crisis -- although she visited in 2018 to protest Trump-era policies."
-    publishedDateTime: 2021-05-22T16:52:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gearmT8w5Mk/flashback-harris-southern-border-2018-migrant-role"
-    ampWebUrl: "https://www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -251,6 +251,6 @@ related:
         height: 562
         isCached: true
 
-secured: "IlLUPTtcexPo0huwsFWfecmtFOeoEROeY8Jne9Whs3oumertZRkxWHbj22MrLVDmHH1xFVXo/YZ7iFZJOJJRIPEVQCWIEp1NPXgjo64ANh6ToCxoqj1CX4rPVUPbr8woclzbGvPiBQ2Wmd2GJ7fzrm5G6RkXMFHOGWC43ME0cH58APtSL5eLWNLozRtOmNE4NNjhtOQpuYHUynQJrEuDKvSq0mBXxysYmW5WoJwC8iSnTZ0P+L4jScy4FwW7fL3GyWvWUEdrIE1GUFSX8AyJVQJAb6Gx60I5MJpPOWAPBBNdi95N+FZQCU/y5StxA1yS4T+JgHpThDDuEai0xiMztXIbImN7suKDeLP1gXuOZkM=;wjYNYQfbe3wCDgvg4E6brg=="
+secured: "ZNXt3+KAwXrbXpNWBGEkcfzu1lUoGG9DYFrcesKdzHPNRb2TC6LdZgU0BmMvrRRHHn39OxS9f6NFUBNCGlsJvA6ySqiSP70y3+N3zMwm4uMISAbW2Ow6hylw0qaOl6FEQLVoHJMJPvMyfGRbRVnlG9loFhd5DmtgucPvsNiOJXsFbT4SGbmOGBqzLnzkdpVT+7Cn8E/cH3G0Zbc/14PCdxH9V27hcL2fov0J9mPOC4ikacZlQ0ZlHLSAXBJVzAXCLMCwgp+8DvSVoInRxzVj5WY5LmoC4NfJZZK6aFNMdUbNfDCcd4htRky6Wo6NM/73cDcb12+jC9wnvwbxTAJV2jlnDHUsvCrxVgjoljzeYXA=;4eqHQDy7nJPjyWQE85VW+g=="
 ---
 
