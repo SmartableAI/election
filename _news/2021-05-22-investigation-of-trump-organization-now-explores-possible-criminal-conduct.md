@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Republicans’ conflicting message: Embracing Trump election lie is key to prominence, just stop asking us about it"
-excerpt: "Liz Cheney (R-Wyo.) as the No. 3 House Republican leader for saying former president Trump’s claim of a stolen election was a lie. Yet he insisted later that day, “I don’t think anybody is questioning the legitimacy of the presidential election."
-publishedDateTime: 2021-05-15T21:38:00Z
-originalUrl: "https://www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html"
-webUrl: "https://www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+title: "Investigation of Trump Organization now explores possible criminal conduct"
+excerpt: "The Post’s David Fahrenthold provided answers to questions on what we know — and what we don’t — about two New York state investigations of the Trump Organization."
+publishedDateTime: 2021-05-22T11:04:00Z
+originalUrl: "https://www.washingtonpost.com/video/politics/investigation-of-trump-organization-now-explores-possible-criminal-conduct/2021/05/22/3f85e6f5-98c5-446a-bb20-1d12d20d72be_video.html"
+webUrl: "https://www.washingtonpost.com/video/politics/investigation-of-trump-organization-now-explores-possible-criminal-conduct/2021/05/22/3f85e6f5-98c5-446a-bb20-1d12d20d72be_video.html"
 type: article
-quality: 119
+quality: 103
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7C6MSUFUZII6XPEW7X2V3ZB354.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-21-2021/t_da396c461d224662a13bce4a5164c443_name_8dfd2e66_b84e_11eb_bc4a_62849cf6cca9_scaled.jpg&w=1080"
+    width: 1080
+    height: 608
     isCached: true
 
 related:
@@ -351,6 +349,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Republicans’ conflicting message: Embracing Trump election lie is key to prominence, just stop asking us about it"
+    excerpt: "Liz Cheney (R-Wyo.) as the No. 3 House Republican leader for saying former president Trump’s claim of a stolen election was a lie. Yet he insisted later that day, “I don’t think anybody is questioning the legitimacy of the presidential election."
+    publishedDateTime: 2021-05-15T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7C6MSUFUZII6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "New York investigation into Trump Organization now criminal, says attorney general"
     excerpt: "State joins Manhattan attorney general in launching ‘active’ investigation into former president’s business"
     publishedDateTime: 2021-05-19T02:48:00Z
@@ -516,20 +530,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/14/USAT/ff68f52c-e9f6-4328-83e4-dd6734228216-c7f98d30-0917-47bb-93b0-c461553ba2a4_thumbnail.png?quality=10"
         width: 852
         height: 480
-        isCached: true
-  - title: "Investigation of Trump Organization now explores possible criminal conduct"
-    excerpt: "The Post’s David Fahrenthold provided answers to questions on what we know — and what we don’t — about two New York state investigations of the Trump Organization."
-    publishedDateTime: 2021-05-22T11:04:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/investigation-of-trump-organization-now-explores-possible-criminal-conduct/2021/05/22/3f85e6f5-98c5-446a-bb20-1d12d20d72be_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-21-2021/t_da396c461d224662a13bce4a5164c443_name_8dfd2e66_b84e_11eb_bc4a_62849cf6cca9_scaled.jpg&w=1080"
-        width: 1080
-        height: 608
         isCached: true
   - title: "Arizona's ridiculous election audit should be the end of Trump's 'Big Lie' — if only Republicans had the courage to condemn it"
     excerpt: "Arizona's election audit is a fiasco, built on Trump's \"Big Lie\" that he lost the election because of voter fraud. Republican leaders must condemn it."
@@ -739,6 +739,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "uG7R433zfKjE5ZM3wwWfaV1YkrT8ojYcez38Lo1c5jX4H97HaNLsQWClS3JMWsMUjgS+2bwI7eGPSLjFhBXSDRkTcIPzRbzuA6sOoRXvjFx1YXR3b6IsNz9MF8C+7Moc4k14lGGLZXmHx11+Tiox5I2qCwhPwUTI66knth6gDT8SObMkixk2/UNbLZT5WagdnYclF22sW8jyxntG1FegMmcMV2v43j31nmBzSp6FXGyyDQrU9LES/xmyTh9srWOO3mOGznxQR0REYgcyuhBVi7wfEj9pBHrZ8FijEioP+5/rmKWSoC8F2nm4oRUy5gVazV8u2khlprjcfjY8ADr/qbKZh/I6EPpZ+gXVPtLXxfp8OhiRHDb8NmAsgrvkp8qRxX0D5MyBfxqEIwUxmtiwLS/GAeG4L8MJ7krNCLvOCg64UyvSsCuFHj4pac59mjXWXGr2E6qqwwSuoBkq+MDlwRp6StHNN3ooOxEVRFy2igJciqvbJXuyZ/D8h7pSFrw4gVIeqiWh94ZaqWHOYsm/iA==;IaGK1krp82TC2Z6VvuKCog=="
+secured: "ZU/E+XLSxi0sG31YaTZlby8Z8CXc29Ej/YGvFZnzL4ITthRynGGPK+48L3AUxKN8oHp/w5iePBVlib/rms1vjPBQ9UgZoBCjENncobgUS0h8Tdj6sUUjEIyv2lpd8d6HvjTxTyEvsdSPyuaHT9+cwstKF3WD7EV6Wc6HafQI+FRnIn/V+YKU4mSCgJp58S2y9OIqvua9x2M9R4/DwHAACD/yjZNspKH0E3da4CSNwNkpRVl3Wb4QNyMH8vlKtOvc60+Vrga2hYgWE3CI4mcKXY0T0t9AuUASxjQHCXPonZEYmmYNFnDaWzgUyYwIxGK7jx/V1yHstWW6kmzcgkW2nzDVxgaKgDiV01xjGB/sob4=;R04NcZZ9NzUKelXHCwpN2g=="
 ---
 

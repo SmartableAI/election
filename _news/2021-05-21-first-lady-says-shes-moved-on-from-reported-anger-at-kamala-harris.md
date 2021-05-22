@@ -284,6 +284,20 @@ related:
         width: 1200
         height: 835
         isCached: true
+  - title: "Around Town: Through letters, Girl Scouts share hopes for the country with Kamala Harris"
+    excerpt: "In the latest Around Town column, stories on local Girl Scouts contributing to a book of letters to Vice President Kamala Harris, a local teen's skateboard giveaway in East Palo Alto and an alleged dog beating in Palo Alto."
+    publishedDateTime: 2021-05-22T15:04:00Z
+    webUrl: "https://www.paloaltoonline.com/news/2021/05/22/around-town-through-letters-girl-scouts-share-hopes-for-the-country-with-kamala-harris"
+    type: article
+    provider:
+      name: Palo Alto Weekly
+      domain: paloaltoonline.com
+    quality: 46
+    images:
+      - url: "https://www.paloaltoonline.com/news/photos/2021/may/20/91715_col.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Doug Emhoff, husband of Vice President Kamala Harris, to hear about COVID-19 business challenges in Annapolis"
     excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is scheduled to visit Annapolis this morning, taking part in a discussion with business owners about the challenges posed by the COVID-19 pandemic."
     publishedDateTime: 2021-05-18T13:09:00Z

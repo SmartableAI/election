@@ -531,6 +531,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Investigation of Trump Organization now explores possible criminal conduct"
+    excerpt: "The Post’s David Fahrenthold provided answers to questions on what we know — and what we don’t — about two New York state investigations of the Trump Organization."
+    publishedDateTime: 2021-05-22T11:04:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/investigation-of-trump-organization-now-explores-possible-criminal-conduct/2021/05/22/3f85e6f5-98c5-446a-bb20-1d12d20d72be_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-21-2021/t_da396c461d224662a13bce4a5164c443_name_8dfd2e66_b84e_11eb_bc4a_62849cf6cca9_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "White House Won't 'Underestimate' Trump's Chances Of Winning 2024 Election"
     excerpt: "President Joe Biden in March said he plans to run for re-election in 2024 with Vice President Kamala Harris as his running mate."
     publishedDateTime: 2021-05-10T05:09:00Z
@@ -725,6 +739,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "1zQKZiUEAx67Fhbq4kGtuEMNVCKpRzj6pX1Sma0RvNSjjnpwfIxLt1BOoxaoyt27KzkRjL4dUWl1EB9GSsm5nQpTuZpeDuLWFjtfwXdvchEmfFRq7hukNlOiAN5pUbgUBdd5a1jk7rMIe3nq7bwYuV35izs1rfaM0eGO7XBym/AV/nB+Im5fkD45Yg7KEow+m2j3zZxqs3tBGqMcg3WTnDeSw4INmyozp+Ckgdh9Mt4IT+JgLOT1Ki1di+Fa00IyaCzt0q7tJARvZaI6nz8OzC5DpVm+MmqLbvtbzp3UquUVHQJAHAncPAW2pLrsA8Rzz8AWC2qrFpfb/iU/0xvDnaPO2XjUjnc1ZbAs1uKctns=;5tGsXjpgulAxwxwWb9LBmA=="
+secured: "FHvwb4cgndrhcZtQxBnFufKByKc68p3gLJI0/zhk9KC+DbPGW/vteqV8XUA1c+iWUiPr+y+uTk+AD6Z4vz8hO0/O83D9iQXQAzuL3vXGkxJTGpkj54ccKAtQjplsE8KfDkqrNqFwlqpXrLLFaPDYv1eco0YTzXaFDyruqrCvizsIL6Q4yVPZtGh+yVpoRS1M5etuwTLeemfgRrXmAsgnpFlhURc3jwIN1AkYb/PZgm5kbiArSnNxhhnplQUXmXs15RBtYiDsiYh3uOGnmKQxiAMyGcBV8HoYS6TsyKDpzI9VTvjyzN6knKZlAL1fudk5Bi3gkM0BFp+kryUWm1KN7bgYJ7NnBNb9dvagD1vtJQWszgrphNqhMycmWmFeVoMYPwocIt++GSaW2zQcgmQtNzWbLlgL5CKeB0bKovHzMtNcyz3BGxtXboXThEhomAGDSiaXS0cI2E/k8nFhpqnxrgyud1XOUf5c6ROmXa8t23v8WVOYRQRn52mUQb/gM3vY9RzNtPfeczwY871pSxDRbw==;5kUWtiTbnP+wTqyNpE64Mg=="
 ---
 

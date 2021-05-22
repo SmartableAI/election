@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/republican-arizona-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013"
 type: article
 quality: 140
-heat: 1080
+heat: 1100
 published: true
 
 provider:
@@ -516,6 +516,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/14/USAT/ff68f52c-e9f6-4328-83e4-dd6734228216-c7f98d30-0917-47bb-93b0-c461553ba2a4_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "Investigation of Trump Organization now explores possible criminal conduct"
+    excerpt: "The Post’s David Fahrenthold provided answers to questions on what we know — and what we don’t — about two New York state investigations of the Trump Organization."
+    publishedDateTime: 2021-05-22T11:04:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/investigation-of-trump-organization-now-explores-possible-criminal-conduct/2021/05/22/3f85e6f5-98c5-446a-bb20-1d12d20d72be_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-21-2021/t_da396c461d224662a13bce4a5164c443_name_8dfd2e66_b84e_11eb_bc4a_62849cf6cca9_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
         isCached: true
   - title: "Arizona's ridiculous election audit should be the end of Trump's 'Big Lie' — if only Republicans had the courage to condemn it"
     excerpt: "Arizona's election audit is a fiasco, built on Trump's \"Big Lie\" that he lost the election because of voter fraud. Republican leaders must condemn it."

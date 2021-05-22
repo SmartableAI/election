@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Kamala Harris grapples with unique challenges as vice president"
-excerpt: "Four months into her time as vice president, Kamala Harris Kamala Harris Biden was blindsided by Harris's attack in 2019 debate: book Stacey Abrams on not being Biden's VP: 'He picked the right person' House sends anti-Asian hate bill to Biden's desk MORE is still finding her footing in the role."
-publishedDateTime: 2021-05-20T10:00:00Z
-originalUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president"
-webUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president"
-ampWebUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
+title: "Around Town: Through letters, Girl Scouts share hopes for the country with Kamala Harris"
+excerpt: "In the latest Around Town column, stories on local Girl Scouts contributing to a book of letters to Vice President Kamala Harris, a local teen's skateboard giveaway in East Palo Alto and an alleged dog beating in Palo Alto."
+publishedDateTime: 2021-05-22T15:04:00Z
+originalUrl: "https://www.paloaltoonline.com/news/2021/05/22/around-town-through-letters-girl-scouts-share-hopes-for-the-country-with-kamala-harris"
+webUrl: "https://www.paloaltoonline.com/news/2021/05/22/around-town-through-letters-girl-scouts-share-hopes-for-the-country-with-kamala-harris"
 type: article
-quality: 125
-heat: 565
-published: true
+quality: 46
+heat: -1
+published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Palo Alto Weekly
+  domain: paloaltoonline.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://thehill.com/sites/default/files/harriskamala_051721getty_harris.jpg"
-    width: 980
-    height: 580
+  - url: "https://www.paloaltoonline.com/news/photos/2021/may/20/91715_col.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
+  - title: "Kamala Harris grapples with unique challenges as vice president"
+    excerpt: "Four months into her time as vice president, Kamala Harris Kamala Harris Biden was blindsided by Harris's attack in 2019 debate: book Stacey Abrams on not being Biden's VP: 'He picked the right person' House sends anti-Asian hate bill to Biden's desk MORE is still finding her footing in the role."
+    publishedDateTime: 2021-05-20T10:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president"
+    ampWebUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_051721getty_harris.jpg"
+        width: 980
+        height: 580
+        isCached: true
   - title: "First lady, Vice President Harris highlight different paths to motherhood"
     excerpt: "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood."
     publishedDateTime: 2021-05-08T19:44:00Z
@@ -288,20 +298,6 @@ related:
         width: 1200
         height: 835
         isCached: true
-  - title: "Around Town: Through letters, Girl Scouts share hopes for the country with Kamala Harris"
-    excerpt: "In the latest Around Town column, stories on local Girl Scouts contributing to a book of letters to Vice President Kamala Harris, a local teen's skateboard giveaway in East Palo Alto and an alleged dog beating in Palo Alto."
-    publishedDateTime: 2021-05-22T15:04:00Z
-    webUrl: "https://www.paloaltoonline.com/news/2021/05/22/around-town-through-letters-girl-scouts-share-hopes-for-the-country-with-kamala-harris"
-    type: article
-    provider:
-      name: Palo Alto Weekly
-      domain: paloaltoonline.com
-    quality: 46
-    images:
-      - url: "https://www.paloaltoonline.com/news/photos/2021/may/20/91715_col.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Doug Emhoff, husband of Vice President Kamala Harris, to hear about COVID-19 business challenges in Annapolis"
     excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is scheduled to visit Annapolis this morning, taking part in a discussion with business owners about the challenges posed by the COVID-19 pandemic."
     publishedDateTime: 2021-05-18T13:09:00Z
@@ -349,6 +345,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "VuGWU720tFWVYootCCPE4OoGV8fp9ctTt3W1z9r0M7tfvWTSLMMmbx50OAKsf4c8ccSiAnu5HsovALr6dRJvKr/SW+a50xTpiBwCszkhmzmmlH0lcSp2gFQ2CWNJM7p35HLVRsZ4ioxOP7rhUiW9HgR0PYhPdfX+AhrxBI57NVJQbAnk/v5yMpFAzhJSVfqUKiR4RETEdvjw21Rt5r+BgNPr5+7Y9ohDgZpQbeZXlhRhf6/QRBjXZo7Y2ZXbyMF8+mS+4tzAw+96fuhHON6i5JCRmJvhlHnxOX1I07pdRBaTki7IRZfi+9orYznOsii4z1LICaIiHP0nT7WAMCodE6AaS2IPlzVTF3CZNbS7Ecw=;J14uU1BOZcFLwog9Q7DVqQ=="
+secured: "puqiBLsvLIqsFLPcHxTzc5JQfXXcW8wp605071Fa4rUN00r8WFWMRh8lupGdM89TB/qF3toqMHUS6z+bMEAt+NueS6MZ0H09ApCdC06ho51YJ2W5hRl82zqiMCfqVFrGZ3RriIZ96BRS6y7H+fgxN6L2uPBs0H2YopF28J+dC4WRrzyGaha9PpPMrCU4/vGM12uqiZzpPtisesUx4wH1emyFxU9hxpPOaXThMlPNJla9AwmKhCjwzwPSXEZaUAwgeZVdULfZW4KEoymNh9UWorqv+/ked9c7sK/4d2QtIt1ZUmk8KgyjqdpDApHdSVKTaoUVBqe4bi3BdRT6NDsYrjodnyC9ed1PRVDkoLX+byM=;61TV9nF2vnfavDbJutxFiQ=="
 ---
 
