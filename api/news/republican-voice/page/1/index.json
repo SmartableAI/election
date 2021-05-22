@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-22-biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder.md",
+      "title": "Biden plans to meet with George Floyd's family on anniversary of his murder",
+      "excerpt": "President Biden plans to host the family of George Floyd at the White House on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/18pWU60ZH8Q/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/18pWU60ZH8Q/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a52aa08-de68-4293-9071-d5aea97732c7/e955899c-ee48-417c-acff-f42238a65020/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder.amp",
+      "publishedDateTime": "2021-05-22T02:33:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.md",
       "title": "Jill Biden, Kamala Harris share hug after reports of first lady's F-bomb toward VP",
       "excerpt": "Bygones appeared to be bygones at the White House Friday, with first lady Jill Biden getting chummy with Vice President Kamala Harris — days after a forthcoming book revealed Biden said Harris should “go f–k” herself for attacking her husband during the Democratic primaries.",
@@ -1588,62 +1644,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-jimmy-carter-20-bidens-bundle-of-crises-look-increasingly-like-1970s.md",
-      "title": "Jimmy Carter 2.0: Biden's bundle of crises look increasingly like 1970s",
-      "excerpt": "Republican lawmakers and conservative commentators have made multiple comparisons between the Joe Biden and Jimmy Carter administrations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTa_eMcdl78/jimmy-carter-biden-crises-1970s",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTa_eMcdl78/jimmy-carter-biden-crises-1970s",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/198530bb-d185-486d-8857-92461ae5a01f/0013eadb-6808-4e68-a958-67e1f426972c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jimmy-carter-biden-crises-1970s.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-biden-crises-1970s.amp",
-      "publishedDateTime": "2021-05-16T03:26:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }
