@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he won't allow Justice Dept. to seize reporters' records"
+    excerpt: "His comments come as CNN reported that the Trump administration Justice Department secretly obtained the 2017 phone records of one of their correspondents."
+    publishedDateTime: 2021-05-22T02:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/biden-says-he-won-t-allow-justice-dept-seize-reporters-n1268231"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268231"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268231"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_20/3476920/210521-joe-biden-reporters-se-1020p_da433f6b9da9e66a81cb187eeb208fdd.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "CygQpaBkzMy+Du8hudywmGSkqQbWpGHeKnK7HYOGmignSqj0uG4gL8WkOFW52/c6UKCcVzmb21xtTkdZ6cEai0h3iOBYupsvgvLaiG72bw8WpxcSum7+/3yAHJA3Xp+n/wJHgM/kqsgqtX3XZ31ezoVPqoe/2b9VjcUEgLdxgk/Rc0BK+TwT08MhN7ggCAjWmymZIV+IrIrTpKdd9pW0mX9hUqTJBZR70DvJeqEKmIVpVBME9aTVRgsuuBfyrEQd5HpWN3SCUwPxEOs1oVAlnuP7Wp0ULszqqiIe5bgi+HbmyeQvtJOl9CsW9qqjKNg1fe4e1p67GPIktdv8oiZ3lapT7LbY/yrIVj/oLkg3m2M=;8rXeOOsL2IjmCEAHTTgHgg=="
 ---

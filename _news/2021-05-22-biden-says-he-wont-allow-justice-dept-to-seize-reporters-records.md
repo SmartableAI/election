@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Blinken and Lavrov to hold first high-level meeting of Biden's presidency as US-Russia tensions simmer"
-excerpt: "US Secretary of State Antony Blinken is set to meet Russian Foreign Minister Sergey Lavrov Wednesday, the first high-level encounter between the US and Russia since President Joe Biden took office that comes amid heightened tensions between the former Cold War foes.\n    \n"
-publishedDateTime: 2021-05-19T17:26:12Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4N1jyX42c4g/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4N1jyX42c4g/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
+title: "Biden says he won't allow Justice Dept. to seize reporters' records"
+excerpt: "His comments come as CNN reported that the Trump administration Justice Department secretly obtained the 2017 phone records of one of their correspondents."
+publishedDateTime: 2021-05-22T02:33:00Z
+originalUrl: "https://www.nbcnews.com/politics/justice-department/biden-says-he-won-t-allow-justice-dept-seize-reporters-n1268231"
+webUrl: "https://www.nbcnews.com/politics/justice-department/biden-says-he-won-t-allow-justice-dept-seize-reporters-n1268231"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268231"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268231"
 type: article
-quality: 159
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512132815-tony-blinken-sergey-lavrov-split-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media1.s-nbcnews.com/i/newscms/2021_20/3476920/210521-joe-biden-reporters-se-1020p_da433f6b9da9e66a81cb187eeb208fdd.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -127,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Blinken and Lavrov to hold first high-level meeting of Biden's presidency as US-Russia tensions simmer"
+    excerpt: "US Secretary of State Antony Blinken is set to meet Russian Foreign Minister Sergey Lavrov Wednesday, the first high-level encounter between the US and Russia since President Joe Biden took office that comes amid heightened tensions between the former Cold War foes.\n    \n"
+    publishedDateTime: 2021-05-19T17:26:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4N1jyX42c4g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512132815-tony-blinken-sergey-lavrov-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden wants to bring the economy from relief to recovery. A labor shortage may signal trouble for those plans."
     excerpt: "Patti Eisenbraun had been anxiously waiting for the pandemic to subside so the dining room and patio at the Brown Iron Brewhouse would be bustling once again.\n    \n"
     publishedDateTime: 2021-05-18T11:50:47Z
@@ -159,22 +176,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says he won't allow Justice Dept. to seize reporters' records"
-    excerpt: "His comments come as CNN reported that the Trump administration Justice Department secretly obtained the 2017 phone records of one of their correspondents."
-    publishedDateTime: 2021-05-22T02:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/justice-department/biden-says-he-won-t-allow-justice-dept-seize-reporters-n1268231"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268231"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268231"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_20/3476920/210521-joe-biden-reporters-se-1020p_da433f6b9da9e66a81cb187eeb208fdd.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "'We still need a two state solution' Biden remarks on Israel cease-fire"
     excerpt: "President Joe Biden responded to questions about his approach to Israel during a press conference with South Korean President Moon Jae-in."
     publishedDateTime: 2021-05-22T00:15:00Z
@@ -192,6 +193,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "+AoFFlEKYflveKyEUJeDEexJGHUigpAI77zB1QBd5dVgTs7u1zo07c1tFSHYnL7l7OxVfXTiqA9rPEeOSk+qqrSciniOk/lRT0IghgFOWDGjScrCemwXoEaI0Ab9PQoxuA1sRIHqcb3D770NTVZ+WEXRPMzffOGaQx7OinopdzIZtXhcMHKk/He4oZ68At/8FXy5VBs3lw59gZpOvzAU0lzwjp32ijSJ+0nhR/a0E8KNKWAR5c8XBUbPrP5em6Q6jpTFqxzT55+1OHAq3MHJnyHczdqIGiFOem2NJJ3ZbaryRysD75OypRIjP8wghTdhGFQmAdwwjuaRM2o1gRcbDnRikAASFi/nGYHECZiatQI=;3hJLAMk0rl2Chg6F+o0KJA=="
+secured: "FiCkxL+jXkDKcwQM/jTRcGhgv2hxHnzMfU7+UBtgV/AhAyzFcNO6eDZsBekUXiQC+w20ti36Xi7XovmAb9SvE+TVCZYMTFSYKAZj/sIkLp6loKI9gZTdiW5Nes1T0+qE5Px2p+zdP0dHBzOuvS1EKOxzY3krKCaZhF4vF3MFBEdAEedm89+fAtaYV8vscQoyoBh0R+gjryfcME3jLRHK7eQMJWP/o980lBAenhMEnJqpJLosNf2G3jPpG5TipMnn6F8BlgT9iN0jmL+XDMRzzuZsLchF4UQ18IgeoQfCvgZVx6MMyilm67/GWrJqhpCa4dMhsidP2TDwMNvIV1iMP7//w4rXz9KIz8erja3pViY=;p3VcdGDdD6D580nlGQdqqA=="
 ---
 

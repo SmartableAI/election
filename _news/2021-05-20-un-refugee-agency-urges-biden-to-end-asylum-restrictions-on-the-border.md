@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517133914-01-pressley-advocates-clemency-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden says he won't allow Justice Dept. to seize reporters' records"
+    excerpt: "His comments come as CNN reported that the Trump administration Justice Department secretly obtained the 2017 phone records of one of their correspondents."
+    publishedDateTime: 2021-05-22T02:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/biden-says-he-won-t-allow-justice-dept-seize-reporters-n1268231"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268231"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268231"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_20/3476920/210521-joe-biden-reporters-se-1020p_da433f6b9da9e66a81cb187eeb208fdd.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "'We still need a two state solution' Biden remarks on Israel cease-fire"
     excerpt: "President Joe Biden responded to questions about his approach to Israel during a press conference with South Korean President Moon Jae-in."

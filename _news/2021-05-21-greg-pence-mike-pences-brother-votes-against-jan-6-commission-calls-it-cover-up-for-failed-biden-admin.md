@@ -111,6 +111,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden says won't allow Justice Dept to seize phone or email records of reporters"
+    excerpt: "U.S. President Joe Biden on Friday said he would not allow his Justice Department to seize the phone or email records of reporters, saying that any such move would be \"simply wrong.\""
+    publishedDateTime: 2021-05-22T02:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-media-idUSKCN2D22R1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D22R1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D22R1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210522&t=2&i=1563023906&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4L00X"
+        width: 825
+        height: 545
+        isCached: true
   - title: "Idaho governor signs bill to halt Biden moves on gun laws"
     excerpt: "Idaho Gov. Brad Little has signed legislation aimed at thwarting a half-dozen executive actions taken by President Joe Biden to combat gun violence"
     publishedDateTime: 2021-05-11T21:18:00Z

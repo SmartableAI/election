@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden signs bill to combat anti-Asian hate crimes"
-excerpt: "President Joe Biden signed legislation designed to combat a dramatic rise in hate crimes against Asian Americans and Pacific Islanders. At a White House ceremony, Biden praised lawmakers who seem to agree on little but came together against hate."
-publishedDateTime: 2021-05-20T22:07:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/20/biden-signs-bill-combat-anti-asian-hate-crimes/5191416001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/20/biden-signs-bill-combat-anti-asian-hate-crimes/5191416001/"
+title: "Biden says won't allow Justice Dept to seize phone or email records of reporters"
+excerpt: "U.S. President Joe Biden on Friday said he would not allow his Justice Department to seize the phone or email records of reporters, saying that any such move would be \"simply wrong.\""
+publishedDateTime: 2021-05-22T02:51:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-media-idUSKCN2D22R1"
+webUrl: "https://www.reuters.com/article/us-usa-biden-media-idUSKCN2D22R1"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D22R1"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D22R1"
 type: article
-quality: 105
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ff82513d-d123-469d-894e-99364d48fbfa_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210522&t=2&i=1563023906&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4L00X"
+    width: 825
+    height: 545
     isCached: true
 
 related:
@@ -125,22 +127,6 @@ related:
         width: 3500
         height: 2333
         isCached: true
-  - title: "Biden says won't allow Justice Dept to seize phone or email records of reporters"
-    excerpt: "U.S. President Joe Biden on Friday said he would not allow his Justice Department to seize the phone or email records of reporters, saying that any such move would be \"simply wrong.\""
-    publishedDateTime: 2021-05-22T02:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-media-idUSKCN2D22R1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D22R1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D22R1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210522&t=2&i=1563023906&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4L00X"
-        width: 825
-        height: 545
-        isCached: true
   - title: "Idaho governor signs bill to halt Biden moves on gun laws"
     excerpt: "Idaho Gov. Brad Little has signed legislation aimed at thwarting a half-dozen executive actions taken by President Joe Biden to combat gun violence"
     publishedDateTime: 2021-05-11T21:18:00Z
@@ -154,6 +140,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_8b67b92eacf64c4eb158c419207af25c_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden signs bill to combat anti-Asian hate crimes"
+    excerpt: "President Joe Biden signed legislation designed to combat a dramatic rise in hate crimes against Asian Americans and Pacific Islanders. At a White House ceremony, Biden praised lawmakers who seem to agree on little but came together against hate."
+    publishedDateTime: 2021-05-20T22:07:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/20/biden-signs-bill-combat-anti-asian-hate-crimes/5191416001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ff82513d-d123-469d-894e-99364d48fbfa_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Policy experts call Biden's tough China stance damaging to climate agenda"
     excerpt: "President Joe Biden touted his electric vehicle and infrastructure plans Tuesday during remarks at a Ford facility in Michigan, where he told reporters China was currently ahead in the race for green technology."
@@ -227,6 +227,6 @@ related:
         height: 433
         isCached: true
 
-secured: "MFxC/ed0+I31AWjyLjRDtK6vhJwtPgbrzTI7k10jfEcjdsiCPhip4RXphH+RBJHMn43iP79caijhlFGTtQEs6+YKkHCW1UwX7aHAbiktGYAl4AX17TE8ngkMUqZlwn/5sm0BX6lMYr5hTLA+H3y5qj6k7tq/ZpSZTGxP+c4lR4OQVdpdKQ4v266Xo692gYt6iDyJZAYHBSvQ1DNQMjrJKY7+jMibv0hx7KDF8ddQtvuX7p12PDmM8ymiuzqvHuLtrqcEMaSVlcn4+QcMm0zEd+9PQ1deM7Fi2YDZkGXGL0k97utt1ya14WnJWB2ByHkhM5daQ+V7PEjPzPZkUxkSjYTsxXZsCqjEPI2JcllzYdg=;1sNWQIfPRSDa0JX7vJZogg=="
+secured: "qSkA/SnBQWY4rA2AQiEne0Yt4u0/Vc7l95f/fo/pEyy+o6L9tSRMHpJ4Yx9VILiTDZfIjwp4oNrkeSxWgsED1ChERRzyJdEkUbLqrLk0E1fYYZO3gmvKiJk6jVlk1OEinVGXfRhOQG8rvrrg+cwC8GHYo8EsGXJos5X9VP9zPf7+A0ZZKyHOZ/R3uXmpXyflIDEnMqVtrVsqtIc+dHhhCwQkgUUGjGRGn+8onjrOlTd6iuwhQuDFK7KSQn0sfV5XDOjb3i44bnnCU1DZaOihuxtui9n4YqGyg8Crlkp5WwDfrpfzc6sgmkyyUrXDBQnxUCLQUxtH+q+AYe9KLbKdztVl0GVtY1jlAj7g5Brnc1w=;eWlmh63gc1RD6SbmUZRTKg=="
 ---
 

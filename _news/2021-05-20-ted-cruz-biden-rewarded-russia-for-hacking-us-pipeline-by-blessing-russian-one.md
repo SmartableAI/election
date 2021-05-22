@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.amp"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 163
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f4eb9de-2cb5-4510-8484-472066a72fd4/41d40886-d2bf-4211-a0e3-2d5708f9195f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Rep. Waltz slams Biden for appeasing Russia and China: ‘Our adversaries smell weakness in the White House’"
+    excerpt: "Fla., lambasted President Biden on \"Hannity\" Friday for waiving sanctions on Russia’s Nord Stream 2 pipeline after blocking the Keystone Pipeline, and getting nothing in return."
+    publishedDateTime: 2021-05-22T02:23:00Z
+    webUrl: "https://www.foxnews.com/media/rep-waltz-slams-biden-for-appeasing-russia-and-china-our-adversaries-smell-weakness-in-the-white-house"
+    ampWebUrl: "https://www.foxnews.com/media/rep-waltz-slams-biden-for-appeasing-russia-and-china-our-adversaries-smell-weakness-in-the-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rep-waltz-slams-biden-for-appeasing-russia-and-china-our-adversaries-smell-weakness-in-the-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f5e95b5-d194-4847-977b-ace06dd19a94/e4e00bb4-0ee5-418d-9bf1-38b01fd9b9cf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
