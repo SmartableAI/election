@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.amp"
 type: article
 quality: 170
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 163
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f4eb9de-2cb5-4510-8484-472066a72fd4/41d40886-d2bf-4211-a0e3-2d5708f9195f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "West Virginia AG Morissey: Biden energy policy amounts to Russia and China first, 'America last'"
+    excerpt: "West Virginia Attorney General Patrick Morrisey said the American worker is getting \"squeezed\" by President Biden’s \"hypocritical\" energy policies that benefit U.S. adversaries like China and Russia."
+    publishedDateTime: 2021-05-22T11:45:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2IjwhKEhtb8/west-virginia-morissey-biden-energy-policy-russia-china-first-america-last"
+    ampWebUrl: "https://www.foxnews.com/politics/west-virginia-morissey-biden-energy-policy-russia-china-first-america-last.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-morissey-biden-energy-policy-russia-china-first-america-last.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

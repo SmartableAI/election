@@ -66,7 +66,7 @@ related:
   - title: "How Rep. Jayapal Views the Biden Administration"
     excerpt: "As Joe Biden laid out a grand vision for his Presidency, in a speech before Congress late last month, cameras caught Representative Pramila Jayapal standing and applauding. Behind her face mask, she later told an aide,"
     publishedDateTime: 2021-05-21T13:44:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/21/how_rep_jayapal_views_the_biden_administration_543205.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/05/21/how_rep_jayapal_views_the_biden_administration_543205.html"
     type: article
     provider:
       name: RealClearPolitics

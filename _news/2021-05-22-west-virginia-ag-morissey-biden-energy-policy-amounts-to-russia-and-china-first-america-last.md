@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Rep. Waltz slams Biden for appeasing Russia and China: ‘Our adversaries smell weakness in the White House’"
-excerpt: "Fla., lambasted President Biden on \"Hannity\" Friday for waiving sanctions on Russia’s Nord Stream 2 pipeline after blocking the Keystone Pipeline, and getting nothing in return."
-publishedDateTime: 2021-05-22T02:23:00Z
-originalUrl: "https://www.foxnews.com/media/rep-waltz-slams-biden-for-appeasing-russia-and-china-our-adversaries-smell-weakness-in-the-white-house"
-webUrl: "https://www.foxnews.com/media/rep-waltz-slams-biden-for-appeasing-russia-and-china-our-adversaries-smell-weakness-in-the-white-house"
-ampWebUrl: "https://www.foxnews.com/media/rep-waltz-slams-biden-for-appeasing-russia-and-china-our-adversaries-smell-weakness-in-the-white-house.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rep-waltz-slams-biden-for-appeasing-russia-and-china-our-adversaries-smell-weakness-in-the-white-house.amp"
+title: "West Virginia AG Morissey: Biden energy policy amounts to Russia and China first, 'America last'"
+excerpt: "West Virginia Attorney General Patrick Morrisey said the American worker is getting \"squeezed\" by President Biden’s \"hypocritical\" energy policies that benefit U.S. adversaries like China and Russia."
+publishedDateTime: 2021-05-22T11:45:27Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2IjwhKEhtb8/west-virginia-morissey-biden-energy-policy-russia-china-first-america-last"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2IjwhKEhtb8/west-virginia-morissey-biden-energy-policy-russia-china-first-america-last"
+ampWebUrl: "https://www.foxnews.com/politics/west-virginia-morissey-biden-energy-policy-russia-china-first-america-last.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-morissey-biden-energy-policy-russia-china-first-america-last.amp"
 type: article
-quality: 117
+quality: 162
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f5e95b5-d194-4847-977b-ace06dd19a94/e4e00bb4-0ee5-418d-9bf1-38b01fd9b9cf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -64,23 +63,23 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "West Virginia AG Morissey: Biden energy policy amounts to Russia and China first, 'America last'"
-    excerpt: "West Virginia Attorney General Patrick Morrisey said the American worker is getting \"squeezed\" by President Biden’s \"hypocritical\" energy policies that benefit U.S. adversaries like China and Russia."
-    publishedDateTime: 2021-05-22T11:45:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2IjwhKEhtb8/west-virginia-morissey-biden-energy-policy-russia-china-first-america-last"
-    ampWebUrl: "https://www.foxnews.com/politics/west-virginia-morissey-biden-energy-policy-russia-china-first-america-last.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-morissey-biden-energy-policy-russia-china-first-america-last.amp"
+  - title: "Rep. Waltz slams Biden for appeasing Russia and China: ‘Our adversaries smell weakness in the White House’"
+    excerpt: "Fla., lambasted President Biden on \"Hannity\" Friday for waiving sanctions on Russia’s Nord Stream 2 pipeline after blocking the Keystone Pipeline, and getting nothing in return."
+    publishedDateTime: 2021-05-22T02:23:00Z
+    webUrl: "https://www.foxnews.com/media/rep-waltz-slams-biden-for-appeasing-russia-and-china-our-adversaries-smell-weakness-in-the-white-house"
+    ampWebUrl: "https://www.foxnews.com/media/rep-waltz-slams-biden-for-appeasing-russia-and-china-our-adversaries-smell-weakness-in-the-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rep-waltz-slams-biden-for-appeasing-russia-and-china-our-adversaries-smell-weakness-in-the-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 117
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f5e95b5-d194-4847-977b-ace06dd19a94/e4e00bb4-0ee5-418d-9bf1-38b01fd9b9cf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
 
-secured: "zSLjUkJDPWTVXeFWDM7WWVJ5xDeYI+9urSXYL/QJ6BlFuJfDOgRPbcElBoDnW6Net5w9puWcRMC5KirosBZUNpGVFTB0DV0KYDhTMrzrfXhJ/jnigc8qnGy3RLH6RRmnQL18s5yPOZ7f2tsXFzE0J1XXYlUuMlsarjMfGP93hgIWtIKjQ0MDGDVTx5fBsc0A1gMUjs0lchk78XiYI07GV+/pdskPt758DuUT48ukwc0jVZ4habGUMxJd0Nm8ZzaluZmus+vuyL4sc0RPIIcKT7Gm43Zvx4foZ5yw8a/qZY1tCn0dE4lR6+T5li/+8mqjz/rKccJj0aW4uJMi30xkNHEAZVLAaDEsqKqROgqxllR0j3TVXtBuW6QNcWRIxnV6oUBIrYRbWz5N7fS3kJhw9UYxAGiJwgoMkPr64LdD8TLRw/q9AG23XB32V3hdN+o34VAAH0w0adJp6pLWaz+H+cGrXuNc4Ycj6Mo1sQ+OWsVFnE5YbtlJhHzPJrw5G+t3NUqUEmMYKv2ssF5Ova8mWQ==;hUZF88HJFnESBXX8fMUONw=="
+secured: "niG2aCERb/6YA0sgPAZJPS1eEZdHoNW/8wvK7InlDtTPDeqVcAb4qU/M7tjAkhfahSgS7yw+54qsVxdky+NKqg+kSuW97/0Y8mDyNHmUq6PuC58yqy3vohcF+Ft6CkfTrdtb1JQkCW31+E9Do8RGBomY+Nq9in30Ohpe1WPZXzPHbP6836GJ0ETVde5tpqGVwcwL5SZtxs2WAwgc/C0krj8Et68ZAlkxc3lHnPMPx5D91AjdWMDTPbm3WM2r9aRBqZ/4xqvjrXn3RPZh9vO9qiD5fdm1om3Z9stCmu6nwNP7qjOBv9QIO90FlHpJr+h/5kcqx98bOc6+Jwg7qWn1GIWC2jjwnfDYQNL23UN5K6M=;sWNhHaaAaefFih0mSRrbZw=="
 ---
 

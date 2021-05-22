@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "West Virginia AG Morissey: Biden energy policy amounts to Russia and China first, 'America last'"
+    excerpt: "West Virginia Attorney General Patrick Morrisey said the American worker is getting \"squeezed\" by President Biden’s \"hypocritical\" energy policies that benefit U.S. adversaries like China and Russia."
+    publishedDateTime: 2021-05-22T11:45:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2IjwhKEhtb8/west-virginia-morissey-biden-energy-policy-russia-china-first-america-last"
+    ampWebUrl: "https://www.foxnews.com/politics/west-virginia-morissey-biden-energy-policy-russia-china-first-america-last.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-morissey-biden-energy-policy-russia-china-first-america-last.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Rep. Waltz slams Biden for appeasing Russia and China: ‘Our adversaries smell weakness in the White House’"
     excerpt: "Fla., lambasted President Biden on \"Hannity\" Friday for waiving sanctions on Russia’s Nord Stream 2 pipeline after blocking the Keystone Pipeline, and getting nothing in return."
     publishedDateTime: 2021-05-22T02:23:00Z
