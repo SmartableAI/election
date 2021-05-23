@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to host family of George Floyd at White House on the first anniversary of his death"
+    excerpt: "President Joe Biden will host George Floyd's family at the White House on Tuesday to mark the first anniversary of his death."
+    publishedDateTime: 2021-05-23T15:34:00Z
+    webUrl: "https://www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/60aa73cbe25d05001880d07e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden traveling to voting rights hot spot Georgia to promote plans to rebuild economy"
     excerpt: "President Joe Biden marks his 100th day in office with a trip to Georgia on Thursday, visiting former President Jimmy Carter and pitching his plans to spend trillions of dollars to rebuild the U.S. economy."
     publishedDateTime: 2021-04-29T14:00:00Z

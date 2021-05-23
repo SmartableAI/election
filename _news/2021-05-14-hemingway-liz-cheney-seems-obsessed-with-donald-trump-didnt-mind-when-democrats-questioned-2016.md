@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
-    excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"
-    publishedDateTime: 2021-05-16T14:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/543376.jpg"
-        width: 750
-        height: 562
-        isCached: true
   - title: "Liz Cheney: Trump Can't Be Ignored, His Rhetoric Continues To Be \"An Ongoing Danger\""
     excerpt: "Former GOP conference chair Rep. Liz Cheney responds to being ousted of her position, and speaks out against her successor Elise Stefanik. \"Fox News Sunday\" host Chris Wallace asked Cheney why she can't move on from criticizing the former president: REP."
     publishedDateTime: 2021-05-16T17:20:00Z

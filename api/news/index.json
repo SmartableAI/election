@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-23-biden-adviser-president-will-change-course-in-infrastructure-talks-if-inaction-seems-inevitable.md",
+      "title": "Biden adviser: President will 'change course' in infrastructure talks if inaction seems inevitable",
+      "excerpt": "White House senior adviser Cedric Richmond said Sunday that President Joe Biden will \"change course\" on his massive infrastructure bill if inaction on the costly proposal seems inevitable.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oVN3nArV5-I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oVN3nArV5-I/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218085023-01-cedric-richmond-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/23/politics/cedric-richmond-infrastructure-bill-biden-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/cedric-richmond-infrastructure-bill-biden-cnntv/index.html",
+      "publishedDateTime": "2021-05-23T08:14:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-23-the-long-tail-of-trumps-big-lie-9-ways-it-continues-to-affect-american-politics.md",
       "title": "The long tail of Trump's Big Lie: 9 ways it continues to affect American politics  ",
       "excerpt": "Donald Trump isn't moving on. Neither is his party.\n    \n",
@@ -30,7 +86,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/23/politics/trump-big-lie-impact/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/trump-big-lie-impact/index.html",
-      "publishedDateTime": "2021-05-23T04:09:27-07:00",
+      "publishedDateTime": "2021-05-23T07:14:40-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -55,6 +111,62 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-campaign-2024-trump-getting-ready-to-hit-campaign-trail.md",
+      "title": "Campaign 2024: Trump getting ready to hit campaign trail",
+      "excerpt": "Former President Donald Trump is gearing up for “upcoming rallies.” And the former president, who’s expected to begin holding rallies again as early as next month, also says that he’s refurbishing the airliner that he used during his 2016 White House campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp",
+      "publishedDateTime": "2021-05-23T07:09:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -862,7 +974,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -1216,118 +1328,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-justin-amash-questions-why-liz-cheney-didnt-speak-out-about-trump-sooner.md",
-      "title": "Justin Amash questions why Liz Cheney didn't speak out about Trump sooner",
-      "excerpt": "Justin Amash, former Republican-turned independent congressman, argued that propping up GOP Rep. Liz Cheney as \"some sort of hero\" for breaking with her party about former President Donald Trump \"is a bit misguided,\" criticizing her for not speaking up sooner.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k_cydzoezMQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k_cydzoezMQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210520064846-restricted-file-justin-amash-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/justin-amash-liz-cheney-axe-files/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/justin-amash-liz-cheney-axe-files/index.html",
-      "publishedDateTime": "2021-05-20T17:38:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-biden-tries-to-claim-credit-for-cease-fire-between-israel-and-hamas.md",
-      "title": "Biden tries to claim credit for cease-fire between Israel and Hamas",
-      "excerpt": "As Israel and Hamas agreed to ceasefire after 11 days of fighting, President Biden vowed to help Israel replenish its Iron Dome system and to work with the Palestinian Authority to rebuild Gaza.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/km75sX5cpHU/biden-israel-replenish-iron-dome-limit-hamas-rocket",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/km75sX5cpHU/biden-israel-replenish-iron-dome-limit-hamas-rocket",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc6d2359-50d5-4e84-aa4c-65ce04c230a1/680d6431-b135-4af6-8c52-6631c7868a31/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp",
-      "publishedDateTime": "2021-05-20T16:49:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

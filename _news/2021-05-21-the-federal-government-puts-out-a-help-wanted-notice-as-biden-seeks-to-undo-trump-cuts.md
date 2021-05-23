@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-gover
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
 type: article
 quality: 131
-heat: 231
+heat: 251
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210518&t=2&i=1562530751&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4H0OK"
         width: 835
         height: 545
+        isCached: true
+  - title: "Biden’s Plans Face Youngstown Test That Defeated Trump and Obama"
+    excerpt: "One U.S. president after another has promised to turn this Rust Belt city around. The latest proposal to pump in tens of millions of dollars is bringing hope—and skepticism."
+    publishedDateTime: 2021-05-23T13:15:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/bidens-plans-face-youngstown-test-that-defeated-trump-and-obama/2021/05/23/660d8302-bbd1-11eb-922a-c40c9774bc48_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20"
     excerpt: "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency"

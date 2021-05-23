@@ -210,7 +210,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -467,80 +467,23 @@
       ]
     },
     {
-      "path": "_news/2021-05-21-rep-kevin-mccarthy-grapples-with-legacy-of-trump.md",
-      "title": "Rep. Kevin McCarthy Grapples With Legacy of Trump",
-      "excerpt": "Nearly three dozen House GOP lawmakers broke with party leaders over legislation to create a Jan. 6 Capitol riot commission.",
+      "path": "_news/2021-05-21-sure-mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call.md",
+      "title": "‘Sure’: McCarthy says he’d tell Jan. 6 commission about Trump phone call",
+      "excerpt": "House Minority Leader Kevin McCarthy signaled Thursday that he’d be willing to detail his phone conversation with then-President Donald Trump during the Jan. 6 Capitol riot.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/rep-kevin-mccarthy-struggles-to-move-republicans-past-trump-11621540163",
-      "originalUrl": "https://www.wsj.com/articles/rep-kevin-mccarthy-struggles-to-move-republicans-past-trump-11621540163",
+      "webUrl": "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/",
+      "originalUrl": "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 115,
+      "heat": 194,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-341044/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T16:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission.md",
-      "title": "Trump takes aim at 35 Republicans who voted to form Jan. 6 commission",
-      "excerpt": "After the House passed a bill to open a commission into January’s riot at the Capitol, former President Donald Trump blasted the 35 who were in favor of the legislation.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/",
-      "originalUrl": "https://nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-jan-6-gop.jpg?quality=90&strip=all&w=1200",
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/mccarthy-trump-phone-call-index.jpg?quality=90&strip=all&w=1200",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -550,9 +493,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/amp/",
-      "publishedDateTime": "2021-05-20T14:32:00-07:00",
+      "ampWebUrl": "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/amp/",
+      "publishedDateTime": "2021-05-20T18:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Post",
@@ -886,54 +829,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-graham-calls-for-draft-trump-movement-to-kick-start-2024-wh-campaign.md",
-      "title": "Graham calls for ‘draft Trump’ movement to kick-start 2024 WH campaign",
-      "excerpt": "Sen. Lindsey Graham said that he really hopes that former President Donald Trump decides to run again for President in 2024. “I miss Donald Trump,” Graham said May 18, 2021 on",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/",
-      "originalUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/lindsey-graham-index.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/",
-      "publishedDateTime": "2021-05-18T21:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -1593,6 +1488,110 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-elise-stefanik-trump-loyalist-wins-republican-leadership-post.md",
+      "title": "Elise Stefanik: Trump loyalist wins Republican leadership post",
+      "excerpt": "US Republicans have appointed New York Congresswoman Elise Stefanik, a Trump loyalist, to the third-ranking post in the House of Representatives. It follows an earlier vote to oust the incumbent chairwoman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C15D/production/_118510594_gettyimages-1232884209.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57121629.amp",
+      "publishedDateTime": "2021-05-14T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy.md",
+      "title": "Dump Trump? Kicking him off NYC golf course may not be easy",
+      "excerpt": "Donald Trump has a rich history of fighting back when he’s down and making others pay, and that’s exactly how he intends to deal with New York City over its plans to fire his company from running a ci",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Sports/WireAP_3640cc63671a47ac969bb32cb955072c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
+      "publishedDateTime": "2021-05-14T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

@@ -121,6 +121,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to host family of George Floyd at White House on the first anniversary of his death"
+    excerpt: "President Joe Biden will host George Floyd's family at the White House on Tuesday to mark the first anniversary of his death."
+    publishedDateTime: 2021-05-23T15:34:00Z
+    webUrl: "https://www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/60aa73cbe25d05001880d07e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "W//aLyA9xpy5xTPEFbC5Im70tqSfxLdToVL6mStUXmd2E/2VqvZVBA2cjXraVru0Pxk8PmMXMQBCNE/7VPlsI2+hqWFdqu2ihgvj+gvbBaDK3epJY6lAMHTNp6vsRGpcsek+A9cgqIlGh2FvKo6vSLofm5V1dQ3ScWe26O3e/+pRDLsKBaolcWy/1tXAFFZd5z/5w1/BYqgNSpWIUaRGAnwhZ2Qt5Z7TRnFX7vtpdLDffnP/ueS1BIy1NmeoJdGYmHCcd3rdnnSBth9WJBAfhIYh00nTOVK+pIRaHYeCMY/XjWxYU5ak/3C5fNKCQx8yRvFGyYgx2GxssxJ54rBZ7VkoMD10QqBQA/X0+oxgH0g=;b52ArpHpW8HQPJi727vnVw=="
 ---

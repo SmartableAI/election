@@ -28,49 +28,85 @@ images:
     isCached: true
 
 related:
-  - title: "Liz Cheney willing to do ‘whatever it takes’ to prevent Trump win in 2024"
-    excerpt: "Fresh off her ouster from House Republican leadership, Rep. Liz Cheney is maintaining her crusade to do “whatever it takes” to oppose former President Donald Trump."
-    publishedDateTime: 2021-05-13T12:36:00Z
-    webUrl: "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/"
-    ampWebUrl: "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/amp/"
+  - title: "Campaign 2024: Trump getting ready to hit campaign trail"
+    excerpt: "Former President Donald Trump is gearing up for “upcoming rallies.” And the former president, who’s expected to begin holding rallies again as early as next month, also says that he’s refurbishing the airliner that he used during his 2016 White House campaign."
+    publishedDateTime: 2021-05-23T14:09:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Obama called Trump a 'f------ lunatic' in remarks to foundation donors, book claims"
+    excerpt: "Former President Barack Obama, known by the public as a reserved statesman who notably avoided using his successor’s name for years, reportedly called former President Donald Trump a \"f---ing lunatic,\" a \"madman\" and a \"corrupt motherf----er\" behind closed doors, according to a new book. "
+    publishedDateTime: 2021-05-20T17:54:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTm9ZiXNaOU/dovere-book-obama-trump-lunatic"
+    ampWebUrl: "https://www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7190891-3b68-4f0d-aee0-1b1e57fcd8b2/2f09ad27-6af7-42a5-bacf-9a12c3deec10/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Graham calls for ‘draft Trump’ movement to kick-start 2024 WH campaign"
+    excerpt: "Sen. Lindsey Graham said that he really hopes that former President Donald Trump decides to run again for President in 2024. “I miss Donald Trump,” Graham said May 18, 2021 on"
+    publishedDateTime: 2021-05-19T04:49:00Z
+    webUrl: "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/"
+    ampWebUrl: "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/liz-cheney-1.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/lindsey-graham-index.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Liz Cheney: Trump Can't Be Ignored, His Rhetoric Continues To Be \"An Ongoing Danger\""
-    excerpt: "Former GOP conference chair Rep. Liz Cheney responds to being ousted of her position, and speaks out against her successor Elise Stefanik. \"Fox News Sunday\" host Chris Wallace asked Cheney why she can't move on from criticizing the former president: REP."
-    publishedDateTime: 2021-05-16T17:20:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_trump_cant_be_ignored_because_he_continues_to_be_a_real_danger.html"
+  - title: "Obama had harsh words on Trump, book claims"
+    excerpt: "Former President Barack Obama called Donald Trump a “corrupt motherf–ker,” “madman” and a “racist, sexist pig” to people behind the scenes, a new book claims."
+    publishedDateTime: 2021-05-20T08:36:00Z
+    webUrl: "https://www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims"
+    ampWebUrl: "https://www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 58
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/54/543393.jpg"
-        width: 750
-        height: 562
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7190891-3b68-4f0d-aee0-1b1e57fcd8b2/2f09ad27-6af7-42a5-bacf-9a12c3deec10/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Hemingway: Liz Cheney Seems Obsessed With Donald Trump, Didn't Mind When Democrats Questioned 2016"
-    excerpt: "\"The Federalist\" senior editor Mollie Hemingway responded to Rep. Liz Cheney's heated interview on Thursday's 'Special Report' panel on FOX News Channel. MOLLIE HEMINGWAY: Liz Cheney seems obsessed with Donald Trump."
-    publishedDateTime: 2021-05-14T11:21:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/14/hemingway_liz_cheney_seems_obsessed_with_donald_trump.html#!"
+  - title: "Trump takes aim at 35 Republicans who voted to form Jan. 6 commission"
+    excerpt: "After the House passed a bill to open a commission into January’s riot at the Capitol, former President Donald Trump blasted the 35 who were in favor of the legislation."
+    publishedDateTime: 2021-05-20T21:32:00Z
+    webUrl: "https://nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/"
+    ampWebUrl: "https://nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/amp/"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 51
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/51/512059.jpg"
-        width: 922
-        height: 690
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-jan-6-gop.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "iCV+JqI8a97rMu0sV2XgrJCvlEG/cctUAO2oz/ugeT2LOq+oJlQR4Vxr4m3KVHT27lZlDHuSLqI5+u1UIj/zjD3RFxyiG7E7OCOUT42P51tCpA6oNYffWgzrRWhaGaQqcr6CPqEcxQ2jdVq28kG3rRA41CschtmGUMqkGd1OUe0pf+DUt656ZvqTr2e7TlxIYP6t66g4dmFbsHnZ6ukVA4LhS/H5UiQBmT5f1NxqalLNrwW/CGrj3cP9MHEEeC21m2m564eoi93fOXDVimV/cWVzbR4LZBWS7nzlfvVgXMGXQtvEmsdnZS8s4gmAJZws0oIv0lCsjR3VncxDmdPsSly7f+JJh+nm3gR8+Uz5elmLZQ/nCEn6auq+xijZ4lKv9y/iSJyfMHOEH6wBHCPqLE6jta830Vw9vd3o56G1g1CDp216HXUHc4KNZRoMkfjKLwa+p71ptD/1zC8BAgVlnkwqqDCJacOLkAuUOCzoJC8k7twUqt7+hEkKdJpa6MsiqIHvTIeR6ud661P7YnsFLw==;91qoDXbaw9GqPwC20gOa8g=="

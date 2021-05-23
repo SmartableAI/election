@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
-    excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"
-    publishedDateTime: 2021-05-16T14:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/543376.jpg"
-        width: 750
-        height: 562
-        isCached: true
   - title: "Hemingway: Liz Cheney Seems Obsessed With Donald Trump, Didn't Mind When Democrats Questioned 2016"
     excerpt: "\"The Federalist\" senior editor Mollie Hemingway responded to Rep. Liz Cheney's heated interview on Thursday's 'Special Report' panel on FOX News Channel. MOLLIE HEMINGWAY: Liz Cheney seems obsessed with Donald Trump."
     publishedDateTime: 2021-05-14T11:21:00Z

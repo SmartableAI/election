@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Joe Biden remarks on the Middle East"
-excerpt: "U.S. President Joe Biden deliver remarks on the Middle East in the Cross Hall at the White House in Washington on Thursday, May 20, 2021. Photo by Yuri Gripas/UPI"
-publishedDateTime: 2021-05-20T23:24:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/33cd2900febd06252fab95604ae60cfb/Joe-Biden-remarks-on-the-Middle-East/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/33cd2900febd06252fab95604ae60cfb/Joe-Biden-remarks-on-the-Middle-East/"
+title: "Biden’s Plans Face Youngstown Test That Defeated Trump and Obama"
+excerpt: "One U.S. president after another has promised to turn this Rust Belt city around. The latest proposal to pump in tens of millions of dollars is bringing hope—and skepticism."
+publishedDateTime: 2021-05-23T13:15:00Z
+originalUrl: "https://www.washingtonpost.com/business/on-small-business/bidens-plans-face-youngstown-test-that-defeated-trump-and-obama/2021/05/23/660d8302-bbd1-11eb-922a-c40c9774bc48_story.html"
+webUrl: "https://www.washingtonpost.com/business/on-small-business/bidens-plans-face-youngstown-test-that-defeated-trump-and-obama/2021/05/23/660d8302-bbd1-11eb-922a-c40c9774bc48_story.html"
 type: article
-quality: 55
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/33cd2900febd06252fab95604ae60cfb/BIDEN-MIDDLE-EAST.jpg"
-    width: 650
-    height: 433
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -57,20 +61,6 @@ related:
         width: 835
         height: 545
         isCached: true
-  - title: "Biden’s Plans Face Youngstown Test That Defeated Trump and Obama"
-    excerpt: "One U.S. president after another has promised to turn this Rust Belt city around. The latest proposal to pump in tens of millions of dollars is bringing hope—and skepticism."
-    publishedDateTime: 2021-05-23T13:15:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/bidens-plans-face-youngstown-test-that-defeated-trump-and-obama/2021/05/23/660d8302-bbd1-11eb-922a-c40c9774bc48_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20"
     excerpt: "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency"
     publishedDateTime: 2021-05-17T23:55:00Z
@@ -101,6 +91,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Joe Biden remarks on the Middle East"
+    excerpt: "U.S. President Joe Biden deliver remarks on the Middle East in the Cross Hall at the White House in Washington on Thursday, May 20, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-05-20T23:24:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/33cd2900febd06252fab95604ae60cfb/Joe-Biden-remarks-on-the-Middle-East/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/33cd2900febd06252fab95604ae60cfb/BIDEN-MIDDLE-EAST.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "The evolution of Joe Biden"
     excerpt: "What happened to Joe Biden? Many people thought he was a moderate incrementalist, but now he's promoting whopping big legislative packages that make many on the progressive left extremely happy."
     publishedDateTime: 2021-05-23T08:11:00Z
@@ -116,6 +120,6 @@ related:
         height: 400
         isCached: true
 
-secured: "gUHP3cTb+ON1nIaDnENM2SAALfue1JmJi6OJMlHK6ZU9MMlPUcEbbUCK4aQagAbkTPbbKV227fCdv8wb3bICp1PCsYDAh/uaAbAW8F4ttuWuIfZyvqqheOHU6yMXHhIY2fHglVhRnjD/DgaUxzoKqutqnBdVrkLLrlVI5tMkOiG8+As8FI1BX8KZ7RwGdMFBVHeM22t9bye80fOXYm8IMrq3JW3jqcoLlZoQSDo9z69lhJu8T/BM7UGKhr8QVkBlYFdf9SYA7/+NrGq0yNMEFM+g/UkC1jtyDXV8d5xxDutbXN68rh2+I22IvGtNXKGia/b58N7zBuxv/18kZHl9wdXb7LAt9r7waJWM6Mga8/o=;WxcS4lW5UvKAN/zdDBZwMg=="
+secured: "d/jkBxeN72TsfmKffSdw3UsfkMQqg9R3m1DGKvOTHC30h1NmeuKf9CUmyKLck+mq/C+c7WFK87vRFMkFnmHHBrxZZesVhJc7a6/W3Jl9rvRkPLWP/AEdJhp3ZBWHYHg9KVFb0iI0fv1EyXGH5Xw71JjzyWW1NPTLN8p33fR5BxQ5jxDEkgCgFoLTDYDSUgmPy2SXtyX2QG7B5yTear56CpX1sdXWmj08+t1TvWf8polfn/P4qMKvMZZr9uWsV8gtVgtcvP8De7h3tHqo88+C4tE4EAztFER75J5YwOn5/gwsV6F7qMFWSrIRz12st6g7KyB3lvdAiwwbA8Ct2UHC9wTQdWzP7WbZdEULNXy48BU=;bP0F8dj9sghVUpHR2wrAhg=="
 ---
 

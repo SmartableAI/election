@@ -2,7 +2,7 @@
 category: news
 title: "The long tail of Trump's Big Lie: 9 ways it continues to affect American politics  "
 excerpt: "Donald Trump isn't moving on. Neither is his party.\n    \n"
-publishedDateTime: 2021-05-23T11:09:27Z
+publishedDateTime: 2021-05-23T14:14:40Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/49KlcNlyWbM/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/49KlcNlyWbM/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/05/23/politics/trump-big-lie-impact/index.html"
@@ -30,6 +30,6 @@ images:
     height: 619
     isCached: true
 
-secured: "bnHsnQJ5JAlMvalxpL97a8sWPjrt+mdtPYhjCLufu1VBDPmJa9u7yGaUAUMZnVvjHpUy5kgnw0b1jixTJmlXl88RKESzShRjs/8dWD67pS9kBlLK46tSNPerluNxv3+u988Y7Jz8XAqrHbUvWOkXO24Lk/dy8gC3eu6WUA6fHMonqZ+FolVfTYU0FV1puPG0VvTlupZRt238itCI+r4gKaShzLqVdVRjQ/3gRgERObKWlFG4PuYMhWQi93DWgrVXEuBCLsJt2SbA+wdgtBtqDc3tplMxyJYFBs+Pt2tFwYJv3zXTCIR+UvRUS77M0oKw8dgS8+7jnyyPUbkGV/QcS6CTfrElF61BMt1k7jPJnec=;rLZEqrmmoVMYTY8IWwkJ8w=="
+secured: "ukThr0Ia6L+1xp8OycfU4NTeLo5iA0r6zZP9LDfBSc0pAGSaiGm5s6aF36AxHRjTsJmdiOhU/bwoM/2aO/3PCyCQ11Q/c0hs33Kw3D5G7xPKN4bettWUhobHuhGBS5rLnGaOC3KfP5fv++05I6C7r28c2BUkOWRbhbtJJz9p+zWFaF2IaS5GNGyh/tGoEeMDfUraM9cAFC5jzzratkW1t9Ta6BZZR4TGyNtDy0yc+dFqOueWPjPBLIJBB8ixjD4NZrvUvAz9abv2JPJgNemR+ontxdsU+bYk+2hDac2s/LEDnmco92SzsFfCTZfZPfYJ+uGy5j+92UT05cxA8EkPngKV0xe/4v0KREv6FiIyYPA=;FfySSLeKMEB7MhdtO8OiFQ=="
 ---
 

@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Obama called Trump a 'f------ lunatic' in remarks to foundation donors, book claims"
-excerpt: "Former President Barack Obama, known by the public as a reserved statesman who notably avoided using his successor’s name for years, reportedly called former President Donald Trump a \"f---ing lunatic,\" a \"madman\" and a \"corrupt motherf----er\" behind closed doors, according to a new book. "
-publishedDateTime: 2021-05-20T17:54:04Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTm9ZiXNaOU/dovere-book-obama-trump-lunatic"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTm9ZiXNaOU/dovere-book-obama-trump-lunatic"
-ampWebUrl: "https://www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp"
+title: "Campaign 2024: Trump getting ready to hit campaign trail"
+excerpt: "Former President Donald Trump is gearing up for “upcoming rallies.” And the former president, who’s expected to begin holding rallies again as early as next month, also says that he’s refurbishing the airliner that he used during his 2016 White House campaign."
+publishedDateTime: 2021-05-23T14:09:26Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail"
+ampWebUrl: "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
 type: article
-quality: 169
-heat: -1
-published: false
+quality: 175
+heat: 275
+published: true
 
 provider:
   name: Fox News
@@ -25,27 +25,27 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7190891-3b68-4f0d-aee0-1b1e57fcd8b2/2f09ad27-6af7-42a5-bacf-9a12c3deec10/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
-  - title: "Campaign 2024: Trump getting ready to hit campaign trail"
-    excerpt: "Former President Donald Trump is gearing up for “upcoming rallies.” And the former president, who’s expected to begin holding rallies again as early as next month, also says that he’s refurbishing the airliner that he used during his 2016 White House campaign."
-    publishedDateTime: 2021-05-23T14:09:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
+  - title: "Obama called Trump a 'f------ lunatic' in remarks to foundation donors, book claims"
+    excerpt: "Former President Barack Obama, known by the public as a reserved statesman who notably avoided using his successor’s name for years, reportedly called former President Donald Trump a \"f---ing lunatic,\" a \"madman\" and a \"corrupt motherf----er\" behind closed doors, according to a new book. "
+    publishedDateTime: 2021-05-20T17:54:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTm9ZiXNaOU/dovere-book-obama-trump-lunatic"
+    ampWebUrl: "https://www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7190891-3b68-4f0d-aee0-1b1e57fcd8b2/2f09ad27-6af7-42a5-bacf-9a12c3deec10/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Graham calls for ‘draft Trump’ movement to kick-start 2024 WH campaign"
     excerpt: "Sen. Lindsey Graham said that he really hopes that former President Donald Trump decides to run again for President in 2024. “I miss Donald Trump,” Graham said May 18, 2021 on"
@@ -112,6 +112,6 @@ related:
         height: 562
         isCached: true
 
-secured: "VEbGQtPhoMbTh9xJiS1ATAljonWL2kAFcJmc4DCloDhqh3yNQZazN6sCpp/PvDqziEARqNVU9CVLwdQ+l1aZguNcTja/uEgFHQDJHaS622ib3uknhPFgmJl0/+WiCntA0ja8TSsXevoo+qYcC5oY/7Z1vgwozuyqCpTIT/kgHbSqjuE2Kro2wZb4c/rIFdpqsFtQtxg/e+LPbij90PoMf3B3/+Uxh7phtHxB0jCXelEbjl8hh+wQ1EB3vx89kSI9qSgZJZhDkgIr6OhOeUGZ5Q0K1b02u2W3C8BDjy1x9vQVfWIrq6k3vNp9JZrofMTQ7zb3EFP13yV/33UXcPWuw3ajkViMWzF9VEC808W3v8o=;b0kqoUx1CyX7LG98hJ9RfQ=="
+secured: "PMbLCI3BusOgMbtUkQeNlC+awo314tMFCQ4sxeZ2T+HbKfGOizxm3QYZaAchq612/d60bqE8kTdOg/rrw4p4CX9ggFG3uqC45LZBLAN6lExPib84x76Vh+ulltcp9B17FJtUMMlMb7FGy1lZm3NX2ZS1RnMAs8/vc6fyxyTqPJAajkx+LV6XSHjmHiiOfcMeYRno/+HiVOci3HUzvSdOLq7G56wHOWFQcThlj2z6useJJjGImqpksemW3W4PEqbN/mMAcGEvqMUowZr8FarV/KA7jBpFY3qqC7N20N09x0iCLFBJ0NRHqRCQTB8f2okcgB+XjgIhtMVOX6CiARalBL9/yqJwAUgP00pJcsj858g=;8zU//I5IyWcHYaksoZP8uQ=="
 ---
 

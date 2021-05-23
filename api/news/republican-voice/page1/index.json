@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-23-campaign-2024-trump-getting-ready-to-hit-campaign-trail.md",
+      "title": "Campaign 2024: Trump getting ready to hit campaign trail",
+      "excerpt": "Former President Donald Trump is gearing up for “upcoming rallies.” And the former president, who’s expected to begin holding rallies again as early as next month, also says that he’s refurbishing the airliner that he used during his 2016 White House campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp",
+      "publishedDateTime": "2021-05-23T07:09:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-23-kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.md",
       "title": "Kamala Harris wipes hand after greeting South Korean leader, faces Twitter backlash",
       "excerpt": "Many Americans have become more germ-conscious since the start of the coronavirus pandemic last year – but Vice President Kamala Harris may have made her concerns too conspicuous.",
@@ -435,6 +491,54 @@
       ]
     },
     {
+      "path": "_news/2021-05-21-sure-mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call.md",
+      "title": "‘Sure’: McCarthy says he’d tell Jan. 6 commission about Trump phone call",
+      "excerpt": "House Minority Leader Kevin McCarthy signaled Thursday that he’d be willing to detail his phone conversation with then-President Donald Trump during the Jan. 6 Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/",
+      "originalUrl": "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/mccarthy-trump-phone-call-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/amp/",
+      "publishedDateTime": "2021-05-20T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-biden-tries-to-claim-credit-for-cease-fire-between-israel-and-hamas.md",
       "title": "Biden tries to claim credit for cease-fire between Israel and Hamas",
       "excerpt": "As Israel and Hamas agreed to ceasefire after 11 days of fighting, President Biden vowed to help Israel replenish its Iron Dome system and to work with the Palestinian Authority to rebuild Gaza.",
@@ -487,63 +591,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-rep-kevin-mccarthy-grapples-with-legacy-of-trump.md",
-      "title": "Rep. Kevin McCarthy Grapples With Legacy of Trump",
-      "excerpt": "Nearly three dozen House GOP lawmakers broke with party leaders over legislation to create a Jan. 6 Capitol riot commission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/rep-kevin-mccarthy-struggles-to-move-republicans-past-trump-11621540163",
-      "originalUrl": "https://www.wsj.com/articles/rep-kevin-mccarthy-struggles-to-move-republicans-past-trump-11621540163",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-341044/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T16:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -633,110 +680,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp",
       "publishedDateTime": "2021-05-20T15:07:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission.md",
-      "title": "Trump takes aim at 35 Republicans who voted to form Jan. 6 commission",
-      "excerpt": "After the House passed a bill to open a commission into January’s riot at the Capitol, former President Donald Trump blasted the 35 who were in favor of the legislation.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/",
-      "originalUrl": "https://nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-jan-6-gop.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/amp/",
-      "publishedDateTime": "2021-05-20T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-obama-called-trump-a-f-lunatic-in-remarks-to-foundation-donors-book-claims.md",
-      "title": "Obama called Trump a 'f------ lunatic' in remarks to foundation donors, book claims",
-      "excerpt": "Former President Barack Obama, known by the public as a reserved statesman who notably avoided using his successor’s name for years, reportedly called former President Donald Trump a \"f---ing lunatic,\" a \"madman\" and a \"corrupt motherf----er\" behind closed doors, according to a new book. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTm9ZiXNaOU/dovere-book-obama-trump-lunatic",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTm9ZiXNaOU/dovere-book-obama-trump-lunatic",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7190891-3b68-4f0d-aee0-1b1e57fcd8b2/2f09ad27-6af7-42a5-bacf-9a12c3deec10/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp",
-      "publishedDateTime": "2021-05-20T10:54:04-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -984,54 +927,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-graham-calls-for-draft-trump-movement-to-kick-start-2024-wh-campaign.md",
-      "title": "Graham calls for ‘draft Trump’ movement to kick-start 2024 WH campaign",
-      "excerpt": "Sen. Lindsey Graham said that he really hopes that former President Donald Trump decides to run again for President in 2024. “I miss Donald Trump,” Graham said May 18, 2021 on",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/",
-      "originalUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/lindsey-graham-index.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/",
-      "publishedDateTime": "2021-05-18T21:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1612,6 +1507,119 @@
       "ampWebUrl": "https://www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp",
       "publishedDateTime": "2021-05-17T12:57:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-1m-ad-campaign-accuses-biden-of-working-with-dark-money-teachers-unions-to-keep-schools-closed.md",
+      "title": "$1M ad campaign accuses Biden of working with dark money, teachers unions, to keep schools closed",
+      "excerpt": "Americans for Public Trust launched a million-dollar ad campaign going after Biden and the CDC after it was revealed recently the agency was lobbied by the American Federation of Teachers on school reopenings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
+      "originalUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add16d20-9f6c-4889-b1f3-9beabe54d1da/be7b1d13-226b-42ba-9109-873a6ca93bfe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp",
+      "publishedDateTime": "2021-05-17T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-16-jimmy-carter-20-bidens-bundle-of-crises-look-increasingly-like-1970s.md",
+      "title": "Jimmy Carter 2.0: Biden's bundle of crises look increasingly like 1970s",
+      "excerpt": "Republican lawmakers and conservative commentators have made multiple comparisons between the Joe Biden and Jimmy Carter administrations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTa_eMcdl78/jimmy-carter-biden-crises-1970s",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTa_eMcdl78/jimmy-carter-biden-crises-1970s",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/198530bb-d185-486d-8857-92461ae5a01f/0013eadb-6808-4e68-a958-67e1f426972c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jimmy-carter-biden-crises-1970s.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-biden-crises-1970s.amp",
+      "publishedDateTime": "2021-05-16T03:26:05-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

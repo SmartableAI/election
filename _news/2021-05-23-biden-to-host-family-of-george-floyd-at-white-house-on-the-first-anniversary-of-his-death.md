@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to host George Floyd's family at White House"
-excerpt: "President Joe Biden will host George Floyd’s family at the White House Tuesday to mark the first anniversary of his death at the hands of a white Minneapolis police officer"
-publishedDateTime: 2021-05-21T22:30:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+title: "Biden to host family of George Floyd at White House on the first anniversary of his death"
+excerpt: "President Joe Biden will host George Floyd's family at the White House on Tuesday to mark the first anniversary of his death."
+publishedDateTime: 2021-05-23T15:34:00Z
+originalUrl: "https://www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5"
+webUrl: "https://www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5"
+ampWebUrl: "https://www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5?amp"
 type: article
-quality: 125
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://i.insider.com/60aa73cbe25d05001880d07e?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to host George Floyd's family at White House"
+    excerpt: "President Joe Biden will host George Floyd’s family at the White House Tuesday to mark the first anniversary of his death at the hands of a white Minneapolis police officer"
+    publishedDateTime: 2021-05-21T22:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden to host George Floyd’s family at White House"
     excerpt: "President Joe Biden’s plans to host Floyd’s family come as talks focused on the police reform bill named after Floyd have stalled on Capitol Hill."
     publishedDateTime: 2021-05-22T18:13:00Z
@@ -111,22 +127,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to host family of George Floyd at White House on the first anniversary of his death"
-    excerpt: "President Joe Biden will host George Floyd's family at the White House on Tuesday to mark the first anniversary of his death."
-    publishedDateTime: 2021-05-23T15:34:00Z
-    webUrl: "https://www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/60aa73cbe25d05001880d07e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Biden traveling to voting rights hot spot Georgia to promote plans to rebuild economy"
     excerpt: "President Joe Biden marks his 100th day in office with a trip to Georgia on Thursday, visiting former President Jimmy Carter and pitching his plans to spend trillions of dollars to rebuild the U.S. economy."
     publishedDateTime: 2021-04-29T14:00:00Z
@@ -139,6 +139,6 @@ related:
       domain: reuters.com
     quality: 98
 
-secured: "1S2S1QiCHBSOHpzU0mDmHEyhu2M0v/U6BOcDC1Psi2foBdKQshhU9VaVRQfywQLkJRYDIAUd/9m5YZJYf8WY/wK/TaikRgXv4xEK05WQ+CmQnn1pRmDkSKigCpsV9u0SjY6c2bHYxHRADPLJlhLjen8J8uOyVchn6uj1TcT8Qh/ut9jlB+c6jfLFkKt8EM+idEr08llNEunBuCVIUiJ0J9iMooTjRRXc3ZT9CfqG6TagFqNN2rmzTHUJwDuiBnLz0DUyMeO71Rs23TwXKX3If3ImygbZMBT3AyBFCSL9dPoqNpNmSXnQYSijBEH8IUBaz29BkTg2UDiT2zQDP3SrPv1/lz6yfbMHyDruUOZAIcM=;kfrMAiG49TUtcHd1aexT9g=="
+secured: "zX8sy/CCJ3wZbmXiAywMEragmPb1Y2kL7rxeAF0IpIIccPyI/YEgX7Rczno5wm/lJ7veAKH3koslsfmQWBUY8p5rsBuLWxqIy09zR8r7SmCaLoqbmDmx0hJrC9ahyQXXnILIa26I9cgXt147KLD6UGXlrQN86STlqKomdwbRVGSSy5dCrHVwXx6p3CT5HeoMOGrmSqpzE/c779gUGulkgurLYkUkeyK3EwU0rm6xzhU9ehxYD3rJyLmuvn0cVgRxx1Al0K8dM6MciiIFCQryL2GNQz1V7rGIu5YyF9m64BkkjGZfQ/s0ABy9+pTiXZ+dSj7mWCP4shjuZCw7EomDWptYFRmKlbjOKafD+3NYVzA=;T8ZBFCAOOaUGoRn7wMy3VQ=="
 ---
 

@@ -61,6 +61,20 @@ related:
         width: 835
         height: 545
         isCached: true
+  - title: "Biden’s Plans Face Youngstown Test That Defeated Trump and Obama"
+    excerpt: "One U.S. president after another has promised to turn this Rust Belt city around. The latest proposal to pump in tens of millions of dollars is bringing hope—and skepticism."
+    publishedDateTime: 2021-05-23T13:15:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/bidens-plans-face-youngstown-test-that-defeated-trump-and-obama/2021/05/23/660d8302-bbd1-11eb-922a-c40c9774bc48_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Survey experts have yet to figure out what caused the most significant polling error in 40 years in Trump-Biden race"
     excerpt: "More than six months after the astonishing polling embarrassment in the 2020 U.S. elections, survey experts examining what went wrong are uncertain about what led to the sharpest discrepancy between the polls and popular vote outcome since Ronald Reagan defeated Jimmy Carter in a near-landslide in 1980."
     publishedDateTime: 2021-05-20T12:03:00Z

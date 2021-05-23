@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-21-biden-calls-guilty-verdict-in-derek-chauvin-trial-a-step-forward.md",
+      "title": "Biden calls guilty verdict in Derek Chauvin trial 'a step forward'",
+      "excerpt": "Chauvin was found guilty on two counts of murder and one count of manslaughter in George Floyd's death in Minneapolis in May.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/joe-biden/president-joe-biden-calls-guilty-verdict-chauvin-trial-step-forward-n1264696",
+      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/president-joe-biden-calls-guilty-verdict-chauvin-trial-step-forward-n1264696",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_15/3464825/210415-russian-sanctions-mc-10093_e9e9724a2c783a458a92b7345e41e953.JPG",
+          "width": 2500,
+          "height": 1685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264696",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264696",
+      "publishedDateTime": "2021-04-20T19:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-durbin-wants-more-info-on-trump-appointees-burrowed-into-career-justice-dept-jobs.md",
       "title": "Durbin wants more info on Trump appointees 'burrowed' into career Justice Dept. jobs",
       "excerpt": "The Illinois senator, citing NBC News' reporting, requested info on Trump appointees who landed career civil service jobs at the Executive Office of Immigration Review.",
@@ -1610,62 +1667,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/10/politics/infrastructure-politics-ohio-bridge/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/infrastructure-politics-ohio-bridge/index.html",
       "publishedDateTime": "2021-04-10T08:02:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-matt-gaetz-shows-donald-trumps-defiant-style-is-here-to-stay.md",
-      "title": "Matt Gaetz shows Donald Trump's defiant style is here to stay ",
-      "excerpt": "In a fiery defense of his reputation Friday night, embattled Florida Rep. Matt Gaetz showed how former President Donald Trump's brash, defiant politics now serve as the template for survival for the most unwelcome figures in a Republican Party that's out of power in Washington and desperately trying",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9QJ3Hxo-NkE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9QJ3Hxo-NkE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210408162348-04-gaetz-file-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/10/politics/matt-gaetz-donald-trump-republicans/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/matt-gaetz-donald-trump-republicans/index.html",
-      "publishedDateTime": "2021-04-09T21:04:24-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

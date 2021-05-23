@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-se
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html"
 type: article
 quality: 172
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Ex-Trump ambassador says former President 'absolutely' bears responsibility for January 6 riot"
+    excerpt: "A former Republican senator and member of Donald Trump's administration said Sunday that he thinks the ex-President bears some responsibility for the Capitol insurrection and that his presidency was \"diminished\" as a result of the deadly attack.\n    \n"
+    publishedDateTime: 2021-05-23T15:39:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qs1scB4d0wo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/23/politics/scott-brown-trump-capitol-insurrection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/scott-brown-trump-capitol-insurrection/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210523110408-scott-brown-sotu-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "PbkMUATOzViqeciEKDpLhx7NTygP/fluDce/7F2dyVm4esafS3xHae2c3LsPFN+pB++liZEXUdmWP7vnaDyvF6sQG3AUoK1CA5I950d36A2m7Ij8nqNgZmVtUNhl368fNfPpaMaXJM7hPyYTF4rl3ZHMUMdXpoaegO5if/Dj3zDlR8+iAGbZ0ZBpbvHU8LudOPuJAvdzLdUg3DtrdxEnBPRxKcFO2zf5x45JbTc4tD/Tp25Csf1uemJEKa1J3SIuCsQIFscVF+ISSV11zZ6A1xNR710PjJX0fjZEx95dfutUorlB3i8wlaP/rTfrwefQGRD/wAmiKha8g2KqZfqWa7kX/vMKS7ISxW1UGFTwLo4=;4GwTNtIcCuLKcb/Gcq8gew=="
 ---
