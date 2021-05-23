@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden administration stresses need for 'equal' peace between Israel, Palestinians"
+    excerpt: "Secretary of State Antony Blinken has stressed the Biden administration’s focus on an \"equal peace\" between Israel and the Palestinian people after the most recent bloody conflict in the region."
+    publishedDateTime: 2021-05-23T16:10:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ai2ogpC3NSQ/biden-blinken-israel-palestinians-equal-peace"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blinken-israel-palestinians-equal-peace.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blinken-israel-palestinians-equal-peace.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14db349b-2c58-4be8-8dfc-da8515b9b5ed/292e14a5-459b-4cc3-b08f-2b2950247a6c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Israel, Netanyahu continue to defy Biden with airstrikes amid more Hamas rocket fire"
     excerpt: "Israel is still hammering the Gaza Strip with airstrikes Thursday and declared that it will \"continue to do so\" in response to Hamas rockets \"indiscriminately\" fired at Israelis despite admonitions from President Biden for a cease-fire. "
     publishedDateTime: 2021-05-20T12:43:23Z

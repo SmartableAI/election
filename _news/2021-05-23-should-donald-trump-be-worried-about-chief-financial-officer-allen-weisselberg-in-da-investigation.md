@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Trump Organization Faces Criminal Probe In New York State"
-excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
-publishedDateTime: 2021-05-19T10:35:00Z
-originalUrl: "https://www.ibtimes.com/trump-organization-faces-criminal-probe-new-york-state-3202928"
-webUrl: "https://www.ibtimes.com/trump-organization-faces-criminal-probe-new-york-state-3202928"
+title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
+excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."
+publishedDateTime: 2021-05-23T16:53:00Z
+originalUrl: "https://www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366"
+webUrl: "https://www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366"
+ampWebUrl: "https://www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366?amp=1"
 type: article
-quality: 55
+quality: 61
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/18/a-sign-for-the-trump-international-hotel-in.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
     width: 1024
-    height: 682
+    height: 731
     isCached: true
 
 related:
@@ -77,21 +79,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
-    excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."
-    publishedDateTime: 2021-05-23T16:53:00Z
-    webUrl: "https://www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366"
-    ampWebUrl: "https://www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366?amp=1"
+  - title: "Trump Organization Faces Criminal Probe In New York State"
+    excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
+    publishedDateTime: 2021-05-19T10:35:00Z
+    webUrl: "https://www.ibtimes.com/trump-organization-faces-criminal-probe-new-york-state-3202928"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 61
+    quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/18/a-sign-for-the-trump-international-hotel-in.jpg"
         width: 1024
-        height: 731
+        height: 682
         isCached: true
   - title: "Trump Says New York Criminal Probe Is in 'Desperate Search of a Crime'"
     excerpt: "Former President Donald Trump on Wednesday attacked New York state's attorney general for launching a criminal probe of his family business, saying he was \"being unfairly attacked and abused.\" \"There is nothing more corrupt than an investigation that is in desperate search of a crime,"
@@ -121,6 +121,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "Ds12MJEguCWsu5Wqd1FtoWWb4umkt7o3ynUjuyCO+RU7WnOgPhQV7Nb6BT4nCu9Snwg+z6ia4a0KccrQ9BDk1Mlf/lYs02IX26qbkGKETLB7mfIpw1biyvpx/LYd0U3fycyvv40QA5XcHkUALKUNdgI/mwDZf2LK7ZD669FA9R94lVHtblEpRl0BlwHjUaMI/kCcQpIktQLFfh+TjgbIXVWuVMccxzl2MTqzYqEuTFk9Q6b2cpRBejRUj23a4uS3lNpqTZ1LixiZf8JFKMG6+h7szAbX0/unYBhDJ7fx7zLVs5b+yaQMd9zGv2nfISp5mvIwO9/0Un226jdX3jUtLSf7Jw5/LidVMpoVnj7Vbdwe5ISH7FDGR3/fgnsIePVExA6J6ehlTevr/bN2OdmUSamNlkV+ZkKcO9iZSjv6Nt2D3KyUDMyZ1nmyShYZEIAAfRKNtL9jOtcxMqUOc0ulBnB9+fZ9mvVvUUT6enfBwOLl5rnBLpBewHJjwg78J2UHP/6KzHjhmz2s4aZqlj5WwQ==;jbMJGHFSzjXeR/aDKVM6YQ=="
+secured: "JpHBDduXEr0z+a5erMIVTKoaSsEdO6jNbSao/hiE4k1nQ0AynsUiMGEsC6XZXgWk/LQ+vIHVvoztb9PiaOhMYCAhI+v8Etn9Por3ajU4hdE9mbgX686eRzUHDOZDr16STpAlkZqzFw2ScEX61/7N4jkd2Tu/ynZ1F7EOYkPK7bX7T/UA4rgFKYSegC/XL2zdQ6mJOC62762P1C6NChFZ5TrimqBcZ8ZkARJEL11/Ijfqw6o/D5dJ8OqLbi4tWVwg690jPVr3zMlmuRgBCmGV+1Ls3DCuHAZWqywqBJlZ0KWB3hygFioqqm08NRSVP1IPbbuu1BR1InYpeIUkZoyFLYoaAR9XJEYNCwfWw2ScOZw=;Dq85VyElvpfTt4FDb9HPKA=="
 ---
 

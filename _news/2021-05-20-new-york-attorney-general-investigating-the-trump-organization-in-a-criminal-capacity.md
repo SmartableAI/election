@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-organization-criminal-investi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/"
 type: article
 quality: 117
-heat: 237
+heat: 257
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.insider.com/60a5e132f27b4c001944582e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
+    excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."
+    publishedDateTime: 2021-05-23T16:53:00Z
+    webUrl: "https://www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366"
+    ampWebUrl: "https://www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
+        width: 1024
+        height: 731
         isCached: true
   - title: "Trump Organization Faces Criminal Probe In New York State"
     excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."

@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden tries to claim credit for cease-fire between Israel and Hamas"
-excerpt: "As Israel and Hamas agreed to ceasefire after 11 days of fighting, President Biden vowed to help Israel replenish its Iron Dome system and to work with the Palestinian Authority to rebuild Gaza."
-publishedDateTime: 2021-05-20T23:49:10Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/km75sX5cpHU/biden-israel-replenish-iron-dome-limit-hamas-rocket"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/km75sX5cpHU/biden-israel-replenish-iron-dome-limit-hamas-rocket"
-ampWebUrl: "https://www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp"
+title: "Biden administration stresses need for 'equal' peace between Israel, Palestinians"
+excerpt: "Secretary of State Antony Blinken has stressed the Biden administration’s focus on an \"equal peace\" between Israel and the Palestinian people after the most recent bloody conflict in the region."
+publishedDateTime: 2021-05-23T16:10:34Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ai2ogpC3NSQ/biden-blinken-israel-palestinians-equal-peace"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ai2ogpC3NSQ/biden-blinken-israel-palestinians-equal-peace"
+ampWebUrl: "https://www.foxnews.com/politics/biden-blinken-israel-palestinians-equal-peace.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blinken-israel-palestinians-equal-peace.amp"
 type: article
-quality: 175
-heat: 395
-published: true
+quality: 170
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc6d2359-50d5-4e84-aa4c-65ce04c230a1/680d6431-b135-4af6-8c52-6631c7868a31/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14db349b-2c58-4be8-8dfc-da8515b9b5ed/292e14a5-459b-4cc3-b08f-2b2950247a6c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
 
 related:
+  - title: "Biden tries to claim credit for cease-fire between Israel and Hamas"
+    excerpt: "As Israel and Hamas agreed to ceasefire after 11 days of fighting, President Biden vowed to help Israel replenish its Iron Dome system and to work with the Palestinian Authority to rebuild Gaza."
+    publishedDateTime: 2021-05-20T23:49:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/km75sX5cpHU/biden-israel-replenish-iron-dome-limit-hamas-rocket"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc6d2359-50d5-4e84-aa4c-65ce04c230a1/680d6431-b135-4af6-8c52-6631c7868a31/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden admin's mixed messages on fuel pipelines are as muddled as mask mandates"
     excerpt: "Biden administration officials have sported blatant hypocrisy between prioritizing the Colonial Pipeline over the Keystone and their quick change of heart on coronavirus masking."
     publishedDateTime: 2021-05-18T10:12:10Z
@@ -44,22 +60,6 @@ related:
     quality: 171
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e650873-a2f8-4a79-9700-b2a47fedc70f/56f7d7e0-f556-4494-b172-23b97bef386e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden administration stresses need for 'equal' peace between Israel, Palestinians"
-    excerpt: "Secretary of State Antony Blinken has stressed the Biden administration’s focus on an \"equal peace\" between Israel and the Palestinian people after the most recent bloody conflict in the region."
-    publishedDateTime: 2021-05-23T16:10:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ai2ogpC3NSQ/biden-blinken-israel-palestinians-equal-peace"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-blinken-israel-palestinians-equal-peace.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blinken-israel-palestinians-equal-peace.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14db349b-2c58-4be8-8dfc-da8515b9b5ed/292e14a5-459b-4cc3-b08f-2b2950247a6c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -206,6 +206,6 @@ related:
         height: 405
         isCached: true
 
-secured: "Tdu32xTZCyJJ+Sh3TSwXvfQewSLGAiXOKa71YSyNenimpDeXOOwybZMa9OiI70Bxu7vfxvS+jUi94s0xsLpLEvUpejfQXrfVHIjOTySqfaT6hWhqjeCYtb5z24qwTn9Aot7uE3YwgLwDs3M3RSmpCgdc39v3BztFx+DN3ngbblavznuo3d8sQ9iUAmvrgc7m38UZ88iNuR7vXMrKftyYNU86UaWRo3Y4eI4Bvzs7hYAre2eHrefieDpqrgZEqVmTfgFlQhUKRaSn5TT8Uw86C13qu1DIm91+1bCbW7fKDOM4Ms0KU4CDTvolNzJyO3mLo81mbk+M0dEpvezvMUTONr2byGuMwZlIgHjvnY2zMjs=;aqks5GumO8MHlDwWM/7Fsg=="
+secured: "6GtcojEz8l8FUfq4KcAZlrsrIScm1dB/MnJ7MYEDD+Le5j6leHB/GuyFKlCwS/D0g0gEXA91KhEgR/qgu/aXzCMkecGtAoc+3nl2dldO6x68/YFHzYE2ajrwOC9yfAEY219hir98wS/lubR5jcatQMJ6blIUUTw4B3dKeM6ufOgzjfO/tnVIvNRtMgNIdF7MBzzX8aNJ4XPVFzDYEnuEs2yvyNCqV5MJTtcNDsLjhUKKv6tZWotlVgbrmhJYmGApRTkgHuqEKfExGDkYDB7bZOd2M0tMeqzs/TaQEzMjaOoTiD+Z2wPhBl1e6HfogkkzZIXVBDG7Mn8I00yw6HF6f371WYP8rNuN7vnPjYuAw1M=;uqLoUjubLpS6c6bdmQkRhg=="
 ---
 

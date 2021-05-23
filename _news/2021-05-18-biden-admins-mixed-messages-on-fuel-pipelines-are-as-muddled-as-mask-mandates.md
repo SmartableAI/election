@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden administration stresses need for 'equal' peace between Israel, Palestinians"
+    excerpt: "Secretary of State Antony Blinken has stressed the Biden administration’s focus on an \"equal peace\" between Israel and the Palestinian people after the most recent bloody conflict in the region."
+    publishedDateTime: 2021-05-23T16:10:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ai2ogpC3NSQ/biden-blinken-israel-palestinians-equal-peace"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blinken-israel-palestinians-equal-peace.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blinken-israel-palestinians-equal-peace.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14db349b-2c58-4be8-8dfc-da8515b9b5ed/292e14a5-459b-4cc3-b08f-2b2950247a6c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden White House must expedite weapons to Israel, top foreign policy Republicans say"
     excerpt: "FIRST ON FOX: The top Republicans on the Senate and House foreign policy committees are urging President Biden to expedite the planned weapons sales to Israel despite opposition from some Democrats concerned about further arming Israel amid the deadly Gaza conflict."
     publishedDateTime: 2021-05-20T20:46:16Z
