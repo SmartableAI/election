@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-22-biden-administration-grants-temporary-protected-status-to-haitian-immigrants-living-in-us.md",
-      "title": "Biden administration grants temporary protected status to Haitian immigrants living in US",
-      "excerpt": "The Biden administration on Saturday announced it is granting Haitian nationals, who are currently living in the U.S., Temporary Protected Status for an initial 18 months amid ongoing security concerns and human rights abuses in the country.",
+      "path": "_news/2021-05-23-gop-states-ramp-up-legal-battles-against-bidens-immigration-policies.md",
+      "title": "GOP states ramp up legal battles against Biden's immigration policies",
+      "excerpt": "As the Biden administration has been working rapidly to undo key Trump-era border and immigration policies and replace them with more liberal policies, Republican state attorneys general have been working just as hard to push back against what they see as illegal actions that could hurt Americans and",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E_fQMz-AYAI/biden-temporary-protected-status-to-haitian-immigrants-living-in-us",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E_fQMz-AYAI/biden-temporary-protected-status-to-haitian-immigrants-living-in-us",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7pWGKZSmD_Q/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7pWGKZSmD_Q/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 166,
+      "heat": 375,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abb0245a-21bc-4c52-9de8-1336e02ec81c/ad3a8f45-5e89-4b2e-83df-ddb929cc03e6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-temporary-protected-status-to-haitian-immigrants-living-in-us.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-temporary-protected-status-to-haitian-immigrants-living-in-us.amp",
-      "publishedDateTime": "2021-05-22T15:00:36-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies.amp",
+      "publishedDateTime": "2021-05-22T19:32:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -106,62 +106,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-22-gop-senators-probe-close-coordination-between-biden-administration-teachers-unions-on-school-reopenings.md",
-      "title": "GOP senators probe 'close coordination' between Biden administration, teachers unions on school reopenings",
-      "excerpt": "A group of GOP senators is demanding answers from the Biden administration on how powerful teachers unions may have influenced school reopening guidelines as coronavirus cases declined. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aps9-RdvUM0/gop-senators-probe-biden-teachers-unions-school-reopenings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aps9-RdvUM0/gop-senators-probe-biden-teachers-unions-school-reopenings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-senators-probe-biden-teachers-unions-school-reopenings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-probe-biden-teachers-unions-school-reopenings.amp",
-      "publishedDateTime": "2021-05-22T09:13:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-22-biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder.md",
       "title": "Biden plans to meet with George Floyd's family on anniversary of his murder",
       "excerpt": "President Biden plans to host the family of George Floyd at the White House on Tuesday.",
@@ -218,23 +162,23 @@
       ]
     },
     {
-      "path": "_news/2021-05-22-jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.md",
-      "title": "Jill Biden, Kamala Harris share hug after reports of first lady's F-bomb toward VP",
-      "excerpt": "Bygones appeared to be bygones at the White House Friday, with first lady Jill Biden getting chummy with Vice President Kamala Harris — days after a forthcoming book revealed Biden said Harris should “go f–k” herself for attacking her husband during the Democratic primaries.",
+      "path": "_news/2021-05-22-vp-kamala-harris-holds-unusual-bilateral-meeting-with-a-foreign-leader-at-the-white-house.md",
+      "title": "VP Kamala Harris holds unusual bilateral meeting with a foreign leader at the White House",
+      "excerpt": "Vice President Harris met with South Korean President Moon Jae-in Friday, without the participation of President Biden, and then the two appeared together to make a statement. A bilateral meeting at the White House between a U.S. vice president and a visiting head of state followed by a joint appearance",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ItHN2J7x6U/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ItHN2J7x6U/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sjfy1LMs9xw/harris-holds-unusual-solo-bilateral-meeting-with-president",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sjfy1LMs9xw/harris-holds-unusual-solo-bilateral-meeting-with-president",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 474,
+      "heat": 236,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48f7d31-128d-48ec-aca5-6fdc9d09c814/3d14acbf-614a-47fe-8bce-546e449638e4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -244,9 +188,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp",
-      "publishedDateTime": "2021-05-22T00:26:02-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp",
+      "publishedDateTime": "2021-05-21T19:14:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -287,7 +231,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 187,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -616,7 +560,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 164,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -672,7 +616,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 208,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -1322,7 +1266,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 233,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -1612,6 +1556,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/us-military-intercepts-small-aircraft-restricted-airspace-biden-home.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-military-intercepts-small-aircraft-restricted-airspace-biden-home.amp",
       "publishedDateTime": "2021-05-17T19:01:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-georgia-gop-lt-gov-duncan-a-trump-critic-wont-run-for-reelection-in-2022.md",
+      "title": "Georgia GOP Lt. Gov. Duncan, a Trump critic, won’t run for reelection in 2022",
+      "excerpt": "Republican Lt. Gov. Geoff Duncan of Georgia, a vocal critic of former President Trump, on Monday announced that he won’t seek a second term in office in next year’s elections.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TtQyWEd3UYo/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TtQyWEd3UYo/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 347,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp",
+      "publishedDateTime": "2021-05-17T12:57:33-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

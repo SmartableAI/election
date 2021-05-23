@@ -26,19 +26,19 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Biden nominee made millions at NCAA while arguing against paying players"
-    excerpt: "President Biden’s nominee for deputy secretary of the Department of Veterans Affairs (VA) made nearly millions at the National Collegiate Athletic Association (NCAA) while arguing against paying college athletes."
-    publishedDateTime: 2021-05-17T21:57:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4hiRwkxFz4/biden-nominee-ncaa-pay-college-athletes"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-ncaa-pay-college-athletes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-ncaa-pay-college-athletes.amp"
+  - title: "3 House Dems blamed pandemic for needing proxy votes, but were touring Ford plant with Biden"
+    excerpt: "Reps. Haley Stevens, D-Mich.; Elissa Slotkin, D-Mich.; and Dan Kildee, D-Mich., each signed a document granting their vote by proxy to one of their Democratic colleagues in the House for the vote series on May 18, 2021."
+    publishedDateTime: 2021-05-20T23:20:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/byjouMr1e5A/michigan-biden-ford-democrats-proxy-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0916bb05-88a2-4f06-af1b-c0914f4a8a81/4ab6e42b-1bf2-4e13-a08a-5403da397d36/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/845d93bd-52f0-4fea-806c-d73e5ee436fd/49d98b3d-5858-46f1-8857-6bfa64eaa673/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

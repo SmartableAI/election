@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/michigan-biden-ford-democrats-proxy
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp"
 type: article
 quality: 164
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Joe Biden needs three things from South Korean President Moon"
+    excerpt: "President Joe Biden will sit down with South Korean President Moon Jae-in Friday amid relative calm on the Korean Peninsula. But their first meeting arrives with questions about Korea's willingness to play a stronger deterrent role against China."
+    publishedDateTime: 2021-05-20T13:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-"
+    ampWebUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "L1XDjUKkbdjKN+XH7laxNJ6haoRQu4IIi0+YJEig1HBDx2f2Gj/YyAdfR2JieDA97xD0kZfc7+5TtB7WIH+KvzsSi5ZhgXbrvcbWA2TqUMahxTVZNpuSRF61jJtEJbae6POIBu+wL660KFne61oNdNIiXjRNKp4yvLKeJ11LpeCqEe33EfVPhCYNkdE5fJJlKZx3Vw8tGWd1lin+7vJal1JL4o6KgdIF9cRWQ04wvRLzI1jjddTL6OvxV28d6odecdlAi9uOtg8fLxQTQesqwpoAxKmzLaFskCPs11BTleF2DY1KnAHIIsKXZ2ELADS9xpvrGo9eOoGha/2p1/Wk+Z8Ns/Z09jv6yasq4QS6QCs=;j2UNuv4pMcs7hiC2lBJZyg=="
 ---

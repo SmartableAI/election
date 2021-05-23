@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-hate-can-be-given-no-saf
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp"
 type: article
 quality: 168
-heat: 208
+heat: 188
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "House Republicans reveal answer to Biden's budget, say it could eliminate deficit in 5 years"
-    excerpt: "House Republicans on Wednesday are unveiling their answer to President Biden's 2022 budget, putting forward a document that they say can balance the federal budget in five years while cutting taxes by $1.9 trillion."
-    publishedDateTime: 2021-05-19T10:21:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9TFMd_tdxaw/house-republican-budget-biden-response-deficit"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 144
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/US-Capitol-AP.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "President Biden: \"Every Time We Let Hate Flourish, We Make A Lie Of Who We Are As A Nation\""
     excerpt: "President Biden is set to sign the COVID-19 Hate Crimes Act into law at 2:00 pm on Thursday. President Biden and Vice President Harris will deliver remarks from the East Room at the White House."
     publishedDateTime: 2021-05-21T02:22:00Z

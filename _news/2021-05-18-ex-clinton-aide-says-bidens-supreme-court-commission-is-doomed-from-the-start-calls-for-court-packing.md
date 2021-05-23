@@ -47,36 +47,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden administration drops plan for ICE deportation pause after legal defeat"
-    excerpt: "The Biden administration has dropped its effort to impose a 100-day moratorium on Immigration and Customs Enforcement (ICE) deportations after a legal effort from Texas blocked the Biden campaign promise from taking place -- with the administration saying the time for it to go into effect has now passed."
-    publishedDateTime: 2021-05-21T20:45:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QRJd2qspcvU/biden-administration-drops-ice-deportation-pause-legal-defeat"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-drops-ice-deportation-pause-legal-defeat.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-drops-ice-deportation-pause-legal-defeat.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9310ca8a-d753-4dfe-adbd-1e7942fdb670/2d18d808-1356-46cc-b738-a315b4ce73b6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "How Rep. Jayapal Views the Biden Administration"
-    excerpt: "As Joe Biden laid out a grand vision for his Presidency, in a speech before Congress late last month, cameras caught Representative Pramila Jayapal standing and applauding. Behind her face mask, she later told an aide,"
-    publishedDateTime: 2021-05-21T13:44:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/21/how_rep_jayapal_views_the_biden_administration_543205.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/543854_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "KgDpU7PwMhu8I1rhHaOcqXKUtcjbtpZ42Agb8Mpd1wg8Qm57elfnKwh6Uo+aHetGNtMtVrJBicfOHaNRLdpLasLZPwHiUwuZVbLA9PtUsaowQewZYq9an0JtuW8tcntl0czgm1iPxjFYP5zZCtgBzbtTiNlG6SfckZk9c8MQtx0PsJA+Tlc4uLsak7P8GZ4jQHkAkwJOi/AC534MxC6uzIZrVTCMoc5U/l/hbZKnc8oMkui8UnbHtrTbTzpp05V6tKSIdmY+7PzFpn5oBvOoWm8N2aQn7ZKAJCGXpPRFJzMzGOcuPTz5Yd0P+h4qLeeQYZ40yPGa9h3Bc/EEFakjAZgS2Jz5QdqxCIUCF/hCaZk=;5WnMCDV00y9DayZkKzeNiQ=="
 ---

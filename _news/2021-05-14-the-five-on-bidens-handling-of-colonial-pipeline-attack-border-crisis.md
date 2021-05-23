@@ -584,6 +584,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "4 Years of Mideast Peace Shattered in Biden's First 4 Months"
+    excerpt: "It has taken the Democrats all of four months in power to screw up the Middle East, and the good guys in the region are not pleased or inclined to play along. Read Full Article »"
+    publishedDateTime: 2021-05-15T12:47:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/15/4_years_of_mideast_peace_shattered_in_bidens_first_4_months_542830.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543212_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Infrastructure is Biden's best, perhaps only, shot at a big bipartisan deal"
     excerpt: "Infrastructure may be President Joe Biden’s last, best chance to strike a major bipartisan deal this term. Some liberals think he would be a fool to take it."
     publishedDateTime: 2021-05-14T14:00:00Z

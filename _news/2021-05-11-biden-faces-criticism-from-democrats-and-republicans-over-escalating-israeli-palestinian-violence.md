@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "State AGs ask Biden to withdraw education proposals supporting 1619 Project, critical race theory"
-    excerpt: "A coalition of 20 state attorneys general called Wednesday for the Biden administration to withdraw education proposals that, they argue, are meant to promote critical race theory and the New York Times’ “1619 Project” in classrooms."
-    publishedDateTime: 2021-05-20T01:32:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P926zVX0blg/state-ags-biden-education-proposals-1619-project-critical-race-theory"
-    ampWebUrl: "https://www.foxnews.com/politics/state-ags-biden-education-proposals-1619-project-critical-race-theory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-ags-biden-education-proposals-1619-project-critical-race-theory.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aad779fa-f3ed-4192-aeab-68221299c6c2/f4f5306b-320d-4f34-a7fd-b2edef0b6672/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "dlirTi3oott6GL8yV0kxrfT9XN9qDAuDlp3NLXhfWf7KH0NBn+hgbF2AHoNEUqVLHJkVHP7svhzV0+2pWkpYRNyuxFzjzWZhc2t1cpAq6RVefQ1Obtn+ntyKj6rEH6TTj4GUq02GjI3ZsKUCra3HuX59TptUHgS5Xpn3ag6Y2n38pzjGg4kaySOxR8n9oGMDAXZCZqfnQ0t322eAmJhfhuI7YkF1WR7k+ikBrKXZoeuZYf4+LPhtLZo43rVvnkfvOKKVKsSb2Q3N6EWebxPw6I4JKY2hjnSX5HpHHYmPvLS9/hsq/Q+bFj7VSi/Chp5ussVNpkbgolTEe1lUpzPGRGfnO+u1iQU8gF6YSAifnOQ=;mRaJPw+myml9vpxfNpakHw=="
 ---

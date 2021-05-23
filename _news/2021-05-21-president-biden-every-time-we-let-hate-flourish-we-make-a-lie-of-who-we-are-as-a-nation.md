@@ -44,20 +44,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "House Republicans reveal answer to Biden's budget, say it could eliminate deficit in 5 years"
-    excerpt: "House Republicans on Wednesday are unveiling their answer to President Biden's 2022 budget, putting forward a document that they say can balance the federal budget in five years while cutting taxes by $1.9 trillion."
-    publishedDateTime: 2021-05-19T10:21:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9TFMd_tdxaw/house-republican-budget-biden-response-deficit"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 144
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/US-Capitol-AP.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "/bOQ8entpLoijsahDMtlCNvqshooaJ2M+3W0EPG+11DTxKS71A3jaRypd9t89L5bCJ+Mq7W87+zCISpCkKAxfHfUKoyFLQu3b0Q1Dea6qp5ofItK9uoVQViW5y7co12rUoC57bAj1mOqMcIxMWc21TaDbc0bZqNrTx0YUkeq90CYtoF95p5ef+iCq8RGFqTFaNu0VMgjBlpG2ALvurt74EVloxkSpOww7tXgRlDTAUAraUk9raXIvTDhMK74+vl8gUP6rGpM77pstPo7zBHslcMjGyNY9Km3MlglcJeuwkcgk0Il9cbKA5GhNON+ZDgAgX1n22ppyqY/fkBE5+guItn0CnXELBa0NbLPtCFVoJIUKfu2VEyMwLcDn/tSCXtlb41YKYGIOQyriRQQvbuvYaO/H/rF+6e0+5+ZwZQnfMMS0UMtCpkbLwCBPxaP56ZVb8RwuBJMVkBrvKi+hRAq5hE41RaorgIpaAXTxUyh/93PqcA8Y111DM7XRlmGCQ54mS09Y6RhlDjy4PiLLuifQg==;0KAdwzQhgngV0yHm9zTRUQ=="
 ---

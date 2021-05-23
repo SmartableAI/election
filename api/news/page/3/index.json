@@ -2,62 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-05-19-trump-spends-post-presidency-allowance-on-high-priced-aides-as-he-builds-out-political-machine.md",
-      "title": "Trump spends post-presidency allowance on high priced aides as he builds out political machine",
-      "excerpt": "Former President Donald Trump has spent his first five months away from Washington surrounded by a generously paid group of staffers, at least one of whom received a $32,000 raise over their White House salary, according to Freedom of Information Act records obtained by CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1-D08NTqGbs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1-D08NTqGbs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210113091858-centered-01-donald-trump-0112-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/19/politics/trump-post-presidency-allowance/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/trump-post-presidency-allowance/index.html",
-      "publishedDateTime": "2021-05-19T04:39:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-19-new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.md",
       "title": "New York AG’s office says Trump Organization probe now ‘criminal’ investigation",
       "excerpt": "The office of New York state Attorney General Letitia James issued a statement to Fox News on Tuesday night, confirming a change in its investigation of the Trump Organization.",
@@ -561,7 +505,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 233,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -1238,62 +1182,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-17-biden-nominee-made-millions-at-ncaa-while-arguing-against-paying-players.md",
-      "title": "Biden nominee made millions at NCAA while arguing against paying players",
-      "excerpt": "President Biden’s nominee for deputy secretary of the Department of Veterans Affairs (VA) made nearly millions at the National Collegiate Athletic Association (NCAA) while arguing against paying college athletes.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4hiRwkxFz4/biden-nominee-ncaa-pay-college-athletes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4hiRwkxFz4/biden-nominee-ncaa-pay-college-athletes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0916bb05-88a2-4f06-af1b-c0914f4a8a81/4ab6e42b-1bf2-4e13-a08a-5403da397d36/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominee-ncaa-pay-college-athletes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-ncaa-pay-college-athletes.amp",
-      "publishedDateTime": "2021-05-17T14:57:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-18-trump-house-democrats-near-agreement-on-deutsche-bank-subpoenas.md",
       "title": "Trump, House Democrats near agreement on Deutsche Bank subpoenas",
       "excerpt": "Former President Donald Trump and Democrats in the U.S. House of Representatives said on Monday they are near an agreement to resolve disputes concerning congressional subpoenas of his financial records from Deutsche Bank AG.",
@@ -1343,6 +1231,114 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-georgia-gop-lt-gov-duncan-a-trump-critic-wont-run-for-reelection-in-2022.md",
+      "title": "Georgia GOP Lt. Gov. Duncan, a Trump critic, won’t run for reelection in 2022",
+      "excerpt": "Republican Lt. Gov. Geoff Duncan of Georgia, a vocal critic of former President Trump, on Monday announced that he won’t seek a second term in office in next year’s elections.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TtQyWEd3UYo/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TtQyWEd3UYo/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 347,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp",
+      "publishedDateTime": "2021-05-17T12:57:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-biden-to-working-families-help-is-here.md",
+      "title": "Biden to working families: 'Help is here'",
+      "excerpt": "President Joe Biden says a new child tax credit “sends a clear and powerful message to American workers, working families with children: Help is here.\" 39 million families are set to receive monthly child payments beginning in July.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/05/17/biden-working-families-help-here/5134671001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/05/17/biden-working-families-help-here/5134671001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/7c75be8c-dca6-41d7-ac4b-b80419371f8e_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],
