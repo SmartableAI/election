@@ -145,7 +145,7 @@ related:
         isCached: true
   - title: "Lawmakers see promise in police reform negotiations as Biden plans meeting with George Floyd's family"
     excerpt: "President Joe Biden will mark the solemn anniversary of George Floyd's death this week by hosting Floyd's family at the White House, giving the President a fresh chance to pressure lawmakers on Capitol Hill to reach an agreement on police reform legislation.\n    \n"
-    publishedDateTime: 2021-05-23T04:01:35Z
+    publishedDateTime: 2021-05-23T15:24:25Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xZjJQSr2Mqc/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/05/23/politics/joe-biden-george-floyd-police-reform/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/joe-biden-george-floyd-police-reform/index.html"

@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-23-white-house-attests-rise-in-hate-despite-biden-pitch-as-unity-president.md",
+      "title": "White House attests 'rise in hate' despite Biden pitch as 'unity' president",
+      "excerpt": "A senior White House adviser on Sunday acknowledged a \"rise in hate\" amid increased attacks against Jewish and Asian Americans, despite President Biden's message of “unity\" early in his administration. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fz5uassccds/white-house-hate-crime-jewish-asian-biden-unity-president",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fz5uassccds/white-house-hate-crime-jewish-asian-biden-unity-president",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp",
+      "publishedDateTime": "2021-05-23T12:08:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-biden-keeps-saying-follow-the-science-but-how-often-does-he.md",
+      "title": "Biden keeps saying ‘follow the science,’ but how often does he?",
+      "excerpt": "It’s a line President Biden used on the 2020 presidential campaign trail and has returned to many times, including in nationally televised remarks after taking office and in March to staffers at the Centers for Disease Control and Prevention, particularly when addressing the coronavirus pandemic or climate",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13a2b366-5701-45a7-abcd-a9e8ad9b4c50/ee531cb7-ad01-45f9-a3ad-b5e69ea6dbcf/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp",
+      "publishedDateTime": "2021-05-23T11:24:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-23-biden-adviser-president-will-change-course-in-infrastructure-talks-if-inaction-seems-inevitable.md",
       "title": "Biden adviser: President will 'change course' in infrastructure talks if inaction seems inevitable",
       "excerpt": "White House senior adviser Cedric Richmond said Sunday that President Joe Biden will \"change course\" on his massive infrastructure bill if inaction on the costly proposal seems inevitable.\n    \n",
@@ -239,7 +351,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 375,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1195,115 +1307,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/politics/trump-secret-service-charges/2021/05/20/d328eb5c-9d36-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-secret-service-charges/2021/05/20/d328eb5c-9d36-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp",
       "publishedDateTime": "2021-05-21T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-jimmy-kimmel-believes-trump-would-flip-on-his-own-children.md",
-      "title": "Jimmy Kimmel Believes Trump Would Flip on His Own Children",
-      "excerpt": "Kimmel agreed with Michael Cohen, the former president’s longtime personal lawyer, who said in an interview that Trump would turn on anyone to save himself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/21/arts/21latenight/21latenight-facebookJumbo.png",
-          "width": 909,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.amp.html",
-      "publishedDateTime": "2021-05-20T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-trump-justice-dept-secretly-obtained-cnn-correspondents-phone-email-records.md",
-      "title": "Trump Justice Dept. secretly obtained CNN correspondent’s phone, email records",
-      "excerpt": "The revelation underscores how the previous administration was willing to seek journalists’ data to investigate unwanted disclosures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LQQAWZW3RAI6RNZSHRZMX4JR6I.jpg&w=1440",
-          "width": 1440,
-          "height": 890,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-20T21:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

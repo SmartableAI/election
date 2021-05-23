@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden says ‘hate can be given no safe harbor’ as he signs anti-Asian hate crimes bill"
-excerpt: "President Biden on Thursday signed into law a bipartisan bill that would speed the review of hate crimes and make it easier to aid in their reporting."
-publishedDateTime: 2021-05-20T22:07:37Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgkMhieKPXs/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgkMhieKPXs/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill"
-ampWebUrl: "https://www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp"
+title: "White House attests 'rise in hate' despite Biden pitch as 'unity' president"
+excerpt: "A senior White House adviser on Sunday acknowledged a \"rise in hate\" amid increased attacks against Jewish and Asian Americans, despite President Biden's message of “unity\" early in his administration. "
+publishedDateTime: 2021-05-23T19:08:14Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fz5uassccds/white-house-hate-crime-jewish-asian-biden-unity-president"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fz5uassccds/white-house-hate-crime-jewish-asian-biden-unity-president"
+ampWebUrl: "https://www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp"
 type: article
-quality: 168
-heat: -1
-published: false
+quality: 173
+heat: 233
+published: true
 
 provider:
   name: Fox News
@@ -25,25 +25,25 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
     width: 340
     height: 340
     isCached: true
 
 related:
-  - title: "White House attests 'rise in hate' despite Biden pitch as 'unity' president"
-    excerpt: "A senior White House adviser on Sunday acknowledged a \"rise in hate\" amid increased attacks against Jewish and Asian Americans, despite President Biden's message of “unity\" early in his administration. "
-    publishedDateTime: 2021-05-23T19:08:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fz5uassccds/white-house-hate-crime-jewish-asian-biden-unity-president"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp"
+  - title: "Biden says ‘hate can be given no safe harbor’ as he signs anti-Asian hate crimes bill"
+    excerpt: "President Biden on Thursday signed into law a bipartisan bill that would speed the review of hate crimes and make it easier to aid in their reporting."
+    publishedDateTime: 2021-05-20T22:07:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgkMhieKPXs/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -75,6 +75,6 @@ related:
       domain: washingtonexaminer.com
     quality: 65
 
-secured: "wYN7veZ8qYvlSUrMkQY9zx2kXuYRW0yuXHhjS4llM0uvsJggyE7YIuKYB7Sa/LODaMr/6fJNgMk/5sCjPT6rnM56ePZIR8zwl14eeK3fi9zlB5rKf/WcdhazR6aQ6NKxR/5HCqi2BlwxZlRJgsdKsCz3HYL2oymin1UGDInqyOFuxzrprZz2Jq9JZVkZvCaHcu34ltwW3E+kZnfGavS0dbphPP4F7mrmiAfVXATGx6Io4ZZ23gt/neyOvyKJmWj6voKldIMQ9WXmoTWMlAFprdMw0YC5vz78PcwUXYcsD8WSHoP+nmbRaPHgPGGLSo6AbDUg3+Xa0ylttnSDkfQLfTgXyIOiYyVxhs+m/993q8k=;Uw3uSnI082VsIh4zlbmEmg=="
+secured: "RaRO4S3QJ0nIhdjRjf3raIH2ZClu9KeUly5WkWTghWoi+GFKxlme8VRm4AwsmvzbN9tIVG2iKELWweqeTxGeCRvjkHz83v4DdCD+7Ay15dl0MTmkfnSAdoGg9LB0Z28aoxsOCpk31wKV0HGCbWBNzqppVm1SF8Xfgl6kd5/RwSnrBfvB7YwFk10Ao1+mgOf/3hvuupRFlARtRnZrn/TNwdqj6F2Z4XsDr7Cxc9eBddhK37+ad4jjR3+H9bTeK9X8jpaFzXlG2+vDJyMz/c6VxXVLoxjlMvG3IG1UGpnTZZLvh8nfELtnoNb+avCKLTS0C5srpsWqVkAfdoV6Axp91fkGivigzGt0goOnjeJKs4Q=;D/LNh3uWL85EwuBuuH4Zgg=="
 ---
 

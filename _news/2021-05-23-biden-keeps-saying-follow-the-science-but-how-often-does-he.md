@@ -1,47 +1,36 @@
 ---
 category: news
-title: "How Rep. Jayapal Views the Biden Administration"
-excerpt: "As Joe Biden laid out a grand vision for his Presidency, in a speech before Congress late last month, cameras caught Representative Pramila Jayapal standing and applauding. Behind her face mask, she later told an aide,"
-publishedDateTime: 2021-05-21T13:44:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/05/21/how_rep_jayapal_views_the_biden_administration_543205.html"
-webUrl: "https://www.realclearpolitics.com/2021/05/21/how_rep_jayapal_views_the_biden_administration_543205.html"
+title: "Biden keeps saying ‘follow the science,’ but how often does he?"
+excerpt: "It’s a line President Biden used on the 2020 presidential campaign trail and has returned to many times, including in nationally televised remarks after taking office and in March to staffers at the Centers for Disease Control and Prevention, particularly when addressing the coronavirus pandemic or climate"
+publishedDateTime: 2021-05-23T18:24:32Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he"
+ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp"
 type: article
-quality: 65
-heat: -1
-published: false
+quality: 175
+heat: 255
+published: true
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/543854_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13a2b366-5701-45a7-abcd-a9e8ad9b4c50/ee531cb7-ad01-45f9-a3ad-b5e69ea6dbcf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
-  - title: "Biden keeps saying ‘follow the science,’ but how often does he?"
-    excerpt: "It’s a line President Biden used on the 2020 presidential campaign trail and has returned to many times, including in nationally televised remarks after taking office and in March to staffers at the Centers for Disease Control and Prevention, particularly when addressing the coronavirus pandemic or climate"
-    publishedDateTime: 2021-05-23T18:24:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13a2b366-5701-45a7-abcd-a9e8ad9b4c50/ee531cb7-ad01-45f9-a3ad-b5e69ea6dbcf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden nominee made millions at NCAA while arguing against paying players"
     excerpt: "President Biden’s nominee for deputy secretary of the Department of Veterans Affairs (VA) made nearly millions at the National Collegiate Athletic Association (NCAA) while arguing against paying college athletes."
     publishedDateTime: 2021-05-17T21:57:44Z
@@ -90,7 +79,21 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "How Rep. Jayapal Views the Biden Administration"
+    excerpt: "As Joe Biden laid out a grand vision for his Presidency, in a speech before Congress late last month, cameras caught Representative Pramila Jayapal standing and applauding. Behind her face mask, she later told an aide,"
+    publishedDateTime: 2021-05-21T13:44:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/21/how_rep_jayapal_views_the_biden_administration_543205.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543854_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "7sNchu6Vd6+Y8xZY4LcV5Eyb6QoltU82fEq7d0Obb9lSX4t+nCiQ7iabmEEHdO8qUL1//wrY5vfdEKFZg4iq25AUKMYRKK29eCGuQ9Jqg/Lv3XyRBdH3kJwxBGGRIMsXVby8HdwFHVUKCm3QIIkph5Q/yge8mQX5v5+gwVHt9E/TZiUw5M3hr2b0vdc4w/Ov+TFEKjqTegL7nxuh5DBx/t+bCmVlPpirHL8d5Mfs9nLGCmpescqaIamsW1NILx3Gi0oXGA3+TSCFDRV6r5tuma7pdqpknOCm5UHBJFXA+LrCJ3QEnj/GdcVQtHoc5bEUshASS1AuMtoQNuQjcEAqRkWxKoMrzjfe1F8WoZId0EU=;l99DwVmqW5BJ8RnQeLSaOA=="
+secured: "gMG4BB9e9URwdg+KNsuqKTmvwVUlJUW2NGf3AUOI4hOG1KTrgksN+pC/ARvx2QO5OYLcEjpJ3SJ2auQsWaZdJxu9HEfAJzniR0iOJM6ylwGb7XvV7L5vaNDa4PPTTKCiSYXL6LUfe3YDYSVwdPE1UZ0DOFmU0p9ZF3oAJ2QztGfEXscRO9Jbtoy1jQ32Qiv9sE2RLFxIj7z2WpjtWTZAlXTv9DLG+Y8/0M4HzGIwXL1Hjou+bhY984PK0JCJInV/GyrwzUGt1FPcONlUYPC/CUAqU2calcFUnBXPSufPsyO2KpJOJSiITSW2VpmKtu8P58Do9FMtVRhOp0EBkjJcCig/yn/oEmGsJuU12LBo1Kw=;Obt/FMHTelHpvW/v41Ciew=="
 ---
 

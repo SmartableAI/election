@@ -47,6 +47,22 @@ related:
         width: 806
         height: 545
         isCached: true
+  - title: "58% of Americans support President Joe Biden’s multi-trillion dollar bills on jobs, education and families, poll shows"
+    excerpt: "Invest in America, a research group, and Data for Progress, a progressive think tank, surveyed more than 1,200 likely voters in mid-May, with 58% of those polled supporting Biden’s spending plans, even if Democrats must pass them without Republican support."
+    publishedDateTime: 2021-05-23T18:25:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2021/05/58-of-americans-support-president-joe-bidens-multi-trillion-dollar-bills-on-jobs-education-and-families-poll-shows.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2021/05/58-of-americans-support-president-joe-bidens-multi-trillion-dollar-bills-on-jobs-education-and-families-poll-shows.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/05/58-of-americans-support-president-joe-bidens-multi-trillion-dollar-bills-on-jobs-education-and-families-poll-shows.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 51
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BMCKCLT5HFE3DM4KZHVOK4MTCY.jpeg"
+        width: 5448
+        height: 3632
+        isCached: true
 
 secured: "5ejDB+RY2zOEveS8b9hf5tlo33LGkksVEMTpKzT9ixJSFI7t5VSTZwzfCaqNkJe8Utz6NlXfOpzTKuGfuJFIJ3gDxQhm5NdaNldrAt43BiK4asOQyeazVs3XCqlXTt860QKWPCLKjwbRAhhoC5zK953249mwKcn3KDehlNTKj+BnPWcWB+OBlDaky70UUC76uTtjC/XheXYGl6REXpKLVoMd2kHeCNBqUwUeZEv29yOHEMVzXpltI8NAAToN9YWLTeIo2+hfGTFOOHFm7730+uunyRH9W7HoQ1nP61r/sMxsSYTNq3oAsQSc1BCFW07656kYJsiYmPSDKsONEgwWWGsy4+3qA3UAXOuY8m6/kiuYDq8hNxzCE+7p/WqWwTEis6C2SQ6I481+tuUM4Iz0wsMRex9GBea8TyBwE/0IgI6kL4ae8VoKqZr10gtYh9XKegfcQ7skwg9RrIL70uZ/mec7ONqSDYsTQBQgR8klfHqnD+q8UCAqwXvSI72GZ5OPsP4MwRPVT+JRGRulfb/PhQ==;BhXUJ7IPya9rWLNFL+bXKA=="
 ---

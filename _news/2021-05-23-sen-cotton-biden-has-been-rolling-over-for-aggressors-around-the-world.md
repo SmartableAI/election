@@ -1,28 +1,33 @@
 ---
 category: news
-title: "How Rep. Jayapal Views the Biden Administration"
-excerpt: "As Joe Biden laid out a grand vision for his Presidency, in a speech before Congress late last month, cameras caught Representative Pramila Jayapal standing and applauding. Behind her face mask, she later told an aide,"
-publishedDateTime: 2021-05-21T13:44:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/05/21/how_rep_jayapal_views_the_biden_administration_543205.html"
-webUrl: "https://www.realclearpolitics.com/2021/05/21/how_rep_jayapal_views_the_biden_administration_543205.html"
+title: "Sen. Cotton: Biden has been 'rolling over for aggressors around the world'"
+excerpt: "Sen. Tom Cotton, R-Ark., argued during an exclusive interview with \"Sunday Morning Futures\" that President Biden has been “rolling over for aggressors around the world,” including China, Russia and Iran, adding that recently the president “seemed to draw moral equivalence between Israel and Hamas when"
+publishedDateTime: 2021-05-23T19:33:56Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gRfrqjG4MkI/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gRfrqjG4MkI/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world"
+ampWebUrl: "https://www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
 type: article
-quality: 65
+quality: 173
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/543854_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -58,22 +63,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Sen. Cotton: Biden has been 'rolling over for aggressors around the world'"
-    excerpt: "Sen. Tom Cotton, R-Ark., argued during an exclusive interview with \"Sunday Morning Futures\" that President Biden has been “rolling over for aggressors around the world,” including China, Russia and Iran, adding that recently the president “seemed to draw moral equivalence between Israel and Hamas when"
-    publishedDateTime: 2021-05-23T19:33:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gRfrqjG4MkI/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Ex-Clinton aide says Biden's Supreme Court commission is 'doomed from the start,' calls for court packing"
     excerpt: "A former aide to failed presidential candidate Hillary Clinton called for packing the Supreme Court and said President Biden’s commission to explore that possibility is \"doomed from the start.\""
     publishedDateTime: 2021-05-18T16:37:11Z
@@ -90,7 +79,21 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "How Rep. Jayapal Views the Biden Administration"
+    excerpt: "As Joe Biden laid out a grand vision for his Presidency, in a speech before Congress late last month, cameras caught Representative Pramila Jayapal standing and applauding. Behind her face mask, she later told an aide,"
+    publishedDateTime: 2021-05-21T13:44:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/21/how_rep_jayapal_views_the_biden_administration_543205.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543854_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "7sNchu6Vd6+Y8xZY4LcV5Eyb6QoltU82fEq7d0Obb9lSX4t+nCiQ7iabmEEHdO8qUL1//wrY5vfdEKFZg4iq25AUKMYRKK29eCGuQ9Jqg/Lv3XyRBdH3kJwxBGGRIMsXVby8HdwFHVUKCm3QIIkph5Q/yge8mQX5v5+gwVHt9E/TZiUw5M3hr2b0vdc4w/Ov+TFEKjqTegL7nxuh5DBx/t+bCmVlPpirHL8d5Mfs9nLGCmpescqaIamsW1NILx3Gi0oXGA3+TSCFDRV6r5tuma7pdqpknOCm5UHBJFXA+LrCJ3QEnj/GdcVQtHoc5bEUshASS1AuMtoQNuQjcEAqRkWxKoMrzjfe1F8WoZId0EU=;l99DwVmqW5BJ8RnQeLSaOA=="
+secured: "hXNgUL1TVg112GNCYD+Wox+ydwtrl40N/DpLOtwwIVjpfLmfP2BhFIlLP2MxZOwnddjuMdrjFtFzW/z3uybGyIoYd1LkIbPRQKc7ovmQjIZcN/lcNAFe6RGPW+HEJrzy79P/L02C93gY8PwRW4Y4MCh3O1vmkDDPSzrewBBuUf629GnwTHe4uJ8qnQsFvtVDWSphIpbA42aJwg23OF1iUsAAMDLvm8oajmU0TJY9kzc40yLqmiQuqwa68DRizmF9S1sxR74Alwr4W74vK1TWeRzmktSGnt4Q5fCPXWy+FyDWl/sXvIkSumfbywHjmxPaBaCEkoVmvzlJliHaxUKWV93qHUYRv2MdVWigrDkNYsU=;dTckWJL5LX+tG27dAxsF+g=="
 ---
 
