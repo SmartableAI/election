@@ -383,22 +383,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "What we know about investigations looming over Donald Trump and Trump Organization"
-    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
-    publishedDateTime: 2021-05-19T20:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "House Republicans elect Trump defender Elise Stefanik to No. 3 post after ousting Liz Cheney"
     excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership Friday, electing an ardent Donald Trump defender in hopes of calming their searing civil war."
     publishedDateTime: 2021-05-14T13:35:00Z
@@ -624,6 +608,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/f35/da9/4d9af2aaaa4dda4e39377459781b009477-trump.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "What we know about investigations looming over Donald Trump and Trump Organization"
+    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
+    publishedDateTime: 2021-05-20T12:50:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5164284001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5164284001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Murphy Gliding in NJ's Primary; GOP Wrestling With Trump"
     excerpt: "New Jersey Republicans will decide whether they want an outspoken Donald Trump supporter to be their standard bearer in the fall election for governor, while Democratic incumbent Gov. Phil Murphy is on an easy path toward capturing his party’s nomination."

@@ -2,23 +2,19 @@
 category: news
 title: "What we know about investigations looming over Donald Trump and Trump Organization"
 excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
-publishedDateTime: 2021-05-19T20:00:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
+publishedDateTime: 2021-05-20T12:50:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
+webUrl: "https://www.indystar.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
+ampWebUrl: "https://amp.indystar.com/amp/5164284001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5164284001"
 type: article
-quality: 119
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -739,6 +735,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "66JhfpDCESM6ro39CPATP7p6iNH7ais3wINSZNLPNfM1VSWcUDURovP3ZX2bLcVSfdFMjOYwjLJcioKqUlVkMYqHK1MC9LRP8+8UJRTuKh0QRtRyeB8OAiVvzx/nlj0ed1wQvFcBEP/iKpPthxrUUtCNi29N2+Iz65wTGaBR8YnxuUDdki6cvbm2HtzzyCvrlZ5rV6sKU3umh0HJBT8BftoTutBmp2gOatyX1I7qUYS9qXJnyClEvpYIn8TWjzFMy4OjFeuMkWYDbYjLrXZX1g1W/3aG7AVhr6ZxwpMEjQF5F/zCn0XypSryuJL5++gzZbeohLwFDXLA8KHKT6rqIJmmXEUgOP0Ljfims7T9tcagPr2o3mBYxY/Z6wX5aBh1XK1iypozXk/b0mbSybOcDRS5TTVRY4zCcv+JMoKDgF6mqHUJVS2FfXTcLHn6HEeThY9HYD4DeBVXTnf87JPxToOI7mH2/Rc7q+nRCVayHduyL/oUkaWWloOlFAabIRTvgQDTEdzr+J16u83biXpRcQ==;zQjrIm9TJAchNrdVeNrUVw=="
+secured: "hbwouh6aO0AioHneRnDZiR4y/pwhrMes4s13Lha/mAeyBEqgHLiGPAtCAw3Bxn6gmGagB9U3sbDyWSJSn8Rjz7MLqPsEwO4xji+DvR/Q3RyRevmNO7UquBpLX4vOr42VKX3y+VcI0JhLbGn07ZgliQk/yHHM0gBl/M4Ph3lzXloVm1J4blIqLVKaSjwJsq6rmjaRoEmH3QwMvVcazanQ4jBQ9UuQ0G9BbpmxymAVo6XX70Wp1vGn3hJR2WAyEGD8CajwNmkKJKQqr/Urj2LoT3lm0AIGpDVuR3fcByzf2C2vIAZEGrTIVv+bxmk3w3I+rj89ujRSu7o0DfxPGGlWahTmWzfYHeJQ1dVhQAJx7ks=;WCI9kH7wN0gehneJuLjvXw=="
 ---
 

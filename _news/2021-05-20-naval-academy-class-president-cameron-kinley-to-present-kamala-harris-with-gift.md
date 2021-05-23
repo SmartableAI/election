@@ -3,23 +3,23 @@ category: news
 title: "Naval Academy class president Cameron Kinley to present Kamala Harris with gift"
 excerpt: "Midshipman 1st Class Cameron Kinley, who was also the captain for the academy’s football team will present the award, according to a press release from Kinley’s agent."
 publishedDateTime: 2021-05-19T23:42:00Z
-originalUrl: "https://www.baltimoresun.com/education/ac-cn-cameron-kinley-naval-academy-20210519-5hznxd4qszax5gst2a6trzrpxe-story.html"
-webUrl: "https://www.baltimoresun.com/education/ac-cn-cameron-kinley-naval-academy-20210519-5hznxd4qszax5gst2a6trzrpxe-story.html"
+originalUrl: "https://www.capitalgazette.com/education/naval-academy/ac-cn-cameron-kinley-naval-academy-20210519-5hznxd4qszax5gst2a6trzrpxe-story.html"
+webUrl: "https://www.capitalgazette.com/education/naval-academy/ac-cn-cameron-kinley-naval-academy-20210519-5hznxd4qszax5gst2a6trzrpxe-story.html"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Capital Gazette
+  domain: capitalgazette.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/hhQGTEcExdA-YJ7LKpjd8iYpBoU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O4NDVYIG222SE7OUTGIA2VTZPY.jpg"
+  - url: "https://www.capitalgazette.com/resizer/hhQGTEcExdA-YJ7LKpjd8iYpBoU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O4NDVYIG222SE7OUTGIA2VTZPY.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -345,6 +345,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "4msVC7U87lSKuB/4bcE8B69Nt+FrYVC6ckD591KJ5EDc/zWg5NbExl2CbdSyPDUUBUd9IIQyvIlxt5FzlKdDIqxzZp1I8RocGKA9fE1o33kUrUF5xFsbNypLsbG3+JmUOomIIflMmtdw8Wi7g7gctdweG7xtOChCNUemQ3xMjO0keIywAYWaCrGVJU3cBvEGxh5hTc8D8iFbIygtshGU8A/BcB+kSsmojJAA5nIbb81w6SjkaR9iow7EWHAjYqcaqQDRXRXRgCRCaMAKDGujYNPbX2rWw1K3ygV1UHJbsIGlBh2zIWTfICMmHPJONMVV9MWOMrWXW5T64tWKfm+yil2VEYno4Nz9W2i0AWZbQm1+dWYVYOsCEr79qhtuwWCNhXksEbGpSIOr5LsAY+CM+dfkBDZ4Oq2G/kY/75OQ08Ggaua5Azk0X5SxSq0SRwJGExzhq47nrxZ9zI94wFodA7aUUDv+Y3MHIpp5Qbqho580hv5BOt2UVCnZ94CacCIEwkMu6kWGtkXPz+qiBZQ2Eg==;3SQBFqzfSvcSS6k3VrxdVw=="
+secured: "tbRmjLzgygH3pqqn9PSiZXStga2Ce/F9fb+5uAPnJD1JPthWD8AuPn3fvjy2AGofM4MfOnigq6EunV1HOUbn1et2D3OcKkY6gXWJPlbrQL6HA/02Y1b1bEQifFTDBFiohxciIvfpo6pKyc8Rk41i7+BLpn+tz928krfsNOAw8+fbcb+zXTMgg9sPldAr+i8XjrPWGpgCVvZFhzqM3KFH3TwHJkPfs/QYgOXmG+fyFg7rPhSC6EmZnilvZxSJhpRqAKhs8Bu5f1kZWQuvc/0BavNDzCCmdNKWSateYiPiKrDS5Iv2wMSlspLKKB5c6O2dX6nEhXv2QY77LTjGfuQau3gBagP1ERvX+jTSMIKsLXM=;Of6aUUJoao1XdO+qCKr7Yg=="
 ---
 

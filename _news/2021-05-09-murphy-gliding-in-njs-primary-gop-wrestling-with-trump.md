@@ -377,22 +377,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "What we know about investigations looming over Donald Trump and Trump Organization"
-    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
-    publishedDateTime: 2021-05-19T20:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "As Trump seizes on Arizona ballot audit, election officials fear partisan vote counts could be the norm in future elections"
     excerpt: "The GOP-backed recount of Maricopa County’s ballots has been criticized for abandoning state guidelines and allowing the rules to be set by a private contractor who promoted claims that the election was stolen."
     publishedDateTime: 2021-04-29T20:05:00Z
@@ -634,6 +618,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/f35/da9/4d9af2aaaa4dda4e39377459781b009477-trump.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "What we know about investigations looming over Donald Trump and Trump Organization"
+    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
+    publishedDateTime: 2021-05-20T12:50:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5164284001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5164284001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Here's Why Trump Is Calling A Kentucky Derby Horse A 'Junky'"
     excerpt: "Former President Donald Trump compared the Kentucky Derby horse to the \"borders\" and \"fake presidential election.\""
