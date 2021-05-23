@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden administration to close two immigration detention centers that came under scrutiny"
-excerpt: "The Biden administration announced Thursday that it will stop detaining immigrants at two detention centers that came under investigation over allegations of inadequate medical care and poor conditions.\n    \n"
-publishedDateTime: 2021-05-20T16:31:15Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NVOc8d5HcW0/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NVOc8d5HcW0/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/ice-detention-center/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/ice-detention-center/index.html"
+title: "Lawmakers see promise in police reform negotiations as Biden plans meeting with George Floyd's family"
+excerpt: "President Joe Biden will mark the solemn anniversary of George Floyd's death this week by hosting Floyd's family at the White House, giving the President a fresh chance to pressure lawmakers on Capitol Hill to reach an agreement on police reform legislation.\n    \n"
+publishedDateTime: 2021-05-23T04:01:35Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xZjJQSr2Mqc/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xZjJQSr2Mqc/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/23/politics/joe-biden-george-floyd-police-reform/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/joe-biden-george-floyd-police-reform/index.html"
 type: article
-quality: 166
+quality: 160
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520112251-01-briston-corrections-2020-restricted-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504000658-us-capitol-building-0429-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -60,6 +60,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to close two immigration detention centers that came under scrutiny"
+    excerpt: "The Biden administration announced Thursday that it will stop detaining immigrants at two detention centers that came under investigation over allegations of inadequate medical care and poor conditions.\n    \n"
+    publishedDateTime: 2021-05-20T16:31:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NVOc8d5HcW0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/ice-detention-center/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/ice-detention-center/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520112251-01-briston-corrections-2020-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -140,22 +156,6 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Lawmakers see promise in police reform negotiations as Biden plans meeting with George Floyd's family"
-    excerpt: "President Joe Biden will mark the solemn anniversary of George Floyd's death this week by hosting Floyd's family at the White House, giving the President a fresh chance to pressure lawmakers on Capitol Hill to reach an agreement on police reform legislation.\n    \n"
-    publishedDateTime: 2021-05-23T04:01:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xZjJQSr2Mqc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/23/politics/joe-biden-george-floyd-police-reform/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/joe-biden-george-floyd-police-reform/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504000658-us-capitol-building-0429-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -240,6 +240,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "f2pLS7hIEicTNX0ATNoVY/e1T1TeA2JeR5qWFqRQdARckJJR8KisgSsQHgac/sO7Se+x3z8Sh3hkXZSM/WVU4ss4h1D3MDeZDliyiYNdOlGPWwEyAuoXckWa4SkLjyxxfo/lYccX9WpslT/lxnR74Ai/kb9LytGiq+32oWyZXnXC66aEUMMMXPWK3binSqAmtB8Jqvd+HwPm0b3gZld1jmGTDRVD3U+34CE4YCwPQXNqd55Ksp4v95TXn5/rU8PK6Fjg0vsBvezIs3yj2Gct3KzqM0r4fHJnKnZIRgzTw2X2PEZvot6SU6sdsfaIyb7nN06JXYm3f3tDHDsvtflslc7LkJOJgyR1Yxgr0IPpW3g=;7Ng0GnF9OJeKZAYtu4hTJg=="
+secured: "eSkH80YjpT7kk5dmjcO7irvE5YmVRub3ioh4SJ8/fSgtk0BEEeQ2uzBQayIlp1Mc0fMqnqDmTeqISoWkkUbFD2xMErAAO9BmhNiU7+0ZWoN89jf+7LaKKqdVWoHIlw2YKjaZ8F/WIvcuMCZ7F9rpguePjsSik5sTSQA2fBSZYYsvd48DPvUV1eBqu5/2JhzOIkBkpy+8Wj5Jv61wMxnYGxn7KOWo+dIo7+F195v79WKqbOs2UJ25k4FEUscfa/fW0i1jf9mi/hjE5FFmdw03oUOH5TigesP6h0iB0gxm5tjcaV2Iw3xMbSOcRRvT0hrjyMbU0yH8+D2th/+ZzogalWxzokmrbEiD+jPTbxIUOAg=;qsOBeVY7TeqnsOYv6ndF9w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 435
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration grants humanitarian protections to Haitians in the US"
+    excerpt: "The Biden administration on Saturday granted humanitarian protection for Haitians in the United States, allowing an estimated 100,000 people to apply to remain lawfully in the US, according to the Department of Homeland Security and an administration official.\n    \n"
+    publishedDateTime: 2021-05-23T01:04:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1mgZ7EbhPMA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/haitians-humanitarian-protections-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/haitians-humanitarian-protections-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to close two immigration detention centers that came under scrutiny"
     excerpt: "The Biden administration announced Thursday that it will stop detaining immigrants at two detention centers that came under investigation over allegations of inadequate medical care and poor conditions.\n    \n"
     publishedDateTime: 2021-05-20T16:31:15Z
@@ -124,6 +140,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Lawmakers see promise in police reform negotiations as Biden plans meeting with George Floyd's family"
+    excerpt: "President Joe Biden will mark the solemn anniversary of George Floyd's death this week by hosting Floyd's family at the White House, giving the President a fresh chance to pressure lawmakers on Capitol Hill to reach an agreement on police reform legislation.\n    \n"
+    publishedDateTime: 2021-05-23T04:01:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xZjJQSr2Mqc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/23/politics/joe-biden-george-floyd-police-reform/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/joe-biden-george-floyd-police-reform/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504000658-us-capitol-building-0429-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

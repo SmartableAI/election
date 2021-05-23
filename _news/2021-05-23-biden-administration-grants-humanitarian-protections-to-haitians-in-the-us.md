@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden administration to close two immigration detention centers that came under scrutiny"
-excerpt: "The Biden administration announced Thursday that it will stop detaining immigrants at two detention centers that came under investigation over allegations of inadequate medical care and poor conditions.\n    \n"
-publishedDateTime: 2021-05-20T16:31:15Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NVOc8d5HcW0/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NVOc8d5HcW0/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/ice-detention-center/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/ice-detention-center/index.html"
+title: "Biden administration grants humanitarian protections to Haitians in the US"
+excerpt: "The Biden administration on Saturday granted humanitarian protection for Haitians in the United States, allowing an estimated 100,000 people to apply to remain lawfully in the US, according to the Department of Homeland Security and an administration official.\n    \n"
+publishedDateTime: 2021-05-23T01:04:02Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1mgZ7EbhPMA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1mgZ7EbhPMA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/haitians-humanitarian-protections-biden-administration/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/haitians-humanitarian-protections-biden-administration/index.html"
 type: article
-quality: 166
+quality: 173
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520112251-01-briston-corrections-2020-restricted-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration grants humanitarian protections to Haitians in the US"
-    excerpt: "The Biden administration on Saturday granted humanitarian protection for Haitians in the United States, allowing an estimated 100,000 people to apply to remain lawfully in the US, according to the Department of Homeland Security and an administration official.\n    \n"
-    publishedDateTime: 2021-05-23T01:04:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1mgZ7EbhPMA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/haitians-humanitarian-protections-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/haitians-humanitarian-protections-biden-administration/index.html"
+  - title: "Biden administration to close two immigration detention centers that came under scrutiny"
+    excerpt: "The Biden administration announced Thursday that it will stop detaining immigrants at two detention centers that came under investigation over allegations of inadequate medical care and poor conditions.\n    \n"
+    publishedDateTime: 2021-05-20T16:31:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NVOc8d5HcW0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/ice-detention-center/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/ice-detention-center/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520112251-01-briston-corrections-2020-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -240,6 +240,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "f2pLS7hIEicTNX0ATNoVY/e1T1TeA2JeR5qWFqRQdARckJJR8KisgSsQHgac/sO7Se+x3z8Sh3hkXZSM/WVU4ss4h1D3MDeZDliyiYNdOlGPWwEyAuoXckWa4SkLjyxxfo/lYccX9WpslT/lxnR74Ai/kb9LytGiq+32oWyZXnXC66aEUMMMXPWK3binSqAmtB8Jqvd+HwPm0b3gZld1jmGTDRVD3U+34CE4YCwPQXNqd55Ksp4v95TXn5/rU8PK6Fjg0vsBvezIs3yj2Gct3KzqM0r4fHJnKnZIRgzTw2X2PEZvot6SU6sdsfaIyb7nN06JXYm3f3tDHDsvtflslc7LkJOJgyR1Yxgr0IPpW3g=;7Ng0GnF9OJeKZAYtu4hTJg=="
+secured: "fvUBTahZGFgvl6OcoLPoxX1oPNOWhDwLYLDjRc1c3WQmAHDkZUxiOOSg6krO29m86uxeQAYl0OHHfjf98mqoiCOlj9lIEchHOZenTu9VdOjBI7Mz+Hi1xFCXF3Nyo55PBMl253nYsgOoV5RUhii+OHpBNneFu2J33SThKJKp8zbN20AAuWHNRVjYPkJcBCD495Rmh7iJVT6+E3dYggCupxw4tBVjk/WSOZFDTqeslDGVgYbUcxC0BzxvxsqaDsQV+VfLTBanYTSCFCpdNVxQ/nYo1P2UwychREeyNYJ3iiGHahVcwWxvk0jIFxTywy0eo5Sdyl9TLn0jz4GjrmxjC7E5UAOAXI0GcCBu9ioxmz4=;h9h6Z3fUvCRv7c8nTRqvew=="
 ---
 
