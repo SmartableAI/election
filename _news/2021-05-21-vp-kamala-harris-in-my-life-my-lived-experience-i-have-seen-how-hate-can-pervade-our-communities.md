@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris: \"In My Life, My Lived Experience, I Have Seen How Hate Can Pervade Our Communities\""
 excerpt: "Vice President Harris spoke at a signing ceremony for an anti-hate crimes bill Thursday from the White House. \"Those here today are united. This bill brings us one step closer to stopping hate, not only for Asian-Americans,"
 publishedDateTime: 2021-05-20T19:12:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html#!"
 type: article
 quality: 50
 heat: -1
@@ -309,6 +309,6 @@ related:
         height: 500
         isCached: true
 
-secured: "6xltsABWs3vYDw6//H2u148HtcQrBMh4202+Rt7DbdtF5HJzXMiBQXOo7HcSN4LswJDVUxQl2FFTDhDK+dFsCJAy0f4/OvXiYScrvmbdZeTT1gbHCdtWlVEpzy9lG63bgwBQHGP28Hp+8GSFKuVPB5wfX9ulqV5qyhg8bFeTjcmwLIxaYr8UvxhYwdv/4c3Yy50d3eGE5rfBTH40ysb6WcumHluzQltZj7sa4D9E0IkHiaOCS2CHmd7fmi7ofJcjU4wC2/bI+DC/Yfma9n71LjWnXOtfe5nTHpyRV2mwCCVX6pIvFYS8w02qWfdPWl01iCX82OWYYMS+L7ByTt+9fgvPdoInBP++/tuZ+h4kxME=;EHJJNx3Y7j/kzkaiMj3a8A=="
+secured: "tx5mtG57wcYw2T9IJZttVI6X5C283iuwwfyzSsjRg5+ZCOIBNUvnYnZmchbQ2ScricX2n2rD31dNWkJMUyVwhAaGsdGga1h8hA1+VraAFY3+6drk4QsHBEYrunaNdcvxtflX0IWJK1E/tLMunAvjq2M/p6mja+FCy4Lkf/FYz8v1VKYZoTrMltKRCInBnP9cjLwALVTJ2gfRC4IoPVHYDSdcg/CxXdL+auhjnf0KYYp5+j2h+bsrHb9P/FVgdt6Zl+SEoYwWPoPzYmAjlP+M4lQpRoJ2CQZ9X4lpsnA8E0HVY/zLyK17ihsgmZFhYrCVBfdh1VpyIUOK6HA4nxzWlvVIIsa37aXAZaeWAPcURM8=;nYk6tPbL+BKYpZce+6XnrQ=="
 ---
 

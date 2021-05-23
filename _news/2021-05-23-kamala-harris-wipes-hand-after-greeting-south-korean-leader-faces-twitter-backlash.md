@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Jill Biden, Kamala Harris share hug after reports of first lady's F-bomb toward VP"
-excerpt: "Bygones appeared to be bygones at the White House Friday, with first lady Jill Biden getting chummy with Vice President Kamala Harris — days after a forthcoming book revealed Biden said Harris should “go f–k” herself for attacking her husband during the Democratic primaries."
-publishedDateTime: 2021-05-22T07:26:00Z
-originalUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp"
-webUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp"
-ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp"
+title: "Kamala Harris wipes hand after greeting South Korean leader, faces Twitter backlash"
+excerpt: "Many Americans have become more germ-conscious since the start of the coronavirus pandemic last year – but Vice President Kamala Harris may have made her concerns too conspicuous."
+publishedDateTime: 2021-05-23T05:29:46Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J93HpuDVsvk/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J93HpuDVsvk/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
 type: article
-quality: 144
-heat: -1
-published: false
+quality: 179
+heat: 259
+published: true
 
 provider:
   name: Fox News
@@ -22,32 +22,16 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
   - Republican Voice
+  - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
 
 related:
-  - title: "Kamala Harris wipes hand after greeting South Korean leader, faces Twitter backlash"
-    excerpt: "Many Americans have become more germ-conscious since the start of the coronavirus pandemic last year – but Vice President Kamala Harris may have made her concerns too conspicuous."
-    publishedDateTime: 2021-05-23T05:29:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J93HpuDVsvk/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "VP Kamala Harris holds unusual bilateral meeting with a foreign leader at the White House"
     excerpt: "Vice President Harris met with South Korean President Moon Jae-in Friday, without the participation of President Biden, and then the two appeared together to make a statement. A bilateral meeting at the White House between a U.S. vice president and a visiting head of state followed by a joint appearance"
     publishedDateTime: 2021-05-22T02:14:59Z
@@ -96,7 +80,23 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Jill Biden, Kamala Harris share hug after reports of first lady's F-bomb toward VP"
+    excerpt: "Bygones appeared to be bygones at the White House Friday, with first lady Jill Biden getting chummy with Vice President Kamala Harris — days after a forthcoming book revealed Biden said Harris should “go f–k” herself for attacking her husband during the Democratic primaries."
+    publishedDateTime: 2021-05-22T07:26:00Z
+    webUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
-secured: "Sxb8v6wzbmVC0wInQ09K8BuiBJlNKRM+UD6Xzp7ZnyFvxGGilTlskwvr4UU9eSw7QXXbldPXeWIQcb/bxDoFubLnCo2/9bGDUeHoNOqTFSgJ7+b29Rlc4SShMGjD7miIv0xGExGU3EWDDG+zcn0mfiGc4YJUzNkYRLyn2/rSSrp1FB6+HEnp02ve3gsH8nTDRZNjUpF0bNoox7vShwvdv8xCnosADqEUf505SGFs4vY/oFaLSraK/ZsLBeKRwmLtxOG6R3Ww/lFw/zXVoUfuy7QnAnCvepohMjK5J1FMsmwvWHokc39UqMKS9yaoVfyXm4dGSa8ZdIenGOF24/oXb3RvpdV/XO4DMLzIFrmLxws77JyAN1LkPHqe2Ls6f+k0CuAXpXn7NW6P0atm5+4+yLVrysykeZtZn0sT07+hERFTx2KSWBqsn3fReLMRamfby3Yip6czLy0TgRvQgOz+OxpeZ2tRgruh5PHT5BV1MgL1gf3UZNFXDYjellag5ObxX7rDmZ6iQX+GWkGla9CEAg==;YRoKag6Q5zZ2g2uy84RW2w=="
+secured: "dijc6C2TQqLkR/IyfuhM9WI/8z6xnfuqXYglKxKQk9ERiybT8dOJO01xuDr5ABe6lHTJkyWvKSAMOK/Xhdj1OEZOsHjXB21x66dwaQfCx025U4EjzS8MqWc2dsJn5I0nJFvy148Pyq+6U6TRQr6qWG7vnlHVOLkuSruNZ/GFc5IG+lajVLu7VOuA2gQ6ZDD7v1T5G4xqb2Y/+DHJAFkRirttKy/jt1PCLJV/RU44b0CkUVr8xJzEwmPDLDkuA/dYYIMCnysw/8duPZbSJsXLliq/bawTWFiVtlWMqx61VAiqvj26T2H4SldnvzytskaX+Gc9XfesG4gzDBkqHZPDWOXVU738qr5a/TUOfAcksUQ=;Pl5ErU+NuPKiR2g9xMfg0g=="
 ---
 
