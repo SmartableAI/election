@@ -190,6 +190,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Meets With South Korea’s President"
+    excerpt: "President Moon Jae-in of South Korea has said that one goal for his meeting with President Biden is bringing North Korea “back on the path of dialogue.” A Biden administration official says the United States will be at the forefront of efforts to help rebuild Gaza."
+    publishedDateTime: 2021-05-22T09:37:00Z
+    webUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/21/us/21new-washington-briefing-korea-lede2/21new-washington-briefing-korea-lede2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden dramatically scales up the pressure on Netanyahu as decades-long relationship faces its most consequential moment"
     excerpt: "President Joe Biden on Wednesday dramatically escalated his public pressure on Israeli Prime Minister Benjamin Netanyahu to end the fighting with Hamas that has stretched into a 10th day, as their decades-long relationship faces a stern test."
     publishedDateTime: 2021-05-19T13:46:00Z
