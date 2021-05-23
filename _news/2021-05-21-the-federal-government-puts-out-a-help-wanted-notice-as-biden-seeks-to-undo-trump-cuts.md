@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-gover
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
 type: article
 quality: 131
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -80,16 +80,30 @@ related:
   - title: "Joe Biden remarks on the Middle East"
     excerpt: "U.S. President Joe Biden deliver remarks on the Middle East in the Cross Hall at the White House in Washington on Thursday, May 20, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-05-20T23:24:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/33cd2900febd06252fab95604ae60cfb/Joe-Biden-remarks-on-the-Middle-East/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7f6cb73c426dd92864bad2ad9aad12f8/Joe-Biden-remarks-on-the-Middle-East/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/33cd2900febd06252fab95604ae60cfb/BIDEN-MIDDLE-EAST.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/7f6cb73c426dd92864bad2ad9aad12f8/BIDEN-MIDDLE-EAST.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "The evolution of Joe Biden"
+    excerpt: "What happened to Joe Biden? Many people thought he was a moderate incrementalist, but now he's promoting whopping big legislative packages that make many on the progressive left extremely happy."
+    publishedDateTime: 2021-05-23T08:11:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/may/23/the-evolution-of-joe-biden/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "PzqjtuWFwJWcJyJf0yyN+iGM/weC3JJG2SJNQH7aTK7vUYXcGfAp1A17kCXnvFDhSJknQiKwKfV8odQYWdzigqoNkMjR7eP9XJ+NlFpdX4VyDwMga9Q7c2CHT+irLJrVJ0n3tenRijvRzJgXnrDLB28yRAmzG1xXD+FWHDeWjRZjiGwX+sWSaL3hzlJ8u479iP24whHqb7MwR3KtFt0P4dYHGhCXMQ+xxVA+cm9ept0d+fhMC0XsmGr+j3tNVnV3rTIoC7mKPJF8p96uB6D7UT3Ob1xGnd0lxuKGliaZodMbhXIIsxvh9Q2QPttRfGGLAOQC8Jg+17WXIkqoJri8yq7NK/0poO7IUifsnIBLrIuFsrO8wt20tQkxWo/LQc7Q5B1cBXa4HLWJ89mj9oQm8xD75chywsd1oRbR8Zwv1i5f6647NQxU/5oLUgChya3UD9iVnVyb8WDY9qXizTMVguv4MiDN8+U7o8k8oaCR+fKj15Fu2C2aP0Q0PAexf7wx+uRqv7B/uBXndrlcyVDeVA==;7Y7K2qQz/zT4mHpyaWN4GQ=="

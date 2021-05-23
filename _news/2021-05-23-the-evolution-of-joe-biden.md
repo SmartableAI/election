@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Joe Biden remarks on the Middle East"
-excerpt: "U.S. President Joe Biden deliver remarks on the Middle East in the Cross Hall at the White House in Washington on Thursday, May 20, 2021. Photo by Yuri Gripas/UPI"
-publishedDateTime: 2021-05-20T23:24:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/7f6cb73c426dd92864bad2ad9aad12f8/Joe-Biden-remarks-on-the-Middle-East/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/7f6cb73c426dd92864bad2ad9aad12f8/Joe-Biden-remarks-on-the-Middle-East/"
+title: "The evolution of Joe Biden"
+excerpt: "What happened to Joe Biden? Many people thought he was a moderate incrementalist, but now he's promoting whopping big legislative packages that make many on the progressive left extremely happy."
+publishedDateTime: 2021-05-23T08:11:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/may/23/the-evolution-of-joe-biden/"
+webUrl: "https://www.arkansasonline.com/news/2021/may/23/the-evolution-of-joe-biden/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/7f6cb73c426dd92864bad2ad9aad12f8/BIDEN-MIDDLE-EAST.jpg"
-    width: 650
-    height: 433
+  - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+    width: 800
+    height: 400
     isCached: true
 
 related:
@@ -87,21 +87,21 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "The evolution of Joe Biden"
-    excerpt: "What happened to Joe Biden? Many people thought he was a moderate incrementalist, but now he's promoting whopping big legislative packages that make many on the progressive left extremely happy."
-    publishedDateTime: 2021-05-23T08:11:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/may/23/the-evolution-of-joe-biden/"
+  - title: "Joe Biden remarks on the Middle East"
+    excerpt: "U.S. President Joe Biden deliver remarks on the Middle East in the Cross Hall at the White House in Washington on Thursday, May 20, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-05-20T23:24:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7f6cb73c426dd92864bad2ad9aad12f8/Joe-Biden-remarks-on-the-Middle-East/"
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
+      name: UPI.com
+      domain: upi.com
     quality: 55
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
+      - url: "https://cdnph.upi.com/pv/upi/7f6cb73c426dd92864bad2ad9aad12f8/BIDEN-MIDDLE-EAST.jpg"
+        width: 650
+        height: 433
         isCached: true
 
-secured: "j5SAtJLh28XI9vIphOA/8AQptOAJHhpNWqYGwIUWnyFKr2nkOXllbr6QM2sNp3ByL4HNAhKumx/yo4Fth4Bpb3GcLXz24hq1e/zhIzZOJO2mHonY+k+JDcKsP1NPTcVCqP9cSvyZcOAavFvaRhFTBXIdRNh1Ib9dA6zdqFtWYweIUPGaA9oYFQKIO6T3IfsdpBAoNRzBEcIbLd4VzTA2C/cntQUuf/imNCeHEzN2jB8yKmc/mpdgNmRx+GxxVtZQXE2yQz8BFnIrz8wL4+9jLBjLpK7VmRbGc+3tAf/GEyX6RsdTs0RgxUOtmCLzP1ewD4/fGDKktwo+PXJEiIjKQ5bnMHiMcikL36dFBnEgw2w=;c3Dguy2CqY5NBju1mOgn7A=="
+secured: "/8g5P2o+c6LM+Y6lLqsh8BCuGPzxv+evpJBMumv/Sn17LzGR/AM+ibNf7mep/SM6eI6F+Hhs7l+lIvW4lmYKIX1hX9vx3xd8Is/r0zl9m7H86dVKZTkPD2KcNWk20W99QmMNVfFwHCMXbWzehgQe0IHt5mGkc3GYaKbxTwSs98A5WxDYmJEDn7F9OBDkEALOgynVBrG61gdt8FVVfD4UHsqn3NOmqzRj8NsDFVjGeT42r9HPpdDXdvdsxLmEMCxIUa8squXj2htoCiw24D4AlqSsmmc9lPZxBvu8uwxEsnMspJF78p3RNKga4LLsKSZeRgCu6ImihjjOjN8zpkS77ICt0PiQYaUnZSXVGL9k6XM=;tRmqfFPLRxgaXK5hTUNsTA=="
 ---
 
