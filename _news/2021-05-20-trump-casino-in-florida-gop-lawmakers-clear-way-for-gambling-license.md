@@ -79,6 +79,22 @@ related:
         width: 3615
         height: 2410
         isCached: true
+  - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
+    excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
+    publishedDateTime: 2021-05-23T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZDIOTSTYMUI6XFEJR562ZVI6OU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "QzYnpK7ZOOXHhzf7njPerREkZNv6+HHGCM0VKYjrefTsxiDalxr4qT0bw+PnQs8ofxZhNcCYmqKfsyALzr/NC7H8y1wLKjsFYWGZ0igzP8xPMAdDV84cgM6r80R+4rj+wUyOuiRSCTJjtissjsrSs7ro0GSK8dG1820i8d1w/LSn1APNESk+B088EOIyvnjNjmTMyM0RHxAdqG4wEWjoCOlzu428/viaQ6mLFkyT3MQx2QX+0XWrmWQKJEg4KZm057Njf9QbKeJBKotkCLJA6+c+x6gthwmlHxezj4I01gcdO1tstgpHc7lemxMlVsO9sAs77v6y2Z3xeMxX/n409kyYL7rXKnsXaU6BQ2XTc/YnYU4e0XOjnxTKY4ZISwA6DuZI/tyKm5z2RsvAT/uBhe2ltsR3f2MIChTpTeAHbc33mRcYQ7AILTr7BoheNsYfn6joa0rvn7MLw+ySgh+B1ORiF8tDqIQ8VtBlgU0l+Q8nrt/vR3WvUzaJBGoITi7XvS1EvcOfkdpI/m/Of7GiYw==;ikDgtg0FgO9cX2ykODYRIA=="
 ---

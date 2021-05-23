@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Joe Biden signs COVID-19 Hate Crimes Act - Washington"
-excerpt: "U.S. President Joe Biden delivers remarks next to Vice President Kamala Harris before signing the COVID-19 Hate Crimes Act into law in the East Room at the White House in Washington on Thursday, May 20,"
-publishedDateTime: 2021-05-20T20:17:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/576174ddc77e70bd3a67c8f5aef79c60/Joe-Biden-signs-COVID-19-Hate-Crimes-Act-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/576174ddc77e70bd3a67c8f5aef79c60/Joe-Biden-signs-COVID-19-Hate-Crimes-Act-Washington/"
+title: "Infrastructure negotiations snagged again as Republicans reject Biden's counterproposal"
+excerpt: "Bipartisan negotiations on infrastructure hit a new snag Friday after Republicans flatly rejected a counterproposal on the multi-trillion dollar bill advanced by the White House. The White House's $1."
+publishedDateTime: 2021-05-22T21:31:00Z
+originalUrl: "https://abcnews.go.com/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
+webUrl: "https://abcnews.go.com/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
 type: article
-quality: 55
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/576174ddc77e70bd3a67c8f5aef79c60/hate-crimes.jpg"
-    width: 650
-    height: 897
+  - url: "https://s.abcnews.com/images/Politics/capito-rt-er-210521_1621634925673_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -88,22 +94,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562109617&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D0JF"
         width: 818
         height: 545
-        isCached: true
-  - title: "Infrastructure negotiations snagged again as Republicans reject Biden's counterproposal"
-    excerpt: "Bipartisan negotiations on infrastructure hit a new snag Friday after Republicans flatly rejected a counterproposal on the multi-trillion dollar bill advanced by the White House. The White House's $1."
-    publishedDateTime: 2021-05-22T21:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 117
-    images:
-      - url: "https://s.abcnews.com/images/Politics/capito-rt-er-210521_1621634925673_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Biden extolls global role to Coast Guard grads"
     excerpt: "President Joe Biden delivers his first commencement address as commander-in-chief, stressing the vital role new graduates at the Coast Guard Academy will have as the United States reasserts itself on the world stage."
@@ -174,6 +164,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Joe Biden signs COVID-19 Hate Crimes Act - Washington"
+    excerpt: "U.S. President Joe Biden delivers remarks next to Vice President Kamala Harris before signing the COVID-19 Hate Crimes Act into law in the East Room at the White House in Washington on Thursday, May 20,"
+    publishedDateTime: 2021-05-20T20:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/576174ddc77e70bd3a67c8f5aef79c60/Joe-Biden-signs-COVID-19-Hate-Crimes-Act-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/576174ddc77e70bd3a67c8f5aef79c60/hate-crimes.jpg"
+        width: 650
+        height: 897
+        isCached: true
   - title: "President Joe Biden Meets with South Korean President Moon Jae-in in White House"
     excerpt: "U.S. President Joe Biden, left, and Moon Jae-in, South Korea's president, right, depart from a news conference in the East Room of the White House in Washington, DC on Friday, May 21, 2021. Moon is set to make a last-ditch attempt to bring the U."
     publishedDateTime: 2021-05-22T02:10:00Z
@@ -189,6 +193,6 @@ related:
         height: 433
         isCached: true
 
-secured: "Jt5jRCLgoUpg8pfCnd8+QhVpmtAar53SmNXo8WPwJdE2v/urYOv9pfVwaGQYLcBEbYHKg3TIsLwfq2djPYk6pMj/jXSY8rzo+d/hmMQs0hNJkakaG3z1RI8JDu9l8sner3LovvdgRmWaxkjhZkGEhM0q8shDNkVOJdc1rK0z6h1j8aXjVhIGiGsvY8OcIKlLpEzS5wfSjj8+6K3bnmnNGw2NAfxOsZIgeJEiD6m1Zd2Tdkkym5SnEl3JqdvMjjT1wFRkeeubHupPHpHjftCE9PnLkvFwL7tjzPCKSrIzC6rR+cHSp+35RjFr5cVG8peULlpsGGKovITN6gTcOXCQYFRkQ/GNa7qq2G9G5b6Vd2A=;t/noiOvT4So5xMNN0iHFpg=="
+secured: "tDm+ixE+NMctR8Dd2qponmkr6CGvbL1cNQO52l/iOEZr8eHHFhvXc92RBLwT3lvlT6RDGTDmFhAoh0ONb5qIM3BvKsId4BoN4ekNzU8WOW/uH7Lw6DwUOOzaYfo60lDnliW5PmeWEmXY7Kk0C2dxkXA1ErchmReHHftlD2xaI2Rq2iyWRQIaM/if1Xt0g1zPz/BhzQTnpG5HkeZh9d1fbJnZ6G1HwByWB6eiibATSEX2LEzPQhU4zth5mbxdA0X6NcQtICNmrFPfbxvSfchou1779Hj1wdX3MUnR98srGSQ6240wY3Bf2hAu3QoIdqwu780xZxitMLlH9/mxG+4iWj5OJCP8ci6LTUh0WOF8yfc=;EMebBaxnDc/N4yum5gFrLQ=="
 ---
 

@@ -1,34 +1,32 @@
 ---
 category: news
-title: "White House lays the groundwork for high-profile Kamala Harris visit to Mexico and Guatemala "
-excerpt: "The White House is laying down the groundwork ahead of Vice President Kamala Harris' first trip abroad as the lead on diplomatic efforts in Central America, hoping to finalize its strategy to take on the root causes of migration before she lands, multiple sources told CNN.\n    \n"
-publishedDateTime: 2021-05-19T15:02:27Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tRAlRJhM_xU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tRAlRJhM_xU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/harris-immigration/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/harris-immigration/index.html"
+title: "Harris, White House betting on Guatemala to help stem migrant influx"
+excerpt: "The Biden administration is most optimistic about working with Guatemala because it’s willing to talk about the tough issues. And it’s not Honduras or El Salvador."
+publishedDateTime: 2021-05-23T10:55:00Z
+originalUrl: "https://www.politico.com/news/2021/05/23/harris-guatemala-migrant-crisis-490288"
+webUrl: "https://www.politico.com/news/2021/05/23/harris-guatemala-migrant-crisis-490288"
 type: article
-quality: 174
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Democratic Voice
   - Kamala Harris
+  - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505175834-kamala-viaje-avion-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/eb/05/d00fe5b34262b093e34e3fd4e07a/gettyimages-1319254742-1.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -64,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House lays the groundwork for high-profile Kamala Harris visit to Mexico and Guatemala "
+    excerpt: "The White House is laying down the groundwork ahead of Vice President Kamala Harris' first trip abroad as the lead on diplomatic efforts in Central America, hoping to finalize its strategy to take on the root causes of migration before she lands, multiple sources told CNN.\n    \n"
+    publishedDateTime: 2021-05-19T15:02:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tRAlRJhM_xU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/harris-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/harris-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505175834-kamala-viaje-avion-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris broke multiple barriers and found a tricky balancing act on the other side"
     excerpt: "Ami Bera described to Kamala Harris how he felt when he saw the ubiquitous photo that accompanied the coverage of her selection as vice president, of her as a child standing next to her mother clad in a traditional Indian sari."
     publishedDateTime: 2021-05-18T08:45:00Z
@@ -80,21 +94,7 @@ related:
         width: 1200
         height: 764
         isCached: true
-  - title: "Harris, White House betting on Guatemala to help stem migrant influx"
-    excerpt: "The Biden administration is most optimistic about working with Guatemala because it’s willing to talk about the tough issues. And it’s not Honduras or El Salvador."
-    publishedDateTime: 2021-05-23T10:55:00Z
-    webUrl: "https://www.politico.com/news/2021/05/23/harris-guatemala-migrant-crisis-490288"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/eb/05/d00fe5b34262b093e34e3fd4e07a/gettyimages-1319254742-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "isWbOuwwNnnkc2qpJtN1bTCarSPPTKLEZf6FAN22nc737ss+U0mSrd5pQcIy06PmIlzV319Elr9J88kjO0nfBiMfy0v12fl0J/emex83EEFS3dfyS4AaNBe8mB+iV9SKvGitfemHurj97JHinmPB4stxkq1hInnXDnCnr8YgVVIudXgjUo+tkgmUz/7XWbj1NyS7jstaUIJ6tEHxAjMeDxsaIbrsDAOePJ78U1r2ziV4vJ+BjW1P+k/xn+fkE1OK43XE4nPbzyNnU9H7t9tnntMPRGcH1a+bEkKpCTD0TJz0TWtQdR6O+ATfGm1eBDYBrhCbQjhYjxqUWDoqzTffmvdaHW2vMyo4JAundur+MY0=;g49UHnt9X3YZzM9EZJCshQ=="
+secured: "DSAWFhacOap43g5JpfCgAjyDPAkfOg1CwZtbuCHRUqWXkyA2dGguk8xp9NUlvR2SVivNJgklXLORP4NgSDK6IVy/29Kf1QCDAQbGbPMD8gRZolOvtVCi9TZSwT3ZCk0Ek+e6Jfv3vPqnqvxJRK08fElnBXsFuTjVFPwP5nxzngmFq7QjVYeoVZPdejZwsL7aH9gsvzi/pbBQ+BRSg8c06OT0+WJsIZH1NoipVI7AYuR9ozxTAvRy1+tBZSX+E8EtrjGrDXtCO32cIQ8TCciU7GB2bzCW8l7oOXDKruDPVCC0i5aARxL+4GdNmS0TkggKgM88xt3FirNu8/4ACTNv5T3yn33hWSfiywAnxwicCBE=;39NN5d3oxgDVdbv1lSJmSg=="
 ---
 

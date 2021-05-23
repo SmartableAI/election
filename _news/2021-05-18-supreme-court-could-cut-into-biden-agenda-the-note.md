@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-n
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562109617&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D0JF"
         width: 818
         height: 545
+        isCached: true
+  - title: "Infrastructure negotiations snagged again as Republicans reject Biden's counterproposal"
+    excerpt: "Bipartisan negotiations on infrastructure hit a new snag Friday after Republicans flatly rejected a counterproposal on the multi-trillion dollar bill advanced by the White House. The White House's $1."
+    publishedDateTime: 2021-05-22T21:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capito-rt-er-210521_1621634925673_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden extolls global role to Coast Guard grads"
     excerpt: "President Joe Biden delivers his first commencement address as commander-in-chief, stressing the vital role new graduates at the Coast Guard Academy will have as the United States reasserts itself on the world stage."

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Lin Wood Falls to Trump-Endorsed Drew McKissick in Bid to Lead South Carolina GOP"
-excerpt: "Pro-Trump lawyer Lin Wood's attempt to convince delegates to make him the next South Carolina Republican Party chairman fell through on Saturday, when incumbent Drew McKissick secured his reelection bid for a third two-year term,"
-publishedDateTime: 2021-05-15T18:23:00Z
-originalUrl: "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850"
-webUrl: "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850"
-ampWebUrl: "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1"
+title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
+excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
+publishedDateTime: 2021-05-23T09:04:00Z
+originalUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html"
+webUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
 type: article
-quality: 120
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1798007/defamation-lawsuit-against-tesla-ceo-elon-musk.jpg"
-    width: 3615
-    height: 2410
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZDIOTSTYMUI6XFEJR562ZVI6OU.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
-    excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
-    publishedDateTime: 2021-05-23T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
+  - title: "Lin Wood Falls to Trump-Endorsed Drew McKissick in Bid to Lead South Carolina GOP"
+    excerpt: "Pro-Trump lawyer Lin Wood's attempt to convince delegates to make him the next South Carolina Republican Party chairman fell through on Saturday, when incumbent Drew McKissick secured his reelection bid for a third two-year term,"
+    publishedDateTime: 2021-05-15T18:23:00Z
+    webUrl: "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850"
+    ampWebUrl: "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZDIOTSTYMUI6XFEJR562ZVI6OU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://d.newsweek.com/en/full/1798007/defamation-lawsuit-against-tesla-ceo-elon-musk.jpg"
+        width: 3615
+        height: 2410
         isCached: true
   - title: "Trump Casino In Florida? GOP Lawmakers Clear Way For Gambling License"
     excerpt: "Eric Trump, son of the former president and the current executive vice president of the Trump Organization, previously suggested that the company had plans to establish a casino at Doral."
@@ -96,6 +96,6 @@ related:
         height: 731
         isCached: true
 
-secured: "6GAA64DKQFI/ykW1/ulcjF1PX7PEscuDX2/kK0aegtqH1TGFxH7lGnbetXa01/VmN0W7Zm6RUTgY1jZ0dznBLBYojlW1eg6wnUltI1HbqQDrF/4a6U230r9wk43AN0edig1QGHVXeDzxNkOZOFAKVvmRptnvK/rp7XJ9mYgqY1isNaA+DBJxVIsMZxvso2Z0A5qiWUpEEYTLHR8vICS+8hKrKzbw1cm9txd4QHyfZf/Z+H8Q+mGmvGaw6r3YntTMPQDAGC9O+HCYNpahMaFwf/GfyBjiauj/oZf+zeoj0DRSJyqOV9L1Wpx+S/rak5azsil7eyh5kq7d6XpeubujRt8H/m2mE0Rwc72HIti+Xct5Jq8PKjSXXAh1Sfsjof2KCU0FnPM8rSfBe99XmfM/MLN9xtgWCVPWlmjpSshfeRRr3tljZ60ySZp42J7RfMBW00qR3PHFVRQT0h1WvURC6flkRWPW6HKePDEMAHxmkGE9BDn6pwdxJznffK9NHVfrujpUcuDCsr6eLIPvZzwi5g==;Dc8rm3HuDI0FYDSVAfgW3g=="
+secured: "sG0O0v+zC7gRE7SGPxrXaH80LF7J+VzVrMf8bZixkqvPML1tUvTgDUuJRM+Scpm7r5LVT4OBX0Ob5+U/TE70xWNXu2o7XbR9ZFD5fVK+fDFVU53Y/MKD8AqG31G2edTd1Str8Yha94gC/5evY2hBlCkY0ZnSW4pIKdzrxA0C9+0EpoJuP7U8GoxXs2Si5puarRKD+E2JVKxbcjOocaBU1QEpeIM1g9b+gBeHPFwhq2M8PPjrLy/gXkBVLNcGjiEavdSozY7N3MRwW83ICDq5Y783evQ2AZuwICJ3r2yGixl5M/L/P9hRYzIDJc0DsPZBVpWmpmnDeaQ3f+l137LXvJIDZqrt119s5UX4YrjZ8cg=;oLwEcHQSgoQYl7YeRGk4ig=="
 ---
 

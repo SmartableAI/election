@@ -93,6 +93,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Infrastructure negotiations snagged again as Republicans reject Biden's counterproposal"
+    excerpt: "Bipartisan negotiations on infrastructure hit a new snag Friday after Republicans flatly rejected a counterproposal on the multi-trillion dollar bill advanced by the White House. The White House's $1."
+    publishedDateTime: 2021-05-22T21:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/infrastructure-negotiations-snagged-republicans-reject-bidens-counterproposal/story?id=77836945"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capito-rt-er-210521_1621634925673_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to tap Homendy to head NTSB, White House confirms"
     excerpt: "The White House confirmed on Wednesday that President Joe Biden plans to nominate Jennifer Homendy to chair the National Transportation Safety Board (NTSB)."
     publishedDateTime: 2021-05-20T02:38:00Z
