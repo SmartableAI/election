@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-wipes-hand-after-gree
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
 type: article
 quality: 179
-heat: 259
+heat: 279
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Kamala Harris criticized for wiping hand after handshake with SoKo president"
+    excerpt: "Vice President Kamala Harris is taking heat after a video emerged appearing to show her wipe her hand on her jacket after greeting South Korean President Moon Jae-in at the White House last"
+    publishedDateTime: 2021-05-24T19:22:00Z
+    webUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/"
+    ampWebUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/harris-moon-handshake-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "dijc6C2TQqLkR/IyfuhM9WI/8z6xnfuqXYglKxKQk9ERiybT8dOJO01xuDr5ABe6lHTJkyWvKSAMOK/Xhdj1OEZOsHjXB21x66dwaQfCx025U4EjzS8MqWc2dsJn5I0nJFvy148Pyq+6U6TRQr6qWG7vnlHVOLkuSruNZ/GFc5IG+lajVLu7VOuA2gQ6ZDD7v1T5G4xqb2Y/+DHJAFkRirttKy/jt1PCLJV/RU44b0CkUVr8xJzEwmPDLDkuA/dYYIMCnysw/8duPZbSJsXLliq/bawTWFiVtlWMqx61VAiqvj26T2H4SldnvzytskaX+Gc9XfesG4gzDBkqHZPDWOXVU738qr5a/TUOfAcksUQ=;Pl5ErU+NuPKiR2g9xMfg0g=="

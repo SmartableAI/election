@@ -1,16 +1,16 @@
 ---
 category: news
-title: "3 House Dems blamed pandemic for needing proxy votes, but were touring Ford plant with Biden"
-excerpt: "Reps. Haley Stevens, D-Mich.; Elissa Slotkin, D-Mich.; and Dan Kildee, D-Mich., each signed a document granting their vote by proxy to one of their Democratic colleagues in the House for the vote series on May 18, 2021."
-publishedDateTime: 2021-05-20T23:20:11Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/byjouMr1e5A/michigan-biden-ford-democrats-proxy-votes"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/byjouMr1e5A/michigan-biden-ford-democrats-proxy-votes"
-ampWebUrl: "https://www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp"
+title: "Biden doubling FEMA funding for this year's extreme weather season"
+excerpt: "Saying that his administration will \"spare no expense,\" President Biden on Monday announced that he is doubling funding for the Federal Emergency Management Agency's extreme weather preparations."
+publishedDateTime: 2021-05-24T19:10:54Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H_mLgVmhWwE/biden-doubling-fema-funding-extreme-weather-season"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H_mLgVmhWwE/biden-doubling-fema-funding-extreme-weather-season"
+ampWebUrl: "https://www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
 type: article
-quality: 164
-heat: -1
-published: false
+quality: 175
+heat: 235
+published: true
 
 provider:
   name: Fox News
@@ -25,27 +25,27 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/845d93bd-52f0-4fea-806c-d73e5ee436fd/49d98b3d-5858-46f1-8857-6bfa64eaa673/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
-  - title: "Biden doubling FEMA funding for this year's extreme weather season"
-    excerpt: "Saying that his administration will \"spare no expense,\" President Biden on Monday announced that he is doubling funding for the Federal Emergency Management Agency's extreme weather preparations."
-    publishedDateTime: 2021-05-24T19:10:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H_mLgVmhWwE/biden-doubling-fema-funding-extreme-weather-season"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
+  - title: "3 House Dems blamed pandemic for needing proxy votes, but were touring Ford plant with Biden"
+    excerpt: "Reps. Haley Stevens, D-Mich.; Elissa Slotkin, D-Mich.; and Dan Kildee, D-Mich., each signed a document granting their vote by proxy to one of their Democratic colleagues in the House for the vote series on May 18, 2021."
+    publishedDateTime: 2021-05-20T23:20:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/byjouMr1e5A/michigan-biden-ford-democrats-proxy-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/845d93bd-52f0-4fea-806c-d73e5ee436fd/49d98b3d-5858-46f1-8857-6bfa64eaa673/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Psaki pressed on whether Biden push for electric vehicle investments influenced by Ford lobbying"
     excerpt: "White House press secretary Jen Psaki pushed back Tuesday on concerns that the Biden administration’s drive for investments in electric vehicles was influenced by Ford Motor Co.’s lobbying efforts."
@@ -75,6 +75,6 @@ related:
       domain: washingtonexaminer.com
     quality: 65
 
-secured: "L1XDjUKkbdjKN+XH7laxNJ6haoRQu4IIi0+YJEig1HBDx2f2Gj/YyAdfR2JieDA97xD0kZfc7+5TtB7WIH+KvzsSi5ZhgXbrvcbWA2TqUMahxTVZNpuSRF61jJtEJbae6POIBu+wL660KFne61oNdNIiXjRNKp4yvLKeJ11LpeCqEe33EfVPhCYNkdE5fJJlKZx3Vw8tGWd1lin+7vJal1JL4o6KgdIF9cRWQ04wvRLzI1jjddTL6OvxV28d6odecdlAi9uOtg8fLxQTQesqwpoAxKmzLaFskCPs11BTleF2DY1KnAHIIsKXZ2ELADS9xpvrGo9eOoGha/2p1/Wk+Z8Ns/Z09jv6yasq4QS6QCs=;j2UNuv4pMcs7hiC2lBJZyg=="
+secured: "HDJEYEG8EIN6tIA+jBuL7iynNhsdib5MhesJJvFOH5UAJX6cB8rcc4xwyu52r/IDGEX4vcladYhOpS/efSnTzKJprCOOdq8o7WpKV+7rqqywACE+hPtBL5h2+dG++/pyVjSBhEvb1Sgqp/wWzAoMj42uXQmvwBvq0Kk30/G0VeQXYr2DLLYlEFJ13N3yUb/tQZYukH01mMWMKWfF33u0/9DM1m3hNGF0xyJL6rcIrbRugv7IEggVZMGsHoWwVFDB9Hfpo1zwHEqvXCJ7sweR6+tKnhLBHee0IMnpZ0G9PeTYoqMPQqq6s6iDmgWY5ZVfVqDRczSY+hP1E+wWeONxcTYYP8hVEtyF6p+H8p52hB4=;ExSRgOgdlD5BQqPDiMbSkQ=="
 ---
 

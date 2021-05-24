@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20"
-excerpt: "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency"
-publishedDateTime: 2021-05-17T23:55:00Z
-originalUrl: "https://www.businessinsider.com/trump-donated-salary-presidential-pension-payments-2021-5"
-webUrl: "https://www.businessinsider.com/trump-donated-salary-presidential-pension-payments-2021-5"
+title: "Biden to double funding to U.S. program that helps prepare for extreme weather events -Washington Post"
+excerpt: "U.S. President Joe Biden on Monday will pledge $1 billion to a U.S. government program called Building Resilient Infrastructure and Communities that helps communities prepare for extreme weather events,"
+publishedDateTime: 2021-05-24T14:21:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
+webUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LM01V"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LM01V"
 type: article
-quality: 90
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
-
-images:
-  - url: "https://i.insider.com/60a2f78af27b4c0019444f88?width=1200&format=jpeg"
-    width: 1200
-    height: 600
-    isCached: true
+  - Joe Biden
 
 related:
   - title: "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts"
@@ -75,17 +71,20 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden to double funding to U.S. program that helps prepare for extreme weather events -Washington Post"
-    excerpt: "U.S. President Joe Biden on Monday will pledge $1 billion to a U.S. government program called Building Resilient Infrastructure and Communities that helps communities prepare for extreme weather events,"
-    publishedDateTime: 2021-05-24T14:21:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LM01V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LM01V"
+  - title: "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20"
+    excerpt: "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency"
+    publishedDateTime: 2021-05-17T23:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-donated-salary-presidential-pension-payments-2021-5"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/60a2f78af27b4c0019444f88?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Survey experts have yet to figure out what caused the most significant polling error in 40 years in Trump-Biden race"
     excerpt: "More than six months after the astonishing polling embarrassment in the 2020 U.S. elections, survey experts examining what went wrong are uncertain about what led to the sharpest discrepancy between the polls and popular vote outcome since Ronald Reagan defeated Jimmy Carter in a near-landslide in 1980."
     publishedDateTime: 2021-05-20T12:03:00Z
@@ -131,6 +130,6 @@ related:
         height: 400
         isCached: true
 
-secured: "XD5MHQhAkCU3iVEVAm75uMjom0yh4dh3Vh3kps4wWSqWZ7Uip1K3JDmGwxsfaI5tsC3b7HtkPXUCuAAI31q/xVbqV4z8PoWpnjYN9o0Mxawi5EWum+ZAc+3rlAASOsRq3Ai5v7LRI4Er7NcBW5bfx0oxFEMY9TaZXSwAD1RXpfc60FXRxuzXV5sfNfHWhGJZt+4BYxVrLDIXpysMwGYcCy8KbprxWUfRzYpymr+RrO5mKRrHswb91P6ksCyE194XAFvyOQVfjP0gp/erV54peFRuTblF1XHkc+WcnCyqGcaeTxZCJ38X4sgOmEHqkuedVi9KQTUksh1kkryHdkcUyWs/Qf9y+xvGl6HxOXxPL/be0XkuvD9RMiQrz8j08T5UqcAd79fsym301G//ACNo7cpHzw6Gvs01cNtj4dLhezFx/l+4gFuHANrn7xTRxKwBnhApbEiJJjhJ3sX8PSILNXdsHgHnYyhNTClaEnU6t0UzNBrlUq9P644b0FMHqxLnAeVAgd4C3coKJvLfMHcqIg==;qupDgJgVfgwrzm1WvXQjTQ=="
+secured: "cHV+koMf+5IF29CqoeRfMBQJ459ZPb3aliRW+emmrCpJnXfozF5KgQspSjNb+x5KDkuXXMeOeJ9OhaHyYg0Hm2gRzoqXXlLxYA258WLFAarf43vAeRDaJCQ1D/t+M5VS52cAer4TPYKB0vKAdAowSLGgts4HD/jcXCyXqTAwxz3/CkP1vrW2CRinnYlsotmUENqeConji0tsnZuoNZ/D0KJ8DRPvy/WzdfgReKJmbcWKG1k+pC/5Nr+dlVAdbqje2bcEDQgTJeW2eDsKkLcPsTgKi1xif0yDpNp/G56+Jx00QCwBpZifdslhvWwB7PcUvRI4bhQiIR+VhugJTcOIXrNPpK0Xw2VsZUI2Mr7nbvs=;CA2GpoWQQIXf7F222k66NA=="
 ---
 

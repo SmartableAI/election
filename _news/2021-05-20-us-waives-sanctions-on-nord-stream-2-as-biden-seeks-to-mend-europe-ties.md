@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D019I"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D019I"
 type: article
 quality: 124
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/0a5b3c751f3789b45c3c48c5aba68346c7cb4d61/0_35_2945_1768/master/2945.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cfc419b0941389b997af93dd23afb8d7"
         width: 600
         height: 360
+        isCached: true
+  - title: "South Dakota's Noem launches legal strategy to take on Biden"
+    excerpt: "South Dakota Gov. Kristi Noem is likely to stay among conservative politicians favored by former President Donald Trump with the help of an unusual strategy for a governor"
+    publishedDateTime: 2021-05-24T19:45:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/south-dakotas-noem-launches-legal-strategy-biden-77875662"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_b033fdf71e784ce3afe41b752f8016f1_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "58% of Americans support President Joe Biden’s multi-trillion dollar bills on jobs, education and families, poll shows"
     excerpt: "Invest in America, a research group, and Data for Progress, a progressive think tank, surveyed more than 1,200 likely voters in mid-May, with 58% of those polled supporting Biden’s spending plans, even if Democrats must pass them without Republican support."

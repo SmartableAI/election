@@ -31,22 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says he's 'not supposed to be answering all these questions’ when pressed by reporters"
-    excerpt: "President Biden said during remarks on coronavirus vaccinations that he was not “supposed” to be answering questions."
-    publishedDateTime: 2021-05-12T21:35:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wofl2ehUn40/biden-not-supposed-answering-questions"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-not-supposed-answering-questions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-supposed-answering-questions.amp"
+  - title: "Biden doubling FEMA funding for this year's extreme weather season"
+    excerpt: "Saying that his administration will \"spare no expense,\" President Biden on Monday announced that he is doubling funding for the Federal Emergency Management Agency's extreme weather preparations."
+    publishedDateTime: 2021-05-24T19:10:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H_mLgVmhWwE/biden-doubling-fema-funding-extreme-weather-season"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "3 House Dems blamed pandemic for needing proxy votes, but were touring Ford plant with Biden"
+    excerpt: "Reps. Haley Stevens, D-Mich.; Elissa Slotkin, D-Mich.; and Dan Kildee, D-Mich., each signed a document granting their vote by proxy to one of their Democratic colleagues in the House for the vote series on May 18, 2021."
+    publishedDateTime: 2021-05-20T23:20:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/byjouMr1e5A/michigan-biden-ford-democrats-proxy-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 164
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff41d935-df1d-41dc-b594-777125163da2/7ff82d33-0633-4dd5-b547-58f186f9d8a0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/845d93bd-52f0-4fea-806c-d73e5ee436fd/49d98b3d-5858-46f1-8857-6bfa64eaa673/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
+  - title: "Joe Biden needs three things from South Korean President Moon"
+    excerpt: "President Joe Biden will sit down with South Korean President Moon Jae-in Friday amid relative calm on the Korean Peninsula. But their first meeting arrives with questions about Korea's willingness to play a stronger deterrent role against China."
+    publishedDateTime: 2021-05-20T13:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-"
+    ampWebUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "D3a8jeukyqVEjtZ4Tb4qvh5l82ECBqDY4A+QFGpb874rRedPEHewC0GmAvOvIOqSNpNLsoqQSp4xNePiMGLu2IPUl9KS3YymEpsKALJ42KJ6smuqwBwYZS/tAtWfY7nABrjW4irbheZ/3k5i7XOUWAm+V0lOpB0HUsvvAlJhPaic7OBmHWul85nEw29zHjo2jaEcfGznPfAkVb0ACKz1p97AxbfeempgdWaN9fPHBIwSH1qokmaEJ8vTKyTlSgC5q/wnEOIRWIF5WFfkeTBBe1/z59fn30LPhbUUi3F7rx+IM2QEw1CDd/zNpwylH0qC3Pn/wnEZefRyw1Trj5iO7bmFGFM3hU01OSRBxgrNRW0=;gYjIzDTNsxluKu+8lL7GYw=="
 ---

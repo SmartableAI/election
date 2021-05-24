@@ -85,6 +85,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden to double funding to U.S. program that helps prepare for extreme weather events -Washington Post"
+    excerpt: "U.S. President Joe Biden on Monday will pledge $1 billion to a U.S. government program called Building Resilient Infrastructure and Communities that helps communities prepare for extreme weather events,"
+    publishedDateTime: 2021-05-24T14:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LM01V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LM01V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
   - title: "Survey experts have yet to figure out what caused the most significant polling error in 40 years in Trump-Biden race"
     excerpt: "More than six months after the astonishing polling embarrassment in the 2020 U.S. elections, survey experts examining what went wrong are uncertain about what led to the sharpest discrepancy between the polls and popular vote outcome since Ronald Reagan defeated Jimmy Carter in a near-landslide in 1980."
     publishedDateTime: 2021-05-20T12:03:00Z

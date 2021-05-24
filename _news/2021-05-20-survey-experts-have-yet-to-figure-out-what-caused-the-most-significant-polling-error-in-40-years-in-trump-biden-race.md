@@ -87,6 +87,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden to double funding to U.S. program that helps prepare for extreme weather events -Washington Post"
+    excerpt: "U.S. President Joe Biden on Monday will pledge $1 billion to a U.S. government program called Building Resilient Infrastructure and Communities that helps communities prepare for extreme weather events,"
+    publishedDateTime: 2021-05-24T14:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LM01V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LM01V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
   - title: "Joe Biden remarks on the Middle East"
     excerpt: "U.S. President Joe Biden deliver remarks on the Middle East in the Cross Hall at the White House in Washington on Thursday, May 20, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-05-20T23:24:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Jill Biden embraces Kamala Harris after ‘go f–k yourself’ reveal"
-excerpt: "First lady Jill Biden and Vice President Kamala Harris appeared to put the past aside when they hugged before a Medal of Honor ceremony for a Korean War vet."
-publishedDateTime: 2021-05-21T22:14:00Z
-originalUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/"
-webUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/"
-ampWebUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
+title: "Kamala Harris criticized for wiping hand after handshake with SoKo president"
+excerpt: "Vice President Kamala Harris is taking heat after a video emerged appearing to show her wipe her hand on her jacket after greeting South Korean President Moon Jae-in at the White House last"
+publishedDateTime: 2021-05-24T19:22:00Z
+originalUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/"
+webUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/"
+ampWebUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
 type: article
-quality: 150
+quality: 132
 heat: -1
 published: false
 
@@ -22,7 +22,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/jill-biden-111.jpg?quality=90&strip=all&w=1200"
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/harris-moon-handshake-03.jpg?quality=90&strip=all&w=1200"
     width: 1200
     height: 800
     isCached: true
@@ -76,6 +76,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Jill Biden embraces Kamala Harris after ‘go f–k yourself’ reveal"
+    excerpt: "First lady Jill Biden and Vice President Kamala Harris appeared to put the past aside when they hugged before a Medal of Honor ceremony for a Korean War vet."
+    publishedDateTime: 2021-05-21T22:14:00Z
+    webUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/"
+    ampWebUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/jill-biden-111.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Jill Biden, Kamala Harris share hug after reports of first lady's F-bomb toward VP"
     excerpt: "Bygones appeared to be bygones at the White House Friday, with first lady Jill Biden getting chummy with Vice President Kamala Harris — days after a forthcoming book revealed Biden said Harris should “go f–k” herself for attacking her husband during the Democratic primaries."
     publishedDateTime: 2021-05-22T07:26:00Z
@@ -92,23 +108,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris criticized for wiping hand after handshake with SoKo president"
-    excerpt: "Vice President Kamala Harris is taking heat after a video emerged appearing to show her wipe her hand on her jacket after greeting South Korean President Moon Jae-in at the White House last"
-    publishedDateTime: 2021-05-24T19:22:00Z
-    webUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/"
-    ampWebUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/harris-moon-handshake-03.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
-secured: "CaPnA8Xk27TeT9xxAHNOsigJXEC15uxsNsnLnx8dsHRKoiZy0CGa+XsXRD5E7nInfR9lhqz2EIzf+j19GLx0svnkBZzhFs+hMdntbKPlqEL7HUlD+Z3YjjAHvhzSLVIIVwf/4K87dBLXj2hAK0NF7irOh4S/6ecHnOZwlqRjs3WDKgnDTXNp0WoDPZwg6pR/ipI8/TkD7dYrcBSA0fYndOP32fBuBFZgeSclSPg0gSvqbbIXJS69FUasfO3HfacC1tIKDwnHlASY9DnWhYj9a8Wn4v8jJ0+2820jp6TcBQTjhvUPbrVajbCH6Oo9nZ8krRfjdz1Cb78aYQWF6LLdSkWZMHGHDXD0VTUsFllIBbcuWhfsHbm0T+p4GILtzcpG4XAOlOm22FgKK9b935fBvM06yHGoHYnC4FAG16t/yHkup/jltF0CIlPMDI1ANnlKF2IG1r1uJLaY2c1ioOC6HNHcXMCEeRgfXV/krrWlFhS/XD20y+JdQn2wBrNPshYn0keOD2hMFxzFYQvuoAm4PQ==;jrsyHt88/YsOArouU356dg=="
+secured: "3ISuBJiyZlGVykvdk9yEof1bYvx9jYbNsNuM3ElOnX+4zn5pR35tI1b2dEpY7erWJcSv3unyM/eE/gXSo+cx3CxEHAAueI1E7DHMGncSlkipqeoOlbUqDzTCjY27v9BtuDKwO9FpjBr/sMk7EEY1t0buZEa/hKE6gB+VI849xarL967x5bPLCosSVTXdEFCQqSzb2gPPpMFOVhVr+aT3/7n/pKXvMxpsHaxgdwHXLC849C+zimh42vg3KcjCXY4gdz8sXmictNegk8zGqXnZ4sC2gmfyUJiRUsP+EgJNDKz2KvHDoOQd0TEx2qBc6buqwi3sqC96xhfXLYkAVRbo3HJE24Nl+xypA4mC85co440=;9gtao1Qs5j2qUTd1vNr0OQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-gra
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
 type: article
 quality: 125
-heat: 605
+heat: 625
 published: true
 
 provider:
@@ -291,6 +291,20 @@ related:
       - url: "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "VP Harris participates in a roundtable on high-speed internet"
+    excerpt: "United States Vice President Kamala Harris participates in a roundtable on high-speed internet at the White House on Monday, May 24, 2021 in Washington, DC. Photo by Chris Kleponis/UPI"
+    publishedDateTime: 2021-05-24T19:16:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/11eb388bcfd2428ccc643c9df4deeb09/VP-Harris-participates-in-a-roundtable-on-high-speed-internet/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/11eb388bcfd2428ccc643c9df4deeb09/HARRIS-INTERNET.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Naval Academy class president Cameron Kinley to present Kamala Harris with gift"
     excerpt: "Midshipman 1st Class Cameron Kinley, who was also the captain for the academy’s football team will present the award, according to a press release from Kinley’s agent."

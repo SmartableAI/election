@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-24-biden-doubling-fema-funding-for-this-years-extreme-weather-season.md",
+      "title": "Biden doubling FEMA funding for this year's extreme weather season",
+      "excerpt": "Saying that his administration will \"spare no expense,\" President Biden on Monday announced that he is doubling funding for the Federal Emergency Management Agency's extreme weather preparations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H_mLgVmhWwE/biden-doubling-fema-funding-extreme-weather-season",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H_mLgVmhWwE/biden-doubling-fema-funding-extreme-weather-season",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp",
+      "publishedDateTime": "2021-05-24T12:10:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-biden-tops-trump-clinton-but-outpaced-by-obama-and-both-bushes-in-polling-comparison.md",
       "title": "Biden tops Trump, Clinton, but outpaced by Obama and both Bushes, in polling comparison",
       "excerpt": "Four months into his White House tenure, President Biden is outperforming some of his predecessors and trailing others when it comes to his poll ratings.",
@@ -288,7 +344,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 253,
+      "heat": 233,
       "tags": null,
       "images": [
         {
@@ -400,7 +456,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 259,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -898,62 +954,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp",
       "publishedDateTime": "2021-05-20T16:49:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-3-house-dems-blamed-pandemic-for-needing-proxy-votes-but-were-touring-ford-plant-with-biden.md",
-      "title": "3 House Dems blamed pandemic for needing proxy votes, but were touring Ford plant with Biden",
-      "excerpt": "Reps. Haley Stevens, D-Mich.; Elissa Slotkin, D-Mich.; and Dan Kildee, D-Mich., each signed a document granting their vote by proxy to one of their Democratic colleagues in the House for the vote series on May 18, 2021.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/byjouMr1e5A/michigan-biden-ford-democrats-proxy-votes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/byjouMr1e5A/michigan-biden-ford-democrats-proxy-votes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/845d93bd-52f0-4fea-806c-d73e5ee436fd/49d98b3d-5858-46f1-8857-6bfa64eaa673/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp",
-      "publishedDateTime": "2021-05-20T16:20:11-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

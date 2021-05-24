@@ -96,6 +96,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris criticized for wiping hand after handshake with SoKo president"
+    excerpt: "Vice President Kamala Harris is taking heat after a video emerged appearing to show her wipe her hand on her jacket after greeting South Korean President Moon Jae-in at the White House last"
+    publishedDateTime: 2021-05-24T19:22:00Z
+    webUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/"
+    ampWebUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/harris-moon-handshake-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Sxb8v6wzbmVC0wInQ09K8BuiBJlNKRM+UD6Xzp7ZnyFvxGGilTlskwvr4UU9eSw7QXXbldPXeWIQcb/bxDoFubLnCo2/9bGDUeHoNOqTFSgJ7+b29Rlc4SShMGjD7miIv0xGExGU3EWDDG+zcn0mfiGc4YJUzNkYRLyn2/rSSrp1FB6+HEnp02ve3gsH8nTDRZNjUpF0bNoox7vShwvdv8xCnosADqEUf505SGFs4vY/oFaLSraK/ZsLBeKRwmLtxOG6R3Ww/lFw/zXVoUfuy7QnAnCvepohMjK5J1FMsmwvWHokc39UqMKS9yaoVfyXm4dGSa8ZdIenGOF24/oXb3RvpdV/XO4DMLzIFrmLxws77JyAN1LkPHqe2Ls6f+k0CuAXpXn7NW6P0atm5+4+yLVrysykeZtZn0sT07+hERFTx2KSWBqsn3fReLMRamfby3Yip6czLy0TgRvQgOz+OxpeZ2tRgruh5PHT5BV1MgL1gf3UZNFXDYjellag5ObxX7rDmZ6iQX+GWkGla9CEAg==;YRoKag6Q5zZ2g2uy84RW2w=="
 ---
