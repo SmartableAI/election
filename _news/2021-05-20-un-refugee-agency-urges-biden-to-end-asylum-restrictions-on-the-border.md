@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://media13.s-nbcnews.com/i/mpx/2704722219/2021_05/BidenIsrael.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden bolsters extreme weather preparation funding during FEMA visit"
+    excerpt: "President Joe Biden on Monday announced his administration would invest $1 billion in extreme weather preparation ahead of hurricane season."
+    publishedDateTime: 2021-05-24T14:37:00Z
+    webUrl: "https://www.cnn.com/2021/05/24/politics/fema-climate-change-biden-funding/"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/fema-climate-change-biden-funding/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/fema-climate-change-biden-funding/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524140207-01-biden-fema-0524-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "CZSzwAy3xwnLSavc9kM5tBfuo4GfyRn9zQ2NRCDVgo2tYcyaXrWv5XDIHwFmBSjynxXEnU/YMYA0vvNewHDJunwjG0V+kyZiDzthvuScXjQSFlpsC001xwULIkvnYTZVw9VhR9uOQjVaAYDa1CfVjqs1JifVNO9ZLCGhbZdoJJ6Mhm3LBOqAj65qaHKv97VWKbndTeAK98z4mcfzB76zIbEBweXhQJ8uITmRmeGd4CUriuRDv15JCkQWA9SCoi5fC12tBHbBRM+mKjls59Qhireu663YlmxOzjblD/XIDC7yQgYbsZh2b54gaOireLNGhA0uuIK6dx3+QhmtdNhiH6kbTMQnTG3W6T76ZrN7lg4=;AAFM75ilhpq00jHfJkA52g=="

@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Biden to sign Alaska tourism act to allow cruise ships to visit the state this year"
+    excerpt: "President Joe Biden is set to sign a bill that will allow cruise ships to visit Alaska, Press Secretary Jen Psaki said Monday."
+    publishedDateTime: 2021-05-24T20:49:00Z
+    webUrl: "https://www.usatoday.com/story/travel/cruises/2021/05/24/cruise-ships-bill-biden-alaska/7417266002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7417266002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7417266002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/08/05/USAT/c82ac5f8-beea-404d-8438-5647821efbe1-alaska-getty.jpg?auto=webp&crop=2115,1190,x1,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden extolls global role to Coast Guard grads"
     excerpt: "President Joe Biden delivers his first commencement address as commander-in-chief, stressing the vital role new graduates at the Coast Guard Academy will have as the United States reasserts itself on the world stage."
     publishedDateTime: 2021-05-19T18:40:00Z

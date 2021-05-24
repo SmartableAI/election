@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-criminal-investi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://i.insider.com/5d38a1ed100a2418752aaa27?width=750&format=jpeg&auto=webp"
         width: 750
         height: 500
+        isCached: true
+  - title: "Trump criminal investigation looms over Manhattan DA race"
+    excerpt: "The current district attorney, Cyrus Vance Jr., is leaving office at the end of the year, meaning there’s a good chance he’ll pass the two-year probe to his successor."
+    publishedDateTime: 2021-05-24T20:13:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-election-2021-manhattan-district-attorney-20210524-sbzv26f7hfbz7m77porc3c6mjq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-election-2021-manhattan-district-attorney-20210524-sbzv26f7hfbz7m77porc3c6mjq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/nyc-elections-2021/ny-election-2021-manhattan-district-attorney-20210524-sbzv26f7hfbz7m77porc3c6mjq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/HoPnX5rZFP6on5h3laDIY2TvVlk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SI35OJIWUNCJNHMFIAWE2I72UM.jpg"
+        width: 1200
+        height: 787
         isCached: true
   - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
     excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."

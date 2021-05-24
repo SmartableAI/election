@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-25-donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-than-in-2020.md",
+      "title": "Donald Trump Says His Website Drew 36.7M Views Over Past Month: 'More Traffic Than in 2020'",
+      "excerpt": "\"This number would be even greater if we were still on Twitter and Facebook,\" Trump claimed, \"but since Big Tech has illegally banned me, tens of millions of our supporters have stopped using these platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-2020-1594371",
+      "originalUrl": "https://www.newsweek.com/donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-2020-1594371",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1805617/donald-trump-website-traffic-millions-brag-claim.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-2020-1594371?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-2020-1594371?amp=1",
+      "publishedDateTime": "2021-05-24T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-sondland-sues-pompeo-us-government-for-legal-fees-over-trump-impeachment-probe.md",
+      "title": "Sondland sues Pompeo, U.S. government, for legal fees over Trump impeachment probe",
+      "excerpt": "Former U.S. ambassador to the European Union, Gordon Sondland, filed a lawsuit against former Secretary of State Mike Pompeo and the U.S. government. Sondland is seeking $1.8 million in legal fees he accumulated during the first House impeachment investigation against then-President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/sondland-sues-pompeo-u-s-government-for-legal-fees-over-trump-impeachment-probe-113087557862",
+      "originalUrl": "https://www.nbcnews.com/now/video/sondland-sues-pompeo-u-s-government-for-legal-fees-over-trump-impeachment-probe-113087557862",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/i/mpx/2704722219/2021_05/1621887619887_ott_now_pwilliams_210524_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo113087557862",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo113087557862",
+      "publishedDateTime": "2021-05-24T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-biden-doubling-fema-funding-for-this-years-extreme-weather-season.md",
       "title": "Biden doubling FEMA funding for this year's extreme weather season",
       "excerpt": "Saying that his administration will \"spare no expense,\" President Biden on Monday announced that he is doubling funding for the Federal Emergency Management Agency's extreme weather preparations.",
@@ -615,7 +724,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1258,101 +1367,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-exclusive-no-place-like-home-karen-pence-says-of-their-move-back-to-indiana.md",
-      "title": "Exclusive: `No place like home' Karen Pence says of their move back to Indiana",
-      "excerpt": "There’s no place like home and Indiana is home,” Karen Pence said in a statement provided exclusively to USA TODAY. The Pences were not made available for an interview. In her statement, Karen Pence said the longtime Indy500 fans are especially excited to have made the move before race weekend,",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/politics/2021/05/22/former-vice-president-mike-pence-and-his-wife-karen-move-back-indiana/5207465001/",
-      "originalUrl": "https://www.indystar.com/story/news/politics/2021/05/22/former-vice-president-mike-pence-and-his-wife-karen-move-back-indiana/5207465001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/a22e047d-ea38-4ef7-bc6c-517385f517f8-01202021_Pence_GH_001.jpg?auto=webp&crop=2356,1326,x0,y200&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/5207465001",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5207465001",
-      "publishedDateTime": "2021-05-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-trump-hotel-raised-prices-to-deter-qanon-conspiracists-police-files-show.md",
-      "title": "Trump Hotel raised prices to deter QAnon conspiracists, police files show",
-      "excerpt": "Price increase was ‘security tactic to prevent protesters booking rooms’ in case people travelled to Washington in early March",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f4b64c9df7a74a6fe71222d931a74d717a0edcd4/0_0_4573_2744/master/4573.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b4a263deb2c3aa23504541f76afdebc",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
-      "publishedDateTime": "2021-05-22T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

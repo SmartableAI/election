@@ -111,6 +111,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Trump criminal investigation looms over Manhattan DA race"
+    excerpt: "The current district attorney, Cyrus Vance Jr., is leaving office at the end of the year, meaning there’s a good chance he’ll pass the two-year probe to his successor."
+    publishedDateTime: 2021-05-24T20:13:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-election-2021-manhattan-district-attorney-20210524-sbzv26f7hfbz7m77porc3c6mjq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-election-2021-manhattan-district-attorney-20210524-sbzv26f7hfbz7m77porc3c6mjq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/nyc-elections-2021/ny-election-2021-manhattan-district-attorney-20210524-sbzv26f7hfbz7m77porc3c6mjq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/HoPnX5rZFP6on5h3laDIY2TvVlk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SI35OJIWUNCJNHMFIAWE2I72UM.jpg"
+        width: 1200
+        height: 787
+        isCached: true
   - title: "Trump Organization Faces Criminal Probe In New York State"
     excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
     publishedDateTime: 2021-05-19T10:35:00Z

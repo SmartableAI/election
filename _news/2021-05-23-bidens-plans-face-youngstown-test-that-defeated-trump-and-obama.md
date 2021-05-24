@@ -61,6 +61,22 @@ related:
         width: 835
         height: 545
         isCached: true
+  - title: "ICE deported 348 migrant parents under Trump without ensuring children could go with them"
+    excerpt: "Some parents were deported without their children even after telling ICE officers that they wanted their children to come with them, the DHS inspector general found."
+    publishedDateTime: 2021-05-24T20:20:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-ice-deportations-parents-trump-family-separation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-ice-deportations-parents-trump-family-separation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-ice-deportations-parents-trump-family-separation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/18/fca5c57b-04f7-4ff4-9832-a7b6c222547c/thumbnail/1200x630/d615f11dcdadbd7bc81e61c3680c60c9/ap19200565745965.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20"
     excerpt: "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency"
     publishedDateTime: 2021-05-17T23:55:00Z

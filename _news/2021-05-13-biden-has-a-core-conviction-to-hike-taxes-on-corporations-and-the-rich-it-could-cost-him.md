@@ -287,6 +287,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden bolsters extreme weather preparation funding during FEMA visit"
+    excerpt: "President Joe Biden on Monday announced his administration would invest $1 billion in extreme weather preparation ahead of hurricane season."
+    publishedDateTime: 2021-05-24T14:37:00Z
+    webUrl: "https://www.cnn.com/2021/05/24/politics/fema-climate-change-biden-funding/"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/fema-climate-change-biden-funding/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/fema-climate-change-biden-funding/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524140207-01-biden-fema-0524-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "vVN7ExO1PTedajuuuifev0CcO5TlpoPIsbSbTsTj8X6BOJeIDvRNrh4ZvXyiloVtouggt3LOg699zAWkojFQav/kb08LjNIf6QgnMaYbZYhhXNH9vSRkSboYi0EFR3XQzzwWbp7aPKtO6ksag9HRy3SYEXnkeYgUWuSX4VOo9Epl/i+RDB7YVdWJD0109B34v+qAWcdSdMh8YtRlASpmMm4OqZM1iciz+Q6LV7OEMkVsRXkAk2/PaGsqGE/HC7owzk2sU6btH0WwcjdVa7cPh8igH4tXthsfUVQWkW3EnrM9OGBFMlB6/2Hn2oQ9ZBTvHTV+YMvnwK92tk+HvIiAzCEAFUrUKFv0BmiZU1O9d1I=;HyZks/m1x3+jGLVcICJ6Jw=="
 ---

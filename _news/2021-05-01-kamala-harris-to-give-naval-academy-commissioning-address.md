@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 1265
+heat: 1285
 published: true
 
 provider:
@@ -200,6 +200,20 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2021/05/GettyImages-1232459585.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "VP Harris holds virtual session on digital divide"
+    excerpt: "Vice President Kamala Harris holds a virtual listening session to discuss the digital divide in American and how investments in the he American Jobs Plan will ensure every American has access to affordable,"
+    publishedDateTime: 2021-05-24T21:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/24/vp-harris-holds-virtual-session-digital-divide/7421372002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/713c9c51-be46-4be5-ba1e-af640cb45572_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "A New York Post story about Kamala Harris triggered conservative outrage. Almost all of it was wrong. Now the reporter has resigned."
     excerpt: "The New York Post belatedly corrected stories the journalist says she was “ordered to write,” claiming the vice president’s book was given to undocumented migrants by the thousands."

@@ -196,6 +196,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 102
+  - title: "Biden's attempts to find economic common ground with Republicans threaten to stall out with $1.5 trillion dividing them"
+    excerpt: "Progressives are calling for Biden to abandon infrastructure talks with Republicans, arguing that plays for bipartisanship aren't taken seriously."
+    publishedDateTime: 2021-05-24T20:16:00Z
+    webUrl: "https://www.businessinsider.com/bidens-economy-infrastructure-agenda-risk-of-stalling-out-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/bidens-economy-infrastructure-agenda-risk-of-stalling-out-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-economy-infrastructure-agenda-risk-of-stalling-out-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/606e0dcd70954f0019195bdc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Nine Republican-led states ending increased unemployment benefits as President Biden says people must take \"suitable work\""
     excerpt: "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages."
     publishedDateTime: 2021-05-12T14:54:00Z
