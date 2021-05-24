@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html"
 type: article
 quality: 190
-heat: 1690
+heat: 1710
 published: true
 
 provider:
@@ -1200,6 +1200,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/07/us/07vid-Biden-Live/merlin_185831562_dc56174f-44a6-4589-bedc-b73641340bf2-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden infrastructure bill highly uncertain"
+    excerpt: "President Joe Biden will meet with a bipartisan group of legislators today to talk about his $2 trillion-plus “American Jobs Plan.” The White House wants to make a cross-party deal but that’s very unlikely to happen."
+    publishedDateTime: 2021-04-19T12:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2021/04/19/biden-infrastructure-bill-highly-uncertain-794753"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "qbey37mBTXXVVcurPSbpTEbfqMPmExSc5wc1BqEZyQaHykMZwCgsEbj0P4XTFLLcK+aREyNtRUB8UuvC8Hnra6K7BaIVN7Wo5ARX2XloggfJCAaQmND3bbdh3LbB/lvEkzfpaDe+KlPkM9QebkIxKwRuMs8RJevWBOBUm7mExeIOyNS4YKlPLCyHrSZ4JH4dX3oIXU+FZ/GuKEAeOpX6xAkWXAq15KYcYyu4UyrNh9ibeDBgI2+NDo43j3N34888ksqiQ6MMoPrhiQox7fqtT4g/4PzjHFFdQ6WVZU8J+k40b6IUitj47xkdhIO2iWkJpzyodnJG/AYUT5VeVu3JjCPjcl+qz2gnXlmvVmOdNXY=;j86CkTB1fN7XkErEVgNHsg=="

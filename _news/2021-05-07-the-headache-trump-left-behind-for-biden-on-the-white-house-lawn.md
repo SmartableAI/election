@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/white-house-construction
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/white-house-construction-trump-biden/index.html"
 type: article
 quality: 190
-heat: 810
+heat: 830
 published: true
 
 provider:
@@ -478,6 +478,20 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_19/3471568/210510-transgender-rally-white-house-jm-0856_ba802737195be88ad4c94d6bece200d0.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Joe Biden's ringer in the Senate"
+    excerpt: "President Biden came into office with a built-in legislative advantage: He served in the Senate for 36 years and knows the ways of the chamber. But he’s got another leg-up as he deals with a Senate that’s changed plenty in the intervening 12 years: His vice president has fresher contacts,"
+    publishedDateTime: 2021-04-30T12:08:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/04/30/joe-bidens-ringer-in-the-senate-492669"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "GOP leaders diverge on Trump approach"
     excerpt: "While McCarthy stayed in close contact with Trump on House GOP Conference Chair Liz Cheney’s (R-Wyo.) potential ouster, McConnell declined to acknowledge Trump at all. When asked about Trump’s attacks on him,"

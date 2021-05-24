@@ -95,6 +95,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Former Trump Ambassador Sues Pompeo, U.S. Government for Legal Fees"
+    excerpt: "Gordon Sondland, the former U.S. ambassador who testified against President Donald Trump during his first impeachment, sued former Secretary of State Mike Pompeo and the U.S. government for $1.8 million in legal fees on Monday."
+    publishedDateTime: 2021-05-24T14:47:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-24/former-trump-ambassador-sues-pompeo-us-government-for-legal-fees"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "QzYnpK7ZOOXHhzf7njPerREkZNv6+HHGCM0VKYjrefTsxiDalxr4qT0bw+PnQs8ofxZhNcCYmqKfsyALzr/NC7H8y1wLKjsFYWGZ0igzP8xPMAdDV84cgM6r80R+4rj+wUyOuiRSCTJjtissjsrSs7ro0GSK8dG1820i8d1w/LSn1APNESk+B088EOIyvnjNjmTMyM0RHxAdqG4wEWjoCOlzu428/viaQ6mLFkyT3MQx2QX+0XWrmWQKJEg4KZm057Njf9QbKeJBKotkCLJA6+c+x6gthwmlHxezj4I01gcdO1tstgpHc7lemxMlVsO9sAs77v6y2Z3xeMxX/n409kyYL7rXKnsXaU6BQ2XTc/YnYU4e0XOjnxTKY4ZISwA6DuZI/tyKm5z2RsvAT/uBhe2ltsR3f2MIChTpTeAHbc33mRcYQ7AILTr7BoheNsYfn6joa0rvn7MLw+ySgh+B1ORiF8tDqIQ8VtBlgU0l+Q8nrt/vR3WvUzaJBGoITi7XvS1EvcOfkdpI/m/Of7GiYw==;ikDgtg0FgO9cX2ykODYRIA=="
 ---

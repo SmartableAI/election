@@ -1202,6 +1202,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden infrastructure bill highly uncertain"
+    excerpt: "President Joe Biden will meet with a bipartisan group of legislators today to talk about his $2 trillion-plus “American Jobs Plan.” The White House wants to make a cross-party deal but that’s very unlikely to happen."
+    publishedDateTime: 2021-04-19T12:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2021/04/19/biden-infrastructure-bill-highly-uncertain-794753"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "MuMew6EH86QgAN5W40rXo8UtLnzysglg/MlAVfuvfcmaBY4pSfwFua3O1SX+ItTWlr3qNA9JurN7dK3s9vxlXPa1mAOvdZth8SJNyK7YxrwEWf8LtQpnvUSc8JkcCWiEd7LWc2OQjPwf6g31b+Yqb8UocjF7o1UzOrjJ7YQRnjSb1Tjmssw9qyLUfa1GQZ3oRRhvJJg51CXdM57GBkJVnsg/jXb8u7MALgaGP108pwJX0pIcQE+7hy2x28k+JrJ9YCDNqtMNwqSDVbSxgfwq9nlL0lU7L+sBzctRMZnBIBx1dBVoK2bjeTqtVQNgLCoPKtyp/if2D/unlIK7U8VcO2l6HfW+U2Osx1o+m/VvBLHDQIuZ4dTq8HvhqyCFqdjnC/UOCdM0eRXdhWfHk2kutyyCqEX5+oeVoD1o1kp/PAShJvDNcFGXsDB8/UqNGO383ww9hqXWhBldI1xxHHK2gmByvmKVvUQHeWoI6FDGQYfwgMWuRyxm2GLBPT6gYT/2YA45XXv5YcFHclgKlBW39w==;laDmv9poOKSvRBRjf4Mdig=="
 ---

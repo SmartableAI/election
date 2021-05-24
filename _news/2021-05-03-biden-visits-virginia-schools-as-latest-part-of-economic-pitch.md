@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/biden-economic-proposals
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/biden-economic-proposals-virginia-schools/index.html"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 215
+published: true
 
 provider:
   name: CNN
@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "The Bidens visit the Carters in Georgia"
-    excerpt: "President Joe Biden and first lady Jill Biden met with former President Jimmy Carter and former first lady Rosalynn Carter at the Carters' Plains, Georgia, home on Thursday.\n    \n"
-    publishedDateTime: 2021-04-29T20:17:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JDZXnxtbJAs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/bidens-carters-visit-georgia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/bidens-carters-visit-georgia/index.html"
+  - title: "Biden pushes economic aid proposals as GOP calls for paring back unemployment benefits"
+    excerpt: "President Joe Biden will focus in a speech Monday on how the administration is providing funding for states and localities, bolstering child care providers and helping Americans return to work safely, a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-05-10T18:13:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JhPkmIHS3cA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/biden-employer-assistance-child-care-state-and-local-funding/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/biden-employer-assistance-child-care-state-and-local-funding/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429160339-bidens-leave-carter-home-0429-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510004358-03-joe-biden-0507-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden stops in Georgia to sell sweeping economic proposals after prime-time speech"
-    excerpt: "President Joe Biden hit the road on Thursday, traveling to Georgia to promote his sweeping economic proposals the day after making the case for the massive new government programs in his first address to a joint session of Congress.\n    \n"
-    publishedDateTime: 2021-04-30T00:59:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G6q768A_XAc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-georgia-economic-proposals/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-georgia-economic-proposals/index.html"
+  - title: "Biden's economic push tests the power of pocketbook issues to sway America's polarized electorate"
+    excerpt: "A building Biden boom may be about to reshape America's politics.\n    \n"
+    publishedDateTime: 2021-04-30T04:31:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JwUmC_v6dVw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429104002-01-joe-biden-congress-0428-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429184410-biden-discurso-comunicativo-mensaje-congreso-roberto-izurieta-aristegui-mexico-00000921-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden, in Georgia to Promote Economic Agenda, Visits Carter"
-    excerpt: "A day after his first address to Congress, President Biden met with former President Jimmy Carter and held a drive-in rally for his 100th day in office."
-    publishedDateTime: 2021-04-29T23:16:00Z
-    webUrl: "https://www.nytimes.com/2021/04/29/business/economy/biden-georgia-carter.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/29/business/economy/biden-georgia-carter.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/29/business/economy/biden-georgia-carter.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/29/us/politics/29dc-bideN/merlin_187085802_2c20a7ca-4ea0-41a6-9d95-09c86692fed6-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "ykmGGVGVaU/GaUCgx9sa6YuzYS5VLkPMY4QElGYsQ/Cci6Z4VbnxX5VSEFSq8WfTNVmzn6tYELN/ecmAfbAIXkEbM/OnUSjWWPJo2PQoQIfzUuq3kQoDwuqZ6Z9R6GdiVkioIcWpuPTFf0RPDKKvBTB+BbuV/Gb+xA1XiNYnJCjrMo62PxEjDHi/osFv19Ov13gEDNleVJmwtRGn8sxhll5xZi5B+pSiXmFAzoweV/OxKKM7Ymqo5nFgUsXFneRoUrmR4p/kPTvpjqeA3eD99zlFHoozTGI3gCpUfvRgJ0J0bKAjeVlkJS47OIjecaFOSVrizDItpWif3QeifIYHLIe+icCcLZXBlTMdyNhwNgI=;tOgVcvUItqk1wqzaLkqQaA=="

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to host George Floyd's family on anniversary of his death"
+    excerpt: "President Joe Biden will host the family of George Floyd at the White House on Tuesday to mark the one-year anniversary of his death at the hands of police, a White House official confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-05-23T13:58:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSTwWUAtvPM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420195034-joe-biden-april-20-2021-02-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to close two immigration detention centers that came under scrutiny"
     excerpt: "The Biden administration announced Thursday that it will stop detaining immigrants at two detention centers that came under investigation over allegations of inadequate medical care and poor conditions.\n    \n"
     publishedDateTime: 2021-05-20T16:31:15Z

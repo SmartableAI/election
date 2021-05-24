@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration didn't provide some separated parents the opportunity to bring their children as they were deported, new watchdog report says"
+    excerpt: "Immigration and Customs Enforcement deported some parents between July 2017 and July 2018 without giving them the opportunity to bring their children, contradicting claims made by the agency and the Department of Homeland Security, according to a newly released watchdog report.\n    \n"
+    publishedDateTime: 2021-05-24T14:56:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYaqkh0SBmU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/immigration-families-separated-parents-removal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/immigration-families-separated-parents-removal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 137
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "CNN: Trump Justice Department seized reporter's email and phone records"
     excerpt: "The DOJ secretly obtained Pentagon correspondent Barbara Starr's phone and email records in another apparent leak investigation to identify a journalist's sources."
     publishedDateTime: 2021-05-21T14:54:00Z

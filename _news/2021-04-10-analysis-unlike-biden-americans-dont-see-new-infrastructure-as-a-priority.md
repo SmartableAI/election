@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden pushes new CDC mask guidance as a reason why all Americans should get vaccinated"
-    excerpt: "President Joe Biden on Tuesday cited new guidance from the US Centers for Disease Control and Prevention -- which said vaccinated Americans do not have to wear masks outside in some situations -- to urge all Americans to go get a vaccine.\n    \n"
-    publishedDateTime: 2021-04-27T23:20:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hZdoTJpMoHs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/joe-biden-new-cdc-guidance/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/joe-biden-new-cdc-guidance/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427142809-05-biden-mask-remarks-0427-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden is about to send $1 billion more in food stamps to the 25 million neediest Americans"
     excerpt: "An estimated 25 million people will get a boost in their food stamp benefits starting this month, the Biden administration announced Thursday evening.\n    \n"
     publishedDateTime: 2021-04-02T19:57:34Z

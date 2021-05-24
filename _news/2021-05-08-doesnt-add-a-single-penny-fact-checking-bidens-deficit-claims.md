@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/08/politics/joe-biden-infrastructure
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/08/politics/joe-biden-infrastructure-plans-deficit-fact-check/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden defends proposed tax hikes as helping 'the standard of living of people I grew up with'"
-    excerpt: "President Joe Biden grew animated on Wednesday while discussing his pitch to increase certain taxes to fund his sweeping spending proposals, saying his plan will not hurt most wealthy Americans and corporations, but will instead help the kind of people he grew up with.\n    \n"
-    publishedDateTime: 2021-05-05T21:28:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l6w257iNAkk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/joe-biden-defends-tax-hikes/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/joe-biden-defends-tax-hikes/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Fact check: Biden makes false claim about former Federal Reserve leaders, revives misleading jobs claim"
     excerpt: "President Joe Biden claimed last Wednesday that the last five leaders of the Federal Reserve had declared that his American Jobs Plan proposal will increase economic growth.\n    \n"
     publishedDateTime: 2021-05-10T22:59:41Z

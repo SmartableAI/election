@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/colonial-pipeline-white-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/colonial-pipeline-white-house-reaction/index.html"
 type: article
 quality: 172
-heat: -1
-published: false
+heat: 272
+published: true
 
 provider:
   name: CNN
@@ -31,97 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Biden raises refugee cap to 62,500 after blowback"
-    excerpt: "The Biden administration is set to raise the refugee ceiling to 62,500 this fiscal year, according to a source familiar with the discussions, after receiving swift criticism last month when President Joe Biden kept the lower Trump-era cap in place.\n    \n"
-    publishedDateTime: 2021-05-03T21:12:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kJryzBYedM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
+  - title: "Biden administration is open to sharing coronavirus vaccines with North Korea"
+    excerpt: "The Biden administration is open to sharing coronavirus vaccines and other humanitarian assistance to help North Korea combat the deadly pandemic, according to two sources familiar with internal discussions.\n    \n"
+    publishedDateTime: 2021-05-11T09:09:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z9CM_hlC2Go/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/us-coronavirus-vaccines-north-korea/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/us-coronavirus-vaccines-north-korea/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210502211626-joe-biden-0428-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505110405-file-pfizer-covid-19-vaccine-canada-december-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden urges passage of economic proposals in wake of dismal jobs report"
-    excerpt: "President Joe Biden said Friday the US economy is \"moving in the right direction\" but there is still a long way to go after a disappointing Friday jobs report fell well below expectations.\n    \n"
-    publishedDateTime: 2021-05-07T17:48:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a_R7bXc4Hpk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/biden-april-jobs-report/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/biden-april-jobs-report/index.html"
+  - title: "Biden says fuel situation will be 'under control' soon after officials warn against hoarding gas"
+    excerpt: "President Joe Biden said that the fuel situation in the US should be \"under control\" soon, just minutes before Colonial Pipeline announced it initiated the restart of its pipeline operations following a recent ransomware attack.\n    \n"
+    publishedDateTime: 2021-05-12T21:40:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/53rscxwamLY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/biden-officials-warn-hoarding-gasoline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/biden-officials-warn-hoarding-gasoline/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512111816-01-pipeline-gas-fallout-0512-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden tries to sell his agenda while Republicans go after their own "
-    excerpt: "President Joe Biden met Republican criticisms of his economic proposals head-on Friday, citing disappointing jobs data as a call to action for more government spending and brushing aside concerns that generous expanded unemployment benefits have kept Americans from returning to work.\n    \n"
-    publishedDateTime: 2021-05-08T04:02:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fbBT6xPcIpM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/08/politics/joe-biden-jobs-numbers-republicans-cheney-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/08/politics/joe-biden-jobs-numbers-republicans-cheney-trump/index.html"
+  - title: "Biden signs cybersecurity executive order, though rules wouldn't have applied to Colonial Pipeline"
+    excerpt: "President Joe Biden signed an executive order Wednesday meant to better protect the nation from cyberattacks, but even as he signed it, the White House acknowledged more will need to be done to prevent the type of hack that affected the Colonial Pipeline.\n    \n"
+    publishedDateTime: 2021-05-12T22:51:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512155902-04-pipeline-hack-fallout-0512-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden pushes economic aid proposals as GOP calls for paring back unemployment benefits"
-    excerpt: "President Joe Biden will focus in a speech Monday on how the administration is providing funding for states and localities, bolstering child care providers and helping Americans return to work safely, a White House official told CNN.\n    \n"
-    publishedDateTime: 2021-05-10T18:13:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JhPkmIHS3cA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/biden-employer-assistance-child-care-state-and-local-funding/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/biden-employer-assistance-child-care-state-and-local-funding/index.html"
+  - title: "Biden won't rule out a retaliatory cyberattack on group responsible for pipeline hack and says Russia isn't to blame"
+    excerpt: "President Joe Biden said Thursday he does not believe the Russian government was behind a cyberattack that shut down the pipeline supplying gasoline to the eastern US but said Moscow must do more to stop such attacks coming from Russia.\n    \n"
+    publishedDateTime: 2021-05-13T19:06:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YGEkudKnwU4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/cyberattack-russia-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/cyberattack-russia-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 152
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510004358-03-joe-biden-0507-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513132103-02-biden-colonial-pipeline-remarks-0513-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Congress faces make-or-break moment to secure bipartisan deals on key Biden priorities"
-    excerpt: "President Joe Biden's bipartisan push faces a crucial moment on Capitol Hill this month where talks over several big-ticket items could lead to major legislative victories hailed by both parties -- or they could collapse and prompt a bitter round of recriminations and open partisan warfare.\n    \n"
-    publishedDateTime: 2021-05-10T10:03:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQ1wJsWAgLI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/congress-agenda-biden-bipartisan-talks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/congress-agenda-biden-bipartisan-talks/index.html"
+  - title: "Biden administration officials privately frustrated with Colonial Pipeline's weak security ahead of crippling cyberattack"
+    excerpt: "Biden administration officials have privately voiced frustration with what they see as Colonial Pipeline's weak security protocols and a lack of preparation that could have allowed hackers to pull off a crippling ransomware attack , officials familiar with government's initial investigation into the"
+    publishedDateTime: 2021-05-11T20:20:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Jh-xa0KGqcM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/biden-administration-ransomware-frustration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/biden-administration-ransomware-frustration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504000658-us-capitol-building-0429-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fight for $15 minimum wage heats up after Biden's endorsement"
-    excerpt: "After two decades working for Walmart, Cynthia Murray says she only recently saw her pay go above $15 an hour."
-    publishedDateTime: 2021-05-08T13:02:00Z
-    webUrl: "https://www.cnn.com/2021/05/08/business/minimum-wage-biden-walmart/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 115
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507161449-minimum-wage-mcdonalds-jan-2021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510160035-01-colonial-pipeline-new-jersey-0510-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

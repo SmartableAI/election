@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to host George Floyd's family on anniversary of his death"
+    excerpt: "President Joe Biden will host the family of George Floyd at the White House on Tuesday to mark the one-year anniversary of his death at the hands of police, a White House official confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-05-23T13:58:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSTwWUAtvPM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420195034-joe-biden-april-20-2021-02-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration grants humanitarian protections to Haitians in the US"
     excerpt: "The Biden administration on Saturday granted humanitarian protection for Haitians in the United States, allowing an estimated 100,000 people to apply to remain lawfully in the US, according to the Department of Homeland Security and an administration official.\n    \n"
     publishedDateTime: 2021-05-23T01:04:02Z

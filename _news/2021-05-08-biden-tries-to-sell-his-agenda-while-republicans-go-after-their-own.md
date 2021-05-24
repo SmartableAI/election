@@ -31,99 +31,117 @@ images:
     isCached: true
 
 related:
-  - title: "Biden raises refugee cap to 62,500 after blowback"
-    excerpt: "The Biden administration is set to raise the refugee ceiling to 62,500 this fiscal year, according to a source familiar with the discussions, after receiving swift criticism last month when President Joe Biden kept the lower Trump-era cap in place.\n    \n"
-    publishedDateTime: 2021-05-03T21:12:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kJryzBYedM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
+  - title: "Biden on GOP move to oust Cheney: 'I don't understand the Republicans'"
+    excerpt: "President Joe Biden on Wednesday offered his first public reaction to the House GOP's efforts to oust Rep. Liz Cheney from party leadership, saying simply: \"I don't understand the Republicans.\"\n    \n"
+    publishedDateTime: 2021-05-05T16:47:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ishJlO_1ug/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210502211626-joe-biden-0428-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden urges passage of economic proposals in wake of dismal jobs report"
-    excerpt: "President Joe Biden said Friday the US economy is \"moving in the right direction\" but there is still a long way to go after a disappointing Friday jobs report fell well below expectations.\n    \n"
-    publishedDateTime: 2021-05-07T17:48:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a_R7bXc4Hpk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/biden-april-jobs-report/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/biden-april-jobs-report/index.html"
+  - title: "Joe Biden can't stop thinking about China and the future of American democracy"
+    excerpt: "White House aides were prepping President Joe Biden to virtually tour an electric vehicle battery manufacturing plant last week when the President suddenly shifted the conversation to something else entirely: China and the fate of democracy.\n    \n"
+    publishedDateTime: 2021-04-29T12:16:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fDLTDtTwHrE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220345-41-biden-address-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration scrambles to respond to cyberattack on critical pipeline"
-    excerpt: "Biden administration officials worked urgently Monday to ascertain the scope and fallout of a ransomware attack on the Colonial Pipeline, which supplies much of the eastern United States its gasoline -- an incident that laid bare vulnerabilities in the country's aging energy infrastructure.\n    \n"
-    publishedDateTime: 2021-05-10T17:27:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mxgCsj0tK9o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/colonial-pipeline-white-house-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/colonial-pipeline-white-house-reaction/index.html"
+  - title: "Republicans draw 'red line' on increasing taxes to fund Biden's infrastructure plan"
+    excerpt: "President Joe Biden faces a crucial moment on Wednesday in what is shaping up as an important week for his infrastructure priorities when he holds his first bipartisan meeting with the top four members of congressional leadership at the White House.\n    \n"
+    publishedDateTime: 2021-05-13T06:58:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qdyikHHEF_U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/joe-biden-meeting-congressional-leadership/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/joe-biden-meeting-congressional-leadership/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210508093128-file-colonial-pipeline-alabama-2016-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512120447-01-biden-bipartisan-meeting-0512-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden pushes economic aid proposals as GOP calls for paring back unemployment benefits"
-    excerpt: "President Joe Biden will focus in a speech Monday on how the administration is providing funding for states and localities, bolstering child care providers and helping Americans return to work safely, a White House official told CNN.\n    \n"
-    publishedDateTime: 2021-05-10T18:13:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JhPkmIHS3cA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/biden-employer-assistance-child-care-state-and-local-funding/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/biden-employer-assistance-child-care-state-and-local-funding/index.html"
+  - title: "Biden tells trans Americans he has their back as GOP governors sign more anti-trans bills"
+    excerpt: "President Joe Biden pledged his support for transgender Americans during his address to a joint session of Congress on Wednesday, telling members of the community he's standing by them at a time when they face a barrage of attacks by GOP-led state legislatures.\n    \n"
+    publishedDateTime: 2021-04-29T17:23:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GrlKJ2KN80k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510004358-03-joe-biden-0507-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212311-17-biden-address-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Congress faces make-or-break moment to secure bipartisan deals on key Biden priorities"
-    excerpt: "President Joe Biden's bipartisan push faces a crucial moment on Capitol Hill this month where talks over several big-ticket items could lead to major legislative victories hailed by both parties -- or they could collapse and prompt a bitter round of recriminations and open partisan warfare.\n    \n"
-    publishedDateTime: 2021-05-10T10:03:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQ1wJsWAgLI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/congress-agenda-biden-bipartisan-talks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/congress-agenda-biden-bipartisan-talks/index.html"
+  - title: "Biden says he no longer understands Republicans. He has a chance to figure the GOP out this week."
+    excerpt: "President Joe Biden used a fleeting handshake moment below Air Force One this week to pitch two Republican senators on his plan for infrastructure.\n    \n"
+    publishedDateTime: 2021-05-09T12:00:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZhiAce6Hm2I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/joe-biden-republican-party-bipartisanship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/joe-biden-republican-party-bipartisanship/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504000658-us-capitol-building-0429-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506155226-01-joe-biden-speech-louisiana-0506-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fight for $15 minimum wage heats up after Biden's endorsement"
-    excerpt: "After two decades working for Walmart, Cynthia Murray says she only recently saw her pay go above $15 an hour."
-    publishedDateTime: 2021-05-08T13:02:00Z
-    webUrl: "https://www.cnn.com/2021/05/08/business/minimum-wage-biden-walmart/index.html"
+  - title: "Cheney ousted from leadership post. The other 9 Republicans who voted to impeach Trump have also faced a backlash. "
+    excerpt: "House Republicans ousted Rep. Liz Cheney of Wyoming on Wednesday from her leadership post as conference chair after she repeatedly called out former President Donald Trump's \"Big Lie\" that the 2020 election was stolen.\n    \n"
+    publishedDateTime: 2021-05-13T02:13:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWgnuN7Dcp8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-ousted-house-republicans-impeachment-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-ousted-house-republicans-impeachment-vote/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 115
+    quality: 153
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507161449-minimum-wage-mcdonalds-jan-2021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227132733-01-adam-kinzinger-sept2020-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Live Updates: Little Progress in Biden Meeting With Republicans on Infrastructure"
+    excerpt: "G.O.P. leaders said that they remained at odds with the president about how to define infrastructure spending. House Republicans voted to remove Representative Liz Cheney from a leadership post for her continued repudiation of former President Donald J."
+    publishedDateTime: 2021-05-12T17:50:00Z
+    webUrl: "https://www.nytimes.com/live/2021/05/12/us/liz-cheney-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/05/12/us/liz-cheney-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/12/us/liz-cheney-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/12/lens/12new-washington-briefing-gop-header-promo2/12new-washington-briefing-gop-header-promo2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "aeq8IlLsaOHl4C7lCKqi1xYMEcg27FLX3JmFQNPlCb56QjYip1ziqGRkRdfl3nrzNQnbbJ+ON38MFYhbhFqlSYI/xrDn2GCmHqFZsHzTt51r7XoXPcwFjhdBPA8R8IOrBgsVBk4x0eVEr7Nf/1X9orEEPDFNZoVmS631Ywh475NJTvZyoRsCCOnheCUvmEh0CuOhM4VLqFWRhs6IWY8OjdPe6hTbOxfd5CJN5ohppRhi+Z7sXLLuzykGSum/ihLoporR3so/j2/1A/Y2xeyIlKluJtQz8EXrPaISpPpe7C/z5xhXZp86M7XkA9PonK3EiurusPgBtk1jb9mFSSOF6S0g7BM72LizHgNjRekp+iU=;5AlKzE8Hj2eZcvtazG/l6g=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/jill-biden-first-100-day
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/jill-biden-first-100-days/index.html"
 type: article
 quality: 175
-heat: 335
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,133 +31,97 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration completes North Korea review process"
-    excerpt: "The Biden administration has completed its months-long North Korea policy review, White House press secretary Jen Psaki announced Friday.\n    \n"
-    publishedDateTime: 2021-04-30T17:41:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WFLN6mdbJ18/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/north-korea-review-over/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/north-korea-review-over/index.html"
+  - title: "Biden to raise minimum wage for federal contractors to $15 an hour"
+    excerpt: "Two months after his effort to raise the federal minimum wage to $15 an hour ran into the Senate parliamentarian buzz saw, President Joe Biden is set to use his executive powers to hike the pay of hundreds of thousands of federal contract workers.\n    \n"
+    publishedDateTime: 2021-04-27T10:54:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QIwza8ZlXHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/minimum-wage-federal-contractors-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/minimum-wage-federal-contractors-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142512-joe-biden-march-25-2021-01-super-tease.jpeg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210426201308-biden-march-19-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says schools 'should probably all be open' in the fall"
-    excerpt: "President Joe Biden said Friday that K-12 schools \"should probably all be open\" in the fall for in-person learning after more than a year of most of the country's kids facing the challenge of remote instruction due to the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-04-30T13:46:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RQZMD1w0MgE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/biden-schools-reopening-fall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/biden-schools-reopening-fall/index.html"
+  - title: "Here's what's in Biden's $1.8 trillion American Families Plan"
+    excerpt: "A month after he laid out a roughly $2 trillion infrastructure plan aimed at helping the nation recover from the coronavirus pandemic, President Joe Biden is set to unveil an additional $1.8 trillion federal investment in education, child care and paid family leave during his first address to Congress"
+    publishedDateTime: 2021-04-28T09:16:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xHmZRxQNRQM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429104348-02-joe-biden-congress-0428-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427125800-01-joe-biden-0420-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The politics of takeout: Biden brings back the presidential lunch run"
-    excerpt: "The morning phone call from a government number. The swarm of Secret Service agents descending with their dogs. The rumbling black SUV pulling up at the appointed hour. The bag of tacos.\n    \n"
-    publishedDateTime: 2021-05-05T20:58:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I8tT1fvuOiY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/presidential-lunch-run-returns/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/presidential-lunch-run-returns/index.html"
+  - title: "Biden raises refugee cap to 62,500 after blowback"
+    excerpt: "The Biden administration is set to raise the refugee ceiling to 62,500 this fiscal year, according to a source familiar with the discussions, after receiving swift criticism last month when President Joe Biden kept the lower Trump-era cap in place.\n    \n"
+    publishedDateTime: 2021-05-03T21:12:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kJryzBYedM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505151629-02-biden-dc-restaurant-0505-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210502211626-joe-biden-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden hits the road to sell sweeping economic proposals after prime-time speech"
-    excerpt: "President Joe Biden hit the road on Thursday, traveling to Georgia to promote his sweeping economic proposals the day after making the case for the massive new government programs in his first address to a joint session of Congress.\n    \n"
-    publishedDateTime: 2021-04-29T16:11:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G6q768A_XAc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-georgia-economic-proposals/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-georgia-economic-proposals/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429104002-01-joe-biden-congress-0428-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How the Biden presidency looks from one pivotal Pennsylvania county, 100 days in"
-    excerpt: "Carol Erker vividly remembers the emotion that washed over her after Joe Biden won the 2020 election. Even as she worried about the pandemic and the Oval Office that Biden was inheriting, she felt like she could finally breathe.\n    \n"
-    publishedDateTime: 2021-04-28T11:41:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_SJQfHvatU4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/pennsylvania-swing-county-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/pennsylvania-swing-county-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427140259-03-biden-remarks-0427-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Biden's cautious stance on the bin Laden raid a decade ago tells us how he might handle a crisis now"
-    excerpt: "To most Americans, the main foreign policy accomplishment of former President Barack Obama's time in office was the killing of Osama bin Laden, the al Qaeda leader who evaded justice for 10 years after the attacks of September 11, 2001, and met his end in a raid by US special operations forces on May"
-    publishedDateTime: 2021-05-01T12:02:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z4H1jf440bc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/osama-bin-laden-death-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/osama-bin-laden-death-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429140203-02-afghanistan-al-qaeda-intl-cmd-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden hits schools goal even as many students still learn remotely"
-    excerpt: "Education Secretary Miguel Cardona applauded the nation’s progress but also drew attention to racial disparities, saying schools must do more to reach all students."
-    publishedDateTime: 2021-05-06T10:55:00Z
-    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-hits-schools-goal-even-many-students-still-learn-remotely-n1266479"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266479"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266479"
+  - title: "Biden to transgender Americans: 'Your president has your back.'"
+    excerpt: "President Biden's remarks, made during his first joint address to Congress, comes amid a wave of state bills targeting transgender people."
+    publishedDateTime: 2021-04-29T13:55:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-transgender-americans-your-president-has-your-back-n1265836"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265836"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265836"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_18/3470616/210506-biden-school-mc-1125_3e1d7158bb0d253a208700a0c8473551.JPG"
-        width: 2500
-        height: 1667
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_17/3468920/210429-joe-biden-jm-0914_55d23117dd074be99cdfcda3fe86cb9b.jpg"
+        width: 2040
+        height: 1360
         isCached: true
-  - title: "First Black House sergeant-at-arms announces Biden for joint Congress address"
-    excerpt: "The first Black House sergeant-at-arms Maj. Gen. William Walker announced President of Joe Biden for his first joint address to Congress."
-    publishedDateTime: 2021-04-29T01:19:00Z
-    webUrl: "https://www.nbcnews.com/video/first-black-house-sergeant-at-arms-announces-biden-for-joint-congress-address-111024197527"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111024197527"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111024197527"
+  - title: "Europe's backsliding democracies undermine Biden's united front"
+    excerpt: "President Joe Biden told Congress he wants to show that “democracy can deliver” after the United States “stared into an abyss of autocracy and insurrection.” But from France to Poland to the Balkans,"
+    publishedDateTime: 2021-04-30T13:57:00Z
+    webUrl: "https://www.politico.com/newsletters/global-translations/2021/04/30/europes-backsliding-democracies-undermine-bidens-united-front-492670"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619659009288_nbc_spec_biden_sergeantatarms_210428_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.politico.com/da/bc/89ed482f4862b339c70a33cc0fb0/politico-global-translations-shared-graphic.jpg"
+        width: 1201
+        height: 629
+        isCached: true
+  - title: "Fight for $15 minimum wage heats up after Biden's endorsement"
+    excerpt: "After two decades working for Walmart, Cynthia Murray says she only recently saw her pay go above $15 an hour."
+    publishedDateTime: 2021-05-08T13:02:00Z
+    webUrl: "https://www.cnn.com/2021/05/08/business/minimum-wage-biden-walmart/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507161449-minimum-wage-mcdonalds-jan-2021-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "0u/aFbkrmSYSPPkTY1IB5A95UvrjXuzb/0htpRzd6G8jWreZRanLw2BNoBaT22iCMI8Uxfog3ZwQCFJ2TI+qduuma5yxiQy3OfJ7gQBqYGhI5qfeIg0OsmqgiJ/BntBV+hnws65kPbdgRqwCj5dTgmKxnHBbI+5XaDSXbVrHS9pTmOIIo0VNXkb4WYGGBN0Tvy7j2RrfMs1PaGC01DeE3hrPC2S2PAEko1tNvxMp3dYZpsBDcZHdKJtnsupVkj7XKjkywrt2UdAGW3xuHFO6mr1JKYwZ4NZltDnLK+fM3ZzB6AP60VBMxMy6AEA+n+wf8Fa3cjstbNOKmx+1R3G3zXvtMuZVXx5GS8QFEiLXMRA=;X2dPkt6o1OPRNwnKdVaMBw=="

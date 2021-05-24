@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-o
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html"
 type: article
 quality: 180
-heat: 640
+heat: 600
 published: true
 
 provider:
@@ -111,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to tout reaching 200 million shots since taking office"
-    excerpt: "President Joe Biden is expected to tout the United States administering 200 million coronavirus vaccine shots since he took office in remarks on Wednesday, according to two administration officials.\n    \n"
-    publishedDateTime: 2021-04-21T13:57:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ioxRq6NM1_o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/biden-200-million-shots/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/biden-200-million-shots/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420195034-joe-biden-april-20-2021-02-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration unveils effort to strengthen cybersecurity of power grid"
     excerpt: "The Biden administration kicked off a 100-day effort on Tuesday to beef up cybersecurity in the nation's power grid, calling for industry leaders to install technologies that could thwart attacks on the electricity supply.\n    \n"
     publishedDateTime: 2021-04-20T15:50:34Z
@@ -188,22 +172,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411213734-01-myanmar-unrest-0411-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration expected to announce nine career diplomats will be US ambassadors"
-    excerpt: "The Biden administration plans to announce the nominations of nine career diplomats to be United States ambassadors as soon as Thursday, marking the first selection of overseas envoys since President Joe Biden took office, according to an internal list reviewed by CNN.\n    \n"
-    publishedDateTime: 2021-04-15T17:14:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WsT4lRtI9rM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/biden-ambassador-nominations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/biden-ambassador-nominations/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180502113209-president-trump-state-department-5-2-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -284,6 +252,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413125118-castro-warren-padilla-lieu-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Negotiations over Biden's infrastructure package continue in Congress this week. Here's what to watch"
+    excerpt: "Washington is staring down a bumpy road to infrastructure consensus.\n    \n"
+    publishedDateTime: 2021-04-19T10:06:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_3T6Y0Z-0o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/infrastructure-state-of-play/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/infrastructure-state-of-play/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131550-washington-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -380,22 +364,6 @@ related:
     quality: 131
     images:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3462742/210407-sanford-dam-al-1159_07000f5652b91bc448375e74cb695710.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Progressives will deliver their own response to President Joe Biden's speech to Congress"
-    excerpt: "Traditionally, the opposition party gives a rebuttal to the president's address. But this year, a member of Biden's own party will respond, too."
-    publishedDateTime: 2021-04-22T08:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/progressives-will-deliver-their-own-response-president-joe-biden-s-n1264880"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264880"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264880"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_16/3466730/210421-jamaal-bowman-ew-435p_d35a4131c8844eff13f4735c88a56a4a.jpg"
         width: 2500
         height: 1667
         isCached: true

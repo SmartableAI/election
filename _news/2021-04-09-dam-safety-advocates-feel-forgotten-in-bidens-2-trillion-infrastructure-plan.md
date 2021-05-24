@@ -128,22 +128,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to tout reaching 200 million shots since taking office"
-    excerpt: "President Joe Biden is expected to tout the United States administering 200 million coronavirus vaccine shots since he took office in remarks on Wednesday, according to two administration officials.\n    \n"
-    publishedDateTime: 2021-04-21T13:57:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ioxRq6NM1_o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/biden-200-million-shots/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/biden-200-million-shots/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420195034-joe-biden-april-20-2021-02-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration unveils effort to strengthen cybersecurity of power grid"
     excerpt: "The Biden administration kicked off a 100-day effort on Tuesday to beef up cybersecurity in the nation's power grid, calling for industry leaders to install technologies that could thwart attacks on the electricity supply.\n    \n"
     publishedDateTime: 2021-04-20T15:50:34Z
@@ -205,22 +189,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411213734-01-myanmar-unrest-0411-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration expected to announce nine career diplomats will be US ambassadors"
-    excerpt: "The Biden administration plans to announce the nominations of nine career diplomats to be United States ambassadors as soon as Thursday, marking the first selection of overseas envoys since President Joe Biden took office, according to an internal list reviewed by CNN.\n    \n"
-    publishedDateTime: 2021-04-15T17:14:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WsT4lRtI9rM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/biden-ambassador-nominations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/biden-ambassador-nominations/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180502113209-president-trump-state-department-5-2-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -304,6 +272,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Negotiations over Biden's infrastructure package continue in Congress this week. Here's what to watch"
+    excerpt: "Washington is staring down a bumpy road to infrastructure consensus.\n    \n"
+    publishedDateTime: 2021-04-19T10:06:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_3T6Y0Z-0o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/infrastructure-state-of-play/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/infrastructure-state-of-play/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131550-washington-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to provide $150 million to boost Covid response in underserved and vulnerable areas"
     excerpt: "The Biden administration on Monday will allocate $150 million from the American Rescue Plan to community-based health care providers across the nation to help boost their coronavirus response for \"underserved communities and vulnerable populations,\" an administration official told CNN.\n    \n"
     publishedDateTime: 2021-04-19T15:11:59Z
@@ -383,22 +367,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/16/us/politics/16new-washington-briefing-japanese-prim2/16new-washington-briefing-japanese-prim2-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Progressives will deliver their own response to President Joe Biden's speech to Congress"
-    excerpt: "Traditionally, the opposition party gives a rebuttal to the president's address. But this year, a member of Biden's own party will respond, too."
-    publishedDateTime: 2021-04-22T08:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/progressives-will-deliver-their-own-response-president-joe-biden-s-n1264880"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264880"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264880"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_16/3466730/210421-jamaal-bowman-ew-435p_d35a4131c8844eff13f4735c88a56a4a.jpg"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "HdG9S2Wx0f8X7MXwO4GwM8hUAxwvwAj6MQgm6KWXKTS7L1V9FD8HiPJ8wZJJ3LSFr6oha81XaZGuN8e7NOT+8Jkx8X06z5LMT90YPHN1/Vy7WwVwYjz0gEEcGPIYsgpPh2aL3YWUa0SKy/EVot8ml1RPoPdWT5DLWFhrhrqvbDQy5gj761SqJ3rJmXUDuoDrLUdXNpsbH2s2EN7Yk5aLQa3YMU3jOPc+ZzZmpT18TckIvQ4oPWU1UqJ5QWmLjPkIlHUXT8e7ymykf23RcpQc/oboLMg6LPCeq/IVotGtJ57M227hCXT+Xx9jebTEVa018SfWhpcuKHz70UnSV+5DCT+XdCNu8nVA5KzhXUOojUdaYUFQ64t7DhDJPCygya+y4dsY2FeYxFyIDIX9DrjshwY6iOF00bkQNwK3jX7Y/OycdUOYPBskxatBzsp3jHmntYoepxCnV5IsbvXlOI1xJgCYX8hZkLK2eQy85Ol5Hoq5OBbnZEytBni1GdGpfO6G1Q00amQr0/fivQtXFV3efA==;XVPLZOHWZOuk6ul2MGWvtQ=="

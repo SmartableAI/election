@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden and Harris condemn recent attacks on Jewish community in US and abroad"
+    excerpt: "President Joe Biden and Vice President Kamala Harris on Monday condemned recent attacks toward the Jewish community after several Jewish people were targeted in cities across the US and abroad as tensions flare over the Israeli-Palestinian conflict.\n    \n"
+    publishedDateTime: 2021-05-24T15:30:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wrjLWY7sFKc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-attacks-jewish/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-attacks-jewish/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 197
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Kamala Harris cements her place in Biden's inner circle during a consequential week"
+    excerpt: "Vice President Kamala Harris was huddled with other White House officials in President Joe Biden's private dining room last week when the room let out a \"collective exhale.\" A Minnesota jury had found Derek Chauvin guilty of murdering George Floyd.\n    \n"
+    publishedDateTime: 2021-04-25T13:41:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-94g7Epw80/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 194
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420191943-03-biden-harris-chauvin-verdict-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris headlines unity summit for AAPI community"
     excerpt: "Vice President Kamala Harris will serve as the keynote speaker for a virtual unity summit for Asian Americans and Pacific Islanders this week, her latest outreach to a community that has faced a wave of racially motivated crimes during the pandemic and is growing as a voting bloc.\n    \n"
     publishedDateTime: 2021-05-17T12:35:25Z
@@ -48,19 +80,35 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Harris to the Class of 2021: 'You have the strength to get through anything'"
-    excerpt: "Vice President Kamala Harris on Sunday applauded members of the Class of 2021 on their perseverance in earning their high school diplomas during the coronavirus pandemic, which upended classrooms and shuttered a number of extracurricular activities such as sports.\n    \n"
-    publishedDateTime: 2021-05-24T00:59:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5D7gErGc94Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/23/politics/kamala-harris-2021-graduation-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/kamala-harris-2021-graduation-cnntv/index.html"
+  - title: "Here's what's in Biden's counteroffer on infrastructure"
+    excerpt: "Nearly two months after President Joe Biden laid out his massive plan to upgrade the nation's infrastructure, White House officials presented a slimmed-down version as a counteroffer to Republican lawmakers who are seeking a much smaller program.\n    \n"
+    publishedDateTime: 2021-05-21T21:08:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvJPj7bwFGE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/biden-infrastructure-proposal-counteroffer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/biden-infrastructure-proposal-counteroffer/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 182
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419150953-01-kamala-harris-0419-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521164038-infrastructure-construction-0521-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden faces crunch moment in his presidency "
+    excerpt: "The Biden presidency and top Democrats suddenly face a moment of truth with an audacious nation-changing agenda imperiled by the treacherous political math of divided Washington and stiff resistance by pro-Trump Republicans.\n    \n"
+    publishedDateTime: 2021-05-24T09:15:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qlFN2tGDHd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/joe-biden-politics-economy-infrastructure-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/joe-biden-politics-economy-infrastructure-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520151830-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,6 +128,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence slams Biden for 'weakness' in handling of Israel-Hamas conflict"
+    excerpt: "Pence administration\" several times in the piece, using a phrase not often heard while he was in office. Former Vice President Mike Pence sharply criticized President Joe Biden in an op-ed Monday, calling the administration weak for its stance on the recent violent clashes between Israel and Palestinians."
+    publishedDateTime: 2021-05-18T04:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/pence-slams-biden-weakness-handling-israel-hamas-conflict-n1267719"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267719"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267719"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_20/3475555/214517-israel-iron-dome-missles-ac-953p_f99471a7be03d066bf80876d4fd3f3af.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "The Inside Story of the Biden-Harris Debate Blowup"
+    excerpt: "President Joe Biden and Vice President Kamala Harris have appeared so in lockstep that it’s hard to remember how tense their early campaign days were."
+    publishedDateTime: 2021-05-19T09:45:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/4c/03/650d2bf0425bb20686ba6b0bc31c/dovere-final-copy.jpg"
+        width: 2320
+        height: 1546
+        isCached: true
   - title: "Kamala Harris broke multiple barriers and found a tricky balancing act on the other side"
     excerpt: "Ami Bera described to Kamala Harris how he felt when he saw the ubiquitous photo that accompanied the coverage of her selection as vice president, of her as a child standing next to her mother clad in a traditional Indian sari."
     publishedDateTime: 2021-05-18T08:45:00Z
@@ -95,6 +175,20 @@ related:
       - url: "https://static.politico.com/c7/53/5be6f724454ea64041e61792792b/kamala-india-8.JPG"
         width: 1200
         height: 764
+        isCached: true
+  - title: "Biden's coming court conundrum"
+    excerpt: "President JOE BIDEN’s Supreme Court commission is set to meet for the first time on Wednesday, starting a clock that will require it to produce a report on reforming the court by Nov. 15. Some of the most ardent advocates of expanding the nation’s highest court couldn’t be less excited."
+    publishedDateTime: 2021-05-17T23:03:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/17/bidens-coming-court-conundrum-492880"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Harris, White House betting on Guatemala to help stem migrant influx"
     excerpt: "The Biden administration is most optimistic about working with Guatemala because it’s willing to talk about the tough issues. And it’s not Honduras or El Salvador."

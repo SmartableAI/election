@@ -126,22 +126,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence slams Biden for 'weakness' in handling of Israel-Hamas conflict"
-    excerpt: "Pence administration\" several times in the piece, using a phrase not often heard while he was in office. Former Vice President Mike Pence sharply criticized President Joe Biden in an op-ed Monday, calling the administration weak for its stance on the recent violent clashes between Israel and Palestinians."
-    publishedDateTime: 2021-05-18T04:09:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/pence-slams-biden-weakness-handling-israel-hamas-conflict-n1267719"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267719"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267719"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 160
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_20/3475555/214517-israel-iron-dome-missles-ac-953p_f99471a7be03d066bf80876d4fd3f3af.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "Biden adopting firmer tone with Netanyahu as decades-long relationship enters its most consequential moment"
     excerpt: "Joe Biden was in for a few surprises when he visited Israel in 2010.\n    \n"
     publishedDateTime: 2021-05-19T11:53:55Z

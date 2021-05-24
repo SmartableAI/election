@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-tr
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
 type: article
 quality: 135
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "8 Podcasts to Help Make Sense of Post-Trump America"
-    excerpt: "In the wake of a most untraditional presidency, these shows will keep you up-to-date on what’s happening in Washington and our politically polarized country."
-    publishedDateTime: 2021-04-21T15:02:00Z
-    webUrl: "https://www.nytimes.com/2021/04/21/arts/podcasts-trump-politics.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/21/arts/podcasts-trump-politics.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/21/arts/podcasts-trump-politics.amp.html"
+  - title: "Biden administration lifts Trump-era restrictions stalling Puerto Rico hurricane aid"
+    excerpt: "The Department of Housing and Urban Development also made $8.2 billion available to Puerto Rico, three years after Congress initially approved the aid."
+    publishedDateTime: 2021-04-21T14:50:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/biden-administration-lifts-trump-era-restrictions-stalling-puerto-rico-hurricane-n1264672"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264672"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264672"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
     images:
-      - url: "https://static01.nyt.com/images/2021/04/25/arts/25podcasts/25podcasts-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_16/2688286/181218-puerto-rico-hurricane-maria-damage-cs-449p_224914a1716ff83713dd32469cd273d7.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "New probe confirms Trump officials blocked Puerto Rico from receiving hurricane aid"
     excerpt: "Findings from a new inspector general report show how Trump officials blocked hurricane aid for Puerto Rico and obstructed a probe looking into the withholdings."
