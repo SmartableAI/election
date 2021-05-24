@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "GOP pivots to blast tax-and-spend Biden in bid to 'reclaim the mantle of fiscal responsibility'"
+    excerpt: "As President Biden pushes Congress to enact his agenda that could total upward of $6 trillion, an unprecedented government spending binge, congressional Republicans are saying they plan to \"reclaim the mantle of fiscal responsibility\" as the national debt soars above $28 trillion."
+    publishedDateTime: 2021-05-24T10:25:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUNULt5nmV0/republicans-fiscal-responsibility-biden-spending"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-fiscal-responsibility-biden-spending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-fiscal-responsibility-biden-spending.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "CBP chief says Mexican state stopped taking back some migrant families days after Biden inauguration"
     excerpt: "The acting head of Customs and Border Protection (CBP) said this week that a Mexican state through which many migrants travel into the U.S. stopped taking families with small children just days into the Biden administration -- a move that contributed to the administration releasing families into the"
     publishedDateTime: 2021-05-21T15:26:09Z

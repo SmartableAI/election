@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris to the Class of 2021: 'You have the strength to get through anything'"
+    excerpt: "Vice President Kamala Harris on Sunday applauded members of the Class of 2021 on their perseverance in earning their high school diplomas during the coronavirus pandemic, which upended classrooms and shuttered a number of extracurricular activities such as sports.\n    \n"
+    publishedDateTime: 2021-05-24T00:59:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5D7gErGc94Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/23/politics/kamala-harris-2021-graduation-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/kamala-harris-2021-graduation-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419150953-01-kamala-harris-0419-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House lays the groundwork for high-profile Kamala Harris visit to Mexico and Guatemala "
     excerpt: "The White House is laying down the groundwork ahead of Vice President Kamala Harris' first trip abroad as the lead on diplomatic efforts in Central America, hoping to finalize its strategy to take on the root causes of migration before she lands, multiple sources told CNN.\n    \n"
     publishedDateTime: 2021-05-19T15:02:27Z

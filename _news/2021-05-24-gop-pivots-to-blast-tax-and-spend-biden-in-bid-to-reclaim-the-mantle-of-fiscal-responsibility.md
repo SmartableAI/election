@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden administration drops plan for ICE deportation pause after legal defeat"
-excerpt: "The Biden administration has dropped its effort to impose a 100-day moratorium on Immigration and Customs Enforcement (ICE) deportations after a legal effort from Texas blocked the Biden campaign promise from taking place -- with the administration saying the time for it to go into effect has now passed."
-publishedDateTime: 2021-05-21T20:45:28Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QRJd2qspcvU/biden-administration-drops-ice-deportation-pause-legal-defeat"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QRJd2qspcvU/biden-administration-drops-ice-deportation-pause-legal-defeat"
-ampWebUrl: "https://www.foxnews.com/politics/biden-administration-drops-ice-deportation-pause-legal-defeat.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-drops-ice-deportation-pause-legal-defeat.amp"
+title: "GOP pivots to blast tax-and-spend Biden in bid to 'reclaim the mantle of fiscal responsibility'"
+excerpt: "As President Biden pushes Congress to enact his agenda that could total upward of $6 trillion, an unprecedented government spending binge, congressional Republicans are saying they plan to \"reclaim the mantle of fiscal responsibility\" as the national debt soars above $28 trillion."
+publishedDateTime: 2021-05-24T10:25:11Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUNULt5nmV0/republicans-fiscal-responsibility-biden-spending"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUNULt5nmV0/republicans-fiscal-responsibility-biden-spending"
+ampWebUrl: "https://www.foxnews.com/politics/republicans-fiscal-responsibility-biden-spending.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-fiscal-responsibility-biden-spending.amp"
 type: article
-quality: 172
+quality: 163
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9310ca8a-d753-4dfe-adbd-1e7942fdb670/2d18d808-1356-46cc-b738-a315b4ce73b6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden administration drops plan for ICE deportation pause after legal defeat"
+    excerpt: "The Biden administration has dropped its effort to impose a 100-day moratorium on Immigration and Customs Enforcement (ICE) deportations after a legal effort from Texas blocked the Biden campaign promise from taking place -- with the administration saying the time for it to go into effect has now passed."
+    publishedDateTime: 2021-05-21T20:45:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QRJd2qspcvU/biden-administration-drops-ice-deportation-pause-legal-defeat"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-drops-ice-deportation-pause-legal-defeat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-drops-ice-deportation-pause-legal-defeat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9310ca8a-d753-4dfe-adbd-1e7942fdb670/2d18d808-1356-46cc-b738-a315b4ce73b6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden administration grants temporary protected status to Haitian immigrants living in US"
     excerpt: "The Biden administration on Saturday announced it is granting Haitian nationals, who are currently living in the U.S., Temporary Protected Status for an initial 18 months amid ongoing security concerns and human rights abuses in the country."
     publishedDateTime: 2021-05-22T22:00:36Z
@@ -62,22 +78,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "GOP pivots to blast tax-and-spend Biden in bid to 'reclaim the mantle of fiscal responsibility'"
-    excerpt: "As President Biden pushes Congress to enact his agenda that could total upward of $6 trillion, an unprecedented government spending binge, congressional Republicans are saying they plan to \"reclaim the mantle of fiscal responsibility\" as the national debt soars above $28 trillion."
-    publishedDateTime: 2021-05-24T10:25:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUNULt5nmV0/republicans-fiscal-responsibility-biden-spending"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-fiscal-responsibility-biden-spending.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-fiscal-responsibility-biden-spending.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "State AGs ask Biden to withdraw education proposals supporting 1619 Project, critical race theory"
     excerpt: "A coalition of 20 state attorneys general called Wednesday for the Biden administration to withdraw education proposals that, they argue, are meant to promote critical race theory and the New York Times’ “1619 Project” in classrooms."
@@ -174,6 +174,6 @@ related:
         height: 720
         isCached: true
 
-secured: "cQva0kst1uQ/IS7pd3wZQmxPJBEhANC6WIMevD8KWKIVo8CsWbaNdFTivU8pdO/hhEjXAPtsAZ1kZZWWOH6K+XP5lbBv1BWL6um8Q49cCvtW1rhucxfwSxZ3gDMzzL7T2abwGTh4z6CRkrQMwgaXx+bx7C4/nkq4dh+c/IqqxoZiUlwHYE0q7h/3+6p6xpw3loXKeOXEJzLMxf25LHVUG1nDtnARiVPI2eStJNGuD0KYuaQLwNqCxzojRqY9WDjZdrqHHyiHdFyaLRa5rDyLPJd/BP55T40TV5kWZvPHDckbzMfas9eIWSFf/vMgAgp17SzzFgdoYbGF/lolWgjY0xoGO2GY3YpGK5FwcTQH7Bk=;7OVvfR50DcW+Va0cwvZmzg=="
+secured: "V9NhdruQ96ZfHrGzbPHwUinh6CuEmxiP31x9XRBbt/iMGvBGFB5JEII0e1YkAwJ1f3+j6baY+I+oHfm/Ku3fAkyDyMtSMEP7qKMTS52QV3GnHLQyBdFFAXuG8prp9I1aqhZpmOrMhyvrq/foxvAuLTJfSg+UZb3HEtGEjoEysR3lTGKpNy4hlWUbp7PpgflJx4EQEG0y1gXnCXeTgKGZHhYNnZQON2TyH1EDkT81F3QHBK4nEFrGdGH1bY1fdXo7OTWTqH5L+Tub2OZr7oaHvXEpbZrzup8F9b021fzUZnQF4SaINGoKjKpw2q9jtP2OmAOSNZ7NUJ7cSNDReUiDfxsRiMHfWvEWIMnPA2xizrM=;3Ko0lqP4u1GEbQ7kIUATww=="
 ---
 

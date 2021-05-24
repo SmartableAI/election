@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Harris headlines unity summit for AAPI community"
-excerpt: "Vice President Kamala Harris will serve as the keynote speaker for a virtual unity summit for Asian Americans and Pacific Islanders this week, her latest outreach to a community that has faced a wave of racially motivated crimes during the pandemic and is growing as a voting bloc.\n    \n"
-publishedDateTime: 2021-05-17T12:35:25Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7-wnMIXHIqU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7-wnMIXHIqU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summit/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summit/index.html"
+title: "Harris to the Class of 2021: 'You have the strength to get through anything'"
+excerpt: "Vice President Kamala Harris on Sunday applauded members of the Class of 2021 on their perseverance in earning their high school diplomas during the coronavirus pandemic, which upended classrooms and shuttered a number of extracurricular activities such as sports.\n    \n"
+publishedDateTime: 2021-05-24T00:59:49Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5D7gErGc94Y/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5D7gErGc94Y/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/23/politics/kamala-harris-2021-graduation-cnntv/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/kamala-harris-2021-graduation-cnntv/index.html"
 type: article
-quality: 185
-heat: 285
-published: true
+quality: 182
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -26,12 +26,28 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427164345-01-kamala-harris-file-0422-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419150953-01-kamala-harris-0419-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
+  - title: "Harris headlines unity summit for AAPI community"
+    excerpt: "Vice President Kamala Harris will serve as the keynote speaker for a virtual unity summit for Asian Americans and Pacific Islanders this week, her latest outreach to a community that has faced a wave of racially motivated crimes during the pandemic and is growing as a voting bloc.\n    \n"
+    publishedDateTime: 2021-05-17T12:35:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7-wnMIXHIqU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427164345-01-kamala-harris-file-0422-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris to keynote star-studded CNN special honoring Class of 2021 "
     excerpt: "CNN will air a star-studded prime-time special on Sunday honoring the class of 2021, as millions of students across the nation graduate following a year shaped by the coronavirus pandemic.\n    \n"
     publishedDateTime: 2021-05-19T13:01:19Z
@@ -45,22 +61,6 @@ related:
     quality: 184
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200707101823-us-college-graduation-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Harris to the Class of 2021: 'You have the strength to get through anything'"
-    excerpt: "Vice President Kamala Harris on Sunday applauded members of the Class of 2021 on their perseverance in earning their high school diplomas during the coronavirus pandemic, which upended classrooms and shuttered a number of extracurricular activities such as sports.\n    \n"
-    publishedDateTime: 2021-05-24T00:59:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5D7gErGc94Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/23/politics/kamala-harris-2021-graduation-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/kamala-harris-2021-graduation-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 182
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419150953-01-kamala-harris-0419-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,6 +111,6 @@ related:
         height: 773
         isCached: true
 
-secured: "M87LTHLKPcViHVe7tH3jK25aXNqISgGk8Vjv3COE4btZPp5G0q9GoZuVKCiPjbt9+c4Tjh2AFyTR2PoPwLg7tiibNq3YVgxZXYGvfkdUvbMjv/5mzJJ23Co7pAGJxrZRd+Kv7sPnLIEGt9A1fh/QJeU7G8RLpB5IGjQupZGeuoChonDLKoe24fxFExi8o2xaDtxMVKzPkEd3/hHJScn3rnkL6Z7G3EG78fa+AeqtTyFm7IC5etNNRa5hUasbiz+r7A4QDKjkOwnOpyIC2HrqtDdZDam4pH5tH783CUtyOBD6F19jWIhFlHfDAzOMKATbKZ+S10OB6PqRb6nxeXN1z/FROA/uBQJRaF0355wQVSY=;BvFQ55bpXT3pxEDbBIx27Q=="
+secured: "lzvb0munGDTRksPzh/fgV+8Ju9m7Wg0tuq1m0y5R0UzliOFSw1F0/ACOb67gaLgcy+gqFVHhCbwH9nZQtsD6wRvQ45JOn0bsEB+MnBA/R5Smt89LcZbTZnuV6oBvK5rL94cYXdvMfFi/sNyQqq9//SVe6/v6Nh2lAdbvb1dZvFYKKuZjWK+Ayg7KonVfO8IamdGmaj6wSEok4Ro6GLDwwJZIJ8Xm//AjeDz13CO0wDFQQs/uwQQG760CXFbXB7orRqjt5/i6AI56wpGTx8k6j70qoRCSTfoKFHVkqvfXEuwgQLdfk79uG+Thh0wpde+2RRy0q3ZsOgI4lcw5V3obf0hCzCr4TXlXk94YR3eynbs=;/85uhvEUd1lIDJnJLjXbAQ=="
 ---
 
