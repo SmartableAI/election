@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Michael Cohen said he believes Trump will 'flip on all of them,' including his children, in the New York investigation into his company"
-excerpt: "Cohen, Trump's former lawyer and fixer who is cooperating with prosecutors, said: \"I really believe that Donald Trump cares for only himself.\""
-publishedDateTime: 2021-05-20T06:40:00Z
-originalUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5"
-webUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5"
-ampWebUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5?amp"
+title: "Donald Trump faces ‘show of strength’ in N.Y. prosecutor team-up"
+excerpt: "Former president Donald Trump is facing a rare combination of forces by two New York prosecutors, a development that indicates criminal charges may be looming closer, legal experts said."
+publishedDateTime: 2021-05-24T01:30:00Z
+originalUrl: "https://www.detroitnews.com/story/news/politics/2021/05/23/trump-faces-show-strength-ny-prosecutor-team/116460168/"
+webUrl: "https://www.detroitnews.com/story/news/politics/2021/05/23/trump-faces-show-strength-ny-prosecutor-team/116460168/"
 type: article
-quality: 93
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/60a5e132f27b4c001944582e?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.gannett-cdn.com/presto/2021/05/21/PDTN/f8b240b2-975d-42bd-99be-c98ee1083960-AP21139103607478.jpg?crop=641,361,x211,y74&width=1600&height=800&fit=bounds"
+    width: 1420
+    height: 800
     isCached: true
 
 related:
@@ -79,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Michael Cohen said he believes Trump will 'flip on all of them,' including his children, in the New York investigation into his company"
+    excerpt: "Cohen, Trump's former lawyer and fixer who is cooperating with prosecutors, said: \"I really believe that Donald Trump cares for only himself.\""
+    publishedDateTime: 2021-05-20T06:40:00Z
+    webUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/60a5e132f27b4c001944582e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Val Demings, who rose to national prominence as a Trump impeachment manager, plans to challenge Marco Rubio in the 2022 Florida Senate race"
     excerpt: "As a former Orlando police chief, Demings, a three-term Democratic congresswoman, could offer a compelling perspective on issues of policing reform."
     publishedDateTime: 2021-05-18T15:06:00Z
@@ -125,20 +135,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Donald Trump faces ‘show of strength’ in N.Y. prosecutor team-up"
-    excerpt: "Former president Donald Trump is facing a rare combination of forces by two New York prosecutors, a development that indicates criminal charges may be looming closer, legal experts said."
-    publishedDateTime: 2021-05-24T01:30:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/05/23/trump-faces-show-strength-ny-prosecutor-team/116460168/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/21/PDTN/f8b240b2-975d-42bd-99be-c98ee1083960-AP21139103607478.jpg?crop=641,361,x211,y74&width=1600&height=800&fit=bounds"
-        width: 1420
-        height: 800
-        isCached: true
   - title: "Trump Says New York Criminal Probe Is in 'Desperate Search of a Crime'"
     excerpt: "Former President Donald Trump on Wednesday attacked New York state's attorney general for launching a criminal probe of his family business, saying he was \"being unfairly attacked and abused.\" \"There is nothing more corrupt than an investigation that is in desperate search of a crime,"
     publishedDateTime: 2021-05-19T16:49:00Z
@@ -176,6 +172,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "bB3+Km6xzDqqK5PQHlCTW9VP/gT5WOp90zUq9H7MFD1ju6KEavAcuIX5SoV0BZMg6MPg4obBC86/bHI+K/aTCCeJ6jQUEee103FnrkOhYrWmJJm8OGckNgIwWZE1Fz/nk3I4BL0EeIcvGVu3/QiRDdVy2plpOxquKvb//d7Rwo/Il2CvRbC5I5kzoatJmn1kHTaEjUvmzkW2z0Vtuxs2tvVvv46TRytwhP/n9TU+iN5WcBZegdFFrcAw01HVtGtds8S0vFpI261AzAZhT64Mh4no6pWI4MZmgIU0pcNRPk8L+kk+NGRFYZUrCm68e0HAtK6HVN/wp+cfLgepZUJ9z9j4qY2xgqm6wNzKXl948R8OkSa5DCttXFJZll2MTCptGhnYRmcgJTI9IF444wgpXkrcwfRip4TkXFJHfgq31WxJCq+3WQPMMHR6mzYSE9qy/qLxjmX42wTEeWahnXJmoQ6ptWt0qpq1vXVC0wDdQ3nxKJ3BuWcQdeRi+rPyHSFMuq0ESoGjPlnKsT75HWrpQA==;YqlG7xKwzNBWOaeTx7HvSg=="
+secured: "c7mWwHYBBQwyie7t/jm18cALxqkY5HjIBDphxrJkAn/DEzrkZvSCWAkWkl4SrPlcNk/D1qO8c7IwLnQsF9293aBezOn82ONMxEdiRYTKLf7XGuybZ2C6BUok1vqH+bBCLIHgrCiiqmpfRE1a6I+1nEhYZEmAIx1O1Kkm0HYDD4jyfGCMbtBHB5c6IgV69g9fEf/d8NGcJwZycUB5Jnm1x8w2aXcNFqmkDt0Az7Xi3yK00KeMB2oLuBevNel8DZj4T+J6CT3ytkUCcivTM8nvnf0cc1nHTUZzWeSXWy+SBBIbIEhKa33drIU1M0oocJ8ZHNy0e+FUdaxzaYju1B2lUQdlwc1pqROlwvAcX0d+0+Q=;ULmmP4S4CwrfG6nLZYIn/g=="
 ---
 

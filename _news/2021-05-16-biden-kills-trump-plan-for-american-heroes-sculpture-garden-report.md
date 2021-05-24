@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-kills-trump-plan-for-american
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.amp"
 type: article
 quality: 190
-heat: 490
+heat: 510
 published: true
 
 provider:
@@ -270,6 +270,20 @@ related:
       - url: "https://assets.realclear.com/images/54/543043.jpg"
         width: 3117
         height: 2078
+        isCached: true
+  - title: "Joe Biden, Crisis Diplomat"
+    excerpt: "President Joe Biden made an unexpected appearance at the White House, in front of a press corps that had been hastily called back to work. Welcoming the apparent end of an eleven-day war between Israel and Hamas,"
+    publishedDateTime: 2021-05-23T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/23/joe_biden_crisis_diplomat_543402.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543986_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "qyw/tWLtivxd9C/1t+xOYIK66pVS4T+Ngx03IDO6XhN3vA0NSdU3LONzpI0+VpGfNniAmyWhqjmAyp82qcVtVsVnz6Q+xadMh/mmjPaDoUspIqO4OLT8JVqZG7wGimoCY+nPDrI707vFxHG7GR/XDY1lysM5Sjm9kMPwJEPv9gd+wM3Ls/XKwmCF7BbsQlgzQaIuIyIMLr0ypWx9zYoizBGoGX0teBzyFiVBwxZsCinvpLX9W79rYeC6G1HLzNVfki8RNW9/nYjcsm9io/ioUH41Cc4UrgNOjbt00Pp818mHfR2G+6A7S0nahJPVFmWAvBc7IQtH0dqZXG4KckhmwmQMSxPOotg66y3imYanSzI=;VO22FECXrnoDfX8B4xWutQ=="

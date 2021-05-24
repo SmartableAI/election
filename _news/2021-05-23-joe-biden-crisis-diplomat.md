@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Biden rolls back Trump order barring immigrants who can't afford health care"
-excerpt: "President Biden revoked a Trump-era order that banned immigrants from obtaining visas who couldn’t prove they could obtain health insurance or pay for health care."
-publishedDateTime: 2021-05-15T19:25:00Z
-originalUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care"
-webUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care"
-ampWebUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+title: "Joe Biden, Crisis Diplomat"
+excerpt: "President Joe Biden made an unexpected appearance at the White House, in front of a press corps that had been hastily called back to work. Welcoming the apparent end of an eleven-day war between Israel and Hamas,"
+publishedDateTime: 2021-05-23T00:00:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/05/23/joe_biden_crisis_diplomat_543402.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/05/23/joe_biden_crisis_diplomat_543402.html#!"
 type: article
-quality: 147
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/54/543986_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -160,6 +154,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden rolls back Trump order barring immigrants who can't afford health care"
+    excerpt: "President Biden revoked a Trump-era order that banned immigrants from obtaining visas who couldn’t prove they could obtain health insurance or pay for health care."
+    publishedDateTime: 2021-05-15T19:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "'Really scary' to see gas shortages in first months of Biden admin: Lara Trump"
     excerpt: "Fox News contributor Lara Trump sounded the alarm on America's energy independence under the Biden administration, Wednesday, telling \"Fox & Friends\" that the Colonial Pipeline cyberattack and resulting panic at the pump is \"really scary."
     publishedDateTime: 2021-05-12T15:14:00Z
@@ -272,21 +282,7 @@ related:
         width: 3117
         height: 2078
         isCached: true
-  - title: "Joe Biden, Crisis Diplomat"
-    excerpt: "President Joe Biden made an unexpected appearance at the White House, in front of a press corps that had been hastily called back to work. Welcoming the apparent end of an eleven-day war between Israel and Hamas,"
-    publishedDateTime: 2021-05-23T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/23/joe_biden_crisis_diplomat_543402.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/543986_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "Hh00rMszlTXM4JjDaYY6Rdiwlm6X/iDX3aMh/zoi+FuEJdUIcZvWne818FaJVCVQB9tIi8ruQQlTPDrbM+yNTPAAXjhRJBAaLYiuH6NGF8aobWQJGxoxVAcu2fRKnECVDTnlUx3XoGqqsLuggdZbM8dvEJXBKOun50L4KyGPIiBteY9yx8JzytAAEGsW3fGUgAhfAZIVAQGeBPRLzergfRxPEiJxeBgFXx9A7V9fB4Q1/Qw4xX+z2l7AV+pkkQe4DR5/vEKtUPQJPJHjYUijyV+JyIiI3nCOHp5hCcbNDypQZizB4vXxWiQRSoMO/U0lDcFqh60hW4fSljkdD2aHt3pVOJSNIMKTtyCrczZowmk=;us/p4eOoPbJPUuMMnzHoQQ=="
+secured: "zYJICokxYyBcqR7Da9myG+ERRyg5FbjmFuWieQg5aA/nGRkf5on45zHXlgtEskQvtDvYZamjX/SuvOqiQil/Mj+ch3nfzUW9sWFSe7WBbIu+yOWtLn0KWl1+6MONRicSQg9Ggfn/vskKUA9kAI6gcNGJQMifS0xRhQlpuI/YVDGXCBPKjATfjm3rwQTS3e3P9I2845r0tr9AdvTS6INJKitdxPdYlyUKCHZal+R5TMctfzOYRZJIZLfE37r8xl9Tg7x+f5kCMofbGq4sjBMhqJRHugrVgFEjKEWQ+lMuV5t0UIHDObZv3Oo2YqggjZ1jZ9aQhxJjIvp9u3LquTI2NarqOviBKoR9KLSS8so+RMk=;CREyOjsHw3CImQGG9iLEwA=="
 ---
 

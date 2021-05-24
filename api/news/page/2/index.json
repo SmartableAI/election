@@ -2,6 +2,106 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-21-walshs-baggage-arrives-in-dc-boston-awaits-ruling-after-white-hearing-mail-voting-compromise-warren-pushes-biden-on-childcare.md",
+      "title": "WALSH’S BAGGAGE arrives in D.C. — BOSTON awaits RULING after WHITE hearing — Mail voting COMPROMISE — WARREN pushes BIDEN on CHILDCARE",
+      "excerpt": "Labor Secretary Marty Walsh was on a press call Thursday talking about climate change with other senior Biden administration officials. He didn’t take questions. But as the former Boston mayor went about his new day job,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2021/05/21/bpd-controversy-reaches-dc-492952",
+      "originalUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2021/05/21/bpd-controversy-reaches-dc-492952",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-joe-biden-welcomes-south-koreas-moon-jae-in-to-dc-for-summit.md",
+      "title": "Joe Biden welcomes South Korea's Moon Jae-in to D.C. for summit",
+      "excerpt": "President Joe Biden welcomed South Korean President Moon Jae-in to the White House Friday to discuss several issues of importance between the two longtime allies, including North Korea's nuclear program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/05/21/joe-biden-moon-jae-in-summit-korea/8971621592273/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/05/21/joe-biden-moon-jae-in-summit-korea/8971621592273/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/ph/st/th/8971621592273/2021/upi/2813353be3fcd632f7f30032bedd183d/v1.5/Joe-Biden-welcomes-South-Koreas-Moon-Jae-in-to-DC-for-summit.jpg?lg=2",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/05/21/joe-biden-moon-jae-in-summit-korea/8971621592273/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/21/joe-biden-moon-jae-in-summit-korea/8971621592273/",
+      "publishedDateTime": "2021-05-21T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-since-leaving-office-trump-has-charged-the-secret-service-more-than-40000-to-use-space-at-mar-a-lago.md",
       "title": "Since leaving office, Trump has charged the Secret Service more than $40,000 to use space at Mar-a-Lago",
       "excerpt": "Trump charged his own protective detail $396.15 per night to rent a room near him, and U.S. taxpayers footed the bill, documents show.",
@@ -1236,105 +1336,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-biden-tells-coast-guard-cadets-nations-at-significant-inflection-point-calls-class-dull-after-joke-bombs.md",
-      "title": "Biden tells Coast Guard cadets nation’s at ‘significant inflection point,’ calls class dull after joke bombs",
-      "excerpt": "Emphasizing the importance of their mission ahead in a quickly changing world, President Biden told graduating Coast Guard cadets on Wednesday that “we need you badly - that’s not hyperbole.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPsiZ9RWCNg/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPsiZ9RWCNg/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point.amp",
-      "publishedDateTime": "2021-05-19T11:52:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-fact-check-mike-pence-was-not-shot-while-fleeing-military-arrest-on-april-14.md",
-      "title": "Fact Check-Mike Pence was not ‘shot while fleeing military arrest’ on April 14",
-      "excerpt": "Posts sharing information that former Vice President Mike Pence was shot while fleeing military arrest are false. There is no credible evidence to support this claim.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/factcheck-pence-shot-idUSL2N2N62VB",
-      "originalUrl": "https://www.reuters.com/article/factcheck-pence-shot-idUSL2N2N62VB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2N62VB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N62VB",
-      "publishedDateTime": "2021-05-19T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

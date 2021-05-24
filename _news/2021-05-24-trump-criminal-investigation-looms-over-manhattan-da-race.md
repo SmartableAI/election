@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-criminal-investi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -125,6 +125,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Donald Trump faces ‘show of strength’ in N.Y. prosecutor team-up"
+    excerpt: "Former president Donald Trump is facing a rare combination of forces by two New York prosecutors, a development that indicates criminal charges may be looming closer, legal experts said."
+    publishedDateTime: 2021-05-24T01:30:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/05/23/trump-faces-show-strength-ny-prosecutor-team/116460168/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/21/PDTN/f8b240b2-975d-42bd-99be-c98ee1083960-AP21139103607478.jpg?crop=641,361,x211,y74&width=1600&height=800&fit=bounds"
+        width: 1420
+        height: 800
+        isCached: true
   - title: "Trump Says New York Criminal Probe Is in 'Desperate Search of a Crime'"
     excerpt: "Former President Donald Trump on Wednesday attacked New York state's attorney general for launching a criminal probe of his family business, saying he was \"being unfairly attacked and abused.\" \"There is nothing more corrupt than an investigation that is in desperate search of a crime,"
     publishedDateTime: 2021-05-19T16:49:00Z
@@ -162,6 +176,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "2s7+ISqoMvXWLQ5/Z9Bmoxmmib7ctLQWiAwB1OIiERbMQoU9PsrOHG0cTsuHnbLCkoUf6Or4vy7NPiQIf3u6gK8qVfzCs4PvatoBU9ByZnNxly06BLq2cPLzOutiJqiuWTFUKG6S9nNb3UnZFTLneUqa7Dtht2C0BlRZ2ni0IbWNwOh/qwmQDAFTCk/UR99jhIMfEYZKSu1Jz5a87lxPIyKmrKOBwDbyD2fcB6dpjSt6gZp+2UFskZXCCKKm5BnMrXB6yMaZCYPWRZ0PM1EqrBAS/mVvWTjTitJmmJ87stOfeoTcCijZVk7/OfW55ntCH5eCsrlLp17L/TMNjjsZPgkjuQeZbooDnmBlzVciW7Y=;H9MiRJBhJoUR/1ouub4zPA=="
+secured: "TIl4dELobkDCwIm3/EQHQsy8yCQQMKd0/zvMghUytxmbQ0quVen4rFyl74WpbgiofbQ3sK/RzasrbHK7+piqb7Pp9NcI0OpYpN4T5MKEeRuPpwXSfViLjqqCbCkoWz7SHxHzgy4Lm0xaqDMeufsjTp8nPn4Ux/ysOhpU2axV0VqcM0Im83WDj7ljNaiIDu5ClBdfrZyg2z0G0dRquYWFODb3Wr/JvK4l9OsgTghrZ3tVkg2tkhwufy6fpqViZarrMFkuTjxf1pEHOARD2LwqtRtfehPVxhbOB+CNoboFzNveSrhGbjO6jDTtKeAOIJi1m2f05MKCYxue7TwFlA7xRzN/GQ1YTCFpfFjN2wehjeHpH3klOWtxQFunE0yAynb64XGgYjn84PBcUc4deBy65NnC2+7Gj0DqQtkrceEMVnBHINpwHh9lwrB322aDBHIeKVS4eSYQN2KbqRe5LMI5Ff3RfvGdzEGvO6Y/zThP7n0XNW70QsZxqI01SoJz76dQfXTgeGqahBS43Fhx9xxcrg==;VEgeRYGddS0B+B1WhbeDXw=="
 ---
 

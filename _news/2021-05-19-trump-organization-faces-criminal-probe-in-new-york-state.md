@@ -125,6 +125,20 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Donald Trump faces ‘show of strength’ in N.Y. prosecutor team-up"
+    excerpt: "Former president Donald Trump is facing a rare combination of forces by two New York prosecutors, a development that indicates criminal charges may be looming closer, legal experts said."
+    publishedDateTime: 2021-05-24T01:30:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/05/23/trump-faces-show-strength-ny-prosecutor-team/116460168/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/21/PDTN/f8b240b2-975d-42bd-99be-c98ee1083960-AP21139103607478.jpg?crop=641,361,x211,y74&width=1600&height=800&fit=bounds"
+        width: 1420
+        height: 800
+        isCached: true
   - title: "Trump Says New York Criminal Probe Is in 'Desperate Search of a Crime'"
     excerpt: "Former President Donald Trump on Wednesday attacked New York state's attorney general for launching a criminal probe of his family business, saying he was \"being unfairly attacked and abused.\" \"There is nothing more corrupt than an investigation that is in desperate search of a crime,"
     publishedDateTime: 2021-05-19T16:49:00Z
