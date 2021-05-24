@@ -1,26 +1,30 @@
 ---
 category: news
-title: "With Tall Trump Tale, Macron Plays to France's Young Voters"
-excerpt: "With great relish and a straight face, France's president told a series of tall tales in a YouTube video that quickly went viral."
-publishedDateTime: 2021-05-23T17:45:00Z
-originalUrl: "https://www.usnews.com/news/entertainment/articles/2021-05-23/with-tall-trump-tale-macron-plays-to-frances-young-voters"
-webUrl: "https://www.usnews.com/news/entertainment/articles/2021-05-23/with-tall-trump-tale-macron-plays-to-frances-young-voters"
+title: "With tall Trump tale, Macron plays to France's young voters"
+excerpt: "Filmed in the French presidential palace with two of France's most popular YouTube stars, the half-hour of banter, tall tales, and a grungy rendition of “La Marseillaise\" by heavy-metal band “Ultra Vomit” represented Macron's most audacious effort yet to woo young voters."
+publishedDateTime: 2021-05-23T21:13:00Z
+originalUrl: "https://www.chron.com/entertainment/article/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
+webUrl: "https://www.chron.com/entertainment/article/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
+ampWebUrl: "https://www.chron.com/entertainment/amp/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Since leaving office, Trump has charged the Secret Service more than $40,000 to use space at Mar-a-Lago"
@@ -40,6 +44,6 @@ related:
         height: 930
         isCached: true
 
-secured: "P3AhD8Fweogki+XCMLXdRr2geWnRwY5ktMM+2qDnE7YUbKyaeeDp7OsB0Rz9rK8jHLTcW8nAmvvHoDacs10aH3cUNLndv3rozBywqHL3Ee8g+dUhgYqKSTBd/vfsquvQmMaRd2uceh3tOtcX/A5CxqzsjXK7MK1ltI4turE4WSuAbCXnjts3KlMIyBPiA+ZwN89THR9OeGB6w3Z6L70blfhFTid09vDqrwKxp2HKxVcrhqcHzjXjRywK+G47k6Ed+cxLOKsACbXSX7tPUH56IohBcME58H48eSZthDo6AZ1JSzFkUGLdrDggqg3Atu3g+NAqUH8dXwY12TUgGNTr4BXccgG8kgQ9u+B4LmngEWiZhy6iNlyQU39VJ3T3w3H55Pc7zoXK25ov8MqVsLmQbBICy5VvO/giChWuHTzPQE8ha33n0cKKIxFTL9+3xuFGEhSZPvi9X9+AK+esZl2hOWj2qOJDM2+nd8ffy14yS95GEmPletC8Rvr588aEZQUZvgASz+2tw2SVW+fZtr3W7A==;NFJpjsXijM/pa+0PS7YKgA=="
+secured: "XJz27MXLzmDQV5FovWApLbmOHjLml0oBv3GWmN8j4UVF1J8p8Wi29UM1qDidNmMEvZJE+O97jL5bqSOpd3A32e6xJf7D6ligheRSXgxrProQ6zZlGMyirVqPMXYzR0J62hysuW4I3+uPQ5F4hmhelJXy2ZflyS2uDhZt3wOjsTqq9vf6gSCJG9jB1+LieYgztbKKTp4cNpFbEBhDYMag8K5aD0bGLOS3XJkokezrXNvZ48gUOfwPtP1UOPZGhYCr3lwiGB/azHRbI40B3qfP0FBWjFIAeKDM8XYZ5AQeOStDfBSHl2x5QWff0Bm4RPCbhWvxUIcc/93J8Xq3RF3VL9XYejm6xyfsK9B1Ep3jchs=;zIqX1NYuI2P3npqOF67jDQ=="
 ---
 
