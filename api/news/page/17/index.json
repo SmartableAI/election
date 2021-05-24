@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-17-lawyers-doj-defense-in-trump-defamation-suit-is-dangerous.md",
+      "title": "Lawyers: DOJ defense in Trump defamation suit is 'dangerous'",
+      "excerpt": "Lawyers for a woman who is suing former President Donald Trump say the U.S. Justice Department made a “wrong and dangerous” argument in seeking to defend him",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_b861a57493b24d94a51c0d2aa9265389_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952",
+      "publishedDateTime": "2021-04-17T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-100-days-without-trump-on-twitter-a-nation-scrolls-more-calmly.md",
       "title": "100 Days Without Trump on Twitter: A Nation Scrolls More Calmly",
       "excerpt": "Democrats are breathing easier. Republicans are crying censorship. For all of the country’s news consumers, a strange quiet has descended after a four-year bombardment of presidential verbiage.",
@@ -1308,63 +1360,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-former-vp-pence-undergoes-routine-surgery-to-implant-pacemaker-office-says.md",
-      "title": "Former VP Pence undergoes routine surgery to implant pacemaker, office says",
-      "excerpt": "Former Vice President Mike Pence underwent surgery to implant a pacemaker after experiencing a slow heart rate, his office disclosed on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RDsRDIKAY60/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RDsRDIKAY60/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 243,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/923f386d-3ccc-41f9-9133-8ebc9a94f111/7d90a6ea-b0e5-42f8-b867-367f1b07e616/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says.amp",
-      "publishedDateTime": "2021-04-15T11:53:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Mike Pence"
       ]
     }

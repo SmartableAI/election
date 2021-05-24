@@ -32,19 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Campaign 2024: Trump getting ready to hit campaign trail"
-    excerpt: "Former President Donald Trump is gearing up for “upcoming rallies.” And the former president, who’s expected to begin holding rallies again as early as next month, also says that he’s refurbishing the airliner that he used during his 2016 White House campaign."
-    publishedDateTime: 2021-05-23T14:09:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
+  - title: "Biden tops Trump, Clinton, but outpaced by Obama and both Bushes, in polling comparison"
+    excerpt: "Four months into his White House tenure, President Biden is outperforming some of his predecessors and trailing others when it comes to his poll ratings."
+    publishedDateTime: 2021-05-24T16:22:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K0kkKTHub5A/biden-approval-rating-comparison-trump-clinton-obama-bush"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-comparison-trump-clinton-obama-bush.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-comparison-trump-clinton-obama-bush.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's Supreme Court commission to meet with key abortion case looming"
+    excerpt: "President Biden's commission on the Supreme Court meets for the first time on Wednesday, triggering the 180-day deadline for the group to provide its report to the president on the status of the court and the issues surrounding it – including on packing the court."
+    publishedDateTime: 2021-05-18T13:29:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vbg4WLJJcTE/biden-supreme-court-commission-meeting-key-abortion-case-looming"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-meeting-key-abortion-case-looming.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-meeting-key-abortion-case-looming.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden keeps saying ‘follow the science,’ but how often does he?"
+    excerpt: "It’s a line President Biden used on the 2020 presidential campaign trail and has returned to many times, including in nationally televised remarks after taking office and in March to staffers at the Centers for Disease Control and Prevention, particularly when addressing the coronavirus pandemic or climate"
+    publishedDateTime: 2021-05-23T18:24:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13a2b366-5701-45a7-abcd-a9e8ad9b4c50/ee531cb7-ad01-45f9-a3ad-b5e69ea6dbcf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Sen. Cotton: Biden has been 'rolling over for aggressors around the world'"
+    excerpt: "Sen. Tom Cotton, R-Ark., argued during an exclusive interview with \"Sunday Morning Futures\" that President Biden has been “rolling over for aggressors around the world,” including China, Russia and Iran, adding that recently the president “seemed to draw moral equivalence between Israel and Hamas when"
+    publishedDateTime: 2021-05-23T19:33:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gRfrqjG4MkI/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -64,53 +112,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Graham calls for ‘draft Trump’ movement to kick-start 2024 WH campaign"
-    excerpt: "Sen. Lindsey Graham said that he really hopes that former President Donald Trump decides to run again for President in 2024. “I miss Donald Trump,” Graham said May 18, 2021 on"
-    publishedDateTime: 2021-05-19T04:49:00Z
-    webUrl: "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/"
-    ampWebUrl: "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/"
+  - title: "Ex-Clinton aide says Biden's Supreme Court commission is 'doomed from the start,' calls for court packing"
+    excerpt: "A former aide to failed presidential candidate Hillary Clinton called for packing the Supreme Court and said President Biden’s commission to explore that possibility is \"doomed from the start.\""
+    publishedDateTime: 2021-05-18T16:37:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GkGsFXKDy38/biden-supreme-court-commission-doomed-brian-fallon"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-doomed-brian-fallon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-doomed-brian-fallon.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/lindsey-graham-index.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump takes aim at 35 Republicans who voted to form Jan. 6 commission"
-    excerpt: "After the House passed a bill to open a commission into January’s riot at the Capitol, former President Donald Trump blasted the 35 who were in favor of the legislation."
-    publishedDateTime: 2021-05-20T21:32:00Z
-    webUrl: "https://nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/"
-    ampWebUrl: "https://nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-jan-6-gop.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
-    excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"
-    publishedDateTime: 2021-05-16T14:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/543376.jpg"
-        width: 750
-        height: 562
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d7f4577-3f6a-49ce-984a-65fae547e78d/f58be55e-ac30-4c11-a8c8-1dc05dd8af44/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "yzP9Kg6FTpfAsFkeprY4b3Wc8a6QnzOQcfjXmYO/FN2yu7E8TeLURHIZXDRmt8xbY2TCGdOHxKwGGYcZM73NiLY/QNx7mOfbzFx+5GcMj2wsGUFbzfLN2IG5WVAc/riy5aSr3PZCQI/tPKb0TlpZcZQIdhEiNI3KyxUj7rFKjkDyr3wAqp7Gw1g/LBIM5lv5nTtS6/VMztRk9IyxJz4D1FobGOokGSiLDoJPk2PHred4mjutlLjBNIKsaXxOSkaIZ4JVzwoia7+Ojgng0x59F+IPJEetd/HVvM9BmRyJae0m6cXjUjF2217Np8lq5AejxplYRLZPOM6Nnfz6tiMsFtjm0mPZKhlGlg9quuEO8jA=;7iLUm75IAJkwRD/fpLo4CA=="

@@ -60,6 +60,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Despite CDC mask guidance, Biden admin may still issue workplace mandate"
+    excerpt: "The Occupational Safety and Health Administration may still issue a workplace mask mandate consistent with a January executive order from President Biden despite new Centers for Disease Control and Prevention guidelines that vaccinated Americans do not need to wear masks indoors."
+    publishedDateTime: 2021-05-24T17:33:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aojlNQN0DhU/biden-cdc-mask-guidance-workplace-possible-mandate"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/mask_mandate_istock.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden needs three things from South Korean President Moon"
     excerpt: "President Joe Biden will sit down with South Korean President Moon Jae-in Friday amid relative calm on the Korean Peninsula. But their first meeting arrives with questions about Korea's willingness to play a stronger deterrent role against China."
     publishedDateTime: 2021-05-20T13:00:00Z

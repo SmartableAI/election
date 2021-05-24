@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump leaves GOP paralyzed, in Congress and up and down ballots: ANALYSIS"
-    excerpt: "Former President Donald Trump may have left office in disgrace, but the four months since then have seen his influence grow."
-    publishedDateTime: 2021-05-20T19:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/mccarthy-stefanik-ap-ps-210520_1621535991742_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Lin Wood Falls to Trump-Endorsed Drew McKissick in Bid to Lead South Carolina GOP"
     excerpt: "Pro-Trump lawyer Lin Wood's attempt to convince delegates to make him the next South Carolina Republican Party chairman fell through on Saturday, when incumbent Drew McKissick secured his reelection bid for a third two-year term,"
     publishedDateTime: 2021-05-15T18:23:00Z

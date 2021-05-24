@@ -162,15 +162,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 32
-  - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
-    excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
-    publishedDateTime: 2021-05-22T11:00:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/22/donald-trump-criminal-investigation-makes-his-political-future-murky/5166416001/"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 26
 
 secured: "c7mWwHYBBQwyie7t/jm18cALxqkY5HjIBDphxrJkAn/DEzrkZvSCWAkWkl4SrPlcNk/D1qO8c7IwLnQsF9293aBezOn82ONMxEdiRYTKLf7XGuybZ2C6BUok1vqH+bBCLIHgrCiiqmpfRE1a6I+1nEhYZEmAIx1O1Kkm0HYDD4jyfGCMbtBHB5c6IgV69g9fEf/d8NGcJwZycUB5Jnm1x8w2aXcNFqmkDt0Az7Xi3yK00KeMB2oLuBevNel8DZj4T+J6CT3ytkUCcivTM8nvnf0cc1nHTUZzWeSXWy+SBBIbIEhKa33drIU1M0oocJ8ZHNy0e+FUdaxzaYju1B2lUQdlwc1pqROlwvAcX0d+0+Q=;ULmmP4S4CwrfG6nLZYIn/g=="
 ---

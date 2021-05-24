@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-15-mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news.md",
+      "title": "McCarthy dings Biden: Notice mask orders ended 'when it was $7 in the gas line and they wanted change in news'",
+      "excerpt": "House Minority Leader Kevin McCarthy, House Minority Whip Steve Scalise, and newly-minted House Republican Conference Chairwoman Elise Stefanik joined 'Hannity' on Friday for their first joint interview since Stefanik unseated Rep. Liz Cheney from her leadership post",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt_5m421nsY/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt_5m421nsY/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9cfe18c-5b65-4575-9549-0a79534d10b1/afbb8edd-a5c8-4e93-8fa7-dd4a4048d588/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news.amp",
+      "publishedDateTime": "2021-05-14T20:47:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-victor-davis-hanson-warns-joe-biden-very-dangerous-to-provoke-vladimir-putin-and-not-deter-him.md",
       "title": "Victor Davis Hanson warns Joe Biden: “Very dangerous” to provoke Vladimir Putin and not deter him",
       "excerpt": "Author and historian Victor Davis Hanson joined \"Tucker Carlson Tonight\" Friday to address the \"Russian associated\" hack of the Colonial Pipeline and what President Biden should do to combat the natio",
@@ -449,7 +505,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -614,7 +670,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 355,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1199,7 +1255,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/epa-revokes-trump-era-policy-loosened-clean-air-77667886",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1272,62 +1328,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-biden-granholm-gas-shortage-electric-cars.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-biden-granholm-gas-shortage-electric-cars.amp",
       "publishedDateTime": "2021-05-13T08:10:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-sen-blackburn-to-introduce-bill-to-reinstate-trumps-migrant-protection-protocols.md",
-      "title": "Sen. Blackburn to introduce bill to reinstate Trump's Migrant Protection Protocols",
-      "excerpt": "Sen. Marsha Blackburn, R-Tenn., is introducing a bill this week that would seek to reinstate the Trump-era Migrant Protection Protocols in response to a crisis at the southern border that has overwhelmed the immigration system in recent months.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fnr0waE9b-U/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fnr0waE9b-U/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b5befee-1abd-4a1a-979c-98e89ad5cad4/10cf370a-f3d0-45ac-83cb-d424eb50e093/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols.amp",
-      "publishedDateTime": "2021-05-13T06:00:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

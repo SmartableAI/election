@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4997276001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4997276001"
 type: article
 quality: 125
-heat: 305
+heat: 285
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "CNN: Trump Justice Department seized reporter phone records"
-    excerpt: "CNN says the Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent"
-    publishedDateTime: 2021-05-20T23:19:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_47b26d87f8f14e2b8e0e6fd8609a3d1c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Rightwingers tried to discredit Trump ‘foes’ with honey trap plot – report"
     excerpt: "Efforts included ‘planned sting operation’ targeting HR McMaster and fake dating app profiles to attract FBI, says New York Times"
     publishedDateTime: 2021-05-14T15:09:00Z

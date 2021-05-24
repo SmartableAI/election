@@ -47,6 +47,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Despite CDC mask guidance, Biden admin may still issue workplace mandate"
+    excerpt: "The Occupational Safety and Health Administration may still issue a workplace mask mandate consistent with a January executive order from President Biden despite new Centers for Disease Control and Prevention guidelines that vaccinated Americans do not need to wear masks indoors."
+    publishedDateTime: 2021-05-24T17:33:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aojlNQN0DhU/biden-cdc-mask-guidance-workplace-possible-mandate"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/mask_mandate_istock.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Biden: \"Every Time We Let Hate Flourish, We Make A Lie Of Who We Are As A Nation\""
     excerpt: "President Biden is set to sign the COVID-19 Hate Crimes Act into law at 2:00 pm on Thursday. President Biden and Vice President Harris will deliver remarks from the East Room at the White House."
     publishedDateTime: 2021-05-21T02:22:00Z

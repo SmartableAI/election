@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump leaves GOP paralyzed, in Congress and up and down ballots: ANALYSIS"
-    excerpt: "Former President Donald Trump may have left office in disgrace, but the four months since then have seen his influence grow."
-    publishedDateTime: 2021-05-20T19:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/mccarthy-stefanik-ap-ps-210520_1621535991742_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
     excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
     publishedDateTime: 2021-05-23T09:04:00Z

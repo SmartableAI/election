@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371"
 type: article
 quality: 125
-heat: 365
+heat: 345
 published: true
 
 provider:
@@ -198,15 +198,6 @@ related:
         width: 1024
         height: 729
         isCached: true
-  - title: "New York State Mounts Criminal Probe of Trump Organization Finances"
-    excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
-    publishedDateTime: 2021-05-19T07:02:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-19/new-york-state-mounts-criminal-probe-of-trump-organization-finances"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "v36jdSbEr2tCF7eYf5AX7IPMGoIuy/6NPmE0iZuDzKJdYc2KblGgk3jIIBT4dDsS/yi5LZIdkdFHb4A2aCXfVIuQMG5LezxMH/IXfSA7hCCjAHslMrR96GAdrca88DGZWHDpTz+nuIN835Ts7HbiiPj24C824qmirKOosWjPWeaUvpbHOUz03MtiXR7uRClYy13M3zgdqfAvCFpct+7Gfqk/P+3A8aLrfK2esci5WPKUed27jRYy55+Q9KVddu0QQSMjPy0PeDtJf5ZJ1J2wxCa4SSGFT78O2B3c8WZ+xuEpQ7qkeBn1bnWljStiF1QGjfAPsWbX516/eKsFOxv4vsB/cs/Wh7+m6poiuCE8RHk=;SAwpLrXjriLgL7WIGSOiaA=="
 ---

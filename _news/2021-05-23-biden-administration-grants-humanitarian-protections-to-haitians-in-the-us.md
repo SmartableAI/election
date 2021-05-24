@@ -63,6 +63,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to bolster extreme weather preparation funding during FEMA visit"
+    excerpt: "President Joe Biden is expected to scale up his administration's investment in extreme weather preparation when he makes a visit to the Federal Emergency Management Agency headquarters on Monday afternoon.\n    \n"
+    publishedDateTime: 2021-05-24T16:41:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tFuxh7G0R20/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/fema-climate-change-biden-funding/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/fema-climate-change-biden-funding/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025332-01-joe-biden-0521-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration allocates $200 million to support survivors of domestic violence"
+    excerpt: "The Biden administration announced on Monday it is allocating $200 million from the American Rescue Plan to support services for survivors of domestic violence following a rise in cases during pandemic lockdowns.\n    \n"
+    publishedDateTime: 2021-05-24T17:06:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KER6awscQp4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/domestic-violence-survivors-funding/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/domestic-violence-survivors-funding/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506110858-03-jen-psaki-0427-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to close two immigration detention centers that came under scrutiny"
     excerpt: "The Biden administration announced Thursday that it will stop detaining immigrants at two detention centers that came under investigation over allegations of inadequate medical care and poor conditions.\n    \n"
     publishedDateTime: 2021-05-20T16:31:15Z

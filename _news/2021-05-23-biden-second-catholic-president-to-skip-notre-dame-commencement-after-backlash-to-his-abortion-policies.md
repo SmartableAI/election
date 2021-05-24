@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden nominee made millions at NCAA while arguing against paying players"
+    excerpt: "President Biden’s nominee for deputy secretary of the Department of Veterans Affairs (VA) made nearly millions at the National Collegiate Athletic Association (NCAA) while arguing against paying college athletes."
+    publishedDateTime: 2021-05-17T21:57:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4hiRwkxFz4/biden-nominee-ncaa-pay-college-athletes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-ncaa-pay-college-athletes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-ncaa-pay-college-athletes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0916bb05-88a2-4f06-af1b-c0914f4a8a81/4ab6e42b-1bf2-4e13-a08a-5403da397d36/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden administration drops plan for ICE deportation pause after legal defeat"
     excerpt: "The Biden administration has dropped its effort to impose a 100-day moratorium on Immigration and Customs Enforcement (ICE) deportations after a legal effort from Texas blocked the Biden campaign promise from taking place -- with the administration saying the time for it to go into effect has now passed."
     publishedDateTime: 2021-05-21T20:45:28Z
@@ -172,6 +188,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/US-Capitol-AP.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "How Rep. Jayapal Views the Biden Administration"
+    excerpt: "As Joe Biden laid out a grand vision for his Presidency, in a speech before Congress late last month, cameras caught Representative Pramila Jayapal standing and applauding. Behind her face mask, she later told an aide,"
+    publishedDateTime: 2021-05-21T13:44:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/21/how_rep_jayapal_views_the_biden_administration_543205.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543854_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "9foL6qNAYKXQbGp14qnZKqApwoYbh4NCznHGF5eDqdbFXIIPJtPWoisu11RwRfeuW/4Hps8wG7KNSu6rHJfZOIbEUmDawP6pDgAgQewciPguKndPxnQnm1FHrfkPMYtZ6vtje7NcigyXhTsmazHW5APT78hfZ7ZXHIr9FcchJw+reWJl5/GfWxMoGK8arZv4SG58CHoNYKzfuRWGQPYHEgF4rl4bfSncWTCbRRQBLikkDrFXnefowQ7xKur/bfv02uF5ogWhyyuN4sLK0gZKAW+oCxx9cfTbpohjPyL/NPoZJ/C39aEJEmTGdEoJdElokvkrSyh2ejXJcABvRvoieOGN7jt7b/qfbETjUoa6AlE=;/GqnG09TVt2ZwPUOvJUNeg=="

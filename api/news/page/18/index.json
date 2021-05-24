@@ -2,6 +2,63 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-15-former-vp-pence-undergoes-routine-surgery-to-implant-pacemaker-office-says.md",
+      "title": "Former VP Pence undergoes routine surgery to implant pacemaker, office says",
+      "excerpt": "Former Vice President Mike Pence underwent surgery to implant a pacemaker after experiencing a slow heart rate, his office disclosed on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RDsRDIKAY60/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RDsRDIKAY60/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 243,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/923f386d-3ccc-41f9-9133-8ebc9a94f111/7d90a6ea-b0e5-42f8-b867-367f1b07e616/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says.amp",
+      "publishedDateTime": "2021-04-15T11:53:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-document-reveals-new-details-of-dramatic-mike-pence-call-during-capitol-attack-building-not-secure.md",
       "title": "Document reveals new details of dramatic Mike Pence call during Capitol attack: \"Building not secure\"",
       "excerpt": "Friday marks 100 days since the January 6 attack on the Capitol building. New numbers from the Justice Department show more than 400 suspects have been arrested from at least 45 states. CBS News obtained a copy of the Capitol Police inspector general's findings,",
@@ -1300,58 +1357,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-this-has-been-a-tough-week-black-lawmakers-discuss-racial-inequities-covid-with-biden.md",
-      "title": "'This has been a tough week': Black lawmakers discuss racial inequities, COVID with Biden",
-      "excerpt": "Leaders of the Congressional Black Caucus met with President Joe Biden and Vice President Kamala Harris at the White House for the first time Tuesday and laid out their policy vision. “We had an amazing meeting where we were able to share our thoughts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/13/congressional-black-caucus-meets-president-joe-biden-first-time/7211806002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/13/congressional-black-caucus-meets-president-joe-biden-first-time/7211806002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/13/USAT/13d92cfa-233a-4e70-9474-30770a2b5401-AP21103688032453.jpg?auto=webp&crop=5764,3242,x1,y602&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7211806002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7211806002",
-      "publishedDateTime": "2021-04-13T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

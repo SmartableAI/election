@@ -2,6 +2,62 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-28-biden-energy-dept-nominee-praises-green-new-deal-calls-for-industry-transformation-in-new-book.md",
+      "title": "Biden Energy Dept. nominee praises Green New Deal, calls for industry 'transformation' in new book",
+      "excerpt": "President Biden's pick for an Energy Department leadership position has a new book in which she supports the Green New Deal and calls for a \"power revolution\" that would transform how the energy industry functions for the sake of combating socioeconomic inequality.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9jQ02TB1WuM/biden-energy-nominee-shalanda-baker-green-new-deal-power-revolution",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9jQ02TB1WuM/biden-energy-nominee-shalanda-baker-green-new-deal-power-revolution",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-energy-nominee-shalanda-baker-green-new-deal-power-revolution.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-energy-nominee-shalanda-baker-green-new-deal-power-revolution.amp",
+      "publishedDateTime": "2021-04-28T07:36:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-kamala-harris-influencer-niece-meena-should-create-a-firewall-between-business-and-family-some-ethics-experts-advise.md",
       "title": "Kamala Harris' influencer niece, Meena, 'should create a firewall' between business and family, some ethics experts advise",
       "excerpt": "Meena Harris, the 36-year-old influencer niece of Vice President Kamala Harris, has raised concerns among some ethics experts due to her relationship with the VP.",
@@ -1304,58 +1360,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting.md",
-      "title": "Donald Trump Says LeBron James' Remarks are 'Divisive, Nasty, Insulting'",
-      "excerpt": "\"LeBron James should focus on basketball rather than presiding over the destruction of the NBA,\" the former president said. \"He may be a great basketball player, but he is doing nothing to bring our Country together.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting-1585865",
-      "originalUrl": "https://www.newsweek.com/donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting-1585865",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1781934/donald-trump-lebron-james.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting-1585865?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting-1585865?amp=1",
-      "publishedDateTime": "2021-04-22T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

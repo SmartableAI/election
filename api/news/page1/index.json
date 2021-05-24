@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-24-biden-tops-trump-clinton-but-outpaced-by-obama-and-both-bushes-in-polling-comparison.md",
+      "title": "Biden tops Trump, Clinton, but outpaced by Obama and both Bushes, in polling comparison",
+      "excerpt": "Four months into his White House tenure, President Biden is outperforming some of his predecessors and trailing others when it comes to his poll ratings.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K0kkKTHub5A/biden-approval-rating-comparison-trump-clinton-obama-bush",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K0kkKTHub5A/biden-approval-rating-comparison-trump-clinton-obama-bush",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 302,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-approval-rating-comparison-trump-clinton-obama-bush.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-comparison-trump-clinton-obama-bush.amp",
+      "publishedDateTime": "2021-05-24T09:22:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-heres-a-closer-look-at-air-force-one-and-the-presidential-motorcade-during-bidens-trip-to-detroit.md",
+      "title": "Here's a closer look at Air Force One and the presidential motorcade during Biden's trip to Detroit",
+      "excerpt": "In an unusual occurrence, the location where photographers were allowed to photograph Air Force One landing was also on the motorcade route.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/closer-look-at-air-force-one-and-biden-presidential-motorcade-2021-5",
+      "originalUrl": "https://www.businessinsider.com/closer-look-at-air-force-one-and-biden-presidential-motorcade-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60abcdcd5e34570019265227?width=1200&format=jpeg",
+          "width": 960,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-biden-and-harris-condemn-recent-attacks-on-jewish-community-in-us-and-abroad.md",
       "title": "Biden and Harris condemn recent attacks on Jewish community in US and abroad",
       "excerpt": "President Joe Biden and Vice President Kamala Harris on Monday condemned recent attacks toward the Jewish community after several Jewish people were targeted in cities across the US and abroad as tensions flare over the Israeli-Palestinian conflict.\n    \n",
@@ -451,7 +559,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -495,25 +603,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-23-white-house-attests-rise-in-hate-despite-biden-pitch-as-unity-president.md",
-      "title": "White House attests 'rise in hate' despite Biden pitch as 'unity' president",
-      "excerpt": "A senior White House adviser on Sunday acknowledged a \"rise in hate\" amid increased attacks against Jewish and Asian Americans, despite President Biden's message of “unity\" early in his administration. ",
+      "path": "_news/2021-05-24-trump-supporters-nonprofit-will-help-decide-who-counts-ballots-as-election-audit-resumes.md",
+      "title": "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes",
+      "excerpt": "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fz5uassccds/white-house-hate-crime-jewish-asian-biden-unity-president",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fz5uassccds/white-house-hate-crime-jewish-asian-biden-unity-president",
+      "webUrl": "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/",
+      "originalUrl": "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
+      "highlight": null,
+      "heat": 251,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -521,16 +625,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp",
-      "publishedDateTime": "2021-05-23T12:08:14-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5223698001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5223698001",
+      "publishedDateTime": "2021-05-23T15:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -547,29 +651,29 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Donald Trump"
       ]
     },
     {
-      "path": "_news/2021-05-23-biden-keeps-saying-follow-the-science-but-how-often-does-he.md",
-      "title": "Biden keeps saying ‘follow the science,’ but how often does he?",
-      "excerpt": "It’s a line President Biden used on the 2020 presidential campaign trail and has returned to many times, including in nationally televised remarks after taking office and in March to staffers at the Centers for Disease Control and Prevention, particularly when addressing the coronavirus pandemic or climate",
+      "path": "_news/2021-05-23-white-house-attests-rise-in-hate-despite-biden-pitch-as-unity-president.md",
+      "title": "White House attests 'rise in hate' despite Biden pitch as 'unity' president",
+      "excerpt": "A senior White House adviser on Sunday acknowledged a \"rise in hate\" amid increased attacks against Jewish and Asian Americans, despite President Biden's message of “unity\" early in his administration. ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fz5uassccds/white-house-hate-crime-jewish-asian-biden-unity-president",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fz5uassccds/white-house-hate-crime-jewish-asian-biden-unity-president",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 253,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13a2b366-5701-45a7-abcd-a9e8ad9b4c50/ee531cb7-ad01-45f9-a3ad-b5e69ea6dbcf/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -577,9 +681,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp",
-      "publishedDateTime": "2021-05-23T11:24:32-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp",
+      "publishedDateTime": "2021-05-23T12:08:14-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -840,7 +944,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -953,7 +1057,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 355,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -1225,114 +1329,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder.amp",
       "publishedDateTime": "2021-05-22T02:33:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-biden-wont-allow-justice-dept-to-seize-reporters-records.md",
-      "title": "Biden won't allow Justice Dept. to seize reporters' records",
-      "excerpt": "President Joe Biden says he won’t allow the Department of Justice to seize journalists’ phone records and emails, calling the practice “wrong” in a significant departure from his predecessors",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035",
-      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/WireAP_38dab6b4a6fc429288c8332a295a4057_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035",
-      "publishedDateTime": "2021-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-whitmer-transition-fund-paid-for-her-private-jet-to-attend-bidens-inauguration-report.md",
-      "title": "Whitmer transition fund paid for her private jet to attend Biden's inauguration: report",
-      "excerpt": "Michigan Gov. Gretchen Whitmer's transition fund paid for a private jet she took to attend President Biden's inauguration in January, according to a new report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YPBkXOXznTQ/gretchen-whitmer-private-jet-biden-inauguration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YPBkXOXznTQ/gretchen-whitmer-private-jet-biden-inauguration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd94e797-360f-4eb1-92ba-4a4a55dbf560/6e5bee31-047b-4727-b88f-6c80bdbdf265/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gretchen-whitmer-private-jet-biden-inauguration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gretchen-whitmer-private-jet-biden-inauguration.amp",
-      "publishedDateTime": "2021-05-21T16:57:01-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

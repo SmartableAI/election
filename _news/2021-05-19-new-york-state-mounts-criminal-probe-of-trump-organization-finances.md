@@ -23,189 +23,93 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Dump Trump? Kicking him off NYC golf course may not be easy"
-    excerpt: "Donald Trump has a rich history of fighting back when he’s down and making others pay, and that’s exactly how he intends to deal with New York City over its plans to fire his company from running a ci"
-    publishedDateTime: 2021-05-14T14:17:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Sports/WireAP_3640cc63671a47ac969bb32cb955072c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Dump Trump? Kicking him off NYC golf course may not be easy"
-    excerpt: "Donald Trump has a rich history of fighting back when he’s down and making others pay, and that’s exactly how he intends to deal with New York City over its plans to fire his company from running a ci"
-    publishedDateTime: 2021-05-14T17:32:00Z
-    webUrl: "https://www.washingtonpost.com/politics/dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy/2021/05/14/d4c5009c-b4b8-11eb-bc96-fdf55de43bef_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy/2021/05/14/d4c5009c-b4b8-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy/2021/05/14/d4c5009c-b4b8-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MHP74WVUWQI6XPEW7X2V3ZB354.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Georgia's Lt. Governor won't run again after taking on Trump"
-    excerpt: "Georgia’s lieutenant governor, one of the most prominent Republicans to openly contradict false claims of November election fraud, has announced he won’t seek reelection in 2022"
-    publishedDateTime: 2021-05-18T01:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/georgias-lt-governor-run-taking-trump-77740487"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgias-lt-governor-run-taking-trump-77740487"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgias-lt-governor-run-taking-trump-77740487"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a0afd617a54e43e999554feb75dab230_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Florida GOP eases path for Trump to pursue casino license"
-    excerpt: "A deal negotiated by Gov. Ron DeSantis (R) bars the Seminole Tribe from opposing a casino at the former president’s ailing Doral golf course."
-    publishedDateTime: 2021-05-19T22:14:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/05/19/trump-casino-florida-desantis/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/05/19/trump-casino-florida-desantis/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/05/19/trump-casino-florida-desantis/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WXREBRUZOUI6XDYKGOCM6T5TTE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "New York AG has 2 lawyers working with DA on Trump probe"
-    excerpt: "New York’s attorney general said Friday that she’s assigned two lawyers to work with the Manhattan district’s attorney’s office on a criminal investigation into former President Donald Trump’s busines"
-    publishedDateTime: 2021-05-21T20:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/york-ag-lawyers-working-da-trump-probe-77832719"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/york-ag-lawyers-working-da-trump-probe-77832719"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/york-ag-lawyers-working-da-trump-probe-77832719"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6ca16e0974da443c99037cd301bbe566_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Key Trump officials face Congress with Capitol riot response under scrutiny"
-    excerpt: "Wednesday’s House Oversight Committee hearing marks the first time former acting defense secretary Christopher Miller and former acting attorney general Jeffrey Rosen will speak to lawmakers about their preparations for and response to the attack on Congress."
-    publishedDateTime: 2021-05-12T13:18:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WJLIUTADEI6XL56TII2CJ6RIY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Ex-Trump lawyer Sidney Powell accused by company of raiding nonprofit for personal expenses"
-    excerpt: "Dominion Voting Systems claims Sidney Powell has raided Defending the Republic’s coffers to pay for personal legal expenses, citing her own remarks from a radio interview."
-    publishedDateTime: 2021-05-13T20:51:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-lawyer-dominion-20210513-43gxf642mrfjzhuegpa4hl3d3a-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-lawyer-dominion-20210513-43gxf642mrfjzhuegpa4hl3d3a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-lawyer-dominion-20210513-43gxf642mrfjzhuegpa4hl3d3a-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 115
-    images:
-      - url: "https://www.chicagotribune.com/resizer/2nWnj5haA-qau8SR22D1WYa4LD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QYN2LLGFQUWOVAU4COC53GX44U.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Colorado man suspected in wife's death cast ballot for Donald Trump on her behalf, court documents show"
-    excerpt: "Barry Morphew said “all these other guys are cheating,” and he thought his wife would have voted for Trump anyway, according to an arrest warrant."
-    publishedDateTime: 2021-05-15T15:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2021/05/15/man-suspected-wifes-death-cast-ballot-her-name-court-docs-say/5108597001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5108597001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5108597001"
+  - title: "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes"
+    excerpt: "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April."
+    publishedDateTime: 2021-05-23T22:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5223698001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5223698001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 109
+    quality: 131
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/15/USAT/a6ce7384-317f-484b-a49d-d5863258b169-AP_Missing_Woman_Colorado.jpg?auto=webp&crop=2773,1560,x0,y140&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Org. subject of criminal probe in New York"
-    excerpt: "New York's attorney general said Friday that she's assigned two lawyers to work with the Manhattan district's attorney's office on a criminal investigation into former President Donald Trump's business dealings."
-    publishedDateTime: 2021-05-21T19:38:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/21/trump-org-subject-criminal-probe-new-york/5208067001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6026d8e2-3c12-42da-9ba8-67dd8fd97232_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Judge sentences co-founder of 'Students for Trump' to prison"
-    excerpt: "A judge has sentenced a co-founder of “Students for Trump” to 13 months in prison after he admitted posing as a lawyer to cheat clients out of thousands of dollars"
-    publishedDateTime: 2021-05-11T22:21:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-sentences-founder-students-trump-prison-77631664"
+  - title: "CNN: Trump Justice Department seized reporter phone records"
+    excerpt: "CNN says the Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent"
+    publishedDateTime: 2021-05-20T23:19:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 85
-  - title: "Of Course Donald Trump Jr.’s Ex-Wife Traded Him In for a Secret Service Agent"
-    excerpt: "For example, if you found yourself married to Donald Trump Jr., the mortifying, simpleminded, sheep-killing son of the 45th president, whose own father seems to despise him, you’d almost certainly replace him with a Secret Service agent,"
-    publishedDateTime: 2021-05-11T20:18:00Z
-    webUrl: "https://www.vanityfair.com/news/2021/05/vanessa-trump-tiffany-trump-secret-service-agents"
-    ampWebUrl: "https://www.vanityfair.com/news/2021/05/vanessa-trump-tiffany-trump-secret-service-agents/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2021/05/vanessa-trump-tiffany-trump-secret-service-agents/amp"
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_47b26d87f8f14e2b8e0e6fd8609a3d1c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump leaves GOP paralyzed, in Congress and up and down ballots: ANALYSIS"
+    excerpt: "Former President Donald Trump may have left office in disgrace, but the four months since then have seen his influence grow."
+    publishedDateTime: 2021-05-20T19:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 72
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
     images:
-      - url: "https://media.vanityfair.com/photos/609adff30852bc00c5141a2f/master/pass/vanessatrump.jpg"
-        width: 2000
-        height: 1301
+      - url: "https://s.abcnews.com/images/Politics/mccarthy-stefanik-ap-ps-210520_1621535991742_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Eric Trump Called Out For Saying People Hug Him And Cry Because They Miss Donald Trump"
-    excerpt: "In his appearance on Fox News, Eric Trump claimed people have approached him to share how much they miss his father being in office. “More people have come up to me in the last week and given me hugs saying ‘we miss him so much."
-    publishedDateTime: 2021-05-20T18:41:00Z
-    webUrl: "https://www.ibtimes.com/eric-trump-called-out-saying-people-hug-him-cry-because-they-miss-donald-trump-3204275"
-    ampWebUrl: "https://www.ibtimes.com/eric-trump-called-out-saying-people-hug-him-cry-because-they-miss-donald-trump-3204275?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eric-trump-called-out-saying-people-hug-him-cry-because-they-miss-donald-trump-3204275?amp=1"
+  - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
+    excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
+    publishedDateTime: 2021-05-20T19:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
+        width: 700
+        height: 525
+        isCached: true
+  - title: "QAnon Shaman's Lawyer Gives Bold Response About Capitol Rioters And Donald Trump's Role"
+    excerpt: "Trump may not be facing trial, but that hasn't stopped Capitol rioters from trying to make him part of their defense."
+    publishedDateTime: 2021-05-18T22:08:00Z
+    webUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112"
+    ampWebUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 67
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/25/president-donald-trumps-son-eric-is-among-the.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
         width: 1024
-        height: 729
+        height: 682
         isCached: true
+  - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
+    excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
+    publishedDateTime: 2021-05-22T11:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/22/donald-trump-criminal-investigation-makes-his-political-future-murky/5166416001/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 26
 
 secured: "vh2HiZgeBc7PTqToEtsLJgXlbwyFwC1vk3Aw/H2zSr/6yQ4jtJyfKGbrQZeSS8xXTFRgXIE69m/OP9jm86uHaGNHk9AxgjNd8MeXva5UlELUmPr0WyNMtfnc2donVfNkeWkwDERwQpC0dN2M7tyVbD/XM22R32Fdq2q4LJHdvAO2KUwkSx16Se935c6h1K69q15LUku81URSfrfqSWvq41h9jYSU1/XyTvzkPoL4LtqXHOMKzrNC7qg7rgP9pQAwbhn5YPcTJTDoLR8y2WgGxCA6tSX4sp+4YMZrD1UYEYndY8+djPwQLXZCcf3dd54lYSw/nn5xvEbT466NWLodCFarJLtaRuFVOZyU4/wu/0BOUuy3IFtO3+CohVJRCWlTIZsM89cP3RjhxQuWjBt5ZKnz7BBJJo3YUsfGwJGD/YutC8+vtHCg44b/W54EEBq8mkoJW4/9UVXW1X3Q5jQIlpIrXssWaTTnOMxsC13Jm7PtEZm+glKoRc8AEMjnGHvU1gOzMU185HWjw1xgFpeprQ==;fq2EC/TYMUWe+vzBXATeHA=="
 ---

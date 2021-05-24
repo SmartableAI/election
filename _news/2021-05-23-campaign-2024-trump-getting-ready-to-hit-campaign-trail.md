@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
 type: article
 quality: 175
-heat: 275
+heat: 235
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Obama called Trump a 'f------ lunatic' in remarks to foundation donors, book claims"
-    excerpt: "Former President Barack Obama, known by the public as a reserved statesman who notably avoided using his successor’s name for years, reportedly called former President Donald Trump a \"f---ing lunatic,\" a \"madman\" and a \"corrupt motherf----er\" behind closed doors, according to a new book. "
-    publishedDateTime: 2021-05-20T17:54:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTm9ZiXNaOU/dovere-book-obama-trump-lunatic"
-    ampWebUrl: "https://www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7190891-3b68-4f0d-aee0-1b1e57fcd8b2/2f09ad27-6af7-42a5-bacf-9a12c3deec10/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Graham calls for ‘draft Trump’ movement to kick-start 2024 WH campaign"
     excerpt: "Sen. Lindsey Graham said that he really hopes that former President Donald Trump decides to run again for President in 2024. “I miss Donald Trump,” Graham said May 18, 2021 on"
     publishedDateTime: 2021-05-19T04:49:00Z
@@ -62,22 +46,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/lindsey-graham-index.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Obama had harsh words on Trump, book claims"
-    excerpt: "Former President Barack Obama called Donald Trump a “corrupt motherf–ker,” “madman” and a “racist, sexist pig” to people behind the scenes, a new book claims."
-    publishedDateTime: 2021-05-20T08:36:00Z
-    webUrl: "https://www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims"
-    ampWebUrl: "https://www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7190891-3b68-4f0d-aee0-1b1e57fcd8b2/2f09ad27-6af7-42a5-bacf-9a12c3deec10/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
   - title: "Trump takes aim at 35 Republicans who voted to form Jan. 6 commission"
     excerpt: "After the House passed a bill to open a commission into January’s riot at the Capitol, former President Donald Trump blasted the 35 who were in favor of the legislation."
