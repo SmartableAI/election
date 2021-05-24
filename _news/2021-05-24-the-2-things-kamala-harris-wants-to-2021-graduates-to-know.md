@@ -1,24 +1,28 @@
 ---
 category: news
-title: "After talking with small business leaders in Providence, Vice President Kamala Harris promises: ‘I will keep coming back to Rhode Island’"
-excerpt: "On a trip to promote President Biden’s economic plans, the vice president visited Books on the Square before holding two events with small businesses owners and discussing dates for an upcoming trip to Mexico and Guatemala."
-publishedDateTime: 2021-05-05T21:50:00Z
-originalUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/"
-webUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/"
-ampWebUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
-cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
+title: "The 2 things Kamala Harris wants to 2021 graduates to know"
+excerpt: "Vice President Kamala Harris congratulated 2021 graduates for overcoming the challenges brought on by the coronavirus pandemic and encouraged them to consider their role in making the world better."
+publishedDateTime: 2021-05-24T00:28:00Z
+originalUrl: "https://www.djournal.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_9e7d7628-ca00-576d-a3be-b12eacb1c0be.html"
+webUrl: "https://www.djournal.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_9e7d7628-ca00-576d-a3be-b12eacb1c0be.html"
 type: article
-quality: 22
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e7/9e7d7628-ca00-576d-a3be-b12eacb1c0be/60aaf7bfb2d3a.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
 
 related:
   - title: "Kamala Harris to give Naval Academy commissioning address"
@@ -788,20 +792,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "The 2 things Kamala Harris wants to 2021 graduates to know"
-    excerpt: "Vice President Kamala Harris congratulated 2021 graduates for overcoming the challenges brought on by the coronavirus pandemic and encouraged them to consider their role in making the world better."
-    publishedDateTime: 2021-05-24T00:28:00Z
-    webUrl: "https://www.djournal.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_9e7d7628-ca00-576d-a3be-b12eacb1c0be.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e7/9e7d7628-ca00-576d-a3be-b12eacb1c0be/60aaf7bfb2d3a.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
   - title: "VP Kamala Harris visits Rhode Island with Commerce Secretary Gina Raimondo"
     excerpt: "Vice President Kamala Harris answers questions during a visit to RI with Commerce Secretary Gina Raimondo. Providence Journal video/ Kris Craig]"
     publishedDateTime: 2021-05-05T21:35:00Z
@@ -884,7 +874,18 @@ related:
       name: Morning Call PA
       domain: mcall.com
     quality: 22
+  - title: "After talking with small business leaders in Providence, Vice President Kamala Harris promises: ‘I will keep coming back to Rhode Island’"
+    excerpt: "On a trip to promote President Biden’s economic plans, the vice president visited Books on the Square before holding two events with small businesses owners and discussing dates for an upcoming trip to Mexico and Guatemala."
+    publishedDateTime: 2021-05-05T21:50:00Z
+    webUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 22
 
-secured: "0f+Bq4a/I8xtVymGWzhQpGlf0CcthFjqBIYmfNPXjnMcHPWB0iyIb8dpB1TrowBVh0Tk00k/Oikj+du3xZDJXgo1dR/M0ZGQPgMGao24tnPCEcB5KskzRKLNKxxP41Y5ljy1kebrMzStp4AgNf9l6I6ix7NalW3ktPeRnHm1SUHZZ3PxrAs1lLX1Fs4zHdnL4vsJLCXiUu89wMj5VqzWj0NWjRYuR9gGYP2Ujci5Rs+6HdeW34gg+qFLEDaCpdztqou+Df7WKzQeK+xbXtqzclRxDqQFHFniKTpgBFXah4NdZa8V6j8kPal6dk7LGgWNUcBOuYklc4ND2dP9Vcas5SIuArh/xht6lCBxldbtR2/hg6IomIssY40BzQeIf9bydw7c6jGNKH4qFM7HwlBALb5YiklxTYc9apIG7fPL60KmgJ5TRyNcmu8O+HUAiBL8HRk4sMH9pEarkQyPr/PdMBgLm1DPgMfyfzqr7TjivIGtnOC1G/ws2/GQgXPbtzvDs5Ew7sp+/7bP/79G91c0lw==;/1hIBYFUQuvHKJ/b5y5VVA=="
+secured: "HbMSoVnSjtc+LauVI0vdFirWMlICHKDC2fSU2g4HPJrGDCRPfFyaYsdZzQGH1FfecR/7e1l10kY3Zxk0qvxHg8H1GQGfRzpOW+nwA5X07wUy52HgydGNFVFgbaGrEFQo2PkmYrqWXDzQ+Gpk6iRKNSechyXxg0vVPSWoesVJIgVTcXVq9OYbKqnMd19ipZUiyQMkSZJzUEv5VBJrhBo34tbFCwOWTr9uh43X89KSCIdMtYbymOHQuV6DuzoSeV+HFtrOC8EZ9qa4qFtVVpTcOyO8E+vbAhYLcNcPmgaWEWq0YXzyGT0SNhtdP1Lm5RJ37ws9hCT3YMplp9SbDi2MxZ30jhmrrssIhKpnGkxiu8Q=;UGIw1uYUkQQaIgIqbdD4ig=="
 ---
 

@@ -1,20 +1,22 @@
 ---
 category: news
-title: "New York State Probe of Trump Organization Is Now Criminal -Attorney General"
-excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, going beyond what began as a civil probe. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
-publishedDateTime: 2021-05-19T03:27:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-05-18/new-york-state-probe-of-trump-organization-is-now-criminal-attorney-general"
-webUrl: "https://www.usnews.com/news/us/articles/2021-05-18/new-york-state-probe-of-trump-organization-is-now-criminal-attorney-general"
+title: "Trump criminal investigation looms over Manhattan DA race"
+excerpt: "New York City voters will be casting their last ballots next month in an election that’s sure to have consequences for former President Donald Trump"
+publishedDateTime: 2021-05-23T23:55:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
 type: article
-quality: 32
-heat: -1
-published: false
+quality: 125
+heat: 325
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,23 +24,13 @@ topics:
   - Election
   - Donald Trump
 
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_d5a875991d4d42748fb944de85404194_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
 related:
-  - title: "Trump criminal investigation looms over Manhattan DA race"
-    excerpt: "New York City voters will be casting their last ballots next month in an election that’s sure to have consequences for former President Donald Trump"
-    publishedDateTime: 2021-05-23T23:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d5a875991d4d42748fb944de85404194_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "New York Attorney General \"investigating the Trump Organization in a criminal capacity\""
     excerpt: "New York Attorney General Letitia James launched a civil probe into the company in 2019, but that investigation \"is no longer purely civil in nature\""
     publishedDateTime: 2021-05-19T23:07:00Z
@@ -151,6 +143,15 @@ related:
       name: International Business Times
       domain: ibtimes.com
     quality: 33
+  - title: "New York State Probe of Trump Organization Is Now Criminal -Attorney General"
+    excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, going beyond what began as a civil probe. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
+    publishedDateTime: 2021-05-19T03:27:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-18/new-york-state-probe-of-trump-organization-is-now-criminal-attorney-general"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 32
   - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
     excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
     publishedDateTime: 2021-05-22T11:00:00Z
@@ -161,6 +162,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "QoeRxJJdSQm4rOysj6JElIOCoxuC5+LUFo2rA4GT3SXYy6mgumq1EIPHBSDcK9Hb69CivorBXm+F4uA5wUrZFzubJtD2NmruuXc7OjfyRcWjCrHkG0eEo8kadTSRXGlIIz5PiWlghteogi4L5QZe0qdWu3BSllLFu459hoKV/PDRYxbMQLV32iBz0YNJTYRZJ77/TgFY7K/e6ggHMhOSUoNyhRSkm8XJB5ZjF8vphWbOyzSx0pMFb24HfqE5w6V72cFolBk859kqJBcrmOzMC5KvZfZwSid28XgA+/g/VAScAclOgGjl6lwdcKIyFmr6OUhhqgzFxz4ygJFT+Oa13qUjdC/n007DqB2Mf75v998=;aDL7MjA7gSBZbO6f/nHXSg=="
+secured: "2s7+ISqoMvXWLQ5/Z9Bmoxmmib7ctLQWiAwB1OIiERbMQoU9PsrOHG0cTsuHnbLCkoUf6Or4vy7NPiQIf3u6gK8qVfzCs4PvatoBU9ByZnNxly06BLq2cPLzOutiJqiuWTFUKG6S9nNb3UnZFTLneUqa7Dtht2C0BlRZ2ni0IbWNwOh/qwmQDAFTCk/UR99jhIMfEYZKSu1Jz5a87lxPIyKmrKOBwDbyD2fcB6dpjSt6gZp+2UFskZXCCKKm5BnMrXB6yMaZCYPWRZ0PM1EqrBAS/mVvWTjTitJmmJ87stOfeoTcCijZVk7/OfW55ntCH5eCsrlLp17L/TMNjjsZPgkjuQeZbooDnmBlzVciW7Y=;H9MiRJBhJoUR/1ouub4zPA=="
 ---
 

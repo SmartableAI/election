@@ -23,6 +23,22 @@ topics:
   - Donald Trump
 
 related:
+  - title: "Trump criminal investigation looms over Manhattan DA race"
+    excerpt: "New York City voters will be casting their last ballots next month in an election that’s sure to have consequences for former President Donald Trump"
+    publishedDateTime: 2021-05-23T23:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d5a875991d4d42748fb944de85404194_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "New York Attorney General \"investigating the Trump Organization in a criminal capacity\""
     excerpt: "New York Attorney General Letitia James launched a civil probe into the company in 2019, but that investigation \"is no longer purely civil in nature\""
     publishedDateTime: 2021-05-19T23:07:00Z
@@ -70,6 +86,22 @@ related:
       - url: "https://i.insider.com/60a5e132f27b4c001944582e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Val Demings, who rose to national prominence as a Trump impeachment manager, plans to challenge Marco Rubio in the 2022 Florida Senate race"
+    excerpt: "As a former Orlando police chief, Demings, a three-term Democratic congresswoman, could offer a compelling perspective on issues of policing reform."
+    publishedDateTime: 2021-05-18T15:06:00Z
+    webUrl: "https://www.businessinsider.com/val-demings-florida-2022-senate-run-marco-rubio-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/val-demings-florida-2022-senate-run-marco-rubio-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/val-demings-florida-2022-senate-run-marco-rubio-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5d38a1ed100a2418752aaa27?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
         isCached: true
   - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
     excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."
@@ -119,6 +151,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 32
+  - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
+    excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
+    publishedDateTime: 2021-05-22T11:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/22/donald-trump-criminal-investigation-makes-his-political-future-murky/5166416001/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 26
 
 secured: "IFBO59m6cL0HOQYWva6zISlhHHu2q64wjoC/zk50/z/mtlBCvbe9rvd2siJBN1J2Kpa7F2Ka5goj/ZjSjNXyhUvIRdc9PSCyctUdDRiwGSvgG7sqREFDOBQstP33OD1OkPanZv17lZMEOYh3wWJYkPc38DPXq6AWPcSzfW04sTj41MLJXKzVNPn5U7dMfM5GjFtmuHam+Csqxb3ro3hD++DJF3mBsUUUKVeoJzUWsaGknKcAtex/8x99hTtnvnJvyhUQyrozhapGKz+ZwO4SMX/laH1gHYCbgiG+UfDl0BXbBwPaqwEvLWUZmyIeLfMBNDb9j/3KxPs1x2Hguf99qDATpGJIwo4MVUf8oRnadNufK6jb5QQhDvh/c50coGKIO6GxS6oVRp8CFhXnuQa6tu2+h7Li5dTlOOFZNg4wUg/67Ki7lGtOe2kNq0ZruaSl2X5WhsLTp4oyIdOIM0X8sVcg+S2lQ3n0FFZHodwSm52WmBa8T/bTgaiNt9edJV+x+5q9v3CwyylJeaemJkw5Qw==;CgoW6F6YS8bcFw8mygFsKQ=="
 ---
