@@ -128,6 +128,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden condemns 'despicable' anti-Semitic attacks as Democrats take harder line on Israel"
+    excerpt: "President Biden on Monday condemned \"despicable\" anti-Semitic attacks against American Jews in the U.S. who have found themselves targets of death threats, hate speech and violent physical attacks amid the conflict between Israel and Palestinians."
+    publishedDateTime: 2021-05-24T13:33:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R-599dy05XU/biden-condemns-anti-semitic-attacks-democrats-harder-line-israel"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-condemns-anti-semitic-attacks-democrats-harder-line-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-anti-semitic-attacks-democrats-harder-line-israel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki: Biden has seen 'encouraging' cease-fire reports, tells Israel to 'start winding their operation down'"
     excerpt: "Press secretary Jen Psaki said Thursday the White House has seen reports that Israel and Palestinian leaders might be nearing a cease-fire, reports she said were \"encouraging.\""
     publishedDateTime: 2021-05-20T19:21:08Z

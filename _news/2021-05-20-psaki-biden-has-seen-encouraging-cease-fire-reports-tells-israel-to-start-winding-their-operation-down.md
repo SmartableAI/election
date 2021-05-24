@@ -127,6 +127,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden condemns 'despicable' anti-Semitic attacks as Democrats take harder line on Israel"
+    excerpt: "President Biden on Monday condemned \"despicable\" anti-Semitic attacks against American Jews in the U.S. who have found themselves targets of death threats, hate speech and violent physical attacks amid the conflict between Israel and Palestinians."
+    publishedDateTime: 2021-05-24T13:33:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R-599dy05XU/biden-condemns-anti-semitic-attacks-democrats-harder-line-israel"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-condemns-anti-semitic-attacks-democrats-harder-line-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-anti-semitic-attacks-democrats-harder-line-israel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ohio GOP House candidate Max Miller slams Biden approach to Middle East, says he would be 'champion of Israel'"
     excerpt: "EXCLUSIVE: Republican congressional candidate and former Trump administration aide Max Miller slammed the Biden administration’s approach to the Middle East as a \"complete capitulation to terrorists,\" vowing, if elected, to be a \"champion of Israel.\" "
     publishedDateTime: 2021-05-18T17:43:18Z

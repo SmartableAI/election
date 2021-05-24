@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Move aside hot vax summer. Biden is bringing hot tax summer to the US."
-excerpt: "As infrastructure talks heat up, who's paying and who's receiving taxes is set for the spotlight. This July, families will start getting checks."
-publishedDateTime: 2021-05-18T15:04:00Z
-originalUrl: "https://www.businessinsider.com/move-aside-hot-vax-summer-biden-bringing-hot-tax-summer-2021-5"
-webUrl: "https://www.businessinsider.com/move-aside-hot-vax-summer-biden-bringing-hot-tax-summer-2021-5"
-ampWebUrl: "https://www.businessinsider.com/move-aside-hot-vax-summer-biden-bringing-hot-tax-summer-2021-5?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/move-aside-hot-vax-summer-biden-bringing-hot-tax-summer-2021-5?amp"
+title: "Biden says Blinken will visit Middle East as Gaza ceasefire holds – US politics live"
+excerpt: "“Following up on our quiet, intensive diplomacy to bring about a ceasefire between Israel and Hamas, I have asked my Secretary of State, Tony Blinken, to travel to the Middle East this week,” Joe Biden said in a statement this morning. Secretary of ..."
+publishedDateTime: 2021-05-24T12:25:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
 type: article
-quality: 125
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/603eed8bb46d720018b04806?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://i.guim.co.uk/img/media/b849cbc854f6a00f9eeefadb047a486c1b76c46d/0_77_7671_4605/master/7671.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef414d4597d0dacd188cd8eb307e518e"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Move aside hot vax summer. Biden is bringing hot tax summer to the US."
+    excerpt: "As infrastructure talks heat up, who's paying and who's receiving taxes is set for the spotlight. This July, families will start getting checks."
+    publishedDateTime: 2021-05-18T15:04:00Z
+    webUrl: "https://www.businessinsider.com/move-aside-hot-vax-summer-biden-bringing-hot-tax-summer-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/move-aside-hot-vax-summer-biden-bringing-hot-tax-summer-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/move-aside-hot-vax-summer-biden-bringing-hot-tax-summer-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/603eed8bb46d720018b04806?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Senate panel advances Biden pick as WH science adviser"
     excerpt: "The Senate Commerce Committee has approved President Joe Biden’s nomination of Eric Lander to be chief science adviser"
@@ -126,22 +142,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210522&t=2&i=1563023906&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4L00X"
         width: 825
         height: 545
-        isCached: true
-  - title: "Biden says Blinken will visit Middle East as Gaza ceasefire holds – US politics live"
-    excerpt: "“Following up on our quiet, intensive diplomacy to bring about a ceasefire between Israel and Hamas, I have asked my Secretary of State, Tony Blinken, to travel to the Middle East this week,” Joe Biden said in a statement this morning. Secretary of ..."
-    publishedDateTime: 2021-05-24T12:25:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 118
-    images:
-      - url: "https://i.guim.co.uk/img/media/b849cbc854f6a00f9eeefadb047a486c1b76c46d/0_77_7671_4605/master/7671.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef414d4597d0dacd188cd8eb307e518e"
-        width: 600
-        height: 360
         isCached: true
   - title: "Idaho governor signs bill to halt Biden moves on gun laws"
     excerpt: "Idaho Gov. Brad Little has signed legislation aimed at thwarting a half-dozen executive actions taken by President Joe Biden to combat gun violence"
@@ -243,6 +243,6 @@ related:
         height: 433
         isCached: true
 
-secured: "3wUs5bXJ0OT1Gvb7SGHBzFlTXrBjRc7b78bNkArxHkNSKLaSqPH1Xo1P2Ij3Bx4kx+Ouumjil4KRj6KWXSqj8UWz3tRvKPJAtXFcqiZMrYEy+hlNAKWWVa4PK1gZRAI1Wzfy6Os7ogs2QrutcMliLpeyP+kfTpHeKNXutR92lQHQlmcSzuPt50n8WPcBU4pna9msWFcUMQK1ULifCXNg6T8J585bHdb+o9Xi23ZvgMjtDUaibjNsImCsCJ0JgfDk2EO8li83PIEy2vL1uha82HWcJNSDl9E49/QKONtETjc3nsok7riR3G6OwRB2B3x4yy0h4LtDYQRDVG29sZyNXOxmzhkrpF+RjNRaJkS1n/fjrxRnd7ZkG86TPTVUwTHkmj0YSLHo69f7/JmyyB63Aq5dGwE5jFBY2uvqrOVPZEsOyt6EFaggdzXRnHtbJZMtPjbRB/vN5W0IneAM7lkEXlA7MsKYVNzxIVlONfmE7EA2nk8c7MOjovXa3+dPqZPM4oz9mnN9IGhe0hSrVLR+cw==;D4IevZRPmb3NKgBQFs4I9Q=="
+secured: "PHzoNmVXc485qmLLO3pFHU+J5GiiJqT83O7yrsAa+HcVNh93sQCrafTvNpGN4wuOEvtKFxd9qWBgOBdk3oUlK7XyumevbcepZRLuTdTyF/salZJto+R6v+TrKZAcrwCfaKL1e7dOnw/HGG6K2A+yDlYS3H+sRi07/u1CSrtRpsVLTip/2juB8tpEsdbjsDXeJHC6KCXm9UO8wQnpcO9Vw3IZGee6auoNM/A2kgG8f2cO9YGtlK7N/E+Kyzgjy/ptDtST41sOfk7zm41zuBGPOAlFP59u7C3+XZXxvtlrwNfd6/7wsINryivD+WQ1VTI8tSAmr9/tUlRs8jOE1j4DrAize4DNC2+5LDw5ZA6RGkw=;68wEXRiA5N+KneZ6w4IW1w=="
 ---
 

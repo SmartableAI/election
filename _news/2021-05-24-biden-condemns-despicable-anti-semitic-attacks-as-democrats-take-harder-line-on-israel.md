@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Biden insists that 'my party still supports Israel'"
-excerpt: "President Biden said that there has been “no shift” in his commitment to Israel and that the Democratic Party still supports the Jewish state, despite objections from progressives."
-publishedDateTime: 2021-05-21T22:48:23Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mCiQkD6Kiac/biden-my-party-still-supports-israel"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mCiQkD6Kiac/biden-my-party-still-supports-israel"
+title: "Biden condemns 'despicable' anti-Semitic attacks as Democrats take harder line on Israel"
+excerpt: "President Biden on Monday condemned \"despicable\" anti-Semitic attacks against American Jews in the U.S. who have found themselves targets of death threats, hate speech and violent physical attacks amid the conflict between Israel and Palestinians."
+publishedDateTime: 2021-05-24T13:33:51Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R-599dy05XU/biden-condemns-anti-semitic-attacks-democrats-harder-line-israel"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R-599dy05XU/biden-condemns-anti-semitic-attacks-democrats-harder-line-israel"
+ampWebUrl: "https://www.foxnews.com/politics/biden-condemns-anti-semitic-attacks-democrats-harder-line-israel.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-anti-semitic-attacks-democrats-harder-line-israel.amp"
 type: article
-quality: 155
+quality: 166
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0b37716-3ca3-44de-b178-48a4769ea36c/57bf81a7-bbf7-4609-a1bc-0f424e03f276/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -125,22 +127,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden condemns 'despicable' anti-Semitic attacks as Democrats take harder line on Israel"
-    excerpt: "President Biden on Monday condemned \"despicable\" anti-Semitic attacks against American Jews in the U.S. who have found themselves targets of death threats, hate speech and violent physical attacks amid the conflict between Israel and Palestinians."
-    publishedDateTime: 2021-05-24T13:33:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R-599dy05XU/biden-condemns-anti-semitic-attacks-democrats-harder-line-israel"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-condemns-anti-semitic-attacks-democrats-harder-line-israel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-anti-semitic-attacks-democrats-harder-line-israel.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Psaki: Biden has seen 'encouraging' cease-fire reports, tells Israel to 'start winding their operation down'"
     excerpt: "Press secretary Jen Psaki said Thursday the White House has seen reports that Israel and Palestinian leaders might be nearing a cease-fire, reports she said were \"encouraging.\""
     publishedDateTime: 2021-05-20T19:21:08Z
@@ -172,6 +158,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden insists that 'my party still supports Israel'"
+    excerpt: "President Biden said that there has been “no shift” in his commitment to Israel and that the Democratic Party still supports the Jewish state, despite objections from progressives."
+    publishedDateTime: 2021-05-21T22:48:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mCiQkD6Kiac/biden-my-party-still-supports-israel"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0b37716-3ca3-44de-b178-48a4769ea36c/57bf81a7-bbf7-4609-a1bc-0f424e03f276/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pence slams Biden admin for trying to create a 'false equivalency' between Israel, Hamas"
     excerpt: "EXCLUSIVE: Former Vice President Mike Pence slammed the Biden Administration for attempting to create a “false equivalency” between Israel and Hamas, saying he and former President Trump “set the table for lasting peace and an end to the decades-old conflict in the region,"
@@ -222,6 +222,6 @@ related:
         height: 405
         isCached: true
 
-secured: "EgQ20O2Mv4d8suvw0nF5JgMkU/yP9Q3x0SvP+5ODLmCvegwzWVXHk1fg8+1OLs7NViokBoG7hvXzNDzNm/CgZSDdprQgjsDfHOQZEWX4KjiQud3q+PpSBKrh4N9SqnIah1zEMRsugE+/4AMv9Ievb1Ow9Q/pQjRzRjTXZT38tCc+9aZL14ZKSPqSFvC/oHUIYSF/52/SRu8rbwAFjcsxl//TZJa2uqzRg95EznVCLCWq4Pdq+uq/CR71S58IT20x4MwgLtc4qmF4iDPQLGfdhBB6OGZtiZL0JabYlUaOK036pRNlDBoeiTiWzMR3bBW+4/HEQYyieNQo/z8PdEINFav1FlRIoAhhxsjqgAclbZY=;plDOoSAyudmQwxzhCgRc+Q=="
+secured: "uZuREKG52ZBDTfET8teIkFTZ63yHW5FtqNlJbu1L4GEA1EzrMVQx/fq9I8ZcBoDijGu3zHnDFn76+xFuzLmDaxKSAGChsDF0QPJgIPpFkLUdOAxGsCPIv5lv9o5vInytRRfBDXkx5/A7E8PlvRin//j1rlMgDyccpD3umAVhCqSlUvdLXP2uhHswbp3RZ8v+AI5IH8BuhKBFCkQtGinTOTCDlIQ7z0QdVkdExajTJyZO90eJGIhpP5c8gK0mv3yv50nlhcED1A5tkAA5GHRkdOhKegTQl/qfs+hHY/cRMzeMLuHfdijScSvDljAMG6WNhezog6308xl3PLfVSMBdTU/FTmaIxElSaGXKRzZD2/g=;aLqDGzm1YZpEtXzzAEoupQ=="
 ---
 

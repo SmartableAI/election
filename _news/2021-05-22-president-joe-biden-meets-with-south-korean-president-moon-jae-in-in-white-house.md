@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Meets with South Korean President Moon Jae-in in White House"
-excerpt: "U.S. President Joe Biden, left, and Moon Jae-in, South Korea's president, right, depart from a news conference in the East Room of the White House in Washington, DC on Friday, May 21, 2021. Moon is set to make a last-ditch attempt to bring the U."
+excerpt: "U.S. President Joe Biden, right, and Moon Jae-in, South Korea's president, depart from a news conference in the East Room of the White House in Washington, DC on Friday, May 21, 2021. Moon is set to make a last-ditch attempt to bring the U."
 publishedDateTime: 2021-05-22T02:10:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/d24e11468d73ddee06cf68feedeb7ac7/President-Joe-Biden-Meets-with-South-Korean-President-Moon-Jae-in-in-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/d24e11468d73ddee06cf68feedeb7ac7/President-Joe-Biden-Meets-with-South-Korean-President-Moon-Jae-in-in-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/dd6636a78fb3f58a4ef36278bb894b59/President-Joe-Biden-Meets-with-South-Korean-President-Moon-Jae-in-in-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/dd6636a78fb3f58a4ef36278bb894b59/President-Joe-Biden-Meets-with-South-Korean-President-Moon-Jae-in-in-White-House/"
 type: article
 quality: 50
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/d24e11468d73ddee06cf68feedeb7ac7/BIDEN-KOREA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/dd6636a78fb3f58a4ef36278bb894b59/BIDEN-KOREA.jpg"
     width: 650
-    height: 433
+    height: 432
     isCached: true
 
 related:
@@ -189,6 +189,6 @@ related:
         height: 897
         isCached: true
 
-secured: "E0ojuNQp56TQt5BkzZlpTRLqccxwqXqAMkMXJN6PeXetiVb3mlZRMjYFsirMHCdB/BEgPJr/BWZOc1wzQe7YMvXcJXpMHis1MdGRuYGp4ocCLoOfRAa1RkapiezGm5Nz2My6yoX2Ry8qKoNoZyBI/ZjGDLpapcjLaFHLZShuPA3EiFRCBWhlpwQ5iGUvQx1SWGEmRt0KqPOuOeCwOxZ3vPK2R1X7F5kkmteoIPLvYjPhrQq+eGM8fJirN0ts4mOX5f9wHU81ai7hUHzO49rbrlM1Quw/iOZsQyjGUTJ9TNMLfX7WhrrvPoZMs+782i+lgRRYnX9cvBvtPxnwGIygEV5qAmwsxRBqyCsyZEgeb3r5BzoBYed4jCiQYBgOFoMTM7MIfZZ0EZeWu7oxrre4pm51G4MwSg71cwrfso5DZQOUJjVBxE+dF3m8fF7HKK7QdkNOwVm/4fH4tizxkCXcpdAdqvR+Krgpa8AC99ySnEc7g2ZSjB1ep5T1HCFHTWdxFAVip1QA9G4gUKPqEt0olA==;aRwsjpVVSADZbUt7srQrZA=="
+secured: "wGiIlQX+jnN5a5HNNgYr1gb9bOApDHNCJNeQpRt+Qv0UDepwsZo8XndlPlCPueV+NZYK7i1vNuaptB9Nmy182kZksyTF+qgF15YjbOJD3TUEMYCvGXTdVH1tpOcTMviAOEexjxTkEcBkmaCzLZjMkUvQnD5rG8hmdrE4TgXFbchSclWk4c7esW/AIR3YTNiv+lK7EvJryVTWqe3/Xj+iiQrdiL45USfTmQJCxLIR2vA9bBKIw70VL7vchDhfyakBSSiXJinoY+XD9nYWfrim818XpwYB840Cxa4hlK0HAnXCJwW1j5no5E7q53GPx0ezdTSaly4Wnlv+PCbIaKQWr6ORwXXhYpHxjG6GxIf/GW0=;5PaSQ9UBJF0AlD6yGQYalA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167?amp=1"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210522&t=2&i=1563023906&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4L00X"
         width: 825
         height: 545
+        isCached: true
+  - title: "Biden says Blinken will visit Middle East as Gaza ceasefire holds – US politics live"
+    excerpt: "“Following up on our quiet, intensive diplomacy to bring about a ceasefire between Israel and Hamas, I have asked my Secretary of State, Tony Blinken, to travel to the Middle East this week,” Joe Biden said in a statement this morning. Secretary of ..."
+    publishedDateTime: 2021-05-24T12:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/b849cbc854f6a00f9eeefadb047a486c1b76c46d/0_77_7671_4605/master/7671.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef414d4597d0dacd188cd8eb307e518e"
+        width: 600
+        height: 360
         isCached: true
   - title: "Idaho governor signs bill to halt Biden moves on gun laws"
     excerpt: "Idaho Gov. Brad Little has signed legislation aimed at thwarting a half-dozen executive actions taken by President Joe Biden to combat gun violence"
