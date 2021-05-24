@@ -1,22 +1,34 @@
 ---
 category: news
-title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
-excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
-publishedDateTime: 2021-05-19T13:14:00Z
-originalUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
-webUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
+title: "Kamala Harris tells 2021 graduating class 'you give me such inspiration'"
+excerpt: "\"I couldn't be more proud of you guys,\" she told the seniors. \"The things that you all have accomplished, you give me such inspiration.\""
+publishedDateTime: 2021-05-24T03:09:00Z
+originalUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5"
+webUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5"
+ampWebUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
 type: article
-quality: 29
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: C-SPAN
-  domain: c-span.org
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://i.insider.com/60aaf9e2f27b4c00194461bb?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Kamala Harris grapples with unique challenges as vice president"
@@ -50,22 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/mothers-day-kamala-harris-jill-biden-09-gty-llr-210508_1620502085825_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Kamala Harris tells 2021 graduating class 'you give me such inspiration'"
-    excerpt: "\"I couldn't be more proud of you guys,\" she told the seniors. \"The things that you all have accomplished, you give me such inspiration.\""
-    publishedDateTime: 2021-05-24T03:09:00Z
-    webUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
-    images:
-      - url: "https://i.insider.com/60aaf9e2f27b4c00194461bb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Fellow Asian Americans laud Kamala Harris’ rise, but want more clout for their communities"
     excerpt: "Asian Americans are eager to build political clout and looking for help to Kamala Harris, the first Asian American vice president. She meets Wednesday with one group."
@@ -350,6 +346,15 @@ related:
         width: 1200
         height: 684
         isCached: true
+  - title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
+    excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
+    publishedDateTime: 2021-05-19T13:14:00Z
+    webUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 29
   - title: "Vice President Harris Holds Inaugural Meeting of Worker Organizing and Empowerment Task Force"
     excerpt: "Vice President Kamala Harris delivers remarks during the Inaugural Meeting of the Worker Organizing and Empowerment Task Force at the Vice Presidents Ceremonial Office on Thursday, May 13, 2021. The Task Force was formed to mobilize the federal government's policies and programs to provide workers in the private sector as well as federal,"
     publishedDateTime: 2021-05-15T19:49:00Z
@@ -360,6 +365,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "PgRkxwIpzYQP7g1fPmL8QNm+eTnF4O10y/ohvF3phU5NAhRZs5sb1HkZELlaQ192EdzmRbDPf2qwrwVfnTtMU8CeG6kkWPNoUUo9ix+a/pKJQGbFIER0kWXzPwAb+HuwGbBAQ9KxVHUW0hcxe8KoRPdoDJg7ccflFqZx9/LyXnru55gYh8nMgyPvSCdowI1c/qd5sm/8F6fVydvKdQprIre8K9PFDfItdm+j1zwtXQdzww9+dEqDl9Ac1EvOmcRkeiXdi892CWVZV9fUfLkfhngUYIZCZXEGCFsfYYOx8QO1FSa9uw3RNk5t2KNtvXuQfvl/xwjzANgpcx8l1xtUZnRBXdiRKmhqGunGf3/j9ms=;8r6hPpU5fiOpNOHeKDZ4dg=="
+secured: "VlToj/92002qyGx2O0SmQgXpOnbLDFSNRAdJbSgd3s6xfBREOQSIWyJ8F2YRELR5c2z2oz0C89rn07OdY+dmhdVTwZhulDtfNGSwsbP/dg23BDBZMMO4um7zO2LDHNAZajWyJ7aIJgCm4RGg3u7agaORumgrWa5i9e6WXjNe80y0+P+ysFbyvM1y/bzdP//SWuT67N0oOYgRmhiexvB+xXaErSZSJOnS6gGCW1xyQNAsL04IHveR3fYJjgOW1NIho7MrfancpuF8jzjYq3rDoC5dsN/YQ7z96lwROh4QS8xxGKKdVAnCoei5elYIzh1LWbO5BTY/Uefze5t4/aOmAQEzXz+GGvw4SVGlv5sRSXo=;N6nEHjxuVjv5hvPefM2vzQ=="
 ---
 

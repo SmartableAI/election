@@ -57,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kamala Harris tells 2021 graduating class 'you give me such inspiration'"
+    excerpt: "\"I couldn't be more proud of you guys,\" she told the seniors. \"The things that you all have accomplished, you give me such inspiration.\""
+    publishedDateTime: 2021-05-24T03:09:00Z
+    webUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/60aaf9e2f27b4c00194461bb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fellow Asian Americans laud Kamala Harris’ rise, but want more clout for their communities"
     excerpt: "Asian Americans are eager to build political clout and looking for help to Kamala Harris, the first Asian American vice president. She meets Wednesday with one group."
     publishedDateTime: 2021-05-19T14:08:00Z
