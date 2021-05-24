@@ -35,6 +35,22 @@ related:
         width: 980
         height: 580
         isCached: true
+  - title: "Read Kamala Harris' Speech to Class of 2021 as Students Graduate"
+    excerpt: "The vice president told students they had \"much to offer\" as she noted COVID restrictions hit their final school years."
+    publishedDateTime: 2021-05-24T09:49:00Z
+    webUrl: "https://www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104"
+    ampWebUrl: "https://www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1804663/vice-president-kamala-harris.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "First lady, Vice President Harris highlight different paths to motherhood"
     excerpt: "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood."
     publishedDateTime: 2021-05-08T19:44:00Z

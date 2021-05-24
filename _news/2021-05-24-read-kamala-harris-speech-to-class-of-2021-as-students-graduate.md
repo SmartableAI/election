@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Kamala Harris to keynote first Asian American, Pacific Islander unity summit"
-excerpt: "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday."
-publishedDateTime: 2021-05-17T18:34:00Z
-originalUrl: "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-webUrl: "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
+title: "Read Kamala Harris' Speech to Class of 2021 as Students Graduate"
+excerpt: "The vice president told students they had \"much to offer\" as she noted COVID restrictions hit their final school years."
+publishedDateTime: 2021-05-24T09:49:00Z
+originalUrl: "https://www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104"
+webUrl: "https://www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104"
+ampWebUrl: "https://www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104?amp=1"
 type: article
-quality: 72
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg"
-    width: 800
-    height: 533
+  - url: "https://d.newsweek.com/en/full/1804663/vice-president-kamala-harris.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -42,22 +46,6 @@ related:
       - url: "https://thehill.com/sites/default/files/harriskamala_051721getty_harris.jpg"
         width: 980
         height: 580
-        isCached: true
-  - title: "Read Kamala Harris' Speech to Class of 2021 as Students Graduate"
-    excerpt: "The vice president told students they had \"much to offer\" as she noted COVID restrictions hit their final school years."
-    publishedDateTime: 2021-05-24T09:49:00Z
-    webUrl: "https://www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104"
-    ampWebUrl: "https://www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1804663/vice-president-kamala-harris.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "First lady, Vice President Harris highlight different paths to motherhood"
     excerpt: "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood."
@@ -274,6 +262,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris to keynote first Asian American, Pacific Islander unity summit"
+    excerpt: "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday."
+    publishedDateTime: 2021-05-17T18:34:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Harris County to lower COVID threat level, KHOU 11 confirms"
     excerpt: "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday."
     publishedDateTime: 2021-05-18T03:09:00Z
@@ -377,6 +381,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "GGiQ3jyKRboYERMrJv5y1wbzz+7Ild9hcg26lsfKqm6oCz4/QGtEdsHbDZR4bklEpSmxoQTsCiNM8Hr0nSfQg9h4EUZ34qxT1WM6P90v0brNUVeZNixczVhRB+oRtDoxgMUPI+FInAqsBRqCKPBM3ZI7NjEhADPCqTq6p6SgZSdwAVLQPpHzAKnNazhwy2i4KiWXcybvnF9Pi7cA9by1KCF3wEoUo/dStfpOJ3ZW5mn91zmqiia7dq3n3fWfxodBlU57oYaxXJG2i6axOxheqEmqDzGYnvN7hjuryiJocMr4rGT+bOcBri/n5LUmD96jJ+j4HsUFa2qkm+NL5KxTlsk0FIamgCTu7LQf3UaWNGISvUsJ3wbZiT1yQwE3j01A14xBi64mHlcbT/PyU9m09HXZeMYKF8r+975m7MU2zznk4YRYZ9juIRfy4qglV7yylQSxfahkOzv+N8Suef9FGwiLZ/0glEUJkIJDSQnWJJn+ZCAcpW9Nhy85TZKTXKbvOmRcJ5DNQ1CZpiI5Go0S1g==;8TzUFL27y6Km6hpg3fBlXg=="
+secured: "2aAgoB9SFxP0ax8UfwxiA8vw6Plqu4ciiCq/57yApEABODqTmyAXidstWbWPilPJxayHD7kJR1HDB9Yy/q/1H5R75G+Bh53hKWh+3PSdm8jZ33Sh5bAvJj3LOM7KDIOKUyA0izmH7/t741I3HxjDX7V5S51mfsHkqV45tOvkisruJCIo+AfPgnDYIfjtwNk5Zl+RVLJMWEt5+/fW3rrldRA9okWtTDZuC7EL1d1YLXlD6Qm5rLjRjaG7UEHTZp+eC2ShXyhDQX8hJS6ii4jhiXzDEJKVWUY2QbktJlwKuKAWoRZNXmWORpdC1b65/YToYqP/25UiwA/Q9Gp4RMDB5DnHrOeJTjArG08Z7Pwrt6A=;ZMfFP3ovBB2fImSGmcNk+Q=="
 ---
 

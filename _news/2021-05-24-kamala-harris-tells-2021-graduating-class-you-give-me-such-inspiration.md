@@ -47,6 +47,22 @@ related:
         width: 980
         height: 580
         isCached: true
+  - title: "Read Kamala Harris' Speech to Class of 2021 as Students Graduate"
+    excerpt: "The vice president told students they had \"much to offer\" as she noted COVID restrictions hit their final school years."
+    publishedDateTime: 2021-05-24T09:49:00Z
+    webUrl: "https://www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104"
+    ampWebUrl: "https://www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1804663/vice-president-kamala-harris.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "First lady, Vice President Harris highlight different paths to motherhood"
     excerpt: "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood."
     publishedDateTime: 2021-05-08T19:44:00Z
@@ -365,6 +381,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "VlToj/92002qyGx2O0SmQgXpOnbLDFSNRAdJbSgd3s6xfBREOQSIWyJ8F2YRELR5c2z2oz0C89rn07OdY+dmhdVTwZhulDtfNGSwsbP/dg23BDBZMMO4um7zO2LDHNAZajWyJ7aIJgCm4RGg3u7agaORumgrWa5i9e6WXjNe80y0+P+ysFbyvM1y/bzdP//SWuT67N0oOYgRmhiexvB+xXaErSZSJOnS6gGCW1xyQNAsL04IHveR3fYJjgOW1NIho7MrfancpuF8jzjYq3rDoC5dsN/YQ7z96lwROh4QS8xxGKKdVAnCoei5elYIzh1LWbO5BTY/Uefze5t4/aOmAQEzXz+GGvw4SVGlv5sRSXo=;N6nEHjxuVjv5hvPefM2vzQ=="
+secured: "NfZC0V/3Wqm3qxD0V70/NGr/V0OFNqnqhTmu+9QV7sUu6j5J2pgnZNCx4yaMc0W3Z8fo8WuW86jiZREWn9LCOm1EKDlX0QB4rZDSymWLQ4YhwXX5yHKwei4EsCJZgMTjyWSXAj4vcYUHYVIse6jF+hrwXl54Ix5kvarYvaoEOYzBeSj6HG46tKt3QOmQz6HsvTNhyx8P54tIKs8DVyle3oCsoHDEKt887fysMkau2g1L5rPfd2d7Bf7q+x1c+b2m2SQUBab6wJacuhWObbvJD0MXB0XCEh5e/uLKsWplbw39TtIMylJRaVHGCYFKyJn4TRewvkOZctI2MPIYT/WlHsrujRb/omuhHIlNcWc9ydBX9EGN1rLdKBMDtt7azLvuSvHbzWy7fg1VrsLKwFsHAOna1bbrBTfYg16PkeC/w2O+yGQ8Z/33PIPy4Av6+EiPbYKuXLygmmSCgCpof1+B3HkTU8GJ9809k+904sDz1QsVu6s36BuBKpVqqC81sDKz35VuySauuxivX4kMwnv6kw==;Aw1XdCvyhIK+Q6f97Fs1IA=="
 ---
 
