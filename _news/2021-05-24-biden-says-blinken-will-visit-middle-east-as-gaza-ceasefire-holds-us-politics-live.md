@@ -3,8 +3,8 @@ category: news
 title: "Biden says Blinken will visit Middle East as Gaza ceasefire holds – US politics live"
 excerpt: "Biden says US secretary of state to travel to Middle East this week – follow all the day’s politics news"
 publishedDateTime: 2021-05-24T13:34:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden?page=with:block-60abb2cc8f088d8c31787aac"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden?page=with:block-60abb2cc8f088d8c31787aac"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden?page=with:block-60abb82f8f086d71cc1593e8"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden?page=with:block-60abb82f8f086d71cc1593e8"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
 type: article
@@ -275,6 +275,6 @@ related:
         height: 433
         isCached: true
 
-secured: "NeAIIH1FYvYKge5BBfEFJRyobZ7r966YOUXPzWSxjFw1jZENe2QPdDEgT0yGpzjMBwJAF5ukZBquzf/t3A4wG+L83fCeXe35Uhf5VtorEVzLdT3THc5xOc1v3QAnaJzb1TFcdImDxXNpexrWD7WJNnwliLP31H0dRsnPqtEqFdV13UH3qURySwYeZBtHMUes0NJXLwNBX/+ulGFqJ0UgXl7SzxmiIYJ+zhd3xiL21yIaxRcvrQmPm01M+tWVEr1XP9+prFNfvj5UN6RZ1Hx+3deOt5MMfj6UkW3CsdI6PpkmYFgOoPv3Ez4m5asIVf4jD2QED6sWk2ozrCCwjEqsIJTqm7Qm2L3SsZxO6RvI/Do=;RFaDCmerQGphWOMznY9MAw=="
+secured: "R1FiRvV+uK+1PWRYDxa8OWw3lm8wrhHSZ/uLz1svSBMJRWdBfLrzYzD5l2QV8k9mTmvpKf5eA3S7tvzloG48kNtS/Ra4XKAFBjHi6L0PSef24gNkD7VmzXsOqXAh4IK8j6n2+ugmp2EQu9nXeQsoxm7G2ujTBm9Q0BIFKzSS3bLLZTsXVMy16tmX9mTWV+slzT5dZG/mfrmhO44LUITF8P2OpxUM5X9Eae6bMpPD33uUdRFbQjzIV9vO6q59EsaZN0AOxqnQ5KszcMx9Zu3skAWdQ/e+vlQhgr1o4BqD5KBOE8JaEyi4RJQe9FvuQ8zhDH5tCmniNmSFkN2Qw5sFHf9TcSRSRFiK8tJx8AhCQiU=;tFbKj+4LNGvRChZWqdR/PA=="
 ---
 

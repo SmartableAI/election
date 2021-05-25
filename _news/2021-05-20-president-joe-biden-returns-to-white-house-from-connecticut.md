@@ -156,7 +156,7 @@ related:
   - title: "Biden says Blinken will visit Middle East as Gaza ceasefire holds – US politics live"
     excerpt: "Biden says US secretary of state to travel to Middle East this week – follow all the day’s politics news"
     publishedDateTime: 2021-05-24T13:34:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden?page=with:block-60abb2cc8f088d8c31787aac"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden?page=with:block-60abb82f8f086d71cc1593e8"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
     type: article
