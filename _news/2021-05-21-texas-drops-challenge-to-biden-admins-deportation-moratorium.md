@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden's Buying Metals Abroad Could End Controversial Mining Projects"
+    excerpt: "The mayor of Superior, a town at the center of a controversial mining project in Arizona, said the news was \"very disappointing.\""
+    publishedDateTime: 2021-05-25T21:36:00Z
+    webUrl: "https://www.newsweek.com/joe-bidens-buying-metals-abroad-could-end-controversial-mining-projects-1594816"
+    ampWebUrl: "https://www.newsweek.com/joe-bidens-buying-metals-abroad-could-end-controversial-mining-projects-1594816?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-buying-metals-abroad-could-end-controversial-mining-projects-1594816?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1806804/copper-queen-mine.jpg"
+        width: 2500
+        height: 1448
+        isCached: true
   - title: "'U.S. Welcome Patrol': how some border agents are struggling with Biden's policy shift"
     excerpt: "Some U.S. border patrol agents are so frustrated with President Joe Biden's more liberal border policies that they are considering early retirement, while other disgruntled colleagues are buying unofficial coins that say 'U."
     publishedDateTime: 2021-05-14T12:25:00Z

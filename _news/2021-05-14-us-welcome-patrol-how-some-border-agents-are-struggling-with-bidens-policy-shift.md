@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden's Buying Metals Abroad Could End Controversial Mining Projects"
+    excerpt: "The mayor of Superior, a town at the center of a controversial mining project in Arizona, said the news was \"very disappointing.\""
+    publishedDateTime: 2021-05-25T21:36:00Z
+    webUrl: "https://www.newsweek.com/joe-bidens-buying-metals-abroad-could-end-controversial-mining-projects-1594816"
+    ampWebUrl: "https://www.newsweek.com/joe-bidens-buying-metals-abroad-could-end-controversial-mining-projects-1594816?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-buying-metals-abroad-could-end-controversial-mining-projects-1594816?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1806804/copper-queen-mine.jpg"
+        width: 2500
+        height: 1448
+        isCached: true
   - title: "Infrastructure negotiations snagged again as Republicans reject Biden's counterproposal"
     excerpt: "Bipartisan negotiations on infrastructure hit a new snag Friday after Republicans flatly rejected a counterproposal on the multi-trillion dollar bill advanced by the White House. The White House's $1."
     publishedDateTime: 2021-05-22T21:31:00Z

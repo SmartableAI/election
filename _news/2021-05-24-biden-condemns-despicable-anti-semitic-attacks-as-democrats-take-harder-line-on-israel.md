@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to attend viewing of recently deceased longtime aide"
+    excerpt: "President Biden traveled to Delaware Tuesday evening to attend a viewing service for his longtime aid, Norma Long, who passed away on May 17. "
+    publishedDateTime: 2021-05-25T21:19:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N1dR-zN5pRs/biden-to-attend-viewing-of-recently-deceased-longtime-aide"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-attend-viewing-of-recently-deceased-longtime-aide.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-attend-viewing-of-recently-deceased-longtime-aide.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22a9630b-047d-47d1-9952-04d0bea71b85/eeb72bf6-9f91-441b-afd6-816eea0f5863/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to name Tom Nides ambassador to Israel: AP source"
     excerpt: "President Joe Biden is expected to name former senior State Department official Tom Nides to serve as ambassador to Israel, according to a person familiar with the matter."
     publishedDateTime: 2021-05-25T19:45:06Z

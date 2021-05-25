@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-gover
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
 type: article
 quality: 131
-heat: 271
+heat: 291
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/18/fca5c57b-04f7-4ff4-9832-a7b6c222547c/thumbnail/1200x630/d615f11dcdadbd7bc81e61c3680c60c9/ap19200565745965.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden DOJ seeks to block the release of a 2019 memo that outlined reasons not to prosecute Trump after the Mueller report"
+    excerpt: "Attorney General Bill Barr had cited this memo as one of his reasons not to charge Trump with obstruction of justice following the Mueller report."
+    publishedDateTime: 2021-05-25T15:51:00Z
+    webUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/60acbd9abee0fc0019d593b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20"
     excerpt: "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency"

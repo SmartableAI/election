@@ -95,22 +95,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden's War on Single-Family Homeowners"
-    excerpt: "If you saved your money and bought a house in the suburbs, your investment and lifestyle are under attack. President Joe Biden is pushing to end"
-    publishedDateTime: 2021-05-19T10:07:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/543623_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "RQVsVD2lF3RxtiWz6L3f8AhUUb5pZ8Cc1dRCTBmiLGAh6i230jCg3ZwBUR5jSPii2E9WyHC24OtjEJOb93wJvGDTg7lh10MUZcCnJ1CWUFj+5Mio4hYU2n4Ql+GTNxo524aTPVri3vSECnINWs5K3z1wTFFRWtfLtupH+UO3VcEzgYoNWeYQSI5SgXJyOHKoiAcRijHqgYrRSbgdUtgzbwa8ZXCuTEY3AayxEl8aFIqn8QXcSZ0nBTEkAeDsQ+VuWfFCO/7pkQ9rmrP3HKsdCi0K4Gp4UnZUYHPttl7rW/Zd5heb4YBc52kgRo/orEtFO5UW2Wm3eVc6k7fDHwxEmQSwcvVmh08B/vlt1xiVEMI=;DyQIafnx9A8jMFsUz21dPg=="
 ---

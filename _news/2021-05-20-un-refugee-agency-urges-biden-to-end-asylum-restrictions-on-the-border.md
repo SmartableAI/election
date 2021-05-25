@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden indicates he could support $1 trillion infrastructure plan, but sticking points remain"
+    excerpt: "GOP senators say that President Joe Biden has informed them he'd be willing to accept an infrastructure package of around $1 trillion, significantly lower than the White House's public offer last week.\n    \n"
+    publishedDateTime: 2021-05-25T21:51:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jYkrEjMIXCE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/infrastructure-negotiations-latest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/infrastructure-negotiations-latest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

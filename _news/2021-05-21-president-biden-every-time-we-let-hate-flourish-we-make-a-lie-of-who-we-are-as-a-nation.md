@@ -28,35 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says ‘hate can be given no safe harbor’ as he signs anti-Asian hate crimes bill"
-    excerpt: "President Biden on Thursday signed into law a bipartisan bill that would speed the review of hate crimes and make it easier to aid in their reporting."
-    publishedDateTime: 2021-05-20T22:07:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgkMhieKPXs/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp"
+  - title: "Hunter Biden shopped reality TV show in 2019 as dad ran for president: new book"
+    excerpt: "President Biden's son Hunter Biden pitched television producers on his own reality show during the summer of 2019, according to a new book."
+    publishedDateTime: 2021-05-25T20:16:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PCoLgtBF13g/hunter-biden-joe-president-campaign-2020-battle-for-the-soul"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-joe-president-campaign-2020-battle-for-the-soul.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-joe-president-campaign-2020-battle-for-the-soul.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6679eccc-96b1-4ce3-83f7-fa70660277b5/d0f7098a-504f-4d58-880b-025796475a38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Biden condemns arrest of Belarusian opposition figure, calls diverted flight a 'shameful assault'"
-    excerpt: "President Biden demanded the release of Belarusian opposition journalist Raman Pratasevich on Monday after he was arrested following a forced diversion of his Ryanair flight from Greece to Lithuania."
-    publishedDateTime: 2021-05-25T02:01:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sblL3GGzwF8/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight.amp"
+  - title: "Whitmer transition fund paid for her private jet to attend Biden's inauguration: report"
+    excerpt: "Michigan Gov. Gretchen Whitmer's transition fund paid for a private jet she took to attend President Biden's inauguration in January, according to a new report."
+    publishedDateTime: 2021-05-21T23:57:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YPBkXOXznTQ/gretchen-whitmer-private-jet-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/gretchen-whitmer-private-jet-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gretchen-whitmer-private-jet-biden-inauguration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2be256f3-6cab-48ee-8997-02148a29a3d2/96fc745e-3546-4970-83d1-2b874e7dd4e9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd94e797-360f-4eb1-92ba-4a4a55dbf560/6e5bee31-047b-4727-b88f-6c80bdbdf265/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

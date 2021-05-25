@@ -279,6 +279,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Floyd family sees Biden, Congress mulls police bill"
+    excerpt: "The anniversary of George Floyd's death was supposed to be a milestone moment and see passage of legislation to combatting systemic racism. Instead, Floyd's family visited Washington to mourn with President Joe Biden and prod Congress to act."
+    publishedDateTime: 2021-05-25T19:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/25/floyd-family-sees-biden-congress-mulls-police-bill/7434912002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/46a5f7e8-fdab-4df3-bb44-4fb752d919c7_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden told Pete Buttigieg 'that was some f---ing bulls---' on stage after a combative debate exchange with Kamala Harris, according to a new book"
     excerpt: "Biden was stunned when Harris went after his record on busing during a Democratic primary debate in June 2019."
     publishedDateTime: 2021-05-19T17:19:00Z
@@ -320,6 +334,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 102
+  - title: "George Floyd’s family urges Biden to pass laws to 'protect people of colour' – video"
+    excerpt: "If you can make laws to protect the [national] bird, you can make laws to protect people of colour’"
+    publishedDateTime: 2021-05-25T20:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/may/25/george-floyds-family-urges-biden-to-pass-laws-to-protect-people-of-colour-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/1ec0df670bff63163f7ebabb5d084545316f8739/0_160_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae85390edfba06d3187ad097becaab68"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Harris, Emhoff earned more than Bidens with 7-figure earnings, taxes show"
     excerpt: "Both the first and second families' tax returns reveal losses of income since the successful Biden-Harris White House bid."
     publishedDateTime: 2021-05-18T12:32:00Z
@@ -335,6 +363,20 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/05/EmhoffHarris-scaled.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Members of the George Floyd family Meet with President Biden andVice President Kamala Harris"
+    excerpt: "Philonise Floyd, George Floyds brother; speaks to the media outside the West Wing at White House in Washington, DC on Tuesday, May 25, 2021. The Floyd family meet with President Joe Biden and Vice President Kamala Harris in the Oval Office today on the one year anniversary of George Floyds death."
+    publishedDateTime: 2021-05-25T20:28:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/2806c4431dbb9001164d570aa73ff82a/Members-of-the-George-Floyd-family-Meet-with-President-Biden-andVice-President-Kamala-Harris/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/2806c4431dbb9001164d570aa73ff82a/FLOYD-WHITE-HOUSE.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Kamala Harris to give 2021 commencement speech in CNN special"
     excerpt: "CNN will honor the millions of students graduating from high school and college this weekend with a star-studded prime-time special."
@@ -378,6 +420,15 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "George Floyd’s Family Urges Police Reform After Meeting With Biden, Harris"
+    excerpt: "The meeting, one year after Floyd was killed by police, came as lawmakers missed Biden’s target date to enact meaningful police reform."
+    publishedDateTime: 2021-05-25T21:30:00Z
+    webUrl: "https://www.usnews.com/news/national-news/articles/2021-05-25/george-floyds-family-urges-police-reform-after-meeting-with-biden-harris"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
   - title: "Doug Emhoff, husband of Vice President Kamala Harris, to hear about COVID-19 business challenges in Annapolis"
     excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is scheduled to visit Annapolis this morning, taking part in a discussion with business owners about the challenges posed by the COVID-19 pandemic."
     publishedDateTime: 2021-05-18T13:09:00Z

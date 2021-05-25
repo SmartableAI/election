@@ -79,6 +79,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Joe Biden's Buying Metals Abroad Could End Controversial Mining Projects"
+    excerpt: "The mayor of Superior, a town at the center of a controversial mining project in Arizona, said the news was \"very disappointing.\""
+    publishedDateTime: 2021-05-25T21:36:00Z
+    webUrl: "https://www.newsweek.com/joe-bidens-buying-metals-abroad-could-end-controversial-mining-projects-1594816"
+    ampWebUrl: "https://www.newsweek.com/joe-bidens-buying-metals-abroad-could-end-controversial-mining-projects-1594816?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-buying-metals-abroad-could-end-controversial-mining-projects-1594816?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1806804/copper-queen-mine.jpg"
+        width: 2500
+        height: 1448
+        isCached: true
   - title: "'U.S. Welcome Patrol': how some border agents are struggling with Biden's policy shift"
     excerpt: "Some U.S. border patrol agents are so frustrated with President Joe Biden's more liberal border policies that they are considering early retirement, while other disgruntled colleagues are buying unofficial coins that say 'U."
     publishedDateTime: 2021-05-14T12:25:00Z
@@ -236,6 +252,6 @@ related:
         height: 432
         isCached: true
 
-secured: "HJZFgwma1zziMfyxZ/cP4NjeFPi+voyr19E8JtDOEmwxFl3XUOm5JFBJ2g75ZismsMycppuk6xdaXOo32HuNiOlcOjHz+vwFRSWmwBhEaQEXm0fIuSpQAjUtIvcFbPtUIvaL2nuW/SVWEDjJwVJSu5GPbAp3oArq6HXuERsfBYjSGrS80c1U1K0gePq+u/YqYF/tM4c+LVDjsvO7bsvBGGiiBTfSVL9+loP9Bbpj3G1yhchdyWZ8gD9OY6soDkgtgBk9G2VeeGdRBEdD9YtoAdruwg35n4cJqR9vdB6T4g9zfX3EbREt7aRvk0sbDYiQK7mhH1oXIF9lsV0XnCl4VyIdTLY0J3JjCAk8JEtUddI=;KtY/BhL8oQBhT4JSMW8lqg=="
+secured: "gAROATrw2YLcLA6zxt7t7vKN2Tiyk1DUYpP8/j416NvuwTHCkW/abi4dWVb9TQ7LvbaIGrZps/cXntUBlsjKrbugY8+4FT2+M4W8775vBJX/H48DDfUHNuRNj9u76UiECdcM6UvPTMtJyRYq8zN4MgLuYK7oFRV8Y2ixffho3VRMpIOlfXKBcH+j1MccDnldvOAOqBnLdoYaGqm5JqcJw7DKd3tYAy3RmmdOUnpPDngqoUd51Azk1jAh30ANgYESM9Jkxx3eLcmLBjrSkcwfByfofSFgGuxxa32EwJIYmOrIsLlHojgd1pwK+bHLdue3j/3o4z3K3EpMTCdTBXAgBbom2NHYjqwZ2Z9GsvRxiPIZOqH5JqridCdouQQY5HrV2JX3Ky5xLSq7srx+rWxAx075xS7CFwHqHEbdIJ0noxbbQmupTH8NrJmIkZ9aboTj+Xj0LTvja6VF6SFp4ImS6Lyu5CvFoc/Pw9mjldSbuyMu1KsIpGke0Iw9OJAknPZ5haimm894V+cYs5S+yy/35g==;UaxNLPlAIDWNyd/yO2yUrQ=="
 ---
 

@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden indicates he could support $1 trillion infrastructure plan, but sticking points remain"
+    excerpt: "GOP senators say that President Joe Biden has informed them he'd be willing to accept an infrastructure package of around $1 trillion, significantly lower than the White House's public offer last week.\n    \n"
+    publishedDateTime: 2021-05-25T21:51:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jYkrEjMIXCE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/infrastructure-negotiations-latest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/infrastructure-negotiations-latest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senators call on Biden administration to demand Saudi end blockade tactics on a starving Yemen "
     excerpt: "A group of Democratic senators are calling on President Joe Biden to take \"immediate and decisive action\" to end Saudi Arabia's \"blockade tactics\" in Yemen that have prevented food, medicine and other crucial supplies from reaching desperate and starving people there.\n    \n"
     publishedDateTime: 2021-05-20T13:00:53Z

@@ -3,8 +3,8 @@ category: news
 title: "Merkel Flips Off Biden's Protest -- to Buy Putin's Gas"
 excerpt: "When the U.S. created NATO, a primary purpose of the alliance was to serve as a western wall to defend Germany against the 400,000 Russian troops on"
 publishedDateTime: 2021-05-25T11:37:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.amp.html"
 type: article
@@ -240,6 +240,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "IiSQVJsByHQRAnOhAeEz+ZJyCOU+LtZGYmpJSRsnUtTzt3QervI4Jjr7jV20iHYTJXLpfS5QHQvQO3MMJCBZaW4d+j8v68fzpjXgJMTf7O7VPIdzXblS8/8MOlO8WQiVaogCNykjLl/BfH4sCMXJJYousNoda1QVdZ4MG99C7xkPe6axYRBoyjJ89AH8J9+d366974+jlg5wc8s5a4MzkgStIgIObJyxbnIfdKZPlZ3cvsIHytwzxlLAK4Um9eZ4ccrFg1XeMCOcLRqakoRNbDF9Xu5JfPV8v+eNOn2Q6/42go3ncUD5T5Cb0D92ke8p1otLp474ZQlXKbk7bKrFDlnu48xsX89wYis4SniFRVXFYcgX0iM55+B4RYasBlAFRfQNKgj98lbyxOGzB+uriEWJFYrkicdg+YQwSnqB76y2yQXv1w1K4f8/cfQONNob3HXBBIWkBGLcNjiXjk5pxY8L83m01FdWcKQ2F8wRrI++6+anQtFYgOR6cCsA+2E/DIQ9toEX2EFmdliX2wamVg==;vNTVT9RtPIoUs4Hxg7NXFg=="
+secured: "VS1WJiJVJU9yLk68aHZBbiA8T/SLK609YrN6rw5Eso19KYhEObg34xBImYyK3ZPjmmhB7z+zB/v1d0ny3X0QzG/zc3jMMI+phXk5zZAiv8XRjy7FASDX+wnZrs9Q0sSP2qzD83BtDQFGacQV+pDnHpT4vu1+L1W9QFNEeEfI8DL8QTdtUzh9P445PRVjzSvUElp+H9BYlvUK7ie8UWSQdVkqHyLSycwQ2AsfjEGRw4g661NOIb2oP1KHbBo3lWV4G7UB7jLNTp93DOfgPmcrCaKIQ/mVVhgW1XvjU3Re+5fp5k1or6jtQiNPbb2Qcham/i4OlUcWb1GdUIqSCnGXC0JwIX3vRTk+FVuCSZHyCzA=;wpZA0buBIXlQ39T1hRTRZw=="
 ---
 
