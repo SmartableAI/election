@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "First lady, Vice President Harris highlight different paths to motherhood"
+    excerpt: "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood."
+    publishedDateTime: 2021-05-08T19:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mothers-day-kamala-harris-jill-biden-09-gty-llr-210508_1620502085825_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Kamala Harris blasts how workers lose $200 billion a year from the anti-union trend in the US economy"
+    excerpt: "At the first meeting of the White House task force on worker organizing, the vice president ripped into the wages lost from America's lack of unions."
+    publishedDateTime: 2021-05-14T11:50:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/601abcf001504a00197fb5b7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Harris 'united' with Asian Americans against hate"
     excerpt: "Vice President Kamala Harris told members of the Congressional Asian Pacific American Caucus the Biden administration stands is committed to combatting hate crimes against Asian-Americans. (May 11)"
     publishedDateTime: 2021-05-12T00:38:00Z
@@ -39,6 +71,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Arizona AG calls for Harris ouster as 'border czar'"
+    excerpt: "Vice President Kamala Harris must be removed from her role in dealing with the border surge, Arizona Attorney General Mark Brnovich said in a letter this week to President Biden, saying his running mate has blown her chance to fix things."
+    publishedDateTime: 2021-05-13T13:35:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/07/US_Mexico_Harris_Obrador_27987.jpg-ac6ed_c0-0-5527-3224_s1200x700.jpg?3598ffbb02b4836c4f9da67f95c650e0d52b03d3"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Vice President Harris Meeting with Congressional Asian Pacific American Caucus"
     excerpt: "T16:24:02-04:00 President Harris meets with members of the Congressional Asian Pacific American Caucus. Javascript must be enabled in order to access C-SPAN videos. Democratic vice presidential candidate Kamala Harris meets with officials in Fresno,"
     publishedDateTime: 2021-05-11T20:43:00Z
@@ -48,6 +96,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 31
+  - title: "Vice President Harris Holds Inaugural Meeting of Worker Organizing and Empowerment Task Force"
+    excerpt: "Vice President Kamala Harris delivers remarks during the Inaugural Meeting of the Worker Organizing and Empowerment Task Force at the Vice Presidents Ceremonial Office on Thursday, May 13, 2021. The Task Force was formed to mobilize the federal government's policies and programs to provide workers in the private sector as well as federal,"
+    publishedDateTime: 2021-05-15T19:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/71eb83eb07d5af9bf835e1bf236e01fe/Vice-President-Harris-Holds-Inaugural-Meeting-of-Worker-Organizing-and-Empowerment-Task-Force/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 24
 
 secured: "pd5uMFV+6+nBrDEtXliZtkeaZe3yuDDbBDgWJnFIuf7Yq8g98Py4Q49KN77VdhtrkS9r7Tnrgp4OgGp5wf3a0/a9vl4Kpn9pdVDPd1KGsjOucA93dTOZcJ3uAFRxOngoNU9bsBe3XINPcb/IpiM5ozo5Ex4PrCHbGHfGdQ/ZFeFXpEy/0bxFmHw2UeVxXhrDVx8XnzMIS73vsf2nG9wl4TcIFlKsvn7e/F9Qajqg5vmc/Yb5+JaIzpwbMM8VC0H/gOPngX8a4kQS48xm6syFrEKaICI2bG3CLDRhmdp7swr/Mm+VHsTAeAD0GaHgnAvd8oG/iahdVayfuUsZ9aLBohy9ZheK/atS6nbQ2wbluWU=;c7IB7nBTfvbSO2IvBJ1MMw=="
 ---

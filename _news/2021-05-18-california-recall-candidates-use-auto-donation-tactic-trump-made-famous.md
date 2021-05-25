@@ -174,6 +174,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump asks judge to throw out Capitol riot lawsuit"
+    excerpt: "Lawyers for former President Donald Trump urged a federal judge late Monday to dismiss a lawsuit against him filed by Rep. Eric Swalwell, a Democratic congressman who helped argue the House impeachment case."
+    publishedDateTime: 2021-05-25T18:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-asks-judge-throw-out-capitol-riot-lawsuit-n1268544"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268544"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268544"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_12/3459219/210324-washington-riot-jm-1043_5db73c222b5557bdfd5ac7fd9f0f81d7.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "N.Y. state investigation into Trump is now a criminal probe"
     excerpt: "The probe is “no longer purely civil in nature,” a spokesperson for state Attorney General Letitia James confirmed to POLITICO."
     publishedDateTime: 2021-05-19T02:37:00Z

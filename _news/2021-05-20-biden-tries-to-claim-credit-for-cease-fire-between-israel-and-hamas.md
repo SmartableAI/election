@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-israel-replenish-iron-dome-li
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp"
 type: article
 quality: 175
-heat: 455
+heat: 495
 published: true
 
 provider:
@@ -60,6 +60,38 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c8d2ef1-d9fd-461c-b282-749e8378a532/0cf7d7a0-68d4-468e-b5cc-08a915d6b34b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden must get tougher on Israel, hundreds of campaign staffers urge"
+    excerpt: "More than 500 former members of President Biden’s 2020 election campaign and other Democratic staffers have signed onto an open letter calling on the president to “unequivocally condemn” Israel over the fierce fighting earlier this month between Israel and Hamas."
+    publishedDateTime: 2021-05-25T19:23:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OhnhuSFQBnY/biden-tougher-on-israel-campaign-staffers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tougher-on-israel-campaign-staffers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tougher-on-israel-campaign-staffers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden to name Tom Nides ambassador to Israel: AP source"
+    excerpt: "President Joe Biden is expected to name former senior State Department official Tom Nides to serve as ambassador to Israel, according to a person familiar with the matter."
+    publishedDateTime: 2021-05-25T19:45:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wYLN99rF2ck/biden-tom-nides-ambassador-israel"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tom-nides-ambassador-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tom-nides-ambassador-israel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c72d9c11-6332-4454-b020-7a3435242be1/747ec0f8-709a-44a1-a78d-f2dafc15d9b5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

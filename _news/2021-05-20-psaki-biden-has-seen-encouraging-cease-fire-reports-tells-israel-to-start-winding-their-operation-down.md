@@ -79,6 +79,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden must get tougher on Israel, hundreds of campaign staffers urge"
+    excerpt: "More than 500 former members of President Biden’s 2020 election campaign and other Democratic staffers have signed onto an open letter calling on the president to “unequivocally condemn” Israel over the fierce fighting earlier this month between Israel and Hamas."
+    publishedDateTime: 2021-05-25T19:23:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OhnhuSFQBnY/biden-tougher-on-israel-campaign-staffers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tougher-on-israel-campaign-staffers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tougher-on-israel-campaign-staffers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden to name Tom Nides ambassador to Israel: AP source"
+    excerpt: "President Joe Biden is expected to name former senior State Department official Tom Nides to serve as ambassador to Israel, according to a person familiar with the matter."
+    publishedDateTime: 2021-05-25T19:45:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wYLN99rF2ck/biden-tom-nides-ambassador-israel"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tom-nides-ambassador-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tom-nides-ambassador-israel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c72d9c11-6332-4454-b020-7a3435242be1/747ec0f8-709a-44a1-a78d-f2dafc15d9b5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden admin's mixed messages on fuel pipelines are as muddled as mask mandates"
     excerpt: "Biden administration officials have sported blatant hypocrisy between prioritizing the Colonial Pipeline over the Keystone and their quick change of heart on coronavirus masking."
     publishedDateTime: 2021-05-18T10:12:10Z

@@ -77,19 +77,19 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "Floyd family meets with Biden as Congress mulls police bill"
-    excerpt: "President Joe Biden will meet with the family of George Floyd at the White House Tuesday on the one year anniversary of his death"
-    publishedDateTime: 2021-05-25T14:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/floyd-family-meets-biden-congress-mulls-police-bill-77893370"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/floyd-family-meets-biden-congress-mulls-police-bill-77893370"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/floyd-family-meets-biden-congress-mulls-police-bill-77893370"
+  - title: "GOP senators ready $1T infrastructure counteroffer to Biden"
+    excerpt: "Senate Republicans are preparing a $1 trillion infrastructure counteroffer to present to the White House by Thursday"
+    publishedDateTime: 2021-05-25T19:25:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77900089"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77900089"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77900089"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_6104c03392e54f209c055dc21c625c3d_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_032166063b374b5cb96289f0dcd143bd_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

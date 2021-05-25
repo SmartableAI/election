@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden won't allow Justice Dept. to seize reporters' records"
-    excerpt: "President Joe Biden says he won’t allow the Department of Justice to seize journalists’ phone records and emails, calling the practice “wrong” in a significant departure from his predecessors"
-    publishedDateTime: 2021-05-22T00:00:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
+  - title: "Biden meets with Kennedy Center honorees at White House"
+    excerpt: "President Joe Biden spent Thursday morning in a star-studded meeting with this year’s Kennedy Center honorees. The president met at the White House with the recipients of the lifetime artistic achievement awards: country music legend Garth Brooks,"
+    publishedDateTime: 2021-05-20T20:48:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_38dab6b4a6fc429288c8332a295a4057_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_5ac365c5e65e44b8992dfc210d726686_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden told staff not to serve leafy greens because he didn't want to be photographed with leaves in his teeth, report says"
-    excerpt: "The New York Times also reported President Biden's preferred drink is the controversial Orange Gatorade."
-    publishedDateTime: 2021-05-15T00:58:00Z
-    webUrl: "https://www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth"
-    ampWebUrl: "https://www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth?amp"
+  - title: "Biden bestows Medal of Honor on Korean War veteran"
+    excerpt: "President Joe Biden is awarding his first Medal of Honor to a 94-year-old retired Army colonel for bravery more than a half-century ago in the Korean War"
+    publishedDateTime: 2021-05-21T19:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-bestows-medal-honor-korean-war-veteran-77832914"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-bestows-medal-honor-korean-war-veteran-77832914"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-bestows-medal-honor-korean-war-veteran-77832914"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/609efd611b5cea0019c45306?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/WireAP_764161d3d08947de917ac7bb3ab3c822_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Joe Biden welcomes South Korea's Moon Jae-in to D.C. for summit"
+    excerpt: "President Joe Biden welcomed South Korean President Moon Jae-in to the White House Friday to discuss several issues of importance between the two longtime allies, including North Korea's nuclear program."
+    publishedDateTime: 2021-05-21T11:34:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/05/21/joe-biden-moon-jae-in-summit-korea/8971621592273/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/21/joe-biden-moon-jae-in-summit-korea/8971621592273/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/21/joe-biden-moon-jae-in-summit-korea/8971621592273/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/8971621592273/2021/upi/2813353be3fcd632f7f30032bedd183d/v1.5/Joe-Biden-welcomes-South-Koreas-Moon-Jae-in-to-DC-for-summit.jpg?lg=2"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "hOrFxUKGq6JD2BH8LBqmRkQb9AnmLD1HSec+TrswJQ3l4enSOEK7gpGMZSSHqKkdceP0q2SbnauSr7R+kfT8Ex12m85WQBRhKbQsOc8fapTPKkwob8J7fcQ+x0mCSxZAp9wFxfVSZJS5kZoDq+JW0MtwjbbEf0wS2KSqPUCGtSasVS76D/qWn1dIhBbECBv6F/Ue8X55tAG+HncNTZ0xE2G50M4/WXP6RzQOW/5pWXyOPA14w4AHEtlWrKOkIM5uhQE6+C4vbf7DZ0Vm9y6wveczcyGqsQBDCna+H3dn1iaxbCmlMu1y+q5kqll9RECy4jen5taICLg31cR2oqDIIsJk45b6rUYbc9a2c5zUFl8=;DTyHqNYt7eUuNz66uRL6+w=="

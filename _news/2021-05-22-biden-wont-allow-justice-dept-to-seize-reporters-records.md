@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dep
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden meets with 'Dreamers' in the White House to push pathway to citizenship"
-    excerpt: "Biden gathered a group of DREAMers at the White House Friday for a discussion on the future of the DACA program."
-    publishedDateTime: 2021-05-15T19:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-meets-dreamers-white-house-push-pathway-citizenship/story?id=77701548"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-meets-dreamers-white-house-push-pathway-citizenship/story?id=77701548"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-meets-dreamers-white-house-push-pathway-citizenship/story?id=77701548"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 122
-    images:
-      - url: "https://s.abcnews.com/images/Politics/daca-dreamers-president-joe-biden-01-gty-llr-210514_1621026754888_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden told staff not to serve leafy greens because he didn't want to be photographed with leaves in his teeth, report says"
     excerpt: "The New York Times also reported President Biden's preferred drink is the controversial Orange Gatorade."
     publishedDateTime: 2021-05-15T00:58:00Z

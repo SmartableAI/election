@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html"
 type: article
 quality: 190
-heat: 390
+heat: 410
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109230708-trump-florida-camilo-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump asks judge to throw out Capitol riot lawsuit"
+    excerpt: "Lawyers for former President Donald Trump urged a federal judge late Monday to dismiss a lawsuit against him filed by Rep. Eric Swalwell, a Democratic congressman who helped argue the House impeachment case."
+    publishedDateTime: 2021-05-25T18:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-asks-judge-throw-out-capitol-riot-lawsuit-n1268544"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268544"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268544"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_12/3459219/210324-washington-riot-jm-1043_5db73c222b5557bdfd5ac7fd9f0f81d7.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "California recall candidates use auto-donation tactic Trump made famous"
     excerpt: "Consumer advocates and campaign finance officials say the tactic misleads donors into giving more money than they intend because they must uncheck boxes to ensure their accounts are not regularly charged."

@@ -772,48 +772,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
-  - title: "Kamala Harris to give 2021 commencement speech in CNN special"
-    excerpt: "CNN will honor the millions of students graduating from high school and college this weekend with a star-studded prime-time special."
-    publishedDateTime: 2021-05-20T00:27:00Z
-    webUrl: "https://thegrio.com/2021/05/19/kamala-harris-commencement-speech-cnn-graduation-special/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 55
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/04/280420211619611627-1-scaled.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "The 2 things Kamala Harris wants to 2021 graduates to know"
-    excerpt: "Vice President Kamala Harris congratulated 2021 graduates for overcoming the challenges brought on by the coronavirus pandemic and encouraged them to consider their role in making the world better."
-    publishedDateTime: 2021-05-24T00:28:00Z
-    webUrl: "https://www.djournal.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_9e7d7628-ca00-576d-a3be-b12eacb1c0be.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e7/9e7d7628-ca00-576d-a3be-b12eacb1c0be/60aaf7bfb2d3a.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
-  - title: "VP Harris holds virtual session on digital divide"
-    excerpt: "Vice President Kamala Harris holds a virtual listening session to discuss the digital divide in American and how investments in the he American Jobs Plan will ensure every American has access to affordable, high-speed internet. (May 24)"
-    publishedDateTime: 2021-05-24T23:48:00Z
-    webUrl: "https://www.cincinnati.com/videos/news/nation/2021/05/24/vp-harris-holds-virtual-session-digital-divide/7421372002/"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/713c9c51-be46-4be5-ba1e-af640cb45572_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "VP Kamala Harris visits Rhode Island with Commerce Secretary Gina Raimondo"
     excerpt: "Vice President Kamala Harris answers questions during a visit to RI with Commerce Secretary Gina Raimondo. Providence Journal video/ Kris Craig]"
     publishedDateTime: 2021-05-05T21:35:00Z

@@ -132,20 +132,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "The evolution of Joe Biden"
-    excerpt: "What happened to Joe Biden? Many people thought he was a moderate incrementalist, but now he's promoting whopping big legislative packages that make many on the progressive left extremely happy."
-    publishedDateTime: 2021-05-23T08:11:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/may/23/the-evolution-of-joe-biden/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "qsRNyLHCBHent9qdnJKmOx+UowADuLuK87fOpYvo+A95KdQh1sdJvfAPXs1OAUq/5+sFl9qeFsIBIc+U0BUdKJO414flnjzjHco5Id45y84H/BX8HzruIjCMOQ+JM9bzFXDULEPqTreD/RX2gFYKkFzT4Xg2rcIyLzOODSgZDuJ2Dl03jPCJBMKBnDwEEZkaXiuxnarrMAYtfMmiJwXfEpXQeMFjR/q0pBpiIs3qewIi4O/hvt7PaB3WRz0TvyX0QROQXv6lzNyYGptih+IyYZ5N7AJUJxnn2WL2caZE4ELcHeu7MlTxA1X1PCblrH/md6rMsURm1gCKkjE/yCwA7FD21LwTuU5Bhx3gP57m7lI=;nTP956f+XVzHAcfthge+SA=="
 ---

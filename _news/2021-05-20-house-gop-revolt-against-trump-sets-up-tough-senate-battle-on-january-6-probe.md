@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-se
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "White House ousts four Trump-appointed members of prestigious arts commission"
+    excerpt: "The White House has ousted several members of a prestigious arts commission in the nation's capital, the latest move in the Biden administration's purge of Trump-era appointees from government agencies and boards.\n    \n"
+    publishedDateTime: 2021-05-25T18:05:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i0XamVQH7oI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/white-house-arts-commission/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/white-house-arts-commission/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190918105506-01-washington-monument-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ex-Trump ambassador says former President 'absolutely' bears responsibility for January 6 riot"
     excerpt: "A former Republican senator and member of Donald Trump's administration said Sunday that he thinks the ex-President bears some responsibility for the Capitol insurrection and that his presidency was \"diminished\" as a result of the deadly attack.\n    \n"
     publishedDateTime: 2021-05-23T15:39:58Z

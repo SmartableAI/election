@@ -35,22 +35,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Mexico says investment and security to be discussed during Kamala Harris trip"
-    excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8."
-    publishedDateTime: 2021-05-19T16:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-immigration-mexico-harris/mexico-says-investment-and-security-to-be-discussed-on-harris-visit-idUSKCN2D028G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D028G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D028G"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210519&t=2&i=1562706264&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4I15C"
-        width: 812
-        height: 545
-        isCached: true
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
     publishedDateTime: 2021-04-09T18:40:00Z
@@ -66,20 +50,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/f80KcHyN02ys1DUVgempWW8QoG0=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2JNAWLAZUVGVXDCBJCXY5VUQNU.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Vice Pres. Kamala Harris speaking now"
-    excerpt: "Watch \"Vice Pres. Kamala Harris speaking now\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-05-19T22:02:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210519220232-vice-pres-kamala-harris-speaking-now/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/05/19/story_10441477_1621462384.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "US Officials Have Discussed Asking Mexico To Do More To Stem The Tide Of Immigrants Ahead Of Kamala Harris’s Meeting"
     excerpt: "Some of the measures discussed included Mexico apprehending an average of 1,000 immigrants moving through the country a day."
@@ -340,15 +310,6 @@ related:
       name: Politifact
       domain: politifact.com
     quality: 44
-  - title: "Mexico Says Investment and Security to Be Discussed During Kamala Harris Trip"
-    excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8. Harris,"
-    publishedDateTime: 2021-05-19T17:29:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-05-19/mexico-says-investment-and-security-to-be-discussed-during-kamala-harris-trip"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 32
   - title: "Vice President Kamala Harris to talk American Jobs Plan in NC | Charlotte Observer"
     excerpt: "Vice President Kamala Harris will make her first trip to North Carolina since taking office next week to sell the American Jobs Plan. Harris is set to make stops in Greensboro and High Point on Monday,"
     publishedDateTime: 2021-04-14T22:12:00Z

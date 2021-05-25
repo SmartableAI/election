@@ -25,123 +25,382 @@ images:
     isCached: true
 
 related:
-  - title: "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts"
-    excerpt: "The federal bureaucracy, reeling under the effects of the former president, is struggling to make good on the current president’s promises."
-    publishedDateTime: 2021-05-21T14:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
+  - title: "Biden and Harris meet George Floyd’s family on anniversary of his murder – live"
+    excerpt: "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live"
+    publishedDateTime: 2021-05-25T18:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad4c358f08d486a7712e13"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 131
+      name: The Guardian
+      domain: theguardian.com
+    quality: 146
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJRD2WVUJAI6XPEW7X2V3ZB354.jpg&w=1440"
-        width: 1440
-        height: 962
+      - url: "https://i.guim.co.uk/img/media/95fa8f9894af888284457c15293f5fe0131673b6/0_83_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0811f31c824459870e86ad221ddef118"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Biden seeks to expand legal assistance for lower income people"
-    excerpt: "President Joe Biden will sign a presidential memo aimed at boosting public defenders and civil legal aid providers in a bid to help people with lower incomes have better representation in the U.S. legal system,"
-    publishedDateTime: 2021-05-18T10:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-court-idUSKCN2CZ17R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2CZ1CU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2CZ1CU"
+  - title: "Biden to award 1st Medal of Honor to retired Georgia colonel"
+    excerpt: "The White House says President Joe Biden will award his first Medal of Honor on Friday to retired Col. Ralph Puckett Jr., for acts of bravery 70 years ago during the Korean War"
+    publishedDateTime: 2021-05-19T20:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-award-1st-medal-honor-retired-georgia-colonel-77787792"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-award-1st-medal-honor-retired-georgia-colonel-77787792"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-award-1st-medal-honor-retired-georgia-colonel-77787792"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210518&t=2&i=1562530751&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4H0OK"
-        width: 835
-        height: 545
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Biden’s Plans Face Youngstown Test That Defeated Trump and Obama"
-    excerpt: "One U.S. president after another has promised to turn this Rust Belt city around. The latest proposal to pump in tens of millions of dollars is bringing hope—and skepticism."
-    publishedDateTime: 2021-05-23T13:15:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/bidens-plans-face-youngstown-test-that-defeated-trump-and-obama/2021/05/23/660d8302-bbd1-11eb-922a-c40c9774bc48_story.html"
+  - title: "Kamala Harris grapples with unique challenges as vice president"
+    excerpt: "Four months into her time as vice president, Kamala Harris Kamala Harris Biden was blindsided by Harris's attack in 2019 debate: book Stacey Abrams on not being Biden's VP: 'He picked the right person' House sends anti-Asian hate bill to Biden's desk MORE is still finding her footing in the role."
+    publishedDateTime: 2021-05-20T10:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president"
+    ampWebUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_051721getty_harris.jpg"
+        width: 980
+        height: 580
+        isCached: true
+  - title: "Biden to host George Floyd's family at White House"
+    excerpt: "President Joe Biden will host George Floyd’s family at the White House Tuesday to mark the first anniversary of his death at the hands of a white Minneapolis police officer"
+    publishedDateTime: 2021-05-21T22:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-host-george-floyds-family-at-white-house/2021/05/21/94c47070-ba8c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 120
+    quality: 125
     images:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
         isCached: true
-  - title: "ICE deported 348 migrant parents under Trump without ensuring children could go with them"
-    excerpt: "Some parents were deported without their children even after telling ICE officers that they wanted their children to come with them, the DHS inspector general found."
-    publishedDateTime: 2021-05-24T20:20:00Z
-    webUrl: "https://www.cbsnews.com/news/immigration-ice-deportations-parents-trump-family-separation/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-ice-deportations-parents-trump-family-separation/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-ice-deportations-parents-trump-family-separation/"
+  - title: "Biden to host George Floyd’s family at White House"
+    excerpt: "President Joe Biden’s plans to host Floyd’s family come as talks focused on the police reform bill named after Floyd have stalled on Capitol Hill."
+    publishedDateTime: 2021-05-22T18:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/22/george-floyds-family-visit-president-joe-biden-white-house/5222533001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5222533001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5222533001"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 116
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/18/fca5c57b-04f7-4ff4-9832-a7b6c222547c/thumbnail/1200x630/d615f11dcdadbd7bc81e61c3680c60c9/ap19200565745965.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/05/20/USAT/37aaf391-f4b3-4d41-aa23-f80764a105b5-018_GeorgeFloyd_Anniversary.JPG?auto=webp&crop=4718,2654,x0,y434&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20"
-    excerpt: "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency"
-    publishedDateTime: 2021-05-17T23:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-donated-salary-presidential-pension-payments-2021-5"
+  - title: "Read Kamala Harris' Speech to Class of 2021 as Students Graduate"
+    excerpt: "The vice president told students they had \"much to offer\" as she noted COVID restrictions hit their final school years."
+    publishedDateTime: 2021-05-24T09:49:00Z
+    webUrl: "https://www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104"
+    ampWebUrl: "https://www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/60a2f78af27b4c0019444f88?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://d.newsweek.com/en/full/1804663/vice-president-kamala-harris.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Biden to double funding to U.S. program that helps prepare for extreme weather events -Washington Post"
-    excerpt: "U.S. President Joe Biden on Monday will pledge $1 billion to a U.S. government program called Building Resilient Infrastructure and Communities that helps communities prepare for extreme weather events,"
-    publishedDateTime: 2021-05-24T14:21:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LM01V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LM01V"
+  - title: "Biden to meet George Floyd’s family on anniversary of his murder – live"
+    excerpt: "President to have private meeting with members of Floyd’s family – follow all the day’s politics news live"
+    publishedDateTime: 2021-05-25T13:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/ebea58e3b4263c87fc15246aa2bdcac4155d6c50/0_384_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=014fa759e4b57e85db760f6a33018647"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden to meet with George Floyd family but miss police reform deadline"
+    excerpt: "President wanted George Floyd Justice in Policing Act passed by 25 May, on anniversary of police killing but bill is stalled in the Senate"
+    publishedDateTime: 2021-05-24T20:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/24/george-floyd-killing-anniversary-biden-police-reform-deadline"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/24/george-floyd-killing-anniversary-biden-police-reform-deadline"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/george-floyd-killing-anniversary-biden-police-reform-deadline"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9434ddaf98ca6f49550eced5f6e4f1a9f01d1d3f/0_362_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33c14963158941c245663b739b0c6011"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Floyd family meets with Biden as Congress mulls police bill"
+    excerpt: "President Joe Biden will meet with the family of George Floyd at the White House Tuesday on the one year anniversary of his death"
+    publishedDateTime: 2021-05-25T14:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/floyd-family-meets-biden-congress-mulls-police-bill-77893370"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/floyd-family-meets-biden-congress-mulls-police-bill-77893370"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/floyd-family-meets-biden-congress-mulls-police-bill-77893370"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_6104c03392e54f209c055dc21c625c3d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to meet George Floyd’s family on anniversary of his murder – live"
+    excerpt: "President to have private meeting with members of Floyd’s family – follow all the day’s politics news live"
+    publishedDateTime: 2021-05-25T17:34:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad26548f088d8c31788da9"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/95fa8f9894af888284457c15293f5fe0131673b6/0_83_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0811f31c824459870e86ad221ddef118"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Mexico says investment and security to be discussed during Kamala Harris trip"
+    excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8."
+    publishedDateTime: 2021-05-19T16:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-mexico-harris/mexico-says-investment-and-security-to-be-discussed-on-harris-visit-idUSKCN2D028G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D028G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D028G"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 89
-  - title: "Survey experts have yet to figure out what caused the most significant polling error in 40 years in Trump-Biden race"
-    excerpt: "More than six months after the astonishing polling embarrassment in the 2020 U.S. elections, survey experts examining what went wrong are uncertain about what led to the sharpest discrepancy between the polls and popular vote outcome since Ronald Reagan defeated Jimmy Carter in a near-landslide in 1980."
-    publishedDateTime: 2021-05-20T12:03:00Z
-    webUrl: "https://www.chron.com/news/article/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 67
+    quality: 122
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210519&t=2&i=1562706264&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4I15C"
+        width: 812
+        height: 545
         isCached: true
-  - title: "Joe Biden remarks on the Middle East"
-    excerpt: "U.S. President Joe Biden deliver remarks on the Middle East in the Cross Hall at the White House in Washington on Thursday, May 20, 2021. Photo by Yuri Gripas/UPI"
-    publishedDateTime: 2021-05-20T23:24:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/33cd2900febd06252fab95604ae60cfb/Joe-Biden-remarks-on-the-Middle-East/"
+  - title: "A year after George Floyd’s death, police reform remains a challenge for Biden"
+    excerpt: "President Joe Biden is set to meet with members of George Floyd's family, but one year after an event he described as \"a wake-up call to the nation,\" little has changed."
+    publishedDateTime: 2021-05-25T09:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/year-george-floyds-death-police-reform-remains-challenge/story?id=77875527"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/year-george-floyds-death-police-reform-remains-challenge/story?id=77875527"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/year-george-floyds-death-police-reform-remains-challenge/story?id=77875527"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Joe-Biden_hpMain_20210524-213423_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to meet with George Floyd's family 1 year after his death as policing bill stalls"
+    excerpt: "President Joe Biden will mark the first anniversary of George Floyd’s death on Tuesday by meeting with members of the Floyd family at the White House as Congress is poised to miss the president's deadline for passing police reform legislation named in Floyd's memory."
+    publishedDateTime: 2021-05-22T19:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-george-floyd-01-gty-llr-210522_1621703880886_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to host family of George Floyd at White House on the first anniversary of his death"
+    excerpt: "President Joe Biden will host George Floyd's family at the White House on Tuesday to mark the first anniversary of his death."
+    publishedDateTime: 2021-05-23T15:34:00Z
+    webUrl: "https://www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/george-floyd-family-visit-president-joe-biden-white-house-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/60aa73cbe25d05001880d07e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Jill Biden said 'go f--- yourself' during a call with supporters after Kamala Harris implied in a debate that Joe Biden was racist, book says"
+    excerpt: "The now-first lady was incensed at Harris for confronting Biden at a June 2019 debate over his record on racial justice and busing."
+    publishedDateTime: 2021-05-19T13:48:00Z
+    webUrl: "https://www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/60a517aff27b4c0019445477?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Vice Pres. Kamala Harris speaking now"
+    excerpt: "Watch \"Vice Pres. Kamala Harris speaking now\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-05-19T22:02:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210519220232-vice-pres-kamala-harris-speaking-now/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/05/19/story_10441477_1621462384.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden told Pete Buttigieg 'that was some f---ing bulls---' on stage after a combative debate exchange with Kamala Harris, according to a new book"
+    excerpt: "Biden was stunned when Harris went after his record on busing during a Democratic primary debate in June 2019."
+    publishedDateTime: 2021-05-19T17:19:00Z
+    webUrl: "https://www.businessinsider.com/biden-said-that-was-some-f-ing-bulls-on-primary-debate-stage-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/biden-said-that-was-some-f-ing-bulls-on-primary-debate-stage-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-said-that-was-some-f-ing-bulls-on-primary-debate-stage-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/60a51106f27b4c0019445460?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Vice President Kamala Harris breaks barriers but faces pressure to do more"
+    excerpt: "Some have criticized Vice President Kamala Harris for not doing more to address issues important to the Asian American community, of which she's a part. Anita Kumar, White House correspondent and associate editor at Politico,"
+    publishedDateTime: 2021-05-20T22:25:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-harris-first-asian-american-vp/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/20/8e781ad8-5f57-4796-a5a8-b10985ea3bb1/thumbnail/1200x630/12cd6c018ac933052fa2e613a84f161d/cbsn-fusion-vice-president-harris-first-asian-american-vp-thumbnail-720003-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
+    excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
+    publishedDateTime: 2021-05-19T07:39:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-harris-af2-idUSL2N2N60YA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+  - title: "Harris, Emhoff earned more than Bidens with 7-figure earnings, taxes show"
+    excerpt: "Both the first and second families' tax returns reveal losses of income since the successful Biden-Harris White House bid."
+    publishedDateTime: 2021-05-18T12:32:00Z
+    webUrl: "https://thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/"
+    ampWebUrl: "https://thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 89
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/05/EmhoffHarris-scaled.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris to give 2021 commencement speech in CNN special"
+    excerpt: "CNN will honor the millions of students graduating from high school and college this weekend with a star-studded prime-time special."
+    publishedDateTime: 2021-05-20T00:27:00Z
+    webUrl: "https://thegrio.com/2021/05/19/kamala-harris-commencement-speech-cnn-graduation-special/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/33cd2900febd06252fab95604ae60cfb/BIDEN-MIDDLE-EAST.jpg"
-        width: 650
-        height: 433
+      - url: "https://thegrio.com/wp-content/uploads/2021/04/280420211619611627-1-scaled.jpg"
+        width: 1280
+        height: 853
         isCached: true
+  - title: "The 2 things Kamala Harris wants to 2021 graduates to know"
+    excerpt: "Vice President Kamala Harris congratulated 2021 graduates for overcoming the challenges brought on by the coronavirus pandemic and encouraged them to consider their role in making the world better."
+    publishedDateTime: 2021-05-24T00:28:00Z
+    webUrl: "https://www.djournal.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_9e7d7628-ca00-576d-a3be-b12eacb1c0be.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e7/9e7d7628-ca00-576d-a3be-b12eacb1c0be/60aaf7bfb2d3a.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
+  - title: "VP Harris holds virtual session on digital divide"
+    excerpt: "Vice President Kamala Harris holds a virtual listening session to discuss the digital divide in American and how investments in the he American Jobs Plan will ensure every American has access to affordable, high-speed internet. (May 24)"
+    publishedDateTime: 2021-05-24T23:48:00Z
+    webUrl: "https://www.cincinnati.com/videos/news/nation/2021/05/24/vp-harris-holds-virtual-session-digital-divide/7421372002/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/713c9c51-be46-4be5-ba1e-af640cb45572_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Doug Emhoff, husband of Vice President Kamala Harris, to hear about COVID-19 business challenges in Annapolis"
+    excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is scheduled to visit Annapolis this morning, taking part in a discussion with business owners about the challenges posed by the COVID-19 pandemic."
+    publishedDateTime: 2021-05-18T13:09:00Z
+    webUrl: "https://www.baltimoresun.com/politics/ac-cn-first-gentleman-doug-emhoff-annapolis-2021519-20210518-m6yrtr7f6fclpla3e6inigzlsa-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 36
+    images:
+      - url: "https://www.baltimoresun.com/resizer/9lyfGx44ZvwRJSCF67RSyIB21T4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSWZSXXSWZDH7OIVZTP3MPDCSA.jpg"
+        width: 1200
+        height: 912
+        isCached: true
+  - title: "Mexico Says Investment and Security to Be Discussed During Kamala Harris Trip"
+    excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8. Harris,"
+    publishedDateTime: 2021-05-19T17:29:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-05-19/mexico-says-investment-and-security-to-be-discussed-during-kamala-harris-trip"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 32
 
 secured: "/8g5P2o+c6LM+Y6lLqsh8BCuGPzxv+evpJBMumv/Sn17LzGR/AM+ibNf7mep/SM6eI6F+Hhs7l+lIvW4lmYKIX1hX9vx3xd8Is/r0zl9m7H86dVKZTkPD2KcNWk20W99QmMNVfFwHCMXbWzehgQe0IHt5mGkc3GYaKbxTwSs98A5WxDYmJEDn7F9OBDkEALOgynVBrG61gdt8FVVfD4UHsqn3NOmqzRj8NsDFVjGeT42r9HPpdDXdvdsxLmEMCxIUa8squXj2htoCiw24D4AlqSsmmc9lPZxBvu8uwxEsnMspJF78p3RNKga4LLsKSZeRgCu6ImihjjOjN8zpkS77ICt0PiQYaUnZSXVGL9k6XM=;tRmqfFPLRxgaXK5hTUNsTA=="
 ---

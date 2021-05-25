@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/closer-look-at-air-force-one-and-b
 webUrl: "https://www.businessinsider.com/closer-look-at-air-force-one-and-biden-presidential-motorcade-2021-5"
 type: article
 quality: 91
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden welcomes South Korea's Moon Jae-in to D.C. for summit"
-    excerpt: "President Joe Biden welcomed South Korean President Moon Jae-in to the White House Friday to discuss several issues of importance between the two longtime allies, including North Korea's nuclear program."
-    publishedDateTime: 2021-05-21T11:34:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/05/21/joe-biden-moon-jae-in-summit-korea/8971621592273/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/21/joe-biden-moon-jae-in-summit-korea/8971621592273/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/21/joe-biden-moon-jae-in-summit-korea/8971621592273/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/ph/st/th/8971621592273/2021/upi/2813353be3fcd632f7f30032bedd183d/v1.5/Joe-Biden-welcomes-South-Koreas-Moon-Jae-in-to-DC-for-summit.jpg?lg=2"
-        width: 800
-        height: 533
-        isCached: true
   - title: "President Joe Biden to visit Cleveland next week, marking second Ohio trip this year"
     excerpt: "President Joe Biden will visit Cleveland next week, marking his second trip to Ohio this year. White House officials said Wednesday that Biden will deliver remarks about the economy during his trip May 27."
     publishedDateTime: 2021-05-19T22:21:00Z

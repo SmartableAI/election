@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris grapples with unique challenges as vice president"
-    excerpt: "Four months into her time as vice president, Kamala Harris Kamala Harris Biden was blindsided by Harris's attack in 2019 debate: book Stacey Abrams on not being Biden's VP: 'He picked the right person' House sends anti-Asian hate bill to Biden's desk MORE is still finding her footing in the role."
-    publishedDateTime: 2021-05-20T10:00:00Z
-    webUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president"
-    ampWebUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/harriskamala_051721getty_harris.jpg"
-        width: 980
-        height: 580
-        isCached: true
-  - title: "Read Kamala Harris' Speech to Class of 2021 as Students Graduate"
-    excerpt: "The vice president told students they had \"much to offer\" as she noted COVID restrictions hit their final school years."
-    publishedDateTime: 2021-05-24T09:49:00Z
-    webUrl: "https://www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104"
-    ampWebUrl: "https://www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/read-kamala-harris-speech-class-2021-students-graduate-1594104?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1804663/vice-president-kamala-harris.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "First lady, Vice President Harris highlight different paths to motherhood"
     excerpt: "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood."
     publishedDateTime: 2021-05-08T19:44:00Z
@@ -74,54 +42,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/mothers-day-kamala-harris-jill-biden-09-gty-llr-210508_1620502085825_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Kamala Harris tells 2021 graduating class 'you give me such inspiration'"
-    excerpt: "\"I couldn't be more proud of you guys,\" she told the seniors. \"The things that you all have accomplished, you give me such inspiration.\""
-    publishedDateTime: 2021-05-24T03:09:00Z
-    webUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
-    images:
-      - url: "https://i.insider.com/60aaf9e2f27b4c00194461bb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Fellow Asian Americans laud Kamala Harris’ rise, but want more clout for their communities"
-    excerpt: "Asian Americans are eager to build political clout and looking for help to Kamala Harris, the first Asian American vice president. She meets Wednesday with one group."
-    publishedDateTime: 2021-05-19T14:08:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 115
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7094a6c/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F97%2F7380086a4865a0921e0285a5baf9%2Fpolar-bear.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Jill Biden said 'go f--- yourself' during a call with supporters after Kamala Harris implied in a debate that Joe Biden was racist, book says"
-    excerpt: "The now-first lady was incensed at Harris for confronting Biden at a June 2019 debate over his record on racial justice and busing."
-    publishedDateTime: 2021-05-19T13:48:00Z
-    webUrl: "https://www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/60a517aff27b4c0019445477?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Kamala Harris blasts how workers lose $200 billion a year from the anti-union trend in the US economy"
     excerpt: "At the first meeting of the White House task force on worker organizing, the vice president ripped into the wages lost from America's lack of unions."
@@ -139,262 +59,43 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "VP Harris meets with Congressional Hispanic Caucus"
-    excerpt: "Vice President Kamala Harris met with members of the Congressional Hispanic Caucus to discuss the coronavirus pandemic, immigration and other issues on Monday. (May 17)"
-    publishedDateTime: 2021-05-17T21:30:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/"
+  - title: "Harris 'united' with Asian Americans against hate"
+    excerpt: "Vice President Kamala Harris told members of the Congressional Asian Pacific American Caucus the Biden administration stands is committed to combatting hate crimes against Asian-Americans. (May 11)"
+    publishedDateTime: 2021-05-12T00:38:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/harris-united-asian-americans-against-hate/5047406001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/31c81e80-1f86-4c01-a851-13513731248c_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1692028d-d488-4925-8b1a-b6f44f884e8d_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden told Pete Buttigieg 'that was some f---ing bulls---' on stage after a combative debate exchange with Kamala Harris, according to a new book"
-    excerpt: "Biden was stunned when Harris went after his record on busing during a Democratic primary debate in June 2019."
-    publishedDateTime: 2021-05-19T17:19:00Z
-    webUrl: "https://www.businessinsider.com/biden-said-that-was-some-f-ing-bulls-on-primary-debate-stage-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/biden-said-that-was-some-f-ing-bulls-on-primary-debate-stage-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-said-that-was-some-f-ing-bulls-on-primary-debate-stage-2021-5?amp"
+  - title: "Kamala Harris said corruption costs as much as 5% of the world's GDP. That stat is questionable"
+    excerpt: "For more than a decade, an interesting statistic about the cost of corruption has been bouncing around the global-economics community, showing up in statements and reports from or"
+    publishedDateTime: 2021-05-09T08:51:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/07/kamala-harris/kamala-harris-said-corruption-costs-much-5-worlds-/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
+      name: Politifact
+      domain: politifact.com
+    quality: 43
     images:
-      - url: "https://i.insider.com/60a51106f27b4c0019445460?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
         isCached: true
-  - title: "Vice President Kamala Harris breaks barriers but faces pressure to do more"
-    excerpt: "Some have criticized Vice President Kamala Harris for not doing more to address issues important to the Asian American community, of which she's a part. Anita Kumar, White House correspondent and associate editor at Politico,"
-    publishedDateTime: 2021-05-20T22:25:00Z
-    webUrl: "https://www.cbsnews.com/video/vice-president-harris-first-asian-american-vp/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 103
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/20/8e781ad8-5f57-4796-a5a8-b10985ea3bb1/thumbnail/1200x630/12cd6c018ac933052fa2e613a84f161d/cbsn-fusion-vice-president-harris-first-asian-american-vp-thumbnail-720003-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
-    excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
-    publishedDateTime: 2021-05-19T07:39:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-harris-af2-idUSL2N2N60YA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
-  - title: "Biden and Harris make first maskless appearance: ‘Better days are ahead’"
-    excerpt: "\"We'll laugh again. We’ll know joy again,\" President Biden said Thursday. \"We'll smile again — and now, see one another's smile.\""
-    publishedDateTime: 2021-05-14T12:11:00Z
-    webUrl: "https://thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/"
-    ampWebUrl: "https://thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 89
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/05/BidenHarris-scaled.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Harris, Emhoff earned more than Bidens with 7-figure earnings, taxes show"
-    excerpt: "Both the first and second families' tax returns reveal losses of income since the successful Biden-Harris White House bid."
-    publishedDateTime: 2021-05-18T12:32:00Z
-    webUrl: "https://thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/"
-    ampWebUrl: "https://thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 89
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/05/EmhoffHarris-scaled.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "First lady says she's 'moved on' from reported anger at Kamala Harris"
-    excerpt: "First lady Jill Biden on Thursday didn’t deny a report that she uttered a profanity about Vice President Kamala D. Harris for accusing Joe Biden of racism during a Democratic presidential primary debate in June 2019."
-    publishedDateTime: 2021-05-20T19:31:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/may/20/jill-biden-kamala-harris-busing-racism-charge-and-/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/20/jill-biden-kamala-harris-busing-racism-charge-and-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/20/jill-biden-kamala-harris-busing-racism-charge-and-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/12/election_2020_joe_biden_vp_00766_c0-0-4061-2368_s1200x700.jpg?1b20ccd4a28d7efd04c18bd85a2c3907018d352d"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "VP Harris says illegal migration worsened by 'extreme climate' disasters"
-    excerpt: "Vice President Kamala Harris said Monday that “extreme climate incidents” such as hurricanes destroy crops in Central America and prompt more people to migrate illegally to the U.S."
-    publishedDateTime: 2021-05-17T23:10:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/may/17/kamala-harris-illegal-immigration-worsened-extreme/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/17/kamala-harris-illegal-immigration-worsened-extreme/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/17/kamala-harris-illegal-immigration-worsened-extreme/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 74
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/17/Harris_94721.jpg-3f787_c0-242-5815-3634_s1200x700.jpg?b05293c78aec9cefe54011270495b308b9ec4a14"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Kamala Harris to keynote first Asian American, Pacific Islander unity summit"
-    excerpt: "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday."
-    publishedDateTime: 2021-05-17T18:34:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Harris County to lower COVID threat level, KHOU 11 confirms"
-    excerpt: "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday."
-    publishedDateTime: 2021-05-18T03:09:00Z
-    webUrl: "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 55
-    images:
-      - url: "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "VP Harris participates in a roundtable on high-speed internet"
-    excerpt: "United States Vice President Kamala Harris participates in a roundtable on high-speed internet at the White House on Monday, May 24, 2021 in Washington, DC. Photo by Chris Kleponis/UPI"
-    publishedDateTime: 2021-05-24T19:16:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/11eb388bcfd2428ccc643c9df4deeb09/VP-Harris-participates-in-a-roundtable-on-high-speed-internet/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/11eb388bcfd2428ccc643c9df4deeb09/HARRIS-INTERNET.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Naval Academy class president Cameron Kinley to present Kamala Harris with gift"
-    excerpt: "Midshipman 1st Class Cameron Kinley, who was also the captain for the academy’s football team will present the award, according to a press release from Kinley’s agent."
-    publishedDateTime: 2021-05-19T23:42:00Z
-    webUrl: "https://www.capitalgazette.com/education/naval-academy/ac-cn-cameron-kinley-naval-academy-20210519-5hznxd4qszax5gst2a6trzrpxe-story.html"
-    type: article
-    provider:
-      name: Capital Gazette
-      domain: capitalgazette.com
-    quality: 51
-    images:
-      - url: "https://www.capitalgazette.com/resizer/hhQGTEcExdA-YJ7LKpjd8iYpBoU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O4NDVYIG222SE7OUTGIA2VTZPY.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "To the ‘extreme’? Rick Scott trolls Kamala Harris over avoiding Mexican border crisis"
-    excerpt: "Rick Scott continues to question the failure of the Vice President to personally survey the crisis at the U.S./Mexican border. On Monday, Scott’s Senate office issued a statement characterizing Kamala Harris ‘ “avoidance” of the border as “getting extreme,"
-    publishedDateTime: 2021-05-24T23:26:00Z
-    webUrl: "https://floridapolitics.com/archives/431703-extreme-harris/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 48
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/01/rick-scott.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Second Gentleman Doug Emhoff, Vice President Kamala Harris’ husband, will visit Annapolis"
-    excerpt: "The Second Gentleman, husband to Vice President Kamala Harris, will visit Annapolis on Tuesday for a private event."
-    publishedDateTime: 2021-05-17T17:57:00Z
-    webUrl: "https://www.baltimoresun.com/maryland/anne-arundel/annapolis/ac-cn-second-gentleman-annapolis-emhoff-20210517-ibjhg4urzjasvgz2j7wzjg3wxy-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 46
-    images:
-      - url: "https://www.baltimoresun.com/resizer/2P5djc22oIeUjgMRmey_NeqYjYo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GCTLKRCPAJA3PKG3XL5WUTAHFM.jpg"
-        width: 1200
-        height: 835
-        isCached: true
-  - title: "Around Town: Through letters, Girl Scouts share hopes for the country with Kamala Harris"
-    excerpt: "In the latest Around Town column, stories on local Girl Scouts contributing to a book of letters to Vice President Kamala Harris, a local teen's skateboard giveaway in East Palo Alto and an alleged dog beating in Palo Alto."
-    publishedDateTime: 2021-05-22T15:18:00Z
-    webUrl: "https://www.paloaltoonline.com/square/2021/05/22/around-town-through-letters-girl-scouts-share-hopes-for-the-country-with-kamala-harris"
-    type: article
-    provider:
-      name: Palo Alto Weekly
-      domain: paloaltoonline.com
-    quality: 46
-    images:
-      - url: "https://www.paloaltoonline.com/art/local_square_icon.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Doug Emhoff, husband of Vice President Kamala Harris, to hear about COVID-19 business challenges in Annapolis"
-    excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is scheduled to visit Annapolis this morning, taking part in a discussion with business owners about the challenges posed by the COVID-19 pandemic."
-    publishedDateTime: 2021-05-18T13:09:00Z
-    webUrl: "https://www.baltimoresun.com/politics/ac-cn-first-gentleman-doug-emhoff-annapolis-2021519-20210518-m6yrtr7f6fclpla3e6inigzlsa-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 36
-    images:
-      - url: "https://www.baltimoresun.com/resizer/9lyfGx44ZvwRJSCF67RSyIB21T4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSWZSXXSWZDH7OIVZTP3MPDCSA.jpg"
-        width: 1200
-        height: 912
-        isCached: true
-  - title: "Four Annapolis restaurant owners discuss surviving COVID-19 with Doug Emhoff, husband of Vice President Kamala Harris"
-    excerpt: "Four Annapolis restaurant owners who overcame hurdles to remain open during the COVID-19 pandemic met this morning with Doug Emhoff, husband of Vice President Kamala Harris."
-    publishedDateTime: 2021-05-18T17:32:00Z
-    webUrl: "https://www.capitalgazette.com/politics/ac-cn-first-gentleman-doug-emhoff-annapolis-2021519-20210518-m6yrtr7f6fclpla3e6inigzlsa-story.html"
-    type: article
-    provider:
-      name: Capital Gazette
-      domain: capitalgazette.com
-    quality: 32
-    images:
-      - url: "https://www.capitalgazette.com/resizer/21BvP69TRnSjuFfK_H94YpNY2uE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2PQSVIT265HIVDWLZBYS6TN25E.jpg"
-        width: 1200
-        height: 684
-        isCached: true
-  - title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
-    excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
-    publishedDateTime: 2021-05-19T13:14:00Z
-    webUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
+  - title: "Vice President Harris Meeting with Congressional Asian Pacific American Caucus"
+    excerpt: "T16:24:02-04:00 President Harris meets with members of the Congressional Asian Pacific American Caucus. Javascript must be enabled in order to access C-SPAN videos. Democratic vice presidential candidate Kamala Harris meets with officials in Fresno,"
+    publishedDateTime: 2021-05-11T20:43:00Z
+    webUrl: "https://www.c-span.org/video/?511654-1/vice-president-harris-meeting-congressional-asian-pacific-american-caucus"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 29
+    quality: 31
   - title: "Vice President Harris Holds Inaugural Meeting of Worker Organizing and Empowerment Task Force"
     excerpt: "Vice President Kamala Harris delivers remarks during the Inaugural Meeting of the Worker Organizing and Empowerment Task Force at the Vice Presidents Ceremonial Office on Thursday, May 13, 2021. The Task Force was formed to mobilize the federal government's policies and programs to provide workers in the private sector as well as federal,"
     publishedDateTime: 2021-05-15T19:49:00Z

@@ -287,6 +287,22 @@ related:
         width: 1291
         height: 1018
         isCached: true
+  - title: "Biden replacing four Trump-appointed members of US Commission of Fine Arts"
+    excerpt: "President Biden is replacing four members of the U.S. Commission on Fine Arts that were appointed by former President Trump."
+    publishedDateTime: 2021-05-25T19:51:00Z
+    webUrl: "https://thehill.com/homenews/administration/555374-biden-replacing-four-trump-appointed-members-of-us-commission-of-fine"
+    ampWebUrl: "https://thehill.com/homenews/administration/555374-biden-replacing-four-trump-appointed-members-of-us-commission-of-fine?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/555374-biden-replacing-four-trump-appointed-members-of-us-commission-of-fine?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 138
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_05132021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "How Joe Biden's Executive Orders in First 100 Days Compare to Donald Trump's"
     excerpt: "The executive orders give a snapshot of the differing priorities between the two administrations soon after taking office."
     publishedDateTime: 2021-04-28T09:28:00Z
