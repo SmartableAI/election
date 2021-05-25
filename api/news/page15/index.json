@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-04-22-joe-biden-set-to-formally-recognize-armenian-genocide-officials-say.md",
+      "title": "Joe Biden set to formally recognize Armenian genocide, officials say",
+      "excerpt": "The anticipated move could further complicate an already tense relation ship with Recep Tayyip Erdoğan, the Turkish leader",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/apr/21/armenian-genocide-joe-biden-turkey",
+      "originalUrl": "https://www.theguardian.com/world/2021/apr/21/armenian-genocide-joe-biden-turkey",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b09bdf44026e9271b38ad06a8aebd9354494cd6f/0_287_5154_3092/master/5154.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=05faf750e55bc3fcccf41810ce45f18a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/apr/21/armenian-genocide-joe-biden-turkey",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/apr/21/armenian-genocide-joe-biden-turkey",
+      "publishedDateTime": "2021-04-21T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-today-we-did-it-joe-biden-touts-200m-vaccine-shots-administered-as-it-happened.md",
       "title": "‘Today we did it’: Joe Biden touts 200m vaccine shots administered – as it happened",
       "excerpt": "President, who promised 200m jabs in his first 100 days, also expected",
@@ -1329,58 +1381,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally.md",
-      "title": "Steve Scalise Says Maxine Waters Wants 'Violent' Protests, Trump Urged Peaceful D.C. Rally",
-      "excerpt": "\"I haven't heard Maxine saying anything about people 'peacefully' protesting,\" said Louisiana GOP Rep. Scalise Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107",
-      "originalUrl": "https://www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1780605/donald-trump-steve-scalise-insurrection.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107?amp=1",
-      "publishedDateTime": "2021-04-20T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

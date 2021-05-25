@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden singles out competition with Russia and China in Coast Guard commencement"
-excerpt: "President Joe Biden singled out competition with Russia and China as part of his vision for the military branch's role in national security as he addressed the United States Coast Guard Academy's 2021 graduating class on Wednesday.\n    \n"
-publishedDateTime: 2021-05-19T17:34:32Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywvMGsPQCUQ/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywvMGsPQCUQ/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/joe-biden-coast-guard-graduation/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/joe-biden-coast-guard-graduation/index.html"
+title: "How Biden's Justice Department is trying to root out racist policing"
+excerpt: "You see a huge leap in progress. It can only be attributable to what happened over the course of the summer of 2020.”"
+publishedDateTime: 2021-05-25T09:00:00Z
+originalUrl: "https://www.politico.com/news/2021/05/25/biden-justice-department-policing-george-floyd-490452"
+webUrl: "https://www.politico.com/news/2021/05/25/biden-justice-department-policing-george-floyd-490452"
+ampWebUrl: "https://www.politico.com/amp/news/2021/05/25/biden-justice-department-policing-george-floyd-490452"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/25/biden-justice-department-policing-george-floyd-490452"
 type: article
-quality: 171
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519125112-01-biden-coast-guard-commencement-0519-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/ef/e9/a98e76eb434880dfba0f6202f565/blm-doj.png"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -76,6 +77,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520232404-biden-moon-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden singles out competition with Russia and China in Coast Guard commencement"
+    excerpt: "President Joe Biden singled out competition with Russia and China as part of his vision for the military branch's role in national security as he addressed the United States Coast Guard Academy's 2021 graduating class on Wednesday.\n    \n"
+    publishedDateTime: 2021-05-19T17:34:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywvMGsPQCUQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/joe-biden-coast-guard-graduation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/joe-biden-coast-guard-graduation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519125112-01-biden-coast-guard-commencement-0519-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -175,22 +192,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "How Biden's Justice Department is trying to root out racist policing"
-    excerpt: "You see a huge leap in progress. It can only be attributable to what happened over the course of the summer of 2020.”"
-    publishedDateTime: 2021-05-25T09:00:00Z
-    webUrl: "https://www.politico.com/news/2021/05/25/biden-justice-department-policing-george-floyd-490452"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/25/biden-justice-department-policing-george-floyd-490452"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/25/biden-justice-department-policing-george-floyd-490452"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/ef/e9/a98e76eb434880dfba0f6202f565/blm-doj.png"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Biden increases funding to prepare for extreme weather ahead of hurricane season"
     excerpt: "Biden also announced a new climate data system by NASA to help understand and track the effects of climate change."
     publishedDateTime: 2021-05-24T21:45:00Z
@@ -238,6 +239,6 @@ related:
         height: 619
         isCached: true
 
-secured: "cI4WIngsdVN8BPQKcB14NReDQ4EN3buRPOV5p25g95wMVKu3I/YKMnQDT7LAVxVVTKMyN05DqxlaAU6sAVGV0ZR4AtgRTW+RAx34i9wmC001TjU+OhDORHr/CcAHQF4S3R01+cgvtiYOLiXNApT7KLrzENNfsCInwL7JnL7Wnosnthuxkhv3NlMz7F/yTep+BuuRxqjO7K9TOmzKr6siJkpsRzSS8PK5n5TFK9kjxNA3nitYpzUAwu69FyFEu1tnk0qJBPWVNSdLruTxoKbKCaW5m7VmhISMHC7Ke+Zsp5npeJbwxo0EoDGW7JbOgep65CTlJJj5XmBAZP5AkCN8on5pAKSEQhtRlkHVdUgRva8=;SrpGuNBWygigMPyTC4fabw=="
+secured: "teYnxHTWgLIS6AtUsly7mEXRfdRQfPAWwH4v1ofQs1Hq9V7Zq0axNzOGHaIAnbjOwzhjDsiXBp4A5aTxn9arno5TwXlRB66f9FXXd3YDapz4TLr8bBh/Dgu78TsECPtXNRP+qPMyvdy0SgCPqvbLeKDJaEOeQAJbE7dznkVZ6id0lkcJeuWwgY/V4Kp+2JjSeMDNiVkXZmAAYsT8af+yC3Rggtm5T/qZro9ssfEo37Hh7rzeiD7xgWZ027zK9rRXnO/RoXiJ403KIP0FFmeyETRG+XYpZY7KnrdbzrEHz+tuRghS1T4b+C2/t8XHkoCYd7Ru59T1CLSKT/0DKup27rLZsKFnVEUnZ/FWAQWgUjo=;LJKEouh5KsJrzKtkQz4Wgg=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Around Town: Through letters, Girl Scouts share hopes for the country with Kamala Harris"
 excerpt: "In the latest Around Town column, stories on local Girl Scouts contributing to a book of letters to Vice President Kamala Harris, a local teen's skateboard giveaway in East Palo Alto and an alleged dog beating in Palo Alto."
-publishedDateTime: 2021-05-22T15:04:00Z
-originalUrl: "https://www.paloaltoonline.com/news/2021/05/22/around-town-through-letters-girl-scouts-share-hopes-for-the-country-with-kamala-harris"
-webUrl: "https://www.paloaltoonline.com/news/2021/05/22/around-town-through-letters-girl-scouts-share-hopes-for-the-country-with-kamala-harris"
+publishedDateTime: 2021-05-22T15:18:00Z
+originalUrl: "https://www.paloaltoonline.com/square/2021/05/22/around-town-through-letters-girl-scouts-share-hopes-for-the-country-with-kamala-harris"
+webUrl: "https://www.paloaltoonline.com/square/2021/05/22/around-town-through-letters-girl-scouts-share-hopes-for-the-country-with-kamala-harris"
 type: article
 quality: 46
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.paloaltoonline.com/news/photos/2021/may/20/91715_col.jpg"
-    width: 1200
-    height: 628
+  - url: "https://www.paloaltoonline.com/art/local_square_icon.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -405,6 +405,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "wKZ8ZEIhjbhgL/HZa87zxyX/mbXflQphPxVOF7dLbFfudn6xffcHGjipubtcJFceXBYi2PNosBpF/YsC7KL5wSZlAX3v3cSJWHqNCrjsBguQIPmN7HtG03K7acuNFw5GH+ok3VHnwHF9MLl9K1Fubdon6DXwyqhgJJfvH3L8iMXqDBowWr5wj2quBgMGSMpJ0OVt6KLclFEaD3ZVcSszdcK7FAI6Gr5dLNnfG2fkKGLl0KegC9LDLwbxeNHL+ZqyS9KYDSJO5yptqFa/b+HcZcyzZ044yb1FvhGLc5a9mt3IGLGgsCwOWJJCk12jAuy80XMq5Vs8kBt/V02W54L7UZ788rezjhF34/PadYAqml9Cpi6ezhj3FDF2/3RF2z5/EX0CwRKSvyoXBKmjp6U6LCdvdpAhhFHXCdy7WeLqsxbB+Y0UtBs/Tehp7DxSUC5qe1y3Mn+8MGwMyj+iMdYXgiYwDOhMwYkxEDheWTkeI9si7fFuYzquH7mz45dBxds3B4Yc2r1TO7cw1CQCQ6yi5g==;64v4FC5tpyDIoPT5RaEG/g=="
+secured: "AGXIFeOqRIZ5mcfKf8n1SR5EoKngQJZIYHRMI7cwc+zth1J28BnFwlBIXRMo8ge1CQ57cQMKDU/taihwIDQFT+RzOEuWm0zpyRcX8IYvfm5elyAf8Vi2u/N2K2r0IbxAQKLW4liq43O4adYY1Qj1n9wElC/mK48VV12nI2y8kQqLspL4QNzPpnHS5Dbse1hm2Hht/5tCDfR1R7uyX2jNpuej0OVMIfUfkuNlaVx084FzdGEiTcI32x6Kphz11NRPB3ljlOIRlYNThgPU4Tw2JTPAZnqZgSEVHEP+edSojNmQCkn2IQGwILzqaY6XxpG6I0ZErQpT5xzhcRQT2ywlETyo2QIvLoHWc8ZwjE6XB6s=;h+HhT8A9foJtqUK2r7vhqA=="
 ---
 

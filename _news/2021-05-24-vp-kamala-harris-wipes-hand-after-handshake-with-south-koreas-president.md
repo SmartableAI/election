@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris Wipes Hand After Handshake With South Korea's President"
 excerpt: "Vice President Kamala Harris holds a bilateral meeting South Korean President Moon Jae-in at the White House on Friday, May 21, 2021, in Washington, D.C."
 publishedDateTime: 2021-05-24T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
 type: article
@@ -125,6 +125,6 @@ related:
         height: 800
         isCached: true
 
-secured: "HRSlly9xmS29Mz96neFWxIePvyxnEz3oHaFpTvdOFLMWoZmaxdt/Zuel/Kts83sf+5KrI/UdrJcwF15XcGXw8HbqQfonLaNhzhz51Nh/ilCTE2vs2iS9U/8uN2bw5dQ58BKAKrkFaMiUpLXv25BekTvbeaUjY4awedimL9xZrSE+ZHLgwNJNCijlEs2HNq9jYb/GjTlrcuu+fm0crRw/IdE6Hle7U3omS0u75Nbou2KeOjMSrngThRa7QiwK3QAgqlI1TuSf1eWb8f3Cwlnq/Avk2UzhwtKyFINop6UjpPgYSTLtBM9gYQuZPTSScPpmRKh+sRIBTJnNuq1Ff19AOTpWW/4zoO1LK1wGOADWArqoPuu2Iko4PPx6c4rwN52AlYlbBZmNK0DkUceXUn5LSjAoVIKEHnFVkkA4WEZAKNfkXRRBA0bSDo1HIcUgA715y2So4rQuwQxeq8QyamAETWBr9XLmBBwgSLv8fOkEB7+lOm/W5myycmko6ebSRyhoAM6jN1Oe4cXmDALVvVkGFw==;yKcx5/CQY3Ap5C69A6qCXg=="
+secured: "PQJqFq6Cq41160dkzrtbP3r6Llwz+JyHU95s9ZwcgNSHwQNs1ggv9KjmVOjGer1pY9kBOBy0Q/OXPifuKaynQKYj4fK0Cs1f6xRdE+Ypik3oATHXwLYo1G1alQZXe9KczaaP8B15RGJOxRJK0glKN9FZqPpAEqntPlJYEuAeMMAnE0adrvWypuJw+cDEqE0MHIMCA46StLSLGLw8Zy6Ywfzyh04cBhxfXPhxrgwTe6hQZNhZspr0rJ72uANvCZ47Ac3T0g8uuv9W4hZMQLhuIIYsknyZNFlB/sGr8BzuhBPLy2oxx+GWK7CkF6ESinald7hyiDsH41sYFTZydA3hbjnPbqU9YanNgCmCcUrGM6c=;ioPwGCL1896fCHCyAOa24g=="
 ---
 

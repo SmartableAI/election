@@ -111,6 +111,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden to meet with George Floyd family but miss police reform deadline"
+    excerpt: "President wanted George Floyd Justice in Policing Act passed by 25 May, on anniversary of police killing but bill is stalled in the Senate"
+    publishedDateTime: 2021-05-24T20:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/24/george-floyd-killing-anniversary-biden-police-reform-deadline"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/24/george-floyd-killing-anniversary-biden-police-reform-deadline"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/george-floyd-killing-anniversary-biden-police-reform-deadline"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9434ddaf98ca6f49550eced5f6e4f1a9f01d1d3f/0_362_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33c14963158941c245663b739b0c6011"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "A year after George Floyd’s death, police reform remains a challenge for Biden"
+    excerpt: "President Joe Biden is set to meet with members of George Floyd's family, but one year after an event he described as \"a wake-up call to the nation,\" little has changed."
+    publishedDateTime: 2021-05-25T09:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/year-george-floyds-death-police-reform-remains-challenge/story?id=77875527"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/year-george-floyds-death-police-reform-remains-challenge/story?id=77875527"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/year-george-floyds-death-police-reform-remains-challenge/story?id=77875527"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Joe-Biden_hpMain_20210524-213423_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to meet with George Floyd's family 1 year after his death as policing bill stalls"
     excerpt: "President Joe Biden will mark the first anniversary of George Floyd’s death on Tuesday by meeting with members of the Floyd family at the White House as Congress is poised to miss the president's deadline for passing police reform legislation named in Floyd's memory."
     publishedDateTime: 2021-05-22T19:28:00Z

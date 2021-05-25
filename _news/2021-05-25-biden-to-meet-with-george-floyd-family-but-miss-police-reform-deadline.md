@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to meet with George Floyd's family 1 year after his death as policing bill stalls"
-excerpt: "President Joe Biden will mark the first anniversary of George Floyd’s death on Tuesday by meeting with members of the Floyd family at the White House as Congress is poised to miss the president's deadline for passing police reform legislation named in Floyd's memory."
-publishedDateTime: 2021-05-22T19:28:00Z
-originalUrl: "https://abcnews.go.com/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
-webUrl: "https://abcnews.go.com/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
+title: "Biden to meet with George Floyd family but miss police reform deadline"
+excerpt: "President wanted George Floyd Justice in Policing Act passed by 25 May, on anniversary of police killing but bill is stalled in the Senate"
+publishedDateTime: 2021-05-24T20:25:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/may/24/george-floyd-killing-anniversary-biden-police-reform-deadline"
+webUrl: "https://www.theguardian.com/us-news/2021/may/24/george-floyd-killing-anniversary-biden-police-reform-deadline"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/24/george-floyd-killing-anniversary-biden-police-reform-deadline"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/george-floyd-killing-anniversary-biden-police-reform-deadline"
 type: article
-quality: 117
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/president-joe-biden-george-floyd-01-gty-llr-210522_1621703880886_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://i.guim.co.uk/img/media/9434ddaf98ca6f49550eced5f6e4f1a9f01d1d3f/0_362_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33c14963158941c245663b739b0c6011"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -111,22 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden to meet with George Floyd family but miss police reform deadline"
-    excerpt: "President wanted George Floyd Justice in Policing Act passed by 25 May, on anniversary of police killing but bill is stalled in the Senate"
-    publishedDateTime: 2021-05-24T20:25:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/may/24/george-floyd-killing-anniversary-biden-police-reform-deadline"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/24/george-floyd-killing-anniversary-biden-police-reform-deadline"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/george-floyd-killing-anniversary-biden-police-reform-deadline"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/9434ddaf98ca6f49550eced5f6e4f1a9f01d1d3f/0_362_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33c14963158941c245663b739b0c6011"
-        width: 600
-        height: 360
-        isCached: true
   - title: "A year after George Floyd’s death, police reform remains a challenge for Biden"
     excerpt: "President Joe Biden is set to meet with members of George Floyd's family, but one year after an event he described as \"a wake-up call to the nation,\" little has changed."
     publishedDateTime: 2021-05-25T09:05:00Z
@@ -140,6 +124,22 @@ related:
     quality: 121
     images:
       - url: "https://s.abcnews.com/images/Politics/Joe-Biden_hpMain_20210524-213423_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to meet with George Floyd's family 1 year after his death as policing bill stalls"
+    excerpt: "President Joe Biden will mark the first anniversary of George Floyd’s death on Tuesday by meeting with members of the Floyd family at the White House as Congress is poised to miss the president's deadline for passing police reform legislation named in Floyd's memory."
+    publishedDateTime: 2021-05-22T19:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-george-floyd-01-gty-llr-210522_1621703880886_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -171,6 +171,6 @@ related:
       domain: reuters.com
     quality: 98
 
-secured: "LOAbwRHjv9et4y1G0E4+siFPsaCLTnpZmJTnFJ7bL6dboZGUjxCFUSnMMutj5fNnK0qOAKGXl6t/RYipDJLU0Ty4xffi2NadwCbAubs5sDC/evY5EIHhQNQ86nTNIsgeeKMyemwdYmTs67P+nS3rp0fMN//GKPUsrqkUAL8aav4Yd9SSF0fXmUnogFi66yg64/l4YC8MXrcohcrYtbMjzJm/aHqjUPcbRrW4V+6W29C93H+Q8HNp9TXQtJqa+0jhkekOSJMjjT7AjUbir7TF9J4Z4jT4twH5iH6J4Wv+eA6kpSR+Q3RKENdpk8eWLAh8Zd4Pyp2GZfFu6jNxkNV06tckp6OUtk69kL5398ECvYktuMqLrw/T+USK69Du5L6lcm9ooJfFgj9aurkZgUmc57hN2l6Do41ZTa4H1ExBqRU7/I/s00noVN3IBsKIk+4K40ewG4Rf1BG5JjBpxvqD/vsSb4hoE8B/zpEVcaXX6xXyzLyKE5CHL7P4Ek1iGwtYqp53909ms79FD5J0RKuHgQ==;jKOJA7Qipn6rwp1HYJlRFw=="
+secured: "UozP5gzHf5pHs/t/UaA/pAC1oN3c6qC2JJgB2lUL913li3tDpppKtj3ahqquYvl8WvRn4Vh/Ki57z7VRGLPBn30x1C+9jenkhcivFf2HOkmXhwHhoC/tkgjmD1pBCi2HzWkgxr9p83EFiK9uaLz+d97Csw0ln1DkhwsC4lxodi2lzJGzUh0w56/3y7u7L0YyPQSyAhfr+4AxvaraXO8mcJIs0M1oIBk99rRka9yrWruPwEpnMrUcIjnUHbDmg4267Tn+X6UsbDlikibywr6vlKy9EGOuxBVee9DD5EE7NsYd/jq+hcDImhNfgp1gc5y7r6a2kqkMC5XtUKPu1+NaAhCUuqIofmDJgeTTnH521sY=;tC8R4nnhyLD28zN1lGqZsw=="
 ---
 

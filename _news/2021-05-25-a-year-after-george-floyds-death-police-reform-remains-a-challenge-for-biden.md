@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to meet with George Floyd's family 1 year after his death as policing bill stalls"
-excerpt: "President Joe Biden will mark the first anniversary of George Floyd’s death on Tuesday by meeting with members of the Floyd family at the White House as Congress is poised to miss the president's deadline for passing police reform legislation named in Floyd's memory."
-publishedDateTime: 2021-05-22T19:28:00Z
-originalUrl: "https://abcnews.go.com/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
-webUrl: "https://abcnews.go.com/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
+title: "A year after George Floyd’s death, police reform remains a challenge for Biden"
+excerpt: "President Joe Biden is set to meet with members of George Floyd's family, but one year after an event he described as \"a wake-up call to the nation,\" little has changed."
+publishedDateTime: 2021-05-25T09:05:00Z
+originalUrl: "https://abcnews.go.com/Politics/year-george-floyds-death-police-reform-remains-challenge/story?id=77875527"
+webUrl: "https://abcnews.go.com/Politics/year-george-floyds-death-police-reform-remains-challenge/story?id=77875527"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/year-george-floyds-death-police-reform-remains-challenge/story?id=77875527"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/year-george-floyds-death-police-reform-remains-challenge/story?id=77875527"
 type: article
-quality: 117
+quality: 121
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/president-joe-biden-george-floyd-01-gty-llr-210522_1621703880886_hpMain_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/Joe-Biden_hpMain_20210524-213423_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -127,19 +127,19 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "A year after George Floyd’s death, police reform remains a challenge for Biden"
-    excerpt: "President Joe Biden is set to meet with members of George Floyd's family, but one year after an event he described as \"a wake-up call to the nation,\" little has changed."
-    publishedDateTime: 2021-05-25T09:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/year-george-floyds-death-police-reform-remains-challenge/story?id=77875527"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/year-george-floyds-death-police-reform-remains-challenge/story?id=77875527"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/year-george-floyds-death-police-reform-remains-challenge/story?id=77875527"
+  - title: "Biden to meet with George Floyd's family 1 year after his death as policing bill stalls"
+    excerpt: "President Joe Biden will mark the first anniversary of George Floyd’s death on Tuesday by meeting with members of the Floyd family at the White House as Congress is poised to miss the president's deadline for passing police reform legislation named in Floyd's memory."
+    publishedDateTime: 2021-05-22T19:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-meet-george-floyds-family-year-death-policing/story?id=77847532"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 121
+    quality: 117
     images:
-      - url: "https://s.abcnews.com/images/Politics/Joe-Biden_hpMain_20210524-213423_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-george-floyd-01-gty-llr-210522_1621703880886_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -171,6 +171,6 @@ related:
       domain: reuters.com
     quality: 98
 
-secured: "LOAbwRHjv9et4y1G0E4+siFPsaCLTnpZmJTnFJ7bL6dboZGUjxCFUSnMMutj5fNnK0qOAKGXl6t/RYipDJLU0Ty4xffi2NadwCbAubs5sDC/evY5EIHhQNQ86nTNIsgeeKMyemwdYmTs67P+nS3rp0fMN//GKPUsrqkUAL8aav4Yd9SSF0fXmUnogFi66yg64/l4YC8MXrcohcrYtbMjzJm/aHqjUPcbRrW4V+6W29C93H+Q8HNp9TXQtJqa+0jhkekOSJMjjT7AjUbir7TF9J4Z4jT4twH5iH6J4Wv+eA6kpSR+Q3RKENdpk8eWLAh8Zd4Pyp2GZfFu6jNxkNV06tckp6OUtk69kL5398ECvYktuMqLrw/T+USK69Du5L6lcm9ooJfFgj9aurkZgUmc57hN2l6Do41ZTa4H1ExBqRU7/I/s00noVN3IBsKIk+4K40ewG4Rf1BG5JjBpxvqD/vsSb4hoE8B/zpEVcaXX6xXyzLyKE5CHL7P4Ek1iGwtYqp53909ms79FD5J0RKuHgQ==;jKOJA7Qipn6rwp1HYJlRFw=="
+secured: "r6dwMXihj8zQQJ61leeZYljlnXa7lX2L8Dkhj05SG4Busn6eczlNNs/34btY4vMkbQHck1TvKz8bP5X44kO3gw2ko2nE+f/CgPSXfHq69wrH+Y/bVRdQVb921my8Ss/bUPSdaCbpECNn8KFC22ofs9/lCvMC/hRstj/wQa1cQz1DksotibuKrmAQ3RwfKt/rQhKUgOy3c7o//hJa0T6N18bBThzjk/d82rPe1nGAbD4SnLPzytADAj1HoeK8vkazG7Er6UnPok5/8sWTfYcLrl4hhENebrrVHLhah+vta+QUsWYwvhXs3w/FpQMYmKCcjYFW7m841qrqfXRIGdjGhsTkpipHi7mz4hiMkFlgooU=;ZIsvwKrgdVNexnhiTZPZ+g=="
 ---
 

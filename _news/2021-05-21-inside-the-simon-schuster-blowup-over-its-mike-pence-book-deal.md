@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Inside the Simon & Schuster Blowup Over Its Mike Pence Book Deal"
-excerpt: "Some of the book publisher’s employees and authors demanded it drop the potential blockbuster, saying it betrayed the company’s promise to oppose bigotry, while the CEO defended a commitment to a broad range of views."
+excerpt: "Some of the publisher’s employees and authors demanded it drop the potential blockbuster, saying it betrayed the company’s promise to oppose bigotry, while the CEO defended a commitment to a broad range of views."
 publishedDateTime: 2021-05-21T13:23:00Z
-originalUrl: "https://www.wsj.com/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
-webUrl: "https://www.wsj.com/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
+originalUrl: "https://www.wsj.com/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
 type: article
@@ -145,6 +145,6 @@ related:
         height: 640
         isCached: true
 
-secured: "6gaCbwSvFzc3OCPrNqSeEOyuaxxP8WYR0jluNy9b9LCgkCliHwseDde4FWMmimpHQfMlgxkk46HncAy/Ah3+7T8iws+/NL7Qp7G62Bn55PJIfeWMqxCrb6+4FjOsOYRwwLvJ1/tX6mt7GtvDWsv620Brx6EibwM26B63vv7jxY8YAfckbuCF/qcfZfs/vtSfGDLBjoZvaMUkgd76sUg00aWWj59DVuB1YsdAkkTFEiWoBTEtAUrNd7OW3y382heMBa/1BcA+Ps3s4OkvjASRunECCnWFptI+StzP3u2hNi+Ug6lS4MKOhdHzuNBCvMiWjGXiM3AGI/wFPV6x7kmpIQLVh9UVOKAbjLXhmle5vebvpqABKxprzO4iTpsUTh+r0YVoJAam/34htRUizx1/rW88pjWNkPCIrWF/TWQVmlpgfUAqOQPOb4qTNOjuHomulFB867MyczXYjeG1Eg6zqPW4gkDxhrSqm5KGNf2ttILrgHMVi2I8Z8WBKpYgcZcMIYmsSUtUn6+YgFZtHsmimQ==;iGi0bfxTE4aXWA9H18mZiw=="
+secured: "ynDOMiBJO/GYUTGgCp4Rn2uACK72PcVpFAqe18PqcKVd8/h392ZzG/FTC0qlVfYUNzUHeHWQziF2y3bivCJZAMKT/6Aw8Nez+HDpm9cA1rZxH7e3eIuH+wpUR5pAkcFiQp8qR9vobCSlgBWrgtNSH9/ryV8dUVuwo/iRqfaAwR08bz+kUjhJx9QpDMcOj2Ou8QZHucypDZ0dyMzVzVwaKkFhpyGTtSYYYKR2YTFYl1lML2IGwbsTJEk52XixKkvVvV8CwJjoLahx/nZTUnfgqsDBLz1rgcPW7yUyfwejtY1CHG5qY8WncqM+ggG7LFlHJciT8Mh3f+VvkoiQ77zSEZZxW9VPSs//AUyccLUJwqw=;MCX6Mp9cNzGOC3AEtU4AlA=="
 ---
 

@@ -77,9 +77,9 @@ related:
         height: 340
         isCached: true
   - title: "Inside the Simon & Schuster Blowup Over Its Mike Pence Book Deal"
-    excerpt: "Some of the book publisher’s employees and authors demanded it drop the potential blockbuster, saying it betrayed the company’s promise to oppose bigotry, while the CEO defended a commitment to a broad range of views."
+    excerpt: "Some of the publisher’s employees and authors demanded it drop the potential blockbuster, saying it betrayed the company’s promise to oppose bigotry, while the CEO defended a commitment to a broad range of views."
     publishedDateTime: 2021-05-21T13:23:00Z
-    webUrl: "https://www.wsj.com/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
+    webUrl: "https://www.wsj.com/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009?mod=newsviewer_click"
     ampWebUrl: "https://www.wsj.com/amp/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
     type: article

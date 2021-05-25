@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Donald Trump told his former White House doctor that he wants to run in 2024"
-excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
-publishedDateTime: 2021-05-20T19:25:00Z
-originalUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
-webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+title: "Justice Department appeals judge’s order to release Trump obstruction memo"
+excerpt: "The Biden administration will appeal a judge’s order to release a memo on whether former President Trump obstructed justice during the Russia probe."
+publishedDateTime: 2021-05-25T08:06:00Z
+originalUrl: "https://www.latimes.com/world-nation/story/2021-05-25/justice-appeals-order-trump-russia-obstruction-memo"
+webUrl: "https://www.latimes.com/world-nation/story/2021-05-25/justice-appeals-order-trump-russia-obstruction-memo"
+ampWebUrl: "https://www.latimes.com/world-nation/story/2021-05-25/justice-appeals-order-trump-russia-obstruction-memo?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-05-25/justice-appeals-order-trump-russia-obstruction-memo?_amp=true"
 type: article
-quality: 102
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
-    width: 700
-    height: 525
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/bc8d845/2147483647/strip/true/crop/4500x2939+0+30/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F00%2F76%2Ff495fabdcc1b964d932368d5e6da%2F01e1c590733b491a823c07e95769dd3d"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -77,22 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Justice Department appeals judge’s order to release Trump obstruction memo"
-    excerpt: "The Biden administration will appeal a judge’s order to release a memo on whether former President Trump obstructed justice during the Russia probe."
-    publishedDateTime: 2021-05-25T08:06:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-05-25/justice-appeals-order-trump-russia-obstruction-memo"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-05-25/justice-appeals-order-trump-russia-obstruction-memo?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-05-25/justice-appeals-order-trump-russia-obstruction-memo?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 123
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/bc8d845/2147483647/strip/true/crop/4500x2939+0+30/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F00%2F76%2Ff495fabdcc1b964d932368d5e6da%2F01e1c590733b491a823c07e95769dd3d"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
     excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
     publishedDateTime: 2021-05-23T09:04:00Z
@@ -108,6 +94,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZDIOTSTYMUI6XFEJR562ZVI6OU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
+    excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
+    publishedDateTime: 2021-05-20T19:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
+        width: 700
+        height: 525
         isCached: true
   - title: "Trump's Ex-Advisor Says COVID-19 Pandemic Was Fabricated To Control 2020 Elections"
     excerpt: "Donald Trump’s former National Security Advisor Michael Flynn has alleged that the COVID-19 pandemic was fabricated to control the 2020 U.S. election. Flynn, a retired general who is one of the most well-known figures in the QAnon conspiracy theory,"
@@ -181,6 +181,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "QslO4cjAnBpljCVbPILxslAlF5ixo5pzhxuKorvWVdmBwmWSLRrXgooL0x51LiSJdTyBrEOXCizg+BOtboF0KZBRFVFIX0s6lrx5tUSlv+OM5FoZfS05xP2Uucr2db/UpGYOFteVnzV+uotaiimCi7pZV5uNx6lIfj5IaCHvczLSDFOt8Jj515P4FOh1NohzJKR887HkMQtNNDLToiuusGsrEruIVLKjM6FryuMVTyGQFK3d2jOy7OKELUR0MBLr/XP391AmQ1Mll5+W5RnYgHwQaUb5NOlAnimXANq4RWfItxfcRNxWuzahvNc26bB4jWIKOzyUf9lQht4N0Hg9NDWW80f2CRhNqhUSOk75s6d91r7aWrWvxmWXJinLO6XVcsp07CkGouLF1IF8QJDbOhlyblRctCbQ3EJ7/rIdpVUvF2PqV7nbDwcKcF4pmT0qi2dXyI2dDe8+E54mCIIent/pjHUq1BCGfO9u0wM8qWuGIhbEj+6hT415LVBNQMd1jzHb6USG969/NK0+bBMjIA==;5T5CYzzuBCFzvqJCM7wLEQ=="
+secured: "Xyg5Tjjha99XCVSD3enh0vY1fBTovmoqwapKrKTCStD4ZZKX9gWXmK8j92K0IbxDntYD0WIV5KsTek1MDkjU7eJz521IcbNv65MQ1SAG0cPllNpAjS3Is5Led0adj6exCOGUqz2ABU/xajpUj45nJjgwfkq9Yq5P4sZraEZoI/K+diLQd1UBCG2oLBntWvLkIDOcGIv7z0vLWMMeZjSFeAmZ17bMWh1s8Gdcn8x02x9K5WXclrEZwwp1FkjjfPZ/S64bUEM+STO3M+A+8CVtzlOcKpKgJcU20kwAaKmnlmg9tlfUXi75RFSJqtkt8mbm5l5yuVdwQ8dshvn0evnMpxyqvSvEddKlIq8Rdcm6UqY=;miBQLgX4MJPDQbVARlLJWw=="
 ---
 
