@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-25-doj-partly-discloses-memo-barr-used-to-clear-trump-of-obstructing-russia-inquiry.md",
+      "title": "DOJ partly discloses memo Barr used to clear Trump of obstructing Russia inquiry",
+      "excerpt": "The Justice Department intends to appeal an order to disclose the full memo cited as a reason not to charge Trump with obstruction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/justice-department/doj-partially-discloses-memo-barr-used-clear-trump-obstruction-russia-n1268445",
+      "originalUrl": "https://www.nbcnews.com/politics/justice-department/doj-partially-discloses-memo-barr-used-clear-trump-obstruction-russia-n1268445",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_33/3069776/191025-department-of-justice-building-ew-1227p_e433387e9fbfe306b8bd633f60e1b57d.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1268445",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268445",
+      "publishedDateTime": "2021-05-24T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-sondland-sues-pompeo-us-government-for-legal-fees-over-trump-impeachment-probe.md",
       "title": "Sondland sues Pompeo, U.S. government, for legal fees over Trump impeachment probe",
       "excerpt": "Former U.S. ambassador to the European Union, Gordon Sondland, filed a lawsuit against former Secretary of State Mike Pompeo and the U.S. government. Sondland is seeking $1.8 million in legal fees he accumulated during the first House impeachment investigation against then-President Donald Trump.",
@@ -1633,63 +1690,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-activists-and-ex-spy-said-to-have-plotted-to-discredit-trump-enemies-in-government.md",
-      "title": "Activists and Ex-Spy Said to Have Plotted to Discredit Trump ‘Enemies’ in Government",
-      "excerpt": "The campaign included planned operations against President Trump’s national security at the time, H.R. McMaster, and F.B.I. employees, according to documents and interviews.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/13/us/politics/13dc-investigate1/13dc-investigate1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.amp.html",
-      "publishedDateTime": "2021-05-13T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

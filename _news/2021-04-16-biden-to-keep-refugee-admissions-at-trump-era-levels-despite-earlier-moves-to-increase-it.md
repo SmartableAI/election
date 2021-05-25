@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's DOJ announces plan to appeal order to release Trump obstruction memo"
+    excerpt: "The U.S. Department of Justice announced Monday that it plans to partially appeal a court ruling earlier this month that called for the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Trump"
+    publishedDateTime: 2021-05-25T04:34:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BKCf4Wi-Wvw/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety"
+    ampWebUrl: "https://www.foxnews.com/politics/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump calls Biden jobs plan 'massive giveaway to China,' says it will 'crush American workers'"
     excerpt: "Former President Donald Trump called President Biden's jobs plan a \"monstrosity\" that \"would be among the largest self-inflicted economic wounds in history.\""
     publishedDateTime: 2021-03-31T18:36:19Z

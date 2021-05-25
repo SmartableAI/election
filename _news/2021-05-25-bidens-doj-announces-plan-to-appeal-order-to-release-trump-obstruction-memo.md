@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Omar says it's 'shameful and unacceptable' for Biden to 'continue the construction' of Trump border wall"
-excerpt: "Rep. Ilhan Omar, D-Minn., put heat on the Biden administration Wednesday not to restart funding for the border wall. "
-publishedDateTime: 2021-04-07T19:27:22Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall"
-ampWebUrl: "https://www.foxnews.com/politics/omar-biden-trumps-border-wall.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-trumps-border-wall.amp"
+title: "Biden's DOJ announces plan to appeal order to release Trump obstruction memo"
+excerpt: "The U.S. Department of Justice announced Monday that it plans to partially appeal a court ruling earlier this month that called for the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Trump"
+publishedDateTime: 2021-05-25T04:34:59Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BKCf4Wi-Wvw/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BKCf4Wi-Wvw/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety"
+ampWebUrl: "https://www.foxnews.com/politics/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety.amp"
 type: article
-quality: 173
+quality: 187
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/b675a70f-image-31.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -127,22 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's DOJ announces plan to appeal order to release Trump obstruction memo"
-    excerpt: "The U.S. Department of Justice announced Monday that it plans to partially appeal a court ruling earlier this month that called for the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Trump"
-    publishedDateTime: 2021-05-25T04:34:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BKCf4Wi-Wvw/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety"
-    ampWebUrl: "https://www.foxnews.com/politics/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden to keep refugee admissions at Trump-era levels, despite earlier moves to increase it"
     excerpt: "President Biden is keeping refugee admissions at 15,000 this fiscal year -- the level set at the end of the Trump administration -- despite earlier proposals to dramatically increase it to over 60,000."
     publishedDateTime: 2021-04-16T17:36:44Z
@@ -236,6 +220,22 @@ related:
     quality: 173
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Omar says it's 'shameful and unacceptable' for Biden to 'continue the construction' of Trump border wall"
+    excerpt: "Rep. Ilhan Omar, D-Minn., put heat on the Biden administration Wednesday not to restart funding for the border wall. "
+    publishedDateTime: 2021-04-07T19:27:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/omar-biden-trumps-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-trumps-border-wall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/b675a70f-image-31.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1071,6 +1071,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "BMxBkR2CmcuSP/py1QIeyoSkl4dwUp77VpJA2QdFafyzlMNu4OXgHvTFp5D7KXFIawvXnMEKd5LTIX3SfwrKcfa2lIYKgdWZMf+b5hA84riatSqlEwaQZSTxzlTeNmY+LEOI2+VK0/0gehc9bWyzcTmvx6mfm5enD/gx1EL2L/pNUoSQGbR54ZaKQjb+NpzCZ4wIRl4x22Zt7XVEehe+uDn+RqgNjWWE6cSLBO8je0LmX205ov9mzJJdNco+sNzGRzYvnEdwjy1KoiDLt7G5vP5572xtuMQUr0hnjGLocuVmWuNW42H8AmRTuZJxpFUmaabRvW1iZmc4YPR2tWGtWQSn7UPIdgX8lEBjI3cSIRo=;WmQJo6F9RY4l7tYEz/6nBg=="
+secured: "au+uiPXUZCZwy8JybHVr9DVUt0YXPZlYjtI2Zu6jqtqLu6qrrwhX/QLvL5COSkWwxTSKLej8BTM10ABhM/QHVTL3paIE9aYh7TlRW1mr1StSW/WUtvWwHpHAuu0qkxIGH3V/PkbOAGrPEfx9tzxvh/c1daehpFuITn9QilBrzHb5TKLpgpXRQwYu/Fs3TUk6zlFr9b9LQti6bqw9S5wjgjLp8T2zSszTv/mthYyQ74hs3UVX2AA19p33YPP6taZXCQWKWPNUp/YLKxMNTNIN2HmrCCpjc362axc0iVcQkkUULFb2Ec92cUv7hrQADw+wCMBnN3rgJG9G+8elmoZ6mk6JDbfu2z2ykSiRqHvmmWI=;xQW2raYwPaK5UPgV1NnRSw=="
 ---
 

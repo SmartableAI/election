@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-25-doj-partly-discloses-memo-barr-used-to-clear-trump-of-obstructing-russia-inquiry.md",
+      "title": "DOJ partly discloses memo Barr used to clear Trump of obstructing Russia inquiry",
+      "excerpt": "The Justice Department intends to appeal an order to disclose the full memo cited as a reason not to charge Trump with obstruction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/justice-department/doj-partially-discloses-memo-barr-used-clear-trump-obstruction-russia-n1268445",
+      "originalUrl": "https://www.nbcnews.com/politics/justice-department/doj-partially-discloses-memo-barr-used-clear-trump-obstruction-russia-n1268445",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_33/3069776/191025-department-of-justice-building-ew-1227p_e433387e9fbfe306b8bd633f60e1b57d.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1268445",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268445",
+      "publishedDateTime": "2021-05-24T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-biden-condemns-arrest-of-belarusian-opposition-figure-calls-diverted-flight-a-shameful-assault.md",
       "title": "Biden condemns arrest of Belarusian opposition figure, calls diverted flight a 'shameful assault'",
       "excerpt": "President Biden demanded the release of Belarusian opposition journalist Raman Pratasevich on Monday after he was arrested following a forced diversion of his Ryanair flight from Greece to Lithuania.",
@@ -1322,54 +1379,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-how-anti-trump-steele-dossier-exposed-shoddy-world-of-private-spies.md",
-      "title": "How anti-Trump ‘Steele dossier’ exposed shoddy world of ‘private spies’",
-      "excerpt": "Now, politicians were hiring them to dig up dirt on opponents, companies were employing them to torpedo investigations into their activities by authorities or journalists, and dictators were using them as freelance intelligence agents.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/",
-      "originalUrl": "https://nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/Steele-Trap-Tump-Putin.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/amp/",
-      "publishedDateTime": "2021-05-22T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }
