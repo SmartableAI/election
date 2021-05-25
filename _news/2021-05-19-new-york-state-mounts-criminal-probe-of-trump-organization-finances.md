@@ -23,6 +23,22 @@ topics:
   - Donald Trump
 
 related:
+  - title: "Most Republicans still believe 2020 election was stolen from Trump – poll"
+    excerpt: "May opinion poll finds that 53% of Republicans believe Trump is the ‘true president’ compared with 3% of Democrats"
+    publishedDateTime: 2021-05-24T21:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/aab738d46a9b2e7ce009c676cb4f62f8d94df627/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43f3841ea4390c7aede36e6dd996a695"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes"
     excerpt: "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April."
     publishedDateTime: 2021-05-23T22:53:00Z
@@ -39,37 +55,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "CNN: Trump Justice Department seized reporter phone records"
-    excerpt: "CNN says the Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent"
-    publishedDateTime: 2021-05-20T23:19:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
+  - title: "What we know about investigations looming over Donald Trump, his company"
+    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
+    publishedDateTime: 2021-05-19T20:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_47b26d87f8f14e2b8e0e6fd8609a3d1c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump leaves GOP paralyzed, in Congress and up and down ballots: ANALYSIS"
-    excerpt: "Former President Donald Trump may have left office in disgrace, but the four months since then have seen his influence grow."
-    publishedDateTime: 2021-05-20T19:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: USA Today
+      domain: usatoday.com
     quality: 124
     images:
-      - url: "https://s.abcnews.com/images/Politics/mccarthy-stefanik-ap-ps-210520_1621535991742_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
+    excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
+    publishedDateTime: 2021-05-23T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZDIOTSTYMUI6XFEJR562ZVI6OU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
     excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
@@ -85,31 +101,52 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "QAnon Shaman's Lawyer Gives Bold Response About Capitol Rioters And Donald Trump's Role"
-    excerpt: "Trump may not be facing trial, but that hasn't stopped Capitol rioters from trying to make him part of their defense."
-    publishedDateTime: 2021-05-18T22:08:00Z
-    webUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112"
-    ampWebUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
+  - title: "Trump's Ex-Advisor Says COVID-19 Pandemic Was Fabricated To Control 2020 Elections"
+    excerpt: "Donald Trump’s former National Security Advisor Michael Flynn has alleged that the COVID-19 pandemic was fabricated to control the 2020 U.S. election. Flynn, a retired general who is one of the most well-known figures in the QAnon conspiracy theory,"
+    publishedDateTime: 2021-05-24T02:26:00Z
+    webUrl: "https://www.ibtimes.com/trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-control-2020-elections-3206534"
+    ampWebUrl: "https://www.ibtimes.com/trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-control-2020-elections-3206534?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-control-2020-elections-3206534?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 67
+    quality: 84
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/25/general-michael-flynn-pleaded-guilty-to-lying-to.jpg"
+        width: 1024
+        height: 602
+        isCached: true
+  - title: "Trump Is Still Spending Taxpayer Money To Fund His Office, 17 Staff: Report"
+    excerpt: "Former President Donald Trump can continue using taxpayer money to fund his office and staffers until July 21."
+    publishedDateTime: 2021-05-18T01:23:00Z
+    webUrl: "https://www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158"
+    ampWebUrl: "https://www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
+        width: 1024
+        height: 731
+        isCached: true
+  - title: "Trump Organization Faces Criminal Probe In New York State"
+    excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
+    publishedDateTime: 2021-05-19T10:35:00Z
+    webUrl: "https://www.ibtimes.com/trump-organization-faces-criminal-probe-new-york-state-3202928"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/18/a-sign-for-the-trump-international-hotel-in.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
-    excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
-    publishedDateTime: 2021-05-22T11:00:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/22/donald-trump-criminal-investigation-makes-his-political-future-murky/5166416001/"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 26
 
 secured: "vh2HiZgeBc7PTqToEtsLJgXlbwyFwC1vk3Aw/H2zSr/6yQ4jtJyfKGbrQZeSS8xXTFRgXIE69m/OP9jm86uHaGNHk9AxgjNd8MeXva5UlELUmPr0WyNMtfnc2donVfNkeWkwDERwQpC0dN2M7tyVbD/XM22R32Fdq2q4LJHdvAO2KUwkSx16Se935c6h1K69q15LUku81URSfrfqSWvq41h9jYSU1/XyTvzkPoL4LtqXHOMKzrNC7qg7rgP9pQAwbhn5YPcTJTDoLR8y2WgGxCA6tSX4sp+4YMZrD1UYEYndY8+djPwQLXZCcf3dd54lYSw/nn5xvEbT466NWLodCFarJLtaRuFVOZyU4/wu/0BOUuy3IFtO3+CohVJRCWlTIZsM89cP3RjhxQuWjBt5ZKnz7BBJJo3YUsfGwJGD/YutC8+vtHCg44b/W54EEBq8mkoJW4/9UVXW1X3Q5jQIlpIrXssWaTTnOMxsC13Jm7PtEZm+glKoRc8AEMjnGHvU1gOzMU185HWjw1xgFpeprQ==;fq2EC/TYMUWe+vzBXATeHA=="
 ---

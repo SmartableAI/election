@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Donald Trump told his former White House doctor that he wants to run in 2024"
-excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
-publishedDateTime: 2021-05-20T19:25:00Z
-originalUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
-webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+title: "Most Republicans still believe 2020 election was stolen from Trump – poll"
+excerpt: "May opinion poll finds that 53% of Republicans believe Trump is the ‘true president’ compared with 3% of Democrats"
+publishedDateTime: 2021-05-24T21:39:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
+webUrl: "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
 type: article
-quality: 102
-heat: -1
-published: false
+quality: 139
+heat: 299
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,28 +25,12 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
-    width: 700
-    height: 525
+  - url: "https://i.guim.co.uk/img/media/aab738d46a9b2e7ce009c676cb4f62f8d94df627/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43f3841ea4390c7aede36e6dd996a695"
+    width: 600
+    height: 360
     isCached: true
 
 related:
-  - title: "Most Republicans still believe 2020 election was stolen from Trump – poll"
-    excerpt: "May opinion poll finds that 53% of Republicans believe Trump is the ‘true president’ compared with 3% of Democrats"
-    publishedDateTime: 2021-05-24T21:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 139
-    images:
-      - url: "https://i.guim.co.uk/img/media/aab738d46a9b2e7ce009c676cb4f62f8d94df627/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43f3841ea4390c7aede36e6dd996a695"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes"
     excerpt: "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April."
     publishedDateTime: 2021-05-23T22:53:00Z
@@ -92,6 +78,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZDIOTSTYMUI6XFEJR562ZVI6OU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
+    excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
+    publishedDateTime: 2021-05-20T19:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
+        width: 700
+        height: 525
         isCached: true
   - title: "Trump's Ex-Advisor Says COVID-19 Pandemic Was Fabricated To Control 2020 Elections"
     excerpt: "Donald Trump’s former National Security Advisor Michael Flynn has alleged that the COVID-19 pandemic was fabricated to control the 2020 U.S. election. Flynn, a retired general who is one of the most well-known figures in the QAnon conspiracy theory,"
@@ -149,6 +149,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "QslO4cjAnBpljCVbPILxslAlF5ixo5pzhxuKorvWVdmBwmWSLRrXgooL0x51LiSJdTyBrEOXCizg+BOtboF0KZBRFVFIX0s6lrx5tUSlv+OM5FoZfS05xP2Uucr2db/UpGYOFteVnzV+uotaiimCi7pZV5uNx6lIfj5IaCHvczLSDFOt8Jj515P4FOh1NohzJKR887HkMQtNNDLToiuusGsrEruIVLKjM6FryuMVTyGQFK3d2jOy7OKELUR0MBLr/XP391AmQ1Mll5+W5RnYgHwQaUb5NOlAnimXANq4RWfItxfcRNxWuzahvNc26bB4jWIKOzyUf9lQht4N0Hg9NDWW80f2CRhNqhUSOk75s6d91r7aWrWvxmWXJinLO6XVcsp07CkGouLF1IF8QJDbOhlyblRctCbQ3EJ7/rIdpVUvF2PqV7nbDwcKcF4pmT0qi2dXyI2dDe8+E54mCIIent/pjHUq1BCGfO9u0wM8qWuGIhbEj+6hT415LVBNQMd1jzHb6USG969/NK0+bBMjIA==;5T5CYzzuBCFzvqJCM7wLEQ=="
+secured: "FPOoIW9PANjVQn+Gx7iMdd1MB2UbivaoqqaqzKYc8mYPi2bECBIaroS8ZJ+UaLCVATElbxoz1fmxb0JmwEBuZeIGzKHsxmLi51NDJTmFtlBr1NnIya2C04brIOXcqh9fDvicPgyLMNWGKyZ/6iRdHq1JWkdTKkio7aWjeUskDz4wregY461S55dRuPouN+WyZ96du/xS6IK+HlSZSlLIU8HJEVO43ieblcMqXIBh//TsQ1oTdiqIG2ylwP1BKmtSvtUOrqvTWornTGzE4sDpooELPk2eAsKbQJ1OwhNn6Kkar4+mxw195q4xBxJR9+n4/hl0hHiYExak26XmvtyTHis4mfwrjD6akTuf+DC9Kw4=;SlWrVhXrq0xuDq5mR7h9uQ=="
 ---
 

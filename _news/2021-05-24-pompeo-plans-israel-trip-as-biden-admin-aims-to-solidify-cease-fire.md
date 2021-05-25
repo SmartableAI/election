@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden tells Israel's Netanyahu he expects 'significant de-escalation' of Gaza conflict"
-excerpt: "President Biden on Wednesday told Israeli Prime Minister Benjamin Netanyahu that he expects \"a significant de-escalation\" as part of the move to a potential cease-fire between Israel and Hamas."
-publishedDateTime: 2021-05-19T14:42:35Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_eu4ufFYq8s/biden-israel-netanyahu-significant-de-escalation-gaza-conflict"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_eu4ufFYq8s/biden-israel-netanyahu-significant-de-escalation-gaza-conflict"
-ampWebUrl: "https://www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
+title: "Pompeo plans Israel trip as Biden admin aims to solidify cease-fire"
+excerpt: "Former Secretary of State Mike Pompeo is planning a trip to Israel this week, a visit that could coincide with the Biden administration’s efforts to solidify a cease-fire agreement between the key US ally and Hamas militants."
+publishedDateTime: 2021-05-24T22:22:35Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s42XFbcEGhQ/pompeo-israel-trip-biden-admin-cease-fire"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s42XFbcEGhQ/pompeo-israel-trip-biden-admin-cease-fire"
+ampWebUrl: "https://www.foxnews.com/politics/pompeo-israel-trip-biden-admin-cease-fire.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-israel-trip-biden-admin-cease-fire.amp"
 type: article
-quality: 167
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fc33b01-b1f5-4c90-b154-2f02da58297f/ac4bccbf-1f79-4fb1-af14-2841e4252b81/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c8d2ef1-d9fd-461c-b282-749e8378a532/0cf7d7a0-68d4-468e-b5cc-08a915d6b34b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -60,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d966f253-168f-4c6b-ab7d-436077452ac5/2843faa2-1a59-4121-90f5-3174f9ba7e69/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Pompeo plans Israel trip as Biden admin aims to solidify cease-fire"
-    excerpt: "Former Secretary of State Mike Pompeo is planning a trip to Israel this week, a visit that could coincide with the Biden administration’s efforts to solidify a cease-fire agreement between the key US ally and Hamas militants."
-    publishedDateTime: 2021-05-24T22:22:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s42XFbcEGhQ/pompeo-israel-trip-biden-admin-cease-fire"
-    ampWebUrl: "https://www.foxnews.com/politics/pompeo-israel-trip-biden-admin-cease-fire.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-israel-trip-biden-admin-cease-fire.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c8d2ef1-d9fd-461c-b282-749e8378a532/0cf7d7a0-68d4-468e-b5cc-08a915d6b34b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -142,6 +126,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden tells Israel's Netanyahu he expects 'significant de-escalation' of Gaza conflict"
+    excerpt: "President Biden on Wednesday told Israeli Prime Minister Benjamin Netanyahu that he expects \"a significant de-escalation\" as part of the move to a potential cease-fire between Israel and Hamas."
+    publishedDateTime: 2021-05-19T14:42:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_eu4ufFYq8s/biden-israel-netanyahu-significant-de-escalation-gaza-conflict"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fc33b01-b1f5-4c90-b154-2f02da58297f/ac4bccbf-1f79-4fb1-af14-2841e4252b81/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden condemns 'despicable' anti-Semitic attacks as Democrats take harder line on Israel"
     excerpt: "President Biden on Monday condemned \"despicable\" anti-Semitic attacks against American Jews in the U.S. who have found themselves targets of death threats, hate speech and violent physical attacks amid the conflict between Israel and Palestinians."
@@ -254,6 +254,6 @@ related:
         height: 405
         isCached: true
 
-secured: "RqF6eaG08ow1H85j0m+ZMOQPZvzhF4sBE9/QeVUSywx36no97pges0ymv026NgQ71EPNt/Xji0/GsCHMx1o2fnM4EgNI+sWRrBBy7o5e7Qw0OIg24kUPQbJseWbvf/7Y4e1aSX0EBfViS01rdvAnMvZMRtmjg1Qweuk9ZTuAMPYVInMMLqB8VKR6ADTZznFnQkrm2crgkUnb299AaS9oentjOpngsacgtBuMaUNnOeaGtS8SZFiI/XMQJb4y4fQfnanmCcSs6ioFzxE7pAfEsOSM0ZGbEtXxQg+YubXr2XFbTZLrFr96QPFyBCmXuHwr811K+tXPJYpRMspGybzWPbP+D8ztT4SZ4ah0ngSHxCQ=;VQm1/XbXzpi8KRYo0hBpZw=="
+secured: "HhGLsukKxAWSrtG9r6vV4oBMd2JQjoIYTDA36o4clsuN4bj4OjLAN2H1iaoV4B6fMLSXvgPv6n4f1cLB7khsJonJ2ji1QoA2hpoKzpq45e/u5iDdS50DFdlCHPHDt11SL+WK9q0/WWw0SKz1HO0YA7aXuBCeCtkUvMu6bm5fl6i9oYLRoNoX6luwTETY2LOIjPHEN1kGWJ3F0kh8ICT8UYEivmuKs7/vgH0xhsknT/glNJ++yUCn9zhpv5ex2lXLPt9Y6ZozZLdp7H8ZSphEF3IaXhFDPUamUYO09y7YxJ+IEz74EgNtnpu/u2ImX0u0g7uZX20Wznr4UXPo/aB+VgvShKW7YMmcN2ze+hSBoK8=;FtGWHSfIqDQwwsGxC3boZA=="
 ---
 

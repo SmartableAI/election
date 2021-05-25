@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-israel-replenish-iron-dome-li
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp"
 type: article
 quality: 175
-heat: 415
+heat: 455
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Jen Psaki says Biden is so fit that she has trouble keeping up with him"
+    excerpt: "During the White House’s Monday press conference, Psaki was asked by a reporter about the president’s workout routine and if he was still making use of a Peloton stationary bicycle to work out and get swole."
+    publishedDateTime: 2021-05-24T22:48:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5EwevNMkaRQ/white-house-biden-fitness-psaki-trouble-keeping-up"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-fitness-psaki-trouble-keeping-up.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-fitness-psaki-trouble-keeping-up.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d966f253-168f-4c6b-ab7d-436077452ac5/2843faa2-1a59-4121-90f5-3174f9ba7e69/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Pompeo plans Israel trip as Biden admin aims to solidify cease-fire"
+    excerpt: "Former Secretary of State Mike Pompeo is planning a trip to Israel this week, a visit that could coincide with the Biden administration’s efforts to solidify a cease-fire agreement between the key US ally and Hamas militants."
+    publishedDateTime: 2021-05-24T22:22:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s42XFbcEGhQ/pompeo-israel-trip-biden-admin-cease-fire"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-israel-trip-biden-admin-cease-fire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-israel-trip-biden-admin-cease-fire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c8d2ef1-d9fd-461c-b282-749e8378a532/0cf7d7a0-68d4-468e-b5cc-08a915d6b34b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden admin's mixed messages on fuel pipelines are as muddled as mask mandates"
     excerpt: "Biden administration officials have sported blatant hypocrisy between prioritizing the Colonial Pipeline over the Keystone and their quick change of heart on coronavirus masking."
     publishedDateTime: 2021-05-18T10:12:10Z

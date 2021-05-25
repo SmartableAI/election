@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Doug Emhoff, husband of Vice President Kamala Harris, to hear about COVID-19 business challenges in Annapolis"
-excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is scheduled to visit Annapolis this morning, taking part in a discussion with business owners about the challenges posed by the COVID-19 pandemic."
-publishedDateTime: 2021-05-18T13:09:00Z
-originalUrl: "https://www.baltimoresun.com/politics/ac-cn-first-gentleman-doug-emhoff-annapolis-2021519-20210518-m6yrtr7f6fclpla3e6inigzlsa-story.html"
-webUrl: "https://www.baltimoresun.com/politics/ac-cn-first-gentleman-doug-emhoff-annapolis-2021519-20210518-m6yrtr7f6fclpla3e6inigzlsa-story.html"
+title: "To the ‘extreme’? Rick Scott trolls Kamala Harris over avoiding Mexican border crisis"
+excerpt: "Rick Scott continues to question the failure of the Vice President to personally survey the crisis at the U.S./Mexican border. On Monday, Scott’s Senate office issued a statement characterizing Kamala Harris ‘ “avoidance” of the border as “getting extreme,"
+publishedDateTime: 2021-05-24T23:26:00Z
+originalUrl: "https://floridapolitics.com/archives/431703-extreme-harris/"
+webUrl: "https://floridapolitics.com/archives/431703-extreme-harris/"
 type: article
-quality: 36
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Florida Politics
+  domain: floridapolitics.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/9lyfGx44ZvwRJSCF67RSyIB21T4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSWZSXXSWZDH7OIVZTP3MPDCSA.jpg"
-    width: 1200
-    height: 912
+  - url: "https://floridapolitics.com/wp-content/uploads/2021/01/rick-scott.jpg"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -330,20 +330,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "To the ‘extreme’? Rick Scott trolls Kamala Harris over avoiding Mexican border crisis"
-    excerpt: "Rick Scott continues to question the failure of the Vice President to personally survey the crisis at the U.S./Mexican border. On Monday, Scott’s Senate office issued a statement characterizing Kamala Harris ‘ “avoidance” of the border as “getting extreme,"
-    publishedDateTime: 2021-05-24T23:26:00Z
-    webUrl: "https://floridapolitics.com/archives/431703-extreme-harris/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 48
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/01/rick-scott.jpg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Second Gentleman Doug Emhoff, Vice President Kamala Harris’ husband, will visit Annapolis"
     excerpt: "The Second Gentleman, husband to Vice President Kamala Harris, will visit Annapolis on Tuesday for a private event."
     publishedDateTime: 2021-05-17T17:57:00Z
@@ -371,6 +357,20 @@ related:
       - url: "https://www.paloaltoonline.com/news/photos/2021/may/20/91715_col.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Doug Emhoff, husband of Vice President Kamala Harris, to hear about COVID-19 business challenges in Annapolis"
+    excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is scheduled to visit Annapolis this morning, taking part in a discussion with business owners about the challenges posed by the COVID-19 pandemic."
+    publishedDateTime: 2021-05-18T13:09:00Z
+    webUrl: "https://www.baltimoresun.com/politics/ac-cn-first-gentleman-doug-emhoff-annapolis-2021519-20210518-m6yrtr7f6fclpla3e6inigzlsa-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 36
+    images:
+      - url: "https://www.baltimoresun.com/resizer/9lyfGx44ZvwRJSCF67RSyIB21T4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSWZSXXSWZDH7OIVZTP3MPDCSA.jpg"
+        width: 1200
+        height: 912
         isCached: true
   - title: "Four Annapolis restaurant owners discuss surviving COVID-19 with Doug Emhoff, husband of Vice President Kamala Harris"
     excerpt: "Four Annapolis restaurant owners who overcame hurdles to remain open during the COVID-19 pandemic met this morning with Doug Emhoff, husband of Vice President Kamala Harris."
@@ -405,6 +405,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "298hh04Qr+jKpiAlqpvCl9mYoJDb/5lJ99AMbv7tKPHECpCK9VDCcFaH36aJPVg0x9CK8pcA5QXd+6vs6Z1dmCJcV0spn+pyDEoSfTQem2/AHLQ0SvggOdWJ9k8+RDMjMyXdiaaoWAdT4yOoi4n5a/3aB7aFnFvsTe0tlviYSLoksTY186w3kJUkFaY4uQnGUfxDmCIl/Q/5Dl5JQ69KtEd34Tn91IneUMjGjYcSnFrw/svyEVLWXzlHr+VOYRf0c03JwN3mE1Qe2zwv+ntum0jmBaYexYCuMdVXLKLRnYXunj5xoAxr7UQkbCMmhy2JHZjFSBIusaPcR6tSBR9CY6XCs/dsRjxfUJLtqoiy06n211JqS2LzAfvE1qqFzRKnAeRkdDUO0KxEGwxWVlss120kpzX2r37aeaaglwTL2nrqm33JWQZbzXG/NnZrVm450nysO/km7181i07IFoh0lls/E9O9SDavWhZfO57gy5+snXXSLO7/ZYJAp/AVlCfvQ0saVsncU2I+OcvamiXppA==;QFNr3y5y4tbsleflT+viAg=="
+secured: "lpaUn5MO+VIbIXMTHjOPkL0Ebim/TBN3MpHB1bMCIvVHT/nc6qhYn543+DrfaYguJT31So/HVJmKS+hYT90n1pdXxDmaDp8yUgvdZT3gfuP3/OlRzhloTisB9iqaStN87GoSjH2ELcYCxIQDe1ZbwACHH+JlFy2n7Z4ACy2GRf0UvR3dno4atx0AdcCMi9EsH7JVI0w1XtIDH6aSvnWsr7dPevd7C0ul16cxxZkSOI1dy4YZbRC30f9HRvQkSXHE/PYMApfklnMK5YlKjCfuzCI280sORxjdNGGEuPCu4zdBFqBTNKFxQE+M4c7Md7o7fklsza1WlBSkhjjD+L0IevzcwOAZAe5kFTwVEMefZqk=;ENmZ5qX7Ong3lG/5AiKAkQ=="
 ---
 

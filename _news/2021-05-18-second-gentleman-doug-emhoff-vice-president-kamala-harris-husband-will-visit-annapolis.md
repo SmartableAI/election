@@ -330,6 +330,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "To the ‘extreme’? Rick Scott trolls Kamala Harris over avoiding Mexican border crisis"
+    excerpt: "Rick Scott continues to question the failure of the Vice President to personally survey the crisis at the U.S./Mexican border. On Monday, Scott’s Senate office issued a statement characterizing Kamala Harris ‘ “avoidance” of the border as “getting extreme,"
+    publishedDateTime: 2021-05-24T23:26:00Z
+    webUrl: "https://floridapolitics.com/archives/431703-extreme-harris/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 48
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/01/rick-scott.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Around Town: Through letters, Girl Scouts share hopes for the country with Kamala Harris"
     excerpt: "In the latest Around Town column, stories on local Girl Scouts contributing to a book of letters to Vice President Kamala Harris, a local teen's skateboard giveaway in East Palo Alto and an alleged dog beating in Palo Alto."
     publishedDateTime: 2021-05-22T15:04:00Z

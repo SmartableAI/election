@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden tells Israel's Netanyahu he expects 'significant de-escalation' of Gaza conflict"
-excerpt: "President Biden on Wednesday told Israeli Prime Minister Benjamin Netanyahu that he expects \"a significant de-escalation\" as part of the move to a potential cease-fire between Israel and Hamas."
-publishedDateTime: 2021-05-19T14:42:35Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_eu4ufFYq8s/biden-israel-netanyahu-significant-de-escalation-gaza-conflict"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_eu4ufFYq8s/biden-israel-netanyahu-significant-de-escalation-gaza-conflict"
-ampWebUrl: "https://www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
+title: "Jen Psaki says Biden is so fit that she has trouble keeping up with him"
+excerpt: "During the White House’s Monday press conference, Psaki was asked by a reporter about the president’s workout routine and if he was still making use of a Peloton stationary bicycle to work out and get swole."
+publishedDateTime: 2021-05-24T22:48:54Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5EwevNMkaRQ/white-house-biden-fitness-psaki-trouble-keeping-up"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5EwevNMkaRQ/white-house-biden-fitness-psaki-trouble-keeping-up"
+ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-fitness-psaki-trouble-keeping-up.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-fitness-psaki-trouble-keeping-up.amp"
 type: article
-quality: 167
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fc33b01-b1f5-4c90-b154-2f02da58297f/ac4bccbf-1f79-4fb1-af14-2841e4252b81/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d966f253-168f-4c6b-ab7d-436077452ac5/2843faa2-1a59-4121-90f5-3174f9ba7e69/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -44,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc6d2359-50d5-4e84-aa4c-65ce04c230a1/680d6431-b135-4af6-8c52-6631c7868a31/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Jen Psaki says Biden is so fit that she has trouble keeping up with him"
-    excerpt: "During the White House’s Monday press conference, Psaki was asked by a reporter about the president’s workout routine and if he was still making use of a Peloton stationary bicycle to work out and get swole."
-    publishedDateTime: 2021-05-24T22:48:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5EwevNMkaRQ/white-house-biden-fitness-psaki-trouble-keeping-up"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-fitness-psaki-trouble-keeping-up.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-fitness-psaki-trouble-keeping-up.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d966f253-168f-4c6b-ab7d-436077452ac5/2843faa2-1a59-4121-90f5-3174f9ba7e69/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -142,6 +126,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden tells Israel's Netanyahu he expects 'significant de-escalation' of Gaza conflict"
+    excerpt: "President Biden on Wednesday told Israeli Prime Minister Benjamin Netanyahu that he expects \"a significant de-escalation\" as part of the move to a potential cease-fire between Israel and Hamas."
+    publishedDateTime: 2021-05-19T14:42:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_eu4ufFYq8s/biden-israel-netanyahu-significant-de-escalation-gaza-conflict"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fc33b01-b1f5-4c90-b154-2f02da58297f/ac4bccbf-1f79-4fb1-af14-2841e4252b81/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden condemns 'despicable' anti-Semitic attacks as Democrats take harder line on Israel"
     excerpt: "President Biden on Monday condemned \"despicable\" anti-Semitic attacks against American Jews in the U.S. who have found themselves targets of death threats, hate speech and violent physical attacks amid the conflict between Israel and Palestinians."
@@ -254,6 +254,6 @@ related:
         height: 405
         isCached: true
 
-secured: "RqF6eaG08ow1H85j0m+ZMOQPZvzhF4sBE9/QeVUSywx36no97pges0ymv026NgQ71EPNt/Xji0/GsCHMx1o2fnM4EgNI+sWRrBBy7o5e7Qw0OIg24kUPQbJseWbvf/7Y4e1aSX0EBfViS01rdvAnMvZMRtmjg1Qweuk9ZTuAMPYVInMMLqB8VKR6ADTZznFnQkrm2crgkUnb299AaS9oentjOpngsacgtBuMaUNnOeaGtS8SZFiI/XMQJb4y4fQfnanmCcSs6ioFzxE7pAfEsOSM0ZGbEtXxQg+YubXr2XFbTZLrFr96QPFyBCmXuHwr811K+tXPJYpRMspGybzWPbP+D8ztT4SZ4ah0ngSHxCQ=;VQm1/XbXzpi8KRYo0hBpZw=="
+secured: "b1IV4USuSP31CrwLOwkt2Qv0zrvULasg73gO80Nai4NrhP31b17pEJRSN+0YiKOSCPHGD3jeH2s6njHF9mBM0oHQcZQuiFkRPx1+GKI7c78Z337xr2u/fUyNgDiAH0GJXOvJtSoxUxzr/O72eIAro3zn/beaaWeQORCi59GNbQBpTPJVEWM+pL8MW0VpWXIDy6SJr7Qms6iAPxJTvhRz7JlKVGnXBAxVSlC7A//fxl1XldjeoR8glgABYkiF4FLuDIFEs4NM16SNGoGbyhd5NHeUcHlR9PUizR03kbGYpGudJp/M8pHddr2i/XNwUGmBS+1m9XbqD8X7rC+ajDEDuZb5gn55P6CW6BvPK6kE5sE=;p15mqD//IOrieZfYhsMWvQ=="
 ---
 

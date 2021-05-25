@@ -47,21 +47,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
-    excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
-    publishedDateTime: 2021-05-23T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
+  - title: "Trump leaves GOP paralyzed, in Congress and up and down ballots: ANALYSIS"
+    excerpt: "Former President Donald Trump may have left office in disgrace, but the four months since then have seen his influence grow."
+    publishedDateTime: 2021-05-20T19:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZDIOTSTYMUI6XFEJR562ZVI6OU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/mccarthy-stefanik-ap-ps-210520_1621535991742_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump Casino In Florida? GOP Lawmakers Clear Way For Gambling License"
     excerpt: "Eric Trump, son of the former president and the current executive vice president of the Trump Organization, previously suggested that the company had plans to establish a casino at Doral."

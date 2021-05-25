@@ -1,22 +1,18 @@
 ---
 category: news
 title: "VP Harris holds virtual session on digital divide"
-excerpt: "Vice President Kamala Harris holds a virtual listening session to discuss the digital divide in American and how investments in the he American Jobs Plan will ensure every American has access to affordable,"
-publishedDateTime: 2021-05-24T21:40:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/24/vp-harris-holds-virtual-session-digital-divide/7421372002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/24/vp-harris-holds-virtual-session-digital-divide/7421372002/"
+excerpt: "Vice President Kamala Harris holds a virtual listening session to discuss the digital divide in American and how investments in the he American Jobs Plan will ensure every American has access to affordable, high-speed internet. (May 24)"
+publishedDateTime: 2021-05-24T23:48:00Z
+originalUrl: "https://www.cincinnati.com/videos/news/nation/2021/05/24/vp-harris-holds-virtual-session-digital-divide/7421372002/"
+webUrl: "https://www.cincinnati.com/videos/news/nation/2021/05/24/vp-harris-holds-virtual-session-digital-divide/7421372002/"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
@@ -904,6 +900,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "xA57HocfNPWe2n/Vov5K0K+8VcKehnBIv+0uLJRTkBTWO5hPTNeYQaL/+Ncb8m5DXbQpa0nbdHqDHunFll3Xgb1vkSbt6PQqcWnfMVqpNgedW/V7XXGvOsXWQT8GSqkMGCXrNzMazla7dkWio+GUSKYGH6/tGaCioD1B2OATLrZ9nuDEtc0ZJB8gzdJs4bSnEGLnjevAlU4mTfEQS7ZpXY5lvPgOBUoWVgTHNL/IBYI3dauH6Jr3YGAcn3Q8M2SXnDwuj3GXwWRgJ2WL0gspAEkCFMF2T/EwoEStp/Wue1fFAywOQtPr2qXKqU+tX31iAVTs/qqg7DIdplKxoiyNXydE3cb7cFeriCMbVHkuWMA=;3c070oTJLAybyCuzVte9ZQ=="
+secured: "+03Xsf5Obmd6v3e2Q+KIUkLCgsT65q7W1cCQd7SjRO/tx6o8Bi0xJhJJtUdmLaab9lQcJuuXLB9ImsyQ8hSeciUBp2yxkWpf8+TCtMYJV3nRefoUwH1gRNtioAQEh7k9pnUJIxrUOn+0yNiXDpV+BQsMG6YGs1uL5ydZpRWF5vctdTfTMCxFUod6Zp07OJpohHSOZtd8cjTrjQeVOa+PYaMI3WzZbS75EjSSZsNNLtiVCi/uBscg6Gade/u07WB5w2UU0h/nknvbsMRKl3RC4SsMKkrRmaxJiPnyHCP1MZYOijdkJ1M4ETx1lNadxzhCI/T7dlMwhyyNorKPO7AChNgVRXf7KiOBukruwliB5NE=;FKLUzMuFH6PRPQ/Dnt+aLg=="
 ---
 

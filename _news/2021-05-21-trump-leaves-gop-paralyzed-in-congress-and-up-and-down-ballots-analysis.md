@@ -31,86 +31,63 @@ images:
     isCached: true
 
 related:
-  - title: "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes"
-    excerpt: "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April."
-    publishedDateTime: 2021-05-23T22:53:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5223698001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5223698001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "CNN: Trump Justice Department seized reporter phone records"
-    excerpt: "CNN says the Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent"
-    publishedDateTime: 2021-05-20T23:19:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_47b26d87f8f14e2b8e0e6fd8609a3d1c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
-    excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
-    publishedDateTime: 2021-05-20T19:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+  - title: "10 Things in Politics: Trump's legal jeopardy has GOP worried"
+    excerpt: "And the cease-fire between Israel and Hamas appears to be holding."
+    publishedDateTime: 2021-05-21T12:18:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 102
+    quality: 125
     images:
-      - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
-        width: 700
-        height: 525
+      - url: "https://i.insider.com/6066cc80902281001950ab74?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "QAnon Shaman's Lawyer Gives Bold Response About Capitol Rioters And Donald Trump's Role"
-    excerpt: "Trump may not be facing trial, but that hasn't stopped Capitol rioters from trying to make him part of their defense."
-    publishedDateTime: 2021-05-18T22:08:00Z
-    webUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112"
-    ampWebUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
+  - title: "Lin Wood Falls to Trump-Endorsed Drew McKissick in Bid to Lead South Carolina GOP"
+    excerpt: "Pro-Trump lawyer Lin Wood's attempt to convince delegates to make him the next South Carolina Republican Party chairman fell through on Saturday, when incumbent Drew McKissick secured his reelection bid for a third two-year term,"
+    publishedDateTime: 2021-05-15T18:23:00Z
+    webUrl: "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850"
+    ampWebUrl: "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1798007/defamation-lawsuit-against-tesla-ceo-elon-musk.jpg"
+        width: 3615
+        height: 2410
+        isCached: true
+  - title: "Trump Casino In Florida? GOP Lawmakers Clear Way For Gambling License"
+    excerpt: "Eric Trump, son of the former president and the current executive vice president of the Trump Organization, previously suggested that the company had plans to establish a casino at Doral."
+    publishedDateTime: 2021-05-20T04:31:00Z
+    webUrl: "https://www.ibtimes.com/trump-casino-florida-gop-lawmakers-clear-way-gambling-license-3203546"
+    ampWebUrl: "https://www.ibtimes.com/trump-casino-florida-gop-lawmakers-clear-way-gambling-license-3203546?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-casino-florida-gop-lawmakers-clear-way-gambling-license-3203546?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 67
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
         width: 1024
-        height: 682
+        height: 731
         isCached: true
-  - title: "New York State Mounts Criminal Probe of Trump Organization Finances"
-    excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
-    publishedDateTime: 2021-05-19T07:02:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-19/new-york-state-mounts-criminal-probe-of-trump-organization-finances"
+  - title: "Former Trump Ambassador Sues Pompeo, U.S. Government for Legal Fees"
+    excerpt: "Gordon Sondland, the former U.S. ambassador who testified against President Donald Trump during his first impeachment, sued former Secretary of State Mike Pompeo and the U.S. government for $1.8 million in legal fees on Monday."
+    publishedDateTime: 2021-05-24T14:47:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-24/former-trump-ambassador-sues-pompeo-us-government-for-legal-fees"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
-    excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
-    publishedDateTime: 2021-05-22T11:00:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/22/donald-trump-criminal-investigation-makes-his-political-future-murky/5166416001/"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 26
 
 secured: "XtT+0XbHktc+SldIFk1OALOoPWnmoeWgdvjHXHAL9MKOFa+CrYwBStrcRMcR9oV2Gq5pO0pXJo9AZoxW9kcxkOMNk7iag7yLgGRM+/rWLBU8oJnXUlJN+SMhaEeprcYloKeFlsKyT2YWTKe2w2WRl8Ydns0+03eVkVftJksy6ZHf+ky5hzy3DuwWqJiCwIwfXbBuj91jsnctg/mHA8ZBz7nC+9RMbBmsWPLlHoSQhFdtIazgd8Fs5zC0v1LuEznvyutKH3ifATMIZSZc1U64M5BVS71vDMwUp9RMuFFI3SXEJvUqScOBEBfRMxLYrgiEdSb7/ZZUldKV8rqr8Ea9nIIkn7SCOjeo0vZ0P7jf2ulVzgd/nnA9uKvApER3yKsfgI0NWKa9QjVhwSY4Iv0GZWpczxaEIPqickHBDwIQs77fPlO+QjItmheEmthjxuNEJPWMTNlZtLRr5VgrcEGuomc1ctjKx7oGdHnxj7hfSnPePZ5tT+hVocDfbpq4462+PY65o9BvD4QGzaZw5Zj2Mg==;jrd8faFHSZy9ru1SnJyb6A=="
 ---

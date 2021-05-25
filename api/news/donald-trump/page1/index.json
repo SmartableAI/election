@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-25-most-republicans-still-believe-2020-election-was-stolen-from-trump-poll.md",
+      "title": "Most Republicans still believe 2020 election was stolen from Trump – poll",
+      "excerpt": "May opinion poll finds that 53% of Republicans believe Trump is the ‘true president’ compared with 3% of Democrats",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/aab738d46a9b2e7ce009c676cb4f62f8d94df627/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43f3841ea4390c7aede36e6dd996a695",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
+      "publishedDateTime": "2021-05-24T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-than-in-2020.md",
       "title": "Donald Trump Says His Website Drew 36.7M Views Over Past Month: 'More Traffic Than in 2020'",
       "excerpt": "\"This number would be even greater if we were still on Twitter and Facebook,\" Trump claimed, \"but since Big Tech has illegally banned me, tens of millions of our supporters have stopped using these platforms.",
@@ -330,58 +382,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-24-trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-to-control-2020-elections.md",
-      "title": "Trump's Ex-Advisor Says COVID-19 Pandemic Was Fabricated To Control 2020 Elections",
-      "excerpt": "Donald Trump’s former National Security Advisor Michael Flynn has alleged that the COVID-19 pandemic was fabricated to control the 2020 U.S. election. Flynn, a retired general who is one of the most well-known figures in the QAnon conspiracy theory,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-control-2020-elections-3206534",
-      "originalUrl": "https://www.ibtimes.com/trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-control-2020-elections-3206534",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/25/general-michael-flynn-pleaded-guilty-to-lying-to.jpg",
-          "width": 1024,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-control-2020-elections-3206534?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-control-2020-elections-3206534?amp=1",
-      "publishedDateTime": "2021-05-23T19:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-24-trump-criminal-investigation-looms-over-manhattan-da-race.md",
       "title": "Trump criminal investigation looms over Manhattan DA race",
       "excerpt": "New York City voters will be casting their last ballots next month in an election that’s sure to have consequences for former President Donald Trump",
@@ -414,58 +414,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-trump-supporters-nonprofit-will-help-decide-who-counts-ballots-as-election-audit-resumes.md",
-      "title": "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes",
-      "excerpt": "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/",
-      "originalUrl": "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5223698001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5223698001",
-      "publishedDateTime": "2021-05-23T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1593,6 +1541,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-trump-allies-promote-portfolios-targeting-unwoke-investors.md",
+      "title": "Trump Allies Promote Portfolios Targeting ‘Unwoke Investors’",
+      "excerpt": "A group of conservative money managers is seeking to woo investors disgruntled by increased involvement by some companies in political and social issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
+      "originalUrl": "https://www.wsj.com/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-339796/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
+      "publishedDateTime": "2021-05-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

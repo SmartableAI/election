@@ -217,20 +217,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "VP Harris holds virtual session on digital divide"
-    excerpt: "Vice President Kamala Harris holds a virtual listening session to discuss the digital divide in American and how investments in the he American Jobs Plan will ensure every American has access to affordable,"
-    publishedDateTime: 2021-05-24T21:40:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/24/vp-harris-holds-virtual-session-digital-divide/7421372002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/713c9c51-be46-4be5-ba1e-af640cb45572_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Social Enterprise Greenhouse Hosts Vice President Kamala Harris and Commerce Secretary Gina Raimondo in Visit to Providence Today"
     excerpt: "Vice President Kamala Harris and Commerce Secretary Gina Raimondo, former governor of Rhode Island, visited Social Enterprise Greenhouse (SEG) in downtown Providence, R.I., today to meet local social entrepreneurs and learn about their businesses."
     publishedDateTime: 2021-05-06T00:15:00Z
@@ -809,6 +795,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e7/9e7d7628-ca00-576d-a3be-b12eacb1c0be/60aaf7bfb2d3a.image.jpg?resize=576%2C324"
         width: 576
         height: 324
+        isCached: true
+  - title: "VP Harris holds virtual session on digital divide"
+    excerpt: "Vice President Kamala Harris holds a virtual listening session to discuss the digital divide in American and how investments in the he American Jobs Plan will ensure every American has access to affordable, high-speed internet. (May 24)"
+    publishedDateTime: 2021-05-24T23:48:00Z
+    webUrl: "https://www.cincinnati.com/videos/news/nation/2021/05/24/vp-harris-holds-virtual-session-digital-divide/7421372002/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/713c9c51-be46-4be5-ba1e-af640cb45572_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "VP Kamala Harris visits Rhode Island with Commerce Secretary Gina Raimondo"
     excerpt: "Vice President Kamala Harris answers questions during a visit to RI with Commerce Secretary Gina Raimondo. Providence Journal video/ Kris Craig]"

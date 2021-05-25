@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-gra
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
 type: article
 quality: 125
-heat: 625
+heat: 645
 published: true
 
 provider:
@@ -319,6 +319,20 @@ related:
       - url: "https://www.capitalgazette.com/resizer/hhQGTEcExdA-YJ7LKpjd8iYpBoU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O4NDVYIG222SE7OUTGIA2VTZPY.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "To the ‘extreme’? Rick Scott trolls Kamala Harris over avoiding Mexican border crisis"
+    excerpt: "Rick Scott continues to question the failure of the Vice President to personally survey the crisis at the U.S./Mexican border. On Monday, Scott’s Senate office issued a statement characterizing Kamala Harris ‘ “avoidance” of the border as “getting extreme,"
+    publishedDateTime: 2021-05-24T23:26:00Z
+    webUrl: "https://floridapolitics.com/archives/431703-extreme-harris/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 48
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/01/rick-scott.jpg"
+        width: 960
+        height: 540
         isCached: true
   - title: "Second Gentleman Doug Emhoff, Vice President Kamala Harris’ husband, will visit Annapolis"
     excerpt: "The Second Gentleman, husband to Vice President Kamala Harris, will visit Annapolis on Tuesday for a private event."

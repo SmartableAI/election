@@ -324,6 +324,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "To the ‘extreme’? Rick Scott trolls Kamala Harris over avoiding Mexican border crisis"
+    excerpt: "Rick Scott continues to question the failure of the Vice President to personally survey the crisis at the U.S./Mexican border. On Monday, Scott’s Senate office issued a statement characterizing Kamala Harris ‘ “avoidance” of the border as “getting extreme,"
+    publishedDateTime: 2021-05-24T23:26:00Z
+    webUrl: "https://floridapolitics.com/archives/431703-extreme-harris/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 48
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/01/rick-scott.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Second Gentleman Doug Emhoff, Vice President Kamala Harris’ husband, will visit Annapolis"
     excerpt: "The Second Gentleman, husband to Vice President Kamala Harris, will visit Annapolis on Tuesday for a private event."
     publishedDateTime: 2021-05-17T17:57:00Z

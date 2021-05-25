@@ -31,86 +31,143 @@ images:
     isCached: true
 
 related:
-  - title: "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes"
-    excerpt: "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April."
-    publishedDateTime: 2021-05-23T22:53:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5223698001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5223698001"
+  - title: "Washington Post: Trump Justice Department got reporters’ phone records"
+    excerpt: "The Washington Post reported on Friday that the Department of Justice under former President Donald Trump secretly obtained phone records from some of the newspaper's reporters. The Post reported that the DOJ sent letters dated May 3 to Post reporters Ellen Nakashima and Greg Miller,"
+    publishedDateTime: 2021-05-07T23:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/07/washington-post-trump-doj-got-reporters-phone-records/4997276001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4997276001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4997276001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 131
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/03/24/USATODAY/usatsports/justice-department-getty-fool-1.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump leaves GOP paralyzed, in Congress and up and down ballots: ANALYSIS"
-    excerpt: "Former President Donald Trump may have left office in disgrace, but the four months since then have seen his influence grow."
-    publishedDateTime: 2021-05-20T19:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
+  - title: "Rightwingers tried to discredit Trump ‘foes’ with honey trap plot – report"
+    excerpt: "Efforts included ‘planned sting operation’ targeting HR McMaster and fake dating app profiles to attract FBI, says New York Times"
+    publishedDateTime: 2021-05-14T15:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/14/trump-rightwing-activists-plot-hr-mcmaster-fbi"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/14/trump-rightwing-activists-plot-hr-mcmaster-fbi"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/14/trump-rightwing-activists-plot-hr-mcmaster-fbi"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
     images:
-      - url: "https://s.abcnews.com/images/Politics/mccarthy-stefanik-ap-ps-210520_1621535991742_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/7a943b4fe245e30044c7bfeb933f67199417b577/0_384_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e47269d2856f59946d84a4c0b2f34d9b"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
-    excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
-    publishedDateTime: 2021-05-20T19:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+  - title: "CNN says Trump Justice Department secretly obtained reporter’s phone records"
+    excerpt: "The revelation comes two weeks after The Washington Post disclosed that the Justice Department had last year seized phone records belonging to three current and former journalists."
+    publishedDateTime: 2021-05-21T02:06:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 122
     images:
-      - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
-        width: 700
-        height: 525
+      - url: "https://www.chicagotribune.com/resizer/sB5cQgbvIQZhpKMxyt-M95yTIwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NRXIDCVBOSJ4I3MD7H43RSYGNU.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "QAnon Shaman's Lawyer Gives Bold Response About Capitol Rioters And Donald Trump's Role"
-    excerpt: "Trump may not be facing trial, but that hasn't stopped Capitol rioters from trying to make him part of their defense."
-    publishedDateTime: 2021-05-18T22:08:00Z
-    webUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112"
-    ampWebUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
+  - title: "Washington Post says Trump Justice Department secretly seized reporters’ phone records"
+    excerpt: "The Trump Justice Department secretly seized the phone records of three Washington Post reporters who covered the federal investigation into ties between Russia and Donald Trump’s 2016 presidential campaign,"
+    publishedDateTime: 2021-05-08T00:29:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-washington-post-phone-records-20210508-nx54jogftnd4bjaibcvm5vej7e-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-washington-post-phone-records-20210508-nx54jogftnd4bjaibcvm5vej7e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-washington-post-phone-records-20210508-nx54jogftnd4bjaibcvm5vej7e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 117
+    images:
+      - url: "https://www.chicagotribune.com/resizer/sB5cQgbvIQZhpKMxyt-M95yTIwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NRXIDCVBOSJ4I3MD7H43RSYGNU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Justice Department secretly obtained reporters’ phone records, Washington Post says"
+    excerpt: "The Trump Justice Department secretly seized phone records of three Washington Post reporters who covered the probe into ties between Russia and Trump's 2016 presidential campaign."
+    publishedDateTime: 2021-05-08T07:46:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 116
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5b8cc32/2147483647/strip/true/crop/5015x3322+0+0/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F24%2F59%2F6c94dad74b23a340cffe0a4009c2%2Fcongress-equality-act-15761.jpg"
+        width: 320
+        height: 212
+        isCached: true
+  - title: "Search warrant for Rudy Giuliani’s records resolved a Justice Department dispute leftover from the Trump administration"
+    excerpt: "The question of whether to serve a search warrant for Rudy Giuliani's records simmered inside the Justice Department in the waning months of the Trump administration, dividing officials in New York and Washington and remaining unresolved for a new leadership team to sort out."
+    publishedDateTime: 2021-05-01T17:59:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/c-Ale6YBxYo5LkKH0F3piP2Xdj4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4ULNT3YHFH66AEJUZPITPRDTPQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Justice Department Seized Reporters’ Phone Records In ‘Authoritarian’ Move"
+    excerpt: "Three Washington Post reporters became the subject of an investigation by Donald Trump’s Justice Department after reporting on his administration’s alleged ties with Russia during the 2016 election."
+    publishedDateTime: 2021-05-08T15:41:00Z
+    webUrl: "https://www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392"
+    ampWebUrl: "https://www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 67
+    quality: 70
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "New York State Mounts Criminal Probe of Trump Organization Finances"
-    excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
-    publishedDateTime: 2021-05-19T07:02:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-19/new-york-state-mounts-criminal-probe-of-trump-organization-finances"
+  - title: "Trump Administration Obtained Phone Records Of Journalists: Washington Post"
+    excerpt: "The Trump administration secretly obtained the phone records of Washington Post journalists who reported on allegations of Russian meddling in the 2016 election, the newspaper reported Friday, prompting concerns over freedom of speech."
+    publishedDateTime: 2021-05-08T03:12:00Z
+    webUrl: "https://www.ibtimes.com/trump-administration-obtained-phone-records-journalists-washington-post-3195258"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 53
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
+    excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
+    publishedDateTime: 2021-04-30T12:06:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 35
-  - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
-    excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
-    publishedDateTime: 2021-05-22T11:00:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/22/donald-trump-criminal-investigation-makes-his-political-future-murky/5166416001/"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 26
+    quality: 52
 
 secured: "SOnV3LBdb4anr+MVLr9gf760VBZ3rqRiXYBr+QZDdwMwRmdWgomFee3f/xQQ71pdNxmVClGWa28lsf0l9nUo+iJ9y0Ct8RWPy5Iuy0V7eF2hY+kgEIBpGW3arudjpbKJDfvIhPtJteTgjWLJsFVrjD2pfjRYxiW3CrPc/6rwaIqsV25GS6XTlYTY5d/i3ZZdnt66AScdGJIl6r8YYmMhtJLc/wY63DsOP4jMr4pagx2dnNShlSleBXGb88nthCNnVwxcvpYUMQuCrcNdkb1VXISZpwzZePHBU/Qp6+qmJrnMurQmEYGWJTGIdRVxnslGY5WF+Xe8wNj2EXhr5pnpFx9UV18u0uQ0BpQVs1MHd5I=;hBmVbStjuimeLPJf97fOWw=="
 ---
