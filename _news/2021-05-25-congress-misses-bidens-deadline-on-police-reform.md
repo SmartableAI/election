@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Biden is going to Michigan to tout electric trucks. Violence in Middle East may overshadow the trip"
-excerpt: "President Joe Biden's Tuesday visit to Michigan to promote his economic agenda has been on the White House's calendar for weeks, but a carefully planned trip now risks being overshadowed by the recent eruption of violence in the Middle East between Hamas and Israel.\n    \n"
-publishedDateTime: 2021-05-18T13:38:06Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U1593o_Fm1g/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U1593o_Fm1g/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/biden-dearborn-michigan-israel-gaza/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/biden-dearborn-michigan-israel-gaza/index.html"
+title: "Congress misses Biden's deadline on police reform"
+excerpt: "President Joe Biden called on Congress to pass a sweeping police reform bill by today, the anniversary of George Floyd’s murder. That’s not going to happen. “I would be shocked if anything happened as soon as tomorrow."
+publishedDateTime: 2021-05-25T11:17:00Z
+originalUrl: "https://www.politico.com/newsletters/huddle/2021/05/25/congress-misses-bidens-deadline-on-police-reform-492994"
+webUrl: "https://www.politico.com/newsletters/huddle/2021/05/25/congress-misses-bidens-deadline-on-police-reform-492994"
 type: article
-quality: 161
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517232716-01-joe-biden-0516-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+    width: 1120
+    height: 629
     isCached: true
 
 related:
@@ -108,6 +107,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512170722-02-joe-biden-0512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden is going to Michigan to tout electric trucks. Violence in Middle East may overshadow the trip"
+    excerpt: "President Joe Biden's Tuesday visit to Michigan to promote his economic agenda has been on the White House's calendar for weeks, but a carefully planned trip now risks being overshadowed by the recent eruption of violence in the Middle East between Hamas and Israel.\n    \n"
+    publishedDateTime: 2021-05-18T13:38:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U1593o_Fm1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/biden-dearborn-michigan-israel-gaza/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/biden-dearborn-michigan-israel-gaza/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517232716-01-joe-biden-0516-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -221,20 +236,6 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Congress misses Biden's deadline on police reform"
-    excerpt: "President Joe Biden called on Congress to pass a sweeping police reform bill by today, the anniversary of George Floyd’s murder. That’s not going to happen. “I would be shocked if anything happened as soon as tomorrow."
-    publishedDateTime: 2021-05-25T11:17:00Z
-    webUrl: "https://www.politico.com/newsletters/huddle/2021/05/25/congress-misses-bidens-deadline-on-police-reform-492994"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
   - title: "Biden dramatically scales up the pressure on Netanyahu as decades-long relationship faces its most consequential moment"
     excerpt: "President Joe Biden on Wednesday dramatically escalated his public pressure on Israeli Prime Minister Benjamin Netanyahu to end the fighting with Hamas that has stretched into a 10th day, as their decades-long relationship faces a stern test."
     publishedDateTime: 2021-05-19T13:46:00Z
@@ -252,6 +253,6 @@ related:
         height: 619
         isCached: true
 
-secured: "0MgtMDsE8b5/VKtE2I7qQWp8a2FYN3K75RmrOUAgftkYkqE+GsILuiVuH9sqyBxDhl8tjFrHhnBiKoNjL/auT0gCiw3Xcpwj/hCtxxxpGyW4pp8VGffLw6/of7Q1lMNfjANxLRFRrvqOrjN2QDYdNCMAmCZwLc1YDo/O7P5ozWiQ+UQ3VU6RnC+90pcGmCAlLMzDGgyRVAygycXiVUnTJOrk+jJqKIWiOnu841CyfenG/uaqfn72axIW1usHhaorcBGVEJCnMNymv1WIPyXcKhIcxFHjI9E3SpQ+5coVD20f+ZR2OydxSgsQeIVUBpNBwo9az0gSCxlcMSI6CIy3iaVjY3C+LdW13QWLNMLdQpE=;huEMaVHjMSKYLbMJ5f31zA=="
+secured: "iVD1UWzyI0U7YTe0pqRYqBsPwxpG+J/6xM7ElIGKUOVld7A8NxLrYhAQt106b8kSodbgR5wxb6bJm1i+qEYPSlwKJysZNzeIOaEvCifkEMkMlP3YYdI9HiNm3SJOcmivT74LexoGYhWYrNRYm9LyvvNSGw0F/7S6SmxFbRcgOv8jLQxWkQW8XJ4yY9BRFyJL3VrBXzNpFJxHUHFyJMtiKxj9QOgOEHW96bQ6qllyGQXYvmcUpogzuKQl265vjVVifnkpiLDv05orLoXktGHKNxkzKMwHoEM8tR8JuiXCi+dIUlNc/FstogJx3xvwH94ak7PKbr6hgXbcAg7J7oxEVdvDzCUMDD9qECOpbSrJzb4=;AyYpau8g/G8gpS/9eOIdcQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-proposes-putin-summit-russia.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -202,6 +202,22 @@ related:
       - url: "https://assets.realclear.com/images/54/541397_5_.jpg"
         width: 750
         height: 489
+        isCached: true
+  - title: "Merkel Flips Off Biden's Protest -- to Buy Putin's Gas"
+    excerpt: "When the U.S. created NATO, a primary purpose of the alliance was to serve as a western wall to defend Germany against the 400,000 Russian troops on"
+    publishedDateTime: 2021-05-25T11:37:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/544123_5_.jpg"
+        width: 750
+        height: 566
         isCached: true
   - title: "Joe Biden Concedes Border Refugee Issues Are A \"Crisis\""
     excerpt: "We’re going to increase the number [of refugees allowed into the country]. The problem was that the refugee part was working on the crisis that ended up on the border with young people. We couldn’t do two things at once,"

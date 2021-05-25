@@ -222,6 +222,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Congress misses Biden's deadline on police reform"
+    excerpt: "President Joe Biden called on Congress to pass a sweeping police reform bill by today, the anniversary of George Floyd’s murder. That’s not going to happen. “I would be shocked if anything happened as soon as tomorrow."
+    publishedDateTime: 2021-05-25T11:17:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/05/25/congress-misses-bidens-deadline-on-police-reform-492994"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Biden dramatically scales up the pressure on Netanyahu as decades-long relationship faces its most consequential moment"
     excerpt: "President Joe Biden on Wednesday dramatically escalated his public pressure on Israeli Prime Minister Benjamin Netanyahu to end the fighting with Hamas that has stretched into a 10th day, as their decades-long relationship faces a stern test."
     publishedDateTime: 2021-05-19T13:46:00Z

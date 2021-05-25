@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -218,6 +218,20 @@ related:
     quality: 115
     images:
       - url: "https://politico.com/interactives/2021/state-hate-crime-laws/media/share.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Congress misses Biden's deadline on police reform"
+    excerpt: "President Joe Biden called on Congress to pass a sweeping police reform bill by today, the anniversary of George Floyd’s murder. That’s not going to happen. “I would be shocked if anything happened as soon as tomorrow."
+    publishedDateTime: 2021-05-25T11:17:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/05/25/congress-misses-bidens-deadline-on-police-reform-492994"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
         isCached: true

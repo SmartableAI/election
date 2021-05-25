@@ -1,31 +1,30 @@
 ---
 category: news
-title: "GOP senators want FBI to probe if Biden Pentagon nominee disclosed classified info after leaving Obama admin"
-excerpt: "A group of Republican senators Tuesday asked FBI Director Christopher Wray to investigate one of President Biden's Pentagon nominees over whether he allegedly disclosed classified information on social media after leaving the Obama administration. "
-publishedDateTime: 2021-04-13T12:53:40Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4YURWImzt0k/gop-senators-fbi-probe-biden-pentagon-nominee-classified-info"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4YURWImzt0k/gop-senators-fbi-probe-biden-pentagon-nominee-classified-info"
+title: "Merkel Flips Off Biden's Protest -- to Buy Putin's Gas"
+excerpt: "When the U.S. created NATO, a primary purpose of the alliance was to serve as a western wall to defend Germany against the 400,000 Russian troops on"
+publishedDateTime: 2021-05-25T11:37:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.amp.html"
 type: article
-quality: 136
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Colin-Kahl-GETTY.jpg"
-    width: 1280
-    height: 720
+  - url: "https://assets.realclear.com/images/54/544123_5_.jpg"
+    width: 750
+    height: 566
     isCached: true
 
 related:
@@ -171,6 +170,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP senators want FBI to probe if Biden Pentagon nominee disclosed classified info after leaving Obama admin"
+    excerpt: "A group of Republican senators Tuesday asked FBI Director Christopher Wray to investigate one of President Biden's Pentagon nominees over whether he allegedly disclosed classified information on social media after leaving the Obama administration. "
+    publishedDateTime: 2021-04-13T12:53:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4YURWImzt0k/gop-senators-fbi-probe-biden-pentagon-nominee-classified-info"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 136
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Colin-Kahl-GETTY.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden, family attend confirmation of grandson in Delaware"
     excerpt: "President Biden and first lady Jill Biden on Sunday attended the confirmation of their 14-year-old grandson Robert Hunter Biden II — the son of the late Beau Biden. The service took place at"
     publishedDateTime: 2021-04-18T20:46:00Z
@@ -203,22 +216,6 @@ related:
         width: 750
         height: 489
         isCached: true
-  - title: "Merkel Flips Off Biden's Protest -- to Buy Putin's Gas"
-    excerpt: "When the U.S. created NATO, a primary purpose of the alliance was to serve as a western wall to defend Germany against the 400,000 Russian troops on"
-    publishedDateTime: 2021-05-25T11:37:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/544123_5_.jpg"
-        width: 750
-        height: 566
-        isCached: true
   - title: "Joe Biden Concedes Border Refugee Issues Are A \"Crisis\""
     excerpt: "We’re going to increase the number [of refugees allowed into the country]. The problem was that the refugee part was working on the crisis that ended up on the border with young people. We couldn’t do two things at once,"
     publishedDateTime: 2021-04-18T13:35:00Z
@@ -243,6 +240,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "Iu0YtRCq3HWREcjXK3yVdp5E+rP3FsvUOKWiNh73oq7PraBrACjrRk/s3kbdxX2a1q+qzL0Z20hn0AHBZZ29DC3T/wpkU2nuDj02iSBvBJTz7HR9+mtNAsSpFCC2q8OzwtPW3YnLWp7Ivy7fHuuMiSWDVsvy7k7R9KiSOQHqH5J2YjfR5MjGr0J7Bd10hQIKzuu5MHrSLBQWwmZqyGwLOcfEMvAik3km72aFK2xaqfomwyjHX575hrrMkHUQxnHTQ+SkrNqkh7qgUx5s3jjh0micpDsSJAJr2Cd+cYS/baf3Bkuj9VLXhMFnk0l/621JyRsnia8pLjaIBW3B7iSN4m4l964f1uD5+Kr04AifI5g=;uNB33l9TJWn5QgT6MBskvQ=="
+secured: "YdecL/7wM2styQImUIgAphZH+mD1n6XS+bikVztbA0vmKlrljsF27U0tXQu016CHmcNe8w1h83f93ApqTVNCPn8PzDcOKdlgaFcJ5KlUawRK2i1HDM10j4bgAEIpKibAFNovrCxQaCopJDyumbFj8L12+vts3cjakW1+VoHb2WzsmubKUDKKt34hjbfS5mmPYzGC1jOsiuLYtwnpeZFD6u5dXfG9kseyRMNxgacXWwYzJvlrei+08XihbMAgc1lV30E4OYrmL/O4HEeNixJfjdW6oEaOE61eesNLhWGnrlIK7AEesS6QSiJWVvsGtv88dtXFwLQTpHvP9p3HabbutDx5tQlqaZsgls6zEx7qVi8=;C+Zc5luk6EGyUB1MCY8Iuw=="
 ---
 

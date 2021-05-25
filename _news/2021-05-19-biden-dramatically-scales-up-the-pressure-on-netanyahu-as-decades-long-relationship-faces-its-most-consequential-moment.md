@@ -238,6 +238,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Congress misses Biden's deadline on police reform"
+    excerpt: "President Joe Biden called on Congress to pass a sweeping police reform bill by today, the anniversary of George Floyd’s murder. That’s not going to happen. “I would be shocked if anything happened as soon as tomorrow."
+    publishedDateTime: 2021-05-25T11:17:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/05/25/congress-misses-bidens-deadline-on-police-reform-492994"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "ku8+jNOVB02brkR1QcDFeeXoF6dqrv3EXmN2Fa8xww3/9HAhUtdT7/UQml9asHFYziDb50hLy60U8z2G/L6wa624KI7Sh5TSfCWYzN0yG/iUqnNZHYPHV1MJbtamHBxwfHFC44QNS2jtOPxG2zPua5A8FMj9kfPUeOuznZ8OF7HPA55Aji3Y3OrKVzGAz8L2xTkcivBu6py93ya5z9eq0oa/3IGSMhwZCfHpk3rLm9Fj5PF0AXv7JVfG4W8dV/5lq8IjmVUw5CvmfFP4p89q4LjNl3QrLthg5jC+6k04/tTx9JPeCozEXNhvImoJuRjvsxjhaejoZDMCkj8Y22ijwlsHYuYIi1ch7Wi0dXYCBkXMebxwxp4IhGllmzgSe6JTxf9CYJqZVOV8ocDiYXYOFQ4O13RuSJBSg7f3XMlgm6vqnig9IqMvAVlTgYhfev/lBZx49oVhOjk9vYOkQ3a9lTIHAdIpAFbUMoER/aOEcOXiAttHn5otff7DJIy14e5OFwdiGVR8eQexYnso811HIQ==;o0W5Yve3BSd9gdNI7NKVWQ=="
 ---
