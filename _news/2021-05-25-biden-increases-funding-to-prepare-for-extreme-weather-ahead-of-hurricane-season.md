@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Live Updates: Biden to Meet With South Korea’s President"
-excerpt: "President Moon Jae-in of South Korea has said that one goal for his meeting with President Biden is bringing North Korea “back on the path of dialogue.” A Biden administration official says the United States will be at the forefront of efforts to help rebuild Gaza."
-publishedDateTime: 2021-05-21T12:19:00Z
-originalUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today"
-webUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today"
-ampWebUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
+title: "Biden increases funding to prepare for extreme weather ahead of hurricane season"
+excerpt: "Biden also announced a new climate data system by NASA to help understand and track the effects of climate change."
+publishedDateTime: 2021-05-24T21:45:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/biden-increases-funding-prepare-extreme-weather-events-ahead-hurricane-season-n1268337"
+webUrl: "https://www.nbcnews.com/politics/white-house/biden-increases-funding-prepare-extreme-weather-events-ahead-hurricane-season-n1268337"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268337"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268337"
 type: article
-quality: 135
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/05/21/us/21new-washington-briefing-promo3/21new-washington-briefing-promo3-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://media1.s-nbcnews.com/i/newscms/2021_21/3477214/210524-hurricane-delta-jm-1156_90f03001c6f54a9e881d62f1e80cfb69.jpg"
+    width: 2500
+    height: 1584
     isCached: true
 
 related:
@@ -160,6 +160,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Live Updates: Biden to Meet With South Korea’s President"
+    excerpt: "President Moon Jae-in of South Korea has said that one goal for his meeting with President Biden is bringing North Korea “back on the path of dialogue.” A Biden administration official says the United States will be at the forefront of efforts to help rebuild Gaza."
+    publishedDateTime: 2021-05-21T12:19:00Z
+    webUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/21/us/21new-washington-briefing-promo3/21new-washington-briefing-promo3-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden Meets With South Korea’s President"
     excerpt: "President Moon Jae-in of South Korea has said that one goal for his meeting with President Biden is bringing North Korea “back on the path of dialogue.” A Biden administration official says the United States will be at the forefront of efforts to help rebuild Gaza."
     publishedDateTime: 2021-05-22T09:37:00Z
@@ -175,22 +191,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/21/us/21new-washington-briefing-korea-lede2/21new-washington-briefing-korea-lede2-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden increases funding to prepare for extreme weather ahead of hurricane season"
-    excerpt: "Biden also announced a new climate data system by NASA to help understand and track the effects of climate change."
-    publishedDateTime: 2021-05-24T21:45:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-increases-funding-prepare-extreme-weather-events-ahead-hurricane-season-n1268337"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268337"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268337"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_21/3477214/210524-hurricane-delta-jm-1156_90f03001c6f54a9e881d62f1e80cfb69.jpg"
-        width: 2500
-        height: 1584
         isCached: true
   - title: "Biden signed a new hate crimes law — but there's a big flaw"
     excerpt: "Despite current incentives, many big police departments don’t report whether a crime was motivated by bias to federal authorities. And state governments often disagree on what a hate crime even is. In 2020 — the most recent year data was available — nearly a quarter of big cities didn’t report a single hate crime,"
@@ -223,6 +223,6 @@ related:
         height: 619
         isCached: true
 
-secured: "a5gbdKnm9OAYlP3myVGVN9H/409e21QwZ2uTTnRWoQ3D2YyZRST0huirSH/d60pf7hIGWG1zR+yoVoHMNDN8UoznWNpPHbwIbASlpq+uhmnmYClpXPaNRfoYV9SmE5xIyeHvzw/T7kTM9yC0FDRK3bXC73zLG/z7nJ8aycdKxOm64JfNvgODIIsb7gCgU8Mn75a8p0y/EKaSDaC6KfptC5RTQZv7JpDl8kv1yhtgJrKv+R3Qbald0/Etlsck6UNpGIe55SfXlpzBj29QFixNeEu4wHvTRGPkakr6IYceNm4cQZ1qRxRASJ9DL0d7HptcHU4Ptpe/squUPMoEbZM3Fp312E4tFH320h4wEXypG0z5zqSklEwBWXMXhPudWsJyFvqjpXHusrqWvbn9hPOU+0g/0EducqXZdDKD4TW8uttkRzxdPTOd6/632VXfFB0pyTELW9RqWlNNQbO77RX162uvVr5+j88k+Gbk3yeAKcqMdj8RZ/N+vXeZxiWE2gUgyI/Tgfa+OUyk4znqRRV9wA==;HxU2hPA4QIxkIMyRbgBq6w=="
+secured: "yE879ivvYJq8rP9wG+yyjd27D0uhJhThGt6IMQr89JPZwjZ28pQCFCBoBGCariqGD/g05C3NWc5y0KIv89nDic4ZIF4eWzrAhbXpB7xSLoh6BGjAY7FnDH4Gd4lVwZ3wLNxR4clvmpP71MljrBehpg30oZYCnRWH6ODj6tUanASD7Mp6r4WMZL/l+y2N1gEh4JRM7N+jCQ6PKj+nnMFlMShk1wR3FiCzzIUvR8u4WLNSu0GRsQNh0zepSAuHaQIJ7GAnSqAsoxnC10p95Z4/N/oVvzDaqer/YX0AS5WLCCWM3Y2FsNUIZJ0ymPssfqi4nQ6y0swgNK+3NB7cc7/NjvZwhinKxSmV0l1U8E9eCV4=;EL+JHddfVBOHcFLxGYb3Eg=="
 ---
 

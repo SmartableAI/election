@@ -175,6 +175,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden increases funding to prepare for extreme weather ahead of hurricane season"
+    excerpt: "Biden also announced a new climate data system by NASA to help understand and track the effects of climate change."
+    publishedDateTime: 2021-05-24T21:45:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-increases-funding-prepare-extreme-weather-events-ahead-hurricane-season-n1268337"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268337"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268337"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_21/3477214/210524-hurricane-delta-jm-1156_90f03001c6f54a9e881d62f1e80cfb69.jpg"
+        width: 2500
+        height: 1584
+        isCached: true
   - title: "Biden signed a new hate crimes law — but there's a big flaw"
     excerpt: "Despite current incentives, many big police departments don’t report whether a crime was motivated by bias to federal authorities. And state governments often disagree on what a hate crime even is. In 2020 — the most recent year data was available — nearly a quarter of big cities didn’t report a single hate crime,"
     publishedDateTime: 2021-05-20T19:43:00Z

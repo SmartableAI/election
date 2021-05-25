@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-25-chris-christie-slams-biden-for-allowing-canada-covid-double-standard.md",
+      "title": "Chris Christie slams Biden for allowing Canada COVID 'double standard'",
+      "excerpt": "Christie blasted the president in a tweet posted Monday, saying more “weakness” was coming from the Biden administration’s foreign policy and vaccine messaging with Canada.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BP0rFIqgGAA/biden-us-canada-border-restrictions-vaccines-christie-criticizes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BP0rFIqgGAA/biden-us-canada-border-restrictions-vaccines-christie-criticizes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08fbe276-a23f-4272-8fe8-d0305ba39364/0b6ee7ea-6ee6-455f-8f52-2c89cebab5ce/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-us-canada-border-restrictions-vaccines-christie-criticizes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-canada-border-restrictions-vaccines-christie-criticizes.amp",
+      "publishedDateTime": "2021-05-24T17:05:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-most-republicans-still-believe-2020-election-was-stolen-from-trump-poll.md",
       "title": "Most Republicans still believe 2020 election was stolen from Trump – poll",
       "excerpt": "May opinion poll finds that 53% of Republicans believe Trump is the ‘true president’ compared with 3% of Democrats",
@@ -339,7 +395,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 417,
+      "heat": 437,
       "tags": null,
       "images": [
         {
@@ -1315,49 +1371,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-exclusive-no-place-like-home-karen-pence-says-of-their-move-back-to-indiana.md",
-      "title": "Exclusive: `No place like home' Karen Pence says of their move back to Indiana",
-      "excerpt": "There’s no place like home and Indiana is home,” Karen Pence said in a statement provided exclusively to USA TODAY. The Pences were not made available for an interview. In her statement, Karen Pence said the longtime Indy500 fans are especially excited to have made the move before race weekend,",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/politics/2021/05/22/former-vice-president-mike-pence-and-his-wife-karen-move-back-indiana/5207465001/",
-      "originalUrl": "https://www.indystar.com/story/news/politics/2021/05/22/former-vice-president-mike-pence-and-his-wife-karen-move-back-indiana/5207465001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/a22e047d-ea38-4ef7-bc6c-517385f517f8-01202021_Pence_GH_001.jpg?auto=webp&crop=2356,1326,x0,y200&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/5207465001",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5207465001",
-      "publishedDateTime": "2021-05-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

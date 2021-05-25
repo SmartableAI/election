@@ -3,8 +3,8 @@ category: news
 title: "Biden says Blinken will visit Middle East as Gaza ceasefire holds – US politics live"
 excerpt: "Biden says US secretary of state to travel to Middle East this week – follow all the day’s politics news"
 publishedDateTime: 2021-05-24T13:34:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden?page=with:block-60abad758f08d486a7711899"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden?page=with:block-60abad758f08d486a7711899"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden?page=with:block-60abb82f8f086d71cc1593e8"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden?page=with:block-60abb82f8f086d71cc1593e8"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/24/us-politics-live-middle-east-gaza-blinken-biden"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/d83ab5583e7366211796f81c85487305c6a8f62a/0_192_2500_1499/master/2500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c25abf00a1d11571dc5869ac610a5b09"
+  - url: "https://i.guim.co.uk/img/media/987aa2dd586956138fdf9321c10aaed4bcf0d25d/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dab54086ea880dcd63e5b7a920da266f"
     width: 600
     height: 360
     isCached: true
@@ -259,6 +259,6 @@ related:
         height: 433
         isCached: true
 
-secured: "M6aN/eJK0LD0g+LBpWzQ3m/ZCCL8RDTKY7m3tzRci1YNakuMIAUtxfvn62Q05uoBd8GPcV2cbGbk8MMbkCkX2UyegioeSLStdHeFiOi5IIYP+zILArBKx02ZwTNP+CfAWxQkZKmk2btjcr4fWXQlm9OiZ+yH/qJ0YqaQQSRYnGTH10W1QzbFfor8sNWmExNiCiNAW8Qx/bYehb3OUzC6TzmnUGVBCzqlKPGe/Wmx7htOkQozTzP0E3JWHxxUdnsKx8DcgMFAAYJU5xyPLIKrMgMjtwUQ8u+rMy1nXl1Y8Ts3CzajEplsrdmddrsJ2dpbNJ6vdLRuDIiQtUjSkuor2YmgKyXfxvf5o6tpmKcGUVpRhg9dZlLx68nUD4DkDeEyLJbt9jBgAeSSALEuuR0dy4j7BgohLObyXU2OEO5mCkpSw0lCfvKd+Npxt085Mnvg9dNi0LEF39jI03hn/sCbphBdbhj/iBvnjhHZEjw8GgHDv3/pPvo9AnYxVrCojloRj68xm2cD8K9G8kqiBCGizQ==;yDQderkLqiBlcGL+IhDgbQ=="
+secured: "pRvD3ZJjRMe2/lDf6zxqLfua786bcFLWTO/EEFWHE6LGc1085CqdaJlyYYhWB7pu5j08aTVdPmApNGbOOU1/diLun+0VuN1uLp0o6qxKVun9KfBCgQ/EERR851kS77fFlWxHALbLd+cDHbxMZgKZAjYHClBTYZTw7XVirSxLPoHMrH/4sP6rqOQtKgAz9zRYpIWiec74MYjdFNS2t9DnTLmALUkAuyqsU/zZAU9e5o2CmZBgRow9jxa1z81kl/biGIxU6K7hJ5Mpc8CP0RcDQaBaGHBxfmwi2lqUjje7SxgiUx+HTcKN2k+IwyIA66aeRceq6z0a9ChHBaagHlpEuiGqLLfHEIB84DthqZ6L8BU=;6WemSjJsN6k720ht4rqG6Q=="
 ---
 

@@ -1,32 +1,33 @@
 ---
 category: news
-title: "Biden's coming court conundrum"
-excerpt: "President JOE BIDEN’s Supreme Court commission is set to meet for the first time on Wednesday, starting a clock that will require it to produce a report on reforming the court by Nov. 15. Some of the most ardent advocates of expanding the nation’s highest court couldn’t be less excited."
-publishedDateTime: 2021-05-17T23:03:00Z
-originalUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/17/bidens-coming-court-conundrum-492880"
-webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/17/bidens-coming-court-conundrum-492880"
+title: "Biden condemns arrest of detained Belarusian dissident journalist"
+excerpt: "President Joe Biden on Monday lambasted Belarus' sudden grounding of a commercial flight and subsequent arrest of onboard dissident journalist Roman Pratasevich as \"a direct affront to international norms.\"\n    \n"
+publishedDateTime: 2021-05-25T01:35:32Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o-x7L6K3DeA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o-x7L6K3DeA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-arrest-belarus-journalist/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-arrest-belarus-journalist/index.html"
 type: article
-quality: 115
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-    width: 1120
-    height: 629
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -126,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden condemns arrest of detained Belarusian dissident journalist"
-    excerpt: "President Joe Biden on Monday lambasted Belarus' sudden grounding of a commercial flight and subsequent arrest of onboard dissident journalist Roman Pratasevich as \"a direct affront to international norms.\"\n    \n"
-    publishedDateTime: 2021-05-25T01:35:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o-x7L6K3DeA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-arrest-belarus-journalist/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-arrest-belarus-journalist/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "White House lays the groundwork for high-profile Kamala Harris visit to Mexico and Guatemala "
     excerpt: "The White House is laying down the groundwork ahead of Vice President Kamala Harris' first trip abroad as the lead on diplomatic efforts in Central America, hoping to finalize its strategy to take on the root causes of migration before she lands, multiple sources told CNN.\n    \n"
     publishedDateTime: 2021-05-19T15:02:27Z
@@ -206,6 +191,20 @@ related:
         width: 1200
         height: 764
         isCached: true
+  - title: "Biden's coming court conundrum"
+    excerpt: "President JOE BIDEN’s Supreme Court commission is set to meet for the first time on Wednesday, starting a clock that will require it to produce a report on reforming the court by Nov. 15. Some of the most ardent advocates of expanding the nation’s highest court couldn’t be less excited."
+    publishedDateTime: 2021-05-17T23:03:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/17/bidens-coming-court-conundrum-492880"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Harris, White House betting on Guatemala to help stem migrant influx"
     excerpt: "The Biden administration is most optimistic about working with Guatemala because it’s willing to talk about the tough issues. And it’s not Honduras or El Salvador."
     publishedDateTime: 2021-05-23T10:55:00Z
@@ -221,6 +220,6 @@ related:
         height: 773
         isCached: true
 
-secured: "8yBVU9mNIZ1Ow7xls/3TKQofE4HYUX/doOWF8r7QK4fD0ZeC9TNlPFUtVXYYOJtoI2ud6Y/iaWjAFjRAR8wtpuMrWXqC03Npg9Af6FSXr8PVPRldXMU8j9OeYBCfo+WZ6An+Lj8/NnKgpbG1RQJ423F2th6Imr+j4CFETy11Gb7Pr6g/GzzQEz4wSv1ZGQIkwZtj8w7sFvIJG5HbS028oiByawuGDhWOFpfiR486MJvvIBk68KkgfwXACW9LKlVDkULaeKNY14Lsg8jP1+1nnNbPFdObRws1W/W2tFQiElPLQBbolqEyc6hZR5FhaC3Bk9B5qf5YIOQIeCT1LXdiDfuvw0KXvj1mmGkzhRNCJi0=;GPeu8ZFbD6tvz0a0jU4bHQ=="
+secured: "AgYKvGbBpVlS0jbMv0HLSBq1oCVVeyq3jk18Zok57hxzsVuSwZXAbFAN9JQJxwvcmk+AqGHE6JXmaMXl7/BmtvGZzUzJn/v1JZDs433NjWCQqasBdPasA0k6abxG/lH0Xdnkjw5ojm0K67gZmfjVI3gDZlXx2UDgmuos9U9v8qCE7E767NwvHNr41vl61Npj1DOhOsbdIAG9Q166+ddqjE1Dl1NViutw90kXZJ2uMHfjRWk/RxfEhdBu/yMYhI2KUIV0lOrC7xPGuBPPBm9CE/liU5ZOkbN7OGQvRD73EjFLFnb0MSimQdDfIZWVqrEkfnYuzVxkeFGUdiBRwIcSvFLTjCmxtSXfwihxhl9tZBo=;8Voa0bD/45By5oyIKP0SdA=="
 ---
 

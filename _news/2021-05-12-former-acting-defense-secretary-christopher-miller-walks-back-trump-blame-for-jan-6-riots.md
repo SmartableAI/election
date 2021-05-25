@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/former-acting-defense-sec-christoph
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp"
 type: article
 quality: 165
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chris Christie says Trump not a factor in potential 2024 presidential run"
-    excerpt: "Former New Jersey Gov. Chris Christie revealed he will not be deferring to former President Donald Trump in his consideration of whether to run for president in 2024."
-    publishedDateTime: 2021-05-19T16:21:00Z
-    webUrl: "https://nypost.com/2021/05/19/christie-says-trump-not-a-factor-in-potential-2024-presidential-run/"
-    ampWebUrl: "https://nypost.com/2021/05/19/christie-says-trump-not-a-factor-in-potential-2024-presidential-run/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/christie-says-trump-not-a-factor-in-potential-2024-presidential-run/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/haley-christie-trump2024-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Chris Wallace presses Liz Cheney on Trump supporters: 'Why alienate them?'"
     excerpt: "Rep. Liz Cheney, ousted this week as the third-ranking House Republican, defended her outspoken criticism of former President Donald Trump during an interview on \"Fox News Sunday,\" and said that the 74 million Americans who voted for him were \"misled\" and \"betrayed."
     publishedDateTime: 2021-05-16T16:43:00Z

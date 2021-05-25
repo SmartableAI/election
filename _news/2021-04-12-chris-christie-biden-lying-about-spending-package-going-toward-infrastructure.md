@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/chris-christie-biden-lying-about-sp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp"
 type: article
 quality: 169
-heat: -1
-published: false
+heat: 189
+published: true
 
 provider:
   name: Fox News
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chris Christie turns into Biden attack dog in early days of administration"
-    excerpt: "Chris Christie appears to be turning up the volume in his criticism of President Biden. For the second straight weekend, the former two-term GOP governor of New Jersey and 2016 Republican presidential candidate turned political analyst and pundit on the Sunday talk shows has accused the president of"
-    publishedDateTime: 2021-04-12T17:34:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7ogpEPwHUQ/chris-christie-attack-dog-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Chris Wallace: Biden administration 'doesn't have much of an answer' to border crisis"
     excerpt: "'Fox News Sunday' host Chris Wallace joined Bill Hemmer and Dana Perino on 'America's Newsroom' on Friday to discuss the Biden administration's response to the crisis at the border"
     publishedDateTime: 2021-04-09T21:24:57Z

@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden condemns arrest of detained Belarusian dissident journalist"
+    excerpt: "President Joe Biden on Monday lambasted Belarus' sudden grounding of a commercial flight and subsequent arrest of onboard dissident journalist Roman Pratasevich as \"a direct affront to international norms.\"\n    \n"
+    publishedDateTime: 2021-05-25T01:35:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o-x7L6K3DeA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-arrest-belarus-journalist/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-arrest-belarus-journalist/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence slams Biden for 'weakness' in handling of Israel-Hamas conflict"
     excerpt: "Pence administration\" several times in the piece, using a phrase not often heard while he was in office. Former Vice President Mike Pence sharply criticized President Joe Biden in an op-ed Monday, calling the administration weak for its stance on the recent violent clashes between Israel and Palestinians."
     publishedDateTime: 2021-05-18T04:09:00Z

@@ -190,6 +190,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden increases funding to prepare for extreme weather ahead of hurricane season"
+    excerpt: "Biden also announced a new climate data system by NASA to help understand and track the effects of climate change."
+    publishedDateTime: 2021-05-24T21:45:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-increases-funding-prepare-extreme-weather-events-ahead-hurricane-season-n1268337"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268337"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268337"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_21/3477214/210524-hurricane-delta-jm-1156_90f03001c6f54a9e881d62f1e80cfb69.jpg"
+        width: 2500
+        height: 1584
+        isCached: true
   - title: "Biden dramatically scales up the pressure on Netanyahu as decades-long relationship faces its most consequential moment"
     excerpt: "President Joe Biden on Wednesday dramatically escalated his public pressure on Israeli Prime Minister Benjamin Netanyahu to end the fighting with Hamas that has stretched into a 10th day, as their decades-long relationship faces a stern test."
     publishedDateTime: 2021-05-19T13:46:00Z
