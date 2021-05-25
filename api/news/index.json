@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-26-congress-misses-bidens-police-reform-deadline-but-cory-booker-says-a-lot-of-progress-was-made-over-weekend.md",
+      "title": "Congress misses Biden's police reform deadline, but Cory Booker says \"a lot of progress was made\" over weekend",
+      "excerpt": "\"I think he did a good thing by putting a deadline out there, trying to motivate more momentum, but he understands what's important here is to get a landmark bill done,\" Booker said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/congress-biden-police-reform-deadline-cory-booker/",
+      "originalUrl": "https://www.cbsnews.com/news/congress-biden-police-reform-deadline-cory-booker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/25/8549c709-b1af-4a06-bf64-b3a5ea189108/thumbnail/1200x630/786ddc6d3000e1ec48f946dcc495ce66/0525-ctm-policereform-booker-722458-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/congress-biden-police-reform-deadline-cory-booker/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/congress-biden-police-reform-deadline-cory-booker/",
+      "publishedDateTime": "2021-05-25T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-desantis-shuts-down-reporters-suggestion-that-big-tech-bill-is-for-trump.md",
       "title": "DeSantis shuts down reporter's suggestion that Big Tech bill is 'for' Trump",
       "excerpt": "Florida Gov. Ron DeSantis, R., shot down a Miami Herald reporter on Monday who accused him of introducing his new Big Tech censorship bill that allows residents to sue Big Tech companies solely for the benefit of former President Donald Trump,",
@@ -618,7 +670,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 359,
       "tags": null,
       "images": [
         {
@@ -1315,63 +1367,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-whos-more-challenging-to-cover-trump-or-biden.md",
-      "title": "Who's more challenging to cover: Trump or Biden?",
-      "excerpt": "Edward-Isaac Dovere, author of the new book \"Battle for the Soul,\" discusses his behind-the-scenes reporting about the 2020 campaign. He also describes the differences in reporting on the former and current presidents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
-      "originalUrl": "https://www.cnn.com/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210523132900-rs-c-block-isaac-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
-      "publishedDateTime": "2021-05-23T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

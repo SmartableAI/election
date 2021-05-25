@@ -1,14 +1,14 @@
 ---
 category: news
-title: "What we know about investigations looming over Donald Trump, his company"
-excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
-publishedDateTime: 2021-05-19T20:08:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
+title: "Poll: A quarter of Americans say Donald Trump is 'true president' of the US"
+excerpt: "An online Reuters/Ipsos poll of about 2,000 Americans finds sharp partisan differences in beliefs on the legitimacy of the 2020 election and more."
+publishedDateTime: 2021-05-25T17:34:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/05/25/poll-quarter-americans-surveyed-say-trump-true-president/7426714002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/05/25/poll-quarter-americans-surveyed-say-trump-true-president/7426714002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7426714002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7426714002"
 type: article
-quality: 124
+quality: 123
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/20ff0474-6182-48fa-9e03-2c65ffaf7e9a-AP_Capitol_Breach.jpg?auto=webp&crop=5869,3301,x1,y0&format=pjpg&width=1200"
     width: 1200
     height: 675
     isCached: true
@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What we know about investigations looming over Donald Trump, his company"
+    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
+    publishedDateTime: 2021-05-19T20:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Justice Department appeals judge’s order to release Trump obstruction memo"
     excerpt: "The Biden administration will appeal a judge’s order to release a memo on whether former President Trump obstructed justice during the Russia probe."
     publishedDateTime: 2021-05-25T08:06:00Z
@@ -78,22 +94,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/bc8d845/2147483647/strip/true/crop/4500x2939+0+30/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F00%2F76%2Ff495fabdcc1b964d932368d5e6da%2F01e1c590733b491a823c07e95769dd3d"
         width: 320
         height: 209
-        isCached: true
-  - title: "Poll: A quarter of Americans say Donald Trump is 'true president' of the US"
-    excerpt: "An online Reuters/Ipsos poll of about 2,000 Americans finds sharp partisan differences in beliefs on the legitimacy of the 2020 election and more."
-    publishedDateTime: 2021-05-25T17:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/25/poll-quarter-americans-surveyed-say-trump-true-president/7426714002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7426714002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7426714002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/20ff0474-6182-48fa-9e03-2c65ffaf7e9a-AP_Capitol_Breach.jpg?auto=webp&crop=5869,3301,x1,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
     excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
@@ -197,6 +197,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "XA6PvtiMbs1UPMXZweQROThoHK1r6VsT3Y1jBb4EHd2aiNC2pybtYG+cR+2g+8ULxbwCN0b8zArFQmym++JWTli1JehsPAWNLBRt4Iy3aC1/WX4LFJEfI6HEhwN/d0Ei5VNG4Vsso47fVfB8aPFPhnVvSb5YvtsDuft/DJt1lZeznDBMZzj06eAfSwbz/IEcda8dGG+uryBr6Pf/HXGj4n/w3ljsadW4yaWMqtF6SRllbEcTdTpaJAmHOAxyFu3o7wiLS33PDzuKswMRxgVfoXDH9XsaU+yJrDzC6yCQBVwUQNwtrAqVA++Qn33q2pLttPR9H4rt0qG50ucWG4IqszSscRXpE6GfyY78vJg2WPXI2jZuWYDUuFskWRRroXXqTCQ2ykn4AmTxw24U7yQSjPBcP77p1h2DizsHBBsRG2VuXQG8DQ50RdLf359++NjOftCX6EE3MY0FsLuEj29+8gBD5JL900v4nbxg96cpYPspZUwT01nVpOjkF6MxzYMzMv+Jw0j98G2PCJKkWM25MA==;+Qed3kkS4TCr7mvsBo2ByQ=="
+secured: "QhGPD4tnAtUWSLnsZ/SwvTRGXx9N06YxKnisyNP2jaTjS2MWa//9lw0jGYdrT2ndk38GVfhSnValVe0CEOdRlPWP2JZ8GTEsSF1fJz/zCiEaJPOQUSioOmFUwYsE1f/ndrQCki7qg1C9kv9vwSC55MCDqXld3ME+EAEiDPrOMBJNicXF8AlCBnNmFf31VM7KvFMYQmJ9MINCcXcZN1g6tm+nBx92HzqBQlpqOuTC3vutbrfDEHfNx8iMpKpzvZkigZlgIxpv5m0qd3RVnl66qKXnwptb1MVPvwy7m4N1FOz6e1mULxRehEuBGLF+XiR/fEDR8Xz8OVuLBNUC3bFOOnH7p+GFDWMPQVKMGm4hcN8=;ekKWFhHT8va4d4bHsnjr4A=="
 ---
 

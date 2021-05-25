@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden, second Catholic president, to skip Notre Dame commencement after backlash to his abortion policies"
-excerpt: "Notre Dame University's 2021 commencement is set for Sunday, but President Biden will be notably absent from attendance."
-publishedDateTime: 2021-05-23T02:34:28Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Us008pCCT9Y/biden-skip-notre-dame-commencement-abortion"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Us008pCCT9Y/biden-skip-notre-dame-commencement-abortion"
-ampWebUrl: "https://www.foxnews.com/politics/biden-skip-notre-dame-commencement-abortion.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-skip-notre-dame-commencement-abortion.amp"
+title: "Lankford, other GOP senators urge Biden not to transfer detainees from Guantanamo Bay"
+excerpt: "Republican Sen. James Lankford led his GOP colleagues in urging President Biden not to release or transfer current detainees from Guantanamo Bay, Fox News has learned."
+publishedDateTime: 2021-05-25T17:08:00Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r5m7jQK07kY/republican-senators-biden-letter-guantanamo-bay-transfers"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r5m7jQK07kY/republican-senators-biden-letter-guantanamo-bay-transfers"
+ampWebUrl: "https://www.foxnews.com/politics/republican-senators-biden-letter-guantanamo-bay-transfers.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-biden-letter-guantanamo-bay-transfers.amp"
 type: article
-quality: 158
+quality: 168
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/biden-happy-thumb.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -78,22 +78,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9310ca8a-d753-4dfe-adbd-1e7942fdb670/2d18d808-1356-46cc-b738-a315b4ce73b6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Lankford, other GOP senators urge Biden not to transfer detainees from Guantanamo Bay"
-    excerpt: "Republican Sen. James Lankford led his GOP colleagues in urging President Biden not to release or transfer current detainees from Guantanamo Bay, Fox News has learned."
-    publishedDateTime: 2021-05-25T17:08:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r5m7jQK07kY/republican-senators-biden-letter-guantanamo-bay-transfers"
-    ampWebUrl: "https://www.foxnews.com/politics/republican-senators-biden-letter-guantanamo-bay-transfers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-biden-letter-guantanamo-bay-transfers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden administration grants temporary protected status to Haitian immigrants living in US"
     excerpt: "The Biden administration on Saturday announced it is granting Haitian nationals, who are currently living in the U.S., Temporary Protected Status for an initial 18 months amid ongoing security concerns and human rights abuses in the country."
@@ -159,6 +143,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, second Catholic president, to skip Notre Dame commencement after backlash to his abortion policies"
+    excerpt: "Notre Dame University's 2021 commencement is set for Sunday, but President Biden will be notably absent from attendance."
+    publishedDateTime: 2021-05-23T02:34:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Us008pCCT9Y/biden-skip-notre-dame-commencement-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-skip-notre-dame-commencement-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-skip-notre-dame-commencement-abortion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/biden-happy-thumb.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "GOP senators probe 'close coordination' between Biden administration, teachers unions on school reopenings"
     excerpt: "A group of GOP senators is demanding answers from the Biden administration on how powerful teachers unions may have influenced school reopening guidelines as coronavirus cases declined. "
     publishedDateTime: 2021-05-22T16:13:36Z
@@ -220,6 +220,6 @@ related:
         height: 500
         isCached: true
 
-secured: "9foL6qNAYKXQbGp14qnZKqApwoYbh4NCznHGF5eDqdbFXIIPJtPWoisu11RwRfeuW/4Hps8wG7KNSu6rHJfZOIbEUmDawP6pDgAgQewciPguKndPxnQnm1FHrfkPMYtZ6vtje7NcigyXhTsmazHW5APT78hfZ7ZXHIr9FcchJw+reWJl5/GfWxMoGK8arZv4SG58CHoNYKzfuRWGQPYHEgF4rl4bfSncWTCbRRQBLikkDrFXnefowQ7xKur/bfv02uF5ogWhyyuN4sLK0gZKAW+oCxx9cfTbpohjPyL/NPoZJ/C39aEJEmTGdEoJdElokvkrSyh2ejXJcABvRvoieOGN7jt7b/qfbETjUoa6AlE=;/GqnG09TVt2ZwPUOvJUNeg=="
+secured: "U+XJ+RedDV2Uu7uMzMUdMt6ZMGNEB4TbELxepAHaKxOI2RvFbweOyyYqS6FC3n/S/NTobwveCQvY3pQ/lRE4eO5Dtz8JtzYhNoTxd0NKB/cP6i8l7wWOCG/IJiBI55JYfKQ2Tn+tY6w2kUO6BotFZr+nR+E6Pw+EoKL4IAj0fuf6P1tcUfOALtP3pb9o35Wh0g5QnPMrO+ST/+gxa4zbOYXn/4AKBQBJxxgqlvUAE/Nletazjv6IEpPOx2XRaqcfuuxd0Yo/oFrg3nufZXgBiS7aZ1BEAVDGdw5xMKQ8FDVCF6c3lR2sM/SgzGUikm7Cf5CbI1IkB8jGYCvoxpe4UZ6mXteJjd9mblGw9jlNDSY=;5nbMxd9JukD1Sd+rvZkmsg=="
 ---
 

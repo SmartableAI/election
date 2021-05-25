@@ -74,6 +74,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Lankford, other GOP senators urge Biden not to transfer detainees from Guantanamo Bay"
+    excerpt: "Republican Sen. James Lankford led his GOP colleagues in urging President Biden not to release or transfer current detainees from Guantanamo Bay, Fox News has learned."
+    publishedDateTime: 2021-05-25T17:08:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r5m7jQK07kY/republican-senators-biden-letter-guantanamo-bay-transfers"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-senators-biden-letter-guantanamo-bay-transfers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-biden-letter-guantanamo-bay-transfers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden administration grants temporary protected status to Haitian immigrants living in US"
     excerpt: "The Biden administration on Saturday announced it is granting Haitian nationals, who are currently living in the U.S., Temporary Protected Status for an initial 18 months amid ongoing security concerns and human rights abuses in the country."
     publishedDateTime: 2021-05-22T22:00:36Z

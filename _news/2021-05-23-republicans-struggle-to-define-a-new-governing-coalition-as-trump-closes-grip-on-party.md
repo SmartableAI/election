@@ -95,6 +95,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Poll: A quarter of Americans say Donald Trump is 'true president' of the US"
+    excerpt: "An online Reuters/Ipsos poll of about 2,000 Americans finds sharp partisan differences in beliefs on the legitimacy of the 2020 election and more."
+    publishedDateTime: 2021-05-25T17:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/25/poll-quarter-americans-surveyed-say-trump-true-president/7426714002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7426714002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7426714002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/20ff0474-6182-48fa-9e03-2c65ffaf7e9a-AP_Capitol_Breach.jpg?auto=webp&crop=5869,3301,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
     excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
     publishedDateTime: 2021-05-20T19:25:00Z

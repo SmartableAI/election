@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Texas drops challenge to Biden admin.'s deportation moratorium"
-excerpt: "The Texas attorney general's office has agreed to drop a lawsuit over the federal government's 100-day freeze on deportations after the policy expired and the Biden administration said it had no plans to extend or reinstate it,"
-publishedDateTime: 2021-05-21T14:27:00Z
-originalUrl: "https://www.reuters.com/article/us-immigration-moratorium-dismissal-idUSKCN2D21YW"
-webUrl: "https://www.reuters.com/article/us-immigration-moratorium-dismissal-idUSKCN2D21YW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D21YW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D21YW"
+title: "Biden condemns Belarus for diverting flight, arresting journalist"
+excerpt: "U.S. President Joe Biden on Monday condemned Belarus for intercepting a commercial flight and arresting a dissident journalist, and said he has asked his advisers to give him options to hold those responsible to account."
+publishedDateTime: 2021-05-24T22:37:00Z
+originalUrl: "https://www.reuters.com/article/belarus-politics-usa-biden-idUSW1N2MD05B"
+webUrl: "https://www.reuters.com/article/belarus-politics-usa-biden-idUSW1N2MD05B"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2MD05B"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2MD05B"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210521&t=2&i=1562974591&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4K11T"
-    width: 816
-    height: 545
-    isCached: true
 
 related:
   - title: "Supreme Court could cut into Biden agenda: The Note"
@@ -62,6 +56,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_d5433e5cc9b54d29bd7cf89f9ebaf1a2_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Texas drops challenge to Biden admin.'s deportation moratorium"
+    excerpt: "The Texas attorney general's office has agreed to drop a lawsuit over the federal government's 100-day freeze on deportations after the policy expired and the Biden administration said it had no plans to extend or reinstate it,"
+    publishedDateTime: 2021-05-21T14:27:00Z
+    webUrl: "https://www.reuters.com/article/us-immigration-moratorium-dismissal-idUSKCN2D21YW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D21YW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D21YW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210521&t=2&i=1562974591&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4K11T"
+        width: 816
+        height: 545
         isCached: true
   - title: "Floyd family meets with Biden as Congress mulls police bill"
     excerpt: "President Joe Biden will meet with the family of George Floyd at the White House Tuesday on the one year anniversary of his death"
@@ -166,17 +176,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden condemns Belarus for diverting flight, arresting journalist"
-    excerpt: "U.S. President Joe Biden on Monday condemned Belarus for intercepting a commercial flight and arresting a dissident journalist, and said he has asked his advisers to give him options to hold those responsible to account."
-    publishedDateTime: 2021-05-24T22:37:00Z
-    webUrl: "https://www.reuters.com/article/belarus-politics-usa-biden-idUSW1N2MD05B"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2MD05B"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2MD05B"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "It Only Took 10 Minutes to Find Joe Biden's Secret Venmo Account"
     excerpt: "Buzzfeed reporter Ryan Mac explains how he and colleagues tracked down a Venmo account belonging to President Joe Biden, using a feature that connects your account to your contacts like family and friends."
     publishedDateTime: 2021-05-21T23:14:00Z
@@ -236,6 +235,6 @@ related:
         height: 432
         isCached: true
 
-secured: "R9K1hGrrskKnK0f1ziN95Ol8jagK0ANAFEMWQ/CRVgf+16DLY+O4zFxsVev7TLwGIwhs10TU827TMhHTtbPYZzPhzdkM1yjb9tgp29MJ4paN1lp9tA+bo8LcuJu7HE8SDSDMjusAb79pShE7F2UaJKjP9w1eHAKtZu/9cMeMUifo9DbqXBJ509LovTfLULPD9SB0u3Fww3b8+7N9vEmjk4aZe8QA8QuMgsChubdMNuHLzVSGQfEirC5GL+n5aKHoKSnilVaJjA2dgTtjCbVBgrtbyZwPExMifPZXk2F4k1ImpwWCUcdvj9VufGU/Sm9nsFJ/ppYjwC4uIKNliuGJxQ6uOBBYpeY8g5qmLSsM21oy3EQUBTQZ/EOAhzZQK+2vH4iqWkvTRwojZOBwVM4KuyB6UdDiRjvwl9Qpv/AKhBaDMVRz431aeQ9otAPD561DY6Pi5EU5GGeWpVZVXj43QVbsIxVN0tbSPU3RcYqUj0TsaLyWQIPTACRYGb2K4ETb4zTmdpDDUdezwGQ8/vL4kg==;vwB7zhEfeByXFAsqqGS0lg=="
+secured: "+2ebxyTyPh6zYHW0nATFuR9nrKCan3QU0x+0qF3anL/OaLMcsmbx5woBAXn21V+RusnA/8hzkdm9WsEMVMqH2Nw+knXehLXbHoLifd8pvzJmf22Cg8wAoYE+LJUvsSoEXXnxPBNJ/uSThT8i9vuExtiicnOgKqDx2WFfW21mRqYOFxQZes0Ao4K0jrgjcQvC+PDc9Uf4EYHXUdtPvxpmcDQ2W1a6M5XDTWvhlGkycDeuwVRMKnMEspocLuFZZ4rfzKHWY1fHAUIsEffJGJopMky86z/2WNBGMW3Hu0E5LvxB7pwcBLVPBeYlLaEO6msqCA/BYgcrDxTqTjJAsvk4PnZiJBhkAqa9VE0H1WSW5fg=;Qe5nIT0l3Sye6tbwoGbqYg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "McCarthy's bid to quash January 6 commission underscores GOP split on Trump "
-excerpt: "Less than a week after Rep. Liz Cheney was ousted from her leadership position for her opposition to Donald Trump's lies about the 2020 election, House Republicans are mired in yet another fight over Trump -- this time whether to move forward with a bipartisan commission to investigate the January 6"
-publishedDateTime: 2021-05-18T23:07:57Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rC-a6QHnBWo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rC-a6QHnBWo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/gop-infighting-january-6-commission-kevin-mccarthy/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/gop-infighting-january-6-commission-kevin-mccarthy/index.html"
+title: "Trump responds to insurrection lawsuit by claiming immunity while he was President"
+excerpt: "Donald Trump's attorney defended the ex-President's incendiary speech on January 6, saying he is protected under the First Amendment and had \"absolute immunity\" while he was President to contest the election, according to a court filing this week.\n    \n"
+publishedDateTime: 2021-05-25T17:37:45Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SWJDgU3KQVk/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SWJDgU3KQVk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/donald-trump-capitol-riot-immunity/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/donald-trump-capitol-riot-immunity/index.html"
 type: article
-quality: 172
+quality: 169
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518132633-mccarthy-for-oped-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204225623-trump-speech-january-6-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McCarthy's bid to quash January 6 commission underscores GOP split on Trump "
+    excerpt: "Less than a week after Rep. Liz Cheney was ousted from her leadership position for her opposition to Donald Trump's lies about the 2020 election, House Republicans are mired in yet another fight over Trump -- this time whether to move forward with a bipartisan commission to investigate the January 6"
+    publishedDateTime: 2021-05-18T23:07:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rC-a6QHnBWo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/gop-infighting-january-6-commission-kevin-mccarthy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/gop-infighting-january-6-commission-kevin-mccarthy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518132633-mccarthy-for-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and his allies seize on small New Hampshire town's vote discrepancies to push lies about election outcome"
     excerpt: "A local clash over the audit of state legislative vote totals in a New Hampshire town of 14,000 has turned into one of the flashpoints in the attempts of former President Donald Trump and his supporters to cast doubt on the outcome of the 2020 election.\n    \n"
     publishedDateTime: 2021-05-21T19:02:28Z
@@ -108,22 +124,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026051259-01-donald-trump-new-hampshire-1025-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump responds to insurrection lawsuit by claiming immunity while he was President"
-    excerpt: "Donald Trump's attorney defended the ex-President's incendiary speech on January 6, saying he is protected under the First Amendment and had \"absolute immunity\" while he was President to contest the election, according to a court filing this week.\n    \n"
-    publishedDateTime: 2021-05-25T17:37:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SWJDgU3KQVk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/donald-trump-capitol-riot-immunity/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/donald-trump-capitol-riot-immunity/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204225623-trump-speech-january-6-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -188,6 +188,6 @@ related:
         height: 773
         isCached: true
 
-secured: "XUQG7Muy/iTtoCp3MELskTDBl1vWenoOjfkEZhWw8NKE9H/ESEzVY1EWcADGlJJ/z+xm19zFHr+sUC+nrevl8pInM11mRGRRfO3d2U/ZEBmSBX6vo/cpiD77+oKZi9u+i2c5UQcL1SwL+E+Bm3HmtDz9rRNK7iWE6E8L2Oy4N+WElW8ahNVx75fXK+a9Xfm/Kc1vY/6+y3Uj3CajK3VcuGPM7SpitkiHejUV/Nx/fkDqqEuCiGHF9Ll3fpWjyps+k/bnKnoqwIab3OO6DfMC7eyQKfXQIlyTyKqHVSKO9g05IFtj01w96rU5jIfQjNKSUPRiWNIzSBgySZgsf4JcgapxiZp5bHXOda/2LaRGz60=;6qtOEVkwXW0N0lscElKPJw=="
+secured: "sDKFnNij6vL7b2BD+Egs5cuNkXu4tYUw9AzzRm4IbwsXtyv5fzc5Q4gT0Czlbpt1+ajHyZ8ExyNiHYevtYxnFsUuJz1uSOZeDP5ha+Wkyuw9M8G0WCNmdez/vg968IU/g3ZpuxbmRbQXNYYnk6D9Nt2ntr8TsQowtp4xiu0yVQ3QEbbIxxaVqzX8/w7fa5hEihT0TjUCnOzBH25niC07Ma6TLQcBphe3A+R7s/BCARTjWWcuW1wRJjHUEd+PxNTY3D1YI3l4k2W6xNlv+Aa2CdMOsj7s77rZb37FOKbtHxSAc0AEZHOgSpoqNedsAK9CHRF52OoJJ3hNOze5JAZXATdk+qogoYfGlcCG7Gzt1+w=;w2O8aFHtGQXWT53g/NvfsA=="
 ---
 

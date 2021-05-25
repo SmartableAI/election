@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump responds to insurrection lawsuit by claiming immunity while he was President"
+    excerpt: "Donald Trump's attorney defended the ex-President's incendiary speech on January 6, saying he is protected under the First Amendment and had \"absolute immunity\" while he was President to contest the election, according to a court filing this week.\n    \n"
+    publishedDateTime: 2021-05-25T17:37:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SWJDgU3KQVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/donald-trump-capitol-riot-immunity/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/donald-trump-capitol-riot-immunity/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204225623-trump-speech-january-6-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Arizona GOP election official defends office against Trump voting conspiracy theory: 'We are humans, it has to stop.'"
     excerpt: "The Republican official who heads Maricopa County, Arizona's election department offered a forceful defense of his office on Monday after former President Donald Trump falsely claimed that the county's \"entire Database\" had been deleted.\n    \n"
     publishedDateTime: 2021-05-18T02:56:44Z
