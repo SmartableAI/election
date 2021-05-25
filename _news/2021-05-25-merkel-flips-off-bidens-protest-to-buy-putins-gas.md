@@ -3,8 +3,8 @@ category: news
 title: "Merkel Flips Off Biden's Protest -- to Buy Putin's Gas"
 excerpt: "When the U.S. created NATO, a primary purpose of the alliance was to serve as a western wall to defend Germany against the 400,000 Russian troops on"
 publishedDateTime: 2021-05-25T11:37:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.amp.html"
 type: article
@@ -240,6 +240,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "YdecL/7wM2styQImUIgAphZH+mD1n6XS+bikVztbA0vmKlrljsF27U0tXQu016CHmcNe8w1h83f93ApqTVNCPn8PzDcOKdlgaFcJ5KlUawRK2i1HDM10j4bgAEIpKibAFNovrCxQaCopJDyumbFj8L12+vts3cjakW1+VoHb2WzsmubKUDKKt34hjbfS5mmPYzGC1jOsiuLYtwnpeZFD6u5dXfG9kseyRMNxgacXWwYzJvlrei+08XihbMAgc1lV30E4OYrmL/O4HEeNixJfjdW6oEaOE61eesNLhWGnrlIK7AEesS6QSiJWVvsGtv88dtXFwLQTpHvP9p3HabbutDx5tQlqaZsgls6zEx7qVi8=;C+Zc5luk6EGyUB1MCY8Iuw=="
+secured: "wgJeKRsmvA7eb8+vUsAZ124W9CDF8KWBzvif8LXaGVXKy0HfI4DT9EfPj47OJFao200IrL8wH3Yc1kZUgtca5V6PueP00EhBG4eGzvaQ1cHUzoBvmQzB1mpzaevrJIuXY0KLGStrxMmaiVuWVE8ekIvbSn28DxyVm0a8eSQQn73xS9q3J2EkEgQzDbpeCj/k1+XY+teaXP61aFvWHgVNbO3Dmc5dZbCQ4UtzxEEVR/U//RJXF2OC1CN0vbu8zERdnfO1oyz8ylctcFxY+qrCnsrkKMxmnkhVRIW48/5VqQLUYOAY1sCXq3gTQ/KYxmhgus4sWDMPpSF8cchQaokq3/gJpzNYOG6tqkj1sl8zaRo=;MvkfwoDZw62AyR7rUHU04w=="
 ---
 

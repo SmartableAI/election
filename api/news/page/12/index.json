@@ -2,6 +2,119 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-30-biden-planning-way-to-circumvent-trump-remain-in-mexico-policy.md",
+      "title": "Biden planning way to circumvent Trump ‘Remain in Mexico’ policy",
+      "excerpt": "The Biden administration is looking to create a system that would allow some migrants to receive \"humanitarian exceptions\" to enter the U.S., despite the controversial Trump-era \"Remain in Mexico\" policy, first reported Buzz Feed News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H8PBolKunSI/biden-administration-to-create-trump-era-remain-in-mexico-work-around",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H8PBolKunSI/biden-administration-to-create-trump-era-remain-in-mexico-work-around",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 250,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b67f5c2b-ca07-4d21-b0a8-f37bcb589b2a/e8bd00c5-34b5-4617-936b-424fc9cdb814/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-to-create-trump-era-remain-in-mexico-work-around.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-create-trump-era-remain-in-mexico-work-around.amp",
+      "publishedDateTime": "2021-04-29T18:20:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.md",
+      "title": "Leon Panetta on Biden's lack bipartisanship: It takes two to tango",
+      "excerpt": "We're going to get into the details of all of that, fair and balanced, with John Barrasso, the Republican senator from Wyoming, and Leon Panetta, Bill Clinton's chief of staff, and whether we are building up a lot of debt very,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango",
+      "originalUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81623771-3b4f-45ee-8b65-03c338f4a578/58b06d7d-6c90-487b-aebe-6f2abac016ad/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.amp",
+      "publishedDateTime": "2021-04-29T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-gov-kristi-noem-says-south-dakota-is-taking-biden-to-court-over-fireworks-display-at-mt-rushmore.md",
       "title": "Gov. Kristi Noem says South Dakota is taking Biden to court over fireworks display at Mt. Rushmore",
       "excerpt": "Noem has directed her office to file a lawsuit against the National Parks Service after the agency rejected permits to hold the fireworks display.",
@@ -1250,110 +1363,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias.md",
-      "title": "Donald Trump Suggests He May Sue CNN Over Project Veritas Video Allegedly Proving Bias",
-      "excerpt": "\"This is like a campaign contribution of magnitudes like nobody's ever seen before,\" former President Donald Trump said of a Project Veritas video that secretly recorded a CNN employee describing the network's reporting as anti-Trump \"propaganda.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306",
-      "originalUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1784619/donald-trump-project-veritas-cnn-lawsuit.jpg",
-          "width": 2500,
-          "height": 1871,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306?amp=1",
-      "publishedDateTime": "2021-04-28T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident.md",
-      "title": "Trump adviser Roger Stone says he was in a \"suspicious\" hit and run car accident",
-      "excerpt": "Roger Stone, long-time adviser and confidant of President Trump, claims he was the victim of a \"suspicious\" hit-and-run car accident Wednesday. The crash comes days after Stone admitted to CBS News that he had made contact with a suspected Russian hacker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident-1/",
-      "originalUrl": "https://www.cbsnews.com/video/trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/28/a9b3a56b-52ee-48d3-a675-c22769808fc8/thumbnail/1200x630/f59bb4e20896144e795f003553c9da2e/0315-rnb-zfw-rogerstoneaccident-1270844-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident-1/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident-1/",
-      "publishedDateTime": "2021-04-28T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "As deadlines slip, Biden agenda faces crucial assessment"
-excerpt: "Capitol faces the blockade of Republican opposition in Congress. It’s a pivotal time for many aspects of Biden’s ambitious agenda. Rounding the first quarter of his presidency, the White House and Congress have been unable to meet key Memorial Day deadlines set by the administration on crucial priorities."
-publishedDateTime: 2021-05-25T03:29:00Z
-originalUrl: "https://www.washingtonpost.com/politics/as-deadlines-slip-biden-agenda-faces-crucial-assessment/2021/05/25/cbbbb7c8-bd11-11eb-922a-c40c9774bc48_story.html"
-webUrl: "https://www.washingtonpost.com/politics/as-deadlines-slip-biden-agenda-faces-crucial-assessment/2021/05/25/cbbbb7c8-bd11-11eb-922a-c40c9774bc48_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/as-deadlines-slip-biden-agenda-faces-crucial-assessment/2021/05/25/cbbbb7c8-bd11-11eb-922a-c40c9774bc48_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/as-deadlines-slip-biden-agenda-faces-crucial-assessment/2021/05/25/cbbbb7c8-bd11-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+excerpt: "Capitol faces the blockade of Republican opposition in Congress. It's a pivotal time for many aspects of Biden's ambitious agenda. Rounding the first quarter of his presidency, the White House and Congress have been unable to meet key Memorial Day deadlines set by the administration on crucial priorities."
+publishedDateTime: 2021-05-25T04:29:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/deadlines-slip-biden-agenda-faces-crucial-assessment-77886647"
+webUrl: "https://abcnews.go.com/Business/wireStory/deadlines-slip-biden-agenda-faces-crucial-assessment-77886647"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/deadlines-slip-biden-agenda-faces-crucial-assessment-77886647"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/deadlines-slip-biden-agenda-faces-crucial-assessment-77886647"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P3ILH4V4XII6XERKYQGJO5F4JA.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_ca975416dd3e4577922faa97902694c4_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -275,6 +275,6 @@ related:
         height: 433
         isCached: true
 
-secured: "gXNaUB4CC7bYFm329rn9SzJpBcG2Tg46uB9kP+jGWzg6nHwWRVhPKWcUlHbHiLSgLOTT0bvkyevPKJX2AESdlubp++2vwSFhxR6ex7BHi1GWSipuacKj912uE/pL1bZCcfsIo+j4axXQLkVPSbh5FAJYcSzcFoZWwZ1UMXruaoIttUkU2jgVjgJgyY7FkrZn+1AmOcDyfoLnwi2GZHoYQnLk52aWi2iUfsHQV8NHxcckNzRIEvC5JrUD92jVcZqVnknrA1I6LiIOfRE6grCvbOYDGJ+CEf02faNtb38+uDioFZDDWC3BFASoc7/J0CggvsVHiNr/dkhG45nHWkB7kCQGC19ZeQ1J9utoENUWnfhgblylm6mXJ5EHVBVNpEVFPjiDBUT3/jlVpB4pflLF+DwxFU3Bo6RSsoNM8u+uPTgMYfh/2j9+u8KFhROo55LGRHFoXxdYHBmJkj2RBxMMx65YvSvjhkXqZPh99yfHzomKVhnwVN3rIhhOxC8tH14FxGrzTaeQlLj2q+jyXfQT9Q==;ahFM3Kl50uaJ4dRZJpQ4yQ=="
+secured: "1lBnn8oHLzaw1q7knePDxYSFfR2I8tsctDG25E4yzycZRyYClablKIhAS8kGtbxvYU+V01qVDgK2mDrpiNGmFUheieqv35qJylep02xFRCqrsWyMVwdFHct4TP2T2edj9OvfmmfSQZpGNiFpraDclo5Cn8IKnUhXsutFbJS2CGh8zUouO045FJQE8zCA2cxsd7CwMeLEuVHpC56/fLSrhtc0ZTxieWQlN2+001WGJR7fj/m5+0y4Gu25DullGY6Kj6RdGYc4UOBwsUp/U2GnfoQIi9+zvERnZ9I41EQMNweA1sLSjY0doIuYmjS7oZtfIM69ZnLIRZwI0nM6IdhxtKTOaxVO0dEp0Ei7NOOnjKs=;9ikqNYH7Kq4lAF8MheGXUw=="
 ---
 

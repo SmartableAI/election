@@ -2,6 +2,119 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-23-campaign-2024-trump-getting-ready-to-hit-campaign-trail.md",
+      "title": "Campaign 2024: Trump getting ready to hit campaign trail",
+      "excerpt": "Former President Donald Trump is gearing up for “upcoming rallies.” And the former president, who’s expected to begin holding rallies again as early as next month, also says that he’s refurbishing the airliner that he used during his 2016 White House campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp",
+      "publishedDateTime": "2021-05-23T07:09:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.md",
+      "title": "Kamala Harris wipes hand after greeting South Korean leader, faces Twitter backlash",
+      "excerpt": "Many Americans have become more germ-conscious since the start of the coronavirus pandemic last year – but Vice President Kamala Harris may have made her concerns too conspicuous.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J93HpuDVsvk/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J93HpuDVsvk/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp",
+      "publishedDateTime": "2021-05-22T22:29:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-23-gop-states-ramp-up-legal-battles-against-bidens-immigration-policies.md",
       "title": "GOP states ramp up legal battles against Biden's immigration policies",
       "excerpt": "As the Biden administration has been working rapidly to undo key Trump-era border and immigration policies and replace them with more liberal policies, Republican state attorneys general have been working just as hard to push back against what they see as illegal actions that could hurt Americans and",
@@ -1220,118 +1333,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-biden-administration-unable-to-continue-300-weekly-pandemic-unemployment-benefits-that-gop-governors-are-slashing.md",
-      "title": "Biden administration unable to continue $300 weekly pandemic unemployment benefits that GOP governors are slashing",
-      "excerpt": "The Labor Department has exhausted its options for continuing to pay an extra $300 a week in federal unemployment benefits to jobless people in the 22 GOP-led states that are ending them early, an administration official told CNN Thursday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ILgDdU8Lbrg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ILgDdU8Lbrg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210520181322-now-hiring-sign-indiana-0507-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/pandemic-unemployment-benefits-300-dollars/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/pandemic-unemployment-benefits-300-dollars/index.html",
-      "publishedDateTime": "2021-05-20T16:41:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-trump-administration-secretly-obtained-cnn-reporters-phone-and-email-records.md",
-      "title": "Trump administration secretly obtained CNN reporter's phone and email records",
-      "excerpt": "The Trump administration secretly sought and obtained the 2017 phone and email records of a CNN correspondent, the latest instance where federal prosecutors have taken aggressive steps targeting journalists in leak investigations.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9tqOPv59K1g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9tqOPv59K1g/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210520173734-doj-building-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html",
-      "publishedDateTime": "2021-05-20T15:20:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -217,7 +217,7 @@ related:
   - title: "Merkel Flips Off Biden's Protest -- to Buy Putin's Gas"
     excerpt: "When the U.S. created NATO, a primary purpose of the alliance was to serve as a western wall to defend Germany against the 400,000 Russian troops on"
     publishedDateTime: 2021-05-25T11:37:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/25/merkel_flips_off_bidens_protest_--_to_buy_putins_gas_145816.amp.html"
     type: article
