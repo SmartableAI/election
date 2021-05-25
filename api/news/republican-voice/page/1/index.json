@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-25-biden-condemns-arrest-of-belarusian-opposition-figure-calls-diverted-flight-a-shameful-assault.md",
+      "title": "Biden condemns arrest of Belarusian opposition figure, calls diverted flight a 'shameful assault'",
+      "excerpt": "President Biden demanded the release of Belarusian opposition journalist Raman Pratasevich on Monday after he was arrested following a forced diversion of his Ryanair flight from Greece to Lithuania.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sblL3GGzwF8/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sblL3GGzwF8/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2be256f3-6cab-48ee-8997-02148a29a3d2/96fc745e-3546-4970-83d1-2b874e7dd4e9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight.amp",
+      "publishedDateTime": "2021-05-24T19:01:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-chris-christie-slams-biden-for-allowing-canada-covid-double-standard.md",
       "title": "Chris Christie slams Biden for allowing Canada COVID 'double standard'",
       "excerpt": "Christie blasted the president in a tweet posted Monday, saying more “weakness” was coming from the Biden administration’s foreign policy and vaccine messaging with Canada.",
@@ -512,7 +568,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 279,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -1564,62 +1620,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/white-house-trump-admin-middle-east-conflict.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-trump-admin-middle-east-conflict.amp",
       "publishedDateTime": "2021-05-18T12:26:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-ex-trump-dhs-officials-call-for-mayorkas-dismissal-over-border-crisis-enough-is-enough.md",
-      "title": "Ex-Trump DHS officials call for Mayorkas' dismissal over border crisis: 'Enough is enough'",
-      "excerpt": "Three top Trump-era Department of Homeland Security officials are calling on President Biden to dismiss Secretary Alejandro Mayorkas over his handling of the crisis at the southern border, accusing him of \"reckless abandonment\" of securing the border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qva-stK91w/ex-trump-dhs-officials-mayorkas-fire-border-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qva-stK91w/ex-trump-dhs-officials-mayorkas-fire-border-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a570c73-98d6-4f91-b742-2b7220d15df9/2dcdb4f5-ef07-458a-9628-0d6274662406/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ex-trump-dhs-officials-mayorkas-fire-border-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-dhs-officials-mayorkas-fire-border-crisis.amp",
-      "publishedDateTime": "2021-05-18T10:55:27-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

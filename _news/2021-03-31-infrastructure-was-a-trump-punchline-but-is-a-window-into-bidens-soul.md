@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html"
 type: article
 quality: 190
-heat: 1710
+heat: 1730
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 182
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's DOJ appeals order to release full memo on why Trump wasn't charged with obstruction"
+    excerpt: "The Justice Department is partially appealing an order to publicly release a pivotal 2019 memo about whether then-President Donald Trump obstructed the Russia investigation.\n    \n"
+    publishedDateTime: 2021-05-25T03:40:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/szt5CphBLyI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/william-barr-memo-trump-obstruction-doj-appeal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/william-barr-memo-trump-obstruction-doj-appeal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190305093213-03-us-department-of-justice-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

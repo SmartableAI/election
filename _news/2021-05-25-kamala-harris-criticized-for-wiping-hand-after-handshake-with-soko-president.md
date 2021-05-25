@@ -108,6 +108,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "VP Kamala Harris Wipes Hand After Handshake With South Korea's President"
+    excerpt: "Vice President Kamala Harris holds a bilateral meeting South Korean President Moon Jae-in at the White House on Friday, May 21, 2021, in Washington, D.C."
+    publishedDateTime: 2021-05-24T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/54/544114.jpg"
+        width: 906
+        height: 678
+        isCached: true
 
 secured: "W7tUE6tibw8AVqRVfAgLZeyV73icr3141cf4tCDNgNyKswChpPWHl4cqezgR7Au68+j2Xdlwpg15hCBCFiKQcH11e7NoBEAFrN4VXyvDjEyf501hiwS17gyKBNCSTOeLjix3Rl0+MGP3HQAjcMMM8j5fhxHi4u1xHyee8FOU9m2/AY6FF4MNRHjntyOrswOFl8+AnrHIRljWPNzMNlNEVj6egIzPOFslR70Tu1a7LCNUMscY3cx/6MzOZmJjkrgVjTOrTVxLx8mAZV8+8vwuUUNMHpT6XGxSdIxRWDkmlOnb9xPLPda11gGAQ94nQTNMkS1mzsfqKHR0edDpdyz8/ZPaT7o5pp+fxFl/Kev5jBpb0feWzUi32MsmfhiU1tg3SfR8U4iguYn5U+z/EvUkI9bBQgZy+IMNysY9uKypsbgynci/NhJZKKStqUffbWDB8fBosnElgGMeYZX15LpqK37S+Q+FdowuZqJz/WKEdTXumDvQuDfliMpdmhBxzRQunPlEPPF4YcfX5kcYvfzQbQ==;IwK4M9yuZJ+o/UZXRd5Sww=="
 ---

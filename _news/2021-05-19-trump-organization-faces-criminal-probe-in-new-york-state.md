@@ -123,6 +123,22 @@ related:
         width: 1024
         height: 602
         isCached: true
+  - title: "Most Republicans Still Believe 2020 Election Was Rigged, Trump Is Actual President: Poll"
+    excerpt: "A new Reuters/Ipsos opinion poll found that 53% of Republicans believe Trump is the “true president”, compared with 3% of Democrats and 25% of all Americans."
+    publishedDateTime: 2021-05-25T02:34:00Z
+    webUrl: "https://www.ibtimes.com/most-republicans-still-believe-2020-election-was-rigged-trump-actual-president-poll-3207536"
+    ampWebUrl: "https://www.ibtimes.com/most-republicans-still-believe-2020-election-was-rigged-trump-actual-president-poll-3207536?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/most-republicans-still-believe-2020-election-was-rigged-trump-actual-president-poll-3207536?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 81
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
+        width: 1024
+        height: 731
+        isCached: true
   - title: "Trump Is Still Spending Taxpayer Money To Fund His Office, 17 Staff: Report"
     excerpt: "Former President Donald Trump can continue using taxpayer money to fund his office and staffers until July 21."
     publishedDateTime: 2021-05-18T01:23:00Z

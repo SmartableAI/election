@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167?amp=1"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1804053/president-joe-biden.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "As deadlines slip, Biden agenda faces crucial assessment"
+    excerpt: "Capitol faces the blockade of Republican opposition in Congress. It's a pivotal time for many aspects of Biden's ambitious agenda. Rounding the first quarter of his presidency, the White House and Congress have been unable to meet key Memorial Day deadlines set by the administration on crucial priorities."
+    publishedDateTime: 2021-05-24T18:03:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/white-house-eager-gop-counteroffer-infrastructure-77875338"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/white-house-eager-gop-counteroffer-infrastructure-77875338"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/white-house-eager-gop-counteroffer-infrastructure-77875338"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d5623398d6d645499e78e73c7e2f4736_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Greg Pence, Mike Pence's Brother, Votes Against Jan. 6 Commission, Calls It 'Cover-up for Failed Biden Admin'"
     excerpt: "Greg Pence is defending his House vote against a commission to investigate the violent attack on the Capitol that forced his brother into a secured location, calling it a \"coverup for the failed Biden administration."

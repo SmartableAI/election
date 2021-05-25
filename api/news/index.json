@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-25-biden-condemns-arrest-of-belarusian-opposition-figure-calls-diverted-flight-a-shameful-assault.md",
+      "title": "Biden condemns arrest of Belarusian opposition figure, calls diverted flight a 'shameful assault'",
+      "excerpt": "President Biden demanded the release of Belarusian opposition journalist Raman Pratasevich on Monday after he was arrested following a forced diversion of his Ryanair flight from Greece to Lithuania.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sblL3GGzwF8/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sblL3GGzwF8/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2be256f3-6cab-48ee-8997-02148a29a3d2/96fc745e-3546-4970-83d1-2b874e7dd4e9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight.amp",
+      "publishedDateTime": "2021-05-24T19:01:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-chris-christie-slams-biden-for-allowing-canada-covid-double-standard.md",
       "title": "Chris Christie slams Biden for allowing Canada COVID 'double standard'",
       "excerpt": "Christie blasted the president in a tweet posted Monday, saying more “weakness” was coming from the Biden administration’s foreign policy and vaccine messaging with Canada.",
@@ -66,7 +122,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 319,
       "tags": null,
       "images": [
         {
@@ -1169,7 +1225,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 279,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -1315,62 +1371,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-biden-to-host-george-floyds-family-next-week-on-anniversary-of-his-death.md",
-      "title": "Biden to host George Floyd's family next week on anniversary of his death",
-      "excerpt": "President Joe Biden will host the family of George Floyd at the White House on Tuesday to mark the one-year anniversary of his death at the hands of police, a White House official confirmed to CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSTwWUAtvPM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSTwWUAtvPM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210420195034-joe-biden-april-20-2021-02-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html",
-      "publishedDateTime": "2021-05-22T07:59:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

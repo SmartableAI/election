@@ -111,6 +111,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "As deadlines slip, Biden agenda faces crucial assessment"
+    excerpt: "Capitol faces the blockade of Republican opposition in Congress. It's a pivotal time for many aspects of Biden's ambitious agenda. Rounding the first quarter of his presidency, the White House and Congress have been unable to meet key Memorial Day deadlines set by the administration on crucial priorities."
+    publishedDateTime: 2021-05-24T18:03:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/white-house-eager-gop-counteroffer-infrastructure-77875338"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/white-house-eager-gop-counteroffer-infrastructure-77875338"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/white-house-eager-gop-counteroffer-infrastructure-77875338"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d5623398d6d645499e78e73c7e2f4736_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says won't allow Justice Dept to seize phone or email records of reporters"
     excerpt: "U.S. President Joe Biden on Friday said he would not allow his Justice Department to seize the phone or email records of reporters, saying that any such move would be \"simply wrong.\""
     publishedDateTime: 2021-05-22T02:51:00Z

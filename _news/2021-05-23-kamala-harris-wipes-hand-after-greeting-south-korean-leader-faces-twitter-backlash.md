@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-wipes-hand-after-gree
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
 type: article
 quality: 179
-heat: 279
+heat: 299
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/harris-moon-handshake-03.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "VP Kamala Harris Wipes Hand After Handshake With South Korea's President"
+    excerpt: "Vice President Kamala Harris holds a bilateral meeting South Korean President Moon Jae-in at the White House on Friday, May 21, 2021, in Washington, D.C."
+    publishedDateTime: 2021-05-24T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/54/544114.jpg"
+        width: 906
+        height: 678
         isCached: true
 
 secured: "dijc6C2TQqLkR/IyfuhM9WI/8z6xnfuqXYglKxKQk9ERiybT8dOJO01xuDr5ABe6lHTJkyWvKSAMOK/Xhdj1OEZOsHjXB21x66dwaQfCx025U4EjzS8MqWc2dsJn5I0nJFvy148Pyq+6U6TRQr6qWG7vnlHVOLkuSruNZ/GFc5IG+lajVLu7VOuA2gQ6ZDD7v1T5G4xqb2Y/+DHJAFkRirttKy/jt1PCLJV/RU44b0CkUVr8xJzEwmPDLDkuA/dYYIMCnysw/8duPZbSJsXLliq/bawTWFiVtlWMqx61VAiqvj26T2H4SldnvzytskaX+Gc9XfesG4gzDBkqHZPDWOXVU738qr5a/TUOfAcksUQ=;Pl5ErU+NuPKiR2g9xMfg0g=="
