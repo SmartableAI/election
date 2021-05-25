@@ -80,20 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "An insider’s guide to Biden and Israel"
-    excerpt: "The attorney general office’s investigation into the Trump Organization, which has been underway since 2019, will also continue as an ongoing civil probe, but the office recently informed Trump Organization officials of the criminal component."
-    publishedDateTime: 2021-05-19T10:08:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/05/19/an-insiders-guide-to-biden-and-israel-492905"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/2b/ea/d6b0c3a24b498c9bb67a8ec2d20e/gettyimages-1318714893.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "5vVAytCVEvwIbYC2etKVRv80pua7uBSCTrwuuQbGNajFL2ckiIyymiNhrD6GO3FYG6ct+5KwNEDOTlAgaXXuNddK3Rb0AiBr3GUEyMtC3QD3ksyDyqe0gAjVPSl6NoNxNztYVlxrDSrYseNkGH3HZCTOg4u0BtoHddvZl8P8mLKNdG3TCfneIN5/PKsbaTQmFI9hJRZAnc/EWffCSZtVFAZU79ZGjdleP6klZVYwkm5PvPKWqACElMPkX8sHNUW7attVesJ0oshioGsJnyUbNRvkX83h+NuWCCIthhdLckbAVP2O0YaN11VaPlAtiJYvSBB/5agJ51+6HW7okNEj4e59h2WQDUXRd6VvO8F92L3tm5mUrjlCPUr0+RxVIx27KB3oeeEdm/W6HIvrwfl6Tq6HQ54bMvLKMEvTcRmS0d0hhjk5ZPTmrwwfJAg9z/ag9hJeBF+New60PoL5IYoqHX1+IbBzMzqTHCI6Qb4Gysmh0d08VivtzuAi4IKfeUblsmTFLeoAjOaaHkzDXRdmUQ==;Ws6CWLQD2jwDiYcKVxTbAg=="
 ---

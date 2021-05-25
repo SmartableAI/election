@@ -31,35 +31,97 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says schools 'should probably all be open' in the fall"
-    excerpt: "President Joe Biden said Friday that K-12 schools \"should probably all be open\" in the fall for in-person learning after more than a year of most of the country's kids facing the challenge of remote instruction due to the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-04-30T13:46:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RQZMD1w0MgE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/biden-schools-reopening-fall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/biden-schools-reopening-fall/index.html"
+  - title: "Biden raises refugee cap to 62,500 after blowback"
+    excerpt: "The Biden administration is set to raise the refugee ceiling to 62,500 this fiscal year, according to a source familiar with the discussions, after receiving swift criticism last month when President Joe Biden kept the lower Trump-era cap in place.\n    \n"
+    publishedDateTime: 2021-05-03T21:12:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kJryzBYedM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429104348-02-joe-biden-congress-0428-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210502211626-joe-biden-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden adviser: President didn't say 'absolutely' open schools in fall because virus is unpredictable"
-    excerpt: "President Joe Biden hasn't committed to K-12 schools reopening full-time and in-person in the fall, one of his senior advisers said Sunday, because the coronavirus remains unpredictable.\n    \n"
-    publishedDateTime: 2021-05-02T14:27:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FGS6mRLqPwU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/02/politics/anita-dunn-schools-reopen-biden-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/02/politics/anita-dunn-schools-reopen-biden-cnntv/index.html"
+  - title: "Biden tries to sell his agenda while Republicans go after their own "
+    excerpt: "President Joe Biden met Republican criticisms of his economic proposals head-on Friday, citing disappointing jobs data as a call to action for more government spending and brushing aside concerns that generous expanded unemployment benefits have kept Americans from returning to work.\n    \n"
+    publishedDateTime: 2021-05-08T04:02:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fbBT6xPcIpM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/08/politics/joe-biden-jobs-numbers-republicans-cheney-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/08/politics/joe-biden-jobs-numbers-republicans-cheney-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 160
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210502092834-screengrab-anita-dunn-cnn-0502-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration scrambles to respond to cyberattack on critical pipeline"
+    excerpt: "Biden administration officials worked urgently Monday to ascertain the scope and fallout of a ransomware attack on the Colonial Pipeline, which supplies much of the eastern United States its gasoline -- an incident that laid bare vulnerabilities in the country's aging energy infrastructure.\n    \n"
+    publishedDateTime: 2021-05-10T17:27:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mxgCsj0tK9o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/colonial-pipeline-white-house-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/colonial-pipeline-white-house-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210508093128-file-colonial-pipeline-alabama-2016-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden pushes economic aid proposals as GOP calls for paring back unemployment benefits"
+    excerpt: "President Joe Biden will focus in a speech Monday on how the administration is providing funding for states and localities, bolstering child care providers and helping Americans return to work safely, a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-05-10T18:13:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JhPkmIHS3cA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/biden-employer-assistance-child-care-state-and-local-funding/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/biden-employer-assistance-child-care-state-and-local-funding/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510004358-03-joe-biden-0507-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congress faces make-or-break moment to secure bipartisan deals on key Biden priorities"
+    excerpt: "President Joe Biden's bipartisan push faces a crucial moment on Capitol Hill this month where talks over several big-ticket items could lead to major legislative victories hailed by both parties -- or they could collapse and prompt a bitter round of recriminations and open partisan warfare.\n    \n"
+    publishedDateTime: 2021-05-10T10:03:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQ1wJsWAgLI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/congress-agenda-biden-bipartisan-talks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/congress-agenda-biden-bipartisan-talks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504000658-us-capitol-building-0429-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fight for $15 minimum wage heats up after Biden's endorsement"
+    excerpt: "After two decades working for Walmart, Cynthia Murray says she only recently saw her pay go above $15 an hour."
+    publishedDateTime: 2021-05-08T13:02:00Z
+    webUrl: "https://www.cnn.com/2021/05/08/business/minimum-wage-biden-walmart/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507161449-minimum-wage-mcdonalds-jan-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

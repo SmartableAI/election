@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden was 'torn' about picking VP Harris after presidential debate 'bull---': book"
+    excerpt: "President Biden was \"torn\" about picking Vice President Harris as his running mate, according to a new book."
+    publishedDateTime: 2021-05-25T15:04:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8DkXMAmpt8Q/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 194
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6679eccc-96b1-4ce3-83f7-fa70660277b5/d0f7098a-504f-4d58-880b-025796475a38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Jill Biden said Kamala Harris can 'go f--- herself' after she attacked Joe Biden in first debate, book claims"
+    excerpt: "The relationship between the Bidens and Vice President Kamala Harris purportedly became messy after Harris -- then Joe Biden’s opponent in the primary -- came after the president for his record on busing and his boasts of his relationships with segregationist senators, according to journalist Edward"
+    publishedDateTime: 2021-05-19T18:00:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BwVqML3nqSQ/jill-biden-kamala-harris-go-f-herself-biden-debate-book"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3594866f-1e28-48b4-9186-03d4f5320bd3/676ae2fc-713c-46e6-b073-9d162b1094b3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris wipes hand after greeting South Korean leader, faces Twitter backlash"
     excerpt: "Many Americans have become more germ-conscious since the start of the coronavirus pandemic last year – but Vice President Kamala Harris may have made her concerns too conspicuous."
     publishedDateTime: 2021-05-23T05:29:46Z
@@ -64,21 +96,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Flashback: Harris protested at southern border in 2018, but hasn't visited since taking migrant role"
-    excerpt: "Vice President Kamala Harris has come under criticism from Republicans and former Trump officials for not having visited the border in her leading role in dealing with the migrant crisis -- although she visited in 2018 to protest Trump-era policies."
-    publishedDateTime: 2021-05-22T16:52:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gearmT8w5Mk/flashback-harris-southern-border-2018-migrant-role"
-    ampWebUrl: "https://www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp"
+  - title: "White House attests 'rise in hate' despite Biden pitch as 'unity' president"
+    excerpt: "A senior White House adviser on Sunday acknowledged a \"rise in hate\" amid increased attacks against Jewish and Asian Americans, despite President Biden's message of “unity\" early in his administration. "
+    publishedDateTime: 2021-05-23T19:08:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fz5uassccds/white-house-hate-crime-jewish-asian-biden-unity-president"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Jill Biden embraces Kamala Harris after ‘go f–k yourself’ reveal"
     excerpt: "First lady Jill Biden and Vice President Kamala Harris appeared to put the past aside when they hugged before a Medal of Honor ceremony for a Korean War vet."
@@ -127,6 +159,20 @@ related:
       - url: "https://assets.realclear.com/images/54/544114.jpg"
         width: 906
         height: 678
+        isCached: true
+  - title: "Joe Biden, Crisis Diplomat"
+    excerpt: "President Joe Biden made an unexpected appearance at the White House, in front of a press corps that had been hastily called back to work. Welcoming the apparent end of an eleven-day war between Israel and Hamas,"
+    publishedDateTime: 2021-05-23T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/23/joe_biden_crisis_diplomat_543402.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543986_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "Sxb8v6wzbmVC0wInQ09K8BuiBJlNKRM+UD6Xzp7ZnyFvxGGilTlskwvr4UU9eSw7QXXbldPXeWIQcb/bxDoFubLnCo2/9bGDUeHoNOqTFSgJ7+b29Rlc4SShMGjD7miIv0xGExGU3EWDDG+zcn0mfiGc4YJUzNkYRLyn2/rSSrp1FB6+HEnp02ve3gsH8nTDRZNjUpF0bNoox7vShwvdv8xCnosADqEUf505SGFs4vY/oFaLSraK/ZsLBeKRwmLtxOG6R3Ww/lFw/zXVoUfuy7QnAnCvepohMjK5J1FMsmwvWHokc39UqMKS9yaoVfyXm4dGSa8ZdIenGOF24/oXb3RvpdV/XO4DMLzIFrmLxws77JyAN1LkPHqe2Ls6f+k0CuAXpXn7NW6P0atm5+4+yLVrysykeZtZn0sT07+hERFTx2KSWBqsn3fReLMRamfby3Yip6czLy0TgRvQgOz+OxpeZ2tRgruh5PHT5BV1MgL1gf3UZNFXDYjellag5ObxX7rDmZ6iQX+GWkGla9CEAg==;YRoKag6Q5zZ2g2uy84RW2w=="

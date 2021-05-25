@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/joe-biden-cdc-mask-guida
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/joe-biden-cdc-mask-guidance/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 235
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476419/210520-joe-biden-hate-crime-bill-ew-258p_2e80140353ce2397c9f6ce4a6ecc838d.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "An insider’s guide to Biden and Israel"
-    excerpt: "The attorney general office’s investigation into the Trump Organization, which has been underway since 2019, will also continue as an ongoing civil probe, but the office recently informed Trump Organization officials of the criminal component."
-    publishedDateTime: 2021-05-19T10:08:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/05/19/an-insiders-guide-to-biden-and-israel-492905"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/2b/ea/d6b0c3a24b498c9bb67a8ec2d20e/gettyimages-1318714893.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "X1To2bBcCl8Cw2ReycMrTwDfxCOV5RVq5jHNX8G68BGKUfbjxQQOdJEz2DDibU2yMzdHyjjIJ5cYWOdn1pn2qXem3k3BSQxfL9kjuMBBAoTsgEPJkh1WpbU/IkwlqMfvoOr3uLHKwO2iwpAAfx8C4PTMgKkmqG+etRYyCjT505caX0yh2Hc4K4S+jbLvLmGpqp5rM0/LLRctCg+MXikfEyiGkY+c1PiYuFLwZfa5Y7AM2SWxjOggeRPo2oT5JJW4gI324bEUG84Crq3VlJFFIpun5wLC6Xym11C/dVqSbgjbXZ3c/0uuRBROlKlr8aX1Bg81yC77mzulcjNpFXiVTdo7uEEtZaU0Jh5SObL8GWY=;y0hDtFQkUiytEGrobyLudQ=="

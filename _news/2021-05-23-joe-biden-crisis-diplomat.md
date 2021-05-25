@@ -26,261 +26,149 @@ images:
     isCached: true
 
 related:
-  - title: "Biden kills Trump plan for ‘American heroes’ sculpture garden: report"
-    excerpt: "President Biden on Friday put an end to a plan by former President Trump to create a \"National Garden of American Heroes.\""
-    publishedDateTime: 2021-05-16T04:24:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fa38Y6zXu3I/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.amp"
+  - title: "Biden was 'torn' about picking VP Harris after presidential debate 'bull---': book"
+    excerpt: "President Biden was \"torn\" about picking Vice President Harris as his running mate, according to a new book."
+    publishedDateTime: 2021-05-25T15:04:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8DkXMAmpt8Q/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 190
+    quality: 194
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd258f5a-f722-49e3-8ed1-daf8fa8092f7/d584fb04-c012-4b5a-8229-3f06f67ed1ac/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6679eccc-96b1-4ce3-83f7-fa70660277b5/d0f7098a-504f-4d58-880b-025796475a38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden rolls back Trump order barring immigrants who can't afford health care"
-    excerpt: "President Biden revoked a Trump-era order that banned immigrants from obtaining visas who couldn’t prove they could obtain health insurance or pay for health care."
-    publishedDateTime: 2021-05-15T19:25:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aouJUnDSQ2g/biden-trump-order-barring-immigrants-cant-afford-health-care"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+  - title: "Jill Biden said Kamala Harris can 'go f--- herself' after she attacked Joe Biden in first debate, book claims"
+    excerpt: "The relationship between the Bidens and Vice President Kamala Harris purportedly became messy after Harris -- then Joe Biden’s opponent in the primary -- came after the president for his record on busing and his boasts of his relationships with segregationist senators, according to journalist Edward"
+    publishedDateTime: 2021-05-19T18:00:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BwVqML3nqSQ/jill-biden-kamala-harris-go-f-herself-biden-debate-book"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 187
+    quality: 181
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3594866f-1e28-48b4-9186-03d4f5320bd3/676ae2fc-713c-46e6-b073-9d162b1094b3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Trump mocks comparisons of Biden to Jimmy Carter: The current president is worse"
-    excerpt: "In a statement Wednesday, Donald Trump refuted a tweet issued by his son Donald Trump Jr. that claimed President Biden was “the next Jimmy Carter,” in an apparent slight last week."
-    publishedDateTime: 2021-05-12T22:04:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
+  - title: "Kamala Harris wipes hand after greeting South Korean leader, faces Twitter backlash"
+    excerpt: "Many Americans have become more germ-conscious since the start of the coronavirus pandemic last year – but Vice President Kamala Harris may have made her concerns too conspicuous."
+    publishedDateTime: 2021-05-23T05:29:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J93HpuDVsvk/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 179
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26e1be5f-4597-488c-bda1-97eb4a713daf/15b5b68a-7a61-4af3-9521-8b1cb29e3ec7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Senate Republicans call for Biden to restore Trump-era government transparency order"
-    excerpt: "EXCLUSIVE: Sen. Ron Johnson and 20 Republican senators on Tuesday urged President Biden restore a Trump-era executive order modeled after bipartisan legislation requiring federal agencies to post guidance documents in a searchable database, warning that since the measure was revoked, a number of federal"
-    publishedDateTime: 2021-05-19T01:32:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KRUAr9cTTQg/senate-republicans-call-for-biden-to-restore-trump-era-government-transparency-executive-order"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-republicans-call-for-biden-to-restore-trump-era-government-transparency-executive-order.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-republicans-call-for-biden-to-restore-trump-era-government-transparency-executive-order.amp"
+  - title: "VP Kamala Harris holds unusual bilateral meeting with a foreign leader at the White House"
+    excerpt: "Vice President Harris met with South Korean President Moon Jae-in Friday, without the participation of President Biden, and then the two appeared together to make a statement. A bilateral meeting at the White House between a U.S. vice president and a visiting head of state followed by a joint appearance"
+    publishedDateTime: 2021-05-22T02:14:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sjfy1LMs9xw/harris-holds-unusual-solo-bilateral-meeting-with-president"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 183
+    quality: 176
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48f7d31-128d-48ec-aca5-6fdc9d09c814/3d14acbf-614a-47fe-8bce-546e449638e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "White House attests 'rise in hate' despite Biden pitch as 'unity' president"
+    excerpt: "A senior White House adviser on Sunday acknowledged a \"rise in hate\" amid increased attacks against Jewish and Asian Americans, despite President Biden's message of “unity\" early in his administration. "
+    publishedDateTime: 2021-05-23T19:08:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fz5uassccds/white-house-hate-crime-jewish-asian-biden-unity-president"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Portland mayor 'grateful' for Biden reversal of Trump order that sent federal agents to city amid protests"
-    excerpt: "Portland, Ore., Mayor Ted Wheeler said on Saturday he was grateful for the White House’s “support” after President Biden reversed the Trump order that allowed federal agents to intervene in Portland’s riots last summer."
-    publishedDateTime: 2021-05-16T09:22:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7yEW-dZkGPk/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests"
-    ampWebUrl: "https://www.foxnews.com/politics/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1e65481-ff4e-4766-857b-6e321bc59558/b4376662-4f2d-4bf1-99e3-c371d941d68f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden doesn't believe there is ‘any significant portion' of Americans who won't get vaccinated"
-    excerpt: "President Biden seemed optimistic that his administration would reach its goal of having 70 percent of Americans vaccinated by July 4, saying that he doesn’t believe there is “any significant portion” of Americans who refuse to get vaccinated."
-    publishedDateTime: 2021-05-12T21:42:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUR0bQ6LhdU/biden-no-significant-portion-americans-vaccinated"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132743978141.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden's American Rescue Plan unemployment-benefit extension making it difficult to find workers, employers say"
-    excerpt: "Some U.S. small business and restaurant owners claim President Biden's unemployment benefit extension is making it difficult to hire new workers."
-    publishedDateTime: 2021-05-12T21:13:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ARaCfneKJY/labor-shortage-unemployment-benefits-nationwide"
-    ampWebUrl: "https://www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d7d67eb-4b1c-4f79-9450-c1a39e20f2f9/166277f7-f4f6-425b-9b23-f7b7151c5a78/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden scraps Trump Garden of Heroes honoring Kobe, Trebek, Bader Ginsburg"
-    excerpt: "President Joe Biden has revoked a trio of executive orders issued by former President Donald Trump that sought to punish vandalism of statues and to build a new National Garden of American Heroes. A July 2020 order envisioned a National Garden of American Heroes that “should be located on a site of natural beauty that enables visitors to enjoy nature,"
-    publishedDateTime: 2021-05-14T21:49:00Z
-    webUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/"
-    ampWebUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
+  - title: "Jill Biden embraces Kamala Harris after ‘go f–k yourself’ reveal"
+    excerpt: "First lady Jill Biden and Vice President Kamala Harris appeared to put the past aside when they hugged before a Medal of Honor ceremony for a Korean War vet."
+    publishedDateTime: 2021-05-21T22:14:00Z
+    webUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/"
+    ampWebUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 149
+    quality: 150
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/biden-tump-split.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/jill-biden-111.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden rolls back Trump order barring immigrants who can't afford health care"
-    excerpt: "President Biden revoked a Trump-era order that banned immigrants from obtaining visas who couldn’t prove they could obtain health insurance or pay for health care."
-    publishedDateTime: 2021-05-15T19:25:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+  - title: "Jill Biden, Kamala Harris share hug after reports of first lady's F-bomb toward VP"
+    excerpt: "Bygones appeared to be bygones at the White House Friday, with first lady Jill Biden getting chummy with Vice President Kamala Harris — days after a forthcoming book revealed Biden said Harris should “go f–k” herself for attacking her husband during the Democratic primaries."
+    publishedDateTime: 2021-05-22T07:26:00Z
+    webUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 147
+    quality: 144
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "'Really scary' to see gas shortages in first months of Biden admin: Lara Trump"
-    excerpt: "Fox News contributor Lara Trump sounded the alarm on America's energy independence under the Biden administration, Wednesday, telling \"Fox & Friends\" that the Colonial Pipeline cyberattack and resulting panic at the pump is \"really scary."
-    publishedDateTime: 2021-05-12T15:14:00Z
-    webUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump"
-    ampWebUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump likens Biden to Carter, citing gas crisis and Israel-Palestinian conflict"
-    excerpt: "Former President Donald Trump is comparing President Biden to Former President Jimmy Carter due to the recent gas shortage and tensions between Israel and Palestine."
-    publishedDateTime: 2021-05-12T21:20:00Z
-    webUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/"
-    ampWebUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
+  - title: "Kamala Harris criticized for wiping hand after handshake with SoKo president"
+    excerpt: "Vice President Kamala Harris is taking heat after a video emerged appearing to show her wipe her hand on her jacket after greeting South Korean President Moon Jae-in at the White House last"
+    publishedDateTime: 2021-05-24T19:22:00Z
+    webUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/"
+    ampWebUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 146
+    quality: 132
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-carter-biden.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/harris-moon-handshake-03.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Ingraham: Biden is out of gas, is now America's problem denier"
-    excerpt: "Fox News host Laura Ingraham claimed President Biden's \"incompetence and radicalism are a dangerous combination\" as he denies the several crises facing the nation on \"\""
-    publishedDateTime: 2021-05-12T04:36:00Z
-    webUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier"
-    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cef5a8b4-0514-4f78-af01-568c1de27822/1123ba03-d0ca-4194-b629-fe6ccc0d5548/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden is putting ‘America last’ by shutting down pipelines: Sen. Cotton"
-    excerpt: "Ark., told “The Faulkner Focus” Wednesday that President Biden is putting “America last” after he halted the Keystone pipeline, and gave the approval for a controversial gas pipeline to run from Russia to Germany."
-    publishedDateTime: 2021-05-19T17:02:00Z
-    webUrl: "https://www.foxnews.com/media/tom-cotton-on-the-faulkner-focus-biden-is-putting-america-last-by-shutting-down-pipelines"
-    ampWebUrl: "https://www.foxnews.com/media/tom-cotton-on-the-faulkner-focus-biden-is-putting-america-last-by-shutting-down-pipelines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tom-cotton-on-the-faulkner-focus-biden-is-putting-america-last-by-shutting-down-pipelines.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump takes his place in National Portrait Gallery’s ‘America’s Presidents’ exhibit"
-    excerpt: "Donald Trump has formally taken his place among American presidents of the past — or at least a portrait of him has. When the National Portrait Gallery in Washington reopened to visitors Friday after a six-month closure due to COVID-19,"
-    publishedDateTime: 2021-05-18T23:58:00Z
-    webUrl: "https://nypost.com/2021/05/18/trump-image-takes-place-in-national-portrait-gallery/"
-    ampWebUrl: "https://nypost.com/2021/05/18/trump-image-takes-place-in-national-portrait-gallery/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/trump-image-takes-place-in-national-portrait-gallery/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 129
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-national-gallery.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Biden Sets Everything on Fire"
-    excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
-    publishedDateTime: 2021-05-12T10:00:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
+  - title: "VP Kamala Harris Wipes Hand After Handshake With South Korea's President"
+    excerpt: "Vice President Kamala Harris holds a bilateral meeting South Korean President Moon Jae-in at the White House on Friday, May 21, 2021, in Washington, D.C."
+    publishedDateTime: 2021-05-24T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
+    quality: 84
     images:
-      - url: "https://assets.realclear.com/images/54/543021_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden To Meet With Republican Lawmakers On Infrastructure Plan"
-    excerpt: "President Joe Biden is set to meet with a group of six Republican lawmakers to discuss the administration’s proposed infrastructure plan and how to pay for it. This comes a day after Mr. Biden and Vice President Kamala Harris met with bipartisan leaders to discuss the deal."
-    publishedDateTime: 2021-05-13T17:17:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/543043.jpg"
-        width: 3117
-        height: 2078
+      - url: "https://assets.realclear.com/images/54/544114.jpg"
+        width: 906
+        height: 678
         isCached: true
 
 secured: "kGyJdlg6oT59/IHz5xy9lXCFM3IRhsuKwkABeT8c7bZF0EJLRiDpiYSTst7P0/+Rr5XmTeh8EhecDIvoN4iELLpZAfMBDCkbOS5XCA7oe1HikaHCohKPBzvNq1OvQs5QqNosHv1DCOjck/JHVyoQVog5NsO9NPiPCABqIIh7+BBqiVbfcKm0Ibx4Eq3KdOyWpOcBss8geNY4F4k4YqhvDZVz1JsmEQVThkh52NV0CqBcD9m5UE+PbzmW4ybB6+sGbqi4RfkzoXAKD/7le7Jli09HPDisFnBxYhq+SO3JsmVuF89PyTd+gmC1CI4GaZhtnJc85czWWqgemOtlyR/uUMAEny57JRms++NEp0XpZhg=;4PcMnxvY9RJIxkisNdSzMA=="

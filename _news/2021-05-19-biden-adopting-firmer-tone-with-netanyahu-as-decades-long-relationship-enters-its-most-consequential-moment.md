@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden condemns arrest of detained Belarusian dissident journalist"
+    excerpt: "President Joe Biden on Monday lambasted Belarus' sudden grounding of a commercial flight and subsequent arrest of onboard dissident journalist Roman Pratasevich as \"a direct affront to international norms.\"\n    \n"
+    publishedDateTime: 2021-05-25T01:35:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o-x7L6K3DeA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-arrest-belarus-journalist/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-arrest-belarus-journalist/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden meeting South Korean President as he turns his focus toward East Asia"
     excerpt: "President Joe Biden is set to meet with his South Korean counterpart President Moon Jae-in on Friday, the second in-person meeting with a world leader of his presidency as he seeks to turn his foreign policy focus back to East Asia.\n    \n"
     publishedDateTime: 2021-05-21T15:28:06Z
@@ -127,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence slams Biden for 'weakness' in handling of Israel-Hamas conflict"
+    excerpt: "Pence administration\" several times in the piece, using a phrase not often heard while he was in office. Former Vice President Mike Pence sharply criticized President Joe Biden in an op-ed Monday, calling the administration weak for its stance on the recent violent clashes between Israel and Palestinians."
+    publishedDateTime: 2021-05-18T04:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/pence-slams-biden-weakness-handling-israel-hamas-conflict-n1267719"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267719"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267719"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_20/3475555/214517-israel-iron-dome-missles-ac-953p_f99471a7be03d066bf80876d4fd3f3af.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Still buddies? Mideast violence tests Biden and Netanyahu’s friendship"
     excerpt: "As tensions rose between the White House and Israel almost seven years ago, then-Vice President Joe Biden assured a Jewish audience that he and Prime Minister Benjamin Netanyahu were “still buddies.” It didn’t matter that Netanyahu had treated Biden’s boss,"
     publishedDateTime: 2021-05-14T23:39:00Z
@@ -142,38 +174,6 @@ related:
       - url: "https://static.politico.com/e0/39/981bd05b41f38027444998b892bb/gettyimages-97574218-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Live Updates: Biden to Meet With South Korea’s President"
-    excerpt: "President Moon Jae-in of South Korea has said that one goal for his meeting with President Biden is bringing North Korea “back on the path of dialogue.” A Biden administration official says the United States will be at the forefront of efforts to help rebuild Gaza."
-    publishedDateTime: 2021-05-21T12:19:00Z
-    webUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today"
-    ampWebUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/21/us/21new-washington-briefing-promo3/21new-washington-briefing-promo3-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden Meets With South Korea’s President"
-    excerpt: "President Moon Jae-in of South Korea has said that one goal for his meeting with President Biden is bringing North Korea “back on the path of dialogue.” A Biden administration official says the United States will be at the forefront of efforts to help rebuild Gaza."
-    publishedDateTime: 2021-05-22T09:37:00Z
-    webUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today"
-    ampWebUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/21/us/21new-washington-briefing-korea-lede2/21new-washington-briefing-korea-lede2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "How Biden's Justice Department is trying to root out racist policing"
     excerpt: "You see a huge leap in progress. It can only be attributable to what happened over the course of the summer of 2020.”"

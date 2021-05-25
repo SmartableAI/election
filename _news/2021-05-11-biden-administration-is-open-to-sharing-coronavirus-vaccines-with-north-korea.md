@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/us-coronavirus-vaccines-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/us-coronavirus-vaccines-north-korea/index.html"
 type: article
 quality: 172
-heat: -1
-published: false
+heat: 232
+published: true
 
 provider:
   name: CNN
@@ -31,67 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration scrambles to respond to cyberattack on critical pipeline"
-    excerpt: "Biden administration officials worked urgently Monday to ascertain the scope and fallout of a ransomware attack on the Colonial Pipeline, which supplies much of the eastern United States its gasoline -- an incident that laid bare vulnerabilities in the country's aging energy infrastructure.\n    \n"
-    publishedDateTime: 2021-05-10T17:27:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mxgCsj0tK9o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/colonial-pipeline-white-house-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/colonial-pipeline-white-house-reaction/index.html"
+  - title: "Biden dismisses McConnell's pledge to focus 'on stopping this new administration'"
+    excerpt: "President Joe Biden responded on Wednesday to Senate Minority Leader Mitch McConnell's comment that \"100%\" of his focus is \"on stopping this new administration,\" asserting that he had heard such threats from the Kentucky Republican before and worked through them.\n    \n"
+    publishedDateTime: 2021-05-05T20:56:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3-dkiCWW_-c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/biden-mcconnell-100-stopping-new-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/biden-mcconnell-100-stopping-new-administration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210508093128-file-colonial-pipeline-alabama-2016-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says fuel situation will be 'under control' soon after officials warn against hoarding gas"
-    excerpt: "President Joe Biden said that the fuel situation in the US should be \"under control\" soon, just minutes before Colonial Pipeline announced it initiated the restart of its pipeline operations following a recent ransomware attack.\n    \n"
-    publishedDateTime: 2021-05-12T21:40:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/53rscxwamLY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/biden-officials-warn-hoarding-gasoline/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/biden-officials-warn-hoarding-gasoline/index.html"
+  - title: "Biden sets goal of administering at least one Covid-19 vaccine shot to 70% of US adult population by July 4"
+    excerpt: "President Joe Biden on Tuesday will set a new goal of administering at least one Covid-19 vaccine dose to 70% of the US adult population and having 160 million US adults fully vaccinated by July 4, according to senior administration officials.\n    \n"
+    publishedDateTime: 2021-05-04T19:33:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwxm92ZyKxE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/biden-covid-goals-july-4/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/biden-covid-goals-july-4/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512111816-01-pipeline-gas-fallout-0512-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden signs cybersecurity executive order, though rules wouldn't have applied to Colonial Pipeline"
-    excerpt: "President Joe Biden signed an executive order Wednesday meant to better protect the nation from cyberattacks, but even as he signed it, the White House acknowledged more will need to be done to prevent the type of hack that affected the Colonial Pipeline.\n    \n"
-    publishedDateTime: 2021-05-12T22:51:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512155902-04-pipeline-hack-fallout-0512-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden won't rule out a retaliatory cyberattack on group responsible for pipeline hack and says Russia isn't to blame"
-    excerpt: "President Joe Biden said Thursday he does not believe the Russian government was behind a cyberattack that shut down the pipeline supplying gasoline to the eastern US but said Moscow must do more to stop such attacks coming from Russia.\n    \n"
-    publishedDateTime: 2021-05-13T19:06:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YGEkudKnwU4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/cyberattack-russia-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/cyberattack-russia-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 152
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513132103-02-biden-colonial-pipeline-remarks-0513-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504134315-02-biden-covid-remarks-0504-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

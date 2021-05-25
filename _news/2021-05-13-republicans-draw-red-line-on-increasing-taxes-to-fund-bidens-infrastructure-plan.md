@@ -47,54 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden tries to sell his agenda while Republicans go after their own "
-    excerpt: "President Joe Biden met Republican criticisms of his economic proposals head-on Friday, citing disappointing jobs data as a call to action for more government spending and brushing aside concerns that generous expanded unemployment benefits have kept Americans from returning to work.\n    \n"
-    publishedDateTime: 2021-05-08T04:02:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fbBT6xPcIpM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/08/politics/joe-biden-jobs-numbers-republicans-cheney-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/08/politics/joe-biden-jobs-numbers-republicans-cheney-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Joe Biden can't stop thinking about China and the future of American democracy"
-    excerpt: "White House aides were prepping President Joe Biden to virtually tour an electric vehicle battery manufacturing plant last week when the President suddenly shifted the conversation to something else entirely: China and the fate of democracy.\n    \n"
-    publishedDateTime: 2021-04-29T12:16:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fDLTDtTwHrE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220345-41-biden-address-0428-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden tells trans Americans he has their back as GOP governors sign more anti-trans bills"
-    excerpt: "President Joe Biden pledged his support for transgender Americans during his address to a joint session of Congress on Wednesday, telling members of the community he's standing by them at a time when they face a barrage of attacks by GOP-led state legislatures.\n    \n"
-    publishedDateTime: 2021-04-29T17:23:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GrlKJ2KN80k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212311-17-biden-address-0428-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden says he no longer understands Republicans. He has a chance to figure the GOP out this week."
     excerpt: "President Joe Biden used a fleeting handshake moment below Air Force One this week to pitch two Republican senators on his plan for infrastructure.\n    \n"
     publishedDateTime: 2021-05-09T12:00:23Z

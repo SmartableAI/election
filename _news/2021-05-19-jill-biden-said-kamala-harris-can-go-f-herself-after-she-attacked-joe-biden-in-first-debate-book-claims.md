@@ -32,285 +32,147 @@ images:
     isCached: true
 
 related:
-  - title: "Pelosi says she has confidence in Harris addressing root cause of border crisis"
-    excerpt: "House Speaker Nancy Pelosi said Thursday she has confidence in Vice President Kamala Harris' ability to address the root causes of the border crisis and touted progress the Biden Administration has already made to \"reconstruct\" the immigration system. "
-    publishedDateTime: 2021-05-13T17:51:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkMu7NMsm70/pelosi-harris-root-cause-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp"
+  - title: "Biden was 'torn' about picking VP Harris after presidential debate 'bull---': book"
+    excerpt: "President Biden was \"torn\" about picking Vice President Harris as his running mate, according to a new book."
+    publishedDateTime: 2021-05-25T15:04:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8DkXMAmpt8Q/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 181
+    quality: 194
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6679eccc-96b1-4ce3-83f7-fa70660277b5/d0f7098a-504f-4d58-880b-025796475a38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris wipes hand after greeting South Korean leader, faces Twitter backlash"
+    excerpt: "Many Americans have become more germ-conscious since the start of the coronavirus pandemic last year – but Vice President Kamala Harris may have made her concerns too conspicuous."
+    publishedDateTime: 2021-05-23T05:29:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J93HpuDVsvk/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "VP Kamala Harris holds unusual bilateral meeting with a foreign leader at the White House"
+    excerpt: "Vice President Harris met with South Korean President Moon Jae-in Friday, without the participation of President Biden, and then the two appeared together to make a statement. A bilateral meeting at the White House between a U.S. vice president and a visiting head of state followed by a joint appearance"
+    publishedDateTime: 2021-05-22T02:14:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sjfy1LMs9xw/harris-holds-unusual-solo-bilateral-meeting-with-president"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48f7d31-128d-48ec-aca5-6fdc9d09c814/3d14acbf-614a-47fe-8bce-546e449638e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "White House attests 'rise in hate' despite Biden pitch as 'unity' president"
+    excerpt: "A senior White House adviser on Sunday acknowledged a \"rise in hate\" amid increased attacks against Jewish and Asian Americans, despite President Biden's message of “unity\" early in his administration. "
+    publishedDateTime: 2021-05-23T19:08:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fz5uassccds/white-house-hate-crime-jewish-asian-biden-unity-president"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Kamala Harris keeps assets in tax-advantaged trust, appearing to violate own ethics pledge"
-    excerpt: "Vice President Kamala Harris keeps assets in a tax-advantaged family trust, a move that appears to violate an ethics pledge she and President Biden made on the campaign trail."
-    publishedDateTime: 2021-05-19T16:51:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5QOurbf2wEI/kamala-harris-financial-disclosure-assets-trust-ethics-pledge"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de3a1e91-b0da-44c6-9238-915f4385cf4b/6d6c657b-0a98-4c5d-b6af-d33cd0ebeecc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Rep. Hinson to introduce bill halting funding for Harris travel costs until she visits border"
-    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, on Thursday will introduce a bill that would bar taxpayer money being used for the travel expenses for Vice President Kamala Harris until she visits the southern border and issues a report on how to solve the crisis."
-    publishedDateTime: 2021-05-20T10:00:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hYVH_PNiLNY/rep-hinson-bill-kamala-harris-travel-costs-border-visit"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-hinson-bill-kamala-harris-travel-costs-border-visit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-hinson-bill-kamala-harris-travel-costs-border-visit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Arizona AG calls for Harris to be removed from border role amid continued high migrant numbers"
-    excerpt: "FIRST ON FOX: Arizona Attorney General Mark Brnovich is calling for Vice President Kamala Harris to be replaced in her role spearheading the administration’s diplomatic efforts to end the crisis at the southern border -- a day after Customs and Border Protection (CBP) announced that the number of migrant"
-    publishedDateTime: 2021-05-12T19:19:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iuNIU_Tro3Y/arizona-ag-harris-removed-border-role-migrant-numbers"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Controversial billboard calls Biden, Harris ‘s–theads’ in Maryland"
-    excerpt: "The sign on Route 4 in Huntingtown shows cartoon faces of the smiling commander-in-chief Joe Biden and his number two stuck on top of large emoji-style drawings of poop."
-    publishedDateTime: 2021-05-12T14:52:00Z
-    webUrl: "https://nypost.com/2021/05/12/maryland-billboard-calling-biden-harris-s-theads-raises-stink/"
-    ampWebUrl: "https://nypost.com/2021/05/12/maryland-billboard-calling-biden-harris-s-theads-raises-stink/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/maryland-billboard-calling-biden-harris-s-theads-raises-stink/amp/"
+  - title: "Jill Biden embraces Kamala Harris after ‘go f–k yourself’ reveal"
+    excerpt: "First lady Jill Biden and Vice President Kamala Harris appeared to put the past aside when they hugged before a Medal of Honor ceremony for a Korean War vet."
+    publishedDateTime: 2021-05-21T22:14:00Z
+    webUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/"
+    ampWebUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 150
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/maryland-billboard-98.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/jill-biden-111.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "VP Kamala Harris cheers Ella Emhoff on her college graduation"
-    excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
-    publishedDateTime: 2021-05-15T23:55:00Z
-    webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
-    ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
+  - title: "Jill Biden, Kamala Harris share hug after reports of first lady's F-bomb toward VP"
+    excerpt: "Bygones appeared to be bygones at the White House Friday, with first lady Jill Biden getting chummy with Vice President Kamala Harris — days after a forthcoming book revealed Biden said Harris should “go f–k” herself for attacking her husband during the Democratic primaries."
+    publishedDateTime: 2021-05-22T07:26:00Z
+    webUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris criticized for wiping hand after handshake with SoKo president"
+    excerpt: "Vice President Kamala Harris is taking heat after a video emerged appearing to show her wipe her hand on her jacket after greeting South Korean President Moon Jae-in at the White House last"
+    publishedDateTime: 2021-05-24T19:22:00Z
+    webUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/"
+    ampWebUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 135
+    quality: 132
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/harris-moon-handshake-03.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "VP Kamala Harris cheers Ella Emhoff on Parsons graduation"
-    excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
-    publishedDateTime: 2021-05-15T23:55:00Z
-    webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
-    ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris keeps list of reporters who don’t ‘understand’ her: report"
-    excerpt: "Kamala Harris and her team, according to a profile of the VP published by The Atlantic, typically “dismiss” reporters and “tracks political players and reporters whom she thinks"
-    publishedDateTime: 2021-05-19T14:57:00Z
-    webUrl: "https://nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/"
-    ampWebUrl: "https://nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-reporters-7.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Christian minister sues Nancy Pelosi, Kamala Harris over access to Capitol"
-    excerpt: "A Christian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the Capitol Police Board, and the Sergeant of Arms for the Senate — saying he was denied access to"
-    publishedDateTime: 2021-03-31T16:51:00Z
-    webUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/"
-    ampWebUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/rev-mahoney-suing-harris-pelosi-fences-hp2.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Campos-Duffy slams Kamala Harris’ border absence: Media giving her ‘free pass’"
-    excerpt: "Fox News contributor Rachel Campos-Duffy on \"Outnumbered\" Friday slammed Kamala Harris’ border absence and the media giving her a \"free pass.\""
-    publishedDateTime: 2021-05-07T20:45:00Z
-    webUrl: "https://www.foxnews.com/media/campos-duffy-slams-kamala-harris-border-absence-media-giving-her-free-pass"
-    ampWebUrl: "https://www.foxnews.com/media/campos-duffy-slams-kamala-harris-border-absence-media-giving-her-free-pass.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/campos-duffy-slams-kamala-harris-border-absence-media-giving-her-free-pass.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Kamala Harris keeps list of reporters who don't ' fully understand her:' report"
-    excerpt: "Vice President Kamala Harris reportedly keeps a list of journalists and media members who she feels \"don't fully understand her.\" A profile of Harris published in The Atlantic claims that the vice president and her staff keep track of journalists ..."
-    publishedDateTime: 2021-05-19T22:45:00Z
-    webUrl: "https://www.foxnews.com/media/kamala-harris-keeps-list-of-reporters-who-dont-fully-understand-her-report"
-    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-keeps-list-of-reporters-who-dont-fully-understand-her-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-keeps-list-of-reporters-who-dont-fully-understand-her-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9cc64e-3031-4674-8195-c7abe250b4f8/4f273b67-7f3e-496b-bba3-09feaace0a1f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris keeps assets in tax-advantaged trust, appearing to violate own ethics pledge"
-    excerpt: "Vice President Kamala Harris keeps assets in a tax-advantaged family trust, a move that appears to violate an ethics pledge she and President Biden made on the campaign trail."
-    publishedDateTime: 2021-05-19T20:21:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de3a1e91-b0da-44c6-9238-915f4385cf4b/6d6c657b-0a98-4c5d-b6af-d33cd0ebeecc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "CNN touts Kamala Harris as part of 'star-studded' graduation special featuring liberal celebrities"
-    excerpt: "Vice President Kamala Harris will keynote what CNN calls a “star-studded\" network special honoring the Class of 2021 featuring other liberal celebrities, the network announced on Wednesday."
-    publishedDateTime: 2021-05-20T17:51:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-touts-kamala-harris-star-studded-graduation-special-featuring-liberal-celebrities"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-touts-kamala-harris-star-studded-graduation-special-featuring-liberal-celebrities.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-touts-kamala-harris-star-studded-graduation-special-featuring-liberal-celebrities.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f472a982-3e78-4cf6-8ffd-5e458ff49499/3d19a006-1501-40a4-9bbc-9ca646c80a41/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris’ niece says those who are neutral on Israel-Gaza have ‘chosen the side of the oppressor’"
-    excerpt: "Vice President Kamala Harris’ niece Meena offered a more forceful take on the Israel-Gaza unrest Wednesday than that of her aunt, urging people to fight “Palestinian oppression.”"
-    publishedDateTime: 2021-05-14T00:41:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/Meena-Harris-GETTY.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Arizona AG calls for Harris to be removed from border role amid continued high migrant numbers"
-    excerpt: "Arizona Attorney General Mark Brnovich is calling for Vice President Kamala Harris to be replaced in her role spearheading the administration’s diplomatic efforts to end the crisis at the southern border -- a day after Customs and Border Protection (CBP) announced that the number of migrant encounters had again risen."
-    publishedDateTime: 2021-05-12T19:19:00Z
-    webUrl: "https://www.foxnews.com/politics/arizona-ag-harris-removed-border-role-migrant-numbers"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 103
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris: Looking At How We Can Address The Root Causes Of Migration Is \"One Of My Areas Of Focus\""
-    excerpt: "Vice President Kamala Harris met with leaders of the Congressional Hispanic Caucus Monday afternoon to discuss the \"root causes\" of migration. \"We are going to talk about and work together — and again,"
-    publishedDateTime: 2021-05-17T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.amp.html"
+  - title: "VP Kamala Harris Wipes Hand After Handshake With South Korea's President"
+    excerpt: "Vice President Kamala Harris holds a bilateral meeting South Korean President Moon Jae-in at the White House on Friday, May 21, 2021, in Washington, D.C."
+    publishedDateTime: 2021-05-24T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 69
+    quality: 84
     images:
-      - url: "https://assets.realclear.com/images/54/543529.jpg"
-        width: 1038
-        height: 778
+      - url: "https://assets.realclear.com/images/54/544114.jpg"
+        width: 906
+        height: 678
         isCached: true
-  - title: "Kamala Harris's Impossible Vice Presidency"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-05-17T11:39:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
+  - title: "Joe Biden, Crisis Diplomat"
+    excerpt: "President Joe Biden made an unexpected appearance at the White House, in front of a press corps that had been hastily called back to work. Welcoming the apparent end of an eleven-day war between Israel and Hamas,"
+    publishedDateTime: 2021-05-23T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/23/joe_biden_crisis_diplomat_543402.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/54/543462_5_.jpg"
+      - url: "https://assets.realclear.com/images/54/543986_5_.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "VP Kamala Harris: \"In My Life, My Lived Experience, I Have Seen How Hate Can Pervade Our Communities\""
-    excerpt: "Vice President Harris spoke at a signing ceremony for an anti-hate crimes bill Thursday from the White House. \"Those here today are united. This bill brings us one step closer to stopping hate, not only for Asian-Americans,"
-    publishedDateTime: 2021-05-20T19:12:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 50
-    images:
-      - url: "https://assets.realclear.com/images/54/543796.jpg"
-        width: 750
-        height: 562
         isCached: true
 
 secured: "IlLUPTtcexPo0huwsFWfecmtFOeoEROeY8Jne9Whs3oumertZRkxWHbj22MrLVDmHH1xFVXo/YZ7iFZJOJJRIPEVQCWIEp1NPXgjo64ANh6ToCxoqj1CX4rPVUPbr8woclzbGvPiBQ2Wmd2GJ7fzrm5G6RkXMFHOGWC43ME0cH58APtSL5eLWNLozRtOmNE4NNjhtOQpuYHUynQJrEuDKvSq0mBXxysYmW5WoJwC8iSnTZ0P+L4jScy4FwW7fL3GyWvWUEdrIE1GUFSX8AyJVQJAb6Gx60I5MJpPOWAPBBNdi95N+FZQCU/y5StxA1yS4T+JgHpThDDuEai0xiMztXIbImN7suKDeLP1gXuOZkM=;wjYNYQfbe3wCDgvg4E6brg=="

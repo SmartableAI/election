@@ -32,85 +32,225 @@ images:
     isCached: true
 
 related:
-  - title: "Biden takes new electric F-150 for a test drive: 'This sucker's quick'"
-    excerpt: "It's not every day an American president gets to speed down a driving course in an electric pick-up truck trailed by Secret Service. But on Tuesday, President Joe Biden did just that.\n    \n"
-    publishedDateTime: 2021-05-18T21:44:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nV4b01EMz3Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/index.html"
+  - title: "George Floyd's family to meet with Biden and Harris at White House "
+    excerpt: "President Joe Biden and Vice President Kamala Harris will meet on Tuesday with the family of George Floyd exactly one year after he was killed by a Minneapolis police officer, sparking nationwide protests against racism and police brutality.\n    \n"
+    publishedDateTime: 2021-05-25T15:05:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rwTpMRPG4lI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200608151857-biden-floyd-family-meeting-0608-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden and Harris condemn recent attacks on Jewish community in US and abroad"
+    excerpt: "President Joe Biden and Vice President Kamala Harris on Monday condemned recent attacks toward the Jewish community after several Jewish people were targeted in cities across the US and abroad as tensions flare over the Israeli-Palestinian conflict.\n    \n"
+    publishedDateTime: 2021-05-24T15:30:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wrjLWY7sFKc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-attacks-jewish/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-attacks-jewish/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 197
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Kamala Harris to keynote star-studded CNN special honoring Class of 2021 "
+    excerpt: "CNN will air a star-studded prime-time special on Sunday honoring the class of 2021, as millions of students across the nation graduate following a year shaped by the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-05-19T13:01:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wTDYD8RvPEw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/us/2021-graduation-cnn/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/us/2021-graduation-cnn/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200707101823-us-college-graduation-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to host George Floyd's family on anniversary of his death"
+    excerpt: "President Joe Biden will host the family of George Floyd at the White House on Tuesday to mark the one-year anniversary of his death at the hands of police, a White House official confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-05-23T13:58:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSTwWUAtvPM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518155052-01-biden-ford-f-150-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420195034-joe-biden-april-20-2021-02-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's 'quiet' answer to a foreign policy test"
-    excerpt: "President Joe Biden's foreign policy doctrine came into sharper relief this week as tensions came to a boil between Israel and Hamas in Gaza.\n    \n"
-    publishedDateTime: 2021-05-21T22:30:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f4tVIKMzUjQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/biden-israel-gaza-gop-january-6-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/biden-israel-gaza-gop-january-6-trump/index.html"
+  - title: "White House lays the groundwork for high-profile Kamala Harris visit to Mexico and Guatemala "
+    excerpt: "The White House is laying down the groundwork ahead of Vice President Kamala Harris' first trip abroad as the lead on diplomatic efforts in Central America, hoping to finalize its strategy to take on the root causes of migration before she lands, multiple sources told CNN.\n    \n"
+    publishedDateTime: 2021-05-19T15:02:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tRAlRJhM_xU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/harris-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/harris-immigration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505175834-kamala-viaje-avion-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden weathers his first foreign crisis after months focusing on domestic troubles"
-    excerpt: "It was before 8 a.m. ET on Wednesday and President Joe Biden was on the phone with Israeli Prime Minister Benjamin Netanyahu for the fourth time in a week.\n    \n"
-    publishedDateTime: 2021-05-22T13:54:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q81nQxkU8HE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/biden-foreign-policy-middle-east-asia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/biden-foreign-policy-middle-east-asia/index.html"
+  - title: "Biden to host George Floyd's family next week on anniversary of his death"
+    excerpt: "President Joe Biden will host the family of George Floyd at the White House on Tuesday to mark the one-year anniversary of his death at the hands of police, a White House official confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-05-22T14:59:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSTwWUAtvPM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420195034-joe-biden-april-20-2021-02-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true
-  - title: "For Biden, foreign policy has taken a backseat to domestic affairs"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2021-05-21T12:51:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/biden-foreign-policy-has-taken-backseat-domestic-affairs-n1268123"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268123"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268123"
+  - title: "Lawmakers see promise in police reform negotiations as Biden plans meeting with George Floyd's family"
+    excerpt: "President Joe Biden will mark the solemn anniversary of George Floyd's death this week by hosting Floyd's family at the White House, giving the President a fresh chance to pressure lawmakers on Capitol Hill to reach an agreement on police reform legislation.\n    \n"
+    publishedDateTime: 2021-05-23T15:24:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xZjJQSr2Mqc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/23/politics/joe-biden-george-floyd-police-reform/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/joe-biden-george-floyd-police-reform/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504000658-us-capitol-building-0429-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Inside Story of the Biden-Harris Debate Blowup"
+    excerpt: "President Joe Biden and Vice President Kamala Harris have appeared so in lockstep that it’s hard to remember how tense their early campaign days were."
+    publishedDateTime: 2021-05-19T09:45:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/4c/03/650d2bf0425bb20686ba6b0bc31c/dovere-final-copy.jpg"
+        width: 2320
+        height: 1546
+        isCached: true
+  - title: "Live Updates: Biden to Meet With South Korea’s President"
+    excerpt: "President Moon Jae-in of South Korea has said that one goal for his meeting with President Biden is bringing North Korea “back on the path of dialogue.” A Biden administration official says the United States will be at the forefront of efforts to help rebuild Gaza."
+    publishedDateTime: 2021-05-21T12:19:00Z
+    webUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476596/210521-israeli-artillery-unit-al-0807_3a9a9fcb6d0b7bb975e50dd12b4a101c.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static01.nyt.com/images/2021/05/21/us/21new-washington-briefing-promo3/21new-washington-briefing-promo3-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Ford reveals new electric F-150 Lightning pickup during Biden's visit to Michigan plant"
-    excerpt: "The highly anticipated vehicle resembles the automaker’s current F-150 but has some unique exterior styling details."
-    publishedDateTime: 2021-05-19T13:56:00Z
-    webUrl: "https://www.nbcnews.com/business/autos/ford-reveals-new-electric-f-150-lightning-pickup-during-biden-n1267904?via=indexdotco"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267904"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267904"
+  - title: "Biden Meets With South Korea’s President"
+    excerpt: "President Moon Jae-in of South Korea has said that one goal for his meeting with President Biden is bringing North Korea “back on the path of dialogue.” A Biden administration official says the United States will be at the forefront of efforts to help rebuild Gaza."
+    publishedDateTime: 2021-05-22T09:37:00Z
+    webUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/21/us/joe-biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/21/us/21new-washington-briefing-korea-lede2/21new-washington-briefing-korea-lede2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris broke multiple barriers and found a tricky balancing act on the other side"
+    excerpt: "Ami Bera described to Kamala Harris how he felt when he saw the ubiquitous photo that accompanied the coverage of her selection as vice president, of her as a child standing next to her mother clad in a traditional Indian sari."
+    publishedDateTime: 2021-05-18T08:45:00Z
+    webUrl: "https://www.politico.com/news/2021/05/18/kamala-harris-asian-americans-489213"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/18/kamala-harris-asian-americans-489213"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/18/kamala-harris-asian-americans-489213"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 126
+    images:
+      - url: "https://static.politico.com/c7/53/5be6f724454ea64041e61792792b/kamala-india-8.JPG"
+        width: 1200
+        height: 764
+        isCached: true
+  - title: "George Floyd's brother says President Biden called his family to say he is praying for them"
+    excerpt: "After closing arguments Monday, Philonise Floyd said he's \"optimistic\" about the outcome of the trial against Derek Chauvin."
+    publishedDateTime: 2021-04-20T13:48:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/president-biden-called-george-floyd-s-family-say-he-praying-n1264612"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264612"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264612"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 127
+    quality: 125
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_20/3475988/210519-joe-biden-ford-f150-jm-0848_b5550c89172a3a9195342fcfa5ab57fa.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464044/210412-philonise-floyd-jm-1115_832f2cca25835970ae5e23fefa0cc317.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "An insider’s guide to Biden and Israel"
+    excerpt: "The attorney general office’s investigation into the Trump Organization, which has been underway since 2019, will also continue as an ongoing civil probe, but the office recently informed Trump Organization officials of the criminal component."
+    publishedDateTime: 2021-05-19T10:08:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/05/19/an-insiders-guide-to-biden-and-israel-492905"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/2b/ea/d6b0c3a24b498c9bb67a8ec2d20e/gettyimages-1318714893.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Harris, White House betting on Guatemala to help stem migrant influx"
+    excerpt: "The Biden administration is most optimistic about working with Guatemala because it’s willing to talk about the tough issues. And it’s not Honduras or El Salvador."
+    publishedDateTime: 2021-05-23T10:55:00Z
+    webUrl: "https://www.politico.com/news/2021/05/23/harris-guatemala-migrant-crisis-490288"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/eb/05/d00fe5b34262b093e34e3fd4e07a/gettyimages-1319254742-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "2fJKh/W9Z83dS96caJszYLWHKLo10Mlu7RH574ZerjP3KP7eFvqMfXTrzN+vC4+T4G7zCz266BZyhG5YhAUBc053NnLMjiRWVNGCiErwoSkO6CNVQZ4vAojQH3IH+tY0P75h7vQORwUmT2SVjdBJWnieqj7PstOYwFqwR2xSj7krXb13gNAqE8E2CGpmGRdbRhxODRTP6BwhxhSJZun7B6mUrVFuMdOBHCPlj4FeUlWpu4EcEWGw+PS3LnXymWtLkn+AgiVtppC2NohRkaVzKDClRXo4MIt4GgQvmR0r9M20M5NeMTyLcsSWOCTNszEdj0ey76DS4cEHk1eiUL98dYFuixhdvsKQjkWba4x62El5BrRHrZnJsIiS62bapBRJAxhgnJyobjH6sr+7c0FbjUl051EnbfZk3oflUzTuiONBveiyHLWjGw7Cd+e5eIb06nwGbtL2rXinPgaBLdElo2zQJ+JsLMC5/MgcjNBFCWQ+/Oype7bkdTRLgllJ8tSVB06EbH+7AU07AoACIFFAXg==;DJs56B2PboAjPNcL5GpZ4g=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/joe-biden-100-days-progr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/joe-biden-100-days-progressives-analysis/index.html"
 type: article
 quality: 168
-heat: 188
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "'Most certainly': Manchin raises concerns about Biden's push for more expansive government"
-    excerpt: "Sen. Joe Manchin, the powerful West Virginia Democrat, made clear Thursday that the aggressive vision for the federal government that President Joe Biden laid out to the nation must first face scrutiny in Congress, signaling the long slog ahead facing the White House's sweeping domestic agenda.\n    \n"
-    publishedDateTime: 2021-04-29T15:47:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K1Csfmoz1l4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/joe-manchin-biden-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/joe-manchin-biden-reaction/index.html"
+  - title: "Janet Yellen says critics of Biden's tax hikes are asking the wrong question  "
+    excerpt: "Doctors follow the Hippocratic oath: do no harm. The architects of President Joe Biden's tax increases took a somewhat different approach.\n    \n"
+    publishedDateTime: 2021-05-02T11:06:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ULQQIWvOXv8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/02/politics/janet-yellen-biden-tax-hikes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/02/politics/janet-yellen-biden-tax-hikes/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223152543-joe-manchin-january-27-2021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200113043352-janet-yellen-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-hate-can-be-given-no-saf
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp"
 type: article
 quality: 168
-heat: -1
-published: false
+heat: 208
+published: true
 
 provider:
   name: Fox News
@@ -31,35 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "White House attests 'rise in hate' despite Biden pitch as 'unity' president"
-    excerpt: "A senior White House adviser on Sunday acknowledged a \"rise in hate\" amid increased attacks against Jewish and Asian Americans, despite President Biden's message of “unity\" early in his administration. "
-    publishedDateTime: 2021-05-23T19:08:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fz5uassccds/white-house-hate-crime-jewish-asian-biden-unity-president"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-hate-crime-jewish-asian-biden-unity-president.amp"
+  - title: "Biden condemns arrest of Belarusian opposition figure, calls diverted flight a 'shameful assault'"
+    excerpt: "President Biden demanded the release of Belarusian opposition journalist Raman Pratasevich on Monday after he was arrested following a forced diversion of his Ryanair flight from Greece to Lithuania."
+    publishedDateTime: 2021-05-25T02:01:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sblL3GGzwF8/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-condemns-arrest-belarusian-opposition-figure-diverted-flight.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Despite CDC mask guidance, Biden admin may still issue workplace mandate"
-    excerpt: "The Occupational Safety and Health Administration may still issue a workplace mask mandate consistent with a January executive order from President Biden despite new Centers for Disease Control and Prevention guidelines that vaccinated Americans do not need to wear masks indoors."
-    publishedDateTime: 2021-05-24T17:33:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aojlNQN0DhU/biden-cdc-mask-guidance-workplace-possible-mandate"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 154
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/mask_mandate_istock.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2be256f3-6cab-48ee-8997-02148a29a3d2/96fc745e-3546-4970-83d1-2b874e7dd4e9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "President Biden: \"Every Time We Let Hate Flourish, We Make A Lie Of Who We Are As A Nation\""
     excerpt: "President Biden is set to sign the COVID-19 Hate Crimes Act into law at 2:00 pm on Thursday. President Biden and Vice President Harris will deliver remarks from the East Room at the White House."

@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Harris says verdict in Chauvin trial 'will not heal the pain that existed for generations'"
-    excerpt: "Vice President Kamala Harris said Tuesday the country is hungry for justice following the death of George Floyd, but acknowledged even a verdict finding former Minneapolis police officer Derek Chauvin guilty of Floyd's murder would not erase generations of trauma caused by systemic racism.\n    \n"
-    publishedDateTime: 2021-04-20T21:28:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QoaheN4QN_U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/kamala-harris-chauvin-trial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/kamala-harris-chauvin-trial/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420165006-kamala-harris-intv-bash-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden called George Floyd's brother as nation awaits verdict in Derek Chauvin trial"
     excerpt: "President Joe Biden called George Floyd's brother Philonise Floyd on Monday as his family and the nation await a verdict in the trial of former Minneapolis police Officer Derek Chauvin.\n    \n"
     publishedDateTime: 2021-04-20T12:49:33Z
@@ -63,54 +47,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170509-02-biden-russia-comments-0415-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden says verdict in Chauvin trial could be a step toward racial justice in America and urges country to come together"
-    excerpt: "President Joe Biden said Tuesday the country could take a step toward racial justice after a jury found a former Minneapolis police officer guilty of murdering George Floyd in a case that was closely watched around the world.\n    \n"
-    publishedDateTime: 2021-04-20T23:34:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oF-eYeJWgaA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/white-house-president-biden-derek-chauvin-trial-statement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/white-house-president-biden-derek-chauvin-trial-statement/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 151
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420192115-04-biden-harris-chauvin-verdict-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "President Biden calls George Floyd family after Chauvin guilty verdict"
-    excerpt: "President Joe Biden and Vice President Kamala Harris spoke with the family of George Floyd after Derek Chauvin was found guilty, with Biden saying \"we're all so relieved.\""
-    publishedDateTime: 2021-04-20T22:17:00Z
-    webUrl: "https://www.nbcnews.com/video/president-biden-calls-george-floyd-family-after-chauvin-guilty-verdict-110543941911"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo110543941911"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo110543941911"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202104/1618956629547_nbc_spec_biden_call_210420_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden to call for peaceful protests in response to Chauvin guilty on all counts verdict"
-    excerpt: "President Joe Biden is expected to speak in response to Derek Chauvin being convicted on all counts, in the death of George Floyd. Biden will call for peaceful protests and marches in the coming days."
-    publishedDateTime: 2021-04-20T21:38:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-to-call-for-peaceful-protests-in-response-to-chauvin-guilty-on-all-counts-verdict-110544453553"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo110544453553"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo110544453553"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202104/1618954400263_nbc_spec_welker_biden_210420_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "6McrSltOih9DeKuMqlWf8ravBnWQSHkkoZz7h2iTMAvNnQQMdl5hklQ5h4B4iDnyVJkfN6D/3kGjNQSklArbCe+oMq4iMFBlmZq9pOTO/p7Vm15idmc0BBtAVNF4dXZ0TdTD5CatUJc4zFEDYqUYnht3Md36S3uX9Gy7TVIsAo/jxMP5sfvWdqlJs5l4ucRcJAwmZiYogIgy0aJHBKRbSswSPFmLm9PfbMph/PWxT/Pf3zbmwUSdBKUCLWVlq6od3nwfc5qo3e/NcM5fPVpC3sYgxpYC8to0v5lMTUwjRvrzIVEptf0u0v3d9HJgFPFOcQRmzhUgFenz9Cs12n3vH8AWAfc/WYGBmdbl4p5qd6G6uB1rrQjUOWJoFt10YYPENZvRLglz36Au5rO/FxEK1hWZIGyFhQRyuTifJ0Q5wnH2btUND/iMFi0SLe3kUgApTYdraEf3oEsTcu2+ZTZWC15Ri+2T1bN/GIHTi9vOjJWZ0+zNi/I1rbPExhkID8zhnXHvBs+ea0aJM4UtamkANg==;Rx0SF0vkOV4mr/2auyJOXg=="

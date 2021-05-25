@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 787
         isCached: true
+  - title: "Justice Department appeals order to release in full a legal memo on whether Trump obstructed justice during the Russia investigation"
+    excerpt: "The Biden administration is appealing a judge’s order directing it to release in its entirety a legal memo on whether President Donald Trump had obstructed justice during the Russia investigation."
+    publishedDateTime: 2021-05-25T15:13:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-justice-department-barr-russia-obstruction-memo-20210525-ymq23dif5rf2djn4tumyx74ojy-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 74
+    images:
+      - url: "https://www.chicagotribune.com/resizer/IpKs4rNbpj7N0ajE9lAC81rd9gU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZPFUXOBZBZECNBHEYYIALZV2FY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump faces ‘show of strength’ in N.Y. prosecutor team-up"
     excerpt: "Former president Donald Trump is facing a rare combination of forces by two New York prosecutors, a development that indicates criminal charges may be looming closer, legal experts said."
     publishedDateTime: 2021-05-24T01:30:00Z

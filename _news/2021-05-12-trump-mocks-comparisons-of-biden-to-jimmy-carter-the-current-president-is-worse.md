@@ -271,20 +271,6 @@ related:
         width: 3117
         height: 2078
         isCached: true
-  - title: "Joe Biden, Crisis Diplomat"
-    excerpt: "President Joe Biden made an unexpected appearance at the White House, in front of a press corps that had been hastily called back to work. Welcoming the apparent end of an eleven-day war between Israel and Hamas,"
-    publishedDateTime: 2021-05-23T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/23/joe_biden_crisis_diplomat_543402.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/543986_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "Zn9K44QLTPgScKwuER7cb0KpgQtTzzTiHlgz0j7VBFuTNfpPiYhk9H48yxfKv7HJdRRRYpjafWpODptwQZ1oaONLiWG4G2hbbPMXphSRO2fqb3fLjms4sqihYsYaglCcojQ9NUvgfBHF4quVizSpcevIk0s7bOsyEuFfgFoiGO3ohnuSVi2EnILxdqGCJNar+G9us2C7Ynbi02D+lOIGkJtfeuEp4LYeouWSgA8jjUiNz4SQoyzOyDM/WH7Ci60dNsFgVYGvmCZngM7/+YLGBamVhWDlIV+vZBSR36LONgu6oxyfwV4cDDFkJSSQhcIOtXVgR45NuW/eoXJf5Ez2NZdKGsjUin1C1cxRo7V7fYE=;p2nOzStlNwyFAPgel+d2qg=="
 ---

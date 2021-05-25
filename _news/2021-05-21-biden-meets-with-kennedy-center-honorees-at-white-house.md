@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden to meet George Floyd’s family on anniversary of his murder – live"
+    excerpt: "President to have private meeting with members of Floyd’s family – follow all the day’s politics news live"
+    publishedDateTime: 2021-05-25T13:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/ebea58e3b4263c87fc15246aa2bdcac4155d6c50/0_384_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=014fa759e4b57e85db760f6a33018647"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to meet with George Floyd family but miss police reform deadline"
     excerpt: "President wanted George Floyd Justice in Policing Act passed by 25 May, on anniversary of police killing but bill is stalled in the Senate"
     publishedDateTime: 2021-05-24T20:25:00Z

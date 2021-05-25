@@ -377,6 +377,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden sets Afghanistan pullout"
+    excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to order all U.S. troops out of Afghanistan by Sept. 11, setting off a fierce debate over who will fill the vacuum. — The nomination of Colin Kahl should be delayed pending a review of new ..."
+    publishedDateTime: 2021-04-14T14:01:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/14/biden-sets-afghanistan-pullout-794657"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Biden administration announces next steps in overhauling Title IX campus sexual assault rules"
     excerpt: "During the presidential campaign, Joe Biden vowed to scrap the Trump administration's new regulation on campus sexual misconduct, which took effect in August under Title IX, a gender equity law. Former Education Secretary Betsy DeVos had said she had ..."
     publishedDateTime: 2021-04-06T13:00:00Z

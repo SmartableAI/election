@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden faces crunch moment in his presidency "
+    excerpt: "The Biden presidency and top Democrats suddenly face a moment of truth with an audacious nation-changing agenda imperiled by the treacherous political math of divided Washington and stiff resistance by pro-Trump Republicans.\n    \n"
+    publishedDateTime: 2021-05-24T09:15:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qlFN2tGDHd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/joe-biden-politics-economy-infrastructure-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/joe-biden-politics-economy-infrastructure-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520151830-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden weathers his first foreign crisis after months focusing on domestic troubles"
     excerpt: "It was before 8 a.m. ET on Wednesday and President Joe Biden was on the phone with Israeli Prime Minister Benjamin Netanyahu for the fourth time in a week.\n    \n"
     publishedDateTime: 2021-05-22T13:54:29Z
@@ -79,22 +95,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Ford and Biden hope to catch lightning with electric pickup"
-    excerpt: "While their onetime Republican allies in Congress wield fossil fuels as weapons in a culture war, Ford and other companies are moving ahead without them."
-    publishedDateTime: 2021-05-19T02:44:00Z
-    webUrl: "https://www.politico.com/news/2021/05/18/biden-ford-electric-pickup-489276"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/18/biden-ford-electric-pickup-489276"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/18/biden-ford-electric-pickup-489276"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/d4/14/f5c24f44464da23be9b92104fb44/ap21077843047710-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Ford reveals new electric F-150 Lightning pickup during Biden's visit to Michigan plant"
     excerpt: "The highly anticipated vehicle resembles the automaker’s current F-150 but has some unique exterior styling details."

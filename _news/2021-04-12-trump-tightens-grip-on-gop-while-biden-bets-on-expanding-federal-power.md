@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-bi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
 type: article
 quality: 190
-heat: 1450
+heat: 1430
 published: true
 
 provider:
@@ -718,22 +718,6 @@ related:
       - url: "https://static.politico.com/c7/4f/c843deb543ab8cb31771d261b134/ap21104703703896-1.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Joe Biden's infrastructure plan could leave too many women behind"
-    excerpt: "President Joe Biden says his roughly $2 trillion infrastructure plan will help create millions of jobs. But many of the proposed jobs are in historically male-dominated fields and experts worry the plan won't do enough for America's women,"
-    publishedDateTime: 2021-04-18T15:48:00Z
-    webUrl: "https://www.cnn.com/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413133507-us-women-infrastructure-care-investment-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Biden has a new point man on guns. He faces a steep hurdle in the Senate."
     excerpt: "Joe Biden’s choice to lead the federal agency that will play a crucial role in his firearms policy is a gun owner and longtime law enforcement official. But David Chipman, whom Biden nominated Thursday as director of the Bureau of Alcohol, Tobacco ..."

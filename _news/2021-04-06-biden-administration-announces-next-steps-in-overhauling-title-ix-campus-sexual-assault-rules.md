@@ -377,6 +377,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden sets Afghanistan pullout"
+    excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to order all U.S. troops out of Afghanistan by Sept. 11, setting off a fierce debate over who will fill the vacuum. — The nomination of Colin Kahl should be delayed pending a review of new ..."
+    publishedDateTime: 2021-04-14T14:01:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/14/biden-sets-afghanistan-pullout-794657"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Clyburn doesn’t want Biden to be like FDR"
     excerpt: "“See I'm one who feels, contrary to some of our friends, that Joe Biden's legacy, if he's going to have credibility, must be much closer to Harry Truman than to Franklin Roosevelt,” Clyburn said. “I hear people talking about Joe Biden all the time ..."
     publishedDateTime: 2021-04-13T22:45:00Z

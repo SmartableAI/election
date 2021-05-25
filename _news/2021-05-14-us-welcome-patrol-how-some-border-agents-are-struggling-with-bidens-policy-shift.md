@@ -79,6 +79,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Floyd family meets with Biden as Congress mulls police bill"
+    excerpt: "President Joe Biden will meet with the family of George Floyd at the White House Tuesday on the one year anniversary of his death"
+    publishedDateTime: 2021-05-25T14:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/floyd-family-meets-biden-congress-mulls-police-bill-77893370"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/floyd-family-meets-biden-congress-mulls-police-bill-77893370"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/floyd-family-meets-biden-congress-mulls-police-bill-77893370"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_6104c03392e54f209c055dc21c625c3d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Infrastructure negotiations snagged again as Republicans reject Biden's counterproposal"
     excerpt: "Bipartisan negotiations on infrastructure hit a new snag Friday after Republicans flatly rejected a counterproposal on the multi-trillion dollar bill advanced by the White House. The White House's $1."
     publishedDateTime: 2021-05-22T21:31:00Z
