@@ -29,53 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. waives sanctions on Nord Stream 2 as Biden seeks to mend Europe ties"
-    excerpt: "The Biden administration waived sanctions on the company behind Russia's Nord Stream 2 gas pipeline to Germany and its chief executive, Secretary of State Antony Blinken said on Wednesday, a move decried by critics of the project in Congress."
-    publishedDateTime: 2021-05-19T22:12:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-nord-stream-2-idUSKCN2D019I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D019I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D019I"
+  - title: "Gov. Kristi Noem says South Dakota is taking Biden to court over fireworks display at Mt. Rushmore"
+    excerpt: "Noem has directed her office to file a lawsuit against the National Parks Service after the agency rejected permits to hold the fireworks display."
+    publishedDateTime: 2021-04-29T23:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/04/29/sd-south-dakota-gov-kristi-noem-taking-president-biden-court-over-mt-rushmore-fireworks-july/7403815002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7403815002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7403815002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210519&t=2&i=1562705559&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4I0NT"
-        width: 806
-        height: 545
-        isCached: true
-  - title: "Kremlin hails ‘positive steps’ in US ties as Biden waives pipeline sanctions"
-    excerpt: "US secretary of state and Russia’s foreign minister are polite but firm in their first face-to-face encounter"
-    publishedDateTime: 2021-05-20T12:42:00Z
-    webUrl: "https://www.theguardian.com/world/2021/may/20/blinken-lavrov-meeting-us-russia-iceland-arctic"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/may/20/blinken-lavrov-meeting-us-russia-iceland-arctic"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/20/blinken-lavrov-meeting-us-russia-iceland-arctic"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/0a5b3c751f3789b45c3c48c5aba68346c7cb4d61/0_35_2945_1768/master/2945.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cfc419b0941389b997af93dd23afb8d7"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "58% of Americans support President Joe Biden’s multi-trillion dollar bills on jobs, education and families, poll shows"
-    excerpt: "Invest in America, a research group, and Data for Progress, a progressive think tank, surveyed more than 1,200 likely voters in mid-May, with 58% of those polled supporting Biden’s spending plans, even if Democrats must pass them without Republican support."
-    publishedDateTime: 2021-05-23T18:25:00Z
-    webUrl: "https://www.masslive.com/coronavirus/2021/05/58-of-americans-support-president-joe-bidens-multi-trillion-dollar-bills-on-jobs-education-and-families-poll-shows.html"
-    ampWebUrl: "https://www.masslive.com/coronavirus/2021/05/58-of-americans-support-president-joe-bidens-multi-trillion-dollar-bills-on-jobs-education-and-families-poll-shows.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/05/58-of-americans-support-president-joe-bidens-multi-trillion-dollar-bills-on-jobs-education-and-families-poll-shows.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 51
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BMCKCLT5HFE3DM4KZHVOK4MTCY.jpeg"
-        width: 5448
-        height: 3632
+      - url: "https://www.gannett-cdn.com/presto/2020/07/04/PSIF/8ab1b16d-5225-4daa-ac23-9c248d3cfd79-GettyImages-1254148514.jpg?auto=webp&crop=4218,2373,x0,y447&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "OKSSkj8h8tY97Ws8NU+81J0/7duXb+gVxhqR7E055Ry4TKk7qX8LvtVApb56cYreSFNqx2Xo8NYBwkV3qVGbaQ86MvXdC/0oF5oWHwGAZsVDJ4WM43SppU9fg441t8nwEm2MlSw/UXOEqqKC5/DiamKeX807mXyARu7bV+gy20JbBaBHwyBDBd1JnTwOx4WzG0R+Z+/X92PA6sH6dIc0ta6mWbfR4WJn84NRxoC/r9Ey0E1T2kTWGAjrJSY3yqaz68DPlmbyMPuTHA3/sZQwY04OEINN/CTPUX7cOYWOOhHNUuCVee05J8bBglzGz0PAsTJ1QRRkUWR/Sdibn0RLUuCOchEOQhm19SOFsDVPkHWd2MZIhprqLUlQIUyqCCjEZfCghimK7Uf5tWuwIg5ydtWI5IcB/L4z+LU9wbVucwtl2yIRUWBbGRyBBgeu7gi4seQ9g8jh1aPsQbogCxbUQjj/7UetsadOcQTQz1HahcTPo7XGaoA7vQ5H8XLyiCdkFZ9Us0ScmBW7/gEA8R1gvA==;TYN+vCJlOggZfYygGR/wPQ=="

@@ -48,22 +48,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Old Trump health team rivalries resurface in Texas House race"
-    excerpt: "A senior Trump health official’s bid to become the first administration alumnus elected to Congress is running into resistance from an unlikely source: his own former colleagues. Brian Harrison, a chief of staff to former Health and Human Services ..."
-    publishedDateTime: 2021-04-12T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/9f/95/6083ce4d4093a63bafe1c7155074/gettyimages-906623620-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Facebook oversight board to rule on suspended Trump account on May 5"
     excerpt: "After years of treating Trump’s inflammatory rhetoric with a light touch, Facebook and Instagram silenced his accounts on Jan. 7, saying at the time he’d be suspended “at le"
     publishedDateTime: 2021-05-03T15:07:00Z

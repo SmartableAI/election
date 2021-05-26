@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Members of the George Floyd family Meet with President Biden andVice President Kamala Harris"
-excerpt: "Philonise Floyd, George Floyds brother; speaks to the media outside the West Wing at White House in Washington, DC on Tuesday, May 25, 2021. The Floyd family meet with President Joe Biden and Vice President Kamala Harris in the Oval Office today on the one year anniversary of George Floyds death."
+excerpt: "Members of the George Floyd speak to the media outside the West Wing at White House in Washington, DC on Tuesday, May 25, 2021. The Floyd family meet with President Joe Biden and Vice President Kamala Harris in the Oval Office today on the one year anniversary of George Floyds death."
 publishedDateTime: 2021-05-25T20:28:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/2806c4431dbb9001164d570aa73ff82a/Members-of-the-George-Floyd-family-Meet-with-President-Biden-andVice-President-Kamala-Harris/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/2806c4431dbb9001164d570aa73ff82a/Members-of-the-George-Floyd-family-Meet-with-President-Biden-andVice-President-Kamala-Harris/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/903dfea9adc134f8595f120136277886/Members-of-the-George-Floyd-family-Meet-with-President-Biden-andVice-President-Kamala-Harris/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/903dfea9adc134f8595f120136277886/Members-of-the-George-Floyd-family-Meet-with-President-Biden-andVice-President-Kamala-Harris/"
 type: article
 quality: 59
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/2806c4431dbb9001164d570aa73ff82a/FLOYD-WHITE-HOUSE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/903dfea9adc134f8595f120136277886/FLOYD-WHITE-HOUSE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -168,6 +168,22 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_6104c03392e54f209c055dc21c625c3d_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden hopeful for a deal on George Floyd police bill after Memorial Day"
+    excerpt: "U.S. President Joe Biden said on Tuesday he is hopeful an agreement will be reached on the George Floyd police reform legislation after the May 31 Memorial Day holiday."
+    publishedDateTime: 2021-05-25T20:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-race-georgefloyd-biden-idUSKCN2D62SG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D62SG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210525&t=2&i=1563382884&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4O1EL"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden to meet George Floyd’s family on anniversary of his murder – live"
     excerpt: "President to have private meeting with members of Floyd’s family – follow all the day’s politics news live"
@@ -420,6 +436,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Vice President Kamala Harris swears in Kristen Clarke at Department of Justice"
+    excerpt: "Vice President Kamala Harris speaks to the media after the swearing in of Kristen Clarke at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
+    publishedDateTime: 2021-05-25T23:51:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7c0da4605c8a0a6916af116e4c54df0a/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/7c0da4605c8a0a6916af116e4c54df0a/HARRIS-CLARKE-DOJ.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "George Floyd’s Family Urges Police Reform After Meeting With Biden, Harris"
     excerpt: "The meeting, one year after Floyd was killed by police, came as lawmakers missed Biden’s target date to enact meaningful police reform."
     publishedDateTime: 2021-05-25T21:30:00Z
@@ -453,6 +483,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "IFKjb5gmbGMTdNEN6xx1jrmQYetlbGjRsHm9HYlgM0LUoAUes4JtTPhilHandNR+VS5XMrCtmMZHr/LZmV1FArqYBs8U3kupRHF7/gHXH6ft8/ZzLr6/bI7+vgiUWEQUijrxHvVO5Mbq18nFHj9sTVzuZxt0iAwC1GGLL+rgo+cHuQAO2TLQGj/LWYqugIaOZE3Mm7jyq2ATpM62kApJm/OnG5MhDV23YeZKTxAEqvsLT6yG6X7jUe+/z6GwTBJ8zJWtQ1E+TV+GIWlC95ht3C6qRvYwkvXZVAS8pwSu6PsjhwbxUmOMwrtGAgFJjyCRhZF2xDciOxPG0jZdVPyqWISKwZ5c1q3Afpj6I3P1i9c=;buFZA+hVthXwuj2SnrrtYg=="
+secured: "G5tNcvMh2VGWbYP+abr8z2leqM1xgC4M9w1dOXVezEvujB4G6l84keBE3mIVqObqOZ7rEdvvDGfle2GhYH82GRY7BoTZ4giW9FZdwveHMyhp1iJK70QaQ3lmG7wh8Xe77NC+J4Iur+vZIR5YUd0uaBexZe6hIBAyBGWfvn/nRGzHXh/zk4T2LMlmkkunQZ1p7JlqR0U+X22TG/MACyCaiAXrMMVob+St1geNZYIZHCeAPfXPkuRPrCZQZnmp9N8fZ/UP9p80Oz+KXaroS+urc9lszlRahZM2q2kIu5s3H/yJz3JmCvT9BladbZT0LDeSf1KoeNryfigbDi/R6A2lSwGthuQjiqlrHonwIlGCpp4=;U9iYYI4tmq64kFG3ja9Zcg=="
 ---
 

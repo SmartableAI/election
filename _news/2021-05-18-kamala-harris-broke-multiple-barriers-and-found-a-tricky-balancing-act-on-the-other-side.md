@@ -208,6 +208,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "'We have to act': Biden meets with George Floyd's family on anniversary of his murder"
+    excerpt: "The president had said he hoped to mark the solemn occasion by signing the police reform bill named after Floyd, but that legislation has not passed yet."
+    publishedDateTime: 2021-05-25T22:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-meet-george-floyd-s-family-anniversary-his-murder-n1268467"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268467"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268467"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_21/3477649/210525-george-floyd-family-white-house-se-414p_6fd29034f5c6b7cab695a531bc99e7fc.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "George Floyd's brother says President Biden called his family to say he is praying for them"
     excerpt: "After closing arguments Monday, Philonise Floyd said he's \"optimistic\" about the outcome of the trial against Derek Chauvin."
     publishedDateTime: 2021-04-20T13:48:00Z

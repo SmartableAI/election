@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7403815002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7403815002"
 type: article
 quality: 111
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "South Dakota's Noem launches legal strategy to take on Biden"
+    excerpt: "South Dakota Gov. Kristi Noem is likely to stay among conservative politicians favored by former President Donald Trump with the help of an unusual strategy for a governor"
+    publishedDateTime: 2021-05-24T19:45:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/south-dakotas-noem-launches-legal-strategy-biden-77875662"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_b033fdf71e784ce3afe41b752f8016f1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "P60jiUDsQm/IIQih/yEAlidWRvDhNOmrUFlAN7DXbnmLqvC6fL+90C6bfLJJ3lcnkDtXArolTQKzTF4QhROPzH9S7NDxkJOAUNpBpYiPAuvZujkO8dmLYJ0aWKepMgJ50UjnLb1+BWF25JYfli35YqL8w5ewaegQXX8xZ73UJOngD9JLH98UY+dyyfMKpany/nWNvtgblt/gd2E0mI0aav4Pv9VOWRd2edubo+eWAWSytFUAJuStwjK6pjoYj+bc8dvKMbzEOqhPzDNYdj16ceLz+pO2ZpNC2EubtPzzRxEFUo0K8xaBWK6pRPQohe1J2Me1lqWPbKJW5s9+wvV1OYLSS0/cNzwdzkvvMWh0UquO/BRBm4X+01hnsw4RyNzFw3tVJ8tLtqA+KmCWBmS9Cqz4HxHIc7QkldtLXm9zx0LjSkUeuRGmZCt/iUkj1KsQ5X6iqZLnbmE1rFzK+dZN2TM9Nhudw6VZrziT/s85iLeXjuK2PIWGe3HftIONbA25ZCzh92eZ54WGE/aEIhXDvg==;yt9g/kE/jRGGuIzCohoLAw=="
 ---

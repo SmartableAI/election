@@ -2,6 +2,392 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-25-doj-partly-discloses-memo-barr-used-to-clear-trump-of-obstructing-russia-inquiry.md",
+      "title": "DOJ partly discloses memo Barr used to clear Trump of obstructing Russia inquiry",
+      "excerpt": "The Justice Department intends to appeal an order to disclose the full memo cited as a reason not to charge Trump with obstruction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/justice-department/doj-partially-discloses-memo-barr-used-clear-trump-obstruction-russia-n1268445",
+      "originalUrl": "https://www.nbcnews.com/politics/justice-department/doj-partially-discloses-memo-barr-used-clear-trump-obstruction-russia-n1268445",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_33/3069776/191025-department-of-justice-building-ew-1227p_e433387e9fbfe306b8bd633f60e1b57d.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1268445",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268445",
+      "publishedDateTime": "2021-05-24T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-chris-christie-slams-biden-for-allowing-canada-covid-double-standard.md",
+      "title": "Chris Christie slams Biden for allowing Canada COVID 'double standard'",
+      "excerpt": "Christie blasted the president in a tweet posted Monday, saying more “weakness” was coming from the Biden administration’s foreign policy and vaccine messaging with Canada.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BP0rFIqgGAA/biden-us-canada-border-restrictions-vaccines-christie-criticizes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BP0rFIqgGAA/biden-us-canada-border-restrictions-vaccines-christie-criticizes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08fbe276-a23f-4272-8fe8-d0305ba39364/0b6ee7ea-6ee6-455f-8f52-2c89cebab5ce/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-us-canada-border-restrictions-vaccines-christie-criticizes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-canada-border-restrictions-vaccines-christie-criticizes.amp",
+      "publishedDateTime": "2021-05-24T17:05:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-most-republicans-still-believe-2020-election-was-stolen-from-trump-poll.md",
+      "title": "Most Republicans still believe 2020 election was stolen from Trump – poll",
+      "excerpt": "May opinion poll finds that 53% of Republicans believe Trump is the ‘true president’ compared with 3% of Democrats",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 359,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/aab738d46a9b2e7ce009c676cb4f62f8d94df627/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43f3841ea4390c7aede36e6dd996a695",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
+      "publishedDateTime": "2021-05-24T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-than-in-2020.md",
+      "title": "Donald Trump Says His Website Drew 36.7M Views Over Past Month: 'More Traffic Than in 2020'",
+      "excerpt": "\"This number would be even greater if we were still on Twitter and Facebook,\" Trump claimed, \"but since Big Tech has illegally banned me, tens of millions of our supporters have stopped using these platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-2020-1594371",
+      "originalUrl": "https://www.newsweek.com/donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-2020-1594371",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1805617/donald-trump-website-traffic-millions-brag-claim.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-2020-1594371?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-his-website-drew-367m-views-over-past-month-more-traffic-2020-1594371?amp=1",
+      "publishedDateTime": "2021-05-24T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-sondland-sues-pompeo-us-government-for-legal-fees-over-trump-impeachment-probe.md",
+      "title": "Sondland sues Pompeo, U.S. government, for legal fees over Trump impeachment probe",
+      "excerpt": "Former U.S. ambassador to the European Union, Gordon Sondland, filed a lawsuit against former Secretary of State Mike Pompeo and the U.S. government. Sondland is seeking $1.8 million in legal fees he accumulated during the first House impeachment investigation against then-President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/sondland-sues-pompeo-u-s-government-for-legal-fees-over-trump-impeachment-probe-113087557862",
+      "originalUrl": "https://www.nbcnews.com/now/video/sondland-sues-pompeo-u-s-government-for-legal-fees-over-trump-impeachment-probe-113087557862",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/i/mpx/2704722219/2021_05/1621887619887_ott_now_pwilliams_210524_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo113087557862",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo113087557862",
+      "publishedDateTime": "2021-05-24T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-biden-doubling-fema-funding-for-this-years-extreme-weather-season.md",
+      "title": "Biden doubling FEMA funding for this year's extreme weather season",
+      "excerpt": "Saying that his administration will \"spare no expense,\" President Biden on Monday announced that he is doubling funding for the Federal Emergency Management Agency's extreme weather preparations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H_mLgVmhWwE/biden-doubling-fema-funding-extreme-weather-season",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H_mLgVmhWwE/biden-doubling-fema-funding-extreme-weather-season",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp",
+      "publishedDateTime": "2021-05-24T12:10:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-despite-cdc-mask-guidance-biden-admin-may-still-issue-workplace-mandate.md",
+      "title": "Despite CDC mask guidance, Biden admin may still issue workplace mandate",
+      "excerpt": "The Occupational Safety and Health Administration may still issue a workplace mask mandate consistent with a January executive order from President Biden despite new Centers for Disease Control and Prevention guidelines that vaccinated Americans do not need to wear masks indoors.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aojlNQN0DhU/biden-cdc-mask-guidance-workplace-possible-mandate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aojlNQN0DhU/biden-cdc-mask-guidance-workplace-possible-mandate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/mask_mandate_istock.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T10:33:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-biden-tops-trump-clinton-but-outpaced-by-obama-and-both-bushes-in-polling-comparison.md",
       "title": "Biden tops Trump, Clinton, but outpaced by Obama and both Bushes, in polling comparison",
       "excerpt": "Four months into his White House tenure, President Biden is outperforming some of his predecessors and trailing others when it comes to his poll ratings.",
@@ -328,63 +714,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-24-why-arkansas-is-a-test-case-for-a-post-trump-republican-party.md",
-      "title": "Why Arkansas Is a Test Case for a Post-Trump Republican Party",
-      "excerpt": "Sarah Huckabee Sanders seems likely to bring the Trump brand to Arkansas politics in a big way. But the state is a testing ground for different possible futures for the party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/24/us/politics/arkansas-republicans-sarah-sanders.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/24/us/politics/arkansas-republicans-sarah-sanders.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/23/us/23arkansas-lede/23arkansas-lede-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/24/us/politics/arkansas-republicans-sarah-sanders.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/24/us/politics/arkansas-republicans-sarah-sanders.amp.html",
-      "publishedDateTime": "2021-05-24T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-24-kamala-harris-tells-2021-graduating-class-you-give-me-such-inspiration.md",
       "title": "Kamala Harris tells 2021 graduating class 'you give me such inspiration'",
       "excerpt": "\"I couldn't be more proud of you guys,\" she told the seniors. \"The things that you all have accomplished, you give me such inspiration.\"",
@@ -445,7 +774,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -595,6 +924,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-ex-trump-ambassador-says-former-president-absolutely-bears-responsibility-for-january-6-riot.md",
+      "title": "Ex-Trump ambassador says former President 'absolutely' bears responsibility for January 6 riot",
+      "excerpt": "A former Republican senator and member of Donald Trump's administration said Sunday that he thinks the ex-President bears some responsibility for the Capitol insurrection and that his presidency was \"diminished\" as a result of the deadly attack.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qs1scB4d0wo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qs1scB4d0wo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210523110408-scott-brown-sotu-vpx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/23/politics/scott-brown-trump-capitol-insurrection/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/scott-brown-trump-capitol-insurrection/index.html",
+      "publishedDateTime": "2021-05-23T08:39:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -967,374 +1352,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-trump-hotel-raised-prices-to-deter-qanon-conspiracists-police-files-show.md",
-      "title": "Trump Hotel raised prices to deter QAnon conspiracists, police files show",
-      "excerpt": "Price increase was ‘security tactic to prevent protesters booking rooms’ in case people travelled to Washington in early March",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f4b64c9df7a74a6fe71222d931a74d717a0edcd4/0_0_4573_2744/master/4573.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b4a263deb2c3aa23504541f76afdebc",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
-      "publishedDateTime": "2021-05-22T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-biden-wont-allow-justice-dept-to-seize-reporters-records.md",
-      "title": "Biden won't allow Justice Dept. to seize reporters' records",
-      "excerpt": "President Joe Biden says he won’t allow the Department of Justice to seize journalists’ phone records and emails, calling the practice “wrong” in a significant departure from his predecessors",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035",
-      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/WireAP_38dab6b4a6fc429288c8332a295a4057_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035",
-      "publishedDateTime": "2021-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-biden-says-he-wont-let-doj-seize-phone-records-or-emails-from-reporters-its-simply-simply-wrong.md",
-      "title": "Biden says he won't let DOJ seize phone records or emails from reporters: 'It's simply, simply wrong'",
-      "excerpt": "President Joe Biden on Friday told CNN he would not let his Department of Justice seize phone records or emails from reporters.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2H9Q6MK8-tQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2H9Q6MK8-tQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210521185543-biden-moon-presser-0521-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/21/politics/doj-biden-phone-records/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/doj-biden-phone-records/index.html",
-      "publishedDateTime": "2021-05-21T16:06:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-biden-appoints-amb-sung-kim-as-special-envoy-to-north-korea-signals-commitment-to-diplomacy.md",
-      "title": "Biden appoints Amb. Sung Kim as special envoy to North Korea, signals commitment to diplomacy",
-      "excerpt": "President Biden said the U.S. and South Korea are both “deeply concerned” about the situation in North Korea, and announced he is appointing Ambassador Sung Kim as special envoy to the Democratic People’s Republic of Korea (DPRK).",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/itvR3XbpNO4/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/itvR3XbpNO4/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bcdd1c-2b91-4615-ac0a-120d7aa8316f/c8802b2d-898e-4d85-b916-7e492de9e029/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy.amp",
-      "publishedDateTime": "2021-05-21T15:28:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-the-latest-biden-says-his-party-still-supports-israel.md",
-      "title": "The Latest: Biden says his party 'still supports Israel'",
-      "excerpt": "President Joe Biden says there has been no shift in his commitment to Israel’s security, but insisted a two-state solution that includes a state for Palestinians remains “the only answer” to that conf",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KTHNPHV2Q4I6XPCKMKCJZ5WMVE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-21T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-biden-worries-the-world-thinks-america-cant-lead-after-trump-and-that-its-beginning-to-look-to-china.md",
-      "title": "Biden worries the world thinks America can't lead after Trump, and that it's 'beginning to look to China'",
-      "excerpt": "Biden told The New York Times about the Irish prime minister commenting, \"Well, America can't lead. They can't even get their arms around Covid.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-worries-world-thinks-america-cant-lead-after-trump-2021-5",
-      "originalUrl": "https://www.businessinsider.com/biden-worries-world-thinks-america-cant-lead-after-trump-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609b95b1342837001822cdde?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-worries-world-thinks-america-cant-lead-after-trump-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-worries-world-thinks-america-cant-lead-after-trump-2021-5?amp",
-      "publishedDateTime": "2021-05-21T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-rachel-maddow-trump-backers-use-audit-excuse-to-discredit-elections-after-trump-loss.md",
-      "title": "Rachel Maddow: Trump Backers Use \"Audit\" Excuse To Discredit Elections After Trump Loss",
-      "excerpt": "MSNBC's Rachel Maddow looks at different places around the United States where Donald Trump supporters, inspired by the ballot inspection spectacle in Arizona, are using conspiracy theories to insist on more 'audits' of the 2020 election results Trump lost,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/522176.jpg",
-          "width": 1076,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.amp.html",
-      "publishedDateTime": "2021-05-21T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

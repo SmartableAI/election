@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html"
 type: article
 quality: 200
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -191,6 +191,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/21/us/21new-washington-briefing-korea-lede2/21new-washington-briefing-korea-lede2-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "'We have to act': Biden meets with George Floyd's family on anniversary of his murder"
+    excerpt: "The president had said he hoped to mark the solemn occasion by signing the police reform bill named after Floyd, but that legislation has not passed yet."
+    publishedDateTime: 2021-05-25T22:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-meet-george-floyd-s-family-anniversary-his-murder-n1268467"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268467"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268467"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_21/3477649/210525-george-floyd-family-white-house-se-414p_6fd29034f5c6b7cab695a531bc99e7fc.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Kamala Harris broke multiple barriers and found a tricky balancing act on the other side"
     excerpt: "Ami Bera described to Kamala Harris how he felt when he saw the ubiquitous photo that accompanied the coverage of her selection as vice president, of her as a child standing next to her mother clad in a traditional Indian sari."
