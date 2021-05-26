@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "After embracing Trump's effort to overturn vote, GOP congressman wants to run Georgia's elections "
+    excerpt: "Rep. Jody Hice says former President Donald Trump would've won the 2020 election in Georgia if it were \"fair.\" He says that Georgia Secretary of State Brad Raffensperger sent out 700,000 ballot applications to \"illegal voters,\" and that there's going to be \"some fraud mixed up in there.\"\n    \n"
+    publishedDateTime: 2021-05-26T17:34:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3eZBBgoLUgg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/jody-hice-georgia-elections-secretary-of-state-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/jody-hice-georgia-elections-secretary-of-state-race/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525193123-raffensperger-hice-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Why GOP leaders are playing it smart when it comes to Trump"
     excerpt: "The House GOP's move to remove Rep. Liz Cheney from her leadership position is widely seen as the latest move to placate the base at the risk of alienating the center of the electorate. Cheney had voted to impeach former President Donald Trump and has continued her critiques of him while most other Republicans"
     publishedDateTime: 2021-05-15T16:24:24Z

@@ -45,6 +45,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "What Donald Trump Criminal Probe Grand Jury Means for Former President"
+    excerpt: "The move signals that New York prosecutors are moving to seek criminal charges as a result of a two-year investigation into Trump."
+    publishedDateTime: 2021-05-26T16:52:00Z
+    webUrl: "https://www.newsweek.com/what-donald-trump-criminal-probe-grand-jury-means-1595082"
+    ampWebUrl: "https://www.newsweek.com/what-donald-trump-criminal-probe-grand-jury-means-1595082?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-donald-trump-criminal-probe-grand-jury-means-1595082?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1807576/donald-trump-steps-out-trump-tower.jpg"
+        width: 2500
+        height: 1728
+        isCached: true
   - title: "‘Madman … racist, sexist pig’: new book details Obama’s real thoughts on Trump"
     excerpt: "The Democratic ex-president was candid in remarks to donors and advisers, according to Battle for the Soul by Edward-Isaac Dovere"
     publishedDateTime: 2021-05-19T22:02:00Z

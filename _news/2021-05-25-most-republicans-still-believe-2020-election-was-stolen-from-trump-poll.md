@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/24/republicans-2020-ele
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
 type: article
 quality: 139
-heat: 379
+heat: 419
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/25/6d4f4817-2ff8-4f41-83d8-6c877a8ad6e6/thumbnail/1200x630/b9606be5f084f0bb07e863d766b8619d/gettyimages-1318749430.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "School apologizes for saying Trump wasn't impeached"
+    excerpt: "We can and will do better to provide a quality yearbook to students that can be a cherished item as they reminisce about their time at [the] school,” the principal said."
+    publishedDateTime: 2021-05-26T16:16:00Z
+    webUrl: "https://thehill.com/changing-america/enrichment/education/555521-school-apologizes-for-saying-trump-wasnt-impeached"
+    ampWebUrl: "https://thehill.com/changing-america/enrichment/education/555521-school-apologizes-for-saying-trump-wasnt-impeached?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/555521-school-apologizes-for-saying-trump-wasnt-impeached?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/istock-176779068.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "What we know about investigations looming over Donald Trump, his company"
     excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
@@ -188,6 +204,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
         width: 1024
         height: 731
+        isCached: true
+  - title: "Following Donald Trump will lead to the demise of the Republican Party (Letters)"
+    excerpt: "What does the Republican Party stand for? Kevin McCarthy, House minority leader backs Donald J. Trump in his big lie about election fraud 100%. He even got rid of Liz Cheney from her leadership post because she could not abide by Trump’s falsehood."
+    publishedDateTime: 2021-05-26T17:11:00Z
+    webUrl: "https://www.masslive.com/opinion/2021/05/following-donald-trump-will-lead-to-the-demise-of-the-republican-party-letters.html"
+    ampWebUrl: "https://www.masslive.com/opinion/2021/05/following-donald-trump-will-lead-to-the-demise-of-the-republican-party-letters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/opinion/2021/05/following-donald-trump-will-lead-to-the-demise-of-the-republican-party-letters.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg"
+        width: 6720
+        height: 4480
         isCached: true
   - title: "Trump Organization Faces Criminal Probe In New York State"
     excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."

@@ -47,6 +47,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "What Donald Trump Criminal Probe Grand Jury Means for Former President"
+    excerpt: "The move signals that New York prosecutors are moving to seek criminal charges as a result of a two-year investigation into Trump."
+    publishedDateTime: 2021-05-26T16:52:00Z
+    webUrl: "https://www.newsweek.com/what-donald-trump-criminal-probe-grand-jury-means-1595082"
+    ampWebUrl: "https://www.newsweek.com/what-donald-trump-criminal-probe-grand-jury-means-1595082?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-donald-trump-criminal-probe-grand-jury-means-1595082?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1807576/donald-trump-steps-out-trump-tower.jpg"
+        width: 2500
+        height: 1728
+        isCached: true
   - title: "New polls show Trump and Clinton neck-and-neck"
     excerpt: "New polls show that Democratic candidate Hillary Clinton has lost her double-digit lead in a matchup against GOP presumptive nominee Donald Trump. What does this mean for the November election? CBS News senior political editor Steve Chaggaris and Real Clear Politics national reporter Caitlin Huey-Burns join CBSN to discuss."
     publishedDateTime: 2021-04-17T17:19:00Z

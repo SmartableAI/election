@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "‘Extremism’ Department of Defense adviser says Trump voters support racism"
+    excerpt: "In two series of tweets, both written in the summer of 2019, Bishop Garrison went after fans and donors of former President Donald Trump."
+    publishedDateTime: 2021-05-26T17:01:00Z
+    webUrl: "https://nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/"
+    ampWebUrl: "https://nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/bishop-garrison-pentagon-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "OwuWzMb2X1APzcJ+TCNh+wJZFZnCY4FLxxDaHz+F0E7UF9U07S1FqRy2NmplTAr1JSNoukPnLhQoGqg4AMzWB4MzW/zDtR8VtDzD1rpRjJnucve7w5WZLf4hHEf8bo14/67NJSLpKmd+jfdlnM/ko7r5TCyPagku5n+Ey2tLMMZhHxmj+Y6SFB/e7Nf+KCCh803Mmo8RPBpI9zOpcVbrUGAHZYaVMS9KODjx+5kDG9mj8hYfKuThqyUu5GRC5tym26JFYIoOZYAbpbBUlzdZEjG/VktH5i3GexH9nIq2SotklAyp7Eng8/LHbZOorvlzWtNUZaTYP9Q6b2XaTilK0fgCgjF/1pNMaWM4Gr+xens=;Z6+8ENnRW5dcmVEsoHL2ZQ=="
 ---

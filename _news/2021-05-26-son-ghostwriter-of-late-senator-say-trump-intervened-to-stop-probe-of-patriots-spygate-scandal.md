@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778"
 type: article
 quality: 112
-heat: 112
+heat: 132
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 834
     height: 308
     isCached: true
+
+related:
+  - title: "Donald Trump Allegedly Tried To Stop Spygate Investigation On Behalf Of Robert Kraft"
+    excerpt: "Former President Donald Trump might’ve played a role in attempting to squash any further investigation into the New England Patriots’ “Spygate” scandal. According to a new ESPN report, Trump indicated to former U."
+    publishedDateTime: 2021-05-26T16:36:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-allegedly-tried-stop-spygate-investigation-behalf-robert-kraft-3209348"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-allegedly-tried-stop-spygate-investigation-behalf-robert-kraft-3209348?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-allegedly-tried-stop-spygate-investigation-behalf-robert-kraft-3209348?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/08/02/trump-kraft.jpg"
+        width: 1200
+        height: 888
+        isCached: true
 
 secured: "UJqAnOhESVFtKVIyknrjxqdhsYprwRSnfIt5kXFM7DbJTODyErQRYg+nf8vweGhrppGC2mqUVLsilWs5MKCx2iB3G9pm9H2IQ5gl0O6hGwZew8os9oO9ljNdbSbBhZdUt4ooZ//QAb9+qLaYFJ5RVvQaDnhKaRhv9nPpkbKtihmsi2iegCiCJWfmi5aniAIt0XrF1PEX2td0GiEIBTCriKCEWoFhRRvs1NxMDAdIzf4E9Byuez1U1iIFmMNmywVqpvp0sixCv/uHNTwzl9zSqIlw/vIv+olSisGq4FJxKDOQUM65EHrplaEGa/PuDjWtrWg+hv/KRKqgU+NB7Ux3aYSi0lhCEyxGz2ilrL3KXfU=;4W0XNlbjcmR01dSVmfkTeA=="
 ---

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden tasks intelligence community to report on Covid origins in 90 days"
+    excerpt: "President Joe Biden said Wednesday he has directed the US intelligence community to redouble their efforts in investigating the origins of the Covid-19 pandemic and report back to him in 90 days.\n    \n"
+    publishedDateTime: 2021-05-26T17:54:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r8DfgUTw0so/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/biden-intelligence-community-pandemic-origins-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/biden-intelligence-community-pandemic-origins-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration allocates $200 million to support survivors of domestic violence"
     excerpt: "The Biden administration announced on Monday it is allocating $200 million from the American Rescue Plan to support services for survivors of domestic violence following a rise in cases during pandemic lockdowns.\n    \n"
     publishedDateTime: 2021-05-24T17:06:19Z
