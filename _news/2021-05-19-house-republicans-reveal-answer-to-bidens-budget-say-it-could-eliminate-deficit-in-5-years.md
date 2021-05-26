@@ -45,6 +45,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Republicans grill Biden ATF nominee on past remarks on guns"
+    excerpt: "David Chipman, President Biden’s nominee to run the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, faced off against Republicans Wednesday who challenged him on his past statements they say cross the line in the gun control debate."
+    publishedDateTime: 2021-05-26T19:34:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPKQskwTIpM/republicans-biden-atf-nominee-chipman-guns"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/AP21097760253459.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden nominee made millions at NCAA while arguing against paying players"
     excerpt: "President Biden’s nominee for deputy secretary of the Department of Veterans Affairs (VA) made nearly millions at the National Collegiate Athletic Association (NCAA) while arguing against paying college athletes."
     publishedDateTime: 2021-05-17T21:57:44Z

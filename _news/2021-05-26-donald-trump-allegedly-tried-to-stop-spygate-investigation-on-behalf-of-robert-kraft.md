@@ -47,7 +47,23 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Donald Trump dangled money to end Spygate inquiry on behalf of Patriots’ Robert Kraft, new report alleges"
+    excerpt: "The son of late senator Arlen Specter alleges that Donald Trump made his father a financial offer “tantamount to a bribe” on behalf of Patriots owner Robert Kraft to end inquiries into New England’s Spygate scandal."
+    publishedDateTime: 2021-05-26T19:24:00Z
+    webUrl: "https://www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html"
+    ampWebUrl: "https://www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 58
+    images:
+      - url: "https://www.nydailynews.com/resizer/0UpW9o965_lOoPLetAi3riLkZtQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2U5LCWW2NZE2BOSLEGVAG6VMWY.jpg"
+        width: 1200
+        height: 838
+        isCached: true
 
-secured: "+OKv7bKxH/IUT/SCyjQCRWIn9Ew0Gql88+EIxfioPE7xbRLeeOOk+nH+O1GzJaOnbZJ9T65C33/9PPYSJVIVKDGgSwrQtdPKHuElSH6Ay5OX5NALz13nWxkVJPNNz3ZxXJoBpvt+smchZxUBm25rk9yc+YFEtIVxYIIaUmIXIpMm3KEcv27fcixxQUsRRYa/VEyfvAsvPA8lMdHyEOUTw6QeTXdg8V6zcTA6RzvHAsGJNNL/pQlgKBW2jKWbOYiagBwHpOm3UXi29mUyffxdxnxgpFXQAkdeUEkPBg8FjYzYH5vAQl+biBwq9iHrA1b0hqMzfr9Bm+z/zFbSqVh+O1E+qXiwXWMcz2s0Sw2ajk0=;cbd6/x4h1od1oTHIVtjSYA=="
+secured: "PnFjH3rWQgz8Nn5YuW3ZdAgTZvs9KRMe7DSzzL46Ke5qGuKXZA0Z/T+xJvOOXgV56DedwZHSXngdNsXVjA8zs94BqI3QOehi5AuU5kyFjdvaV50Ha+4rWoTB8R2g1qdTcR4r0tFwF9oUJnwJGOgCUbAGaKqZVRgnriwFLVmDhdM+2VrElEtHPucoIA9FzgFjLCzo1GBSIHfw2UZTgJOWetN7OvySa8xn4AL/7Oz43iiDC++7j/krZrAPSOgpRWTG8kzR/fUVpSFOfw0EQns725mBigGymsIjkoeLVz/1yNf0al5cd62LnLx9QR3t36s10kDd6fMyjfRzei2a4X7QvuOm9ocSML16NFz/Sa8MpC0ubUGh9wzhV1wE6nOEY05SlD9uomNLtr09eKhAucOyBqcXKpjHkNHBJa2aE8ccpOLytKvSXaVTaxsfPEx+aequLrJ3Zd2uOn57YGRy27xzB2FV6YOk7eOdsAMA4VN7IhCy6DXlAqcGivKnNd2l/qLPh+uiHkVIM4ShvSW4JT5Z6g==;ir88SgiNpv2eXjj6wEqF5A=="
 ---
 

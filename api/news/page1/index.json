@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-26-hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners.md",
+      "title": "Hunter Biden brought VP Joe to dinner with shady business partners",
+      "excerpt": "Joe Biden met with Ukrainian, Russian and Kazakhstani business associates of his son’s at a dinner in Washington, DC, while he was vice president, records on Hunter Biden’s abandoned laptop show.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/feySe9nfB1M/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/feySe9nfB1M/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c512f608-7189-4398-997f-d62d552bb2b0/49f8f3fc-b42c-49d8-b9c8-95281a0915c8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners.amp",
+      "publishedDateTime": "2021-05-26T12:16:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-trump-organization-probe-enters-potentially-ominous-phase-with-grand-jury-convened.md",
+      "title": "Trump Organization probe enters potentially ominous phase with grand jury convened",
+      "excerpt": "Special grand jury marks a shift in Cy Vance's Trump Organization probe as possible evidence of criminal conduct may be presented.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/26/trump-grand-jury-signals-potentially-ominous-phase-fraud-probe/7445141002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/26/trump-grand-jury-signals-potentially-ominous-phase-fraud-probe/7445141002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/05/04/USAT/ea9211db-9579-49a5-a317-1bef9ae29567-AP_Twitter-CEO_Statement-Trump_Ban.jpg?auto=webp&crop=5173,2910,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7445141002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7445141002",
+      "publishedDateTime": "2021-05-26T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-biden-intel-community-torn-between-two-likely-scenarios-on-covid-19-outbreak-source.md",
       "title": "Biden: Intel community torn between 'two likely scenarios' on COVID-19 outbreak source",
       "excerpt": "President Biden on Wednesday asked the Intelligence Community to \"redouble\" their efforts to \"collect and analyze\" information that could bring the U.S. closer to a \"definitive conclusion\" on the origins of the novel coronavirus, saying U.S. intelligence officials are currently torn between \"two likely",
@@ -175,7 +283,7 @@
       "originalUrl": "https://abcnews.go.com/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -484,6 +592,63 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-lawrence-jones-slams-president-biden-for-failing-to-deliver-on-promise-to-heal-america-where-are-we-now.md",
+      "title": "Lawrence Jones slams President Biden for failing to deliver on promise to 'heal' America: 'Where are we now?'",
+      "excerpt": "\"Fox News Primetime\" host Lawrence Jones ripped Joe Biden and Democrats Tuesday for their lack of urgency in solving America’s policing problem and not addressing the real issues facing Black America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lawrence-jones-slams-president-biden-failing-promise-heal-america",
+      "originalUrl": "https://www.foxnews.com/media/lawrence-jones-slams-president-biden-failing-promise-heal-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/178211ca-6a68-4596-9274-d5b737e196fb/9c302308-93b8-4828-a2fb-0d653120b8ca/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lawrence-jones-slams-president-biden-failing-promise-heal-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lawrence-jones-slams-president-biden-failing-promise-heal-america.amp",
+      "publishedDateTime": "2021-05-25T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -1138,62 +1303,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-25-hunter-biden-shopped-reality-tv-show-in-2019-as-dad-ran-for-president-new-book.md",
-      "title": "Hunter Biden shopped reality TV show in 2019 as dad ran for president: new book",
-      "excerpt": "President Biden's son Hunter Biden pitched television producers on his own reality show during the summer of 2019, according to a new book.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PCoLgtBF13g/hunter-biden-joe-president-campaign-2020-battle-for-the-soul",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PCoLgtBF13g/hunter-biden-joe-president-campaign-2020-battle-for-the-soul",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6679eccc-96b1-4ce3-83f7-fa70660277b5/d0f7098a-504f-4d58-880b-025796475a38/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-joe-president-campaign-2020-battle-for-the-soul.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-joe-president-campaign-2020-battle-for-the-soul.amp",
-      "publishedDateTime": "2021-05-25T13:16:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-25-biden-administration-moves-forward-with-plan-to-bring-offshore-wind-to-california-coast-for-the-first-time.md",
       "title": "Biden administration moves forward with plan to bring offshore wind to California coast for the first time",
       "excerpt": "The Biden administration announced Tuesday that it is moving to advance offshore wind power on the coast of California for the first time. When developed, the regions selected have the potential to generate enough green energy for up to 1.6 million homes over the next decade, according to the administration.\n",
@@ -1223,115 +1332,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/biden-california-offshore-wind-announcement/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-california-offshore-wind-announcement/index.html",
       "publishedDateTime": "2021-05-25T13:11:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-biden-and-harris-meet-george-floyds-family-on-anniversary-of-his-murder-live.md",
-      "title": "Biden and Harris meet George Floyd’s family on anniversary of his murder – live",
-      "excerpt": "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad4c358f08d486a7712e13",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad4c358f08d486a7712e13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 806,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/95fa8f9894af888284457c15293f5fe0131673b6/0_83_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0811f31c824459870e86ad221ddef118",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live",
-      "publishedDateTime": "2021-05-25T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-white-house-ousts-four-trump-appointed-members-of-prestigious-arts-commission.md",
-      "title": "White House ousts four Trump-appointed members of prestigious arts commission",
-      "excerpt": "The White House has ousted several members of a prestigious arts commission in the nation's capital, the latest move in the Biden administration's purge of Trump-era appointees from government agencies and boards.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i0XamVQH7oI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i0XamVQH7oI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190918105506-01-washington-monument-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/white-house-arts-commission/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/white-house-arts-commission/index.html",
-      "publishedDateTime": "2021-05-25T11:05:54-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

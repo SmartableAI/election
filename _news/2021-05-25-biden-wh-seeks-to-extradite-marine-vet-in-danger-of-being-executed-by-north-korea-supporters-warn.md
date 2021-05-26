@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden appoints Amb. Sung Kim as special envoy to North Korea, signals commitment to diplomacy"
-    excerpt: "President Biden said the U.S. and South Korea are both “deeply concerned” about the situation in North Korea, and announced he is appointing Ambassador Sung Kim as special envoy to the Democratic People’s Republic of Korea (DPRK)."
-    publishedDateTime: 2021-05-21T22:28:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/itvR3XbpNO4/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-moon-deeply-concerned-north-korea-amb-sung-kim-special-envoy.amp"
+  - title: "Hunter Biden brought VP Joe to dinner with shady business partners"
+    excerpt: "Joe Biden met with Ukrainian, Russian and Kazakhstani business associates of his son’s at a dinner in Washington, DC, while he was vice president, records on Hunter Biden’s abandoned laptop show."
+    publishedDateTime: 2021-05-26T19:16:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/feySe9nfB1M/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bcdd1c-2b91-4615-ac0a-120d7aa8316f/c8802b2d-898e-4d85-b916-7e492de9e029/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c512f608-7189-4398-997f-d62d552bb2b0/49f8f3fc-b42c-49d8-b9c8-95281a0915c8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Hunter Biden shopped reality TV show in 2019 as dad ran for president: new book"
+    excerpt: "President Biden's son Hunter Biden pitched television producers on his own reality show during the summer of 2019, according to a new book."
+    publishedDateTime: 2021-05-25T20:16:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PCoLgtBF13g/hunter-biden-joe-president-campaign-2020-battle-for-the-soul"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-joe-president-campaign-2020-battle-for-the-soul.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-joe-president-campaign-2020-battle-for-the-soul.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6679eccc-96b1-4ce3-83f7-fa70660277b5/d0f7098a-504f-4d58-880b-025796475a38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden administration drops plan for ICE deportation pause after legal defeat"
-excerpt: "The Biden administration has dropped its effort to impose a 100-day moratorium on Immigration and Customs Enforcement (ICE) deportations after a legal effort from Texas blocked the Biden campaign promise from taking place -- with the administration saying the time for it to go into effect has now passed."
-publishedDateTime: 2021-05-21T20:45:28Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QRJd2qspcvU/biden-administration-drops-ice-deportation-pause-legal-defeat"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QRJd2qspcvU/biden-administration-drops-ice-deportation-pause-legal-defeat"
-ampWebUrl: "https://www.foxnews.com/politics/biden-administration-drops-ice-deportation-pause-legal-defeat.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-drops-ice-deportation-pause-legal-defeat.amp"
+title: "Republicans grill Biden ATF nominee on past remarks on guns"
+excerpt: "David Chipman, President Biden’s nominee to run the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, faced off against Republicans Wednesday who challenged him on his past statements they say cross the line in the gun control debate."
+publishedDateTime: 2021-05-26T19:34:14Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPKQskwTIpM/republicans-biden-atf-nominee-chipman-guns"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPKQskwTIpM/republicans-biden-atf-nominee-chipman-guns"
+ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
 type: article
-quality: 172
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9310ca8a-d753-4dfe-adbd-1e7942fdb670/2d18d808-1356-46cc-b738-a315b4ce73b6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/AP21097760253459.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -47,22 +47,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Republicans grill Biden ATF nominee on past remarks on guns"
-    excerpt: "David Chipman, President Biden’s nominee to run the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, faced off against Republicans Wednesday who challenged him on his past statements they say cross the line in the gun control debate."
-    publishedDateTime: 2021-05-26T19:34:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPKQskwTIpM/republicans-biden-atf-nominee-chipman-guns"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/AP21097760253459.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden nominee made millions at NCAA while arguing against paying players"
     excerpt: "President Biden’s nominee for deputy secretary of the Department of Veterans Affairs (VA) made nearly millions at the National Collegiate Athletic Association (NCAA) while arguing against paying college athletes."
     publishedDateTime: 2021-05-17T21:57:44Z
@@ -76,6 +60,22 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0916bb05-88a2-4f06-af1b-c0914f4a8a81/4ab6e42b-1bf2-4e13-a08a-5403da397d36/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden administration drops plan for ICE deportation pause after legal defeat"
+    excerpt: "The Biden administration has dropped its effort to impose a 100-day moratorium on Immigration and Customs Enforcement (ICE) deportations after a legal effort from Texas blocked the Biden campaign promise from taking place -- with the administration saying the time for it to go into effect has now passed."
+    publishedDateTime: 2021-05-21T20:45:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QRJd2qspcvU/biden-administration-drops-ice-deportation-pause-legal-defeat"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-drops-ice-deportation-pause-legal-defeat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-drops-ice-deportation-pause-legal-defeat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9310ca8a-d753-4dfe-adbd-1e7942fdb670/2d18d808-1356-46cc-b738-a315b4ce73b6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -252,6 +252,6 @@ related:
         height: 500
         isCached: true
 
-secured: "cQva0kst1uQ/IS7pd3wZQmxPJBEhANC6WIMevD8KWKIVo8CsWbaNdFTivU8pdO/hhEjXAPtsAZ1kZZWWOH6K+XP5lbBv1BWL6um8Q49cCvtW1rhucxfwSxZ3gDMzzL7T2abwGTh4z6CRkrQMwgaXx+bx7C4/nkq4dh+c/IqqxoZiUlwHYE0q7h/3+6p6xpw3loXKeOXEJzLMxf25LHVUG1nDtnARiVPI2eStJNGuD0KYuaQLwNqCxzojRqY9WDjZdrqHHyiHdFyaLRa5rDyLPJd/BP55T40TV5kWZvPHDckbzMfas9eIWSFf/vMgAgp17SzzFgdoYbGF/lolWgjY0xoGO2GY3YpGK5FwcTQH7Bk=;7OVvfR50DcW+Va0cwvZmzg=="
+secured: "tS1SRifb43NG4zAo/dyhqc5IqwfSKSz0IZAW8OoZf0HoJDMbXeF2JY5dUanHLK1gDLw/3G+ed22L6oYtUlVUntazHONSGlQ3GF8e3XJqOLVHjRA15YGFXk8fNHrniM+1bGz58KbYB6T8KMWxHtDCdlT995ayWWWTRyeFJB9BH//QFcXHmFvxJ8kX4iii7/cEoJdjhaNlHFtDy0eAVX3P7EB1v1vCfdPEc0vOgECDziKA6zMdm+JbioKjA0JNNBgqisegD2+LXls2IAI1/ihLrehiYa6LdQnbLTHLdg03FIXbds2k1oh678RXY2ry0C6htta2j//lWf7zB2L65RZR5VQiuLUtpir2ufa9AMJ2WHI=;T8upz34LnOZFMZIdiPMsYw=="
 ---
 

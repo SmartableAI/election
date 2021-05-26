@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778"
 type: article
 quality: 112
-heat: 132
+heat: 152
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/08/02/trump-kraft.jpg"
         width: 1200
         height: 888
+        isCached: true
+  - title: "Donald Trump dangled money to end Spygate inquiry on behalf of Patriots’ Robert Kraft, new report alleges"
+    excerpt: "The son of late senator Arlen Specter alleges that Donald Trump made his father a financial offer “tantamount to a bribe” on behalf of Patriots owner Robert Kraft to end inquiries into New England’s Spygate scandal."
+    publishedDateTime: 2021-05-26T19:24:00Z
+    webUrl: "https://www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html"
+    ampWebUrl: "https://www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 58
+    images:
+      - url: "https://www.nydailynews.com/resizer/0UpW9o965_lOoPLetAi3riLkZtQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2U5LCWW2NZE2BOSLEGVAG6VMWY.jpg"
+        width: 1200
+        height: 838
         isCached: true
 
 secured: "UJqAnOhESVFtKVIyknrjxqdhsYprwRSnfIt5kXFM7DbJTODyErQRYg+nf8vweGhrppGC2mqUVLsilWs5MKCx2iB3G9pm9H2IQ5gl0O6hGwZew8os9oO9ljNdbSbBhZdUt4ooZ//QAb9+qLaYFJ5RVvQaDnhKaRhv9nPpkbKtihmsi2iegCiCJWfmi5aniAIt0XrF1PEX2td0GiEIBTCriKCEWoFhRRvs1NxMDAdIzf4E9Byuez1U1iIFmMNmywVqpvp0sixCv/uHNTwzl9zSqIlw/vIv+olSisGq4FJxKDOQUM65EHrplaEGa/PuDjWtrWg+hv/KRKqgU+NB7Ux3aYSi0lhCEyxGz2ilrL3KXfU=;4W0XNlbjcmR01dSVmfkTeA=="
