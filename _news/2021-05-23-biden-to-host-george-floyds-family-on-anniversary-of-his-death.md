@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House finalizing plans for Biden to meet with Queen Elizabeth"
+    excerpt: "The White House is finalizing plans for President Joe Biden to meet with Queen Elizabeth during his first trip abroad next month, a US official said Wednesday.\n    \n"
+    publishedDateTime: 2021-05-26T15:49:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PkJ4FAU1fI0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/biden-queen-elizabeth/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/biden-queen-elizabeth/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210526112357-biden-queen-elizabeth-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House lays the groundwork for high-profile Kamala Harris visit to Mexico and Guatemala "
     excerpt: "The White House is laying down the groundwork ahead of Vice President Kamala Harris' first trip abroad as the lead on diplomatic efforts in Central America, hoping to finalize its strategy to take on the root causes of migration before she lands, multiple sources told CNN.\n    \n"
     publishedDateTime: 2021-05-19T15:02:27Z

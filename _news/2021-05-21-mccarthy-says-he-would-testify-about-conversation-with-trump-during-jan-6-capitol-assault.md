@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/mccarthy-testify-conversation-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
 type: article
 quality: 115
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -29,6 +29,24 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "Trump asks court to toss out Capitol assault suit from Eric Swalwell"
+    excerpt: "Swalwell is suing Mr. Trump, Donald Trump Jr., GOP Congressman Mo Brooks of Alabama and Rudy Giuliani, the former president's lawyer, over the events of January 6."
+    publishedDateTime: 2021-05-26T14:11:00Z
+    webUrl: "https://www.cbsnews.com/news/capitol-riot-suit-trump-swalwell/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/2d48bb4f-3279-4bf6-90d9-c7543fa89033/thumbnail/1200x630/61ea42e1b42e185ea35df3dd7de18759/gettyimages-1230692812.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BoqOUzPFV5bcFFR5lDOOSM9qGDsDbKaASKkcs5eGYOEaYXMiwGf2hmYtEBDs+3VNF2d7xJ7fJkzBQ4ezGNOj/KaqaNfMl4Y9t59d4imO/rYhZAWgTmdwNn2Um/LdAEswJdngGvFkqiCLlb9uwM6oUM+/LDTl5g0E+HeWu9HKFCLk53/wsVjxdH5w1RoI9LbwqeDfxVajf9C24YAVFb011IwzoZyh9vKej8U2ZhWiPHEBIjSFlqAREPFz/ZyBAIMnV6fHf7GhrhaYu/8AHOsgPCI44HZu5DEtgWxgjNmU1AMz6WNfCqbdVRUKgQEeh+C2FFLfTRr1B9RQXnNso77dmJP5YyisNDsDedrpanVtmVsaQDju/YguTDNGp4+7cWULSz/p/CIHEdwoIVV+KSwaN+7UPxDjNdT/+7HVT/H7iUeG2pAZw8HFbDgAYU/BoDwMyjeJS3J1GQfazzNGbHGnpc7S43GAxRtzmD3OeQu3sWFZLj1oxu15JjcSK/6HEyEE4qoigccGBfcun+y0qwVvJw==;jx3Bym30D+oZg6Of6Qey3w=="
 ---
