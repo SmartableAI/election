@@ -76,11 +76,11 @@ related:
         height: 545
         isCached: true
   - title: "GOP senators ready $1T infrastructure counteroffer to Biden"
-    excerpt: "Senate Republicans are preparing a $1 trillion infrastructure counteroffer to present to the White House by Thursday"
-    publishedDateTime: 2021-05-25T19:25:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77900089"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77900089"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77900089"
+    excerpt: "Senate Republicans revived negotiations over President Joe Biden ’s sweeping investment plan, preparing a $1 trillion infrastructure proposal that would be funded with COVID-19 relief money as a counteroffer to the White House ahead of a Memorial Day deadline toward a bipartisan deal."
+    publishedDateTime: 2021-05-26T04:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77908600"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77908600"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77908600"
     type: article
     provider:
       name: ABC

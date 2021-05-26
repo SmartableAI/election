@@ -1,12 +1,12 @@
 ---
 category: news
 title: "GOP senators ready $1T infrastructure counteroffer to Biden"
-excerpt: "Senate Republicans are preparing a $1 trillion infrastructure counteroffer to present to the White House by Thursday"
-publishedDateTime: 2021-05-25T19:25:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77900089"
-webUrl: "https://abcnews.go.com/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77900089"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77900089"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77900089"
+excerpt: "Senate Republicans revived negotiations over President Joe Biden ’s sweeping investment plan, preparing a $1 trillion infrastructure proposal that would be funded with COVID-19 relief money as a counteroffer to the White House ahead of a Memorial Day deadline toward a bipartisan deal."
+publishedDateTime: 2021-05-26T04:23:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77908600"
+webUrl: "https://abcnews.go.com/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77908600"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77908600"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77908600"
 type: article
 quality: 125
 heat: -1
@@ -252,6 +252,6 @@ related:
         height: 432
         isCached: true
 
-secured: "gAROATrw2YLcLA6zxt7t7vKN2Tiyk1DUYpP8/j416NvuwTHCkW/abi4dWVb9TQ7LvbaIGrZps/cXntUBlsjKrbugY8+4FT2+M4W8775vBJX/H48DDfUHNuRNj9u76UiECdcM6UvPTMtJyRYq8zN4MgLuYK7oFRV8Y2ixffho3VRMpIOlfXKBcH+j1MccDnldvOAOqBnLdoYaGqm5JqcJw7DKd3tYAy3RmmdOUnpPDngqoUd51Azk1jAh30ANgYESM9Jkxx3eLcmLBjrSkcwfByfofSFgGuxxa32EwJIYmOrIsLlHojgd1pwK+bHLdue3j/3o4z3K3EpMTCdTBXAgBbom2NHYjqwZ2Z9GsvRxiPIZOqH5JqridCdouQQY5HrV2JX3Ky5xLSq7srx+rWxAx075xS7CFwHqHEbdIJ0noxbbQmupTH8NrJmIkZ9aboTj+Xj0LTvja6VF6SFp4ImS6Lyu5CvFoc/Pw9mjldSbuyMu1KsIpGke0Iw9OJAknPZ5haimm894V+cYs5S+yy/35g==;UaxNLPlAIDWNyd/yO2yUrQ=="
+secured: "Cn/4dIedsWY+V56NloRY/7tIuVywaXUyTo7ZZAluf2mFRYpvVMbEfCETVNyeJr+NVcdHFHBM6SuQlPjbD8MdflfKebliAhkfqVbGe1Prbgor8RlY7iKgBJyuCJEvnijO7/cUAIJBo+F+1evqNO59r7kF9HPXAp0cjO2MdOHLP9oK7CQqv+nS3Zn4uLVg83PaW+RCy0vfBwl7Ar2+XThPa+aAaJbdb5DuYJJ/Ap9T6zamIe26eB6n4nykuZsAjoQzCPItPOuh2tpBdpRt6su0A2YfqNx8Uflab3SZNs8VXoHVn64A58tmUKQFxpePh6ki8aYJ16nnFbj+CGAX8rQ3j8UVXoER8Xw+UlVyv114Bi4=;eGP6ZEMSXhubRhOtMOMnag=="
 ---
 

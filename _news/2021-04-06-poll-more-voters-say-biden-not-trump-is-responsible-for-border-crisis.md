@@ -207,6 +207,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Many wait uneasily as Biden unwinds key Trump asylum policy"
+    excerpt: "As President Joe Biden undoes his predecessor's immigration policies that he considers inhumane, he faces a major question: How far should he go to right perceived wrongs"
+    publishedDateTime: 2021-05-26T05:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/wait-uneasily-biden-unwinds-key-trump-asylum-policy-77909341"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wait-uneasily-biden-unwinds-key-trump-asylum-policy-77909341"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wait-uneasily-biden-unwinds-key-trump-asylum-policy-77909341"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_32d6ee400cec4a579d037e37175dffbd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden keeps Trump-era cap on refugee admissions, breaking earlier pledge"
     excerpt: "Instead, the president is adjusting the allocation limits and lifting restrictions on resettlements from Somalia, Syria and Yemen"
     publishedDateTime: 2021-04-16T17:19:00Z

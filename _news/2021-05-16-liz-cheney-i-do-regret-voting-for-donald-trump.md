@@ -76,6 +76,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump Hasn't Faded From Television News"
+    excerpt: "As he reaches four months out of office, Donald Trump may be \"sliding toward online irrelevance,\" but on television news he is still a commanding presence. The timeline below shows total monthly mentions of him across CNN,"
+    publishedDateTime: 2021-05-26T04:34:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/26/donald_trump_hasnt_faded_from_television_news.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/544172.png"
+        width: 2000
+        height: 930
+        isCached: true
 
 secured: "iCV+JqI8a97rMu0sV2XgrJCvlEG/cctUAO2oz/ugeT2LOq+oJlQR4Vxr4m3KVHT27lZlDHuSLqI5+u1UIj/zjD3RFxyiG7E7OCOUT42P51tCpA6oNYffWgzrRWhaGaQqcr6CPqEcxQ2jdVq28kG3rRA41CschtmGUMqkGd1OUe0pf+DUt656ZvqTr2e7TlxIYP6t66g4dmFbsHnZ6ukVA4LhS/H5UiQBmT5f1NxqalLNrwW/CGrj3cP9MHEEeC21m2m564eoi93fOXDVimV/cWVzbR4LZBWS7nzlfvVgXMGXQtvEmsdnZS8s4gmAJZws0oIv0lCsjR3VncxDmdPsSly7f+JJh+nm3gR8+Uz5elmLZQ/nCEn6auq+xijZ4lKv9y/iSJyfMHOEH6wBHCPqLE6jta830Vw9vd3o56G1g1CDp216HXUHc4KNZRoMkfjKLwa+p71ptD/1zC8BAgVlnkwqqDCJacOLkAuUOCzoJC8k7twUqt7+hEkKdJpa6MsiqIHvTIeR6ud661P7YnsFLw==;91qoDXbaw9GqPwC20gOa8g=="
 ---

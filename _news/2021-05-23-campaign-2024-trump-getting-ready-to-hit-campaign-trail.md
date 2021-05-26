@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://assets.realclear.com/images/54/543376.jpg"
         width: 750
         height: 562
+        isCached: true
+  - title: "Donald Trump Hasn't Faded From Television News"
+    excerpt: "As he reaches four months out of office, Donald Trump may be \"sliding toward online irrelevance,\" but on television news he is still a commanding presence. The timeline below shows total monthly mentions of him across CNN,"
+    publishedDateTime: 2021-05-26T04:34:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/26/donald_trump_hasnt_faded_from_television_news.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/544172.png"
+        width: 2000
+        height: 930
         isCached: true
 
 secured: "PMbLCI3BusOgMbtUkQeNlC+awo314tMFCQ4sxeZ2T+HbKfGOizxm3QYZaAchq612/d60bqE8kTdOg/rrw4p4CX9ggFG3uqC45LZBLAN6lExPib84x76Vh+ulltcp9B17FJtUMMlMb7FGy1lZm3NX2ZS1RnMAs8/vc6fyxyTqPJAajkx+LV6XSHjmHiiOfcMeYRno/+HiVOci3HUzvSdOLq7G56wHOWFQcThlj2z6useJJjGImqpksemW3W4PEqbN/mMAcGEvqMUowZr8FarV/KA7jBpFY3qqC7N20N09x0iCLFBJ0NRHqRCQTB8f2okcgB+XjgIhtMVOX6CiARalBL9/yqJwAUgP00pJcsj858g=;8zU//I5IyWcHYaksoZP8uQ=="
