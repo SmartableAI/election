@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden State Department quietly shut down team probing COVID origin"
+    excerpt: "The Biden State Department shut down an inquiry into the origins of the COVID-19 pandemic that was investigating whether the virus stemmed from a leak out of the Wuhan Lab of Virology, Fox News has confirmed."
+    publishedDateTime: 2021-05-26T13:44:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dEoJegnjkLc/biden-state-department-shut-down-team-covid-origin-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-state-department-shut-down-team-covid-origin-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-state-department-shut-down-team-covid-origin-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Chris Christie says Trump not a factor in potential 2024 presidential run"
     excerpt: "Former New Jersey Gov. Chris Christie revealed he will not be deferring to former President Donald Trump in his consideration of whether to run for president in 2024."
     publishedDateTime: 2021-05-19T16:21:00Z

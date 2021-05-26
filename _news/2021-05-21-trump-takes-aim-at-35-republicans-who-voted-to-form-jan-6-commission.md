@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New grand jury seated for next stage of Trump investigation"
+    excerpt: "New York prosecutors have convened a special grand jury to consider evidence in a criminal investigation into former President Donald Trump’s business dealings, a person familiar with the matter told The Associated Press on Tuesday."
+    publishedDateTime: 2021-05-26T12:17:00Z
+    webUrl: "https://www.foxnews.com/us/new-york-grand-jury-trump-investigation"
+    ampWebUrl: "https://www.foxnews.com/us/new-york-grand-jury-trump-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-york-grand-jury-trump-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53d1063b-7f45-426b-b59d-5c4536195afb/fdf093e7-efb7-4bd5-abb6-af51a0546589/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
     excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"
     publishedDateTime: 2021-05-16T14:58:00Z

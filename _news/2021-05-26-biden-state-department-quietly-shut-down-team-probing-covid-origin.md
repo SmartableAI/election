@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Chris Christie slams Biden for allowing Canada COVID 'double standard'"
-excerpt: "Christie blasted the president in a tweet posted Monday, saying more “weakness” was coming from the Biden administration’s foreign policy and vaccine messaging with Canada."
-publishedDateTime: 2021-05-25T00:05:46Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BP0rFIqgGAA/biden-us-canada-border-restrictions-vaccines-christie-criticizes"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BP0rFIqgGAA/biden-us-canada-border-restrictions-vaccines-christie-criticizes"
-ampWebUrl: "https://www.foxnews.com/politics/biden-us-canada-border-restrictions-vaccines-christie-criticizes.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-canada-border-restrictions-vaccines-christie-criticizes.amp"
+title: "Biden State Department quietly shut down team probing COVID origin"
+excerpt: "The Biden State Department shut down an inquiry into the origins of the COVID-19 pandemic that was investigating whether the virus stemmed from a leak out of the Wuhan Lab of Virology, Fox News has confirmed."
+publishedDateTime: 2021-05-26T13:44:09Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dEoJegnjkLc/biden-state-department-shut-down-team-covid-origin-investigation"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dEoJegnjkLc/biden-state-department-shut-down-team-covid-origin-investigation"
+ampWebUrl: "https://www.foxnews.com/politics/biden-state-department-shut-down-team-covid-origin-investigation.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-state-department-shut-down-team-covid-origin-investigation.amp"
 type: article
 quality: 175
-heat: 235
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,27 +25,27 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08fbe276-a23f-4272-8fe8-d0305ba39364/0b6ee7ea-6ee6-455f-8f52-2c89cebab5ce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
-  - title: "Biden State Department quietly shut down team probing COVID origin"
-    excerpt: "The Biden State Department shut down an inquiry into the origins of the COVID-19 pandemic that was investigating whether the virus stemmed from a leak out of the Wuhan Lab of Virology, Fox News has confirmed."
-    publishedDateTime: 2021-05-26T13:44:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dEoJegnjkLc/biden-state-department-shut-down-team-covid-origin-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-state-department-shut-down-team-covid-origin-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-state-department-shut-down-team-covid-origin-investigation.amp"
+  - title: "Chris Christie slams Biden for allowing Canada COVID 'double standard'"
+    excerpt: "Christie blasted the president in a tweet posted Monday, saying more “weakness” was coming from the Biden administration’s foreign policy and vaccine messaging with Canada."
+    publishedDateTime: 2021-05-25T00:05:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BP0rFIqgGAA/biden-us-canada-border-restrictions-vaccines-christie-criticizes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-us-canada-border-restrictions-vaccines-christie-criticizes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-canada-border-restrictions-vaccines-christie-criticizes.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08fbe276-a23f-4272-8fe8-d0305ba39364/0b6ee7ea-6ee6-455f-8f52-2c89cebab5ce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Chris Christie turns into Biden attack dog in early days of administration"
     excerpt: "Chris Christie appears to be turning up the volume in his criticism of President Biden. For the second straight weekend, the former two-term GOP governor of New Jersey and 2016 Republican presidential candidate turned political analyst and pundit on the Sunday talk shows has accused the president of"
@@ -80,6 +80,6 @@ related:
         height: 800
         isCached: true
 
-secured: "2YghxGqxYmY6KHsSgYIKo4OqqwVYdkfq1TC1w6ItHJpx5fDp8gbiBJg7zJ/s3GGHCXGP2v2PU7rtYuaEXOO9ZIHRy/tKSmANGTJxyNSKl5MnOQCSEY+W4F+QA+4Z+HGVJnKd1/nl5J7fSCDqjfi877Y4jQW2S2TSHgDTtZwYCbnn14UFc3ZFWLhN0H3KmsCVVRcUmBGm1QnsntfynyvciEl/qO7yr8kr61S/I3nOJfRAGs+Mh90TNpPOR8qNzz3JQdJnH7r5R28BpPbdNznhDTWq+wIOo5o1SYkIuXWkqJL6rCsU0fgmYqps6Yfg8Y9SRYWg31amWGPFzZC4DeLoNO2yotKaKHYFzrf5hlaTIaI=;uRIrTXgg48qxav2mQME09Q=="
+secured: "TTK+Jbuhd/LQpQOVgIEHfpGIajNuPgMBD3b2M3H/dc8/gRjiVYgS8O4cNirBztI+FH8octL3lvewys2T8xoYk/Ci1cuZJDcczimVO72VLnS5vWl9y3q+xB72d8PNjnm+IzIwKvkvZKmtoI9YXgnr8R5ZX6xFQmDHD8MvGX5YmX0Kw1QaTu6CXcG41pSWugT6PV8OE7/s0p/8jkm9hpv5od5OiQgSwTdXJm7v0f8Bu2DcHbRNMdpA//SdlMB6LFujfoHU5eUcTwa5XaBP/ZUlg6eFTzfBpCWvk7XPedTxwlZJ5UiAE63D8Py9m/KPqQ2upeUnfJMHS/q+0apm75XFNkxRU7q5p0TEtzUJd7PQ5PE=;VLf1t28bUb2ERCqpTHs/Qw=="
 ---
 

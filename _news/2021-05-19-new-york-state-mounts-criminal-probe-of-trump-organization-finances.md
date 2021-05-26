@@ -57,10 +57,10 @@ related:
         isCached: true
   - title: "New grand jury seated to probe Trump business dealings, reports say"
     excerpt: "The panel is expected to decide whether to indict Trump, other executives at his company or the company itself, The Washington Post says."
-    publishedDateTime: 2021-05-26T10:43:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-new-grand-jury-seated-business-dealings-reports-say/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-new-grand-jury-seated-business-dealings-reports-say/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-new-grand-jury-seated-business-dealings-reports-say/"
+    publishedDateTime: 2021-05-26T13:48:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-grand-jury-new-york/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-grand-jury-new-york/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-grand-jury-new-york/"
     type: article
     provider:
       name: CBS News
@@ -180,22 +180,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
         width: 1024
         height: 731
-        isCached: true
-  - title: "New grand jury seated for next stage of Trump investigation"
-    excerpt: "Manhattan District Attorney Cyrus Vance Jr. The Democratic prosecutor has been using an investigative grand jury through the course of his probe to issue subpoenas and obtain documents. That panel kept working while other grand juries and court activities were shut down because of the coronavirus pandemic."
-    publishedDateTime: 2021-05-26T00:18:00Z
-    webUrl: "https://www.chron.com/news/article/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
-    ampWebUrl: "https://www.chron.com/business/amp/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Trump Is Still Spending Taxpayer Money To Fund His Office, 17 Staff: Report"
     excerpt: "Former President Donald Trump can continue using taxpayer money to fund his office and staffers until July 21."

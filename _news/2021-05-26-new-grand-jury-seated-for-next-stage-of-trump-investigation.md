@@ -1,230 +1,116 @@
 ---
 category: news
 title: "New grand jury seated for next stage of Trump investigation"
-excerpt: "Manhattan District Attorney Cyrus Vance Jr. The Democratic prosecutor has been using an investigative grand jury through the course of his probe to issue subpoenas and obtain documents. That panel kept working while other grand juries and court activities were shut down because of the coronavirus pandemic."
-publishedDateTime: 2021-05-26T00:18:00Z
-originalUrl: "https://www.chron.com/news/article/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
-webUrl: "https://www.chron.com/news/article/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
-ampWebUrl: "https://www.chron.com/business/amp/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
+excerpt: "New York prosecutors have convened a special grand jury to consider evidence in a criminal investigation into former President Donald Trump’s business dealings, a person familiar with the matter told The Associated Press on Tuesday."
+publishedDateTime: 2021-05-26T12:17:00Z
+originalUrl: "https://www.foxnews.com/us/new-york-grand-jury-trump-investigation"
+webUrl: "https://www.foxnews.com/us/new-york-grand-jury-trump-investigation"
+ampWebUrl: "https://www.foxnews.com/us/new-york-grand-jury-trump-investigation.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-york-grand-jury-trump-investigation.amp"
 type: article
-quality: 75
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
+  - Republican Voice
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53d1063b-7f45-426b-b59d-5c4536195afb/fdf093e7-efb7-4bd5-abb6-af51a0546589/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
-  - title: "Most Republicans still believe 2020 election was stolen from Trump – poll"
-    excerpt: "May opinion poll finds that 53% of Republicans believe Trump is the ‘true president’ compared with 3% of Democrats"
-    publishedDateTime: 2021-05-24T21:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
+  - title: "Campaign 2024: Trump getting ready to hit campaign trail"
+    excerpt: "Former President Donald Trump is gearing up for “upcoming rallies.” And the former president, who’s expected to begin holding rallies again as early as next month, also says that he’s refurbishing the airliner that he used during his 2016 White House campaign."
+    publishedDateTime: 2021-05-23T14:09:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 139
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://i.guim.co.uk/img/media/aab738d46a9b2e7ce009c676cb4f62f8d94df627/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43f3841ea4390c7aede36e6dd996a695"
-        width: 600
-        height: 360
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes"
-    excerpt: "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April."
-    publishedDateTime: 2021-05-23T22:53:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5223698001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5223698001"
+  - title: "Graham calls for ‘draft Trump’ movement to kick-start 2024 WH campaign"
+    excerpt: "Sen. Lindsey Graham said that he really hopes that former President Donald Trump decides to run again for President in 2024. “I miss Donald Trump,” Graham said May 18, 2021 on"
+    publishedDateTime: 2021-05-19T04:49:00Z
+    webUrl: "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/"
+    ampWebUrl: "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/lindsey-graham-index.jpg?quality=90&strip=all&w=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "New grand jury seated to probe Trump business dealings, reports say"
-    excerpt: "The panel is expected to decide whether to indict Trump, other executives at his company or the company itself, The Washington Post says."
-    publishedDateTime: 2021-05-26T10:43:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-new-grand-jury-seated-business-dealings-reports-say/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-new-grand-jury-seated-business-dealings-reports-say/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-new-grand-jury-seated-business-dealings-reports-say/"
+  - title: "Trump takes aim at 35 Republicans who voted to form Jan. 6 commission"
+    excerpt: "After the House passed a bill to open a commission into January’s riot at the Capitol, former President Donald Trump blasted the 35 who were in favor of the legislation."
+    publishedDateTime: 2021-05-20T21:32:00Z
+    webUrl: "https://nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/"
+    ampWebUrl: "https://nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/trump-takes-aim-at-35-republicans-who-voted-to-form-jan-6-commission/amp/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/25/6d4f4817-2ff8-4f41-83d8-6c877a8ad6e6/thumbnail/1200x630/b9606be5f084f0bb07e863d766b8619d/gettyimages-1318749430.jpg"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-jan-6-gop.jpg?quality=90&strip=all&w=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "What we know about investigations looming over Donald Trump, his company"
-    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
-    publishedDateTime: 2021-05-19T20:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
+  - title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
+    excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"
+    publishedDateTime: 2021-05-16T14:58:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 124
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://assets.realclear.com/images/54/543376.jpg"
+        width: 750
+        height: 562
         isCached: true
-  - title: "Justice Department appeals judge’s order to release Trump obstruction memo"
-    excerpt: "The Biden administration will appeal a judge’s order to release a memo on whether former President Trump obstructed justice during the Russia probe."
-    publishedDateTime: 2021-05-25T08:06:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-05-25/justice-appeals-order-trump-russia-obstruction-memo"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-05-25/justice-appeals-order-trump-russia-obstruction-memo?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-05-25/justice-appeals-order-trump-russia-obstruction-memo?_amp=true"
+  - title: "Donald Trump Hasn't Faded From Television News"
+    excerpt: "As he reaches four months out of office, Donald Trump may be \"sliding toward online irrelevance,\" but on television news he is still a commanding presence. The timeline below shows total monthly mentions of him across CNN,"
+    publishedDateTime: 2021-05-26T04:34:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/26/donald_trump_hasnt_faded_from_television_news.html#!"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 123
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/bc8d845/2147483647/strip/true/crop/4500x2939+0+30/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F00%2F76%2Ff495fabdcc1b964d932368d5e6da%2F01e1c590733b491a823c07e95769dd3d"
-        width: 320
-        height: 209
+      - url: "https://assets.realclear.com/images/54/544172.png"
+        width: 2000
+        height: 930
         isCached: true
-  - title: "Poll: A quarter of Americans say Donald Trump is 'true president' of the US"
-    excerpt: "An online Reuters/Ipsos poll of about 2,000 Americans finds sharp partisan differences in beliefs on the legitimacy of the 2020 election and more."
-    publishedDateTime: 2021-05-25T17:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/25/poll-quarter-americans-surveyed-say-trump-true-president/7426714002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7426714002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7426714002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/20ff0474-6182-48fa-9e03-2c65ffaf7e9a-AP_Capitol_Breach.jpg?auto=webp&crop=5869,3301,x1,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
-    excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
-    publishedDateTime: 2021-05-23T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZDIOTSTYMUI6XFEJR562ZVI6OU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
-    excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
-    publishedDateTime: 2021-05-20T19:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
-        width: 700
-        height: 525
-        isCached: true
-  - title: "Trump's Ex-Advisor Says COVID-19 Pandemic Was Fabricated To Control 2020 Elections"
-    excerpt: "Donald Trump’s former National Security Advisor Michael Flynn has alleged that the COVID-19 pandemic was fabricated to control the 2020 U.S. election. Flynn, a retired general who is one of the most well-known figures in the QAnon conspiracy theory,"
-    publishedDateTime: 2021-05-24T02:26:00Z
-    webUrl: "https://www.ibtimes.com/trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-control-2020-elections-3206534"
-    ampWebUrl: "https://www.ibtimes.com/trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-control-2020-elections-3206534?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-control-2020-elections-3206534?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 84
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/25/general-michael-flynn-pleaded-guilty-to-lying-to.jpg"
-        width: 1024
-        height: 602
-        isCached: true
-  - title: "Most Republicans Still Believe 2020 Election Was Rigged, Trump Is Actual President: Poll"
-    excerpt: "A new Reuters/Ipsos opinion poll found that 53% of Republicans believe Trump is the “true president”, compared with 3% of Democrats and 25% of all Americans."
-    publishedDateTime: 2021-05-25T02:34:00Z
-    webUrl: "https://www.ibtimes.com/most-republicans-still-believe-2020-election-was-rigged-trump-actual-president-poll-3207536"
-    ampWebUrl: "https://www.ibtimes.com/most-republicans-still-believe-2020-election-was-rigged-trump-actual-president-poll-3207536?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/most-republicans-still-believe-2020-election-was-rigged-trump-actual-president-poll-3207536?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 81
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
-        width: 1024
-        height: 731
-        isCached: true
-  - title: "Trump Is Still Spending Taxpayer Money To Fund His Office, 17 Staff: Report"
-    excerpt: "Former President Donald Trump can continue using taxpayer money to fund his office and staffers until July 21."
-    publishedDateTime: 2021-05-18T01:23:00Z
-    webUrl: "https://www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158"
-    ampWebUrl: "https://www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
-        width: 1024
-        height: 731
-        isCached: true
-  - title: "Trump Organization Faces Criminal Probe In New York State"
-    excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
-    publishedDateTime: 2021-05-19T10:35:00Z
-    webUrl: "https://www.ibtimes.com/trump-organization-faces-criminal-probe-new-york-state-3202928"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/18/a-sign-for-the-trump-international-hotel-in.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "New York State Mounts Criminal Probe of Trump Organization Finances"
-    excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
-    publishedDateTime: 2021-05-19T07:02:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-19/new-york-state-mounts-criminal-probe-of-trump-organization-finances"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
-secured: "ajrqo0XjK4Agjwgr43yw2y8tQrCNYwl1sy2UzTdRASZvWYP3nEu3HVSXQ9Jc2Vf9i/Pj2boMYBSjqVjKFyqzr0v+JQcEYvp+bTEhEvw2BPiH4TMnZIsREfUSQN0bmWvSjhSVJW+47r0qa4+ET5D1kbmd1aYSYpZOlxMzd3hNve58sI2UzP7t/qaehhJRGd2xPLE+6erlwCb492SQb+ge5qfYYxP+oxAW6QTMS6OkL6tjjoTqQFxF6Yw/xZkLUicK6XaqRd6ZL2FLMHIgaGt7bw+cEOAI6s5HLbNJbyn5jFaKeLcAbq5zIB2fEfIolIeYRgnW7d0IivW1ZKkO/UDgBM9iFL7FPIZGnpY8bvHf804=;F4UeQGBHPvlvDFAGJ6q4xQ=="
+secured: "SHMHCTpbBoCbi4ujPgg7hePxQVQMgFzNSBuXn+arGKeZN87RGasc4xOgkR1pQG8kzKTNcNa7EXg6EyXjrtoj5Je9AwkzFoeRNIQ0TmoXXo8Mtj/AVDqJdmYwOtWDzOvWmSmlOsY3tFhoYl8wjnaL29AMMs4jUZ039lHEDIKU1JYa8IqSuQPXdKW4EyZ5vkLxSOOVwmC7+onul5CVIBZipYNUe+VQrQjcuB4hlkoz2TbgpHrnv/JSMoXFt3OCZ0JxsDmRVNDCKyqBDKcl51v5mxXekFPv94TgSnq0yomot58WJQCuDVk19LY/8Frz1Xalb6szu7N6Voy5RLKoFSmzkKIdeEUcibHFwYEoGq8NmCI=;MIM0JfSLna4IPmeg2KAsPA=="
 ---
 

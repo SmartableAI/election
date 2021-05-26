@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump administration secretly obtained CNN reporter's phone and email records"
-excerpt: "The Trump administration secretly sought and obtained the 2017 phone and email records of a CNN correspondent, the latest instance where federal prosecutors have taken aggressive steps targeting journalists in leak investigations.\n    \n"
-publishedDateTime: 2021-05-20T22:20:19Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9tqOPv59K1g/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9tqOPv59K1g/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html"
+title: "CNN legal analyst breaks down Trump probe grand jury report"
+excerpt: "Manhattan's top prosecutor has convened a grand jury that is expected to decide whether to indict former President Donald Trump should prosecutors present criminal charges in their probe of the Trump Organization, two people familiar with the matter told The Washington Post. CNN's Elie Honig breaks down"
+publishedDateTime: 2021-05-26T12:46:00Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q88Rz6SHNu8/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q88Rz6SHNu8/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/05/26/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/05/26/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
 type: article
-quality: 172
-heat: -1
-published: false
+quality: 175
+heat: 315
+published: true
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520173734-doj-building-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519090310-02-trump-tower-nyc-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "CNN legal analyst breaks down Trump probe grand jury report"
-    excerpt: "Manhattan's top prosecutor has convened a grand jury that is expected to decide whether to indict former President Donald Trump should prosecutors present criminal charges in their probe of the Trump Organization, two people familiar with the matter told The Washington Post. CNN's Elie Honig breaks down"
-    publishedDateTime: 2021-05-26T12:46:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q88Rz6SHNu8/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/05/26/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/05/26/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
+  - title: "Trump administration secretly obtained CNN reporter's phone and email records"
+    excerpt: "The Trump administration secretly sought and obtained the 2017 phone and email records of a CNN correspondent, the latest instance where federal prosecutors have taken aggressive steps targeting journalists in leak investigations.\n    \n"
+    publishedDateTime: 2021-05-20T22:20:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9tqOPv59K1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519090310-02-trump-tower-nyc-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520173734-doj-building-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -144,6 +144,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "qbWfHCjZUV6TloCU4iuTdJ1bJ+u+t9bmh8+jsjDF9PBtjPnkxY+b0Oqm6DehjxY+7Q9s4wjbY4pHs94lGUSfTTMvUpKTw2ZOIFNqrNfjwj1lhkoYykNQbJL7w1HCPC0wtAYFmQQoyXjCnKuufVjX4Pqtou25w7xkkbn961oHwHF+jUdC/tteLwymbWBSED7jUoSbvufATJbZRprBgRxTFof+x35lz7gv+JpjpyKOM670EF8lwKVmtpT2difhhyQb0hSdFAGRULB6F3N3iGjOw291cbuDNeO6vB27A9PVhSUMIesq1i1LiFHUYzalnBnq9jjauKENMvdnw1ILgNB8vvVpS7NigrhFVb5y9UlpdnQ=;znlJwlPE5/+6AEQOXlVkuA=="
+secured: "bxiVXwRAygcjhsUE13XZ29jKwwPHdHUZTif5HJTZBiJjau2ZDeXVswnUmtYHDXmudfOJdapCmMXgDcFwbIPy80SW7OLH3hyEDimGJnAZ1ElZd6v/kmdT5B0fXRZ1ZFig6gs+SbhzUJBTqEA9PXZOc2sebrWgwQ787LWd1mHGGNM5vWE49T0XfhrPGGFQ5NJQYicZysERhQTWIcLB7MKab5lbDOWL6qt0PJfwvtAwvkFQ9lGrny7EkADyEYBQGEzmSQicr/TlJrtJqND8LOHv2Hqzj4NphXPkfTX4dX8R/2rbW1gQzJxWOgThK3XP2AP1nYC2l7Xn9mlwq+4GbadwEwGeG7EQUk+a3BZAxbLequk=;YCC52FzD9+rUg3g0zUjPpQ=="
 ---
 

@@ -32,53 +32,117 @@ images:
     isCached: true
 
 related:
-  - title: "Senior Trump Air Force official suggested dramatically slashing F-35 jet numbers "
-    excerpt: "The official in charge of purchasing military hardware for the US Air Force suggested slashing the total number of Lockheed Martin F-35 jets for the service by more than half late last year, according to two former defense officials involved in the discussions who spoke with CNN. The news comes as Congressional"
-    publishedDateTime: 2021-05-15T14:03:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RfwDY6IUY0c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html"
+  - title: "CNN legal analyst breaks down Trump probe grand jury report"
+    excerpt: "Manhattan's top prosecutor has convened a grand jury that is expected to decide whether to indict former President Donald Trump should prosecutors present criminal charges in their probe of the Trump Organization, two people familiar with the matter told The Washington Post. CNN's Elie Honig breaks down"
+    publishedDateTime: 2021-05-26T12:46:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q88Rz6SHNu8/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/05/26/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/05/26/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181120183114-f-35-elephant-walk-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519090310-02-trump-tower-nyc-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Newly obtained bodycam footage shows moment DC police officer attacked by pro-Trump rioters"
-    excerpt: "Newly obtained body camera footage shows the moment DC Metropolitan Police Officer Michael Fanone was brutally assaulted while defending the US Capitol during the January 6 insurrection.\n    \n"
-    publishedDateTime: 2021-05-13T03:14:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qZTmxZ1zQ0c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/dc-police-officer-fanone-bodycam-footage-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/dc-police-officer-fanone-bodycam-footage-cnntv/index.html"
+  - title: "Trump administration secretly obtained CNN reporter's phone and email records"
+    excerpt: "The Trump administration secretly sought and obtained the 2017 phone and email records of a CNN correspondent, the latest instance where federal prosecutors have taken aggressive steps targeting journalists in leak investigations.\n    \n"
+    publishedDateTime: 2021-05-20T22:20:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9tqOPv59K1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114204226-metropolitan-police-officer-michael-fanone-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520173734-doj-building-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Giuliani, who urged Trump supporters to have 'trial by combat,' says he wasn't literally calling for insurrection"
-    excerpt: "Lawyers for Rudy Giuliani -- who exhorted Trump supporters in Washington on the day of the Capitol riot to \"have trial by combat\" -- are now arguing that he wasn't literally advocating for an insurrection over the 2020 election results.\n    \n"
-    publishedDateTime: 2021-05-18T11:56:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s-YwWBqzcuc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/rudy-giuliani-january-6-insurrection-lawsuit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/rudy-giuliani-january-6-insurrection-lawsuit/index.html"
+  - title: "Washington Post: Manhattan DA convenes grand jury to consider potential charges in Trump Organization probe"
+    excerpt: "Manhattan's top prosecutor has convened a grand jury that is expected to decide whether to indict former President Donald Trump should prosecutors present criminal charges in their probe of the Trump Organization, two people familiar with the matter told The Washington Post.\n    \n"
+    publishedDateTime: 2021-05-25T23:49:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fjfcdaL6DdA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/manhattan-district-attorney-trump-organization-grand-jury/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/manhattan-district-attorney-trump-organization-grand-jury/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 154
+    quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518112523-file-rudy-giuliani-0106-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "CNN: Trump Justice Department seized reporter's email and phone records"
+    excerpt: "The DOJ secretly obtained Pentagon correspondent Barbara Starr's phone and email records in another apparent leak investigation to identify a journalist's sources."
+    publishedDateTime: 2021-05-21T14:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/cnn-trump-justice-department-seized-reporter-s-email-phone-records-n1268136"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268136"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268136"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476652/210521-doj-trump-mb-1530_b5f661bfa9dd8a5326b015d5a23c57a6.jpg"
+        width: 4000
+        height: 2667
+        isCached: true
+  - title: "Jimmy Kimmel Believes Trump Would Flip on His Own Children"
+    excerpt: "Kimmel agreed with Michael Cohen, the former president’s longtime personal lawyer, who said in an interview that Trump would turn on anyone to save himself."
+    publishedDateTime: 2021-05-21T06:34:00Z
+    webUrl: "https://www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/21/arts/21latenight/21latenight-facebookJumbo.png"
+        width: 909
+        height: 476
+        isCached: true
+  - title: "Indictment against former Trump adviser Bannon is dismissed"
+    excerpt: "The onetime chief strategist, accused of defrauding donors in a $25 million fund to build a wall along the U.S. border, had been pardoned by the president."
+    publishedDateTime: 2021-05-26T04:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/indictment-against-former-trump-adviser-bannon-dismissed-n1268588"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268588"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268588"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_34/2288866/180110-steve-bannon-ac-727p_e8b0300a10c51c63a114531d87cb7ac8.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Sondland sues Pompeo, U.S. government, for legal fees over Trump impeachment probe"
+    excerpt: "Former U.S. ambassador to the European Union, Gordon Sondland, filed a lawsuit against former Secretary of State Mike Pompeo and the U.S. government. Sondland is seeking $1.8 million in legal fees he accumulated during the first House impeachment investigation against then-President Donald Trump."
+    publishedDateTime: 2021-05-24T20:24:00Z
+    webUrl: "https://www.nbcnews.com/now/video/sondland-sues-pompeo-u-s-government-for-legal-fees-over-trump-impeachment-probe-113087557862"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo113087557862"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo113087557862"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media14.s-nbcnews.com/i/mpx/2704722219/2021_05/1621887619887_ott_now_pwilliams_210524_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "wB5Pyu1utE5nBx9j7ZOgoghl2ROqQiTrRUeeQedbPDlGEtfN5fOi4NjvsnmkGI1VsfJgdC5KB5hXAFgM/q2zX1ep+V6FQ5VJ85HlowtHif3i9XDgfdN9gGQ2mtcgoXAYqcsjGKzVsQKjj5ORMjGf8E2oUbvQPV9uBuafNW6dnIkgYX8NHlkM0F8CT3/GseDXw/s5rPeT6BMo5OMQl9rHCnVpGUDy59ffmvY+8Z6BGq0hhv9QP14m9VCBqjQEt3rLk42/AlIkx+8RkqaTTgWop6qqQHU9FZBvT5aJBEMw958+x7Q0l08XEy9cwMyNysWjn37OYnfxZOQLGo0aIJHPUkEG3u9DAMniG71GCHqq+s5Gx7ONM99SRxPaH7ydjYcbz0I4uUSplkBndowxsp0FwBGP+izkYyLzabxl0SXNPfiWZiDXBQ3XeBzbSUz6bf2iOR2Gt3jfbx0U4LEijRKpBHHMooOP+OR6fmZ/EBGkTSr4+yur+cQilqXPeuAhPp6WFEb9nkVuruEPXKEzAbNBcg==;ny0hyPMOVh9fh4SqaK320Q=="
