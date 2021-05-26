@@ -439,14 +439,14 @@ related:
   - title: "Vice President Kamala Harris swears in Kristen Clarke at Department of Justice"
     excerpt: "Vice President Kamala Harris speaks to the media after the swearing in of Kristen Clarke at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
     publishedDateTime: 2021-05-25T23:51:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/7c0da4605c8a0a6916af116e4c54df0a/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3b7ee3a32a21a134b3ac19bacd24459e/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 51
     images:
-      - url: "https://cdnph.upi.com/pv/upi/7c0da4605c8a0a6916af116e4c54df0a/HARRIS-CLARKE-DOJ.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/3b7ee3a32a21a134b3ac19bacd24459e/HARRIS-CLARKE-DOJ.jpg"
         width: 650
         height: 433
         isCached: true

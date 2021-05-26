@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris swears in Kristen Clarke at Department of Justice"
 excerpt: "Vice President Kamala Harris speaks to the media after the swearing in of Kristen Clarke at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
 publishedDateTime: 2021-05-25T23:51:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/7c0da4605c8a0a6916af116e4c54df0a/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/7c0da4605c8a0a6916af116e4c54df0a/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/3b7ee3a32a21a134b3ac19bacd24459e/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/3b7ee3a32a21a134b3ac19bacd24459e/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
 type: article
 quality: 51
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/7c0da4605c8a0a6916af116e4c54df0a/HARRIS-CLARKE-DOJ.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/3b7ee3a32a21a134b3ac19bacd24459e/HARRIS-CLARKE-DOJ.jpg"
     width: 650
     height: 433
     isCached: true
@@ -483,6 +483,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "yFbYP4RIhAM/v7LvWIe0E2TznZ5WHwRVA4l6iSHSzo0j8kb1uZci1vIpRn/aFA+fgGqy2Im94mwuZjzu0BDsvSr5KzH2CyKhjg0lkmTZK00wOO0nctpy9v9QtyKMaNUM/LJIXDHyHILzGv7W4TmNuvOAB72zHKNTL7D+RQ1Sh8lBVKu1+ngiihwANYOvv2YLOVxKeM9z1rANx/7PnV8dI7yzLjX1FCwhZ7qg03DPNNM8eu7WEDzQ/Z1tHlqkqq5aEe4qrdyAS4Y4goMg1GsdPvbwcFVI3qXZGmZXdBev7V2yoq7eu3vl7vz+XPob5mVUr1mQc7eN8KIqgevFOxWprW4INrD2sPYH3IWEzXfhIP8=;zsI98DB8pupK5PtmhzMfTQ=="
+secured: "2VXsvhXPugm3i66heuAvrGcUr5hEzhYMbPitrpPzn8b/ENyXpadr7AWcsxnS3aMHBf0Z9zKwo8YAS/UelvaQRaemX2WqKX7RuQ7/ckBVu/DHSPKqV+kuAijCw+1qcfV2RzZerCIcShvFxwvNyNfa9BZBWRmB5t3mOXhb9MlcszkhlyNFy7DMhQDuM6holdospz1XhNYEPh02Fq7Eh146av0X0aPEUuZPJh4ZlqXADtC6KtDBtM0uqrRaT/GcUfRFIW6Z7Bt7Q0T6XksSR3eD3ZPJ4SsUt08Ulq418DKR0qWQnOodLOMr6mw/y7BVur6FFrJm8ln3LXnpFqA9+O846Lkp10gaQ1IqiBS7AjpkRmU=;aoLCz1Ut3cPVSpHQKukTuQ=="
 ---
 

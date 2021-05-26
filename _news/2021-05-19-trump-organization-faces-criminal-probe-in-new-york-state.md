@@ -196,6 +196,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "New Grand Jury Seated for Next Stage of Trump Investigation"
+    excerpt: "New York prosecutors have convened a special grand jury to consider evidence in a criminal investigation into former President Donald Trump’s business dealings."
+    publishedDateTime: 2021-05-25T23:02:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-05-25/new-grand-jury-seated-for-next-stage-of-trump-investigation"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "Ds12MJEguCWsu5Wqd1FtoWWb4umkt7o3ynUjuyCO+RU7WnOgPhQV7Nb6BT4nCu9Snwg+z6ia4a0KccrQ9BDk1Mlf/lYs02IX26qbkGKETLB7mfIpw1biyvpx/LYd0U3fycyvv40QA5XcHkUALKUNdgI/mwDZf2LK7ZD669FA9R94lVHtblEpRl0BlwHjUaMI/kCcQpIktQLFfh+TjgbIXVWuVMccxzl2MTqzYqEuTFk9Q6b2cpRBejRUj23a4uS3lNpqTZ1LixiZf8JFKMG6+h7szAbX0/unYBhDJ7fx7zLVs5b+yaQMd9zGv2nfISp5mvIwO9/0Un226jdX3jUtLSf7Jw5/LidVMpoVnj7Vbdwe5ISH7FDGR3/fgnsIePVExA6J6ehlTevr/bN2OdmUSamNlkV+ZkKcO9iZSjv6Nt2D3KyUDMyZ1nmyShYZEIAAfRKNtL9jOtcxMqUOc0ulBnB9+fZ9mvVvUUT6enfBwOLl5rnBLpBewHJjwg78J2UHP/6KzHjhmz2s4aZqlj5WwQ==;jbMJGHFSzjXeR/aDKVM6YQ=="
 ---

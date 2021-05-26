@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/new-york-ags-office-says-trump-orga
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
 type: article
 quality: 171
-heat: 291
+heat: 311
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-james-investigation-931.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump Probe Prosecutors in Manhattan Convene Special Grand Jury"
+    excerpt: "The development signals prosecutors are seeking indictments following a multiyear investigation into the Trump Organization and its officers, former prosecutors said."
+    publishedDateTime: 2021-05-26T00:20:00Z
+    webUrl: "https://www.wsj.com/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-343902/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "New York Attorney General Bolsters Manhattan Prosecutors’ Trump Investigation"
     excerpt: "The attorney general’s investigation has been probing alleged financial misconduct similar to that being looked at by the Manhattan district attorney’s office."

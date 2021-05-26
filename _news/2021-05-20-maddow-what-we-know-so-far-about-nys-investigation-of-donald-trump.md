@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Probe Prosecutors in Manhattan Convene Special Grand Jury"
+    excerpt: "The development signals prosecutors are seeking indictments following a multiyear investigation into the Trump Organization and its officers, former prosecutors said."
+    publishedDateTime: 2021-05-26T00:20:00Z
+    webUrl: "https://www.wsj.com/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-343902/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "New York Attorney General Bolsters Manhattan Prosecutors’ Trump Investigation"
     excerpt: "The attorney general’s investigation has been probing alleged financial misconduct similar to that being looked at by the Manhattan district attorney’s office."
     publishedDateTime: 2021-05-20T00:54:00Z

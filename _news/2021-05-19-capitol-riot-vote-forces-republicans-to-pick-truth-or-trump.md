@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New Hampshire auditors see no sign of fraud -- as Trump claims otherwise"
+    excerpt: "Outside a nondescript building, guarded 24/7 by state troopers, the leaders of Windham's election audit field questions on the type of tape they're using to seal boxes, why the livestream briefly failed and whether any ballot boxes have gone missing.\n    \n"
+    publishedDateTime: 2021-05-26T01:23:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A4vPLL97cQc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/new-hampshire-audit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/new-hampshire-audit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525193153-new-hampshire-election-audit-0511-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McCarthy's bid to quash January 6 commission underscores GOP split on Trump "
     excerpt: "Less than a week after Rep. Liz Cheney was ousted from her leadership position for her opposition to Donald Trump's lies about the 2020 election, House Republicans are mired in yet another fight over Trump -- this time whether to move forward with a bipartisan commission to investigate the January 6"
     publishedDateTime: 2021-05-18T23:07:57Z

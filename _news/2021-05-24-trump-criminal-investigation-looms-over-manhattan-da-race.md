@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-criminal-investi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1806845/donald-trump-grand-jury.jpg"
         width: 2500
         height: 1737
+        isCached: true
+  - title: "New York district attorney convenes grand jury in Trump criminal inquiry"
+    excerpt: "Investigation includes matters such as hush-money payments to women on Trump’s behalf, property valuations and employee pay"
+    publishedDateTime: 2021-05-25T23:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/25/trump-criminal-investigation-new-york"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/25/trump-criminal-investigation-new-york"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/25/trump-criminal-investigation-new-york"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/c1bd6a4623e0c0f595c124b4c03f4019160174c6/0_83_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a9bf392acec49fb8c1c99f54bfbd0d9"
+        width: 600
+        height: 360
         isCached: true
   - title: "New York Attorney General \"investigating the Trump Organization in a criminal capacity\""
     excerpt: "New York Attorney General Letitia James launched a civil probe into the company in 2019, but that investigation \"is no longer purely civil in nature\""

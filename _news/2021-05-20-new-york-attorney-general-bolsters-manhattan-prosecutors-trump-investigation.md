@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Probe Prosecutors in Manhattan Convene Special Grand Jury"
+    excerpt: "The development signals prosecutors are seeking indictments following a multiyear investigation into the Trump Organization and its officers, former prosecutors said."
+    publishedDateTime: 2021-05-26T00:20:00Z
+    webUrl: "https://www.wsj.com/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-343902/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Administration Officials Defend Security Response to Jan. 6 Capitol Riot"
     excerpt: "Former acting defense secretary tells congressional panel that the military’s response was proper when the pro-Trump mob sought to prevent Congress from certifying President Biden’s election."
     publishedDateTime: 2021-05-12T17:34:00Z

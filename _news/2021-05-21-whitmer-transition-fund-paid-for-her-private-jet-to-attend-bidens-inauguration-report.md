@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Lawrence Jones slams President Biden for failing to deliver on promise to 'heal' America: 'Where are we now?'"
+    excerpt: "\"Fox News Primetime\" host Lawrence Jones ripped Joe Biden and Democrats Tuesday for their lack of urgency in solving America’s policing problem and not addressing the real issues facing Black America."
+    publishedDateTime: 2021-05-26T01:38:00Z
+    webUrl: "https://www.foxnews.com/media/lawrence-jones-slams-president-biden-failing-promise-heal-america"
+    ampWebUrl: "https://www.foxnews.com/media/lawrence-jones-slams-president-biden-failing-promise-heal-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lawrence-jones-slams-president-biden-failing-promise-heal-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/178211ca-6a68-4596-9274-d5b737e196fb/9c302308-93b8-4828-a2fb-0d653120b8ca/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "President Biden: \"Every Time We Let Hate Flourish, We Make A Lie Of Who We Are As A Nation\""
     excerpt: "President Biden is set to sign the COVID-19 Hate Crimes Act into law at 2:00 pm on Thursday. President Biden and Vice President Harris will deliver remarks from the East Room at the White House."
     publishedDateTime: 2021-05-21T02:22:00Z

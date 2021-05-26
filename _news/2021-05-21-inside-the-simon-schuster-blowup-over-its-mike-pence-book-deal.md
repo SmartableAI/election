@@ -3,8 +3,8 @@ category: news
 title: "Inside the Simon & Schuster Blowup Over Its Mike Pence Book Deal"
 excerpt: "Some of the publisher’s employees and authors demanded it drop the potential blockbuster, saying it betrayed the company’s promise to oppose bigotry, while the CEO defended a commitment to a broad range of views."
 publishedDateTime: 2021-05-21T13:23:00Z
-originalUrl: "https://www.wsj.com/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009?mod=newsviewer_click"
+originalUrl: "https://www.wsj.com/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
+webUrl: "https://www.wsj.com/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
 ampWebUrl: "https://www.wsj.com/amp/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/inside-the-simon-schuster-blowup-over-its-mike-pence-book-deal-11621607009"
 type: article
@@ -145,6 +145,6 @@ related:
         height: 640
         isCached: true
 
-secured: "sNTnDf5v1bhe1Qs7idKQE62R35u7hvNxrETQbfzRrnxuRbEVhNkWGemW7887dhIdfYnxRtXl7ezqcO8vBsRGhH83SdvmSU1XqKhCg37h2E4JDNV5jl00+44PBDA4nsbNvmAfFg1hWnzGVbTksj1Yf2fk6yhVulCUlYsIBJVMtEB+sQhHkqZVRX8KWz8anapJBaoMpTPdFQa5XVPvwqIy9CMoS2IfC0nJT+aWRN8fk5y60itbm1hmOE+xOHaTvl8XU3o2Lg3Rs1fX+LF0aW6s3d9Swv/EC/maQ8JqvQeVYZbP8JuEzGhqzi8JZmT/g7wHbEBFAUoydn+Bp8UbdxI40xr277JvgQxHZRDEjOyn2avBcs2hx+qIgG4jrXcjW+gTg3kODzp9Ds5h+H9MEAwKn7SRXn6Zj1hoi8znyNPfx5pudx5VYmxSAGHy8CIp0vEq91Os1WubgKa9NAlR2mMsDgThuWwf4nrlsR3gay5G61vTGxzRuGrB3yoKk9y7/q8oKdUcOpSE44vKGxHVL+oGgA==;Biead4GbFjARhrQBYN27Dw=="
+secured: "Z+M060mPeUYRzumeFwVVnff2jZ+RYInEDM72soO/L1DIu7VYug5v+hHqEEAn6PJHla1/dpmU6Jaml8QvVrDCKjzie5vddKFstAjDWsBuaia65styATV/OpEfb7VZFDv0zNUum63yDZJyaJQtm2+kIct5+LIwRuC4BSBeYbskwO3zqVvewZuRHBVJln4i0nAk3V15uulthUxnBxQl8BR3BIZKVZcP2YOvoJES9hDQ6jYngI5JKKPVOvOVfvHHVucWmq5Crf5HhwVTFXe+fBSImDxoM/SWGBg+BsV6mS4LLGMBIJm6vtdRe/X+jpG9iw9bqzQn3T9B9GzmLtcJWa6KFVDv7WeSSxoaCyc8Tkxdvbw=;0+WId4l9F6OV6pR5Wt5muw=="
 ---
 

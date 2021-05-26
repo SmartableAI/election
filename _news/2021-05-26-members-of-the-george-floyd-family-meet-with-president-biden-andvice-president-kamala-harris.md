@@ -439,14 +439,14 @@ related:
   - title: "Vice President Kamala Harris swears in Kristen Clarke at Department of Justice"
     excerpt: "Vice President Kamala Harris speaks to the media after the swearing in of Kristen Clarke at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
     publishedDateTime: 2021-05-25T23:51:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/7c0da4605c8a0a6916af116e4c54df0a/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3b7ee3a32a21a134b3ac19bacd24459e/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 51
     images:
-      - url: "https://cdnph.upi.com/pv/upi/7c0da4605c8a0a6916af116e4c54df0a/HARRIS-CLARKE-DOJ.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/3b7ee3a32a21a134b3ac19bacd24459e/HARRIS-CLARKE-DOJ.jpg"
         width: 650
         height: 433
         isCached: true
@@ -483,6 +483,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "G5tNcvMh2VGWbYP+abr8z2leqM1xgC4M9w1dOXVezEvujB4G6l84keBE3mIVqObqOZ7rEdvvDGfle2GhYH82GRY7BoTZ4giW9FZdwveHMyhp1iJK70QaQ3lmG7wh8Xe77NC+J4Iur+vZIR5YUd0uaBexZe6hIBAyBGWfvn/nRGzHXh/zk4T2LMlmkkunQZ1p7JlqR0U+X22TG/MACyCaiAXrMMVob+St1geNZYIZHCeAPfXPkuRPrCZQZnmp9N8fZ/UP9p80Oz+KXaroS+urc9lszlRahZM2q2kIu5s3H/yJz3JmCvT9BladbZT0LDeSf1KoeNryfigbDi/R6A2lSwGthuQjiqlrHonwIlGCpp4=;U9iYYI4tmq64kFG3ja9Zcg=="
+secured: "Hvut+XlvGNIlEsQFkLyF5k0au/7fStuTk1VYZqrQRw7oEhdoQ4T2KPURfKOBKWG8Z1btECuy2WFoyQQkmbsQZKF1YaakR+EKUeUmeNDrkZbDxY2oFR5mFEOHm0Dd9c2vG+iks8yeveqvZEfugCY2MTnDMtd+RueC4euOc//UCY9svaQdnQuwE2pYHPv+bAcVOObaxB7ai0ofiS5fFMN7oKselMZ7+XrHN9XtHEt97NK8agoYFSuTIt/8XabwLMPdO6m1RVT81cBKhVoVZCpYwu0yQvCYqsO1MJuLSnCSBmdju4pxW1faFXc/hndizEqNMCoHlhgBC4QLDXrhqZQGTN1oHIDIz3Bd5KG9J1/IwisHetFEn7f2NoalspS0STwPgbRbUQTOnPWqzcRP7p1qU7uwPttXjkpWWtshCM+PlMP6+f3lrPAAyre43Nr+oceChBxh0Ew88eVfNAzn3ueXaJO9asKzwlKPzCy8SGEj8wyN4TjszImqi3cL6gwJ8CvJREGcHRqscs/65FB2c7wQNg==;UR3ENuhQQJI4pZpLLj6TCA=="
 ---
 
