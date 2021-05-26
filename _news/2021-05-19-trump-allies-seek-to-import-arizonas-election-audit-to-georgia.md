@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html"
 type: article
 quality: 190
-heat: 450
+heat: 470
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Where things stand in the Trump criminal investigations"
+    excerpt: "Former President Donald Trump left the White House four months ago, but he didn't leave his legal troubles behind, and in recent weeks there have been new indications that some of the criminal investigations involving Trump are intensifying.\n    \n"
+    publishedDateTime: 2021-05-26T21:39:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1QQaXbTz1S0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/trump-criminal-investigations-latest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/trump-criminal-investigations-latest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521102719-donald-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

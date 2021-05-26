@@ -2,9 +2,9 @@
 category: news
 title: "George Floyd’s family urges Biden to pass a policing reform bill - live"
 excerpt: "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live"
-publishedDateTime: 2021-05-25T22:19:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad73a18f08d486a7712fad"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad73a18f08d486a7712fad"
+publishedDateTime: 2021-05-25T22:40:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad86e18f088d8c31789231"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad86e18f088d8c31789231"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
 type: article
@@ -508,6 +508,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "1DhwaHVsVlUiP58+zCeVNWStPr7Z3Wrv+G0AhSBMap+dmsYhpcARCdFEQAkyHr332O77r2B/P4FPr3aXBLMKvFj9q4GcqZhVj1K2+i9biohG748YfPQVXJYtSuQ4X+y3HRGgwwd2G0vm9qGQz1IkWLbRCFoNnmOPqtSrWK+aGhCGATx7ySDCu6OBJAGGoGYknRbbi0qtRnCY+MJL46yuvXE1D1XvrFKT6uvnIS5nFXTZQFwxlFFA+Aj8eoizY4n7t590CTKVErKwaE2CE5WhJu/3yVrsyw4Odryqr1xDCwugmMWuhqP6WwS48Qn3NaWV4eY5u38Lwk7VTWAIcb2p/UZfKoaQwR0xNNS6ybv3r34bN9+J4YNaBngeMxAQIDAGB5Zu3OlJNCTTanl3FkR0aFipFOgHZVf6zRhCia/K31XIsO6bHBXnBUgAZBe0M2QiKRbzDu0p+1yF5oPjLot1imq8qJBqbEx4VN8WVN0T+9tWJ5YDBQz58gFu1bF2//bD2QzhtH8FVyxjRkTVKAEspA==;1S7Q35j9dvxASNydS5rM6g=="
+secured: "QQEKlHjMAkJtBipHmVJ/dOkDvK/F169j/egu0IbunaEQ+vb5LsZdkFMlrPr0P6XBljBhgLAouHJIyqxncXr7M10QcEGUMdz/UoQNIAratlzZXHp47tvPCh3lsvNY80tRr1q+T5d0MtovbiWTy5TZnIzMLGVTA68Q75qIPU3+WzweTGD5JnjYhtWJKInECHZLg6c+PifZ8Rc75Tf4VPZ6dzI1FuIm2MTioW4SN/w4yao6WhXcM2fw+2zMI0GbI0ZTxytZFi5E3JDSeemmFQy4SzvlxTfwaqzMdfGALOEX9OKx4UsxdI3PnqjtLAJ32XPpglzsD3dNJduLiWsVzvdSOjV5SgLdZHfJoRyBqg2mkcAFKqFMS+RzawOTql232ImFMaPVvzY60tY0gQlP4oeHsDc5UqFNwNRH4Q6kXnutUb1b/6OoQ0k6cvWqLYEIjvp5JEebqnAEQXgiP4SjKGvLwqMaungTiFTbHXz2LrWvGcf943fE56r7sXWn8qMY/QDWeq0k7aCK/fZB/9gb9egXzg==;zzDWvounMGgZ/IeBNykTTw=="
 ---
 

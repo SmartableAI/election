@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Prosecutors investigating Trump tell witness to prepare for grand jury testimony"
+    excerpt: "Manhattan prosecutors pursuing a criminal case against former President Donald Trump, his company and its executives have told at least one witness to prepare for grand jury testimony, according to a person familiar with the matter -- a signal that the lengthy investigation is moving into an advanced"
+    publishedDateTime: 2021-05-26T21:46:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/duFBPStwMa0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/donald-trump-grand-jury/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/donald-trump-grand-jury/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519090310-02-trump-tower-nyc-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Washington Post: Manhattan DA convenes grand jury to consider potential charges in Trump Organization probe"
     excerpt: "Manhattan's top prosecutor has convened a grand jury that is expected to decide whether to indict former President Donald Trump should prosecutors present criminal charges in their probe of the Trump Organization, two people familiar with the matter told The Washington Post.\n    \n"
     publishedDateTime: 2021-05-25T23:49:22Z

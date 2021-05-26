@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Republicans grill Biden ATF nominee on past remarks on guns"
-excerpt: "David Chipman, President Biden’s nominee to run the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, faced off against Republicans Wednesday who challenged him on his past statements they say cross the line in the gun control debate."
-publishedDateTime: 2021-05-26T19:34:14Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPKQskwTIpM/republicans-biden-atf-nominee-chipman-guns"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPKQskwTIpM/republicans-biden-atf-nominee-chipman-guns"
-ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
+title: "Biden ATF nominee supports ban on AR-15"
+excerpt: "President Biden’s nominee to head the  the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, David Chipman, said during Wednesday that he is in favor of a ban on AR-15 rifles."
+publishedDateTime: 2021-05-26T20:50:35Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nHdQ3CH2wWE/biden-atf-nominee-chipman-supports-ban-ar-15"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nHdQ3CH2wWE/biden-atf-nominee-chipman-supports-ban-ar-15"
+ampWebUrl: "https://www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
 type: article
 quality: 175
 heat: -1
@@ -47,12 +47,12 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden ATF nominee supports ban on AR-15"
-    excerpt: "President Biden’s nominee to head the  the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, David Chipman, said during Wednesday that he is in favor of a ban on AR-15 rifles."
-    publishedDateTime: 2021-05-26T20:50:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nHdQ3CH2wWE/biden-atf-nominee-chipman-supports-ban-ar-15"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
+  - title: "Republicans grill Biden ATF nominee on past remarks on guns"
+    excerpt: "David Chipman, President Biden’s nominee to run the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, faced off against Republicans Wednesday who challenged him on his past statements they say cross the line in the gun control debate."
+    publishedDateTime: 2021-05-26T19:34:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPKQskwTIpM/republicans-biden-atf-nominee-chipman-guns"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
     type: article
     provider:
       name: Fox News
@@ -284,6 +284,6 @@ related:
         height: 500
         isCached: true
 
-secured: "tS1SRifb43NG4zAo/dyhqc5IqwfSKSz0IZAW8OoZf0HoJDMbXeF2JY5dUanHLK1gDLw/3G+ed22L6oYtUlVUntazHONSGlQ3GF8e3XJqOLVHjRA15YGFXk8fNHrniM+1bGz58KbYB6T8KMWxHtDCdlT995ayWWWTRyeFJB9BH//QFcXHmFvxJ8kX4iii7/cEoJdjhaNlHFtDy0eAVX3P7EB1v1vCfdPEc0vOgECDziKA6zMdm+JbioKjA0JNNBgqisegD2+LXls2IAI1/ihLrehiYa6LdQnbLTHLdg03FIXbds2k1oh678RXY2ry0C6htta2j//lWf7zB2L65RZR5VQiuLUtpir2ufa9AMJ2WHI=;T8upz34LnOZFMZIdiPMsYw=="
+secured: "RSMBPwA7OOlFv3yomoLgl+X8v+tJN/CoCpDU4kq4ljRJVRlC9Er90oeC4jNYhusK5n3D3RDSeiGzaZBe2uCFiBKmD4zKdpaiE4uSrMyvOVTkwWWt//vh+LiWD/NfJ4KT8EqnBLL8advYzny+2k/1OyvCva5GIR35aqF9QX6btFbtWgeC/xgN9uvWcvX3gEOuPCjsYFtyZ19PeAQ+c78UItnOy3e20o4R+iqVr2DhyvSxlpVbM4PlQrFiAvaagZZeO6xDSF2lmYozMciPk944IOl+GMEkOVLN/ZqpQl7XZr8lHEYGWBYzQ6VOBcOsr9+rR8tFU3wbdYcJfgobUBrUE72bXTRmW5HeWYEs85sLJtQ=;fDKYe7nGIQwqXWe8sBHKMw=="
 ---
 

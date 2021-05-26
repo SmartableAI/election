@@ -77,22 +77,6 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "GOP senators ready $1T infrastructure counteroffer to Biden"
-    excerpt: "Senate Republicans revived negotiations over President Joe Biden ’s sweeping investment plan, preparing a $1 trillion infrastructure proposal that would be funded with COVID-19 relief money as a counteroffer to the White House ahead of a Memorial Day deadline toward a bipartisan deal."
-    publishedDateTime: 2021-05-26T04:23:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77908600"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77908600"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gop-senators-ready-1t-infrastructure-counteroffer-biden-77908600"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_032166063b374b5cb96289f0dcd143bd_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Joe Biden's Buying Metals Abroad Could End Controversial Mining Projects"
     excerpt: "The mayor of Superior, a town at the center of a controversial mining project in Arizona, said the news was \"very disappointing.\""
     publishedDateTime: 2021-05-25T21:36:00Z

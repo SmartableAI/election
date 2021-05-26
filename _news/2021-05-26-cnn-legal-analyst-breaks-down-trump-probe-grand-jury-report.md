@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/05/26/elie-honig-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/05/26/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520173734-doj-building-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Prosecutors investigating Trump tell witness to prepare for grand jury testimony"
+    excerpt: "Manhattan prosecutors pursuing a criminal case against former President Donald Trump, his company and its executives have told at least one witness to prepare for grand jury testimony, according to a person familiar with the matter -- a signal that the lengthy investigation is moving into an advanced"
+    publishedDateTime: 2021-05-26T21:46:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/duFBPStwMa0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/donald-trump-grand-jury/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/donald-trump-grand-jury/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519090310-02-trump-tower-nyc-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

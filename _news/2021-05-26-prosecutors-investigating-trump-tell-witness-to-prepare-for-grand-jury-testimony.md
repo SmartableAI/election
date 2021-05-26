@@ -1,34 +1,33 @@
 ---
 category: news
-title: "CNN: Trump Justice Department seized reporter's email and phone records"
-excerpt: "The DOJ secretly obtained Pentagon correspondent Barbara Starr's phone and email records in another apparent leak investigation to identify a journalist's sources."
-publishedDateTime: 2021-05-21T14:54:00Z
-originalUrl: "https://www.nbcnews.com/politics/justice-department/cnn-trump-justice-department-seized-reporter-s-email-phone-records-n1268136"
-webUrl: "https://www.nbcnews.com/politics/justice-department/cnn-trump-justice-department-seized-reporter-s-email-phone-records-n1268136"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268136"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268136"
+title: "Prosecutors investigating Trump tell witness to prepare for grand jury testimony"
+excerpt: "Manhattan prosecutors pursuing a criminal case against former President Donald Trump, his company and its executives have told at least one witness to prepare for grand jury testimony, according to a person familiar with the matter -- a signal that the lengthy investigation is moving into an advanced"
+publishedDateTime: 2021-05-26T21:46:32Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/duFBPStwMa0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/duFBPStwMa0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/donald-trump-grand-jury/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/donald-trump-grand-jury/index.html"
 type: article
-quality: 135
+quality: 170
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476652/210521-doj-trump-mb-1530_b5f661bfa9dd8a5326b015d5a23c57a6.jpg"
-    width: 4000
-    height: 2667
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519090310-02-trump-tower-nyc-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -64,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Prosecutors investigating Trump tell witness to prepare for grand jury testimony"
-    excerpt: "Manhattan prosecutors pursuing a criminal case against former President Donald Trump, his company and its executives have told at least one witness to prepare for grand jury testimony, according to a person familiar with the matter -- a signal that the lengthy investigation is moving into an advanced"
-    publishedDateTime: 2021-05-26T21:46:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/duFBPStwMa0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/donald-trump-grand-jury/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/donald-trump-grand-jury/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519090310-02-trump-tower-nyc-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Washington Post: Manhattan DA convenes grand jury to consider potential charges in Trump Organization probe"
     excerpt: "Manhattan's top prosecutor has convened a grand jury that is expected to decide whether to indict former President Donald Trump should prosecutors present criminal charges in their probe of the Trump Organization, two people familiar with the matter told The Washington Post.\n    \n"
     publishedDateTime: 2021-05-25T23:49:22Z
@@ -111,6 +94,22 @@ related:
       - url: "https://static.politico.com/db/41/20d7addd42449ecd414e97c55df8/210519-broidy-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "CNN: Trump Justice Department seized reporter's email and phone records"
+    excerpt: "The DOJ secretly obtained Pentagon correspondent Barbara Starr's phone and email records in another apparent leak investigation to identify a journalist's sources."
+    publishedDateTime: 2021-05-21T14:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/cnn-trump-justice-department-seized-reporter-s-email-phone-records-n1268136"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268136"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268136"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476652/210521-doj-trump-mb-1530_b5f661bfa9dd8a5326b015d5a23c57a6.jpg"
+        width: 4000
+        height: 2667
         isCached: true
   - title: "Jimmy Kimmel Believes Trump Would Flip on His Own Children"
     excerpt: "Kimmel agreed with Michael Cohen, the former president’s longtime personal lawyer, who said in an interview that Trump would turn on anyone to save himself."
@@ -161,6 +160,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "7ws/s7bLO/Jpg5+LwaOlJ/KGycpapgz/YfepLLnhcNnFE2Ro1+WhzROCdfTjh/pHky9wmkXNRLGxGf1awR/DPsDlsjAV/oJWVHg+fOGnCydPa9PqCpa/mQma1DB4pDbDgu4SocpIvBDwykIvNZaiCuGmk+qKDwLn5GRscT6JZafwe8PVs0l8XrqK8dFaH1/hvaT8+yMmmiSoWab95+vg14y8F8C6gQz/AZud6DLownH49yTHGJTfMELZMIr/Fk5NdFbwz1WYxcWhVTJ11Xmyqbr9FLXxig5FX+7gKznUUxnLXlYMgesVQBYvB7nluJfK2cGiacTI7kRXEBcq6p9vlTt1/R7gyf3/JIQnWsLNrXShnl8g8QsFQbE2dCa/QyHppCZy2E8gjQwdm6otE4zZAD+xPDcUuv5wB+7B+8/uvYUi8IaLpjWTjXOh72CKJFtM8RE2AoW34wbLOFs2GDHe9dOytRhFHm0csyAIrESBpQnXr8JU8s1zm3HDkGQ2NmLANhg8HA2pSOgdUD6MePW+kQ==;VOS9qeGQs6mVevayWTxAuw=="
+secured: "qYzgJtLNvH4hSHCSvwLlF/Uf+rOMIOAryf3ddwN4EknIDRa0rnIyryfy2HkGPbvXfQjzk4P7SC7oyouBSghIA+s7QfB68fNoI9Ol8b9pw8EIWar6pN8LtlxugX6vwRPCFW+a6ozYLtCwCf6QrhueOqfht6BjKDZfcme2vL5CERyDohSJel4KPbEFssJCbl5Sl4GNYXFMlLwuu5q13AJTWMpqHvjSJNylIMOsAxCkB5YHu2+UhKB/yds2ahOoijhRXDoTzbx9NDEhCZ6gP8KXWSC0M4ALQ3zfBDSIthhvoMSN0+TjJb/q9wwPG9SX7HU+waPAqSfstrKfoJzVLd4Y9ppfsAf0xCc2voGaxMOOXXY=;I5V7X9Djc5dHwOTA0/l1nw=="
 ---
 

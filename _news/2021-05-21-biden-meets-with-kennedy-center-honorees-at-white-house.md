@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kenne
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_764161d3d08947de917ac7bb3ab3c822_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "GOP senators ready $1T infrastructure counteroffer to Biden"
+    excerpt: "Senate Republicans revived negotiations over President Joe Biden’s sweeping investment plan, preparing a $1 trillion infrastructure proposal that would be funded with COVID-19 relief money as a counteroffer to the White House ahead of a Memorial Day deadline toward a bipartisan deal."
+    publishedDateTime: 2021-05-26T09:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/gop-senators-ready-1t-infrastructure-counteroffer-to-biden/2021/05/26/0cbbedb0-bdda-11eb-922a-c40c9774bc48_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/gop-senators-ready-1t-infrastructure-counteroffer-to-biden/2021/05/26/0cbbedb0-bdda-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-senators-ready-1t-infrastructure-counteroffer-to-biden/2021/05/26/0cbbedb0-bdda-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S3KRBXF6BII6XERKYQGJO5F4JA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Quiet Biden presidency confronts noisy world: The Note"
     excerpt: "Diplomacy that is diplomatic and putting real faith in Congress to work toward solutions are part of what makes normal feel abnormal."

@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Trump asks judge to throw out Capitol riot lawsuit"
-excerpt: "Lawyers for former President Donald Trump urged a federal judge late Monday to dismiss a lawsuit against him filed by Rep. Eric Swalwell, a Democratic congressman who helped argue the House impeachment case."
-publishedDateTime: 2021-05-25T18:59:00Z
-originalUrl: "https://www.nbcnews.com/politics/donald-trump/trump-asks-judge-throw-out-capitol-riot-lawsuit-n1268544"
-webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-asks-judge-throw-out-capitol-riot-lawsuit-n1268544"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268544"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268544"
+title: "Where things stand in the Trump criminal investigations"
+excerpt: "Former President Donald Trump left the White House four months ago, but he didn't leave his legal troubles behind, and in recent weeks there have been new indications that some of the criminal investigations involving Trump are intensifying.\n    \n"
+publishedDateTime: 2021-05-26T21:39:04Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1QQaXbTz1S0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1QQaXbTz1S0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/trump-criminal-investigations-latest/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/trump-criminal-investigations-latest/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://media2.s-nbcnews.com/i/newscms/2021_12/3459219/210324-washington-riot-jm-1043_5db73c222b5557bdfd5ac7fd9f0f81d7.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521102719-donald-trump-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -109,22 +108,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Where things stand in the Trump criminal investigations"
-    excerpt: "Former President Donald Trump left the White House four months ago, but he didn't leave his legal troubles behind, and in recent weeks there have been new indications that some of the criminal investigations involving Trump are intensifying.\n    \n"
-    publishedDateTime: 2021-05-26T21:39:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1QQaXbTz1S0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/trump-criminal-investigations-latest/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/trump-criminal-investigations-latest/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521102719-donald-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -224,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump asks judge to throw out Capitol riot lawsuit"
+    excerpt: "Lawyers for former President Donald Trump urged a federal judge late Monday to dismiss a lawsuit against him filed by Rep. Eric Swalwell, a Democratic congressman who helped argue the House impeachment case."
+    publishedDateTime: 2021-05-25T18:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-asks-judge-throw-out-capitol-riot-lawsuit-n1268544"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268544"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268544"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_12/3459219/210324-washington-riot-jm-1043_5db73c222b5557bdfd5ac7fd9f0f81d7.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "California recall candidates use auto-donation tactic Trump made famous"
     excerpt: "Consumer advocates and campaign finance officials say the tactic misleads donors into giving more money than they intend because they must uncheck boxes to ensure their accounts are not regularly charged."
     publishedDateTime: 2021-05-17T22:14:00Z
@@ -253,6 +252,6 @@ related:
         height: 773
         isCached: true
 
-secured: "FCYtvzJVgegRv0SJ8P5RB2Ndje3jocwpCA7yO9VLdag2VdNYMmeFnrbWijZKyTxWYg4+yJt8ZT97VSJtBt+9yX3bAA+D07wrPrlBHQmMkCeqDuDdoaGqbPfY5MNmoYUg0+GKWpnOLwvI/8Icwk2mUqhEeIDa26SlWxP4zXTqYJGJN0oa6PCdrbAPfdWgP7OQ5AAMGvPpOD0U+gJtsD7zP0bQq8eUaixFZnIYFw82XcoQ9/duwl2oWfvKGUpI93cHY6zE4u7jTGPJrINQs3Ocp6sxtTTwM4o12PKuQIotNycdcNzFwBiGJHVX+ROWCUN2VQtzC9H/gqeI/PzvyEvM7+WUPlzKrYSuYGgzt4LUQY5w6qnRLecleCP7AtXG7yEK6QmOvVwKvVplTLzKSU8+QSZgStXuwwFQHUG0OsmdRHBz+dSPcvDUAIgJr3RgCwHpp3bQgKY95vGQqx9Xpu+d9gsc25PWyyybHSlUbQN8AfqlgSCj5siFGjUOv+3luVeY8Mwmyajbslbn4ipnoSU12Q==;10g2NLc42KXp9jxyuLlwjQ=="
+secured: "wC/JrjHeb8kIfk/mVChzR4OLSNmmHBdYhCXc/1u8t0N9u965xzr64vxkh3ps+scUta/kAhuewo9c9mtV9rJlQy8633uDzE3DCUaW20aftaKvOrGemKI5uWjLJpd5bI2yHNcb7bi2iktXh9go05tkF6UopL2VD088rcDz2ULEUbcd8S/rKBXnC5/KKfB7XONkSTXnZ2dZvFoASVNjigqLxuHUiuGQgiS52U6kNbCsEZU8cgVa06amn61JQZ4yDy/knGX6LeAdFgqAIKffe7XiJtoImmIzPKedy4EBJpUL0BLcjvlzAJA5GdqsoZ8LfJD4GqERjJIUbe/M95UekgMqEi8dyfZVJeLXEGShs8qHLuY=;4zW0rHwsCfjiNqL+T0REuw=="
 ---
 

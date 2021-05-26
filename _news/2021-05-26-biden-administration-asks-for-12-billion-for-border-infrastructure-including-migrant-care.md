@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Republicans grill Biden ATF nominee on past remarks on guns"
-excerpt: "David Chipman, President Biden’s nominee to run the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, faced off against Republicans Wednesday who challenged him on his past statements they say cross the line in the gun control debate."
-publishedDateTime: 2021-05-26T19:34:14Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPKQskwTIpM/republicans-biden-atf-nominee-chipman-guns"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPKQskwTIpM/republicans-biden-atf-nominee-chipman-guns"
-ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
+title: "Biden administration asks for $1.2 billion for border infrastructure, including migrant care"
+excerpt: "The Biden administration is requesting $1.2 billion for border infrastructure, as well as migrant care and stronger ports of entry, as part of President Biden’s Fiscal Year (FY) 2022 budget request -- coming as the administration is fighting a historic migrant surge at the border."
+publishedDateTime: 2021-05-26T20:35:09Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9E7_TUBqmrg/biden-billion-border-infrastructure-migrant-care"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9E7_TUBqmrg/biden-billion-border-infrastructure-migrant-care"
+ampWebUrl: "https://www.foxnews.com/politics/biden-billion-border-infrastructure-migrant-care.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-billion-border-infrastructure-migrant-care.amp"
 type: article
-quality: 175
+quality: 164
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/AP21097760253459.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81e907b6-3630-417c-ae64-8ea18a17b751/46d723c1-df68-4b18-a73d-e9b9e25c7aa4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -53,6 +53,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nHdQ3CH2wWE/biden-atf-nominee-chipman-supports-ban-ar-15"
     ampWebUrl: "https://www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/AP21097760253459.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Republicans grill Biden ATF nominee on past remarks on guns"
+    excerpt: "David Chipman, President Biden’s nominee to run the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, faced off against Republicans Wednesday who challenged him on his past statements they say cross the line in the gun control debate."
+    publishedDateTime: 2021-05-26T19:34:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPKQskwTIpM/republicans-biden-atf-nominee-chipman-guns"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
     type: article
     provider:
       name: Fox News
@@ -124,22 +140,6 @@ related:
     quality: 166
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden administration asks for $1.2 billion for border infrastructure, including migrant care"
-    excerpt: "The Biden administration is requesting $1.2 billion for border infrastructure, as well as migrant care and stronger ports of entry, as part of President Biden’s Fiscal Year (FY) 2022 budget request -- coming as the administration is fighting a historic migrant surge at the border."
-    publishedDateTime: 2021-05-26T20:35:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9E7_TUBqmrg/biden-billion-border-infrastructure-migrant-care"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-billion-border-infrastructure-migrant-care.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-billion-border-infrastructure-migrant-care.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81e907b6-3630-417c-ae64-8ea18a17b751/46d723c1-df68-4b18-a73d-e9b9e25c7aa4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -284,6 +284,6 @@ related:
         height: 500
         isCached: true
 
-secured: "tS1SRifb43NG4zAo/dyhqc5IqwfSKSz0IZAW8OoZf0HoJDMbXeF2JY5dUanHLK1gDLw/3G+ed22L6oYtUlVUntazHONSGlQ3GF8e3XJqOLVHjRA15YGFXk8fNHrniM+1bGz58KbYB6T8KMWxHtDCdlT995ayWWWTRyeFJB9BH//QFcXHmFvxJ8kX4iii7/cEoJdjhaNlHFtDy0eAVX3P7EB1v1vCfdPEc0vOgECDziKA6zMdm+JbioKjA0JNNBgqisegD2+LXls2IAI1/ihLrehiYa6LdQnbLTHLdg03FIXbds2k1oh678RXY2ry0C6htta2j//lWf7zB2L65RZR5VQiuLUtpir2ufa9AMJ2WHI=;T8upz34LnOZFMZIdiPMsYw=="
+secured: "qzUS9uBedUPl4BodmVAoYr9176/aWdKgK4QhubfLekDMB0VnkfDNgacmArBU7qntZgPH6UjUpFCXLGKa/RoGnqovnalSgV3en0+w6rkceXvqU6cbm/QvJsCtUNeb8aLGC/nRdo9NxDP8hkP6DKdYUExg4czOaeKbtoK0WDznF8zlPYPacO9TFe5QmMtxPU2WRWgYwNbI4CrK9qr06TnYo6HExV5U/Wz+nO+Il5R2qs+xQX5EgBmFsdV0B2S/8jgmHw0gbUhhIriaOkSM3n+t5joC3Kax7PkKYV+gHLrCvbPF8qtdq+U2CFhYVBjO6BR3jcuFluzPlv679YLc0DOvwKUPFxxeE2wMVCrldqKg2rA=;yZE5/FQZmj7Ld//a16Ww8A=="
 ---
 

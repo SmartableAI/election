@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden ATF nominee supports ban on AR-15"
+    excerpt: "President Biden’s nominee to head the  the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, David Chipman, said during Wednesday that he is in favor of a ban on AR-15 rifles."
+    publishedDateTime: 2021-05-26T20:50:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nHdQ3CH2wWE/biden-atf-nominee-chipman-supports-ban-ar-15"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/AP21097760253459.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Republicans grill Biden ATF nominee on past remarks on guns"
     excerpt: "David Chipman, President Biden’s nominee to run the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, faced off against Republicans Wednesday who challenged him on his past statements they say cross the line in the gun control debate."
     publishedDateTime: 2021-05-26T19:34:14Z
@@ -110,6 +126,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden administration asks for $1.2 billion for border infrastructure, including migrant care"
+    excerpt: "The Biden administration is requesting $1.2 billion for border infrastructure, as well as migrant care and stronger ports of entry, as part of President Biden’s Fiscal Year (FY) 2022 budget request -- coming as the administration is fighting a historic migrant surge at the border."
+    publishedDateTime: 2021-05-26T20:35:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9E7_TUBqmrg/biden-billion-border-infrastructure-migrant-care"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-billion-border-infrastructure-migrant-care.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-billion-border-infrastructure-migrant-care.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81e907b6-3630-417c-ae64-8ea18a17b751/46d723c1-df68-4b18-a73d-e9b9e25c7aa4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "GOP pivots to blast tax-and-spend Biden in bid to 'reclaim the mantle of fiscal responsibility'"
     excerpt: "As President Biden pushes Congress to enact his agenda that could total upward of $6 trillion, an unprecedented government spending binge, congressional Republicans are saying they plan to \"reclaim the mantle of fiscal responsibility\" as the national debt soars above $28 trillion."

@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden doubling FEMA funding for this year's extreme weather season"
-excerpt: "Saying that his administration will \"spare no expense,\" President Biden on Monday announced that he is doubling funding for the Federal Emergency Management Agency's extreme weather preparations."
-publishedDateTime: 2021-05-24T19:10:54Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H_mLgVmhWwE/biden-doubling-fema-funding-extreme-weather-season"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H_mLgVmhWwE/biden-doubling-fema-funding-extreme-weather-season"
-ampWebUrl: "https://www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
+title: "Biden picks LA mayor, envoy for ambassador posts: AP source"
+excerpt: "President Joe Biden is expected to announce he is nominating former senior State Department official Nicholas Burns to serve as his ambassador to China and Los Angeles Mayor Eric Garcetti to be his ambassador to India, according to a person familiar with the matter."
+publishedDateTime: 2021-05-26T21:14:34Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hr52ZW2YCYs/biden-los-angeles-mayor-eric-garcetti-india-ambassador"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hr52ZW2YCYs/biden-los-angeles-mayor-eric-garcetti-india-ambassador"
+ampWebUrl: "https://www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador.amp"
 type: article
 quality: 175
-heat: 255
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,27 +25,27 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132726897266-1.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
-  - title: "Biden picks LA mayor, envoy for ambassador posts: AP source"
-    excerpt: "President Joe Biden is expected to announce he is nominating former senior State Department official Nicholas Burns to serve as his ambassador to China and Los Angeles Mayor Eric Garcetti to be his ambassador to India, according to a person familiar with the matter."
-    publishedDateTime: 2021-05-26T21:14:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hr52ZW2YCYs/biden-los-angeles-mayor-eric-garcetti-india-ambassador"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador.amp"
+  - title: "Biden doubling FEMA funding for this year's extreme weather season"
+    excerpt: "Saying that his administration will \"spare no expense,\" President Biden on Monday announced that he is doubling funding for the Federal Emergency Management Agency's extreme weather preparations."
+    publishedDateTime: 2021-05-24T19:10:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H_mLgVmhWwE/biden-doubling-fema-funding-extreme-weather-season"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132726897266-1.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "3 House Dems blamed pandemic for needing proxy votes, but were touring Ford plant with Biden"
     excerpt: "Reps. Haley Stevens, D-Mich.; Elissa Slotkin, D-Mich.; and Dan Kildee, D-Mich., each signed a document granting their vote by proxy to one of their Democratic colleagues in the House for the vote series on May 18, 2021."
@@ -91,6 +91,6 @@ related:
       domain: washingtonexaminer.com
     quality: 65
 
-secured: "HDJEYEG8EIN6tIA+jBuL7iynNhsdib5MhesJJvFOH5UAJX6cB8rcc4xwyu52r/IDGEX4vcladYhOpS/efSnTzKJprCOOdq8o7WpKV+7rqqywACE+hPtBL5h2+dG++/pyVjSBhEvb1Sgqp/wWzAoMj42uXQmvwBvq0Kk30/G0VeQXYr2DLLYlEFJ13N3yUb/tQZYukH01mMWMKWfF33u0/9DM1m3hNGF0xyJL6rcIrbRugv7IEggVZMGsHoWwVFDB9Hfpo1zwHEqvXCJ7sweR6+tKnhLBHee0IMnpZ0G9PeTYoqMPQqq6s6iDmgWY5ZVfVqDRczSY+hP1E+wWeONxcTYYP8hVEtyF6p+H8p52hB4=;ExSRgOgdlD5BQqPDiMbSkQ=="
+secured: "kXqGie0VCjhzLwD29mcpZwSrD25Wihtv0KkJH9M5C2eRwkukcmVwESw2LItBF+pHIIssJ/9jUd7dOuoMqnzdlN2y7GLcFFvBUElmSg9EWptq0vuM4AeLBBMb9VxWsIjTFId2zOyvAKS78xkoAQ6mkMzZGnagtq8sbthTnQtlZyW4vNfx50etcG7CBbQ+C80CJzkC0NfXDSPKjyB9L7kEav0dmIFgX5nrEtAVoy8VtG89JcgVw19a8RtZoIlgpEgQezyU14N3TLmBWAUnvMhy8eHlqjwKbd5+PEMYTuuZnIjLvcs0BxL1vcc0LJYaS5VkZmgHduodGFP/hNC/xD3jFgwUYmjsMszeP3T7PEJ+0ZY=;ISbFsCY9Iet3KHi3HyUM/w=="
 ---
 
