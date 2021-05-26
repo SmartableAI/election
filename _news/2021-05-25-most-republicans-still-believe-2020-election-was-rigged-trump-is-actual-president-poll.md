@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New grand jury seated to probe Trump business dealings, reports say"
+    excerpt: "The panel is expected to decide whether to indict Trump, other executives at his company or the company itself, The Washington Post says."
+    publishedDateTime: 2021-05-26T10:43:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-new-grand-jury-seated-business-dealings-reports-say/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-new-grand-jury-seated-business-dealings-reports-say/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-new-grand-jury-seated-business-dealings-reports-say/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/25/6d4f4817-2ff8-4f41-83d8-6c877a8ad6e6/thumbnail/1200x630/b9606be5f084f0bb07e863d766b8619d/gettyimages-1318749430.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What we know about investigations looming over Donald Trump, his company"
     excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
     publishedDateTime: 2021-05-19T20:08:00Z
@@ -157,6 +173,22 @@ related:
         width: 1024
         height: 602
         isCached: true
+  - title: "New grand jury seated for next stage of Trump investigation"
+    excerpt: "Manhattan District Attorney Cyrus Vance Jr. The Democratic prosecutor has been using an investigative grand jury through the course of his probe to issue subpoenas and obtain documents. That panel kept working while other grand juries and court activities were shut down because of the coronavirus pandemic."
+    publishedDateTime: 2021-05-26T00:18:00Z
+    webUrl: "https://www.chron.com/news/article/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
+    ampWebUrl: "https://www.chron.com/business/amp/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump Is Still Spending Taxpayer Money To Fund His Office, 17 Staff: Report"
     excerpt: "Former President Donald Trump can continue using taxpayer money to fund his office and staffers until July 21."
     publishedDateTime: 2021-05-18T01:23:00Z
@@ -191,15 +223,6 @@ related:
     excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
     publishedDateTime: 2021-05-19T07:02:00Z
     webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-19/new-york-state-mounts-criminal-probe-of-trump-organization-finances"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "New Grand Jury Seated for Next Stage of Trump Investigation"
-    excerpt: "New York prosecutors have convened a special grand jury to consider evidence in a criminal investigation into former President Donald Trump’s business dealings."
-    publishedDateTime: 2021-05-25T23:02:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-05-25/new-grand-jury-seated-for-next-stage-of-trump-investigation"
     type: article
     provider:
       name: U.S. News & World Report

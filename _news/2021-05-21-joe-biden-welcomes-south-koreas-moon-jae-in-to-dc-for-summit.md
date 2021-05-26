@@ -59,6 +59,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Quiet Biden presidency confronts noisy world: The Note"
+    excerpt: "Diplomacy that is diplomatic and putting real faith in Congress to work toward solutions are part of what makes normal feel abnormal."
+    publishedDateTime: 2021-05-26T10:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/quiet-biden-presidency-confronts-noisy-world-note/story?id=77897260"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/quiet-biden-presidency-confronts-noisy-world-note/story?id=77897260"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/quiet-biden-presidency-confronts-noisy-world-note/story?id=77897260"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-rt-jef-210525_1621979853417_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden meets with 'Dreamers' in the White House to push pathway to citizenship"
     excerpt: "Biden gathered a group of DREAMers at the White House Friday for a discussion on the future of the DACA program."
     publishedDateTime: 2021-05-15T19:46:00Z

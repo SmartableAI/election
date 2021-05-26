@@ -160,6 +160,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Texas AG calls for more federal resources, wants Biden officials to visit border"
+    excerpt: "Texas Attorney General Ken Paxton on Tuesday called for more federal resources at the U.S.-Mexico border and for Biden administration officials to visit amid the surge of migrants. "
+    publishedDateTime: 2021-05-26T10:07:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R3uIrdlac-Y/texas-ag-calls-for-more-federal-resources-biden-officials-to-visit-border"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-ag-calls-for-more-federal-resources-biden-officials-to-visit-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-ag-calls-for-more-federal-resources-biden-officials-to-visit-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7da77447-17f4-47b3-b2f8-90c6fb928a06/dd691039-048f-4218-85d9-a8c1bb9dafaf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden White House must expedite weapons to Israel, top foreign policy Republicans say"
     excerpt: "FIRST ON FOX: The top Republicans on the Senate and House foreign policy committees are urging President Biden to expedite the planned weapons sales to Israel despite opposition from some Democrats concerned about further arming Israel amid the deadly Gaza conflict."
     publishedDateTime: 2021-05-20T20:46:16Z
@@ -285,6 +301,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Ingraham on Biden's handling of COVID-19"
+    excerpt: "This is a rush transcript from \"The Ingraham Angle,\" May 24, 2021. This copy may not be in its final form and may be updated. INGRAHAM: All right. Great to see you. I'm Laura Ingraham. This is THE INGRAHAM ANGLE from Washington tonight."
+    publishedDateTime: 2021-05-26T10:33:00Z
+    webUrl: "https://www.foxnews.com/transcript/ingraham-on-bidens-handling-of-covid-19"
+    ampWebUrl: "https://www.foxnews.com/transcript/ingraham-on-bidens-handling-of-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/ingraham-on-bidens-handling-of-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/754d48c5-1740-4892-8402-ad0a6013dcbe/d2ca4b58-7efe-4969-bae0-7d1917a1386c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "New York Times ripped for appearing to blame Trump for ongoing violence between Hamas and Israel"
     excerpt: "The New York Times was the focus of more criticism over the weekend following an article published Saturday that seemingly blamed former President Trump for the ongoing violence between Hamas and Israel."

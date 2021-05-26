@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Law enforcement groups endorse Biden's pick for ATF director ahead of confirmation hearing"
+    excerpt: "Several national organizations representing law enforcement officers are applauding President Joe Biden's pick to lead the Bureau of Alcohol, Tobacco, Firearms, and Explosives ahead of his confirmation hearing Wednesday, according to correspondence obtained by CNN.\n    \n"
+    publishedDateTime: 2021-05-26T11:20:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MhV2PKkENNA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/david-chipman-atf-confirmation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/david-chipman-atf-confirmation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525164345-david-chipman-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's agenda hinges on new Senate push for bipartisan deals amid distrust between the parties"
     excerpt: "Major items on President Joe Biden's domestic agenda hang in the balance this month, hinging on Republicans' willingness to cut deals and whether Democrats agree to pare back their ambitions at the risk of causing a backlash on the left.\n    \n"
     publishedDateTime: 2021-04-14T21:13:21Z

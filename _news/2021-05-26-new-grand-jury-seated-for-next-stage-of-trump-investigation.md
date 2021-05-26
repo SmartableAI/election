@@ -1,26 +1,30 @@
 ---
 category: news
-title: "New Grand Jury Seated for Next Stage of Trump Investigation"
-excerpt: "New York prosecutors have convened a special grand jury to consider evidence in a criminal investigation into former President Donald Trump’s business dealings."
-publishedDateTime: 2021-05-25T23:02:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2021-05-25/new-grand-jury-seated-for-next-stage-of-trump-investigation"
-webUrl: "https://www.usnews.com/news/business/articles/2021-05-25/new-grand-jury-seated-for-next-stage-of-trump-investigation"
+title: "New grand jury seated for next stage of Trump investigation"
+excerpt: "Manhattan District Attorney Cyrus Vance Jr. The Democratic prosecutor has been using an investigative grand jury through the course of his probe to issue subpoenas and obtain documents. That panel kept working while other grand juries and court activities were shut down because of the coronavirus pandemic."
+publishedDateTime: 2021-05-26T00:18:00Z
+originalUrl: "https://www.chron.com/news/article/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
+webUrl: "https://www.chron.com/news/article/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
+ampWebUrl: "https://www.chron.com/business/amp/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/New-grand-jury-seated-for-next-stage-of-Trump-16203016.php"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Most Republicans still believe 2020 election was stolen from Trump – poll"
@@ -54,6 +58,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "New grand jury seated to probe Trump business dealings, reports say"
+    excerpt: "The panel is expected to decide whether to indict Trump, other executives at his company or the company itself, The Washington Post says."
+    publishedDateTime: 2021-05-26T10:43:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-new-grand-jury-seated-business-dealings-reports-say/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-new-grand-jury-seated-business-dealings-reports-say/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-new-grand-jury-seated-business-dealings-reports-say/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/25/6d4f4817-2ff8-4f41-83d8-6c877a8ad6e6/thumbnail/1200x630/b9606be5f084f0bb07e863d766b8619d/gettyimages-1318749430.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "What we know about investigations looming over Donald Trump, his company"
     excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
@@ -205,6 +225,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "qOBQ1c74uGoqYOdvKbIKkyxdBNpZTdzZ9M3wXIAdPXB0fyvLmFZeBGtMKMqddF6wHjxzWZcyvV2/OJ6DygPW8LOfxNg59Uy9Df3Os08jMHyjbCTm59zLeNgSchbtonShvpCYL4/YTMNRh+hJOExuO/VUtqUmiC7hvUmcKL5Pv4Ko4rSC2Su6mzML4fxtQRvoQI5863Xq4G1zqKQno1uVsWB197iPizcboF2q70HVH0U3nqnkf0RzuQhWRGlirwWnvmPPt2bJNIpbagilQreTI3/P7Rk4THIYKQUCmeIUpukxOd4fd+BjB34Hw8RLXRyLJN0i51j1QEJNTHrGWGqti6oATUCjYCLdWQRtnF4o6EKFNW4jHdXl3NzVwJauULfBYmmq0tXceTdi1kcj05E9zsIu9nIiic5BSxMkevwxe86+dFsRDo96L4bdHzdHWbkapML2Y++o7Je/c+n5b9nj1sxchNpbx54PFbJmktpQyf9n+C5WaOjY18XgXBdHncjrCbvwPjQcokCp994r4oubkQ==;weVaaUgmNqrgY2frBVUoZQ=="
+secured: "ajrqo0XjK4Agjwgr43yw2y8tQrCNYwl1sy2UzTdRASZvWYP3nEu3HVSXQ9Jc2Vf9i/Pj2boMYBSjqVjKFyqzr0v+JQcEYvp+bTEhEvw2BPiH4TMnZIsREfUSQN0bmWvSjhSVJW+47r0qa4+ET5D1kbmd1aYSYpZOlxMzd3hNve58sI2UzP7t/qaehhJRGd2xPLE+6erlwCb492SQb+ge5qfYYxP+oxAW6QTMS6OkL6tjjoTqQFxF6Yw/xZkLUicK6XaqRd6ZL2FLMHIgaGt7bw+cEOAI6s5HLbNJbyn5jFaKeLcAbq5zIB2fEfIolIeYRgnW7d0IivW1ZKkO/UDgBM9iFL7FPIZGnpY8bvHf804=;F4UeQGBHPvlvDFAGJ6q4xQ=="
 ---
 
