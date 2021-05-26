@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-criminal-investi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/iJZKeYPw-ydSfmuaLrF4ibpV8c4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NATLNQKHQI2SY3VDFU3DL3TF7M.aspx"
         width: 1200
         height: 811
+        isCached: true
+  - title: "New York Prosecutor Convenes Grand Jury in Criminal Investigation of Donald Trump"
+    excerpt: "Manhattan District Attorney Cyrus Vance Jr. is conducting a wide-ranging investigation into Donald Trump's business dealings."
+    publishedDateTime: 2021-05-26T02:30:00Z
+    webUrl: "https://time.com/6051259/donald-trump-criminal-grand-jury-new-york/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 100
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/05/Trump-grand-jury.jpg"
+        width: 1024
+        height: 711
         isCached: true
   - title: "Michael Cohen said he believes Trump will 'flip on all of them,' including his children, in the New York investigation into his company"
     excerpt: "Cohen, Trump's former lawyer and fixer who is cooperating with prosecutors, said: \"I really believe that Donald Trump cares for only himself.\""

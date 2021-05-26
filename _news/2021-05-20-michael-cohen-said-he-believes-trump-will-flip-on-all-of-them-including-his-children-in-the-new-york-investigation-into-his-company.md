@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 811
         isCached: true
+  - title: "New York Prosecutor Convenes Grand Jury in Criminal Investigation of Donald Trump"
+    excerpt: "Manhattan District Attorney Cyrus Vance Jr. is conducting a wide-ranging investigation into Donald Trump's business dealings."
+    publishedDateTime: 2021-05-26T02:30:00Z
+    webUrl: "https://time.com/6051259/donald-trump-criminal-grand-jury-new-york/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 100
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/05/Trump-grand-jury.jpg"
+        width: 1024
+        height: 711
+        isCached: true
   - title: "Val Demings, who rose to national prominence as a Trump impeachment manager, plans to challenge Marco Rubio in the 2022 Florida Senate race"
     excerpt: "As a former Orlando police chief, Demings, a three-term Democratic congresswoman, could offer a compelling perspective on issues of policing reform."
     publishedDateTime: 2021-05-18T15:06:00Z

@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Biden to host George Floyd’s family at White House"
-excerpt: "President Joe Biden’s plans to host Floyd’s family come as talks focused on the police reform bill named after Floyd have stalled on Capitol Hill."
-publishedDateTime: 2021-05-22T18:13:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/05/22/george-floyds-family-visit-president-joe-biden-white-house/5222533001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/05/22/george-floyds-family-visit-president-joe-biden-white-house/5222533001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5222533001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5222533001"
+title: "George Floyd’s family urges Biden to pass a policing reform bill - live"
+excerpt: "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live"
+publishedDateTime: 2021-05-25T23:09:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad8b528f08d486a771309c"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad8b528f08d486a771309c"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/20/USAT/37aaf391-f4b3-4d41-aa23-f80764a105b5-018_GeorgeFloyd_Anniversary.JPG?auto=webp&crop=4718,2654,x0,y434&format=pjpg&width=1200"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Biden and Harris meet George Floyd’s family on anniversary of his murder – live"
@@ -94,6 +88,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden to host George Floyd’s family at White House"
+    excerpt: "President Joe Biden’s plans to host Floyd’s family come as talks focused on the police reform bill named after Floyd have stalled on Capitol Hill."
+    publishedDateTime: 2021-05-22T18:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/22/george-floyds-family-visit-president-joe-biden-white-house/5222533001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5222533001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5222533001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/20/USAT/37aaf391-f4b3-4d41-aa23-f80764a105b5-018_GeorgeFloyd_Anniversary.JPG?auto=webp&crop=4718,2654,x0,y434&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Read Kamala Harris' Speech to Class of 2021 as Students Graduate"
     excerpt: "The vice president told students they had \"much to offer\" as she noted COVID restrictions hit their final school years."
@@ -299,17 +309,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "George Floyd’s family urges Biden to pass a policing reform bill - live"
-    excerpt: "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live"
-    publishedDateTime: 2021-05-25T23:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad8b528f08d486a771309c"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
   - title: "Biden told Pete Buttigieg 'that was some f---ing bulls---' on stage after a combative debate exchange with Kamala Harris, according to a new book"
     excerpt: "Biden was stunned when Harris went after his record on busing during a Democratic primary debate in June 2019."
     publishedDateTime: 2021-05-19T17:19:00Z
@@ -509,6 +508,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "56ha4IRc42MUe2lFKMgJwBhwrRin4ck4t/19D/lRr6CPk1bB/sXy+OnrfmLAFw3/clwdkt4R2jw4D8bck+m8ZGUVnsIUnAekt114yxIFut6rWEt2/abono+PFjl0yRK0SzzQFdufUfDjh8wIMZe3+7RHqz6qFdJF1cdg6vTwTdi5c13zT92FyLZAhSHa+QzSlxUfPdEGmz2yfuy6pVOe8T/fYDkkEcLCdYolsBRs94gDbuLmYFVKtybXX5E5MzcGVAHJmWLSsNgu44y2N4z+F6wfVIyBoGZFcWuRdRdgmn9YHXTTDboaeu6LvJ8ZyVqYOZsLVg4MyFwcyb9I5pGk9EoBdpzmme/FZXwIlXZD4IkGBLpq0epQjgYLhwJKFwZB8fyAvavlZQgZU3ZpxnIsaWuCYVOHcaLWlN9Crs/tJAnEDA4U3+KmstcZ5QY+U6LMW5h6QD7icvHHntF2A68e170kgo7Fyc0JcTskfDHbAGOhkaRnFPpQwhOv/5d87TGNhxHMP/rgu3O1vA9VRLgNTw==;GlICQGdkC6Aov42ICTcyxQ=="
+secured: "UeU+SQrMbibRl/ikpeqx/0JJd4XSZmlu4sRTehkoYA0vf2el03yzhrf3tLUbAwL2U5XOl934hDgJeLvtWwKKnky7aomU36iIwCu7uXCubJrYFAE0JQ53OwFWcHobhJYG96xOL2mOWbCq4bSiwRXcrT2iRwuPCQqFt/i1bP40whWtA/wRYwNenDJb0h4aeFLSJ7qUyqxAPt+3wVmbZGjsMuNqOCCp5kFAAoviy/R/0NzuPyxS25bmM79STnOUNMa9HlBox17/PArk1wKG5Ozu/2AzvjyG1gY/sbHadkIwZEwsfOmKlZa3qc7dbeFbX2XVxV+QSadDyAxHvkiCk7PePHtwxpDLZrQ3K+t0LbxdfJVdkVUjI2T7r0gArjW1zqKLapf1KQ5rPtLyCS0Ffx2i9n9QaskYLXC0nsKSHDaORDSmj5LluR0Ajxl0ZxkTd5wzqxnqgeC0TlultkaZHAizLIKmVqHYzHKN57jiN7WvKrysMrWwuLiTnQFu6OQxWe1N85NRrNS5ak2anc5lqCwwtg==;unJzdjkjZS6XHJdo4sIMPg=="
 ---
 

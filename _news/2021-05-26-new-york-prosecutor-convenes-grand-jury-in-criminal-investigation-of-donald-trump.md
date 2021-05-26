@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Val Demings, who rose to national prominence as a Trump impeachment manager, plans to challenge Marco Rubio in the 2022 Florida Senate race"
-excerpt: "As a former Orlando police chief, Demings, a three-term Democratic congresswoman, could offer a compelling perspective on issues of policing reform."
-publishedDateTime: 2021-05-18T15:06:00Z
-originalUrl: "https://www.businessinsider.com/val-demings-florida-2022-senate-run-marco-rubio-2021-5"
-webUrl: "https://www.businessinsider.com/val-demings-florida-2022-senate-run-marco-rubio-2021-5"
-ampWebUrl: "https://www.businessinsider.com/val-demings-florida-2022-senate-run-marco-rubio-2021-5?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/val-demings-florida-2022-senate-run-marco-rubio-2021-5?amp"
+title: "New York Prosecutor Convenes Grand Jury in Criminal Investigation of Donald Trump"
+excerpt: "Manhattan District Attorney Cyrus Vance Jr. is conducting a wide-ranging investigation into Donald Trump's business dealings."
+publishedDateTime: 2021-05-26T02:30:00Z
+originalUrl: "https://time.com/6051259/donald-trump-criminal-grand-jury-new-york/"
+webUrl: "https://time.com/6051259/donald-trump-criminal-grand-jury-new-york/"
 type: article
-quality: 91
+quality: 100
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Time
+  domain: time.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/5d38a1ed100a2418752aaa27?width=750&format=jpeg&auto=webp"
-    width: 750
-    height: 500
+  - url: "https://api.time.com/wp-content/uploads/2021/05/Trump-grand-jury.jpg"
+    width: 1024
+    height: 711
     isCached: true
 
 related:
@@ -127,20 +125,6 @@ related:
         width: 1200
         height: 811
         isCached: true
-  - title: "New York Prosecutor Convenes Grand Jury in Criminal Investigation of Donald Trump"
-    excerpt: "Manhattan District Attorney Cyrus Vance Jr. is conducting a wide-ranging investigation into Donald Trump's business dealings."
-    publishedDateTime: 2021-05-26T02:30:00Z
-    webUrl: "https://time.com/6051259/donald-trump-criminal-grand-jury-new-york/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 100
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/05/Trump-grand-jury.jpg"
-        width: 1024
-        height: 711
-        isCached: true
   - title: "Michael Cohen said he believes Trump will 'flip on all of them,' including his children, in the New York investigation into his company"
     excerpt: "Cohen, Trump's former lawyer and fixer who is cooperating with prosecutors, said: \"I really believe that Donald Trump cares for only himself.\""
     publishedDateTime: 2021-05-20T06:40:00Z
@@ -156,6 +140,22 @@ related:
       - url: "https://i.insider.com/60a5e132f27b4c001944582e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Val Demings, who rose to national prominence as a Trump impeachment manager, plans to challenge Marco Rubio in the 2022 Florida Senate race"
+    excerpt: "As a former Orlando police chief, Demings, a three-term Democratic congresswoman, could offer a compelling perspective on issues of policing reform."
+    publishedDateTime: 2021-05-18T15:06:00Z
+    webUrl: "https://www.businessinsider.com/val-demings-florida-2022-senate-run-marco-rubio-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/val-demings-florida-2022-senate-run-marco-rubio-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/val-demings-florida-2022-senate-run-marco-rubio-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5d38a1ed100a2418752aaa27?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
         isCached: true
   - title: "Trump criminal investigation looms over Manhattan DA race"
     excerpt: "The current district attorney, Cyrus Vance Jr., is leaving office at the end of the year, meaning there’s a good chance he’ll pass the two-year probe to his successor."
@@ -254,6 +254,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "cHahx0qZjxeUX/SZK1n0qfrzEPNHtgtzB38r/qM5ebh6D9mDQARC570szkM6fVPIlpGRItOjxVCrL8HqdOha4uj2AawGkZCQBtzbPbz2zdWmV022YhyCOsLh8dfzlmLWFw6q6esBKbZAMk4bQqBqmL6G9my8dw5s7S273UUQB47EAJkYHtDNO3I5yoiQGH6g0qPQQGlClwSbsKWFHA5p/0Dm2reEsOFQX7nOtvLGHt+1bsdg6hf5tyjz8wCAdwXZ5LjRmfG8B4gsJcEirnk0KEwkl4+DGZYUDZlfa726U/Fwki7TiaYlI5cAZHhfXTvFxVtyJzT0Kj9jIRGZnVmciVHcC2lAaIcDNZxtoDz6p52JKCGcCDCH0b+1mhyr3Tjr/KzvdlyoJCwe4e9PRdKxwf/WUlYVSw8VncLzRmoHwaGH/h2aEuxzaf2c9jCVBNiC8SMaLqkqXL4OSpvXK8cmToxNJI087fvHWn77oqYmUi6fB9n+m3TK6RgNqwwGBZcKbqGntmH+f9bNAcBM/ByZqA==;w7ofSQGVIES/0HrBN0rPkg=="
+secured: "WdMWYngpsW5z62KHSWS3sF1s53SAOvaJI7MSEzqknCeHg2Afy+FxcFLqvAapPpQftBxAhj61Y52jTzSWVA2pS5dSFN3TqLbzOrsltp+Fjr3ugqSL9VRFtIyNyHadtIRxYFTmM36aSvW/xKfY6gPUv0QI3UzaSrmar47mXjWGESHQQIk8geNBv9C6GbO8ElNk3rmNpaWZ93e5Wod2Kz66jHT7YpGV2OBpbeKlfLnC7OAe7TiHpBvFw8gXhwaYLEcpw1oZ1j1/2lL98aPY8IN9xZuQMWlce+xN3qbq6HHqk0AyEQQT1RombKEBs4VFcTQ/nIMjA0j5cojigBJ70nqgfVMN7Ltt1gUdmPfJmkknyQA=;Gm1d89VVjZ4HT3gCDJjmMA=="
 ---
 

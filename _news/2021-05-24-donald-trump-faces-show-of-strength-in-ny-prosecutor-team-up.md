@@ -121,6 +121,20 @@ related:
         width: 1200
         height: 811
         isCached: true
+  - title: "New York Prosecutor Convenes Grand Jury in Criminal Investigation of Donald Trump"
+    excerpt: "Manhattan District Attorney Cyrus Vance Jr. is conducting a wide-ranging investigation into Donald Trump's business dealings."
+    publishedDateTime: 2021-05-26T02:30:00Z
+    webUrl: "https://time.com/6051259/donald-trump-criminal-grand-jury-new-york/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 100
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/05/Trump-grand-jury.jpg"
+        width: 1024
+        height: 711
+        isCached: true
   - title: "Michael Cohen said he believes Trump will 'flip on all of them,' including his children, in the New York investigation into his company"
     excerpt: "Cohen, Trump's former lawyer and fixer who is cooperating with prosecutors, said: \"I really believe that Donald Trump cares for only himself.\""
     publishedDateTime: 2021-05-20T06:40:00Z

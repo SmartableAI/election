@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-26-kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.md",
+      "title": "Kamala Harris urged by New Mexico GOP lawmaker to involve Congress in her ‘root causes’ talks",
+      "excerpt": "Vice President Kamala Harris should consult members of Congress as she continues discussions with Mexican and Central American officials on the \"root causes\" of migration, a Republican lawmaker urged this week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQqjNR0Sbk8/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQqjNR0Sbk8/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22a9630b-047d-47d1-9952-04d0bea71b85/eeb72bf6-9f91-441b-afd6-816eea0f5863/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp",
+      "publishedDateTime": "2021-05-25T20:54:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-donald-trump-says-he-usually-did-the-opposite-of-what-anthony-fauci-advised-on-covid.md",
+      "title": "Donald Trump Says He 'Usually Did the Opposite' Of What Anthony Fauci Advised on COVID",
+      "excerpt": "Republican former President Donald Trump on Tuesday night said he \"usually did the opposite\" of what infectious diseases expert Dr. Anthony Fauci advised during his presidency. \"Remember I closed our country to China way early much earlier than [Democratic House Speaker Nancy] Pelosi or anybody wanted it to happen,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858",
+      "originalUrl": "https://www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1806862/president-donald-trump-opposite-fauci-covid-19-advice.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858?amp=1",
+      "publishedDateTime": "2021-05-25T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-trump-blasts-reported-grand-jury-says-part-of-greatest-witch-hunt.md",
       "title": "Trump blasts reported grand jury, says part of ‘greatest Witch Hunt’",
       "excerpt": "The 45th president claimed the grand jury probe is an extension of the Russia investigation that plagued his administration for two years.",
@@ -62,7 +171,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -828,7 +937,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad4c358f08d486a7712e13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 766,
+      "heat": 806,
       "tags": null,
       "images": [
         {
@@ -1230,115 +1339,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-george-floyds-family-to-meet-with-biden-and-harris-at-white-house.md",
-      "title": "George Floyd's family to meet with Biden and Harris at White House ",
-      "excerpt": "President Joe Biden and Vice President Kamala Harris will meet on Tuesday with the family of George Floyd exactly one year after he was killed by a Minneapolis police officer, sparking nationwide protests against racism and police brutality.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rwTpMRPG4lI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rwTpMRPG4lI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 500,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200608151857-biden-floyd-family-meeting-0608-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html",
-      "publishedDateTime": "2021-05-25T08:05:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-trump-lashes-out-against-possible-us-senate-candidate-mark-brnovich-over-election-audit.md",
-      "title": "Trump lashes out against possible U.S. Senate candidate Mark Brnovich over election audit",
-      "excerpt": "Trump’s disapproval of Brnovich, Arizona's attorney general, could be significant because of Trump's continued support among many Republicans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/05/24/trump-criticizes-mark-brnovich-election-audit/7416438002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/05/24/trump-criticizes-mark-brnovich-election-audit/7416438002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/12/13/PPHX/5db3c5fd-6011-495e-84ad-54169aab376c-Day_5_Promo_2.jpg?auto=webp&crop=3199,1799,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7416438002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7416438002",
-      "publishedDateTime": "2021-05-25T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

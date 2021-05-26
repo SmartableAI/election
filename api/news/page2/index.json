@@ -2,6 +2,115 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-25-george-floyds-family-to-meet-with-biden-and-harris-at-white-house.md",
+      "title": "George Floyd's family to meet with Biden and Harris at White House ",
+      "excerpt": "President Joe Biden and Vice President Kamala Harris will meet on Tuesday with the family of George Floyd exactly one year after he was killed by a Minneapolis police officer, sparking nationwide protests against racism and police brutality.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rwTpMRPG4lI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rwTpMRPG4lI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 500,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200608151857-biden-floyd-family-meeting-0608-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html",
+      "publishedDateTime": "2021-05-25T08:05:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-trump-lashes-out-against-possible-us-senate-candidate-mark-brnovich-over-election-audit.md",
+      "title": "Trump lashes out against possible U.S. Senate candidate Mark Brnovich over election audit",
+      "excerpt": "Trump’s disapproval of Brnovich, Arizona's attorney general, could be significant because of Trump's continued support among many Republicans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/05/24/trump-criticizes-mark-brnovich-election-audit/7416438002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/05/24/trump-criticizes-mark-brnovich-election-audit/7416438002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/12/13/PPHX/5db3c5fd-6011-495e-84ad-54169aab376c-Day_5_Promo_2.jpg?auto=webp&crop=3199,1799,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7416438002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7416438002",
+      "publishedDateTime": "2021-05-25T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-biden-putin-to-meet-in-person-june-16-in-geneva-white-house-confirms.md",
       "title": "Biden, Putin to meet in person June 16 in Geneva, White House confirms",
       "excerpt": "President Biden and Russian President Vladimir Putin are expected to meet in Geneva next month, the White House announced Tuesday, maintaining that the meeting will serve as a tool to manage what will continue to be a deeply challenging relationship between the U.S. and Russia.",
@@ -990,7 +1099,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -1252,118 +1361,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-the-long-tail-of-trumps-big-lie-9-ways-it-continues-to-affect-american-politics.md",
-      "title": "The long tail of Trump's Big Lie: 9 ways it continues to affect American politics  ",
-      "excerpt": "Donald Trump isn't moving on. Neither is his party.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/49KlcNlyWbM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/49KlcNlyWbM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210119172339-01-capitol-riot-wide-ground-shot-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/23/politics/trump-big-lie-impact/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/trump-big-lie-impact/index.html",
-      "publishedDateTime": "2021-05-23T07:14:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-campaign-2024-trump-getting-ready-to-hit-campaign-trail.md",
-      "title": "Campaign 2024: Trump getting ready to hit campaign trail",
-      "excerpt": "Former President Donald Trump is gearing up for “upcoming rallies.” And the former president, who’s expected to begin holding rallies again as early as next month, also says that he’s refurbishing the airliner that he used during his 2016 White House campaign.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Da-jh6TiK1k/trump-getting-ready-to-hit-campaign-trail",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp",
-      "publishedDateTime": "2021-05-23T07:09:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

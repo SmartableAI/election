@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 811
         isCached: true
+  - title: "New York Prosecutor Convenes Grand Jury in Criminal Investigation of Donald Trump"
+    excerpt: "Manhattan District Attorney Cyrus Vance Jr. is conducting a wide-ranging investigation into Donald Trump's business dealings."
+    publishedDateTime: 2021-05-26T02:30:00Z
+    webUrl: "https://time.com/6051259/donald-trump-criminal-grand-jury-new-york/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 100
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/05/Trump-grand-jury.jpg"
+        width: 1024
+        height: 711
+        isCached: true
   - title: "Michael Cohen said he believes Trump will 'flip on all of them,' including his children, in the New York investigation into his company"
     excerpt: "Cohen, Trump's former lawyer and fixer who is cooperating with prosecutors, said: \"I really believe that Donald Trump cares for only himself.\""
     publishedDateTime: 2021-05-20T06:40:00Z
@@ -240,6 +254,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "80qdDzQsN+Eeis6IRlFn8K+CDJsBb3wC9/HcdltFWSsJmxMA63X8Y3+VD3aFyXtPNeaSpf2o83p/5Mdly4fbsRHWt+VzTL1nR5jPupAydNO2xeuehiVKi6Efd9qO73gyyeB/jfYPUyJbkXflX1MFznifCiW7JdCZi8YZcFhplNvSQhMxX6H1PQ3zdQDQa6eKxY3C/tT1JtowKoL4GL0XJAVJeKHl3Rs8BhzilEFguwj4jMjDM2Zsjrk/IzJTM27Tj+Rs6AN7S9d2gdOvg7pxoKE4R6PzglkreIDy2UN2ngfVdwgyw4LIgc4Re9cb8E/jwv/4fuXEZ50ww52ElHKivY0sJXz/WFfm6ktdVZJYRGY=;YBSjiTFIYMpUL5WBLEoeQw=="
+secured: "s+E56AFxmDS1D64KsH/zseq4shHObL0I7THC9QveIsrCAJWpaXJ4zp0c3MHeFcTgRzia8xodyS3XpPVoOa8635CYz7vYtZoH5Y3LbsHtGMKRz+aYSnh+xJQokz5aN5oznsw90+iVj8rfqtvVukojfw82ETX0G1oZ9njhCZbdXzb1prxQo9iAOqsDnc6Xc7hVI02ip9PAH/8jlILe/VNKSzsVYLZXfGbQBpV74TT6bheJK+NBVvCptZ9ldkd85na9gdBxhQE4nm6+oXfJV51NPtLHKkqFbMgOg5aAFA5gMCOb6XilbaovY0eZOB864TnzV/uwVIjUqE6Xb64nvUcdu40yHVFd14uI/nkTdCyADk7p4fDsf9DYpYMX+5UlnA+FZHOVqEZSXI9YJrksAMqNnmKMUR/Za45QYMB98SXb2SZImLXdSmY5SkWu6OU9QVihuQMOo4ezOUkFeE025A/64BCaHdhUwUAtuVTWcfoKnZwu+BSwGnBkcPPgMJgs85YqIgCSengWeVPp2bUKykI7Cg==;qFnNraaT4Wcs7PxZ0j4biw=="
 ---
 

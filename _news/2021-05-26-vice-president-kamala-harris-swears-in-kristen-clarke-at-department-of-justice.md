@@ -309,6 +309,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "George Floyd’s family urges Biden to pass a policing reform bill - live"
+    excerpt: "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live"
+    publishedDateTime: 2021-05-25T23:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad8b528f08d486a771309c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
   - title: "Biden told Pete Buttigieg 'that was some f---ing bulls---' on stage after a combative debate exchange with Kamala Harris, according to a new book"
     excerpt: "Biden was stunned when Harris went after his record on busing during a Democratic primary debate in June 2019."
     publishedDateTime: 2021-05-19T17:19:00Z
@@ -350,6 +361,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 102
+  - title: "George Floyd’s family urges Biden to pass a policing reform bill – as it happened"
+    excerpt: "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live"
+    publishedDateTime: 2021-05-25T23:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad8ee88f088d8c31789282"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 100
   - title: "George Floyd’s family urges Biden to pass laws to 'protect people of colour' – video"
     excerpt: "If you can make laws to protect the [national] bird, you can make laws to protect people of colour’"
     publishedDateTime: 2021-05-25T20:06:00Z
@@ -483,6 +505,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "2VXsvhXPugm3i66heuAvrGcUr5hEzhYMbPitrpPzn8b/ENyXpadr7AWcsxnS3aMHBf0Z9zKwo8YAS/UelvaQRaemX2WqKX7RuQ7/ckBVu/DHSPKqV+kuAijCw+1qcfV2RzZerCIcShvFxwvNyNfa9BZBWRmB5t3mOXhb9MlcszkhlyNFy7DMhQDuM6holdospz1XhNYEPh02Fq7Eh146av0X0aPEUuZPJh4ZlqXADtC6KtDBtM0uqrRaT/GcUfRFIW6Z7Bt7Q0T6XksSR3eD3ZPJ4SsUt08Ulq418DKR0qWQnOodLOMr6mw/y7BVur6FFrJm8ln3LXnpFqA9+O846Lkp10gaQ1IqiBS7AjpkRmU=;aoLCz1Ut3cPVSpHQKukTuQ=="
+secured: "hflKD3hCjy5CHuxAVe90CPAVB4SCXB+nwDLk2ikD+Y6E6ucyxWeEzeIU5uchc9RcU9t+SKnqw814JpwBGA1h+t7YxqrIc6MBFEZ4ZHpz418aavNlgfF5QRAo7kTSHFxT1MdtCFpuKlV7tdXO6rc0NPWdAKEzoPWyCNmgX9M8sBIFuXqb7HmJBiJJs0Wfae+LPlT8QpBb4T7fWryDZj5bhFDQLO7kexdp6s68HHz6vjQgcQY9VyTdi1wxpv6ndIWT9zN94zjbsRwrzL5xHa7ct66MIZ2e9+D1ZDRLex5G7OC8pvoOBCTMq4bnbqaUqfOxCmkKumDBTyzJeAZzlQ8sQ3tXts2ZWAy9DSU6CsWSP403tPahEkXsPK+IkaMirvDVPbwWVXzVXcYAKbXfU0LWoisiK1fKMV/pfq9+NLdpvI350OWc5ohZoWzNVEPKgomOSlA7GrkT5fPWJ5iF77P5Y0kR3s6m76tt3B2rX3mY6dD0/SZzjkGwtmOdqTcyIDEykGJpjuR1kTw81aVGrnyfmw==;krEmdw1Sai/ZTrmHEIbeWw=="
 ---
 
