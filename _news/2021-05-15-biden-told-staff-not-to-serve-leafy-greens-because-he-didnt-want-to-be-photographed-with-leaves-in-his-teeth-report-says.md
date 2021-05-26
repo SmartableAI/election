@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Republicans plan to send Biden infrastructure counter offer worth nearly $1 trillion"
+    excerpt: "Senate Republicans intend to send President Joe Biden a nearly $1 trillion counter proposal on infrastructure spending Thursday, just days before Biden's deadline."
+    publishedDateTime: 2021-05-26T09:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/republicans-plan-send-biden-infrastructure-counter-offer-worth/story?id=77897431"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/republicans-plan-send-biden-infrastructure-counter-offer-worth/story?id=77897431"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/republicans-plan-send-biden-infrastructure-counter-offer-worth/story?id=77897431"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/shelley-moore-capito-nc-jef-210525_1621978555097_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "mcF21vmpGVaBl0qEIFZYiFeq5wnrK70ogIVak31xHaUobfUsPSRdJ5yg6vdpP9OPTgOxsMEgem4nneamS2s6YEteLchn53h5ltSKuOYEbNzVFeOdliMSIog4RGfLfMwpigtaw/4w+SqmN65PLcJ8YORYCo6HM+fMNHY7n5qStZsYfywBDhASiZN1MBRWpnNmo3wA33Y1swlK2ihAR33Fy9B+nYqW5Qqs9Uz/3Do5xnk/3t6BfbY612nSFn34jXBMFUISMIiWn8lZ8yz/vYOjmeFK8/EVo8Dbwu+sEGS2JUQeQkiOghDtfdQiaqJ8DvCTHdQ6fF+aUp6fT9mf3swKlv+7/wgwta458WuyiT5n9e4=;8K4hbppaFr34ihnZf/59SQ=="
 ---

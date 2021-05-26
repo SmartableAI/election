@@ -301,8 +301,8 @@ related:
         isCached: true
   - title: "George Floyd’s family urges Biden to pass a policing reform bill - live"
     excerpt: "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live"
-    publishedDateTime: 2021-05-25T22:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad73a18f08d486a7712fad"
+    publishedDateTime: 2021-05-25T22:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad86e18f088d8c31789231"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
     type: article
@@ -463,16 +463,16 @@ related:
         height: 1080
         isCached: true
   - title: "Vice President Kamala Harris swears in Kristen Clarke at Department of Justice"
-    excerpt: "Vice President Kamala Harris speaks to the media after the swearing in of Kristen Clarke at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
+    excerpt: "Attorney General Merrick Garland, Kristen Clarke, Pansy Clarke and Vice President Kamala Harris swears her in at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
     publishedDateTime: 2021-05-25T23:51:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/3b7ee3a32a21a134b3ac19bacd24459e/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/408b773511243466a1b663af65743f9b/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 51
     images:
-      - url: "https://cdnph.upi.com/pv/upi/3b7ee3a32a21a134b3ac19bacd24459e/HARRIS-CLARKE-DOJ.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/408b773511243466a1b663af65743f9b/HARRIS-CLARKE-DOJ.jpg"
         width: 650
         height: 433
         isCached: true

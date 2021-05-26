@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris swears in Kristen Clarke at Department of Justice"
-excerpt: "Vice President Kamala Harris speaks to the media after the swearing in of Kristen Clarke at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
+excerpt: "Attorney General Merrick Garland, Kristen Clarke, Pansy Clarke and Vice President Kamala Harris swears her in at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
 publishedDateTime: 2021-05-25T23:51:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/3b7ee3a32a21a134b3ac19bacd24459e/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/3b7ee3a32a21a134b3ac19bacd24459e/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/408b773511243466a1b663af65743f9b/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/408b773511243466a1b663af65743f9b/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
 type: article
 quality: 51
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/3b7ee3a32a21a134b3ac19bacd24459e/HARRIS-CLARKE-DOJ.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/408b773511243466a1b663af65743f9b/HARRIS-CLARKE-DOJ.jpg"
     width: 650
     height: 433
     isCached: true
@@ -311,8 +311,8 @@ related:
         isCached: true
   - title: "George Floyd’s family urges Biden to pass a policing reform bill - live"
     excerpt: "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live"
-    publishedDateTime: 2021-05-25T22:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad73a18f08d486a7712fad"
+    publishedDateTime: 2021-05-25T22:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad86e18f088d8c31789231"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
     type: article
@@ -505,6 +505,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "hflKD3hCjy5CHuxAVe90CPAVB4SCXB+nwDLk2ikD+Y6E6ucyxWeEzeIU5uchc9RcU9t+SKnqw814JpwBGA1h+t7YxqrIc6MBFEZ4ZHpz418aavNlgfF5QRAo7kTSHFxT1MdtCFpuKlV7tdXO6rc0NPWdAKEzoPWyCNmgX9M8sBIFuXqb7HmJBiJJs0Wfae+LPlT8QpBb4T7fWryDZj5bhFDQLO7kexdp6s68HHz6vjQgcQY9VyTdi1wxpv6ndIWT9zN94zjbsRwrzL5xHa7ct66MIZ2e9+D1ZDRLex5G7OC8pvoOBCTMq4bnbqaUqfOxCmkKumDBTyzJeAZzlQ8sQ3tXts2ZWAy9DSU6CsWSP403tPahEkXsPK+IkaMirvDVPbwWVXzVXcYAKbXfU0LWoisiK1fKMV/pfq9+NLdpvI350OWc5ohZoWzNVEPKgomOSlA7GrkT5fPWJ5iF77P5Y0kR3s6m76tt3B2rX3mY6dD0/SZzjkGwtmOdqTcyIDEykGJpjuR1kTw81aVGrnyfmw==;krEmdw1Sai/ZTrmHEIbeWw=="
+secured: "xuZZV27janPofqo9OsjYYHA4dPFzOcLEzvpFEs1KoGeg13u+wR2bFR4cLVvsEKlRRZBd/hO6N5eKdwRU14IcraOyUdTVaA9r8uwKjbJXCl/0OmT2C+9eIIxTM08F0C9CUSOqrMcqY8Z25fXPCYv5glDqQNzmB+o+NfuJbGUbRHf+LUM5ikgbj6EvK5kQ9m45wqL1xvwgQTo6J18Gs/DRnw+EZ2XV3GpdzSu9Y/le/flx3y3wjfoNOJVQ/7ZyHU53FZVNbkoDLlmfe0uf993QKGCRQaJKnlbWJ6gMkSv9BNPEgo7jLwusX1eF4D9/0ZmyZQy9xw16+wLCmp8u7N6ax4Vu0ylLCfEpjWtIymi2UwU=;WrOlDbPVybGIVaDhRK//NQ=="
 ---
 
