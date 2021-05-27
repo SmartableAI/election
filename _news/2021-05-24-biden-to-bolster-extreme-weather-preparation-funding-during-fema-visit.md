@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "ACLU urges Biden administration to offer Covid-19 vaccine to detained immigrants"
+    excerpt: "The American Civil Liberties Union is urging the Biden administration to provide Covid-19 vaccine access to immigrants in detention, citing the rapid spread of coronavirus in congregate settings, according to a letter sent the Department of Homeland Security and obtained by CNN.\n    \n"
+    publishedDateTime: 2021-05-27T16:47:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XcG5kZ8dlXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/aclu-covid-vaccine-immigrants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/aclu-covid-vaccine-immigrants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527073204-01-moderna-covid-19-vaccine-maryland-0325-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration allocates $200 million to support survivors of domestic violence"
     excerpt: "The Biden administration announced on Monday it is allocating $200 million from the American Rescue Plan to support services for survivors of domestic violence following a rise in cases during pandemic lockdowns.\n    \n"
     publishedDateTime: 2021-05-24T17:06:19Z

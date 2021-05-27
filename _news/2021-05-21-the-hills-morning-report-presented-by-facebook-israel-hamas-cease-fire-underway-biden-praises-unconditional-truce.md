@@ -47,6 +47,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "U.S. state governors urge Biden to support Lockheed's F-35 jet"
+    excerpt: "Governors of U.S. states that represent both political parties have written letters to President Joe Biden supporting the purchase of F-35 jets made by Lockheed Martin Co."
+    publishedDateTime: 2021-05-27T17:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-lockheed-f-35-idUSKCN2D81UP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81UP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81UP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "rHu6M1tB5UjBc4akfK3QNaHWe6i5/2gYj7jo+AMkkJ+J6Fkxk9Hm49/Na4NkZ5ocDRrgD5LLzhSASkb9tAIca7brp/N4Egjyv890wf7N93XkRTC7uEzVCDW0X21/E1qDFF5iimewM6TFfSHV01zYEbHaCpUe7py8VNABfQC5vnkYWBRuOigSW0qKP2TYjrh7jv2J6Le4nq7Dr9lNccFIyAyJVuzg0arGRFLpXHGVpM98wTBsrNJGtF/DJTDdWgYu7WMF1InepRW9XZbOSTVZYdcu64ADfMZlvS1/WWg9JdptAplucoXED6DTKm6JwhjKj5F/Q2QSbMsxI1lbdursMkkO6cGv7IJrNW+06kwneg+7wmwZevG8uTUJazgOp75bf9+tReUvLMHK3WgeUqjXFIOiIK6iN5avtx1P0rIOSioFJ+C7mSnTyyGIld/k6ZP4gnaedJPGKy7tHjbGypx9UDrx10CQ3tAOpTbNimY8CpL4AffNwEAM3LMqkyi6sb+MnFf3pGb7gdoBBvuQ6LFd9g==;Q4JY57ddnBiuWk4t1KuMXA=="
 ---

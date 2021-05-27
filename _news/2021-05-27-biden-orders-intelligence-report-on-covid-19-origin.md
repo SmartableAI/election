@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Senate Republicans unveil latest counteroffer to Biden on infrastructure spending"
+    excerpt: "Senate Republicans on Thursday unveiled their latest counteroffer to President Joe Biden on infrastructure spending, calling for spending $928 billion."
+    publishedDateTime: 2021-05-27T17:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/senate-republicans-unveil-latest-counteroffer-biden-infrastructure-spending/story?id=77938463"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/senate-republicans-unveil-latest-counteroffer-biden-infrastructure-spending/story?id=77938463"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/senate-republicans-unveil-latest-counteroffer-biden-infrastructure-spending/story?id=77938463"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/presser-capitol-1-gty-ps-210527_1622123809260_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Republicans plan to send Biden infrastructure counter offer worth nearly $1 trillion"
     excerpt: "Senate Republicans intend to send President Joe Biden a nearly $1 trillion counter proposal on infrastructure spending Thursday, just days before Biden's deadline."
     publishedDateTime: 2021-05-26T09:03:00Z
@@ -78,6 +94,6 @@ related:
         height: 600
         isCached: true
 
-secured: "0XHFe5RbGzLoXHtDlmDVSx1hv6HokAWSsiqmg6yrZZqVZBUtwe4Iib4L4Rrv03EmgOG+2wopReyUZTcuRRXJmWUIXCUJYVxCk0cBFkdy6bPNShscWiE3ImwO22VPVKl7zFAVormhaoaBqJdeXjEFqd2h0gar7b8DK8EumBSAK7S/FtWeAR58cTWFUNz2SHiX/FKIAsGHb9GjRvD+f2kJE3TbWkQJSAaZmlo3ODeouEe67Y5m9HA8TwMRwg3OiSnAyixLLSmGuhyLoFYdaNa8O5qHbm739r5JaE6JG5vWuwFY55oXaZxQBhHSg+upam8+Op74hAl6oPEY2q1uyvC8c+8dSxHJDImQgTaDbzBstM8=;+EHfNS6vUm9pB9n5A7GzJQ=="
+secured: "QMt557/HIf7wwvsx6TvCTZcsuhniiQbhpetCX3VagsgE2o+kjs8nP0m87qTrf9972BvysPzFho+Sxcvcr9KTj5fSY3dZsNjA8z0pGy7hIZmQVOPlhFzrpNyM7G2ZOb/GxahjBM4NojbbYcCzn26aZCL7feeZYyuBA/u4kONDWrFbItLSxt/WX1f39xXr7/RvGFfqagfvTUNfF5hsX5QWoo2dch3r5tCbaW2evmUf90bC9HD33t0fkvP5NO/UdhdAmPTX9qe4kiDccRUBmoblArsM1h7or/0u2pPzpfNF9+IiwZ+r6Lr3vC7YCKqpXH20elB+NtcVUtbAoNlXEE/ClLtUi+L1mNCymID7MBMiDPoxh8B4XYiTvHa9qv8z3dTLi/NSiQeZXK10fmxi4NFj4TAR9a4cYEy1LpKdNi50ZbRDes5LLcfJt2QFoZjOT753xfyyf+yn7jvdOpJZiB73VXJji+crA3DXSUMc7wXBmz3pvkRXLuMqGj12DKCrOqmvdBdFBNXD9I0v2qBpF+L15g==;q14mL0rqZNKwTeC7cJWU1Q=="
 ---
 

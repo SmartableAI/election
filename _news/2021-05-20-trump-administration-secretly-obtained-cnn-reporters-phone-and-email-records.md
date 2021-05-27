@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html"
 type: article
 quality: 172
-heat: -1
-published: false
+heat: 232
+published: true
 
 provider:
   name: CNN
@@ -31,69 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "CNN legal analyst breaks down Trump probe grand jury report"
-    excerpt: "Manhattan's top prosecutor has convened a grand jury that is expected to decide whether to indict former President Donald Trump should prosecutors present criminal charges in their probe of the Trump Organization, two people familiar with the matter told The Washington Post. CNN's Elie Honig breaks down"
-    publishedDateTime: 2021-05-26T12:46:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q88Rz6SHNu8/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/05/26/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/05/26/elie-honig-trump-probe-grand-jury-assembled-newday-vpx.cnn"
+  - title: "Trump administration didn't provide some separated parents the opportunity to bring their children as they were deported, new watchdog report says"
+    excerpt: "Immigration and Customs Enforcement deported some parents between July 2017 and July 2018 without giving them the opportunity to bring their children, contradicting claims made by the agency and the Department of Homeland Security, according to a newly released watchdog report.\n    \n"
+    publishedDateTime: 2021-05-24T14:56:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYaqkh0SBmU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/immigration-families-separated-parents-removal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/immigration-families-separated-parents-removal/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 137
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519090310-02-trump-tower-nyc-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Prosecutors investigating Trump tell witness to prepare for grand jury testimony"
-    excerpt: "Manhattan prosecutors pursuing a criminal case against former President Donald Trump, his company and its executives have told at least one witness to prepare for grand jury testimony, according to a person familiar with the matter -- a signal that the lengthy investigation is moving into an advanced"
-    publishedDateTime: 2021-05-26T21:46:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/duFBPStwMa0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/donald-trump-grand-jury/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/donald-trump-grand-jury/index.html"
+  - title: "U.S. and Europe Seek to End Trump-Era Dispute Over Steel and Aluminum"
+    excerpt: "The Biden administration is trying to rebuild relations with Europe, but it is moving cautiously to unwind tariffs imposed by President Donald J. Trump."
+    publishedDateTime: 2021-05-17T17:48:00Z
+    webUrl: "https://www.nytimes.com/2021/05/17/business/us-europe-steel-tariffs.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/17/business/us-europe-steel-tariffs.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/17/business/us-europe-steel-tariffs.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519090310-02-trump-tower-nyc-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Washington Post: Manhattan DA convenes grand jury to consider potential charges in Trump Organization probe"
-    excerpt: "Manhattan's top prosecutor has convened a grand jury that is expected to decide whether to indict former President Donald Trump should prosecutors present criminal charges in their probe of the Trump Organization, two people familiar with the matter told The Washington Post.\n    \n"
-    publishedDateTime: 2021-05-25T23:49:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fjfcdaL6DdA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/manhattan-district-attorney-trump-organization-grand-jury/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/manhattan-district-attorney-trump-organization-grand-jury/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pardon-probe ruling roils legal teams for Trump ally Broidy, associate"
-    excerpt: "Two wealthy, well-connected targets of a major Justice Department investigation into efforts to influence the U.S. government’s probe regarding the looting of Malaysia’s sovereign wealth fund recently shook up their legal teams,"
-    publishedDateTime: 2021-05-20T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/05/20/pardon-ruling-trump-ally-489724"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/20/pardon-ruling-trump-ally-489724"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/20/pardon-ruling-trump-ally-489724"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static.politico.com/db/41/20d7addd42449ecd414e97c55df8/210519-broidy-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2021/05/18/business/17economy-briefing-steeltariffs/17economy-briefing-steeltariffs-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "CNN: Trump Justice Department seized reporter's email and phone records"
     excerpt: "The DOJ secretly obtained Pentagon correspondent Barbara Starr's phone and email records in another apparent leak investigation to identify a journalist's sources."
@@ -110,54 +78,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476652/210521-doj-trump-mb-1530_b5f661bfa9dd8a5326b015d5a23c57a6.jpg"
         width: 4000
         height: 2667
-        isCached: true
-  - title: "Jimmy Kimmel Believes Trump Would Flip on His Own Children"
-    excerpt: "Kimmel agreed with Michael Cohen, the former president’s longtime personal lawyer, who said in an interview that Trump would turn on anyone to save himself."
-    publishedDateTime: 2021-05-21T06:34:00Z
-    webUrl: "https://www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/21/arts/television/late-night-jimmy-kimmel-trump-children.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/21/arts/21latenight/21latenight-facebookJumbo.png"
-        width: 909
-        height: 476
-        isCached: true
-  - title: "Indictment against former Trump adviser Bannon is dismissed"
-    excerpt: "The onetime chief strategist, accused of defrauding donors in a $25 million fund to build a wall along the U.S. border, had been pardoned by the president."
-    publishedDateTime: 2021-05-26T04:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/indictment-against-former-trump-adviser-bannon-dismissed-n1268588"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268588"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268588"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_34/2288866/180110-steve-bannon-ac-727p_e8b0300a10c51c63a114531d87cb7ac8.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Sondland sues Pompeo, U.S. government, for legal fees over Trump impeachment probe"
-    excerpt: "Former U.S. ambassador to the European Union, Gordon Sondland, filed a lawsuit against former Secretary of State Mike Pompeo and the U.S. government. Sondland is seeking $1.8 million in legal fees he accumulated during the first House impeachment investigation against then-President Donald Trump."
-    publishedDateTime: 2021-05-24T20:24:00Z
-    webUrl: "https://www.nbcnews.com/now/video/sondland-sues-pompeo-u-s-government-for-legal-fees-over-trump-impeachment-probe-113087557862"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo113087557862"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo113087557862"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media14.s-nbcnews.com/i/mpx/2704722219/2021_05/1621887619887_ott_now_pwilliams_210524_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "qbWfHCjZUV6TloCU4iuTdJ1bJ+u+t9bmh8+jsjDF9PBtjPnkxY+b0Oqm6DehjxY+7Q9s4wjbY4pHs94lGUSfTTMvUpKTw2ZOIFNqrNfjwj1lhkoYykNQbJL7w1HCPC0wtAYFmQQoyXjCnKuufVjX4Pqtou25w7xkkbn961oHwHF+jUdC/tteLwymbWBSED7jUoSbvufATJbZRprBgRxTFof+x35lz7gv+JpjpyKOM670EF8lwKVmtpT2difhhyQb0hSdFAGRULB6F3N3iGjOw291cbuDNeO6vB27A9PVhSUMIesq1i1LiFHUYzalnBnq9jjauKENMvdnw1ILgNB8vvVpS7NigrhFVb5y9UlpdnQ=;znlJwlPE5/+6AEQOXlVkuA=="

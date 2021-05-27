@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Senate Republicans unveil latest counteroffer to Biden on infrastructure spending"
+    excerpt: "Senate Republicans on Thursday unveiled their latest counteroffer to President Joe Biden on infrastructure spending, calling for spending $928 billion."
+    publishedDateTime: 2021-05-27T17:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/senate-republicans-unveil-latest-counteroffer-biden-infrastructure-spending/story?id=77938463"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/senate-republicans-unveil-latest-counteroffer-biden-infrastructure-spending/story?id=77938463"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/senate-republicans-unveil-latest-counteroffer-biden-infrastructure-spending/story?id=77938463"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/presser-capitol-1-gty-ps-210527_1622123809260_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden orders intelligence report on COVID-19 origin"
     excerpt: "President Joe Biden is ordering U.S. intelligence officials to \"redouble\" efforts to investigate the origins of COVID-19, after a new report sparked questions about whether the virus could have originated in a Wuhan,"
     publishedDateTime: 2021-05-27T14:58:00Z

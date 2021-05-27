@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump, Giuliani, Oath Keepers ask judge to dismiss Capitol riot lawsuit"
+    excerpt: "House Democrats filed a lawsuit accusing the former president and right-wing groups of inciting the Jan. 6 riot. Oath Keepers says it planned peaceful protest; Trump says he has immunity from civil lawsuits over presidental actions."
+    publishedDateTime: 2021-05-27T15:13:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/oathkeepers-lawsuit-dismiss-capitol-riot/2021/05/26/593d1a2e-be61-11eb-b26e-53663e6be6ff_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/oathkeepers-lawsuit-dismiss-capitol-riot/2021/05/26/593d1a2e-be61-11eb-b26e-53663e6be6ff_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/oathkeepers-lawsuit-dismiss-capitol-riot/2021/05/26/593d1a2e-be61-11eb-b26e-53663e6be6ff_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YBTS7KV6PII6XMTOKNTD427G74.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
   - title: "McCarthy says he would testify about conversation with Trump during Jan. 6 Capitol assault"
     excerpt: "House Minority Leader Kevin McCarthy took a swipe at the \"Pelosi commission\" to investigate the Jan. 6 Capitol attack as one plagued with politics."
     publishedDateTime: 2021-05-20T18:31:00Z

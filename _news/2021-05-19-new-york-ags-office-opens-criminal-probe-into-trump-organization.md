@@ -32,85 +32,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's hold on GOP remains as he teases Texas AG endorsement"
-    excerpt: "As Donald Trump seeks to remain a kingmaker in Republican politics, the former President teased an upcoming endorsement in an important statewide race in Texas.\n    \n"
-    publishedDateTime: 2021-05-25T22:09:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sbej8DFu-jQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/trump-george-p-bush-texas-attorney-general/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/trump-george-p-bush-texas-attorney-general/index.html"
+  - title: "Senior Trump Air Force official suggested dramatically slashing F-35 jet numbers "
+    excerpt: "The official in charge of purchasing military hardware for the US Air Force suggested slashing the total number of Lockheed Martin F-35 jets for the service by more than half late last year, according to two former defense officials involved in the discussions who spoke with CNN. The news comes as Congressional"
+    publishedDateTime: 2021-05-15T14:03:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RfwDY6IUY0c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428114304-01-trump-marine-one-0120-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181120183114-f-35-elephant-walk-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Paul Ryan to enter GOP's civil war by criticizing Trump's hold on party"
-    excerpt: "Former House Speaker Paul Ryan is set to criticize former President Donald Trump and his hold on the Republican Party during a speech Thursday night, according to excerpts obtained by CNN.\n    \n"
-    publishedDateTime: 2021-05-27T12:22:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wiRgtgBedXw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/paul-ryan-donald-trump-gop-reagan-presidential-library-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/paul-ryan-donald-trump-gop-reagan-presidential-library-republicans/index.html"
+  - title: "Newly obtained bodycam footage shows moment DC police officer attacked by pro-Trump rioters"
+    excerpt: "Newly obtained body camera footage shows the moment DC Metropolitan Police Officer Michael Fanone was brutally assaulted while defending the US Capitol during the January 6 insurrection.\n    \n"
+    publishedDateTime: 2021-05-13T03:14:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qZTmxZ1zQ0c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/dc-police-officer-fanone-bodycam-footage-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/dc-police-officer-fanone-bodycam-footage-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181030173316-01-paul-ryan-1008-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114204226-metropolitan-police-officer-michael-fanone-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "House GOP revolt against Trump sets up tough Senate battle on January 6 probe"
-    excerpt: "Thirty-five House Republicans chose the truth and American democracy over Donald Trump's personality cult. Now their Senate colleagues face the same battle of conscience over the effort to investigate the Capitol insurrection.\n    \n"
-    publishedDateTime: 2021-05-20T06:58:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L-vLpdc8J3Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html"
+  - title: "Giuliani, who urged Trump supporters to have 'trial by combat,' says he wasn't literally calling for insurrection"
+    excerpt: "Lawyers for Rudy Giuliani -- who exhorted Trump supporters in Washington on the day of the Capitol riot to \"have trial by combat\" -- are now arguing that he wasn't literally advocating for an insurrection over the 2020 election results.\n    \n"
+    publishedDateTime: 2021-05-18T11:56:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s-YwWBqzcuc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/rudy-giuliani-january-6-insurrection-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/rudy-giuliani-january-6-insurrection-lawsuit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 154
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519123436-mcconnell-gop-0518-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518112523-file-rudy-giuliani-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Old Trump health team rivalries resurface in Texas House race"
-    excerpt: "A senior Trump health official’s bid to become the first administration alumnus elected to Congress is running into resistance from an unlikely source: his own former colleagues. Brian Harrison, a chief of staff to former Health and Human Services ..."
-    publishedDateTime: 2021-04-12T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
+  - title: "Pardon-probe ruling roils legal teams for Trump ally Broidy, associate"
+    excerpt: "Two wealthy, well-connected targets of a major Justice Department investigation into efforts to influence the U.S. government’s probe regarding the looting of Malaysia’s sovereign wealth fund recently shook up their legal teams,"
+    publishedDateTime: 2021-05-20T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/05/20/pardon-ruling-trump-ally-489724"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/20/pardon-ruling-trump-ally-489724"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/20/pardon-ruling-trump-ally-489724"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/9f/95/6083ce4d4093a63bafe1c7155074/gettyimages-906623620-1.jpg"
+      - url: "https://static.politico.com/db/41/20d7addd42449ecd414e97c55df8/210519-broidy-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Why Arkansas Is a Test Case for a Post-Trump Republican Party"
-    excerpt: "Sarah Huckabee Sanders seems likely to bring the Trump brand to Arkansas politics in a big way. But the state is a testing ground for different possible futures for the party."
-    publishedDateTime: 2021-05-24T07:00:00Z
-    webUrl: "https://www.nytimes.com/2021/05/24/us/politics/arkansas-republicans-sarah-sanders.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/24/us/politics/arkansas-republicans-sarah-sanders.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/24/us/politics/arkansas-republicans-sarah-sanders.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/23/us/23arkansas-lede/23arkansas-lede-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
 
 secured: "ipOP/ahwQCZIAlSPTCmEsvzz/fdOMCCV+xnmsp77gGrjAsbqvLlyTGH5+zOelCu73/gNSXvV9kH1n86aGfWgLW9SEkC963NIC37I9EbIBDfYiT07ODt+E+PN/f+c0AXhl6AeBoI4X6zeS9a9cDqSXTOy8zS5w4FUus1EzdbMW1v8jPLlI/C6ir0eaOvSQPPcx/+0eb+pATraPacXk4d7ORkWMOoCnApqe1HEhAI+Ub/WPPz5F0QlD4ADzXzLGeEJ6OUnb5l5H0NyzLxzfFUQit9zRD3t/MtADk1wUc0/Yo2Kv5T5wncWQZg7BWiP06AcUspOwbv5zUmdxaIRK+po8KBtsrmiSwz/VEDezG56V+Y=;fiy1KLL/j+/VjHK2N+cYPQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cea
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. state governors urge Biden to support Lockheed's F-35 jet"
+    excerpt: "Governors of U.S. states that represent both political parties have written letters to President Joe Biden supporting the purchase of F-35 jets made by Lockheed Martin Co."
+    publishedDateTime: 2021-05-27T17:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-lockheed-f-35-idUSKCN2D81UP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81UP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81UP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "The Hill's Morning Report - Presented by Facebook - Israel-Hamas cease-fire underway; Biden praises 'unconditional' truce"
     excerpt: "Total U.S. coronavirus deaths reported each morning this week: Monday, 585,970; Tuesday, 586,359; Wednesday, 587,219; Thursday, 587,874. Friday, 588,539. A cease-fire took effect between Israel and Hamas hours after Israeli Prime Minister Benjamin Netanyahu ’s Security Cabinet approved a unilateral halt to an 11-day military operation in the Gaza Strip."
     publishedDateTime: 2021-05-21T10:29:00Z

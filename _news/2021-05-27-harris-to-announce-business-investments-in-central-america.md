@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Harris to announce business investments in Central America"
-excerpt: "Vice President Kamala Harris on Thursday will announce commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden administration’s efforts to address the root causes of migration from the region."
-publishedDateTime: 2021-05-27T15:55:00Z
-originalUrl: "https://www.lmtonline.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
-webUrl: "https://www.lmtonline.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
-ampWebUrl: "https://www.lmtonline.com/business/amp/Harris-to-announce-business-investments-in-16207174.php"
-cdnAmpWebUrl: "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/business/amp/Harris-to-announce-business-investments-in-16207174.php"
+excerpt: "Vice President Kamala Harris on Thursday will announce commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden administr"
+publishedDateTime: 2021-05-27T16:32:00Z
+originalUrl: "https://www.columbian.com/news/2021/may/27/harris-to-announce-business-investments-in-central-america/"
+webUrl: "https://www.columbian.com/news/2021/may/27/harris-to-announce-business-investments-in-central-america/"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Laredo Morning Times
-  domain: lmtonline.com
+  name: The Columbian
+  domain: columbian.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/20/22/54/21048115/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://pcdn.columbian.com/wp-content/uploads/2021/05/Harris_57945.jpg-e62d7.jpg"
+    width: 900
+    height: 600
     isCached: true
 
 related:
@@ -90,6 +88,6 @@ related:
         height: 700
         isCached: true
 
-secured: "1NpRUGkj45UcpiGyw7usxjjq+sayz9qhBssymIH25npGNCde0zFZG92KEsTuqr8xuiVAFZS9WDtxWqaN1H6ELuKNoE8N1a4ip/osQcJgWE3vw+3OA69DMktSVVe71eIGGBA2Zp/pbwKPjuX5x+p8EP23ZjoqynbSX37CSI3RzZCxTTOMmqHYWTWkW8pCIC4RswnKu09zwAOcGDVtWV2yk2b3VTuiEpK0oFdo1IkffFQSukCp/hempfcf4QluVhQ+sMnKvsQ2PG+elsixVL/RdAh3JnGRglys+r2eqEOmv5A3jrV9ZwOKU6XuOh7T4z37oy0wyrpkP4KFoAWs/jUvmS0iuzwkZdqEiEGwKDWldBs=;DokcRO5dZpDjGrbJzBoqsA=="
+secured: "SAbBwja6YFWnAT9ItphzwVcbv2IMCGj6JYT4BzsO/KklPiymGnRfEgeg/Dy2NvJF/24F0a+2LqyDIt0Ucwu1wG/ADfZHp09gGi1f52zYY1jSth4LpL1EgiUbX7tnUuIkpoui6T4yTYmL3HyVTIqy/rv1wjkrMOIWnay7RI/aHD1t0AFDhInf8WfRkW5/3pq2Q/n0c49hp0QX8qTj3WrkuUWu+1OoxuO8x0TPwY5tIzOEaoOwFj4zgvRYNvwEuWpzEMcIEZJbFtk8kCOT5Ld946tegW741LyopWsOItMoORXLhaCVOV32pQx5//mLs2cOwAGSV6B7rKtn6haro6WSYcXPfe8WkpUX0LTjK6v57gM=;8AcYj3crFs2H5YzviA9iEw=="
 ---
 

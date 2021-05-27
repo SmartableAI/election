@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump, Giuliani, Oath Keepers ask judge to dismiss Capitol riot lawsuit"
+    excerpt: "House Democrats filed a lawsuit accusing the former president and right-wing groups of inciting the Jan. 6 riot. Oath Keepers says it planned peaceful protest; Trump says he has immunity from civil lawsuits over presidental actions."
+    publishedDateTime: 2021-05-27T15:13:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/oathkeepers-lawsuit-dismiss-capitol-riot/2021/05/26/593d1a2e-be61-11eb-b26e-53663e6be6ff_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/oathkeepers-lawsuit-dismiss-capitol-riot/2021/05/26/593d1a2e-be61-11eb-b26e-53663e6be6ff_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/oathkeepers-lawsuit-dismiss-capitol-riot/2021/05/26/593d1a2e-be61-11eb-b26e-53663e6be6ff_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YBTS7KV6PII6XMTOKNTD427G74.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
 
 secured: "BoqOUzPFV5bcFFR5lDOOSM9qGDsDbKaASKkcs5eGYOEaYXMiwGf2hmYtEBDs+3VNF2d7xJ7fJkzBQ4ezGNOj/KaqaNfMl4Y9t59d4imO/rYhZAWgTmdwNn2Um/LdAEswJdngGvFkqiCLlb9uwM6oUM+/LDTl5g0E+HeWu9HKFCLk53/wsVjxdH5w1RoI9LbwqeDfxVajf9C24YAVFb011IwzoZyh9vKej8U2ZhWiPHEBIjSFlqAREPFz/ZyBAIMnV6fHf7GhrhaYu/8AHOsgPCI44HZu5DEtgWxgjNmU1AMz6WNfCqbdVRUKgQEeh+C2FFLfTRr1B9RQXnNso77dmJP5YyisNDsDedrpanVtmVsaQDju/YguTDNGp4+7cWULSz/p/CIHEdwoIVV+KSwaN+7UPxDjNdT/+7HVT/H7iUeG2pAZw8HFbDgAYU/BoDwMyjeJS3J1GQfazzNGbHGnpc7S43GAxRtzmD3OeQu3sWFZLj1oxu15JjcSK/6HEyEE4qoigccGBfcun+y0qwVvJw==;jx3Bym30D+oZg6Of6Qey3w=="
 ---
