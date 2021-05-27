@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Congress face increasing pressure from some Black leaders to enact police reform"
+    excerpt: "President Joe Biden and the Democratic-controlled Congress are facing increasing pressure this week from Black civil rights leaders who say federal lawmakers have made little progress with police reform one year after George Floyd's death.\n    \n"
+    publishedDateTime: 2021-05-27T01:06:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EOMppi4-58U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/black-leaders-demand-police-reform/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/black-leaders-demand-police-reform/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210526145545-01-defund-the-police-protest-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden 'expressed his support for a ceasefire' in call with Israeli Prime Minister, White House says"
     excerpt: "The growing number of civilian deaths in the intensifying battle between Israel and Hamas in Gaza is causing worry inside the White House as officials work the phones with partners in the region.\n    \n"
     publishedDateTime: 2021-05-17T22:40:09Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D62SK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SK"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/726f30f7de9fd0b16e471b81d26a449d46c90f96/0_461_6944_4168/master/6944.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb30e67283e80d7eaa1ebbfa9d837d4e"
         width: 600
         height: 360
+        isCached: true
+  - title: "President Joe Biden asks US intelligence officials to investigate COVID origin"
+    excerpt: "President Joe Biden on Wednesday asked U.S. intelligence officials to “redouble” their efforts to investigate the origins of the COVID-19 pandemic, including the unlikely possibility that the origins of the virus trace to Chinese lab."
+    publishedDateTime: 2021-05-26T17:51:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2021/05/president-joe-biden-asks-us-intelligence-officials-to-investigate-covid-origin.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2021/05/president-joe-biden-asks-us-intelligence-officials-to-investigate-covid-origin.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/05/president-joe-biden-asks-us-intelligence-officials-to-investigate-covid-origin.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/43QH4W3SFRFC5M2Z4WP3SEC2DE.jpg"
+        width: 4834
+        height: 3223
         isCached: true
 
 secured: "ISf+3kO+A6DvGlc5ond0R44IzkEiPhPszRXloccAAxD7w+bJ6msmFPZhIP1qxZX3uvNx4HzXsAzQtJovZzQNgDmRzL0iJdN6Jc5IW6NoER99hxJJuATj5EQoZCcSZDZQdg7hoJKw7FrWh5YM3Ny7xuTaubeBUTj8jyUrR3xbjL0LBjaSydVmymd87uKQS0NDQo9Qf1CBl82m9wE/vG7n6a28e3GUmd1TWmR4bmPU2ei1g7K21r6anAWaIfN07mHRZLS+UvsttFOqI8ylvnWNXGzDT3yZktHhNIFsaaF9k9xCajJi2sX2xw9yj+t3H831jqDNeYby992G6TRwt94/YyJZeApnVNH2nyiHCFeH1Rm0Sr2bQt3mmwCLuZEtdltHTWNcDox64JQdzKwkJRP89cocIoCGnL3ZWyWqWRUVBX1ZVaLQv0ILUuAbQlI+lzSzzOypwJUN96OzhFCp/XATSTxNiv19zRCnPZKy2MrAv0JJiJbvciKKOCrae1TxGLQA8Z1ZlS5vnl9Lxw3P6VxUoQ==;J1ekpauesEzcyva4fQEv5A=="

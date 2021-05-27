@@ -218,6 +218,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Senate passes bill requiring the Biden administration to declassify intelligence on COVID-19 origins"
+    excerpt: "The Senate approved a bill that would require the Biden administration and the director of national intelligence to declassify intelligence on the origins of COVID-19 by unanimous consent Wednesday evening."
+    publishedDateTime: 2021-05-27T01:18:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pBlRoVPQxxI/senate-biden-declassify-intelligence-covid19-origin"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-biden-declassify-intelligence-covid19-origin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-biden-declassify-intelligence-covid19-origin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Joe-Biden-Marine-One-Camp-David-AP.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden, second Catholic president, to skip Notre Dame commencement after backlash to his abortion policies"
     excerpt: "Notre Dame University's 2021 commencement is set for Sunday, but President Biden will be notably absent from attendance."
     publishedDateTime: 2021-05-23T02:34:28Z

@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Man charged with threatening to kill Biden and others in bizarre texts"
+    excerpt: "A New Mexico man is facing a federal charge for allegedly threatening to kill President Joe Biden and others in text messages he sent to people in two states.\n    \n"
+    publishedDateTime: 2021-05-27T01:09:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n_eOKTTV-6U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/man-charged-threaten-kill-biden-texts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/man-charged-threaten-kill-biden-texts/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210526195007-john-benjamin-thornton-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to host George Floyd's family next week on anniversary of his death"
     excerpt: "President Joe Biden will host the family of George Floyd at the White House on Tuesday to mark the one-year anniversary of his death at the hands of police, a White House official confirmed to CNN.\n    \n"
     publishedDateTime: 2021-05-22T14:59:34Z

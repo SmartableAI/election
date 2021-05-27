@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/what-trump-obama-clinton-have-said-about-uf
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-trump-obama-clinton-have-said-about-ufos-1592844?amp=1"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/17/e75f35d7-00c4-4727-8ef5-e6b7676e2239/thumbnail/1200x630/9ede9f7dc7d90a76b4d81fe55921898e/0523-cbsn-aph-trumpvsclintonanalysis-1067329-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What happens next as grand jury considers case on Trump business dealings"
+    excerpt: "Former President Donald Trump is responding to the seating of a grand jury in the investigation into his business dealings, calling it \"purely political.\" CBS News legal contributor Rebecca Roiphe joined CBSN's Tanya Rivero to explain the process and what could happen next in this investigation."
+    publishedDateTime: 2021-05-26T19:45:00Z
+    webUrl: "https://www.cbsnews.com/video/grand-jury-investigation-trump-business-dealings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/26/70b014e9-1b89-4a97-a371-0041d7796fd0/thumbnail/1200x630/386ed7b35b0d01943469dcd0d9809ba6/cbsn-fusion-what-happens-next-as-grand-jury-considers-case-on-trump-business-dealings-thumbnail-723724-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -319,6 +319,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Enough': Biden renews calls for gun control bill after San Jose rail yard shooting"
+    excerpt: "Biden called on Congress to take action on gun control in his first joint address to lawmakers in April, such as banning assault weapons and high-capacity magazines."
+    publishedDateTime: 2021-05-26T23:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/enough-biden-renews-calls-gun-control-bill-after-san-jose-n1268682"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268682"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268682"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_21/3478003/210526-san-jose-shooting-ew-516p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "oq3YT/c/O+nro9FZ7tqHIoYyT0x/ztUg6Em5z/sOvqllItpbDYEUza1gnWzZWy84UWziOahzrmx578amyB1v6fPUGpylPVfALoALbnMue44ajDxHNxdIiLghHDPIgiGctJUxLkGIteEmbHnJkCq41txoIc1K79bKQEHS3Go1/mONiytfU8mA61WjA8hJDyBWZ1kHZUWCUzGN5n/Dk7I3jKlOrCfdxuBhaTkYNKiK5t72HO6c5n/1xeMvn75Pbb/VJcWoXFeurdxzO774nHN+VmSDy9ArLPzTYFHUkY3McwHU1smfDLBb3EfHl70o5XJPNi1atmsDhVjVOQR21OB+A09xwf9ics5KAIciuJdMumk=;AYRs4w+x517YX3QnoY2S6g=="
 ---

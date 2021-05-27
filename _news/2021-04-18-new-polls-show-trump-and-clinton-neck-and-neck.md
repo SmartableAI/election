@@ -77,6 +77,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "What happens next as grand jury considers case on Trump business dealings"
+    excerpt: "Former President Donald Trump is responding to the seating of a grand jury in the investigation into his business dealings, calling it \"purely political.\" CBS News legal contributor Rebecca Roiphe joined CBSN's Tanya Rivero to explain the process and what could happen next in this investigation."
+    publishedDateTime: 2021-05-26T19:45:00Z
+    webUrl: "https://www.cbsnews.com/video/grand-jury-investigation-trump-business-dealings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/26/70b014e9-1b89-4a97-a371-0041d7796fd0/thumbnail/1200x630/386ed7b35b0d01943469dcd0d9809ba6/cbsn-fusion-what-happens-next-as-grand-jury-considers-case-on-trump-business-dealings-thumbnail-723724-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3jFBZYk8uKRyDQ0NlvrlL/eq8KlbEwtT+S5E5sDM1Fky2wFZa5SMraqUUKyNa1Ibvkl5ErB9o/wF6OcK8pXU83i24NufwkHZolc+R+WpPhGxDfVMico9Gq+KTSibH3ASb/s7Bcg+sKoN7BDJMQnUWw0L+WgBxu22RQc66Y1tP1rGze/NcheWjPfbmMLOEorREXb4iXE2aVGemFMf4QEP8FBROxMKvHf6OK1PMXvaniEOXWD38RWJOSEwsoNwZHy5C/hYEzvAiagneffoSkG4xHh9vhqxNM2bkbpXTElttWarQO7r7Td+mRei42CaK1Pf4r9MYBtp9v/KJeEs1Nl/jzU/ixjeVuq33rs98h+TCYv+P5ITrEezfZSm157GANWD/iCPyqGCw2VUwW5bC4/wSv4u+Ci+J7l0wI9h9wcPKFqMztXb7V8TsLLYDdXAngFj/bbMtjEyhIllTo9o1wsm5GLd9jIqIw7gnsHGKb+sPMZGPnF5o0w++gEvgydx8yLo6ZCFGJTE1f6qiObyVOApTw==;MNP8zTdEDpuzuavUw0aaiA=="
 ---

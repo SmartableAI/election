@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Man charged with threatening to kill Biden and others in bizarre texts"
+    excerpt: "A New Mexico man is facing a federal charge for allegedly threatening to kill President Joe Biden and others in text messages he sent to people in two states.\n    \n"
+    publishedDateTime: 2021-05-27T01:09:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n_eOKTTV-6U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/man-charged-threaten-kill-biden-texts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/man-charged-threaten-kill-biden-texts/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210526195007-john-benjamin-thornton-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House lays the groundwork for high-profile Kamala Harris visit to Mexico and Guatemala "
     excerpt: "The White House is laying down the groundwork ahead of Vice President Kamala Harris' first trip abroad as the lead on diplomatic efforts in Central America, hoping to finalize its strategy to take on the root causes of migration before she lands, multiple sources told CNN.\n    \n"
     publishedDateTime: 2021-05-19T15:02:27Z

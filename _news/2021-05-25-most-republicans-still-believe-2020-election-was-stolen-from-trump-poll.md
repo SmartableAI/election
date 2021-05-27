@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/24/republicans-2020-ele
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
 type: article
 quality: 139
-heat: 419
+heat: 439
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://thehill.com/sites/default/files/istock-176779068.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "What we know about grand jury in Trump probe"
+    excerpt: "The news that Manhattan’s district attorney has convened a special grand jury as part of his criminal probe of Donald Trump’s business dealings has fueled speculation over whether Trump could become the first U."
+    publishedDateTime: 2021-05-26T18:51:00Z
+    webUrl: "https://thehill.com/regulation/court-battles/555573-what-we-know-about-grand-jury-in-trump-probe"
+    ampWebUrl: "https://thehill.com/regulation/court-battles/555573-what-we-know-about-grand-jury-in-trump-probe?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/555573-what-we-know-about-grand-jury-in-trump-probe?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_112720getty_lead.jpg"
+        width: 1340
+        height: 800
         isCached: true
   - title: "What we know about investigations looming over Donald Trump, his company"
     excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."

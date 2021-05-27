@@ -111,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "President Joe Biden asks US intelligence officials to investigate COVID origin"
+    excerpt: "President Joe Biden on Wednesday asked U.S. intelligence officials to “redouble” their efforts to investigate the origins of the COVID-19 pandemic, including the unlikely possibility that the origins of the virus trace to Chinese lab."
+    publishedDateTime: 2021-05-26T17:51:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2021/05/president-joe-biden-asks-us-intelligence-officials-to-investigate-covid-origin.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2021/05/president-joe-biden-asks-us-intelligence-officials-to-investigate-covid-origin.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/05/president-joe-biden-asks-us-intelligence-officials-to-investigate-covid-origin.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/43QH4W3SFRFC5M2Z4WP3SEC2DE.jpg"
+        width: 4834
+        height: 3223
+        isCached: true
 
 secured: "+3Nr8MTfNJeQn745XUTTA3zUg9P8rNlkcEovdaqbwJft7XVT8oolM5To3PtgqnfcwbjunyzK77p8H6Y2P8fQoUTWk+0l3cUTwvSGDC2SlUqocVVPVz2D2Ct3ZDFWRtm8lrrWFQJ1IiwS8ixYmPiT4b1KJeKjU46auFIEBwRZgpy55piz1NAOLF734bMYIKw3I1ofCAlON5XHHPI4eraIx/CG49bbh3A9se9m3fp5/oGMmpNLwpaRdj02yj9JLDctY8uoXfNtsENOTrSOhM2D3+Jid1iEAJvHS5A5vpQ/1pP2p7BH2rwD2c/v+L7Bqlv9JQzgl1EhjA3XN+w+Lj38X2wZ8TpAfly/RC3ZFWcICUL0JKin76AvwIWesnSAlDzW/xU2Bf9dJW9Xx9QV612K0hPFZ6sJbP9RCC8wx7OZWBjsjegkTkMjCeLCj5Op/TKbaEhBlW1B+SPmhppJLKEXMfVaNfmFaltV02eTXPTfc7gENl5l5vaaSzvIZ+pylk711C4CttEX6BMLBuPNET30Og==;u7nfS/J07HCOhTvnEfO6fg=="
 ---
