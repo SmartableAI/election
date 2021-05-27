@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden told staff not to serve leafy greens because he didn't want to be photographed with leaves in his teeth, report says"
-excerpt: "The New York Times also reported President Biden's preferred drink is the controversial Orange Gatorade."
-publishedDateTime: 2021-05-15T00:58:00Z
-originalUrl: "https://www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth"
-webUrl: "https://www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth"
-ampWebUrl: "https://www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth?amp"
+title: "Yellen says Biden budget to push U.S. debt higher, not inflation"
+excerpt: "U.S. Treasury Secretary Janet Yellen said on Thursday that President Joe Biden's fiscal 2022 budget plan will push U.S. debt above the size of the U.S. economy, but will not contribute to inflationary pressures,"
+publishedDateTime: 2021-05-27T19:18:00Z
+originalUrl: "https://www.reuters.com/business/yellen-says-us-treasurys-budget-has-not-kept-up-with-workload-2021-05-27/"
+webUrl: "https://www.reuters.com/business/yellen-says-us-treasurys-budget-has-not-kept-up-with-workload-2021-05-27/"
 type: article
-quality: 99
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/609efd611b5cea0019c45306?width=1200&format=jpeg"
+  - url: "https://www.reuters.com/resizer/zFPyikFMOycCbbfusTx3EspN4gg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EWBKQLUVFFIMTIQJQUJGMCLSPI.jpg"
     width: 1200
-    height: 600
+    height: 628
     isCached: true
 
 related:
@@ -93,21 +91,23 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Yellen says Biden budget to push U.S. debt higher, not inflation"
-    excerpt: "U.S. Treasury Secretary Janet Yellen said on Thursday that President Joe Biden's fiscal 2022 budget plan will push U.S. debt above the size of the U.S. economy, but will not contribute to inflationary pressures,"
-    publishedDateTime: 2021-05-27T19:18:00Z
-    webUrl: "https://www.reuters.com/business/yellen-says-us-treasurys-budget-has-not-kept-up-with-workload-2021-05-27/"
+  - title: "Biden told staff not to serve leafy greens because he didn't want to be photographed with leaves in his teeth, report says"
+    excerpt: "The New York Times also reported President Biden's preferred drink is the controversial Orange Gatorade."
+    publishedDateTime: 2021-05-15T00:58:00Z
+    webUrl: "https://www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth"
+    ampWebUrl: "https://www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
     images:
-      - url: "https://www.reuters.com/resizer/zFPyikFMOycCbbfusTx3EspN4gg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EWBKQLUVFFIMTIQJQUJGMCLSPI.jpg"
+      - url: "https://i.insider.com/609efd611b5cea0019c45306?width=1200&format=jpeg"
         width: 1200
-        height: 628
+        height: 600
         isCached: true
 
-secured: "mcF21vmpGVaBl0qEIFZYiFeq5wnrK70ogIVak31xHaUobfUsPSRdJ5yg6vdpP9OPTgOxsMEgem4nneamS2s6YEteLchn53h5ltSKuOYEbNzVFeOdliMSIog4RGfLfMwpigtaw/4w+SqmN65PLcJ8YORYCo6HM+fMNHY7n5qStZsYfywBDhASiZN1MBRWpnNmo3wA33Y1swlK2ihAR33Fy9B+nYqW5Qqs9Uz/3Do5xnk/3t6BfbY612nSFn34jXBMFUISMIiWn8lZ8yz/vYOjmeFK8/EVo8Dbwu+sEGS2JUQeQkiOghDtfdQiaqJ8DvCTHdQ6fF+aUp6fT9mf3swKlv+7/wgwta458WuyiT5n9e4=;8K4hbppaFr34ihnZf/59SQ=="
+secured: "xYHoC+/2I4x2/UMNcMOAoE+lYiIXXDnolvYIQDgObWMOzBlvDDv8mzmNaWBXRvRP4W+Ud0R4x1mZalAaR8dbdE8QlSTYYk4bMH/8Dn8hl4DY3JCt7A9le5VSmU8qPxSi9E0mKZtXn7esXeJZWvj9ZQSUwF1v6n4nUvaIfjL6CLmhS38+f+SJuyjcFMCpMrqOuedFX67crAPKP6ELW+UHyNUCChuN2k6hDBC/IvUesFsb+VjaVAW+dAYa0s/k+q0/nZHARZMn7DsfF+WgEeJnarmW5kK3fFERMm3TIPskh2DEYB2TUp/doqvVMnNCxk0lj/NbKvbup4wQUlW6WodwDFsS/TQnUG6V92ADapBk5ZY=;xbIaUbQBxRWXtXT9FI9/0Q=="
 ---
 

@@ -50,58 +50,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-21-the-federal-government-puts-out-a-help-wanted-notice-as-biden-seeks-to-undo-trump-cuts.md",
-      "title": "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts",
-      "excerpt": "The federal bureaucracy, reeling under the effects of the former president, is struggling to make good on the current president’s promises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 311,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJRD2WVUJAI6XPEW7X2V3ZB354.jpg&w=1440",
-          "width": 1440,
-          "height": 962,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp",
-      "publishedDateTime": "2021-05-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-21-10-things-in-politics-trumps-legal-jeopardy-has-gop-worried.md",
       "title": "10 Things in Politics: Trump's legal jeopardy has GOP worried",
       "excerpt": "And the cease-fire between Israel and Hamas appears to be holding.",
@@ -271,7 +219,7 @@
       "originalUrl": "https://www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -744,6 +692,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-donald-trump-donated-his-federal-salary-but-hes-taken-65600-in-pension-payments-since-january-20.md",
+      "title": "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20",
+      "excerpt": "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-donated-salary-presidential-pension-payments-2021-5",
+      "originalUrl": "https://www.businessinsider.com/trump-donated-salary-presidential-pension-payments-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60a2f78af27b4c0019444f88?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {

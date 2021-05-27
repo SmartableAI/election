@@ -109,22 +109,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New York prosecutors convene grand jury to consider evidence in Trump criminal investigation, AP source says"
-    excerpt: "The development signals that the Manhattan district attorney’s office was moving toward seeking charges as a result of its two-year investigation."
-    publishedDateTime: 2021-05-25T23:15:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-grand-jury-20210525-hiolilhyxvendkhgvde5xgv7ey-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-grand-jury-20210525-hiolilhyxvendkhgvde5xgv7ey-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-grand-jury-20210525-hiolilhyxvendkhgvde5xgv7ey-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 106
-    images:
-      - url: "https://www.chicagotribune.com/resizer/iJZKeYPw-ydSfmuaLrF4ibpV8c4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NATLNQKHQI2SY3VDFU3DL3TF7M.aspx"
-        width: 1200
-        height: 811
-        isCached: true
   - title: "New York Prosecutor Convenes Grand Jury in Criminal Investigation of Donald Trump"
     excerpt: "Manhattan District Attorney Cyrus Vance Jr. is conducting a wide-ranging investigation into Donald Trump's business dealings."
     publishedDateTime: 2021-05-26T02:30:00Z

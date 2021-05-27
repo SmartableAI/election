@@ -1,48 +1,36 @@
 ---
 category: news
-title: "Survey experts have yet to figure out what caused the most significant polling error in 40 years in Trump-Biden race"
-excerpt: "More than six months after the astonishing polling embarrassment in the 2020 U.S. elections, survey experts examining what went wrong are uncertain about what led to the sharpest discrepancy between the polls and popular vote outcome since Ronald Reagan defeated Jimmy Carter in a near-landslide in 1980."
-publishedDateTime: 2021-05-20T12:03:00Z
-originalUrl: "https://www.chron.com/news/article/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
-webUrl: "https://www.chron.com/news/article/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
-ampWebUrl: "https://www.chron.com/news/amp/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
+title: "AP source: Biden ending Trump OK for US oil company in Syria"
+excerpt: "The Biden administration won’t renew a Trump-era waiver that allowed a politically connected U.S. oil company to operate in northeast Syria"
+publishedDateTime: 2021-05-27T16:58:00Z
+originalUrl: "https://www.washingtonpost.com/politics/ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria/2021/05/27/1e6a0060-bf15-11eb-922a-c40c9774bc48_story.html"
+webUrl: "https://www.washingtonpost.com/politics/ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria/2021/05/27/1e6a0060-bf15-11eb-922a-c40c9774bc48_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria/2021/05/27/1e6a0060-bf15-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria/2021/05/27/1e6a0060-bf15-11eb-922a-c40c9774bc48_story.html?outputType=amp"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 140
+heat: 300
+published: true
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OOJZBHV7BEI6XERKYQGJO5F4JA.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
-  - title: "AP source: Biden ending Trump OK for US oil company in Syria"
-    excerpt: "The Biden administration won’t renew a Trump-era waiver that allowed a politically connected U.S. oil company to operate in northeast Syria"
-    publishedDateTime: 2021-05-27T16:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria/2021/05/27/1e6a0060-bf15-11eb-922a-c40c9774bc48_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria/2021/05/27/1e6a0060-bf15-11eb-922a-c40c9774bc48_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria/2021/05/27/1e6a0060-bf15-11eb-922a-c40c9774bc48_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OOJZBHV7BEI6XERKYQGJO5F4JA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts"
     excerpt: "The federal bureaucracy, reeling under the effects of the former president, is struggling to make good on the current president’s promises."
     publishedDateTime: 2021-05-21T14:00:00Z
@@ -153,7 +141,23 @@ related:
         width: 1200
         height: 811
         isCached: true
+  - title: "Survey experts have yet to figure out what caused the most significant polling error in 40 years in Trump-Biden race"
+    excerpt: "More than six months after the astonishing polling embarrassment in the 2020 U.S. elections, survey experts examining what went wrong are uncertain about what led to the sharpest discrepancy between the polls and popular vote outcome since Ronald Reagan defeated Jimmy Carter in a near-landslide in 1980."
+    publishedDateTime: 2021-05-20T12:03:00Z
+    webUrl: "https://www.chron.com/news/article/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 67
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
-secured: "gyaAYfg3hEgYnuRMWVwW919qzv3BubqnJS7XatxzNbrHllmJrxn8fgop6Dq/65UhOcwyqQ1Rat8tx0jsvnr0yumHBP0K5IYlbVSqw2AVOYj9NKguQFgwkrSYwRXedYU6d0HCKh+bmlQjuiHz8X1Awdgbo0bzokiyBe1a0So+AB4l9VCXNfZ6p0s/kOGMFM3ZU+jnqw5f4RvHKdi/Zw20Xfk/W0nI10Ci7wYHL3eV4Dks+bLjucIfTrAlMBgKMKcnwJIQgXRk7krnytt5/59GuHCtrT8Oi5gH63AOkVQVFx2xswKy5tGSSxQndFAhdANZ8Ya6FJcDJSloat0QKXQp61Wk1oCjX5T7xq9h8dzFlpQ=;/3ctODwkhL3fkaFnbGKoEA=="
+secured: "rErH5n1YLFhkI28xr+wPMBaPSujMcl1TM4QUsrtP3/SRjk96YG4vohAxcP7jAYe0HJSgiNYL8Cb8NCCezpI9HdzfCGGtCs+m3MZVVd4kLV8sq0GWUrow7AL0SBZ5eptLnzottui8jNn3VuKYXtSH4G3RZmK4v6WNiLsr9b/hLWWZF3kxDMVWAPL0k/jJSmvel7eVc21b2EJ3DXyCjyToiTh8R+8BA1n63PevxXCpEJbeqmA9VjowBMFOCgHHz0jg1KLV5/XrUUrmtlefSs21Zes3lytUQc4tqTXeCPoxUNiRx4bUw8Rwb1thXdkdsmlLpwkFwwjAZdUNsmhI1SycnYk44oH0zED0K3ANV9EVsCs=;txg7nurXgEiwravHCBqBfg=="
 ---
 

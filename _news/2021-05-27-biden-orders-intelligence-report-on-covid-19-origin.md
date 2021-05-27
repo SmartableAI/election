@@ -77,6 +77,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Yellen says Biden budget to push U.S. debt higher, not inflation"
+    excerpt: "U.S. Treasury Secretary Janet Yellen said on Thursday that President Joe Biden's fiscal 2022 budget plan will push U.S. debt above the size of the U.S. economy, but will not contribute to inflationary pressures,"
+    publishedDateTime: 2021-05-27T19:18:00Z
+    webUrl: "https://www.reuters.com/business/yellen-says-us-treasurys-budget-has-not-kept-up-with-workload-2021-05-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/zFPyikFMOycCbbfusTx3EspN4gg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EWBKQLUVFFIMTIQJQUJGMCLSPI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden told staff not to serve leafy greens because he didn't want to be photographed with leaves in his teeth, report says"
     excerpt: "The New York Times also reported President Biden's preferred drink is the controversial Orange Gatorade."
     publishedDateTime: 2021-05-15T00:58:00Z

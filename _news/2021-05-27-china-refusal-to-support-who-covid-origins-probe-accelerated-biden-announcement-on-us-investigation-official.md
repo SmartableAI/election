@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Whitmer transition fund paid for her private jet to attend Biden's inauguration: report"
-    excerpt: "Michigan Gov. Gretchen Whitmer's transition fund paid for a private jet she took to attend President Biden's inauguration in January, according to a new report."
-    publishedDateTime: 2021-05-21T23:57:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YPBkXOXznTQ/gretchen-whitmer-private-jet-biden-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/gretchen-whitmer-private-jet-biden-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gretchen-whitmer-private-jet-biden-inauguration.amp"
+  - title: "Harris to announce business investments in Central America as part of migrant strategy"
+    excerpt: "Vice President Kamala Harris on Thursday will announce commitments from businesses and other organizations to invest in Central America to support economic development in the countries from where the migrant surge – which has overwhelmed border officials in recent months – originated."
+    publishedDateTime: 2021-05-27T17:57:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r91cxfOihLM/harris-business-investments-central-america-migrant-strategy"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-business-investments-central-america-migrant-strategy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-business-investments-central-america-migrant-strategy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 177
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd94e797-360f-4eb1-92ba-4a4a55dbf560/6e5bee31-047b-4727-b88f-6c80bdbdf265/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris urged by New Mexico GOP lawmaker to involve Congress in her ‘root causes’ talks"
+    excerpt: "Vice President Kamala Harris should consult members of Congress as she continues discussions with Mexican and Central American officials on the \"root causes\" of migration, a Republican lawmaker urged this week."
+    publishedDateTime: 2021-05-26T03:54:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQqjNR0Sbk8/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22a9630b-047d-47d1-9952-04d0bea71b85/eeb72bf6-9f91-441b-afd6-816eea0f5863/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

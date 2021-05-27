@@ -47,37 +47,21 @@ related:
         width: 1440
         height: 890
         isCached: true
-  - title: "AP source: Biden picks LA mayor, envoy for ambassador posts"
-    excerpt: "President Joe Biden is expected to announce former senior State Department official Nicholas Burns to serve as his ambassador to China and Los Angeles Mayor Eric Garcetti to be his ambassador to India"
-    publishedDateTime: 2021-05-27T04:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-biden-picks-la-mayor-envoy-ambassador-77933220"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-picks-la-mayor-envoy-ambassador-77933220"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-picks-la-mayor-envoy-ambassador-77933220"
+  - title: "Biden seeks to expand legal assistance for lower income people"
+    excerpt: "President Joe Biden will sign a presidential memo aimed at boosting public defenders and civil legal aid providers in a bid to help people with lower incomes have better representation in the U.S. legal system,"
+    publishedDateTime: 2021-05-18T10:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-court-idUSKCN2CZ17R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2CZ1CU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2CZ1CU"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f1abb22f22674305b048ca101139e7f5_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "AP source: Biden picks LA Mayor Garcetti for ambassador post"
-    excerpt: "Source: Biden is turning to a longtime political ally to serve as his ambassador to India; timing of announcement unclear."
-    publishedDateTime: 2021-05-26T20:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/california/2021/05/26/ap-source-biden-picks-la-mayor-garcetti-ambassador-post/7454909002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7454909002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7454909002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/06/04/PPAS/c770217d-e0d4-4735-9b76-9be8376db53a-AP20154830989255.jpg?auto=webp&crop=6239,3510,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210518&t=2&i=1562530751&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4H0OK"
+        width: 835
+        height: 545
         isCached: true
   - title: "Calls to deny Communion to Biden for abortion views prompt Catholic soul-searching"
     excerpt: "On paper, Nguyen-Ellis looks like the kind of Catholic who might agree with a push by the American church’s conservative bishops to deny the Eucharist to Catholic politicians, such as President Joe Biden, who support abortion rights. But Nguyen-Ellis ..."

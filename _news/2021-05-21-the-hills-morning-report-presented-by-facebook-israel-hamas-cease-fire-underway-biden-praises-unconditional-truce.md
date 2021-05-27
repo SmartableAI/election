@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden says \"I believe this is our moment to rebuild an economy\""
+    excerpt: "President Joe Biden toured Cuyahoga Community College in Cleveland on Thursday and touted his economic recovery plans. \"Wall Street did not build this country,\" the president said. \"The middle class built this country."
+    publishedDateTime: 2021-05-27T19:49:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-says-i-believe-this-is-our-moment-to-rebuild-an-economy/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-says-i-believe-this-is-our-moment-to-rebuild-an-economy/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-says-i-believe-this-is-our-moment-to-rebuild-an-economy/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/27/b4da91f6-0a24-4833-98d4-5172e63eafc2/thumbnail/1200x630/85340a156461e968b9635e5794d705e5/cbsn-fusion-biden-says-i-believe-this-is-our-moment-to-rebuild-an-economy-thumbnail-724455-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. state governors urge Biden to support Lockheed's F-35 jet"
     excerpt: "Governors of U.S. states that represent both political parties have written letters to President Joe Biden supporting the purchase of F-35 jets made by Lockheed Martin Co."
     publishedDateTime: 2021-05-27T17:56:00Z
