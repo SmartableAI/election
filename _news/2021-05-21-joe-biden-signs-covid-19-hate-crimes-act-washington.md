@@ -217,6 +217,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden Returns to White House for Delaware"
+    excerpt: "US President Joe Biden walks on the ellipse at the White House in Washington, DC on Tuesday, May 25, 2021. President Joe Biden returned to the White House after being in Delaware for a few hours Tuesday night."
+    publishedDateTime: 2021-05-26T01:55:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4392e31f06d8e8d247131b3bfb4930ae/President-Joe-Biden-Returns-to-White-House-for-Delaware/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/4392e31f06d8e8d247131b3bfb4930ae/BIDEN-WHITE-HOUSE.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "President Joe Biden Meets with South Korean President Moon Jae-in in White House"
     excerpt: "U.S. President Joe Biden, right, and Moon Jae-in, South Korea's president, depart from a news conference in the East Room of the White House in Washington, DC on Friday, May 21, 2021. Moon is set to make a last-ditch attempt to bring the U."
     publishedDateTime: 2021-05-22T02:10:00Z

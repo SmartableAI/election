@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 890
         isCached: true
+  - title: "AP source: Biden picks LA Mayor Garcetti for ambassador post"
+    excerpt: "Source: Biden is turning to a longtime political ally to serve as his ambassador to India; timing of announcement unclear."
+    publishedDateTime: 2021-05-26T20:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/california/2021/05/26/ap-source-biden-picks-la-mayor-garcetti-ambassador-post/7454909002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7454909002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7454909002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/06/04/PPAS/c770217d-e0d4-4735-9b76-9be8376db53a-AP20154830989255.jpg?auto=webp&crop=6239,3510,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Calls to deny Communion to Biden for abortion views prompt Catholic soul-searching"
     excerpt: "On paper, Nguyen-Ellis looks like the kind of Catholic who might agree with a push by the American church’s conservative bishops to deny the Eucharist to Catholic politicians, such as President Joe Biden, who support abortion rights. But Nguyen-Ellis ..."
     publishedDateTime: 2021-05-18T20:43:00Z

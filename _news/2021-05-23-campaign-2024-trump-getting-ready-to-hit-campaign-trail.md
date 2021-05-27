@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53d1063b-7f45-426b-b59d-5c4536195afb/fdf093e7-efb7-4bd5-abb6-af51a0546589/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Republican Mayoral Candidates Tussle Over Trump, Party Loyalty"
+    excerpt: "The two Republican candidates voiced support for police as public safety takes center stage in New York City mayor’s race."
+    publishedDateTime: 2021-05-27T01:02:00Z
+    webUrl: "https://www.wsj.com/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
+    ampWebUrl: "https://www.wsj.com/amp/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-344739/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Matt Gaetz still eyes 2024 bid despite fed sex trafficking probe — unless Trump runs"
     excerpt: "Rep. Matt Gaetz said he still supports Donald Trump if he decides to run for president a third time. But Gaetz said he could beat Joe Biden if he does indeed run in 2024."

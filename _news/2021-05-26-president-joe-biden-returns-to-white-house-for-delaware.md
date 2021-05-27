@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Biden Cuts Infrastructure Offer to Gop to $1.7 Trillion"
-excerpt: "President Joe Biden’s team offered Friday to reduce his infrastructure and jobs plan by about a quarter, to $1.7 trillion, a counter-proposal that’s still far higher than what Republicans have suggested they could support."
-publishedDateTime: 2021-05-21T19:31:00Z
-originalUrl: "https://www.washingtonpost.com/business/on-small-business/biden-cuts-infrastructure-offer-to-gop-to-17-trillion/2021/05/21/6068fe26-ba6a-11eb-bc4a-62849cf6cca9_story.html"
-webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-cuts-infrastructure-offer-to-gop-to-17-trillion/2021/05/21/6068fe26-ba6a-11eb-bc4a-62849cf6cca9_story.html"
+title: "President Joe Biden Returns to White House for Delaware"
+excerpt: "US President Joe Biden walks on the ellipse at the White House in Washington, DC on Tuesday, May 25, 2021. President Joe Biden returned to the White House after being in Delaware for a few hours Tuesday night."
+publishedDateTime: 2021-05-26T01:55:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4392e31f06d8e8d247131b3bfb4930ae/President-Joe-Biden-Returns-to-White-House-for-Delaware/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4392e31f06d8e8d247131b3bfb4930ae/President-Joe-Biden-Returns-to-White-House-for-Delaware/"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OR5MIHF2MUI6XPCKMKCJZ5WMVE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://cdnph.upi.com/pv/upi/4392e31f06d8e8d247131b3bfb4930ae/BIDEN-WHITE-HOUSE.jpg"
+    width: 650
+    height: 433
     isCached: true
 
 related:
@@ -166,6 +162,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden Cuts Infrastructure Offer to Gop to $1.7 Trillion"
+    excerpt: "President Joe Biden’s team offered Friday to reduce his infrastructure and jobs plan by about a quarter, to $1.7 trillion, a counter-proposal that’s still far higher than what Republicans have suggested they could support."
+    publishedDateTime: 2021-05-21T19:31:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-cuts-infrastructure-offer-to-gop-to-17-trillion/2021/05/21/6068fe26-ba6a-11eb-bc4a-62849cf6cca9_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OR5MIHF2MUI6XPCKMKCJZ5WMVE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden condemns Belarus for diverting flight, arresting journalist"
     excerpt: "U.S. President Joe Biden on Monday condemned Belarus for intercepting a commercial flight and arresting a dissident journalist, and said he has asked his advisers to give him options to hold those responsible to account."
     publishedDateTime: 2021-05-24T22:37:00Z
@@ -221,20 +231,6 @@ related:
         width: 650
         height: 897
         isCached: true
-  - title: "President Joe Biden Returns to White House for Delaware"
-    excerpt: "US President Joe Biden walks on the ellipse at the White House in Washington, DC on Tuesday, May 25, 2021. President Joe Biden returned to the White House after being in Delaware for a few hours Tuesday night."
-    publishedDateTime: 2021-05-26T01:55:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4392e31f06d8e8d247131b3bfb4930ae/President-Joe-Biden-Returns-to-White-House-for-Delaware/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/4392e31f06d8e8d247131b3bfb4930ae/BIDEN-WHITE-HOUSE.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "President Joe Biden Meets with South Korean President Moon Jae-in in White House"
     excerpt: "U.S. President Joe Biden, right, and Moon Jae-in, South Korea's president, depart from a news conference in the East Room of the White House in Washington, DC on Friday, May 21, 2021. Moon is set to make a last-ditch attempt to bring the U."
     publishedDateTime: 2021-05-22T02:10:00Z
@@ -250,6 +246,6 @@ related:
         height: 432
         isCached: true
 
-secured: "ysDo3+1Y27Eg31BQt8gQ+6CWcNIUzJrVDYM0NYkbuZDyv+Tze1UFN0TAoxPEpzRDujrdC20RxWCSEBi5+aWMYkjD5hky5PTPS2f4zFB7WF22aOkXe45kaEZvoDF+zsugxp7//DvZcQAkkPhHHAPOXDK0cDaXxvFSRBCvRNmNGGGAYuUfryeN4LcFoTT2iron2By7/tJh1M34pEE0nF97rFUSM3dlXYmpC61LNxhRtF2QlU3fW0PtGS6K7aYFi3ZazcF2uxLchN3KecARKSgd5bJpjJUiSz+bod5ZwKHqIlUCHDANGBkbZ5cY75VIXZcqvyGyyOIPpt+N0h2KN+ZKatzGJ6gsmxs/e9S7sR4MRevXMlco/IEyhoOZmGzhLWu7MjIxUBHE2x2nqGRRSLz0MZz5RUMLsMgdwCcqZgQHHxV9maJqzHazVFkCU5IFA6gjT+tazSfOtGmPUZNeHuvyZ//cio8WfWbO0RvcUT/HNM2hkGEAO1TszQdUUncDRQ6tnFIs+8twc9zU/45TVkoUig==;vnb4XKKQ1yamnWMgszhzgQ=="
+secured: "Z/eZlCJhoiS5NfP5cHEtx268cNPhhZLiiP6PQBN++TVXIF90bbNNpahvg2pt2UEXMv8SAEVGeU9clEzf1L+ghH/R7oLyKVIXQGWRTyMPNtLFyJKbujsbu1wwWu+uFV3ubGaprjzT5KjUw6Jsg9BkaHZqbYSJKHjqB4UeC+U/gagCh/SMAPy+sMJsBgmImPo+GX9vWbM8SJOMo0eA4kivPJiYkZVqSpCsCUhwiQXyI+PfEOfocYO6MtH6dFyTq9A9GOS/3JmgDtlt5vlEVet9eY3NXE/XEmsCRq5ob3LMHQVaUk6H1t4+Qi3ATEILHX3Pf8fE9oIToV0a0oBSiFuZchzOZLkoM2YoGtioR+9F9AY=;mP+Rjb89TEOZXDy7NhuIxA=="
 ---
 

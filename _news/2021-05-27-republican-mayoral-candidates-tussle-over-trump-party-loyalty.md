@@ -1,18 +1,24 @@
 ---
 category: news
-title: "Donald Trump Hasn't Faded From Television News"
-excerpt: "As he reaches four months out of office, Donald Trump may be \"sliding toward online irrelevance,\" but on television news he is still a commanding presence. The timeline below shows total monthly mentions of him across CNN,"
-publishedDateTime: 2021-05-26T04:34:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/26/donald_trump_hasnt_faded_from_television_news.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/26/donald_trump_hasnt_faded_from_television_news.html#!"
+title: "Republican Mayoral Candidates Tussle Over Trump, Party Loyalty"
+excerpt: "The two Republican candidates voiced support for police as public safety takes center stage in New York City mayor’s race."
+publishedDateTime: 2021-05-27T01:02:00Z
+originalUrl: "https://www.wsj.com/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
+webUrl: "https://www.wsj.com/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
+ampWebUrl: "https://www.wsj.com/amp/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
 type: article
-quality: 65
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -20,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/544172.png"
-    width: 2000
-    height: 930
+  - url: "https://images.wsj.net/im-344739/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -90,22 +96,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Republican Mayoral Candidates Tussle Over Trump, Party Loyalty"
-    excerpt: "The two Republican candidates voiced support for police as public safety takes center stage in New York City mayor’s race."
-    publishedDateTime: 2021-05-27T01:02:00Z
-    webUrl: "https://www.wsj.com/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
-    ampWebUrl: "https://www.wsj.com/amp/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-344739/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Matt Gaetz still eyes 2024 bid despite fed sex trafficking probe — unless Trump runs"
     excerpt: "Rep. Matt Gaetz said he still supports Donald Trump if he decides to run for president a third time. But Gaetz said he could beat Joe Biden if he does indeed run in 2024."
     publishedDateTime: 2021-05-26T23:52:00Z
@@ -154,7 +144,21 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Donald Trump Hasn't Faded From Television News"
+    excerpt: "As he reaches four months out of office, Donald Trump may be \"sliding toward online irrelevance,\" but on television news he is still a commanding presence. The timeline below shows total monthly mentions of him across CNN,"
+    publishedDateTime: 2021-05-26T04:34:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/26/donald_trump_hasnt_faded_from_television_news.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/544172.png"
+        width: 2000
+        height: 930
+        isCached: true
 
-secured: "AEpo2H9vAj0g43EBV5LEF0p7kHRL9dLdQNvQokTh48WD7LZDzJzrckf6SJzCEfMSlCacmYpZNMDM7wWwI2XxeskDPjWUc7LcWq+0EVtLwwF8QDeaA3p6deucjZgxIXckN2MQbxCnKZHxS/xgPAwvXt8UjA4Kgcc+FWM6dMNk1OiTuHz87fsEb4Z0A45f2DqHyxUMFz84mGpnWKgqfWNUa1/1LRX2it1hgGrVBJrHTl6t0QQpqpt+jLkFRq8mCc4Hun4k3VPmRF1t08JyOlYLob11DoJShy5nOlHU0zpwO4PL2AXfFBLA2nE7D2JJ+UYsMkcfgFAzgJ8Olx73f0M11Q8c/Xr7NYaRixP5QWPHXw0=;s4bBPTONdopuPqMuZ+zcgA=="
+secured: "LUwQbTqX9YvxQFuVOyPuXXsOWtO3wESjIWXP9vcsK9VJGxVM4s9BlGWcEU42vUOBGh38fG0qM2MGRKR2kST32818Toz8/0sekOkEwShorEfiI/UDv0kTn6bvnrBbKJFOJf7o0khce0HtTUJ6o6VouE972JmKYjmNO/Ncp7wnC3mWNDbegNQVu6M1YhAMZZVBa14+KQRF4+sJNPVHQfbSS7Kt5pn/2P+Rb6XS5QiowTzO1KQNzBHG0hMWR6FEVNG5moSteCF8chgfwtmK3uUXbFN+9jw1vopwO2lHTdeaOlCUn5pzF4dn+24wCN0el4Z/n4tnVTlhORXT7glgqC8b+Ky1b08k+pVSgTZUJQ9QYU4=;T6Zg5Lvv/7AaMSavexjbRA=="
 ---
 

@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-26-steve-bannons-indictment-dismissed-after-fight-with-prosecutors-over-trump-pardons-reach.md",
+      "title": "Steve Bannon’s Indictment Dismissed After Fight With Prosecutors Over Trump Pardon’s Reach",
+      "excerpt": "A federal judge dismissed an indictment against former Trump adviser Steve Bannon, declining an unusual request by prosecutors to keep the fraud charges in place despite a presidential pardon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/steve-bannons-indictment-dismissed-after-fight-with-prosecutors-over-pardons-reach-11621978062",
+      "originalUrl": "https://www.wsj.com/articles/steve-bannons-indictment-dismissed-after-fight-with-prosecutors-over-pardons-reach-11621978062",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-343637/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/steve-bannons-indictment-dismissed-after-fight-with-prosecutors-over-pardons-reach-11621978062",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/steve-bannons-indictment-dismissed-after-fight-with-prosecutors-over-pardons-reach-11621978062",
+      "publishedDateTime": "2021-05-25T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-biden-administration-moves-forward-with-plan-to-bring-offshore-wind-to-california-coast-for-the-first-time.md",
       "title": "Biden administration moves forward with plan to bring offshore wind to California coast for the first time",
       "excerpt": "The Biden administration announced Tuesday that it is moving to advance offshore wind power on the coast of California for the first time. When developed, the regions selected have the potential to generate enough green energy for up to 1.6 million homes over the next decade, according to the administration.\n",
@@ -1304,62 +1361,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-trump-administration-didnt-provide-some-separated-parents-the-opportunity-to-bring-their-children-as-they-were-deported-new-watchdog-report.md",
-      "title": "Trump administration didn't provide some separated parents the opportunity to bring their children as they were deported, new watchdog report says",
-      "excerpt": "Immigration and Customs Enforcement deported some parents between July 2017 and July 2018 without giving them the opportunity to bring their children, contradicting claims made by the agency and the Department of Homeland Security, according to a newly released watchdog report.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYaqkh0SBmU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYaqkh0SBmU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/24/politics/immigration-families-separated-parents-removal/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/immigration-families-separated-parents-removal/index.html",
-      "publishedDateTime": "2021-05-24T07:56:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

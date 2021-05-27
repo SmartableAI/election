@@ -92,6 +92,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Republican Mayoral Candidates Tussle Over Trump, Party Loyalty"
+    excerpt: "The two Republican candidates voiced support for police as public safety takes center stage in New York City mayor’s race."
+    publishedDateTime: 2021-05-27T01:02:00Z
+    webUrl: "https://www.wsj.com/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
+    ampWebUrl: "https://www.wsj.com/amp/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-344739/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
     excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"
     publishedDateTime: 2021-05-16T14:58:00Z

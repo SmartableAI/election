@@ -92,6 +92,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Republican Mayoral Candidates Tussle Over Trump, Party Loyalty"
+    excerpt: "The two Republican candidates voiced support for police as public safety takes center stage in New York City mayor’s race."
+    publishedDateTime: 2021-05-27T01:02:00Z
+    webUrl: "https://www.wsj.com/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
+    ampWebUrl: "https://www.wsj.com/amp/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-candidates-for-new-york-mayor-face-off-in-two-man-debate-11622064803"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-344739/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Matt Gaetz still eyes 2024 bid despite fed sex trafficking probe — unless Trump runs"
     excerpt: "Rep. Matt Gaetz said he still supports Donald Trump if he decides to run for president a third time. But Gaetz said he could beat Joe Biden if he does indeed run in 2024."
     publishedDateTime: 2021-05-26T23:52:00Z
