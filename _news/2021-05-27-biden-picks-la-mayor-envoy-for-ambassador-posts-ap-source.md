@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden picks LA mayor, envoy for ambassador posts: AP source"
+    excerpt: "President Joe Biden is expected to announce he is nominating former senior State Department official Nicholas Burns to serve as his ambassador to China and Los Angeles Mayor Eric Garcetti to be his ambassador to India, according to a person familiar with the matter."
+    publishedDateTime: 2021-05-26T21:14:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hr52ZW2YCYs/biden-los-angeles-mayor-eric-garcetti-india-ambassador"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132726897266-1.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to nominate LA Mayor Eric Garcetti as ambassador to India: report"
     excerpt: "President Biden reportedly plans to nominate Los Angeles Mayor Eric Garcetti as the next U.S. ambassador to India. "
     publishedDateTime: 2021-05-26T04:19:17Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinn
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners.amp"
 type: article
 quality: 175
-heat: 215
+heat: 275
 published: true
 
 provider:
@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Hunter Biden shopped reality TV show in 2019 as dad ran for president: new book"
-    excerpt: "President Biden's son Hunter Biden pitched television producers on his own reality show during the summer of 2019, according to a new book."
-    publishedDateTime: 2021-05-25T20:16:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PCoLgtBF13g/hunter-biden-joe-president-campaign-2020-battle-for-the-soul"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-joe-president-campaign-2020-battle-for-the-soul.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-joe-president-campaign-2020-battle-for-the-soul.amp"
+  - title: "Biden plans to meet with George Floyd's family on anniversary of his murder"
+    excerpt: "President Biden plans to host the family of George Floyd at the White House on Tuesday."
+    publishedDateTime: 2021-05-22T09:33:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/18pWU60ZH8Q/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6679eccc-96b1-4ce3-83f7-fa70660277b5/d0f7098a-504f-4d58-880b-025796475a38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a52aa08-de68-4293-9071-d5aea97732c7/e955899c-ee48-417c-acff-f42238a65020/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "3 House Dems blamed pandemic for needing proxy votes, but were touring Ford plant with Biden"
+    excerpt: "Reps. Haley Stevens, D-Mich.; Elissa Slotkin, D-Mich.; and Dan Kildee, D-Mich., each signed a document granting their vote by proxy to one of their Democratic colleagues in the House for the vote series on May 18, 2021."
+    publishedDateTime: 2021-05-20T23:20:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/byjouMr1e5A/michigan-biden-ford-democrats-proxy-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/845d93bd-52f0-4fea-806c-d73e5ee436fd/49d98b3d-5858-46f1-8857-6bfa64eaa673/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden to miss police reform bill deadline, meet with George Floyd's family on death anniversary"
+    excerpt: "President Biden is expected to host the family of George Floyd at the White House on Tuesday – though Congress is poised to miss Biden’s deadline of getting the federal police reform bill with Floyd’s namesake passed by the one-year anniversary of Floyd's killing by a Minneapolis officer."
+    publishedDateTime: 2021-05-24T13:26:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3XYexpVGAWo/biden-george-floyd-family-death-anniversary-police-reform-bill-deadline"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-george-floyd-family-death-anniversary-police-reform-bill-deadline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-george-floyd-family-death-anniversary-police-reform-bill-deadline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden WH seeks to extradite Marine vet in danger of being executed by North Korea, supporters warn"
     excerpt: "A former U.S. Marine who is an activist in a group advocating freedom for North Korea could be killed by Kim Jong Un if the Biden administration continues to press its extradition case against him, warn supporters."
@@ -63,6 +95,17 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Joe Biden needs three things from South Korean President Moon"
+    excerpt: "President Joe Biden will sit down with South Korean President Moon Jae-in Friday amid relative calm on the Korean Peninsula. But their first meeting arrives with questions about Korea's willingness to play a stronger deterrent role against China."
+    publishedDateTime: 2021-05-20T13:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-"
+    ampWebUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "L6xCcQrukk3VyY3+uB2kFs4wG2VgJujOMz4wCZQZQQKCVxu/uLH01cDus+soFkzOD/HdUqi8NJ4gqjpsJtML2LPdv2Cozj6wwxKhUopAf2CgJklPt79DduU0Xddy19W/WJuzpmtP5DlaKGBvX3V58ZWO3hmU2uhkS0U5adar/hL2NpK9/a5I0D+UG1vSxP/CtO08vo5BVI4A+3uitaRUo9ChRZi4uk8LOp2FGnYukq7fzJca31BEThnZH5Mwh6R7PUMCyrSjZcsUbJtsQXueTNBCrPIigcge/ES8fAa7iOF9MtNV54+qia1OOLGaRQgw7WXblT4uNj8WahUbajBspR7OK4W+u1fNxPajuOp15G4=;6OxTNqlNYBeJ62A+H68m0Q=="
 ---

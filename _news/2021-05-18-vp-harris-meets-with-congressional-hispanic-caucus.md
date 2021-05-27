@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Harris to announce business investments in Central America"
+    excerpt: "Vice President Kamala Harris on Thursday will announce commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden administration’s efforts to address the root causes of migration from the region."
+    publishedDateTime: 2021-05-27T15:55:00Z
+    webUrl: "https://www.lmtonline.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
+    ampWebUrl: "https://www.lmtonline.com/business/amp/Harris-to-announce-business-investments-in-16207174.php"
+    cdnAmpWebUrl: "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/business/amp/Harris-to-announce-business-investments-in-16207174.php"
+    type: article
+    provider:
+      name: Laredo Morning Times
+      domain: lmtonline.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/22/54/21048115/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "VP Harris says illegal migration worsened by 'extreme climate' disasters"
     excerpt: "Vice President Kamala Harris said Monday that “extreme climate incidents” such as hurricanes destroy crops in Central America and prompt more people to migrate illegally to the U.S."
     publishedDateTime: 2021-05-17T23:10:00Z

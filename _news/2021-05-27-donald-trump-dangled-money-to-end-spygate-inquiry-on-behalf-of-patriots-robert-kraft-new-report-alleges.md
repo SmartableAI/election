@@ -3,25 +3,29 @@ category: news
 title: "Donald Trump dangled money to end Spygate inquiry on behalf of Patriots’ Robert Kraft, new report alleges"
 excerpt: "The son of late senator Arlen Specter alleges that Donald Trump made his father a financial offer “tantamount to a bribe” on behalf of Patriots owner Robert Kraft to end inquiries into New England’s Spygate scandal."
 publishedDateTime: 2021-05-26T19:24:00Z
-originalUrl: "https://www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html"
-webUrl: "https://www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html"
-ampWebUrl: "https://www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
+originalUrl: "https://www.chicagotribune.com/sports/breaking/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210527-6jtw73vmwrcdrn5iarqfo43v7q-story.html"
+webUrl: "https://www.chicagotribune.com/sports/breaking/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210527-6jtw73vmwrcdrn5iarqfo43v7q-story.html"
+ampWebUrl: "https://www.chicagotribune.com/sports/breaking/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210527-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/sports/breaking/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210527-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
 type: article
-quality: 58
+quality: 108
 heat: -1
 published: false
 
 provider:
-  name: New York Daily News
-  domain: nydailynews.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.nydailynews.com/resizer/0UpW9o965_lOoPLetAi3riLkZtQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2U5LCWW2NZE2BOSLEGVAG6VMWY.jpg"
+  - url: "https://www.chicagotribune.com/resizer/0UpW9o965_lOoPLetAi3riLkZtQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2U5LCWW2NZE2BOSLEGVAG6VMWY.jpg"
     width: 1200
     height: 838
     isCached: true
@@ -76,6 +80,6 @@ related:
         height: 1352
         isCached: true
 
-secured: "bleCQMlJI4hYrN20FJESqdBXCI9yMN36cnajDAI9riQ3142PnJv/ka7eNzR1rB8GzPF8BDK+M1nVa4OKVJmA1dh4LrTiE7adLvc9camhF2vjGCSEvf1LyBvR0faDkXHzoGHZbcMeOmZBetszZ8UOwLkW0MbdVQ3o5o/r/JtTTJLHxAItKDEeIu511d68gkcnjwscoQMzaByA6uYSjHad3929l/p+zVJn25SH30RahFqndF5FX9KPxOMVVJKspb1Ep9lE9z1j16+njmE+3MO16Y3Sj8Wp15BEFCvmpQz2lmZyL+P3+bPwdOhWNyWAhn5iZ3z3cfqQKAM+zZUuXFZYdIMWTo0GToBSkdkb2GrEHQLyd5VX3Fvn96JwJ0tNXR6K/Lzt8VTJiQTREfLpwssDI9zK1EXbqvjuJFtRHfbiw0esMRp8Uj4er5MHx+6RVRrOjTdamDaB3iBsqapGz2mwvPgpYELxqoG3zdfOMa7s7HAp4EBnw69ZKcYgPglWIBFTt/6KY64knzlHAAPd3pNF8w==;kIAB1Ckrh1dzCAaSXcPTYA=="
+secured: "VZX70vB5hhbQ4FiqdVqxJ5ZgGl7xSFofFhjv3lT+g3UZy6YLEIBP1YPfazJeLefxfIjdR4CsmrZDUtZX3Lpr/oMNA4SYKLXRLkD3BgsvSXceNsHmPf3a/bkQNViTALSpxKfX5V9h56J/O026PnWDx+h2b+bP7NZBeDsIEMeK/5zGTqFzTJ/Egw99YakUxOw32ZlIokyPyhstdu44diKJHOT3CpN/MA9OcicV/m5NQgbzxIn53iTK0AWkdcXCmrgiROdI8IXnUwdSzkjvobtH1g6Iqv29KpeGkI2ZMnkjyYNkH9nUJvxiQeJtAOUWZTlztZ34bB/Ft0yKwb/SomdKcB2jJw7I7ILcaAPOMy64CcI=;eqmpJ15oCmqZUJtQ6XH/lA=="
 ---
 

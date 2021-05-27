@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dep
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/shelley-moore-capito-nc-jef-210525_1621978555097_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden orders intelligence report on COVID-19 origin"
+    excerpt: "President Joe Biden is ordering U.S. intelligence officials to \"redouble\" efforts to investigate the origins of COVID-19, after a new report sparked questions about whether the virus could have originated in a Wuhan,"
+    publishedDateTime: 2021-05-27T14:58:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-orders-intel-report-on-covid-19-origin/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/27/72c78a73-9ba4-4b20-be5c-02ec247d9e12/thumbnail/1200x630/510e93dcee97958287eb1056c889024d/cbsn-fusion-biden-orders-intel-report-on-covid-19-origin-thumbnail-724255-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden told staff not to serve leafy greens because he didn't want to be photographed with leaves in his teeth, report says"
     excerpt: "The New York Times also reported President Biden's preferred drink is the controversial Orange Gatorade."

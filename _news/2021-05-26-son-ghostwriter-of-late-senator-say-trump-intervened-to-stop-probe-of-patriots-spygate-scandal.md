@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump dangled money to end Spygate inquiry on behalf of Patriots’ Robert Kraft, new report alleges"
+    excerpt: "The son of late senator Arlen Specter alleges that Donald Trump made his father a financial offer “tantamount to a bribe” on behalf of Patriots owner Robert Kraft to end inquiries into New England’s Spygate scandal."
+    publishedDateTime: 2021-05-26T19:24:00Z
+    webUrl: "https://www.chicagotribune.com/sports/breaking/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210527-6jtw73vmwrcdrn5iarqfo43v7q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/sports/breaking/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210527-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/sports/breaking/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210527-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 108
+    images:
+      - url: "https://www.chicagotribune.com/resizer/0UpW9o965_lOoPLetAi3riLkZtQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2U5LCWW2NZE2BOSLEGVAG6VMWY.jpg"
+        width: 1200
+        height: 838
+        isCached: true
   - title: "Donald Trump Allegedly Tried To Stop Spygate Investigation On Behalf Of Robert Kraft"
     excerpt: "Former President Donald Trump might’ve played a role in attempting to squash any further investigation into the New England Patriots’ “Spygate” scandal. According to a new ESPN report, Trump indicated to former U."
     publishedDateTime: 2021-05-26T16:36:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/08/02/trump-kraft.jpg"
         width: 1200
         height: 888
-        isCached: true
-  - title: "Donald Trump dangled money to end Spygate inquiry on behalf of Patriots’ Robert Kraft, new report alleges"
-    excerpt: "The son of late senator Arlen Specter alleges that Donald Trump made his father a financial offer “tantamount to a bribe” on behalf of Patriots owner Robert Kraft to end inquiries into New England’s Spygate scandal."
-    publishedDateTime: 2021-05-26T19:24:00Z
-    webUrl: "https://www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html"
-    ampWebUrl: "https://www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 58
-    images:
-      - url: "https://www.nydailynews.com/resizer/0UpW9o965_lOoPLetAi3riLkZtQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2U5LCWW2NZE2BOSLEGVAG6VMWY.jpg"
-        width: 1200
-        height: 838
         isCached: true
   - title: "Donald Trump offered money to Sen. Arlen Specter to ‘lay off Patriots’ over Spygate, senator’s son claims"
     excerpt: "If you laid off the Patriots, there’d be a lot of money in Palm Beach,” Donald Trump, the real estate licensing and reality TV mogul, allegedly told Sen. Arlen Specter, according to the longtime Pennsylvania senator’s son,"

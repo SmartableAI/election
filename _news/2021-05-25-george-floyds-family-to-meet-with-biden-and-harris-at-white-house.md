@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html"
 type: article
 quality: 200
-heat: 540
+heat: 560
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 197
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris to announce private sector investments in Northern Triangle"
+    excerpt: "Vice President Kamala Harris on Thursday will announce commitments from 12 private companies and organizations to invest in the Northern Triangle, a White House official says, marking the latest administration attempt to address the root causes of migration from the region.\n    \n"
+    publishedDateTime: 2021-05-27T14:59:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YLvmyshjKes/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/kamala-harris-northern-triangle-investments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/kamala-harris-northern-triangle-investments/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525192338-harris-0525-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

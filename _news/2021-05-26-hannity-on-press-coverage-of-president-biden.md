@@ -32,259 +32,259 @@ images:
     isCached: true
 
 related:
-  - title: "George Floyd’s family meets with Biden, Harris on anniversary of his death"
-    excerpt: "The family of George Floyd met with President Biden and Vice President Kamala Harris Tuesday, on the anniversary of Floyd’s death, and demanded police reform be passed."
-    publishedDateTime: 2021-05-25T21:12:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NklDUaT8VDA/george-floyds-family-biden-harris-anniversary-death"
-    ampWebUrl: "https://www.foxnews.com/politics/george-floyds-family-biden-harris-anniversary-death.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-floyds-family-biden-harris-anniversary-death.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 198
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Floyd-Family-White-House-AP.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden was 'torn' about picking VP Harris after presidential debate 'bull---': book"
-    excerpt: "President Biden was \"torn\" about picking Vice President Harris as his running mate, according to a new book."
-    publishedDateTime: 2021-05-25T15:04:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8DkXMAmpt8Q/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 194
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6679eccc-96b1-4ce3-83f7-fa70660277b5/d0f7098a-504f-4d58-880b-025796475a38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Jill Biden said Kamala Harris can 'go f--- herself' after she attacked Joe Biden in first debate, book claims"
-    excerpt: "The relationship between the Bidens and Vice President Kamala Harris purportedly became messy after Harris -- then Joe Biden’s opponent in the primary -- came after the president for his record on busing and his boasts of his relationships with segregationist senators, according to journalist Edward"
-    publishedDateTime: 2021-05-19T18:00:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BwVqML3nqSQ/jill-biden-kamala-harris-go-f-herself-biden-debate-book"
-    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3594866f-1e28-48b4-9186-03d4f5320bd3/676ae2fc-713c-46e6-b073-9d162b1094b3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris wipes hand after greeting South Korean leader, faces Twitter backlash"
-    excerpt: "Many Americans have become more germ-conscious since the start of the coronavirus pandemic last year – but Vice President Kamala Harris may have made her concerns too conspicuous."
-    publishedDateTime: 2021-05-23T05:29:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J93HpuDVsvk/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "VP Kamala Harris holds unusual bilateral meeting with a foreign leader at the White House"
-    excerpt: "Vice President Harris met with South Korean President Moon Jae-in Friday, without the participation of President Biden, and then the two appeared together to make a statement. A bilateral meeting at the White House between a U.S. vice president and a visiting head of state followed by a joint appearance"
-    publishedDateTime: 2021-05-22T02:14:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sjfy1LMs9xw/harris-holds-unusual-solo-bilateral-meeting-with-president"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48f7d31-128d-48ec-aca5-6fdc9d09c814/3d14acbf-614a-47fe-8bce-546e449638e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris keeps assets in tax-advantaged trust, appearing to violate own ethics pledge"
-    excerpt: "Vice President Kamala Harris keeps assets in a tax-advantaged family trust, a move that appears to violate an ethics pledge she and President Biden made on the campaign trail."
-    publishedDateTime: 2021-05-19T16:51:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5QOurbf2wEI/kamala-harris-financial-disclosure-assets-trust-ethics-pledge"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
+  - title: "GOP states ramp up legal battles against Biden's immigration policies"
+    excerpt: "As the Biden administration has been working rapidly to undo key Trump-era border and immigration policies and replace them with more liberal policies, Republican state attorneys general have been working just as hard to push back against what they see as illegal actions that could hurt Americans and"
+    publishedDateTime: 2021-05-23T02:32:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7pWGKZSmD_Q/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de3a1e91-b0da-44c6-9238-915f4385cf4b/6d6c657b-0a98-4c5d-b6af-d33cd0ebeecc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abb0245a-21bc-4c52-9de8-1336e02ec81c/ad3a8f45-5e89-4b2e-83df-ddb929cc03e6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Rep. Hinson to introduce bill halting funding for Harris travel costs until she visits border"
-    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, on Thursday will introduce a bill that would bar taxpayer money being used for the travel expenses for Vice President Kamala Harris until she visits the southern border and issues a report on how to solve the crisis."
-    publishedDateTime: 2021-05-20T10:00:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hYVH_PNiLNY/rep-hinson-bill-kamala-harris-travel-costs-border-visit"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-hinson-bill-kamala-harris-travel-costs-border-visit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-hinson-bill-kamala-harris-travel-costs-border-visit.amp"
+  - title: "Biden ATF nominee supports ban on AR-15"
+    excerpt: "President Biden’s nominee to head the  the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, David Chipman, said during Wednesday that he is in favor of a ban on AR-15 rifles."
+    publishedDateTime: 2021-05-26T20:50:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nHdQ3CH2wWE/biden-atf-nominee-chipman-supports-ban-ar-15"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/AP21097760253459.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden plans to meet with George Floyd's family on anniversary of his murder"
-    excerpt: "President Biden plans to host the family of George Floyd at the White House on Tuesday."
-    publishedDateTime: 2021-05-22T09:33:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/18pWU60ZH8Q/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder.amp"
+  - title: "Republicans grill Biden ATF nominee on past remarks on guns"
+    excerpt: "David Chipman, President Biden’s nominee to run the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, faced off against Republicans Wednesday who challenged him on his past statements they say cross the line in the gun control debate."
+    publishedDateTime: 2021-05-26T19:34:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zPKQskwTIpM/republicans-biden-atf-nominee-chipman-guns"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-atf-nominee-chipman-guns.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a52aa08-de68-4293-9071-d5aea97732c7/e955899c-ee48-417c-acff-f42238a65020/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/AP21097760253459.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden to miss police reform bill deadline, meet with George Floyd's family on death anniversary"
-    excerpt: "President Biden is expected to host the family of George Floyd at the White House on Tuesday – though Congress is poised to miss Biden’s deadline of getting the federal police reform bill with Floyd’s namesake passed by the one-year anniversary of Floyd's killing by a Minneapolis officer."
-    publishedDateTime: 2021-05-24T13:26:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3XYexpVGAWo/biden-george-floyd-family-death-anniversary-police-reform-bill-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-george-floyd-family-death-anniversary-police-reform-bill-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-george-floyd-family-death-anniversary-police-reform-bill-deadline.amp"
+  - title: "Biden administration drops plan for ICE deportation pause after legal defeat"
+    excerpt: "The Biden administration has dropped its effort to impose a 100-day moratorium on Immigration and Customs Enforcement (ICE) deportations after a legal effort from Texas blocked the Biden campaign promise from taking place -- with the administration saying the time for it to go into effect has now passed."
+    publishedDateTime: 2021-05-21T20:45:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QRJd2qspcvU/biden-administration-drops-ice-deportation-pause-legal-defeat"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-drops-ice-deportation-pause-legal-defeat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-drops-ice-deportation-pause-legal-defeat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9310ca8a-d753-4dfe-adbd-1e7942fdb670/2d18d808-1356-46cc-b738-a315b4ce73b6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Lankford, other GOP senators urge Biden not to transfer detainees from Guantanamo Bay"
+    excerpt: "Republican Sen. James Lankford led his GOP colleagues in urging President Biden not to release or transfer current detainees from Guantanamo Bay, Fox News has learned."
+    publishedDateTime: 2021-05-25T17:08:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r5m7jQK07kY/republican-senators-biden-letter-guantanamo-bay-transfers"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-senators-biden-letter-guantanamo-bay-transfers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-biden-letter-guantanamo-bay-transfers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden administration grants temporary protected status to Haitian immigrants living in US"
+    excerpt: "The Biden administration on Saturday announced it is granting Haitian nationals, who are currently living in the U.S., Temporary Protected Status for an initial 18 months amid ongoing security concerns and human rights abuses in the country."
+    publishedDateTime: 2021-05-22T22:00:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E_fQMz-AYAI/biden-temporary-protected-status-to-haitian-immigrants-living-in-us"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-temporary-protected-status-to-haitian-immigrants-living-in-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-temporary-protected-status-to-haitian-immigrants-living-in-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden administration asks for $1.2 billion for border infrastructure, including migrant care"
+    excerpt: "The Biden administration is requesting $1.2 billion for border infrastructure, as well as migrant care and stronger ports of entry, as part of President Biden’s Fiscal Year (FY) 2022 budget request -- coming as the administration is fighting a historic migrant surge at the border."
+    publishedDateTime: 2021-05-26T20:35:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9E7_TUBqmrg/biden-billion-border-infrastructure-migrant-care"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-billion-border-infrastructure-migrant-care.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-billion-border-infrastructure-migrant-care.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81e907b6-3630-417c-ae64-8ea18a17b751/46d723c1-df68-4b18-a73d-e9b9e25c7aa4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "GOP pivots to blast tax-and-spend Biden in bid to 'reclaim the mantle of fiscal responsibility'"
+    excerpt: "As President Biden pushes Congress to enact his agenda that could total upward of $6 trillion, an unprecedented government spending binge, congressional Republicans are saying they plan to \"reclaim the mantle of fiscal responsibility\" as the national debt soars above $28 trillion."
+    publishedDateTime: 2021-05-24T10:25:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUNULt5nmV0/republicans-fiscal-responsibility-biden-spending"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-fiscal-responsibility-biden-spending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-fiscal-responsibility-biden-spending.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Jill Biden embraces Kamala Harris after ‘go f–k yourself’ reveal"
-    excerpt: "First lady Jill Biden and Vice President Kamala Harris appeared to put the past aside when they hugged before a Medal of Honor ceremony for a Korean War vet."
-    publishedDateTime: 2021-05-21T22:14:00Z
-    webUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/"
-    ampWebUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
+  - title: "State AGs ask Biden to withdraw education proposals supporting 1619 Project, critical race theory"
+    excerpt: "A coalition of 20 state attorneys general called Wednesday for the Biden administration to withdraw education proposals that, they argue, are meant to promote critical race theory and the New York Times’ “1619 Project” in classrooms."
+    publishedDateTime: 2021-05-20T01:32:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P926zVX0blg/state-ags-biden-education-proposals-1619-project-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/state-ags-biden-education-proposals-1619-project-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-ags-biden-education-proposals-1619-project-critical-race-theory.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/jill-biden-111.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aad779fa-f3ed-4192-aeab-68221299c6c2/f4f5306b-320d-4f34-a7fd-b2edef0b6672/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Jill Biden, Kamala Harris share hug after reports of first lady's F-bomb toward VP"
-    excerpt: "Bygones appeared to be bygones at the White House Friday, with first lady Jill Biden getting chummy with Vice President Kamala Harris — days after a forthcoming book revealed Biden said Harris should “go f–k” herself for attacking her husband during the Democratic primaries."
-    publishedDateTime: 2021-05-22T07:26:00Z
-    webUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp"
-    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp"
+  - title: "CBP chief says Mexican state stopped taking back some migrant families days after Biden inauguration"
+    excerpt: "The acting head of Customs and Border Protection (CBP) said this week that a Mexican state through which many migrants travel into the U.S. stopped taking families with small children just days into the Biden administration -- a move that contributed to the administration releasing families into the"
+    publishedDateTime: 2021-05-21T15:26:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5vxb3jovBaU/cbp-chief-mexican-state-migrant-families-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/cbp-chief-mexican-state-migrant-families-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cbp-chief-mexican-state-migrant-families-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9995061e-3990-4bae-a052-c31230ed3006/72e0887f-db40-4804-9430-39180dfcb252/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden pick for ATF opposed by 20 Republican AGs over his views on weapons, ties to gun control groups"
+    excerpt: "Attorneys general from 20 states sent a letter to the Senate on Tuesday, calling on lawmakers to reject David Chipman, President Biden’s nominee for the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), over his affiliations with gun control organizations. "
+    publishedDateTime: 2021-05-26T06:27:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e_VaUOeb6x8/biden-pick-for-atf-opposed-by-20-republican-ags-over-his-views-on-weapons-ties-to-gun-control-groups"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pick-for-atf-opposed-by-20-republican-ags-over-his-views-on-weapons-ties-to-gun-control-groups.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-for-atf-opposed-by-20-republican-ags-over-his-views-on-weapons-ties-to-gun-control-groups.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22a9630b-047d-47d1-9952-04d0bea71b85/eeb72bf6-9f91-441b-afd6-816eea0f5863/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Senate passes bill requiring the Biden administration to declassify intelligence on COVID-19 origins"
+    excerpt: "The Senate approved a bill that would require the Biden administration and the director of national intelligence to declassify intelligence on the origins of COVID-19 by unanimous consent Wednesday evening."
+    publishedDateTime: 2021-05-27T01:18:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pBlRoVPQxxI/senate-biden-declassify-intelligence-covid19-origin"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-biden-declassify-intelligence-covid19-origin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-biden-declassify-intelligence-covid19-origin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Joe-Biden-Marine-One-Camp-David-AP.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden, second Catholic president, to skip Notre Dame commencement after backlash to his abortion policies"
+    excerpt: "Notre Dame University's 2021 commencement is set for Sunday, but President Biden will be notably absent from attendance."
+    publishedDateTime: 2021-05-23T02:34:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Us008pCCT9Y/biden-skip-notre-dame-commencement-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-skip-notre-dame-commencement-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-skip-notre-dame-commencement-abortion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/biden-happy-thumb.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "GOP senators probe 'close coordination' between Biden administration, teachers unions on school reopenings"
+    excerpt: "A group of GOP senators is demanding answers from the Biden administration on how powerful teachers unions may have influenced school reopening guidelines as coronavirus cases declined. "
+    publishedDateTime: 2021-05-22T16:13:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aps9-RdvUM0/gop-senators-probe-biden-teachers-unions-school-reopenings"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-probe-biden-teachers-unions-school-reopenings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-probe-biden-teachers-unions-school-reopenings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "19 GOP AGs urge Biden to reinstate Keystone, protect energy infrastructure in wake of Colonial Pipeline attack"
+    excerpt: "Nineteen Republican attorneys general sent a letter to President Biden calling on his administration to support energy infrastructure, including reinstating the Keystone XL Pipeline permit, in light of the cyberattack that shut down the Colonial Pipeline."
+    publishedDateTime: 2021-05-18T15:26:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9RdlfEcj4oo/biden-colonial-pipeline-hack-energy-infrastructure"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-colonial-pipeline-hack-energy-infrastructure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-colonial-pipeline-hack-energy-infrastructure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5b385bd-529b-4849-bc3f-785b1c0964bb/e676a657-4d89-4bfb-ad99-f10aab3a5ea2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "House Republicans reveal answer to Biden's budget, say it could eliminate deficit in 5 years"
+    excerpt: "House Republicans on Wednesday are unveiling their answer to President Biden's 2022 budget, putting forward a document that they say can balance the federal budget in five years while cutting taxes by $1.9 trillion."
+    publishedDateTime: 2021-05-19T10:21:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9TFMd_tdxaw/house-republican-budget-biden-response-deficit"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 144
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris criticized for wiping hand after handshake with SoKo president"
-    excerpt: "Vice President Kamala Harris is taking heat after a video emerged appearing to show her wipe her hand on her jacket after greeting South Korean President Moon Jae-in at the White House last"
-    publishedDateTime: 2021-05-24T19:22:00Z
-    webUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/"
-    ampWebUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/harris-moon-handshake-03.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris keeps assets in tax-advantaged trust, appearing to violate own ethics pledge"
-    excerpt: "Vice President Kamala Harris keeps assets in a tax-advantaged family trust, a move that appears to violate an ethics pledge she and President Biden made on the campaign trail."
-    publishedDateTime: 2021-05-19T20:21:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de3a1e91-b0da-44c6-9238-915f4385cf4b/6d6c657b-0a98-4c5d-b6af-d33cd0ebeecc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden's War on Single-Family Homeowners"
-    excerpt: "If you saved your money and bought a house in the suburbs, your investment and lifestyle are under attack. President Joe Biden is pushing to end"
-    publishedDateTime: 2021-05-19T10:07:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/543623_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "VP Kamala Harris Wipes Hand After Handshake With South Korea's President"
-    excerpt: "Vice President Kamala Harris holds a bilateral meeting South Korean President Moon Jae-in at the White House on Friday, May 21, 2021, in Washington, D.C."
-    publishedDateTime: 2021-05-24T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 84
-    images:
-      - url: "https://assets.realclear.com/images/54/544114.jpg"
-        width: 906
-        height: 678
-        isCached: true
-  - title: "Joe Biden, Crisis Diplomat"
-    excerpt: "President Joe Biden made an unexpected appearance at the White House, in front of a press corps that had been hastily called back to work. Welcoming the apparent end of an eleven-day war between Israel and Hamas,"
-    publishedDateTime: 2021-05-23T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/23/joe_biden_crisis_diplomat_543402.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/543986_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/US-Capitol-AP.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "juFDtc5YgHbrwMFoSj6sflwR0vCPaj8D0E9lfZfhZ+gdAoUZ/kio2FN+6BRxYog5X9KJdBTxpOCV3W1nYjt5lqNU2cTonb3Kb/QPzi7kdmy/QxpyuIwrdZm/i4CUjCKDy9795HP1GpQK8UtXB8Jl/NpMFpXYRMvZFV7nlbS3taodn5OCM3etkQVATYQq2XxhZ6jlLnSAjCiVzcPuzrHNS3k54G5oc306A37p4cY1jntKg5P1vlxP4jujaJXAQIJUped3Gy4M9o2JP1fIzc1CJeTBB9qrx4HhJDVK3iK+2IQVrwdnZmb99TUyemedgXI6jKwm3qpzMWyV4D+2mcoINvuBVCbdWXtVKeF/SMRjgDNELYQkudXXX2erYF/4AAQqXBYdcccQh7gXoI/OjU9CAYkKDNKNO1iOMVjh/rLKVPEydc97UxL448lM+Kyx0IhICo07pYuoiQi/EU4HGguflRTZZ6F9QuY9nSDo0M8wguUfNXFRKMIyPQFOFc1HUjxFBpHRABviUliSxAhCS0r7Vg==;HcG2sXrzotseFcpfxWA9fA=="

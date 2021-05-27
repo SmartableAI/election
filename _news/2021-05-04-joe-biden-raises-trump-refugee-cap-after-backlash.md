@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2530
+heat: 2550
 published: true
 
 provider:
@@ -207,6 +207,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_874184c3976c4842ad7ece5c22f6024a_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Donald Trump Hits Biden's Gas Prices Ahead of Memorial Day Weekend"
+    excerpt: "The former president blamed his successor's policies for increased fuel costs ahead of a major holiday weekend marking the start of summer travel."
+    publishedDateTime: 2021-05-27T15:42:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-hits-bidens-gas-prices-ahead-memorial-day-weekend-1595504"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-hits-bidens-gas-prices-ahead-memorial-day-weekend-1595504?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-hits-bidens-gas-prices-ahead-memorial-day-weekend-1595504?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1808833/trump-blasts-biden-over-gas-prices.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."

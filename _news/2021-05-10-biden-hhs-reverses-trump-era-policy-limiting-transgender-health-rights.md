@@ -111,22 +111,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's DOJ announces plan to appeal order to release Trump obstruction memo"
-    excerpt: "The U.S. Department of Justice announced Monday that it plans to partially appeal a court ruling earlier this month that called for the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Trump"
-    publishedDateTime: 2021-05-25T04:34:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BKCf4Wi-Wvw/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety"
-    ampWebUrl: "https://www.foxnews.com/politics/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden to keep refugee admissions at Trump-era levels, despite earlier moves to increase it"
     excerpt: "President Biden is keeping refugee admissions at 15,000 this fiscal year -- the level set at the end of the Trump administration -- despite earlier proposals to dramatically increase it to over 60,000."
     publishedDateTime: 2021-04-16T17:36:44Z

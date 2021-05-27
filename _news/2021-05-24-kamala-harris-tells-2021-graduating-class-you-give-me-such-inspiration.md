@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kama
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
 type: article
 quality: 124
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/12/election_2020_joe_biden_vp_00766_c0-0-4061-2368_s1200x700.jpg?1b20ccd4a28d7efd04c18bd85a2c3907018d352d"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Harris to announce business investments in Central America"
+    excerpt: "Vice President Kamala Harris on Thursday will announce commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden administration’s efforts to address the root causes of migration from the region."
+    publishedDateTime: 2021-05-27T15:55:00Z
+    webUrl: "https://www.lmtonline.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
+    ampWebUrl: "https://www.lmtonline.com/business/amp/Harris-to-announce-business-investments-in-16207174.php"
+    cdnAmpWebUrl: "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/business/amp/Harris-to-announce-business-investments-in-16207174.php"
+    type: article
+    provider:
+      name: Laredo Morning Times
+      domain: lmtonline.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/22/54/21048115/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "VP Harris says illegal migration worsened by 'extreme climate' disasters"
     excerpt: "Vice President Kamala Harris said Monday that “extreme climate incidents” such as hurricanes destroy crops in Central America and prompt more people to migrate illegally to the U.S."

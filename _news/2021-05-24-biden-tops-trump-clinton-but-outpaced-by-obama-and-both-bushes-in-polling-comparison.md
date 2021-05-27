@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-comparison-tr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-comparison-trump-clinton-obama-bush.amp"
 type: article
 quality: 182
-heat: 302
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,101 +31,147 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's Supreme Court commission to meet with key abortion case looming"
-    excerpt: "President Biden's commission on the Supreme Court meets for the first time on Wednesday, triggering the 180-day deadline for the group to provide its report to the president on the status of the court and the issues surrounding it – including on packing the court."
-    publishedDateTime: 2021-05-18T13:29:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vbg4WLJJcTE/biden-supreme-court-commission-meeting-key-abortion-case-looming"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-meeting-key-abortion-case-looming.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-meeting-key-abortion-case-looming.amp"
+  - title: "Lara Trump slams Biden, Harris: If the border is closed, then ‘I’m a sparkly unicorn’"
+    excerpt: "Fox News contributor Lara Trump said on Thursday mocked the Department of Homeland Security for claiming the southern border was closed."
+    publishedDateTime: 2021-05-27T15:14:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NE82bCJ0myY/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas"
+    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 208
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden keeps saying ‘follow the science,’ but how often does he?"
-    excerpt: "It’s a line President Biden used on the 2020 presidential campaign trail and has returned to many times, including in nationally televised remarks after taking office and in March to staffers at the Centers for Disease Control and Prevention, particularly when addressing the coronavirus pandemic or climate"
-    publishedDateTime: 2021-05-23T18:24:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp"
+  - title: "George Floyd’s family meets with Biden, Harris on anniversary of his death"
+    excerpt: "The family of George Floyd met with President Biden and Vice President Kamala Harris Tuesday, on the anniversary of Floyd’s death, and demanded police reform be passed."
+    publishedDateTime: 2021-05-25T21:12:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NklDUaT8VDA/george-floyds-family-biden-harris-anniversary-death"
+    ampWebUrl: "https://www.foxnews.com/politics/george-floyds-family-biden-harris-anniversary-death.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-floyds-family-biden-harris-anniversary-death.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 198
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13a2b366-5701-45a7-abcd-a9e8ad9b4c50/ee531cb7-ad01-45f9-a3ad-b5e69ea6dbcf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Floyd-Family-White-House-AP.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Sen. Cotton: Biden has been 'rolling over for aggressors around the world'"
-    excerpt: "Sen. Tom Cotton, R-Ark., argued during an exclusive interview with \"Sunday Morning Futures\" that President Biden has been “rolling over for aggressors around the world,” including China, Russia and Iran, adding that recently the president “seemed to draw moral equivalence between Israel and Hamas when"
-    publishedDateTime: 2021-05-23T19:33:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gRfrqjG4MkI/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
+  - title: "Biden was 'torn' about picking VP Harris after presidential debate 'bull---': book"
+    excerpt: "President Biden was \"torn\" about picking Vice President Harris as his running mate, according to a new book."
+    publishedDateTime: 2021-05-25T15:04:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8DkXMAmpt8Q/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-torn-vp-harris-liz-warren-debate-whitmer-dovere.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 194
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6679eccc-96b1-4ce3-83f7-fa70660277b5/d0f7098a-504f-4d58-880b-025796475a38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden's DOJ announces plan to appeal order to release Trump obstruction memo"
+    excerpt: "The U.S. Department of Justice announced Monday that it plans to partially appeal a court ruling earlier this month that called for the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Trump"
+    publishedDateTime: 2021-05-25T04:34:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BKCf4Wi-Wvw/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety"
+    ampWebUrl: "https://www.foxnews.com/politics/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Obama called Trump a 'f------ lunatic' in remarks to foundation donors, book claims"
-    excerpt: "Former President Barack Obama, known by the public as a reserved statesman who notably avoided using his successor’s name for years, reportedly called former President Donald Trump a \"f---ing lunatic,\" a \"madman\" and a \"corrupt motherf----er\" behind closed doors, according to a new book. "
-    publishedDateTime: 2021-05-20T17:54:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTm9ZiXNaOU/dovere-book-obama-trump-lunatic"
-    ampWebUrl: "https://www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp"
+  - title: "Kamala Harris greets South Korean president ahead of Biden meeting"
+    excerpt: "Vice President Kamala Harris exchanged pleasantries with South Korean President Moon Jae-in the White House-adjacent Eisenhower Executive Office Building."
+    publishedDateTime: 2021-05-21T15:56:00Z
+    webUrl: "https://nypost.com/2021/05/21/vp-harris-greets-president-moon-jae-in-ahead-of-biden-visit/"
+    ampWebUrl: "https://nypost.com/2021/05/21/vp-harris-greets-president-moon-jae-in-ahead-of-biden-visit/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/vp-harris-greets-president-moon-jae-in-ahead-of-biden-visit/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/harris-moon-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Jill Biden embraces Kamala Harris after ‘go f–k yourself’ reveal"
+    excerpt: "First lady Jill Biden and Vice President Kamala Harris appeared to put the past aside when they hugged before a Medal of Honor ceremony for a Korean War vet."
+    publishedDateTime: 2021-05-21T22:14:00Z
+    webUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/"
+    ampWebUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/jill-biden-111.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris, not Biden, called king of Jordan to discuss Gaza ceasefire"
+    excerpt: "Vice President Kamala Harris on Thursday spoke to Jordanian King Abdullah II on behalf of President Biden to brief him on US efforts to support a ceasefire in the Israel-Hamas conflict. Biden has not spoken with the Arab nation’s leader since Hamas began firing rockets last week from Gaza into Israel following clashes in Jerusalem."
+    publishedDateTime: 2021-05-20T21:40:00Z
+    webUrl: "https://nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/"
+    ampWebUrl: "https://nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-jordan.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Jill Biden, Kamala Harris share hug after reports of first lady's F-bomb toward VP"
+    excerpt: "Bygones appeared to be bygones at the White House Friday, with first lady Jill Biden getting chummy with Vice President Kamala Harris — days after a forthcoming book revealed Biden said Harris should “go f–k” herself for attacking her husband during the Democratic primaries."
+    publishedDateTime: 2021-05-22T07:26:00Z
+    webUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-share-hug-after-reports-of-first-ladys-f-bomb-toward-vp.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 144
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7190891-3b68-4f0d-aee0-1b1e57fcd8b2/2f09ad27-6af7-42a5-bacf-9a12c3deec10/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Ex-Clinton aide says Biden's Supreme Court commission is 'doomed from the start,' calls for court packing"
-    excerpt: "A former aide to failed presidential candidate Hillary Clinton called for packing the Supreme Court and said President Biden’s commission to explore that possibility is \"doomed from the start.\""
-    publishedDateTime: 2021-05-18T16:37:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GkGsFXKDy38/biden-supreme-court-commission-doomed-brian-fallon"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-doomed-brian-fallon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-doomed-brian-fallon.amp"
+  - title: "Joe Biden, Crisis Diplomat"
+    excerpt: "President Joe Biden made an unexpected appearance at the White House, in front of a press corps that had been hastily called back to work. Welcoming the apparent end of an eleven-day war between Israel and Hamas,"
+    publishedDateTime: 2021-05-23T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/23/joe_biden_crisis_diplomat_543402.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d7f4577-3f6a-49ce-984a-65fae547e78d/f58be55e-ac30-4c11-a8c8-1dc05dd8af44/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Obama had harsh words on Trump, book claims"
-    excerpt: "Former President Barack Obama called Donald Trump a “corrupt motherf–ker,” “madman” and a “racist, sexist pig” to people behind the scenes, a new book claims."
-    publishedDateTime: 2021-05-20T08:36:00Z
-    webUrl: "https://www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims"
-    ampWebUrl: "https://www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7190891-3b68-4f0d-aee0-1b1e57fcd8b2/2f09ad27-6af7-42a5-bacf-9a12c3deec10/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://assets.realclear.com/images/54/543986_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "3m4+uGj83EFofWP+r6PTLe6Lkyz6IDoKxYI9QxsYsbYjXCzXZTf6nb13dIbl7Sv93ukQkbN2rUxXCA0ncOxdQWmDMf8N8wXj+ENGRY1AOyCxu84HN5rojgep0Hf0ngiNGRY9HFhzZHBqmgPlxg8zs3Hmv3vRkWVlZqNSqMAqiFaPl/nH8ZFuGGMqN/j+RWLepKPzJnvcN+l1CaQK2MCurT/SpVyMq36utg+Xy48rzVKil+15CuYXnNXudxG9v2YMg5xE5YZse+L/6v0kY30rQ0GxUz54PZR5bF5Dzzl1qJ0eCqKpA3ZVpDpk1SnByxHusyOkLbaQHdroN9ABvlog5s5bN7AVGgd9je5+bZv/AYE=;Z1m7fNazKRVr4Pv5jrweGw=="

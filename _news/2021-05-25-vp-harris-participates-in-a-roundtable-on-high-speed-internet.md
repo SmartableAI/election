@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Harris County to lower COVID threat level, KHOU 11 confirms"
-    excerpt: "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday."
-    publishedDateTime: 2021-05-18T03:09:00Z
-    webUrl: "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032"
+  - title: "U.S. VP Harris to meet companies, groups to push Central America economic growth"
+    excerpt: "U.S. Vice President Kamala Harris will meet top officials from 12 companies and groups including Microsoft Corp (MSFT.O), Mastercard (MA.N) and the World Economic Forum on Thursday to promote economic opportunity in Central America's Northern Triangle countries,"
+    publishedDateTime: 2021-05-27T15:20:00Z
+    webUrl: "https://www.reuters.com/business/us-vp-harris-meet-companies-groups-push-central-america-economic-growth-2021-05-27/"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 55
+      name: Reuters
+      domain: reuters.com
+    quality: 100
     images:
-      - url: "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://www.reuters.com/resizer/6_n-ITQL8kzEbhcIojQrH-xzRow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WE6HSFDBGVIV3GKOVV3NHHX2WA.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "vRlpxvVV8lBNV7tShC1KHPsF7ckIQymzZQobZtFTZEqaksZMYOJK1lRA/SwmKC5FcG/HsNuwsDb19dw5HNE3wGgRRT+uB3415F1+PVtlGPGH4WKkt26v/mTxUaiZWXGGYFEbFlfprinRvguDYfCEx1j3DViUbGPZX5NUVExYm/Ufgw3rsYsx8JNs/ffcIzynnXhsWJGMe6gJ7Drh4xqbIs6Bd2klIhI3/Qc3VjtdDDjBYLrRhRPGKK/UTq+mP76pRBG+Zsi026iuRNYI8QDmHSGm9JkRMnWrvRd1lPyYRc1LakPWYphltc6QCg3GILjM0tNIRGPCYkoPYZgt2iUTwgjusHhKfhHaomA4b9IF3JI=;EyHzG0QEXFKCE2vRzVvk8A=="

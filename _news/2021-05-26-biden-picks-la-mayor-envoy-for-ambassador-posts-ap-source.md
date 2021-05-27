@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcet
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador.amp"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 215
+published: true
 
 provider:
   name: Fox News
@@ -31,65 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "Biden doubling FEMA funding for this year's extreme weather season"
-    excerpt: "Saying that his administration will \"spare no expense,\" President Biden on Monday announced that he is doubling funding for the Federal Emergency Management Agency's extreme weather preparations."
-    publishedDateTime: 2021-05-24T19:10:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H_mLgVmhWwE/biden-doubling-fema-funding-extreme-weather-season"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
+  - title: "Biden to nominate LA Mayor Eric Garcetti as ambassador to India: report"
+    excerpt: "President Biden reportedly plans to nominate Los Angeles Mayor Eric Garcetti as the next U.S. ambassador to India. "
+    publishedDateTime: 2021-05-26T04:19:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gIsWpVwzz04/biden-to-nominate-la-mayor-eric-garcetti-as-ambassador-to-india-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-nominate-la-mayor-eric-garcetti-as-ambassador-to-india-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-la-mayor-eric-garcetti-as-ambassador-to-india-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22a9630b-047d-47d1-9952-04d0bea71b85/eeb72bf6-9f91-441b-afd6-816eea0f5863/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "3 House Dems blamed pandemic for needing proxy votes, but were touring Ford plant with Biden"
-    excerpt: "Reps. Haley Stevens, D-Mich.; Elissa Slotkin, D-Mich.; and Dan Kildee, D-Mich., each signed a document granting their vote by proxy to one of their Democratic colleagues in the House for the vote series on May 18, 2021."
-    publishedDateTime: 2021-05-20T23:20:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/byjouMr1e5A/michigan-biden-ford-democrats-proxy-votes"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-biden-ford-democrats-proxy-votes.amp"
+  - title: "Biden picks LA mayor, envoy for ambassador posts: AP source"
+    excerpt: "President Joe Biden is expected to announce he is nominating former senior State Department official Nicholas Burns to serve as his ambassador to China and Los Angeles Mayor Eric Garcetti to be his ambassador to India,"
+    publishedDateTime: 2021-05-26T21:14:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/845d93bd-52f0-4fea-806c-d73e5ee436fd/49d98b3d-5858-46f1-8857-6bfa64eaa673/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132726897266-1.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Psaki pressed on whether Biden push for electric vehicle investments influenced by Ford lobbying"
-    excerpt: "White House press secretary Jen Psaki pushed back Tuesday on concerns that the Biden administration’s drive for investments in electric vehicles was influenced by Ford Motor Co.’s lobbying efforts."
-    publishedDateTime: 2021-05-18T19:50:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aF_BP-IYcvc/psaki-biden-push-electric-vehicle-investments-ford-lobbying"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-push-electric-vehicle-investments-ford-lobbying.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-push-electric-vehicle-investments-ford-lobbying.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Joe Biden needs three things from South Korean President Moon"
-    excerpt: "President Joe Biden will sit down with South Korean President Moon Jae-in Friday amid relative calm on the Korean Peninsula. But their first meeting arrives with questions about Korea's willingness to play a stronger deterrent role against China."
-    publishedDateTime: 2021-05-20T13:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-"
-    ampWebUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
 
 secured: "kXqGie0VCjhzLwD29mcpZwSrD25Wihtv0KkJH9M5C2eRwkukcmVwESw2LItBF+pHIIssJ/9jUd7dOuoMqnzdlN2y7GLcFFvBUElmSg9EWptq0vuM4AeLBBMb9VxWsIjTFId2zOyvAKS78xkoAQ6mkMzZGnagtq8sbthTnQtlZyW4vNfx50etcG7CBbQ+C80CJzkC0NfXDSPKjyB9L7kEav0dmIFgX5nrEtAVoy8VtG89JcgVw19a8RtZoIlgpEgQezyU14N3TLmBWAUnvMhy8eHlqjwKbd5+PEMYTuuZnIjLvcs0BxL1vcc0LJYaS5VkZmgHduodGFP/hNC/xD3jFgwUYmjsMszeP3T7PEJ+0ZY=;ISbFsCY9Iet3KHi3HyUM/w=="
 ---

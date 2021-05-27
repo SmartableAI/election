@@ -50,16 +50,16 @@ related:
   - title: "Donald Trump dangled money to end Spygate inquiry on behalf of Patriots’ Robert Kraft, new report alleges"
     excerpt: "The son of late senator Arlen Specter alleges that Donald Trump made his father a financial offer “tantamount to a bribe” on behalf of Patriots owner Robert Kraft to end inquiries into New England’s Spygate scandal."
     publishedDateTime: 2021-05-26T19:24:00Z
-    webUrl: "https://www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html"
-    ampWebUrl: "https://www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/football/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210526-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
+    webUrl: "https://www.chicagotribune.com/sports/breaking/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210527-6jtw73vmwrcdrn5iarqfo43v7q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/sports/breaking/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210527-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/sports/breaking/ny-donald-trump-spygate-robert-kraft-arlen-specter-20210527-6jtw73vmwrcdrn5iarqfo43v7q-story.html?outputType=amp"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 58
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 108
     images:
-      - url: "https://www.nydailynews.com/resizer/0UpW9o965_lOoPLetAi3riLkZtQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2U5LCWW2NZE2BOSLEGVAG6VMWY.jpg"
+      - url: "https://www.chicagotribune.com/resizer/0UpW9o965_lOoPLetAi3riLkZtQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2U5LCWW2NZE2BOSLEGVAG6VMWY.jpg"
         width: 1200
         height: 838
         isCached: true

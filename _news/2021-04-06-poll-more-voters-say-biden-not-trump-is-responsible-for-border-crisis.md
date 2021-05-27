@@ -223,6 +223,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump Hits Biden's Gas Prices Ahead of Memorial Day Weekend"
+    excerpt: "The former president blamed his successor's policies for increased fuel costs ahead of a major holiday weekend marking the start of summer travel."
+    publishedDateTime: 2021-05-27T15:42:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-hits-bidens-gas-prices-ahead-memorial-day-weekend-1595504"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-hits-bidens-gas-prices-ahead-memorial-day-weekend-1595504?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-hits-bidens-gas-prices-ahead-memorial-day-weekend-1595504?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1808833/trump-blasts-biden-over-gas-prices.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden keeps Trump-era cap on refugee admissions, breaking earlier pledge"
     excerpt: "Instead, the president is adjusting the allocation limits and lifting restrictions on resettlements from Somalia, Syria and Yemen"
     publishedDateTime: 2021-04-16T17:19:00Z

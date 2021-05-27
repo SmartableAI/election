@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/george-floyds-family-biden-harris-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-floyds-family-biden-harris-anniversary-death.amp"
 type: article
 quality: 198
-heat: 518
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lara Trump slams Biden, Harris: If the border is closed, then ‘I’m a sparkly unicorn’"
+    excerpt: "Fox News contributor Lara Trump said on Thursday mocked the Department of Homeland Security for claiming the southern border was closed."
+    publishedDateTime: 2021-05-27T15:14:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NE82bCJ0myY/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas"
+    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 208
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden was 'torn' about picking VP Harris after presidential debate 'bull---': book"
     excerpt: "President Biden was \"torn\" about picking Vice President Harris as his running mate, according to a new book."
     publishedDateTime: 2021-05-25T15:04:06Z
@@ -48,117 +64,53 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Jill Biden said Kamala Harris can 'go f--- herself' after she attacked Joe Biden in first debate, book claims"
-    excerpt: "The relationship between the Bidens and Vice President Kamala Harris purportedly became messy after Harris -- then Joe Biden’s opponent in the primary -- came after the president for his record on busing and his boasts of his relationships with segregationist senators, according to journalist Edward"
-    publishedDateTime: 2021-05-19T18:00:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BwVqML3nqSQ/jill-biden-kamala-harris-go-f-herself-biden-debate-book"
-    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kamala-harris-go-f-herself-biden-debate-book.amp"
+  - title: "Biden's DOJ announces plan to appeal order to release Trump obstruction memo"
+    excerpt: "The U.S. Department of Justice announced Monday that it plans to partially appeal a court ruling earlier this month that called for the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Trump"
+    publishedDateTime: 2021-05-25T04:34:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BKCf4Wi-Wvw/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety"
+    ampWebUrl: "https://www.foxnews.com/politics/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-announces-plan-to-appeal-order-to-release-trump-obstruction-memo-in-its-entirety.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 181
+    quality: 187
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3594866f-1e28-48b4-9186-03d4f5320bd3/676ae2fc-713c-46e6-b073-9d162b1094b3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris wipes hand after greeting South Korean leader, faces Twitter backlash"
-    excerpt: "Many Americans have become more germ-conscious since the start of the coronavirus pandemic last year – but Vice President Kamala Harris may have made her concerns too conspicuous."
-    publishedDateTime: 2021-05-23T05:29:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J93HpuDVsvk/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "VP Kamala Harris holds unusual bilateral meeting with a foreign leader at the White House"
-    excerpt: "Vice President Harris met with South Korean President Moon Jae-in Friday, without the participation of President Biden, and then the two appeared together to make a statement. A bilateral meeting at the White House between a U.S. vice president and a visiting head of state followed by a joint appearance"
-    publishedDateTime: 2021-05-22T02:14:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sjfy1LMs9xw/harris-holds-unusual-solo-bilateral-meeting-with-president"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48f7d31-128d-48ec-aca5-6fdc9d09c814/3d14acbf-614a-47fe-8bce-546e449638e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris keeps assets in tax-advantaged trust, appearing to violate own ethics pledge"
-    excerpt: "Vice President Kamala Harris keeps assets in a tax-advantaged family trust, a move that appears to violate an ethics pledge she and President Biden made on the campaign trail."
-    publishedDateTime: 2021-05-19T16:51:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5QOurbf2wEI/kamala-harris-financial-disclosure-assets-trust-ethics-pledge"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de3a1e91-b0da-44c6-9238-915f4385cf4b/6d6c657b-0a98-4c5d-b6af-d33cd0ebeecc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Rep. Hinson to introduce bill halting funding for Harris travel costs until she visits border"
-    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, on Thursday will introduce a bill that would bar taxpayer money being used for the travel expenses for Vice President Kamala Harris until she visits the southern border and issues a report on how to solve the crisis."
-    publishedDateTime: 2021-05-20T10:00:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hYVH_PNiLNY/rep-hinson-bill-kamala-harris-travel-costs-border-visit"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-hinson-bill-kamala-harris-travel-costs-border-visit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-hinson-bill-kamala-harris-travel-costs-border-visit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden plans to meet with George Floyd's family on anniversary of his murder"
-    excerpt: "President Biden plans to host the family of George Floyd at the White House on Tuesday."
-    publishedDateTime: 2021-05-22T09:33:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/18pWU60ZH8Q/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plans-to-meet-with-george-floyds-family-on-anniversary-of-his-murder.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a52aa08-de68-4293-9071-d5aea97732c7/e955899c-ee48-417c-acff-f42238a65020/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden to miss police reform bill deadline, meet with George Floyd's family on death anniversary"
-    excerpt: "President Biden is expected to host the family of George Floyd at the White House on Tuesday – though Congress is poised to miss Biden’s deadline of getting the federal police reform bill with Floyd’s namesake passed by the one-year anniversary of Floyd's killing by a Minneapolis officer."
-    publishedDateTime: 2021-05-24T13:26:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3XYexpVGAWo/biden-george-floyd-family-death-anniversary-police-reform-bill-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-george-floyd-family-death-anniversary-police-reform-bill-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-george-floyd-family-death-anniversary-police-reform-bill-deadline.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden tops Trump, Clinton, but outpaced by Obama and both Bushes, in polling comparison"
+    excerpt: "Four months into his White House tenure, President Biden is outperforming some of his predecessors and trailing others when it comes to his poll ratings."
+    publishedDateTime: 2021-05-24T16:22:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K0kkKTHub5A/biden-approval-rating-comparison-trump-clinton-obama-bush"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-comparison-trump-clinton-obama-bush.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-comparison-trump-clinton-obama-bush.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris greets South Korean president ahead of Biden meeting"
+    excerpt: "Vice President Kamala Harris exchanged pleasantries with South Korean President Moon Jae-in the White House-adjacent Eisenhower Executive Office Building."
+    publishedDateTime: 2021-05-21T15:56:00Z
+    webUrl: "https://nypost.com/2021/05/21/vp-harris-greets-president-moon-jae-in-ahead-of-biden-visit/"
+    ampWebUrl: "https://nypost.com/2021/05/21/vp-harris-greets-president-moon-jae-in-ahead-of-biden-visit/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/vp-harris-greets-president-moon-jae-in-ahead-of-biden-visit/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/harris-moon-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Jill Biden embraces Kamala Harris after ‘go f–k yourself’ reveal"
     excerpt: "First lady Jill Biden and Vice President Kamala Harris appeared to put the past aside when they hugged before a Medal of Honor ceremony for a Korean War vet."
@@ -173,6 +125,22 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/jill-biden-111.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris, not Biden, called king of Jordan to discuss Gaza ceasefire"
+    excerpt: "Vice President Kamala Harris on Thursday spoke to Jordanian King Abdullah II on behalf of President Biden to brief him on US efforts to support a ceasefire in the Israel-Hamas conflict. Biden has not spoken with the Arab nation’s leader since Hamas began firing rockets last week from Gaza into Israel following clashes in Jerusalem."
+    publishedDateTime: 2021-05-20T21:40:00Z
+    webUrl: "https://nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/"
+    ampWebUrl: "https://nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-jordan.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -191,86 +159,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db5c158-51d0-4581-88f2-4c0c7f6c7dee/5b641551-92ce-4c8a-bcf2-8b9ba3a0a8d8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Hannity on press coverage of President Biden"
-    excerpt: "But, first, we turn once again to the ever weak, frail, cognitive mess that is all things Joey Biden and sippy cup. Anyway, as cases of COVID-19 have sharply declined, thankfully, Americans -- they're trying to make up for lost time becoming more active than ever."
-    publishedDateTime: 2021-05-26T10:33:00Z
-    webUrl: "https://www.foxnews.com/transcript/hannity-on-press-coverage-of-president-biden"
-    ampWebUrl: "https://www.foxnews.com/transcript/hannity-on-press-coverage-of-president-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-on-press-coverage-of-president-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f009a331-ad55-484c-9bd2-0b998eebc48c/b20a271a-2ca7-4ecd-8200-774e17389b81/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris criticized for wiping hand after handshake with SoKo president"
-    excerpt: "Vice President Kamala Harris is taking heat after a video emerged appearing to show her wipe her hand on her jacket after greeting South Korean President Moon Jae-in at the White House last"
-    publishedDateTime: 2021-05-24T19:22:00Z
-    webUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/"
-    ampWebUrl: "https://nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/24/kamala-harris-criticized-for-wiping-hand-after-handshake-with-soko-prez/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/harris-moon-handshake-03.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris keeps assets in tax-advantaged trust, appearing to violate own ethics pledge"
-    excerpt: "Vice President Kamala Harris keeps assets in a tax-advantaged family trust, a move that appears to violate an ethics pledge she and President Biden made on the campaign trail."
-    publishedDateTime: 2021-05-19T20:21:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de3a1e91-b0da-44c6-9238-915f4385cf4b/6d6c657b-0a98-4c5d-b6af-d33cd0ebeecc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden's War on Single-Family Homeowners"
-    excerpt: "If you saved your money and bought a house in the suburbs, your investment and lifestyle are under attack. President Joe Biden is pushing to end"
-    publishedDateTime: 2021-05-19T10:07:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/543623_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "VP Kamala Harris Wipes Hand After Handshake With South Korea's President"
-    excerpt: "Vice President Kamala Harris holds a bilateral meeting South Korean President Moon Jae-in at the White House on Friday, May 21, 2021, in Washington, D.C."
-    publishedDateTime: 2021-05-24T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/24/vp_kamala_harris_wipes_hand_after_handshake_with_south_koreas_president.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 84
-    images:
-      - url: "https://assets.realclear.com/images/54/544114.jpg"
-        width: 906
-        height: 678
         isCached: true
   - title: "Joe Biden, Crisis Diplomat"
     excerpt: "President Joe Biden made an unexpected appearance at the White House, in front of a press corps that had been hastily called back to work. Welcoming the apparent end of an eleven-day war between Israel and Hamas,"

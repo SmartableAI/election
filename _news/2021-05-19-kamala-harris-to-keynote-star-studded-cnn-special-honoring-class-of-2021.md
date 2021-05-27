@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris to announce private sector investments in Northern Triangle"
+    excerpt: "Vice President Kamala Harris on Thursday will announce commitments from 12 private companies and organizations to invest in the Northern Triangle, a White House official says, marking the latest administration attempt to address the root causes of migration from the region.\n    \n"
+    publishedDateTime: 2021-05-27T14:59:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YLvmyshjKes/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/kamala-harris-northern-triangle-investments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/kamala-harris-northern-triangle-investments/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525192338-harris-0525-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to host George Floyd's family on anniversary of his death"
     excerpt: "President Joe Biden will host the family of George Floyd at the White House on Tuesday to mark the one-year anniversary of his death at the hands of police, a White House official confirmed to CNN.\n    \n"
     publishedDateTime: 2021-05-23T13:58:31Z
