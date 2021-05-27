@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Enough': Biden calls for action on guns in wake of San Jose shooting "
+    excerpt: "President Joe Biden on Wednesday urged Congress to \"take immediate action\" on gun legislation in the wake of a shooting in San Jose, California, that killed eight people earlier in the day, noting that he was ordering the flag lowered to half-staff just weeks after other mass shootings around the country.\n"
+    publishedDateTime: 2021-05-26T23:32:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SONO0tkp-WI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/biden-san-jose-shooting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/biden-san-jose-shooting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden tasks intelligence community to report on Covid origins in 90 days"
     excerpt: "President Joe Biden said Wednesday he has directed the US intelligence community to redouble their efforts in investigating the origins of the Covid-19 pandemic and report back to him in 90 days.\n    \n"
     publishedDateTime: 2021-05-26T17:54:11Z

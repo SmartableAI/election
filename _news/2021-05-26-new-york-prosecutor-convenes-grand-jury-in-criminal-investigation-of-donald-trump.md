@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 811
         isCached: true
+  - title: "Fake property evaluations and pressuring officials to 'find' votes: All the evidence piling up in the criminal probes of Trump"
+    excerpt: "In New York, prosecutors are looking into whether Trump broke tax laws. In Georgia, he may have illegally tried to influence election results."
+    publishedDateTime: 2021-05-26T22:30:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-criminal-investigations-evidence-before-prosecutors-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-criminal-investigations-evidence-before-prosecutors-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-criminal-investigations-evidence-before-prosecutors-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5fe2647ba644880018193045?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Michael Cohen said he believes Trump will 'flip on all of them,' including his children, in the New York investigation into his company"
     excerpt: "Cohen, Trump's former lawyer and fixer who is cooperating with prosecutors, said: \"I really believe that Donald Trump cares for only himself.\""
     publishedDateTime: 2021-05-20T06:40:00Z

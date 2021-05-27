@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53d1063b-7f45-426b-b59d-5c4536195afb/fdf093e7-efb7-4bd5-abb6-af51a0546589/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Matt Gaetz still eyes 2024 bid despite fed sex trafficking probe — unless Trump runs"
+    excerpt: "Rep. Matt Gaetz said he still supports Donald Trump if he decides to run for president a third time. But Gaetz said he could beat Joe Biden if he does indeed run in 2024."
+    publishedDateTime: 2021-05-26T23:52:00Z
+    webUrl: "https://nypost.com/2021/05/26/matt-gaetz-still-eyes-2024-bid-despite-sex-trafficking-probe-unless-trump-runs/"
+    ampWebUrl: "https://nypost.com/2021/05/26/matt-gaetz-still-eyes-2024-bid-despite-sex-trafficking-probe-unless-trump-runs/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/matt-gaetz-still-eyes-2024-bid-despite-sex-trafficking-probe-unless-trump-runs/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 128
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/luke-ball-gaetz-02.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
     excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"

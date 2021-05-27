@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D62SK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SK"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 122
     images:
       - url: "https://i.guim.co.uk/img/media/0a5b3c751f3789b45c3c48c5aba68346c7cb4d61/0_35_2945_1768/master/2945.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cfc419b0941389b997af93dd23afb8d7"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden orders US intelligence to intensify efforts to study Covid’s origins"
+    excerpt: "President also asks US intelligence community to explore the unlikely possibility that virus origins trace to Chinese lab"
+    publishedDateTime: 2021-05-26T18:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/26/joe-biden-us-intelligence-community-covid-19-origins-china"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/26/joe-biden-us-intelligence-community-covid-19-origins-china"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/26/joe-biden-us-intelligence-community-covid-19-origins-china"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/726f30f7de9fd0b16e471b81d26a449d46c90f96/0_461_6944_4168/master/6944.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb30e67283e80d7eaa1ebbfa9d837d4e"
         width: 600
         height: 360
         isCached: true

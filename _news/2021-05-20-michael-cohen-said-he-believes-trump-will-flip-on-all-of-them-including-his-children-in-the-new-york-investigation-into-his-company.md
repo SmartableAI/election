@@ -141,6 +141,22 @@ related:
         width: 1024
         height: 711
         isCached: true
+  - title: "Fake property evaluations and pressuring officials to 'find' votes: All the evidence piling up in the criminal probes of Trump"
+    excerpt: "In New York, prosecutors are looking into whether Trump broke tax laws. In Georgia, he may have illegally tried to influence election results."
+    publishedDateTime: 2021-05-26T22:30:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-criminal-investigations-evidence-before-prosecutors-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-criminal-investigations-evidence-before-prosecutors-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-criminal-investigations-evidence-before-prosecutors-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5fe2647ba644880018193045?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Val Demings, who rose to national prominence as a Trump impeachment manager, plans to challenge Marco Rubio in the 2022 Florida Senate race"
     excerpt: "As a former Orlando police chief, Demings, a three-term Democratic congresswoman, could offer a compelling perspective on issues of policing reform."
     publishedDateTime: 2021-05-18T15:06:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025332-01-joe-biden-0521-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Enough': Biden calls for action on guns in wake of San Jose shooting "
+    excerpt: "President Joe Biden on Wednesday urged Congress to \"take immediate action\" on gun legislation in the wake of a shooting in San Jose, California, that killed eight people earlier in the day, noting that he was ordering the flag lowered to half-staff just weeks after other mass shootings around the country.\n"
+    publishedDateTime: 2021-05-26T23:32:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SONO0tkp-WI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/biden-san-jose-shooting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/biden-san-jose-shooting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

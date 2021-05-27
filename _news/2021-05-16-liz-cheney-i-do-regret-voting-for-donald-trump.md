@@ -92,6 +92,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Matt Gaetz still eyes 2024 bid despite fed sex trafficking probe — unless Trump runs"
+    excerpt: "Rep. Matt Gaetz said he still supports Donald Trump if he decides to run for president a third time. But Gaetz said he could beat Joe Biden if he does indeed run in 2024."
+    publishedDateTime: 2021-05-26T23:52:00Z
+    webUrl: "https://nypost.com/2021/05/26/matt-gaetz-still-eyes-2024-bid-despite-sex-trafficking-probe-unless-trump-runs/"
+    ampWebUrl: "https://nypost.com/2021/05/26/matt-gaetz-still-eyes-2024-bid-despite-sex-trafficking-probe-unless-trump-runs/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/matt-gaetz-still-eyes-2024-bid-despite-sex-trafficking-probe-unless-trump-runs/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 128
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/luke-ball-gaetz-02.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Wuhan Story That Finally Has Legs, Now That Trump Is Gone"
     excerpt: "What are we learning about the American political-media establishment now that the origin story of the coronavirus pandemic appears to be"
     publishedDateTime: 2021-05-26T16:11:00Z

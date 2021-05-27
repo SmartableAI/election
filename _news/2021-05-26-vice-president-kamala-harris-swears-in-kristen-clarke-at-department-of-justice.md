@@ -472,6 +472,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Harris meets bipartisan lawmakers on broadband"
+    excerpt: "Vice President Kamala Harris holds a bipartisan meeting at the White House Wednesday with members of Congress to discuss 'the critical importance of investing in broadband infrastructure.' (May 26)"
+    publishedDateTime: 2021-05-26T23:55:00Z
+    webUrl: "https://www.cincinnati.com/videos/news/nation/2021/05/26/harris-meets-bipartisan-lawmakers-broadband/7457527002/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/32cb065d-d796-4cb6-8baa-ebb531813826_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "George Floyd’s Family Urges Police Reform After Meeting With Biden, Harris"
     excerpt: "The meeting, one year after Floyd was killed by police, came as lawmakers missed Biden’s target date to enact meaningful police reform."
     publishedDateTime: 2021-05-25T21:30:00Z
