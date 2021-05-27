@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html"
 type: article
 quality: 175
-heat: 635
+heat: 655
 published: true
 
 provider:
@@ -380,6 +380,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/05/26/us/politics/26dc-medicare/26dc-medicare-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Republicans Present $928 Billion Counteroffer to Biden on Infrastructure"
+    excerpt: "The plan’s total price tag came close to what the president has said he would consider, but it included only a fraction of the new spending he has requested. A compromise faces long odds."
+    publishedDateTime: 2021-05-27T21:02:00Z
+    webUrl: "https://www.nytimes.com/2021/05/27/us/politics/republicans-infrastructure-counteroffer.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/27/us/politics/republicans-infrastructure-counteroffer.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/us/politics/republicans-infrastructure-counteroffer.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/27/us/politics/27vid-gop-clip/27vid-gop-clip-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

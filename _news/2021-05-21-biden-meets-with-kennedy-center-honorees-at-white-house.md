@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kenne
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-meets-kennedy-center-honorees-white-house-77813089"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/daca-dreamers-president-joe-biden-01-gty-llr-210514_1621026754888_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden's defense budget seeks greater China deterrence and nuclear funding"
+    excerpt: "U.S. President Joe Biden's $715 billion Department of Defense budget will shift funding from old systems to help modernize the nuclear arsenal to deter China, while also developing future warfare capabilities,"
+    publishedDateTime: 2021-05-27T21:23:00Z
+    webUrl: "https://www.reuters.com/world/us/bidens-defense-budget-seeks-greater-china-deterrence-nuclear-funding-2021-05-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://www.reuters.com/resizer/xRjTRFPofWM06BIzU4GA2pJCD_w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRFBFWXUMFKQTKKYUVWNYV22SA.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Joe Biden welcomes South Korea's Moon Jae-in to D.C. for summit"
     excerpt: "President Joe Biden welcomed South Korean President Moon Jae-in to the White House Friday to discuss several issues of importance between the two longtime allies, including North Korea's nuclear program."

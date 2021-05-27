@@ -269,6 +269,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden administration owes Texas hospital caring for migrant minors more than $200,000"
+    excerpt: "A Texas hospital that has been treating migrant children for a range of concerns after their trek across the Southern border has not gotten any reimbursement from the Biden administration for their more than $200,000 in health care costs, the hospital told Fox News Thursday. "
+    publishedDateTime: 2021-05-27T21:03:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_Hc0n21teI/biden-texas-hospital-migrant-minors"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21127648120735.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Hannity on press coverage of President Biden"
     excerpt: "But, first, we turn once again to the ever weak, frail, cognitive mess that is all things Joey Biden and sippy cup. Anyway, as cases of COVID-19 have sharply declined, thankfully, Americans -- they're trying to make up for lost time becoming more active than ever."
     publishedDateTime: 2021-05-26T10:33:00Z

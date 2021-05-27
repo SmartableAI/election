@@ -255,6 +255,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration owes Texas hospital caring for migrant minors more than $200,000"
+    excerpt: "A Texas hospital that has been treating migrant children for a range of concerns after their trek across the Southern border has not gotten any reimbursement from the Biden administration for their more than $200,000 in health care costs, the hospital told Fox News Thursday. "
+    publishedDateTime: 2021-05-27T21:03:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_Hc0n21teI/biden-texas-hospital-migrant-minors"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21127648120735.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "House Republicans reveal answer to Biden's budget, say it could eliminate deficit in 5 years"
     excerpt: "House Republicans on Wednesday are unveiling their answer to President Biden's 2022 budget, putting forward a document that they say can balance the federal budget in five years while cutting taxes by $1.9 trillion."
     publishedDateTime: 2021-05-19T10:21:35Z

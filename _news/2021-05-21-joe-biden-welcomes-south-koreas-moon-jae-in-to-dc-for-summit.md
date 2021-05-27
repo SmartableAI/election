@@ -107,6 +107,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's defense budget seeks greater China deterrence and nuclear funding"
+    excerpt: "U.S. President Joe Biden's $715 billion Department of Defense budget will shift funding from old systems to help modernize the nuclear arsenal to deter China, while also developing future warfare capabilities,"
+    publishedDateTime: 2021-05-27T21:23:00Z
+    webUrl: "https://www.reuters.com/world/us/bidens-defense-budget-seeks-greater-china-deterrence-nuclear-funding-2021-05-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://www.reuters.com/resizer/xRjTRFPofWM06BIzU4GA2pJCD_w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRFBFWXUMFKQTKKYUVWNYV22SA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "SI9Ok6aLzZHFXNgQnMNJE63vyTJm0AbhAQt5eB65bu9eE+p893uhJlfRRBUy5tilkEs0O5bftrmmVSZ0iS6l35tE25ZyTM8HGooAZ6p7xy5NxPqsGKlcqB/fPiiDfxPM3RRsQBcNw1BmUTZSaK6OsFX2/q71PchJeeMpDdWu12dGlw1jCgYS6HV+GnHVGle2IzKpyg3ZJE7s9TNqZ2tHsz8RZ7RbJ6ewBlVdVlndIgVnsgv09kxxGwoR8psNxFnBJCehGL90kZ9/JVPF2y8W2AHLa2t/67CAewC1r87GSt1Tk9An+3rThBUPst1iRnmnG9Ymdkf9SAj/KRloLDdaCAuiZL3yxe5b7JdRhJ9gj2g=;lIOk6AzrUdbA+RxVdUbTbg=="
 ---

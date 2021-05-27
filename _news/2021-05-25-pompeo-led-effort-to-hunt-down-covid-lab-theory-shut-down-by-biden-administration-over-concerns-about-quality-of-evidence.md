@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration moves forward with plan to bring offshore wind to California coast for the first time"
-    excerpt: "The Biden administration announced Tuesday that it is moving to advance offshore wind power on the coast of California for the first time. When developed, the regions selected have the potential to generate enough green energy for up to 1.6 million homes over the next decade, according to the administration.\n"
-    publishedDateTime: 2021-05-25T20:11:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ICmDM7oR9Mc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-california-offshore-wind-announcement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-california-offshore-wind-announcement/index.html"
+  - title: "Biden blasts Republicans for touting Covid relief funds they voted against: 'Some people have no shame' "
+    excerpt: "President Joe Biden on Thursday criticized Republican lawmakers who have touted parts of the Covid-19 economic relief law that benefit their constituents despite having voted against the law, saying: \"Some people have no shame.\"\n    \n"
+    publishedDateTime: 2021-05-27T21:22:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pJFwa-IDoZU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 157
+    quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514113351-01-offshore-wind-farm-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527155040-biden-gop-list-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

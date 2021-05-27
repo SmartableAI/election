@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-states-ramp-up-legal-battles-ag
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies.amp"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -254,6 +254,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5b385bd-529b-4849-bc3f-785b1c0964bb/e676a657-4d89-4bfb-ad99-f10aab3a5ea2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden administration owes Texas hospital caring for migrant minors more than $200,000"
+    excerpt: "A Texas hospital that has been treating migrant children for a range of concerns after their trek across the Southern border has not gotten any reimbursement from the Biden administration for their more than $200,000 in health care costs, the hospital told Fox News Thursday. "
+    publishedDateTime: 2021-05-27T21:03:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P_Hc0n21teI/biden-texas-hospital-migrant-minors"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21127648120735.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "House Republicans reveal answer to Biden's budget, say it could eliminate deficit in 5 years"
     excerpt: "House Republicans on Wednesday are unveiling their answer to President Biden's 2022 budget, putting forward a document that they say can balance the federal budget in five years while cutting taxes by $1.9 trillion."
