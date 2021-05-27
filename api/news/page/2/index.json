@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-26-biden-says-us-sanctions-against-belarus-are-in-play.md",
+      "title": "Biden says U.S. sanctions against Belarus are in play",
+      "excerpt": "President Joe Biden said on Tuesday that U.S. sanctions against Belarus are in play, but declined to offer more details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-belarus-sanctions/biden-says-us-sanctions-against-belarus-are-in-play-idUSKCN2D62SK",
+      "originalUrl": "https://www.reuters.com/article/us-usa-belarus-sanctions/biden-says-us-sanctions-against-belarus-are-in-play-idUSKCN2D62SK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210525&t=2&i=1563384482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4O1EO",
+          "width": 856,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D62SK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SK",
+      "publishedDateTime": "2021-05-25T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-steve-bannons-indictment-dismissed-after-fight-with-prosecutors-over-trump-pardons-reach.md",
       "title": "Steve Bannon’s Indictment Dismissed After Fight With Prosecutors Over Trump Pardon’s Reach",
       "excerpt": "A federal judge dismissed an indictment against former Trump adviser Steve Bannon, declining an unusual request by prosecutors to keep the fraud charges in place despite a presidential pardon.",
@@ -1304,62 +1356,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-2020-rioting-in-kenosha-wisconsin-after-police-killings-hurt-biden-analysis-finds.md",
-      "title": "2020 rioting in Kenosha, Wisconsin after police killings hurt Biden, analysis finds",
-      "excerpt": "A new study of election results in Kenosha, Wisconsin by the Economist suggests that when the last summer's racial protests turned violent, Trump and Republicans benefited at the ballot box.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FATubhe_iKY/kenosha-wisconsin-rioting-police-killings-hurt-biden-analysis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FATubhe_iKY/kenosha-wisconsin-rioting-police-killings-hurt-biden-analysis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kenosha-wisconsin-rioting-police-killings-hurt-biden-analysis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kenosha-wisconsin-rioting-police-killings-hurt-biden-analysis.amp",
-      "publishedDateTime": "2021-05-24T07:56:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

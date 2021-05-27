@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/state-watch/555405-trump-teases-endorse
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/555405-trump-teases-endorsement-in-texas-ag-race?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump says he'll endorse in likely primary battle for Texas AG between Ken Paxton and George P. Bush"
+    excerpt: "Former President Donald Trump is planning to make an endorsement in the likely primary battle between Attorney General Ken Paxton and Land Commissioner George P. Bush. \"I like them both very much,\" Trump said in a statement Tuesday."
+    publishedDateTime: 2021-05-26T21:59:00Z
+    webUrl: "https://www.chron.com/lavoz/news/houston-texas/article/donald-trump-ken-paxton-george-p-bush-16204983.php"
+    ampWebUrl: "https://www.chron.com/news/houston-texas/amp/donald-trump-ken-paxton-george-p-bush-16204983.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/donald-trump-ken-paxton-george-p-bush-16204983.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 60
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump Hasn't Endorsed in Pennsylvania Gov's Race, Aide Says"
     excerpt: "A senior adviser to Donald Trump is taking to Twitter to stress that the former president has made no endorsement of anyone to become governor of Pennsylvania."
     publishedDateTime: 2021-05-20T21:26:00Z
