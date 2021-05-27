@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Members of the George Floyd family Meet with President Biden andVice President Kamala Harris"
-excerpt: "Members of the George Floyd speak to the media outside the West Wing at White House in Washington, DC on Tuesday, May 25, 2021. The Floyd family meet with President Joe Biden and Vice President Kamala Harris in the Oval Office today on the one year anniversary of George Floyds death."
+excerpt: "Members of the George Floyd family including Gianna Floyd, George Floyds daughter; speak to the media outside the West Wing at White House in Washington, DC on Tuesday, May 25, 2021. The Floyd family meet with President Joe Biden and Vice President Kamala Harris in the Oval Office today on the one year anniversary of George Floyds death."
 publishedDateTime: 2021-05-25T20:28:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/903dfea9adc134f8595f120136277886/Members-of-the-George-Floyd-family-Meet-with-President-Biden-andVice-President-Kamala-Harris/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/903dfea9adc134f8595f120136277886/Members-of-the-George-Floyd-family-Meet-with-President-Biden-andVice-President-Kamala-Harris/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/3bc0308487f2515b6d6ac3b889282cf3/Members-of-the-George-Floyd-family-Meet-with-President-Biden-andVice-President-Kamala-Harris/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/3bc0308487f2515b6d6ac3b889282cf3/Members-of-the-George-Floyd-family-Meet-with-President-Biden-andVice-President-Kamala-Harris/"
 type: article
 quality: 59
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/903dfea9adc134f8595f120136277886/FLOYD-WHITE-HOUSE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/3bc0308487f2515b6d6ac3b889282cf3/FLOYD-WHITE-HOUSE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -519,6 +519,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "Hvut+XlvGNIlEsQFkLyF5k0au/7fStuTk1VYZqrQRw7oEhdoQ4T2KPURfKOBKWG8Z1btECuy2WFoyQQkmbsQZKF1YaakR+EKUeUmeNDrkZbDxY2oFR5mFEOHm0Dd9c2vG+iks8yeveqvZEfugCY2MTnDMtd+RueC4euOc//UCY9svaQdnQuwE2pYHPv+bAcVOObaxB7ai0ofiS5fFMN7oKselMZ7+XrHN9XtHEt97NK8agoYFSuTIt/8XabwLMPdO6m1RVT81cBKhVoVZCpYwu0yQvCYqsO1MJuLSnCSBmdju4pxW1faFXc/hndizEqNMCoHlhgBC4QLDXrhqZQGTN1oHIDIz3Bd5KG9J1/IwisHetFEn7f2NoalspS0STwPgbRbUQTOnPWqzcRP7p1qU7uwPttXjkpWWtshCM+PlMP6+f3lrPAAyre43Nr+oceChBxh0Ew88eVfNAzn3ueXaJO9asKzwlKPzCy8SGEj8wyN4TjszImqi3cL6gwJ8CvJREGcHRqscs/65FB2c7wQNg==;UR3ENuhQQJI4pZpLLj6TCA=="
+secured: "d7mAwDr3LaBmZmSr7TpOb9rWV5M+dmHLzAeoGLgnm69xc2GMsqt/itPjZQ4IH8pSeMMYwPeB2CLeeBVfmWJrKxn0y7cdfPw8NDYHvXeyEzHC1aCFBxnjAbcsmf0gtlBNR+CQu82DRzVKZJaNj7+cauR9lEot+Ih2QYEC06NFi4ifgTTajCYkMHtvyYfz9HJ8YaSImvnbatgO3DXxAzIqNK1rYBHD5nyfhYsAGbdfbWqee6p+U5Bz012e7KSJglEd5zq4h1g5tzGib4uBh7qX5IY3ZDEs4BpRIDz6OY00gE/Iv13zg2QhzM6yAEQt7PIskLa/Plm2MZEJWYj3qYlL2Lro6n0jIj/CrhRL95xXxKE=;HQu/zbvVkVtXbQAiyZiUYQ=="
 ---
 

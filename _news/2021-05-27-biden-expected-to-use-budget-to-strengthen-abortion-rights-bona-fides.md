@@ -1,33 +1,34 @@
 ---
 category: news
-title: "'Enough': Biden calls for action on guns in wake of San Jose shooting "
-excerpt: "President Joe Biden on Wednesday urged Congress to \"take immediate action\" on gun legislation in the wake of a shooting in San Jose, California, that killed eight people earlier in the day, noting that he was ordering the flag lowered to half-staff just weeks after other mass shootings around the country.\n"
-publishedDateTime: 2021-05-26T23:32:54Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SONO0tkp-WI/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SONO0tkp-WI/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/biden-san-jose-shooting/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/biden-san-jose-shooting/index.html"
+title: "Biden expected to use budget to strengthen abortion rights bona fides"
+excerpt: "A budget blueprint that omits the Hyde amendment and other anti-abortion provisions could be Biden’s strongest statement yet of his commitment to making the procedure accessible."
+publishedDateTime: 2021-05-27T08:30:00Z
+originalUrl: "https://www.politico.com/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
+webUrl: "https://www.politico.com/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
+ampWebUrl: "https://www.politico.com/amp/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/0c/af/3cd9d7b343529766b46e820f62a8/gettyimages-907233944-1.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -60,6 +61,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025332-01-joe-biden-0521-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Enough': Biden calls for action on guns in wake of San Jose shooting "
+    excerpt: "President Joe Biden on Wednesday urged Congress to \"take immediate action\" on gun legislation in the wake of a shooting in San Jose, California, that killed eight people earlier in the day, noting that he was ordering the flag lowered to half-staff just weeks after other mass shootings around the country.\n"
+    publishedDateTime: 2021-05-26T23:32:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SONO0tkp-WI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/biden-san-jose-shooting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/biden-san-jose-shooting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -319,22 +336,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to use budget to strengthen abortion rights bona fides"
-    excerpt: "A budget blueprint that omits the Hyde amendment and other anti-abortion provisions could be Biden’s strongest statement yet of his commitment to making the procedure accessible."
-    publishedDateTime: 2021-05-27T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/0c/af/3cd9d7b343529766b46e820f62a8/gettyimages-907233944-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "'Enough': Biden renews calls for gun control bill after San Jose rail yard shooting"
     excerpt: "Biden called on Congress to take action on gun control in his first joint address to lawmakers in April, such as banning assault weapons and high-capacity magazines."
     publishedDateTime: 2021-05-26T23:06:00Z
@@ -352,6 +353,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "bC/e9yd23TJaUq7cs2tUw87o6dWC9/W7Hnuoa96bSBUxxxXXCo6UJ5e1mha7p54lQh2VMt4Ki/ni9tbh/Ak/4MyRuCu4xlTV0uulDZyAnz/Q0gZtdPHm4NRqFxsjSQw5KQJeN7ZWjbd9GaIBUjpulGO0UB1KKCpY2MCqPEq7tsgo0xRiO8WNLo97zSDS7epiXs2CCDAq4H5E0cmSC1g6rBYa90QTHINrqH5lbX3Tg3/JOUFHDcT/tP5jiRNLJLOdzzh8HyiPe+LPSStdRNXKh1mgoiCb/bZOVSIXCYiUee2X4UN3Z+vQC0Ssa9Yxh6Dnp9SO0DPMdIUBlYEKzenR9Pdo8Mo1FTlRTCQGice9QGs=;Ep0MP2jcQs1bAYbVz7Wk2A=="
+secured: "N3fI4T5/b0bDZDTF9CDGWAnMo/iX9sUFxMV+gFHqSeJfvbWfsqK87hPossSAEzs8O2zYKJmeXyxLU51rn2VGj6+3o76G6Uwa0SgvsUpb8lgauHSvnaF+RM9L37mWM/OGkzsa+GJRZViAyIIp45yVBbIkVaSbI1CU+Rcm+VEj1hA4cgm903pyw38QJ+STO8XQham/C8wtlihamGXBsfHDJnqNCOb+T+03shmVfcXTBC+o2YAW+ISflbMLaf4uU694HpNZXp30dWYJuN60Kr5rcs6YCJPWfp6q+AkgbUrAYPal1qQ8iLivadCjIkM6q3FUb0hbSQyQ9iF+DgTJsHCBe2A67Edfp4HQVtdQp876f1Y=;mRV4KX9seR/3q6dlpx2p1A=="
 ---
 

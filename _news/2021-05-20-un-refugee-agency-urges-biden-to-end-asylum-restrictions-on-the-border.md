@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524140207-01-biden-fema-0524-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden expected to use budget to strengthen abortion rights bona fides"
+    excerpt: "A budget blueprint that omits the Hyde amendment and other anti-abortion provisions could be Biden’s strongest statement yet of his commitment to making the procedure accessible."
+    publishedDateTime: 2021-05-27T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/0c/af/3cd9d7b343529766b46e820f62a8/gettyimages-907233944-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "'Enough': Biden renews calls for gun control bill after San Jose rail yard shooting"
     excerpt: "Biden called on Congress to take action on gun control in his first joint address to lawmakers in April, such as banning assault weapons and high-capacity magazines."

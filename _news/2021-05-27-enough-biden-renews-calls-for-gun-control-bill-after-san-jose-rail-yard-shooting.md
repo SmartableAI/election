@@ -336,6 +336,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden expected to use budget to strengthen abortion rights bona fides"
+    excerpt: "A budget blueprint that omits the Hyde amendment and other anti-abortion provisions could be Biden’s strongest statement yet of his commitment to making the procedure accessible."
+    publishedDateTime: 2021-05-27T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/0c/af/3cd9d7b343529766b46e820f62a8/gettyimages-907233944-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "hvpJFiKqlTp6aSOVBoCEoGPNpBv9KluJO8VYvkrUxN4SorxBKxuqpA2vFPvEskyDbYslDQM+qmKNjvguHra5uCLwEnM5LiQaoA30XsVR6aye/COEWdm79DrSlH3LvgVi0U0+rqAmWCXwPwYTN81BLZff+vVeap06OJ3875bsuattzVMAgfVLwEZbtetA7JtflqrKDyFYjPADguJbg7DEIeqCNeRynJ6YT/Nd4+O/MBY7xKGuIBSql8ZYrzIHKAivcoaDKxl3zfvJGigZco1T/jACZPU8bW2YggFK+Z5WFzscK8tZThNC29NIia6gYf52xbmYEU8bf/OjYKAbXIcbmBo0ycAOhsJr5PCY/QxLPMQ3bX9k/2roj4ORqNd2GQulAaxIwzCM/OUVg5dSTIHN+v388WEqx5Tf1jthpwSKUBN3ahfbGlc1A8GzJL8dCyeRRvo7KaZLXevHOW/kDqOx+R+XooC47cqXk88lAOanHf2b5MzhmpO4JDd9r1go5ayjU0NiGX7Fu4AEpw4ttBUrHg==;yWd+D5IzaRsCI00QL1nTtg=="
 ---

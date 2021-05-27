@@ -1,22 +1,22 @@
 ---
 category: news
-title: "AP source: Biden picks LA Mayor Garcetti for ambassador post"
-excerpt: "Source: Biden is turning to a longtime political ally to serve as his ambassador to India; timing of announcement unclear."
-publishedDateTime: 2021-05-26T20:00:00Z
-originalUrl: "https://www.usatoday.com/story/news/nation/california/2021/05/26/ap-source-biden-picks-la-mayor-garcetti-ambassador-post/7454909002/"
-webUrl: "https://www.usatoday.com/story/news/nation/california/2021/05/26/ap-source-biden-picks-la-mayor-garcetti-ambassador-post/7454909002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7454909002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7454909002"
+title: "AP source: Biden picks LA mayor, envoy for ambassador posts"
+excerpt: "President Joe Biden is expected to announce former senior State Department official Nicholas Burns to serve as his ambassador to China and Los Angeles Mayor Eric Garcetti to be his ambassador to India"
+publishedDateTime: 2021-05-27T04:09:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-biden-picks-la-mayor-envoy-ambassador-77933220"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-biden-picks-la-mayor-envoy-ambassador-77933220"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-picks-la-mayor-envoy-ambassador-77933220"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-picks-la-mayor-envoy-ambassador-77933220"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/06/04/PPAS/c770217d-e0d4-4735-9b76-9be8376db53a-AP20154830989255.jpg?auto=webp&crop=6239,3510,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s.abcnews.com/images/Politics/WireAP_f1abb22f22674305b048ca101139e7f5_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 1440
         height: 890
         isCached: true
-  - title: "AP source: Biden picks LA mayor, envoy for ambassador posts"
-    excerpt: "President Joe Biden is expected to announce former senior State Department official Nicholas Burns to serve as his ambassador to China and Los Angeles Mayor Eric Garcetti to be his ambassador to India"
-    publishedDateTime: 2021-05-27T04:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-biden-picks-la-mayor-envoy-ambassador-77933220"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-picks-la-mayor-envoy-ambassador-77933220"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-picks-la-mayor-envoy-ambassador-77933220"
+  - title: "AP source: Biden picks LA Mayor Garcetti for ambassador post"
+    excerpt: "Source: Biden is turning to a longtime political ally to serve as his ambassador to India; timing of announcement unclear."
+    publishedDateTime: 2021-05-26T20:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/california/2021/05/26/ap-source-biden-picks-la-mayor-garcetti-ambassador-post/7454909002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7454909002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7454909002"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: USA Today
+      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f1abb22f22674305b048ca101139e7f5_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/presto/2020/06/04/PPAS/c770217d-e0d4-4735-9b76-9be8376db53a-AP20154830989255.jpg?auto=webp&crop=6239,3510,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Calls to deny Communion to Biden for abortion views prompt Catholic soul-searching"
     excerpt: "On paper, Nguyen-Ellis looks like the kind of Catholic who might agree with a push by the American church’s conservative bishops to deny the Eucharist to Catholic politicians, such as President Joe Biden, who support abortion rights. But Nguyen-Ellis ..."
@@ -105,6 +105,6 @@ related:
       domain: abcnews.go.com
     quality: 85
 
-secured: "tCJfWAtYpiAZYm3MaqQBVM/66NrWqyXXs2DEL9KyoSShNC6P7GfCy0htHlybZRkt3DJSoWa2Q9jU1xngaBkD07CKMLL2WthqkET+pc8WjBg61Aj61h9kMYhoMge8v6YQu0jqDu+Q0kpBaWqQlhcV6PH4Ej+LxR4+NKHpTdh0VrVDnIPXXVq5vvOFMZ2UIvwuokK2q9RKoCWzdr6V+ws5x5I6D91+SkNE83arVTS0BSJVF4sZOFiKDj4Morwhy5VHDgXOMn43oirdgkYqnvWcrAQSZX0uiX2Zmrsspl5P+DT6uiCBZYS9Uj6LyB5U//lXo8uKmZzTUIKvZbq0PhngQqWpL5l+bGWcH0/14G1c7ic=;VOULm1RLx5RCrphnGDSbPw=="
+secured: "cYiVz5PkyJ4iXjz/xkAI7RKLdJLNpc79UvlxF8s6ry4H1xFf1yVHbhU4EIprP3LIDWHBJwoBdqfv4u+Zq4ukIVBVRlyuYGQUnxZMaUNfu+/VG24yJhEa1vpT5/R7rtma/7/+/MLcoSA6gAkKaGM9tGOha4h+15sQ61k3xl16RbgYvMzxMdMHCd/LneCf+1tl80lfmHBzSH+Nfm3+JjqcXPNs74bqkZUm/B4iPPKRWRXTZ/bo09WeqLO13anSdOhtIcPZmVsKW2YqCc9po3SAGSO7cf61WdMhS7QsSQ/zXL5ldcRoOUDN9MMVKAAU/GTqJiiSHDGfIvG7LxW5INiNkej9iv2I/9w8L6waumqxc50=;I7IPAFycW4eIYT7rP2v19A=="
 ---
 

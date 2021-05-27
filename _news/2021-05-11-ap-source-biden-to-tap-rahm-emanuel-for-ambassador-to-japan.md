@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AP source: Biden picks LA mayor, envoy for ambassador posts"
+    excerpt: "President Joe Biden is expected to announce former senior State Department official Nicholas Burns to serve as his ambassador to China and Los Angeles Mayor Eric Garcetti to be his ambassador to India"
+    publishedDateTime: 2021-05-27T04:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-biden-picks-la-mayor-envoy-ambassador-77933220"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-picks-la-mayor-envoy-ambassador-77933220"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-picks-la-mayor-envoy-ambassador-77933220"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f1abb22f22674305b048ca101139e7f5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "AP source: Biden picks LA Mayor Garcetti for ambassador post"
     excerpt: "Source: Biden is turning to a longtime political ally to serve as his ambassador to India; timing of announcement unclear."
     publishedDateTime: 2021-05-26T20:00:00Z

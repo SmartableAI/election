@@ -3,8 +3,8 @@ category: news
 title: "Trump says he'll endorse in likely primary battle for Texas AG between Ken Paxton and George P. Bush"
 excerpt: "Former President Donald Trump is planning to make an endorsement in the likely primary battle between Attorney General Ken Paxton and Land Commissioner George P. Bush. \"I like them both very much,\" Trump said in a statement Tuesday."
 publishedDateTime: 2021-05-26T21:59:00Z
-originalUrl: "https://www.chron.com/lavoz/news/houston-texas/article/donald-trump-ken-paxton-george-p-bush-16204983.php"
-webUrl: "https://www.chron.com/lavoz/news/houston-texas/article/donald-trump-ken-paxton-george-p-bush-16204983.php"
+originalUrl: "https://www.chron.com/news/houston-texas/article/donald-trump-ken-paxton-george-p-bush-16204983.php"
+webUrl: "https://www.chron.com/news/houston-texas/article/donald-trump-ken-paxton-george-p-bush-16204983.php"
 ampWebUrl: "https://www.chron.com/news/houston-texas/amp/donald-trump-ken-paxton-george-p-bush-16204983.php"
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/donald-trump-ken-paxton-george-p-bush-16204983.php"
 type: article
@@ -53,6 +53,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "n7PtxSwDpuW6hn8JUZC2DzmQ3fyHrfDrg3A2eZRaFOSbhjeyl2dCtYJnkxbi0xIUVrA3F2Iq2pZECmS8xRNJlKlFMmIEyF1M/uDhraKxM7YaTCaV1+JUfbbfLJZeUKvYMdZxptDz+/vG74bWBRu+YXQ6MtgR9mrHWXK+ADQY45c+4LMWykAQwemDdj66d4G093PU5zu7UvRJ/gXvvivebdSDr4F61SFky2iCWTp321M5ekWZ3J1wK0+VZ4DpdIxWNbSxoyBUownOMDr/VgUU+UTK48vPXlM71J1YLNeS/hwAfEKvDMypWl4hxpnu26TJcUTGxJ4/Ls/4vLIhqqy/uNXFcaFkfwmNSrvbENCW7KY=;nuWFrrUxZUre7GxH20pDYQ=="
+secured: "nfxlGqJtsVzkKFrJUng8ceJgYtlN0Vk85j6PXl67HKVkDDTIAJnwHFZ08D8PsfkRHNcDmgVlgqCDJ2xct9p0fj2W4k+txDbs4agJv78DfkYGxfbxt1SU7wFXyTIk9xNGgIk7PDQKxu6b+4VpUBBBjNnXpGwyUpZmCk9WNZ2xRRmphq6ZIeSQSkaGdYffqM4VPxJnaX67oAaivs9PX50QAaUlqbWSO7ucW5KSHy8aG78dgLrBR+mFkZGc0rSE8PMLNN4q9NljMzo26e43G2Ry9LvqfCr06udgW9zuHB0fDuo33MwJeLXmOPIzBAUUjjrT3GzkiINr6hN1uRfsfDcusOO74DoYinzaZRRP9gJ9Lpc=;EAErzwkLEtnlfg4XxOyLvw=="
 ---
 

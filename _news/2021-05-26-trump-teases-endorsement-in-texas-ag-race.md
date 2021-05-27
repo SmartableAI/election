@@ -34,7 +34,7 @@ related:
   - title: "Trump says he'll endorse in likely primary battle for Texas AG between Ken Paxton and George P. Bush"
     excerpt: "Former President Donald Trump is planning to make an endorsement in the likely primary battle between Attorney General Ken Paxton and Land Commissioner George P. Bush. \"I like them both very much,\" Trump said in a statement Tuesday."
     publishedDateTime: 2021-05-26T21:59:00Z
-    webUrl: "https://www.chron.com/lavoz/news/houston-texas/article/donald-trump-ken-paxton-george-p-bush-16204983.php"
+    webUrl: "https://www.chron.com/news/houston-texas/article/donald-trump-ken-paxton-george-p-bush-16204983.php"
     ampWebUrl: "https://www.chron.com/news/houston-texas/amp/donald-trump-ken-paxton-george-p-bush-16204983.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/donald-trump-ken-paxton-george-p-bush-16204983.php"
     type: article

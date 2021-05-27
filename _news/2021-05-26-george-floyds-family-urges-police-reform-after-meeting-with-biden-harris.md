@@ -401,16 +401,16 @@ related:
         height: 720
         isCached: true
   - title: "Members of the George Floyd family Meet with President Biden andVice President Kamala Harris"
-    excerpt: "Members of the George Floyd speak to the media outside the West Wing at White House in Washington, DC on Tuesday, May 25, 2021. The Floyd family meet with President Joe Biden and Vice President Kamala Harris in the Oval Office today on the one year anniversary of George Floyds death."
+    excerpt: "Members of the George Floyd family including Gianna Floyd, George Floyds daughter; speak to the media outside the West Wing at White House in Washington, DC on Tuesday, May 25, 2021. The Floyd family meet with President Joe Biden and Vice President Kamala Harris in the Oval Office today on the one year anniversary of George Floyds death."
     publishedDateTime: 2021-05-25T20:28:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/903dfea9adc134f8595f120136277886/Members-of-the-George-Floyd-family-Meet-with-President-Biden-andVice-President-Kamala-Harris/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3bc0308487f2515b6d6ac3b889282cf3/Members-of-the-George-Floyd-family-Meet-with-President-Biden-andVice-President-Kamala-Harris/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 59
     images:
-      - url: "https://cdnph.upi.com/pv/upi/903dfea9adc134f8595f120136277886/FLOYD-WHITE-HOUSE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/3bc0308487f2515b6d6ac3b889282cf3/FLOYD-WHITE-HOUSE.jpg"
         width: 650
         height: 433
         isCached: true

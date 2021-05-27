@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-gover
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
 type: article
 quality: 131
-heat: 291
+heat: 311
 published: true
 
 provider:
@@ -118,6 +118,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 89
+  - title: "Joe Biden under pressure from Democrats over infrastructure package"
+    excerpt: "Joe Biden is facing growing pressure from both flanks of the Democratic party as the US president negotiates his $2.3tn infrastructure package, between moderates who want him to strike a deal with Republicans and progressives who are urging him to walk away from the negotiating table."
+    publishedDateTime: 2021-05-27T09:00:00Z
+    webUrl: "https://www.ft.com/content/f60e617c-d3ae-46a9-895b-37a25820a9c2"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 85
   - title: "Survey experts have yet to figure out what caused the most significant polling error in 40 years in Trump-Biden race"
     excerpt: "More than six months after the astonishing polling embarrassment in the 2020 U.S. elections, survey experts examining what went wrong are uncertain about what led to the sharpest discrepancy between the polls and popular vote outcome since Ronald Reagan defeated Jimmy Carter in a near-landslide in 1980."
     publishedDateTime: 2021-05-20T12:03:00Z

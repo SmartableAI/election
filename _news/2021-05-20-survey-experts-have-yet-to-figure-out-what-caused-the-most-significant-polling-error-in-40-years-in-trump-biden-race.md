@@ -130,6 +130,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 89
+  - title: "Joe Biden under pressure from Democrats over infrastructure package"
+    excerpt: "Joe Biden is facing growing pressure from both flanks of the Democratic party as the US president negotiates his $2.3tn infrastructure package, between moderates who want him to strike a deal with Republicans and progressives who are urging him to walk away from the negotiating table."
+    publishedDateTime: 2021-05-27T09:00:00Z
+    webUrl: "https://www.ft.com/content/f60e617c-d3ae-46a9-895b-37a25820a9c2"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 85
   - title: "Joe Biden remarks on the Middle East"
     excerpt: "U.S. President Joe Biden deliver remarks on the Middle East in the Cross Hall at the White House in Washington on Thursday, May 20, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-05-20T23:24:00Z

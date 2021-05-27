@@ -1,34 +1,26 @@
 ---
 category: news
-title: "Biden DOJ seeks to block the release of a 2019 memo that outlined reasons not to prosecute Trump after the Mueller report"
-excerpt: "Attorney General Bill Barr had cited this memo as one of his reasons not to charge Trump with obstruction of justice following the Mueller report."
-publishedDateTime: 2021-05-25T15:51:00Z
-originalUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5"
-webUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5"
-ampWebUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
+title: "Joe Biden under pressure from Democrats over infrastructure package"
+excerpt: "Joe Biden is facing growing pressure from both flanks of the Democratic party as the US president negotiates his $2.3tn infrastructure package, between moderates who want him to strike a deal with Republicans and progressives who are urging him to walk away from the negotiating table."
+publishedDateTime: 2021-05-27T09:00:00Z
+originalUrl: "https://www.ft.com/content/f60e617c-d3ae-46a9-895b-37a25820a9c2"
+webUrl: "https://www.ft.com/content/f60e617c-d3ae-46a9-895b-37a25820a9c2"
 type: article
-quality: 115
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: The Financial Times
+  domain: ft.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
-
-images:
-  - url: "https://i.insider.com/60acbd9abee0fc0019d593b6?width=1200&format=jpeg"
-    width: 1200
-    height: 600
-    isCached: true
+  - Joe Biden
 
 related:
   - title: "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts"
@@ -93,6 +85,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden DOJ seeks to block the release of a 2019 memo that outlined reasons not to prosecute Trump after the Mueller report"
+    excerpt: "Attorney General Bill Barr had cited this memo as one of his reasons not to charge Trump with obstruction of justice following the Mueller report."
+    publishedDateTime: 2021-05-25T15:51:00Z
+    webUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/60acbd9abee0fc0019d593b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20"
     excerpt: "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency"
     publishedDateTime: 2021-05-17T23:55:00Z
@@ -118,15 +126,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 89
-  - title: "Joe Biden under pressure from Democrats over infrastructure package"
-    excerpt: "Joe Biden is facing growing pressure from both flanks of the Democratic party as the US president negotiates his $2.3tn infrastructure package, between moderates who want him to strike a deal with Republicans and progressives who are urging him to walk away from the negotiating table."
-    publishedDateTime: 2021-05-27T09:00:00Z
-    webUrl: "https://www.ft.com/content/f60e617c-d3ae-46a9-895b-37a25820a9c2"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 85
   - title: "Survey experts have yet to figure out what caused the most significant polling error in 40 years in Trump-Biden race"
     excerpt: "More than six months after the astonishing polling embarrassment in the 2020 U.S. elections, survey experts examining what went wrong are uncertain about what led to the sharpest discrepancy between the polls and popular vote outcome since Ronald Reagan defeated Jimmy Carter in a near-landslide in 1980."
     publishedDateTime: 2021-05-20T12:03:00Z
@@ -158,6 +157,6 @@ related:
         height: 433
         isCached: true
 
-secured: "lBX7wiK3VRldkrcZdO4jjbH1PQwHVsnHAcEA1L6yFOkIY6XIdAwJSlCqU52GCfSYCu2G/+pYQhd6KyU/uHP4gE5S7rOjt57zbt1J/c0oAW9t6viOKSGaW+KCbSx0tM5+8lht+Qlw0KKFI0a4HLH1RyVrO8E2fpO7RHqCOMbHhCzWV9OCtNntvsiXwSm1x8c9Yo0i9FDrtjoNKAveTWjmdoyaHCSmzIOb6V79yLZP95jF+DESgF3UHZAzMItel2/8mzmo8NPASj0TCwkOqEDc7VSulQvE0dTpLPABGvD13F8vCFV2qyFsnUN2JVGqpQrp43HQKSZfzNGS/4TOSeGYdQ5w2Uufk3vc8dK+9iDzbM8=;xNOTcp2pZY4Hk5dTFr5QEg=="
+secured: "52ws05lxK8RgRuPIu7PZzxblpmWnY8qvOS9QNpU8ckfoPTU+0DWCRowZv7PQyP3hol4jK+6VB+ECT5eo+8i+kaSZOYBF4iNX876DRnC86iVP9eiJK07cnvQ8l26r7qhTRI+bpLy9L9Dz87jFk1N1RoLmoErJQn+JDTuKq/gpayDdWB7ubVLU5eq8CecTBK/2gmaLiIXw4GkiezY9WRLCUnbn8G9PjGM/G5J/2YJ8gjgeqnwGRGMxIMw6riLRuz3PNot2zhTw4AiXe2ZdCkWOfyqcop9El4JC6iskbUh84x3x+9Cm9eVJhX4VX1stjMP32xl0TVcke3R4fb3Q2O7nOgAaQheTpkY/zwvdml7iWkCGsIk+oygO3mp0sMvNLkFbiyXCIxgx5Xxkd9ykBhc5kRs7hIxLFB1YJzegcQmArcehCNU5SQFy02ITdcRuNGXYflljtBcMwLn3wgYjcB7EMdQkg4xA15kGS/rNkiC2WL6OkkGCnne8sXqKX2r6/XujrHo6biJkKdpt1LSLEWwrHA==;F28bwQYNAFQWGI9oIT+ElA=="
 ---
 
