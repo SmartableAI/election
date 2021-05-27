@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512132815-tony-blinken-sergey-lavrov-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP counters Biden's infrastructure plan with $928 billion offer as President's adviser slams opposition"
+    excerpt: "One of President Joe Biden's closest advisers is rallying allies to embrace White House proposals that have come under sharp criticism from Republicans as the President moves to put the spotlight back on his sweeping economic agenda Thursday.\n    \n"
+    publishedDateTime: 2021-05-27T13:43:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YuQw8dkjJ7s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/biden-economy-cleveland/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/biden-economy-cleveland/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525110556-bidens-infrastructure-plan-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

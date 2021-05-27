@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 838
         isCached: true
+  - title: "Donald Trump offered money to Sen. Arlen Specter to ‘lay off Patriots’ over Spygate, senator’s son claims"
+    excerpt: "If you laid off the Patriots, there’d be a lot of money in Palm Beach,” Donald Trump, the real estate licensing and reality TV mogul, allegedly told Sen. Arlen Specter, according to the longtime Pennsylvania senator’s son,"
+    publishedDateTime: 2021-05-27T13:47:00Z
+    webUrl: "https://www.masslive.com/sports/2021/05/donald-trump-offered-money-to-sen-arlen-specter-to-lay-off-patriots-over-spygate-senators-son-claims.html"
+    ampWebUrl: "https://www.masslive.com/sports/2021/05/donald-trump-offered-money-to-sen-arlen-specter-to-lay-off-patriots-over-spygate-senators-son-claims.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/sports/2021/05/donald-trump-offered-money-to-sen-arlen-specter-to-lay-off-patriots-over-spygate-senators-son-claims.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 58
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P46TW3RECVE5NLX4YGGDMNGERA.jpg"
+        width: 2000
+        height: 1352
+        isCached: true
 
 secured: "PnFjH3rWQgz8Nn5YuW3ZdAgTZvs9KRMe7DSzzL46Ke5qGuKXZA0Z/T+xJvOOXgV56DedwZHSXngdNsXVjA8zs94BqI3QOehi5AuU5kyFjdvaV50Ha+4rWoTB8R2g1qdTcR4r0tFwF9oUJnwJGOgCUbAGaKqZVRgnriwFLVmDhdM+2VrElEtHPucoIA9FzgFjLCzo1GBSIHfw2UZTgJOWetN7OvySa8xn4AL/7Oz43iiDC++7j/krZrAPSOgpRWTG8kzR/fUVpSFOfw0EQns725mBigGymsIjkoeLVz/1yNf0al5cd62LnLx9QR3t36s10kDd6fMyjfRzei2a4X7QvuOm9ocSML16NFz/Sa8MpC0ubUGh9wzhV1wE6nOEY05SlD9uomNLtr09eKhAucOyBqcXKpjHkNHBJa2aE8ccpOLytKvSXaVTaxsfPEx+aequLrJ3Zd2uOn57YGRy27xzB2FV6YOk7eOdsAMA4VN7IhCy6DXlAqcGivKnNd2l/qLPh+uiHkVIM4ShvSW4JT5Z6g==;ir88SgiNpv2eXjj6wEqF5A=="
 ---

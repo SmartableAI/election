@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-intel-community-covid-origin-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intel-community-covid-origin-probe-lab-leak-theory.amp"
 type: article
 quality: 167
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden Orders More Intel Investigation of COVID-19 Origin"
+    excerpt: "President Joe Biden ordered U.S. intelligence officials to redouble their efforts to investigate the origins of the"
+    publishedDateTime: 2021-05-27T12:16:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/27/biden_orders_more_intel_investigation_of_covid-19_origin_145838.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/27/biden_orders_more_intel_investigation_of_covid-19_origin_145838.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/27/biden_orders_more_intel_investigation_of_covid-19_origin_145838.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/544333_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "q5+IjisCdi9Evd8CNtSsVX6hIDUqqvOwsn67aKsc/CKoypSu6J+fE7PCRYVajKZznXOO4UwhxkvEA/9sTWJI4UMCIczcgVRlqNbqq0fzqga8WDqmhgR9H0qa03qnOX5i0zAJkyvp0VUZGaTBsJbIOAlkltrNMxXAa/5kZsq5SpdezTW52IHTqG3cg0pa8uGL/v9QWX0p9LTBrYQKu9earkQiknbQSO1fkPBysicZmm9D9NIBdaAHshWJyPGpqOxMQ2Wq0PfVKC1t4M7T+K2pu48q7yr8iPcrAU4qBss/lyO32CD9cspJKzSpkasNtjG+Qin0/BuNQuudb+7unsOqcmHaZqD7clENSGRKIi8T+Cw=;2Suvv97Y8YXU/+o87ReiCA=="
 ---

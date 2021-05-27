@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP counters Biden's infrastructure plan with $928 billion offer as President's adviser slams opposition"
+    excerpt: "One of President Joe Biden's closest advisers is rallying allies to embrace White House proposals that have come under sharp criticism from Republicans as the President moves to put the spotlight back on his sweeping economic agenda Thursday.\n    \n"
+    publishedDateTime: 2021-05-27T13:43:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YuQw8dkjJ7s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/biden-economy-cleveland/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/biden-economy-cleveland/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525110556-bidens-infrastructure-plan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Advocates push for Biden to use his executive powers to grant clemency for hundreds of women in federal prisons "
     excerpt: "Miquelle West was 10 when she learned the harsh realities about the criminal justice system as her mother was handed two life sentences plus 50 years in a federal lockup for a conspiracy drugs case that was connected to a murder.\n    \n"
     publishedDateTime: 2021-05-19T12:02:40Z

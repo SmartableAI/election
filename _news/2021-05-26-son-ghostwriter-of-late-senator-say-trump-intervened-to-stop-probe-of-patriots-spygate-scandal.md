@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778"
 type: article
 quality: 112
-heat: 152
+heat: 172
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/0UpW9o965_lOoPLetAi3riLkZtQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2U5LCWW2NZE2BOSLEGVAG6VMWY.jpg"
         width: 1200
         height: 838
+        isCached: true
+  - title: "Donald Trump offered money to Sen. Arlen Specter to ‘lay off Patriots’ over Spygate, senator’s son claims"
+    excerpt: "If you laid off the Patriots, there’d be a lot of money in Palm Beach,” Donald Trump, the real estate licensing and reality TV mogul, allegedly told Sen. Arlen Specter, according to the longtime Pennsylvania senator’s son,"
+    publishedDateTime: 2021-05-27T13:47:00Z
+    webUrl: "https://www.masslive.com/sports/2021/05/donald-trump-offered-money-to-sen-arlen-specter-to-lay-off-patriots-over-spygate-senators-son-claims.html"
+    ampWebUrl: "https://www.masslive.com/sports/2021/05/donald-trump-offered-money-to-sen-arlen-specter-to-lay-off-patriots-over-spygate-senators-son-claims.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/sports/2021/05/donald-trump-offered-money-to-sen-arlen-specter-to-lay-off-patriots-over-spygate-senators-son-claims.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 58
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P46TW3RECVE5NLX4YGGDMNGERA.jpg"
+        width: 2000
+        height: 1352
         isCached: true
 
 secured: "UJqAnOhESVFtKVIyknrjxqdhsYprwRSnfIt5kXFM7DbJTODyErQRYg+nf8vweGhrppGC2mqUVLsilWs5MKCx2iB3G9pm9H2IQ5gl0O6hGwZew8os9oO9ljNdbSbBhZdUt4ooZ//QAb9+qLaYFJ5RVvQaDnhKaRhv9nPpkbKtihmsi2iegCiCJWfmi5aniAIt0XrF1PEX2td0GiEIBTCriKCEWoFhRRvs1NxMDAdIzf4E9Byuez1U1iIFmMNmywVqpvp0sixCv/uHNTwzl9zSqIlw/vIv+olSisGq4FJxKDOQUM65EHrplaEGa/PuDjWtrWg+hv/KRKqgU+NB7Ux3aYSi0lhCEyxGz2ilrL3KXfU=;4W0XNlbjcmR01dSVmfkTeA=="

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "House GOP revolt against Trump sets up tough Senate battle on January 6 probe"
-excerpt: "Thirty-five House Republicans chose the truth and American democracy over Donald Trump's personality cult. Now their Senate colleagues face the same battle of conscience over the effort to investigate the Capitol insurrection.\n    \n"
-publishedDateTime: 2021-05-20T06:58:16Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L-vLpdc8J3Y/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L-vLpdc8J3Y/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html"
+title: "Paul Ryan to enter GOP's civil war by criticizing Trump's hold on party"
+excerpt: "Former House Speaker Paul Ryan is set to criticize former President Donald Trump and his hold on the Republican Party during a speech Thursday night, according to excerpts obtained by CNN.\n    \n"
+publishedDateTime: 2021-05-27T12:22:57Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wiRgtgBedXw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wiRgtgBedXw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/paul-ryan-donald-trump-gop-reagan-presidential-library-republicans/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/paul-ryan-donald-trump-gop-reagan-presidential-library-republicans/index.html"
 type: article
-quality: 172
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519123436-mcconnell-gop-0518-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/181030173316-01-paul-ryan-1008-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Paul Ryan to enter GOP's civil war by criticizing Trump's hold on party"
-    excerpt: "Former House Speaker Paul Ryan is set to criticize former President Donald Trump and his hold on the Republican Party during a speech Thursday night, according to excerpts obtained by CNN.\n    \n"
-    publishedDateTime: 2021-05-27T12:22:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wiRgtgBedXw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/paul-ryan-donald-trump-gop-reagan-presidential-library-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/paul-ryan-donald-trump-gop-reagan-presidential-library-republicans/index.html"
+  - title: "House GOP revolt against Trump sets up tough Senate battle on January 6 probe"
+    excerpt: "Thirty-five House Republicans chose the truth and American democracy over Donald Trump's personality cult. Now their Senate colleagues face the same battle of conscience over the effort to investigate the Capitol insurrection.\n    \n"
+    publishedDateTime: 2021-05-20T06:58:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L-vLpdc8J3Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181030173316-01-paul-ryan-1008-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519123436-mcconnell-gop-0518-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 549
         isCached: true
 
-secured: "PbkMUATOzViqeciEKDpLhx7NTygP/fluDce/7F2dyVm4esafS3xHae2c3LsPFN+pB++liZEXUdmWP7vnaDyvF6sQG3AUoK1CA5I950d36A2m7Ij8nqNgZmVtUNhl368fNfPpaMaXJM7hPyYTF4rl3ZHMUMdXpoaegO5if/Dj3zDlR8+iAGbZ0ZBpbvHU8LudOPuJAvdzLdUg3DtrdxEnBPRxKcFO2zf5x45JbTc4tD/Tp25Csf1uemJEKa1J3SIuCsQIFscVF+ISSV11zZ6A1xNR710PjJX0fjZEx95dfutUorlB3i8wlaP/rTfrwefQGRD/wAmiKha8g2KqZfqWa7kX/vMKS7ISxW1UGFTwLo4=;4GwTNtIcCuLKcb/Gcq8gew=="
+secured: "U6icePlQtTour7BUzX3OPtUAWIrf29TttlFY2PWp1MYV6N0+JU3SNxLx2xGFbNPep754Q/sK056Y+3CET9ZcOT0wUFY8GD1TGXyqZfF4k5vdznyYSQGtFAVBYGrAlhniEplHokzo8/L/IHPcaw7+J11geNDMWFTB4uhqj4E5KD9/nSwJQilMxj+rsv8wfl2vbHEqOAWVSO2vWSExR3np/bOjm2U8/nwukAXJ0b+gwCj38mUM83ZDgqbC3hz5PJtdB3t1GLx1QyREG6C2DBX9vnFNkJft3USH/ST1SF5fjLtAYiDdempI2Y07F2R3SrybTxfNt/VJ/K66TcSvMFlFu/tGDZXAD6XMmjvX8+jV3A4=;uiVRlDN3qBHLQ8lrolo4Sw=="
 ---
 

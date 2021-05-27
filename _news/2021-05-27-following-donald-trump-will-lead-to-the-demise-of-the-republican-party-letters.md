@@ -171,6 +171,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Grand jury convened in Trump investigation in..."
+    excerpt: "Watch \"A grand jury has been convened to weigh whether Pres. Trump should face charges in connection with an ongoing investigation by the Manhattan's Distric\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2021-05-27T04:15:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210527041537-a-grand-jury-has-been-convened-to-weigh-whether-pres-trump-should-face-charges-in-connection-with-an-ongoing-investigation-by-the-manha/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/05/27/story_10552831_1622089144.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
     excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
     publishedDateTime: 2021-05-20T19:25:00Z

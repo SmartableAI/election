@@ -173,6 +173,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Grand jury convened in Trump investigation in..."
+    excerpt: "Watch \"A grand jury has been convened to weigh whether Pres. Trump should face charges in connection with an ongoing investigation by the Manhattan's Distric\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2021-05-27T04:15:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210527041537-a-grand-jury-has-been-convened-to-weigh-whether-pres-trump-should-face-charges-in-connection-with-an-ongoing-investigation-by-the-manha/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/05/27/story_10552831_1622089144.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump's Ex-Advisor Says COVID-19 Pandemic Was Fabricated To Control 2020 Elections"
     excerpt: "Donald Trump’s former National Security Advisor Michael Flynn has alleged that the COVID-19 pandemic was fabricated to control the 2020 U.S. election. Flynn, a retired general who is one of the most well-known figures in the QAnon conspiracy theory,"
     publishedDateTime: 2021-05-24T02:26:00Z

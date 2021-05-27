@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP counters Biden's infrastructure plan with $928 billion offer as President's adviser slams opposition"
+    excerpt: "One of President Joe Biden's closest advisers is rallying allies to embrace White House proposals that have come under sharp criticism from Republicans as the President moves to put the spotlight back on his sweeping economic agenda Thursday.\n    \n"
+    publishedDateTime: 2021-05-27T13:43:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YuQw8dkjJ7s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/biden-economy-cleveland/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/biden-economy-cleveland/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525110556-bidens-infrastructure-plan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden wants to bring the economy from relief to recovery. A labor shortage may signal trouble for those plans."
     excerpt: "Patti Eisenbraun had been anxiously waiting for the pandemic to subside so the dining room and patio at the Brown Iron Brewhouse would be bustling once again.\n    \n"
     publishedDateTime: 2021-05-18T11:50:47Z

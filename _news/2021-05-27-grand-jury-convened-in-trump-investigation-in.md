@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes"
-excerpt: "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April."
-publishedDateTime: 2021-05-23T22:53:00Z
-originalUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
-webUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5223698001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5223698001"
+title: "Grand jury convened in Trump investigation in..."
+excerpt: "Watch \"A grand jury has been convened to weigh whether Pres. Trump should face charges in connection with an ongoing investigation by the Manhattan's Distric\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+publishedDateTime: 2021-05-27T04:15:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210527041537-a-grand-jury-has-been-convened-to-weigh-whether-pres-trump-should-face-charges-in-connection-with-an-ongoing-investigation-by-the-manha/"
+webUrl: "https://www.cbsnews.com/live/video/20210527041537-a-grand-jury-has-been-convened-to-weigh-whether-pres-trump-should-face-charges-in-connection-with-an-ongoing-investigation-by-the-manha/"
 type: article
-quality: 131
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/05/27/story_10552831_1622089144.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -46,6 +44,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/aab738d46a9b2e7ce009c676cb4f62f8d94df627/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43f3841ea4390c7aede36e6dd996a695"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes"
+    excerpt: "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April."
+    publishedDateTime: 2021-05-23T22:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5223698001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5223698001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "New grand jury seated to probe Trump business dealings, reports say"
     excerpt: "The panel is expected to decide whether to indict Trump, other executives at his company or the company itself, The Washington Post says."
@@ -159,20 +173,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Grand jury convened in Trump investigation in..."
-    excerpt: "Watch \"A grand jury has been convened to weigh whether Pres. Trump should face charges in connection with an ongoing investigation by the Manhattan's Distric\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
-    publishedDateTime: 2021-05-27T04:15:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210527041537-a-grand-jury-has-been-convened-to-weigh-whether-pres-trump-should-face-charges-in-connection-with-an-ongoing-investigation-by-the-manha/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/05/27/story_10552831_1622089144.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
     excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
     publishedDateTime: 2021-05-20T19:25:00Z
@@ -275,6 +275,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "KrVruIEnfed5qVrOsxfm0CqEA+hM+FYbw6HQ3f+gEusSR9Wy5h97JbitMyk4zx+8aYit4elOsEkjtlLK2+DSGDyCj22g93fOYpy2Y/pNV/lGSoUAQ8+8T8is1LzN13p8VTs2EZXQ5KfBINsQMxJ37M+w4iXPsYhH5rJJMVrcQYeo6DTnlz3SZYc4Ryrll9L7R/QIGImUVn2gm9P65q9AJoHANWvdIw+9bEJFlFB8bRSfMS6wrbcW91+Cvd41J5YkxJpecTXaTA41nMTwDZLxFk2Q1H8z9vftGSq8FSFPKE30A+ci/KhIeW0Ut+ROSsu6ORzLp88P54zPaohdkT0bKMZzDRzSLneMc7kBFacJuiY2sDQqZqHXd2r1u5gx4RHRjAxrd4YzRLzSmQ4YULS8g23aLS375VJjsEbXPbjyH7uYD/dx9yzD2B6epU/259aA6JzoeRQjX/rWxvE8i+CbG7ZSYlKQYBXUrG7xL3yK3yA3pcXscnrE4n0C8AgWf1rhrTmGK2ELMQVy8niteQr8gQ==;4nKd5LxwC40+Awf5uCBs8w=="
+secured: "eLOdVpJU748NZNco5nXdXyanvAXQHuuooneduhFzDbqiWGRL1nC5O1IuL7nns4i0Xxqu97XVpktzRmTCWUBOmCr8l4wB3VU/rpDxXp4gMk7p9GSrCaPcLV31RGVZAsm+yX2nLEU0jl0ToJDkoF6bAJgwceDBaxhMeF9qBpoNtKG71JfzH4ncXQBWba8SjRhbkiX2cnvHdXPA6cl9sfHsX8zGcMsU7sInyRKZjyS6FlnZcgp+ppO7cl5WSZ33UQWdI9bmxn8oUJa3+h7B3Xq5LitV7tVnvHSmNDQcCJiF6EE/5Ixy/3+mUmCQLa2FcXBlhQpZENscyqlTKx3cdnOcY0iSAGD2cUueXjIJKQnYAUM=;/d44zVQ4Ei8zKBq5u8lkrA=="
 ---
 

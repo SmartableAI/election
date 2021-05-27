@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/closer-look-at-air-force-one-and-b
 webUrl: "https://www.businessinsider.com/closer-look-at-air-force-one-and-biden-presidential-motorcade-2021-5"
 type: article
 quality: 91
-heat: 131
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,37 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "President Joe Biden to visit Cleveland next week, marking second Ohio trip this year"
-    excerpt: "President Joe Biden will visit Cleveland next week, marking his second trip to Ohio this year. White House officials said Wednesday that Biden will deliver remarks about the economy during his trip May 27."
-    publishedDateTime: 2021-05-19T22:21:00Z
-    webUrl: "https://www.cincinnati.com/story/news/2021/05/19/president-joe-biden-visit-cleveland-ohio-may-27/5173738001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5173738001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5173738001"
+  - title: "Biden to propose $6 trillion U.S. budget for 2022 fiscal year -NYT"
+    excerpt: "President Joe Biden will seek $6 trillion in U.S. federal spending for the 2022 fiscal year, rising to $8.2 trillion by 2031, the New York Times reported on Thursday, a day before the White House is expected to unveil its budget proposal."
+    publishedDateTime: 2021-05-27T12:55:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-propose-6-trillion-us-budget-2022-fiscal-year-nyt-2021-05-27/"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 68
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/110829cb56c19181e8e5ed866a9c55ca2ff254a7/c=0-92-1763-1084/local/-/media/2021/04/28/Somerset/6e297bd498304b83f7e13c262caa39a7.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://www.reuters.com/resizer/5HgTgTiTA7jNogU_j6BneiGM1D4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TLU3CX4B6NP4RIH2GN5UDDFTII.jpg"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
-  - title: "President Joe Biden will boost his economic policies in Thursday visit to Tri-C in Cleveland"
-    excerpt: "WASHINGOTN, D.C. - President Joe Biden will visit Cuyahoga Community College in Cleveland on Thursday to deliver a speech on the economy that his principal deputy press secretary said will “make a clear case that his economic plan is working."
-    publishedDateTime: 2021-05-26T19:41:00Z
-    webUrl: "https://www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html?outputType=amp"
+  - title: "58% of Americans support President Joe Biden’s multi-trillion dollar bills on jobs, education and families, poll shows"
+    excerpt: "Invest in America, a research group, and Data for Progress, a progressive think tank, surveyed more than 1,200 likely voters in mid-May, with 58% of those polled supporting Biden’s spending plans, even if Democrats must pass them without Republican support."
+    publishedDateTime: 2021-05-23T18:25:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2021/05/58-of-americans-support-president-joe-bidens-multi-trillion-dollar-bills-on-jobs-education-and-families-poll-shows.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2021/05/58-of-americans-support-president-joe-bidens-multi-trillion-dollar-bills-on-jobs-education-and-families-poll-shows.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/05/58-of-americans-support-president-joe-bidens-multi-trillion-dollar-bills-on-jobs-education-and-families-poll-shows.html?outputType=amp"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 64
+      name: MassLive
+      domain: masslive.com
+    quality: 51
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GIIJELYXUNGARCQJNW5YFLGTFE.jpg"
-        width: 6000
-        height: 4000
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BMCKCLT5HFE3DM4KZHVOK4MTCY.jpeg"
+        width: 5448
+        height: 3632
         isCached: true
 
 secured: "SrGnFv3QEplB4DXOSIeZlyqIE/G1wpNtOKiWDvTfPB/h60H+5BQGnkZaGs3qMw9xaEhl//kiLs5sN+jyKfgKLeLEJQrP7ctfiroHUzsQSpR+1W0hxgkiZGoM1X5Q4jAueLsuqOXi4LWt1z9Rzwb6AWJYzhYt5mXYjBDmdtMIHIZKreVoz8K904iTLFrJ9BtgmhAXthRM/JhCNb59tZwY00JVTexcb3KUvU26gu/nehFym6gpCAzkMhN7lj8i6cYWxvRUDyU/vsRnf3E1ywP9HSzi8GT0/laJplHHS8GIvBOZkLCHTqD9uhl5I93WElPYGDxIf6XN/SeF9PEUYBkVEceiSEseOa55zA5RRD/NcBfL224X0hej6kLbR7MByZgA1eIPi47zBhmIYRMuQqlWbBLg1D1yAV5TfLpxKHu28u6DGNyEHg4kdHo2tgO//GIPDJ3yigJCz4jlqP7F0x2+J2lk48qSKiJzlNcaiRJWjF3sJu7O91hlreHTzncaoZVPRtAjBLh10W3MwY9GYhQumg==;cM7EMiC5KsjDPT9qda9GYQ=="
