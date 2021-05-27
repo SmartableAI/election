@@ -335,6 +335,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Broad Coalition of Democrats Presses Biden to Expand Medicare"
+    excerpt: "Over 150 House Democrats are pushing the president to include a plan in his infrastructure package to lower the eligibility age, expand benefits and negotiate drug prices."
+    publishedDateTime: 2021-05-27T07:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/26/us/politics/26dc-medicare/26dc-medicare-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "'Enough': Biden renews calls for gun control bill after San Jose rail yard shooting"
     excerpt: "Biden called on Congress to take action on gun control in his first joint address to lawmakers in April, such as banning assault weapons and high-capacity magazines."
     publishedDateTime: 2021-05-26T23:06:00Z

@@ -303,6 +303,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden administration backs Alaska oil drilling project approved under Trump"
+    excerpt: "U.S. President Joe Biden's administration defended on Wednesday a proposed ConocoPhillips oil development in Alaska, backing the drilling project which was approved under the administration of former President Donald Trump."
+    publishedDateTime: 2021-05-27T08:27:00Z
+    webUrl: "https://www.reuters.com/article/legal-conocophillips-alaska-biden-idUSKCN2D811P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D811P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D811P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563593078&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0IV"
+        width: 816
+        height: 545
+        isCached: true
   - title: "How Joe Biden's Executive Orders in First 100 Days Compare to Donald Trump's"
     excerpt: "The executive orders give a snapshot of the differing priorities between the two administrations soon after taking office."
     publishedDateTime: 2021-04-28T09:28:00Z

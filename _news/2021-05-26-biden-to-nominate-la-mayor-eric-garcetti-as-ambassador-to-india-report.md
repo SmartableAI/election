@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-nominate-la-mayor-eric-gar
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-la-mayor-eric-garcetti-as-ambassador-to-india-report.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden picks LA mayor, envoy for ambassador posts: AP source"
+    excerpt: "President Joe Biden is expected to announce he is nominating former senior State Department official Nicholas Burns to serve as his ambassador to China and Los Angeles Mayor Eric Garcetti to be his ambassador to India,"
+    publishedDateTime: 2021-05-26T21:14:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-los-angeles-mayor-eric-garcetti-india-ambassador.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132726897266-1.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "EtWU5saElUwdljq/LkQZkRiX1fAQK3DMrvS6bd5aWkoRjcOxZ4HCxAvozSd/vfvrvlafyB8XG0kNlS9FkSzdm8myvx/3AAgjzbBrpFWbgmGQaItuYDJyH9xJQHvNpYs0Z48dm62eCEKATR0MjeyHROlrYTzzYGCdEy4TF3U6HR4CGCmk1oLVKt9TnSnsnHyvJvMV+ilnpXG/sbN3fkiYu9IBGu60z01kRv0A1MD9zsJTE0n27Dlxl0lbslmOkU7b1LO+4nXyNiDhELclz8Hpm8oeVZCAGMvh2+2BJ4cBLcFYDrIogs84gNnGQryiTD7QeORKrZExjsOOdC+YWMDcygS2jjyFxFo2G/50nhNpMg0=;rVf4yr++hB5EmMJ2yVKBYg=="
 ---

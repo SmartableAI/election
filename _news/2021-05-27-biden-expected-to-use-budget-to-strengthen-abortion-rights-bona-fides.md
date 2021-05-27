@@ -336,6 +336,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Broad Coalition of Democrats Presses Biden to Expand Medicare"
+    excerpt: "Over 150 House Democrats are pushing the president to include a plan in his infrastructure package to lower the eligibility age, expand benefits and negotiate drug prices."
+    publishedDateTime: 2021-05-27T07:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/26/us/politics/26dc-medicare/26dc-medicare-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "'Enough': Biden renews calls for gun control bill after San Jose rail yard shooting"
     excerpt: "Biden called on Congress to take action on gun control in his first joint address to lawmakers in April, such as banning assault weapons and high-capacity magazines."
     publishedDateTime: 2021-05-26T23:06:00Z
@@ -353,6 +369,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "N3fI4T5/b0bDZDTF9CDGWAnMo/iX9sUFxMV+gFHqSeJfvbWfsqK87hPossSAEzs8O2zYKJmeXyxLU51rn2VGj6+3o76G6Uwa0SgvsUpb8lgauHSvnaF+RM9L37mWM/OGkzsa+GJRZViAyIIp45yVBbIkVaSbI1CU+Rcm+VEj1hA4cgm903pyw38QJ+STO8XQham/C8wtlihamGXBsfHDJnqNCOb+T+03shmVfcXTBC+o2YAW+ISflbMLaf4uU694HpNZXp30dWYJuN60Kr5rcs6YCJPWfp6q+AkgbUrAYPal1qQ8iLivadCjIkM6q3FUb0hbSQyQ9iF+DgTJsHCBe2A67Edfp4HQVtdQp876f1Y=;mRV4KX9seR/3q6dlpx2p1A=="
+secured: "XwWrQF2AdoEd+bKOWoK0MjmCs+zjRspS15P4BFd4tDsUMX58RDxpKY5DwnplMZdTrFUfZz6mXKPAiABSU4heo5tqWqhrDb0xN0fqbIZVbt1qVTNe5LsGAau1UYy8DxqI3Q0uwX36qIMlPzYEDQ3QH/rGYD2vxvt7aeDbWLbbRPYUO7X+Gbwke31X76WVlhfb8KNYOo2QHHaaKINQnKXFWX8jPreNUkWd57SI5TDAiuejersR57P17WFYFqPWFOnBpHlkrXXm0J8cLU+Y+t3FaGTcVUvJENUqrlKPPLf/+e39TSfXwhmFLwYkjn6Py1YiMv6XETZZ5ATi8wUG1iuOzsPb2dSdMUvi1KLoD4Nj1+u6qFxy9B0PODm1WFoSnfcFOZmwJGfACblnHvQbj+qCqZtcbqMUuBs5w2/xk7MRtTrEHiPd3wP6ZMdpj5Tdz28nTtb78fapeixPt6oSk9O8d2PuJBBwj+4HurovNNG+hmlVeqb9fZlO+zPwhoGnew+i+10P+2cOA8lXyFBhmSabJw==;sW7fHJlaRvQl46oOTCsDNQ=="
 ---
 

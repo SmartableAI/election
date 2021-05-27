@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-getting-ready-to-hit-campaign
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-getting-ready-to-hit-campaign-trail.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53d1063b-7f45-426b-b59d-5c4536195afb/fdf093e7-efb7-4bd5-abb6-af51a0546589/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Paul Ryan to Call for GOP to Lessen Reliance on Trump"
+    excerpt: "In a speech Thursday evening, the former Republican House speaker plans to argue that the future of the GOP needs to be about more than former President Donald Trump."
+    publishedDateTime: 2021-05-27T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/paul-ryan-to-call-for-gop-to-lessen-reliance-on-trump-11622107801"
+    ampWebUrl: "https://www.wsj.com/amp/articles/paul-ryan-to-call-for-gop-to-lessen-reliance-on-trump-11622107801"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/paul-ryan-to-call-for-gop-to-lessen-reliance-on-trump-11622107801"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-344681/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Republican Mayoral Candidates Tussle Over Trump, Party Loyalty"
     excerpt: "The two Republican candidates voiced support for police as public safety takes center stage in New York City mayor’s race."

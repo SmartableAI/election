@@ -352,6 +352,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Broad Coalition of Democrats Presses Biden to Expand Medicare"
+    excerpt: "Over 150 House Democrats are pushing the president to include a plan in his infrastructure package to lower the eligibility age, expand benefits and negotiate drug prices."
+    publishedDateTime: 2021-05-27T07:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/26/us/politics/26dc-medicare/26dc-medicare-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "hvpJFiKqlTp6aSOVBoCEoGPNpBv9KluJO8VYvkrUxN4SorxBKxuqpA2vFPvEskyDbYslDQM+qmKNjvguHra5uCLwEnM5LiQaoA30XsVR6aye/COEWdm79DrSlH3LvgVi0U0+rqAmWCXwPwYTN81BLZff+vVeap06OJ3875bsuattzVMAgfVLwEZbtetA7JtflqrKDyFYjPADguJbg7DEIeqCNeRynJ6YT/Nd4+O/MBY7xKGuIBSql8ZYrzIHKAivcoaDKxl3zfvJGigZco1T/jACZPU8bW2YggFK+Z5WFzscK8tZThNC29NIia6gYf52xbmYEU8bf/OjYKAbXIcbmBo0ycAOhsJr5PCY/QxLPMQ3bX9k/2roj4ORqNd2GQulAaxIwzCM/OUVg5dSTIHN+v388WEqx5Tf1jthpwSKUBN3ahfbGlc1A8GzJL8dCyeRRvo7KaZLXevHOW/kDqOx+R+XooC47cqXk88lAOanHf2b5MzhmpO4JDd9r1go5ayjU0NiGX7Fu4AEpw4ttBUrHg==;yWd+D5IzaRsCI00QL1nTtg=="
 ---
