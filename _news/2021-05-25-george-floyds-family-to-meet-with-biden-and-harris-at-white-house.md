@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html"
 type: article
 quality: 200
-heat: 580
+heat: 600
 published: true
 
 provider:
@@ -331,6 +331,20 @@ related:
       - url: "https://static.politico.com/eb/05/d00fe5b34262b093e34e3fd4e07a/gettyimages-1319254742-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Budget day for Biden"
+    excerpt: "President Joe Biden is likely to call for big boosts to health spending as part of his budget request, set to be released today. — Congressional Democrats are getting creative to boost funding to abortion providers and gun violence researchers."
+    publishedDateTime: 2021-05-28T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/05/28/budget-day-for-biden-795626"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "i9Jeao2wbfYljDmXHTQ52S2Wz6Z/1p1rIXH513AU0iGf5LddddQtoNejn8a2WEJr5ZURaU/ao4fz59jwzT5n+ZjP+I0ZnQhns1CUcSS9TAuVYNdW/Cd1rZz0z74j6bviC2B4pZvgjuCNS3mIj1gDpJBMRFauPv/puacsaWW/2nUiJ4Wp191qzTuE7PqLc4BsdkOimHLjS7RN3vS7UscRf6ExSALMtroK3tiymIKTM5/tFKviA2S1r/OcqaunZ1iEGnthAqGlDEiFq4xJ1x4VrK6KW7V9YqhxlzdGVaAOdEy4nIUNuZv93pNsGNFC3FwMGgcvX80j3ElrBIWeZFHaE8a3mUpAi3T7v9mXpN0BW6Q=;5oZ3s7KPOkJCuwX1rGJmlw=="

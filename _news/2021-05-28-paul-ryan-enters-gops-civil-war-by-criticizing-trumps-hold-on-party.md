@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Paul Ryan slams 'horrifying' end of Trump's presidency"
+    excerpt: "Former House Speaker Paul Ryan decried the manner in which former President Donald Trump's term ended, and the direction the GOP is heading in a speech made at the Ronald Reagan Presidential Library.\n    \n"
+    publishedDateTime: 2021-05-28T13:20:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FZqtRXLMSfo/paul-ryan-speech-trump-sot-vpx.the-ronald-reagan-presidential-foundation--institute"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/05/28/paul-ryan-speech-trump-sot-vpx.the-ronald-reagan-presidential-foundation--institute"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/05/28/paul-ryan-speech-trump-sot-vpx.the-ronald-reagan-presidential-foundation--institute"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528091755-paul-ryan-donald-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The power of Trump drowns out Ryan's Reaganite call for change"
     excerpt: "On one side of the country, legacy Republicans were agonizing about what their party should be. On the other, Donald Trump's diehards were revealing what it already is.\n    \n"
     publishedDateTime: 2021-05-28T10:39:55Z

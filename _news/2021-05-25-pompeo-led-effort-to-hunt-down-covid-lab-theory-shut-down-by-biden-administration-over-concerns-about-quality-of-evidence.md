@@ -31,21 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden blasts Republicans for touting Covid relief funds they voted against: 'Some people have no shame' "
-    excerpt: "President Joe Biden on Thursday criticized Republican lawmakers who have touted parts of the Covid-19 economic relief law that benefit their constituents despite having voted against the law, saying: \"Some people have no shame.\"\n    \n"
-    publishedDateTime: 2021-05-27T21:22:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pJFwa-IDoZU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html"
+  - title: "Biden administration plans to speed up court cases for migrant families"
+    excerpt: "The Biden administration plans to speed up court cases for recently arrived migrant families who are seeking asylum, the Department of Homeland Security announced Friday.\n    \n"
+    publishedDateTime: 2021-05-28T14:58:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z1uuGI-Zxmg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/immigration-courts-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/immigration-courts-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527155040-biden-gop-list-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427161248-03-100-days-immigration-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden administration moves forward with plan to bring offshore wind to California coast for the first time"
+    excerpt: "The Biden administration announced Tuesday that it is moving to advance offshore wind power on the coast of California for the first time. When developed, the regions selected have the potential to generate enough green energy for up to 1.6 million homes over the next decade, according to the administration.\n"
+    publishedDateTime: 2021-05-25T20:11:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ICmDM7oR9Mc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-california-offshore-wind-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-california-offshore-wind-announcement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514113351-01-offshore-wind-farm-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden indicated he could support $1 trillion infrastructure plan, Republicans say, as GOP group prepares new offer"
+    excerpt: "GOP senators say that President Joe Biden has informed them he'd be willing to accept an infrastructure package of around $1 trillion, significantly lower than the White House's public offer last week.\n    \n"
+    publishedDateTime: 2021-05-26T00:31:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jYkrEjMIXCE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/infrastructure-negotiations-latest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/infrastructure-negotiations-latest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden budget won't clear up Congress' infrastructure limbo"
+    excerpt: "\"It is getting late,\" one senior Democrat said of the frozen bill as the president and Senate GOP won't let go of talks."
+    publishedDateTime: 2021-05-28T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/05/28/dems-biden-infrastructure-limbo-491217"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/28/dems-biden-infrastructure-limbo-491217"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/28/dems-biden-infrastructure-limbo-491217"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/07/c9/4437d05d4a2cbc399fb7bb2a9f62/5-27-21-joebiden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "FKYuCVyDAi2HS2sEpv/jkt+yxzD3v2bNh1VIdpavYwYkHnXsCld3JN4uUYWbgoIpxIzrVgz6O8pf3LPDac1C2UA8RtkkylKm5PsfDS5U4nz9ILGeFsF4Vc5HoyWuEBOrYkJrh/QZEwLMmtAvVWkgq6h0C38NQ1jC2B4gUUwxRZSeMlEnxwJTn/p9ibaXVI0OkUjkzCGMb09hUQ13lAWPTbAp0zPFnyQkExXexhWondpLbQ/zYsoLB0zfCSJYkge7MLqTnSCIhkGYHi8XjuzNWk0zYVIMPzqUaJNKnqSoYtbYlez0YqX1ybMeDv1lmYuZgIUgey8xQNuyYUiaBEpXmg9PblzTVN2dlnnH9jYY5ac=;Qfg+mqIgw+65LNZy2uNDDw=="

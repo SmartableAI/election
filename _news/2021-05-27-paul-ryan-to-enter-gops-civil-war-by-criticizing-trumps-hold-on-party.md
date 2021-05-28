@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/paul-ryan-donald-trump-g
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/paul-ryan-donald-trump-gop-reagan-presidential-library-republicans/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/181030173316-01-paul-ryan-1008-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Paul Ryan slams 'horrifying' end of Trump's presidency"
+    excerpt: "Former House Speaker Paul Ryan decried the manner in which former President Donald Trump's term ended, and the direction the GOP is heading in a speech made at the Ronald Reagan Presidential Library.\n    \n"
+    publishedDateTime: 2021-05-28T13:20:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FZqtRXLMSfo/paul-ryan-speech-trump-sot-vpx.the-ronald-reagan-presidential-foundation--institute"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/05/28/paul-ryan-speech-trump-sot-vpx.the-ronald-reagan-presidential-foundation--institute"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/05/28/paul-ryan-speech-trump-sot-vpx.the-ronald-reagan-presidential-foundation--institute"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528091755-paul-ryan-donald-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

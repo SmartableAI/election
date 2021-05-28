@@ -332,6 +332,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Budget day for Biden"
+    excerpt: "President Joe Biden is likely to call for big boosts to health spending as part of his budget request, set to be released today. — Congressional Democrats are getting creative to boost funding to abortion providers and gun violence researchers."
+    publishedDateTime: 2021-05-28T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/05/28/budget-day-for-biden-795626"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "2fJKh/W9Z83dS96caJszYLWHKLo10Mlu7RH574ZerjP3KP7eFvqMfXTrzN+vC4+T4G7zCz266BZyhG5YhAUBc053NnLMjiRWVNGCiErwoSkO6CNVQZ4vAojQH3IH+tY0P75h7vQORwUmT2SVjdBJWnieqj7PstOYwFqwR2xSj7krXb13gNAqE8E2CGpmGRdbRhxODRTP6BwhxhSJZun7B6mUrVFuMdOBHCPlj4FeUlWpu4EcEWGw+PS3LnXymWtLkn+AgiVtppC2NohRkaVzKDClRXo4MIt4GgQvmR0r9M20M5NeMTyLcsSWOCTNszEdj0ey76DS4cEHk1eiUL98dYFuixhdvsKQjkWba4x62El5BrRHrZnJsIiS62bapBRJAxhgnJyobjH6sr+7c0FbjUl051EnbfZk3oflUzTuiONBveiyHLWjGw7Cd+e5eIb06nwGbtL2rXinPgaBLdElo2zQJ+JsLMC5/MgcjNBFCWQ+/Oype7bkdTRLgllJ8tSVB06EbH+7AU07AoACIFFAXg==;DJs56B2PboAjPNcL5GpZ4g=="
 ---

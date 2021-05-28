@@ -32,19 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden adviser: President will 'change course' in infrastructure talks if inaction seems inevitable"
-    excerpt: "White House senior adviser Cedric Richmond said Sunday that President Joe Biden will \"change course\" on his massive infrastructure bill if inaction on the costly proposal seems inevitable.\n    \n"
-    publishedDateTime: 2021-05-23T15:14:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oVN3nArV5-I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/23/politics/cedric-richmond-infrastructure-bill-biden-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/cedric-richmond-infrastructure-bill-biden-cnntv/index.html"
+  - title: "Biden administration plans to speed up court cases for migrant families"
+    excerpt: "The Biden administration plans to speed up court cases for recently arrived migrant families who are seeking asylum, the Department of Homeland Security announced Friday.\n    \n"
+    publishedDateTime: 2021-05-28T14:58:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z1uuGI-Zxmg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/immigration-courts-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/immigration-courts-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218085023-01-cedric-richmond-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427161248-03-100-days-immigration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration moves forward with plan to bring offshore wind to California coast for the first time"
+    excerpt: "The Biden administration announced Tuesday that it is moving to advance offshore wind power on the coast of California for the first time. When developed, the regions selected have the potential to generate enough green energy for up to 1.6 million homes over the next decade, according to the administration.\n"
+    publishedDateTime: 2021-05-25T20:11:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ICmDM7oR9Mc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-california-offshore-wind-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-california-offshore-wind-announcement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514113351-01-offshore-wind-farm-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -61,6 +77,22 @@ related:
     quality: 153
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pompeo-led effort to hunt down Covid lab theory shut down by Biden administration over concerns about quality of evidence"
+    excerpt: "President Joe Biden's team shut down a closely-held State Department effort launched late in the Trump administration to prove the coronavirus originated in a Chinese lab over concerns about the quality of its work, according to three sources familiar with the decision.\n    \n"
+    publishedDateTime: 2021-05-25T23:53:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-FHC-pSsYg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-shut-down-trump-effort-coronavirus-chinese-lab/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-shut-down-trump-effort-coronavirus-chinese-lab/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524163012-cnn-red-wuhan-lab-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -522,6 +522,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 48
+  - title: "Naval Academy Class of 2021 graduation live coverage: Vice President Kamala Harris speech begins"
+    excerpt: "Few classes have borne witness to the kind of change the class of 2021 has, navigating COVID and the unknown, Superintendent Vice Adm. Sean Buck said in his speech as the Naval Academy graduation began."
+    publishedDateTime: 2021-05-28T13:37:00Z
+    webUrl: "https://www.baltimoresun.com/education/ac-cn-usna-navy-graduation-coverage-20210528-g754rhovkfa3nhnci6t3tndoqm-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 42
+    images:
+      - url: "https://www.baltimoresun.com/resizer/NGAKBsiUEGM18IgDSQPs_vqFzgE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EBQPNIVUIVDDHDSSLR4MSOV5KM.JPG"
+        width: 1200
+        height: 1033
+        isCached: true
   - title: "Mexico Says Investment and Security to Be Discussed During Kamala Harris Trip"
     excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8. Harris,"
     publishedDateTime: 2021-05-19T17:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kama
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
 type: article
 quality: 124
-heat: 224
+heat: 244
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
     quality: 74
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/17/Harris_94721.jpg-3f787_c0-242-5815-3634_s1200x700.jpg?b05293c78aec9cefe54011270495b308b9ec4a14"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Harris highlights climate change as 'very real threat' in Naval Academy graduation speech"
+    excerpt: "Vice President Kamala D. Harris told graduates of the U.S. Naval Academy Friday that the military has entered an era of new security threats such as pandemics, cyber-attacks and climate change."
+    publishedDateTime: 2021-05-28T15:21:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/28/harris-annapolis-grads-climate-change-john-mccain/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/28/harris-annapolis-grads-climate-change-john-mccain/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/28/harris-annapolis-grads-climate-change-john-mccain/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 66
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/28/Naval_Academy_Harris_53450.jpg-6335c_c0-0-2443-1425_s1200x700.jpg?cc89e3c9cfb58e78bc5a1cf0c236bcecd177cae4"
         width: 1200
         height: 700
         isCached: true

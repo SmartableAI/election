@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden to propose $6tn budget to boost infrastructure, education and climate"
+    excerpt: "President’s first budget would drive government spending to its highest sustained levels since the second world war"
+    publishedDateTime: 2021-05-28T14:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/28/joe-biden-budget-proposal-infrastructure-education-climate"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/28/joe-biden-budget-proposal-infrastructure-education-climate"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/28/joe-biden-budget-proposal-infrastructure-education-climate"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/08afb76e42dc0d68956220883faab27bf9522871/0_276_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=792b2a71ef26fcd071c94155e16496e7"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden orders US intelligence to intensify efforts to study Covid’s origins"
     excerpt: "President also asks US intelligence community to explore the unlikely possibility that virus origins trace to Chinese lab"
     publishedDateTime: 2021-05-26T18:06:00Z

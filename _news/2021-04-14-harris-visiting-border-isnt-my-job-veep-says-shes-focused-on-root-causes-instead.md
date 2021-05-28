@@ -43,6 +43,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "New Mexico Rep. Yvette Herrell letter urges Kamala Harris to visit U.S.-Mexico border"
+    excerpt: "Yvette Herrell, whose district includes nearly 180 miles of the U.S. border with Mexico, called the current border situation a “crisis.”"
+    publishedDateTime: 2021-05-26T00:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/05/25/yvette-herrell-urged-kamala-harris-immigration-conditions-new-mexico-border/7429745002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7429745002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7429745002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/13/PNM2/7c5b73e1-94f3-4abc-827e-407b8e999d0b-IMG_0096.JPG?auto=webp&crop=5486,3086,x0,y251&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
     publishedDateTime: 2021-04-09T18:40:00Z

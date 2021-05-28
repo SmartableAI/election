@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "President Joe Biden, progressives willing to ‘go forward alone’ on $1.7 trillion infrastructure bill if Republicans balk at spending"
-    excerpt: "The Biden administration and top progressives say they’re hoping for bipartisan support for major infrastructure spending, but they’re prepared to go it alone if they can’t make a deal soon with Republicans. Since signing a $1.9 trillion COVID-19 ..."
-    publishedDateTime: 2021-05-23T17:29:00Z
-    webUrl: "https://www.masslive.com/politics/2021/05/president-joe-biden-progressives-willing-to-go-forward-alone-on-17-trillion-infrastructure-bill-if-republicans-balk-at-spending.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/05/president-joe-biden-progressives-willing-to-go-forward-alone-on-17-trillion-infrastructure-bill-if-republicans-balk-at-spending.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/president-joe-biden-progressives-willing-to-go-forward-alone-on-17-trillion-infrastructure-bill-if-republicans-balk-at-spending.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 44
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XOCFXW2DBBFOHGVRKULVIP5MU4.jpg"
-        width: 3132
-        height: 2088
-        isCached: true
   - title: "‘Car guy’ Joe Biden took a spin in the new electric-powered Ford F-150 Lightning during a trip to Michigan to sell his $2T infrastructure plan"
     excerpt: "Joe Biden took a spin in the new Ford F-150 Lightning truck during a visit to a Ford safety testing center Tuesday as part of a trip to Michigan."
     publishedDateTime: 2021-05-19T01:46:00Z

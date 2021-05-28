@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Joe Biden, progressives willing to ‘go forward alone’ on $1.7 trillion infrastructure bill if Republicans balk at spending"
-    excerpt: "The Biden administration and top progressives say they’re hoping for bipartisan support for major infrastructure spending, but they’re prepared to go it alone if they can’t make a deal soon with Republicans. Since signing a $1.9 trillion COVID-19 ..."
-    publishedDateTime: 2021-05-23T17:29:00Z
-    webUrl: "https://www.masslive.com/politics/2021/05/president-joe-biden-progressives-willing-to-go-forward-alone-on-17-trillion-infrastructure-bill-if-republicans-balk-at-spending.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/05/president-joe-biden-progressives-willing-to-go-forward-alone-on-17-trillion-infrastructure-bill-if-republicans-balk-at-spending.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/president-joe-biden-progressives-willing-to-go-forward-alone-on-17-trillion-infrastructure-bill-if-republicans-balk-at-spending.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 44
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XOCFXW2DBBFOHGVRKULVIP5MU4.jpg"
-        width: 3132
-        height: 2088
-        isCached: true
 
 secured: "PM6RAPhpeu+mA3cm9F0swzrzMPMToZzGctxV4d/7W0Laz5RhCSRVZL5wc8D172fTXebYl7JYTrZ1UWV+G+TX1BOyxEp2tNY+caD84H6qC2dMerGpGetis9/73RTFXM9VYtuply1QVH1qWd3s+zU1Oxaaqyjm3TMY6bXOEBuA98o91PrmRxbGNeySiQW4pY939G6MvVjO6taD+9oknJfxfHHXMdqj2WeWejafPVc0K5TUrElTakhQOiCt9Q0HOgghYcxV0ONL3vOCXfU5MRB013v1qkRPriwYhbNNh87z6koHcBQitjiH9XA3kdC76JroRDi4OaNGvn61hUIKsW7q5EcZItdD2hM5yfUAHOREyVY=;sYOsEBmtpmCQNJHYn/sIUg=="
 ---
