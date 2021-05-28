@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden won't allow Justice Dept. to seize reporters' records"
-excerpt: "President Joe Biden says he won’t allow the Department of Justice to seize journalists’ phone records and emails, calling the practice “wrong” in a significant departure from his predecessors"
-publishedDateTime: 2021-05-22T00:00:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
+title: "President Biden proposes $6 trillion budget to Congress"
+excerpt: "President Joe Biden is laying out his budget priorities to Congress with a $6 trillion proposal that would vastly expand social programs to help the neediest Americans. Maya MacGuineas of the Committee for a Responsible Federal Budget spoke with CBSN's Tanya Rivero about why she believes the national debt is a more important focus."
+publishedDateTime: 2021-05-28T19:36:00Z
+originalUrl: "https://www.cbsnews.com/video/president-biden-proposes-6-trillion-budget-to-congress/"
+webUrl: "https://www.cbsnews.com/video/president-biden-proposes-6-trillion-budget-to-congress/"
 type: article
-quality: 125
-heat: 265
-published: true
+quality: 105
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +23,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_38dab6b4a6fc429288c8332a295a4057_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/28/450df1eb-df46-4437-a7fc-fbe85c407312/thumbnail/1200x630/f7665808fc62f080f73174c96b9c5a99/cbsn-fusion-president-biden-proposes-6-trillion-budget-to-congress-thumbnail-725077-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "Biden won't allow Justice Dept. to seize reporters' records"
+    excerpt: "President Joe Biden says he won’t allow the Department of Justice to seize journalists’ phone records and emails, calling the practice “wrong” in a significant departure from his predecessors"
+    publishedDateTime: 2021-05-22T00:00:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_38dab6b4a6fc429288c8332a295a4057_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Senate Republicans unveil latest counteroffer to Biden on infrastructure spending"
     excerpt: "Senate Republicans on Thursday unveiled their latest counteroffer to President Joe Biden on infrastructure spending, calling for spending $928 billion."
     publishedDateTime: 2021-05-27T17:21:00Z
@@ -91,20 +105,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "President Biden proposes $6 trillion budget to Congress"
-    excerpt: "President Joe Biden is laying out his budget priorities to Congress with a $6 trillion proposal that would vastly expand social programs to help the neediest Americans. Maya MacGuineas of the Committee for a Responsible Federal Budget spoke with CBSN's Tanya Rivero about why she believes the national debt is a more important focus."
-    publishedDateTime: 2021-05-28T19:36:00Z
-    webUrl: "https://www.cbsnews.com/video/president-biden-proposes-6-trillion-budget-to-congress/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/28/450df1eb-df46-4437-a7fc-fbe85c407312/thumbnail/1200x630/f7665808fc62f080f73174c96b9c5a99/cbsn-fusion-president-biden-proposes-6-trillion-budget-to-congress-thumbnail-725077-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "METALS-Copper rises on reports of Biden's budget plans, Chile supply threat"
     excerpt: "Copper prices advanced on Friday, buoyed by demand optimism on reports of U.S. President Joe Biden's plans to make a $6 trillion budget announcement, while supply concerns in top producer Chile also supported sentiment."
     publishedDateTime: 2021-05-28T07:12:00Z
@@ -133,6 +133,6 @@ related:
         height: 600
         isCached: true
 
-secured: "leEwi2Zh3Z7FnT9vd/BYYmP9EwARqTz2cqrGdgrizcw5eLtMCyxBNGJMhtdXapsRG9mAi0nwt33P8OffIKNOj9ue3EhyXBLuyNVtm0v8jQleKLu03/En/rbYJDqJKAQOLgZB+vVv2n7p6n7WASm5aryUpav7dPY/Md5V0mCPS86xizbKaXqRtjMvXV28Iy+2CZWNpUAASZl5cMVp10XNzeDIOrxHjVqnqRNXuC8uBbxS4GIqx3gehcrLd3HG8NQRF9SC1fo1FXJ9wyCpalGTmSAWn8iklgrVbcFYB4KTvknbYkb0nRyqj4M6C70rFQZ4CkrtZa4sz6cnkhAHQgHIIo3jVyqf3y/bbTmTO31Eb2TleWYh6SN6d49QPb9JLFEmHLnMbOy3+iAU9LcPRyyYWbSog29pA5uhtbHPAw8+yF7pg+wcRQoDvIUyRTgoI4ZEne337bIKys9Tnwvf0q1C7J+mA6E3giwGSQczgLdK31CV4lKHvYke1fjRPGIKyhyF2sRpyHkquVhXQQlrSOorig==;siFt/i1rhdJLCMkXJNpgrg=="
+secured: "PQJmJSBAx4JXjLXCf1ElwbqSdBHLEJeys7q3SWT+sKwa3enCsprzd6sE+2lQowgnsN3TazWGCViV+Y8pEn7X99RqDC0MZL9PWKKvGwVV+0fg40A+1bn6DVaMTdVIdrJS16y1ZUrZoE9tqe2kMaje4sFaKGLjLJABY4DVkLECUpNzuGlazsfR1gWgh/SEj0wvDB52BmeiMPpj4Q4rRksKyLDZsRB7TaTt4jIpS9rw2vtc+FoWlFYCpJnr3s8r9fqxdB6MLlZjHDQvwAxRbIS/670ksyIvLsQHKVumK+BhJPy4huiZlwg1Qdh+MqBv8D0p0ulU7D6PiASKLx9XOSuIcb1i44P6YhHkdLAbHnwCvCE=;gXZhPyroo0vpgb9Mwrq97g=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden ATF nominee supports ban on AR-15"
-excerpt: "President Biden’s nominee to head the  the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, David Chipman, said during Wednesday that he is in favor of a ban on AR-15 rifles."
-publishedDateTime: 2021-05-26T20:50:35Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nHdQ3CH2wWE/biden-atf-nominee-chipman-supports-ban-ar-15"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nHdQ3CH2wWE/biden-atf-nominee-chipman-supports-ban-ar-15"
-ampWebUrl: "https://www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
+title: "Biden budget excludes decades-old provision barring taxpayer funding of abortions"
+excerpt: "President Biden proposed a budget on Friday that would exclude a decades-old provision blocking taxpayer funding of most abortions."
+publishedDateTime: 2021-05-28T18:39:35Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3QN_kPYBN68/biden-hyde-amendment-budget-abortion"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3QN_kPYBN68/biden-hyde-amendment-budget-abortion"
+ampWebUrl: "https://www.foxnews.com/politics/biden-hyde-amendment-budget-abortion.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hyde-amendment-budget-abortion.amp"
 type: article
-quality: 175
+quality: 170
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/AP21097760253459.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ca0e4b65-a327-44c4-a48d-8094d00ea10d/f81b1ccc-858a-4184-ab44-38a6553c836b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abb0245a-21bc-4c52-9de8-1336e02ec81c/ad3a8f45-5e89-4b2e-83df-ddb929cc03e6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden ATF nominee supports ban on AR-15"
+    excerpt: "President Biden’s nominee to head the  the Alcohol, Tobacco, Firearms and Explosives (ATF) bureau, David Chipman, said during Wednesday that he is in favor of a ban on AR-15 rifles."
+    publishedDateTime: 2021-05-26T20:50:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nHdQ3CH2wWE/biden-atf-nominee-chipman-supports-ban-ar-15"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-atf-nominee-chipman-supports-ban-ar-15.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/AP21097760253459.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -92,22 +108,6 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9310ca8a-d753-4dfe-adbd-1e7942fdb670/2d18d808-1356-46cc-b738-a315b4ce73b6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden budget excludes decades-old provision barring taxpayer funding of abortions"
-    excerpt: "President Biden proposed a budget on Friday that would exclude a decades-old provision blocking taxpayer funding of most abortions."
-    publishedDateTime: 2021-05-28T18:39:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3QN_kPYBN68/biden-hyde-amendment-budget-abortion"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hyde-amendment-budget-abortion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hyde-amendment-budget-abortion.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ca0e4b65-a327-44c4-a48d-8094d00ea10d/f81b1ccc-858a-4184-ab44-38a6553c836b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -348,6 +348,6 @@ related:
         height: 405
         isCached: true
 
-secured: "RSMBPwA7OOlFv3yomoLgl+X8v+tJN/CoCpDU4kq4ljRJVRlC9Er90oeC4jNYhusK5n3D3RDSeiGzaZBe2uCFiBKmD4zKdpaiE4uSrMyvOVTkwWWt//vh+LiWD/NfJ4KT8EqnBLL8advYzny+2k/1OyvCva5GIR35aqF9QX6btFbtWgeC/xgN9uvWcvX3gEOuPCjsYFtyZ19PeAQ+c78UItnOy3e20o4R+iqVr2DhyvSxlpVbM4PlQrFiAvaagZZeO6xDSF2lmYozMciPk944IOl+GMEkOVLN/ZqpQl7XZr8lHEYGWBYzQ6VOBcOsr9+rR8tFU3wbdYcJfgobUBrUE72bXTRmW5HeWYEs85sLJtQ=;fDKYe7nGIQwqXWe8sBHKMw=="
+secured: "StM7+hhhwZg/Qu+VoeN5r8NszjGBVamS3KwngdO6NHRcoLAZK2mwJRl+qFCm9l6suEdPV595/cI9QccAcodDOe85Pi4edEKeEk+mkUofYbu/XizGXKwCqoEf6+e4ajWUzzXc2Gh0VslihwEkq1vHGVuIgjv3nRuSi9bTM6MPrLlw5n+zRv4mc3Gh/kv5CCsNJSviTW0w2pH/o0fPOwK0mwvXn8HImxShqoUaF8rCbp4xhBDo5oMnPkb0SPBmmdzgXpRsz5F12g4Q7A2cw4qk7TF9HzVKlwVXzeFPIgTFe2HFjp6axfDTbXaf42m/cQk+3pkFT6aw6iD2ALH27iFEg8grFF0cN5xDuWdP4stc0Ss=;zYAIW+3/0IqptflE59X4Xw=="
 ---
 

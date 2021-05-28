@@ -1,31 +1,27 @@
 ---
 category: news
-title: "VP Harris meets with Congressional Hispanic Caucus"
-excerpt: "Vice President Kamala Harris met with members of the Congressional Hispanic Caucus to discuss the coronavirus pandemic, immigration and other issues on Monday. (May 17)"
-publishedDateTime: 2021-05-17T21:30:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/"
+title: "Harris cites challenges of 'fragile' world in Navy speech"
+excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval"
+publishedDateTime: 2021-05-28T19:16:00Z
+originalUrl: "https://www.stltoday.com/news/national/harris-cites-challenges-of-fragile-world-in-navy-speech/article_951af9aa-acac-5e43-8a95-68bb5f59286d.html"
+webUrl: "https://www.stltoday.com/news/national/harris-cites-challenges-of-fragile-world-in-navy-speech/article_951af9aa-acac-5e43-8a95-68bb5f59286d.html"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/31c81e80-1f86-4c01-a851-13513731248c_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/c3/3c380bde-e91d-5e4e-b069-2f9d17251ba3/60b01a4f92fa0.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -60,6 +56,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1809794/kamala-harris-naval-academy.jpg"
         width: 2500
         height: 1626
+        isCached: true
+  - title: "VP Harris meets with Congressional Hispanic Caucus"
+    excerpt: "Vice President Kamala Harris met with members of the Congressional Hispanic Caucus to discuss the coronavirus pandemic, immigration and other issues on Monday. (May 17)"
+    publishedDateTime: 2021-05-17T21:30:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/31c81e80-1f86-4c01-a851-13513731248c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "First lady says she's 'moved on' from reported anger at Kamala Harris"
     excerpt: "First lady Jill Biden on Thursday didn’t deny a report that she uttered a profanity about Vice President Kamala D. Harris for accusing Joe Biden of racism during a Democratic presidential primary debate in June 2019."
@@ -139,20 +149,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Harris cites challenges of 'fragile' world in Navy speech"
-    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval"
-    publishedDateTime: 2021-05-28T19:16:00Z
-    webUrl: "https://www.stltoday.com/news/national/harris-cites-challenges-of-fragile-world-in-navy-speech/article_951af9aa-acac-5e43-8a95-68bb5f59286d.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/c3/3c380bde-e91d-5e4e-b069-2f9d17251ba3/60b01a4f92fa0.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Kamala Harris cites challenges of 'fragile' world in Navy speech"
     excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
     publishedDateTime: 2021-05-28T17:04:00Z
@@ -163,6 +159,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "Shnpri92vO4hIsvsomVKSfTwcw3yENYOoAJ+yhyNA+Iq2rq/yxwGoKkviqI1tDRH4sVUekx/tZ6X6GnLAS35uVgdzi6YBIEJHxD3xxvV1INXODj+mMHp4wR18KPNWHINXsdjvuBbZCzNezHYrIsgWuQfomPGuUFCNe4KtO2Umf4aKBljhKxkz5fXPM1R2wvkGb65usgWm5Ol8eARBG6oHe7Et582SZnyzl/sPSddl6U9Y4AkgHThjdMR37Bp69NCtAvIicHWQbH63ouHw2nm+z+Qi/GnAu9tWIvP7dHnkOG06fcqRA5shy8CtKQ0h5T6BWaCuIufb6Q+62mZ99nNKUObEwOzBQ1SH2WpqAvi8zA=;Lo5gs4LI5NZGRCSFgfDyCw=="
+secured: "QZdANlPlNx5PvNB/3/yzDfqc3WBqewh8oKRvWAJKi/AbCYu0CmCkMUxeEvtT/d4L5Q1dABkLeqvA2B/nk+LU2AHBaSc3rcIh2Bu62vzO1Ljg1N4GZ5r+X/jp7W9du+bPST/CvGqXg2mlgC84Jz5NLlJ0I9aHOYLjghK14GooLOY0ifj/hJ1tUluJfCOpCL0y4JwNKYdZ8+LuH6mne+TXL3kehsA+DNDJSmG4PmF3QzSsriTWa4fNDMR2zZKmNzFVpJDYH/T83KCYKSSwwbd7HJQMGNGcx1spcBy4UfNpMUzPk9IUj7POA9/EM1J2CQPLpSv99EhOcAuQQqeU0noTiXNiIRL0lwy1+ScBgLxBpUc=;0/tNQGvxt17jgca3RixzTQ=="
 ---
 

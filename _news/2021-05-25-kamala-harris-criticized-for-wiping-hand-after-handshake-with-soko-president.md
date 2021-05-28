@@ -92,6 +92,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris uses Naval Academy speech to plug ‘rolled-up solar panel’"
+    excerpt: "Vice President Kamala Harris on Friday told graduating Naval Academy midshipmen that they may soon be able to pack a “rolled-up solar panel.”"
+    publishedDateTime: 2021-05-28T18:18:00Z
+    webUrl: "https://nypost.com/2021/05/28/kamala-harris-plugs-battery-replacement-to-naval-academy-grads/"
+    ampWebUrl: "https://nypost.com/2021/05/28/kamala-harris-plugs-battery-replacement-to-naval-academy-grads/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/28/kamala-harris-plugs-battery-replacement-to-naval-academy-grads/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-naval-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "VP Kamala Harris Wipes Hand After Handshake With South Korea's President"
     excerpt: "Vice President Kamala Harris holds a bilateral meeting South Korean President Moon Jae-in at the White House on Friday, May 21, 2021, in Washington, D.C."
     publishedDateTime: 2021-05-24T00:00:00Z

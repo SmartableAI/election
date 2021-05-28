@@ -139,6 +139,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Harris cites challenges of 'fragile' world in Navy speech"
+    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval"
+    publishedDateTime: 2021-05-28T19:16:00Z
+    webUrl: "https://www.stltoday.com/news/national/harris-cites-challenges-of-fragile-world-in-navy-speech/article_951af9aa-acac-5e43-8a95-68bb5f59286d.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/c3/3c380bde-e91d-5e4e-b069-2f9d17251ba3/60b01a4f92fa0.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Kamala Harris cites challenges of 'fragile' world in Navy speech"
     excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
     publishedDateTime: 2021-05-28T17:04:00Z

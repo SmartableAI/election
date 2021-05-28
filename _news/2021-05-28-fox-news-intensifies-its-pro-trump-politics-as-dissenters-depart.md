@@ -162,10 +162,10 @@ related:
         isCached: true
   - title: "A Trump Case Awaits. Who Is the Best Prosecutor for the Job?"
     excerpt: "Some candidates for Manhattan’s district attorney are agents of change who want to cut the police budget. Others are very comfortable with long-established established power networks."
-    publishedDateTime: 2021-05-28T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/05/28/nyregion/NYC-district-attorney-election.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/28/nyregion/NYC-district-attorney-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/nyregion/NYC-district-attorney-election.amp.html"
+    publishedDateTime: 2021-05-28T16:23:00Z
+    webUrl: "https://www.nytimes.com/2021/05/28/nyregion/ny-trump-ag.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/28/nyregion/ny-trump-ag.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/nyregion/ny-trump-ag.amp.html"
     type: article
     provider:
       name: New York Times
@@ -175,6 +175,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/30/nyregion/30Big/30Big-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Fox News Intensifies Its Pro-Trump Politics as Dissenters Depart"
+    excerpt: "Donna Brazile, a Democratic analyst, has left the Murdoch-owned network as some hosts and journalists who questioned Donald Trump have exited or been sidelined."
+    publishedDateTime: 2021-05-28T18:25:00Z
+    webUrl: "https://www.nytimes.com/2021/05/28/business/media/trump-fox-news.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/28/business/media/trump-fox-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/business/media/trump-fox-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/28/business/28Fox-01/28Fox-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "POLITICO Playbook: GOP dreads the return of Trump rallies"
     excerpt: "But ONALD TRUMP’S return to the stump, predicting his rallies will cause a major headache for the party as it mounts a bid to take back Congress in 2022. Even as they tee off against Twitter and Facebook for banning Trump,"

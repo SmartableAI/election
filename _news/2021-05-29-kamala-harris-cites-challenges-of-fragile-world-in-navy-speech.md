@@ -143,6 +143,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Harris cites challenges of 'fragile' world in Navy speech"
+    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval"
+    publishedDateTime: 2021-05-28T19:16:00Z
+    webUrl: "https://www.stltoday.com/news/national/harris-cites-challenges-of-fragile-world-in-navy-speech/article_951af9aa-acac-5e43-8a95-68bb5f59286d.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/c3/3c380bde-e91d-5e4e-b069-2f9d17251ba3/60b01a4f92fa0.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "vdPEz+9nvSmR5WHHy9V/hQE2QwhxC8fRW/n+ALabDToxh6H7u8sn/OoDjBVFJOi0ZcIsf/fIvCc2zPtyqKigFL7r/VVpHUn8I3iI00nTA/jTHfjfl46WqAD+zGHBkFuiGafwAAjV8S51SfUMQC5oOPkCAZmzlaJykb0E73OYQJOjFFWQu2gsT/3muoEhZI2nDRUFhj2LZyS6uMs29ulCJnR+eBzbOGSs+csr+FwngoanKUf6PdmHYZ4azMvEbJo0okgqipi7+E+01hf1ZBHX/9GrEdEAjrxKowt0kNvTya/2HltQgOwo/g+BB8GFq56+7lJmxT24PmCAlBGRl1Ta1n+qgXgP/BelBiwDkIog+SBbNnJG3eJq5sMsj5ef67leHlueF8DRQiTgHJaMGwLUZG+bQ+RziqBka6FUB2WTjQ1M5QR3/aHs3vWxnHX6QWojlsvCBMR/mprx63mp3ENJYaeraI9PRkJYVcFwbmqcjjp0fTiZWgYEXqMXyE/QLuNZduUdaRlNaJl22te91MXtHQ==;Nw4LGgRAH246RIMzESQXNw=="
 ---

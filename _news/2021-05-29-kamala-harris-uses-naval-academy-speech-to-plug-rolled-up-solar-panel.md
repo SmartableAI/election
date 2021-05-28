@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Kamala Harris wipes hand after greeting South Korean leader, faces Twitter backlash"
-excerpt: "Many Americans have become more germ-conscious since the start of the coronavirus pandemic last year – but Vice President Kamala Harris may have made her concerns too conspicuous."
-publishedDateTime: 2021-05-23T05:29:46Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J93HpuDVsvk/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J93HpuDVsvk/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash"
-ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
+title: "Kamala Harris uses Naval Academy speech to plug ‘rolled-up solar panel’"
+excerpt: "Vice President Kamala Harris on Friday told graduating Naval Academy midshipmen that they may soon be able to pack a “rolled-up solar panel.”"
+publishedDateTime: 2021-05-28T18:18:00Z
+originalUrl: "https://nypost.com/2021/05/28/kamala-harris-plugs-battery-replacement-to-naval-academy-grads/"
+webUrl: "https://nypost.com/2021/05/28/kamala-harris-plugs-battery-replacement-to-naval-academy-grads/"
+ampWebUrl: "https://nypost.com/2021/05/28/kamala-harris-plugs-battery-replacement-to-naval-academy-grads/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/28/kamala-harris-plugs-battery-replacement-to-naval-academy-grads/amp/"
 type: article
-quality: 179
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-naval-03.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -45,6 +41,22 @@ related:
     quality: 185
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b7c7af2-081d-4bf9-9edb-dd1f17f4989b/d147cde4-a6d2-4b7a-b3a4-35a2ff067edb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris wipes hand after greeting South Korean leader, faces Twitter backlash"
+    excerpt: "Many Americans have become more germ-conscious since the start of the coronavirus pandemic last year – but Vice President Kamala Harris may have made her concerns too conspicuous."
+    publishedDateTime: 2021-05-23T05:29:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J93HpuDVsvk/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-wipes-hand-after-greeting-south-korean-leader-faces-twitter-backlash.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -80,22 +92,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris uses Naval Academy speech to plug ‘rolled-up solar panel’"
-    excerpt: "Vice President Kamala Harris on Friday told graduating Naval Academy midshipmen that they may soon be able to pack a “rolled-up solar panel.”"
-    publishedDateTime: 2021-05-28T18:18:00Z
-    webUrl: "https://nypost.com/2021/05/28/kamala-harris-plugs-battery-replacement-to-naval-academy-grads/"
-    ampWebUrl: "https://nypost.com/2021/05/28/kamala-harris-plugs-battery-replacement-to-naval-academy-grads/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/28/kamala-harris-plugs-battery-replacement-to-naval-academy-grads/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-naval-03.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Kamala Harris criticized for wiping hand after handshake with SoKo president"
     excerpt: "Vice President Kamala Harris is taking heat after a video emerged appearing to show her wipe her hand on her jacket after greeting South Korean President Moon Jae-in at the White House last"
     publishedDateTime: 2021-05-24T19:22:00Z
@@ -129,6 +125,6 @@ related:
         height: 678
         isCached: true
 
-secured: "dijc6C2TQqLkR/IyfuhM9WI/8z6xnfuqXYglKxKQk9ERiybT8dOJO01xuDr5ABe6lHTJkyWvKSAMOK/Xhdj1OEZOsHjXB21x66dwaQfCx025U4EjzS8MqWc2dsJn5I0nJFvy148Pyq+6U6TRQr6qWG7vnlHVOLkuSruNZ/GFc5IG+lajVLu7VOuA2gQ6ZDD7v1T5G4xqb2Y/+DHJAFkRirttKy/jt1PCLJV/RU44b0CkUVr8xJzEwmPDLDkuA/dYYIMCnysw/8duPZbSJsXLliq/bawTWFiVtlWMqx61VAiqvj26T2H4SldnvzytskaX+Gc9XfesG4gzDBkqHZPDWOXVU738qr5a/TUOfAcksUQ=;Pl5ErU+NuPKiR2g9xMfg0g=="
+secured: "arI6jRr6ff9fvnFGRbjrr9Kr1viLTwYdrXzXGU7qc/RYHZTiXWgTNEVZQLGNEPyH8ymQ5ifXmHLWdRtdvRDw+t5dRiiSY1Mmhj9TOLZnt1flYbHj/ugF7ziG/F9aqjBRSVIqkF3BAOSbd5vhh5gVRpG5f4HUv6HwnYSzHpBlbNUAIPSiOQZViqU9WABQiaEajckXRy0GQTuODNGTMiIyfVWoD4uVQNp/FZ64XO4FeBsBOaXZ32Q8U+UQkOEnGZQuzfomrC1VRt5gG0nG3OK0L20Nj7qWHXHrDidMSF9eOwGeqVwdoRobM5am4aTw3AHw4ihpVkDTZsLo3Bj0ORdev3b8xR99+h7sejIi/AbPMXw=;vxRVGDOeyxcaLFIdircrOw=="
 ---
 

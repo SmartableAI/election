@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-navy-graduates-us-new-era-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-navy-graduates-us-new-era-covid.amp"
 type: article
 quality: 185
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48f7d31-128d-48ec-aca5-6fdc9d09c814/3d14acbf-614a-47fe-8bce-546e449638e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Kamala Harris uses Naval Academy speech to plug ‘rolled-up solar panel’"
+    excerpt: "Vice President Kamala Harris on Friday told graduating Naval Academy midshipmen that they may soon be able to pack a “rolled-up solar panel.”"
+    publishedDateTime: 2021-05-28T18:18:00Z
+    webUrl: "https://nypost.com/2021/05/28/kamala-harris-plugs-battery-replacement-to-naval-academy-grads/"
+    ampWebUrl: "https://nypost.com/2021/05/28/kamala-harris-plugs-battery-replacement-to-naval-academy-grads/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/28/kamala-harris-plugs-battery-replacement-to-naval-academy-grads/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-naval-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris criticized for wiping hand after handshake with SoKo president"
     excerpt: "Vice President Kamala Harris is taking heat after a video emerged appearing to show her wipe her hand on her jacket after greeting South Korean President Moon Jae-in at the White House last"

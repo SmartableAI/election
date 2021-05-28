@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden budget excludes decades-old provision barring taxpayer funding of abortions"
+    excerpt: "President Biden proposed a budget on Friday that would exclude a decades-old provision blocking taxpayer funding of most abortions."
+    publishedDateTime: 2021-05-28T18:39:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3QN_kPYBN68/biden-hyde-amendment-budget-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hyde-amendment-budget-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hyde-amendment-budget-abortion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ca0e4b65-a327-44c4-a48d-8094d00ea10d/f81b1ccc-858a-4184-ab44-38a6553c836b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Lankford, other GOP senators urge Biden not to transfer detainees from Guantanamo Bay"
     excerpt: "Republican Sen. James Lankford led his GOP colleagues in urging President Biden not to release or transfer current detainees from Guantanamo Bay, Fox News has learned."
     publishedDateTime: 2021-05-25T17:08:00Z

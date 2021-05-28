@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Team Trump sees a political upside to his mounting legal troubles"
-excerpt: "The president and his aides are privately nervous about Manhattan district attorney Cy Vance’s investigation. But they see electoral upside in it too."
-publishedDateTime: 2021-05-27T21:51:00Z
-originalUrl: "https://www.politico.com/news/2021/05/27/trump-legal-troubles-upside-491277"
-webUrl: "https://www.politico.com/news/2021/05/27/trump-legal-troubles-upside-491277"
+title: "Fox News Intensifies Its Pro-Trump Politics as Dissenters Depart"
+excerpt: "Donna Brazile, a Democratic analyst, has left the Murdoch-owned network as some hosts and journalists who questioned Donald Trump have exited or been sidelined."
+publishedDateTime: 2021-05-28T18:25:00Z
+originalUrl: "https://www.nytimes.com/2021/05/28/business/media/trump-fox-news.html"
+webUrl: "https://www.nytimes.com/2021/05/28/business/media/trump-fox-news.html"
+ampWebUrl: "https://www.nytimes.com/2021/05/28/business/media/trump-fox-news.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/business/media/trump-fox-news.amp.html"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/d7/8f/c3b9557645f79f15433ea71eb2fa/191220-trump-5f5-gty-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://static01.nyt.com/images/2021/05/28/business/28Fox-01/28Fox-01-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -190,22 +192,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Fox News Intensifies Its Pro-Trump Politics as Dissenters Depart"
-    excerpt: "Donna Brazile, a Democratic analyst, has left the Murdoch-owned network as some hosts and journalists who questioned Donald Trump have exited or been sidelined."
-    publishedDateTime: 2021-05-28T18:25:00Z
-    webUrl: "https://www.nytimes.com/2021/05/28/business/media/trump-fox-news.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/28/business/media/trump-fox-news.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/business/media/trump-fox-news.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/28/business/28Fox-01/28Fox-01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "POLITICO Playbook: GOP dreads the return of Trump rallies"
     excerpt: "But ONALD TRUMP’S return to the stump, predicting his rallies will cause a major headache for the party as it mounts a bid to take back Congress in 2022. Even as they tee off against Twitter and Facebook for banning Trump,"
     publishedDateTime: 2021-05-27T10:10:00Z
@@ -217,6 +203,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/f6/08/70074aa645659a64f8134f17740b/210527-trump-ap-1160.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Team Trump sees a political upside to his mounting legal troubles"
+    excerpt: "The president and his aides are privately nervous about Manhattan district attorney Cy Vance’s investigation. But they see electoral upside in it too."
+    publishedDateTime: 2021-05-27T21:51:00Z
+    webUrl: "https://www.politico.com/news/2021/05/27/trump-legal-troubles-upside-491277"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d7/8f/c3b9557645f79f15433ea71eb2fa/191220-trump-5f5-gty-773.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -235,6 +235,6 @@ related:
         height: 629
         isCached: true
 
-secured: "57TJMZKQJQ+f7UmqJ/nrnuzYL2m4FIZ+pA+8VlhL6PayLEKNCe0Lbdcc/tM1mSK9XpDodjnG+KmYNxKMupK65Cv5m89ybYAFS5KmNYlbeymBu3E6PeDSII7Z4PKYFJO9+Msp3DlQxfZzmA8ElvEpELrBkOqL2jiM58vMpPnWq4x+W86bqIGdVS6OTpIwSfRrdLBvnCOTlEU4DtyRyV/ju0uyaXV/2oNugpbbOst/zpUNt8NSYFtaBXQJIadUoPNIh8uHk9f+6V7otCFZhJ9v77o/dwUHFBBL/G0U+mRWfvx3765f1CUrlNfWfONmYfca0rAjUcOX4eRRE5WBlgALnixl3rzxRaTMf+Ekc1GWugpNQags2BQHiUUB43vgfDZ2ozlG38EGz/rRFxrBPTs0p1YXF7JnR8ykyYdY3HSgdx2cvpWUhRv5ZyeGNifYFzsJ1nNvuehwBrchGwEZQprK2uYPgstZTtbT+rk5MXaBr971LxmmbIepg0997pX14C3+q84NfbOsYMbsxCHefjJ38Q==;4jcdAA/8p+h89YKMSGe7bw=="
+secured: "jeBo94wN/6ctn36QXcVdDuipqdTM6DqU7ynOG14t2UN3Z3l7HBxwQ4LDTJQhcSSibNdxPAuQjPw9gwaXEOHMK1U5o9bLNYdqBh1ZS83JZJZhkPuCtcETmgxVaQqyCSbj0jXMj3/Ns/8hDEm1CJC/xZGP7vx4mmVxaToeZI3BtVH3nDvn6YQejE2HqpVC7pPnM0o1m+9sCAQ9XSAzs0PT1cEsQ5p+6cWTeLjthYlN1bayIpHvsAZSQVus+1OaDM6+oNQzsR+36IwCWuuCSPJd1TzMbRPuaNGV6y6Kk46Kbi99CT5QH9wOp4feEteEDdZk0mFw2C/jsUIEJYrR/A2yMrdPb5HK0gRErXqpVsHdUwc=;k6JFGfFGf0yIJFmr/4kH/Q=="
 ---
 
