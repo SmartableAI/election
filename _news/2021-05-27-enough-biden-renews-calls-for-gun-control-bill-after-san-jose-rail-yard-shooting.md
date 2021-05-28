@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration won't seek to rejoin Open Skies Treaty after 2020 exit"
+    excerpt: "The Biden administration will not seek to reenter the Open Skies Treaty with Russia in response to that country's \"failure to take any actions to return to compliance,\" a State Department spokesperson said Thursday.\n    \n"
+    publishedDateTime: 2021-05-27T21:57:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4pxKiHuwA0I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/open-skies-treaty-us-wont-rejoin-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/open-skies-treaty-us-wont-rejoin-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200521115331-01-open-skies-tail-fin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "ACLU urges Biden administration to offer Covid-19 vaccine to detained immigrants"
     excerpt: "The American Civil Liberties Union is urging the Biden administration to provide Covid-19 vaccine access to immigrants in detention, citing the rapid spread of coronavirus in congregate settings, according to a letter sent the Department of Homeland Security and obtained by CNN.\n    \n"
     publishedDateTime: 2021-05-27T16:47:41Z

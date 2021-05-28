@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Sen. Rick Scott seeking to block DHS nominees until Biden visits southern border"
+    excerpt: "Florida Republican Sen. Rick Scott announced Thursday he will hold all Homeland Security nominations until President Biden makes a trip to the southern border."
+    publishedDateTime: 2021-05-27T23:43:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z_IR16AAs-k/sen-rick-scott-holding-up-dhs-nominees-until-biden-visits-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-rick-scott-holding-up-dhs-nominees-until-biden-visits-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-rick-scott-holding-up-dhs-nominees-until-biden-visits-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a956baa-0cb5-479e-9a25-40885a488c9a/458ceed5-b020-4a2c-b47d-30ec012bedf5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "3 House Dems blamed pandemic for needing proxy votes, but were touring Ford plant with Biden"
     excerpt: "Reps. Haley Stevens, D-Mich.; Elissa Slotkin, D-Mich.; and Dan Kildee, D-Mich., each signed a document granting their vote by proxy to one of their Democratic colleagues in the House for the vote series on May 18, 2021."
     publishedDateTime: 2021-05-20T23:20:11Z

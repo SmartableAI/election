@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "VP Harris announces business investments in Central America"
+    excerpt: "Vice President Kamala Harris on Thursday announced commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden"
+    publishedDateTime: 2021-05-27T21:54:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/vp-harris-announces-business-investments-in-central-america/article_21ee1c69-acfb-571a-93e1-47e32d4ad211.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/vp-harris-announces-business-investments-in-central-america/article_21ee1c69-acfb-571a-93e1-47e32d4ad211.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/vp-harris-announces-business-investments-in-central-america/article_21ee1c69-acfb-571a-93e1-47e32d4ad211.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/f3/8f39b9ba-e2d7-55b4-8220-aaf5c9a0fb67/60b01a50a3f20.image.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Harris to announce business investments in Central America"
     excerpt: "Vice President Kamala Harris on Thursday will announce commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden administr"
     publishedDateTime: 2021-05-27T16:32:00Z

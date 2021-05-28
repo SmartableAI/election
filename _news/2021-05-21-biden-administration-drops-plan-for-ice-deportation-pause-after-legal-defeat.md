@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Charles Payne denounces President Biden's social justice economic plan"
+    excerpt: "FOX Business host and author Charles Payne sounded off Thursday on “Your World” against President Biden's enormous social justice economic spending plan, which is hovering around $1 billion in current negotiations."
+    publishedDateTime: 2021-05-27T22:26:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GIzJUx5bvoo/payne-bidens-social-justice-economic-plan-is-taking-the-nation-off-the-rails"
+    ampWebUrl: "https://www.foxnews.com/politics/payne-bidens-social-justice-economic-plan-is-taking-the-nation-off-the-rails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/payne-bidens-social-justice-economic-plan-is-taking-the-nation-off-the-rails.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Lankford, other GOP senators urge Biden not to transfer detainees from Guantanamo Bay"
     excerpt: "Republican Sen. James Lankford led his GOP colleagues in urging President Biden not to release or transfer current detainees from Guantanamo Bay, Fox News has learned."
     publishedDateTime: 2021-05-25T17:08:00Z

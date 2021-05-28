@@ -172,6 +172,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Team Trump sees a political upside to his mounting legal troubles"
+    excerpt: "The president and his aides are privately nervous about Manhattan district attorney Cy Vance’s investigation. But they see electoral upside in it too."
+    publishedDateTime: 2021-05-27T21:51:00Z
+    webUrl: "https://www.politico.com/news/2021/05/27/trump-legal-troubles-upside-491277"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d7/8f/c3b9557645f79f15433ea71eb2fa/191220-trump-5f5-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "nOX+bf82XVQQF1bWmaPWNJSBp/SeuNTgPNF+Zdfm/gDF950Ne2s9qzMLbrz0fFqa/YAGrgPP7abPI/Q6wy6tuvoQIS6XhirxavzvvMr07+oQ614Om9j5Fz65SZwx06N4EV3mkl5iqWSQuoQU0iue9zDcmaRxCEMihshmOxlzZ7SSRNjM01GNCw9uQVGYmbOz7fqVi2G5NrRv58fBWXdaBka/XB3qN+dcuVWNlcUdOiAy2+4gQVJnc1gGTlobTPIdR28RvzkiMkZTnZfTqHEQxK/CNv0fMvNRmdU0ku4oe4F9njaP9MKrHMrkLpNPeInAlTyLf00+57mZmRFPVI+nrTI/Trwa/RnDSRXvlhNHtTo=;tlz8iEVn+R5FZ5z6QfZz5A=="
 ---

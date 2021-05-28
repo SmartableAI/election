@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
 type: article
 quality: 190
-heat: 370
+heat: 390
 published: true
 
 provider:
@@ -154,6 +154,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/f6/08/70074aa645659a64f8134f17740b/210527-trump-ap-1160.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Team Trump sees a political upside to his mounting legal troubles"
+    excerpt: "The president and his aides are privately nervous about Manhattan district attorney Cy Vance’s investigation. But they see electoral upside in it too."
+    publishedDateTime: 2021-05-27T21:51:00Z
+    webUrl: "https://www.politico.com/news/2021/05/27/trump-legal-troubles-upside-491277"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d7/8f/c3b9557645f79f15433ea71eb2fa/191220-trump-5f5-gty-773.jpg"
         width: 1160
         height: 773
         isCached: true

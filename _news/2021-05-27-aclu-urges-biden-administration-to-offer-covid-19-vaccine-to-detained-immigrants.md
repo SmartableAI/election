@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration won't seek to rejoin Open Skies Treaty after 2020 exit"
+    excerpt: "The Biden administration will not seek to reenter the Open Skies Treaty with Russia in response to that country's \"failure to take any actions to return to compliance,\" a State Department spokesperson said Thursday.\n    \n"
+    publishedDateTime: 2021-05-27T21:57:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4pxKiHuwA0I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/open-skies-treaty-us-wont-rejoin-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/open-skies-treaty-us-wont-rejoin-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200521115331-01-open-skies-tail-fin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration allocates $200 million to support survivors of domestic violence"
     excerpt: "The Biden administration announced on Monday it is allocating $200 million from the American Rescue Plan to support services for survivors of domestic violence following a rise in cases during pandemic lockdowns.\n    \n"
     publishedDateTime: 2021-05-24T17:06:19Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-states-ramp-up-legal-battles-ag
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies.amp"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/AP21097760253459.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Charles Payne denounces President Biden's social justice economic plan"
+    excerpt: "FOX Business host and author Charles Payne sounded off Thursday on “Your World” against President Biden's enormous social justice economic spending plan, which is hovering around $1 billion in current negotiations."
+    publishedDateTime: 2021-05-27T22:26:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GIzJUx5bvoo/payne-bidens-social-justice-economic-plan-is-taking-the-nation-off-the-rails"
+    ampWebUrl: "https://www.foxnews.com/politics/payne-bidens-social-justice-economic-plan-is-taking-the-nation-off-the-rails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/payne-bidens-social-justice-economic-plan-is-taking-the-nation-off-the-rails.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden administration drops plan for ICE deportation pause after legal defeat"
     excerpt: "The Biden administration has dropped its effort to impose a 100-day moratorium on Immigration and Customs Enforcement (ICE) deportations after a legal effort from Texas blocked the Biden campaign promise from taking place -- with the administration saying the time for it to go into effect has now passed."

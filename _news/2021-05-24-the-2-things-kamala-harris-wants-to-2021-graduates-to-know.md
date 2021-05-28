@@ -3,22 +3,26 @@ category: news
 title: "The 2 things Kamala Harris wants to 2021 graduates to know"
 excerpt: "Vice President Kamala Harris congratulated 2021 graduates for overcoming the challenges brought on by the coronavirus pandemic and encouraged them to consider their role in making the world better."
 publishedDateTime: 2021-05-24T00:28:00Z
-originalUrl: "https://www.gjsentinel.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_74f9af3e-6d46-5325-85ea-2cc0745d8866.html"
-webUrl: "https://www.gjsentinel.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_74f9af3e-6d46-5325-85ea-2cc0745d8866.html"
-ampWebUrl: "https://www.gjsentinel.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_74f9af3e-6d46-5325-85ea-2cc0745d8866.amp.html"
-cdnAmpWebUrl: "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_74f9af3e-6d46-5325-85ea-2cc0745d8866.amp.html"
+originalUrl: "https://www.djournal.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_9e7d7628-ca00-576d-a3be-b12eacb1c0be.html"
+webUrl: "https://www.djournal.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_9e7d7628-ca00-576d-a3be-b12eacb1c0be.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Grand Junction Daily Sentinel
-  domain: gjsentinel.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e7/9e7d7628-ca00-576d-a3be-b12eacb1c0be/60aaf7bfb2d3a.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
 
 related:
   - title: "Biden and Harris meet George Floyd’s family on anniversary of his murder – live"
@@ -515,6 +519,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "un13t6OWlmdZFvkz/SgnL7QaZ/JCOzxZRn5CdM1T2NiKMUC4ixxNTxci+qym6T6JIoKuJAh5g8oXsMO1einjOAIpg9UkJx1fLrxNoChCRfmlLiyHk88oSeEx98lAoAR4V7S30Nzmp51y44dqgaVYnX5yfimh0XFOadV9LBYtUp36ZkpocRLcUR3a35k3cjqRT06kk4V4RunrVN6oFd9wCoZ4eQhbXwxS/kpYjrVuySR7SlPJ9MrPmLZtsU7HJOypzqNpK7jNa37DAS4+g8n6wb3Oj142pV1HuvtNNKS04ii040ZpKf8/pGqnGV1K3C4fZEIhrBOSRVpah7Yt8hxdorpWPm6caYOCJBEEGqLdKppc11VSPv895t9DIT9mc8iWxgExfaQ0yi2FWFDi/YdyO/Bv0AmEgNTHUrml6ES2rA4g8B01UmKh9NeKXYadQLf2mrTI9cwHipx8jVOEvjsUT2BdQbPUYW8mONsOJzJPima03khAppzoLHEhbInzoW9E89+VYXmLr3WXDrdvuKVyfg==;EUWVXTtRlrNX9FXiMuajEA=="
+secured: "KhegGMdXllrV1jXLYrvPxhiULZnm95GDnBnWlzXYM9RX1BbjUHF74Ak+86U5KJIdxmOoHO+GToMzeQ/7jVOJw4Gl3EktQVjDwR0FlwvrrMeyuhxeYIeWyOiLydoSnCdE1YYJukxbOLd7ekhslhRZ1HJTSpmfvyVyWD5uF4nqzyU7uDHQ39MYtCh5k62AKpI60tpMBElBKYYf6rs08zE6FwAZJTjE4KclWVboGAHx5DTiO/XwTtEH6tjcW8YRRJlrxDCTk3unQl6K6e3CMnYAZ6dHHyOIfkbVV1gAF+8+qbpvJeDnv/10kM09iHCfgaaNKUGeHDW4aD8+k/uMMv+BvW7gCHI42KpL5oX6TYELad8=;c3WZxkYeAbM35amLKP2W2w=="
 ---
 

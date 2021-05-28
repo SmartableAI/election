@@ -2,11 +2,11 @@
 category: news
 title: "Biden administration backs Alaska oil drilling project approved under Trump"
 excerpt: "U.S. President Joe Biden's administration defended on Wednesday a proposed ConocoPhillips oil development in Alaska, backing the drilling project which was approved under the administration of former President Donald Trump."
-publishedDateTime: 2021-05-27T08:27:00Z
-originalUrl: "https://www.reuters.com/article/legal-conocophillips-alaska-biden-idUSKCN2D811P"
-webUrl: "https://www.reuters.com/article/legal-conocophillips-alaska-biden-idUSKCN2D811P"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D811P"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D811P"
+publishedDateTime: 2021-05-27T13:27:00Z
+originalUrl: "https://www.reuters.com/article/us-conocophillips-alaska-biden/biden-administration-backs-alaska-oil-drilling-project-approved-under-trump-idUSKCN2D809U"
+webUrl: "https://www.reuters.com/article/us-conocophillips-alaska-biden/biden-administration-backs-alaska-oil-drilling-project-approved-under-trump-idUSKCN2D809U"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D809U"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D809U"
 type: article
 quality: 138
 heat: -1
@@ -238,6 +238,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1808833/trump-blasts-biden-over-gas-prices.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden administration defends Trump-era Alaska oil decision"
+    excerpt: "U.S. government attorneys are defending a decision made during the Trump administration to allow a major oil project on Alaska’s North Slope to proceed"
+    publishedDateTime: 2021-05-27T21:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-administration-defends-trump-era-alaska-oil-decision-77949670"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-defends-trump-era-alaska-oil-decision-77949670"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-defends-trump-era-alaska-oil-decision-77949670"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
@@ -1837,6 +1853,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "V49rnamV82qBcsLkuVTI+n4lasVfIEnrm8SIdHiestwBFvEqjlxroddDzdvZcp8GDdb8nK8Hf687klmjOD7Bp3kTQdFh8gALQposrs9hv7LsuP0S9EBoAHOaDSACdEX8DPbpLFpm1ZMvT/IOchNzlR4RIM8uC6cwYBiIYLtaLmFt+2xs0Q8ySuysJnI3JJWypBdhDukuzR6wTSNxvGv86Clhv9oz20Qg0inyX4vJC/vverOCIiHXkKjn1OOW+BY/ofaGaBujtH7cHhN5ohfQQkbtm2jxYjIVIaSTTbKvPbkSb9c5nmlF2c6Ydr/loeJjpHr3e6vkYz4bZNSk6n8JoZ7wjKAu8faLysFx3pu3eMM=;hwCyaGjA909M1N73P8IG7g=="
+secured: "+t5MO8oDJLJ8MrCDnX6sPRPd9JHrzO8ZWPCkO3KRA3cRRwbdLwydz9X7mMJg9yCgImmqBnotskYVVenVfVAFMY+aBIjyfW25T8YBauMB2zpFtdUPxP2NC6jAcPoXJ4tt7VWzUvcv3+TbI5hEuac07t9A+YJ5CtmcoVUiXH6UoFxGiSuWhOdD/ekA4V/rhWJk5xbqKsVraTFPPuEyQRPkFoGDYYj8jhzadzM3GJP7x2ecz0k349Oa+6g57OEAuDwvQMrQNxpGOjBNKCzHwyCGwjXrKInb4I00ZF1g8G3Y9VjP7jdC5MDtXAvsk8FuJJVEB5vNdvE6v+YP8AloebPBMUrK0wjlyUyINaIKR+q+lPg=;8KWETUzAqcdQEXxeso38Qw=="
 ---
 

@@ -57,6 +57,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "VP Harris announces business investments in Central America"
+    excerpt: "Vice President Kamala Harris on Thursday announced commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden"
+    publishedDateTime: 2021-05-27T21:54:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/vp-harris-announces-business-investments-in-central-america/article_21ee1c69-acfb-571a-93e1-47e32d4ad211.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/vp-harris-announces-business-investments-in-central-america/article_21ee1c69-acfb-571a-93e1-47e32d4ad211.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/vp-harris-announces-business-investments-in-central-america/article_21ee1c69-acfb-571a-93e1-47e32d4ad211.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/f3/8f39b9ba-e2d7-55b4-8220-aaf5c9a0fb67/60b01a50a3f20.image.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "VP Harris says illegal migration worsened by 'extreme climate' disasters"
     excerpt: "Vice President Kamala Harris said Monday that “extreme climate incidents” such as hurricanes destroy crops in Central America and prompt more people to migrate illegally to the U.S."
     publishedDateTime: 2021-05-17T23:10:00Z

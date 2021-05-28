@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-25-trump-lashes-out-against-possible-us-senate-candidate-mark-brnovich-over-election-audit.md",
+      "title": "Trump lashes out against possible U.S. Senate candidate Mark Brnovich over election audit",
+      "excerpt": "Trump’s disapproval of Brnovich, Arizona's attorney general, could be significant because of Trump's continued support among many Republicans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/05/24/trump-criticizes-mark-brnovich-election-audit/7416438002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/05/24/trump-criticizes-mark-brnovich-election-audit/7416438002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/12/13/PPHX/5db3c5fd-6011-495e-84ad-54169aab376c-Day_5_Promo_2.jpg?auto=webp&crop=3199,1799,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7416438002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7416438002",
+      "publishedDateTime": "2021-05-25T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-biden-putin-to-meet-in-person-june-16-in-geneva-white-house-confirms.md",
+      "title": "Biden, Putin to meet in person June 16 in Geneva, White House confirms",
+      "excerpt": "President Biden and Russian President Vladimir Putin are expected to meet in Geneva next month, the White House announced Tuesday, maintaining that the meeting will serve as a tool to manage what will continue to be a deeply challenging relationship between the U.S. and Russia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM9m6nq2FBA/biden-putin-meeting-june-geneva",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM9m6nq2FBA/biden-putin-meeting-june-geneva",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-putin-meeting-june-geneva.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-june-geneva.amp",
+      "publishedDateTime": "2021-05-25T07:00:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-biden-and-putin-summit-expected-to-take-place-next-month-in-switzerland.md",
       "title": "Biden and Putin summit expected to take place next month in Switzerland",
       "excerpt": "The first face-to-face meeting between President Joe Biden and Russian President Vladimir Putin is expected to take place next month in Switzerland, two US officials told CNN, as the White House and the Kremlin move closer this week to finalizing arrangements for the summit.\n    \n",
@@ -662,7 +770,7 @@
       "originalUrl": "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -1047,7 +1155,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 515,
+      "heat": 535,
       "tags": null,
       "images": [
         {
@@ -1231,114 +1339,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-biden-wont-allow-justice-dept-to-seize-reporters-records.md",
-      "title": "Biden won't allow Justice Dept. to seize reporters' records",
-      "excerpt": "President Joe Biden says he won’t allow the Department of Justice to seize journalists’ phone records and emails, calling the practice “wrong” in a significant departure from his predecessors",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035",
-      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/WireAP_38dab6b4a6fc429288c8332a295a4057_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035",
-      "publishedDateTime": "2021-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-whitmer-transition-fund-paid-for-her-private-jet-to-attend-bidens-inauguration-report.md",
-      "title": "Whitmer transition fund paid for her private jet to attend Biden's inauguration: report",
-      "excerpt": "Michigan Gov. Gretchen Whitmer's transition fund paid for a private jet she took to attend President Biden's inauguration in January, according to a new report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YPBkXOXznTQ/gretchen-whitmer-private-jet-biden-inauguration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YPBkXOXznTQ/gretchen-whitmer-private-jet-biden-inauguration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd94e797-360f-4eb1-92ba-4a4a55dbf560/6e5bee31-047b-4727-b88f-6c80bdbdf265/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gretchen-whitmer-private-jet-biden-inauguration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gretchen-whitmer-private-jet-biden-inauguration.amp",
-      "publishedDateTime": "2021-05-21T16:57:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

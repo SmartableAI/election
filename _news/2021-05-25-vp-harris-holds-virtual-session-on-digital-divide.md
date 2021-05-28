@@ -447,14 +447,17 @@ related:
   - title: "The 2 things Kamala Harris wants to 2021 graduates to know"
     excerpt: "Vice President Kamala Harris congratulated 2021 graduates for overcoming the challenges brought on by the coronavirus pandemic and encouraged them to consider their role in making the world better."
     publishedDateTime: 2021-05-24T00:28:00Z
-    webUrl: "https://www.gjsentinel.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_74f9af3e-6d46-5325-85ea-2cc0745d8866.html"
-    ampWebUrl: "https://www.gjsentinel.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_74f9af3e-6d46-5325-85ea-2cc0745d8866.amp.html"
-    cdnAmpWebUrl: "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_74f9af3e-6d46-5325-85ea-2cc0745d8866.amp.html"
+    webUrl: "https://www.djournal.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_9e7d7628-ca00-576d-a3be-b12eacb1c0be.html"
     type: article
     provider:
-      name: The Grand Junction Daily Sentinel
-      domain: gjsentinel.com
+      name: Daily Journal
+      domain: djournal.com
     quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e7/9e7d7628-ca00-576d-a3be-b12eacb1c0be/60aaf7bfb2d3a.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Harris meets bipartisan lawmakers on broadband"
     excerpt: "Vice President Kamala Harris holds a bipartisan meeting at the White House Wednesday with members of Congress to discuss 'the critical importance of investing in broadband infrastructure.' (May 26)"
     publishedDateTime: 2021-05-26T23:55:00Z
