@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. judge says Trump's election falsehoods still pose security risk"
+    excerpt: "A U.S. judge said there is a risk that Donald Trump's supporters could still carry out attacks similar to the deadly Jan. 6 assault on the U.S. Capitol, noting the former president's \"near-daily fulminations\" about his election loss have not subsided."
+    publishedDateTime: 2021-05-27T16:45:00Z
+    webUrl: "https://www.reuters.com/article/usa-capitol-arrests-idUSL2N2NE149"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563618128&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0UP"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Most Republicans still believe 2020 election was stolen from Trump – poll"
     excerpt: "May opinion poll finds that 53% of Republicans believe Trump is the ‘true president’ compared with 3% of Democrats"
     publishedDateTime: 2021-05-24T21:39:00Z
@@ -60,6 +76,70 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump lashes out against possible U.S. Senate candidate Mark Brnovich over election audit"
+    excerpt: "Trump’s disapproval of Brnovich, Arizona's attorney general, could be significant because of Trump's continued support among many Republicans."
+    publishedDateTime: 2021-05-25T14:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/05/24/trump-criticizes-mark-brnovich-election-audit/7416438002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7416438002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7416438002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/12/13/PPHX/5db3c5fd-6011-495e-84ad-54169aab376c-Day_5_Promo_2.jpg?auto=webp&crop=3199,1799,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Right seizes Trump playbook to blame migrants for environmental harm"
+    excerpt: "Arizona’s attorney general has filed a lawsuit framing the climate crisis as a nativist issue as the evident impacts of global heating make denial less viable"
+    publishedDateTime: 2021-05-20T12:19:00Z
+    webUrl: "https://www.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/b289fcf53999c0954984c5be84fc6913d2c7a48b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=554f7d094846e7ccadf088f01921c64e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "CNN: Trump Justice Department seized reporter phone records"
+    excerpt: "CNN says the Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent"
+    publishedDateTime: 2021-05-20T23:19:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_47b26d87f8f14e2b8e0e6fd8609a3d1c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump criminal investigation looms over Manhattan DA race"
+    excerpt: "New York City voters will be casting their last ballots next month in an election that’s sure to have consequences for former President Donald Trump"
+    publishedDateTime: 2021-05-23T23:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d5a875991d4d42748fb944de85404194_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "New grand jury seated to probe Trump business dealings, reports say"
     excerpt: "The panel is expected to decide whether to indict Trump, other executives at his company or the company itself, The Washington Post says."
@@ -93,6 +173,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "What Donald Trump Criminal Probe Grand Jury Means for Former President"
+    excerpt: "The move signals that New York prosecutors are moving to seek criminal charges as a result of a two-year investigation into Trump."
+    publishedDateTime: 2021-05-26T16:52:00Z
+    webUrl: "https://www.newsweek.com/what-donald-trump-criminal-probe-grand-jury-means-1595082"
+    ampWebUrl: "https://www.newsweek.com/what-donald-trump-criminal-probe-grand-jury-means-1595082?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-donald-trump-criminal-probe-grand-jury-means-1595082?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1807576/donald-trump-steps-out-trump-tower.jpg"
+        width: 2500
+        height: 1728
+        isCached: true
   - title: "What we know about grand jury in Trump probe"
     excerpt: "The news that Manhattan’s district attorney has convened a special grand jury as part of his criminal probe of Donald Trump’s business dealings has fueled speculation over whether Trump could become the first U."
     publishedDateTime: 2021-05-26T18:51:00Z
@@ -108,22 +204,6 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_112720getty_lead.jpg"
         width: 1340
         height: 800
-        isCached: true
-  - title: "What we know about investigations looming over Donald Trump, his company"
-    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
-    publishedDateTime: 2021-05-19T20:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 124
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Justice Department appeals judge’s order to release Trump obstruction memo"
     excerpt: "The Biden administration will appeal a judge’s order to release a memo on whether former President Trump obstructed justice during the Russia probe."
@@ -141,21 +221,21 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Poll: A quarter of Americans say Donald Trump is 'true president' of the US"
-    excerpt: "An online Reuters/Ipsos poll of about 2,000 Americans finds sharp partisan differences in beliefs on the legitimacy of the 2020 election and more."
-    publishedDateTime: 2021-05-25T17:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/25/poll-quarter-americans-surveyed-say-trump-true-president/7426714002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7426714002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7426714002"
+  - title: "CNN says Trump Justice Department secretly obtained reporter’s phone records"
+    excerpt: "The revelation comes two weeks after The Washington Post disclosed that the Justice Department had last year seized phone records belonging to three current and former journalists."
+    publishedDateTime: 2021-05-21T02:06:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/20ff0474-6182-48fa-9e03-2c65ffaf7e9a-AP_Capitol_Breach.jpg?auto=webp&crop=5869,3301,x1,y0&format=pjpg&width=1200"
+      - url: "https://www.chicagotribune.com/resizer/sB5cQgbvIQZhpKMxyt-M95yTIwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NRXIDCVBOSJ4I3MD7H43RSYGNU.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
     excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
@@ -173,6 +253,36 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "McCarthy says he would testify about conversation with Trump during Jan. 6 Capitol assault"
+    excerpt: "House Minority Leader Kevin McCarthy took a swipe at the \"Pelosi commission\" to investigate the Jan. 6 Capitol attack as one plagued with politics."
+    publishedDateTime: 2021-05-20T18:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kevin-mccarthy-presser-02-rt-jef-210520_1621534095132_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump Org. subject of criminal probe in New York"
+    excerpt: "New York's attorney general said Friday that she's assigned two lawyers to work with the Manhattan district's attorney's office on a criminal investigation into former President Donald Trump's business dealings."
+    publishedDateTime: 2021-05-21T19:38:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/21/trump-org-subject-criminal-probe-new-york/5208067001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6026d8e2-3c12-42da-9ba8-67dd8fd97232_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Grand jury convened in Trump investigation in..."
     excerpt: "Watch \"A grand jury has been convened to weigh whether Pres. Trump should face charges in connection with an ongoing investigation by the Manhattan's Distric\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
     publishedDateTime: 2021-05-27T04:15:00Z
@@ -186,6 +296,34 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/05/27/story_10552831_1622089144.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "What happens next as grand jury considers case on Trump business dealings"
+    excerpt: "Former President Donald Trump is responding to the seating of a grand jury in the investigation into his business dealings, calling it \"purely political.\" CBS News legal contributor Rebecca Roiphe joined CBSN's Tanya Rivero to explain the process and what could happen next in this investigation."
+    publishedDateTime: 2021-05-26T19:45:00Z
+    webUrl: "https://www.cbsnews.com/video/grand-jury-investigation-trump-business-dealings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/26/70b014e9-1b89-4a97-a371-0041d7796fd0/thumbnail/1200x630/386ed7b35b0d01943469dcd0d9809ba6/cbsn-fusion-what-happens-next-as-grand-jury-considers-case-on-trump-business-dealings-thumbnail-723724-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "New York Prosecutor Convenes Grand Jury in Criminal Investigation of Donald Trump"
+    excerpt: "Manhattan District Attorney Cyrus Vance Jr. is conducting a wide-ranging investigation into Donald Trump's business dealings."
+    publishedDateTime: 2021-05-26T02:30:00Z
+    webUrl: "https://time.com/6051259/donald-trump-criminal-grand-jury-new-york/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 100
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/05/Trump-grand-jury.jpg"
+        width: 1024
+        height: 711
         isCached: true
   - title: "Trump's Ex-Advisor Says COVID-19 Pandemic Was Fabricated To Control 2020 Elections"
     excerpt: "Donald Trump’s former National Security Advisor Michael Flynn has alleged that the COVID-19 pandemic was fabricated to control the 2020 U.S. election. Flynn, a retired general who is one of the most well-known figures in the QAnon conspiracy theory,"
@@ -219,21 +357,37 @@ related:
         width: 1024
         height: 731
         isCached: true
-  - title: "Trump Is Still Spending Taxpayer Money To Fund His Office, 17 Staff: Report"
-    excerpt: "Former President Donald Trump can continue using taxpayer money to fund his office and staffers until July 21."
-    publishedDateTime: 2021-05-18T01:23:00Z
-    webUrl: "https://www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158"
-    ampWebUrl: "https://www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158?amp=1"
+  - title: "With tall Trump tale, Macron plays to France's young voters"
+    excerpt: "Filmed in the French presidential palace with two of France's most popular YouTube stars, the half-hour of banter, tall tales, and a grungy rendition of “La Marseillaise\" by heavy-metal band “Ultra Vomit” represented Macron's most audacious effort yet to woo young voters."
+    publishedDateTime: 2021-05-23T21:13:00Z
+    webUrl: "https://www.chron.com/entertainment/article/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
+    ampWebUrl: "https://www.chron.com/entertainment/amp/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Trump Irate, Lashes Out After Grand Jury Seated For Trump Organization Probe"
+    excerpt: "Manhattan's top prosecutor recently convened a grand jury to decide whether indictments should be issued against Donald Trump over potential financial misconduct."
+    publishedDateTime: 2021-05-26T03:38:00Z
+    webUrl: "https://ibtimes.com/trump-irate-lashes-out-after-grand-jury-seated-trump-organization-probe-3208751"
+    ampWebUrl: "https://www.ibtimes.com/trump-irate-lashes-out-after-grand-jury-seated-trump-organization-probe-3208751?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-irate-lashes-out-after-grand-jury-seated-trump-organization-probe-3208751?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 73
+    quality: 72
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/11/former-president-donald-trump-is-not-running-for.jpg"
         width: 1024
-        height: 731
+        height: 682
         isCached: true
   - title: "Following Donald Trump will lead to the demise of the Republican Party (Letters)"
     excerpt: "What does the Republican Party stand for? Kevin McCarthy, House minority leader backs Donald J. Trump in his big lie about election fraud 100%. He even got rid of Liz Cheney from her leadership post because she could not abide by Trump’s falsehood."
@@ -251,29 +405,15 @@ related:
         width: 6720
         height: 4480
         isCached: true
-  - title: "Trump Organization Faces Criminal Probe In New York State"
-    excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
-    publishedDateTime: 2021-05-19T10:35:00Z
-    webUrl: "https://www.ibtimes.com/trump-organization-faces-criminal-probe-new-york-state-3202928"
+  - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
+    excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
+    publishedDateTime: 2021-05-22T11:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/22/donald-trump-criminal-investigation-makes-his-political-future-murky/5166416001/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/18/a-sign-for-the-trump-international-hotel-in.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "New York State Mounts Criminal Probe of Trump Organization Finances"
-    excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
-    publishedDateTime: 2021-05-19T07:02:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-19/new-york-state-mounts-criminal-probe-of-trump-organization-finances"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 26
 
 secured: "QslO4cjAnBpljCVbPILxslAlF5ixo5pzhxuKorvWVdmBwmWSLRrXgooL0x51LiSJdTyBrEOXCizg+BOtboF0KZBRFVFIX0s6lrx5tUSlv+OM5FoZfS05xP2Uucr2db/UpGYOFteVnzV+uotaiimCi7pZV5uNx6lIfj5IaCHvczLSDFOt8Jj515P4FOh1NohzJKR887HkMQtNNDLToiuusGsrEruIVLKjM6FryuMVTyGQFK3d2jOy7OKELUR0MBLr/XP391AmQ1Mll5+W5RnYgHwQaUb5NOlAnimXANq4RWfItxfcRNxWuzahvNc26bB4jWIKOzyUf9lQht4N0Hg9NDWW80f2CRhNqhUSOk75s6d91r7aWrWvxmWXJinLO6XVcsp07CkGouLF1IF8QJDbOhlyblRctCbQ3EJ7/rIdpVUvF2PqV7nbDwcKcF4pmT0qi2dXyI2dDe8+E54mCIIent/pjHUq1BCGfO9u0wM8qWuGIhbEj+6hT415LVBNQMd1jzHb6USG969/NK0+bBMjIA==;5T5CYzzuBCFzvqJCM7wLEQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/us/biden-propose-6-trillion-us-budge
 webUrl: "https://www.reuters.com/world/us/biden-propose-6-trillion-us-budget-2022-fiscal-year-nyt-2021-05-27/"
 type: article
 quality: 105
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 89
-  - title: "58% of Americans support President Joe Biden’s multi-trillion dollar bills on jobs, education and families, poll shows"
-    excerpt: "Invest in America, a research group, and Data for Progress, a progressive think tank, surveyed more than 1,200 likely voters in mid-May, with 58% of those polled supporting Biden’s spending plans, even if Democrats must pass them without Republican support."
-    publishedDateTime: 2021-05-23T18:25:00Z
-    webUrl: "https://www.masslive.com/coronavirus/2021/05/58-of-americans-support-president-joe-bidens-multi-trillion-dollar-bills-on-jobs-education-and-families-poll-shows.html"
-    ampWebUrl: "https://www.masslive.com/coronavirus/2021/05/58-of-americans-support-president-joe-bidens-multi-trillion-dollar-bills-on-jobs-education-and-families-poll-shows.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/05/58-of-americans-support-president-joe-bidens-multi-trillion-dollar-bills-on-jobs-education-and-families-poll-shows.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 51
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BMCKCLT5HFE3DM4KZHVOK4MTCY.jpeg"
-        width: 5448
-        height: 3632
-        isCached: true
 
 secured: "EfX7/aN+jvbWnc0uermoG5QRdH3W8HIMAEClrL03yXCtUDdlkqGKa454Ch1xH47INusl0X8DEfPFsIIwZu/IHL+HKX+dTw1i3kNKDXUct1V8taZBeY/oSSJLtGXXr0UqVki2rC6Gofcjyv3C5UcK38UG0vHDxHTDxpBFISmlWPPE6ccI0P5lWZh0Suq3oHGCRItkXfAN9re83dT5jf3Cpf5hfsOMcEDyT+eC/Pwj97ph9TSga46Fq0I1fdq6sS9AbyRYrwM7zduM8e/hO7CosHtXUdfCVnL3jiP6WmlTh/AZbK84r+EpVBN19e1XLrV3J2DhsGsJdXupnPjr1ON7KcjMbZsBVgA4yF6oYipVhVI=;hC1TzOM25WTWpBtehJozoQ=="
 ---

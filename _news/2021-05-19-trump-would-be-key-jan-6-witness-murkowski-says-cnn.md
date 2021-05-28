@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Justice Department appeals order to release in full a legal memo on whether Trump obstructed justice during the Russia investigation"
+    excerpt: "The Biden administration is appealing a judge’s order directing it to release in its entirety a legal memo on whether President Donald Trump had obstructed justice during the Russia investigation."
+    publishedDateTime: 2021-05-25T15:13:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-justice-department-barr-russia-obstruction-memo-20210525-ymq23dif5rf2djn4tumyx74ojy-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 74
+    images:
+      - url: "https://www.chicagotribune.com/resizer/IpKs4rNbpj7N0ajE9lAC81rd9gU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZPFUXOBZBZECNBHEYYIALZV2FY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "FdkVnihfzVUvklsj8IAd74vuclmmL5kHGj55WQ4JeEgYeUw22MiJYK4MsaDWacbB/4WyOVktyXlcQs0xCZYbqebvx7MPoyf1ayBGYFXpoRIIU29CN5TdvRkxhkgSyBSvc2bEYxpgifODMpx+x0D+9vk/+YtjZEStbNFm9xac5IRc6FXqnD8OefDoKmGnC6gz5t6A4B8Usj+FTlD9I7fjjbHrcQp2PBWnb+H7vk+Ewe274YfHD4iFjBTQWB/5n/dhCsVh1TwMEgex49VJosGZrcF4BOv58gXFGtuAu9iJeiI3jIy9NG+h3H0DK3gSUkCpJXzFSUKnD/rqmLHI6Fz9ZatXPUiZojs0m0hPG6PjPPEher7WkfB6c/9j2eAVwRHS3vy9iD51VGQBiMDdZW/YaV+XzeKoyMdXFkA+vdXANkvFCQOZdOJqNRweru19koQSqIzVR6K6PMQSZGH/ngWtw1d7OvKmL+2NIU+Y0YhBEKZmxFwbQKtxZwPQQ/I218GiWnzZtMIb/YP9E1Kz64DkTQ==;ebS4ssAYMzMxkjk8+DCpZw=="
 ---

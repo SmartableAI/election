@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden DOJ seeks to block the release of a 2019 memo that outlined reasons not to prosecute Trump after the Mueller report"
-excerpt: "Attorney General Bill Barr had cited this memo as one of his reasons not to charge Trump with obstruction of justice following the Mueller report."
-publishedDateTime: 2021-05-25T15:51:00Z
-originalUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5"
-webUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5"
-ampWebUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
+title: "AP source: Biden ending Trump OK for US oil company in Syria"
+excerpt: "The Biden administration won’t renew a Trump-era waiver that allowed a politically connected U.S. oil company to operate in northeast Syria"
+publishedDateTime: 2021-05-27T17:58:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/ap-source-biden-ending-trump-us-oil-company-77944942"
+webUrl: "https://abcnews.go.com/Business/wireStory/ap-source-biden-ending-trump-us-oil-company-77944942"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-source-biden-ending-trump-us-oil-company-77944942"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-source-biden-ending-trump-us-oil-company-77944942"
 type: article
-quality: 115
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/60acbd9abee0fc0019d593b6?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://s.abcnews.com/images/Business/WireAP_0302fd5c8d4e4cf4a75746e38b0704ad_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OOJZBHV7BEI6XERKYQGJO5F4JA.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "AP source: Biden ending Trump OK for US oil company in Syria"
-    excerpt: "The Biden administration won’t renew a Trump-era waiver that allowed a politically connected U.S. oil company to operate in northeast Syria"
-    publishedDateTime: 2021-05-27T17:58:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ap-source-biden-ending-trump-us-oil-company-77944942"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-source-biden-ending-trump-us-oil-company-77944942"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-source-biden-ending-trump-us-oil-company-77944942"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_0302fd5c8d4e4cf4a75746e38b0704ad_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts"
     excerpt: "The federal bureaucracy, reeling under the effects of the former president, is struggling to make good on the current president’s promises."
@@ -141,6 +125,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden DOJ seeks to block the release of a 2019 memo that outlined reasons not to prosecute Trump after the Mueller report"
+    excerpt: "Attorney General Bill Barr had cited this memo as one of his reasons not to charge Trump with obstruction of justice following the Mueller report."
+    publishedDateTime: 2021-05-25T15:51:00Z
+    webUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/60acbd9abee0fc0019d593b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "New York prosecutors convene grand jury to consider evidence in Trump criminal investigation, AP source says"
     excerpt: "The development signals that the Manhattan district attorney’s office was moving toward seeking charges as a result of its two-year investigation."
     publishedDateTime: 2021-05-25T23:15:00Z
@@ -174,6 +174,6 @@ related:
         height: 336
         isCached: true
 
-secured: "lBX7wiK3VRldkrcZdO4jjbH1PQwHVsnHAcEA1L6yFOkIY6XIdAwJSlCqU52GCfSYCu2G/+pYQhd6KyU/uHP4gE5S7rOjt57zbt1J/c0oAW9t6viOKSGaW+KCbSx0tM5+8lht+Qlw0KKFI0a4HLH1RyVrO8E2fpO7RHqCOMbHhCzWV9OCtNntvsiXwSm1x8c9Yo0i9FDrtjoNKAveTWjmdoyaHCSmzIOb6V79yLZP95jF+DESgF3UHZAzMItel2/8mzmo8NPASj0TCwkOqEDc7VSulQvE0dTpLPABGvD13F8vCFV2qyFsnUN2JVGqpQrp43HQKSZfzNGS/4TOSeGYdQ5w2Uufk3vc8dK+9iDzbM8=;xNOTcp2pZY4Hk5dTFr5QEg=="
+secured: "haEGVKK6E8qfgjkYDsFeS0Q5BJIx9fC3C9dmJ1iTlC4IQ/5j24/KV+02IfMsGrH2buK6X4crPBkBTFYDn5GlnamE0nplzuYtOqBdCt/iiCKQf4Rqzt2z60T5q56p1qrmbHr/I2s+tzPzfSVfVFFsBk/2zAXtnvf3PYFBIqQ8YpPY5nDvTZJUZAOeDEZeI8JIIUd8AIrAOTmvNj35Qf5a1laLLuZb6ObzIo8HnYaHixhwFRAyktmCXPS/VyxX0yTUrj4TU1My1I13aXeAYf8SK4Qia6tWqjG78S+cf+TiMdzjYbogIT1nR0W4tPVACJr88OAcn4ghPbKcnLweem20g82JxN+rUJKD+L6QsZMm6XY=;fqaCRhe98Hg3mwM2sZzeIg=="
 ---
 

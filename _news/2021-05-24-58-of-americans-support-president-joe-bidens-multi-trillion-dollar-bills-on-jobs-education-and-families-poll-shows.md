@@ -27,45 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to propose $6 trillion U.S. budget for 2022 fiscal year -NYT"
-    excerpt: "President Joe Biden will seek $6 trillion in U.S. federal spending for the 2022 fiscal year, rising to $8.2 trillion by 2031, the New York Times reported on Thursday, a day before the White House is expected to unveil its budget proposal."
-    publishedDateTime: 2021-05-27T12:55:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-propose-6-trillion-us-budget-2022-fiscal-year-nyt-2021-05-27/"
+  - title: "Poll: A quarter of Americans say Donald Trump is 'true president' of the US"
+    excerpt: "An online Reuters/Ipsos poll of about 2,000 Americans finds sharp partisan differences in beliefs on the legitimacy of the 2020 election and more."
+    publishedDateTime: 2021-05-25T17:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/25/poll-quarter-americans-surveyed-say-trump-true-president/7426714002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7426714002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7426714002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
     images:
-      - url: "https://www.reuters.com/resizer/5HgTgTiTA7jNogU_j6BneiGM1D4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TLU3CX4B6NP4RIH2GN5UDDFTII.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/20ff0474-6182-48fa-9e03-2c65ffaf7e9a-AP_Capitol_Breach.jpg?auto=webp&crop=5869,3301,x1,y0&format=pjpg&width=1200"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
-  - title: "Here's a closer look at Air Force One and the presidential motorcade during Biden's trip to Detroit"
-    excerpt: "In an unusual occurrence, the location where photographers were allowed to photograph Air Force One landing was also on the motorcade route."
-    publishedDateTime: 2021-05-24T16:03:00Z
-    webUrl: "https://www.businessinsider.com/closer-look-at-air-force-one-and-biden-presidential-motorcade-2021-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/60abcdcd5e34570019265227?width=1200&format=jpeg"
-        width: 960
-        height: 480
-        isCached: true
-  - title: "Biden to double funding to U.S. program that helps prepare for extreme weather events -Washington Post"
-    excerpt: "U.S. President Joe Biden on Monday will pledge $1 billion to a U.S. government program called Building Resilient Infrastructure and Communities that helps communities prepare for extreme weather events,"
-    publishedDateTime: 2021-05-24T14:21:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LM01V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LM01V"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
 
 secured: "capFWhc0xeyT31KOoafwz1gz1DXA7vG0ab/cLSm1mMkWieW4SI256+c64GE82pVYENhHC1hl7IG376PfqjibbvTmJLbhVTrpha/+C3KNS/0JXV7kITs0CKnoQquLB8vORVDZjGfIJFgNgEllq4PzYuFuatMuylPxXDuiJC8ax943ysnnujU8zu8KsNM4lVnx6zceoBn5W6R/3q5KTuA5V1DPX+J1JGLMgecaLvOKDXzDRVf1b5EDRbFQA9CCgynM39VDw1peq0ABnseyo5hElauWEcAe4E3I/J6bEzlIIhUxB5BmMTRkNWKhKKdfC0nUTUNJ5SoNhg1OcIKSaP9SYscuCOBjcMpf++3rx07CRF5Kdc4zmT9+j5PEUkFxNbvDpvSvfckQKXkTA8mq91njdpqwLlWPt8IC8lMiZxT9LBlIVd9/g8dXmw9rzKch9rqa7jqUmoCsS83ZrKwsB1f4FC1SbXZF2JpR3QgqAJTo5WrqF2bPluDrWpdcd8SUevBcKgSvDCqzjCDlk0OF7EzF6g==;ruZRfuoWdS9WJZoieiz2eg=="
 ---

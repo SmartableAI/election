@@ -1,29 +1,29 @@
 ---
 category: news
 title: "VP Harris announces business investments in Central America"
-excerpt: "Vice President Kamala Harris on Thursday announced commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden"
-publishedDateTime: 2021-05-27T21:54:00Z
-originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/vp-harris-announces-business-investments-in-central-america/article_21ee1c69-acfb-571a-93e1-47e32d4ad211.html"
-webUrl: "https://www.stltoday.com/news/national/govt-and-politics/vp-harris-announces-business-investments-in-central-america/article_21ee1c69-acfb-571a-93e1-47e32d4ad211.html"
-ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/vp-harris-announces-business-investments-in-central-america/article_21ee1c69-acfb-571a-93e1-47e32d4ad211.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/vp-harris-announces-business-investments-in-central-america/article_21ee1c69-acfb-571a-93e1-47e32d4ad211.amp.html"
+excerpt: "Harris issued what her office described as a “call to action” for businesses and nonprofits to make new commitments to promote economic opportunity in Central America. At an event announcing the initiative,"
+publishedDateTime: 2021-05-28T01:09:00Z
+originalUrl: "https://www.ctpost.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
+webUrl: "https://www.ctpost.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
+ampWebUrl: "https://www.ctpost.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
+cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Connecticut Post
+  domain: ctpost.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/f3/8f39b9ba-e2d7-55b4-8220-aaf5c9a0fb67/60b01a50a3f20.image.jpg"
-    width: 400
-    height: 225
+  - url: "https://s.hdnux.com/photos/01/20/23/16/21050297/3/375x250.jpg"
+    width: 375
+    height: 249
     isCached: true
 
 related:
@@ -104,6 +104,6 @@ related:
         height: 600
         isCached: true
 
-secured: "xD59UinQxjR1pfgNRDAW5Up2s0COIBP7xL2MDYUY59RAvGCaBt3m+mV37VxBbjohQwfsLsnkeHBLiWJ1XWPwAuhx6sz+Lbc6ab6WzWfagfZK7zFcT3WXHZWBaYNILPoh9dIcP1AQjcXwJxduPJEA/jPnil6ev6prxWYqWIfM9yGAZaXIioKiVJISPm6sKBum9WYLtK8BC7BX2nxOBPYh0KpZraxwuFGoiJjbIfh/m+40UancLTkhFsgYYA6taf54rzLXtw1CAjIGkuKK+f5D+2pUygP9t18tOG7m9OnPuh9eme6zuBMyzcv55XmwHNGq3DxhJadl5n0sEITRq9vENapXEWfhSpECPeN3czMacd8=;gkwobVXJawBR9AmVBf6cNQ=="
+secured: "PiCzqwbf7npIufSFGQLE4mdHdZmKl1SCR9ZNOpgtR9cfDYqkWAdfOHQZ80BW2xESfU0zSP/wkTLIWIO0lUwMl/wUZlVwG1+SKg9jOaIS7Tt45KMJPxNhymjP6M58+jbY+UdMHBh8SRzFqJa/AWyuuBqsybahMdeIFa4Dk33jRWuv9bCd6tMFD/9HsTKISZVMRqBImVQ57nJRDTQtLWtaIlmnRgZrPgcDm8zt9qpCdFUEvyW+oYyXFBT97zyNNjAqP2bZE5NsmK6DtVChhCq9fXM8IfBOL+IbqqlolnHbyg5gThb0dR1Uq9bgpM8DrJ82y15TL41bTgV3kwF6h3Z4Lb2dU7bKotq39SeeBFkLIs0=;UbcbKuuvbClc72KOV21Xgg=="
 ---
 

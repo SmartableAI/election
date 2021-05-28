@@ -43,6 +43,20 @@ related:
         width: 980
         height: 580
         isCached: true
+  - title: "Trump Organization Faces Criminal Probe In New York State"
+    excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
+    publishedDateTime: 2021-05-19T10:35:00Z
+    webUrl: "https://www.ibtimes.com/trump-organization-faces-criminal-probe-new-york-state-3202928"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/18/a-sign-for-the-trump-international-hotel-in.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump Hasn't Endorsed in Pennsylvania Gov's Race, Aide Says"
     excerpt: "A senior adviser to Donald Trump is taking to Twitter to stress that the former president has made no endorsement of anyone to become governor of Pennsylvania."
     publishedDateTime: 2021-05-20T21:26:00Z

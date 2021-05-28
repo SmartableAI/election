@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Sen. Rick Scott seeking to block DHS nominees until Biden visits southern border"
-excerpt: "Florida Republican Sen. Rick Scott announced Thursday he will hold all Homeland Security nominations until President Biden makes a trip to the southern border."
-publishedDateTime: 2021-05-27T23:43:30Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z_IR16AAs-k/sen-rick-scott-holding-up-dhs-nominees-until-biden-visits-southern-border"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z_IR16AAs-k/sen-rick-scott-holding-up-dhs-nominees-until-biden-visits-southern-border"
-ampWebUrl: "https://www.foxnews.com/politics/sen-rick-scott-holding-up-dhs-nominees-until-biden-visits-southern-border.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-rick-scott-holding-up-dhs-nominees-until-biden-visits-southern-border.amp"
+title: "Andy McCarthy hits media's lack of curiosity into the Biden family connection to China"
+excerpt: "Former U.S. Attorney and Fox News contributor Andrew McCarthy said Thursday on \"The Story\" that \"Hunter Biden’s business is access,\" after it was reported that Joe Biden met Hunter's foreign business associates."
+publishedDateTime: 2021-05-28T00:19:42Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1UtKg3PnKm0/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1UtKg3PnKm0/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy"
+ampWebUrl: "https://www.foxnews.com/politics/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy.amp"
 type: article
-quality: 170
+quality: 167
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a956baa-0cb5-479e-9a25-40885a488c9a/458ceed5-b020-4a2c-b47d-30ec012bedf5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0421a2a5-3c18-4aa0-8bb3-5cdc37d5d1d6/3054ef70-c6d0-4a2d-b9c0-c2d4b5190ff6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -63,19 +63,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Andy McCarthy hits media's lack of curiosity into the Biden family connection to China"
-    excerpt: "Former U.S. Attorney and Fox News contributor Andrew McCarthy said Thursday on \"The Story\" that \"Hunter Biden’s business is access,\" after it was reported that Joe Biden met Hunter's foreign business associates."
-    publishedDateTime: 2021-05-28T00:19:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1UtKg3PnKm0/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy"
-    ampWebUrl: "https://www.foxnews.com/politics/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy.amp"
+  - title: "Sen. Rick Scott seeking to block DHS nominees until Biden visits southern border"
+    excerpt: "Florida Republican Sen. Rick Scott announced Thursday he will hold all Homeland Security nominations until President Biden makes a trip to the southern border."
+    publishedDateTime: 2021-05-27T23:43:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z_IR16AAs-k/sen-rick-scott-holding-up-dhs-nominees-until-biden-visits-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-rick-scott-holding-up-dhs-nominees-until-biden-visits-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-rick-scott-holding-up-dhs-nominees-until-biden-visits-southern-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0421a2a5-3c18-4aa0-8bb3-5cdc37d5d1d6/3054ef70-c6d0-4a2d-b9c0-c2d4b5190ff6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a956baa-0cb5-479e-9a25-40885a488c9a/458ceed5-b020-4a2c-b47d-30ec012bedf5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -139,6 +139,6 @@ related:
       domain: washingtonexaminer.com
     quality: 65
 
-secured: "+87V2hYeSaIneyodUgVWEfKDcaFMHS3+qjfmUUxOh0TjY2dOp8Ov8R+3XHNHwpJPwtRGDTLyl6wvvz5QPYQe5UmNKulIjomGY5SjBIoRAsHbCV6FVg0NUk9fKjoI4wA48ylS5oNJJhpvMuHOcOIB/MCMiwiNJxjt7VR8ZknjCWKPqUX02GJ89PAvDV4F++Xfr7Bx1zmIg8hwNc6yL22LS4tH+G7N/RCqkecAo29KF11O/w3ZOyFUvSiuQLgoLFl4RLLf2lLRXQXaRTBLLi4JCkbG2IVs/cWEhNw40zUQxZjSYNsE5iB21Wt48vE+e8P0d76bJfhgo06WnGdiMV8XwlC4YmV3FGzo1Noac1WYAl4=;qyoEpw1VknyM4+MPYPcKDw=="
+secured: "pTDAZE3Z8RclxGEGUVuHXK8qf1OWtSA87w7Tu4WLcnpwYUjkN/XLeE+/yRjeTQfigrg813Hv/I6l/coAnLmi0f7d3aU2kGZcTXHPhUwmae0BviYUqNgrLEXfyrPe8vok1Or0CLV8G8ARUln60lJGIaHt8uX00DvjsXcb8gmzTMKVfFeUbC0E+pyVSkN6PPlFx1n4pkO5mcjI720g5tZj7+au+ooXg6YrTwRAXQHZ4uBlSvPd9g/aBzHgTjEQ0xy5S2YnO4bmbHh9KDDkd2iMoENG7qVPMD9xQfiwns6gjpXmGTfL/5KRcov34ZipDxvfejAP/4XLZCMDFkjcUHH6XYABFiuHTQffswKj41Ivpyk=;iVpMAufSBGntxReXE71CXA=="
 ---
 

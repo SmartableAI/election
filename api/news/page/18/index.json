@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-20-new-amy-klobuchar-book-attacks-trump-for-a-whole-lot-of-bluster-on-antitrust.md",
+      "title": "New Amy Klobuchar book attacks Trump for ‘a whole lot of bluster’ on antitrust",
+      "excerpt": "Minnesota senator says ex-president never had any intention of reining in big companies for pursuing anti-competitive practices",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/20/amy-klobuchar-trump-bluster-antitrust-new-book",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/20/amy-klobuchar-trump-bluster-antitrust-new-book",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/759beb5d7f6484b88c0d48f0971102c9b1a085de/0_29_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5a1613a09a1b771386a060b5ef32631",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/20/amy-klobuchar-trump-bluster-antitrust-new-book",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/20/amy-klobuchar-trump-bluster-antitrust-new-book",
+      "publishedDateTime": "2021-04-20T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-trump-campaign-chair-on-falling-poll-numbers-endorsing-paul-ryan.md",
       "title": "Trump campaign chair on falling poll numbers, endorsing Paul Ryan",
       "excerpt": "Donald Trump's campaign is on the defensive after a week full of controversies, including his feud with the family of a fallen soldier and comments about sexual harassment in the workplace. Trump campaign chairman Paul Manafort joins \"CBS This Morning\" to discuss Trump's refusal to endorse House Speaker Paul Ryan in the Wisconsin primary race and Trump's falling poll numbers.",
@@ -1293,58 +1345,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-lawyers-doj-defense-in-trump-defamation-suit-is-dangerous.md",
-      "title": "Lawyers: DOJ defense in Trump defamation suit is 'dangerous'",
-      "excerpt": "Lawyers for a woman who is suing former President Donald Trump say the U.S. Justice Department made a “wrong and dangerous” argument in seeking to defend him",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_b861a57493b24d94a51c0d2aa9265389_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952",
-      "publishedDateTime": "2021-04-17T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

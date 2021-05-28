@@ -79,21 +79,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Right seizes Trump playbook to blame migrants for environmental harm"
-    excerpt: "Arizona’s attorney general has filed a lawsuit framing the climate crisis as a nativist issue as the evident impacts of global heating make denial less viable"
-    publishedDateTime: 2021-05-20T12:19:00Z
-    webUrl: "https://www.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+  - title: "What we know about investigations looming over Donald Trump, his company"
+    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
+    publishedDateTime: 2021-05-19T20:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
     images:
-      - url: "https://i.guim.co.uk/img/media/b289fcf53999c0954984c5be84fc6913d2c7a48b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=554f7d094846e7ccadf088f01921c64e"
-        width: 600
-        height: 360
+      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "‘It’s hard to look at’: Donald Trump makes National Portrait Gallery debut"
     excerpt: "Photo of ex-president will make way for a painted portrait as gallery says Trump’s team is considering artists"

@@ -445,17 +445,14 @@ related:
   - title: "The 2 things Kamala Harris wants to 2021 graduates to know"
     excerpt: "Vice President Kamala Harris congratulated 2021 graduates for overcoming the challenges brought on by the coronavirus pandemic and encouraged them to consider their role in making the world better."
     publishedDateTime: 2021-05-24T00:28:00Z
-    webUrl: "https://www.djournal.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_9e7d7628-ca00-576d-a3be-b12eacb1c0be.html"
+    webUrl: "https://www.troyrecord.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_db8ac737-b6a0-55bc-b02e-bf568d7690e7.html"
+    ampWebUrl: "https://www.troyrecord.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_db8ac737-b6a0-55bc-b02e-bf568d7690e7.amp.html"
+    cdnAmpWebUrl: "https://www-troyrecord-com.cdn.ampproject.org/c/s/www.troyrecord.com/news/national/the-2-things-kamala-harris-wants-to-2021-graduates-to-know/video_db8ac737-b6a0-55bc-b02e-bf568d7690e7.amp.html"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
+      name: Troy Record
+      domain: troyrecord.com
     quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/9/e7/9e7d7628-ca00-576d-a3be-b12eacb1c0be/60aaf7bfb2d3a.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
   - title: "VP Harris holds virtual session on digital divide"
     excerpt: "Vice President Kamala Harris holds a virtual listening session to discuss the digital divide in American and how investments in the he American Jobs Plan will ensure every American has access to affordable, high-speed internet. (May 24)"
     publishedDateTime: 2021-05-24T23:48:00Z

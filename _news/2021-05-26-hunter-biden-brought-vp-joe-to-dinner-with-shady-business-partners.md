@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinn
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a956baa-0cb5-479e-9a25-40885a488c9a/458ceed5-b020-4a2c-b47d-30ec012bedf5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Andy McCarthy hits media's lack of curiosity into the Biden family connection to China"
+    excerpt: "Former U.S. Attorney and Fox News contributor Andrew McCarthy said Thursday on \"The Story\" that \"Hunter Biden’s business is access,\" after it was reported that Joe Biden met Hunter's foreign business associates."
+    publishedDateTime: 2021-05-28T00:19:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1UtKg3PnKm0/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0421a2a5-3c18-4aa0-8bb3-5cdc37d5d1d6/3054ef70-c6d0-4a2d-b9c0-c2d4b5190ff6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

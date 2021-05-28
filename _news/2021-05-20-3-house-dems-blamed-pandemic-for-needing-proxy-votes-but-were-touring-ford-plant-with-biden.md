@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Andy McCarthy hits media's lack of curiosity into the Biden family connection to China"
+    excerpt: "Former U.S. Attorney and Fox News contributor Andrew McCarthy said Thursday on \"The Story\" that \"Hunter Biden’s business is access,\" after it was reported that Joe Biden met Hunter's foreign business associates."
+    publishedDateTime: 2021-05-28T00:19:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1UtKg3PnKm0/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0421a2a5-3c18-4aa0-8bb3-5cdc37d5d1d6/3054ef70-c6d0-4a2d-b9c0-c2d4b5190ff6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to miss police reform bill deadline, meet with George Floyd's family on death anniversary"
     excerpt: "President Biden is expected to host the family of George Floyd at the White House on Tuesday – though Congress is poised to miss Biden’s deadline of getting the federal police reform bill with Floyd’s namesake passed by the one-year anniversary of Floyd's killing by a Minneapolis officer."
     publishedDateTime: 2021-05-24T13:26:45Z

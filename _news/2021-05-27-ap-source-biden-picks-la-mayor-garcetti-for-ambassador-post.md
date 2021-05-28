@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "AP source: Biden ending Trump OK for US oil company in Syria"
+    excerpt: "The Biden administration won’t renew a Trump-era waiver that allowed a politically connected U.S. oil company to operate in northeast Syria"
+    publishedDateTime: 2021-05-27T17:58:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-source-biden-ending-trump-us-oil-company-77944942"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-source-biden-ending-trump-us-oil-company-77944942"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-source-biden-ending-trump-us-oil-company-77944942"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_0302fd5c8d4e4cf4a75746e38b0704ad_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts"
     excerpt: "The federal bureaucracy, reeling under the effects of the former president, is struggling to make good on the current president’s promises."
     publishedDateTime: 2021-05-21T14:00:00Z

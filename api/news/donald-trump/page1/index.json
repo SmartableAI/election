@@ -110,7 +110,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria/2021/05/27/1e6a0060-bf15-11eb-922a-c40c9774bc48_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 300,
+      "heat": 320,
       "tags": null,
       "images": [
         {
@@ -134,6 +134,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-us-judge-says-trumps-election-falsehoods-still-pose-security-risk.md",
+      "title": "U.S. judge says Trump's election falsehoods still pose security risk",
+      "excerpt": "A U.S. judge said there is a risk that Donald Trump's supporters could still carry out attacks similar to the deadly Jan. 6 assault on the U.S. Capitol, noting the former president's \"near-daily fulminations\" about his election loss have not subsided.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-capitol-arrests-idUSL2N2NE149",
+      "originalUrl": "https://www.reuters.com/article/usa-capitol-arrests-idUSL2N2NE149",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 640,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563618128&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0UP",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ",
+      "publishedDateTime": "2021-05-27T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -268,58 +320,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-27-trump-organization-probe-enters-potentially-ominous-phase-with-grand-jury-convened.md",
-      "title": "Trump Organization probe enters potentially ominous phase with grand jury convened",
-      "excerpt": "Special grand jury marks a shift in Cy Vance's Trump Organization probe as possible evidence of criminal conduct may be presented.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/26/trump-grand-jury-signals-potentially-ominous-phase-fraud-probe/7445141002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/26/trump-grand-jury-signals-potentially-ominous-phase-fraud-probe/7445141002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/04/USAT/ea9211db-9579-49a5-a317-1bef9ae29567-AP_Twitter-CEO_Statement-Trump_Ban.jpg?auto=webp&crop=5173,2910,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7445141002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7445141002",
-      "publishedDateTime": "2021-05-26T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-27-trump-patriots-owner-robert-kraft-accused-of-trying-to-influence-late-senators-spygate-probe-report.md",
       "title": "Trump, Patriots owner Robert Kraft accused of trying to influence late senator's Spygate probe: report",
       "excerpt": "Former President Donald Trump and New England Patriots owner Robert Kraft were accused in a new report Wednesday of trying to influence the investigation into the team’s 2007 Spygate scandal.",
@@ -385,7 +385,7 @@
       "originalUrl": "https://www.cbsnews.com/news/capitol-riot-suit-trump-swalwell/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -629,6 +629,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-donald-trump-faces-new-grand-jury-as-manhattan-da-ramps-up-criminal-probe.md",
+      "title": "Donald Trump Faces New Grand Jury as Manhattan DA Ramps Up Criminal Probe",
+      "excerpt": "The grand jury will consider different matters including Trump's alleged hush-money payments, improper property valuations and employee compensation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844",
+      "originalUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1806845/donald-trump-grand-jury.jpg",
+          "width": 2500,
+          "height": 1737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844?amp=1",
+      "publishedDateTime": "2021-05-25T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-trump-teases-endorsement-in-texas-ag-race.md",
       "title": "Trump teases endorsement in Texas AG race",
       "excerpt": "Former President Trump on Tuesday said he would soon announce his endorsement in the Texas Attorney General race.",
@@ -637,7 +689,7 @@
       "originalUrl": "https://thehill.com/homenews/state-watch/555405-trump-teases-endorsement-in-texas-ag-race",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -738,6 +790,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-26-poll-a-quarter-of-americans-say-donald-trump-is-true-president-of-the-us.md",
+      "title": "Poll: A quarter of Americans say Donald Trump is 'true president' of the US",
+      "excerpt": "An online Reuters/Ipsos poll of about 2,000 Americans finds sharp partisan differences in beliefs on the legitimacy of the 2020 election and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/25/poll-quarter-americans-surveyed-say-trump-true-president/7426714002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/25/poll-quarter-americans-surveyed-say-trump-true-president/7426714002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/04/09/USAT/20ff0474-6182-48fa-9e03-2c65ffaf7e9a-AP_Capitol_Breach.jpg?auto=webp&crop=5869,3301,x1,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7426714002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7426714002",
+      "publishedDateTime": "2021-05-25T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-desantis-shuts-down-reporters-suggestion-that-big-tech-bill-is-for-trump.md",
       "title": "DeSantis shuts down reporter's suggestion that Big Tech bill is 'for' Trump",
       "excerpt": "Florida Gov. Ron DeSantis, R., shot down a Miami Herald reporter on Monday who accused him of introducing his new Big Tech censorship bill that allows residents to sue Big Tech companies solely for the benefit of former President Donald Trump,",
@@ -827,58 +931,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-trump-lashes-out-against-possible-us-senate-candidate-mark-brnovich-over-election-audit.md",
-      "title": "Trump lashes out against possible U.S. Senate candidate Mark Brnovich over election audit",
-      "excerpt": "Trump’s disapproval of Brnovich, Arizona's attorney general, could be significant because of Trump's continued support among many Republicans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/05/24/trump-criticizes-mark-brnovich-election-audit/7416438002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/05/24/trump-criticizes-mark-brnovich-election-audit/7416438002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/12/13/PPHX/5db3c5fd-6011-495e-84ad-54169aab376c-Day_5_Promo_2.jpg?auto=webp&crop=3199,1799,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7416438002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7416438002",
-      "publishedDateTime": "2021-05-25T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1057,58 +1109,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-most-republicans-still-believe-2020-election-was-stolen-from-trump-poll.md",
-      "title": "Most Republicans still believe 2020 election was stolen from Trump – poll",
-      "excerpt": "May opinion poll finds that 53% of Republicans believe Trump is the ‘true president’ compared with 3% of Democrats",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 459,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aab738d46a9b2e7ce009c676cb4f62f8d94df627/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43f3841ea4390c7aede36e6dd996a695",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden",
-      "publishedDateTime": "2021-05-24T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1383,58 +1383,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-24-trump-criminal-investigation-looms-over-manhattan-da-race.md",
-      "title": "Trump criminal investigation looms over Manhattan DA race",
-      "excerpt": "New York City voters will be casting their last ballots next month in an election that’s sure to have consequences for former President Donald Trump",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 445,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_d5a875991d4d42748fb944de85404194_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988",
-      "publishedDateTime": "2021-05-23T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-23-a-court-ruled-that-a-trump-spokesperson-must-pay-42000-to-gizmodo-media-group-for-wrongfully-claiming-the-outlet-defamed-him.md",
       "title": "A court ruled that a Trump spokesperson must pay $42,000 to Gizmodo Media Group for wrongfully claiming the outlet defamed him",
       "excerpt": "Now-defunct news outlet Splinter, owned by G/O Media, reported in 2018 that Jason Miller had given a dancer abortion drugs after getting her pregnant.",
@@ -1584,6 +1532,54 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-rachel-maddow-trump-backers-use-audit-excuse-to-discredit-elections-after-trump-loss.md",
+      "title": "Rachel Maddow: Trump Backers Use \"Audit\" Excuse To Discredit Elections After Trump Loss",
+      "excerpt": "MSNBC's Rachel Maddow looks at different places around the United States where Donald Trump supporters, inspired by the ballot inspection spectacle in Arizona, are using conspiracy theories to insist on more 'audits' of the 2020 election results Trump lost,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/522176.jpg",
+          "width": 1076,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/21/rachel_maddow_trump_backers_use_audit_excuse_to_discredit_elections_after_trump_loss.amp.html",
+      "publishedDateTime": "2021-05-21T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

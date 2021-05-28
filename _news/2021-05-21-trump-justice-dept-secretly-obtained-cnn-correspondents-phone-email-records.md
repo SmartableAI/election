@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national-security/trump-cnn-email-pho
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html?outputType=amp"
 type: article
 quality: 121
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/18/fca5c57b-04f7-4ff4-9832-a7b6c222547c/thumbnail/1200x630/d615f11dcdadbd7bc81e61c3680c60c9/ap19200565745965.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Justice Department appeals order to release in full a legal memo on whether Trump obstructed justice during the Russia investigation"
+    excerpt: "The Biden administration is appealing a judge’s order directing it to release in its entirety a legal memo on whether President Donald Trump had obstructed justice during the Russia investigation."
+    publishedDateTime: 2021-05-25T15:13:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-justice-department-barr-russia-obstruction-memo-20210525-ymq23dif5rf2djn4tumyx74ojy-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 74
+    images:
+      - url: "https://www.chicagotribune.com/resizer/IpKs4rNbpj7N0ajE9lAC81rd9gU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZPFUXOBZBZECNBHEYYIALZV2FY.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump Would Be Key Jan. 6 Witness, Murkowski Says -CNN"
     excerpt: "Former Republican President Donald Trump would be a key witness for any panel probing the Jan. 6 attack on the U.S. Capitol, Republican Senator Lisa Murkowski said on Tuesday, after the top Republican in the House earlier rejected the idea of any investigative commission."

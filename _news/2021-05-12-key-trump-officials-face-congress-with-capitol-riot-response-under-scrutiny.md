@@ -143,20 +143,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Org. subject of criminal probe in New York"
-    excerpt: "New York's attorney general said Friday that she's assigned two lawyers to work with the Manhattan district's attorney's office on a criminal investigation into former President Donald Trump's business dealings."
-    publishedDateTime: 2021-05-21T19:38:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/21/trump-org-subject-criminal-probe-new-york/5208067001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6026d8e2-3c12-42da-9ba8-67dd8fd97232_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Judge sentences co-founder of 'Students for Trump' to prison"
     excerpt: "A judge has sentenced a co-founder of “Students for Trump” to 13 months in prison after he admitted posing as a lawyer to cheat clients out of thousands of dollars"
     publishedDateTime: 2021-05-11T22:21:00Z
@@ -198,6 +184,15 @@ related:
         width: 1024
         height: 729
         isCached: true
+  - title: "New York State Mounts Criminal Probe of Trump Organization Finances"
+    excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
+    publishedDateTime: 2021-05-19T07:02:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-19/new-york-state-mounts-criminal-probe-of-trump-organization-finances"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "Q1LC2EFO7d5H51yuVW95HGXz+jC3RO+LcSEPutSXhgs1CpmD1rhv/c1AcBxvSRS0uBfZfFQVvIOUJNoSv9HPaKIXgV9Ikv+GxmfWMq3DT6E7K7tgzAlJTzCjRUXd+nrcQQfjRz/zivrT3MGyIg0yzjCjofxFky3iWwetdnLX0Jc91VY3VE69bmYBnI4I+KMRpeAbgrLEcAawRYe225NJdCnV0I5pHlPgFLJEgWEF03NO/WTH1e+GQFvVMYV84KgtSq4JLQsweHTS4t1tvs0W3psSs1QVCfF3OLW5V0lnodDweHUQFomrJn8twbNRfr6W/p16mYTfLKI3h/Zo3z1YT3NPioN14oGntS0Zpch/y7c=;OUriknzStYbWXW2ha5Dl6w=="
 ---

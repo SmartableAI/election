@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-source-biden-ending-trump
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria/2021/05/27/1e6a0060-bf15-11eb-922a-c40c9774bc48_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 300
+heat: 320
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AP source: Biden ending Trump OK for US oil company in Syria"
+    excerpt: "The Biden administration won’t renew a Trump-era waiver that allowed a politically connected U.S. oil company to operate in northeast Syria"
+    publishedDateTime: 2021-05-27T17:58:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-source-biden-ending-trump-us-oil-company-77944942"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-source-biden-ending-trump-us-oil-company-77944942"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-source-biden-ending-trump-us-oil-company-77944942"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_0302fd5c8d4e4cf4a75746e38b0704ad_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts"
     excerpt: "The federal bureaucracy, reeling under the effects of the former president, is struggling to make good on the current president’s promises."
     publishedDateTime: 2021-05-21T14:00:00Z
