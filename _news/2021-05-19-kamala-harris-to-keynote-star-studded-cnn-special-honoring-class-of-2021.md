@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris to become first female US Naval Academy commencement speaker"
+    excerpt: "Vice President Kamala Harris on Friday will become the first woman to give the commencement speech at the United States Naval Academy when she addresses the 2021 graduating class.\n    \n"
+    publishedDateTime: 2021-05-28T13:29:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FdnCZ-IvCEQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/kamala-harris-naval-acaddemy-commencement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/kamala-harris-naval-acaddemy-commencement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525192338-harris-0525-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to host George Floyd's family on anniversary of his death"
     excerpt: "President Joe Biden will host the family of George Floyd at the White House on Tuesday to mark the one-year anniversary of his death at the hands of police, a White House official confirmed to CNN.\n    \n"
     publishedDateTime: 2021-05-23T13:58:31Z

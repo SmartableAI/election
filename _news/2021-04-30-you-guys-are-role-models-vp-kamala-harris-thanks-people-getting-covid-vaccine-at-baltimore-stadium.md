@@ -611,6 +611,22 @@ related:
         width: 1024
         height: 695
         isCached: true
+  - title: "At Naval Academy graduation, Kamala Harris to focus on strengthening a ‘fragile’ world"
+    excerpt: "Vice President Kamala Harris will mark another first for women Friday when she addresses the graduating class of the United States Naval Academy, becoming the first female commencement speaker in the school’s nearly 175-year history."
+    publishedDateTime: 2021-05-28T12:27:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 67
+    images:
+      - url: "https://www.dailypress.com/resizer/lCoWbNBtmc_ALyYqS2HSfsk57X4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5RZAWHFCFXBO4RIVNFPNCKEGCU.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Maryland moves toward 2 million fully vaccinated in wake of VP Kamala Harris’ Baltimore visit"
     excerpt: "Maryland reported more than 70,000 immunizations for the first time in a week while several other key coronavirus metrics decreased"
     publishedDateTime: 2021-04-30T20:03:00Z

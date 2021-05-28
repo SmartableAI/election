@@ -156,6 +156,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Paul Ryan Calls on GOP to Lessen Reliance on Trump"
+    excerpt: "The former Republican House Speaker said that the future of the GOP needs to be about more than former President Donald Trump, urging Republicans to avoid focusing on cultural skirmishes at the expense of policy issues."
+    publishedDateTime: 2021-05-28T01:51:00Z
+    webUrl: "https://www.wsj.com/articles/paul-ryan-to-call-for-gop-to-lessen-reliance-on-trump-11622107801"
+    ampWebUrl: "https://www.wsj.com/amp/articles/paul-ryan-to-call-for-gop-to-lessen-reliance-on-trump-11622107801"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/paul-ryan-to-call-for-gop-to-lessen-reliance-on-trump-11622107801"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-344681/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
     excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"
     publishedDateTime: 2021-05-16T14:58:00Z

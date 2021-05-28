@@ -611,6 +611,22 @@ related:
         width: 1024
         height: 695
         isCached: true
+  - title: "At Naval Academy graduation, Kamala Harris to focus on strengthening a ‘fragile’ world"
+    excerpt: "Vice President Kamala Harris will mark another first for women Friday when she addresses the graduating class of the United States Naval Academy, becoming the first female commencement speaker in the school’s nearly 175-year history."
+    publishedDateTime: 2021-05-28T12:27:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 67
+    images:
+      - url: "https://www.dailypress.com/resizer/lCoWbNBtmc_ALyYqS2HSfsk57X4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5RZAWHFCFXBO4RIVNFPNCKEGCU.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris’ Senate successor is hanging out with AOC. Why experts say that’s a smart move"
     excerpt: "That’s become clear during his first three months as a U.S. senator. The California Democrat has embraced the Green New Deal, appearing with liberal star Rep. Alexandria Ocasio-Cortez recently to tout the plan."
     publishedDateTime: 2021-05-03T17:14:00Z
