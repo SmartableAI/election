@@ -2,28 +2,28 @@
 category: news
 title: "VP Harris announces business investments in Central America"
 excerpt: "Harris issued what her office described as a “call to action” for businesses and nonprofits to make new commitments to promote economic opportunity in Central America. At an event announcing the initiative,"
-publishedDateTime: 2021-05-28T01:09:00Z
-originalUrl: "https://www.ctpost.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
-webUrl: "https://www.ctpost.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
-ampWebUrl: "https://www.ctpost.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
-cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
+publishedDateTime: 2021-05-28T03:09:00Z
+originalUrl: "https://www.mysanantonio.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
+webUrl: "https://www.mysanantonio.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
+ampWebUrl: "https://www.mysanantonio.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
+cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: My San Antonio
+  domain: mysanantonio.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/20/23/16/21050297/3/375x250.jpg"
-    width: 375
-    height: 249
+  - url: "https://s.hdnux.com/photos/01/20/23/16/21050297/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -104,6 +104,6 @@ related:
         height: 600
         isCached: true
 
-secured: "PiCzqwbf7npIufSFGQLE4mdHdZmKl1SCR9ZNOpgtR9cfDYqkWAdfOHQZ80BW2xESfU0zSP/wkTLIWIO0lUwMl/wUZlVwG1+SKg9jOaIS7Tt45KMJPxNhymjP6M58+jbY+UdMHBh8SRzFqJa/AWyuuBqsybahMdeIFa4Dk33jRWuv9bCd6tMFD/9HsTKISZVMRqBImVQ57nJRDTQtLWtaIlmnRgZrPgcDm8zt9qpCdFUEvyW+oYyXFBT97zyNNjAqP2bZE5NsmK6DtVChhCq9fXM8IfBOL+IbqqlolnHbyg5gThb0dR1Uq9bgpM8DrJ82y15TL41bTgV3kwF6h3Z4Lb2dU7bKotq39SeeBFkLIs0=;UbcbKuuvbClc72KOV21Xgg=="
+secured: "4VjgxqH90Ynu9AqEzyythavsknypizvOgEtpggwYTJe179vixn4DNGHBFHRS1bRnBfxzB9UUBLPnObJbhsqvBWTDViw5hM1LGr9kjmfnpspkvbphnP1QpAKH6mrsfWPhnQ9aFjb3Uycze4q2xnTWYiqQ7RJa6m9DT0geyB5SnaSWeHpEWeb5Y2jkH0y5f9nZwEXOhI/0J82K+P9gTOo4CB5SzVk+O5wJzApTLig0/Zuz5MJk3PZGESsgYhcHehj/HmQl55i6We1VSWifAt11pAJnfpyTBkWqWK9tamkNDR9YqF3CMoALL2AuMPFDiHHArMj4xvT7YYM9J1gW0beS6CzFthqc13i6bmmnssb+sfw=;qKeT+7c7ILhKxGNhjTyeJw=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "U.S. judge says Trump's election falsehoods still pose security risk"
 excerpt: "A U.S. judge said there is a risk that Donald Trump's supporters could still carry out attacks similar to the deadly Jan. 6 assault on the U.S. Capitol, noting the former president's \"near-daily fulminations\" about his election loss have not subsided."
-publishedDateTime: 2021-05-27T16:45:00Z
-originalUrl: "https://www.reuters.com/article/usa-capitol-arrests-idUSL2N2NE149"
-webUrl: "https://www.reuters.com/article/usa-capitol-arrests-idUSL2N2NE149"
+publishedDateTime: 2021-05-27T16:56:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-capitol-arrests-idUSKCN2D81NZ"
+webUrl: "https://www.reuters.com/article/us-usa-capitol-arrests-idUSKCN2D81NZ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ"
 type: article
@@ -415,6 +415,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "GTQWE/vLVsaZbntWtexd5HmkpjLpAwDdNRO1wagTFyLfMjBmpw6F6RxohHoe27hFcWfSbbvMEYu/VL0f/hhukt34ehGWFLpPkunw1FCLhLbjwXwU2kpB7w73Tpu0q/X4e9eVga3dl3d6Xf09BjKcTtFwD6NXLPkwnmwki/CuJF9x6zeawFoTp9z2xnVUl94DnTs2pSbgHT69quxSeHAnWolYGGK3EtAE83MtH31qzt3Ebu8it8W7E2w6yWqmY5vE0T9hiO+v88nczzGKuJdWjxih/mRvPKNf0gdljfcjB/eVKWShIx4jy0covxU2FpfbBgKtdJlI6dUtWfAmt2+5uvv4ahQLST2UT2GzGTw+Eoc=;b16AbLLewsKYx0hGQmj7Pw=="
+secured: "iSqjqAZN0C6a8HjiTNiMTLXi2Czz7avS0ulfJRRnK5LyOdHXiFhTxTq0T+V2Ro2W03f9i6gM58z3ULbOrpLY9n2vYQaJGXTT0QK78Ms2iQspJX5IBvvpcsE9G6nbAHRwyCi4Q7C+VKdWnAQRzuz/FnS2xcdXhfDwqrdX6pCno1NwiT1b7AX/+1kTaEV+ZKBBSKORt7z1vc4/tEQruvdYdASBoL8KbtLi4WT+6CYhaH8VsQ9pqpyyBVfzb/1MqGvv9nnEwoQ0/tst3NMExh6HACC6P/dQs7xLQdYp6QD0mhd9Tvlj049+5OWtqBCjGC2zRN4R5eYVgsVmrAVpuxBEpDH/DpnLUQZppJOjQsvrtx4=;HxrBAumzQQU1KttrARvM0A=="
 ---
 

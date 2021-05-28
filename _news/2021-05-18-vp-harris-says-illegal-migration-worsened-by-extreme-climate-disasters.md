@@ -75,19 +75,19 @@ related:
         isCached: true
   - title: "VP Harris announces business investments in Central America"
     excerpt: "Harris issued what her office described as a “call to action” for businesses and nonprofits to make new commitments to promote economic opportunity in Central America. At an event announcing the initiative,"
-    publishedDateTime: 2021-05-28T01:09:00Z
-    webUrl: "https://www.ctpost.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
+    publishedDateTime: 2021-05-28T03:09:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
+      name: My San Antonio
+      domain: mysanantonio.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/20/23/16/21050297/3/375x250.jpg"
-        width: 375
-        height: 249
+      - url: "https://s.hdnux.com/photos/01/20/23/16/21050297/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Harris to announce business investments in Central America"
     excerpt: "Vice President Kamala Harris on Thursday will announce commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden administr"
