@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Senate Republicans unveil latest counteroffer to Biden on infrastructure spending"
-excerpt: "Senate Republicans on Thursday unveiled their latest counteroffer to President Joe Biden on infrastructure spending, calling for spending $928 billion."
-publishedDateTime: 2021-05-27T17:21:00Z
-originalUrl: "https://abcnews.go.com/Politics/senate-republicans-unveil-latest-counteroffer-biden-infrastructure-spending/story?id=77938463"
-webUrl: "https://abcnews.go.com/Politics/senate-republicans-unveil-latest-counteroffer-biden-infrastructure-spending/story?id=77938463"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/senate-republicans-unveil-latest-counteroffer-biden-infrastructure-spending/story?id=77938463"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/senate-republicans-unveil-latest-counteroffer-biden-infrastructure-spending/story?id=77938463"
+title: "METALS-Copper rises on reports of Biden's budget plans, Chile supply threat"
+excerpt: "Copper prices advanced on Friday, buoyed by demand optimism on reports of U.S. President Joe Biden's plans to make a $6 trillion budget announcement, while supply concerns in top producer Chile also supported sentiment."
+publishedDateTime: 2021-05-28T07:12:00Z
+originalUrl: "https://www.reuters.com/article/global-metals-idUSL2N2NF04H"
+webUrl: "https://www.reuters.com/article/global-metals-idUSL2N2NF04H"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NF04H"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NF04H"
 type: article
-quality: 120
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/presser-capitol-1-gty-ps-210527_1622123809260_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden won't allow Justice Dept. to seize reporters' records"
@@ -44,6 +38,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Entertainment/WireAP_38dab6b4a6fc429288c8332a295a4057_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Senate Republicans unveil latest counteroffer to Biden on infrastructure spending"
+    excerpt: "Senate Republicans on Thursday unveiled their latest counteroffer to President Joe Biden on infrastructure spending, calling for spending $928 billion."
+    publishedDateTime: 2021-05-27T17:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/senate-republicans-unveil-latest-counteroffer-biden-infrastructure-spending/story?id=77938463"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/senate-republicans-unveil-latest-counteroffer-biden-infrastructure-spending/story?id=77938463"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/senate-republicans-unveil-latest-counteroffer-biden-infrastructure-spending/story?id=77938463"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/presser-capitol-1-gty-ps-210527_1622123809260_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -91,17 +101,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "METALS-Copper rises on reports of Biden's budget plans, Chile supply threat"
-    excerpt: "Copper prices advanced on Friday, buoyed by demand optimism on reports of U.S. President Joe Biden's plans to make a $6 trillion budget announcement, while supply concerns in top producer Chile also supported sentiment."
-    publishedDateTime: 2021-05-28T07:12:00Z
-    webUrl: "https://www.reuters.com/article/global-metals-idUSL2N2NF04H"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NF04H"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NF04H"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
   - title: "Biden told staff not to serve leafy greens because he didn't want to be photographed with leaves in his teeth, report says"
     excerpt: "The New York Times also reported President Biden's preferred drink is the controversial Orange Gatorade."
     publishedDateTime: 2021-05-15T00:58:00Z
@@ -119,6 +118,6 @@ related:
         height: 600
         isCached: true
 
-secured: "SJBoYAaizlIE70mgKPlW4W+hPkr/55gxqZ4Cq/t84IaS4D/OH67YSpX3LhE5LAsv0P3mzoN6Bp4MbF3YsklSLre4+kG2GKAhvnH/cKD66aaj7dJBQ2grO9gmu0zMoMtI8ecZQmh6aeb6S8kz/Vw5H9v3N2yY/LYLHd5ukFyyfySKB4bt04rW3tliPoXz6Edbg6qD9p28mJLmYn+kY1qEVAWDXdYn6IAmD6rM5Rz6cghxB7CSXQdoRXsb2tUxu9mVT6BPDoJUnldpKIrmpfdhBppkCIcteWDVoP1XIzU/cHIAEOAntljhxluqXHm1Gf8VpcalZImWC0Z/xMyvypiQi+adV9PWw7Vm9y2ud1pO40HHqeZqMDalNFGiJ8F0EaL2q0K357yGFvtyMITZgYxkOd2DyFsUguAeNG94oJ8NtNW5VkwXxWtRtanaXIl2irsLmNkmKrru34cMgnihnWsGsgIZcA9QTNahGK/+c/jFWwgIxs0++2Y7OCdyTTFXa3mkqwjaB047ENXcmCUnxdmw8Q==;OpLe3rwl3OV7evjLm6RvIA=="
+secured: "jGd4FQdn9Jqzx/3t4AP4KfPSZTgV3fz37OdYaX6vKu3I0oC7vk4k6vzszQPfOh02isJA2gw4NS+OdB3GmuO4jyKXnxWNDHTDCuGU0KyO2G47y2Xx/gnPEp2cxyeKZhC9MSjnJojBHQvoPQt2W1ygC2nwuDRN3mEr337d8p98x8SNPr75Gc6AI0DKxW0Ux/SHuWQYNlFhCYT5/J+VoCscOc0iW6Acl6QYgeQ6yhNrb3cDQ2/Bh6/R8F+A17xzUn4S6PUhEJlk4ULkfrNNNyR5zXH7hb7/PwMVIp8JzQDBW2+yRBZ/Aeqej6qo52VCbT9eFk5yk/TpbkNM/ws50EWJoRMwtVD0O+wb7y+fR2Zbiag=;3rEy0/jlhFkE2vKrldXR9Q=="
 ---
 

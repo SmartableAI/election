@@ -91,6 +91,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "METALS-Copper rises on reports of Biden's budget plans, Chile supply threat"
+    excerpt: "Copper prices advanced on Friday, buoyed by demand optimism on reports of U.S. President Joe Biden's plans to make a $6 trillion budget announcement, while supply concerns in top producer Chile also supported sentiment."
+    publishedDateTime: 2021-05-28T07:12:00Z
+    webUrl: "https://www.reuters.com/article/global-metals-idUSL2N2NF04H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NF04H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NF04H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
   - title: "Biden told staff not to serve leafy greens because he didn't want to be photographed with leaves in his teeth, report says"
     excerpt: "The New York Times also reported President Biden's preferred drink is the controversial Orange Gatorade."
     publishedDateTime: 2021-05-15T00:58:00Z

@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "CBS admits COVID lab-leak theory developments are 'vindication of sorts for Trump-era officials'"
+    excerpt: "CBS offered a rather stunning concession about the coronavirus lab-leak theory that was first introduced by the Trump administration last year."
+    publishedDateTime: 2021-05-28T03:03:00Z
+    webUrl: "https://www.foxnews.com/media/cbs-admits-covid-lab-leak-theory-vindication-trump-officials"
+    ampWebUrl: "https://www.foxnews.com/media/cbs-admits-covid-lab-leak-theory-vindication-trump-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cbs-admits-covid-lab-leak-theory-vindication-trump-officials.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1c4b451-3434-414a-8c21-ca58fcbfa62e/58a2f800-ddc9-4caa-b401-ba0ac1f8fe69/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "OwuWzMb2X1APzcJ+TCNh+wJZFZnCY4FLxxDaHz+F0E7UF9U07S1FqRy2NmplTAr1JSNoukPnLhQoGqg4AMzWB4MzW/zDtR8VtDzD1rpRjJnucve7w5WZLf4hHEf8bo14/67NJSLpKmd+jfdlnM/ko7r5TCyPagku5n+Ey2tLMMZhHxmj+Y6SFB/e7Nf+KCCh803Mmo8RPBpI9zOpcVbrUGAHZYaVMS9KODjx+5kDG9mj8hYfKuThqyUu5GRC5tym26JFYIoOZYAbpbBUlzdZEjG/VktH5i3GexH9nIq2SotklAyp7Eng8/LHbZOorvlzWtNUZaTYP9Q6b2XaTilK0fgCgjF/1pNMaWM4Gr+xens=;Z6+8ENnRW5dcmVEsoHL2ZQ=="
 ---

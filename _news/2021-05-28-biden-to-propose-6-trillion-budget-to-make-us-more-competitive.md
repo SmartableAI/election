@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden bolsters extreme weather preparation funding during FEMA visit"
-excerpt: "President Joe Biden on Monday announced his administration would invest $1 billion in extreme weather preparation ahead of hurricane season."
-publishedDateTime: 2021-05-24T14:37:00Z
-originalUrl: "https://www.cnn.com/2021/05/24/politics/fema-climate-change-biden-funding/"
-webUrl: "https://www.cnn.com/2021/05/24/politics/fema-climate-change-biden-funding/"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/fema-climate-change-biden-funding/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/fema-climate-change-biden-funding/index.html"
+title: "Biden to Propose $6 Trillion Budget to Make U.S. More Competitive"
+excerpt: "The president’s plans to invest in infrastructure, education, health care and more would push federal spending to its highest sustained levels since World War II."
+publishedDateTime: 2021-05-27T22:49:00Z
+originalUrl: "https://www.nytimes.com/2021/05/27/business/economy/biden-plan.html"
+webUrl: "https://www.nytimes.com/2021/05/27/business/economy/biden-plan.html"
+ampWebUrl: "https://www.nytimes.com/2021/05/27/business/economy/biden-plan.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/business/economy/biden-plan.amp.html"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524140207-01-biden-fema-0524-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/05/27/business/27dc-biden-budget01sub/27dc-biden-budget01sub-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -368,6 +368,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden bolsters extreme weather preparation funding during FEMA visit"
+    excerpt: "President Joe Biden on Monday announced his administration would invest $1 billion in extreme weather preparation ahead of hurricane season."
+    publishedDateTime: 2021-05-24T14:37:00Z
+    webUrl: "https://www.cnn.com/2021/05/24/politics/fema-climate-change-biden-funding/"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/fema-climate-change-biden-funding/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/fema-climate-change-biden-funding/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524140207-01-biden-fema-0524-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to use budget to strengthen abortion rights bona fides"
     excerpt: "A budget blueprint that omits the Hyde amendment and other anti-abortion provisions could be Biden’s strongest statement yet of his commitment to making the procedure accessible."
     publishedDateTime: 2021-05-27T08:30:00Z
@@ -397,22 +413,6 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/05/26/us/politics/26dc-medicare/26dc-medicare-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden to Propose $6 Trillion Budget to Make U.S. More Competitive"
-    excerpt: "The president’s plans to invest in infrastructure, education, health care and more would push federal spending to its highest sustained levels since World War II."
-    publishedDateTime: 2021-05-27T22:49:00Z
-    webUrl: "https://www.nytimes.com/2021/05/27/business/economy/biden-plan.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/27/business/economy/biden-plan.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/business/economy/biden-plan.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/27/business/27dc-biden-budget01sub/27dc-biden-budget01sub-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -449,6 +449,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "wZVjXDbPrz/KdwWgG2pcDLTv27/Q8Qui0pTStIvWLDRF7oVUhGOMvdYeG7j2a1mDTg4XMDWTWPxNvGbIBvHhU4e1UyJjd0hTW57pe4J/9sLdW8psIhtT54QcFGDlcjAlAuVKjhFQ147lz9ZW/5pL/zArohLJ4PUPObZ6haRkmV+oKehsy3yyHouPczaJuCs3ylqAtTKWQJ8kN0h6+oOPFF0rE783jJ37AIRgwTGiyN5xW+NKJcPkTtV/xjJE+5CqDLwqhgGgGMikpJAM0ZuXWftysHsOfYtdbHuhUeJ+Hkaf5wSeQFgh4b7OhhPf2sA6d0RAMUlPs6EX5ly8snFdxEzuUNXbCQarCb+FZjZcrCp5KWKCohF2ip7xSAzINUlEwFMCA398rDHWiD43KhGD07mGNb73I+KdtLR438EKC2xVqGRvJoml8Wa1FX0X0pDoy9CwFt0CwpfSWkU7Cc9skXygHbyVKcFmOb8L2bN01mREkABOwXP089MPp8KX2kG6JS2DK8f3XR+vRhmh++VP+g==;uoyTMlCI6luXVXMiHidE0w=="
+secured: "h8zUWg3t6WtpKDkkA1949jXnUvQ7ntYzBlasEedKPIq23kyy0hW2lqauT0PiJ+8OmSRKbpmxcO7EUQbLx63uWzsBt/oNQ5TrQSZfqWEu9Op7PEBoeiiQpQXcDMZFRa8NVox+8yB5QvUUCaDniVRdj9wgAIuUE7xH3OQY+2nffxbRf12TfHYIDPCBAchiCDIZq/e6gdUCMczgmpH7439WALomE210AP66hJH8WfkImnaYHfCQfaiiAOBcL9wCX1kYV0dC0VeNmv/j7K3jaXgIBNamH2jep6w2Jsnv5Yk06zRx5h3TnnTEdB6yS3RpgYWOkfUcOIm4VJuprO9Dakrs7h7zGoRd9kIVIWx0/Hhd6Go=;TY6tOJyWoFOzKJkIhSX9pQ=="
 ---
 

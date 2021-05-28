@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-israel-replenish-iron-dome-li
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -332,6 +332,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/546b13d0-4db8-46ae-bd99-9bb074792e9c/c95c93ab-5bb1-4be0-a28c-050ef77c9493/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden, seen as increasingly liberal, would explode the deficit with new budget"
+    excerpt: "Joe Biden, who ran as the moderate alternative to Bernie Sanders and Elizabeth Warren, is increasingly seen as liberal. In fact, too far to the left. That’s what $6 trillion will get you."
+    publishedDateTime: 2021-05-28T06:52:00Z
+    webUrl: "https://www.foxnews.com/media/biden-seen-as-increasingly-liberal-would-explode-the-deficit-with-new-budget"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 111
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Joe-Biden-Approval-Rating-AP.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Tdu32xTZCyJJ+Sh3TSwXvfQewSLGAiXOKa71YSyNenimpDeXOOwybZMa9OiI70Bxu7vfxvS+jUi94s0xsLpLEvUpejfQXrfVHIjOTySqfaT6hWhqjeCYtb5z24qwTn9Aot7uE3YwgLwDs3M3RSmpCgdc39v3BztFx+DN3ngbblavznuo3d8sQ9iUAmvrgc7m38UZ88iNuR7vXMrKftyYNU86UaWRo3Y4eI4Bvzs7hYAre2eHrefieDpqrgZEqVmTfgFlQhUKRaSn5TT8Uw86C13qu1DIm91+1bCbW7fKDOM4Ms0KU4CDTvolNzJyO3mLo81mbk+M0dEpvezvMUTONr2byGuMwZlIgHjvnY2zMjs=;aqks5GumO8MHlDwWM/7Fsg=="

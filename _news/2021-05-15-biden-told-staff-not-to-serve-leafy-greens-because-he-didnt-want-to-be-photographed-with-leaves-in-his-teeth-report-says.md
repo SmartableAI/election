@@ -107,6 +107,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "METALS-Copper rises on reports of Biden's budget plans, Chile supply threat"
+    excerpt: "Copper prices advanced on Friday, buoyed by demand optimism on reports of U.S. President Joe Biden's plans to make a $6 trillion budget announcement, while supply concerns in top producer Chile also supported sentiment."
+    publishedDateTime: 2021-05-28T07:12:00Z
+    webUrl: "https://www.reuters.com/article/global-metals-idUSL2N2NF04H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NF04H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NF04H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
 
 secured: "mcF21vmpGVaBl0qEIFZYiFeq5wnrK70ogIVak31xHaUobfUsPSRdJ5yg6vdpP9OPTgOxsMEgem4nneamS2s6YEteLchn53h5ltSKuOYEbNzVFeOdliMSIog4RGfLfMwpigtaw/4w+SqmN65PLcJ8YORYCo6HM+fMNHY7n5qStZsYfywBDhASiZN1MBRWpnNmo3wA33Y1swlK2ihAR33Fy9B+nYqW5Qqs9Uz/3Do5xnk/3t6BfbY612nSFn34jXBMFUISMIiWn8lZ8yz/vYOjmeFK8/EVo8Dbwu+sEGS2JUQeQkiOghDtfdQiaqJ8DvCTHdQ6fF+aUp6fT9mf3swKlv+7/wgwta458WuyiT5n9e4=;8K4hbppaFr34ihnZf/59SQ=="
 ---

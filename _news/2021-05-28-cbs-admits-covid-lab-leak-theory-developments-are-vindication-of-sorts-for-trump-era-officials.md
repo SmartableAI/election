@@ -1,20 +1,24 @@
 ---
 category: news
-title: "‘Extremism’ Department of Defense adviser says Trump voters support racism"
-excerpt: "In two series of tweets, both written in the summer of 2019, Bishop Garrison went after fans and donors of former President Donald Trump."
-publishedDateTime: 2021-05-26T17:01:00Z
-originalUrl: "https://nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/"
-webUrl: "https://nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/"
-ampWebUrl: "https://nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/amp/"
+title: "CBS admits COVID lab-leak theory developments are 'vindication of sorts for Trump-era officials'"
+excerpt: "CBS offered a rather stunning concession about the coronavirus lab-leak theory that was first introduced by the Trump administration last year."
+publishedDateTime: 2021-05-28T03:03:00Z
+originalUrl: "https://www.foxnews.com/media/cbs-admits-covid-lab-leak-theory-vindication-trump-officials"
+webUrl: "https://www.foxnews.com/media/cbs-admits-covid-lab-leak-theory-vindication-trump-officials"
+ampWebUrl: "https://www.foxnews.com/media/cbs-admits-covid-lab-leak-theory-vindication-trump-officials.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cbs-admits-covid-lab-leak-theory-vindication-trump-officials.amp"
 type: article
-quality: 133
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/bishop-garrison-pentagon-01.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1c4b451-3434-414a-8c21-ca58fcbfa62e/58a2f800-ddc9-4caa-b401-ba0ac1f8fe69/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -60,23 +64,23 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "CBS admits COVID lab-leak theory developments are 'vindication of sorts for Trump-era officials'"
-    excerpt: "CBS offered a rather stunning concession about the coronavirus lab-leak theory that was first introduced by the Trump administration last year."
-    publishedDateTime: 2021-05-28T03:03:00Z
-    webUrl: "https://www.foxnews.com/media/cbs-admits-covid-lab-leak-theory-vindication-trump-officials"
-    ampWebUrl: "https://www.foxnews.com/media/cbs-admits-covid-lab-leak-theory-vindication-trump-officials.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cbs-admits-covid-lab-leak-theory-vindication-trump-officials.amp"
+  - title: "‘Extremism’ Department of Defense adviser says Trump voters support racism"
+    excerpt: "In two series of tweets, both written in the summer of 2019, Bishop Garrison went after fans and donors of former President Donald Trump."
+    publishedDateTime: 2021-05-26T17:01:00Z
+    webUrl: "https://nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/"
+    ampWebUrl: "https://nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 122
+      name: New York Post
+      domain: nypost.com
+    quality: 133
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1c4b451-3434-414a-8c21-ca58fcbfa62e/58a2f800-ddc9-4caa-b401-ba0ac1f8fe69/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/bishop-garrison-pentagon-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
-secured: "N3Ij9v/mdmredTQVd4cSzh/Yc3Mbkgz8OdO9LDeMBqWiQAa728Wvsr+IdglKkbEhq/GH+2vjPqWeDxMl9WNIhUQe09b6AmwPrxCjxsk1+j4NoGmjSWkzF5eoaUtX5j5J7nBE2f6MGZOGLjO04uv/RdwJNWk30KXN2qE4DvI3N8KGvcpvbDyLAbapfjY5/zGNSbBB9B8UjR7gb2+zeSsD62S5NEbre1A+nAlWGyfrxGcps/TSp1JYcv+rcbyBUxkOIlqajcOHoGUA/RqXUGyhcmh9Rs6Y2TJmBpgjy7XQmFz1E7Yi0qTubiEaLRknowSf4Utpc0dfOcoj7NT9PJS1OxJhcMNS8Ct7A4YeEKKj+MA71jtCCMUO5ALyP1Fr9ZOwoE+ggYCHZ9YQWEvqxRgG9BTYGOFJwaGTFEI1W7nZKVAK90OCQZA7yilWU2ZyWaPylTbEBT96vMtoOeBzDLwoXEihzxd2OLmOS3CksB46zW6Ir9i23CPV87U1gOpKFEWXOLn4e8sdbrQUPU2mhu6W9w==;vdSlE6LKs7d3e6wmo5iC0A=="
+secured: "VFLQtoiF91JdEBXV2lIxln04Gm5CMZ2ilPwsKMnNWk08aPni8npVlndO6HadQl5h9HuQvxElOkR1tmoRGjcajqb2sAhu03ERcGI948lem+EB3cnsHlaIaViGFAkRXaIenqdrDkDPVAFxS+Btsw0SoUYYLBr6h2mdxHmJLVV8uy9GqofH0vEQutg4OsHt6AJhzA10+Vhp9erTE0IdOwTuMbOETLoSLMby5IBsd3ZQwwSoNZPczTnjgCvO+VVeoE48VDgZ/YgpoXEFrEHa+8PmLaIHM5kPUIairKI/wmfnjDVMUBHatLJcVoQbo1SOVqzkzBJMZ6DDtAGCE5zxM6Q/jy35FN2HvHOR4LdoMTAOWBY=;sKaiKpnGzS5STi1OZqfINQ=="
 ---
 

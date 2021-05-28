@@ -416,6 +416,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden to Propose $6 Trillion Budget to Make U.S. More Competitive"
+    excerpt: "The president’s plans to invest in infrastructure, education, health care and more would push federal spending to its highest sustained levels since World War II."
+    publishedDateTime: 2021-05-27T22:49:00Z
+    webUrl: "https://www.nytimes.com/2021/05/27/business/economy/biden-plan.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/27/business/economy/biden-plan.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/business/economy/biden-plan.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/27/business/27dc-biden-budget01sub/27dc-biden-budget01sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "'Enough': Biden renews calls for gun control bill after San Jose rail yard shooting"
     excerpt: "Biden called on Congress to take action on gun control in his first joint address to lawmakers in April, such as banning assault weapons and high-capacity magazines."
     publishedDateTime: 2021-05-26T23:06:00Z

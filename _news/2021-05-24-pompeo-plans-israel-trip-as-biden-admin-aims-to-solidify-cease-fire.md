@@ -333,6 +333,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, seen as increasingly liberal, would explode the deficit with new budget"
+    excerpt: "Joe Biden, who ran as the moderate alternative to Bernie Sanders and Elizabeth Warren, is increasingly seen as liberal. In fact, too far to the left. That’s what $6 trillion will get you."
+    publishedDateTime: 2021-05-28T06:52:00Z
+    webUrl: "https://www.foxnews.com/media/biden-seen-as-increasingly-liberal-would-explode-the-deficit-with-new-budget"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 111
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Joe-Biden-Approval-Rating-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "HhGLsukKxAWSrtG9r6vV4oBMd2JQjoIYTDA36o4clsuN4bj4OjLAN2H1iaoV4B6fMLSXvgPv6n4f1cLB7khsJonJ2ji1QoA2hpoKzpq45e/u5iDdS50DFdlCHPHDt11SL+WK9q0/WWw0SKz1HO0YA7aXuBCeCtkUvMu6bm5fl6i9oYLRoNoX6luwTETY2LOIjPHEN1kGWJ3F0kh8ICT8UYEivmuKs7/vgH0xhsknT/glNJ++yUCn9zhpv5ex2lXLPt9Y6ZozZLdp7H8ZSphEF3IaXhFDPUamUYO09y7YxJ+IEz74EgNtnpu/u2ImX0u0g7uZX20Wznr4UXPo/aB+VgvShKW7YMmcN2ze+hSBoK8=;FtGWHSfIqDQwwsGxC3boZA=="
 ---
