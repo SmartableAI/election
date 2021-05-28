@@ -2,19 +2,19 @@
 category: news
 title: "'SNL' finale brings back Chris Rock, name-checks Morgan Wallen, Mike Pence's fly in sarcastic recap"
 excerpt: "Live\" regulars Kenan Thompson, Kate McKinnon and Pete Davidson were joined by Chris Rock to reflect on the pandemic and 2020 election."
-publishedDateTime: 2021-05-23T15:47:00Z
-originalUrl: "https://www.azcentral.com/story/entertainment/tv/2021/05/22/snl-season-finale-chris-rock-and-cast-look-back-crazy-year/5230361001/"
-webUrl: "https://www.azcentral.com/story/entertainment/tv/2021/05/22/snl-season-finale-chris-rock-and-cast-look-back-crazy-year/5230361001/"
-ampWebUrl: "https://amp.azcentral.com/amp/5230361001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5230361001"
+publishedDateTime: 2021-05-23T10:09:00Z
+originalUrl: "https://www.freep.com/story/entertainment/tv/2021/05/22/snl-season-finale-chris-rock-and-cast-look-back-crazy-year/5230361001/"
+webUrl: "https://www.freep.com/story/entertainment/tv/2021/05/22/snl-season-finale-chris-rock-and-cast-look-back-crazy-year/5230361001/"
+ampWebUrl: "https://amp.freep.com/amp/5230361001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5230361001"
 type: article
 quality: 61
 heat: 61
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "0TvueflIPlZzMgj+UvesFDpi0SX1+3E1zXh/Y3/FFsI9Q5wWVEXczPmTKH4U0nqqxUA36SHeXVWhdMHg4vWVO/cUNvFtaT0zB/0Fk99uLOPf2xBahD3VA4Ut7K4T13B1zbLH6uWg7/wJDOQSWe4cZ1+QAfFh6fNOzE/8lxQEgx/77RSPcrXWt+abxxYB54unWst8uVNQ+XqGSQLsENOVd2iGQ+VKSY3NWQ7SGUtYKYOyMjmFKzo1h1b1ALR4w9wSbMdIDSEvMkmiY90M/oIaFeTa1nOHBVgiR25bgNQgGa6+srB6wtXqktCgiMeg0JsIPmjthLCey+3IQABW95j3LEqHzljd/sA0Mo8PenlKOAM=;OIz8uSlOLIehEAK2Gxh72g=="
+secured: "DZa/T/3jEMoF7Bnh+zxzTy2pFVHHMeEYAPhNtuP/sXeLVQFzDqBcCmPzQeQXnuxRWF3vdDcPEtYLI0JbhQwr5n7INVjRN+om/V5qJh+Fwj5LghhjaVdWUyY2PRNkJl8QtmCb16rtAqxmxQjRLICGJ6pM6YGlwy38InflcfhSDWimdHt7oVPgiGxgW35AK1t068HOg/dgLz/mlm3o3L6fhBL+8FXn5fXkXC2XgI76PM+3yC2GOArAk5BrVlkGZMKw+/dh3bRiWhy/UtMxrZ76nTJx9PQiRgQOhyD9TvEuUiG9MVB75WN0k85bwEzIf+YZlpSwIhKvaDuEju8K1TDYfTTQuUXR8znxm36oIsG+kz0=;oXWq6Tu5GJbBBPwLXnQgbg=="
 ---
 
