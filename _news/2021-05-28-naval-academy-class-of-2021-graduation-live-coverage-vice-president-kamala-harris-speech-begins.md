@@ -201,22 +201,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Vice President Harris to speak at Naval Academy graduation"
-    excerpt: "Vice President Kamala Harris is scheduled to give the graduation address at the U.S. Naval Academy's commissioning ceremony"
-    publishedDateTime: 2021-05-28T05:00:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c5bc5a7c80eb400393da7975b268f476_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Mexico says investment and security to be discussed during Kamala Harris trip"
     excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8."
     publishedDateTime: 2021-05-19T16:29:00Z
@@ -418,6 +402,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Harris to speak at Naval Academy graduation"
+    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
+    publishedDateTime: 2021-05-28T05:03:00Z
+    webUrl: "https://www.greenwichtime.com/news/article/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+    ampWebUrl: "https://www.greenwichtime.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+    type: article
+    provider:
+      name: Greenwich Time
+      domain: greenwichtime.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Vice President Kamala Harris first woman to address Naval Academy graduates"
+    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
+    publishedDateTime: 2021-05-28T17:05:00Z
+    webUrl: "https://www.tampabay.com/news/nation-world/2021/05/28/vice-president-kamala-harris-first-woman-to-address-naval-academy-graduates/"
+    ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/05/28/vice-president-kamala-harris-first-woman-to-address-naval-academy-graduates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/05/28/vice-president-kamala-harris-first-woman-to-address-naval-academy-graduates/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 73
+    images:
+      - url: "https://www.tampabay.com/resizer/j-HJ7ydXemwz385g61jNV3g9IHI=/800x450/filters:focal(2400x1252:2410x1242)/cloudfront-us-east-1.images.arcpublishing.com/tbt/JOPXXFWRSP4HDQ3ZJH2VPPW3BU.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Members of the George Floyd family Meet with President Biden andVice President Kamala Harris"
     excerpt: "Members of the George Floyd family including Gianna Floyd, George Floyds daughter; speak to the media outside the West Wing at White House in Washington, DC on Tuesday, May 25, 2021. The Floyd family meet with President Joe Biden and Vice President Kamala Harris in the Oval Office today on the one year anniversary of George Floyds death."
     publishedDateTime: 2021-05-25T20:28:00Z
@@ -546,6 +562,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "6c1p5kNOS1G50ImclsGDNjkxJEYwnCRCiMj+f22+5n/N7TkNlH7gYSQO8IqTF2IoWoUnLED5zEO7CG/s9Ch8RMrqG0geGn2EkFsKVnXNejh0zTfrQVbM2LH5LRyvVQ9INOBjAmbCznQmpPZn+L7Xl9ADFNlAtPttflfTY6MzWc5aBzIRlpFnPBEWHX7WGf+ao/OewzdaWDkxcJMEE+jA9X2ZzQK8BMqElgc4zETD94gx4WtiB5oWS/OmvTLvuLTAHKEpJWXqtDIhIyGiK3eQBxj+yBEVHziSbIol4Q5viiiyAZ26jlWNlifW0epEJLUwQ+6EkC1/Hw2OvCN9WA6ICTmrhVn5WoUxpG7tNgbqoow=;5b92qRHIneHBPjOoXaL2zQ=="
+secured: "pNOh8AyWM/LojEqj9IMurgRa438gmkJTQ9UvSbf7k1XY/+QuuKC+zXrreAYkPmOSsnlrQt+xAhdLFEN/nIjibj5YnsIJqMYz/+iyoOcqJRYf2XGZkH6QNJplSdjFbTBNWpfxM2brvyW4TQqNjeX1BZBxUrh23V+PIXacOIAtbIhWmMEtrD8jJ+g2bymsfSjibc9urzj07tuv9OgK8RlWCDPBDOxi79W/H0dqvRQ8Z1Ef9RCMoOe6sMv8qziCg+hQJ5YmZ3NlabEYTo9mPkZ5eMPKADxv9pFdCMtzGqq2J6aBCC7lU7lHdRsBfVDZpIGWDvna88jPrTsRkti75O3ESTA/Kg/PLnMGwhuzz94xzZk3Mb+xHeSMK9BNHkzlUuL3XjvLcsyAci8bzSxQeo4hVaR2WPeL3HlFHgdHP+n/RHLMzOBxkGF8i0mEOcJx2uz8XlBrD8ro4mmhHxqwPTv1I+Ilo+69rl+aM/t8GF47645Xzt9NH60TiLWsV++68hmoCtgHGe3nPxWQuwLr6d26Nw==;ahddB763ORRU6l9JLyPcAg=="
 ---
 

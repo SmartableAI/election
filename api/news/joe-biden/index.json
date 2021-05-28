@@ -2,25 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-28-welcome-to-biden-budget-day-wheres-the-growth.md",
-      "title": "Welcome to Biden budget day: Where's the growth?",
-      "excerpt": "President Biden will roll out his first budget proposal today, reportedly a $6 trillion beast that will see spending and deficits soar to records not seen since World II. Eventually, deficits start to come under control under Biden’s proposal but the debt still well exceeds the size of the economy before that.",
+      "path": "_news/2021-05-29-bidens-6t-budget-social-spending-taxes-on-business.md",
+      "title": "Biden's $6T budget: Social spending, taxes on business",
+      "excerpt": "President Joe Biden is proposing a $6 trillion budget for next year that’s piled high with new safety net programs for the poor and middle class",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/morning-money/2021/05/28/welcome-to-biden-budget-day-wheres-the-growth-795608",
-      "originalUrl": "https://www.politico.com/newsletters/morning-money/2021/05/28/welcome-to-biden-budget-day-wheres-the-growth-795608",
+      "webUrl": "https://abcnews.go.com/Business/wireStory/bidens-6t-budget-social-spending-taxes-business-77966820",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/bidens-6t-budget-social-spending-taxes-business-77966820",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
+      "highlight": null,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
+          "url": "https://s.abcnews.com/images/Politics/WireAP_782dc8fcdea4478c8b95358a5bb648b0_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T05:00:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/bidens-6t-budget-social-spending-taxes-business-77966820",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/bidens-6t-budget-social-spending-taxes-business-77966820",
+      "publishedDateTime": "2021-05-28T10:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,8 +50,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
-        "Democratic Voice"
+        "Joe Biden"
       ]
     },
     {
@@ -381,58 +376,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-27-biden-to-propose-6-trillion-us-budget-for-2022-fiscal-year-nyt.md",
-      "title": "Biden to propose $6 trillion U.S. budget for 2022 fiscal year -NYT",
-      "excerpt": "President Joe Biden will seek $6 trillion in U.S. federal spending for the 2022 fiscal year, rising to $8.2 trillion by 2031, the New York Times reported on Thursday, a day before the White House is expected to unveil its budget proposal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/biden-propose-6-trillion-us-budget-2022-fiscal-year-nyt-2021-05-27/",
-      "originalUrl": "https://www.reuters.com/world/us/biden-propose-6-trillion-us-budget-2022-fiscal-year-nyt-2021-05-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/5HgTgTiTA7jNogU_j6BneiGM1D4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TLU3CX4B6NP4RIH2GN5UDDFTII.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-05-26-face-to-face-june-summit-for-biden-putin-as-tensions-rise.md",
       "title": "Face to face: June summit for Biden, Putin as tensions rise",
       "excerpt": "President Joe Biden and Russia’s Vladimir Putin agreed Tuesday to meet next month in Geneva, a face-to-face encounter the White House hopes will help bring some predictability to a fraught relationship that’s only worsened in the first months of the Democratic administration.",
@@ -493,7 +436,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-belarus-sanctions/biden-says-us-sanctions-against-belarus-are-in-play-idUSKCN2D62SK",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -545,7 +488,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad4c358f08d486a7712e13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 866,
+      "heat": 886,
       "tags": null,
       "images": [
         {
@@ -622,6 +565,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-heres-a-closer-look-at-air-force-one-and-the-presidential-motorcade-during-bidens-trip-to-detroit.md",
+      "title": "Here's a closer look at Air Force One and the presidential motorcade during Biden's trip to Detroit",
+      "excerpt": "In an unusual occurrence, the location where photographers were allowed to photograph Air Force One landing was also on the motorcade route.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/closer-look-at-air-force-one-and-biden-presidential-motorcade-2021-5",
+      "originalUrl": "https://www.businessinsider.com/closer-look-at-air-force-one-and-biden-presidential-motorcade-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60abcdcd5e34570019265227?width=1200&format=jpeg",
+          "width": 960,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -842,49 +837,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-president-joe-biden-to-visit-cleveland-next-week-marking-second-ohio-trip-this-year.md",
-      "title": "President Joe Biden to visit Cleveland next week, marking second Ohio trip this year",
-      "excerpt": "President Joe Biden will visit Cleveland next week, marking his second trip to Ohio this year. White House officials said Wednesday that Biden will deliver remarks about the economy during his trip May 27.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/2021/05/19/president-joe-biden-visit-cleveland-ohio-may-27/5173738001/",
-      "originalUrl": "https://www.cincinnati.com/story/news/2021/05/19/president-joe-biden-visit-cleveland-ohio-may-27/5173738001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/110829cb56c19181e8e5ed866a9c55ca2ff254a7/c=0-92-1763-1084/local/-/media/2021/04/28/Somerset/6e297bd498304b83f7e13c262caa39a7.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cincinnati.com/amp/5173738001",
-      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5173738001",
-      "publishedDateTime": "2021-05-19T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1582,6 +1534,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-nomination-of-kristen-clarke-controversial-biden-civil-rights-pick-hangs-in-balance.md",
+      "title": "Nomination of Kristen Clarke, controversial Biden civil-rights pick, hangs in balance",
+      "excerpt": "The Senate Judiciary Committee advanced the nomination of Kristen Clarke to run the civil rights division at the Department of Justice on Thursday, but her confirmation is still not certain as a handful of key moderate senators have yet to announce their stance on the nominee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins",
+      "originalUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b5c045d-f123-483e-bf61-47f1ec138734/82a4dec4-33fd-444e-951d-72ca464a2df4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp",
+      "publishedDateTime": "2021-05-14T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     }
   ],

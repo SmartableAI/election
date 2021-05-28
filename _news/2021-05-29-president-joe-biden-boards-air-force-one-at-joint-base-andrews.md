@@ -1,0 +1,173 @@
+---
+category: news
+title: "President Joe Biden boards Air Force One at Joint Base Andrews"
+excerpt: "President Joe Biden boards Air Force One at Joint Base Andrews, to make remarks at Joint Base Langley-Eustis in Virginia, Friday, May 28, 2021. Photo by Chris Kleponis/UPI"
+publishedDateTime: 2021-05-28T17:37:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/45dcc471509541cd6460757aba03407b/President-Joe-Biden-boards-Air-Force-One-at-Joint-Base-Andrews/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/45dcc471509541cd6460757aba03407b/President-Joe-Biden-boards-Air-Force-One-at-Joint-Base-Andrews/"
+type: article
+quality: 55
+heat: -1
+published: false
+
+provider:
+  name: UPI.com
+  domain: upi.com
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://cdnph.upi.com/pv/upi/45dcc471509541cd6460757aba03407b/BIDEN.jpg"
+    width: 650
+    height: 433
+    isCached: true
+
+related:
+  - title: "Biden says U.S. sanctions against Belarus are in play"
+    excerpt: "President Joe Biden said on Tuesday that U.S. sanctions against Belarus are in play, but declined to offer more details."
+    publishedDateTime: 2021-05-25T20:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-belarus-sanctions/biden-says-us-sanctions-against-belarus-are-in-play-idUSKCN2D62SK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D62SK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210525&t=2&i=1563384482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4O1EO"
+        width: 856
+        height: 545
+        isCached: true
+  - title: "U.S. waives sanctions on Nord Stream 2 as Biden seeks to mend Europe ties"
+    excerpt: "The Biden administration waived sanctions on the company behind Russia's Nord Stream 2 gas pipeline to Germany and its chief executive, Secretary of State Antony Blinken said on Wednesday, a move decried by critics of the project in Congress."
+    publishedDateTime: 2021-05-19T22:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-nord-stream-2-idUSKCN2D019I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D019I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D019I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210519&t=2&i=1562705559&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4I0NT"
+        width: 806
+        height: 545
+        isCached: true
+  - title: "Kremlin says does not expect formal 'reset' in ties at Biden-Putin summit"
+    excerpt: "The Kremlin on Wednesday said it did not expect a formal reset in Russia-U.S. ties at a summit between Russian President Vladimir Putin and U.S. President Joe Biden next month."
+    publishedDateTime: 2021-05-26T09:25:00Z
+    webUrl: "https://www.reuters.com/article/us-russia-usa-kremlin/kremlin-says-does-not-expect-formal-reset-in-ties-at-biden-putin-summit-idUSKCN2D714P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D714P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D714P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210526&t=2&i=1563448381&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4P0LH"
+        width: 829
+        height: 545
+        isCached: true
+  - title: "First Thing: Biden mulls sanctions as Belarus blogger’s family beg for help"
+    excerpt: "They’re going to kill him in there.’ Plus, George Floyd’s family urges Joe Biden to pass policing bill"
+    publishedDateTime: 2021-05-26T10:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/26/first-thing-belarus-raman-pratasevich-family"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/26/first-thing-belarus-raman-pratasevich-family"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/26/first-thing-belarus-raman-pratasevich-family"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/ae2bd4394fcfb50ce470bbf6f64790c35d479e2b/0_332_4922_2954/master/4922.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4566eb5507a3823adc28a29f85a91b52"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden to propose $6tn budget to boost infrastructure, education and climate"
+    excerpt: "President’s first budget would drive government spending to its highest sustained levels since the second world war"
+    publishedDateTime: 2021-05-28T14:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/28/joe-biden-budget-proposal-infrastructure-education-climate"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/28/joe-biden-budget-proposal-infrastructure-education-climate"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/28/joe-biden-budget-proposal-infrastructure-education-climate"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/08afb76e42dc0d68956220883faab27bf9522871/0_276_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=792b2a71ef26fcd071c94155e16496e7"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Kremlin hails ‘positive steps’ in US ties as Biden waives pipeline sanctions"
+    excerpt: "US secretary of state and Russia’s foreign minister are polite but firm in their first face-to-face encounter"
+    publishedDateTime: 2021-05-20T12:42:00Z
+    webUrl: "https://www.theguardian.com/world/2021/may/20/blinken-lavrov-meeting-us-russia-iceland-arctic"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/may/20/blinken-lavrov-meeting-us-russia-iceland-arctic"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/20/blinken-lavrov-meeting-us-russia-iceland-arctic"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/0a5b3c751f3789b45c3c48c5aba68346c7cb4d61/0_35_2945_1768/master/2945.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cfc419b0941389b997af93dd23afb8d7"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden orders US intelligence to intensify efforts to study Covid’s origins"
+    excerpt: "President also asks US intelligence community to explore the unlikely possibility that virus origins trace to Chinese lab"
+    publishedDateTime: 2021-05-26T18:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/26/joe-biden-us-intelligence-community-covid-19-origins-china"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/26/joe-biden-us-intelligence-community-covid-19-origins-china"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/26/joe-biden-us-intelligence-community-covid-19-origins-china"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/726f30f7de9fd0b16e471b81d26a449d46c90f96/0_461_6944_4168/master/6944.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb30e67283e80d7eaa1ebbfa9d837d4e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "President Joe Biden asks US intelligence officials to investigate COVID origin"
+    excerpt: "President Joe Biden on Wednesday asked U.S. intelligence officials to “redouble” their efforts to investigate the origins of the COVID-19 pandemic, including the unlikely possibility that the origins of the virus trace to Chinese lab."
+    publishedDateTime: 2021-05-26T17:51:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2021/05/president-joe-biden-asks-us-intelligence-officials-to-investigate-covid-origin.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2021/05/president-joe-biden-asks-us-intelligence-officials-to-investigate-covid-origin.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/05/president-joe-biden-asks-us-intelligence-officials-to-investigate-covid-origin.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/43QH4W3SFRFC5M2Z4WP3SEC2DE.jpg"
+        width: 4834
+        height: 3223
+        isCached: true
+  - title: "Joe Biden exaggerates U.S. rank in world coronavirus vaccinations"
+    excerpt: "During a speech in Cleveland, President Joe Biden earned applause with a line about how well the United States has been doing in vaccinating people against the coronavirus. \"We've created more places to get vaccinated"
+    publishedDateTime: 2021-05-28T17:45:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/28/joe-biden/joe-biden-exaggerates-us-rank-world-coronavirus-va/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-mostly-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
+
+secured: "mOo002ylHzi8ugn1QD3ZcVBojDnaZv2xAKWUk8mWHbygAWCy7+5oH9EU5ZEEZKCFkRo+I+uf2UAM934APl5QPV2OgiZiDFm4bmwaLX92gWR05pfEkmXi35rQFOrFWyTKrnwe5xkRsNXYBSdQPMTtc6cDOmxCs7CCcqv4c4ZWNd3959W+duSrpqFZG3sBSous8Z4WYjSG6+r33R+snvkZQokni3LEoBCAY+n3h9nOmeYjdjLSE6M2AoVxD8Un1ZfwWByzoXRqwn4Fx3sA8/5BN21SlREBxuCLkAOYGoNfYwHKlbHcC7ClRADPph+92hxD0uF68SE8tBBxPfRBCol+DASVpjGhZ3ohp4aeq6Y3XIg=;lgXtx3i5jz5icNuIR1Urjg=="
+---
+

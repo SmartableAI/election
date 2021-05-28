@@ -2,28 +2,32 @@
 category: news
 title: "At Naval Academy graduation, Kamala Harris to focus on strengthening a ‘fragile’ world"
 excerpt: "Vice President Kamala Harris will mark another first for women Friday when she addresses the graduating class of the United States Naval Academy, becoming the first female commencement speaker in the school’s nearly 175-year history."
-publishedDateTime: 2021-05-28T12:27:00Z
-originalUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+publishedDateTime: 2021-05-28T12:24:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
 type: article
-quality: 67
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.dailypress.com/resizer/lCoWbNBtmc_ALyYqS2HSfsk57X4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5RZAWHFCFXBO4RIVNFPNCKEGCU.aspx"
+  - url: "https://www.chicagotribune.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
     width: 1200
-    height: 800
+    height: 831
     isCached: true
 
 related:
@@ -723,6 +727,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How to watch VP Kamala Harris’ speech, Naval Academy Class of 2021 graduation and commissioning ceremony"
+    excerpt: "Vice President Kamala Harris is set to give the commencement speech for the Naval Academy graduation today. At the ceremony, 786 new Navy officers and 274 Marine Corps officers will be commissioned."
+    publishedDateTime: 2021-05-28T11:12:00Z
+    webUrl: "https://www.capitalgazette.com/education/naval-academy/ac-cn-usna-graduation-live-coverage-20210528-mfgujcvzlrhzzf5zahwpgkg4dy-story.html"
+    ampWebUrl: "https://www.capitalgazette.com/education/naval-academy/ac-cn-usna-graduation-live-coverage-20210528-mfgujcvzlrhzzf5zahwpgkg4dy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-capitalgazette-com.cdn.ampproject.org/c/s/www.capitalgazette.com/education/naval-academy/ac-cn-usna-graduation-live-coverage-20210528-mfgujcvzlrhzzf5zahwpgkg4dy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Capital Gazette
+      domain: capitalgazette.com
+    quality: 58
+    images:
+      - url: "https://www.capitalgazette.com/resizer/WaH8LDXsh_O7qHlNfAR60tqmsTQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3C7K5Q2J3NH2DAGZKG4JFIZDCQ.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Fact check: Copy of Kamala Harris book was one of thousands of books received for Long Beach migrant shelter"
     excerpt: "The vice president’s book “Superheroes Are Everywhere” was not included in welcome kits, as some recent news articles incorrectly claimed"
     publishedDateTime: 2021-04-28T00:52:00Z
@@ -808,6 +828,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "TRANSCRIPT: Vice President Kamala Harris’ address to Naval Academy Class of 2021"
+    excerpt: "Vice President Kamala Harris gave the commencement address to the Naval Academy Class of 2021 on Friday, the first woman to deliver the annual speech."
+    publishedDateTime: 2021-05-28T17:21:00Z
+    webUrl: "https://www.baltimoresun.com/education/ac-cn-kamala-harris-naval-academy-transcript-2021528-20210528-xnf7teexebe4zirltqztsrxuz4-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 50
+    images:
+      - url: "https://www.baltimoresun.com/resizer/nofSR9Z7b8VgjO8fK_UuQL5N4ys=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/52KCQWHRZ5HZRCLB6KG3QJLJHQ.JPG"
+        width: 1200
+        height: 949
+        isCached: true
   - title: "Madame Tussauds reveals bust of Kamala Harris wax figurine | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
     publishedDateTime: 2021-04-28T18:18:00Z
@@ -844,20 +878,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How to watch VP Kamala Harris’ speech, Naval Academy Class of 2021 graduation and commissioning ceremony"
-    excerpt: "Vice President Kamala Harris is set to give the commencement speech for the Naval Academy graduation today. At the ceremony, 786 new Navy officers and 274 Marine Corps officers will be commissioned."
-    publishedDateTime: 2021-05-28T11:00:00Z
-    webUrl: "https://www.baltimoresun.com/education/ac-cn-usna-graduation-live-coverage-20210528-mfgujcvzlrhzzf5zahwpgkg4dy-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 38
-    images:
-      - url: "https://www.baltimoresun.com/resizer/DdeCgHkMjWIr76z_fLmFUfcpP3s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/J4YFLBSKLZCF7PPT5VQSW4OW4E.png"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
     excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
     publishedDateTime: 2021-05-04T15:13:00Z
@@ -888,6 +908,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "vyfXbexed+S5LTCYtSeuYsCdVnNcFRNIzZvUkBO4oHegCWQBGnueElJ3YQtCQBN7IUGyDQ/qScGKIkZRPvBrThiX+m5qDSII525eceq6DcGOyWFpz22ZvFqorO6lqOrhxMoycX6d0agjBAR16JS3MvDwRKJylpGOxUTApIWjBuzvbHLz3V2QZ9+urCZvzGkhJq36chHGyrW6lPfWvX64zADJXVFcYzVLyE1J+bn2MTWj+a4ZzJjKK/5Klod2cyA9jh4bLuMfh/BqgfkxxLXDUyWjPZcbG7LJRKGH2g+m6i8gIcuUzd5RpL0kDwIoSv3cChHDzGPx8qILOQZT3SUMZeTTwYlFrw5si0adPAM80smx5rVnmWE1P8TEr41VzIpvYCXx3I72a0w3iSnOgecM612vi4AwHYoqnkf9zOgmfWR0+j7naG15MBR9OkyY9D25qTen5rkitKfWWYCJc+a3a+yRZ36vHr+8UQA2EGi4jdGG0BMN0Vf9hg0T2jVVP7s3dDG2EsCdmd8xagIKKKXp8Q==;z5wxiE49R+kMBOO0+BXWUA=="
+secured: "SL0WvxDjDJVpa8NkuQIHu9Jeom8RBaa51fXLr3H/vtbNORhyz+6t4hS/3tvDjHD7fHxFnjdg/B/1A8XMmaNHAoYEnGmL1HqbsDamDz8Woyl1F3LGXXj+efFlDGR5vYr20DBYjck+6sMrA4vFE7rgmNt4kUmC6lWBEtPHKM79uKJj/kDAAgzbUQD2OBEbIt5Qxu9Fe63U1TINAp9ZbwhldZlzq6/IPSv70C/nPx1/BQh7bEdUx+/Df+a7UNUeWedtFXbrm5idGhPupaj0UeZ7GR9Wbbq6J6+b8HRKhprrGsZTbad9Ujldx+nqWZwzVuAc2goG+Zh1aAgDq+kuHcBjKyouFVlDmUWyF8MhfPOwHl0=;5c7FeaeaOqFaKGQm34EDxw=="
 ---
 

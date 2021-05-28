@@ -143,6 +143,34 @@ related:
         width: 4834
         height: 3223
         isCached: true
+  - title: "Joe Biden exaggerates U.S. rank in world coronavirus vaccinations"
+    excerpt: "During a speech in Cleveland, President Joe Biden earned applause with a line about how well the United States has been doing in vaccinating people against the coronavirus. \"We've created more places to get vaccinated"
+    publishedDateTime: 2021-05-28T17:45:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/28/joe-biden/joe-biden-exaggerates-us-rank-world-coronavirus-va/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-mostly-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
+  - title: "President Joe Biden boards Air Force One at Joint Base Andrews"
+    excerpt: "President Joe Biden boards Air Force One at Joint Base Andrews, to make remarks at Joint Base Langley-Eustis in Virginia, Friday, May 28, 2021. Photo by Chris Kleponis/UPI"
+    publishedDateTime: 2021-05-28T17:37:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/45dcc471509541cd6460757aba03407b/President-Joe-Biden-boards-Air-Force-One-at-Joint-Base-Andrews/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/45dcc471509541cd6460757aba03407b/BIDEN.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "zvCug6LPuvhmzaxghLvpd+kOFcbjuBCd1Q2by7ECx+HzYplpG2Y4YUDKNcZkFyKah+OT8ltsUS+0VG0bDNVApHGSmdrSSbgkT23ziTz5HxfQsN/HzDdCAuwGCN3zhc02txXFosMRI6JbvQvAcNwETv1Gw3t7I0mLNEGxnlyHqAYpKhDyixD5hIFuA5Za7XklWj4SmDiffgCOgDdc3hKlpOOyu5ZvsDFmrcLg8gsIbUarq5bNkV+aPaGpxiFK46Z+udbNN/cTUVFQK2npGoKQAgAesiwfefZg5uMmnqSt1FBQIh5E5IPplruFaflR54hemFuWbsYNATBMpkM99aJyINcdn98/LvwgWfpZyZBYFNlOXq4lB2EIibJnla2m4A0xNrPAut116QkRaIbgWLonAWtUR14b2lfXAL3vMxDOqM/VeyRaZWXdjeGjcYCoyLRlki2kKckuwasjylsSdos2Ov8pahojw5xCkblBX96L+GtzUbD/PBipl6B6pLKO3mYylFp42+2Z+Xusuvrt7+1DBw==;0nq0T52nNDlhHrtUdwPIMQ=="
 ---

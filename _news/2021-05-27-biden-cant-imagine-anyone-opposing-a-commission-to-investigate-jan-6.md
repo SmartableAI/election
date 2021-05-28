@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-commission-jan-6-riot.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-jan-6-riot.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "China refusal to support WHO COVID origins probe accelerated Biden announcement on US investigation: official"
+    excerpt: "China's refusal to support the World Health Organization's investigation into the origins of COVID-19 spurred the Biden administration to accelerate the declassification of U.S. intelligence and the release of President Biden's statement revealing that officials are coalescing around \"two likely scenarios\""
+    publishedDateTime: 2021-05-27T16:04:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G5S1LqRxZeo/us-intel-china-refusal-who-covid-origins-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/us-intel-china-refusal-who-covid-origins-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-intel-china-refusal-who-covid-origins-probe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden Orders More Intel Investigation of COVID-19 Origin"
     excerpt: "President Joe Biden ordered U.S. intelligence officials to redouble their efforts to investigate the origins of the"
     publishedDateTime: 2021-05-27T12:16:00Z

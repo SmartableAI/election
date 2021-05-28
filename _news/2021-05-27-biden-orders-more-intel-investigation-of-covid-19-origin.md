@@ -44,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "China refusal to support WHO COVID origins probe accelerated Biden announcement on US investigation: official"
+    excerpt: "China's refusal to support the World Health Organization's investigation into the origins of COVID-19 spurred the Biden administration to accelerate the declassification of U.S. intelligence and the release of President Biden's statement revealing that officials are coalescing around \"two likely scenarios\""
+    publishedDateTime: 2021-05-27T16:04:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G5S1LqRxZeo/us-intel-china-refusal-who-covid-origins-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/us-intel-china-refusal-who-covid-origins-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-intel-china-refusal-who-covid-origins-probe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "62MC+/GnlOnLvqVTsd4dXw3mWtkLOelmM9m9qETP2tr9dY9GJTOQnhFiiim5AEXJVvtR4443dFf+6Ls4tYNt6DjhVuTI10G6KyMgWHpweZiwr6OHXI/gfRT2dmJC/vMO18qPfLKjgNcnGhAa80E12dCHXQsm/S/WTSyK+ufB/1VcQkwtE0itCJWBHFhn8kd8AsNad+gELDPcDPIbtOny+3IvtHbgLm1wacKXkzl6FsAhoBIyjj78HVy9GKgaAZap42hgImL3BvKYiGrYv4l9SXmln7wL7Imc9fnYVaRTJSNIZJpcWwsTR0X3rILc/oL47zdE/I8iw+c+TE7swNNBgkzKfa9QaL5jWBPMwIERh2QJ7JxWO8Oe3R7e3pata6qnMOLHjSg6xpt5RcPFcz35DqZFWWPAAslvV6t9aHN7xsneLzPS71ttJUfe5Ak9b9VeY9XEW+MC/9wIUSuv+hdYeg3Smq3PHwQ4gQmnL9Dt413s7QzhMnogDlwkz+W3a6An+cq0FR7KHd06zxd/ypBYcw==;PeNUaVYVrwZVInOKXNHKgg=="
 ---

@@ -25,20 +25,6 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden to propose $6 trillion U.S. budget for 2022 fiscal year -NYT"
-    excerpt: "President Joe Biden will seek $6 trillion in U.S. federal spending for the 2022 fiscal year, rising to $8.2 trillion by 2031, the New York Times reported on Thursday, a day before the White House is expected to unveil its budget proposal."
-    publishedDateTime: 2021-05-27T12:55:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-propose-6-trillion-us-budget-2022-fiscal-year-nyt-2021-05-27/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/5HgTgTiTA7jNogU_j6BneiGM1D4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TLU3CX4B6NP4RIH2GN5UDDFTII.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Here's a closer look at Air Force One and the presidential motorcade during Biden's trip to Detroit"
     excerpt: "In an unusual occurrence, the location where photographers were allowed to photograph Air Force One landing was also on the motorcade route."
     publishedDateTime: 2021-05-24T16:03:00Z
@@ -52,6 +38,38 @@ related:
       - url: "https://i.insider.com/60abcdcd5e34570019265227?width=1200&format=jpeg"
         width: 960
         height: 480
+        isCached: true
+  - title: "President Joe Biden to visit Cleveland next week, marking second Ohio trip this year"
+    excerpt: "President Joe Biden will visit Cleveland next week, marking his second trip to Ohio this year. White House officials said Wednesday that Biden will deliver remarks about the economy during his trip May 27."
+    publishedDateTime: 2021-05-19T22:21:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2021/05/19/president-joe-biden-visit-cleveland-ohio-may-27/5173738001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5173738001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5173738001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/110829cb56c19181e8e5ed866a9c55ca2ff254a7/c=0-92-1763-1084/local/-/media/2021/04/28/Somerset/6e297bd498304b83f7e13c262caa39a7.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Joe Biden will boost his economic policies in Thursday visit to Tri-C in Cleveland"
+    excerpt: "WASHINGOTN, D.C. - President Joe Biden will visit Cuyahoga Community College in Cleveland on Thursday to deliver a speech on the economy that his principal deputy press secretary said will “make a clear case that his economic plan is working."
+    publishedDateTime: 2021-05-26T19:41:00Z
+    webUrl: "https://www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 64
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GIIJELYXUNGARCQJNW5YFLGTFE.jpg"
+        width: 6000
+        height: 4000
         isCached: true
 
 secured: "cHV+koMf+5IF29CqoeRfMBQJ459ZPb3aliRW+emmrCpJnXfozF5KgQspSjNb+x5KDkuXXMeOeJ9OhaHyYg0Hm2gRzoqXXlLxYA258WLFAarf43vAeRDaJCQ1D/t+M5VS52cAer4TPYKB0vKAdAowSLGgts4HD/jcXCyXqTAwxz3/CkP1vrW2CRinnYlsotmUENqeConji0tsnZuoNZ/D0KJ8DRPvy/WzdfgReKJmbcWKG1k+pC/5Nr+dlVAdbqje2bcEDQgTJeW2eDsKkLcPsTgKi1xif0yDpNp/G56+Jx00QCwBpZifdslhvWwB7PcUvRI4bhQiIR+VhugJTcOIXrNPpK0Xw2VsZUI2Mr7nbvs=;CA2GpoWQQIXf7F222k66NA=="

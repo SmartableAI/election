@@ -1052,6 +1052,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Watch live: Kamala Harris gives commencement speech at U.S. Naval Academy"
+    excerpt: "Vice President Kamala Harris will address the graduating class of the U.S. Naval Academy on Friday, marking the first time a woman has given the commencement speech in school history."
+    publishedDateTime: 2021-05-28T13:20:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/05/28/harris-naval-academy-commencement-address/1851622204896/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/28/harris-naval-academy-commencement-address/1851622204896/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/28/harris-naval-academy-commencement-address/1851622204896/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/1851622204896/2021/upi/fe72fe0fa55526aaaa045af2d9e81898/v1.5/Kamala-Harris-Naval-Academy-graduates-prepared-for-any-threat.jpg?lg=2"
+        width: 800
+        height: 532
+        isCached: true
   - title: "In North Carolina, Vice President Kamala Harris pitches $2.3T spending plan"
     excerpt: "In her first visit to the state since getting sworn in to office, Harris spoke at Guilford Technical Community College’s Advanced Manufacturing Campus in support of the proposal, which was unveiled last month on the heels of the $1."
     publishedDateTime: 2021-04-19T20:03:00Z

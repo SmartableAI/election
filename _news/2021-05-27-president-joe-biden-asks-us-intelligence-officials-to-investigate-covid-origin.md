@@ -139,6 +139,34 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden exaggerates U.S. rank in world coronavirus vaccinations"
+    excerpt: "During a speech in Cleveland, President Joe Biden earned applause with a line about how well the United States has been doing in vaccinating people against the coronavirus. \"We've created more places to get vaccinated"
+    publishedDateTime: 2021-05-28T17:45:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/28/joe-biden/joe-biden-exaggerates-us-rank-world-coronavirus-va/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-mostly-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
+  - title: "President Joe Biden boards Air Force One at Joint Base Andrews"
+    excerpt: "President Joe Biden boards Air Force One at Joint Base Andrews, to make remarks at Joint Base Langley-Eustis in Virginia, Friday, May 28, 2021. Photo by Chris Kleponis/UPI"
+    publishedDateTime: 2021-05-28T17:37:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/45dcc471509541cd6460757aba03407b/President-Joe-Biden-boards-Air-Force-One-at-Joint-Base-Andrews/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/45dcc471509541cd6460757aba03407b/BIDEN.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "HlWG/QcVApATIkONgA41gZd5QFSURnujejcWs6y9ZSXbaVn48R0BDrhrXBXoVlrBC5SyD08NsL7DeheatrtomVfqA7zNw/tZ0IBnX7QFahgbyUyk+erhPCyk2bf6uGMdOTZTkaNuG15AF5kIhiDGyRrOW2AZcA+YwzPXfIb145YqvjLZPgbOid9z1rEiKZ0xYc2o1wBv3Wb4Jhc9l49Ppcynrjzyams6MAPSN+BtRMQScozbeo9vHiTNeAK0DMeRX7ZeiqFYW2kbaF4L5PStnyyqJRn26U6I9MsCWfb/X+yI1GXrCv2EWiSd7B0zPTV+HDe1tE/WzEfFqxocD0kOA3LJprwtl4+D1RIAe+cJOzc7m3iH4qzCpPbgVJZlgYrcB7Szd7Rw8ZHR3DxLsj3RJoEhM6OJ4SSF0nOVFuDphpyOc/2ld/bCPfTLQgMraxp9AagwnzQhtOq0hzRgyaajmoqrjr6T1oMzBgEO+dEDh4t6R1XJLyIV2n5zcuK8eRqrVhZDFJGbjJxdDYusBhMz8w==;P4lMHRdGEYBXAq0v8QOmZA=="
 ---

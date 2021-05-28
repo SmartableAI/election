@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris Describes Colonial Pipeline Hack As 'Warning Shot' in Speech To Navy Graduates"
+    excerpt: "\"We must defend our nation against these threats, and at the same time we must make advances in things that you've been learning — things like quantum computing and artificial intelligence and robotics and things that will put our nation at a strategic advantage,"
+    publishedDateTime: 2021-05-28T17:22:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-describes-colonial-pipeline-hack-warning-shot-speech-navy-graduates-1595991"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-describes-colonial-pipeline-hack-warning-shot-speech-navy-graduates-1595991?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-describes-colonial-pipeline-hack-warning-shot-speech-navy-graduates-1595991?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1809794/kamala-harris-naval-academy.jpg"
+        width: 2500
+        height: 1626
+        isCached: true
   - title: "First lady says she's 'moved on' from reported anger at Kamala Harris"
     excerpt: "First lady Jill Biden on Thursday didn’t deny a report that she uttered a profanity about Vice President Kamala D. Harris for accusing Joe Biden of racism during a Democratic presidential primary debate in June 2019."
     publishedDateTime: 2021-05-20T19:31:00Z
@@ -123,6 +139,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Kamala Harris cites challenges of 'fragile' world in Navy speech"
+    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
+    publishedDateTime: 2021-05-28T17:04:00Z
+    webUrl: "https://triblive.com/news/world/kamala-harris-cites-challenges-of-fragile-world-in-navy-speech/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
 
 secured: "Shnpri92vO4hIsvsomVKSfTwcw3yENYOoAJ+yhyNA+Iq2rq/yxwGoKkviqI1tDRH4sVUekx/tZ6X6GnLAS35uVgdzi6YBIEJHxD3xxvV1INXODj+mMHp4wR18KPNWHINXsdjvuBbZCzNezHYrIsgWuQfomPGuUFCNe4KtO2Umf4aKBljhKxkz5fXPM1R2wvkGb65usgWm5Ol8eARBG6oHe7Et582SZnyzl/sPSddl6U9Y4AkgHThjdMR37Bp69NCtAvIicHWQbH63ouHw2nm+z+Qi/GnAu9tWIvP7dHnkOG06fcqRA5shy8CtKQ0h5T6BWaCuIufb6Q+62mZ99nNKUObEwOzBQ1SH2WpqAvi8zA=;Lo5gs4LI5NZGRCSFgfDyCw=="
 ---

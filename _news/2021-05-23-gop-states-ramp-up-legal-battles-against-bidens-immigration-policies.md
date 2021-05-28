@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-states-ramp-up-legal-battles-ag
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-states-ramp-up-legal-battles-against-bidens-immigration-policies.amp"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9310ca8a-d753-4dfe-adbd-1e7942fdb670/2d18d808-1356-46cc-b738-a315b4ce73b6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "GOP senators send letter to Biden opposing energy policies: 'A fundamental threat'"
+    excerpt: "A group of GOP senators led by Sen. Thom Tillis, R-N.C., sent a letter to President Biden on Friday expressing opposition toward his energy policies."
+    publishedDateTime: 2021-05-28T17:54:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HZ11YMdjz3I/gop-senators-letter-biden-energy-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-letter-biden-energy-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-letter-biden-energy-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af58c63b-3af9-4a18-8491-5b25ede6adfd/54701990-9ddf-4788-893a-e6f79e048e56/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

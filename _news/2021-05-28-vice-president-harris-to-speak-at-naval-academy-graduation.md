@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Vice President Harris to speak at Naval Academy graduation"
-excerpt: "Vice President Kamala Harris is scheduled to give the graduation address at the U.S. Naval Academy's commissioning ceremony"
-publishedDateTime: 2021-05-28T05:00:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
-webUrl: "https://abcnews.go.com/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
+excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
+publishedDateTime: 2021-05-28T05:03:00Z
+originalUrl: "https://www.greenwichtime.com/news/article/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+webUrl: "https://www.greenwichtime.com/news/article/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+ampWebUrl: "https://www.greenwichtime.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Greenwich Time
+  domain: greenwichtime.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_c5bc5a7c80eb400393da7975b268f476_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -408,6 +404,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Kamala Harris first woman to address Naval Academy graduates"
+    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
+    publishedDateTime: 2021-05-28T17:05:00Z
+    webUrl: "https://www.tampabay.com/news/nation-world/2021/05/28/vice-president-kamala-harris-first-woman-to-address-naval-academy-graduates/"
+    ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/05/28/vice-president-kamala-harris-first-woman-to-address-naval-academy-graduates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/05/28/vice-president-kamala-harris-first-woman-to-address-naval-academy-graduates/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 73
+    images:
+      - url: "https://www.tampabay.com/resizer/j-HJ7ydXemwz385g61jNV3g9IHI=/800x450/filters:focal(2400x1252:2410x1242)/cloudfront-us-east-1.images.arcpublishing.com/tbt/JOPXXFWRSP4HDQ3ZJH2VPPW3BU.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Members of the George Floyd family Meet with President Biden andVice President Kamala Harris"
     excerpt: "Members of the George Floyd family including Gianna Floyd, George Floyds daughter; speak to the media outside the West Wing at White House in Washington, DC on Tuesday, May 25, 2021. The Floyd family meet with President Joe Biden and Vice President Kamala Harris in the Oval Office today on the one year anniversary of George Floyds death."
     publishedDateTime: 2021-05-25T20:28:00Z
@@ -550,6 +562,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "bIUnaiSgNfbwzG1UWy8bz/OdyKKogqmdypWlC6YvdUCH4iHHnBpigjqx+toyjNgyTjs2rdJ2JFD9dZQ4kjWgsxUxDkwLJ5y3ARXZfNcnRJ2Po/GnBlB8WMzG2lV14wSKE5ZIG2tiBij0hlDh9hNXXlzF/WFBbMRKno8X9krwDfAH7T7m74T8tv0pKIiMLorfHVLdSUIdfax/MWYuK3ZQL7QZvZ1bto22lsJS6oeby1wjaMZ62NkgWY9v/Tl7NzTMFCzys8MkCDy2lF56ZcQl1BT79mxpmIETYmJJU3gILJs1OQJorCSAQj0nS3m0oIkRhhZ2yDiJlfQot92nt7A4JPI7JfH/4ddc26r1tYzT6Bk=;HIYYyyMucNNDctRy/4iB5A=="
+secured: "vz/Lkhf1Tzv21cnEngt5xCExLpQSheAi9bClcHoDCMiUKQwtNBUaRGqhEH3kzi3rvf4aadrpP5wk41CGir39e+a7+lAj4kaN9dj5Z4CFDyWQ/TDegkP59I9g/JLLkvDKgkfVxQd+J4fK71SI4MHKRfKjVCzMw4QkwckkbncZnuZ5TJcQ0koDGBqzWPCaQg/V7OVMxufbeamw3GgSh7CAZhtqW2LubOjQizS4vyzJavXvrUILOXkm//ySj7pusSsI5RzI1/uh7WtNKhXoD1b/wW4V4cZBjOdLHhsmkuQYAwf8rj6J4MBepHAsE1yqW3xWLibEAtwL+gAYCA4r9F84vyTrHhrKfgYywLJblg/tdrU=;RK0NmBMQvSASnMazGy7wyw=="
 ---
 

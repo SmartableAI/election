@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris tells Navy graduates US is entering a 'new era' after COVID-19"
+    excerpt: "Vice President Kamala Harris told Navy graduates on Friday that the U.S. and the world are entering a \"new age\" after COVID-19, as she also touched on topics including climate change and cybersecurity."
+    publishedDateTime: 2021-05-28T17:46:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pJI3wD2TsdM/harris-navy-graduates-us-new-era-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-navy-graduates-us-new-era-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-navy-graduates-us-new-era-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b7c7af2-081d-4bf9-9edb-dd1f17f4989b/d147cde4-a6d2-4b7a-b3a4-35a2ff067edb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris wipes hand after greeting South Korean leader, faces Twitter backlash"
     excerpt: "Many Americans have become more germ-conscious since the start of the coronavirus pandemic last year – but Vice President Kamala Harris may have made her concerns too conspicuous."
     publishedDateTime: 2021-05-23T05:29:46Z
@@ -44,6 +60,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris to announce business investments in Central America as part of migrant strategy"
+    excerpt: "Vice President Kamala Harris on Thursday will announce commitments from businesses and other organizations to invest in Central America to support economic development in the countries from where the migrant surge – which has overwhelmed border officials in recent months – originated."
+    publishedDateTime: 2021-05-27T17:57:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r91cxfOihLM/harris-business-investments-central-america-migrant-strategy"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-business-investments-central-america-migrant-strategy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-business-investments-central-america-migrant-strategy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "VP Kamala Harris holds unusual bilateral meeting with a foreign leader at the White House"
     excerpt: "Vice President Harris met with South Korean President Moon Jae-in Friday, without the participation of President Biden, and then the two appeared together to make a statement. A bilateral meeting at the White House between a U.S. vice president and a visiting head of state followed by a joint appearance"
     publishedDateTime: 2021-05-22T02:14:59Z
@@ -57,22 +89,6 @@ related:
     quality: 176
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48f7d31-128d-48ec-aca5-6fdc9d09c814/3d14acbf-614a-47fe-8bce-546e449638e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Flashback: Harris protested at southern border in 2018, but hasn't visited since taking migrant role"
-    excerpt: "Vice President Kamala Harris has come under criticism from Republicans and former Trump officials for not having visited the border in her leading role in dealing with the migrant crisis -- although she visited in 2018 to protest Trump-era policies."
-    publishedDateTime: 2021-05-22T16:52:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gearmT8w5Mk/flashback-harris-southern-border-2018-migrant-role"
-    ampWebUrl: "https://www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

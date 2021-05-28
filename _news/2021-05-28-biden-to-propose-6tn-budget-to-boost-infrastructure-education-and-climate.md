@@ -143,6 +143,34 @@ related:
         width: 4834
         height: 3223
         isCached: true
+  - title: "Joe Biden exaggerates U.S. rank in world coronavirus vaccinations"
+    excerpt: "During a speech in Cleveland, President Joe Biden earned applause with a line about how well the United States has been doing in vaccinating people against the coronavirus. \"We've created more places to get vaccinated"
+    publishedDateTime: 2021-05-28T17:45:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/28/joe-biden/joe-biden-exaggerates-us-rank-world-coronavirus-va/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-mostly-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
+  - title: "President Joe Biden boards Air Force One at Joint Base Andrews"
+    excerpt: "President Joe Biden boards Air Force One at Joint Base Andrews, to make remarks at Joint Base Langley-Eustis in Virginia, Friday, May 28, 2021. Photo by Chris Kleponis/UPI"
+    publishedDateTime: 2021-05-28T17:37:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/45dcc471509541cd6460757aba03407b/President-Joe-Biden-boards-Air-Force-One-at-Joint-Base-Andrews/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/45dcc471509541cd6460757aba03407b/BIDEN.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "O66oprWmUu61v9OkCJ6S+ggRF/4vaT86YWTahFHTHaxA2rNTqp7OJAgXfASLGZJvLLTDCdkrn0K11DGQm0/d5nBXsqosugcbLKS3ONUAaC0WVkUELvj2Pj2u6Xm4hY3K+FTKy5x7WOPABcUkBZUc8mU4strmpcluPwyS2fa/5E9+oZ1CIfj3AyXcURJcWkWM+1iWHOXXhPU+MbpVWJkzMHTHxAj2KcX0tWjTLI4VA8d8ocUtth2tgCHJRneogEr/MdZq0G1oM3YS/du/1uGiwbHwfhfe93TAO1y1F+CD7PNXd5VqWLv+/vJygt1uNw98HKuoO9yQ3IaalP2gl2ZGrm9VzUaEKLrf7l8CpWVwk0w=;pCXQjpUbbhcI3ETCZczcLA=="
 ---

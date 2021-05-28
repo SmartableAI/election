@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cincinnati.com/amp/5173738001"
 cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5173738001"
 type: article
 quality: 68
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: Cincinnati Enquirer
@@ -27,6 +27,31 @@ images:
     isCached: true
 
 related:
+  - title: "Here's a closer look at Air Force One and the presidential motorcade during Biden's trip to Detroit"
+    excerpt: "In an unusual occurrence, the location where photographers were allowed to photograph Air Force One landing was also on the motorcade route."
+    publishedDateTime: 2021-05-24T16:03:00Z
+    webUrl: "https://www.businessinsider.com/closer-look-at-air-force-one-and-biden-presidential-motorcade-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/60abcdcd5e34570019265227?width=1200&format=jpeg"
+        width: 960
+        height: 480
+        isCached: true
+  - title: "Biden to double funding to U.S. program that helps prepare for extreme weather events -Washington Post"
+    excerpt: "U.S. President Joe Biden on Monday will pledge $1 billion to a U.S. government program called Building Resilient Infrastructure and Communities that helps communities prepare for extreme weather events,"
+    publishedDateTime: 2021-05-24T14:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LM01V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LM01V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
   - title: "President Joe Biden will boost his economic policies in Thursday visit to Tri-C in Cleveland"
     excerpt: "WASHINGOTN, D.C. - President Joe Biden will visit Cuyahoga Community College in Cleveland on Thursday to deliver a speech on the economy that his principal deputy press secretary said will “make a clear case that his economic plan is working."
     publishedDateTime: 2021-05-26T19:41:00Z

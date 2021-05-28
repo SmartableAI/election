@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Harris to announce business investments in Central America as part of migrant strategy"
-    excerpt: "Vice President Kamala Harris on Thursday will announce commitments from businesses and other organizations to invest in Central America to support economic development in the countries from where the migrant surge – which has overwhelmed border officials in recent months – originated."
-    publishedDateTime: 2021-05-27T17:57:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r91cxfOihLM/harris-business-investments-central-america-migrant-strategy"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-business-investments-central-america-migrant-strategy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-business-investments-central-america-migrant-strategy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris urged by New Mexico GOP lawmaker to involve Congress in her ‘root causes’ talks"
-    excerpt: "Vice President Kamala Harris should consult members of Congress as she continues discussions with Mexican and Central American officials on the \"root causes\" of migration, a Republican lawmaker urged this week."
-    publishedDateTime: 2021-05-26T03:54:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQqjNR0Sbk8/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp"
+  - title: "Biden ‘can’t imagine’ anyone opposing a commission to investigate Jan 6."
+    excerpt: "President Biden said he “can’t imagine” why Republicans would vote against the Jan. 6 riot commission, as legislation to form the probe stalls in the Senate."
+    publishedDateTime: 2021-05-27T22:25:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cfm_9gsZ34Y/biden-commission-jan-6-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-commission-jan-6-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-jan-6-riot.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22a9630b-047d-47d1-9952-04d0bea71b85/eeb72bf6-9f91-441b-afd6-816eea0f5863/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cefafe0f-1e02-4a31-bfc0-3334dd54497b/3f902d84-a3fe-4d47-a9e3-e9096262c137/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden Orders More Intel Investigation of COVID-19 Origin"
+    excerpt: "President Joe Biden ordered U.S. intelligence officials to redouble their efforts to investigate the origins of the"
+    publishedDateTime: 2021-05-27T12:16:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/27/biden_orders_more_intel_investigation_of_covid-19_origin_145838.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/27/biden_orders_more_intel_investigation_of_covid-19_origin_145838.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/27/biden_orders_more_intel_investigation_of_covid-19_origin_145838.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/544333_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "94eflD7kIn0XvWDrEpcLCrP55ogMbadmJUxe1XWhEjvA/PGf5mG0mkYqF0BWWAgYV6KFRNqqYekAtd0FSdK3IzHeO0A81E+YmYwb7xKXYNLpNST09XGMBUsqVzhDF/VExGEgzNNAvxGpRKamg3c3a+ZTbM8n+Mhohc+YxBX9Zcw78tSP2NEFw7qTZvsGi6ijSz1CW6UGCH2i7ME31tsYjMjy0PEzLU1uQ11r6sDyv9eVM5XFV5E8h5VFaVMH7IasPUOSezNt8EfCmQ5/fVnGg6LCfXmbwJei90Hw2wW316LCS2AZ2N0okWViL7jAlA3HIaN+v8r2wEIp1fw6HrIzuwErdR0eWJMVyJmq8TYHhnM=;Vgp8Jl5YIe470Htc/doQWQ=="

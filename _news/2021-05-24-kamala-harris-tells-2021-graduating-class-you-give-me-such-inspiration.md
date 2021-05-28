@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kama
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
 type: article
 quality: 124
-heat: 244
+heat: 284
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris Describes Colonial Pipeline Hack As 'Warning Shot' in Speech To Navy Graduates"
+    excerpt: "\"We must defend our nation against these threats, and at the same time we must make advances in things that you've been learning — things like quantum computing and artificial intelligence and robotics and things that will put our nation at a strategic advantage,"
+    publishedDateTime: 2021-05-28T17:22:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-describes-colonial-pipeline-hack-warning-shot-speech-navy-graduates-1595991"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-describes-colonial-pipeline-hack-warning-shot-speech-navy-graduates-1595991?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-describes-colonial-pipeline-hack-warning-shot-speech-navy-graduates-1595991?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1809794/kamala-harris-naval-academy.jpg"
+        width: 2500
+        height: 1626
+        isCached: true
   - title: "VP Harris meets with Congressional Hispanic Caucus"
     excerpt: "Vice President Kamala Harris met with members of the Congressional Hispanic Caucus to discuss the coronavirus pandemic, immigration and other issues on Monday. (May 17)"
     publishedDateTime: 2021-05-17T21:30:00Z
@@ -123,6 +139,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Kamala Harris cites challenges of 'fragile' world in Navy speech"
+    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
+    publishedDateTime: 2021-05-28T17:04:00Z
+    webUrl: "https://triblive.com/news/world/kamala-harris-cites-challenges-of-fragile-world-in-navy-speech/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
 
 secured: "NfZC0V/3Wqm3qxD0V70/NGr/V0OFNqnqhTmu+9QV7sUu6j5J2pgnZNCx4yaMc0W3Z8fo8WuW86jiZREWn9LCOm1EKDlX0QB4rZDSymWLQ4YhwXX5yHKwei4EsCJZgMTjyWSXAj4vcYUHYVIse6jF+hrwXl54Ix5kvarYvaoEOYzBeSj6HG46tKt3QOmQz6HsvTNhyx8P54tIKs8DVyle3oCsoHDEKt887fysMkau2g1L5rPfd2d7Bf7q+x1c+b2m2SQUBab6wJacuhWObbvJD0MXB0XCEh5e/uLKsWplbw39TtIMylJRaVHGCYFKyJn4TRewvkOZctI2MPIYT/WlHsrujRb/omuhHIlNcWc9ydBX9EGN1rLdKBMDtt7azLvuSvHbzWy7fg1VrsLKwFsHAOna1bbrBTfYg16PkeC/w2O+yGQ8Z/33PIPy4Av6+EiPbYKuXLygmmSCgCpof1+B3HkTU8GJ9809k+904sDz1QsVu6s36BuBKpVqqC81sDKz35VuySauuxivX4kMwnv6kw==;Aw1XdCvyhIK+Q6f97Fs1IA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D62SK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SK"
 type: article
 quality: 125
-heat: 265
+heat: 305
 published: true
 
 provider:
@@ -142,6 +142,34 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/43QH4W3SFRFC5M2Z4WP3SEC2DE.jpg"
         width: 4834
         height: 3223
+        isCached: true
+  - title: "Joe Biden exaggerates U.S. rank in world coronavirus vaccinations"
+    excerpt: "During a speech in Cleveland, President Joe Biden earned applause with a line about how well the United States has been doing in vaccinating people against the coronavirus. \"We've created more places to get vaccinated"
+    publishedDateTime: 2021-05-28T17:45:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/28/joe-biden/joe-biden-exaggerates-us-rank-world-coronavirus-va/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-mostly-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
+  - title: "President Joe Biden boards Air Force One at Joint Base Andrews"
+    excerpt: "President Joe Biden boards Air Force One at Joint Base Andrews, to make remarks at Joint Base Langley-Eustis in Virginia, Friday, May 28, 2021. Photo by Chris Kleponis/UPI"
+    publishedDateTime: 2021-05-28T17:37:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/45dcc471509541cd6460757aba03407b/President-Joe-Biden-boards-Air-Force-One-at-Joint-Base-Andrews/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/45dcc471509541cd6460757aba03407b/BIDEN.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "ISf+3kO+A6DvGlc5ond0R44IzkEiPhPszRXloccAAxD7w+bJ6msmFPZhIP1qxZX3uvNx4HzXsAzQtJovZzQNgDmRzL0iJdN6Jc5IW6NoER99hxJJuATj5EQoZCcSZDZQdg7hoJKw7FrWh5YM3Ny7xuTaubeBUTj8jyUrR3xbjL0LBjaSydVmymd87uKQS0NDQo9Qf1CBl82m9wE/vG7n6a28e3GUmd1TWmR4bmPU2ei1g7K21r6anAWaIfN07mHRZLS+UvsttFOqI8ylvnWNXGzDT3yZktHhNIFsaaF9k9xCajJi2sX2xw9yj+t3H831jqDNeYby992G6TRwt94/YyJZeApnVNH2nyiHCFeH1Rm0Sr2bQt3mmwCLuZEtdltHTWNcDox64JQdzKwkJRP89cocIoCGnL3ZWyWqWRUVBX1ZVaLQv0ILUuAbQlI+lzSzzOypwJUN96OzhFCp/XATSTxNiv19zRCnPZKy2MrAv0JJiJbvciKKOCrae1TxGLQA8Z1ZlS5vnl9Lxw3P6VxUoQ==;J1ekpauesEzcyva4fQEv5A=="

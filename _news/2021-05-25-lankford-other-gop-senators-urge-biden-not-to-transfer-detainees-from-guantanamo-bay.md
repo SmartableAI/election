@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "GOP senators send letter to Biden opposing energy policies: 'A fundamental threat'"
+    excerpt: "A group of GOP senators led by Sen. Thom Tillis, R-N.C., sent a letter to President Biden on Friday expressing opposition toward his energy policies."
+    publishedDateTime: 2021-05-28T17:54:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HZ11YMdjz3I/gop-senators-letter-biden-energy-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-letter-biden-energy-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-letter-biden-energy-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af58c63b-3af9-4a18-8491-5b25ede6adfd/54701990-9ddf-4788-893a-e6f79e048e56/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden administration grants temporary protected status to Haitian immigrants living in US"
     excerpt: "The Biden administration on Saturday announced it is granting Haitian nationals, who are currently living in the U.S., Temporary Protected Status for an initial 18 months amid ongoing security concerns and human rights abuses in the country."
     publishedDateTime: 2021-05-22T22:00:36Z

@@ -1054,6 +1054,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Watch live: Kamala Harris gives commencement speech at U.S. Naval Academy"
+    excerpt: "Vice President Kamala Harris will address the graduating class of the U.S. Naval Academy on Friday, marking the first time a woman has given the commencement speech in school history."
+    publishedDateTime: 2021-05-28T13:20:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/05/28/harris-naval-academy-commencement-address/1851622204896/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/28/harris-naval-academy-commencement-address/1851622204896/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/28/harris-naval-academy-commencement-address/1851622204896/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/1851622204896/2021/upi/fe72fe0fa55526aaaa045af2d9e81898/v1.5/Kamala-Harris-Naval-Academy-graduates-prepared-for-any-threat.jpg?lg=2"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Florida nurse charged for death threats against Vice President Kamala Harris"
     excerpt: "A Florida woman is being held by federal authorities for allegedly making a series of threats to kill Vice President Kamala Harris. Niviane Petit Phelps, 39, sent a series of videos to her husband in prison, expressing anger over the results of the 2020 ..."
     publishedDateTime: 2021-04-17T16:27:00Z
