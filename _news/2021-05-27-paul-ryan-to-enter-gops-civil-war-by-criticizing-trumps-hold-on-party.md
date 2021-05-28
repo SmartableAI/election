@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/paul-ryan-donald-trump-g
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/paul-ryan-donald-trump-gop-reagan-presidential-library-republicans/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/181030173316-01-paul-ryan-1008-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The power of Trump drowns out Ryan's Reaganite call for change"
+    excerpt: "On one side of the country, legacy Republicans were agonizing about what their party should be. On the other, Donald Trump's diehards were revealing what it already is.\n    \n"
+    publishedDateTime: 2021-05-28T10:39:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/81Y5K8iNLX4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/donald-trump-paul-ryan-ronald-reagan-marjorie-taylor-greene-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/donald-trump-paul-ryan-ronald-reagan-marjorie-taylor-greene-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180411104247-01-paul-ryan-retirement-0411-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

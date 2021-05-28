@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The power of Trump drowns out Ryan's Reaganite call for change"
+    excerpt: "On one side of the country, legacy Republicans were agonizing about what their party should be. On the other, Donald Trump's diehards were revealing what it already is.\n    \n"
+    publishedDateTime: 2021-05-28T10:39:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/81Y5K8iNLX4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/donald-trump-paul-ryan-ronald-reagan-marjorie-taylor-greene-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/donald-trump-paul-ryan-ronald-reagan-marjorie-taylor-greene-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180411104247-01-paul-ryan-retirement-0411-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "EC/tm9WuoAh0YF9gqrHuJKnvPTop1pdCIKw0kvJNUW4WE9KAPGUWaEr6JsvS1s0Q9Z/WPAV6C6ux/UMmbeZ0rbvQJTBm+aARxvjrZBKQGgXdte5gIt3c439L5uGI25sjKUDem3yDMLPagXZRGe4QAM3/3EjMy9hUmGPpqljAWU8xzVBsmVHLVnTs98uVOmcDwAi4JxfC+p/7TEXGg+19H8YDqb0joKd92XOjuVKJ9bocpVfEdlLFdb3PkW+uama8m9ExJuAfhuHzSoHecoKTBKYaJHHAHgYBHCwZAkaypMAglL82jInOVPTqjYraZVudbR2yJtY2Zp3/ALOm8ddUUBx8NX2NKz3keb0lx/8h970=;qcvT3jiFfkp1TSITdMRGpg=="
 ---

@@ -838,6 +838,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How to watch VP Kamala Harris’ speech, Naval Academy Class of 2021 graduation and commissioning ceremony"
+    excerpt: "Vice President Kamala Harris is set to give the commencement speech for the Naval Academy graduation today. At the ceremony, 786 new Navy officers and 274 Marine Corps officers will be commissioned."
+    publishedDateTime: 2021-05-28T11:00:00Z
+    webUrl: "https://www.baltimoresun.com/education/ac-cn-usna-graduation-live-coverage-20210528-mfgujcvzlrhzzf5zahwpgkg4dy-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 38
+    images:
+      - url: "https://www.baltimoresun.com/resizer/DdeCgHkMjWIr76z_fLmFUfcpP3s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/J4YFLBSKLZCF7PPT5VQSW4OW4E.png"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
     excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
     publishedDateTime: 2021-05-04T15:13:00Z

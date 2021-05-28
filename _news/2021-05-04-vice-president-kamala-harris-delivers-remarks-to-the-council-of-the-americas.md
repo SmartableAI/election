@@ -836,6 +836,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How to watch VP Kamala Harris’ speech, Naval Academy Class of 2021 graduation and commissioning ceremony"
+    excerpt: "Vice President Kamala Harris is set to give the commencement speech for the Naval Academy graduation today. At the ceremony, 786 new Navy officers and 274 Marine Corps officers will be commissioned."
+    publishedDateTime: 2021-05-28T11:00:00Z
+    webUrl: "https://www.baltimoresun.com/education/ac-cn-usna-graduation-live-coverage-20210528-mfgujcvzlrhzzf5zahwpgkg4dy-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 38
+    images:
+      - url: "https://www.baltimoresun.com/resizer/DdeCgHkMjWIr76z_fLmFUfcpP3s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/J4YFLBSKLZCF7PPT5VQSW4OW4E.png"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Live Updates: Doug Emhoff, husband of Vice President Kamala Harris, in Lehigh Valley on Wednesday"
     excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is visiting the Lehigh Valley on Wednesday to tout President Joe Biden’s infrastructure plan."
     publishedDateTime: 2021-05-05T14:04:00Z

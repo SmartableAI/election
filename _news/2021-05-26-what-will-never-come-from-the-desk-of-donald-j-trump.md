@@ -143,6 +143,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "A Trump Case Awaits. Who Is the Best Prosecutor for the Job?"
+    excerpt: "Some candidates for Manhattan’s district attorney are agents of change who want to cut the police budget. Others are very comfortable with long-established established power networks."
+    publishedDateTime: 2021-05-28T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/28/nyregion/NYC-district-attorney-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/28/nyregion/NYC-district-attorney-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/nyregion/NYC-district-attorney-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/30/nyregion/30Big/30Big-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "POLITICO Playbook: GOP dreads the return of Trump rallies"
     excerpt: "But ONALD TRUMP’S return to the stump, predicting his rallies will cause a major headache for the party as it mounts a bid to take back Congress in 2022. Even as they tee off against Twitter and Facebook for banning Trump,"
     publishedDateTime: 2021-05-27T10:10:00Z
