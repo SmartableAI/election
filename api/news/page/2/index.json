@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-27-gop-governors-on-hannity-biden-making-them-pay-the-price-for-being-fiscally-responsible.md",
+      "title": "GOP governors on 'Hannity': Biden making them 'pay the price' for being fiscally responsible",
+      "excerpt": "Members of the Republican Governors Association joined “Hannity” on Wednesday for a town hall event.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f8NeWSZtA6M/gop-governors-biden-making-pay-the-price-being-fiscally-responsible",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f8NeWSZtA6M/gop-governors-biden-making-pay-the-price-being-fiscally-responsible",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c16c75bf-6b82-41de-988f-ad0d93240512/1108879e-c4e2-425e-b1a4-215178cd8c85/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-governors-biden-making-pay-the-price-being-fiscally-responsible.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-governors-biden-making-pay-the-price-being-fiscally-responsible.amp",
+      "publishedDateTime": "2021-05-27T03:57:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-seth-meyers-calls-trump-the-david-blaine-of-crime.md",
       "title": "Seth Meyers Calls Trump the ‘David Blaine of Crime’",
       "excerpt": "If he ever goes to trial, he’ll just regurgitate a frog that has ‘not guilty’ written on its back,” Meyers joked on Wednesday night.",
@@ -977,58 +1033,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-the-clock-is-ticking-democrats-grow-restless-with-bidens-infrastructure-talks-as-republicans-float-next-counteroffer.md",
-      "title": "'The clock is ticking': Democrats grow restless with Biden's infrastructure talks as Republicans float next counteroffer",
-      "excerpt": "With sides still far apart, some Democrats say the time is nearing for Biden to try to pass an infrastructure package without Republicans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/25/biden-infrastructure-plan-republicans-democrats-far-apart-bill/7418435002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/25/biden-infrastructure-plan-republicans-democrats-far-apart-bill/7418435002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/05/USAT/17e49864-676d-4081-a5f9-86bc0120a1b1-AP_Biden_12.jpg?auto=webp&crop=5406,3041,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7418435002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7418435002",
-      "publishedDateTime": "2021-05-25T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

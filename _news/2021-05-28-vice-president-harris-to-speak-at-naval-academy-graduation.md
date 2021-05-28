@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Kamala Harris to give 2021 commencement speech in CNN special"
-excerpt: "CNN will honor the millions of students graduating from high school and college this weekend with a star-studded prime-time special."
-publishedDateTime: 2021-05-20T00:27:00Z
-originalUrl: "https://thegrio.com/2021/05/19/kamala-harris-commencement-speech-cnn-graduation-special/"
-webUrl: "https://thegrio.com/2021/05/19/kamala-harris-commencement-speech-cnn-graduation-special/"
+title: "Vice President Harris to speak at Naval Academy graduation"
+excerpt: "Vice President Kamala Harris is scheduled to give the graduation address at the U.S. Naval Academy's commissioning ceremony"
+publishedDateTime: 2021-05-28T05:00:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
+webUrl: "https://abcnews.go.com/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Grio
-  domain: thegrio.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://thegrio.com/wp-content/uploads/2021/04/280420211619611627-1-scaled.jpg"
-    width: 1280
-    height: 853
+  - url: "https://s.abcnews.com/images/Politics/WireAP_c5bc5a7c80eb400393da7975b268f476_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -200,22 +206,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/95fa8f9894af888284457c15293f5fe0131673b6/0_83_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0811f31c824459870e86ad221ddef118"
         width: 600
         height: 360
-        isCached: true
-  - title: "Vice President Harris to speak at Naval Academy graduation"
-    excerpt: "Vice President Kamala Harris is scheduled to give the graduation address at the U.S. Naval Academy's commissioning ceremony"
-    publishedDateTime: 2021-05-28T05:00:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c5bc5a7c80eb400393da7975b268f476_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Mexico says investment and security to be discussed during Kamala Harris trip"
     excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8."
@@ -432,6 +422,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Kamala Harris to give 2021 commencement speech in CNN special"
+    excerpt: "CNN will honor the millions of students graduating from high school and college this weekend with a star-studded prime-time special."
+    publishedDateTime: 2021-05-20T00:27:00Z
+    webUrl: "https://thegrio.com/2021/05/19/kamala-harris-commencement-speech-cnn-graduation-special/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 55
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/04/280420211619611627-1-scaled.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "The evolution of Joe Biden"
     excerpt: "What happened to Joe Biden? Many people thought he was a moderate incrementalist, but now he's promoting whopping big legislative packages that make many on the progressive left extremely happy."
     publishedDateTime: 2021-05-23T08:11:00Z
@@ -532,6 +536,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "Rjee6d9mFLcjF1A58pioJr26+axo1YnCUyxYTK12Kgq89xOg22fHM13DqCoy3vCbRElIiJjurmXIU0qOem/k0sgoEN3eLEiCpdp6RfUIVuoKG2HvP2o49UKpzmvXaLHX7bTy6eNnJl5mcCZdXM6M11mSD2zpvpuiEzvfea4tyzHv9SxvDNvSQG9zyJ6QzpFOOBA6Qa/yqLqsFsR4J4tF9jFtOq4RCcxpI3rVBnvWTu+GqQ0j+YIB2AFh7rdVZed+Mvm8HBqZXiXZ6GoipnQ5Qx4uVjt3/n/c1qorln4IZXsIVMYVyFxtyQyiBJyk99rzEVdzK9j7nASC0IUP/GkldHvuS44TTBiX430CdYuTPHnSke29lk7bttwiBxl4FlvqBZlMIkX803Y6+Lz9zwk+zfJUERWWUgE3sFFJfvrMeHBTwXZm0bdJT/NBki0ZfszgyCtmOp9OLVMLx7pUW3Gsf2kr4F8RPvb5bRj8j9bDM2g2JlOW4WY3nhuxyOEE2EG8EYmFVfsssu4XrsO7q8DVJw==;Ubh0eFpsgWxmJOBY/+XfUQ=="
+secured: "bIUnaiSgNfbwzG1UWy8bz/OdyKKogqmdypWlC6YvdUCH4iHHnBpigjqx+toyjNgyTjs2rdJ2JFD9dZQ4kjWgsxUxDkwLJ5y3ARXZfNcnRJ2Po/GnBlB8WMzG2lV14wSKE5ZIG2tiBij0hlDh9hNXXlzF/WFBbMRKno8X9krwDfAH7T7m74T8tv0pKIiMLorfHVLdSUIdfax/MWYuK3ZQL7QZvZ1bto22lsJS6oeby1wjaMZ62NkgWY9v/Tl7NzTMFCzys8MkCDy2lF56ZcQl1BT79mxpmIETYmJJU3gILJs1OQJorCSAQj0nS3m0oIkRhhZ2yDiJlfQot92nt7A4JPI7JfH/4ddc26r1tYzT6Bk=;HIYYyyMucNNDctRy/4iB5A=="
 ---
 

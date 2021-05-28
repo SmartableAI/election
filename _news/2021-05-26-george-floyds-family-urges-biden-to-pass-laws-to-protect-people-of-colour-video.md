@@ -205,6 +205,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Vice President Harris to speak at Naval Academy graduation"
+    excerpt: "Vice President Kamala Harris is scheduled to give the graduation address at the U.S. Naval Academy's commissioning ceremony"
+    publishedDateTime: 2021-05-28T05:00:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c5bc5a7c80eb400393da7975b268f476_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Mexico says investment and security to be discussed during Kamala Harris trip"
     excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8."
     publishedDateTime: 2021-05-19T16:29:00Z

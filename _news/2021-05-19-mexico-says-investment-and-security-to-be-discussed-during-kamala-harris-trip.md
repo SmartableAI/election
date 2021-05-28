@@ -207,6 +207,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Vice President Harris to speak at Naval Academy graduation"
+    excerpt: "Vice President Kamala Harris is scheduled to give the graduation address at the U.S. Naval Academy's commissioning ceremony"
+    publishedDateTime: 2021-05-28T05:00:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/vice-president-harris-speak-naval-academy-graduation-77956355"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c5bc5a7c80eb400393da7975b268f476_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "A year after George Floyd’s death, police reform remains a challenge for Biden"
     excerpt: "President Joe Biden is set to meet with members of George Floyd's family, but one year after an event he described as \"a wake-up call to the nation,\" little has changed."
     publishedDateTime: 2021-05-25T09:05:00Z

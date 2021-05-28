@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "AP FACT CHECK: Biden is off on his vaccine claims"
+    excerpt: "President Joe Biden isn't getting the U.S. vaccine record quite right WASHINGTON -- President Joe Biden misstated the record Thursday when he asserted that half of his country has been fully ..."
+    publishedDateTime: 2021-05-27T20:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-off-vaccine-claims-77949217"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-off-vaccine-claims-77949217"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-off-vaccine-claims-77949217"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dca68b7cd21b4ea8b0ccb25dace58a46_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fact check: Post detailing COVID deaths under Biden ignores improving trend"
     excerpt: "A Facebook post claims more than 176,000 people died from COVID-19 in the United States since President Joe Biden took office on Jan. 20. The image of Biden masked up with his thumbs up, shared April 28,"
     publishedDateTime: 2021-05-01T01:56:00Z

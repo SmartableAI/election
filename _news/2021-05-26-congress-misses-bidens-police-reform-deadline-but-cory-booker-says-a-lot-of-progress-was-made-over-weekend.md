@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/congress-biden-police-reform-deadli
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/congress-biden-police-reform-deadline-cory-booker/"
 type: article
 quality: 105
-heat: 125
+heat: 105
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Joe Biden under pressure from Democrats over infrastructure package"
-    excerpt: "Joe Biden is facing growing pressure from both flanks of the Democratic party as the US president negotiates his $2.3tn infrastructure package, between moderates who want him to strike a deal with Republicans and progressives who are urging him to walk away from the negotiating table."
-    publishedDateTime: 2021-05-27T09:00:00Z
-    webUrl: "https://www.ft.com/content/f60e617c-d3ae-46a9-895b-37a25820a9c2"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 85
 
 secured: "WeY457bd+RvJgagFyiz2n8C2IzZ/BALFgSNgwY1AbN/bGERvAp2LBO1h38ktJ7h32GxXZULl4f5xZB6OzDZF2TLLvX8GhWPk9U0H9Qu1XVOrHxB5TyJS5kc+cgEyKI5ovPOAFJtFO9iwK8vE1ip35aKfkWprRiuPCe8U9Cw4gdQZlTABKKw7ZpyHzDHJpqEoo13AMPwV6/YnVl5oFXnJrkBm3SWkr8uVMEa5IR1yLJtohqp6N9b4QXPogzk0rXsgXHkNjKq7j6TULuIHzv9GTDdyTYu3hjp8ECe3UPcQffYzwLMW7Igcf2+/F2KPZaGCVXn6eF0MisYS0cVpdu+peKXpUZcpicjWcDGinpSkOLezSS1xL4a5UMqyB+UA6oZBprF7M8eggMjP9tT1YpcKzcJBwzbbA2+S/XRbOLKLuj1rhdrmmGrwuJZTqzM4wvm8L6IjNArF6oOeSaj9/qlnq0ynAVHMuyY/BTpEeZFyYF/izy9Yx0npfU8ITjI7F8lfBkVB4xGGP4Wor9dHmDD2Zg==;UbVsxtkI56+YaAppYgbpqw=="
 ---

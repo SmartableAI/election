@@ -1,22 +1,22 @@
 ---
 category: news
-title: "AP FACT CHECK: Biden overstates how many Americans immunized"
-excerpt: "An AP Fact Check finds that President Joe Biden was off on his vaccination numbers when he addressed the subject Monday"
-publishedDateTime: 2021-05-03T21:22:00Z
-originalUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+title: "AP FACT CHECK: Biden is off on his vaccine claims"
+excerpt: "President Joe Biden isn't getting the U.S. vaccine record quite right WASHINGTON -- President Joe Biden misstated the record Thursday when he asserted that half of his country has been fully ..."
+publishedDateTime: 2021-05-27T20:48:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-off-vaccine-claims-77949217"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-off-vaccine-claims-77949217"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-off-vaccine-claims-77949217"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-off-vaccine-claims-77949217"
 type: article
 quality: 125
-heat: 285
-published: true
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F3S2LJFMHII6XAWBRFVMVFK3XE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_dca68b7cd21b4ea8b0ccb25dace58a46_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "AP FACT CHECK: Biden is off on his vaccine claims"
-    excerpt: "President Joe Biden isn't getting the U.S. vaccine record quite right WASHINGTON -- President Joe Biden misstated the record Thursday when he asserted that half of his country has been fully ..."
-    publishedDateTime: 2021-05-27T20:48:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-off-vaccine-claims-77949217"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-off-vaccine-claims-77949217"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-off-vaccine-claims-77949217"
+  - title: "AP FACT CHECK: Biden overstates how many Americans immunized"
+    excerpt: "An AP Fact Check finds that President Joe Biden was off on his vaccination numbers when he addressed the subject Monday"
+    publishedDateTime: 2021-05-03T21:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dca68b7cd21b4ea8b0ccb25dace58a46_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F3S2LJFMHII6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Fact check: Post detailing COVID deaths under Biden ignores improving trend"
     excerpt: "A Facebook post claims more than 176,000 people died from COVID-19 in the United States since President Joe Biden took office on Jan. 20. The image of Biden masked up with his thumbs up, shared April 28,"
@@ -146,6 +146,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "WbSNgDMByCRNFlzyDgNDFqiM+A3UBKxV5FTkAv9zC4AcJhBTSdidc/GuxGPTJsEf1FRptUcSCx9I24Xo+VV8l3tbcIEPgRA1adtS7onBnHdCr/ylAQM+CyxQnLU4VknZKTf7GvsrmUoLwLXArrhA623CIDoOppM8mAh61UAokr9xamueWNSF084y7L5qX5EaIeDt2PdrsOO1f+tAyy0IPpaZoBfCBQ/o5FhOiY38BcfJjNHiGFIYYuqCrXVy4PSJHQKBuEELOK0lXR7lluEfZuCvSWBneaHWHX7DEGuS7c0ZEN3B/tBk6yaOBgqpOKsWWzZe+VdnLKIipWnvSMC0+YzXN/DTC14gKr0JskK35JE=;gMxVG6hOQG8VmjJiXpqc3Q=="
+secured: "jJdlbyrjSRjmrrZuZeCk/YRje1CpEtuCqOChO5V3/7ukpgmp1x7IGIteJdY6MRBxs8hulYrONPxQ9h3s6u2iccLex5hqB91zjz0P/hECZ81COgNrJvvHLJAPmJoh5+599DsrlA/wqMMIdlsQmj2QBLH9pRkViDg2lTR8QWNJ+rhLsvzREroexs8LG7/7y5yEDWWJ3P8Y6gRWAtAw2c0HUINi53aCa8ZhDe6b8YY6qAqj3XKkTsvhQjh77dm/IJrXHhGXMozAausQxE72w6HFUZu0+8tqOQw8bRIZe/ZPV/Is7zoXBBL0zmO2f8jWPowBbkXPQ9FcPq4LRNyO0iEfUSjXQyzNMNUKH9l2tIAFbKc=;pChDCVvGO+xK39k8A9muTg=="
 ---
 
