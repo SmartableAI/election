@@ -32,35 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "San Jose shooting prompts Biden, Newsom to renew call for gun control measures"
-    excerpt: "President Biden, California Gov. Gavin Newsom and other prominent Democrats renewed calls for tighter gun laws on Wednesday after a deadly mass shooting at a California rail yard."
-    publishedDateTime: 2021-05-27T01:01:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1oEqrNEUU30/san-jose-shooting-biden-newsom-gun-control"
-    ampWebUrl: "https://www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp"
+  - title: "Biden: China thinks it will 'own America' by 2035"
+    excerpt: "President Biden, addressing the evolving landscape of foreign threats to the country, told troops Friday that China thinks it will “own America” in the next 15 years."
+    publishedDateTime: 2021-05-28T19:54:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V9zs0YfxvCQ/biden-china-own-america-2035"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-china-own-america-2035.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-china-own-america-2035.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75fd10f9-5ed7-4a0a-a339-cec24197305e/c2c66037-e392-4e1e-b849-923bdaf2f091/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ada39e0-4be0-43b2-8ef3-26f3ebfa1e93/141116e1-8abd-474f-a22d-429f1971b439/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Blackburn presses Biden on WHO probe into COVID origins, amid renewed scrutiny of Wuhan lab"
-    excerpt: "EXCLUSIVE: Sen. Marsha Blackburn, R-Tenn., has written to President Biden to press him about ongoing concerns with the World Health Organization's investigation into the origins of the COVID-19 outbreak -- amid renewed scrutiny of the Wuhan Institute of Virology, where some believe the pandemic may have"
-    publishedDateTime: 2021-05-25T15:30:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UvCkruufTcU/blackburn-biden-who-probe-covid-origins-wuhan-lab"
+  - title: "Sen. Kennedy: Biden nominees like ATF's Chipman 'have contempt for America and Americans'"
+    excerpt: "Senator John N. Kennedy, R-La., sounded off on Thursday after his fiery back and forth with President Biden's nominee to lead the Bureau of Alcohol, Tobacco & Firearms, David Chipman -- in which Chipman was notably unable to clearly state a definition of the term “assault weapon\"."
+    publishedDateTime: 2021-05-28T02:48:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2IbBVvW4-dY/sen-kennedy-biden-nominees-like-atfs-chipman-have-contempt-for-america-and-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-kennedy-biden-nominees-like-atfs-chipman-have-contempt-for-america-and-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-kennedy-biden-nominees-like-atfs-chipman-have-contempt-for-america-and-americans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 145
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ae325c8-e306-4891-9ae9-6b0b9f33589c/6686ca74-f4f4-4130-8448-8cc5a22af4ee/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/820125ee-c484-4495-8b58-33d2632224a1/6aacebfb-a7e7-4b3c-8949-4d1f0a1ee606/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden visits troops to offer Memorial Day thanks: 'You are the spine of America'"
+    excerpt: "President Biden marked the start of the Memorial Day weekend by visiting troops and thanking military families for their ongoing sacrifice and service. "
+    publishedDateTime: 2021-05-28T20:34:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0HnOgbPaYI/biden-troops-memorial-day"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/biden-troops2.jpg"
+        width: 5484
+        height: 3656
         isCached: true
 
 secured: "ndQ0/MfXpP/RGZMsVp5+yrswqAharPAzq6RYijU2CP1VYH/yOluXoervojTDBDD5boA++SByKBHjGp2KNfHYT++2uS9CpCtPu9MxrEEZXtPDJwCmIAurtdBrx4h4g+xke8LDodUyqLbuuGIUhR/+F8gi0Za6l/IjG+QJXMsCvUOvSFaF3UcMF3TcRO8PkjJSYi7BTFqhXFCCq6oH2oQsAa769h5iIB4+Cy3f3SCX8l6osWaXAGcJdbBTxg59E5LRlTgCSePk8TT+pEPHjwfy4ij51HVkej83XggNqza/A1K6FNN+5niho6PM6gOL+0hIJuhzNyZQ06KX8nsDfcFF7Mt0ranTSqtXzRgjL9zfLtGCDW6/oQCDvUa9NMG2+GEsbFR7q7yZUtBJCcTpfjVwEBmxRcVUoFjdBCSgxQZgzA4RsD4TKabHs7EO2WOa8GIXcmUvyXY7lmHBcCtTb4nJ2dn3+b+Uv902dN2g+rOojbto2TZRbMtg3d1Isl94Gx9Hi5pmaV/bvzHd1wQ0a74cJw==;2DP+/GjJq9PbOuuwkZLGfg=="

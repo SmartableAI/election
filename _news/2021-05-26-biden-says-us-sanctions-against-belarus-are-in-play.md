@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D62SK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SK"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/726f30f7de9fd0b16e471b81d26a449d46c90f96/0_461_6944_4168/master/6944.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb30e67283e80d7eaa1ebbfa9d837d4e"
         width: 600
         height: 360
+        isCached: true
+  - title: "President Biden touts U.S. vaccine rollout ahead of Memorial Day"
+    excerpt: "President Joe Biden is touting the success of the country's vaccine rollout amid a dramatic decline in newly reported cases and coronavirus-related deaths ahead of the holiday weekend. Dr. Teresa Amato,"
+    publishedDateTime: 2021-05-28T20:02:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-touts-vaccine-rollout-ahead-of-memorial-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/28/6e5426c3-f4e4-400e-b205-c3a9e55c0fd9/thumbnail/1200x630/670d5b3fb8b2df4a1b63ee9753d356c8/0528-cbsn-bidenvaccinerollout-replace-725115-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "President Joe Biden asks US intelligence officials to investigate COVID origin"
     excerpt: "President Joe Biden on Wednesday asked U.S. intelligence officials to “redouble” their efforts to investigate the origins of the COVID-19 pandemic, including the unlikely possibility that the origins of the virus trace to Chinese lab."

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lawyers: Biden in office makes 2020 protest suit unnecessary"
+    excerpt: "Lawyers say lawsuits filed by protesters who were forcefully removed from a park near the White House before a photo op by former President Donald Trump should be dismissed"
+    publishedDateTime: 2021-05-28T20:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyers-biden-office-makes-2020-protest-suit-unnecessary-77969542"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyers-biden-office-makes-2020-protest-suit-unnecessary-77969542"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyers-biden-office-makes-2020-protest-suit-unnecessary-77969542"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_35f7d122f04244f582f753f9a7d005ba_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Hill's Morning Report - Presented by Facebook - Israel-Hamas cease-fire underway; Biden praises 'unconditional' truce"
     excerpt: "Total U.S. coronavirus deaths reported each morning this week: Monday, 585,970; Tuesday, 586,359; Wednesday, 587,219; Thursday, 587,874. Friday, 588,539. A cease-fire took effect between Israel and Hamas hours after Israeli Prime Minister Benjamin Netanyahu ’s Security Cabinet approved a unilateral halt to an 11-day military operation in the Gaza Strip."
     publishedDateTime: 2021-05-21T10:29:00Z

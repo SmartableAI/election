@@ -31,45 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Justice Dept. secretly obtained CNN correspondent’s phone, email records"
-    excerpt: "The revelation underscores how the previous administration was willing to seek journalists’ data to investigate unwanted disclosures."
-    publishedDateTime: 2021-05-21T04:51:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-cnn-email-phone-records/2021/05/20/457daa70-b9bc-11eb-96b9-e949d5397de9_story.html?outputType=amp"
+  - title: "Tennessee shelter for immigrant children opened under Trump"
+    excerpt: "Tennessee licensed a shelter for immigrant children a year before the state’s Republican governor and U.S. Senators began expressing outrage over unaccompanied minors sent to Chattanooga"
+    publishedDateTime: 2021-05-28T21:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LQQAWZW3RAI6RNZSHRZMX4JR6I.jpg&w=1440"
-        width: 1440
-        height: 890
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Justice Department appeals order to release in full a legal memo on whether Trump obstructed justice during the Russia investigation"
-    excerpt: "The Biden administration is appealing a judge’s order directing it to release in its entirety a legal memo on whether President Donald Trump had obstructed justice during the Russia investigation."
-    publishedDateTime: 2021-05-25T15:13:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-justice-department-barr-russia-obstruction-memo-20210525-ymq23dif5rf2djn4tumyx74ojy-story.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 74
-    images:
-      - url: "https://www.chicagotribune.com/resizer/IpKs4rNbpj7N0ajE9lAC81rd9gU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZPFUXOBZBZECNBHEYYIALZV2FY.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Would Be Key Jan. 6 Witness, Murkowski Says -CNN"
-    excerpt: "Former Republican President Donald Trump would be a key witness for any panel probing the Jan. 6 attack on the U.S. Capitol, Republican Senator Lisa Murkowski said on Tuesday, after the top Republican in the House earlier rejected the idea of any investigative commission."
-    publishedDateTime: 2021-05-18T17:42:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-18/trump-would-be-key-jan-6-witness-murkowski-says-cnn"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "PBf1NNR13y+ECzmdnHHCZo/dingwbQUYyZ8h2b8XwmCOKYMm8ECMG4uuLNQL8/y1VuhY/Sdfx5bgOUwoE66UvzscIWPCsaTE5RjX/U1BelvtcozA2ilDJJMzPcHR3oj91S1AWMAK+qIhZBA+QvY/S5TdJNQaAPT4VM34c3F78/RBOH5iIHufhHlTjEFZJ64WbiZHE4lLs2x/PISh43y5dCPz981Ht0rpO8YjZ6USKWpK3EtAubSrLxBVJdaG7+kQCeodcwYjygQXAiFoMks/BQi0321WmsF0CZxjXKy8w7dIY7CI39t/2saalXXuNC6e99qHnZzKHIdqSwQpsoR2CNi15tdhgBP54EejZEvKCTk=;3FQGxEUn9oZ2jQCZT7gsLA=="
 ---

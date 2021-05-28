@@ -45,22 +45,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Lawrence Jones slams President Biden for failing to deliver on promise to 'heal' America: 'Where are we now?'"
-    excerpt: "\"Fox News Primetime\" host Lawrence Jones ripped Joe Biden and Democrats Tuesday for their lack of urgency in solving America’s policing problem and not addressing the real issues facing Black America."
-    publishedDateTime: 2021-05-26T01:38:00Z
-    webUrl: "https://www.foxnews.com/media/lawrence-jones-slams-president-biden-failing-promise-heal-america"
-    ampWebUrl: "https://www.foxnews.com/media/lawrence-jones-slams-president-biden-failing-promise-heal-america.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lawrence-jones-slams-president-biden-failing-promise-heal-america.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/178211ca-6a68-4596-9274-d5b737e196fb/9c302308-93b8-4828-a2fb-0d653120b8ca/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "IYFZYgWsUnzsL3oqmj5L20xZheDtPQKPkeB6Yw2Gp0VwcqgRoGE9LIAa0xOXNGlnckfYCwdckWTAHrt6hRFp0Jnhq1AlqH10XR1x/Ck3HyzeIe6lecGP9E4qZHtQ/yQhP8rvVc326CRWJvc9xbxlGG5u1GmdrQFfDHmk++3OXIwsomoDdgazR40x+fBdmxYo6m+iNFvOVZLLcovLnc/T486OXmanQeHVy90vqx4xexdqm8ZiyHfFllpf5F09E34hDVB525HdAPjqIUulnzFXgz+K1klPdjvXr9H8MTH5la1/xW0mEjyf/htZu3nPAFfjU2YAxqDcmt8O1JnkpJjllQb9huXMbQFFS9aiAoaWRhI=;mBRsNegBxyEkMXuz2+wixA=="
 ---

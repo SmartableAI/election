@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 1285
+heat: 1305
 published: true
 
 provider:
@@ -877,6 +877,20 @@ related:
       - url: "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=268"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Watch Naval Academy Class of 2021 graduation and commissioning ceremony, VP Kamala Harris’ speech"
+    excerpt: "Vice President Kamala Harris is set to give the commencement speech for the Naval Academy graduation today. At the ceremony, 786 new Navy officers and 274 Marine Corps officers will be commissioned."
+    publishedDateTime: 2021-05-28T20:38:00Z
+    webUrl: "https://www.baltimoresun.com/education/ac-cn-usna-graduation-live-coverage-20210528-mfgujcvzlrhzzf5zahwpgkg4dy-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 42
+    images:
+      - url: "https://www.baltimoresun.com/resizer/WaH8LDXsh_O7qHlNfAR60tqmsTQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3C7K5Q2J3NH2DAGZKG4JFIZDCQ.JPG"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
     excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."

@@ -45,22 +45,6 @@ related:
         width: 1440
         height: 890
         isCached: true
-  - title: "ICE deported 348 migrant parents under Trump without ensuring children could go with them"
-    excerpt: "Some parents were deported without their children even after telling ICE officers that they wanted their children to come with them, the DHS inspector general found."
-    publishedDateTime: 2021-05-24T20:20:00Z
-    webUrl: "https://www.cbsnews.com/news/immigration-ice-deportations-parents-trump-family-separation/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-ice-deportations-parents-trump-family-separation/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-ice-deportations-parents-trump-family-separation/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 116
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/18/fca5c57b-04f7-4ff4-9832-a7b6c222547c/thumbnail/1200x630/d615f11dcdadbd7bc81e61c3680c60c9/ap19200565745965.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump Would Be Key Jan. 6 Witness, Murkowski Says -CNN"
     excerpt: "Former Republican President Donald Trump would be a key witness for any panel probing the Jan. 6 attack on the U.S. Capitol, Republican Senator Lisa Murkowski said on Tuesday, after the top Republican in the House earlier rejected the idea of any investigative commission."
     publishedDateTime: 2021-05-18T17:42:00Z

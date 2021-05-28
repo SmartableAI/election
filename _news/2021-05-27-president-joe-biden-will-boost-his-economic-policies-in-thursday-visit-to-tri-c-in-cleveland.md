@@ -27,31 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's a closer look at Air Force One and the presidential motorcade during Biden's trip to Detroit"
-    excerpt: "In an unusual occurrence, the location where photographers were allowed to photograph Air Force One landing was also on the motorcade route."
-    publishedDateTime: 2021-05-24T16:03:00Z
-    webUrl: "https://www.businessinsider.com/closer-look-at-air-force-one-and-biden-presidential-motorcade-2021-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/60abcdcd5e34570019265227?width=1200&format=jpeg"
-        width: 960
-        height: 480
-        isCached: true
-  - title: "Biden to double funding to U.S. program that helps prepare for extreme weather events -Washington Post"
-    excerpt: "U.S. President Joe Biden on Monday will pledge $1 billion to a U.S. government program called Building Resilient Infrastructure and Communities that helps communities prepare for extreme weather events,"
-    publishedDateTime: 2021-05-24T14:21:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LM01V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LM01V"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
   - title: "President Joe Biden to visit Cleveland next week, marking second Ohio trip this year"
     excerpt: "President Joe Biden will visit Cleveland next week, marking his second trip to Ohio this year. White House officials said Wednesday that Biden will deliver remarks about the economy during his trip May 27."
     publishedDateTime: 2021-05-19T22:21:00Z

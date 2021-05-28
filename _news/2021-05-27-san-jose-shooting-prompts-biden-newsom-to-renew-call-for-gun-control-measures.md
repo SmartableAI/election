@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp"
 type: article
 quality: 171
-heat: 211
+heat: 191
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ae325c8-e306-4891-9ae9-6b0b9f33589c/6686ca74-f4f4-4130-8448-8cc5a22af4ee/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Lawrence Jones slams President Biden for failing to deliver on promise to 'heal' America: 'Where are we now?'"
-    excerpt: "\"Fox News Primetime\" host Lawrence Jones ripped Joe Biden and Democrats Tuesday for their lack of urgency in solving America’s policing problem and not addressing the real issues facing Black America."
-    publishedDateTime: 2021-05-26T01:38:00Z
-    webUrl: "https://www.foxnews.com/media/lawrence-jones-slams-president-biden-failing-promise-heal-america"
-    ampWebUrl: "https://www.foxnews.com/media/lawrence-jones-slams-president-biden-failing-promise-heal-america.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lawrence-jones-slams-president-biden-failing-promise-heal-america.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/178211ca-6a68-4596-9274-d5b737e196fb/9c302308-93b8-4828-a2fb-0d653120b8ca/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
 
 secured: "0aExIZDpEa9VhA0ehqGCIy2xZSSIT5JxPZvN3VVkzrh4uJGIrUJCTKDLpdj/douhz5NNUXcN+0F7n1R3E//hbvRUyIp+nwLacZk7EvT0KMeOpV12yMNexEGA3uPf07JATE2waDLT9SGr6NnDj7DcHTPxVqy1ps2SQrJ7mGKCn8lBREma2qMrdJqxBTdR3NIOgp5uNt7ZD4x7mIUiacDBnACaXzlS7ZCyqCG7/btkYuqyCX8q7D8K46hQbzt6kAQbsq/WrMUP42BGyw75v9Y9DBfCh6uDwuxYQzvaS66RvWbJQ9Klf33IT1H0itCLGeRs2gIun5sqUB02+GcVTHjjtTUDhzTgY/lfKtZ+i/MYmxI=;2n923oJsNN4xRgPEvTjUyg=="

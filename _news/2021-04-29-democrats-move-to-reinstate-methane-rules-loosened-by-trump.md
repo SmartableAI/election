@@ -1701,6 +1701,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Biden Follows Trump, Shuts Door On Airspace Treaty With Russia"
+    excerpt: "The post-Cold War treaty was meant to foster trust by allowing the two powers and their allies to monitor one another's airspace, but Trump left the pact in November citing Russian violations. Biden,"
+    publishedDateTime: 2021-05-28T19:36:00Z
+    webUrl: "https://www.ibtimes.com/biden-follows-trump-shuts-door-airspace-treaty-russia-3211745"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/russian-sukhoi-jet-fighters-fly-over-moscow-russia-AFP_9AY694.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"
     publishedDateTime: 2021-05-20T20:26:00Z

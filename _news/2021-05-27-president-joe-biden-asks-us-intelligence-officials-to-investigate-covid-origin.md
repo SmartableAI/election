@@ -139,6 +139,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "President Biden touts U.S. vaccine rollout ahead of Memorial Day"
+    excerpt: "President Joe Biden is touting the success of the country's vaccine rollout amid a dramatic decline in newly reported cases and coronavirus-related deaths ahead of the holiday weekend. Dr. Teresa Amato,"
+    publishedDateTime: 2021-05-28T20:02:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-touts-vaccine-rollout-ahead-of-memorial-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/28/6e5426c3-f4e4-400e-b205-c3a9e55c0fd9/thumbnail/1200x630/670d5b3fb8b2df4a1b63ee9753d356c8/0528-cbsn-bidenvaccinerollout-replace-725115-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden exaggerates U.S. rank in world coronavirus vaccinations"
     excerpt: "During a speech in Cleveland, President Joe Biden earned applause with a line about how well the United States has been doing in vaccinating people against the coronavirus. \"We've created more places to get vaccinated"
     publishedDateTime: 2021-05-28T17:45:00Z

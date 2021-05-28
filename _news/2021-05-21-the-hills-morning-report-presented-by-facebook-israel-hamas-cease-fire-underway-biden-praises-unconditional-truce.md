@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lawyers: Biden in office makes 2020 protest suit unnecessary"
+    excerpt: "Lawyers say lawsuits filed by protesters who were forcefully removed from a park near the White House before a photo op by former President Donald Trump should be dismissed"
+    publishedDateTime: 2021-05-28T20:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyers-biden-office-makes-2020-protest-suit-unnecessary-77969542"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyers-biden-office-makes-2020-protest-suit-unnecessary-77969542"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyers-biden-office-makes-2020-protest-suit-unnecessary-77969542"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_35f7d122f04244f582f753f9a7d005ba_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "U.S. state governors urge Biden to support Lockheed's F-35 jet"
     excerpt: "Governors of U.S. states that represent both political parties have written letters to President Joe Biden supporting the purchase of F-35 jets made by Lockheed Martin Co."
     publishedDateTime: 2021-05-27T17:56:00Z

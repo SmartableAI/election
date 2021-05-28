@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cea
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/27/b4da91f6-0a24-4833-98d4-5172e63eafc2/thumbnail/1200x630/85340a156461e968b9635e5794d705e5/cbsn-fusion-biden-says-i-believe-this-is-our-moment-to-rebuild-an-economy-thumbnail-724455-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Lawyers: Biden in office makes 2020 protest suit unnecessary"
+    excerpt: "Lawyers say lawsuits filed by protesters who were forcefully removed from a park near the White House before a photo op by former President Donald Trump should be dismissed"
+    publishedDateTime: 2021-05-28T20:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyers-biden-office-makes-2020-protest-suit-unnecessary-77969542"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyers-biden-office-makes-2020-protest-suit-unnecessary-77969542"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyers-biden-office-makes-2020-protest-suit-unnecessary-77969542"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_35f7d122f04244f582f753f9a7d005ba_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "U.S. state governors urge Biden to support Lockheed's F-35 jet"
     excerpt: "Governors of U.S. states that represent both political parties have written letters to President Joe Biden supporting the purchase of F-35 jets made by Lockheed Martin Co."

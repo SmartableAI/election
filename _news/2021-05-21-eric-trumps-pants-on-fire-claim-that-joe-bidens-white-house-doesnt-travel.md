@@ -1703,6 +1703,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Biden Follows Trump, Shuts Door On Airspace Treaty With Russia"
+    excerpt: "The post-Cold War treaty was meant to foster trust by allowing the two powers and their allies to monitor one another's airspace, but Trump left the pact in November citing Russian violations. Biden,"
+    publishedDateTime: 2021-05-28T19:36:00Z
+    webUrl: "https://www.ibtimes.com/biden-follows-trump-shuts-door-airspace-treaty-russia-3211745"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/russian-sukhoi-jet-fighters-fly-over-moscow-russia-AFP_9AY694.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "After blowback, White House says Biden will move to lift Trump-era refugee caps"
     excerpt: "The White House on Friday said President Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements."
     publishedDateTime: 2021-04-16T21:45:00Z
