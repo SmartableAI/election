@@ -32,9 +32,9 @@ related:
   - title: "Biden's $6T budget: Social spending, taxes on business"
     excerpt: "President Joe Biden is proposing a $6 trillion budget for next year that’s piled high with new safety net programs for the poor and middle class"
     publishedDateTime: 2021-05-29T04:02:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/bidens-6t-budget-social-spending-taxes-business-77975293"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/bidens-6t-budget-social-spending-taxes-business-77975293"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/bidens-6t-budget-social-spending-taxes-business-77975293"
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-6t-budget-social-spending-taxes-business-77975291"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-6t-budget-social-spending-taxes-business-77975291"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-6t-budget-social-spending-taxes-business-77975291"
     type: article
     provider:
       name: ABC

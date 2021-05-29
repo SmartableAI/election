@@ -1,22 +1,22 @@
 ---
 category: news
 title: "GOP blocks Capitol riot probe, displaying loyalty to Trump"
-excerpt: "Capitol, displaying continuing party loyalty to former President Donald Trump and firm determination to shift the political focus away from the violent insurrection by his GOP supporters. Support our journalism."
-publishedDateTime: 2021-05-28T21:38:00Z
-originalUrl: "https://www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html"
-webUrl: "https://www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+excerpt: "Senate Republicans blocked creation of a bipartisan panel to investigate the deadly Jan. 6 attack on the Capitol, displaying continuing party loyalty to former President Donald Trump and firm determination to shift the political focus away from the violent insurrection by his GOP supporters."
+publishedDateTime: 2021-05-29T04:12:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
+webUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZEXHPHF74II6XERKYQGJO5F4JA.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_d1c34c2343b643788b26d972aca84131_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -431,6 +431,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "6nfgyT8Tw5ebq84Hok4AwymHpiYl0oCMRrQ1t2wE7OtCAfLALlUB/CeCY6X4mwicPUGSKWIykSyygW8KRAgxANd6oMiHq3bPp0hy3XSofvyO69sSITWs6jGmC/LQr4CeX4nyvors6dsqxJaLSnziT7/XXzgAcchoAr8iPNOAJiY9zoGorUIUSaHE6+eHsDOE6PrLzBNg1fHrjGCzdrKsCfoLbtXPhMcKYATPLJ9ExdWfPEQ1ZyT6JyRYTaYeqF8uf3A8uA07wEsfZpeCzUM0Ng5Rq8VO3ayO8vyuXwmqyRCf+xo9iTSSSMfMW1DNPYTkAEsIkknU4WOlGrb5KvkQk8l05dmi3OZShklZhFUJ83mtOGxk8Q7/ccRFSjx0Yd7mmPNWd5KiMUWhkmiyfkNStMyWPyctt4BohUS63Iq6WpJfp1uTXUz7utJwb0wZbbRlFMYYOrX/IWVblx75zzwFEHxJBUTPxEHmylfM74JGAjwXf7IEA/9uXqe1hyo8Ud+PtArf4315m89Z8HeIKTsTsg==;WRI4CluKnDKNpwnivZmjSQ=="
+secured: "J03jCkgNZHmOM4EbX+Z8wA938sjCYlP0WxdQ16G8D65QMmpYqj8H+TaMbiSKJzI8ydSucBh+BQo2ouOCN1Wy8zL2Szqdkj6PCfP6CcNs6A1tj/WCykYH7cmC3SJVYR5JFsn/d0svRPYk+Bmr+PWfyNTDxdXUBBNE26PBkMbyrn5f2mhrwWiZATIwzE+okw80joFzqx/HRZj5RX7+KTdaOqcIPmP7ynNoIJI/RAaGdYXE6Nh73o3zn7BwUU7MWhQNdyJeg4Yg62D8P5UG5Kh1HUnJenpIpU5Oq1kEnyiSS59sfXPkmk8I+rTe/IOMTpSx0hVXBzrzJH06x7DB2WCPx2vF+goqQLXLj6+w92tIheo=;uos8OkLoF4bQNDM2MjxKvg=="
 ---
 

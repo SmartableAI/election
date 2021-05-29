@@ -2,12 +2,64 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-29-doj-asks-judge-to-dismiss-cases-against-trump-barr-for-lafayette-square-clearing.md",
+      "title": "DOJ asks judge to dismiss cases against Trump, Barr for Lafayette Square clearing",
+      "excerpt": "Department of Justice lawyers asked a federal judge to dismiss lawsuits against former President Trump, former attorney general William Barr and other administration officials for the forced clearing",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/regulation/court-battles/556077-doj-asks-judge-to-dismiss-cases-against-trump-barr-for-lafayette",
+      "originalUrl": "https://thehill.com/regulation/court-battles/556077-doj-asks-judge-to-dismiss-cases-against-trump-barr-for-lafayette",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/lafayettesquare_060220getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/regulation/court-battles/556077-doj-asks-judge-to-dismiss-cases-against-trump-barr-for-lafayette?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/556077-doj-asks-judge-to-dismiss-cases-against-trump-barr-for-lafayette?amp",
+      "publishedDateTime": "2021-05-29T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-bidens-6t-budget-social-spending-taxes-on-business.md",
       "title": "Biden's $6T budget: Social spending, taxes on business",
       "excerpt": "President Joe Biden is proposing a $6 trillion budget for next year that’s piled high with new safety net programs for the poor and middle class",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/bidens-6t-budget-social-spending-taxes-business-77975293",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/bidens-6t-budget-social-spending-taxes-business-77975293",
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/bidens-6t-budget-social-spending-taxes-business-77975291",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/bidens-6t-budget-social-spending-taxes-business-77975291",
       "featuredContent": null,
       "highlight": null,
       "heat": 165,
@@ -24,8 +76,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/bidens-6t-budget-social-spending-taxes-business-77975293",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/bidens-6t-budget-social-spending-taxes-business-77975293",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/bidens-6t-budget-social-spending-taxes-business-77975291",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-6t-budget-social-spending-taxes-business-77975291",
       "publishedDateTime": "2021-05-28T21:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1291,62 +1343,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-biden-cant-imagine-anyone-opposing-a-commission-to-investigate-jan-6.md",
-      "title": "Biden ‘can’t imagine’ anyone opposing a commission to investigate Jan 6.",
-      "excerpt": "President Biden said he “can’t imagine” why Republicans would vote against the Jan. 6 riot commission, as legislation to form the probe stalls in the Senate.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cfm_9gsZ34Y/biden-commission-jan-6-riot",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cfm_9gsZ34Y/biden-commission-jan-6-riot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cefafe0f-1e02-4a31-bfc0-3334dd54497b/3f902d84-a3fe-4d47-a9e3-e9096262c137/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-commission-jan-6-riot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-jan-6-riot.amp",
-      "publishedDateTime": "2021-05-27T15:25:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }
