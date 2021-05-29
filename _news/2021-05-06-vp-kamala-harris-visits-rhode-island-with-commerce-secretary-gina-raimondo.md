@@ -810,6 +810,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "Kamala Harris Makes History At Naval Academy Commentement Address:"
+    excerpt: "Vice President Kamala Harris yesterday became the first woman to deliver the commencement address at the U.S. Naval Academy. She addressed cyber security threats against the U.S."
+    publishedDateTime: 2021-05-29T12:09:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1001521997/kamala-harris-makes-history-at-naval-academy-commentement-address"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 55
+    images:
+      - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Kamala Harris, Blackpink, Simu Liu Among Gold House's 100 Most Impactful Asians"
     excerpt: "A number of politicians, entertainers and athletes were honored in Gold House's new list of the 100 Most Impactful Asians of the Year."
     publishedDateTime: 2021-05-04T10:10:00Z

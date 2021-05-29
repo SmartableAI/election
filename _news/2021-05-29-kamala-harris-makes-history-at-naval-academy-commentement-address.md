@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Amanda Seales on Kamala Harris saying America isn’t racist: ‘She embarrassed everyone who supported her’"
-excerpt: "Amanda Seales says Kamala Harris disappointed her supporters with her recent comments on race that echoed ones by Sen. Tim Scott."
-publishedDateTime: 2021-05-05T18:13:00Z
-originalUrl: "https://thegrio.com/2021/05/05/amanda-seales-on-kamala-harris-saying-america-isnt-racist/"
-webUrl: "https://thegrio.com/2021/05/05/amanda-seales-on-kamala-harris-saying-america-isnt-racist/"
-ampWebUrl: "https://thegrio.com/2021/05/05/amanda-seales-on-kamala-harris-saying-america-isnt-racist/amp/"
-cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/05/amanda-seales-on-kamala-harris-saying-america-isnt-racist/amp/"
+title: "Kamala Harris Makes History At Naval Academy Commentement Address:"
+excerpt: "Vice President Kamala Harris yesterday became the first woman to deliver the commencement address at the U.S. Naval Academy. She addressed cyber security threats against the U.S."
+publishedDateTime: 2021-05-29T12:09:00Z
+originalUrl: "https://www.northcountrypublicradio.org/news/npr/1001521997/kamala-harris-makes-history-at-naval-academy-commentement-address"
+webUrl: "https://www.northcountrypublicradio.org/news/npr/1001521997/kamala-harris-makes-history-at-naval-academy-commentement-address"
 type: article
-quality: 58
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Grio
-  domain: thegrio.com
+  name: Northcountrypublicradio.org
+  domain: northcountrypublicradio.org
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://thegrio.com/wp-content/uploads/2021/05/AmandaKamala2-scaled.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+    width: 500
+    height: 500
     isCached: true
 
 related:
@@ -723,6 +721,22 @@ related:
         width: 1200
         height: 1111
         isCached: true
+  - title: "Amanda Seales on Kamala Harris saying America isn’t racist: ‘She embarrassed everyone who supported her’"
+    excerpt: "Amanda Seales says Kamala Harris disappointed her supporters with her recent comments on race that echoed ones by Sen. Tim Scott."
+    publishedDateTime: 2021-05-05T18:13:00Z
+    webUrl: "https://thegrio.com/2021/05/05/amanda-seales-on-kamala-harris-saying-america-isnt-racist/"
+    ampWebUrl: "https://thegrio.com/2021/05/05/amanda-seales-on-kamala-harris-saying-america-isnt-racist/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/05/amanda-seales-on-kamala-harris-saying-america-isnt-racist/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 58
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/05/AmandaKamala2-scaled.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How to watch VP Kamala Harris’ speech, Naval Academy Class of 2021 graduation and commissioning ceremony"
     excerpt: "Vice President Kamala Harris is set to give the commencement speech for the Naval Academy graduation today. At the ceremony, 786 new Navy officers and 274 Marine Corps officers will be commissioned."
     publishedDateTime: 2021-05-28T11:12:00Z
@@ -796,20 +810,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
-  - title: "Kamala Harris Makes History At Naval Academy Commentement Address:"
-    excerpt: "Vice President Kamala Harris yesterday became the first woman to deliver the commencement address at the U.S. Naval Academy. She addressed cyber security threats against the U.S."
-    publishedDateTime: 2021-05-29T12:09:00Z
-    webUrl: "https://www.northcountrypublicradio.org/news/npr/1001521997/kamala-harris-makes-history-at-naval-academy-commentement-address"
-    type: article
-    provider:
-      name: Northcountrypublicradio.org
-      domain: northcountrypublicradio.org
-    quality: 55
-    images:
-      - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
-        width: 500
-        height: 500
-        isCached: true
   - title: "VP Kamala Harris visits Rhode Island with Commerce Secretary Gina Raimondo"
     excerpt: "Vice President Kamala Harris answers questions during a visit to RI with Commerce Secretary Gina Raimondo. Providence Journal video/ Kris Craig]"
     publishedDateTime: 2021-05-05T21:35:00Z
@@ -932,6 +932,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "gY2pkgbIxcJZ/AoqWu9/kFpswjJP3Uv6YNtag0mRRdS2rHdCtdRA9wb5BF6vnyIsajdyHO2KnXLczx2G4HVDzpkwMu9aurKl3BwHFw+NextE0L1b+JMbENuVfnUdyz91dfmtAnuB2AoCqdaWrsPfQqAeNR1V+EAD2eBek0EHufQbk5ju2br7vmQ+iNwTZ+zc/hz0tH71BBbaXNDAcaSEta/hS0B6TVdAHW5XGZiaheHdkm7EAhU1HEmU5f/FHvyb1G9AgChgYS4Yz/njrfFaCb/e3G+c3he65XVn5pB7Gie3+BRguV8HAnBQB0tEfY9Yb2PDTqGAz+GKanMvQzkqJ4OphMyZw3kPvNZhDHxMD6Q=;BmlvZb1jj375An3McRKRBQ=="
+secured: "lNL6dBb4iK/MvEpmPWYqdU6srZhy6NbqGD+exvX0beve/k+j7d18SkCrHQcchUBf6k39gzNkUYQMvtlOYzdKVcwl3AQ5iJ1eq4swnOySEmx/E3Fi+QM9wOawTlfGXDPbKCGaHwdvVMF8ohL/5Fla4Dx+IixcCaNxDj54HHU5n4YRhw4BR1UxtBgmJnlUCKJMzMyLkJQwBgAh/H2WZu0ID9DL09X4uZk23Z1mR+4cI7kU4zt1+/Dlq8HGj40gfv/ZPsYeamFmwvcGZk0D2Zm8ktzdtF6sOhMFO+FGB2HVSSYniS0f7e7nX+GSr/iLie/ABeYQ3EkIR0JODpqHaDQ78uKsb6T09FS8nQtlL5yEAp8=;TzISG7KE/pnSgk9Caer9FA=="
 ---
 

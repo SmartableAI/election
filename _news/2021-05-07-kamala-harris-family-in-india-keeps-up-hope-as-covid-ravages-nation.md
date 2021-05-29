@@ -795,6 +795,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Kamala Harris Makes History At Naval Academy Commentement Address:"
+    excerpt: "Vice President Kamala Harris yesterday became the first woman to deliver the commencement address at the U.S. Naval Academy. She addressed cyber security threats against the U.S."
+    publishedDateTime: 2021-05-29T12:09:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1001521997/kamala-harris-makes-history-at-naval-academy-commentement-address"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 55
+    images:
+      - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "VP Kamala Harris visits Rhode Island with Commerce Secretary Gina Raimondo"
     excerpt: "Vice President Kamala Harris answers questions during a visit to RI with Commerce Secretary Gina Raimondo. Providence Journal video/ Kris Craig]"
     publishedDateTime: 2021-05-05T21:35:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/regulation/court-battles/556077-doj-asks-judge-t
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/556077-doj-asks-judge-to-dismiss-cases-against-trump-barr-for-lafayette?amp"
 type: article
 quality: 120
-heat: 140
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -31,23 +31,23 @@ images:
     isCached: true
 
 related:
-  - title: "DOJ releases part of memo behind Barr's decision not to charge Trump for obstructing Russia probe"
-    excerpt: "The DOJ is appealing an order to release the full text of a memo used by former AG William Barr to justify his decision not to prosecute Donald Trump in the Russia probe."
-    publishedDateTime: 2021-05-25T15:19:00Z
-    webUrl: "https://abcnews.go.com/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506"
-    ampWebUrl: "https://abcnews.go.com/amp/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506"
+  - title: "US seeks dismissal of cases against Trump for clearing Lafayette Square"
+    excerpt: "Last June, law enforcement removed protesters before the then president walked to a church for a photo op with a Bible"
+    publishedDateTime: 2021-05-29T11:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 112
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/william-barr-gty-jc-210525_1621955343791_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/182fdb98428aecee4ee42c211a403b595d2cb823/0_115_3705_2222/master/3705.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f893f4da2f4a0eb32537a5f5f3d23843"
+        width: 600
+        height: 360
         isCached: true
 
-secured: "l68WE7lqSukgdvKVOFLHiBZdtLZotKQ2axYew6iddY2pW3vZcdNW4EslYbZEAQo1D3sLwQ6PwjvE92AMltoMVo4ERRzIbJokpDMPfojXqt1OprhHEzFyc2ofMX5PTqfk2rpkvkfwS8zcLMoLg8bFDEEa3oQrrjKgVQyQYAZ3V/waBjU42ZK2AcTauU/t2+pA/J6KLlbR5C87j6ymNEcT1GCj3UNSYjxgulX6wwNBG0rQ/7jRU3SqvfpsWQS0iPlG4OwhX17LwOw6zYzOltKogmXJQsnD7SwBv0mut7W9ydFzl5Z7BeCx6NwhEsU39WufxRkeHlCh8UOm6N1fi4dfj0O9pyyk+WpWu2HFICw1iX4=;S+Gfp8OwzlZFtbX2y4iDlg=="
+secured: "d97h2KN/B2vcM4r7NcPM5HkGbX8ttpBjXWXaUWuSlIMK9DG0MgGVytjH9C8aJq0izn5vK5fDA1zea0qxnPt1Yw1abOttaiXJmN1mdfZGGNkCGfm025f8dWxoLu9fTetydyLvxgNQn9AeifSila24vC4tEMvDEW7HEj0GXMR46g8/ihlTbzEl4h7rP1jLUCbPx0S2uMjPj3nF+j2pL5J8WppKqeu8L9dIiGNitd6clHJ1OAziyD4z86yMCHTP4hNzDe8k/ihy1uT8nQ3ej6HIYDbEYZs8pzT14XeVnXhLgcOaWsvofQLRODD+8+rZbp0OytXE1xQVWgGaX196S+fhJAKhJmsLi3WUBYdjxFQS45E=;LBdmgjh7F8AbtYm3ImdJLg=="
 ---
 

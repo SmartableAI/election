@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-29-what-we-learned-about-joe-biden-from-riding-amtrak-with-a-senate-colleague-who-has-known-the-president-for-five-decades.md",
+      "title": "What we learned about Joe Biden from riding Amtrak with a Senate colleague who has known the president for five decades",
+      "excerpt": "President Biden and Sen. Tom Carper share big goals on infrastructure. They also have a devotion to Amtrak after almost daily commutes from Delaware to DC for several decades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-amtrak-infrastructure-climate-senate-tom-carper-2021-5",
+      "originalUrl": "https://www.businessinsider.com/biden-amtrak-infrastructure-climate-senate-tom-carper-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60b01460bee0fc0019d5a148?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-29T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-bidens-6t-budget-social-spending-taxes-on-business.md",
       "title": "Biden's $6T budget: Social spending, taxes on business",
       "excerpt": "President Joe Biden is proposing a $6 trillion budget for next year that’s piled high with new safety net programs for the poor and middle class",
@@ -1494,58 +1546,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-we-found-joe-bidens-secret-venmo-heres-why-thats-a-privacy-nightmare-for-everyone.md",
-      "title": "We Found Joe Biden’s Secret Venmo. Here’s Why That’s A Privacy Nightmare For Everyone.",
-      "excerpt": "The peer-to-peer payments app leaves everyone from ordinary people to the most powerful person in the world exposed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/we-found-joe-bidens-secret-venmo",
-      "originalUrl": "https://www.buzzfeednews.com/article/ryanmac/we-found-joe-bidens-secret-venmo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2018-04/10/17/campaign_images/buzzfeed-prod-web-05/a-senator-asked-mark-zuckerberg-some-very-persona-2-18984-1523397005-17_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/ryanmac/we-found-joe-bidens-secret-venmo",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/we-found-joe-bidens-secret-venmo",
-      "publishedDateTime": "2021-05-14T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/buzzfeednews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
