@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden says Texas voting bill is “part of an assault on democracy”"
+    excerpt: "Senate Bill 7, a Republican priority voting bill, would limit early voting hours, curtail local voting options and further clamp down on mail-in voting, among several other provisions."
+    publishedDateTime: 2021-05-29T18:23:00Z
+    webUrl: "https://www.texastribune.org/2021/05/29/joe-biden-texas-voting-sb7/"
+    ampWebUrl: "https://www.texastribune.org/2021/05/29/joe-biden-texas-voting-sb7/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/05/29/joe-biden-texas-voting-sb7/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 71
+    images:
+      - url: "https://thumbnails.texastribune.org/o_Sc3vgy7ITLDuNR4gqW-dXLHYk=/1200x630/filters:quality(95)/static.texastribune.org/media/files/4777ce1db12210406153060ec1ea360b/Biden%20Hampton%20VA%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "58% of Americans support President Joe Biden’s multi-trillion dollar bills on jobs, education and families, poll shows"
     excerpt: "Invest in America, a research group, and Data for Progress, a progressive think tank, surveyed more than 1,200 likely voters in mid-May, with 58% of those polled supporting Biden’s spending plans, even if Democrats must pass them without Republican support."
     publishedDateTime: 2021-05-23T18:25:00Z

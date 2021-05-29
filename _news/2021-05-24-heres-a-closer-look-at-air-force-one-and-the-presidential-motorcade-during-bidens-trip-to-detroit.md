@@ -43,6 +43,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "President Joe Biden to attend Memorial Day observance Sunday near New Castle"
+    excerpt: "Joe Biden has been a frequent attendee at the Memorial Day observance at War Memorial Plaza near the Delaware Memorial Bridge near New Castle. This year, he'll attend the event as commander in chief."
+    publishedDateTime: 2021-05-29T11:20:00Z
+    webUrl: "https://www.indystar.com/story/news/2021/05/28/memorial-day-joe-biden-attend-sunday-observance-new-castle/5254888001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5254888001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5254888001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/PWIL/b0641e7c-89e6-4210-a8b0-e22c16d1115e-053019_WIL_BIDEN_MEMORIAL_DAY_JC0253.JPG?auto=webp&crop=3856,2169,x0,y206&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "SrGnFv3QEplB4DXOSIeZlyqIE/G1wpNtOKiWDvTfPB/h60H+5BQGnkZaGs3qMw9xaEhl//kiLs5sN+jyKfgKLeLEJQrP7ctfiroHUzsQSpR+1W0hxgkiZGoM1X5Q4jAueLsuqOXi4LWt1z9Rzwb6AWJYzhYt5mXYjBDmdtMIHIZKreVoz8K904iTLFrJ9BtgmhAXthRM/JhCNb59tZwY00JVTexcb3KUvU26gu/nehFym6gpCAzkMhN7lj8i6cYWxvRUDyU/vsRnf3E1ywP9HSzi8GT0/laJplHHS8GIvBOZkLCHTqD9uhl5I93WElPYGDxIf6XN/SeF9PEUYBkVEceiSEseOa55zA5RRD/NcBfL224X0hej6kLbR7MByZgA1eIPi47zBhmIYRMuQqlWbBLg1D1yAV5TfLpxKHu28u6DGNyEHg4kdHo2tgO//GIPDJ3yigJCz4jlqP7F0x2+J2lk48qSKiJzlNcaiRJWjF3sJu7O91hlreHTzncaoZVPRtAjBLh10W3MwY9GYhQumg==;cM7EMiC5KsjDPT9qda9GYQ=="
 ---

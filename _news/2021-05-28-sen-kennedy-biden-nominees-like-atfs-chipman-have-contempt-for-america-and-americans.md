@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden calls Texas voting bill ‘wrong and un-American’"
+    excerpt: "President Biden called a new Texas voting overhaul finalized by state Republicans an “assault on democracy.”"
+    publishedDateTime: 2021-05-29T21:14:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/36UJGbZQmQI/biden-texas-voting-bill-wrong-un-american"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-texas-voting-bill-wrong-un-american.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-texas-voting-bill-wrong-un-american.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/720/405/AP20309213434890-e1604505487479.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden visits troops to offer Memorial Day thanks: 'You are the spine of America'"
     excerpt: "President Biden marked the start of the Memorial Day weekend by visiting troops and thanking military families for their ongoing sacrifice and service. "
     publishedDateTime: 2021-05-28T20:34:24Z

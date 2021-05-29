@@ -910,6 +910,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris Makes History At Naval Academy Commentement Address"
+    excerpt: "Vice President Kamala Harris became the first woman to deliver a commencement address at the U.S. Naval Academy. Her remarks yesterday laid a lot of responsibility at the feet of the graduates, saying they will be among those defending this country from new threats,"
+    publishedDateTime: 2021-05-29T21:46:00Z
+    webUrl: "https://www.nhpr.org/post/kamala-harris-makes-history-naval-academy-commentement-address"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 35
   - title: "Live Updates: Doug Emhoff, husband of Vice President Kamala Harris, in Lehigh Valley on Wednesday"
     excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is visiting the Lehigh Valley on Wednesday to tout President Joe Biden’s infrastructure plan."
     publishedDateTime: 2021-05-05T14:04:00Z

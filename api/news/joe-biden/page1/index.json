@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-29-wrong-and-un-american-biden-blasts-texas-republicans-sb7-voting-bill.md",
+      "title": "‘Wrong and un-American’: Biden blasts Texas Republicans’ SB7 voting bill",
+      "excerpt": "Governor has said he will sign restrictive voting bill while president laments effects on ‘Black and brown Americans’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1233ea0fee8cf090bb13777dedbfc67acae46e5e/0_319_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84f2155abe07a45e3f9a6e8a6c567430",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill",
+      "publishedDateTime": "2021-05-29T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-what-we-learned-about-joe-biden-from-riding-amtrak-with-a-senate-colleague-who-has-known-the-president-for-five-decades.md",
       "title": "What we learned about Joe Biden from riding Amtrak with a Senate colleague who has known the president for five decades",
       "excerpt": "President Biden and Sen. Tom Carper share big goals on infrastructure. They also have a devotion to Amtrak after almost daily commutes from Delaware to DC for several decades.",
@@ -218,7 +270,7 @@
       "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/05/28/biden-troops-before-memorial-day-we-owe-you/5253536001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -379,7 +431,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/crime/2021/05/26/las-cruces-man-accused-plotting-to-kill-president-joe-biden/7448404002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1520,58 +1572,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-biden-sets-a-tuesday-deadline-for-the-gop-to-bring-him-an-infrastructure-counterproposal.md",
-      "title": "Biden sets a Tuesday deadline for the GOP to bring him an infrastructure counterproposal",
-      "excerpt": "After a week of bipartisan meetings, Biden wants the GOP to expand on their $568 billion infrastructure counterproposal, and he wants to see it soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5",
-      "originalUrl": "https://www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6085739e0da8f40018033533?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5?amp",
-      "publishedDateTime": "2021-05-14T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

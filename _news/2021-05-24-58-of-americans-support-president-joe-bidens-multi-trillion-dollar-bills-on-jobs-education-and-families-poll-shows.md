@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden says Texas voting bill is “part of an assault on democracy”"
+    excerpt: "Senate Bill 7, a Republican priority voting bill, would limit early voting hours, curtail local voting options and further clamp down on mail-in voting, among several other provisions."
+    publishedDateTime: 2021-05-29T18:23:00Z
+    webUrl: "https://www.texastribune.org/2021/05/29/joe-biden-texas-voting-sb7/"
+    ampWebUrl: "https://www.texastribune.org/2021/05/29/joe-biden-texas-voting-sb7/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/05/29/joe-biden-texas-voting-sb7/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 71
+    images:
+      - url: "https://thumbnails.texastribune.org/o_Sc3vgy7ITLDuNR4gqW-dXLHYk=/1200x630/filters:quality(95)/static.texastribune.org/media/files/4777ce1db12210406153060ec1ea360b/Biden%20Hampton%20VA%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Joe Biden, progressives willing to ‘go forward alone’ on $1.7 trillion infrastructure bill if Republicans balk at spending"
     excerpt: "The Biden administration and top progressives say they’re hoping for bipartisan support for major infrastructure spending, but they’re prepared to go it alone if they can’t make a deal soon with Republicans. Since signing a $1.9 trillion COVID-19 ..."
     publishedDateTime: 2021-05-23T17:29:00Z

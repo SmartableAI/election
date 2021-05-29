@@ -2,6 +2,158 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-22-flashback-harris-protested-at-southern-border-in-2018-but-hasnt-visited-since-taking-migrant-role.md",
+      "title": "Flashback: Harris protested at southern border in 2018, but hasn't visited since taking migrant role",
+      "excerpt": "Vice President Kamala Harris has come under criticism from Republicans and former Trump officials for not having visited the border in her leading role in dealing with the migrant crisis -- although she visited in 2018 to protest Trump-era policies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gearmT8w5Mk/flashback-harris-southern-border-2018-migrant-role",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gearmT8w5Mk/flashback-harris-southern-border-2018-migrant-role",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-harris-southern-border-2018-migrant-role.amp",
+      "publishedDateTime": "2021-05-22T09:52:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-exclusive-no-place-like-home-karen-pence-says-of-their-move-back-to-indiana.md",
+      "title": "Exclusive: `No place like home' Karen Pence says of their move back to Indiana",
+      "excerpt": "There’s no place like home and Indiana is home,” Karen Pence said in a statement provided exclusively to USA TODAY. The Pences were not made available for an interview. In her statement, Karen Pence said the longtime Indy500 fans are especially excited to have made the move before race weekend,",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/politics/2021/05/22/former-vice-president-mike-pence-and-his-wife-karen-move-back-indiana/5207465001/",
+      "originalUrl": "https://www.indystar.com/story/news/politics/2021/05/22/former-vice-president-mike-pence-and-his-wife-karen-move-back-indiana/5207465001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/a22e047d-ea38-4ef7-bc6c-517385f517f8-01202021_Pence_GH_001.jpg?auto=webp&crop=2356,1326,x0,y200&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.indystar.com/amp/5207465001",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5207465001",
+      "publishedDateTime": "2021-05-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-trump-hotel-raised-prices-to-deter-qanon-conspiracists-police-files-show.md",
+      "title": "Trump Hotel raised prices to deter QAnon conspiracists, police files show",
+      "excerpt": "Price increase was ‘security tactic to prevent protesters booking rooms’ in case people travelled to Washington in early March",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f4b64c9df7a74a6fe71222d931a74d717a0edcd4/0_0_4573_2744/master/4573.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b4a263deb2c3aa23504541f76afdebc",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "publishedDateTime": "2021-05-22T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-biden-wont-allow-justice-dept-to-seize-reporters-records.md",
       "title": "Biden won't allow Justice Dept. to seize reporters' records",
       "excerpt": "President Joe Biden says he won’t allow the Department of Justice to seize journalists’ phone records and emails, calling the practice “wrong” in a significant departure from his predecessors",
@@ -1193,166 +1345,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.md",
-      "title": "Ted Cruz: Biden 'rewarded' Russia for hacking US pipeline by blessing Russian one",
-      "excerpt": "Sen. Ted Cruz, R-Texas, sounded off Wednesday on President Biden responding to a debilitating hack of a U.S. oil pipeline from within the Russian Federation, by turning around and giving his approval to a lucrative Russian pipeline that will supply energy to Germany.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5tzn7FUQa4/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5tzn7FUQa4/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f4eb9de-2cb5-4510-8484-472066a72fd4/41d40886-d2bf-4211-a0e3-2d5708f9195f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.amp",
-      "publishedDateTime": "2021-05-19T20:59:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-obama-alleged-r-rated-criticism-of-trump-published-in-new-book-f-ing-lunatic.md",
-      "title": "Obama Alleged R-Rated Criticism Of Trump Published In New Book: 'F---ing Lunatic'",
-      "excerpt": "Former President Barack Obama had previously refused to speak out against Donald Trump after leaving the White House in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390",
-      "originalUrl": "https://www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/10/exactly-four-years-ago-us-president-barack-obama.jpg",
-          "width": 1024,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390?amp=1",
-      "publishedDateTime": "2021-05-19T18:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-new-york-attorney-general-investigating-the-trump-organization-in-a-criminal-capacity.md",
-      "title": "New York Attorney General \"investigating the Trump Organization in a criminal capacity\"",
-      "excerpt": "New York Attorney General Letitia James launched a civil probe into the company in 2019, but that investigation \"is no longer purely civil in nature\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-organization-criminal-investigation-new-york/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-organization-criminal-investigation-new-york/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/19/716aff60-3e3b-4a3e-b9a4-cf5a687cbabb/thumbnail/1200x630/7ebaf3a75f14a065879c2c0f557dd93d/gettyimages-1301295023.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/",
-      "publishedDateTime": "2021-05-19T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

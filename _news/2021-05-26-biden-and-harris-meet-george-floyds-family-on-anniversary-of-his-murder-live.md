@@ -521,16 +521,16 @@ related:
         height: 400
         isCached: true
   - title: "Vice President Kamala Harris swears in Kristen Clarke at Department of Justice"
-    excerpt: "Kristen Clarke holds her hand up; as her mom Pansy Clarke holds a bible; as Vice President Kamala Harris swears her in at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
+    excerpt: "Attorney General Merrick Garland, Kristen Clarke, Pansy Clarke and Vice President Kamala Harris swears her in at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
     publishedDateTime: 2021-05-25T23:51:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/60b93dcc933e157f108b8edf4c054467/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/408b773511243466a1b663af65743f9b/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 51
     images:
-      - url: "https://cdnph.upi.com/pv/upi/60b93dcc933e157f108b8edf4c054467/HARRIS-CLARKE-DOJ.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/408b773511243466a1b663af65743f9b/HARRIS-CLARKE-DOJ.jpg"
         width: 650
         height: 433
         isCached: true

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris swears in Kristen Clarke at Department of Justice"
-excerpt: "Kristen Clarke holds her hand up; as her mom Pansy Clarke holds a bible; as Vice President Kamala Harris swears her in at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
+excerpt: "Attorney General Merrick Garland, Kristen Clarke, Pansy Clarke and Vice President Kamala Harris swears her in at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
 publishedDateTime: 2021-05-25T23:51:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/60b93dcc933e157f108b8edf4c054467/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/60b93dcc933e157f108b8edf4c054467/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/408b773511243466a1b663af65743f9b/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/408b773511243466a1b663af65743f9b/Vice-President-Kamala-Harris-swears-in-Kristen-Clarke-at-Department-of-Justice/"
 type: article
 quality: 51
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/60b93dcc933e157f108b8edf4c054467/HARRIS-CLARKE-DOJ.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/408b773511243466a1b663af65743f9b/HARRIS-CLARKE-DOJ.jpg"
     width: 650
     height: 433
     isCached: true
@@ -576,6 +576,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "Hly5frtA4Y2TUkmjEJuBakDcBEMcxL4v0fazLJDpddwmKPnMslIbUnHY+XEOkzxpo3jv3juz0nmtDixejZOEVPXFOK+0ji5q4ubGZCzx4RuT+Lo7Sr+7Mdjb6Sj9zgGJlBgROqVp1gKZmSSp6nGV4824OARhpRnT/6VSCxvZiYIq+mVGvjpkkmemGw2oqicdDFl1nCRWWNfjBCURSaW7uTAaMOWotEjdvLffpH4IKU2qwAVY24d4QQ7+GygtoVHhWYY+oZwp2rggWcqAvwMN9B1vGldJdUYY78dofv69oB3ZH8+N/hvvxuArTX7GVZrg1DSDfIbaRxd8lVKuNasumrguoGebJSwCBeAz/9Wie+4=;uGdUYYJX8BEFwe8SPj68xQ=="
+secured: "bFzn7hWqEs7IpM69TZxY3zDPc2SCbVw/Bo9tKVq29L6NKw4uKEci0IE5PuKqbBlgCBtR1+mUQvYmv9jX5BhMnf1hlkOzMqt/w/XHUvpzN2ETienrI+WGOsqrKsOOwWCZ00WU35fZRwqY9OllEQuqJ4fVP13xTlKeoq0kisUIk1S/lJx877DvpmfQPDPBnvgQWgBE19+4JqqCgA27OQGaDV+dMSOAKeFEEX4e0mqw467iKhuYoUcobzIvmQolS8BTX1c+8WmJJm9OuCg5RoWGDvyGSp3vr1ghUqg0DHEpZTfdYYkx5bQlUzABsWj/B9NKT1MlCt9/q2PfaUDXzPT5jDeZLeeMpu4gUVvcf/L1FXE=;+rZLvXqyDVGJI9/DbeY2JQ=="
 ---
 

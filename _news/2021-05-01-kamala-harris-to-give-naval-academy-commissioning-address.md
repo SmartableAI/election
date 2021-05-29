@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 1325
+heat: 1345
 published: true
 
 provider:
@@ -906,6 +906,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris Makes History At Naval Academy Commentement Address"
+    excerpt: "Vice President Kamala Harris became the first woman to deliver a commencement address at the U.S. Naval Academy. Her remarks yesterday laid a lot of responsibility at the feet of the graduates, saying they will be among those defending this country from new threats,"
+    publishedDateTime: 2021-05-29T21:46:00Z
+    webUrl: "https://www.nhpr.org/post/kamala-harris-makes-history-naval-academy-commentement-address"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 35
   - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
     excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
     publishedDateTime: 2021-05-04T15:13:00Z

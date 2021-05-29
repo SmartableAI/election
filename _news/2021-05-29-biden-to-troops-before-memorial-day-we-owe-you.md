@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/28/biden-troop
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/28/biden-troops-before-memorial-day-we-owe-you/5253536001/"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://i.insider.com/60abcdcd5e34570019265227?width=1200&format=jpeg"
         width: 960
         height: 480
+        isCached: true
+  - title: "President Joe Biden to attend Memorial Day observance Sunday near New Castle"
+    excerpt: "Joe Biden has been a frequent attendee at the Memorial Day observance at War Memorial Plaza near the Delaware Memorial Bridge near New Castle. This year, he'll attend the event as commander in chief."
+    publishedDateTime: 2021-05-29T11:20:00Z
+    webUrl: "https://www.indystar.com/story/news/2021/05/28/memorial-day-joe-biden-attend-sunday-observance-new-castle/5254888001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5254888001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5254888001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/PWIL/b0641e7c-89e6-4210-a8b0-e22c16d1115e-053019_WIL_BIDEN_MEMORIAL_DAY_JC0253.JPG?auto=webp&crop=3856,2169,x0,y206&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "NMksWWouSxXSuvwTh5cU+DQQAEoFpgfu4VV3ezBIrc6DWm4fKCw50ACchjY0QUrvtf34PRMdyj2ym+rYtJIA+OrhL/dRCRt5BIXx0LyD5U5TfKAANs7ZD6I2uoDlW7gI37hv4F+tOdiKy/GXgrsewnzoFPyqgBVKElfwuGc/kV5QxfCjTTV+8hDcUPUo5/H4t0UKRrSB2UwoDynBKV4C9S5iUp68gLAzFUUtFYqs4prlI4W3gaHS3JTveFbDQy6rS2g0aMWWVm8cNjUoo7SnPlKLyR8k42d0nBVKaGfuyJL1zvu92I94qqQFrXPFv+w+ItSBlwi0t91aR2tsPp/mEvrHV91DFoafHb+60JGzcRj3bG1e+mQHEbZgXui6OfUZLuUR4lDgwJ3iWa2YWS3cs9cNpozR1EFjCWgG58E+UUcupmz7gYp47FgUtRxKCGSRBbZ3YGrsqxhyr12A8tWA0GrQRP+U7+W6uCfG6Kr0msJNDrvJEYu/QS0p0305FLuTj2dz9C56ENEFLk2C/bT8KQ==;VQ6TUxduUJTLBgcb8osJZA=="

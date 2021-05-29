@@ -2,6 +2,175 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-24-washington-post-runs-fact-check-on-tim-scotts-ancestry-but-not-on-kamala-harris-fweedom-plagiarism-claim.md",
+      "title": "Washington Post runs 'fact-check' on Tim Scott's ancestry but not on Kamala Harris' 'Fweedom' plagiarism claim",
+      "excerpt": "The Washington Post appears quite selective when it comes to the urgency of its 'fact-checks' of certain prominent politicians.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/washington-post-fact-check-tim-scott-kamala-harris-fweedom",
+      "originalUrl": "https://www.foxnews.com/media/washington-post-fact-check-tim-scott-kamala-harris-fweedom",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Tim-Scott-Kamala-Harris-AP.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-24-biden-calls-turkeys-erdogan-ahead-of-possible-armenian-genocide-recognition.md",
+      "title": "Biden calls Turkey’s Erdogan ahead of possible Armenian genocide recognition",
+      "excerpt": "Biden expressed “his interest in a constructive bilateral relationship with expanded areas of cooperation and effective management of disagreements,” the White House said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5e2l_yNdY/biden-calls-erdogan-armenian-genocide",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5e2l_yNdY/biden-calls-erdogan-armenian-genocide",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa434e0f-6b4c-404e-89ce-c7e26329c066/ff42937c-f70a-49f7-a7c6-6d27dc8e6c8f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-erdogan-armenian-genocide.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-erdogan-armenian-genocide.amp",
+      "publishedDateTime": "2021-04-23T17:08:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-california-gov-newsom-raising-money-by-tying-caitlyn-jenner-to-trump.md",
+      "title": "California Gov. Newsom raising money by tying Caitlyn Jenner to Trump",
+      "excerpt": "Gov. Gavin Newsom’s campaign team wasted no time coming after Caitlyn Jenner as she entered the recall race to take his seat. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5oimLrPheDI/newsom-raise-money-tying-caitlyn-jenner-to-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5oimLrPheDI/newsom-raise-money-tying-caitlyn-jenner-to-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Caitlyn-Jenner-CC.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/newsom-raise-money-tying-caitlyn-jenner-to-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newsom-raise-money-tying-caitlyn-jenner-to-trump.amp",
+      "publishedDateTime": "2021-04-23T13:02:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-ice-ends-trump-era-policy-of-fining-undocumented-immigrants-calling-penalties-ineffective.md",
       "title": "ICE ends Trump-era policy of fining undocumented immigrants, calling penalties 'ineffective'",
       "excerpt": "Immigration and Customs Enforcement will no longer issue fines to undocumented immigrants who have failed to depart the United States, the agency announced Friday, a reversal from the Trump-era policy that threatened immigrants with thousands of dollars in debt to the federal government.\n    \n",
@@ -1182,166 +1351,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-biden-preparing-to-declare-massacre-of-armenians-a-genocide-risking-break-with-turkey.md",
-      "title": "Biden preparing to declare massacre of Armenians a 'genocide,' risking break with Turkey ",
-      "excerpt": "President Joe Biden is preparing to declare the massacre of an estimated million or more Armenians under the Ottoman Empire a \"genocide\" this week, risking a potential fracture with Turkey but fulfilling a campaign pledge to finally use the word as President to describe the mass killings after a series",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xuIbT8fBnKc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xuIbT8fBnKc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/21/politics/biden-armenia-genocide-turkey/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/biden-armenia-genocide-turkey/index.html",
-      "publishedDateTime": "2021-04-21T20:03:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-white-house-rebrands-kamala-harris-husband-douglas-instead-of-doug.md",
-      "title": "White House rebrands Kamala Harris’ husband ‘Douglas’ instead of ‘Doug’",
-      "excerpt": "The White House changed the name of Kamala Harris’ husband from “Doug” to “Douglas” Emhoff in an apparent attempt to rebrand him as a more serious guy.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/",
-      "originalUrl": "https://nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/doug-emhoff.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/amp/",
-      "publishedDateTime": "2021-04-21T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.md",
-      "title": "Florida AG Moody demands Biden make Supreme Court commission meetings public",
-      "excerpt": "Florida Attorney General Ashley Moody called this week for President Biden to allow public access to meetings of a commission he formed to explore a potential expansion of the Supreme Court, among other reforms.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewBhAupQ7FQ/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewBhAupQ7FQ/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c2a13b-83af-4d3f-9d1f-6b9fdb7bfc9c/1903328b-8ba5-4353-a238-68996472ba7c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp",
-      "publishedDateTime": "2021-04-21T19:07:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

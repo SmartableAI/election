@@ -45,6 +45,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden calls Texas voting bill ‘wrong and un-American’"
+    excerpt: "President Biden called a new Texas voting overhaul finalized by state Republicans an “assault on democracy.”"
+    publishedDateTime: 2021-05-29T21:14:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/36UJGbZQmQI/biden-texas-voting-bill-wrong-un-american"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-texas-voting-bill-wrong-un-american.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-texas-voting-bill-wrong-un-american.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/720/405/AP20309213434890-e1604505487479.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sen. Kennedy: Biden nominees like ATF's Chipman 'have contempt for America and Americans'"
     excerpt: "Senator John N. Kennedy, R-La., sounded off on Thursday after his fiery back and forth with President Biden's nominee to lead the Bureau of Alcohol, Tobacco & Firearms, David Chipman -- in which Chipman was notably unable to clearly state a definition of the term “assault weapon\"."
     publishedDateTime: 2021-05-28T02:48:51Z
