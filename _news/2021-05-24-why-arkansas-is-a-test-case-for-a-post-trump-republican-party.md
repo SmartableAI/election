@@ -147,9 +147,9 @@ related:
   - title: "A Trump Case Awaits. Who Is the Best Prosecutor for the Job?"
     excerpt: "Some candidates for Manhattan’s district attorney are agents of change who want to cut the police budget. Others are very comfortable with long-established established power networks."
     publishedDateTime: 2021-05-28T16:23:00Z
-    webUrl: "https://www.nytimes.com/2021/05/28/nyregion/ny-trump-ag.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/28/nyregion/ny-trump-ag.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/nyregion/ny-trump-ag.amp.html"
+    webUrl: "https://www.nytimes.com/2021/05/28/nyregion/NYC-district-attorney-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/28/nyregion/NYC-district-attorney-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/nyregion/NYC-district-attorney-election.amp.html"
     type: article
     provider:
       name: New York Times

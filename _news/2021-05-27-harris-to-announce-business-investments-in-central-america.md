@@ -71,22 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
-    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
-    publishedDateTime: 2021-05-28T12:24:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 105
-    images:
-      - url: "https://www.chicagotribune.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
-        width: 1200
-        height: 831
-        isCached: true
   - title: "First lady says she's 'moved on' from reported anger at Kamala Harris"
     excerpt: "First lady Jill Biden on Thursday didn’t deny a report that she uttered a profanity about Vice President Kamala D. Harris for accusing Joe Biden of racism during a Democratic presidential primary debate in June 2019."
     publishedDateTime: 2021-05-20T19:31:00Z
@@ -166,6 +150,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/28/Naval_Academy_Harris_53450.jpg-6335c_c0-0-2443-1425_s1200x700.jpg?cc89e3c9cfb58e78bc5a1cf0c236bcecd177cae4"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
+    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
+    publishedDateTime: 2021-05-28T16:14:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 55
+    images:
+      - url: "https://www.dailypress.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
+        width: 1200
+        height: 831
         isCached: true
   - title: "‘You are prepared for any threat’: Vice President Kamala Harris says Naval Academy grads ready for anything"
     excerpt: "The world is rapidly changing, Vice President Kamala Harris told the graduates, pointing to the coronavirus pandemic as the most recent significant historical event."

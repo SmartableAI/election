@@ -3,10 +3,10 @@ category: news
 title: "A Trump Case Awaits. Who Is the Best Prosecutor for the Job?"
 excerpt: "Some candidates for Manhattan’s district attorney are agents of change who want to cut the police budget. Others are very comfortable with long-established established power networks."
 publishedDateTime: 2021-05-28T16:23:00Z
-originalUrl: "https://www.nytimes.com/2021/05/28/nyregion/ny-trump-ag.html"
-webUrl: "https://www.nytimes.com/2021/05/28/nyregion/ny-trump-ag.html"
-ampWebUrl: "https://www.nytimes.com/2021/05/28/nyregion/ny-trump-ag.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/nyregion/ny-trump-ag.amp.html"
+originalUrl: "https://www.nytimes.com/2021/05/28/nyregion/NYC-district-attorney-election.html"
+webUrl: "https://www.nytimes.com/2021/05/28/nyregion/NYC-district-attorney-election.html"
+ampWebUrl: "https://www.nytimes.com/2021/05/28/nyregion/NYC-district-attorney-election.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/nyregion/NYC-district-attorney-election.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -235,6 +235,6 @@ related:
         height: 629
         isCached: true
 
-secured: "7iqYn42kbmSGLjA/HF05P0M9YikFIpjjYv6LcZeNn3xgq7LJ7K+ZteI/kqEPeotwVVEbLi8dXVv59WyMQ2+s7BmFhIkff5Nt97VTC6NTy9z1XFgmdhFxruu6E7ebYDq3PVLy7+54Zi3HC+oqs8FJznc0D62pdxBjPKhULkQVG0coxPjHprxs41xmKWgn2x79PesM4NT29bRPRzKEuTDc004sTNgp5L6qsjcea3FtqgraGcoEFc8r8WJC/9vhEAei43BlOxRsir0NgPBNWaJmd3WJ/DEJsgSLR5+3qcdw071wWON7bS/dUPsCsoRbzHp8bOLN+S7V7Q7zOgJIChCkCDgVjn1M5vFxvmorU19tG9C3woqd1XNcz/alMh3J5lefHsWvqHktaMLCUBuLQ187tHr/kRvlXusuWqpmAEDdqVAc/4Li60+xOjFLJ/3pnsFCuhzb8QvN+dMsnGKHoj5PjPiTZlJlHFTiqDVe1QQJmtv5rNGU7R03nlc0tVCwTYTlCsYMWBSs/N3N9XeKDhSU7A==;AOjMrcWgRkEfNLqmTgkBEg=="
+secured: "564uoKoH3XfIB8F00j0f8pRLDa+0IsO3nOmZHJlONP7lBhg+yCvGiQyZ4dPqTUpMWRkr1sO3aXaaD5Hk+18vpOozejFsF3/vlcrgniPN28WvNgiU+a8614V3NnWbOyp95bR7HqhSrD4/TXTmK6FfNuiQfGXkYiPgnrIcdU9ah2gfJeqK4/uOQjxng91vPhYLThZH9jV+nWKizP/aTaOql+BPuS38iceTpzHrDVpTopg1n5iORoqvXKBlkoSDC9tpd0gTLL/yjBRCRCtZfIxajBhNffHVXJeEr/5kMKT3g9uGaB6jddgkHcD5nRAgJeE/9AqXrP4bOGfYvFtZTVicvgPozK28fFiQVfkePmft9Bg=;q98DYfiyFYBBfuetUGZSfg=="
 ---
 
