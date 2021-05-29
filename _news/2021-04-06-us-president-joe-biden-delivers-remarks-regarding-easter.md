@@ -489,6 +489,22 @@ related:
         width: 715
         height: 545
         isCached: true
+  - title: "Senate OKs Biden nominees to postal board amid mail changes"
+    excerpt: "All three of President Joe Biden’s nominees to the governing board of the U.S. Postal Service have been approved by the Senate"
+    publishedDateTime: 2021-05-28T20:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-oks-biden-nominees-to-postal-board-amid-mail-changes/2021/05/28/71fba8a8-bff8-11eb-922a-c40c9774bc48_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-oks-biden-nominees-to-postal-board-amid-mail-changes/2021/05/28/71fba8a8-bff8-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-oks-biden-nominees-to-postal-board-amid-mail-changes/2021/05/28/71fba8a8-bff8-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXYUTGF77AI6XERKYQGJO5F4JA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z

@@ -3,29 +3,25 @@ category: news
 title: "At Naval Academy graduation, Kamala Harris to focus on strengthening a ‘fragile’ world"
 excerpt: "Vice President Kamala Harris will mark another first for women Friday when she addresses the graduating class of the United States Naval Academy, becoming the first female commencement speaker in the school’s nearly 175-year history."
 publishedDateTime: 2021-05-28T12:24:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+originalUrl: "https://www.orlandosentinel.com/news/nationworld/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+webUrl: "https://www.orlandosentinel.com/news/nationworld/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+ampWebUrl: "https://www.orlandosentinel.com/news/nationworld/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/nationworld/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
 type: article
-quality: 117
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
+  - url: "https://www.orlandosentinel.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
     width: 1200
     height: 831
     isCached: true
@@ -922,6 +918,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "T7P70umCCy8cElkt7G0u5fdqJpX+wkNKU4SGcyY/WXUeB9De5rSNZSR9vDUGdjrnxsZVHsRNRKfJSnCmPo43FT1p8cLs7+3iLdXv4kpLu4vyTh6gF0coLvdGtaBahZZnZlEJdt3ToF1IGvU6gu+svzpQxiYfe7VAqjB0gK/oflmSeeKfzmZZmF/UdhyMCw7B2guU4zHWmiuPRS3TmM1PB+eJ+Ma2KuuLCFDEec9D95/MBNBDIMFv3FRTxVAN9NpOnTK7Qi9SxPKZNBQKY7QKGXO3NKFlwAW2O8HzLeriTD5/o0pZJ4sfyOdVZOsVxYWjdQjQqqrW5dYPU0VUEmPpvCIRx8y1znk6wrNo9FkXrqyrnIIMOfuKkJWp5jZoWI61HVMaAUnnY1ynACUFm721MPAUlkVMJ7Hza1/sVFNkto5N5G2x8j75x7hcRlQRlMZ+7nS31E7N7l99D1ApGDhJzkozI2nkr4ZwD98kAuEHEQ0EFEufI67j1xFz0F6Rx6KK5QT+SD/AZU0pCUJnvy2aMQ==;LyqqbBZ9sIQLN4586x4XVQ=="
+secured: "Z4s8DbjIJGWMOXGAUcWagJ8X9s1PDiI3HGogsHPOG6RRooxa7vtmF7aXKFTnHYVJagsib6YJ2GAzsAIf0jdVwXCMhfxe/W6YFit0pKTXBlb6MqT4tq75IHusWYiaIU8Trmw9eYErwKQ82meBo1G4pCrgX9Mmc++rNlQgiAkx2kpTY2zPsXhyPiy81ivt3pmZDZThTRbTLpWdGcGjiHcDQn7ifrbgmXL/3Ksbtnq+kuWCwheb9nnLNNg3RQU+8n+ZKg7HemJ/fKWEehjKHlXzBsqtv2JWIo7YI3hfwcyAN6SXEZPSFy+an3mbZIKCydciYykmrXBxsOMXXRKD3r29SgWwyalQNWjFzE2+/cz+qno=;jq4ojBihseBNO3szGCMz4g=="
 ---
 

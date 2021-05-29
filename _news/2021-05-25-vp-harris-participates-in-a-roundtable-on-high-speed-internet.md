@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Harris cites challenges of ‘fragile’ world in Naval Academy speech"
+    excerpt: "The vice president's keynote speech to the 1,084 graduates was the first by a woman at the 175-year-old institution."
+    publishedDateTime: 2021-05-28T23:32:00Z
+    webUrl: "https://www.pressherald.com/2021/05/28/harris-cites-challenges-of-fragile-world-in-naval-academy-speech/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/05/APTOPIX_Naval_Academy_Harris_74338.jpg"
+        width: 1000
+        height: 681
+        isCached: true
 
 secured: "vRlpxvVV8lBNV7tShC1KHPsF7ckIQymzZQobZtFTZEqaksZMYOJK1lRA/SwmKC5FcG/HsNuwsDb19dw5HNE3wGgRRT+uB3415F1+PVtlGPGH4WKkt26v/mTxUaiZWXGGYFEbFlfprinRvguDYfCEx1j3DViUbGPZX5NUVExYm/Ufgw3rsYsx8JNs/ffcIzynnXhsWJGMe6gJ7Drh4xqbIs6Bd2klIhI3/Qc3VjtdDDjBYLrRhRPGKK/UTq+mP76pRBG+Zsi026iuRNYI8QDmHSGm9JkRMnWrvRd1lPyYRc1LakPWYphltc6QCg3GILjM0tNIRGPCYkoPYZgt2iUTwgjusHhKfhHaomA4b9IF3JI=;EyHzG0QEXFKCE2vRzVvk8A=="
 ---

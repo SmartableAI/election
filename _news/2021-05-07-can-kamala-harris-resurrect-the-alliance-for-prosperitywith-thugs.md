@@ -173,22 +173,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "At Naval Academy graduation, Kamala Harris to focus on strengthening a ‘fragile’ world"
-    excerpt: "Vice President Kamala Harris will mark another first for women Friday when she addresses the graduating class of the United States Naval Academy, becoming the first female commencement speaker in the school’s nearly 175-year history."
-    publishedDateTime: 2021-05-28T12:24:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 117
-    images:
-      - url: "https://www.chicagotribune.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
-        width: 1200
-        height: 831
-        isCached: true
   - title: "For Kamala Harris, India’s Covid Crisis Is Personal"
     excerpt: "On Friday, the U.S. vice president is set to deliver remarks at a State Department event that is expected to express U.S. solidarity with India."
     publishedDateTime: 2021-05-07T05:29:00Z
@@ -614,6 +598,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/b2/4b288ace-a942-11eb-b0c9-b7d9d9ac8545/6010814374821.image.jpg?crop=1276%2C866%2C5%2C168&resize=1024%2C695&order=crop%2Cresize"
         width: 1024
         height: 695
+        isCached: true
+  - title: "At Naval Academy graduation, Kamala Harris to focus on strengthening a ‘fragile’ world"
+    excerpt: "Vice President Kamala Harris will mark another first for women Friday when she addresses the graduating class of the United States Naval Academy, becoming the first female commencement speaker in the school’s nearly 175-year history."
+    publishedDateTime: 2021-05-28T12:24:00Z
+    webUrl: "https://www.orlandosentinel.com/news/nationworld/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/news/nationworld/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/nationworld/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 67
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
+        width: 1200
+        height: 831
         isCached: true
   - title: "Maryland moves toward 2 million fully vaccinated in wake of VP Kamala Harris’ Baltimore visit"
     excerpt: "Maryland reported more than 70,000 immunizations for the first time in a week while several other key coronavirus metrics decreased"

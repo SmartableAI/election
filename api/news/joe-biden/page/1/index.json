@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-29-in-biden-communion-debate-us-bishops-show-willingness-to-test-pope-francis.md",
+      "title": "In Biden Communion debate, US bishops' show willingness to test Pope Francis",
+      "excerpt": "But according to some observers, the controversy is less about the sacrament than it is about the lack of communion among the U.S. bishops themselves and between the U.S. conference and the Vatican. “This is more about Pope Francis than it is about Joe Biden,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/in-biden-communion-debate-us-bishops-show-willingness-to-test-pope-francis/2021/05/28/05bad548-c006-11eb-922a-c40c9774bc48_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/in-biden-communion-debate-us-bishops-show-willingness-to-test-pope-francis/2021/05/28/05bad548-c006-11eb-922a-c40c9774bc48_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/religion/in-biden-communion-debate-us-bishops-show-willingness-to-test-pope-francis/2021/05/28/05bad548-c006-11eb-922a-c40c9774bc48_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/in-biden-communion-debate-us-bishops-show-willingness-to-test-pope-francis/2021/05/28/05bad548-c006-11eb-922a-c40c9774bc48_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-28T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-biden-to-troops-before-memorial-day-we-owe-you.md",
       "title": "Biden to troops before Memorial Day: 'We owe you'",
       "excerpt": "President Joe Biden traveled to Joint Base Langley-Eustis in Virginia Friday to thank troops ahead of the Memorial Day weekend and acknowledge the unheralded sacrifices that the service members and their families make.",
@@ -1511,63 +1563,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-biden-hit-during-police-week-for-pushing-anti-police-myths.md",
-      "title": "Biden hit during ‘Police Week’ for pushing anti-police 'myths’",
-      "excerpt": "Biden also shares blame, said Johnson. In his actions and words Biden has turned away from embracing police and fighting crime, an anchor in his Senate career. It was noticed, also, that he didn't note the death of a small-town Delaware police officer whose funeral drew state officials,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths",
-      "originalUrl": "https://www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/a7b556a/2147483647/strip/true/crop/3012x2013+0+0/resize/3012x2013!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F69%2F96%2F49ec0120489b92d2900479a46560%2Fap9409130391.jpeg",
-          "width": 3012,
-          "height": 2013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/washington-secrets/biden-hit-during-police-week-for-pushing-anti-police-myths?_amp=true",
-      "publishedDateTime": "2021-05-14T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

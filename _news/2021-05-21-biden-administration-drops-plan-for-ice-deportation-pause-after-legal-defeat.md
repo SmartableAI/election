@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Senate approves Biden’s last unconfirmed Cabinet member"
+    excerpt: "The Senate on Friday confirmed by voice vote Eric Lander to lead the White House Office of Science and Technology Policy (OSTP), rounding out President Biden’s Cabinet."
+    publishedDateTime: 2021-05-28T23:48:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dgluNaREmR4/senate-approves-bidens-last-unconfirmed-cabinet-member"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-approves-bidens-last-unconfirmed-cabinet-member.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-approves-bidens-last-unconfirmed-cabinet-member.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Eric-Lander-AP.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden budget excludes decades-old provision barring taxpayer funding of abortions"
     excerpt: "President Biden proposed a budget on Friday that would exclude a decades-old provision blocking taxpayer funding of most abortions."
     publishedDateTime: 2021-05-28T18:39:35Z

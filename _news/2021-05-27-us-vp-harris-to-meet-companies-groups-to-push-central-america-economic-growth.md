@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/us-vp-harris-meet-companies-group
 webUrl: "https://www.reuters.com/business/us-vp-harris-meet-companies-groups-push-central-america-economic-growth-2021-05-27/"
 type: article
 quality: 100
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/11eb388bcfd2428ccc643c9df4deeb09/HARRIS-INTERNET.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Harris cites challenges of ‘fragile’ world in Naval Academy speech"
+    excerpt: "The vice president's keynote speech to the 1,084 graduates was the first by a woman at the 175-year-old institution."
+    publishedDateTime: 2021-05-28T23:32:00Z
+    webUrl: "https://www.pressherald.com/2021/05/28/harris-cites-challenges-of-fragile-world-in-naval-academy-speech/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/05/APTOPIX_Naval_Academy_Harris_74338.jpg"
+        width: 1000
+        height: 681
         isCached: true
 
 secured: "TKds3YNd22Ugbk+57MGk5rmgKhs2xE12lxBAwgJMcoYB3KGsWDVvGJ24bHn5EgH0SwQ2ONWiH+rOQ05SUb6ggxV3gIYpJnB/oIsVTowG07qEhv5nF9osVES98Dbw0VyWugn4PCVq4eJ3ki+QEASxicSTg/GXx3C/7InU4Rhj8uHD3kLh5EnXspC04WzCHG0QnjIHnKLSClAfTBHcCHypUwOa86YrDJHJ7diEl/A5MOF+Yg5SHAeN2ekZ3mBwzEdzq2nGK1lY7QNcxDjg0uOoDD7zPvpsraGpEL9W2WifVWKrBZ9giZdK0tGi0+kipVATb/jAWsaUoSAcM9TTg9SMRkaaiZ3sZgHIg4ydPETnMjk=;XZEMCMMx7zBUXEDwECriag=="
