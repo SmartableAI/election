@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Floyd family sees Biden, Congress mulls police bill"
-excerpt: "The anniversary of George Floyd's death was supposed to be a milestone moment and see passage of legislation to combatting systemic racism. Instead, Floyd's family visited Washington to mourn with President Joe Biden and prod Congress to act."
-publishedDateTime: 2021-05-25T19:47:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/25/floyd-family-sees-biden-congress-mulls-police-bill/7434912002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/25/floyd-family-sees-biden-congress-mulls-police-bill/7434912002/"
+title: "Strength subject of grad talk by Harris"
+excerpt: "Vice President Kamala Harris achieved another first for women Friday when she addressed the graduating class of the U.S. Naval Academy, becoming the first female commencement speaker in the school's nearly 175-year history."
+publishedDateTime: 2021-05-29T09:56:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/may/29/strength-subject-of-grad-talk-by-harris/"
+webUrl: "https://www.arkansasonline.com/news/2021/may/29/strength-subject-of-grad-talk-by-harris/"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Election
-  - Joe Biden
+  - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/46a5f7e8-fdab-4df3-bb44-4fb752d919c7_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/05/28/AP21148484547590_1_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -299,6 +295,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Floyd family sees Biden, Congress mulls police bill"
+    excerpt: "The anniversary of George Floyd's death was supposed to be a milestone moment and see passage of legislation to combatting systemic racism. Instead, Floyd's family visited Washington to mourn with President Joe Biden and prod Congress to act."
+    publishedDateTime: 2021-05-25T19:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/25/floyd-family-sees-biden-congress-mulls-police-bill/7434912002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/46a5f7e8-fdab-4df3-bb44-4fb752d919c7_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "George Floyd’s family urges Biden to pass a policing reform bill - live"
     excerpt: "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live"
     publishedDateTime: 2021-05-25T22:40:00Z
@@ -505,20 +515,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Strength subject of grad talk by Harris"
-    excerpt: "Vice President Kamala Harris achieved another first for women Friday when she addressed the graduating class of the U.S. Naval Academy, becoming the first female commencement speaker in the school's nearly 175-year history."
-    publishedDateTime: 2021-05-29T09:56:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/may/29/strength-subject-of-grad-talk-by-harris/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/05/28/AP21148484547590_1_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Vice President Kamala Harris swears in Kristen Clarke at Department of Justice"
     excerpt: "Attorney General Merrick Garland, Kristen Clarke, Pansy Clarke and Vice President Kamala Harris swears her in at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
     publishedDateTime: 2021-05-25T23:51:00Z
@@ -580,6 +576,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "Dq7TPRlK+VUpon2oO9g6pNOnsOjA+0LexmgO1QzeHuXcmpkdf4Rr3m/v9AG2pyAjguK/F+uJLfxHq1XeaNJeDDirJ/Zxva5hU6Z/Dgq9eiMED4FQMxTDmN200EvBpRpsk8aB6xfPfaw4904DZ0gUd6btKjrAYoX9dmfr6KtpH4ECwdbVqgJfZq4cSyfODOSDCM6dALCJ1TCrlMz81f1kH4WDGVlYArR2Wk5kU2G4tXoHUGCitaIew5TUnTXWCp8oMtbKTEPdn5UaLq8F/OZvac/Qx0PjnzQZYG/ek+g3i3xj6gT4Uo8f0+B9XpHAghcfogWNkS/Y/6okFfAtTyRX2jkfq/Tkb3RmpjTuGbG0Fqc=;N6B7i4KYicCn3qqmBDnVRw=="
+secured: "35H2l9IsI1UTm2daVPCWmkZnus1jvrYaZzoPuxFxhyepcbOKGcDZdzzp59HtbMlNl+ILf1vWNBE+Trx2SLSMoki+DIpP/hSgP5y5eVKe4u+m218cUe+3dQn+WI4Yq/kKoe/z2kmVGjnfctnM/LX5ebbab3wtzRlPNTZLlS5v7DFBXqA5ldzVCST5M4Nxu4rhZ+zooRINf8wnU89NcVtaqB6AASB/rYsDp0T1cXajYjPMJdvKPlNfhU8KlS8kz5fTOXJ2La/yUI1IvI6ynO6CyF7IKTEmqrxrKpF8kDQQrfG5eK7WLtN0iIJrZF3dpIl077Cu27W2WgeZYYchZWuJR7CYQOGR62776pKd+fhltGk=;N9ReTRI0LYfbCBOm7FOKUA=="
 ---
 

@@ -515,6 +515,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Strength subject of grad talk by Harris"
+    excerpt: "Vice President Kamala Harris achieved another first for women Friday when she addressed the graduating class of the U.S. Naval Academy, becoming the first female commencement speaker in the school's nearly 175-year history."
+    publishedDateTime: 2021-05-29T09:56:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/may/29/strength-subject-of-grad-talk-by-harris/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/05/28/AP21148484547590_1_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "George Floyd’s Family Urges Police Reform After Meeting With Biden, Harris"
     excerpt: "The meeting, one year after Floyd was killed by police, came as lawmakers missed Biden’s target date to enact meaningful police reform."
     publishedDateTime: 2021-05-25T21:30:00Z

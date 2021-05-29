@@ -95,14 +95,14 @@ related:
         isCached: true
   - title: "Harris cites challenges of 'fragile' world in Navy speech"
     excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
-    publishedDateTime: 2021-05-28T20:10:00Z
-    webUrl: "https://www.chron.com/news/article/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+    publishedDateTime: 2021-05-29T09:11:00Z
+    webUrl: "https://www.timesunion.com/news/article/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Times Union
+      domain: timesunion.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

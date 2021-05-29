@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-georg
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
 type: article
 quality: 146
-heat: 886
+heat: 906
 published: true
 
 provider:
@@ -505,6 +505,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/32cb065d-d796-4cb6-8baa-ebb531813826_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Strength subject of grad talk by Harris"
+    excerpt: "Vice President Kamala Harris achieved another first for women Friday when she addressed the graduating class of the U.S. Naval Academy, becoming the first female commencement speaker in the school's nearly 175-year history."
+    publishedDateTime: 2021-05-29T09:56:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/may/29/strength-subject-of-grad-talk-by-harris/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/05/28/AP21148484547590_1_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
   - title: "Vice President Kamala Harris swears in Kristen Clarke at Department of Justice"
     excerpt: "Attorney General Merrick Garland, Kristen Clarke, Pansy Clarke and Vice President Kamala Harris swears her in at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."

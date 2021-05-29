@@ -2,19 +2,19 @@
 category: news
 title: "Harris cites challenges of 'fragile' world in Navy speech"
 excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
-publishedDateTime: 2021-05-28T20:10:00Z
-originalUrl: "https://www.chron.com/news/article/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
-webUrl: "https://www.chron.com/news/article/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
-ampWebUrl: "https://www.chron.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+publishedDateTime: 2021-05-29T09:11:00Z
+originalUrl: "https://www.timesunion.com/news/article/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+webUrl: "https://www.timesunion.com/news/article/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Election
@@ -191,6 +191,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "noDxGUcqXK3rTUnxZs8Ak1OoJcAz0tVC+t6+wUbO/7Xu16PJW32+QMu90S+nwievlBJ7JLiAyhwhslH7CjhWaThPOhCMVFowEaSuw7RUVddjXxr/e1cSIKcpOToNUX3/JzrbSbze25AA6DIMRcqk5u4+hiPLEiVZeyBxSV7D/uSbMSN6OuyopL/kwG28RZu5JR7mY9exfDzsvHNka2LiQkfsmFI876oJFWoETzkIV7DdB0RumyNPf2grPIlAB3IpcgCXBkiGZiK0ZU1LSmGLmA+YCbnIZWuvM5hW18/l8EIvaBwqvViJRNK9WnwRl71ilntqASnEpV1BUP6Zhx/qCguDaAOEPmz1mxh9OBgJ55g=;jbcT861y3m8Lol0aoX8DVA=="
+secured: "NiE7C/qZbFBKeXfwL5toYhBUw32UtyitL+pVMSQkHQPxwdYX0N6CF5KXDVn5Hug5inz8pnUZ7dV+9VxB/eSy3WmYd35TCoxZU5eicacO9Nvd4BTGQ2D2QkGNmTLqlkOzK27Xu7De1MOraEP5WhsYYtEQwPbvpwJ4V17Jf/7T6fXv2Uaj3v1KZjEh0t9zPfDmKk6ZElwnZElUSSbrfAmP37XeRYFVFWru616JBgYpz5pzeRlSRbPRYXpasW8n97BNiWRWG2foU7OlZQ2XvVUs/P7W80SzC5OSlZQe+TjbZeT5kp6qa5fpUDolTCJ5lqtflaUw36PJNTW/izzfN/F8PrAIYL2rkztiNQDEP/0n5tg=;JROMdW8rSxS+D2AqNtVOOA=="
 ---
 
