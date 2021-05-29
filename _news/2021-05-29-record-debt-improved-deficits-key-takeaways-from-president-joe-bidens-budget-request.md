@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden won't allow Justice Dept. to seize reporters' records"
-excerpt: "President Joe Biden says he won’t allow the Department of Justice to seize journalists’ phone records and emails, calling the practice “wrong” in a significant departure from his predecessors"
-publishedDateTime: 2021-05-22T00:00:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
+title: "Record debt, improved deficits: Key takeaways from President Joe Biden's budget request"
+excerpt: "Higher debt. No restrictions on abortion funding. More spending on child care and education. Those are some of the takeaways of Biden's budget."
+publishedDateTime: 2021-05-28T19:16:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/05/28/takeaways-bidens-budget-include-record-debt-improved-deficits/5247246001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/05/28/takeaways-bidens-budget-include-record-debt-improved-deficits/5247246001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5247246001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5247246001"
 type: article
-quality: 125
-heat: 285
-published: true
+quality: 117
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_38dab6b4a6fc429288c8332a295a4057_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.gannett-cdn.com/presto/2021/05/28/USAT/bc6287e1-071c-4bb3-bd42-5078d38d15af-Biden_Friday.jpg?auto=webp&crop=5999,3375,x0,y600&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
+  - title: "Biden won't allow Justice Dept. to seize reporters' records"
+    excerpt: "President Joe Biden says he won’t allow the Department of Justice to seize journalists’ phone records and emails, calling the practice “wrong” in a significant departure from his predecessors"
+    publishedDateTime: 2021-05-22T00:00:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_38dab6b4a6fc429288c8332a295a4057_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Senate Republicans unveil latest counteroffer to Biden on infrastructure spending"
     excerpt: "Senate Republicans on Thursday unveiled their latest counteroffer to President Joe Biden on infrastructure spending, calling for spending $928 billion."
     publishedDateTime: 2021-05-27T17:21:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/shelley-moore-capito-nc-jef-210525_1621978555097_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Record debt, improved deficits: Key takeaways from President Joe Biden's budget request"
-    excerpt: "Higher debt. No restrictions on abortion funding. More spending on child care and education. Those are some of the takeaways of Biden's budget."
-    publishedDateTime: 2021-05-28T19:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/28/takeaways-bidens-budget-include-record-debt-improved-deficits/5247246001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5247246001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5247246001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/28/USAT/bc6287e1-071c-4bb3-bd42-5078d38d15af-Biden_Friday.jpg?auto=webp&crop=5999,3375,x0,y600&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Biden orders intelligence report on COVID-19 origin"
     excerpt: "President Joe Biden is ordering U.S. intelligence officials to \"redouble\" efforts to investigate the origins of COVID-19, after a new report sparked questions about whether the virus could have originated in a Wuhan,"
@@ -149,6 +149,6 @@ related:
         height: 600
         isCached: true
 
-secured: "leEwi2Zh3Z7FnT9vd/BYYmP9EwARqTz2cqrGdgrizcw5eLtMCyxBNGJMhtdXapsRG9mAi0nwt33P8OffIKNOj9ue3EhyXBLuyNVtm0v8jQleKLu03/En/rbYJDqJKAQOLgZB+vVv2n7p6n7WASm5aryUpav7dPY/Md5V0mCPS86xizbKaXqRtjMvXV28Iy+2CZWNpUAASZl5cMVp10XNzeDIOrxHjVqnqRNXuC8uBbxS4GIqx3gehcrLd3HG8NQRF9SC1fo1FXJ9wyCpalGTmSAWn8iklgrVbcFYB4KTvknbYkb0nRyqj4M6C70rFQZ4CkrtZa4sz6cnkhAHQgHIIo3jVyqf3y/bbTmTO31Eb2TleWYh6SN6d49QPb9JLFEmHLnMbOy3+iAU9LcPRyyYWbSog29pA5uhtbHPAw8+yF7pg+wcRQoDvIUyRTgoI4ZEne337bIKys9Tnwvf0q1C7J+mA6E3giwGSQczgLdK31CV4lKHvYke1fjRPGIKyhyF2sRpyHkquVhXQQlrSOorig==;siFt/i1rhdJLCMkXJNpgrg=="
+secured: "aFMfcCj8SKZ3MPk+j4R9+vp8hsCS4W6hJMgL+UfbUnrfBBlBkPO6cob8QCFwYSyl07D+WweDKGfdF/3kPdXsO3M6+/D5M0becTDOhX2KwnxAh5LqY1J04ecHtJJdbtu3bQu5TB+WHUaYcuoDZl0jQhtb6YcPX1yhn+GUo04hYfOZh0FejSHxSLcg5xePtWM7qCR/fd/PDXtseckmYHxvD0m+66tPocT7b7wWaT9E8QrKlohB8zt4cwdwpFA/WOzGkCsSB5hzgZzNV4KP6oRaQRMIkAA96PlTbOGlgZ3NGDqMD4shsFvHRlivcFVjsXJaYazAl8H3pv0dwmHSobJK01mAKVKbpB8wWw6PmWyVNqI=;rZAe/4lsnxYXoGfCOD/MMQ=="
 ---
 

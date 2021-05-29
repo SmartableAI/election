@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Record debt, improved deficits: Key takeaways from President Joe Biden's budget request"
+    excerpt: "Higher debt. No restrictions on abortion funding. More spending on child care and education. Those are some of the takeaways of Biden's budget."
+    publishedDateTime: 2021-05-28T19:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/28/takeaways-bidens-budget-include-record-debt-improved-deficits/5247246001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5247246001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5247246001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/28/USAT/bc6287e1-071c-4bb3-bd42-5078d38d15af-Biden_Friday.jpg?auto=webp&crop=5999,3375,x0,y600&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden orders intelligence report on COVID-19 origin"
     excerpt: "President Joe Biden is ordering U.S. intelligence officials to \"redouble\" efforts to investigate the origins of COVID-19, after a new report sparked questions about whether the virus could have originated in a Wuhan,"
     publishedDateTime: 2021-05-27T14:58:00Z

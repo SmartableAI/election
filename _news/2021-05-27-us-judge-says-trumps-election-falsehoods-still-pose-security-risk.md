@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ"
 type: article
 quality: 140
-heat: 640
+heat: 660
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_112720getty_lead.jpg"
         width: 1340
         height: 800
+        isCached: true
+  - title: "GOP blocks Capitol riot probe, displaying loyalty to Trump"
+    excerpt: "Capitol, displaying continuing party loyalty to former President Donald Trump and firm determination to shift the political focus away from the violent insurrection by his GOP supporters. Support our journalism."
+    publishedDateTime: 2021-05-28T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZEXHPHF74II6XERKYQGJO5F4JA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Justice Department appeals judge’s order to release Trump obstruction memo"
     excerpt: "The Biden administration will appeal a judge’s order to release a memo on whether former President Trump obstructed justice during the Russia probe."

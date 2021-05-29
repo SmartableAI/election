@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Harris cites challenges of 'fragile' world in Navy speech"
-excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval"
-publishedDateTime: 2021-05-28T19:16:00Z
-originalUrl: "https://www.stltoday.com/news/national/harris-cites-challenges-of-fragile-world-in-navy-speech/article_951af9aa-acac-5e43-8a95-68bb5f59286d.html"
-webUrl: "https://www.stltoday.com/news/national/harris-cites-challenges-of-fragile-world-in-navy-speech/article_951af9aa-acac-5e43-8a95-68bb5f59286d.html"
+excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
+publishedDateTime: 2021-05-28T20:10:00Z
+originalUrl: "https://www.chron.com/news/article/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+webUrl: "https://www.chron.com/news/article/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+ampWebUrl: "https://www.chron.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/c3/3c380bde-e91d-5e4e-b069-2f9d17251ba3/60b01a4f92fa0.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -165,6 +167,20 @@ related:
         width: 1200
         height: 831
         isCached: true
+  - title: "‘You are prepared for any threat’: Vice President Kamala Harris says Naval Academy grads ready for anything"
+    excerpt: "The world is rapidly changing, Vice President Kamala Harris told the graduates, pointing to the coronavirus pandemic as the most recent significant historical event."
+    publishedDateTime: 2021-05-29T00:52:00Z
+    webUrl: "https://www.baltimoresun.com/education/ac-cn-usna-navy-graduation-coverage-20210528-g754rhovkfa3nhnci6t3tndoqm-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 37
+    images:
+      - url: "https://www.baltimoresun.com/resizer/NGAKBsiUEGM18IgDSQPs_vqFzgE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EBQPNIVUIVDDHDSSLR4MSOV5KM.JPG"
+        width: 1200
+        height: 1033
+        isCached: true
   - title: "Kamala Harris cites challenges of 'fragile' world in Navy speech"
     excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
     publishedDateTime: 2021-05-28T17:04:00Z
@@ -175,6 +191,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "JnH9jgQJrJFZTXTcYw4l9s0XAmp2178XigsZ63UG/4uRNKIIV0zVKIX23Ppi0I3I4n3ucEoJPBE2om93Ekm5TM5podbHgLysQkDViJuD2V0AYYukv+UCYvOV2c/l9VEF4Ug5b8yiWk6PxKfVBzChZ6XrdQ9fTN6SKPKCnxYpiw/TVsusB7DUGhvw+WtpI6OMVAz0AHc/Err9xnyGzuLsDicXWfWzpb/KbRlTIvldkL7TVOvQ3JQ3p5uUd6sidlenXCVfaipw73JUHJxjTL4RL2J79aromVo0moI2Xmv//LrjwevtRpfpuoT+OBscUDoGQXk4nMZyWhcWPufXSBs+ujqqo53mGmL6iQZRbUal+Di0fh3I5WVJMir9SrsYHFFCTToCxiS8XmwNZCb7SNv6lAMJe6ize6HRyNFNf//zYIBjmCKtUe/dXUbNG5DMBZquTIiHr6KxWBy5CQmv4jy+WSHRH/ihrWAy+7Y4ZHz5PyeF5rB5TBW3O+wD954/AlvCD1PPKoyeoHPUZMpQT6n9BQ==;Jsy2mwwbJUjH9DcffNt/oA=="
+secured: "noDxGUcqXK3rTUnxZs8Ak1OoJcAz0tVC+t6+wUbO/7Xu16PJW32+QMu90S+nwievlBJ7JLiAyhwhslH7CjhWaThPOhCMVFowEaSuw7RUVddjXxr/e1cSIKcpOToNUX3/JzrbSbze25AA6DIMRcqk5u4+hiPLEiVZeyBxSV7D/uSbMSN6OuyopL/kwG28RZu5JR7mY9exfDzsvHNka2LiQkfsmFI876oJFWoETzkIV7DdB0RumyNPf2grPIlAB3IpcgCXBkiGZiK0ZU1LSmGLmA+YCbnIZWuvM5hW18/l8EIvaBwqvViJRNK9WnwRl71ilntqASnEpV1BUP6Zhx/qCguDaAOEPmz1mxh9OBgJ55g=;jbcT861y3m8Lol0aoX8DVA=="
 ---
 

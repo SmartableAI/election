@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
-excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
-publishedDateTime: 2021-05-28T16:14:00Z
-originalUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+title: "‘You are prepared for any threat’: Vice President Kamala Harris says Naval Academy grads ready for anything"
+excerpt: "The world is rapidly changing, Vice President Kamala Harris told the graduates, pointing to the coronavirus pandemic as the most recent significant historical event."
+publishedDateTime: 2021-05-29T00:52:00Z
+originalUrl: "https://www.baltimoresun.com/education/ac-cn-usna-navy-graduation-coverage-20210528-g754rhovkfa3nhnci6t3tndoqm-story.html"
+webUrl: "https://www.baltimoresun.com/education/ac-cn-usna-navy-graduation-coverage-20210528-g754rhovkfa3nhnci6t3tndoqm-story.html"
 type: article
-quality: 55
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.dailypress.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
+  - url: "https://www.baltimoresun.com/resizer/NGAKBsiUEGM18IgDSQPs_vqFzgE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EBQPNIVUIVDDHDSSLR4MSOV5KM.JPG"
     width: 1200
-    height: 831
+    height: 1033
     isCached: true
 
 related:
@@ -167,19 +165,21 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "‘You are prepared for any threat’: Vice President Kamala Harris says Naval Academy grads ready for anything"
-    excerpt: "The world is rapidly changing, Vice President Kamala Harris told the graduates, pointing to the coronavirus pandemic as the most recent significant historical event."
-    publishedDateTime: 2021-05-29T00:52:00Z
-    webUrl: "https://www.baltimoresun.com/education/ac-cn-usna-navy-graduation-coverage-20210528-g754rhovkfa3nhnci6t3tndoqm-story.html"
+  - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
+    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
+    publishedDateTime: 2021-05-28T16:14:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 37
+      name: Daily Press
+      domain: dailypress.com
+    quality: 55
     images:
-      - url: "https://www.baltimoresun.com/resizer/NGAKBsiUEGM18IgDSQPs_vqFzgE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EBQPNIVUIVDDHDSSLR4MSOV5KM.JPG"
+      - url: "https://www.dailypress.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
         width: 1200
-        height: 1033
+        height: 831
         isCached: true
   - title: "Kamala Harris cites challenges of 'fragile' world in Navy speech"
     excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
@@ -191,6 +191,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "tIR/ecJ8CUjJ/tm0zI+sFlehGbd1QpkF+kn13J7TDfEJmBTPxuqVFGhJlFsxghFnohCe90Kq3bl30glt6KNiyTs+mwYrkd6ZnHL6OjA6xhszy9+O8T001V240z01SpH6nUWlkCeTHzQLrqMzqbnUCcwsn3lA+NcFgdOidQExRcgfWPgpZYqZScu981EC9O7YGtyTZ/TbvpsGmHNAMnHWbUp3quMPBVNyDq3KX2jyBUZbDD69UhzQjbfZ8+sbUDNH1xNrFauIsLy1Rv7f4boxOBhr1RVOBlHCCSqJrSVF6ehlpkBfKeUNAp583l9Fwa8+suJwZN8lJhvPyeGnpT/XMff2D/ZtTUYtfl0EvgqD3g9e8noy7Lzx6ei2HgCc0Mj0ihW4HBeAMYXwHHHKLxVeYg85MqTNLtkg8XsvCz1B9m2STcSZtsNIydxpPAgnwGYpLZmaszjDstgwA42prv2osZxX9hnu85bXzuvB95W/QGRPUyw+WcaxzFiCasR4uYm+MEJ3r2Fe5Z2DCAqNgiqbvQ==;+o6P0M2G3dU9/cPe9ZtSmw=="
+secured: "9JBkt/zCsCbWYdtc9Atu/Y4KBgeqy+Ap/qTNY62t1v5amGeuscMDNmEO8f67tCi7hvXjHxqyBqZzkajeKKbO9Y3MwVTayv6SJlINi6rDFhr9PHpB1YJWY5zxBtuC3HqBB87K5No3WTQI0sr6bbszs4I/0Ax2Nr9KkF42fYs3HhIfVH6auUfdf5B6PF9uxBpZUARgNrhx6Zua43vawJ0SszCPrvxUrAi2qJWA+iR4lac0Kx/eHgtNBdmyDSXiSxuwSlloISeurDifznTD58c//q/W6JBDWtOopRAoDtrP2qcvBEmxZFHp5K/f/6tJCey+pbhtzFe5Rr3R/vjAjyhDtLEnx2Krra0Vy4Zit375AcM=;/BhNTJB3e1VB2TSymxT9KA=="
 ---
 

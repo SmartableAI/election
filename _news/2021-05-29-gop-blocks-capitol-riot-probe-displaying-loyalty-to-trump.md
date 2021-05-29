@@ -1,22 +1,22 @@
 ---
 category: news
-title: "New grand jury seated to probe Trump business dealings, reports say"
-excerpt: "The panel is expected to decide whether to indict Trump, other executives at his company or the company itself, The Washington Post says."
-publishedDateTime: 2021-05-26T13:48:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-grand-jury-new-york/"
-webUrl: "https://www.cbsnews.com/news/trump-grand-jury-new-york/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-grand-jury-new-york/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-grand-jury-new-york/"
+title: "GOP blocks Capitol riot probe, displaying loyalty to Trump"
+excerpt: "Capitol, displaying continuing party loyalty to former President Donald Trump and firm determination to shift the political focus away from the violent insurrection by his GOP supporters. Support our journalism."
+publishedDateTime: 2021-05-28T21:38:00Z
+originalUrl: "https://www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html"
+webUrl: "https://www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/25/6d4f4817-2ff8-4f41-83d8-6c877a8ad6e6/thumbnail/1200x630/b9606be5f084f0bb07e863d766b8619d/gettyimages-1318749430.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZEXHPHF74II6XERKYQGJO5F4JA.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "New grand jury seated to probe Trump business dealings, reports say"
+    excerpt: "The panel is expected to decide whether to indict Trump, other executives at his company or the company itself, The Washington Post says."
+    publishedDateTime: 2021-05-26T13:48:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-grand-jury-new-york/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-grand-jury-new-york/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-grand-jury-new-york/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/25/6d4f4817-2ff8-4f41-83d8-6c877a8ad6e6/thumbnail/1200x630/b9606be5f084f0bb07e863d766b8619d/gettyimages-1318749430.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "School apologizes for saying Trump wasn't impeached"
     excerpt: "We can and will do better to provide a quality yearbook to students that can be a cherished item as they reminisce about their time at [the] school,” the principal said."
     publishedDateTime: 2021-05-26T16:16:00Z
@@ -190,22 +206,6 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_112720getty_lead.jpg"
         width: 1340
         height: 800
-        isCached: true
-  - title: "GOP blocks Capitol riot probe, displaying loyalty to Trump"
-    excerpt: "Capitol, displaying continuing party loyalty to former President Donald Trump and firm determination to shift the political focus away from the violent insurrection by his GOP supporters. Support our journalism."
-    publishedDateTime: 2021-05-28T21:38:00Z
-    webUrl: "https://www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-poised-to-block-bipartisan-probe-of-jan-6-insurrection/2021/05/28/926446c8-bf75-11eb-922a-c40c9774bc48_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZEXHPHF74II6XERKYQGJO5F4JA.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Justice Department appeals judge’s order to release Trump obstruction memo"
     excerpt: "The Biden administration will appeal a judge’s order to release a memo on whether former President Trump obstructed justice during the Russia probe."
@@ -431,6 +431,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "qGPw4IwUsFhr0W4rZVT1/XG44L3OMpieydvUbouh/rLuj715Q9RNYvguc3kaq48jojRoi1ac88qm2gTbDsv1SJdvxx6UPEPK4i6kw+n3kTqX22HkNjXeEUsegxG2RfhWBgkfaHmQSSKzYQriw413u3AC0de30KgLvdzuTQswIxaxE8/vip4AYUfzsB4Gok6qdtj6VeLWxxlG31LEScko7BLhm/R7DvNXEb+cBxTMZYxgZOJP7W56OSdGo7VoGLeKvhFWAq4jiyKHHVNxnZBdDL1UWFK0onS2La6k6/1k+tEVz7XCQPWiHNSPM04WODLxwBpPVmJF3H4g5eOOYV+D4zO53IFjIh+YHky/Cd+gwNeI8pFb56wn9oyVSqaYm1Uky+rGbDslAtXrU/Acu/AVqNbDPvHLvT0wtmWKjZdoqBSO+USShS0XOnLtS9v8B7d2/4q+8P8pIDWp34tmRTEklaGMXqQw5CQyz2kjAWCAJjDoX8j9Pf/TMfVO/E9wmrR4joDQKfBWqgPiKHSJUdhrCg==;T6WM9CNXZoA/2+xpgnkpwA=="
+secured: "X8Sse9+dqbUyHea1T68/Fibyg+etW+xNew1L6FcRzT4fHgR7gtvPnwUdb2xPZRdlhA9j1Y1uZC1tOm/Rw8C4XNaLEOeTflmQ2g6g7qmlJMs24Lm9LUA4MDI0Mbm9jwyzA+nbRiDgVIDFgHiZyq/hDgOPa81jV2+yxyFAAPDSc0clpYL6yW4xz1O3b+HUsevpAQSW2eiB8iB8o4gOJs5UgZte/Wcq+BV89VScaa194dlhgJvpSNY0A0/b8TCURGItLYfZv9Ni2aWxF5Wf6WhY+XanQXt18QsHZD0ZH06k4PoYARX86OtFmXtaRI2FN7WQXsfcbT5egP+maPQQhZm4p7wO7n0xOnXFweDChUmt3OI=;djRBoCFuXQ6/k2/1zuwIxg=="
 ---
 

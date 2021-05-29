@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden's big budget comes with a modest growth outlook for an aging country"
+    excerpt: "President Joe Biden's first budget proposal comes with a big price tag - at $6 trillion, roughly 50% higher than pre-COVID-19 federal spending - but, at least for now, projects a relatively modest long-term lift to the economy,"
+    publishedDateTime: 2021-05-28T23:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-economy/bidens-big-budget-comes-with-a-modest-growth-outlook-for-an-aging-country-idUSKCN2D92JF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D92JF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D92JF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210529&t=2&i=1563801206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4R170"
+        width: 815
+        height: 545
+        isCached: true
   - title: "Biden’s Plans Face Youngstown Test That Defeated Trump and Obama"
     excerpt: "One U.S. president after another has promised to turn this Rust Belt city around. The latest proposal to pump in tens of millions of dollars is bringing hope—and skepticism."
     publishedDateTime: 2021-05-23T13:15:00Z

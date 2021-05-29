@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Biden worries the world thinks America can't lead after Trump, and that it's 'beginning to look to China'"
-excerpt: "Biden told The New York Times about the Irish prime minister commenting, \"Well, America can't lead. They can't even get their arms around Covid.\""
-publishedDateTime: 2021-05-21T21:01:00Z
-originalUrl: "https://www.businessinsider.com/biden-worries-world-thinks-america-cant-lead-after-trump-2021-5"
-webUrl: "https://www.businessinsider.com/biden-worries-world-thinks-america-cant-lead-after-trump-2021-5"
-ampWebUrl: "https://www.businessinsider.com/biden-worries-world-thinks-america-cant-lead-after-trump-2021-5?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-worries-world-thinks-america-cant-lead-after-trump-2021-5?amp"
+title: "Biden's big budget comes with a modest growth outlook for an aging country"
+excerpt: "President Joe Biden's first budget proposal comes with a big price tag - at $6 trillion, roughly 50% higher than pre-COVID-19 federal spending - but, at least for now, projects a relatively modest long-term lift to the economy,"
+publishedDateTime: 2021-05-28T23:30:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-budget-economy/bidens-big-budget-comes-with-a-modest-growth-outlook-for-an-aging-country-idUSKCN2D92JF"
+webUrl: "https://www.reuters.com/article/us-usa-biden-budget-economy/bidens-big-budget-comes-with-a-modest-growth-outlook-for-an-aging-country-idUSKCN2D92JF"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D92JF"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D92JF"
 type: article
 quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://i.insider.com/609b95b1342837001822cdde?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210529&t=2&i=1563801206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4R170"
+    width: 815
+    height: 545
     isCached: true
 
 related:
@@ -111,21 +111,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden's big budget comes with a modest growth outlook for an aging country"
-    excerpt: "President Joe Biden's first budget proposal comes with a big price tag - at $6 trillion, roughly 50% higher than pre-COVID-19 federal spending - but, at least for now, projects a relatively modest long-term lift to the economy,"
-    publishedDateTime: 2021-05-28T23:30:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-economy/bidens-big-budget-comes-with-a-modest-growth-outlook-for-an-aging-country-idUSKCN2D92JF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D92JF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D92JF"
+  - title: "Biden worries the world thinks America can't lead after Trump, and that it's 'beginning to look to China'"
+    excerpt: "Biden told The New York Times about the Irish prime minister commenting, \"Well, America can't lead. They can't even get their arms around Covid.\""
+    publishedDateTime: 2021-05-21T21:01:00Z
+    webUrl: "https://www.businessinsider.com/biden-worries-world-thinks-america-cant-lead-after-trump-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/biden-worries-world-thinks-america-cant-lead-after-trump-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-worries-world-thinks-america-cant-lead-after-trump-2021-5?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 123
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210529&t=2&i=1563801206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4R170"
-        width: 815
-        height: 545
+      - url: "https://i.insider.com/609b95b1342837001822cdde?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden’s Plans Face Youngstown Test That Defeated Trump and Obama"
     excerpt: "One U.S. president after another has promised to turn this Rust Belt city around. The latest proposal to pump in tens of millions of dollars is bringing hope—and skepticism."
@@ -190,6 +190,6 @@ related:
         height: 336
         isCached: true
 
-secured: "/W85khNEds/N0swv+neGHPydePq7KLnUBV5lPk+1kwpWbxnEflUZa6m5+u7DL+HXw7At+LvPJE9iPn7X0wlbMaW9OiAm/uLoosDGuRMvCcS+qz5yCMDcatfUHgL8nYR5pIdSK6IBWwFflemOM0d4Ovo7uNSx+VqWSuGjXl6j/vXZ+0bi8z1e76nRmtwiMIexqh3ci1gf6cmDMOBsELuI2ZI6mX8W9laOzryW7oWlwmZu+mw3TILAF0wsmhqhix73i6QrQO7h8bkc3zglS1YjIkJLP3o3NlBFd8/QJlAoAWVkeifowpswIJ3bZLzEzPrVgzYqQQR2RVTEPbfJ3pVeue84VJChF31Z86fAJPHTKP8WxKoLxpjuJ7jQDb3cpbO93Smm3XAcmOHYWO6delNhS6wM/JQCBPSmhIdCjNxze3K/W0YDX/6xyZlGJaKf73pwg/86B09TVbY1SzDRkqu3qty9GysA9W6jmMhVvTpLXygMy+bbAM/i9eXbH+gkqqxeJirrLHo6d8BdyW08U7u9fg==;sg3PaT8u4CndR1jgQh0x6A=="
+secured: "4l54uDIKcYSxcf3v+z8xjTDjUYsYajW5WZbzw1/JOsk6rvU/9ujijgQb+2xsrNsp//xL8QZY02Wlv9F+2dn9Ej8LhxKabXyGKlElNJ4zCMcJjy8Rz0H7V6v4PTFiuX1CVUmggKAOHtfoQBK4RJejRx30xKl4/5mfEA7722ALIt82o6xhtBVVWy8dbzcq8fn/Z8sTgYQ1Os89mbtm0nb1O4xGTm2bUINo4owHybZlntWFqPZm4jAU/c2y0T1WgJwhffO86MxN/XnvasmyCTKeGoJfXUMSaYyx2vKvnSEJwe+mLuOWA8lFEa7FQSv2DfYIgBt7WLAn2fN24NbL1yxXHgFKodPtRxGEyZ0BINzoLYk=;47aHEvsV1RpjcN78L7xgJw=="
 ---
 

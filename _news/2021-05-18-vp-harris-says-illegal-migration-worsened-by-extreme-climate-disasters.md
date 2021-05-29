@@ -105,6 +105,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Harris cites challenges of 'fragile' world in Navy speech"
+    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
+    publishedDateTime: 2021-05-28T20:10:00Z
+    webUrl: "https://www.chron.com/news/article/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Vice-President-Harris-to-speak-at-Naval-Academy-16209340.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Harris highlights climate change as 'very real threat' in Naval Academy graduation speech"
     excerpt: "Vice President Kamala D. Harris told graduates of the U.S. Naval Academy Friday that the military has entered an era of new security threats such as pandemics, cyber-attacks and climate change."
     publishedDateTime: 2021-05-28T15:21:00Z
@@ -151,19 +167,19 @@ related:
         width: 1200
         height: 831
         isCached: true
-  - title: "Harris cites challenges of 'fragile' world in Navy speech"
-    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval"
-    publishedDateTime: 2021-05-28T19:16:00Z
-    webUrl: "https://www.stltoday.com/news/national/harris-cites-challenges-of-fragile-world-in-navy-speech/article_951af9aa-acac-5e43-8a95-68bb5f59286d.html"
+  - title: "‘You are prepared for any threat’: Vice President Kamala Harris says Naval Academy grads ready for anything"
+    excerpt: "The world is rapidly changing, Vice President Kamala Harris told the graduates, pointing to the coronavirus pandemic as the most recent significant historical event."
+    publishedDateTime: 2021-05-29T00:52:00Z
+    webUrl: "https://www.baltimoresun.com/education/ac-cn-usna-navy-graduation-coverage-20210528-g754rhovkfa3nhnci6t3tndoqm-story.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/c3/3c380bde-e91d-5e4e-b069-2f9d17251ba3/60b01a4f92fa0.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://www.baltimoresun.com/resizer/NGAKBsiUEGM18IgDSQPs_vqFzgE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EBQPNIVUIVDDHDSSLR4MSOV5KM.JPG"
+        width: 1200
+        height: 1033
         isCached: true
   - title: "Kamala Harris cites challenges of 'fragile' world in Navy speech"
     excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
