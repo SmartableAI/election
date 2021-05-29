@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden is getting a big bounce with Hispanics"
+    excerpt: "Hispanic voters were one of President Joe Biden's biggest weaknesses in the 2020 election. Although sources differ on his exact margin, Biden's advantage with Hispanics was the worst for a Democratic presidential nominee since 2004 -- even as he had the strongest performance overall for a Democrat since"
+    publishedDateTime: 2021-05-29T14:32:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ohU-th-Xbgw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/29/politics/hispanics-biden-bounce-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/29/politics/hispanics-biden-bounce-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Biden Isn’t Cracking Down on Fossil Fuels"
     excerpt: "Because of global warming, brought on by burning the very sort of fossil fuels that ConocoPhillips is extracting. With Joe Biden’s election in November, environmental advocates had hoped that such drilling on U."
     publishedDateTime: 2021-05-28T22:10:00Z

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "First lady says she's 'moved on' from reported anger at Kamala Harris"
-excerpt: "First lady Jill Biden on Thursday didn’t deny a report that she uttered a profanity about Vice President Kamala D. Harris for accusing Joe Biden of racism during a Democratic presidential primary debate in June 2019."
-publishedDateTime: 2021-05-20T19:31:00Z
-originalUrl: "https://www.washingtontimes.com/news/2021/may/20/jill-biden-kamala-harris-busing-racism-charge-and-/"
-webUrl: "https://www.washingtontimes.com/news/2021/may/20/jill-biden-kamala-harris-busing-racism-charge-and-/"
-ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/20/jill-biden-kamala-harris-busing-racism-charge-and-/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/20/jill-biden-kamala-harris-busing-racism-charge-and-/"
+title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
+excerpt: "Vice President Kamala Harris will mark another first for women Friday when she addresses the graduating class of the United States Naval Academy, becoming the first female commencement speaker in the school’s nearly 175-year history."
+publishedDateTime: 2021-05-28T18:14:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/12/election_2020_joe_biden_vp_00766_c0-0-4061-2368_s1200x700.jpg?1b20ccd4a28d7efd04c18bd85a2c3907018d352d"
+  - url: "https://www.chicagotribune.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
     width: 1200
-    height: 700
+    height: 831
     isCached: true
 
 related:
@@ -73,21 +77,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
-    excerpt: "Vice President Kamala Harris will mark another first for women Friday when she addresses the graduating class of the United States Naval Academy, becoming the first female commencement speaker in the school’s nearly 175-year history."
-    publishedDateTime: 2021-05-28T18:14:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+  - title: "First lady says she's 'moved on' from reported anger at Kamala Harris"
+    excerpt: "First lady Jill Biden on Thursday didn’t deny a report that she uttered a profanity about Vice President Kamala D. Harris for accusing Joe Biden of racism during a Democratic presidential primary debate in June 2019."
+    publishedDateTime: 2021-05-20T19:31:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/20/jill-biden-kamala-harris-busing-racism-charge-and-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/20/jill-biden-kamala-harris-busing-racism-charge-and-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/20/jill-biden-kamala-harris-busing-racism-charge-and-/"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 105
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
     images:
-      - url: "https://www.chicagotribune.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/12/election_2020_joe_biden_vp_00766_c0-0-4061-2368_s1200x700.jpg?1b20ccd4a28d7efd04c18bd85a2c3907018d352d"
         width: 1200
-        height: 831
+        height: 700
         isCached: true
   - title: "VP Harris announces business investments in Central America"
     excerpt: "Harris issued what her office described as a “call to action” for businesses and nonprofits to make new commitments to promote economic opportunity in Central America. At an event announcing the initiative,"
@@ -207,6 +211,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "yMv6hfPR9HV27nC2EnD07uPJqHGlVz63p/u+GiQ//yU1RxE4W32noCAFv6unDZJQSKq2LmwWM/RKFrZSprr53tTDc323tzDTNA1qeua5xQ5jH0h8hkgLRR2ZdWwPf6NdaE8KlllUQDWvkxbYOVNDoyMh/ZvdEgQRLMOKJdoD5RIO5nmEcRNdw8Rb1AmVf1qnvAkrklyUvrBONW+502LvMTZ8CnMPTS24Wk7XTtqFCBb4KoGqrOHSFJ8O9Dc1zW2LeeAaQ4HPxW7zp5CurUdclB9R2+WfPSU0lgYttF1vG+7duEjHaa4mDox8Ojls2i3UfY6W9b8nwiyi8HPYquUcm7G2fLKEcEHK7AfTYIZm1Uq6LXf2wP/xLB5OJ0uBscMMrA8Vk8MM0AmWsQQaNCserIgcv/LqIU3ZEoAZ6caOGSRSrV3qlxZDEatYPYu9FFTSaRXdkSdhKPeORTbweb4580l6st7pjhr1QoVMhdxiezKVAC3k453X5rBjhmPTJzlP8Y66A8/vmLr/biUnIdeZUw==;/h1az+aXtv52nG4u0aJ4UQ=="
+secured: "tvAdCpflhzrqHracBJb2BxwBHl8q4uYk/Qi9RZGHosBnvayoYgOPjKYXb+gmEYlLztjyGwulgIEm8F0edAaR4StRR4eDTvElCRMxqlxLHMAVPia5YPguDmUtbyHp3MBKahDHHaK9PlOMSh1zrNY5m/dcTM7kJNTU8ap82UF/FzGgu7XEmwXEnZfPs0R1CzgYB6TIOJKaHYwqg/ojuR1l6m+ZMhdgh8kr+WPJixRdfxfkpHzWDbp0xOV0aBrZUVNWm9PqlPpjUFVmy7V+DtbvoKQX1lr/telw8n+PNcpLYqWPNLOffPX+RqJSOcVtA+9ZDQ86Bu+iuhlCjOqwspmkfBc9BMro4+mW70BrPKkCeMk=;eD/tTgviaupjtrS9vavo5g=="
 ---
 

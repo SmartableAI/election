@@ -1,34 +1,32 @@
 ---
 category: news
-title: "Kamala Harris to keynote star-studded CNN special honoring Class of 2021 "
-excerpt: "CNN will air a star-studded prime-time special on Sunday honoring the class of 2021, as millions of students across the nation graduate following a year shaped by the coronavirus pandemic.\n    \n"
-publishedDateTime: 2021-05-19T13:01:19Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wTDYD8RvPEw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wTDYD8RvPEw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/us/2021-graduation-cnn/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/us/2021-graduation-cnn/index.html"
+title: "Your guide to the Biden budget"
+excerpt: "Biden showed us his budget. Here’s what it tells us about what his White House values — and the signals it sends about where he’s willing to spend the most political capital. — Overall: Biden is proposing a $6 trillion budget next year,"
+publishedDateTime: 2021-05-29T14:29:00Z
+originalUrl: "https://www.politico.com/newsletters/playbook/2021/05/29/your-guide-to-the-biden-budget-493053"
+webUrl: "https://www.politico.com/newsletters/playbook/2021/05/29/your-guide-to-the-biden-budget-493053"
 type: article
-quality: 184
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
-  - Kamala Harris
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200707101823-us-college-graduation-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/b1/53/122bb3084ce1a3e0bb7bd091ceb8/210527-biden-ap-1160.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -93,6 +91,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525192338-harris-0525-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Kamala Harris to keynote star-studded CNN special honoring Class of 2021 "
+    excerpt: "CNN will air a star-studded prime-time special on Sunday honoring the class of 2021, as millions of students across the nation graduate following a year shaped by the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-05-19T13:01:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wTDYD8RvPEw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/us/2021-graduation-cnn/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/us/2021-graduation-cnn/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200707101823-us-college-graduation-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -346,21 +360,7 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Your guide to the Biden budget"
-    excerpt: "Biden showed us his budget. Here’s what it tells us about what his White House values — and the signals it sends about where he’s willing to spend the most political capital. — Overall: Biden is proposing a $6 trillion budget next year,"
-    publishedDateTime: 2021-05-29T14:29:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/05/29/your-guide-to-the-biden-budget-493053"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/b1/53/122bb3084ce1a3e0bb7bd091ceb8/210527-biden-ap-1160.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "/Y5tpj82QWue259YYRtie0IYryajXs7NM9vym9KqxMqk5958i/tJGTf0WDKc5ZWImWCTJ0kFszkAPS/FWU6CKUUVy6QP4mcRaNlx4ATovg1YjAamz2JmIYXu4+IAnzaOFf4NxFBzHa5lNeUgxY2E76vDcOklGHhMwWXZXdHGLSGntQx7xGpy5BfG8Mb8yJLNmUUMdyT6lUsQwtPLe4K5gPd0oMwLKtzsm7YITuRhHTlEifDqW5piSFZ/QQJqWO+mnTHhtEaL1gtNeWQ6yWOq4UdoGH6LBKGw9sdCSkqhX/ip6e1u9QdU3t7pYR+o7t4se0x+1aefpNO4AfNvK2UbRfraBSMY7keHXwuyDPztpUA=;lV+QVW4+hbBb/ZFQXxC0Mg=="
+secured: "dlXZ2hiB9efJTMInosrSiI+FCJSytv5u9QfRq6VHd1BmiA+btk/dIJSRc0KiPVWRtCeW2H1Jq4Hkm3osWpiVT1MNzoOJaob2iay8vIKWUYR7NTOUg1PILWS/qbG8Kuaw99YpfO+F8ilxSOTLiWfgP6b0eEupRt97S1YwClKvpGGaYMVP//pRj90u/H2r7tBpqHGGDU5KUqLXavXRJCII1Q2qWe8e8qofx1E/efzzBZVm6OjgfHjFUs3sAiK/6neGpvVtjMPbpm1D9mwRGcBh2S/8ZVfjkb7xJQ1zi8utKmDY7wPfA/JTlRRJLSD83wRBA79uKZOsrGCUIV+fqphO/RuAGKsVv7dK84rx9CDnrx4=;WMhgRvkPgCT/CiWB9141wQ=="
 ---
 

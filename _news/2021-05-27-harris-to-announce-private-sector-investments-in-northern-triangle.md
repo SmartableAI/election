@@ -346,6 +346,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Your guide to the Biden budget"
+    excerpt: "Biden showed us his budget. Here’s what it tells us about what his White House values — and the signals it sends about where he’s willing to spend the most political capital. — Overall: Biden is proposing a $6 trillion budget next year,"
+    publishedDateTime: 2021-05-29T14:29:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/05/29/your-guide-to-the-biden-budget-493053"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b1/53/122bb3084ce1a3e0bb7bd091ceb8/210527-biden-ap-1160.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "77RTGvMsTUtl1hCrvWukALzTtRlN2U/bHznCZjW6ynkvwJZU5dU8nOqT3kR9WlC/U0EQhXlRTQxMtW081I+Jsk8tzmc8xsf5C0mNnmCu6xIQ4kDDVAXMIbubQBUtuyyjRvmKgnfJvVJjFOW5e61WLqVMd5JE2R8ltZh5UVijBd6febwPcAYj8uK60+vJ+OV0YiTLHZ0owC7r719BT4VOpeXPd2TjuZs+55K5cCzTE1n4GtNmzBvhwRF6Caeg5Yf78NUZLt5ai/canAKZqzr8uMOWSIyjZrzE0V8pdMIfTH+C3KTCq3RKczfjWhCvs+EpIunyegkbRScUeDvQGLIvgtx+nj7Yun3zd0yzX6hEaCw=;GpEKo74Y2PQvNmO2++AT5Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html"
 type: article
 quality: 200
-heat: 600
+heat: 620
 published: true
 
 provider:
@@ -345,6 +345,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Your guide to the Biden budget"
+    excerpt: "Biden showed us his budget. Here’s what it tells us about what his White House values — and the signals it sends about where he’s willing to spend the most political capital. — Overall: Biden is proposing a $6 trillion budget next year,"
+    publishedDateTime: 2021-05-29T14:29:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/05/29/your-guide-to-the-biden-budget-493053"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b1/53/122bb3084ce1a3e0bb7bd091ceb8/210527-biden-ap-1160.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "i9Jeao2wbfYljDmXHTQ52S2Wz6Z/1p1rIXH513AU0iGf5LddddQtoNejn8a2WEJr5ZURaU/ao4fz59jwzT5n+ZjP+I0ZnQhns1CUcSS9TAuVYNdW/Cd1rZz0z74j6bviC2B4pZvgjuCNS3mIj1gDpJBMRFauPv/puacsaWW/2nUiJ4Wp191qzTuE7PqLc4BsdkOimHLjS7RN3vS7UscRf6ExSALMtroK3tiymIKTM5/tFKviA2S1r/OcqaunZ1iEGnthAqGlDEiFq4xJ1x4VrK6KW7V9YqhxlzdGVaAOdEy4nIUNuZv93pNsGNFC3FwMGgcvX80j3ElrBIWeZFHaE8a3mUpAi3T7v9mXpN0BW6Q=;5oZ3s7KPOkJCuwX1rGJmlw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kama
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
 type: article
 quality: 124
-heat: 344
+heat: 364
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/31c81e80-1f86-4c01-a851-13513731248c_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
+    excerpt: "Vice President Kamala Harris will mark another first for women Friday when she addresses the graduating class of the United States Naval Academy, becoming the first female commencement speaker in the school’s nearly 175-year history."
+    publishedDateTime: 2021-05-28T18:14:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
+        width: 1200
+        height: 831
         isCached: true
   - title: "First lady says she's 'moved on' from reported anger at Kamala Harris"
     excerpt: "First lady Jill Biden on Thursday didn’t deny a report that she uttered a profanity about Vice President Kamala D. Harris for accusing Joe Biden of racism during a Democratic presidential primary debate in June 2019."
