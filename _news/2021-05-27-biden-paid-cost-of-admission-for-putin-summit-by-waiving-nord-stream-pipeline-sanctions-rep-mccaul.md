@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-putin-summit-nord-stream-pipe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul.amp"
 type: article
 quality: 159
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden received funds from top Russia lobbyist before Nord Stream 2 giveaway"
+    excerpt: "President Biden and his allies raked in campaign cash from a top Russia lobbyist in 2020, just months before his administration’s decision to scrap sanctions on a controversial firm building a Russian oil pipeline to Germany."
+    publishedDateTime: 2021-05-29T16:45:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2rqyg-IALc/biden-received-funds-from-top-russia-lobbyist-before-nord-stream-2-giveaway"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1312682563.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "jvpOZNyrb1fwZaJbfSY8PS7eOCUCj3VqD54Avw3eFAcMvPzllrU3qGArIjUDuI8O0h07k6bCNOUY0HJ2hLs5oLrLWuuZh+7DjZ3PA2O7lC6rdv1MREp5SILpiLzWUl688f0wC+Ql5TM/gl4V4j/1BwaZr3mK4waGUa7xBjzBuZ3FXlRZmeDOOAH0nzkZ5QK1soyxg6I/RX+YG0M3JuYuLLDg5rp8KOoX3DYyvs9G0ScI6Kx6YHS4h4D0csbwOgXoccyKQNLs3DQqWEJMtUrp8lKEgxezRZ9N7mOiF2ytinFu70rR19HPe9AczRAz+kRJfIV1xwmOZqbQh6ZrrTlelj2yOwmCFvajBsRZn5YRZY8=;CTpUn3yMIhBn0lKAeJzsGw=="
 ---
