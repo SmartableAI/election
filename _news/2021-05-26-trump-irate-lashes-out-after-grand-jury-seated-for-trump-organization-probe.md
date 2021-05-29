@@ -255,6 +255,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Capitol Rioters Will Blame Trump, Fox News for Their Actions on Jan. 6: Report"
+    excerpt: "\"The reason he was there is because he was a dumbass and believed what he heard on Fox News,\" an attorney representing what of the defendants said."
+    publishedDateTime: 2021-05-29T19:05:00Z
+    webUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149"
+    ampWebUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1810065/us-capitol-riot.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
     excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
     publishedDateTime: 2021-05-23T09:04:00Z

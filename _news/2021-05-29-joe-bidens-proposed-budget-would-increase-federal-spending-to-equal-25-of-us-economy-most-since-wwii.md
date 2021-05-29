@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden budget highlights: Lots of spending, taxing the rich"
+    excerpt: "President Joe Biden’s $6 trillion budget proposal offers major new initiatives like child and elder care subsidies, generous tax credits for families and the working poor, and free community college"
+    publishedDateTime: 2021-05-29T03:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTD5AHF744I6XERKYQGJO5F4JA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden's $6T budget: Social spending, taxes on business"
     excerpt: "President Joe Biden is proposing a $6 trillion budget for next year that’s piled high with new safety net programs for the poor and middle class"
     publishedDateTime: 2021-05-29T04:02:00Z
@@ -61,6 +77,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden to double funding to U.S. program that helps prepare for extreme weather events -Washington Post"
+    excerpt: "U.S. President Joe Biden on Monday will pledge $1 billion to a U.S. government program called Building Resilient Infrastructure and Communities that helps communities prepare for extreme weather events,"
+    publishedDateTime: 2021-05-24T14:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LM01V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LM01V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
 
 secured: "pP9mAYO77t4TCsdDc3Dxm9fJ3NDr2gqw2N0BzscD2R+J2H6iR0oISg79MFD98Na8NRPHJtqsLEtjANsO4TROhcnRUF0aqPUnMyL9BMmQ3P8YnQt0uBv+MFLdjYwyMyRKUWdMChdOpn/9GOdLMtWOrL5vpHlAcyRN2BAP8zEpqyCuZ+MMZIRw5fRyvhd85r8PUlDaTqjoHBcWgU+8qtMeiXKOo6rVnQjOscU3wyIBEB1/l82i+pb8T3e2QDnoh35mDZDxmqP4gxQSv+1hedjplgAtXGsL9TzzuPXVGn+HTIHXZozXpbvIyJW20BGfCrgi5Ep0xR7EBXbQKLrZwout4ZQdFmAzHraloYHf+g9UXSQ=;A3USRa6tY1iGD7C+tAGcqQ=="
 ---

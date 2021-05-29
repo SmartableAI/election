@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to double funding to U.S. program that helps prepare for extreme weather events -Washington Post"
-excerpt: "U.S. President Joe Biden on Monday will pledge $1 billion to a U.S. government program called Building Resilient Infrastructure and Communities that helps communities prepare for extreme weather events,"
-publishedDateTime: 2021-05-24T14:21:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
-webUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LM01V"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LM01V"
+title: "Biden budget highlights: Lots of spending, taxing the rich"
+excerpt: "President Joe Biden’s $6 trillion budget proposal offers major new initiatives like child and elder care subsidies, generous tax credits for families and the working poor, and free community college"
+publishedDateTime: 2021-05-29T03:05:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html?outputType=amp"
 type: article
-quality: 89
-heat: -1
-published: false
+quality: 125
+heat: 205
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,23 +24,13 @@ topics:
   - Election
   - Joe Biden
 
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTD5AHF744I6XERKYQGJO5F4JA.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
+
 related:
-  - title: "Biden budget highlights: Lots of spending, taxing the rich"
-    excerpt: "President Joe Biden’s $6 trillion budget proposal offers major new initiatives like child and elder care subsidies, generous tax credits for families and the working poor, and free community college"
-    publishedDateTime: 2021-05-29T03:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTD5AHF744I6XERKYQGJO5F4JA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Biden's $6T budget: Social spending, taxes on business"
     excerpt: "President Joe Biden is proposing a $6 trillion budget for next year that’s piled high with new safety net programs for the poor and middle class"
     publishedDateTime: 2021-05-29T04:02:00Z
@@ -87,7 +77,18 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden to double funding to U.S. program that helps prepare for extreme weather events -Washington Post"
+    excerpt: "U.S. President Joe Biden on Monday will pledge $1 billion to a U.S. government program called Building Resilient Infrastructure and Communities that helps communities prepare for extreme weather events,"
+    publishedDateTime: 2021-05-24T14:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LM01V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LM01V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
 
-secured: "cHV+koMf+5IF29CqoeRfMBQJ459ZPb3aliRW+emmrCpJnXfozF5KgQspSjNb+x5KDkuXXMeOeJ9OhaHyYg0Hm2gRzoqXXlLxYA258WLFAarf43vAeRDaJCQ1D/t+M5VS52cAer4TPYKB0vKAdAowSLGgts4HD/jcXCyXqTAwxz3/CkP1vrW2CRinnYlsotmUENqeConji0tsnZuoNZ/D0KJ8DRPvy/WzdfgReKJmbcWKG1k+pC/5Nr+dlVAdbqje2bcEDQgTJeW2eDsKkLcPsTgKi1xif0yDpNp/G56+Jx00QCwBpZifdslhvWwB7PcUvRI4bhQiIR+VhugJTcOIXrNPpK0Xw2VsZUI2Mr7nbvs=;CA2GpoWQQIXf7F222k66NA=="
+secured: "hQV+QJSmyCyY9NHT2lnBI6Q6n4m9+wV2DWLys3cVdw8MqmDzlc+MYWWszD9vOSsJuMn7HlnR5K4akuGT2+SeaT2kleosmUx4Ko3RnwkTePeyB7P4zVP2u4of6stowX9QE1Oj1gvP45qq7JeIloeIPZVWO1Ga2QBbBkEZfMPUQUmDQft1El1O/VkD6doVBp5OM651/YsP8+VQdpDmw+1ZVRui3nBQdwY/RB4wWubKqMNwKTq7GJc3qYXaFSDsDXNipYWi17TWJNSkSXth8vOeW/SiOqhM7F/giYN3z84vPKzswBwvzgu0kj4Fzj9Bd1ZgTStyrgtVMoPqQBP1P/5Dj4hgLqtO59HbhUfVAaATwOA=;5ufq+/0NW5DmbTLSBnJbmA=="
 ---
 

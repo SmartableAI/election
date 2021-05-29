@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Right seizes Trump playbook to blame migrants for environmental harm"
-excerpt: "Arizona’s attorney general has filed a lawsuit framing the climate crisis as a nativist issue as the evident impacts of global heating make denial less viable"
-publishedDateTime: 2021-05-20T12:19:00Z
-originalUrl: "https://www.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-webUrl: "https://www.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-ampWebUrl: "https://amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+title: "Capitol Rioters Will Blame Trump, Fox News for Their Actions on Jan. 6: Report"
+excerpt: "\"The reason he was there is because he was a dumbass and believed what he heard on Fox News,\" an attorney representing what of the defendants said."
+publishedDateTime: 2021-05-29T19:05:00Z
+originalUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149"
+webUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149"
+ampWebUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
 type: article
-quality: 125
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/b289fcf53999c0954984c5be84fc6913d2c7a48b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=554f7d094846e7ccadf088f01921c64e"
-    width: 600
-    height: 360
+  - url: "https://d.newsweek.com/en/full/1810065/us-capitol-riot.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2018/12/13/PPHX/5db3c5fd-6011-495e-84ad-54169aab376c-Day_5_Promo_2.jpg?auto=webp&crop=3199,1799,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Right seizes Trump playbook to blame migrants for environmental harm"
+    excerpt: "Arizona’s attorney general has filed a lawsuit framing the climate crisis as a nativist issue as the evident impacts of global heating make denial less viable"
+    publishedDateTime: 2021-05-20T12:19:00Z
+    webUrl: "https://www.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/b289fcf53999c0954984c5be84fc6913d2c7a48b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=554f7d094846e7ccadf088f01921c64e"
+        width: 600
+        height: 360
         isCached: true
   - title: "CNN: Trump Justice Department seized reporter phone records"
     excerpt: "CNN says the Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent"
@@ -238,22 +254,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/sB5cQgbvIQZhpKMxyt-M95yTIwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NRXIDCVBOSJ4I3MD7H43RSYGNU.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Capitol Rioters Will Blame Trump, Fox News for Their Actions on Jan. 6: Report"
-    excerpt: "\"The reason he was there is because he was a dumbass and believed what he heard on Fox News,\" an attorney representing what of the defendants said."
-    publishedDateTime: 2021-05-29T19:05:00Z
-    webUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149"
-    ampWebUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1810065/us-capitol-riot.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
     excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
@@ -447,6 +447,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "4lrbsglVLx4uVr+Qk0N5MC10qO7OldXnD6CH8fZkNA9BQDo9yUjA51LGMBeAu2JawJikTPYXoPO1cH+w1y1+nd8cpYG07n3grvBXLBbs8Fn0E1bjOU4tuwZ+O6XmRQN8VI76w9GinEbSKF26+Ze6RYJihyxiJUJ+TIHMx7h+1NzVj7AB4U73SbbY4seK3BUjSjhYfLU9LbO5N7+kNC7tvFDtuBiCUjPLr4Gai4GWdd76RTcXznUZKxq/Hln4dbkc8jmH4WVt2KYYYzv7VIAH5wlFMVcmXvy9T8SLbK1aAIJc7TB78Mc++FIAFJapQirFq1CjIf44VOi7ajoq6NyarAZNwAuJZh6/dARsr6TOfux9bF+LlRBotWKLNGz2TnC5yr5v75YFmI/CLW22AG4rPVLb+Vm1SD7acOPmcdlWb+dJFTLipC2W/sIlq0ccywUVP1m5vEp1pNTtySzo3Ng2/qE3KS4kFRp8Bn7JdVqwALTmrjn4r9O9dppxGI2Eq5SmAQ5HhbSqQe+hChvQA8ELrw==;h8x7o4S4esGNIY1zaWp2bQ=="
+secured: "NqlVkjHr8dBkisBGDe7wwOwbN8Y9eUJMlNZvbKWtZH+JxSQXK3WAWOjNncWgcEJFyHZPrY/3eRe+jhcxjkW1tmS1XNYVsIYrFgeLSjFLFgBolJ5yoKB6LIP76rRrTXvWsHyADaHbwqRAzeKGI6ncdDW9fbj0ifyozhErOefwzsI037BgeH79tBTWIh60UpV9Mxpwz1Q+xDaZD1NY/cTnI1HQ6LdZLf01LGXrqbL51NEJH8PUSNr5utsxjltxejzjXIG8j0ca5b17gm3v2sAAOPvwMYtvjSu0/pciP7dSFuwfggpt0BD/+vB71KRA0gykccgmBCt1inJb9t6XTi2BvRMdag1yAlzuxwGZa6Ok+rs=;FlxHt53p9zwcUB3Xon7Z+A=="
 ---
 
