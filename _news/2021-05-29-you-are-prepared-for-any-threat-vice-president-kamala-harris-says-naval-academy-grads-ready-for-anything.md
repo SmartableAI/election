@@ -71,6 +71,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
+    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
+    publishedDateTime: 2021-05-28T12:24:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
+        width: 1200
+        height: 831
+        isCached: true
   - title: "First lady says she's 'moved on' from reported anger at Kamala Harris"
     excerpt: "First lady Jill Biden on Thursday didn’t deny a report that she uttered a profanity about Vice President Kamala D. Harris for accusing Joe Biden of racism during a Democratic presidential primary debate in June 2019."
     publishedDateTime: 2021-05-20T19:31:00Z
@@ -165,22 +181,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
-    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
-    publishedDateTime: 2021-05-28T16:14:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 55
-    images:
-      - url: "https://www.dailypress.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
-        width: 1200
-        height: 831
-        isCached: true
   - title: "Kamala Harris cites challenges of 'fragile' world in Navy speech"
     excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
     publishedDateTime: 2021-05-28T17:04:00Z
@@ -191,6 +191,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "9JBkt/zCsCbWYdtc9Atu/Y4KBgeqy+Ap/qTNY62t1v5amGeuscMDNmEO8f67tCi7hvXjHxqyBqZzkajeKKbO9Y3MwVTayv6SJlINi6rDFhr9PHpB1YJWY5zxBtuC3HqBB87K5No3WTQI0sr6bbszs4I/0Ax2Nr9KkF42fYs3HhIfVH6auUfdf5B6PF9uxBpZUARgNrhx6Zua43vawJ0SszCPrvxUrAi2qJWA+iR4lac0Kx/eHgtNBdmyDSXiSxuwSlloISeurDifznTD58c//q/W6JBDWtOopRAoDtrP2qcvBEmxZFHp5K/f/6tJCey+pbhtzFe5Rr3R/vjAjyhDtLEnx2Krra0Vy4Zit375AcM=;/BhNTJB3e1VB2TSymxT9KA=="
+secured: "uMD7ZsmdioKugT+uLl3uUKyPfP8P5S8ptEZ99DOrrVVzwKzRGOgQBEbMWn2rhW2fmk3XJoI5TCsF+UtXRG3Z8dSdv8v5lGBS3xg4yCQUkv0NJMX3DDhzBnwAJaNkZxCeIAB5tOZW/cJ7AKryiqEpWSQ5cbokiqp/C91aN6QZ0pP1rzfcqUeRvqdTVun1TTHxrs5pc9e/l6o6f/fzMLjyBXkwNY7+Jow9dwtiuOy90V7ijZj0Pw8i9yV7x+UsMWENiZgHZwhEJonUcmmr6CagDGnygIXb8n5/7uYy+RV10jZUECrKW3iwATeway0sk9SjYcMOuB9pDJL2wnUpnrf1xMuj7dI9qoP1Ja5IWJsFlQuw4DfJgLD4V12BwFptr3PYAK3obauL0BdHIFWP9hsfhjUP78UcEgrBYDyIa2aIj6wD1hfmmPVwKSuj36Fb8jg6puymVplaNCn6gWiUQVx+t3HULggGq0V51oPVryjRwuVaDcJQ/KglqohGKecSKUozbXXo3Iz2ewmk3ZA5VGD9eQ==;oRXd9cRgacQ4P+dpnZmhkw=="
 ---
 

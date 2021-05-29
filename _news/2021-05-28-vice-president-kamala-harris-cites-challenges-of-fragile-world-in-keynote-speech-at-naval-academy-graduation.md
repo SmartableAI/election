@@ -2,26 +2,30 @@
 category: news
 title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
 excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
-publishedDateTime: 2021-05-28T16:14:00Z
-originalUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+publishedDateTime: 2021-05-28T12:24:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.dailypress.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
+  - url: "https://www.chicagotribune.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
     width: 1200
     height: 831
     isCached: true
@@ -191,6 +195,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "tIR/ecJ8CUjJ/tm0zI+sFlehGbd1QpkF+kn13J7TDfEJmBTPxuqVFGhJlFsxghFnohCe90Kq3bl30glt6KNiyTs+mwYrkd6ZnHL6OjA6xhszy9+O8T001V240z01SpH6nUWlkCeTHzQLrqMzqbnUCcwsn3lA+NcFgdOidQExRcgfWPgpZYqZScu981EC9O7YGtyTZ/TbvpsGmHNAMnHWbUp3quMPBVNyDq3KX2jyBUZbDD69UhzQjbfZ8+sbUDNH1xNrFauIsLy1Rv7f4boxOBhr1RVOBlHCCSqJrSVF6ehlpkBfKeUNAp583l9Fwa8+suJwZN8lJhvPyeGnpT/XMff2D/ZtTUYtfl0EvgqD3g9e8noy7Lzx6ei2HgCc0Mj0ihW4HBeAMYXwHHHKLxVeYg85MqTNLtkg8XsvCz1B9m2STcSZtsNIydxpPAgnwGYpLZmaszjDstgwA42prv2osZxX9hnu85bXzuvB95W/QGRPUyw+WcaxzFiCasR4uYm+MEJ3r2Fe5Z2DCAqNgiqbvQ==;+o6P0M2G3dU9/cPe9ZtSmw=="
+secured: "Nc5vp+zycvXZJpOWf6zqpjxgUTHkS/KMWKBWzxrfp94To0+8k61qcrbsQ42c16pIHtmXzwOqveABs+bfOl2XyUob4iOecfAx8lGJpAsKXawN/vs/bo5jcA6f6gaWqp3bQi8ziDwNlJw1rmhBz4wIfXenJFiCstzdcCCzeGwmMfOGOSWDQT8KbuQcwx+6+jh4RtfAD+vSH4IM60nd+8UeXSLdgFBD2HJ5/n1gSRepNByTOILTwUREgBwegLY+6fSzJIomUGVwMzvlWLBwuR0WfUMs1Gh2jlk8jiXERGPT9CE3L09zaaPUuHechAi2DaAnCfFxDyhGQPFUNZqK7evJtlI/eDw4xQOg4BD1tdl0RIs=;+6j67XKqVcjO4aGsimMMpA=="
 ---
 
