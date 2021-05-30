@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-harris-root-cause-border-cri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp"
 type: article
 quality: 181
-heat: 541
+heat: 521
 published: true
 
 provider:
@@ -283,20 +283,6 @@ related:
       - url: "https://assets.realclear.com/images/54/543529.jpg"
         width: 1038
         height: 778
-        isCached: true
-  - title: "Kamala Harris's Impossible Vice Presidency"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-05-17T11:39:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/543462_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "VP Kamala Harris: \"In My Life, My Lived Experience, I Have Seen How Hate Can Pervade Our Communities\""
     excerpt: "Vice President Harris spoke at a signing ceremony for an anti-hate crimes bill Thursday from the White House. \"Those here today are united. This bill brings us one step closer to stopping hate, not only for Asian-Americans,"

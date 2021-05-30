@@ -294,20 +294,6 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Kamala Harris's Impossible Vice Presidency"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-05-17T11:39:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/543462_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "N4dBxZmfyIpxLBG9dd2l+sF1rAh/+L1wKCKoMyr/fbh7BcmI2MVjlBA6jH4p8nb9H2hKMMcD86zuAR5Cc7DPqGOjOAj7YAQT4CPocojinytwIZMpPUQaTqDBqrzY7aJ5gIULFvZW5vpB70B7JMyrF38/gLaohGyx2i1PyDwdVSKCMv/T893DW16zPWOtsjfsmHFqQFsK1wCh1RN9jNTPwk1/T7WEnOoBgIJrwQfL3atX7SCglXada4iN9R94YauLobA6n6Y5aR6U+71QagzeX4CEJBtQ+xVaCeffs9UzDh3zIimHIjFjM0QK5gAoRWgHRgiRZtta7zrtHnEQ7loZj1ezOd2gNBlAV4PvRTIB2itIFenSlFLbFoxrman2zESbMy6+7LVYhFi49K5hw7TKiZMIxjd8bbTFxkOWlbFNdKRyZLzQioaxYhis7Rf6ppMc/HsWkbUVpsGijwrsy+pzBc5Vq9AFpmtBPpKcux+Ew8zAzPNey4+WXpmQZ9vkCBRePFq6vP00aViTGwYvSuxXBQ==;5wC0Brq80/ZQdJ3wwwPE3Q=="
 ---
