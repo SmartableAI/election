@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-navy-graduates-us-new-era-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-navy-graduates-us-new-era-covid.amp"
 type: article
 quality: 185
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -128,6 +128,15 @@ related:
         width: 906
         height: 678
         isCached: true
+  - title: "Kamala Harris' Naval Gazing Speech"
+    excerpt: "On this Memorial Day weekend, what does Vice President Kamala Harris decide to talk about in front of the Naval Academy's graduating class? Solar power. Read Full Article »"
+    publishedDateTime: 2021-05-30T11:15:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/30/kamala_harris_naval_gazing_speech_543925.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "yjlUW+FiVs8jNr3hcuKRi2HL9gvd4Yg5oSb7UYswWWe2x6/vEocelqYwuImsNi5KpG0IcF0Oyjc13caMGOkhACGi0CUN961EHGxuEAcrtEYpJS5r3o4ypHUulIZo6tOX095H7MkzMVswkY5ZdEhrkFNrsc6mIe8ICVr8i07gA9Six4KfSpbi06eUqlotfonIG9jSbdtlCBrJDFMxNVyA9UvG68rIL3qveFyUlEmG4aHRxAZ318++ixP/6k4nm+2eCRhW/sGbt9ajlAAuI7VFRYu8N2JVPTUZYioKunhTUv/ibVqQrc5Uqu9TkfsjMAu/WWnCrq5FGw2eRcAg8mwFZK/cq8B67MJpEWH87dHZzT4=;RIEnzaf4gN1+8DHAv+MWNA=="
 ---

@@ -124,6 +124,15 @@ related:
         width: 906
         height: 678
         isCached: true
+  - title: "Kamala Harris' Naval Gazing Speech"
+    excerpt: "On this Memorial Day weekend, what does Vice President Kamala Harris decide to talk about in front of the Naval Academy's graduating class? Solar power. Read Full Article »"
+    publishedDateTime: 2021-05-30T11:15:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/30/kamala_harris_naval_gazing_speech_543925.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "p1DbdNrMzwuzw/anqWSpoheKTpsBy9X6lTPKrT3PA9EVn0TEZqCTM5DuP+H1usFBRANzrFzvVEcuc8qjFWLf8OfPRyP+j3JxU7gb12E0cAhmFPwXKTlJ2KJtWljl9KzcYP9fw6O8MzZDKrf2bdNR0ond2P5GfB/Or6m7H4DNf09B/oCZY2vUal3yUS9lVK+Dn+fmA5RNLGeaQ3KPfkPHFyl+EWbuSB0IYjuiWR1AvSHa9U0bEe2dE+qfFsPZCEe9b1J3V6TXkONI1XoooK3VoNVZ3hjjYLcg0228MhCr6GU33Yptr7obUbwxLKMjrZTlR5KfJNt8KX5q9I6QHap4jnFzNBbJh+cSqIctsIuqt/imObFkCapej/2uDwSEbIU8E/AwAU2T2fnYjTXxWzXWztD0r+E71viTreR/bH6grpmUO3VSyFlGF4aWoaDGPe3S1IzUeu+i0S5tM1sOUEo/NscL6Ai0Dbb5FN9KdH255CREyJc8V631UggEnGTERbZbrxJP57vLCAm92omB4uwH6Q==;tOP5dZM8WMFLGpdW7BPgqA=="
 ---

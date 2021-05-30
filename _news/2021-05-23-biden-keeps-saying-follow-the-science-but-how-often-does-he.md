@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-saying-follow-the-scien
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -171,6 +171,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Joe Biden, Budget Buster"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-05-30T11:14:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/30/joe_biden_budget_buster_543949.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "gMG4BB9e9URwdg+KNsuqKTmvwVUlJUW2NGf3AUOI4hOG1KTrgksN+pC/ARvx2QO5OYLcEjpJ3SJ2auQsWaZdJxu9HEfAJzniR0iOJM6ylwGb7XvV7L5vaNDa4PPTTKCiSYXL6LUfe3YDYSVwdPE1UZ0DOFmU0p9ZF3oAJ2QztGfEXscRO9Jbtoy1jQ32Qiv9sE2RLFxIj7z2WpjtWTZAlXTv9DLG+Y8/0M4HzGIwXL1Hjou+bhY984PK0JCJInV/GyrwzUGt1FPcONlUYPC/CUAqU2calcFUnBXPSufPsyO2KpJOJSiITSW2VpmKtu8P58Do9FMtVRhOp0EBkjJcCig/yn/oEmGsJuU12LBo1Kw=;Obt/FMHTelHpvW/v41Ciew=="
 ---

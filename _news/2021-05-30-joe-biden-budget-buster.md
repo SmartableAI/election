@@ -1,34 +1,23 @@
 ---
 category: news
-title: "Sen. Cotton: Biden has been 'rolling over for aggressors around the world'"
-excerpt: "Sen. Tom Cotton, R-Ark., argued during an exclusive interview with \"Sunday Morning Futures\" that President Biden has been “rolling over for aggressors around the world,” including China, Russia and Iran, adding that recently the president “seemed to draw moral equivalence between Israel and Hamas when"
-publishedDateTime: 2021-05-23T19:33:56Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gRfrqjG4MkI/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gRfrqjG4MkI/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world"
-ampWebUrl: "https://www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
+title: "Joe Biden, Budget Buster"
+excerpt: "RealClearPolitics"
+publishedDateTime: 2021-05-30T11:14:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/05/30/joe_biden_budget_buster_543949.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/05/30/joe_biden_budget_buster_543949.html#!"
 type: article
-quality: 173
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
-
-images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
-    isCached: true
 
 related:
   - title: "Biden keeps saying ‘follow the science,’ but how often does he?"
@@ -94,6 +83,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0916bb05-88a2-4f06-af1b-c0914f4a8a81/4ab6e42b-1bf2-4e13-a08a-5403da397d36/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Sen. Cotton: Biden has been 'rolling over for aggressors around the world'"
+    excerpt: "Sen. Tom Cotton, R-Ark., argued during an exclusive interview with \"Sunday Morning Futures\" that President Biden has been “rolling over for aggressors around the world,” including China, Russia and Iran, adding that recently the president “seemed to draw moral equivalence between Israel and Hamas when"
+    publishedDateTime: 2021-05-23T19:33:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gRfrqjG4MkI/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden faces mounting pressure on abortion ahead of budget battle, SCOTUS case"
     excerpt: "President Biden is facing mounting pressure from both sides of the abortion debate as the federal government prepares to make potentially game-changing decisions on the issue."
@@ -171,16 +176,7 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Joe Biden, Budget Buster"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-05-30T11:14:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/30/joe_biden_budget_buster_543949.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
-secured: "hXNgUL1TVg112GNCYD+Wox+ydwtrl40N/DpLOtwwIVjpfLmfP2BhFIlLP2MxZOwnddjuMdrjFtFzW/z3uybGyIoYd1LkIbPRQKc7ovmQjIZcN/lcNAFe6RGPW+HEJrzy79P/L02C93gY8PwRW4Y4MCh3O1vmkDDPSzrewBBuUf629GnwTHe4uJ8qnQsFvtVDWSphIpbA42aJwg23OF1iUsAAMDLvm8oajmU0TJY9kzc40yLqmiQuqwa68DRizmF9S1sxR74Alwr4W74vK1TWeRzmktSGnt4Q5fCPXWy+FyDWl/sXvIkSumfbywHjmxPaBaCEkoVmvzlJliHaxUKWV93qHUYRv2MdVWigrDkNYsU=;dTckWJL5LX+tG27dAxsF+g=="
+secured: "aDzpGdEZGMb4odVx+MoDO5/DJWqy09zxZFtOBc1UyepvPeATmUUxkeDW4vGc6qBC3Ai9fpL7l060k8qinZ7FIQfFn6zr7Ei0JzAlG/fi48kpZHSMon1U8kReSka+hPjCKFVe00eGS2UwDMq35Q3jLVIDgQoPJigC662RTY3SbYT3OI33QHZzla3JSL89stH1lX+oIcZhGjym3NCtW4I3eAzsUSpXRyzsNc1Ym5iERfpPAPAj+v8t3NWdA6jAwJf5QrDUl2Gt8QflbI9RsmpVrhSavAoAxzWXdLh9v7BvVCDFeRa0c2Ts2rmgEi/22eTgtdWVW3mnePmKXkAoaoqvdq8dWQMf2Fn2z5cvEWGYrsQ=;rCThlGFyxPjglEikIp+f5g=="
 ---
 

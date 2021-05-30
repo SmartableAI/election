@@ -1,35 +1,23 @@
 ---
 category: news
-title: "Harris to announce business investments in Central America as part of migrant strategy"
-excerpt: "Vice President Kamala Harris on Thursday will announce commitments from businesses and other organizations to invest in Central America to support economic development in the countries from where the migrant surge – which has overwhelmed border officials in recent months – originated."
-publishedDateTime: 2021-05-27T17:57:04Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r91cxfOihLM/harris-business-investments-central-america-migrant-strategy"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r91cxfOihLM/harris-business-investments-central-america-migrant-strategy"
-ampWebUrl: "https://www.foxnews.com/politics/harris-business-investments-central-america-migrant-strategy.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-business-investments-central-america-migrant-strategy.amp"
+title: "Kamala Harris' Naval Gazing Speech"
+excerpt: "On this Memorial Day weekend, what does Vice President Kamala Harris decide to talk about in front of the Naval Academy's graduating class? Solar power. Read Full Article »"
+publishedDateTime: 2021-05-30T11:15:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/05/30/kamala_harris_naval_gazing_speech_543925.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/05/30/kamala_harris_naval_gazing_speech_543925.html#!"
 type: article
-quality: 177
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
-
-images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
-    isCached: true
+  - Republican Voice
 
 related:
   - title: "Harris tells Navy graduates US is entering a 'new era' after COVID-19"
@@ -61,6 +49,22 @@ related:
     quality: 179
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/620dd3ab-147f-4f05-be56-8a696242ee15/bf821495-2d40-468c-b122-51299dbc1f2e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Harris to announce business investments in Central America as part of migrant strategy"
+    excerpt: "Vice President Kamala Harris on Thursday will announce commitments from businesses and other organizations to invest in Central America to support economic development in the countries from where the migrant surge – which has overwhelmed border officials in recent months – originated."
+    publishedDateTime: 2021-05-27T17:57:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r91cxfOihLM/harris-business-investments-central-america-migrant-strategy"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-business-investments-central-america-migrant-strategy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-business-investments-central-america-migrant-strategy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -128,16 +132,7 @@ related:
         width: 906
         height: 678
         isCached: true
-  - title: "Kamala Harris' Naval Gazing Speech"
-    excerpt: "On this Memorial Day weekend, what does Vice President Kamala Harris decide to talk about in front of the Naval Academy's graduating class? Solar power. Read Full Article »"
-    publishedDateTime: 2021-05-30T11:15:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/30/kamala_harris_naval_gazing_speech_543925.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
-secured: "/kIxtBuOFIyaltYgIQAdLTNrHnCP948pCwzNjJf22Rodo8G2IJUf0bU7A1FCZzB/6WXu8rzWVdnPRt07GAAAxant3nKu3qOd5BiMhNwldZUvhYOW7Aof8E1O2v6VEivsxZSpwB/MoZNZ/e2OZ3Edd31rMbkM4W9bs/1p2iL6RdFg3tcvDEx+vwBsevqH0Le0b7DcGNMngZsXjAs6aL33dJIqSVH3oLkvYeiAP4udIzc2wtTgD9VB0BurjUWw6Lfd/gv2ou32dyJ8NCOryZuhQ7tDXwLZIrADXtwa29oCxdRUneXhMCWzNCs3RVAtAeGiodq8Vkr4E0UXTt3sOeu0o3FnYTFHzDBtx6uIuJ6+bJs=;jRdzmoiC7Y+7sj/qQ5H50A=="
+secured: "TY9FnDVnjvhzqU7iO/BA+rcT0LwJTYmnOxLhwRgDfjbEC0wBeH6jIPSNEL4bs3In/BQtVhYXW2N7gvZcb6VzaglOK3PwfWG62nWB0RTj+cr9pn2d1iHs8+W3GtWWYGH5Wh8Y2EubQjUm6JIFlkZZypHnl2Gz8Y43sAFc3abjUcDldmc3dpm2Gxc+MmYKsvTxWN0nvI4O0UZdDOfFg4BZhhqUntcbvCD2ZX/WGjZW/RgQ4s9KPMsEeDWggx9DL0izSAMsiK5JKWdRAX+eJT7qUw9YT5Ev6HwKrpwxs1yQxUVPjrB6MjSqbh2n/qM94HQXIP/xiXlyhhGRc7WzM3gwfkVPptlW5xjsQXu0nYQC8T8=;Ne2H2tyDWa9665KNmgbWrg=="
 ---
 
