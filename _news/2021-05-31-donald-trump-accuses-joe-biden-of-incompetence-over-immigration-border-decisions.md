@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden DOJ seeks to block the release of a 2019 memo that outlined reasons not to prosecute Trump after the Mueller report"
-excerpt: "Attorney General Bill Barr had cited this memo as one of his reasons not to charge Trump with obstruction of justice following the Mueller report."
-publishedDateTime: 2021-05-25T15:51:00Z
-originalUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5"
-webUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5"
-ampWebUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
+title: "Donald Trump Accuses Joe Biden Of ‘Incompetence’ Over Immigration, Border Decisions"
+excerpt: "Donald Trump said President Joe Biden is incompetent and “destroying our country.” Trump shared his opinions Saturday in a phone call to Newsmax program “Dick Morris Democracy.” During the conversation,"
+publishedDateTime: 2021-05-30T17:34:00Z
+originalUrl: "https://www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486"
+webUrl: "https://www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486"
+ampWebUrl: "https://www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486?amp=1"
 type: article
-quality: 115
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/60acbd9abee0fc0019d593b6?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -173,6 +173,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden DOJ seeks to block the release of a 2019 memo that outlined reasons not to prosecute Trump after the Mueller report"
+    excerpt: "Attorney General Bill Barr had cited this memo as one of his reasons not to charge Trump with obstruction of justice following the Mueller report."
+    publishedDateTime: 2021-05-25T15:51:00Z
+    webUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-doj-seeking-block-memo-release-trump-obstruction-mueller-report-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/60acbd9abee0fc0019d593b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "New York prosecutors convene grand jury to consider evidence in Trump criminal investigation, AP source says"
     excerpt: "The development signals that the Manhattan district attorney’s office was moving toward seeking charges as a result of its two-year investigation."
     publishedDateTime: 2021-05-25T23:15:00Z
@@ -188,22 +204,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/iJZKeYPw-ydSfmuaLrF4ibpV8c4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NATLNQKHQI2SY3VDFU3DL3TF7M.aspx"
         width: 1200
         height: 811
-        isCached: true
-  - title: "Donald Trump Accuses Joe Biden Of ‘Incompetence’ Over Immigration, Border Decisions"
-    excerpt: "Donald Trump said President Joe Biden is incompetent and “destroying our country.” Trump shared his opinions Saturday in a phone call to Newsmax program “Dick Morris Democracy.” During the conversation,"
-    publishedDateTime: 2021-05-30T17:34:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 84
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Survey experts have yet to figure out what caused the most significant polling error in 40 years in Trump-Biden race"
     excerpt: "More than six months after the astonishing polling embarrassment in the 2020 U.S. elections, survey experts examining what went wrong are uncertain about what led to the sharpest discrepancy between the polls and popular vote outcome since Ronald Reagan defeated Jimmy Carter in a near-landslide in 1980."
@@ -222,6 +222,6 @@ related:
         height: 336
         isCached: true
 
-secured: "lBX7wiK3VRldkrcZdO4jjbH1PQwHVsnHAcEA1L6yFOkIY6XIdAwJSlCqU52GCfSYCu2G/+pYQhd6KyU/uHP4gE5S7rOjt57zbt1J/c0oAW9t6viOKSGaW+KCbSx0tM5+8lht+Qlw0KKFI0a4HLH1RyVrO8E2fpO7RHqCOMbHhCzWV9OCtNntvsiXwSm1x8c9Yo0i9FDrtjoNKAveTWjmdoyaHCSmzIOb6V79yLZP95jF+DESgF3UHZAzMItel2/8mzmo8NPASj0TCwkOqEDc7VSulQvE0dTpLPABGvD13F8vCFV2qyFsnUN2JVGqpQrp43HQKSZfzNGS/4TOSeGYdQ5w2Uufk3vc8dK+9iDzbM8=;xNOTcp2pZY4Hk5dTFr5QEg=="
+secured: "V3Y/GNVpddTWKEpjKzEILIsqNUEzJ+hc2rXOCYZgxLOq0kpSsrq9kpmQ/DVKoBYVZXYE3QGtD3vfkdghwW7JMw0j6XDPf60ntBotGxlgSMqqJa7+3buqv7zbCW0y8vwaXQb0Wu64W3Njmx5snmlnbxpZFmqb1MXjLJojSNBi0yC15fS+vVWifNA0jM2NAzOv6d2YujfXWERtKh/i0b9SS4qRSHh94MKHw5UmiRDyuDDrub0aPIjOwGXnLZX9hwqkHF+tZEsRYiDarIzk+0GM5Bd15zKUx/Toy4WxDJFVfcbf1HxFiafPTnAxszwpJadDkgpfBSRThf54UUeMjitmSxZaUPqpP6wSObbezx53XHY=;M5Lwtn36+vUFt6dKmO9e1g=="
 ---
 
