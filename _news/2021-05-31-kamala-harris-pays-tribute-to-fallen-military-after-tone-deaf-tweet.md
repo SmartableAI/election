@@ -1,34 +1,30 @@
 ---
 category: news
-title: "VP Kamala Harris holds unusual bilateral meeting with a foreign leader at the White House"
-excerpt: "Vice President Harris met with South Korean President Moon Jae-in Friday, without the participation of President Biden, and then the two appeared together to make a statement. A bilateral meeting at the White House between a U.S. vice president and a visiting head of state followed by a joint appearance"
-publishedDateTime: 2021-05-22T02:14:59Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sjfy1LMs9xw/harris-holds-unusual-solo-bilateral-meeting-with-president"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sjfy1LMs9xw/harris-holds-unusual-solo-bilateral-meeting-with-president"
-ampWebUrl: "https://www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
+title: "Kamala Harris pays tribute to fallen military after tone-deaf tweet"
+excerpt: "Kamala Harris posted a more fitting tribute to America’s military Sunday, a day after drawing online heat for telling her fellow countrymen to “enjoy the long weekend.”"
+publishedDateTime: 2021-05-30T20:37:00Z
+originalUrl: "https://nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/"
+webUrl: "https://nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/"
+ampWebUrl: "https://nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/amp/"
 type: article
-quality: 176
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48f7d31-128d-48ec-aca5-6fdc9d09c814/3d14acbf-614a-47fe-8bce-546e449638e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-091.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -96,6 +92,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "VP Kamala Harris holds unusual bilateral meeting with a foreign leader at the White House"
+    excerpt: "Vice President Harris met with South Korean President Moon Jae-in Friday, without the participation of President Biden, and then the two appeared together to make a statement. A bilateral meeting at the White House between a U.S. vice president and a visiting head of state followed by a joint appearance"
+    publishedDateTime: 2021-05-22T02:14:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sjfy1LMs9xw/harris-holds-unusual-solo-bilateral-meeting-with-president"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48f7d31-128d-48ec-aca5-6fdc9d09c814/3d14acbf-614a-47fe-8bce-546e449638e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris uses Naval Academy speech to plug ‘rolled-up solar panel’"
     excerpt: "Vice President Kamala Harris on Friday told graduating Naval Academy midshipmen that they may soon be able to pack a “rolled-up solar panel.”"
     publishedDateTime: 2021-05-28T18:18:00Z
@@ -109,22 +121,6 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-naval-03.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris pays tribute to fallen military after tone-deaf tweet"
-    excerpt: "Kamala Harris posted a more fitting tribute to America’s military Sunday, a day after drawing online heat for telling her fellow countrymen to “enjoy the long weekend.”"
-    publishedDateTime: 2021-05-30T20:37:00Z
-    webUrl: "https://nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/"
-    ampWebUrl: "https://nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-091.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -170,6 +166,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "gbbfage0EoXxBWHuCaIkB2D0tq5SrCWXya91ijqs/qOichjfxLkO2ialzgMMyLpkTs0OhaP3kmir0HIH57TuIitR7b70pDNU7upGjWXCjZQnoi8JvQaWaeArZyKN97pXA7TTS5nz1dFnbqE8k6PNFvd7cCwHEh5tdZ0NkftCJ175M9NmRy3/zgSn1sc56HrdR/iuyAm7B3TYNEsVHolvNE9OrH1PBEE+LaeCFz84hHZ6qPIij1Ub9FQPtYtXgvUREBd3NyXvrdA63GPAEyswDD5KudfEjSLkFKA6wY02zJvly9M3CttqbcTBZCFym2fGh8OZ8zT7SbpsQTMfaZ9T/WZCo0LJoAQ4+smLXD81vN4=;Qx5BukttZB+vDjM59FWxag=="
+secured: "445P1aHfpLLQ79t4PQKkma/eOnAkQPWGVK6PNDOWrN6J5musNavBglpTkCg0AzhyKC9rHDTTJdjAZsbpp0sK3dvQEDROMKZgjTcJHmevPBrity9EHRMgTKqFigqE94J/IU4RYAWHNTPvH+BlJExd6tngHwnxHQs/eDYI5NDTHti8rYACU4f3DnKwae4vM0yfpxlL5PVsOwch9VJTnn7NKoiSRHT4MAOppHD5JI/ZM3JJh4wBII3bMUdsxCa82EnWc9KPNltL0hVmWdqhdcij6MbfOdvYd6Qg8maJKQ9Lj8Zwv8Fe3eBGaNdZStAWQF1AZ/pW7Eo/Jma9HOvMmRd8fnbRLTao0vgEfuJiPK7Mrh4=;KzCSuw3H1SwSCwxLDF2M6g=="
 ---
 

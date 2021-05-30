@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris' Naval Gazing Speech"
 excerpt: "On this Memorial Day weekend, what does Vice President Kamala Harris decide to talk about in front of the Naval Academy's graduating class? Solar power. Read Full Article »"
 publishedDateTime: 2021-05-30T11:15:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/05/30/kamala_harris_naval_gazing_speech_543925.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/05/30/kamala_harris_naval_gazing_speech_543925.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/05/30/kamala_harris_naval_gazing_speech_543925.html"
+webUrl: "https://www.realclearpolitics.com/2021/05/30/kamala_harris_naval_gazing_speech_543925.html"
 type: article
 quality: 45
 heat: -1
@@ -116,6 +116,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris pays tribute to fallen military after tone-deaf tweet"
+    excerpt: "Kamala Harris posted a more fitting tribute to America’s military Sunday, a day after drawing online heat for telling her fellow countrymen to “enjoy the long weekend.”"
+    publishedDateTime: 2021-05-30T20:37:00Z
+    webUrl: "https://nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/"
+    ampWebUrl: "https://nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-091.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris criticized for wiping hand after handshake with SoKo president"
     excerpt: "Vice President Kamala Harris is taking heat after a video emerged appearing to show her wipe her hand on her jacket after greeting South Korean President Moon Jae-in at the White House last"
     publishedDateTime: 2021-05-24T19:22:00Z
@@ -149,6 +165,6 @@ related:
         height: 678
         isCached: true
 
-secured: "TY9FnDVnjvhzqU7iO/BA+rcT0LwJTYmnOxLhwRgDfjbEC0wBeH6jIPSNEL4bs3In/BQtVhYXW2N7gvZcb6VzaglOK3PwfWG62nWB0RTj+cr9pn2d1iHs8+W3GtWWYGH5Wh8Y2EubQjUm6JIFlkZZypHnl2Gz8Y43sAFc3abjUcDldmc3dpm2Gxc+MmYKsvTxWN0nvI4O0UZdDOfFg4BZhhqUntcbvCD2ZX/WGjZW/RgQ4s9KPMsEeDWggx9DL0izSAMsiK5JKWdRAX+eJT7qUw9YT5Ev6HwKrpwxs1yQxUVPjrB6MjSqbh2n/qM94HQXIP/xiXlyhhGRc7WzM3gwfkVPptlW5xjsQXu0nYQC8T8=;Ne2H2tyDWa9665KNmgbWrg=="
+secured: "t0++CK6b5p16pnS3i2xa7mBF2pKK0/JWUPfcFSfANGflSrhO21ev6Qhryfi5dC21eGQkDpCwm6i6IVEMhwqwPpgUwJOpK0R/NbBp2QhFkMPx0ZuIB385iyDER3Bl5dSVgXv9hCFwHuRoYapmrp6ukWW+8g7Lu+VdY0ax6Zjjf/C6LBhxk+PnHcKV9DjRylGNRz4l3NXwcc1JggxHU4wFiJNlN14F50biRS6mOzin7hkkT8qQmumbLL1QTlFXFqkCk0Bno8D0YlQkFeDcZxMeA4JcZmflcGOac1DePl6kOUU0ibbs9ny1DlEIhaKnleXZ4cTyC+eheXHeLfuih27NnWSnKBEHH7LKHyRbxLrvbQ4=;dLCBIfIgTDpsRu2KWri10g=="
 ---
 

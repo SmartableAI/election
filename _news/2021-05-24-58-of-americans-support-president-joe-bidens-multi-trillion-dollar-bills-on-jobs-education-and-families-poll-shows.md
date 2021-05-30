@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden’s administration sides with Massachusetts in income tax dispute with New Hampshire"
+    excerpt: "Federal officials are siding with Massachusetts in the fight over whether the state can tax N.H. telecommuters during the COVID-19 pandemic"
+    publishedDateTime: 2021-05-27T22:50:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/05/27/joe-bidens-administration-sides-with-massachusetts-in-income-tax-dispute-with-new-hampshire/"
+    ampWebUrl: "https://www.boston.com/news/politics/2021/05/27/joe-bidens-administration-sides-with-massachusetts-in-income-tax-dispute-with-new-hampshire/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/05/27/joe-bidens-administration-sides-with-massachusetts-in-income-tax-dispute-with-new-hampshire/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 64
+    images:
+      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/05/JXRZHEW7EGSRDNSEMLEQEZGGZY-60afdd9a27f32-scaled.jpeg"
+        width: 2560
+        height: 1410
+        isCached: true
   - title: "President Joe Biden, progressives willing to ‘go forward alone’ on $1.7 trillion infrastructure bill if Republicans balk at spending"
     excerpt: "The Biden administration and top progressives say they’re hoping for bipartisan support for major infrastructure spending, but they’re prepared to go it alone if they can’t make a deal soon with Republicans. Since signing a $1.9 trillion COVID-19 ..."
     publishedDateTime: 2021-05-23T17:29:00Z

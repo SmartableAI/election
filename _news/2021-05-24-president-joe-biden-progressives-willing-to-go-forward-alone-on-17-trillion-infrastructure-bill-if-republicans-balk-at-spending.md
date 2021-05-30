@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden’s administration sides with Massachusetts in income tax dispute with New Hampshire"
+    excerpt: "Federal officials are siding with Massachusetts in the fight over whether the state can tax N.H. telecommuters during the COVID-19 pandemic"
+    publishedDateTime: 2021-05-27T22:50:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/05/27/joe-bidens-administration-sides-with-massachusetts-in-income-tax-dispute-with-new-hampshire/"
+    ampWebUrl: "https://www.boston.com/news/politics/2021/05/27/joe-bidens-administration-sides-with-massachusetts-in-income-tax-dispute-with-new-hampshire/?amp=1"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/05/27/joe-bidens-administration-sides-with-massachusetts-in-income-tax-dispute-with-new-hampshire/?amp=1"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 64
+    images:
+      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2021/05/JXRZHEW7EGSRDNSEMLEQEZGGZY-60afdd9a27f32-scaled.jpeg"
+        width: 2560
+        height: 1410
+        isCached: true
   - title: "58% of Americans support President Joe Biden’s multi-trillion dollar bills on jobs, education and families, poll shows"
     excerpt: "Invest in America, a research group, and Data for Progress, a progressive think tank, surveyed more than 1,200 likely voters in mid-May, with 58% of those polled supporting Biden’s spending plans, even if Democrats must pass them without Republican support."
     publishedDateTime: 2021-05-23T18:25:00Z
