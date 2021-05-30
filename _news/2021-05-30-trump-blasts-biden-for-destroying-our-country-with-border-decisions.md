@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Kamala Harris, not Biden, called king of Jordan to discuss Gaza ceasefire"
-excerpt: "Vice President Kamala Harris on Thursday spoke to Jordanian King Abdullah II on behalf of President Biden to brief him on US efforts to support a ceasefire in the Israel-Hamas conflict. Biden has not spoken with the Arab nation’s leader since Hamas began firing rockets last week from Gaza into Israel following clashes in Jerusalem."
-publishedDateTime: 2021-05-20T21:40:00Z
-originalUrl: "https://nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/"
-webUrl: "https://nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/"
-ampWebUrl: "https://nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/amp/"
+title: "Trump blasts Biden for ‘destroying our country’ with border decisions"
+excerpt: "Former President Donald Trump blasted President Biden on his handling of China, the Middle East and the crisis at the southern border, saying his successor is “destroying our country.”"
+publishedDateTime: 2021-05-30T14:18:00Z
+originalUrl: "https://nypost.com/2021/05/30/trump-blasts-biden-for-destroying-our-country/"
+webUrl: "https://nypost.com/2021/05/30/trump-blasts-biden-for-destroying-our-country/"
+ampWebUrl: "https://nypost.com/2021/05/30/trump-blasts-biden-for-destroying-our-country/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/30/trump-blasts-biden-for-destroying-our-country/amp/"
 type: article
-quality: 149
+quality: 150
 heat: -1
 published: false
 
@@ -18,11 +18,11 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-jordan.jpg?quality=90&strip=all&w=1200"
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-01.jpg?quality=90&strip=all&w=1200"
     width: 1200
     height: 800
     isCached: true
@@ -140,19 +140,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump blasts Biden for ‘destroying our country’ with border decisions"
-    excerpt: "Former President Donald Trump blasted President Biden on his handling of China, the Middle East and the crisis at the southern border, saying his successor is “destroying our country.”"
-    publishedDateTime: 2021-05-30T14:18:00Z
-    webUrl: "https://nypost.com/2021/05/30/trump-blasts-biden-for-destroying-our-country/"
-    ampWebUrl: "https://nypost.com/2021/05/30/trump-blasts-biden-for-destroying-our-country/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/30/trump-blasts-biden-for-destroying-our-country/amp/"
+  - title: "Kamala Harris, not Biden, called king of Jordan to discuss Gaza ceasefire"
+    excerpt: "Vice President Kamala Harris on Thursday spoke to Jordanian King Abdullah II on behalf of President Biden to brief him on US efforts to support a ceasefire in the Israel-Hamas conflict. Biden has not spoken with the Arab nation’s leader since Hamas began firing rockets last week from Gaza into Israel following clashes in Jerusalem."
+    publishedDateTime: 2021-05-20T21:40:00Z
+    webUrl: "https://nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/"
+    ampWebUrl: "https://nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 150
+    quality: 149
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-01.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-jordan.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -203,6 +203,6 @@ related:
         height: 500
         isCached: true
 
-secured: "OHLOGNnTIbag6E1wZAlkca6ptYMM2mRsRtQrlewyinTNG7M6lRGVr1XkJCEOvXPZ5CkTw9EhkmpD1/jgHovqXvYrRyiISzAZUgFUtyiKULwbF/COXC1VuKDY51rvtwElqBjs/g532bN+mBhqsTecCmJjlqKkKNt08eAaDtrW+59v1Ow5Z4+UrV65HlHRNrLC2CeMlFRdpyJkADv5pvldHjjmuItqFXEFACd4doUzvwjWIT+R76hCzNWzwg5zzpzkPelWxKrQgZhBxwTcbCyhpTW8w9Du9j/27LDDL8pn8CmT2we6qTiAIFfyrh1mADIUvdgMPOnOGX/7QVZgZYW83fiDSQPCbquH+R2wXVpRirQntSEebSfjqk9x515zqRMqvU/8zr/VSi9HbGTlT38EzG+gV+pCH3fOOb/1Dnaxo9h/RfNt0c1x3Dy/OIFNDlLUriulJ1rYPspXVWKupW2Fmw8DamCDrx8zDeq+cvlA6/bIU5uu6cyYjYEhfwMPUD0cey9h9lEHxs0X8pu9IXtThw==;AoMSmzQsB2NRJN854aSe/Q=="
+secured: "CT3GxDzSanpti+pXD3+w6J+IH3JI8Ydg9fAxqFvEoR/OJNjRHojlT96ptb8UJVb8p6u0Dc3kSg+r/b2FbG8AldLHQ8XwjyF3rtfHNf3xxNqO7Z2WJmkqPKItg5VY/crceJxE3CLeUg8Uu73oOaUGVd8WEGXXAiQjdx7OEIPTxptje6q+csO4/XlQF5bXW/79jzh5+RR/Pb4C3lDUzXDDfumzpWu2DSI9Z6JtgDtZPFi63jjQ35TmfrcNDInyClAB2lOW0LkRVXstc9FOBVkyiu3eQCq3g0sSuxf+lerj0XnGHp8h8eLs/+3ATcJm0FXppGn+GUrH1SUTvBguerjTR3YqppwXumDLKvq+dZa2RgM=;fW6Pu6YJHYPgvB36IHYCxw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/lara-trump-border-closed-sparkly-un
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp"
 type: article
 quality: 208
-heat: 408
+heat: 428
 published: true
 
 provider:
@@ -125,6 +125,22 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/jill-biden-111.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump blasts Biden for ‘destroying our country’ with border decisions"
+    excerpt: "Former President Donald Trump blasted President Biden on his handling of China, the Middle East and the crisis at the southern border, saying his successor is “destroying our country.”"
+    publishedDateTime: 2021-05-30T14:18:00Z
+    webUrl: "https://nypost.com/2021/05/30/trump-blasts-biden-for-destroying-our-country/"
+    ampWebUrl: "https://nypost.com/2021/05/30/trump-blasts-biden-for-destroying-our-country/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/30/trump-blasts-biden-for-destroying-our-country/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-01.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
