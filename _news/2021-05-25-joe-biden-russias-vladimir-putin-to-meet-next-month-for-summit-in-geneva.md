@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden to push $6 trillion U.S. budget for next fiscal year -NYT"
+    excerpt: "President Joe Biden will seek $6 trillion in U.S. federal spending for the 2022 fiscal year, rising to $8.2 trillion by 2031, the New York Times reported on Thursday, a day before the White House is expected to unveil its budget proposal."
+    publishedDateTime: 2021-05-30T12:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-report/biden-to-propose-6-trillion-u-s-budget-for-in-2022-fiscal-year-nyt-idUSKCN2D81JM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81JM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81JM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563615273&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0SB"
+        width: 860
+        height: 545
+        isCached: true
 
 secured: "W44bSHJpucIB8GAoBsLUtLqjUZQELiXPE5S54jzJF4K94ujGL4dztfq9RbiUSkNjGtBrDqzbU+qyN0/r66uyaKYHZouJ3z/4BqF/5/ZTijAcIcBe/adu8rhg7aUNwRblTjMEcawm0Q1E2lqfJi0Guk9Hk3S+3d42EM75dzJy3kzJupawJlnGqjSNGMCiXIGjtP7J78Bctbdr26BHHbzsuqgP8r+09JLMuqdb4yjlPubtxAtVpJNMnCdPQGeJfDJpRNnJovo9JfLGEPEUpYrP9tUJrtqI//WJMkBaf6xeV3d/HU976DEiYKSKAdeNlRGlpLudYKul+4AOD7DXBextzH7TdpiM1NfaLdKeVCv8HpA=;ddpY8fJiQcQkWNdrHu8WwA=="
 ---

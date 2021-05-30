@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Rep. Mast rips Biden, Harris Memorial Day tweets supporting 'army of the woke'"
+    excerpt: "U.S. Army veteran and Florida Rep. Brian Mast, R., slammed President Joe Biden and Vice President Kamala Harris for their \"far cry\" Memorial Day tweets. Mast argued the White House administration uses veteran culture as \"pawns,"
+    publishedDateTime: 2021-05-30T13:44:00Z
+    webUrl: "https://www.foxnews.com/media/rep-mast-rips-biden-harris-memorial-day-tweets-supporting-army-of-the-woke"
+    ampWebUrl: "https://www.foxnews.com/media/rep-mast-rips-biden-harris-memorial-day-tweets-supporting-army-of-the-woke.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rep-mast-rips-biden-harris-memorial-day-tweets-supporting-army-of-the-woke.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Jill Biden, Kamala Harris share hug after reports of first lady's F-bomb toward VP"
     excerpt: "Bygones appeared to be bygones at the White House Friday, with first lady Jill Biden getting chummy with Vice President Kamala Harris — days after a forthcoming book revealed Biden said Harris should “go f–k” herself for attacking her husband during the Democratic primaries."
     publishedDateTime: 2021-05-22T07:26:00Z

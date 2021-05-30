@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Joe Biden, Crisis Diplomat"
-excerpt: "President Joe Biden made an unexpected appearance at the White House, in front of a press corps that had been hastily called back to work. Welcoming the apparent end of an eleven-day war between Israel and Hamas,"
-publishedDateTime: 2021-05-23T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/05/23/joe_biden_crisis_diplomat_543402.html"
-webUrl: "https://www.realclearpolitics.com/2021/05/23/joe_biden_crisis_diplomat_543402.html"
+title: "Rep. Mast rips Biden, Harris Memorial Day tweets supporting 'army of the woke'"
+excerpt: "U.S. Army veteran and Florida Rep. Brian Mast, R., slammed President Joe Biden and Vice President Kamala Harris for their \"far cry\" Memorial Day tweets. Mast argued the White House administration uses veteran culture as \"pawns,"
+publishedDateTime: 2021-05-30T13:44:00Z
+originalUrl: "https://www.foxnews.com/media/rep-mast-rips-biden-harris-memorial-day-tweets-supporting-army-of-the-woke"
+webUrl: "https://www.foxnews.com/media/rep-mast-rips-biden-harris-memorial-day-tweets-supporting-army-of-the-woke"
+ampWebUrl: "https://www.foxnews.com/media/rep-mast-rips-biden-harris-memorial-day-tweets-supporting-army-of-the-woke.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rep-mast-rips-biden-harris-memorial-day-tweets-supporting-army-of-the-woke.amp"
 type: article
-quality: 65
+quality: 146
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Kamala Harris
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/543986_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -154,22 +160,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Rep. Mast rips Biden, Harris Memorial Day tweets supporting 'army of the woke'"
-    excerpt: "U.S. Army veteran and Florida Rep. Brian Mast, R., slammed President Joe Biden and Vice President Kamala Harris for their \"far cry\" Memorial Day tweets. Mast argued the White House administration uses veteran culture as \"pawns,"
-    publishedDateTime: 2021-05-30T13:44:00Z
-    webUrl: "https://www.foxnews.com/media/rep-mast-rips-biden-harris-memorial-day-tweets-supporting-army-of-the-woke"
-    ampWebUrl: "https://www.foxnews.com/media/rep-mast-rips-biden-harris-memorial-day-tweets-supporting-army-of-the-woke.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rep-mast-rips-biden-harris-memorial-day-tweets-supporting-army-of-the-woke.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Jill Biden, Kamala Harris share hug after reports of first lady's F-bomb toward VP"
     excerpt: "Bygones appeared to be bygones at the White House Friday, with first lady Jill Biden getting chummy with Vice President Kamala Harris — days after a forthcoming book revealed Biden said Harris should “go f–k” herself for attacking her husband during the Democratic primaries."
     publishedDateTime: 2021-05-22T07:26:00Z
@@ -186,7 +176,21 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Joe Biden, Crisis Diplomat"
+    excerpt: "President Joe Biden made an unexpected appearance at the White House, in front of a press corps that had been hastily called back to work. Welcoming the apparent end of an eleven-day war between Israel and Hamas,"
+    publishedDateTime: 2021-05-23T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/23/joe_biden_crisis_diplomat_543402.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543986_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "kGyJdlg6oT59/IHz5xy9lXCFM3IRhsuKwkABeT8c7bZF0EJLRiDpiYSTst7P0/+Rr5XmTeh8EhecDIvoN4iELLpZAfMBDCkbOS5XCA7oe1HikaHCohKPBzvNq1OvQs5QqNosHv1DCOjck/JHVyoQVog5NsO9NPiPCABqIIh7+BBqiVbfcKm0Ibx4Eq3KdOyWpOcBss8geNY4F4k4YqhvDZVz1JsmEQVThkh52NV0CqBcD9m5UE+PbzmW4ybB6+sGbqi4RfkzoXAKD/7le7Jli09HPDisFnBxYhq+SO3JsmVuF89PyTd+gmC1CI4GaZhtnJc85czWWqgemOtlyR/uUMAEny57JRms++NEp0XpZhg=;4PcMnxvY9RJIxkisNdSzMA=="
+secured: "t+1ZmP8VfurxuSC9Kb4EPKHsq8XtknpmvCfJVyPel99nCUuWHq8RaR63WPWDoeTT0x+4TSnDjtQ/GsNEjWWPofPvqxFuYUPCbNHO+0IdTQHEcsoeCIRc5sRHNQ7w9PRcJly66NUomLvwYe49GvEaoXPWE7dgYI5zYLkkCviDBF3ccNnYGo8pDobO0CWKHleIQd6nH7TI9gsfy2fhLWpLGWgM6mFsFvKDV84DdCMGxOdKUziV1zTPw3HD+uH1pTZ8z17J/HQiooznMZIbc6TXJJRRCTPhhS6AE5CuOLiabYaT9c6F0N08zLdRZAqgXQmzEtelJOFbWw6qfn2SuZVoetaMgwkUMkxvcXGGSYkiAmQ=;78wcR3xnsAtpgLd/8a/7Gg=="
 ---
 

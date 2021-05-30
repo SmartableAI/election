@@ -2,11 +2,11 @@
 category: news
 title: "Biden received funds from top Russia lobbyist before Nord Stream 2 giveaway"
 excerpt: "President Biden and his allies raked in campaign cash from a top Russia lobbyist in 2020, just months before his administration’s decision to scrap sanctions on a controversial firm building a Russian oil pipeline to Germany."
-publishedDateTime: 2021-05-29T16:45:30Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2rqyg-IALc/biden-received-funds-from-top-russia-lobbyist-before-nord-stream-2-giveaway"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2rqyg-IALc/biden-received-funds-from-top-russia-lobbyist-before-nord-stream-2-giveaway"
+publishedDateTime: 2021-05-29T16:45:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-received-funds-from-top-russia-lobbyist-before-nord-stream-2-giveaway"
+webUrl: "https://www.foxnews.com/politics/biden-received-funds-from-top-russia-lobbyist-before-nord-stream-2-giveaway"
 type: article
-quality: 153
+quality: 113
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -46,6 +47,6 @@ related:
         height: 405
         isCached: true
 
-secured: "16yRmqSa0WQZfSWiitP9AKfDIKE26T3mtiSIo6JMUTh5QJMpbg7Y7ymYW65FV28UGegy21XU5zHAwVm6L9cUfM+f9Mjbp+lg2VFRDXL2ibdbmbBY2S+brUyDzhU0K61fDcdx7oO8umnz7xy/S7yfWxrIVpEn0OdsVDMvvTBhPEohLoZveXHb+P1ed+5ReniXHxWFgmX669YYUWN1FhQ4qBgOr1w6mGVS0OYin6NMZLR/WsZdhIGRypeGx1zN3gwDLbxOu/NBWBiClXgKxPFRz1Q2L4f/wMv/zJY/f+vm45f6KNnZh/YOZdOKTf9/6dDMsbDa/k8fJ3EJHpWju2+zKsTz1+T8xtItLQuFaNdTtqY=;GoWu9BZPR6YUdvbwKBer9A=="
+secured: "Q7gT/Ug6XsrUiC8HNo3EtRKHzgXygFo03LyNtf97keN8mcSVfUNXBnCDYsDD0TZ1q3IH4WLBchR4QUwsMSg/A7T0pLdAZRpBRGbJw6o4Q7eFGc/SSflqv3jJZp4n9yH77zQ1+76027nZbg/awiLgnxvNe/CRruhElBafrLOPSJbCKkfX49nu5jAKQZnwtj5nvF4aAYaS4CZat9qesKhE8QOTPvRm4MRj08smxK6/2cHVIGpOiBVDkLpgClNBh3h0OisZb9oOoPDoMDiBipNG5pCM+RMOTsBdNl/aAjX+94ZfCfz0U3GsxtVBqw6sWHbJ765MVukyHuXTDDG5mx+tE+2Rw0Jg6Q10qBNx9gKBxRE=;eUvXLduocQLuByPMYPSEpw=="
 ---
 

@@ -33,13 +33,13 @@ images:
 related:
   - title: "Biden received funds from top Russia lobbyist before Nord Stream 2 giveaway"
     excerpt: "President Biden and his allies raked in campaign cash from a top Russia lobbyist in 2020, just months before his administration’s decision to scrap sanctions on a controversial firm building a Russian oil pipeline to Germany."
-    publishedDateTime: 2021-05-29T16:45:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2rqyg-IALc/biden-received-funds-from-top-russia-lobbyist-before-nord-stream-2-giveaway"
+    publishedDateTime: 2021-05-29T16:45:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-received-funds-from-top-russia-lobbyist-before-nord-stream-2-giveaway"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 153
+    quality: 113
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1312682563.jpg"
         width: 1280

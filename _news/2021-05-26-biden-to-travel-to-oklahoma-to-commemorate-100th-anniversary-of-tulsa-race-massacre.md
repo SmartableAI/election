@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-tulsa-oklahoma-100
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-tulsa-oklahoma-100th-anniversary-tulsa-race-massacre/index.html"
 type: article
 quality: 169
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Biden to deliver hopeful message on state of pandemic ahead of Memorial Day weekend"
-    excerpt: "President Joe Biden on Friday will deliver a message of hope and optimism on the declining number of Covid-19 cases and increased vaccination rates ahead of the Memorial Day weekend, according to a White House official.\n    \n"
-    publishedDateTime: 2021-05-28T13:05:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S91CQX6NMWw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/biden-pandemic-address/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/biden-pandemic-address/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "yNq8FwQuPb42HFXA2LfVpEQ9PsIw47ZF+bQKVM10/kueh/lxnLUTiSvA7+C7rkfV9BeXj1yqBS5Befz7MOQQHH09TEzjJZbGuBmpX7C1HTN+asC5uomq2Y56vkj51ESpeXt6eadlaSK9GUVl8wmr1Ru1ynjYSmihmejm68f+/JzJTkFdA/2nsu2/NuUK3N6Y1qSgJ5Oe6rWKKZKqvruOOQSokPWmC7MINhOepPrScwZ56Gxs6udphV4E1SBZm1VJgbDYEXx05QAK1V2H2eQILQSqy30iZouokZs/VZqkfaElTKgNFczulaDfs98L+UclShuAAX7edbhagoH2HkIAm3VOzM5wxpM0+ESTEdME5m8=;qTT6PR+66FF2e2eJ5RmU3A=="
 ---

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "VP Kamala Harris holds unusual bilateral meeting with a foreign leader at the White House"
-excerpt: "Vice President Harris met with South Korean President Moon Jae-in Friday, without the participation of President Biden, and then the two appeared together to make a statement. A bilateral meeting at the White House between a U.S. vice president and a visiting head of state followed by a joint appearance"
-publishedDateTime: 2021-05-22T02:14:59Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sjfy1LMs9xw/harris-holds-unusual-solo-bilateral-meeting-with-president"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sjfy1LMs9xw/harris-holds-unusual-solo-bilateral-meeting-with-president"
-ampWebUrl: "https://www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
+title: "Kamala Harris pays tribute to vets after taking heat for earlier Memorial Day tweet"
+excerpt: "Vice President Harris paid tribute to fallen service members on Sunday after taking heat for a Memorial Day weekend message that neglected to mention veterans."
+publishedDateTime: 2021-05-30T12:41:00Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
 type: article
-quality: 176
+quality: 179
 heat: -1
 published: false
 
@@ -26,7 +26,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48f7d31-128d-48ec-aca5-6fdc9d09c814/3d14acbf-614a-47fe-8bce-546e449638e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7a6ae93-cc8d-425b-bb14-6992656b9efe/6e55c3de-c62b-4139-85ef-d8928b4f753a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -64,22 +64,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris pays tribute to vets after taking heat for earlier Memorial Day tweet"
-    excerpt: "Vice President Harris paid tribute to fallen service members on Sunday after taking heat for a Memorial Day weekend message that neglected to mention veterans."
-    publishedDateTime: 2021-05-30T12:41:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7a6ae93-cc8d-425b-bb14-6992656b9efe/6e55c3de-c62b-4139-85ef-d8928b4f753a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Harris to announce business investments in Central America as part of migrant strategy"
     excerpt: "Vice President Kamala Harris on Thursday will announce commitments from businesses and other organizations to invest in Central America to support economic development in the countries from where the migrant surge – which has overwhelmed border officials in recent months – originated."
     publishedDateTime: 2021-05-27T17:57:04Z
@@ -93,6 +77,22 @@ related:
     quality: 177
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "VP Kamala Harris holds unusual bilateral meeting with a foreign leader at the White House"
+    excerpt: "Vice President Harris met with South Korean President Moon Jae-in Friday, without the participation of President Biden, and then the two appeared together to make a statement. A bilateral meeting at the White House between a U.S. vice president and a visiting head of state followed by a joint appearance"
+    publishedDateTime: 2021-05-22T02:14:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sjfy1LMs9xw/harris-holds-unusual-solo-bilateral-meeting-with-president"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-holds-unusual-solo-bilateral-meeting-with-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48f7d31-128d-48ec-aca5-6fdc9d09c814/3d14acbf-614a-47fe-8bce-546e449638e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -154,6 +154,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "gbbfage0EoXxBWHuCaIkB2D0tq5SrCWXya91ijqs/qOichjfxLkO2ialzgMMyLpkTs0OhaP3kmir0HIH57TuIitR7b70pDNU7upGjWXCjZQnoi8JvQaWaeArZyKN97pXA7TTS5nz1dFnbqE8k6PNFvd7cCwHEh5tdZ0NkftCJ175M9NmRy3/zgSn1sc56HrdR/iuyAm7B3TYNEsVHolvNE9OrH1PBEE+LaeCFz84hHZ6qPIij1Ub9FQPtYtXgvUREBd3NyXvrdA63GPAEyswDD5KudfEjSLkFKA6wY02zJvly9M3CttqbcTBZCFym2fGh8OZ8zT7SbpsQTMfaZ9T/WZCo0LJoAQ4+smLXD81vN4=;Qx5BukttZB+vDjM59FWxag=="
+secured: "3MHnXducuYJyEp/Ky5/v78njyMmu92fRz1IXAsm9wUJiKPzTs6PKg8C2L8MHo1lvREqYeWeoQCtJCJc5O3l02O4ljwsMUpYVlbwYoW50sjfgues5VOnpJEv9lR3hMwxkMsJa8fspIC/j8OW7fmcb5xVDsyhBv0xUNZ7KVTLmieAr/VMXI8bwiEQbgnjOrrx0jZni01HXljXAwQjPyvfJLpwOnXREJIG5hxj+FUyVUf0rN1N5SV8r1FMxPDyWDYUeKjV0qZ1neGn/QI6xYsQzbzNpXpqOckpArduH4tielc8hWOxJ/k7uMMZOJG26PD/aRdHE4WfXp1PsrSQuEbliwlnzrirBrv1r4QkJbGZ5HSU=;9B/U8f2dxt/Nnck2nA55aw=="
 ---
 

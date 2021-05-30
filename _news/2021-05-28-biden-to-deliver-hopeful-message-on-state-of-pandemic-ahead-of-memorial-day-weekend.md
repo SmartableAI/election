@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to travel to Oklahoma to commemorate 100th anniversary of Tulsa race massacre"
-    excerpt: "President Joe Biden will visit Tulsa, Oklahoma, next week in honor of the 100th anniversary of the Tulsa race massacre, the White House announced on Tuesday.\n    \n"
-    publishedDateTime: 2021-05-26T00:28:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-NfRu2FY2fQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-tulsa-oklahoma-100th-anniversary-tulsa-race-massacre/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-tulsa-oklahoma-100th-anniversary-tulsa-race-massacre/index.html"
+  - title: "For Biden, the White House is 'a Monday-through-Friday kind of place'"
+    excerpt: "Beginning in 1973, when he was a United States Senator from Delaware, Joe Biden had a ritual: nearly every evening he would hop a train back to Wilmington after his work day on Capitol Hill, spending most nights and weekends at the place he considered home, 100 miles from Washington.\n    \n"
+    publishedDateTime: 2021-05-30T12:54:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ktY8gcR-aO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/30/politics/biden-white-house-weekends-away-wilmington/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/30/politics/biden-white-house-weekends-away-wilmington/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025332-01-joe-biden-0521-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210529191117-01-joe-biden-camp-david-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

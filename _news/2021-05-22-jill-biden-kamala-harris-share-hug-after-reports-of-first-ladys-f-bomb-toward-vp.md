@@ -160,6 +160,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Rep. Mast rips Biden, Harris Memorial Day tweets supporting 'army of the woke'"
+    excerpt: "U.S. Army veteran and Florida Rep. Brian Mast, R., slammed President Joe Biden and Vice President Kamala Harris for their \"far cry\" Memorial Day tweets. Mast argued the White House administration uses veteran culture as \"pawns,"
+    publishedDateTime: 2021-05-30T13:44:00Z
+    webUrl: "https://www.foxnews.com/media/rep-mast-rips-biden-harris-memorial-day-tweets-supporting-army-of-the-woke"
+    ampWebUrl: "https://www.foxnews.com/media/rep-mast-rips-biden-harris-memorial-day-tweets-supporting-army-of-the-woke.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rep-mast-rips-biden-harris-memorial-day-tweets-supporting-army-of-the-woke.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Joe Biden, Crisis Diplomat"
     excerpt: "President Joe Biden made an unexpected appearance at the White House, in front of a press corps that had been hastily called back to work. Welcoming the apparent end of an eleven-day war between Israel and Hamas,"
     publishedDateTime: 2021-05-23T00:00:00Z

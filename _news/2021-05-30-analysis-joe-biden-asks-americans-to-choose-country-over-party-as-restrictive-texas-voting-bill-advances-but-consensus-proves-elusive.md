@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Analysis: The one reason Biden's $6 trillion budget is so important"
-excerpt: "Budgets in Washington seem about as meaningful as budgets for regular people.\n    \n"
-publishedDateTime: 2021-05-28T16:00:29Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qz88UUK2Zxs/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qz88UUK2Zxs/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budget/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budget/index.html"
+title: "Analysis: Joe Biden asks Americans to choose country over party as restrictive Texas voting bill advances, but consensus proves elusive"
+excerpt: "President Joe Biden weighed in on the restrictive Texas voting bill that is edging closer toward passage in that state's legislature Saturday, calling it \"wrong and un-American\" as he pressed Congress to pass the \"For the People Act\" that would reverse the GOP's assault on voting rights -- one that has"
+publishedDateTime: 2021-05-30T10:19:06Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-jCQ6fj9ur8/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-jCQ6fj9ur8/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/30/politics/joe-biden-texas-voting-law-january-6-commission/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/30/politics/joe-biden-texas-voting-law-january-6-commission/index.html"
 type: article
-quality: 175
-heat: 295
-published: true
+quality: 143
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,12 +25,28 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528113704-joe-biden-0527-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
+  - title: "Analysis: The one reason Biden's $6 trillion budget is so important"
+    excerpt: "Budgets in Washington seem about as meaningful as budgets for regular people.\n    \n"
+    publishedDateTime: 2021-05-28T16:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qz88UUK2Zxs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budget/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budget/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528113704-joe-biden-0527-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden has released his $6 trillion budget. Here's what's in it."
     excerpt: "President Joe Biden on Friday proposed a $6 trillion budget for fiscal year 2022, laying out details of a proposed dramatic increase in federal spending that serves as the underpinning of an economic agenda that seeks to transform the American economy as the country emerges from dual public health and"
     publishedDateTime: 2021-05-28T17:45:44Z
@@ -58,22 +74,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Joe Biden asks Americans to choose country over party as restrictive Texas voting bill advances, but consensus proves elusive"
-    excerpt: "President Joe Biden weighed in on the restrictive Texas voting bill that is edging closer toward passage in that state's legislature Saturday, calling it \"wrong and un-American\" as he pressed Congress to pass the \"For the People Act\" that would reverse the GOP's assault on voting rights -- one that has"
-    publishedDateTime: 2021-05-30T10:19:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-jCQ6fj9ur8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/30/politics/joe-biden-texas-voting-law-january-6-commission/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/30/politics/joe-biden-texas-voting-law-january-6-commission/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 143
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg"
         width: 1100
@@ -124,6 +124,6 @@ related:
         height: 773
         isCached: true
 
-secured: "XATuPwaeZguZUpCgCehFm2em9Kg/jzh5FBlIv7Jt9oYQP7gv4n2C8HXZr/ZLDI9hG6t6qhdZF5fDqbwb2fMvCOqzJ55ue4IY3gJP6a0gKvDg15Cikn/Qb9hN7X0PkscF9ZY1/2qr8gpkrUCkrmfUKn6w4Ge7SDbwYFmNnH3dp09CtXk/ZkaweP2YZP5JBl/EPA4st4EwgDPFEg1niSFVVI7+AZ98A8M/VFqLGDuhP2AbnH42gNyRKaZrHGxobLT2YFINEQApEwbnxyboOG6lUuz8OACiBYYGAwxrDsc28OtBb78apwkwFtujf26tHJr4BDo/tPKk2vMEhnGjCDLKaxI8VCKKe0pNWMbQnGWLNdI=;hXD6pFVkMSnrrrVeG56T5Q=="
+secured: "wz767A1V5uP5Mv3bbw8IrFSVx/ZFR/YMFMF1CNe8au+qBQf/qZHz4THUVS1NsPCu23N43BUCNo9F+EMmscdzh0y7fGkSIFYHXEdjI2xGQLrYBaT0XrbaQJwz+R4NsXc9ol2xoCSSupEZvvG17xfJmqu/gdbaSg2tYZryvu1pLxBGk6IEf7Bz4P2HETMPjUQONN/RNvo+OV1cm1W+C+TIDpOMO3LZSd3QU5wxkThFFAk5+XkjCRkJt/4N7CJx1aNvlYfRDoVGVULHEUEPVVvMSlLyFLiOzjtdr2j5EvmXKlgCAq56pxV4S7zRuwP2HHcV7y0doYlqC2VXOFlB7mskr7a0qAVf82v5TEbyk5ZnBUA=;H9poN6i5wxniXpFaFWqxQg=="
 ---
 

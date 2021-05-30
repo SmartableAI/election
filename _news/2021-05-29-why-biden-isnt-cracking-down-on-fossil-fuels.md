@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Joe Biden asks Americans to choose country over party as restrictive Texas voting bill advances, but consensus proves elusive"
+    excerpt: "President Joe Biden weighed in on the restrictive Texas voting bill that is edging closer toward passage in that state's legislature Saturday, calling it \"wrong and un-American\" as he pressed Congress to pass the \"For the People Act\" that would reverse the GOP's assault on voting rights -- one that has"
+    publishedDateTime: 2021-05-30T10:19:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-jCQ6fj9ur8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/30/politics/joe-biden-texas-voting-law-january-6-commission/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/30/politics/joe-biden-texas-voting-law-january-6-commission/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 143
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Welcome to Biden budget day: Where's the growth?"
     excerpt: "President Biden will roll out his first budget proposal today, reportedly a $6 trillion beast that will see spending and deficits soar to records not seen since World II. Eventually, deficits start to come under control under Biden’s proposal but the debt still well exceeds the size of the economy before that."
     publishedDateTime: 2021-05-28T12:00:00Z
