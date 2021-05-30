@@ -1,14 +1,14 @@
 ---
 category: news
-title: "These were Biden's campaign promises on the climate crisis"
-excerpt: "President Joe Biden has promised to act urgently on the climate crisis. His plans include returning the US to the Paris climate accord and working to move toward clean energy.\n    \n"
-publishedDateTime: 2021-04-20T19:00:59Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fANPAFuGQi0/joe-biden-on-the-climate-crisis-mh-orig.cnn"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fANPAFuGQi0/joe-biden-on-the-climate-crisis-mh-orig.cnn"
-ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/13/joe-biden-on-the-climate-crisis-mh-orig.cnn"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/13/joe-biden-on-the-climate-crisis-mh-orig.cnn"
+title: "Biden says he will bring up human rights abuses with Putin during meeting next month  "
+excerpt: "President Joe Biden said Sunday that he will discuss human rights abuses with Russian President Vladimir Putin when they meet in Switzerland next month.\n    \n"
+publishedDateTime: 2021-05-30T16:23:21Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-_POWcsmZug/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-_POWcsmZug/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/30/politics/biden-putin-human-rights-abuses/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/30/politics/biden-putin-human-rights-abuses/index.html"
 type: article
-quality: 175
+quality: 167
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925174605-trump-v-biden-card-climate-crisis-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "These were Biden's campaign promises on the climate crisis"
+    excerpt: "President Joe Biden has promised to act urgently on the climate crisis. His plans include returning the US to the Paris climate accord and working to move toward clean energy.\n    \n"
+    publishedDateTime: 2021-04-20T19:00:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fANPAFuGQi0/joe-biden-on-the-climate-crisis-mh-orig.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/13/joe-biden-on-the-climate-crisis-mh-orig.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/13/joe-biden-on-the-climate-crisis-mh-orig.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925174605-trump-v-biden-card-climate-crisis-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden ramps up vaccine diplomacy efforts as hopes rise that he'll share surplus doses"
     excerpt: "President Joe Biden, well on his way to reaching a new goal of vaccinating 200 million Americans by the end of April, is taking initial steps toward helping other nations ramp up shots, including by boosting global manufacturing and appointing a top global health expert who previously advocated for shipping"
     publishedDateTime: 2021-04-06T10:09:48Z
@@ -60,22 +76,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405163758-vaccine-pharmacy-us-louisville-kentucky-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden says he will bring up human rights abuses with Putin during meeting next month  "
-    excerpt: "President Joe Biden said Sunday that he will discuss human rights abuses with Russian President Vladimir Putin when they meet in Switzerland next month.\n    \n"
-    publishedDateTime: 2021-05-30T16:23:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-_POWcsmZug/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/30/politics/biden-putin-human-rights-abuses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/30/politics/biden-putin-human-rights-abuses/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 2519
         isCached: true
 
-secured: "NPUHahCKDT0YeDLteuRRJZynTsvJ/sAy6I+5yuwUdRuU4HeqBWdo4SBjZWSTaLlUy+FHGmS6dFJyHV1sfulU2D89xO2Zn96FcjavHm2y+uNB8Qx3nIponAbQm6CsJ4DtfwIUVXAtYO5YH8GYEMoh3H7c8nHcVP10353pdt2OXC14o9/dEZUX9hj/hcTzpk6XSQpuqdTmuUD3gsGfPlAsfJaLiyO7QEcFBEslQnGorVj7d/bQpE46yHLyUfmqNtQ2nc036R44RPmFEatSSnhjo0H1ympWL6dLsSFP2x9+h5JRaZdO/i4NP7tx3Nab6Ko8LExwJvWBWV+WNvlaiejf/Ol05J6j/TpRJE8Yz+zJUtU=;3rd9PUEhvOaMqBssArakag=="
+secured: "JH62Q5guRfvsME476mDP7yv1NHBsAw+DF3vevkxplJf2X21hLbClOe+lCqJyADII/K3w6iR9isknzLDPWkhrxrcn6ckVxynb3lZ6POsGaBdo2W2bjuPbvE5Z9GELSDgf1gUQB0Tan2Wo0qsFlgkayMd4BPuIyUemcmM/lQm8A18zW9vIXOOyx+EIK1ur8PTilnZ/mfjUClKqOpQ2QPB5Pef41AyfFQd9KRNrXeTmERqRcxQjY2sknnr7CQJDs5ID880LlEDUJvby/tdFjMDklV83klJmGbG0JuvWBcMlYXKViyufDWLpzNr7TbWK+EqSmmZEPWtveGLPoe0kpw1R7kkiu5zdkPgIpvJxyKnYMx4=;4mPhSeTGj0Oimcc64rDrOg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/white-house-biden-to-meet-pu
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden promises to press Putin on human rights at Geneva summit"
+    excerpt: "Biden marks Memorial Day with speech in Delaware and looks ahead to meeting Russian president in Geneva in June"
+    publishedDateTime: 2021-05-30T15:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/30/joe-biden-vladimir-putin-human-rights-geneva-summit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/30/joe-biden-vladimir-putin-human-rights-geneva-summit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/30/joe-biden-vladimir-putin-human-rights-geneva-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/4a1f5396675799b53f62f805eb5b044f677bb5ca/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c2f333065fabcbfb77864c9f5226a9e3"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to push $6 trillion U.S. budget for next fiscal year -NYT"
     excerpt: "President Joe Biden will seek $6 trillion in U.S. federal spending for the 2022 fiscal year, rising to $8.2 trillion by 2031, the New York Times reported on Thursday, a day before the White House is expected to unveil its budget proposal."
     publishedDateTime: 2021-05-30T12:49:00Z

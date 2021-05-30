@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-proposes-putin-summit-russia.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden sends Xi, Putin warning while remembering son Beau, fallen troops in Memorial Day speech"
+    excerpt: "President Biden sent a warning to the presidents of China and Russia during his Memorial Day address on Sunday."
+    publishedDateTime: 2021-05-30T16:10:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aE961RrQCn4/biden-xi-jinping-putin-memorial-day-warning"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-xi-jinping-putin-memorial-day-warning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-xi-jinping-putin-memorial-day-warning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2b01a41-ac23-4e0b-b89d-fec9000fabe6/77a77e09-6a30-4c6e-9d99-8c8274635bef/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden's CBP nominee defended sanctuary cities, criticized police working with immigration authorities"
     excerpt: "President Biden's expected pick to lead U.S. Customs and Border Protection, Chris Magnus, has a record of defending sanctuary cities and resisting Trump administration orders about undocumented immigrants."

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to target 'ghost guns,' stabilizing braces in new gun control actions"
-excerpt: "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence."
-publishedDateTime: 2021-04-08T00:02:07Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nrR8CImtW3w/biden-actions-gun-violence"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nrR8CImtW3w/biden-actions-gun-violence"
-ampWebUrl: "https://www.foxnews.com/politics/biden-actions-gun-violence.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-gun-violence.amp"
+title: "Biden sends Xi, Putin warning while remembering son Beau, fallen troops in Memorial Day speech"
+excerpt: "President Biden sent a warning to the presidents of China and Russia during his Memorial Day address on Sunday."
+publishedDateTime: 2021-05-30T16:10:15Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aE961RrQCn4/biden-xi-jinping-putin-memorial-day-warning"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aE961RrQCn4/biden-xi-jinping-putin-memorial-day-warning"
+ampWebUrl: "https://www.foxnews.com/politics/biden-xi-jinping-putin-memorial-day-warning.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-xi-jinping-putin-memorial-day-warning.amp"
 type: article
-quality: 173
+quality: 163
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b0d7af2-178c-4bf5-84b1-9f4b1eaeeb17/66054943-8e0f-4161-9adc-ee518e15b053/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2b01a41-ac23-4e0b-b89d-fec9000fabe6/77a77e09-6a30-4c6e-9d99-8c8274635bef/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to target 'ghost guns,' stabilizing braces in new gun control actions"
+    excerpt: "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence."
+    publishedDateTime: 2021-04-08T00:02:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nrR8CImtW3w/biden-actions-gun-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-actions-gun-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-gun-violence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b0d7af2-178c-4bf5-84b1-9f4b1eaeeb17/66054943-8e0f-4161-9adc-ee518e15b053/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden DOJ nominee Kristin Clarke defends past controversial writings on race"
     excerpt: "Justice Department nominee Kristen Clarke defended her past writings and said an op-ed she wrote while in college stating that Black people are superior was satirical, after Sen. John Cornyn, R-Texas, raised concerns over the piece."
     publishedDateTime: 2021-04-14T17:46:03Z
@@ -110,22 +126,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden sends Xi, Putin warning while remembering son Beau, fallen troops in Memorial Day speech"
-    excerpt: "President Biden sent a warning to the presidents of China and Russia during his Memorial Day address on Sunday."
-    publishedDateTime: 2021-05-30T16:10:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aE961RrQCn4/biden-xi-jinping-putin-memorial-day-warning"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-xi-jinping-putin-memorial-day-warning.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-xi-jinping-putin-memorial-day-warning.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2b01a41-ac23-4e0b-b89d-fec9000fabe6/77a77e09-6a30-4c6e-9d99-8c8274635bef/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
   - title: "Biden's CBP nominee defended sanctuary cities, criticized police working with immigration authorities"
     excerpt: "President Biden's expected pick to lead U.S. Customs and Border Protection, Chris Magnus, has a record of defending sanctuary cities and resisting Trump administration orders about undocumented immigrants."
@@ -259,6 +259,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "t3PfNcf8Jn4TNVTo3KouYtjhWy8deUJrvJBUHlAhJv8clq9CAf6pGRqbtaJHuko5tYzShjfyyO+RY0GHoVylIMte+QSV66Tskabug2EZCwhCVKg/PY/vRlnV3bKuKQnUSzjYVUl9jruriaQ9kgUSWe3XmBhqTL1ejfp0v9wm8c5joL5eDCwjUVadNGk3cOFWQknifJW0HwO1No7qQn3lqolmoACr2qAmQSd16EvDx2UlZDrGptnwipHLYlSDXnz4zTwL9Q1jTYJm4v0EtrCGjXRDCjAgWjERdRj1kHASIg2jH3ez8oK/1lUzveWyLZFTdiUr7hbslX7LahTWzoCebPYXkoCrNEomy2CFG/SKNsI=;30nZYsfyLqT7IRajpctgGQ=="
+secured: "0JvoINvX3G6BP///KDn9lNyIkyJJcMXlCc5YYP264oBU0t1jOaU2dDOS0nOrDGszyKL3XOp87QweXlHQUFol9OqK1tXW/b1YAqeHXITyVJPwep0QHmb5pQV/nA9PZrcd98eBv7c4jxev/PkLtiwZ62hFEvTXE27Mdl1mUEhUm1A408i8vKOc63D3v8MKH+3Cpta3zm8xvGsJiou6ZATBjQ9Nk9liRCEHgzTEglF3KV7vKp67Rz0LrhYctFxfCNRTFon/IvZe+FiQgXicta5piOyCvpvwCTplSFMeWYeZY8gae/FYYQYzjecY2Y4381yHaNr7XZKbDsoa+CuftwjC9ZrAOLSd+N5q0JFSJElo0dc=;fG29XSv5TVjDpPs4lp/hSA=="
 ---
 

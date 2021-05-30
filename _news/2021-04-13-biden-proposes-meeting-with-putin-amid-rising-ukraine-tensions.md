@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin-meeting-proposal/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405163758-vaccine-pharmacy-us-louisville-kentucky-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says he will bring up human rights abuses with Putin during meeting next month  "
+    excerpt: "President Joe Biden said Sunday that he will discuss human rights abuses with Russian President Vladimir Putin when they meet in Switzerland next month.\n    \n"
+    publishedDateTime: 2021-05-30T16:23:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-_POWcsmZug/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/30/politics/biden-putin-human-rights-abuses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/30/politics/biden-putin-human-rights-abuses/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
