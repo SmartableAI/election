@@ -75,6 +75,15 @@ related:
         width: 3132
         height: 2088
         isCached: true
+  - title: "Biden to Sign Order to Combat Anti-Asian American Bias"
+    excerpt: "U.S. President Joe Biden will sign an executive order on Friday addressing a rise in acts of anti-Asian bias and violence in the United States, the White House said. The order will establish the White House Initiative on Asian Americans,"
+    publishedDateTime: 2021-05-28T10:24:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-28/biden-to-sign-order-to-combat-anti-asian-american-bias"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "capFWhc0xeyT31KOoafwz1gz1DXA7vG0ab/cLSm1mMkWieW4SI256+c64GE82pVYENhHC1hl7IG376PfqjibbvTmJLbhVTrpha/+C3KNS/0JXV7kITs0CKnoQquLB8vORVDZjGfIJFgNgEllq4PzYuFuatMuylPxXDuiJC8ax943ysnnujU8zu8KsNM4lVnx6zceoBn5W6R/3q5KTuA5V1DPX+J1JGLMgecaLvOKDXzDRVf1b5EDRbFQA9CCgynM39VDw1peq0ABnseyo5hElauWEcAe4E3I/J6bEzlIIhUxB5BmMTRkNWKhKKdfC0nUTUNJ5SoNhg1OcIKSaP9SYscuCOBjcMpf++3rx07CRF5Kdc4zmT9+j5PEUkFxNbvDpvSvfckQKXkTA8mq91njdpqwLlWPt8IC8lMiZxT9LBlIVd9/g8dXmw9rzKch9rqa7jqUmoCsS83ZrKwsB1f4FC1SbXZF2JpR3QgqAJTo5WrqF2bPluDrWpdcd8SUevBcKgSvDCqzjCDlk0OF7EzF6g==;ruZRfuoWdS9WJZoieiz2eg=="
 ---

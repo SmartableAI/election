@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Las Cruces man accused of plotting Biden assassination, mass shooting"
-excerpt: ":Lawyer: Las Cruces resident denies threatening to kill Biden. LAS CRUCES – The FBI is alleging a Las Cruces man sent text messages with plans to kill U.S. President Joe B"
-publishedDateTime: 2021-05-27T21:00:00Z
-originalUrl: "https://www.usatoday.com/story/news/crime/2021/05/26/las-cruces-man-accused-plotting-to-kill-president-joe-biden/7448404002/"
-webUrl: "https://www.usatoday.com/story/news/crime/2021/05/26/las-cruces-man-accused-plotting-to-kill-president-joe-biden/7448404002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7448404002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7448404002"
+title: "Biden to Sign Order to Combat Anti-Asian American Bias"
+excerpt: "U.S. President Joe Biden will sign an executive order on Friday addressing a rise in acts of anti-Asian bias and violence in the United States, the White House said. The order will establish the White House Initiative on Asian Americans,"
+publishedDateTime: 2021-05-28T10:24:00Z
+originalUrl: "https://www.usnews.com/news/us/articles/2021-05-28/biden-to-sign-order-to-combat-anti-asian-american-bias"
+webUrl: "https://www.usnews.com/news/us/articles/2021-05-28/biden-to-sign-order-to-combat-anti-asian-american-bias"
 type: article
-quality: 125
-heat: 205
-published: true
+quality: 35
+heat: -1
+published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,13 +22,23 @@ topics:
   - Election
   - Joe Biden
 
-images:
-  - url: "https://www.gannett-cdn.com/presto/2019/10/29/PNM2/f47728ed-1b01-4073-a3fb-e642ba2b5b7c-Federal_courthouse_Las_Cruces_3.jpg?auto=webp&crop=5216,2934,x37,y9&format=pjpg&width=1200"
-    width: 1200
-    height: 675
-    isCached: true
-
 related:
+  - title: "Las Cruces man accused of plotting Biden assassination, mass shooting"
+    excerpt: ":Lawyer: Las Cruces resident denies threatening to kill Biden. LAS CRUCES – The FBI is alleging a Las Cruces man sent text messages with plans to kill U.S. President Joe B"
+    publishedDateTime: 2021-05-27T21:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/crime/2021/05/26/las-cruces-man-accused-plotting-to-kill-president-joe-biden/7448404002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7448404002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7448404002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/10/29/PNM2/f47728ed-1b01-4073-a3fb-e642ba2b5b7c-Federal_courthouse_Las_Cruces_3.jpg?auto=webp&crop=5216,2934,x37,y9&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Joe Biden says Texas voting bill is “part of an assault on democracy”"
     excerpt: "Senate Bill 7, a Republican priority voting bill, would limit early voting hours, curtail local voting options and further clamp down on mail-in voting, among several other provisions."
     publishedDateTime: 2021-05-29T18:23:00Z
@@ -79,16 +87,7 @@ related:
         width: 3132
         height: 2088
         isCached: true
-  - title: "Biden to Sign Order to Combat Anti-Asian American Bias"
-    excerpt: "U.S. President Joe Biden will sign an executive order on Friday addressing a rise in acts of anti-Asian bias and violence in the United States, the White House said. The order will establish the White House Initiative on Asian Americans,"
-    publishedDateTime: 2021-05-28T10:24:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-05-28/biden-to-sign-order-to-combat-anti-asian-american-bias"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
-secured: "f511cltOvh1KI3EXS9C6NzJShvZAUVq6YaQpXirMGuTWdmMlTp/eBuc6i1Jfe9Sorq9CMwls9Xir1ek3/Gc9WMx/9jQlrxPPUHa/2MuKWRcf9a2QOGIYR3tw5BWkElGSHKyvfFZnMOvJNVOT/5OLXN15+ASLva6NM38FHS6LXZ21MVqOLxNbyOa/z/HDBTAzqUUPQfHipH2j3pRsu7KyJcItyoy6UzThQ/rbnKIH7Wwii/O4FAIpZEh59/VZR6vFT720L/vbSrUMRJxeMf0FZMu/iPgxgSNv6qQ0mev+83UfSL7lPWW8bXdsTafjtVlpi71r/XhBRWqtsfHiZncg/OAlqkLpKlOsxPOgxR9Ye5E=;O8GOb/15rVxVs4Th7IfD0g=="
+secured: "lsUHjUOm33NsV/76KhyYwrwQIz57HWXhMDL3LwhWUsbYUU9LDYSN3h4OJr8wypkJqXcdodvSlO1E7ioXCz3CJKFIKTwewvZIyh/8lUDfDvJc2ZMtUjdn2qco8tSbPVX2MsNUh2yl1rRAmcIOPZOZ8jUv/z7NQKAM9asr/ixlQXr+2S0gkQOqAiL4TN/esfPQclvvt0U/7BB6HDQLwaLuiiiRCVE5/w42cgyL4xqu/+sOY1n2tTlyBruPryUQpL6L/SDwiJhomtaqMUnwNqO3j8wCj5Q4dkjVQG5qZA6vfLJcwoAHcgnCEhMBS3y3P3w6F/OiIn6l7HiuEeNCzJidbdI/+cjUBIN2o/erMRV3RDvuikMnwF2OTbBqqRT84gfEmdlNc7i+i0jdoe73Jhc2U+j1TmMe/uMagEHl/lWxW0Qlltytkc2WqSG8gdI4xLwz5f5/nw0FBQdLFdU7oFNv6d3ISqfE/ZBEPlNLnokoKhsKO01W0LjT+t8fiFGiMgS2FXDaBOqHy1uQ7z0KoX3FlQ==;b3K0W2UzDXv2d7Q6Cnl35Q=="
 ---
 

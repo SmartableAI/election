@@ -3,22 +3,18 @@ category: news
 title: "Record debt, improved deficits: Key takeaways from President Joe Biden's budget request"
 excerpt: "Higher debt. No restrictions on abortion funding. More spending on child care and education. Those are some of the takeaways of Biden's budget."
 publishedDateTime: 2021-05-28T19:16:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/05/28/takeaways-bidens-budget-include-record-debt-improved-deficits/5247246001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/05/28/takeaways-bidens-budget-include-record-debt-improved-deficits/5247246001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5247246001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5247246001"
+originalUrl: "https://www.indystar.com/story/news/politics/2021/05/28/takeaways-bidens-budget-include-record-debt-improved-deficits/5247246001/"
+webUrl: "https://www.indystar.com/story/news/politics/2021/05/28/takeaways-bidens-budget-include-record-debt-improved-deficits/5247246001/"
+ampWebUrl: "https://amp.indystar.com/amp/5247246001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5247246001"
 type: article
-quality: 117
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -149,6 +145,6 @@ related:
         height: 600
         isCached: true
 
-secured: "MJDRFund3QAE8jRAKfpI3ZMEPsoByZ8Kz+Tfqwyl249gtxAanBz3NIqIsjiRTtu10MYI438pzRj7f7nJr9tVJU+CqH6zXwUmTx7EyMG9Geor1iqahVWmChVvUjMKCoBkQik1YHhagGr1+23T5PncRiqarIlRL8lyQmEI5Vr8FWKkx6r9eUXad3ZG+eJWGm4VP6bg1VGhO0UoqC+od66GETlR4cKaOM2GKrln9U4XZdJljTrr5wNUdxQi7Iq6GqGFkH8aisvTXVmjXrigKVoY/scJhXZk46gO+zucX9iucp4UZnwHGo6QXpnmbVGaZGlxqa+dq/Z1dm6FIg/TtL9nlqCSeTHDzyi4wquTwWIteKyFT7siqoIeXLkPbJG467UCqC3iiOeQ/OHsL4ZCg0QResVFC3FMzzkFNQypP0ORKrfMte8fhh6k3cse3XMlHF+CI8qQ3yIkfzKejRXlabW5nnLeAbYSPRFiCNXoPRpaijI7TtTDwShcTV2oXsWjps+C0eryqNX3djoTnGAiz4s+xw==;ItgYySVACTMTEC/Te0MwVQ=="
+secured: "ISnrWCoBibkuNOoP5u9qVgyPLB0qY3pV1XBoJaGbILgMIR4ju5tSafXcEthoSFb6nPGRXOnHLxOZrvaBRmygy5WT4BRNYxMVJ6VnVos3j1ByTHDztioOAHPSOEvf14q6+eVMJwHP0wJ/57K4rQW4Xr62nFZ7lhgqcaU47t511+O+YMNYAMDQ14YFSVthmUFqpeyalnWA+i/iDfht9GqCpSjwxR8J/tnsVacFLT2/DGSed1sig+qN+yaIYY14/oQQ8G1AHB+ywoXneGzszvVlsE79RYcUrMY4FmymeQwkqjpfuE/HKfdV2t7vd7V/A+vUJWzl0n/1WVyeQRHyYsX/O9w/9ddETJ0yWJYrXuzZe70=;tSRAaGdmF4xEjVJNMNHBVw=="
 ---
 
