@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump fans convene to talk about God, country and patriotism"
+    excerpt: "The For God & Country Patriot Roundup conference is being held for three days at the Omni Dallas Hotel. DALLAS — It had all the buzz and excitement of a political convention, except that the next presidential election is still a few years away."
+    publishedDateTime: 2021-05-29T21:26:00Z
+    webUrl: "https://www.pressherald.com/2021/05/29/trump-fans-convene-to-talk-about-god-country-and-patriotism/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "crm9AaoNErFDLqQ0CG9dTHetvQB9xn3yBinX+T2WgA8wjY2pLZ4vhWbo4LzT84neALgKjnePz8LwCoscSElngc+U2tE8P0ghYM1GHAx0dR/BZqCJPhctuxwabj8sU66fChj5Cbu0SFU6MzrvLd+E5HOPpMxOH0/YPOKHs9lBEfX4wr02En+GSCeICPLwqOZk3jJyGdFInyh5K8VJ/xuQQSCkM83lKRhpz7fmSvAEI/7Lnm3I0WZqiOppO5TPOLKqXLft3xDvv4xGedVjF/TSR782hKWPbOPlQdOsGt9uQ2iVZlrMe9+sV7Ybo1HpZqSVIuXAMXmLqr0naTGSnkveNyCvhHPo+0iyG/unIoM7YlY3ohbDb9ayKHYCVeStfbS+3f5PhGqge+UpR92LYXaJwPmSWrT4wQ+m99VyO23HhrPpmo+etXRH5rqv0k8RuB1GI1KDk+aK3KSSFmrNSGYrYlCeWOE4T22//l0Gw8EdDc6OU8tDcLzhqGqY+wg2RjnJL7tprU1B7xHhRiKUKu5yyw==;7JPTuMytTuaVd0a0/qWHgw=="
 ---

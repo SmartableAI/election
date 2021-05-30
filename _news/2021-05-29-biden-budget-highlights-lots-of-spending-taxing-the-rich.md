@@ -2,21 +2,21 @@
 category: news
 title: "Biden budget highlights: Lots of spending, taxing the rich"
 excerpt: "President Joe Biden’s $6 trillion budget proposal offers major new initiatives like child and elder care subsidies, generous tax credits for families and the working poor, and free community college"
-publishedDateTime: 2021-05-29T03:05:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-budget-highlights-lots-of-spending-taxing-the-rich/2021/05/29/1f57e932-c033-11eb-922a-c40c9774bc48_story.html?outputType=amp"
+publishedDateTime: 2021-05-29T04:05:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTD5AHF744I6XERKYQGJO5F4JA.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_f0a0e4ffd3e348ec92ebab4bdd69a565_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -88,7 +88,23 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 89
+  - title: "Joe Biden’s $6T budget: Social spending, taxes on business"
+    excerpt: "President Joe Biden is proposing a $6 trillion budget for next year that’s piled high with new safety net programs for the poor and middle class, but his generosity depends on"
+    publishedDateTime: 2021-05-30T02:39:00Z
+    webUrl: "https://www.denverpost.com/2021/05/29/joe-biden-6-trillion-budget-spending-taxes/"
+    ampWebUrl: "https://www.denverpost.com/2021/05/29/joe-biden-6-trillion-budget-spending-taxes/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/05/29/joe-biden-6-trillion-budget-spending-taxes/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/05/AP21147686823317.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "DhamNAn6KuTQJryOMFHZhNCU2CcUU6j5fNybpnRgYu2P99hKInsb9DBAMi3p/2el2tujwgcV2YYFSZjREdHiVY7EXG3/j6zLGpX5FmzMi2CCoSo4qT9jYitb9bYQstvpB41xNQM9QsZEqcq2vyTgG3bDuKUp8SKmH/pXs5cuK+N9Cbt50qXcAg58njehCFnwARJMBx9OdRXyvWkYZvpj+R6L/uDpqtrmaJ4QiHiMFXmKGcSpEZg2JnlY4zD5SguJnEf8XEIdSRbLSAgNoeCV+ZHUqZmgkBlei8rPl0fI+tutpHaWdvIrPReAatPQy2YhAnGp54WsdpIK7T8hjWUbkJ4T9H9WHSwrMVNtxXRSnS2w61x7sYnzTTn+2IYYFCfgSENtp4g9sgA98bY80GaDxBdu9hbkvrdOKP3WQAY1eCNC/qk6epbM1GZp0vG3t45dh2aNoURRJpUvpfM13DOQ+u6gFy78uAK3FASb9IvNERC8AIPpFyJmTtfYOWqA/7p1Xn8jCrk3N/C3o62BykzHxw==;bPHRwP6/R3F1cB7ES97JCA=="
+secured: "adcPOGShgrk46HthL2BfTY6vPmd/bcKmyCNoOGWdJNBuFamIthSbe7ZiAKW7NlMiDe5Oz5hbgjYPnObCZqq1SW1HtL8y5PyjWkHQ+DOWUTghwwT/H/QaRJQXb+FELJlWw0560j533JpNjxkj7TW8RLB2w2vjxAV2Cgq31ShKMZSMEcx2HSpEeun0GHtiv/07tIhPUdr7CDkgW/1tGuYc52Bt4ke/f2mtKeWG8szif/fVPARqeLMy6uOsVsGhj4n/IXZ0ai/4r9+0Lxksq8jnnjwts1SHoj+YPBB+OhjbzacKI40XHaZagfqLYYGhUpGPhnNocrGhmKfD44CCtXiRzTtet0TbbQ0WvG9mBekieeU=;qrwCjHTq8/QFORO1u5lr5A=="
 ---
 
