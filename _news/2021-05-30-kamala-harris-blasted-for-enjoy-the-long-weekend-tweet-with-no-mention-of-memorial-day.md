@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Kamala Harris's Impossible Vice Presidency"
-excerpt: "RealClearPolitics"
-publishedDateTime: 2021-05-17T11:39:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
+title: "Kamala Harris blasted for ‘enjoy the long weekend’ tweet, with no mention of Memorial Day"
+excerpt: "Vice President Kamala Harris sent a tweet telling Americans to “enjoy the long weekend” and disregard America’s national day of mourning, Memorial day."
+publishedDateTime: 2021-05-30T00:44:00Z
+originalUrl: "https://nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/"
+webUrl: "https://nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/"
+ampWebUrl: "https://nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/amp/"
 type: article
-quality: 65
+quality: 126
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
@@ -20,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/543462_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/KamalaHarris.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -58,23 +60,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris blasted for ‘enjoy the long weekend’ tweet, with no mention of Memorial Day"
-    excerpt: "Vice President Kamala Harris sent a tweet telling Americans to “enjoy the long weekend” and disregard America’s national day of mourning, Memorial day."
-    publishedDateTime: 2021-05-30T00:44:00Z
-    webUrl: "https://nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/"
-    ampWebUrl: "https://nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/amp/"
+  - title: "Kamala Harris's Impossible Vice Presidency"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-05-17T11:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 126
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/KamalaHarris.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://assets.realclear.com/images/54/543462_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
-secured: "9ruGk7EyZU4Ab6OnyO4qKRyUp3dMgL5JIgZoQzdUhlrWmQGhjr30Ugx4ppSDJeUumglp8z8fzZaTO0/XwClWuE+Ub6UJMvYmn11etOva6MHdo7BpEXl9rCJcDO1cv6d/clo3XPimKVouxmIEi4KCGAbD5XNAwPtAKQd0vOqiAAZRAQb9xdxLFUbhi87FEiySHUXaGoCpBDJtYk6fujV1ExT0nqG3/C6iUgiuj+qSgELVZynnPNXqjRukgQmbF47y6+h/fe07N/SASTzaiYHGG7oZ6DWCaC9lH5/lSPAWlvL/jmSqXgRyRSXyq3Lkq7ULrC0D0ho1iYUZotMVeoT/FBYpLLaYsUGdRFFdwRdSn+E=;HnIF/pHRghL2nGOgzESXqg=="
+secured: "ZLpirn6Z8DqlLFstC3V+vf+OYrvRCb3f5+GwweX/i8XkXShZh9IcD4Mae1GHsV+JB4hRdltPo/BhlpzNgjmT/vcMXmIBVVRfIRkIwDgxhBjoW14CI9Zkpj+3ZAQh5xb4TG+YIuBHym64BTdNJmny99xKAx30jVAYeFUO9EsMMyVYeEBj9k6uTvSYGevwacaMFaENYR+EC97yyvDMBw7hqWP8A8F9Y0oFvc3RQP59UOD5AY3SOPmLa+OksGPjTVh5XMKykVDC1sHONYGBP7HzKFT3r97gn6PkwjZts1FNAtalqXAiqNrMvd7Q21bEHMCz4Rr+SpWaEBd8g/FoXNKttAFH62FfW47RdbCsEc4wdvo=;2bkMa3THtULlH6QD95OA2g=="
 ---
 

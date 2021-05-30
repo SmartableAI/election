@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-president-kamala-harris-under-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-kamala-harris-under-fire-for-disrespectful-tweet.amp"
 type: article
 quality: 185
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Kamala Harris blasted for ‘enjoy the long weekend’ tweet, with no mention of Memorial Day"
+    excerpt: "Vice President Kamala Harris sent a tweet telling Americans to “enjoy the long weekend” and disregard America’s national day of mourning, Memorial day."
+    publishedDateTime: 2021-05-30T00:44:00Z
+    webUrl: "https://nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/"
+    ampWebUrl: "https://nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 126
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/KamalaHarris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris's Impossible Vice Presidency"
     excerpt: "RealClearPolitics"

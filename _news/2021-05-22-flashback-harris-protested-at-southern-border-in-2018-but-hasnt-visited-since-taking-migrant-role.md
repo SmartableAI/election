@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris blasted for ‘enjoy the long weekend’ tweet, with no mention of Memorial Day"
+    excerpt: "Vice President Kamala Harris sent a tweet telling Americans to “enjoy the long weekend” and disregard America’s national day of mourning, Memorial day."
+    publishedDateTime: 2021-05-30T00:44:00Z
+    webUrl: "https://nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/"
+    ampWebUrl: "https://nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 126
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/KamalaHarris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris's Impossible Vice Presidency"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-05-17T11:39:00Z

@@ -1,20 +1,22 @@
 ---
 category: news
-title: "What happens next as grand jury considers case on Trump business dealings"
-excerpt: "Former President Donald Trump is responding to the seating of a grand jury in the investigation into his business dealings, calling it \"purely political.\" CBS News legal contributor Rebecca Roiphe joined CBSN's Tanya Rivero to explain the process and what could happen next in this investigation."
-publishedDateTime: 2021-05-26T19:45:00Z
-originalUrl: "https://www.cbsnews.com/video/grand-jury-investigation-trump-business-dealings/"
-webUrl: "https://www.cbsnews.com/video/grand-jury-investigation-trump-business-dealings/"
+title: "Special House election measures political pulse after Trump"
+excerpt: "A special congressional election is testing the pulse of politics in the Albuquerque metro area and a few outlying rural communities at a turning point in the pandemic and economic recovery"
+publishedDateTime: 2021-05-30T01:03:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
+webUrl: "https://abcnews.go.com/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
 type: article
-quality: 104
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/26/70b014e9-1b89-4a97-a371-0041d7796fd0/thumbnail/1200x630/386ed7b35b0d01943469dcd0d9809ba6/cbsn-fusion-what-happens-next-as-grand-jury-considers-case-on-trump-business-dealings-thumbnail-723724-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/Politics/WireAP_d7b66e9711b6412c9509dfe7f40b3feb_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -44,22 +46,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563618128&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0UP"
         width: 817
         height: 545
-        isCached: true
-  - title: "Special House election measures political pulse after Trump"
-    excerpt: "A special congressional election is testing the pulse of politics in the Albuquerque metro area and a few outlying rural communities at a turning point in the pandemic and economic recovery"
-    publishedDateTime: 2021-05-30T01:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d7b66e9711b6412c9509dfe7f40b3feb_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Most Republicans still believe 2020 election was stolen from Trump – poll"
     excerpt: "May opinion poll finds that 53% of Republicans believe Trump is the ‘true president’ compared with 3% of Democrats"
@@ -345,6 +331,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "What happens next as grand jury considers case on Trump business dealings"
+    excerpt: "Former President Donald Trump is responding to the seating of a grand jury in the investigation into his business dealings, calling it \"purely political.\" CBS News legal contributor Rebecca Roiphe joined CBSN's Tanya Rivero to explain the process and what could happen next in this investigation."
+    publishedDateTime: 2021-05-26T19:45:00Z
+    webUrl: "https://www.cbsnews.com/video/grand-jury-investigation-trump-business-dealings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/26/70b014e9-1b89-4a97-a371-0041d7796fd0/thumbnail/1200x630/386ed7b35b0d01943469dcd0d9809ba6/cbsn-fusion-what-happens-next-as-grand-jury-considers-case-on-trump-business-dealings-thumbnail-723724-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
     excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
     publishedDateTime: 2021-05-20T19:25:00Z
@@ -463,6 +463,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "HHLuwddGWmgU2tMPahlWnFncqf+sBnw/47i8U4fbGo2z/8s6Q7DFskHlH7Z7Bl7jg5Ei9xGwh2v5yI4MReSbIu5+d1ROk266zDuS6sTjbO83YwB6sLetWGXpX6S7MrjCZW2Ys6jeL9bZItqi24PI2hyP/XxOu2x5Cg4If9h/0NtaY/I/cRfYFP/BChDsY1cy8kyy7xXm2xtkuxoaqPruiyRHPAjo/J0Tk5DZnGZ8jViH9L7RmKJqcfUaJNh2yZWXNr1QKSCR0XOYoUz000WJ8NNefstXphAf3Fs7gJMJqIE90OYHcS7VK/BK/gPwnLJ3UMHnVr/E5nxQPQG2QD54U31+e+gryLn8ffpuPanqJoE47dpyT7ij+xAhlTZfhfaBVFOvCGLU5p4wYe3pFn12g266uEwxiie3elR8iBbw5BiRRW/8b0wxTy0ZQIWAOOiKzVPRyJKfIUMPA9lWwFYPZYtstXNNLKkuhtvXBhimD1s5VXwUfekqk9WEQwvAbrqpmsNdhtN11Ay9gAOKw7hu9g==;45+tj9f0WoeLkB19TpDcHA=="
+secured: "8ihMmxLJSirbQp2Ow/xEeFqzX/CvOdAa7YCdHvlH/c+h/O/nuI//8bIDyie0HSxy3FGz9mLvyzsO+MnRKnMdLcf/3hbPszph5ar+PVFnnN/DIbHc2mRRMYHhfoc5vD34GYlpeGFg8rQll9r8HgYhkl+YOnvxO/XSxCJphz3Y56fjUuOABz+a+WsLWmjrxmQMNjV1NdS75fHSo/AnruyacIySAzE9unmAJslp6V+1WpupW393cKOBchB8HE3VzByjGsGFaTkO0IffkUiSKhjkREt66e7/Gnq8gHoMPWI3WcRa9pUxtNzVE5fGm5Wk0zvOlRRajB8Ox3SY3qz1lgMzZBk6l7u/Ex24xIhW5WElbAw=;Iym99t8nLjcGsnpTCgTZ5w=="
 ---
 

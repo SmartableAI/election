@@ -35,6 +35,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Special House election measures political pulse after Trump"
+    excerpt: "A special congressional election is testing the pulse of politics in the Albuquerque metro area and a few outlying rural communities at a turning point in the pandemic and economic recovery"
+    publishedDateTime: 2021-05-30T01:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d7b66e9711b6412c9509dfe7f40b3feb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Most Republicans still believe 2020 election was stolen from Trump – poll"
     excerpt: "May opinion poll finds that 53% of Republicans believe Trump is the ‘true president’ compared with 3% of Democrats"
     publishedDateTime: 2021-05-24T21:39:00Z
