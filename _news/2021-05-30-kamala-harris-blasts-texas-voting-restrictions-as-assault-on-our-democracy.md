@@ -1,27 +1,33 @@
 ---
 category: news
-title: "‘You are prepared for any threat’: Vice President Kamala Harris says Naval Academy grads ready for anything"
-excerpt: "The world is rapidly changing, Vice President Kamala Harris told the graduates, pointing to the coronavirus pandemic as the most recent significant historical event."
-publishedDateTime: 2021-05-29T00:52:00Z
-originalUrl: "https://www.baltimoresun.com/education/ac-cn-usna-navy-graduation-coverage-20210528-g754rhovkfa3nhnci6t3tndoqm-story.html"
-webUrl: "https://www.baltimoresun.com/education/ac-cn-usna-navy-graduation-coverage-20210528-g754rhovkfa3nhnci6t3tndoqm-story.html"
+title: "Kamala Harris Blasts Texas Voting Restrictions As 'Assault on Our Democracy'"
+excerpt: "Vice President Kamala Harris has strongly criticized a Texas bill that will introduce new restrictions on voting in the Lone Star State and which is part of a wider push by Republicans to tighten election rules."
+publishedDateTime: 2021-05-30T09:19:00Z
+originalUrl: "https://www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185"
+webUrl: "https://www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185"
+ampWebUrl: "https://www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185?amp=1"
 type: article
-quality: 37
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/NGAKBsiUEGM18IgDSQPs_vqFzgE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EBQPNIVUIVDDHDSSLR4MSOV5KM.JPG"
-    width: 1200
-    height: 1033
+  - url: "https://d.newsweek.com/en/full/1810109/kamala-harris-makes-remarks-roundtable.jpg"
+    width: 2500
+    height: 1639
     isCached: true
 
 related:
@@ -40,22 +46,6 @@ related:
       - url: "https://i.insider.com/60aaf9e2f27b4c00194461bb?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Kamala Harris Blasts Texas Voting Restrictions As 'Assault on Our Democracy'"
-    excerpt: "Vice President Kamala Harris has strongly criticized a Texas bill that will introduce new restrictions on voting in the Lone Star State and which is part of a wider push by Republicans to tighten election rules."
-    publishedDateTime: 2021-05-30T09:19:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1810109/kamala-harris-makes-remarks-roundtable.jpg"
-        width: 2500
-        height: 1639
         isCached: true
   - title: "Kamala Harris Describes Colonial Pipeline Hack As 'Warning Shot' in Speech To Navy Graduates"
     excerpt: "\"We must defend our nation against these threats, and at the same time we must make advances in things that you've been learning — things like quantum computing and artificial intelligence and robotics and things that will put our nation at a strategic advantage,"
@@ -213,6 +203,20 @@ related:
         width: 1200
         height: 831
         isCached: true
+  - title: "‘You are prepared for any threat’: Vice President Kamala Harris says Naval Academy grads ready for anything"
+    excerpt: "The world is rapidly changing, Vice President Kamala Harris told the graduates, pointing to the coronavirus pandemic as the most recent significant historical event."
+    publishedDateTime: 2021-05-29T00:52:00Z
+    webUrl: "https://www.baltimoresun.com/education/ac-cn-usna-navy-graduation-coverage-20210528-g754rhovkfa3nhnci6t3tndoqm-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 37
+    images:
+      - url: "https://www.baltimoresun.com/resizer/NGAKBsiUEGM18IgDSQPs_vqFzgE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EBQPNIVUIVDDHDSSLR4MSOV5KM.JPG"
+        width: 1200
+        height: 1033
+        isCached: true
   - title: "Kamala Harris cites challenges of 'fragile' world in Navy speech"
     excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
     publishedDateTime: 2021-05-28T17:04:00Z
@@ -223,6 +227,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "uMD7ZsmdioKugT+uLl3uUKyPfP8P5S8ptEZ99DOrrVVzwKzRGOgQBEbMWn2rhW2fmk3XJoI5TCsF+UtXRG3Z8dSdv8v5lGBS3xg4yCQUkv0NJMX3DDhzBnwAJaNkZxCeIAB5tOZW/cJ7AKryiqEpWSQ5cbokiqp/C91aN6QZ0pP1rzfcqUeRvqdTVun1TTHxrs5pc9e/l6o6f/fzMLjyBXkwNY7+Jow9dwtiuOy90V7ijZj0Pw8i9yV7x+UsMWENiZgHZwhEJonUcmmr6CagDGnygIXb8n5/7uYy+RV10jZUECrKW3iwATeway0sk9SjYcMOuB9pDJL2wnUpnrf1xMuj7dI9qoP1Ja5IWJsFlQuw4DfJgLD4V12BwFptr3PYAK3obauL0BdHIFWP9hsfhjUP78UcEgrBYDyIa2aIj6wD1hfmmPVwKSuj36Fb8jg6puymVplaNCn6gWiUQVx+t3HULggGq0V51oPVryjRwuVaDcJQ/KglqohGKecSKUozbXXo3Iz2ewmk3ZA5VGD9eQ==;oRXd9cRgacQ4P+dpnZmhkw=="
+secured: "itQnwKk7tVNNHMVk21VL9C/CssdZun7by5guEygbAyzTvFLm4iyQZYfk+9+pryjvi29smsA3Ecb78ahNC6hY38CAEuejexp8Jcf9S309SjJuN4/1O52JpVNFdexc9negScMepIXLv9oGmBevUhlrb0pgbMwkRw34ZJtApnrCGx295j7KggGD3zZvPilzPByS2DH6g9X21VerdxkvVhrLVcPbpv8y1YTpB3A7ZVCQ/VwyCw1caqhResbTCDe+q92kZDu+Pjxkt6CXrJyIhHreqqMDo0Me/CrDlubqvd8qDJdPVP0jhTyD0I99XyqKh5nXzFAHEhGiMftDNO28Yiu95zJh51bm6fIh1hdsVCB1NM8=;zSIKat6HbZVJTTTueGEK+g=="
 ---
 

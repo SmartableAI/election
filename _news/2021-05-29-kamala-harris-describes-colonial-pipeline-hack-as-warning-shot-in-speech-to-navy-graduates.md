@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris Blasts Texas Voting Restrictions As 'Assault on Our Democracy'"
+    excerpt: "Vice President Kamala Harris has strongly criticized a Texas bill that will introduce new restrictions on voting in the Lone Star State and which is part of a wider push by Republicans to tighten election rules."
+    publishedDateTime: 2021-05-30T09:19:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1810109/kamala-harris-makes-remarks-roundtable.jpg"
+        width: 2500
+        height: 1639
+        isCached: true
   - title: "VP Harris meets with Congressional Hispanic Caucus"
     excerpt: "Vice President Kamala Harris met with members of the Congressional Hispanic Caucus to discuss the coronavirus pandemic, immigration and other issues on Monday. (May 17)"
     publishedDateTime: 2021-05-17T21:30:00Z

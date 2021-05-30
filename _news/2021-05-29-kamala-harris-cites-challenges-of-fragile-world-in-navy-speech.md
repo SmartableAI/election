@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris Blasts Texas Voting Restrictions As 'Assault on Our Democracy'"
+    excerpt: "Vice President Kamala Harris has strongly criticized a Texas bill that will introduce new restrictions on voting in the Lone Star State and which is part of a wider push by Republicans to tighten election rules."
+    publishedDateTime: 2021-05-30T09:19:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1810109/kamala-harris-makes-remarks-roundtable.jpg"
+        width: 2500
+        height: 1639
+        isCached: true
   - title: "Kamala Harris Describes Colonial Pipeline Hack As 'Warning Shot' in Speech To Navy Graduates"
     excerpt: "\"We must defend our nation against these threats, and at the same time we must make advances in things that you've been learning — things like quantum computing and artificial intelligence and robotics and things that will put our nation at a strategic advantage,"
     publishedDateTime: 2021-05-28T17:22:00Z
