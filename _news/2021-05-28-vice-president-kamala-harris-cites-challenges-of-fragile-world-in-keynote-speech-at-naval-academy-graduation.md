@@ -199,6 +199,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
+    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
+    publishedDateTime: 2021-05-31T00:11:00Z
+    webUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+    ampWebUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-capitalgazette-com.cdn.ampproject.org/c/s/www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Capital Gazette
+      domain: capitalgazette.com
+    quality: 55
+    images:
+      - url: "https://www.capitalgazette.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
+        width: 1200
+        height: 831
+        isCached: true
   - title: "‘You are prepared for any threat’: Vice President Kamala Harris says Naval Academy grads ready for anything"
     excerpt: "The world is rapidly changing, Vice President Kamala Harris told the graduates, pointing to the coronavirus pandemic as the most recent significant historical event."
     publishedDateTime: 2021-05-29T00:52:00Z

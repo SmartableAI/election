@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Kamala Harris tells 2021 graduating class 'you give me such inspiration'"
-excerpt: "\"I couldn't be more proud of you guys,\" she told the seniors. \"The things that you all have accomplished, you give me such inspiration.\""
-publishedDateTime: 2021-05-24T03:09:00Z
-originalUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5"
-webUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5"
-ampWebUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
+title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
+excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
+publishedDateTime: 2021-05-31T00:11:00Z
+originalUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+webUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+ampWebUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-capitalgazette-com.cdn.ampproject.org/c/s/www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
 type: article
-quality: 124
-heat: 404
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Capital Gazette
+  domain: capitalgazette.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://i.insider.com/60aaf9e2f27b4c00194461bb?width=1200&format=jpeg"
+  - url: "https://www.capitalgazette.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
     width: 1200
-    height: 600
+    height: 831
     isCached: true
 
 related:
+  - title: "Kamala Harris tells 2021 graduating class 'you give me such inspiration'"
+    excerpt: "\"I couldn't be more proud of you guys,\" she told the seniors. \"The things that you all have accomplished, you give me such inspiration.\""
+    publishedDateTime: 2021-05-24T03:09:00Z
+    webUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/60aaf9e2f27b4c00194461bb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kamala Harris Blasts Texas Voting Restrictions As 'Assault on Our Democracy'"
     excerpt: "Vice President Kamala Harris has strongly criticized a Texas bill that will introduce new restrictions on voting in the Lone Star State and which is part of a wider push by Republicans to tighten election rules."
     publishedDateTime: 2021-05-30T09:19:00Z
@@ -203,22 +215,6 @@ related:
         width: 1200
         height: 831
         isCached: true
-  - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
-    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
-    publishedDateTime: 2021-05-31T00:11:00Z
-    webUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-    ampWebUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-capitalgazette-com.cdn.ampproject.org/c/s/www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Capital Gazette
-      domain: capitalgazette.com
-    quality: 55
-    images:
-      - url: "https://www.capitalgazette.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
-        width: 1200
-        height: 831
-        isCached: true
   - title: "‘You are prepared for any threat’: Vice President Kamala Harris says Naval Academy grads ready for anything"
     excerpt: "The world is rapidly changing, Vice President Kamala Harris told the graduates, pointing to the coronavirus pandemic as the most recent significant historical event."
     publishedDateTime: 2021-05-29T00:52:00Z
@@ -243,6 +239,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "NfZC0V/3Wqm3qxD0V70/NGr/V0OFNqnqhTmu+9QV7sUu6j5J2pgnZNCx4yaMc0W3Z8fo8WuW86jiZREWn9LCOm1EKDlX0QB4rZDSymWLQ4YhwXX5yHKwei4EsCJZgMTjyWSXAj4vcYUHYVIse6jF+hrwXl54Ix5kvarYvaoEOYzBeSj6HG46tKt3QOmQz6HsvTNhyx8P54tIKs8DVyle3oCsoHDEKt887fysMkau2g1L5rPfd2d7Bf7q+x1c+b2m2SQUBab6wJacuhWObbvJD0MXB0XCEh5e/uLKsWplbw39TtIMylJRaVHGCYFKyJn4TRewvkOZctI2MPIYT/WlHsrujRb/omuhHIlNcWc9ydBX9EGN1rLdKBMDtt7azLvuSvHbzWy7fg1VrsLKwFsHAOna1bbrBTfYg16PkeC/w2O+yGQ8Z/33PIPy4Av6+EiPbYKuXLygmmSCgCpof1+B3HkTU8GJ9809k+904sDz1QsVu6s36BuBKpVqqC81sDKz35VuySauuxivX4kMwnv6kw==;Aw1XdCvyhIK+Q6f97Fs1IA=="
+secured: "diCLnEgbFsXh/wc7H5T6P05uF1RyWPyjwBe8jhiIoaP/DK1ex3ToutR4AtwFvDnagTa7q9IhFPmdaC8PucKgFxOxHBa1LzSZd4hjvO50HMp+cIb+1+itUam43T4uTy2TwmFXqUN6qbJm47aqlXufuPgIpesZrLlexmj0COLWX7A9OtnLSTap5HJx6ULU9oZxmt8hUwgq1oVBm4KFuQlosnXsek8qRHNVUAon2V1iYdbBYkWuThti/WNbRuGU6mIYz11ExbaHHkvL7IbevQh7ebxt93CV2Y3VPRvPeG49VWpf2lwXeiZXaLIxpoN7g5lq7BdXc7JlGXq2S6+gSocC6cWCXI+rU3KUaD+O8NgtxRM=;rOUr7GH5zwWU8I2ACj4oJA=="
 ---
 

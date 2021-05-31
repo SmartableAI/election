@@ -213,6 +213,22 @@ related:
         width: 1200
         height: 831
         isCached: true
+  - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
+    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
+    publishedDateTime: 2021-05-31T00:11:00Z
+    webUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
+    ampWebUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-capitalgazette-com.cdn.ampproject.org/c/s/www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Capital Gazette
+      domain: capitalgazette.com
+    quality: 55
+    images:
+      - url: "https://www.capitalgazette.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
+        width: 1200
+        height: 831
+        isCached: true
   - title: "Kamala Harris cites challenges of 'fragile' world in Navy speech"
     excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
     publishedDateTime: 2021-05-28T17:04:00Z
