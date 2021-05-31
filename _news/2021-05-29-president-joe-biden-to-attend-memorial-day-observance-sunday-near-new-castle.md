@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Here's a closer look at Air Force One and the presidential motorcade during Biden's trip to Detroit"
-    excerpt: "In an unusual occurrence, the location where photographers were allowed to photograph Air Force One landing was also on the motorcade route."
-    publishedDateTime: 2021-05-24T16:03:00Z
-    webUrl: "https://www.businessinsider.com/closer-look-at-air-force-one-and-biden-presidential-motorcade-2021-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/60abcdcd5e34570019265227?width=1200&format=jpeg"
-        width: 960
-        height: 480
-        isCached: true
 
 secured: "jmEuaMnv+4wxn+dxZ5HhGuRXUmwjfe53Kgr2d1XIwUut+yhWM/u7qhLpB6NS/By6dQoLqvxdDG58mXmhuum3Zkeo9CygEtqy+qXhKKnTXXRzlW0LuMTLOA2POT5HBznpncdfZaCJe9gzp21OPjIn8PhihuMDaTIDQn6j7tw6n8ljrlJNFMwcQlO1Gr2myoka3dgR4VaNjngYudNNfBWOwhsfbiaOcAC7B4vlALJYnRMnSh4KRIWC5l/eY4ujh6Rb4Anw7R2/kVZCyUGEpqUtVcqgA3r8PR7Z7vZoHU5rPvO0KQNMuDpLU7Gc6AWhailrJMfQoPAiiIFNqO+RD/YuBB9vtLqxmaUwHfoelW/YllPwBxuPzbt2fPjBztiDSLQyd/Jju29x2dJuyAqj+MJ61i6Mfd8dMLcWcfSbpMPAEvs1pbfGP41/+yxsLWdr8l+/IxEKbQ47T3nnktiGceQhSInMIleQdaytpNNJkxCzYO3bddhr+Pbs/kfblriB6545Ls7oFmUuc2Ct3QriIgjv7w==;Hl0Gm1dHkYFu6kV2hLxTaw=="
 ---

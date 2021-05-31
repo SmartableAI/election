@@ -1,22 +1,20 @@
 ---
 category: news
-title: "GOP blocks Capitol riot probe, displaying loyalty to Trump"
-excerpt: "Senate Republicans blocked creation of a bipartisan panel to investigate the deadly Jan. 6 attack on the Capitol, displaying continuing party loyalty to former President Donald Trump and firm determination to shift the political focus away from the violent insurrection by his GOP supporters."
-publishedDateTime: 2021-05-29T04:12:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
-webUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
+title: "Can the US avoid another Trump?"
+excerpt: "Former Obama adviser Ben Rhodes has travelled the world looking for clues to how the US came to elect Donald Trump and he found parallels everywhere. But is there a way of stopping it from happening again?"
+publishedDateTime: 2021-05-31T01:00:00Z
+originalUrl: "https://www.theguardian.com/news/audio/2021/may/31/can-the-us-avoid-another-trump-podcast"
+webUrl: "https://www.theguardian.com/news/audio/2021/may/31/can-the-us-avoid-another-trump-podcast"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_d1c34c2343b643788b26d972aca84131_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://i.guim.co.uk/img/media/76a40b73d7ef25925928c7740d3f555ccdd2b0fa/0_133_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ab622bdaac0dc5d28e44d8d984d982b"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -207,6 +205,22 @@ related:
         width: 1340
         height: 800
         isCached: true
+  - title: "GOP blocks Capitol riot probe, displaying loyalty to Trump"
+    excerpt: "Senate Republicans blocked creation of a bipartisan panel to investigate the deadly Jan. 6 attack on the Capitol, displaying continuing party loyalty to former President Donald Trump and firm determination to shift the political focus away from the violent insurrection by his GOP supporters."
+    publishedDateTime: 2021-05-29T04:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d1c34c2343b643788b26d972aca84131_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Justice Department appeals judge’s order to release Trump obstruction memo"
     excerpt: "The Biden administration will appeal a judge’s order to release a memo on whether former President Trump obstructed justice during the Russia probe."
     publishedDateTime: 2021-05-25T08:06:00Z
@@ -331,20 +345,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Can the US avoid another Trump?"
-    excerpt: "Former Obama adviser Ben Rhodes has travelled the world looking for clues to how the US came to elect Donald Trump and he found parallels everywhere. But is there a way of stopping it from happening again?"
-    publishedDateTime: 2021-05-31T01:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2021/may/31/can-the-us-avoid-another-trump-podcast"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/76a40b73d7ef25925928c7740d3f555ccdd2b0fa/0_133_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ab622bdaac0dc5d28e44d8d984d982b"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "What happens next as grand jury considers case on Trump business dealings"
     excerpt: "Former President Donald Trump is responding to the seating of a grand jury in the investigation into his business dealings, calling it \"purely political.\" CBS News legal contributor Rebecca Roiphe joined CBSN's Tanya Rivero to explain the process and what could happen next in this investigation."
     publishedDateTime: 2021-05-26T19:45:00Z
@@ -461,6 +461,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "gYt7SH9wZEDkxh6LWmjsuWAgaml0HIiYXZq3bspfVnNV9/zLqRCmWGN12ToMdiJ/vcdPZB97Vw5goD8lEH5hkjuxiudZwpojRlyBNKzxdWkXGgDp9JfTrZJgNVidRPG/+q4KNNqNY/VePa4yex2FqZNG8dGz+WkNXeztwWaPBbbMhbhN7pcNz2U+etvMQyOn5MJknbqSKxtHWknw7pfWZoEFiRYC6G/HvL4/xrJ5A8c0fy4E+gJzQ8o280dABWpv5Xsx+if4DLRS0yGvmAnr+fgA5QlLhLtGpg3xkvrWZEOiX5cy4wHzk5Y9yME/BU79Tbbczt0rZSETbC33GIlucakyCtn8KX85O1FzCjfNdOqgrssDJ7m3dXIlYSHlmlv7iuVv+IhAsuxmf4msloJitTSfXNAe5vaK2BvH+O/WKVWbSOJxBUUBehyqMv2BM/mACZ8GTQ94R1qg4on9c7rqQz6xqJa4ZnoXLyJMyrCngLCpTx9YhUOxP5tuldcbhwqV3ojMFS5Dyq4tsNpn29jRaA==;ucvHuPdvqUtoHYkP1k6GqA=="
+secured: "qSdd22HX26aqxrUJuoS9xXav0sd+OG3YdYsDgRckUs1CHBNchCuAE9va2hms216pPg6iBfAEr4tnZPi73sDGJVSSHVcDAGmcbFoJ5tfKxXyhoaFzZzyU8RTRGUcBtClRr6L231DFghyvR4cH73pVmky1CrdP2ja47ZopS+umLv5faLHQqVwx0mP+KnCg6L3w2tRKuw1MbBwl+g3atEbmBfHaiONpNpBorkttVeGwJ6mbWoaUmDe85ZqccRGpQrGDEhfT280UTRvC1FXJhgEUo+NsqlbEsHmFPX2ROM9VA7cpcyO81BjnDiVqwisds9jMkHyEBRbqSlzhQ5m/3uFB5KnuWrdfaPTHfUpMOLarSfU=;/O2LMYNkYDkjqGrCsYofHQ=="
 ---
 

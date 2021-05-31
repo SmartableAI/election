@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ"
 type: article
 quality: 140
-heat: 680
+heat: 700
 published: true
 
 provider:
@@ -330,6 +330,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/05/27/story_10552831_1622089144.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Can the US avoid another Trump?"
+    excerpt: "Former Obama adviser Ben Rhodes has travelled the world looking for clues to how the US came to elect Donald Trump and he found parallels everywhere. But is there a way of stopping it from happening again?"
+    publishedDateTime: 2021-05-31T01:00:00Z
+    webUrl: "https://www.theguardian.com/news/audio/2021/may/31/can-the-us-avoid-another-trump-podcast"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/76a40b73d7ef25925928c7740d3f555ccdd2b0fa/0_133_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ab622bdaac0dc5d28e44d8d984d982b"
+        width: 1200
+        height: 630
         isCached: true
   - title: "What happens next as grand jury considers case on Trump business dealings"
     excerpt: "Former President Donald Trump is responding to the seating of a grand jury in the investigation into his business dealings, calling it \"purely political.\" CBS News legal contributor Rebecca Roiphe joined CBSN's Tanya Rivero to explain the process and what could happen next in this investigation."

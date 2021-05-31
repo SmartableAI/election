@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/28/biden-troop
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/28/biden-troops-before-memorial-day-we-owe-you/5253536001/"
 type: article
 quality: 105
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's a closer look at Air Force One and the presidential motorcade during Biden's trip to Detroit"
-    excerpt: "In an unusual occurrence, the location where photographers were allowed to photograph Air Force One landing was also on the motorcade route."
-    publishedDateTime: 2021-05-24T16:03:00Z
-    webUrl: "https://www.businessinsider.com/closer-look-at-air-force-one-and-biden-presidential-motorcade-2021-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/60abcdcd5e34570019265227?width=1200&format=jpeg"
-        width: 960
-        height: 480
-        isCached: true
   - title: "President Joe Biden to attend Memorial Day observance Sunday near New Castle"
     excerpt: "Joe Biden has been a frequent attendee at the Memorial Day observance at War Memorial Plaza near the Delaware Memorial Bridge near New Castle. This year, he'll attend the event as commander in chief."
     publishedDateTime: 2021-05-29T11:20:00Z
