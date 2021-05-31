@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-commemorates-fal
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-commemorates-fallen-veterans-arlington-cemetery-78001615"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden: All called to make our country free, fair"
+    excerpt: "President Joe Biden marks Memorial Day by reminding Americans that not all are called to \"make the ultimate sacrifice,\" but we are all called to make our nation \"free and fair.\" (May 31)"
+    publishedDateTime: 2021-05-31T16:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/31/biden-all-called-make-our-country-free-fair/5280850001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5d21195a-d3d0-42de-a3fb-9b7fe1cd2409_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden visits Arlington National Cemetery in Washington"
     excerpt: "U.S. President Joe Biden visits Section 60 at Arlington National Cemetery in Washington on April 14, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-04-14T19:39:00Z
@@ -62,6 +76,6 @@ related:
         height: 433
         isCached: true
 
-secured: "uN6QMhv2BjYjCYxL988F4G8uMNiJXKcW4F/6JBGoEZCVaRcNyhvzykQ4BCHSfWwtqH6lnSvMpv3tIBMkDEHJ3EfuK3/xAoCtYHfoazxxr8sSU8bkg7ORrFGftYIl70X+u1ZCTjIa0l02cDS+ymqX3wCLgkmrPnxBnvGyxtL5KQrUxUNKsQzgYLuaffrG62glLAz4gefn/s2LZ07mrPQhdB8fSqW4AI2pfXZTDPUI8qpQ6QFKH4bsT0V4ErCb1CFN+WaFt8FzudYquPiviXECMCxz7BTq3sIqSJGWGipVnNhe7MMy42fwxGo/u3W2Nq823+8ykpP92eU9q6vmJtYcjnawWIqdDy3Wpa/mdtLPT0Y=;9yEZ7YHj7S8yTHUE0J/O4g=="
+secured: "DtLlfp/fD6HA6Ed5ulNVR0OBsbByXOI70zk8v5anryadOl7MDNaCfSAxwe9MFoMBbkAMEFFk5l4+njtLt/9qgYEcjLtIi5sxWmLyd1zxCCspUA8NMZZgM7eWjPYYGAxIZ88SLO0r5+GNAXn4itotcceqa7MMjJeIU07eMl7gu1BrXowz6HBVy5Amhodw/06R4vAGYXWOFD3ABd8PjywXu6gYtW1m264Wl3ZfoJiSSGoOWbN6EnggulzwrvRYf+nCGxYACW4ljn0bAuWLaYMXilq354u3WjQGfeS3zgJ7dbOnIxk89QH7TEnk1zeqwi1F5fVCgD2NMlHZ0BDEw0HS6Tiv0JEZuorioSPcEZaNumsVwjPKFfkwUfCMB3cgXuMPR6qoRIQaP2vMV8TwtSIOuAHtXRL/R6WqnFOqG8rbk2UJKvzOjjo5B4OdulF+hEmJgnIbHf/doHkdEA+tA32w0lR9KXwuG7xd13rrod2VBfiaj6rR5kTwWmAAmyZspmIi2dQTwZgnGNpn7rOUh/SADg==;u7sqHh73FFhhL4KvAbW6UA=="
 ---
 

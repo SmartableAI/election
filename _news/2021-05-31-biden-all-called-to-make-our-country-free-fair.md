@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Joe Biden visits Arlington National Cemetery in Washington"
-excerpt: "U.S. President Joe Biden visits Section 60 at Arlington National Cemetery in Washington on April 14, 2021. Photo by Yuri Gripas/UPI"
-publishedDateTime: 2021-04-14T19:39:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/b43143fa69e9271435129ebdaed4fbb4/Joe-Biden-visits-Arlington-National-Cemetery-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/b43143fa69e9271435129ebdaed4fbb4/Joe-Biden-visits-Arlington-National-Cemetery-in-Washington/"
+title: "Biden: All called to make our country free, fair"
+excerpt: "President Joe Biden marks Memorial Day by reminding Americans that not all are called to \"make the ultimate sacrifice,\" but we are all called to make our nation \"free and fair.\" (May 31)"
+publishedDateTime: 2021-05-31T16:34:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/31/biden-all-called-make-our-country-free-fair/5280850001/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/31/biden-all-called-make-our-country-free-fair/5280850001/"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/b43143fa69e9271435129ebdaed4fbb4/BIDEN-ARLINGTON.jpg"
-    width: 650
-    height: 433
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5d21195a-d3d0-42de-a3fb-9b7fe1cd2409_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -57,21 +61,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden: All called to make our country free, fair"
-    excerpt: "President Joe Biden marks Memorial Day by reminding Americans that not all are called to \"make the ultimate sacrifice,\" but we are all called to make our nation \"free and fair.\" (May 31)"
-    publishedDateTime: 2021-05-31T16:34:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/31/biden-all-called-make-our-country-free-fair/5280850001/"
+  - title: "Joe Biden visits Arlington National Cemetery in Washington"
+    excerpt: "U.S. President Joe Biden visits Section 60 at Arlington National Cemetery in Washington on April 14, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-04-14T19:39:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b43143fa69e9271435129ebdaed4fbb4/Joe-Biden-visits-Arlington-National-Cemetery-in-Washington/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: UPI.com
+      domain: upi.com
+    quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5d21195a-d3d0-42de-a3fb-9b7fe1cd2409_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://cdnph.upi.com/pv/upi/b43143fa69e9271435129ebdaed4fbb4/BIDEN-ARLINGTON.jpg"
+        width: 650
+        height: 433
         isCached: true
 
-secured: "iuln3mral9n6FUwzxLd6VKSNExWHzO24JEwaS7p5SdJev+JBfu4Mu3EVftHM4wda6fpZYE5Ft9NTMrOIYqDiZbBLZHQvRo6ObUqGuikb6dQ33TvZlTbxtvyJNBwOyvNLZ5dQ1lhELQBNnx7e4PgS5JtZ9t55U/WZ+6OLb9CUXBhKCi14U+i39MjyO7KCIeP/vOZo4dj4FVglwp9FbP0qtTE9QLk2plqEKrY7xcXlBiYK4DgcgWLURHBSY+YJcgvTniN0Dq/LHHJIswN0AUR219tb0FM4lkHRNSknCgX/DsOcxjwe/gKgEGZy+EKgatGlboF3YZ5aCr31BuMX68azafpZpYO/3Gl447cN5E/8koA=;Br/9J76y1EZ+r1WVOp9Few=="
+secured: "d9USGhRe6nCXuxrtWgaTjKP7+wcdylGwkvW6ZuRH2wmhaK3e+jmO2KrlBFZfR5EjbfWd59/gCGVQ7TxOphLy0WFmmzLnc2FPjGFASJo6rR8ySotb/HGDHig432Vbg9r/z3q70xEmKTWYmOva3GrolMoIKsFWmY+HolpNbtAqW/J/34YAJqWDmt6udH8Eo7K5FsGQALzyAHZ+R6RuKpxqL2LeYKGwQ4hUQiP0ukrEulyRan19ZR7mTq2A63YaIi+PIYaj58IYwN04rhcoiCOVC3KQiiLGgszyiRzOUtK/Xw0/DNIVPrY/UyGaH6hxsZClDk2x4hZsXtPeQ9LaEZEZ2uzIiy5+KRh8MaR6NISuiPw=;WljH9cfgYmly5/u7DWU/MA=="
 ---
 

@@ -47,6 +47,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden: All called to make our country free, fair"
+    excerpt: "President Joe Biden marks Memorial Day by reminding Americans that not all are called to \"make the ultimate sacrifice,\" but we are all called to make our nation \"free and fair.\" (May 31)"
+    publishedDateTime: 2021-05-31T16:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/31/biden-all-called-make-our-country-free-fair/5280850001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5d21195a-d3d0-42de-a3fb-9b7fe1cd2409_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden visits Arlington National Cemetery in Washington"
     excerpt: "U.S. President Joe Biden visits Section 60 at Arlington National Cemetery in Washington on April 14, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-04-14T19:39:00Z
