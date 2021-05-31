@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-georg
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
 type: article
 quality: 146
-heat: 906
+heat: 926
 published: true
 
 provider:
@@ -521,6 +521,20 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/05/28/AP21148484547590_1_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 400
+        isCached: true
+  - title: "Kamala Harris Makes History At Naval Academy Commencement Address"
+    excerpt: "Vice President Kamala Harris yesterday became the first woman to deliver the commencement address at the U.S. Naval Academy. She addressed cyber security threats against the U.S."
+    publishedDateTime: 2021-05-31T11:21:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1001521997/kamala-harris-makes-history-at-naval-academy-commencement-address"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 55
+    images:
+      - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+        width: 500
+        height: 500
         isCached: true
   - title: "Vice President Kamala Harris swears in Kristen Clarke at Department of Justice"
     excerpt: "Kristen Clarke hugs her mom Pansy Clarke with Vice President Kamala Harris at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."

@@ -531,6 +531,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Kamala Harris Makes History At Naval Academy Commencement Address"
+    excerpt: "Vice President Kamala Harris yesterday became the first woman to deliver the commencement address at the U.S. Naval Academy. She addressed cyber security threats against the U.S."
+    publishedDateTime: 2021-05-31T11:21:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1001521997/kamala-harris-makes-history-at-naval-academy-commencement-address"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 55
+    images:
+      - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "George Floyd’s Family Urges Police Reform After Meeting With Biden, Harris"
     excerpt: "The meeting, one year after Floyd was killed by police, came as lawmakers missed Biden’s target date to enact meaningful police reform."
     publishedDateTime: 2021-05-25T21:30:00Z

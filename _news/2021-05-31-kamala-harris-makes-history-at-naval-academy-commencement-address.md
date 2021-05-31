@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Naval Academy Class of 2021 graduation live coverage: Vice President Kamala Harris speech begins"
-excerpt: "Few classes have borne witness to the kind of change the class of 2021 has, navigating COVID and the unknown, Superintendent Vice Adm. Sean Buck said in his speech as the Naval Academy graduation began."
-publishedDateTime: 2021-05-28T13:37:00Z
-originalUrl: "https://www.baltimoresun.com/education/ac-cn-usna-navy-graduation-coverage-20210528-g754rhovkfa3nhnci6t3tndoqm-story.html"
-webUrl: "https://www.baltimoresun.com/education/ac-cn-usna-navy-graduation-coverage-20210528-g754rhovkfa3nhnci6t3tndoqm-story.html"
+title: "Kamala Harris Makes History At Naval Academy Commencement Address"
+excerpt: "Vice President Kamala Harris yesterday became the first woman to deliver the commencement address at the U.S. Naval Academy. She addressed cyber security threats against the U.S."
+publishedDateTime: 2021-05-31T11:21:00Z
+originalUrl: "https://www.northcountrypublicradio.org/news/npr/1001521997/kamala-harris-makes-history-at-naval-academy-commencement-address"
+webUrl: "https://www.northcountrypublicradio.org/news/npr/1001521997/kamala-harris-makes-history-at-naval-academy-commencement-address"
 type: article
-quality: 42
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Northcountrypublicradio.org
+  domain: northcountrypublicradio.org
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/NGAKBsiUEGM18IgDSQPs_vqFzgE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EBQPNIVUIVDDHDSSLR4MSOV5KM.JPG"
-    width: 1200
-    height: 1033
+  - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+    width: 500
+    height: 500
     isCached: true
 
 related:
@@ -531,20 +531,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Kamala Harris Makes History At Naval Academy Commencement Address"
-    excerpt: "Vice President Kamala Harris yesterday became the first woman to deliver the commencement address at the U.S. Naval Academy. She addressed cyber security threats against the U.S."
-    publishedDateTime: 2021-05-31T11:21:00Z
-    webUrl: "https://www.northcountrypublicradio.org/news/npr/1001521997/kamala-harris-makes-history-at-naval-academy-commencement-address"
-    type: article
-    provider:
-      name: Northcountrypublicradio.org
-      domain: northcountrypublicradio.org
-    quality: 55
-    images:
-      - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
-        width: 500
-        height: 500
-        isCached: true
   - title: "Vice President Kamala Harris swears in Kristen Clarke at Department of Justice"
     excerpt: "Kristen Clarke hugs her mom Pansy Clarke with Vice President Kamala Harris at the Department of Justice in Washington, DC on Tuesday, May 25, 2021. Kristen Clarke was confirmed on Tuesday as the first black women to lead the Justice Departments Civil Rights Division."
     publishedDateTime: 2021-05-25T23:51:00Z
@@ -568,6 +554,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 48
+  - title: "Naval Academy Class of 2021 graduation live coverage: Vice President Kamala Harris speech begins"
+    excerpt: "Few classes have borne witness to the kind of change the class of 2021 has, navigating COVID and the unknown, Superintendent Vice Adm. Sean Buck said in his speech as the Naval Academy graduation began."
+    publishedDateTime: 2021-05-28T13:37:00Z
+    webUrl: "https://www.baltimoresun.com/education/ac-cn-usna-navy-graduation-coverage-20210528-g754rhovkfa3nhnci6t3tndoqm-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 42
+    images:
+      - url: "https://www.baltimoresun.com/resizer/NGAKBsiUEGM18IgDSQPs_vqFzgE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EBQPNIVUIVDDHDSSLR4MSOV5KM.JPG"
+        width: 1200
+        height: 1033
+        isCached: true
   - title: "Doug Emhoff, husband of Vice President Kamala Harris, to hear about COVID-19 business challenges in Annapolis"
     excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is scheduled to visit Annapolis this morning, taking part in a discussion with business owners about the challenges posed by the COVID-19 pandemic."
     publishedDateTime: 2021-05-18T13:09:00Z
@@ -592,6 +592,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "pNOh8AyWM/LojEqj9IMurgRa438gmkJTQ9UvSbf7k1XY/+QuuKC+zXrreAYkPmOSsnlrQt+xAhdLFEN/nIjibj5YnsIJqMYz/+iyoOcqJRYf2XGZkH6QNJplSdjFbTBNWpfxM2brvyW4TQqNjeX1BZBxUrh23V+PIXacOIAtbIhWmMEtrD8jJ+g2bymsfSjibc9urzj07tuv9OgK8RlWCDPBDOxi79W/H0dqvRQ8Z1Ef9RCMoOe6sMv8qziCg+hQJ5YmZ3NlabEYTo9mPkZ5eMPKADxv9pFdCMtzGqq2J6aBCC7lU7lHdRsBfVDZpIGWDvna88jPrTsRkti75O3ESTA/Kg/PLnMGwhuzz94xzZk3Mb+xHeSMK9BNHkzlUuL3XjvLcsyAci8bzSxQeo4hVaR2WPeL3HlFHgdHP+n/RHLMzOBxkGF8i0mEOcJx2uz8XlBrD8ro4mmhHxqwPTv1I+Ilo+69rl+aM/t8GF47645Xzt9NH60TiLWsV++68hmoCtgHGe3nPxWQuwLr6d26Nw==;ahddB763ORRU6l9JLyPcAg=="
+secured: "Wg8M74VT6A3xgweEMkxNPr7pM1gd39BugKeD+wjU6CWfzGNAD9CVy2JNVtbAzG+cnON9E/oym77vKw4V0Bi2sN7lNYDNa6M1BBI8TcYqTAbyMdC7OJ8LT3tZBYz3SaDaDVUzLT4QKAs1QEg6BgBDjJ1995OKy6wmI/p/URnqt3MIXCTemWTNTXXNl2eGyIA+TywV8cYAYLRJYH81y0dNcUpArhQzYgCdaftvw6fw8SlObOZm5DmlH8UshF/uvnGaj9itEKfgTYV2jQEgDtUFLtnocLaVH14i0MbKGI6yZUYof8qAghNDJTeIItjFzZczQTAFB2bVkMkPTT5gz25Pi9tt6a1IofBLMHzmJElqBfk=;KNHWQ9HA/4AuQdiNHvgjlA=="
 ---
 
