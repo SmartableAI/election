@@ -47,15 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Joe Biden under pressure from Democrats over infrastructure package"
-    excerpt: "Joe Biden is facing growing pressure from both flanks of the Democratic party as the US president negotiates his $2.3tn infrastructure package, between moderates who want him to strike a deal with Republicans and progressives who are urging him to walk away from the negotiating table."
-    publishedDateTime: 2021-05-27T09:00:00Z
-    webUrl: "https://www.ft.com/content/f60e617c-d3ae-46a9-895b-37a25820a9c2"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 85
 
 secured: "NqLfo5jKUOtULgxhzPAONN/U0gA3DDFEWsYOi9KgKxr1l+F4tyQZ0WmjwInQTo1HLmNXGOUmZ39ObV2SufAdD42HrSHN8F+THYL3rKfgmfTBcW6+/sj6d8DhP+y/dSJMjD8JTYq4fUqoGC45LCDzBqSyJrEskgg7ucUPHPqzov4soSOjbG3IhB2utfzuFwzYTehJf8FqQDAzIGTcSeJwb+rC1C96RAULGqnSUUc8+H41G+kNQUvj4PtOb11tVrMqqMA21hyL7XFOhDErq54wUNgYsUiv9aPHE3Utk0XUwGqrfX3FfMihVE2dwamd7WwV6ACfTgks+cBTPXR1H7koJs79v2yzv7X8n92OETFaXD/CMoPIKr0wFBQC1yy4r9Ow8j2Fgbshx+7nxmjOipIHLF+q/GhA+FEVrKUBTLZFY6KiT1o2BIZC9SL/KxdxFuEzPaZq8Nw3+3T472iPlfOpj/NyyXoKcxK0ux5Ae0QySVUWwGi6SCpt66mwYlFpXmTxdztTsWVUC/ZeuUfyZxa8wA==;qjOF+WDnkMJkAFEmAarBJw=="
 ---

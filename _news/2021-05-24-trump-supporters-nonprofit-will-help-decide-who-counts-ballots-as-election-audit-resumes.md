@@ -63,22 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Most Republicans still believe 2020 election was stolen from Trump – poll"
-    excerpt: "May opinion poll finds that 53% of Republicans believe Trump is the ‘true president’ compared with 3% of Democrats"
-    publishedDateTime: 2021-05-24T21:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/24/republicans-2020-election-poll-trump-biden"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 139
-    images:
-      - url: "https://i.guim.co.uk/img/media/aab738d46a9b2e7ce009c676cb4f62f8d94df627/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=43f3841ea4390c7aede36e6dd996a695"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Trump lashes out against possible U.S. Senate candidate Mark Brnovich over election audit"
     excerpt: "Trump’s disapproval of Brnovich, Arizona's attorney general, could be significant because of Trump's continued support among many Republicans."
     publishedDateTime: 2021-05-25T14:20:00Z
@@ -303,6 +287,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "New York prosecutors convene grand jury to consider evidence in Trump criminal investigation, AP source says"
+    excerpt: "The development signals that the Manhattan district attorney’s office was moving toward seeking charges as a result of its two-year investigation."
+    publishedDateTime: 2021-05-25T23:15:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-grand-jury-20210525-hiolilhyxvendkhgvde5xgv7ey-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-grand-jury-20210525-hiolilhyxvendkhgvde5xgv7ey-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-grand-jury-20210525-hiolilhyxvendkhgvde5xgv7ey-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 106
+    images:
+      - url: "https://www.chicagotribune.com/resizer/iJZKeYPw-ydSfmuaLrF4ibpV8c4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NATLNQKHQI2SY3VDFU3DL3TF7M.aspx"
+        width: 1200
+        height: 811
+        isCached: true
   - title: "Trump Org. subject of criminal probe in New York"
     excerpt: "New York's attorney general said Friday that she's assigned two lawyers to work with the Manhattan district's attorney's office on a criminal investigation into former President Donald Trump's business dealings."
     publishedDateTime: 2021-05-21T19:38:00Z
@@ -388,22 +388,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/25/general-michael-flynn-pleaded-guilty-to-lying-to.jpg"
         width: 1024
         height: 602
-        isCached: true
-  - title: "Most Republicans Still Believe 2020 Election Was Rigged, Trump Is Actual President: Poll"
-    excerpt: "A new Reuters/Ipsos opinion poll found that 53% of Republicans believe Trump is the “true president”, compared with 3% of Democrats and 25% of all Americans."
-    publishedDateTime: 2021-05-25T02:34:00Z
-    webUrl: "https://www.ibtimes.com/most-republicans-still-believe-2020-election-was-rigged-trump-actual-president-poll-3207536"
-    ampWebUrl: "https://www.ibtimes.com/most-republicans-still-believe-2020-election-was-rigged-trump-actual-president-poll-3207536?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/most-republicans-still-believe-2020-election-was-rigged-trump-actual-president-poll-3207536?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 81
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
-        width: 1024
-        height: 731
         isCached: true
   - title: "With tall Trump tale, Macron plays to France's young voters"
     excerpt: "Filmed in the French presidential palace with two of France's most popular YouTube stars, the half-hour of banter, tall tales, and a grungy rendition of “La Marseillaise\" by heavy-metal band “Ultra Vomit” represented Macron's most audacious effort yet to woo young voters."

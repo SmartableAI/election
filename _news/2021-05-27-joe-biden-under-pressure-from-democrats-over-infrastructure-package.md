@@ -23,37 +23,108 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden to GOP: 'Don't get in the way' of infrastructure plan"
-    excerpt: "President Joe Biden is warning naysayers in Congress not to “get in the way” of his big infrastructure plans as the White House panned a counteroffer from Republican senators to tap unused COVID-19 relief for a more modest investment in roads,"
-    publishedDateTime: 2021-05-28T04:18:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654"
+  - title: "The federal government puts out a ‘help wanted’ notice as Biden seeks to undo Trump cuts"
+    excerpt: "The federal bureaucracy, reeling under the effects of the former president, is struggling to make good on the current president’s promises."
+    publishedDateTime: 2021-05-21T14:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJRD2WVUJAI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 962
+        isCached: true
+  - title: "Biden seeks to expand legal assistance for lower income people"
+    excerpt: "President Joe Biden will sign a presidential memo aimed at boosting public defenders and civil legal aid providers in a bid to help people with lower incomes have better representation in the U.S. legal system,"
+    publishedDateTime: 2021-05-18T10:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-court-idUSKCN2CZ17R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2CZ1CU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2CZ1CU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f31c9f06758e48e98c1f2a10ec488122_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210518&t=2&i=1562530751&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4H0OK"
+        width: 835
+        height: 545
         isCached: true
-  - title: "'The clock is ticking': Democrats grow restless with Biden's infrastructure talks as Republicans float next counteroffer"
-    excerpt: "With sides still far apart, some Democrats say the time is nearing for Biden to try to pass an infrastructure package without Republicans."
-    publishedDateTime: 2021-05-25T22:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/25/biden-infrastructure-plan-republicans-democrats-far-apart-bill/7418435002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7418435002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7418435002"
+  - title: "ICE deported 348 migrant parents under Trump without ensuring children could go with them"
+    excerpt: "Some parents were deported without their children even after telling ICE officers that they wanted their children to come with them, the DHS inspector general found."
+    publishedDateTime: 2021-05-24T20:20:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-ice-deportations-parents-trump-family-separation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-ice-deportations-parents-trump-family-separation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-ice-deportations-parents-trump-family-separation/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 100
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/05/USAT/17e49864-676d-4081-a5f9-86bc0120a1b1-AP_Biden_12.jpg?auto=webp&crop=5406,3041,x0,y0&format=pjpg&width=1200"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/18/fca5c57b-04f7-4ff4-9832-a7b6c222547c/thumbnail/1200x630/d615f11dcdadbd7bc81e61c3680c60c9/ap19200565745965.jpg"
         width: 1200
-        height: 675
+        height: 630
+        isCached: true
+  - title: "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20"
+    excerpt: "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency"
+    publishedDateTime: 2021-05-17T23:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-donated-salary-presidential-pension-payments-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/60a2f78af27b4c0019444f88?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden to double funding to U.S. program that helps prepare for extreme weather events -Washington Post"
+    excerpt: "U.S. President Joe Biden on Monday will pledge $1 billion to a U.S. government program called Building Resilient Infrastructure and Communities that helps communities prepare for extreme weather events,"
+    publishedDateTime: 2021-05-24T14:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-climate-idUSW1N2LM01V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LM01V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LM01V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+  - title: "Survey experts have yet to figure out what caused the most significant polling error in 40 years in Trump-Biden race"
+    excerpt: "More than six months after the astonishing polling embarrassment in the 2020 U.S. elections, survey experts examining what went wrong are uncertain about what led to the sharpest discrepancy between the polls and popular vote outcome since Ronald Reagan defeated Jimmy Carter in a near-landslide in 1980."
+    publishedDateTime: 2021-05-20T12:03:00Z
+    webUrl: "https://www.chron.com/news/article/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Survey-experts-have-yet-to-figure-out-what-caused-16190666.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 67
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Joe Biden remarks on the Middle East"
+    excerpt: "U.S. President Joe Biden deliver remarks on the Middle East in the Cross Hall at the White House in Washington on Thursday, May 20, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-05-20T23:24:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/33cd2900febd06252fab95604ae60cfb/Joe-Biden-remarks-on-the-Middle-East/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/33cd2900febd06252fab95604ae60cfb/BIDEN-MIDDLE-EAST.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "52ws05lxK8RgRuPIu7PZzxblpmWnY8qvOS9QNpU8ckfoPTU+0DWCRowZv7PQyP3hol4jK+6VB+ECT5eo+8i+kaSZOYBF4iNX876DRnC86iVP9eiJK07cnvQ8l26r7qhTRI+bpLy9L9Dz87jFk1N1RoLmoErJQn+JDTuKq/gpayDdWB7ubVLU5eq8CecTBK/2gmaLiIXw4GkiezY9WRLCUnbn8G9PjGM/G5J/2YJ8gjgeqnwGRGMxIMw6riLRuz3PNot2zhTw4AiXe2ZdCkWOfyqcop9El4JC6iskbUh84x3x+9Cm9eVJhX4VX1stjMP32xl0TVcke3R4fb3Q2O7nOgAaQheTpkY/zwvdml7iWkCGsIk+oygO3mp0sMvNLkFbiyXCIxgx5Xxkd9ykBhc5kRs7hIxLFB1YJzegcQmArcehCNU5SQFy02ITdcRuNGXYflljtBcMwLn3wgYjcB7EMdQkg4xA15kGS/rNkiC2WL6OkkGCnne8sXqKX2r6/XujrHo6biJkKdpt1LSLEWwrHA==;F28bwQYNAFQWGI9oIT+ElA=="

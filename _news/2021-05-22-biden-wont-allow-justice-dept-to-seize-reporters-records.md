@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dep
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/biden-justice-dept-seize-reporters-records-77839035"
 type: article
 quality: 125
-heat: 285
+heat: 265
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://www.reuters.com/resizer/zFPyikFMOycCbbfusTx3EspN4gg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EWBKQLUVFFIMTIQJQUJGMCLSPI.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "President Biden proposes $6 trillion budget to Congress"
-    excerpt: "President Joe Biden is laying out his budget priorities to Congress with a $6 trillion proposal that would vastly expand social programs to help the neediest Americans. Maya MacGuineas of the Committee for a Responsible Federal Budget spoke with CBSN's Tanya Rivero about why she believes the national debt is a more important focus."
-    publishedDateTime: 2021-05-28T19:36:00Z
-    webUrl: "https://www.cbsnews.com/video/president-biden-proposes-6-trillion-budget-to-congress/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/28/450df1eb-df46-4437-a7fc-fbe85c407312/thumbnail/1200x630/f7665808fc62f080f73174c96b9c5a99/cbsn-fusion-president-biden-proposes-6-trillion-budget-to-congress-thumbnail-725077-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "METALS-Copper rises on reports of Biden's budget plans, Chile supply threat"
     excerpt: "Copper prices advanced on Friday, buoyed by demand optimism on reports of U.S. President Joe Biden's plans to make a $6 trillion budget announcement, while supply concerns in top producer Chile also supported sentiment."

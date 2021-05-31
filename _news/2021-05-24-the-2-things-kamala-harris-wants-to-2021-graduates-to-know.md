@@ -430,6 +430,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Long weekend for Kamala Harris after holiday tweet fails to mention Memorial Day"
+    excerpt: "It was a long weekend for Vice President Kamala D. Harris on social media after she posted a holiday tweet that neglected to mention Memorial Day. “Enjoy your long weekend,” Ms. Harris tweeted Saturday."
+    publishedDateTime: 2021-05-30T23:07:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/30/kamala-harris-bashed-long-weekend-tweet-fails-ment/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/30/kamala-harris-bashed-long-weekend-tweet-fails-ment/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/30/kamala-harris-bashed-long-weekend-tweet-fails-ment/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 70
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/28/APTOPIX_Naval_Academy_Harris_05471.jpg-192d8_c0-205-4932-3082_s1200x700.jpg?6b14bb736f2e4220616450469f82a9c123f4aa30"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Members of the George Floyd family Meet with President Biden andVice President Kamala Harris"
     excerpt: "Members of the George Floyd family including Gianna Floyd, George Floyds daughter; speak to the media outside the West Wing at White House in Washington, DC on Tuesday, May 25, 2021. The Floyd family meet with President Joe Biden and Vice President Kamala Harris in the Oval Office today on the one year anniversary of George Floyds death."
     publishedDateTime: 2021-05-25T20:28:00Z
@@ -457,20 +473,6 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/04/280420211619611627-1-scaled.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "The evolution of Joe Biden"
-    excerpt: "What happened to Joe Biden? Many people thought he was a moderate incrementalist, but now he's promoting whopping big legislative packages that make many on the progressive left extremely happy."
-    publishedDateTime: 2021-05-23T08:11:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/may/23/the-evolution-of-joe-biden/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
         isCached: true
   - title: "VP Harris holds virtual session on digital divide"
     excerpt: "Vice President Kamala Harris holds a virtual listening session to discuss the digital divide in American and how investments in the he American Jobs Plan will ensure every American has access to affordable, high-speed internet. (May 24)"

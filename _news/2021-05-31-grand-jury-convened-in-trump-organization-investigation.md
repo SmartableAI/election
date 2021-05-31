@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Biden condemns Belarus for diverting flight, arresting journalist"
-excerpt: "U.S. President Joe Biden on Monday condemned Belarus for intercepting a commercial flight and arresting a dissident journalist, and said he has asked his advisers to give him options to hold those responsible to account."
-publishedDateTime: 2021-05-24T22:37:00Z
-originalUrl: "https://www.reuters.com/article/belarus-politics-usa-biden-idUSW1N2MD05B"
-webUrl: "https://www.reuters.com/article/belarus-politics-usa-biden-idUSW1N2MD05B"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2MD05B"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2MD05B"
+title: "Grand jury convened in Trump Organization investigation"
+excerpt: "CBS News has learned that prosecutors in New York have convened a special grand jury to look at evidence in a criminal investigation into former President Trump's business dealings. CBS News legal contributor Jessica Levinson joins Elaine Quijano on CBSN with more on what this means and what to expect."
+publishedDateTime: 2021-05-30T23:22:00Z
+originalUrl: "https://www.cbsnews.com/video/breaking-down-the-investigation-into-donald-trump/"
+webUrl: "https://www.cbsnews.com/video/breaking-down-the-investigation-into-donald-trump/"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
+
+images:
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/26/2cee12b8-557a-41ff-8010-3c9b05ed62fe/thumbnail/1200x630/06bcc640d636ef243c239d0c730e1bfc/cbsn-fusion-breaking-down-the-investigation-into-pres-trump-thumbnail-723956-640x360.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Pastor Greg Locke Continues to Insist Trump Won Election, Biden 'Is Still a Fraud'"
@@ -119,6 +123,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden condemns Belarus for diverting flight, arresting journalist"
+    excerpt: "U.S. President Joe Biden on Monday condemned Belarus for intercepting a commercial flight and arresting a dissident journalist, and said he has asked his advisers to give him options to hold those responsible to account."
+    publishedDateTime: 2021-05-24T22:37:00Z
+    webUrl: "https://www.reuters.com/article/belarus-politics-usa-biden-idUSW1N2MD05B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2MD05B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2MD05B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "President Biden proposes $6 trillion budget to Congress"
     excerpt: "President Joe Biden is laying out his budget priorities to Congress with a $6 trillion proposal that would vastly expand social programs to help the neediest Americans. Maya MacGuineas of the Committee for a Responsible Federal Budget spoke with CBSN's Tanya Rivero about why she believes the national debt is a more important focus."
     publishedDateTime: 2021-05-28T19:36:00Z
@@ -130,20 +145,6 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/28/450df1eb-df46-4437-a7fc-fbe85c407312/thumbnail/1200x630/f7665808fc62f080f73174c96b9c5a99/cbsn-fusion-president-biden-proposes-6-trillion-budget-to-congress-thumbnail-725077-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Grand jury convened in Trump Organization investigation"
-    excerpt: "CBS News has learned that prosecutors in New York have convened a special grand jury to look at evidence in a criminal investigation into former President Trump's business dealings. CBS News legal contributor Jessica Levinson joins Elaine Quijano on CBSN with more on what this means and what to expect."
-    publishedDateTime: 2021-05-30T23:22:00Z
-    webUrl: "https://www.cbsnews.com/video/breaking-down-the-investigation-into-donald-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/26/2cee12b8-557a-41ff-8010-3c9b05ed62fe/thumbnail/1200x630/06bcc640d636ef243c239d0c730e1bfc/cbsn-fusion-breaking-down-the-investigation-into-pres-trump-thumbnail-723956-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -194,6 +195,6 @@ related:
         height: 400
         isCached: true
 
-secured: "+2ebxyTyPh6zYHW0nATFuR9nrKCan3QU0x+0qF3anL/OaLMcsmbx5woBAXn21V+RusnA/8hzkdm9WsEMVMqH2Nw+knXehLXbHoLifd8pvzJmf22Cg8wAoYE+LJUvsSoEXXnxPBNJ/uSThT8i9vuExtiicnOgKqDx2WFfW21mRqYOFxQZes0Ao4K0jrgjcQvC+PDc9Uf4EYHXUdtPvxpmcDQ2W1a6M5XDTWvhlGkycDeuwVRMKnMEspocLuFZZ4rfzKHWY1fHAUIsEffJGJopMky86z/2WNBGMW3Hu0E5LvxB7pwcBLVPBeYlLaEO6msqCA/BYgcrDxTqTjJAsvk4PnZiJBhkAqa9VE0H1WSW5fg=;Qe5nIT0l3Sye6tbwoGbqYg=="
+secured: "z/ZxSzd/THwYuG17xNsz/uQMtMNYrPL97LedcZG/kqmzlBy/ZQruPx54gTvmw1gTFTBuRO0Qze/cYSe4x7D5ZJLuUIVK0SvlZZ5wy9d6Tx9aO4QSJ+iC79TrRXWYk8td7YemepfQvhyv6i3aNEJwHy2MIdA188DWKAGxzdJTnWcSe9y/H8tHUwCeStXHbw/50B3xamQOu92Ixfm+S5snXezmBMTbvT/Z2931eIEeJp5Ov9tshCj85xtQypewoVMD0r/XJ9fV94JMOKjUnRuEtTv5OY8KYPAr0k/AucITNJOdrCTwnEc7KlsJQqxuNV+u8cTnOcq2NFOiGQPVCvnSdBeXzqqU+DuLEneRDpDetlY=;llxtACvTsTxHMnBvYsfTRA=="
 ---
 

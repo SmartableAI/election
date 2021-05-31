@@ -434,6 +434,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Long weekend for Kamala Harris after holiday tweet fails to mention Memorial Day"
+    excerpt: "It was a long weekend for Vice President Kamala D. Harris on social media after she posted a holiday tweet that neglected to mention Memorial Day. “Enjoy your long weekend,” Ms. Harris tweeted Saturday."
+    publishedDateTime: 2021-05-30T23:07:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/30/kamala-harris-bashed-long-weekend-tweet-fails-ment/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/30/kamala-harris-bashed-long-weekend-tweet-fails-ment/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/30/kamala-harris-bashed-long-weekend-tweet-fails-ment/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 70
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/28/APTOPIX_Naval_Academy_Harris_05471.jpg-192d8_c0-205-4932-3082_s1200x700.jpg?6b14bb736f2e4220616450469f82a9c123f4aa30"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris to give 2021 commencement speech in CNN special"
     excerpt: "CNN will honor the millions of students graduating from high school and college this weekend with a star-studded prime-time special."
     publishedDateTime: 2021-05-20T00:27:00Z
@@ -447,20 +463,6 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/04/280420211619611627-1-scaled.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "The evolution of Joe Biden"
-    excerpt: "What happened to Joe Biden? Many people thought he was a moderate incrementalist, but now he's promoting whopping big legislative packages that make many on the progressive left extremely happy."
-    publishedDateTime: 2021-05-23T08:11:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/may/23/the-evolution-of-joe-biden/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
         isCached: true
   - title: "The 2 things Kamala Harris wants to 2021 graduates to know"
     excerpt: "Vice President Kamala Harris congratulated 2021 graduates for overcoming the challenges brought on by the coronavirus pandemic and encouraged them to consider their role in making the world better."

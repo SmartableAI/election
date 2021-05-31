@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-31-pastor-greg-locke-continues-to-insist-trump-won-election-biden-is-still-a-fraud.md",
+      "title": "Pastor Greg Locke Continues to Insist Trump Won Election, Biden 'Is Still a Fraud'",
+      "excerpt": "Controversial right-wing Pastor Greg Locke on Sunday continued to claim that President Joe Biden \"is still a fraud\" and former President Donald Trump won the 2020 presidential election. Locke, head of the Baptist Global Vision Bible Church in Juliet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230",
+      "originalUrl": "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 369,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1810171/greg-locke-continues-insist-trump-won.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1",
+      "publishedDateTime": "2021-05-30T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-30-doj-asks-judge-to-dismiss-blm-protesters-case-against-trump-over-lafayette-square.md",
       "title": "DOJ asks judge to dismiss BLM protesters’ case against Trump over Lafayette Square",
       "excerpt": "The lawsuit came after Black Lives Matter protesters were cleared from Lafayette Park in Washington D.C. by police.",
@@ -153,7 +205,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -710,58 +762,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-27-ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria.md",
-      "title": "AP source: Biden ending Trump OK for US oil company in Syria",
-      "excerpt": "The Biden administration won’t renew a Trump-era waiver that allowed a politically connected U.S. oil company to operate in northeast Syria",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria/2021/05/27/1e6a0060-bf15-11eb-922a-c40c9774bc48_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria/2021/05/27/1e6a0060-bf15-11eb-922a-c40c9774bc48_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 380,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OOJZBHV7BEI6XERKYQGJO5F4JA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria/2021/05/27/1e6a0060-bf15-11eb-922a-c40c9774bc48_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-ending-trump-ok-for-us-oil-company-in-syria/2021/05/27/1e6a0060-bf15-11eb-922a-c40c9774bc48_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-27T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-27-us-judge-says-trumps-election-falsehoods-still-pose-security-risk.md",
       "title": "U.S. judge says Trump's election falsehoods still pose security risk",
       "excerpt": "A U.S. judge said there is a risk that Donald Trump's supporters could still carry out attacks similar to the deadly Jan. 6 assault on the U.S. Capitol, noting the former president's \"near-daily fulminations\" about his election loss have not subsided.",
@@ -770,7 +770,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-capitol-arrests-idUSKCN2D81NZ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 700,
+      "heat": 680,
       "tags": null,
       "images": [
         {
@@ -1341,58 +1341,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-26-poll-a-quarter-of-americans-say-donald-trump-is-true-president-of-the-us.md",
-      "title": "Poll: A quarter of Americans say Donald Trump is 'true president' of the US",
-      "excerpt": "An online Reuters/Ipsos poll of about 2,000 Americans finds sharp partisan differences in beliefs on the legitimacy of the 2020 election and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/25/poll-quarter-americans-surveyed-say-trump-true-president/7426714002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/25/poll-quarter-americans-surveyed-say-trump-true-president/7426714002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/09/USAT/20ff0474-6182-48fa-9e03-2c65ffaf7e9a-AP_Capitol_Breach.jpg?auto=webp&crop=5869,3301,x1,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7426714002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7426714002",
-      "publishedDateTime": "2021-05-25T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-25-desantis-shuts-down-reporters-suggestion-that-big-tech-bill-is-for-trump.md",
       "title": "DeSantis shuts down reporter's suggestion that Big Tech bill is 'for' Trump",
       "excerpt": "Florida Gov. Ron DeSantis, R., shot down a Miami Herald reporter on Monday who accused him of introducing his new Big Tech censorship bill that allows residents to sue Big Tech companies solely for the benefit of former President Donald Trump,",
@@ -1534,6 +1482,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-lindsey-graham-says-trump-will-have-some-damage-to-repair-if-he-runs-in-2024.md",
+      "title": "Lindsey Graham Says Trump Will Have 'Some Damage to Repair' If He Runs in 2024",
+      "excerpt": "Senator Lindsey Graham (R-SC) has said former President Donald Trump may have \"some damage to repair\" if he plans to run for the White House successfully in 2024. Graham, who has been a strong defender of Trump,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lindsey-graham-says-trump-will-have-some-damage-repair-if-he-runs-2024-1594439",
+      "originalUrl": "https://www.newsweek.com/lindsey-graham-says-trump-will-have-some-damage-repair-if-he-runs-2024-1594439",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1805796/lindsey-graham-speaks-press.jpg",
+          "width": 2500,
+          "height": 1750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lindsey-graham-says-trump-will-have-some-damage-repair-if-he-runs-2024-1594439?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-says-trump-will-have-some-damage-repair-if-he-runs-2024-1594439?amp=1",
+      "publishedDateTime": "2021-05-25T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

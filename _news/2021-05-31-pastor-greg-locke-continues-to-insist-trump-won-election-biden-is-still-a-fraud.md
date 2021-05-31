@@ -1,46 +1,36 @@
 ---
 category: news
-title: "Biden condemns Belarus for diverting flight, arresting journalist"
-excerpt: "U.S. President Joe Biden on Monday condemned Belarus for intercepting a commercial flight and arresting a dissident journalist, and said he has asked his advisers to give him options to hold those responsible to account."
-publishedDateTime: 2021-05-24T22:37:00Z
-originalUrl: "https://www.reuters.com/article/belarus-politics-usa-biden-idUSW1N2MD05B"
-webUrl: "https://www.reuters.com/article/belarus-politics-usa-biden-idUSW1N2MD05B"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2MD05B"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2MD05B"
+title: "Pastor Greg Locke Continues to Insist Trump Won Election, Biden 'Is Still a Fraud'"
+excerpt: "Controversial right-wing Pastor Greg Locke on Sunday continued to claim that President Joe Biden \"is still a fraud\" and former President Donald Trump won the 2020 presidential election. Locke, head of the Baptist Global Vision Bible Church in Juliet,"
+publishedDateTime: 2021-05-30T20:42:00Z
+originalUrl: "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230"
+webUrl: "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230"
+ampWebUrl: "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1"
 type: article
-quality: 105
-heat: -1
-published: false
+quality: 149
+heat: 369
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
+
+images:
+  - url: "https://d.newsweek.com/en/full/1810171/greg-locke-continues-insist-trump-won.jpg"
+    width: 2500
+    height: 1667
+    isCached: true
 
 related:
-  - title: "Pastor Greg Locke Continues to Insist Trump Won Election, Biden 'Is Still a Fraud'"
-    excerpt: "Controversial right-wing Pastor Greg Locke on Sunday continued to claim that President Joe Biden \"is still a fraud\" and former President Donald Trump won the 2020 presidential election. Locke, head of the Baptist Global Vision Bible Church in Juliet,"
-    publishedDateTime: 2021-05-30T20:42:00Z
-    webUrl: "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230"
-    ampWebUrl: "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 149
-    images:
-      - url: "https://d.newsweek.com/en/full/1810171/greg-locke-continues-insist-trump-won.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "AP source: Biden ending Trump OK for US oil company in Syria"
     excerpt: "The Biden administration won’t renew a Trump-era waiver that allowed a politically connected U.S. oil company to operate in northeast Syria"
     publishedDateTime: 2021-05-27T16:58:00Z
@@ -119,6 +109,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden condemns Belarus for diverting flight, arresting journalist"
+    excerpt: "U.S. President Joe Biden on Monday condemned Belarus for intercepting a commercial flight and arresting a dissident journalist, and said he has asked his advisers to give him options to hold those responsible to account."
+    publishedDateTime: 2021-05-24T22:37:00Z
+    webUrl: "https://www.reuters.com/article/belarus-politics-usa-biden-idUSW1N2MD05B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2MD05B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2MD05B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "President Biden proposes $6 trillion budget to Congress"
     excerpt: "President Joe Biden is laying out his budget priorities to Congress with a $6 trillion proposal that would vastly expand social programs to help the neediest Americans. Maya MacGuineas of the Committee for a Responsible Federal Budget spoke with CBSN's Tanya Rivero about why she believes the national debt is a more important focus."
     publishedDateTime: 2021-05-28T19:36:00Z
@@ -194,6 +195,6 @@ related:
         height: 400
         isCached: true
 
-secured: "+2ebxyTyPh6zYHW0nATFuR9nrKCan3QU0x+0qF3anL/OaLMcsmbx5woBAXn21V+RusnA/8hzkdm9WsEMVMqH2Nw+knXehLXbHoLifd8pvzJmf22Cg8wAoYE+LJUvsSoEXXnxPBNJ/uSThT8i9vuExtiicnOgKqDx2WFfW21mRqYOFxQZes0Ao4K0jrgjcQvC+PDc9Uf4EYHXUdtPvxpmcDQ2W1a6M5XDTWvhlGkycDeuwVRMKnMEspocLuFZZ4rfzKHWY1fHAUIsEffJGJopMky86z/2WNBGMW3Hu0E5LvxB7pwcBLVPBeYlLaEO6msqCA/BYgcrDxTqTjJAsvk4PnZiJBhkAqa9VE0H1WSW5fg=;Qe5nIT0l3Sye6tbwoGbqYg=="
+secured: "K+I5wUoHnA0bfRD0eku5xdCpN2t8E0vLtseGKfS8qtzeBrDdoIHkconAVMu7WSAUjXAET2iHoDYsVLZyObvmxTehGYLv1J9VY/5nL3B+X4danpRyeIREacxt+Ydrp+L+/zkuEJU+qOf94s8ICAhUCvnDuZ5R7osZ4DbuNZXlin0ML/z5aHwNwo/KdggMBKx1jNpfZfFFDC7IvWH6GpEvvx26Ro72WNA/xhEARq8C4mo34pzV+Ciy9X2Ejj5VcInnM5p6WaletJte5inMsoCKfseslQNCZaVYH5QHZC5sWauSjT6i6Tss3O2geI+6FWOrP06yssYmAkvAdExKzign9mxWed61aLZRiEAKev6UH4Q=;RyMG4sCJFc0LB4W9j3PPfg=="
 ---
 

@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden considering Caroline, Vicki Kennedy for ambassadors to Australia, Western Europe: report"
+    excerpt: "Sources familiar with the matter told Axios that Caroline Kennedy is under consideration to be U.S. ambassador to Australia, while Vicki Kennedy is being viewed as a potential pick for Western Europe."
+    publishedDateTime: 2021-05-30T23:26:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JfkWm7F2hco/biden-considering-caroline-vicki-kennedy-for-ambassadors-to-australia-western-europe"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-considering-caroline-vicki-kennedy-for-ambassadors-to-australia-western-europe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considering-caroline-vicki-kennedy-for-ambassadors-to-australia-western-europe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/168c5283-4842-412a-8322-5eced9ab2a41/09b74a5c-137c-4da4-ac4a-8ca8d445d604/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "DQen+NblDHFYBVV0TJYDKZY3adgbbRs5bbDlYQDFpsHPV+1DbVSTWoWN/s1aUbcuZy82geA0diRBx4srgt9zFP5IIKWaSZE0dTihfzCdywKKFHWgcw1TUL1EdeO/XP+7EnaoA2Ro4a+rRineO1XpLjkBUBhPohIVpoj1XBfy3HyAvkxFUHBcTmCUSjCiD+Ju5uCn+0xw9fqFyWWST3PcUEVPWHv9zqF5PfH2NLwk3SbZNsyu8mOdAzPz6GLkxZ5PNIEfxQ+Pr0NmimW1coxqfwjOMYArk4QtiYT8HRockr28t3iNQtLYrQuRm869rM00+cLp1yWj0kM3m7OCZQ2SYa0+SAG69SKnETE23X/mFGviHvfAgvld1Nrm9QG+ucMGsYVgaZzscIAMTzTvRRKj8OjwORpSzHKu2ROpDuLKcJomLfq6J/b1P08SWC7/WoLQehJV4Ar5MwDjyBcj+YD4MFmjYbJlnUBz6mlPJmrqB/OByJV2An3vyU8VzZEu6kg+hV4hnanc//6DF6bgBZ6dOQ==;tR5WC1mhFYveqV0rulg18Q=="
 ---

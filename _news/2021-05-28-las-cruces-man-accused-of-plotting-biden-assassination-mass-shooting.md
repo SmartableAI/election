@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7448404002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7448404002"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden's big budget comes with a modest growth outlook for an aging country"
+    excerpt: "President Joe Biden's first budget proposal comes with a big price tag - at $6 trillion, roughly 50% higher than pre-COVID-19 federal spending - but, at least for now, projects a relatively modest long-term lift to the economy,"
+    publishedDateTime: 2021-05-28T23:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-economy/bidens-big-budget-comes-with-a-modest-growth-outlook-for-an-aging-country-idUSKCN2D92JF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D92JF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D92JF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210529&t=2&i=1563801206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4R170"
+        width: 815
+        height: 545
+        isCached: true
   - title: "President Joe Biden says Texas voting bill is “part of an assault on democracy”"
     excerpt: "Senate Bill 7, a Republican priority voting bill, would limit early voting hours, curtail local voting options and further clamp down on mail-in voting, among several other provisions."
     publishedDateTime: 2021-05-29T18:23:00Z

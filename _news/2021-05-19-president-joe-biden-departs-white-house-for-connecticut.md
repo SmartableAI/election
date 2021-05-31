@@ -176,17 +176,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden condemns Belarus for diverting flight, arresting journalist"
-    excerpt: "U.S. President Joe Biden on Monday condemned Belarus for intercepting a commercial flight and arresting a dissident journalist, and said he has asked his advisers to give him options to hold those responsible to account."
-    publishedDateTime: 2021-05-24T22:37:00Z
-    webUrl: "https://www.reuters.com/article/belarus-politics-usa-biden-idUSW1N2MD05B"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2MD05B"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2MD05B"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Should Joe Biden reform the supreme court? Politics Weekly Extra"
     excerpt: "Jonathan Freedland speaks to Christopher Kang, former deputy counsel to President Obama, about calls to restructure the highest federal court in the country"
     publishedDateTime: 2021-05-28T03:00:00Z

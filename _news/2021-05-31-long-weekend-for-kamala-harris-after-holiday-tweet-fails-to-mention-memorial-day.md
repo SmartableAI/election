@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Kamala Harris to give 2021 commencement speech in CNN special"
-excerpt: "CNN will honor the millions of students graduating from high school and college this weekend with a star-studded prime-time special."
-publishedDateTime: 2021-05-20T00:27:00Z
-originalUrl: "https://thegrio.com/2021/05/19/kamala-harris-commencement-speech-cnn-graduation-special/"
-webUrl: "https://thegrio.com/2021/05/19/kamala-harris-commencement-speech-cnn-graduation-special/"
+title: "Long weekend for Kamala Harris after holiday tweet fails to mention Memorial Day"
+excerpt: "It was a long weekend for Vice President Kamala D. Harris on social media after she posted a holiday tweet that neglected to mention Memorial Day. “Enjoy your long weekend,” Ms. Harris tweeted Saturday."
+publishedDateTime: 2021-05-30T23:07:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/may/30/kamala-harris-bashed-long-weekend-tweet-fails-ment/"
+webUrl: "https://www.washingtontimes.com/news/2021/may/30/kamala-harris-bashed-long-weekend-tweet-fails-ment/"
+ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/30/kamala-harris-bashed-long-weekend-tweet-fails-ment/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/30/kamala-harris-bashed-long-weekend-tweet-fails-ment/"
 type: article
-quality: 55
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: The Grio
-  domain: thegrio.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://thegrio.com/wp-content/uploads/2021/04/280420211619611627-1-scaled.jpg"
-    width: 1280
-    height: 853
+  - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/28/APTOPIX_Naval_Academy_Harris_05471.jpg-192d8_c0-205-4932-3082_s1200x700.jpg?6b14bb736f2e4220616450469f82a9c123f4aa30"
+    width: 1200
+    height: 700
     isCached: true
 
 related:
@@ -434,22 +436,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Long weekend for Kamala Harris after holiday tweet fails to mention Memorial Day"
-    excerpt: "It was a long weekend for Vice President Kamala D. Harris on social media after she posted a holiday tweet that neglected to mention Memorial Day. “Enjoy your long weekend,” Ms. Harris tweeted Saturday."
-    publishedDateTime: 2021-05-30T23:07:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/may/30/kamala-harris-bashed-long-weekend-tweet-fails-ment/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/30/kamala-harris-bashed-long-weekend-tweet-fails-ment/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/30/kamala-harris-bashed-long-weekend-tweet-fails-ment/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 70
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/28/APTOPIX_Naval_Academy_Harris_05471.jpg-192d8_c0-205-4932-3082_s1200x700.jpg?6b14bb736f2e4220616450469f82a9c123f4aa30"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Members of the George Floyd family Meet with President Biden andVice President Kamala Harris"
     excerpt: "Members of the George Floyd family including Gianna Floyd, George Floyds daughter; speak to the media outside the West Wing at White House in Washington, DC on Tuesday, May 25, 2021. The Floyd family meet with President Joe Biden and Vice President Kamala Harris in the Oval Office today on the one year anniversary of George Floyds death."
     publishedDateTime: 2021-05-25T20:28:00Z
@@ -463,6 +449,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/3bc0308487f2515b6d6ac3b889282cf3/FLOYD-WHITE-HOUSE.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Kamala Harris to give 2021 commencement speech in CNN special"
+    excerpt: "CNN will honor the millions of students graduating from high school and college this weekend with a star-studded prime-time special."
+    publishedDateTime: 2021-05-20T00:27:00Z
+    webUrl: "https://thegrio.com/2021/05/19/kamala-harris-commencement-speech-cnn-graduation-special/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 55
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/04/280420211619611627-1-scaled.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "The 2 things Kamala Harris wants to 2021 graduates to know"
     excerpt: "Vice President Kamala Harris congratulated 2021 graduates for overcoming the challenges brought on by the coronavirus pandemic and encouraged them to consider their role in making the world better."
@@ -578,6 +578,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "Rjee6d9mFLcjF1A58pioJr26+axo1YnCUyxYTK12Kgq89xOg22fHM13DqCoy3vCbRElIiJjurmXIU0qOem/k0sgoEN3eLEiCpdp6RfUIVuoKG2HvP2o49UKpzmvXaLHX7bTy6eNnJl5mcCZdXM6M11mSD2zpvpuiEzvfea4tyzHv9SxvDNvSQG9zyJ6QzpFOOBA6Qa/yqLqsFsR4J4tF9jFtOq4RCcxpI3rVBnvWTu+GqQ0j+YIB2AFh7rdVZed+Mvm8HBqZXiXZ6GoipnQ5Qx4uVjt3/n/c1qorln4IZXsIVMYVyFxtyQyiBJyk99rzEVdzK9j7nASC0IUP/GkldHvuS44TTBiX430CdYuTPHnSke29lk7bttwiBxl4FlvqBZlMIkX803Y6+Lz9zwk+zfJUERWWUgE3sFFJfvrMeHBTwXZm0bdJT/NBki0ZfszgyCtmOp9OLVMLx7pUW3Gsf2kr4F8RPvb5bRj8j9bDM2g2JlOW4WY3nhuxyOEE2EG8EYmFVfsssu4XrsO7q8DVJw==;Ubh0eFpsgWxmJOBY/+XfUQ=="
+secured: "uX32WsnPNPa1YEvice34I95p8qshfoY28C7gf+eOC5eSd0EyqFHvzeHIIfld7cTO2ecve9ldZ0MkBCIpgwTtgb8VfUX5zCD7/3VrkwOeSaPWbSj6vsZHL/tdnoBYRouGr/XokGy7W/0tfjYxcsZyr23PTaeY6VTiFdZejAmEbHEJDfbLM33EOE/NlZufdlpFCLM6Uvok+4lY47v50FCGjCGgxLWf93jF9o//lKGizFuNRKrVuAXWdMSAJFYUydQZIAF7Gjt/MhzbZFiPAquW7Dp6EMPtl1Rol4mzp5Kx7PzR9ZKRo/l9vhsMJNGgnGQBOXjWXhNGXHBeufBIOk9my759hgq1NMV/XnBsvSlV//I=;xNYNxsBX9K6Aqex4FALTsw=="
 ---
 
