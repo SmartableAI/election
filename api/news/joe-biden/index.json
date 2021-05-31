@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-31-biden-commemorates-fallen-veterans-at-arlington-cemetery.md",
+      "title": "Biden commemorates fallen veterans at Arlington Cemetery",
+      "excerpt": "President Joe Biden has honored America’s war dead at Arlington National Cemetery on Memorial Day by laying a wreath at the hallowed burial ground",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-commemorates-fallen-veterans-arlington-cemetery-78001615",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-commemorates-fallen-veterans-arlington-cemetery-78001615",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_d8f908ec483f4c1e81bdf58d3c69d946_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-commemorates-fallen-veterans-arlington-cemetery-78001615",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-commemorates-fallen-veterans-arlington-cemetery-78001615",
+      "publishedDateTime": "2021-05-31T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-senator-ted-cruz-in-israel-calls-on-biden-to-deliver-more-weapons-to-the-country.md",
       "title": "Senator Ted Cruz, in Israel, calls on Biden to deliver more weapons to the country",
       "excerpt": "Cruz last week, introduced a resolution approving two arms sales to Israel after Democrats voiced concern and moved to block a sale of weapons.",
@@ -262,58 +314,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-29-in-biden-communion-debate-us-bishops-show-willingness-to-test-pope-francis.md",
-      "title": "In Biden Communion debate, US bishops' show willingness to test Pope Francis",
-      "excerpt": "But according to some observers, the controversy is less about the sacrament than it is about the lack of communion among the U.S. bishops themselves and between the U.S. conference and the Vatican. “This is more about Pope Francis than it is about Joe Biden,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/in-biden-communion-debate-us-bishops-show-willingness-to-test-pope-francis/2021/05/28/05bad548-c006-11eb-922a-c40c9774bc48_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/in-biden-communion-debate-us-bishops-show-willingness-to-test-pope-francis/2021/05/28/05bad548-c006-11eb-922a-c40c9774bc48_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/in-biden-communion-debate-us-bishops-show-willingness-to-test-pope-francis/2021/05/28/05bad548-c006-11eb-922a-c40c9774bc48_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/in-biden-communion-debate-us-bishops-show-willingness-to-test-pope-francis/2021/05/28/05bad548-c006-11eb-922a-c40c9774bc48_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-28T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-05-29-biden-to-troops-before-memorial-day-we-owe-you.md",
       "title": "Biden to troops before Memorial Day: 'We owe you'",
       "excerpt": "President Joe Biden traveled to Joint Base Langley-Eustis in Virginia Friday to thank troops ahead of the Memorial Day weekend and acknowledge the unheralded sacrifices that the service members and their families make.",
@@ -483,7 +483,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/crime/2021/05/26/las-cruces-man-accused-plotting-to-kill-president-joe-biden/7448404002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -748,7 +748,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-belarus-sanctions/biden-says-us-sanctions-against-belarus-are-in-play-idUSKCN2D62SK",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -800,7 +800,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad4c358f08d486a7712e13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 926,
+      "heat": 966,
       "tags": null,
       "images": [
         {

@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden honors fallen service members on Memorial Day"
+    excerpt: "President Joe Biden honored those who died serving in the military in Memorial Day remarks at Arlington National Cemetery on Monday.\n    \n"
+    publishedDateTime: 2021-05-31T15:37:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rZgAXcTbjRk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/31/politics/biden-memorial-day/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/31/politics/biden-memorial-day/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531093655-01-mdw-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Biden Isn’t Cracking Down on Fossil Fuels"
     excerpt: "Because of global warming, brought on by burning the very sort of fossil fuels that ConocoPhillips is extracting. With Joe Biden’s election in November, environmental advocates had hoped that such drilling on U."
     publishedDateTime: 2021-05-28T22:10:00Z

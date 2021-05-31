@@ -376,6 +376,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden, Kamala Harris commemorate fallen veterans at Arlington Cemetery on Memorial Day"
+    excerpt: "The president was joined on Monday by first lady Jill Biden, Vice President Kamala Harris and second gentleman Doug Emhoff in a somber ceremony in Virginia."
+    publishedDateTime: 2021-05-31T14:28:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 90
+    images:
+      - url: "https://www.baltimoresun.com/resizer/kma7aj3NxFM-9i89Nl7dVPdpzgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X33ST3VJERDXNFERUP4HBQPPVU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Harris, Emhoff earned more than Bidens with 7-figure earnings, taxes show"
     excerpt: "Both the first and second families' tax returns reveal losses of income since the successful Biden-Harris White House bid."
     publishedDateTime: 2021-05-18T12:32:00Z
@@ -439,6 +455,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/28/APTOPIX_Naval_Academy_Harris_05471.jpg-192d8_c0-205-4932-3082_s1200x700.jpg?6b14bb736f2e4220616450469f82a9c123f4aa30"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Kamala Harris pays tribute to fallen soldiers after backlash over Memorial Day tweet"
+    excerpt: "Vice President Kamala Harris paid tribute to members of the U.S. Armed Forces one day after she faced criticism from numerous people for referring to Memorial Day as a long three-day weekend without mentioning the significance of the national holiday."
+    publishedDateTime: 2021-05-31T14:35:00Z
+    webUrl: "https://www.christianpost.com/news/kamala-harris-pays-tribute-to-fallen-soldiers-after-criticisms-over-memorial-day-tweet.html"
+    ampWebUrl: "https://www.christianpost.com/amp/kamala-harris-pays-tribute-to-fallen-soldiers-after-criticisms-over-memorial-day-tweet.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/kamala-harris-pays-tribute-to-fallen-soldiers-after-criticisms-over-memorial-day-tweet.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 68
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/14/25/142518_w_450_300.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "Members of the George Floyd family Meet with President Biden andVice President Kamala Harris"
     excerpt: "Members of the George Floyd family including Gianna Floyd, George Floyds daughter; speak to the media outside the West Wing at White House in Washington, DC on Tuesday, May 25, 2021. The Floyd family meet with President Joe Biden and Vice President Kamala Harris in the Oval Office today on the one year anniversary of George Floyds death."
