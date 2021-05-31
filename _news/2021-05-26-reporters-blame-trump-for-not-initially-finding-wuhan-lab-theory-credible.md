@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Roger Stone joins Trump supporters at Florida Memorial Day boat parade"
+    excerpt: "Photos showed self-proclaimed “deplorables” sunning themselves on the decks of their vessels, which were bedecked with flags bearing slogans like “Trump is my President,”"
+    publishedDateTime: 2021-05-31T19:15:00Z
+    webUrl: "https://nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/"
+    ampWebUrl: "https://nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/Roger-Stone-023.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "‘Extremism’ Department of Defense adviser says Trump voters support racism"
     excerpt: "In two series of tweets, both written in the summer of 2019, Bishop Garrison went after fans and donors of former President Donald Trump."
     publishedDateTime: 2021-05-26T17:01:00Z

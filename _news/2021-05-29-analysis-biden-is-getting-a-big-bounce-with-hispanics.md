@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Read: President Biden's proclamation to mark the 100th anniversary of the Tulsa race massacre"
+    excerpt: "President Joe Biden released a proclamation for a day of remembrance for the centennial of the 1921 Tulsa race massacre, calling on the American people \"to reflect on the deep roots of racial terror in our Nation and recommit to the work of rooting out systemic racism across our country.\"\n    \n"
+    publishedDateTime: 2021-05-31T18:09:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0RJwk2STGEY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/31/politics/biden-tulsa-proclamation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/31/politics/biden-tulsa-proclamation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Joe Biden asks Americans to choose country over party as restrictive Texas voting bill advances, but consensus proves elusive"
     excerpt: "President Joe Biden weighed in on the restrictive Texas voting bill that is edging closer toward passage in that state's legislature Saturday, calling it \"wrong and un-American\" as he pressed Congress to pass the \"For the People Act\" that would reverse the GOP's assault on voting rights -- one that has"
     publishedDateTime: 2021-05-30T10:19:06Z

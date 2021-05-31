@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budge
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budget/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531093655-01-mdw-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read: President Biden's proclamation to mark the 100th anniversary of the Tulsa race massacre"
+    excerpt: "President Joe Biden released a proclamation for a day of remembrance for the centennial of the 1921 Tulsa race massacre, calling on the American people \"to reflect on the deep roots of racial terror in our Nation and recommit to the work of rooting out systemic racism across our country.\"\n    \n"
+    publishedDateTime: 2021-05-31T18:09:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0RJwk2STGEY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/31/politics/biden-tulsa-proclamation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/31/politics/biden-tulsa-proclamation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

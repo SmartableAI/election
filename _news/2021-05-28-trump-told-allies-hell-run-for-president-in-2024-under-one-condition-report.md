@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1665
         isCached: true
+  - title: "Trump's longtime ally Roger Stone has warned that the former president must prepare to be indicted for fraud in the coming weeks"
+    excerpt: "GOP strategist Roger Stone has predicted that Trump will be indicted imminently for \"bank fraud or tax fraud,\" he said in an interview with InfoWars."
+    publishedDateTime: 2021-05-30T15:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-ally-roger-stone-warns-the-ex-president-indicted-soon-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/trump-ally-roger-stone-warns-the-ex-president-indicted-soon-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ally-roger-stone-warns-the-ex-president-indicted-soon-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/60b37eedbee0fc0019d5a73e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "BWYvEGkYXcHS4GUBmmZYCrOCB5tSaF9uBdjN/kbO5ulv7gGbZHBUecTSSJDlnLIDVlpzDhnzwNeUB3lXIQ8wsQXS0REt9TcFPG1ikENzBYvh54wUi5r11ixl0O8074jILKVXy0bFxGpjdS6ElJl5bvobZv/2AS1BLEsgZYH5OXiUTXa19v8KTEZWmpSRboBLel9eBI4PwOLfn3W+FLfh0B7sPRnF4z1U7hJEZFAa2JF1zOA4kkFIZQmxHqKs7MEaEWl4iFI/s5JDZ0XCNF+VvehvNTK5z1xzX4R1fxzgEhBxY8PmylVP2TK4a2+COn5sgXpPMHJ02V/oF4iQvg3vE1bFN4sOWAv8ZR/WgkcSmkUDeGPj8LGdR2FK5AUnmr0qbz3dN5E9q0sR6IrPLv5fMOVm4kfbrp8cOB9w6iF2N+Clkr6iJKCnTpZmOSAHQ36JUOPU0s03Cf5Eck5lEpnjf+TipMEIZa4aSLedbOIFXcnT1pvpNBJ/Kh+HB2qzSkK5tTvil3ksiugPaHR7anudwQ==;Lh8V4tet4X09QnCcqNhvVg=="
 ---

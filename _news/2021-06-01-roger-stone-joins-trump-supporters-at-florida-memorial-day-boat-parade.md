@@ -1,14 +1,14 @@
 ---
 category: news
-title: "‘Extremism’ Department of Defense adviser says Trump voters support racism"
-excerpt: "In two series of tweets, both written in the summer of 2019, Bishop Garrison went after fans and donors of former President Donald Trump."
-publishedDateTime: 2021-05-26T17:01:00Z
-originalUrl: "https://nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/"
-webUrl: "https://nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/"
-ampWebUrl: "https://nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/amp/"
+title: "Roger Stone joins Trump supporters at Florida Memorial Day boat parade"
+excerpt: "Photos showed self-proclaimed “deplorables” sunning themselves on the decks of their vessels, which were bedecked with flags bearing slogans like “Trump is my President,”"
+publishedDateTime: 2021-05-31T19:15:00Z
+originalUrl: "https://nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/"
+webUrl: "https://nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/"
+ampWebUrl: "https://nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/amp/"
 type: article
-quality: 133
+quality: 135
 heat: -1
 published: false
 
@@ -22,7 +22,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/bishop-garrison-pentagon-01.jpg?quality=90&strip=all&w=1200"
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/Roger-Stone-023.jpg?quality=90&strip=all&w=1200"
     width: 1200
     height: 800
     isCached: true
@@ -44,22 +44,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Roger Stone joins Trump supporters at Florida Memorial Day boat parade"
-    excerpt: "Photos showed self-proclaimed “deplorables” sunning themselves on the decks of their vessels, which were bedecked with flags bearing slogans like “Trump is my President,”"
-    publishedDateTime: 2021-05-31T19:15:00Z
-    webUrl: "https://nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/"
-    ampWebUrl: "https://nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/Roger-Stone-023.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Reporters blame Trump for not initially finding Wuhan lab theory credible"
     excerpt: "New York Times reporter Maggie Haberman and others appeared to blame former President Donald Trump Tuesday for making the Wuhan lab-leak theory political and thus the reason why reporters didn’t find the theory credible."
     publishedDateTime: 2021-05-25T17:13:00Z
@@ -75,6 +59,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dea61b83-1533-43df-9888-9c98a0f4fe96/57b7fe76-0438-4557-9512-c821a89dfda8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "‘Extremism’ Department of Defense adviser says Trump voters support racism"
+    excerpt: "In two series of tweets, both written in the summer of 2019, Bishop Garrison went after fans and donors of former President Donald Trump."
+    publishedDateTime: 2021-05-26T17:01:00Z
+    webUrl: "https://nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/"
+    ampWebUrl: "https://nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/department-of-defense-advisor-trump-voters-support-racism/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/bishop-garrison-pentagon-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "CBS admits COVID lab-leak theory developments are 'vindication of sorts for Trump-era officials'"
     excerpt: "CBS offered a rather stunning concession about the coronavirus lab-leak theory that was first introduced by the Trump administration last year."
@@ -93,6 +93,6 @@ related:
         height: 405
         isCached: true
 
-secured: "N3Ij9v/mdmredTQVd4cSzh/Yc3Mbkgz8OdO9LDeMBqWiQAa728Wvsr+IdglKkbEhq/GH+2vjPqWeDxMl9WNIhUQe09b6AmwPrxCjxsk1+j4NoGmjSWkzF5eoaUtX5j5J7nBE2f6MGZOGLjO04uv/RdwJNWk30KXN2qE4DvI3N8KGvcpvbDyLAbapfjY5/zGNSbBB9B8UjR7gb2+zeSsD62S5NEbre1A+nAlWGyfrxGcps/TSp1JYcv+rcbyBUxkOIlqajcOHoGUA/RqXUGyhcmh9Rs6Y2TJmBpgjy7XQmFz1E7Yi0qTubiEaLRknowSf4Utpc0dfOcoj7NT9PJS1OxJhcMNS8Ct7A4YeEKKj+MA71jtCCMUO5ALyP1Fr9ZOwoE+ggYCHZ9YQWEvqxRgG9BTYGOFJwaGTFEI1W7nZKVAK90OCQZA7yilWU2ZyWaPylTbEBT96vMtoOeBzDLwoXEihzxd2OLmOS3CksB46zW6Ir9i23CPV87U1gOpKFEWXOLn4e8sdbrQUPU2mhu6W9w==;vdSlE6LKs7d3e6wmo5iC0A=="
+secured: "oeuMPm9lDoiggO3PTBUljbH+vq9dRN1z6P9ZDXvWCRC8l5hHzG7RH+sq0mRujQORL2eYRyAddPH5zjvMB00Q8iWGFctygjN2QJe5pvYzZoYD+WoL921WRKRUVC/IBos4oS4ncLGSTxXq0PrMzqoH3l0cXZ4mX998iEFPEwNPB1lJFvxcXhA30FfGc8SXi3JuHGub93ScNS/eS14ivoOr6CThUHScKcwIJvM5sSwpvAut7mFaEFpOQvgwnwQ7IQtTt8DKvKQW/8bTuCZ7mVsKoXTC+bL3GmgG62+opF60l7lLV8zWMO1hLdHh6pa84rvDpaap0dQGc/8G5pDCUEJuCAJr3uqbHWIYG+l3Hyr9eW4=;ZkCWf91pxLaRagRYnCXHDA=="
 ---
 

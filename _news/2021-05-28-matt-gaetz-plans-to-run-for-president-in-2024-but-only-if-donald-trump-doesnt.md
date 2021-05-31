@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1"
 type: article
 quality: 121
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's longtime ally Roger Stone has warned that the former president must prepare to be indicted for fraud in the coming weeks"
+    excerpt: "GOP strategist Roger Stone has predicted that Trump will be indicted imminently for \"bank fraud or tax fraud,\" he said in an interview with InfoWars."
+    publishedDateTime: 2021-05-30T15:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-ally-roger-stone-warns-the-ex-president-indicted-soon-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/trump-ally-roger-stone-warns-the-ex-president-indicted-soon-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ally-roger-stone-warns-the-ex-president-indicted-soon-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/60b37eedbee0fc0019d5a73e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Told Allies He'll Run For President In 2024 Under One Condition: Report"
     excerpt: "Trump’s political ambitions \"are making some congressional Republicans anxious,\" according to interviews conducted by Politico with 20 Republicans in both the House and Senate."
     publishedDateTime: 2021-05-28T11:31:00Z

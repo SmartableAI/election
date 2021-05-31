@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pentagon-official-bishop-garrison-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-official-bishop-garrison-trump-supporters-extremists.amp"
 type: article
 quality: 165
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Roger Stone joins Trump supporters at Florida Memorial Day boat parade"
+    excerpt: "Photos showed self-proclaimed “deplorables” sunning themselves on the decks of their vessels, which were bedecked with flags bearing slogans like “Trump is my President,”"
+    publishedDateTime: 2021-05-31T19:15:00Z
+    webUrl: "https://nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/"
+    ampWebUrl: "https://nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/Roger-Stone-023.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Reporters blame Trump for not initially finding Wuhan lab theory credible"
     excerpt: "New York Times reporter Maggie Haberman and others appeared to blame former President Donald Trump Tuesday for making the Wuhan lab-leak theory political and thus the reason why reporters didn’t find the theory credible."
     publishedDateTime: 2021-05-25T17:13:00Z

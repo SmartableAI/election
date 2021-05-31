@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden honors fallen service members on Memorial Day"
-excerpt: "President Joe Biden honored those who died serving in the military in Memorial Day remarks at Arlington National Cemetery on Monday.\n    \n"
-publishedDateTime: 2021-05-31T15:37:50Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rZgAXcTbjRk/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rZgAXcTbjRk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/31/politics/biden-memorial-day/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/31/politics/biden-memorial-day/index.html"
+title: "Read: President Biden's proclamation to mark the 100th anniversary of the Tulsa race massacre"
+excerpt: "President Joe Biden released a proclamation for a day of remembrance for the centennial of the 1921 Tulsa race massacre, calling on the American people \"to reflect on the deep roots of racial terror in our Nation and recommit to the work of rooting out systemic racism across our country.\"\n    \n"
+publishedDateTime: 2021-05-31T18:09:05Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0RJwk2STGEY/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0RJwk2STGEY/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/31/politics/biden-tulsa-proclamation/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/31/politics/biden-tulsa-proclamation/index.html"
 type: article
-quality: 175
+quality: 164
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531093655-01-mdw-biden-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -79,19 +79,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Read: President Biden's proclamation to mark the 100th anniversary of the Tulsa race massacre"
-    excerpt: "President Joe Biden released a proclamation for a day of remembrance for the centennial of the 1921 Tulsa race massacre, calling on the American people \"to reflect on the deep roots of racial terror in our Nation and recommit to the work of rooting out systemic racism across our country.\"\n    \n"
-    publishedDateTime: 2021-05-31T18:09:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0RJwk2STGEY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/31/politics/biden-tulsa-proclamation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/31/politics/biden-tulsa-proclamation/index.html"
+  - title: "Biden honors fallen service members on Memorial Day"
+    excerpt: "President Joe Biden honored those who died serving in the military in Memorial Day remarks at Arlington National Cemetery on Monday.\n    \n"
+    publishedDateTime: 2021-05-31T15:37:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rZgAXcTbjRk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/31/politics/biden-memorial-day/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/31/politics/biden-memorial-day/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531093655-01-mdw-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -156,6 +156,6 @@ related:
         height: 773
         isCached: true
 
-secured: "z+w/7hZcHEDGc1lQiau5SfEly5921c+q69pOfL2RAIoq73jLP8MdwgoXJT2dmzhfioVV+9mQ97fD2XughFNNLvxp0COmMFonLTJPs3Am0XoJTVUvJsON9FNKLgB2ypAH+vP8SgV0JJ8sI6+Mr2EegnpvXKhIWo2M8qGEZOS6WkvS4bVjXJMpetNvHHZHnb1Hi451i5xDcIb+oH16qoqIFEJtdYp9oBPgAnlTSvUHHgr7JhafMVX0YDUhOi8pKdIM3/fojL1RwljTxjDUnhuv2mlsqkHrP+ofNQGbzs9Zf/Re+a7t9qEq9U4v1bO2kHxgM+++wDsZ64GjWsrlQdnQ5iM4C4lTGmv7P0Kb2RBRQl8=;F6n25VY74YDUf1nFswy4qQ=="
+secured: "1jw+quiLHfw/i0B9XNtkm8Ce9UkwmQvX8uAvjlsDr9g2mUZlZDcDkkvSjnXLZo0siywyW9KnKc+vb8vvWOVVYCWJWI/koyQFc5k9NAhCwzD3PhVoT4bXWrJPkwyzUx4VlPAn0pZ3s2Nph28nUIDvs4ranzlf6dlCEtrvhZb5L7xKQ1g0qWo66XVQX1bLUuKViqxv030YuHWBzcbjzE+jwFcvRz73lLeR9pc6UKiENudZxGOo/2TH4QMBGVdMTvs5ZCRi8S9C8nXTc+mcpkUSzmzFuyvFu+IjXtkOhWhvj+ayQvsZCZLKRAuVQEkY+/Gz92ICmdnJyPH6zDx89GRZReOuFv6NkUqA15QLBQ5WdKQ=;ZZwYswebNZG62lJwvoogzg=="
 ---
 

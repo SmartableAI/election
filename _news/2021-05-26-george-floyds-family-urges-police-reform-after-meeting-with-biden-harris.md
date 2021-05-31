@@ -39,6 +39,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden, Kamala Harris commemorate fallen veterans at Arlington Cemetery on Memorial Day"
+    excerpt: "The president was joined on Monday by first lady Jill Biden, Vice President Kamala Harris and second gentleman Doug Emhoff in a somber ceremony in Virginia."
+    publishedDateTime: 2021-05-31T19:30:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 130
+    images:
+      - url: "https://www.chicagotribune.com/resizer/kma7aj3NxFM-9i89Nl7dVPdpzgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X33ST3VJERDXNFERUP4HBQPPVU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden to award 1st Medal of Honor to retired Georgia colonel"
     excerpt: "The White House says President Joe Biden will award his first Medal of Honor on Friday to retired Col. Ralph Puckett Jr., for acts of bravery 70 years ago during the Korean War"
     publishedDateTime: 2021-05-19T20:32:00Z

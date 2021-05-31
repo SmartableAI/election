@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Biden hopeful for a deal on George Floyd police bill after Memorial Day"
-excerpt: "U.S. President Joe Biden said on Tuesday he is hopeful an agreement will be reached on the George Floyd police reform legislation after the May 31 Memorial Day holiday."
-publishedDateTime: 2021-05-25T20:39:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-race-georgefloyd-biden-idUSKCN2D62SG"
-webUrl: "https://www.reuters.com/article/us-usa-race-georgefloyd-biden-idUSKCN2D62SG"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D62SG"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SG"
+title: "Joe Biden, Kamala Harris commemorate fallen veterans at Arlington Cemetery on Memorial Day"
+excerpt: "The president was joined on Monday by first lady Jill Biden, Vice President Kamala Harris and second gentleman Doug Emhoff in a somber ceremony in Virginia."
+publishedDateTime: 2021-05-31T19:30:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
 type: article
-quality: 125
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Kamala Harris
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210525&t=2&i=1563382884&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4O1EL"
-    width: 817
-    height: 545
+  - url: "https://www.chicagotribune.com/resizer/kma7aj3NxFM-9i89Nl7dVPdpzgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X33ST3VJERDXNFERUP4HBQPPVU.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/95fa8f9894af888284457c15293f5fe0131673b6/0_83_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0811f31c824459870e86ad221ddef118"
         width: 600
         height: 360
-        isCached: true
-  - title: "Joe Biden, Kamala Harris commemorate fallen veterans at Arlington Cemetery on Memorial Day"
-    excerpt: "The president was joined on Monday by first lady Jill Biden, Vice President Kamala Harris and second gentleman Doug Emhoff in a somber ceremony in Virginia."
-    publishedDateTime: 2021-05-31T19:30:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 130
-    images:
-      - url: "https://www.chicagotribune.com/resizer/kma7aj3NxFM-9i89Nl7dVPdpzgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X33ST3VJERDXNFERUP4HBQPPVU.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Biden to award 1st Medal of Honor to retired Georgia colonel"
     excerpt: "The White House says President Joe Biden will award his first Medal of Honor on Friday to retired Col. Ralph Puckett Jr., for acts of bravery 70 years ago during the Korean War"
@@ -190,6 +174,22 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_6104c03392e54f209c055dc21c625c3d_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden hopeful for a deal on George Floyd police bill after Memorial Day"
+    excerpt: "U.S. President Joe Biden said on Tuesday he is hopeful an agreement will be reached on the George Floyd police reform legislation after the May 31 Memorial Day holiday."
+    publishedDateTime: 2021-05-25T20:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-race-georgefloyd-biden-idUSKCN2D62SG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D62SG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210525&t=2&i=1563382884&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4O1EL"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden to meet George Floyd’s family on anniversary of his murder – live"
     excerpt: "President to have private meeting with members of Floyd’s family – follow all the day’s politics news live"
@@ -644,6 +644,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "FK2Apy1mojWwQPQ5Mvq3mCRpLF+0s06LlQpY2QxC3Rp4JfgfQ4y2E8M7281+Id9sUeF2awM7lmcMkFGl+tmG4ldutCRQ9J5of3qp5rWIYmvkQ7iIcmF/iqDZvbd6RB8PaugIouSyThUihGivv4h/Tz019h2e71rwCxISSsduj0T8ax+ITIFp4SjkiKTEQS/a6uJdBONpRQYWqR+l8tRo5VzrNyuBUbzddQnYKPVyuFErIq4xrpH+PPxU9eWF9GbPoQRCfTmxdEMctnz4qykzJ/YLBW0oZHEOYZrzu3GlR2cVngEaS8r9Du5gT8Hj7DDMftdr+q/ZhQQOAfGs+Ej/XmUUxAaR3AHqUxwfFasEIIY=;jbysqt4alte4N6wFXZZzXQ=="
+secured: "mGG3jMI79T+1sw3LXv6g1Xz+EudhFNprsk0vHWEpP7CwFHo7zbpkkzUzhlSz50k6ssAQCMufcMwDq/8a5Vw9ew47uRWXoIxRWoTxGV4tNDb4SVmF5OMCGklzW6TLCm7ZlvwkwTODRjRQB8h8BlN7zvEafPBAsXVGotWlpwmXHZItkBbTThwX5zToDZes379NmHrfgu0nLjb3+iPKejlgEq8U2Iw3f8y+G2xtSXJrIUUB9ugoKHK6rDatjQtptCxF0+Mhxy4xBcKvocnGYzavxWu000RsOG1S7f8GTc0W1z/2NIt1jezf74i0VTEXJcj+pDAFNy3kuSLGKj/TTCctOczkQlqqG9G2DFUPsXhLaxM=;h7037Pa1IssO5ruw4kcLKw=="
 ---
 

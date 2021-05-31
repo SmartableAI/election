@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-29-mcconnell-to-trump-whats-a-little-insurrection-between-friends.md",
+      "title": "McConnell to Trump: What’s a Little Insurrection Between Friends?",
+      "excerpt": "Mitch McConnell gave his members permission to vote to impeach Trump, and even briefly entertained the possibility of joining them. By now, whatever defiant impulse the party’s establishment harbored has died down to the point where a former officeholder merely hinting that Trump is politically optimal rates as a news story.",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/a14/14e/8711801fbf6ea18d66d6e885b9b0164d4a-ni-trump-mcconnell.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
+      "publishedDateTime": "2021-05-28T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-biden-china-thinks-it-will-own-america-by-2035.md",
       "title": "Biden: China thinks it will 'own America' by 2035",
       "excerpt": "President Biden, addressing the evolving landscape of foreign threats to the country, told troops Friday that China thinks it will “own America” in the next 15 years.",
@@ -179,7 +222,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1287,58 +1330,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-matt-gaetz-plans-to-run-for-president-in-2024-but-only-if-donald-trump-doesnt.md",
-      "title": "Matt Gaetz Plans to Run For President in 2024— But Only If Donald Trump Doesn't",
-      "excerpt": "In a text sent to the New York Post, Gaetz said, \"I support Donald Trump for president. I've directly encouraged him to run and he gives me every indication he will.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
-      "originalUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1809008/matt-gaetz.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
-      "publishedDateTime": "2021-05-27T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
