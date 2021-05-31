@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-putin-summit-genev
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-putin-summit-geneva/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "The next three months could shape Biden's next three years in office"
+    excerpt: "If things break his way, the president could close out the summer with domestic wins and an international boost. If not, he could find himself stymied at home, his foreign policy floundering."
+    publishedDateTime: 2021-05-31T21:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-enters-memorial-day-facing-high-stakes-home-abroad-n1269108"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269108"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269108"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_21/3478656/210528-joe-biden-challenges-se-1205p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "85jckUvCP0QnbvwacsxId4Ifwv0ixX/hWildYQFZwYO+yO56fILQcsGPaz8I5NeTJyL8sfacqkii9G+P4KlC8BYBKzZq5RrlnsZ7QXvWemd3V3kGUHg5JlvVwWrzpp216+CpvA4btkxa3uh5bFeeSjpcSV80yX6lFDxvVWKAQ3snjxM7UJWXYfUhMPavPugDbsWvnuhtlEhJuZmmy6mUQo60kzxbAhqFz91yeT7Ku0Y0etsj/5IWeXg5eQun7HiA15986WHdZnNt2RIwsWmkfkwP0FF/B3YNvwrtXixViZooVMTT/jePd4QbBf4ecTrd3WTvaaNIvHDIxZ2aYByN1J25nd/6Tic1NTi6lF5QQtw=;PSHIArjSOPeMLGaSZ7TwzA=="
 ---

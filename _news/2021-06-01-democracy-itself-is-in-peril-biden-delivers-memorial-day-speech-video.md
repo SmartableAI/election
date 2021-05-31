@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Joe Biden visits Arlington National Cemetery in Washington"
-excerpt: "U.S. President Joe Biden visits Section 60 at Arlington National Cemetery in Washington on April 14, 2021. Photo by Yuri Gripas/UPI"
-publishedDateTime: 2021-04-14T19:39:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/b43143fa69e9271435129ebdaed4fbb4/Joe-Biden-visits-Arlington-National-Cemetery-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/b43143fa69e9271435129ebdaed4fbb4/Joe-Biden-visits-Arlington-National-Cemetery-in-Washington/"
+title: "'Democracy itself is in peril': Biden delivers Memorial Day speech – video"
+excerpt: "Speaking at Arlington National Cemetery, the US president, joined by first lady Jill Biden, Vice-President Kamala Harris and her husband, paid tribute to America’s war dead"
+publishedDateTime: 2021-05-31T17:12:00Z
+originalUrl: "https://www.theguardian.com/us-news/video/2021/may/31/democracy-itself-is-in-peril-biden-delivers-memorial-day-speech-video"
+webUrl: "https://www.theguardian.com/us-news/video/2021/may/31/democracy-itself-is-in-peril-biden-delivers-memorial-day-speech-video"
 type: article
-quality: 55
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/b43143fa69e9271435129ebdaed4fbb4/BIDEN-ARLINGTON.jpg"
-    width: 650
-    height: 433
+  - url: "https://i.guim.co.uk/img/media/2f61213b3c0fc2ea1c1bc4959395fbf988a94a87/0_0_3134_1881/master/3134.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1019567fc20f28dd4b4cf103476617ec"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -71,21 +75,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "'Democracy itself is in peril': Biden delivers Memorial Day speech – video"
-    excerpt: "Speaking at Arlington National Cemetery, the US president, joined by first lady Jill Biden, Vice-President Kamala Harris and her husband, paid tribute to America’s war dead"
-    publishedDateTime: 2021-05-31T17:12:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/may/31/democracy-itself-is-in-peril-biden-delivers-memorial-day-speech-video"
+  - title: "Joe Biden visits Arlington National Cemetery in Washington"
+    excerpt: "U.S. President Joe Biden visits Section 60 at Arlington National Cemetery in Washington on April 14, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-04-14T19:39:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b43143fa69e9271435129ebdaed4fbb4/Joe-Biden-visits-Arlington-National-Cemetery-in-Washington/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 103
+      name: UPI.com
+      domain: upi.com
+    quality: 55
     images:
-      - url: "https://i.guim.co.uk/img/media/2f61213b3c0fc2ea1c1bc4959395fbf988a94a87/0_0_3134_1881/master/3134.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1019567fc20f28dd4b4cf103476617ec"
-        width: 1200
-        height: 630
+      - url: "https://cdnph.upi.com/pv/upi/b43143fa69e9271435129ebdaed4fbb4/BIDEN-ARLINGTON.jpg"
+        width: 650
+        height: 433
         isCached: true
 
-secured: "iuln3mral9n6FUwzxLd6VKSNExWHzO24JEwaS7p5SdJev+JBfu4Mu3EVftHM4wda6fpZYE5Ft9NTMrOIYqDiZbBLZHQvRo6ObUqGuikb6dQ33TvZlTbxtvyJNBwOyvNLZ5dQ1lhELQBNnx7e4PgS5JtZ9t55U/WZ+6OLb9CUXBhKCi14U+i39MjyO7KCIeP/vOZo4dj4FVglwp9FbP0qtTE9QLk2plqEKrY7xcXlBiYK4DgcgWLURHBSY+YJcgvTniN0Dq/LHHJIswN0AUR219tb0FM4lkHRNSknCgX/DsOcxjwe/gKgEGZy+EKgatGlboF3YZ5aCr31BuMX68azafpZpYO/3Gl447cN5E/8koA=;Br/9J76y1EZ+r1WVOp9Few=="
+secured: "T5IQsaUkS+IAn0DN5QauzRoVLhf8OAhVmN7SXzRmzGmvYoCRVJV596mno1WknS/Y4hccKcJzoQO66KdMeNUuv5r0JJULHk18G/RBqZ25EPQElfZDnWR7FfRaQePKax3oQj9PfbFyJuW+q97znN5GsMrXV0+ll9+erci3nL+fQz9RJX/wnnxcuekjKdomsZRhMP2EeUhl5HTQ13MmRJ6LpZY1ACWNX2WhkNfcXdKqHac+e3LxAXirOe/K0WQfUdY8TjKFsIxAoKOF/zLOlrd9rSLzRxOxnX1Ma3Zcuyw0FOdnvQgUsQVNaMHEmxpb2m9GgBjoernBm4em7IKyn3QFrHEYv+KSabpr3XtLdbZulLo=;eIW2/cy4S/4lGeXl+EbQZg=="
 ---
 
