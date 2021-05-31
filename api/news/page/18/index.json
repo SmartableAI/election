@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-22-inside-chuck-schumers-mission-to-turn-bidens-agenda-into-law-while-preserving-his-own-40-year-legacy.md",
+      "title": "Inside Chuck Schumer's mission to turn Biden's agenda into law while preserving his own 40-year legacy",
+      "excerpt": "With his slim majority, Senate Democratic Leader Chuck Schumer is depending on an arcane legislative maneuver to get things done. But only if the Senate parliamentarian gives him the thumbs-up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/senate-schumer-reconciliation-biden-agenda-2022-midterms-policy-new-york-2021-4",
+      "originalUrl": "https://www.businessinsider.com/senate-schumer-reconciliation-biden-agenda-2022-midterms-policy-new-york-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6080486474da0300181e2f85?width=700",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-analysis-us-financial-regulators-in-hot-seat-as-biden-ramps-up-climate-agenda.md",
       "title": "Analysis: U.S. financial regulators in hot seat as Biden ramps up climate agenda",
       "excerpt": "As U.S. President Joe Biden escalates his climate change agenda, pressure is growing on the country's regulators to catch up with Europe and incorporate various risks posed by climate change into their oversight of the financial system.",
@@ -1296,58 +1348,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-foxconn-mostly-abandons-10-billion-wisconsin-project-touted-by-trump.md",
-      "title": "Foxconn mostly abandons $10 billion Wisconsin project touted by Trump",
-      "excerpt": "Taiwan electronics manufacturer Foxconn is drastically scaling back a planned $10 billion factory in Wisconsin, confirming its retreat from a project that former U.S. President Donald Trump once called \"the eighth wonder of the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-foxconn-wisconsin-idUKKBN2C72T9",
-      "originalUrl": "https://www.reuters.com/article/us-foxconn-wisconsin-idUKKBN2C72T9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210420&t=2&i=1559266979&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3J1HK",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2C72T9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2C72T9",
-      "publishedDateTime": "2021-04-20T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
