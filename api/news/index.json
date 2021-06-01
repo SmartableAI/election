@@ -823,7 +823,7 @@
       "originalUrl": "https://www.businessinsider.com/biden-amtrak-infrastructure-climate-senate-tom-carper-2021-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1123,6 +1123,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-29-mike-pence-tweets-that-he-and-his-wife-will-attend-the-indy-500.md",
+      "title": "Mike Pence tweets that he and his wife will attend the Indy 500",
+      "excerpt": "The former vice president tweeted Friday afternoon that he'll be among the race's 135,000 attendees this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/indy-500/2021/05/28/indy-500-celebrities-former-vice-president-mike-pence-attend/5254543001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/indy-500/2021/05/28/indy-500-celebrities-former-vice-president-mike-pence-attend/5254543001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5254543001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5254543001",
+      "publishedDateTime": "2021-05-28T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-these-attacks-are-despicable-biden-condemns-rise-in-anti-semitic-incidents.md",
       "title": "'These attacks are despicable': Biden condemns rise in anti-Semitic incidents",
       "excerpt": "President Joe Biden on Friday condemned the rise in anti-Semitic attacks across the country in recent weeks, saying the incidents are \"despicable, unconscionable, un-American, and they must stop.\"\n    \n",
@@ -1284,58 +1336,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-biden-to-troops-before-memorial-day-we-owe-you.md",
-      "title": "Biden to troops before Memorial Day: 'We owe you'",
-      "excerpt": "President Joe Biden traveled to Joint Base Langley-Eustis in Virginia Friday to thank troops ahead of the Memorial Day weekend and acknowledge the unheralded sacrifices that the service members and their families make.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/05/28/biden-troops-before-memorial-day-we-owe-you/5253536001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/05/28/biden-troops-before-memorial-day-we-owe-you/5253536001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/e86cd806-07cc-4ea4-9dcc-2d333775783d_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

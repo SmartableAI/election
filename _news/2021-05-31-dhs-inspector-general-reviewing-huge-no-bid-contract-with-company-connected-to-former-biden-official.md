@@ -1,29 +1,34 @@
 ---
 category: news
-title: "Joe Biden needs three things from South Korean President Moon"
-excerpt: "President Joe Biden will sit down with South Korean President Moon Jae-in Friday amid relative calm on the Korean Peninsula. But their first meeting arrives with questions about Korea's willingness to play a stronger deterrent role against China."
-publishedDateTime: 2021-05-20T13:00:00Z
-originalUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-"
-webUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-"
-ampWebUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
-cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
+title: "DHS Inspector General reviewing huge no-bid contract with company connected to former Biden official"
+excerpt: "The Department of Homeland Security's Inspector General's office is evaluating a multi-million dollar contract awarded to a Texas company that employs a former Biden transition official, multiple sources with the probe confirm to Fox News."
+publishedDateTime: 2021-05-31T23:15:05Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5s6TKOC94_Y/dhs-inspector-general-probing-huge-no-bid-government-contract-connected-to-former-biden-official"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5s6TKOC94_Y/dhs-inspector-general-probing-huge-no-bid-government-contract-connected-to-former-biden-official"
+ampWebUrl: "https://www.foxnews.com/politics/dhs-inspector-general-probing-huge-no-bid-government-contract-connected-to-former-biden-official.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-inspector-general-probing-huge-no-bid-government-contract-connected-to-former-biden-official.amp"
 type: article
-quality: 65
+quality: 160
 heat: -1
 published: false
 
 provider:
-  name: Washington Examiner
-  domain: washingtonexaminer.com
+  name: Fox News
+  domain: foxnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonexaminer.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82102348-ee8c-45f0-a737-fb966c738107/9d8e130c-8520-498f-b23b-f5636c2de98f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
 
 related:
   - title: "Hunter Biden brought VP Joe to dinner with shady business partners"
@@ -138,23 +143,18 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "DHS Inspector General reviewing huge no-bid contract with company connected to former Biden official"
-    excerpt: "The Department of Homeland Security's Inspector General's office is evaluating a multi-million dollar contract awarded to a Texas company that employs a former Biden transition official, multiple sources with the probe confirm to Fox News."
-    publishedDateTime: 2021-05-31T23:15:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5s6TKOC94_Y/dhs-inspector-general-probing-huge-no-bid-government-contract-connected-to-former-biden-official"
-    ampWebUrl: "https://www.foxnews.com/politics/dhs-inspector-general-probing-huge-no-bid-government-contract-connected-to-former-biden-official.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-inspector-general-probing-huge-no-bid-government-contract-connected-to-former-biden-official.amp"
+  - title: "Joe Biden needs three things from South Korean President Moon"
+    excerpt: "President Joe Biden will sit down with South Korean President Moon Jae-in Friday amid relative calm on the Korean Peninsula. But their first meeting arrives with questions about Korea's willingness to play a stronger deterrent role against China."
+    publishedDateTime: 2021-05-20T13:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-"
+    ampWebUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82102348-ee8c-45f0-a737-fb966c738107/9d8e130c-8520-498f-b23b-f5636c2de98f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
-secured: "KMzQOodSb6VFvf4OeH/lkCRT98nPKsgKXTaykvexLZu+UBaUYhiFv3jDVygSq697Meuif/QiFhy/KalCMKKKuPlie8GPwTAo5z4OnP4wx3vi7aUExW7Gx/A1oE0NqHcEaR32xGeLoHo/+ZtYeZzJmWvQ9dSODPkMMYljseXoHMdJq5ZBak8L7eiEahJQETuFoTttnc1UvCry3Kx4eHUJA1GlPoaWYVYplECgFLq0GMQNR3MvTMTKTpLWDV3P7pRltRS3bXu1pQPmoa/Egk3dw1fIAfjyiEHD8jBF411tkHnn0MMZdHA+vVA/i7dRSSK0M0MRFz8p6cYGkMA4ty1GlJjuuLyqx78iS7VQrDhcOIe4OmtEkb6Y1upNmt/PEaf7oX9nGEJHJjuawkdphue2WxDoTESbg+ICDVvOsWnuyJlTAutZjK5HbeRQrCAz4KNvn0AHdZS2G98oFj5xYWJLdfSqWUlNNiSLMhQhj+uC7nLe/mLYNPi6ghnaCNapZXRS5HV6+SHvlZd2XwN28QU2dQ==;4KO4C9F4KPAl9JzaO0xdIQ=="
+secured: "gV4e06fYKa1SyaQTv6APkG3SpAbwKgybZwja0SGsSz6ymP+Jz3RgLFfyJADyfPiH9WVW6fWw0+UB9lyiyonUvjiUqsumYihzPaYDUARBbptQ5nupBx3eVo8MFGqXiJyCa0pIxyAep/GB9wefRlRNYwiRCWL88KZLUd/yzOyTt6VkVSto6YBvhmxBpAqUv17FWM5lSWOH+Ci1ugy6kYM1c7xAWO8AY0h7rrf5AixL5Y6u3eyMkukPczgPjQX/2mvN2Twy2+4BEnuGPK657DvUCBuO/77yVPtdh18ADECpoQdtp0n9B4mmGU0Imx3MjRveSnJOdaxl7zpWmA+1ZmNsVvmSuhxKUi5xc1ySl5YwCik=;gPD/5LCyhnQKTUKamzhCnQ=="
 ---
 

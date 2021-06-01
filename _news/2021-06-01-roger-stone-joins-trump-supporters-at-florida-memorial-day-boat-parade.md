@@ -44,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump supporters gather for Florida Memorial Day boat parade"
+    excerpt: "Photos showed self-proclaimed “deplorables” sunning themselves on the decks of their vessels, which were bedecked with flags bearing slogans like “Trump is my President,”"
+    publishedDateTime: 2021-05-31T19:15:00Z
+    webUrl: "https://nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/"
+    ampWebUrl: "https://nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/31/roger-stone-joins-trump-supporters-at-florida-memorial-day-parade/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/Memorial-Day-boat-parade-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Reporters blame Trump for not initially finding Wuhan lab theory credible"
     excerpt: "New York Times reporter Maggie Haberman and others appeared to blame former President Donald Trump Tuesday for making the Wuhan lab-leak theory political and thus the reason why reporters didn’t find the theory credible."
     publishedDateTime: 2021-05-25T17:13:00Z

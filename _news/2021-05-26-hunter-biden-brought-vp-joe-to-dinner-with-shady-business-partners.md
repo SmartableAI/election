@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinn
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 161
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5364173-f072-48b1-8212-dda24ff02bd1/0f4c9807-0dd4-4c90-81c2-fb35ac701f64/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "DHS Inspector General reviewing huge no-bid contract with company connected to former Biden official"
+    excerpt: "The Department of Homeland Security's Inspector General's office is evaluating a multi-million dollar contract awarded to a Texas company that employs a former Biden transition official, multiple sources with the probe confirm to Fox News."
+    publishedDateTime: 2021-05-31T23:15:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5s6TKOC94_Y/dhs-inspector-general-probing-huge-no-bid-government-contract-connected-to-former-biden-official"
+    ampWebUrl: "https://www.foxnews.com/politics/dhs-inspector-general-probing-huge-no-bid-government-contract-connected-to-former-biden-official.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-inspector-general-probing-huge-no-bid-government-contract-connected-to-former-biden-official.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82102348-ee8c-45f0-a737-fb966c738107/9d8e130c-8520-498f-b23b-f5636c2de98f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

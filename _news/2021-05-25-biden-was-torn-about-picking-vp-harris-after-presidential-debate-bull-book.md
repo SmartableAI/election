@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, Harris shock DC diners with unannounced visit to popular restaurant"
+    excerpt: "President Biden on Monday had his first known sit-down visit to a DC restaurant since becoming president — joined by Vice President Kamala Harris and their spouses after a Memorial Day event at Arlington National Cemetery."
+    publishedDateTime: 2021-05-31T22:14:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C0HarGJUJ5o/biden-harris-shock-dc-diners-with-unannounced-visit-to-popular-restaurant"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-shock-dc-diners-with-unannounced-visit-to-popular-restaurant.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-shock-dc-diners-with-unannounced-visit-to-popular-restaurant.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 198
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/280fb2eb-8e6e-4b33-adcb-f4de27797508/2e356178-0e05-4ba4-a982-afc0eac7c766/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's DOJ announces plan to appeal order to release Trump obstruction memo"
     excerpt: "The U.S. Department of Justice announced Monday that it plans to partially appeal a court ruling earlier this month that called for the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Trump"
     publishedDateTime: 2021-05-25T04:34:59Z

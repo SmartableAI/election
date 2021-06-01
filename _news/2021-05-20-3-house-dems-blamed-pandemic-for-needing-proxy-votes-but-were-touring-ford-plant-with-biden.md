@@ -127,6 +127,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "DHS Inspector General reviewing huge no-bid contract with company connected to former Biden official"
+    excerpt: "The Department of Homeland Security's Inspector General's office is evaluating a multi-million dollar contract awarded to a Texas company that employs a former Biden transition official, multiple sources with the probe confirm to Fox News."
+    publishedDateTime: 2021-05-31T23:15:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5s6TKOC94_Y/dhs-inspector-general-probing-huge-no-bid-government-contract-connected-to-former-biden-official"
+    ampWebUrl: "https://www.foxnews.com/politics/dhs-inspector-general-probing-huge-no-bid-government-contract-connected-to-former-biden-official.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-inspector-general-probing-huge-no-bid-government-contract-connected-to-former-biden-official.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82102348-ee8c-45f0-a737-fb966c738107/9d8e130c-8520-498f-b23b-f5636c2de98f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Joe Biden needs three things from South Korean President Moon"
     excerpt: "President Joe Biden will sit down with South Korean President Moon Jae-in Friday amid relative calm on the Korean Peninsula. But their first meeting arrives with questions about Korea's willingness to play a stronger deterrent role against China."
     publishedDateTime: 2021-05-20T13:00:00Z

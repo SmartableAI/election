@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-28-former-house-speaker-paul-ryan-urges-gop-to-return-to-reaganism-end-trump-fixation.md",
+      "title": "Former House Speaker Paul Ryan urges GOP to return to Reaganism, end Trump fixation",
+      "excerpt": "The Wisconsin Republican and onetime VP candidate, in a speech at the Reagan Library in Simi Valley, describes conservatives as at 'a crossroads.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2021-05-27/former-house-speaker-ryan-urges-gop-return-to-reagan-end-donald-trump-fixation",
+      "originalUrl": "https://www.latimes.com/politics/story/2021-05-27/former-house-speaker-ryan-urges-gop-return-to-reagan-end-donald-trump-fixation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/5548418/2147483647/strip/true/crop/3071x2006+0+125/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F37%2F49%2F80e1edb9482999daa1b9ea563631%2Fla-na-cheney.JPG",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2021-05-27/former-house-speaker-ryan-urges-gop-return-to-reagan-end-donald-trump-fixation?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-27/former-house-speaker-ryan-urges-gop-return-to-reagan-end-donald-trump-fixation?_amp=true",
+      "publishedDateTime": "2021-05-27T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-matt-gaetz-plans-to-run-for-president-in-2024-but-only-if-donald-trump-doesnt.md",
       "title": "Matt Gaetz Plans to Run For President in 2024— But Only If Donald Trump Doesn't",
       "excerpt": "In a text sent to the New York Post, Gaetz said, \"I support Donald Trump for president. I've directly encouraged him to run and he gives me every indication he will.\"",
@@ -392,7 +444,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 428,
+      "heat": 448,
       "tags": null,
       "images": [
         {
@@ -898,7 +950,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1297,54 +1349,6 @@
       "ampWebUrl": "https://nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/amp/",
       "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/amp/",
       "publishedDateTime": "2021-05-25T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-trump-blasts-reported-grand-jury-says-part-of-greatest-witch-hunt.md",
-      "title": "Trump blasts reported grand jury, says part of ‘greatest Witch Hunt’",
-      "excerpt": "The 45th president claimed the grand jury probe is an extension of the Russia investigation that plagued his administration for two years.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/",
-      "originalUrl": "https://nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-legal-troubles-524.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/amp/",
-      "publishedDateTime": "2021-05-25T18:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Post",

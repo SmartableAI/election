@@ -1,12 +1,12 @@
 ---
 category: news
-title: "George Floyd’s family meets with Biden, Harris on anniversary of his death"
-excerpt: "The family of George Floyd met with President Biden and Vice President Kamala Harris Tuesday, on the anniversary of Floyd’s death, and demanded police reform be passed."
-publishedDateTime: 2021-05-25T21:12:13Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NklDUaT8VDA/george-floyds-family-biden-harris-anniversary-death"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NklDUaT8VDA/george-floyds-family-biden-harris-anniversary-death"
-ampWebUrl: "https://www.foxnews.com/politics/george-floyds-family-biden-harris-anniversary-death.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-floyds-family-biden-harris-anniversary-death.amp"
+title: "Biden, Harris shock DC diners with unannounced visit to popular restaurant"
+excerpt: "President Biden on Monday had his first known sit-down visit to a DC restaurant since becoming president — joined by Vice President Kamala Harris and their spouses after a Memorial Day event at Arlington National Cemetery."
+publishedDateTime: 2021-05-31T22:14:26Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C0HarGJUJ5o/biden-harris-shock-dc-diners-with-unannounced-visit-to-popular-restaurant"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C0HarGJUJ5o/biden-harris-shock-dc-diners-with-unannounced-visit-to-popular-restaurant"
+ampWebUrl: "https://www.foxnews.com/politics/biden-harris-shock-dc-diners-with-unannounced-visit-to-popular-restaurant.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-shock-dc-diners-with-unannounced-visit-to-popular-restaurant.amp"
 type: article
 quality: 198
 heat: -1
@@ -26,7 +26,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Floyd-Family-White-House-AP.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/280fb2eb-8e6e-4b33-adcb-f4de27797508/2e356178-0e05-4ba4-a982-afc0eac7c766/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -48,19 +48,19 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden, Harris shock DC diners with unannounced visit to popular restaurant"
-    excerpt: "President Biden on Monday had his first known sit-down visit to a DC restaurant since becoming president — joined by Vice President Kamala Harris and their spouses after a Memorial Day event at Arlington National Cemetery."
-    publishedDateTime: 2021-05-31T22:14:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C0HarGJUJ5o/biden-harris-shock-dc-diners-with-unannounced-visit-to-popular-restaurant"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-shock-dc-diners-with-unannounced-visit-to-popular-restaurant.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-shock-dc-diners-with-unannounced-visit-to-popular-restaurant.amp"
+  - title: "George Floyd’s family meets with Biden, Harris on anniversary of his death"
+    excerpt: "The family of George Floyd met with President Biden and Vice President Kamala Harris Tuesday, on the anniversary of Floyd’s death, and demanded police reform be passed."
+    publishedDateTime: 2021-05-25T21:12:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NklDUaT8VDA/george-floyds-family-biden-harris-anniversary-death"
+    ampWebUrl: "https://www.foxnews.com/politics/george-floyds-family-biden-harris-anniversary-death.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-floyds-family-biden-harris-anniversary-death.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 198
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/280fb2eb-8e6e-4b33-adcb-f4de27797508/2e356178-0e05-4ba4-a982-afc0eac7c766/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Floyd-Family-White-House-AP.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -223,6 +223,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Asewsuzin+b4xyC3visf1s/2wkVyg/2FXkZdQ1xBc3GrSqFXMqHMj+e7gsBBoXhMiTXYdXETwvG3vH0TCq8ObUvdGAZji+ueF676/4HIDN0sPGrsGdvX+QDW5IEeY3JC/qmQoSDBtG+SSCUY6IqJrXuA2PfP1LOeWIrYTtDwYGNEU1dGIdk3jtMnQJgLVyLZnPhQnrbAl3dfHOW11GrkV76h+6t/Wnf7jSGwTEI2EepW8g2u2WBXayALlgRLQgbs7MhBYBu13H7yfphLs2GTuwq6GkdPlmbI3Fl/AGx7vR+/L3bkvwVQAgpn0XJfPc2r/wkc2qe6/PUS9p3rl+YDmEvpQ0zWAawl2E7j/DsmAB4=;YcnkXj4LqYEPDHs2LaXVvA=="
+secured: "u99yEUbq25NXti9Sdu6haw2Gaj7Vys8LuE96eJ/EGTzCpx/VqU5r3NQi3ozBCEpsK2UBaNgkAldWnjBN3p47vvwu0cgkDLUIvpiq5hti5HT96BpyYw/YQVpqEIH2WgkXAh9XOmufXOq/hXmQjgSjJcT9YNnt/GNWVjDKfYg4MctuW6khEVpqUQXvqoqzzV7zx5PsS11x2/WM/1UFbizwoAKNvnB0A/emS91NzEiSwKi57g9WZ4HAkw4MXGBwu6uoMLb/gP8Zmwdpidtq/GrPpLy3b8pYGGRj5l5dWqYKwPWEtmOY/AjIvbWsQIWLwoWC2BHW0SFWQTWrJDAMwQMq5ZxUWlKZbNHy1hwFHr2l9I0=;SOewOJ8Tg0selGI32Bv/FA=="
 ---
 

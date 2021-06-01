@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-29-mike-pence-tweets-that-he-and-his-wife-will-attend-the-indy-500.md",
+      "title": "Mike Pence tweets that he and his wife will attend the Indy 500",
+      "excerpt": "The former vice president tweeted Friday afternoon that he'll be among the race's 135,000 attendees this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/indy-500/2021/05/28/indy-500-celebrities-former-vice-president-mike-pence-attend/5254543001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/indy-500/2021/05/28/indy-500-celebrities-former-vice-president-mike-pence-attend/5254543001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5254543001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5254543001",
+      "publishedDateTime": "2021-05-28T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-exclusive-no-place-like-home-karen-pence-says-of-their-move-back-to-indiana.md",
       "title": "Exclusive: `No place like home' Karen Pence says of their move back to Indiana",
       "excerpt": "There’s no place like home and Indiana is home,” Karen Pence said in a statement provided exclusively to USA TODAY. The Pences were not made available for an interview. In her statement, Karen Pence said the longtime Indy500 fans are especially excited to have made the move before race weekend,",
@@ -1506,63 +1558,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-pence-launches-new-advocacy-organization-to-promote-pro-freedom-policies-of-the-last-four-years.md",
-      "title": "Pence launches new advocacy organization to promote 'pro-freedom policies of the last four years'",
-      "excerpt": "Former Vice President Mike Pence on Wednesday launched a new policy and advocacy organization to promote \"pro-freedom policies of the last four years,\" featuring an advisory board of nearly a dozen Trump-era alumni.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-hK3DvTJiJg/pence-new-advocacy-organization-pro-freedom-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-hK3DvTJiJg/pence-new-advocacy-organization-pro-freedom-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-new-advocacy-organization-pro-freedom-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-new-advocacy-organization-pro-freedom-policies.amp",
-      "publishedDateTime": "2021-04-07T08:34:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Mike Pence"
       ]
     }
