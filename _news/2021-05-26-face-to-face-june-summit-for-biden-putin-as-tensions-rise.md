@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/white-house-biden-to-meet-pu
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563615273&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0SB"
         width: 860
         height: 545
+        isCached: true
+  - title: "Biden to honor forgotten victims of Tulsa race massacre"
+    excerpt: "President Joe Biden is set to mark the 100th anniversary of a massacre in Tulsa, Oklahoma, that wiped out a thriving Black community"
+    publishedDateTime: 2021-06-01T04:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-honor-forgotten-victims-tulsa-race-massacre-78012115"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-honor-forgotten-victims-tulsa-race-massacre-78012115"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-honor-forgotten-victims-tulsa-race-massacre-78012115"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6a5155c6b11b4e9da8248fc8e5f3b462_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Joe Biden, Russia’s Vladimir Putin to meet next month for summit in Geneva"
     excerpt: "The two leaders’ scheduled meeting, set for June 16, is being tacked on to the end of Biden’s first international trip as president next month."

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Joe Biden, Kamala Harris commemorate fallen veterans at Arlington Cemetery on Memorial Day"
+title: "Joe Biden, Kamala Harris commemorate fallen service members at Arlington Cemetery on Memorial Day"
 excerpt: "The president was joined on Monday by first lady Jill Biden, Vice President Kamala Harris and second gentleman Doug Emhoff in a somber ceremony in Virginia."
-publishedDateTime: 2021-05-31T19:30:00Z
+publishedDateTime: 2021-05-31T21:30:00Z
 originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html"
 webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html"
 ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
 type: article
-quality: 140
+quality: 127
 heat: -1
 published: false
 
@@ -23,7 +23,6 @@ provider:
 topics:
   - Election
   - Kamala Harris
-  - Joe Biden
 
 images:
   - url: "https://www.chicagotribune.com/resizer/kma7aj3NxFM-9i89Nl7dVPdpzgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X33ST3VJERDXNFERUP4HBQPPVU.jpg"
@@ -48,9 +47,9 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden, Kamala Harris commemorate fallen service members at Arlington Cemetery on Memorial Day"
+  - title: "Joe Biden, Kamala Harris commemorate fallen veterans at Arlington Cemetery on Memorial Day"
     excerpt: "The president was joined on Monday by first lady Jill Biden, Vice President Kamala Harris and second gentleman Doug Emhoff in a somber ceremony in Virginia."
-    publishedDateTime: 2021-05-31T21:30:00Z
+    publishedDateTime: 2021-05-31T19:30:00Z
     webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html"
     ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
@@ -58,7 +57,7 @@ related:
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 127
+    quality: 140
     images:
       - url: "https://www.chicagotribune.com/resizer/kma7aj3NxFM-9i89Nl7dVPdpzgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X33ST3VJERDXNFERUP4HBQPPVU.jpg"
         width: 1200
@@ -661,6 +660,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "iPmpNWc8FgUHlKnqKbC0hsqtzDMhVokph5N/jYxozlY3EkDoHgZYslsCGb/pJNSld3LNBCsQ4Mb+0jDvd3kd3R0kNoSrMVmAZxtvaUpCXHy5sMGGXtx00mDBT8SXJTcf5kzDVmwDB9ny32iYUSJpa5sIDedZD9WdyESGevkSval1fBUoofp5JBan+fzpgx3dVcZ7AGI+RrHWnyJIEclIXF3qRs4mWodEKhy9E82Y86Ti2V1HUCJBMRpMpOmqiyalfjPqUHroElcp1iayQR6QYYsQZJdHCie8Uh8a3kvC8+qCB5qpcxTWyrMHmqPVs4hVeipMZiuoeCAYSlKJvbHbYNs8bFgeTWWWVxnyzOspp+8uD7g4xyHR5xPP6Mn4j014LN89ibVa21Kt/7GkvSOdEYu02lUjHLE14S3PkMlFwNXh8fHp+wON5iDMPD/6odvSsH1enq+0f58lwwhPRs7LL/Ct4gHRRwbX5TBogcdXn86hl9KARaFb76xNAmR0fGieM6/Vq9A3tG3DRYZdOf6xKw==;WGGxZy6rIJBiR81nyv577Q=="
+secured: "WD4S+L5CwVWNSWSErLknJ8k3nKadT5UJYbNTh7qud7wyESxfZ9ajaISdt0d6BZsJ2Wkl65+GO/vyfG0plHIH/AqbivRGOwAgOi0Cs/oYtx1A0RuBZVcwsar+ImPIu+fAwJTsPzep1i5nfWOo6O65o86So8PZ4W6khtipQkseipvZzaAZKvjMeNS+OacjGBLBJalPiUateQvUFZvWYeYy/ht0YNfjZmnPzCAi15VLECy+jvDI7VsbF6Lidczg/kH+ee6t4WvUzw1Cj4C11YVXriGsdEmazYq50Yka6h8t1eQj+lEsipiKtWrkxWRkn/BGFDS6qas1/7Elgv70fKYht4+74mz4Fup63hipKvx4/xM=;WLseTK3bru7+yM/rlQoh7Q=="
 ---
 

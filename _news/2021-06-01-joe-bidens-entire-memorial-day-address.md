@@ -210,14 +210,14 @@ related:
   - title: "President Joe Biden Returns to White House after Weekend in Delware"
     excerpt: "US President Joe Biden and First lady Jill Biden walk off Marine One on the ellipse at the White House in Washington, DC on Monday, May 31, 2021. President Joe Biden traveled Wilmington Delaware for the weekend with family."
     publishedDateTime: 2021-05-31T14:25:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6f06eacac65245511e99e880316f288b/President-Joe-Biden-Returns-to-White-House-after-Weekend-in-Delware/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/36f867283670850695d25346354548d4/President-Joe-Biden-Returns-to-White-House-after-Weekend-in-Delware/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/6f06eacac65245511e99e880316f288b/BIDEN-WHITE-HOUSE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/36f867283670850695d25346354548d4/BIDEN-WHITE-HOUSE.jpg"
         width: 650
         height: 433
         isCached: true
