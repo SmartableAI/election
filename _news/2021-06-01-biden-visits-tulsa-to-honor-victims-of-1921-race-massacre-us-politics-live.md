@@ -2,14 +2,14 @@
 category: news
 title: "Biden visits Tulsa to honor victims of 1921 race massacre – US politics live"
 excerpt: "President to commemorate hundreds who died in attack by white mob – follow all the day’s politics news"
-publishedDateTime: 2021-06-01T12:31:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
+publishedDateTime: 2021-06-01T13:54:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b6499f8f082e80569f2f74"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b6499f8f082e80569f2f74"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
 type: article
 quality: 122
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 360
     isCached: true
 
-secured: "8JZF1IMEqjvXv9e1AOGXwAAgRNkMGo0BlfZKDS6n2N0it4mu12erQNh16/4m1kCgTG8ynOQy3H2tOiAViGQiTujAFraRN7sfUij70YEclujlE+Ze+Yo/v89MujSzo02m00esR8CuOOc+K5NGu+hXiV7LzkgeEfE/kff4YplZDGCKgCOs+vfnXIINN8gJiVsq5vDt8RjjFuUwiX/vGmbtz68AmKtx04QVcVZ1xqVm6aORunLovZqQ2IgWzojeyiQd4jmVJa35Fm2DbTIv7GqLUzvjA+1z6N6Qpequ0VP6D9eH3+mnmNPmQtmIUMEYWA/2zxZp7NOPw78UsobpognL6bS3xPT5/ak0p0bdYpHTd98=;Ol2tSFwUlvIlJ1TwF4J4Sw=="
+related:
+  - title: "Biden calls out America's 'deep roots of racial terror' on Tulsa massacre's 100th anniversary"
+    excerpt: "President Biden declared the centennial anniversary of the Tulsa Race Massacre a Day of Remembrance. In a statement, Biden spoke about systemic racism in the U.S. and continued fallout from racial redlining."
+    publishedDateTime: 2021-06-01T14:39:00Z
+    webUrl: "https://thehill.com/changing-america/respect/equality/556267-biden-calls-out-americas-deep-roots-of-racial-terror-on"
+    ampWebUrl: "https://thehill.com/changing-america/respect/equality/556267-biden-calls-out-americas-deep-roots-of-racial-terror-on?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/equality/556267-biden-calls-out-americas-deep-roots-of-racial-terror-on?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 114
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_biden_060121getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+
+secured: "UWyVR1Nuz3K4p7jOW9SM393JUnvAgVsmnxeRuVANB0r8rkqvzUfxi/gbHfV29TPj4IOVgcSzmgeDcpXDD3LLfZ6+mN63CUivGJKGCyZj4KjcYfB1Iy2NWFzD9jzIX0OVHPbGbci42lqdu1E+mNrXMaKVtoKNkSMPkp3r0qkRIjY5CYUIokxO/7XCV3w7kgm8evxNFor9Mz0kp7enY6LqCBt0qeVLhuG+iNcXam9SBtDVXVj6nsAfxfCo9SGdkrsjSFrOsPF8P3EaIXlKdPGFaOaj/ZwpFps4U58GYGVFqWDRjY9mez/s3qkdXZgmMoPQACIEyFF3p/LeDfI2RzxupF2D/oCSHZ25zLmIxYYa208=;gQEfHvrisv5LnQN0Z5AkqA=="
 ---
 

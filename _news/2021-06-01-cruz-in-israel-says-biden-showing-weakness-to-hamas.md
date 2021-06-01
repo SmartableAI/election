@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Texas AG calls for more federal resources, wants Biden officials to visit border"
-excerpt: "Texas Attorney General Ken Paxton on Tuesday called for more federal resources at the U.S.-Mexico border and for Biden administration officials to visit amid the surge of migrants. "
-publishedDateTime: 2021-05-26T10:07:49Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R3uIrdlac-Y/texas-ag-calls-for-more-federal-resources-biden-officials-to-visit-border"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R3uIrdlac-Y/texas-ag-calls-for-more-federal-resources-biden-officials-to-visit-border"
-ampWebUrl: "https://www.foxnews.com/politics/texas-ag-calls-for-more-federal-resources-biden-officials-to-visit-border.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-ag-calls-for-more-federal-resources-biden-officials-to-visit-border.amp"
+title: "Cruz, in Israel, says Biden showing 'weakness' to Hamas"
+excerpt: "Republican Sen. Ted Cruz sharply criticized President Biden this week, saying he's shown \"weakness\" to Hamas and accusing him of having \"emboldened\" the terror group amid violence with Israel."
+publishedDateTime: 2021-06-01T14:10:07Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WLoUWUL9ObU/ted-cruz-biden-hamas-weakness-israel"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WLoUWUL9ObU/ted-cruz-biden-hamas-weakness-israel"
+ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-biden-hamas-weakness-israel.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-hamas-weakness-israel.amp"
 type: article
-quality: 170
+quality: 175
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7da77447-17f4-47b3-b2f8-90c6fb928a06/dd691039-048f-4218-85d9-a8c1bb9dafaf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -127,22 +127,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Cruz, in Israel, says Biden showing 'weakness' to Hamas"
-    excerpt: "Republican Sen. Ted Cruz sharply criticized President Biden this week, saying he's shown \"weakness\" to Hamas and accusing him of having \"emboldened\" the terror group amid violence with Israel."
-    publishedDateTime: 2021-06-01T14:10:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WLoUWUL9ObU/ted-cruz-biden-hamas-weakness-israel"
-    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-biden-hamas-weakness-israel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-hamas-weakness-israel.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden admin's mixed messages on fuel pipelines are as muddled as mask mandates"
     excerpt: "Biden administration officials have sported blatant hypocrisy between prioritizing the Colonial Pipeline over the Keystone and their quick change of heart on coronavirus masking."
     publishedDateTime: 2021-05-18T10:12:10Z
@@ -172,6 +156,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14db349b-2c58-4be8-8dfc-da8515b9b5ed/292e14a5-459b-4cc3-b08f-2b2950247a6c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Texas AG calls for more federal resources, wants Biden officials to visit border"
+    excerpt: "Texas Attorney General Ken Paxton on Tuesday called for more federal resources at the U.S.-Mexico border and for Biden administration officials to visit amid the surge of migrants. "
+    publishedDateTime: 2021-05-26T10:07:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R3uIrdlac-Y/texas-ag-calls-for-more-federal-resources-biden-officials-to-visit-border"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-ag-calls-for-more-federal-resources-biden-officials-to-visit-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-ag-calls-for-more-federal-resources-biden-officials-to-visit-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7da77447-17f4-47b3-b2f8-90c6fb928a06/dd691039-048f-4218-85d9-a8c1bb9dafaf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -364,6 +364,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ozVeKlRhrrvT6dhP+54TkZ5X/IuCrvXcP3xS5meiPlnDkEdjq+dXSgksDvBPJjna5VVV7QtWLEr1gsMdWWEZ0Gt16Na9cABgyM+lse7CjVDjba2dAfe2XqZGv4+8mrhMJYYotXYcuZ7ZOeMLTZqYySBw5cNBeR/p+hQuFD8H4iJdX+VAsuQF380qxYGoSva+nknO0amoDb8gjQmhItoPdXMZC6mP3C9C4c4jh8h3J+7jKhTCfPpVqik90BO02FO/CfoVrWXohE9hHo8Y/myvOz0aB7ZdGriGyegma/HPPEGpuTekVpUcQpGAZmaJOL/wROPL1zUbuASBxZOf9H5aK69s138E2Kjn9AcY0kSDBqo=;AT9lwE54W3+G2qNngAYI8Q=="
+secured: "A3U3blZgfLM+XgxkBHF0Klz4uq2QrU+YWvXvL1QPE5tiKfgkUNjJQGDh4myQgJtiOqn/8Jd5RVl+kx8W3LJbvPYEBwON92w5tSH88hXSJBatUMK5JMXE0u+Uw/6qEIIXQYEDcnWRNbbhF4Ey8O5+kHa2r09hWu4oc3t5okcQMJo812zbKjpnW0lMZs53FYfhArv3TfFoLRmpEDGnYyIA2eVqMrPZx+m05v9iqyW6SjMoElQlZxEBfBjuBOHGTGv2HH6vGa4FRkuQWmknJb8jEt459/hvAN0QHJ/fBsYkwgtyaGxfM12iUsGDJwxqOYXtUagAQ98jc3xvgxrYFs5dTWZ412dCa9nfXApW3wQwDiI=;nhxJkZi/ZPD9Jq3kYeaDHw=="
 ---
 

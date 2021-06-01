@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-speech-tulsa-race-massacre-ef
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-tulsa-race-massacre-efforts-combat-racial-inequality.amp"
 type: article
 quality: 164
-heat: 164
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden's Tulsa trip, 'racial wealth gap' policies highlight stark divisions on race issues"
+    excerpt: "As President Biden announces a set of policies Tuesday aimed at combating racial inequality in Tulsa, Oklahoma, race-related issues continue to simmer in American politics, stoking partisan divisions and potentially stalling some of the measures the president will announce."
+    publishedDateTime: 2021-06-01T14:15:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0sjM49MLIqs/biden-tulsa-massacre-race-division-wealth-gap"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tulsa-massacre-race-division-wealth-gap.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tulsa-massacre-race-division-wealth-gap.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "tYDR+fIApCz+6v8l9O73SEwlcGTLw1gEPN1phyA1KiZeuWy+69r00kRYUiXYY0MZVEKVUfwg3oNHZjPCJqYw9Df3nCOonEk4NOmMSdTq4grXF/TSp6I/WspwKEhSPWZS3QzxUONN8kn6o5Tldeg3MeRRo3N5Xwq6YPIs+8yNGO26jmcDfRkKF3gHrpMoZG8NldI9ekGQlywchGzXBwxlrZoe7xRvkOXILdATbVGGP+BPda/o0IC92TE2QfiedSbZd/8fDH8h3+2wPGBxRtJA5WT3v6bp2KM78hbN0wDMcvU2t70ZvhcJjcN6Hp0owSROYAWCw1fx926SrsaQWa3rEMm+X+eyb5zXchdTR2P3tHk=;VFxMofN+dk9xqzXXJU7B4A=="
 ---

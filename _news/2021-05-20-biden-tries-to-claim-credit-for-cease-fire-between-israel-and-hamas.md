@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-israel-replenish-iron-dome-li
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c72d9c11-6332-4454-b020-7a3435242be1/747ec0f8-709a-44a1-a78d-f2dafc15d9b5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Cruz, in Israel, says Biden showing 'weakness' to Hamas"
+    excerpt: "Republican Sen. Ted Cruz sharply criticized President Biden this week, saying he's shown \"weakness\" to Hamas and accusing him of having \"emboldened\" the terror group amid violence with Israel."
+    publishedDateTime: 2021-06-01T14:10:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WLoUWUL9ObU/ted-cruz-biden-hamas-weakness-israel"
+    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-biden-hamas-weakness-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-hamas-weakness-israel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden admin's mixed messages on fuel pipelines are as muddled as mask mandates"
     excerpt: "Biden administration officials have sported blatant hypocrisy between prioritizing the Colonial Pipeline over the Keystone and their quick change of heart on coronavirus masking."

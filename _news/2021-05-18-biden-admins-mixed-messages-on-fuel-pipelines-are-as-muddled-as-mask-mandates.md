@@ -127,6 +127,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Cruz, in Israel, says Biden showing 'weakness' to Hamas"
+    excerpt: "Republican Sen. Ted Cruz sharply criticized President Biden this week, saying he's shown \"weakness\" to Hamas and accusing him of having \"emboldened\" the terror group amid violence with Israel."
+    publishedDateTime: 2021-06-01T14:10:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WLoUWUL9ObU/ted-cruz-biden-hamas-weakness-israel"
+    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-biden-hamas-weakness-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-hamas-weakness-israel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden administration stresses need for 'equal' peace between Israel, Palestinians"
     excerpt: "Secretary of State Antony Blinken has stressed the Biden administration’s focus on an \"equal peace\" between Israel and the Palestinian people after the most recent bloody conflict in the region."
     publishedDateTime: 2021-05-23T16:10:34Z
