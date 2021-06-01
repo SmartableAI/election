@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Biden condemns Belarus for diverting flight, arresting journalist"
-excerpt: "U.S. President Joe Biden on Monday condemned Belarus for intercepting a commercial flight and arresting a dissident journalist, and said he has asked his advisers to give him options to hold those responsible to account."
-publishedDateTime: 2021-05-24T22:37:00Z
-originalUrl: "https://www.reuters.com/article/belarus-politics-usa-biden-idUSW1N2MD05B"
-webUrl: "https://www.reuters.com/article/belarus-politics-usa-biden-idUSW1N2MD05B"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2MD05B"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2MD05B"
+title: "President Joe Biden to visit Greenwood 100 years after its destruction."
+excerpt: "Details of Biden's visit are scant, except that he will make no appearances open to the general public but is expected to make some sort of statement in the afternoon."
+publishedDateTime: 2021-06-01T05:00:00Z
+originalUrl: "https://tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.html"
+webUrl: "https://tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.html"
+ampWebUrl: "https://tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.amp.html"
+cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.amp.html"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/9/dc/9dc3be4a-c25e-11eb-8756-fbf138266068/60b5171500674.image.jpg?resize=1024%2C640"
+    width: 1024
+    height: 640
+    isCached: true
 
 related:
   - title: "Pastor Greg Locke Continues to Insist Trump Won Election, Biden 'Is Still a Fraud'"
@@ -119,6 +121,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden condemns Belarus for diverting flight, arresting journalist"
+    excerpt: "U.S. President Joe Biden on Monday condemned Belarus for intercepting a commercial flight and arresting a dissident journalist, and said he has asked his advisers to give him options to hold those responsible to account."
+    publishedDateTime: 2021-05-24T22:37:00Z
+    webUrl: "https://www.reuters.com/article/belarus-politics-usa-biden-idUSW1N2MD05B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2MD05B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2MD05B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "President Biden proposes $6 trillion budget to Congress"
     excerpt: "President Joe Biden is laying out his budget priorities to Congress with a $6 trillion proposal that would vastly expand social programs to help the neediest Americans. Maya MacGuineas of the Committee for a Responsible Federal Budget spoke with CBSN's Tanya Rivero about why she believes the national debt is a more important focus."
     publishedDateTime: 2021-05-28T19:36:00Z
@@ -179,22 +192,6 @@ related:
         width: 1024
         height: 731
         isCached: true
-  - title: "President Joe Biden to visit Greenwood 100 years after its destruction."
-    excerpt: "Details of Biden's visit are scant, except that he will make no appearances open to the general public but is expected to make some sort of statement in the afternoon."
-    publishedDateTime: 2021-06-01T05:00:00Z
-    webUrl: "https://tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.html"
-    ampWebUrl: "https://tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.amp.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 75
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/9/dc/9dc3be4a-c25e-11eb-8756-fbf138266068/60b5171500674.image.jpg?resize=1024%2C640"
-        width: 1024
-        height: 640
-        isCached: true
   - title: "The evolution of Joe Biden"
     excerpt: "What happened to Joe Biden? Many people thought he was a moderate incrementalist, but now he's promoting whopping big legislative packages that make many on the progressive left extremely happy."
     publishedDateTime: 2021-05-23T08:11:00Z
@@ -210,6 +207,6 @@ related:
         height: 400
         isCached: true
 
-secured: "+2ebxyTyPh6zYHW0nATFuR9nrKCan3QU0x+0qF3anL/OaLMcsmbx5woBAXn21V+RusnA/8hzkdm9WsEMVMqH2Nw+knXehLXbHoLifd8pvzJmf22Cg8wAoYE+LJUvsSoEXXnxPBNJ/uSThT8i9vuExtiicnOgKqDx2WFfW21mRqYOFxQZes0Ao4K0jrgjcQvC+PDc9Uf4EYHXUdtPvxpmcDQ2W1a6M5XDTWvhlGkycDeuwVRMKnMEspocLuFZZ4rfzKHWY1fHAUIsEffJGJopMky86z/2WNBGMW3Hu0E5LvxB7pwcBLVPBeYlLaEO6msqCA/BYgcrDxTqTjJAsvk4PnZiJBhkAqa9VE0H1WSW5fg=;Qe5nIT0l3Sye6tbwoGbqYg=="
+secured: "ZD5nFm0waC1Bt6kQl7pQuI9OrVVpWtwc3GTDEcE0Tem1DzSxHiX8bgKotP8RmsIA1XGL8KcmIq0BYVYH0AkGM+UZ25cZRpysyAR3qYmEEUbPTIziuDF3w+S8SvqxwsWkhdEZzUkaap7tcF90YXMqy4Q+HqJfrmmxks9ub8nxVxG3/MAUp8pDb5Dj40b997QRwUQd7HDrQ0wmB7H9B8ftB6N+4UHABhoYDDyJZZBFnMo6Mq72VOU3dAf8a52vfB8u1XfNuCOjmt+M4mgAQs96rijmp+FhoQadJKJaTRgUiOZNLdizlXNkZXftJjZ6ehMjEi/Gdh8hisOuEKoi3maZ+CuFfZcWSXHR+ieR6q+mCyY=;eWRgk/9g9OoeVc7vdpjItA=="
 ---
 

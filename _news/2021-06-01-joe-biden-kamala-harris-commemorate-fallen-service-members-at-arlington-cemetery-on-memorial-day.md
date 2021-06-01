@@ -8,7 +8,7 @@ webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memoria
 ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
 type: article
-quality: 127
+quality: 137
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://www.chicagotribune.com/resizer/kma7aj3NxFM-9i89Nl7dVPdpzgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X33ST3VJERDXNFERUP4HBQPPVU.jpg"
@@ -660,6 +661,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "WD4S+L5CwVWNSWSErLknJ8k3nKadT5UJYbNTh7qud7wyESxfZ9ajaISdt0d6BZsJ2Wkl65+GO/vyfG0plHIH/AqbivRGOwAgOi0Cs/oYtx1A0RuBZVcwsar+ImPIu+fAwJTsPzep1i5nfWOo6O65o86So8PZ4W6khtipQkseipvZzaAZKvjMeNS+OacjGBLBJalPiUateQvUFZvWYeYy/ht0YNfjZmnPzCAi15VLECy+jvDI7VsbF6Lidczg/kH+ee6t4WvUzw1Cj4C11YVXriGsdEmazYq50Yka6h8t1eQj+lEsipiKtWrkxWRkn/BGFDS6qas1/7Elgv70fKYht4+74mz4Fup63hipKvx4/xM=;WLseTK3bru7+yM/rlQoh7Q=="
+secured: "qrgfSzymHLBXAmIRZ9iciWgNdCTYBcBce9OKndcPYeIA9+JELzgLXOOUKWBeo7Drg94t+iXQ3ro6FDl3EfPJnTeUR24seDREXHeMq0nay85NDUAsaYNxhmF8CeKDRN9HqPMCfbKm7/e+QEqRcJgEEcNiEIekvdESS0Zk3mLzRruJXwhyda0bch8dJ+jFNpkdhjB9eBaGEcxvym/0mGQLD2b8j1Ta23UYaRUhIZPLewcPY8l+DhqfqogucflQv4r7uT2K4iP37q2O/knS6h8fsKP0DxacxImV8ip5oeFcaO3wR2bzso7eXHkFnEzmD9Bodnynrj8hYqqL9jRNRRmnhfCuvTJ55elpUIRO5Ypnj3yFAn/NJ+anPpg0ThJK9qJS52Qeg7WS7s60tZYas9nMeVoaPTGiJfmJt6583uzg8fD5ItG0XSLZH6RyChxBcL4NhHdwLou8B9PmiTjhSmeL/b4+6l9yhddgZL2YrOn/z818SCNCdvP34tun11V+gvzUVGWl4cKzywHEAlQMKQeeTg==;4sWnj4LUs5nwjTbulbx7Mw=="
 ---
 

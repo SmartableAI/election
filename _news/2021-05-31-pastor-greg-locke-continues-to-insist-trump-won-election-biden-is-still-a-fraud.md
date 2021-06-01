@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-wo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1"
 type: article
 quality: 149
-heat: 369
+heat: 389
 published: true
 
 provider:
@@ -179,6 +179,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
         width: 1024
         height: 731
+        isCached: true
+  - title: "President Joe Biden to visit Greenwood 100 years after its destruction."
+    excerpt: "Details of Biden's visit are scant, except that he will make no appearances open to the general public but is expected to make some sort of statement in the afternoon."
+    publishedDateTime: 2021-06-01T05:00:00Z
+    webUrl: "https://tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.html"
+    ampWebUrl: "https://tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/9/dc/9dc3be4a-c25e-11eb-8756-fbf138266068/60b5171500674.image.jpg?resize=1024%2C640"
+        width: 1024
+        height: 640
         isCached: true
   - title: "The evolution of Joe Biden"
     excerpt: "What happened to Joe Biden? Many people thought he was a moderate incrementalist, but now he's promoting whopping big legislative packages that make many on the progressive left extremely happy."

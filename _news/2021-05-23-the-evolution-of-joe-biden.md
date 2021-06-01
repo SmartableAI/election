@@ -190,6 +190,22 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "President Joe Biden to visit Greenwood 100 years after its destruction."
+    excerpt: "Details of Biden's visit are scant, except that he will make no appearances open to the general public but is expected to make some sort of statement in the afternoon."
+    publishedDateTime: 2021-06-01T05:00:00Z
+    webUrl: "https://tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.html"
+    ampWebUrl: "https://tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/9/dc/9dc3be4a-c25e-11eb-8756-fbf138266068/60b5171500674.image.jpg?resize=1024%2C640"
+        width: 1024
+        height: 640
+        isCached: true
 
 secured: "/8g5P2o+c6LM+Y6lLqsh8BCuGPzxv+evpJBMumv/Sn17LzGR/AM+ibNf7mep/SM6eI6F+Hhs7l+lIvW4lmYKIX1hX9vx3xd8Is/r0zl9m7H86dVKZTkPD2KcNWk20W99QmMNVfFwHCMXbWzehgQe0IHt5mGkc3GYaKbxTwSs98A5WxDYmJEDn7F9OBDkEALOgynVBrG61gdt8FVVfD4UHsqn3NOmqzRj8NsDFVjGeT42r9HPpdDXdvdsxLmEMCxIUa8squXj2htoCiw24D4AlqSsmmc9lPZxBvu8uwxEsnMspJF78p3RNKga4LLsKSZeRgCu6ImihjjOjN8zpkS77ICt0PiQYaUnZSXVGL9k6XM=;tRmqfFPLRxgaXK5hTUNsTA=="
 ---

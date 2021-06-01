@@ -180,6 +180,22 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "President Joe Biden to visit Greenwood 100 years after its destruction."
+    excerpt: "Details of Biden's visit are scant, except that he will make no appearances open to the general public but is expected to make some sort of statement in the afternoon."
+    publishedDateTime: 2021-06-01T05:00:00Z
+    webUrl: "https://tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.html"
+    ampWebUrl: "https://tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/local/racemassacre/president-joe-biden-to-visit-greenwood-100-years-after-its-destruction/article_a6661bf6-c231-11eb-976c-b3f81980bff0.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/9/dc/9dc3be4a-c25e-11eb-8756-fbf138266068/60b5171500674.image.jpg?resize=1024%2C640"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "The evolution of Joe Biden"
     excerpt: "What happened to Joe Biden? Many people thought he was a moderate incrementalist, but now he's promoting whopping big legislative packages that make many on the progressive left extremely happy."
     publishedDateTime: 2021-05-23T08:11:00Z

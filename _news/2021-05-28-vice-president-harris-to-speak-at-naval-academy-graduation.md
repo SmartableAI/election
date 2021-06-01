@@ -69,7 +69,7 @@ related:
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 127
+    quality: 137
     images:
       - url: "https://www.chicagotribune.com/resizer/kma7aj3NxFM-9i89Nl7dVPdpzgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X33ST3VJERDXNFERUP4HBQPPVU.jpg"
         width: 1200

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-01-a-former-associate-of-trump-ally-roger-stone-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-a-conference-with-qanon-attendees.md",
+      "title": "A former associate of Trump ally Roger Stone appeared to gesture for Hillary Clinton to be hanged at a conference with QAnon attendees",
+      "excerpt": "Jason Sullivan, a former social media adviser to Roger Stone, made a gesture appearing to resemble a noose, receiving loud cheers from a crowd.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5",
+      "originalUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60b545ff02ac410018f93a82?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5?amp",
+      "publishedDateTime": "2021-05-31T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-biden-proclaims-day-of-remembrance-on-100th-anniversary-of-tulsa-race-massacre.md",
       "title": "Biden proclaims day of remembrance on 100th anniversary of Tulsa Race Massacre",
       "excerpt": "President Joe Biden on Monday issued a proclamation to commemorate the 100th anniversary of the Tulsa Race Massacre, when hundreds of Black Americans were killed by a White mob that attacked a prosperous Black neighborhood and burned dozens of city blocks to the ground.\n    \n",
@@ -334,7 +386,7 @@
       "originalUrl": "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230",
       "featuredContent": null,
       "highlight": null,
-      "heat": 369,
+      "heat": 389,
       "tags": null,
       "images": [
         {
@@ -1284,58 +1336,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-tennessee-shelter-for-immigrant-children-opened-under-trump.md",
-      "title": "Tennessee shelter for immigrant children opened under Trump",
-      "excerpt": "Tennessee licensed a shelter for immigrant children a year before the state’s Republican governor and U.S. Senators began expressing outrage over unaccompanied minors sent to Chattanooga",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
-      "publishedDateTime": "2021-05-28T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
