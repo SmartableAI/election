@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "VP Kamala Harris’ staff moves to in-person work in July | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
+    publishedDateTime: 2021-06-01T17:45:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article251817863.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article251817863.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article251817863.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Harris participates in a roundtable on high-speed internet"
     excerpt: "United States Vice President Kamala Harris participates in a roundtable on high-speed internet at the White House on Monday, May 24, 2021 in Washington, DC. Photo by Chris Kleponis/UPI"
     publishedDateTime: 2021-05-24T19:16:00Z

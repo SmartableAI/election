@@ -1,18 +1,24 @@
 ---
 category: news
-title: "Kamala Harris's Impossible Vice Presidency"
-excerpt: "RealClearPolitics"
-publishedDateTime: 2021-05-17T11:39:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
+title: "CNN: Kamala Harris' team 'dismayed' by being held responsible for border crisis"
+excerpt: "Vice President Kamala Harris is frustrated by her border role being “mischaracterized” by Republicans and some media outlets, CNN reported Tuesday, saying Harris was not in charge of stemming border crossings themselves but rather “root causes” of migration."
+publishedDateTime: 2021-06-01T16:01:00Z
+originalUrl: "https://www.foxnews.com/media/cnn-kamala-harris-dismayed-held-responsible-border"
+webUrl: "https://www.foxnews.com/media/cnn-kamala-harris-dismayed-held-responsible-border"
+ampWebUrl: "https://www.foxnews.com/media/cnn-kamala-harris-dismayed-held-responsible-border.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-kamala-harris-dismayed-held-responsible-border.amp"
 type: article
-quality: 65
+quality: 131
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -20,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/543462_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24af3547-95ff-46d5-a121-a8739aa4bdc1/b55ae970-4a39-4dfa-bcdd-0d3bc0d4e008/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -58,22 +64,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "CNN: Kamala Harris' team 'dismayed' by being held responsible for border crisis"
-    excerpt: "Vice President Kamala Harris is frustrated by her border role being “mischaracterized” by Republicans and some media outlets, CNN reported Tuesday, saying Harris was not in charge of stemming border crossings themselves but rather “root causes” of migration."
-    publishedDateTime: 2021-06-01T16:01:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-kamala-harris-dismayed-held-responsible-border"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-kamala-harris-dismayed-held-responsible-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-kamala-harris-dismayed-held-responsible-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24af3547-95ff-46d5-a121-a8739aa4bdc1/b55ae970-4a39-4dfa-bcdd-0d3bc0d4e008/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Kamala Harris blasted for ‘enjoy the long weekend’ tweet, with no mention of Memorial Day"
     excerpt: "Vice President Kamala Harris sent a tweet telling Americans to “enjoy the long weekend” and disregard America’s national day of mourning, Memorial day."
     publishedDateTime: 2021-05-30T00:44:00Z
@@ -90,7 +80,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris's Impossible Vice Presidency"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-05-17T11:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543462_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "9ruGk7EyZU4Ab6OnyO4qKRyUp3dMgL5JIgZoQzdUhlrWmQGhjr30Ugx4ppSDJeUumglp8z8fzZaTO0/XwClWuE+Ub6UJMvYmn11etOva6MHdo7BpEXl9rCJcDO1cv6d/clo3XPimKVouxmIEi4KCGAbD5XNAwPtAKQd0vOqiAAZRAQb9xdxLFUbhi87FEiySHUXaGoCpBDJtYk6fujV1ExT0nqG3/C6iUgiuj+qSgELVZynnPNXqjRukgQmbF47y6+h/fe07N/SASTzaiYHGG7oZ6DWCaC9lH5/lSPAWlvL/jmSqXgRyRSXyq3Lkq7ULrC0D0ho1iYUZotMVeoT/FBYpLLaYsUGdRFFdwRdSn+E=;HnIF/pHRghL2nGOgzESXqg=="
+secured: "qgn07HgjI/PINt7Qy3qdNoPt76QCMQut+4zoEPuhABLDPF1qNzlcdHUcmx6Ex5YJ5iTLNmDHfFIcVa5jQLIezRRSQPi7u9PyZ45/fbmf1i5wGQd0y5O9XI0Pjb9kjAPUXQCIAp6miM4R0M4iA2L1aFsS0iI2INaH0820Ypy+Z2AZzrp99p7vvWmsNVnk928uNRkvn/XS2HX7UrzRg5FHniune/lO8eerOllPgB9x/CklbCdMTlKtKewAypx0c0b9HGR/osw6JLmYUm2TSQ0VzuDcyMU/rQ5rEto4bnixJjp1koQl6HEDex/QMmahgmZLc+kqr/O7h2XawxxLRzAiWBBw02JSRMG0Ej/fV/uSA0c=;/0+p2HmhmBby1Myl2i3XDg=="
 ---
 

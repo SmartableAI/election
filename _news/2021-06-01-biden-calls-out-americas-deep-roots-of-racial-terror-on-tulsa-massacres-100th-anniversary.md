@@ -33,8 +33,8 @@ images:
 related:
   - title: "Biden visits Tulsa to honor victims of 1921 race massacre – US politics live"
     excerpt: "President to commemorate hundreds who died in attack by white mob – follow all the day’s politics news"
-    publishedDateTime: 2021-06-01T13:54:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b6499f8f082e80569f2f74"
+    publishedDateTime: 2021-06-01T13:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b645058f08b9889b365a08"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
     type: article

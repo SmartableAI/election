@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden departs to Oklahoma from the White House"
+    excerpt: "U.S. President Joe Biden arrives to board Marine One helicopter as he departs the White House en route Tulsa, Oklahoma from the Ellipse in Washington on Tuesday, June 1, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-06-01T16:25:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3a0a1529893c5eb345c1de40bbc58af7/Joe-Biden-departs-to-Oklahoma-from-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/3a0a1529893c5eb345c1de40bbc58af7/BIDEN-TULSA.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "SrGnFv3QEplB4DXOSIeZlyqIE/G1wpNtOKiWDvTfPB/h60H+5BQGnkZaGs3qMw9xaEhl//kiLs5sN+jyKfgKLeLEJQrP7ctfiroHUzsQSpR+1W0hxgkiZGoM1X5Q4jAueLsuqOXi4LWt1z9Rzwb6AWJYzhYt5mXYjBDmdtMIHIZKreVoz8K904iTLFrJ9BtgmhAXthRM/JhCNb59tZwY00JVTexcb3KUvU26gu/nehFym6gpCAzkMhN7lj8i6cYWxvRUDyU/vsRnf3E1ywP9HSzi8GT0/laJplHHS8GIvBOZkLCHTqD9uhl5I93WElPYGDxIf6XN/SeF9PEUYBkVEceiSEseOa55zA5RRD/NcBfL224X0hej6kLbR7MByZgA1eIPi47zBhmIYRMuQqlWbBLg1D1yAV5TfLpxKHu28u6DGNyEHg4kdHo2tgO//GIPDJ3yigJCz4jlqP7F0x2+J2lk48qSKiJzlNcaiRJWjF3sJu7O91hlreHTzncaoZVPRtAjBLh10W3MwY9GYhQumg==;cM7EMiC5KsjDPT9qda9GYQ=="
 ---

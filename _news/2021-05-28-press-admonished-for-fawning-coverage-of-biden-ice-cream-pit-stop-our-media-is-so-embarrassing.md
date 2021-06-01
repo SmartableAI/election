@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/press-fawning-coverage-biden-ice-cream
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/press-fawning-coverage-biden-ice-cream-ohio-embarrassing.amp"
 type: article
 quality: 122
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Bongino torches 'embarrassing' mainstream media for covering up Hunter Biden, Wuhan lab stories"
+    excerpt: "Fox News contributor Dan Bongino on Tuesday ripped the media for its lack of coverage of the Hunter Biden scandal among other issues."
+    publishedDateTime: 2021-06-01T16:58:00Z
+    webUrl: "https://www.foxnews.com/media/bongino-hunter-biden-wuhan-lab-ignored"
+    ampWebUrl: "https://www.foxnews.com/media/bongino-hunter-biden-wuhan-lab-ignored.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bongino-hunter-biden-wuhan-lab-ignored.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "rguJxU5bTTgWvAuZ5JWzw4bbvsFMxYYA2iadDg8sxdnRGiqbT2rz/uR3yiKoKIx7DCF6jiserq4YF1E/y0D3YR03qNl9j21FLRip5UCEDTkxIDx1djfn2rOigPRZtEiepAxC+hU6MWT5sbX5E0xiPkhoUHMOujS7PCTyljDOK74l46RQwJ+rfUVyiX3y7XeSoZzn5WAW6/c6P4l64axV0V8r3Eb+Wy8DX6wbA5BlM4NBDYQZdiAOL27L7C0QI095N4jsUsQUxIoMak5u4qIQXb3xkVn2TD3rLaNH+fFw3+4p9mHmWwD/ZT9luqUAxRDYP6N+PEYUUaZjxLLtq+s0JYvoz1UWxKan9H35HKyFXB4=;nuaug8Lep6W17th80d8atQ=="
 ---

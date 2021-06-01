@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliv
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5?amp"
 type: article
 quality: 119
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://i.insider.com/60abcdcd5e34570019265227?width=1200&format=jpeg"
         width: 960
         height: 480
+        isCached: true
+  - title: "Joe Biden departs to Oklahoma from the White House"
+    excerpt: "U.S. President Joe Biden arrives to board Marine One helicopter as he departs the White House en route Tulsa, Oklahoma from the Ellipse in Washington on Tuesday, June 1, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-06-01T16:25:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3a0a1529893c5eb345c1de40bbc58af7/Joe-Biden-departs-to-Oklahoma-from-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/3a0a1529893c5eb345c1de40bbc58af7/BIDEN-TULSA.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "WWtHwOeGz+LHGJIPPHjtRB5e7bidJv58Ed8R+MibVIlsXpLJDUYfIDdaIJO1cSnaPqx88FU84dlnF/k2vn3LpstqbttFNvG3DhmOUaOIu32SSZFn35di5Vucl7FtK/b5DCarVFubcHI08hpl4qv6YTzFVjS7saU3IPXeaGc5qT6Wu094b4xYU1X3fCwIC+mcIjTk5QZYl3Mxu5QfD5ww0ttOyM86DBA7GcHtCXq4coEcX6ktHnehT3Xi4GnBUIU3DXqAj9om4dfrkFvbt1mfdKv+9cHi6G3eVv2UYr4vQY4SsMgmtYswTggKqvIBG6vdlWNf+1UwG3eBZdQ28K2WvgbfD+K1drLLNWbkQAu6AAsaysFE207hrvrqHrqzQCJ7QcThSQxJ4x6EQg7wFzNqROSeT3wSkPNXhLYp3vI/Y8mqbRfNSRWyBMHjh6Ja6rigOOpzrEfjMnhet7axBz2guX7k3LqaaMME4hBCuKS+8nPcD+TVsunPZBlVBAi5O4X27bP35bMAFA1nes138yqEBw==;JxknB909HyiM6tGxTxrtmg=="

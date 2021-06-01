@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "CNN: Kamala Harris' team 'dismayed' by being held responsible for border crisis"
+    excerpt: "Vice President Kamala Harris is frustrated by her border role being “mischaracterized” by Republicans and some media outlets, CNN reported Tuesday, saying Harris was not in charge of stemming border crossings themselves but rather “root causes” of migration."
+    publishedDateTime: 2021-06-01T16:01:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-kamala-harris-dismayed-held-responsible-border"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-kamala-harris-dismayed-held-responsible-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-kamala-harris-dismayed-held-responsible-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24af3547-95ff-46d5-a121-a8739aa4bdc1/b55ae970-4a39-4dfa-bcdd-0d3bc0d4e008/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris blasted for ‘enjoy the long weekend’ tweet, with no mention of Memorial Day"
     excerpt: "Vice President Kamala Harris sent a tweet telling Americans to “enjoy the long weekend” and disregard America’s national day of mourning, Memorial day."
     publishedDateTime: 2021-05-30T00:44:00Z

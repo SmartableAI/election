@@ -2,9 +2,9 @@
 category: news
 title: "Biden visits Tulsa to honor victims of 1921 race massacre – US politics live"
 excerpt: "President to commemorate hundreds who died in attack by white mob – follow all the day’s politics news"
-publishedDateTime: 2021-06-01T13:54:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b6499f8f082e80569f2f74"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b6499f8f082e80569f2f74"
+publishedDateTime: 2021-06-01T13:35:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b645058f08b9889b365a08"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b645058f08b9889b365a08"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 880
         isCached: true
 
-secured: "UWyVR1Nuz3K4p7jOW9SM393JUnvAgVsmnxeRuVANB0r8rkqvzUfxi/gbHfV29TPj4IOVgcSzmgeDcpXDD3LLfZ6+mN63CUivGJKGCyZj4KjcYfB1Iy2NWFzD9jzIX0OVHPbGbci42lqdu1E+mNrXMaKVtoKNkSMPkp3r0qkRIjY5CYUIokxO/7XCV3w7kgm8evxNFor9Mz0kp7enY6LqCBt0qeVLhuG+iNcXam9SBtDVXVj6nsAfxfCo9SGdkrsjSFrOsPF8P3EaIXlKdPGFaOaj/ZwpFps4U58GYGVFqWDRjY9mez/s3qkdXZgmMoPQACIEyFF3p/LeDfI2RzxupF2D/oCSHZ25zLmIxYYa208=;gQEfHvrisv5LnQN0Z5AkqA=="
+secured: "WOFmcTyPsXdqs9pCbgoQ1CAv8pzJT9AOH27nQPnEkR/sF82CEBzMVubayIohqGxbPT4lh9B8GaENMycF+Vvv5bq5qOvS/X6o1mao1aIjcJlOfy7SoWA/GsvmYduDcJdQweyrzac9J0pealTDq4Eatc8rFTARA2gHe8A73jgB0V5ahExTAurI3qrs5WAYYjHFTar2SVdM4OLpPQGUoLq6wd7h/znH+3PocwdNH6IwLbJ7zYcQazUfEK0z4LelsxZdhVlCogHHxJ5b3kWIiCYuXniRmVa+cCE9rfz3Tu050uzAZVh2GD/ymCd9L05ALHTbznoUm0lDOb9vRHDxO9mcYC8PXvHzx0XiDl2GZw5/hXI=;Wn0xAuHjDhPvwO9z/BvTWA=="
 ---
 
