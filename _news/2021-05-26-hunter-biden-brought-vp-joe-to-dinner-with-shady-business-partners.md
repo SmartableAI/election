@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinn
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners.amp"
 type: article
 quality: 175
-heat: 335
+heat: 375
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0421a2a5-3c18-4aa0-8bb3-5cdc37d5d1d6/3054ef70-c6d0-4a2d-b9c0-c2d4b5190ff6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Tim Scott's spotlight grows with RNC ad, following high-profile response to Biden address"
+    excerpt: "It’s no surprise that a new ad blitz by the Republican National Committee (RNC) targeting President Biden stars one of the GOP’s brightest stars – Sen. Tim Scott of South Carolina."
+    publishedDateTime: 2021-06-01T18:59:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UchVPrmPzjA/tim-scott-republican-rnc-ad-biden-address"
+    ampWebUrl: "https://www.foxnews.com/politics/tim-scott-republican-rnc-ad-biden-address.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-republican-rnc-ad-biden-address.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "3 House Dems blamed pandemic for needing proxy votes, but were touring Ford plant with Biden"
     excerpt: "Reps. Haley Stevens, D-Mich.; Elissa Slotkin, D-Mich.; and Dan Kildee, D-Mich., each signed a document granting their vote by proxy to one of their Democratic colleagues in the House for the vote series on May 18, 2021."
@@ -154,6 +170,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Biden's Attempt to Kill Hyde Amendment Is Morally Ghastly"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-01T18:42:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/01/bidens_attempt_to_kill_hyde_amendment_is_morally_ghastly_544035.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/544670_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "L6xCcQrukk3VyY3+uB2kFs4wG2VgJujOMz4wCZQZQQKCVxu/uLH01cDus+soFkzOD/HdUqi8NJ4gqjpsJtML2LPdv2Cozj6wwxKhUopAf2CgJklPt79DduU0Xddy19W/WJuzpmtP5DlaKGBvX3V58ZWO3hmU2uhkS0U5adar/hL2NpK9/a5I0D+UG1vSxP/CtO08vo5BVI4A+3uitaRUo9ChRZi4uk8LOp2FGnYukq7fzJca31BEThnZH5Mwh6R7PUMCyrSjZcsUbJtsQXueTNBCrPIigcge/ES8fAa7iOF9MtNV54+qia1OOLGaRQgw7WXblT4uNj8WahUbajBspR7OK4W+u1fNxPajuOp15G4=;6OxTNqlNYBeJ62A+H68m0Q=="
 ---

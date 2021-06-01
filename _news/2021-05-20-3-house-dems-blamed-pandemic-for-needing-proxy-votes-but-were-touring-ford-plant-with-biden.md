@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Tim Scott's spotlight grows with RNC ad, following high-profile response to Biden address"
+    excerpt: "It’s no surprise that a new ad blitz by the Republican National Committee (RNC) targeting President Biden stars one of the GOP’s brightest stars – Sen. Tim Scott of South Carolina."
+    publishedDateTime: 2021-06-01T18:59:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UchVPrmPzjA/tim-scott-republican-rnc-ad-biden-address"
+    ampWebUrl: "https://www.foxnews.com/politics/tim-scott-republican-rnc-ad-biden-address.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-republican-rnc-ad-biden-address.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden to miss police reform bill deadline, meet with George Floyd's family on death anniversary"
     excerpt: "President Biden is expected to host the family of George Floyd at the White House on Tuesday – though Congress is poised to miss Biden’s deadline of getting the federal police reform bill with Floyd’s namesake passed by the one-year anniversary of Floyd's killing by a Minneapolis officer."
     publishedDateTime: 2021-05-24T13:26:45Z
@@ -154,6 +170,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Biden's Attempt to Kill Hyde Amendment Is Morally Ghastly"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-01T18:42:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/01/bidens_attempt_to_kill_hyde_amendment_is_morally_ghastly_544035.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/544670_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "L1XDjUKkbdjKN+XH7laxNJ6haoRQu4IIi0+YJEig1HBDx2f2Gj/YyAdfR2JieDA97xD0kZfc7+5TtB7WIH+KvzsSi5ZhgXbrvcbWA2TqUMahxTVZNpuSRF61jJtEJbae6POIBu+wL660KFne61oNdNIiXjRNKp4yvLKeJ11LpeCqEe33EfVPhCYNkdE5fJJlKZx3Vw8tGWd1lin+7vJal1JL4o6KgdIF9cRWQ04wvRLzI1jjddTL6OvxV28d6odecdlAi9uOtg8fLxQTQesqwpoAxKmzLaFskCPs11BTleF2DY1KnAHIIsKXZ2ELADS9xpvrGo9eOoGha/2p1/Wk+Z8Ns/Z09jv6yasq4QS6QCs=;j2UNuv4pMcs7hiC2lBJZyg=="
 ---

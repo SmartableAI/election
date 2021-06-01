@@ -359,6 +359,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fact Check-Trump is not back on Twitter, screenshot taken from Gab"
+    excerpt: "Users excited about Donald Trump being “back” on Twitter will be disappointed to know the former president’s @RealDonaldTrump account has, in reality, yet to return to the mainstream social media platform."
+    publishedDateTime: 2021-06-01T17:46:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-trump-twitter-idUSL2N2NJ2CM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NJ2CM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NJ2CM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
     excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
     publishedDateTime: 2021-05-20T19:25:00Z

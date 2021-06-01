@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "VP Kamala Harris’ staff moves to in-person work in July | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
+    publishedDateTime: 2021-06-01T16:27:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article251817863.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article251817863.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article251817863.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Harris participates in a roundtable on high-speed internet"
     excerpt: "United States Vice President Kamala Harris participates in a roundtable on high-speed internet at the White House on Monday, May 24, 2021 in Washington, DC. Photo by Chris Kleponis/UPI"
     publishedDateTime: 2021-05-24T19:16:00Z
@@ -69,7 +85,21 @@ related:
         width: 1000
         height: 681
         isCached: true
+  - title: "Kamala Harris: I eat 'no' for breakfast"
+    excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
+    publishedDateTime: 2021-06-01T17:56:00Z
+    webUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
 
-secured: "LKuTqKgLxQQPNAkhfhj+R0XSoVYU6C36cCJSr60FyBy9wJEvg/ZMDGjCkYG+OywxXHc/YbhczuKfGmKGKVsoW6Px8pPeViBfaner7h4pmBOoAR0fKe9lQO5RogLn+ESaFrWg1DsLih8QedqsgouQQqOrV085dX5FO098v4ysfP8+PphWAr5zsHoDcJs5Jz4Fsagx5FjrD27EWjKRlxGJu1tH1f8y/PniKUtpQoKuR98mQZMyHhlDuipItoKeqkzDoZiUNYQQIVm52po9mQUpFrU8/iwhG/0pUUY2MpONn1NBxCmEzlEwxVtCJvx4p795t0igQp1lXsIltZpdV+7sF0zy/jMDTSuqrgv0OXDBIHU=;c0yHozE5yryxAgplF0ikvQ=="
+secured: "SEU3xjWi18HoxFlUF9e6FvrUgxhhBbBPvwCFe7aE6hKpRo+/U27xAgPmZH5F17j2zspVBHo+/1xVlcoSxHUweJv6bwjLjPU/OcCr5Nlhm8lnmrrOBlbtF01hkzvF4E/IxGrCmRmL9dn8sa3xrmYvmzoN6hdhUl9wQTx/kxVquwrmIio0u+E6HJs+5ZEZODgXo/oW9wEUYAqZ5y/s/bzvnlEdaA9kPJnf1vXiMmAZ8UCS1Xc0W8Diw3rftCpwts933dMgh7OB3FQqRY6nr/rPmZRVWykYnUkvhzP6iZDjJH9enAn0oOZSpXL2vTCZrHCbO/L0PfZ3BgpfFYdiFTHKrvsrWQQS4uYbpzZW4rZW0zuOT2hUo+ZiQ8ElYlQHcdRGlTir7lT5bR3R3mHtctMt+bVNPJzXI9oJUCr90dgYzwmOLD58tNVxoJEZhntlUU/k+/noPHrXvzHwVACNuXhcTOFoG3v34xZNGlE7UAZpgjuzmB2j9SvUPMO+sHhCKZZSe96qjRa94+xHsVHqqMgOfw==;xkDU6QBBwzJPQ+wURBNnJQ=="
 ---
 

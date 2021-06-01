@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Tim Scott's spotlight grows with RNC ad, following high-profile response to Biden address"
+    excerpt: "It’s no surprise that a new ad blitz by the Republican National Committee (RNC) targeting President Biden stars one of the GOP’s brightest stars – Sen. Tim Scott of South Carolina."
+    publishedDateTime: 2021-06-01T18:59:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UchVPrmPzjA/tim-scott-republican-rnc-ad-biden-address"
+    ampWebUrl: "https://www.foxnews.com/politics/tim-scott-republican-rnc-ad-biden-address.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-republican-rnc-ad-biden-address.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "3 House Dems blamed pandemic for needing proxy votes, but were touring Ford plant with Biden"
     excerpt: "Reps. Haley Stevens, D-Mich.; Elissa Slotkin, D-Mich.; and Dan Kildee, D-Mich., each signed a document granting their vote by proxy to one of their Democratic colleagues in the House for the vote series on May 18, 2021."
     publishedDateTime: 2021-05-20T23:20:11Z
@@ -154,6 +170,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Biden's Attempt to Kill Hyde Amendment Is Morally Ghastly"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-01T18:42:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/01/bidens_attempt_to_kill_hyde_amendment_is_morally_ghastly_544035.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/544670_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "pTDAZE3Z8RclxGEGUVuHXK8qf1OWtSA87w7Tu4WLcnpwYUjkN/XLeE+/yRjeTQfigrg813Hv/I6l/coAnLmi0f7d3aU2kGZcTXHPhUwmae0BviYUqNgrLEXfyrPe8vok1Or0CLV8G8ARUln60lJGIaHt8uX00DvjsXcb8gmzTMKVfFeUbC0E+pyVSkN6PPlFx1n4pkO5mcjI720g5tZj7+au+ooXg6YrTwRAXQHZ4uBlSvPd9g/aBzHgTjEQ0xy5S2YnO4bmbHh9KDDkd2iMoENG7qVPMD9xQfiwns6gjpXmGTfL/5KRcov34ZipDxvfejAP/4XLZCMDFkjcUHH6XYABFiuHTQffswKj41Ivpyk=;iVpMAufSBGntxReXE71CXA=="
 ---

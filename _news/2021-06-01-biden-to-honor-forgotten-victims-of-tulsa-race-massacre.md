@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Biden to honor forgotten victims of Tulsa race massacre"
-excerpt: "President Joe Biden is set to mark the 100th anniversary of a massacre in Tulsa, Oklahoma, that wiped out a thriving Black community"
-publishedDateTime: 2021-06-01T04:15:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-honor-forgotten-victims-tulsa-race-massacre-78012115"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-honor-forgotten-victims-tulsa-race-massacre-78012115"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-honor-forgotten-victims-tulsa-race-massacre-78012115"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-honor-forgotten-victims-tulsa-race-massacre-78012115"
+excerpt: "President Joe Biden is set to mark the 100th anniversary of a massacre that wiped out a thriving Black community in Tulsa, Oklahoma"
+publishedDateTime: 2021-06-01T16:55:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-to-honor-forgotten-victims-of-tulsa-race-massacre/2021/06/01/a352936a-c28e-11eb-89a4-b7ae22aa193e_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-to-honor-forgotten-victims-of-tulsa-race-massacre/2021/06/01/a352936a-c28e-11eb-89a4-b7ae22aa193e_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-honor-forgotten-victims-of-tulsa-race-massacre/2021/06/01/a352936a-c28e-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-honor-forgotten-victims-of-tulsa-race-massacre/2021/06/01/a352936a-c28e-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_6a5155c6b11b4e9da8248fc8e5f3b462_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PJ64CSWDB4I6XCNEW6XCFKQZHY.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -94,6 +94,6 @@ related:
         height: 675
         isCached: true
 
-secured: "g9U+dQHsMzXsK5RudyXiKAon24F7aC5I19OChdjx+vt6/QrCUhWfTYPpD30bNY7vQA6YOHlyZWd9xSpHkvyFx4e4EW5LPZ+sFs2M6fhq291qpU4W7Pams3G2tMWaenKZ1pwJBMEWz4gY13n2VNiOgvIMsftf3Bu9URW+jMNxSq6TchAwCYFGLcD7473vMWHZFgkXwXx2CcwEzfa2QxVRN88blBdNnhpeMRIss+6M1QYFGSld2uDHQKz0DnC/pdcvSXxj0OR3z6b+zmLGdEL7Bby0Mpi0aKJ2R1wfwgXeBLZqL0GlcA9um3uRmtfOmTQlHL5inBnyln+AnCAOVG1Br/l17fz/zrfm97n9Pt5m+Oife0vMwzS8UVEErXCrizbJyYrj31B2Fsh0v7pB74PIG3OGpl45HYOnCX2QE3jrKmhaoo1mOd9MTHCykI31pyR8c3v9aYEzxar4Ry37GOcCb2kHfm9SSaRleReG9eJ9cmH4Wq91+TfdLG0pyk8ygPtG1tP2u00IG3KoxyavG10VZg==;sQC313jSDWUWXr9Uq6E2nw=="
+secured: "H5rikoeqhycOaHbW7qpyHa8bL+8hpVr4oRFkz1yBgn3zTYfets/DPxkhybtPqyVwReN48HF5PaEfl+HgGzaKabKTPN2bqj/bn+UEPxVm08hGlGIOSlfuNgvJizoy7YEJbvVsvAmMlT9hnPsTfrMOWrKTWIGXiIlUyHWRb2EhCJ25yRDsTTOeo83n+rhdFC28LMSxAEwFIXdtW3z/hAaKVy+/cu73B/OZF0edSeYpX9RRc2zc44QKB3LKkMoIWWIi0N1/02i5am4dI2hUOztfRGm7uw9js1ywXGsKP4dAjgvhRsQVQv+VTGwV6iCQQsGmoSjO/4LXGOEVreIbjh2hIvSeGXSPwxpingxxFRw9XuA=;xDj2ku5+ihOMMAvniJdijA=="
 ---
 

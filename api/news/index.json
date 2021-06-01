@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-01-house-conservatives-slam-bidens-pathway-to-bankruptcy-budget-showcase-separate-plan-for-fiscal-stability.md",
+      "title": "House conservatives slam Biden's 'Pathway to Bankruptcy' budget, showcase separate plan for 'fiscal stability'",
+      "excerpt": "EXCLUSIVE: The largest House conservative caucus is releasing a new playbook to fight back against President Biden's $6 trillion budget proposal, calling out provisions on abortion, tax hikes and expanding the \"welfare state.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K72CTQqV8KA/house-conservatives-biden-budget-bankruptcy-inflation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K72CTQqV8KA/house-conservatives-biden-budget-bankruptcy-inflation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1312682563.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T12:43:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-bongino-torches-embarrassing-mainstream-media-for-covering-up-hunter-biden-wuhan-lab-stories.md",
       "title": "Bongino torches 'embarrassing' mainstream media for covering up Hunter Biden, Wuhan lab stories",
       "excerpt": "Fox News contributor Dan Bongino on Tuesday ripped the media for its lack of coverage of the Hunter Biden scandal among other issues.",
@@ -123,7 +179,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b645058f08b9889b365a08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -720,7 +776,7 @@
       "originalUrl": "https://www.ibtimes.com/trumps-ex-advisor-tells-qanon-supporters-us-should-have-coup-myanmar-3212873",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1285,58 +1341,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-what-we-learned-about-joe-biden-from-riding-amtrak-with-a-senate-colleague-who-has-known-the-president-for-five-decades.md",
-      "title": "What we learned about Joe Biden from riding Amtrak with a Senate colleague who has known the president for five decades",
-      "excerpt": "President Biden and Sen. Tom Carper share big goals on infrastructure. They also have a devotion to Amtrak after almost daily commutes from Delaware to DC for several decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-amtrak-infrastructure-climate-senate-tom-carper-2021-5",
-      "originalUrl": "https://www.businessinsider.com/biden-amtrak-infrastructure-climate-senate-tom-carper-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60b01460bee0fc0019d5a148?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-29T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

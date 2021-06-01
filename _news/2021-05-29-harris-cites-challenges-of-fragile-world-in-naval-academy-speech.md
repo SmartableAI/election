@@ -55,6 +55,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Kamala Harris’ staff moves to in-person work in July | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
+    publishedDateTime: 2021-06-01T16:27:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article251817863.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article251817863.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article251817863.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Harris participates in a roundtable on high-speed internet"
     excerpt: "United States Vice President Kamala Harris participates in a roundtable on high-speed internet at the White House on Monday, May 24, 2021 in Washington, DC. Photo by Chris Kleponis/UPI"
     publishedDateTime: 2021-05-24T19:16:00Z
@@ -68,6 +84,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/11eb388bcfd2428ccc643c9df4deeb09/HARRIS-INTERNET.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Kamala Harris: I eat 'no' for breakfast"
+    excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
+    publishedDateTime: 2021-06-01T17:56:00Z
+    webUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
 
 secured: "lnoi4FBBzua7NC9PqJooH40/BSEftB3avrikzB+cO3xVEzODp/Q6+JOQzCt9JggZU8Zkkb01nJx6dFDk+mZoLTbWR/N+iM+zJcwTILTpeepFfHHTOCx2PQ4Al+sl98oW76THuU45lZDDbe1iTtKDTIgoJptJKmbVLauuaA1kZthb8AmE89Eblhy2+KclrE1KMN0LjmBFiPfLAMumlg84OOdFYrA0gm3g6uLe4RUd4WtB5TUV3m3CFdJRjb0u7Q4TcaGyrN7LpB9avywFOj66vtB4AeD33xwpEybpLCgikeYn85cdFWxeh3blBaXCrEcetPK16k64oVMDdg6a9eEYMEeN2v/toCiHJDR5JY4IlnI=;Tvdkmc205+maXRPeaYW6vg=="

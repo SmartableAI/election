@@ -90,6 +90,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Tim Scott's spotlight grows with RNC ad, following high-profile response to Biden address"
+    excerpt: "It’s no surprise that a new ad blitz by the Republican National Committee (RNC) targeting President Biden stars one of the GOP’s brightest stars – Sen. Tim Scott of South Carolina."
+    publishedDateTime: 2021-06-01T18:59:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UchVPrmPzjA/tim-scott-republican-rnc-ad-biden-address"
+    ampWebUrl: "https://www.foxnews.com/politics/tim-scott-republican-rnc-ad-biden-address.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-republican-rnc-ad-biden-address.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "3 House Dems blamed pandemic for needing proxy votes, but were touring Ford plant with Biden"
     excerpt: "Reps. Haley Stevens, D-Mich.; Elissa Slotkin, D-Mich.; and Dan Kildee, D-Mich., each signed a document granting their vote by proxy to one of their Democratic colleagues in the House for the vote series on May 18, 2021."
     publishedDateTime: 2021-05-20T23:20:11Z
@@ -153,6 +169,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82102348-ee8c-45f0-a737-fb966c738107/9d8e130c-8520-498f-b23b-f5636c2de98f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden's Attempt to Kill Hyde Amendment Is Morally Ghastly"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-01T18:42:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/01/bidens_attempt_to_kill_hyde_amendment_is_morally_ghastly_544035.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/544670_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "KMzQOodSb6VFvf4OeH/lkCRT98nPKsgKXTaykvexLZu+UBaUYhiFv3jDVygSq697Meuif/QiFhy/KalCMKKKuPlie8GPwTAo5z4OnP4wx3vi7aUExW7Gx/A1oE0NqHcEaR32xGeLoHo/+ZtYeZzJmWvQ9dSODPkMMYljseXoHMdJq5ZBak8L7eiEahJQETuFoTttnc1UvCry3Kx4eHUJA1GlPoaWYVYplECgFLq0GMQNR3MvTMTKTpLWDV3P7pRltRS3bXu1pQPmoa/Egk3dw1fIAfjyiEHD8jBF411tkHnn0MMZdHA+vVA/i7dRSSK0M0MRFz8p6cYGkMA4ty1GlJjuuLyqx78iS7VQrDhcOIe4OmtEkb6Y1upNmt/PEaf7oX9nGEJHJjuawkdphue2WxDoTESbg+ICDVvOsWnuyJlTAutZjK5HbeRQrCAz4KNvn0AHdZS2G98oFj5xYWJLdfSqWUlNNiSLMhQhj+uC7nLe/mLYNPi6ghnaCNapZXRS5HV6+SHvlZd2XwN28QU2dQ==;4KO4C9F4KPAl9JzaO0xdIQ=="

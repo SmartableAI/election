@@ -359,6 +359,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fact Check-Trump is not back on Twitter, screenshot taken from Gab"
+    excerpt: "Users excited about Donald Trump being “back” on Twitter will be disappointed to know the former president’s @RealDonaldTrump account has, in reality, yet to return to the mainstream social media platform."
+    publishedDateTime: 2021-06-01T17:46:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-trump-twitter-idUSL2N2NJ2CM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NJ2CM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NJ2CM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "What happens next as grand jury considers case on Trump business dealings"
     excerpt: "Former President Donald Trump is responding to the seating of a grand jury in the investigation into his business dealings, calling it \"purely political.\" CBS News legal contributor Rebecca Roiphe joined CBSN's Tanya Rivero to explain the process and what could happen next in this investigation."
     publishedDateTime: 2021-05-26T19:45:00Z
