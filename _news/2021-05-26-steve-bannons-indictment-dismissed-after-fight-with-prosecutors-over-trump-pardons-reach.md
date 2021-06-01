@@ -32,19 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Men booted from Yankee Stadium after displaying ‘Trump Won’ banner"
-    excerpt: "Two men who brought a ‘Trump Won Save America’ banner to the May 27, 2021 doubleheader between the Yankees and Blue Jays were greeted with boos from the crowd and escorted out of the"
-    publishedDateTime: 2021-05-28T04:06:00Z
-    webUrl: "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/"
-    ampWebUrl: "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/"
+  - title: "DOJ seeks dismissal of case by ACLU, BLM against Trump, Barr for clearing Lafayette Park"
+    excerpt: "Tuesday marks one year since the controversial clearing of Lafayette Square protesters before President Trump visited St. John’s Church, and Department of Justice (DOJ) lawyers have requested a federal judge toss out cases against former President Trump, former Attorney General Bill Barr and other Trump-era"
+    publishedDateTime: 2021-06-01T21:20:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4QeX3236BY/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park"
+    ampWebUrl: "https://www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/720/405/Lafayette-Park.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "DOJ asks judge to dismiss BLM protesters’ case against Trump over Lafayette Square"
+    excerpt: "The lawsuit came after Black Lives Matter protesters were cleared from Lafayette Park in Washington D.C. by police."
+    publishedDateTime: 2021-05-29T23:11:00Z
+    webUrl: "https://nypost.com/2021/05/29/doj-asks-judge-to-dismiss-blm-protesters-lafayette-square-case-against-trump/"
+    ampWebUrl: "https://nypost.com/2021/05/29/doj-asks-judge-to-dismiss-blm-protesters-lafayette-square-case-against-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/29/doj-asks-judge-to-dismiss-blm-protesters-lafayette-square-case-against-trump/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 135
+    quality: 129
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-fans-ejected-index.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/lafayette-park.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

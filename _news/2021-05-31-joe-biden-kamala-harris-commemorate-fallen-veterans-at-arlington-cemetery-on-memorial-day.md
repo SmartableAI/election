@@ -437,6 +437,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘This was not a riot, this was a massacre’: Biden honors victims of 1921 violence - live"
+    excerpt: "President to commemorate hundreds who died in attack by white mob – follow all the day’s politics news"
+    publishedDateTime: 2021-06-01T20:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b68af08f08b9889b365e27"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 96
   - title: "Harris, Emhoff earned more than Bidens with 7-figure earnings, taxes show"
     excerpt: "Both the first and second families' tax returns reveal losses of income since the successful Biden-Harris White House bid."
     publishedDateTime: 2021-05-18T12:32:00Z

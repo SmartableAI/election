@@ -224,6 +224,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden will halt oil and gas leases in Arctic refuge sold by Trump: report"
+    excerpt: "The Interior Department will suspend oil and gas leases in the Arctic National Wildlife Refuge that the Trump administration approved just weeks before President Biden took office."
+    publishedDateTime: 2021-06-01T20:06:00Z
+    webUrl: "https://nypost.com/2021/06/01/biden-will-halt-oil-and-gas-in-arctic-refuge-sold-by-trump/"
+    ampWebUrl: "https://nypost.com/2021/06/01/biden-will-halt-oil-and-gas-in-arctic-refuge-sold-by-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/01/biden-will-halt-oil-and-gas-in-arctic-refuge-sold-by-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Jill Biden, Kamala Harris share hug after reports of first lady's F-bomb toward VP"
     excerpt: "Bygones appeared to be bygones at the White House Friday, with first lady Jill Biden getting chummy with Vice President Kamala Harris — days after a forthcoming book revealed Biden said Harris should “go f–k” herself for attacking her husband during the Democratic primaries."
     publishedDateTime: 2021-05-22T07:26:00Z

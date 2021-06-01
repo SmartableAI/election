@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris will lead Biden administration's efforts on voting rights, President says"
+    excerpt: "President Joe Biden announced Vice President Kamala Harris will lead his administration's efforts on voting rights in a speech Tuesday on the Tulsa Race Massacre in Oklahoma.\n    \n"
+    publishedDateTime: 2021-06-01T21:33:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KlbCt0U-qsE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/kamala-harris-voting-rights-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/kamala-harris-voting-rights-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 192
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527183402-kamala-harris-triangulo-norte-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris to announce private sector investments in Northern Triangle"
     excerpt: "Vice President Kamala Harris on Thursday will announce commitments from 12 private companies and organizations to invest in the Northern Triangle, a White House official says, marking the latest administration attempt to address the root causes of migration from the region.\n    \n"
     publishedDateTime: 2021-05-27T14:59:22Z

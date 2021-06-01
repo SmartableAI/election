@@ -462,6 +462,15 @@ related:
         width: 6720
         height: 4480
         isCached: true
+  - title: "URI Weighs Revoking Honorary Degree From Ex-Trump Adviser"
+    excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alum who briefly served as President Donald Trump’s national security adviser."
+    publishedDateTime: 2021-06-01T21:08:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-01/uri-weighs-revoking-honorary-degree-from-ex-trump-adviser"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
     excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
     publishedDateTime: 2021-05-22T11:00:00Z

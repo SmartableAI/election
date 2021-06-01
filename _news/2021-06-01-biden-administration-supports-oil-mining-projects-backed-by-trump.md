@@ -208,6 +208,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden will halt oil and gas leases in Arctic refuge sold by Trump: report"
+    excerpt: "The Interior Department will suspend oil and gas leases in the Arctic National Wildlife Refuge that the Trump administration approved just weeks before President Biden took office."
+    publishedDateTime: 2021-06-01T20:06:00Z
+    webUrl: "https://nypost.com/2021/06/01/biden-will-halt-oil-and-gas-in-arctic-refuge-sold-by-trump/"
+    ampWebUrl: "https://nypost.com/2021/06/01/biden-will-halt-oil-and-gas-in-arctic-refuge-sold-by-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/01/biden-will-halt-oil-and-gas-in-arctic-refuge-sold-by-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Rep. Mast rips Biden, Harris Memorial Day tweets supporting 'army of the woke'"
     excerpt: "U.S. Army veteran and Florida Rep. Brian Mast, R., slammed President Joe Biden and Vice President Kamala Harris for their \"far cry\" Memorial Day tweets. Mast argued the White House administration uses veteran culture as \"pawns,"
     publishedDateTime: 2021-05-30T13:44:00Z

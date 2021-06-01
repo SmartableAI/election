@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris will lead Biden administration's efforts on voting rights, President says"
+    excerpt: "President Joe Biden announced Vice President Kamala Harris will lead his administration's efforts on voting rights in a speech Tuesday on the Tulsa Race Massacre in Oklahoma.\n    \n"
+    publishedDateTime: 2021-06-01T21:33:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KlbCt0U-qsE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/kamala-harris-voting-rights-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/kamala-harris-voting-rights-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 192
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527183402-kamala-harris-triangulo-norte-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris to become first female US Naval Academy commencement speaker"
     excerpt: "Vice President Kamala Harris on Friday will become the first woman to give the commencement speech at the United States Naval Academy when she addresses the 2021 graduating class.\n    \n"
     publishedDateTime: 2021-05-28T13:29:27Z

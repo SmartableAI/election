@@ -466,6 +466,15 @@ related:
         width: 6720
         height: 4480
         isCached: true
+  - title: "URI Weighs Revoking Honorary Degree From Ex-Trump Adviser"
+    excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alum who briefly served as President Donald Trump’s national security adviser."
+    publishedDateTime: 2021-06-01T21:08:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-01/uri-weighs-revoking-honorary-degree-from-ex-trump-adviser"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "pHDOxf/PK8pW+RUgGGlVvfFEvtVcSxYdpI0jrCutrcbcfBI+Z7DQFJw1K2youlKTz2v/se9AaqYUBt/NGAlZ3t694a2h+XzUHLZ2IA22KhdTVrXsoSTEclZ4AnXgYPfpVRjRPp6Ug1SmE6Aijm6Z6gV/RaL/Ux4JBfX/Px4TYmSa+2Kme/0pjBjPR75nmnBwinCK+fyjiEf6ZiZWJfa44lBgW4+NVhnoMkkWueWQp9LQUtQ3l0eZfOVvzeuPgr3XZdYVsnVVFWS9Q8nJK6NLSo5M7pCVKaD44jVjlfsvVoqMA0mLUhK/8HoKELVTfvGamIzqYn+hddEO3fM+7woEkBg6aRF73OObY3AP3DlRdscu1HWZrtaIR6AIjlMf+RFBCgmtCZkQcZyHi6s3VgiaFTkvmYhR9GEWWl2L+sulwG4P8YvVA8RmZkhEqTRZudINRdls+kV0BDu4YE4YT/s5oM2PQz0ubaFO6wf3SUKfMSGdG6PnnKuhSB/IcDPypDhXK0jp7bG9atx0DVyaInpuhQ==;Phv2X+BXtsyjYRSksZ6QkA=="
 ---

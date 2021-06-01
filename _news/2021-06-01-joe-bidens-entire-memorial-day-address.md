@@ -53,6 +53,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "What we know about President Biden's visit to Tulsa"
+    excerpt: "Here's what we know about Biden's plan to visit the city to mark the centennial event. President Joe Biden is scheduled to arrive at Tulsa International Airport at 12:50 p.m. Tuesday. From the airport,"
+    publishedDateTime: 2021-06-01T19:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/05/31/biden-tulsa-race-massacre-survivors-greenwood-cultural-enter/5287170001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5287170001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5287170001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/31/NOKL/144cec55-297f-482a-aaca-cee3b268b53b-BWSL_Festival_Closing_Ceremony_22.JPG?auto=webp&crop=3328,1872,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. waives sanctions on Nord Stream 2 as Biden seeks to mend Europe ties"
     excerpt: "The Biden administration waived sanctions on the company behind Russia's Nord Stream 2 gas pipeline to Germany and its chief executive, Secretary of State Antony Blinken said on Wednesday, a move decried by critics of the project in Congress."
     publishedDateTime: 2021-05-19T22:12:00Z

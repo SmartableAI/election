@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democrats-biden-play-ball/index.html"
 type: article
 quality: 177
-heat: 517
+heat: 597
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Sidney Powell's claim Trump could be reinstated"
+    excerpt: "Months into President Joe Biden's first term, supporters of former President Donald Trump are still touting the \"big lie\" that Trump actually won the 2020 election. One of the prominent supporters of these theories is Trump's former lawyer Sidney Powell, who is facing a $1.3 billion defamation lawsuit"
+    publishedDateTime: 2021-06-01T20:49:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J5FpAVwaiHA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123162610-sidney-powell-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "In summer, the stakes are rising for Biden"
     excerpt: "Can President Joe Biden avoid the \"summer slump\"?\n    \n"
     publishedDateTime: 2021-06-01T10:14:18Z
@@ -92,6 +108,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200521115331-01-open-skies-tail-fin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to suspend oil and gas drilling leases in Arctic refuge, undoing a Trump-era decision"
+    excerpt: "The Biden administration plans to suspend oil and gas leases in the Arctic National Wildlife Refuge, a senior administration official confirmed Tuesday, undoing a move made by the Trump administration late last year.\n    \n"
+    publishedDateTime: 2021-06-01T20:50:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uJ3c9Bco-sc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117174214-arctic-national-wildlife-refuge-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -140,6 +172,38 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration formally ends 'remain in Mexico' policy after suspending it earlier this year"
+    excerpt: "The Biden administration formally ended the Trump-era policy of returning asylum seekers to Mexico until their court dates in the United States, according to a memo issued by Homeland Security Secretary Alejandro Mayorkas.\n    \n"
+    publishedDateTime: 2021-06-01T21:44:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ITl54qSJso/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/immigration-remain-in-mexico/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/immigration-remain-in-mexico/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429171753-ninos-migrantes-prioridad-reunificacion-antonio-vitorino-aristegui-mexico-00000710-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here's what Biden can do on his own about racial inequality -- and where he'll need Congress to act"
+    excerpt: "President Joe Biden on Tuesday laid out his most comprehensive plan yet for shrinking the nation's longstanding racial wealth gap, the latest step in his promise to infuse more equity in government policies and in the rebuilding of the economy after the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-06-01T21:21:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/80wWhQ90ZnA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/racial-inequality-biden-proposals/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/racial-inequality-biden-proposals/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601171059-04-biden-tulsa-speech-0601-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

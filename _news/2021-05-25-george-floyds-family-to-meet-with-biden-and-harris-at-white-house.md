@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html"
 type: article
 quality: 200
-heat: 660
+heat: 680
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 197
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Kamala Harris will lead Biden administration's efforts on voting rights, President says"
+    excerpt: "President Joe Biden announced Vice President Kamala Harris will lead his administration's efforts on voting rights in a speech Tuesday on the Tulsa Race Massacre in Oklahoma.\n    \n"
+    publishedDateTime: 2021-06-01T21:33:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KlbCt0U-qsE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/kamala-harris-voting-rights-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/kamala-harris-voting-rights-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 192
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527183402-kamala-harris-triangulo-norte-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
