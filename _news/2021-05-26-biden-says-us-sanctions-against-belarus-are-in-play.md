@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D62SK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SK"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -215,6 +215,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Joe Biden's entire Memorial Day address"
+    excerpt: "President Joe Biden paid tribute to the US military service members during his first Memorial Day Address at Arlington National Cemetery in Arlington, Virginia."
+    publishedDateTime: 2021-05-31T17:37:00Z
+    webUrl: "https://www.stltoday.com/joe-bidens-entire-memorial-day-address/video_f382116c-3934-5120-a1a4-1441d64a04fb.html"
+    ampWebUrl: "https://www.stltoday.com/joe-bidens-entire-memorial-day-address/video_f382116c-3934-5120-a1a4-1441d64a04fb.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/joe-bidens-entire-memorial-day-address/video_f382116c-3934-5120-a1a4-1441d64a04fb.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
 
 secured: "ISf+3kO+A6DvGlc5ond0R44IzkEiPhPszRXloccAAxD7w+bJ6msmFPZhIP1qxZX3uvNx4HzXsAzQtJovZzQNgDmRzL0iJdN6Jc5IW6NoER99hxJJuATj5EQoZCcSZDZQdg7hoJKw7FrWh5YM3Ny7xuTaubeBUTj8jyUrR3xbjL0LBjaSydVmymd87uKQS0NDQo9Qf1CBl82m9wE/vG7n6a28e3GUmd1TWmR4bmPU2ei1g7K21r6anAWaIfN07mHRZLS+UvsttFOqI8ylvnWNXGzDT3yZktHhNIFsaaF9k9xCajJi2sX2xw9yj+t3H831jqDNeYby992G6TRwt94/YyJZeApnVNH2nyiHCFeH1Rm0Sr2bQt3mmwCLuZEtdltHTWNcDox64JQdzKwkJRP89cocIoCGnL3ZWyWqWRUVBX1ZVaLQv0ILUuAbQlI+lzSzzOypwJUN96OzhFCp/XATSTxNiv19zRCnPZKy2MrAv0JJiJbvciKKOCrae1TxGLQA8Z1ZlS5vnl9Lxw3P6VxUoQ==;J1ekpauesEzcyva4fQEv5A=="
 ---
