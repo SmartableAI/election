@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Vice President Harris' team tries to distance her from fraught situation at the border "
+    excerpt: "In the weeks since the President asked her to take charge of immigration from Central America, Vice President Kamala Harris and her staff have sought to make one thing clear: She does not manage the southern border.\n    \n"
+    publishedDateTime: 2021-06-01T10:00:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x3OagRj6jJI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/harris-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/harris-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527183552-kamala-harris-triangulo-norte-2-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to host George Floyd's family on anniversary of his death"
     excerpt: "President Joe Biden will host the family of George Floyd at the White House on Tuesday to mark the one-year anniversary of his death at the hands of police, a White House official confirmed to CNN.\n    \n"
     publishedDateTime: 2021-05-23T13:58:31Z

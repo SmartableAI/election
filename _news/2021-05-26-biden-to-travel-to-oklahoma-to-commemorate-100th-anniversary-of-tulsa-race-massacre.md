@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to announce new steps to close racial wealth gap while marking 100th anniversary of Tulsa Race Massacre "
+    excerpt: "President Joe Biden will visit Tulsa, Oklahoma, on Tuesday to mark the 100th anniversary of the Tulsa Race Massacre and announce new actions his administration will take to reduce the racial wealth gap as he commemorates one of the worst acts of racial violence in US history.\n    \n"
+    publishedDateTime: 2021-06-01T09:01:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JOgJTtqCEiM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/biden-tulsa-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/biden-tulsa-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "yNq8FwQuPb42HFXA2LfVpEQ9PsIw47ZF+bQKVM10/kueh/lxnLUTiSvA7+C7rkfV9BeXj1yqBS5Befz7MOQQHH09TEzjJZbGuBmpX7C1HTN+asC5uomq2Y56vkj51ESpeXt6eadlaSK9GUVl8wmr1Ru1ynjYSmihmejm68f+/JzJTkFdA/2nsu2/NuUK3N6Y1qSgJ5Oe6rWKKZKqvruOOQSokPWmC7MINhOepPrScwZ56Gxs6udphV4E1SBZm1VJgbDYEXx05QAK1V2H2eQILQSqy30iZouokZs/VZqkfaElTKgNFczulaDfs98L+UclShuAAX7edbhagoH2HkIAm3VOzM5wxpM0+ESTEdME5m8=;qTT6PR+66FF2e2eJ5RmU3A=="
 ---

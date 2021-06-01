@@ -63,6 +63,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden delivers Memorial Day address at Arlington National Cemetery"
+    excerpt: "President Biden said how America honors the memory of its fallen service members \"will determine whether democracy will long endure\" in a Memorial Day address at Arlington National Cemetery. Watch his remarks."
+    publishedDateTime: 2021-05-31T19:28:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-memorial-day-2021-arlington-national-cemetery/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/31/1adcd6f9-4f61-4be3-96ed-ca279865ef9e/thumbnail/1200x630/07e268c94be4fe6cb21f8ac59e353c23/cbsn-fusion-biden-memorial-day-2021-arlington-national-cemetery-thumbnail-726179-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Joe Biden says Texas voting bill is “part of an assault on democracy”"
     excerpt: "Senate Bill 7, a Republican priority voting bill, would limit early voting hours, curtail local voting options and further clamp down on mail-in voting, among several other provisions."
     publishedDateTime: 2021-05-29T18:23:00Z

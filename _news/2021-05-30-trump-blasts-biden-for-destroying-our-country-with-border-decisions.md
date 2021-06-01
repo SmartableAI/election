@@ -124,6 +124,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Blinken visits Central America as prolonged migrant crisis ramps up pressure on Biden-Harris administration"
+    excerpt: "Secretary of State Antony Blinken is set to travel to Costa Rica on Tuesday in a push to stem the prolonged migrant crisis, as critics say the Biden administration, specifically Vice President Kamala Harris, isn’t doing nearly enough to combat the migrant surge at the U.S.-Mexico border."
+    publishedDateTime: 2021-06-01T11:55:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xTy-cTg1CTE/antony-blinken-central-america-migrant-crisis-biden-harris-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/antony-blinken-central-america-migrant-crisis-biden-harris-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/antony-blinken-central-america-migrant-crisis-biden-harris-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris greets South Korean president ahead of Biden meeting"
     excerpt: "Vice President Kamala Harris exchanged pleasantries with South Korean President Moon Jae-in the White House-adjacent Eisenhower Executive Office Building."
     publishedDateTime: 2021-05-21T15:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
 type: article
 quality: 175
-heat: 475
+heat: 455
 published: true
 
 provider:
@@ -188,22 +188,6 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/e0/39/981bd05b41f38027444998b892bb/gettyimages-97574218-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "How Biden's Justice Department is trying to root out racist policing"
-    excerpt: "You see a huge leap in progress. It can only be attributable to what happened over the course of the summer of 2020.”"
-    publishedDateTime: 2021-05-25T09:00:00Z
-    webUrl: "https://www.politico.com/news/2021/05/25/biden-justice-department-policing-george-floyd-490452"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/25/biden-justice-department-policing-george-floyd-490452"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/25/biden-justice-department-policing-george-floyd-490452"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/ef/e9/a98e76eb434880dfba0f6202f565/blm-doj.png"
         width: 1160
         height: 773
         isCached: true

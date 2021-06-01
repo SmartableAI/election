@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/05/23/whos-more-challen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn"
 type: article
 quality: 150
-heat: -1
-published: false
+heat: 150
+published: true
 
 provider:
   name: CNN
@@ -30,40 +30,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Trump appointee on West Point Board spreads conspiracy that Biden is replacing White people of European ancestry "
-    excerpt: "A Trump appointee serving on West Point's advisory board has repeatedly spread a conspiracy that the Biden administration is bringing in non-White immigrants as part of a \"grand plan\" to have them outnumber White Americans of European ancestry in the United States.\n    \n"
-    publishedDateTime: 2021-05-27T20:09:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IG3xBwFfwyA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/kfile-macgregor2/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/kfile-macgregor2/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Education Department rescinds Trump-era policy restricting state oversight of student loan servicing companies and debt collectors"
-    excerpt: "The Department of Education under the Biden administration is rescinding a Trump-era policy that restricted states' access to records and information in policing student loan servicing companies.\n    \n"
-    publishedDateTime: 2021-05-29T18:15:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FmG7E9-Xy6Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/29/politics/education-department-student-loans-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/29/politics/education-department-student-loans-policy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 145
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210529135050-us-department-of-education-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "SMdgq6ezFIh29QPZlg4eJDVQtzvfI9fXFxyUkUonhZlj9ITgsTODquOQkRGpD/+CwQTxePcAV0UtR8ru8TjjQg054dECJJEiv0norebKPQiIA3/ljA87dhxZe3y5FcO80X7yCUaFs47+AntciWNs2kLcLvfvluHwj2AsZR/6sOK8O4UOd4FRQ+7jmwce7uv0wO4AGi4EXsi7UFE2V0B8mW/rD1BBELdh0IWAdNrc2yrnCIQ37l19oRkrOr3J6IGY15FazLkSskATA2TH3E3rNtcHXcypDyLZctFcwA8Cjqaojry/lmrDki7XtN/v/i/zMRNIbmbAjRe03HdSoc6pyrtKOLZGAw16ln8cDq8TSBw=;HRsW+deoipYCM+VOoGv57w=="
 ---

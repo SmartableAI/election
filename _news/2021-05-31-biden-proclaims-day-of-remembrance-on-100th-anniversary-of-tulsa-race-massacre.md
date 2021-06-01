@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/31/politics/biden-proclamation-tulsa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/31/politics/biden-proclamation-tulsa-race-massacre/index.html"
 type: article
 quality: 171
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025332-01-joe-biden-0521-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to announce new steps to close racial wealth gap while marking 100th anniversary of Tulsa Race Massacre "
+    excerpt: "President Joe Biden will visit Tulsa, Oklahoma, on Tuesday to mark the 100th anniversary of the Tulsa Race Massacre and announce new actions his administration will take to reduce the racial wealth gap as he commemorates one of the worst acts of racial violence in US history.\n    \n"
+    publishedDateTime: 2021-06-01T09:01:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JOgJTtqCEiM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/biden-tulsa-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/biden-tulsa-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528074948-01-joe-biden-0520-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
