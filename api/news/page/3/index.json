@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-27-trump-appointee-on-west-point-board-spreads-conspiracy-that-biden-is-replacing-white-people-of-european-ancestry.md",
+      "title": "Trump appointee on West Point Board spreads conspiracy that Biden is replacing White people of European ancestry ",
+      "excerpt": "A Trump appointee serving on West Point's advisory board has repeatedly spread a conspiracy that the Biden administration is bringing in non-White immigrants as part of a \"grand plan\" to have them outnumber White Americans of European ancestry in the United States.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IG3xBwFfwyA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IG3xBwFfwyA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/27/politics/kfile-macgregor2/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/kfile-macgregor2/index.html",
+      "publishedDateTime": "2021-05-27T13:09:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-the-daily-202-biden-resurrects-the-politically-potent-wuhan-lab-leak-pandemic-theory.md",
       "title": "The Daily 202: Biden resurrects the politically potent Wuhan lab-leak pandemic theory",
       "excerpt": "President Biden breathed new life yesterday into the theory that the pandemic began when the virus escaped from a Chinese lab — an unproven but politically potent scenario Republicans have used to attack Beijing and defend former president Donald Trump.",
@@ -1317,58 +1373,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-donald-trump-says-he-usually-did-the-opposite-of-what-anthony-fauci-advised-on-covid.md",
-      "title": "Donald Trump Says He 'Usually Did the Opposite' Of What Anthony Fauci Advised on COVID",
-      "excerpt": "Republican former President Donald Trump on Tuesday night said he \"usually did the opposite\" of what infectious diseases expert Dr. Anthony Fauci advised during his presidency. \"Remember I closed our country to China way early much earlier than [Democratic House Speaker Nancy] Pelosi or anybody wanted it to happen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858",
-      "originalUrl": "https://www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1806862/president-donald-trump-opposite-fauci-covid-19-advice.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858?amp=1",
-      "publishedDateTime": "2021-05-25T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

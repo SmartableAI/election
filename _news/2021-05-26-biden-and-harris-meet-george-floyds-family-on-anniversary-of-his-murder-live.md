@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-georg
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live"
 type: article
 quality: 146
-heat: 1006
+heat: 1026
 published: true
 
 provider:
@@ -223,6 +223,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/95fa8f9894af888284457c15293f5fe0131673b6/0_83_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0811f31c824459870e86ad221ddef118"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden puts national spotlight on 100th anniversary of Tulsa Race Massacre"
+    excerpt: "President Joe Biden is visiting Oklahoma on Tuesday to mark the 100th anniversary of the 1921 Tulsa Race Massacre and will meet with survivors of \"Black Wall Street.\""
+    publishedDateTime: 2021-06-01T09:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Joe-Biden_hpMain_20210524-213423_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Mexico says investment and security to be discussed during Kamala Harris trip"
     excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8."

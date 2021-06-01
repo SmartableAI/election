@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Joe Biden, Kamala Harris commemorate fallen service members at Arlington Cemetery on Memorial Day"
-excerpt: "The president was joined on Monday by first lady Jill Biden, Vice President Kamala Harris and second gentleman Doug Emhoff in a somber ceremony in Virginia."
-publishedDateTime: 2021-05-31T21:30:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
+title: "Biden puts national spotlight on 100th anniversary of Tulsa Race Massacre"
+excerpt: "President Joe Biden is visiting Oklahoma on Tuesday to mark the 100th anniversary of the 1921 Tulsa Race Massacre and will meet with survivors of \"Black Wall Street.\""
+publishedDateTime: 2021-06-01T09:12:00Z
+originalUrl: "https://abcnews.go.com/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
+webUrl: "https://abcnews.go.com/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
 type: article
-quality: 137
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Kamala Harris
   - Joe Biden
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/kma7aj3NxFM-9i89Nl7dVPdpzgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X33ST3VJERDXNFERUP4HBQPPVU.jpg"
-    width: 1200
-    height: 675
+  - url: "https://s.abcnews.com/images/Politics/Joe-Biden_hpMain_20210524-213423_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -59,6 +58,22 @@ related:
       name: Chicago Tribune
       domain: chicagotribune.com
     quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/kma7aj3NxFM-9i89Nl7dVPdpzgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X33ST3VJERDXNFERUP4HBQPPVU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden, Kamala Harris commemorate fallen service members at Arlington Cemetery on Memorial Day"
+    excerpt: "The president was joined on Monday by first lady Jill Biden, Vice President Kamala Harris and second gentleman Doug Emhoff in a somber ceremony in Virginia."
+    publishedDateTime: 2021-05-31T21:30:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 137
     images:
       - url: "https://www.chicagotribune.com/resizer/kma7aj3NxFM-9i89Nl7dVPdpzgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X33ST3VJERDXNFERUP4HBQPPVU.jpg"
         width: 1200
@@ -223,22 +238,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/95fa8f9894af888284457c15293f5fe0131673b6/0_83_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0811f31c824459870e86ad221ddef118"
         width: 600
         height: 360
-        isCached: true
-  - title: "Biden puts national spotlight on 100th anniversary of Tulsa Race Massacre"
-    excerpt: "President Joe Biden is visiting Oklahoma on Tuesday to mark the 100th anniversary of the 1921 Tulsa Race Massacre and will meet with survivors of \"Black Wall Street.\""
-    publishedDateTime: 2021-06-01T09:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/Joe-Biden_hpMain_20210524-213423_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Mexico says investment and security to be discussed during Kamala Harris trip"
     excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8."
@@ -677,6 +676,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "qrgfSzymHLBXAmIRZ9iciWgNdCTYBcBce9OKndcPYeIA9+JELzgLXOOUKWBeo7Drg94t+iXQ3ro6FDl3EfPJnTeUR24seDREXHeMq0nay85NDUAsaYNxhmF8CeKDRN9HqPMCfbKm7/e+QEqRcJgEEcNiEIekvdESS0Zk3mLzRruJXwhyda0bch8dJ+jFNpkdhjB9eBaGEcxvym/0mGQLD2b8j1Ta23UYaRUhIZPLewcPY8l+DhqfqogucflQv4r7uT2K4iP37q2O/knS6h8fsKP0DxacxImV8ip5oeFcaO3wR2bzso7eXHkFnEzmD9Bodnynrj8hYqqL9jRNRRmnhfCuvTJ55elpUIRO5Ypnj3yFAn/NJ+anPpg0ThJK9qJS52Qeg7WS7s60tZYas9nMeVoaPTGiJfmJt6583uzg8fD5ItG0XSLZH6RyChxBcL4NhHdwLou8B9PmiTjhSmeL/b4+6l9yhddgZL2YrOn/z818SCNCdvP34tun11V+gvzUVGWl4cKzywHEAlQMKQeeTg==;4sWnj4LUs5nwjTbulbx7Mw=="
+secured: "fEu+wF60f0HyskP44Ny24SWelEGqoRr1rZ3t/GRFqu/Ey5GjQg3bqh5ud3kL93DyDhJQA0XnVaZd3eOsGkVKdG+W4j0x57QPadaQfyGgwkn3cBi6W4s7QEeCSLMZo+6XgdOcJ47TUJtFb1wnHYcbjIGH000iLXIQCONKR4/zLBR5pSrcaxKcUMVTVo+IXOxOPMScoVLqTUr82fyu3uD4ieqALcHKJTJ4ViDxxsL0dfOOJsmgVVNUHBDDDfxhh+tEJJori0NerWVte43tOiHjK2C/u9ZWTwBd8hZQXyqI5sUKyezUbB8lPCcjTHvNwegjF+gW97sFUpDcVDO2L6AlOBi3dBIDm/8I//OLu/TAQX4=;pnCHsJRCFaNyqTSL+WFedw=="
 ---
 

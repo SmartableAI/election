@@ -229,6 +229,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden puts national spotlight on 100th anniversary of Tulsa Race Massacre"
+    excerpt: "President Joe Biden is visiting Oklahoma on Tuesday to mark the 100th anniversary of the 1921 Tulsa Race Massacre and will meet with survivors of \"Black Wall Street.\""
+    publishedDateTime: 2021-06-01T09:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Joe-Biden_hpMain_20210524-213423_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Mexico says investment and security to be discussed during Kamala Harris trip"
     excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8."
     publishedDateTime: 2021-05-19T16:29:00Z

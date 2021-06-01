@@ -239,6 +239,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden puts national spotlight on 100th anniversary of Tulsa Race Massacre"
+    excerpt: "President Joe Biden is visiting Oklahoma on Tuesday to mark the 100th anniversary of the 1921 Tulsa Race Massacre and will meet with survivors of \"Black Wall Street.\""
+    publishedDateTime: 2021-06-01T09:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-puts-national-spotlight-100th-anniversary-tulsa-race/story?id=78004162"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Joe-Biden_hpMain_20210524-213423_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "A year after George Floyd’s death, police reform remains a challenge for Biden"
     excerpt: "President Joe Biden is set to meet with members of George Floyd's family, but one year after an event he described as \"a wake-up call to the nation,\" little has changed."
     publishedDateTime: 2021-05-25T09:05:00Z
