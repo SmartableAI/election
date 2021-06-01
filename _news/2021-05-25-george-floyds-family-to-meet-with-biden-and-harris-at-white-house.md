@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html"
 type: article
 quality: 200
-heat: 640
+heat: 660
 published: true
 
 provider:
@@ -271,6 +271,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/21/us/21new-washington-briefing-korea-lede2/21new-washington-briefing-korea-lede2-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Kamala Harris: Don't let age degrade your ambition"
+    excerpt: "Harris chatted with Know Your Value’s Mika Brzezinski in an interview that aired Tuesday, coinciding with the kick off of Forbes and Know Your Value’s “50 Over 50” list."
+    publishedDateTime: 2021-06-01T11:42:00Z
+    webUrl: "https://www.nbcnews.com/know-your-value/feature/kamala-harris-don-t-let-age-degrade-your-ambition-ncna1269167"
+    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1269167"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1269167"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_33/3403980/200812-kamala-harris-jm-into-america-1026-3403980.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "'We have to act': Biden meets with George Floyd's family on anniversary of his murder"
     excerpt: "The president had said he hoped to mark the solemn occasion by signing the police reform bill named after Floyd, but that legislation has not passed yet."

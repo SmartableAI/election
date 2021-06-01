@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/01/sean-hannity-fox-new
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/01/sean-hannity-fox-news-trump-campaign-ad"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 360
     isCached: true
 
-secured: "S9BlF+Hd+8HkOdTNn6QiFE3WW8PBhQSBC687FobuzmTrRV+zCPUaiiDGMON45GgV5Uxhb/sEF2tBm0h/lwnxJEzkx52U9aRDltrbFVXBafuieEOfSeZwq2vaVa3XXZQ8X5u+wMg4H8ubCqQiRfSIrCcDm8gz2oqh+Iod3GDsxK6sVg6igSfPOY0n80KT43SKmzFd3NLYoQ/TZaoMs/WDLXwSOfm6PvtTJFfwQS//gINHo3ortEaFQxfZS0Bl4qsLiGDm4n9Qrm/PPyi+w6uyTsUN+Eu+NWpCzQNAa1uqJO3wJxN0I/I9YntzZ1nnPC3dGdbrMCpH+dRqymuOJwQGzmSxxYOS8ZAnQSOlOveQHug=;9EAvzgRr36Yd8TVSfKJtug=="
+related:
+  - title: "Sean Hannity helped write a Trump campaign ad that cost $1.5 million to make, aired only once, and was 'mocked mercilessly,' book says"
+    excerpt: "\"I was not involved that much. Anybody who said that is full of shit,\" Hannity told WSJ's Michael Bender."
+    publishedDateTime: 2021-06-01T13:40:00Z
+    webUrl: "https://www.businessinsider.com/sean-hannity-trump-campaign-ad-aired-once-mocked-mercilessly-book-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/sean-hannity-trump-campaign-ad-aired-once-mocked-mercilessly-book-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sean-hannity-trump-campaign-ad-aired-once-mocked-mercilessly-book-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5f292a3a243817370f29b81d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "4WfZI13VAiNoqf0tBCeGK8dFFRl6V5x32uQvugvhjEu9mNMbIfyw6hGxPu0ma42YRz779x+Zm/87Ou3Wqm4Pp1XC1XYuktakhSrGt6Hwx7O0Sa8FQ9O2NNeFMTN2QaacKqElfJ8V3bM1vcxG4WiGWvGkW1kz3ALZeVayznFn5XXYdKe+JNCc2R05AITsByItHYOjjdgEwcLMjn5OAL7i9X+7qoD4/psaV+rhQfuwi86n3jwJYrffVY4xEsdm/se8wZdVEsWhZxYu627x7y+JLOg6DBbSjk12EJa/hgdAy27+qVRuS0LD9NiMPSyKAbBTaTFiO7LPdyS6LYkBLdThh8tZ/znW7lt9x4aqgcOf7b4jiKn68T7Y27fMd5LI4/VR0pIFoB55Nimc5en7hg+VuogGa5C4VQD1YCLZZi6kbcJlmuJOXYAeZrkG3wIAxhg3cQUp6CSD7+J1Fa+MgVgN0eZL2qhnKbvh4buKwJmIdX2VcZaupIyqKCvHF3E0QtDuQX4CMtJnR4bKipyLf5vyZw==;gYQQHbUmu0bCLu3oedsvXQ=="
 ---
 

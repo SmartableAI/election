@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden Administration Supports Oil, Mining Projects Backed by Trump"
+    excerpt: "Biden administration lawyers are defending oil and mining projects approved under the Trump administration, benefiting ConocoPhillips, Rio Tinto and others at the expense of environmental and tribal groups."
+    publishedDateTime: 2021-06-01T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/biden-administration-supports-oil-mining-projects-backed-by-trump-11622552402"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-supports-oil-mining-projects-backed-by-trump-11622552402"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-supports-oil-mining-projects-backed-by-trump-11622552402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-346406/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Kamala Harris, not Biden, called king of Jordan to discuss Gaza ceasefire"
     excerpt: "Vice President Kamala Harris on Thursday spoke to Jordanian King Abdullah II on behalf of President Biden to brief him on US efforts to support a ceasefire in the Israel-Hamas conflict. Biden has not spoken with the Arab nation’s leader since Hamas began firing rockets last week from Gaza into Israel following clashes in Jerusalem."
     publishedDateTime: 2021-05-20T21:40:00Z

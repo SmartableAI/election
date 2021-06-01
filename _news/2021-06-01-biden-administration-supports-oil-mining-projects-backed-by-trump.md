@@ -1,30 +1,34 @@
 ---
 category: news
-title: "Jill Biden embraces Kamala Harris after ‘go f–k yourself’ reveal"
-excerpt: "First lady Jill Biden and Vice President Kamala Harris appeared to put the past aside when they hugged before a Medal of Honor ceremony for a Korean War vet."
-publishedDateTime: 2021-05-21T22:14:00Z
-originalUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/"
-webUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/"
-ampWebUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
+title: "Biden Administration Supports Oil, Mining Projects Backed by Trump"
+excerpt: "Biden administration lawyers are defending oil and mining projects approved under the Trump administration, benefiting ConocoPhillips, Rio Tinto and others at the expense of environmental and tribal groups."
+publishedDateTime: 2021-06-01T12:00:00Z
+originalUrl: "https://www.wsj.com/articles/biden-administration-supports-oil-mining-projects-backed-by-trump-11622552402"
+webUrl: "https://www.wsj.com/articles/biden-administration-supports-oil-mining-projects-backed-by-trump-11622552402"
+ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-supports-oil-mining-projects-backed-by-trump-11622552402"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-supports-oil-mining-projects-backed-by-trump-11622552402"
 type: article
 quality: 150
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/jill-biden-111.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://images.wsj.net/im-346406/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -156,6 +160,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Jill Biden embraces Kamala Harris after ‘go f–k yourself’ reveal"
+    excerpt: "First lady Jill Biden and Vice President Kamala Harris appeared to put the past aside when they hugged before a Medal of Honor ceremony for a Korean War vet."
+    publishedDateTime: 2021-05-21T22:14:00Z
+    webUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/"
+    ampWebUrl: "https://nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/jill-biden-embraces-kamala-harris-after-go-f-k-yourself-reveal/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/jill-biden-111.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump blasts Biden for ‘destroying our country’ with border decisions"
     excerpt: "Former President Donald Trump blasted President Biden on his handling of China, the Middle East and the crisis at the southern border, saying his successor is “destroying our country.”"
     publishedDateTime: 2021-05-30T14:18:00Z
@@ -171,22 +191,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-01.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Biden Administration Supports Oil, Mining Projects Backed by Trump"
-    excerpt: "Biden administration lawyers are defending oil and mining projects approved under the Trump administration, benefiting ConocoPhillips, Rio Tinto and others at the expense of environmental and tribal groups."
-    publishedDateTime: 2021-06-01T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/biden-administration-supports-oil-mining-projects-backed-by-trump-11622552402"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-supports-oil-mining-projects-backed-by-trump-11622552402"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-supports-oil-mining-projects-backed-by-trump-11622552402"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-346406/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Kamala Harris, not Biden, called king of Jordan to discuss Gaza ceasefire"
     excerpt: "Vice President Kamala Harris on Thursday spoke to Jordanian King Abdullah II on behalf of President Biden to brief him on US efforts to support a ceasefire in the Israel-Hamas conflict. Biden has not spoken with the Arab nation’s leader since Hamas began firing rockets last week from Gaza into Israel following clashes in Jerusalem."
@@ -251,6 +255,6 @@ related:
         height: 500
         isCached: true
 
-secured: "CaPnA8Xk27TeT9xxAHNOsigJXEC15uxsNsnLnx8dsHRKoiZy0CGa+XsXRD5E7nInfR9lhqz2EIzf+j19GLx0svnkBZzhFs+hMdntbKPlqEL7HUlD+Z3YjjAHvhzSLVIIVwf/4K87dBLXj2hAK0NF7irOh4S/6ecHnOZwlqRjs3WDKgnDTXNp0WoDPZwg6pR/ipI8/TkD7dYrcBSA0fYndOP32fBuBFZgeSclSPg0gSvqbbIXJS69FUasfO3HfacC1tIKDwnHlASY9DnWhYj9a8Wn4v8jJ0+2820jp6TcBQTjhvUPbrVajbCH6Oo9nZ8krRfjdz1Cb78aYQWF6LLdSkWZMHGHDXD0VTUsFllIBbcuWhfsHbm0T+p4GILtzcpG4XAOlOm22FgKK9b935fBvM06yHGoHYnC4FAG16t/yHkup/jltF0CIlPMDI1ANnlKF2IG1r1uJLaY2c1ioOC6HNHcXMCEeRgfXV/krrWlFhS/XD20y+JdQn2wBrNPshYn0keOD2hMFxzFYQvuoAm4PQ==;jrsyHt88/YsOArouU356dg=="
+secured: "1W+m10akeKT04wcp/xjXi6O06CR7CK44IuVWaLIKoYCNTpIuVlsbDWjqNXPDYHOUSF7u1zeiR0tYkwoe7bm0vr5E/NlPhtb0bJtT1kuxFpx4yzjq+e5CUGeWAbL3gQ93NrfrkpRlP5TNQ9Byh0RZvxddcmg+brlpLvYQr8riXxLw1/15armYLjI467jLXV7VetftpATa5plIhHTtnRGQeF6PbpI5aj4PUgMJVyqEvuC+OxAROrRZa/Uov2krwaL3NJxfNgI6zOr5arNViCWj9lutzDgqNhdzZrUueZDJDU8ZQx84QuN8os49XalcHfv1TyuQXrjhIyH+/PpzVabe4ptwRlJCHv507qlbknK1p9Q=;lMz8XZz/FWxMnrYMEO/CsA=="
 ---
 

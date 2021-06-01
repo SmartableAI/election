@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden to host George Floyd's family on anniversary of his death"
-excerpt: "President Joe Biden will host the family of George Floyd at the White House on Tuesday to mark the one-year anniversary of his death at the hands of police, a White House official confirmed to CNN.\n    \n"
-publishedDateTime: 2021-05-23T13:58:31Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSTwWUAtvPM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSTwWUAtvPM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html"
+title: "Kamala Harris: Don't let age degrade your ambition"
+excerpt: "Harris chatted with Know Your Value’s Mika Brzezinski in an interview that aired Tuesday, coinciding with the kick off of Forbes and Know Your Value’s “50 Over 50” list."
+publishedDateTime: 2021-06-01T11:42:00Z
+originalUrl: "https://www.nbcnews.com/know-your-value/feature/kamala-harris-don-t-let-age-degrade-your-ambition-ncna1269167"
+webUrl: "https://www.nbcnews.com/know-your-value/feature/kamala-harris-don-t-let-age-degrade-your-ambition-ncna1269167"
+ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1269167"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1269167"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Kamala Harris
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420195034-joe-biden-april-20-2021-02-super-tease.jpeg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_33/3403980/200812-kamala-harris-jm-into-america-1026-3403980.jpg"
+    width: 2500
+    height: 1666
     isCached: true
 
 related:
@@ -124,6 +125,22 @@ related:
     quality: 177
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527183552-kamala-harris-triangulo-norte-2-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to host George Floyd's family on anniversary of his death"
+    excerpt: "President Joe Biden will host the family of George Floyd at the White House on Tuesday to mark the one-year anniversary of his death at the hands of police, a White House official confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-05-23T13:58:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSTwWUAtvPM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/22/politics/joe-biden-george-floyd-family-police-reform/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420195034-joe-biden-april-20-2021-02-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true
@@ -271,22 +288,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Kamala Harris: Don't let age degrade your ambition"
-    excerpt: "Harris chatted with Know Your Value’s Mika Brzezinski in an interview that aired Tuesday, coinciding with the kick off of Forbes and Know Your Value’s “50 Over 50” list."
-    publishedDateTime: 2021-06-01T11:42:00Z
-    webUrl: "https://www.nbcnews.com/know-your-value/feature/kamala-harris-don-t-let-age-degrade-your-ambition-ncna1269167"
-    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1269167"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1269167"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_33/3403980/200812-kamala-harris-jm-into-america-1026-3403980.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "'We have to act': Biden meets with George Floyd's family on anniversary of his murder"
     excerpt: "The president had said he hoped to mark the solemn occasion by signing the police reform bill named after Floyd, but that legislation has not passed yet."
     publishedDateTime: 2021-05-25T22:21:00Z
@@ -392,6 +393,6 @@ related:
         height: 773
         isCached: true
 
-secured: "W5pOp+ES7e450ighV7hPfwI5z8S8l3wSl+7lSvAEAUWonr8fF4EALmAkrjPSuuDBbIhBAdGTEYFXodS6FNPgD7MXvjTmxn1rCaWTK3PEULXmLTEAcTc3A+yjn3d80EL0dcUk22kwVn4HA9HdrUu3e31/55OPOmf4niLdjQKRacU/KQ3SKfF/hnkAO/ak7t4e9B8kkG2XMHMgMY/tO4+XwjcclROqBmhqTD8XJ6tbJw+vq7/GAS+nCqIlRJbRftz66NRJ71l4RvqVoC+uZKvegwp/wFS9zJtJnGZmusVozh2SRA1LJPUXYj7QTx3R8xB7nLykK8SrawzWltTZo8+XbIB1zNJz0T8JtM+jvcJdqsU=;QYm13QjQ+0aNOQT3kQs6gg=="
+secured: "L8dp+cUw8jPnJJfOjY5fb3gZSIcQ183ZJ+pxpX5tAfbhgieb285pLXIeIGF5b3YNBtDkFwZaLxJsGoKD/ZJjpQT9gosvkNO4LDYSq20revZ9BEtsW88NsZslr1VyqOgPUYVXnqjOFTVLhzrCTj/Sepf9zqycSN398/9+xTamBflhVw8u1AQQBkGa/cod7cujmXrt0062WMSw3DvM6hgkQ8f+TLNSdbNA7TUT63U+znWfRifUL6wExpYOnFu3RE+psqFvVmK6/sJ9qqXtQWRMFfXqUegMXtyBDEzbp7rgWivmodntK3H5p++q+iqZF94O35V5SaXTz5ppMTj4JHnAIs3uTnWexRuExcbm6Pjg7wo=;s6GTqi1bUAZGZmxjiALfIg=="
 ---
 

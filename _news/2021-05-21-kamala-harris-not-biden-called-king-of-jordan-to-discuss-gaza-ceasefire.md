@@ -188,6 +188,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden Administration Supports Oil, Mining Projects Backed by Trump"
+    excerpt: "Biden administration lawyers are defending oil and mining projects approved under the Trump administration, benefiting ConocoPhillips, Rio Tinto and others at the expense of environmental and tribal groups."
+    publishedDateTime: 2021-06-01T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/biden-administration-supports-oil-mining-projects-backed-by-trump-11622552402"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-supports-oil-mining-projects-backed-by-trump-11622552402"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-supports-oil-mining-projects-backed-by-trump-11622552402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-346406/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Rep. Mast rips Biden, Harris Memorial Day tweets supporting 'army of the woke'"
     excerpt: "U.S. Army veteran and Florida Rep. Brian Mast, R., slammed President Joe Biden and Vice President Kamala Harris for their \"far cry\" Memorial Day tweets. Mast argued the White House administration uses veteran culture as \"pawns,"
     publishedDateTime: 2021-05-30T13:44:00Z

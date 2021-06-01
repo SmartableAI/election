@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-01-biden-to-host-gop-west-virginia-sen-shelley-moore-capito-as-bipartisan-infrastructure-talks-continue.md",
+      "title": "Biden to host GOP West Virginia Sen. Shelley Moore Capito as bipartisan infrastructure talks continue ",
+      "excerpt": "President Joe Biden on Wednesday will host Republican Sen. Shelley Moore Capito of West Virginia at the White House as the bipartisan infrastructure talks continue.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9FPHCl_3W0k/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9FPHCl_3W0k/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/01/politics/capito-biden-infrastructure-talks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/capito-biden-infrastructure-talks/index.html",
+      "publishedDateTime": "2021-06-01T05:48:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-house-democrats-are-still-pursuing-trumps-tax-returns-but-biden-administration-may-not-play-ball.md",
       "title": "House Democrats are still pursuing Trump's tax returns but Biden administration may not play ball",
       "excerpt": "After notching recent wins in their long hunt for material to help bring legal accountability to former President Donald Trump, congressional Democrats fear the Biden administration won't be helpful when it comes to obtaining the documents they covet the most: Trump's tax returns.\n    \n",
@@ -1083,7 +1139,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 640,
+      "heat": 660,
       "tags": null,
       "images": [
         {
@@ -1610,62 +1666,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/justin-amash-liz-cheney-axe-files/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/justin-amash-liz-cheney-axe-files/index.html",
       "publishedDateTime": "2021-05-20T17:38:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-biden-administration-unable-to-continue-300-weekly-pandemic-unemployment-benefits-that-gop-governors-are-slashing.md",
-      "title": "Biden administration unable to continue $300 weekly pandemic unemployment benefits that GOP governors are slashing",
-      "excerpt": "The Labor Department has exhausted its options for continuing to pay an extra $300 a week in federal unemployment benefits to jobless people in the 22 GOP-led states that are ending them early, an administration official told CNN Thursday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ILgDdU8Lbrg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ILgDdU8Lbrg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210520181322-now-hiring-sign-indiana-0507-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/20/politics/pandemic-unemployment-benefits-300-dollars/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/pandemic-unemployment-benefits-300-dollars/index.html",
-      "publishedDateTime": "2021-05-20T16:41:55-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
