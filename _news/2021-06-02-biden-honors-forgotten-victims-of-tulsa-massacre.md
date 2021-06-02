@@ -187,6 +187,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US Army investigating Reserve officer running for Congress after he questioned if Biden is actually the president"
+    excerpt: "Lt. Alex Stovall, 26, conducted interviews with One America News Network and Gun Freedom Radio in which he spoke about running for Congress."
+    publishedDateTime: 2021-06-01T21:09:00Z
+    webUrl: "https://www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/60b64d4dbee0fc0019d5a9f3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "President Joe Biden asks US intelligence officials to investigate COVID origin"
     excerpt: "President Joe Biden on Wednesday asked U.S. intelligence officials to “redouble” their efforts to investigate the origins of the COVID-19 pandemic, including the unlikely possibility that the origins of the virus trace to Chinese lab."
     publishedDateTime: 2021-05-26T17:51:00Z
@@ -257,6 +273,6 @@ related:
       domain: stltoday.com
     quality: 55
 
-secured: "12yqdGe+Vz7Q5dFkhNqnyHtvvyAj2fQo07rHjSWyYHL3ypTcY+y2koGfVOhdwdNXY6uksIZLbOORHwSN0ExFXEPEBfbC1X1ax1KDF33rmIDW9Llx85/7mdXUlVzqb2sK0ALKPpIt31Tbz2kjORNJ32OcekZJEU+vuYlTA8obWAHMLHq8okm6pzpZKn/Pgvw9oLEIqKuFpettbnMT/ZicZcFfyS2U1Ku8hn5RT08xwIagNYQRi3db3FKQtyKAVzYC/F02vVdAgnxVSRymgO1izqOOMA5luAZdMio+7nl/m02+Gsaj0/mYKowXhRkF3bgx6fC+zViV6kzkeRxZAXcl9ac5W5JINoYTOBEsUESa/5A=;SCPapPtKIpko/mUOZSF30Q=="
+secured: "9zWKhrgQSv858RAwnRqP0td2M1TDCEKnC9wKIl2mZbuoy+b/rxQKLMDpvayblInnBrrGoIuR4ORonVSUcOsQq82+ttZes9siF17yJGabNUuCUoRtm9V5qJfP78avvj4LM4U3dC0xv35Wg9nl97jy1PRIZOr+u2eSewmHdmL/+Y5o8OoXFEeRMk5IPF4QWZGNmhVGUYZHZoVfPOfa2t06colwl0+ACjC996ib7YGNqx9goDjA+AckKoSjnLAhmhqqAHK7NngHIm06yakTu/Wj3YmGkY6De2U2MJT8EtfX3gmxXDy8xAqnY72BE5NXqStVC0l1QENyVAE0g8BLa+szYVStHyvLFs+P+LQlgxpWE66Cdfs972xwKuvAtP2waS390ECK2jSROPvbMLq081JJ6Hq63JbaDz1/s+lzgelaMD/H8UgoLYO0cgyUHn2/7YLforR+uX7im/1k9hBYVsZDsziEHiXn9drMuPmY1KYNBSGvTF3BfBAosATI5nQUuYsOYUwvttvHOEg9/Vb87ugvMA==;HaqR+1Lw79XQsRacm5lh0A=="
 ---
 

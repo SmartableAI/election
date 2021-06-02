@@ -442,7 +442,7 @@ related:
   - title: "‘This was not a riot, this was a massacre’: Biden honors victims of 1921 violence - live"
     excerpt: "President to commemorate hundreds who died in attack by white mob – follow all the day’s politics news"
     publishedDateTime: 2021-06-01T20:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b68af08f08b9889b365e27"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b68a8d8f08b9889b365e23"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
     type: article

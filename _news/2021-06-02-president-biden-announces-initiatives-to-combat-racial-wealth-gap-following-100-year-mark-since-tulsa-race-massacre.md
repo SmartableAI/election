@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'This was a massacre' -Biden honors Tulsa victims"
+    excerpt: "Top News 'This was a massacre' -Biden honors Tulsa victims. Posted . Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, site where hundreds"
+    publishedDateTime: 2021-06-02T00:32:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEFKRU1R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210601&i=OVEFKRU1R&r=OVEFKRU1R&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "President Joe Biden says Texas voting bill is “part of an assault on democracy”"
     excerpt: "Senate Bill 7, a Republican priority voting bill, would limit early voting hours, curtail local voting options and further clamp down on mail-in voting, among several other provisions."
     publishedDateTime: 2021-05-29T18:23:00Z
@@ -181,6 +195,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "5xEFlE1HWPNa+Rl+pEUdb2GDS1vdH9y8uhyoOf6Es7/xM2daSriZf+e8uhX42scl7tmPoq9HtNd1oyB8T3k6EgWCaBZFTk/xIfEEq5aOPOaNroSV8gr3jLpMyD7qRlbEraegJNbGJiOMx9GLzTZd1oFIolc0GWcJQPnV0vbK6QVV7s/iUL4i5SZMsqfeMU2xBWatydg1Z3JH2hWNLricV69OkrY+uu0TrQQ3JTbRKa/DlbFsgHzAsCnv3cAVelqY2Srk+Uovi70vVp7kX89ZbrzkKo3gyn4z2hKGDjtDx83fTWyjyXY+lYLuD1P2gGFlumh5xv6whhB3L0cJ+2vLlIkU1Y1IIcv7mKtC1cAqRpE=;upNEWY2axsLyovRvHokA4Q=="
+secured: "nJfO4Zo+C1cIvJ/RfjWpIpFp0GwkR0UNOQ7ERxIeF2SSnecpij9x9CP26pDoqC3zrjyUxKdJEzOvflxQEBpGsRznlrOO2IWr+miFK2QsWXl55Q1uZLdLAaW1UGfNSUJ2Zbey9mL4gEDixfgWyPrpxOUVYesfACgGW1PdqtKtVHu4Z8SAH7nOVuLUGq8AHQylqzPHGHNnBilQ0Enn6agIs2pJ9AhR6S1z/CuzvlE1hY+dFnKcJegRJYZXZWbefQoVuA3pThyIJKJ/IYKMTnuSg9QZOS+euPahL0Lp4myr/ZYwEqzCldTJgi2DAbGhBVM1DqdKCBYSyB5ekhEzTQWvx8GGJ2KyxmKGOKvvkQGlNTzj86MWPTzlj1tvNv38mLK6AIuikutAkmdcgfWwVb3rWd9BQ6/qPl/5e64VVq6kowqcXJpyx5ZmUOos0H+jIcy/Foq0dPzWPE0wELL3mtFSLYHX/6Vt1SBaPcniOLd0OXU7kBiT6ZfUCFwnqG6h7mh/P18qttY9Bzc9mn7LChdhoA==;TrT2S3nGtnkht1DaomGWtQ=="
 ---
 

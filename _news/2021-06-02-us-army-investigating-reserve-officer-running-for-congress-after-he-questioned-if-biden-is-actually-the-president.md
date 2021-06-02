@@ -1,22 +1,22 @@
 ---
 category: news
-title: "What we know about President Biden's visit to Tulsa"
-excerpt: "Here's what we know about Biden's plan to visit the city to mark the centennial event. President Joe Biden is scheduled to arrive at Tulsa International Airport at 12:50 p.m. Tuesday. From the airport,"
-publishedDateTime: 2021-06-01T19:09:00Z
-originalUrl: "https://www.usatoday.com/story/news/2021/05/31/biden-tulsa-race-massacre-survivors-greenwood-cultural-enter/5287170001/"
-webUrl: "https://www.usatoday.com/story/news/2021/05/31/biden-tulsa-race-massacre-survivors-greenwood-cultural-enter/5287170001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5287170001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5287170001"
+title: "US Army investigating Reserve officer running for Congress after he questioned if Biden is actually the president"
+excerpt: "Lt. Alex Stovall, 26, conducted interviews with One America News Network and Gun Freedom Radio in which he spoke about running for Congress."
+publishedDateTime: 2021-06-01T21:09:00Z
+originalUrl: "https://www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6"
+webUrl: "https://www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6"
+ampWebUrl: "https://www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6?amp"
 type: article
-quality: 125
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/31/NOKL/144cec55-297f-482a-aaca-cee3b268b53b-BWSL_Festival_Closing_Ceremony_22.JPG?auto=webp&crop=3328,1872,x0,y0&format=pjpg&width=1200"
+  - url: "https://i.insider.com/60b64d4dbee0fc0019d5a9f3?width=1200&format=jpeg"
     width: 1200
-    height: 675
+    height: 600
     isCached: true
 
 related:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_5189605cb4724ba8a4dd8ff54178610c_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "What we know about President Biden's visit to Tulsa"
+    excerpt: "Here's what we know about Biden's plan to visit the city to mark the centennial event. President Joe Biden is scheduled to arrive at Tulsa International Airport at 12:50 p.m. Tuesday. From the airport,"
+    publishedDateTime: 2021-06-01T19:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/05/31/biden-tulsa-race-massacre-survivors-greenwood-cultural-enter/5287170001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5287170001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5287170001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/31/NOKL/144cec55-297f-482a-aaca-cee3b268b53b-BWSL_Festival_Closing_Ceremony_22.JPG?auto=webp&crop=3328,1872,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "U.S. waives sanctions on Nord Stream 2 as Biden seeks to mend Europe ties"
     excerpt: "The Biden administration waived sanctions on the company behind Russia's Nord Stream 2 gas pipeline to Germany and its chief executive, Secretary of State Antony Blinken said on Wednesday, a move decried by critics of the project in Congress."
@@ -187,22 +203,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "US Army investigating Reserve officer running for Congress after he questioned if Biden is actually the president"
-    excerpt: "Lt. Alex Stovall, 26, conducted interviews with One America News Network and Gun Freedom Radio in which he spoke about running for Congress."
-    publishedDateTime: 2021-06-01T21:09:00Z
-    webUrl: "https://www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/60b64d4dbee0fc0019d5a9f3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "President Joe Biden asks US intelligence officials to investigate COVID origin"
     excerpt: "President Joe Biden on Wednesday asked U.S. intelligence officials to “redouble” their efforts to investigate the origins of the COVID-19 pandemic, including the unlikely possibility that the origins of the virus trace to Chinese lab."
     publishedDateTime: 2021-05-26T17:51:00Z
@@ -273,6 +273,6 @@ related:
       domain: stltoday.com
     quality: 55
 
-secured: "EcZK7Xn+BRz1NXcmToexpOgCSuF/E1nyde/NEzHjmKgaYPuhX0tVKc8ho7lT+Pw2gQGeNiNGFXsLzsp9votNLRKBAnBn0YaoJ6XNKdcQyRJ1UOHcqUPwW/95Yhu3zdmUEDLm44lLwlRmilcFamwVfa158j2D/FMEzJZ2zWxHSPq7kmhKz8xeTlcV3Tq3cbUZbhcuedpraIw3T12gA3BtwRN9bIz4njSgD32I6hyhUjYv5k6jUggCDo2//+H3kAir+4e0Xia/rSCY5QGahXvp8b/f9J3IGv1atufjkRxSAbMZmVzlYwcA97kD6wmA3qCgcCaCdeVpKa8mrqJVcS+1kRb8Cjc5f0L+zOwUo70wQaM=;D9krTsoFdxPXl3LeY1+G5A=="
+secured: "tW4aaoE9DHPmDEYeC68Ve7CJgd3ls+ttX+jkYVzBfioBBIOU0z//khJofaEHQmWKbgeQEe9G7GLAIyx8stXz3BZGg5IMMRml8VkcyjRE1mah+7/7DytWDJgKWnnYor8TuHafXb4l67tZAig+6HkZk2VxjC52x3VKyGhx0IJvaPF2ip1D/PTvtttvkRuX6lrHFbaV0gZt3pcNWj163Lg3DnjGLY2W33/2BzF+PoxMhgIbLz8iX8SZCsJcBN+IY16WEVKqVla7N3uvu80Ny82NHvrHF3DA3pC/xrDWkRryB/Zym0jN6TwC2K7SxBnvnW8aDNADlGhN62H+nJV3yQBWjEn9LPVMvfp7rjFOo7z3B0o=;XO7ixdZa77u5Ia3hf2Q3fQ=="
 ---
 

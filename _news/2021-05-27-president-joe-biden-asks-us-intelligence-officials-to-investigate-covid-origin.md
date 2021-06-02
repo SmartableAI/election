@@ -199,6 +199,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "US Army investigating Reserve officer running for Congress after he questioned if Biden is actually the president"
+    excerpt: "Lt. Alex Stovall, 26, conducted interviews with One America News Network and Gun Freedom Radio in which he spoke about running for Congress."
+    publishedDateTime: 2021-06-01T21:09:00Z
+    webUrl: "https://www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/60b64d4dbee0fc0019d5a9f3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden exaggerates U.S. rank in world coronavirus vaccinations"
     excerpt: "During a speech in Cleveland, President Joe Biden earned applause with a line about how well the United States has been doing in vaccinating people against the coronavirus. \"We've created more places to get vaccinated"
     publishedDateTime: 2021-05-28T17:45:00Z

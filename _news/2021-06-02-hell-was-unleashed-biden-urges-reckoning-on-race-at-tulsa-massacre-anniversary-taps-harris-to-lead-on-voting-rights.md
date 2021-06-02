@@ -444,7 +444,7 @@ related:
   - title: "‘This was not a riot, this was a massacre’: Biden honors victims of 1921 violence - live"
     excerpt: "President to commemorate hundreds who died in attack by white mob – follow all the day’s politics news"
     publishedDateTime: 2021-06-01T20:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b68af08f08b9889b365e27"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b68a8d8f08b9889b365e23"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
     type: article
@@ -704,6 +704,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "2SziMJAo6LnoPICNBf65P5GR+K2B+65HMqw4cJ4JnYpRssDgwa4ABKn66JzalXcHh8j2uY2XiTR/P2Oqhof9XgFIwVS24YKuz9h41HKzRShWPO2KdnwE6TUlMMe/XZU4rJK+S4HU2dA+LNZblFtPpz+Q+F7Tehz0phKOPsYkI8FNprNglD0GFTeicbnHGPx0Kz9cgNb55JXgg9N8XgTupxYlE5OD9zJt4LhYwykElrOu2dHSE/Opx0f4nckTBggBwgeBCj3D10j5MMQsgOOOoDjGB/qA37cqcrdLuYVNS2wqEDMZa+NfeKhA9ytrnx+cGcN22DGuLBC2Aj2oXQ4OhJ9HHU048n8g2DspYwY3ic8=;BcVTBvlzFHPKLauG5Kio0g=="
+secured: "xYks5CtQQnrU3KGkWroles0fzBzGM4Z7bD8oZtv4TTXGwr0OxXx3lqHA4T15UY7wagkKIT88ZXiYcyiLvfokOr5oOiwjob6Pb9KBmrhPZVaRNwtW09BURijgtBIo3kRuUd26ObBSgCfmHisw7WtHTKKVa2rwvan3ks1LcYVICqGlrcRCxyYtPFfawpoA6nNOJe3xahnhQvDpC5D09FmYtDF3rlUawWGtr9kTzh6iDmfQMuDzQ0UTmLaDj8m4CON/IuyxzOy4U7p2hoAQ4lHeiaWN7TpOnOHCki97+qUrtVr7UGiacfQLV9cihH9iCsx8Fn6rcNjV6qOE42W573qM//HurJiUj0S6ydpx5BluHUYqCKa4gej3w2alk519CR/bEybAZYJYJVm43bHPMYBCs8zRYdyZtJmTVav5CFt6iAdISiximueNjw1Q7sAH0f7F4Er2+yuKz3dM3T6gzFbPw6XG5WJT78KzafsB23hYDXHhO67yaRyG7gVA5/Ihd6Vuai9akyKXC5YhhWb3/Fi+Og==;55UmZQiJzPdHgJuz3bYKPw=="
 ---
 

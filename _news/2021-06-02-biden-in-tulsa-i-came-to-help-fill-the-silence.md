@@ -93,6 +93,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden declares white supremacists ‘most lethal threat’ to US as he marks Tulsa race massacre - live"
+    excerpt: "President to commemorate hundreds who died in attack by white mob – follow all the day’s politics news"
+    publishedDateTime: 2021-06-01T21:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 91
 
 secured: "q7HA1wlV4PnJLb1dOZ+PjbYnISIhNNG3Ufh9meBzNrbFk+NoVuEGocd9zQ3H3gi4HsOjZDe60rGHlivVd47RfNIbhputm1Qp5I/SD7+CR/J7IWFNh5+emkPr3olW0uFoKTg2ibawdFxNpu4oLMrFyBZk+wfPE3TjFKlB+mF0Pw8UKl0xxiUYcuc3dPAp2qKq78ktoY+u2kZHFgz8nvbFU1+rs40gOxEzkxFKp9JsFJh4BVfk1emOiF4v5jB7lJWK0xjVxng/yZocPk85wvimUexX/Lv1Udqe3enSgyD5Q6IbPNkU+pBuGUPDk72uq2LT3xp4xvUB18hh1/CbrAZh70NfbLt4Q7GGJxqfRcadXJs=;uKx4Dm2e19Tv2J+MtpaVcA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D62SK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SK"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -186,6 +186,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4fc02ba9-94fd-4a3e-bc8c-2c95923283cf_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "US Army investigating Reserve officer running for Congress after he questioned if Biden is actually the president"
+    excerpt: "Lt. Alex Stovall, 26, conducted interviews with One America News Network and Gun Freedom Radio in which he spoke about running for Congress."
+    publishedDateTime: 2021-06-01T21:09:00Z
+    webUrl: "https://www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/army-reserve-officer-running-for-congress-investigated-alex-stovall-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/60b64d4dbee0fc0019d5a9f3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "President Joe Biden asks US intelligence officials to investigate COVID origin"
     excerpt: "President Joe Biden on Wednesday asked U.S. intelligence officials to “redouble” their efforts to investigate the origins of the COVID-19 pandemic, including the unlikely possibility that the origins of the virus trace to Chinese lab."

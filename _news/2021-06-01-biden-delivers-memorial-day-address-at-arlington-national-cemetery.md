@@ -93,6 +93,20 @@ related:
         width: 815
         height: 545
         isCached: true
+  - title: "'This was a massacre' -Biden honors Tulsa victims"
+    excerpt: "Top News 'This was a massacre' -Biden honors Tulsa victims. Posted . Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, site where hundreds"
+    publishedDateTime: 2021-06-02T00:32:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEFKRU1R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210601&i=OVEFKRU1R&r=OVEFKRU1R&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "President Biden announces initiatives to combat racial wealth gap following 100 year mark since Tulsa Race Massacre"
     excerpt: "President Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, neighborhood of Greenwood to pay tribute to the victims of the 1921 race massacre. CBS News Chief White House correspondent Nancy Cordes and CBSN political contributor and Associated Press White House reporter Zeke Miller join \"Red and Blue\" anchor Elaine Quijano with more on a new White House initiative that aims to combat the racial wealth gap and the latest on a ransomware attack targeting the world's largest meat supplier."
     publishedDateTime: 2021-06-01T23:06:00Z

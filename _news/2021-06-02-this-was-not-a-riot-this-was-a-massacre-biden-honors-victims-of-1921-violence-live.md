@@ -3,8 +3,8 @@ category: news
 title: "‘This was not a riot, this was a massacre’: Biden honors victims of 1921 violence - live"
 excerpt: "President to commemorate hundreds who died in attack by white mob – follow all the day’s politics news"
 publishedDateTime: 2021-06-01T20:22:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b68af08f08b9889b365e27"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b68af08f08b9889b365e27"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b68a8d8f08b9889b365e23"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b68a8d8f08b9889b365e23"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
 type: article
@@ -702,6 +702,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "TBFU6qjfNRUjPdiOt2zIgJuC60eME0GCwQiWRVHzknLMze2RxxoJBO/cbzqRtKRm2p/GQWOVA/Tg7MO4BONdHhWFWPPwcatr0y11RLSGsTWFpTGbDu1MHupIXUzklOQJ1S4AABnnbb5qt8O6N3KRhVP4MgepEV0H1hIl8Phydyc31HzzQwooVaPvIvM0LQMRLWuxdk6qq6dczwO88iTw2Bde0Y0RvtX37PWAwHSyD8H2TAxfKlG0xDsrj8FAUhwGceGdd+QM7sE1sDDAOjhLqGimr4JqGhL7BY2bpO+D+cmDtsQBn60LYFsE/g8PbYbnkkqbBPfmUQfSTu7oyLkYTTDdZLKN70ZHomQ6VaMY3hVoMpIjXJfq4M05oP97zHrzpHCz1Tnr7vgj+oJFayHYgbpT244g7w7ZhuBJ4jLtUuInlYRYqexcZLdaRP834fmfR27u3d2mZxE7l4fBIWmrrmkOFMsEzNppaazYB8Nyz/LG2qCTSwj4EqCJbcJlHqtb7/U6GcMV4WPgzYU40AFj/g==;6m41t+J9HoahHqQGQ83DtA=="
+secured: "0T7GLjTx/kf5X8sxbE/j4aDgptnGY3lm28otpy/A8pupnZychHOFBhePxeCR8vPIx1JbVyIxqLmyv94pn1+MPO4vhkl0Evf8xnZLAoZtaUy5nm0WIuiQ3BJFT+uw3HBDCyc6lkjwOhSf0XqlkgwvM8lhEpc5UE6IYmnetWFzLndqe9yMi2TbHLQFtsUo2ogjLXYjqd0rt2CJYd1m5HHgo86eS/mSjfDrNAC0OWHbSzub4vPycP2mIV5kKA/6ZmXgXLde1Q6gYL0VBchsSOpPCYsJzGh95JxNBtfDll523Cg/1DLWcRi+i90C7VL0Ec0nPwzQTNZv1KVOIn5zvTr2q+YFutxieOmaBwYEngnHezneH7zv7ZU/OG3pdb0oRshkAIKdHGhkrGVUaWxjQ2Dqf4Mkcz/dEW+dGTGPkQiq2AOfXT72KWoO7LcdyPk3ydtgXMZx01PZowQG+pILbLrWvxKrHPx1Lxtt3Y9AxLdRxpVHqomtXHHDVNaL6VkNe4pADAFAvGjrV0hEyL3GjoM5GQ==;Ju5kaai4lPSGjbajF5bIsw=="
 ---
 

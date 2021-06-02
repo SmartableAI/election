@@ -1,29 +1,31 @@
 ---
 category: news
-title: "President Joe Biden, progressives willing to ‘go forward alone’ on $1.7 trillion infrastructure bill if Republicans balk at spending"
-excerpt: "The Biden administration and top progressives say they’re hoping for bipartisan support for major infrastructure spending, but they’re prepared to go it alone if they can’t make a deal soon with Republicans. Since signing a $1.9 trillion COVID-19 ..."
-publishedDateTime: 2021-05-23T17:29:00Z
-originalUrl: "https://www.masslive.com/politics/2021/05/president-joe-biden-progressives-willing-to-go-forward-alone-on-17-trillion-infrastructure-bill-if-republicans-balk-at-spending.html"
-webUrl: "https://www.masslive.com/politics/2021/05/president-joe-biden-progressives-willing-to-go-forward-alone-on-17-trillion-infrastructure-bill-if-republicans-balk-at-spending.html"
-ampWebUrl: "https://www.masslive.com/politics/2021/05/president-joe-biden-progressives-willing-to-go-forward-alone-on-17-trillion-infrastructure-bill-if-republicans-balk-at-spending.html?outputType=amp"
-cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/president-joe-biden-progressives-willing-to-go-forward-alone-on-17-trillion-infrastructure-bill-if-republicans-balk-at-spending.html?outputType=amp"
+title: "'This was a massacre' -Biden honors Tulsa victims"
+excerpt: "Top News 'This was a massacre' -Biden honors Tulsa victims. Posted . Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, site where hundreds"
+publishedDateTime: 2021-06-02T00:32:00Z
+originalUrl: "https://www.reuters.com/video/watch/idOVEFKRU1R"
+webUrl: "https://www.reuters.com/video/watch/idOVEFKRU1R"
 type: article
-quality: 44
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: MassLive
-  domain: masslive.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XOCFXW2DBBFOHGVRKULVIP5MU4.jpg"
-    width: 3132
-    height: 2088
+  - url: "https://static.reuters.com/resources/r/?d=20210601&i=OVEFKRU1R&r=OVEFKRU1R&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -105,20 +107,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "'This was a massacre' -Biden honors Tulsa victims"
-    excerpt: "Top News 'This was a massacre' -Biden honors Tulsa victims. Posted . Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, site where hundreds"
-    publishedDateTime: 2021-06-02T00:32:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEFKRU1R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210601&i=OVEFKRU1R&r=OVEFKRU1R&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "President Biden announces initiatives to combat racial wealth gap following 100 year mark since Tulsa Race Massacre"
     excerpt: "President Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, neighborhood of Greenwood to pay tribute to the victims of the 1921 race massacre. CBS News Chief White House correspondent Nancy Cordes and CBSN political contributor and Associated Press White House reporter Zeke Miller join \"Red and Blue\" anchor Elaine Quijano with more on a new White House initiative that aims to combat the racial wealth gap and the latest on a ransomware attack targeting the world's largest meat supplier."
     publishedDateTime: 2021-06-01T23:06:00Z
@@ -181,6 +169,22 @@ related:
         width: 5448
         height: 3632
         isCached: true
+  - title: "President Joe Biden, progressives willing to ‘go forward alone’ on $1.7 trillion infrastructure bill if Republicans balk at spending"
+    excerpt: "The Biden administration and top progressives say they’re hoping for bipartisan support for major infrastructure spending, but they’re prepared to go it alone if they can’t make a deal soon with Republicans. Since signing a $1.9 trillion COVID-19 ..."
+    publishedDateTime: 2021-05-23T17:29:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/president-joe-biden-progressives-willing-to-go-forward-alone-on-17-trillion-infrastructure-bill-if-republicans-balk-at-spending.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/president-joe-biden-progressives-willing-to-go-forward-alone-on-17-trillion-infrastructure-bill-if-republicans-balk-at-spending.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/president-joe-biden-progressives-willing-to-go-forward-alone-on-17-trillion-infrastructure-bill-if-republicans-balk-at-spending.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 44
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XOCFXW2DBBFOHGVRKULVIP5MU4.jpg"
+        width: 3132
+        height: 2088
+        isCached: true
   - title: "Biden to Sign Order to Combat Anti-Asian American Bias"
     excerpt: "U.S. President Joe Biden will sign an executive order on Friday addressing a rise in acts of anti-Asian bias and violence in the United States, the White House said. The order will establish the White House Initiative on Asian Americans,"
     publishedDateTime: 2021-05-28T10:24:00Z
@@ -191,6 +195,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Gzs6/MLDMugJjz1a1KF3zYJXFGrEjZu9w0cPihMg6Yly+e9sol4FAIHBzGqOqNA/p6WraJqMkJXeXZDG5wjgsVQC8ZcxLlfXNHk+MXz8JgGzarSeLxqqVGsxNE9DtvGSaB+syZNsUzovBe61NyIXc/AVu+xZH9hB4oe7IAt+o2xk1fgnwjmI4el8TZQ16nT9wzjt9uIQ7jG6SDJPrtQE0FYzYoBMaf9g7IZDvslLRH0PheWlG1rrgoTAnPJB79mY45Y+oD8BxpnDSrW9EBXGng0BH4zB8BYiawNggcZW3/cGsokP0+lk44dNIGsVZRKElSKzPSrawFQvzbLfhGFLTC/61gEaRkUcIHr7Mmh4ZGG0U4gGcleryRrZJp/vM2L4ZhdgQBN+UlFhf82rRRWl2qHvkxln7+/psL53BiM8bb0bVla9MIKhszAMB92AErS98EgZwFCAQHaXxvhJXP2jZ7lrBonft0Fl2IzyPkfm1aO5h90IY/p7l9R/5tYa66IEaIR7dfYOz7htKBfOhUpqQw==;qTZa3xsDWb+lG0SMyh6O/Q=="
+secured: "bPOsFDvgP0kirfl/sOORRARewq2eXKAyuWGLgu2r5D22lQ91AtCumADFjGTXI+0ZIerndkIJI6GCa9rpwgVNKYzOkNbH+jz5ahzfr70xmwXu8nisnG8ALmeQwv6FIJbSF1GZMA6JwgVs6b/k4jpMasLBbbcEaJVix7+vT/lxSwQBZHa9XdQ4uFstMSn/zwI/dHx0Q8e5hgBUSQojIaKi/ww2tfl9WfC9OMFFeR6Hg6fjAZXS1HB3pxqR4LCsm7D13kShN/M+HDQSAa88zlX+zaYTH4uTan4bFoykGUBJ7xGATsuB2KP4D7cCAGWtk4OysZIno8wQev3eoHgjknjIGR6fLuqywF6U5tkEsxLKzMs=;GNe+JL0+AL+HJeBHBXt8jw=="
 ---
 

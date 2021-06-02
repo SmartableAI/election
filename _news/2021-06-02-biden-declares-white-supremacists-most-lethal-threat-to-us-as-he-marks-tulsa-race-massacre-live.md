@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Biden to meet with three survivors of Tulsa Race Massacre in visit to once-thriving 'Black Wall Street'"
-excerpt: "For 100 years, the Tulsa race massacre went largely ignored by sitting U.S. presidents, until now, as Joe Biden grapples with US racial tension."
-publishedDateTime: 2021-06-01T18:39:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/06/01/biden-meeting-tulsa-race-massacre-survivors-100th-anniversary/5253875001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/06/01/biden-meeting-tulsa-race-massacre-survivors-100th-anniversary/5253875001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5253875001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5253875001"
+title: "Biden declares white supremacists ‘most lethal threat’ to US as he marks Tulsa race massacre - live"
+excerpt: "President to commemorate hundreds who died in attack by white mob – follow all the day’s politics news"
+publishedDateTime: 2021-06-01T21:42:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
 type: article
-quality: 109
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/d95e320a-8181-49f1-aabd-79087d150b2b-XXX__DSC5622.JPG?auto=webp&crop=5999,3374,x0,y140&format=pjpg&width=1200"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Biden visits Tulsa to honor victims of 1921 race massacre – US politics live"
@@ -79,6 +73,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Biden to meet with three survivors of Tulsa Race Massacre in visit to once-thriving 'Black Wall Street'"
+    excerpt: "For 100 years, the Tulsa race massacre went largely ignored by sitting U.S. presidents, until now, as Joe Biden grapples with US racial tension."
+    publishedDateTime: 2021-06-01T18:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/01/biden-meeting-tulsa-race-massacre-survivors-100th-anniversary/5253875001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5253875001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5253875001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/08/USAT/d95e320a-8181-49f1-aabd-79087d150b2b-XXX__DSC5622.JPG?auto=webp&crop=5999,3374,x0,y140&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden in Tulsa: I came to 'help fill the silence'"
     excerpt: "I came to 'help fill the silence' Posted . Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma site where hundreds o"
     publishedDateTime: 2021-06-01T23:22:00Z
@@ -93,18 +103,7 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Biden declares white supremacists ‘most lethal threat’ to US as he marks Tulsa race massacre - live"
-    excerpt: "President to commemorate hundreds who died in attack by white mob – follow all the day’s politics news"
-    publishedDateTime: 2021-06-01T21:42:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 91
 
-secured: "ffQgHHvFCEO2eY5F1eW01rhz12FoNheedX3/ZKhTn3exu7qGxTHdDBnyuNyGgY629mRom6hM47F7UIXbR8rJRbj7y71+Dxr2zNv3oj6T93LaoIrhXozF4Y3MH5Y8Oc/TzRE6ilI4HUBRk60s1LvJoPCN0qVrH6eSU2Hat5wGhGXSJyHbQ75IK7vnTPK6jgrNLu073KBpkXzWgx+tpPGyEt/t8gaeNCB/O7NoQFK08uOfUiMkoje9waJTA+Xa4G+o8tXiuBjTQKsXb18ewDHP05oKiqOfRwzbgKl18QnDh5NchIOJRkDxQz3avtDdH2eo5KkLlK5gIOJxM769cucxU6JcyZd3x6cEkk8O0Woi1sxWduPARD6JemZ//NLWVwTcywpS+gEIUARjOx7yFHUxWSrP0yJvUV5GTMSv0m1glc9tdOBGd6rtgkYsju5Dc355S/fe7O2mGKFLUnHSHexc7zHvhHla124kY1ogOs4R+/KCoxfv5RXvsy2IiJuu2IMGKyQ9vd5f1KHtqBWyh723pg==;wjsKcJpEb1JFtJkNqVyUJQ=="
+secured: "IxqgN4gEW1oypVRGFYAk00lJiX9nhtde0dR6n+hAfmIVSN2lBvGPndqPKC4VhYjmfcewl6fOYdHOXAx8OlozgLn3zDtmiDKjLkrMlDNz2g0mGwbu2SSgbKVbnOANldXSOFxzgpDKYtbpPGsr3NwQDt/bHxHM+jBXJ/PKI/N06qYk34LGVf8jFQ0O3JpmpXvFUDW39zPkj7FEklWduvOelgKXkMGfF7O+TcJUMehii2TYPK+tpAGgRmyzs03ut/unQ3u8HuqAaGg4OJ3MhcL9ur6h4Po//rkwnz0tRGVI25dvG4fJ9VRz24BfkKXJa9bA/703i95AZbw3J31uzGoJ/iSDqmjxbMa/H2llreSFLV7nYiEZuvaQQEy4ufYCiKr89V1eHOUyNR0AwbPvhagvalb+r7M4fcDf9Q4OtsZbgbzm6XwMeTxPT/BJjmRDi9/uXwBA0QurH4uUD7g14HphbdMAdcYhaSvQs9imcWEQpT25AkZvo1X5rf9MM7oZN1/b0nMh2HrpOGKY/HOUKPMiHw==;39KI2fx7xkmuHnK8rij3EQ=="
 ---
 

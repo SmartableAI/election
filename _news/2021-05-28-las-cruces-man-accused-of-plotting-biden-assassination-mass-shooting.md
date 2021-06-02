@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7448404002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7448404002"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/31/1adcd6f9-4f61-4be3-96ed-ca279865ef9e/thumbnail/1200x630/07e268c94be4fe6cb21f8ac59e353c23/cbsn-fusion-biden-memorial-day-2021-arlington-national-cemetery-thumbnail-726179-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "'This was a massacre' -Biden honors Tulsa victims"
+    excerpt: "Top News 'This was a massacre' -Biden honors Tulsa victims. Posted . Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, site where hundreds"
+    publishedDateTime: 2021-06-02T00:32:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEFKRU1R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210601&i=OVEFKRU1R&r=OVEFKRU1R&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "President Biden announces initiatives to combat racial wealth gap following 100 year mark since Tulsa Race Massacre"
     excerpt: "President Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, neighborhood of Greenwood to pay tribute to the victims of the 1921 race massacre. CBS News Chief White House correspondent Nancy Cordes and CBSN political contributor and Associated Press White House reporter Zeke Miller join \"Red and Blue\" anchor Elaine Quijano with more on a new White House initiative that aims to combat the racial wealth gap and the latest on a ransomware attack targeting the world's largest meat supplier."
