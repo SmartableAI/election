@@ -147,6 +147,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump endorses Gov. Greg Abbott for reelection"
+    excerpt: "Former President Donald Trump endorsed Gov. Greg Abbott for reelection on Tuesday, giving him an early and crucial stamp of approval as he confronts a possibly competitive primary. Abbott has already drawn a challenge from former state Sen."
+    publishedDateTime: 2021-06-02T02:08:00Z
+    webUrl: "https://www.chron.com/politics/article/Donald-Trump-endorses-Gov-Greg-Abbott-for-16217732.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/Donald-Trump-endorses-Gov-Greg-Abbott-for-16217732.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Donald-Trump-endorses-Gov-Greg-Abbott-for-16217732.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Donald Trump Accuses Joe Biden Of ‘Incompetence’ Over Immigration, Border Decisions"
     excerpt: "Donald Trump said President Joe Biden is incompetent and “destroying our country.” Trump shared his opinions Saturday in a phone call to Newsmax program “Dick Morris Democracy.” During the conversation,"
     publishedDateTime: 2021-05-30T17:34:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-wo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1"
 type: article
 quality: 149
-heat: 389
+heat: 409
 published: true
 
 provider:
@@ -147,6 +147,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/26/2cee12b8-557a-41ff-8010-3c9b05ed62fe/thumbnail/1200x630/06bcc640d636ef243c239d0c730e1bfc/cbsn-fusion-breaking-down-the-investigation-into-pres-trump-thumbnail-723956-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Donald Trump endorses Gov. Greg Abbott for reelection"
+    excerpt: "Former President Donald Trump endorsed Gov. Greg Abbott for reelection on Tuesday, giving him an early and crucial stamp of approval as he confronts a possibly competitive primary. Abbott has already drawn a challenge from former state Sen."
+    publishedDateTime: 2021-06-02T02:08:00Z
+    webUrl: "https://www.chron.com/politics/article/Donald-Trump-endorses-Gov-Greg-Abbott-for-16217732.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/Donald-Trump-endorses-Gov-Greg-Abbott-for-16217732.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Donald-Trump-endorses-Gov-Greg-Abbott-for-16217732.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Donald Trump Accuses Joe Biden Of ‘Incompetence’ Over Immigration, Border Decisions"
     excerpt: "Donald Trump said President Joe Biden is incompetent and “destroying our country.” Trump shared his opinions Saturday in a phone call to Newsmax program “Dick Morris Democracy.” During the conversation,"

@@ -94,9 +94,9 @@ related:
         height: 545
         isCached: true
   - title: "'This was a massacre' -Biden honors Tulsa victims"
-    excerpt: "Top News 'This was a massacre' -Biden honors Tulsa victims. Posted . Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, site where hundreds"
+    excerpt: "Politics 'This was a massacre' -Biden honors Tulsa victims. Posted . Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, site where hundreds"
     publishedDateTime: 2021-06-02T00:32:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEFKRU1R"
+    webUrl: "https://www.reuters.com/video/watch/this-was-a-massacre-biden-honors-tulsa-v-id730767459?chan=6g5ka85"
     type: article
     provider:
       name: Reuters

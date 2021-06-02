@@ -272,6 +272,20 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 55
+  - title: "President Joe Biden returns from Oklahoma"
+    excerpt: "U.S. President Joe Biden waves as he walks on the Ellipse as he returns to the White House in Washington, DC from Tulsa, Oklahoma on Tuesday, June 1, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-06-02T02:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/1203ce23549b92b98f258600df15fe53/President-Joe-Biden-returns-from-Oklahoma/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/1203ce23549b92b98f258600df15fe53/BIDEN-RETURNS.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "zvCug6LPuvhmzaxghLvpd+kOFcbjuBCd1Q2by7ECx+HzYplpG2Y4YUDKNcZkFyKah+OT8ltsUS+0VG0bDNVApHGSmdrSSbgkT23ziTz5HxfQsN/HzDdCAuwGCN3zhc02txXFosMRI6JbvQvAcNwETv1Gw3t7I0mLNEGxnlyHqAYpKhDyixD5hIFuA5Za7XklWj4SmDiffgCOgDdc3hKlpOOyu5ZvsDFmrcLg8gsIbUarq5bNkV+aPaGpxiFK46Z+udbNN/cTUVFQK2npGoKQAgAesiwfefZg5uMmnqSt1FBQIh5E5IPplruFaflR54hemFuWbsYNATBMpkM99aJyINcdn98/LvwgWfpZyZBYFNlOXq4lB2EIibJnla2m4A0xNrPAut116QkRaIbgWLonAWtUR14b2lfXAL3vMxDOqM/VeyRaZWXdjeGjcYCoyLRlki2kKckuwasjylsSdos2Ov8pahojw5xCkblBX96L+GtzUbD/PBipl6B6pLKO3mYylFp42+2Z+Xusuvrt7+1DBw==;0nq0T52nNDlhHrtUdwPIMQ=="
 ---
