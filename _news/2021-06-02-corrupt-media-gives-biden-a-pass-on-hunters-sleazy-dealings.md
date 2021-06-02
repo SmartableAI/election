@@ -1,34 +1,23 @@
 ---
 category: news
-title: "Andy McCarthy hits media's lack of curiosity into the Biden family connection to China"
-excerpt: "Former U.S. Attorney and Fox News contributor Andrew McCarthy said Thursday on \"The Story\" that \"Hunter Biden’s business is access,\" after it was reported that Joe Biden met Hunter's foreign business associates."
-publishedDateTime: 2021-05-28T00:19:42Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1UtKg3PnKm0/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1UtKg3PnKm0/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy"
-ampWebUrl: "https://www.foxnews.com/politics/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy.amp"
+title: "Corrupt Media Gives Biden a Pass on Hunter's Sleazy Dealings"
+excerpt: "When it comes to President Joe Biden and his family, that's a lot. Read Full Article »"
+publishedDateTime: 2021-06-02T12:18:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/06/02/corrupt_media_gives_biden_a_pass_on_hunters_sleazy_dealings_544109.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/06/02/corrupt_media_gives_biden_a_pass_on_hunters_sleazy_dealings_544109.html#!"
 type: article
-quality: 167
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
-
-images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0421a2a5-3c18-4aa0-8bb3-5cdc37d5d1d6/3054ef70-c6d0-4a2d-b9c0-c2d4b5190ff6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
-    isCached: true
 
 related:
   - title: "Hunter Biden brought VP Joe to dinner with shady business partners"
@@ -76,6 +65,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a956baa-0cb5-479e-9a25-40885a488c9a/458ceed5-b020-4a2c-b47d-30ec012bedf5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Andy McCarthy hits media's lack of curiosity into the Biden family connection to China"
+    excerpt: "Former U.S. Attorney and Fox News contributor Andrew McCarthy said Thursday on \"The Story\" that \"Hunter Biden’s business is access,\" after it was reported that Joe Biden met Hunter's foreign business associates."
+    publishedDateTime: 2021-05-28T00:19:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1UtKg3PnKm0/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-biden-foreign-policy-hunter-got-paid-andy-mccarthy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0421a2a5-3c18-4aa0-8bb3-5cdc37d5d1d6/3054ef70-c6d0-4a2d-b9c0-c2d4b5190ff6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -184,16 +189,7 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Corrupt Media Gives Biden a Pass on Hunter's Sleazy Dealings"
-    excerpt: "When it comes to President Joe Biden and his family, that's a lot. Read Full Article »"
-    publishedDateTime: 2021-06-02T12:18:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/02/corrupt_media_gives_biden_a_pass_on_hunters_sleazy_dealings_544109.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
-secured: "pTDAZE3Z8RclxGEGUVuHXK8qf1OWtSA87w7Tu4WLcnpwYUjkN/XLeE+/yRjeTQfigrg813Hv/I6l/coAnLmi0f7d3aU2kGZcTXHPhUwmae0BviYUqNgrLEXfyrPe8vok1Or0CLV8G8ARUln60lJGIaHt8uX00DvjsXcb8gmzTMKVfFeUbC0E+pyVSkN6PPlFx1n4pkO5mcjI720g5tZj7+au+ooXg6YrTwRAXQHZ4uBlSvPd9g/aBzHgTjEQ0xy5S2YnO4bmbHh9KDDkd2iMoENG7qVPMD9xQfiwns6gjpXmGTfL/5KRcov34ZipDxvfejAP/4XLZCMDFkjcUHH6XYABFiuHTQffswKj41Ivpyk=;iVpMAufSBGntxReXE71CXA=="
+secured: "hkEEmmiVjliaKpCk2IwIuhoNiIeKK17gpyhbPdQu18Fm7bjlL+kS1vLxLQFiH+fNnMD/PFbipaUXb6MK1FTPIkFFAdy5ADuQHxeWHTFEPYonPgKR0cs+nrm9c3MaGFZRkMLZMuR/+LxT30BtjaJvk85ehZufgwlqZoi8zH9zzhEJceodpFBKmwiuvBSdCTzJXC3EdYnBQacYUMHx0GZ4JDP8rUcO7vZVLTatxiHSd80ikmw37BCNbQEsby18j6mEwSllyRdLOA8pVDiaXc4cPH8jQ9Mlyhjcuo0sVZ0XX6+OJwAxcyl1QznJJfmBPcybWVbIw0DTDWaLKn3Zpri3IG8Y7dgsDZQXxjYiJnpJ6fo=;1HmT7qhMzheK3qr04EMFsw=="
 ---
 
