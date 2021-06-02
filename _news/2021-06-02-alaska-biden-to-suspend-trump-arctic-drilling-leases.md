@@ -1,31 +1,33 @@
 ---
 category: news
-title: "Biden to raise cap on refugees after criticism"
-excerpt: "Posted . President Joe Biden said on Saturday he will raise the cap on the number of refugees admitted this year to the"
-publishedDateTime: 2021-04-18T07:42:00Z
-originalUrl: "https://www.reuters.com/video/watch/idPJqJ?now=true"
-webUrl: "https://www.reuters.com/video/watch/idPJqJ?now=true"
+title: "Alaska: Biden to suspend Trump Arctic drilling leases"
+excerpt: "US President Joe Biden's administration will suspend oil and gas leases in Alaska's Arctic National Wildlife Refuge pending an environmental review. The move reverses former President Donald Trump's decision to sell oil leases in the refuge to expand fossil fuel and mineral development."
+publishedDateTime: 2021-06-01T21:28:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-57322511"
+webUrl: "https://www.bbc.com/news/world-us-canada-57322511"
+ampWebUrl: "https://www.bbc.com/news/world-us-canada-57322511.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57322511.amp"
 type: article
-quality: 105
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: BBC
+  domain: bbc.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://ajo.prod.reuters.tv/api/v2/img/607b86a2e4b0653eea185c5b-1618708130680?location=LANDSCAPE"
-    width: 1200
-    height: 675
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16F86/production/_118768049_mediaitem118768045.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -252,22 +254,6 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
-        isCached: true
-  - title: "Alaska: Biden to suspend Trump Arctic drilling leases"
-    excerpt: "US President Joe Biden's administration will suspend oil and gas leases in Alaska's Arctic National Wildlife Refuge pending an environmental review. The move reverses former President Donald Trump's decision to sell oil leases in the refuge to expand fossil fuel and mineral development."
-    publishedDateTime: 2021-06-01T21:28:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57322511"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57322511.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57322511.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 140
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16F86/production/_118768049_mediaitem118768045.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Biden suspends Trump-era oil drilling leases in Alaska’s Arctic refuge"
     excerpt: "Interior department order follows a temporary moratorium on oil and gas lease activities imposed by president on first day in office"
@@ -1282,6 +1268,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden to raise cap on refugees after criticism"
+    excerpt: "Posted . President Joe Biden said on Saturday he will raise the cap on the number of refugees admitted this year to the"
+    publishedDateTime: 2021-04-18T07:42:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPJqJ?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/607b86a2e4b0653eea185c5b-1618708130680?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Capital Gains Are Taxed and What Biden Wants to Do Now"
     excerpt: "Capital gains taxes are the price of making a good investment. They’re levied on profitable stock trades and real estate deals and also can apply to sales of businesses, pieces of art, collectible cars,"
     publishedDateTime: 2021-04-28T08:15:00Z
@@ -1908,6 +1908,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "ZRCN4Mg3QVZOWX/NNeNkYN/Em5Fiv8nBqR6GZd6ZqGoNPjxq/aCsMRHbT9A14/fPaau4WRfU2j3rGlGQ3XdtsiZA+tXiuy+tRZoYcGVuPwzMvh1uir41TZchcXyu9bS61jKcz48fmLyo1DGyHyK5unfIThNSja+UM/1j4sS9TOpD4a7ZmuT3e+nZZsCAyTwlLGeESqjyy0lsxErqFyIKKwVPTnO8MQnACzNHytpFYk2WzMy6XxoqkfmpDczz53PBQZweDaAR4MCkyOjE188+rccmC90533uvxbF9R5y20oBIaOpWdUBP/LN26ZSjE/6/k8g0mTp/Pc1H6OdvnLQ96/qVeLgTRFRB/f5hMCokzZ1YlSSyXRaTQnjNXw02mMJGI283eg78ebVFuuWk1yEyc5UrZiP+xqMFyhibMxKQWoZpek3irVSoBECPWjhdXfSSTKcT2ELyqA5NtUxket0GYtTFfks9CBA6gOLolsC7G5PUFC4lqVOUvmV4HpUUfCTMQ93iB95jeXNzELINGzLiXQ==;cBKp016eMR6rf+3FewkP2w=="
+secured: "iXcF1lkM6nFhHYB/1jK0joGM5ni8eGZp33fduAWtY7frpAAcbdaaQHW5vH+y+nG7Og8ifRwCsCptXnV27BMJC0vNVPMXifmvQ+poYxE3Z2sD6mRhgWF67y/Uc8Pt3ozODiVcEFvDF0BsUEIt2RSBsbIiQ4pXzrbTAjy0Wb6SyjvN4yf5TsfJ4SkiYjTWPxznOADrGNDf1yuIaUyLxtJwjIpcxLun9B+gfCFA+nKDwCtVBTZ6ryBkAXQCvLH9fxWuisMbijK3PggB/uEatn/4DTZKV0xlKi57RCLtZmcW6nfJXPcThbzg+Godcj7ghLONa3HvIVdY/mxd0KSsAMKMaq5ydE+31RzV3oMy0HJZLiE=;c10ROVkZn72BDh1CAn1pYA=="
 ---
 

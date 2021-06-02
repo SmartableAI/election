@@ -255,21 +255,21 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Biden suspends Trump-era oil and gas leases in Alaska refuge"
-    excerpt: "U.S. President Joe Biden's administration on Tuesday said it would suspend oil and gas leases that had been handed out in an Alaska wildlife refuge during the final days of the Trump administration pending an environmental review."
-    publishedDateTime: 2021-06-01T20:39:00Z
-    webUrl: "https://www.reuters.com/article/legal-usa-biden-drilling/biden-suspends-trump-era-oil-and-gas-leases-in-alaska-refuge-idUSKCN2DD4KA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DD4KA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DD4KA"
+  - title: "Alaska: Biden to suspend Trump Arctic drilling leases"
+    excerpt: "US President Joe Biden's administration will suspend oil and gas leases in Alaska's Arctic National Wildlife Refuge pending an environmental review. The move reverses former President Donald Trump's decision to sell oil leases in the refuge to expand fossil fuel and mineral development."
+    publishedDateTime: 2021-06-01T21:28:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57322511"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57322511.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57322511.amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: BBC
+      domain: bbc.com
     quality: 140
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210601&t=2&i=1564127782&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5023Q"
-        width: 810
-        height: 545
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16F86/production/_118768049_mediaitem118768045.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Biden suspends Trump-era oil drilling leases in Alaska’s Arctic refuge"
     excerpt: "Interior department order follows a temporary moratorium on oil and gas lease activities imposed by president on first day in office"
@@ -1866,6 +1866,15 @@ related:
     excerpt: "U.S. President Joe Biden is expected to allow a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday,"
     publishedDateTime: 2021-03-31T00:24:00Z
     webUrl: "https://www.usnews.com/news/us/articles/2021-03-30/biden-expected-to-end-trump-ban-on-temporary-foreign-workers"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
+  - title: "Biden Suspends Trump-Era Oil and Gas Leases in Alaska Refuge"
+    excerpt: "U.S. President Joe Biden's administration on Tuesday said it would suspend oil and gas leases that were handed out in an Alaska wildlife refuge during the final days of the Trump administration pending an environmental review."
+    publishedDateTime: 2021-06-01T20:44:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-06-01/biden-suspends-oil-and-gas-leases-in-alaska-refuge-pending-review"
     type: article
     provider:
       name: U.S. News & World Report

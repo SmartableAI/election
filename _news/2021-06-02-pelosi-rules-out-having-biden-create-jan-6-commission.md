@@ -94,9 +94,9 @@ related:
         height: 630
         isCached: true
   - title: "'This was a massacre' -Biden honors Tulsa victims"
-    excerpt: "Politics 'This was a massacre' -Biden honors Tulsa victims. Posted . Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, site where hundreds"
+    excerpt: "Top News 'This was a massacre' -Biden honors Tulsa victims. Posted . Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, site where hundreds"
     publishedDateTime: 2021-06-02T00:32:00Z
-    webUrl: "https://www.reuters.com/video/watch/this-was-a-massacre-biden-honors-tulsa-v-id730767459?chan=6g5ka85"
+    webUrl: "https://www.reuters.com/video/watch/idOVEFKRU1R"
     type: article
     provider:
       name: Reuters
@@ -195,6 +195,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "MY3dYKjo/ju6/fp8JvnFZC/cijY32ZYAYvNPwr+CpZHOeRJi9vqkoJ9BXwLOWIEqNkvWQW9JNsEj4xLwU36VY+gunxD6BSUY0E8ZwRMmUw4utCJQvlwoA7KMjcgVoqjR0dSIjXHXNSH/tiQP8K2yt4QEbkoIPn99Yzg6/OauJLcvl406W3k0AFJzkbX9+y0kX6IVZRNgidIbedN6lo25foSHm+5s3/dbEqVRcvWA9Lf9HPYZFE6x9TB5keZxWrkfqIZ0+jHn6BDU6LicpaW3WVjM6cYErziyP5v66eIpj833QEl0LGrSPmvDSNDiSZMXV5Txo4kz0G6+NIFET26AxHCynNDniw29baTGIiHnp7s=;NOx1AgC1krM6ETLS3yMsJA=="
+secured: "nGFeTE1qeTWSUn5w3S0+vpjbO1b+1HWLbwIQro2pgpASEvpCfYxqTYeyN3/TXVgbgzPFMFa4NbbvX4Z8QxtBhdlNGhWpRU5t/uMWe6HnkS2fgCIlsRCvOGcacvIVKUaXg8RUBQw+nix3/BTqEyg+H5m9l/YT4IyrxaL+k599ZtNPx3OobLmZltbOeAFGxJnSEXqZ+0+gDXN8eR9NpZLQ6MI8UVvgQhN4Adik/aN+m+cixh7QxrlFMJ7wY7uqbiIQKfkZpyVAzN9/hS8ronoHEOEybVkbrrFXbjuQAv72VGCtQ/WEECxTUX3Fwy30cPWcrKhABKJwCKNv0OH+8yksjjZhQnAvGLkiXyAWPkggvI3bwpJWIEx4pXBWRnpKBjl3BvtnySdTRy4cczNkWauUn4OX7n2yXnKh57VdkAToL2rzdgheFyP0/W1ws6SiaVpvXLb5apvZoSuc/PXKnP2H8XWDCYIkJlLq2Mn8lsiojt/9tl/y782LZEkdOiBKsVFAWBqAqlOzUbMdwQB9gQJhcQ==;vUs1qX0oD/3+NRHOaIQHKQ=="
 ---
 

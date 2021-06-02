@@ -1,34 +1,35 @@
 ---
 category: news
-title: "Biden and Harris condemn recent attacks on Jewish community in US and abroad"
-excerpt: "President Joe Biden and Vice President Kamala Harris on Monday condemned recent attacks toward the Jewish community after several Jewish people were targeted in cities across the US and abroad as tensions flare over the Israeli-Palestinian conflict.\n    \n"
-publishedDateTime: 2021-05-24T15:30:49Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wrjLWY7sFKc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wrjLWY7sFKc/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-attacks-jewish/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-attacks-jewish/index.html"
+title: "Biden names Harris to lead administration's effort to protect voting rights"
+excerpt: "Biden acknowledged the hurdles for federal election reform in Congress, including \"two members of the Senate who vote more with my Republican friends.\""
+publishedDateTime: 2021-06-01T22:31:00Z
+originalUrl: "https://www.nbcnews.com/politics/politics-news/biden-taps-harris-lead-administration-s-effort-protect-voting-rights-n1269273"
+webUrl: "https://www.nbcnews.com/politics/politics-news/biden-taps-harris-lead-administration-s-effort-protect-voting-rights-n1269273"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269273"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269273"
 type: article
-quality: 197
+quality: 158
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
   - Kamala Harris
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479453/210601-joe-biden-ew-528p.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -45,6 +46,22 @@ related:
     quality: 200
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200608151857-biden-floyd-family-meeting-0608-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden and Harris condemn recent attacks on Jewish community in US and abroad"
+    excerpt: "President Joe Biden and Vice President Kamala Harris on Monday condemned recent attacks toward the Jewish community after several Jewish people were targeted in cities across the US and abroad as tensions flare over the Israeli-Palestinian conflict.\n    \n"
+    publishedDateTime: 2021-05-24T15:30:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wrjLWY7sFKc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-attacks-jewish/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-attacks-jewish/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 197
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -223,22 +240,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504000658-us-capitol-building-0429-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden names Harris to lead administration's effort to protect voting rights"
-    excerpt: "Biden acknowledged the hurdles for federal election reform in Congress, including \"two members of the Senate who vote more with my Republican friends.\""
-    publishedDateTime: 2021-06-01T22:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-taps-harris-lead-administration-s-effort-protect-voting-rights-n1269273"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269273"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269273"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 158
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479453/210601-joe-biden-ew-528p.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "The Inside Story of the Biden-Harris Debate Blowup"
     excerpt: "President Joe Biden and Vice President Kamala Harris have appeared so in lockstep that it’s hard to remember how tense their early campaign days were."
@@ -425,6 +426,6 @@ related:
         height: 773
         isCached: true
 
-secured: "Iz743dQdGT+QSx+JWCkMmOuSp7fqLQqHSEKaYouMKtfgQcSF78QGK4Lqu4Xy4EOk3fDgqwvaPiFVm8V4pszQyknNQTEa0E6pNZeyC8yYbEW8GYfaZxrOuvy8K53259v7RiGbqA3LoS2oJApdbRqr1Ix5hSmJtnn9DjLm/N4MUowrYYM+4r7C//sDlsghvhevSqvapMlrxRZ8hHa7RV+Rr9kFaHTD2SMXPAM8zYo1ma/3bzJ2jqdg5qx8guKcV5nyqXWc+aZyKOs43FEDvoYEqIMBXiorSFEp7Hpru67llbcrICz+sy6frC7qKE/u0H/rbx4TFgu4yQ9sHgr3Yot7ZKg/jkWv3Rf7vUwCaomdUn8=;aJbFmMRq2srUyI085HgxiA=="
+secured: "gtpbwmy5ipB/C1s7Vd4/4VmgIN9B8LSXQqC5VeS/Op7jjmcIu5rxidWmztEfNVET5QO+Ecbfspl3t0GxkCsmj6Uetb3PVC204lWbxz5jCCH4zVD3EjjC+jJPGkeH9lUK/Cn1m2C8KAQEXy/IJQdl/jLcEKRrtdSSFa7o/E/kgys1tlk21++FxXlgdSCvopk29Snxfdz04/3CInpS3SR3hbuCE6Ci0X+yoSiPJwGEK22R4sWk9JHtVpqNFDoPj/5gHWxO8Xi/I+89jhY0tlR08GTcHjgg9MCwdB0XnhZjbcGmTDKXIWy4XOpgXbBEesBWxmFaTOpQQSMp7nuX9SqfuY+xTppjIhUg3pmyB9Fyuk4=;OteI4d4pWyLbejdaDN7TUQ=="
 ---
 

@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden names Harris to lead administration's effort to protect voting rights"
+    excerpt: "Biden acknowledged the hurdles for federal election reform in Congress, including \"two members of the Senate who vote more with my Republican friends.\""
+    publishedDateTime: 2021-06-01T22:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-taps-harris-lead-administration-s-effort-protect-voting-rights-n1269273"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269273"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269273"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 158
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479453/210601-joe-biden-ew-528p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "The Inside Story of the Biden-Harris Debate Blowup"
     excerpt: "President Joe Biden and Vice President Kamala Harris have appeared so in lockstep that it’s hard to remember how tense their early campaign days were."
     publishedDateTime: 2021-05-19T09:45:00Z

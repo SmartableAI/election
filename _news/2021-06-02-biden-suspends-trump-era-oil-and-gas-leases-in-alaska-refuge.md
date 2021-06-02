@@ -1,34 +1,26 @@
 ---
 category: news
-title: "Biden suspends Trump-era oil and gas leases in Alaska refuge"
-excerpt: "U.S. President Joe Biden's administration on Tuesday said it would suspend oil and gas leases that had been handed out in an Alaska wildlife refuge during the final days of the Trump administration pending an environmental review."
-publishedDateTime: 2021-06-01T20:39:00Z
-originalUrl: "https://www.reuters.com/article/legal-usa-biden-drilling/biden-suspends-trump-era-oil-and-gas-leases-in-alaska-refuge-idUSKCN2DD4KA"
-webUrl: "https://www.reuters.com/article/legal-usa-biden-drilling/biden-suspends-trump-era-oil-and-gas-leases-in-alaska-refuge-idUSKCN2DD4KA"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DD4KA"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DD4KA"
+title: "Biden Suspends Trump-Era Oil and Gas Leases in Alaska Refuge"
+excerpt: "U.S. President Joe Biden's administration on Tuesday said it would suspend oil and gas leases that were handed out in an Alaska wildlife refuge during the final days of the Trump administration pending an environmental review."
+publishedDateTime: 2021-06-01T20:44:00Z
+originalUrl: "https://www.usnews.com/news/us/articles/2021-06-01/biden-suspends-oil-and-gas-leases-in-alaska-refuge-pending-review"
+webUrl: "https://www.usnews.com/news/us/articles/2021-06-01/biden-suspends-oil-and-gas-leases-in-alaska-refuge-pending-review"
 type: article
-quality: 140
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210601&t=2&i=1564127782&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5023Q"
-    width: 810
-    height: 545
-    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -254,6 +246,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "Alaska: Biden to suspend Trump Arctic drilling leases"
+    excerpt: "US President Joe Biden's administration will suspend oil and gas leases in Alaska's Arctic National Wildlife Refuge pending an environmental review. The move reverses former President Donald Trump's decision to sell oil leases in the refuge to expand fossil fuel and mineral development."
+    publishedDateTime: 2021-06-01T21:28:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57322511"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57322511.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57322511.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16F86/production/_118768049_mediaitem118768045.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Biden suspends Trump-era oil drilling leases in Alaska’s Arctic refuge"
     excerpt: "Interior department order follows a temporary moratorium on oil and gas lease activities imposed by president on first day in office"
@@ -1899,6 +1907,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "jD2WcsBKqi5tzJe2cGdZnn+oYsyqSBfwncizz3ehe1N/DLtij5D6UE8+OxrVcEXUD1A+1EQpNm2Y15pBgAiQUtSuEgqDcQJcsPuO6DGXCTPKSZOVnYleEL0zHuDl4OvYitiUls8L1kZWPPaHo7Lq9VNJhI7BmP/2t+eP6Xg8Anh4Ir1Yw4LO3CMskCxlbQhZVWhLRPQ9sDq3/qBMbHIS0jV69jvwFL50fMNu0KYVjV6TvQnzzHeAi1Pa8uujWSsrE+2BgvDZ4a5W3jA7JwRDP8CTbUZr8GXaISf8zpCim6NfI7xUhyZ6cXnGKYzQ1Y1KP620fSdERfYITgKCz31Nav8O87BLZogBtiXmUc6D1gPjKFoGdf22coo3idcdL++KThEipk3RdFB8P9OrHpfYChL3G8/fVwk35/1ICU0+vBkTfFln4PKBOGJXfpjukKahjvrSeSMeLYMnN6mnehrJNdh0bLxbruzrBsHDHgfp2XvBtUy7xyC8djK+JP/Sd8RbvG4SU0n0RkoW6wmgsHFjeQ==;ylngdFsqqenA1eD9YBKOpQ=="
+secured: "zTeBtj9KgMsggtd4P30tilr6CfmFb/gg3WVhLV+u0dzUiHupK/keMo+sBSabNWe5g+EvgUac1ezFr1OCBGNYTCjJs6vrLrRXDg4tfmvTIB1id8I9+xljb2+uqXcwe5qd3b8rNuf041J+V4p7HWiuK8VNUzw3uH37UpV4lnfAA9M69R54Bfs6XdW5UzfC3cgvce9RDebQc0y4OHo5tWjrmv0jLmZGBVzw7AiQzdxQrP50bVZNOJhpWjXUj0uSfLAzCNXpWqF/PurMMwTZ6ca14VH5ms/FMj4LOp8vBFe1vvDgQ2nJY14z4aWSZKB90+5rwiRWpxc4PUKYYwSxxXhLElx/Jq1jZ16aouHMgX0shKb0SKVWGGONRyirES/69qH4CV5m8E31gOoF9iqKtpxmZBaUEUFquOIIiSj4b8WGJ5hEL4dKb1z6zwaZrQYHtXjflKK/JQ8gpBSHttnSnQBr0Uewd4MATVOg4IFGeFfMQapaNZIJLvmMed1zdheoMnHque5j7hM5zuT/rpuQpTlaQA==;lqgTmuTyLCX5nH8i8tOwcQ=="
 ---
 
