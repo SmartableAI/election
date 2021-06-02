@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "First Thing: Joe Biden calls for US to confront its past in Tulsa"
+    excerpt: "On the 100th anniversary of the Tulsa race massacre, Biden became the first sitting president to visit the site"
+    publishedDateTime: 2021-06-02T10:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/02/first-thing-joe-biden-calls-us-confront-past-tulsa-race-massacre"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/02/first-thing-joe-biden-calls-us-confront-past-tulsa-race-massacre"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/02/first-thing-joe-biden-calls-us-confront-past-tulsa-race-massacre"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/204bc9048546cac0fb17301fba3f5c846bdbb800/0_206_6192_3715/master/6192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=869629a56fde18d2bd91210d00e8d948"
+        width: 600
+        height: 360
+        isCached: true
   - title: "In Biden Communion debate, US bishops' show willingness to test Pope Francis"
     excerpt: "But according to some observers, the controversy is less about the sacrament than it is about the lack of communion among the U.S. bishops themselves and between the U.S. conference and the Vatican. “This is more about Pope Francis than it is about Joe Biden,"
     publishedDateTime: 2021-05-28T21:42:00Z
