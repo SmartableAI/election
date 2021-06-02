@@ -219,6 +219,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "URI weighs revoking honorary degree from ex-Trump adviser"
+    excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alum who briefly served as President Donald Trump’s national security"
+    publishedDateTime: 2021-06-01T21:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Justice Department appeals judge’s order to release Trump obstruction memo"
     excerpt: "The Biden administration will appeal a judge’s order to release a memo on whether former President Trump obstructed justice during the Russia probe."
     publishedDateTime: 2021-05-25T08:06:00Z
@@ -432,22 +448,6 @@ related:
     webUrl: "https://www.chron.com/entertainment/article/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
     ampWebUrl: "https://www.chron.com/entertainment/amp/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "URI weighs revoking honorary degree from ex-Trump adviser"
-    excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alumnus who briefly served as President Donald Trump’s national security adviser."
-    publishedDateTime: 2021-06-01T22:09:00Z
-    webUrl: "https://www.chron.com/news/article/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
-    ampWebUrl: "https://www.chron.com/news/amp/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
     type: article
     provider:
       name: Houston Chronicle

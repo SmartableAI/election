@@ -98,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-02-fec-spares-trump-but-fines-tabloid-publisher-for-hush-money-payment-to-ex-playboy-model-who-claimed-affair-with-him.md",
+      "title": "FEC spares Trump but fines tabloid publisher for hush-money payment to ex-Playboy model who claimed affair with him",
+      "excerpt": "The decision came in response to a complaint that the company’s $150,000 payment to Karen McDougal months before the 2016 election was an illegal in-kind corporate contribution to Trump’s presidential campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/fec-karen-mcdougal-ami-trump/2021/06/01/b2f6c6e4-c322-11eb-93f5-ee9558eecf4b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/fec-karen-mcdougal-ami-trump/2021/06/01/b2f6c6e4-c322-11eb-93f5-ee9558eecf4b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DOAKAMATPAI6RJUM5E3UDCAXBY.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/fec-karen-mcdougal-ami-trump/2021/06/01/b2f6c6e4-c322-11eb-93f5-ee9558eecf4b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/fec-karen-mcdougal-ami-trump/2021/06/01/b2f6c6e4-c322-11eb-93f5-ee9558eecf4b_story.html?outputType=amp",
+      "publishedDateTime": "2021-06-01T18:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-us-ends-trump-era-immigration-policy-that-forced-asylum-seekers-to-wait-in-mexico-for-hearings-in-immigration-court.md",
       "title": "US ends Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in immigration court",
       "excerpt": "The Biden administration on Tuesday formally ended a Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in U.S. immigration court.",
@@ -1491,58 +1543,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-son-ghostwriter-of-late-senator-say-trump-intervened-to-stop-probe-of-patriots-spygate-scandal.md",
-      "title": "Son, ghostwriter of late senator say Trump intervened to stop probe of Patriots' Spygate scandal",
-      "excerpt": "A hard-charging United States senator from Pennsylvania named Arlen Specter had launched an investigation into the Spygate scandal. He tried to determine how many games the New England Patriots' illegal videotaping operation of opposing coaches' signals had helped the team win and learn why the NFL,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "originalUrl": "https://abcnews.go.com/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "publishedDateTime": "2021-05-26T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

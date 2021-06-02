@@ -3,8 +3,8 @@ category: news
 title: "Biden: I Am Tasking VP Kamala Harris With Voting Rights, \"Among Her Many Other Responsibilities\""
 excerpt: "President Joe Biden said on Tuesday \"we're going to overcome again\" when he announced he will be tasking Vice President Kamala Harris with issues tied to voting rights. \"To signify the importance of our efforts,"
 publishedDateTime: 2021-06-01T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/01/biden_i_am_tasking_vp_kamala_harris_with_voting_rights_among_her_many_other_responsibilities.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/01/biden_i_am_tasking_vp_kamala_harris_with_voting_rights_among_her_many_other_responsibilities.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/01/biden_i_am_tasking_vp_kamala_harris_with_voting_rights_among_her_many_other_responsibilities.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/01/biden_i_am_tasking_vp_kamala_harris_with_voting_rights_among_her_many_other_responsibilities.html#!"
 type: article
 quality: 67
 heat: 67
@@ -25,6 +25,6 @@ images:
     height: 636
     isCached: true
 
-secured: "uWvidcNbVDupQPZJSH9+i4bHLrGImJ6Vx1g/deQ6845uytENK32jBRW4HaPkTHUTHEm8kcm7mK+omOPjC/T66wNp6dAq5N6GTT1AryAMNxVEXdxwuNrOOHUol7iCHGP4peg7P+BjUcsTprm81awY2ldNmWT7HHLoRS88qTwF9DMY44qeCP6GX9FBTmxy72zJEdQ7Xq6++hT7O+/aumez2A8KpdnjKYUkqYTD8Sp6NdoJ20BQ1IbRBx1u9iQujRIKBo7sthOQKoB5Jx0SKgize2sG2R483vISW8q5IuvaTozv7/O/eMvMyKQsNeHPpRrOOyjqx9aJ2qJusdh34nMuWuhuQ1ZlwsJ6UjCqhn1ZbUPrJH9OORL3PfsT77pdwt/FJpHxYLZ6Nxi8Pm1vMgSHvKH6s66FG1L2Jthz6OfsjOCK2AZEAEfQeDT02gVveLfCfqBxF2A+5GimtVbDw2zRN9nYNTtE8oOhPAHJKV4OBuvUFwWZvoC5szpdsvrHMw/CPQ1Xb7FSQ377swvvRysuJA==;Nxo6muyToV9RgoWrA2wdpA=="
+secured: "7gU3bKnCE9/pIwWGCwNReD7ZA2Fhf0hkrTJVKJxBQ7A4St4OVIANYuhZ92xaFo3pjjxmvH6GuGoZooXf7YPfbyHpU79fNsilcrbnz3kR1DM0QuYeKv7giRbszaYOpip11u9qGLVNjsjRy7r4t0JQySPjkKJXb8SORzio88jI6y41jU7B+/P4LPwUd4eCpID7DrkdCCvO/dvsVj/xN8wLWHubLKx/sh6s7H2JgpoCUmLtVj3JnvfKHYBLTiAf++Fw9W5PemEnJJju0i6CXZraFzKrmE2RXqpnhTRVFxHncPLOn8F7hdWMAeu4+uoSGkxMmwJx7eDUhMsfhQvBKDummgC7RdLfJXIIvL3htTTnt+I=;EJLP9udDqdFsOZ98OrZAhA=="
 ---
 

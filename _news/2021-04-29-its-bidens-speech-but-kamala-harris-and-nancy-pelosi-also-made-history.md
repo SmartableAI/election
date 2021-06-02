@@ -95,6 +95,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Kamala Harris will lead Biden administration’s push on voting rights"
+    excerpt: "Biden asks Vice President Kamala Harris to lead his administration's efforts to protect voting rights as many states work to add restrictions."
+    publishedDateTime: 2021-06-01T17:23:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-06-01/biden-kamala-harris-voting-rights-effort"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-06-01/biden-kamala-harris-voting-rights-effort?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-01/biden-kamala-harris-voting-rights-effort?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/c50eb33/2147483647/strip/true/crop/5324x3477+0+36/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4c%2F93%2F4d90380040309b4ca4e71d1f1089%2Fcongress-democrats-31298.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "VP Kamala Harris, Speaker Nancy Pelosi make history seated behind Biden at speech"
     excerpt: "Harris and Pelosi made history as the first women — one of them Black and Indian American — to share the stage in Congress during a presidential address."
     publishedDateTime: 2021-04-29T04:33:00Z

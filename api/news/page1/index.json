@@ -98,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-02-fec-spares-trump-but-fines-tabloid-publisher-for-hush-money-payment-to-ex-playboy-model-who-claimed-affair-with-him.md",
+      "title": "FEC spares Trump but fines tabloid publisher for hush-money payment to ex-Playboy model who claimed affair with him",
+      "excerpt": "The decision came in response to a complaint that the company’s $150,000 payment to Karen McDougal months before the 2016 election was an illegal in-kind corporate contribution to Trump’s presidential campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/fec-karen-mcdougal-ami-trump/2021/06/01/b2f6c6e4-c322-11eb-93f5-ee9558eecf4b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/fec-karen-mcdougal-ami-trump/2021/06/01/b2f6c6e4-c322-11eb-93f5-ee9558eecf4b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DOAKAMATPAI6RJUM5E3UDCAXBY.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/fec-karen-mcdougal-ami-trump/2021/06/01/b2f6c6e4-c322-11eb-93f5-ee9558eecf4b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/fec-karen-mcdougal-ami-trump/2021/06/01/b2f6c6e4-c322-11eb-93f5-ee9558eecf4b_story.html?outputType=amp",
+      "publishedDateTime": "2021-06-01T18:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-us-ends-trump-era-immigration-policy-that-forced-asylum-seekers-to-wait-in-mexico-for-hearings-in-immigration-court.md",
       "title": "US ends Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in immigration court",
       "excerpt": "The Biden administration on Tuesday formally ended a Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in U.S. immigration court.",
@@ -1290,62 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-texas-senate-passes-election-reform-bill-criticized-by-biden-after-closed-door-negotiations-all-night-debate.md",
-      "title": "Texas Senate passes election reform bill criticized by Biden after closed-door negotiations, all-night debate",
-      "excerpt": "Republicans in the Texas Senate took a big step toward tightening their state's election laws this weekend, prompting outcry from Democrats.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUK_Oegc9aI/texas-senate-election-reform-bill-biden-security",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUK_Oegc9aI/texas-senate-election-reform-bill-biden-security",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/168c5283-4842-412a-8322-5eced9ab2a41/09b74a5c-137c-4da4-ac4a-8ca8d445d604/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp",
-      "publishedDateTime": "2021-05-30T10:07:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

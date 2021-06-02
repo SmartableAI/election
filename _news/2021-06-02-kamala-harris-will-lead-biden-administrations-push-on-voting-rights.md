@@ -1,24 +1,34 @@
 ---
 category: news
-title: "Biden and Harris Release Tax Forms"
-excerpt: "President Joe Biden released tax forms on Monday showing that he and his wife, Jill Biden, earned just over $600,000 in 2020. The release resumed a presidential tradition of disclosure broken by Donald Trump."
-publishedDateTime: 2021-05-18T03:18:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-and-harris-release-tax-forms/"
-webUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-and-harris-release-tax-forms/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-and-harris-release-tax-forms/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/biden-and-harris-release-tax-forms/?amp=1"
+title: "Kamala Harris will lead Biden administration’s push on voting rights"
+excerpt: "Biden asks Vice President Kamala Harris to lead his administration's efforts to protect voting rights as many states work to add restrictions."
+publishedDateTime: 2021-06-01T17:23:00Z
+originalUrl: "https://www.latimes.com/politics/story/2021-06-01/biden-kamala-harris-voting-rights-effort"
+webUrl: "https://www.latimes.com/politics/story/2021-06-01/biden-kamala-harris-voting-rights-effort"
+ampWebUrl: "https://www.latimes.com/politics/story/2021-06-01/biden-kamala-harris-voting-rights-effort?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-01/biden-kamala-harris-voting-rights-effort?_amp=true"
 type: article
-quality: 70
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Los Angeles Times
+  domain: latimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/c50eb33/2147483647/strip/true/crop/5324x3477+0+36/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4c%2F93%2F4d90380040309b4ca4e71d1f1089%2Fcongress-democrats-31298.jpg"
+    width: 320
+    height: 209
+    isCached: true
 
 related:
   - title: "Watch live: Biden, Harris speak at virtual climate summit"
@@ -84,22 +94,6 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenharris.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Kamala Harris will lead Biden administration’s push on voting rights"
-    excerpt: "Biden asks Vice President Kamala Harris to lead his administration's efforts to protect voting rights as many states work to add restrictions."
-    publishedDateTime: 2021-06-01T17:23:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-06-01/biden-kamala-harris-voting-rights-effort"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-06-01/biden-kamala-harris-voting-rights-effort?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-01/biden-kamala-harris-voting-rights-effort?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 140
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/c50eb33/2147483647/strip/true/crop/5324x3477+0+36/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4c%2F93%2F4d90380040309b4ca4e71d1f1089%2Fcongress-democrats-31298.jpg"
-        width: 320
-        height: 209
         isCached: true
   - title: "It's Biden's speech, but Kamala Harris and Nancy Pelosi also made history"
     excerpt: "For the first time, two women flanked an American president on the dais of the House Chamber during his first address to a joint session of Congress."
@@ -1158,6 +1152,17 @@ related:
         width: 667
         height: 596
         isCached: true
+  - title: "Biden and Harris Release Tax Forms"
+    excerpt: "President Joe Biden released tax forms on Monday showing that he and his wife, Jill Biden, earned just over $600,000 in 2020. The release resumed a presidential tradition of disclosure broken by Donald Trump."
+    publishedDateTime: 2021-05-18T03:18:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-and-harris-release-tax-forms/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-and-harris-release-tax-forms/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/biden-and-harris-release-tax-forms/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 70
   - title: "Biden, Harris incomes dropped in 2020, tax returns show"
     excerpt: "Both Biden and Harris would end up paying higher tax rates under Biden's American Family Plan based on their incomes this year."
     publishedDateTime: 2021-05-18T16:58:00Z
@@ -1391,6 +1396,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "vharIzqFQlqzbdvCO7i6KVPaUEe3ZzCFoTdbqK0bOV0e8IhfStU+XXKDez60KDhZdw4udPUqZ+hqkR0y/J7sJ21gx5sCqJRWhd5qxnOmkagopdAw0Joneieo+/+czmhcxeWHUx3K6wjneypXfnteqmWXD+rieuMxHYIvoxQEwHLUcdxhdP5kufshxynaqAB/ezKXBk385mJPJxSeju4yyGcZttJxxfXyM2uDEHS7sAoCN6qYSdMxpnLiLhi3VJJXssYwwy2SuObNAUcHEQaClubt+7JdZ4HELRCr4+gNQFQjf0XuppRQ+Q2C6HRrZ8hl30Yeb9SDKyWBuXfcTFr9niPlT29VU86h2j+TVhIwS57kfn2Oq6oy7HtWgC6uDq6yojRzsp8ZSMMorW+BrAJ4cwuOkkMLnifR3KWRp/nYqbGRIKWR9RJXUy8bUv6vYapVAL+AsqXNEJlFNpfAAFx2dmgZPgwVz0/Fl4zwiNLQf9iWT1YpbcrlcIf0EuUEgfrWp7CMs9RN4Dq8ZqqCzcoAfw==;OUsrhR6kVSUaivG74cxg1A=="
+secured: "skrifoGccIoqebJdTXRvkp0BQyJ8U8fyN6+l2GWVMV5boty23QWnrHoOfvc6BvdlTMuty0fw6EdrHRfmbVx82Tu03Md8gAuQqvtSHc64V3ft8eeyBGVitDETAAsGDtPktn8rGYnec9G0xxnJq0LJ/w0UsFT1fjTBMFzTpzNyMpRAczXaKhUnMqtNnmpWYz2enbeXvGStyWS4XNJMjAL/C+/EmKDnsMNGunVCLyKjzm/eqKkpbFY3kYKWK1MrKWmTGsHi0kIjvkZ1/MATLKpH3mZi3OJXRlwq2/l3vB+B+7SgHEJ/VfGaybagurqeBGCm+n2ax9b7EtalF470B4hsCT6xZfEEshLuQlFzx2wok60=;n1JfSXCAbgsUsE1yzj3hTg=="
 ---
 

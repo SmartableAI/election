@@ -1,36 +1,53 @@
 ---
 category: news
-title: "Republican governors face the Trump litmus test as elections approach"
-excerpt: "Donald Trump is causing a headache for the Republican Governors Association.\n    \n"
-publishedDateTime: 2021-05-27T16:00:16Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
+title: "Trump's back. Here's what his re-entry means for 2024."
+excerpt: "His return to the electoral battlefield this weekend is the kickoff for a summer of rally stops designed to keep his base engaged for the midterms — and any possible comeback bid."
+publishedDateTime: 2021-06-01T18:55:00Z
+originalUrl: "https://www.nbcnews.com/politics/donald-trump/trump-s-back-here-s-what-his-re-entry-means-n1269136"
+webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-s-back-here-s-what-his-re-entry-means-n1269136"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269136"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269136"
 type: article
-quality: 190
-heat: 490
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/181103123215-02-doug-ducey-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479306/210601-donald-trump-al-0949.jpg"
+    width: 4265
+    height: 2683
     isCached: true
 
 related:
+  - title: "Republican governors face the Trump litmus test as elections approach"
+    excerpt: "Donald Trump is causing a headache for the Republican Governors Association.\n    \n"
+    publishedDateTime: 2021-05-27T16:00:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181103123215-02-doug-ducey-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's hold on GOP remains as he teases Texas AG endorsement"
     excerpt: "As Donald Trump seeks to remain a kingmaker in Republican politics, the former President teased an upcoming endorsement in an important statewide race in Texas.\n    \n"
     publishedDateTime: 2021-05-25T22:09:21Z
@@ -207,22 +224,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump's back. Here's what his re-entry means for 2024."
-    excerpt: "His return to the electoral battlefield this weekend is the kickoff for a summer of rally stops designed to keep his base engaged for the midterms — and any possible comeback bid."
-    publishedDateTime: 2021-06-01T18:55:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-s-back-here-s-what-his-re-entry-means-n1269136"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269136"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269136"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479306/210601-donald-trump-al-0949.jpg"
-        width: 4265
-        height: 2683
-        isCached: true
   - title: "POLITICO Playbook: GOP dreads the return of Trump rallies"
     excerpt: "But ONALD TRUMP’S return to the stump, predicting his rallies will cause a major headache for the party as it mounts a bid to take back Congress in 2022. Even as they tee off against Twitter and Facebook for banning Trump,"
     publishedDateTime: 2021-05-27T10:10:00Z
@@ -266,6 +267,6 @@ related:
         height: 629
         isCached: true
 
-secured: "NwAnD2eEMJbUrWPJib/kcCxuduJ6qaNsPISkK6vrvuHRcJlZbT2qRMLV0mO2SgJmB/VKrTNrZOGmbWdUwBTtzKhN5gXAJqXtNPqpRO/NfRI3QqzVCvVEQBX6LJEXPb79D4pmRok8G20SdzDUbhSF7kGiwc7E4c4KKg9WUF+gKWFfNwd+81PGcOQq6TH9DHYQ5L3jXmSg14SNzeIi0+Yjcl3PQwjafGcPDcDIlvaKJQgLybdWHFYCpAMigeI7jBzNMVB7hmhBbN1cZcca2RxvYHj+BoL4MCqaABU3Qq+G2Ghc3jZEJKkP97+nXxJNtCvibzFMrvSsOlag9h320F56E+bCOqthXvBASh7Ysy40OQI=;aGqfdnguJymGEob8hU14hA=="
+secured: "/4Y+tC3f3QylhGW+HVN4VDWzvS/2Ds+eVoSUHT4ZeMqy6A4f8LfGnjTPfb+OqmrjogyqgkollohprLC9PGqKthvHvlwwBMEc+AElAiJPpl4CRdkdLuezx8SakDeO4qK1YBvhLojmOy65BThqN2zzq7kYbcesNiG7z/NEZlZ/a+WMHYoUs0eqEahca2O/nrWM4ClELxIfl1hpJp0cZkAOgo+WWb4Iz/NtHqQDUFz0ma/NYXamMOkvK473LP41ID7FI1B+diqEDRepOhgKifUSwdGp4ynFTjbwr9c8n99D6ll2RDE65NzRc8uYgmiVKd/h4hk584pUtwOIKaN2bArg/G7E+cgZR3LbG6cHPidWl80=;rYIkXuxa2TTUr7r6Z5bf5A=="
 ---
 

@@ -1,36 +1,53 @@
 ---
 category: news
-title: "Republican governors face the Trump litmus test as elections approach"
-excerpt: "Donald Trump is causing a headache for the Republican Governors Association.\n    \n"
-publishedDateTime: 2021-05-27T16:00:16Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
+title: "2 Leading Manhattan D.A. Candidates Face the Trump Question"
+excerpt: "Alvin Bragg and Tali Farhadian Weinstein both have had dealings with President Donald J. Trump’s administration that Mr. Trump could try to use against them."
+publishedDateTime: 2021-06-02T09:00:00Z
+originalUrl: "https://www.nytimes.com/2021/06/02/nyregion/manhattan-district-attorney-trump.html"
+webUrl: "https://www.nytimes.com/2021/06/02/nyregion/manhattan-district-attorney-trump.html"
+ampWebUrl: "https://www.nytimes.com/2021/06/02/nyregion/manhattan-district-attorney-trump.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/02/nyregion/manhattan-district-attorney-trump.amp.html"
 type: article
-quality: 190
-heat: 490
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/181103123215-02-doug-ducey-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/06/01/nyregion/00trumpinvestigation1/00trumpinvestigation1-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
+  - title: "Republican governors face the Trump litmus test as elections approach"
+    excerpt: "Donald Trump is causing a headache for the Republican Governors Association.\n    \n"
+    publishedDateTime: 2021-05-27T16:00:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181103123215-02-doug-ducey-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's hold on GOP remains as he teases Texas AG endorsement"
     excerpt: "As Donald Trump seeks to remain a kingmaker in Republican politics, the former President teased an upcoming endorsement in an important statewide race in Texas.\n    \n"
     publishedDateTime: 2021-05-25T22:09:21Z
@@ -191,22 +208,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "2 Leading Manhattan D.A. Candidates Face the Trump Question"
-    excerpt: "Alvin Bragg and Tali Farhadian Weinstein both have had dealings with President Donald J. Trump’s administration that Mr. Trump could try to use against them."
-    publishedDateTime: 2021-06-02T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/06/02/nyregion/manhattan-district-attorney-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/02/nyregion/manhattan-district-attorney-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/02/nyregion/manhattan-district-attorney-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/01/nyregion/00trumpinvestigation1/00trumpinvestigation1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump's back. Here's what his re-entry means for 2024."
     excerpt: "His return to the electoral battlefield this weekend is the kickoff for a summer of rally stops designed to keep his base engaged for the midterms — and any possible comeback bid."
     publishedDateTime: 2021-06-01T18:55:00Z
@@ -266,6 +267,6 @@ related:
         height: 629
         isCached: true
 
-secured: "NwAnD2eEMJbUrWPJib/kcCxuduJ6qaNsPISkK6vrvuHRcJlZbT2qRMLV0mO2SgJmB/VKrTNrZOGmbWdUwBTtzKhN5gXAJqXtNPqpRO/NfRI3QqzVCvVEQBX6LJEXPb79D4pmRok8G20SdzDUbhSF7kGiwc7E4c4KKg9WUF+gKWFfNwd+81PGcOQq6TH9DHYQ5L3jXmSg14SNzeIi0+Yjcl3PQwjafGcPDcDIlvaKJQgLybdWHFYCpAMigeI7jBzNMVB7hmhBbN1cZcca2RxvYHj+BoL4MCqaABU3Qq+G2Ghc3jZEJKkP97+nXxJNtCvibzFMrvSsOlag9h320F56E+bCOqthXvBASh7Ysy40OQI=;aGqfdnguJymGEob8hU14hA=="
+secured: "CmL8zXhSjSqIX9bd2AA0nOrsvcCUvERgBnUSWfaIdW8tIS660cDDks6InAKj+ZrgRJ+fPNu12tZx9vQJmMSuEGx8eGjmN3ZsGFnMkfAO30RcJTwTktxOYfHiNT87fqkJtPy0DuYvWg474dfSboOY5S6AyL6MslneYmnTmyjeQMc+8Aw5LYY2XqsE4fdF701BS42zkJ6tlaUfnfyPwWCMTa7wQZ0OyiUPIIyMHvgOpCqX4zY54VyCC+rhavCEEdzw/9RzokMgUW73oNyMVSPTvp4vPZZRaiF5YbO+G++z/o+2QgXFwqsc+fjvql+COdA4al7soT2ydK/oWHMoZl7EzpE7iiGribeoh8h2Aq5J3HI=;tGC9HUs9dhvVqdK06GpKyA=="
 ---
 

@@ -1,29 +1,33 @@
 ---
 category: news
 title: "URI weighs revoking honorary degree from ex-Trump adviser"
-excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alumnus who briefly served as President Donald Trump’s national security adviser."
-publishedDateTime: 2021-06-01T22:09:00Z
-originalUrl: "https://www.chron.com/news/article/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
-webUrl: "https://www.chron.com/news/article/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
-ampWebUrl: "https://www.chron.com/news/amp/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
+excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alum who briefly served as President Donald Trump’s national security"
+publishedDateTime: 2021-06-01T21:09:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
+webUrl: "https://abcnews.go.com/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -484,6 +488,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "K5MEyWGzVSxDlp6o65H/WPwkkafXK6uV8N/gtlji3+rRfM103osQRmrvDpoxdgPG3aWtpu/vusndgVnDGayDBUH57VhQvdB8hlRw8SM/GvPvNt32J9qhRlj2ASSNEBBmVp/5rhDaEkKDWsQE22rW8Jls12GiuGO7z6K38qFYmIHk9py98YMvvdg0nBJgQAa7x74zhnDYI8zR40GPa0uOJQkaNozZ95qYvhjEU2E3xrVzWaf+eLhpXM1qV0y3PFtbi9Aatm++f48tg3lDijjZ7W+m7W2OkrpHGZAnPyp2aylrbkgb5MyzUE9SCi1Fu90bWS45dBjwH2GCM8XTF72Ldu0rqyPhUjjLyiZBBvU08VA=;hTc+S/1PpA2H2qOR4CAwrg=="
+secured: "PL3XcPbixWjPJ+fhpP+Jxb4CGZ+Zbsho8EQ9f5X5WN0jxDpOLwljfmUXN7wXPFJ022WKaX+7a0PFy434/B8dTRJD5MSl0cU2qAyrfoicceq14/be9/yl6dhEqKx6iivk83JfJaWFUU9lLCVsevhfyqJllvitls7NfHtUM7vL4FHTkyezGdwzVf0wJzs8JCJCvuEZu2E/bF+v46xHC1m8w2Njyy6PEkOsRhbWJaMqOz9MGk2lj0YhQNUwJFFwIEYAs9lj+nStxHd/wPhhe7hgAo8sv1Scsqr8zycRcIxWUsGbxsehzDdKX3GTxje+Zf9nW4MZyeE/Ff/8TyAC5FZ8Kwm1Dlmu62dK2b/7GWbi+Sc=;T7tGSI5ILoF5N7AVYbsXTA=="
 ---
 

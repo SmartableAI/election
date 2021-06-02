@@ -191,6 +191,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "2 Leading Manhattan D.A. Candidates Face the Trump Question"
+    excerpt: "Alvin Bragg and Tali Farhadian Weinstein both have had dealings with President Donald J. Trump’s administration that Mr. Trump could try to use against them."
+    publishedDateTime: 2021-06-02T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/06/02/nyregion/manhattan-district-attorney-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/02/nyregion/manhattan-district-attorney-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/02/nyregion/manhattan-district-attorney-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/01/nyregion/00trumpinvestigation1/00trumpinvestigation1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump's back. Here's what his re-entry means for 2024."
+    excerpt: "His return to the electoral battlefield this weekend is the kickoff for a summer of rally stops designed to keep his base engaged for the midterms — and any possible comeback bid."
+    publishedDateTime: 2021-06-01T18:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-s-back-here-s-what-his-re-entry-means-n1269136"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269136"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269136"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479306/210601-donald-trump-al-0949.jpg"
+        width: 4265
+        height: 2683
+        isCached: true
   - title: "POLITICO Playbook: GOP dreads the return of Trump rallies"
     excerpt: "But ONALD TRUMP’S return to the stump, predicting his rallies will cause a major headache for the party as it mounts a bid to take back Congress in 2022. Even as they tee off against Twitter and Facebook for banning Trump,"
     publishedDateTime: 2021-05-27T10:10:00Z
