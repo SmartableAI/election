@@ -223,6 +223,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Trump shuts down blog he started less than a month ago – US politics live"
+    excerpt: "Adviser Jason Miller says ‘From the Desk of Donald J Trump’ has been deleted and will not return – follow all the day’s politics news"
+    publishedDateTime: 2021-06-02T14:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/c43de41b362ebf37ff372fd91b3d28972316ff7f/0_92_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe10d6968746da7a7fa6d46f9436c927"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Justice Department appeals judge’s order to release Trump obstruction memo"
     excerpt: "The Biden administration will appeal a judge’s order to release a memo on whether former President Trump obstructed justice during the Russia probe."
     publishedDateTime: 2021-05-25T08:06:00Z

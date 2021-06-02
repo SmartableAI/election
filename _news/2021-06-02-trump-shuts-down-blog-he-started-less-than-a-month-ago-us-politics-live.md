@@ -1,20 +1,22 @@
 ---
 category: news
-title: "New York Prosecutor Convenes Grand Jury in Criminal Investigation of Donald Trump"
-excerpt: "Manhattan District Attorney Cyrus Vance Jr. is conducting a wide-ranging investigation into Donald Trump's business dealings."
-publishedDateTime: 2021-05-26T02:30:00Z
-originalUrl: "https://time.com/6051259/donald-trump-criminal-grand-jury-new-york/"
-webUrl: "https://time.com/6051259/donald-trump-criminal-grand-jury-new-york/"
+title: "Trump shuts down blog he started less than a month ago – US politics live"
+excerpt: "Adviser Jason Miller says ‘From the Desk of Donald J Trump’ has been deleted and will not return – follow all the day’s politics news"
+publishedDateTime: 2021-06-02T14:41:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
 type: article
-quality: 100
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Time
-  domain: time.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://api.time.com/wp-content/uploads/2021/05/Trump-grand-jury.jpg"
-    width: 1024
-    height: 711
+  - url: "https://i.guim.co.uk/img/media/c43de41b362ebf37ff372fd91b3d28972316ff7f/0_92_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe10d6968746da7a7fa6d46f9436c927"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -237,22 +239,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Trump shuts down blog he started less than a month ago – US politics live"
-    excerpt: "Adviser Jason Miller says ‘From the Desk of Donald J Trump’ has been deleted and will not return – follow all the day’s politics news"
-    publishedDateTime: 2021-06-02T14:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/c43de41b362ebf37ff372fd91b3d28972316ff7f/0_92_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe10d6968746da7a7fa6d46f9436c927"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Justice Department appeals judge’s order to release Trump obstruction memo"
     excerpt: "The Biden administration will appeal a judge’s order to release a memo on whether former President Trump obstructed justice during the Russia probe."
     publishedDateTime: 2021-05-25T08:06:00Z
@@ -430,6 +416,20 @@ related:
         width: 700
         height: 525
         isCached: true
+  - title: "New York Prosecutor Convenes Grand Jury in Criminal Investigation of Donald Trump"
+    excerpt: "Manhattan District Attorney Cyrus Vance Jr. is conducting a wide-ranging investigation into Donald Trump's business dealings."
+    publishedDateTime: 2021-05-26T02:30:00Z
+    webUrl: "https://time.com/6051259/donald-trump-criminal-grand-jury-new-york/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 100
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/05/Trump-grand-jury.jpg"
+        width: 1024
+        height: 711
+        isCached: true
   - title: "Trump's Ex-Advisor Says COVID-19 Pandemic Was Fabricated To Control 2020 Elections"
     excerpt: "Donald Trump’s former National Security Advisor Michael Flynn has alleged that the COVID-19 pandemic was fabricated to control the 2020 U.S. election. Flynn, a retired general who is one of the most well-known figures in the QAnon conspiracy theory,"
     publishedDateTime: 2021-05-24T02:26:00Z
@@ -504,6 +504,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "CLtmNF/TH1d0AVeHrHuNNTaAinpUYDrgyPt5sf4il9/whC9qHFwCaJwNJy/1X39vc6vXZoQA/oDMOfETeSVwJK34FFZomo8w9/2Ig/6GWnYFHemKA07afzuE5NeehdeJT/FaIYeD/a3J5ZTyjB6AxrEa4wDPThigcoxiI6eXqtBYmxowewRxI1iketAGjLQ6jdLRd7FCJ/DMxP0Em4q7aBH/lOPwwY432l/bT+ewbCViFZDD7LMcnbEaH1FYybpC+zxQKxaI2xrpEsUUau8e29okqTOkG/Jb5RP1A16pXiKa23YZQtmQKXMbcOwjGvQEk1h6xBrBNZumXHxgMy6lJVwurWlgCiz5jhfFQbvAqqgbPJXiDpjbkP1XSBXOX87V9MDngYTXOgC/7aM8AEWUAUlCU0ecdP63Yv8nFZxag0NVCwTos5GRbRlFZJKwPLiAv9SKCMiljXOyKKWS/VLYUKAg7DwkrK/QorVPaRiL1rba5zHs4R5ZgLV1gnSUNnT/Nam2p5OFpD4PFtbfhp5krw==;Ckme7jsVFPT9GNkrg3P2xQ=="
+secured: "lOnqVY+G7jaXyVZ5MPYf54HdozFavwmDsC4D9Isf1biKGuqyu1eKYQdBMkeUk2hYkHt03qZu0QAjuIZcahhBlEGrlswFS7Mdz/jUsEeCXP2BImHH2RyJe5YH7yPKD7QyMyuBQhE65ySiKer6etz3hqXfJ11mOlL5wKLDJSpciA9QFID8ByqGLTOUoYOhxxuDM0tA1oBcsUMAYkVWtFa5ta7fsP3ahGNY7zOjbzwhCbiFS4r80y9aWTBGG3WiI8DAj4xmkZDeyJLykZLLnqK6Ho4l5hrIIZ7etGhCL2Wu7nE3jyTBpgkreGrB9147rzsCeCK0+Il1Wxe03DMRX/eCuHHXVAem5As18+7tRLQqblA=;KpKyjfCwDy3ySVVfqR8sCg=="
 ---
 

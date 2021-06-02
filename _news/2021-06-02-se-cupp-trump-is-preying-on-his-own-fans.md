@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Republican governors face the Trump litmus test as elections approach"
-excerpt: "Donald Trump is causing a headache for the Republican Governors Association.\n    \n"
-publishedDateTime: 2021-05-27T16:00:16Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
+title: "SE Cupp: Trump is preying on his own fans"
+excerpt: "CNN's SE Cupp reacts to New York Times reporting that former President Trump is telling those around him that he expects to be reinstated to the presidency by August.\n    \n"
+publishedDateTime: 2021-06-02T11:43:17Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TehDUz9Yi2E/trump-reinstatement-claims-nyt-cupp-newday-vpx.cnn"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TehDUz9Yi2E/trump-reinstatement-claims-nyt-cupp-newday-vpx.cnn"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/06/02/trump-reinstatement-claims-nyt-cupp-newday-vpx.cnn"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/02/trump-reinstatement-claims-nyt-cupp-newday-vpx.cnn"
 type: article
-quality: 190
-heat: 510
-published: true
+quality: 175
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,12 +25,28 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/181103123215-02-doug-ducey-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602070317-se-cupp-newday-6-2-2021-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
+  - title: "Republican governors face the Trump litmus test as elections approach"
+    excerpt: "Donald Trump is causing a headache for the Republican Governors Association.\n    \n"
+    publishedDateTime: 2021-05-27T16:00:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xsbnjn3Qoas/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181103123215-02-doug-ducey-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's hold on GOP remains as he teases Texas AG endorsement"
     excerpt: "As Donald Trump seeks to remain a kingmaker in Republican politics, the former President teased an upcoming endorsement in an important statewide race in Texas.\n    \n"
     publishedDateTime: 2021-05-25T22:09:21Z
@@ -76,22 +92,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210503160416-01-donald-trump-phone-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "SE Cupp: Trump is preying on his own fans"
-    excerpt: "CNN's SE Cupp reacts to New York Times reporting that former President Trump is telling those around him that he expects to be reinstated to the presidency by August.\n    \n"
-    publishedDateTime: 2021-06-02T11:43:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TehDUz9Yi2E/trump-reinstatement-claims-nyt-cupp-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/06/02/trump-reinstatement-claims-nyt-cupp-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/02/trump-reinstatement-claims-nyt-cupp-newday-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602070317-se-cupp-newday-6-2-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -282,6 +282,6 @@ related:
         height: 629
         isCached: true
 
-secured: "NwAnD2eEMJbUrWPJib/kcCxuduJ6qaNsPISkK6vrvuHRcJlZbT2qRMLV0mO2SgJmB/VKrTNrZOGmbWdUwBTtzKhN5gXAJqXtNPqpRO/NfRI3QqzVCvVEQBX6LJEXPb79D4pmRok8G20SdzDUbhSF7kGiwc7E4c4KKg9WUF+gKWFfNwd+81PGcOQq6TH9DHYQ5L3jXmSg14SNzeIi0+Yjcl3PQwjafGcPDcDIlvaKJQgLybdWHFYCpAMigeI7jBzNMVB7hmhBbN1cZcca2RxvYHj+BoL4MCqaABU3Qq+G2Ghc3jZEJKkP97+nXxJNtCvibzFMrvSsOlag9h320F56E+bCOqthXvBASh7Ysy40OQI=;aGqfdnguJymGEob8hU14hA=="
+secured: "1u8VV7A9+oSeHxPL9JXyb9replWgCYokf7dpiZF22aJDLPPDEtfeYGUkdZ508+4xkWCBGN5nKrQTk5PWZpGAp4fwinWJVADrwdF6DHT2c3R1/DKBZwI2ypqxwkp6ipQg4VY2oC8o207PoX0cWimzZD0D3gi1RTZjf5U37rm/bTzqX6AS5xqPrMWTChWaqg8iAnxlxYrAg56ShdbXYVwDLUOBedUwhp8LSZhtCSzE7/HskVd0UQtAZ93bVKwcWF3vPWXl4EgNZLyUSAwrof0UIbFXYeZrB/dGTVKNX15v7lJ933GiXeu5mLnga8KlLehmEd78dQ63gCtkhuvXr1WrpB5wCqVgRwfyrOn4wrxPIg8=;01RnTLHETHXCFmCWMMtxKA=="
 ---
 

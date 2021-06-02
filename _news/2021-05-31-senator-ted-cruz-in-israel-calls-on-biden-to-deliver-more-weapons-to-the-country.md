@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliv
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5?amp"
 type: article
 quality: 119
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Morrison expected to discuss China and climate change in first one-on-one with Biden at G7"
+    excerpt: "Australian prime minister to visit Singapore and explore potential travel bubble ahead of summit in Cornwall"
+    publishedDateTime: 2021-06-02T06:35:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jun/02/morrison-expected-to-discuss-china-and-climate-change-in-first-one-on-one-with-biden-at-g7"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jun/02/morrison-expected-to-discuss-china-and-climate-change-in-first-one-on-one-with-biden-at-g7"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jun/02/morrison-expected-to-discuss-china-and-climate-change-in-first-one-on-one-with-biden-at-g7"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
+    images:
+      - url: "https://i.guim.co.uk/img/media/0a7222074fb55c4a71c11b92cd656fab2b73fda8/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b6696de207fa392fc74da274615771a9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Here's a closer look at Air Force One and the presidential motorcade during Biden's trip to Detroit"
     excerpt: "In an unusual occurrence, the location where photographers were allowed to photograph Air Force One landing was also on the motorcade route."
     publishedDateTime: 2021-05-24T16:03:00Z
