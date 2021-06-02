@@ -173,6 +173,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden honors forgotten victims of Tulsa massacre"
+    excerpt: "President Joe Biden became the first sitting president to commemorate the Tulsa race massacre, declaring on the 100th anniversary, he came \"to fill the silence” about one of the nation’s darkest and long suppressed moments of racial violence."
+    publishedDateTime: 2021-06-01T23:16:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/01/biden-honors-forgotten-victims-tulsa-massacre/7498414002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4fc02ba9-94fd-4a3e-bc8c-2c95923283cf_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "President Joe Biden asks US intelligence officials to investigate COVID origin"
     excerpt: "President Joe Biden on Wednesday asked U.S. intelligence officials to “redouble” their efforts to investigate the origins of the COVID-19 pandemic, including the unlikely possibility that the origins of the virus trace to Chinese lab."
     publishedDateTime: 2021-05-26T17:51:00Z

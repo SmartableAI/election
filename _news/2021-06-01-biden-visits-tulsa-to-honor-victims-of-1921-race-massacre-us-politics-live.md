@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
 type: article
 quality: 122
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -79,7 +79,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden in Tulsa: I came to 'help fill the silence'"
+    excerpt: "I came to 'help fill the silence' Posted . Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma site where hundreds o"
+    publishedDateTime: 2021-06-01T23:22:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEFKRX7J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210601&i=OVEFKRX7J&r=OVEFKRX7J&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
-secured: "WOFmcTyPsXdqs9pCbgoQ1CAv8pzJT9AOH27nQPnEkR/sF82CEBzMVubayIohqGxbPT4lh9B8GaENMycF+Vvv5bq5qOvS/X6o1mao1aIjcJlOfy7SoWA/GsvmYduDcJdQweyrzac9J0pealTDq4Eatc8rFTARA2gHe8A73jgB0V5ahExTAurI3qrs5WAYYjHFTar2SVdM4OLpPQGUoLq6wd7h/znH+3PocwdNH6IwLbJ7zYcQazUfEK0z4LelsxZdhVlCogHHxJ5b3kWIiCYuXniRmVa+cCE9rfz3Tu050uzAZVh2GD/ymCd9L05ALHTbznoUm0lDOb9vRHDxO9mcYC8PXvHzx0XiDl2GZw5/hXI=;Wn0xAuHjDhPvwO9z/BvTWA=="
+secured: "RGEKdck/k39xhp4ratJ1HUF5fIGahZY8CFSPHK7ous3V08siD1TZK4fgWVN3gXZ2xvsfWi7lamKXRYbeHauIwPwe0m5IobTyZVOpktD3y43Q3SNB28HbxO2Uc6wVvyqd637Pz+J+bRE5wuguiz2X6HLQXvcIQxHSNmn0+7hlZ5I4BtNEQEn1dexf5R4fuu6Ea+itL5Lu64w3QASdJ/OBKnaak26zScdOnbVfuVK9spzJJlFPPT5rHvesWO5GVkGXCRanEGNtIASOQVgqFjJdYi0uSsA3NRkL35+2vXtzoLQdh9d07BPwjU0HRflJueEo5+NF0G34St4VrDEZil1lQSe4W+lHlitEQVbV+URHFmU=;2vssJLfnEzCObRA0wyv7rQ=="
 ---
 

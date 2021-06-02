@@ -434,6 +434,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "URI weighs revoking honorary degree from ex-Trump adviser"
+    excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alumnus who briefly served as President Donald Trump’s national security adviser."
+    publishedDateTime: 2021-06-01T22:09:00Z
+    webUrl: "https://www.chron.com/news/article/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
+    ampWebUrl: "https://www.chron.com/news/amp/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump Irate, Lashes Out After Grand Jury Seated For Trump Organization Probe"
     excerpt: "Manhattan's top prosecutor recently convened a grand jury to decide whether indictments should be issued against Donald Trump over potential financial misconduct."
     publishedDateTime: 2021-05-26T03:38:00Z
@@ -466,15 +482,6 @@ related:
         width: 6720
         height: 4480
         isCached: true
-  - title: "URI Weighs Revoking Honorary Degree From Ex-Trump Adviser"
-    excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alum who briefly served as President Donald Trump’s national security adviser."
-    publishedDateTime: 2021-06-01T21:08:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-01/uri-weighs-revoking-honorary-degree-from-ex-trump-adviser"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "pHDOxf/PK8pW+RUgGGlVvfFEvtVcSxYdpI0jrCutrcbcfBI+Z7DQFJw1K2youlKTz2v/se9AaqYUBt/NGAlZ3t694a2h+XzUHLZ2IA22KhdTVrXsoSTEclZ4AnXgYPfpVRjRPp6Ug1SmE6Aijm6Z6gV/RaL/Ux4JBfX/Px4TYmSa+2Kme/0pjBjPR75nmnBwinCK+fyjiEf6ZiZWJfa44lBgW4+NVhnoMkkWueWQp9LQUtQ3l0eZfOVvzeuPgr3XZdYVsnVVFWS9Q8nJK6NLSo5M7pCVKaD44jVjlfsvVoqMA0mLUhK/8HoKELVTfvGamIzqYn+hddEO3fM+7woEkBg6aRF73OObY3AP3DlRdscu1HWZrtaIR6AIjlMf+RFBCgmtCZkQcZyHi6s3VgiaFTkvmYhR9GEWWl2L+sulwG4P8YvVA8RmZkhEqTRZudINRdls+kV0BDu4YE4YT/s5oM2PQz0ubaFO6wf3SUKfMSGdG6PnnKuhSB/IcDPypDhXK0jp7bG9atx0DVyaInpuhQ==;Phv2X+BXtsyjYRSksZ6QkA=="
 ---

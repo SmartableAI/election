@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D62SK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SK"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/28/6e5426c3-f4e4-400e-b205-c3a9e55c0fd9/thumbnail/1200x630/670d5b3fb8b2df4a1b63ee9753d356c8/0528-cbsn-bidenvaccinerollout-replace-725115-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden honors forgotten victims of Tulsa massacre"
+    excerpt: "President Joe Biden became the first sitting president to commemorate the Tulsa race massacre, declaring on the 100th anniversary, he came \"to fill the silence” about one of the nation’s darkest and long suppressed moments of racial violence."
+    publishedDateTime: 2021-06-01T23:16:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/01/biden-honors-forgotten-victims-tulsa-massacre/7498414002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4fc02ba9-94fd-4a3e-bc8c-2c95923283cf_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "President Joe Biden asks US intelligence officials to investigate COVID origin"
     excerpt: "President Joe Biden on Wednesday asked U.S. intelligence officials to “redouble” their efforts to investigate the origins of the COVID-19 pandemic, including the unlikely possibility that the origins of the virus trace to Chinese lab."

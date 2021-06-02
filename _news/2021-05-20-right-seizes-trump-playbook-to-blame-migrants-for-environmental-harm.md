@@ -430,6 +430,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "URI weighs revoking honorary degree from ex-Trump adviser"
+    excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alumnus who briefly served as President Donald Trump’s national security adviser."
+    publishedDateTime: 2021-06-01T22:09:00Z
+    webUrl: "https://www.chron.com/news/article/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
+    ampWebUrl: "https://www.chron.com/news/amp/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump Irate, Lashes Out After Grand Jury Seated For Trump Organization Probe"
     excerpt: "Manhattan's top prosecutor recently convened a grand jury to decide whether indictments should be issued against Donald Trump over potential financial misconduct."
     publishedDateTime: 2021-05-26T03:38:00Z
@@ -462,15 +478,6 @@ related:
         width: 6720
         height: 4480
         isCached: true
-  - title: "URI Weighs Revoking Honorary Degree From Ex-Trump Adviser"
-    excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alum who briefly served as President Donald Trump’s national security adviser."
-    publishedDateTime: 2021-06-01T21:08:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-01/uri-weighs-revoking-honorary-degree-from-ex-trump-adviser"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
   - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
     excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
     publishedDateTime: 2021-05-22T11:00:00Z

@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden taps Harris to lead White House fight to expand voting rights"
+    excerpt: "President Biden appointed Vice President Kamala Harris to lead the White House effort to bolster voting rights, adding to a growing list of responsibilities she’s in charge of, including addressing the “root causes” of migration in Central America and expanding access to broadband."
+    publishedDateTime: 2021-06-01T22:02:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w5f3inx0QTs/biden-harris-expand-voting-rights"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-expand-voting-rights.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-expand-voting-rights.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c819f4d-29e3-40e1-a5eb-928bef64e622/7b993a18-9673-4ecf-a637-462dd7d51236/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden, Harris shock DC diners with unannounced visit to popular restaurant"
     excerpt: "President Biden on Monday had his first known sit-down visit to a DC restaurant since becoming president — joined by Vice President Kamala Harris and their spouses after a Memorial Day event at Arlington National Cemetery."
     publishedDateTime: 2021-05-31T22:14:26Z

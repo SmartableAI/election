@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'Hell was unleashed': Biden urges reckoning on race at Tulsa massacre anniversary, taps Harris to lead on voting rights"
+    excerpt: "For 100 years, the Tulsa race massacre went largely ignored by sitting U.S. presidents, until now, as Pres. Joe Biden grapples with racial justice."
+    publishedDateTime: 2021-06-01T22:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/01/biden-meeting-tulsa-race-massacre-survivors-100th-anniversary/5253875001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5253875001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5253875001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/28/USAT/bc6287e1-071c-4bb3-bd42-5078d38d15af-Biden_Friday.jpg?auto=webp&crop=5999,3375,x0,y600&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden to award 1st Medal of Honor to retired Georgia colonel"
     excerpt: "The White House says President Joe Biden will award his first Medal of Honor on Friday to retired Col. Ralph Puckett Jr., for acts of bravery 70 years ago during the Korean War"
     publishedDateTime: 2021-05-19T20:32:00Z

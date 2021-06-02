@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Biden announces initiatives to combat racial wealth gap following 100 year mark since Tulsa Race Massacre"
+    excerpt: "President Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, neighborhood of Greenwood to pay tribute to the victims of the 1921 race massacre. CBS News Chief White House correspondent Nancy Cordes and CBSN political contributor and Associated Press White House reporter Zeke Miller join \"Red and Blue\" anchor Elaine Quijano with more on a new White House initiative that aims to combat the racial wealth gap and the latest on a ransomware attack targeting the world's largest meat supplier."
+    publishedDateTime: 2021-06-01T23:06:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-announces-initiatives-to-combat-racial-wealth-gap-following-100-year-mark-since-tulsa-race-massacre/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 83
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/01/b8478a57-b48c-4053-a05c-5b3605eb7392/thumbnail/1200x630/40f94852de021c1cd5f5c030bb4ffc12/cbsn-fusion-president-biden-announces-initiatives-to-combat-racial-wealth-gap-following-100-year-mark-since-tulsa-race-massacre-thumbnail-726730-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Joe Biden says Texas voting bill is “part of an assault on democracy”"
     excerpt: "Senate Bill 7, a Republican priority voting bill, would limit early voting hours, curtail local voting options and further clamp down on mail-in voting, among several other provisions."
     publishedDateTime: 2021-05-29T18:23:00Z
@@ -167,6 +181,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "lGcf1Kmx+OvrPGIz80f6RL/hfNbSoPYJij410A2vIyc/kyFgqhgIUnk1xHLS9JCOoJqkn4CZ8OLrW57RzM9IurnYR+IqKlMSeJVZdpxkb4f5wVxLjnH8Rcfi59eAa3dNiPH015BCLgMZwEZQLE1x43zgxpwlDRQwQkPlFv09Kafbh+3AtQrpx829B3RBAvRdptbfMMwC2VSYBNwvL4Vmr4EWRNLpg+u4C/FXLAOM35jZ9sWnha4kpNsAR2JjBTyoVX5UDEeLOCv7PbQfSrPAK6MOmw8ovFeq6GYzAvusifu1m6/4ICE9iHi4Nzf3plBnlHj9c1qplxuf3ukP/s9z1vN9HOcnFIqfKipbq9mg7mE=;w4DFAuiYPWHpsXFD4BLGCQ=="
+secured: "/3gR7BVP8T6t2uzh1/mgdBDwn/z2qlJMzPSNULDEDe12wE7MkTTSBHN9U8jHIIBS4+caFhzei5wO06GqsetavDExMRCmjT1glY2htDQygSvHwl2JU0QWZ+RwQQH7YPfD2Tp3ScOsaMrbj8fZE66HwrHJkBP0rdxS7Or7vh7X81uT3IxjEIhoBPkQAk1iMJXIk7FRc9+o8Pgm5xSQFDjbU3Fksh0HJnWjZ5GqJhhacER3TdUjMToVBKBZBOw1qqTwVxtbVCQl5OXpZMxc5DaRubgDs1nxu95lVJsLySkiMZdmNlu8OMpVKy8DpJYxJpAT2Q8lUdUO4oQGdVKZHmqaElpeXfnyG00ogfNzPo3Eom+AjmbTDJPsDwnQRg/TNh3P3NJppW6mrwxZXCydFu1lzRLOyKFHK3CRw8eEXLvouJEmVNmG9aGFuFQshZRF/RcJqb0aFGQ5tGkQKStA5KcHh9oPt4r8uOMTaQVx0KbEFah0tO0Smvt9i/ZqqqFiTv5r5bRTkSsjW+kj1ndUeahsow==;4A2FP3wqum2EQoYZLHw0Fg=="
 ---
 

@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Biden announces initiatives to combat racial wealth gap following 100 year mark since Tulsa Race Massacre"
+    excerpt: "President Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, neighborhood of Greenwood to pay tribute to the victims of the 1921 race massacre. CBS News Chief White House correspondent Nancy Cordes and CBSN political contributor and Associated Press White House reporter Zeke Miller join \"Red and Blue\" anchor Elaine Quijano with more on a new White House initiative that aims to combat the racial wealth gap and the latest on a ransomware attack targeting the world's largest meat supplier."
+    publishedDateTime: 2021-06-01T23:06:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-announces-initiatives-to-combat-racial-wealth-gap-following-100-year-mark-since-tulsa-race-massacre/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 83
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/01/b8478a57-b48c-4053-a05c-5b3605eb7392/thumbnail/1200x630/40f94852de021c1cd5f5c030bb4ffc12/cbsn-fusion-president-biden-announces-initiatives-to-combat-racial-wealth-gap-following-100-year-mark-since-tulsa-race-massacre-thumbnail-726730-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden’s administration sides with Massachusetts in income tax dispute with New Hampshire"
     excerpt: "Federal officials are siding with Massachusetts in the fight over whether the state can tax N.H. telecommuters during the COVID-19 pandemic"
     publishedDateTime: 2021-05-27T22:50:00Z

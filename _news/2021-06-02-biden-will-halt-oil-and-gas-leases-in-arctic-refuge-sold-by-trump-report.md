@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden taps Harris to lead White House fight to expand voting rights"
+    excerpt: "President Biden appointed Vice President Kamala Harris to lead the White House effort to bolster voting rights, adding to a growing list of responsibilities she’s in charge of, including addressing the “root causes” of migration in Central America and expanding access to broadband."
+    publishedDateTime: 2021-06-01T22:02:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w5f3inx0QTs/biden-harris-expand-voting-rights"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-expand-voting-rights.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-expand-voting-rights.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c819f4d-29e3-40e1-a5eb-928bef64e622/7b993a18-9673-4ecf-a637-462dd7d51236/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "George Floyd’s family meets with Biden, Harris on anniversary of his death"
     excerpt: "The family of George Floyd met with President Biden and Vice President Kamala Harris Tuesday, on the anniversary of Floyd’s death, and demanded police reform be passed."
     publishedDateTime: 2021-05-25T21:12:13Z
@@ -267,6 +283,6 @@ related:
         height: 500
         isCached: true
 
-secured: "D+zh51j7BGhPc7UiQOzbwqn2QqjDsDMK9Xgnq+sW4UgkhD0Pl6nqJK5zgGSz6+rFpQfJBwnc/YUrKFDLvG6V+ZvgDLlhCfevrxZRMUu1gco/qQoJs5c6KdjFY5/WnXgELPaGKPJTtPpmFGjabP6LKMC3q0Rl8hubBZvU6RHZW5MTVg7FSyuvUBN0OaOecylU545FN72O/MrwTTd2QpX+7P1ZrdQvW0mZSQJLV2zfB4sOz/c5TEq4skF0OTT5bUdRyR3t6af67xEIs6GFkbIKZB9HRyL//pWi4tEoA0E96PQBkyckpyH2jbw8XaASQVC1qKxd+xjHSuYQUEirla3rws5grTuDLPVd6jXto+JXMlc=;yZVUCujSs7xH0nj+62o0OQ=="
+secured: "VYzpp/d1aj2YKpIubpsdVZ5I4u6XIFNzqx9/tk2WDGBbyveka5SPJvOhfgY4Yf23/MEj7je/4zw3VIs9WZqtiAODEzfKFbKIOkImBM/YixvlRGherNuRt7yl1tR6CtlTywbSSkZUT1X0yV4SH9wzEY1KF++vHYcQmWX2tj8Z2c2VUm7k7oRd6jeLGBQV/SJGaetnlxiKG0oJhcf6E26PbAOkmZrC3gc+5lDRX8pC0bkYH3Q/4An8ObGMXpjpb3i54+cCUiIqKiJRsI2vBqe+8Xlkja96OQ5wzPmGpjqC8gylObj/UZ+wLrkslkLDQuD13irwSLLcZt9x/ic3LvK0UYyniFsg4iXcMsVvz5Up1QJdqH7ziwUnVirssCd5o7HPiYbFdXWFr6IVK5lrQwETwkSvY2J0Scd2GRk4XsfPJXj79Ax2fYIzhwo5QA1DL2AOnkhABEbG/MBExaEBDHinwuAVnyDU/X4x857zhL5stxUWmffvQfKsrhvGZcPigbyTa+TSOpC8jJ80T4VuD9jRUg==;KCQjhO7dA4mOD21WXeiinQ=="
 ---
 

@@ -255,6 +255,38 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Biden suspends Trump-era oil and gas leases in Alaska refuge"
+    excerpt: "U.S. President Joe Biden's administration on Tuesday said it would suspend oil and gas leases that had been handed out in an Alaska wildlife refuge during the final days of the Trump administration pending an environmental review."
+    publishedDateTime: 2021-06-01T20:39:00Z
+    webUrl: "https://www.reuters.com/article/legal-usa-biden-drilling/biden-suspends-trump-era-oil-and-gas-leases-in-alaska-refuge-idUSKCN2DD4KA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DD4KA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DD4KA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210601&t=2&i=1564127782&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5023Q"
+        width: 810
+        height: 545
+        isCached: true
+  - title: "Biden suspends Trump-era oil drilling leases in Alaska’s Arctic refuge"
+    excerpt: "Interior department order follows a temporary moratorium on oil and gas lease activities imposed by president on first day in office"
+    publishedDateTime: 2021-06-01T21:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/01/biden-suspends-oil-drilling-leases-alaska-arctic-refuge-trump-era"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/01/biden-suspends-oil-drilling-leases-alaska-arctic-refuge-trump-era"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/01/biden-suspends-oil-drilling-leases-alaska-arctic-refuge-trump-era"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/9df9db192b1345e5a76eb157a7a3a507cb626256/0_0_2200_1560/master/2200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9dc72cbafa60289f8c1b674a7a6e297d"
+        width: 600
+        height: 426
+        isCached: true
   - title: "Biden keeps Trump-era cap on refugee admissions, breaking earlier pledge"
     excerpt: "Instead, the president is adjusting the allocation limits and lifting restrictions on resettlements from Somalia, Syria and Yemen"
     publishedDateTime: 2021-04-16T17:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7448404002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7448404002"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/31/1adcd6f9-4f61-4be3-96ed-ca279865ef9e/thumbnail/1200x630/07e268c94be4fe6cb21f8ac59e353c23/cbsn-fusion-biden-memorial-day-2021-arlington-national-cemetery-thumbnail-726179-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "President Biden announces initiatives to combat racial wealth gap following 100 year mark since Tulsa Race Massacre"
+    excerpt: "President Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, neighborhood of Greenwood to pay tribute to the victims of the 1921 race massacre. CBS News Chief White House correspondent Nancy Cordes and CBSN political contributor and Associated Press White House reporter Zeke Miller join \"Red and Blue\" anchor Elaine Quijano with more on a new White House initiative that aims to combat the racial wealth gap and the latest on a ransomware attack targeting the world's largest meat supplier."
+    publishedDateTime: 2021-06-01T23:06:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-announces-initiatives-to-combat-racial-wealth-gap-following-100-year-mark-since-tulsa-race-massacre/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 83
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/01/b8478a57-b48c-4053-a05c-5b3605eb7392/thumbnail/1200x630/40f94852de021c1cd5f5c030bb4ffc12/cbsn-fusion-president-biden-announces-initiatives-to-combat-racial-wealth-gap-following-100-year-mark-since-tulsa-race-massacre-thumbnail-726730-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

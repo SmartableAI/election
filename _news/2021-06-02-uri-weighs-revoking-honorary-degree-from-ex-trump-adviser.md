@@ -1,26 +1,30 @@
 ---
 category: news
-title: "URI Weighs Revoking Honorary Degree From Ex-Trump Adviser"
-excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alum who briefly served as President Donald Trump’s national security adviser."
-publishedDateTime: 2021-06-01T21:08:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-01/uri-weighs-revoking-honorary-degree-from-ex-trump-adviser"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-06-01/uri-weighs-revoking-honorary-degree-from-ex-trump-adviser"
+title: "URI weighs revoking honorary degree from ex-Trump adviser"
+excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alumnus who briefly served as President Donald Trump’s national security adviser."
+publishedDateTime: 2021-06-01T22:09:00Z
+originalUrl: "https://www.chron.com/news/article/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
+webUrl: "https://www.chron.com/news/article/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
+ampWebUrl: "https://www.chron.com/news/amp/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/URI-weighs-revoking-honorary-degree-from-ex-Trump-16217594.php"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "U.S. judge says Trump's election falsehoods still pose security risk"
@@ -480,6 +484,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "kbqxMqmIk/9HO6QzvZYMUAbBcQgYvXtb5WRdVqNprbBABlmtdPV4vYdLRr03oZdYWmam0HvzOEkWL7zS2TGFXvjjhMVC8ut2lM6wqH/OYHaJz7X/6YTJS+lofM4GVMU1pABXuhIbMcmJkBbQ/hRpxFtz4vMTolIQF7jbYpoEWrHR/I+ezV2FX6G7fxJKlb6JJcmX6D4dw7M10b9F/Jh3lH56yu5PPSQgCyHmLuCQC4jBxX8PuVulg6Y0xlN5dWZmBH6bBu68psARJVuetsAYZ1PhoqPC8JlUrl8x/3VHSBh3/vh9TYU94MyU/sTPZ0wqmT8nU+wils3q7HGLKYg+1+6oXVmWTrTBbKFwDTLjtYc=;onH3V1KET5vnYwTznfrTCA=="
+secured: "K5MEyWGzVSxDlp6o65H/WPwkkafXK6uV8N/gtlji3+rRfM103osQRmrvDpoxdgPG3aWtpu/vusndgVnDGayDBUH57VhQvdB8hlRw8SM/GvPvNt32J9qhRlj2ASSNEBBmVp/5rhDaEkKDWsQE22rW8Jls12GiuGO7z6K38qFYmIHk9py98YMvvdg0nBJgQAa7x74zhnDYI8zR40GPa0uOJQkaNozZ95qYvhjEU2E3xrVzWaf+eLhpXM1qV0y3PFtbi9Aatm++f48tg3lDijjZ7W+m7W2OkrpHGZAnPyp2aylrbkgb5MyzUE9SCi1Fu90bWS45dBjwH2GCM8XTF72Ldu0rqyPhUjjLyiZBBvU08VA=;hTc+S/1PpA2H2qOR4CAwrg=="
 ---
 

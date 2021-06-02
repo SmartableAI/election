@@ -79,6 +79,20 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Biden in Tulsa: I came to 'help fill the silence'"
+    excerpt: "I came to 'help fill the silence' Posted . Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma site where hundreds o"
+    publishedDateTime: 2021-06-01T23:22:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEFKRX7J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210601&i=OVEFKRX7J&r=OVEFKRX7J&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "ffQgHHvFCEO2eY5F1eW01rhz12FoNheedX3/ZKhTn3exu7qGxTHdDBnyuNyGgY629mRom6hM47F7UIXbR8rJRbj7y71+Dxr2zNv3oj6T93LaoIrhXozF4Y3MH5Y8Oc/TzRE6ilI4HUBRk60s1LvJoPCN0qVrH6eSU2Hat5wGhGXSJyHbQ75IK7vnTPK6jgrNLu073KBpkXzWgx+tpPGyEt/t8gaeNCB/O7NoQFK08uOfUiMkoje9waJTA+Xa4G+o8tXiuBjTQKsXb18ewDHP05oKiqOfRwzbgKl18QnDh5NchIOJRkDxQz3avtDdH2eo5KkLlK5gIOJxM769cucxU6JcyZd3x6cEkk8O0Woi1sxWduPARD6JemZ//NLWVwTcywpS+gEIUARjOx7yFHUxWSrP0yJvUV5GTMSv0m1glc9tdOBGd6rtgkYsju5Dc355S/fe7O2mGKFLUnHSHexc7zHvhHla124kY1ogOs4R+/KCoxfv5RXvsy2IiJuu2IMGKyQ9vd5f1KHtqBWyh723pg==;wjsKcJpEb1JFtJkNqVyUJQ=="
 ---
