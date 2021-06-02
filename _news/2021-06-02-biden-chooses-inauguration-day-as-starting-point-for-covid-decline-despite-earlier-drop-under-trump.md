@@ -1,14 +1,14 @@
 ---
 category: news
-title: "George Floyd’s family meets with Biden, Harris on anniversary of his death"
-excerpt: "The family of George Floyd met with President Biden and Vice President Kamala Harris Tuesday, on the anniversary of Floyd’s death, and demanded police reform be passed."
-publishedDateTime: 2021-05-25T21:12:13Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NklDUaT8VDA/george-floyds-family-biden-harris-anniversary-death"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NklDUaT8VDA/george-floyds-family-biden-harris-anniversary-death"
-ampWebUrl: "https://www.foxnews.com/politics/george-floyds-family-biden-harris-anniversary-death.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-floyds-family-biden-harris-anniversary-death.amp"
+title: "Biden chooses Inauguration Day as starting point for COVID decline despite earlier drop under Trump"
+excerpt: "Biden picked Jan. 20, the day he became president, as a starting point to note the decline, but daily cases had peaked Jan. 8 and had drastically fallen already by that date, as they continued to fall."
+publishedDateTime: 2021-06-02T20:59:44Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GK0BjO5D-6c/biden-inauguration-day-covid-decline"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GK0BjO5D-6c/biden-inauguration-day-covid-decline"
+ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-day-covid-decline.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-day-covid-decline.amp"
 type: article
-quality: 198
+quality: 176
 heat: -1
 published: false
 
@@ -23,10 +23,9 @@ provider:
 topics:
   - Election
   - Republican Voice
-  - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Floyd-Family-White-House-AP.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21153662932182.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -61,6 +60,22 @@ related:
     quality: 200
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c819f4d-29e3-40e1-a5eb-928bef64e622/7b993a18-9673-4ecf-a637-462dd7d51236/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "George Floyd’s family meets with Biden, Harris on anniversary of his death"
+    excerpt: "The family of George Floyd met with President Biden and Vice President Kamala Harris Tuesday, on the anniversary of Floyd’s death, and demanded police reform be passed."
+    publishedDateTime: 2021-05-25T21:12:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NklDUaT8VDA/george-floyds-family-biden-harris-anniversary-death"
+    ampWebUrl: "https://www.foxnews.com/politics/george-floyds-family-biden-harris-anniversary-death.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-floyds-family-biden-harris-anniversary-death.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 198
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Floyd-Family-White-House-AP.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -143,22 +158,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden chooses Inauguration Day as starting point for COVID decline despite earlier drop under Trump"
-    excerpt: "Biden picked Jan. 20, the day he became president, as a starting point to note the decline, but daily cases had peaked Jan. 8 and had drastically fallen already by that date, as they continued to fall."
-    publishedDateTime: 2021-06-02T20:59:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GK0BjO5D-6c/biden-inauguration-day-covid-decline"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-day-covid-decline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-day-covid-decline.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21153662932182.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
   - title: "Kamala Harris greets South Korean president ahead of Biden meeting"
     excerpt: "Vice President Kamala Harris exchanged pleasantries with South Korean President Moon Jae-in the White House-adjacent Eisenhower Executive Office Building."
@@ -303,6 +302,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Asewsuzin+b4xyC3visf1s/2wkVyg/2FXkZdQ1xBc3GrSqFXMqHMj+e7gsBBoXhMiTXYdXETwvG3vH0TCq8ObUvdGAZji+ueF676/4HIDN0sPGrsGdvX+QDW5IEeY3JC/qmQoSDBtG+SSCUY6IqJrXuA2PfP1LOeWIrYTtDwYGNEU1dGIdk3jtMnQJgLVyLZnPhQnrbAl3dfHOW11GrkV76h+6t/Wnf7jSGwTEI2EepW8g2u2WBXayALlgRLQgbs7MhBYBu13H7yfphLs2GTuwq6GkdPlmbI3Fl/AGx7vR+/L3bkvwVQAgpn0XJfPc2r/wkc2qe6/PUS9p3rl+YDmEvpQ0zWAawl2E7j/DsmAB4=;YcnkXj4LqYEPDHs2LaXVvA=="
+secured: "Bzj6sZy948sE07uTUt4HB+Z9HgLkcu55YKnLZZOtvZ27TQHqan6lTmE+I4n4xaxtNaTPDgrtJ31A6VGK43InzSvN8L5WtYeY2faOjfdjSmpKnKSXiQ8zap6dcmJGanzpY/m/q8kc8U/6nDHn8RDfRd7pnwyuPk5J0dgHUF3g52YEmmfmglY3ciL4m6jXPL11r0vkLVZqKV1Xk6pe8A/BR+/NOfq2PvUJS9GKKvzSvlSWA8HzdHb5dpERR2dT8qR/QqKqYGkkljQO3E9zAzhVupwopZvxSNIWvuc6THic2CF7qr301VYBv/kg8lvsWta8PWsj5gIviybUEa06dZ0WLEO/5dCHkwFazWoZODUbBd8=;FiAxugwftqJLc1Y/J+MHDg=="
 ---
 

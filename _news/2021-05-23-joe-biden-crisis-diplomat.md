@@ -154,6 +154,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden chooses Inauguration Day as starting point for COVID decline despite earlier drop under Trump"
+    excerpt: "Biden picked Jan. 20, the day he became president, as a starting point to note the decline, but daily cases had peaked Jan. 8 and had drastically fallen already by that date, as they continued to fall."
+    publishedDateTime: 2021-06-02T20:59:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GK0BjO5D-6c/biden-inauguration-day-covid-decline"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-day-covid-decline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-day-covid-decline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21153662932182.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris greets South Korean president ahead of Biden meeting"
     excerpt: "Vice President Kamala Harris exchanged pleasantries with South Korean President Moon Jae-in the White House-adjacent Eisenhower Executive Office Building."
     publishedDateTime: 2021-05-21T15:56:00Z

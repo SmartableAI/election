@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp"
 type: article
 quality: 171
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden announces new incentives, including free beer, to reach COVID vaccination goal"
+    excerpt: "President Biden on Wednesday declared June a “national month of action” to take aim at the coronavirus pandemic, urging Americans to get vaccinated."
+    publishedDateTime: 2021-06-02T21:06:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lEy89UR2WD4/biden-announces-new-incentives-including-free-beer-to-reach-covid-vaccination-goal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-announces-new-incentives-including-free-beer-to-reach-covid-vaccination-goal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-announces-new-incentives-including-free-beer-to-reach-covid-vaccination-goal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Stakes high as Biden meets GOP Sen. Capito on infrastructure amid progressive push to leave Republicans behind"
     excerpt: "President Biden and Sen. Shelley Moore Capito will meet Wednesday afternoon for high-stakes talks on a potential infrastructure deal as the two parties' proposals are hundreds of billions of dollars apart and progressive Democrats push Biden to ditch negotiations and go it alone with a Democrats-only"
     publishedDateTime: 2021-06-02T12:17:16Z

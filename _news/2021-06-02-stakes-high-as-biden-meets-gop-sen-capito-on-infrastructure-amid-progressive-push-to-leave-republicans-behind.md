@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden announces new incentives, including free beer, to reach COVID vaccination goal"
+    excerpt: "President Biden on Wednesday declared June a “national month of action” to take aim at the coronavirus pandemic, urging Americans to get vaccinated."
+    publishedDateTime: 2021-06-02T21:06:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lEy89UR2WD4/biden-announces-new-incentives-including-free-beer-to-reach-covid-vaccination-goal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-announces-new-incentives-including-free-beer-to-reach-covid-vaccination-goal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-announces-new-incentives-including-free-beer-to-reach-covid-vaccination-goal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Blackburn presses Biden on WHO probe into COVID origins, amid renewed scrutiny of Wuhan lab"
     excerpt: "EXCLUSIVE: Sen. Marsha Blackburn, R-Tenn., has written to President Biden to press him about ongoing concerns with the World Health Organization's investigation into the origins of the COVID-19 outbreak -- amid renewed scrutiny of the Wuhan Institute of Virology, where some believe the pandemic may have"
     publishedDateTime: 2021-05-25T15:30:33Z

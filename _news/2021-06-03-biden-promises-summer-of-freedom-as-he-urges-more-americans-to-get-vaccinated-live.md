@@ -2,9 +2,9 @@
 category: news
 title: "Biden promises ‘summer of freedom’ as he urges more Americans to get vaccinated – live"
 excerpt: "The more people we get vaccinated, the more success we’re going to have,’ president says – follow all the day’s politics news"
-publishedDateTime: 2021-06-02T18:22:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b7d7df8f082ac930ae856e"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b7d7df8f082ac930ae856e"
+publishedDateTime: 2021-06-02T18:39:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b7c5fe8f08b9889b366e60"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b7c5fe8f08b9889b366e60"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 360
         isCached: true
 
-secured: "lNEamniD09zNLRsWZD+wO2zxomgycTESb973qULQGwP7B0aA5q/U5Cirht2LVw6qDBrudbc3O8KX3WtVYanLr6o4DwAqhX5GGTZMyd4quy2l6sFnebnCk0ukAB+hJFNqrUpp8oWiFUS/XNNbsuidVssgGx6S+2B3W6mErchbswYieuxaqx0E1AYwSU6lIak8ETpZljHjwimoh6DH/7tMslyTTPHavlbkO/ItjI54p6ZJFWUHf5Ma/M/2uZZ1/8fE75gLV0bOtoS9Zf8P7DLP07HjkfwxAozWTYB8P2tUk3d+q6QfKU6kHtSuQpOdX9GE51LPSHez+mSxTpyswp9Os1uHwikJaOc75epZTP75/94=;cGtXEnIWTHjx9vLWjT+fVg=="
+secured: "eW7Z+sYaZ1/KMB9Dgy5rUtRqjZGZ5+3LT/uN+3iHK8LzvXVG4lD2XGhQBNlfZviIbtQVOKo9xITGfw+l6s5wjJ67VcuqJUu0+WPoRvsHsIv4q+fE0E8ajY/BU8fm9Mtm6G0olpxgzNL0w7EflpidkOSuNmjfP07OAHWqMLP2dXvV3GLXmFm2sCVZBWzYbvpyzuMXDka7mQAlk4HLsx0EOrH+QgyErd5o0N9sY3+JotFYQGTvQiUJlOIkapYsdwKCrOv11p0jRVOHSCtmGzHS1QClz0wfbOuHlFUTzBQRRQ0CdB7TRW00QVVkBagzffTl+FUSJtTdAA9dklzT8YhAZMA0WWuBDRUH1+hQNOoZPIo=;fDjzGK07bKCZrHu7Rn5sCA=="
 ---
 

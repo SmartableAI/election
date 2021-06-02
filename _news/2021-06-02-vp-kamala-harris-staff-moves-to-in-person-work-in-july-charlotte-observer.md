@@ -100,18 +100,18 @@ related:
         height: 324
         isCached: true
   - title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
-    excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), explains the 13-page fragment a Mishnah that he used when U.S. Vice President Kamala Harris swore him in in the Eisenhower Executive Office Building in Washington, D.C. on ..."
+    excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
     publishedDateTime: 2021-06-02T17:02:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9815cf5ed9d3044f9ed32dd3365ed237/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/20af5c1df2147ca7d8a53f8f48d85d07/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9815cf5ed9d3044f9ed32dd3365ed237/HARRIS-LANDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/20af5c1df2147ca7d8a53f8f48d85d07/HARRIS-LANDER.jpg"
         width: 650
-        height: 433
+        height: 432
         isCached: true
 
 secured: "SEU3xjWi18HoxFlUF9e6FvrUgxhhBbBPvwCFe7aE6hKpRo+/U27xAgPmZH5F17j2zspVBHo+/1xVlcoSxHUweJv6bwjLjPU/OcCr5Nlhm8lnmrrOBlbtF01hkzvF4E/IxGrCmRmL9dn8sa3xrmYvmzoN6hdhUl9wQTx/kxVquwrmIio0u+E6HJs+5ZEZODgXo/oW9wEUYAqZ5y/s/bzvnlEdaA9kPJnf1vXiMmAZ8UCS1Xc0W8Diw3rftCpwts933dMgh7OB3FQqRY6nr/rPmZRVWykYnUkvhzP6iZDjJH9enAn0oOZSpXL2vTCZrHCbO/L0PfZ3BgpfFYdiFTHKrvsrWQQS4uYbpzZW4rZW0zuOT2hUo+ZiQ8ElYlQHcdRGlTir7lT5bR3R3mHtctMt+bVNPJzXI9oJUCr90dgYzwmOLD58tNVxoJEZhntlUU/k+/noPHrXvzHwVACNuXhcTOFoG3v34xZNGlE7UAZpgjuzmB2j9SvUPMO+sHhCKZZSe96qjRa94+xHsVHqqMgOfw==;xkDU6QBBwzJPQ+wURBNnJQ=="

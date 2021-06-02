@@ -184,7 +184,7 @@ related:
   - title: "Corrupt Media Gives Biden a Pass on Hunter's Sleazy Dealings"
     excerpt: "When it comes to President Joe Biden and his family, that's a lot. Read Full Article »"
     publishedDateTime: 2021-06-02T12:18:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/02/corrupt_media_gives_biden_a_pass_on_hunters_sleazy_dealings_544109.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/06/02/corrupt_media_gives_biden_a_pass_on_hunters_sleazy_dealings_544109.html"
     type: article
     provider:
       name: RealClearPolitics
