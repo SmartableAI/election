@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to push $6 trillion U.S. budget for next fiscal year -NYT"
-excerpt: "President Joe Biden will seek $6 trillion in U.S. federal spending for the 2022 fiscal year, rising to $8.2 trillion by 2031, the New York Times reported on Thursday, a day before the White House is expected to unveil its budget proposal."
-publishedDateTime: 2021-05-30T12:49:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-budget-report/biden-to-propose-6-trillion-u-s-budget-for-in-2022-fiscal-year-nyt-idUSKCN2D81JM"
-webUrl: "https://www.reuters.com/article/us-usa-biden-budget-report/biden-to-propose-6-trillion-u-s-budget-for-in-2022-fiscal-year-nyt-idUSKCN2D81JM"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81JM"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81JM"
+title: "Biden, GOP senator to meet as infrastructure deadline looms"
+excerpt: "President Joe Biden is set to meet with the top Republican negotiator on infrastructure, Sen. Shelley Moore Capito"
+publishedDateTime: 2021-06-02T04:16:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-gop-senator-meet-infrastructure-deadline-looms-78033174"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-gop-senator-meet-infrastructure-deadline-looms-78033174"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-gop-senator-meet-infrastructure-deadline-looms-78033174"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-gop-senator-meet-infrastructure-deadline-looms-78033174"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563615273&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0SB"
-    width: 860
-    height: 545
+  - url: "https://s.abcnews.com/images/Politics/WireAP_f31c9f06758e48e98c1f2a10ec488122_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden to push $6 trillion U.S. budget for next fiscal year -NYT"
+    excerpt: "President Joe Biden will seek $6 trillion in U.S. federal spending for the 2022 fiscal year, rising to $8.2 trillion by 2031, the New York Times reported on Thursday, a day before the White House is expected to unveil its budget proposal."
+    publishedDateTime: 2021-05-30T12:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-report/biden-to-propose-6-trillion-u-s-budget-for-in-2022-fiscal-year-nyt-idUSKCN2D81JM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81JM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81JM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563615273&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0SB"
+        width: 860
+        height: 545
+        isCached: true
   - title: "Biden to honor forgotten victims of Tulsa race massacre"
     excerpt: "President Joe Biden is set to mark the 100th anniversary of a massacre that wiped out a thriving Black community in Tulsa, Oklahoma"
     publishedDateTime: 2021-06-01T16:55:00Z
@@ -79,22 +95,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden, GOP senator to meet as infrastructure deadline looms"
-    excerpt: "President Joe Biden is set to meet with the top Republican negotiator on infrastructure, Sen. Shelley Moore Capito"
-    publishedDateTime: 2021-06-02T04:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-gop-senator-meet-infrastructure-deadline-looms-78033174"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-gop-senator-meet-infrastructure-deadline-looms-78033174"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-gop-senator-meet-infrastructure-deadline-looms-78033174"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f31c9f06758e48e98c1f2a10ec488122_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Joe Biden, Russia’s Vladimir Putin to meet next month for summit in Geneva"
     excerpt: "The two leaders’ scheduled meeting, set for June 16, is being tacked on to the end of Biden’s first international trip as president next month."
     publishedDateTime: 2021-05-25T14:22:00Z
@@ -110,6 +110,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Nyq+hUKtX3yl7I58QQAjLZ3MhCEpeMQL1c2OfsBrtuq3tCa0VzR3n9zfiLMKGBUsVvsKMwDdSvs4WV5ws2qXqsta3bpeJRemgP9QfThb337x0nAFHqH4MnqR+jhuhyJEAFkFlnTb6FfTdJaVuORR8fiQWkD2EGGDGPca61INZGA/5J4gNzdeN43mNdgRhRFPRnN/bTuLe/Y1kXs1l9HFr1RRnI3qD4llSyCw+m7uu9t4rUvMK+6R0N08yLnDZ36DRUfGou4UdMSmFkzl8ya2jRS6ZVQ0cqHTf3Y0jI9ZYMmPRl/XzwvSzx02kYzV+kSomWDN8vgj9lVxDLJ2bM4hz7RTyH3W5ZzU1XDCuvXrv3vNEHNxb6gstiOrl7VT2DVKHlRJNd87ejZT4/GeDg5XHu/y2Gc/MRYsJF9HbQu8jinXJRSsAiSMFQpjK5yj9GQ3Q9gvm2J+k9tDbImYW+my/UD4S5Un3+CrTgzQ6H6XK6uZv2iFc3MS+WurG2xFhoW1NiwBYGKQanXTQIwo/UhOVA==;9wU27vlmR0tzJOtRQNGgHA=="
+secured: "dKjDE9H/FKjo1AHKfzOiVDjjyj8SWrYK71Qq4nCX8D4Yu5Xat9Cp2O0TJ2W0Xk+kErS1EokYb57HAnwpKqKx/z5w/S4qNAQeh9Fsc334/imnSCJ5cQPwsH/LtAEJUwji01hXnz78ukuxjqbcaFlCwYY3PMsa/XsPeUREfiuBiO0LwyDZi0NM9gd77QAwoJGQpEMLkd5DRaOA+ABaXfypRrmULLvrkNvHVfheStVpXOCtedzKLxmYgGJ2D3Kfa391tzCaC9ptluGnzQokrYv0tVCr4jjtr279qZ1I/kylS8sYkNjZwWrr3iQisfudRdTxbgLOS91pDMM7R6+gYwNwsNfhs6QNYybANe+eB+Sa1as=;QDP0Yqs2ZcicYXIw0gCUeA=="
 ---
 

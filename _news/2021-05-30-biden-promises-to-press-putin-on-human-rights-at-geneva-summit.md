@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden, GOP senator to meet as infrastructure deadline looms"
+    excerpt: "President Joe Biden is set to meet with the top Republican negotiator on infrastructure, Sen. Shelley Moore Capito"
+    publishedDateTime: 2021-06-02T04:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-gop-senator-meet-infrastructure-deadline-looms-78033174"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-gop-senator-meet-infrastructure-deadline-looms-78033174"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-gop-senator-meet-infrastructure-deadline-looms-78033174"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f31c9f06758e48e98c1f2a10ec488122_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden, Russia’s Vladimir Putin to meet next month for summit in Geneva"
     excerpt: "The two leaders’ scheduled meeting, set for June 16, is being tacked on to the end of Biden’s first international trip as president next month."
     publishedDateTime: 2021-05-25T14:22:00Z
