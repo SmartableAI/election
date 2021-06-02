@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to raise Russia-based ransomware attacks in Putin meeting after US hit again"
+    excerpt: "President Biden is expected to raise the issue of Russia-based ransomware attacks with President Vladimir Putin during their summit in Geneva later this month, the White House said Wednesday."
+    publishedDateTime: 2021-06-02T18:30:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MJ69bhp65HU/biden-russia-based-ransomware-attacks-putin-meeting"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-russia-based-ransomware-attacks-putin-meeting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-based-ransomware-attacks-putin-meeting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden sends Xi, Putin warning while remembering son Beau, fallen troops in Memorial Day speech"
     excerpt: "President Biden sent a warning to the presidents of China and Russia during his Memorial Day address on Sunday."
     publishedDateTime: 2021-05-30T16:10:15Z

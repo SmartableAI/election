@@ -227,6 +227,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "National Enquirer owner fined for illegal Trump campaign aid"
+    excerpt: "A federal election watchdog fined the publisher of the National Enquirer $187,500 for a payment it made to keep under wraps a story about former President Donald Trump’s alleged affair with a former P"
+    publishedDateTime: 2021-06-02T19:37:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/national-enquirer-owner-fined-illegal-trump-campaign-aid-78046983"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/national-enquirer-owner-fined-illegal-trump-campaign-aid-78046983"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/national-enquirer-owner-fined-illegal-trump-campaign-aid-78046983"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d4b0e2d85c864d3abe3703cf1aa81846_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump shuts down blog he started less than a month ago – US politics live"
     excerpt: "Adviser Jason Miller says ‘From the Desk of Donald J Trump’ has been deleted and will not return – follow all the day’s politics news"
     publishedDateTime: 2021-06-02T14:41:00Z
@@ -497,6 +513,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg"
         width: 6720
         height: 4480
+        isCached: true
+  - title: "Trump Pulls Own Blog From Internet"
+    excerpt: "Donald Trump has canceled his own blog, an advisor announced Wednesday, highlighting the ex-president and election conspiracy theorist's struggle to escape the social media wilderness. The blog \"will not be returning,"
+    publishedDateTime: 2021-06-02T17:00:00Z
+    webUrl: "https://www.ibtimes.com/trump-pulls-own-blog-internet-3215387"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/02/the-former-presidents-blog-from-the-desk-of.jpg"
+        width: 1024
+        height: 696
         isCached: true
 
 secured: "pHDOxf/PK8pW+RUgGGlVvfFEvtVcSxYdpI0jrCutrcbcfBI+Z7DQFJw1K2youlKTz2v/se9AaqYUBt/NGAlZ3t694a2h+XzUHLZ2IA22KhdTVrXsoSTEclZ4AnXgYPfpVRjRPp6Ug1SmE6Aijm6Z6gV/RaL/Ux4JBfX/Px4TYmSa+2Kme/0pjBjPR75nmnBwinCK+fyjiEf6ZiZWJfa44lBgW4+NVhnoMkkWueWQp9LQUtQ3l0eZfOVvzeuPgr3XZdYVsnVVFWS9Q8nJK6NLSo5M7pCVKaD44jVjlfsvVoqMA0mLUhK/8HoKELVTfvGamIzqYn+hddEO3fM+7woEkBg6aRF73OObY3AP3DlRdscu1HWZrtaIR6AIjlMf+RFBCgmtCZkQcZyHi6s3VgiaFTkvmYhR9GEWWl2L+sulwG4P8YvVA8RmZkhEqTRZudINRdls+kV0BDu4YE4YT/s5oM2PQz0ubaFO6wf3SUKfMSGdG6PnnKuhSB/IcDPypDhXK0jp7bG9atx0DVyaInpuhQ==;Phv2X+BXtsyjYRSksZ6QkA=="

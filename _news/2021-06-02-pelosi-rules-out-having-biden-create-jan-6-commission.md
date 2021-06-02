@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden pushes for US voting rights law as restrictions mount"
+    excerpt: "President Joe Biden has used the 100th anniversary of Tulsa’s race massacre to plea for sweeping legislation in Congress to protect the right to vote"
+    publishedDateTime: 2021-06-02T13:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-prioritizes-us-voting-rights-law-restrictions-mount-78033131"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-prioritizes-us-voting-rights-law-restrictions-mount-78033131"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-prioritizes-us-voting-rights-law-restrictions-mount-78033131"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_62e37325027448dba4f44219da62ca7d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden's big budget comes with a modest growth outlook for an aging country"
     excerpt: "President Joe Biden's first budget proposal comes with a big price tag - at $6 trillion, roughly 50% higher than pre-COVID-19 federal spending - but, at least for now, projects a relatively modest long-term lift to the economy,"
     publishedDateTime: 2021-05-28T23:30:00Z

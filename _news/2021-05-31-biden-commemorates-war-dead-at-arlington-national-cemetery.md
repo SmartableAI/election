@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden pushes for US voting rights law as restrictions mount"
+    excerpt: "President Joe Biden has used the 100th anniversary of Tulsa’s race massacre to plea for sweeping legislation in Congress to protect the right to vote"
+    publishedDateTime: 2021-06-02T13:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-prioritizes-us-voting-rights-law-restrictions-mount-78033131"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-prioritizes-us-voting-rights-law-restrictions-mount-78033131"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-prioritizes-us-voting-rights-law-restrictions-mount-78033131"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_62e37325027448dba4f44219da62ca7d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pelosi rules out having Biden create Jan. 6 commission"
     excerpt: "House Speaker Nancy Pelosi is ruling out a presidential commission to study the Jan. 6 insurrection at the U.S. Capitol"
     publishedDateTime: 2021-06-02T04:12:00Z

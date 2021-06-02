@@ -237,6 +237,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "National Enquirer owner fined for illegal Trump campaign aid"
+    excerpt: "A federal election watchdog fined the publisher of the National Enquirer $187,500 for a payment it made to keep under wraps a story about former President Donald Trump’s alleged affair with a former P"
+    publishedDateTime: 2021-06-02T19:37:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/national-enquirer-owner-fined-illegal-trump-campaign-aid-78046983"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/national-enquirer-owner-fined-illegal-trump-campaign-aid-78046983"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/national-enquirer-owner-fined-illegal-trump-campaign-aid-78046983"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d4b0e2d85c864d3abe3703cf1aa81846_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump shuts down blog he started less than a month ago – US politics live"
     excerpt: "Adviser Jason Miller says ‘From the Desk of Donald J Trump’ has been deleted and will not return – follow all the day’s politics news"
     publishedDateTime: 2021-06-02T14:41:00Z
@@ -493,6 +509,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg"
         width: 6720
         height: 4480
+        isCached: true
+  - title: "Trump Pulls Own Blog From Internet"
+    excerpt: "Donald Trump has canceled his own blog, an advisor announced Wednesday, highlighting the ex-president and election conspiracy theorist's struggle to escape the social media wilderness. The blog \"will not be returning,"
+    publishedDateTime: 2021-06-02T17:00:00Z
+    webUrl: "https://www.ibtimes.com/trump-pulls-own-blog-internet-3215387"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/02/the-former-presidents-blog-from-the-desk-of.jpg"
+        width: 1024
+        height: 696
         isCached: true
   - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
     excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."

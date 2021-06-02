@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "FEC fines National Enquirer publisher over Trump hush-money payment"
+    excerpt: "The Federal Election Commission on Tuesday said it had fined the publisher of the National Enquirer for its role in a \"hush-money\" payment made to quiet a woman who alleged an affair with former President Donald Trump during the 2016 election cycle, according to documents made public by Common Cause,"
+    publishedDateTime: 2021-06-02T17:57:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8MW085Jklgg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/fec-national-enquirer-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/fec-national-enquirer-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602114305-national-enquirer-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump shuts down his blog after less than a month"
     excerpt: "The blog page that former President Donald Trump launched less than one month ago, after his team suggested he'd be launching a major new social platform, has been permanently shuttered.\n    \n"
     publishedDateTime: 2021-06-02T15:39:10Z
@@ -254,6 +270,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479306/210601-donald-trump-al-0949.jpg"
         width: 4265
         height: 2683
+        isCached: true
+  - title: "National Enquirer publisher to pay $187,500 fine for Trump hush money payment"
+    excerpt: "The FEC found the cash the tabloid paid to keep Karen McDougal to keep quiet about her alleged affair with Donald Trump was an unlawful campaign contribution."
+    publishedDateTime: 2021-06-02T19:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/national-enquirer-publisher-pay-187-500-fine-trump-hush-money-n1269370"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269370"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269370"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479739/210602-2x1-karen-mcdougal-donald-trump-ew-238p.jpg"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "POLITICO Playbook: GOP dreads the return of Trump rallies"
     excerpt: "But ONALD TRUMP’S return to the stump, predicting his rallies will cause a major headache for the party as it mounts a bid to take back Congress in 2022. Even as they tee off against Twitter and Facebook for banning Trump,"
