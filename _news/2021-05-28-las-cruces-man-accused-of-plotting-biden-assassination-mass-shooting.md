@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7448404002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7448404002"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210601&i=OVEFKRU1R&r=OVEFKRU1R&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Biden Admin Doesn't Plan to Shut Down Texas Child Care Sites Housing Immigrant Kids Despite Gov. Abbott's Order"
+    excerpt: "\"We are assessing the Texas directive concerning licensed facilities providing care to unaccompanied children and do not intend to close any facilities as a result of the order,\" said a U.S. Health and Human Services Department spokeswoman."
+    publishedDateTime: 2021-06-02T17:35:00Z
+    webUrl: "https://www.newsweek.com/biden-admin-doesnt-plan-shut-down-texas-child-care-sites-housing-immigrant-kids-despite-gov-1596932"
+    ampWebUrl: "https://www.newsweek.com/biden-admin-doesnt-plan-shut-down-texas-child-care-sites-housing-immigrant-kids-despite-gov-1596932?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-doesnt-plan-shut-down-texas-child-care-sites-housing-immigrant-kids-despite-gov-1596932?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 105
+    images:
+      - url: "https://d.newsweek.com/en/full/1811574/abbott-disaster-declaration-child-care-facilities-migrants.jpg"
+        width: 2500
+        height: 1720
         isCached: true
   - title: "President Biden announces initiatives to combat racial wealth gap following 100 year mark since Tulsa Race Massacre"
     excerpt: "President Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, neighborhood of Greenwood to pay tribute to the victims of the 1921 race massacre. CBS News Chief White House correspondent Nancy Cordes and CBSN political contributor and Associated Press White House reporter Zeke Miller join \"Red and Blue\" anchor Elaine Quijano with more on a new White House initiative that aims to combat the racial wealth gap and the latest on a ransomware attack targeting the world's largest meat supplier."

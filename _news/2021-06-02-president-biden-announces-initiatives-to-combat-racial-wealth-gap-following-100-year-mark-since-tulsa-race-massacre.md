@@ -121,6 +121,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden Admin Doesn't Plan to Shut Down Texas Child Care Sites Housing Immigrant Kids Despite Gov. Abbott's Order"
+    excerpt: "\"We are assessing the Texas directive concerning licensed facilities providing care to unaccompanied children and do not intend to close any facilities as a result of the order,\" said a U.S. Health and Human Services Department spokeswoman."
+    publishedDateTime: 2021-06-02T17:35:00Z
+    webUrl: "https://www.newsweek.com/biden-admin-doesnt-plan-shut-down-texas-child-care-sites-housing-immigrant-kids-despite-gov-1596932"
+    ampWebUrl: "https://www.newsweek.com/biden-admin-doesnt-plan-shut-down-texas-child-care-sites-housing-immigrant-kids-despite-gov-1596932?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-doesnt-plan-shut-down-texas-child-care-sites-housing-immigrant-kids-despite-gov-1596932?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 105
+    images:
+      - url: "https://d.newsweek.com/en/full/1811574/abbott-disaster-declaration-child-care-facilities-migrants.jpg"
+        width: 2500
+        height: 1720
+        isCached: true
   - title: "President Joe Biden says Texas voting bill is “part of an assault on democracy”"
     excerpt: "Senate Bill 7, a Republican priority voting bill, would limit early voting hours, curtail local voting options and further clamp down on mail-in voting, among several other provisions."
     publishedDateTime: 2021-05-29T18:23:00Z

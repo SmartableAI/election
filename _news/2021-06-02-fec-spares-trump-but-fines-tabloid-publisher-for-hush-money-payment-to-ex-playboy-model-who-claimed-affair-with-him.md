@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/fec-karen-mcdougal-ami-trump
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/fec-karen-mcdougal-ami-trump/2021/06/01/b2f6c6e4-c322-11eb-93f5-ee9558eecf4b_story.html?outputType=amp"
 type: article
 quality: 103
-heat: 103
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -29,6 +29,24 @@ images:
     width: 1440
     height: 960
     isCached: true
+
+related:
+  - title: "Karen McDougal: Trump escapes fine in Playboy model payment case"
+    excerpt: "Mr Trump will not be punished or the subject of further inquiry, the Federal Election Commission (FEC) ruled. The FEC found that the money paid to ex-Playboy model Karen McDougal during the presidential election amounted to an illegal campaign contribution."
+    publishedDateTime: 2021-06-02T17:06:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57335148"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57335148.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57335148.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15C78/production/_118780298_gettyimages-1318749430.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "XT+3GSDTquWnocrdMGjESCvL4xop9f2s5IP5x5pK11m4M3dOOt0Gdbb30yj03BZkH8fyQpJ8+k5Fxsapb/Tfa1+4AFLDpf4MFLtgA4J1dlv9kwDkzctxhx6JFbEoXMwkcB7KwVVMm/76Sc6+ZyA+j1Ikop4RMtS8LzHZuJFC9vfraQWX7zriPvt/TOB7upZx9hVM2urfum4umbsJt3Pisg8Fg9NdXIDGn0krGypX+T4qBKPDRtI5amYq0VEs+WfAMEYgqwBhy/RfHYEIcKup2hk8D2Jp/ciKRc57DUGPJO+1cXz/T+85AhmYkQn+GJvaV+XjEfKqRLJJeTh7wYjtqMudBOfaMTvOCrgexJZSfM5hSDWE8wvv5DggPbm+wcKtYCF7Btb1358R1DETPy/HGTSfCU5OcNqpODWupWAUfV4X1JyMS6Taxi/xG20y58hQs7JGW+4MzUT1R8T0sUVHQnmjZjngnugt1OasG1Dim+yAucmaBEo6X4YOgvQe8C/csE7d6Y3onCnGuSmHtADFvw==;dmmxidDA1DXdzi6HrjC2lg=="
 ---

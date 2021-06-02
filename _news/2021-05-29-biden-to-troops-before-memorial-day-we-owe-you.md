@@ -7,8 +7,8 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/28/biden-troop
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/28/biden-troops-before-memorial-day-we-owe-you/5253536001/"
 type: article
 quality: 105
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jill Biden getting Delaware beach day for her 70th birthday"
+    excerpt: "Jill Biden is getting a day at the beach for her 70th birthday. President Joe Biden and his wife were heading to their Delaware beach house Wednesday evening to help the first lady celebrate that personal milestone on Thursday."
+    publishedDateTime: 2021-06-02T17:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a4d126879f7146bbb02adb9ff48d5693_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Joe Biden to attend Memorial Day observance Sunday near New Castle"
     excerpt: "Joe Biden has been a frequent attendee at the Memorial Day observance at War Memorial Plaza near the Delaware Memorial Bridge near New Castle. This year, he'll attend the event as commander in chief."
     publishedDateTime: 2021-05-29T11:20:00Z
@@ -44,6 +60,52 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/02/PWIL/b0641e7c-89e6-4210-a8b0-e22c16d1115e-053019_WIL_BIDEN_MEMORIAL_DAY_JC0253.JPG?auto=webp&crop=3856,2169,x0,y206&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Democrats win battle over GOP voting bill, but can’t win war without Joe Biden, Senate Dems"
+    excerpt: "AUSTIN—Texas Democrats won a battle in a war that they cannot win, unless they get help from President Joe Biden and their fellow party members"
+    publishedDateTime: 2021-05-31T23:36:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/05/31/democrats-win-battle-over-gop-voting-bill-but-cant-win-war-without-joe-biden-senate-dems/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/05/31/democrats-win-battle-over-gop-voting-bill-but-cant-win-war-without-joe-biden-senate-dems/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/05/31/democrats-win-battle-over-gop-voting-bill-but-cant-win-war-without-joe-biden-senate-dems/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 65
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/IrqayP6JfKjJRt3GoE9HusUkgTE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/TAVZQNE6CBDOPC6FW64D6J562A.JPG"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "President Joe Biden will boost his economic policies in Thursday visit to Tri-C in Cleveland"
+    excerpt: "WASHINGOTN, D.C. - President Joe Biden will visit Cuyahoga Community College in Cleveland on Thursday to deliver a speech on the economy that his principal deputy press secretary said will “make a clear case that his economic plan is working."
+    publishedDateTime: 2021-05-26T19:41:00Z
+    webUrl: "https://www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 64
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GIIJELYXUNGARCQJNW5YFLGTFE.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
+  - title: "U.S. President Joe Biden Departs For Wilmington, Delaware"
+    excerpt: "Marine One, carrying U.S. President Joe Biden, departs the Ellipse of the White House in Washington, DC on Friday, April 16, 2021. Biden will travel to Wilmington, Delaware for the weekend. Photo by S"
+    publishedDateTime: 2021-04-16T23:56:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bd28193e88e83e91050bc266b436a2c4/US-President-Joe-Biden-Departs-For-Wilmington-Delaware/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/bd28193e88e83e91050bc266b436a2c4/BIDEN-DEPARTS.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "NMksWWouSxXSuvwTh5cU+DQQAEoFpgfu4VV3ezBIrc6DWm4fKCw50ACchjY0QUrvtf34PRMdyj2ym+rYtJIA+OrhL/dRCRt5BIXx0LyD5U5TfKAANs7ZD6I2uoDlW7gI37hv4F+tOdiKy/GXgrsewnzoFPyqgBVKElfwuGc/kV5QxfCjTTV+8hDcUPUo5/H4t0UKRrSB2UwoDynBKV4C9S5iUp68gLAzFUUtFYqs4prlI4W3gaHS3JTveFbDQy6rS2g0aMWWVm8cNjUoo7SnPlKLyR8k42d0nBVKaGfuyJL1zvu92I94qqQFrXPFv+w+ItSBlwi0t91aR2tsPp/mEvrHV91DFoafHb+60JGzcRj3bG1e+mQHEbZgXui6OfUZLuUR4lDgwJ3iWa2YWS3cs9cNpozR1EFjCWgG58E+UUcupmz7gYp47FgUtRxKCGSRBbZ3YGrsqxhyr12A8tWA0GrQRP+U7+W6uCfG6Kr0msJNDrvJEYu/QS0p0305FLuTj2dz9C56ENEFLk2C/bT8KQ==;VQ6TUxduUJTLBgcb8osJZA=="

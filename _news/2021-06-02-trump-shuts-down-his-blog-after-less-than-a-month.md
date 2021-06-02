@@ -1,32 +1,33 @@
 ---
 category: news
-title: "How the AG’s Trump probe might play out — Feds eye Cuomo virus tests — NYC Covid numbers hit low point as restrictions lift"
-excerpt: "But those lanes crossed this week when James notified the Trump Organization that her civil probe into whether Trump and his family members misstated property values to get tax benefits now has a criminal element."
-publishedDateTime: 2021-05-20T11:29:00Z
-originalUrl: "https://www.politico.com/newsletters/new-york-playbook/2021/05/20/how-the-ags-trump-probe-might-play-out-feds-eye-cuomo-virus-tests-nyc-covid-numbers-hit-low-point-as-restrictions-lift-492930"
-webUrl: "https://www.politico.com/newsletters/new-york-playbook/2021/05/20/how-the-ags-trump-probe-might-play-out-feds-eye-cuomo-virus-tests-nyc-covid-numbers-hit-low-point-as-restrictions-lift-492930"
+title: "Trump shuts down his blog after less than a month"
+excerpt: "The blog page that former President Donald Trump launched less than one month ago, after his team suggested he'd be launching a major new social platform, has been permanently shuttered.\n    \n"
+publishedDateTime: 2021-06-02T15:39:10Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/glLRMEofjS0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/glLRMEofjS0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/media/trump-blog-shut-down/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/media/trump-blog-shut-down/index.html"
 type: article
-quality: 89
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-    width: 1120
-    height: 629
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -107,22 +108,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602070317-se-cupp-newday-6-2-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump shuts down his blog after less than a month"
-    excerpt: "The blog page that former President Donald Trump launched less than one month ago, after his team suggested he'd be launching a major new social platform, has been permanently shuttered.\n    \n"
-    publishedDateTime: 2021-06-02T15:39:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/glLRMEofjS0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/media/trump-blog-shut-down/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/media/trump-blog-shut-down/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -298,7 +283,21 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How the AG’s Trump probe might play out — Feds eye Cuomo virus tests — NYC Covid numbers hit low point as restrictions lift"
+    excerpt: "But those lanes crossed this week when James notified the Trump Organization that her civil probe into whether Trump and his family members misstated property values to get tax benefits now has a criminal element."
+    publishedDateTime: 2021-05-20T11:29:00Z
+    webUrl: "https://www.politico.com/newsletters/new-york-playbook/2021/05/20/how-the-ags-trump-probe-might-play-out-feds-eye-cuomo-virus-tests-nyc-covid-numbers-hit-low-point-as-restrictions-lift-492930"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 89
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
-secured: "nOX+bf82XVQQF1bWmaPWNJSBp/SeuNTgPNF+Zdfm/gDF950Ne2s9qzMLbrz0fFqa/YAGrgPP7abPI/Q6wy6tuvoQIS6XhirxavzvvMr07+oQ614Om9j5Fz65SZwx06N4EV3mkl5iqWSQuoQU0iue9zDcmaRxCEMihshmOxlzZ7SSRNjM01GNCw9uQVGYmbOz7fqVi2G5NrRv58fBWXdaBka/XB3qN+dcuVWNlcUdOiAy2+4gQVJnc1gGTlobTPIdR28RvzkiMkZTnZfTqHEQxK/CNv0fMvNRmdU0ku4oe4F9njaP9MKrHMrkLpNPeInAlTyLf00+57mZmRFPVI+nrTI/Trwa/RnDSRXvlhNHtTo=;tlz8iEVn+R5FZ5z6QfZz5A=="
+secured: "xVbs2l7ZKczF7iIVqrt4WWyVpgwT2wEw+sERt7ZopGCc71Iuuzq6EufBkhByw+bsiS8pv0wKx0eG91CUAmnykAQdGtqjKEDqGN3NsPAVipQ2ZpF5C6JwLO7d3hzO9DFY4Vk62I4sX3rGTViwd256B8hipfElTCmTAizWTGKd0YWMFzubTxlXjuzb/aAUNzRx1whq/JCyY0qfMYK8lOvX7HTsNGm3BIRIMRTW2/YTygPFn/RWjL/ra2k9wQgcNJX1XCAkMmgHvUu6C8CwlDKG56KB27CyjyZ3j9YeqXqbKAwJFvlOjEB6L4aYvzLQ7H+t0A+YgPsSERXAgQgbTDXw7+qhJuTkH9gryBN1evUWTJI=;iPO0rTdQ3wchgSdibWmC1Q=="
 ---
 

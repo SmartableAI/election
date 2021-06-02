@@ -1,29 +1,27 @@
 ---
 category: news
-title: "VP Kamala Harris’ staff moves to in-person work in July | Charlotte Observer"
-excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
-publishedDateTime: 2021-06-01T17:45:00Z
-originalUrl: "https://www.charlotteobserver.com/news/politics-government/article251817863.html"
-webUrl: "https://www.charlotteobserver.com/news/politics-government/article251817863.html"
-ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article251817863.html"
-cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article251817863.html"
+title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
+excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), explains the 13-page fragment a Mishnah that he used when U.S. Vice President Kamala Harris swore him in in the Eisenhower Executive Office Building in Washington, D.C. on ..."
+publishedDateTime: 2021-06-02T17:02:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/9815cf5ed9d3044f9ed32dd3365ed237/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/9815cf5ed9d3044f9ed32dd3365ed237/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
 type: article
-quality: 72
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Charlotte Observer
-  domain: charlotteobserver.com
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://cdnph.upi.com/pv/upi/9815cf5ed9d3044f9ed32dd3365ed237/HARRIS-LANDER.jpg"
+    width: 650
+    height: 433
     isCached: true
 
 related:
@@ -40,6 +38,22 @@ related:
       - url: "https://www.reuters.com/resizer/6_n-ITQL8kzEbhcIojQrH-xzRow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WE6HSFDBGVIV3GKOVV3NHHX2WA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "VP Kamala Harris’ staff moves to in-person work in July | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
+    publishedDateTime: 2021-06-01T17:45:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article251817863.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article251817863.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article251817863.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "VP Kamala Harris’ staff moves to in-person work in July | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
@@ -99,21 +113,7 @@ related:
         width: 576
         height: 324
         isCached: true
-  - title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
-    excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), explains the 13-page fragment a Mishnah that he used when U.S. Vice President Kamala Harris swore him in in the Eisenhower Executive Office Building in Washington, D.C. on ..."
-    publishedDateTime: 2021-06-02T17:02:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9815cf5ed9d3044f9ed32dd3365ed237/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/9815cf5ed9d3044f9ed32dd3365ed237/HARRIS-LANDER.jpg"
-        width: 650
-        height: 433
-        isCached: true
 
-secured: "SEU3xjWi18HoxFlUF9e6FvrUgxhhBbBPvwCFe7aE6hKpRo+/U27xAgPmZH5F17j2zspVBHo+/1xVlcoSxHUweJv6bwjLjPU/OcCr5Nlhm8lnmrrOBlbtF01hkzvF4E/IxGrCmRmL9dn8sa3xrmYvmzoN6hdhUl9wQTx/kxVquwrmIio0u+E6HJs+5ZEZODgXo/oW9wEUYAqZ5y/s/bzvnlEdaA9kPJnf1vXiMmAZ8UCS1Xc0W8Diw3rftCpwts933dMgh7OB3FQqRY6nr/rPmZRVWykYnUkvhzP6iZDjJH9enAn0oOZSpXL2vTCZrHCbO/L0PfZ3BgpfFYdiFTHKrvsrWQQS4uYbpzZW4rZW0zuOT2hUo+ZiQ8ElYlQHcdRGlTir7lT5bR3R3mHtctMt+bVNPJzXI9oJUCr90dgYzwmOLD58tNVxoJEZhntlUU/k+/noPHrXvzHwVACNuXhcTOFoG3v34xZNGlE7UAZpgjuzmB2j9SvUPMO+sHhCKZZSe96qjRa94+xHsVHqqMgOfw==;xkDU6QBBwzJPQ+wURBNnJQ=="
+secured: "rPvZFNJzLhPA0eFH9IpxDOJhAj1IWen/rezVuDdOQf9JP3QD9l1Vq+UkyhXWRBNGSXiezrBW+kBM3CmNOEiyktLN1vXkJhxdQiP2eTK/XFJO0bP6qfmh69DT8i1C5RsB4QL9Ztpb5EzMGaMofdgcFqGt0VaHuF79inQOsJtQnx22RLrZk7X2swN2rY+VuIBlCP8mSmvxgqkoUTdys+WcfQHWEzPJY44HJ97d45YwHMK+169116nRq3Ci/woVoGRMIqoa9MkvhzF44P8BNCoedQmpjz9OSZfrewEcV2xl6W/C3HTFMpCywBcJ4B8SvZnhlU/jckzhvhX8xc3EN8dkAGmfLzPWlsUV9AhWuSK/664=;7DBkpVXJYspMjMk6YBwGNg=="
 ---
 

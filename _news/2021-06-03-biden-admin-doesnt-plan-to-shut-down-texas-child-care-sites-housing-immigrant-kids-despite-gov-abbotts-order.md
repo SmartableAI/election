@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Pelosi rules out having Biden create Jan. 6 commission"
-excerpt: "House Speaker Nancy Pelosi is ruling out a presidential commission to study the Jan. 6 insurrection at the U.S. Capitol"
-publishedDateTime: 2021-06-02T04:12:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-rules-biden-create-jan-commission-78033200"
-webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-rules-biden-create-jan-commission-78033200"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-rules-biden-create-jan-commission-78033200"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-rules-biden-create-jan-commission-78033200"
+title: "Biden Admin Doesn't Plan to Shut Down Texas Child Care Sites Housing Immigrant Kids Despite Gov. Abbott's Order"
+excerpt: "\"We are assessing the Texas directive concerning licensed facilities providing care to unaccompanied children and do not intend to close any facilities as a result of the order,\" said a U.S. Health and Human Services Department spokeswoman."
+publishedDateTime: 2021-06-02T17:35:00Z
+originalUrl: "https://www.newsweek.com/biden-admin-doesnt-plan-shut-down-texas-child-care-sites-housing-immigrant-kids-despite-gov-1596932"
+webUrl: "https://www.newsweek.com/biden-admin-doesnt-plan-shut-down-texas-child-care-sites-housing-immigrant-kids-despite-gov-1596932"
+ampWebUrl: "https://www.newsweek.com/biden-admin-doesnt-plan-shut-down-texas-child-care-sites-housing-immigrant-kids-despite-gov-1596932?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-doesnt-plan-shut-down-texas-child-care-sites-housing-immigrant-kids-despite-gov-1596932?amp=1"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_d0156367688f430d8d17f430e2245c1f_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d.newsweek.com/en/full/1811574/abbott-disaster-declaration-child-care-facilities-migrants.jpg"
+    width: 2500
+    height: 1720
     isCached: true
 
 related:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6L4RNWCDMI6XCNEW6XCFKQZHY.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Pelosi rules out having Biden create Jan. 6 commission"
+    excerpt: "House Speaker Nancy Pelosi is ruling out a presidential commission to study the Jan. 6 insurrection at the U.S. Capitol"
+    publishedDateTime: 2021-06-02T04:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-rules-biden-create-jan-commission-78033200"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-rules-biden-create-jan-commission-78033200"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-rules-biden-create-jan-commission-78033200"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d0156367688f430d8d17f430e2245c1f_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden's big budget comes with a modest growth outlook for an aging country"
     excerpt: "President Joe Biden's first budget proposal comes with a big price tag - at $6 trillion, roughly 50% higher than pre-COVID-19 federal spending - but, at least for now, projects a relatively modest long-term lift to the economy,"
@@ -106,22 +122,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210601&i=OVEFKRU1R&r=OVEFKRU1R&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "Biden Admin Doesn't Plan to Shut Down Texas Child Care Sites Housing Immigrant Kids Despite Gov. Abbott's Order"
-    excerpt: "\"We are assessing the Texas directive concerning licensed facilities providing care to unaccompanied children and do not intend to close any facilities as a result of the order,\" said a U.S. Health and Human Services Department spokeswoman."
-    publishedDateTime: 2021-06-02T17:35:00Z
-    webUrl: "https://www.newsweek.com/biden-admin-doesnt-plan-shut-down-texas-child-care-sites-housing-immigrant-kids-despite-gov-1596932"
-    ampWebUrl: "https://www.newsweek.com/biden-admin-doesnt-plan-shut-down-texas-child-care-sites-housing-immigrant-kids-despite-gov-1596932?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-doesnt-plan-shut-down-texas-child-care-sites-housing-immigrant-kids-despite-gov-1596932?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 105
-    images:
-      - url: "https://d.newsweek.com/en/full/1811574/abbott-disaster-declaration-child-care-facilities-migrants.jpg"
-        width: 2500
-        height: 1720
         isCached: true
   - title: "President Biden announces initiatives to combat racial wealth gap following 100 year mark since Tulsa Race Massacre"
     excerpt: "President Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, neighborhood of Greenwood to pay tribute to the victims of the 1921 race massacre. CBS News Chief White House correspondent Nancy Cordes and CBSN political contributor and Associated Press White House reporter Zeke Miller join \"Red and Blue\" anchor Elaine Quijano with more on a new White House initiative that aims to combat the racial wealth gap and the latest on a ransomware attack targeting the world's largest meat supplier."
@@ -211,6 +211,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "nGFeTE1qeTWSUn5w3S0+vpjbO1b+1HWLbwIQro2pgpASEvpCfYxqTYeyN3/TXVgbgzPFMFa4NbbvX4Z8QxtBhdlNGhWpRU5t/uMWe6HnkS2fgCIlsRCvOGcacvIVKUaXg8RUBQw+nix3/BTqEyg+H5m9l/YT4IyrxaL+k599ZtNPx3OobLmZltbOeAFGxJnSEXqZ+0+gDXN8eR9NpZLQ6MI8UVvgQhN4Adik/aN+m+cixh7QxrlFMJ7wY7uqbiIQKfkZpyVAzN9/hS8ronoHEOEybVkbrrFXbjuQAv72VGCtQ/WEECxTUX3Fwy30cPWcrKhABKJwCKNv0OH+8yksjjZhQnAvGLkiXyAWPkggvI3bwpJWIEx4pXBWRnpKBjl3BvtnySdTRy4cczNkWauUn4OX7n2yXnKh57VdkAToL2rzdgheFyP0/W1ws6SiaVpvXLb5apvZoSuc/PXKnP2H8XWDCYIkJlLq2Mn8lsiojt/9tl/y782LZEkdOiBKsVFAWBqAqlOzUbMdwQB9gQJhcQ==;vUs1qX0oD/3+NRHOaIQHKQ=="
+secured: "tc9LqoPRN+DpkjNKgbI0MIF8IExFUk9k6Cd5dn8RP8lYkDOcv+F6GeICaR4Z6SrmDfkzigs0VIQpsX0/olA7wC94PfSXj/AzGrMZpIFPXPXgcTkmpmz5PkjtjM+s+iaIwLBqeQCnBElD+pZL9FrGWJq/Kmfm2w7zAuSZxA3+jrcrxyRWW5pim+C1o8Q27SncOHIpDkaIdJcLyJEj2VkEtFeWmKw2nSrcSM3xVdjeAtvHGFwBZL6bmic3rQBqSdv0lpEUOvyAGBFLaMVl0K4urLeaxQpBeCvUm9JyhikSnS3/QJiTOPF8DChZjIqVnElUfDwqZHt/DoO4nZS6/kLlfSgcNMTZz5c7wjkZXojb4zQ=;PsRRq9f1A049GcR8al6lOQ=="
 ---
 

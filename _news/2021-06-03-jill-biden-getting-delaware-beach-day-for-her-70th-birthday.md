@@ -1,48 +1,36 @@
 ---
 category: news
-title: "President Joe Biden will boost his economic policies in Thursday visit to Tri-C in Cleveland"
-excerpt: "WASHINGOTN, D.C. - President Joe Biden will visit Cuyahoga Community College in Cleveland on Thursday to deliver a speech on the economy that his principal deputy press secretary said will “make a clear case that his economic plan is working."
-publishedDateTime: 2021-05-26T19:41:00Z
-originalUrl: "https://www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html"
-webUrl: "https://www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html"
-ampWebUrl: "https://www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html?outputType=amp"
-cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html?outputType=amp"
+title: "Jill Biden getting Delaware beach day for her 70th birthday"
+excerpt: "Jill Biden is getting a day at the beach for her 70th birthday. President Joe Biden and his wife were heading to their Delaware beach house Wednesday evening to help the first lady celebrate that personal milestone on Thursday."
+publishedDateTime: 2021-06-02T17:31:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
+webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 125
+heat: 225
+published: true
 
 provider:
-  name: Cleveland.com
-  domain: cleveland.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GIIJELYXUNGARCQJNW5YFLGTFE.jpg"
-    width: 6000
-    height: 4000
+  - url: "https://s.abcnews.com/images/Politics/WireAP_a4d126879f7146bbb02adb9ff48d5693_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "Jill Biden getting Delaware beach day for her 70th birthday"
-    excerpt: "Jill Biden is getting a day at the beach for her 70th birthday. President Joe Biden and his wife were heading to their Delaware beach house Wednesday evening to help the first lady celebrate that personal milestone on Thursday."
-    publishedDateTime: 2021-06-02T17:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a4d126879f7146bbb02adb9ff48d5693_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden to troops before Memorial Day: 'We owe you'"
     excerpt: "President Joe Biden traveled to Joint Base Langley-Eustis in Virginia Friday to thank troops ahead of the Memorial Day weekend and acknowledge the unheralded sacrifices that the service members and their families make."
     publishedDateTime: 2021-05-28T20:57:00Z
@@ -89,6 +77,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Joe Biden will boost his economic policies in Thursday visit to Tri-C in Cleveland"
+    excerpt: "WASHINGOTN, D.C. - President Joe Biden will visit Cuyahoga Community College in Cleveland on Thursday to deliver a speech on the economy that his principal deputy press secretary said will “make a clear case that his economic plan is working."
+    publishedDateTime: 2021-05-26T19:41:00Z
+    webUrl: "https://www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 64
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GIIJELYXUNGARCQJNW5YFLGTFE.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "U.S. President Joe Biden Departs For Wilmington, Delaware"
     excerpt: "Marine One, carrying U.S. President Joe Biden, departs the Ellipse of the White House in Washington, DC on Friday, April 16, 2021. Biden will travel to Wilmington, Delaware for the weekend. Photo by S"
     publishedDateTime: 2021-04-16T23:56:00Z
@@ -104,6 +108,6 @@ related:
         height: 433
         isCached: true
 
-secured: "WpsAgFBakRUnbLYUfL1rrht8V7zQusXnik0c7Xbfg1iwmzmNgvD9WzAjk3u3vdJQyW6z4vjIORnUjFD4/4fIfz5u+Z95J18l2VPpO4B+ZtnuxMzj8UmBDnmRBuYY2u7BCVi6ePolG1qs5+BcjdQ7424ooc7yPf5s7QFT62FFmKbsjzfnaMK9JG2LMRxhVDcVnfYg1MLxcOK3xpSYWdCe6e+OiO+CYbPdZvHu36mpgNMlD17sDP0uW4Yvhg4tpSw/Mpec+NcZEzBAHe3peh5Rt3nAL8gN8JODAszT5aeQ9p7Tl116moofziOPqCvFe8A+Pu5HfKKLOyiSTxCzI8fcEEITkRebtV5XAomhMCeHn/8gOIkwOJfKtZwfAKyQmV7qTropO83b1D9eDQ0+bXZd1S5cqP4ULcQAMv7t5IdFH2nqnFypSgrnl1A8R3Co31MBA/Rsx7UJeVzRQWOE5Z8JNl4COESfSCu+7EHOWIuSa464/UJyKLEaKlv+LxMCqpOlTVjg0QeFLWoRHC+zxSLBoQ==;CM1rgCG8rym82OOv56nqzQ=="
+secured: "oEVyMfwgNN1hdooIPdnS/aRlFd70W0NrCmy3qGfPR/DyrK8Pu6DK/mHGrlLG6aH+P0z4iFkkq3TFPRz78BIzoNxElp21CV+Y9bWticTpy/3lWFIwNJ9JTnrxmdS4pK8qLfCiAt7qBcTKetzfj9daPmHbPzbzbjDXFpJdjI6VeoMjPhukv5Knvzc9Sj3bYKOjaCq/EFNIWzx2A9WowCJjLxjxmaOOqLOV58F4RnHBpV/pYMKu7xQ7xY/o49yBUcXlMvBe3aEosrbiNI6jmDUyjHth3H5CaYY014G43isgjtjA3EJzgLTfF+YzAdUiGhoTEF2cJY/QrP+Ew2YnSyC6pWB5VOxpt/X4YzK1vyCkguQ=;B54jZRcfykGnXYLB9rEc6g=="
 ---
 

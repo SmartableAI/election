@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump shuts down his blog after less than a month"
+    excerpt: "The blog page that former President Donald Trump launched less than one month ago, after his team suggested he'd be launching a major new social platform, has been permanently shuttered.\n    \n"
+    publishedDateTime: 2021-06-02T15:39:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/glLRMEofjS0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/media/trump-blog-shut-down/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/media/trump-blog-shut-down/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House ousts four Trump-appointed members of prestigious arts commission"
     excerpt: "The White House has ousted several members of a prestigious arts commission in the nation's capital, the latest move in the Biden administration's purge of Trump-era appointees from government agencies and boards.\n    \n"
     publishedDateTime: 2021-05-25T18:05:54Z

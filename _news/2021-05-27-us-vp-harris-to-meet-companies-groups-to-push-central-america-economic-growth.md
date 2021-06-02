@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/us-vp-harris-meet-companies-group
 webUrl: "https://www.reuters.com/business/us-vp-harris-meet-companies-groups-push-central-america-economic-growth-2021-05-27/"
 type: article
 quality: 100
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
         width: 576
         height: 324
+        isCached: true
+  - title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
+    excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), explains the 13-page fragment a Mishnah that he used when U.S. Vice President Kamala Harris swore him in in the Eisenhower Executive Office Building in Washington, D.C. on ..."
+    publishedDateTime: 2021-06-02T17:02:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9815cf5ed9d3044f9ed32dd3365ed237/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/9815cf5ed9d3044f9ed32dd3365ed237/HARRIS-LANDER.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "TKds3YNd22Ugbk+57MGk5rmgKhs2xE12lxBAwgJMcoYB3KGsWDVvGJ24bHn5EgH0SwQ2ONWiH+rOQ05SUb6ggxV3gIYpJnB/oIsVTowG07qEhv5nF9osVES98Dbw0VyWugn4PCVq4eJ3ki+QEASxicSTg/GXx3C/7InU4Rhj8uHD3kLh5EnXspC04WzCHG0QnjIHnKLSClAfTBHcCHypUwOa86YrDJHJ7diEl/A5MOF+Yg5SHAeN2ekZ3mBwzEdzq2nGK1lY7QNcxDjg0uOoDD7zPvpsraGpEL9W2WifVWKrBZ9giZdK0tGi0+kipVATb/jAWsaUoSAcM9TTg9SMRkaaiZ3sZgHIg4ydPETnMjk=;XZEMCMMx7zBUXEDwECriag=="
