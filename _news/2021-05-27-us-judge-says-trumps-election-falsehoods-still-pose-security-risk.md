@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ"
 type: article
 quality: 140
-heat: 860
+heat: 900
 published: true
 
 provider:
@@ -239,6 +239,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "National Enquirer publisher fined over payment for Trump story"
+    excerpt: "Federal watchdog fines magazine’s owner $187,500 over story of former Playboy model who claimed she had affair with Trump"
+    publishedDateTime: 2021-06-02T22:06:00Z
+    webUrl: "https://www.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election"
+    ampWebUrl: "https://amp.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/bb7c56c29f7a2157ea36cd68a84620b4166456e0/0_0_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6af9d849da3cbce677a175c7f3e7aa67"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Talk of Trump 2024 run builds as legal pressure intensifies"
     excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking like he plans to mount another White Ho"
     publishedDateTime: 2021-06-03T04:33:00Z
@@ -254,6 +270,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_02df0797f603407287dc1a87bb5753b4_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump ends blog after 29 days, infuriated by measly readership"
+    excerpt: "Infuriated by reports highlighting its measly viewership, Trump ordered his team Tuesday to put the blog out of its misery."
+    publishedDateTime: 2021-06-02T22:11:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/06/02/trump-blog-dead/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/02/trump-blog-dead/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/02/trump-blog-dead/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HUHUNESTOII6XKJRLMLC2DIDHU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump shuts down blog he started less than a month ago – US politics live"
     excerpt: "Adviser Jason Miller says ‘From the Desk of Donald J Trump’ has been deleted and will not return – follow all the day’s politics news"

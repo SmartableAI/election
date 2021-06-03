@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes"
-excerpt: "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April."
-publishedDateTime: 2021-05-23T22:53:00Z
-originalUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
-webUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5223698001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5223698001"
+title: "Trump ends blog after 29 days, infuriated by measly readership"
+excerpt: "Infuriated by reports highlighting its measly viewership, Trump ordered his team Tuesday to put the blog out of its misery."
+publishedDateTime: 2021-06-02T22:11:00Z
+originalUrl: "https://www.washingtonpost.com/technology/2021/06/02/trump-blog-dead/"
+webUrl: "https://www.washingtonpost.com/technology/2021/06/02/trump-blog-dead/"
+ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/02/trump-blog-dead/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/02/trump-blog-dead/?outputType=amp"
 type: article
-quality: 131
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HUHUNESTOII6XKJRLMLC2DIDHU.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_d7b66e9711b6412c9509dfe7f40b3feb_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes"
+    excerpt: "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April."
+    publishedDateTime: 2021-05-23T22:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5223698001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5223698001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump lashes out against possible U.S. Senate candidate Mark Brnovich over election audit"
     excerpt: "Trump’s disapproval of Brnovich, Arizona's attorney general, could be significant because of Trump's continued support among many Republicans."
@@ -270,22 +286,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_02df0797f603407287dc1a87bb5753b4_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Trump ends blog after 29 days, infuriated by measly readership"
-    excerpt: "Infuriated by reports highlighting its measly viewership, Trump ordered his team Tuesday to put the blog out of its misery."
-    publishedDateTime: 2021-06-02T22:11:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/06/02/trump-blog-dead/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/02/trump-blog-dead/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/02/trump-blog-dead/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HUHUNESTOII6XKJRLMLC2DIDHU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Trump shuts down blog he started less than a month ago – US politics live"
     excerpt: "Adviser Jason Miller says ‘From the Desk of Donald J Trump’ has been deleted and will not return – follow all the day’s politics news"
@@ -607,6 +607,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "KrVruIEnfed5qVrOsxfm0CqEA+hM+FYbw6HQ3f+gEusSR9Wy5h97JbitMyk4zx+8aYit4elOsEkjtlLK2+DSGDyCj22g93fOYpy2Y/pNV/lGSoUAQ8+8T8is1LzN13p8VTs2EZXQ5KfBINsQMxJ37M+w4iXPsYhH5rJJMVrcQYeo6DTnlz3SZYc4Ryrll9L7R/QIGImUVn2gm9P65q9AJoHANWvdIw+9bEJFlFB8bRSfMS6wrbcW91+Cvd41J5YkxJpecTXaTA41nMTwDZLxFk2Q1H8z9vftGSq8FSFPKE30A+ci/KhIeW0Ut+ROSsu6ORzLp88P54zPaohdkT0bKMZzDRzSLneMc7kBFacJuiY2sDQqZqHXd2r1u5gx4RHRjAxrd4YzRLzSmQ4YULS8g23aLS375VJjsEbXPbjyH7uYD/dx9yzD2B6epU/259aA6JzoeRQjX/rWxvE8i+CbG7ZSYlKQYBXUrG7xL3yK3yA3pcXscnrE4n0C8AgWf1rhrTmGK2ELMQVy8niteQr8gQ==;4nKd5LxwC40+Awf5uCBs8w=="
+secured: "eaZqNhOJe8oBPAb9ezbYgc0mUJgkWqSKuCijmEUR6ZHH7tsD6iZWTtPcn0QZeW1RuHRzd5uQyj6hnDwbUIp3q4kjQsmWrjCbYD78sXUCrDviCE+1s5dEPxGfeQQz+w2HQGR/rI7Ve5/i+AJ8VE10lFPY+581RMjPfca2zIDK9nFdwAPsTl+Aeig/CpFErZBUkGHMcgIjXyZVrS6q+9XDW7Ulm/xWNlJXGJ4ne/ndKFMpgVbPjaU6p3HQD8O5qTPCRRetWKXK7EikeVAz04IyMAi2nvzoOCABxzAPhXyrvd9LHwwcbG3YafbQKvKoa86LG+63caea3aA/oN/vCopL8//HB113vRsSbdD9FDIzN/c=;FbVVuIT0e05wnrEczWX/Vg=="
 ---
 

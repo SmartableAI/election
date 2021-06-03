@@ -3,8 +3,8 @@ category: news
 title: "Biden promises ‘summer of freedom’ as he urges more Americans to get vaccinated – as it happened"
 excerpt: "The more people we get vaccinated, the more success we’re going to have,’ president says – follow all the day’s politics news"
 publishedDateTime: 2021-06-02T23:57:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b7d7df8f082ac930ae856e"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b7d7df8f082ac930ae856e"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?traffic_source=Connatix"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?traffic_source=Connatix"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
 type: article
@@ -64,6 +64,6 @@ related:
         height: 360
         isCached: true
 
-secured: "deUDDuZ9g3/zTvlZNmhJoO22eVoJAzUMJjcHetv4FnsvHGotbWbyGTlCPPGr4TpiRzkIomCUYjRNehE9gJ8//c+TcazYZaQmzi0QcEx8MmxHtAXFdw3x1e8n+CHJy6g8VTTrLLfCr23IU2BU8/P9f0zpOB1cxuqoubIMeuZcUWk93V1QefZY3wgK27zvODP/xZrQiJeogjFP/uRiDCl9sNqTF6NjlNx4XzEyCDOZukucFA0pIkgZFd6cF8OySZNkV/hZRvEh7gzrlwoEvFvkiMqtlYagC8B9R1Kpyhc3m4aHEGdpgnIdzJfzb+jDtdAwaxJ8kGlEIzslQqnT9Uc1HffTJzgdVUTycP4JTmlV3ME=;o4Xc0ETBmF3IpOZ9xyjbOA=="
+secured: "AEBeXWg75KqyLjCcX+jAM9jb7G3VaqGHVWCLY0Qm/5K7E3sMmpsukKj+NXy8CK97hvS5/NR0LowJGATE/zysYXZQW6yASRTH+RPqVUbfabKrCx4yAY9bvBJw+RMccqenAovuLQTgEc6OHJK85EnVEKDmnpNQY1AfSKu1yDNSPvWD8OPfSqi9XShNc0Xg1Rwnqe+09J/M9DNyQnbdRV6atVUyIcb4HpD5Wd4V3GAPPUdHFaozD3F2sJ6fQtCKKc7qIOpp2OCPeVyJ1JUu1zgd7M7EkRddssO1zIhJSte/WmyUnwRNZKr3Tv8uCjP23JekEvV4WlCa/4btf+dihPztlQuTL5T9qUU1Se2DerFILJA=;1NA09cRAjy+EAE/qWlJPsA=="
 ---
 

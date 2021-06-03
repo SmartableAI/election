@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes"
-excerpt: "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April."
-publishedDateTime: 2021-05-23T22:53:00Z
-originalUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
-webUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5223698001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5223698001"
+title: "National Enquirer publisher fined over payment for Trump story"
+excerpt: "Federal watchdog fines magazine’s owner $187,500 over story of former Playboy model who claimed she had affair with Trump"
+publishedDateTime: 2021-06-02T22:06:00Z
+originalUrl: "https://www.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election"
+webUrl: "https://www.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election"
+ampWebUrl: "https://amp.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election"
 type: article
-quality: 131
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://i.guim.co.uk/img/media/bb7c56c29f7a2157ea36cd68a84620b4166456e0/0_0_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6af9d849da3cbce677a175c7f3e7aa67"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_d7b66e9711b6412c9509dfe7f40b3feb_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes"
+    excerpt: "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April."
+    publishedDateTime: 2021-05-23T22:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5223698001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5223698001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump lashes out against possible U.S. Senate candidate Mark Brnovich over election audit"
     excerpt: "Trump’s disapproval of Brnovich, Arizona's attorney general, could be significant because of Trump's continued support among many Republicans."
@@ -238,22 +254,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_d4b0e2d85c864d3abe3703cf1aa81846_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "National Enquirer publisher fined over payment for Trump story"
-    excerpt: "Federal watchdog fines magazine’s owner $187,500 over story of former Playboy model who claimed she had affair with Trump"
-    publishedDateTime: 2021-06-02T22:06:00Z
-    webUrl: "https://www.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election"
-    ampWebUrl: "https://amp.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/bb7c56c29f7a2157ea36cd68a84620b4166456e0/0_0_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6af9d849da3cbce677a175c7f3e7aa67"
-        width: 600
-        height: 360
         isCached: true
   - title: "Talk of Trump 2024 run builds as legal pressure intensifies"
     excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking like he plans to mount another White Ho"
@@ -607,6 +607,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "KrVruIEnfed5qVrOsxfm0CqEA+hM+FYbw6HQ3f+gEusSR9Wy5h97JbitMyk4zx+8aYit4elOsEkjtlLK2+DSGDyCj22g93fOYpy2Y/pNV/lGSoUAQ8+8T8is1LzN13p8VTs2EZXQ5KfBINsQMxJ37M+w4iXPsYhH5rJJMVrcQYeo6DTnlz3SZYc4Ryrll9L7R/QIGImUVn2gm9P65q9AJoHANWvdIw+9bEJFlFB8bRSfMS6wrbcW91+Cvd41J5YkxJpecTXaTA41nMTwDZLxFk2Q1H8z9vftGSq8FSFPKE30A+ci/KhIeW0Ut+ROSsu6ORzLp88P54zPaohdkT0bKMZzDRzSLneMc7kBFacJuiY2sDQqZqHXd2r1u5gx4RHRjAxrd4YzRLzSmQ4YULS8g23aLS375VJjsEbXPbjyH7uYD/dx9yzD2B6epU/259aA6JzoeRQjX/rWxvE8i+CbG7ZSYlKQYBXUrG7xL3yK3yA3pcXscnrE4n0C8AgWf1rhrTmGK2ELMQVy8niteQr8gQ==;4nKd5LxwC40+Awf5uCBs8w=="
+secured: "x5u183I2KnpQCgF9HEPOXLoUolwYvpSX9mc8rIkMROBKFa7r7nZu8IGKU1M7dcZ6jHxABjfjw40hjWGCNY1I8LhR57wO6hLIOYXouJ2j3ch8J/qitlFAbbkE3TYSpgvHgDDJArP3HSfloTcWvoYS0w2dOBrrlCjXM3mBdmqukZ4pKWmL973o0YjxvpgtWJCzGluBlHBChlPValh2rjGYWyCMJwtcTQc00yR/iMQ3Ll7wPEbgg8XCMnbK3VRk1y8iAmDHfE8aVxH8AzZfI/ZzyXc5uzYMVyuHtjQV+Dw1C/3DofwW/i8W68x3ZUxF89ZTzEMdDJYlF5/n+nUVzPi/W2hcf4hRPCTwA5WE5UucnFQ=;t6IzmYMU0XxjAg/FzeABsQ=="
 ---
 
