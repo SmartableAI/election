@@ -523,6 +523,15 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Trump Justice Dept. Seized Phone Records of 4 NYT Reporters"
+    excerpt: "The Trump Justice Department secretly obtained the phone records of four New York Times reporters as part of a leak investigation."
+    publishedDateTime: 2021-06-03T01:41:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-york/articles/2021-06-02/trump-justice-dept-seized-phone-records-of-4-nyt-reporters"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
     excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
     publishedDateTime: 2021-05-22T11:00:00Z

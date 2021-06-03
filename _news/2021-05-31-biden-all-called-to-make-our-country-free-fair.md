@@ -77,6 +77,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "First lady Jill Biden celebrates 70th birthday with beach day, Joe Biden joins"
+    excerpt: "To celebrate her 70th birthday, first lady Jill Biden is getting a relaxing day at Rehoboth Beach in Delaware with husband and POTUS, Joe Biden."
+    publishedDateTime: 2021-06-03T00:59:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/06/02/jill-biden-birthday-delaware-beach-day-joe-biden/7516912002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7516912002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7516912002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/23/USAT/a77fd2a1-31ef-41d0-9d21-5de0a52a430f-GettyImages-1230699275.jpg?auto=webp&crop=526,296,x203,y131&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'Democracy itself is in peril': Biden delivers Memorial Day speech – video"
     excerpt: "Speaking at Arlington National Cemetery, the US president, joined by first lady Jill Biden, Vice-President Kamala Harris and her husband, paid tribute to America’s war dead"
     publishedDateTime: 2021-05-31T17:12:00Z

@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Joe Biden visits Arlington National Cemetery in Washington"
-excerpt: "U.S. President Joe Biden visits Section 60 at Arlington National Cemetery in Washington on April 14, 2021. Photo by Yuri Gripas/UPI"
-publishedDateTime: 2021-04-14T19:39:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/b43143fa69e9271435129ebdaed4fbb4/Joe-Biden-visits-Arlington-National-Cemetery-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/b43143fa69e9271435129ebdaed4fbb4/Joe-Biden-visits-Arlington-National-Cemetery-in-Washington/"
+title: "First lady Jill Biden celebrates 70th birthday with beach day, Joe Biden joins"
+excerpt: "To celebrate her 70th birthday, first lady Jill Biden is getting a relaxing day at Rehoboth Beach in Delaware with husband and POTUS, Joe Biden."
+publishedDateTime: 2021-06-03T00:59:00Z
+originalUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/06/02/jill-biden-birthday-delaware-beach-day-joe-biden/7516912002/"
+webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/06/02/jill-biden-birthday-delaware-beach-day-joe-biden/7516912002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7516912002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7516912002"
 type: article
-quality: 55
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/b43143fa69e9271435129ebdaed4fbb4/BIDEN-ARLINGTON.jpg"
-    width: 650
-    height: 433
+  - url: "https://www.gannett-cdn.com/presto/2021/04/23/USAT/a77fd2a1-31ef-41d0-9d21-5de0a52a430f-GettyImages-1230699275.jpg?auto=webp&crop=526,296,x203,y131&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -73,22 +79,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "First lady Jill Biden celebrates 70th birthday with beach day, Joe Biden joins"
-    excerpt: "To celebrate her 70th birthday, first lady Jill Biden is getting a relaxing day at Rehoboth Beach in Delaware with husband and POTUS, Joe Biden."
-    publishedDateTime: 2021-06-03T00:59:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/06/02/jill-biden-birthday-delaware-beach-day-joe-biden/7516912002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7516912002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7516912002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/23/USAT/a77fd2a1-31ef-41d0-9d21-5de0a52a430f-GettyImages-1230699275.jpg?auto=webp&crop=526,296,x203,y131&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden: All called to make our country free, fair"
     excerpt: "President Joe Biden marks Memorial Day by reminding Americans that not all are called to \"make the ultimate sacrifice,\" but we are all called to make our nation \"free and fair.\" (May 31)"
     publishedDateTime: 2021-05-31T16:34:00Z
@@ -117,7 +107,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden visits Arlington National Cemetery in Washington"
+    excerpt: "U.S. President Joe Biden visits Section 60 at Arlington National Cemetery in Washington on April 14, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-04-14T19:39:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b43143fa69e9271435129ebdaed4fbb4/Joe-Biden-visits-Arlington-National-Cemetery-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/b43143fa69e9271435129ebdaed4fbb4/BIDEN-ARLINGTON.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
-secured: "iuln3mral9n6FUwzxLd6VKSNExWHzO24JEwaS7p5SdJev+JBfu4Mu3EVftHM4wda6fpZYE5Ft9NTMrOIYqDiZbBLZHQvRo6ObUqGuikb6dQ33TvZlTbxtvyJNBwOyvNLZ5dQ1lhELQBNnx7e4PgS5JtZ9t55U/WZ+6OLb9CUXBhKCi14U+i39MjyO7KCIeP/vOZo4dj4FVglwp9FbP0qtTE9QLk2plqEKrY7xcXlBiYK4DgcgWLURHBSY+YJcgvTniN0Dq/LHHJIswN0AUR219tb0FM4lkHRNSknCgX/DsOcxjwe/gKgEGZy+EKgatGlboF3YZ5aCr31BuMX68azafpZpYO/3Gl447cN5E/8koA=;Br/9J76y1EZ+r1WVOp9Few=="
+secured: "6CIxGyrcvXnFw4nuyLIhhr4dusf6QV9uxPipj4YPCJ3fbFnY7OAsv5SlTQGZCxvl/48xmM8uqcO6x0fi4xkTHFg8osRsfN9yyRSqS3rZUaqYW7ZVlq1S6dZFipv3QwAl9b1bjEkXWxWbmFTSVxdvaCyc95XAe710IxW8GzVCRhBBTbrnJCj+OzDjwp/KGmXlFyJc0/Rx9rVskHCS0Lf3oQNk0ZSDUSnqx7IREmaZS0v6pUlqeUY5/R0G0OZqtlJYtvXJ9HBiES7ufMb4ixfNH6zLk6RDqH9otOd+ZqpiaSpaMvGiqtyhnzIHEF2OyNBN5bMbOtLVj+CLE9L2MYiDSzZGoFY6TAKgN40apyyk9pY=;aTvG0+LaQWe6s/AM625p2Q=="
 ---
 

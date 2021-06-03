@@ -2,9 +2,9 @@
 category: news
 title: "Biden promises ‘summer of freedom’ as he urges more Americans to get vaccinated – live"
 excerpt: "The more people we get vaccinated, the more success we’re going to have,’ president says – follow all the day’s politics news"
-publishedDateTime: 2021-06-02T18:39:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b7c5fe8f08b9889b366e60"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b7c5fe8f08b9889b366e60"
+publishedDateTime: 2021-06-02T23:06:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b817988f08b9889b367227"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b817988f08b9889b367227"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 360
         isCached: true
 
-secured: "eW7Z+sYaZ1/KMB9Dgy5rUtRqjZGZ5+3LT/uN+3iHK8LzvXVG4lD2XGhQBNlfZviIbtQVOKo9xITGfw+l6s5wjJ67VcuqJUu0+WPoRvsHsIv4q+fE0E8ajY/BU8fm9Mtm6G0olpxgzNL0w7EflpidkOSuNmjfP07OAHWqMLP2dXvV3GLXmFm2sCVZBWzYbvpyzuMXDka7mQAlk4HLsx0EOrH+QgyErd5o0N9sY3+JotFYQGTvQiUJlOIkapYsdwKCrOv11p0jRVOHSCtmGzHS1QClz0wfbOuHlFUTzBQRRQ0CdB7TRW00QVVkBagzffTl+FUSJtTdAA9dklzT8YhAZMA0WWuBDRUH1+hQNOoZPIo=;fDjzGK07bKCZrHu7Rn5sCA=="
+secured: "uLS/Yap1ae3Qd0G2Sk5gHUi3udxSQGe+wgi8R+rlNWy+Le254hLLH5jnBpuXq8/+sMrpbBiu0ybg0pbhOjiITjguEkH92lswljs0Cej8++/jH5S4e7/e/3eLg1Z5y40rYy2WEJoqYazqfeCnW46ewnHcRbJK7Cx8E8OyuttGYS2qDQ+wRGHO9rx9ZRteZThxWsqA0vkFZU/NrW9yEEkio+0ZOHpffWxDV45fwq0Cn5qMhUgli+HOf9CP1FOGT1VYYy+gGEEeoSYpVrsnEAkwUUbDaTgo9jQqKtBTo42fjT0CLyC4JghK7om6EbSSaUZ5nHi1ABmsmqN3BGuKqeIcksyWOzv0TWXTQWU46G9HuoM=;whSOkfrqoC3wJTzlG/VVEA=="
 ---
 

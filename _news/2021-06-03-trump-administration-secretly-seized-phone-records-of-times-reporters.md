@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Pompeo-led effort to hunt down Covid lab theory shut down by Biden administration over concerns about quality of evidence"
-excerpt: "President Joe Biden's team shut down a closely-held State Department effort launched late in the Trump administration to prove the coronavirus originated in a Chinese lab over concerns about the quality of its work, according to three sources familiar with the decision.\n    \n"
-publishedDateTime: 2021-05-25T23:53:57Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-FHC-pSsYg/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-FHC-pSsYg/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-shut-down-trump-effort-coronavirus-chinese-lab/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-shut-down-trump-effort-coronavirus-chinese-lab/index.html"
+title: "Trump Administration Secretly Seized Phone Records of Times Reporters"
+excerpt: "The admission by the Biden Justice Department followed similar recent disclosures to The Washington Post and CNN."
+publishedDateTime: 2021-06-03T00:22:00Z
+originalUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.html"
+webUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.html"
+ampWebUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
 type: article
-quality: 150
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524163012-cnn-red-wuhan-lab-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/06/02/us/politics/02dc-times-1/merlin_131699588_8a898e52-fc40-459a-8813-84c0b2ec118c-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -255,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pompeo-led effort to hunt down Covid lab theory shut down by Biden administration over concerns about quality of evidence"
+    excerpt: "President Joe Biden's team shut down a closely-held State Department effort launched late in the Trump administration to prove the coronavirus originated in a Chinese lab over concerns about the quality of its work, according to three sources familiar with the decision.\n    \n"
+    publishedDateTime: 2021-05-25T23:53:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-FHC-pSsYg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-shut-down-trump-effort-coronavirus-chinese-lab/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-shut-down-trump-effort-coronavirus-chinese-lab/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524163012-cnn-red-wuhan-lab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Education Department rescinds Trump-era policy restricting state oversight of student loan servicing companies and debt collectors"
     excerpt: "The Department of Education under the Biden administration is rescinding a Trump-era policy that restricted states' access to records and information in policing student loan servicing companies.\n    \n"
     publishedDateTime: 2021-05-29T18:15:34Z
@@ -335,22 +352,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump Administration Secretly Seized Phone Records of Times Reporters"
-    excerpt: "The admission by the Biden Justice Department followed similar recent disclosures to The Washington Post and CNN."
-    publishedDateTime: 2021-06-03T00:22:00Z
-    webUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/02/us/politics/02dc-times-1/merlin_131699588_8a898e52-fc40-459a-8813-84c0b2ec118c-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Republicans Present $928 Billion Counteroffer to Biden on Infrastructure"
     excerpt: "The plan’s total price tag came close to what the president has said he would consider, but it included only a fraction of the new spending he has requested. A compromise faces long odds."
     publishedDateTime: 2021-05-27T21:02:00Z
@@ -398,6 +399,6 @@ related:
         height: 773
         isCached: true
 
-secured: "FKYuCVyDAi2HS2sEpv/jkt+yxzD3v2bNh1VIdpavYwYkHnXsCld3JN4uUYWbgoIpxIzrVgz6O8pf3LPDac1C2UA8RtkkylKm5PsfDS5U4nz9ILGeFsF4Vc5HoyWuEBOrYkJrh/QZEwLMmtAvVWkgq6h0C38NQ1jC2B4gUUwxRZSeMlEnxwJTn/p9ibaXVI0OkUjkzCGMb09hUQ13lAWPTbAp0zPFnyQkExXexhWondpLbQ/zYsoLB0zfCSJYkge7MLqTnSCIhkGYHi8XjuzNWk0zYVIMPzqUaJNKnqSoYtbYlez0YqX1ybMeDv1lmYuZgIUgey8xQNuyYUiaBEpXmg9PblzTVN2dlnnH9jYY5ac=;Qfg+mqIgw+65LNZy2uNDDw=="
+secured: "sEHkN+OSbyanr9huMSsJ2V9hH2lXCjx/SCFUxDbk7P9tRvqIUwnDL8hIS3w02IOVhNjOkouWV9Jk2jY3+PdWyqETJa6IsqSUQRCDSv6t837l0ZHCFo7kKA2xYtNRnCBd8+Zvz790FaxtmeSESixtAAAYcCxGJNek+OqZR6MN/EMHbJWpFpZNuwxxddBhsl16FriG0OFFPQDD6uwOXVkeJbbwQvAeZpoAdp5MT7jgNcB11rxcrNGlfbB4AMSlKRNJM03Z3r4Mnzs02d+QKJueN0DEKwPeyxJZzbllT7dSWuGvUsaegkW3/DdqSi723MXbERHhYMKVHkCUCSeweQlF7dEiR+XrXO4bOTK5na0m9OM=;AKLjEXXJ6aAdbkRJARQ/BQ=="
 ---
 

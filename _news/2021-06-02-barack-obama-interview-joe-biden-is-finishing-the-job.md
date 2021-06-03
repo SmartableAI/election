@@ -3,8 +3,8 @@ category: news
 title: "Barack Obama Interview: Joe Biden Is 'Finishing the Job'"
 excerpt: "Barack Obama tells Ezra Klein how American went from \"Yes We Can\" to \"MAGA.\" The former president also discuss Joe Biden, aliens, and three of his favorite books."
 publishedDateTime: 2021-06-02T16:32:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html"
 type: article
 quality: 65
 heat: 65
@@ -25,6 +25,6 @@ images:
     height: 2562
     isCached: true
 
-secured: "jj/CT9AD39L8I+dTw6aocu0gG2tXlhUUz/lgkl0WcpPWEFXwyUoBLyryf8toSGp1v2OhtqCleOMXNyH4nE77SgbhoyKaV9Poackn7GPcTXhOmdzSn0d+Vjy4H66WSl0xqh+ahIz8x39cyRd+23mTbIdfi4MQdgZe3b8Wej3wiUNzwVtRpN6viV18yzMKwTzD87BKJIPENpZKH5qqUtpPnpDtW/R7sWdYTJae9ljRXCdQifbAr9aRGTNM8T+y2cgP60zka2xqf5OnmyPuDT7NeuGj1iioTPqkE3/VvZkLPCHQ5NZ68hiV/rAWFTgjP9Ge/KMmQpAAiVDqyH14o3/eGOomKtC3ge/2ICW8mJKisDs=;S7nhfPvne03dipdIsmhrOQ=="
+secured: "sKNz5mmX0+ebHjPY9qtPrnAt5KzQSu4iXXdGm9GhyU9OzJEp/GF3MbGA345RJx9kyhV9U0aOMnkefPOfMuwgzlgi9g/nLYcSnt82FaVu93Nb4xDyEJXHBZCWAv40N26xo5OJO9AssqwORxCJp5LNKYwXvnIIiybY0cxHbobm3f3hpPsg2gRxtRr6M/P+OoQqFBMC1DwdYmqpsBoYtiw84i2hvpYFl/5pZxJCQaVjDHzySsnbjNoJEr1e0nXp54WG5gupaY/3H8ITsUOBQ6IMkgC2WnhKV52ct+YfjUaFnsZ1w/S3IGXhEARFG258CXdLCC9SFRDSSrkeWuzO4Rq5pYWDxKrfonMhlB77qg4BhnI=;DbeWzJFSggzcSo3qHTbVSQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-03-are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive.md",
+      "title": "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive",
+      "excerpt": "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600",
+      "originalUrl": "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1",
+      "publishedDateTime": "2021-06-02T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-washington-post-op-ed-claims-media-no-longer-needs-trump-despite-nonstop-coverage-of-former-potus.md",
       "title": "Washington Post op-ed claims media 'no longer needs Trump' despite nonstop coverage of former POTUS",
       "excerpt": "Washington Post columnist Paul Waldman made a questionable claim that the media \"no longer needs\" Donald Trump despite the continued coverage the former president still receives more than four months after leaving office.",
@@ -1482,58 +1534,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-matt-gaetz-plans-to-run-for-president-in-2024-but-only-if-donald-trump-doesnt.md",
-      "title": "Matt Gaetz Plans to Run For President in 2024— But Only If Donald Trump Doesn't",
-      "excerpt": "In a text sent to the New York Post, Gaetz said, \"I support Donald Trump for president. I've directly encouraged him to run and he gives me every indication he will.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
-      "originalUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1809008/matt-gaetz.jpg",
-          "width": 2500,
-          "height": 1665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1",
-      "publishedDateTime": "2021-05-27T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

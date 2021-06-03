@@ -33,8 +33,8 @@ images:
 related:
   - title: "Biden promises ‘summer of freedom’ as he urges more Americans to get vaccinated – live"
     excerpt: "The more people we get vaccinated, the more success we’re going to have,’ president says – follow all the day’s politics news"
-    publishedDateTime: 2021-06-02T18:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b7c5fe8f08b9889b366e60"
+    publishedDateTime: 2021-06-02T23:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b817988f08b9889b367227"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
     type: article

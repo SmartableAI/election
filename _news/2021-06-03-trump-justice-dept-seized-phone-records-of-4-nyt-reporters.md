@@ -1,34 +1,26 @@
 ---
 category: news
-title: "Capitol Rioters Will Blame Trump, Fox News for Their Actions on Jan. 6: Report"
-excerpt: "\"The reason he was there is because he was a dumbass and believed what he heard on Fox News,\" an attorney representing what of the defendants said."
-publishedDateTime: 2021-05-29T19:05:00Z
-originalUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149"
-webUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149"
-ampWebUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
+title: "Trump Justice Dept. Seized Phone Records of 4 NYT Reporters"
+excerpt: "The Trump Justice Department secretly obtained the phone records of four New York Times reporters as part of a leak investigation."
+publishedDateTime: 2021-06-03T01:41:00Z
+originalUrl: "https://www.usnews.com/news/best-states/new-york/articles/2021-06-02/trump-justice-dept-seized-phone-records-of-4-nyt-reporters"
+webUrl: "https://www.usnews.com/news/best-states/new-york/articles/2021-06-02/trump-justice-dept-seized-phone-records-of-4-nyt-reporters"
 type: article
-quality: 121
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://d.newsweek.com/en/full/1810065/us-capitol-riot.jpg"
-    width: 1024
-    height: 683
-    isCached: true
 
 related:
   - title: "U.S. judge says Trump's election falsehoods still pose security risk"
@@ -303,6 +295,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Capitol Rioters Will Blame Trump, Fox News for Their Actions on Jan. 6: Report"
+    excerpt: "\"The reason he was there is because he was a dumbass and believed what he heard on Fox News,\" an attorney representing what of the defendants said."
+    publishedDateTime: 2021-05-29T19:05:00Z
+    webUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149"
+    ampWebUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1810065/us-capitol-riot.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
     excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
     publishedDateTime: 2021-05-23T09:04:00Z
@@ -524,15 +532,6 @@ related:
         width: 1024
         height: 696
         isCached: true
-  - title: "Trump Justice Dept. Seized Phone Records of 4 NYT Reporters"
-    excerpt: "The Trump Justice Department secretly obtained the phone records of four New York Times reporters as part of a leak investigation."
-    publishedDateTime: 2021-06-03T01:41:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-york/articles/2021-06-02/trump-justice-dept-seized-phone-records-of-4-nyt-reporters"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
   - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
     excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
     publishedDateTime: 2021-05-22T11:00:00Z
@@ -543,6 +542,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "pfiuV61vXs0aqsYVQGlq28k8hJ320NxxXgvOOMsR4kccVocIuL/alXTMMcb7nIBZ4pVwsklfq7LFymyFt+YX+QUykxf5/YZIeY+02TbBsXFN5Eb3YAwTzn0JxKzEI0Cxmi+J4Ss6L/1OcML+2yx+LpaR9IrDO8BVFyVp45al4Uv2MVGfQxfyeaOyWBRW9PAbSjNZTGnIPEfyZwfb8G3RPBXZn7ZuurnCMd3KZcP9ci4+zzRr6koRTnRHYHU3fErNDBBITBOMX0ecU9mrRlGBAQPyn72DguwP3ua72jZjOcvEPULlSzsBbChMCMa5yWQOWR9vlrjdD2noA10Fx6NA7HzdEv13hDgtm4fES8B0QePBA7fsNvwaK6/1a25DiFAQyq48NvW1hvL7+RUJTsZkBeIutciRdz4Zi0u91DVFZdDcAAAtaFCbgsMoRopMkCxcWOEr4A8IA9fhgjxz4Xsf06Mv1ZhvCPmN/d4q9SaYQ/Q85z1qdasdyxJUHU4sHjDRy9gRMBBsDjk4eyfXdyKhpQ==;tiCgJpOQ3CKLyOPnEtmi5w=="
+secured: "VcyYN05vIZJ0Kio1Sbrz/JZVPfA1gHpGbkdGz41TZmTOSoBTYPpbemp5Mcd8phwkJFz7XUTh1LdcptvInSijW+yCNV+GNfWI1K2v/ZekBDxuiDzEykl5EUwqsO+sUttaHyGrlLq3eA4N4f8pvJSW/d53c0Bz/KshEGWrY8xrVw7DX2eWT/Wo8bS43nGJ8esRRBMeFqfCsZBZFLHs5hHbBPHtILNrdcLG31bOl0Y758ANGsFLT7RHaNEJpPdqtqozhDYEHQook81ginNPfh14lGVc1lwZr/r+uozVig/h1ViGf6SRkmBhknugW3oyEW4+AYnNlG2fKiXUkWG3+LGqMWn4+PLCbeInL8ZsK6cAMOHhfm7i+LQ89P9kBfUBxx5GaX2RLUI33JkxasBWtUIYG99uOvKNdNC9MdDtLeG4mLWBrKa6jJNclAs+8H4+vJnMxu8tgZNEOK5afqKVfsYr1dDP9lrD5VMMaI5GOrZxabCNxxdJsaMHMdM59u1P8bXJlFjBKlkwTxUJ8L9M8UsheQ==;467Rim+SlsxpRrVzXn+tOg=="
 ---
 

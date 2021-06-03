@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-03-alaska-gov-dunleavy-shames-biden-for-arctic-drilling-suspension-its-all-about-canceling-opportunity.md",
+      "title": "Alaska Gov. Dunleavy shames Biden for Arctic drilling suspension: It's ‘all about canceling opportunity'",
+      "excerpt": "Alaska Republican Gov. Mike Dunleavy called President Joe Biden’s decision to suspend Arctic drilling leases is plainly irrational and unproductive during a Wednesday interview on “Your World with Neil Cavuto.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/alaska-dunleavy-shames-biden-arctic-drilling-suspension",
+      "originalUrl": "https://www.foxnews.com/media/alaska-dunleavy-shames-biden-arctic-drilling-suspension",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b6dbf32-c086-4ac4-b5d8-95c6d3e80346/211d4f3c-5795-4bc7-b8b4-535397f32364/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/alaska-dunleavy-shames-biden-arctic-drilling-suspension.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/alaska-dunleavy-shames-biden-arctic-drilling-suspension.amp",
+      "publishedDateTime": "2021-06-02T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive.md",
+      "title": "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive",
+      "excerpt": "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600",
+      "originalUrl": "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1",
+      "publishedDateTime": "2021-06-02T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-washington-post-op-ed-claims-media-no-longer-needs-trump-despite-nonstop-coverage-of-former-potus.md",
       "title": "Washington Post op-ed claims media 'no longer needs Trump' despite nonstop coverage of former POTUS",
       "excerpt": "Washington Post columnist Paul Waldman made a questionable claim that the media \"no longer needs\" Donald Trump despite the continued coverage the former president still receives more than four months after leaving office.",
@@ -1215,114 +1324,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-biden-seemingly-blasts-sinema-manchin-for-voting-more-with-my-republican-friends.md",
-      "title": "Biden seemingly blasts Sinema, Manchin for 'voting more with my Republican friends'",
-      "excerpt": "President Biden laid blame on two Democratic senators for not passing voting rights legislation while speaking in Tulsa, Okla. on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KkNJroQDveg/biden-sinema-manchin-voting-republicans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KkNJroQDveg/biden-sinema-manchin-voting-republicans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c819f4d-29e3-40e1-a5eb-928bef64e622/7b993a18-9673-4ecf-a637-462dd7d51236/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-sinema-manchin-voting-republicans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sinema-manchin-voting-republicans.amp",
-      "publishedDateTime": "2021-06-01T16:41:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition.md",
-      "title": "Sicknick family criticizes GOP lawmakers, Trump over January 6 commission opposition",
-      "excerpt": "The family of deceased Capitol Police officer Brian Sicknick is continuing their criticism of lawmakers opposed to the creation of a commission to investigate the January 6 Capitol assault. CBS News congressional correspondent Nikole Killion joins CBSN's \"Red & Blue\" host Elaine Quijano to discuss her interview with Sicknick's mother and longtime companion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition/",
-      "originalUrl": "https://www.cbsnews.com/video/sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/01/d3dbdf5f-e563-42f2-9617-8b9e3657c433/thumbnail/1200x630/29964b24adb58544e8a72fe26291b653/0601-rb-sicknick-726792-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

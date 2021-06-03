@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-18-joe-biden-to-talk-infrastructure-in-michigan-amid-pressure-over-gaza-live.md",
+      "title": "Joe Biden to talk infrastructure in Michigan amid pressure over Gaza – live",
+      "excerpt": "The president will be promoting his $2.3tn plan in Dearborn, whose large Arab-American plans to protest against his stance on Middle East strife",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/34a1c622cfd38e00fb5ba2e8ed1ffc7968c1ada0/0_16_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33d1fc7610ce9200fe4d3d6225fc9904",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live",
+      "publishedDateTime": "2021-05-18T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-supreme-court-could-cut-into-biden-agenda-the-note.md",
       "title": "Supreme Court could cut into Biden agenda: The Note",
       "excerpt": "The full meaning of the 6-3 conservative edge on the Supreme Court is only beginning to be felt. That matters for President Joe Biden and his agenda.",
@@ -1537,63 +1589,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide.md",
-      "title": "Giuliani wanted ‘multiple investigations’ into Joe Biden, says former Ukrainian presidential aide",
-      "excerpt": "Igor Novikov, a former adviser to Ukrainian President Zelensky, told NBC News that Rudy Giuliani wanted “multiple investigations” into Joe Biden during a 2019 phone call with Ukrainian officials. NBC News’ Andrea Mitchell explains what Novikov claims Giuliani said and why that phone call is so important.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide-111373893730",
-      "originalUrl": "https://www.nbcnews.com/now/video/giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide-111373893730",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/1620219403651_ott_now_am_ukraine_210505_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo111373893730",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111373893730",
-      "publishedDateTime": "2021-05-05T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

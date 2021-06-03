@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-03-alaska-gov-dunleavy-shames-biden-for-arctic-drilling-suspension-its-all-about-canceling-opportunity.md",
+      "title": "Alaska Gov. Dunleavy shames Biden for Arctic drilling suspension: It's ‘all about canceling opportunity'",
+      "excerpt": "Alaska Republican Gov. Mike Dunleavy called President Joe Biden’s decision to suspend Arctic drilling leases is plainly irrational and unproductive during a Wednesday interview on “Your World with Neil Cavuto.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/alaska-dunleavy-shames-biden-arctic-drilling-suspension",
+      "originalUrl": "https://www.foxnews.com/media/alaska-dunleavy-shames-biden-arctic-drilling-suspension",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b6dbf32-c086-4ac4-b5d8-95c6d3e80346/211d4f3c-5795-4bc7-b8b4-535397f32364/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/alaska-dunleavy-shames-biden-arctic-drilling-suspension.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/alaska-dunleavy-shames-biden-arctic-drilling-suspension.amp",
+      "publishedDateTime": "2021-06-02T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-biden-pushes-more-vaccines-for-summer-of-freedom.md",
       "title": "Biden pushes more vaccines for 'summer of freedom'",
       "excerpt": "Free beer is the latest White House-backed incentive to persuade Americans to get the COVID-19 vaccine. President Joe Biden announced a “month of action” Wednesday to get more shots into arms before July 4th and bring on a \"summer of freedom\".",
@@ -441,7 +498,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-commemorates-fallen-veterans-arlington-cemetery-78001615",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1529,58 +1586,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-joe-biden-to-talk-infrastructure-in-michigan-amid-pressure-over-gaza-live.md",
-      "title": "Joe Biden to talk infrastructure in Michigan amid pressure over Gaza – live",
-      "excerpt": "The president will be promoting his $2.3tn plan in Dearborn, whose large Arab-American plans to protest against his stance on Middle East strife",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/34a1c622cfd38e00fb5ba2e8ed1ffc7968c1ada0/0_16_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33d1fc7610ce9200fe4d3d6225fc9904",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live",
-      "publishedDateTime": "2021-05-18T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
