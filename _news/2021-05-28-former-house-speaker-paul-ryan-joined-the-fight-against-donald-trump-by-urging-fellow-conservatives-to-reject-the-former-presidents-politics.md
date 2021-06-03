@@ -63,6 +63,15 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Trump's Grip on GOP Sparks Fears About Democratic Process"
+    excerpt: "To advocates of democracy, the persistence of Republicans' election denial shows how the party is increasingly open to bucking democratic norms, particularly the bipartisan respect traditionally afforded to election results even after a bitter campaign."
+    publishedDateTime: 2021-06-03T19:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/trumps-grip-on-gop-sparks-fears-about-democratic-process"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "HACuKL9uCWgEurIuPYOog7sLb2ncz5/G7czEFazhaBhffO+/zWMBCQ93D20UTyvV5r4JHmTd8vTyxGAPSrQYsu8n+8yJ2EmLM667qGlQOSrU0ek/3Z4hnyTa9rb7uJwmtz0gZX6lgFsX44rSIRCyS9PKUYHQhDsxaqxXS1L1mjR8umKZ9JIX8F0A8COtjPhH33suu2QkTOoHcVPeVGPb3GKsKFgtSz9Yb8oio+U8dB1iJ99Ymom1oVWn0Z1zovfKdseD1+ScWYN7wWbeFH4fmkwotZ1FafXqbk58HTYihEkJLB4E6c9pvde6HJTVTrAvAntxH1/tp9Nj/j7+Ku5oVixDnezJ9ivOLdzCZnjezMj30ltRkIRdOMKinxCu6/F9AKPUgtthF4ro8/QLkB+sYrRsQfeqICMWdhmmix83/Gw806hYluq56EP6BmcJSsBwvtrNqPZvdyWs6wOEzbq/seLjNGKvuPogH5rMR3BRbAxsuMHkbWTeb9O5GGOUw10cPtZ2xNwiw1zrq7Gn4hVvvw==;Aw5uXEQSikkhe52rkf+mvQ=="
 ---

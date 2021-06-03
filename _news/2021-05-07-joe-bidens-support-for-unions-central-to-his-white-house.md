@@ -275,6 +275,22 @@ related:
         width: 600
         height: 426
         isCached: true
+  - title: "Joe Biden Extends Donald Trump's Blacklist of Chinese Companies"
+    excerpt: "President Joe Biden has signed an executive order to extend a ban on United States investments with certain Chinese companies that was first instituted by his predecessor, Donald Trump."
+    publishedDateTime: 2021-06-03T19:19:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-extends-donald-trumps-blacklist-chinese-companies-1597360"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-extends-donald-trumps-blacklist-chinese-companies-1597360?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-extends-donald-trumps-blacklist-chinese-companies-1597360?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1812480/joe-biden-extends-trumps-china-executive-order.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-rec
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump Believes He Can Regain the Presidency This Summer"
+    excerpt: "Maggie Haberman and the Washington Post report that Donald Trump has been proclaiming to anybody who would listen that his return to power is imminent. Trump is obsessively following a so-called “audit” in Arizona,"
+    publishedDateTime: 2021-06-03T18:06:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Trump Told Allies He'll Run For President In 2024 Under One Condition: Report"
     excerpt: "Trump’s political ambitions \"are making some congressional Republicans anxious,\" according to interviews conducted by Politico with 20 Republicans in both the House and Senate."
     publishedDateTime: 2021-05-28T11:31:00Z

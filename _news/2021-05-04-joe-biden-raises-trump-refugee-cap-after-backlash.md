@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2670
+heat: 2690
 published: true
 
 provider:
@@ -271,6 +271,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/9df9db192b1345e5a76eb157a7a3a507cb626256/0_0_2200_1560/master/2200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9dc72cbafa60289f8c1b674a7a6e297d"
         width: 600
         height: 426
+        isCached: true
+  - title: "Joe Biden Extends Donald Trump's Blacklist of Chinese Companies"
+    excerpt: "President Joe Biden has signed an executive order to extend a ban on United States investments with certain Chinese companies that was first instituted by his predecessor, Donald Trump."
+    publishedDateTime: 2021-06-03T19:19:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-extends-donald-trumps-blacklist-chinese-companies-1597360"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-extends-donald-trumps-blacklist-chinese-companies-1597360?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-extends-donald-trumps-blacklist-chinese-companies-1597360?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1812480/joe-biden-extends-trumps-china-executive-order.jpg"
+        width: 2500
+        height: 1668
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."

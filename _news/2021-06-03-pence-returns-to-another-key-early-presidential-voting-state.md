@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-returns-key-earl
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-returns-key-early-presidential-voting-state-78064289"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "Pence visits first-in-the-nation primary state"
+    excerpt: "Back in another key early presidential voting state, former vice president Mike Pence was due to speak Thursday in New Hampshire, weeks after using his first public address since the end of the Trump administration to say he will be “pushing back"
+    publishedDateTime: 2021-06-03T18:23:00Z
+    webUrl: "https://www.concordmonitor.com/Pence-returns-to-another-key-early-presidential-voting-state-40781592"
+    type: article
+    provider:
+      name: Concord Monitor
+      domain: concordmonitor.com
+    quality: 55
+    images:
+      - url: "http://www.concordmonitor.com/getattachment/6958469c-ff40-4992-b246-a3d62d74e401/attachment.aspx"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "kurSWy9UlwStG+Q4dRF4LY5OBdYiC5uJANayabvJsaefJ5by/54tlslEtEBaxIGRikCxjWa968QPIe9Y21JmbPsd7y2Ww42ErJhoB9eyq8CB/7+ToJd5aiP74vo+YIUOda0GWJYy6YXpaamYi0A+27OygNq3ci0y0WsT2Fv47PIdMxKYrYcT1fjE7bFM0EJN3NNcjyn41Yh4dSN7OQcZIKpBs4axduI8ewZrqfuGPSzzx7CMvxIp8uwdqaWlNEwi9SfIqqUAT802luv/ahD3iAUCbs3Rpbw5YoqhUhjMGARQtX99lQCzbhs2ABGlZ3iin5QQkr4OtKB7iaoS4Mt1IUYOhzAihpieOUq7EB/ietvO9U2D0yYr4lvoPPMwbWtXX0O5KFVsWkhBV7CRPhVVBQydwfjMazt5eDTN3JIZL21DlTw+PXWiyr74kLxe8MT5Y7jqlZQORQCocAA6WTVgjDkRvjGLh+joK9UoOta6yeUb+UCWwah8HCojx6JHQuXnmPH5Yz71sHDe25+fahcQWg==;GzVndoZ5YAcnIJey5czBrg=="
 ---

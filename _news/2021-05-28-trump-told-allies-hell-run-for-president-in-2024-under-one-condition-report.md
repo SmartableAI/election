@@ -58,6 +58,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump Believes He Can Regain the Presidency This Summer"
+    excerpt: "Maggie Haberman and the Washington Post report that Donald Trump has been proclaiming to anybody who would listen that his return to power is imminent. Trump is obsessively following a so-called “audit” in Arizona,"
+    publishedDateTime: 2021-06-03T18:06:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
 
 secured: "BWYvEGkYXcHS4GUBmmZYCrOCB5tSaF9uBdjN/kbO5ulv7gGbZHBUecTSSJDlnLIDVlpzDhnzwNeUB3lXIQ8wsQXS0REt9TcFPG1ikENzBYvh54wUi5r11ixl0O8074jILKVXy0bFxGpjdS6ElJl5bvobZv/2AS1BLEsgZYH5OXiUTXa19v8KTEZWmpSRboBLel9eBI4PwOLfn3W+FLfh0B7sPRnF4z1U7hJEZFAa2JF1zOA4kkFIZQmxHqKs7MEaEWl4iFI/s5JDZ0XCNF+VvehvNTK5z1xzX4R1fxzgEhBxY8PmylVP2TK4a2+COn5sgXpPMHJ02V/oF4iQvg3vE1bFN4sOWAv8ZR/WgkcSmkUDeGPj8LGdR2FK5AUnmr0qbz3dN5E9q0sR6IrPLv5fMOVm4kfbrp8cOB9w6iF2N+Clkr6iJKCnTpZmOSAHQ36JUOPU0s03Cf5Eck5lEpnjf+TipMEIZa4aSLedbOIFXcnT1pvpNBJ/Kh+HB2qzSkK5tTvil3ksiugPaHR7anudwQ==;Lh8V4tet4X09QnCcqNhvVg=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
 excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
 publishedDateTime: 2021-06-02T17:02:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/b05be610aa796336ffd355911ab26938/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/b05be610aa796336ffd355911ab26938/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/b05be610aa796336ffd355911ab26938/HARRIS-LANDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/009facc2f199ecbb7b4c0affa25233fc/HARRIS-LANDER.jpg"
     width: 650
-    height: 432
+    height: 433
     isCached: true
 
 related:
@@ -114,6 +114,6 @@ related:
         height: 324
         isCached: true
 
-secured: "7IgLJksgABFymRzkI48VcjoNLIJQMZI1ojGw0yIJrp4QhCyWFMPyZNXc5xVWT2EzFtgsDR2k+wd+OIllDbf0awv7uD4gAteTylWZbkNU6VJCOTQcaMGpfbk9r1bT8Tu8GAW2zyprFy5qpv2hkwRLiGJehhtKbWe87ourLCd4JXBSD1zZzS6PoeBE2VMhoQNOOH88AaRN5RxBOMDVBUqt7DpckjLAWAfuC5QQKQVUAh1wBv3p/MD5yZcegSE4oW5l4IqAfBQvaN1bV2Kq95VzBMWn6rGyk/Kvja+oemeTXM21/d0EXTfonitfX40HntG3zwHaROpT+mfAUETya4gftUkMc/bT8AO76Q5I9pY//tJOnQE6EXU8uQs7TNcg9Yl5BkRWSEqF78YNqtwzREqevoHkmb31sBcByFiSUue19HKRU4V5PUmwChrzwjTw8KdbFrBbfrxK059P4oPIJ6KNyQ73GQhuDPTZzgNZHGfrNLJs0Rg6B5qGMsVMYTA0eilZumhje/q7IzGJMR/zBAitCw==;cqf9RuwSo5fSLamhDmrRdw=="
+secured: "7HFc3GKOexSPIRvMHk6ztYlyCc7ANKBAm7nm/7jrIO1znn4mUa8+Icu6wOmmue3JKY+bkUb5HDrHbNg6STV6Mp7drCMxDHRnZNdky4ZFPlH5/WMxTDyK3tpNfOgrBqSg5VXNNopIMqcqFOA8ULtnG8hUsgxnFkEzHeFaIAm5QZyj3alZ0MPjnIqxd0yEV6z5+yFE9PBVmBrL0ksm/vm74u4AIPA5UUyrgjFiKTNLBUnBeB0bde6I72KaAKzI2hfihN3lpvt1KOLyHfMzteMz2AtacuCiM8pO6UheDNlIi9FW6IQNmVVrZVeb6iTCJh0wT3d6mIsekkucpyFv2s5Pj6kyXSU388whgs99WAqnTO0=;QcWoZ9a28heuB5L6gnXKhQ=="
 ---
 

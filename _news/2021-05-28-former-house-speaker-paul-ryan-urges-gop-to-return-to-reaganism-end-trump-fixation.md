@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-05-27/former-house-speak
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-27/former-house-speaker-ryan-urges-gop-return-to-reagan-end-donald-trump-fixation?_amp=true"
 type: article
 quality: 119
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Trump's Grip on GOP Sparks Fears About Democratic Process"
+    excerpt: "To advocates of democracy, the persistence of Republicans' election denial shows how the party is increasingly open to bucking democratic norms, particularly the bipartisan respect traditionally afforded to election results even after a bitter campaign."
+    publishedDateTime: 2021-06-03T19:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/trumps-grip-on-gop-sparks-fears-about-democratic-process"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "IoXx+M3rDrp3epOZpvWAnXLc+Rw0GDurL4jU6W8l+kbaA4L9O6PB3ZC4WbWHFrP0NbSJ//5lrMhW3IC5CYxyNCA22MSpSFj7tuY6PyCjqkBhtFGeLTvhuDQt20CcsOTyRSgh9N+xdlYoezB60VdQGx1YLhHlx9jklU/8TojbEwrziTRAQPZ9cRM9NqPhbbD3TpqScvL2vuFd1Yr8SfHwVl5kF7VzUcoCvpG4kKYLbBedaivtoGCvjpG57153E6FvhpMi1DLDMMOj6OgHElAfAfh+I4Strdp3PvHD1N0lk/LytE4FKMNVrBMWrt7wwOodz7N6FbY6L+GB1EsCifdvaWKHDki52u58tiMdt7y3tt+KYIlAr4zvU6EQREjs31okGPFzCFwpdUc+DJ/bBEdkpe+Bjla9PgPfPcAMMGYZTcANVal3CSj14bwydksyXi3AZGeWc9MOJK4PUyc7pjn5ORrgkAQBDwVcoOvyzSAm0mnLPOfImm4/3IYbFQNliKBzanrmc2ox33GuM+VWajdYqg==;fw9u0tH2FKXvmT0C1bHJdg=="
 ---
