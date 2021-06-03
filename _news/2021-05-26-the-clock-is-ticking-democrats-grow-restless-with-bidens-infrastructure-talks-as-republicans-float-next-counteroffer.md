@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden offers tax deal to Republicans in infrastructure talks"
+    excerpt: "President Joe Biden is trying to break a logjam with Republicans on how to pay for infrastructure improvements, proposing a 15% minimum tax on corporations and the possibility of revenues from increased IRS enforcement as a possible compromise."
+    publishedDateTime: 2021-06-03T16:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-offers-tax-deal-republicans-infrastructure-talks-78066757"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-offers-tax-deal-republicans-infrastructure-talks-78066757"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-offers-tax-deal-republicans-infrastructure-talks-78066757"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b89ad006ce8a4d36a14b82d218a7c973_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "NqLfo5jKUOtULgxhzPAONN/U0gA3DDFEWsYOi9KgKxr1l+F4tyQZ0WmjwInQTo1HLmNXGOUmZ39ObV2SufAdD42HrSHN8F+THYL3rKfgmfTBcW6+/sj6d8DhP+y/dSJMjD8JTYq4fUqoGC45LCDzBqSyJrEskgg7ucUPHPqzov4soSOjbG3IhB2utfzuFwzYTehJf8FqQDAzIGTcSeJwb+rC1C96RAULGqnSUUc8+H41G+kNQUvj4PtOb11tVrMqqMA21hyL7XFOhDErq54wUNgYsUiv9aPHE3Utk0XUwGqrfX3FfMihVE2dwamd7WwV6ACfTgks+cBTPXR1H7koJs79v2yzv7X8n92OETFaXD/CMoPIKr0wFBQC1yy4r9Ow8j2Fgbshx+7nxmjOipIHLF+q/GhA+FEVrKUBTLZFY6KiT1o2BIZC9SL/KxdxFuEzPaZq8Nw3+3T472iPlfOpj/NyyXoKcxK0ux5Ae0QySVUWwGi6SCpt66mwYlFpXmTxdztTsWVUC/ZeuUfyZxa8wA==;qjOF+WDnkMJkAFEmAarBJw=="
 ---

@@ -95,20 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden: ‘Inaction’ not an option on infrastructure"
-    excerpt: "President Joe Biden on Wednesday made a fiery appeal for U.S companies to foot the bill for his $2 trillion-plus infrastructure plan, but signaled an openness to negotiate how big their tax bill should be. This report produced by Jonah Green."
-    publishedDateTime: 2021-04-08T00:12:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE7J3NJ3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210407&i=OVE7J3NJ3&r=OVE7J3NJ3&t=2"
-        width: 960
-        height: 540
-        isCached: true
 
 secured: "ReNM9bW94Y5o7YKOA230clxMD8vA4cHAfINifK3q2QMiuwogodJ3aKd+3wlNtYBZRoxrNzl6F2Kxouf8hNad1mujzDm2QB/5HUbZhnkOPxVGDypRMerwwwK9sCFG28/NiWSyBru8QGu71RR8Y4/4wVXTRjk79/OaEIXtZWpEZY1+K3iGdi2LSr+5OMhXDJzs8I/RDNsuG61Tch44ob11iFVwGEJKwrviO0Mrup5SXwAV7vWu0l+81W4aV1ZdfLyiZGeEXyAxyk17QIO4re40zrNrlo6Tu7dc8FgflMOfesKpuPTwoHkI4M1jHDvYkWo7/+b1Yp6Vp+EKvZoIVF/FKEDCkwLgrISOwuyrz/No36qpgvWfmbHW2lMfrNdvlRCxBHcrH8eqjdzNLbAqkU6iDV06XmEuZQk2hB+5trk5JQ6kwNKdeXkZ+E5e/T/KssRCoCG6O8CA9nO6w2HCWEPOeJyhJmny8z75iCP7bPi0oBGgSt8m/iKxi1ie4urSKm1CGyt0heb9jrCrU58XxPiUiA==;F80R4DIDjT1dDelpzYZn5g=="
 ---

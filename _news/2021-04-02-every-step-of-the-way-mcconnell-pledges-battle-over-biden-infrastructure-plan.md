@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO68D"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO68D"
 type: article
 quality: 120
-heat: -1
-published: false
+heat: 160
+published: true
 
 provider:
   name: Reuters
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
-    excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"
-    publishedDateTime: 2021-03-30T17:44:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest?page=with:block-6063448a8f0807bf71ddea4f"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/61be9c4ea47590ba4a25375de48c9334d6cf1f4d/0_198_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=497c53613623a4cc3e08d76fef99cc6f"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden unveils 'once-in-a generation' $2tn infrastructure investment plan"
-    excerpt: "American Jobs Plan would rebuild roads, highways and bridges; confront the climate crisis and curb wealth inequality First published on Wed 31 Mar 2021 05.13 EDT Joe Biden on Wednesday unveiled what he called a “once-in-a-generation” investment in ..."
-    publishedDateTime: 2021-04-01T14:54:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/bde4502fafa0ea923009147e68eea8005587272e/0_0_3500_2289/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3d41c19f69897c3e5615b8f01fc78ebf"
-        width: 600
-        height: 392
-        isCached: true
   - title: "Americans 'want to see us get it done': Buttigieg on Biden's infrastructure plan"
     excerpt: "Biden lays out massive infrastructure bill Secretary of Transportation Pete Buttigieg said Sunday that he believes it could be possible to get Republicans on board with President Joe Biden's ..."
     publishedDateTime: 2021-04-04T13:18:00Z
@@ -95,33 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden promises 'historic' $2tn spending in infrastructure – but Capitol Hill fight awaits"
-    excerpt: "President hopes to ‘unify and mobilize the country’ but his plan faces challenges from Democrats as well as Republicans Last modified on Wed 31 Mar 2021 05.14 EDT Joe Biden will unveil an expansive $2tn proposal to rebuild the country’s ..."
-    publishedDateTime: 2021-03-31T08:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/ee16b9cd080f21af7765df0f263b58afbd4aa081/31_306_3868_2321/master/3868.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ba607b0123aaccec9255bc658b0396bf"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "QUOTES-From 'bold' vision to 'dangerously misguided' - reactions to Biden infrastructure plan"
-    excerpt: "March 31 (Reuters) - U.S. President Joe Biden is asking Congress to pass a $2.3 trillion jobs and infrastructure plan that fixes roads and bridges and boosts social services like care for the elderly. To pay for it, Biden is seeking to raise corporate tax ..."
-    publishedDateTime: 2021-03-31T14:37:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-reaction-idUSL1N2LT1TF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LT1TF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LT1TF"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 94
 
 secured: "iOM8NMOGFi09oQNSD+izqCj82a6aIJF2Cy5agz+CqdQXzGGn0MXiHpmzqI5X+ZZ58BefP503uZkaPpGHVT4d5FGVNGNuvypUw/czF8p7YCWicnpUTmLAKC/hBGuzLS0RR+mLofiDCUIABH52Sp/X3dGZfQ+hcRijh4pyfOEWz+THYAGSgoiguTA+v8WL91Kvk/YBwj4yI1g9aF1w4pySJmxilFPbFODZ3vWt+eL3A6hwBqj44Wp4jU70UaVlEKvokgFjy6SF/T5tAcbh5d4/QplJWTOG4/c3mmF8x7eI64ED2i2NORBv1dKhrQLYpKSijSqotiFuBvexBcHaLl5IWSt3v9qCqcpBq95MGtr6nGY=;VIw82YlNULwvW85TRBkr/g=="
 ---

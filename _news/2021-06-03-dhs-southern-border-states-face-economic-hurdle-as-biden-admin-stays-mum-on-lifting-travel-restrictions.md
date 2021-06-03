@@ -47,6 +47,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "House Republicans call on Senate leaders to reject Biden DHS picks, warn they won't end border crisis"
+    excerpt: "EXCLUSIVE: More than 30 House Republicans on Thursday wrote to Senate leaders in both parties, urging them to reject President Biden’s nominees for key Department of Homeland Security agencies -- warning that they will not \"make the decisions necessary\" to end the ongoing crisis at the southern border."
+    publishedDateTime: 2021-06-03T16:00:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NcJ1rzhs7xs/house-republicans-senate-leaders-biden-dhs-picks-border-crisis"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/BORDER-2.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Tara Reade fires back at NYC mayoral candidate Scott Stringer after he invoked Biden accuser during debate"
     excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at NYC mayoral candidate Scott Stringer, who invoked her while addressing the allegation faced against him during Wednesday night's Democratic primary debate."
     publishedDateTime: 2021-06-03T03:44:00Z

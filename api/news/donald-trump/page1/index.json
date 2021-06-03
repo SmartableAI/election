@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-03-trump-increasingly-talking-like-he-plans-another-presidential-run-even-as-he-faces-legal-threats-allies-say.md",
+      "title": "Trump increasingly talking like he plans another presidential run, even as he faces legal threats, allies say",
+      "excerpt": "Trump would face daunting headwinds in addition to his legal vulnerabilities if he runs, with the legacy of being the only president to be impeached twice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/Ikajz9nESbBxudD0chGC9cQZ1Ww=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TZVUHTCDS5AFHE4OFF3VF5XG6U.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-03T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-republican-leaders-to-summit-with-trump-over-conservative-agenda.md",
+      "title": "Republican leaders to summit with Trump over conservative agenda",
+      "excerpt": "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
+      "originalUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
+      "publishedDateTime": "2021-06-03T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-jimmy-kimmel-on-trump-abandoning-his-blog-its-a-move-he-calls-the-eric.md",
       "title": "Jimmy Kimmel on Trump abandoning his blog: ‘It’s a move he calls the Eric’",
       "excerpt": "With most late-night hosts on holiday this week, Kimmel mocks the end of Trump’s short-lived website and Amazon’s new cannabis policy",
@@ -1406,58 +1506,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-28-inside-trumps-hot-vax-new-jersey-summer-where-hes-playing-golf-and-plotting-rallies-while-legal-storms-form.md",
-      "title": "Inside Trump's hot vax New Jersey summer, where he's playing golf and plotting rallies while legal storms form",
-      "excerpt": "Trump's political machine is humming from his summer perch in Bedminster, New Jersey. But legal trouble is brewing in New York",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/inside-donald-trumps-hot-vax-new-jersey-summer-vacation-2021-5",
-      "originalUrl": "https://www.businessinsider.com/inside-donald-trumps-hot-vax-new-jersey-summer-vacation-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60b0198ebee0fc0019d5a154?width=1200&format=jpeg",
-          "width": 802,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-28-men-booted-from-yankee-stadium-after-displaying-trump-won-banner.md",
       "title": "Men booted from Yankee Stadium after displaying ‘Trump Won’ banner",
       "excerpt": "Two men who brought a ‘Trump Won Save America’ banner to the May 27, 2021 doubleheader between the Yankees and Blue Jays were greeted with boos from the crowd and escorted out of the",
@@ -1487,54 +1535,6 @@
       "ampWebUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
       "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
       "publishedDateTime": "2021-05-27T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-trump-laments-7-year-high-gas-prices-as-americans-prep-for-memorial-day.md",
-      "title": "Trump laments 7-year-high gas prices as Americans prep for Memorial Day",
-      "excerpt": "Former President Donald Trump expressed concern Thursday for Americans forced to pay sky-high gas prices as millions hit the road for the Memorial Day holiday. “With Memorial Day Weekend",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/",
-      "originalUrl": "https://nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/amp/",
-      "publishedDateTime": "2021-05-27T15:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Post",

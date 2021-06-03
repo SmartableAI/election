@@ -2,31 +2,26 @@
 category: news
 title: "Joe Biden, Kamala Harris commemorate fallen veterans at Arlington Cemetery on Memorial Day"
 excerpt: "The president was joined on Monday by first lady Jill Biden, Vice President Kamala Harris and second gentleman Doug Emhoff in a somber ceremony in Virginia."
-publishedDateTime: 2021-05-31T19:30:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
+publishedDateTime: 2021-05-31T22:30:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-memorial-day-20210531-2komh57hsncvhkx6zahe4y5hve-story.html?outputType=amp"
 type: article
-quality: 140
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
-  - Joe Biden
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/kma7aj3NxFM-9i89Nl7dVPdpzgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X33ST3VJERDXNFERUP4HBQPPVU.jpg"
+  - url: "https://www.baltimoresun.com/resizer/kma7aj3NxFM-9i89Nl7dVPdpzgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X33ST3VJERDXNFERUP4HBQPPVU.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -704,6 +699,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "iPmpNWc8FgUHlKnqKbC0hsqtzDMhVokph5N/jYxozlY3EkDoHgZYslsCGb/pJNSld3LNBCsQ4Mb+0jDvd3kd3R0kNoSrMVmAZxtvaUpCXHy5sMGGXtx00mDBT8SXJTcf5kzDVmwDB9ny32iYUSJpa5sIDedZD9WdyESGevkSval1fBUoofp5JBan+fzpgx3dVcZ7AGI+RrHWnyJIEclIXF3qRs4mWodEKhy9E82Y86Ti2V1HUCJBMRpMpOmqiyalfjPqUHroElcp1iayQR6QYYsQZJdHCie8Uh8a3kvC8+qCB5qpcxTWyrMHmqPVs4hVeipMZiuoeCAYSlKJvbHbYNs8bFgeTWWWVxnyzOspp+8uD7g4xyHR5xPP6Mn4j014LN89ibVa21Kt/7GkvSOdEYu02lUjHLE14S3PkMlFwNXh8fHp+wON5iDMPD/6odvSsH1enq+0f58lwwhPRs7LL/Ct4gHRRwbX5TBogcdXn86hl9KARaFb76xNAmR0fGieM6/Vq9A3tG3DRYZdOf6xKw==;WGGxZy6rIJBiR81nyv577Q=="
+secured: "B7M6+EL3QzQuksFrfS3H6SY8lvTFjtIkMjOA2PRMVXO/cRRtc43MsXL14f5Mtso8vQgs+NRfsnCFkV+xitmnemw4VQzuJ30jTMiyK2vrdTDeOHKcs9Pn235XGQG6mesqNQsAm+r7CVrlmTyWFAicOKrwVW2+ruY2OYzVEgxnhCEFB3QGih93h+nAZOGUnTq8ekir+AmuW9DyKfUakd3yHjRleOTcdgQPlHb04oHjnXqJcmGvvW9u2T0+mhE8TVA6+XaKG4hBwOI6nt9IpnQsZZTd+9SQPez2rEh7ka90Z3DvHEZQKCAWQsQz+qWm8ci1WMS9ZwteuuE2MxtFH6bTBCXRe1uxqzpWk2x/aH24LnA=;M8dzrH9AiILiNiW+2tn3gw=="
 ---
 

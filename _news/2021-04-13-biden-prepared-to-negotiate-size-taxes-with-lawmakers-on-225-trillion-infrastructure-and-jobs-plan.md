@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden: ‘Inaction’ not an option on infrastructure"
-    excerpt: "President Joe Biden on Wednesday made a fiery appeal for U.S companies to foot the bill for his $2 trillion-plus infrastructure plan, but signaled an openness to negotiate how big their tax bill should be. This report produced by Jonah Green."
-    publishedDateTime: 2021-04-08T00:12:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE7J3NJ3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210407&i=OVE7J3NJ3&r=OVE7J3NJ3&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Republicans turn to the socialism playbook on Biden's infrastructure bill, labeling anything other than roads and bridges as 'Soviet'"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Republican lawmakers are responding to President Joe Biden's $2 trillion infrastructure bill with a litany of misleading and even false statements. The GOP's longstanding strategy of attaching the socialism label ..."
     publishedDateTime: 2021-04-14T18:22:00Z

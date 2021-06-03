@@ -25,6 +25,38 @@ topics:
   - Joe Biden
 
 related:
+  - title: "Biden provides details on plan to share 80m Covid vaccine doses – live"
+    excerpt: "President offers details, explaining how the first 25m doses will be disbursed, and says ‘We are sharing these vaccines to save lives’ – follow the latest"
+    publishedDateTime: 2021-06-03T16:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/e12d9e9cd48b8789d15d47a0c8e752777252b3af/0_261_7804_4682/master/7804.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ffedaf4586025e10f958c141c511648"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
+    excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"
+    publishedDateTime: 2021-03-30T17:44:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest?page=with:block-6063448a8f0807bf71ddea4f"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/61be9c4ea47590ba4a25375de48c9334d6cf1f4d/0_198_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=497c53613623a4cc3e08d76fef99cc6f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
     excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."
     publishedDateTime: 2021-04-22T01:13:00Z
@@ -41,53 +73,65 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "There would probably be more yawns than outrage if Biden expanded the Supreme Court"
-    excerpt: "Some progressives want Biden to expand the court and appoint several new members to balance the conservative 6-3 majority on the court. They are outraged at what they perceive as Republicans illegitimately filling two seats: first,"
-    publishedDateTime: 2021-04-20T11:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/?outputType=amp"
+  - title: "Biden promises ‘summer of freedom’ as he urges more Americans to get vaccinated – live"
+    excerpt: "The more people we get vaccinated, the more success we’re going to have,’ president says – follow all the day’s politics news"
+    publishedDateTime: 2021-06-02T23:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b817988f08b9889b367227"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F5DZZDFBJ4I6XMYUF2MTXWB6GE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.guim.co.uk/img/media/88391a34f332ac8b3d05b82d38153a38f9d5672a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84d47d854adfd84f347375c94e376574"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Factbox: How Biden's proposed tax hikes for the wealthy would fund childcare, community college"
-    excerpt: "President Joe Biden is expected to announce a sweeping \"American Families\" proposal next week to invest in government-funded childcare, universal pre-kindergarten education, and paid leave for workers - and make the wealthiest Americans pick up the tab."
-    publishedDateTime: 2021-04-22T21:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-taxes-details-factbox-idUSKBN2C92YX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C92YX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C92YX"
+  - title: "Biden promises ‘summer of freedom’ as he urges more Americans to get vaccinated – as it happened"
+    excerpt: "The more people we get vaccinated, the more success we’re going to have,’ president says – follow all the day’s politics news"
+    publishedDateTime: 2021-06-02T23:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?traffic_source=Connatix"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 113
+      name: The Guardian
+      domain: theguardian.com
+    quality: 112
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210422&t=2&i=1559591668&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3L1ED"
-        width: 819
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/88391a34f332ac8b3d05b82d38153a38f9d5672a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84d47d854adfd84f347375c94e376574"
+        width: 600
+        height: 360
         isCached: true
-  - title: "President Joe Biden pouring $1.7 billion into fighting COVID-19 variants as ‘nearly half of all cases’ are mutant strains"
-    excerpt: "Officials hope the funds will help authorities and their private sector partners detect COVID variants faster."
-    publishedDateTime: 2021-04-16T16:55:00Z
-    webUrl: "https://www.masslive.com/coronavirus/2021/04/president-joe-biden-pouring-17-billion-into-fighting-covid-19-variants-as-nearly-half-of-all-cases-are-mutant-strains.html"
-    ampWebUrl: "https://www.masslive.com/coronavirus/2021/04/president-joe-biden-pouring-17-billion-into-fighting-covid-19-variants-as-nearly-half-of-all-cases-are-mutant-strains.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/04/president-joe-biden-pouring-17-billion-into-fighting-covid-19-variants-as-nearly-half-of-all-cases-are-mutant-strains.html?outputType=amp"
+  - title: "Biden pushes more vaccines for 'summer of freedom'"
+    excerpt: "Free beer is the latest White House-backed incentive to persuade Americans to get the COVID-19 vaccine. President Joe Biden announced a “month of action” Wednesday to get more shots into arms before July 4th and bring on a \"summer of freedom\"."
+    publishedDateTime: 2021-06-02T19:35:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/02/biden-pushes-more-vaccines-summer-freedom/7511942002/"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 50
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PDKSO3CFJJH4TKEOBX6PP7KRNI.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0684742e-1cd5-4954-a59d-162b33aa5f7e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "What we learned about Joe Biden from riding Amtrak with a Senate colleague who has known the president for five decades"
+    excerpt: "President Biden and Sen. Tom Carper share big goals on infrastructure. They also have a devotion to Amtrak after almost daily commutes from Delaware to DC for several decades."
+    publishedDateTime: 2021-05-29T13:32:00Z
+    webUrl: "https://www.businessinsider.com/biden-amtrak-infrastructure-climate-senate-tom-carper-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/60b01460bee0fc0019d5a148?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "shwNSFqNDSC7ums0RItgM4Ta5hj4jQxzNalHHgfgp6Z0PqMAfoyDtWzAvuHShPTaA+R0WpdEQj5TNbEBW50EPq6DC9WtJjAudZbf+nCMjuAq0cui/JRL3WGFXC27reL5rDnn/HB0+PDTpeWBF3YPtIoFXIJw+JXKS51WR92HyIdjBxeTX4tWC51IAXq5u/0F3P5C4YKZ2+4bTBUuxPrf+vXAyqwtluR5M6xSxK9eI7XZavi5MZ+oGnD31UMs5QGLbFwoU8hKrtlrSN6ZgDBHLPC4PZPRo0NmMyA7OfUTWg6HxLdFh9dYQBphei5ACIJFNmQtc8Uf4fBKhxaR7MAIGw/LGpmBVHL9ZeVTOHMwHM0=;7NSGBHRrTdd7OBvXLDrZCw=="

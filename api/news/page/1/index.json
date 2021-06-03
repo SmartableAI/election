@@ -2,6 +2,214 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-03-biden-provides-details-on-plan-to-share-80m-covid-vaccine-doses-live.md",
+      "title": "Biden provides details on plan to share 80m Covid vaccine doses – live",
+      "excerpt": "President offers details, explaining how the first 25m doses will be disbursed, and says ‘We are sharing these vaccines to save lives’ – follow the latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e12d9e9cd48b8789d15d47a0c8e752777252b3af/0_261_7804_4682/master/7804.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ffedaf4586025e10f958c141c511648",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates",
+      "publishedDateTime": "2021-06-03T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-trump-increasingly-talking-like-he-plans-another-presidential-run-even-as-he-faces-legal-threats-allies-say.md",
+      "title": "Trump increasingly talking like he plans another presidential run, even as he faces legal threats, allies say",
+      "excerpt": "Trump would face daunting headwinds in addition to his legal vulnerabilities if he runs, with the legacy of being the only president to be impeached twice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/Ikajz9nESbBxudD0chGC9cQZ1Ww=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TZVUHTCDS5AFHE4OFF3VF5XG6U.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-03T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-doj-investigating-trump-appointed-postmaster-general-louis-dejoy.md",
+      "title": "DOJ investigating Trump-appointed Postmaster General Louis DeJoy",
+      "excerpt": "The Justice Department is investigating campaign contributions made by Postmaster General Louis DeJoy's private sector employees, his spokesman confirmed Thursday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/om4qEbIztMc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/om4qEbIztMc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200824124226-17-postmaster-dejoy-hearing-0824-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/03/politics/louis-dejoy-campaign-contributions/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/louis-dejoy-campaign-contributions/index.html",
+      "publishedDateTime": "2021-06-03T09:38:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-republican-leaders-to-summit-with-trump-over-conservative-agenda.md",
+      "title": "Republican leaders to summit with Trump over conservative agenda",
+      "excerpt": "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
+      "originalUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
+      "publishedDateTime": "2021-06-03T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-joe-biden-once-said-god-save-the-queen-in-congress.md",
       "title": "Joe Biden Once Said 'God Save the Queen' in Congress",
       "excerpt": "Biden will meet the 95-year-old Queen Elizabeth II when he visits the U.K. for the G7 summit later this month.",
@@ -872,58 +1080,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-03-biden-pushes-more-vaccines-for-summer-of-freedom.md",
-      "title": "Biden pushes more vaccines for 'summer of freedom'",
-      "excerpt": "Free beer is the latest White House-backed incentive to persuade Americans to get the COVID-19 vaccine. President Joe Biden announced a “month of action” Wednesday to get more shots into arms before July 4th and bring on a \"summer of freedom\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/06/02/biden-pushes-more-vaccines-summer-freedom/7511942002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/06/02/biden-pushes-more-vaccines-summer-freedom/7511942002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/0684742e-1cd5-4954-a59d-162b33aa5f7e_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-06-03-white-house-walks-back-biden-swipe-at-joe-manchin-kyrsten-sinema-calls-them-good-partners.md",
       "title": "White House Walks Back Biden Swipe at Joe Manchin, Kyrsten Sinema, Calls Them 'Good Partners'",
       "excerpt": "President Joe Biden 's remark this week that his agenda is being thwarted, in part, because of \"two [Democratic] members of the Senate who vote more with my Republican friends\" was never intended to be a criticism of conservative Democratic Senators Joe Manchin and Kyrsten Sinema,",
@@ -1181,172 +1337,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-trump-scraps-short-lived-blog-that-was-created-in-wake-of-social-media-ban.md",
-      "title": "Trump scraps short-lived blog that was created in wake of social media ban",
-      "excerpt": "The former president, who is set to address the North Carolina Republican Party Saturday, wasn't getting much traction with his new outlet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/trump-scraps-short-lived-blog-n1269337",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/trump-scraps-short-lived-blog-n1269337",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479666/210602-donald-trump-jm-1138.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1269337",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269337",
-      "publishedDateTime": "2021-06-02T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-mcenany-slams-medias-hunter-biden-cover-up-they-hid-the-story-and-influenced-the-election.md",
-      "title": "McEnany slams media's Hunter Biden cover-up: 'They hid the story and influenced the election'",
-      "excerpt": "Fox News host Kayleigh McEnany blasted the media’s ongoing cover-up of the Hunter Biden scandal, Wednesday, on the heels a New York Post editorial lamenting the paper’s scoops are \"being ignored by outlets that would be all over them if they were about the Trump family.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election",
-      "originalUrl": "https://www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f69d72d8-f7d2-46cd-a7f7-8d7c46cc8456/1bda30c1-a454-452c-b317-c1c3244792b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election.amp",
-      "publishedDateTime": "2021-06-02T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ohio-abortion-ban-inspired-by-gods-agenda-written-in-texas-defended-by-trump-lawyer.md",
-      "title": "Ohio abortion ban: Inspired by 'God's agenda,' written in Texas, defended by Trump lawyer",
-      "excerpt": "A group of anti-abortion activists worked behind the scenes for weeks with a city councilman to make Lebanon, Ohio's new abortion ban possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/02/abortion-ban-texas-group-trump-lawyer-behind-ohios-law/7491809002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/02/abortion-ban-texas-group-trump-lawyer-behind-ohios-law/7491809002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/28/PCIN/667d5789-17e9-4e0a-b905-1a8fd239ee68-052521_LEBANONABORTION_0003.jpg?auto=webp&crop=5507,3098,x0,y280&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7491809002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7491809002",
-      "publishedDateTime": "2021-06-02T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

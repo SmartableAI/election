@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-gop-dont-infrast
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-gop-dont-infrastructure-plan-77955654"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden offers tax deal to Republicans in infrastructure talks"
+    excerpt: "President Joe Biden is trying to break a logjam with Republicans on how to pay for infrastructure improvements, proposing a 15% minimum tax on corporations and the possibility of revenues from increased IRS enforcement as a possible compromise."
+    publishedDateTime: 2021-06-03T16:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-offers-tax-deal-republicans-infrastructure-talks-78066757"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-offers-tax-deal-republicans-infrastructure-talks-78066757"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-offers-tax-deal-republicans-infrastructure-talks-78066757"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b89ad006ce8a4d36a14b82d218a7c973_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'The clock is ticking': Democrats grow restless with Biden's infrastructure talks as Republicans float next counteroffer"
     excerpt: "With sides still far apart, some Democrats say the time is nearing for Biden to try to pass an infrastructure package without Republicans."
     publishedDateTime: 2021-05-25T22:05:00Z

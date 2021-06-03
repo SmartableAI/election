@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/texas-senate-election-reform-bill-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp"
 type: article
 quality: 171
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a33d03cb-36e4-4cf1-9c19-3d16fa58112e/69f13f15-89d2-4f52-a0aa-5492071399c7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "House Republicans call on Senate leaders to reject Biden DHS picks, warn they won't end border crisis"
+    excerpt: "EXCLUSIVE: More than 30 House Republicans on Thursday wrote to Senate leaders in both parties, urging them to reject President Biden’s nominees for key Department of Homeland Security agencies -- warning that they will not \"make the decisions necessary\" to end the ongoing crisis at the southern border."
+    publishedDateTime: 2021-06-03T16:00:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NcJ1rzhs7xs/house-republicans-senate-leaders-biden-dhs-picks-border-crisis"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/BORDER-2.jpeg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Tara Reade fires back at NYC mayoral candidate Scott Stringer after he invoked Biden accuser during debate"
     excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at NYC mayoral candidate Scott Stringer, who invoked her while addressing the allegation faced against him during Wednesday night's Democratic primary debate."

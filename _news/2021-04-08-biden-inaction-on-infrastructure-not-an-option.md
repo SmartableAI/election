@@ -29,21 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "Christian Pastor Claims Biden Surrounded By 'Demonic Hedge of Protection'"
-    excerpt: "Pastor Mario Murillo claimed this week that President Joe Biden is surrounded by a \"demonic hedge of protection,\" urging fellow Christians to pray for a \"powerful move of God\" to bring it down. \"War has been declared on your faith,\" Murillo said during the ..."
-    publishedDateTime: 2021-04-01T15:53:00Z
-    webUrl: "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476"
-    ampWebUrl: "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476?amp=1"
+  - title: "Biden unveils 'once-in-a generation' $2tn infrastructure investment plan"
+    excerpt: "American Jobs Plan would rebuild roads, highways and bridges; confront the climate crisis and curb wealth inequality First published on Wed 31 Mar 2021 05.13 EDT Joe Biden on Wednesday unveiled what he called a “once-in-a-generation” investment in ..."
+    publishedDateTime: 2021-04-01T14:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 124
     images:
-      - url: "https://d.newsweek.com/en/full/1768836/mario-murillo.png"
-        width: 1439
-        height: 799
+      - url: "https://i.guim.co.uk/img/media/bde4502fafa0ea923009147e68eea8005587272e/0_0_3500_2289/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3d41c19f69897c3e5615b8f01fc78ebf"
+        width: 600
+        height: 392
+        isCached: true
+  - title: "Biden promises 'historic' $2tn spending in infrastructure – but Capitol Hill fight awaits"
+    excerpt: "President hopes to ‘unify and mobilize the country’ but his plan faces challenges from Democrats as well as Republicans Last modified on Wed 31 Mar 2021 05.14 EDT Joe Biden will unveil an expansive $2tn proposal to rebuild the country’s ..."
+    publishedDateTime: 2021-03-31T08:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/ee16b9cd080f21af7765df0f263b58afbd4aa081/31_306_3868_2321/master/3868.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ba607b0123aaccec9255bc658b0396bf"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden: ‘Inaction’ not an option on infrastructure"
+    excerpt: "President Joe Biden on Wednesday made a fiery appeal for U.S companies to foot the bill for his $2 trillion-plus infrastructure plan, but signaled an openness to negotiate how big their tax bill should be. This report produced by Jonah Green."
+    publishedDateTime: 2021-04-08T00:12:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE7J3NJ3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210407&i=OVE7J3NJ3&r=OVE7J3NJ3&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "gPBu4YVpFLNB2Jin4gdvNCRTrd/gqcTxCjGedMsomXrUBrDR6J04om/J+SBcEGDCI7cQkEjF16iRVfcBg3jsS0vDWiMclGN8siRFjxTQ96jCcqbbR88IvTTdVnUXMkxgHGKDFEKyDMIawH8HHxAHFzhtn5NKp/VuS3QoOSjYV94918GWHM7h3iQUa3t/q8eM4//S1qP+pBTthuYJXapzL8IvqFpo4xK1Q0D6Eq63h0BcvK8WEp21rjnAQCc3ek4XmvtsEjOUEoixsHV/Hnr/zwdsxWETwmJOjJyk0HBD0v4wSKwy7FEA8b9IfFqknQ9NaeODTe17lDw50YNcMVZoTxRwCy2nG37rXJ1UGKBJNwN66/9atjCDfe0r36is61bxAK/di5LJeodigB4txYKudXGp26tWauxD0jAczBVfkXgFuooZxmsCaGd4i0p3Q56e2XSChELwI43+PcqU4slGnbFDMyebLvgyWamLdSMRGm8FFrNrubQ+AH1YfEmSM73v9DYzzCWGUsULED+50sVgrw==;1rsUMWo2jT66uVX6iabadg=="

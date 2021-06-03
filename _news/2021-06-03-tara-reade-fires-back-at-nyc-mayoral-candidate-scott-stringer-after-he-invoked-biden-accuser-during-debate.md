@@ -64,6 +64,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "House Republicans call on Senate leaders to reject Biden DHS picks, warn they won't end border crisis"
+    excerpt: "EXCLUSIVE: More than 30 House Republicans on Thursday wrote to Senate leaders in both parties, urging them to reject President Biden’s nominees for key Department of Homeland Security agencies -- warning that they will not \"make the decisions necessary\" to end the ongoing crisis at the southern border."
+    publishedDateTime: 2021-06-03T16:00:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NcJ1rzhs7xs/house-republicans-senate-leaders-biden-dhs-picks-border-crisis"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/BORDER-2.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "k4xppwzCtcezgiD4e4E1jQHT3KK9scDzV2GkYsKvCdIbTjyst6eQ5X1Oe4Hf170D7dcjmFwdJNnH4NA9C6WK2QrRrKNhU98zuPuZYY7OH3V2gY9ksQkcBY8PLlRCsG3ECVinby3Pj72z7gz9Cp68PGldcr9nxA79AV/DM/oXhzXCMmDuWPn/OO5q2rYCmvHgmSq406lVjYCCibCKn+sUndGI21rqA7XYxsWuBd48icSsgnJ3I+qftmyowMRn1l9Fxjmc8vcrTFgFOm97YxC1EsK7wEYm7M9M5tni5w00VSBnImYWk8vs2Dc5/4/K20jfr2Q0CaFhvPcqnrMV0Iq0IBJ0+/UzRH3mqx2tTakMnUo=;LJfJiswHor3V1AtsjCBqaA=="
 ---
