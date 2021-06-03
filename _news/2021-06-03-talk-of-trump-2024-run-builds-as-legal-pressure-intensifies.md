@@ -1,12 +1,12 @@
 ---
 category: news
-title: "URI weighs revoking honorary degree from ex-Trump adviser"
-excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alum who briefly served as President Donald Trump’s national security"
-publishedDateTime: 2021-06-01T21:09:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
-webUrl: "https://abcnews.go.com/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
+title: "Talk of Trump 2024 run builds as legal pressure intensifies"
+excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking like he plans to mount another White Ho"
+publishedDateTime: 2021-06-03T04:33:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
+webUrl: "https://abcnews.go.com/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
 type: article
 quality: 125
 heat: -1
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://s.abcnews.com/images/Politics/WireAP_02df0797f603407287dc1a87bb5753b4_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -223,6 +223,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "URI weighs revoking honorary degree from ex-Trump adviser"
+    excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alum who briefly served as President Donald Trump’s national security"
+    publishedDateTime: 2021-06-01T21:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "National Enquirer owner fined for illegal Trump campaign aid"
     excerpt: "A federal election watchdog fined the publisher of the National Enquirer $187,500 for a payment it made to keep under wraps a story about former President Donald Trump’s alleged affair with a former P"
     publishedDateTime: 2021-06-02T19:37:00Z
@@ -236,22 +252,6 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_d4b0e2d85c864d3abe3703cf1aa81846_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Talk of Trump 2024 run builds as legal pressure intensifies"
-    excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking like he plans to mount another White Ho"
-    publishedDateTime: 2021-06-03T04:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_02df0797f603407287dc1a87bb5753b4_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -575,6 +575,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "PL3XcPbixWjPJ+fhpP+Jxb4CGZ+Zbsho8EQ9f5X5WN0jxDpOLwljfmUXN7wXPFJ022WKaX+7a0PFy434/B8dTRJD5MSl0cU2qAyrfoicceq14/be9/yl6dhEqKx6iivk83JfJaWFUU9lLCVsevhfyqJllvitls7NfHtUM7vL4FHTkyezGdwzVf0wJzs8JCJCvuEZu2E/bF+v46xHC1m8w2Njyy6PEkOsRhbWJaMqOz9MGk2lj0YhQNUwJFFwIEYAs9lj+nStxHd/wPhhe7hgAo8sv1Scsqr8zycRcIxWUsGbxsehzDdKX3GTxje+Zf9nW4MZyeE/Ff/8TyAC5FZ8Kwm1Dlmu62dK2b/7GWbi+Sc=;T7tGSI5ILoF5N7AVYbsXTA=="
+secured: "DcnthjNPq0ZaTCKh8r2++MOwJA2fgkOsWiqCCDHcvd0AzWmFKw2GgbSc4kiC4mP8KNDCpxFgbIesNDawR5xeiAt1t7M1hKT+F0LNwPdQosO68MqoKZopXeMAKvW/cqgWSdaR/dgPSu/ZPhKJTMRzG1aAYnzU9VvWtPHrPJV7piNz0ySWrJHOzSvVte0OfDxei1uaKNv4js6i5tREFtNDwaiTeMHLe7WLODCgQ7s8ZaQFd9ymmIZjGNsBUeT+wOSZgtypvaUs//zl9w141HIU92X9dHHGN1EnqVPb8g4PK2wN14EAuds/LQ0SO7fGcgpfE72tpgWwOm+CKp7is/XIWd8SVEBVoF2pf8s3lO01l7s=;C1loFfjFiR+0zPuUY2HShQ=="
 ---
 
