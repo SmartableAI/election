@@ -43,6 +43,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Ex-VP Pence to headline GOP event in New Hampshire"
+    excerpt: "Former Vice President Mike Pence will speak Thursday at a Republican fundraising dinner in New Hampshire, fueling speculation about a 2024 bid."
+    publishedDateTime: 2021-06-03T13:27:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jun/3/ex-vice-president-mike-pence-to-headline-gop-event/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jun/3/ex-vice-president-mike-pence-to-headline-gop-event/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/3/ex-vice-president-mike-pence-to-headline-gop-event/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/29/pence_palmetto_family_council_03238_c0-0-4078-2378_s1200x700.jpg?dcbc3518889d8f3c3cee918b44afabe6930c4985"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Former Vice President Mike Pence to visit New Hampshire"
     excerpt: "He will speak at the Hillsborough County Republican Committee's annual Lincoln-Reagan Awards Dinner in Manchester on June 3."
     publishedDateTime: 2021-05-04T16:24:00Z

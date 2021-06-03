@@ -470,6 +470,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump administration secretly seized phone and email records of reporters"
+    excerpt: "The DOJ, under Donald Trump, took clandestine actions to gather info on reporters from three agencies; something President Biden vows not to do."
+    publishedDateTime: 2021-06-03T13:06:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/06/03/trump-administration-secretly-seized-phone-and-email-records-reporters/7521212002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9dee527e-a9e6-4255-93b5-7df576dec2e7_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
     excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
     publishedDateTime: 2021-05-20T19:25:00Z
@@ -592,15 +606,6 @@ related:
         width: 1024
         height: 696
         isCached: true
-  - title: "Trump Justice Dept. Seized Phone Records of 4 NYT Reporters"
-    excerpt: "The Trump Justice Department secretly obtained the phone records of four New York Times reporters as part of a leak investigation."
-    publishedDateTime: 2021-06-03T01:41:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-york/articles/2021-06-02/trump-justice-dept-seized-phone-records-of-4-nyt-reporters"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "pHDOxf/PK8pW+RUgGGlVvfFEvtVcSxYdpI0jrCutrcbcfBI+Z7DQFJw1K2youlKTz2v/se9AaqYUBt/NGAlZ3t694a2h+XzUHLZ2IA22KhdTVrXsoSTEclZ4AnXgYPfpVRjRPp6Ug1SmE6Aijm6Z6gV/RaL/Ux4JBfX/Px4TYmSa+2Kme/0pjBjPR75nmnBwinCK+fyjiEf6ZiZWJfa44lBgW4+NVhnoMkkWueWQp9LQUtQ3l0eZfOVvzeuPgr3XZdYVsnVVFWS9Q8nJK6NLSo5M7pCVKaD44jVjlfsvVoqMA0mLUhK/8HoKELVTfvGamIzqYn+hddEO3fM+7woEkBg6aRF73OObY3AP3DlRdscu1HWZrtaIR6AIjlMf+RFBCgmtCZkQcZyHi6s3VgiaFTkvmYhR9GEWWl2L+sulwG4P8YvVA8RmZkhEqTRZudINRdls+kV0BDu4YE4YT/s5oM2PQz0ubaFO6wf3SUKfMSGdG6PnnKuhSB/IcDPypDhXK0jp7bG9atx0DVyaInpuhQ==;Phv2X+BXtsyjYRSksZ6QkA=="
 ---

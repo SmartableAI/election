@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
 type: article
 quality: 190
-heat: 590
+heat: 610
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479739/210602-2x1-karen-mcdougal-donald-trump-ew-238p.jpg"
         width: 2000
         height: 1000
+        isCached: true
+  - title: "Trump Justice Dept. seized phone records of 4 NYT reporters"
+    excerpt: "It's the third instance in the last month in which a news outlet disclosed federal authorities seized the records of its journalists."
+    publishedDateTime: 2021-06-03T12:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/trump-justice-dept-seized-phone-records-4-nyt-reporters-n1269470"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269470"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269470"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479935/210603-nyt-trump-mc-1321.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "National Enquirer publisher to pay $187,500 fine for Trump hush money payment"
     excerpt: "The FEC found the cash the tabloid paid to keep Karen McDougal to keep quiet about her alleged affair with Donald Trump was an unlawful campaign contribution."

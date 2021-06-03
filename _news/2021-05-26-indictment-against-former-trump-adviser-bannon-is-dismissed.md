@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New Senate report to detail security failures on January 6 but will fuel fight for probe over Trump's role"
+    excerpt: "Two Senate committees plan to release a flurry of recommendations in a thorough 100-page-plus report about what went wrong on January 6, but they will stop short of examining former President Donald Trump's role in the run-up to the attack on the US Capitol, which is likely to fuel the partisan debate"
+    publishedDateTime: 2021-06-03T13:24:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iT2k4vxDlaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/senate-report-january-6-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/senate-report-january-6-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210321231141-capitol-hill-riot-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "zCw2HOseAg+SrprS9gFVyXrNQzEAM3qmWgkV5uajWnhxIL8+u4a1OuEXR3vw6IC0ji4OOgSa4Mwx2e8AesJKHdnFw2cPef3bzmE9Tyfm0XPYv+MNjHc/JILeQ9QdArvg9vRjt5oLWCpW5dcSbzzoc9gfJCW+MUVu8lix9DJ4LDH0CgpE0CXRIUE1rYZ0kkM5/GP8a3c5kveEUa7+qLHeMS+UyT2piikPRQVSpSs1j1/M95f+XjDLdfHIOraIiTzPB3SmLPLYgH2LvsGyDTnhbaaH6Uzg4aoBie0kk+n1oWwCb5sAhJ69Votq8uDE11mdFxV3vcCjScJACEirvEoluuF7eWUveKoAODW+/6kgbH/nFv9owd3a3e801fRJM1v3MxVdzQII2C9Snz2Va6X9E6vomqi+BI9cqyLYBr2B7+M2ScXsQ1DNp1AK3QO9tuIm6Jfj5ou0wdS4fCLZmq8vYV/X9KJhXdys9UHsNyqT7cF7NkOKgBaTu4/SytagWIIJ1iYo8p4y97EvWV3YDYxVlg==;BBrTgfVoarhy+OTzuTjKxw=="
 ---

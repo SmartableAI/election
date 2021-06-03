@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-se
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/house-january-6-probe-senate/index.html"
 type: article
 quality: 172
-heat: 212
+heat: 232
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210523110408-scott-brown-sotu-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New Senate report to detail security failures on January 6 but will fuel fight for probe over Trump's role"
+    excerpt: "Two Senate committees plan to release a flurry of recommendations in a thorough 100-page-plus report about what went wrong on January 6, but they will stop short of examining former President Donald Trump's role in the run-up to the attack on the US Capitol, which is likely to fuel the partisan debate"
+    publishedDateTime: 2021-06-03T13:24:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iT2k4vxDlaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/senate-report-january-6-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/senate-report-january-6-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210321231141-capitol-hill-riot-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2650
+heat: 2670
 published: true
 
 provider:
@@ -1737,6 +1737,20 @@ related:
     quality: 70
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/russian-sukhoi-jet-fighters-fly-over-moscow-russia-AFP_9AY694.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Biden To Overhaul Trump's China Investment Blacklist: Report"
+    excerpt: "Joe Biden intends to this week overhaul a list of Chinese firms that US investors are allowed to own shares in, as the president re-evaluates the world powers' post-Trump relationship while maintaining pressure on Beijing."
+    publishedDateTime: 2021-06-03T10:49:00Z
+    webUrl: "https://www.ibtimes.com/biden-overhaul-trumps-china-investment-blacklist-report-3216242"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/03/bidens-new-order-will-see-the-creation-of.jpg"
         width: 1024
         height: 682
         isCached: true

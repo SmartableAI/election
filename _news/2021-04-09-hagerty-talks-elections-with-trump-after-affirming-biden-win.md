@@ -1735,6 +1735,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden To Overhaul Trump's China Investment Blacklist: Report"
+    excerpt: "Joe Biden intends to this week overhaul a list of Chinese firms that US investors are allowed to own shares in, as the president re-evaluates the world powers' post-Trump relationship while maintaining pressure on Beijing."
+    publishedDateTime: 2021-06-03T10:49:00Z
+    webUrl: "https://www.ibtimes.com/biden-overhaul-trumps-china-investment-blacklist-report-3216242"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/03/bidens-new-order-will-see-the-creation-of.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"
     publishedDateTime: 2021-05-20T20:26:00Z

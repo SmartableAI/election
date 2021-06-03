@@ -304,6 +304,22 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Trump Justice Dept. seized phone records of 4 NYT reporters"
+    excerpt: "It's the third instance in the last month in which a news outlet disclosed federal authorities seized the records of its journalists."
+    publishedDateTime: 2021-06-03T12:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/trump-justice-dept-seized-phone-records-4-nyt-reporters-n1269470"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269470"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269470"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479935/210603-nyt-trump-mc-1321.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "POLITICO Playbook: GOP dreads the return of Trump rallies"
     excerpt: "But ONALD TRUMP’S return to the stump, predicting his rallies will cause a major headache for the party as it mounts a bid to take back Congress in 2022. Even as they tee off against Twitter and Facebook for banning Trump,"
     publishedDateTime: 2021-05-27T10:10:00Z

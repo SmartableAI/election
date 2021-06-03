@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4997276001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4997276001"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/13205b3acb6709a6336ed1c519eee78b175c165e/0_24_5200_3120/master/5200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b3e6e1afb5b26ade3e33f18de16ff2e"
         width: 600
         height: 360
+        isCached: true
+  - title: "Justice Dept. secretly obtained New York Times reporters’ phone records during Trump administration"
+    excerpt: "This is the third time in recent weeks that the department has disclosed secretly sifting through journalists’ data during the Trump administration."
+    publishedDateTime: 2021-06-03T06:44:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/new-york-times-phone-records-trump/2021/06/02/c1375918-c407-11eb-93f5-ee9558eecf4b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/new-york-times-phone-records-trump/2021/06/02/c1375918-c407-11eb-93f5-ee9558eecf4b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/new-york-times-phone-records-trump/2021/06/02/c1375918-c407-11eb-93f5-ee9558eecf4b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6DDROTGECQI6XGUN7FOXOJEWPQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Search warrant for Rudy Giuliani’s records resolved a Justice Department dispute leftover from the Trump administration"
     excerpt: "The question of whether to serve a search warrant for Rudy Giuliani's records simmered inside the Justice Department in the waning months of the Trump administration, dividing officials in New York and Washington and remaining unresolved for a new leadership team to sort out."
