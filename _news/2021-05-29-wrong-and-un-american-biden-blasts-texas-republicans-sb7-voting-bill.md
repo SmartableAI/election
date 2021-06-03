@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/29/wrong-un-american-bi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill"
 type: article
 quality: 124
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/88391a34f332ac8b3d05b82d38153a38f9d5672a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84d47d854adfd84f347375c94e376574"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden promises ‘summer of freedom’ as he urges more Americans to get vaccinated – as it happened"
+    excerpt: "The more people we get vaccinated, the more success we’re going to have,’ president says – follow all the day’s politics news"
+    publishedDateTime: 2021-06-02T23:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b7d7df8f082ac930ae856e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 112
     images:
       - url: "https://i.guim.co.uk/img/media/88391a34f332ac8b3d05b82d38153a38f9d5672a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84d47d854adfd84f347375c94e376574"
         width: 600

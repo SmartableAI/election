@@ -95,6 +95,22 @@ related:
         width: 320
         height: 212
         isCached: true
+  - title: "Trump justice department secretly obtained New York Times reporters’ phone records, paper says"
+    excerpt: "Previous seizures of the records of journalists from the Washington Post and CNN have emerged in the past month"
+    publishedDateTime: 2021-06-03T05:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/trump-justice-department-secretly-obtained-new-york-times-reporters-phone-records-paper-says"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/trump-justice-department-secretly-obtained-new-york-times-reporters-phone-records-paper-says"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/trump-justice-department-secretly-obtained-new-york-times-reporters-phone-records-paper-says"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/13205b3acb6709a6336ed1c519eee78b175c165e/0_24_5200_3120/master/5200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b3e6e1afb5b26ade3e33f18de16ff2e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Search warrant for Rudy Giuliani’s records resolved a Justice Department dispute leftover from the Trump administration"
     excerpt: "The question of whether to serve a search warrant for Rudy Giuliani's records simmered inside the Justice Department in the waning months of the Trump administration, dividing officials in New York and Washington and remaining unresolved for a new leadership team to sort out."
     publishedDateTime: 2021-05-01T17:59:00Z

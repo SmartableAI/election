@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Search warrant for Rudy Giuliani’s records resolved a Justice Department dispute leftover from the Trump administration"
-excerpt: "The question of whether to serve a search warrant for Rudy Giuliani's records simmered inside the Justice Department in the waning months of the Trump administration, dividing officials in New York and Washington and remaining unresolved for a new leadership team to sort out."
-publishedDateTime: 2021-05-01T17:59:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
+title: "Trump justice department secretly obtained New York Times reporters’ phone records, paper says"
+excerpt: "Previous seizures of the records of journalists from the Washington Post and CNN have emerged in the past month"
+publishedDateTime: 2021-06-03T05:03:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jun/03/trump-justice-department-secretly-obtained-new-york-times-reporters-phone-records-paper-says"
+webUrl: "https://www.theguardian.com/us-news/2021/jun/03/trump-justice-department-secretly-obtained-new-york-times-reporters-phone-records-paper-says"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/trump-justice-department-secretly-obtained-new-york-times-reporters-phone-records-paper-says"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/trump-justice-department-secretly-obtained-new-york-times-reporters-phone-records-paper-says"
 type: article
-quality: 101
+quality: 113
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/c-Ale6YBxYo5LkKH0F3piP2Xdj4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4ULNT3YHFH66AEJUZPITPRDTPQ.aspx"
-    width: 1200
-    height: 800
+  - url: "https://i.guim.co.uk/img/media/13205b3acb6709a6336ed1c519eee78b175c165e/0_24_5200_3120/master/5200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b3e6e1afb5b26ade3e33f18de16ff2e"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -95,21 +95,21 @@ related:
         width: 320
         height: 212
         isCached: true
-  - title: "Trump justice department secretly obtained New York Times reporters’ phone records, paper says"
-    excerpt: "Previous seizures of the records of journalists from the Washington Post and CNN have emerged in the past month"
-    publishedDateTime: 2021-06-03T05:03:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/trump-justice-department-secretly-obtained-new-york-times-reporters-phone-records-paper-says"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/trump-justice-department-secretly-obtained-new-york-times-reporters-phone-records-paper-says"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/trump-justice-department-secretly-obtained-new-york-times-reporters-phone-records-paper-says"
+  - title: "Search warrant for Rudy Giuliani’s records resolved a Justice Department dispute leftover from the Trump administration"
+    excerpt: "The question of whether to serve a search warrant for Rudy Giuliani's records simmered inside the Justice Department in the waning months of the Trump administration, dividing officials in New York and Washington and remaining unresolved for a new leadership team to sort out."
+    publishedDateTime: 2021-05-01T17:59:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 113
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
     images:
-      - url: "https://i.guim.co.uk/img/media/13205b3acb6709a6336ed1c519eee78b175c165e/0_24_5200_3120/master/5200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b3e6e1afb5b26ade3e33f18de16ff2e"
-        width: 600
-        height: 360
+      - url: "https://www.chicagotribune.com/resizer/c-Ale6YBxYo5LkKH0F3piP2Xdj4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4ULNT3YHFH66AEJUZPITPRDTPQ.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump Justice Department Seized Reporters’ Phone Records In ‘Authoritarian’ Move"
     excerpt: "Three Washington Post reporters became the subject of an investigation by Donald Trump’s Justice Department after reporting on his administration’s alleged ties with Russia during the 2016 election."
@@ -153,6 +153,6 @@ related:
       domain: usnews.com
     quality: 52
 
-secured: "ZDvTuWJkjRZfw70C9n/oQwxAJcO3+WZxl93RvytzbuXXyu4qJaJnfM+zsG2mtcgGk0YD2TKZSNK1rHotlsJyeeaY8hiwXGmLXfCNSfTVnQZGq9NndFhPrQQ5OSw6mJ/LVx8gMOL3B48aAxj1gweTBO/ZZLondDwue5lrR8hXOgZuvvzjUCQFHz3uqwemfSURoUkP4dQPbshd+kZC4uXvMhw/7/lpgcXHJabeNlRC2/eGZPSaI//od8ZJI3r5qpGFu5tZSSpuS9PUYRWgjp7u3Q3iNY2ndFUZOCMouQklWFjb0UVdtpYUWCjPFWf39SHgfTt10BcCKhde6ydYU6UINDAXrpIyFlq25FuTmLhQxtU8qmvZbx8GYrqvd52WWPzouktf3sdSiPmvHLIn6VEnkj1Y8lbMtk+5eKlmZ9cZUa5rPgO46KCG9rkh/MC290rKqwMfAXH6o5mrtyOipeUr3ebjIx8hzyDePeSyaOev+5Bi2/YPKiNus0lkccPNkvN8OzEwLs0f+SFhvMAodIfmWg==;l1SDi8p95GIceUQWyZQYCQ=="
+secured: "wHLRTbBPT/G+IXOo5xj8ssIDyaDWKn957NlhR9ExZM91S+2DDr62eUhUUAaEj0J1a8O1EzFkbOGlZ0DZOqhJR5AraqPENvVeLEbIUB5JGevW7oRqxKV3Ra1cSaOtlUe5Upmla8M9YToRb/m77zNoRF6/Z446x/jm6TW8R6CbWu9Nm9015DvRXmRYVogbmKk+SGVm2+SqVU0IY/s3PbDxDrvoDehkvrCPA9wvvolFj/dzwrrEaA5XLAqaes8B+5Ue8+ceArt04QBTWJ5LcCfEyeX2pRqmMCn17cMbVByhrirVOQSpRbQVrFBxlJoUa76NqtNBIXm1LsrjjeuVtxQTGCAYXCB4i4MgUuzoUn7atO4=;nBzmcdVA6xscNZgRtd6yuw=="
 ---
 
