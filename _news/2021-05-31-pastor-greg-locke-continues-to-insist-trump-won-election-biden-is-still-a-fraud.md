@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-wo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1"
 type: article
 quality: 149
-heat: 409
+heat: 429
 published: true
 
 provider:
@@ -147,6 +147,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/26/2cee12b8-557a-41ff-8010-3c9b05ed62fe/thumbnail/1200x630/06bcc640d636ef243c239d0c730e1bfc/cbsn-fusion-breaking-down-the-investigation-into-pres-trump-thumbnail-723956-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden administration expands Trump-era order by banning U.S. investment in Chinese companies tied to the military or surveillance technology"
+    excerpt: "The Biden administration is broadening a Trump-era ban on U.S. investment in China to include Chinese companies that sell surveillance technology"
+    publishedDateTime: 2021-06-03T21:30:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/06/03/investment-ban-chinese-surveillance-tech/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/03/investment-ban-chinese-surveillance-tech/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/03/investment-ban-chinese-surveillance-tech/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMIWXMCHNMI6TFFL2LO2HQG7KI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Donald Trump endorses Gov. Greg Abbott for reelection"
     excerpt: "Former President Donald Trump endorsed Gov. Greg Abbott for reelection on Tuesday, giving him an early and crucial stamp of approval as he confronts a possibly competitive primary. Abbott has already drawn a challenge from former state Sen."

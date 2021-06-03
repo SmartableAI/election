@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-h
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june?amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -83,6 +83,17 @@ related:
     webUrl: "https://www.bostonglobe.com/2021/05/04/metro/former-vice-president-mike-pence-visit-new-hampshire/"
     ampWebUrl: "https://www.bostonglobe.com/2021/05/04/metro/former-vice-president-mike-pence-visit-new-hampshire/?outputType=amp"
     cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/04/metro/former-vice-president-mike-pence-visit-new-hampshire/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
+  - title: "Pence returns to New Hampshire, key early presidential voting state"
+    excerpt: "Back in another key early presidential voting state, former Vice President Mike Pence is set to speak Thursday evening in New Hampshire."
+    publishedDateTime: 2021-06-03T20:06:00Z
+    webUrl: "https://www.bostonglobe.com/2021/06/03/nation/pence-returns-another-key-early-presidential-voting-state/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/06/03/nation/pence-returns-another-key-early-presidential-voting-state/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/06/03/nation/pence-returns-another-key-early-presidential-voting-state/?outputType=amp"
     type: article
     provider:
       name: The Boston Globe

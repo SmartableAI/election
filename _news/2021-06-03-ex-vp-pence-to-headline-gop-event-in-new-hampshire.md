@@ -84,6 +84,17 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Pence returns to New Hampshire, key early presidential voting state"
+    excerpt: "Back in another key early presidential voting state, former Vice President Mike Pence is set to speak Thursday evening in New Hampshire."
+    publishedDateTime: 2021-06-03T20:06:00Z
+    webUrl: "https://www.bostonglobe.com/2021/06/03/nation/pence-returns-another-key-early-presidential-voting-state/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/06/03/nation/pence-returns-another-key-early-presidential-voting-state/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/06/03/nation/pence-returns-another-key-early-presidential-voting-state/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
 
 secured: "FDRCiPL1PivAbbPtFeadlWU/355JY++Y4wGk9fcUvJ5z3vizo9oBMfYdTfSJJf5pTmXWVIh36kyZBW02BtZGYoG2RiOe1ND0HYZpgfQOcKaGPGbMsI6SxM3IGP8njM9Q5t3k5wG9eB9pwiuvXgMY0wg4n+K4ZvhqF/VqOHanJOh9IYrtsn89iep7FS84Q4+iLZWCiYQp2QMqNnB0IT9M2loCpEsYoHE/E0rqsl1MLvRf2MpZqVqBRjC2NwY3YHTTDhDVHRvOJ+OFlCLf5mBGVOXO6GqE4e1NOorywf30BVQmLpPqmDcH7+jJvcrYR9C1opRey5Mffp70CLuF9hpr3MTbSKyBH/ZZzlQbtfpsnpA=;7Zuzbw7RASAWa82ZBnCyeQ=="
 ---

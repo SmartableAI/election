@@ -160,6 +160,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden administration expands Trump-era order by banning U.S. investment in Chinese companies tied to the military or surveillance technology"
+    excerpt: "The Biden administration is broadening a Trump-era ban on U.S. investment in China to include Chinese companies that sell surveillance technology"
+    publishedDateTime: 2021-06-03T21:30:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/06/03/investment-ban-chinese-surveillance-tech/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/03/investment-ban-chinese-surveillance-tech/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/03/investment-ban-chinese-surveillance-tech/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMIWXMCHNMI6TFFL2LO2HQG7KI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump endorses Gov. Greg Abbott for reelection"
     excerpt: "Former President Donald Trump endorsed Gov. Greg Abbott for reelection on Tuesday, giving him an early and crucial stamp of approval as he confronts a possibly competitive primary. Abbott has already drawn a challenge from former state Sen."
     publishedDateTime: 2021-06-02T02:08:00Z

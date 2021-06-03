@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Progressives push Biden to do more to distribute vaccines across the world"
+    excerpt: "A group of more than 30 Democratic members of the House of Representatives have signed onto a letter to the White House encouraging the Biden administration to do even more to help distribute vaccines across the world.\n    \n"
+    publishedDateTime: 2021-06-03T20:59:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/igDpRpHW16A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/progressive-reaction-biden-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/progressive-reaction-biden-vaccines/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330130504-01-rep-pramila-jayapal-0301-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden floats bringing down infrastructure price tag but wants GOP concessions"
     excerpt: "President Joe Biden met with Republican Sen. Shelley Moore Capito of West Virginia at the White House on Wednesday as part of ongoing discussions between his administration and the Senate GOP on infrastructure.\n    \n"
     publishedDateTime: 2021-06-03T12:52:07Z

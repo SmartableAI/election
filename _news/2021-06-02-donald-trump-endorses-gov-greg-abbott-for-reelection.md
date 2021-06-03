@@ -160,6 +160,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden administration expands Trump-era order by banning U.S. investment in Chinese companies tied to the military or surveillance technology"
+    excerpt: "The Biden administration is broadening a Trump-era ban on U.S. investment in China to include Chinese companies that sell surveillance technology"
+    publishedDateTime: 2021-06-03T21:30:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/06/03/investment-ban-chinese-surveillance-tech/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/03/investment-ban-chinese-surveillance-tech/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/03/investment-ban-chinese-surveillance-tech/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMIWXMCHNMI6TFFL2LO2HQG7KI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump Accuses Joe Biden Of ‘Incompetence’ Over Immigration, Border Decisions"
     excerpt: "Donald Trump said President Joe Biden is incompetent and “destroying our country.” Trump shared his opinions Saturday in a phone call to Newsmax program “Dick Morris Democracy.” During the conversation,"
     publishedDateTime: 2021-05-30T17:34:00Z

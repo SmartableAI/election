@@ -57,6 +57,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden tax proposal in focus at Group of 7 ministers' meeting"
+    excerpt: "Finance ministers from the Group of Seven wealthy democracies have a lot to talk about when they gather in London starting Friday"
+    publishedDateTime: 2021-06-03T13:28:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/biden-tax-proposal-focus-group-ministers-meeting-78063482"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/biden-tax-proposal-focus-group-ministers-meeting-78063482"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/biden-tax-proposal-focus-group-ministers-meeting-78063482"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_84bfae8308e64055a983155e750d1dcb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "In Biden Communion debate, US bishops' show willingness to test Pope Francis"
     excerpt: "But according to some observers, the controversy is less about the sacrament than it is about the lack of communion among the U.S. bishops themselves and between the U.S. conference and the Vatican. “This is more about Pope Francis than it is about Joe Biden,"
     publishedDateTime: 2021-05-28T21:42:00Z

@@ -96,6 +96,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris to make anti-corruption efforts 'front and center' of visit to Guatemala, Mexico"
+    excerpt: "Vice President Kamala Harris will make anti-corruption efforts “front and center” of her visits to Guatemala and Mexico next week, as part of her efforts to tackle the “root causes” of the migration crisis at the southern border, a senior administration official said Thursday."
+    publishedDateTime: 2021-06-03T21:17:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uWhRxw1YUAc/harris-anti-corruption-efforts-front-and-center-of-visit-guatemala-mexico"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-anti-corruption-efforts-front-and-center-of-visit-guatemala-mexico.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-anti-corruption-efforts-front-and-center-of-visit-guatemala-mexico.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f435c28d-a781-48cf-8acb-5c51c8465a28/a33bccfb-e734-4dd0-ac2f-794c42400a0a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris uses Naval Academy speech to plug ‘rolled-up solar panel’"
     excerpt: "Vice President Kamala Harris on Friday told graduating Naval Academy midshipmen that they may soon be able to pack a “rolled-up solar panel.”"
     publishedDateTime: 2021-05-28T18:18:00Z

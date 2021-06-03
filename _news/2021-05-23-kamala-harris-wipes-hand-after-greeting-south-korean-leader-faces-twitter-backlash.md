@@ -80,6 +80,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris to make anti-corruption efforts 'front and center' of visit to Guatemala, Mexico"
+    excerpt: "Vice President Kamala Harris will make anti-corruption efforts “front and center” of her visits to Guatemala and Mexico next week, as part of her efforts to tackle the “root causes” of the migration crisis at the southern border, a senior administration official said Thursday."
+    publishedDateTime: 2021-06-03T21:17:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uWhRxw1YUAc/harris-anti-corruption-efforts-front-and-center-of-visit-guatemala-mexico"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-anti-corruption-efforts-front-and-center-of-visit-guatemala-mexico.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-anti-corruption-efforts-front-and-center-of-visit-guatemala-mexico.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f435c28d-a781-48cf-8acb-5c51c8465a28/a33bccfb-e734-4dd0-ac2f-794c42400a0a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "VP Kamala Harris holds unusual bilateral meeting with a foreign leader at the White House"
     excerpt: "Vice President Harris met with South Korean President Moon Jae-in Friday, without the participation of President Biden, and then the two appeared together to make a statement. A bilateral meeting at the White House between a U.S. vice president and a visiting head of state followed by a joint appearance"
     publishedDateTime: 2021-05-22T02:14:59Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ"
 type: article
 quality: 140
-heat: 900
+heat: 920
 published: true
 
 provider:
@@ -436,6 +436,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Ex-Treasury employee gets prison for leaks on Trump campaign officials"
+    excerpt: "A former senior U.S. Treasury Department employee who pleaded guilty to conspiring to give a reporter sensitive information about Donald Trump's onetime campaign chairman Paul Manafort and others was sentenced on Thursday to six months in prison."
+    publishedDateTime: 2021-06-03T20:28:00Z
+    webUrl: "https://www.reuters.com/business/finance/ex-treasury-employee-gets-prison-leaks-trump-campaign-officials-2021-06-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/R1PCuJDrAz3oq6tcEe0dzDCR7FY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NTOCMAZONVPYRDQFB3KRMWDLSQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "What happens next as grand jury considers case on Trump business dealings"
     excerpt: "Former President Donald Trump is responding to the seating of a grand jury in the investigation into his business dealings, calling it \"purely political.\" CBS News legal contributor Rebecca Roiphe joined CBSN's Tanya Rivero to explain the process and what could happen next in this investigation."
     publishedDateTime: 2021-05-26T19:45:00Z

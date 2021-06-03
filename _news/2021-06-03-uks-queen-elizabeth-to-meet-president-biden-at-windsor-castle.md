@@ -3,8 +3,8 @@ category: news
 title: "UK's Queen Elizabeth to meet President Biden at Windsor Castle"
 excerpt: "Queen Elizabeth will meet U.S. President Joe Biden and First Lady Jill Biden at her Windsor Castle home at the conclusion of the G7 summit which begins in Britain next week, Buckingham Palace said on Thursday."
 publishedDateTime: 2021-06-03T15:10:00Z
-originalUrl: "https://www.reuters.com/world/uks-queen-elizabeth-meet-president-biden-windsor-castle-2021-06-03/"
-webUrl: "https://www.reuters.com/world/uks-queen-elizabeth-meet-president-biden-windsor-castle-2021-06-03/"
+originalUrl: "https://www.reuters.com/article/uk-g7-summit-royals/uks-queen-elizabeth-to-meet-president-biden-at-windsor-castle-idUSKCN2DF13M"
+webUrl: "https://www.reuters.com/article/uk-g7-summit-royals/uks-queen-elizabeth-to-meet-president-biden-at-windsor-castle-idUSKCN2DF13M"
 type: article
 quality: 105
 heat: -1
@@ -63,8 +63,8 @@ related:
         isCached: true
   - title: "Biden to meet with Queen Elizabeth this month, Buckingham Palace says – live"
     excerpt: "White House confirms president will meet the queen on 13 June when he travels to the UK for the G-7 summit"
-    publishedDateTime: 2021-06-03T14:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8e66f8f082e80569f51a7"
+    publishedDateTime: 2021-06-03T14:59:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8eb578f08b9889b367d18"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
     type: article
@@ -73,11 +73,11 @@ related:
       domain: theguardian.com
     quality: 122
     images:
-      - url: "https://i.guim.co.uk/img/media/aee34c9f2584e4889e0cf54ba4c7597e1e7ebed9/12_117_1908_1323/master/1908.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ccb8e53e77482a3f217c6f89527d2888"
+      - url: "https://i.guim.co.uk/img/media/e12d9e9cd48b8789d15d47a0c8e752777252b3af/0_261_7804_4682/master/7804.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ffedaf4586025e10f958c141c511648"
         width: 600
-        height: 416
+        height: 360
         isCached: true
 
-secured: "EKZHdm9lHGvennLkNtJcWCRHHcGuy/8ZeKd1+wXCARP3YkD2OSMdbhjHJOKRYLfeu6sst3/ZnUZRIhmfN/rYx0F2T+hyAzlDF/XhVZTQ8cIolCAWFRjOAP8b7yADyW3FSP09MlMc0xhhafdT3/vppU55d9nqQlIPXzwMJymCCXgXD9rGjih8JFOo+TgWC+QZeJlPb3OcRjNZAkaIgNifMsMrBvDMgghkencddvAzP+jZnpKxgRgNnX2HH029yZGI6DLtyoF4e6bCaVNvAEFZ1mEqpcp57CL0XZI0thZAW17nDqZLsiFC6JDnmqyEzjeLiS6uzLBuzMvwmzZZTl9sMId9jMUltagcbawRxRlUYknpH7W+MZiIU9bStOb4L1rlN1Yzlt9PK+LvRkwVFN2k9GNh75WK+Gmt//CBdulkpoUxZhJINS7RaRpYPxmmTM3DPIHGKKyYyrp3ffWvVT1PFc0Z1e36ogy7dK4tnIAoXhHl4ercuLTZCpYGOI1ULCrCEW3obxK5P0fZ8AMh1JFqVg==;jBdA2TS+Kn5xfg3nV/2l8A=="
+secured: "02mNkN7eFdWK9vOeHSPd/phOKCjsgQ+acGLEqVy4r7unp7F+yVA+riDR7xeLp9tYrxMTjrf1NTur9fPRcpJpxoOh6fVmC1cwpMzuM90/C4AjnhV4hbDj2wN4q6JvnJpiMoBMUCkmES+mk5wL1NlW3PVg+Y/rsZa+CpdCEjjBB4QafPsnunLbozUwJH6wFk9cJgCpQsPMnQbUvHRqheKa6X/qAzsaM4yB5XNu1J7bAgx6Oj22tMkHTiMVI5xXkybgraFhwT2vf2EyJh9Vi0H+cwSd4rJ4FZzvb+IWTs6FGE2u9jUsm5LKKQhIJCx86n5IRW6nhyXKRhstmbpWPVucaoF89vA0x2QihnAk54egEjg=;8D1qp/vTb7Oot8R7eSf6dQ=="
 ---
 
