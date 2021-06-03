@@ -269,22 +269,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Talk of Trump 2024 run builds as legal pressure intensifies"
-    excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking like he plans to mount another White Ho"
-    publishedDateTime: 2021-06-03T04:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_02df0797f603407287dc1a87bb5753b4_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump ends blog after 29 days, infuriated by measly readership"
     excerpt: "Infuriated by reports highlighting its measly viewership, Trump ordered his team Tuesday to put the blog out of its misery."
     publishedDateTime: 2021-06-02T22:11:00Z
@@ -588,6 +572,17 @@ related:
         width: 6720
         height: 4480
         isCached: true
+  - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
+    excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."
+    publishedDateTime: 2021-06-03T09:43:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Trump Pulls Own Blog From Internet"
     excerpt: "Donald Trump has canceled his own blog, an advisor announced Wednesday, highlighting the ex-president and election conspiracy theorist's struggle to escape the social media wilderness. The blog \"will not be returning,"
     publishedDateTime: 2021-06-02T17:00:00Z

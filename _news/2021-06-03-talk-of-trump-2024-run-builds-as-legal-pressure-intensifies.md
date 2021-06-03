@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Talk of Trump 2024 run builds as legal pressure intensifies"
-excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking like he plans to mount another White Ho"
-publishedDateTime: 2021-06-03T04:33:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
-webUrl: "https://abcnews.go.com/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/talk-trump-2024-run-builds-legal-pressure-intensifies-78056294"
+title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
+excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."
+publishedDateTime: 2021-06-03T09:43:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_02df0797f603407287dc1a87bb5753b4_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "U.S. judge says Trump's election falsehoods still pose security risk"
@@ -612,6 +606,6 @@ related:
       domain: desmoinesregister.com
     quality: 26
 
-secured: "xeC/FM+JJR/hmCCWdDDaWEQX7N9oGjNBtz7yXLZ0ZAAT8J7pwxG6CzRVAGyCUWOZY5hh1tK4+B8A9+TN+PVHQwvs0X0DdRIBq3GDFqRv/dYVolK8Rj6n1fx1g1N3npBWmhCcg3qgJ1XK4Fu4lFKsEFUeb993ba9g8yO4pUrlsngEuuoB4LXGPcdjjwSRfVtRARaCVKyAt3SP1Y3bMWnSUrmww4VIfxtnHgOvLG7+mZjMracdoYP18kUE/8/IKlqEe7+/j5Rw8hOHBIVDm0NNpHAqbgzZDChej6fdWk5+BojKKsUO1OBK1KLA/jyqFTnwFZKy3JlptNXxXJo41I15w9gBMURku8XShz2zE7VFfV3z9gfcjqBPJRLC9olVDpwDcnTWIaiTgMUJ8cKcVTBZYW7cvZatTrDWmcavbMMUyF4DwkZ2fKq6z+JXX3Vdk+XsETxOpwRnWBwcZ6NWLxOO3oeiK9uvv81yJdF9oDKU7u/Zi/9XJ/SJXX+mDaVdnhOBzuEG4Svw5HdFOHdmGpFiuA==;0lVtGZp3krjcuI2I6wSz4w=="
+secured: "6GpfxpJXJiP80SEUYQRbxcwX0gIaaOvHuIBpBeO02+5+QOO34NiO4eHNMyDA8iH30spNtREoY4tN1SJO68uEbm9Cg+Kyyx19Jq9USKUHhrf8OqBowabmiekirtRkh1PePdp4F17TUjGLkGesNWp9vKREwPZXPWMzEys3ttDoJu72AKQ/c+XV0I+QAXHrhwxkcHQHc2uRhmM2kx/wumeBquiDaH0FN5ZJMsY6vaRw8NDU31Dbmdr4cibtUW9haCxYNQIMSKGCXB700zltBhyiXV2/q/AbQ9YwbOLU4Io8cVk7K9Q+K2V2JlgDDGJnaxpPkpILkSTGbcDK/FEKTyHNDzXWtX5/HLB0XVHwEsdgROTz4eYI8BWIFM4beOYA8uBsoEOCZhotCAwBT7pAheaLBoWmkAIXIGOKtG9eAJvlppeo2ZaYZuk6fgf50buDwdE1ky427XSUSCOn3X0B7ACCG8MFWCYorAiSXRpSmfSPa8s3cYGPzbfVIoFujMtxUtvauwZhoN/mn6FY9LyyNPCw5w==;ngNPfULygFRqss5tY9cZBg=="
 ---
 

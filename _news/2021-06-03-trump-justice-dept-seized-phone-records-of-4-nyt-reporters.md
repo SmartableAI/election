@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump is more obsessed than ever with 2020 election and is brushing off allies who are telling him to move on"
+    excerpt: "Donald Trump is more obsessed than ever with the 2020 election and pushing his lie that there was widespread fraud that led to his defeat, according to several former advisers and allies still close to the former Republican president.\n    \n"
+    publishedDateTime: 2021-06-03T15:09:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yf9vGyLRLzM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/trump-mindset-2020-election-obsession/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/trump-mindset-2020-election-obsession/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521102719-donald-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Prosecutors investigating Trump tell witness to prepare for grand jury testimony"
     excerpt: "Manhattan prosecutors pursuing a criminal case against former President Donald Trump, his company and its executives have told at least one witness to prepare for grand jury testimony, according to a person familiar with the matter -- a signal that the lengthy investigation is moving into an advanced"
     publishedDateTime: 2021-05-26T21:46:32Z
@@ -363,6 +379,6 @@ related:
         height: 629
         isCached: true
 
-secured: "/xML0fk6KvLRHW8/yo6k/SZDuO++2gJLlgj3P4lq+hea1dt6PhlDNHAL6NnqiIxIsFdFEfMH4zsxbs2B+k0I5KWvAZXC3112kWrrXrW/GVhTQh5lZaxwGdSrAmGFZW3fAwKiUck1SkIvwWYTv+VQdoizCToyfNpTAduDzmaBSlmeWltN4CQl6gak01bdc4yC88hIAQx5acf1FUm+hC9ORdH5HjuJdUwfookJcM/1qTLsvuxumV7FIgscq4k9m7SATyraTt/ZjwS9c4Dl9H758nzMrpYfK/hKDdHavnSkI32tM/AO0oB0NxL3490wCpX3HAjPuPv2Mf6mvB7T7FhMg8LH415pnXMX+kI89M9NZAk=;S5wdPVCxHopakStn8lCTVg=="
+secured: "IX3Kri/W1oqx6sqbDu+g9Gs5XaDeYe5wF7W/KcyaizQ8uhF4DqD9sb1Xs6EHWs8gbiiKfwdqUswaBNHx1ymJFWWBeVwoxoNhPNXydnag5OMYZFn+xNYda4J9/p8AhvRglRiibzMG5pK1HttXa9jel1mNlfX80S8JDlGOCoJ9RaVPkTmu/RDbcNBxMnpdguazjxVzuNXMW4Cz9wKgmuDcQ76at+f4k7nSNVi/lS3CoL2xmZf0JJSmJ0H7PQ+dHQB/QVTK2nqNqsXTWRZsFYb05J8n4WGXoQmAg53nC6O3Uh3Gp/tFFkuprd1Y1R1CLzKrNdntpnv0Fpm+59ssLEsKA/tzz14BDuQO3Tv+cutaikHYAnH5hBELuLpHxEJ765wo7/glzz+ixkx5AFrAj78UQMgpvNSf5QQZyTEpm0/1e9RcZy4D25nN/oGjz3zfdgMsXQW0VIV7u6kRH+CTUbW6igmnf5XjcvU6S/SK1oq7f31g+p5a6M7Ff55ErjVNSu5rXOoAu6pTA4b09bgdtT8LOA==;6cqsSLj34Sj8g11tSDHGaQ=="
 ---
 

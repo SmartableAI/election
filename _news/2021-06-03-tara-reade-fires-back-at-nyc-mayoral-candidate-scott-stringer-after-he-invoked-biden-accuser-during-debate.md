@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "DHS, southern border states face economic hurdle as Biden admin stays mum on lifting travel restrictions"
+    excerpt: "President Biden has been silent on when he will reopen the border, which has been closed throughout the COVID-19 pandemic."
+    publishedDateTime: 2021-06-03T14:32:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/swa1FxEke2M/dhs-southern-states-economic-hurdle-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/dhs-southern-states-economic-hurdle-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-southern-states-economic-hurdle-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a33d03cb-36e4-4cf1-9c19-3d16fa58112e/69f13f15-89d2-4f52-a0aa-5492071399c7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "k4xppwzCtcezgiD4e4E1jQHT3KK9scDzV2GkYsKvCdIbTjyst6eQ5X1Oe4Hf170D7dcjmFwdJNnH4NA9C6WK2QrRrKNhU98zuPuZYY7OH3V2gY9ksQkcBY8PLlRCsG3ECVinby3Pj72z7gz9Cp68PGldcr9nxA79AV/DM/oXhzXCMmDuWPn/OO5q2rYCmvHgmSq406lVjYCCibCKn+sUndGI21rqA7XYxsWuBd48icSsgnJ3I+qftmyowMRn1l9Fxjmc8vcrTFgFOm97YxC1EsK7wEYm7M9M5tni5w00VSBnImYWk8vs2Dc5/4/K20jfr2Q0CaFhvPcqnrMV0Iq0IBJ0+/UzRH3mqx2tTakMnUo=;LJfJiswHor3V1AtsjCBqaA=="
 ---

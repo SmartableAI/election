@@ -30,20 +30,20 @@ images:
 
 related:
   - title: "Jill Biden gets Delaware beach day for her 70th birthday"
-    excerpt: "Jill Biden is getting a day at the beach for her 70th birthday. President Joe Biden and his wife were heading to their Delaware beach house Wednesday evening to help the first lady celebrate that personal milestone on Thursday."
-    publishedDateTime: 2021-06-02T23:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
+    excerpt: "The trip was a rare midweek getaway from the White House by a president. It also was Biden's first visit to the couple's vacation home since he took office in January."
+    publishedDateTime: 2021-06-03T14:42:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a4d126879f7146bbb02adb9ff48d5693_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1b46bff/2147483647/strip/true/crop/3619x2364+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F83%2F8d%2F49ba68437eface87637124193ea2%2F5189605cb4724ba8a4dd8ff54178610c"
+        width: 320
+        height: 209
         isCached: true
   - title: "President Joe Biden to attend Memorial Day observance Sunday near New Castle"
     excerpt: "Joe Biden has been a frequent attendee at the Memorial Day observance at War Memorial Plaza near the Delaware Memorial Bridge near New Castle. This year, he'll attend the event as commander in chief."
@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "President Joe Biden will boost his economic policies in Thursday visit to Tri-C in Cleveland"
-    excerpt: "WASHINGOTN, D.C. - President Joe Biden will visit Cuyahoga Community College in Cleveland on Thursday to deliver a speech on the economy that his principal deputy press secretary said will “make a clear case that his economic plan is working."
-    publishedDateTime: 2021-05-26T19:41:00Z
-    webUrl: "https://www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/05/president-joe-biden-will-boost-his-economic-policies-in-thursday-visit-to-tri-c-in-cleveland.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 64
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GIIJELYXUNGARCQJNW5YFLGTFE.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
   - title: "U.S. President Joe Biden Departs For Wilmington, Delaware"
     excerpt: "Marine One, carrying U.S. President Joe Biden, departs the Ellipse of the White House in Washington, DC on Friday, April 16, 2021. Biden will travel to Wilmington, Delaware for the weekend. Photo by S"
     publishedDateTime: 2021-04-16T23:56:00Z
@@ -104,6 +88,20 @@ related:
     quality: 55
     images:
       - url: "https://cdnph.upi.com/pv/upi/bd28193e88e83e91050bc266b436a2c4/BIDEN-DEPARTS.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Joe Biden departs to Oklahoma from the White House"
+    excerpt: "U.S. President Joe Biden arrives to board Marine One helicopter as he departs the White House en route Tulsa, Oklahoma from the Ellipse in Washington on Tuesday, June 1, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-06-01T16:25:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3a0a1529893c5eb345c1de40bbc58af7/Joe-Biden-departs-to-Oklahoma-from-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/3a0a1529893c5eb345c1de40bbc58af7/BIDEN-TULSA.jpg"
         width: 650
         height: 433
         isCached: true

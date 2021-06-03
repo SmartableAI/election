@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-rga-governors/index.html"
 type: article
 quality: 190
-heat: 610
+heat: 630
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190918105506-01-washington-monument-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump is more obsessed than ever with 2020 election and is brushing off allies who are telling him to move on"
+    excerpt: "Donald Trump is more obsessed than ever with the 2020 election and pushing his lie that there was widespread fraud that led to his defeat, according to several former advisers and allies still close to the former Republican president.\n    \n"
+    publishedDateTime: 2021-06-03T15:09:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yf9vGyLRLzM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/trump-mindset-2020-election-obsession/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/trump-mindset-2020-election-obsession/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521102719-donald-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

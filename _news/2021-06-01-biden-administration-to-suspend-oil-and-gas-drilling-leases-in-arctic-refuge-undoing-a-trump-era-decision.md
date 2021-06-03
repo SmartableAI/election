@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden floats bringing down infrastructure price tag but wants GOP concessions"
+    excerpt: "President Joe Biden met with Republican Sen. Shelley Moore Capito of West Virginia at the White House on Wednesday as part of ongoing discussions between his administration and the Senate GOP on infrastructure.\n    \n"
+    publishedDateTime: 2021-06-03T12:52:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hj7E-NIlVfU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/shelley-moore-capito-biden-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/shelley-moore-capito-biden-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "ACLU urges Biden administration to offer Covid-19 vaccine to detained immigrants"
     excerpt: "The American Civil Liberties Union is urging the Biden administration to provide Covid-19 vaccine access to immigrants in detention, citing the rapid spread of coronavirus in congregate settings, according to a letter sent the Department of Homeland Security and obtained by CNN.\n    \n"
     publishedDateTime: 2021-05-27T16:47:41Z
@@ -172,6 +188,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration announces plan to share first 25 million Covid-19 doses abroad"
+    excerpt: "The Biden administration on Thursday announced a plan to share 25 million Covid-19 vaccine doses with the rest of the world by the end of June, with an overall framework of distributing at least 80 million doses by the end of June\n    \n"
+    publishedDateTime: 2021-06-03T15:33:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zd8pnYnGUqc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/biden-vaccine-sharing-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/biden-vaccine-sharing-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210501002409-0430-us-coronavirus-saturday-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
