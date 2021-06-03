@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "White House defends Biden's comment calling out centrist Democrats for blocking his agenda"
+    excerpt: "The White House on Wednesday defended comments President Biden made a day earlier during a speech in Tulsa, in which he appeared to call out Democratic Senators Joe Manchin and Kyrsten Sinema, who he said \"vote more with my Republican friends."
+    publishedDateTime: 2021-06-02T23:31:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-calls-out-centrist-democrats-for-blocking-his-agenda/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/02/087ea643-bd40-408f-920f-940bb681fb42/thumbnail/1200x630/497e168ab55cbdf1fe014001201f92c5/cbsn-fusion-white-house-defends-biden-after-president-calls-out-centrist-democrats-for-blocking-his-agenda-thumbnail-727413-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LEHShbwTcbkMj7JLbKilguoHBl7j2HmXI9GprbjZUTPO+8iEraJzI1y2jLGXYRPNpgkxsDfrjQSHSZcDb5kseYpkfn/BwQl1pF7UzWzY+TJsdUXU1c3bZZgFQ/iY1fGJq1rfkZferDyKlH8olpOcughOga2MvVWa5UlZgyyZxyZxKIOt+v+7705eEtHiepf6gbActX1elOi3XXKjddlOw0ZKkN+/2wbRuHkshnk9TZc7ZAu7z1UhuieeSYh24LyoqG6C/qyCC+hTfhObyoUTElkB5IWqFuY2Dl6afKrJQg0LspcOe4p9c96bBvCmVzf62K4E2B6MYWEpGlDLoCNpdwZLt5uv/OrsI2bYCp1Q/dzZY/T7JCmuaTYIrwiOy+33Uo9u/Bo32byFVa8b40PksB3796izl5vFeKyslXaB7DVGmLTnO74Rw2qvUrrmbmxWsDKZtv1hJU3Suc44D8U68zB9DzSezw5mGPKz8voCPVGT0cd4xfps8GIuW4mzn+ungSPREQRjkOpm3ioIUcCpWg==;bOzru9eM72vJ0zW7MqbTzA=="
 ---

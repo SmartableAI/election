@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-budget-highlight
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.reuters.com/resizer/5HgTgTiTA7jNogU_j6BneiGM1D4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TLU3CX4B6NP4RIH2GN5UDDFTII.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "White House defends Biden's comment calling out centrist Democrats for blocking his agenda"
+    excerpt: "The White House on Wednesday defended comments President Biden made a day earlier during a speech in Tulsa, in which he appeared to call out Democratic Senators Joe Manchin and Kyrsten Sinema, who he said \"vote more with my Republican friends."
+    publishedDateTime: 2021-06-02T23:31:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-calls-out-centrist-democrats-for-blocking-his-agenda/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/02/087ea643-bd40-408f-920f-940bb681fb42/thumbnail/1200x630/497e168ab55cbdf1fe014001201f92c5/cbsn-fusion-white-house-defends-biden-after-president-calls-out-centrist-democrats-for-blocking-his-agenda-thumbnail-727413-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Joe Biden’s $6T budget: Social spending, taxes on business"
     excerpt: "President Joe Biden is proposing a $6 trillion budget for next year that’s piled high with new safety net programs for the poor and middle class, but his generosity depends on"

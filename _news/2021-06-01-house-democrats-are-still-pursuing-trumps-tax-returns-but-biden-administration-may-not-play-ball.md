@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democrats-biden-play-ball/index.html"
 type: article
 quality: 177
-heat: 597
+heat: 617
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601171059-04-biden-tulsa-speech-0601-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's willingness to break conventional presidential wisdom on full display as he heads to the beach "
+    excerpt: "Political wisdom might ordinarily dictate that a president in need of certain senators' votes not publicly scold those lawmakers in public.\n    \n"
+    publishedDateTime: 2021-06-02T22:55:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mf0W7QTfcos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/joe-biden-beach-trip-joe-manchin-kyrsten-sinema/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/joe-biden-beach-trip-joe-manchin-kyrsten-sinema/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

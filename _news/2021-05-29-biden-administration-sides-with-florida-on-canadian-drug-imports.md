@@ -222,6 +222,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's willingness to break conventional presidential wisdom on full display as he heads to the beach "
+    excerpt: "Political wisdom might ordinarily dictate that a president in need of certain senators' votes not publicly scold those lawmakers in public.\n    \n"
+    publishedDateTime: 2021-06-02T22:55:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mf0W7QTfcos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/joe-biden-beach-trip-joe-manchin-kyrsten-sinema/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/joe-biden-beach-trip-joe-manchin-kyrsten-sinema/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Deposition of Trump Org CFO looms in DC lawsuit accusing Trump 2017 inauguration committee of abusing funds"
     excerpt: "Documents due in DC Superior Court on Friday could clear the way for the Trump Organization's chief financial officer to be deposed as part of a DC attorney general lawsuit that alleges former President Donald Trump's 2017 inaugural committee abused non-profit funds.\n    \n"
     publishedDateTime: 2021-05-28T00:54:43Z

@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's willingness to break conventional presidential wisdom on full display as he heads to the beach "
+    excerpt: "Political wisdom might ordinarily dictate that a president in need of certain senators' votes not publicly scold those lawmakers in public.\n    \n"
+    publishedDateTime: 2021-06-02T22:55:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mf0W7QTfcos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/joe-biden-beach-trip-joe-manchin-kyrsten-sinema/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/joe-biden-beach-trip-joe-manchin-kyrsten-sinema/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pompeo-led effort to hunt down Covid lab theory shut down by Biden administration over concerns about quality of evidence"
     excerpt: "President Joe Biden's team shut down a closely-held State Department effort launched late in the Trump administration to prove the coronavirus originated in a Chinese lab over concerns about the quality of its work, according to three sources familiar with the decision.\n    \n"
     publishedDateTime: 2021-05-25T23:53:57Z

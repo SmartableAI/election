@@ -608,6 +608,22 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Biden Aims to End Arctic Drilling. A Trump-Era Law Could Foil His Plans."
+    excerpt: "The administration suspended leases that were auctioned in the waning days of the Trump White House. But a 2017 law requires another sale."
+    publishedDateTime: 2021-06-02T21:16:00Z
+    webUrl: "https://www.nytimes.com/2021/06/02/climate/ANWR-drilling-Biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/02/climate/ANWR-drilling-Biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/02/climate/ANWR-drilling-Biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 149
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/02/climate/02CLI-ANWR1/02CLI-ANWR1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Tapper examines why Biden admin may be hesitant to credit Trump for vaccine success"
     excerpt: "CNN's Jake Tapper shares his experience receiving the Covid-19 vaccine and looks back at how former President Donald Trump's actions affected the nation's pandemic response."
     publishedDateTime: 2021-04-04T15:01:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump's 'communications' platform permanently taken offline"
 excerpt: "Donald Trump's communications platform has been permanently shut down, his spokesperson told CNBC. \"It was just auxiliary to the broader efforts we have and are working on,\" senior aide Jason Miller said."
 publishedDateTime: 2021-06-02T19:17:00Z
-originalUrl: "https://www.bbc.com/news/technology-57338035"
-webUrl: "https://www.bbc.com/news/technology-57338035"
+originalUrl: "https://www.bbc.com/news/technology-57338035?at_campaign=64&at_custom4=587E79D6-C3D7-11EB-8A98-3DCD4744363C&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_custom2=twitter"
+webUrl: "https://www.bbc.com/news/technology-57338035?at_campaign=64&at_custom4=587E79D6-C3D7-11EB-8A98-3DCD4744363C&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_custom2=twitter"
 ampWebUrl: "https://www.bbc.com/news/technology-57338035.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57338035.amp"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 576
     isCached: true
 
-secured: "mNFoqAhOrkN97Y0Fo7HpLKhYwDfW+fqaX76d7Dy0LC7ekTeYPaIjvzJ5BmnGN0VojazmftBrWLY/CNeRmDIDfCD8Lk8Fphe+I6h4TLWWW2Sg8C5Lp/AoRHi1SWPxYL7r9VQZoOKMQZ5MydI0bpnfJFkjeBMCLWmOKU1VmWB3anVSgGclX5v6a3WxG5TMZosvWoYaf9iLsKLD6EB/JM+cZQmHkZdDWeJm5munMbm2LKr1OWPSU/rH4p1mU78noNQQaJsLpRgSraLMI0I2cXOm625i2x+RIRWamvqQ3GtwYddVLdG8lPf4pX7O2APJK11YflGSl5+2MYHgJibXgJfxrBaAd0mvgwqHfMfeEUc7hObjHtaS/4f8cgqCd/ye+dN97Lb3GbbJPS5J5bq+/JxcT5In/IoylAglffpwUhPGsgcMVlA0+m1aO/VlP3fiToVW+Cup9a54i5CKkauFhNAF4KQFmoHM29c70SBXaD999A6h80F1wH6pCqW1CLhVh8B7eX41qAQ6shxDoRI2NxZEtQ==;agLuwdzB2Yl8LJbqq6qJZA=="
+secured: "6FPIkpSx7Q1h/f5PF8QzlPrxbWqDoplF3TJ9zwUm4nEYfwZg98bedwZtkpkfg/4V9bt3K/3TLo9/fZv7iaT1nsBJL7WMTRcz0w3cBnFI7HC5/EN3pqT5SDK3jOm2I4MHGS7efNfZ27o5PfJUmQHu9DX0DbZoiBzRqOUu3Z/J6D+bocs13EcFdpUU/LOGY+BQMKKwAtBUbKGe+YWoKeVwrsjJMemkACIqpJ9MAE2EywIwpKsZbcwg+1QWO8rlXNVeWQroQIBfO77c2NUicTIuZrXfZhPM9QVv8Uc0N54bXd9XFz+6v6QID+phWFGIwA4PH/hA9F9+uk21sWpaqXXAtbUFXe2qzjIlvv4s+UUbMjk=;KWQuVz9tBssrhupaAOoXEg=="
 ---
 

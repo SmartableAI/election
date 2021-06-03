@@ -112,6 +112,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to alter Trump order targeting US investments in Chinese military firms: report"
+    excerpt: "President Biden will issue an executive order later this week altering a Trump-era ban on US firms making investments in companies with ties to the Chinese military, according to a report Wednesday."
+    publishedDateTime: 2021-06-02T23:35:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dxwRtjKIR08/biden-alter-trump-order-us-investments-chinese-military-firms"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-alter-trump-order-us-investments-chinese-military-firms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-alter-trump-order-us-investments-chinese-military-firms.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a63f1b3-ca1e-44ae-a0ae-20e17844ebfc/b5b2ab5b-13eb-451d-9538-c399a22c2266/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden tops Trump, Clinton, but outpaced by Obama and both Bushes, in polling comparison"
     excerpt: "Four months into his White House tenure, President Biden is outperforming some of his predecessors and trailing others when it comes to his poll ratings."
     publishedDateTime: 2021-05-24T16:22:18Z
