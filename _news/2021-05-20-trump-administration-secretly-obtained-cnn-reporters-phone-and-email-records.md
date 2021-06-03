@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html"
 type: article
 quality: 172
-heat: 232
+heat: 252
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "New York Times reports Trump administration secretly obtained its reporters' phone records"
+    excerpt: "The Trump administration's Justice Department secretly seized months of phone records from four New York Times reporters as part of a leak investigation, the newspaper reported Wednesday.\n    \n"
+    publishedDateTime: 2021-06-03T02:38:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jofIMKedxNY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/trump-administration-phone-records-reporters-new-york-times/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/trump-administration-phone-records-reporters-new-york-times/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427105455-03-new-york-times-building-0630-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration didn't provide some separated parents the opportunity to bring their children as they were deported, new watchdog report says"
     excerpt: "Immigration and Customs Enforcement deported some parents between July 2017 and July 2018 without giving them the opportunity to bring their children, contradicting claims made by the agency and the Department of Homeland Security, according to a newly released watchdog report.\n    \n"
     publishedDateTime: 2021-05-24T14:56:01Z

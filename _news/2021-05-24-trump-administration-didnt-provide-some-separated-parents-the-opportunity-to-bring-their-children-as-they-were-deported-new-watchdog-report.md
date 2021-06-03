@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New York Times reports Trump administration secretly obtained its reporters' phone records"
+    excerpt: "The Trump administration's Justice Department secretly seized months of phone records from four New York Times reporters as part of a leak investigation, the newspaper reported Wednesday.\n    \n"
+    publishedDateTime: 2021-06-03T02:38:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jofIMKedxNY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/trump-administration-phone-records-reporters-new-york-times/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/trump-administration-phone-records-reporters-new-york-times/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427105455-03-new-york-times-building-0630-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "U.S. and Europe Seek to End Trump-Era Dispute Over Steel and Aluminum"
     excerpt: "The Biden administration is trying to rebuild relations with Europe, but it is moving cautiously to unwind tariffs imposed by President Donald J. Trump."
     publishedDateTime: 2021-05-17T17:48:00Z

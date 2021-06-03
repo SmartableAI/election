@@ -288,6 +288,22 @@ related:
         width: 4265
         height: 2683
         isCached: true
+  - title: "National Enquirer publisher fined $187,500 for Trump hush money payment"
+    excerpt: "The FEC found that the cash the tabloid paid to keep Karen McDougal quiet about her alleged affair with Donald Trump was an unlawful campaign contribution."
+    publishedDateTime: 2021-06-02T21:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/national-enquirer-publisher-pay-187-500-fine-trump-hush-money-n1269370"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269370"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269370"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479739/210602-2x1-karen-mcdougal-donald-trump-ew-238p.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "POLITICO Playbook: GOP dreads the return of Trump rallies"
     excerpt: "But ONALD TRUMP’S return to the stump, predicting his rallies will cause a major headache for the party as it mounts a bid to take back Congress in 2022. Even as they tee off against Twitter and Facebook for banning Trump,"
     publishedDateTime: 2021-05-27T10:10:00Z

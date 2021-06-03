@@ -31,38 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Matt Gaetz Plans to Run For President in 2024— But Only If Donald Trump Doesn't"
-    excerpt: "In a text sent to the New York Post, Gaetz said, \"I support Donald Trump for president. I've directly encouraged him to run and he gives me every indication he will.\""
-    publishedDateTime: 2021-05-27T17:27:00Z
-    webUrl: "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562"
-    ampWebUrl: "https://www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/matt-gaetz-plans-run-president-2024-only-if-donald-trump-doesnt-1595562?amp=1"
+  - title: "Trump DOJ seized phone records of New York Times reporters"
+    excerpt: "The New York Times reported on Wednesday that the Justice Department under former President Trump Donald Trump RNC warns it will advise presidential candidates against future debates if panel doesn't make changes Washington Post issues correction on 2020 report on Tom Cotton,"
+    publishedDateTime: 2021-06-03T01:38:00Z
+    webUrl: "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters"
+    ampWebUrl: "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1809008/matt-gaetz.jpg"
-        width: 2500
-        height: 1665
+      - url: "https://thehill.com/sites/default/files/ca_dojhatecrimechurchfire_041521getty.jpg"
+        width: 1440
+        height: 880
         isCached: true
-  - title: "Trump's longtime ally Roger Stone has warned that the former president must prepare to be indicted for fraud in the coming weeks"
-    excerpt: "GOP strategist Roger Stone has predicted that Trump will be indicted imminently for \"bank fraud or tax fraud,\" he said in an interview with InfoWars."
-    publishedDateTime: 2021-05-30T15:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-ally-roger-stone-warns-the-ex-president-indicted-soon-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/trump-ally-roger-stone-warns-the-ex-president-indicted-soon-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ally-roger-stone-warns-the-ex-president-indicted-soon-2021-5?amp"
+  - title: "Fact Check-Trump does not own half of Moderna, as posts claim"
+    excerpt: "Moderna, one of the pharmaceutical companies spearheading COVID-19 vaccination efforts in the United States, is not half owned by former president Donald Trump, as posts on social media claim."
+    publishedDateTime: 2021-06-02T20:15:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-trump-moderna/fact-check-trump-does-not-own-half-of-moderna-as-posts-claim-idUSL2N2NK2VH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NK2VH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NK2VH"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/60b37eedbee0fc0019d5a73e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "BWYvEGkYXcHS4GUBmmZYCrOCB5tSaF9uBdjN/kbO5ulv7gGbZHBUecTSSJDlnLIDVlpzDhnzwNeUB3lXIQ8wsQXS0REt9TcFPG1ikENzBYvh54wUi5r11ixl0O8074jILKVXy0bFxGpjdS6ElJl5bvobZv/2AS1BLEsgZYH5OXiUTXa19v8KTEZWmpSRboBLel9eBI4PwOLfn3W+FLfh0B7sPRnF4z1U7hJEZFAa2JF1zOA4kkFIZQmxHqKs7MEaEWl4iFI/s5JDZ0XCNF+VvehvNTK5z1xzX4R1fxzgEhBxY8PmylVP2TK4a2+COn5sgXpPMHJ02V/oF4iQvg3vE1bFN4sOWAv8ZR/WgkcSmkUDeGPj8LGdR2FK5AUnmr0qbz3dN5E9q0sR6IrPLv5fMOVm4kfbrp8cOB9w6iF2N+Clkr6iJKCnTpZmOSAHQ36JUOPU0s03Cf5Eck5lEpnjf+TipMEIZa4aSLedbOIFXcnT1pvpNBJ/Kh+HB2qzSkK5tTvil3ksiugPaHR7anudwQ==;Lh8V4tet4X09QnCcqNhvVg=="
 ---

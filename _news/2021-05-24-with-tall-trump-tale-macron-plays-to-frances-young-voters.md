@@ -474,6 +474,22 @@ related:
         width: 1024
         height: 602
         isCached: true
+  - title: "Trump Hush Money Payments: National Enquirer Publisher Fined By Federal Election Commission"
+    excerpt: "The Federal Election Commission has fined the National Enquirer's parent company, American Media Inc., for its role in a hush-money payment during the 2016 campaign to former Playboy model Karen MacDougal for her alleged affair with former President Donald Trump,"
+    publishedDateTime: 2021-06-03T01:15:00Z
+    webUrl: "https://www.ibtimes.com/trump-hush-money-payments-national-enquirer-publisher-fined-federal-election-3215555"
+    ampWebUrl: "https://www.ibtimes.com/trump-hush-money-payments-national-enquirer-publisher-fined-federal-election-3215555?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-hush-money-payments-national-enquirer-publisher-fined-federal-election-3215555?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump Irate, Lashes Out After Grand Jury Seated For Trump Organization Probe"
     excerpt: "Manhattan's top prosecutor recently convened a grand jury to decide whether indictments should be issued against Donald Trump over potential financial misconduct."
     publishedDateTime: 2021-05-26T03:38:00Z

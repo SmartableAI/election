@@ -470,6 +470,22 @@ related:
         width: 1024
         height: 602
         isCached: true
+  - title: "Trump Hush Money Payments: National Enquirer Publisher Fined By Federal Election Commission"
+    excerpt: "The Federal Election Commission has fined the National Enquirer's parent company, American Media Inc., for its role in a hush-money payment during the 2016 campaign to former Playboy model Karen MacDougal for her alleged affair with former President Donald Trump,"
+    publishedDateTime: 2021-06-03T01:15:00Z
+    webUrl: "https://www.ibtimes.com/trump-hush-money-payments-national-enquirer-publisher-fined-federal-election-3215555"
+    ampWebUrl: "https://www.ibtimes.com/trump-hush-money-payments-national-enquirer-publisher-fined-federal-election-3215555?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-hush-money-payments-national-enquirer-publisher-fined-federal-election-3215555?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "With tall Trump tale, Macron plays to France's young voters"
     excerpt: "Filmed in the French presidential palace with two of France's most popular YouTube stars, the half-hour of banter, tall tales, and a grungy rendition of “La Marseillaise\" by heavy-metal band “Ultra Vomit” represented Macron's most audacious effort yet to woo young voters."
     publishedDateTime: 2021-05-23T21:13:00Z

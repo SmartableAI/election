@@ -25,9 +25,9 @@ images:
     isCached: true
 
 related:
-  - title: "Jill Biden getting Delaware beach day for her 70th birthday"
+  - title: "Jill Biden gets Delaware beach day for her 70th birthday"
     excerpt: "Jill Biden is getting a day at the beach for her 70th birthday. President Joe Biden and his wife were heading to their Delaware beach house Wednesday evening to help the first lady celebrate that personal milestone on Thursday."
-    publishedDateTime: 2021-06-02T17:31:00Z
+    publishedDateTime: 2021-06-02T23:24:00Z
     webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
     ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-delaware-beach-day-70th-birthday-78043570"
