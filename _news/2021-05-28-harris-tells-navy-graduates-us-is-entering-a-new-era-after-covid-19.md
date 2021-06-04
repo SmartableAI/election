@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-navy-graduates-us-new-era-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-navy-graduates-us-new-era-covid.amp"
 type: article
 quality: 185
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48f7d31-128d-48ec-aca5-6fdc9d09c814/3d14acbf-614a-47fe-8bce-546e449638e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Rep. Brady on border crisis: Harris in denial; influx of migrant kids making foster care system strained"
+    excerpt: "Texas GOP Rep. Kevin Brady said the border crisis is \"growing worse\" and the influx of unaccompanied migrant children is making the already tough foster care system even \"more cruel\" for American children."
+    publishedDateTime: 2021-06-04T19:23:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iLXn-kVlQWw/brady-border-crisis-harris-denial-migrant-kids-foster-care-system"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/kevin-brady-Getty.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris uses Naval Academy speech to plug ‘rolled-up solar panel’"
     excerpt: "Vice President Kamala Harris on Friday told graduating Naval Academy midshipmen that they may soon be able to pack a “rolled-up solar panel.”"

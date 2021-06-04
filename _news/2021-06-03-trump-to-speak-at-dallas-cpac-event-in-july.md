@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump and His Crazies Aren't Done With Us"
+    excerpt: "It's important to stay on guard because the bar has now been lowered: we know that a pronouncement from Trump -- like his assertion about being. Read Full Article »"
+    publishedDateTime: 2021-06-04T19:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/04/trump_and_his_crazies_arent_done_with_us_544285.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "JRXqYiV+KprhXCZ0di/mgWu5t0dIed4AAVEasuY+4auFdSmSr/+cH6z/E06wnzGVt+CxbyCkyFkND7dNFBxXKRN5WB5Ixd/bL3n7pGBb4N5w45MdXG9KVg/nPUKDQCyXuash7WlRYBto1jQ7gl96ody9EL+MImwdCwOsz7GDXrKdlqqo9mKN4f2QcdIf56tzJDXWnEeMbYAAf9fUXT2AsBFzmwwMSo7ZgvgSURJW5iNDcyhTkqMXi3LyFRtPm8ITKgwDD7Qs03cIlEkn86sl6doqjqt+nnVy3BW9WsPSLlvHDMRFMb/jHPiPWxl7lUqkQd7B8H4m0/oGlR3ds+vCDFhxdwOESRNKIvWwj5bjlwY=;RH8d+V981r78EztaqR9iaQ=="
 ---

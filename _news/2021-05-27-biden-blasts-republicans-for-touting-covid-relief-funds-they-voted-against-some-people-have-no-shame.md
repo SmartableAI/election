@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html"
 type: article
 quality: 158
-heat: 158
+heat: 178
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Pompeo-led effort to hunt down Covid lab theory shut down by Biden administration over concerns about quality of evidence"
+    excerpt: "President Joe Biden's team shut down a closely-held State Department effort launched late in the Trump administration to prove the coronavirus originated in a Chinese lab over concerns about the quality of its work, according to three sources familiar with the decision.\n    \n"
+    publishedDateTime: 2021-05-25T23:53:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-FHC-pSsYg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-shut-down-trump-effort-coronavirus-chinese-lab/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-shut-down-trump-effort-coronavirus-chinese-lab/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524163012-cnn-red-wuhan-lab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "nt0K7jtXEFJXlUtJ/H2SGrMxd0D1qCaicShx/nkYc1eKNKMLKtWZSY8/8s5kzkeaeYC+UiJt1/GglKvtMFnjCk5Q/euYUfRCoAc+DvXYvK2Zg6b/fbjEgLvT4a+uICscCAyvS8TyrGJ7Qlqc8HUt+pJl8DJkMmMqpOonLld3XJnnjdeNXgXhYgOcsXYuqHswn9NT3DaYprykcBuEzcJmH+KIF+iiU9gfCBZFsby0kMRn6vUXcazv1KZzZa26EPX/ANiUID24LuloP7zHgoCLYpI5bwz1SukAnW9dAToaZQbaSfYFbRqq0R6DvPbpBSs4yUcbENUVMh9I2J0/3k5QbMjajz2mqCv/bFWLt65+YKQ=;0+tE9qe0V6KI7yqZpQqBxw=="
 ---

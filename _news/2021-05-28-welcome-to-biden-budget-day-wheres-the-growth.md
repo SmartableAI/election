@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Biden Isn’t Cracking Down on Fossil Fuels"
+    excerpt: "Because of global warming, brought on by burning the very sort of fossil fuels that ConocoPhillips is extracting. With Joe Biden’s election in November, environmental advocates had hoped that such drilling on U."
+    publishedDateTime: 2021-05-28T22:10:00Z
+    webUrl: "https://www.nytimes.com/2021/05/28/us/politics/biden-climate-change-fossil-fuels.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/28/us/politics/biden-climate-change-fossil-fuels.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/us/politics/biden-climate-change-fossil-fuels.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/28/us/politics/28onpolitics/28DC-NEWSLETTER-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "6Dj5GsuNrimpHAmlnjA7/5RXjfokL26niiGvDSNcFO0pIEczsE+wIU7oKIpNgb51hSMkvc2mCNtmnSepJ6DRjl+cWNFBO9wcx8bkT9h72BmFTlt+v5300fFJCxmksqwbiQjIfGXfWwOIzKSkTctgy3hTntNXjwJTQbBrqy1QMBRCXFvZxKTIEYCGZivPaBDDZKPGQ+BQ9I85avgOYv+1DoMQzxVdRHlDtQiGE8QOBhAuffRgWgziYGKcd0Flb9uUbR6yC0EoJyk1BCXEI0EschSgAqGZ9/xdbjzkqn9KB7WeT4Vck0vp+p3obNY+czy1TgHJYZPwZL6VKMfRF9rWZPoZBlRG7goHrO8wSj4Z0+4=;m+A41G7ChK65OOC+zRlzKw=="
 ---

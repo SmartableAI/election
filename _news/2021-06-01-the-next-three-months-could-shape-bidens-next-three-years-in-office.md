@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In summer, the stakes are rising for Biden"
+    excerpt: "Can President Joe Biden avoid the \"summer slump\"?\n    \n"
+    publishedDateTime: 2021-06-01T10:14:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bpyM5iYCn6k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/president-joe-biden-agenda-summer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/president-joe-biden-agenda-summer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "bzmh+xyKxi9kNJoWWOIwtndmOIGak2pTeqvhF6NtRJyECo5cdBwVTMvCeboQpDHeXYuwhN4/T1OebHZd2lek4pIBP13YOYQeR9vIHKTD2N3X2B+ssf4wW4WnK7FN3CzNOqE3xlX7Ybty8o1oUMS2MllcLnUUjIXQCHszWgigqKitfYsD6wZ3hWrzct6Mnp7DAvar97JFthNcZNTl2W5vsOmM5D78CMuw7MsogaoIb4mjgR/g2Wi0D6Fpv9DcjN4Nm2ZbE3vVc0V8EqaGtFfdQ1BQXOgJUrwHiWvTfVxBIAlywHnkoKxKcwGgj6tv6UjHt7tsppTNTXN6papheXdje2H+qCoRF8Qp2QYfXpxi657XPCztJiPq5IRyGeoZDScJzbd4O2ZQdJ/vOCKLqzcvq4LmQImDwUZgwQnaokJbswjU1ANvb/Ld4whv86qDi7+EWdAcYo9BCH2c0fI9AqC96D56clrAZYv5xpJjHIj5gdXUcwtQtTi7qMcPEOdhjBGzAkp+dPjsPVDFByrdl/JIhQ==;iL38UtSLLsXnRtBt9R0oew=="
 ---

@@ -44,6 +44,15 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump and His Crazies Aren't Done With Us"
+    excerpt: "It's important to stay on guard because the bar has now been lowered: we know that a pronouncement from Trump -- like his assertion about being. Read Full Article »"
+    publishedDateTime: 2021-06-04T19:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/04/trump_and_his_crazies_arent_done_with_us_544285.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "/cNv4pGXpSqAHbLO81Q2MKDt5AERfT0IM6N/SdQ7USaTh4N8J7os6dI6//y7qm2XfeHHHsbjwViTNyiRGIhcfcxpPUQPAxfjFzvJVuCPqo7Clym3sh0EVJLHrjpSqHDWVnYElRGT4r9N/cEB0s342dm8IH+cWVr9H63+ji8p9l5qi0WTPZYJvG5/NIq4qThWBLzRlj0dxGsdAu9hzGqqCkFhlZdbpQhhGVMP8F0LlcZtrLzzIPRCTR2cVW/Kw+XshqCOWSUrMWseCiUBIG10EqYG/vYtAobdrn9xeMP2lw6ZF/Oi19yXKKWpcLsJ1QqqO3VSJgyhrk/+b2BUvwjacY89OydjGVRJsUsQXjqzWQkfaiR+TKTQfoxsMrjRlWu3kr46iE+7pR/LuBux3OxT/zvnIjJ72Lb9clIBfnjed66+UoLN1Det4SLvHkzPPxWwSc+RKQx3gqPPfgUVpGloIIsUxGDymX4TdNlvmSdgxS545/1BOlfVz6IDq1xQ2pz3x6kB0Gl2HzSV0zXzaOYs+Q==;iU/gT9wZJI1Me1mLXmqxgQ=="
 ---

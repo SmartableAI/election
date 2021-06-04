@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Donald Trump: Speaks at NCGOP state convention in Greenville | Raleigh News & Observer"
+    excerpt: "I understand the place will be packed, all records broken!” former President Trump said of his upcoming speech in Greenville, North Carolina."
+    publishedDateTime: 2021-06-04T17:14:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article251898588.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 27
 
 secured: "cAYdrjZa9McH8ULnSn36SOUtuLmxTdu6lFo5rBlFsSX83rl3Jy56GxZ3gPlCALqm+240wq4zdQbuFPAFm0QJCn/yt+iwMhIZTY/kr3EKZfawvheQS2bly3k9FWbgLgvTPkGscn+c95zsHbHdINpnYIfrQnq4LQJ8nouVV3Dm76KMio+OK0VNgaI/bwgwabvW6JxdiP5GYTnPMelkBWsVBcJA4bUjzXKIZH6UjNCWoC06hQRQhiRynoAjV7sx21aO3J749+plfPIXJTAKoPRWStuCxOwTX+srNVCx+ajHtQUSaOtxC27gKxDjCmxmFPz95QTdI9dRdPA0GIifMtaePXEK/FNtBslcE/iiG1MczxY=;WPdskY+sKlTNzMoe6oRE3w=="
 ---

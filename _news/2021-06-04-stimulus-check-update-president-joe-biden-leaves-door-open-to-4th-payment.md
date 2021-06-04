@@ -43,6 +43,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Senate GOP rejects Biden infrastructure plan, prep new offer"
+    excerpt: "Senate Republicans are panning President Joe Biden’s latest infrastructure proposal WASHINGTON -- Senate Republicans on Friday panned President Joe Biden's latest infrastructure proposal and are expected to make a new offer as talks grind toward next week's deadline for progress on a bipartisan deal."
+    publishedDateTime: 2021-06-04T09:24:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8f57953f6aad4fa3ba32d78d8a74b5aa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
     excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"
     publishedDateTime: 2021-03-30T17:44:00Z
@@ -108,9 +124,9 @@ related:
         height: 360
         isCached: true
   - title: "FBI chief likens ransomware threat to 9/11 as Biden plans to confront Putin at G7 – live"
-    excerpt: "Christopher Wray compares hacking threat with challenge posed by September 11 attacks – follow the latest"
-    publishedDateTime: 2021-06-04T14:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
+    excerpt: "Chris Wray compares hacking threat to challenge posed by September 11 attacks while Trump suspended from Facebook for two years – get the latest"
+    publishedDateTime: 2021-06-04T15:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba59818f082e80569f6680"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
     type: article
@@ -119,7 +135,7 @@ related:
       domain: theguardian.com
     quality: 116
     images:
-      - url: "https://i.guim.co.uk/img/media/26f3e6dc6b0a35fdfb8107c359d8b4e1b2db88c4/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0315697a6c283928bb719ae67f82aeb9"
+      - url: "https://i.guim.co.uk/img/media/076a3a3532aeb79c30b9842118ee02e382446af5/0_35_5282_3170/master/5282.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f7e3af7c9c142dc541851e1f6de30206"
         width: 600
         height: 360
         isCached: true

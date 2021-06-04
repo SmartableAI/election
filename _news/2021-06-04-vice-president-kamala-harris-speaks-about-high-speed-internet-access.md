@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris Speaks About High Speed Internet Access"
-excerpt: "United States Vice President Kamala Harris departs following an event about high speed internet at the White House on Thursday, June 3, 2021 in Washington, DC. Photo by Alex Edelman/UPI Featured Collections"
+excerpt: "U.S. Secretary of Commerce Gina M. Raimondo listens as United States Vice President Kamala Harris speaks during an event about high speed internet at the White House on Thursday, June 3, 2021 in Washington,"
 publishedDateTime: 2021-06-03T18:46:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/edaa957be3cd3f3b99a406b34218a974/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/edaa957be3cd3f3b99a406b34218a974/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/e7e371e04886b173d98f84a8fda54f6b/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/e7e371e04886b173d98f84a8fda54f6b/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/edaa957be3cd3f3b99a406b34218a974/HARRIS-INTERNET-SPEED.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/e7e371e04886b173d98f84a8fda54f6b/HARRIS-INTERNET-SPEED.jpg"
     width: 650
     height: 433
     isCached: true
@@ -120,6 +120,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "gG9AneMkKdvxGk0G2xt8B8i0U3EmnCgkQXBBK9eLZRlBtk7Xq7RAmK9Kmeo9DSyVyuJn0XXgyYtAdBZp2wicIG0t9tRKPeSq7W3UZLRRlShk/b2tlg/eNbsZsOt7e34rzPPU0y+2PbJb9ACK9jicJoc8uC85AmCOeukKlra9PSfoy/VrKMYEoDPeC2XImg7QN/wDmOIjVMoahD2AGmSJsAxvaE1qscdKSyjhJ9nGcMMurwcRNb3eNAukCf1SS603kVG9Us7s4/9rmsopjUfoQniO5YXfW2lViO5WgTl6O7RUWz9FAitxLTSw+prbyCkm9ZKreYk+jUh8l1kwb7lJo1eYp/PgDMY+TsdvctEzIPI=;MWRrJn0vVjPe5UaKRFpFCQ=="
+secured: "dfwYcsdbdyMy1ZwM+j2JFLhQ6m2CNgwdKLMl+ug8VjLacbi8hhoMOwGi2Tdq9d7xaIjcvGugz7iSrqLeoseDbvYTvVNaqtHM4e5nj8zghIlSCIeLmiLehEfgqOodXmW6Ylm1d9vhYCkVndqH+u4W97i8m0xigZ+0kfVXLRLtM0vSsFja7I7lniMEInWAyy7sOUd1s5yiTP/5IzYmaAxMgGbkGCwW2QozXg5rTkB63XXFNKWn7ed/4G88s6yY4JANiJ6+XLgHTNve7tVb9eLDuCet/tCwK33a353T/q2mHZEfSjZN30ZkB4xKRAjbbwmTdYypHdGFufpNMW+tJKI2CwP7jcmLj59G9SLO1IMTEok=;bNxnTUteU4DUkXO/CDbsxw=="
 ---
 

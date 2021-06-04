@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Psaki can't imagine circumstance where Biden would fire Fauci"
+    excerpt: "White House press secretary Jen Psaki said Friday there is no circumstance where she could imagine President Biden ever firing Dr. Anthony Fauci as Republicans have ramped up their attacks on the president’s top medical adviser after thousands of his emails were made public this week."
+    publishedDateTime: 2021-06-04T19:48:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nnxqk51--lI/psaki-biden-not-firing-fauci"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-not-firing-fauci.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-not-firing-fauci.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21137590530322.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden White House 'progress' report conspicuously omits school re-openings"
     excerpt: "A “progress” report put out on Instagram by the White House is touting the Biden administration’s “successes” on reducing COVID-19 cases and increasing vaccinations -- while not including other key issues like re-opening schools where the administration has struggled."
     publishedDateTime: 2021-05-28T12:53:08Z

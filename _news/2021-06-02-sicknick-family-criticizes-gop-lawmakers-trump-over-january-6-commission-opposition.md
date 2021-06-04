@@ -91,6 +91,15 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Donald Trump: Speaks at NCGOP state convention in Greenville | Raleigh News & Observer"
+    excerpt: "I understand the place will be packed, all records broken!” former President Trump said of his upcoming speech in Greenville, North Carolina."
+    publishedDateTime: 2021-06-04T17:14:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article251898588.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 27
 
 secured: "xCdJYbOi8KZY8G6/snnlDcAix/pRHWjmpmdqsTCIiYL16erW0n6kX/2u0wXMUZl26BXosn9k+67KuFy0EKWG+XlAi7wyB9ohNLX1KUxrtupd74mU7qwoskqM0OSIRlAFi2Vg0hdM2FNqoHAjZctaLnK1v78mYmDpz+S9hR3z/SmaII8gS3We53CTQeXzGH0zOiZjd4sYpLHWtxphcOqi5b0iPE0Aiz1+o/LcLxKy2tyTtIgCU6FFiyCJ5enGwn2HzbOKA/MoHYrbLkvsPz7mj/iCyllqTeLbD4TUkGpZSM4senbIqLX1cBNm+0nyBlWa39gtFlBcQlMnqkHPamv0cf2/rxtv8U6tdNHu9bcnjFRzUJeH2vOC2+6ExWYuosgf6bfCJS5XLR8tWt34VRgDPJy6orxzy50tD+AFjwv6LfK3IvionkrScwf4YrSm5yytfRKVy6deRb651cElLjim0W7N5tWifUS9YGwa33pcDBEMvYKTiT7DkAfdBUcBaylWocyIcg+Yht8O9WNa+GXkAw==;rsaEpXwjYsOIhGT/xQ2X8A=="
 ---

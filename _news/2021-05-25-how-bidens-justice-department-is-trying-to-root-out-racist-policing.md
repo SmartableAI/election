@@ -32,28 +32,44 @@ images:
     isCached: true
 
 related:
-  - title: "House Democrats are still pursuing Trump's tax returns but Biden administration may not play ball"
-    excerpt: "After notching recent wins in their long hunt for material to help bring legal accountability to former President Donald Trump, congressional Democrats fear the Biden administration won't be helpful when it comes to obtaining the documents they covet the most: Trump's tax returns.\n    \n"
-    publishedDateTime: 2021-06-01T10:17:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z4FhBzGHTso/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democrats-biden-play-ball/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democrats-biden-play-ball/index.html"
+  - title: "Biden increasingly impatient with Netanyahu, sources say"
+    excerpt: "President Joe Biden has become increasingly impatient with Israeli Prime Minister Benjamin Netanyahu following a blunt phone call Wednesday in which the US President set a deadline for violence to ease between Israel and Hamas.\n    \n"
+    publishedDateTime: 2021-05-20T14:29:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rqwr5ZD6UVE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 177
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531094910-02-trump-taxes-house-democrats-biden-play-ball-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'Enough': Biden calls for action on guns in wake of San Jose shooting "
-    excerpt: "President Joe Biden on Wednesday urged Congress to \"take immediate action\" on gun legislation in the wake of a shooting in San Jose, California, that killed eight people earlier in the day, noting that he was ordering the flag lowered to half-staff just weeks after other mass shootings around the country.\n"
-    publishedDateTime: 2021-05-26T23:32:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SONO0tkp-WI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/biden-san-jose-shooting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/biden-san-jose-shooting/index.html"
+  - title: "Biden, staring down first Mideast crisis, touts ceasefire"
+    excerpt: "President Joe Biden has become increasingly impatient with Israeli Prime Minister Benjamin Netanyahu following a blunt phone call Wednesday in which the US President set a deadline for violence to ease between Israel and Hamas.\n    \n"
+    publishedDateTime: 2021-05-21T00:42:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rqwr5ZD6UVE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/joe-biden-benjamin-netanyahu/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520183639-01-biden-remarks-ceasefire-210520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden condemns arrest of detained Belarusian dissident journalist"
+    excerpt: "President Joe Biden on Monday lambasted Belarus' sudden grounding of a commercial flight and subsequent arrest of onboard dissident journalist Roman Pratasevich as \"a direct affront to international norms.\"\n    \n"
+    publishedDateTime: 2021-05-25T01:35:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o-x7L6K3DeA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-arrest-belarus-journalist/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/biden-condemns-arrest-belarus-journalist/index.html"
     type: article
     provider:
       name: CNN
@@ -64,419 +80,193 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration plans to speed up court cases for migrant families"
-    excerpt: "The Biden administration plans to speed up court cases for recently arrived migrant families who are seeking asylum, the Department of Homeland Security announced Friday.\n    \n"
-    publishedDateTime: 2021-05-28T14:58:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z1uuGI-Zxmg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/immigration-courts-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/immigration-courts-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427161248-03-100-days-immigration-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking Sidney Powell's claim Trump could be reinstated"
-    excerpt: "Months into President Joe Biden's first term, supporters of former President Donald Trump are still touting the \"big lie\" that Trump actually won the 2020 election. One of the prominent supporters of these theories is Trump's former lawyer Sidney Powell, who is facing a $1.3 billion defamation lawsuit"
-    publishedDateTime: 2021-06-01T20:49:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J5FpAVwaiHA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123162610-sidney-powell-1119-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "In summer, the stakes are rising for Biden"
-    excerpt: "Can President Joe Biden avoid the \"summer slump\"?\n    \n"
-    publishedDateTime: 2021-06-01T10:14:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bpyM5iYCn6k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/president-joe-biden-agenda-summer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/president-joe-biden-agenda-summer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Bidens celebrate first lady's birthday at her favorite place"
-    excerpt: "In a rare move for President Joe Biden and first lady Jill Biden, the first couple on Wednesday left Washington for a mid-week trip to their beach house in Rehoboth Beach, Delaware. It is the first time during Biden's presidency that he will pay a visit to the home. The occasion is to mark the first"
-    publishedDateTime: 2021-06-03T12:13:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3Yk8KpuLvg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/jill-biden-70th-birthday-rehoboth-beach/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/jill-biden-70th-birthday-rehoboth-beach/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602164329-rehoboth-beach-july-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden touts May jobs numbers as he pushes for infrastructure funding"
-    excerpt: "President Joe Biden on Friday touted the economic progress the US has made in its recovery from the coronavirus pandemic after the government reported 559,000 jobs were added in May.\n    \n"
-    publishedDateTime: 2021-06-04T15:32:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-6hLGDPv0yk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/biden-may-jobs-report/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/biden-may-jobs-report/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601163222-03-biden-tulsa-speech-0601-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration won't seek to rejoin Open Skies Treaty after 2020 exit"
-    excerpt: "The Biden administration will not seek to reenter the Open Skies Treaty with Russia in response to that country's \"failure to take any actions to return to compliance,\" a State Department spokesperson said Thursday.\n    \n"
-    publishedDateTime: 2021-05-27T21:57:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4pxKiHuwA0I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/open-skies-treaty-us-wont-rejoin-russia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/open-skies-treaty-us-wont-rejoin-russia/index.html"
+  - title: "Biden meeting South Korean President as he turns his focus toward East Asia"
+    excerpt: "President Joe Biden is set to meet with his South Korean counterpart President Moon Jae-in on Friday, the second in-person meeting with a world leader of his presidency as he seeks to turn his foreign policy focus back to East Asia.\n    \n"
+    publishedDateTime: 2021-05-21T15:28:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FWBIxpQC05I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/biden-moon-south-korea-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/biden-moon-south-korea-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200521115331-01-open-skies-tail-fin-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520232404-biden-moon-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Progressives push Biden to do more to distribute vaccines across the world"
-    excerpt: "A group of more than 30 Democratic members of the House of Representatives have signed onto a letter to the White House encouraging the Biden administration to do even more to help distribute vaccines across the world.\n    \n"
-    publishedDateTime: 2021-06-03T20:59:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/igDpRpHW16A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/progressive-reaction-biden-vaccines/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/progressive-reaction-biden-vaccines/index.html"
+  - title: "Biden singles out competition with Russia and China in Coast Guard commencement"
+    excerpt: "President Joe Biden singled out competition with Russia and China as part of his vision for the military branch's role in national security as he addressed the United States Coast Guard Academy's 2021 graduating class on Wednesday.\n    \n"
+    publishedDateTime: 2021-05-19T17:34:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywvMGsPQCUQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/joe-biden-coast-guard-graduation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/joe-biden-coast-guard-graduation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330130504-01-rep-pramila-jayapal-0301-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519125112-01-biden-coast-guard-commencement-0519-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration to suspend oil and gas drilling leases in Arctic refuge, undoing a Trump-era decision"
-    excerpt: "The Biden administration plans to suspend oil and gas leases in the Arctic National Wildlife Refuge, a senior administration official confirmed Tuesday, undoing a move made by the Trump administration late last year.\n    \n"
-    publishedDateTime: 2021-06-01T20:50:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uJ3c9Bco-sc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
+  - title: "Biden and Congress face increasing pressure from some Black leaders to enact police reform"
+    excerpt: "President Joe Biden and the Democratic-controlled Congress are facing increasing pressure this week from Black civil rights leaders who say federal lawmakers have made little progress with police reform one year after George Floyd's death.\n    \n"
+    publishedDateTime: 2021-05-27T01:06:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EOMppi4-58U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/black-leaders-demand-police-reform/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/black-leaders-demand-police-reform/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117174214-arctic-national-wildlife-refuge-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210526145545-01-defund-the-police-protest-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden floats bringing down infrastructure price tag but wants GOP concessions"
-    excerpt: "President Joe Biden met with Republican Sen. Shelley Moore Capito of West Virginia at the White House on Wednesday as part of ongoing discussions between his administration and the Senate GOP on infrastructure.\n    \n"
-    publishedDateTime: 2021-06-03T12:52:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hj7E-NIlVfU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/shelley-moore-capito-biden-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/shelley-moore-capito-biden-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "ACLU urges Biden administration to offer Covid-19 vaccine to detained immigrants"
-    excerpt: "The American Civil Liberties Union is urging the Biden administration to provide Covid-19 vaccine access to immigrants in detention, citing the rapid spread of coronavirus in congregate settings, according to a letter sent the Department of Homeland Security and obtained by CNN.\n    \n"
-    publishedDateTime: 2021-05-27T16:47:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XcG5kZ8dlXU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/aclu-covid-vaccine-immigrants/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/aclu-covid-vaccine-immigrants/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527073204-01-moderna-covid-19-vaccine-maryland-0325-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump appointee on West Point Board spreads conspiracy that Biden is replacing White people of European ancestry "
-    excerpt: "A Trump appointee serving on West Point's advisory board has repeatedly spread a conspiracy that the Biden administration is bringing in non-White immigrants as part of a \"grand plan\" to have them outnumber White Americans of European ancestry in the United States.\n    \n"
-    publishedDateTime: 2021-05-27T20:09:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IG3xBwFfwyA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/kfile-macgregor2/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/kfile-macgregor2/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration announces plan to share first 25 million Covid-19 doses abroad"
-    excerpt: "The Biden administration on Thursday announced a plan to share 25 million Covid-19 vaccine doses with the rest of the world by the end of June, with an overall framework of distributing at least 80 million doses by the end of June\n    \n"
-    publishedDateTime: 2021-06-03T15:33:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zd8pnYnGUqc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/biden-vaccine-sharing-plan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/biden-vaccine-sharing-plan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210501002409-0430-us-coronavirus-saturday-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden indicates he could support $1 trillion infrastructure plan, but sticking points remain"
-    excerpt: "GOP senators say that President Joe Biden has informed them he'd be willing to accept an infrastructure package of around $1 trillion, significantly lower than the White House's public offer last week.\n    \n"
-    publishedDateTime: 2021-05-25T21:51:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jYkrEjMIXCE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/infrastructure-negotiations-latest/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/infrastructure-negotiations-latest/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration formally ends 'remain in Mexico' policy after suspending it earlier this year"
-    excerpt: "The Biden administration formally ended the Trump-era policy of returning asylum seekers to Mexico until their court dates in the United States, according to a memo issued by Homeland Security Secretary Alejandro Mayorkas.\n    \n"
-    publishedDateTime: 2021-06-01T21:44:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ITl54qSJso/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/immigration-remain-in-mexico/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/immigration-remain-in-mexico/index.html"
+  - title: "Biden 'expressed his support for a ceasefire' in call with Israeli Prime Minister, White House says"
+    excerpt: "The growing number of civilian deaths in the intensifying battle between Israel and Hamas in Gaza is causing worry inside the White House as officials work the phones with partners in the region.\n    \n"
+    publishedDateTime: 2021-05-17T22:40:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5c_JUVHtrSI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/biden-israel-hamas-gaza/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/biden-israel-hamas-gaza/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429171753-ninos-migrantes-prioridad-reunificacion-antonio-vitorino-aristegui-mexico-00000710-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512170722-02-joe-biden-0512-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Here's what Biden can do on his own about racial inequality -- and where he'll need Congress to act"
-    excerpt: "President Joe Biden on Tuesday laid out his most comprehensive plan yet for shrinking the nation's longstanding racial wealth gap, the latest step in his promise to infuse more equity in government policies and in the rebuilding of the economy after the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-06-01T21:21:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/80wWhQ90ZnA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/racial-inequality-biden-proposals/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/racial-inequality-biden-proposals/index.html"
+  - title: "Biden is going to Michigan to tout electric trucks. Violence in Middle East may overshadow the trip"
+    excerpt: "President Joe Biden's Tuesday visit to Michigan to promote his economic agenda has been on the White House's calendar for weeks, but a carefully planned trip now risks being overshadowed by the recent eruption of violence in the Middle East between Hamas and Israel.\n    \n"
+    publishedDateTime: 2021-05-18T13:38:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U1593o_Fm1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/biden-dearborn-michigan-israel-gaza/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/biden-dearborn-michigan-israel-gaza/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601171059-04-biden-tulsa-speech-0601-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517232716-01-joe-biden-0516-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's willingness to break conventional presidential wisdom on full display as he heads to the beach "
-    excerpt: "Political wisdom might ordinarily dictate that a president in need of certain senators' votes not publicly scold those lawmakers in public.\n    \n"
-    publishedDateTime: 2021-06-02T22:55:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mf0W7QTfcos/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/joe-biden-beach-trip-joe-manchin-kyrsten-sinema/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/joe-biden-beach-trip-joe-manchin-kyrsten-sinema/index.html"
+  - title: "Pence slams Biden for 'weakness' in handling of Israel-Hamas conflict"
+    excerpt: "Pence administration\" several times in the piece, using a phrase not often heard while he was in office. Former Vice President Mike Pence sharply criticized President Joe Biden in an op-ed Monday, calling the administration weak for its stance on the recent violent clashes between Israel and Palestinians."
+    publishedDateTime: 2021-05-18T04:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/pence-slams-biden-weakness-handling-israel-hamas-conflict-n1267719"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267719"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267719"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_20/3475555/214517-israel-iron-dome-missles-ac-953p_f99471a7be03d066bf80876d4fd3f3af.jpg"
+        width: 2500
+        height: 1666
         isCached: true
-  - title: "Deposition of Trump Org CFO looms in DC lawsuit accusing Trump 2017 inauguration committee of abusing funds"
-    excerpt: "Documents due in DC Superior Court on Friday could clear the way for the Trump Organization's chief financial officer to be deposed as part of a DC attorney general lawsuit that alleges former President Donald Trump's 2017 inaugural committee abused non-profit funds.\n    \n"
-    publishedDateTime: 2021-05-28T00:54:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AEjAQwIpVNg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/trump-organization-allen-weisselberg-deposition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-organization-allen-weisselberg-deposition/index.html"
+  - title: "Biden adopting firmer tone with Netanyahu as decades-long relationship enters its most consequential moment"
+    excerpt: "Joe Biden was in for a few surprises when he visited Israel in 2010.\n    \n"
+    publishedDateTime: 2021-05-19T11:53:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b-8CSXuwdCc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/biden-netanyahu-relationship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/biden-netanyahu-relationship/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180824110948-allen-weisselberg-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160419131317-biden-netanyahu-march-9-2016-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Pompeo-led effort to hunt down Covid lab theory shut down by Biden administration over concerns about quality of evidence"
-    excerpt: "President Joe Biden's team shut down a closely-held State Department effort launched late in the Trump administration to prove the coronavirus originated in a Chinese lab over concerns about the quality of its work, according to three sources familiar with the decision.\n    \n"
-    publishedDateTime: 2021-05-25T23:53:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-FHC-pSsYg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-shut-down-trump-effort-coronavirus-chinese-lab/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-shut-down-trump-effort-coronavirus-chinese-lab/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 150
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524163012-cnn-red-wuhan-lab-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Education Department rescinds Trump-era policy restricting state oversight of student loan servicing companies and debt collectors"
-    excerpt: "The Department of Education under the Biden administration is rescinding a Trump-era policy that restricted states' access to records and information in policing student loan servicing companies.\n    \n"
-    publishedDateTime: 2021-05-29T18:15:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FmG7E9-Xy6Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/29/politics/education-department-student-loans-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/29/politics/education-department-student-loans-policy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 145
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210529135050-us-department-of-education-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden expected to use budget to strengthen abortion rights bona fides"
-    excerpt: "A budget blueprint that omits the Hyde amendment and other anti-abortion provisions could be Biden’s strongest statement yet of his commitment to making the procedure accessible."
-    publishedDateTime: 2021-05-27T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
+  - title: "Still buddies? Mideast violence tests Biden and Netanyahu’s friendship"
+    excerpt: "As tensions rose between the White House and Israel almost seven years ago, then-Vice President Joe Biden assured a Jewish audience that he and Prime Minister Benjamin Netanyahu were “still buddies.” It didn’t matter that Netanyahu had treated Biden’s boss,"
+    publishedDateTime: 2021-05-14T23:39:00Z
+    webUrl: "https://www.politico.com/news/2021/05/14/us-israel-biden-netanyahu-relationship-488381"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/14/us-israel-biden-netanyahu-relationship-488381"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/14/us-israel-biden-netanyahu-relationship-488381"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/0c/af/3cd9d7b343529766b46e820f62a8/gettyimages-907233944-1.jpg"
+      - url: "https://static.politico.com/e0/39/981bd05b41f38027444998b892bb/gettyimages-97574218-1.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Broad Coalition of Democrats Presses Biden to Expand Medicare"
-    excerpt: "Over 150 House Democrats are pushing the president to include a plan in his infrastructure package to lower the eligibility age, expand benefits and negotiate drug prices."
-    publishedDateTime: 2021-05-27T07:00:00Z
-    webUrl: "https://www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/26/us/politics/26dc-medicare/26dc-medicare-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Why Biden Isn’t Cracking Down on Fossil Fuels"
-    excerpt: "Because of global warming, brought on by burning the very sort of fossil fuels that ConocoPhillips is extracting. With Joe Biden’s election in November, environmental advocates had hoped that such drilling on U."
-    publishedDateTime: 2021-05-28T22:10:00Z
-    webUrl: "https://www.nytimes.com/2021/05/28/us/politics/biden-climate-change-fossil-fuels.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/28/us/politics/biden-climate-change-fossil-fuels.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/us/politics/biden-climate-change-fossil-fuels.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/28/us/politics/28onpolitics/28DC-NEWSLETTER-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump Administration Secretly Seized Phone Records of Times Reporters"
-    excerpt: "The admission by the Biden Justice Department followed similar recent disclosures to The Washington Post and CNN."
-    publishedDateTime: 2021-06-03T00:22:00Z
-    webUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/02/us/politics/02dc-times-1/merlin_131699588_8a898e52-fc40-459a-8813-84c0b2ec118c-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Republicans Present $928 Billion Counteroffer to Biden on Infrastructure"
-    excerpt: "The plan’s total price tag came close to what the president has said he would consider, but it included only a fraction of the new spending he has requested. A compromise faces long odds."
-    publishedDateTime: 2021-05-27T21:02:00Z
-    webUrl: "https://www.nytimes.com/2021/05/27/us/politics/republicans-infrastructure-counteroffer.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/27/us/politics/republicans-infrastructure-counteroffer.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/us/politics/republicans-infrastructure-counteroffer.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/27/us/politics/27vid-gop-clip/27vid-gop-clip-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Ex-Trump aide Stephen Miller's legal group sues Biden administration, alleging racism against white farmers"
-    excerpt: "The staunch anti-immigration advocate cited MLK while charging a program to help socially disadvantaged farmers and ranchers discriminates against whites"
-    publishedDateTime: 2021-04-28T20:38:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/ex-trump-aide-stephen-miller-s-legal-group-sues-biden-n1265663"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265663"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265663"
+  - title: "Biden increases funding to prepare for extreme weather ahead of hurricane season"
+    excerpt: "Biden also announced a new climate data system by NASA to help understand and track the effects of climate change."
+    publishedDateTime: 2021-05-24T21:45:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-increases-funding-prepare-extreme-weather-events-ahead-hurricane-season-n1268337"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268337"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268337"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 132
+    quality: 130
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3418080/201006-stephen-miller-ac-920p_a4adda3966398fb1cfcf84e464e7f581.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_21/3477214/210524-hurricane-delta-jm-1156_90f03001c6f54a9e881d62f1e80cfb69.jpg"
         width: 2500
-        height: 1784
+        height: 1584
         isCached: true
-  - title: "Biden administration sides with Florida on Canadian drug imports"
-    excerpt: "The Biden administration’s motion essentially sides with Florida and New Mexico, the only other state that has formally started the process of applying for Canadian imports. The motion asks a federal court in Washington to toss a lawsuit from the Pharmaceutical Research & Manufacturers of America,"
-    publishedDateTime: 2021-05-28T23:14:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2021/05/28/biden-administration-sides-with-florida-on-canadian-drug-imports-1384579"
+  - title: "Biden signed a new hate crimes law — but there's a big flaw"
+    excerpt: "Despite current incentives, many big police departments don’t report whether a crime was motivated by bias to federal authorities. And state governments often disagree on what a hate crime even is. In 2020 — the most recent year data was available — nearly a quarter of big cities didn’t report a single hate crime,"
+    publishedDateTime: 2021-05-20T19:43:00Z
+    webUrl: "https://www.politico.com/interactives/2021/state-hate-crime-laws/"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/b3/bb/e336aa5047849a904a3c2846f770/200305-drugs-antibiotics-getty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://politico.com/interactives/2021/state-hate-crime-laws/media/share.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Congress misses Biden's deadline on police reform"
+    excerpt: "President Joe Biden called on Congress to pass a sweeping police reform bill by today, the anniversary of George Floyd’s murder. That’s not going to happen. “I would be shocked if anything happened as soon as tomorrow."
+    publishedDateTime: 2021-05-25T11:17:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/05/25/congress-misses-bidens-deadline-on-police-reform-492994"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Biden dramatically scales up the pressure on Netanyahu as decades-long relationship faces its most consequential moment"
+    excerpt: "President Joe Biden on Wednesday dramatically escalated his public pressure on Israeli Prime Minister Benjamin Netanyahu to end the fighting with Hamas that has stretched into a 10th day, as their decades-long relationship faces a stern test."
+    publishedDateTime: 2021-05-19T13:46:00Z
+    webUrl: "https://www.cnn.com/2021/05/19/politics/biden-netanyahu-relationship/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/biden-netanyahu-relationship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/biden-netanyahu-relationship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 111
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160419131317-biden-netanyahu-march-9-2016-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "7pn2wZO4I8qYhUmiM8NXVRamHeWZVdpMqfI1MMhoTy98w2W/BRwuvjfohdxQD9ZBNtDlcv8KJe3/tO+EnsenUtxcoE3UJq21ZBYaV2rmssoQHbcJpoSPw8wwCyccrprA45m8k8TtGHyUlJXDx7/FKIkYqarkGfH7bN1SwFnswBICMFd2BJUYosNTC2K8ANX1HT71pguA1wUnIFFmzty/rKk/lAfMrm8VVJ6+YqT4wUTwI8Y/wRWCq/ECVv1UMFTz6lPOLlglDY8P1J5g+zXCuV3iv8stp3bVmHXAsXLs2Vm9xR02FLHTPpCbqpPvVQIEldIq2OlM24DJfi5CetK8Her3V3E8LEv1xXJiD0up3MFaINrE9COHJQ50qbEYkA/ph3oB3MJX7LJCIYXx1R8vJ5NiEiFnZf64nFbjpXsQuIjZ0Y1MUAOEIWCHau9vmEWaGo4Nk0Gr0yVGn5PPL/TI3k9XZZf4FKMPZ/5aOgegK8zg/PZMOAggdbyHVogK/2F18UI3YF+Mn8flwu3PcAzUeA==;yRH95pB0b+B+6ZpQzmFWRg=="

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Enough': Biden calls for action on guns in wake of San Jose shooting "
+    excerpt: "President Joe Biden on Wednesday urged Congress to \"take immediate action\" on gun legislation in the wake of a shooting in San Jose, California, that killed eight people earlier in the day, noting that he was ordering the flag lowered to half-staff just weeks after other mass shootings around the country.\n"
+    publishedDateTime: 2021-05-26T23:32:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SONO0tkp-WI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/biden-san-jose-shooting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/biden-san-jose-shooting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521110947-biden-0520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden tasks intelligence community to report on Covid origins in 90 days"
     excerpt: "President Joe Biden said Wednesday he has directed the US intelligence community to redouble their efforts in investigating the origins of the Covid-19 pandemic and report back to him in 90 days.\n    \n"
     publishedDateTime: 2021-05-26T17:54:11Z
@@ -95,6 +111,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration won't seek to rejoin Open Skies Treaty after 2020 exit"
+    excerpt: "The Biden administration will not seek to reenter the Open Skies Treaty with Russia in response to that country's \"failure to take any actions to return to compliance,\" a State Department spokesperson said Thursday.\n    \n"
+    publishedDateTime: 2021-05-27T21:57:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4pxKiHuwA0I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/open-skies-treaty-us-wont-rejoin-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/open-skies-treaty-us-wont-rejoin-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200521115331-01-open-skies-tail-fin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "ACLU urges Biden administration to offer Covid-19 vaccine to detained immigrants"
+    excerpt: "The American Civil Liberties Union is urging the Biden administration to provide Covid-19 vaccine access to immigrants in detention, citing the rapid spread of coronavirus in congregate settings, according to a letter sent the Department of Homeland Security and obtained by CNN.\n    \n"
+    publishedDateTime: 2021-05-27T16:47:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XcG5kZ8dlXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/aclu-covid-vaccine-immigrants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/aclu-covid-vaccine-immigrants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527073204-01-moderna-covid-19-vaccine-maryland-0325-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to close two immigration detention centers that came under scrutiny"
     excerpt: "The Biden administration announced Thursday that it will stop detaining immigrants at two detention centers that came under investigation over allegations of inadequate medical care and poor conditions.\n    \n"
     publishedDateTime: 2021-05-20T16:31:15Z
@@ -124,6 +172,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden indicates he could support $1 trillion infrastructure plan, but sticking points remain"
+    excerpt: "GOP senators say that President Joe Biden has informed them he'd be willing to accept an infrastructure package of around $1 trillion, significantly lower than the White House's public offer last week.\n    \n"
+    publishedDateTime: 2021-05-25T21:51:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jYkrEjMIXCE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/infrastructure-negotiations-latest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/infrastructure-negotiations-latest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -303,6 +367,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden expected to use budget to strengthen abortion rights bona fides"
+    excerpt: "A budget blueprint that omits the Hyde amendment and other anti-abortion provisions could be Biden’s strongest statement yet of his commitment to making the procedure accessible."
+    publishedDateTime: 2021-05-27T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/27/biden-hyde-amendment-abortion-rights-491030"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/0c/af/3cd9d7b343529766b46e820f62a8/gettyimages-907233944-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Broad Coalition of Democrats Presses Biden to Expand Medicare"
+    excerpt: "Over 150 House Democrats are pushing the president to include a plan in his infrastructure package to lower the eligibility age, expand benefits and negotiate drug prices."
+    publishedDateTime: 2021-05-27T07:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/us/politics/medicare-expansion-democrats-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/26/us/politics/26dc-medicare/26dc-medicare-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden to Propose $6 Trillion Budget to Make U.S. More Competitive"
     excerpt: "The president’s plans to invest in infrastructure, education, health care and more would push federal spending to its highest sustained levels since World War II."
     publishedDateTime: 2021-05-27T22:49:00Z
@@ -316,6 +412,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/05/27/business/27dc-biden-budget01sub/27dc-biden-budget01sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Republicans Present $928 Billion Counteroffer to Biden on Infrastructure"
+    excerpt: "The plan’s total price tag came close to what the president has said he would consider, but it included only a fraction of the new spending he has requested. A compromise faces long odds."
+    publishedDateTime: 2021-05-27T21:02:00Z
+    webUrl: "https://www.nytimes.com/2021/05/27/us/politics/republicans-infrastructure-counteroffer.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/27/us/politics/republicans-infrastructure-counteroffer.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/us/politics/republicans-infrastructure-counteroffer.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/27/us/politics/27vid-gop-clip/27vid-gop-clip-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

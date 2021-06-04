@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Psaki can't imagine circumstance where Biden would fire Fauci"
+    excerpt: "White House press secretary Jen Psaki said Friday there is no circumstance where she could imagine President Biden ever firing Dr. Anthony Fauci as Republicans have ramped up their attacks on the president’s top medical adviser after thousands of his emails were made public this week."
+    publishedDateTime: 2021-06-04T19:48:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nnxqk51--lI/psaki-biden-not-firing-fauci"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-not-firing-fauci.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-not-firing-fauci.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21137590530322.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden won't form his own commission to study Capitol riot, White House says"
     excerpt: "The White House on Thursday shot down the idea of forming its own presidential commission to study the Jan. 6 attack on the Capitol, saying it is Congress’ “unique role” to carry out that investigation."
     publishedDateTime: 2021-06-03T21:26:42Z

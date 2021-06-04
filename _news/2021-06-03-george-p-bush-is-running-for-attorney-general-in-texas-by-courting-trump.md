@@ -32,21 +32,85 @@ images:
     isCached: true
 
 related:
-  - title: "DOJ investigating Trump-appointed Postmaster General Louis DeJoy"
-    excerpt: "The Justice Department is investigating campaign contributions made by Postmaster General Louis DeJoy's private sector employees, his spokesman confirmed Thursday.\n    \n"
-    publishedDateTime: 2021-06-03T16:38:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/om4qEbIztMc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/louis-dejoy-campaign-contributions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/louis-dejoy-campaign-contributions/index.html"
+  - title: "Fact-checking Sidney Powell's claim Trump could be reinstated"
+    excerpt: "Months into President Joe Biden's first term, supporters of former President Donald Trump are still touting the \"big lie\" that Trump actually won the 2020 election. One of the prominent supporters of these theories is Trump's former lawyer Sidney Powell, who is facing a $1.3 billion defamation lawsuit"
+    publishedDateTime: 2021-06-01T20:49:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J5FpAVwaiHA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200824124226-17-postmaster-dejoy-hearing-0824-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123162610-sidney-powell-1119-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "As Trump readies summer rallies and speeches, allies worry he's stuck in the past"
+    excerpt: "A cadre of aides and advisers working to tame Donald Trump's obsession with the 2020 election, including his fixation with debunked voter fraud theories and ballot audits, are realizing the task at hand is much tougher than they thought.\n    \n"
+    publishedDateTime: 2021-06-04T11:00:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6zUDM5TouqA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603151659-donald-trump-cpac-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Deposition of Trump Org CFO looms in DC lawsuit accusing Trump 2017 inauguration committee of abusing funds"
+    excerpt: "Documents due in DC Superior Court on Friday could clear the way for the Trump Organization's chief financial officer to be deposed as part of a DC attorney general lawsuit that alleges former President Donald Trump's 2017 inaugural committee abused non-profit funds.\n    \n"
+    publishedDateTime: 2021-05-28T00:54:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AEjAQwIpVNg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/trump-organization-allen-weisselberg-deposition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-organization-allen-weisselberg-deposition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180824110948-allen-weisselberg-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Judge says Trump's 'steady drumbeat' of the Big Lie could continue to inspire his supporters to take up arms"
+    excerpt: "A federal judge on Wednesday wrote that Donald Trump's \"Big Lie\" that the 2020 election was stolen from him could still inspire some of the former President's supporters to take up arms, as they did in January during the deadly US Capitol insurrection.\n    \n"
+    publishedDateTime: 2021-05-27T00:32:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oLL7Q627pco/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/trump-supporters-big-lie-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/trump-supporters-big-lie-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Indictment against former Trump adviser Bannon is dismissed"
+    excerpt: "The onetime chief strategist, accused of defrauding donors in a $25 million fund to build a wall along the U.S. border, had been pardoned by the president."
+    publishedDateTime: 2021-05-26T04:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/indictment-against-former-trump-adviser-bannon-dismissed-n1268588"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268588"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268588"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_34/2288866/180110-steve-bannon-ac-727p_e8b0300a10c51c63a114531d87cb7ac8.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "YgufCQmWbwCSIVgsjm+0j7Cs1e2c/lGsmeRNIFX2ZybtvkBcp7qM3BZmekwlOMa5ANmrEmPVAHEYBapFUsW9hAkrl88glX0Bgo00ELuAezg0Bqpna6pjdadRaMaQ2CNm2gchTfYQIiFfNL1Fkk74yV7S7CGf4kGze5n8rxY1u5FrpyLOQN+2YToarx+uZXrQxLKmj5pO2RynWT9XaYu3oR+YtRKwgX/F1EVaASE/jKBn4RbNqiBYBpUQ6CnYncp1zhj77AO+sNx8dGrrUnOkpLH2z5p1N+xaqTnDfSLLabZ6Sq+0cOSArJBpOtUAisDeZUMg3WvoB31bPn53AbYhwhXf/VG/FkFSAYe/g2Rq0oR39/ZLPsq3s4vqWSTwPFLvNNZRNPr2D8K4/jZhuyd6wkm6nvpBpZ0JG3h3mgzgAZCK5ZZw28ntpIA49Q8o6SrvTr2zG3KWXLdlvcYrfexVJFyraLTBvQQFgfDbdeV18o5AABS0Bx/OdXhno4mO/5J/RASH9MHcjV8AdWUhlnZ93Q==;tpnyHkgF/qmGvNysCwa+0g=="
