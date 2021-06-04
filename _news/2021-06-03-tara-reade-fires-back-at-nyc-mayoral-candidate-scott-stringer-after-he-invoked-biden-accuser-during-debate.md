@@ -32,19 +32,83 @@ images:
     isCached: true
 
 related:
-  - title: "Texas Senate passes election reform bill criticized by Biden after closed-door negotiations, all-night debate"
-    excerpt: "Republicans in the Texas Senate took a big step toward tightening their state's election laws this weekend, prompting outcry from Democrats."
-    publishedDateTime: 2021-05-30T17:07:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUK_Oegc9aI/texas-senate-election-reform-bill-biden-security"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp"
+  - title: "Hunter Biden-linked lobbying firm facing DOJ probe, report says"
+    excerpt: "A consulting firm linked to Hunter Biden – and co-founded by a former member of the Clinton administration -- is facing a Justice Department investigation into potential illegal lobbying activity, according to a report."
+    publishedDateTime: 2021-06-04T07:27:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRbGx-OX4FQ/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/168c5283-4842-412a-8322-5eced9ab2a41/09b74a5c-137c-4da4-ac4a-8ca8d445d604/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40e43fe5-4356-4038-be88-b4d2093c0947/834ae71a-febe-43f9-82e0-9e1ef088056c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden White House 'progress' report conspicuously omits school re-openings"
+    excerpt: "A “progress” report put out on Instagram by the White House is touting the Biden administration’s “successes” on reducing COVID-19 cases and increasing vaccinations -- while not including other key issues like re-opening schools where the administration has struggled."
+    publishedDateTime: 2021-05-28T12:53:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/egk1l8FeAQw/biden-white-house-progress-report-school-re-openings-omitted"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-progress-report-school-re-openings-omitted.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-progress-report-school-re-openings-omitted.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1942ec4c-ff0a-4f44-9440-03dd24b379da/6f59b55e-754e-4135-b63c-23c6a220d574/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden won't form his own commission to study Capitol riot, White House says"
+    excerpt: "The White House on Thursday shot down the idea of forming its own presidential commission to study the Jan. 6 attack on the Capitol, saying it is Congress’ “unique role” to carry out that investigation."
+    publishedDateTime: 2021-06-03T21:26:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/AP21019774947253.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden announces new incentives, including free beer, to reach COVID vaccination goal"
+    excerpt: "President Biden on Wednesday declared June a “national month of action” to take aim at the coronavirus pandemic, urging Americans to get vaccinated."
+    publishedDateTime: 2021-06-02T21:06:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lEy89UR2WD4/biden-announces-new-incentives-including-free-beer-to-reach-covid-vaccination-goal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-announces-new-incentives-including-free-beer-to-reach-covid-vaccination-goal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-announces-new-incentives-including-free-beer-to-reach-covid-vaccination-goal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden speech commemorating Tulsa race massacre to detail efforts to combat racial inequality"
+    excerpt: "President Biden will detail his administration’s planned initiatives to combat racial injustice on Tuesday during a speech commemorating the 100th anniversary of the Tulsa race massacre."
+    publishedDateTime: 2021-06-01T09:22:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mQzJSBZ1ZeM/biden-speech-tulsa-race-massacre-efforts-combat-racial-inequality"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-speech-tulsa-race-massacre-efforts-combat-racial-inequality.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-tulsa-race-massacre-efforts-combat-racial-inequality.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77c9a4d0-e255-4343-a5bb-8859501c783f/65dd2b45-d44c-49ae-b161-e0abb868740a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -64,19 +128,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "House Republicans call on Senate leaders to reject Biden DHS picks, warn they won't end border crisis"
-    excerpt: "EXCLUSIVE: More than 30 House Republicans on Thursday wrote to Senate leaders in both parties, urging them to reject President Biden’s nominees for key Department of Homeland Security agencies -- warning that they will not \"make the decisions necessary\" to end the ongoing crisis at the southern border."
-    publishedDateTime: 2021-06-03T16:00:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NcJ1rzhs7xs/house-republicans-senate-leaders-biden-dhs-picks-border-crisis"
+  - title: "Barack Obama Interview: Joe Biden Is 'Finishing the Job'"
+    excerpt: "Barack Obama tells Ezra Klein how American went from \"Yes We Can\" to \"MAGA.\" The former president also discuss Joe Biden, aliens, and three of his favorite books."
+    publishedDateTime: 2021-06-02T16:32:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html#!"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 140
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/BORDER-2.jpeg"
-        width: 1000
-        height: 667
+      - url: "https://assets.realclear.com/images/54/544771.jpg"
+        width: 3851
+        height: 2562
         isCached: true
 
 secured: "k4xppwzCtcezgiD4e4E1jQHT3KK9scDzV2GkYsKvCdIbTjyst6eQ5X1Oe4Hf170D7dcjmFwdJNnH4NA9C6WK2QrRrKNhU98zuPuZYY7OH3V2gY9ksQkcBY8PLlRCsG3ECVinby3Pj72z7gz9Cp68PGldcr9nxA79AV/DM/oXhzXCMmDuWPn/OO5q2rYCmvHgmSq406lVjYCCibCKn+sUndGI21rqA7XYxsWuBd48icSsgnJ3I+qftmyowMRn1l9Fxjmc8vcrTFgFOm97YxC1EsK7wEYm7M9M5tni5w00VSBnImYWk8vs2Dc5/4/K20jfr2Q0CaFhvPcqnrMV0Iq0IBJ0+/UzRH3mqx2tTakMnUo=;LJfJiswHor3V1AtsjCBqaA=="

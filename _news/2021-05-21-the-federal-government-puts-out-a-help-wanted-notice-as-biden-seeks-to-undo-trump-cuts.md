@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/21/biden-trump-gover
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/21/biden-trump-government-rebuilding/?outputType=amp"
 type: article
 quality: 131
-heat: 251
+heat: 271
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210518&t=2&i=1562530751&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4H0OK"
         width: 835
         height: 545
+        isCached: true
+  - title: "ICE deported 348 migrant parents under Trump without ensuring children could go with them"
+    excerpt: "Some parents were deported without their children even after telling ICE officers that they wanted their children to come with them, the DHS inspector general found."
+    publishedDateTime: 2021-05-24T20:20:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-ice-deportations-parents-trump-family-separation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-ice-deportations-parents-trump-family-separation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-ice-deportations-parents-trump-family-separation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/18/fca5c57b-04f7-4ff4-9832-a7b6c222547c/thumbnail/1200x630/d615f11dcdadbd7bc81e61c3680c60c9/ap19200565745965.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20"
     excerpt: "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency"

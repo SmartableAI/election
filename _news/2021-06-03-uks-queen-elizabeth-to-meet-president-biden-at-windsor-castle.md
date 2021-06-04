@@ -3,8 +3,8 @@ category: news
 title: "UK's Queen Elizabeth to meet President Biden at Windsor Castle"
 excerpt: "Queen Elizabeth will meet U.S. President Joe Biden and First Lady Jill Biden at her Windsor Castle home at the conclusion of the G7 summit which begins in Britain next week, Buckingham Palace said on Thursday."
 publishedDateTime: 2021-06-03T15:10:00Z
-originalUrl: "https://www.reuters.com/article/uk-g7-summit-royals/uks-queen-elizabeth-to-meet-president-biden-at-windsor-castle-idUSKCN2DF13M"
-webUrl: "https://www.reuters.com/article/uk-g7-summit-royals/uks-queen-elizabeth-to-meet-president-biden-at-windsor-castle-idUSKCN2DF13M"
+originalUrl: "https://www.reuters.com/article/us-g7-summit-royals/uks-queen-elizabeth-to-meet-president-biden-at-windsor-castle-idUSKCN2DF13T"
+webUrl: "https://www.reuters.com/article/us-g7-summit-royals/uks-queen-elizabeth-to-meet-president-biden-at-windsor-castle-idUSKCN2DF13T"
 type: article
 quality: 105
 heat: -1
@@ -78,6 +78,6 @@ related:
         height: 360
         isCached: true
 
-secured: "GN5Ouos/mK6bsnXA6Y2zR520GpNc6JErahxuWre+KGtBdF/FKxPMjy+fCCCUaEGCK9FBTg/Sd7ThxXUvfA1nqunZhFKEKL9bvfGN57T5MOjK8LS1pRTnCGj/OnA8waiD+I8AUH07vNHFf4ycd1kpLbVT42CiAyNp/iMHBLUt1Qup14bEoTFblB8Gsh+Pbz6jajtO6k3r4lRjhdswUf//QNqk3tBnCM9078PrFymx9v/DYKHY+75dPndAfhxiopbuR5vkbMpnUaAAnZWkasCC9LZ4FzH8dKqMnBpKR2Te/oVkPMayphoCjW3oELJ8j/2anKmNqfeKH/HD1LHXT8dGWLsu23ne5GbW/14qhZ817arv/yQHcJYnIWsvmAi2Yae5iL1pB8iSP9/0a+clyLGFeeyfe6MmVjJ9FR1DsymaAiAzdfwotuS0kucfkZcEHuCz8ZkxH+Zv04CywtZSqj7qsYVbh+2jVKtvvyibtOWjz/1gmoVi2798OZAjMBTc/erWJyQhO+5zSgRV7C/UBWHbjA==;1AHBc28VoauwIdBmP01UXA=="
+secured: "5iWprEl6kulxfcHm8H1p0bLGyWOHG8qfrBoESc+jDhhbzQaeo2dq2VMut4NltZQAgGGw/s2BD9aNA1f1l0u2KunFz3cffp2tkyutxIKOcIwTiHcSZ2Pkblx/zO6dIls8VAVL2oxEuqFR7R45WJbkdiRPgc5IXtTSmWkJqjK/siVIiW6to5byES6jjF+ZY7++ZJF46RbY1+XTJOUcTXu33y2c38iwN2qMl9FCNJDV/RJjwmjdovIlkukWV7bJxHehJLRrqFFKh5KIhVdW2qklb4317fC8C4po8qzaewZvU5poR76JCKoYtJqtuz0YgJk5yIouZ9ejgHIhwIqadGJqWebm/fijhBjg02MqRwwKkJQ=;eRVtIemYrm4vOaA4SHVZQA=="
 ---
 

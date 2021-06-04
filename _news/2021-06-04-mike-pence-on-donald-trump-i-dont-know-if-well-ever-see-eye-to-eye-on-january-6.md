@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/index.html"
 type: article
 quality: 193
-heat: 253
+heat: 273
 published: true
 
 provider:
@@ -80,7 +80,23 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence calls Jan. 6 a 'dark day,' says he may never see 'eye to eye' with Trump over it"
+    excerpt: "\"But I will always be proud of what we accomplished for the American people,\" the former vice president said in a speech in New Hampshire."
+    publishedDateTime: 2021-06-04T03:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/pence-calls-jan-6-dark-day-says-he-may-never-n1269583"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269583"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269583"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 152
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480201/210603-mike-pence-ac-814p.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
 
-secured: "zxJg7BLFv4v7XsflOnqEA36zB7T/eTaR47rlMHB6QQkHZ1rZ4BlpOvYIYDY+xeJMdH2lOHTlbTBUrYdRAG9jcpByrdDJWeZsho0FpfGRWj+/TwXNWbRFGSTPNtrEzYKqA+yq+TMEagAgU0Z8J0Tq+grP+DyoKmu2BX3+QOenGKWCw7xbi7kEItAN7bDDjEKOenfRKwW08/S1u3BeZH6wkXzNfFFzVOFxNHH+qyljw3TY7FgtuOa5c5SH3JVv8nH8CXtd78e24uTDIQ748FmemD32kZf3Vqo8suBKDyyEOf+TmSPl22yydQ2zSVWtQ7CB1AskXJFJhtP8tEjczS18PrzGdGKo+BRsrFt3NPoRUJU=;IV0pPIcGNS1Lyj9QZfow3Q=="
+secured: "vB12UZji0gjzGo27dLrJmH9EOpC8gX0ndE9DcM5TWlYkJHY3u6zVRT5h5DfSOnrohTUMge11VmcluHOLOTdUNSS1IeNDY5brGIhAdR0g2/kj2ILqEc6i6KfCnMNKsfgJUOyA5r3zXW764kBBSq/99jvpL0Et9a/6aYg+htEExbZ5R9xEgv2aXGGQ+s11u24uWt58P+psI+vTKle6D2yKIyy5o5i/IemFtQEZh1NRu0jfOQHs0WckJmeAehsDz9rcjF/HQsuv+WsplAez0INFLphHzRb7TabQKUj+hkYiWNJIdsn1d7++Y+RBg9C6VdMl8Ua8WdLdrZ/5IGmOy0v9Gng24HsePn1Dq29M0/n7Gdo=;xLdss98UZT5fpnsV8TsvbQ=="
 ---
 

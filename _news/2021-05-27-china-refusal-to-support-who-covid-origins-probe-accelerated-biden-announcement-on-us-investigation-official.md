@@ -47,22 +47,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden won't form his own commission to study Capitol riot, White House says"
-    excerpt: "The White House on Thursday shot down the idea of forming its own presidential commission to study the Jan. 6 attack on the Capitol, saying it is Congress’ “unique role” to carry out that investigation."
-    publishedDateTime: 2021-06-03T21:26:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/AP21019774947253.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden Orders More Intel Investigation of COVID-19 Origin"
     excerpt: "President Joe Biden ordered U.S. intelligence officials to redouble their efforts to investigate the origins of the"
     publishedDateTime: 2021-05-27T12:16:00Z

@@ -155,20 +155,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Org. subject of criminal probe in New York"
-    excerpt: "New York's attorney general said Friday that she's assigned two lawyers to work with the Manhattan district's attorney's office on a criminal investigation into former President Donald Trump's business dealings."
-    publishedDateTime: 2021-05-21T19:38:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/21/trump-org-subject-criminal-probe-new-york/5208067001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6026d8e2-3c12-42da-9ba8-67dd8fd97232_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Judge sentences co-founder of 'Students for Trump' to prison"
     excerpt: "A judge has sentenced a co-founder of “Students for Trump” to 13 months in prison after he admitted posing as a lawyer to cheat clients out of thousands of dollars"
     publishedDateTime: 2021-05-11T22:21:00Z

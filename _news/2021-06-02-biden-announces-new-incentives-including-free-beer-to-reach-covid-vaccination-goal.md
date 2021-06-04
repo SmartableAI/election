@@ -31,51 +31,115 @@ images:
     isCached: true
 
 related:
-  - title: "San Jose shooting prompts Biden, Newsom to renew call for gun control measures"
-    excerpt: "President Biden, California Gov. Gavin Newsom and other prominent Democrats renewed calls for tighter gun laws on Wednesday after a deadly mass shooting at a California rail yard."
-    publishedDateTime: 2021-05-27T01:01:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1oEqrNEUU30/san-jose-shooting-biden-newsom-gun-control"
-    ampWebUrl: "https://www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp"
+  - title: "Hunter Biden-linked lobbying firm facing DOJ probe, report says"
+    excerpt: "A consulting firm linked to Hunter Biden – and co-founded by a former member of the Clinton administration -- is facing a Justice Department investigation into potential illegal lobbying activity, according to a report."
+    publishedDateTime: 2021-06-04T07:27:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRbGx-OX4FQ/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75fd10f9-5ed7-4a0a-a339-cec24197305e/c2c66037-e392-4e1e-b849-923bdaf2f091/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40e43fe5-4356-4038-be88-b4d2093c0947/834ae71a-febe-43f9-82e0-9e1ef088056c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Stakes high as Biden meets GOP Sen. Capito on infrastructure amid progressive push to leave Republicans behind"
-    excerpt: "President Biden and Sen. Shelley Moore Capito will meet Wednesday afternoon for high-stakes talks on a potential infrastructure deal as the two parties' proposals are hundreds of billions of dollars apart and progressive Democrats push Biden to ditch negotiations and go it alone with a Democrats-only"
-    publishedDateTime: 2021-06-02T12:17:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l5X3ga1DG9c/capito-biden-infrastructure-meet-negotiations-progressives-abandon-gop"
-    ampWebUrl: "https://www.foxnews.com/politics/capito-biden-infrastructure-meet-negotiations-progressives-abandon-gop.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-biden-infrastructure-meet-negotiations-progressives-abandon-gop.amp"
+  - title: "Biden White House 'progress' report conspicuously omits school re-openings"
+    excerpt: "A “progress” report put out on Instagram by the White House is touting the Biden administration’s “successes” on reducing COVID-19 cases and increasing vaccinations -- while not including other key issues like re-opening schools where the administration has struggled."
+    publishedDateTime: 2021-05-28T12:53:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/egk1l8FeAQw/biden-white-house-progress-report-school-re-openings-omitted"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-progress-report-school-re-openings-omitted.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-progress-report-school-re-openings-omitted.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1942ec4c-ff0a-4f44-9440-03dd24b379da/6f59b55e-754e-4135-b63c-23c6a220d574/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Blackburn presses Biden on WHO probe into COVID origins, amid renewed scrutiny of Wuhan lab"
-    excerpt: "EXCLUSIVE: Sen. Marsha Blackburn, R-Tenn., has written to President Biden to press him about ongoing concerns with the World Health Organization's investigation into the origins of the COVID-19 outbreak -- amid renewed scrutiny of the Wuhan Institute of Virology, where some believe the pandemic may have"
-    publishedDateTime: 2021-05-25T15:30:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UvCkruufTcU/blackburn-biden-who-probe-covid-origins-wuhan-lab"
+  - title: "Biden won't form his own commission to study Capitol riot, White House says"
+    excerpt: "The White House on Thursday shot down the idea of forming its own presidential commission to study the Jan. 6 attack on the Capitol, saying it is Congress’ “unique role” to carry out that investigation."
+    publishedDateTime: 2021-06-03T21:26:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 145
+    quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ae325c8-e306-4891-9ae9-6b0b9f33589c/6686ca74-f4f4-4130-8448-8cc5a22af4ee/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/AP21019774947253.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden speech commemorating Tulsa race massacre to detail efforts to combat racial inequality"
+    excerpt: "President Biden will detail his administration’s planned initiatives to combat racial injustice on Tuesday during a speech commemorating the 100th anniversary of the Tulsa race massacre."
+    publishedDateTime: 2021-06-01T09:22:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mQzJSBZ1ZeM/biden-speech-tulsa-race-massacre-efforts-combat-racial-inequality"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-speech-tulsa-race-massacre-efforts-combat-racial-inequality.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-tulsa-race-massacre-efforts-combat-racial-inequality.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77c9a4d0-e255-4343-a5bb-8859501c783f/65dd2b45-d44c-49ae-b161-e0abb868740a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "DHS, southern border states face economic hurdle as Biden admin stays mum on lifting travel restrictions"
+    excerpt: "President Biden has been silent on when he will reopen the border, which has been closed throughout the COVID-19 pandemic."
+    publishedDateTime: 2021-06-03T14:32:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/swa1FxEke2M/dhs-southern-states-economic-hurdle-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/dhs-southern-states-economic-hurdle-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-southern-states-economic-hurdle-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a33d03cb-36e4-4cf1-9c19-3d16fa58112e/69f13f15-89d2-4f52-a0aa-5492071399c7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Tara Reade fires back at NYC mayoral candidate Scott Stringer after he invoked Biden accuser during debate"
+    excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at NYC mayoral candidate Scott Stringer, who invoked her while addressing the allegation faced against him during Wednesday night's Democratic primary debate."
+    publishedDateTime: 2021-06-03T03:44:00Z
+    webUrl: "https://www.foxnews.com/media/tara-reade-scott-stringer-nyc-mayoral-debate"
+    ampWebUrl: "https://www.foxnews.com/media/tara-reade-scott-stringer-nyc-mayoral-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-scott-stringer-nyc-mayoral-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a63f1b3-ca1e-44ae-a0ae-20e17844ebfc/b5b2ab5b-13eb-451d-9538-c399a22c2266/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Barack Obama Interview: Joe Biden Is 'Finishing the Job'"
+    excerpt: "Barack Obama tells Ezra Klein how American went from \"Yes We Can\" to \"MAGA.\" The former president also discuss Joe Biden, aliens, and three of his favorite books."
+    publishedDateTime: 2021-06-02T16:32:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/544771.jpg"
+        width: 3851
+        height: 2562
         isCached: true
 
 secured: "8bvATgOqV2XJTT3ZRcWnzU+AD2icRxa9N8g/DpKBGPMTArTd2ea2OhHdEoiQYvdMmT0hSaLQq9ANmace6hhPAe1Uy8GIADKFY7LEBSr9ExVij149fSYU7ij4rl9wmQiHDcpqglLbcG/jUIF/NaJePcQMWLU8WQzkBvlriTpjqynAPdpHpW6D9cHYUSI/GJGZG5EBsxLeMqd0cv7YuCr8Z1AZs7eZB10IgIknrXPQrSqk7BsrrUAqvjvicxS9I7IrQLHZUpn2+um34JJkppuA0pg/KMaJhvaQ8KjM5YUeTpTh9iBFgz5gL/e2PAbo2bnwrcVQ2UhQjpGJNztD/cOAH+iowmgYww5A1P2HnRzCCbw=;Rj0ZPNCtOvRdizYc4RMlBQ=="

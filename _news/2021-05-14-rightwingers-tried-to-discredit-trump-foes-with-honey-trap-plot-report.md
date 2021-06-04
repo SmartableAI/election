@@ -47,38 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "CNN: Trump Justice Department seized reporter phone records"
-    excerpt: "CNN says the Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent"
-    publishedDateTime: 2021-05-20T23:19:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_47b26d87f8f14e2b8e0e6fd8609a3d1c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "CNN says Trump Justice Department secretly obtained reporter’s phone records"
-    excerpt: "The revelation comes two weeks after The Washington Post disclosed that the Justice Department had last year seized phone records belonging to three current and former journalists."
-    publishedDateTime: 2021-05-21T02:06:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 122
-    images:
-      - url: "https://www.chicagotribune.com/resizer/sB5cQgbvIQZhpKMxyt-M95yTIwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NRXIDCVBOSJ4I3MD7H43RSYGNU.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Washington Post says Trump Justice Department secretly seized reporters’ phone records"
     excerpt: "The Trump Justice Department secretly seized the phone records of three Washington Post reporters who covered the federal investigation into ties between Russia and Donald Trump’s 2016 presidential campaign,"
     publishedDateTime: 2021-05-08T00:29:00Z

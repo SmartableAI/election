@@ -45,38 +45,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "DHS, southern border states face economic hurdle as Biden admin stays mum on lifting travel restrictions"
-    excerpt: "President Biden has been silent on when he will reopen the border, which has been closed throughout the COVID-19 pandemic."
-    publishedDateTime: 2021-06-03T14:32:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/swa1FxEke2M/dhs-southern-states-economic-hurdle-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/dhs-southern-states-economic-hurdle-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-southern-states-economic-hurdle-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a33d03cb-36e4-4cf1-9c19-3d16fa58112e/69f13f15-89d2-4f52-a0aa-5492071399c7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Tara Reade fires back at NYC mayoral candidate Scott Stringer after he invoked Biden accuser during debate"
-    excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at NYC mayoral candidate Scott Stringer, who invoked her while addressing the allegation faced against him during Wednesday night's Democratic primary debate."
-    publishedDateTime: 2021-06-03T03:44:00Z
-    webUrl: "https://www.foxnews.com/media/tara-reade-scott-stringer-nyc-mayoral-debate"
-    ampWebUrl: "https://www.foxnews.com/media/tara-reade-scott-stringer-nyc-mayoral-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-scott-stringer-nyc-mayoral-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a63f1b3-ca1e-44ae-a0ae-20e17844ebfc/b5b2ab5b-13eb-451d-9538-c399a22c2266/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "dbDrHbDE5t5Tw9Zycvc/xoT0IGzAhCgs6SKQ3AWVXv2PEms5iUPpbX1gV1Rt+GAkQ44o/iJxvjd7QoaqUv2ehXEvL3p3zNRhoQpr3NTK+C3HJdBIOTtDhwoXv/WubeSNy6w0uNhHl40QKc1X982rLu0SKBIO7fAmibhC2zwkP5mcxCCCKTrv5Ui2AlqgGfVvwK5F1g2ER0W7AiPc1J93rG+kNMvv7o6yM/sZxfrXpG2xRhjsaj7JiSiRyQUVSdHI2c7MPjjbMkgUfdO19YrNOpg9Kmj2dtD6pLGuPE60H68AA0OeARbWNj505TkN1o0Thj7Soy5xPwKoFdLQdt4e49QAaOmeuQFYXtmqtNWQUNQ=;t71C4UwFUMXAuyR4vHHzGg=="
 ---

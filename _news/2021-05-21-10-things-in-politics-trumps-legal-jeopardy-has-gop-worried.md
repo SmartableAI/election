@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-investig
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Former Trump Ambassador Sues Pompeo, U.S. Government for Legal Fees"
+    excerpt: "Gordon Sondland, the former U.S. ambassador who testified against President Donald Trump during his first impeachment, sued former Secretary of State Mike Pompeo and the U.S. government for $1.8 million in legal fees on Monday."
+    publishedDateTime: 2021-05-24T14:47:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-24/former-trump-ambassador-sues-pompeo-us-government-for-legal-fees"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "xlq5azDk/yA8B6rxd2PiZgqHpFoLq+gfzMbqPwBBWogEOnQcHz8wT7qyxTTpilVl9fUu9U/7HlDx9mlkvtvd8moTXZ9bdy/OgA66kpnaOxmR6q7eylA1+u1HQgp5mortM/6bfauXHzuubIOa/d+O+1/e2UwqT/fxKTqoyEQtUYQBawi39DFhpeiJ8c3amudLYbowjy/e9U1dW2/8cPshPitDWxOnZj8ukCqZpni1tzYvM9rGAmbMv4aWscu6fkZ3m7ihidrGNYO/9qR6M+8xaM9t5I1UN8jjh+tSZ1pPuAmmnIRl2bqnod3cAO+aqrz3sxSQh/DZ12XvujILdUc4iyQVZYtnKqaD/ZpUzvcr9Ev+FiEdRBqlGeSG/LgSjU8kkR7DHxDSd8+/gN0qeU16Rp+XILfs7VkBDeRxHvQ1RCLlwm1l23g5fQ+UZb7M4iKSZi+jWF9KSCxF8VVI+1koznaR2HhfBRfJSBBKCfidpwnZp4yRRzgnkNJxVyJQeEHl3SmipiaHGN8pX1QDCh+g4A==;t9icJrBZS4VQKWLy9Blm0w=="
 ---

@@ -109,10 +109,10 @@ related:
         isCached: true
   - title: "Biden's pledge on media freedom may be easier said than done"
     excerpt: "President Joe Biden’s stated commitment to abandoning the practice of spying on reporters has won support from press freedom groups"
-    publishedDateTime: 2021-06-04T02:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
+    publishedDateTime: 2021-06-04T03:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/04/86799f82-c4ea-11eb-89a4-b7ae22aa193e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/04/86799f82-c4ea-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/04/86799f82-c4ea-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

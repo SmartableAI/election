@@ -2,11 +2,11 @@
 category: news
 title: "Biden's pledge on media freedom may be easier said than done"
 excerpt: "President Joe Biden’s stated commitment to abandoning the practice of spying on reporters has won support from press freedom groups"
-publishedDateTime: 2021-06-04T02:44:00Z
-originalUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html"
-webUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
+publishedDateTime: 2021-06-04T03:08:00Z
+originalUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/04/86799f82-c4ea-11eb-89a4-b7ae22aa193e_story.html"
+webUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/04/86799f82-c4ea-11eb-89a4-b7ae22aa193e_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/04/86799f82-c4ea-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/04/86799f82-c4ea-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
@@ -273,6 +273,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "OFH9EuSOQq+60p/rMlpx89lt92rd0xVwoke/+FN6bV4XzZgrWGbeKEXtlEB/PgCTkh/fttI3eiy2axpRb7b1DLwmbnO8XNkig90kNeJk7lQEfHEkMq8DRmOEvlzSaxAst5bzN9JZ84BZOicyx8gQxP+8F0F+hz3qA/ERn+nKTTSNILQeXWQs+pjZs3WraXClJAxHqmJwRw27FLN2ru7ljEfNkm1C5OhBJ1dop1q2wx2I5YYSrwbphZEaJl/x7T1HVh0U/oI0UWbxIxNyszMve60hIlG8VMvqOI3T+QOFd+O1+Po5EdkHxbwDnSdKvlyo2nq1T1SkT1BhQ9Kg4B6TeSMpu9OruBM3DuWNKDl0H35IFrGYxHZ6+15wRty0qALLRXU26z6wYHe1+2NV24Cj7zRlMkJ91XAon2zH5BpxGJw1fL5y4ANTzwuTZJY+CJ4YJ9q6D69jQhrxChQJ7ok7+N4aGfM+a859T51HxERr0lpmi9o52n0nTGZMm/j00I/hIah4JhYZH2tgDLJtVC+1xw==;k+tV4Gwbfr7+vTLGRTzjBw=="
+secured: "mctTbWbky0f/NOa6Lpb9ufuVvAVJU7BUhRL+JgVNHB2AQzXcRjhz2WoNNkHiKGus3+EWDqpJ0XRDEftcMGCUOxb8JdHpNECpFPOxupK2L2fiZC8jvXV72D/zlrCVoYbJ+byZ/X27S3Lkc07JKRfjHopxLYhZAat21v4fDi5M/ShL8IXOvyLuFJAzbxLpTyqMOHDG/FS2X8ER0+QPmV1eC2H9kOb3LWaHUkCVnqXXslLUdbJfvt6nS5qwu14x+N8FnYvA4qsnArQdvmijM/rWV9YO71zJcAp2KJI0ea+OvC75vtj4FvDRcUD1HS46oPaAT5OEwo4QFkCB+U3ojNAzr3XN0Fa/l2jQOcCYhvinBYk=;t+YnZPVjj9Ptbufe8XcgPA=="
 ---
 

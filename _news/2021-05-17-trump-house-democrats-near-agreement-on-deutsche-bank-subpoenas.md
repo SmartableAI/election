@@ -41,6 +41,22 @@ related:
         width: 828
         height: 545
         isCached: true
+  - title: "Obama suggested Trump rename the Iran Nuclear Deal the 'Trump Anti-Nuclear Deal' when they met at the White House, according to new book"
+    excerpt: "Obama's strategy at the 2016 Oval Office meeting was to \"start by buttering up Trump,\" according to a copy of a forthcoming book obtained by Insider."
+    publishedDateTime: 2021-05-24T20:44:00Z
+    webUrl: "https://www.businessinsider.com/obama-trump-iran-nuclear-deal-white-house-meeting-dovere-book-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/obama-trump-iran-nuclear-deal-white-house-meeting-dovere-book-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-trump-iran-nuclear-deal-white-house-meeting-dovere-book-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/60abe9385e3457001926532b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "ejcCBpCevWytUP6IBk8Fu4IvxSjBFG7wGtYV1ayG/iymcGsQD3KojvElvPMgk/JJjSgHjNT6yLXJP04ZIA0/t7iJZxATFSO65AeoWl6iTkjSPQHfBzrnbwrjVGYGbD554lwpwF6jMYTR7FiorUXe7EziRWMt7ok+iwT+xXbZAMrrCmoSz463ptesW3AgN0XiucPTAcbnVTg7hrSxDzzBXShLiRQmST1t7x5OELQjwIQWhXWw2ITvfCASiFRJTGW6/Ald8Y8bKb82iJYaBUrQvm4AvzOrNsTZkFd2PYGpUrr20cQjx2xRGtN4CxhToRnUMClwnF4QhdL+1J5S6Zl3VlVtzNO9qxx+NvAqeZMgl79DLN8uBuCR1W5aqJ8cWDjwB8LZE3puboqcwb4or2qWyN2CtzTAhjMWjseRyt2+lpqI+gRcTNd8vWIx0qkEYqRA6Zru/D/nnvHLJTKYI0KEkRfy1/nefv8x6RUKaq21MfWREAY/q68dC9nuvgPQCVG9p2Pk1Huxg4uU0OuuI6hJUg==;qRvgwX6HOwLeZxZ1rbLJYw=="
 ---
