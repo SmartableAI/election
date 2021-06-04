@@ -110,22 +110,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "SE Cupp: Trump is preying on his own fans"
-    excerpt: "CNN's SE Cupp reacts to New York Times reporting that former President Trump is telling those around him that he expects to be reinstated to the presidency by August.\n    \n"
-    publishedDateTime: 2021-06-02T11:43:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TehDUz9Yi2E/trump-reinstatement-claims-nyt-cupp-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/06/02/trump-reinstatement-claims-nyt-cupp-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/02/trump-reinstatement-claims-nyt-cupp-newday-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602070317-se-cupp-newday-6-2-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump shuts down his blog after less than a month"
     excerpt: "The blog page that former President Donald Trump launched less than one month ago, after his team suggested he'd be launching a major new social platform, has been permanently shuttered.\n    \n"
     publishedDateTime: 2021-06-02T15:39:10Z

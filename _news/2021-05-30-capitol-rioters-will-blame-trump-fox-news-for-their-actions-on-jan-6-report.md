@@ -31,519 +31,316 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. judge says Trump's election falsehoods still pose security risk"
-    excerpt: "A U.S. judge said there is a risk that Donald Trump's supporters could still carry out attacks similar to the deadly Jan. 6 assault on the U.S. Capitol, noting the former president's \"near-daily fulminations\" about his election loss have not subsided."
-    publishedDateTime: 2021-05-27T16:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-capitol-arrests-idUSKCN2D81NZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ"
+  - title: "Two Capitol Police officers sue Trump over Jan. 6 riots"
+    excerpt: "WASHINGTON (Reuters) - Two U.S. Capitol Police officers have filed a lawsuit against former President Donald Trump, saying he incited the deadly Jan. 6 insurrection and was responsible for physical and emotional injuries they suffered as a result."
+    publishedDateTime: 2021-03-31T12:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-capitol-riots-lawsuit/two-capitol-police-officers-sue-trump-over-jan-6-riots-idUSKBN2BN1RC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1RC"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 140
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563618128&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0UP"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556880478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0VN"
         width: 817
         height: 545
         isCached: true
-  - title: "Special House election measures political pulse after Trump"
-    excerpt: "A special congressional election is testing the pulse of politics in the Albuquerque metro area and a few outlying rural communities at a turning point in the pandemic and economic recovery"
-    publishedDateTime: 2021-05-30T01:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d7b66e9711b6412c9509dfe7f40b3feb_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump supporter's nonprofit will help decide who counts ballots as election audit resumes"
-    excerpt: "The audit effort is now seeking unpaid volunteers to do the counting. Ballot counters were offered $15 an hour when the audit started in April."
-    publishedDateTime: 2021-05-23T22:53:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/arizona-investigations/2021/05/22/arizona-audit-trump-supporter-patrick-byrnes-nonprofit-help-choose-counters/5223698001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5223698001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5223698001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/05/PPHX/3ef549ef-78ad-4dc0-b48e-ba48ba18b6e4-cent02-7fnkwj4c1wm14vc3rhle_original.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump lashes out against possible U.S. Senate candidate Mark Brnovich over election audit"
-    excerpt: "Trump’s disapproval of Brnovich, Arizona's attorney general, could be significant because of Trump's continued support among many Republicans."
-    publishedDateTime: 2021-05-25T14:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/05/24/trump-criticizes-mark-brnovich-election-audit/7416438002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7416438002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7416438002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2018/12/13/PPHX/5db3c5fd-6011-495e-84ad-54169aab376c-Day_5_Promo_2.jpg?auto=webp&crop=3199,1799,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Right seizes Trump playbook to blame migrants for environmental harm"
-    excerpt: "Arizona’s attorney general has filed a lawsuit framing the climate crisis as a nativist issue as the evident impacts of global heating make denial less viable"
-    publishedDateTime: 2021-05-20T12:19:00Z
-    webUrl: "https://www.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/b289fcf53999c0954984c5be84fc6913d2c7a48b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=554f7d094846e7ccadf088f01921c64e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "CNN: Trump Justice Department seized reporter phone records"
-    excerpt: "CNN says the Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent"
-    publishedDateTime: 2021-05-20T23:19:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_47b26d87f8f14e2b8e0e6fd8609a3d1c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump criminal investigation looms over Manhattan DA race"
-    excerpt: "New York City voters will be casting their last ballots next month in an election that’s sure to have consequences for former President Donald Trump"
-    publishedDateTime: 2021-05-23T23:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-criminal-investigation-looms-manhattan-da-race-77856988"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d5a875991d4d42748fb944de85404194_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "New grand jury seated to probe Trump business dealings, reports say"
-    excerpt: "The panel is expected to decide whether to indict Trump, other executives at his company or the company itself, The Washington Post says."
-    publishedDateTime: 2021-05-26T13:48:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-grand-jury-new-york/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-grand-jury-new-york/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-grand-jury-new-york/"
+  - title: "Why tech experts are skeptical about plans for a Trump social network"
+    excerpt: "After being banned by most large social networks in January, former President Donald Trump is planning a dramatic return to social media. According to his close advisers, the former president is on the verge of launching a Trump-branded social network to ..."
+    publishedDateTime: 2021-04-01T13:12:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-social-network-tech-experts/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-social-network-tech-experts/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-social-network-tech-experts/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/25/6d4f4817-2ff8-4f41-83d8-6c877a8ad6e6/thumbnail/1200x630/b9606be5f084f0bb07e863d766b8619d/gettyimages-1318749430.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/d554aec0-4142-4565-a805-539b25336856/thumbnail/1200x630/35224ea24c8814699aa27412a09cf737/gettyimages-1230468115.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "School apologizes for saying Trump wasn't impeached"
-    excerpt: "We can and will do better to provide a quality yearbook to students that can be a cherished item as they reminisce about their time at [the] school,” the principal said."
-    publishedDateTime: 2021-05-26T16:16:00Z
-    webUrl: "https://thehill.com/changing-america/enrichment/education/555521-school-apologizes-for-saying-trump-wasnt-impeached"
-    ampWebUrl: "https://thehill.com/changing-america/enrichment/education/555521-school-apologizes-for-saying-trump-wasnt-impeached?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/555521-school-apologizes-for-saying-trump-wasnt-impeached?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/istock-176779068.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "What Donald Trump Criminal Probe Grand Jury Means for Former President"
-    excerpt: "The move signals that New York prosecutors are moving to seek criminal charges as a result of a two-year investigation into Trump."
-    publishedDateTime: 2021-05-26T16:52:00Z
-    webUrl: "https://www.newsweek.com/what-donald-trump-criminal-probe-grand-jury-means-1595082"
-    ampWebUrl: "https://www.newsweek.com/what-donald-trump-criminal-probe-grand-jury-means-1595082?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-donald-trump-criminal-probe-grand-jury-means-1595082?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1807576/donald-trump-steps-out-trump-tower.jpg"
-        width: 2500
-        height: 1728
-        isCached: true
-  - title: "What we know about grand jury in Trump probe"
-    excerpt: "The news that Manhattan’s district attorney has convened a special grand jury as part of his criminal probe of Donald Trump’s business dealings has fueled speculation over whether Trump could become the first U."
-    publishedDateTime: 2021-05-26T18:51:00Z
-    webUrl: "https://thehill.com/regulation/court-battles/555573-what-we-know-about-grand-jury-in-trump-probe"
-    ampWebUrl: "https://thehill.com/regulation/court-battles/555573-what-we-know-about-grand-jury-in-trump-probe?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/555573-what-we-know-about-grand-jury-in-trump-probe?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_112720getty_lead.jpg"
-        width: 1340
-        height: 800
-        isCached: true
-  - title: "GOP blocks Capitol riot probe, displaying loyalty to Trump"
-    excerpt: "Senate Republicans blocked creation of a bipartisan panel to investigate the deadly Jan. 6 attack on the Capitol, displaying continuing party loyalty to former President Donald Trump and firm determination to shift the political focus away from the violent insurrection by his GOP supporters."
-    publishedDateTime: 2021-05-29T04:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d1c34c2343b643788b26d972aca84131_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "URI weighs revoking honorary degree from ex-Trump adviser"
-    excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alum who briefly served as President Donald Trump’s national security"
-    publishedDateTime: 2021-06-01T21:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/uri-weighs-revoking-honorary-degree-trump-adviser-78026183"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "National Enquirer owner fined for illegal Trump campaign aid"
-    excerpt: "A federal election watchdog fined the publisher of the National Enquirer $187,500 for a payment it made to keep under wraps a story about former President Donald Trump’s alleged affair with a former P"
-    publishedDateTime: 2021-06-02T19:37:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/national-enquirer-owner-fined-illegal-trump-campaign-aid-78046983"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/national-enquirer-owner-fined-illegal-trump-campaign-aid-78046983"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/national-enquirer-owner-fined-illegal-trump-campaign-aid-78046983"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d4b0e2d85c864d3abe3703cf1aa81846_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "National Enquirer publisher fined over payment for Trump story"
-    excerpt: "Federal watchdog fines magazine’s owner $187,500 over story of former Playboy model who claimed she had affair with Trump"
-    publishedDateTime: 2021-06-02T22:06:00Z
-    webUrl: "https://www.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election"
-    ampWebUrl: "https://amp.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jun/02/national-enquirer-publisher-fined-trump-campaign-election"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/bb7c56c29f7a2157ea36cd68a84620b4166456e0/0_0_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6af9d849da3cbce677a175c7f3e7aa67"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump ends blog after 29 days, infuriated by measly readership"
-    excerpt: "Infuriated by reports highlighting its measly viewership, Trump ordered his team Tuesday to put the blog out of its misery."
-    publishedDateTime: 2021-06-02T22:11:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/06/02/trump-blog-dead/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/02/trump-blog-dead/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/02/trump-blog-dead/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HUHUNESTOII6XKJRLMLC2DIDHU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump shuts down blog he started less than a month ago – US politics live"
-    excerpt: "Adviser Jason Miller says ‘From the Desk of Donald J Trump’ has been deleted and will not return – follow all the day’s politics news"
-    publishedDateTime: 2021-06-02T14:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/c43de41b362ebf37ff372fd91b3d28972316ff7f/0_92_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe10d6968746da7a7fa6d46f9436c927"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Justice Department appeals judge’s order to release Trump obstruction memo"
-    excerpt: "The Biden administration will appeal a judge’s order to release a memo on whether former President Trump obstructed justice during the Russia probe."
-    publishedDateTime: 2021-05-25T08:06:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-05-25/justice-appeals-order-trump-russia-obstruction-memo"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-05-25/justice-appeals-order-trump-russia-obstruction-memo?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-05-25/justice-appeals-order-trump-russia-obstruction-memo?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 123
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/bc8d845/2147483647/strip/true/crop/4500x2939+0+30/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F00%2F76%2Ff495fabdcc1b964d932368d5e6da%2F01e1c590733b491a823c07e95769dd3d"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "CNN says Trump Justice Department secretly obtained reporter’s phone records"
-    excerpt: "The revelation comes two weeks after The Washington Post disclosed that the Justice Department had last year seized phone records belonging to three current and former journalists."
-    publishedDateTime: 2021-05-21T02:06:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 122
-    images:
-      - url: "https://www.chicagotribune.com/resizer/sB5cQgbvIQZhpKMxyt-M95yTIwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NRXIDCVBOSJ4I3MD7H43RSYGNU.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
-    excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
-    publishedDateTime: 2021-05-23T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/republicans-struggle-to-define-a-new-governing-coalition-as-trump-closes-grip-on-party/2021/05/23/07bce926-b98a-11eb-96b9-e949d5397de9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZDIOTSTYMUI6XFEJR562ZVI6OU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "McCarthy says he would testify about conversation with Trump during Jan. 6 Capitol assault"
-    excerpt: "House Minority Leader Kevin McCarthy took a swipe at the \"Pelosi commission\" to investigate the Jan. 6 Capitol attack as one plagued with politics."
-    publishedDateTime: 2021-05-20T18:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 115
-    images:
-      - url: "https://s.abcnews.com/images/Politics/kevin-mccarthy-presser-02-rt-jef-210520_1621534095132_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "New York prosecutors convene grand jury to consider evidence in Trump criminal investigation, AP source says"
-    excerpt: "The development signals that the Manhattan district attorney’s office was moving toward seeking charges as a result of its two-year investigation."
-    publishedDateTime: 2021-05-25T23:15:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-grand-jury-20210525-hiolilhyxvendkhgvde5xgv7ey-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-grand-jury-20210525-hiolilhyxvendkhgvde5xgv7ey-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-grand-jury-20210525-hiolilhyxvendkhgvde5xgv7ey-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 106
-    images:
-      - url: "https://www.chicagotribune.com/resizer/iJZKeYPw-ydSfmuaLrF4ibpV8c4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NATLNQKHQI2SY3VDFU3DL3TF7M.aspx"
-        width: 1200
-        height: 811
-        isCached: true
-  - title: "Trump Org. subject of criminal probe in New York"
-    excerpt: "New York's attorney general said Friday that she's assigned two lawyers to work with the Manhattan district's attorney's office on a criminal investigation into former President Donald Trump's business dealings."
-    publishedDateTime: 2021-05-21T19:38:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/21/trump-org-subject-criminal-probe-new-york/5208067001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6026d8e2-3c12-42da-9ba8-67dd8fd97232_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Grand jury convened in Trump investigation in..."
-    excerpt: "Watch \"A grand jury has been convened to weigh whether Pres. Trump should face charges in connection with an ongoing investigation by the Manhattan's Distric\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
-    publishedDateTime: 2021-05-27T04:15:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210527041537-a-grand-jury-has-been-convened-to-weigh-whether-pres-trump-should-face-charges-in-connection-with-an-ongoing-investigation-by-the-manha/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/05/27/story_10552831_1622089144.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Can the US avoid another Trump?"
-    excerpt: "Former Obama adviser Ben Rhodes has travelled the world looking for clues to how the US came to elect Donald Trump and he found parallels everywhere. But is there a way of stopping it from happening again?"
-    publishedDateTime: 2021-05-31T01:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2021/may/31/can-the-us-avoid-another-trump-podcast"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/76a40b73d7ef25925928c7740d3f555ccdd2b0fa/0_133_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ab622bdaac0dc5d28e44d8d984d982b"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fact Check-Trump is not back on Twitter, screenshot taken from Gab"
-    excerpt: "Users excited about Donald Trump being “back” on Twitter will be disappointed to know the former president’s @RealDonaldTrump account has, in reality, yet to return to the mainstream social media platform."
-    publishedDateTime: 2021-06-01T17:46:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-trump-twitter-idUSL2N2NJ2CM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NJ2CM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NJ2CM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Ex-Treasury employee gets prison for leaks on Trump campaign officials"
-    excerpt: "A former senior U.S. Treasury Department employee who pleaded guilty to conspiring to give a reporter sensitive information about Donald Trump's onetime campaign chairman Paul Manafort and others was sentenced on Thursday to six months in prison."
-    publishedDateTime: 2021-06-03T20:28:00Z
-    webUrl: "https://www.reuters.com/business/finance/ex-treasury-employee-gets-prison-leaks-trump-campaign-officials-2021-06-03/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/R1PCuJDrAz3oq6tcEe0dzDCR7FY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NTOCMAZONVPYRDQFB3KRMWDLSQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "What happens next as grand jury considers case on Trump business dealings"
-    excerpt: "Former President Donald Trump is responding to the seating of a grand jury in the investigation into his business dealings, calling it \"purely political.\" CBS News legal contributor Rebecca Roiphe joined CBSN's Tanya Rivero to explain the process and what could happen next in this investigation."
-    publishedDateTime: 2021-05-26T19:45:00Z
-    webUrl: "https://www.cbsnews.com/video/grand-jury-investigation-trump-business-dealings/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 104
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/26/70b014e9-1b89-4a97-a371-0041d7796fd0/thumbnail/1200x630/386ed7b35b0d01943469dcd0d9809ba6/cbsn-fusion-what-happens-next-as-grand-jury-considers-case-on-trump-business-dealings-thumbnail-723724-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump administration secretly seized phone and email records of reporters"
-    excerpt: "The DOJ, under Donald Trump, took clandestine actions to gather info on reporters from three agencies; something President Biden vows not to do."
-    publishedDateTime: 2021-06-03T13:06:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2021/06/03/trump-administration-secretly-seized-phone-and-email-records-reporters/7521212002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9dee527e-a9e6-4255-93b5-7df576dec2e7_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
-    excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
-    publishedDateTime: 2021-05-20T19:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+  - title: "10 Things in Politics: Trump sees legal danger ahead"
+    excerpt: "THEY MAY STILL SEE HIM IN COURT: Former President Donald Trump doesn't think he's out of the woods yet. His advisors tell him that's he's unlikely to face legal repercussions over the deadly Capitol Riot, but they are increasingly worried about prosecutors ..."
+    publishedDateTime: 2021-04-02T11:14:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 102
+    quality: 125
     images:
-      - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
-        width: 700
-        height: 525
+      - url: "https://i.insider.com/604a96919942cf001865dec9?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
         isCached: true
-  - title: "New York Prosecutor Convenes Grand Jury in Criminal Investigation of Donald Trump"
-    excerpt: "Manhattan District Attorney Cyrus Vance Jr. is conducting a wide-ranging investigation into Donald Trump's business dealings."
-    publishedDateTime: 2021-05-26T02:30:00Z
-    webUrl: "https://time.com/6051259/donald-trump-criminal-grand-jury-new-york/"
+  - title: "Italian restaurant owner mistakenly sanctioned by Trump"
+    excerpt: "Verona restaurant and pizzeria owner Alessandro Bazzoni sanctioned in crackdown on blacklisted Venezuelan crude oil"
+    publishedDateTime: 2021-04-02T15:29:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 100
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://api.time.com/wp-content/uploads/2021/05/Trump-grand-jury.jpg"
-        width: 1024
-        height: 711
+      - url: "https://i.guim.co.uk/img/media/56faf8fd3e0c9237d3b553828e9f294cf21c37e3/0_263_7936_4765/master/7936.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=18b9d2746f6fc35fe6c131cbebd7e80a"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Trump's Ex-Advisor Says COVID-19 Pandemic Was Fabricated To Control 2020 Elections"
-    excerpt: "Donald Trump’s former National Security Advisor Michael Flynn has alleged that the COVID-19 pandemic was fabricated to control the 2020 U.S. election. Flynn, a retired general who is one of the most well-known figures in the QAnon conspiracy theory,"
-    publishedDateTime: 2021-05-24T02:26:00Z
-    webUrl: "https://www.ibtimes.com/trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-control-2020-elections-3206534"
-    ampWebUrl: "https://www.ibtimes.com/trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-control-2020-elections-3206534?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-ex-advisor-says-covid-19-pandemic-was-fabricated-control-2020-elections-3206534?amp=1"
+  - title: "Italian restaurant wrongly targeted by Trump sanctions"
+    excerpt: "One of Donald Trump's last sanctions before he left office was mistakenly on a restaurant owner in Verona, Italy. The error happened as part of the Trump administration's crackdown on blacklisted Venezuelan crude oil."
+    publishedDateTime: 2021-04-02T02:12:00Z
+    webUrl: "https://www.bbc.com/news/business-56611977"
+    ampWebUrl: "https://www.bbc.com/news/amp/business-56611977"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-56611977"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/97EB/production/_117819883_gettyimages-184373545.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Ivanka Trump's women's empowerment program slammed in government report"
+    excerpt: "Former President Donald Trump's eldest daughter and adviser, Ivanka Trump, helped promote the policy program and ushered the bill through Congress. The US Agency for International Development oversaw the implementation of the initiative and was mandated to ..."
+    publishedDateTime: 2021-04-02T01:36:00Z
+    webUrl: "https://www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/606648fe52f11d0019431b6b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump looms large in race for South Carolina GOP chairman"
+    excerpt: "COLUMBIA, S.C. — In South Carolina — where Donald Trump’s 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state’s Republican Party is ..."
+    publishedDateTime: 2021-04-01T19:01:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "‘Apprentice’ contestant’s lawsuit against Trump can resume, N.Y. court says"
+    excerpt: "NEW YORK — The New York State Court of Appeals on Tuesday ruled that a defamation case against former president Donald Trump, brought by an \"Apprentice\" contestant who alleged he sexually assaulted her years ago, can go forward as the immunity claim he ..."
+    publishedDateTime: 2021-03-30T20:17:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/summer-zervos-trump-lawsuit/2021/03/30/a0c55060-918d-11eb-a74e-1f4cf89fd948_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/summer-zervos-trump-lawsuit/2021/03/30/a0c55060-918d-11eb-a74e-1f4cf89fd948_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/summer-zervos-trump-lawsuit/2021/03/30/a0c55060-918d-11eb-a74e-1f4cf89fd948_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WZNE3XERSEI6XJ2OD5GPRH6ZJA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Headhunters having hard time finding jobs for former Trump officials: report"
+    excerpt: "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,"
+    publishedDateTime: 2021-04-07T18:56:00Z
+    webUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials"
+    ampWebUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/chaoelaine_091919gn6_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "John Boehner says Trump incited Capitol attack via 'bullshit he'd been shoveling since he lost a fair election'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former Republican House Speaker John Boehner in his new book blamed former President Donald Trump for the deadly Capitol insurrection on January 6, per an excerpt obtained by The New York Times, stating that ..."
+    publishedDateTime: 2021-04-07T14:18:00Z
+    webUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/606dbe1a30004b0019b26624?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "U.S. 'Open' to First Direct Talks With Iran Since Trump Left Nuclear Deal 3 Years Ago"
+    excerpt: "The United States has said it is open to holding its first official, direct talks with Iran since former President Donald Trump left a nuclear deal between the Islamic Republic and major world powers three years ago. Following virtual discussions on Friday ..."
+    publishedDateTime: 2021-04-02T15:25:00Z
+    webUrl: "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687"
+    ampWebUrl: "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1770282/us-iran-flags-united-nations.jpg"
+        width: 2500
+        height: 1779
+        isCached: true
+  - title: "2 Capitol Police officers sue Trump for physical and emotional injuries from Jan. 6 riot"
+    excerpt: "2 Capitol Police officers sue Trump for injuries sustained from riot Two Capitol Police officers filed a civil suit Tuesday against former President Donald Trump for physical and emotional ..."
+    publishedDateTime: 2021-03-31T17:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/International/trump-jan6-gty-rc-210305_1614953461904_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Ex-Trump Official Sery Kim Rejects Chinese Immigrants, Believes It's OK to Say as a Korean"
+    excerpt: "She also served served as assistant administrator for the Small Business Administration under former President Donald Trump. Kim also argued that the rise in violent attacks against Asian Americans have always existed but are only now being covered by the ..."
+    publishedDateTime: 2021-04-02T21:52:00Z
+    webUrl: "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802"
+    ampWebUrl: "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1771259/sery-kim.jpg"
+        width: 2048
+        height: 1704
+        isCached: true
+  - title: "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots"
+    excerpt: "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-03-31T04:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCXZPMJ4K5BDRADGFLBWQZZQNE.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Former JPMorgan executive quits board of company that collected data for Trump 2020 campaign"
+    excerpt: "Blythe Masters, a former top executive at JPMorgan Chase, is quitting the board of Phunware, a company that created a controversial voter data collection app for Donald Trump's 2020 re-election campaign."
+    publishedDateTime: 2021-04-01T21:42:00Z
+    webUrl: "https://www.cbsnews.com/news/jpmorgan-chase-blythe-masters-phunware-quit/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/jpmorgan-chase-blythe-masters-phunware-quit/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jpmorgan-chase-blythe-masters-phunware-quit/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/01/a95746b1-61b8-487b-b467-7cb8ae7444ca/thumbnail/1200x630/d299cf992ee40f5014c04fd6ddf08d9d/img-aic-2021-blythe-masters.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Corporate America isn’t welcoming former Trump Cabinet officials with open arms, headhunters say"
+    excerpt: "said top executives wary of backlash from associating with former Trump officials are boiling down Chao’s four-decade Washington résumé to its most recent entry: long-standing ally of Donald Trump, despite her resignation the day after the Jan. 6 ..."
+    publishedDateTime: 2021-04-07T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57NN3ZD46QI6XM6RTZNKHVJCBQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Matt Gaetz sought preemptive pardon from Trump before he left office, The New York Times reports"
+    excerpt: "Matt Gaetz, a Florida Republican under investigation for alleged human trafficking, sought \"blanket pardons\" for himself and his political allies before former President Donald Trump left office, The New York Times reported Tuesday. The Times, citing two ..."
+    publishedDateTime: 2021-04-07T00:18:00Z
+    webUrl: "https://www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/60677c27856cd700198a2fde?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Supreme Court dismissed as moot a First Amendment case over Trump blocking his critics on Twitter"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Supreme Court in a Monday morning ruling dismissed as moot a case over former President Donald Trump blocking Twitter users who criticized him. The Supreme Court vacated a ruling from the Court of Appeals for ..."
+    publishedDateTime: 2021-04-05T15:10:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fa4b12af7d1cb0019e3a22d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Donald Trump's Voice Banned From Facebook, Lara Trump's Video Removed"
+    excerpt: "Lara Trump’s Facebook video in which she interviews her father-in-law, former President Donald Trump, was removed after being informed that his voice is even banned from the platform. Donald Trump was banned from Facebook shortly after the Jan. 6 attacks ..."
+    publishedDateTime: 2021-03-31T19:25:00Z
+    webUrl: "https://www.ibtimes.com/donald-trumps-voice-banned-facebook-lara-trumps-video-removed-3172722"
+    ampWebUrl: "https://www.ibtimes.com/donald-trumps-voice-banned-facebook-lara-trumps-video-removed-3172722?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trumps-voice-banned-facebook-lara-trumps-video-removed-3172722?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 84
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/25/general-michael-flynn-pleaded-guilty-to-lying-to.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
         width: 1024
-        height: 602
+        height: 683
         isCached: true
-  - title: "Trump Hush Money Payments: National Enquirer Publisher Fined By Federal Election Commission"
-    excerpt: "The Federal Election Commission has fined the National Enquirer's parent company, American Media Inc., for its role in a hush-money payment during the 2016 campaign to former Playboy model Karen MacDougal for her alleged affair with former President Donald Trump,"
-    publishedDateTime: 2021-06-03T01:15:00Z
-    webUrl: "https://www.ibtimes.com/trump-hush-money-payments-national-enquirer-publisher-fined-federal-election-3215555"
-    ampWebUrl: "https://www.ibtimes.com/trump-hush-money-payments-national-enquirer-publisher-fined-federal-election-3215555?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-hush-money-payments-national-enquirer-publisher-fined-federal-election-3215555?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 80
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "With tall Trump tale, Macron plays to France's young voters"
-    excerpt: "Filmed in the French presidential palace with two of France's most popular YouTube stars, the half-hour of banter, tall tales, and a grungy rendition of “La Marseillaise\" by heavy-metal band “Ultra Vomit” represented Macron's most audacious effort yet to woo young voters."
-    publishedDateTime: 2021-05-23T21:13:00Z
-    webUrl: "https://www.chron.com/entertainment/article/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
-    ampWebUrl: "https://www.chron.com/entertainment/amp/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
+  - title: "Trump looms large in race for South Carolina GOP chairman"
+    excerpt: "COLUMBIA, S.C. (AP) — In South Carolina — where Donald Trump's 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state's Republican Party ..."
+    publishedDateTime: 2021-04-01T14:58:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -554,72 +351,22 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Trump Irate, Lashes Out After Grand Jury Seated For Trump Organization Probe"
-    excerpt: "Manhattan's top prosecutor recently convened a grand jury to decide whether indictments should be issued against Donald Trump over potential financial misconduct."
-    publishedDateTime: 2021-05-26T03:38:00Z
-    webUrl: "https://ibtimes.com/trump-irate-lashes-out-after-grand-jury-seated-trump-organization-probe-3208751"
-    ampWebUrl: "https://www.ibtimes.com/trump-irate-lashes-out-after-grand-jury-seated-trump-organization-probe-3208751?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-irate-lashes-out-after-grand-jury-seated-trump-organization-probe-3208751?amp=1"
+  - title: "U.S. Rep. Veronica Escobar joins lawsuit accusing Donald Trump of inciting Capitol riot"
+    excerpt: "by Bryan Mena April 7, 2021 6:33 PM Central U.S. Rep. Veronica Escobar, D-El Paso, speaks during a House Judiciary Committee markup of Articles of Impeachment against President Donald Trump in Washington, D.C. on Dec. 12, 2019. Credit: Matt McClain/Pool ..."
+    publishedDateTime: 2021-04-07T23:33:00Z
+    webUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/"
+    ampWebUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 67
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/11/former-president-donald-trump-is-not-running-for.jpg"
-        width: 1024
-        height: 682
+      - url: "https://thumbnails.texastribune.org/aqe7-Li9PzIZ9QIexP_8OQM_5Q8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/6f9c74896c525bff9a658560eee0db9c/Escobar%20Impeachment%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Following Donald Trump will lead to the demise of the Republican Party (Letters)"
-    excerpt: "What does the Republican Party stand for? Kevin McCarthy, House minority leader backs Donald J. Trump in his big lie about election fraud 100%. He even got rid of Liz Cheney from her leadership post because she could not abide by Trump’s falsehood."
-    publishedDateTime: 2021-05-26T17:11:00Z
-    webUrl: "https://www.masslive.com/opinion/2021/05/following-donald-trump-will-lead-to-the-demise-of-the-republican-party-letters.html"
-    ampWebUrl: "https://www.masslive.com/opinion/2021/05/following-donald-trump-will-lead-to-the-demise-of-the-republican-party-letters.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/opinion/2021/05/following-donald-trump-will-lead-to-the-demise-of-the-republican-party-letters.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 70
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/26TDCLVL75AD5BHOCGDJO4FNCM.jpg"
-        width: 6720
-        height: 4480
-        isCached: true
-  - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
-    excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."
-    publishedDateTime: 2021-06-03T09:43:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump Pulls Own Blog From Internet"
-    excerpt: "Donald Trump has canceled his own blog, an advisor announced Wednesday, highlighting the ex-president and election conspiracy theorist's struggle to escape the social media wilderness. The blog \"will not be returning,"
-    publishedDateTime: 2021-06-02T17:00:00Z
-    webUrl: "https://www.ibtimes.com/trump-pulls-own-blog-internet-3215387"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/02/the-former-presidents-blog-from-the-desk-of.jpg"
-        width: 1024
-        height: 696
-        isCached: true
-  - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
-    excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
-    publishedDateTime: 2021-05-22T11:00:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/22/donald-trump-criminal-investigation-makes-his-political-future-murky/5166416001/"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 26
 
 secured: "pfiuV61vXs0aqsYVQGlq28k8hJ320NxxXgvOOMsR4kccVocIuL/alXTMMcb7nIBZ4pVwsklfq7LFymyFt+YX+QUykxf5/YZIeY+02TbBsXFN5Eb3YAwTzn0JxKzEI0Cxmi+J4Ss6L/1OcML+2yx+LpaR9IrDO8BVFyVp45al4Uv2MVGfQxfyeaOyWBRW9PAbSjNZTGnIPEfyZwfb8G3RPBXZn7ZuurnCMd3KZcP9ci4+zzRr6koRTnRHYHU3fErNDBBITBOMX0ecU9mrRlGBAQPyn72DguwP3ua72jZjOcvEPULlSzsBbChMCMa5yWQOWR9vlrjdD2noA10Fx6NA7HzdEv13hDgtm4fES8B0QePBA7fsNvwaK6/1a25DiFAQyq48NvW1hvL7+RUJTsZkBeIutciRdz4Zi0u91DVFZdDcAAAtaFCbgsMoRopMkCxcWOEr4A8IA9fhgjxz4Xsf06Mv1ZhvCPmN/d4q9SaYQ/Q85z1qdasdyxJUHU4sHjDRy9gRMBBsDjk4eyfXdyKhpQ==;tiCgJpOQ3CKLyOPnEtmi5w=="
 ---

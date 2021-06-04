@@ -304,6 +304,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Is Joe Biden priming Kamala Harris for 2024 presidency? Ari Fleischer weighs in"
+    excerpt: "Fox News contributor Ari Fleischer disputes the assumption that the vice president is being prepared to replace the president in 2024 on 'The Story with Martha MacCallum.'"
+    publishedDateTime: 2021-06-04T01:13:00Z
+    webUrl: "https://www.foxnews.com/media/joe-biden-kamala-harris-2024-presidency-ari-fleischer"
+    ampWebUrl: "https://www.foxnews.com/media/joe-biden-kamala-harris-2024-presidency-ari-fleischer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-kamala-harris-2024-presidency-ari-fleischer.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80ffb81f-d144-4bf2-bf7c-39bb8192d701/0a4fd151-d00c-4b6f-a40d-193ef6e61b87/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Joe Biden, Crisis Diplomat"
     excerpt: "President Joe Biden made an unexpected appearance at the White House, in front of a press corps that had been hastily called back to work. Welcoming the apparent end of an eleven-day war between Israel and Hamas,"
     publishedDateTime: 2021-05-23T00:00:00Z

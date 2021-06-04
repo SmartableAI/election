@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
-excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), explains the 13-page fragment a Mishnah that he used when U.S. Vice President Kamala Harris swore him in in the Eisenhower Executive Office Building in Washington,"
+excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
 publishedDateTime: 2021-06-02T17:02:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/8d00561b50f96e1e10ca3ff6bc8fc7e7/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/8d00561b50f96e1e10ca3ff6bc8fc7e7/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/8d00561b50f96e1e10ca3ff6bc8fc7e7/HARRIS-LANDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/009facc2f199ecbb7b4c0affa25233fc/HARRIS-LANDER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -114,6 +114,6 @@ related:
         height: 324
         isCached: true
 
-secured: "EzgrxD0JS1wWXbk70Ig2NfIiBhnI2R0xRQ1MdB7rTrSFkRb40T5d52inEs9Xe/dyKtp9PmDTNMSlajnRmit2I1q8Z3Lesa26lyUqY3FhAZyU4r1BvEeeWOvobZIiSIlzbHBW8Hh4VFWCWZAvaqHj+hlGQfFKU/zdU2dDiFyBBW9ZLp4ojumNpQMi/jkR927k1OhyIX6JIZAEaSUjz74G+5hS/kR9m8bN1gYZsJ7XiogrgeaXLWDf9h1VGxd8RUxQnosrkcIECMymtSV2DOC8xLwR1npNE3cnuWtQI7SuZMUf4lulPPoXgJ0OZefm9U4C3Y6IayBVk1AST6ZR5GxyLseVSRxSmqN9EFZ3orMQJLM=;+Ewz408xBk6Z+1JpPthHlA=="
+secured: "oTtO2jXJgk014seQ9PgeQvPvIYQtQQiReSO2LCzjjFcW3E52uIKVn9gXtA5tQZnS+P46d88Sjo3igPPPl0SMN+ZdG92tZPh4CLZHJQy9P7V4rNJoLMQCozVPFzDzGsNp9UMjyp3DNFG/z9dP9s3gTu74dXXVLeeKPYNxAZjurFH25Bb1jpo0znAuYx6JZHNhYrDBZrFq5FbKe3a1HqGjJUzjki8eUSdZKEUoKQasmI2yf18wizqhW7AKdXXZx61iqyueyL07GNqawWaFCoqSlUuCFGvn44uISzIdUwI9mSKxRogR6L8BCJhoqBDYa1EIj8o+JPSLVnG5PW6q0lMv6zUtNUFiQxZfGAg0D/ZNNYU=;E6TsjeHeZjz6TI0BAI6xmQ=="
 ---
 

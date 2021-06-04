@@ -25,22 +25,6 @@ topics:
   - Donald Trump
 
 related:
-  - title: "U.S. judge says Trump's election falsehoods still pose security risk"
-    excerpt: "A U.S. judge said there is a risk that Donald Trump's supporters could still carry out attacks similar to the deadly Jan. 6 assault on the U.S. Capitol, noting the former president's \"near-daily fulminations\" about his election loss have not subsided."
-    publishedDateTime: 2021-05-27T16:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-capitol-arrests-idUSKCN2D81NZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563618128&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0UP"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Special House election measures political pulse after Trump"
     excerpt: "A special congressional election is testing the pulse of politics in the Albuquerque metro area and a few outlying rural communities at a turning point in the pandemic and economic recovery"
     publishedDateTime: 2021-05-30T01:03:00Z
@@ -88,38 +72,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2018/12/13/PPHX/5db3c5fd-6011-495e-84ad-54169aab376c-Day_5_Promo_2.jpg?auto=webp&crop=3199,1799,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Right seizes Trump playbook to blame migrants for environmental harm"
-    excerpt: "Arizona’s attorney general has filed a lawsuit framing the climate crisis as a nativist issue as the evident impacts of global heating make denial less viable"
-    publishedDateTime: 2021-05-20T12:19:00Z
-    webUrl: "https://www.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/b289fcf53999c0954984c5be84fc6913d2c7a48b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=554f7d094846e7ccadf088f01921c64e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "CNN: Trump Justice Department seized reporter phone records"
-    excerpt: "CNN says the Trump administration Justice Department secretly obtained the 2017 phone records of a CNN correspondent"
-    publishedDateTime: 2021-05-20T23:19:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/cnn-trump-justice-department-seized-reporter-phone-records-77815959"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_47b26d87f8f14e2b8e0e6fd8609a3d1c_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Trump criminal investigation looms over Manhattan DA race"
     excerpt: "New York City voters will be casting their last ballots next month in an election that’s sure to have consequences for former President Donald Trump"
@@ -201,21 +153,21 @@ related:
         width: 1340
         height: 800
         isCached: true
-  - title: "GOP blocks Capitol riot probe, displaying loyalty to Trump"
-    excerpt: "Senate Republicans blocked creation of a bipartisan panel to investigate the deadly Jan. 6 attack on the Capitol, displaying continuing party loyalty to former President Donald Trump and firm determination to shift the political focus away from the violent insurrection by his GOP supporters."
-    publishedDateTime: 2021-05-29T04:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-blocks-capitol-riot-probe-displaying-loyalty-trump-77975496"
+  - title: "Tennessee shelter for immigrant children opened under Trump"
+    excerpt: "Tennessee licensed a shelter for immigrant children a year before the state’s Republican governor and U.S. Senators began expressing outrage over unaccompanied minors sent to Chattanooga"
+    publishedDateTime: 2021-05-28T21:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d1c34c2343b643788b26d972aca84131_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "URI weighs revoking honorary degree from ex-Trump adviser"
     excerpt: "The University of Rhode Island is weighing whether to revoke an honorary degree bestowed years ago to Michael Flynn, a university alum who briefly served as President Donald Trump’s national security"
@@ -265,6 +217,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump DOJ seized phone records of New York Times reporters"
+    excerpt: "The New York Times reported on Wednesday that the Justice Department under former President Trump Donald Trump RNC warns it will advise presidential candidates against future debates if panel doesn't make changes Washington Post issues correction on 2020 report on Tom Cotton,"
+    publishedDateTime: 2021-06-03T01:38:00Z
+    webUrl: "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters"
+    ampWebUrl: "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_dojhatecrimechurchfire_041521getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Trump ends blog after 29 days, infuriated by measly readership"
     excerpt: "Infuriated by reports highlighting its measly viewership, Trump ordered his team Tuesday to put the blog out of its misery."
     publishedDateTime: 2021-06-02T22:11:00Z
@@ -280,6 +248,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HUHUNESTOII6XKJRLMLC2DIDHU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "New York district attorney convenes grand jury in Trump criminal inquiry"
+    excerpt: "Investigation includes matters such as hush-money payments to women on Trump’s behalf, property valuations and employee pay"
+    publishedDateTime: 2021-05-25T23:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/25/trump-criminal-investigation-new-york"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/25/trump-criminal-investigation-new-york"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/25/trump-criminal-investigation-new-york"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/c1bd6a4623e0c0f595c124b4c03f4019160174c6/0_83_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a9bf392acec49fb8c1c99f54bfbd0d9"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump shuts down blog he started less than a month ago – US politics live"
     excerpt: "Adviser Jason Miller says ‘From the Desk of Donald J Trump’ has been deleted and will not return – follow all the day’s politics news"
@@ -313,37 +297,53 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "CNN says Trump Justice Department secretly obtained reporter’s phone records"
-    excerpt: "The revelation comes two weeks after The Washington Post disclosed that the Justice Department had last year seized phone records belonging to three current and former journalists."
-    publishedDateTime: 2021-05-21T02:06:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-cnn-trump-reporter-phone-records-20210521-oay2kelodfbylgi5jc7ibe35j4-story.html?outputType=amp"
+  - title: "Facebook will end special treatment for politicians after Trump ban - report"
+    excerpt: "Reported change comes after the Facebook oversight board said that the same rules should apply to all users"
+    publishedDateTime: 2021-06-03T21:23:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/jun/03/facebook-content-moderation-trump-ban"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/jun/03/facebook-content-moderation-trump-ban"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jun/03/facebook-content-moderation-trump-ban"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 122
     images:
-      - url: "https://www.chicagotribune.com/resizer/sB5cQgbvIQZhpKMxyt-M95yTIwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NRXIDCVBOSJ4I3MD7H43RSYGNU.jpg"
-        width: 1200
-        height: 800
+      - url: "https://i.guim.co.uk/img/media/56e3613f35b98dddab767517b6385fc637cfeaad/0_18_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33da07d376c7aee7efd80937b10ca43e"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Capitol Rioters Will Blame Trump, Fox News for Their Actions on Jan. 6: Report"
-    excerpt: "\"The reason he was there is because he was a dumbass and believed what he heard on Fox News,\" an attorney representing what of the defendants said."
-    publishedDateTime: 2021-05-29T19:05:00Z
-    webUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149"
-    ampWebUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
+  - title: "Trump Organization probe enters potentially ominous phase with grand jury convened"
+    excerpt: "Special grand jury marks a shift in Cy Vance's Trump Organization probe as possible evidence of criminal conduct may be presented."
+    publishedDateTime: 2021-05-26T18:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/26/trump-grand-jury-signals-potentially-ominous-phase-fraud-probe/7445141002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7445141002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7445141002"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://d.newsweek.com/en/full/1810065/us-capitol-riot.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.gannett-cdn.com/presto/2021/05/04/USAT/ea9211db-9579-49a5-a317-1bef9ae29567-AP_Twitter-CEO_Statement-Trump_Ban.jpg?auto=webp&crop=5173,2910,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Former House Speaker Paul Ryan urges GOP to return to Reaganism, end Trump fixation"
+    excerpt: "The Wisconsin Republican and onetime VP candidate, in a speech at the Reagan Library in Simi Valley, describes conservatives as at 'a crossroads.'"
+    publishedDateTime: 2021-05-27T18:01:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-05-27/former-house-speaker-ryan-urges-gop-return-to-reagan-end-donald-trump-fixation"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-05-27/former-house-speaker-ryan-urges-gop-return-to-reagan-end-donald-trump-fixation?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-27/former-house-speaker-ryan-urges-gop-return-to-reagan-end-donald-trump-fixation?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 119
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5548418/2147483647/strip/true/crop/3071x2006+0+125/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F37%2F49%2F80e1edb9482999daa1b9ea563631%2Fla-na-cheney.JPG"
+        width: 320
+        height: 209
         isCached: true
   - title: "Republicans struggle to define a new governing coalition as Trump closes grip on party"
     excerpt: "The latest grass roots uprising features important differences from the last, the tea party revolution of 2010."
@@ -361,51 +361,69 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "McCarthy says he would testify about conversation with Trump during Jan. 6 Capitol assault"
-    excerpt: "House Minority Leader Kevin McCarthy took a swipe at the \"Pelosi commission\" to investigate the Jan. 6 Capitol attack as one plagued with politics."
-    publishedDateTime: 2021-05-20T18:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
+  - title: "ICE deported 348 migrant parents under Trump without ensuring children could go with them"
+    excerpt: "Some parents were deported without their children even after telling ICE officers that they wanted their children to come with them, the DHS inspector general found."
+    publishedDateTime: 2021-05-24T20:20:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-ice-deportations-parents-trump-family-separation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-ice-deportations-parents-trump-family-separation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-ice-deportations-parents-trump-family-separation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/18/fca5c57b-04f7-4ff4-9832-a7b6c222547c/thumbnail/1200x630/d615f11dcdadbd7bc81e61c3680c60c9/ap19200565745965.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Congress wins battle for Trump aide’s testimony, but a broader war over subpoena power goes on"
+    excerpt: "Former White House counsel Donald McGahn will appear before the House Judiciary Committee on Friday as part of a deal that averts a Supreme Court showdown over congressional subpoenas, leaving unanswered questions about what happens in future separation-of-power disputes."
+    publishedDateTime: 2021-06-03T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/don-mcgahn-trump-interview-house-judiciary/2021/06/02/0ec9e798-c3d3-11eb-9a8d-f95d7724967c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/don-mcgahn-trump-interview-house-judiciary/2021/06/02/0ec9e798-c3d3-11eb-9a8d-f95d7724967c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/don-mcgahn-trump-interview-house-judiciary/2021/06/02/0ec9e798-c3d3-11eb-9a8d-f95d7724967c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3M3QUYGD7EI6XGUN7FOXOJEWPQ.jpg&w=1440"
+        width: 1440
+        height: 1022
+        isCached: true
+  - title: "DOJ releases part of memo behind Barr's decision not to charge Trump for obstructing Russia probe"
+    excerpt: "The DOJ is appealing an order to release the full text of a memo used by former AG William Barr to justify his decision not to prosecute Donald Trump in the Russia probe."
+    publishedDateTime: 2021-05-25T15:19:00Z
+    webUrl: "https://abcnews.go.com/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506"
+    ampWebUrl: "https://abcnews.go.com/amp/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 115
+    quality: 112
     images:
-      - url: "https://s.abcnews.com/images/Politics/kevin-mccarthy-presser-02-rt-jef-210520_1621534095132_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/US/william-barr-gty-jc-210525_1621955343791_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "New York prosecutors convene grand jury to consider evidence in Trump criminal investigation, AP source says"
-    excerpt: "The development signals that the Manhattan district attorney’s office was moving toward seeking charges as a result of its two-year investigation."
-    publishedDateTime: 2021-05-25T23:15:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-grand-jury-20210525-hiolilhyxvendkhgvde5xgv7ey-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-grand-jury-20210525-hiolilhyxvendkhgvde5xgv7ey-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-grand-jury-20210525-hiolilhyxvendkhgvde5xgv7ey-story.html?outputType=amp"
+  - title: "Trump increasingly talking like he plans another presidential run, even as he faces legal threats, allies say"
+    excerpt: "Trump would face daunting headwinds in addition to his legal vulnerabilities if he runs, with the legacy of being the only president to be impeached twice."
+    publishedDateTime: 2021-06-03T16:41:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
     quality: 106
     images:
-      - url: "https://www.chicagotribune.com/resizer/iJZKeYPw-ydSfmuaLrF4ibpV8c4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NATLNQKHQI2SY3VDFU3DL3TF7M.aspx"
+      - url: "https://www.chicagotribune.com/resizer/Ikajz9nESbBxudD0chGC9cQZ1Ww=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TZVUHTCDS5AFHE4OFF3VF5XG6U.jpg"
         width: 1200
-        height: 811
-        isCached: true
-  - title: "Trump Org. subject of criminal probe in New York"
-    excerpt: "New York's attorney general said Friday that she's assigned two lawyers to work with the Manhattan district's attorney's office on a criminal investigation into former President Donald Trump's business dealings."
-    publishedDateTime: 2021-05-21T19:38:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/21/trump-org-subject-criminal-probe-new-york/5208067001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6026d8e2-3c12-42da-9ba8-67dd8fd97232_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+        height: 675
         isCached: true
   - title: "Grand jury convened in Trump investigation in..."
     excerpt: "Watch \"A grand jury has been convened to weigh whether Pres. Trump should face charges in connection with an ongoing investigation by the Manhattan's Distric\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
@@ -421,20 +439,17 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Can the US avoid another Trump?"
-    excerpt: "Former Obama adviser Ben Rhodes has travelled the world looking for clues to how the US came to elect Donald Trump and he found parallels everywhere. But is there a way of stopping it from happening again?"
-    publishedDateTime: 2021-05-31T01:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2021/may/31/can-the-us-avoid-another-trump-podcast"
+  - title: "Fact Check-Trump does not own half of Moderna, as posts claim"
+    excerpt: "Moderna, one of the pharmaceutical companies spearheading COVID-19 vaccination efforts in the United States, is not half owned by former president Donald Trump, as posts on social media claim."
+    publishedDateTime: 2021-06-02T20:15:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-trump-moderna/fact-check-trump-does-not-own-half-of-moderna-as-posts-claim-idUSL2N2NK2VH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NK2VH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NK2VH"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/76a40b73d7ef25925928c7740d3f555ccdd2b0fa/0_133_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ab622bdaac0dc5d28e44d8d984d982b"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ex-Treasury employee gets prison for leaks on Trump campaign officials"
     excerpt: "A former senior U.S. Treasury Department employee who pleaded guilty to conspiring to give a reporter sensitive information about Donald Trump's onetime campaign chairman Paul Manafort and others was sentenced on Thursday to six months in prison."
     publishedDateTime: 2021-06-03T20:28:00Z
@@ -477,19 +492,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
-    excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
-    publishedDateTime: 2021-05-20T19:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+  - title: "US ends Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in immigration court"
+    excerpt: "The Biden administration on Tuesday formally ended a Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in U.S. immigration court."
+    publishedDateTime: 2021-06-01T23:42:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 103
     images:
-      - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
-        width: 700
-        height: 525
+      - url: "https://www.chicagotribune.com/resizer/6HwP7hGhWlXmHzuJczhcTG55y6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7AK2LAGF26SSGEEMGLS2DI6RVE.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "New York Prosecutor Convenes Grand Jury in Criminal Investigation of Donald Trump"
     excerpt: "Manhattan District Attorney Cyrus Vance Jr. is conducting a wide-ranging investigation into Donald Trump's business dealings."
@@ -504,6 +521,38 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2021/05/Trump-grand-jury.jpg"
         width: 1024
         height: 711
+        isCached: true
+  - title: "Obama suggested Trump rename the Iran Nuclear Deal the 'Trump Anti-Nuclear Deal' when they met at the White House, according to new book"
+    excerpt: "Obama's strategy at the 2016 Oval Office meeting was to \"start by buttering up Trump,\" according to a copy of a forthcoming book obtained by Insider."
+    publishedDateTime: 2021-05-24T20:44:00Z
+    webUrl: "https://www.businessinsider.com/obama-trump-iran-nuclear-deal-white-house-meeting-dovere-book-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/obama-trump-iran-nuclear-deal-white-house-meeting-dovere-book-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-trump-iran-nuclear-deal-white-house-meeting-dovere-book-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/60abe9385e3457001926532b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Former House Speaker Paul Ryan joined the fight against Donald Trump by urging fellow conservatives to reject the former president’s politics"
+    excerpt: "Emerging from two years of relative silence, former House Speaker Paul Ryan joined the fight against Donald Trump on Thursday, urging fellow conservatives to reject the former president’s divisive politics and those Republican leaders who emulate him."
+    publishedDateTime: 2021-05-28T02:13:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 90
+    images:
+      - url: "https://www.chicagotribune.com/resizer/TeYNpM4qwEPkL99MF8R8RkqIgFI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZVAH3T2NCBH5AJHZHQCLFWV7LA.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump's Ex-Advisor Says COVID-19 Pandemic Was Fabricated To Control 2020 Elections"
     excerpt: "Donald Trump’s former National Security Advisor Michael Flynn has alleged that the COVID-19 pandemic was fabricated to control the 2020 U.S. election. Flynn, a retired general who is one of the most well-known figures in the QAnon conspiracy theory,"
@@ -537,21 +586,67 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "With tall Trump tale, Macron plays to France's young voters"
-    excerpt: "Filmed in the French presidential palace with two of France's most popular YouTube stars, the half-hour of banter, tall tales, and a grungy rendition of “La Marseillaise\" by heavy-metal band “Ultra Vomit” represented Macron's most audacious effort yet to woo young voters."
-    publishedDateTime: 2021-05-23T21:13:00Z
-    webUrl: "https://www.chron.com/entertainment/article/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
-    ampWebUrl: "https://www.chron.com/entertainment/amp/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/With-tall-Trump-tale-Macron-plays-to-France-s-16197568.php"
+  - title: "Trump criminal investigation looms over Manhattan DA race"
+    excerpt: "The current district attorney, Cyrus Vance Jr., is leaving office at the end of the year, meaning there’s a good chance he’ll pass the two-year probe to his successor."
+    publishedDateTime: 2021-05-24T20:13:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-election-2021-manhattan-district-attorney-20210524-sbzv26f7hfbz7m77porc3c6mjq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-election-2021-manhattan-district-attorney-20210524-sbzv26f7hfbz7m77porc3c6mjq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/nyc-elections-2021/ny-election-2021-manhattan-district-attorney-20210524-sbzv26f7hfbz7m77porc3c6mjq-story.html?outputType=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: New York Daily News
+      domain: nydailynews.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.nydailynews.com/resizer/HoPnX5rZFP6on5h3laDIY2TvVlk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SI35OJIWUNCJNHMFIAWE2I72UM.jpg"
+        width: 1200
+        height: 787
+        isCached: true
+  - title: "McConnell to Trump: What’s a Little Insurrection Between Friends?"
+    excerpt: "Mitch McConnell gave his members permission to vote to impeach Trump, and even briefly entertained the possibility of joining them. By now, whatever defiant impulse the party’s establishment harbored has died down to the point where a former officeholder merely hinting that Trump is politically optimal rates as a news story."
+    publishedDateTime: 2021-05-28T20:16:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/a14/14e/8711801fbf6ea18d66d6e885b9b0164d4a-ni-trump-mcconnell.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "Republican feud: Donald Trump goes after Paul Ryan for going after him"
+    excerpt: "In a statement, Trump attacked the former House Speaker for saying at the Ronald Reagan library that the GOP should move past the former president."
+    publishedDateTime: 2021-05-28T20:45:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/05/28/republican-feud-donald-trump-goes-after-paul-ryan-going-after-him/5251182001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5251182001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5251182001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/02/04/USAT/8fca81c0-1122-43cc-bbc1-7d0702aa6ee0-AP_Trump_State_of_the_Union.JPG?auto=webp&crop=3498,1967,x540,y1051&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Justice Department appeals order to release in full a legal memo on whether Trump obstructed justice during the Russia investigation"
+    excerpt: "The Biden administration is appealing a judge’s order directing it to release in its entirety a legal memo on whether President Donald Trump had obstructed justice during the Russia investigation."
+    publishedDateTime: 2021-05-25T15:13:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-justice-department-barr-russia-obstruction-memo-20210525-ymq23dif5rf2djn4tumyx74ojy-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 74
+    images:
+      - url: "https://www.chicagotribune.com/resizer/IpKs4rNbpj7N0ajE9lAC81rd9gU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZPFUXOBZBZECNBHEYYIALZV2FY.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump Irate, Lashes Out After Grand Jury Seated For Trump Organization Probe"
     excerpt: "Manhattan's top prosecutor recently convened a grand jury to decide whether indictments should be issued against Donald Trump over potential financial misconduct."
@@ -569,6 +664,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump Told Allies He'll Run For President In 2024 Under One Condition: Report"
+    excerpt: "Trump’s political ambitions \"are making some congressional Republicans anxious,\" according to interviews conducted by Politico with 20 Republicans in both the House and Senate."
+    publishedDateTime: 2021-05-28T11:31:00Z
+    webUrl: "https://www.ibtimes.com/trump-told-allies-hell-run-president-2024-under-one-condition-report-3210998"
+    ampWebUrl: "https://www.ibtimes.com/trump-told-allies-hell-run-president-2024-under-one-condition-report-3210998?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-told-allies-hell-run-president-2024-under-one-condition-report-3210998?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
+        width: 1024
+        height: 731
+        isCached: true
   - title: "Following Donald Trump will lead to the demise of the Republican Party (Letters)"
     excerpt: "What does the Republican Party stand for? Kevin McCarthy, House minority leader backs Donald J. Trump in his big lie about election fraud 100%. He even got rid of Liz Cheney from her leadership post because she could not abide by Trump’s falsehood."
     publishedDateTime: 2021-05-26T17:11:00Z
@@ -585,17 +696,22 @@ related:
         width: 6720
         height: 4480
         isCached: true
-  - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
-    excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."
-    publishedDateTime: 2021-06-03T09:43:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies?context=amp"
+  - title: "Conservative activists seek removal of Michigan GOP official for disloyalty to Trump"
+    excerpt: "More than 550 Republican delegates are supporting an effort to censure and remove a high-ranking Michigan Republican Party official who blamed former President Donald Trump, not alleged voter fraud, for his 2020 election loss."
+    publishedDateTime: 2021-05-25T19:48:00Z
+    webUrl: "https://www.mlive.com/politics/2021/05/conservative-activists-seek-removal-of-michigan-gop-official-for-disloyalty-to-trump.html"
+    ampWebUrl: "https://www.mlive.com/politics/2021/05/conservative-activists-seek-removal-of-michigan-gop-official-for-disloyalty-to-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2021/05/conservative-activists-seek-removal-of-michigan-gop-official-for-disloyalty-to-trump.html?outputType=amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: MLive
+      domain: mlive.com
+    quality: 68
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4QSAVF3IDZARHLV4N3NQMFATHQ.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Trump Pulls Own Blog From Internet"
     excerpt: "Donald Trump has canceled his own blog, an advisor announced Wednesday, highlighting the ex-president and election conspiracy theorist's struggle to escape the social media wilderness. The blog \"will not be returning,"
     publishedDateTime: 2021-06-02T17:00:00Z
@@ -610,6 +726,15 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Former Trump Ambassador Sues Pompeo, U.S. Government for Legal Fees"
+    excerpt: "Gordon Sondland, the former U.S. ambassador who testified against President Donald Trump during his first impeachment, sued former Secretary of State Mike Pompeo and the U.S. government for $1.8 million in legal fees on Monday."
+    publishedDateTime: 2021-05-24T14:47:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-24/former-trump-ambassador-sues-pompeo-us-government-for-legal-fees"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
     excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
     publishedDateTime: 2021-05-22T11:00:00Z

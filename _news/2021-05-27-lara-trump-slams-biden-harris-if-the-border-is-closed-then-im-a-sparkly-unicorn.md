@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/lara-trump-border-closed-sparkly-un
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp"
 type: article
 quality: 208
-heat: 568
+heat: 588
 published: true
 
 provider:
@@ -287,6 +287,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Is Joe Biden priming Kamala Harris for 2024 presidency? Ari Fleischer weighs in"
+    excerpt: "Fox News contributor Ari Fleischer disputes the assumption that the vice president is being prepared to replace the president in 2024 on 'The Story with Martha MacCallum.'"
+    publishedDateTime: 2021-06-04T01:13:00Z
+    webUrl: "https://www.foxnews.com/media/joe-biden-kamala-harris-2024-presidency-ari-fleischer"
+    ampWebUrl: "https://www.foxnews.com/media/joe-biden-kamala-harris-2024-presidency-ari-fleischer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-kamala-harris-2024-presidency-ari-fleischer.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80ffb81f-d144-4bf2-bf7c-39bb8192d701/0a4fd151-d00c-4b6f-a40d-193ef6e61b87/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Jill Biden, Kamala Harris share hug after reports of first lady's F-bomb toward VP"
     excerpt: "Bygones appeared to be bygones at the White House Friday, with first lady Jill Biden getting chummy with Vice President Kamala Harris — days after a forthcoming book revealed Biden said Harris should “go f–k” herself for attacking her husband during the Democratic primaries."

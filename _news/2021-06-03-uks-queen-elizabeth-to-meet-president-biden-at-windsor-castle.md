@@ -1,10 +1,10 @@
 ---
 category: news
 title: "UK's Queen Elizabeth to meet President Biden at Windsor Castle"
-excerpt: "Britain's Queen Elizabeth will meet U.S. President Joe Biden and First Lady Jill Biden at Windsor Castle on June 13, Buckingham Palace said on Thursday."
+excerpt: "Queen Elizabeth will meet U.S. President Joe Biden and First Lady Jill Biden at her Windsor Castle home at the conclusion of the G7 summit which begins in Britain next week, Buckingham Palace said on Thursday."
 publishedDateTime: 2021-06-03T15:10:00Z
-originalUrl: "https://www.reuters.com/article/worldNews/idUSKCN2DF13T"
-webUrl: "https://www.reuters.com/article/worldNews/idUSKCN2DF13T"
+originalUrl: "https://www.reuters.com/article/uk-g7-summit-royals/uks-queen-elizabeth-to-meet-president-biden-at-windsor-castle-idUSKCN2DF13M"
+webUrl: "https://www.reuters.com/article/uk-g7-summit-royals/uks-queen-elizabeth-to-meet-president-biden-at-windsor-castle-idUSKCN2DF13M"
 type: article
 quality: 105
 heat: -1
@@ -62,9 +62,9 @@ related:
         height: 558
         isCached: true
   - title: "Biden to meet with Queen Elizabeth this month, Buckingham Palace says – live"
-    excerpt: "Announcement indicates president will meet with the queen on 13 June when he travels to the UK for the G-7 summit"
-    publishedDateTime: 2021-06-03T14:52:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8dd918f082ac930ae9245"
+    excerpt: "White House confirms president will meet the queen on 13 June when he travels to the UK for the G-7 summit"
+    publishedDateTime: 2021-06-03T14:59:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8eb578f08b9889b367d18"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
     type: article
@@ -78,6 +78,6 @@ related:
         height: 360
         isCached: true
 
-secured: "7qnxiS/2lMjgTA51zaNDGYmQYKYkuu1lgOKo5rEl11Iq29SsdefSM/Bk0htpVyGaIZA9TP6dLuZ3VJmo7DkT339mr4mc1yBfHB7i7j8WqCCJVCtTd2kANSZkpux1AO231ElXLuDTMf1EXJkf+bmK932k24W1nkJUCdSrguaD4hi/pQ4vBHVtdXklOWeDXJElmmmLqPTdcjzFZEG1c11jIG/CwC1KRlKuVU+CPwQWpGqzjYl1j/X5riIgSTfoIbVsxccY4FQnpDfbPyBwNzq8c8pXvXC+Oa9xFFZngHTRFZuYbXYRB6zi1co/wUuicotcTtDKJQokgTKfAl+xajCnx28ccceO6h50HmLzC9rrels=;e9yjFW1MO5tj2JXqYZFbPw=="
+secured: "Akc/y1kXeQnp3Je6Tp8mlbIebNUl/WnNF0RWDmCwZ1U8QNNfC9BWwFr1jn5gZmQlQeeW5MeJO/xnjkKIbteG1T5hqno9F/Oe19CZFcAZI9PAK5fdZBHEJMbtoqeGfYS/v1g8CvFpSOR+LZo79czx1QWugQpv7hVf/NKQqUKpDdu0TU/oxpL8qzfrWkuzioj0z9WXiGs6avzsqoAbdlkWNVA/9wFAtXbCNTdpBc72GHJ8qQ7ID56PNnm6upBIBYzEWLQ7dD/iq2EQYlKyoseOnVDVexuF9OCAm53e8iBVx43AxvF6WN1YJLzGawhLm+P5y0l4kQLq0Dbs8hj9YU5h7hrg178MoPmpHvz6iN44JCg=;vCWWWYrEn6nItHj8KmLQuQ=="
 ---
 
