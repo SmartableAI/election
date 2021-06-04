@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden won't form his own commission to study Capitol riot, White House says"
-excerpt: "The White House on Thursday shot down the idea of forming its own presidential commission to study the Jan. 6 attack on the Capitol, saying it is Congress’ “unique role” to carry out that investigation."
-publishedDateTime: 2021-06-03T21:26:42Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
-ampWebUrl: "https://www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+title: "Biden Pentagon, State Department at odds over pride flag"
+excerpt: "The Defense Department will not allow the Pride flag to be flown at military bases, unlike the State Department, spokesperson John Kirby said Friday."
+publishedDateTime: 2021-06-04T21:29:19Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag"
+ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp"
 type: article
-quality: 173
-heat: -1
-published: false
+quality: 175
+heat: 415
+published: true
 
 provider:
   name: Fox News
@@ -25,28 +25,12 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/AP21019774947253.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Pride-Flag-iStock-2.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
 
 related:
-  - title: "Biden Pentagon, State Department at odds over pride flag"
-    excerpt: "The Defense Department will not allow the Pride flag to be flown at military bases, unlike the State Department, spokesperson John Kirby said Friday."
-    publishedDateTime: 2021-06-04T21:29:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Pride-Flag-iStock-2.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Hunter Biden-linked lobbying firm facing DOJ probe, report says"
     excerpt: "A consulting firm linked to Hunter Biden – and co-founded by a former member of the Clinton administration -- is facing a Justice Department investigation into potential illegal lobbying activity, according to a report."
     publishedDateTime: 2021-06-04T07:27:57Z
@@ -94,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden won't form his own commission to study Capitol riot, White House says"
+    excerpt: "The White House on Thursday shot down the idea of forming its own presidential commission to study the Jan. 6 attack on the Capitol, saying it is Congress’ “unique role” to carry out that investigation."
+    publishedDateTime: 2021-06-03T21:26:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/AP21019774947253.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden Cabinet members avoid huge tax hits thanks to little-known federal law"
     excerpt: "Under Section 2634 of federal elections law sits a unique provision to help soften the financial blow of new administration officials suddenly selling off assets: certificates of divestiture."
@@ -222,6 +222,6 @@ related:
         height: 405
         isCached: true
 
-secured: "N45FEvX4HYyujzvWMXOFpb4l/qNNm15UWnlwoIm1TAotWNuKqi67vzAFN06uEp+71prq8VUpqaQGbvbQkX64RiCyXTz3RyLLSRrD1zJvTt/HsE03EsEU9KghqJ95b0RcuF5kkmnYXs1OI9xfda6S+viYRqfTbFMRh0R5wfIcTuRgKqUGsLJTo0BDoOBmTPg77g6uzpr53wmjn4TkMlJ6nJJ6AG3nE6zLJgBnc1VFNSrlMncRMLq8z7rhLAOyQNE7HvN5JIedJ2ochCzp78jg7WA4p6E0gfu+dWqcA37tk3knHawI6FXLjjvxk0XQJqbZqN1hpdQTizn3Jz4YI6loJo0q7Now35c24D07ahTG4c8=;IbXrePZ5cC7KpIHKDrPf8g=="
+secured: "i9sioeSETO3NJWZwrqE4FaPy2+X35ZX1csar+eL4K3jhX2nsjjNe7fA9v//edDkeKZ5fD2RlsjD3eZngQMXtQnFwzsE10dvoFo5WTpoFj8rqO5GeOCuu/TRCzG4nrxSMv9DKEq+jRZB1JBtg9G71rJNQv0yNjdkOH27SHhJO1dMEnbUarPcCseNlUfRfrnWEOeJH/4xiYh9i6JZvpxS0RVrJgKvBKc4F2vdcgBJ3oYTr7I8dLB60BeI5ID0z0pPRJAKhtISkuwMXGq7yJzJSHSuxzi8doNDDkuHMBw/Y8ithJETCPoAoZAiNxCwmr7e0tt41v6iLKpgrNjX/cn16P8I/N8uWkJb4cJca+XajGZY=;XJ4ACPgctindoqjRVjReFA=="
 ---
 

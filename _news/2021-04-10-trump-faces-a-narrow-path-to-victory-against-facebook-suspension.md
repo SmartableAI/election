@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2021/04/09/trump-facebook-suspensi
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/trump-facebook-suspension-oversight-board-480671"
 type: article
 quality: 135
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/06/business/06clegg/05clegg-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Facebook extends Trump suspension for two years"
+    excerpt: "Facebook announced a two-year ban of former President Donald Trump from its platforms, including Instagram, until at least January 2023."
+    publishedDateTime: 2021-06-04T21:02:00Z
+    webUrl: "https://www.nbcnews.com/now/video/facebook-extends-trump-suspension-for-two-years-114347077726"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114347077726"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114347077726"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1622840486631_ott_now_fb_trump_210604_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "V+xgSEFGGjzMDE1o/5AyBcK0a/9kOwjBYW4z++uCVpHf0mLJnX1hyqkrBo15v9hTgec5NtOAq8leM8GqwnSjXHoqjvhWy6o+8SfNBtC5FeHkk5XbWFzzkwGzAmNBWsjubhvKV9B41CJrg63Cr87vm+M8rJIs/HSTf7ms8qoxx5HVgxeE6YMtGjBe15TmLtE2JeucwuRLr8WLGd1dCu+oZ9+Afzpk66mh6fMVNUbov67CXZdoRHc0/A6WdU5ME4brhcD/COsSg+zXQx5omidlflDQOdxe7L2HsbCu0T3qDyAMCfBYidC8i+mjH+YiEvzHASJ5rnEPiWC6W12MMaAnHGwm6TaagonRp3OsFmclYW4scuj8v9Dg2mQvxQU7xlsuPqFiacHWZwhB8nhIZS6V13gkNl+CPw3++00oKsJs8RMh0OK/Cbe2mMATEzIc+FtzA8OMy6L5iRoBjJYB2ydZZjFV5KyUsn/kOiJDis5qCXVv4YhHEhlkGJ+lg+Lh9fdaMWDjRVNVP2+V3/C2r8mNxw==;HnLdIx4VbixEUWSfHa6yqg=="

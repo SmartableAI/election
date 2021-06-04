@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Old Trump health team rivalries resurface in Texas House race"
-excerpt: "A senior Trump health official’s bid to become the first administration alumnus elected to Congress is running into resistance from an unlikely source: his own former colleagues. Brian Harrison, a chief of staff to former Health and Human Services ..."
-publishedDateTime: 2021-04-12T08:30:00Z
-originalUrl: "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689"
-webUrl: "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689"
-ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
+title: "Facebook extends Trump suspension for two years"
+excerpt: "Facebook announced a two-year ban of former President Donald Trump from its platforms, including Instagram, until at least January 2023."
+publishedDateTime: 2021-06-04T21:02:00Z
+originalUrl: "https://www.nbcnews.com/now/video/facebook-extends-trump-suspension-for-two-years-114347077726"
+webUrl: "https://www.nbcnews.com/now/video/facebook-extends-trump-suspension-for-two-years-114347077726"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114347077726"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114347077726"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/9f/95/6083ce4d4093a63bafe1c7155074/gettyimages-906623620-1.jpg"
-    width: 1160
-    height: 773
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1622840486631_ott_now_fb_trump_210604_1920x1080.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -45,6 +45,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/c9/e9/f0ff0b934e189519ffd7493b3913/210409-trump-phone-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Old Trump health team rivalries resurface in Texas House race"
+    excerpt: "A senior Trump health official’s bid to become the first administration alumnus elected to Congress is running into resistance from an unlikely source: his own former colleagues. Brian Harrison, a chief of staff to former Health and Human Services ..."
+    publishedDateTime: 2021-04-12T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/9f/95/6083ce4d4093a63bafe1c7155074/gettyimages-906623620-1.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -144,23 +160,7 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Facebook extends Trump suspension for two years"
-    excerpt: "Facebook announced a two-year ban of former President Donald Trump from its platforms, including Instagram, until at least January 2023."
-    publishedDateTime: 2021-06-04T21:02:00Z
-    webUrl: "https://www.nbcnews.com/now/video/facebook-extends-trump-suspension-for-two-years-114347077726"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114347077726"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114347077726"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1622840486631_ott_now_fb_trump_210604_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
-secured: "zYpbFNI6DlAw3gB0J0cZ7joQ+MmW+DYB7UwMrNKaFcH5PRpRJXyWoQUfdGyDro2/l/szDtnVC3WcChe9kwAOOjZ2llTlxNwDI8+jW/+CZG5ry+aiTDHTktrtNLS4diOg0WzmOJcJRqWrNzlfIeXqISD0nrwBW8ZBgpHxm7ZnubiDxrv8xmkH14vd44xHUSKVtKU9OHhzaHJ98jNv+1p1Nqx8V5Pacbx/0DFbKy05DzUpM1Jf+LG855yCq/KVy9I77+tOQI/QQ8fcSMKVCvt/KoCYYJR4JQLMof4Y2PgQcWlwgjYOj1rY2uj2l4l591f27nIvrLnpQ1Xbp05TffI1tI8C8NM1f1ZOQEsijpXsuBYIzFopv4YK8LPIMbO6xl9y++wGlKdT56tPkTPrxeV9s7jRpxVEtiquyJRlyOJIfKl+cT0Uu4xlvV/prE0HWC5HtDJikJG2ttOFLAbKMHCMtRKzUVTCqbAEA/7QJ9VqlLcEyqKnF9boyAMhDyT1C79JCpturMMG7Q8foaLoTsSOBw==;rchaOjZYyORzyp4aNAiLJA=="
+secured: "RYtD1tCCBMKKcbthPj9fU6cyen97p9ZOZqk99rymNoYgqMkiIStgBnS7PxnG15xtf+QmE6P6Ow0Mc28kUAcQc7JYKTRufNWrehy/pcaNpAl096oXXuJIXgCWs0vhYLraLw9vjE/qMFKI5AJPuNzd9Aou8Dr3gUOJHg1y/pX48li9VlnsafSdw2JRv9d51m5riUPR0jNCdmfUlgMq8x2VqwhPrTVK6oNK5UB5BwwI4K8rJmQiDpDDCOteEaH3tvTfGxf0A3+J+9pCgDBhAlCE+/2h/8Oq83dkkmH/KkOCbxXJssombG88H8uKoo2CTL48pRMhl08XjPyCi+uO9m4TFbeRyPNl+uvtUf+vWS00FXQ=;WdCbiHt7eqq+1iXTVl6TpQ=="
 ---
 

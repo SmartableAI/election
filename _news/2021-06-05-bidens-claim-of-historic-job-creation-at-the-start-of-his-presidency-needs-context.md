@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Joe Biden’s $6T budget: Social spending, taxes on business"
-excerpt: "President Joe Biden is proposing a $6 trillion budget for next year that’s piled high with new safety net programs for the poor and middle class, but his generosity depends on"
-publishedDateTime: 2021-05-30T02:39:00Z
-originalUrl: "https://www.denverpost.com/2021/05/29/joe-biden-6-trillion-budget-spending-taxes/"
-webUrl: "https://www.denverpost.com/2021/05/29/joe-biden-6-trillion-budget-spending-taxes/"
-ampWebUrl: "https://www.denverpost.com/2021/05/29/joe-biden-6-trillion-budget-spending-taxes/amp/"
-cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/05/29/joe-biden-6-trillion-budget-spending-taxes/amp/"
+title: "Biden’s claim of historic job creation at the start of his presidency needs context"
+excerpt: "The reopening of the economy has played a major role in the historic number of people finding work during the first four months of Biden’s presidency."
+publishedDateTime: 2021-06-04T20:15:00Z
+originalUrl: "https://www.khou.com/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+webUrl: "https://www.khou.com/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+ampWebUrl: "https://www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
 type: article
-quality: 75
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Denver Post
-  domain: denverpost.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.denverpost.com/wp-content/uploads/2021/05/AP21147686823317.jpg?w=1024&h=683"
-    width: 1024
-    height: 683
+  - url: "https://media.khou.com/assets/VERIFY/images/033e0954-f8c3-4046-a168-26f25df4bf60/033e0954-f8c3-4046-a168-26f25df4bf60_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -119,23 +119,23 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden’s claim of historic job creation at the start of his presidency needs context"
-    excerpt: "The reopening of the economy has played a major role in the historic number of people finding work during the first four months of Biden’s presidency."
-    publishedDateTime: 2021-06-04T20:15:00Z
-    webUrl: "https://www.khou.com/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
-    ampWebUrl: "https://www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+  - title: "Joe Biden’s $6T budget: Social spending, taxes on business"
+    excerpt: "President Joe Biden is proposing a $6 trillion budget for next year that’s piled high with new safety net programs for the poor and middle class, but his generosity depends on"
+    publishedDateTime: 2021-05-30T02:39:00Z
+    webUrl: "https://www.denverpost.com/2021/05/29/joe-biden-6-trillion-budget-spending-taxes/"
+    ampWebUrl: "https://www.denverpost.com/2021/05/29/joe-biden-6-trillion-budget-spending-taxes/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/05/29/joe-biden-6-trillion-budget-spending-taxes/amp/"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 69
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
     images:
-      - url: "https://media.khou.com/assets/VERIFY/images/033e0954-f8c3-4046-a168-26f25df4bf60/033e0954-f8c3-4046-a168-26f25df4bf60_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/05/AP21147686823317.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
 
-secured: "LEHShbwTcbkMj7JLbKilguoHBl7j2HmXI9GprbjZUTPO+8iEraJzI1y2jLGXYRPNpgkxsDfrjQSHSZcDb5kseYpkfn/BwQl1pF7UzWzY+TJsdUXU1c3bZZgFQ/iY1fGJq1rfkZferDyKlH8olpOcughOga2MvVWa5UlZgyyZxyZxKIOt+v+7705eEtHiepf6gbActX1elOi3XXKjddlOw0ZKkN+/2wbRuHkshnk9TZc7ZAu7z1UhuieeSYh24LyoqG6C/qyCC+hTfhObyoUTElkB5IWqFuY2Dl6afKrJQg0LspcOe4p9c96bBvCmVzf62K4E2B6MYWEpGlDLoCNpdwZLt5uv/OrsI2bYCp1Q/dzZY/T7JCmuaTYIrwiOy+33Uo9u/Bo32byFVa8b40PksB3796izl5vFeKyslXaB7DVGmLTnO74Rw2qvUrrmbmxWsDKZtv1hJU3Suc44D8U68zB9DzSezw5mGPKz8voCPVGT0cd4xfps8GIuW4mzn+ungSPREQRjkOpm3ioIUcCpWg==;bOzru9eM72vJ0zW7MqbTzA=="
+secured: "QIX8ZOh6ASihh3pcuSsB8NUsNRv/bEblUuUZvyBXYomqVUY3W5JCM8ft5TSAa7mREe1GNwj0BjUzSMrHParhgsyLMVXVsktw060cxKuaD8CmybhTfRMyRcrr0PlD/j3NBclEJiET+vJv7krexyhr9IVVZ0/D5ceKYZPeKWX5suHcp01/frkcBMt3/hvpqa5cATt2hr7aFUlYQRZAaZ62Gby7IGXQJds6K6l6+9dKiMwntbdhTcCuXMC7qlBNJFYn6j8O4JfuZinoq1KMBjp/1K5L1DYSKfGofIdmuEYpofxJYEicPr+LDyUQczzVq46gZWr1jdwYxvYQePDXWaMCGYms20x4ZG9Hls2HDt3Mb1M=;A9hNB843dWXBXcrBKa/B4Q=="
 ---
 

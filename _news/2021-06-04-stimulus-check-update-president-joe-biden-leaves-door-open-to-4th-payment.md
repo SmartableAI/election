@@ -126,7 +126,7 @@ related:
   - title: "FBI chief likens ransomware threat to 9/11 as Biden plans to confront Putin at G7 – live"
     excerpt: "Chris Wray compares hacking threat to challenge posed by September 11 attacks while Trump suspended from Facebook for two years – get the latest"
     publishedDateTime: 2021-06-04T15:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba59818f082e80569f6680"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba52008f082e80569f65e6"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
     type: article
@@ -135,7 +135,7 @@ related:
       domain: theguardian.com
     quality: 116
     images:
-      - url: "https://i.guim.co.uk/img/media/076a3a3532aeb79c30b9842118ee02e382446af5/0_35_5282_3170/master/5282.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f7e3af7c9c142dc541851e1f6de30206"
+      - url: "https://i.guim.co.uk/img/media/6d23283704255b71f37f57a1fcb5c2fe60dc8cd4/0_119_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=561831e6ccd9fcd5523f7f24d9a7fad3"
         width: 600
         height: 360
         isCached: true

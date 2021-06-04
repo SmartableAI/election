@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-04-biden-pentagon-state-department-at-odds-over-pride-flag.md",
+      "title": "Biden Pentagon, State Department at odds over pride flag",
+      "excerpt": "The Defense Department will not allow the Pride flag to be flown at military bases, unlike the State Department, spokesperson John Kirby said Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Pride-Flag-iStock-2.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp",
+      "publishedDateTime": "2021-06-04T14:29:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials.md",
       "title": "McEnany: Women in Biden admin get 'glowing' profiles after 'hit pieces' for female Trump officials",
       "excerpt": "Former White House press secretary Kayleigh McEnany responded Friday to reports that successor Jen Psaki was having her picture taken by celebrity photographer Annie Leibovitz for a magazine profile.",
@@ -88,118 +144,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/alaska-biden-oil-drilling-anwr-leases-interior-arctic.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alaska-biden-oil-drilling-anwr-leases-interior-arctic.amp",
       "publishedDateTime": "2021-06-04T03:20:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-biden-cabinet-members-avoid-huge-tax-hits-thanks-to-little-known-federal-law.md",
-      "title": "Biden Cabinet members avoid huge tax hits thanks to little-known federal law",
-      "excerpt": "Under Section 2634 of federal elections law sits a unique provision to help soften the financial blow of new administration officials suddenly selling off assets: certificates of divestiture.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6iXrFGLof9s/biden-cabinet-certificates-of-divestiture",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6iXrFGLof9s/biden-cabinet-certificates-of-divestiture",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2a99b01-47c4-41c7-b0cb-5b090050a230/f6930429-3760-4230-8b76-54bd6f4e39e7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-cabinet-certificates-of-divestiture.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-certificates-of-divestiture.amp",
-      "publishedDateTime": "2021-06-04T03:14:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says.md",
-      "title": "Hunter Biden-linked lobbying firm facing DOJ probe, report says",
-      "excerpt": "A consulting firm linked to Hunter Biden – and co-founded by a former member of the Clinton administration -- is facing a Justice Department investigation into potential illegal lobbying activity, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRbGx-OX4FQ/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRbGx-OX4FQ/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40e43fe5-4356-4038-be88-b4d2093c0947/834ae71a-febe-43f9-82e0-9e1ef088056c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says.amp",
-      "publishedDateTime": "2021-06-04T00:27:57-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1261,7 +1205,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 166,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -1474,62 +1418,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-30-texas-senate-passes-election-reform-bill-criticized-by-biden-after-closed-door-negotiations-all-night-debate.md",
-      "title": "Texas Senate passes election reform bill criticized by Biden after closed-door negotiations, all-night debate",
-      "excerpt": "Republicans in the Texas Senate took a big step toward tightening their state's election laws this weekend, prompting outcry from Democrats.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUK_Oegc9aI/texas-senate-election-reform-bill-biden-security",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUK_Oegc9aI/texas-senate-election-reform-bill-biden-security",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/168c5283-4842-412a-8322-5eced9ab2a41/09b74a5c-137c-4da4-ac4a-8ca8d445d604/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp",
-      "publishedDateTime": "2021-05-30T10:07:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-30-biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner.md",
       "title": "Biden admin now investigating COVID origin 'because of the public outcry’: Rep. Mike Turner",
       "excerpt": "Rep. Mike Turner, R-Ohio, argued during an exclusive interview with “Sunday Morning Futures” that “everything points to the Wuhan lab” as it pertains to the origin of COVID-19, and added that “we need to get to the bottom of it.”",
@@ -1640,6 +1528,118 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-bipartisan-group-of-senators-to-travel-to-eastern-europe-as-biden-announces-new-crackdowns-against-belarus.md",
+      "title": "Bipartisan group of senators to travel to Eastern Europe as Biden announces new crackdowns against Belarus",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ESVDFW2UxMg/senators-belarus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ESVDFW2UxMg/senators-belarus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/senators-belarus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senators-belarus.amp",
+      "publishedDateTime": "2021-05-29T14:11:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-pompeo-calls-biden-budget-proposal-smorgasbord-of-left-wing-activities.md",
+      "title": "Pompeo calls Biden budget proposal ‘smorgasbord of left-wing activities’",
+      "excerpt": "Former Secretary of State Mike Pompeo on Saturday described President Biden’s budget proposal as a “smorgasbord of left-wing activities” -- the costs of which, he warned, would be inflicted upon future generations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-T9XdhO-j3s/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-T9XdhO-j3s/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c68c707b-ea0a-444c-9b13-86f72acd99cc/b5fb0970-9acf-4cf8-b486-143b7510d448/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities.amp",
+      "publishedDateTime": "2021-05-29T13:58:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

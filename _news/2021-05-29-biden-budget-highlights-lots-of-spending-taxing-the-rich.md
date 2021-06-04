@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-budget-highlight
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -122,6 +122,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/05/AP21147686823317.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Biden’s claim of historic job creation at the start of his presidency needs context"
+    excerpt: "The reopening of the economy has played a major role in the historic number of people finding work during the first four months of Biden’s presidency."
+    publishedDateTime: 2021-06-04T20:15:00Z
+    webUrl: "https://www.khou.com/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+    ampWebUrl: "https://www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 69
+    images:
+      - url: "https://media.khou.com/assets/VERIFY/images/033e0954-f8c3-4046-a168-26f25df4bf60/033e0954-f8c3-4046-a168-26f25df4bf60_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "adcPOGShgrk46HthL2BfTY6vPmd/bcKmyCNoOGWdJNBuFamIthSbe7ZiAKW7NlMiDe5Oz5hbgjYPnObCZqq1SW1HtL8y5PyjWkHQ+DOWUTghwwT/H/QaRJQXb+FELJlWw0560j533JpNjxkj7TW8RLB2w2vjxAV2Cgq31ShKMZSMEcx2HSpEeun0GHtiv/07tIhPUdr7CDkgW/1tGuYc52Bt4ke/f2mtKeWG8szif/fVPARqeLMy6uOsVsGhj4n/IXZ0ai/4r9+0Lxksq8jnnjwts1SHoj+YPBB+OhjbzacKI40XHaZagfqLYYGhUpGPhnNocrGhmKfD44CCtXiRzTtet0TbbQ0WvG9mBekieeU=;qrwCjHTq8/QFORO1u5lr5A=="

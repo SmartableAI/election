@@ -129,9 +129,9 @@ related:
         height: 340
         isCached: true
   - title: "Facebook Suspends Donald Trump for Two Years"
-    excerpt: "The company said it would revisit the suspension two years from the date of its initial move to suspend him on Jan. 7, the day after the riot at the U.S. Capitol."
+    excerpt: "The company said it would revisit the decision two years from Jan. 7."
     publishedDateTime: 2021-06-04T15:53:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480?mod=hp_lead_pos2"
+    webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
     ampWebUrl: "https://www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
     type: article

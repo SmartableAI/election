@@ -2,62 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-05-29-pompeo-calls-biden-budget-proposal-smorgasbord-of-left-wing-activities.md",
-      "title": "Pompeo calls Biden budget proposal ‘smorgasbord of left-wing activities’",
-      "excerpt": "Former Secretary of State Mike Pompeo on Saturday described President Biden’s budget proposal as a “smorgasbord of left-wing activities” -- the costs of which, he warned, would be inflicted upon future generations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-T9XdhO-j3s/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-T9XdhO-j3s/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c68c707b-ea0a-444c-9b13-86f72acd99cc/b5fb0970-9acf-4cf8-b486-143b7510d448/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities.amp",
-      "publishedDateTime": "2021-05-29T13:58:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-29-wrong-and-un-american-biden-blasts-texas-republicans-sb7-voting-bill.md",
       "title": "‘Wrong and un-American’: Biden blasts Texas Republicans’ SB7 voting bill",
       "excerpt": "Governor has said he will sign restrictive voting bill while president laments effects on ‘Black and brown Americans’",
@@ -170,7 +114,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -748,6 +692,62 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-biden-white-house-progress-report-conspicuously-omits-school-re-openings.md",
+      "title": "Biden White House 'progress' report conspicuously omits school re-openings",
+      "excerpt": "A “progress” report put out on Instagram by the White House is touting the Biden administration’s “successes” on reducing COVID-19 cases and increasing vaccinations -- while not including other key issues like re-opening schools where the administration has struggled.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/egk1l8FeAQw/biden-white-house-progress-report-school-re-openings-omitted",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/egk1l8FeAQw/biden-white-house-progress-report-school-re-openings-omitted",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1942ec4c-ff0a-4f44-9440-03dd24b379da/6f59b55e-754e-4135-b63c-23c6a220d574/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-progress-report-school-re-openings-omitted.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-progress-report-school-re-openings-omitted.amp",
+      "publishedDateTime": "2021-05-28T05:53:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {

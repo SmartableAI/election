@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden won't form his own commission to study Capitol riot, White House says"
-excerpt: "The White House on Thursday shot down the idea of forming its own presidential commission to study the Jan. 6 attack on the Capitol, saying it is Congress’ “unique role” to carry out that investigation."
-publishedDateTime: 2021-06-03T21:26:42Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
-ampWebUrl: "https://www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+title: "Sen. Capito and Biden to talk again Monday on potential spending deal"
+excerpt: "President Biden and Sen. Shelley Moore Capito, R-W.Va., talked Friday in their effort to forge a bipartisan deal on infrastructure spending and they've agreed to reconvene on Monday, the senator's office said. "
+publishedDateTime: 2021-06-04T20:36:05Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wbxrkejdaHY/capito-biden-talk-again-monday-infrastructure"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wbxrkejdaHY/capito-biden-talk-again-monday-infrastructure"
+ampWebUrl: "https://www.foxnews.com/politics/capito-biden-talk-again-monday-infrastructure.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-biden-talk-again-monday-infrastructure.amp"
 type: article
-quality: 173
+quality: 175
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/AP21019774947253.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -79,21 +79,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Sen. Capito and Biden to talk again Monday on potential spending deal"
-    excerpt: "President Biden and Sen. Shelley Moore Capito, R-W.Va., talked Friday in their effort to forge a bipartisan deal on infrastructure spending and they've agreed to reconvene on Monday, the senator's office said. "
-    publishedDateTime: 2021-06-04T20:36:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wbxrkejdaHY/capito-biden-talk-again-monday-infrastructure"
-    ampWebUrl: "https://www.foxnews.com/politics/capito-biden-talk-again-monday-infrastructure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-biden-talk-again-monday-infrastructure.amp"
+  - title: "Biden won't form his own commission to study Capitol riot, White House says"
+    excerpt: "The White House on Thursday shot down the idea of forming its own presidential commission to study the Jan. 6 attack on the Capitol, saying it is Congress’ “unique role” to carry out that investigation."
+    publishedDateTime: 2021-06-03T21:26:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/AP21019774947253.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden Cabinet members avoid huge tax hits thanks to little-known federal law"
     excerpt: "Under Section 2634 of federal elections law sits a unique provision to help soften the financial blow of new administration officials suddenly selling off assets: certificates of divestiture."
@@ -222,6 +222,6 @@ related:
         height: 405
         isCached: true
 
-secured: "N45FEvX4HYyujzvWMXOFpb4l/qNNm15UWnlwoIm1TAotWNuKqi67vzAFN06uEp+71prq8VUpqaQGbvbQkX64RiCyXTz3RyLLSRrD1zJvTt/HsE03EsEU9KghqJ95b0RcuF5kkmnYXs1OI9xfda6S+viYRqfTbFMRh0R5wfIcTuRgKqUGsLJTo0BDoOBmTPg77g6uzpr53wmjn4TkMlJ6nJJ6AG3nE6zLJgBnc1VFNSrlMncRMLq8z7rhLAOyQNE7HvN5JIedJ2ochCzp78jg7WA4p6E0gfu+dWqcA37tk3knHawI6FXLjjvxk0XQJqbZqN1hpdQTizn3Jz4YI6loJo0q7Now35c24D07ahTG4c8=;IbXrePZ5cC7KpIHKDrPf8g=="
+secured: "hYHxQejdVOVwHyYdfqzGD48sEx5vQA4RCJpEyYPwp8WlXFqL29Do7aVkaYJ+drVvWio9HqjShXYOm7eFFDzBp9zUKd0sbGvztXPQpIr+s55j/m4kmv6zSCO0/CXJvaHnO7kq9IQC0ckvx/9E+8vyRM6YvpQX4slS7UcnxqWxxpRn2oU3gG6fN8gn5aumrVJeenbliLRgdYJgpRL/AXPNmNFUiT+nwjtGvt6KEGgMwaejTWbkOZilKlTnh+dhjGDdqyYviO5ODHACypvU5q5UdTtFf1foMB6aEGn7OEAHHWeAx27IwWYoPK1pfok7DcpuqrvOGqvgFoEu86FwWGpOYfz68HJByUjWsYtVkRtPjbM=;P1Vzai5s8UbJDM7YxDXShQ=="
 ---
 

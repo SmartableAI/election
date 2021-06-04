@@ -47,6 +47,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Facebook suspends Trump's account until 2023"
+    excerpt: "Posted . Facebook Inc on Friday suspended former U.S. President Donald Trump from its platform until at least January 202"
+    publishedDateTime: 2021-06-04T21:25:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPtTn?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60ba8e60e4b0653eea18781b-1622838880871?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "2T6W5oY2ic25pH1es/TXfDSP8WYrL6N9DdDAu8zWWxT2kT/IW+HiJCORFSSm8bF46ewWLBlvYQmtdoMDlL2njRB+Yh70cXzYB+oMb/88/wpfo9TdU3OR5/C6Q3cJKYyh+Zf0ZfLh7rxNYG3XlEg6ZvSF5TnglfzkmrkGcjuSN73abnHBUAOJmf63k2CAt9T6jZD08RwxXBMPb+FUE80d7d7q4bpyJZfmCKpZJyxYaSPQrQPtE4af+jwNCkvBVs8nBczBAs7qvivplx4rloPgpxtWtXGCk77fQPtERsC29gd34mQBq/e5DyT79E0od2Km884Ym9MRVc9NBOHBo72ka+tMIu8GdbKoLkYGobHYaHAZdquzZdGPLi3OTIbxK4Syao7WkLMBNvjVvdhtpEm34a0EqtVgKZ2BLc4pya2lqVgYOYLwRx5a+0fuwZN2C8wEECgWTW1so0fGSs1UgT3sbfjT0h1GBd7p2dgYJvYSymYFR9CBuJ6n7V1qwcsI+RBenFmaZYLx6JoMvQK0MAnDXQ==;2XWsIA+HVj+IAqVPgd3wqA=="
 ---

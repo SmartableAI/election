@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facebook Suspends Donald Trump for Two Years"
-excerpt: "The company said it would revisit the suspension two years from the date of its initial move to suspend him on Jan. 7, the day after the riot at the U.S. Capitol."
+excerpt: "The company said it would revisit the decision two years from Jan. 7."
 publishedDateTime: 2021-06-04T15:53:00Z
-originalUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480?mod=hp_lead_pos2"
-webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480?mod=hp_lead_pos2"
+originalUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
 ampWebUrl: "https://www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
 type: article
@@ -209,6 +209,6 @@ related:
         height: 405
         isCached: true
 
-secured: "Grg3SASta7nE8bPi6Sv650fQSeNrKeb02Lrb+Kwx/IyG6OZwYPetzKpeyq02HLbgY6HXHzSI2E+LZJkjgxT+iZI7go94W1OwI0b/w9YOXt0G60pOrWrwk4imuJi5b/GVqjnHDBLEMQw4z543hAJpHQBftqOsv62yKXL3LDBGcInZCn/+V4LOZ/NTwFYl2NQsFx38b5yAQmpWsIFMzBgpeggmqoEoa25sLkvp7Qx4z0Jh1NhtGugMhYUbEXX9knRX4gb6G0pd0DzQsvDvdsJpnXys2+BuGYgLMWUKnXnH8vtFeakFec2ZhPnnhjLgO7J8aQ0CMkABZJdSZsp1wfgqPjtXY8jDgUGjD+FovCYJq5rS00oFinHIP2/GcFkqF+b79PQtvg8H1k5py9DEtRoJCZtvjqiaYnUzsWm7kHBooapnPpP6hQsY5ADTyuHhuBFE/kfOJwBtVd3EhX5S0/mKYUD+w4+uW7xk/l600ubNxtCYuAPf0tc2RseGF+I94CA+vzvx2Vm+mlybY3vE0zN8/A==;Q4QCBVSkFRmANFydETKrCQ=="
+secured: "9mIjqb5ZEPRgoKxOZUP4CW+qFq+DHL0PQbu0HhzQ6r43ZJ0YFw+s63+EUpTtp3cCS3Fbvng38sCSYIn6KF0X6zpV2SQ/k/9C3XmWKfbM2XepcFuKkoItLetSGg4m4fzhTvDdTN8rgbmhDPEOrqxqDfrVfhsRC2yJJzN9Uou6yPY/BMUs94AXuXY/Gsyo/trlaztWPVw+XM/Rc6VD2qH8UcsOvYh7xeTbYudMKYmPkw2l6SuXhzyeQTCmjZGzze38loVPg09bB8RxyIOX86gWnCJOXxCac51KLcdjwF4ylFSD2nymhe3K9hBPI8uOBriOZRyKBIE301SYJe2yKs9zNuPQpxsmgfTebh7+tupaqWc=;ADjRRLblw1fZQcb/2ND1QQ=="
 ---
 

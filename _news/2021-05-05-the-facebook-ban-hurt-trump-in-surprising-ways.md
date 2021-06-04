@@ -144,6 +144,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Facebook extends Trump suspension for two years"
+    excerpt: "Facebook announced a two-year ban of former President Donald Trump from its platforms, including Instagram, until at least January 2023."
+    publishedDateTime: 2021-06-04T21:02:00Z
+    webUrl: "https://www.nbcnews.com/now/video/facebook-extends-trump-suspension-for-two-years-114347077726"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114347077726"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114347077726"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1622840486631_ott_now_fb_trump_210604_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "W9MxdtNDubgJ3ksdYppoXGvvU9BXDCpIprp7AqOc3H+Rf+25yYYX4NNXPYXaaEl3/OFvxxRashmWP7THldy3egkD5C9jPUppU3vV8BeYa/2R4hDsTM84Q7xJe8bvH2sa9nDbn6oxj1N8rYBendR/9Sokvo2aWGDtOWqtEe9jI8LUH+SkBv2QNfV16/f4F7qkDWz6pbLocWbI+WPPrPQan7p4bQNQYo52ZDwQkfNlzhuj7YP9s3XiUZNXYmll+fvUiq3LkoM9kBTFrmEhz9OOGdBgZy6CeV2htRldZm4ypG/yICUyT3TzXvDlqgddoI6IwY4ksDOWAhx9nUrf8pQDAK3JYl23UqKmoTo3QIOaiNp0540FsFxuE/z/QNy1eiKTGIcwjSd/6qCxB4GbpE67JWZ7+NVahQ9GrnvLgVUp6ECrJveOUCPCALOMWXaQyOX+257C0em/h3KyaAFCvYamVJTOZyP9qKipiQ4VfDCl1NQnt4vOhi6+XGqI5QtXTlDHwI11YAS7CH7uoEXzUMNMkA==;Hwp0nhQNDIlMQpGwSfRpSQ=="
 ---

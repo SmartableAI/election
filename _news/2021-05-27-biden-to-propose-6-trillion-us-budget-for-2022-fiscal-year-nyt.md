@@ -123,6 +123,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden’s claim of historic job creation at the start of his presidency needs context"
+    excerpt: "The reopening of the economy has played a major role in the historic number of people finding work during the first four months of Biden’s presidency."
+    publishedDateTime: 2021-06-04T20:15:00Z
+    webUrl: "https://www.khou.com/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+    ampWebUrl: "https://www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 69
+    images:
+      - url: "https://media.khou.com/assets/VERIFY/images/033e0954-f8c3-4046-a168-26f25df4bf60/033e0954-f8c3-4046-a168-26f25df4bf60_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "EfX7/aN+jvbWnc0uermoG5QRdH3W8HIMAEClrL03yXCtUDdlkqGKa454Ch1xH47INusl0X8DEfPFsIIwZu/IHL+HKX+dTw1i3kNKDXUct1V8taZBeY/oSSJLtGXXr0UqVki2rC6Gofcjyv3C5UcK38UG0vHDxHTDxpBFISmlWPPE6ccI0P5lWZh0Suq3oHGCRItkXfAN9re83dT5jf3Cpf5hfsOMcEDyT+eC/Pwj97ph9TSga46Fq0I1fdq6sS9AbyRYrwM7zduM8e/hO7CosHtXUdfCVnL3jiP6WmlTh/AZbK84r+EpVBN19e1XLrV3J2DhsGsJdXupnPjr1ON7KcjMbZsBVgA4yF6oYipVhVI=;hC1TzOM25WTWpBtehJozoQ=="
 ---

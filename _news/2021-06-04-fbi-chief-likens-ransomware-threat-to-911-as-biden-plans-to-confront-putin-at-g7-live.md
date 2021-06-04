@@ -3,8 +3,8 @@ category: news
 title: "FBI chief likens ransomware threat to 9/11 as Biden plans to confront Putin at G7 – live"
 excerpt: "Chris Wray compares hacking threat to challenge posed by September 11 attacks while Trump suspended from Facebook for two years – get the latest"
 publishedDateTime: 2021-06-04T15:57:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba59818f082e80569f6680"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba59818f082e80569f6680"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba52008f082e80569f65e6"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba52008f082e80569f65e6"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/076a3a3532aeb79c30b9842118ee02e382446af5/0_35_5282_3170/master/5282.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f7e3af7c9c142dc541851e1f6de30206"
+  - url: "https://i.guim.co.uk/img/media/6d23283704255b71f37f57a1fcb5c2fe60dc8cd4/0_119_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=561831e6ccd9fcd5523f7f24d9a7fad3"
     width: 600
     height: 360
     isCached: true
@@ -199,6 +199,6 @@ related:
         height: 3934
         isCached: true
 
-secured: "j5ceQ9Ta+0J3+E7/0eB+0DzyPvp1Mrim7ZBNg4vhLMHHZKnoeCk0C1pq88oakFkCygEsS3wQuLaREzjHdY5Lw6XCwSFWq/c6s4Ze1vOqMhXB0MoEdu1qqRdzy1Wn6Dk6WlzUZ2mMwwtZBtzx3ieuWLK6lhsTC7Et/NBbKJuha54RBRs15D3wKyTdy4XOM+qLUSPcgvzwVl7s4x5H0Nd0S8WJs46bGO6XZGUKTtuKnjNGLjbMA/EIsnmSPYkJskJRTAPRAXYtbqpSQnNyB4d749GvC+uHQcGs/P3gsExaatG4zymDrVaX7y1+nRylW4yVweRHjNSBnNPuZSc3sSOfLlwFWVtTDg8DXty7OrroxCc=;n0BWmtj33Wzi7ngcFH8PAQ=="
+secured: "vC76KxC/rt8J8jXk51AmG6yqGPtQF7+W2pBD/BylGicjHkps/UnndLhPHLSFPLqQ43lWWiVY6o755geOZtjqOav0QvRtTHMpaQx+i84Vo/EbINRdest/IGofSeQ9ymzTRgb89y7B9BVO5uWqNHZM/vipaSMuC1/zmknhA+k29woYV2Q0oGBoc/yCVbr3K5yCmYPjmVMPLw1wcfttN58JlGHW2OOsgtCYRu3Q2xuWwPMR+pOJbtcCxXZ8G3q7JiDVXMJ1v8mDnqrfubNzcNyYcCtbQiloJIcOwO6E435nE2lTjnRD+kkYJvxOn3C2AFTEt9MpDDYbbcea3Lg6SgIcILJixfj/uaZHRluOph5wkjE=;Avh8gLAX3sNPm+OL9pYn5w=="
 ---
 

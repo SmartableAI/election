@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/01/sean-hannity-fox-new
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/01/sean-hannity-fox-news-trump-campaign-ad"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook suspends Trump's account until 2023"
+    excerpt: "Posted . Facebook Inc on Friday suspended former U.S. President Donald Trump from its platform until at least January 202"
+    publishedDateTime: 2021-06-04T21:25:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPtTn?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60ba8e60e4b0653eea18781b-1622838880871?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sean Hannity helped write a Trump campaign ad that cost $1.5 million to make, aired only once, and was 'mocked mercilessly,' book says"
     excerpt: "\"I was not involved that much. Anybody who said that is full of shit,\" Hannity told WSJ's Michael Bender."
     publishedDateTime: 2021-06-01T13:40:00Z
