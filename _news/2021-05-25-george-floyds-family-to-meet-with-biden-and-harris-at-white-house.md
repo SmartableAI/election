@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html"
 type: article
 quality: 200
-heat: 700
+heat: 720
 published: true
 
 provider:
@@ -319,6 +319,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_33/3403980/200812-kamala-harris-jm-into-america-1026-3403980.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Biden Asks Harris to Lead Voting Rights Effort"
+    excerpt: "President Biden announced on Tuesday during his visit to Tulsa, Okla., that he had asked Vice President Kamala Harris to lead the Democratic Party’s efforts to protect and expand voting rights."
+    publishedDateTime: 2021-06-03T13:53:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007795108/biden-tulsa-harris-voting-rights.html?playlistId=video/us-politics"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/02/us/02new-washington-briefing-voting-rights/02new-washington-briefing-voting-rights-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
   - title: "'We have to act': Biden meets with George Floyd's family on anniversary of his murder"
     excerpt: "The president had said he hoped to mark the solemn occasion by signing the police reform bill named after Floyd, but that legislation has not passed yet."

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-04-next-stop-on-donald-trumps-political-comeback-tour-dallas-in-july-for-cpac.md",
+      "title": "Next stop on Donald Trump’s political comeback tour: Dallas in July for CPAC",
+      "excerpt": "Donald Trump will be in Dallas in July to appear at a major conservative gathering, organizers said Thursday — a fresh spotlight in a",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/news/politics/2021/06/03/next-stop-on-donald-trump-comeback-tour-dallas-in-july-for-cpac/",
+      "originalUrl": "https://www.dallasnews.com/news/politics/2021/06/03/next-stop-on-donald-trump-comeback-tour-dallas-in-july-for-cpac/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/lUN-Da5YC3ztZgVvz6kpg1TM6QE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/TIR3JXQ7FYZRFHCZZ43YLIGUMY.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/news/politics/2021/06/03/next-stop-on-donald-trump-comeback-tour-dallas-in-july-for-cpac/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/06/03/next-stop-on-donald-trump-comeback-tour-dallas-in-july-for-cpac/?outputType=amp",
+      "publishedDateTime": "2021-06-04T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-after-2-year-battle-house-panel-to-interview-trump-counsel-mcgahn.md",
       "title": "After 2-year battle, House panel to interview Trump counsel McGahn",
       "excerpt": "His interview with the Judiciary Committee comes two years after House Democrats originally sought his testimony as part of investigations into former President Donald Trump.",
@@ -382,7 +425,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1422,7 +1465,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1474,7 +1517,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1505,49 +1548,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-mcconnell-to-trump-whats-a-little-insurrection-between-friends.md",
-      "title": "McConnell to Trump: What’s a Little Insurrection Between Friends?",
-      "excerpt": "Mitch McConnell gave his members permission to vote to impeach Trump, and even briefly entertained the possibility of joining them. By now, whatever defiant impulse the party’s establishment harbored has died down to the point where a former officeholder merely hinting that Trump is politically optimal rates as a news story.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/a14/14e/8711801fbf6ea18d66d6e885b9b0164d4a-ni-trump-mcconnell.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "publishedDateTime": "2021-05-28T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

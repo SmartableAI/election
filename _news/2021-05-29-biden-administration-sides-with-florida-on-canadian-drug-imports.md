@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden touts May jobs numbers as he pushes for infrastructure funding"
+    excerpt: "President Joe Biden on Friday touted the economic progress the US has made in its recovery from the coronavirus pandemic after the government reported 559,000 jobs were added in May.\n    \n"
+    publishedDateTime: 2021-06-04T15:32:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-6hLGDPv0yk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/biden-may-jobs-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/biden-may-jobs-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601163222-03-biden-tulsa-speech-0601-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration won't seek to rejoin Open Skies Treaty after 2020 exit"
     excerpt: "The Biden administration will not seek to reenter the Open Skies Treaty with Russia in response to that country's \"failure to take any actions to return to compliance,\" a State Department spokesperson said Thursday.\n    \n"
     publishedDateTime: 2021-05-27T21:57:49Z

@@ -3,8 +3,8 @@ category: news
 title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
 excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
 publishedDateTime: 2021-06-02T17:02:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/b05be610aa796336ffd355911ab26938/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/b05be610aa796336ffd355911ab26938/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/b05be610aa796336ffd355911ab26938/HARRIS-LANDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/009facc2f199ecbb7b4c0affa25233fc/HARRIS-LANDER.jpg"
     width: 650
-    height: 432
+    height: 433
     isCached: true
 
 related:
@@ -114,6 +114,6 @@ related:
         height: 324
         isCached: true
 
-secured: "GqCkJFv7mK0WhfjbkkMT+P1tiM2V+Ojvfz+I1EO8WTKLwJlCduxlOOamADRlVclpu6mO6PY6wcmzUoqahG/egL7UWl8ePem7Q5kE6+5Hup2bzxKcCoRkP68UAFwyKInUJCmH34ZW+x4Gh3Sf+A0GNLWjgUk2dVa02mMX4sPxXNkbIEUJabbWQu5hOfFb/2qide5/hyFHUaTFIaBALaQJ4rtBB5ot8fs0naDC5gKTr5EWVmZ+9OJXhDLmsqkEJ32FUx6+0l5gz0VPD9LnVA5OO/o9FYjFWpNij9sp4mamm6UKAfcZZAjjT2O4mPETvflp0oWGdOpHjiRYvzosfItAqkSzPEGfCNxGONPmTv/c54k=;r95Zudrz/L7+AqkHiOmMRg=="
+secured: "xSwTJ6Ya/9/W3u3LCCCirYDPpaWla6ql/iEHgCNpBImxC3w4IznDPSfthE3nr+ctvk/60v9vQDGiNreOU6RRDWzRzT8dtsVYc6B7do5eIGFzxJTaGJxoaTLT53SE5YEj7minwXw9pVKj5Tan/MNevP2hK11Cya091OzbqnuiJt/JJeUdaa0hdcvTNhmLKSc1yvq3rax/W8/xUP21Vg8u2j78TOPUCot5BvpFMTlabdZW+j2vRurAiIO0Ucbo6gpm9JDm5Q3qSEkJQsxlawuTzQK1b1csQTwGvQpd294lvSA7fG8eONdONfSEu09vKnxwzx16fMx3PRgfvZjRPr8eiowRBDzu8jP7vfyPuiGxtv8=;Tnwq6XsRHfGk6Cg/h2EBdw=="
 ---
 

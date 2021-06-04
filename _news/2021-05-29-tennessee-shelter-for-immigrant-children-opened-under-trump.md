@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 1440
         height: 1022
         isCached: true
+  - title: "After 2-Year Battle, House Panel to Interview Trump Counsel"
+    excerpt: "The House Judiciary Committee is poised to question former White House counsel Don McGahn behind closed doors on Friday, two years after House Democrats originally sought his testimony as part of investigations into former President Donald Trump."
+    publishedDateTime: 2021-06-04T13:47:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-04/after-2-year-battle-house-panel-to-interview-trump-counsel"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-04/after-2-year-battle-house-panel-to-interview-trump-counsel?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-04/after-2-year-battle-house-panel-to-interview-trump-counsel?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "n7yfBrOaJbKVd4BlRy/W/8zv2r750rA/EYHb7+0puFoBiJ/VyL/piDYfIpHTL0wYS/9UISEiDaq7OD7ZHhACX/hFuqJdhGSGAmFd6n0Y6hxBcdWs0qoqAwZiS6sx4cqKoXVwTaggcYZXDgOxtfswxhmRhuqusYeAlGAU4z9IrKwYxDDVs/rZdIrFgKW1kLAmbqpHQUG8FBhy/B8SY2Ru6PF1yscZC9NZJWKQqJZ6m8QqoWg5538lF8rkEaICD4ejOMGxaQsv0yVY5O4uritszBEbqP+VfYbGCLDI3W+cpoOpzQJ6A+B39e2kgCIrUE7r25ZgozXMFGJw2xfi1/CFaIXe9IHSlYl66y7OVPJXuOM=;NxApFV5nqWWX5xjcm3TXVw=="
 ---

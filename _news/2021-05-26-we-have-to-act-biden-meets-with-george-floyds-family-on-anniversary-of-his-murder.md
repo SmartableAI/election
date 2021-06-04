@@ -336,6 +336,20 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Biden Asks Harris to Lead Voting Rights Effort"
+    excerpt: "President Biden announced on Tuesday during his visit to Tulsa, Okla., that he had asked Vice President Kamala Harris to lead the Democratic Party’s efforts to protect and expand voting rights."
+    publishedDateTime: 2021-06-03T13:53:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007795108/biden-tulsa-harris-voting-rights.html?playlistId=video/us-politics"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/02/us/02new-washington-briefing-voting-rights/02new-washington-briefing-voting-rights-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris broke multiple barriers and found a tricky balancing act on the other side"
     excerpt: "Ami Bera described to Kamala Harris how he felt when he saw the ubiquitous photo that accompanied the coverage of her selection as vice president, of her as a child standing next to her mother clad in a traditional Indian sari."
     publishedDateTime: 2021-05-18T08:45:00Z

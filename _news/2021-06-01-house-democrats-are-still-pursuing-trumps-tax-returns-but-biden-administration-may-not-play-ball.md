@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democrats-biden-play-ball/index.html"
 type: article
 quality: 177
-heat: 717
+heat: 737
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602164329-rehoboth-beach-july-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden touts May jobs numbers as he pushes for infrastructure funding"
+    excerpt: "President Joe Biden on Friday touted the economic progress the US has made in its recovery from the coronavirus pandemic after the government reported 559,000 jobs were added in May.\n    \n"
+    publishedDateTime: 2021-06-04T15:32:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-6hLGDPv0yk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/biden-may-jobs-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/biden-may-jobs-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601163222-03-biden-tulsa-speech-0601-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

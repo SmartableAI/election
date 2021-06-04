@@ -63,7 +63,18 @@ related:
         width: 1440
         height: 1022
         isCached: true
+  - title: "After 2-Year Battle, House Panel to Interview Trump Counsel"
+    excerpt: "The House Judiciary Committee is poised to question former White House counsel Don McGahn behind closed doors on Friday, two years after House Democrats originally sought his testimony as part of investigations into former President Donald Trump."
+    publishedDateTime: 2021-06-04T13:47:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-04/after-2-year-battle-house-panel-to-interview-trump-counsel"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-04/after-2-year-battle-house-panel-to-interview-trump-counsel?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-04/after-2-year-battle-house-panel-to-interview-trump-counsel?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
-secured: "HvS5kZDYl3O3vxW4eXr1sfDpyQgh1bx0jy3lweXvxcB2sOCR14XI9k5N/+hpGVYujV7SykiMvUcQRbcZjl+ypnu1ERMmq3cnoDPx2xNuQLuDQteOczlitkX8qWI8QCysDDd7O8ip1ZOMnwUTiRKPhjtuZvBOGo3EI2OVj8TM9CbU6EHWHvtCaYXzNUZk4LXGIu1bqk4WO6thniRWJDI0txoD/vjqZeFYhcXASISydbeO6igr6WZusn2s10CFaJbesH5tRJUHqgVIyJvJDM3eYHDSw8VGzp2LE6sZ9bPTd80TIvBaQIklp37GLK8At2l4eIVBPWjstIQ1wXlLTzV4fbxXeIDcCYr6pvpQIePcNpk=;Kh9K7xMOoB1fTPttHqikuA=="
+secured: "vqqv7SvLWKzQp6PyybPmexovOhHIP6PS1Mn7NiAND3YEyvBY9ZlGJHcxe92mSaersb20SuTF8BnLiJj+aBooc6ON1EgUvcAW8dUpaduu9amYHH9bENUkUbqW2RST/8EksWs/eEdzaoBxizgYT2U7KLEFDGudngAHbZC2SbEhTQKhOGZNlGm6Pq15RSkgeRpIbPxUjPJz9gOV42LzvudAL7tM6w3rXkYCME8gvqs5B8UT3ESUy5qt6L5cmpHEh7xVZAHBdpNOvtFRNA/B/lEQ3w0u/Sq1KZfIgTdl3fyb4zbpPCU3VHwOxJqcSUlfCIzGctNlcspgAD17JfgRGchTiaZTixO/sxvfSEIESosKhx2C3FuJjpQJ51rIUCvxzH50aKOx3p0Msx1lTh1SFsydzK1J5nC38OFfizD1WobaCeQb7f241RNfmi0MezeiLAjq0Z+MrBGgNW5CDwwoIMrvuPaHikXe+6OpLa6ek6K3YxNHdKArPQ3FY78XjyLlPTiZDli7eddOM2FbN6ykYDgDqg==;dCg8uPIVSwetr77/alN89g=="
 ---
 

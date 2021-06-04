@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/29/trump-lafayette-squa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bargain hunters pounce as Trump condo prices hit decade lows"
+    excerpt: "Bargain hunters are scooping up units in Trump buildings as hostility toward Donald Trump combines with the pandemic to push prices for condos and hotel rooms to decade lows"
+    publishedDateTime: 2021-06-04T15:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/bargain-hunters-pounce-trump-condo-prices-hit-decade-78086865"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/bargain-hunters-pounce-trump-condo-prices-hit-decade-78086865"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/bargain-hunters-pounce-trump-condo-prices-hit-decade-78086865"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_02df0797f603407287dc1a87bb5753b4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "DOJ asks judge to dismiss cases against Trump, Barr for Lafayette Square clearing"
     excerpt: "Department of Justice lawyers asked a federal judge to dismiss lawsuits against former President Trump, former attorney general William Barr and other administration officials for the forced clearing"
     publishedDateTime: 2021-05-29T11:52:00Z

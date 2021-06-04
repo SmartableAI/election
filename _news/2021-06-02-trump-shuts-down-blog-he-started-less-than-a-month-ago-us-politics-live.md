@@ -287,22 +287,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "After 2-year battle, House panel to interview Trump counsel"
-    excerpt: "House Democrats — then investigating whether Trump tried to obstruct the Justice Department’s probes into his presidential campaign’s ties to Russia — originally sued after McGahn defied an April 2019 subpoena on Trump’s orders."
-    publishedDateTime: 2021-06-04T04:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/year-battle-house-panel-interview-trump-counsel-78078272"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/year-battle-house-panel-interview-trump-counsel-78078272"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/year-battle-house-panel-interview-trump-counsel-78078272"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e898e60ec5ce4b5abebf8aca2ab90978_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Justice Department appeals judge’s order to release Trump obstruction memo"
     excerpt: "The Biden administration will appeal a judge’s order to release a memo on whether former President Trump obstructed justice during the Russia probe."
     publishedDateTime: 2021-05-25T08:06:00Z
