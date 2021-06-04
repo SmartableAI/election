@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden administration will expand union rights for 46,000 TSA officers"
+    excerpt: "The U.S. Homeland Security Department said on Thursday that 46,000 Transportation Security Administration (TSA) officers will be eligible for expanded union rights and the department will move to boost pay for frontline airport screeners."
+    publishedDateTime: 2021-06-04T03:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-security-airports-idUSKCN2DF2I8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DF2I8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DF2I8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210604&t=2&i=1564434157&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5218T"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Joe Biden's Proposed Budget Would Increase Federal Spending to Equal 25% of U.S. Economy, Most Since WWII"
     excerpt: "The New York Times first obtained documents about the budget request, reporting that Biden will call for total spending to rise to $8.2 trillion by 2031 with deficits topping $1.3 billion throughout the decade."
     publishedDateTime: 2021-05-28T17:42:00Z

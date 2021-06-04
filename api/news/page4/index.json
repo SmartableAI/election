@@ -114,58 +114,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-29-schumer-donald-trump-is-a-bane-to-our-democracy.md",
-      "title": "Schumer: Donald Trump is a 'bane' to our democracy",
-      "excerpt": "Senate Majority Leader Chuck Schumer slammed Republicans after their filibuster blocked a bill to create a commission to probe the riot at the U.S. Capitol. He blamed fear of Donald Trump. (May 28)",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/05/28/schumer-donald-trump-bane-our-democracy/5250518001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/05/28/schumer-donald-trump-bane-our-democracy/5250518001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/fe508e67-6898-40b0-9dc7-85082854fbf3_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-28-harris-tells-navy-graduates-us-is-entering-a-new-era-after-covid-19.md",
       "title": "Harris tells Navy graduates US is entering a 'new era' after COVID-19",
       "excerpt": "Vice President Kamala Harris told Navy graduates on Friday that the U.S. and the world are entering a \"new age\" after COVID-19, as she also touched on topics including climate change and cybersecurity.",
@@ -1356,6 +1304,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-us-vp-harris-to-meet-companies-groups-to-push-central-america-economic-growth.md",
+      "title": "U.S. VP Harris to meet companies, groups to push Central America economic growth",
+      "excerpt": "U.S. Vice President Kamala Harris will meet top officials from 12 companies and groups including Microsoft Corp (MSFT.O), Mastercard (MA.N) and the World Economic Forum on Thursday to promote economic opportunity in Central America's Northern Triangle countries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/us-vp-harris-meet-companies-groups-push-central-america-economic-growth-2021-05-27/",
+      "originalUrl": "https://www.reuters.com/business/us-vp-harris-meet-companies-groups-push-central-america-economic-growth-2021-05-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/6_n-ITQL8kzEbhcIojQrH-xzRow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WE6HSFDBGVIV3GKOVV3NHHX2WA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     }
   ],

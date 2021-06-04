@@ -77,6 +77,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Queen to meet Joe Biden at Windsor Castle on 13 June"
+    excerpt: "US president and first lady in the UK for G7 summit, his first foreign engagement since taking office"
+    publishedDateTime: 2021-06-03T18:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/queen-to-meet-president-biden-at-windsor-castle-in-june"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/queen-to-meet-president-biden-at-windsor-castle-in-june"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/queen-to-meet-president-biden-at-windsor-castle-in-june"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a1a69e8b9965d8a70ec6bcdb2cb5a4a9aa1cfa62/0_87_4046_2429/master/4046.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2c7eb4ad7129767b4d5f524e6a76edfe"
+        width: 600
+        height: 360
+        isCached: true
   - title: "In Biden Communion debate, US bishops' show willingness to test Pope Francis"
     excerpt: "But according to some observers, the controversy is less about the sacrament than it is about the lack of communion among the U.S. bishops themselves and between the U.S. conference and the Vatican. “This is more about Pope Francis than it is about Joe Biden,"
     publishedDateTime: 2021-05-28T21:42:00Z

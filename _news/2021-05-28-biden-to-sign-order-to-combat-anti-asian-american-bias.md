@@ -105,19 +105,19 @@ related:
         isCached: true
   - title: "Biden's pledge on media freedom may be easier said than done"
     excerpt: "President Joe Biden’s stated commitment to abandoning the practice of spying on reporters has won support from press freedom groups"
-    publishedDateTime: 2021-06-03T21:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
+    publishedDateTime: 2021-06-04T02:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_8abda9546d0640b6840115f405db4c7b_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NUCKAIWEBMI6XCNEW6XCFKQZHY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden's big budget comes with a modest growth outlook for an aging country"
     excerpt: "President Joe Biden's first budget proposal comes with a big price tag - at $6 trillion, roughly 50% higher than pre-COVID-19 federal spending - but, at least for now, projects a relatively modest long-term lift to the economy,"

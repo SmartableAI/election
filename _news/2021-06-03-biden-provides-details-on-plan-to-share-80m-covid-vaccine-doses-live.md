@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-repub
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 117
     images:
       - url: "https://i.guim.co.uk/img/media/88391a34f332ac8b3d05b82d38153a38f9d5672a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84d47d854adfd84f347375c94e376574"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden provides details on plan to share 80m Covid vaccine doses globally – as it happened"
+    excerpt: "President offers details, explaining how the first 25m doses will be disbursed, and says ‘We are sharing these vaccines to save lives’ – follow the latest"
+    publishedDateTime: 2021-06-04T00:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8eb578f08b9889b367d18"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/e12d9e9cd48b8789d15d47a0c8e752777252b3af/0_261_7804_4682/master/7804.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ffedaf4586025e10f958c141c511648"
         width: 600
         height: 360
         isCached: true

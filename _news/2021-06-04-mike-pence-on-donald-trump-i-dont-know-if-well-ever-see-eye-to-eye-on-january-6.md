@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/index.html"
 type: article
 quality: 193
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -64,7 +64,23 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence says he and Trump may never see 'eye to eye' on Jan. 6 riot"
+    excerpt: "Former Vice President Mike Pence addressed the Jan. 6 pro-Trump riot attack of the Capitol saying that he and former President Donald Trump may never see \"eye to eye\" on the event."
+    publishedDateTime: 2021-06-04T02:53:00Z
+    webUrl: "https://www.nbcnews.com/video/pence-says-he-and-trump-may-never-see-eye-to-eye-on-jan-6-riot-114310213715"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114310213715"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114310213715"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/Pence_on_Jan_6th.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "WZNzpfOdN68hw26o7iKKwQ+uIV7asipp1d8DgXyPJ2NClOqWmdbpoGzdOOkqkID9U3+AtcPgFBWCLhh9LN9qKFfj/PPAg1ywIVVuZIO2N5xCoawqp4fZyYl7+ROEHk7RZWByvjCwNL/DajMxFlYxJZQIHxFCMcIHWHNbEmfLOTO6QbD8pGG+smtJ3LtWd4FPHZiLFudzoBW0MFoVfvnpyAQsYU8GCtHHDLNjvf9/cbifDB+2Xyo3S8l5Yj/RrXhFPhgEfd1mUBjH6KVSrsulnQmt6rFpB1usKiEFBYbSw0pCjQmOtBsxK7XORu7rap1Vk6wpqT5YDg2aZlHFNDyk8Mqqaw2QFM2bTPwTEqrcgT4=;S+oJ35ItWh69sntgI8/+3A=="
+secured: "Er8T9dI7nArjAWc25BKvcVf2pInGyHcgg59It76UwDKP0iQO6NVqP3bddbwQzMmc709N+II84E48lqBM0x9u+2+nGrL9oSCavZTmxdS9ZxC1RXUNfuDtexZJWxVjsOTHlKfgvWsk9IXEikbDvsckBXyo8CPaNfIyaQbjdniOuqjF35hc65UeuY/Q5qUryTeq94BsGXszdZcxfVl9gP90eTTbHxUZtg8F7s+2DOQE3n0irypYAuHf0CekoMBUM4T/ATqQMb1erH7o9b0lfftuhalQuPtyIIVVOrLakCy/JK2+Jobsj9vX+fX9AOlk9YDvLa6YIO93Yne2nvVFY51MC7y/OKXY6nB0Hm/kazFxkXQ=;egXC7Fr5fo3Y9B2KIZ6dJw=="
 ---
 

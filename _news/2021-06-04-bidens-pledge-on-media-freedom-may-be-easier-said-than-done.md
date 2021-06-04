@@ -2,21 +2,21 @@
 category: news
 title: "Biden's pledge on media freedom may be easier said than done"
 excerpt: "President Joe Biden’s stated commitment to abandoning the practice of spying on reporters has won support from press freedom groups"
-publishedDateTime: 2021-06-03T21:20:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
-webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
+publishedDateTime: 2021-06-04T02:44:00Z
+originalUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html"
+webUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bidens-pledge-on-media-freedom-may-be-easier-said-than-done/2021/06/03/bb44914e-c4af-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_8abda9546d0640b6840115f405db4c7b_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NUCKAIWEBMI6XCNEW6XCFKQZHY.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -273,6 +273,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Motl0uOeQEGUJsfdFOoq85Ghkb7jhAUe3awq6SPyWsgm4TJMYdgp52oyrxvtuZyC+/JFixU8Co6Lbj68IEBvYeMyiIYYHDJGcvpkZbOx/7pi+GEc4AVkPYIuHAACNGVFQR0IQoARDWqmfR68K0CzPytJXqbW4zRqLKXsqqL34bTF1wjvlBULFpga6Ij99wumEDI1HBx4f93lpkVQfAZgvuLH3KeU/IZSDoF7nerpMQQ2GsZhqIcllLjx8pRf3s85YNVvQrP3YNaGCcrTuiKkpoATjoxKJ2qgGCIAnXWN9w34VsZQRsy1avytg1rTJe/plZSuwtGU/ASkO7dhxITqfnlmBJfdzYK8hg6Vfni4V8Gna0a2r8Gg+BRmCHZJIKJEzEvqaq5uaJREud4RSzqM5X51Alta2OB/ESWLR1olzTn6Nn0YXkdhwGE/S+b7/gDeDCLsa1aZl6lYdU+/J7wJGclPrAx6phnhrfKmfx+BZZruvwrK+iWpc/LAU93LXKIpnTwo+QLe4R039QLjdspw9Q==;JvYuMYMaUR/iDUTV7slxEQ=="
+secured: "bPFQApyqJiD5+g8i3BaSjClU0JY/ov68vIV5fmYl+9aEI2BQw8mqKj/3DZkhjstary/nhxQxd7XbZsjnLJX4Z7CZGrraX0ku5hoO3saCGnAGh7/8S5aXVa8QerNsjCXxYk5K6S8RQRkzb5frTZMsTjRdcocC2IBk0hLkGoqraMJY7NXvi5l1U5zGB01EqHDM7krjyO0UjQEYiSFUx9RRsyhabBTRJX/9hS0bJj+/BY+d8PCK8K4Yl8hGu8ObEqs+ULo8eD8hU+GD35MI9/8k2YxCOduwT8QZ2tYD41zFcqgMbCY+I7gVuDsynUgJuJvTs35mAY4arUrFxdbcCVcdjbiMDJufeiup2krGG2WUVM4=;+HQsppfaE35AwTCZKesXNQ=="
 ---
 

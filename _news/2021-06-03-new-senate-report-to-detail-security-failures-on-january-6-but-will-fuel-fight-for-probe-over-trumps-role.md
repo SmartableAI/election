@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence says he and Trump may never see 'eye to eye' on Jan. 6 riot"
+    excerpt: "Former Vice President Mike Pence addressed the Jan. 6 pro-Trump riot attack of the Capitol saying that he and former President Donald Trump may never see \"eye to eye\" on the event."
+    publishedDateTime: 2021-06-04T02:53:00Z
+    webUrl: "https://www.nbcnews.com/video/pence-says-he-and-trump-may-never-see-eye-to-eye-on-jan-6-riot-114310213715"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114310213715"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114310213715"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/Pence_on_Jan_6th.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "YoI97FwDuPICIJsmWalJK7CPtLdgu5mFu9bENQVm4e/YjSB98AWW2e3WVr3qvUA950Sb7dM2R5mz2kY/kqiKDbOkpcFZiiQe/jUrkhET3FGgOW+MVtCHE51/pciZCSnpC/9wyq+8CEqmBURxLAa8fAPvG2l8zhGMfg6eBU5Jz6hwNjyYLzL1t2rN9GCep1wgWSVgkJ+iRusLDqgtrwl6UzHr9iVaTIRDFeteIfCIALkIi9Rot9fOHl9Q2L4nxLhtPz5jOFEC6dTWRwN/xGwqWJW3AO9kXi+f4FdK5WE6z7AoGAP5KJsGHrozELESWNrHcNToHelHyaUbfU4V1ErhK91d9AK3q0WIhCJ7eEIRaq4=;EHwmmX5GZ+zoVMMCWeplGA=="
 ---
