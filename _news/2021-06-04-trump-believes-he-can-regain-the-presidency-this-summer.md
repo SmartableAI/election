@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Facebook will end special treatment for politicians after Trump ban - report"
+    excerpt: "Reported change comes after the Facebook oversight board said that the same rules should apply to all users"
+    publishedDateTime: 2021-06-03T21:23:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/jun/03/facebook-content-moderation-trump-ban"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/jun/03/facebook-content-moderation-trump-ban"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jun/03/facebook-content-moderation-trump-ban"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/56e3613f35b98dddab767517b6385fc637cfeaad/0_18_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33da07d376c7aee7efd80937b10ca43e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Fact Check-Trump does not own half of Moderna, as posts claim"
     excerpt: "Moderna, one of the pharmaceutical companies spearheading COVID-19 vaccination efforts in the United States, is not half owned by former president Donald Trump, as posts on social media claim."
     publishedDateTime: 2021-06-02T20:15:00Z

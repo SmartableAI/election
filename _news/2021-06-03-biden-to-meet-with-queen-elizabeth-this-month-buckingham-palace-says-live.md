@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden to meet with Queen Elizabeth this month, Buckingham Palace says – live"
-excerpt: "White House confirms president will meet the queen on 13 June when he travels to the UK for the G-7 summit"
-publishedDateTime: 2021-06-03T14:59:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8eb578f08b9889b367d18"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8eb578f08b9889b367d18"
+excerpt: "Announcement indicates president will meet with the queen on 13 June when he travels to the UK for the G-7 summit"
+publishedDateTime: 2021-06-03T14:52:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8dd918f082ac930ae9245"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8dd918f082ac930ae9245"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
@@ -64,9 +64,9 @@ related:
         height: 558
         isCached: true
   - title: "UK's Queen Elizabeth to meet President Biden at Windsor Castle"
-    excerpt: "Queen Elizabeth will meet U.S. President Joe Biden and First Lady Jill Biden at her Windsor Castle home at the conclusion of the G7 summit which begins in Britain next week, Buckingham Palace said on Thursday."
+    excerpt: "Britain's Queen Elizabeth will meet U.S. President Joe Biden and First Lady Jill Biden at Windsor Castle on June 13, Buckingham Palace said on Thursday."
     publishedDateTime: 2021-06-03T15:10:00Z
-    webUrl: "https://www.reuters.com/article/uk-g7-summit-royals/uks-queen-elizabeth-to-meet-president-biden-at-windsor-castle-idUSKCN2DF13M"
+    webUrl: "https://www.reuters.com/article/worldNews/idUSKCN2DF13T"
     type: article
     provider:
       name: Reuters
@@ -78,6 +78,6 @@ related:
         height: 628
         isCached: true
 
-secured: "L/CJGNIRhLHtCUKJ2mKdA3gYsynUt9aWJdEWk0rTQVJWLGG0jGockdhmco9HlW58Y2Ez0et5cGBvHf8RQyRw6qwQtqiW3+eBXQXLU4pEieFA5UYy4NeGCYUuwcFhGzJ9KYB2iX8Vm+NBI/BwY/eCznZ3Py+J4EaZkjPlug+ZYN5KNB5OlqKxnxjCMSBU+IJolO8caYruOetVBQ8R6+tv6VMfJPbcXzy+810gAKUCb99dqYVeBNV6r8CLw2deIHmy4Ex0EtIzoy4ua2tlu5GDF9/s/aXF57BfV8w0YZvDFIaXiHpYD17CwkAqLDWO86utvBfE/wsr3cvxhYsSrSD4udlzGwmGaWtEAsMQlEIsO7c=;5O9g2G7Ah/TolKmRzkyrXg=="
+secured: "APMdQre2meVwRxIqLm7dvCGDqFNAy+w+y5yCbZJvBHzircZJkepJtXWRy9pvyReUoSWTOmfl2bNVwW4HmLCn3y41e5B8STl/1QxSSSYemNcJVEvgB4hkdAZ1Xsj8Zl8FFjbO6doDtAjg9JM5WrkZw+aT2ATmmGZe0vmob7WClFCvrCb652JkitYeLj3oXF58slIO3dDjjFAl78su3MNjmFhNpXxS6YLonizqhxSmRGLpox64iEdEVZrnKwAsDUAYa5j//ec6o594IOrEHEOrjew8lIHL3LuodCi54SlsKNZkJLqBhBXjOHXgza+KwsZ0cPUYIgHapHYAay4xJQ2/G3JcYZht86xAyseR+AbW8Js=;A5A/NxKlV7Tz+M5jMbQT6A=="
 ---
 

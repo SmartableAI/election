@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Donald Trump to speak at Dallas CPAC in July"
+    excerpt: "Texas will be getting a visit from No. 45 this summer. Former President Trump will be giving a speech at the Conservative Political Action Conference in Dallas."
+    publishedDateTime: 2021-06-03T23:54:00Z
+    webUrl: "https://nypost.com/2021/06/03/donald-trump-to-speak-at-dallas-cpac-in-july/"
+    ampWebUrl: "https://nypost.com/2021/06/03/donald-trump-to-speak-at-dallas-cpac-in-july/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/donald-trump-to-speak-at-dallas-cpac-in-july/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-dallas.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "JRXqYiV+KprhXCZ0di/mgWu5t0dIed4AAVEasuY+4auFdSmSr/+cH6z/E06wnzGVt+CxbyCkyFkND7dNFBxXKRN5WB5Ixd/bL3n7pGBb4N5w45MdXG9KVg/nPUKDQCyXuash7WlRYBto1jQ7gl96ody9EL+MImwdCwOsz7GDXrKdlqqo9mKN4f2QcdIf56tzJDXWnEeMbYAAf9fUXT2AsBFzmwwMSo7ZgvgSURJW5iNDcyhTkqMXi3LyFRtPm8ITKgwDD7Qs03cIlEkn86sl6doqjqt+nnVy3BW9WsPSLlvHDMRFMb/jHPiPWxl7lUqkQd7B8H4m0/oGlR3ds+vCDFhxdwOESRNKIvWwj5bjlwY=;RH8d+V981r78EztaqR9iaQ=="
 ---

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Biden pushes for US voting rights law as restrictions mount"
-excerpt: "President Joe Biden has used the 100th anniversary of Tulsa’s race massacre to plea for sweeping legislation in Congress to protect the right to vote"
-publishedDateTime: 2021-06-02T13:28:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-prioritizes-us-voting-rights-law-restrictions-mount-78033131"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-prioritizes-us-voting-rights-law-restrictions-mount-78033131"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-prioritizes-us-voting-rights-law-restrictions-mount-78033131"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-prioritizes-us-voting-rights-law-restrictions-mount-78033131"
+title: "Biden's pledge on media freedom may be easier said than done"
+excerpt: "President Joe Biden’s stated commitment to abandoning the practice of spying on reporters has won support from press freedom groups"
+publishedDateTime: 2021-06-03T21:20:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
+webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_62e37325027448dba4f44219da62ca7d_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Entertainment/WireAP_8abda9546d0640b6840115f405db4c7b_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden pushes for US voting rights law as restrictions mount"
+    excerpt: "President Joe Biden has used the 100th anniversary of Tulsa’s race massacre to plea for sweeping legislation in Congress to protect the right to vote"
+    publishedDateTime: 2021-06-02T13:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-prioritizes-us-voting-rights-law-restrictions-mount-78033131"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-prioritizes-us-voting-rights-law-restrictions-mount-78033131"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-prioritizes-us-voting-rights-law-restrictions-mount-78033131"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_62e37325027448dba4f44219da62ca7d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pelosi rules out having Biden create Jan. 6 commission"
     excerpt: "House Speaker Nancy Pelosi is ruling out a presidential commission to study the Jan. 6 insurrection at the U.S. Capitol"
     publishedDateTime: 2021-06-02T04:12:00Z
@@ -94,22 +110,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4SFETUGDYUI6XCNEW6XCFKQZHY.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Biden's pledge on media freedom may be easier said than done"
-    excerpt: "President Joe Biden’s stated commitment to abandoning the practice of spying on reporters has won support from press freedom groups"
-    publishedDateTime: 2021-06-03T21:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_8abda9546d0640b6840115f405db4c7b_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Biden's big budget comes with a modest growth outlook for an aging country"
     excerpt: "President Joe Biden's first budget proposal comes with a big price tag - at $6 trillion, roughly 50% higher than pre-COVID-19 federal spending - but, at least for now, projects a relatively modest long-term lift to the economy,"
@@ -273,6 +273,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "eUJNjr8sUeKXX2idAME+r3tB7KHHPFan7UnPtyAZU5nNwkLxHkN/iDsa7UiLX7la1Tk3aD40rXnMD8bN0hUY7Em7D45PC0DFTIPbI2hKRFUEU1fDyAgX5PB1rpgWWq8KNbdvZh+cs2lwE1iY7cMUrj+WB9w9F8z1eGJbvoU51YmZdNdbIZjeSSONw0kyMe2PI61fwZcN09Dks497rNRX8absftMPGni+brmqooT+TXf2pGIslgj7hyjC/w0Yrc8fdpr8y0d5xJXIRFKdK9AZ7a/UbllHL52Ekx6HUMZZQTvBlJWwFMURgcaPrj+QHs0BBR1hXXZSiiUsZhOcE69qNw8jdomQeJ8xAq9le+hYuJok7OKi4OSrkCQwLcd9i7XQROvjwjNh30igiu8PDG6WcH23G99toyHwT6YSrQEiztp9JSNBfNJ9DQqDEyqwbrlnWdct//4sElF1B/15t9brKAlr+kvDKXpMtV78M3W18ogAPv9R6G+u2E5bC0W2gCljuNhK1OahCnGqHQiBpQWrFw==;0EklahZUfjDNJQf1RDnMgg=="
+secured: "8Y2HuXz8Dqq3zUTTPE3JdyPOH2xzAPwzH4QWK8/vSnJduZGU5QIhXcOf8/E/NlJnXFZHh8VHz/DGVbQbuC8xRTSkXEvdYAdfziAom0rdvkG2T/hZyKx5s1SLM7kWPiMicnLo4+nMyI9xjfvVL/P+XTnsdz4SjfTGYUKYIyoRvVAfyqoLZTJcK/yKMTEXuxIiIy5o5j+GRUZCmWEsD9npkWglcEq1wf8Zj83HiRdgEDSnP+6RDL/TjQC+89oRKIz9w/YlYfLxUdDbF4KTNxv4g0IFwxVQQ+6aZXnDTm+R4tHEjnnUBH8kppAWABIvCubtJc23LRkQnnC7FZbmaUJewRgYZB0+1JFyHGSW3K5O9vw=;vddeb0Niz4gLPRg+lSMaAw=="
 ---
 

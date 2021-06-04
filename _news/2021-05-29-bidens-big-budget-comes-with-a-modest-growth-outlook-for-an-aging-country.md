@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden's pledge on media freedom may be easier said than done"
+    excerpt: "President Joe Biden’s stated commitment to abandoning the practice of spying on reporters has won support from press freedom groups"
+    publishedDateTime: 2021-06-03T21:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-pledge-media-freedom-easier-78072343"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_8abda9546d0640b6840115f405db4c7b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden delivers Memorial Day address at Arlington National Cemetery"
     excerpt: "President Biden said how America honors the memory of its fallen service members \"will determine whether democracy will long endure\" in a Memorial Day address at Arlington National Cemetery. Watch his remarks."
     publishedDateTime: 2021-05-31T19:28:00Z
