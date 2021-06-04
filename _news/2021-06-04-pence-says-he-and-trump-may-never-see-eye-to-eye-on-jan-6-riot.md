@@ -65,6 +65,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Facebook says Trump now suspended until at least January 2023"
+    excerpt: "Facebook announced Friday that former President Donald Trump would be suspended from its platform until at least January 7th, 2023 -- two years from when he was initially suspended.\n    \n"
+    publishedDateTime: 2021-06-04T17:45:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Q51gWweaho/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/tech/facebook-politicians/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/tech/facebook-politicians/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604130847-01-trump-phone-june2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New Senate report to detail security failures on January 6 but will fuel fight for probe over Trump's role"
     excerpt: "Two Senate committees plan to release a flurry of recommendations in a thorough 100-page-plus report about what went wrong on January 6, but they will stop short of examining former President Donald Trump's role in the run-up to the attack on the US Capitol, which is likely to fuel the partisan debate"
     publishedDateTime: 2021-06-03T13:24:03Z

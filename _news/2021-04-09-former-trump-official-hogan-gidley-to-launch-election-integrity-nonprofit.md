@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden boosts Space Force, a Trump legacy, despite fiscal warning signs"
+    excerpt: "Despite recent budget troubles and tepid military spending elsewhere, the Biden administration has decided to bolster the Space Force, which President Trump touted often while in office."
+    publishedDateTime: 2021-06-04T17:52:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lqrPXKCcbQk/biden-boosts-space-force-trump-legacy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-boosts-space-force-trump-legacy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-boosts-space-force-trump-legacy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81fc7535-244e-4fa9-a0dd-64b86e840e26/01e03745-7cfa-494c-9050-32157a24947e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden administration announces sky-high border numbers, looks to blame Trump"
     excerpt: "Border officials encountered 172,000 migrants at the border in March, a 71% increase from February and the latest indicator of the extent of the crisis at the southern border -- but one that Biden officials are trying to blame on the Trump administration."
     publishedDateTime: 2021-04-08T14:17:10Z

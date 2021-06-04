@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "After Trump-era cutbacks and a pandemic, immigrant advocacy groups prepare to meet a rising need"
+    excerpt: "Even before the pandemic hit immigrant relief organizations — forcing them to cut hours, freeze volunteer programs, move online and scrap for funding as donations dried up — groups that serve newly arrived immigrants were struggling to keep some programs afloat."
+    publishedDateTime: 2021-05-03T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLMI2GETXYI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "SepprS9yBr+qFdx0S1+1G4ikmrfFQIIt9hJKtB3ROjUy7pZPmuqN5JlGZToMyp4Vtdrvx5CAGhZFFiokFZRJuICP3qPk1zgBY+8wFwBIKqbGcBy+AGrTGFf6QUUnPXb1BmZbTWCH0nC+CFY6ekfTo/uV8kFN7YaoyW/+2rhHDCxdKiOwJ8xy5cw3HhHtJy6UAPTRY74mtK6ssjtKxG3xvfXUZHwAUyrzH/n2DRVYLvdRzVAEoWRKlzMylWXxLzegAbTTnL90KMjLqWiuzImh1kTOWEfTUCIzZKnrOm6yOA/ftJAerLCsFbeRUhp13rDMaiSu8brOEU3IQtwLApzivXKTiyFcVaFpkXEJEZSxIYSsdZakBK79jAh96LbCn3eTesrGxW1CBW19Ev7PTTpmy5B1uh5MtuYwcnFJnJO1zHz2hKby27nMfzyEzb7+6+gikTio52hBvBdLMU4DcZJbqOYrclPF0Yh7drWVaf8uYpE3x7BThS7hAydFZrrPaTva9GHEo55+Z+M6R1yBb/+opw==;6aCnDMtmDI6Ithgr72tFsg=="
 ---

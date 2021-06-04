@@ -92,6 +92,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden boosts Space Force, a Trump legacy, despite fiscal warning signs"
+    excerpt: "Despite recent budget troubles and tepid military spending elsewhere, the Biden administration has decided to bolster the Space Force, which President Trump touted often while in office."
+    publishedDateTime: 2021-06-04T17:52:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lqrPXKCcbQk/biden-boosts-space-force-trump-legacy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-boosts-space-force-trump-legacy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-boosts-space-force-trump-legacy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81fc7535-244e-4fa9-a0dd-64b86e840e26/01e03745-7cfa-494c-9050-32157a24947e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Former Trump official Hogan Gidley to launch election integrity nonprofit"
     excerpt: "EXCLUSIVE: Former Trump campaign national press secretary and former White House principal deputy press secretary Hogan Gidley is launching a nonprofit to advocate for the passage of \"constitutional election integrity laws\" in all states across the nation ahead of the 2022 midterms and beyond, Fox News"
     publishedDateTime: 2021-04-09T14:20:46Z

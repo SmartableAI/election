@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/index.html"
 type: article
 quality: 193
-heat: 273
+heat: 293
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602070317-se-cupp-newday-6-2-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Facebook says Trump now suspended until at least January 2023"
+    excerpt: "Facebook announced Friday that former President Donald Trump would be suspended from its platform until at least January 7th, 2023 -- two years from when he was initially suspended.\n    \n"
+    publishedDateTime: 2021-06-04T17:45:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Q51gWweaho/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/tech/facebook-politicians/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/tech/facebook-politicians/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604130847-01-trump-phone-june2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden says he's 'very confident' in Fauci after thousands of emails revealed"
+    excerpt: "President Biden said he is \"very confident\" in Dr. Anthony Fauci amid Republican attacks on his chief medical adviser after the revelation of thousands of his emails from the early days of the coronavirus pandemic. "
+    publishedDateTime: 2021-06-04T17:33:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j2YbAHhon0w/biden-confident-fauci-emails-revealed"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-confident-fauci-emails-revealed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-confident-fauci-emails-revealed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Anthony-Fauci-Emails-AP.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden announces new incentives, including free beer, to reach COVID vaccination goal"
     excerpt: "President Biden on Wednesday declared June a “national month of action” to take aim at the coronavirus pandemic, urging Americans to get vaccinated."
     publishedDateTime: 2021-06-02T21:06:34Z

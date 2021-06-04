@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2690
+heat: 2710
 published: true
 
 provider:
@@ -1906,6 +1906,15 @@ related:
     excerpt: "U.S. President Joe Biden's administration on Tuesday said it would suspend oil and gas leases that were handed out in an Alaska wildlife refuge during the final days of the Trump administration pending an environmental review."
     publishedDateTime: 2021-06-01T20:44:00Z
     webUrl: "https://www.usnews.com/news/us/articles/2021-06-01/biden-suspends-oil-and-gas-leases-in-alaska-refuge-pending-review"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
+  - title: "Biden Admin Targets Trump Rollbacks of Species Protections"
+    excerpt: "The Biden administration says it is canceling or reviewing a host of actions by the Trump administration to roll back protections for endangered or threatened species, with a goal of strengthening a landmark law while addressing climate change."
+    publishedDateTime: 2021-06-04T17:42:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-04/biden-admin-targets-trump-rollbacks-of-species-protections"
     type: article
     provider:
       name: U.S. News & World Report

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook says Trump ban won’t end until at least 2023"
+    excerpt: "Facebook announced it has decided to keep former President Donald Trump blocked from its social media platforms for two years."
+    publishedDateTime: 2021-06-04T17:02:00Z
+    webUrl: "https://nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/"
+    ampWebUrl: "https://nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-FB-inset.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Chris Hayes: The Dangers Of Trump's Big Lie and Republicans Actually Believing It"
     excerpt: "It is hard to tell what is more dangerous to American democracy, at the moment: the big lie, or the big delusion. The key question emerging from the alternate reality the right has been constructing,"
     publishedDateTime: 2021-06-04T14:28:00Z

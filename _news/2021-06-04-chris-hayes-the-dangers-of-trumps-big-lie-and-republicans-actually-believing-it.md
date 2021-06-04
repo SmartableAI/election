@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook says Trump ban won’t end until at least 2023"
+    excerpt: "Facebook announced it has decided to keep former President Donald Trump blocked from its social media platforms for two years."
+    publishedDateTime: 2021-06-04T17:02:00Z
+    webUrl: "https://nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/"
+    ampWebUrl: "https://nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-FB-inset.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "DSfH3uPpnR1sC2Vmy3io/wZc421CVMDDs8ThJMpdkjt7DhTt7TvhnUluABiVhRt6ZfEzK+UnH7sniBgsTvYONR6OxnLeSlSx2SwQsaHWQqqGIm8RhEviwOt9m2c3sZwMYRlDCXu+icUV1jJrDqXZ1G2CvkaYShvHCHRzdJ0q5yt9qQri/Zc1w7pTGULHeFw3emijMHs3nra/dPnA5yCJC9hxizwtr3ELIARoamPQhaIO9H42B2wawppVaIJkFHVpxA5vRxfmdciaXpPRHl67U5a2L1RT2HERrsM20PQWTTs0yTttoJjpjCWp3XD/IX2tmGKkqJe0W7rip///ehgjtlk+ZU6H3WarvBOgSo7Zp/c=;nAlziU5ybDuLFlcEK0LOow=="
 ---

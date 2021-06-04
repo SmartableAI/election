@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Facebook Suspends Donald Trump for Two Years"
+    excerpt: "The company said it would revisit the suspension two years from the date of its initial move to suspend him on Jan. 7, the day after the riot at the U.S. Capitol."
+    publishedDateTime: 2021-06-04T15:53:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480?mod=hp_lead_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-349049/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Copes With Facebook, Twitter Ban by Relying on Email, Media Interviews"
     excerpt: "President Donald Trump used to reach tens of millions of people with a tweet. Now, the former president, unable since January to tweet or post to YouTube or Facebook, has been relying on email blasts to make statements,"
     publishedDateTime: 2021-05-05T13:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
 type: article
 quality: 120
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1792713/christopher-miller-donald-trump-capitol-riots-hearing.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "After Trump-era cutbacks and a pandemic, immigrant advocacy groups prepare to meet a rising need"
+    excerpt: "Even before the pandemic hit immigrant relief organizations — forcing them to cut hours, freeze volunteer programs, move online and scrap for funding as donations dried up — groups that serve newly arrived immigrants were struggling to keep some programs afloat."
+    publishedDateTime: 2021-05-03T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLMI2GETXYI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Attorney General Bill Barr threatened to quit last year over Trump's attempts to fire FBI Director Chris Wray"
     excerpt: "Wray's remarks about antifa, voter fraud, and Russian election interference often put him at odds with Trump, who publicly voiced his frustration."

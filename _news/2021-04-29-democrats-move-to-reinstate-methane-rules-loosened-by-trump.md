@@ -1918,6 +1918,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
+  - title: "Biden Admin Targets Trump Rollbacks of Species Protections"
+    excerpt: "The Biden administration says it is canceling or reviewing a host of actions by the Trump administration to roll back protections for endangered or threatened species, with a goal of strengthening a landmark law while addressing climate change."
+    publishedDateTime: 2021-06-04T17:42:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-04/biden-admin-targets-trump-rollbacks-of-species-protections"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "Biden to Nominate Texas Sheriff and Trump Critic to Lead Immigration Enforcement Agency"
     excerpt: "U.S. President Joe Biden will nominate a Texas sheriff who criticized Trump-era immigration raids to lead the U.S. Immigration and Customs Enforcement (ICE) agency, a homeland security official told Reuters on Tuesday."
     publishedDateTime: 2021-04-27T19:10:00Z

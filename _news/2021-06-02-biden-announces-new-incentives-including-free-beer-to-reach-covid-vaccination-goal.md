@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden says he's 'very confident' in Fauci after thousands of emails revealed"
+    excerpt: "President Biden said he is \"very confident\" in Dr. Anthony Fauci amid Republican attacks on his chief medical adviser after the revelation of thousands of his emails from the early days of the coronavirus pandemic. "
+    publishedDateTime: 2021-06-04T17:33:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j2YbAHhon0w/biden-confident-fauci-emails-revealed"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-confident-fauci-emails-revealed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-confident-fauci-emails-revealed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Anthony-Fauci-Emails-AP.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden speech commemorating Tulsa race massacre to detail efforts to combat racial inequality"
     excerpt: "President Biden will detail his administration’s planned initiatives to combat racial injustice on Tuesday during a speech commemorating the 100th anniversary of the Tulsa race massacre."
     publishedDateTime: 2021-06-01T09:22:52Z

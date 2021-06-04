@@ -1918,6 +1918,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
+  - title: "Biden Admin Targets Trump Rollbacks of Species Protections"
+    excerpt: "The Biden administration says it is canceling or reviewing a host of actions by the Trump administration to roll back protections for endangered or threatened species, with a goal of strengthening a landmark law while addressing climate change."
+    publishedDateTime: 2021-06-04T17:42:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-04/biden-admin-targets-trump-rollbacks-of-species-protections"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "Democrats Move to Reinstate Methane Rules Loosened by Trump"
     excerpt: "Congressional Democrats are taking action to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields."
     publishedDateTime: 2021-04-28T18:57:00Z

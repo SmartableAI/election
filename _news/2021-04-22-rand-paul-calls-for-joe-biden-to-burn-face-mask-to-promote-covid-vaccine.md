@@ -166,6 +166,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Stimulus check update: President Joe Biden leaves door open to 4th payment"
+    excerpt: "Some lawmakers are pushing for a fourth round of coronavirus stimulus checks. So are more than 2 million Americans."
+    publishedDateTime: 2021-06-04T16:51:00Z
+    webUrl: "https://www.masslive.com/politics/2021/06/stimulus-check-update-president-joe-biden-leaves-door-open-to-4th-payment.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/06/stimulus-check-update-president-joe-biden-leaves-door-open-to-4th-payment.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/stimulus-check-update-president-joe-biden-leaves-door-open-to-4th-payment.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ATY6FXNCZVHMXCSKBNT7SPJ74A.JPG"
+        width: 5901
+        height: 3934
+        isCached: true
 
 secured: "68SaFDbzNm+j/HvMB4VkGt5ehY/D0NMC7jwiQX9D9p8Rs3bL12SzYwdZ36Y27B+pPQimYoSMJvb7f8pNS59XgjUh6jLGKZSLqBYm3I4eOb0I7eHK212p4O090pLZWyW5tTtM6M4JbskyJ98NYAAkRoN/H3Ltn6C/qfcX6n+lKQn84t7xdIO85TbI7vpDZ/jm5e+CrWa0F3qlLc9Z2ToHIgDzghVnDK2lhPYptfs/HhqKddrDVcvL7Ymn8A7Pl82snrhmuXfg9ALzzPmFhhpHjUkmUDZPKTEIx6gIJ32YuQSwDM546JaY6zFWBY1R2jFK0koT66EKSXETdbYD3iHuA957KPyBx4AE48Yjg+Oo0PU=;f6S5BqOD39ysPElFlfPr4A=="
 ---

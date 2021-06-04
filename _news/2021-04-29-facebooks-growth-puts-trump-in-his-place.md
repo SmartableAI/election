@@ -47,6 +47,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump Suspended From Facebook For 2 Years"
+    excerpt: "Facebook says former President Donald Trump is locked out of its platform and Instagram until Jan. 7, 2023. It will reinstate him only \"if the risk to public safety has receded.\""
+    publishedDateTime: 2021-06-04T16:56:00Z
+    webUrl: "https://www.npr.org/2021/06/04/1003284948/trump-suspended-from-facebook-for-2-years"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/06/04/gettyimages-1228674205_wide-3407a343278b36722fbcded643e657f469f21eaf.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
 
 secured: "KlsxStgZsv5lSLRdUXymE7iFdhOVCBpaFTcHI/t32J5zvO+hkVFKcUClku0bWIo/zMEJYRHektCSCLIdEfqHyu/tIpthv8JuT1EF/oI+Et0TOpdSpSod+VcS3RyzycOvkcHRk5Ls9MBOsXfGouuyZZQraJrN4jYOpXTtwkzs7Uqm4dXUXrRBL7utq1UeUyVONEqftx2ULoHGFeCERed6At9fVtnBncm5KbMkZgj5MAeqyh6gAMeG4ikw8q0uzVEMaBOv9KSwI47JYOTph4IVsVTo8gy7C2i9SAjPdahB+fvTR4VaKc3ibz2ZLq00vhbw7ZJqNusTXgvboilDyN5ishb5jcwnLVw6aI5DR+c8h+k=;RxoIqMJqXtTt0alW/JkzMw=="
 ---

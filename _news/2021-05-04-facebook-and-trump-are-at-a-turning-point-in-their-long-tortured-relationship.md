@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp"
 type: article
 quality: 121
-heat: 321
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pro-Trump and anti-vax sites urging people to forge COVID-19 vaccination cards, says CDC"
-    excerpt: "Faking a vaccination is easy with a template and blank flashcard. New York is the only state that keeps track of authentic cards. It is against the law to fake vaccination cards. Some former President Trump supporters and anti-vaxxers are forging vaccine cards using a government-issued template to falsely state they received their shots."
-    publishedDateTime: 2021-05-01T00:17:00Z
-    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to"
-    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 116
-    images:
-      - url: "https://thehill.com/sites/default/files/ca.vac_card_gettyimages-1230169189.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "After Trump-era cutbacks and a pandemic, immigrant advocacy groups prepare to meet a rising need"
-    excerpt: "Even before the pandemic hit immigrant relief organizations — forcing them to cut hours, freeze volunteer programs, move online and scrap for funding as donations dried up — groups that serve newly arrived immigrants were struggling to keep some programs afloat."
-    publishedDateTime: 2021-05-03T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+  - title: "Facebook suspends Trump for 2 years in response to Oversight Board ruling"
+    excerpt: "The change is part of a series of responses to the Facebook Oversight Board’s ruling on former President Trump."
+    publishedDateTime: 2021-06-04T15:35:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/06/03/trump-facebook-oversight-board/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/03/trump-facebook-oversight-board/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/03/trump-facebook-oversight-board/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 112
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLMI2GETXYI6XKW4V54HAGRQZI.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G5K344WESUI6XCNEW6XCFKQZHY.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -79,21 +63,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "EXPLAINER: Will Donald Trump return to Facebook?"
-    excerpt: "Former President Donald Trump will find out whether he gets to return to Facebook on Wednesday, when the social network’s quasi-independent Oversight Board plans to announce its ruling in the high-profile case."
-    publishedDateTime: 2021-05-04T18:46:00Z
-    webUrl: "https://www.chron.com/news/article/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
-    ampWebUrl: "https://www.chron.com/news/amp/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
+  - title: "US ends Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in immigration court"
+    excerpt: "The Biden administration on Tuesday formally ended a Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in U.S. immigration court."
+    publishedDateTime: 2021-06-01T23:42:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html?outputType=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 103
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.chicagotribune.com/resizer/6HwP7hGhWlXmHzuJczhcTG55y6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7AK2LAGF26SSGEEMGLS2DI6RVE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
+    excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
+    publishedDateTime: 2021-06-03T00:58:00Z
+    webUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
+    ampWebUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Donald Trump's Facebook ban is permanent, social network's Oversight Board rules"
     excerpt: "Former President Donald Trump won’t return to Facebook. The social network’s quasi-independent Oversight Board has voted to permanently ban his account after it was suspended four months ago for inciting violence that led to the deadly Jan."
@@ -111,45 +111,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump 'Egged On' Capitol Rioters: Facebook Panel Co-chair"
-    excerpt: "Donald Trump encouraged the Capitol rioters and so earned his Facebook ban, but the social media giant's rules are in \"shambles\" and need fixing, the co-chair of the network's oversight panel said Sunday."
-    publishedDateTime: 2021-05-09T19:39:00Z
-    webUrl: "https://www.ibtimes.com/trump-egged-capitol-rioters-facebook-panel-co-chair-3195688"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/09/the-co-chair-of-facebooks-oversight-panel-said.jpg"
-        width: 1024
-        height: 695
-        isCached: true
-  - title: "Look who’s moving in. Eric and Lara Trump are the latest to call South Florida home"
-    excerpt: "Property records show the Trump Organization exec and his wife Lara paid $3.2 million for a five bedroom, seven-bathroom spread at the Trump National Golf Club gated community. Donald Trump bought the South Florida club from The Ritz-Carlton Co."
-    publishedDateTime: 2021-05-10T16:00:00Z
-    webUrl: "https://www.miamiherald.com/entertainment/celebrities/article251286709.html"
-    ampWebUrl: "https://amp.miamiherald.com/entertainment/celebrities/article251286709.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/entertainment/celebrities/article251286709.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 49
-  - title: "Facebook Board Upholds Donald Trump Suspension. Could His YouTube,Twitter Accounts Return?"
-    excerpt: "Facebook has six months to decide whether Trump will return or be banned outright. What are his odds on other social media platforms?"
-    publishedDateTime: 2021-05-05T16:24:00Z
-    webUrl: "https://www.ibtimes.com/facebook-board-upholds-donald-trump-suspension-could-his-youtubetwitter-accounts-3193568"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 45
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/donald-trump-was-suspended-from-facebook-and-instagram.jpg"
-        width: 1024
-        height: 652
-        isCached: true
   - title: "Donald Trump’s Facebook suspension upheld by Oversight Board; group calls on social media giant to conduct six-month review of case, policies"
     excerpt: "Former president Donald Trump will remain suspended from posting on Facebook, the world’s most popular social media platform, according to an independent Oversight Board. But the board, a diverse group of international experts in law,"
     publishedDateTime: 2021-05-05T13:14:00Z
@@ -166,15 +127,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "U.S. House Majority Leader Hoyer Applauds Facebook Decision on Trump"
-    excerpt: "House Majority Leader Steny Hoyer applauded Facebook Inc's decision to maintain its suspension of Donald Trump after the Jan. 6 Capitol riots, saying it has the right to refuse to be a medium for the former Republican president."
-    publishedDateTime: 2021-05-05T13:28:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-05/us-house-majority-leader-hoyer-applauds-facebook-decision-on-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "FMB7tJ4YHddS4AVyrAPtcc5Wh3Nk1tQhSz/PYp4daWBeq7+Tos+VFfg6p0AqVB1YbQ+5HFFW0MO4qiCd8nrRg/9C1SGVwhYbqAft5UysbJPIOIgpsPv5ogzr+8Mq57Pr3Qx5Q8P0DpTJS2FAlaVkkHR/U3i9oow36NMoZKyZjLoOCz/o6lnXvHhb9A45nXyaalTYjpS/p1/7q7fkyQ+V6QC+dZAXfKQrUgeioynmfqtX3Y4ojo02gnotzDlh4vZkMHbdPgw7ssalAhhL+8acI1PqgvNfVb6OdUpw28WIInLIR0gD5KF+JyIh6U9NCyG9SLWa2gocZ7iNb/A0FidBIux7wSXP4M8cH8clzR4+ZIzrIeZU7dc25oNidBIj9RvsR/grUpoRK/ZJOVjVx7QSm4PVGLqCRF/3a+SzO8pFuCq5nNkiU7zuw0AQ31q+vjKlBILCyrzMQDN/9QecAKnVJrr3tOTJKFBWqWufxd0kk2V/WKOspQ7LgUZXxIqBib3dZ07bZqIquWwtXNT09J+ucg==;sHHP+lcnhmQw5vzFIVI+jQ=="
 ---

@@ -166,7 +166,23 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Stimulus check update: President Joe Biden leaves door open to 4th payment"
+    excerpt: "Some lawmakers are pushing for a fourth round of coronavirus stimulus checks. So are more than 2 million Americans."
+    publishedDateTime: 2021-06-04T16:51:00Z
+    webUrl: "https://www.masslive.com/politics/2021/06/stimulus-check-update-president-joe-biden-leaves-door-open-to-4th-payment.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/06/stimulus-check-update-president-joe-biden-leaves-door-open-to-4th-payment.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/stimulus-check-update-president-joe-biden-leaves-door-open-to-4th-payment.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ATY6FXNCZVHMXCSKBNT7SPJ74A.JPG"
+        width: 5901
+        height: 3934
+        isCached: true
 
-secured: "0/Wno11UVcNIyXv69n0E5rocQHLEvmwwlyJseMk3VoFIUZopo2bfh1YML/d1xAOzIWNmYo20GwPBBHu+qCbUUTfn/PTMtN40y81H2BBqt/9KdJfr2POoOdTZEl58mff4YkgE2UVVBVG1N4U7d9MGjGHGmo6csREXIwLrY3uoCEjSWmofywndhOklQg2hTddGtMcqPQYunDWZXLQCnWe594JuawW7IrFSJFRb6PkF9TfhJWBpfi+yX+TjrWB9NHBfxaLcrqWLZZKvr8yRtoK0x3XsRFYUMH7K1+KH7b06zG8lRKl2dnFmqnCXTViS1s/DMxpjHg2bpULeYmkWb8iHa7565s+x0DrfKXuyT8zCRHo=;IM2bTu2KVe24A+cuknVlRQ=="
+secured: "ZyR7qIIiuceNeWa0oxJVfVVN+/AfsbyDwSyL1jwTqU9KRWOxx/HzzXnkdEF6UY/8/Qhqcj7f8XHRcnAI1bVA6kt3VJutT1nT6ObmQIegCAYvPfmeWXKQr9Vd73Sf5+U+0EgIjvqCSFL6NKKIwzqqW8YbeRtIHw9q0SoL8WR6s/tQglhMh1JrAtkyb/yrdwnUnnGKs3FBspvoHRGMK3AOA/PM6zAMjjSTtuyiPdocLu3rXrbQA4pQKI4c87Yb1g0/x/gLlGzzZFz0KlwDMVgAuNwHtbbmJtGyzNnR3WojAPJyo+V6Biqgm8E8KuI6u5+X4aiMLi0ERGjhskw8AT53LnfxaSUV/b5Rll0Lg+Up+S8ymRxLxMngy2YmujjYEWG8P2R4laCz0Z/76z0cQTei6VN0n3WtCQWtif9FY6W2REi8SeJyieYb+AZiyI70OqJHJYjhXiZSgTjJp1E2xkT+Go9PeGegL8veY2lp/M6W8zvtiJRcf5t514Z5ZtQ+h0wxYxFzIFuK66zxJDboIab7oA==;s8shYR7UQPUuRoq8rOoFUg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/mar/31/facebook-donald-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/31/facebook-donald-trump-video-clip-removed"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210428&t=2&i=1560277217&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3R1FR"
         width: 818
         height: 545
+        isCached: true
+  - title: "Trump Suspended From Facebook For 2 Years"
+    excerpt: "Facebook says former President Donald Trump is locked out of its platform and Instagram until Jan. 7, 2023. It will reinstate him only \"if the risk to public safety has receded.\""
+    publishedDateTime: 2021-06-04T16:56:00Z
+    webUrl: "https://www.npr.org/2021/06/04/1003284948/trump-suspended-from-facebook-for-2-years"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/06/04/gettyimages-1228674205_wide-3407a343278b36722fbcded643e657f469f21eaf.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
 
 secured: "Tl/TXV3t5Hr8HfHfrQ8ofaDSflyUaSW9VHM67F0jTYwLDrxG/9/3VwR22dTWT9GYmT34LvNC8toZAyedXPW63cd2ZF3GJYfduj1oNJLxPusKiqdON6/hBZc/xdL1YkJ7tZQjPZzb8tY5F4K5Ie+EPcJC72XwDJjO+Axu2RhJt9dX85Q+gLQowjOz+CYXSKpPwfG41R/iUgUDRtAxI5mUAMgTX79K5Sb55XE3LqubXAzA8YfGCySRzGQx0Oh0QnCHcX9ErH/7FZA3qwDro70gZS5NWoTw1+UU9/eZ0AH9T31AoB+hW2W05moks+4HlpGbQUIprcYk8roEqZR96DCnM06mFKTWLI5k6RO3w5i0QFuX7zJ0EHz+rXIgJ+N0Mpa0U6QghYgirSNw27z9dUekU1nNl6wH3vsrDDVwYE/bmwvwkDiBPWVj5zTOve//lOFdrnqD/DYC2jThIvqG81xjAP5EhRzTTJmYKTsvyVqLoV8thjLF5gzYJDsIZ1zXfta69dUGZz5IzR4/80pJVHiq5A==;SEPiuVgh1mEE2W/LLaLTfQ=="
