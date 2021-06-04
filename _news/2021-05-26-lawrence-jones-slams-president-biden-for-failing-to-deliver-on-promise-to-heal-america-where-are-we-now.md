@@ -94,6 +94,15 @@ related:
         width: 5484
         height: 3656
         isCached: true
+  - title: "Why Manchin Will Continue to Stall Biden's Agenda"
+    excerpt: "The riddle of Joe Manchin is going to drive his fellow Democrats to distraction. The senator from West Virginia, who sits at the fulcrum of Washington's balance of power, signaled in a new CNN exclusive interview that he's nowhere near ready -- yet -- to loosen a grip that is stalling President Joe Biden's ambitious agenda."
+    publishedDateTime: 2021-06-04T11:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/04/why_manchin_will_continue_to_stall_bidens_agenda_544313.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "ndQ0/MfXpP/RGZMsVp5+yrswqAharPAzq6RYijU2CP1VYH/yOluXoervojTDBDD5boA++SByKBHjGp2KNfHYT++2uS9CpCtPu9MxrEEZXtPDJwCmIAurtdBrx4h4g+xke8LDodUyqLbuuGIUhR/+F8gi0Za6l/IjG+QJXMsCvUOvSFaF3UcMF3TcRO8PkjJSYi7BTFqhXFCCq6oH2oQsAa769h5iIB4+Cy3f3SCX8l6osWaXAGcJdbBTxg59E5LRlTgCSePk8TT+pEPHjwfy4ij51HVkej83XggNqza/A1K6FNN+5niho6PM6gOL+0hIJuhzNyZQ06KX8nsDfcFF7Mt0ranTSqtXzRgjL9zfLtGCDW6/oQCDvUa9NMG2+GEsbFR7q7yZUtBJCcTpfjVwEBmxRcVUoFjdBCSgxQZgzA4RsD4TKabHs7EO2WOa8GIXcmUvyXY7lmHBcCtTb4nJ2dn3+b+Uv902dN2g+rOojbto2TZRbMtg3d1Isl94Gx9Hi5pmaV/bvzHd1wQ0a74cJw==;2DP+/GjJq9PbOuuwkZLGfg=="
 ---

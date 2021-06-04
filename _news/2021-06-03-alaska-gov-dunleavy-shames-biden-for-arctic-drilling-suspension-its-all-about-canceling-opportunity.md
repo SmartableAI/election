@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/alaska-dunleavy-shames-biden-arctic-dr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/alaska-dunleavy-shames-biden-arctic-drilling-suspension.amp"
 type: article
 quality: 118
-heat: 118
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden blasted for suspending oil-drilling leases in Alaska: 'Political football'"
+    excerpt: "Energy groups in Alaska and beyond blasted the Biden administration for suspending long-sought oil and gas leases in the Arctic National Wildlife Refuge (ANWR) this week pending review."
+    publishedDateTime: 2021-06-04T10:20:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lKNF6skEma0/alaska-biden-oil-drilling-anwr-leases-interior-arctic"
+    ampWebUrl: "https://www.foxnews.com/politics/alaska-biden-oil-drilling-anwr-leases-interior-arctic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alaska-biden-oil-drilling-anwr-leases-interior-arctic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b6dbf32-c086-4ac4-b5d8-95c6d3e80346/211d4f3c-5795-4bc7-b8b4-535397f32364/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "w+RnqeNeMlkbV/A2m9MVrsx96R/FkbJxoJZUoi9nx4mK2DnlqwYwKnzwVu3qK7xPjPkNjoiUcG6oBTF9V1NQh1ST+4WPRuvjSfvBHocEkh05CofbFKr8Jstv2ZHWYmd/ZDY40/6Fei0OM16FAavgrDMYTf7Evzq7+7ckIksINKkswIrDgmAlgoarNSMff6SsshiUM6VoVGp5aoQYJkkL2qo0G7IFSfClaTk8bwq/lx2HFiRQWhzjYK46YNyu5cPbGxFBnHS2UW+gYwmJyYLvX1fGQgy6kn9AgPC6DVwz7BoU1JH2TWL4AckBRueFeDOfcMFZa+IdzfIICYDGr0G6mUj7CGrelfVt7RM6QaYmUBU=;gUxgFZY08HA3AsupGJbcnw=="
 ---

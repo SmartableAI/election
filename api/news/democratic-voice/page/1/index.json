@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-04-as-trump-readies-summer-rallies-and-speeches-allies-worry-hes-stuck-in-the-past.md",
+      "title": "As Trump readies summer rallies and speeches, allies worry he's stuck in the past",
+      "excerpt": "A cadre of aides and advisers working to tame Donald Trump's obsession with the 2020 election, including his fixation with debunked voter fraud theories and ballot audits, are realizing the task at hand is much tougher than they thought.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6zUDM5TouqA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6zUDM5TouqA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210603151659-donald-trump-cpac-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html",
+      "publishedDateTime": "2021-06-04T04:00:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-mike-pence-on-donald-trump-i-dont-know-if-well-ever-see-eye-to-eye-on-january-6.md",
       "title": "Mike Pence on Donald Trump: 'I don't know if we'll ever see eye to eye' on January 6",
       "excerpt": "Former Vice President Mike Pence acknowledged on Thursday that he and former President Donald Trump maintain starkly different views of the riot that unfolded at the US Capitol on January 6.\n    \n",
@@ -1609,62 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/manhattan-district-attorney-trump-organization-grand-jury/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/manhattan-district-attorney-trump-organization-grand-jury/index.html",
       "publishedDateTime": "2021-05-25T16:49:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-biden-defends-decision-not-to-sanction-company-building-controversial-russian-gas-pipeline.md",
-      "title": "Biden defends decision not to sanction company building controversial Russian gas pipeline",
-      "excerpt": "President Joe Biden on Tuesday stood by his decision not to sanction the company in charge of building Russia's Nord Stream 2 gas pipeline, characterizing the move as protecting relationships with European allies.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wv8U-kFGqss/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wv8U-kFGqss/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210525144729-biden-afghanistan-0414-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/biden-defends-decision-russian-gas-pipeline/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-defends-decision-russian-gas-pipeline/index.html",
-      "publishedDateTime": "2021-05-25T15:49:01-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

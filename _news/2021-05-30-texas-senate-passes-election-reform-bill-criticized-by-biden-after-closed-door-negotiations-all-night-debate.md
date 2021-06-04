@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/texas-senate-election-reform-bill-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp"
 type: article
 quality: 171
-heat: 191
+heat: 171
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "House Republicans call on Senate leaders to reject Biden DHS picks, warn they won't end border crisis"
-    excerpt: "EXCLUSIVE: More than 30 House Republicans on Thursday wrote to Senate leaders in both parties, urging them to reject President Biden’s nominees for key Department of Homeland Security agencies -- warning that they will not \"make the decisions necessary\" to end the ongoing crisis at the southern border."
-    publishedDateTime: 2021-06-03T16:00:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NcJ1rzhs7xs/house-republicans-senate-leaders-biden-dhs-picks-border-crisis"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 140
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/BORDER-2.jpeg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "zm2B08DSVJkwtLqoDR2pjO76F91UB3we6Ia7PJzoImQa+348C/+ar76nhzLqxwLlEXA1g8BvBHCTp+Mpq4huUxo8uBoWJPbIC/sV+9Cz3K7O2pkBfzXHvO8skf28zN7c4LUD3TpvScCKjKHLMBjmYHuf8tp2tV+Sgp3soQJ1eJWjD6zv0b3LKoSOa83egNeqGekM90TEvNhQajf8W0S+v4bhAwDDznQwagmtt7F7WodYECyFy2Yp/8HxiYr73u4yeaVsR5kCJPoYHCEMfKN3Ljp8C6joKeTOhkheH55qPzOs++I9lqvKfjP+UUmytwGfiYEhUUc6b1I1wJlJBb7EPk4qAxaS7tbAtCBa5wwh24M=;S9QpMy8IuGiPG89pV5lBmQ=="
 ---

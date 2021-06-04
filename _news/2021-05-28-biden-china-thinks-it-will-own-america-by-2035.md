@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-china-own-america-2035.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-china-own-america-2035.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Why Manchin Will Continue to Stall Biden's Agenda"
+    excerpt: "The riddle of Joe Manchin is going to drive his fellow Democrats to distraction. The senator from West Virginia, who sits at the fulcrum of Washington's balance of power, signaled in a new CNN exclusive interview that he's nowhere near ready -- yet -- to loosen a grip that is stalling President Joe Biden's ambitious agenda."
+    publishedDateTime: 2021-06-04T11:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/04/why_manchin_will_continue_to_stall_bidens_agenda_544313.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "UPnZm1UXz/NzeR60Iu9b5+TBgqGoYaFZVD0uMYsQ3P3IYy7OaydivHS74xS/VPh2QjYhxWDqT3VF6apn0vgDvkvkPFNrumY6eK4ea9gsoi1pEHmLIxkvikos/BY/3EpTnMxAjd59UoGefk27HsLzo+v3AG5VUz+Ep3K/3KIpaETBmGfOqdN8K+R/Emt6IYr+MUiW76SM65gpQsEnbMUxldxZL4+wqgxSc4QzXoU6LrCSD+1BHpndSZZg63i9IECuTXiqodTjXQxmk+GsbUn1O3CG3Orgf/mfsgwFLyVvG8JAN7jes93UVL+CA5doREx1MZLJEFFc1hu75KNtUr5Uncxy+MrhEfILCxqWL6atiLA=;OfyImwxTwvxoPFRvVQqZcQ=="
 ---

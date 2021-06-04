@@ -29,19 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Texas Senate passes election reform bill criticized by Biden after closed-door negotiations, all-night debate"
-    excerpt: "Republicans in the Texas Senate took a big step toward tightening their state's election laws this weekend, prompting outcry from Democrats."
-    publishedDateTime: 2021-05-30T17:07:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUK_Oegc9aI/texas-senate-election-reform-bill-biden-security"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp"
+  - title: "Biden Cabinet members avoid huge tax hits thanks to little-known federal law"
+    excerpt: "Under Section 2634 of federal elections law sits a unique provision to help soften the financial blow of new administration officials suddenly selling off assets: certificates of divestiture."
+    publishedDateTime: 2021-06-04T10:14:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6iXrFGLof9s/biden-cabinet-certificates-of-divestiture"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-certificates-of-divestiture.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-certificates-of-divestiture.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/168c5283-4842-412a-8322-5eced9ab2a41/09b74a5c-137c-4da4-ac4a-8ca8d445d604/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2a99b01-47c4-41c7-b0cb-5b090050a230/f6930429-3760-4230-8b76-54bd6f4e39e7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden administration quietly tasks 6 groups to pick asylum-seekers to allow into US"
+    excerpt: "The Biden administration has quietly tasked six humanitarian groups with recommending which migrants should be allowed to stay in the U.S. instead of being rapidly expelled from the country under federal pandemic-related powers that block people from seeking asylum."
+    publishedDateTime: 2021-06-04T11:58:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ywGcXVkIwQU/biden-administration-groups-pick-asylum-seekers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-groups-pick-asylum-seekers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-groups-pick-asylum-seekers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e93ca25d-fba9-4cfe-9975-9023021195c6/ba468a9e-b854-4db0-bd72-2039e7d6c420/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

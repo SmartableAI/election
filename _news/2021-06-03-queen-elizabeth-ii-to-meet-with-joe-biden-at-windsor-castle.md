@@ -49,8 +49,8 @@ related:
         isCached: true
   - title: "Biden to meet with Queen Elizabeth this month, Buckingham Palace says – live"
     excerpt: "White House confirms president will meet the queen on 13 June when he travels to the UK for the G-7 summit"
-    publishedDateTime: 2021-06-03T14:59:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8eb578f08b9889b367d18"
+    publishedDateTime: 2021-06-03T14:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8e66f8f082e80569f51a7"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
     type: article

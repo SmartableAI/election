@@ -2,9 +2,9 @@
 category: news
 title: "Biden to meet with Queen Elizabeth this month, Buckingham Palace says – live"
 excerpt: "White House confirms president will meet the queen on 13 June when he travels to the UK for the G-7 summit"
-publishedDateTime: 2021-06-03T14:59:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8eb578f08b9889b367d18"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8eb578f08b9889b367d18"
+publishedDateTime: 2021-06-03T14:57:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8e66f8f082e80569f51a7"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates?page=with:block-60b8e66f8f082e80569f51a7"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
@@ -78,6 +78,6 @@ related:
         height: 628
         isCached: true
 
-secured: "up/vfX7n/xd/qzuFPPck4kS3/DccLNAoGqZJDuKt0Xm9PyHu6u+rd8HmiEnhmYWzodgS4eIldlOfrxvb1HqhtzuAx3O/WwkNtejoEaVAFJ/jC7xZsQ/AMZZAhrbtviZORdV1ju2jtK/DiE5tlU8RkeEWua4qEE4GHz1fn8f+pWSSEId0BYniWJPYqYopXzgT5QOcQkf/G07CFNTuKIQUy1O0247Wzrx+JLAfvRBj8s38mZlPhbd9nJm53l8wITiUCzn3csakzJ73jBsETbaNH1CpRtA/FIpkuBtR/fX+gpQWucUDdU/MRVysswYJeV+KJfpded6awAmsgXDkkWlBVGpZk9DGzg4nnxx7TySLvoA=;ehxZ079oyOqix4Z87MjbPw=="
+secured: "86uTyHgxhkq9/xY1EuKlqmQGKy7I4Dot+En6B2CdknL6otbRQ3Sas7VLMzxJhTkYs/yuoX1EJF27QBDriMAaoVJ8fNsyGMC1do1Mj0H/TGA7uGb2HK7CmiXPVv35frHS1DPbWo4Le+N7dLgt3JDs4SWPGVUxPNVsvt7Zsw1JMeUP25BJW49fDbjOEgjx/lCaQUKHHZZfaSMTzvnwa636itlnfdT9fIewO6MTM6KlTZNOK5YeIgEjG8kOKjWddaUOoWCp06VhLJHscOdXiQi6S3jRg+//NFIhjZzkhAZzUwinn6YhAUjFdUwziOQns7bSZiJyWc6Q3v82g8Yj+ehrQt9a/IdfmAajZ1hWRv4/pLs=;XdhJrz5QfWtHS+Zu6yKSow=="
 ---
 
