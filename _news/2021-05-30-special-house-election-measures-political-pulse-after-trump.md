@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/special-house-election
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278"
 type: article
 quality: 140
-heat: 1080
+heat: 1100
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HUHUNESTOII6XKJRLMLC2DIDHU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump's grip on GOP sparks fears about democratic process"
+    excerpt: "Many Republicans, led by Donald Trump, are continuing to question the validity of the 2020 election, and critics say that denial shows how the party is increasingly open to bucking democratic norms"
+    publishedDateTime: 2021-06-04T04:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "New York district attorney convenes grand jury in Trump criminal inquiry"
     excerpt: "Investigation includes matters such as hush-money payments to women on Trump’s behalf, property valuations and employee pay"

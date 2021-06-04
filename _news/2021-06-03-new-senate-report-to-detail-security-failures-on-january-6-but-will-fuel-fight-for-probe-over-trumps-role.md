@@ -73,7 +73,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 150
+    quality: 160
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/Pence_on_Jan_6th.jpg"
         width: 1920

@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/video/pence-says-he-and-trump-may-never-see-eye
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114310213715"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114310213715"
 type: article
-quality: 150
+quality: 160
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Mike Pence
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/Pence_on_Jan_6th.jpg"
@@ -81,6 +82,6 @@ related:
         height: 619
         isCached: true
 
-secured: "t8hUh8GYGMCKKkxdSdk/w0Ed3RpYFTfAZwebXZBZweRs1lD2r9e0p3zlHqPkeOsBnT+8qTETRtnKnJr2mKPmrzMu+I4RfsKkbgQv7/aDwuu5E/EXpdeZW7B7iwY/0hw+FuYliC/8815fxm/okSF89WyfIdtwwbQX90KDBiVk0+VHkgzhFST/+kn1VJdR7UYUNOBTJqjMgP03llQ+Al3LXjIgi/aFt5vpEpVLHfrNo0yw4+qZhxoX3MHQK23HJIvaoknY7BnMEME98RkNnhE/+A7+7jUXtSOLGkusDG7BljwuhWcw8pMUU6MyQxgwPU3zZoFxL3V4U5LHqEyPyNhldsi7AnoPns4ZC27qNJntAA4=;WaWrZKFdcNzIR0z6SCOu2A=="
+secured: "8gqwq4qmcBh8/8/up9olvP1zfqQ2+zLnsMQfl1oUtYZjg4eMdNq1o8UAMgk0dB2U+u/oqhecyH9IjloCSUrLVHRrmMkM3zXbUgB129WBys09xWqIyWJBF7l5oL7eanDq4xKloJK6qF0Ooy2DGTkbz9j+oUsX2H/2toM2HkiiZ9bAGJ7KX5klx+O+41s0XUzxVTsXsq/T7R6XLJHVKyUnYcZKG4LColb5ca90364q5C/Q46eAA1K80p6YvMgkl+5hnk7ym8Lq+tMBLi5OBclOJiAMp0xnm/ENu/w/KOBqEBV9tbb2TMs5+V54Pxosseg5Q8guZ0i2HNQRe5tvPPvs1/3arEyuaNg0FAJYFCvtLItN0O9qzBHgSMH74CITpdE+ouZh/BPNvnKUnCOiySBRbFpfp4KY5rCWNN5E2UDS9BwDh8nnzC4i4R3lcE1yHeasN2/NdJ1e+AKvU1iiMCQwophuzpfJhCu+1QrzK6d/xp82U7clF7nhPognBRPcAlK5OqOmgPCCvDB+sIcUEg7Zug==;svxoYUKbioia3TFnaHbs3A=="
 ---
 

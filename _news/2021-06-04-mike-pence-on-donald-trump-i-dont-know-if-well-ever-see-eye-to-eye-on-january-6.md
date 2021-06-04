@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence says he and Trump may never see 'eye to eye' on Jan. 6 riot"
+    excerpt: "Former Vice President Mike Pence addressed the Jan. 6 pro-Trump riot attack of the Capitol saying that he and former President Donald Trump may never see \"eye to eye\" on the event."
+    publishedDateTime: 2021-06-04T02:53:00Z
+    webUrl: "https://www.nbcnews.com/video/pence-says-he-and-trump-may-never-see-eye-to-eye-on-jan-6-riot-114310213715"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114310213715"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114310213715"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/Pence_on_Jan_6th.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "New Senate report to detail security failures on January 6 but will fuel fight for probe over Trump's role"
     excerpt: "Two Senate committees plan to release a flurry of recommendations in a thorough 100-page-plus report about what went wrong on January 6, but they will stop short of examining former President Donald Trump's role in the run-up to the attack on the US Capitol, which is likely to fuel the partisan debate"
     publishedDateTime: 2021-06-03T13:24:03Z
@@ -64,23 +80,7 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence says he and Trump may never see 'eye to eye' on Jan. 6 riot"
-    excerpt: "Former Vice President Mike Pence addressed the Jan. 6 pro-Trump riot attack of the Capitol saying that he and former President Donald Trump may never see \"eye to eye\" on the event."
-    publishedDateTime: 2021-06-04T02:53:00Z
-    webUrl: "https://www.nbcnews.com/video/pence-says-he-and-trump-may-never-see-eye-to-eye-on-jan-6-riot-114310213715"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114310213715"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114310213715"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/Pence_on_Jan_6th.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
-secured: "Er8T9dI7nArjAWc25BKvcVf2pInGyHcgg59It76UwDKP0iQO6NVqP3bddbwQzMmc709N+II84E48lqBM0x9u+2+nGrL9oSCavZTmxdS9ZxC1RXUNfuDtexZJWxVjsOTHlKfgvWsk9IXEikbDvsckBXyo8CPaNfIyaQbjdniOuqjF35hc65UeuY/Q5qUryTeq94BsGXszdZcxfVl9gP90eTTbHxUZtg8F7s+2DOQE3n0irypYAuHf0CekoMBUM4T/ATqQMb1erH7o9b0lfftuhalQuPtyIIVVOrLakCy/JK2+Jobsj9vX+fX9AOlk9YDvLa6YIO93Yne2nvVFY51MC7y/OKXY6nB0Hm/kazFxkXQ=;egXC7Fr5fo3Y9B2KIZ6dJw=="
+secured: "zxJg7BLFv4v7XsflOnqEA36zB7T/eTaR47rlMHB6QQkHZ1rZ4BlpOvYIYDY+xeJMdH2lOHTlbTBUrYdRAG9jcpByrdDJWeZsho0FpfGRWj+/TwXNWbRFGSTPNtrEzYKqA+yq+TMEagAgU0Z8J0Tq+grP+DyoKmu2BX3+QOenGKWCw7xbi7kEItAN7bDDjEKOenfRKwW08/S1u3BeZH6wkXzNfFFzVOFxNHH+qyljw3TY7FgtuOa5c5SH3JVv8nH8CXtd78e24uTDIQ748FmemD32kZf3Vqo8suBKDyyEOf+TmSPl22yydQ2zSVWtQ7CB1AskXJFJhtP8tEjczS18PrzGdGKo+BRsrFt3NPoRUJU=;IV0pPIcGNS1Lyj9QZfow3Q=="
 ---
 

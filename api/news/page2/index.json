@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-06-03-fact-check-trump-spent-memorial-day-2020-at-commemorative-ceremonies-not-golfing.md",
-      "title": "Fact check: Trump spent Memorial Day 2020 at commemorative ceremonies – not golfing",
-      "excerpt": "Then-President Donald Trump attended Memorial Day commemorative services in 2020, despite images claiming otherwise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/06/02/fact-check-trump-didnt-spend-memorial-day-2020-golfing/7504230002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/06/02/fact-check-trump-didnt-spend-memorial-day-2020-golfing/7504230002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/05/25/USAT/ca40f75b-fbed-41b9-a786-fd6ccab2b696-7448bfdc-b665-44ce-b3fd-cdb966ff6f28_thumbnail.png?auto=webp&crop=849,478,x6,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7504230002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7504230002",
-      "publishedDateTime": "2021-06-02T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-06-02-robert-mueller-to-help-teach-law-school-class-on-trump-russia-investigation.md",
       "title": "Robert Mueller to help teach law school class on Trump-Russia investigation",
       "excerpt": "Former special counsel Robert Mueller will help teach a University of Virginia Law School class on his investigation into Russian interference in the 2016 presidential election, the school announced Wednesday.\n    \n",
@@ -390,7 +338,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -963,6 +911,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition.md",
+      "title": "Sicknick family criticizes GOP lawmakers, Trump over January 6 commission opposition",
+      "excerpt": "The family of deceased Capitol Police officer Brian Sicknick is continuing their criticism of lawmakers opposed to the creation of a commission to investigate the January 6 Capitol assault. CBS News congressional correspondent Nikole Killion joins CBSN's \"Red & Blue\" host Elaine Quijano to discuss her interview with Sicknick's mother and longtime companion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition/",
+      "originalUrl": "https://www.cbsnews.com/video/sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/01/d3dbdf5f-e563-42f2-9617-8b9e3657c433/thumbnail/1200x630/29964b24adb58544e8a72fe26291b653/0601-rb-sicknick-726792-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {

@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Pence: I'll likely never see eye to eye with Trump"
-excerpt: "Former Vice President Mike Pence said Thursday that he wasn’t sure that he and former President Donald Trump would ever see “eye to eye” over what happened on Jan. 6 at the U.S. Capitol (June 3)"
-publishedDateTime: 2021-06-04T02:58:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/06/04/pence-ill-likely-never-see-eye-eye-trump/7538056002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/04/pence-ill-likely-never-see-eye-eye-trump/7538056002/"
+title: "In pro-Trump speech, Pence says he doesn’t know if they’ll ‘ever see eye-to-eye’ on Jan. 6 Capitol attack"
+excerpt: "Pence has continued publicly supporting Trump despite the events of Jan. 6, in which a pro-Trump mob overran the U.S. Capitol, leaving five people dead and putting Pence and his family in danger."
+publishedDateTime: 2021-06-04T05:26:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/06/03/pro-trump-speech-pence-says-he-doesnt-know-if-theyll-ever-see-eye-to-eye-jan-6-capitol-attack/"
+webUrl: "https://www.washingtonpost.com/politics/2021/06/03/pro-trump-speech-pence-says-he-doesnt-know-if-theyll-ever-see-eye-to-eye-jan-6-capitol-attack/"
+ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/03/pro-trump-speech-pence-says-he-doesnt-know-if-theyll-ever-see-eye-to-eye-jan-6-capitol-attack/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/03/pro-trump-speech-pence-says-he-doesnt-know-if-theyll-ever-see-eye-to-eye-jan-6-capitol-attack/?outputType=amp"
 type: article
-quality: 120
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b7169c48-8b1f-4b05-a01c-e2ea6975e548_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-04-2021/t_31ca26edaaa84d7389b3a2fb4a6c3cf1_name_pence_scaled.jpg&w=1440"
+    width: 1440
+    height: 810
     isCached: true
 
 related:
@@ -93,21 +95,19 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "In pro-Trump speech, Pence says he doesn’t know if they’ll ‘ever see eye-to-eye’ on Jan. 6 Capitol attack"
-    excerpt: "Pence has continued publicly supporting Trump despite the events of Jan. 6, in which a pro-Trump mob overran the U.S. Capitol, leaving five people dead and putting Pence and his family in danger."
-    publishedDateTime: 2021-06-04T05:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/06/03/pro-trump-speech-pence-says-he-doesnt-know-if-theyll-ever-see-eye-to-eye-jan-6-capitol-attack/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/03/pro-trump-speech-pence-says-he-doesnt-know-if-theyll-ever-see-eye-to-eye-jan-6-capitol-attack/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/03/pro-trump-speech-pence-says-he-doesnt-know-if-theyll-ever-see-eye-to-eye-jan-6-capitol-attack/?outputType=amp"
+  - title: "Pence: I'll likely never see eye to eye with Trump"
+    excerpt: "Former Vice President Mike Pence said Thursday that he wasn’t sure that he and former President Donald Trump would ever see “eye to eye” over what happened on Jan. 6 at the U.S. Capitol (June 3)"
+    publishedDateTime: 2021-06-04T02:58:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/04/pence-ill-likely-never-see-eye-eye-trump/7538056002/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-04-2021/t_31ca26edaaa84d7389b3a2fb4a6c3cf1_name_pence_scaled.jpg&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b7169c48-8b1f-4b05-a01c-e2ea6975e548_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Pence says he and Trump may never 'see eye to eye' on Jan. 6 insurrection"
     excerpt: "Former vice president Mike Pence on June 3 also suggested Democrats and the media are trying to use the Jan. 6 insurrection to divide the GOP."
@@ -181,6 +181,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "fXscTr+a1B6HLG5iAhZthV3ItN94bf54mQbNwjExeKkQSx3x/wTjLmdlsmF20mO/quP5OlHBdMxw/LyXXH615rQMARA00lAxDTJx1Hx/uKXo/1CurP6WPCz8mLDSTMHrS+lbCClglJZBgqutqKVDGL/mhocCvRU0f/8FfA+OMgTc/9SP3n3ORQzxgDQr38pq3q/Ar5WAck8rrF6GaoQ7UIHAZBKO7RGwCnPNzn2v3nfB6qSpmhbttbjIr9yu2LRgQVXM8JtZjFH5+TScNwTnx7g9EH9tvfbj+51Sc00T81xcODrzu2Ym4iuRwQ5iehhOcOwZoggfFTAfEvbvlkAiByV2KNHyZFYepLsydXuiYyU=;AqPv9aUQyqXxIA2x1B1xGg=="
+secured: "csV2OPQXi//ewqEeZGoprYCEI9MVeWI6kXoPmQD54r/PbequSLwyMroASDXC7xUcbLB8arvvLTPvsEg2uuj0vrvXi2eQgKpETcR1WxAyCLnMavCZEdsxrVa7ZvBj3fT8OP5aM5h8P5/A8R/liGTO9o9vC28bqcJ33q1TgguJeVVNDCO1ZMq39u/+V34jFwOK1e9UDO2JJ7kKNfGYxMU6PBHKyWLSoMXas2IzHbt2VPBTAHCbpU5weU5JKRFvWyb6MlW1KaAM/TELHDe1w2/JRV+I0ASBT5TmvHDhrbPNiTmq3DgaOKVVFs6B+xAKOtCfbAlLo5yMT7q4twcsXLAfPUrP0EgMSFdThCrDNLZN9PQ=;M15YV9V/Dd9pd7WlgJEnlw=="
 ---
 
