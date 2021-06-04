@@ -1,31 +1,32 @@
 ---
 category: news
-title: "Pence says he doesn't know whether he'll 'ever see eye-to-eye' with Trump on Jan. 6 attack"
-excerpt: "Former vice president Mike Pence on June 3 said he has spoken with former president Donald Trump “many times” since they left office in January and admitted that the two still do not “see eye-to-eye” about the Jan."
-publishedDateTime: 2021-06-03T23:05:00Z
-originalUrl: "https://www.washingtonpost.com/video/politics/pence-says-he-doesnt-know-whether-hell-ever-see-eye-to-eye-with-trump-on-jan-6-attack/2021/06/03/003c6a81-46b8-4b47-be65-af27bd702da2_video.html"
-webUrl: "https://www.washingtonpost.com/video/politics/pence-says-he-doesnt-know-whether-hell-ever-see-eye-to-eye-with-trump-on-jan-6-attack/2021/06/03/003c6a81-46b8-4b47-be65-af27bd702da2_video.html"
+title: "Pence 'may never see eye to eye’ with Trump on Jan. 6"
+excerpt: "Rough Cuts Pence 'may never see eye to eye’ with Trump on Jan. 6. Posted . Former Vice President Mike Pence on Thursday called the riots on Capitol Hill a \"dark\" and \"tragic\" da"
+publishedDateTime: 2021-06-04T08:53:00Z
+originalUrl: "https://www.reuters.com/video/watch/idOVEFZQKF3"
+webUrl: "https://www.reuters.com/video/watch/idOVEFZQKF3"
 type: article
-quality: 110
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Mike Pence
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-04-2021/t_31ca26edaaa84d7389b3a2fb4a6c3cf1_name_pence_scaled.jpg&w=1080"
-    width: 1080
-    height: 608
+  - url: "https://static.reuters.com/resources/r/?d=20210604&i=OVEFZQKF3&r=OVEFZQKF3&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -107,20 +108,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Pence 'may never see eye to eye’ with Trump on Jan. 6"
-    excerpt: "Rough Cuts Pence 'may never see eye to eye’ with Trump on Jan. 6. Posted . Former Vice President Mike Pence on Thursday called the riots on Capitol Hill a \"dark\" and \"tragic\" da"
-    publishedDateTime: 2021-06-04T08:53:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEFZQKF3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 130
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210604&i=OVEFZQKF3&r=OVEFZQKF3&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Pence speaks out on Trump and Jan. 6 Capitol riot"
     excerpt: "Posted . Former Vice President Mike Pence on Thursday called the riots on Capitol Hill a \"dark\" and \"tragic\" day in"
     publishedDateTime: 2021-06-04T08:54:00Z
@@ -174,6 +161,20 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-04-2021/t_31ca26edaaa84d7389b3a2fb4a6c3cf1_name_pence_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
+  - title: "Pence says he doesn't know whether he'll 'ever see eye-to-eye' with Trump on Jan. 6 attack"
+    excerpt: "Former vice president Mike Pence on June 3 said he has spoken with former president Donald Trump “many times” since they left office in January and admitted that the two still do not “see eye-to-eye” about the Jan."
+    publishedDateTime: 2021-06-03T23:05:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/pence-says-he-doesnt-know-whether-hell-ever-see-eye-to-eye-with-trump-on-jan-6-attack/2021/06/03/003c6a81-46b8-4b47-be65-af27bd702da2_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-04-2021/t_31ca26edaaa84d7389b3a2fb4a6c3cf1_name_pence_scaled.jpg&w=1080"
         width: 1080
@@ -237,6 +238,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "oNuVLy6w0PFzRkV8Zc+ZxKqybmQ84uWyoomGefCkz6r6iHqP+ZRWMnnXOq0BoB31xf7894OcDU9hWpOs5s51HptSj5PbGh9HfCgX1SxScXf1P9BDe0aYvFcY7TMpSCI4HOv+UHbQqkut0WQdqS+zK1iJg00U6teBwX9Ldx58tR+ryEP89UNmHaXxtMH5StBrHjykHO0z+JlaOf/9P/tjl/PdpOsooAkvqo6xB4c/7H+OZAAj+Hihcj65Sg45AEPn5EwPMIQyGHiVPODtmVKvL6+HpPlSy6SOZ9sHX9NhS56USJYwuP1OjE+sH+3Z1jwcktlJZAKGv0MXi1rNRd5k9ao8aP9j0bdx2xaWE1BoNqxMP2/5FDlPu2WcQGMDCvCf0qVJdAc6sDWEuJFKe6pHUYPB8BpZuopDHNMeFFpjGbU38eV8kgbHnQlhYndwpCM8L+dphmP2Auj/d9qFczHj6SBJRPqeiLlssKv98S7IVAhf+MnO1MDFO/PLRopcMj+wxiFPdS5smQhxQUzfN4CjxA==;X5FleD2jn8CumzaiEQueDg=="
+secured: "B70/4p8AbonNN2QyJ8/WJBW2SNUVpT3yA+ud0s4YRjycboV5b4qJtm8PfSxu885hQlSIHbDN2ICNvWA5nICTlva6P5fJ0jExxr25IOMvqw/XiPB2uU7lpCbjbW6s0kbfrqSl7FxoQ7atH8He1DZi6FJRXFJV3eDjiGmiUiLP2EmIzmD2c4us90ZwQwZKuYf/T4TGe3leP8j/wr/HEs/r00k5G+SL4xDJQkG4UNT+p50LV73LoawG5KueY8dkcC7HhOBu9Z+u2z5ySjy1t4e/sc7fYDR51rNHjtMeOsT2sQtYpOKxHnLdmhc2U6I8CIUv3KIi2BBalLPb1f8dd9ywxE7VPhnYWGoMfJke3FUA4fM=;+6rI0QaKcAEOKQkJMJ7iig=="
 ---
 

@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Pence says he doesn't know whether he'll 'ever see eye-to-eye' with Trump on Jan. 6 attack"
-excerpt: "Former vice president Mike Pence on June 3 said he has spoken with former president Donald Trump “many times” since they left office in January and admitted that the two still do not “see eye-to-eye” about the Jan."
-publishedDateTime: 2021-06-03T23:05:00Z
-originalUrl: "https://www.washingtonpost.com/video/politics/pence-says-he-doesnt-know-whether-hell-ever-see-eye-to-eye-with-trump-on-jan-6-attack/2021/06/03/003c6a81-46b8-4b47-be65-af27bd702da2_video.html"
-webUrl: "https://www.washingtonpost.com/video/politics/pence-says-he-doesnt-know-whether-hell-ever-see-eye-to-eye-with-trump-on-jan-6-attack/2021/06/03/003c6a81-46b8-4b47-be65-af27bd702da2_video.html"
+title: "Mike Pence: I'll Likely Never See Eye to Eye With Trump on Jan. 6"
+excerpt: "Former Vice President Mike Pence said Thursday that he wasn’t sure that he and former President Donald Trump would ever see “eye to eye” over what happened on Jan. 6 but that he would “always be proud of what we accomplished for the American people over the last four years."
+publishedDateTime: 2021-06-03T14:12:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-06-03/pence-returns-to-another-key-early-presidential-voting-state"
+webUrl: "https://www.bloomberg.com/news/articles/2021-06-03/pence-returns-to-another-key-early-presidential-voting-state"
 type: article
-quality: 110
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg
+  domain: bloomberg.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-04-2021/t_31ca26edaaa84d7389b3a2fb4a6c3cf1_name_pence_scaled.jpg&w=1080"
-    width: 1080
-    height: 608
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYK25SbTr_pM/v1/1200x800.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -151,20 +151,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Mike Pence: I'll Likely Never See Eye to Eye With Trump on Jan. 6"
-    excerpt: "Former Vice President Mike Pence said Thursday that he wasn’t sure that he and former President Donald Trump would ever see “eye to eye” over what happened on Jan. 6 but that he would “always be proud of what we accomplished for the American people over the last four years."
-    publishedDateTime: 2021-06-03T14:12:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-03/pence-returns-to-another-key-early-presidential-voting-state"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 120
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYK25SbTr_pM/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Pence says he and Trump may never 'see eye to eye' on Jan. 6 insurrection"
     excerpt: "Former vice president Mike Pence on June 3 also suggested Democrats and the media are trying to use the Jan. 6 insurrection to divide the GOP."
     publishedDateTime: 2021-06-03T23:05:00Z
@@ -174,6 +160,20 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-04-2021/t_31ca26edaaa84d7389b3a2fb4a6c3cf1_name_pence_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
+  - title: "Pence says he doesn't know whether he'll 'ever see eye-to-eye' with Trump on Jan. 6 attack"
+    excerpt: "Former vice president Mike Pence on June 3 said he has spoken with former president Donald Trump “many times” since they left office in January and admitted that the two still do not “see eye-to-eye” about the Jan."
+    publishedDateTime: 2021-06-03T23:05:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/pence-says-he-doesnt-know-whether-hell-ever-see-eye-to-eye-with-trump-on-jan-6-attack/2021/06/03/003c6a81-46b8-4b47-be65-af27bd702da2_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-04-2021/t_31ca26edaaa84d7389b3a2fb4a6c3cf1_name_pence_scaled.jpg&w=1080"
         width: 1080
@@ -237,6 +237,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "oNuVLy6w0PFzRkV8Zc+ZxKqybmQ84uWyoomGefCkz6r6iHqP+ZRWMnnXOq0BoB31xf7894OcDU9hWpOs5s51HptSj5PbGh9HfCgX1SxScXf1P9BDe0aYvFcY7TMpSCI4HOv+UHbQqkut0WQdqS+zK1iJg00U6teBwX9Ldx58tR+ryEP89UNmHaXxtMH5StBrHjykHO0z+JlaOf/9P/tjl/PdpOsooAkvqo6xB4c/7H+OZAAj+Hihcj65Sg45AEPn5EwPMIQyGHiVPODtmVKvL6+HpPlSy6SOZ9sHX9NhS56USJYwuP1OjE+sH+3Z1jwcktlJZAKGv0MXi1rNRd5k9ao8aP9j0bdx2xaWE1BoNqxMP2/5FDlPu2WcQGMDCvCf0qVJdAc6sDWEuJFKe6pHUYPB8BpZuopDHNMeFFpjGbU38eV8kgbHnQlhYndwpCM8L+dphmP2Auj/d9qFczHj6SBJRPqeiLlssKv98S7IVAhf+MnO1MDFO/PLRopcMj+wxiFPdS5smQhxQUzfN4CjxA==;X5FleD2jn8CumzaiEQueDg=="
+secured: "hw6fRobdNba8r3zOM+W7Wa6NneJpkM+LXTmeyFtPTIWK+HippdQwq/gFkZ8pr1lZImguP8bc4Fr1co/cS20GVkpSZE0v6abizzXmB+n8XCcWFAq+QsXqm+fjQxVlBd9kGJmZiqTCmqsPsl68fLd6+KMtLxfHxfKJKe9yHq3rAgV98p1Ks3QQsSHjz3YWiaDeeJ9srB+JwF3MVcnkkbf7QXxtbU5pQ3XFlTqaEl67t2131rTkx/8ihX/GoedRrK8SE9libymtdKbsewTrKcl225gyerUlvJnpLsfp8l+xt+BisYci8QlGKbJufV3IgAQAw4pMlq2mMT92X4oIcLL+h/XrpVoruQwRKEG4b5qHb3E=;SGCz8w26L68eQwvq30+fsA=="
 ---
 

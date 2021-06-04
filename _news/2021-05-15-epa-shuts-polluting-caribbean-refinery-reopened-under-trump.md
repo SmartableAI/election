@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Right seizes Trump playbook to blame migrants for environmental harm"
+    excerpt: "Arizona’s attorney general has filed a lawsuit framing the climate crisis as a nativist issue as the evident impacts of global heating make denial less viable"
+    publishedDateTime: 2021-05-20T12:19:00Z
+    webUrl: "https://www.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/b289fcf53999c0954984c5be84fc6913d2c7a48b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=554f7d094846e7ccadf088f01921c64e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Families separated by Trump receive therapy, but funds could dry up soon"
     excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
     publishedDateTime: 2021-05-14T13:00:00Z
@@ -110,6 +126,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/5ea2518ad66be58cfeab722641aea1a94e7b7e0c/0_3_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fc4e62efe4e614dff86ab2172e3b6c98"
         width: 600
         height: 360
+        isCached: true
+  - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
+    excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
+    publishedDateTime: 2021-05-20T19:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
+        width: 700
+        height: 525
         isCached: true
   - title: "QAnon Shaman's Lawyer Gives Bold Response About Capitol Rioters And Donald Trump's Role"
     excerpt: "Trump may not be facing trial, but that hasn't stopped Capitol rioters from trying to make him part of their defense."

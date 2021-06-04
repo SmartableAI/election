@@ -2,111 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-04-pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6.md",
-      "title": "Pence: I'll likely never see eye to eye with Trump on Jan. 6",
-      "excerpt": "Former Vice President Mike Pence says he isn’t sure he and former President Donald Trump will ever see “eye to eye” over what happened on Jan_ 6 but he will “always be proud of what we accomplished for the American people over the last four years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6/2021/06/04/e495d3aa-c4f5-11eb-89a4-b7ae22aa193e_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6/2021/06/04/e495d3aa-c4f5-11eb-89a4-b7ae22aa193e_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 310,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XDW32TGEYUI6XCNEW6XCFKQZHY.jpg&w=1440",
-          "width": 1440,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6/2021/06/04/e495d3aa-c4f5-11eb-89a4-b7ae22aa193e_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6/2021/06/04/e495d3aa-c4f5-11eb-89a4-b7ae22aa193e_story.html?outputType=amp",
-      "publishedDateTime": "2021-06-03T21:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-trumps-grip-on-gop-sparks-fears-about-democratic-process.md",
-      "title": "Trump's grip on GOP sparks fears about democratic process",
-      "excerpt": "Many Republicans, led by Donald Trump, are continuing to question the validity of the 2020 election, and critics say that denial shows how the party is increasingly open to bucking democratic norms",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235",
-      "publishedDateTime": "2021-06-03T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-06-04-pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6-but-gop-must-move-forward.md",
       "title": "Pence says he and Trump don’t ‘see eye to eye’ on Jan. 6 — but GOP ‘must move forward’",
       "excerpt": "In a speech in New Hampshire, former Vice President Mike Pence urged Republicans to move forward following the Capitol riot.",
@@ -152,6 +47,59 @@
         "Election",
         "Donald Trump",
         "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-mike-pence-says-he-and-trump-may-never-see-eye-to-eye-on-capitol-attack.md",
+      "title": "Mike Pence says he and Trump ‘may never see eye-to-eye’ on Capitol attack",
+      "excerpt": "The former vice-president was speaking at a New Hampshire Republican dinner as he considers his own 2024 White House run",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/03/mike-pence-donald-trump-us-capitol-attacks",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/03/mike-pence-donald-trump-us-capitol-attacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 429,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e239a4a19677aef349a05f84aee1c1fed4cbc0b2/0_40_4920_2952/master/4920.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d5b7fa7d2fd19193294dd78e3bb5302d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/03/mike-pence-donald-trump-us-capitol-attacks",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/mike-pence-donald-trump-us-capitol-attacks",
+      "publishedDateTime": "2021-06-03T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Mike Pence"
       ]
     },
@@ -261,58 +209,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-03-trump-increasingly-talking-like-he-plans-another-presidential-run-even-as-he-faces-legal-threats-allies-say.md",
-      "title": "Trump increasingly talking like he plans another presidential run, even as he faces legal threats, allies say",
-      "excerpt": "Trump would face daunting headwinds in addition to his legal vulnerabilities if he runs, with the legacy of being the only president to be impeached twice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/Ikajz9nESbBxudD0chGC9cQZ1Ww=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TZVUHTCDS5AFHE4OFF3VF5XG6U.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html?outputType=amp",
-      "publishedDateTime": "2021-06-03T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-06-03-republican-leaders-to-summit-with-trump-over-conservative-agenda.md",
       "title": "Republican leaders to summit with Trump over conservative agenda",
       "excerpt": "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week.",
@@ -393,58 +289,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-trump-doj-seized-phone-records-of-new-york-times-reporters.md",
-      "title": "Trump DOJ seized phone records of New York Times reporters",
-      "excerpt": "The New York Times reported on Wednesday that the Justice Department under former President Trump Donald Trump RNC warns it will advise presidential candidates against future debates if panel doesn't make changes Washington Post issues correction on 2020 report on Tom Cotton,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters",
-      "originalUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ca_dojhatecrimechurchfire_041521getty.jpg",
-          "width": 1440,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp",
-      "publishedDateTime": "2021-06-02T18:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -983,21 +827,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-02-us-ends-trump-era-immigration-policy-that-forced-asylum-seekers-to-wait-in-mexico-for-hearings-in-immigration-court.md",
-      "title": "US ends Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in immigration court",
-      "excerpt": "The Biden administration on Tuesday formally ended a Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in U.S. immigration court.",
+      "path": "_news/2021-06-02-sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition.md",
+      "title": "Sicknick family criticizes GOP lawmakers, Trump over January 6 commission opposition",
+      "excerpt": "The family of deceased Capitol Police officer Brian Sicknick is continuing their criticism of lawmakers opposed to the creation of a commission to investigate the January 6 Capitol assault. CBS News congressional correspondent Nikole Killion joins CBSN's \"Red & Blue\" host Elaine Quijano to discuss her interview with Sicknick's mother and longtime companion.",
       "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html",
+      "webUrl": "https://www.cbsnews.com/video/sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition/",
+      "originalUrl": "https://www.cbsnews.com/video/sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 98,
       "tags": null,
       "images": [
         {
-          "url": "https://www.chicagotribune.com/resizer/6HwP7hGhWlXmHzuJczhcTG55y6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7AK2LAGF26SSGEEMGLS2DI6RVE.aspx",
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/01/d3dbdf5f-e563-42f2-9617-8b9e3657c433/thumbnail/1200x630/29964b24adb58544e8a72fe26291b653/0601-rb-sicknick-726792-640x360.jpg",
           "width": 1200,
-          "height": 800,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1005,16 +849,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html?outputType=amp",
-      "publishedDateTime": "2021-06-01T16:42:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T16:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1357,6 +1201,101 @@
       ]
     },
     {
+      "path": "_news/2021-05-30-special-house-election-measures-political-pulse-after-trump.md",
+      "title": "Special House election measures political pulse after Trump",
+      "excerpt": "A special congressional election is testing the pulse of politics in the Albuquerque metro area and a few outlying rural communities at a turning point in the pandemic and economic recovery",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_d7b66e9711b6412c9509dfe7f40b3feb_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278",
+      "publishedDateTime": "2021-05-29T18:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-trump-looms-large-in-pennsylvanias-gop-primaries-in-2022.md",
+      "title": "Trump looms large in Pennsylvania's GOP primaries in 2022",
+      "excerpt": "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php",
+      "originalUrl": "https://www.chron.com/news/article/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php",
+      "publishedDateTime": "2021-05-29T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-us-seeks-dismissal-of-cases-against-trump-for-clearing-lafayette-square.md",
       "title": "US seeks dismissal of cases against Trump for clearing Lafayette Square",
       "excerpt": "Last June, law enforcement removed protesters before the then president walked to a church for a photo op with a Bible",
@@ -1409,21 +1348,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-29-tennessee-shelter-for-immigrant-children-opened-under-trump.md",
-      "title": "Tennessee shelter for immigrant children opened under Trump",
-      "excerpt": "Tennessee licensed a shelter for immigrant children a year before the state’s Republican governor and U.S. Senators began expressing outrage over unaccompanied minors sent to Chattanooga",
+      "path": "_news/2021-05-29-schumer-donald-trump-is-a-bane-to-our-democracy.md",
+      "title": "Schumer: Donald Trump is a 'bane' to our democracy",
+      "excerpt": "Senate Majority Leader Chuck Schumer slammed Republicans after their filibuster blocked a bill to create a commission to probe the riot at the U.S. Capitol. He blamed fear of Donald Trump. (May 28)",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/05/28/schumer-donald-trump-bane-our-democracy/5250518001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/05/28/schumer-donald-trump-bane-our-democracy/5250518001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/fe508e67-6898-40b0-9dc7-85082854fbf3_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1431,16 +1370,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
-      "publishedDateTime": "2021-05-28T14:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T12:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1448,49 +1387,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-mcconnell-to-trump-whats-a-little-insurrection-between-friends.md",
-      "title": "McConnell to Trump: What’s a Little Insurrection Between Friends?",
-      "excerpt": "Mitch McConnell gave his members permission to vote to impeach Trump, and even briefly entertained the possibility of joining them. By now, whatever defiant impulse the party’s establishment harbored has died down to the point where a former officeholder merely hinting that Trump is politically optimal rates as a news story.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/a14/14e/8711801fbf6ea18d66d6e885b9b0164d4a-ni-trump-mcconnell.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "publishedDateTime": "2021-05-28T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1558,6 +1454,115 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-dianne-morales-beautiful-mess-council-boosts-housing-vouchers-racketeering-charge-in-trump-org-probe.md",
+      "title": "Dianne Morales’ beautiful mess — Council boosts housing vouchers — Racketeering charge in Trump Org probe?",
+      "excerpt": "Erin Durkin and Anna Gronewold's must-read briefing informing the daily conversation among knowledgeable New Yorkers Dianne Morales’ beautiful mess — Council boosts housing vouchers — Racketeering charge in Trump Org probe?",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/new-york-playbook/2021/05/28/dianne-morales-beautiful-mess-council-boosts-housing-vouchers-racketeering-charge-in-trump-org-probe-493043",
+      "originalUrl": "https://www.politico.com/newsletters/new-york-playbook/2021/05/28/dianne-morales-beautiful-mess-council-boosts-housing-vouchers-racketeering-charge-in-trump-org-probe-493043",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-inside-trumps-hot-vax-new-jersey-summer-where-hes-playing-golf-and-plotting-rallies-while-legal-storms-form.md",
+      "title": "Inside Trump's hot vax New Jersey summer, where he's playing golf and plotting rallies while legal storms form",
+      "excerpt": "Trump's political machine is humming from his summer perch in Bedminster, New Jersey. But legal trouble is brewing in New York",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/inside-donald-trumps-hot-vax-new-jersey-summer-vacation-2021-5",
+      "originalUrl": "https://www.businessinsider.com/inside-donald-trumps-hot-vax-new-jersey-summer-vacation-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60b0198ebee0fc0019d5a154?width=1200&format=jpeg",
+          "width": 802,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YBTS7KV6PII6XMTOKNTD427G74.jpg&w=1440"
         width: 1440
         height: 959
+        isCached: true
+  - title: "McCarthy says he would testify about conversation with Trump during Jan. 6 Capitol assault"
+    excerpt: "House Minority Leader Kevin McCarthy took a swipe at the \"Pelosi commission\" to investigate the Jan. 6 Capitol attack as one plagued with politics."
+    publishedDateTime: 2021-05-20T18:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kevin-mccarthy-presser-02-rt-jef-210520_1621534095132_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump fans convene to talk about God, country and patriotism"
     excerpt: "The For God & Country Patriot Roundup conference is being held for three days at the Omni Dallas Hotel. DALLAS — It had all the buzz and excitement of a political convention, except that the next presidential election is still a few years away."
