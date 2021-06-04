@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "McCarthy says he would testify about conversation with Trump during Jan. 6 Capitol assault"
-    excerpt: "House Minority Leader Kevin McCarthy took a swipe at the \"Pelosi commission\" to investigate the Jan. 6 Capitol attack as one plagued with politics."
-    publishedDateTime: 2021-05-20T18:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 115
-    images:
-      - url: "https://s.abcnews.com/images/Politics/kevin-mccarthy-presser-02-rt-jef-210520_1621534095132_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump fans convene to talk about God, country and patriotism"
     excerpt: "The For God & Country Patriot Roundup conference is being held for three days at the Omni Dallas Hotel. DALLAS — It had all the buzz and excitement of a political convention, except that the next presidential election is still a few years away."
     publishedDateTime: 2021-05-29T21:26:00Z

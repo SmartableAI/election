@@ -2,6 +2,222 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-03-biden-to-meet-with-queen-elizabeth-ii-at-windsor-castle-on-june-13.md",
+      "title": "Biden to meet with Queen Elizabeth II at Windsor Castle on June 13",
+      "excerpt": "President Biden and first lady Jill Biden are set to meet with Queen Elizabeth II at Windsor Castle during his trip to Europe next month for the G-7 summit, the palace said Thursday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uHx7jkR-4YY/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uHx7jkR-4YY/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13.amp",
+      "publishedDateTime": "2021-06-03T05:41:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-get-a-shot-and-have-a-beer-bidens-new-glass-half-full-strategy-woos-vaccine-skeptics.md",
+      "title": "'Get a shot and have a beer': Biden's new glass-half-full strategy woos vaccine skeptics",
+      "excerpt": "This Bud's for you, and anyone else ready to roll up their sleeve to put the pandemic behind them.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bUQ72w46G-w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bUQ72w46G-w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210602143344-01-biden-vaccine-remarks-0602-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/03/politics/free-beer-covid-vaccine-shots-joe-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/free-beer-covid-vaccine-shots-joe-biden/index.html",
+      "publishedDateTime": "2021-06-03T01:08:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-trump-doj-seized-phone-records-of-new-york-times-reporters.md",
+      "title": "Trump DOJ seized phone records of New York Times reporters",
+      "excerpt": "The New York Times reported on Wednesday that the Justice Department under former President Trump Donald Trump RNC warns it will advise presidential candidates against future debates if panel doesn't make changes Washington Post issues correction on 2020 report on Tom Cotton,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters",
+      "originalUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca_dojhatecrimechurchfire_041521getty.jpg",
+          "width": 1440,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp",
+      "publishedDateTime": "2021-06-02T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive.md",
+      "title": "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive",
+      "excerpt": "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600",
+      "originalUrl": "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1",
+      "publishedDateTime": "2021-06-02T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-washington-post-op-ed-claims-media-no-longer-needs-trump-despite-nonstop-coverage-of-former-potus.md",
       "title": "Washington Post op-ed claims media 'no longer needs Trump' despite nonstop coverage of former POTUS",
       "excerpt": "Washington Post columnist Paul Waldman made a questionable claim that the media \"no longer needs\" Donald Trump despite the continued coverage the former president still receives more than four months after leaving office.",
@@ -1079,77 +1295,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-01-biden-seemingly-blasts-sinema-manchin-for-voting-more-with-my-republican-friends.md",
-      "title": "Biden seemingly blasts Sinema, Manchin for 'voting more with my Republican friends'",
-      "excerpt": "President Biden laid blame on two Democratic senators for not passing voting rights legislation while speaking in Tulsa, Okla. on Tuesday.",
+      "path": "_news/2021-06-02-us-ends-trump-era-immigration-policy-that-forced-asylum-seekers-to-wait-in-mexico-for-hearings-in-immigration-court.md",
+      "title": "US ends Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in immigration court",
+      "excerpt": "The Biden administration on Tuesday formally ended a Trump-era immigration policy that forced asylum-seekers to wait in Mexico for hearings in U.S. immigration court.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KkNJroQDveg/biden-sinema-manchin-voting-republicans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KkNJroQDveg/biden-sinema-manchin-voting-republicans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c819f4d-29e3-40e1-a5eb-928bef64e622/7b993a18-9673-4ecf-a637-462dd7d51236/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-sinema-manchin-voting-republicans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sinema-manchin-voting-republicans.amp",
-      "publishedDateTime": "2021-06-01T16:41:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition.md",
-      "title": "Sicknick family criticizes GOP lawmakers, Trump over January 6 commission opposition",
-      "excerpt": "The family of deceased Capitol Police officer Brian Sicknick is continuing their criticism of lawmakers opposed to the creation of a commission to investigate the January 6 Capitol assault. CBS News congressional correspondent Nikole Killion joins CBSN's \"Red & Blue\" host Elaine Quijano to discuss her interview with Sicknick's mother and longtime companion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition/",
-      "originalUrl": "https://www.cbsnews.com/video/sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition/",
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 103,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/01/d3dbdf5f-e563-42f2-9617-8b9e3657c433/thumbnail/1200x630/29964b24adb58544e8a72fe26291b653/0601-rb-sicknick-726792-640x360.jpg",
+          "url": "https://www.chicagotribune.com/resizer/6HwP7hGhWlXmHzuJczhcTG55y6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7AK2LAGF26SSGEEMGLS2DI6RVE.aspx",
           "width": 1200,
-          "height": 630,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1157,16 +1317,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T16:41:00-07:00",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-us-biden-end-trump-immigration-policy-asylum-mexico-court-20210601-ozztyq5cojhileqsbuog232ipq-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-01T16:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1184,175 +1344,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-doj-seeks-dismissal-of-case-by-aclu-blm-against-trump-barr-for-clearing-lafayette-park.md",
-      "title": "DOJ seeks dismissal of case by ACLU, BLM against Trump, Barr for clearing Lafayette Park",
-      "excerpt": "Tuesday marks one year since the controversial clearing of Lafayette Square protesters before President Trump visited St. John’s Church, and Department of Justice (DOJ) lawyers have requested a federal judge toss out cases against former President Trump, former Attorney General Bill Barr and other Trump-era",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4QeX3236BY/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4QeX3236BY/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/720/405/Lafayette-Park.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park.amp",
-      "publishedDateTime": "2021-06-01T14:20:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-house-conservatives-slam-bidens-pathway-to-bankruptcy-budget-showcase-separate-plan-for-fiscal-stability.md",
-      "title": "House conservatives slam Biden's 'Pathway to Bankruptcy' budget, showcase separate plan for 'fiscal stability'",
-      "excerpt": "EXCLUSIVE: The largest House conservative caucus is releasing a new playbook to fight back against President Biden's $6 trillion budget proposal, calling out provisions on abortion, tax hikes and expanding the \"welfare state.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K72CTQqV8KA/house-conservatives-biden-budget-bankruptcy-inflation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K72CTQqV8KA/house-conservatives-biden-budget-bankruptcy-inflation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1312682563.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T12:43:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-a-tabloid-publisher-will-pay-a-187500-fec-penalty-for-its-trump-hush-money-payment.md",
-      "title": "A tabloid publisher will pay a $187,500 F.E.C. penalty for its Trump hush-money payment.",
-      "excerpt": "But Donald Trump faces no further investigation or penalties related to the 2016 payment to a former Playboy model by the publisher of The National Enquirer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/01/lens/01new-washington-briefing-american-media1/01new-washington-briefing-american-media1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.amp.html",
-      "publishedDateTime": "2021-06-01T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

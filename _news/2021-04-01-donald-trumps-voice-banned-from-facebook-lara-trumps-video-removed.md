@@ -175,22 +175,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Capitol Rioters Will Blame Trump, Fox News for Their Actions on Jan. 6: Report"
-    excerpt: "\"The reason he was there is because he was a dumbass and believed what he heard on Fox News,\" an attorney representing what of the defendants said."
-    publishedDateTime: 2021-05-29T19:05:00Z
-    webUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149"
-    ampWebUrl: "https://www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/capitol-rioters-will-blame-trump-fox-news-their-actions-jan-6-report-1596149?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1810065/us-capitol-riot.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "John Boehner says Trump incited Capitol attack via 'bullshit he'd been shoveling since he lost a fair election'"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former Republican House Speaker John Boehner in his new book blamed former President Donald Trump for the deadly Capitol insurrection on January 6, per an excerpt obtained by The New York Times, stating that ..."
     publishedDateTime: 2021-04-07T14:18:00Z

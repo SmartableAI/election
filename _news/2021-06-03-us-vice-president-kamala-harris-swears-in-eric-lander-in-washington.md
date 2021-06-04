@@ -3,8 +3,8 @@ category: news
 title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
 excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
 publishedDateTime: 2021-06-02T17:02:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/b05be610aa796336ffd355911ab26938/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/b05be610aa796336ffd355911ab26938/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/009facc2f199ecbb7b4c0affa25233fc/HARRIS-LANDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/b05be610aa796336ffd355911ab26938/HARRIS-LANDER.jpg"
     width: 650
-    height: 433
+    height: 432
     isCached: true
 
 related:
@@ -114,6 +114,6 @@ related:
         height: 324
         isCached: true
 
-secured: "nO0MfOe5eyf8sBGOTPXkeiE2OOqJ9O+Lu2HbvFiF6253nauZ2b9ooWr9u4RHRufiVjQysG7EoIO67cWUPs6+mvb8XbofKWKhHKfGy121JmJh7qg+UXXa1Ov/wciHk/VtaBb4OsIfMNRqE1omn5HY07FdjPKJT7AX9Zcz7ysFGzcY2hwV8rON+ps9chJo6YYD7nh0NBfyVPYT69VwM36Z80W4RFL68W6KdDAqeSnDtQyhhxhzVXUnRUzQ/BpWVHtHg8eXCjtGIXCt1YEXOkxY3ZJiIGDLA82//8dHymPLa9aH2LKWXxnqjlg2ZR/e3/3O6q+cvHuUrC3klzGJzxEaUlq28KI8WlFlA9nmheWjkVDnvZuS7HDU3mQ44FqX/Ll9RdtSNthYWc+ppmFkW5y2iT4GWalk0QNofVT5Ze/nlnY/+mfSsilvOJqbUTZJgasUN15sUXXn8mae5mbEX1AjttomY7HPbd4F3IlG+Io8Z5hca9AbSsjgTrG8oW4sWDdcBpCd9c7Lth3ZkrYDBkifuw==;PSX1BmECTolJfnyz8dLvMA=="
+secured: "GqCkJFv7mK0WhfjbkkMT+P1tiM2V+Ojvfz+I1EO8WTKLwJlCduxlOOamADRlVclpu6mO6PY6wcmzUoqahG/egL7UWl8ePem7Q5kE6+5Hup2bzxKcCoRkP68UAFwyKInUJCmH34ZW+x4Gh3Sf+A0GNLWjgUk2dVa02mMX4sPxXNkbIEUJabbWQu5hOfFb/2qide5/hyFHUaTFIaBALaQJ4rtBB5ot8fs0naDC5gKTr5EWVmZ+9OJXhDLmsqkEJ32FUx6+0l5gz0VPD9LnVA5OO/o9FYjFWpNij9sp4mamm6UKAfcZZAjjT2O4mPETvflp0oWGdOpHjiRYvzosfItAqkSzPEGfCNxGONPmTv/c54k=;r95Zudrz/L7+AqkHiOmMRg=="
 ---
 

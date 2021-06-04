@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 935
+heat: 955
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521164038-infrastructure-construction-0521-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's high-wire act on infrastructure is at a critical moment"
+    excerpt: "President Joe Biden has entered a critical moment where the decisions he makes will dictate the success of his sweeping $4 trillion legislative agenda -- and potentially his first term in office.\n    \n"
+    publishedDateTime: 2021-06-04T12:32:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ns45sQm1UdM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/infrastructure-state-of-play/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/infrastructure-state-of-play/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601163222-03-biden-tulsa-speech-0601-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

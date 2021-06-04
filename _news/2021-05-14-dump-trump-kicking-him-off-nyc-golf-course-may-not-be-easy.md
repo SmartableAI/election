@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371"
 type: article
 quality: 125
-heat: 365
+heat: 345
 published: true
 
 provider:
@@ -142,20 +142,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/15/USAT/a6ce7384-317f-484b-a49d-d5863258b169-AP_Missing_Woman_Colorado.jpg?auto=webp&crop=2773,1560,x0,y140&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump Org. subject of criminal probe in New York"
-    excerpt: "New York's attorney general said Friday that she's assigned two lawyers to work with the Manhattan district's attorney's office on a criminal investigation into former President Donald Trump's business dealings."
-    publishedDateTime: 2021-05-21T19:38:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/21/trump-org-subject-criminal-probe-new-york/5208067001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6026d8e2-3c12-42da-9ba8-67dd8fd97232_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Judge sentences co-founder of 'Students for Trump' to prison"
     excerpt: "A judge has sentenced a co-founder of “Students for Trump” to 13 months in prison after he admitted posing as a lawyer to cheat clients out of thousands of dollars"

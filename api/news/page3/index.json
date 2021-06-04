@@ -2,6 +2,231 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-01-biden-seemingly-blasts-sinema-manchin-for-voting-more-with-my-republican-friends.md",
+      "title": "Biden seemingly blasts Sinema, Manchin for 'voting more with my Republican friends'",
+      "excerpt": "President Biden laid blame on two Democratic senators for not passing voting rights legislation while speaking in Tulsa, Okla. on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KkNJroQDveg/biden-sinema-manchin-voting-republicans",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KkNJroQDveg/biden-sinema-manchin-voting-republicans",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c819f4d-29e3-40e1-a5eb-928bef64e622/7b993a18-9673-4ecf-a637-462dd7d51236/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-sinema-manchin-voting-republicans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sinema-manchin-voting-republicans.amp",
+      "publishedDateTime": "2021-06-01T16:41:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-doj-seeks-dismissal-of-case-by-aclu-blm-against-trump-barr-for-clearing-lafayette-park.md",
+      "title": "DOJ seeks dismissal of case by ACLU, BLM against Trump, Barr for clearing Lafayette Park",
+      "excerpt": "Tuesday marks one year since the controversial clearing of Lafayette Square protesters before President Trump visited St. John’s Church, and Department of Justice (DOJ) lawyers have requested a federal judge toss out cases against former President Trump, former Attorney General Bill Barr and other Trump-era",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4QeX3236BY/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4QeX3236BY/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/720/405/Lafayette-Park.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park.amp",
+      "publishedDateTime": "2021-06-01T14:20:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-house-conservatives-slam-bidens-pathway-to-bankruptcy-budget-showcase-separate-plan-for-fiscal-stability.md",
+      "title": "House conservatives slam Biden's 'Pathway to Bankruptcy' budget, showcase separate plan for 'fiscal stability'",
+      "excerpt": "EXCLUSIVE: The largest House conservative caucus is releasing a new playbook to fight back against President Biden's $6 trillion budget proposal, calling out provisions on abortion, tax hikes and expanding the \"welfare state.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K72CTQqV8KA/house-conservatives-biden-budget-bankruptcy-inflation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K72CTQqV8KA/house-conservatives-biden-budget-bankruptcy-inflation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1312682563.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T12:43:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-a-tabloid-publisher-will-pay-a-187500-fec-penalty-for-its-trump-hush-money-payment.md",
+      "title": "A tabloid publisher will pay a $187,500 F.E.C. penalty for its Trump hush-money payment.",
+      "excerpt": "But Donald Trump faces no further investigation or penalties related to the 2016 payment to a former Playboy model by the publisher of The National Enquirer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/01/lens/01new-washington-briefing-american-media1/01new-washington-briefing-american-media1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.amp.html",
+      "publishedDateTime": "2021-06-01T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-bongino-torches-embarrassing-mainstream-media-for-covering-up-hunter-biden-wuhan-lab-stories.md",
       "title": "Bongino torches 'embarrassing' mainstream media for covering up Hunter Biden, Wuhan lab stories",
       "excerpt": "Fox News contributor Dan Bongino on Tuesday ripped the media for its lack of coverage of the Hunter Biden scandal among other issues.",
@@ -984,58 +1209,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-30-special-house-election-measures-political-pulse-after-trump.md",
-      "title": "Special House election measures political pulse after Trump",
-      "excerpt": "A special congressional election is testing the pulse of politics in the Albuquerque metro area and a few outlying rural communities at a turning point in the pandemic and economic recovery",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_d7b66e9711b6412c9509dfe7f40b3feb_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/special-house-election-measures-political-pulse-trump-77984278",
-      "publishedDateTime": "2021-05-29T18:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-29-vice-president-kamala-harris-under-fire-for-disrespectful-tweet.md",
       "title": "Vice President Kamala Harris under fire for 'disrespectful' tweet",
       "excerpt": "Vice President Kamala Harris came under fire Saturday for posting a tweet about Memorial Weekend, but without mentioning the significance of the weekend. ",
@@ -1202,153 +1375,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-wrong-and-un-american-biden-blasts-texas-republicans-sb7-voting-bill.md",
-      "title": "‘Wrong and un-American’: Biden blasts Texas Republicans’ SB7 voting bill",
-      "excerpt": "Governor has said he will sign restrictive voting bill while president laments effects on ‘Black and brown Americans’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1233ea0fee8cf090bb13777dedbfc67acae46e5e/0_319_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84f2155abe07a45e3f9a6e8a6c567430",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill",
-      "publishedDateTime": "2021-05-29T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-trump-looms-large-in-pennsylvanias-gop-primaries-in-2022.md",
-      "title": "Trump looms large in Pennsylvania's GOP primaries in 2022",
-      "excerpt": "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php",
-      "originalUrl": "https://www.chron.com/news/article/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php",
-      "publishedDateTime": "2021-05-29T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-us-seeks-dismissal-of-cases-against-trump-for-clearing-lafayette-square.md",
-      "title": "US seeks dismissal of cases against Trump for clearing Lafayette Square",
-      "excerpt": "Last June, law enforcement removed protesters before the then president walked to a church for a photo op with a Bible",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/182fdb98428aecee4ee42c211a403b595d2cb823/0_115_3705_2222/master/3705.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f893f4da2f4a0eb32537a5f5f3d23843",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal",
-      "publishedDateTime": "2021-05-29T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
