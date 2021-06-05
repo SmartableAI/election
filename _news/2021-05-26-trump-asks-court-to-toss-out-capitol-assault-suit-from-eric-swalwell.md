@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YBTS7KV6PII6XMTOKNTD427G74.jpg&w=1440"
         width: 1440
         height: 959
-        isCached: true
-  - title: "Trump fans convene to talk about God, country and patriotism"
-    excerpt: "The For God & Country Patriot Roundup conference is being held for three days at the Omni Dallas Hotel. DALLAS — It had all the buzz and excitement of a political convention, except that the next presidential election is still a few years away."
-    publishedDateTime: 2021-05-29T21:26:00Z
-    webUrl: "https://www.pressherald.com/2021/05/29/trump-fans-convene-to-talk-about-god-country-and-patriotism/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 55
-    images:
-      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "mO258bzOGq+xYXbK/h0cYl7Tj35RlItTWLsGorwpr9lvyd8vAgUwlVqbfhJ5XdYHB+4f+DPJAKHF3eoADj388+w9bQjIdhcQCoZfY3r7ymtMqhz4/PtKRlOCUTWzgQ5s+iLrUM+rIZ58OW6NDWTNKT/+8sf1iIbZ2zaGFOZJTVpdryHy56H1TwQ69hYuaP9WuRyWEVCgiApoP48XHPL01X628cQkoNeyuKFcrKUfyoLgNcYj8U8jLSLQuW0C3N0KSMZx2ES7wD/6yASDQKvzso0Je6WNtRKnixKe6cPGg8eeU9ymM/je056+E7JkQlI9rIFJXVI1SZL1Ta8Uxtq2JpElYPxG1gBaNtrq/Bs8l5Y=;6NykKvkU3OoENTxbd/lVmQ=="

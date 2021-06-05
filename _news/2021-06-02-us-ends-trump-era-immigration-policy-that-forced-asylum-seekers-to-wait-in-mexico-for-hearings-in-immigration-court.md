@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facebook says Donald Trump's suspension will last at least 2 years, but can be lifted if there is no 'serious risk to public safety'"
+    excerpt: "Trump's account can be reinstated pending an evaluation to assess whether \"the risk to public safety has receded,\" Facebook announced."
+    publishedDateTime: 2021-06-04T20:56:00Z
+    webUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/60ba5775e459cb0018a2c3db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
     excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
     publishedDateTime: 2021-06-03T00:58:00Z

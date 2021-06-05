@@ -25,65 +25,51 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Donald Trump video clip removed from Facebook ‘in line with block’"
-    excerpt: "Former US president has been banned from the platform since early January after the violent insurrection of the Capitol Last modified on Wed 31 Mar 2021 15.23 EDT Facebook on Wednesday removed a clip of an interview with Donald Trump from its platform ..."
-    publishedDateTime: 2021-03-31T18:23:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/mar/31/facebook-donald-trump-video-clip-removed"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/mar/31/facebook-donald-trump-video-clip-removed"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/31/facebook-donald-trump-video-clip-removed"
+  - title: "Ted Lieu Doesn't 'Understand Why Mike Pence Is Even Talking' To Donald Trump After Capitol Riot"
+    excerpt: "\"Mike Pence didn't have the courage to do what should have been done to protect our Country and our Constitution,\" Trump tweeted as Capitol rioters chanted \"Hang Mike Pence.\""
+    publishedDateTime: 2021-06-05T02:24:00Z
+    webUrl: "https://www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858"
+    ampWebUrl: "https://www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
     images:
-      - url: "https://i.guim.co.uk/img/media/28e00ff094d36e2024a4290eb9a4e5e7fd8e45a4/0_370_5888_3532/master/5888.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6bed93b397f46da6bf0ae5f0dade490e"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1814131/ted-lieu-pence-trump-talk-capitol-riot.jpg"
+        width: 3630
+        height: 2561
         isCached: true
-  - title: "Facebook’s growth puts Trump in his place"
-    excerpt: "Social media has moved on from Donald Trump. Companies from Twitter to Facebook to Alphabet’s YouTube banned the former U.S. president after rioters invaded the U.S. Capitol in January. He – and his followers – were prolific users of the networks."
-    publishedDateTime: 2021-04-28T20:39:00Z
-    webUrl: "https://www.reuters.com/article/us-facebook-results-breakingviews-idUSKBN2CF2UK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CF2UK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CF2UK"
+  - title: "Trump increasingly talking like he plans another presidential run, even as he faces legal threats, allies say"
+    excerpt: "Trump would face daunting headwinds in addition to his legal vulnerabilities if he runs, with the legacy of being the only president to be impeached twice."
+    publishedDateTime: 2021-06-03T16:41:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 106
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210428&t=2&i=1560277217&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3R1FR"
-        width: 818
-        height: 545
+      - url: "https://www.chicagotribune.com/resizer/Ikajz9nESbBxudD0chGC9cQZ1Ww=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TZVUHTCDS5AFHE4OFF3VF5XG6U.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump Suspended From Facebook For 2 Years"
-    excerpt: "Facebook says former President Donald Trump is locked out of its platform and Instagram until Jan. 7, 2023. It will reinstate him only \"if the risk to public safety has receded.\""
-    publishedDateTime: 2021-06-04T16:56:00Z
-    webUrl: "https://www.npr.org/2021/06/04/1003284948/trump-suspended-from-facebook-for-2-years"
+  - title: "Trump fans convene to talk about God, country and patriotism"
+    excerpt: "The For God & Country Patriot Roundup conference is being held for three days at the Omni Dallas Hotel. DALLAS — It had all the buzz and excitement of a political convention, except that the next presidential election is still a few years away."
+    publishedDateTime: 2021-05-29T21:26:00Z
+    webUrl: "https://www.pressherald.com/2021/05/29/trump-fans-convene-to-talk-about-god-country-and-patriotism/"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
     images:
-      - url: "https://media.npr.org/assets/img/2021/06/04/gettyimages-1228674205_wide-3407a343278b36722fbcded643e657f469f21eaf.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Facebook suspends Donald Trump until 2023"
-    excerpt: "Watch \"Facebook suspends former President Donald Trump until 2023\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-06-05T00:03:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210605000332-facebook-suspends-former-president-donald-trump-until-2023/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/05/story_10695510_1622851684.jpg"
-        width: 1280
-        height: 720
+      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "QBUnz7WnCB0TnPz1gJw6BdVFSixRez62TuVDJqAee3E5U3gUdhULFCtLkkBWKaC5q0+j3ucorYddf2KGTusquqlnoqmvXRdp8079RNADFdHCSZObkwK2/bfm04nKwfElh5Rk1mvEPk2IRA7+Ar1OjoK9JpeRvXdOPUC8NphzLh4fsvTBh9Ylz43K1cbCvXE+l5D9kHZPRjABPJ48kIUIRyNUqCw+cGSTY4H2BUZF/17Rr4tvHgyXUpMvhgJQw2SHbWjx8zZvhioQuVqlPogRHXHerv6GacYNHRzfkMDuyWgiZiPqgZErDJ0pIG3QGE/4UfgfBTUFnfHmxSkiRqf9ba5I+EIpSvtSTuzZO1XiJqE=;1/ue+9PHrqoZJ9eLJQLiEw=="

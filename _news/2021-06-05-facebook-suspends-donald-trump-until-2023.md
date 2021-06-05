@@ -2,9 +2,9 @@
 category: news
 title: "Facebook suspends Donald Trump until 2023"
 excerpt: "Watch \"Facebook suspends former President Donald Trump until 2023\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-06-05T00:03:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210605000332-facebook-suspends-former-president-donald-trump-until-2023/"
-webUrl: "https://www.cbsnews.com/live/video/20210605000332-facebook-suspends-former-president-donald-trump-until-2023/"
+publishedDateTime: 2021-06-05T02:59:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210605025930-facebook-suspends-former-president-donald-trump-until-2023/"
+webUrl: "https://www.cbsnews.com/live/video/20210605025930-facebook-suspends-former-president-donald-trump-until-2023/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/05/story_10695510_1622851684.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/05/story_10696729_1622862244.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -75,18 +75,7 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Fact Check-Donald Trump remains suspended from Facebook and Instagram"
-    excerpt: "Claims that former President Donald Trump has returned to Facebook and Instagram after being banned months ago are false. Representatives from Facebook, the parent company of Instagram, confirmed in an email to Reuters the former president remains off both platforms."
-    publishedDateTime: 2021-06-04T18:55:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-trump-facebook-ban-idUSL2N2NM2CA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NM2CA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NM2CA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
 
-secured: "7o9zqCsxrIaWlL6Uz3pIYeffdCMEHbFba4Irg+fpkWVICChsIlPlHTw7Uglut4MD5gZ/KUAXgS9LZ500ogO+AO1DbbbUZ3YUB/wRZtEpfgn0bDFDXtj6VCv7ZbIYuDqKIYVtioSt9Y+J22ObV1X8kZIlZ3YAs7PitPStPaIHnz1MMaiVose0olB8ZCJsY3SGXDAQFMAAC8PV+z/h81uiNhk3WezXCy0hxVTuAbcC31mxZkEZw/sg+CIJ3f/EutFLdQ/lHCDG3eOVTVE/Fb4z/5eMUEIsK8aVoVAde4nsrgR48pvQsDR/KQ+REgzAycHRCDwxUa+Dcqy3k4PZ6YwcyeIMBkuboWWVt2/7beYEu0s=;fF8s5Ex+CmAmjbRYR9ku1g=="
+secured: "7RyGae2peiH5ici6qHBZLSJmTpjMxJSimeJ58z2cZa0l7vLTWWUnMU8pWcYKnXIDSVXn67hlOXVhHAaeRrOK2LOsVxbtrYkZ1Q2EqfTXQt18LwjTc1z0U4b92qvJl6ZT5+9BVJZM80Ai7BTUNhGZGsbtbpXgDmu16ARcoyQqLRiy8bcEKhD5Rv/YOk7MQeyKZHngtAHrCp+VrP5vu42W/3VLkzvQDv0ng5RXIuAHr6TB3jdBGo7NB5GusIcd47H4T22iHzPpg7FjTIkycDg9Oko+uLxYxPl8fJMCsWJjL7RcGeOb6ppW98tp53B0yBAehOe57zO409A8s8bd2zrqcmBCTGVUtEPYt4iXwai57So=;FMJmRUc0Du+RdHwBrwOloQ=="
 ---
 

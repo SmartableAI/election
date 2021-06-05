@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
-excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
-publishedDateTime: 2021-06-03T00:58:00Z
-originalUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
-webUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
-ampWebUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
+title: "Facebook says Donald Trump's suspension will last at least 2 years, but can be lifted if there is no 'serious risk to public safety'"
+excerpt: "Trump's account can be reinstated pending an evaluation to assess whether \"the risk to public safety has receded,\" Facebook announced."
+publishedDateTime: 2021-06-04T20:56:00Z
+originalUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6"
+webUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6"
+ampWebUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
 type: article
-quality: 73
+quality: 94
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
-    width: 1024
-    height: 682
+  - url: "https://i.insider.com/60ba5775e459cb0018a2c3db?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -95,21 +95,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook says Donald Trump's suspension will last at least 2 years, but can be lifted if there is no 'serious risk to public safety'"
-    excerpt: "Trump's account can be reinstated pending an evaluation to assess whether \"the risk to public safety has receded,\" Facebook announced."
-    publishedDateTime: 2021-06-04T20:56:00Z
-    webUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
+  - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
+    excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
+    publishedDateTime: 2021-06-03T00:58:00Z
+    webUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
+    ampWebUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
     images:
-      - url: "https://i.insider.com/60ba5775e459cb0018a2c3db?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Donald Trump's Facebook ban is permanent, social network's Oversight Board rules"
     excerpt: "Former President Donald Trump won’t return to Facebook. The social network’s quasi-independent Oversight Board has voted to permanently ban his account after it was suspended four months ago for inciting violence that led to the deadly Jan."
@@ -144,6 +144,6 @@ related:
         height: 683
         isCached: true
 
-secured: "j0Qm1ZLR6CElXRLCRF/PcvtB7LQV0EdxUumJOk2e0x0ZdZ3N6+onh1yWNKroOqFNOhb4B01XDSEq/C+KrpAbFfr5w0HKhboN8zONIIjvypsX8vHvfvk1nz0AQ3MV0EZuEQ/7356K+vPCEHJPxf02JEpKDb4Wf1myptKVs/161oiqmsnotaIV2cxWaQHYgS355SZkMyM/QVcOgkkBvrqxH9KK/sAgSwhV8WhbxILMI+qc6/ujkoqBcuQgFagoaP3trjz4yxFiInHxb4oyoodFpPcEWSl+C+lou19h9GSo5pAzpF+ERWr8Pf33CQq5mlkgXpz9dJZLZBT7a4QS0WaVEsKMdNvkwQ+BimUUkD6T3LnEL1+JtnYLPpdhehMEhgagoJXT+1lw/yzsqBt4drCBjPR+EY+M5YMQlBbCgxusA5Y92SWipwHI1fd454N1aSuXhqXk/bTShZAnb8PDYaur/4PBy8k/C/dtid9Hxr87elzESftK1SpDFtu+OgY4NWSn1MDB5mQQSalnNx2snv24JQ==;/Kbjb8Z1aG1ekxd+YzbSEg=="
+secured: "GcT1+UG8zr1IGwpMMrWIhsxzmBKmmEf+zbkRVPiCRP9K6HejoMhNFmhoHmR5N957b6QLYTU+iw+eawWuSqnd9rPcgP+xUTL8g4I8web2iTIUaBpi8ZMPVEHbmgAl3+GJBwfmyQL4l947uqCGu/pvZvCsuPcOOvQmjmG4mIFNSRmj75UsQF4qZawI3mzdU5OzxuBdaj1Iu7DGUNnBXgNCYmpM6V0yTQ5kWAubYksI9TriPBh7TxtVBnU0FNsPc9kFSsnq5njeoKd9H0Sy4kkk3MaAz5ggMPji9nz3B7oMWHhD6u/bQUB8c1LzMZSjBVUtPERsqx3/imqVHGB1T157kAjvjvdYdCLhJ+RH1CZGIUI=;RKHQnd+tBbQdUVbOfe5pJA=="
 ---
 

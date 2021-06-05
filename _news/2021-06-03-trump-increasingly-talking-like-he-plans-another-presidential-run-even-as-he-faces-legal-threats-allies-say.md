@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-p
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html?outputType=amp"
 type: article
 quality: 106
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: Chicago Tribune
@@ -31,19 +31,46 @@ images:
     isCached: true
 
 related:
-  - title: "Inside Trump's hot vax New Jersey summer, where he's playing golf and plotting rallies while legal storms form"
-    excerpt: "Trump's political machine is humming from his summer perch in Bedminster, New Jersey. But legal trouble is brewing in New York"
-    publishedDateTime: 2021-05-28T08:00:00Z
-    webUrl: "https://www.businessinsider.com/inside-donald-trumps-hot-vax-new-jersey-summer-vacation-2021-5"
+  - title: "Ted Lieu Doesn't 'Understand Why Mike Pence Is Even Talking' To Donald Trump After Capitol Riot"
+    excerpt: "\"Mike Pence didn't have the courage to do what should have been done to protect our Country and our Constitution,\" Trump tweeted as Capitol rioters chanted \"Hang Mike Pence.\""
+    publishedDateTime: 2021-06-05T02:24:00Z
+    webUrl: "https://www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858"
+    ampWebUrl: "https://www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
     images:
-      - url: "https://i.insider.com/60b0198ebee0fc0019d5a154?width=1200&format=jpeg"
-        width: 802
-        height: 401
+      - url: "https://d.newsweek.com/en/full/1814131/ted-lieu-pence-trump-talk-capitol-riot.jpg"
+        width: 3630
+        height: 2561
+        isCached: true
+  - title: "Fact Check-Donald Trump remains suspended from Facebook and Instagram"
+    excerpt: "Claims that former President Donald Trump has returned to Facebook and Instagram after being banned months ago are false. Representatives from Facebook, the parent company of Instagram, confirmed in an email to Reuters the former president remains off both platforms."
+    publishedDateTime: 2021-06-04T18:55:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-trump-facebook-ban-idUSL2N2NM2CA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NM2CA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NM2CA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Trump fans convene to talk about God, country and patriotism"
+    excerpt: "The For God & Country Patriot Roundup conference is being held for three days at the Omni Dallas Hotel. DALLAS — It had all the buzz and excitement of a political convention, except that the next presidential election is still a few years away."
+    publishedDateTime: 2021-05-29T21:26:00Z
+    webUrl: "https://www.pressherald.com/2021/05/29/trump-fans-convene-to-talk-about-god-country-and-patriotism/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "YnuAjv5BaOnA3PCUpErjgrTSHQDdvhzKCkg+1eYEtRLqPgMGv+9m/pMNXaWjZxR8JfdyFvN4kxb/FIvJRoJPW+zbGUUtqdPYx+9MUhgsGLcrOjJmG1wjFW2LfM/dEt230YbMA9/qZGCDrm3jHRKU/5nVrsOCWhQAF1BiitxR381c1XzpT3ZYSdjm5zSJCLDFRmflGyunhpvyHTUSXzwFUlN0Voqb8AIf8f/Z38fwtvU7eoyQt6oIQd8uzIQMWkMGMLu9A6jX/8hpEYA6s4wh4wd/dIdGhH8vJocl5cQwIsOhx75I+G6AS/QWSrQykFOpIdzGhd4HO6Oon7+LrEgPo2Vp32Hj88juIc1AgTgQD4g=;9Ckrp6eCcx1ZUz3NyV0lyw=="

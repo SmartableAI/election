@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/03/trump-facebook-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/03/trump-facebook-oversight-board/?outputType=amp"
 type: article
 quality: 124
-heat: 244
+heat: 264
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/6HwP7hGhWlXmHzuJczhcTG55y6A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7AK2LAGF26SSGEEMGLS2DI6RVE.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Facebook says Donald Trump's suspension will last at least 2 years, but can be lifted if there is no 'serious risk to public safety'"
+    excerpt: "Trump's account can be reinstated pending an evaluation to assess whether \"the risk to public safety has receded,\" Facebook announced."
+    publishedDateTime: 2021-06-04T20:56:00Z
+    webUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/60ba5775e459cb0018a2c3db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
     excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
