@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Trump and His Crazies Aren't Done With Us"
-excerpt: "It's important to stay on guard because the bar has now been lowered: we know that a pronouncement from Trump -- like his assertion about being. Read Full Article »"
-publishedDateTime: 2021-06-04T19:06:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/04/trump_and_his_crazies_arent_done_with_us_544285.html"
-webUrl: "https://www.realclearpolitics.com/2021/06/04/trump_and_his_crazies_arent_done_with_us_544285.html"
+title: "Trump ponders run for Congress — and House speaker — in 2022"
+excerpt: "Former President Trump is mulling a circuitous path back to the presidency: via a stint as speaker of the House."
+publishedDateTime: 2021-06-05T20:58:00Z
+originalUrl: "https://nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/"
+webUrl: "https://nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/"
+ampWebUrl: "https://nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/amp/"
 type: article
-quality: 45
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
   - Donald Trump
   - Republican Voice
+
+images:
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/DonaldTrump.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Trump to speak at Dallas CPAC event in July"
@@ -52,23 +60,16 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump ponders run for Congress — and House speaker — in 2022"
-    excerpt: "Former President Trump is mulling a circuitous path back to the presidency: via a stint as speaker of the House."
-    publishedDateTime: 2021-06-05T20:58:00Z
-    webUrl: "https://nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/"
-    ampWebUrl: "https://nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/amp/"
+  - title: "Trump and His Crazies Aren't Done With Us"
+    excerpt: "It's important to stay on guard because the bar has now been lowered: we know that a pronouncement from Trump -- like his assertion about being. Read Full Article »"
+    publishedDateTime: 2021-06-04T19:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/04/trump_and_his_crazies_arent_done_with_us_544285.html"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/DonaldTrump.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
-secured: "C4EchHte9/smEkOOD6qQF/+o2NEtw88sR5Ofcwi4W+Xsv/ZOhdmKS6j80Eof9zbAVKUHe4n22dnoef/EvQ+Cr7+a4UXc55HnI7IZp5eGLUpFFAlDDcGXOdWDl8639jTwx3ZWDT5FiUF1I17QrL4U89kLKcuK7931HPHTpCiTmIqCFMTOC5hi1MYNfqj1YyGHrmjUMwpBjqsSI+TCBihOIk+pFdn1u2BKUFLjjdwatfnyv0KfCSoZSXRSR5ClzFQMIXxGe+jVQXUuDZR3MgQJU5drQ2HP2XNUBw6wWNdVNlGCB4cqZoKZfw446VU0eabFskGw68yEXrd//tHFtIQGLD5ap/6mcbxMJfiYhqBjzhM=;zdqfjacDS7534drHG3UVXg=="
+secured: "/f7vKG6JZEFrOdAc5wLERoto4ib4wLluXcEOBTcWaQR7uCY5+AmwnbA4MdRmwqmnHgOi2WRSfTUbHv4VZKNqqvg9xizT5wUDMeL7xNlqEhdwr1TtIRiv6+JyZyU0d7gsef0tx5FZKysGAyvQcKx3EtkVNnFlZ/MDlEYaQcqMfpkTl/mJBHjicO4epUF+HODBAjmO6O4K6bzIWVJ6U/c9ZJt9MiS/KwS3n6+bDZpv5hqLOUnn/mmxnGBeCsfzkhjz/pIfYC2cvRK8COJCz/xecyPvheNtxt1ZhWcW3B89fWTutr8IO6ZFD9PcBWcwtHbs0NOFf+n1dvl9yXOhjwN+B2tvFE0gHjktq/YPx6MS0Pc=;CQOMH+eo2iweaayLMfPLcQ=="
 ---
 

@@ -73,6 +73,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden rejects new GOP infrastructure offer"
+    excerpt: "Top News Biden rejects new GOP infrastructure offer. Posted [NFA] U.S. President Joe Biden shot down a new proposal from the main Republican negotiator on infrastructure, Senator"
+    publishedDateTime: 2021-06-05T20:14:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEG4QH27"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210605&i=OVEG4QH27&r=OVEG4QH27&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Democrats win battle over GOP voting bill, but can’t win war without Joe Biden, Senate Dems"
     excerpt: "AUSTIN—Texas Democrats won a battle in a war that they cannot win, unless they get help from President Joe Biden and their fellow party members"
     publishedDateTime: 2021-05-31T23:36:00Z

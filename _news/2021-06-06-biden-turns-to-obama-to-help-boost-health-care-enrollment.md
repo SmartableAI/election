@@ -61,6 +61,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden rejects new GOP infrastructure offer"
+    excerpt: "Top News Biden rejects new GOP infrastructure offer. Posted [NFA] U.S. President Joe Biden shot down a new proposal from the main Republican negotiator on infrastructure, Senator"
+    publishedDateTime: 2021-06-05T20:14:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEG4QH27"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210605&i=OVEG4QH27&r=OVEG4QH27&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "President Joe Biden to attend Memorial Day observance Sunday near New Castle"
     excerpt: "Joe Biden has been a frequent attendee at the Memorial Day observance at War Memorial Plaza near the Delaware Memorial Bridge near New Castle. This year, he'll attend the event as commander in chief."
     publishedDateTime: 2021-05-29T11:20:00Z

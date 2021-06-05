@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-dallas.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump ponders run for Congress — and House speaker — in 2022"
+    excerpt: "Former President Trump is mulling a circuitous path back to the presidency: via a stint as speaker of the House."
+    publishedDateTime: 2021-06-05T20:58:00Z
+    webUrl: "https://nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/"
+    ampWebUrl: "https://nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/DonaldTrump.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

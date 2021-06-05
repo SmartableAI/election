@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Texas Senate passes election reform bill criticized by Biden after closed-door negotiations, all-night debate"
-excerpt: "Republicans in the Texas Senate took a big step toward tightening their state's election laws this weekend, prompting outcry from Democrats."
-publishedDateTime: 2021-05-30T17:07:54Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUK_Oegc9aI/texas-senate-election-reform-bill-biden-security"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUK_Oegc9aI/texas-senate-election-reform-bill-biden-security"
-ampWebUrl: "https://www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp"
+title: "Biden calls systemic racism one of ‘the great crises of our time’"
+excerpt: "President Biden on Saturday addressed the class of 2021 in a speech in which he told the they stood at an “inflection point” in history, and described systemic racism as one of “the great crises of our time.”"
+publishedDateTime: 2021-06-05T21:14:06Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6lB2v_DNjCY/biden-systemic-racism-great-crises-time-address-class-of-2021"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6lB2v_DNjCY/biden-systemic-racism-great-crises-time-address-class-of-2021"
+ampWebUrl: "https://www.foxnews.com/politics/biden-systemic-racism-great-crises-time-address-class-of-2021.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-systemic-racism-great-crises-time-address-class-of-2021.amp"
 type: article
-quality: 171
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/168c5283-4842-412a-8322-5eced9ab2a41/09b74a5c-137c-4da4-ac4a-8ca8d445d604/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab44b9f-de82-413f-a18b-edc9a57bf466/31c82716-6015-447e-b1cf-fa5e663ec21d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -95,22 +95,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden calls systemic racism one of ‘the great crises of our time’"
-    excerpt: "President Biden on Saturday addressed the class of 2021 in a speech in which he told the they stood at an “inflection point” in history, and described systemic racism as one of “the great crises of our time.”"
-    publishedDateTime: 2021-06-05T21:14:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6lB2v_DNjCY/biden-systemic-racism-great-crises-time-address-class-of-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-systemic-racism-great-crises-time-address-class-of-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-systemic-racism-great-crises-time-address-class-of-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab44b9f-de82-413f-a18b-edc9a57bf466/31c82716-6015-447e-b1cf-fa5e663ec21d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden won't form his own commission to study Capitol riot, White House says"
     excerpt: "The White House on Thursday shot down the idea of forming its own presidential commission to study the Jan. 6 attack on the Capitol, saying it is Congress’ “unique role” to carry out that investigation."
     publishedDateTime: 2021-06-03T21:26:42Z
@@ -172,6 +156,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Anthony-Fauci-Emails-AP.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Texas Senate passes election reform bill criticized by Biden after closed-door negotiations, all-night debate"
+    excerpt: "Republicans in the Texas Senate took a big step toward tightening their state's election laws this weekend, prompting outcry from Democrats."
+    publishedDateTime: 2021-05-30T17:07:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUK_Oegc9aI/texas-senate-election-reform-bill-biden-security"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/168c5283-4842-412a-8322-5eced9ab2a41/09b74a5c-137c-4da4-ac4a-8ca8d445d604/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -270,6 +270,6 @@ related:
         height: 500
         isCached: true
 
-secured: "zm2B08DSVJkwtLqoDR2pjO76F91UB3we6Ia7PJzoImQa+348C/+ar76nhzLqxwLlEXA1g8BvBHCTp+Mpq4huUxo8uBoWJPbIC/sV+9Cz3K7O2pkBfzXHvO8skf28zN7c4LUD3TpvScCKjKHLMBjmYHuf8tp2tV+Sgp3soQJ1eJWjD6zv0b3LKoSOa83egNeqGekM90TEvNhQajf8W0S+v4bhAwDDznQwagmtt7F7WodYECyFy2Yp/8HxiYr73u4yeaVsR5kCJPoYHCEMfKN3Ljp8C6joKeTOhkheH55qPzOs++I9lqvKfjP+UUmytwGfiYEhUUc6b1I1wJlJBb7EPk4qAxaS7tbAtCBa5wwh24M=;S9QpMy8IuGiPG89pV5lBmQ=="
+secured: "tg1x32UoEW+/ABJnG8491rcON/67od05LlNKRmFo45Te8F+kvhE9XgXiPw83BcgO8yBcvvy70azPaklbvr/81pF+z9XedkNvOJ6dJealmRLoxX9LGOFAiThco040cHYiD2SZBUsherIDs/dd3MHYBPzLX/9HFPDcKYI2S9cGUUmS/PtqAjsLZz5degX7oGmAeJp5BwpiJLT+BpsrsgtF29wROH6PEmj1oF5SvS0wlRZA+Ub8HAl0ElprdENJ0VO1JTpY4BTF5WmiTHDUCm1UAxJowZQK4eCfvxfGNRHU2rK26LpomtmFH6TEg4s98DqdcFN7WVD5+ccILF0QF3CUepLOh7Va1bi09g23IWUiKWo=;9c+LPOWVb1kHPNfx8lw4ng=="
 ---
 

@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump ponders run for Congress — and House speaker — in 2022"
+    excerpt: "Former President Trump is mulling a circuitous path back to the presidency: via a stint as speaker of the House."
+    publishedDateTime: 2021-06-05T20:58:00Z
+    webUrl: "https://nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/"
+    ampWebUrl: "https://nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/DonaldTrump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump and His Crazies Aren't Done With Us"
     excerpt: "It's important to stay on guard because the bar has now been lowered: we know that a pronouncement from Trump -- like his assertion about being. Read Full Article »"
     publishedDateTime: 2021-06-04T19:06:00Z

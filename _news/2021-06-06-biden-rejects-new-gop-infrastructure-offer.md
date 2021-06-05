@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Democrats win battle over GOP voting bill, but can’t win war without Joe Biden, Senate Dems"
-excerpt: "AUSTIN—Texas Democrats won a battle in a war that they cannot win, unless they get help from President Joe Biden and their fellow party members"
-publishedDateTime: 2021-05-31T23:36:00Z
-originalUrl: "https://www.dallasnews.com/news/politics/2021/05/31/democrats-win-battle-over-gop-voting-bill-but-cant-win-war-without-joe-biden-senate-dems/"
-webUrl: "https://www.dallasnews.com/news/politics/2021/05/31/democrats-win-battle-over-gop-voting-bill-but-cant-win-war-without-joe-biden-senate-dems/"
-ampWebUrl: "https://www.dallasnews.com/news/politics/2021/05/31/democrats-win-battle-over-gop-voting-bill-but-cant-win-war-without-joe-biden-senate-dems/?outputType=amp"
-cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/05/31/democrats-win-battle-over-gop-voting-bill-but-cant-win-war-without-joe-biden-senate-dems/?outputType=amp"
+title: "Biden rejects new GOP infrastructure offer"
+excerpt: "Top News Biden rejects new GOP infrastructure offer. Posted [NFA] U.S. President Joe Biden shot down a new proposal from the main Republican negotiator on infrastructure, Senator"
+publishedDateTime: 2021-06-05T20:14:00Z
+originalUrl: "https://www.reuters.com/video/watch/idOVEG4QH27"
+webUrl: "https://www.reuters.com/video/watch/idOVEG4QH27"
 type: article
-quality: 65
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Dallas Morning News
-  domain: dallasnews.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/IrqayP6JfKjJRt3GoE9HusUkgTE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/TAVZQNE6CBDOPC6FW64D6J562A.JPG"
-    width: 1200
-    height: 630
+  - url: "https://static.reuters.com/resources/r/?d=20210605&i=OVEG4QH27&r=OVEG4QH27&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -73,20 +75,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden rejects new GOP infrastructure offer"
-    excerpt: "Top News Biden rejects new GOP infrastructure offer. Posted [NFA] U.S. President Joe Biden shot down a new proposal from the main Republican negotiator on infrastructure, Senator"
-    publishedDateTime: 2021-06-05T20:14:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEG4QH27"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210605&i=OVEG4QH27&r=OVEG4QH27&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "President Joe Biden to attend Memorial Day observance Sunday near New Castle"
     excerpt: "Joe Biden has been a frequent attendee at the Memorial Day observance at War Memorial Plaza near the Delaware Memorial Bridge near New Castle. This year, he'll attend the event as commander in chief."
     publishedDateTime: 2021-05-29T11:20:00Z
@@ -102,6 +90,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/02/PWIL/b0641e7c-89e6-4210-a8b0-e22c16d1115e-053019_WIL_BIDEN_MEMORIAL_DAY_JC0253.JPG?auto=webp&crop=3856,2169,x0,y206&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Democrats win battle over GOP voting bill, but can’t win war without Joe Biden, Senate Dems"
+    excerpt: "AUSTIN—Texas Democrats won a battle in a war that they cannot win, unless they get help from President Joe Biden and their fellow party members"
+    publishedDateTime: 2021-05-31T23:36:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/05/31/democrats-win-battle-over-gop-voting-bill-but-cant-win-war-without-joe-biden-senate-dems/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/05/31/democrats-win-battle-over-gop-voting-bill-but-cant-win-war-without-joe-biden-senate-dems/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/05/31/democrats-win-battle-over-gop-voting-bill-but-cant-win-war-without-joe-biden-senate-dems/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 65
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/IrqayP6JfKjJRt3GoE9HusUkgTE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/TAVZQNE6CBDOPC6FW64D6J562A.JPG"
+        width: 1200
+        height: 630
         isCached: true
   - title: "U.S. President Joe Biden Departs For Wilmington, Delaware"
     excerpt: "Marine One, carrying U.S. President Joe Biden, departs the Ellipse of the White House in Washington, DC on Friday, April 16, 2021. Biden will travel to Wilmington, Delaware for the weekend. Photo by S"
@@ -132,6 +136,6 @@ related:
         height: 433
         isCached: true
 
-secured: "6liyAKw9gw4djcHHF/7aiY1cHIMSBP9rNRbD0U0Hi4gXuOtsMwazVczwbtYAS7ksjGGxwLQhMgPEKmH6bYz26FEWPFM/HDKjI2AhgVCV1QrfMPgY2PxLeRa7IK9ZJLSToT/Q2/iFlxfhAAlvOrU9chLFvkj8ME41tQbTAipuLas6QnGoIsO1JSY8XYK5+nwD5PA5G2E3XxGXCd7xsh3FlBTiw60CKXaXYxBZJh247uN8S9/VBWsZzBnp9XPDK+WtRBsF5dLqTSoYFMxxtKU16pQEHzdPH939YdrG1uZ7zUAIDaOuLHvSj1EFC+ZMO6wWNKgBb4dCNwaP/FEAuc02Uc4tgc1gMCKHnM3jK6uPjzc=;GnCl8LC02+2AnNf7Z/Biyw=="
+secured: "HI0nJup+fQoremxRlHtLaQSWdq0RZlNMM9tMjfPLFbM2t2L/b+TWBbSAbzkoCIzQUDWoo6iWOyeQj1JLBlb7Yy2+nVEsJlAnNQZykXMq8HzE9aTPL+gUy9qSTbELmEBZ5VjrobTpZns1ryEg6ya7yWbIY4fC3Ezc5ETo4ONEuFqIyEaL02o/u7Udly7cUws6n/34DKayEOUqzjj+YCE0loZx7xmmKcVP/PLegv9VSn7kXlZSBgMOck0iO68zvuTUZtrcm0vfVSePzIKm7qKbj0HTWpnhMnjrUZpBQXVO9idKHC2QLscB4RjUyBUT93PU+CFwn77CRyi085IFHMH0iXHf9ZepQX2/7KJQ/THuA6I=;ktp4T+Cu7mBUN95aCxQk4g=="
 ---
 

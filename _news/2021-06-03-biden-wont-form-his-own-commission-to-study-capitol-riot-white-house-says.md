@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden calls systemic racism one of ‘the great crises of our time’"
+    excerpt: "President Biden on Saturday addressed the class of 2021 in a speech in which he told the they stood at an “inflection point” in history, and described systemic racism as one of “the great crises of our time.”"
+    publishedDateTime: 2021-06-05T21:14:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6lB2v_DNjCY/biden-systemic-racism-great-crises-time-address-class-of-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-systemic-racism-great-crises-time-address-class-of-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-systemic-racism-great-crises-time-address-class-of-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab44b9f-de82-413f-a18b-edc9a57bf466/31c82716-6015-447e-b1cf-fa5e663ec21d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Calls intensify for Biden administration to help save former Marine's life"
     excerpt: "Cindy Warmbier's son was killed by North Korea's regime, and now she wants to prevent another American being murdered."
     publishedDateTime: 2021-06-05T16:11:00Z

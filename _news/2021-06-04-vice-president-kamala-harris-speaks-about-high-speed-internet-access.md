@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Speaks About High Speed Internet Access"
 excerpt: "United States Vice President Kamala Harris departs following an event about high speed internet at the White House on Thursday, June 3, 2021 in Washington, DC. Photo by Alex Edelman/UPI"
 publishedDateTime: 2021-06-03T18:46:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/e8660e62d737d700cdca096489e0af9b/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/e8660e62d737d700cdca096489e0af9b/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/07425a76056b18adf917dea890a8b058/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/07425a76056b18adf917dea890a8b058/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/e8660e62d737d700cdca096489e0af9b/HARRIS-INTERNET-SPEED.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/07425a76056b18adf917dea890a8b058/HARRIS-INTERNET-SPEED.jpg"
     width: 650
     height: 433
     isCached: true
@@ -120,6 +120,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "w/b4ICV5E9bzRbBRT6kj6j1I1x+JQg/n9AUqDp3xON+MhyPt1ohrxuqK8rcSYwuqqzW55sZNwoELdth33Z7SYbSMueiVSrLnkbtUt69O7WA2BSWS9lqnDDxp5k0meeRETl1StEpy8I1M9xqFVMJy6RqgrZdvG56v5KRzwhrRVb7mVDyyBdVgs8G4lA2IXko2zOaeKgqjZ17AKYv5XwYRkId8w/m5j6IxIXNA9mpO7+JW5Gz3+Zwn0QUXeG4f3YuchH5cVrd2nBA4Jvlv1/sQn/ypwboWYTd4w4Rz3iLxltvTcxfSqNkwpzunCeS2i32u6K25k4wDPwg2ikh+hEaE1V+RVL+5OgM2D/NKOF7298kltfgaT240npuxfz9np2KRLjXKPsyu1BC81u3u1Xz9wCTnlPvfgex03j2JBFxSWRtc4zPQ1WR+3OF1zgbrwoFGSZ+I7hO+xnb+raGGEbUKg1tBfcsJimn6LXytVt1cbCGbeR2wHhS4UgJuSbtOarPk/AMLFQbcPEo3tRASyfkEKA==;B93IrZXWpJ2d/t3S+OJTtQ=="
+secured: "tc5e5cgxd8E27WVH6xqS37v8Ye/mZUZal30+7zHsfu9bY8frBVJvkgXVZYJ5uJFIPgb/pKEWoDVNTfrzKTUYtbScDDQuOrFVz5tmAL6hKkErauZ/Qv+2ityXc4Gei1wk1FrNSaoj+E0by+Su+CEvvC3b3RvD6i3tKFJcaOtqix7/aNEssxwu8MRNLcwj/DqOsyE54RZR87yO5nJCc2UAc+i4WMci07rpzkSzvA7jDxFpZzutWpyDH9qdX9yW7jYdGvyX6Q84r1grApNe0WY4hWtJ0+qzlF5DUAthXIMeVBXfEHgML1DfTVUBp7A3DpRreVn+pPVxVD214h4+LcJCBn344Fsb+3BPRlkie8ok9dc=;wnWDomZG04LHJB313qj2cA=="
 ---
 
