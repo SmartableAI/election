@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Trump Believes He Can Regain the Presidency This Summer"
-excerpt: "Maggie Haberman and the Washington Post report that Donald Trump has been proclaiming to anybody who would listen that his return to power is imminent. Trump is obsessively following a so-called “audit” in Arizona,"
-publishedDateTime: 2021-06-03T18:06:00Z
-originalUrl: "https://nymag.com/intelligencer/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
-webUrl: "https://nymag.com/intelligencer/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
-ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
-cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
+title: "Facebook suspends Trump until 2023, shifts rules for world leaders"
+excerpt: "Facebook Inc on Friday suspended former U.S. President Donald Trump until at least January 2023 and announced changes to how it will treat world leaders who break the rules on its site."
+publishedDateTime: 2021-06-05T04:28:00Z
+originalUrl: "https://www.reuters.com/article/us-trump-facebook/facebook-suspends-former-u-s-president-trumps-account-for-two-years-idUSKCN2DG23I"
+webUrl: "https://www.reuters.com/article/us-trump-facebook/facebook-suspends-former-u-s-president-trumps-account-for-two-years-idUSKCN2DG23I"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DG23I"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DG23I"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: New York Magazine
-  domain: nymag.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
-    width: 1200
-    height: 632
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210604&t=2&i=1564541092&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5314F"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -42,22 +46,6 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_dojhatecrimechurchfire_041521getty.jpg"
         width: 1440
         height: 880
-        isCached: true
-  - title: "Facebook suspends Trump until 2023, shifts rules for world leaders"
-    excerpt: "Facebook Inc on Friday suspended former U.S. President Donald Trump until at least January 2023 and announced changes to how it will treat world leaders who break the rules on its site."
-    publishedDateTime: 2021-06-05T04:28:00Z
-    webUrl: "https://www.reuters.com/article/us-trump-facebook/facebook-suspends-former-u-s-president-trumps-account-for-two-years-idUSKCN2DG23I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DG23I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DG23I"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210604&t=2&i=1564541092&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5314F"
-        width: 817
-        height: 545
         isCached: true
   - title: "Facebook will end special treatment for politicians after Trump ban - report"
     excerpt: "Reported change comes after the Facebook oversight board said that the same rules should apply to all users"
@@ -86,6 +74,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump Believes He Can Regain the Presidency This Summer"
+    excerpt: "Maggie Haberman and the Washington Post report that Donald Trump has been proclaiming to anybody who would listen that his return to power is imminent. Trump is obsessively following a so-called “audit” in Arizona,"
+    publishedDateTime: 2021-06-03T18:06:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Trump Told Allies He'll Run For President In 2024 Under One Condition: Report"
     excerpt: "Trump’s political ambitions \"are making some congressional Republicans anxious,\" according to interviews conducted by Politico with 20 Republicans in both the House and Senate."
     publishedDateTime: 2021-05-28T11:31:00Z
@@ -103,6 +107,6 @@ related:
         height: 731
         isCached: true
 
-secured: "ve41VPtJgFaN1yDokm5ikpBu1uL07VBlQYDoayf7t36UxE1VlB3nSBLyVGaYjf/H5Gg0gMXrwhbYUpKeLQoz2oW4g9pD4d7TL9AEQf6kgQvEOD9tQIQX8xENnPsS6tijurI6q3pTZBNiPR3yE39rFSfuT2URAOIYEslC1yXVdCugUMKmZ9VpzU7P4jo2hBit7NRuaAdTRss5LJWgQRIx4G6TjWy5A7/nfXI8844lI+zYTeLgJEQKULLUx6mU7OY3ehMriJTzaGtpTD9gUCR81ErGWlhshxJSkfrcO2IaO6SOvswwh5m4bSDCatOMkIOujcumb7hLNEUG/QXN0QalXpOjyXusgj+luWJvBBAeVZA=;HrHGGYzf6F5Q7DA7+AygqQ=="
+secured: "Pn2g4hKyo5Tk+FFpjyDPWvO84u8NjUgPauODhkDxUaVND1jv/oJbbnchZyGz4N36Z3jHy6/i+S6JX4V4Jb3V91mjxZT87iGBZK7lckXhNFhsC/rAnYBZuWotpQOpKt38GKaCCuWCMEPCpJyuaoe17gghZRmHncy+o/pYoOjAg6Bt7EM8AwkgdemN3CGTI5aP0WepDVTF+q4FubjXMB5EDIZDGFspllN/9Xy9hldEuF6bOvnGSdUvZHRJzFjUrohTq3L4hWU1e35c8oU+WmzOJ21TuMm6QV7MLwoGOpiB9RJOGkSmq4hzZc9FnR/tlOyeQ1sDiSW5mNg8cCvfnyEWTEBssnFjwOmm29Fcw7UlbTc=;tThRuweOJhO4u89MTlb7Yg=="
 ---
 

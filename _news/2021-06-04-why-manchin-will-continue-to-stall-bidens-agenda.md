@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-04T11:00:00Z
 originalUrl: "https://www.realclearpolitics.com/2021/06/04/why_manchin_will_continue_to_stall_bidens_agenda_544313.html#!"
 webUrl: "https://www.realclearpolitics.com/2021/06/04/why_manchin_will_continue_to_stall_bidens_agenda_544313.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/54/544959_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Biden: China thinks it will 'own America' by 2035"
@@ -99,6 +105,6 @@ related:
         height: 405
         isCached: true
 
-secured: "P/bt+3Atgs0z3rXo9cdFzs0iwFX+erXEQ9q2UyfZsIzOqUUMOOkOoj4Ft+8sSLBFXC5D/bNapYO2sViRpwQ8L7pIiofJdVShYgJFTd1wdw2uHTfhCcsXUYAJg5xSE62HGka/WbYD7587ohmFejNeIOsRong+eJnYhUqoUz4SFYVF3dBq6e9SMByEEqMtsHeUW4FfFm+AoO4TVWN7HN/ymgx9q+akg1qrX9E1ydk+qHULeh4a6BLNDz2RE3YfVD+47kjzDZRfdG4Cms2do3c+uutbjvRebjWRPJgPk3+Ktzp1vihLb7+tfAqs3jMoIyqYaXJhPmflYnaPCmQBIAmk1tNs3gtjMZbwJnMSXzMwF4M=;iyfy/gCbxRRiGibUkdEbRw=="
+secured: "UkkpB/jXIy3EJjjp4ePvqbXEauxDZF5LGQaFXv3m7QkJ3BI+WMyLObnMTNtbra0JNIwuT6/Lzfjz8VJhTjTBXJxEj18WQ1SuCrrsJkbH5sa1cb4G6llC4cY0VZ4D7PbjdSRexgfcvC4Z8t8a2MylG4aD6uCHblTMhAMXWMHaoqxsdlq1RSMFYOP0ivdmprMks6I8GzUpYUaq1RLfCmnzSDJqA0mvxHWgRgBmvhlsrH/X0gapx3V8papKrrZZ4rS/5ness2kHplddynkQrPi4PW9BaCfymdXLPIaW/JBow0j1KcSJBLRhGrR9+h509h/LgdSwstQvKnPM02Y5gwxbKANQNVxYWKCKfmUyvPvbEEE=;0ElAHLq/WsgCrgO52IMqMw=="
 ---
 

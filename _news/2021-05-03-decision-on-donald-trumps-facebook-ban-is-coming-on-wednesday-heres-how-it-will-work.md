@@ -130,8 +130,8 @@ related:
         isCached: true
   - title: "Facebook Suspends Donald Trump for Two Years"
     excerpt: "The company said it would revisit the decision two years from Jan. 7."
-    publishedDateTime: 2021-06-04T15:53:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+    publishedDateTime: 2021-06-04T15:51:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480?mod=breakingnews"
     ampWebUrl: "https://www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
     type: article

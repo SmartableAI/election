@@ -2,9 +2,9 @@
 category: news
 title: "Facebook Suspends Donald Trump for Two Years"
 excerpt: "The company said it would revisit the decision two years from Jan. 7."
-publishedDateTime: 2021-06-04T15:53:00Z
-originalUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
-webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+publishedDateTime: 2021-06-04T15:51:00Z
+originalUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480?mod=breakingnews"
+webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480?mod=breakingnews"
 ampWebUrl: "https://www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
 type: article
@@ -209,6 +209,6 @@ related:
         height: 405
         isCached: true
 
-secured: "L6PflPQfWgxEzUDl680glr0nr+fbOIzJsMSVwhztULn6deVuN6r2+T2CiRSH6qG5lLrqSGl5Xua1fJydY2ZOwKY2AtoY68mPyKw/U1WIEYXEo1W4CiWWP7gahiHQSoaprVe51g0fpuEuOF6D7PbQZVGHmvDtHJ4vNo65Bw1xqsvMUrWAmlqu8gDJ94fOC71pIZWxu+BNukNC1sbALhTR3crMQhG4zBMuzNhuKqvoeM1GqU3FqxyLSz8jA3SPkALWcJDa3CsdE5a4ZWDFsk2V7jnsUE8WJcosGXAdcAyPSDiGVmdsKXrSzsgfvu9iWDn5H3+UTD2VjcKRji/76Hsq/pADLq2R+W5c/O6N0XRg/LRzr/hJyr36DQ9uYr9EPstEN/F78mfPkwaCjIVRnmX4IwUhK5fSkUK5WZ5jYrcnlBsFqAFPvchRzX+BLUGQjl1ie1jqCi5aIPXT1i/j90LEqW6mD03s9vg6CjCbFaLv22qWRLt3Q03UuBfyXl6k3IzroMtAo4vM0zFIqcb/7Ofjyg==;86lW/VOwc4LNvZwBwJHr6Q=="
+secured: "nh/INmnr+Ub+WtFCrjV0Yku/OcPrD8p/KLulcq7O3nVqY1QbMCSV4CkH8fo1S5qIP8DET7VOCCPyMkfht6FdslNtohLHp+wUzyVG9wwzEFZ94rXlEYdYv7wS3d422N+QaD0IGzdk03ese1hv4Ci5QnbqCJKMue5btoZmte/Ncx73Th3T9ivWGmwEI6hk2NXqLsAsdhznseZv6lowU3Rc8VPJ55/CYFygWaRiNVDZh+qIsokkpWR+DX/2+6KunzlWscihoXqfyrFqwWBHZJU/B/sprPLNE8yudnKwx0xbntI89KkTfZRe7m2e7qamo5RzFMUown2t7vHtu02EPsF1v8bTQyzIFYRFs3AQoSpHgjs=;k/QuUasQx2k796n2tYkRCA=="
 ---
 

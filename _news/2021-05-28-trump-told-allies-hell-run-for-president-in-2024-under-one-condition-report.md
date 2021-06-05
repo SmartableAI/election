@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Facebook suspends Trump until 2023, shifts rules for world leaders"
+    excerpt: "Facebook Inc on Friday suspended former U.S. President Donald Trump until at least January 2023 and announced changes to how it will treat world leaders who break the rules on its site."
+    publishedDateTime: 2021-06-05T04:28:00Z
+    webUrl: "https://www.reuters.com/article/us-trump-facebook/facebook-suspends-former-u-s-president-trumps-account-for-two-years-idUSKCN2DG23I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DG23I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DG23I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210604&t=2&i=1564541092&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5314F"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Facebook will end special treatment for politicians after Trump ban - report"
     excerpt: "Reported change comes after the Facebook oversight board said that the same rules should apply to all users"
     publishedDateTime: 2021-06-03T21:23:00Z

@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Sicknick family criticizes GOP lawmakers, Trump over January 6 commission opposition"
-excerpt: "The family of deceased Capitol Police officer Brian Sicknick is continuing their criticism of lawmakers opposed to the creation of a commission to investigate the January 6 Capitol assault. CBS News congressional correspondent Nikole Killion joins CBSN's \"Red & Blue\" host Elaine Quijano to discuss her interview with Sicknick's mother and longtime companion."
-publishedDateTime: 2021-06-01T23:41:00Z
-originalUrl: "https://www.cbsnews.com/video/sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition/"
-webUrl: "https://www.cbsnews.com/video/sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition/"
+title: "Former Counsel Tells Congress of Trump Efforts to Undercut Russia Probe Democrats"
+excerpt: "Former Counsel Tells Congress of Trump Efforts to Undercut Russia Probe Democrats WASHINGTON (Reuters) - President Donald Trump's ex-White House counsel Don McGahn \"shed new light\" on the investigation into Russia's role in the 2016 U.S. elections and the ..."
+publishedDateTime: 2021-06-04T23:48:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-06-04/former-counsel-tells-congress-of-trump-efforts-to-undercut-russia-probe-democrats"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-04/former-counsel-tells-congress-of-trump-efforts-to-undercut-russia-probe-democrats"
 type: article
-quality: 98
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/01/d3dbdf5f-e563-42f2-9617-8b9e3657c433/thumbnail/1200x630/29964b24adb58544e8a72fe26291b653/0601-rb-sicknick-726792-640x360.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Trump's grip on GOP sparks fears about democratic process"
@@ -91,6 +85,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Sicknick family criticizes GOP lawmakers, Trump over January 6 commission opposition"
+    excerpt: "The family of deceased Capitol Police officer Brian Sicknick is continuing their criticism of lawmakers opposed to the creation of a commission to investigate the January 6 Capitol assault. CBS News congressional correspondent Nikole Killion joins CBSN's \"Red & Blue\" host Elaine Quijano to discuss her interview with Sicknick's mother and longtime companion."
+    publishedDateTime: 2021-06-01T23:41:00Z
+    webUrl: "https://www.cbsnews.com/video/sicknick-family-criticizes-gop-lawmakers-trump-over-january-6-commission-opposition/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 98
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/01/d3dbdf5f-e563-42f2-9617-8b9e3657c433/thumbnail/1200x630/29964b24adb58544e8a72fe26291b653/0601-rb-sicknick-726792-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump looms large in Pennsylvania's GOP primaries in 2022"
     excerpt: "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP."
     publishedDateTime: 2021-05-29T11:37:00Z
@@ -107,15 +115,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Former Counsel Tells Congress of Trump Efforts to Undercut Russia Probe Democrats"
-    excerpt: "Former Counsel Tells Congress of Trump Efforts to Undercut Russia Probe Democrats WASHINGTON (Reuters) - President Donald Trump's ex-White House counsel Don McGahn \"shed new light\" on the investigation into Russia's role in the 2016 U.S. elections and the ..."
-    publishedDateTime: 2021-06-04T23:48:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-04/former-counsel-tells-congress-of-trump-efforts-to-undercut-russia-probe-democrats"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 30
   - title: "Donald Trump: Speaks at NCGOP state convention in Greenville | Raleigh News & Observer"
     excerpt: "I understand the place will be packed, all records broken!” former President Trump said of his upcoming speech in Greenville, North Carolina."
     publishedDateTime: 2021-06-04T17:14:00Z
@@ -126,6 +125,6 @@ related:
       domain: newsobserver.com
     quality: 27
 
-secured: "xCdJYbOi8KZY8G6/snnlDcAix/pRHWjmpmdqsTCIiYL16erW0n6kX/2u0wXMUZl26BXosn9k+67KuFy0EKWG+XlAi7wyB9ohNLX1KUxrtupd74mU7qwoskqM0OSIRlAFi2Vg0hdM2FNqoHAjZctaLnK1v78mYmDpz+S9hR3z/SmaII8gS3We53CTQeXzGH0zOiZjd4sYpLHWtxphcOqi5b0iPE0Aiz1+o/LcLxKy2tyTtIgCU6FFiyCJ5enGwn2HzbOKA/MoHYrbLkvsPz7mj/iCyllqTeLbD4TUkGpZSM4senbIqLX1cBNm+0nyBlWa39gtFlBcQlMnqkHPamv0cf2/rxtv8U6tdNHu9bcnjFRzUJeH2vOC2+6ExWYuosgf6bfCJS5XLR8tWt34VRgDPJy6orxzy50tD+AFjwv6LfK3IvionkrScwf4YrSm5yytfRKVy6deRb651cElLjim0W7N5tWifUS9YGwa33pcDBEMvYKTiT7DkAfdBUcBaylWocyIcg+Yht8O9WNa+GXkAw==;rsaEpXwjYsOIhGT/xQ2X8A=="
+secured: "DAHmY+l+46IcIse1wq46zgLC+NxNPNX152V6iOv5+06++pOT8SIINF8s5+BjRXWgo/X7pOAjh7T4z+r/Lue75ftLZNq4gfIVbOjs42/3L4otN65kVYhOGYQgyGyPcD+8bkOzI+9lPBCXROroU3n+CLjondXIZMIKcPp/zO1ASlqqXLdMyb835w/gVZ83XpmBVN3/l0U3Gf5oaax2/NSRV7tyUo2oDAgqCHZlBIpWrZxFE8RGtpWev/lme3eu/A9/URUXqs23hDPJgfgWnYezvVnmal9veTcN0kmqziONX5pd27ImP1sEdSA4OhaUg5fo5+4FMIFuIcBDklVAW96Jubp7PWEkstzagJasuC9fb14=;ChWboCxfTbjdEGwC08VY2Q=="
 ---
 

@@ -101,7 +101,12 @@ related:
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/544959_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "SZVbR9abh/EEbOHsOSEEhNBCYcDsZq7azqjfwiXfel3TnY0v/n2QCqFNc1U710oCMshRGKDfP4CcejJStmiz2UwomO4wiCS/8Ri/r+q21G0fuL8otvBg4Usfm7FGQmkVt+7+7ipiff85Vz822HpJNV5K1ISszyVgRkeMuUS6FNuV3Hediu4FgwBC1IgXQvj5cC4TeUNaVEZ/CsEWisZwpseUVKsYtY1ssV+iouUo7Yv/oG3TGy/9GwTAf2UruyYYoCmhJDQ6dugPCrkq7LnSjEtTCMBHFFaz7oA2shvBktMv0LsfCwaIBtyJQDprTr9YkSRs4zdKka0nzyTAjNmtEFdincPQ9FMsBSc9o2/rODc=;woCEih7RakeypWWNS9+0jA=="
 ---

@@ -111,6 +111,15 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Former Counsel Tells Congress of Trump Efforts to Undercut Russia Probe Democrats"
+    excerpt: "Former Counsel Tells Congress of Trump Efforts to Undercut Russia Probe Democrats WASHINGTON (Reuters) - President Donald Trump's ex-White House counsel Don McGahn \"shed new light\" on the investigation into Russia's role in the 2016 U.S. elections and the ..."
+    publishedDateTime: 2021-06-04T23:48:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-04/former-counsel-tells-congress-of-trump-efforts-to-undercut-russia-probe-democrats"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 30
 
 secured: "14DANM991yuB86R5fxv6DcJsa4Wp+QhC5MOfhYwi8/6XvM2EHWJXoWlqwFiKwSkyrw/L7MRX0hFCmm6JJk1AvF6PqSbLfvREM53KDl07nN2+6RY/AlCafCrjKXfbwXKvKwD95bz4Tbl0oXOQhKLmZVoUVCQuQ2IjA+qhl6K1o6QsHToxYtf0jNkP31c/SS3ojounOSm7VFREogNr7nzGlGu2VlyNk8RYkpNKr1kN8Fv1CcRPvtpIc6l2+cxKX/xm6qcnla3BulPlt0HnSNKK9X8rcLGgCNFNz6v0jQwuwSLPJZgZgi2Am4rkrn4Uoe50G1h6oAjJTBk92tnuPhJ9wT+BWsx43e+OW1/dTBQg1/RK9zZx8ssGSy1tFE8ZgLDDYLvh7O+ngrismzz9ShVJq0QxT2YzEo/ioTAAjFpWHEECjWQVM6zG1186387m1jK4L1R9aQH8Gr6aImJ5BfYur2pVFhqgK85LxoTL4O5jbGejc3H5StywQqfBQu8jL9da5iPY7iM8cV1/JoX/K8E1Lw==;LElVXeMiBN89O/XJjzQZJQ=="
 ---
