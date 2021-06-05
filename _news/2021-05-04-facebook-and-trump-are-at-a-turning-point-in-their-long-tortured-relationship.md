@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook's Nick Clegg explains former US President Donald Trump's suspension"
+    excerpt: "Former US President Donald Trump was barred indefinitely from Facebook and Instagram in January, in the wake of posts made during the US Capitol Riots. Following criticism from Facebook's Oversight Board, the company has clarified Mr Trump will be ..."
+    publishedDateTime: 2021-06-05T04:36:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-57367598"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 102
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/195A/production/_118809460_p09kmzqh.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Facebook says Donald Trump's suspension will last at least 2 years, but can be lifted if there is no 'serious risk to public safety'"
     excerpt: "Trump's account can be reinstated pending an evaluation to assess whether \"the risk to public safety has receded,\" Facebook announced."
     publishedDateTime: 2021-06-04T20:56:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "States, led by Arizona, ask Supreme Court to intervene in fight over Trump-era rule on immigrants and welfare"
-excerpt: "A coalition of Republican states led by Arizona is urging the Supreme Court to intervene in the legal battle over a Trump-era policy that restricted immigrants who are deemed reliant on welfare from receiving green cards -- a policy the Biden administration has since dropped."
-publishedDateTime: 2021-04-30T21:06:00Z
-originalUrl: "https://www.foxnews.com/politics/states-arizona-supreme-court-trump-rule-immigrants-welfare"
-webUrl: "https://www.foxnews.com/politics/states-arizona-supreme-court-trump-rule-immigrants-welfare"
-ampWebUrl: "https://www.foxnews.com/politics/states-arizona-supreme-court-trump-rule-immigrants-welfare.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/states-arizona-supreme-court-trump-rule-immigrants-welfare.amp"
+title: "Biden admin formally ends Trump's 'Remain in Mexico' immigration policy"
+excerpt: "The Biden administration officially ended former President Trump’s “Remain in Mexico” immigration policy this week."
+publishedDateTime: 2021-06-05T04:49:40Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bhVNoYOiapU/biden-administration-ends-trumps-remain-in-mexico-immigration-policy"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bhVNoYOiapU/biden-administration-ends-trumps-remain-in-mexico-immigration-policy"
+ampWebUrl: "https://www.foxnews.com/politics/biden-administration-ends-trumps-remain-in-mexico-immigration-policy.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-ends-trumps-remain-in-mexico-immigration-policy.amp"
 type: article
-quality: 116
+quality: 190
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8db31137-c6d1-42f6-b6c3-105cadba2d6d/6f4d1e85-e44a-42d4-86ba-0f9612af8783/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc9bd5c9-eb0e-4312-ac36-92a6ce407a2c/0d2b6708-6ab1-4e95-b80c-22a9c50307bd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -45,22 +44,6 @@ related:
     quality: 190
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b67f5c2b-ca07-4d21-b0a8-f37bcb589b2a/e8bd00c5-34b5-4617-936b-424fc9cdb814/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden admin formally ends Trump's 'Remain in Mexico' immigration policy"
-    excerpt: "The Biden administration officially ended former President Trump’s “Remain in Mexico” immigration policy this week."
-    publishedDateTime: 2021-06-05T04:49:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bhVNoYOiapU/biden-administration-ends-trumps-remain-in-mexico-immigration-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-ends-trumps-remain-in-mexico-immigration-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-ends-trumps-remain-in-mexico-immigration-policy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc9bd5c9-eb0e-4312-ac36-92a6ce407a2c/0d2b6708-6ab1-4e95-b80c-22a9c50307bd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -96,7 +79,23 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "States, led by Arizona, ask Supreme Court to intervene in fight over Trump-era rule on immigrants and welfare"
+    excerpt: "A coalition of Republican states led by Arizona is urging the Supreme Court to intervene in the legal battle over a Trump-era policy that restricted immigrants who are deemed reliant on welfare from receiving green cards -- a policy the Biden administration has since dropped."
+    publishedDateTime: 2021-04-30T21:06:00Z
+    webUrl: "https://www.foxnews.com/politics/states-arizona-supreme-court-trump-rule-immigrants-welfare"
+    ampWebUrl: "https://www.foxnews.com/politics/states-arizona-supreme-court-trump-rule-immigrants-welfare.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/states-arizona-supreme-court-trump-rule-immigrants-welfare.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8db31137-c6d1-42f6-b6c3-105cadba2d6d/6f4d1e85-e44a-42d4-86ba-0f9612af8783/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
-secured: "hwEEJM6niFSV+5LoNkKNE9SiPWvDe3DGr9FoWLCyTP2RgUf22CbafmSBSwu75pXVRjoVnd31iy51GTm5Xww4DE246HiOqgcT8XRwbbz4pnfNKDzhleRpLnQe2eJIDk/scFAyRKab+GyjxiITs37objGgWVUbCe29gOvQpG8aUsw4KWE0aK9Oh+WRcBWyW7XyvFWvLWJcp/yUeBOTzD9qanTF19VsFMz4Xk0/x9i3D+DyShkk7BaLqAv/yLM7tnJSGaRcCIFg6VG3sqsi8ag33ACadmsQCY0s8BioMdjWTYY0Bs7puUXG3CKvRG3fVhLPFWyfJHvY+6YvrHwvnkdK5QURsoSf+jQX2y4DHSxcEwZSDpIeN07vh9NQfuW+EBfP/b7JnUswIJxPYrnpilvz85h0USLMFXg8Eb/YV/FVjd3sblco324ZGBeDpsBVxe6+/u4zmp8YzxDguMYursmoE0TJb5yf6H1bDOZ6F2TJXGfNh2k+OMDVS6pklU7GaSEOdu16ApiEdRuJGxwhaaOt6w==;h5gnCMIPbku7iQZxclhyfQ=="
+secured: "kbJ2yNJctdFSyhDTrSDUT6xkwa776Zvk2elIHsBD0y8gzcE0zlAUhU7v2fnTU/S+JbhBV+812/LXChGsp7wXJqrDL8BxGmmzylEDSBrlrRljBosHZmLEpI00h7pkaiVQ6lpkv3hWDrZOGY1AMzZTbV3Ikn1HtK6+cTwyXgpJF2ZPoUcQ/x3OSKscFhg7XKyuCZz6bg73Cp6zfAZt7Hwccd24ZWrbvl6rwDqpOlwnhfpS3OA6xl78SyM5G37gcwtr7s1pq/2TdayKYkhJmTP2K8kDNZ+8Rc/RHhVtmm/Nmbbu1NpOhxybI6CQ0TmyQej52BriY+mnSRZLN1jK1rT9oiEoDtJ3WFm1jHwb2WnL9rs=;p6uuEMLsLT6Z75jE6SP+GA=="
 ---
 

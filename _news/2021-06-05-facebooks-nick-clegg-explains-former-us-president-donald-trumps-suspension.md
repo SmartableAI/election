@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Facebook says Donald Trump's suspension will last at least 2 years, but can be lifted if there is no 'serious risk to public safety'"
-excerpt: "Trump's account can be reinstated pending an evaluation to assess whether \"the risk to public safety has receded,\" Facebook announced."
-publishedDateTime: 2021-06-04T20:56:00Z
-originalUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6"
-webUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6"
-ampWebUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
+title: "Facebook's Nick Clegg explains former US President Donald Trump's suspension"
+excerpt: "Former US President Donald Trump was barred indefinitely from Facebook and Instagram in January, in the wake of posts made during the US Capitol Riots. Following criticism from Facebook's Oversight Board, the company has clarified Mr Trump will be ..."
+publishedDateTime: 2021-06-05T04:36:00Z
+originalUrl: "https://www.bbc.com/news/av/world-us-canada-57367598"
+webUrl: "https://www.bbc.com/news/av/world-us-canada-57367598"
 type: article
-quality: 94
+quality: 102
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: BBC
+  domain: bbc.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/60ba5775e459cb0018a2c3db?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/195A/production/_118809460_p09kmzqh.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -95,19 +93,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook's Nick Clegg explains former US President Donald Trump's suspension"
-    excerpt: "Former US President Donald Trump was barred indefinitely from Facebook and Instagram in January, in the wake of posts made during the US Capitol Riots. Following criticism from Facebook's Oversight Board, the company has clarified Mr Trump will be ..."
-    publishedDateTime: 2021-06-05T04:36:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-57367598"
+  - title: "Facebook says Donald Trump's suspension will last at least 2 years, but can be lifted if there is no 'serious risk to public safety'"
+    excerpt: "Trump's account can be reinstated pending an evaluation to assess whether \"the risk to public safety has receded,\" Facebook announced."
+    publishedDateTime: 2021-06-04T20:56:00Z
+    webUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 102
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/195A/production/_118809460_p09kmzqh.jpg"
-        width: 1024
-        height: 576
+      - url: "https://i.insider.com/60ba5775e459cb0018a2c3db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
     excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
@@ -158,6 +158,6 @@ related:
         height: 683
         isCached: true
 
-secured: "GcT1+UG8zr1IGwpMMrWIhsxzmBKmmEf+zbkRVPiCRP9K6HejoMhNFmhoHmR5N957b6QLYTU+iw+eawWuSqnd9rPcgP+xUTL8g4I8web2iTIUaBpi8ZMPVEHbmgAl3+GJBwfmyQL4l947uqCGu/pvZvCsuPcOOvQmjmG4mIFNSRmj75UsQF4qZawI3mzdU5OzxuBdaj1Iu7DGUNnBXgNCYmpM6V0yTQ5kWAubYksI9TriPBh7TxtVBnU0FNsPc9kFSsnq5njeoKd9H0Sy4kkk3MaAz5ggMPji9nz3B7oMWHhD6u/bQUB8c1LzMZSjBVUtPERsqx3/imqVHGB1T157kAjvjvdYdCLhJ+RH1CZGIUI=;RKHQnd+tBbQdUVbOfe5pJA=="
+secured: "2mUhKuilWHscMyDz+dEJET7MKhgvf5Wnln7RSPrXcSrZcuITHLonK/rQ6MpYi5z6Y6Z0AMfJJ+07ywxq+mzJa+qUzTMLV+e3593mWgSKOWCJ2baPDzzoI7RsjKVJR+bPKwVDiu7MkdzuhS97r37lWoMpm179qJds87n2GyQvF+lWnfux0NyV28JbXMlShQhZtw8g88UL0gONmjeuEXfmYX+H69PUSjwdvzy/XYxgqVJ85EbtiPRqhjCWf/cO5zEAUnT0/SlIJt2q4DLiGTlyl5qJcOPVFX4fKAWw6ZSyywbNh+cLcnK3DLcGy9w93TyCCY6/KoqIJ5F8gBOg7M7yDhGZ4E+m83OjFMTEHGW7DyU=;4x3Je8PzU/upX3lM6V+JmQ=="
 ---
 

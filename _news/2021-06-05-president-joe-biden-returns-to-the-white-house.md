@@ -1,31 +1,27 @@
 ---
 category: news
-title: "White House defends Biden's comment calling out centrist Democrats for blocking his agenda"
-excerpt: "The White House on Wednesday defended comments President Biden made a day earlier during a speech in Tulsa, in which he appeared to call out Democratic Senators Joe Manchin and Kyrsten Sinema, who he said \"vote more with my Republican friends."
-publishedDateTime: 2021-06-02T23:31:00Z
-originalUrl: "https://www.cbsnews.com/video/president-biden-calls-out-centrist-democrats-for-blocking-his-agenda/"
-webUrl: "https://www.cbsnews.com/video/president-biden-calls-out-centrist-democrats-for-blocking-his-agenda/"
+title: "President Joe Biden returns to the White House"
+excerpt: "U.S. President Joe Biden with first lady Dr. Jill Biden step off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
+publishedDateTime: 2021-06-04T18:26:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/619a2700dc401bb8791f0e6f419732bf/President-Joe-Biden-returns-to-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/619a2700dc401bb8791f0e6f419732bf/President-Joe-Biden-returns-to-the-White-House/"
 type: article
-quality: 95
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/02/087ea643-bd40-408f-920f-940bb681fb42/thumbnail/1200x630/497e168ab55cbdf1fe014001201f92c5/cbsn-fusion-white-house-defends-biden-after-president-calls-out-centrist-democrats-for-blocking-his-agenda-thumbnail-727413-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdnph.upi.com/pv/upi/619a2700dc401bb8791f0e6f419732bf/USA-WHITE-HOUSE-BIDEN.jpg"
+    width: 650
+    height: 433
     isCached: true
 
 related:
@@ -107,6 +103,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "White House defends Biden's comment calling out centrist Democrats for blocking his agenda"
+    excerpt: "The White House on Wednesday defended comments President Biden made a day earlier during a speech in Tulsa, in which he appeared to call out Democratic Senators Joe Manchin and Kyrsten Sinema, who he said \"vote more with my Republican friends."
+    publishedDateTime: 2021-06-02T23:31:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-calls-out-centrist-democrats-for-blocking-his-agenda/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/02/087ea643-bd40-408f-920f-940bb681fb42/thumbnail/1200x630/497e168ab55cbdf1fe014001201f92c5/cbsn-fusion-white-house-defends-biden-after-president-calls-out-centrist-democrats-for-blocking-his-agenda-thumbnail-727413-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden’s $6T budget: Social spending, taxes on business"
     excerpt: "President Joe Biden is proposing a $6 trillion budget for next year that’s piled high with new safety net programs for the poor and middle class, but his generosity depends on"
     publishedDateTime: 2021-05-30T02:39:00Z
@@ -139,21 +149,7 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "President Joe Biden returns to the White House"
-    excerpt: "U.S. President Joe Biden with first lady Dr. Jill Biden step off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
-    publishedDateTime: 2021-06-04T18:26:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/619a2700dc401bb8791f0e6f419732bf/President-Joe-Biden-returns-to-the-White-House/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/619a2700dc401bb8791f0e6f419732bf/USA-WHITE-HOUSE-BIDEN.jpg"
-        width: 650
-        height: 433
-        isCached: true
 
-secured: "uFgUDObit0kGYfse6SqZJyXBLJ7O5PwS9GjvliyFoy3X8FFnAl7ihILE3tohjIDBI0xZS+mIqg8yR2h1t6Az0DvVOmejJxg3ZOxgJPAxJdEkPi6LhFPklPVwIeqjU7CZevfxZLP+aaSD6Jv56V4tAjcGPD5NEH8tbO/ZPuGGhQkEcqsKnofEjg5leRPsl+1r8LK1dpX0I678DBIGoODz6FuBWQPqCNFK62Ri1LP9E1WI0OF7urysA7RX9JE6gAq8ZYlphK8leCNPpqFMxguH2cqPKbRa/fnjnA8QDbd+p2/5UovET+cHHKVDxhggpnL5C+bjk8hWzB8ILB7pHJdwCNcbisMKDl22W0gunlDliUvrCSWTNSNKBEte39MwHXgkiIZyWiQQEHFREzKDpSzlAX42FulIiYy27RulrPRM9KL3zBle75ixT7S4SF9+uzt+bFn5wbed3gpp4JYWE6khYN77GvLclp/7s4d+9A6U+Mso0LCqPSFG34eXFqLwpKm8k06quAiCHkXG9Zj3LI5ggg==;JUNnNNEEk2VGNpwlhDX9DQ=="
+secured: "bfcFe6siWZneL9CvX/ku9ALAh/NdA6NS+Po9KTHHaLSn03yfrXbdlubrA8w+YziPeAmWRPnp8XQ+F6vTdCYmuiTprrbDhqlAPhr462rCPNx7pf8fzIH7e0/YZJarnSF7pFj36y5mrWDlEFr1nDaiiRpZdpxsuahtlKlpwF8wi3UHbfFnmH3USyPsZLTEe0uLFrlw4GjkWloPSCPTiRwK4MYFfDZbEXn0Ki2FRwR2jFhIM7EdvlOMSQCOnWlGr2GOwi4X4ijAtjho8pOWvoqDM6Njpb7tHjKyDTgxfwD1a8g1Zlb2jMhX6YV0VGXTDYxwQ4ogdPLKTsIw51dm3fjdY4ayH4BMc/CC+xPZ24VNAdc=;9Knxihr41QmR7MbaCaUahg=="
 ---
 

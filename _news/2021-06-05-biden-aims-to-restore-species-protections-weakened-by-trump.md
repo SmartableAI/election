@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Biden aims to restore species protections weakened by Trump"
-excerpt: "The Biden administration said Friday The reviews by the U.S Fish and Wildlife Service and National Marine Fisheries Service are aimed at five Endangered Species Act regulations finalized by the Trump administration,"
-publishedDateTime: 2021-06-05T01:42:00Z
-originalUrl: "https://www.chron.com/news/article/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
-webUrl: "https://www.chron.com/news/article/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
-ampWebUrl: "https://www.chron.com/news/amp/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
+title: "Biden Aims to Restore Species Protections Weakened by Trump"
+excerpt: "The Biden administration says it is canceling or reviewing a host of actions by the Trump administration to roll back protections for endangered or threatened species, with a goal of strengthening a landmark law while addressing climate change."
+publishedDateTime: 2021-06-05T04:42:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-05/biden-aims-to-restore-species-protections-weakened-by-trump"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-06-05/biden-aims-to-restore-species-protections-weakened-by-trump"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-05/biden-aims-to-restore-species-protections-weakened-by-trump?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-05/biden-aims-to-restore-species-protections-weakened-by-trump?context=amp"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.hdnux.com/photos/01/20/32/72/21081742/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
-    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -1959,6 +1957,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "qY+blZ2bEJ/LIsFFtTFmO1x9E5Fx6FQFE5fRAd/z+PVj5s4Z/eUS+7V09sdnNbVwW9LZ0rXDQUIv3ngpq5t+ppuIIbDLdL/Zm4j5zvJHVal2ShwbZEnrbR+udU8h0L+bCWtYA3Jthla3JW5bgk/qZX87p+fXNzHCU+a7EoRqRABWdh96HRzeAHU8WKj+tDBctxj4AXzUt4pLvqENWInBRCz0NMwL61u1KHQbMBJBokm4UrFfCXfnLR6AAp0gzl63ag/Mlq+HubAtGL9BVh+TRgCkozAWY8sTndUXUt7G6wygvZkF9XTHSNooQeyRWGn9WH57MLJAg2A6h3NOaSC0PmFwNAmJVqWkc91dp74HVqw=;Jk4k2n/6Wlf/qtsQapCSVA=="
+secured: "dUirr23cr+1TEk+RVez/Qlh6U8wP+1iJ2ViROnESKEPJPsgxsuVv6rm3cfqHIdY/c9gYWPoyX711eUizp3yS6WcjzpfOCYMPpNVPB9y8K2FTV5Fjlrp8Bj8b2ZUhiYHTaoqdG8Si6y/ifE7bujArJ6GizHrlM8yOYtSCM0S/Rftz2IPVAGVYOOXt6wyXLr5SRcvJhgVbGyNivt6YjKn94VLtrYjVYho6Cw1P2BbiKs6oyKC6FziPy5ME1iP9U/wXjNEl9GWsQ7k6Sw/U/2E5ywRCdPFgTaIsP0le0aER7ItS4nYlCsuo1DhewWeOycEUMYazZj4lWpag1PVh7m2JCu20Xbr04uokLIx+Wzyuw/0UX7mxSSA5dP9YqehqcE8yllQA6Xd08VRYwKRreWXcTcm0pGaWu9hs68UBEYOUwc9oKAwQGFtDsfwMsI9ad6gDkSXgCyrlDNP+n5jKXYMwYJCLla57/zjmrt50CrY/fhmq6FV7l+YnbP2ZdL9XA6Kva8brVskXFOlPqdVnmujV3Q==;xeVWxlJGvC61V+FEBNmukQ=="
 ---
 

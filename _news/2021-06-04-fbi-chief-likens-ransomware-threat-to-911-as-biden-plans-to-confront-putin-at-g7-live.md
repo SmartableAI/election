@@ -3,8 +3,8 @@ category: news
 title: "FBI chief likens ransomware threat to 9/11 as Biden plans to confront Putin at G7 – live"
 excerpt: "Chris Wray compares hacking threat to challenge posed by September 11 attacks while Trump suspended from Facebook for two years – get the latest"
 publishedDateTime: 2021-06-04T15:57:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba52008f082e80569f65e6"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba52008f082e80569f65e6"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba59818f082e80569f6680"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba59818f082e80569f6680"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
 type: article
@@ -199,6 +199,6 @@ related:
         height: 3934
         isCached: true
 
-secured: "qZKheyXJt0FaET3IKelkU9BH3Njsa289tG+aPL+X7xk34hqT/wRIknrqBWEMWo1/LWul74FD9elOaNp8w8zUHP5lIkxDr6R/AkHW66GiWsNSjMz4Uo46AEUVXxXiAhOlAHONoHZjxAObwaUL/B1vFnHBZyFH6sbvJbN67lMM2wzA1Cd3+iOqPktEgEoPaTEWn5Vpv9b2SCxVMDaqZSAPa2ztCuXz1N02L/xkt65tMbKbHZFe6rtESp0D0gqsIPZacfFKaMQ+FDntJeKadZaOXRhVajRaWyTGd3SRxul1eJFTJld6HfVWmqs/GKwQupiuHY3TlNGmpPEwqMX438cekmTsI2/tzl8uQwbBHu4AkFo=;CBNerP4yb1ppDJFccLNQFQ=="
+secured: "0ls1UY6sXY+2q6mSHG/JdaiH8Q9G97SOQyHRJG5H+JocPuUt9EpXjz/XcirsOdGFNEfRZffjOPFIJ92C405kXBz4hygL5m7eYQtwt3BlEKK/xaGaCmmWylCcqiOWebQ9xMhoDEBO0ADM/Xs8fCor6ZhHeyNFKQoRBO5j5RALAE7H5zKve/9tRR2ddhHTSw24ilrb2djkCk3YQ22NKITQK45G4ieEhD8yXX9HTa1xKBz3HRZeSw6p5tavGnpa2ArPr0BU4AJSdia2DXuePd3G3NERo90X191sUQpCUjeSioaWrz6RN++KieuPgSBn0wLvsytpMoILBQFm6t45QxpywR86lzAA8nkFICQD2ScgbCI=;x87h+vtSzlaQEVvV9vem5g=="
 ---
 

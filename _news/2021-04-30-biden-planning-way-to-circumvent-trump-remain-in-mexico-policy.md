@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-administration-to-create-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-create-trump-era-remain-in-mexico-work-around.amp"
 type: article
 quality: 190
-heat: 250
+heat: 270
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden admin formally ends Trump's 'Remain in Mexico' immigration policy"
+    excerpt: "The Biden administration officially ended former President Trump’s “Remain in Mexico” immigration policy this week."
+    publishedDateTime: 2021-06-05T04:49:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bhVNoYOiapU/biden-administration-ends-trumps-remain-in-mexico-immigration-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-ends-trumps-remain-in-mexico-immigration-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-ends-trumps-remain-in-mexico-immigration-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc9bd5c9-eb0e-4312-ac36-92a6ce407a2c/0d2b6708-6ab1-4e95-b80c-22a9c50307bd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "States, led by Arizona, ask Supreme Court to intervene in fight over Trump-era rule on immigrants and welfare"
     excerpt: "FIRST ON FOX: A coalition of Republican states led by Arizona is urging the Supreme Court to intervene in the legal battle over a Trump-era policy that restricted immigrants who are deemed reliant on welfare from receiving green cards -- a policy the Biden administration has since dropped."
     publishedDateTime: 2021-04-30T20:56:18Z

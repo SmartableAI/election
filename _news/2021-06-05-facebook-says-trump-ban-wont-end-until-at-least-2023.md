@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "CNN's Don Lemon continues Trump obsession hours after urging the media to 'leave him alone'"
+    excerpt: "CNN anchor Don Lemon cannot quit Donald Trump even after he urged the rest of the media to do so. Lemon raised eyebrows on Thursday during his appearance on CNN's \"New Day\" when he pleaded to his journalism colleagues to lay off covering the former president a bit."
+    publishedDateTime: 2021-06-05T03:57:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-obsession-media.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc4cf548-f8c0-417e-8f51-f9f2b94f7b6b/2d568eb8-6f45-4153-954e-cb7aea218fe3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Chris Hayes: The Dangers Of Trump's Big Lie and Republicans Actually Believing It"
     excerpt: "It is hard to tell what is more dangerous to American democracy, at the moment: the big lie, or the big delusion. The key question emerging from the alternate reality the right has been constructing,"
     publishedDateTime: 2021-06-04T14:28:00Z
