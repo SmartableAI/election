@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Trump gutted Obama-era housing discrimination rules. Biden’s bringing them back."
-excerpt: "Housing Secretary Marcia L. Fudge moved this week to reinstate fair housing regulations that had been gutted under President Donald Trump, in one of the most tangible steps that the Biden administration has taken thus far to address systemic racism."
-publishedDateTime: 2021-04-13T14:37:00Z
-originalUrl: "https://www.washingtonpost.com/us-policy/2021/04/13/hud-biden-fair-housing-rules/"
-webUrl: "https://www.washingtonpost.com/us-policy/2021/04/13/hud-biden-fair-housing-rules/"
-ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/13/hud-biden-fair-housing-rules/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/13/hud-biden-fair-housing-rules/?outputType=amp"
+title: "Biden aims to restore species protections weakened by Trump"
+excerpt: "The Biden administration said Friday The reviews by the U.S Fish and Wildlife Service and National Marine Fisheries Service are aimed at five Endangered Species Act regulations finalized by the Trump administration,"
+publishedDateTime: 2021-06-05T01:42:00Z
+originalUrl: "https://www.chron.com/news/article/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
+webUrl: "https://www.chron.com/news/article/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
+ampWebUrl: "https://www.chron.com/news/amp/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
 type: article
-quality: 135
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GF7UEGEWR4I6XDYKGOCM6T5TTE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.hdnux.com/photos/01/20/32/72/21081742/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -494,6 +490,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557880138&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH380MD"
         width: 860
         height: 545
+        isCached: true
+  - title: "Trump gutted Obama-era housing discrimination rules. Biden’s bringing them back."
+    excerpt: "Housing Secretary Marcia L. Fudge moved this week to reinstate fair housing regulations that had been gutted under President Donald Trump, in one of the most tangible steps that the Biden administration has taken thus far to address systemic racism."
+    publishedDateTime: 2021-04-13T14:37:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/04/13/hud-biden-fair-housing-rules/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/13/hud-biden-fair-housing-rules/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/13/hud-biden-fair-housing-rules/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 135
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GF7UEGEWR4I6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden breaks with Trump and says he'll stick up for Federal Reserve's independence"
     excerpt: "An envelope. It indicates the ability to send an email. President Joe Biden said on Tuesday he would safeguard the independence of the Federal Reserve, breaking with his predecessor, Donald Trump, who often tried pressuring the central bank to lower the ..."
@@ -1602,22 +1614,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden aims to restore species protections weakened by Trump"
-    excerpt: "The Biden administration said Friday The reviews by the U.S Fish and Wildlife Service and National Marine Fisheries Service are aimed at five Endangered Species Act regulations finalized by the Trump administration,"
-    publishedDateTime: 2021-06-05T01:42:00Z
-    webUrl: "https://www.chron.com/news/article/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/32/72/21081742/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "On call backing Susan Wright, Donald Trump blasts Joe Biden, suggests he won Texas by larger margin"
     excerpt: "Donald Trump on Thursday used his endorsement of Republican congressional candidate Susan Wright to blast President Joe Biden and the Democratic"
     publishedDateTime: 2021-05-01T01:46:00Z
@@ -1963,6 +1959,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "mHKEvGXOJ/ymGyRtANu+LvxPVeBfd7fthHGrIU9s5qOb2wteftRtqD0layJkQk77WXyHk/Eyv/EBITDyNpAL/MfojOsU+yrHOmWtOJwEMfEfWQWWbdJ/O4DDhErStN28R7wY4GIURcALAbvLLznFKeRb2AE8hp/ySrlbd4CShyuGIzPXHGxCbe2E41y3ZonkOmTAaClfGG1C+njh1wmo87y6Bo+foaAYYWHSRmNnxv+hbo4VWlTbV8r/H2fZ2ZBSRZTSAovtJxQ6h59e5BHmnjt6RuER7m9rzJHZLU3L9BV2J83hvtR0gTpRkqnTw2kzGoULPRwc6TNtxqwaX/L3+m4OeP7SF44yX8V1XngPOlbzJ6Wm9N4HTHh7y6ZSXM1/G2brmwChZ8Y4ha8KhAeHchVfxwokTnZyOirauUE8RhOKpGmdj6q/YrLj9BY+YlYqNGfMR7EIdOJNvx8736/FxKFfepGlTZLfGRMAXOFT8TGls5I3DduUqhzRsX1+VgvmCpG8WqS0UEUpb9j3sOR2oA==;U8gvP2CVy6rseMHF4lHbOg=="
+secured: "qY+blZ2bEJ/LIsFFtTFmO1x9E5Fx6FQFE5fRAd/z+PVj5s4Z/eUS+7V09sdnNbVwW9LZ0rXDQUIv3ngpq5t+ppuIIbDLdL/Zm4j5zvJHVal2ShwbZEnrbR+udU8h0L+bCWtYA3Jthla3JW5bgk/qZX87p+fXNzHCU+a7EoRqRABWdh96HRzeAHU8WKj+tDBctxj4AXzUt4pLvqENWInBRCz0NMwL61u1KHQbMBJBokm4UrFfCXfnLR6AAp0gzl63ag/Mlq+HubAtGL9BVh+TRgCkozAWY8sTndUXUt7G6wygvZkF9XTHSNooQeyRWGn9WH57MLJAg2A6h3NOaSC0PmFwNAmJVqWkc91dp74HVqw=;Jk4k2n/6Wlf/qtsQapCSVA=="
 ---
 

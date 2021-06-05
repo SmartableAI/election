@@ -1602,6 +1602,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden aims to restore species protections weakened by Trump"
+    excerpt: "The Biden administration said Friday The reviews by the U.S Fish and Wildlife Service and National Marine Fisheries Service are aimed at five Endangered Species Act regulations finalized by the Trump administration,"
+    publishedDateTime: 2021-06-05T01:42:00Z
+    webUrl: "https://www.chron.com/news/article/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-admin-targets-Trump-rollbacks-of-species-16225332.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/32/72/21081742/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "On call backing Susan Wright, Donald Trump blasts Joe Biden, suggests he won Texas by larger margin"
     excerpt: "Donald Trump on Thursday used his endorsement of Republican congressional candidate Susan Wright to blast President Joe Biden and the Democratic"
     publishedDateTime: 2021-05-01T01:46:00Z

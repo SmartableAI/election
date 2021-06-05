@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Pence: Trump and I may never see ‘eye to eye’ on events of Jan. 6"
-excerpt: "He tried to turn the events of Jan. 6 back around on Democrats, saying they wanted to keep the insurrection in the news to divert attention from Biden’s liberal agenda."
-publishedDateTime: 2021-06-04T01:17:00Z
-originalUrl: "https://www.al.com/news/2021/06/pence-trump-and-i-may-never-see-eye-to-eye-on-events-of-jan-6.html"
-webUrl: "https://www.al.com/news/2021/06/pence-trump-and-i-may-never-see-eye-to-eye-on-events-of-jan-6.html"
-ampWebUrl: "https://www.al.com/news/2021/06/pence-trump-and-i-may-never-see-eye-to-eye-on-events-of-jan-6.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/06/pence-trump-and-i-may-never-see-eye-to-eye-on-events-of-jan-6.html?outputType=amp"
+title: "Pence says he doesn't know if he and Trump will \"ever see eye-to-eye\" about January 6 riot"
+excerpt: "Former Vice President Mike Pence told a crowd of Republican activists in New Hampshire on Thursday night that he doesn't know whether he and former President Trump will \"ever see eye-to-eye\" about the January 6 attack on the U."
+publishedDateTime: 2021-06-04T22:58:00Z
+originalUrl: "https://www.cbsnews.com/news/trump-pence-january-6-riot/"
+webUrl: "https://www.cbsnews.com/news/trump-pence-january-6-riot/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/trump-pence-january-6-riot/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-pence-january-6-riot/"
 type: article
-quality: 100
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: al.com
-  domain: al.com
+  name: CBS News
+  domain: cbsnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
-  - Donald Trump
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/27W55IB5HVGJVDK5QFVCO7YXDY.jpg"
-    width: 6000
-    height: 4000
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/04/8d8e8db2-23d5-45f5-ae29-7fd460d3216d/thumbnail/1200x630/bd876701981d29caad10b7a260dd6626/ap21154863381781.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -118,22 +121,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Pence says he doesn't know if he and Trump will \"ever see eye-to-eye\" about January 6 riot"
-    excerpt: "Former Vice President Mike Pence told a crowd of Republican activists in New Hampshire on Thursday night that he doesn't know whether he and former President Trump will \"ever see eye-to-eye\" about the January 6 attack on the U."
-    publishedDateTime: 2021-06-04T22:58:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-pence-january-6-riot/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-pence-january-6-riot/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-pence-january-6-riot/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 130
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/04/8d8e8db2-23d5-45f5-ae29-7fd460d3216d/thumbnail/1200x630/bd876701981d29caad10b7a260dd6626/ap21154863381781.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Capitol Rioters Will Blame Trump, Fox News for Their Actions on Jan. 6: Report"
     excerpt: "\"The reason he was there is because he was a dumbass and believed what he heard on Fox News,\" an attorney representing what of the defendants said."
     publishedDateTime: 2021-05-29T19:05:00Z
@@ -220,6 +207,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pence: Trump and I may never see ‘eye to eye’ on events of Jan. 6"
+    excerpt: "He tried to turn the events of Jan. 6 back around on Democrats, saying they wanted to keep the insurrection in the news to divert attention from Biden’s liberal agenda."
+    publishedDateTime: 2021-06-04T01:17:00Z
+    webUrl: "https://www.al.com/news/2021/06/pence-trump-and-i-may-never-see-eye-to-eye-on-events-of-jan-6.html"
+    ampWebUrl: "https://www.al.com/news/2021/06/pence-trump-and-i-may-never-see-eye-to-eye-on-events-of-jan-6.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/06/pence-trump-and-i-may-never-see-eye-to-eye-on-events-of-jan-6.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 100
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/27W55IB5HVGJVDK5QFVCO7YXDY.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Mike Pence Won’t Let Pro-Trump Mob Come Between Him and His President"
     excerpt: "The ex-veep made it clear he’s still fully Team Trump, though he and his former boss may never “see eye to eye” on January 6."
     publishedDateTime: 2021-06-04T17:24:00Z
@@ -237,6 +240,6 @@ related:
         height: 632
         isCached: true
 
-secured: "TVSMH2TtB2/ux6finGUBarn4JKNTensREAlrNjEmj1KpDKkJDXQv7S5l0afoE6p9XAPyHWaQE1IizTtZL6OaHvBm6Gfys/DEXYLtcGFDwzp/lUbWF0o+1Og9pveEJJjneG05svXowxB/hD4DpZvkXWdRiYZuJ4gHvU7hVWegDsXUyEwQvy50TMnLoZmNwpEUCCgVwTTgCfc3OxADdHsv79jK9qGWEA2KNm8Nn1NtvBdpT7xk8ZKRaeSLgtOCr00Hra8PtwSskQxq2Eosjgl50m9jXwYfEDa/0L4NhGd/Vp3bzEV6FTlLq+VilxGNQdZcPB2B1CWVez+ZogceYf9Pu6Rpu/RftBT5n71vIye7cigyn/lls65zOxeqLl/WhJ+27AhsfW6pQh3U2lfeFiSWox8OyKPeWnW/uMleqvvlHDH+zlf6mb5Sfna34wNQVdsr5bGMF/eFs+Ih3ux1WK4cUInp+RIT4bV+xdRrAbHcU1eIVvJQQGY3Zix5llAlM7LW2r4UchyGuKltVswHFQOdug==;m257QuNaTPF1c5x/u1HsTQ=="
+secured: "q3OVwTIMYTHqBJMLvZp2rWK9sMNWKuNk54nnMIjEfVaICLhfox8xySNq6K9XpRcnc0ntVadED1gXjKb8I4H08jw29eKVNGoVw2gNK289cDrJNvcfYLZ1GLgSuxTFGsGlls6kSTXbWu9R6D0+DTIFACaT+lCRVm8y45GLKqsVfZkQnqatDMu4CHrXrB7QfJ3YXgGjXi99KnCDYXmpYdx5NOFYklrb/qSoylViEolbL8zTdNl9/mnEBTMKjwLi0x9UC/vzt+udPQtk9vTMegpTiIO3XoKVWUugoaOB3hrC/XEu6NZ8T/WhI8TgQa3+m1hos2KHWWwwmasSAvyiLG2HGt8ZhuZ5RG+G9pryEVvW5WM=;5HEsOzEVhGJMRXeAou0zIw=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Facebook suspends Donald Trump until 2023"
 excerpt: "Watch \"Facebook suspends former President Donald Trump until 2023\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-06-04T22:59:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210604225930-facebook-suspends-former-president-donald-trump-until-2023/"
-webUrl: "https://www.cbsnews.com/live/video/20210604225930-facebook-suspends-former-president-donald-trump-until-2023/"
+publishedDateTime: 2021-06-05T00:03:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210605000332-facebook-suspends-former-president-donald-trump-until-2023/"
+webUrl: "https://www.cbsnews.com/live/video/20210605000332-facebook-suspends-former-president-donald-trump-until-2023/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/04/story_10693551_1622847844.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/05/story_10695510_1622851684.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -87,6 +87,6 @@ related:
       domain: reuters.com
     quality: 105
 
-secured: "LH4ncicr6NWTeHvbxzWHRxXqDlN0tyJ6xDjlfZysckv3eVbtc1YOkviveGO8guBGrFN5vWibsvjCIS660RaFRBgtGL8J/4ukFMdIwnQyvwLDBxKHgS6gDmNqiyCxH96NPl+mZ+YXnNFwzrhc6E+kwweNk6tbfyK4mJErgp8i+u2AF//qgqZ050MPyjOpYFAWlGDOLqwByTdUTCBCRViMzCx8oWi/byi03kuhCV3TnzEmWBecl6s3g3/LUvj4fk4sTxAYJqbDem49vOW1MMHik/zv/gSUDv4NKg403Qt4C/7xWv8Pbqkq2pKnq/U7xKznnEhL4dkjyl9KJxcVE8xpiX9MNree97a/S3ZtkUzPIkc=;opKAUP4BMvS/JOr+GnTipA=="
+secured: "7o9zqCsxrIaWlL6Uz3pIYeffdCMEHbFba4Irg+fpkWVICChsIlPlHTw7Uglut4MD5gZ/KUAXgS9LZ500ogO+AO1DbbbUZ3YUB/wRZtEpfgn0bDFDXtj6VCv7ZbIYuDqKIYVtioSt9Y+J22ObV1X8kZIlZ3YAs7PitPStPaIHnz1MMaiVose0olB8ZCJsY3SGXDAQFMAAC8PV+z/h81uiNhk3WezXCy0hxVTuAbcC31mxZkEZw/sg+CIJ3f/EutFLdQ/lHCDG3eOVTVE/Fb4z/5eMUEIsK8aVoVAde4nsrgR48pvQsDR/KQ+REgzAycHRCDwxUa+Dcqy3k4PZ6YwcyeIMBkuboWWVt2/7beYEu0s=;fF8s5Ex+CmAmjbRYR9ku1g=="
 ---
 

@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence says he doesn't know if he and Trump will \"ever see eye-to-eye\" about January 6 riot"
+    excerpt: "Former Vice President Mike Pence told a crowd of Republican activists in New Hampshire on Thursday night that he doesn't know whether he and former President Trump will \"ever see eye-to-eye\" about the January 6 attack on the U."
+    publishedDateTime: 2021-06-04T22:58:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-pence-january-6-riot/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-pence-january-6-riot/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-pence-january-6-riot/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 130
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/04/8d8e8db2-23d5-45f5-ae29-7fd460d3216d/thumbnail/1200x630/bd876701981d29caad10b7a260dd6626/ap21154863381781.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mike Pence: I'll Likely Never See Eye to Eye With Trump on Jan. 6"
     excerpt: "Former Vice President Mike Pence said Thursday that he wasn’t sure that he and former President Donald Trump would ever see “eye to eye” over what happened on Jan. 6 but that he would “always be proud of what we accomplished for the American people over the last four years."
     publishedDateTime: 2021-06-03T14:12:00Z
