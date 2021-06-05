@@ -32,9 +32,9 @@ images:
 
 related:
   - title: "White House says Republicans increased offer on Biden infrastructure deal by $50bn – as it happened"
-    excerpt: "Shelley Moore Capito, the lead Republican negotiator on the deal – get the latest"
+    excerpt: "The president spoke with Senator Shelley Moore Capito, the lead Republican negotiator on the deal – get the latest"
     publishedDateTime: 2021-06-04T23:21:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60bab57e8f082ac930aeab7f"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba84448f082ac930aea9aa"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
     type: article

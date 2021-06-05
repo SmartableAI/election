@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook Suspends Donald Trump for at Least Two Years"
+    excerpt: "The company said it would revisit the decision two years from the date of its initial move to suspend him on Jan. 7."
+    publishedDateTime: 2021-06-04T22:33:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-349049/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "CNN's Don Lemon continues Trump obsession hours after urging the media to 'leave him alone'"
     excerpt: "CNN anchor Don Lemon cannot quit Donald Trump even after he urged the rest of the media to do so. Lemon raised eyebrows on Thursday during his appearance on CNN's \"New Day\" when he pleaded to his journalism colleagues to lay off covering the former president a bit."
     publishedDateTime: 2021-06-05T03:57:00Z

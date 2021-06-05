@@ -115,6 +115,15 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump Speaking at NC GOP Meeting; Dems Plan 'Day of Action'"
+    excerpt: "Donald Trump is coming to the Republican Party’s annual convention in North Carolina, a state whose electoral votes he won in 2016 and 2020."
+    publishedDateTime: 2021-06-05T09:30:00Z
+    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2021-06-05/trump-speaking-at-nc-gop-meeting-dems-plan-day-of-action"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "Donald Trump: Speaks at NCGOP state convention in Greenville | Raleigh News & Observer"
     excerpt: "I understand the place will be packed, all records broken!” former President Trump said of his upcoming speech in Greenville, North Carolina."
     publishedDateTime: 2021-06-04T17:14:00Z

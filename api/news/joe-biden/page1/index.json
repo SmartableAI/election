@@ -2,12 +2,69 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-05-a-favored-biden-timeline-for-politically-charged-decisions-later.md",
+      "title": "A favored Biden timeline for politically-charged decisions: Later",
+      "excerpt": "The president seems to be reaching for a traditional executive branch stalling tactic at a higher rate than his predecessors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/white-house/favored-biden-timeline-politically-charged-decisions-later-n1269721",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/favored-biden-timeline-politically-charged-decisions-later-n1269721",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480531/210604-joe-biden-ac-742p.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1269721",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269721",
+      "publishedDateTime": "2021-06-05T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-white-house-says-republicans-increased-offer-on-biden-infrastructure-deal-by-50bn-as-it-happened.md",
       "title": "White House says Republicans increased offer on Biden infrastructure deal by $50bn – as it happened",
-      "excerpt": "Shelley Moore Capito, the lead Republican negotiator on the deal – get the latest",
+      "excerpt": "The president spoke with Senator Shelley Moore Capito, the lead Republican negotiator on the deal – get the latest",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60bab57e8f082ac930aeab7f",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60bab57e8f082ac930aeab7f",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba84448f082ac930aea9aa",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba84448f082ac930aea9aa",
       "featuredContent": null,
       "highlight": null,
       "heat": 151,
@@ -259,6 +316,54 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-barack-obama-interview-joe-biden-is-finishing-the-job.md",
+      "title": "Barack Obama Interview: Joe Biden Is 'Finishing the Job'",
+      "excerpt": "Barack Obama tells Ezra Klein how American went from \"Yes We Can\" to \"MAGA.\" The former president also discuss Joe Biden, aliens, and three of his favorite books.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/544771.jpg",
+          "width": 3851,
+          "height": 2562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     },
     {
@@ -1467,106 +1572,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-what-an-old-politician-understands-biden-turns-the-age-issue-to-advantage.md",
-      "title": "‘What an old politician understands’ — Biden turns the age issue to advantage",
-      "excerpt": "Biden has seemed a changed man, calmer yet bolder. He savors the job, yet governs like a guy who knows the hurdles are high and time is short.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far",
-      "originalUrl": "https://www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/b4f3b0d/2147483647/strip/true/crop/3901x2548+49+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2F5c%2F090f2eb74320953e4d22f41fd085%2Fla-photos-1staff-645664-la-me-schools-waivers-equity-15-als.JPG",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far?_amp=true",
-      "publishedDateTime": "2021-05-18T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-pennsylvania-town-saved-by-fracking-fears-biden-will-kill-its-prosperity.md",
-      "title": "Pennsylvania Town Saved By Fracking Fears Biden Will Kill Its Prosperity",
-      "excerpt": "Thirty years ago, Jason Capps was a young man with ambition, but when he looked around this town near Pittsburgh, where he grew up, all",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/47/478783_5_.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.amp.html",
-      "publishedDateTime": "2021-05-18T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

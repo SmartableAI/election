@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook Suspends Donald Trump for at Least Two Years"
+    excerpt: "The company said it would revisit the decision two years from the date of its initial move to suspend him on Jan. 7."
+    publishedDateTime: 2021-06-04T22:33:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-349049/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Chris Hayes: The Dangers Of Trump's Big Lie and Republicans Actually Believing It"
     excerpt: "It is hard to tell what is more dangerous to American democracy, at the moment: the big lie, or the big delusion. The key question emerging from the alternate reality the right has been constructing,"
     publishedDateTime: 2021-06-04T14:28:00Z

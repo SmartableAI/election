@@ -1,10 +1,10 @@
 ---
 category: news
 title: "White House says Republicans increased offer on Biden infrastructure deal by $50bn – as it happened"
-excerpt: "Shelley Moore Capito, the lead Republican negotiator on the deal – get the latest"
+excerpt: "The president spoke with Senator Shelley Moore Capito, the lead Republican negotiator on the deal – get the latest"
 publishedDateTime: 2021-06-04T23:21:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60bab57e8f082ac930aeab7f"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60bab57e8f082ac930aeab7f"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba84448f082ac930aea9aa"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba84448f082ac930aea9aa"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
 type: article
@@ -57,6 +57,6 @@ related:
       domain: abcnews.go.com
     quality: 85
 
-secured: "+/90JLfwCfzwrVzHQsAXOLVFiF1unSeVxioliW09Vd47gNkm1yPSkxLvhIcZHov85eLYqztO+mbLoVKnobk7pEUNEfDHpZkHUg5gqWErDASMvfarjLr/1MbhTUeeOM86satYGDE76lcQVX8s5YEvHgv97l9Y8JLDMxa3eu4wThtNnoS/P6zk6Wut9JXjQhXkdDptHSZzRZhChPmmI2jrhb0RZfmkurGmA+CjsvH304rSnAs915QMlWs7M01C3BqR5ELfLuCNsfJq0lMZmF8hZ+ppHkjnB2jfrQch/zyvsviZTv2kNomdwRmMlRiAdzBH8rx6h5tMr4cIyWjmQJkl73yGHalS0guscQ4/+VyaIwI=;K+JYAIM+aqhZ/PobSRE71w=="
+secured: "7k8ceJPwBjdqF4pNiOnEs3xLsGX/VTBks4mCo95bSRJdPy0tib+pICBhsT3nBP8KKyr0l02VW65E8xxoR3Dlz1DCR4qMP7enn5R30z3eQlpGE6dRDyp7n6p18zxuZEycRELfNxRN/cxAFcCgKHxwL9JB1AE7t0Jj2EfO6egau7KOPuH0PEyoFuhnI8exr32e8lriyAuAHzHXWewSSEGjW06rtBFrReCOjp38RZYpEF5QnhDxqOWzsU9zQTHk30q9zAwu9V0a2Hrwa8L5Uu97zFftGDNNa8mg22n9DIzeXSNI6M+Cp9aR0KC4r/AtVyVWub4BbrBJwSLmoXRWwhS26kzN4DOTPPO2yWSL2NWgMGU=;v74csmr2ockcwtuKARYivg=="
 ---
 
