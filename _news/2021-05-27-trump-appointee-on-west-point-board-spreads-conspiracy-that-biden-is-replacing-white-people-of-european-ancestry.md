@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House rejects GOP infrastructure counteroffer, saying it does not meet Biden's objectives"
+    excerpt: "President Joe Biden on Friday rejected a new counteroffer made by Republicans on infrastructure despite a $50 billion increase in spending, telling the GOP's key negotiator that the new offer did not meet his policy goals.\n    \n"
+    publishedDateTime: 2021-06-04T23:42:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HLDfET3ZEBo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/biden-capito-defazio-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/biden-capito-defazio-infrastructure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604104621-01-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here's what Biden can do on his own about racial inequality -- and where he'll need Congress to act"
     excerpt: "President Joe Biden on Tuesday laid out his most comprehensive plan yet for shrinking the nation's longstanding racial wealth gap, the latest step in his promise to infuse more equity in government policies and in the rebuilding of the economy after the coronavirus pandemic.\n    \n"
     publishedDateTime: 2021-06-01T21:21:37Z
@@ -76,6 +92,22 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democratic lawmakers wanted to call on Biden to form presidential commission on January 6 but were told it wouldn't happen"
+    excerpt: "A group of Democratic members of Congress planned to call on President Joe Biden to form a presidential commission on the January 6 attack at the US Capitol, but they were discouraged by the White House, a congressional source told CNN on Friday.\n    \n"
+    publishedDateTime: 2021-06-04T22:11:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l37nolLsHNA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420124249-us-capitol-dome-0413-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -61,6 +61,31 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Facebook suspends Donald Trump until 2023"
+    excerpt: "Watch \"Facebook suspends former President Donald Trump until 2023\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-04T22:59:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210604225930-facebook-suspends-former-president-donald-trump-until-2023/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/04/story_10693551_1622847844.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fact Check-Donald Trump remains suspended from Facebook and Instagram"
+    excerpt: "Claims that former President Donald Trump has returned to Facebook and Instagram after being banned months ago are false. Representatives from Facebook, the parent company of Instagram, confirmed in an email to Reuters the former president remains off both platforms."
+    publishedDateTime: 2021-06-04T18:55:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-trump-facebook-ban-idUSL2N2NM2CA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NM2CA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NM2CA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "KlsxStgZsv5lSLRdUXymE7iFdhOVCBpaFTcHI/t32J5zvO+hkVFKcUClku0bWIo/zMEJYRHektCSCLIdEfqHyu/tIpthv8JuT1EF/oI+Et0TOpdSpSod+VcS3RyzycOvkcHRk5Ls9MBOsXfGouuyZZQraJrN4jYOpXTtwkzs7Uqm4dXUXrRBL7utq1UeUyVONEqftx2ULoHGFeCERed6At9fVtnBncm5KbMkZgj5MAeqyh6gAMeG4ikw8q0uzVEMaBOv9KSwI47JYOTph4IVsVTo8gy7C2i9SAjPdahB+fvTR4VaKc3ibz2ZLq00vhbw7ZJqNusTXgvboilDyN5ishb5jcwnLVw6aI5DR+c8h+k=;RxoIqMJqXtTt0alW/JkzMw=="
 ---

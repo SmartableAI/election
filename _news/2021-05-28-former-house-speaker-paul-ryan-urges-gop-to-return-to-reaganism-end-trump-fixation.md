@@ -47,6 +47,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "The GOP has proven to be an even 'greater threat' to US democracy than Trump in 2021, experts warn"
+    excerpt: "Democracy experts are sounding the alarm as Republican-led legislatures nationwide take extraordinary steps to restrict voting."
+    publishedDateTime: 2021-06-04T20:55:00Z
+    webUrl: "https://www.businessinsider.com/gop-has-become-even-greater-threat-democracy-than-trump-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/gop-has-become-even-greater-threat-democracy-than-trump-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-has-become-even-greater-threat-democracy-than-trump-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/60ba6b8ce459cb0018a2c48a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Schumer: Donald Trump is a 'bane' to our democracy"
     excerpt: "Senate Majority Leader Chuck Schumer slammed Republicans after their filibuster blocked a bill to create a commission to probe the riot at the U.S. Capitol. He blamed fear of Donald Trump. (May 28)"
     publishedDateTime: 2021-05-28T19:10:00Z

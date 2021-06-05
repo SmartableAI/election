@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-05-democrat-says-trump-counsel-recounted-troubling-events.md",
+      "title": "Democrat says Trump counsel recounted 'troubling events'",
+      "excerpt": "The closed-door interview, which came two years after House Democrats originally sought his testimony, was originally part of Democrats' efforts to investigate whether Trump tried to obstruct Justice Department investigations into his 2016 presidential campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/After-2-year-battle-House-panel-to-interview-16224038.php",
+      "originalUrl": "https://www.chron.com/news/article/After-2-year-battle-House-panel-to-interview-16224038.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php",
+      "publishedDateTime": "2021-06-04T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet.md",
+      "title": "Kamala Harris’ stepdaughter Ella Emhoff praises the ‘ugly’ mullet",
+      "excerpt": "From David Bowie to ‘Rambo’ to K-pop stars, the shaggy haircut comes, goes and is back again. Style icon Ella Emhoff explains its appeal in new Vogue feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet",
+      "originalUrl": "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771",
+          "width": 1024,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/",
+      "publishedDateTime": "2021-06-04T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-biden-pentagon-state-department-at-odds-over-pride-flag.md",
       "title": "Biden Pentagon, State Department at odds over pride flag",
       "excerpt": "The Defense Department will not allow the Pride flag to be flown at military bases, unlike the State Department, spokesperson John Kirby said Friday.",
@@ -495,7 +581,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
       "featuredContent": null,
       "highlight": null,
-      "heat": 390,
+      "heat": 410,
       "tags": null,
       "images": [
         {
@@ -548,7 +634,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1221,110 +1307,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-joe-biden-once-said-god-save-the-queen-in-congress.md",
-      "title": "Joe Biden Once Said 'God Save the Queen' in Congress",
-      "excerpt": "Biden will meet the 95-year-old Queen Elizabeth II when he visits the U.K. for the G7 summit later this month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-once-said-god-save-queen-congress-1597170",
-      "originalUrl": "https://www.newsweek.com/joe-biden-once-said-god-save-queen-congress-1597170",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1812200/biden-speaks-commemoration-tulsa.jpg",
-          "width": 2539,
-          "height": 1670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-once-said-god-save-queen-congress-1597170?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-once-said-god-save-queen-congress-1597170?amp=1",
-      "publishedDateTime": "2021-06-03T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-jimmy-kimmel-on-trump-abandoning-his-blog-its-a-move-he-calls-the-eric.md",
-      "title": "Jimmy Kimmel on Trump abandoning his blog: ‘It’s a move he calls the Eric’",
-      "excerpt": "With most late-night hosts on holiday this week, Kimmel mocks the end of Trump’s short-lived website and Amazon’s new cannabis policy",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/culture/2021/jun/03/jimmy-kimmel-donald-trump-blog-late-night-recap",
-      "originalUrl": "https://www.theguardian.com/culture/2021/jun/03/jimmy-kimmel-donald-trump-blog-late-night-recap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f06f499090879d7c5709f6eb7602fabe4aa920dd/207_107_2428_1457/master/2428.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=32045ce26666f3a7005ff1443790be4c",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/culture/2021/jun/03/jimmy-kimmel-donald-trump-blog-late-night-recap",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/jun/03/jimmy-kimmel-donald-trump-blog-late-night-recap",
-      "publishedDateTime": "2021-06-03T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

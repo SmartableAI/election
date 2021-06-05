@@ -149,6 +149,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pence says he may never see “eye to eye” with Trump on Capitol riot"
+    excerpt: "Former Vice President Mike Pence revealed that he and former President Trump may never see “eye to eye” about the Capitol riot. Nikole Killion reports."
+    publishedDateTime: 2021-06-04T22:55:00Z
+    webUrl: "https://www.cbsnews.com/video/pence-says-he-may-never-see-eye-to-eye-with-trump-on-capitol-riot/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/04/817a513d-c28f-4c78-9b73-f1cf4fc1d2f2/thumbnail/1200x630/b425bfd7b71c0f7cd5cbbaf37b62b2fa/killion-728715-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pence says he doesn't know whether he'll 'ever see eye-to-eye' with Trump on Jan. 6 attack"
     excerpt: "Former vice president Mike Pence on June 3 said he has spoken with former president Donald Trump “many times” since they left office in January and admitted that the two still do not “see eye-to-eye” about the Jan."
     publishedDateTime: 2021-06-03T23:05:00Z

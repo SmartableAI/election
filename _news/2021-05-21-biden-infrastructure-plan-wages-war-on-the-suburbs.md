@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "GOP offer on infrastructure 'did not meet' Biden's objectives in Friday call, Psaki says"
+    excerpt: "President Biden is not yet satisfied with the Republican offer on infrastructure after another call with Sen. Shelley Capito on Friday, White House press secretary Jen Psaki said."
+    publishedDateTime: 2021-06-04T22:16:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ch6IWkGVzlU/gop-offer-infrastructure-did-not-meet-bidens-objectives"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-offer-infrastructure-did-not-meet-bidens-objectives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-offer-infrastructure-did-not-meet-bidens-objectives.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "EBs5Cuu+2qgLJJJrSSW5xcd1QBN+KYgowg8UKvFOBlrTaYPuTF6AMvJCJGEIHujy/DVkcga/kwQ1OpqcGBb/3ibwnNe9coUFL/TrdacCnOMvBqPBaHrlHqKFYGRMZC/kckyMNNZy8GxVjsu9n517a3voVUpjhPCD0iMyWXE1GS60jwDIP/XKpDi9uoFKHpiFWuMk47ZdNxorx/IiUoBbzGFcyvfIsf71xd2t/r5cDVYr9xWh+Xq04jg/MjRElTfIu5rHcOp9ZaXWVefcL2P7fxsdY1vIMfnAh0X9fXFqyr1kxVSG6r8T6USSL+EtzBkF11P3RHJW0dXDKzTbzXlGLMKIZ9s5EZKO0uTkVsvexvJWAYitwUhQriHDKITbhTv5HuJTG3mIRpqT42uqZ6cBRb8UYLk7X2Eo7LckAYdYXrdCmOf1RzMYeAJylkZWf8Cq2XRKPO3fik2WUe+PC3mJP1Ad3BNQ5N/ayIhZlDazmlaqE6z+iT29Z/kDfiWmo+z48RJS7rzVRs/QPWdD2ItFuA==;igUYXu+4TmfEXu/Bkxilgg=="
 ---

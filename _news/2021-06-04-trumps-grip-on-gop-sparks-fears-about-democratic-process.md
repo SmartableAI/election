@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/5548418/2147483647/strip/true/crop/3071x2006+0+125/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F37%2F49%2F80e1edb9482999daa1b9ea563631%2Fla-na-cheney.JPG"
         width: 320
         height: 209
+        isCached: true
+  - title: "The GOP has proven to be an even 'greater threat' to US democracy than Trump in 2021, experts warn"
+    excerpt: "Democracy experts are sounding the alarm as Republican-led legislatures nationwide take extraordinary steps to restrict voting."
+    publishedDateTime: 2021-06-04T20:55:00Z
+    webUrl: "https://www.businessinsider.com/gop-has-become-even-greater-threat-democracy-than-trump-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/gop-has-become-even-greater-threat-democracy-than-trump-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-has-become-even-greater-threat-democracy-than-trump-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/60ba6b8ce459cb0018a2c48a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Schumer: Donald Trump is a 'bane' to our democracy"
     excerpt: "Senate Majority Leader Chuck Schumer slammed Republicans after their filibuster blocked a bill to create a commission to probe the riot at the U.S. Capitol. He blamed fear of Donald Trump. (May 28)"
