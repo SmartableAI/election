@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-03-doj-investigating-trump-appointed-postmaster-general-louis-dejoy.md",
+      "title": "DOJ investigating Trump-appointed Postmaster General Louis DeJoy",
+      "excerpt": "The Justice Department is investigating campaign contributions made by Postmaster General Louis DeJoy's private sector employees, his spokesman confirmed Thursday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/om4qEbIztMc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/om4qEbIztMc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200824124226-17-postmaster-dejoy-hearing-0824-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/03/politics/louis-dejoy-campaign-contributions/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/louis-dejoy-campaign-contributions/index.html",
+      "publishedDateTime": "2021-06-03T09:38:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-republican-leaders-to-summit-with-trump-over-conservative-agenda.md",
       "title": "Republican leaders to summit with Trump over conservative agenda",
       "excerpt": "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week.",
@@ -1286,58 +1342,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ohio-abortion-ban-inspired-by-gods-agenda-written-in-texas-defended-by-trump-lawyer.md",
-      "title": "Ohio abortion ban: Inspired by 'God's agenda,' written in Texas, defended by Trump lawyer",
-      "excerpt": "A group of anti-abortion activists worked behind the scenes for weeks with a city councilman to make Lebanon, Ohio's new abortion ban possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/02/abortion-ban-texas-group-trump-lawyer-behind-ohios-law/7491809002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/02/abortion-ban-texas-group-trump-lawyer-behind-ohios-law/7491809002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/28/PCIN/667d5789-17e9-4e0a-b905-1a8fd239ee68-052521_LEBANONABORTION_0003.jpg?auto=webp&crop=5507,3098,x0,y280&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7491809002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7491809002",
-      "publishedDateTime": "2021-06-02T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

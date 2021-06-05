@@ -3,8 +3,8 @@ category: news
 title: "FBI chief likens ransomware threat to 9/11 as Biden plans to confront Putin at G7 – live"
 excerpt: "Chris Wray compares hacking threat to challenge posed by September 11 attacks while Trump suspended from Facebook for two years – get the latest"
 publishedDateTime: 2021-06-04T15:57:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba59818f082e80569f6680"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba59818f082e80569f6680"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba52008f082e80569f65e6"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba52008f082e80569f65e6"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
 type: article
@@ -199,6 +199,6 @@ related:
         height: 3934
         isCached: true
 
-secured: "OR1GgsGu4oTvuHP8zcMgjY/f81Y3G+sY3Gi0If9JCYQIVq7I7T9BMdKZhjNjrS689jkF9sUJ2IqIpP+88tFmsP31jW8AiZGjf/ZXw+O+yNi2kHJSmb/TY74APqIbzQHtawdA2iB6x5nLGnWosY8nVFGWIhKWhrVkABQQ/DSKfSk4SOJY2PnuF9fNPdOzNcgs1O2rlxkeZ3sk1/7g0dYngHD5UFzwUml61ce5wF0G93Ego1OiEB1IHDWIa1+pRX7+vW79o9rTpclxw4/I8QytAeCuNB8JPBfvsgteau8wEQweiriRUYcChY9pkbuhdyXEHKuNPtgUZUoa3oTpop4F49PxIylk/ngDMIm4OjDXQPtHgyLyM0RblDQSdiX6VwqhQ6xfQIZFy9bi/VWP+hBeLErkVspPh6wsVqSOymSo/9+Q2RXPOUIuqkv+Y+uq5E4/zKbdu6AFGxl7tBq5YQckRXXKBcIhgVXXrbmfiNqL5GTIoZuHrlJCCEB8LAxVJF4El4+ORBaZhuzq73QNGpgtgQ==;vB7+dRf/0yDjVU2ERKIjrA=="
+secured: "9xIdtGo0SZbcqcilcIbC0uCCekkJbMAEOQD4ghWurpgVdovgJphNf2kHhXCPMzWn10DMmYoouDsYDoH43I6Qu3yFg8rsf5N67FhcESmgPRY279rwCJdfYj1pWjpJesrj9P/7o1oAodqkqXPRf92Dvin0ln6cUoCx7M+JKEHqr9FG1p7J5Pn0Wv1ncJSAPyXHmVRGdsToKhZaEe3TFpbi2DMmbkQzJ8c4aeC9GrblAPTuym80XG5eaV95pBGAanDRxeLAIhnD97nYBn6tK3bASKPnQn93950aIbsiDPK4YJpg8KsWiQ66KrHcgMNZjBLX1XltOTuM0Xpy2J685339k6B3lwlNuTIZNgl8IeF6FjE=;LtnDpown7dSox/ztmbvymA=="
 ---
 

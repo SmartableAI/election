@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/29/trump-lafayette-squa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_02df0797f603407287dc1a87bb5753b4_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Facebook bans Trump for at least two years"
+    excerpt: "Facebook is banning former President Trump from its platform for at least two years, after finding that his posts on January 6 stoked violence and posed a risk to public safety. And, as part of a new enforcement policy for public figures,"
+    publishedDateTime: 2021-06-05T11:25:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-facebook-suspension-two-years/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-facebook-suspension-two-years/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-facebook-suspension-two-years/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/05/fd10ff77-b803-450b-89cf-8c018fa25802/thumbnail/1200x630/c6aefea2fd59cfd28b46bb3c98866b19/gettyimages-1028930700.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "DOJ asks judge to dismiss cases against Trump, Barr for Lafayette Square clearing"
     excerpt: "Department of Justice lawyers asked a federal judge to dismiss lawsuits against former President Trump, former attorney general William Barr and other administration officials for the forced clearing"

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "George P. Bush is running for attorney general in Texas — by courting Trump."
-excerpt: "The younger Mr. Bush is taking on Ken Paxton, who filed an unsuccessful lawsuit contesting election results in four states that the former president lost in 2020."
-publishedDateTime: 2021-06-03T16:52:00Z
-originalUrl: "https://www.nytimes.com/2021/06/03/us/politics/george-p-bush-texas-attorney-general.html"
-webUrl: "https://www.nytimes.com/2021/06/03/us/politics/george-p-bush-texas-attorney-general.html"
-ampWebUrl: "https://www.nytimes.com/2021/06/03/us/politics/george-p-bush-texas-attorney-general.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/03/us/politics/george-p-bush-texas-attorney-general.amp.html"
+title: "Arizona Republican who ordered election audit touted Trump phone call, Giuliani support in emails"
+excerpt: "Karen Fann, the state Senate president, also told a constituent that \"Biden won,\" according to the messages obtained and released by a watchdog group."
+publishedDateTime: 2021-06-05T01:40:00Z
+originalUrl: "https://www.nbcnews.com/politics/politics-news/arizona-republican-who-ordered-election-audit-touted-trump-phone-call-n1269718"
+webUrl: "https://www.nbcnews.com/politics/politics-news/arizona-republican-who-ordered-election-audit-touted-trump-phone-call-n1269718"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269718"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269718"
 type: article
-quality: 132
+quality: 137
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/06/03/us/03new-washington-briefing-Bush/03new-washington-briefing-Bush-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480512/210604-arizona-maricopa-audit-ac-702p.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -96,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Arizona Republican who ordered election audit touted Trump phone call, Giuliani support in emails"
-    excerpt: "Karen Fann, the state Senate president, also told a constituent that \"Biden won,\" according to the messages obtained and released by a watchdog group."
-    publishedDateTime: 2021-06-05T01:40:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/arizona-republican-who-ordered-election-audit-touted-trump-phone-call-n1269718"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269718"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269718"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 137
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480512/210604-arizona-maricopa-audit-ac-702p.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Indictment against former Trump adviser Bannon is dismissed"
     excerpt: "The onetime chief strategist, accused of defrauding donors in a $25 million fund to build a wall along the U.S. border, had been pardoned by the president."
     publishedDateTime: 2021-05-26T04:20:00Z
@@ -128,7 +112,23 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "George P. Bush is running for attorney general in Texas — by courting Trump."
+    excerpt: "The younger Mr. Bush is taking on Ken Paxton, who filed an unsuccessful lawsuit contesting election results in four states that the former president lost in 2020."
+    publishedDateTime: 2021-06-03T16:52:00Z
+    webUrl: "https://www.nytimes.com/2021/06/03/us/politics/george-p-bush-texas-attorney-general.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/03/us/politics/george-p-bush-texas-attorney-general.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/03/us/politics/george-p-bush-texas-attorney-general.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/03/us/03new-washington-briefing-Bush/03new-washington-briefing-Bush-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
-secured: "YgufCQmWbwCSIVgsjm+0j7Cs1e2c/lGsmeRNIFX2ZybtvkBcp7qM3BZmekwlOMa5ANmrEmPVAHEYBapFUsW9hAkrl88glX0Bgo00ELuAezg0Bqpna6pjdadRaMaQ2CNm2gchTfYQIiFfNL1Fkk74yV7S7CGf4kGze5n8rxY1u5FrpyLOQN+2YToarx+uZXrQxLKmj5pO2RynWT9XaYu3oR+YtRKwgX/F1EVaASE/jKBn4RbNqiBYBpUQ6CnYncp1zhj77AO+sNx8dGrrUnOkpLH2z5p1N+xaqTnDfSLLabZ6Sq+0cOSArJBpOtUAisDeZUMg3WvoB31bPn53AbYhwhXf/VG/FkFSAYe/g2Rq0oR39/ZLPsq3s4vqWSTwPFLvNNZRNPr2D8K4/jZhuyd6wkm6nvpBpZ0JG3h3mgzgAZCK5ZZw28ntpIA49Q8o6SrvTr2zG3KWXLdlvcYrfexVJFyraLTBvQQFgfDbdeV18o5AABS0Bx/OdXhno4mO/5J/RASH9MHcjV8AdWUhlnZ93Q==;tpnyHkgF/qmGvNysCwa+0g=="
+secured: "MAuqH5HHpZoGbi0GE/CLcYqVJWt+fhCdam/18udVxSvMSTPG6R8PSKd3HsJmb7RjIuytO/wN0A2TL1QsvMJyyoy4nocrDSEeKGnSqPmjB5fJQVPIrnY9aOpBbhWRQ0j1fYtlVZAAOLJ4APqtL+eH8fjakRQG6i8vkLrDgQJBXZjbIpn+IhRLJ+WWQ64O+x/6MI5WV7XknfNDzjNqQa1LndvbceVPYhx99EPVrcqaW5j3z+yScKDVE03yVDELDZ0PW8BpWLOykOR58sNJ4O5gYyliPNJGK61kjuohl4F7UlroP4iipyaMcJK0wsqwa990+/E86mA4ig7K6dj9loMu8HrNgB158WbV5fEjr9J2R0k=;qWutSscMQc45qbDyL9p2rg=="
 ---
 

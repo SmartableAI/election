@@ -63,15 +63,15 @@ related:
         isCached: true
   - title: "Facebook suspends Donald Trump until 2023"
     excerpt: "Watch \"Facebook suspends former President Donald Trump until 2023\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-06-05T08:59:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210605085930-facebook-suspends-former-president-donald-trump-until-2023/"
+    publishedDateTime: 2021-06-05T09:59:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210605095930-facebook-suspends-former-president-donald-trump-until-2023/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/05/story_10698893_1622883844.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/05/story_10698930_1622887443.jpg"
         width: 1280
         height: 720
         isCached: true

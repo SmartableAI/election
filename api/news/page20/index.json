@@ -2,6 +2,62 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-04-23-biden-announces-us-will-aim-to-cut-carbon-emissions-by-as-much-as-52-by-2030-at-virtual-climate-summit.md",
+      "title": "Biden announces US will aim to cut carbon emissions by as much as 52% by 2030 at virtual climate summit",
+      "excerpt": "President Joe Biden on Thursday will kick off a climate summit attended by 40 other world leaders by announcing an ambitious cut in greenhouse gas emissions as he looks to put the US back at the center of the global effort to address the climate crisis and curb carbon emissions.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wxx87ry5y3A/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wxx87ry5y3A/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210422082947-02-biden-climate-summit-0422-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/22/politics/white-house-climate-summit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/white-house-climate-summit/index.html",
+      "publishedDateTime": "2021-04-23T08:31:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-elizabeth-warren-pramila-jayapal-say-why-bidens-proposed-capital-gains-tax-is-beneficial.md",
       "title": "Elizabeth Warren, Pramila Jayapal Say Why Biden's Proposed Capital Gains Tax is Beneficial",
       "excerpt": "Biden's plan would double the tax rate on millionaires to help pay for childcare, free community college tuition and new skills training for workers.",
@@ -1273,62 +1329,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-biden-admin-blocking-veterans-annual-memorial-day-motorcycle-rally-rep-mast-says.md",
-      "title": "Biden admin blocking veterans' annual Memorial Day motorcycle rally, Rep. Mast says",
-      "excerpt": "Rep. Brian Mast, R-Fla., accused the Biden administration of blocking the annual Rolling to Remember motorcycle rally, a 30-year-plus Memorial Day tradition for veterans that has always been staged in the Pentagon parking lot.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SvqNm33t6O8/brian-mast-rolling-to-remember-memorial-day-lloyd-austin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SvqNm33t6O8/brian-mast-rolling-to-remember-memorial-day-lloyd-austin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21013669867536-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/brian-mast-rolling-to-remember-memorial-day-lloyd-austin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brian-mast-rolling-to-remember-memorial-day-lloyd-austin.amp",
-      "publishedDateTime": "2021-04-21T16:26:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Facebook bans Trump for at least two years"
+    excerpt: "Facebook is banning former President Trump from its platform for at least two years, after finding that his posts on January 6 stoked violence and posed a risk to public safety. And, as part of a new enforcement policy for public figures,"
+    publishedDateTime: 2021-06-05T11:25:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-facebook-suspension-two-years/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-facebook-suspension-two-years/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-facebook-suspension-two-years/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/05/fd10ff77-b803-450b-89cf-8c018fa25802/thumbnail/1200x630/c6aefea2fd59cfd28b46bb3c98866b19/gettyimages-1028930700.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "d97h2KN/B2vcM4r7NcPM5HkGbX8ttpBjXWXaUWuSlIMK9DG0MgGVytjH9C8aJq0izn5vK5fDA1zea0qxnPt1Yw1abOttaiXJmN1mdfZGGNkCGfm025f8dWxoLu9fTetydyLvxgNQn9AeifSila24vC4tEMvDEW7HEj0GXMR46g8/ihlTbzEl4h7rP1jLUCbPx0S2uMjPj3nF+j2pL5J8WppKqeu8L9dIiGNitd6clHJ1OAziyD4z86yMCHTP4hNzDe8k/ihy1uT8nQ3ej6HIYDbEYZs8pzT14XeVnXhLgcOaWsvofQLRODD+8+rZbp0OytXE1xQVWgGaX196S+fhJAKhJmsLi3WUBYdjxFQS45E=;LBdmgjh7F8AbtYm3ImdJLg=="
 ---

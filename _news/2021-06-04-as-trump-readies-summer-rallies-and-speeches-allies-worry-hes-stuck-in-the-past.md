@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Arizona Republican who ordered election audit touted Trump phone call, Giuliani support in emails"
+    excerpt: "Karen Fann, the state Senate president, also told a constituent that \"Biden won,\" according to the messages obtained and released by a watchdog group."
+    publishedDateTime: 2021-06-05T01:40:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/arizona-republican-who-ordered-election-audit-touted-trump-phone-call-n1269718"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269718"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269718"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 137
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480512/210604-arizona-maricopa-audit-ac-702p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Indictment against former Trump adviser Bannon is dismissed"
     excerpt: "The onetime chief strategist, accused of defrauding donors in a $25 million fund to build a wall along the U.S. border, had been pardoned by the president."
     publishedDateTime: 2021-05-26T04:20:00Z
