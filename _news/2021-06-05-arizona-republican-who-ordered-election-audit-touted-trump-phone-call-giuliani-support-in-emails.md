@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New York Times: Trump's chief of staff Mark Meadows pushed DOJ to investigate baseless election fraud claims"
+    excerpt: "Mark Meadow, former President Donald Trump's White House chief of staff, pushed the Department of Justice in his boss' last days in office to investigate unproven conspiracy theories and fraud claims about the 2020 presidential election, the New York Times reported Saturday.\n    \n"
+    publishedDateTime: 2021-06-05T18:49:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nboq0bFHcIQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/mark-meadows-doj-2020-election-fraud/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/mark-meadows-doj-2020-election-fraud/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210605132906-restricted-file-mark-meadows-october-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Deposition of Trump Org CFO looms in DC lawsuit accusing Trump 2017 inauguration committee of abusing funds"
     excerpt: "Documents due in DC Superior Court on Friday could clear the way for the Trump Organization's chief financial officer to be deposed as part of a DC attorney general lawsuit that alleges former President Donald Trump's 2017 inaugural committee abused non-profit funds.\n    \n"
     publishedDateTime: 2021-05-28T00:54:43Z

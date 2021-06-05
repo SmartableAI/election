@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Fact-checking Sidney Powell's claim Trump could be reinstated"
-excerpt: "Months into President Joe Biden's first term, supporters of former President Donald Trump are still touting the \"big lie\" that Trump actually won the 2020 election. One of the prominent supporters of these theories is Trump's former lawyer Sidney Powell, who is facing a $1.3 billion defamation lawsuit"
-publishedDateTime: 2021-06-01T20:49:25Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J5FpAVwaiHA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J5FpAVwaiHA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
+title: "New York Times: Trump's chief of staff Mark Meadows pushed DOJ to investigate baseless election fraud claims"
+excerpt: "Mark Meadow, former President Donald Trump's White House chief of staff, pushed the Department of Justice in his boss' last days in office to investigate unproven conspiracy theories and fraud claims about the 2020 presidential election, the New York Times reported Saturday.\n    \n"
+publishedDateTime: 2021-06-05T18:49:57Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nboq0bFHcIQ/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nboq0bFHcIQ/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/mark-meadows-doj-2020-election-fraud/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/mark-meadows-doj-2020-election-fraud/index.html"
 type: article
-quality: 175
-heat: 295
-published: true
+quality: 171
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123162610-sidney-powell-1119-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210605132906-restricted-file-mark-meadows-october-2020-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "New York Times: Trump's chief of staff Mark Meadows pushed DOJ to investigate baseless election fraud claims"
-    excerpt: "Mark Meadow, former President Donald Trump's White House chief of staff, pushed the Department of Justice in his boss' last days in office to investigate unproven conspiracy theories and fraud claims about the 2020 presidential election, the New York Times reported Saturday.\n    \n"
-    publishedDateTime: 2021-06-05T18:49:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nboq0bFHcIQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/mark-meadows-doj-2020-election-fraud/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/mark-meadows-doj-2020-election-fraud/index.html"
+  - title: "Fact-checking Sidney Powell's claim Trump could be reinstated"
+    excerpt: "Months into President Joe Biden's first term, supporters of former President Donald Trump are still touting the \"big lie\" that Trump actually won the 2020 election. One of the prominent supporters of these theories is Trump's former lawyer Sidney Powell, who is facing a $1.3 billion defamation lawsuit"
+    publishedDateTime: 2021-06-01T20:49:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J5FpAVwaiHA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210605132906-restricted-file-mark-meadows-october-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123162610-sidney-powell-1119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,6 +128,6 @@ related:
         height: 550
         isCached: true
 
-secured: "kwGp9xEAl8Zawq2sH5UvD2UNlVUNwtq7yABDFbyLd3cGBDd8tB1se4v0Tx2jNsGJRXQ90/ymf2CeEpfsPtwZHKs7JAh3sa2/5oPdsQV+bcfzsi0eQQVLAPAmmXUooB7Xgv/g9ty1NIwwxDPsAf59lkaOQAVQqcfs0MjJR70Sc18eFMFH+quQhkugxc+aABPXOpq6A9QAOHerl0TEzTr8bygrQ4OLm0ClO2UipsPi3W+OvvqVni0FhIAGWpNzSDyLUmdzY6ajyWGm7MynGQxZkAcLJssMNHOdgM7cQby6LE5gGLFIionXOIkDPHI/sQ2/9UkYj+zayd6To2ik/pzqjlMixSEWkZRQwkOnQ0o31ZQ=;2u1SPRObqR2mtnw2Db7IPg=="
+secured: "ch5H2WkFBXI658HG9GZ8UI4BAIdMzHpUOqO83xgRe3wDcGkcP/a33gpT0LRe0CtdHcxJmxZKgODB+JOHMIe6U5cgeiGTdQpBl2yAIq+482FOKC/mENdNgwDz1Tl8GSY0QE6kTLKr8XSFQFbFCMxh+hqG4/YrFRzu7JU5PX/GrRbYL9Cva6+4OX0f+HETgl8qBGVbCt/H3284E3zEeEA7voPtoVQxgilZxEBqMmUMSIha3N6MNGer83fX4H8n9E2XZEScxIR6e3quPr3lcqyPTdckri9WkiL4sFB22iSZKuMiN20KR3ykv7vI2CuH1+2i17EBBLifV877179BZs6KlzKVsM2R2/Poi12+kqcVA4k=;o6bzlPojGP/ZysxiXW+ZOA=="
 ---
 
