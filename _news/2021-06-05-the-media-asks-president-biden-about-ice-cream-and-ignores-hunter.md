@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Biden won't form his own commission to study Capitol riot, White House says"
-excerpt: "The White House on Thursday shot down the idea of forming its own presidential commission to study the Jan. 6 attack on the Capitol, saying it is Congress’ “unique role” to carry out that investigation."
-publishedDateTime: 2021-06-03T21:26:42Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
-ampWebUrl: "https://www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+title: "The Media Asks President Biden About Ice Cream and Ignores Hunter"
+excerpt: "My question for today has nothing to do with President Joe Biden's favorite ice cream. I don't know if ice cream is a big thing in China. But does China"
+publishedDateTime: 2021-06-05T13:06:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.html#!"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.amp.html"
 type: article
-quality: 173
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/AP21019774947253.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/54/545047_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -94,6 +91,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden won't form his own commission to study Capitol riot, White House says"
+    excerpt: "The White House on Thursday shot down the idea of forming its own presidential commission to study the Jan. 6 attack on the Capitol, saying it is Congress’ “unique role” to carry out that investigation."
+    publishedDateTime: 2021-06-03T21:26:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/AP21019774947253.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden Cabinet members avoid huge tax hits thanks to little-known federal law"
     excerpt: "Under Section 2634 of federal elections law sits a unique provision to help soften the financial blow of new administration officials suddenly selling off assets: certificates of divestiture."
@@ -221,23 +234,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "The Media Asks President Biden About Ice Cream and Ignores Hunter"
-    excerpt: "My question for today has nothing to do with President Joe Biden's favorite ice cream. I don't know if ice cream is a big thing in China. But does China"
-    publishedDateTime: 2021-06-05T13:06:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/545047_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "N45FEvX4HYyujzvWMXOFpb4l/qNNm15UWnlwoIm1TAotWNuKqi67vzAFN06uEp+71prq8VUpqaQGbvbQkX64RiCyXTz3RyLLSRrD1zJvTt/HsE03EsEU9KghqJ95b0RcuF5kkmnYXs1OI9xfda6S+viYRqfTbFMRh0R5wfIcTuRgKqUGsLJTo0BDoOBmTPg77g6uzpr53wmjn4TkMlJ6nJJ6AG3nE6zLJgBnc1VFNSrlMncRMLq8z7rhLAOyQNE7HvN5JIedJ2ochCzp78jg7WA4p6E0gfu+dWqcA37tk3knHawI6FXLjjvxk0XQJqbZqN1hpdQTizn3Jz4YI6loJo0q7Now35c24D07ahTG4c8=;IbXrePZ5cC7KpIHKDrPf8g=="
+secured: "2zz3hOHZS0BVqJ4k/NE8GyDQ7Hlnac5RNdKHV0mtBFHHPgBXEDEoa5Qc6pi/aMRkfG+odXaPZf+mKe3NJPUwrvfMlLwAn6fHInce5RmwgmEZAizdaNpCQ70WilkoKjacKz7DTBXOfcCpUU9zX9Th93S8yoK5Rri2kVzPNWSFDuEis12D2HIhoIv0r1FnM4cAp5I+AEFmSWrNlY9JHHRUjf3w2/It2gOMrhijlHniHp4TuxMst2/07AIcQ1gc6ish0agKkCJ9dZ7t6i0cFBHqpwXLfXl5tTHwwckfGorxCmCGUP8b4q8MfPAHVprAE1OrFxFvBDaFAStj4Uc71IuIHlrcWRfXYbtSveV1Ietp/pc=;gr853/GyqUqQxBUljVJH8Q=="
 ---
 

@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Mike Pence: I'll Likely Never See Eye to Eye With Trump on Jan. 6"
-excerpt: "Former Vice President Mike Pence said Thursday that he wasn’t sure that he and former President Donald Trump would ever see “eye to eye” over what happened on Jan. 6 but that he would “always be proud of what we accomplished for the American people over the last four years."
-publishedDateTime: 2021-06-03T14:12:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-06-03/pence-returns-to-another-key-early-presidential-voting-state"
-webUrl: "https://www.bloomberg.com/news/articles/2021-06-03/pence-returns-to-another-key-early-presidential-voting-state"
+title: "Former VP Mike Pence: Trump and I may never 'see eye to eye' on Jan. 6 Capitol attack"
+excerpt: "Former Vice President Mike Pence lauded his and former President Donald Trump’s administration in a speech Thursday, but he said the two may never \"see eye to eye\" about the Jan. 6 insurrection. To a crowd of Republicans in Hillsborough County,"
+publishedDateTime: 2021-06-04T16:37:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/04/donald-trump-capitol-riot-mike-pence-speech-january-6-2021/7541248002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/04/donald-trump-capitol-riot-mike-pence-speech-january-6-2021/7541248002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/7541248002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7541248002"
 type: article
-quality: 120
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYK25SbTr_pM/v1/1200x800.jpg"
+  - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9c22e27c-c451-4f11-b546-98ddb50fd19c-cent02-7e5plm5ebo91a0bn9hjs_original.jpg?auto=webp&crop=2588,1456,x0,y407&format=pjpg&width=1200"
     width: 1200
-    height: 800
+    height: 675
     isCached: true
 
 related:
@@ -151,6 +149,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Mike Pence: I'll Likely Never See Eye to Eye With Trump on Jan. 6"
+    excerpt: "Former Vice President Mike Pence said Thursday that he wasn’t sure that he and former President Donald Trump would ever see “eye to eye” over what happened on Jan. 6 but that he would “always be proud of what we accomplished for the American people over the last four years."
+    publishedDateTime: 2021-06-03T14:12:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-03/pence-returns-to-another-key-early-presidential-voting-state"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 120
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYK25SbTr_pM/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pence says he may never see “eye to eye” with Trump on Capitol riot"
     excerpt: "Former Vice President Mike Pence revealed that he and former President Trump may never see “eye to eye” about the Capitol riot. Nikole Killion reports."
     publishedDateTime: 2021-06-04T22:55:00Z
@@ -239,23 +251,7 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "Former VP Mike Pence: Trump and I may never 'see eye to eye' on Jan. 6 Capitol attack"
-    excerpt: "Former Vice President Mike Pence lauded his and former President Donald Trump’s administration in a speech Thursday, but he said the two may never \"see eye to eye\" about the Jan. 6 insurrection. To a crowd of Republicans in Hillsborough County,"
-    publishedDateTime: 2021-06-04T16:37:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/04/donald-trump-capitol-riot-mike-pence-speech-january-6-2021/7541248002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7541248002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7541248002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 83
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9c22e27c-c451-4f11-b546-98ddb50fd19c-cent02-7e5plm5ebo91a0bn9hjs_original.jpg?auto=webp&crop=2588,1456,x0,y407&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "VirvIzFx5UECX4Ais4x7BInMycVHIqr4DHbPGz5pHGaL0T7BMLQO0Hq9VbelHIweJ7XDv+M/cW6g9G1xRqxhvBT0gHRlz/DFVN8lOkHnxbPrxrVTWPqAzTBC7BbiewR0x7CKj3ZOSvdmu83V9dD5o8GqopzzmZ+Asbup/Vu05JNsc0jwPfzMgfNVZfsFnqOkVQOo/5oHM0/IlaAj9NWF2I/Xjr4cjPkEbyO59yeKn6BvZkkB4LNe+wUUpmOqWMgNS7P/iwgbYlkOzSWg4QPR0Dsh2CIoJ/gC7dKGpq2Yz2ZHtPPqTAPdico8H1MEpw+kWIQXqR0GSMai0uXdSzFYRdAGYIbQdNdWfaSlg/Q9N2H4YFNdDIm6QbmTiskeGSnUu7+t9VTrJN8n9ql3XdKe4CexL5fXiN0QucFLCIukeB/wupzBQQtjPVdS/p5Jea3AmEP9vIyuIX1y5FLMg18TqnXCVjDLtxkADOv585eY/9eH9sPIMB3mFQAPVkP/B+xyV1NclBQkYWAr2CVXdM18wQ==;L1IF59FSwe1j8jpmibTHjA=="
+secured: "M4daaKcHKwnF31yewvlJikEEHaXBJJpnGo37yoiEHuEDcR+wZA9CL8B9sDK4X9vUX/CL02iZJ6ixVwGyap3Y5+ec1o8J3902MMD2jWPbdCMg8TU6YQiKqVEYKaiK0cIm7KUvLg/CQF1g6zrj6ta/HxY8g/qx/rTO9VfOEvyEi4BUHLHX+S8rp6szQzruXcT+frKojYtF0fOIi0YcW33vagikNtYLO+on71qiOBFX3lkQkIFIuoFr8dUCTIJCveIZdSmVPcsmzNPdGyCo/0Ln9gSbLYsbesGjdVA0CVRYW0FjT5b7Fh4NneRWGAZCNYxrteSsf3+9OQk5zOB9fzmGl/yaj9htLsiRXpZ6FxEx3uw=;RPCxcujwxWXVeV9Mqvs7SA=="
 ---
 

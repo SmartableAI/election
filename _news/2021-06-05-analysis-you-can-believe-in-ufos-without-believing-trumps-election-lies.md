@@ -1,0 +1,53 @@
+---
+category: news
+title: "Analysis: You can believe in UFOs without believing Trump's election lies"
+excerpt: "2021 is shaping up to be the year of believing the unbelievable might be possible.\n    \n"
+publishedDateTime: 2021-06-05T12:05:32Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rd-NRl5EvEM/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rd-NRl5EvEM/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-election-fraud/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-election-fraud/index.html"
+type: article
+quality: 189
+heat: 209
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519133725-ufo-us-navy-corbell-1-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "As Trump readies summer rallies and speeches, allies worry he's stuck in the past"
+    excerpt: "A cadre of aides and advisers working to tame Donald Trump's obsession with the 2020 election, including his fixation with debunked voter fraud theories and ballot audits, are realizing the task at hand is much tougher than they thought.\n    \n"
+    publishedDateTime: 2021-06-04T11:00:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6zUDM5TouqA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603151659-donald-trump-cpac-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "BagVMLnxkkVVtNs8pOimHFAUZJ/kYgjw9vrOoX9k/4mGS3BYrC8lc327QvDCuJzO40thL+LAzzD+eIiQjVcv7R4kIHrBPD4NVULK98ftfeN+G/IByRrGT0gvnoMmQTIc6wM++6vLvhKMwVccE4fA06LussmnMwaT282EQfd1LjIzmTFYTIz/OU9GY4yVFzPcW4pa9fk8JlUuJwff5pt1dJmw05gMxHKIZE+Mf7z4dtZS5WlDBWP5LI3hNxTlpD7U4z4ie7Sg/4dBs0XR1p8elOPx6ecxNB/UhLr0Jv8JqxN4mOykQLMYK1yvcR85ZvyMsA9ZqGk4pnpek9/Lyxp7gasaE1s1K9H3Qgc/2eazKD8=;pRN3DK4ReT/+FIFJtxahYA=="
+---
+

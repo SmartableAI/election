@@ -46,7 +46,7 @@ related:
   - title: "Facebook suspends Trump until 2023, shifts rules for world leaders"
     excerpt: "Facebook Inc on Friday suspended former U.S. President Donald Trump until at least January 2023 and announced changes to how it will treat world leaders who break the rules on its site."
     publishedDateTime: 2021-06-05T04:28:00Z
-    webUrl: "https://www.reuters.com/article/us-trump-facebook/facebook-suspends-former-u-s-president-trumps-account-for-two-years-idUSKCN2DG23I"
+    webUrl: "https://www.reuters.com/article/us-trump-facebook-idUSKCN2DG23I"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DG23I"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DG23I"
     type: article

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-state-department-pri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a63f1b3-ca1e-44ae-a0ae-20e17844ebfc/b5b2ab5b-13eb-451d-9538-c399a22c2266/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "The Media Asks President Biden About Ice Cream and Ignores Hunter"
+    excerpt: "My question for today has nothing to do with President Joe Biden's favorite ice cream. I don't know if ice cream is a big thing in China. But does China"
+    publishedDateTime: 2021-06-05T13:06:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/545047_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "i9sioeSETO3NJWZwrqE4FaPy2+X35ZX1csar+eL4K3jhX2nsjjNe7fA9v//edDkeKZ5fD2RlsjD3eZngQMXtQnFwzsE10dvoFo5WTpoFj8rqO5GeOCuu/TRCzG4nrxSMv9DKEq+jRZB1JBtg9G71rJNQv0yNjdkOH27SHhJO1dMEnbUarPcCseNlUfRfrnWEOeJH/4xiYh9i6JZvpxS0RVrJgKvBKc4F2vdcgBJ3oYTr7I8dLB60BeI5ID0z0pPRJAKhtISkuwMXGq7yJzJSHSuxzi8doNDDkuHMBw/Y8ithJETCPoAoZAiNxCwmr7e0tt41v6iLKpgrNjX/cn16P8I/N8uWkJb4cJca+XajGZY=;XJ4ACPgctindoqjRVjReFA=="

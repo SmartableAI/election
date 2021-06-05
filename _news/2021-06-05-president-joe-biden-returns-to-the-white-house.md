@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden returns to the White House"
 excerpt: "U.S. President Joe Biden with first lady Dr. Jill Biden step off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
 publishedDateTime: 2021-06-04T18:26:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/8326671900f8ceccc9cc247f50a68f62/President-Joe-Biden-returns-to-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/8326671900f8ceccc9cc247f50a68f62/President-Joe-Biden-returns-to-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/26655439e26efcec96d19c20489ada6e/President-Joe-Biden-returns-to-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/26655439e26efcec96d19c20489ada6e/President-Joe-Biden-returns-to-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/8326671900f8ceccc9cc247f50a68f62/USA-WHITE-HOUSE-BIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/26655439e26efcec96d19c20489ada6e/USA-WHITE-HOUSE-BIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -150,6 +150,6 @@ related:
         height: 641
         isCached: true
 
-secured: "s1dOkGyccwf94jywPxTFBkFbAPTjLGpL+LaexyCjgLhiA2SmL5hmYzJJXOH5af/P+alC+5fzJNlhLh+pP2NmN2lQSs/aYIBUd3+QgTmcpUh1GBwWcqIb4YBAkpNx7Z6CHgXbbyDzTywvR0gzGkBbNlX4/jvuQ924ga4IYlEKpdNoPJQ6L/Q5dkdRflg05WS1vEp559eBt3MxJPUebgJXDmubUJjjD5UgU8MDjE9XlGF7JOmzIE74Ufgq2QxPrdCLjpyuPPt4jruXleXHNTp/wHPB5NKxL5ENYVryefbu45HxFzoJJkoqAlJ/ssZcFuj5SI9K/a90abYvbiUE5nB/O+/tSxWu3Y4efEViPzya3KE=;6sljhjA13rBNEyy6lzNChA=="
+secured: "Ky8Xgp7HKGfFYwGFL+ITJnT1vqbfNfEztFXlRU5nD4LT4KdMbiL7pOvXi6JD2FyFbjDCbypYoFO1lJ4XZXrs9/XYOW+o/kCzh+GEUQlI6zTs5xl+WSPOrr2/FBTm7kXvabO95dUxzibHor7gAosRuxSqk/iCPJ9n76IYfiC3p8J9S7Hnt8Kt3YjymjfcHJXvIs69g2vPuijv24uQPp8tmZUM3khnQIqBoEKt4JuFFJ6keQIjOpYtsHxchdUZXvLUNQQ4r9k1tlStYYFbrB6ItQTC7YaKZIq8BjuB0U/t5kDJPNoKAXdbi5zBpmFKAQYFOYsgqtNC72YpoQmCUJyDTD0dKKMfgMhcEsHg9DgwKog=;08DflwOUt81dUhISCP+XOw=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Facebook suspends Trump until 2023, shifts rules for world leaders"
 excerpt: "Facebook Inc on Friday suspended former U.S. President Donald Trump until at least January 2023 and announced changes to how it will treat world leaders who break the rules on its site."
 publishedDateTime: 2021-06-05T04:28:00Z
-originalUrl: "https://www.reuters.com/article/us-trump-facebook/facebook-suspends-former-u-s-president-trumps-account-for-two-years-idUSKCN2DG23I"
-webUrl: "https://www.reuters.com/article/us-trump-facebook/facebook-suspends-former-u-s-president-trumps-account-for-two-years-idUSKCN2DG23I"
+originalUrl: "https://www.reuters.com/article/us-trump-facebook-idUSKCN2DG23I"
+webUrl: "https://www.reuters.com/article/us-trump-facebook-idUSKCN2DG23I"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DG23I"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DG23I"
 type: article
@@ -107,6 +107,6 @@ related:
         height: 731
         isCached: true
 
-secured: "Pn2g4hKyo5Tk+FFpjyDPWvO84u8NjUgPauODhkDxUaVND1jv/oJbbnchZyGz4N36Z3jHy6/i+S6JX4V4Jb3V91mjxZT87iGBZK7lckXhNFhsC/rAnYBZuWotpQOpKt38GKaCCuWCMEPCpJyuaoe17gghZRmHncy+o/pYoOjAg6Bt7EM8AwkgdemN3CGTI5aP0WepDVTF+q4FubjXMB5EDIZDGFspllN/9Xy9hldEuF6bOvnGSdUvZHRJzFjUrohTq3L4hWU1e35c8oU+WmzOJ21TuMm6QV7MLwoGOpiB9RJOGkSmq4hzZc9FnR/tlOyeQ1sDiSW5mNg8cCvfnyEWTEBssnFjwOmm29Fcw7UlbTc=;tThRuweOJhO4u89MTlb7Yg=="
+secured: "EYv30SFcpstA3jieyMlxPAbpF9reHR3PN5t0cexvUPeDfl/bG2AxEggFKzDVHEcD496xtWJISY1JJ2ZJBrCQWZuQco3zw4U7vAg0UblbbzRbIhYMCTdUKenxKS4dtOAdQzWcsUnVq+xaswOJh2/CYkuDtLDRCeEUMLM26gt7sHSVrY6NTDPSTUh1/lVgZAFXByjLdFY61EoyjGfxn1yBCMbtd3F1BsJwZ07uTL0XHSQCUCiojR8yrA3Gz0k2YukCmlvExFgmoOb884zfFo5qaGzekFQAyDaxPc3CNCD4ewHI5AO+KJgt5Z/a6h7MtryeXAex9bncThHfhwoXvHxZhj2GV6XFhJmWH5Lqqd8JVbk=;2A88tMzosfHwg64oMD0Hmw=="
 ---
 

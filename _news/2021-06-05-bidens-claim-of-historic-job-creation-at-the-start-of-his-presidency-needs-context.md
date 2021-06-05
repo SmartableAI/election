@@ -138,14 +138,14 @@ related:
   - title: "President Joe Biden returns to the White House"
     excerpt: "U.S. President Joe Biden with first lady Dr. Jill Biden step off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
     publishedDateTime: 2021-06-04T18:26:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/8326671900f8ceccc9cc247f50a68f62/President-Joe-Biden-returns-to-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/26655439e26efcec96d19c20489ada6e/President-Joe-Biden-returns-to-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/8326671900f8ceccc9cc247f50a68f62/USA-WHITE-HOUSE-BIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/26655439e26efcec96d19c20489ada6e/USA-WHITE-HOUSE-BIDEN.jpg"
         width: 650
         height: 433
         isCached: true

@@ -104,6 +104,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 91
+  - title: "Throwback Tulsa: Vice President Mike Pence visits Tulsa to tour flooded areas two years ago"
+    excerpt: "Vice President Mike Pence arrived with the nation’s top disaster response brass in tow and the message that money is already arriving in Tulsa County in the"
+    publishedDateTime: 2021-06-05T12:00:00Z
+    webUrl: "https://tulsaworld.com/news/local/history/throwback-tulsa-vice-president-mike-pence-visits-tulsa-to-tour-flooded-areas-two-years-ago/collection_c325585d-083a-5eeb-92a6-f987ab9f30ed.html"
+    ampWebUrl: "https://tulsaworld.com/news/local/history/throwback-tulsa-vice-president-mike-pence-visits-tulsa-to-tour-flooded-areas-two-years-ago/collection_c325585d-083a-5eeb-92a6-f987ab9f30ed.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/local/history/throwback-tulsa-vice-president-mike-pence-visits-tulsa-to-tour-flooded-areas-two-years-ago/collection_c325585d-083a-5eeb-92a6-f987ab9f30ed.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 65
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/15/f158aa8f-e4c2-5ee4-aca5-784cebce3ceb/5cf70a1c5b823.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "ffQgHHvFCEO2eY5F1eW01rhz12FoNheedX3/ZKhTn3exu7qGxTHdDBnyuNyGgY629mRom6hM47F7UIXbR8rJRbj7y71+Dxr2zNv3oj6T93LaoIrhXozF4Y3MH5Y8Oc/TzRE6ilI4HUBRk60s1LvJoPCN0qVrH6eSU2Hat5wGhGXSJyHbQ75IK7vnTPK6jgrNLu073KBpkXzWgx+tpPGyEt/t8gaeNCB/O7NoQFK08uOfUiMkoje9waJTA+Xa4G+o8tXiuBjTQKsXb18ewDHP05oKiqOfRwzbgKl18QnDh5NchIOJRkDxQz3avtDdH2eo5KkLlK5gIOJxM769cucxU6JcyZd3x6cEkk8O0Woi1sxWduPARD6JemZ//NLWVwTcywpS+gEIUARjOx7yFHUxWSrP0yJvUV5GTMSv0m1glc9tdOBGd6rtgkYsju5Dc355S/fe7O2mGKFLUnHSHexc7zHvhHla124kY1ogOs4R+/KCoxfv5RXvsy2IiJuu2IMGKyQ9vd5f1KHtqBWyh723pg==;wjsKcJpEb1JFtJkNqVyUJQ=="
 ---

@@ -221,6 +221,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "The Media Asks President Biden About Ice Cream and Ignores Hunter"
+    excerpt: "My question for today has nothing to do with President Joe Biden's favorite ice cream. I don't know if ice cream is a big thing in China. But does China"
+    publishedDateTime: 2021-06-05T13:06:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/545047_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "8bvATgOqV2XJTT3ZRcWnzU+AD2icRxa9N8g/DpKBGPMTArTd2ea2OhHdEoiQYvdMmT0hSaLQq9ANmace6hhPAe1Uy8GIADKFY7LEBSr9ExVij149fSYU7ij4rl9wmQiHDcpqglLbcG/jUIF/NaJePcQMWLU8WQzkBvlriTpjqynAPdpHpW6D9cHYUSI/GJGZG5EBsxLeMqd0cv7YuCr8Z1AZs7eZB10IgIknrXPQrSqk7BsrrUAqvjvicxS9I7IrQLHZUpn2+um34JJkppuA0pg/KMaJhvaQ8KjM5YUeTpTh9iBFgz5gL/e2PAbo2bnwrcVQ2UhQjpGJNztD/cOAH+iowmgYww5A1P2HnRzCCbw=;Rj0ZPNCtOvRdizYc4RMlBQ=="
 ---

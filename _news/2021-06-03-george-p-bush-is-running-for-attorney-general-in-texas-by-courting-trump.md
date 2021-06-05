@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "As Trump readies summer rallies and speeches, allies worry he's stuck in the past"
-    excerpt: "A cadre of aides and advisers working to tame Donald Trump's obsession with the 2020 election, including his fixation with debunked voter fraud theories and ballot audits, are realizing the task at hand is much tougher than they thought.\n    \n"
-    publishedDateTime: 2021-06-04T11:00:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6zUDM5TouqA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603151659-donald-trump-cpac-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Deposition of Trump Org CFO looms in DC lawsuit accusing Trump 2017 inauguration committee of abusing funds"
     excerpt: "Documents due in DC Superior Court on Friday could clear the way for the Trump Organization's chief financial officer to be deposed as part of a DC attorney general lawsuit that alleges former President Donald Trump's 2017 inaugural committee abused non-profit funds.\n    \n"
     publishedDateTime: 2021-05-28T00:54:43Z

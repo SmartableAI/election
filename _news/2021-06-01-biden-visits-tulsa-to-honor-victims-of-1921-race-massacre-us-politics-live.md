@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live"
 type: article
 quality: 122
-heat: 222
+heat: 242
 published: true
 
 provider:
@@ -104,6 +104,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 91
+  - title: "Throwback Tulsa: Vice President Mike Pence visits Tulsa to tour flooded areas two years ago"
+    excerpt: "Vice President Mike Pence arrived with the nation’s top disaster response brass in tow and the message that money is already arriving in Tulsa County in the"
+    publishedDateTime: 2021-06-05T12:00:00Z
+    webUrl: "https://tulsaworld.com/news/local/history/throwback-tulsa-vice-president-mike-pence-visits-tulsa-to-tour-flooded-areas-two-years-ago/collection_c325585d-083a-5eeb-92a6-f987ab9f30ed.html"
+    ampWebUrl: "https://tulsaworld.com/news/local/history/throwback-tulsa-vice-president-mike-pence-visits-tulsa-to-tour-flooded-areas-two-years-ago/collection_c325585d-083a-5eeb-92a6-f987ab9f30ed.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/local/history/throwback-tulsa-vice-president-mike-pence-visits-tulsa-to-tour-flooded-areas-two-years-ago/collection_c325585d-083a-5eeb-92a6-f987ab9f30ed.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 65
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/15/f158aa8f-e4c2-5ee4-aca5-784cebce3ceb/5cf70a1c5b823.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "RGEKdck/k39xhp4ratJ1HUF5fIGahZY8CFSPHK7ous3V08siD1TZK4fgWVN3gXZ2xvsfWi7lamKXRYbeHauIwPwe0m5IobTyZVOpktD3y43Q3SNB28HbxO2Uc6wVvyqd637Pz+J+bRE5wuguiz2X6HLQXvcIQxHSNmn0+7hlZ5I4BtNEQEn1dexf5R4fuu6Ea+itL5Lu64w3QASdJ/OBKnaak26zScdOnbVfuVK9spzJJlFPPT5rHvesWO5GVkGXCRanEGNtIASOQVgqFjJdYi0uSsA3NRkL35+2vXtzoLQdh9d07BPwjU0HRflJueEo5+NF0G34St4VrDEZil1lQSe4W+lHlitEQVbV+URHFmU=;2vssJLfnEzCObRA0wyv7rQ=="
 ---
