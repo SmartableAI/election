@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris and a High-Risk, High-Reward Presidential Résumé"
+    excerpt: "For the vice president, another run at the Oval Office is a near certainty. How her current responsibilities help or hurt that bid is an open question."
+    publishedDateTime: 2021-06-05T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05onpolitics-newsletter/05onpolitics-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "4pFAdyNH3MaNad6SSlwY9LbsW9LmDMhtIME8ajDNdTTzu2xJ9j2Dq0kkkp6LdsxzKwwUShCUatuXP3wvdwC5jsuz/Gni3RRSJ7ddSqY8kf5BVrUk3eMbV2XBQNrz1RfXcL055pgTHKJP0VEQ6ZqlcBaO/X1IaMGnqXk7JYzFTY2TM2czKCpoLIb7z78WolqPWSCat1wWDfy2jaKwm26Dfufg272KmKis+yFl7pNelUEWvfUxHNic1wisjdIB3tAoBxrLiPfn1pDMByE5Z0CzR982zC95x/wPLDAz3OmlfcXg30r70V9CHdiWUoFyswJdfICu51ngsGvHTJQbuvgJzzxIuIuZXzpnZawhhlj8uV4=;hbcw6k1my9Kw9Gd8HN9GRg=="
 ---

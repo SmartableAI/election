@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/kamala-harris-guatemala-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/kamala-harris-guatemala-mexico-first-foreign-trip/index.html"
 type: article
 quality: 177
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris and a High-Risk, High-Reward Presidential Résumé"
+    excerpt: "For the vice president, another run at the Oval Office is a near certainty. How her current responsibilities help or hurt that bid is an open question."
+    publishedDateTime: 2021-06-05T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05onpolitics-newsletter/05onpolitics-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "At Naval Academy Graduation, Harris to Focus on Strengthening a ‘Fragile’ World"
     excerpt: "Vice President Kamala Harris, the school’s first female commencement speaker, is expected to use her speech to address some of the Biden administration’s most urgent challenges."
     publishedDateTime: 2021-05-28T10:00:00Z

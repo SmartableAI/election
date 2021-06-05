@@ -43,6 +43,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden turns to Obama to help boost health care enrollment"
+    excerpt: "President Joe Biden has turned to his old boss, former President Barack Obama, to help him encourage Americans to sign up for “Obamacare\" during an expanded special enrollment period in the pandemic"
+    publishedDateTime: 2021-06-05T17:20:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_115d35a8669d4d67959566146d2dadef_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to troops before Memorial Day: 'We owe you'"
     excerpt: "President Joe Biden traveled to Joint Base Langley-Eustis in Virginia Friday to thank troops ahead of the Memorial Day weekend and acknowledge the unheralded sacrifices that the service members and their families make."
     publishedDateTime: 2021-05-28T20:57:00Z

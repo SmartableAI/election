@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-state-department-pri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 173
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/AP21019774947253.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Calls intensify for Biden administration to help save former Marine's life"
+    excerpt: "Cindy Warmbier's son was killed by North Korea's regime, and now she wants to prevent another American being murdered."
+    publishedDateTime: 2021-06-05T16:11:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YyJsW4Jostc/biden-administration-help-save-us-marine"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-help-save-us-marine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-help-save-us-marine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ca12684-78aa-47da-b839-917d70527ced/3486e9bf-4327-43a6-ae91-b962eaa558a1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

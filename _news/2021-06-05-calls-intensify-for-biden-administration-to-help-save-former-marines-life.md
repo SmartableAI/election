@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Tara Reade fires back at NYC mayoral candidate Scott Stringer after he invoked Biden accuser during debate"
-excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at NYC mayoral candidate Scott Stringer, who invoked her while addressing the allegation faced against him during Wednesday night's Democratic primary debate."
-publishedDateTime: 2021-06-03T03:44:00Z
-originalUrl: "https://www.foxnews.com/media/tara-reade-scott-stringer-nyc-mayoral-debate"
-webUrl: "https://www.foxnews.com/media/tara-reade-scott-stringer-nyc-mayoral-debate"
-ampWebUrl: "https://www.foxnews.com/media/tara-reade-scott-stringer-nyc-mayoral-debate.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-scott-stringer-nyc-mayoral-debate.amp"
+title: "Calls intensify for Biden administration to help save former Marine's life"
+excerpt: "Cindy Warmbier's son was killed by North Korea's regime, and now she wants to prevent another American being murdered."
+publishedDateTime: 2021-06-05T16:11:00Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YyJsW4Jostc/biden-administration-help-save-us-marine"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YyJsW4Jostc/biden-administration-help-save-us-marine"
+ampWebUrl: "https://www.foxnews.com/politics/biden-administration-help-save-us-marine.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-help-save-us-marine.amp"
 type: article
-quality: 117
+quality: 173
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a63f1b3-ca1e-44ae-a0ae-20e17844ebfc/b5b2ab5b-13eb-451d-9538-c399a22c2266/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ca12684-78aa-47da-b839-917d70527ced/3486e9bf-4327-43a6-ae91-b962eaa558a1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -109,22 +108,6 @@ related:
     quality: 173
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/AP21019774947253.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Calls intensify for Biden administration to help save former Marine's life"
-    excerpt: "Cindy Warmbier's son was killed by North Korea's regime, and now she wants to prevent another American being murdered."
-    publishedDateTime: 2021-06-05T16:11:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YyJsW4Jostc/biden-administration-help-save-us-marine"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-help-save-us-marine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-help-save-us-marine.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ca12684-78aa-47da-b839-917d70527ced/3486e9bf-4327-43a6-ae91-b962eaa558a1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -238,6 +221,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Tara Reade fires back at NYC mayoral candidate Scott Stringer after he invoked Biden accuser during debate"
+    excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at NYC mayoral candidate Scott Stringer, who invoked her while addressing the allegation faced against him during Wednesday night's Democratic primary debate."
+    publishedDateTime: 2021-06-03T03:44:00Z
+    webUrl: "https://www.foxnews.com/media/tara-reade-scott-stringer-nyc-mayoral-debate"
+    ampWebUrl: "https://www.foxnews.com/media/tara-reade-scott-stringer-nyc-mayoral-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-scott-stringer-nyc-mayoral-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a63f1b3-ca1e-44ae-a0ae-20e17844ebfc/b5b2ab5b-13eb-451d-9538-c399a22c2266/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "The Media Asks President Biden About Ice Cream and Ignores Hunter"
     excerpt: "My question for today has nothing to do with President Joe Biden's favorite ice cream. I don't know if ice cream is a big thing in China. But does China"
     publishedDateTime: 2021-06-05T13:06:00Z
@@ -255,6 +254,6 @@ related:
         height: 500
         isCached: true
 
-secured: "k4xppwzCtcezgiD4e4E1jQHT3KK9scDzV2GkYsKvCdIbTjyst6eQ5X1Oe4Hf170D7dcjmFwdJNnH4NA9C6WK2QrRrKNhU98zuPuZYY7OH3V2gY9ksQkcBY8PLlRCsG3ECVinby3Pj72z7gz9Cp68PGldcr9nxA79AV/DM/oXhzXCMmDuWPn/OO5q2rYCmvHgmSq406lVjYCCibCKn+sUndGI21rqA7XYxsWuBd48icSsgnJ3I+qftmyowMRn1l9Fxjmc8vcrTFgFOm97YxC1EsK7wEYm7M9M5tni5w00VSBnImYWk8vs2Dc5/4/K20jfr2Q0CaFhvPcqnrMV0Iq0IBJ0+/UzRH3mqx2tTakMnUo=;LJfJiswHor3V1AtsjCBqaA=="
+secured: "gFeCROODf6b4c3TWbdw0vO6SmPqEOvySX0uA+dz2lDKoK6JoIWds2ciP1j/jrJWr67Q0R4Y9QS2J/FWJpM7RhG91d7HUbzqaBSbKn6ca3gDmIoPqSjZ1I1gx27eea3+jh+M158kHyMFZkLscI+/lMMu92W14RJ7S8QgapVBwBPC0GVO53XaedcfOm/wYYtaeaCPEG8jf6WNYY83GxQxBEaBbBRi5mTNGta9arh1RXRw/GKk21GgcxmuzFJAhI73TqFGv4KI6239Zt5G/esWkCEQKM5ynfDKqD4Lm2IuWquMj13Ah1RpR/mLDZNVzt0QoIDpoUkhy871/9X3OvaV7IusXVVSEIJfpijaWc19JmHY=;W0/f+1pIOI2dTmeZdGHf/w=="
 ---
 
