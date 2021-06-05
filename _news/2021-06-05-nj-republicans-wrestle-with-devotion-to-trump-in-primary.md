@@ -1,37 +1,44 @@
 ---
 category: news
-title: "Pence: I'll likely never see eye to eye with Trump on Jan. 6"
-excerpt: "Former Vice President Mike Pence says he isn't sure he and former President Donald Trump will ever see “eye to eye” over what happened on Jan_ 6 but he will “always be proud of what we accomplished for the American people over the last four years."
-publishedDateTime: 2021-06-04T05:29:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/pence-eye-eye-trump-jan-78078980"
-webUrl: "https://abcnews.go.com/Politics/wireStory/pence-eye-eye-trump-jan-78078980"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980"
+title: "NJ Republicans Wrestle With Devotion to Trump in Primary"
+excerpt: "New Jersey Republicans decide Tuesday if their standard bearer to take on Democratic Gov. Phil Murphy will be a strong supporter of Donald Trump or a well-funded, establishment-backed candidate who hardly mentions the former president."
+publishedDateTime: 2021-06-05T14:10:00Z
+originalUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-06-05/nj-republicans-wrestle-with-devotion-to-trump-in-primary"
+webUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-06-05/nj-republicans-wrestle-with-devotion-to-trump-in-primary"
 type: article
-quality: 150
-heat: 470
-published: true
+quality: 35
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Mike Pence
   - Donald Trump
 
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_222e493ae2ce4962910dd26824e1fa20_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
 related:
+  - title: "Pence: I'll likely never see eye to eye with Trump on Jan. 6"
+    excerpt: "Former Vice President Mike Pence says he isn't sure he and former President Donald Trump will ever see “eye to eye” over what happened on Jan_ 6 but he will “always be proud of what we accomplished for the American people over the last four years."
+    publishedDateTime: 2021-06-04T05:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pence-eye-eye-trump-jan-78078980"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_222e493ae2ce4962910dd26824e1fa20_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Mike Pence says he and Trump ‘may never see eye-to-eye’ on Capitol attack"
     excerpt: "The former vice-president was speaking at a New Hampshire Republican dinner as he considers his own 2024 White House run"
     publishedDateTime: 2021-06-04T00:33:00Z
@@ -256,16 +263,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NJ Republicans Wrestle With Devotion to Trump in Primary"
-    excerpt: "New Jersey Republicans decide Tuesday if their standard bearer to take on Democratic Gov. Phil Murphy will be a strong supporter of Donald Trump or a well-funded, establishment-backed candidate who hardly mentions the former president."
-    publishedDateTime: 2021-06-05T14:10:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-06-05/nj-republicans-wrestle-with-devotion-to-trump-in-primary"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
-secured: "6tpvs93PmpIGIT+cqyA1SOtkrDTBxZB7GoyuH3IjETqejv8wB536KjDYPeVfr0kXx0Gy54NdqihQQsKjCbpU2ntb5Jv/mZ0/ndp8hJegRQdVFXSxbeLXfXBk7jwpe5ZlKXqx2cky2tuZXvt4DNYkrpAfHpedc5f4xa6vwSoENEzzSrhXpNR28iORW02sNRxHPVGdiRNeENyGCKo+6ojqoyU2NxKA+FrvoyKlFS9c5B6m/YriUd4gXk2gsoysvUFPy77ZCiEGPognUUEwn0Zmy0q7UYtrubOg8xptqrk9/myY+Of9Ck58ycM8WC/T2hI4+b62yg9AeNZtiHtqtz0fl5HWdNz/EXe7kj4ojTOZeNk4TpP8A2XtUxViSIDgUrwP4lQtZQrLOdxWTC1SZy9lEiZCMHs7kfV46W0FWC0NJTGGzpIumPkh3nQlYKuQf7cZUVaYjtkpCMv+byuhGEkz5LGuIV2n0/Njh9V3BSwtcKQUtHWIl+TAIns4PE0/doHi2hqfMyUECCkS0n67m/KTMg==;HN9pqW+f1E8psDfEk1PBdw=="
+secured: "7PE97mfcDuqKzGpRilqeUfoZm+mECiY2z4tJU9KkYoLknhbhElCexgXNcSod/9mN3m4WTSaK9LBP0b/uLLG9qTu/oSYZN/N4rN9cPtF0dqFKRMhBe71ZKZVJV/gcAEJ05/SXoNi+vc0KEt0IRQ8nLA48O7Nywyok6nzGzg6e/UuG1ZUsQ310atSijdXmHE7JjCD54l6DQCzlsu9JyKaR1FCbEAZ3UfbaMRO/piGJ1RH4WvuZlUJt88gcRbqTfe0mS54f747Zlrpc0gTTL5CgUGTj9a9jU8M9bHEaxao1rhcHl20fuYeXoQHqTbTQI2BT0o7UtM6LhSqPJqjWjtqiQOJpaz39n07YvQhP7v4w87buv40/wlePZo9kMfwrGw7DYp4UzzYtstV05z1bWqW/MtilMD152Iuewetea5u1oTveqbzVXccUpxlwgdLgcJRCz6iMWqi6XpQonqCHWtKYflWr6lOnr8PA0llcLJbw4k49lCFRH7b2uaXJ1HI710x0aAjO7YY3xPuDP/mGf0Azdg==;Dx5RyfHnWx2C/MfXWGsemg=="
 ---
 

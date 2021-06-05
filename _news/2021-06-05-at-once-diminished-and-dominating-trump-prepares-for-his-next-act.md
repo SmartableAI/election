@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Trump Administration Secretly Seized Phone Records of Times Reporters"
-excerpt: "The admission by the Biden Justice Department followed similar recent disclosures to The Washington Post and CNN."
-publishedDateTime: 2021-06-03T00:22:00Z
-originalUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.html"
-webUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.html"
-ampWebUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
+title: "At Once Diminished and Dominating, Trump Prepares for His Next Act"
+excerpt: "The former president speaks on Saturday to the North Carolina Republican convention, as he resumes political speeches and rallies."
+publishedDateTime: 2021-06-05T13:56:00Z
+originalUrl: "https://www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.html"
+webUrl: "https://www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.html"
+ampWebUrl: "https://www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -26,7 +26,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/06/02/us/politics/02dc-times-1/merlin_131699588_8a898e52-fc40-459a-8813-84c0b2ec118c-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05trump-1/05trump-1-facebookJumbo.jpg"
     width: 1050
     height: 550
     isCached: true
@@ -192,19 +192,19 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "At Once Diminished and Dominating, Trump Prepares for His Next Act"
-    excerpt: "The former president speaks on Saturday to the North Carolina Republican convention, as he resumes political speeches and rallies."
-    publishedDateTime: 2021-06-05T13:56:00Z
-    webUrl: "https://www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.amp.html"
+  - title: "Trump Administration Secretly Seized Phone Records of Times Reporters"
+    excerpt: "The admission by the Biden Justice Department followed similar recent disclosures to The Washington Post and CNN."
+    publishedDateTime: 2021-06-03T00:22:00Z
+    webUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05trump-1/05trump-1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/06/02/us/politics/02dc-times-1/merlin_131699588_8a898e52-fc40-459a-8813-84c0b2ec118c-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -223,6 +223,6 @@ related:
         height: 773
         isCached: true
 
-secured: "N3X8ATktGcgH5KSEE++L87HYA26oNsnHW0GNWH0Hi7ZPSWNE8Sv4mWZWSgy01zLqihENwNewzUdTPJLcuYWE5fGFyi0kC2TDBV1dM/+yirJzWV2rWdXyJefB/PQZPr0uWiDiA8Y4eDPJPK8kJPP/POrdq1zI7HjJ2Fzy3RPmrCCKsfUh81FYlvQPyUTBZ35GRcgED+1434lsGjcYL/6RysoJDZQo+fZeB1UchcOaCgxRP+q6QTVVGA2g7L38sEQga2jPGIIsDFiTHY/gFLPpqYvrHAsHvwf7lIied3naljp2YNBiYBNrMkUejUo5d+kxj7m1v8TW8LnMI8wHNDllVJUzBaqhX65QxurcHFHgLXo+xKa3Xmx2Wm76/f6ivWD+pqIMJjPKdYWCjbgPH+PdFe78jA0x/+6nBRd3qyMhak+5RTUiaQ6fmsv6TnLlRC9pbfr8WwirsWLXFIylBTlZN091Yfs4bX9CB6Nb0xzOmPX74yz3NYJLuK+MidN6+61unG9XY082/rashea67H8x8g==;U6bIdBrZwlVFzXeHDemjQw=="
+secured: "rOQtA4V6S323qjwiqb9tsUNr6LuIZe6xBWN+FFiYzG+9QrkccodS7n9qAduR6avx5kKWVLG44SMIP6d6kPH7n2AthrhdaTSMPh3OTlWIoKZqEgd1s66QtmamNwZAQAExULI6dP4kU/Ph/CJ1P49l6CBxvscnmDmcMo1e3AWst3gR8oOwSWSQkGpVc+XpALZ50FW4WnkydRRREui6iVV697ahc1SV9pb5HQHEON70bf83Z/4j4Lhw7jTM6L8pQdPoXXi9taiitwO2P6S2HWpjqt0EgSWv85tnSU5iqHmJkkAsQjZ6glzgrFnYT2UXkNEwcfiW+FdOLTx/c8jWehVmYXJDV0+vzbYyyvGo9lEa4+Q=;9OZ/qE1olYOH7m5e6rPZtw=="
 ---
 

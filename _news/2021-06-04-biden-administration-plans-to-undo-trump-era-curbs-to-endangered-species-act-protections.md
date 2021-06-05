@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/endangered-species-act-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/endangered-species-act-protection-changes/index.html"
 type: article
 quality: 181
-heat: 401
+heat: 421
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/06/02/us/politics/02dc-times-1/merlin_131699588_8a898e52-fc40-459a-8813-84c0b2ec118c-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "At Once Diminished and Dominating, Trump Prepares for His Next Act"
+    excerpt: "The former president speaks on Saturday to the North Carolina Republican convention, as he resumes political speeches and rallies."
+    publishedDateTime: 2021-06-05T13:56:00Z
+    webUrl: "https://www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05trump-1/05trump-1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

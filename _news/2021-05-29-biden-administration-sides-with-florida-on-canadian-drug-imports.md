@@ -206,6 +206,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "At Once Diminished and Dominating, Trump Prepares for His Next Act"
+    excerpt: "The former president speaks on Saturday to the North Carolina Republican convention, as he resumes political speeches and rallies."
+    publishedDateTime: 2021-06-05T13:56:00Z
+    webUrl: "https://www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05trump-1/05trump-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "w2nTLEAJm/qRm924jHxdhOMFwn099s8BZYwSX5kLyuswPXnPTCMcRUmCDrjIZW49VNVagPn8QRetud0aPd2ZIu892CTnGUz+LD94OSvy/YqcAeAYtkcNFvyZrwwEdnEthzAlUfXir4prTcB+wb+bRtBv7CJ1Hn2SPz/ZpeQ7ssE9C/dJ2mPXp5K9N+PLaJluKLUvBkkub/1Sbn8AZ6mk1I4/6NOUJM95WjRsT9yKF83+B7cITYzQX48/7EOxeXchVHNAeZxXuajXQGHGpiVYX+3wf+lRMPYjVidQajf1RAFOji6bKtWX9hiULQUHlC8yWeOnFmVaihgl0fSwVB7kSK7AZC9VLwtPzAgi9IEMqntVtoTA14pDFQn/4LKJ9A24J5p8X5NMcIIcC0MpeT5nVhEP/MjN3/r8wlEWXr2PO64QAqIcJi2+AhnXX+XPyL2EPq9F7PVaDd/0WDtLe1Ak5o9hWtMVvGk278+xlOt5zH8F2O4e7B6K84vbLg96RnSdjp5+i6+STAMpe0+w8/QzNg==;DolsRd98ZDDXfs3wDT+EhQ=="
 ---

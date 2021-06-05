@@ -256,6 +256,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NJ Republicans Wrestle With Devotion to Trump in Primary"
+    excerpt: "New Jersey Republicans decide Tuesday if their standard bearer to take on Democratic Gov. Phil Murphy will be a strong supporter of Donald Trump or a well-funded, establishment-backed candidate who hardly mentions the former president."
+    publishedDateTime: 2021-06-05T14:10:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-06-05/nj-republicans-wrestle-with-devotion-to-trump-in-primary"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "dV8KtWWB5ZUKQRbC1/igreJEX1BlKFRHxqzEZTjB5nQBY0SNZuUTYxvso7dVPwYpjQHTSDpKqPK9Whqkw7lDVAR4SIG5sdltfaaUY/hUm/ucWbVwF2hhiFoT8dxpKuTzK54xRrcKJmWefgbbD35p0JM3AAGZGRRQK4MsBKr3FRWkP+ICVXpmdgZeRhDFeEe1IybnB+7swLibt7niTDy01FuoLfRdzeha1TxWv6OgWwTsyUDYZScb55kmKLbf+VEdKMjr/wmJ14TxbUKB+w31PUZDECmTxQhppdCvG1GMikd7uI/WSpRPDO8T6DhgE7CeFpBbkJ+0U7+A75ePqSa8OH+y2nZZ5TzpDK8YnBdxAaVPBC9PJDJWcZZ/sRY8QsQtTXEs5g+pajAdiu01bfFXMPdu6vK1uw6w1Jjl9IbHyR7B9ZTgfRV8KhO6Q2fRlgD8J9RbzrVYULmex/BdkbBBMmrWeVTlWnwnkufuAIG0tjgrALZGbOT44t3msLGbZxFjKglMgPL7IRTedb+TjAJwSQ==;XtP3v3q8K7skf01kUQc+Tg=="
 ---

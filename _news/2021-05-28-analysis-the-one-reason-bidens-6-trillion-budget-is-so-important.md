@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budge
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budget/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531093655-01-mdw-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: US is on track to fall short of Biden's July 4 vaccine goal"
+    excerpt: "The United States is in danger of not meeting President Joe Biden's July 4 vaccination goal. Biden wants at least 70% of all adults (i.e. those aged 18 and above) to receive at least one dose of a Covid-19 vaccine by that date.\n    \n"
+    publishedDateTime: 2021-06-05T14:02:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PpoFAcI_jhc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/vaccine-biden-goal-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/vaccine-biden-goal-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
