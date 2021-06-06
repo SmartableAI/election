@@ -102,6 +102,20 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Back On Stage, Trump Airs Conspiracies And Flirts With 2024 Run"
+    excerpt: "Former US president Donald Trump returned to the spotlight Saturday for his first speech in months, framing next year's midterm elections as a battle for the \"survival of America\" -- but keeping followers guessing on his own plans for 2024."
+    publishedDateTime: 2021-06-06T02:54:00Z
+    webUrl: "https://www.ibtimes.com/back-stage-trump-airs-conspiracies-flirts-2024-run-3218228"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/05/former-us-president-donald-trump-addresses-the-state.jpg"
+        width: 1024
+        height: 680
+        isCached: true
 
 secured: "ve41VPtJgFaN1yDokm5ikpBu1uL07VBlQYDoayf7t36UxE1VlB3nSBLyVGaYjf/H5Gg0gMXrwhbYUpKeLQoz2oW4g9pD4d7TL9AEQf6kgQvEOD9tQIQX8xENnPsS6tijurI6q3pTZBNiPR3yE39rFSfuT2URAOIYEslC1yXVdCugUMKmZ9VpzU7P4jo2hBit7NRuaAdTRss5LJWgQRIx4G6TjWy5A7/nfXI8844lI+zYTeLgJEQKULLUx6mU7OY3ehMriJTzaGtpTD9gUCR81ErGWlhshxJSkfrcO2IaO6SOvswwh5m4bSDCatOMkIOujcumb7hLNEUG/QXN0QalXpOjyXusgj+luWJvBBAeVZA=;HrHGGYzf6F5Q7DA7+AygqQ=="
 ---

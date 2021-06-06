@@ -141,22 +141,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Bet On It. Trump Is Running."
-    excerpt: "President Donald Trump wants to run for president in 2024, and so he shall. The story some Republicans like to tell themselves -- that Trump will not run again for the White House because he knows he can't win and he's smart enough to see the glory in being a GOP kingmaker -- is wishful thinking."
-    publishedDateTime: 2021-05-16T10:18:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/531398_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "Ti7qPFe8SdXi3UwKnbxKLEAgmSsmJwyP/oLDNWXgN9wz79N3BP4983HaH4I2eC+HUYK2b9Mnm4TI8wAx4I04KVHMeTyy8B64T6zMXUCeMEig7gSCEu9fmRETvbKwRapFSiZMw8fNPCVlXGRCyKxf4fvB3BofVhv3/MZSv6rkIbPw6PiLReyswz+C5OL1lM+XkQOeHedhRV/Ze+puAadhl1NGyv3uwwwm2xI/6jeewAs3O9ibr/XtovNDkwAFHDAZTiVt5gP+N/Yll//qJ5x+PLJFcErd3wlgY7A9BaJaNMmrfvTH0qWHwQjzckLJiKYcW5AyFMiGfoO6H5qfrwXJLhWWWg5owcvYS1DoauxRLXg=;YWJ08lyqmO6VtC8zyrc+Yw=="
 ---

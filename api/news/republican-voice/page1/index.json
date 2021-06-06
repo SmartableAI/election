@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-06-trump-declines-to-commit-to-running-with-pence-in-2024.md",
+      "title": "Trump declines to commit to running with Pence in 2024",
+      "excerpt": "Former President Trump tells Fox News he is not ready to re-up with former Vice President Mike Pence on a potential campaign in 2024.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iXbrYdmh0X8/trump-declines-to-commit-to-running-with-pence-in-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iXbrYdmh0X8/trump-declines-to-commit-to-running-with-pence-in-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 360,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21d3dab8-58de-4fc9-9555-9286343f22de/6762ba49-edaa-43c0-812d-f00d4ce8b7a8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024.amp",
+      "publishedDateTime": "2021-06-05T19:43:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-06-trump-demands-100-tariffs-on-chinese-goods-debt-cancellation-and-10t-in-reparations-for-covid-19.md",
+      "title": "Trump demands 100% tariffs on Chinese goods, debt cancellation, and $10T in reparations for COVID-19",
+      "excerpt": "Donald Trump returned to the GOP political scene Saturday with a speech at the North Carolina Republican Convention, where he called on China to pay “reparations” to the U.S. for coronavirus-related damages.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBdeF-Oi6t0/trump-china-pay-10-trillion-in-reparations-for-covid-19",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBdeF-Oi6t0/trump-china-pay-10-trillion-in-reparations-for-covid-19",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d804ca7-92c4-4052-92f1-2c73cbe36b5c/0a7739a1-8be0-4390-891e-d5b2a298df51/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-china-pay-10-trillion-in-reparations-for-covid-19.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-pay-10-trillion-in-reparations-for-covid-19.amp",
+      "publishedDateTime": "2021-06-05T19:28:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-biden-doj-backtracks-on-subpoena-for-usa-today-readers-ip-addresses.md",
       "title": "Biden DOJ backtracks on subpoena for USA TODAY readers' IP addresses",
       "excerpt": "The Department of Justice will not seek information identifying the readers of a USA TODAY story from earlier this year, according to a Friday court filing, but only after the FBI captured the alleged criminal it was seeking through other means.",
@@ -58,25 +171,25 @@
       ]
     },
     {
-      "path": "_news/2021-06-06-trump-to-hit-timid-and-corrupt-biden-on-china-in-rare-speech.md",
-      "title": "Trump to hit ‘timid and corrupt’ Biden on China in rare speech",
-      "excerpt": "President Donald Trump is expected to criticize President Joe Biden’s policy on China at a speech at the North Carolina Republican state convention.",
+      "path": "_news/2021-06-05-cnns-don-lemon-continues-trump-obsession-hours-after-urging-the-media-to-leave-him-alone.md",
+      "title": "CNN's Don Lemon continues Trump obsession hours after urging the media to 'leave him alone'",
+      "excerpt": "CNN anchor Don Lemon cannot quit Donald Trump even after he urged the rest of the media to do so. Lemon raised eyebrows on Thursday during his appearance on CNN's \"New Day\" when he pleaded to his journalism colleagues to lay off covering the former president a bit.",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/",
-      "originalUrl": "https://nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/",
+      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media",
+      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 170,
+      "heat": 125,
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc4cf548-f8c0-417e-8f51-f9f2b94f7b6b/2d568eb8-6f45-4153-954e-cb7aea218fe3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -84,14 +197,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/amp/",
-      "publishedDateTime": "2021-06-05T11:51:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-obsession-media.amp",
+      "publishedDateTime": "2021-06-04T20:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -162,6 +284,111 @@
       ]
     },
     {
+      "path": "_news/2021-06-05-mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials.md",
+      "title": "McEnany: Women in Biden admin get 'glowing' profiles after 'hit pieces' for female Trump officials",
+      "excerpt": "Former White House press secretary Kayleigh McEnany responded Friday to reports that successor Jen Psaki was having her picture taken by celebrity photographer Annie Leibovitz for a magazine profile.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials",
+      "originalUrl": "https://www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60aec5b5-2172-4ba1-94aa-358a5c5d3a4c/5e5ef5ee-f5c2-4b7e-9410-a7a1a83f62a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials.amp",
+      "publishedDateTime": "2021-06-04T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-chris-hayes-the-dangers-of-trumps-big-lie-and-republicans-actually-believing-it.md",
+      "title": "Chris Hayes: The Dangers Of Trump's Big Lie and Republicans Actually Believing It",
+      "excerpt": "It is hard to tell what is more dangerous to American democracy, at the moment: the big lie, or the big delusion. The key question emerging from the alternate reality the right has been constructing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/04/chris_hayes_the_dangers_of_trumps_big_lie_and_republicans_actually_believing_it.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/04/chris_hayes_the_dangers_of_trumps_big_lie_and_republicans_actually_believing_it.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/541227.png",
+          "width": 500,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-biden-blasted-for-suspending-oil-drilling-leases-in-alaska-political-football.md",
       "title": "Biden blasted for suspending oil-drilling leases in Alaska: 'Political football'",
       "excerpt": "Energy groups in Alaska and beyond blasted the Biden administration for suspending long-sought oil and gas leases in the Arctic National Wildlife Refuge (ANWR) this week pending review.",
@@ -215,55 +442,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6-but-gop-must-move-forward.md",
-      "title": "Pence says he and Trump don’t ‘see eye to eye’ on Jan. 6 — but GOP ‘must move forward’",
-      "excerpt": "In a speech in New Hampshire, former Vice President Mike Pence urged Republicans to move forward following the Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/",
-      "originalUrl": "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/pence-trump-206.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/amp/",
-      "publishedDateTime": "2021-06-03T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice",
-        "Mike Pence"
       ]
     },
     {
@@ -336,7 +514,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -384,7 +562,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -471,54 +649,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-republican-leaders-to-summit-with-trump-over-conservative-agenda.md",
-      "title": "Republican leaders to summit with Trump over conservative agenda",
-      "excerpt": "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
-      "originalUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
-      "publishedDateTime": "2021-06-03T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1487,118 +1617,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-remarks-memorial-day-arlington-national-cemetery.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-memorial-day-arlington-national-cemetery.amp",
       "publishedDateTime": "2021-05-31T08:07:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-trump-lauds-unrivaled-heroes-who-sacrificed-lives-in-us-military-their-legacy-is-immortal.md",
-      "title": "Trump lauds 'unrivaled heroes' who sacrificed lives in US military: 'Their legacy is immortal'",
-      "excerpt": "Former President Donald Trump said in a Memorial Day statement that the United States' fallen military members are \"unrivaled heroes\" with \"immortal\" legacies, as the nation celebrates the holiday dedicated to those who gave their lives in service of the country.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GWC9xYGtvww/trump-memorial-day-statement-unrivaled-heroes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GWC9xYGtvww/trump-memorial-day-statement-unrivaled-heroes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-memorial-day-statement-unrivaled-heroes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-memorial-day-statement-unrivaled-heroes.amp",
-      "publishedDateTime": "2021-05-31T06:52:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner.md",
-      "title": "Biden admin now investigating COVID origin 'because of the public outcry’: Rep. Mike Turner",
-      "excerpt": "Rep. Mike Turner, R-Ohio, argued during an exclusive interview with “Sunday Morning Futures” that “everything points to the Wuhan lab” as it pertains to the origin of COVID-19, and added that “we need to get to the bottom of it.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LDmntR4pwR0/biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LDmntR4pwR0/biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-now-investigating-covid-origin-because-of-the-public-outcry-rep-mike-turner.amp",
-      "publishedDateTime": "2021-05-30T09:58:29-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

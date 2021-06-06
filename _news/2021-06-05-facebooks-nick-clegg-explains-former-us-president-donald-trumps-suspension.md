@@ -61,6 +61,22 @@ related:
         width: 1440
         height: 901
         isCached: true
+  - title: "China, Fauci and hoaxes: Donald Trump targets usual suspects in return to stage"
+    excerpt: "Former president seeks limelight ahead of midterms, calling on China to pay Covid reparations and dismissing criminal inquiries into his business dealings"
+    publishedDateTime: 2021-06-06T02:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/73af5f6e2ee2429f8282c954d2b810ce5735b6cb/0_185_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3358b50e34c7af97b2a5b6c149e14100"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Facebook board to decide today if former President Donald Trump can post again on the social media site"
     excerpt: "On Wednesday, his fate on Facebook, the biggest social platform around, will be decided. The company’s quasi-independent Oversight Board will announce its ruling around 9 a.m. ET. If it rules in Trump’s favor,"
     publishedDateTime: 2021-05-05T14:09:00Z

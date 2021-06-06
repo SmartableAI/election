@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/index.html"
 type: article
 quality: 193
-heat: 293
+heat: 313
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480201/210603-mike-pence-ac-814p.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Pence Says He May Never See Trump ‘Eye to Eye’ on Capitol Riot"
+    excerpt: "Former Vice President Mike Pence’s speech illustrated the careful balance he is aiming to strike in squaring the rhetoric of the Republican Party under former President Donald J. Trump while standing by his opposition to Mr."
+    publishedDateTime: 2021-06-04T16:03:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007798701/mike-pence-trump-jan-6-capitol-riot.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/03/us/politics/03new-washington-briefing-pence2/03new-washington-briefing-pence2-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "iDZJcJYWsU6AbIlMTXv4wQKflqN/MKKfL0rGAAMx9JoSneakB1DwJwV/1A6+kgE750kvx96Qx0INDbMobGYrb+Ptf4aeQFEtgePeQ4OE7SwHd5M7HAZrKJkzN7PeFKtUl64290HYHfxe6CxZPN/+zhf8FrJhrWLCxjYAmL+Ft5AbWGlGS0YyFoqUin6w9TBX3aBKI5kf0X3CCbgnjKRD/FaDU/a5fecI+vgh0naMx0IGu2yuCIBWHWURevgzZbKTODEmhyMR2R/DY9it4Qj8Fp9cN+ti8EcaM9LmWCRDDEm4ymM58XcIzY6caknK5dPNPbSGSy/9cCtpYX0quNcXLwAC1wDwcdJCecGwtET5uJs=;N3x7xWt03X3JK7ndDzSRhA=="

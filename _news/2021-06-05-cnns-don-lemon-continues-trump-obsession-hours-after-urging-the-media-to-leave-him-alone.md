@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-obsession-media.amp"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 125
+published: true
 
 provider:
   name: Fox News
@@ -30,70 +30,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Republican leaders to summit with Trump over conservative agenda"
-    excerpt: "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week."
-    publishedDateTime: 2021-06-03T16:27:00Z
-    webUrl: "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/"
-    ampWebUrl: "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Facebook says Trump ban won’t end until at least 2023"
-    excerpt: "Facebook announced it has decided to keep former President Donald Trump blocked from its social media platforms for two years."
-    publishedDateTime: 2021-06-04T17:02:00Z
-    webUrl: "https://nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/"
-    ampWebUrl: "https://nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-FB-inset.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Facebook Suspends Donald Trump for at Least Two Years"
-    excerpt: "The company said it would revisit the decision two years from the date of its initial move to suspend him on Jan. 7."
-    publishedDateTime: 2021-06-04T22:33:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-349049/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Chris Hayes: The Dangers Of Trump's Big Lie and Republicans Actually Believing It"
-    excerpt: "It is hard to tell what is more dangerous to American democracy, at the moment: the big lie, or the big delusion. The key question emerging from the alternate reality the right has been constructing,"
-    publishedDateTime: 2021-06-04T14:28:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/04/chris_hayes_the_dangers_of_trumps_big_lie_and_republicans_actually_believing_it.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 60
-    images:
-      - url: "https://assets.realclear.com/images/54/541227.png"
-        width: 500
-        height: 375
-        isCached: true
 
 secured: "pJwa4w9p0r1+1tT5u13/QcA/DSZIFg2D5P01gL5VTtQ+JsVIUJNkLkPJN4KXexysJatxL0hR/eV4WpLgT165993ibtQt738xd3s8bG9hpjvPtvlmgD83h0ali1mhnovmFPb4GxP2Gjk3fgXmpJo1Dw662Ny12YOl8VXjiVTvyZPu1Kcn60ngCpSTkrhwZrPJB2a04X75tfKYNpxWxHsAXvqYtxgqet7MXMN4KRe5yK30xO8akjZ1cxnQpY+YkwQ56w0ea3nLqJAODjIUB9M7av4Q9ObV7QpCfMEdPmYiJD7F/IJTZpkGlO+J9RQh2kUQ2ul0W1OS6Vw3mUGinv6sQZY+Et42PEmhrHOX+RnI69w=;tFctpW6yjA3V7JfBWTW5KQ=="
 ---

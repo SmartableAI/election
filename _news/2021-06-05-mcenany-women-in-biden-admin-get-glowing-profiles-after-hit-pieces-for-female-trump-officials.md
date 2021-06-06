@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials.amp"
 type: article
 quality: 136
-heat: -1
-published: false
+heat: 136
+published: true
 
 provider:
   name: Fox News
@@ -30,24 +30,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Trump to hit ‘timid and corrupt’ Biden on China in rare speech"
-    excerpt: "President Donald Trump is expected to criticize President Joe Biden’s policy on China at a speech at the North Carolina Republican state convention."
-    publishedDateTime: 2021-06-05T18:51:00Z
-    webUrl: "https://nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/"
-    ampWebUrl: "https://nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "tcp+ALlAnH17QCMke48naAniWy7XpJ07KKVx+d6MiOGjYaxfv0tD0m18lxFBcrbKyZTMvdpk+ow5nzzWV+KKl2v5vOr3RPKf8TFg9rz0zpY59P061iaUHk4YJeKKx3p4ZprFgVoCHhUQI6w6Tx4XkSfcNBN9bk/nzJze8x78PAzzlzRUu9P1Hsji7896CM4gRqss58XWm67hmRrkywtLUKLRV9c2wYK4gsHWEAqd+NZKEoJL4ENqcNNadwFQO0UWJ+bhwjGwyaSL8d7MwAtmt4X4JXYpdTY3LbYJCdJr7ZwbtXA5Cn1/3kQuCt4It6I/FcQ/3YwXsqMicTYdq5wN8o6tIyfjeCb9+6mKou0gVAI=;2TOwZsqxhQB1JgU5gLb5EA=="
 ---

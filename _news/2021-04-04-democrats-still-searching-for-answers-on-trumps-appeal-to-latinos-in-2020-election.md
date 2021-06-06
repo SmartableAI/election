@@ -608,6 +608,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Criticizes Biden Policies, Calls for Reparations From China for Covid-19"
+    excerpt: "The former president, in one of his first public appearances in months, delivered a lengthy campaign-style speech to North Carolina Republicans that underscored his plan to remain a force in the GOP."
+    publishedDateTime: 2021-06-06T01:58:00Z
+    webUrl: "https://www.wsj.com/articles/trump-criticizes-biden-policies-calls-for-reparations-from-china-for-covid-19-11622948284?mod=hp_listb_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-criticizes-biden-policies-calls-for-reparations-from-china-for-covid-19-11622948284"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-criticizes-biden-policies-calls-for-reparations-from-china-for-covid-19-11622948284"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-349411/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump rips Biden’s ‘globalist’ tax hikes ahead of official infrastructure announcement"
     excerpt: "Former President Donald Trump on Wednesday slammed the Biden administration’s “globalist” multi-trillion infrastructure package, calling it a"
     publishedDateTime: 2021-03-31T19:01:00Z
