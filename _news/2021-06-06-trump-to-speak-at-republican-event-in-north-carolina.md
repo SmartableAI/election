@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Former WWE wrestler, Trump administration officials and congressman's widow are among 23 candidates in Texas House race"
-excerpt: "The crowded May race, with 23 candidates, could give Republicans an early look at Trump's staying power in the GOP."
-publishedDateTime: 2021-04-20T16:43:00Z
-originalUrl: "https://www.cbsnews.com/news/texas-6th-district-special-election-candidates/"
-webUrl: "https://www.cbsnews.com/news/texas-6th-district-special-election-candidates/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
+title: "Trump to speak at Republican event in North Carolina"
+excerpt: "Former President Donald Trump is set to make a rare public appearance at a Republican event held in North Carolina this Saturday night, where conservatives are expected to plan for their party’s future."
+publishedDateTime: 2021-06-05T22:57:00Z
+originalUrl: "https://www.cbsnews.com/video/trump-to-speak-at-republican-event-in-north-carolina/"
+webUrl: "https://www.cbsnews.com/video/trump-to-speak-at-republican-event-in-north-carolina/"
+ampWebUrl: "https://www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
 type: article
-quality: 101
+quality: 125
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/06/224bf0c0-acf8-4eeb-a673-9440534ef418/thumbnail/1200x630/ebddaf808d5ce6944492d7092389d273/gettyimages-1133282164.jpg"
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/05/64004832-71bb-4bb6-98fe-bd6b3f663fad/thumbnail/1200x630/a811b2041a295754665d007db9ef952f/ruffini-729168-640x360.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -79,19 +79,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump to speak at Republican event in North Carolina"
-    excerpt: "Former President Donald Trump is set to make a rare public appearance at a Republican event held in North Carolina this Saturday night, where conservatives are expected to plan for their party’s future."
-    publishedDateTime: 2021-06-05T22:57:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-to-speak-at-republican-event-in-north-carolina/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
+  - title: "Former WWE wrestler, Trump administration officials and congressman's widow are among 23 candidates in Texas House race"
+    excerpt: "The crowded May race, with 23 candidates, could give Republicans an early look at Trump's staying power in the GOP."
+    publishedDateTime: 2021-04-20T16:43:00Z
+    webUrl: "https://www.cbsnews.com/news/texas-6th-district-special-election-candidates/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 125
+    quality: 101
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/05/64004832-71bb-4bb6-98fe-bd6b3f663fad/thumbnail/1200x630/a811b2041a295754665d007db9ef952f/ruffini-729168-640x360.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/06/224bf0c0-acf8-4eeb-a673-9440534ef418/thumbnail/1200x630/ebddaf808d5ce6944492d7092389d273/gettyimages-1133282164.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -121,6 +121,6 @@ related:
       domain: thestate.com
     quality: 35
 
-secured: "YJ1sgwpmyR0XOA8wcJyaMbazrSTFIdJ1NS4mM91gwADzTUB/OoW7H0oiaE9JU6olkLDsqDZltWJOBoGtfaokHKLMMbv0JzcXCV/AczQnyV1+UD/F9CCXwsh5NVd9l7D7GlGq1rvSHMvjnZB8vt42rzboIDueXuSeHbUiOsnamRxutQuIYNorsMY1/DB5/iHAt2KViJBm96RWJs4DL2JqGJxSHrhL+26rqfd5FXtTOQD6+ov8qP5gjJyfKOL3r5/eNRDo4TTwlFRyIX6/+F5vAltE8S/J7AKvPo1Ecv24ngWyYJF+XGrKsVMCptktgfO0NhrladUunl+pvQuu/hQAD2lMWZGIskIl9b8eAo4Ru7X4nV7Yg88212gYl6j6Sf1fbl5EK2AB23o/kxoFVXxXth+rBnVoRFTctybZV+GBylJyWBPbK6huR0aLg7gTYSjXz2dc0uNw/BFk3pzh04f4cRBnIAPDlw8mlATB0zeFsRBtAXvqL9tTUbppujY55Ru6HqJHt591vdwccaWylyWJTg==;AwD2FCh8hDTx4jM0KXpEOg=="
+secured: "3k1y8fwARLwts5Dvu61lJEvkYRzRdqDFBJMcG20dWphycbrhndqfK5RrXnwIDzxHpKXnhr8/CGYEl7LdaqT9fhIOuXnJ5qRH7tPtVyIYAjvcAKTlwA1VKoDurugoHHDUmtwfp1vyJq8DTKxFTFGMpzoVmxjvqOFEYYVqeNc1RXiURGVQnDWl4iir7ylV7eRr/GtZTDWqhwLm4B4GMMMfhramaL8XTWrceoRLX2RfTedYoRqiTl+YjcnqxwJesRAxQAo5bcq8wBFLLtEigMBVe0nrfqiTBt7pbCE+z7MPn2IxReiGc9RruPjXVkDhkIH8djpzw5gzX7xw6tsjlOaSrlLXCvPIiGX10szc0XaLrfE=;3H2NxTY8X42sS1BAlAEOWQ=="
 ---
 

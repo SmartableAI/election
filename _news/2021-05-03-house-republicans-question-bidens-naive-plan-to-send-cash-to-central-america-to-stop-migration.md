@@ -221,6 +221,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, Harris stepping onto the world stage for first foreign trips"
+    excerpt: "The White House is taking a business trip. President Biden is headed off the the UK and Europe while Vice President Biden is heading south to Guatemala."
+    publishedDateTime: 2021-06-05T23:37:00Z
+    webUrl: "https://nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/"
+    ampWebUrl: "https://nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/biden-harris-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Lawmakers urge Biden to push Iranian regime on rights abuses, amid bipartisan support for resolution"
     excerpt: "Two lawmakers have written to President Biden urging him to place human rights, and holding human rights abusers accountable, at the center of his Iran policy -- just as a resolution backing a secular and democratic Iran has picked up majority support in the House."
     publishedDateTime: 2021-04-28T22:09:06Z

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Former WWE wrestler, Trump administration officials and congressman's widow are among 23 candidates in Texas House race"
-excerpt: "The crowded May race, with 23 candidates, could give Republicans an early look at Trump's staying power in the GOP."
-publishedDateTime: 2021-04-20T16:43:00Z
-originalUrl: "https://www.cbsnews.com/news/texas-6th-district-special-election-candidates/"
-webUrl: "https://www.cbsnews.com/news/texas-6th-district-special-election-candidates/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
+title: "Trump to speak at annual GOP convention in North Carolina"
+excerpt: "Donald Trump is coming to the Republican Party’s annual convention in North Carolina, a state whose electoral votes he won in 2016 and 2020. The former president was scheduled to address convention-goers Saturday in Greenville."
+publishedDateTime: 2021-06-05T23:05:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html?outputType=amp"
 type: article
-quality: 101
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/06/224bf0c0-acf8-4eeb-a673-9440534ef418/thumbnail/1200x630/ebddaf808d5ce6944492d7092389d273/gettyimages-1133282164.jpg"
+  - url: "https://www.chicagotribune.com/resizer/bO4kWIgxRgGBYxLHUSlWI3gZqGA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2SHWT4U4IVLZBPPM4PUFE4NBHI.aspx"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -63,22 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump to speak at annual GOP convention in North Carolina"
-    excerpt: "Donald Trump is coming to the Republican Party’s annual convention in North Carolina, a state whose electoral votes he won in 2016 and 2020. The former president was scheduled to address convention-goers Saturday in Greenville."
-    publishedDateTime: 2021-06-05T23:05:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/bO4kWIgxRgGBYxLHUSlWI3gZqGA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2SHWT4U4IVLZBPPM4PUFE4NBHI.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump to speak at Republican event in North Carolina"
     excerpt: "Former President Donald Trump is set to make a rare public appearance at a Republican event held in North Carolina this Saturday night, where conservatives are expected to plan for their party’s future."
     publishedDateTime: 2021-06-05T22:57:00Z
@@ -92,6 +76,22 @@ related:
     quality: 125
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/05/64004832-71bb-4bb6-98fe-bd6b3f663fad/thumbnail/1200x630/a811b2041a295754665d007db9ef952f/ruffini-729168-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Former WWE wrestler, Trump administration officials and congressman's widow are among 23 candidates in Texas House race"
+    excerpt: "The crowded May race, with 23 candidates, could give Republicans an early look at Trump's staying power in the GOP."
+    publishedDateTime: 2021-04-20T16:43:00Z
+    webUrl: "https://www.cbsnews.com/news/texas-6th-district-special-election-candidates/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/06/224bf0c0-acf8-4eeb-a673-9440534ef418/thumbnail/1200x630/ebddaf808d5ce6944492d7092389d273/gettyimages-1133282164.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -121,6 +121,6 @@ related:
       domain: thestate.com
     quality: 35
 
-secured: "YJ1sgwpmyR0XOA8wcJyaMbazrSTFIdJ1NS4mM91gwADzTUB/OoW7H0oiaE9JU6olkLDsqDZltWJOBoGtfaokHKLMMbv0JzcXCV/AczQnyV1+UD/F9CCXwsh5NVd9l7D7GlGq1rvSHMvjnZB8vt42rzboIDueXuSeHbUiOsnamRxutQuIYNorsMY1/DB5/iHAt2KViJBm96RWJs4DL2JqGJxSHrhL+26rqfd5FXtTOQD6+ov8qP5gjJyfKOL3r5/eNRDo4TTwlFRyIX6/+F5vAltE8S/J7AKvPo1Ecv24ngWyYJF+XGrKsVMCptktgfO0NhrladUunl+pvQuu/hQAD2lMWZGIskIl9b8eAo4Ru7X4nV7Yg88212gYl6j6Sf1fbl5EK2AB23o/kxoFVXxXth+rBnVoRFTctybZV+GBylJyWBPbK6huR0aLg7gTYSjXz2dc0uNw/BFk3pzh04f4cRBnIAPDlw8mlATB0zeFsRBtAXvqL9tTUbppujY55Ru6HqJHt591vdwccaWylyWJTg==;AwD2FCh8hDTx4jM0KXpEOg=="
+secured: "dIEKXd7ofcH0q4016AElBpTCqApFS5YQXIGCIoHXQYL++i39IkfSmEI7wdUM8IQmstdmPKnankREpzCHZ5HSt0QWPbhzyJqQwTTtk5HPXH1sc2jI97z5OWqd5tWUS+KK6DBC80jXdBY7o4aL459D0zFnEJueR9jOcB9bTUFWqkmPgt/h9AZLjWjEWOD6K7GUaD7cZy3DOnQCK4n/DD2u/BmvPSUyfUSLorpMC3iH9UDJSyPc7wjk/EG1WynpB/DWEsfpKrSleu6H+pQBAb9lJaoOAmSA4zOJwtiLHtUytnfKIJ5rPIstw84v0VOjajjpDrlTrOL3Uisn4bIxrDLn1o/ZnsDkV6FH2Mxr+50XMBg=;0nEFHE/0yYB/jTAzHUjx1w=="
 ---
 

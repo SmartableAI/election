@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-06-donald-trump-jr-accused-of-making-threat-against-anthony-fauci-after-sharing-murder-meme.md",
+      "title": "Donald Trump Jr. Accused of Making Threat Against Anthony Fauci After Sharing Murder Meme",
+      "excerpt": "Critics have accused Donald Trump Jr. of issuing threats against Dr. Anthony Fauci after he shared a meme about the infectious disease expert's hypothetical murder on Friday. At around 7 p.m. last night,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-jr-accused-making-threat-against-anthony-fauci-after-sharing-murder-meme-1597918",
+      "originalUrl": "https://www.newsweek.com/donald-trump-jr-accused-making-threat-against-anthony-fauci-after-sharing-murder-meme-1597918",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1814199/donald-trump-jr-meme-anthony-fauci-murder.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-accused-making-threat-against-anthony-fauci-after-sharing-murder-meme-1597918?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-accused-making-threat-against-anthony-fauci-after-sharing-murder-meme-1597918?amp=1",
+      "publishedDateTime": "2021-06-05T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-biden-doj-backtracks-on-subpoena-for-usa-today-readers-ip-addresses.md",
       "title": "Biden DOJ backtracks on subpoena for USA TODAY readers' IP addresses",
       "excerpt": "The Department of Justice will not seek information identifying the readers of a USA TODAY story from earlier this year, according to a Friday court filing, but only after the FBI captured the alleged criminal it was seeking through other means.",
@@ -1268,54 +1320,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-facebook-will-end-special-treatment-for-politicians-after-trump-ban.md",
-      "title": "Facebook will end special treatment for politicians after Trump ban",
-      "excerpt": "The change will make lawmakers and other elected officials subject to the same moderation rules as everybody else — including ones requiring fact-checking and forbidding bullying.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/03/facebook-will-end-special-treatment-for-politicians-after-trump-ban/",
-      "originalUrl": "https://nypost.com/2021/06/03/facebook-will-end-special-treatment-for-politicians-after-trump-ban/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/facebook-change.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/03/facebook-will-end-special-treatment-for-politicians-after-trump-ban/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/facebook-will-end-special-treatment-for-politicians-after-trump-ban/amp/",
-      "publishedDateTime": "2021-06-03T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

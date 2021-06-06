@@ -207,6 +207,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden, Harris stepping onto the world stage for first foreign trips"
+    excerpt: "The White House is taking a business trip. President Biden is headed off the the UK and Europe while Vice President Biden is heading south to Guatemala."
+    publishedDateTime: 2021-06-05T23:37:00Z
+    webUrl: "https://nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/"
+    ampWebUrl: "https://nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/biden-harris-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "House Republicans question Biden's 'naive' plan to send cash to Central America to stop migration"
     excerpt: "EXCLUSIVE: Republicans on the House Oversight and Budget committees are questioning a reported plan by the Biden administration to send cash payments to Central America as part of a strategy to combat the root causes of the migrant crisis -- accusing the Biden administration of trying to buy its way"
     publishedDateTime: 2021-05-03T14:00:30Z

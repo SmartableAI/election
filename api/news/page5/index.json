@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-28-trump-case-new-york-prosecutor-known-for-aggressive-pursuit-of-evidence.md",
+      "title": "Trump Case: New York Prosecutor Known for Aggressive Pursuit of Evidence",
+      "excerpt": "Gary Fishman is one of the two assistant attorneys general working with the Manhattan district attorney’s office on the Trump investigation as part of an unusual collaboration with the New York attorney general’s office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-case-new-york-prosecutor-known-for-aggressive-pursuit-of-evidence-11622206821",
+      "originalUrl": "https://www.wsj.com/articles/trump-case-new-york-prosecutor-known-for-aggressive-pursuit-of-evidence-11622206821",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-345366/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-case-new-york-prosecutor-known-for-aggressive-pursuit-of-evidence-11622206821",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-case-new-york-prosecutor-known-for-aggressive-pursuit-of-evidence-11622206821",
+      "publishedDateTime": "2021-05-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-dianne-morales-beautiful-mess-council-boosts-housing-vouchers-racketeering-charge-in-trump-org-probe.md",
       "title": "Dianne Morales’ beautiful mess — Council boosts housing vouchers — Racketeering charge in Trump Org probe?",
       "excerpt": "Erin Durkin and Anna Gronewold's must-read briefing informing the daily conversation among knowledgeable New Yorkers Dianne Morales’ beautiful mess — Council boosts housing vouchers — Racketeering charge in Trump Org probe?",
@@ -1291,63 +1348,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-seth-meyers-calls-trump-the-david-blaine-of-crime.md",
-      "title": "Seth Meyers Calls Trump the ‘David Blaine of Crime’",
-      "excerpt": "If he ever goes to trial, he’ll just regurgitate a frog that has ‘not guilty’ written on its back,” Meyers joked on Wednesday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/27/arts/27latenight/27latenight-facebookJumbo.png",
-          "width": 847,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.amp.html",
-      "publishedDateTime": "2021-05-26T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

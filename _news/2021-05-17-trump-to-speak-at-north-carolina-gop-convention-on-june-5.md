@@ -47,6 +47,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump to speak at annual GOP convention in North Carolina"
+    excerpt: "Donald Trump is coming to the Republican Party’s annual convention in North Carolina, a state whose electoral votes he won in 2016 and 2020. The former president was scheduled to address convention-goers Saturday in Greenville."
+    publishedDateTime: 2021-06-05T23:05:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bO4kWIgxRgGBYxLHUSlWI3gZqGA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2SHWT4U4IVLZBPPM4PUFE4NBHI.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump to speak at Republican event in North Carolina"
+    excerpt: "Former President Donald Trump is set to make a rare public appearance at a Republican event held in North Carolina this Saturday night, where conservatives are expected to plan for their party’s future."
+    publishedDateTime: 2021-06-05T22:57:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-to-speak-at-republican-event-in-north-carolina/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/05/64004832-71bb-4bb6-98fe-bd6b3f663fad/thumbnail/1200x630/a811b2041a295754665d007db9ef952f/ruffini-729168-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Former WWE wrestler, Trump administration officials and congressman's widow are among 23 candidates in Texas House race"
     excerpt: "The crowded May race, with 23 candidates, could give Republicans an early look at Trump's staying power in the GOP."
     publishedDateTime: 2021-04-20T16:43:00Z

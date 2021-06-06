@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-06-donald-trump-jr-accused-of-making-threat-against-anthony-fauci-after-sharing-murder-meme.md",
+      "title": "Donald Trump Jr. Accused of Making Threat Against Anthony Fauci After Sharing Murder Meme",
+      "excerpt": "Critics have accused Donald Trump Jr. of issuing threats against Dr. Anthony Fauci after he shared a meme about the infectious disease expert's hypothetical murder on Friday. At around 7 p.m. last night,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-jr-accused-making-threat-against-anthony-fauci-after-sharing-murder-meme-1597918",
+      "originalUrl": "https://www.newsweek.com/donald-trump-jr-accused-making-threat-against-anthony-fauci-after-sharing-murder-meme-1597918",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1814199/donald-trump-jr-meme-anthony-fauci-murder.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-accused-making-threat-against-anthony-fauci-after-sharing-murder-meme-1597918?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-accused-making-threat-against-anthony-fauci-after-sharing-murder-meme-1597918?amp=1",
+      "publishedDateTime": "2021-06-05T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-trump-to-hit-timid-and-corrupt-biden-on-china-in-rare-speech.md",
       "title": "Trump to hit ‘timid and corrupt’ Biden on China in rare speech",
       "excerpt": "President Donald Trump is expected to criticize President Joe Biden’s policy on China at a speech at the North Carolina Republican state convention.",
@@ -1477,58 +1529,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-pastor-greg-locke-continues-to-insist-trump-won-election-biden-is-still-a-fraud.md",
-      "title": "Pastor Greg Locke Continues to Insist Trump Won Election, Biden 'Is Still a Fraud'",
-      "excerpt": "Controversial right-wing Pastor Greg Locke on Sunday continued to claim that President Joe Biden \"is still a fraud\" and former President Donald Trump won the 2020 presidential election. Locke, head of the Baptist Global Vision Bible Church in Juliet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230",
-      "originalUrl": "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 429,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1810171/greg-locke-continues-insist-trump-won.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-continues-insist-trump-won-election-biden-still-fraud-1596230?amp=1",
-      "publishedDateTime": "2021-05-30T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -1,37 +1,49 @@
 ---
 category: news
-title: "Harris lands new job pushing American Jobs Plan through Congress for Biden"
-excerpt: "Vice President Kamala Harris was given a new assignment during President Biden’s address to Congress Wednesday night, tasked to lead the effort to push through his approximately $2 trillion American Jobs Plan."
-publishedDateTime: 2021-04-29T02:14:20Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kvIjU6HcwYQ/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kvIjU6HcwYQ/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden"
-ampWebUrl: "https://www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp"
+title: "Biden, Harris stepping onto the world stage for first foreign trips"
+excerpt: "The White House is taking a business trip. President Biden is headed off the the UK and Europe while Vice President Biden is heading south to Guatemala."
+publishedDateTime: 2021-06-05T23:37:00Z
+originalUrl: "https://nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/"
+webUrl: "https://nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/"
+ampWebUrl: "https://nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/amp/"
 type: article
-quality: 198
-heat: 658
-published: true
+quality: 150
+heat: -1
+published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/a7c45c05-13ef-414e-bd78-df2ca9c04bd6/8ee8f7ef-a529-4602-b58d-2cd66be7fa62/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/biden-harris-1.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
+  - title: "Harris lands new job pushing American Jobs Plan through Congress for Biden"
+    excerpt: "Vice President Kamala Harris was given a new assignment during President Biden’s address to Congress Wednesday night, tasked to lead the effort to push through his approximately $2 trillion American Jobs Plan."
+    publishedDateTime: 2021-04-29T02:14:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kvIjU6HcwYQ/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 198
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/a7c45c05-13ef-414e-bd78-df2ca9c04bd6/8ee8f7ef-a529-4602-b58d-2cd66be7fa62/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Boebert appears to troll Biden, Harris on border crisis by unfurling Mylar blanket"
     excerpt: "Without speaking a word, U.S. Rep. Lauren Boebert appeared to tell President Biden and Vice President Harris on Wednesday night that she was thinking about their handling of the migrant crisis at the U.S.-Mexico border."
     publishedDateTime: 2021-04-29T06:13:54Z
@@ -208,22 +220,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden, Harris stepping onto the world stage for first foreign trips"
-    excerpt: "The White House is taking a business trip. President Biden is headed off the the UK and Europe while Vice President Biden is heading south to Guatemala."
-    publishedDateTime: 2021-06-05T23:37:00Z
-    webUrl: "https://nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/"
-    ampWebUrl: "https://nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/biden-harris-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "House Republicans question Biden's 'naive' plan to send cash to Central America to stop migration"
     excerpt: "EXCLUSIVE: Republicans on the House Oversight and Budget committees are questioning a reported plan by the Biden administration to send cash payments to Central America as part of a strategy to combat the root causes of the migrant crisis -- accusing the Biden administration of trying to buy its way"
     publishedDateTime: 2021-05-03T14:00:30Z
@@ -391,6 +387,6 @@ related:
         height: 562
         isCached: true
 
-secured: "ytwquF9072DCOpkVkyhaCbCuEF5Skzldq4E6M14J0aHBevgswNHbLzmdkZdNSzyZqCsLdcG5JhHS2gU9zTkkTHNFJaL03XzVnY//JlLYcezOsIWtuqcDbSziDiGBCcVWJXpf2JK+FOlArV9xyF5LhFxImmDL7KyPBaaUxLXf2Pfy90sO5x4k5lTTN17iep1EPDpNYj76X5bqhXqGilLw1jopSH3b8NRVq3sTeoLMFOSx8Yd0rjeWC5n7sbpTgc8VnMnNubYHBgHv3mBZNpNt/kxWwVY4F8ieuZVp6kdSm54wbVziMkHReI2bct61mvmcW5GLvHTpoYNB4Ev16jBJfljRSZk6VRn+A02JJVpZKRI=;z7s7K/aGgqWaIRRTyVtCBQ=="
+secured: "7n2iscHWUGxRVnDVJyVIG8F9IG+fcOn9XJWdJYxhIkyBZCEyVEqDtUfDuTKatAs/Tx/+sXKSfw9rfHcHiTDWzkHzw8TYHr+4Oimn0RWDtrfOJcs+ucMyiNJZlTGIvOd8dA/BprJoNzD4OqCaJLaXcgEsTQZwXFNxalmsxKTpyUxTBRO0J9ju/iGFI5PbkX3Nd1sAHzm0KkrJaq5fnu1/69r4cPdgEmgxWOj3a9vNCnwCMtDQvEAzZ7jPwBS7j/IG8XKIqjnAHPOtfjllO72pbkOReJutDhBIV3igeNwJJ6b9qfhU9TbLWMH7Q5gpKuFcEY1vawww8gdUJp5+uzeqwLjtl7jRholPsvdrMR4tXB8=;UGmO+yIqiM1Krfq4v41Wrg=="
 ---
 
