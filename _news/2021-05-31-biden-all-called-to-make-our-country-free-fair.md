@@ -93,6 +93,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "US mulling military response to ransomware attacks, Biden officials say"
+    excerpt: "Commerce secretary Raimondo says US looking at ‘all options’ ahead of Putin summit, with Russia thought to harbor perpetrators"
+    publishedDateTime: 2021-06-06T17:07:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/jun/06/us-military-response-ransomware-attacks-biden-russia-putin"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/jun/06/us-military-response-ransomware-attacks-biden-russia-putin"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jun/06/us-military-response-ransomware-attacks-biden-russia-putin"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/5e0ece98d9789665255b00ea26d17d02a87ad85d/0_79_5079_3047/master/5079.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9e3e62fdfe9e72545fe7a44c80eefdf4"
+        width: 600
+        height: 360
+        isCached: true
   - title: "In Biden Communion debate, US bishops' show willingness to test Pope Francis"
     excerpt: "But according to some observers, the controversy is less about the sacrament than it is about the lack of communion among the U.S. bishops themselves and between the U.S. conference and the Vatican. “This is more about Pope Francis than it is about Joe Biden,"
     publishedDateTime: 2021-05-28T21:42:00Z

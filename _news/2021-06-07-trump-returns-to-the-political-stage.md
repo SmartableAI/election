@@ -1,31 +1,33 @@
 ---
 category: news
-title: "Mike Pence: I'll Likely Never See Eye to Eye With Trump on Jan. 6"
-excerpt: "Former Vice President Mike Pence said Thursday that he wasn’t sure that he and former President Donald Trump would ever see “eye to eye” over what happened on Jan. 6 but that he would “always be proud of what we accomplished for the American people over the last four years."
-publishedDateTime: 2021-06-03T14:12:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-06-03/pence-returns-to-another-key-early-presidential-voting-state"
-webUrl: "https://www.bloomberg.com/news/articles/2021-06-03/pence-returns-to-another-key-early-presidential-voting-state"
+title: "Trump returns to the political stage"
+excerpt: "Former President Donald Trump returned to the political stage with a speech at the North Carolina Republican Convention on Saturday. Nick Ochsner, chief investigative reporter at CBS affiliate WBTV in Charlotte,"
+publishedDateTime: 2021-06-06T20:40:00Z
+originalUrl: "https://www.cbsnews.com/video/donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06/"
+webUrl: "https://www.cbsnews.com/video/donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06/"
+ampWebUrl: "https://www.cbsnews.com/amp/video/donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06/"
 type: article
-quality: 120
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYK25SbTr_pM/v1/1200x800.jpg"
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/06/bfe356ef-7725-46cf-a838-b7c83210fd6d/thumbnail/1200x630/23c58408b9e514c7ad8a7646632eefc9/cbsn-fusion-donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06-thumbnail-729475-640x360.jpg"
     width: 1200
-    height: 800
+    height: 630
     isCached: true
 
 related:
@@ -135,22 +137,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump returns to the political stage"
-    excerpt: "Former President Donald Trump returned to the political stage with a speech at the North Carolina Republican Convention on Saturday. Nick Ochsner, chief investigative reporter at CBS affiliate WBTV in Charlotte,"
-    publishedDateTime: 2021-06-06T20:40:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/06/bfe356ef-7725-46cf-a838-b7c83210fd6d/thumbnail/1200x630/23c58408b9e514c7ad8a7646632eefc9/cbsn-fusion-donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06-thumbnail-729475-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Capitol Rioters Will Blame Trump, Fox News for Their Actions on Jan. 6: Report"
     excerpt: "\"The reason he was there is because he was a dumbass and believed what he heard on Fox News,\" an attorney representing what of the defendants said."
     publishedDateTime: 2021-05-29T19:05:00Z
@@ -166,6 +152,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1810065/us-capitol-riot.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Mike Pence: I'll Likely Never See Eye to Eye With Trump on Jan. 6"
+    excerpt: "Former Vice President Mike Pence said Thursday that he wasn’t sure that he and former President Donald Trump would ever see “eye to eye” over what happened on Jan. 6 but that he would “always be proud of what we accomplished for the American people over the last four years."
+    publishedDateTime: 2021-06-03T14:12:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-03/pence-returns-to-another-key-early-presidential-voting-state"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 120
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYK25SbTr_pM/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Pence says he may never see “eye to eye” with Trump on Capitol riot"
     excerpt: "Former Vice President Mike Pence revealed that he and former President Trump may never see “eye to eye” about the Capitol riot. Nikole Killion reports."
@@ -297,6 +297,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "VirvIzFx5UECX4Ais4x7BInMycVHIqr4DHbPGz5pHGaL0T7BMLQO0Hq9VbelHIweJ7XDv+M/cW6g9G1xRqxhvBT0gHRlz/DFVN8lOkHnxbPrxrVTWPqAzTBC7BbiewR0x7CKj3ZOSvdmu83V9dD5o8GqopzzmZ+Asbup/Vu05JNsc0jwPfzMgfNVZfsFnqOkVQOo/5oHM0/IlaAj9NWF2I/Xjr4cjPkEbyO59yeKn6BvZkkB4LNe+wUUpmOqWMgNS7P/iwgbYlkOzSWg4QPR0Dsh2CIoJ/gC7dKGpq2Yz2ZHtPPqTAPdico8H1MEpw+kWIQXqR0GSMai0uXdSzFYRdAGYIbQdNdWfaSlg/Q9N2H4YFNdDIm6QbmTiskeGSnUu7+t9VTrJN8n9ql3XdKe4CexL5fXiN0QucFLCIukeB/wupzBQQtjPVdS/p5Jea3AmEP9vIyuIX1y5FLMg18TqnXCVjDLtxkADOv585eY/9eH9sPIMB3mFQAPVkP/B+xyV1NclBQkYWAr2CVXdM18wQ==;L1IF59FSwe1j8jpmibTHjA=="
+secured: "utyMMcyDHfX1Gjp4KbIKmLXu1nNAme0OiMe1bZD0VUvi8fTqEx7fhn0ZrnktcU3OLCO8Dpvefm69xHbhDxHghY6IvpOMVqxhBPHQvhynUZUFYKBWSXgDIa7SvXGX7F3RzfOeOk+Zy8tjlE1qAc2Y/5sL5LHd4Bw1nxFwkmQIrvHOIg6zmnO+sq+jODBvXjBNjgj0WTCRdrCHWl3IPybYwQ47nkcRUO3M9yq6AS8eqB9GMS9U13brlXf5yxrVHeES8urT0BqU46YTrz0o7j/GQwK+5rYUb39mhPrKefWpSrL6L5Y2IXTROEjn0p69Kqgc10uAi8vfs0AcWuXQZK+ptfx4GwKh2GPdpP/2V2oY9Cc=;3fBkLdC/DL5ddzlFMRGNKA=="
 ---
 

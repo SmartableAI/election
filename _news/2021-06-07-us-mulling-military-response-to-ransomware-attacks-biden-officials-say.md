@@ -1,12 +1,12 @@
 ---
 category: news
-title: "First Thing: Joe Biden calls for US to confront its past in Tulsa"
-excerpt: "On the 100th anniversary of the Tulsa race massacre, Biden became the first sitting president to visit the site"
-publishedDateTime: 2021-06-02T10:06:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jun/02/first-thing-joe-biden-calls-us-confront-past-tulsa-race-massacre"
-webUrl: "https://www.theguardian.com/us-news/2021/jun/02/first-thing-joe-biden-calls-us-confront-past-tulsa-race-massacre"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/02/first-thing-joe-biden-calls-us-confront-past-tulsa-race-massacre"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/02/first-thing-joe-biden-calls-us-confront-past-tulsa-race-massacre"
+title: "US mulling military response to ransomware attacks, Biden officials say"
+excerpt: "Commerce secretary Raimondo says US looking at ‘all options’ ahead of Putin summit, with Russia thought to harbor perpetrators"
+publishedDateTime: 2021-06-06T17:07:00Z
+originalUrl: "https://www.theguardian.com/technology/2021/jun/06/us-military-response-ransomware-attacks-biden-russia-putin"
+webUrl: "https://www.theguardian.com/technology/2021/jun/06/us-military-response-ransomware-attacks-biden-russia-putin"
+ampWebUrl: "https://amp.theguardian.com/technology/2021/jun/06/us-military-response-ransomware-attacks-biden-russia-putin"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jun/06/us-military-response-ransomware-attacks-biden-russia-putin"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/204bc9048546cac0fb17301fba3f5c846bdbb800/0_206_6192_3715/master/6192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=869629a56fde18d2bd91210d00e8d948"
+  - url: "https://i.guim.co.uk/img/media/5e0ece98d9789665255b00ea26d17d02a87ad85d/0_79_5079_3047/master/5079.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9e3e62fdfe9e72545fe7a44c80eefdf4"
     width: 600
     height: 360
     isCached: true
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_d8f908ec483f4c1e81bdf58d3c69d946_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "First Thing: Joe Biden calls for US to confront its past in Tulsa"
+    excerpt: "On the 100th anniversary of the Tulsa race massacre, Biden became the first sitting president to visit the site"
+    publishedDateTime: 2021-06-02T10:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/02/first-thing-joe-biden-calls-us-confront-past-tulsa-race-massacre"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/02/first-thing-joe-biden-calls-us-confront-past-tulsa-race-massacre"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/02/first-thing-joe-biden-calls-us-confront-past-tulsa-race-massacre"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/204bc9048546cac0fb17301fba3f5c846bdbb800/0_206_6192_3715/master/6192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=869629a56fde18d2bd91210d00e8d948"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden tax proposal in focus at Group of 7 ministers' meeting"
     excerpt: "Finance ministers from the Group of Seven wealthy democracies have a lot to talk about when they gather in London starting Friday"
@@ -76,22 +92,6 @@ related:
     quality: 125
     images:
       - url: "https://i.guim.co.uk/img/media/a1a69e8b9965d8a70ec6bcdb2cb5a4a9aa1cfa62/0_87_4046_2429/master/4046.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2c7eb4ad7129767b4d5f524e6a76edfe"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "US mulling military response to ransomware attacks, Biden officials say"
-    excerpt: "Commerce secretary Raimondo says US looking at ‘all options’ ahead of Putin summit, with Russia thought to harbor perpetrators"
-    publishedDateTime: 2021-06-06T17:07:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/jun/06/us-military-response-ransomware-attacks-biden-russia-putin"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/jun/06/us-military-response-ransomware-attacks-biden-russia-putin"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jun/06/us-military-response-ransomware-attacks-biden-russia-putin"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/5e0ece98d9789665255b00ea26d17d02a87ad85d/0_79_5079_3047/master/5079.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9e3e62fdfe9e72545fe7a44c80eefdf4"
         width: 600
         height: 360
         isCached: true
@@ -184,6 +184,6 @@ related:
         height: 433
         isCached: true
 
-secured: "ssHg8J+p2AVYmkauYWmKwwQVFTZ7ACyEDjP22HmoJiY4kTrxLsytpep/18i9KtgTO8p4L3TzayKH6nVv8PIHRBEerMRHoBZK9GK6QGTSM0c0JVveFAmebcxYe9McPmpX8Co6VpRNCpIIqhppVxYwXIHwGajA+5WoW7yWkX65gkBdcA+/aEuMk3VLzgOEtTHti4XMtN73alvUGbpDFBgTk865Z/RzBZYR285WQZ7pAnGCoPAmdEKmzsgUGGztDJfZt60dffrROheTJJKwAx0HmxZEUU+971IjYfoGqOqt8EsoSTOvguzWOFR1kZexzIge/FWQDWSPhQrFbcEkD6ftS35XajfCmlRGNpLEbYMmKQU=;pAblCToovKB1l69PmnNzWQ=="
+secured: "LYyuV/d8bppFd185hLQTqRPOjR/9qWNs8raXxySGl4qQ4vT4fZIfoARqVZnzBH7PLbdTZ3Ta1j7kb0RjFLsD3Dn2RLdBNo3bjmqpwmdtnPfUBlzwb3nFLfICQx4OkXLko4+0FiRAb3WVACFjkw1O8aBDj1t6EGLASkneFX0v6DKZjgxe9i9mUNe+hA0G18L7YlZ5CwhduLtxAWhyZGnh+NyzIHxeNgnRqw2qtDYmwTuttDcYJ1U2pgoZOW6WziRjsRVgJqTSFO/pWpcT7AVUjaZgAzIEj6oreUbmseTHqCDkCS++K1KSg+ZlkrojAJ8nFe29McAJRStyOZTv1DBgvuh+6Mmr9XWsZthgLhJoO3w=;Afnx//jIeYrgqOGp5yk/VQ=="
 ---
 

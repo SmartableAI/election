@@ -59,19 +59,35 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Vice President Kamala Harris’ plane forced to return over ‘technical issue’"
-    excerpt: "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday."
-    publishedDateTime: 2021-06-06T19:14:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+  - title: "VP Kamala Harris visits Latin America to tackle migration, corruption"
+    excerpt: "Kamala Harris, on her first foreign trip as vice president, is looking to deepen diplomatic ties with Guatemala and Mexico, two Latin American nations key to the Biden administration’s efforts to stem the spike in migration at the U."
+    publishedDateTime: 2021-06-06T21:29:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
     type: article
     provider:
       name: The Baltimore Sun
       domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/Qi1CvPm4fsP8wQEbh0vjo01ZjZk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7XO7A5BPJBOEQOUOX4R3UDUVVM.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vice President Kamala Harris’ plane forced to return over ‘technical issue’"
+    excerpt: "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday."
+    publishedDateTime: 2021-06-06T19:48:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
     quality: 73
     images:
-      - url: "https://www.baltimoresun.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
+      - url: "https://www.dailypress.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
         width: 1200
         height: 758
         isCached: true
@@ -102,6 +118,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/009facc2f199ecbb7b4c0affa25233fc/HARRIS-LANDER.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Kamala Harris' plane returns to air base after technical issue"
+    excerpt: "Vice President Kamala Harris was on her way to Guatemala when her plane returned to Joint Base Andrews due to a \"technical issue,\" according to a spokesperson. CNN's Joe Johns"
+    publishedDateTime: 2021-06-06T19:37:00Z
+    webUrl: "https://www.djournal.com/news/national/kamala-harris-plane-returns-to-air-base-after-technical-issue/video_c8224d80-9244-5dce-8f58-45bcdb3e9b36.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/82/c8224d80-9244-5dce-8f58-45bcdb3e9b36/60bd2971c7610.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
 
 secured: "fuw4d1jTDxuxpQ/XtJ4dum1ZE92oR1VYY8buyaGWvmoXScvV41V1j0obBTQ2YfU7SiaZHNeTtXjtvA50xjZDzXlBygirDVGzMp7EbWgabG9DV734YlVDviIjnLin5B/f5JbOErtSsO41mqFgYP0qcEcZSZ9723RjstnoaIOdHhiPNIX8GPAA43jq+xYUsYsery2N1KQPxCil2+Wa9N909Q8FiKk2HUX7gTZeX/wMPQofDHslvd1tJ6EDSoX7QxHaH/7hErYmGykHcrMCNyL3RMqHnrCnRjlGMO7ad39Ma56UijxwJPuBU8bSkhvMOvEFU3ztbsW37SBIK3AVUYTmoW3K/n86PcFTwLpqYAjHT3AMEGULMQ9NmIyo9sggFUIbb1x0eq7glnPj3m5goLWtssMbNiBOLuEMHaHHIJ3CsTSdAG73SsiC/vBj1VGX/BrdAGLTX9ltYnCxMh1UiNiOpzemsIM55t60u9LIsldiQ49szW3j63+MlsVaG67+KaK9eUkuzCnryXxUkkB/SPS2Tg==;iqZ+tkf2efRh7L7b4D/DrQ=="

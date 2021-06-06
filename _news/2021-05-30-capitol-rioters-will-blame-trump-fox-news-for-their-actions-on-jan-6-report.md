@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump returns to the political stage"
+    excerpt: "Former President Donald Trump returned to the political stage with a speech at the North Carolina Republican Convention on Saturday. Nick Ochsner, chief investigative reporter at CBS affiliate WBTV in Charlotte,"
+    publishedDateTime: 2021-06-06T20:40:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/06/bfe356ef-7725-46cf-a838-b7c83210fd6d/thumbnail/1200x630/23c58408b9e514c7ad8a7646632eefc9/cbsn-fusion-donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06-thumbnail-729475-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mike Pence: I'll Likely Never See Eye to Eye With Trump on Jan. 6"
     excerpt: "Former Vice President Mike Pence said Thursday that he wasn’t sure that he and former President Donald Trump would ever see “eye to eye” over what happened on Jan. 6 but that he would “always be proud of what we accomplished for the American people over the last four years."
     publishedDateTime: 2021-06-03T14:12:00Z
@@ -222,6 +238,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/27W55IB5HVGJVDK5QFVCO7YXDY.jpg"
         width: 6000
         height: 4000
+        isCached: true
+  - title: "Trump 2024: Will He Run For President With Mike Pence?"
+    excerpt: "Donald Trump did not give a strong endorsement of running for president in 2024 alongside former Vice-President Mike Pence."
+    publishedDateTime: 2021-06-06T17:33:00Z
+    webUrl: "https://www.ibtimes.com/trump-2024-will-he-run-president-mike-pence-3216611"
+    ampWebUrl: "https://www.ibtimes.com/trump-2024-will-he-run-president-mike-pence-3216611?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-2024-will-he-run-president-mike-pence-3216611?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 100
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/16/vice-president-mike-pence-is-coming-out-from.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Mike Pence Won’t Let Pro-Trump Mob Come Between Him and His President"
     excerpt: "The ex-veep made it clear he’s still fully Team Trump, though he and his former boss may never “see eye to eye” on January 6."

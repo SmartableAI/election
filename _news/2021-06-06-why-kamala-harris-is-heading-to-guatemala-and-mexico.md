@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-mexico-immigration/index.html"
 type: article
 quality: 185
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 177
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420152901-kamala-harris-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris safely returns to air base after plane has 'technical issue' while departing for first foreign trip"
+    excerpt: "Vice President Kamala Harris, who was en route to Latin America on Sunday, safely returned to Joint Base Andrews after her plane had a \"technical issue,\" according to Harris' chief spokesperson and senior adviser Symone Sanders.\n    \n"
+    publishedDateTime: 2021-06-06T20:50:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvWcUZNMM5s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-plane-technical-issue-foreign-trip-guatemala/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-plane-technical-issue-foreign-trip-guatemala/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606152000-01-kamala-harris-latam-0606-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

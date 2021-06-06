@@ -1,34 +1,34 @@
 ---
 category: news
-title: "U.S. Aid to Central America Hasn’t Slowed Migration. Can Kamala Harris?"
-excerpt: "A stark reality faces the vice president as she visits the region: Expanding aid programs have failed to stem migration."
-publishedDateTime: 2021-06-06T07:00:00Z
-originalUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.html"
-webUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.html"
-ampWebUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
+title: "Harris safely returns to air base after plane has 'technical issue' while departing for first foreign trip"
+excerpt: "Vice President Kamala Harris, who was en route to Latin America on Sunday, safely returned to Joint Base Andrews after her plane had a \"technical issue,\" according to Harris' chief spokesperson and senior adviser Symone Sanders.\n    \n"
+publishedDateTime: 2021-06-06T20:50:04Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvWcUZNMM5s/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvWcUZNMM5s/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-plane-technical-issue-foreign-trip-guatemala/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-plane-technical-issue-foreign-trip-guatemala/index.html"
 type: article
-quality: 135
+quality: 167
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Kamala Harris
   - Democratic Voice
+  - Kamala Harris
 
 images:
-  - url: "https://static01.nyt.com/images/2021/05/27/world/americas/00guatemala-foreign-aid-top/00guatemala-foreign-aid-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606152000-01-kamala-harris-latam-0606-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -64,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Harris safely returns to air base after plane has 'technical issue' while departing for first foreign trip"
-    excerpt: "Vice President Kamala Harris, who was en route to Latin America on Sunday, safely returned to Joint Base Andrews after her plane had a \"technical issue,\" according to Harris' chief spokesperson and senior adviser Symone Sanders.\n    \n"
-    publishedDateTime: 2021-06-06T20:50:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvWcUZNMM5s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-plane-technical-issue-foreign-trip-guatemala/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-plane-technical-issue-foreign-trip-guatemala/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606152000-01-kamala-harris-latam-0606-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Kamala Harris and a High-Risk, High-Reward Presidential Résumé"
     excerpt: "For the vice president, another run at the Oval Office is a near certainty. How her current responsibilities help or hurt that bid is an open question."
     publishedDateTime: 2021-06-05T09:00:00Z
@@ -96,7 +80,23 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "U.S. Aid to Central America Hasn’t Slowed Migration. Can Kamala Harris?"
+    excerpt: "A stark reality faces the vice president as she visits the region: Expanding aid programs have failed to stem migration."
+    publishedDateTime: 2021-06-06T07:00:00Z
+    webUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/27/world/americas/00guatemala-foreign-aid-top/00guatemala-foreign-aid-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
-secured: "YEloIAYvF/DPFNAHnYZEBeAVRZ5AIvI8d1StlTyvyWk5DVJK7bN7WLWFHWeE/ISfmY/RDme4U6IyUE0DNQDmc9HvbGYqxsmHAVJ34ZcvYWxAiSJ+R5SyDOih1+x6XEr5piFlCWM7zTDxfMVtvItdEFQ9sBpVuf670QPRVdYlWhEr+t4WNcR4lad1EAFt+/7IJ1zAeVbS1x0jSsR9gCI6fNWP61RX7D1vp8b4xhiYUu8TqKo0i2UsdvGQcazEiWaK5akj6FcLTOwCWrKo0OUrzgPHaWk/9Y6wx+7RGeXW5cFfk0nDqAFXmLB0jcnjg4+Q/eAngZlYwzZ2YpvyIp7ls/VrYpRouWw1u/JcDDBc4nEfMZC5UxLc7hG621X9p1bBMM8WApkXp9rOCRqZJluQzn3hyyGKrHaCJGxFsQyf/qDKKg1rrDf6ZQyfB5x3qADfy35Qx4KmB5eszJqeX6giNoXZCOL1I/RZYC83r1RsxsXCVAcAXonXwHsGErAKVkKsFqhHlnG3yR92GLrJjPsfxg==;f4hL2HQfM1/hfu8asK3Nng=="
+secured: "IDnX6hyKNgF+ogI+VjK4YTcoqbd/UOQ8+drRnlyhPXNdgoKDDBJISBcTa6xusFbBf3au7ba94cl0nxek2+CXGANWmkfST1yzc7SaBGS/v4PUF2SWWJ3zh//YWZ2XaZPIgNMvevMLuKpcgjXe55XES4IFdlVgsXF81DCGvYGgnW0Si6y6Q1NmUDl14tCOOAEQhpzy4jno+LdsAEBONNZnVW694b1R7225HORUdEbcdJyPWs3ZpgWh3GiRi/f3uoWY9TuZLSPWUyOGGJIF07LNPGEzaJhJWD0/GXbmNHXGLAzldSipy4GOCZMMltYScy0OL7uBuW07iH8b8CdCboMQDNEV/sI7hMzrECxytJJx00Y=;dPYhm7dusW1x1OAGPAjNzw=="
 ---
 

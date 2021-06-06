@@ -134,6 +134,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump returns to the political stage"
+    excerpt: "Former President Donald Trump returned to the political stage with a speech at the North Carolina Republican Convention on Saturday. Nick Ochsner, chief investigative reporter at CBS affiliate WBTV in Charlotte,"
+    publishedDateTime: 2021-06-06T20:40:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/06/bfe356ef-7725-46cf-a838-b7c83210fd6d/thumbnail/1200x630/23c58408b9e514c7ad8a7646632eefc9/cbsn-fusion-donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06-thumbnail-729475-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Capitol Rioters Will Blame Trump, Fox News for Their Actions on Jan. 6: Report"
     excerpt: "\"The reason he was there is because he was a dumbass and believed what he heard on Fox News,\" an attorney representing what of the defendants said."
     publishedDateTime: 2021-05-29T19:05:00Z
@@ -219,6 +235,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/76a40b73d7ef25925928c7740d3f555ccdd2b0fa/0_133_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ab622bdaac0dc5d28e44d8d984d982b"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump 2024: Will He Run For President With Mike Pence?"
+    excerpt: "Donald Trump did not give a strong endorsement of running for president in 2024 alongside former Vice-President Mike Pence."
+    publishedDateTime: 2021-06-06T17:33:00Z
+    webUrl: "https://www.ibtimes.com/trump-2024-will-he-run-president-mike-pence-3216611"
+    ampWebUrl: "https://www.ibtimes.com/trump-2024-will-he-run-president-mike-pence-3216611?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-2024-will-he-run-president-mike-pence-3216611?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 100
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/16/vice-president-mike-pence-is-coming-out-from.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Mike Pence Won’t Let Pro-Trump Mob Come Between Him and His President"
     excerpt: "The ex-veep made it clear he’s still fully Team Trump, though he and his former boss may never “see eye to eye” on January 6."

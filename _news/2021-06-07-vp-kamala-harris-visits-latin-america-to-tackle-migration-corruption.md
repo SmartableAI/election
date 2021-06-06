@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Kamala Harris: I eat 'no' for breakfast"
-excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
-publishedDateTime: 2021-06-01T17:56:00Z
-originalUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
-webUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
+title: "VP Kamala Harris visits Latin America to tackle migration, corruption"
+excerpt: "Kamala Harris, on her first foreign trip as vice president, is looking to deepen diplomatic ties with Guatemala and Mexico, two Latin American nations key to the Biden administration’s efforts to stem the spike in migration at the U."
+publishedDateTime: 2021-06-06T21:29:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
+  - url: "https://www.baltimoresun.com/resizer/Qi1CvPm4fsP8wQEbh0vjo01ZjZk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7XO7A5BPJBOEQOUOX4R3UDUVVM.aspx"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -73,22 +75,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "VP Kamala Harris visits Latin America to tackle migration, corruption"
-    excerpt: "Kamala Harris, on her first foreign trip as vice president, is looking to deepen diplomatic ties with Guatemala and Mexico, two Latin American nations key to the Biden administration’s efforts to stem the spike in migration at the U."
-    publishedDateTime: 2021-06-06T21:29:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 75
-    images:
-      - url: "https://www.baltimoresun.com/resizer/Qi1CvPm4fsP8wQEbh0vjo01ZjZk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7XO7A5BPJBOEQOUOX4R3UDUVVM.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Vice President Kamala Harris’ plane forced to return over ‘technical issue’"
     excerpt: "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday."
     publishedDateTime: 2021-06-06T19:48:00Z
@@ -104,6 +90,20 @@ related:
       - url: "https://www.dailypress.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
         width: 1200
         height: 758
+        isCached: true
+  - title: "Kamala Harris: I eat 'no' for breakfast"
+    excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
+    publishedDateTime: 2021-06-01T17:56:00Z
+    webUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
   - title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
     excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
@@ -134,6 +134,6 @@ related:
         height: 324
         isCached: true
 
-secured: "rA/sMEb/6xNa43MCZBhTq1XCppEcWzPZgZu5UueWmUHAcYwtxaug3o568Y/Ws5YgGBT9EBduw/wFr7B3z9IIBTXEtlSk7AtLu3bFAwlNpVUV8PSvQAsiuE/VuElLIhkLoHYFcYp6NOC1qNdzuVUwH6CYqV/87EiJwLPRGNZiRckOEnnPxgO56YANHBfyt4DrpPpGdewGMjkPK5yO9x+uejWlih5sxcCIb1JTxe6lNEAwshXjKetCbqI397JWE6/+kx76I2PzBUjUm8Y2RWX2j4AWd1E0Rz1+OoKFU2Q7Szt/yXfSdkz3CJFHG2F2WP6WTQQ8YdDGiAIsbSCwPTflVgx/8PjR6QuJBtR1H891zJXLG9j3Bd9AfvoyUeJk1GNqgsNsnEM2m2W04yz4qv7+o6P9mfPowmg3PeYxwppduQtgOiB/TvAI8zTq6ONQT1q84QUOvHLgU+h4GC4NuHj+fCjG4uA3bdyo9DdF1XU90Y4KuTTi+JT66Hp77s/SAd+dGuC0Oq03+VbFF7Hr+ytSQQ==;ILcCLO2f3QzRLyK4dgNhrg=="
+secured: "dZgR6YEqKkInYLHJLk4emRU29IZ94zc7H1SB14DnBZ4quNTdnpadCIRPRmSHN1h0LFz//cDsHPhaFagWFCscLNL5vxiptBEP2jxat3A7IdYWa9Yw67T/FFXZZbGNw9MUVMpjn1imgxkogQtdJwu0Zz/USy7whW6jcZu6lYX26LI9+k2fdCgNROAcdOsvMNgI9wZXBRHFPpmTE9kIFgrVmoPZVbZ/9iAwZ3VysDyGf++dyz6wXshOy95wLFJXsvjw+UTauLcHdiahvT0Nik+MIX1UktcUZZbNRHkVV7buntfzuKx7Nqus670UbMuFbdnd9QIisVVtePCyx2zmRPxgLBVOHCRq9P14s/obJ8J/MuI=;S1feiSAOVDJZIS4flrZoKg=="
 ---
 

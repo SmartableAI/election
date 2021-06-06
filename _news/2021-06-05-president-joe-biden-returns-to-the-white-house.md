@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden returns to the White House"
-excerpt: "U.S. President Joe Biden with first lady Dr. Jill Biden step off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
+excerpt: "U.S. President Joe Biden gets into a limo after stepping off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
 publishedDateTime: 2021-06-04T18:26:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/26655439e26efcec96d19c20489ada6e/President-Joe-Biden-returns-to-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/26655439e26efcec96d19c20489ada6e/President-Joe-Biden-returns-to-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/1b38ca44290d367c6c73fd0cf62370f0/President-Joe-Biden-returns-to-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/1b38ca44290d367c6c73fd0cf62370f0/President-Joe-Biden-returns-to-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/26655439e26efcec96d19c20489ada6e/USA-WHITE-HOUSE-BIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/1b38ca44290d367c6c73fd0cf62370f0/USA-WHITE-HOUSE-BIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -150,6 +150,6 @@ related:
         height: 641
         isCached: true
 
-secured: "G3hLG64AYPl6N32pCDvykZ8rlaAsTA4ydYzloAYFnHih3hmkFky6qvRUq7RXYWlpRlBeBLBoq7QTQ7nls+qy5K0xCmJ69PMLiXxXlK3geR5nkso4rAmPoJFSL73fmirpGiosYW8pBMCV0a0j/W7rVHddYprIn55qJzbvuAE95O9EIO9jG7TU9VwuFZ9BPLuu2KOcC72fkPhOJBoUh0b+kmg6yz/9KpsGDldf9j6YDL3BTELp+ccldD7I+sqFl7e49zp7IbFkwe+h020lZifgoYy13ZJNDc4xw8j0RsUFH0KSLHgWbpzCR0MyUQR+BJT6cDfmOmoc5nsPwtSLxrkuXJW02raa0s0e66QiBam478uXMjD0m5LBTeeYtWk807px1665rHvolcAh+B5j2BKRqzl+wY+PU0pKbwUut2wh/KFrV5i2Xa0oF+W96eaVY5TeKcCzMbDgCAPhhje7rtsV62zEbgxiAzKiPMAGZRS8YwLdZmxy9vKesfBrsqOWlKlHhvFssV8pXEuEcAtYRLhIGg==;8IAK7228MYGVXn+JLNnVcg=="
+secured: "vy0EXkTlCiZBzfypw0quv4g2q6u5EpXH1TPN1mBE/Q+81lfZGhdpyeAGwsSg2rSoSD0lS6uFOMny2LOLjmkTxSqMhc/SczJ3VhZ62BJIXMxN41W3IWsaDNBCcmeT3z6X6b++v7JT3k4UwsQ20GkvOaAyl1hg2B6VSbK+7ukelnw+OSo8MIIcxav396pgfIuNF5hIu48Zn6GdukvuvzTSu/XKAq5beEwwLRgnUBGb9EguN+kxLyFJHAsLKUzDa57rxyRjgNewF1DkgPu+GjwtLfL7w7a4TomMNA5INv3OMVWWAyAxSHXA9jg8X0M1L3StxEUOS+z9H7ywGt/UZwcIEHDxgt4guuX9cVlY5qLvv5M=;PI/S5tHIlp9JkVPf7NF7Dg=="
 ---
 

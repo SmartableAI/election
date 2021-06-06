@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Kamala Harris: I eat 'no' for breakfast"
-excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
-publishedDateTime: 2021-06-01T17:56:00Z
-originalUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
-webUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
+title: "Kamala Harris' plane returns to air base after technical issue"
+excerpt: "Vice President Kamala Harris was on her way to Guatemala when her plane returned to Joint Base Andrews due to a \"technical issue,\" according to a spokesperson. CNN's Joe Johns"
+publishedDateTime: 2021-06-06T19:37:00Z
+originalUrl: "https://www.djournal.com/news/national/kamala-harris-plane-returns-to-air-base-after-technical-issue/video_c8224d80-9244-5dce-8f58-45bcdb3e9b36.html"
+webUrl: "https://www.djournal.com/news/national/kamala-harris-plane-returns-to-air-base-after-technical-issue/video_c8224d80-9244-5dce-8f58-45bcdb3e9b36.html"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/82/c8224d80-9244-5dce-8f58-45bcdb3e9b36/60bd2971c7610.image.jpg?resize=576%2C324"
     width: 576
     height: 324
     isCached: true
@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 758
         isCached: true
+  - title: "Kamala Harris: I eat 'no' for breakfast"
+    excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
+    publishedDateTime: 2021-06-01T17:56:00Z
+    webUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
     excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
     publishedDateTime: 2021-06-02T17:02:00Z
@@ -119,21 +133,7 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Kamala Harris' plane returns to air base after technical issue"
-    excerpt: "Vice President Kamala Harris was on her way to Guatemala when her plane returned to Joint Base Andrews due to a \"technical issue,\" according to a spokesperson. CNN's Joe Johns"
-    publishedDateTime: 2021-06-06T19:37:00Z
-    webUrl: "https://www.djournal.com/news/national/kamala-harris-plane-returns-to-air-base-after-technical-issue/video_c8224d80-9244-5dce-8f58-45bcdb3e9b36.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/82/c8224d80-9244-5dce-8f58-45bcdb3e9b36/60bd2971c7610.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
 
-secured: "rA/sMEb/6xNa43MCZBhTq1XCppEcWzPZgZu5UueWmUHAcYwtxaug3o568Y/Ws5YgGBT9EBduw/wFr7B3z9IIBTXEtlSk7AtLu3bFAwlNpVUV8PSvQAsiuE/VuElLIhkLoHYFcYp6NOC1qNdzuVUwH6CYqV/87EiJwLPRGNZiRckOEnnPxgO56YANHBfyt4DrpPpGdewGMjkPK5yO9x+uejWlih5sxcCIb1JTxe6lNEAwshXjKetCbqI397JWE6/+kx76I2PzBUjUm8Y2RWX2j4AWd1E0Rz1+OoKFU2Q7Szt/yXfSdkz3CJFHG2F2WP6WTQQ8YdDGiAIsbSCwPTflVgx/8PjR6QuJBtR1H891zJXLG9j3Bd9AfvoyUeJk1GNqgsNsnEM2m2W04yz4qv7+o6P9mfPowmg3PeYxwppduQtgOiB/TvAI8zTq6ONQT1q84QUOvHLgU+h4GC4NuHj+fCjG4uA3bdyo9DdF1XU90Y4KuTTi+JT66Hp77s/SAd+dGuC0Oq03+VbFF7Hr+ytSQQ==;ILcCLO2f3QzRLyK4dgNhrg=="
+secured: "cMVaPFl4VpEBUUtMyrNLnEwi3GsCHIPhsvic9oy/1vTUhJLNY/B1C5KawHjNQ5Jcy5uLu0e//QNu9MUxMQWe9q3uOnFq/+toLlJj8VTj4X0cSfJTGT4rvAo2HMS9kuRoFSiaYz2BpEtzp5n3VX8UcOAKB/rBC9xnBNirlHEBoemlMSH1nRaciHPRyWHIinKEUOF3xYBxPgbd/6+KIY3r6BYQsWq/c9MJaCTQSWNQRcy06Eh/ICUfc9xBr0IbOKLjfKXg9Aev7R9tJ5xIHtF4r2Z8lQ+v/4HPePropFyhLH/qyyqWCPW74rDMDgv7jDHC6rs2UEI8uKwg0/wA87AQEy+d+HLOQzqk9RYBRhWRmMI=;W6TJve8K64OV0Q4YDi3edg=="
 ---
 

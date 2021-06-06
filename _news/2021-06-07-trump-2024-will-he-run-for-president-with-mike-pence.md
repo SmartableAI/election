@@ -1,31 +1,34 @@
 ---
 category: news
-title: "Mike Pence: I'll Likely Never See Eye to Eye With Trump on Jan. 6"
-excerpt: "Former Vice President Mike Pence said Thursday that he wasn’t sure that he and former President Donald Trump would ever see “eye to eye” over what happened on Jan. 6 but that he would “always be proud of what we accomplished for the American people over the last four years."
-publishedDateTime: 2021-06-03T14:12:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-06-03/pence-returns-to-another-key-early-presidential-voting-state"
-webUrl: "https://www.bloomberg.com/news/articles/2021-06-03/pence-returns-to-another-key-early-presidential-voting-state"
+title: "Trump 2024: Will He Run For President With Mike Pence?"
+excerpt: "Donald Trump did not give a strong endorsement of running for president in 2024 alongside former Vice-President Mike Pence."
+publishedDateTime: 2021-06-06T17:33:00Z
+originalUrl: "https://www.ibtimes.com/trump-2024-will-he-run-president-mike-pence-3216611"
+webUrl: "https://www.ibtimes.com/trump-2024-will-he-run-president-mike-pence-3216611"
+ampWebUrl: "https://www.ibtimes.com/trump-2024-will-he-run-president-mike-pence-3216611?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-2024-will-he-run-president-mike-pence-3216611?amp=1"
 type: article
-quality: 120
+quality: 100
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Mike Pence
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYK25SbTr_pM/v1/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/16/vice-president-mike-pence-is-coming-out-from.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -167,6 +170,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Mike Pence: I'll Likely Never See Eye to Eye With Trump on Jan. 6"
+    excerpt: "Former Vice President Mike Pence said Thursday that he wasn’t sure that he and former President Donald Trump would ever see “eye to eye” over what happened on Jan. 6 but that he would “always be proud of what we accomplished for the American people over the last four years."
+    publishedDateTime: 2021-06-03T14:12:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-03/pence-returns-to-another-key-early-presidential-voting-state"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 120
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYK25SbTr_pM/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pence says he may never see “eye to eye” with Trump on Capitol riot"
     excerpt: "Former Vice President Mike Pence revealed that he and former President Trump may never see “eye to eye” about the Capitol riot. Nikole Killion reports."
     publishedDateTime: 2021-06-04T22:55:00Z
@@ -239,22 +256,6 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "Trump 2024: Will He Run For President With Mike Pence?"
-    excerpt: "Donald Trump did not give a strong endorsement of running for president in 2024 alongside former Vice-President Mike Pence."
-    publishedDateTime: 2021-06-06T17:33:00Z
-    webUrl: "https://www.ibtimes.com/trump-2024-will-he-run-president-mike-pence-3216611"
-    ampWebUrl: "https://www.ibtimes.com/trump-2024-will-he-run-president-mike-pence-3216611?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-2024-will-he-run-president-mike-pence-3216611?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 100
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/16/vice-president-mike-pence-is-coming-out-from.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Mike Pence Won’t Let Pro-Trump Mob Come Between Him and His President"
     excerpt: "The ex-veep made it clear he’s still fully Team Trump, though he and his former boss may never “see eye to eye” on January 6."
     publishedDateTime: 2021-06-04T17:24:00Z
@@ -297,6 +298,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "VirvIzFx5UECX4Ais4x7BInMycVHIqr4DHbPGz5pHGaL0T7BMLQO0Hq9VbelHIweJ7XDv+M/cW6g9G1xRqxhvBT0gHRlz/DFVN8lOkHnxbPrxrVTWPqAzTBC7BbiewR0x7CKj3ZOSvdmu83V9dD5o8GqopzzmZ+Asbup/Vu05JNsc0jwPfzMgfNVZfsFnqOkVQOo/5oHM0/IlaAj9NWF2I/Xjr4cjPkEbyO59yeKn6BvZkkB4LNe+wUUpmOqWMgNS7P/iwgbYlkOzSWg4QPR0Dsh2CIoJ/gC7dKGpq2Yz2ZHtPPqTAPdico8H1MEpw+kWIQXqR0GSMai0uXdSzFYRdAGYIbQdNdWfaSlg/Q9N2H4YFNdDIm6QbmTiskeGSnUu7+t9VTrJN8n9ql3XdKe4CexL5fXiN0QucFLCIukeB/wupzBQQtjPVdS/p5Jea3AmEP9vIyuIX1y5FLMg18TqnXCVjDLtxkADOv585eY/9eH9sPIMB3mFQAPVkP/B+xyV1NclBQkYWAr2CVXdM18wQ==;L1IF59FSwe1j8jpmibTHjA=="
+secured: "x6tZQZ8RokX+WEsaklAEj+vPnhf8mWolnoGiIu6AXnKmqwtjCT+WPOQg0bwCr/f6aAnc1I6CfvRWQKvqNbhYqHhybiB/b352kdKfrx91QsLj0tpaazfUXDoQELml/AuCSbVKDDc3+wAdn0PR6YFQwU/uYvetnu++wG2QwCVq/Yd0tdXhMzoR3j5tWwEQc+8XZEsfhPCHwbDKVFGV+Njn56tLbWw1HyVvCk8sFhXkDIP7wHyetS09CshiHae3kkRoVzHCDkw76NDL6+DRQoqc/bSlX3EKCRtzuzLI2rabuY/DHuatlrorquIR7osBTnDhSZvdePQPedlJLN2gaFJVRQFvPt7LMhm6ww5/TCV4YtM=;AXaTCLjHdQcfYHMe7AWjFw=="
 ---
 
