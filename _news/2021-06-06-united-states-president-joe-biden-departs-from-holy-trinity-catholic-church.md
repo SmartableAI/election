@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Biden: All called to make our country free, fair"
-excerpt: "President Joe Biden marks Memorial Day by reminding Americans that not all are called to \"make the ultimate sacrifice,\" but we are all called to make our nation \"free and fair.\" (May 31)"
-publishedDateTime: 2021-05-31T16:34:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/31/biden-all-called-make-our-country-free-fair/5280850001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/31/biden-all-called-make-our-country-free-fair/5280850001/"
+title: "United States President Joe Biden departs from Holy Trinity Catholic Church"
+excerpt: "United States President Joe Biden departs from Holy Trinity Catholic Church in Washington, DC on June 5, 2021. Photo by Chris Kleponis/UPI"
+publishedDateTime: 2021-06-06T00:17:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/881bdaddd251d3e369ca8ce9024e2b2b/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/881bdaddd251d3e369ca8ce9024e2b2b/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
 type: article
-quality: 105
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5d21195a-d3d0-42de-a3fb-9b7fe1cd2409_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://cdnph.upi.com/pv/upi/881bdaddd251d3e369ca8ce9024e2b2b/BIDEN-CHURCH.jpg"
+    width: 650
+    height: 433
     isCached: true
 
 related:
@@ -125,6 +121,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden: All called to make our country free, fair"
+    excerpt: "President Joe Biden marks Memorial Day by reminding Americans that not all are called to \"make the ultimate sacrifice,\" but we are all called to make our nation \"free and fair.\" (May 31)"
+    publishedDateTime: 2021-05-31T16:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/31/biden-all-called-make-our-country-free-fair/5280850001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5d21195a-d3d0-42de-a3fb-9b7fe1cd2409_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'Democracy itself is in peril': Biden delivers Memorial Day speech – video"
     excerpt: "Speaking at Arlington National Cemetery, the US president, joined by first lady Jill Biden, Vice-President Kamala Harris and her husband, paid tribute to America’s war dead"
     publishedDateTime: 2021-05-31T17:12:00Z
@@ -153,21 +163,7 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "United States President Joe Biden departs from Holy Trinity Catholic Church"
-    excerpt: "United States President Joe Biden departs from Holy Trinity Catholic Church in Washington, DC on June 5, 2021. Photo by Chris Kleponis/UPI"
-    publishedDateTime: 2021-06-06T00:17:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/881bdaddd251d3e369ca8ce9024e2b2b/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 53
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/881bdaddd251d3e369ca8ce9024e2b2b/BIDEN-CHURCH.jpg"
-        width: 650
-        height: 433
-        isCached: true
 
-secured: "U6ST+MtpxgAKOvrRNWn2zjtJdoCBeUVGu556UDFzifxEsFci2Yu63c/KFxyqU0f4hYdqecAPLfcCzw+74BEmIbQhNOf7jC/NdhQEvMJEdnxShix75vETEmbK6Qusda2b5bo0M7lDHmpRl2sVYYXp3XX8oRXaunt1npgHoIDVE0VLpYhz74F+NzgSK9z0S9USWM2NGTadTpPDVKDef9Wpp5qS1l50CMXQa//MqD2N2LXfya6x4SLa/68KAUCNUz00RHK1m/j7gqh+bfpC9UoxGnvbFjhWctaVh5Hl5CDg9Z5uFb3bEuy8DhPsFDxkXufvVwwzhADSYH1zMLooFSV6m6gMAOGPGjyOEfxuJEoHlFGT3ajljw0jZCxErCl7ynkD4Wfbwy5dOpD5od3CaPhTZ0KW18NDpW3ly0ihPwwQ93KSF21+w4D9+wdhpF0a6S8pb/qn/MhvGqwhJem6AWOTIwFLvFA/PGK/K4+WdOil00YV5H/jArqLauKvwjZ7SjWgJhSXVEMhbznNGxx5N4bOcQ==;q1va1EU5AXSjMVhhP8T8SQ=="
+secured: "0Jn3eEljRkKZ3A++pwqmjxjRJ9vOc0cDYJ/GaqEcoCFqbbs445pDcyD5J24+ldj74IiaZfqxmYVStA12UdbGKvKngrg4EPX0b9sLHS1CfbDAbcA/RE9n47o+mnEErJEjQAL74Nxu0jEWAHw1lhpJ0FHYmE2B2FhiM1LE6sipetyXlC07/iWjJKkenQogDNWMkYeIuWwFKnMrzq43/pMweVYA1tvgsIENBSdsTEaThpqVAmtRNbJGGKwg0oD9z9sVTWDZZp995SqdfQz5ykStN/JNCmtNXZddiyd3xOQ1a/cp0zU3RI6f+/xEZndRorQy0S7Gm6Ln67yaOYdcP+fuQDgcezCpg7h7tel2abuWKKA=;LkQNSibWW1Wfh57coUrdJw=="
 ---
 

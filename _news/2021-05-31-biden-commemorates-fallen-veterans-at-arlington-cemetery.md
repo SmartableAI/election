@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-commemorates-fal
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-commemorates-fallen-veterans-arlington-cemetery-78001615"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
     quality: 55
     images:
       - url: "https://cdnph.upi.com/pv/upi/b43143fa69e9271435129ebdaed4fbb4/BIDEN-ARLINGTON.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "United States President Joe Biden departs from Holy Trinity Catholic Church"
+    excerpt: "United States President Joe Biden departs from Holy Trinity Catholic Church in Washington, DC on June 5, 2021. Photo by Chris Kleponis/UPI"
+    publishedDateTime: 2021-06-06T00:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/881bdaddd251d3e369ca8ce9024e2b2b/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/881bdaddd251d3e369ca8ce9024e2b2b/BIDEN-CHURCH.jpg"
         width: 650
         height: 433
         isCached: true
