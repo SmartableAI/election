@@ -3,8 +3,8 @@ category: news
 title: "United States President Joe Biden departs from Holy Trinity Catholic Church"
 excerpt: "United States President Joe Biden departs from Holy Trinity Catholic Church in Washington, DC on June 5, 2021. Photo by Chris Kleponis/UPI"
 publishedDateTime: 2021-06-06T00:17:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/881bdaddd251d3e369ca8ce9024e2b2b/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/881bdaddd251d3e369ca8ce9024e2b2b/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4cbf302b2616c16b3668de34f9f109e3/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4cbf302b2616c16b3668de34f9f109e3/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/881bdaddd251d3e369ca8ce9024e2b2b/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4cbf302b2616c16b3668de34f9f109e3/BIDEN-CHURCH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -164,6 +164,6 @@ related:
         height: 433
         isCached: true
 
-secured: "rxbMvHryMG4SmSF/tvouCwUti3u8gXY4vZCw9b0MeHG783/bAj61PS1FRxDNpnHZOX+dr6b1/zLq/Gg/NBNzYlCAdzWQfQoIvHSs7ckJl+uclorD2aAzA1cnPtQBYiVGjyoizxi0CWQ4xvAozikx5bT7WvwQ96NxGiIgWtVqZE/21zdIbA2kOCoRLeb6mOMPMir4r2Km7F/ks2Np7WdKR4g4mVbob/0VeRfNTFIZXz7TUWRuTWYNWRciLcrJ0WPoH596yknv4/nqiv87rW42j+anXORt2K0yhhbBHQL63qVFQ/jcohAnf/oqN1RDGCS1ydiHpIRKjk2y/QM0MjcXwEQyZrWi86auckw6DyByQbxNdSSLoSaRdHp1xBJSGSXu4A01BofmkGlDB29BABJtQeooYEzTystyz5vHE+jXyA/6Tcib4uoTfcgCThO+dI78KKKZGydSlyYT/cmEqUJ/NW/u4Hc4CxJAUePuwIb98lnjpXm09J6lBaYGrsxSuXf0d2sT8gd/m1sfIzn8ImqHYg==;X/wKPho77hNOzOj/v9H5Tw=="
+secured: "fYHliHv+9Ons64suMcL7sf3NkhR+inkbpbdHvLdRBLbsK5dkS5bIMizFas4CAgcD/5lkIJOqAttZID1UBAuijizKgQwGN1DNc5v/R2Bxg4kXk5lto/P5+7TGtyd1MRVN4JhEkLGd5k4R1WgTNUs9ZjVyZyyScn+zOaRrVC9P0a5SvTa+DyWPGvfoAm+SlIusgkPhJ4Ji0tnyf+Z5tAQJp/MVHiZGxGxtd4Y2C26uFpM599Q49ripV5hbSVLSCLi2D+VlHzdkdTXKjJLEWEFGZgDXcKyDWR7L2BfaJxxKzi+ed5MIzv/DCpwJeZ7oSBByCfPq0+m9sGOOOeOjMG0RzTV0nYp2EEtO6yKoduAgdLY=;v6b6yp5QeSJKg8NTiaXDOA=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump returns to political stage with speech at North Carolina GOP convention"
+    excerpt: "The former president continued to repeat falsehoods about the 2020 election, sowing divisions in his own party."
+    publishedDateTime: 2021-06-06T02:28:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-to-return-to-political-stage-with-speech-at-north-carolina-gop-convention/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-to-return-to-political-stage-with-speech-at-north-carolina-gop-convention/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-to-return-to-political-stage-with-speech-at-north-carolina-gop-convention/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/06/fdbd3419-5b09-49fb-a498-d32f8dc467d1/thumbnail/1200x630/f6bcb7a155cd44386d8b60ed77087f80/gettyimages-1233293385.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump to speak at North Carolina GOP convention on June 5"
     excerpt: "Former President Donald Trump will speak at North Carolina’s annual state Republican Party convention next month, party officials announced Monday. The former president will speak in person at the June 5 Trump narrowly carried North Carolina in 2020 and held numerous events in the state toward the end of his campaign."
     publishedDateTime: 2021-05-17T19:24:00Z

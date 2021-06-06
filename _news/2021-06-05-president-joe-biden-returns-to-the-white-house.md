@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden returns to the White House"
-excerpt: "U.S. President Joe Biden gets into a limo after stepping off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
+excerpt: "U.S. President Joe Biden with first lady Dr. Jill Biden step off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
 publishedDateTime: 2021-06-04T18:26:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/1b38ca44290d367c6c73fd0cf62370f0/President-Joe-Biden-returns-to-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/1b38ca44290d367c6c73fd0cf62370f0/President-Joe-Biden-returns-to-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/26655439e26efcec96d19c20489ada6e/President-Joe-Biden-returns-to-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/26655439e26efcec96d19c20489ada6e/President-Joe-Biden-returns-to-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/1b38ca44290d367c6c73fd0cf62370f0/USA-WHITE-HOUSE-BIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/26655439e26efcec96d19c20489ada6e/USA-WHITE-HOUSE-BIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -150,6 +150,6 @@ related:
         height: 641
         isCached: true
 
-secured: "4YHwAEvdbdZ+rKQuxnS29o34yYIuXQIbgvcmU0VhpkNjFfaD/JJsdxxPppch26R5V+MbaGB9cUsDJiJT8mJThAc5CR8oZKb3HTC7OqJw18vnTG+NIHTvgjntP9NFOqgX0WJehB0+N2P9IUQXhwFqZQSVReYDLiJyHd5I7SgTN8dtvuCf7soL7zWsMHpKMHTu23zOzYqIFjsvjy1Vw7w1JKjChvBtX3pHIvDKVY9bpXYrXtfYbkTrBcwjNsOw9kmY+d4t3wpQOrXS89/Tndg3SQqem9mco2JpThWAyZ2DvzFY0m+Ewide5VWO3dlB1+DCBn6R9sp9xELHsJJTyzMD9FdL5RDkkYj/A35+VlijkCY=;ZAnH5McVwNeSX5dsa2PTVw=="
+secured: "evwDQmqpuQblwAi4eOy/64KvCgyGt7Oo8XtNH9hqkbk9LaZRfH1unpekUDI9Q8bpCFM37npX/ceWVWmmc6D47y1/y9hf19okY8OcO5tNz6FUk1WJJlD2SGLD/QMvNNcCZENNnH8076QPR6oaHBSQWYe45L6jUeYz0dNFmT0kFyrXLyAEcZLeqnxGQ6En7ukKic9ot48K+vIwtetI56TXBEbRKDreZxBgeuuvhsIAt/pn6n5y1z7UmyWL7bU6l2sG9W4ZgRR/tB5zBYpMqJh6drBTO2RKorJrvyJGQ+AB7KhQ8M9ei/nR4EmmQbVKL2wPAuhfDuIVSx6fKmSrVcxSjpJLb8G4cSjwpTbbjJY3aY8=;c+LQ0/ZCpfyWORCHzfk0qw=="
 ---
 

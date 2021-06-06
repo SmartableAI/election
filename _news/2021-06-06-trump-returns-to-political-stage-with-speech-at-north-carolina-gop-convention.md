@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump to speak at annual GOP convention in North Carolina"
-excerpt: "Donald Trump is coming to the Republican Party’s annual convention in North Carolina, a state whose electoral votes he won in 2016 and 2020. The former president was scheduled to address convention-goers Saturday in Greenville."
-publishedDateTime: 2021-06-05T23:05:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html?outputType=amp"
+title: "Trump returns to political stage with speech at North Carolina GOP convention"
+excerpt: "The former president continued to repeat falsehoods about the 2020 election, sowing divisions in his own party."
+publishedDateTime: 2021-06-06T02:28:00Z
+originalUrl: "https://www.cbsnews.com/news/trump-to-return-to-political-stage-with-speech-at-north-carolina-gop-convention/"
+webUrl: "https://www.cbsnews.com/news/trump-to-return-to-political-stage-with-speech-at-north-carolina-gop-convention/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/trump-to-return-to-political-stage-with-speech-at-north-carolina-gop-convention/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-to-return-to-political-stage-with-speech-at-north-carolina-gop-convention/"
 type: article
-quality: 125
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/bO4kWIgxRgGBYxLHUSlWI3gZqGA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2SHWT4U4IVLZBPPM4PUFE4NBHI.aspx"
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/06/fdbd3419-5b09-49fb-a498-d32f8dc467d1/thumbnail/1200x630/f6bcb7a155cd44386d8b60ed77087f80/gettyimages-1233293385.jpg"
     width: 1200
-    height: 800
+    height: 630
     isCached: true
 
 related:
@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump to speak at annual GOP convention in North Carolina"
+    excerpt: "Donald Trump is coming to the Republican Party’s annual convention in North Carolina, a state whose electoral votes he won in 2016 and 2020. The former president was scheduled to address convention-goers Saturday in Greenville."
+    publishedDateTime: 2021-06-05T23:05:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-gop-convention-nc-20210605-4jag5gs5nvgffp265pacnrqg3u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bO4kWIgxRgGBYxLHUSlWI3gZqGA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2SHWT4U4IVLZBPPM4PUFE4NBHI.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump to speak at Republican event in North Carolina"
     excerpt: "Former President Donald Trump is set to make a rare public appearance at a Republican event held in North Carolina this Saturday night, where conservatives are expected to plan for their party’s future."
     publishedDateTime: 2021-06-05T22:57:00Z
@@ -76,22 +92,6 @@ related:
     quality: 125
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/05/64004832-71bb-4bb6-98fe-bd6b3f663fad/thumbnail/1200x630/a811b2041a295754665d007db9ef952f/ruffini-729168-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump returns to political stage with speech at North Carolina GOP convention"
-    excerpt: "The former president continued to repeat falsehoods about the 2020 election, sowing divisions in his own party."
-    publishedDateTime: 2021-06-06T02:28:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-to-return-to-political-stage-with-speech-at-north-carolina-gop-convention/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-to-return-to-political-stage-with-speech-at-north-carolina-gop-convention/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-to-return-to-political-stage-with-speech-at-north-carolina-gop-convention/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/06/fdbd3419-5b09-49fb-a498-d32f8dc467d1/thumbnail/1200x630/f6bcb7a155cd44386d8b60ed77087f80/gettyimages-1233293385.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -137,6 +137,6 @@ related:
       domain: thestate.com
     quality: 35
 
-secured: "CkLK357HUjxCxN/5RIOLBj5GzQQ+EVSGG3U8IdEKyPN3aX5Icg0Teq/k5WATfUtEOX6j3qaRG/CGO15YNv9sY9M9GGg5xPqTaQ07t7KHHvuU4rhUYzUOSH7bp+dDUnclqfW/JQJSgZx64N4HJIPxXN/meA0KQWsO656kgiVdZO681gOrxrFezKIC5hXjchgfic9q4nYp4L4XYQnBIg9vuHThI2BRW4T+Ubn/qK4tDX5NFErk9TkzfB2EepdidlmJXQvpOKZ8nGiF3la2nnbxjBh+m0vTX35yJTsLlKP7KLhb9x+m+37XQ62vAKKBu1dIZ7ohdeT8Wjr6HdabyVO8NHZtcBPlAhs3INiJrEcIY+kepKZ5Uychbpt8uJA2TkcskAqG5HRY8H3P8H99DdbecL4RqHiSeXMvD0P7IEDxGXYxG+NZyo69fTF0F0rDD5TdF/IuRu4DIgGdL2yBMgqTZOCe6hJEA/u5jQHCxurKaEOaaBoZpeYAs8MBHT5d5NbypXhlQPEfd85daUzRXMNmSQ==;MyaD8hFDS/6HznuYt528BA=="
+secured: "mDG5YItiB4SQuRYjnkw1XgUKy3QqZ8k8xg5yt7YZQS6AMHRwUYi9Gn2ecWngBTu+KKLTTh56CzpGMFD79dxGEYiXwaec/6ti4i+CzrTOk+EDSqt/6Wt68LMkYLK9mDP9xG/tQ1+jqR/G4/JPJvVlFBK1/K6F0Pfxcnx4ER8Rn4G0TA/qvW+y4DP9SHUJXG1L2e1Ne230VRznDAyuLNiNRzP/s53FMCsbEbZa3KW7rvXU424v+lJUabbFGW7/lZLuF9DcyEmqNEbmmL/wVn1i8dPna1twdyYslhnkYr0soUlFqRZeL+FPViR+WeiDRiCfwWFa22sc1jh37cEPF2NluH37TBoGdRPLy6aOFcEnWFU=;rQNz0thFJuI0RZO83O15PA=="
 ---
 
