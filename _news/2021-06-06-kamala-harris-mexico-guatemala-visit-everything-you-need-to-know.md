@@ -1,23 +1,35 @@
 ---
 category: news
-title: "Joe Biden, Budget Buster"
-excerpt: "RealClearPolitics"
-publishedDateTime: 2021-05-30T11:14:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/05/30/joe_biden_budget_buster_543949.html"
-webUrl: "https://www.realclearpolitics.com/2021/05/30/joe_biden_budget_buster_543949.html"
+title: "Kamala Harris' Mexico, Guatemala visit: Everything you need to know"
+excerpt: "Vice President Kamala Harris on Sunday will leave for a two-day trip to Mexico and Guatemala as part of her efforts to lead diplomatic talks to tackle what the administration describes as “root causes” of the crisis at the southern border"
+publishedDateTime: 2021-06-06T10:47:24Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oc0ZF2SFOhY/kamala-harris-mexico-guatemala-visit-everything-you-need-to-know"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oc0ZF2SFOhY/kamala-harris-mexico-guatemala-visit-everything-you-need-to-know"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-mexico-guatemala-visit-everything-you-need-to-know.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-mexico-guatemala-visit-everything-you-need-to-know.amp"
 type: article
-quality: 45
+quality: 185
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
+  - Kamala Harris
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/136ba69f-8303-4852-a824-660196e9af3d/001355c9-750e-4f9b-92c6-6e88b2207c56/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
 
 related:
   - title: "Biden, Harris packing their bags this week for first foreign trips since taking office"
@@ -65,22 +77,6 @@ related:
     quality: 185
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff76d740-0d1e-4aac-883a-6d397c5dfb5b/b920e948-c04c-4abf-80cf-e72e79ef0d9d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris' Mexico, Guatemala visit: Everything you need to know"
-    excerpt: "Vice President Kamala Harris on Sunday will leave for a two-day trip to Mexico and Guatemala as part of her efforts to lead diplomatic talks to tackle what the administration describes as “root causes” of the crisis at the southern border"
-    publishedDateTime: 2021-06-06T10:47:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oc0ZF2SFOhY/kamala-harris-mexico-guatemala-visit-everything-you-need-to-know"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-mexico-guatemala-visit-everything-you-need-to-know.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-mexico-guatemala-visit-everything-you-need-to-know.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/136ba69f-8303-4852-a824-660196e9af3d/001355c9-750e-4f9b-92c6-6e88b2207c56/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -176,6 +172,15 @@ related:
         width: 850
         height: 636
         isCached: true
+  - title: "Joe Biden, Budget Buster"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-05-30T11:14:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/30/joe_biden_budget_buster_543949.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
   - title: "Kamala Harris' Naval Gazing Speech"
     excerpt: "On this Memorial Day weekend, what does Vice President Kamala Harris decide to talk about in front of the Naval Academy's graduating class? Solar power. Read Full Article »"
     publishedDateTime: 2021-05-30T11:15:00Z
@@ -186,6 +191,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "kjBVPBuNfHTKBls+tmgLYLKiCbqjbE2LREw9XvEVn3oItkBbWsMh9jyXwvt+FT1kmjwrWHjiDFDd7dkX/PJkUSaOFn2bKeV1LeWz5VPphINWAHX/LmRzk3TWvfIvqhd+6SUQ78/sf6OhfGZkkQuM1mNxzkOD0ZzW+2niWkivAlplOBYFgPNFBUq4sHOfPn3uDuAgM+7L2bheBA5U9GJ/ovwtmL+U4mdQjxy8zk6XB6ztfrANWUa2ocKRIqTATySmwtj6q5Hsm/OHsu899HcT0j3Kq4D9n6AYx6uasOkxFJayCmtaNV0LPysSTss+Pu0pEAwLBlyLBUpk7I+I9DKdTJsfadG7BbSmnnUHP5wp1j8=;6In162lPQvG311RQdSTAVA=="
+secured: "jyAMhj7JtzNtfyQtB56GrpANYwW2t3kLf66SuZGMBopvOGXe/u1ezMX76Ay34mTWNQgUhHxBBfkiIEG7QnWGgKmPyDMZPG5pJf7QCIMY49EZtYzuiKVD18N24NS2id5uaAWd+l9Q/5jjrRBLas72b7bEkH1njJC9R2u1fHgVPvDaJF48VbNPjxSwfKCMHcaEPLxY3nns+gFR/OFzwMCoY8aPxxCjyW0oCnn1KDtLc51G3jPzoNSafPGqKTf2NqLLqSc56ufWgAiq0fJLTmVXhTICoYvsRHP6HMvmAIR9CYOG+qw6gpz/iDs6SiCHDPmGJEwl4IL7HARpC/qyRrSlo+J8FoJpzel0+f0rr8tT7ps=;YR3ZVds9r8NZ+rITHoWdjQ=="
 ---
 

@@ -62,9 +62,9 @@ related:
         height: 1080
         isCached: true
   - title: "Biden rejects new GOP infrastructure offer"
-    excerpt: "Top News Biden rejects new GOP infrastructure offer. Posted [NFA] U.S. President Joe Biden shot down a new proposal from the main Republican negotiator on infrastructure, Senator"
+    excerpt: "Politics Biden rejects new GOP infrastructure offer. Posted [NFA] U.S. President Joe Biden shot down a new proposal from the main Republican negotiator on infrastructure, Senator"
     publishedDateTime: 2021-06-05T20:14:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEG4QH27"
+    webUrl: "https://www.reuters.com/video/watch/biden-rejects-new-gop-infrastructure-off-id730966731?chan=6g5ka85"
     type: article
     provider:
       name: Reuters

@@ -3,8 +3,8 @@ category: news
 title: "United States President Joe Biden departs from Holy Trinity Catholic Church"
 excerpt: "United States President Joe Biden departs from Holy Trinity Catholic Church in Washington, DC on June 5, 2021. Photo by Chris Kleponis/UPI"
 publishedDateTime: 2021-06-06T00:17:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4cbf302b2616c16b3668de34f9f109e3/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4cbf302b2616c16b3668de34f9f109e3/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/881bdaddd251d3e369ca8ce9024e2b2b/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/881bdaddd251d3e369ca8ce9024e2b2b/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4cbf302b2616c16b3668de34f9f109e3/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/881bdaddd251d3e369ca8ce9024e2b2b/BIDEN-CHURCH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -164,6 +164,6 @@ related:
         height: 433
         isCached: true
 
-secured: "fYHliHv+9Ons64suMcL7sf3NkhR+inkbpbdHvLdRBLbsK5dkS5bIMizFas4CAgcD/5lkIJOqAttZID1UBAuijizKgQwGN1DNc5v/R2Bxg4kXk5lto/P5+7TGtyd1MRVN4JhEkLGd5k4R1WgTNUs9ZjVyZyyScn+zOaRrVC9P0a5SvTa+DyWPGvfoAm+SlIusgkPhJ4Ji0tnyf+Z5tAQJp/MVHiZGxGxtd4Y2C26uFpM599Q49ripV5hbSVLSCLi2D+VlHzdkdTXKjJLEWEFGZgDXcKyDWR7L2BfaJxxKzi+ed5MIzv/DCpwJeZ7oSBByCfPq0+m9sGOOOeOjMG0RzTV0nYp2EEtO6yKoduAgdLY=;v6b6yp5QeSJKg8NTiaXDOA=="
+secured: "xSCbf6cr9aE4zzfw3daF846oU6U16BZYivol2mK4jvfGHUv8l7Q90VilcLLeTU8LQoRFzEmLbiX9VS9l8L+SZp0KNzZRdNKcvQz0DivNlfXmGS44e9Rd2VcyYW2E/mD8hD6m4dtm54ulIDroiZ/2CRc4RlER4+r+Mqfoz6PV9E2S6g8MEGYt61NgdaBOnTAfET9a5mcG3B9es5EAhtguu13NOjOoO61JxQiDyZyNC5gAJhmSsZPNurPeB/iWA6/UKsmkrRIV+PVus7g7Br5coWw8/F2ZSaJopkERIvS/drY34LhbW5jFQDpnSpamZHwR4vMpXC64xsoC+JJuQoFMEUGgxO05GRxL/XsrujGtUcw=;AVQDItw1X9Sc8ynTdHLJOg=="
 ---
 

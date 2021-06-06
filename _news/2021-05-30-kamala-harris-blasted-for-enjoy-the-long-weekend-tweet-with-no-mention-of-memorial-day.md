@@ -76,6 +76,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris' Mexico, Guatemala visit: Everything you need to know"
+    excerpt: "Vice President Kamala Harris on Sunday will leave for a two-day trip to Mexico and Guatemala as part of her efforts to lead diplomatic talks to tackle what the administration describes as “root causes” of the crisis at the southern border"
+    publishedDateTime: 2021-06-06T10:47:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oc0ZF2SFOhY/kamala-harris-mexico-guatemala-visit-everything-you-need-to-know"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-mexico-guatemala-visit-everything-you-need-to-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-mexico-guatemala-visit-everything-you-need-to-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/136ba69f-8303-4852-a824-660196e9af3d/001355c9-750e-4f9b-92c6-6e88b2207c56/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris pays tribute to vets after taking heat for earlier Memorial Day tweet"
     excerpt: "Vice President Harris paid tribute to fallen service members on Sunday after taking heat for a Memorial Day weekend message that neglected to mention veterans."
     publishedDateTime: 2021-05-30T12:41:00Z
