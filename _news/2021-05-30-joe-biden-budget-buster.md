@@ -20,162 +20,155 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Biden keeps saying ‘follow the science,’ but how often does he?"
-    excerpt: "It’s a line President Biden used on the 2020 presidential campaign trail and has returned to many times, including in nationally televised remarks after taking office and in March to staffers at the Centers for Disease Control and Prevention, particularly when addressing the coronavirus pandemic or climate"
-    publishedDateTime: 2021-05-23T18:24:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zV1OTKEsr_w/biden-keeps-saying-follow-the-science-but-how-often-does-he"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-saying-follow-the-science-but-how-often-does-he.amp"
+  - title: "Biden, Harris packing their bags this week for first foreign trips since taking office"
+    excerpt: "After more than four months in office, President Joe Biden and Vice President Kamala Harris are both planning this week to leave the U.S. and take the first foreign trips of their administration."
+    publishedDateTime: 2021-06-06T04:53:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_1JAu3opITA/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 192
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13a2b366-5701-45a7-abcd-a9e8ad9b4c50/ee531cb7-ad01-45f9-a3ad-b5e69ea6dbcf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d804ca7-92c4-4052-92f1-2c73cbe36b5c/0a7739a1-8be0-4390-891e-d5b2a298df51/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden doubling FEMA funding for this year's extreme weather season"
-    excerpt: "Saying that his administration will \"spare no expense,\" President Biden on Monday announced that he is doubling funding for the Federal Emergency Management Agency's extreme weather preparations."
-    publishedDateTime: 2021-05-24T19:10:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H_mLgVmhWwE/biden-doubling-fema-funding-extreme-weather-season"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doubling-fema-funding-extreme-weather-season.amp"
+  - title: "Biden boosts Space Force, a Trump legacy, despite fiscal warning signs"
+    excerpt: "Despite recent budget troubles and tepid military spending elsewhere, the Biden administration has decided to bolster the Space Force, which President Trump touted often while in office."
+    publishedDateTime: 2021-06-04T17:52:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lqrPXKCcbQk/biden-boosts-space-force-trump-legacy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-boosts-space-force-trump-legacy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-boosts-space-force-trump-legacy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "China toying with Biden administration at every turn"
-    excerpt: "China is unafraid to take digs at the Biden administration."
-    publishedDateTime: 2021-05-28T10:50:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7dF9T8mADDs/china-biden-administration-pandemic-origin-foreign-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/china-biden-administration-pandemic-origin-foreign-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-biden-administration-pandemic-origin-foreign-policy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a1c8f9e-c051-40cf-849e-37ee5e7cdc7b/64405276-9364-4e75-8bce-123d957792c3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81fc7535-244e-4fa9-a0dd-64b86e840e26/01e03745-7cfa-494c-9050-32157a24947e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden nominee made millions at NCAA while arguing against paying players"
-    excerpt: "President Biden’s nominee for deputy secretary of the Department of Veterans Affairs (VA) made nearly millions at the National Collegiate Athletic Association (NCAA) while arguing against paying college athletes."
-    publishedDateTime: 2021-05-17T21:57:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-4hiRwkxFz4/biden-nominee-ncaa-pay-college-athletes"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-ncaa-pay-college-athletes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-ncaa-pay-college-athletes.amp"
+  - title: "Vice President Kamala Harris under fire for 'disrespectful' tweet"
+    excerpt: "Vice President Kamala Harris came under fire Saturday for posting a tweet about Memorial Weekend, but without mentioning the significance of the weekend. "
+    publishedDateTime: 2021-05-29T23:07:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/myzcoIl_fcQ/vice-president-kamala-harris-under-fire-for-disrespectful-tweet"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-president-kamala-harris-under-fire-for-disrespectful-tweet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-kamala-harris-under-fire-for-disrespectful-tweet.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0916bb05-88a2-4f06-af1b-c0914f4a8a81/4ab6e42b-1bf2-4e13-a08a-5403da397d36/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff76d740-0d1e-4aac-883a-6d397c5dfb5b/b920e948-c04c-4abf-80cf-e72e79ef0d9d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Sen. Cotton: Biden has been 'rolling over for aggressors around the world'"
-    excerpt: "Sen. Tom Cotton, R-Ark., argued during an exclusive interview with \"Sunday Morning Futures\" that President Biden has been “rolling over for aggressors around the world,” including China, Russia and Iran, adding that recently the president “seemed to draw moral equivalence between Israel and Hamas when"
-    publishedDateTime: 2021-05-23T19:33:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gRfrqjG4MkI/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-biden-has-been-rolling-over-for-aggressors-around-the-world.amp"
+  - title: "Kamala Harris pays tribute to vets after taking heat for earlier Memorial Day tweet"
+    excerpt: "Vice President Harris paid tribute to fallen service members on Sunday after taking heat for a Memorial Day weekend message that neglected to mention veterans."
+    publishedDateTime: 2021-05-30T12:41:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 179
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden faces mounting pressure on abortion ahead of budget battle, SCOTUS case"
-    excerpt: "President Biden is facing mounting pressure from both sides of the abortion debate as the federal government prepares to make potentially game-changing decisions on the issue."
-    publishedDateTime: 2021-05-27T20:40:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QptGGrySJa0/biden-abortion-budget-scotus-battles"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-abortion-budget-scotus-battles.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-abortion-budget-scotus-battles.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ca0e4b65-a327-44c4-a48d-8094d00ea10d/f81b1ccc-858a-4184-ab44-38a6553c836b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7a6ae93-cc8d-425b-bb14-6992656b9efe/6e55c3de-c62b-4139-85ef-d8928b4f753a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Hunter Biden shopped reality TV show in 2019 as dad ran for president: new book"
-    excerpt: "President Biden's son Hunter Biden pitched television producers on his own reality show during the summer of 2019, according to a new book."
-    publishedDateTime: 2021-05-25T20:16:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PCoLgtBF13g/hunter-biden-joe-president-campaign-2020-battle-for-the-soul"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-joe-president-campaign-2020-battle-for-the-soul.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-joe-president-campaign-2020-battle-for-the-soul.amp"
+  - title: "Rep. Brady on border crisis: Harris in denial; influx of migrant kids making foster care system strained"
+    excerpt: "Texas GOP Rep. Kevin Brady said the border crisis is \"growing worse\" and the influx of unaccompanied migrant children is making the already tough foster care system even \"more cruel\" for American children."
+    publishedDateTime: 2021-06-04T19:23:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iLXn-kVlQWw/brady-border-crisis-harris-denial-migrant-kids-foster-care-system"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 148
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6679eccc-96b1-4ce3-83f7-fa70660277b5/d0f7098a-504f-4d58-880b-025796475a38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Ex-Clinton aide says Biden's Supreme Court commission is 'doomed from the start,' calls for court packing"
-    excerpt: "A former aide to failed presidential candidate Hillary Clinton called for packing the Supreme Court and said President Biden’s commission to explore that possibility is \"doomed from the start.\""
-    publishedDateTime: 2021-05-18T16:37:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GkGsFXKDy38/biden-supreme-court-commission-doomed-brian-fallon"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-doomed-brian-fallon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-doomed-brian-fallon.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d7f4577-3f6a-49ce-984a-65fae547e78d/f58be55e-ac30-4c11-a8c8-1dc05dd8af44/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Despite CDC mask guidance, Biden admin may still issue workplace mandate"
-    excerpt: "The Occupational Safety and Health Administration may still issue a workplace mask mandate consistent with a January executive order from President Biden despite new Centers for Disease Control and Prevention guidelines that vaccinated Americans do not need to wear masks indoors."
-    publishedDateTime: 2021-05-24T17:33:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aojlNQN0DhU/biden-cdc-mask-guidance-workplace-possible-mandate"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 154
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/mask_mandate_istock.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/kevin-brady-Getty.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "How Rep. Jayapal Views the Biden Administration"
-    excerpt: "As Joe Biden laid out a grand vision for his Presidency, in a speech before Congress late last month, cameras caught Representative Pramila Jayapal standing and applauding. Behind her face mask, she later told an aide,"
-    publishedDateTime: 2021-05-21T13:44:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/21/how_rep_jayapal_views_the_biden_administration_543205.html"
+  - title: "Kamala Harris pays tribute to fallen military after tone-deaf tweet"
+    excerpt: "Kamala Harris posted a more fitting tribute to America’s military Sunday, a day after drawing online heat for telling her fellow countrymen to “enjoy the long weekend.”"
+    publishedDateTime: 2021-05-30T20:37:00Z
+    webUrl: "https://nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/"
+    ampWebUrl: "https://nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-091.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "CNN: Kamala Harris' team 'dismayed' by being held responsible for border crisis"
+    excerpt: "Vice President Kamala Harris is frustrated by her border role being “mischaracterized” by Republicans and some media outlets, CNN reported Tuesday, saying Harris was not in charge of stemming border crossings themselves but rather “root causes” of migration."
+    publishedDateTime: 2021-06-01T16:01:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-kamala-harris-dismayed-held-responsible-border"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-kamala-harris-dismayed-held-responsible-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-kamala-harris-dismayed-held-responsible-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24af3547-95ff-46d5-a121-a8739aa4bdc1/b55ae970-4a39-4dfa-bcdd-0d3bc0d4e008/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris blasted for ‘enjoy the long weekend’ tweet, with no mention of Memorial Day"
+    excerpt: "Vice President Kamala Harris sent a tweet telling Americans to “enjoy the long weekend” and disregard America’s national day of mourning, Memorial day."
+    publishedDateTime: 2021-05-30T00:44:00Z
+    webUrl: "https://nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/"
+    ampWebUrl: "https://nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/29/kamala-harris-ignores-memorial-day-in-enjoy-the-long-weekend-tweet/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 126
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/KamalaHarris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden: I Am Tasking VP Kamala Harris With Voting Rights, \"Among Her Many Other Responsibilities\""
+    excerpt: "President Joe Biden said on Tuesday \"we're going to overcome again\" when he announced he will be tasking Vice President Kamala Harris with issues tied to voting rights. \"To signify the importance of our efforts,"
+    publishedDateTime: 2021-06-01T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/01/biden_i_am_tasking_vp_kamala_harris_with_voting_rights_among_her_many_other_responsibilities.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
+    quality: 67
     images:
-      - url: "https://assets.realclear.com/images/54/543854_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://assets.realclear.com/images/54/544712.jpg"
+        width: 850
+        height: 636
         isCached: true
+  - title: "Kamala Harris' Naval Gazing Speech"
+    excerpt: "On this Memorial Day weekend, what does Vice President Kamala Harris decide to talk about in front of the Naval Academy's graduating class? Solar power. Read Full Article »"
+    publishedDateTime: 2021-05-30T11:15:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/30/kamala_harris_naval_gazing_speech_543925.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "kjBVPBuNfHTKBls+tmgLYLKiCbqjbE2LREw9XvEVn3oItkBbWsMh9jyXwvt+FT1kmjwrWHjiDFDd7dkX/PJkUSaOFn2bKeV1LeWz5VPphINWAHX/LmRzk3TWvfIvqhd+6SUQ78/sf6OhfGZkkQuM1mNxzkOD0ZzW+2niWkivAlplOBYFgPNFBUq4sHOfPn3uDuAgM+7L2bheBA5U9GJ/ovwtmL+U4mdQjxy8zk6XB6ztfrANWUa2ocKRIqTATySmwtj6q5Hsm/OHsu899HcT0j3Kq4D9n6AYx6uasOkxFJayCmtaNV0LPysSTss+Pu0pEAwLBlyLBUpk7I+I9DKdTJsfadG7BbSmnnUHP5wp1j8=;6In162lPQvG311RQdSTAVA=="
 ---

@@ -1,0 +1,149 @@
+---
+category: news
+title: "Trump dwells on 2020 during North Carolina event aimed at helping Republicans in 2022"
+excerpt: "Former President Donald Trump dashed the hopes of Republicans on Saturday who spent the weeks leading up to his public reemergence encouraging him to keep his focus on policy and Democratic shortcomings, rather than re-litigating his 2020 election loss once again.\n    \n"
+publishedDateTime: 2021-06-06T03:15:45Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7PHzhtyJph4/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7PHzhtyJph4/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/donald-trump-north-carolina-speech/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/donald-trump-north-carolina-speech/index.html"
+type: article
+quality: 168
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210605205313-01-donald-trump-north-carolina-gop-0605-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Fact-checking Sidney Powell's claim Trump could be reinstated"
+    excerpt: "Months into President Joe Biden's first term, supporters of former President Donald Trump are still touting the \"big lie\" that Trump actually won the 2020 election. One of the prominent supporters of these theories is Trump's former lawyer Sidney Powell, who is facing a $1.3 billion defamation lawsuit"
+    publishedDateTime: 2021-06-01T20:49:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J5FpAVwaiHA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123162610-sidney-powell-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New York Times: Trump's chief of staff Mark Meadows pushed DOJ to investigate baseless election fraud claims"
+    excerpt: "Mark Meadow, former President Donald Trump's White House chief of staff, pushed the Department of Justice in his boss' last days in office to investigate unproven conspiracy theories and fraud claims about the 2020 presidential election, the New York Times reported Saturday.\n    \n"
+    publishedDateTime: 2021-06-05T18:49:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nboq0bFHcIQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/mark-meadows-doj-2020-election-fraud/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/mark-meadows-doj-2020-election-fraud/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210605132906-restricted-file-mark-meadows-october-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Deposition of Trump Org CFO looms in DC lawsuit accusing Trump 2017 inauguration committee of abusing funds"
+    excerpt: "Documents due in DC Superior Court on Friday could clear the way for the Trump Organization's chief financial officer to be deposed as part of a DC attorney general lawsuit that alleges former President Donald Trump's 2017 inaugural committee abused non-profit funds.\n    \n"
+    publishedDateTime: 2021-05-28T00:54:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AEjAQwIpVNg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/trump-organization-allen-weisselberg-deposition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/trump-organization-allen-weisselberg-deposition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180824110948-allen-weisselberg-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Judge says Trump's 'steady drumbeat' of the Big Lie could continue to inspire his supporters to take up arms"
+    excerpt: "A federal judge on Wednesday wrote that Donald Trump's \"Big Lie\" that the 2020 election was stolen from him could still inspire some of the former President's supporters to take up arms, as they did in January during the deadly US Capitol insurrection.\n    \n"
+    publishedDateTime: 2021-05-27T00:32:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oLL7Q627pco/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/26/politics/trump-supporters-big-lie-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/trump-supporters-big-lie-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Arizona Republican who ordered election audit touted Trump phone call, Giuliani support in emails"
+    excerpt: "Karen Fann, the state Senate president, also told a constituent that \"Biden won,\" according to the messages obtained and released by a watchdog group."
+    publishedDateTime: 2021-06-05T01:40:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/arizona-republican-who-ordered-election-audit-touted-trump-phone-call-n1269718"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269718"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269718"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 137
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480512/210604-arizona-maricopa-audit-ac-702p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Indictment against former Trump adviser Bannon is dismissed"
+    excerpt: "The onetime chief strategist, accused of defrauding donors in a $25 million fund to build a wall along the U.S. border, had been pardoned by the president."
+    publishedDateTime: 2021-05-26T04:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/indictment-against-former-trump-adviser-bannon-dismissed-n1268588"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268588"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268588"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_34/2288866/180110-steve-bannon-ac-727p_e8b0300a10c51c63a114531d87cb7ac8.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "George P. Bush is running for attorney general in Texas — by courting Trump."
+    excerpt: "The younger Mr. Bush is taking on Ken Paxton, who filed an unsuccessful lawsuit contesting election results in four states that the former president lost in 2020."
+    publishedDateTime: 2021-06-03T16:52:00Z
+    webUrl: "https://www.nytimes.com/2021/06/03/us/politics/george-p-bush-texas-attorney-general.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/03/us/politics/george-p-bush-texas-attorney-general.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/03/us/politics/george-p-bush-texas-attorney-general.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/03/us/03new-washington-briefing-Bush/03new-washington-briefing-Bush-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "zc/KfUPb8+7+iPfIDr39iNufdwhkwnBwo8RlW1GrcDDyMke6ruh52Snv0KL+CXMMwhvLjCgM0Rxc2ZbMrRhpmapuKOqO7Qw1JoKT2hwL5/x9XKqozjILUoEZr+KLa6X0NQf/GzgubyPh5AGHFRe8mpAZ7/5vF8J4purY76qjycywRz6UPNMhpqjvYmWxuiHC4ZFq3+PW5LLUQzCwUd0CJvRTDIiIOGESS6VG/ClIJzx6dJtGoerFu7I7xMBN/RQsYiARVuRKZvSBmSn++vqTaNhVisMS9uRhs3yakP9n0UoEki945Z1v8OkmsmPgcsSlVC2SrSCIfaMVUQBekWvBAGncJwiac20MrrV8YhjOACM=;IYvFicXgsyZOHfiowY0UTw=="
+---
+

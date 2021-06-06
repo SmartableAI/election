@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguratio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210605132906-restricted-file-mark-meadows-october-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump dwells on 2020 during North Carolina event aimed at helping Republicans in 2022"
+    excerpt: "Former President Donald Trump dashed the hopes of Republicans on Saturday who spent the weeks leading up to his public reemergence encouraging him to keep his focus on policy and Democratic shortcomings, rather than re-litigating his 2020 election loss once again.\n    \n"
+    publishedDateTime: 2021-06-06T03:15:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7PHzhtyJph4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/donald-trump-north-carolina-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/donald-trump-north-carolina-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210605205313-01-donald-trump-north-carolina-gop-0605-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

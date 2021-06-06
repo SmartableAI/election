@@ -88,16 +88,16 @@ related:
         height: 700
         isCached: true
   - title: "Vice President Kamala Harris Speaks About High Speed Internet Access"
-    excerpt: "U.S. Secretary of Commerce Gina M. Raimondo listens as United States Vice President Kamala Harris speaks during an event about high speed internet at the White House on Thursday, June 3, 2021 in Washington,"
+    excerpt: "United States Vice President Kamala Harris departs following an event about high speed internet at the White House on Thursday, June 3, 2021 in Washington, DC. Photo by Alex Edelman/UPI"
     publishedDateTime: 2021-06-03T18:46:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e7e371e04886b173d98f84a8fda54f6b/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/617e394aa5c0f79d9a920d1092d758af/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/e7e371e04886b173d98f84a8fda54f6b/HARRIS-INTERNET-SPEED.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/617e394aa5c0f79d9a920d1092d758af/HARRIS-INTERNET-SPEED.jpg"
         width: 650
         height: 433
         isCached: true

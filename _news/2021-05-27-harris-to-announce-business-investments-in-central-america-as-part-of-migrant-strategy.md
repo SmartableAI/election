@@ -64,22 +64,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris pays tribute to vets after taking heat for earlier Memorial Day tweet"
-    excerpt: "Vice President Harris paid tribute to fallen service members on Sunday after taking heat for a Memorial Day weekend message that neglected to mention veterans."
-    publishedDateTime: 2021-05-30T12:41:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7a6ae93-cc8d-425b-bb14-6992656b9efe/6e55c3de-c62b-4139-85ef-d8928b4f753a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Harris to make anti-corruption efforts 'front and center' of visit to Guatemala, Mexico"
     excerpt: "Vice President Kamala Harris will make anti-corruption efforts “front and center” of her visits to Guatemala and Mexico next week, as part of her efforts to tackle the “root causes” of the migration crisis at the southern border, a senior administration official said Thursday."
     publishedDateTime: 2021-06-03T21:17:12Z
@@ -112,20 +96,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Rep. Brady on border crisis: Harris in denial; influx of migrant kids making foster care system strained"
-    excerpt: "Texas GOP Rep. Kevin Brady said the border crisis is \"growing worse\" and the influx of unaccompanied migrant children is making the already tough foster care system even \"more cruel\" for American children."
-    publishedDateTime: 2021-06-04T19:23:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iLXn-kVlQWw/brady-border-crisis-harris-denial-migrant-kids-foster-care-system"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/kevin-brady-Getty.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Kamala Harris uses Naval Academy speech to plug ‘rolled-up solar panel’"
     excerpt: "Vice President Kamala Harris on Friday told graduating Naval Academy midshipmen that they may soon be able to pack a “rolled-up solar panel.”"
     publishedDateTime: 2021-05-28T18:18:00Z
@@ -139,22 +109,6 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-naval-03.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris pays tribute to fallen military after tone-deaf tweet"
-    excerpt: "Kamala Harris posted a more fitting tribute to America’s military Sunday, a day after drawing online heat for telling her fellow countrymen to “enjoy the long weekend.”"
-    publishedDateTime: 2021-05-30T20:37:00Z
-    webUrl: "https://nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/"
-    ampWebUrl: "https://nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/30/kamala-harris-pays-tribute-to-military-after-tone-deaf-tweet/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-091.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -190,15 +144,6 @@ related:
         width: 906
         height: 678
         isCached: true
-  - title: "Kamala Harris' Naval Gazing Speech"
-    excerpt: "On this Memorial Day weekend, what does Vice President Kamala Harris decide to talk about in front of the Naval Academy's graduating class? Solar power. Read Full Article »"
-    publishedDateTime: 2021-05-30T11:15:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/30/kamala_harris_naval_gazing_speech_543925.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "/kIxtBuOFIyaltYgIQAdLTNrHnCP948pCwzNjJf22Rodo8G2IJUf0bU7A1FCZzB/6WXu8rzWVdnPRt07GAAAxant3nKu3qOd5BiMhNwldZUvhYOW7Aof8E1O2v6VEivsxZSpwB/MoZNZ/e2OZ3Edd31rMbkM4W9bs/1p2iL6RdFg3tcvDEx+vwBsevqH0Le0b7DcGNMngZsXjAs6aL33dJIqSVH3oLkvYeiAP4udIzc2wtTgD9VB0BurjUWw6Lfd/gv2ou32dyJ8NCOryZuhQ7tDXwLZIrADXtwa29oCxdRUneXhMCWzNCs3RVAtAeGiodq8Vkr4E0UXTt3sOeu0o3FnYTFHzDBtx6uIuJ6+bJs=;jRdzmoiC7Y+7sj/qQ5H50A=="
 ---

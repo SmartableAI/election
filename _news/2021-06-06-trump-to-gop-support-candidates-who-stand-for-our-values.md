@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump to GOP: Support Candidates Who 'Stand for Our Values'"
-excerpt: "Former President Donald Trump is pushing Republicans to support those candidates who share his values in next year’s midterm elections as he launches a new more active phase of his post presidency."
-publishedDateTime: 2021-06-06T01:10:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-05/trump-to-gop-support-candidates-who-stand-for-our-values"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-06-05/trump-to-gop-support-candidates-who-stand-for-our-values"
+title: "Trump to GOP: Support candidates who 'stand for our values'"
+excerpt: "Former President Donald Trump is pushing Republicans to support those candidates who share his values in next year’s midterm elections as he launches a new more active phase of his post presidency"
+publishedDateTime: 2021-06-06T04:24:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-to-gop-support-candidates-who-stand-for-our-values/2021/06/05/df2a2e44-c661-11eb-89a4-b7ae22aa193e_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-to-gop-support-candidates-who-stand-for-our-values/2021/06/05/df2a2e44-c661-11eb-89a4-b7ae22aa193e_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-gop-support-candidates-who-stand-for-our-values/2021/06/05/df2a2e44-c661-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-gop-support-candidates-who-stand-for-our-values/2021/06/05/df2a2e44-c661-11eb-89a4-b7ae22aa193e_story.html?outputType=amp"
 type: article
-quality: 35
-heat: 35
-published: false
+quality: 125
+heat: 125
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +24,12 @@ topics:
   - Election
   - Donald Trump
 
-secured: "YrukYbjzRxYeUhINxghqj40TjWr+5/+cVSgqzm5jMi2E6YlA5vED6O/FXWKyvbZpJyg48JP791zIYtFUxUWnnz1yrIv9rF9hmSFdtZOiOEFFAMe9h77V3mqm0SakzkiAAXPReKED7oMAei+dW6fJWHuFe8b8eAPEpq3ijGLeZBpL4r6A72K4obGxQ/eqpVzquQYaGQuo/bjPw0A8RKApESbM9oNZSJklbmbojjXLgwwc0N3YfujKd7Cj1bZ62k+mNwJcr/z5X75xiCmmQ5zpXuZdES6JTgcFn1g0PLeRHMBwJIhyon6mAL+tUmjt9Qg0Sf8KvB0lX6eZLP1eChTvy9lZc8bmfNiqe2ju4rPxvbTXbt62czuTb8SjYzAcWigv5cN/+blvzpN1qqLLr9qUW14+/oyl0xMENu/WobaP8dMObmL/LM2AplsLwwPAsLhyLeCjPiaVt2eWasmfdCnFf7LPOWcFecbMjX0Dsb6yDBO+braObt9yIGtLnGKUVrKAAJrTfKbYvbzv1EDTw10F3g==;xJOWw3w0FvtnOtx96aGfhA=="
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JVUMZGGGNAI6XCNEW6XCFKQZHY.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
+
+secured: "6BGYwD6kpeMeD8ixlnJZu5a5D8+ecHK38tW7L9805fiDiMTmpsZ4NTSNLO4fw7Bw9ugMZgtjmIc/MG83v+v8MQC7t2jDMcX4BeCXmAIdE716k6mp8SHB+9fU321PeQwh+mncn6lHvk0x9eMTy2TXa3ombGFvIdbJoXADOJ1whAG3veHApIeIayNtN1+RFsSczKJ8vk46NreI0SdVda6KBjNuwQ4z7fXOpgPanCh8uViXZlr1K/yuYkw074rgoWj4XMppVYIdSvnePIzTzkQc5OjR89N5OUL3mdAlt5h9PpslTcCMlsQSrORy+3Him+E6QnNCiLyThm70zttuxqiTYb4qaA2YiJ5TiczYPiJsZjk=;QNl0LrbLNRh34NQD7qZPpA=="
 ---
 

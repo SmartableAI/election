@@ -35,6 +35,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "In Trump's shadow, Ga's. Kemp draws boos from GOP faithful"
+    excerpt: "The divisions among Georgia Republicans after the 2020 election are being laid bare at the party's annual convention"
+    publishedDateTime: 2021-06-06T01:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-shadow-gas-kemp-draws-boos-gop-faithful-78107353"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-shadow-gas-kemp-draws-boos-gop-faithful-78107353"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-shadow-gas-kemp-draws-boos-gop-faithful-78107353"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fa5b3953a8514733bc5837389c59fd8d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Former House Speaker Paul Ryan urges GOP to return to Reaganism, end Trump fixation"
     excerpt: "The Wisconsin Republican and onetime VP candidate, in a speech at the Reagan Library in Simi Valley, describes conservatives as at 'a crossroads.'"
     publishedDateTime: 2021-05-27T18:01:00Z
