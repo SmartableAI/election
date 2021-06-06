@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden poised to announce first slate of ambassador nominees as he eyes first trip abroad"
-    excerpt: "President Joe Biden has made final decisions on several high-profile ambassador posts around the world and is poised to announce the first slate of nominees in the coming days as he prepares to set off on his first overseas trip since taking office.\n    \n"
-    publishedDateTime: 2021-06-05T13:02:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FgTpE5IZbN4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to announce new steps to close racial wealth gap while marking 100th anniversary of Tulsa Race Massacre "
     excerpt: "President Joe Biden will visit Tulsa, Oklahoma, on Tuesday to mark the 100th anniversary of the Tulsa Race Massacre and announce new actions his administration will take to reduce the racial wealth gap as he commemorates one of the worst acts of racial violence in US history.\n    \n"
     publishedDateTime: 2021-06-01T09:01:12Z

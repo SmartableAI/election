@@ -28,125 +28,132 @@ images:
     isCached: true
 
 related:
-  - title: "Trump declines to commit to running with Pence in 2024"
-    excerpt: "Former President Trump tells Fox News he is not ready to re-up with former Vice President Mike Pence on a potential campaign in 2024."
-    publishedDateTime: 2021-06-06T02:43:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iXbrYdmh0X8/trump-declines-to-commit-to-running-with-pence-in-2024"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024.amp"
+  - title: "Georgia GOP Lt. Gov. Duncan, a Trump critic, won’t run for reelection in 2022"
+    excerpt: "Republican Lt. Gov. Geoff Duncan of Georgia, a vocal critic of former President Trump, on Monday announced that he won’t seek a second term in office in next year’s elections."
+    publishedDateTime: 2021-05-17T19:57:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TtQyWEd3UYo/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 200
+    quality: 187
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21d3dab8-58de-4fc9-9555-9286343f22de/6762ba49-edaa-43c0-812d-f00d4ce8b7a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Pence says he and Trump don’t ‘see eye to eye’ on Jan. 6 — but GOP ‘must move forward’"
-    excerpt: "In a speech in New Hampshire, former Vice President Mike Pence urged Republicans to move forward following the Capitol riot."
-    publishedDateTime: 2021-06-04T00:47:00Z
-    webUrl: "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/"
-    ampWebUrl: "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/amp/"
+  - title: "Trump heading to battleground NC to headline state GOP convention"
+    excerpt: "Former President Trump will attend the North Carolina GOP's state convention in Greenville on June 5 and will speak at the convention dinner, the state party shared first with Fox News."
+    publishedDateTime: 2021-05-17T12:15:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vlEerDedMbA/trump-north-carolina-visit-state-gop-convention"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 152
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/pence-trump-206.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Republican leaders to summit with Trump over conservative agenda"
-    excerpt: "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week."
-    publishedDateTime: 2021-06-03T16:27:00Z
-    webUrl: "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/"
-    ampWebUrl: "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/"
+  - title: "New anti-Trump group of Republican leaders threatens to leave if GOP doesn't reform"
+    excerpt: "Roughly 150 Republican or former Republican leaders who are opposed to former President Trump’s continued strong grip over the GOP have signed a letter threatening to leave the party if it does not reform and return to its “founding American principles.”"
+    publishedDateTime: 2021-05-13T15:31:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/usr_5NUjM_s/anti-trump-republican-group-mcmullin"
+    ampWebUrl: "https://www.foxnews.com/politics/anti-trump-republican-group-mcmullin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-trump-republican-group-mcmullin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Graham doubles down on claim GOP can’t move on without Trump"
+    excerpt: "Sen. Lindsey Graham (R-S.C.) sounded a warning Monday night that Republicans who “try to erase” former President Donald Trump from the GOP “are going to wind up getting"
+    publishedDateTime: 2021-05-11T04:24:00Z
+    webUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/"
+    ampWebUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/graham-doubles-down-on-trump-index.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Donald Trump to speak at Dallas CPAC in July"
-    excerpt: "Texas will be getting a visit from No. 45 this summer. Former President Trump will be giving a speech at the Conservative Political Action Conference in Dallas."
-    publishedDateTime: 2021-06-03T23:54:00Z
-    webUrl: "https://nypost.com/2021/06/03/donald-trump-to-speak-at-dallas-cpac-in-july/"
-    ampWebUrl: "https://nypost.com/2021/06/03/donald-trump-to-speak-at-dallas-cpac-in-july/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/donald-trump-to-speak-at-dallas-cpac-in-july/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-dallas.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Facebook Suspends Donald Trump for Two Years"
-    excerpt: "The company said it would revisit the decision two years from Jan. 7."
-    publishedDateTime: 2021-06-04T15:51:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480?mod=breakingnews"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+  - title: "As GOP Wrestles Over Trump, Democrats Run Their Own Risks"
+    excerpt: "The party is trying to turn a thin electoral mandate into an expansive agenda that involves a $6 trillion stimulus, infrastructure and jobs-creation effort that would change the relationship between government and the economy."
+    publishedDateTime: 2021-05-17T12:12:00Z
+    webUrl: "https://www.wsj.com/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
+    ampWebUrl: "https://www.wsj.com/amp/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-349049/social"
+      - url: "https://images.wsj.net/im-339349/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump ponders run for Congress — and House speaker — in 2022"
-    excerpt: "Former President Trump is mulling a circuitous path back to the presidency: via a stint as speaker of the House."
-    publishedDateTime: 2021-06-05T20:58:00Z
-    webUrl: "https://nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/"
-    ampWebUrl: "https://nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/amp/"
+  - title: "Trump to headline North Carolina GOP convention next month"
+    excerpt: "Former president Donald Trump is set to attend the Tar Heel State’s GOP convention in Greenville on Saturday, June 5, before serving as headline speaker for the event’s dinner that"
+    publishedDateTime: 2021-05-17T15:25:00Z
+    webUrl: "https://nypost.com/2021/05/17/trump-to-headline-north-carolina-gop-convention-next-month/"
+    ampWebUrl: "https://nypost.com/2021/05/17/trump-to-headline-north-carolina-gop-convention-next-month/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/17/trump-to-headline-north-carolina-gop-convention-next-month/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/DonaldTrump.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-nc-convention-01.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Rallies Are Back. They're Just What Dems Ordered"
-    excerpt: "Starting this month, Donald Trump will also be back in public circulation, headlining a series of grievance-filled summer MAGA rallies. That's fantastic news for anxious Democrats."
-    publishedDateTime: 2021-06-04T13:43:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/04/trump_rallies_are_back_theyre_just_what_dems_ordered_544275.html#!"
+  - title: "Trump to hold rallies in Florida, Georgia, Ohio and North Carolina"
+    excerpt: "Former President Donald Trump will hold a series of “campaign-style” rallies in notable battleground states this summer, but wouldn’t confirm if he’ll run for office in"
+    publishedDateTime: 2021-05-21T04:53:00Z
+    webUrl: "https://nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/"
+    ampWebUrl: "https://nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/donald-trump-to-hold-rallies-in-florida-georgia-ohio-and-north-carolina/amp/"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/53/536860_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-to-hold-rallies-219.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Trump and His Crazies Aren't Done With Us"
-    excerpt: "It's important to stay on guard because the bar has now been lowered: we know that a pronouncement from Trump -- like his assertion about being. Read Full Article »"
-    publishedDateTime: 2021-06-04T19:06:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/04/trump_and_his_crazies_arent_done_with_us_544285.html"
+  - title: "Trump, GOP leaders join forces to sink Jan. 6 commission"
+    excerpt: "Whatever the merits of a commission to be run by outside appointees, Republican leaders viewed it as a dagger aimed at former President Donald Trump."
+    publishedDateTime: 2021-05-20T06:48:00Z
+    webUrl: "https://www.foxnews.com/media/trump-gop-leaders-join-forces-to-sink-jan-6-commission"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump223.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "JVSGohvIWkHCCigI3I9P0b5BQIGJsZg9He3CXw/wxzHcjDBlXRuG3BV/2bfvASfQDDjAiREYi5QaH1SYMcCcKw2b4gfXugoWyG32LJGL44SQqEOmbYf3cHjppCaJLrNRVcTnnMEgIsLBGG7KodBjUai68o9eu8rWjUlLXyGU/Cv97u6Y9sYeS/YynIFtX9pjH2NOdG53fY3uIhDFdpLeP+EV+m+Or8pMI4an61WSEnSHQ4IwK8qhQSfu9MvpVPVwnBAVmiu8QbDvmTaZno0gqAEt9f/h7VRrDxAaszIBCGpUrx2VtPJRHB5SP7/ceqaMgsuBjKo1DG0KdZ1N0GynBPhrVw950V8VXyko39bA1Bnmb9QtirQ+QRc55P/8v5FvQ9V0lSRtmRMbbBl/ytFnKIGxy/eQ0gc5ylz9MIQC4HUtWHBv0Hremsc/T4A5Rik6H0HZxH2FL/PIB9APoyBw8CnSfoUhf4nDJdtUmqHGqOyJ1lFQgGyTwIZXzDbTZtiedWi6aHcMkSxR4czeoL+A9w==;zYcLKcscYj78W3HxEqugpw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/queen-elizabeth-joe-bide
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/queen-elizabeth-joe-biden-meeting-scli-intl-gbr/index.html"
 type: article
 quality: 169
-heat: 189
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,21 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to meet with UK Prime Minister, Turkish President and other world leaders during first foreign trip"
-    excerpt: "President Joe Biden will meet with United Kingdom Prime Minister Boris Johnson, Turkish President Recep Tayyip Erdogan and other world leaders during his first international trip as President next week, the White House announced Thursday.\n    \n"
-    publishedDateTime: 2021-06-03T15:16:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tEJfZZ8ul8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/biden-world-leaders-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/biden-world-leaders-trip/index.html"
+  - title: "Biden stays mum on state abortion laws with major test ahead for Roe"
+    excerpt: "As more Republican-led states pass abortion bans with the easing of the Covid-19 pandemic, a heated debate has returned to center stage with abortion rights supporters warning of a looming threat to access and anti-abortion activists determined to keep up the momentum.\n    \n"
+    publishedDateTime: 2021-06-06T18:27:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7VGVmHND2_g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602180257-02-biden-vaccine-remoarks-0602-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden spoke with prominent critic Larry Summers on economy after inflation warnings "
+    excerpt: "President Joe Biden called prominent Democratic economist Larry Summers to discuss the economy after he raised several warnings recently over his inflation concerns, a source familiar with the call confirms to CNN.\n    \n"
+    publishedDateTime: 2021-06-03T21:20:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rSJcaj42s5Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/larry-summers-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/larry-summers-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190829144518-larry-summers-file-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Bipartisan lawmakers call on Biden to 'immediately' evacuate Afghans who helped the US"
+    excerpt: "A bipartisan group of lawmakers is calling on the Biden administration to immediately evacuate thousands of Afghans who have assisted the United States, saying in a letter Friday that those \"Afghan friends and allies are at greater risk than ever before\" as the US military withdrawal from the country"
+    publishedDateTime: 2021-06-04T20:37:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l7U_X9Da6jA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/afghanistan-siv-bipartisan-letter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/afghanistan-siv-bipartisan-letter/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210523082033-afghan-translators-holmes-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden poised to announce first slate of ambassador nominees as he eyes first trip abroad"
+    excerpt: "President Joe Biden has made final decisions on several high-profile ambassador posts around the world and is poised to announce the first slate of nominees in the coming days as he prepares to set off on his first overseas trip since taking office.\n    \n"
+    publishedDateTime: 2021-06-05T13:02:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FgTpE5IZbN4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democratic lawmakers wanted to call on Biden to form presidential commission on January 6 but were told it wouldn't happen"
+    excerpt: "A group of Democratic members of Congress planned to call on President Joe Biden to form a presidential commission on the January 6 attack at the US Capitol, but they were discouraged by the White House, a congressional source told CNN on Friday.\n    \n"
+    publishedDateTime: 2021-06-04T22:11:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l37nolLsHNA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420124249-us-capitol-dome-0413-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "A favored Biden timeline for politically-charged decisions: Later"
+    excerpt: "The president seems to be reaching for a traditional executive branch stalling tactic at a higher rate than his predecessors."
+    publishedDateTime: 2021-06-05T08:35:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/favored-biden-timeline-politically-charged-decisions-later-n1269721"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269721"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269721"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480531/210604-joe-biden-ac-742p.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "4yx2dyifUiUPI7syvU6S7V6jQW9y4yXRuy66mV0k0M6lk/itXWfiD8R5fFIEWO73FGbgCfj70OHzOa4UxM/WQiUajlH83bmiB4oWONpV/ARyAjwbzWQhWJGksKob6HYyYdkeE3mBKyQK7Sf2PMLMV7fWa9WVq6ylC0f9jkpiCZb9epFWUu3Gr0Hhe3zV9hwtFKdxY3KS90Ww41jfbGw8a9zSUzSGWOKJ/ECpP34ZU+/fOzdz6TP4nx6SFLBcj1j8xZBFr0AoexDVfCFtWlLJ0/VLwVeMnC/T9ABWyzMfH7LoPLq8uH4dnHXaQOaIBuDbXVoDuTKq4NBUFooOXboRC1RA1NNK5wEzIAEYvbmb0rg=;VOV9u6RW6jKYbhvYXTINJg=="

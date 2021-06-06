@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/biden-putin-jbs-foods-ru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/biden-putin-jbs-foods-russia/index.html"
 type: article
 quality: 172
-heat: 212
+heat: 192
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden spoke with prominent critic Larry Summers on economy after inflation warnings "
-    excerpt: "President Joe Biden called prominent Democratic economist Larry Summers to discuss the economy after he raised several warnings recently over his inflation concerns, a source familiar with the call confirms to CNN.\n    \n"
-    publishedDateTime: 2021-06-03T21:20:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rSJcaj42s5Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/larry-summers-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/larry-summers-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190829144518-larry-summers-file-2015-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "American imprisoned in Russia calls on Biden to take 'decisive action' to stop detention of US citizens"
     excerpt: "Paul Whelan, an American imprisoned in Russia, called on President Joe Biden to \"aggressively discuss and resolve\" the issue of US citizens being detained for political purposes when he meets President Vladimir Putin at a summit later this month.\n    \n"
     publishedDateTime: 2021-06-02T11:18:21Z

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Kamala Harris’ plane forced to return over ‘technical issue’"
+    excerpt: "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday."
+    publishedDateTime: 2021-06-06T19:14:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 73
+    images:
+      - url: "https://www.baltimoresun.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
+        width: 1200
+        height: 758
+        isCached: true
   - title: "Kamala Harris: I eat 'no' for breakfast"
     excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
     publishedDateTime: 2021-06-01T17:56:00Z
@@ -88,6 +104,6 @@ related:
         height: 433
         isCached: true
 
-secured: "em0ieqwraTDCCcjMPdohQfmunXQZbsWBd+Rj7MlmH/5P/o9D2EU9wDgCjRg5SJBGe48zpmuekpNaQs4vZqrrbiuRkzJMpqhiTyW9S6RaB26/DSpJlE4hd7q8r0jIYQzquYm6UnO4amosto2rOqa9ecGUruKlq/ZFK3PQ/Gf4JH+ik7qZFODSPL4n4XHxWCL0UAGBBkRg6sTTT7sh33suiD9S/7EXyXnO7wtAxA+I3e8XPhg2QrXrn2hnnvVIj62IfkCKIio2NvJ17Q+H9RvNEo3un1J5XoG/pmmeglLd63bNa4pKfULbtskdFPSpl6GP6ZbXIn3sR8jRXRMBNpXZvbI+VjqT0TVLJasIFH+IXPo=;7FYzRuIJIJ6V+GCqsmQtoQ=="
+secured: "fuw4d1jTDxuxpQ/XtJ4dum1ZE92oR1VYY8buyaGWvmoXScvV41V1j0obBTQ2YfU7SiaZHNeTtXjtvA50xjZDzXlBygirDVGzMp7EbWgabG9DV734YlVDviIjnLin5B/f5JbOErtSsO41mqFgYP0qcEcZSZ9723RjstnoaIOdHhiPNIX8GPAA43jq+xYUsYsery2N1KQPxCil2+Wa9N909Q8FiKk2HUX7gTZeX/wMPQofDHslvd1tJ6EDSoX7QxHaH/7hErYmGykHcrMCNyL3RMqHnrCnRjlGMO7ad39Ma56UijxwJPuBU8bSkhvMOvEFU3ztbsW37SBIK3AVUYTmoW3K/n86PcFTwLpqYAjHT3AMEGULMQ9NmIyo9sggFUIbb1x0eq7glnPj3m5goLWtssMbNiBOLuEMHaHHIJ3CsTSdAG73SsiC/vBj1VGX/BrdAGLTX9ltYnCxMh1UiNiOpzemsIM55t60u9LIsldiQ49szW3j63+MlsVaG67+KaK9eUkuzCnryXxUkkB/SPS2Tg==;iqZ+tkf2efRh7L7b4D/DrQ=="
 ---
 

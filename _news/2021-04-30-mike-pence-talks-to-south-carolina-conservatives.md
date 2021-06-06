@@ -131,6 +131,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump Family In Politics: Lara Trump Says 'No For Now' For North Carolina Senate Bid"
+    excerpt: "The Trump family continues to flirt with running for public office without committing to a bid. Late Saturday, Lara Trump, the wife of Donald Trump's son Eric Trump, announced to the North Carolina GOP state convention in Greenville that she would not run for Senate in 2022."
+    publishedDateTime: 2021-06-06T18:59:00Z
+    webUrl: "https://ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602"
+    ampWebUrl: "https://www.ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/05/trumps-daughter-in-law-lara-trump-announced-she.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "CqHExcVIRWAdaavvMfIZrJgT9LqUKWJ2csggUFp6CSF5QzZ/WBAO5zcMxJNUXT1YiceUh2m7xiwvB2LYsKjEtqrw6A6+JYeoC5n8o7CwYHHbvqF57b6N76bucHg3ydILnpqzC1yPGirBbvIzhLOSnPY9EfxfH/N7cyTID7F8NL6NVTORUjc1V0qPVYq6VwQ6x8WfpCc9UBZvRw3j2VLFoUkcsBaK4DumA/wZ+M+M+WM9HyfDrn17FMYQBnV3xauy2YtUVEOR/ytb7UD0cOLnRDGXCOppEJUTw1FcZLbc9ce2jVV7A2bUW6hdvs9h8lSm1adP+0eHd6RlXjc2Yeq4ZN4LF38DGqVfh9t4I+lbKkLXXzluzOSzZcHx2PbUN7pgunwZwSseCttk6QQuRSg5AmhwTZyeNBk4nLajtHJIAopw+7kpnuSGVwvi23yuSltWCXtVFn0s3FedcpQBHA2fJnSa8de+JFj6wSP3OIqF+2wSutRVz4rTSP5Psk34w+2VfVYtnHSzpmpf39HEGrzHtg==;5Mj09yyyhcouUgbNPANJPw=="
 ---

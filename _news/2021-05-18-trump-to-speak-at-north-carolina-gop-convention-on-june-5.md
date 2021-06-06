@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Family In Politics: Lara Trump Says 'No For Now' For North Carolina Senate Bid"
+    excerpt: "The Trump family continues to flirt with running for public office without committing to a bid. Late Saturday, Lara Trump, the wife of Donald Trump's son Eric Trump, announced to the North Carolina GOP state convention in Greenville that she would not run for Senate in 2022."
+    publishedDateTime: 2021-06-06T18:59:00Z
+    webUrl: "https://ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602"
+    ampWebUrl: "https://www.ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/05/trumps-daughter-in-law-lara-trump-announced-she.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Mike Pence talks to South Carolina conservatives"
     excerpt: "Former Vice President Mike Pence speaks to the Palmetto Family Council gala. In his speech he reiterated his and former President Donald Trump's accomplishments and criticized President Joe Biden."
     publishedDateTime: 2021-04-30T00:53:00Z

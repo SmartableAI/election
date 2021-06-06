@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp"
 type: article
 quality: 187
-heat: 327
+heat: 347
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump223.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Bet On It. Trump Is Running."
+    excerpt: "President Donald Trump wants to run for president in 2024, and so he shall. The story some Republicans like to tell themselves -- that Trump will not run again for the White House because he knows he can't win and he's smart enough to see the glory in being a GOP kingmaker -- is wishful thinking."
+    publishedDateTime: 2021-05-16T10:18:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/531398_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "byznMNhgvdOersuGvbzoPHTNwfJXxwlTxyU8ABFlJnYYAiUivmhazbNKImR6Wqb4D2s8jjMGnXg1JBRTAVSFV34TxpjTMoRmSV0EkXyM+vH9RbQQ0MldY+lwWYheQjuD7FHlEMOdqtTE2KrCX2I/imMbIQGLcQKtLxArV+lCip7ZrDUyBlWWI83lKSOkL5Fi4qoLzcd/kRM41AZ6vpNIfRjjH1J1RWMfFRcBtBMmPgCojRfsWr09scf8NK/geZhdkeTob7gT/kIiHZmXzw1EDT3vpnaHDmBwybUGm0/c6XobsEHB54X+4fk/AVpDDu0nCnqqeFtpfEjPJ/6T2QFISMQ4l9Y6k/3efW758rrRoAk=;omb2X2y0uAHyu7p9FO8zvA=="

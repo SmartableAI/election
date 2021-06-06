@@ -31,37 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Biden will discuss recent cyber attack on meat producer with Putin in Geneva"
-    excerpt: "The White House says President Joe Biden will address the recent ransomware attack on a meat producer and the increased threat of cyber attacks while meeting with Russian President Vladimir Putin later this month in Geneva.\n    \n"
-    publishedDateTime: 2021-06-02T17:51:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8WuGM8W675s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/biden-putin-jbs-foods-russia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/biden-putin-jbs-foods-russia/index.html"
+  - title: "Biden stays mum on state abortion laws with major test ahead for Roe"
+    excerpt: "As more Republican-led states pass abortion bans with the easing of the Covid-19 pandemic, a heated debate has returned to center stage with abortion rights supporters warning of a looming threat to access and anti-abortion activists determined to keep up the momentum.\n    \n"
+    publishedDateTime: 2021-06-06T18:27:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7VGVmHND2_g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "American imprisoned in Russia calls on Biden to take 'decisive action' to stop detention of US citizens"
-    excerpt: "Paul Whelan, an American imprisoned in Russia, called on President Joe Biden to \"aggressively discuss and resolve\" the issue of US citizens being detained for political purposes when he meets President Vladimir Putin at a summit later this month.\n    \n"
-    publishedDateTime: 2021-06-02T11:18:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K4q--RKUf30/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/paul-whelan-cnn-biden-putin-summit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/paul-whelan-cnn-biden-putin-summit/index.html"
+  - title: "Queen Elizabeth announces she'll meet President Biden at Windsor Castle this month"
+    excerpt: "Britain's Queen Elizabeth will welcome US President Joe Biden to Windsor Castle on June 13, Buckingham Palace announced on Thursday.\n    \n"
+    publishedDateTime: 2021-06-03T13:54:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E8Ozs7YBfpc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/queen-elizabeth-joe-biden-meeting-scli-intl-gbr/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/queen-elizabeth-joe-biden-meeting-scli-intl-gbr/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200615092214-01-paul-whelan-trial-0615-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210526112357-biden-queen-elizabeth-split-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Bipartisan lawmakers call on Biden to 'immediately' evacuate Afghans who helped the US"
+    excerpt: "A bipartisan group of lawmakers is calling on the Biden administration to immediately evacuate thousands of Afghans who have assisted the United States, saying in a letter Friday that those \"Afghan friends and allies are at greater risk than ever before\" as the US military withdrawal from the country"
+    publishedDateTime: 2021-06-04T20:37:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l7U_X9Da6jA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/afghanistan-siv-bipartisan-letter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/afghanistan-siv-bipartisan-letter/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210523082033-afghan-translators-holmes-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden poised to announce first slate of ambassador nominees as he eyes first trip abroad"
+    excerpt: "President Joe Biden has made final decisions on several high-profile ambassador posts around the world and is poised to announce the first slate of nominees in the coming days as he prepares to set off on his first overseas trip since taking office.\n    \n"
+    publishedDateTime: 2021-06-05T13:02:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FgTpE5IZbN4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democratic lawmakers wanted to call on Biden to form presidential commission on January 6 but were told it wouldn't happen"
+    excerpt: "A group of Democratic members of Congress planned to call on President Joe Biden to form a presidential commission on the January 6 attack at the US Capitol, but they were discouraged by the White House, a congressional source told CNN on Friday.\n    \n"
+    publishedDateTime: 2021-06-04T22:11:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l37nolLsHNA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420124249-us-capitol-dome-0413-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "A favored Biden timeline for politically-charged decisions: Later"
+    excerpt: "The president seems to be reaching for a traditional executive branch stalling tactic at a higher rate than his predecessors."
+    publishedDateTime: 2021-06-05T08:35:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/favored-biden-timeline-politically-charged-decisions-later-n1269721"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269721"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269721"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480531/210604-joe-biden-ac-742p.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "iH6+iFg2IffETU/SwlAlpdw6vSflruQ+wsJnnpbNVbT/B4ZoedUt7q492VUbcL6sP6PlFC2emf67vecN3qw6JDsypJZ+GfU+7QcdLL/j3mrX8wTg400kO5rQGZf0aSa8fTMkP1kBokI3NR4hdO3txPORHYoScSOVxAL++cQXdLTskZVbKO6yid1f1sjQF60bD4thZlTyOiOO0/sQ7b6IxJKYqMZByGyRBAhE5u/usHQV6K9+MrKrXRid8kt8pRMeateP62oLnu9ksGrRbviqBs7cc5ZmH+YSqn37Fy0R+EtjMvS3SC3DP+N/V/eM/BKV4xuisBk84kqjdDze67Elpild1KeSyH3+3U1UHuHRH50=;usTplXEeRPgcm2HeVuO1Zw=="
