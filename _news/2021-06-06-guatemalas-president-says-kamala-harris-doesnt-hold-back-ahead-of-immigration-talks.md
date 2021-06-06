@@ -1,46 +1,36 @@
 ---
 category: news
-title: "Kamala Harris: I eat 'no' for breakfast"
-excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
-publishedDateTime: 2021-06-01T17:56:00Z
-originalUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
-webUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
+title: "Guatemala's president says Kamala Harris \"doesn't hold back\" ahead of immigration talks"
+excerpt: "Guatemalan President Alejandro Giammattei is set to host Harris on Monday during her first international trip as vice president."
+publishedDateTime: 2021-06-06T11:54:00Z
+originalUrl: "https://www.cbsnews.com/news/guatemala-president-kamala-harris-trip-immigration-talks/"
+webUrl: "https://www.cbsnews.com/news/guatemala-president-kamala-harris-trip-immigration-talks/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 117
+heat: 197
+published: true
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: CBS News
+  domain: cbsnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/c23dfc7a-2de3-4928-b162-b5344262f730/thumbnail/1200x630g3/6df35ab454879cb32f06a8fd233a428e/gettyimages-1232547348.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "Guatemala's president says Kamala Harris \"doesn't hold back\" ahead of immigration talks"
-    excerpt: "Guatemalan President Alejandro Giammattei is set to host Harris on Monday during her first international trip as vice president."
-    publishedDateTime: 2021-06-06T11:54:00Z
-    webUrl: "https://www.cbsnews.com/news/guatemala-president-kamala-harris-trip-immigration-talks/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 117
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/c23dfc7a-2de3-4928-b162-b5344262f730/thumbnail/1200x630g3/6df35ab454879cb32f06a8fd233a428e/gettyimages-1232547348.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Harris seeks to defy history with Central America mission"
     excerpt: "Vice President Kamala Harris will make her first foray into international diplomacy on the border situation this weekend, heading to Central American to do some nation-building with a promise of $4 billion in American cash,"
     publishedDateTime: 2021-06-04T19:19:00Z
@@ -73,6 +63,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Kamala Harris: I eat 'no' for breakfast"
+    excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
+    publishedDateTime: 2021-06-01T17:56:00Z
+    webUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
     excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
     publishedDateTime: 2021-06-02T17:02:00Z
@@ -88,6 +92,6 @@ related:
         height: 433
         isCached: true
 
-secured: "rA/sMEb/6xNa43MCZBhTq1XCppEcWzPZgZu5UueWmUHAcYwtxaug3o568Y/Ws5YgGBT9EBduw/wFr7B3z9IIBTXEtlSk7AtLu3bFAwlNpVUV8PSvQAsiuE/VuElLIhkLoHYFcYp6NOC1qNdzuVUwH6CYqV/87EiJwLPRGNZiRckOEnnPxgO56YANHBfyt4DrpPpGdewGMjkPK5yO9x+uejWlih5sxcCIb1JTxe6lNEAwshXjKetCbqI397JWE6/+kx76I2PzBUjUm8Y2RWX2j4AWd1E0Rz1+OoKFU2Q7Szt/yXfSdkz3CJFHG2F2WP6WTQQ8YdDGiAIsbSCwPTflVgx/8PjR6QuJBtR1H891zJXLG9j3Bd9AfvoyUeJk1GNqgsNsnEM2m2W04yz4qv7+o6P9mfPowmg3PeYxwppduQtgOiB/TvAI8zTq6ONQT1q84QUOvHLgU+h4GC4NuHj+fCjG4uA3bdyo9DdF1XU90Y4KuTTi+JT66Hp77s/SAd+dGuC0Oq03+VbFF7Hr+ytSQQ==;ILcCLO2f3QzRLyK4dgNhrg=="
+secured: "sImkclsplFOUHUkUTgZuYlMr1aZWA3eoasaApwV5g5uCjAmIgyecXUkhu8hGY2i66dce/JdIwMYQypYzhYSj4UrKCSzDS6v1TxZnpFkAWIdn2o9PyDbTQUoEbmMLbVadpuZs9grB6rKfX6wYjXknEL1a9RndTnLjzEqWxE0eADS0OimQabn/CHUIkd2bVctQuJ7WJMlYqPz/DHX1paeG2OlEt0da2NSewnm+DmA8DV1Kd5r0rAx8Ij1d0vTa0PuP2beUEN14IWHZkV5FMofq3+L+mQd85hMSw4+reujg/BhGRaGRY26thCTXtlj9bqcn/vKZtTW+94Jaq8tSJaUwzmMTXQKhGk5tr43mbYx6cLo=;sRV2iowZMskDShhO8GmHqg=="
 ---
 

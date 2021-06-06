@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. VP Harris to meet companies, groups to push Central America economic growth"
-    excerpt: "U.S. Vice President Kamala Harris will meet top officials from 12 companies and groups including Microsoft Corp (MSFT.O), Mastercard (MA.N) and the World Economic Forum on Thursday to promote economic opportunity in Central America's Northern Triangle countries,"
-    publishedDateTime: 2021-05-27T15:20:00Z
-    webUrl: "https://www.reuters.com/business/us-vp-harris-meet-companies-groups-push-central-america-economic-growth-2021-05-27/"
+  - title: "Guatemala's president says Kamala Harris \"doesn't hold back\" ahead of immigration talks"
+    excerpt: "Guatemalan President Alejandro Giammattei is set to host Harris on Monday during her first international trip as vice president."
+    publishedDateTime: 2021-06-06T11:54:00Z
+    webUrl: "https://www.cbsnews.com/news/guatemala-president-kamala-harris-trip-immigration-talks/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
     images:
-      - url: "https://www.reuters.com/resizer/6_n-ITQL8kzEbhcIojQrH-xzRow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WE6HSFDBGVIV3GKOVV3NHHX2WA.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/c23dfc7a-2de3-4928-b162-b5344262f730/thumbnail/1200x630g3/6df35ab454879cb32f06a8fd233a428e/gettyimages-1232547348.jpg"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
   - title: "Harris seeks to defy history with Central America mission"
     excerpt: "Vice President Kamala Harris will make her first foray into international diplomacy on the border situation this weekend, heading to Central American to do some nation-building with a promise of $4 billion in American cash,"
@@ -55,65 +57,21 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "VP Kamala Harris’ staff moves to in-person work in July | Charlotte Observer"
-    excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
-    publishedDateTime: 2021-06-01T17:45:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article251817863.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article251817863.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article251817863.html"
+  - title: "Kamala Harris visits Latin America to tackle migration, corruption"
+    excerpt: "Vice President Kamala Harris heads to Guatemala and Mexico on her first foreign trip Sunday, looking to deepen diplomatic ties with two nations key to the Biden administration's efforts to stem the spike in migration at the U.S. border. [ MOISES CASTILLO | ..."
+    publishedDateTime: 2021-06-06T13:27:00Z
+    webUrl: "https://www.tampabay.com/news/nation-world/2021/06/06/kamala-harris-visits-latin-america-to-tackle-migration-corruption/"
+    ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/06/06/kamala-harris-visits-latin-america-to-tackle-migration-corruption/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/06/06/kamala-harris-visits-latin-america-to-tackle-migration-corruption/?outputType=amp"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 72
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 75
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "VP Kamala Harris’ staff moves to in-person work in July | Raleigh News & Observer"
-    excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
-    publishedDateTime: 2021-06-01T16:27:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/article251817863.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article251817863.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article251817863.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 70
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "VP Harris participates in a roundtable on high-speed internet"
-    excerpt: "United States Vice President Kamala Harris participates in a roundtable on high-speed internet at the White House on Monday, May 24, 2021 in Washington, DC. Photo by Chris Kleponis/UPI"
-    publishedDateTime: 2021-05-24T19:16:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/11eb388bcfd2428ccc643c9df4deeb09/VP-Harris-participates-in-a-roundtable-on-high-speed-internet/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/11eb388bcfd2428ccc643c9df4deeb09/HARRIS-INTERNET.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Harris cites challenges of ‘fragile’ world in Naval Academy speech"
-    excerpt: "The vice president's keynote speech to the 1,084 graduates was the first by a woman at the 175-year-old institution."
-    publishedDateTime: 2021-05-28T23:32:00Z
-    webUrl: "https://www.pressherald.com/2021/05/28/harris-cites-challenges-of-fragile-world-in-naval-academy-speech/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 55
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/05/APTOPIX_Naval_Academy_Harris_74338.jpg"
-        width: 1000
-        height: 681
+      - url: "https://www.tampabay.com/resizer/uls7ATZ4zW3R9qTpUGmrEhpWOu0=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/C676FOACOJF4FHXCS57HUIFB64.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Kamala Harris: I eat 'no' for breakfast"
     excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."

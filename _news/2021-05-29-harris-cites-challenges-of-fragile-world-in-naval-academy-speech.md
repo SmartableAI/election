@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Harris seeks to defy history with Central America mission"
-    excerpt: "Vice President Kamala Harris will make her first foray into international diplomacy on the border situation this weekend, heading to Central American to do some nation-building with a promise of $4 billion in American cash,"
-    publishedDateTime: 2021-06-04T19:19:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jun/4/kamala-harris-seeks-defy-history-central-america-m/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jun/4/kamala-harris-seeks-defy-history-central-america-m/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/4/kamala-harris-seeks-defy-history-central-america-m/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/28/Naval_Academy_Harris_66558.jpg-f684d_c0-0-2504-1460_s1200x700.jpg?559d7eea007bb7e32e58016af6093f8273cfeedd"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "VP Kamala Harris’ staff moves to in-person work in July | Charlotte Observer"
     excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
     publishedDateTime: 2021-06-01T17:45:00Z
@@ -98,34 +82,6 @@ related:
     quality: 55
     images:
       - url: "https://cdnph.upi.com/pv/upi/11eb388bcfd2428ccc643c9df4deeb09/HARRIS-INTERNET.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Kamala Harris: I eat 'no' for breakfast"
-    excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
-    publishedDateTime: 2021-06-01T17:56:00Z
-    webUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
-  - title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
-    excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
-    publishedDateTime: 2021-06-02T17:02:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/009facc2f199ecbb7b4c0affa25233fc/HARRIS-LANDER.jpg"
         width: 650
         height: 433
         isCached: true

@@ -1,29 +1,31 @@
 ---
 category: news
-title: "'It's about time': With Kamala Harris and Nancy Pelosi, women share the dais for the first time"
-excerpt: "\"No president has ever said those words from this podium and it's about time.\" For the first time, both of those positions are now held by women: Vice President Kamala Harris and House Speaker Nancy Pelosi."
-publishedDateTime: 2021-04-29T10:57:00Z
-originalUrl: "https://www.statesman.com/story/news/politics/2021/04/28/joe-biden-speech-nancy-pelosi-kamala-harris-make-history/7352628002/"
-webUrl: "https://www.statesman.com/story/news/politics/2021/04/28/joe-biden-speech-nancy-pelosi-kamala-harris-make-history/7352628002/"
-ampWebUrl: "https://amp.statesman.com/amp/7352628002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7352628002"
+title: "Kamala Harris heads to Guatemala to address immigration on first foreign trip"
+excerpt: "CBS News senior White House and political correspondent Ed O'Keefe reports on VIce President Kamala Harris' trip to Central America, her first overseas trip since taking office."
+publishedDateTime: 2021-06-06T15:50:00Z
+originalUrl: "https://www.cbsnews.com/video/kamala-harris-heads-to-guatemala-to-address-immigration-on-first-foreign-trip/"
+webUrl: "https://www.cbsnews.com/video/kamala-harris-heads-to-guatemala-to-address-immigration-on-first-foreign-trip/"
 type: article
-quality: 63
+quality: 102
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: CBS News
+  domain: cbsnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/565d2a8b-823e-45df-b682-5b63d9d2a2e9-GTY_1232582885.jpg?auto=webp&crop=3595,2023,x0,y106&format=pjpg&width=1200"
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/f32c437a-3b09-4f05-a70a-b9a0c05141e5/thumbnail/1200x630/a06647e737a39cdf880110881efb89bc/0606-fttn-okeefe-729408-640x360.jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -212,20 +214,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2021/05/GettyImages-1232459585.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Kamala Harris heads to Guatemala to address immigration on first foreign trip"
-    excerpt: "CBS News senior White House and political correspondent Ed O'Keefe reports on VIce President Kamala Harris' trip to Central America, her first overseas trip since taking office."
-    publishedDateTime: 2021-06-06T15:50:00Z
-    webUrl: "https://www.cbsnews.com/video/kamala-harris-heads-to-guatemala-to-address-immigration-on-first-foreign-trip/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 102
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/f32c437a-3b09-4f05-a70a-b9a0c05141e5/thumbnail/1200x630/a06647e737a39cdf880110881efb89bc/0606-fttn-okeefe-729408-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "A New York Post story about Kamala Harris triggered conservative outrage. Almost all of it was wrong. Now the reporter has resigned."
     excerpt: "The New York Post belatedly corrected stories the journalist says she was “ordered to write,” claiming the vice president’s book was given to undocumented migrants by the thousands."
@@ -673,6 +661,22 @@ related:
         width: 1279
         height: 720
         isCached: true
+  - title: "'It's about time': With Kamala Harris and Nancy Pelosi, women share the dais for the first time"
+    excerpt: "\"No president has ever said those words from this podium and it's about time.\" For the first time, both of those positions are now held by women: Vice President Kamala Harris and House Speaker Nancy Pelosi."
+    publishedDateTime: 2021-04-29T10:57:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/04/28/joe-biden-speech-nancy-pelosi-kamala-harris-make-history/7352628002/"
+    ampWebUrl: "https://amp.statesman.com/amp/7352628002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7352628002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/565d2a8b-823e-45df-b682-5b63d9d2a2e9-GTY_1232582885.jpg?auto=webp&crop=3595,2023,x0,y106&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Kamala Harris boosts public transit in Cincinnati to promote infrastructure bill"
     excerpt: "Vice President Kamala Harris and Sen. Sherrod Brown conducted a roundtable at the University of Cincinnati’s 1819 Innovation Hub to discuss the importance of investing in the nation's public transit infrastructure."
     publishedDateTime: 2021-04-30T18:56:00Z
@@ -955,6 +959,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "JC/X+PLGS8NjEwIeHNZ4UX3n9XpNfeq7T+9h1uk4ND1lWhZM7cRL4nm2RW3sxyC2uHYp0Fz6QnA3UbRrWZiy7fL2hL6/XBtWydwToo+UQsF1wzKPG5cmoJoH+39vm6jNFdwMa9tGKZerGW4nBfJn3h9Cq44r5+q9npJYl2JoTHedZeBLKFJMMsFsktsH7+Tj+AY2aYCdaID05w7zZkAjIHCbaAwfnw+I2iRMaUwsp2vWg3MzTID/qNZjYptjTfZ6heH9yEl5+R+NNTwV/jH3pTIwUl8Ohmf/xMuDh+x+hUX6WxUgZU1ovL7X4V2+W9T6hciYBI5SAj6QQF0cNzXD5WCSW2gR3JCBiO/ltdqGRomxQKpp86R3QoJ8fhIXL9uahQZF13KVA0AnbNhfaO4/bnPeCyl0R656eqZR5gikRNBNSqiMnwcMfMBHtgrk0/39EVV1JxRKCiAfKQj96rbXfcjzWYOIcFCtU7v8gVjYWpZDyHyThxd4dm4d4ZEmZTN6GHUMO5Scezt4dJbj8qiAfQ==;QT6dY+nlK94nv7IWM+Rx4w=="
+secured: "ERDVvKZNC8zf5KtDo5FAZZ7+T43aq6ps78cNXa72W6/EacWoA4bKksVfo/ZsIGool85ATsUuu2ZeWLonp/Mq3GYFojnMG2XNGvSBGbPLm/OmDO0vItzCozq3m2i+7ti1S0TZoaiu1ryY/fUi+WGxfmxdvEQ+q9lwFx7YKBzZbgLR1aogzQpDfwEkOgP+b/GX7BNeIOyjWnhYT3lLzqfLkJToWV7dYmzDqON9+Ow4LoBp5QG5ym73aqPFwSVQ1TNJ6Ak5qeJ7+whz7v+wNEsyuNHmVwd70lFz//UqgP17sFmZmZRiJY4WejefjlSzhZ4hse/Ofz46IYzNltst88tY/BywRUo8+jiG9EDiCdP8tJY=;K6QFu5Wr/oYM4CkA9Bb8BA=="
 ---
 

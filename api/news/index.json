@@ -173,49 +173,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-06-kamala-harris-visits-latin-america-to-tackle-migration-corruption.md",
-      "title": "Kamala Harris visits Latin America to tackle migration, corruption",
-      "excerpt": "The U.S. vice president is seeking to secure commitments for greater cooperation on border security and economic investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstcoastnews.com/article/news/nation-world/kamala-harris-latin-america-tackle-migration-corruption/507-dee8b053-128d-4357-8360-3ea3447d495b",
-      "originalUrl": "https://www.firstcoastnews.com/article/news/nation-world/kamala-harris-latin-america-tackle-migration-corruption/507-dee8b053-128d-4357-8360-3ea3447d495b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.firstcoastnews.com/assets/CCT/images/deae4c14-bdfb-4eec-b216-6a034ce8823d/deae4c14-bdfb-4eec-b216-6a034ce8823d_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.firstcoastnews.com/amp/article/news/nation-world/kamala-harris-latin-america-tackle-migration-corruption/507-dee8b053-128d-4357-8360-3ea3447d495b",
-      "cdnAmpWebUrl": "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/kamala-harris-latin-america-tackle-migration-corruption/507-dee8b053-128d-4357-8360-3ea3447d495b",
-      "publishedDateTime": "2021-06-06T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "First Coast News",
-        "domain": "firstcoastnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-06-06-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-seeks-white-house-in-2024.md",
       "title": "Trump: 'Too soon to tell' if Pence would be running mate if he seeks White House in 2024",
       "excerpt": "Former President Trump Donald Trump Trump touts record, blasts Dems in return to stage Trump demands China pay 'reparations' for role in coronavirus pandemic Trump endorses Rep. Ted Budd for ...",
@@ -266,6 +223,58 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-06-guatemalas-president-says-kamala-harris-doesnt-hold-back-ahead-of-immigration-talks.md",
+      "title": "Guatemala's president says Kamala Harris \"doesn't hold back\" ahead of immigration talks",
+      "excerpt": "Guatemalan President Alejandro Giammattei is set to host Harris on Monday during her first international trip as vice president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/guatemala-president-kamala-harris-trip-immigration-talks/",
+      "originalUrl": "https://www.cbsnews.com/news/guatemala-president-kamala-harris-trip-immigration-talks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/c23dfc7a-2de3-4928-b162-b5344262f730/thumbnail/1200x630g3/6df35ab454879cb32f06a8fd233a428e/gettyimages-1232547348.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/",
+      "publishedDateTime": "2021-06-06T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -391,7 +400,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-to-gop-support-candidates-who-stand-for-our-values/2021/06/05/df2a2e44-c661-11eb-89a4-b7ae22aa193e_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {

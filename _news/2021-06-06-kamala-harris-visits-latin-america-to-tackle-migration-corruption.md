@@ -1,31 +1,93 @@
 ---
 category: news
 title: "Kamala Harris visits Latin America to tackle migration, corruption"
-excerpt: "The U.S. vice president is seeking to secure commitments for greater cooperation on border security and economic investment."
-publishedDateTime: 2021-06-06T13:49:00Z
-originalUrl: "https://www.firstcoastnews.com/article/news/nation-world/kamala-harris-latin-america-tackle-migration-corruption/507-dee8b053-128d-4357-8360-3ea3447d495b"
-webUrl: "https://www.firstcoastnews.com/article/news/nation-world/kamala-harris-latin-america-tackle-migration-corruption/507-dee8b053-128d-4357-8360-3ea3447d495b"
-ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/kamala-harris-latin-america-tackle-migration-corruption/507-dee8b053-128d-4357-8360-3ea3447d495b"
-cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/kamala-harris-latin-america-tackle-migration-corruption/507-dee8b053-128d-4357-8360-3ea3447d495b"
+excerpt: "Vice President Kamala Harris heads to Guatemala and Mexico on her first foreign trip Sunday, looking to deepen diplomatic ties with two nations key to the Biden administration's efforts to stem the spike in migration at the U.S. border. [ MOISES CASTILLO | ..."
+publishedDateTime: 2021-06-06T13:27:00Z
+originalUrl: "https://www.tampabay.com/news/nation-world/2021/06/06/kamala-harris-visits-latin-america-to-tackle-migration-corruption/"
+webUrl: "https://www.tampabay.com/news/nation-world/2021/06/06/kamala-harris-visits-latin-america-to-tackle-migration-corruption/"
+ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/06/06/kamala-harris-visits-latin-america-to-tackle-migration-corruption/?outputType=amp"
+cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/06/06/kamala-harris-visits-latin-america-to-tackle-migration-corruption/?outputType=amp"
 type: article
 quality: 75
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
-  name: First Coast News
-  domain: firstcoastnews.com
+  name: Tampa Bay Times
+  domain: tampabay.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://media.firstcoastnews.com/assets/CCT/images/deae4c14-bdfb-4eec-b216-6a034ce8823d/deae4c14-bdfb-4eec-b216-6a034ce8823d_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "https://www.tampabay.com/resizer/uls7ATZ4zW3R9qTpUGmrEhpWOu0=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/C676FOACOJF4FHXCS57HUIFB64.jpg"
+    width: 800
+    height: 450
     isCached: true
 
-secured: "iRrpHGYWn7XbyGSY39pj6jofQTj00YX7rDVHbSA4e8JtLJDJrI3rUTRPsTE+cEHIYdW+3+Enhe9W8UAVEwW7kXopG0x9ZajjxXHfcNFYll1ucvLXnRfF7e+ZXSJv5JKTA5vsaTI5CtykNuJJDO/z7ilZQ5u94rM3qXlBLym0bzGImHem8HfniFbTY3lZ/6GJq46JoHpTJEGIqjGfYxD0phtlFZpTVPmS7hb8swzkaGePXV5oFeeVIFoSI7sbyCRcw5GL7b6+j7xHG975/ShFBFrmhmliLPtX8CSZAu0lFL9HJbALKXYCNXz6eIBo36wglaNoGAvBSb8oyNeocaqh3xOhNmFcPlnx90fLMuIS2hQ=;pNQNuLb5zzHs/E10KVrKlg=="
+related:
+  - title: "Guatemala's president says Kamala Harris \"doesn't hold back\" ahead of immigration talks"
+    excerpt: "Guatemalan President Alejandro Giammattei is set to host Harris on Monday during her first international trip as vice president."
+    publishedDateTime: 2021-06-06T11:54:00Z
+    webUrl: "https://www.cbsnews.com/news/guatemala-president-kamala-harris-trip-immigration-talks/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/c23dfc7a-2de3-4928-b162-b5344262f730/thumbnail/1200x630g3/6df35ab454879cb32f06a8fd233a428e/gettyimages-1232547348.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Harris seeks to defy history with Central America mission"
+    excerpt: "Vice President Kamala Harris will make her first foray into international diplomacy on the border situation this weekend, heading to Central American to do some nation-building with a promise of $4 billion in American cash,"
+    publishedDateTime: 2021-06-04T19:19:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jun/4/kamala-harris-seeks-defy-history-central-america-m/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jun/4/kamala-harris-seeks-defy-history-central-america-m/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/4/kamala-harris-seeks-defy-history-central-america-m/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/28/Naval_Academy_Harris_66558.jpg-f684d_c0-0-2504-1460_s1200x700.jpg?559d7eea007bb7e32e58016af6093f8273cfeedd"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Kamala Harris: I eat 'no' for breakfast"
+    excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
+    publishedDateTime: 2021-06-01T17:56:00Z
+    webUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
+  - title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
+    excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
+    publishedDateTime: 2021-06-02T17:02:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/009facc2f199ecbb7b4c0affa25233fc/HARRIS-LANDER.jpg"
+        width: 650
+        height: 433
+        isCached: true
+
+secured: "em0ieqwraTDCCcjMPdohQfmunXQZbsWBd+Rj7MlmH/5P/o9D2EU9wDgCjRg5SJBGe48zpmuekpNaQs4vZqrrbiuRkzJMpqhiTyW9S6RaB26/DSpJlE4hd7q8r0jIYQzquYm6UnO4amosto2rOqa9ecGUruKlq/ZFK3PQ/Gf4JH+ik7qZFODSPL4n4XHxWCL0UAGBBkRg6sTTT7sh33suiD9S/7EXyXnO7wtAxA+I3e8XPhg2QrXrn2hnnvVIj62IfkCKIio2NvJ17Q+H9RvNEo3un1J5XoG/pmmeglLd63bNa4pKfULbtskdFPSpl6GP6ZbXIn3sR8jRXRMBNpXZvbI+VjqT0TVLJasIFH+IXPo=;7FYzRuIJIJ6V+GCqsmQtoQ=="
 ---
 
