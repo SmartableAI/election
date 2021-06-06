@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden plans more talks to woo Republicans on $1tn infrastructure deal – live"
 excerpt: "President to meet Shelley Moore Capito to try to bridge divide on massive rebuilding package – follow the latest"
 publishedDateTime: 2021-06-04T12:41:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba22558f08b9889b368d7f"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba22558f08b9889b368d7f"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba2d2e8f082e80569f631b"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba2d2e8f082e80569f631b"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
 type: article
@@ -215,6 +215,6 @@ related:
         height: 3934
         isCached: true
 
-secured: "ej1xtr3O08V++9/m4JUMc9Une0P4jDqqzDlfOyRAoL1+oeiZ/az35YZXcf07H5wkfO7PfK2GKXjHDkeMrFA6AtYZmknJ4MFrUqBfHk11FXe7FHN3rWmCl31Xsik9LETJZ5ZSDEn3VKvtT2/VPvfQZAaPQpQS3Nm+c8nEtsNa2hnMx2xIqtAf2xd8XO+cjq3eIJncU4VT2rDYn8MHMylnvwrRSroCAc6kXVh4fDcZ9vOJnX35sX6kaAuuyolgMsxgdvaVBE00aqDkxWhkoASGFaFbfJy8xfpnN/ZlFSpxCKjUOBtDCNkPZwvNwosy+NxeufBpqh9ZpKCjRiYb6KRNVs6DaB+/eEsWVfAUKugB7S0=;qcPV94crhJg7wp1Lvg+8Rw=="
+secured: "PZvVeMApQrRxOC2q0ujMx1Yh9+qnrE0sKejXSKfhgYEIwmzTsaRh9x+gXMpW56rFxe/IgBl1I89fi01tbu1LcQAsQiV8py15cyaLLGHSxuamntC7+4vJ1+44QaUgnexYpObwqLE6K5811ic3yfizxARFi+cKpMc/EVTgaDsERZ0SKh84bB4lEVp4U8AxhhhBuvY2IyDcJs/DbQDaHzayj1eK5Hsaf/NmLwPyhp94KKc6CVis0/dDTYT5/BI8ys8QL0JpxI0rHeSS0CJhbHK6P5y+YAw2qxcDRaEoEVC9KHrskhSNjhBT7/s8in9Dq330elPPCPHCpcYK4x8ZacBCc6YeuGvCtaTEmSrznCYoZWM=;6QHjRrF7A36bZL0h5xD65w=="
 ---
 

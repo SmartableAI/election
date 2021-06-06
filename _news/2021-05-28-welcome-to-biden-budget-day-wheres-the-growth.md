@@ -110,6 +110,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden's delivering more leverage for workers, if not in the way he planned"
+    excerpt: "Candidate Joe Biden promised to help American workers bargain for higher wages. For a while, at least, President Biden is delivering.\n    \n"
+    publishedDateTime: 2021-06-06T11:00:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tq2eTEaCZ3Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/biden-economy-workers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/biden-economy-workers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read: President Biden's proclamation to mark the 100th anniversary of the Tulsa race massacre"
     excerpt: "President Joe Biden released a proclamation for a day of remembrance for the centennial of the 1921 Tulsa race massacre, calling on the American people \"to reflect on the deep roots of racial terror in our Nation and recommit to the work of rooting out systemic racism across our country.\"\n    \n"
     publishedDateTime: 2021-05-31T18:09:05Z

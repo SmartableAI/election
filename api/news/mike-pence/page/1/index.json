@@ -59,6 +59,59 @@
       ]
     },
     {
+      "path": "_news/2021-06-06-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-seeks-white-house-in-2024.md",
+      "title": "Trump: 'Too soon to tell' if Pence would be running mate if he seeks White House in 2024",
+      "excerpt": "Former President Trump Donald Trump Trump touts record, blasts Dems in return to stage Trump demands China pay 'reparations' for role in coronavirus pandemic Trump endorses Rep. Ted Budd for ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in",
+      "originalUrl": "https://thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_pencemike_092820getty_press.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in?amp",
+      "publishedDateTime": "2021-06-06T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-trump-declines-to-commit-to-running-with-pence-in-2024.md",
       "title": "Trump declines to commit to running with Pence in 2024",
       "excerpt": "Former President Trump tells Fox News he is not ready to re-up with former Vice President Mike Pence on a potential campaign in 2024.",
@@ -1513,58 +1566,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-franklin-grahams-prayer-call-for-mike-pence-receives-traitor-responses-from-followers.md",
-      "title": "Franklin Graham's Prayer Call for Mike Pence Receives 'Traitor' Responses From Followers",
-      "excerpt": "Gab users refused to wish the former VP a speedy recovery and continued to criticize him for not helping Donald Trump overturn the 2020 presidential election results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/franklin-graham-mike-pence-surgery-gab-traitor-1584107",
-      "originalUrl": "https://www.newsweek.com/franklin-graham-mike-pence-surgery-gab-traitor-1584107",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1778883/mike-pence.jpg",
-          "width": 3000,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/franklin-graham-mike-pence-surgery-gab-traitor-1584107?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/franklin-graham-mike-pence-surgery-gab-traitor-1584107?amp=1",
-      "publishedDateTime": "2021-04-16T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

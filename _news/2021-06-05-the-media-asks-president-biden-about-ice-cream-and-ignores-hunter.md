@@ -3,8 +3,8 @@ category: news
 title: "The Media Asks President Biden About Ice Cream and Ignores Hunter"
 excerpt: "My question for today has nothing to do with President Joe Biden's favorite ice cream. I don't know if ice cream is a big thing in China. But does China"
 publishedDateTime: 2021-06-05T13:06:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/05/the_media_asks_president_biden_about_ice_cream_and_ignores_hunter_145880.amp.html"
 type: article
@@ -267,6 +267,6 @@ related:
         height: 405
         isCached: true
 
-secured: "0M1im/p/OLP+EG/nyngwQ75pIvLM+vc6dzgKouLiKzDmWKsbA+C78wDxRy1Drv59f2QnqFGtdDWs5BLQbiGfSKnyZ5xQ8pc8SMoBzxw6786KWeUSnRWEdVw1AbZBz/JgJud1r512HrJEZSNrylAVzVotwgu2ZkRJrT4rTsqLCCcFTdW7JPeKfqq009QZ6nczjUuASmdefu8s5HZa00yMqIOZ90i8CB9U67lxm5Jq7LxZYAixyF5ptotY3oxPf9YpUQxz/aEiWvL6I9/huUUuAPLfYQOH324IxPZSdyEZEhDGK8BdmXWXqkvU3MtrRE66lTjPPOnr8bSWWrZudfiW65c5Foc7ymDLp24jokJVMqT37hYUoAatSWlFno1d7oMZIhdz/10Qh5LHSYxvoRdUpP7I9ONPCIUzSNxgtrp7jvTwEm99Hay+vzN8kwJQHSoQamrlKHJGoY4Yf3YIy0udqLzLTY09pRrZ9IkYJdBhskpt9BW4zaAgg5bFOimKTiQuK/VrkRfEvSxtkxUDJuKVGA==;N0aZIeyJpFeV0SAUgPCUVA=="
+secured: "23PXAIn/jJtqYBP3WJeYdVALJg1aepfxexQ7tmTih8ALAbgY7IpzjUqH0279VtxR/SOzpdJd6RCah4nrCkvW+7etLPF6LTbCsk+V17krAJ/HgFVmUm4LSudTFMpo/CQUrs2ebVyT1gDzlbSZr6RXSD/r2tGKLDujf4qVorObAaHEaXYqR85L2vihOcr2OMLPRUaZFcnJEZT2Wg/OAOjelKWRU8H/2GTDzsIQ5kEYJqD9/F9ybH+T61fLEBuz2I0VSkh0P49E1Hdjx9pMz6zHMmbVuA/v2o0xmxoL+pphXbrpEJ1MXb0p73xExv9jS6wEwHX3MLXjUzeFeB/+r/WiNvjB+zSrv9cYmDoyHr78sKo=;/XLwozqlswLpn8MDhzWANw=="
 ---
 

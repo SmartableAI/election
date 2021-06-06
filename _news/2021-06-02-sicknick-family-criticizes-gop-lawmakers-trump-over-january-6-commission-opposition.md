@@ -132,15 +132,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "Former Counsel Tells Congress of Trump Efforts to Undercut Russia Probe Democrats"
-    excerpt: "Former Counsel Tells Congress of Trump Efforts to Undercut Russia Probe Democrats WASHINGTON (Reuters) - President Donald Trump's ex-White House counsel Don McGahn \"shed new light\" on the investigation into Russia's role in the 2016 U.S. elections and the ..."
-    publishedDateTime: 2021-06-04T23:48:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-04/former-counsel-tells-congress-of-trump-efforts-to-undercut-russia-probe-democrats"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 30
   - title: "Donald Trump: Speaks at NCGOP state convention in Greenville | Raleigh News & Observer"
     excerpt: "I understand the place will be packed, all records broken!” former President Trump said of his upcoming speech in Greenville, North Carolina."
     publishedDateTime: 2021-06-04T17:14:00Z

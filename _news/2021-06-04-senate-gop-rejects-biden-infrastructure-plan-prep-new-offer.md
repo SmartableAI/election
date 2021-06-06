@@ -82,7 +82,7 @@ related:
   - title: "Joe Biden plans more talks to woo Republicans on $1tn infrastructure deal – live"
     excerpt: "President to meet Shelley Moore Capito to try to bridge divide on massive rebuilding package – follow the latest"
     publishedDateTime: 2021-06-04T12:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba22558f08b9889b368d7f"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba2d2e8f082e80569f631b"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
     type: article

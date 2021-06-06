@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/kamala-harris-guatemala-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/kamala-harris-guatemala-mexico-first-foreign-trip/index.html"
 type: article
 quality: 177
-heat: 237
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Kamala Harris is heading to Guatemala and Mexico "
+    excerpt: "Kamala Harris leaves for Latin America on Sunday under intense political pressure to stem the flow of migrants to the US, with lots of people asking what she's doing heading out on her first foreign trip as vice president before releasing a comprehensive strategy.\n    \n"
+    publishedDateTime: 2021-06-06T14:25:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jSj2Jzr_iiI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-mexico-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-mexico-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527183402-kamala-harris-triangulo-norte-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris and a High-Risk, High-Reward Presidential Résumé"
     excerpt: "For the vice president, another run at the Oval Office is a near certainty. How her current responsibilities help or hurt that bid is an open question."
     publishedDateTime: 2021-06-05T09:00:00Z
@@ -63,22 +79,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/27/world/americas/00guatemala-foreign-aid-top/00guatemala-foreign-aid-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "At Naval Academy Graduation, Harris to Focus on Strengthening a ‘Fragile’ World"
-    excerpt: "Vice President Kamala Harris, the school’s first female commencement speaker, is expected to use her speech to address some of the Biden administration’s most urgent challenges."
-    publishedDateTime: 2021-05-28T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/28/multimedia/28DC-Harris-01/28DC-Harris-01-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
 
 secured: "yW4qoIPvgOhAPZ7IxPHmsLQyRLoTb/iJ2Q18AKvMxZ2QnGhicHe2BYakxcvqt/DVsbYdFNqJIRVIJSnVYTboLZRaDH77WtwBTUiullPc9Qfwjy3CoOQRx0ChlW0/ivEmn9AoTFAwWXKsr4+eVW6eLMX75JE+8nWDnPTdgbvX9Dnv8sJNipxR+9C4m4Ungnr9XvgdWWevUnigsUSPu3yqJ1xrmr2srn3gSpXmF+rpftCCh/FCYcWFMocTQtzjs106bfEU3iis8NrOo99Ovh4A3iqnNfgTZQHLppVQXqsrIAWZRA8iechzKkREC66ahydbD6IrxMeb9GMe/s/61IXQc7rtVH05iZbggC5TaH/bXE8=;E1sA2Ju7yHPwJodK2h2+OQ=="

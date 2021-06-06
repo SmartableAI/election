@@ -570,17 +570,6 @@ related:
         width: 6720
         height: 4480
         isCached: true
-  - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
-    excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."
-    publishedDateTime: 2021-06-03T09:43:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "If Donald Trump faces criminal charges, few think it will hurt him with his base in 2024"
     excerpt: "Criminal charges would create political problems for Trump, but would not necessarily prevent him from campaigning in 2022 and running in 2024."
     publishedDateTime: 2021-05-22T11:00:00Z

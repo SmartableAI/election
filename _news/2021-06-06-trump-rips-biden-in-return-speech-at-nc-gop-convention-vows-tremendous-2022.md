@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump demands reparations from China over COVID-19, rips Big Tech censorship"
+    excerpt: "Former President Donald Trump returned to the political stage to demand China pay reparations over the pandemic and rail against Big Tech over censorship and alleged interference in the 2020"
+    publishedDateTime: 2021-06-06T12:32:00Z
+    webUrl: "https://nypost.com/2021/06/06/trump-demands-covid-reparations-from-china-rips-big-tech/"
+    ampWebUrl: "https://nypost.com/2021/06/06/trump-demands-covid-reparations-from-china-rips-big-tech/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/06/trump-demands-covid-reparations-from-china-rips-big-tech/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-china.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "rGkYOULZVO5oiTVGZlgQVDz+HO3EdWthuoXMKRAxB0SVRDAprjjijjfPcfktiCW+9OojAWKT/YFwL7hqpAOlBuWM+wLYRZppqYTickxBQu6BvVP9eKVlWMmOoS4bVhSiBYbgG6cygllEJR7wfvqxuknBG6U/w9Dh5yRfakH9P0H4hFOR7OU46Lp5d1kV0ZSRIf/KSpwfl2A4RxBn4vB3cmnfSbzbQNKg6sPB2QrIaaxHfGQ9rbH2ejUjo0c7D2oJI1UeH9uY/qdanRRl/FfwVuLC9TJ1+C376L5Rhzq9D+mZ4wkMxSgUek6yfsm/JLQMs9DfNEZayCMHAWbqAtYGsyQkXI1NKoJ8MhYy7nLfKSRc0Bm3Q5YRjNgefx+kTwEfddzFATJmFuVNA/gHC0TpZjpUdIdR2v+hGdYZtK8nVG8SlvUe9EdbcOZIlhGNfLU/lDoAssBUu6uix8OVGKQaG85D9LuTJjLaVRnNDSRvejrjNDJVg0HUQQ+YXfo7Q54XoSHZCbOPOkpu2zFejFPVxA==;DlchEcYKQRtJHWhgnOb52g=="
 ---

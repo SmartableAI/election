@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ"
 type: article
 quality: 140
-heat: 880
+heat: 860
 published: true
 
 provider:
@@ -556,17 +556,6 @@ related:
         width: 6720
         height: 4480
         isCached: true
-  - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
-    excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."
-    publishedDateTime: 2021-06-03T09:43:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-03/talk-of-trump-2024-run-builds-as-legal-pressure-intensifies?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Trump Pulls Own Blog From Internet"
     excerpt: "Donald Trump has canceled his own blog, an advisor announced Wednesday, highlighting the ex-president and election conspiracy theorist's struggle to escape the social media wilderness. The blog \"will not be returning,"
     publishedDateTime: 2021-06-02T17:00:00Z

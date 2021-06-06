@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-china-pay-10-trillion-in-repa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-pay-10-trillion-in-reparations-for-covid-19.amp"
 type: article
 quality: 160
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 146
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/DonaldTrumpNC.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump demands reparations from China over COVID-19, rips Big Tech censorship"
+    excerpt: "Former President Donald Trump returned to the political stage to demand China pay reparations over the pandemic and rail against Big Tech over censorship and alleged interference in the 2020"
+    publishedDateTime: 2021-06-06T12:32:00Z
+    webUrl: "https://nypost.com/2021/06/06/trump-demands-covid-reparations-from-china-rips-big-tech/"
+    ampWebUrl: "https://nypost.com/2021/06/06/trump-demands-covid-reparations-from-china-rips-big-tech/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/06/trump-demands-covid-reparations-from-china-rips-big-tech/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-china.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

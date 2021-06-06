@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden's delivering more leverage for workers, if not in the way he planned"
+    excerpt: "Candidate Joe Biden promised to help American workers bargain for higher wages. For a while, at least, President Biden is delivering.\n    \n"
+    publishedDateTime: 2021-06-06T11:00:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tq2eTEaCZ3Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/biden-economy-workers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/biden-economy-workers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Joe Biden asks Americans to choose country over party as restrictive Texas voting bill advances, but consensus proves elusive"
     excerpt: "President Joe Biden weighed in on the restrictive Texas voting bill that is edging closer toward passage in that state's legislature Saturday, calling it \"wrong and un-American\" as he pressed Congress to pass the \"For the People Act\" that would reverse the GOP's assault on voting rights -- one that has"
     publishedDateTime: 2021-05-30T10:19:06Z
