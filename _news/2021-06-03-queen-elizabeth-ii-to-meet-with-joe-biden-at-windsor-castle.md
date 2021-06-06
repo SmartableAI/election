@@ -1,34 +1,24 @@
 ---
 category: news
 title: "Queen Elizabeth II to meet with Joe Biden at Windsor Castle"
-excerpt: "Buckingham Palace says Queen Elizabeth II will meet U.S. President Joe Biden at Windsor Castle during his visit to the U.K. for the Group of Seven leaders' summit next week"
-publishedDateTime: 2021-06-03T15:59:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/queen-elizabeth-ii-meet-joe-biden-windsor-castle-78060524"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/queen-elizabeth-ii-meet-joe-biden-windsor-castle-78060524"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/queen-elizabeth-ii-meet-joe-biden-windsor-castle-78060524"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/queen-elizabeth-ii-meet-joe-biden-windsor-castle-78060524"
+excerpt: "Buckingham Palace says Queen Elizabeth II will meet U.S. President Joe Biden at Windsor Castle during his visit to the U.K. to attend the Group of Seven leaders' summit next week. The monarch will host the"
+publishedDateTime: 2021-06-03T16:49:00Z
+originalUrl: "https://www.seattletimes.com/entertainment/queen-elizabeth-ii-to-meet-with-joe-biden-at-windsor-castle/"
+webUrl: "https://www.seattletimes.com/entertainment/queen-elizabeth-ii-to-meet-with-joe-biden-at-windsor-castle/"
+ampWebUrl: "https://www.seattletimes.com/entertainment/queen-elizabeth-ii-to-meet-with-joe-biden-at-windsor-castle/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/queen-elizabeth-ii-to-meet-with-joe-biden-at-windsor-castle/?amp=1"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_366f3818e7d847a48c0f25cf56dddd15_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Joe Biden Once Said 'God Save the Queen' in Congress"
@@ -78,6 +68,6 @@ related:
         height: 628
         isCached: true
 
-secured: "BTGb4uFsfxWgc41ubz3WGUhCMOosKPbj0C8SVYGTQ257z0Asa0kDduRVMXzHk9OR27BVFcT+Z3t/3tbzWEdhPeMWU9hVGyobvBepiupzvsCEgVPWou+SyD6Sto0oZFQ6C12AQ6Z3glg5HNe7Kuy+FMn0oGBiLPdd3reN+HDPY85Xcjhz0Jl472v1Qw92p802YwT6FLGi3YN3wRmWcN9mSuZNDhY0q2mdGP3tfNrcC0JVe4kTcibiraD2qmVKs4tYKCTCqxEndu2htu8VRCJcrFkV8bnTJ65rnIk5D2E1tMWezxskDiYmVZSww/AG3JgrHO2acA201kWhg041sfAIgpW/5JvBe8GpKpNUKOLrYzvQxx9D/DUbtk70KLm3C/LjDcKXVPN0xR7UUCLnhT+Oj9psbF4kAV9lpmld9Pdkbfc9qkRDPmzQs+7knwA7RK2URTgwJMMS9X9v0FYBjpnrCjf4ZPFz9VnTfjeddrJULug0c7JOGjZT04Vo6l/QPSo6g/bKjabgypir4Z4nXyj4GQ==;AVNbnPfHWPkp1My/yP+xrw=="
+secured: "0XnL87ZZuvwoMZd4wz9etE/Yi59UfgdMnjcp/SIDar4Ef3I7TWPgjeuh5pazwMUODFeFgpp+UO9yoONIW//huWT0cWVZ+OtYENtlsozmoUgrLKVGLpCAVgB0Bsc7qEM4mfRGz4l4IyvdhkszW7D/NnH7WG5YNgeuui1k4CvLEj8M+yi7vowxncvvKjCBZJeC9bOIhWWsdKAQl3rVo3+2huyaJUtMPvnBsTZAi+i6BbaevGvMoXVF2qsqKkx8tPSBJl0w3bxyuRzcFGrfGJeGdPqxQaoQtg4wU/hdBmckD5prTyXhhdHCqrjzaQ0762zpLxVp2pJMLPYsmsGoT2Rph1VCbt+USeFldqfF1XiMFc3oD+Pnsg/xw9BJcG1hTI2Od7yC0sc7Ap1KzDYKoNWB0MfcDMNw//dRIe3wrjv19I83pVssvNkyYPNEd0paKc4ZimgIl9jinJvz3BWj8VSeyL6OYYzPQSFZ1VLWQJMmLLElz3maLSoeTOY2paING/Fyd3C6Hy0W8O+Fk7nSo/jXAA==;nEJLxg1TRwgdw2TcQeTFsQ=="
 ---
 

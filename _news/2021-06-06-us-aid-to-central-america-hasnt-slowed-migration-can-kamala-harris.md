@@ -1,14 +1,14 @@
 ---
 category: news
-title: "At Naval Academy Graduation, Harris to Focus on Strengthening a ‘Fragile’ World"
-excerpt: "Vice President Kamala Harris, the school’s first female commencement speaker, is expected to use her speech to address some of the Biden administration’s most urgent challenges."
-publishedDateTime: 2021-05-28T10:00:00Z
-originalUrl: "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.html"
-webUrl: "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.html"
-ampWebUrl: "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.amp.html"
+title: "U.S. Aid to Central America Hasn’t Slowed Migration. Can Kamala Harris?"
+excerpt: "A stark reality faces the vice president as she visits the region: Expanding aid programs have failed to stem migration."
+publishedDateTime: 2021-06-06T07:00:00Z
+originalUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.html"
+webUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.html"
+ampWebUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
 type: article
-quality: 131
+quality: 135
 heat: -1
 published: false
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/05/28/multimedia/28DC-Harris-01/28DC-Harris-01-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2021/05/27/world/americas/00guatemala-foreign-aid-top/00guatemala-foreign-aid-facebookJumbo.jpg"
     width: 1050
-    height: 549
+    height: 550
     isCached: true
 
 related:
@@ -64,23 +64,23 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "U.S. Aid to Central America Hasn’t Slowed Migration. Can Kamala Harris?"
-    excerpt: "A stark reality faces the vice president as she visits the region: Expanding aid programs have failed to stem migration."
-    publishedDateTime: 2021-06-06T07:00:00Z
-    webUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
+  - title: "At Naval Academy Graduation, Harris to Focus on Strengthening a ‘Fragile’ World"
+    excerpt: "Vice President Kamala Harris, the school’s first female commencement speaker, is expected to use her speech to address some of the Biden administration’s most urgent challenges."
+    publishedDateTime: 2021-05-28T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/28/us/politics/kamala-harris-commencement-speech-naval-academy.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 131
     images:
-      - url: "https://static01.nyt.com/images/2021/05/27/world/americas/00guatemala-foreign-aid-top/00guatemala-foreign-aid-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/05/28/multimedia/28DC-Harris-01/28DC-Harris-01-facebookJumbo.jpg"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
 
-secured: "4pFAdyNH3MaNad6SSlwY9LbsW9LmDMhtIME8ajDNdTTzu2xJ9j2Dq0kkkp6LdsxzKwwUShCUatuXP3wvdwC5jsuz/Gni3RRSJ7ddSqY8kf5BVrUk3eMbV2XBQNrz1RfXcL055pgTHKJP0VEQ6ZqlcBaO/X1IaMGnqXk7JYzFTY2TM2czKCpoLIb7z78WolqPWSCat1wWDfy2jaKwm26Dfufg272KmKis+yFl7pNelUEWvfUxHNic1wisjdIB3tAoBxrLiPfn1pDMByE5Z0CzR982zC95x/wPLDAz3OmlfcXg30r70V9CHdiWUoFyswJdfICu51ngsGvHTJQbuvgJzzxIuIuZXzpnZawhhlj8uV4=;hbcw6k1my9Kw9Gd8HN9GRg=="
+secured: "hFsBPTPN/97Pj+nBsVFj2jFOo6URjzSElBdAA3KDcKutrkVmziKc//rEF7ZJUocJ3/oPF0Isv2GY1zbeYWISWomssOrN2BbwlfIc9kIPSNqHqhvoUwu2G0zcH+kPLuD2yesWWaSyqDy2jn89Rq/bNgdymkD6sN189u76CU12D6j+XITkfFqNJjOroT6PBQw2dKWsMXJ4YhoRiVOj+bWYYOwHOdYybVmCn3dO9QQEo5y6s58ZSxg3lqwXMYDcwuVZfrch8nNpTz6TV4B+ozSZft4BY2AKM+1Lfq4AR3O9uR48gVectMtYNyXp9pICJQK40i5TsKBwfutEVp+DtJxO1/j7EG6rbPIXQ1MFQEqfXNQ=;4PKakaYP1Eb7WsmUcWG1dg=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-06-kamala-harris-visits-latin-america-to-tackle-migration-corruption.md",
+      "title": "Kamala Harris visits Latin America to tackle migration, corruption",
+      "excerpt": "The U.S. vice president is seeking to secure commitments for greater cooperation on border security and economic investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.11alive.com/article/news/nation-world/kamala-harris-latin-america-tackle-migration-corruption/507-dee8b053-128d-4357-8360-3ea3447d495b",
+      "originalUrl": "https://www.11alive.com/article/news/nation-world/kamala-harris-latin-america-tackle-migration-corruption/507-dee8b053-128d-4357-8360-3ea3447d495b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.11alive.com/assets/CCT/images/deae4c14-bdfb-4eec-b216-6a034ce8823d/deae4c14-bdfb-4eec-b216-6a034ce8823d_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.11alive.com/amp/article/news/nation-world/kamala-harris-latin-america-tackle-migration-corruption/507-dee8b053-128d-4357-8360-3ea3447d495b",
+      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/kamala-harris-latin-america-tackle-migration-corruption/507-dee8b053-128d-4357-8360-3ea3447d495b",
+      "publishedDateTime": "2021-06-06T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "11Alive",
+        "domain": "11alive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.md",
       "title": "Biden, Harris packing their bags this week for first foreign trips since taking office",
       "excerpt": "After more than four months in office, President Joe Biden and Vice President Kamala Harris are both planning this week to leave the U.S. and take the first foreign trips of their administration.",
@@ -114,7 +157,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 217,
+      "heat": 237,
       "tags": null,
       "images": [
         {
@@ -1567,63 +1610,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border.md",
-      "title": "Kamala Harris ripped by New Hampshire GOP for visiting 'wrong border'",
-      "excerpt": "The New Hampshire Republican Party called out Vice President Kamala Harris for visiting the \"wrong border\" as she heads to the Granite State for a visit.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GPxyKiKgp5U/kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GPxyKiKgp5U/kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border.amp",
-      "publishedDateTime": "2021-04-23T11:33:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

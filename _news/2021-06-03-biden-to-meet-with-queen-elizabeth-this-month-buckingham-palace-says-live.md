@@ -47,22 +47,6 @@ related:
         width: 2539
         height: 1670
         isCached: true
-  - title: "Queen Elizabeth II to meet with Joe Biden at Windsor Castle"
-    excerpt: "Buckingham Palace says Queen Elizabeth II will meet U.S. President Joe Biden at Windsor Castle during his visit to the U.K. for the Group of Seven leaders' summit next week"
-    publishedDateTime: 2021-06-03T15:59:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/queen-elizabeth-ii-meet-joe-biden-windsor-castle-78060524"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/queen-elizabeth-ii-meet-joe-biden-windsor-castle-78060524"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/queen-elizabeth-ii-meet-joe-biden-windsor-castle-78060524"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_366f3818e7d847a48c0f25cf56dddd15_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "UK's Queen Elizabeth to meet President Biden at Windsor Castle"
     excerpt: "Queen Elizabeth will meet U.S. President Joe Biden and First Lady Jill Biden at her Windsor Castle home at the conclusion of the G7 summit which begins in Britain next week, Buckingham Palace said on Thursday."
     publishedDateTime: 2021-06-03T15:10:00Z
@@ -77,6 +61,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Queen Elizabeth II to meet with Joe Biden at Windsor Castle"
+    excerpt: "Buckingham Palace says Queen Elizabeth II will meet U.S. President Joe Biden at Windsor Castle during his visit to the U.K. to attend the Group of Seven leaders' summit next week. The monarch will host the"
+    publishedDateTime: 2021-06-03T16:49:00Z
+    webUrl: "https://www.seattletimes.com/entertainment/queen-elizabeth-ii-to-meet-with-joe-biden-at-windsor-castle/"
+    ampWebUrl: "https://www.seattletimes.com/entertainment/queen-elizabeth-ii-to-meet-with-joe-biden-at-windsor-castle/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/queen-elizabeth-ii-to-meet-with-joe-biden-at-windsor-castle/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "86uTyHgxhkq9/xY1EuKlqmQGKy7I4Dot+En6B2CdknL6otbRQ3Sas7VLMzxJhTkYs/yuoX1EJF27QBDriMAaoVJ8fNsyGMC1do1Mj0H/TGA7uGb2HK7CmiXPVv35frHS1DPbWo4Le+N7dLgt3JDs4SWPGVUxPNVsvt7Zsw1JMeUP25BJW49fDbjOEgjx/lCaQUKHHZZfaSMTzvnwa636itlnfdT9fIewO6MTM6KlTZNOK5YeIgEjG8kOKjWddaUOoWCp06VhLJHscOdXiQi6S3jRg+//NFIhjZzkhAZzUwinn6YhAUjFdUwziOQns7bSZiJyWc6Q3v82g8Yj+ehrQt9a/IdfmAajZ1hWRv4/pLs=;XdhJrz5QfWtHS+Zu6yKSow=="
 ---

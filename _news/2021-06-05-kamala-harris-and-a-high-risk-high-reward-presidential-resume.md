@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "U.S. Aid to Central America Hasn’t Slowed Migration. Can Kamala Harris?"
+    excerpt: "A stark reality faces the vice president as she visits the region: Expanding aid programs have failed to stem migration."
+    publishedDateTime: 2021-06-06T07:00:00Z
+    webUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/27/world/americas/00guatemala-foreign-aid-top/00guatemala-foreign-aid-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "At Naval Academy Graduation, Harris to Focus on Strengthening a ‘Fragile’ World"
     excerpt: "Vice President Kamala Harris, the school’s first female commencement speaker, is expected to use her speech to address some of the Biden administration’s most urgent challenges."
     publishedDateTime: 2021-05-28T10:00:00Z

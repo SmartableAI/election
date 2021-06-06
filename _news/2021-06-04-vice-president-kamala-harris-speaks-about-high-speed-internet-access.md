@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Speaks About High Speed Internet Access"
 excerpt: "United States Vice President Kamala Harris departs following an event about high speed internet at the White House on Thursday, June 3, 2021 in Washington, DC. Photo by Alex Edelman/UPI"
 publishedDateTime: 2021-06-03T18:46:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/617e394aa5c0f79d9a920d1092d758af/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/617e394aa5c0f79d9a920d1092d758af/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/07425a76056b18adf917dea890a8b058/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/07425a76056b18adf917dea890a8b058/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/617e394aa5c0f79d9a920d1092d758af/HARRIS-INTERNET-SPEED.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/07425a76056b18adf917dea890a8b058/HARRIS-INTERNET-SPEED.jpg"
     width: 650
     height: 433
     isCached: true
@@ -120,6 +120,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "KfGGFl5JefLasf62QLYjrlHMLb3I/ojDIB64jHj0weJSzx2VxaWAJSntyV3NuRXsOkVMcyDNL/oxHrYikCNsVIIXjHpSTKuzkeP4Npc6TDp9a2C4y6pxzf768nrjoCnefa/qrPzlN4des0A9CBH7Bb0YQjZBsxcdMbxRhWHe4OX0l/cri4o27Q7XPLvyrOeNgKpX4KJr1T1sdZwC7bXruItSUP5UKuJEcJms4vFOHlWr3GTM9EMRZOchMy33owaMZarCGsMLipPVyBRfWUsD67MEB/pJcBB2eOefkreK4KsjJlSDiVArFTWLsrlTrj998DzvtQxtSFhb8Si6GxW1LeUgT8lJYQzwqoF1keLOttL90y+B2jGON43P58cq1fe6doymi1/YN0nZzvt1iJI6Iq/zASnhPUiBw4vPqgduHN7UdkWcaOXEMlC70Iq2z1wLptZoRXb6OyUCsjbzHrjrylGycnyMcnZNPBVwhc0LMV3OlGhsEkfL22IMKvDlTopduOW4mXncl1ekAtzauKHa8Q==;xlFC/fNt9AaRnsLAB5qmAg=="
+secured: "pfdQPkrBlUq0YAv57fRJXaPkg4Q3aIrp1mrW2o1DLKwG19p4YM9kNsD8ZmE652kMLCeAjEKBwHZ3dpxG3DmESg1uBkGKdgtrw98J8w8sg4K6lgkyri99VawPgkhnm7EWhscXl2JJsd6vKnkHz3bhW4Ef0thlFpmr8YDLTrPTynvOqU1XMNBMOC+44bEsZSdG0PFBHXR/PdQ+HJAH+ltU3RuzAj+k9CWrt+9x2kOI/X3lToqFY/SiMd1OYiu+0mTcHLNRNF5G0ZZCYYyqbuSin730i4q4zpSvnfcW+AjHM2CPKwv/Z2UxacYm0+0DzBxANNQGEmnFHDHmZ1IdLmevo2+iTPl/YKKDJ0cioyBS134=;1ZF3nS3UEn8yOVLr+azt8Q=="
 ---
 

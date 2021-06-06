@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/kamala-harris-guatemala-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/kamala-harris-guatemala-mexico-first-foreign-trip/index.html"
 type: article
 quality: 177
-heat: 217
+heat: 237
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05onpolitics-newsletter/05onpolitics-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "U.S. Aid to Central America Hasn’t Slowed Migration. Can Kamala Harris?"
+    excerpt: "A stark reality faces the vice president as she visits the region: Expanding aid programs have failed to stem migration."
+    publishedDateTime: 2021-06-06T07:00:00Z
+    webUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/27/world/americas/00guatemala-foreign-aid-top/00guatemala-foreign-aid-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

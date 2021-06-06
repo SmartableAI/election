@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden rejects new GOP infrastructure offer"
-excerpt: "Politics Biden rejects new GOP infrastructure offer. Posted [NFA] U.S. President Joe Biden shot down a new proposal from the main Republican negotiator on infrastructure, Senator"
+excerpt: "Top News Biden rejects new GOP infrastructure offer. Posted [NFA] U.S. President Joe Biden shot down a new proposal from the main Republican negotiator on infrastructure, Senator"
 publishedDateTime: 2021-06-05T20:14:00Z
-originalUrl: "https://www.reuters.com/video/watch/biden-rejects-new-gop-infrastructure-off-id730966731?chan=6g5ka85"
-webUrl: "https://www.reuters.com/video/watch/biden-rejects-new-gop-infrastructure-off-id730966731?chan=6g5ka85"
+originalUrl: "https://www.reuters.com/video/watch/idOVEG4QH27"
+webUrl: "https://www.reuters.com/video/watch/idOVEG4QH27"
 type: article
 quality: 105
 heat: -1
@@ -136,6 +136,6 @@ related:
         height: 433
         isCached: true
 
-secured: "YvsKXKr5e7K7cjq/zfQIFkgb2L7uppAHWY8KV8s82XksiWqySxSgKsoAp4huPexa12U7GAwg/GoODlxZTIEpV+BX2giitz56Fjav2NoCSbrtYKpYKv7Pv4kN1gk5ubeaW03mGq87pLe0Qtqb0DgyE3FDnwg0qZpyqUuKp1MOybeKOTCSG0x+UOWYhLQGbYKZctoyZljSztl75mjaVnj447ru0JoBJyu+0WpX9qWegWCeQG6Z3qj9PlyqEl3IGBb6GnBfHh3kDqP6eijcRGKa4naatEVRQDykYNbGjpVqP/e5G/Ghocoh6gFfQl6Ez6SZA47YkAEBxF7LpoMMcEF9VQQBP47kJe/iqRCGXKaoo0A=;fmGUE0WIrE30OFk7M0a0uA=="
+secured: "MIZnNi2n2e96F3hVcKI9aRTe0U6fy1wzTFVlhjUmdaxsVOc5ty1BmT9j5+LQD0G9RiXS7WSezbBu6kAfbNZQdISkNWHxhNRuLJsFbBwjn346YkFSgj6aOinnKPWVLhWnXaSuIDvDfdFVX3MQTDZ8FSxtkVByHjsR2UqtYBMrqOMtex9TmJSu7pLj+eFBqIWBckjSfLhtrLA7BMeSXSYkRQtn9NQEjcth6JE3grQ4gW412Sa/MNfGyZ+3IhP/eyQRHlSOVLD9xk71FQ9Y+2N4KNyZJl6eNHcLvIs34s7touDMchsS3nz89wtTwzsSVKf78oFuDtV6CKHcx1GJZ1NjIqjQaKglfClaCYBBJG4/PTo=;6jx8aGILj7f7IS6lMe6NHQ=="
 ---
 

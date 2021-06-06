@@ -91,6 +91,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden plans more talks to woo Republicans on $1tn infrastructure deal – live"
+    excerpt: "President to meet Shelley Moore Capito to try to bridge divide on massive rebuilding package – follow the latest"
+    publishedDateTime: 2021-06-04T12:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba22558f08b9889b368d7f"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/6d23283704255b71f37f57a1fcb5c2fe60dc8cd4/0_119_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=561831e6ccd9fcd5523f7f24d9a7fad3"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden promises ‘summer of freedom’ as he urges more Americans to get vaccinated – live"
     excerpt: "The more people we get vaccinated, the more success we’re going to have,’ president says – follow all the day’s politics news"
     publishedDateTime: 2021-06-02T23:06:00Z

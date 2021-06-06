@@ -3,8 +3,8 @@ category: news
 title: "United States President Joe Biden departs from Holy Trinity Catholic Church"
 excerpt: "United States President Joe Biden departs from Holy Trinity Catholic Church in Washington, DC on June 5, 2021. Photo by Chris Kleponis/UPI"
 publishedDateTime: 2021-06-06T00:17:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/881bdaddd251d3e369ca8ce9024e2b2b/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/881bdaddd251d3e369ca8ce9024e2b2b/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4cbf302b2616c16b3668de34f9f109e3/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4cbf302b2616c16b3668de34f9f109e3/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/881bdaddd251d3e369ca8ce9024e2b2b/BIDEN-CHURCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4cbf302b2616c16b3668de34f9f109e3/BIDEN-CHURCH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -164,6 +164,6 @@ related:
         height: 433
         isCached: true
 
-secured: "xSCbf6cr9aE4zzfw3daF846oU6U16BZYivol2mK4jvfGHUv8l7Q90VilcLLeTU8LQoRFzEmLbiX9VS9l8L+SZp0KNzZRdNKcvQz0DivNlfXmGS44e9Rd2VcyYW2E/mD8hD6m4dtm54ulIDroiZ/2CRc4RlER4+r+Mqfoz6PV9E2S6g8MEGYt61NgdaBOnTAfET9a5mcG3B9es5EAhtguu13NOjOoO61JxQiDyZyNC5gAJhmSsZPNurPeB/iWA6/UKsmkrRIV+PVus7g7Br5coWw8/F2ZSaJopkERIvS/drY34LhbW5jFQDpnSpamZHwR4vMpXC64xsoC+JJuQoFMEUGgxO05GRxL/XsrujGtUcw=;AVQDItw1X9Sc8ynTdHLJOg=="
+secured: "eniGp73ilJP65kfn8ZOLT8MTEqEIilxqPiJsZcdKNRi5j+xPI4ndoovztpJ8Zk4PGZj782o5f+itkXklepvuTJvepi7Jx0znVXgRiqCag2YTX4rnHUzFY0ZrpH8fyLFhBKoRv7sACvR6VpBMbGv3iD5ZiOCSt2q/+cMC1pe6N0zNW9b/+XaYArcYYb9VsfhlUqymHA1w3NMpQyJuN09iDb+j98gTqmBEM0UgwJi2IUtOD92wTtYRJju2JvTsiy8uRHmioe4jn2u/mrYsmfyJS1Hnxvz/YhwE85vZj5dol7+yO2aI5ErN/sA+dOzz4fiKL6Qym+dHCUmjfSPTKV2smTYyAeCiLjJFL26UtwpXi0E=;bARxNpfQpB42FZD4z5t16Q=="
 ---
 
