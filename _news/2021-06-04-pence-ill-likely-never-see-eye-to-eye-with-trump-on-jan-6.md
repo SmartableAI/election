@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-ja
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980"
 type: article
 quality: 150
-heat: 530
+heat: 550
 published: true
 
 provider:
@@ -301,6 +301,20 @@ related:
       - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Pence.jpg"
         width: 1024
         height: 665
+        isCached: true
+  - title: "Donald Trump’s pants weren’t backward"
+    excerpt: "In some ways, presidents are just like us — they put their pants on one leg at a time. But after former president Donald Trump’s speech at a Republican Party convention in North Carolina on June 5, his critics on social media are suggesting that he does this backward."
+    publishedDateTime: 2021-06-07T16:06:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jun/07/viral-image/donald-trumps-pants-werent-backward/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
         isCached: true
   - title: "NJ Republicans Wrestle With Devotion to Trump in Primary"
     excerpt: "New Jersey Republicans decide Tuesday if their standard bearer to take on Democratic Gov. Phil Murphy will be a strong supporter of Donald Trump or a well-funded, establishment-backed candidate who hardly mentions the former president."

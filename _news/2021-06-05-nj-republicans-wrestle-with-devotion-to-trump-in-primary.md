@@ -309,6 +309,20 @@ related:
         width: 1024
         height: 665
         isCached: true
+  - title: "Donald Trump’s pants weren’t backward"
+    excerpt: "In some ways, presidents are just like us — they put their pants on one leg at a time. But after former president Donald Trump’s speech at a Republican Party convention in North Carolina on June 5, his critics on social media are suggesting that he does this backward."
+    publishedDateTime: 2021-06-07T16:06:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jun/07/viral-image/donald-trumps-pants-werent-backward/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
 
 secured: "7PE97mfcDuqKzGpRilqeUfoZm+mECiY2z4tJU9KkYoLknhbhElCexgXNcSod/9mN3m4WTSaK9LBP0b/uLLG9qTu/oSYZN/N4rN9cPtF0dqFKRMhBe71ZKZVJV/gcAEJ05/SXoNi+vc0KEt0IRQ8nLA48O7Nywyok6nzGzg6e/UuG1ZUsQ310atSijdXmHE7JjCD54l6DQCzlsu9JyKaR1FCbEAZ3UfbaMRO/piGJ1RH4WvuZlUJt88gcRbqTfe0mS54f747Zlrpc0gTTL5CgUGTj9a9jU8M9bHEaxao1rhcHl20fuYeXoQHqTbTQI2BT0o7UtM6LhSqPJqjWjtqiQOJpaz39n07YvQhP7v4w87buv40/wlePZo9kMfwrGw7DYp4UzzYtstV05z1bWqW/MtilMD152Iuewetea5u1oTveqbzVXccUpxlwgdLgcJRCz6iMWqi6XpQonqCHWtKYflWr6lOnr8PA0llcLJbw4k49lCFRH7b2uaXJ1HI710x0aAjO7YY3xPuDP/mGf0Azdg==;Dx5RyfHnWx2C/MfXWGsemg=="
 ---

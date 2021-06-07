@@ -63,22 +63,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Russian accounts still active on pro-Trump sites -researchers"
-    excerpt: "A group believed to be Russian has remained active on internet services favored by far-right Americans, showing efforts to interfere in U.S. politics continue after the election, according to reports from social media research firm Graphika and nonprofit Advance"
-    publishedDateTime: 2021-06-07T13:00:00Z
-    webUrl: "https://www.reuters.com/article/usa-russia-election-internet/russian-accounts-still-active-on-pro-trump-sites-researchers-idUSL2N2NL2QO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DJ1OA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DJ1OA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564788445&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH560W0"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Facebook will end special treatment for politicians after Trump ban - report"
     excerpt: "Reported change comes after the Facebook oversight board said that the same rules should apply to all users"
     publishedDateTime: 2021-06-03T21:23:00Z
@@ -122,6 +106,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Russian accounts still active on pro-Trump sites -researchers"
+    excerpt: "A group believed to be Russian has remained active on internet services favored by far-right Americans, showing efforts to interfere in U.S. politics continue after the election, according to reports from social media research firm Graphika and nonprofit Advance Democracy Inc."
+    publishedDateTime: 2021-06-07T13:00:00Z
+    webUrl: "https://www.reuters.com/technology/russian-accounts-still-active-pro-trump-sites-researchers-2021-06-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/EU-UeRNbl9GNyodkJwyZ7ATzNdk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WAJHWC7A3RLYXI4LPO36KDRE6E.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Trump Believes He Can Regain the Presidency This Summer"
     excerpt: "Maggie Haberman and the Washington Post report that Donald Trump has been proclaiming to anybody who would listen that his return to power is imminent. Trump is obsessively following a so-called “audit” in Arizona,"
     publishedDateTime: 2021-06-03T18:06:00Z

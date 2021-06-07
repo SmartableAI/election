@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump eyeing Florida Gov. Ron DeSantis as possible 2024 running mate"
+    excerpt: "Former President Trump revealed Monday that he would consider ditching Mike Pence for Florida’s tough governor Ron DeSantis as his 2024 presidential election running mate."
+    publishedDateTime: 2021-06-07T17:37:00Z
+    webUrl: "https://nypost.com/2021/06/07/trump-eyeing-florida-gov-desantis-as-2024-running-mate/"
+    ampWebUrl: "https://nypost.com/2021/06/07/trump-eyeing-florida-gov-desantis-as-2024-running-mate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/07/trump-eyeing-florida-gov-desantis-as-2024-running-mate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-desantis-pence-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ZSvSjxBeBAKXccuBQxGoZFutBSbtIdTJF2zmMAVzW3E0uZqi1G6MELSSgls8sv4inEOnZ/VN2iNP6ECENNaQOuDfAQTNL9qre/62Hk7xGiBZl2P9E4vktoUZPuQ9qLOl8OHhWmjxML2Qf4qElHKHOr7p6JKAUnma/GAw0lTeiJrwDxBsoFb22pGlGgrkWikQJKnJTIll+smcYY4eS3MfBBB5HiG1S0J4/8qshwPDI3c6tp+x5ABmS+XbP0LUtZsyPXVHf9FfaMLiiP9olpHq8kewMXc8pVKBBHa0abRu3dSTPbU7Qel6P68u/yq17ZmWxtBk3eHsA9jT5v1IiUFQqkPTWMdjEmLB253sJsXAKh4=;4o9AorLveUCOqYT82MDxSw=="
 ---

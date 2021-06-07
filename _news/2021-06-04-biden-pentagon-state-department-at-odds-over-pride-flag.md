@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-state-department-pri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab44b9f-de82-413f-a18b-edc9a57bf466/31c82716-6015-447e-b1cf-fa5e663ec21d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden snubs D-Day's 77th anniversary, angering veterans"
+    excerpt: "A homeland security source told Fox News that President Biden failed to acknowledge the 77th anniversary of D-Day on Sunday."
+    publishedDateTime: 2021-06-07T16:00:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OJ0yDjre_8I/president-biden-d-day-77th-anniversary-veterans-angry"
+    ampWebUrl: "https://www.foxnews.com/politics/president-biden-d-day-77th-anniversary-veterans-angry.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-d-day-77th-anniversary-veterans-angry.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b38256f9-488a-42b5-97a8-0045ea9f23f2/54b27850-e8bb-4108-bf23-32a606a53cac/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

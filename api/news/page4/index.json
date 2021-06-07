@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-02-the-hills-morning-report-presented-by-citizens-climate-lobby-biden-capito-meet-today-as-deadline-looms.md",
+      "title": "The Hill's Morning Report - Presented by Citizens' Climate Lobby - Biden, Capito meet today as deadline looms",
+      "excerpt": "Welcome to The Hill’s Morning Report. It is Wednesday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/morning-report/556422-the-hills-morning-report",
+      "originalUrl": "https://thehill.com/homenews/morning-report/556422-the-hills-morning-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/newsletter-open_060221getty.jpg",
+          "width": 580,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/morning-report/556422-the-hills-morning-report?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/556422-the-hills-morning-report?amp",
+      "publishedDateTime": "2021-06-02T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show.md",
       "title": "Fauci denied being ‘muzzled’ by Trump early in pandemic, emails show",
       "excerpt": "As COVID-19 started becoming a threat last year, Dr. Anthony Fauci started receiving emails from people asking if he was being censored by the Trump administration. He denied the assertions.",
@@ -1278,62 +1330,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/senators-belarus.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senators-belarus.amp",
       "publishedDateTime": "2021-05-29T14:11:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-pompeo-calls-biden-budget-proposal-smorgasbord-of-left-wing-activities.md",
-      "title": "Pompeo calls Biden budget proposal ‘smorgasbord of left-wing activities’",
-      "excerpt": "Former Secretary of State Mike Pompeo on Saturday described President Biden’s budget proposal as a “smorgasbord of left-wing activities” -- the costs of which, he warned, would be inflicted upon future generations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-T9XdhO-j3s/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-T9XdhO-j3s/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c68c707b-ea0a-444c-9b13-86f72acd99cc/b5fb0970-9acf-4cf8-b486-143b7510d448/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities.amp",
-      "publishedDateTime": "2021-05-29T13:58:55-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

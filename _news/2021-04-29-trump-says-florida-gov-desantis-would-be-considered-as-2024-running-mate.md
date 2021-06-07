@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-desantis-2024-running-mate-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-desantis-2024-running-mate-considered.amp"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump eyeing Florida Gov. Ron DeSantis as possible 2024 running mate"
+    excerpt: "Former President Trump revealed Monday that he would consider ditching Mike Pence for Florida’s tough governor Ron DeSantis as his 2024 presidential election running mate."
+    publishedDateTime: 2021-06-07T17:37:00Z
+    webUrl: "https://nypost.com/2021/06/07/trump-eyeing-florida-gov-desantis-as-2024-running-mate/"
+    ampWebUrl: "https://nypost.com/2021/06/07/trump-eyeing-florida-gov-desantis-as-2024-running-mate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/07/trump-eyeing-florida-gov-desantis-as-2024-running-mate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-desantis-pence-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "GcA81joQOd5Xyasm6xq8cL3MLWgm9WCgpEbUUtVadFXOcE0gN+sHwaeng0GulaHINdVf4+fIxutgzWxGIWQVw0JfXtdBtTtVY28iSrIpRqXf4lE/HAav59u8V2S0JW+sxPAaE/yBLTB5gz3szz4e/po9CUAOun1C9GhO+V1hA0k4e48yV1SgPNfn8w3X14Xn5RnUuo0uN9dMgE0NBIs9i0hulZRyeMa5Qy9AsWTP/6ffnUpIfUcoAchjQG4mI40fD1w7CIKjUJj7m3EY7yRhJCS4QO31uXnzR0Digi3Z0j57Q63tnM+B2+q46u3NJ6gUGg75Qc7Kw1dgWq5y67KCan+4FxCg3TxrMjIgyhWBJyM=;w8biHEkE7BNjld4n0AYKrQ=="

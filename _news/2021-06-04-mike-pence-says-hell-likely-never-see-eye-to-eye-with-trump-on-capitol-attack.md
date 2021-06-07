@@ -297,6 +297,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump’s pants weren’t backward"
+    excerpt: "In some ways, presidents are just like us — they put their pants on one leg at a time. But after former president Donald Trump’s speech at a Republican Party convention in North Carolina on June 5, his critics on social media are suggesting that he does this backward."
+    publishedDateTime: 2021-06-07T16:06:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jun/07/viral-image/donald-trumps-pants-werent-backward/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "NJ Republicans Wrestle With Devotion to Trump in Primary"
     excerpt: "New Jersey Republicans decide Tuesday if their standard bearer to take on Democratic Gov. Phil Murphy will be a strong supporter of Donald Trump or a well-funded, establishment-backed candidate who hardly mentions the former president."
     publishedDateTime: 2021-06-05T14:10:00Z
@@ -307,6 +321,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "rwLNQElRDhOMOpV5bI5L/gY79ICQ9nxvt3Q3ABcGRAIAfn6dviIAsaC8IBasvB2lKME7ZDGgVT7BCOhq3cl1j4AqAFh7cKex+aesfOGytoGphYCvnACoxWz9u/Nepj1peq8zyo2IGy66+Z9HXJl88qmaspZnfEap8XprkAWnjTqg9WHiofH4ueZgR7wHoZL+NNxvPD/nMqwpJAdvXuRQt+ImO4jAY97xcNR34eMaS29vpg44ZjXWKlTjQsFKUI4mxqrNyUBoZp1YJ9wd+2ckBm0psKiT+wQFOGxt4Oj7YbdCA8xJxeo9gkN2maCNaW8pjC1dE5lAh9yupE2rDUiQqXcWopF5Q7k9EDgiJHDELKs=;pHDB1tAOdeA8v7nZW3gU/g=="
+secured: "1nIF7p3TNxknXSaT1BPDpxjInuoOgcJZmhCaFC+hRVG3CzP2MRw3oIpB8E99+YCFh6pW3Ia3y+ZSbFmvHB+pSwYIdnLqrxqRl1haVHBVvxL1WjT6054wUMbib9vwhHPKYtBjLilYDTL54DIjCXjunt2dY0HJYASBdDscms8zfJadfo6XRCpV4ykdW7RYcnft4xPfiSNBRkT4aVefChe35omJ96Ss7dZZdBCVCIXWMOlvlY8UChzyRgAyyANlmhhGm5bJ3rvzZulOu40MPB/5xmtzXJIb7F+nblTHpaBfdwUeuf4nMYxMNiM2L8VeFo9wNnLvEG94JnvACTQWjpmApxxyUmWLOaRjw22FODd89lG/Dkxvq6V2o9t9MbJcmN3vuvjeQ1yUSuabR+zibN8st/6srWvrGQNAGTXQmEqf00ALg0ZzE2g5g4EqRQuXAY03y1B0UpkkP25RwrmCn0QVaj9CLeCbcUHT2UHmSzynd/+ZB9iZa/AgUl37oS8WR4wOe5Aiu7QvDnnegYa3eCxQLg==;2V41WNM9CRebaEI1RePInQ=="
 ---
 

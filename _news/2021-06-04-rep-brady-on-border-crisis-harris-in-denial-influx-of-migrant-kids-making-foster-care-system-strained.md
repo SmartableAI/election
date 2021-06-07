@@ -126,6 +126,36 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Guatemala’s prez blames Biden for border crisis as protesters tell Kamala Harris ‘Trump won’"
+    excerpt: "The rally was visible to Vice President Kamala Harris’ motorcade as she arrived to meet with Guatemala President Alejandro Giammattei on curbing illegal migration."
+    publishedDateTime: 2021-06-07T16:50:00Z
+    webUrl: "https://nypost.com/2021/06/07/guatemala-protesters-tell-kamala-harris-trump-won/"
+    ampWebUrl: "https://nypost.com/2021/06/07/guatemala-protesters-tell-kamala-harris-trump-won/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/07/guatemala-protesters-tell-kamala-harris-trump-won/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 164
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-guatemala-001.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Harris tells Guatemalan president that migration is a top priority, after he blames US for surge"
+    excerpt: "Vice President Kamala Harris told the president of Guatemala on Monday that tackling migration is a top priority for both countries, as she made her first visit to the region -- and Guatemala’s president blamed the US for the migrant surge at the border"
+    publishedDateTime: 2021-06-07T17:03:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kCHAr-qt8u4/harris-guatemalan-president-migration-top-priority-blames-us-surge"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21158593227065.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris pays tribute to fallen military after tone-deaf tweet"
     excerpt: "Kamala Harris posted a more fitting tribute to America’s military Sunday, a day after drawing online heat for telling her fellow countrymen to “enjoy the long weekend.”"
     publishedDateTime: 2021-05-30T20:37:00Z

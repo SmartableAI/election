@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-packing-their-bags-thi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp"
 type: article
 quality: 192
-heat: 432
+heat: 472
 published: true
 
 provider:
@@ -111,6 +111,36 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dac429f1-6f9c-4c27-a6af-b323285a0de0/56ba66ce-b60b-4b98-9af1-fb77aa3a1c9f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Guatemala’s prez blames Biden for border crisis as protesters tell Kamala Harris ‘Trump won’"
+    excerpt: "The rally was visible to Vice President Kamala Harris’ motorcade as she arrived to meet with Guatemala President Alejandro Giammattei on curbing illegal migration."
+    publishedDateTime: 2021-06-07T16:50:00Z
+    webUrl: "https://nypost.com/2021/06/07/guatemala-protesters-tell-kamala-harris-trump-won/"
+    ampWebUrl: "https://nypost.com/2021/06/07/guatemala-protesters-tell-kamala-harris-trump-won/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/07/guatemala-protesters-tell-kamala-harris-trump-won/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 164
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-guatemala-001.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Harris tells Guatemalan president that migration is a top priority, after he blames US for surge"
+    excerpt: "Vice President Kamala Harris told the president of Guatemala on Monday that tackling migration is a top priority for both countries, as she made her first visit to the region -- and Guatemala’s president blamed the US for the migrant surge at the border"
+    publishedDateTime: 2021-06-07T17:03:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kCHAr-qt8u4/harris-guatemalan-president-migration-top-priority-blames-us-surge"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21158593227065.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Rep. Brady on border crisis: Harris in denial; influx of migrant kids making foster care system strained"
     excerpt: "Texas GOP Rep. Kevin Brady said the border crisis is \"growing worse\" and the influx of unaccompanied migrant children is making the already tough foster care system even \"more cruel\" for American children."

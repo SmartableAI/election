@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Russian accounts still active on pro-Trump sites -researchers"
-excerpt: "A group believed to be Russian has remained active on internet services favored by far-right Americans, showing efforts to interfere in U.S. politics continue after the election, according to reports from social media research firm Graphika and nonprofit Advance"
+excerpt: "A group believed to be Russian has remained active on internet services favored by far-right Americans, showing efforts to interfere in U.S. politics continue after the election, according to reports from social media research firm Graphika and nonprofit Advance Democracy Inc."
 publishedDateTime: 2021-06-07T13:00:00Z
-originalUrl: "https://www.reuters.com/article/usa-russia-election-internet/russian-accounts-still-active-on-pro-trump-sites-researchers-idUSL2N2NL2QO"
-webUrl: "https://www.reuters.com/article/usa-russia-election-internet/russian-accounts-still-active-on-pro-trump-sites-researchers-idUSL2N2NL2QO"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DJ1OA"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DJ1OA"
+originalUrl: "https://www.reuters.com/technology/russian-accounts-still-active-pro-trump-sites-researchers-2021-06-07/"
+webUrl: "https://www.reuters.com/technology/russian-accounts-still-active-pro-trump-sites-researchers-2021-06-07/"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564788445&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH560W0"
-    width: 817
-    height: 545
+  - url: "https://www.reuters.com/resizer/EU-UeRNbl9GNyodkJwyZ7ATzNdk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WAJHWC7A3RLYXI4LPO36KDRE6E.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -153,6 +151,6 @@ related:
         height: 680
         isCached: true
 
-secured: "utDtrhJ7BwIUwiRDOG1XvGCFld3jx9AzizHsYclFhjkwy+ep8gRdVCg5K8cebC2rHCTn9xLPCg6JDkjD2WBIW9hTJbLFihyTEffZc5FjhYAjJ+ue6fHWNjQ0seRfBANzJXmPgaAg6fbz+00Bxj5uw5KMD1zVWYhmLVkndDsI5xM7jsmdbNnmqDOXiNKJZWyraATSZq9RRZiDjpkIeRvSDrUgkNECsJeSmA5z4zWQkuPJjg0gy7PmVEIsk34BtwY7cDNYdzn7fovIh1RKvjOfQ1RGODETwBu3tpGcUd87q3W4rihK63GR9+dNYbybd3NmlBmjG0yUkPh5aFbCOe+Z9JsFQqX3QgLOshSf86H3SCE=;ruCpCvK/NqijTBU2XXraJA=="
+secured: "hZwqFPVSuqFBDzeVgbHPgMYC6CgzeF1AGUQYVBrptWBYeR0UD5kD7/uPBvXyCTbXPXeY1rRwsvJzZRIRL9LHpbJR73QSn80HaFqikJHQWhtivaSQ6ySCW/2LpL4jkSLqthC3k9h/79RY2nmhBhH3ju0yMC5mvtrfSu8mWiz/mExzRaAeGK0OxKU9x+hs8mjxmvH/GPyu4J3rLbmF+/EOBbBzBUtPj0aEwYh3a7PGRQuGKMaO3+xw8LR8HUZp+qqA1dtYj4eLrCou3zXztJ0nmujYG6LpbZkcrBV9ze8m8Iu52/V7/0bMfKh/PIUGno2c57t6ILq9skcXVlPtndYKvmIAhIDTUh+ug1n60RIPn6Q=;u16feKdq23RkwMOmLqEhQQ=="
 ---
 

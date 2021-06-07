@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Vice President Kamala Harris travels to Guatemala and Mexico on first official trip abroad"
+    excerpt: "Vice President Kamala Harris is in Guatemala on her first overseas trip since taking office. She is spearheading the Biden administration's diplomatic efforts to address the root causes of migration from Central America."
+    publishedDateTime: 2021-06-07T16:49:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-travels-to-guatemala-and-mexico-on-first-official-trip-abroad/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/07/1c3c8c32-4472-4cef-8931-c784a1de93bc/thumbnail/1200x630/c097c4efb1c5eea17efaf39021b6ec6b/0607-cbsnam-harrisguatemala-729962-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Chris Wallace: Kamala Harris seems to want zero 'fingerprints' on Biden's migrant 'mess' at border"
     excerpt: "Chris Wallace said that Vice President Kamala Harris appears to be treating the border crisis like a crime scene in which she wants zero “fingerprints.”"
     publishedDateTime: 2021-04-09T00:00:00Z
