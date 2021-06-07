@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Vice President Kamala Harris Speaks About High Speed Internet Access"
-excerpt: "United States Vice President Kamala Harris departs following an event about high speed internet at the White House on Thursday, June 3, 2021 in Washington, DC. Photo by Alex Edelman/UPI"
-publishedDateTime: 2021-06-03T18:46:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/07425a76056b18adf917dea890a8b058/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/07425a76056b18adf917dea890a8b058/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
+title: "Vice President Kamala Harris’ plane forced to return due to technical problem"
+excerpt: "A technical problem that involved \"no immediate safety issue\" forced Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."
+publishedDateTime: 2021-06-06T19:19:00Z
+originalUrl: "https://www.latimes.com/politics/story/2021-06-06/vice-president-kamala-harris-plane-forced-to-return-due-to-technical-problem"
+webUrl: "https://www.latimes.com/politics/story/2021-06-06/vice-president-kamala-harris-plane-forced-to-return-due-to-technical-problem"
+ampWebUrl: "https://www.latimes.com/politics/story/2021-06-06/vice-president-kamala-harris-plane-forced-to-return-due-to-technical-problem?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-06/vice-president-kamala-harris-plane-forced-to-return-due-to-technical-problem?_amp=true"
 type: article
-quality: 55
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Los Angeles Times
+  domain: latimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/07425a76056b18adf917dea890a8b058/HARRIS-INTERNET-SPEED.jpg"
-    width: 650
-    height: 433
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/f057c59/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa9%2F5b%2Fa1472d634c999c416d705eb11d60%2Fla-photos-1staff-761940-na-pol-0426-kamala-harris-bilat-guatemala-kkn-31006.JPG"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -56,22 +62,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1810109/kamala-harris-makes-remarks-roundtable.jpg"
         width: 2500
         height: 1639
-        isCached: true
-  - title: "Vice President Kamala Harris’ plane forced to return due to technical problem"
-    excerpt: "A technical problem that involved \"no immediate safety issue\" forced Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."
-    publishedDateTime: 2021-06-06T19:19:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-06-06/vice-president-kamala-harris-plane-forced-to-return-due-to-technical-problem"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-06-06/vice-president-kamala-harris-plane-forced-to-return-due-to-technical-problem?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-06/vice-president-kamala-harris-plane-forced-to-return-due-to-technical-problem?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 122
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/f057c59/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa9%2F5b%2Fa1472d634c999c416d705eb11d60%2Fla-photos-1staff-761940-na-pol-0426-kamala-harris-bilat-guatemala-kkn-31006.JPG"
-        width: 320
-        height: 209
         isCached: true
   - title: "Kamala Harris Flight to Guatemala Forced to Return to Maryland Due to Plane Issue"
     excerpt: "The plane turned back roughly 30 minutes after takeoff and safely landed back at Joint Base Andrews around 3 p.m. ET."
@@ -305,6 +295,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Vice President Kamala Harris Speaks About High Speed Internet Access"
+    excerpt: "United States Vice President Kamala Harris departs following an event about high speed internet at the White House on Thursday, June 3, 2021 in Washington, DC. Photo by Alex Edelman/UPI"
+    publishedDateTime: 2021-06-03T18:46:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/07425a76056b18adf917dea890a8b058/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/07425a76056b18adf917dea890a8b058/HARRIS-INTERNET-SPEED.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Kamala Harris and a High-Risk, High-Reward Presidential Resume"
     excerpt: "Is Kamala Harris drawing the shortest straws in the White House? This week, President Joe Biden announced that Harris would lead the administration’s effort to protect voting rights, a task he immediately said would “take a hell of a"
     publishedDateTime: 2021-06-06T21:49:00Z
@@ -331,6 +335,6 @@ related:
         height: 324
         isCached: true
 
-secured: "5s6V/vGqx4dFBJtFY6uH+psTUjHlYRLapZAnzzKIAddguqD6xKWILEhtjJCQpjFbkXtSGVbz0/LVArKa80+UMj3CjKqdk/YdnupEZfF70VOWeLX2dG0PXw4lqZQ0s1HDfkm1Jqw3PIo3o/NQjctOnNXv9jB1hs/qpfuSZq4hzjgo5JdOHa6+lZsE+nQfEtgB3EDtWuhOQYy0kcAJzlgbPpz3252BEcSh2cWaQxn2oZdAANobm2QQhPJKSd3fZSwERnArbOEwM2zVtWtDuWBufdjmr9OvhqFPFV/ISNaWmycrY1dMMhdl4H6v9iDFNyO1JeMci2HDQ45lb808UQpOaRl+6BALVgTFEo2cWtTMi5yDcjyQQCR5P582xx4pEel8zCOHcd/sg+Ne90+K0141ztBK0xHsCVv53CrqMOEM0wGnB7uEYQNTj7m37E7PEvaL9mYdaMLw4yns8Y21mQ1sq4qD/xO47nJf/BxXvulP7OZcinDd+dMfHBwb2U/6E6j6TAdbceCh4nrfp2ZNTStnvQ==;t9GGOOy5uTmdO/H76pGlIw=="
+secured: "14zEapru3i1cs2oRu9N0aOgqRO+7OLFSjtWAFRVimrR3ySSni5CIHzUdX1AdNToKWQsG3plPnimrkDjdLD9W+gMAGMIs92IvvmNG3SQ+1iXgX2hzRlVvTmzX0x1gNWsv7ng4aELM0fC5fgjGz6fNufc37KK9hYvsALmScRw47VT3YgPD6yPIE5LOzyaC2Ny0MqKZQf49pbgppw8VqT03JXXu47Sqn9P0pGwNVxVYUhfffnQVdMqzpdUjBvulmeWLoN/R4jPLO4iY1l3BdJqLZ7kKdw76PN0x+78SyaixfmxDR8ywhPcAEmAOZ0oc0f25aCT4mKwuJBhrpAXWoMOlDv0csK5yvJ1niJ5u7f9aIQ0=;nu0WF+CO7RYz3xYq3HxwLw=="
 ---
 

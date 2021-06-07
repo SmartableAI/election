@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Cheney: Trump inciting January 6 riot 'the most dangerous thing' a president has done"
+    excerpt: "Wyoming Republican Rep. Liz Cheney accused former President Donald Trump of having committed the worst violation of a president's oath of office by inciting the January 6 Capitol insurrection -- and taking a jab at House Minority Leader Kevin McCarthy over his subsequent visit to Trump at Mar-a-Lago.\n"
+    publishedDateTime: 2021-06-07T03:01:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sPJZb6-02gg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/cheney-trump-dangerous-thing-axe-files/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/cheney-trump-dangerous-thing-axe-files/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514181348-cheney-tapper-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence says he and Trump may never see 'eye to eye' on Jan. 6 riot"
     excerpt: "Former Vice President Mike Pence addressed the Jan. 6 pro-Trump riot attack of the Capitol saying that he and former President Donald Trump may never see \"eye to eye\" on the event."
     publishedDateTime: 2021-06-04T02:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mueller-teach-trump-russia-probe-cl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mueller-teach-trump-russia-probe-class-uva-law-school.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "'Life, Liberty & Levin' rips criminal investigations against Donald Trump, says its like Soviet Russia"
+    excerpt: "Life, Liberty & Levin’ host Mark Levin ripped into multiple investigations into former President Donald Trump calling them “witch hunts” which are motivated by politics not justice."
+    publishedDateTime: 2021-06-07T03:10:00Z
+    webUrl: "https://www.foxnews.com/media/life-liberty-levin-rips-criminal-investigations-against-donald-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 99
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a588ac8-15b5-426f-8dde-6f314e7631ee/a41250a4-56c8-42bf-8952-9e5cea70b5a4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "jcQNCH+yC5lPD5C7yN93Cf7Q+DkzumR1lSmhO0swVJPqRr8s5vLmpYkoqSav9fj5/x9T/J9ptUwYiyyGkhIPJPf18Q43kKb6GM8L4C9fXx/S0L8WRJT6y/EJ+5MuLbXfaIeInICHS7eulJf9V5pOBzlMa7s4xL73j2eABJAAbz8D+uWn3eWdMj2rd/MH+qLQ5L9Bve2dZ8cxu5BFwQjnlb09O9VLsg4ZML/UQ4ti9p3KuEUBaK3FbJQPcx+npNX5wrrFtBYeHi25SJ/1uZqalIIxUsKEDP90Gv2UMW9uze0n1hz24QHzU6fvBTGPfvL4PTbxNQ5kxnCk4Yqjtx3cI18HVI6pGou88wftBx/EoiI=;/6iAeHLmacjI3eYDWv3YlQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1810109/kamala-harris-makes-remarks-roundtable.jpg"
         width: 2500
         height: 1639
+        isCached: true
+  - title: "Vice President Kamala Harris’ plane forced to return due to technical problem"
+    excerpt: "A technical problem that involved \"no immediate safety issue\" forced Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."
+    publishedDateTime: 2021-06-06T19:19:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-06-06/vice-president-kamala-harris-plane-forced-to-return-due-to-technical-problem"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-06-06/vice-president-kamala-harris-plane-forced-to-return-due-to-technical-problem?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-06/vice-president-kamala-harris-plane-forced-to-return-due-to-technical-problem?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 122
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f057c59/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa9%2F5b%2Fa1472d634c999c416d705eb11d60%2Fla-photos-1staff-761940-na-pol-0426-kamala-harris-bilat-guatemala-kkn-31006.JPG"
+        width: 320
+        height: 209
         isCached: true
   - title: "Kamala Harris Flight to Guatemala Forced to Return to Maryland Due to Plane Issue"
     excerpt: "The plane turned back roughly 30 minutes after takeoff and safely landed back at Joint Base Andrews around 3 p.m. ET."
@@ -319,6 +335,6 @@ related:
         height: 324
         isCached: true
 
-secured: "itLp1GNNh2jCFyoeH2AnibhtERHQaEDQKsrq2gilmqKKEwuOYmInv5UEY5Q3azuzDSDNn1tKgojJw8nW14fNUkpys3uWFO5y5OQgWSX0wfl4svRrxK3w0xjGJzgOqX6I8GcZPVi/8aAKr1XqzmGMCLTkcDbPkPd9bBxWrcEGl2GQjmzsa0x/QinZwha2tnIHcVDk78lRMYMmAXXcOMJt82L9Hhpt2hH4rzHtAqGRe4Iw4uLmRxWqPuOsfDCPf1H8MZYlR8LxxoHUgFPQZ9lGWejNmc1neFSviEcpwlWtzhY8sXNAm7x557eY1J2e1t6+7TMnoCGq2nyhgQMlpNp1KMg8OQrUWMqyzYxlv4t7hbg=;4PlgG/0zSGOvqmJSpWMUxA=="
+secured: "dSrMtvSETozwGIPp5fCviMnBbAldoncXtlmX16aprezCpL7lv7CB3csw801Fx7wudcI56+r0Vpr2T37qOOpJKLGv/orgbI3eud43x+93lGN1ZwZ9R/7N8nZ8mXIhp6hZv7US/q84zx7/LYlCuafBDsufy+2oTjZKkJJNeBbNq4BUsGX0qypOZsoFKLZBrVSUYgdJsY5cBJZ0d7BMHGsUVa/+7RdC8xorYd9K5LmFfy4EawU1nw8FRYcCbUlgHReg5yiz/2vrYk35dNhagzJ8n/61utgZu4qWJ0eTVWbXHJix7UDYU1wA0WV1nGmNLNGbDkni5sKmVLPMZIHfYQ/43Inhu3QBZvITzFbyz+wk7SRf9Vixp5ZnIbluvk76JP3Ddlq6botJCtTqs9jdsS2qfWW/tHakH2wqGsmKS8/sx9RHNPP6fte96+DNnwXIQZFKr1uDj5F43X7OLzM5Qv0hJcZmHIv2IVnPbk7AYjt4JRj0+x/lftBelEYfM00MCZdFo9qShp0XXPzYoFe13mKddg==;GQe0ldZNmEh6iOH5jYAsTw=="
 ---
 

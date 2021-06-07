@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump Family In Politics: Lara Trump Says 'No For Now' For North Carolina Senate Bid"
-excerpt: "The Trump family continues to flirt with running for public office without committing to a bid. Late Saturday, Lara Trump, the wife of Donald Trump's son Eric Trump, announced to the North Carolina GOP state convention in Greenville that she would not run for Senate in 2022."
-publishedDateTime: 2021-06-06T18:59:00Z
-originalUrl: "https://ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602"
-webUrl: "https://ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602"
-ampWebUrl: "https://www.ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602?amp=1"
+title: "Former President Trump addresses crowd in North Carolina"
+excerpt: "Former President Trump on Saturday spoke at a Republican event in North Carolina where he discussed the 2020 election and the future of the Republican party. Christina Ruffini has more."
+publishedDateTime: 2021-06-06T23:12:00Z
+originalUrl: "https://www.cbsnews.com/video/former-president-trump-addresses-crowd-in-north-carolina/"
+webUrl: "https://www.cbsnews.com/video/former-president-trump-addresses-crowd-in-north-carolina/"
 type: article
-quality: 68
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/05/trumps-daughter-in-law-lara-trump-announced-she.jpg"
-    width: 1024
-    height: 681
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/51c0f68a-9067-4792-9fb9-a75ea1908ac8/thumbnail/1200x630/c1aab970eaca9edd9d42048a3fae7e25/0606-en-ruffini-729566-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -111,20 +109,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Former President Trump addresses crowd in North Carolina"
-    excerpt: "Former President Trump on Saturday spoke at a Republican event in North Carolina where he discussed the 2020 election and the future of the Republican party. Christina Ruffini has more."
-    publishedDateTime: 2021-06-06T23:12:00Z
-    webUrl: "https://www.cbsnews.com/video/former-president-trump-addresses-crowd-in-north-carolina/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/51c0f68a-9067-4792-9fb9-a75ea1908ac8/thumbnail/1200x630/c1aab970eaca9edd9d42048a3fae7e25/0606-en-ruffini-729566-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Former WWE wrestler, Trump administration officials and congressman's widow are among 23 candidates in Texas House race"
     excerpt: "The crowded May race, with 23 candidates, could give Republicans an early look at Trump's staying power in the GOP."
     publishedDateTime: 2021-04-20T16:43:00Z
@@ -157,6 +141,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump Family In Politics: Lara Trump Says 'No For Now' For North Carolina Senate Bid"
+    excerpt: "The Trump family continues to flirt with running for public office without committing to a bid. Late Saturday, Lara Trump, the wife of Donald Trump's son Eric Trump, announced to the North Carolina GOP state convention in Greenville that she would not run for Senate in 2022."
+    publishedDateTime: 2021-06-06T18:59:00Z
+    webUrl: "https://ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602"
+    ampWebUrl: "https://www.ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/05/trumps-daughter-in-law-lara-trump-announced-she.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Mike Pence talks to South Carolina conservatives"
     excerpt: "Former Vice President Mike Pence speaks to the Palmetto Family Council gala. In his speech he reiterated his and former President Donald Trump's accomplishments and criticized President Joe Biden."
     publishedDateTime: 2021-04-30T00:53:00Z
@@ -167,6 +167,6 @@ related:
       domain: thestate.com
     quality: 35
 
-secured: "opcBAAqjIaT3yl3NR1g6iLDJMj+Vn+87YwvaahaRnXK7zLRPoiq/rEJTXPrns1UoGaAU959F3igwGht9u8EWSWSc6Pqhr3GWHSWjPv+uwEPAGq4suSXVoc1zal5u22C+1lI5a0KtXWASuOYwCzyaJBMcz2/L7xRfNWv80KvDdYpRLpVLg/+PeAFn+hcPzvwc3yEvL18DWHwZ+lOFjCTwI7FLQ7RBdh2u0Qb5y5xZBF6FQFiY8tBURKvFiK7dLOfoT+gKqdT++eIH5SJTfbXW87P7Hc/PYjEgTRD2nynIJJCduKef6OEWfZk37+eCWepTvt0AwkZzYuR6CE0HrlEUOcDQUjliR1R86u/Avk/5ifaLVHDl41bRVDTimJDW0F0gQSH6W7oAY+6nS6j8khutqUTXVv3Yh1Ml3TYv88sVMj1ahHqiDKWXBqNNuAaVn3+20RHfAwygknu7TEi0TO/O9OJ+1nq4bhWVTPe0hsl64pno/asuLSMUKOVMKOSHw2gxlu0Tpv7nRP4YFBiLBcpSow==;gjVxQ54jNAV08DdxvICicQ=="
+secured: "gokyRtei/NHxTLESMj6vyRzDWJM0R9qm1nfe4F40FT+t1oADquAezISn8zunMiFqSp70WjFVJNBahzxDYADGWGGLBAoO2nvQWFri3gLzhFvxwQh0BtL0RAJiBTrop6+3dILY8F8+aTTW7c3vO7dNbCyf6CnJSCJvIeAS2OTHnW8VtUDFTQAwYGml67KenuH3l0qLeT+wzLruT600/LAd9GbFF+0JGQOmNF6x6wA0UPtSmbDVOMljUTAUAJck9zwofGgSXDdN18AJbmb2taerS1cnsbXctelC9KDqswxYFeH3ugri+HBlLyVnv/WAzSQJKSKOjMKdEm9QPRNQ/TEWU2i4/0QIH8M8E2Ckjfc5Sbk=;3rQZ4dyHthMGCe5JWTCOGQ=="
 ---
 

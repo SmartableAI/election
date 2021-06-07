@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
     quality: 122
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/06/fdbd3419-5b09-49fb-a498-d32f8dc467d1/thumbnail/1200x630/f6bcb7a155cd44386d8b60ed77087f80/gettyimages-1233293385.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Former President Trump addresses crowd in North Carolina"
+    excerpt: "Former President Trump on Saturday spoke at a Republican event in North Carolina where he discussed the 2020 election and the future of the Republican party. Christina Ruffini has more."
+    publishedDateTime: 2021-06-06T23:12:00Z
+    webUrl: "https://www.cbsnews.com/video/former-president-trump-addresses-crowd-in-north-carolina/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/51c0f68a-9067-4792-9fb9-a75ea1908ac8/thumbnail/1200x630/c1aab970eaca9edd9d42048a3fae7e25/0606-en-ruffini-729566-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
