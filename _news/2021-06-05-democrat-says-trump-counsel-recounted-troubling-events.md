@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/After-2-year-battle-House-panel-to-in
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php"
 type: article
 quality: 75
-heat: 75
+heat: 95
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 600
     height: 336
     isCached: true
+
+related:
+  - title: "'Trump Man' Admits To Repeatedly Pooping On Neighbors' Lawn Because They're 'Democrats'"
+    excerpt: "Ohio police said Jerry Detrick, 70, admitted to repeatedly defecating in front of a neighbor's home because he said the residents \"are Democrats and support Joe Biden.\""
+    publishedDateTime: 2021-06-07T05:55:00Z
+    webUrl: "https://www.ibtimes.com/trump-man-admits-repeatedly-pooping-neighbors-lawn-because-theyre-democrats-3218933"
+    ampWebUrl: "https://www.ibtimes.com/trump-man-admits-repeatedly-pooping-neighbors-lawn-because-theyre-democrats-3218933?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-man-admits-repeatedly-pooping-neighbors-lawn-because-theyre-democrats-3218933?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/stars-stripes-21806501280.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "PFzAmKFjRCliMaqI0V2Da06ECQnwMcLci0Oii5IEbPCV+djJnKkr2SYrfKmSP8vbqqpWWaZx4qnV6AlG4qNEanY5MSSVHEffa2qR2h37XPiy5NKThhpdio/JqQ1HWqZ2UmBx8dtWK+MgbjeTU7x3qE8sj+woEgOupDEVts6s6reyI15WgUZClKFKfndJVCuGde3M5kQvXO/0iEI6yoypDnp+3kFhuRX8XiBgW7f67D4YlxKWnhWLmC9bqwHIykQLgG/nBYsam8B9xeC17tyWRGvlcgocUxDplBBt4fpAdpaFs0sjfmK4ukokCDekMQIWDoNuImwgAti1tYSwnX045fSlssWBIHEuc/k6A37ZRYia7lOHYHHeNzan32FvJJ+OE0aw/E9rt4QKKhdgbp0fFeRos3JYeiTk2jnQY98ImgLEdVb4C6pplew98T7rbZtdKdBXuan9Km45PdAYRawk5bMaUiZX32YsiDU7+IrBDYVceIpJjj5402A7LLJU6oZ25PwgYJ14DfivI1X04+d62w==;AxkTdU4NJ1BwOpzDe4Sk+A=="
 ---

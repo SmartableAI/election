@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrat calls Manchin 'the new Mitch McConnell' and says he is working to thwart Biden's agenda"
+    excerpt: "New York Rep. Jamaal Bowman on Monday compared fellow Democrat Sen. Joe Manchin to Senate Minority Leader Mitch McConnell and said he is trying to thwart President Joe Biden's agenda after the West Virginia lawmaker stood by his decision to vote against a sweeping voting rights bill and opposition to"
+    publishedDateTime: 2021-06-07T13:11:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-brPA7gQHNM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/jamaal-bowman-joe-manchin-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/jamaal-bowman-joe-manchin-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607080038-jamaal-bowman-joe-manchin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: The sneaky radicalism of Joe Biden's first few months in office"
     excerpt: "Joe Biden ran for president on a very simple idea: Government (and the country) works best when people from opposing parties work together. And he cast himself as someone who was uniquely suited to re-stoke the desire for bipartisanship in Congress (and the country).\n    \n"
     publishedDateTime: 2021-04-09T16:08:27Z

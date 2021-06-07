@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Senate GOP rejects Biden infrastructure plan, prep new offer"
-excerpt: "Senate Republicans are panning President Joe Biden’s latest infrastructure proposal WASHINGTON -- Senate Republicans on Friday panned President Joe Biden's latest infrastructure proposal and are expected to make a new offer as talks grind toward next week's deadline for progress on a bipartisan deal."
-publishedDateTime: 2021-06-04T09:24:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
-webUrl: "https://abcnews.go.com/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
+title: "Joe Biden gears up for trip to Europe to meet Queen and Putin – live"
+excerpt: "President to meet world leaders at G7 in Cornwall this week and have summit with Putin in Geneva – follow all the latest news"
+publishedDateTime: 2021-06-07T12:28:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_8f57953f6aad4fa3ba32d78d8a74b5aa_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://i.guim.co.uk/img/media/754a201b269cb688c5422883eabd93e8f1f5a247/0_194_3842_2307/master/3842.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00f3c293ae15a837f2abf2a9b8d5abd0"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden gears up for trip to Europe to meet Queen and Putin – live"
-    excerpt: "President to meet world leaders at G7 in Cornwall this week and have summit with Putin in Geneva – follow all the latest news"
-    publishedDateTime: 2021-06-07T12:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
+  - title: "Senate GOP rejects Biden infrastructure plan, prep new offer"
+    excerpt: "Senate Republicans are panning President Joe Biden’s latest infrastructure proposal WASHINGTON -- Senate Republicans on Friday panned President Joe Biden's latest infrastructure proposal and are expected to make a new offer as talks grind toward next week's deadline for progress on a bipartisan deal."
+    publishedDateTime: 2021-06-04T09:24:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/754a201b269cb688c5422883eabd93e8f1f5a247/0_194_3842_2307/master/3842.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00f3c293ae15a837f2abf2a9b8d5abd0"
-        width: 600
-        height: 360
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8f57953f6aad4fa3ba32d78d8a74b5aa_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Will Europe sign up to Joe Biden’s plan to counter China?"
     excerpt: "The EU has become more sceptical about Beijing but some leaders worry about Washington’s new cold war rhetoric"
@@ -247,6 +247,6 @@ related:
         height: 3934
         isCached: true
 
-secured: "aLBh/Xm3i4mf3wTqzbMUSBNR7n+vPS9dSR3K3ygV2KJMWG5NLUkmTMqLo0dPZT3EDLdH9g65N68sCGECa9NC7xv/YiTavDVbw02UdsEUuw46drXdxcnVT608obF2418UHTDh697/cAamSIvA+hYUDVby8i+QSltuRxfkGmQNEb05HM4m21BKPNjzVEpgoNujIZ/HLOohgFsHPc6hvpT6FZVydgcH9vEqIbBs6jgccc1TIDcW3MtX/WeZ6pwiK95ekPFOOs8dIr5UvyZm1weUos/8ustU9Ibq00323SNjSFjFDQxpD6EXpxf5/B7OsJ8S3s+0ypdCaUkqwzL/g1PfSzQ8rHHR10X8oTIKUJfJzIW3Ie3r+3MuNLvDpKjWzuSFEj8E8MkG3eLvipkUlRycVWx93z6P4zsWGShk4/hjKoX2HYs2v189Mr5WRVBSJur2PIoL8VQZSVu1oyFfxsNiWp0+toLaEufxlo4rEq3IMBmrEH7CEsjxdZc+o/eGD5T4nS6KWB+0YqfGrxyqdAYyqA==;feHYLO2oHnkg46EwSz0tlA=="
+secured: "W2RxkOMDWLLn5sjDGefHFx+4YZTUZaEaePBBzjobKzzpMc8FASzw3J2ZtvaUZyhWlMOO1WaiXM26tgHZoM62cL9Gw03aKK3O3Crk5zpg/C2ekJ8OvaEsG1/Fy6mv2J2VQWEu2RAprMJg/0P3Y/+3u2Oaa9I6CFi1cdE8pnaapJMY7dFzh0dWAQ3ZOBBLC14xj//R+4lvf5IJbGFhOedJRhV5XzTaOFjF3EIIHk/XXZlAHTL5FiBBdxwH54f2vU7NgowuXIscXnUuy0uE3smw8iAuzm75l/S99C/iZHSt9MPFr5wdkKw57KMyoqU3E9TfSVAe3xwwnKbnRz8YMl7cWnjrpxeL2bLoyynXdekZgwo=;k70kL73SyNjcYseFqeboQg=="
 ---
 

@@ -249,6 +249,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrat calls Manchin 'the new Mitch McConnell' and says he is working to thwart Biden's agenda"
+    excerpt: "New York Rep. Jamaal Bowman on Monday compared fellow Democrat Sen. Joe Manchin to Senate Minority Leader Mitch McConnell and said he is trying to thwart President Joe Biden's agenda after the West Virginia lawmaker stood by his decision to vote against a sweeping voting rights bill and opposition to"
+    publishedDateTime: 2021-06-07T13:11:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-brPA7gQHNM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/jamaal-bowman-joe-manchin-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/jamaal-bowman-joe-manchin-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607080038-jamaal-bowman-joe-manchin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to host bipartisan group of lawmakers for infrastructure meeting as he faces pressure on both sides of the aisle"
     excerpt: "President Joe Biden will meet with a bipartisan group of lawmakers on Monday afternoon to discuss his roughly $2 trillion jobs and infrastructure proposal, as he faces united Republican opposition to the plan and pressure from Democrats to move without GOP support.\n    \n"
     publishedDateTime: 2021-04-12T13:29:35Z

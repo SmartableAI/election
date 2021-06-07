@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Kamala Harris Flight to Guatemala Forced to Return to Maryland Due to Plane Issue"
-excerpt: "The plane turned back roughly 30 minutes after takeoff and safely landed back at Joint Base Andrews around 3 p.m. ET."
-publishedDateTime: 2021-06-07T00:56:00Z
-originalUrl: "https://www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004"
-webUrl: "https://www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004"
-ampWebUrl: "https://www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004?amp=1"
+title: "Vice President Kamala Harris aims to tackle immigration on her first foreign trip to Guatemala"
+excerpt: "Vice President Kamala Harris is in Guatemala to discuss the underlying causes of U.S. migration on her first foreign trip. Ed O'Keefe reports from Guatemala City."
+publishedDateTime: 2021-06-07T11:59:00Z
+originalUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-aims-to-tackle-immigration-on-her-first-foreign-trip-to-guatemala/"
+webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-aims-to-tackle-immigration-on-her-first-foreign-trip-to-guatemala/"
 type: article
-quality: 120
+quality: 93
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://d.newsweek.com/en/full/1814333/kamala-harris-plane-forced-return.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/07/5500cdc5-aa74-45c9-82d3-86889a19b448/thumbnail/1200x630/b5db05a1ba8cb0e44141bf58b2cb3d8c/0607-ctm-vpforeigntrip-okeefe-729672-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -79,6 +77,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Kamala Harris Flight to Guatemala Forced to Return to Maryland Due to Plane Issue"
+    excerpt: "The plane turned back roughly 30 minutes after takeoff and safely landed back at Joint Base Andrews around 3 p.m. ET."
+    publishedDateTime: 2021-06-07T00:56:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1814333/kamala-harris-plane-forced-return.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Guatemala's president says Kamala Harris \"doesn't hold back\" ahead of immigration talks"
     excerpt: "Guatemalan President Alejandro Giammattei is set to host Harris on Monday during her first international trip as vice president."
     publishedDateTime: 2021-06-06T11:54:00Z
@@ -108,20 +122,6 @@ related:
       - url: "https://www.reuters.com/resizer/6_n-ITQL8kzEbhcIojQrH-xzRow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WE6HSFDBGVIV3GKOVV3NHHX2WA.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Vice President Kamala Harris aims to tackle immigration on her first foreign trip to Guatemala"
-    excerpt: "Vice President Kamala Harris is in Guatemala to discuss the underlying causes of U.S. migration on her first foreign trip. Ed O'Keefe reports from Guatemala City."
-    publishedDateTime: 2021-06-07T11:59:00Z
-    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-aims-to-tackle-immigration-on-her-first-foreign-trip-to-guatemala/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 93
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/07/5500cdc5-aa74-45c9-82d3-86889a19b448/thumbnail/1200x630/b5db05a1ba8cb0e44141bf58b2cb3d8c/0607-ctm-vpforeigntrip-okeefe-729672-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "VP Harris announces business investments in Central America"
     excerpt: "Harris issued what her office described as a “call to action” for businesses and nonprofits to make new commitments to promote economic opportunity in Central America. At an event announcing the initiative,"
@@ -349,6 +349,6 @@ related:
         height: 324
         isCached: true
 
-secured: "jXwvXx7SV2VDKl6RywLqgMnZx7fE7wTgglJxdiqvBzUlagTArUEs2rt7VN5u8s/FCuKh6jmYFZu95OPBFoI+QdAq9NGJYJOvzEY7YeoVI/CaExe8CZCPav72+CRrZAlIuiyNv03tTWnHwzXSIM7LCRDt8SbZBMv62sCXivrCc2kKvMMatDoSImCzGUQb77qo7yE2N24c5Xcb+CG7QyDmvJSaCCRthzrS03taYLayqMmZsVbJP5AacOtTniyNBqCp7m7TeBJ0ikHo9rJH3sqjilh/lfJBN4ifV/D8oWu1dcnhNuqerH2eOIDruqm7OaSfqmEaFoTfXjJ+sWkcIOCzgILeCJFs9RmSrIu1QkXLlc0=;Lyx9DkZA5A4NMUpapFjtXQ=="
+secured: "WS6M6LCmYDV1tUe2FATwqq9QVKU0gMydRofgsqUggBVdghGjPC0GUVG98DtAJrvjfipkIJ+IiH0GAi90Ksk36oeKg/V0miSj9cdk5cvC1Q01ocPCidajf1JPtAORwHXQ5/nXkB7I+vEzKlopIwsjhCUiFZtpObXCEGC16AtpCqTGAbHLvknAJGETwzLLaNCiEXdtrmZS/0zW3GjZt8CI6bfF2guLOkITRqqZvUXWzFawbNneYi9p//+qT5A1rANOguBX6Iw/pjE3ztd9ahijjrEfCoHyMIqj2YBX2uWSis8QmbX6DyO569UCHd6AKNXkDqAHxcOlbaX+4FOnFd5X/5vQKp7n1BUuzIO4BrQ9yQw=;oU3JV2Sp4Prat8sRnwKS1w=="
 ---
 

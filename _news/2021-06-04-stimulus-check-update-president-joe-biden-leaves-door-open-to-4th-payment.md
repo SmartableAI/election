@@ -59,6 +59,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden gears up for trip to Europe to meet Queen and Putin – live"
+    excerpt: "President to meet world leaders at G7 in Cornwall this week and have summit with Putin in Geneva – follow all the latest news"
+    publishedDateTime: 2021-06-07T12:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/754a201b269cb688c5422883eabd93e8f1f5a247/0_194_3842_2307/master/3842.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00f3c293ae15a837f2abf2a9b8d5abd0"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Will Europe sign up to Joe Biden’s plan to counter China?"
     excerpt: "The EU has become more sceptical about Beijing but some leaders worry about Washington’s new cold war rhetoric"
     publishedDateTime: 2021-06-07T04:00:00Z

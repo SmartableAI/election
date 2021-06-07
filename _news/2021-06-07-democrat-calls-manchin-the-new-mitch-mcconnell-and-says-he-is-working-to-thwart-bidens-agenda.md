@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden administration spending $62 million a week to care for unaccompanied migrant children"
-excerpt: "The Biden administration is spending at least $62 million a week to care for unaccompanied migrant children in the custody of the Department of Health and Human Services, according to government data.\n    \n"
-publishedDateTime: 2021-04-09T21:56:10Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xygwhumWImc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xygwhumWImc/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-unaccompanied-children/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-unaccompanied-children/index.html"
+title: "Democrat calls Manchin 'the new Mitch McConnell' and says he is working to thwart Biden's agenda"
+excerpt: "New York Rep. Jamaal Bowman on Monday compared fellow Democrat Sen. Joe Manchin to Senate Minority Leader Mitch McConnell and said he is trying to thwart President Joe Biden's agenda after the West Virginia lawmaker stood by his decision to vote against a sweeping voting rights bill and opposition to"
+publishedDateTime: 2021-06-07T13:11:06Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-brPA7gQHNM/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-brPA7gQHNM/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/jamaal-bowman-joe-manchin-cnntv/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/jamaal-bowman-joe-manchin-cnntv/index.html"
 type: article
-quality: 165
+quality: 162
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324190144-07-hhs-children-facility-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607080038-jamaal-bowman-joe-manchin-split-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration spending $62 million a week to care for unaccompanied migrant children"
+    excerpt: "The Biden administration is spending at least $62 million a week to care for unaccompanied migrant children in the custody of the Department of Health and Human Services, according to government data.\n    \n"
+    publishedDateTime: 2021-04-09T21:56:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xygwhumWImc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-unaccompanied-children/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-unaccompanied-children/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324190144-07-hhs-children-facility-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden and Hill leaders to speak at ceremony ahead of slain Capitol Police officer lying in honor"
     excerpt: "President Joe Biden, congressional leaders and members of the US Capitol Police will attend a ceremony for fallen Capitol Police Officer William \"Billy\" Evans, who will lie in honor in the Capitol Rotunda on Tuesday.\n    \n"
     publishedDateTime: 2021-04-13T10:05:48Z
@@ -236,22 +252,6 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democrat calls Manchin 'the new Mitch McConnell' and says he is working to thwart Biden's agenda"
-    excerpt: "New York Rep. Jamaal Bowman on Monday compared fellow Democrat Sen. Joe Manchin to Senate Minority Leader Mitch McConnell and said he is trying to thwart President Joe Biden's agenda after the West Virginia lawmaker stood by his decision to vote against a sweeping voting rights bill and opposition to"
-    publishedDateTime: 2021-06-07T13:11:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-brPA7gQHNM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/jamaal-bowman-joe-manchin-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/jamaal-bowman-joe-manchin-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607080038-jamaal-bowman-joe-manchin-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -421,6 +421,6 @@ related:
         height: 630
         isCached: true
 
-secured: "kAgSevSdff74NKQ7mjKSDEskTFbmiKmiesCXNNfFberLnzMj68qDwvfUdF9abf7BqFYMxKTEaIKASS/pTbgW6Y0oZ6H2sJwRXPra8gO9L4DjTCVIfz38laLR2rvElot33XYYOPVerUW7MVEXA9qxxFIBj+lbuZ3qmF9MZQbXUv6smcma17dvH21UuO4va4+wy2cm71yvnTPCyfJ11ywxGiXnHq5k0hacRxTvRfeXDOF5A3zwUvdGFgwABO7qig/6bnrYQEXRHnLULEVKXi/yXVmMMfna4jDuCUjCeHBXeMgyLA/ZRAqNDe3aLWFgGPS2JCzrN+2jybnRodV0c8BhVmEz3eEcXCnbnxINxdYRdv0=;nTKGlwQDOW3/GvlH4MeI9w=="
+secured: "R1b2qW0IGyEZGet5KflOt8wfSN3l9ew17o0cf4h16p9lypAgu7Mrc0rrSWQE1P1g0FrVPQ3lJjaR+8G8nwfX7pruBDIazvPvPC6JI1GpE/Z2BaYQ+nBskPdnyZSwWZc9awkfVGBobpvjf5lfzHUtXG38Bloav5Fk4aoa/iFSwki9TmdEf27KfrojyD4VQsvR/PD/HdY95C1w7WQgyFobsbGfns3+Tccr96iqE58M+FT7zObcB2njvgI1PFvnbbJR52pIlyuaIh/vcbOp32xXRqNBuW+6SQ67Jj0b0ZC92QclAepn7EbSPcq2Wyh9gLYpReUYlyM1k6jXN4VshatAiW0QuRZKrunbJQ+PQcBUAFM=;rym0SDa721mxQUV9WIgd0w=="
 ---
 
