@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-04-biden-pentagon-state-department-at-odds-over-pride-flag.md",
+      "title": "Biden Pentagon, State Department at odds over pride flag",
+      "excerpt": "The Defense Department will not allow the Pride flag to be flown at military bases, unlike the State Department, spokesperson John Kirby said Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 475,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Pride-Flag-iStock-2.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp",
+      "publishedDateTime": "2021-06-04T14:29:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-biden-administration-plans-to-undo-trump-era-curbs-to-endangered-species-act-protections.md",
       "title": "Biden administration plans to undo Trump-era curbs to Endangered Species Act protections",
       "excerpt": "The Biden administration announced on Friday plans to review and revise a handful of Trump-era regulations that critics feared rolled back protections for endangered and threatened species.\n    \n",
@@ -868,7 +924,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1285,62 +1341,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-biden-to-meet-with-queen-elizabeth-ii-at-windsor-castle-on-june-13.md",
-      "title": "Biden to meet with Queen Elizabeth II at Windsor Castle on June 13",
-      "excerpt": "President Biden and first lady Jill Biden are set to meet with Queen Elizabeth II at Windsor Castle during his trip to Europe next month for the G-7 summit, the palace said Thursday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uHx7jkR-4YY/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uHx7jkR-4YY/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13.amp",
-      "publishedDateTime": "2021-06-03T05:41:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

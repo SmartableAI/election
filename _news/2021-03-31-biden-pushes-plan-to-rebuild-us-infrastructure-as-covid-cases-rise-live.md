@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Will Europe sign up to Joe Biden’s plan to counter China?"
+    excerpt: "The EU has become more sceptical about Beijing but some leaders worry about Washington’s new cold war rhetoric"
+    publishedDateTime: 2021-06-07T04:00:00Z
+    webUrl: "https://www.ft.com/content/e4c7df1a-5048-4cf1-8a2d-c9a2d721ba92"
+    ampWebUrl: "https://amp.ft.com/content/e4c7df1a-5048-4cf1-8a2d-c9a2d721ba92"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e4c7df1a-5048-4cf1-8a2d-c9a2d721ba92"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce05cbcc-e76e-46de-9795-bcfba664c88f.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
     excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."
     publishedDateTime: 2021-04-22T01:13:00Z

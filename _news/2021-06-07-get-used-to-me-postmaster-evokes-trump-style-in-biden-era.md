@@ -1,34 +1,28 @@
 ---
 category: news
-title: "An inside look at how Donald Trump's name came to appear on stimulus checks"
-excerpt: "Now, internal emails obtained by ABC News give an inside look at the scramble to add Trump's name just days before payments started going out in the middle of a presidential elect"
-publishedDateTime: 2021-05-07T09:04:00Z
-originalUrl: "https://abcnews.go.com/Politics/inside-donald-trumps-stimulus-checks/story?id=77534116"
-webUrl: "https://abcnews.go.com/Politics/inside-donald-trumps-stimulus-checks/story?id=77534116"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/inside-donald-trumps-stimulus-checks/story?id=77534116"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/inside-donald-trumps-stimulus-checks/story?id=77534116"
+title: "'Get Used to Me:' Postmaster Evokes Trump Style in Biden Era"
+excerpt: "In other words, the postmaster general may be the closest thing to former President Donald Trump left in the nation's capital. But there's little President Joe Biden can do about it. “Get used to me,” DeJoy told critics in Congress during a hearing earlier this year."
+publishedDateTime: 2021-06-07T04:57:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-07/get-used-to-me-postmaster-evokes-trump-style-in-biden-era"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-06-07/get-used-to-me-postmaster-evokes-trump-style-in-biden-era"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-07/get-used-to-me-postmaster-evokes-trump-style-in-biden-era?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-07/get-used-to-me-postmaster-evokes-trump-style-in-biden-era?context=amp"
 type: article
-quality: 123
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/check-1-ht-er-210506_1620338745509_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -1119,6 +1113,22 @@ related:
         width: 680
         height: 454
         isCached: true
+  - title: "An inside look at how Donald Trump's name came to appear on stimulus checks"
+    excerpt: "Now, internal emails obtained by ABC News give an inside look at the scramble to add Trump's name just days before payments started going out in the middle of a presidential elect"
+    publishedDateTime: 2021-05-07T09:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/inside-donald-trumps-stimulus-checks/story?id=77534116"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/inside-donald-trumps-stimulus-checks/story?id=77534116"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/inside-donald-trumps-stimulus-checks/story?id=77534116"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/check-1-ht-er-210506_1620338745509_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden raises refugee ceiling, and faith-based groups brace for rebuilding work"
     excerpt: "Faith-based refugee resettlement groups are celebrating President Joe Biden’s decision to raise the number of refugees allowed into the U.S. for the remainder of the federal fiscal year to 62,500, even as they acknowledge that they need to rebuild their capacity after years of cuts under the previous administration."
     publishedDateTime: 2021-05-04T14:13:00Z
@@ -1785,17 +1795,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "'Get Used to Me:' Postmaster Evokes Trump Style in Biden Era"
-    excerpt: "In other words, the postmaster general may be the closest thing to former President Donald Trump left in the nation's capital. But there's little President Joe Biden can do about it. “Get used to me,” DeJoy told critics in Congress during a hearing earlier this year."
-    publishedDateTime: 2021-06-07T04:57:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-07/get-used-to-me-postmaster-evokes-trump-style-in-biden-era"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-07/get-used-to-me-postmaster-evokes-trump-style-in-biden-era?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-07/get-used-to-me-postmaster-evokes-trump-style-in-biden-era?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"
     publishedDateTime: 2021-05-20T20:26:00Z
@@ -1974,6 +1973,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "CxRc6QdjvbcZpWA6qHyvZ8rWEbXgvMV+Ezy0MNBb9aX64D1MH4Np8DsnToJV5fx53L8IwFh75KUvS//mNlFE7VX3crOUM0xMBeXgP/ukj7lVywYNw6sPs7sMnkX+tj4hbg6dHGVby82zw/i3n5lv999QCWj+Q2p5l0kdPqyXhetpDQK0qM+Fzai5httwFDsA87E6yq2iyuRNpub7qomJ1G6d6RxxlvtAEHaoqBeJu3HGLhIhglJRM6r+LhLC7TGbQyyq1VsPo9Q89WN5F+saExSmZCpHWW02toqTt3QCpxjWz7IVXQb6GJowlZJoIiHin5r6W6ocBFE61imEo/ZD0IoO/4mLknNxy3BFa50KAbCsdyyl5TjAaZ5vaRsUqR1i2g2gF6JH2z4qOlKGeifDvzVixipgDONEs2TyKcp5H8W7UYCmxXfK3NXdRq9VHVifFXAPtVpmBUvOn1+PRa5WPAkJK5fnHpaA9ywUNM4GB1p8+3WcZOZwVEtdj+JKQ5HNhVSlbZ46Ta0A7j/B95FTOw==;3JAlfQ9SeRZziC1w6Hx+7w=="
+secured: "6UtJ98vmIq+Vw+RNacuhLmzjkZPahOpC3sD7C0pC0kHHbfL1jp05C1kDErdjHZtifZIhAP17rF/tzumA0Vd+tX6ltZ6p4wHizrvQUxLqz5kfCkJ4Js4kWhqxOermqvId6+8+9Ha+ZEgWUhjSF6Nor+13Anzq1MgdShpwnoF/98RaIbAbGkT4vK5TlWbfaZMGzyRQUZD8/mJNtLB9/2QeUZE83Pjn40VAfR7hXq++Doihk+iHmdeUScLApext0AZ/V2VeI3xVjgJKuk5H7rQ/w0gxoMpMqGACmW2Thcr27SqIiDmNUBK4Qzuc0bQTZZCKnjufzYANm7MtvlmAzLvX4pEo/yyodHOYx/YGt+NU9xN3KDWcQeE/hlFecHg/omktsxx25zlMNpfseCh0pfbsewCbBvO1A5xl7Y9UVfLO9eAO7yzLX6iDkUjhJz08PVM2I7cHIruG9i3OonPcRGJk0HDxMNDhq4rFRHocfpd+GByj6B4yYuVYvS1O/0LGFJWuxxS/K6Z3fU/izjn518n4EQ==;kdjnHe4aDgYqXbErjiEXiQ=="
 ---
 

@@ -1793,6 +1793,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "'Get Used to Me:' Postmaster Evokes Trump Style in Biden Era"
+    excerpt: "In other words, the postmaster general may be the closest thing to former President Donald Trump left in the nation's capital. But there's little President Joe Biden can do about it. “Get used to me,” DeJoy told critics in Congress during a hearing earlier this year."
+    publishedDateTime: 2021-06-07T04:57:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-07/get-used-to-me-postmaster-evokes-trump-style-in-biden-era"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-07/get-used-to-me-postmaster-evokes-trump-style-in-biden-era?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-07/get-used-to-me-postmaster-evokes-trump-style-in-biden-era?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"
     publishedDateTime: 2021-05-20T20:26:00Z

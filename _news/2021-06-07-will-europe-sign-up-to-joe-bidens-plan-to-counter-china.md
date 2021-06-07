@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Senate GOP rejects Biden infrastructure plan, prep new offer"
-excerpt: "Senate Republicans are panning President Joe Biden’s latest infrastructure proposal WASHINGTON -- Senate Republicans on Friday panned President Joe Biden's latest infrastructure proposal and are expected to make a new offer as talks grind toward next week's deadline for progress on a bipartisan deal."
-publishedDateTime: 2021-06-04T09:24:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
-webUrl: "https://abcnews.go.com/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
+title: "Will Europe sign up to Joe Biden’s plan to counter China?"
+excerpt: "The EU has become more sceptical about Beijing but some leaders worry about Washington’s new cold war rhetoric"
+publishedDateTime: 2021-06-07T04:00:00Z
+originalUrl: "https://www.ft.com/content/e4c7df1a-5048-4cf1-8a2d-c9a2d721ba92"
+webUrl: "https://www.ft.com/content/e4c7df1a-5048-4cf1-8a2d-c9a2d721ba92"
+ampWebUrl: "https://amp.ft.com/content/e4c7df1a-5048-4cf1-8a2d-c9a2d721ba92"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e4c7df1a-5048-4cf1-8a2d-c9a2d721ba92"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Financial Times
+  domain: ft.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_8f57953f6aad4fa3ba32d78d8a74b5aa_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce05cbcc-e76e-46de-9795-bcfba664c88f.jpg?source=google-amp&fit=scale-down&width=500"
+    width: 500
+    height: 333
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Will Europe sign up to Joe Biden’s plan to counter China?"
-    excerpt: "The EU has become more sceptical about Beijing but some leaders worry about Washington’s new cold war rhetoric"
-    publishedDateTime: 2021-06-07T04:00:00Z
-    webUrl: "https://www.ft.com/content/e4c7df1a-5048-4cf1-8a2d-c9a2d721ba92"
-    ampWebUrl: "https://amp.ft.com/content/e4c7df1a-5048-4cf1-8a2d-c9a2d721ba92"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e4c7df1a-5048-4cf1-8a2d-c9a2d721ba92"
+  - title: "Senate GOP rejects Biden infrastructure plan, prep new offer"
+    excerpt: "Senate Republicans are panning President Joe Biden’s latest infrastructure proposal WASHINGTON -- Senate Republicans on Friday panned President Joe Biden's latest infrastructure proposal and are expected to make a new offer as talks grind toward next week's deadline for progress on a bipartisan deal."
+    publishedDateTime: 2021-06-04T09:24:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/house-dems-unveil-547b-infrastructure-bill-amid-biden-78080966"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce05cbcc-e76e-46de-9795-bcfba664c88f.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 333
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8f57953f6aad4fa3ba32d78d8a74b5aa_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
     excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"
@@ -231,6 +231,6 @@ related:
         height: 3934
         isCached: true
 
-secured: "aLBh/Xm3i4mf3wTqzbMUSBNR7n+vPS9dSR3K3ygV2KJMWG5NLUkmTMqLo0dPZT3EDLdH9g65N68sCGECa9NC7xv/YiTavDVbw02UdsEUuw46drXdxcnVT608obF2418UHTDh697/cAamSIvA+hYUDVby8i+QSltuRxfkGmQNEb05HM4m21BKPNjzVEpgoNujIZ/HLOohgFsHPc6hvpT6FZVydgcH9vEqIbBs6jgccc1TIDcW3MtX/WeZ6pwiK95ekPFOOs8dIr5UvyZm1weUos/8ustU9Ibq00323SNjSFjFDQxpD6EXpxf5/B7OsJ8S3s+0ypdCaUkqwzL/g1PfSzQ8rHHR10X8oTIKUJfJzIW3Ie3r+3MuNLvDpKjWzuSFEj8E8MkG3eLvipkUlRycVWx93z6P4zsWGShk4/hjKoX2HYs2v189Mr5WRVBSJur2PIoL8VQZSVu1oyFfxsNiWp0+toLaEufxlo4rEq3IMBmrEH7CEsjxdZc+o/eGD5T4nS6KWB+0YqfGrxyqdAYyqA==;feHYLO2oHnkg46EwSz0tlA=="
+secured: "+0lM0x3Pqs5bpivRSBiDjj6q+6eLbDSFGrTmn8SV2QORToVUM2Wzyrih3/WxNbJHtaLL+GKao7M9fEPUEEBwKeqI7TgWuS+ErZ7VVuSnOd/ixJ7HIPdhuU+oZ/RhnVbP5LaV+T/Cvk6c00Dj3gHW9KGy61ONsDsMtKjNDGzV/v3wh27hmM2lCBKVXocBlDqLQ5omWAJkcfgeFQKQz5wLxBr9PkVlxZjVWEuosuJRhW8FxGq4Xev9fjm+QLi5WSVNu69FFVgSkLkF4rBb97Gg3E3E1hLLRqxcZcNd1IeS7ZEp5rMOYiNWQywGHAXTP+3xGaHzewTzKct+hWprYA2irPooKO2kPygG7+2HS2EcMPs=;wXUtOzvESM9st2Kh8bDDBg=="
 ---
 
