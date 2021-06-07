@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden returns to the White House"
-excerpt: "U.S. President Joe Biden gets into a limo after stepping off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
+excerpt: "U.S. President Joe Biden with first lady Dr. Jill Biden step off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
 publishedDateTime: 2021-06-04T18:26:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/1b38ca44290d367c6c73fd0cf62370f0/President-Joe-Biden-returns-to-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/1b38ca44290d367c6c73fd0cf62370f0/President-Joe-Biden-returns-to-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/26655439e26efcec96d19c20489ada6e/President-Joe-Biden-returns-to-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/26655439e26efcec96d19c20489ada6e/President-Joe-Biden-returns-to-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/1b38ca44290d367c6c73fd0cf62370f0/USA-WHITE-HOUSE-BIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/26655439e26efcec96d19c20489ada6e/USA-WHITE-HOUSE-BIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -150,6 +150,6 @@ related:
         height: 641
         isCached: true
 
-secured: "vy0EXkTlCiZBzfypw0quv4g2q6u5EpXH1TPN1mBE/Q+81lfZGhdpyeAGwsSg2rSoSD0lS6uFOMny2LOLjmkTxSqMhc/SczJ3VhZ62BJIXMxN41W3IWsaDNBCcmeT3z6X6b++v7JT3k4UwsQ20GkvOaAyl1hg2B6VSbK+7ukelnw+OSo8MIIcxav396pgfIuNF5hIu48Zn6GdukvuvzTSu/XKAq5beEwwLRgnUBGb9EguN+kxLyFJHAsLKUzDa57rxyRjgNewF1DkgPu+GjwtLfL7w7a4TomMNA5INv3OMVWWAyAxSHXA9jg8X0M1L3StxEUOS+z9H7ywGt/UZwcIEHDxgt4guuX9cVlY5qLvv5M=;PI/S5tHIlp9JkVPf7NF7Dg=="
+secured: "/mswNf9ADr2ytX1dgs3vLxyWm3BU4oxXtH0xr+i96pD3gxAFyRQcWiumbeJlGoAWF+UEPMY/+dtbp4umLf6CTsmcwr3rHxrtXNO6y2egUxzq7fLki7jWh+Gnb9gu3QW7wQI6JlnEwcs9dsYMETg4gdB0t+EJhMEljvEVwq1Tgah/4BESCLNB0p+kEjFHPcV6b0f+3YVsnnhFAIIm2nSPwmzbUdFUfCpBpa9zQhFbWg8kiswzKwN+L+02P6tBFAp/ROURkpJMXC2p7Tl/y2J2jwpM5bxMmD54GoLovEITe8qPaLwOFgaqdisXtPencLhGIzbASONBACTS9dnoEXQEhmOkTtoAnih3dx1335+jtjw=;L8xKDRFiyJ0EsnnGmezNLw=="
 ---
 

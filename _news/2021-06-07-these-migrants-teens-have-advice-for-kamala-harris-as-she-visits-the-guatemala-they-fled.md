@@ -1,27 +1,29 @@
 ---
 category: news
-title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
-excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
-publishedDateTime: 2021-06-02T17:02:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
+title: "These migrants teens have advice for Kamala Harris as she visits the Guatemala they fled"
+excerpt: "Immigrant rights experts and migrants stuck here on the border have some advice for Kamala Harris as the vice president visits Guatemala"
+publishedDateTime: 2021-06-06T22:44:00Z
+originalUrl: "https://www.dallasnews.com/news/mexico/2021/06/06/these-migrants-teens-have-advice-for-kamala-harris-as-she-visits-the-guatemala-they-fled/"
+webUrl: "https://www.dallasnews.com/news/mexico/2021/06/06/these-migrants-teens-have-advice-for-kamala-harris-as-she-visits-the-guatemala-they-fled/"
+ampWebUrl: "https://www.dallasnews.com/news/mexico/2021/06/06/these-migrants-teens-have-advice-for-kamala-harris-as-she-visits-the-guatemala-they-fled/?outputType=amp"
+cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/mexico/2021/06/06/these-migrants-teens-have-advice-for-kamala-harris-as-she-visits-the-guatemala-they-fled/?outputType=amp"
 type: article
-quality: 55
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Dallas Morning News
+  domain: dallasnews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/009facc2f199ecbb7b4c0affa25233fc/HARRIS-LANDER.jpg"
-    width: 650
-    height: 433
+  - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/02JOmUzdSFolW6UGkQrnFTfM-Po=/1660x0/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/SHI3QJXS7FHT7AABK63HYS45KU.jpg"
+    width: 1660
+    height: 1168
     isCached: true
 
 related:
@@ -73,23 +75,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "These migrants teens have advice for Kamala Harris as she visits the Guatemala they fled"
-    excerpt: "Immigrant rights experts and migrants stuck here on the border have some advice for Kamala Harris as the vice president visits Guatemala"
-    publishedDateTime: 2021-06-06T22:44:00Z
-    webUrl: "https://www.dallasnews.com/news/mexico/2021/06/06/these-migrants-teens-have-advice-for-kamala-harris-as-she-visits-the-guatemala-they-fled/"
-    ampWebUrl: "https://www.dallasnews.com/news/mexico/2021/06/06/these-migrants-teens-have-advice-for-kamala-harris-as-she-visits-the-guatemala-they-fled/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/mexico/2021/06/06/these-migrants-teens-have-advice-for-kamala-harris-as-she-visits-the-guatemala-they-fled/?outputType=amp"
+  - title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
+    excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
+    publishedDateTime: 2021-06-02T17:02:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 66
+      name: UPI.com
+      domain: upi.com
+    quality: 55
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/02JOmUzdSFolW6UGkQrnFTfM-Po=/1660x0/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/SHI3QJXS7FHT7AABK63HYS45KU.jpg"
-        width: 1660
-        height: 1168
+      - url: "https://cdnph.upi.com/pv/upi/009facc2f199ecbb7b4c0affa25233fc/HARRIS-LANDER.jpg"
+        width: 650
+        height: 433
         isCached: true
 
-secured: "ICX9CgtdBJguC6o8K+2As+j55/RDrmMOgp/YV4/9DISfmTltBP4MEQeVV1p8SHiWdzSI3KHgrNnmQlGj3iZkqtsi6sRTFeHWEKNqsjxwPXC8mVvqPTG94LNYgmA6+5mqXqyim/lGx37VURHrHJrNxGa3FGyyLugHtvUiO7Ma9AQ0HB9GBIuGrZjUjmta/9mM0qXW45T90dtAmYwdRjgEU75ZPw1tkLlGLQnGnJDpwGeOAPmNON9D+iOhaG4fOfOMpf2D9IanWNj3w57aSRiJIVGSokLV5YmHzXzu+D6Q3r5qOtS92pa/eUj4u3FeulriT6V7G5PaJHhfpkeC2MWnqk07KVGcaPBfWDkL+CkyPR+ixRoFzZ6QFd5dmWE9MdskPXkSTIYiCgj+eLz02j/ANrNUAORIsRuXumigbm+bE0YEgPCEpHB6j56nlECv4pn8/KNJZn8C2HvVozF+haNRHKmRCugUtwzcMX+IsyxDLK7FEDaufpmdnkCOPguZuZhHORo9mlpKaHofSc3FTfCcbQ==;A1l9q33UEQ+s1yqI8+nYTA=="
+secured: "7dexBRNI5WVdEqZKDcUUODXUacu+6IMv5pRaZJRBCnZF6ElRELtqsh2vzuFeq+CRVhHbiba8tWPtHw51om4/ImWEhUrYBekDIzmvXzmSum2y9hzKVDRAFfT9xSFGFs+7R1bVE1soiHmHK+UpcUeuF4OQt1gFjR7eEspcEENU2QSkp1fpBNLghnjvDBpFWYpYhRq3UszsQTqJTcwDOA8f0lvGdhQXiyrLCrwy/mRwQpFfIvvikAWEOG8hEbNLSB15BwAs6GA9sDyf34/Lf8A25JB/EaKlvTrb909qQyROpRABIVWTz3Q/tHJyAlHvX0z2JEXHqA5MMP6Wszt1qSNySVLKmkP/I2dN9Ck6rsS6JGY=;+2m0dl5I0LuwWNlPHu1/dw=="
 ---
 

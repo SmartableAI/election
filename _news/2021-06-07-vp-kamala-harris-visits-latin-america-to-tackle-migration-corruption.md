@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Harris seeks to defy history with Central America mission"
-    excerpt: "Vice President Kamala Harris will make her first foray into international diplomacy on the border situation this weekend, heading to Central American to do some nation-building with a promise of $4 billion in American cash,"
-    publishedDateTime: 2021-06-04T19:19:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jun/4/kamala-harris-seeks-defy-history-central-america-m/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jun/4/kamala-harris-seeks-defy-history-central-america-m/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/4/kamala-harris-seeks-defy-history-central-america-m/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/28/Naval_Academy_Harris_66558.jpg-f684d_c0-0-2504-1460_s1200x700.jpg?559d7eea007bb7e32e58016af6093f8273cfeedd"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Kamala Harris visits Latin America to tackle migration, corruption"
     excerpt: "Vice President Kamala Harris heads to Guatemala and Mexico on her first foreign trip Sunday, looking to deepen diplomatic ties with two nations key to the Biden administration's efforts to stem the spike in migration at the U.S. border. [ MOISES CASTILLO | ..."
     publishedDateTime: 2021-06-06T13:27:00Z
@@ -75,35 +59,21 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Vice President Kamala Harris’ plane forced to return over ‘technical issue’"
-    excerpt: "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday."
-    publishedDateTime: 2021-06-06T19:48:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+  - title: "These migrants teens have advice for Kamala Harris as she visits the Guatemala they fled"
+    excerpt: "Immigrant rights experts and migrants stuck here on the border have some advice for Kamala Harris as the vice president visits Guatemala"
+    publishedDateTime: 2021-06-06T22:44:00Z
+    webUrl: "https://www.dallasnews.com/news/mexico/2021/06/06/these-migrants-teens-have-advice-for-kamala-harris-as-she-visits-the-guatemala-they-fled/"
+    ampWebUrl: "https://www.dallasnews.com/news/mexico/2021/06/06/these-migrants-teens-have-advice-for-kamala-harris-as-she-visits-the-guatemala-they-fled/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/mexico/2021/06/06/these-migrants-teens-have-advice-for-kamala-harris-as-she-visits-the-guatemala-they-fled/?outputType=amp"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 73
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 66
     images:
-      - url: "https://www.dailypress.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
-        width: 1200
-        height: 758
-        isCached: true
-  - title: "Kamala Harris: I eat 'no' for breakfast"
-    excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
-    publishedDateTime: 2021-06-01T17:56:00Z
-    webUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/02JOmUzdSFolW6UGkQrnFTfM-Po=/1660x0/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/SHI3QJXS7FHT7AABK63HYS45KU.jpg"
+        width: 1660
+        height: 1168
         isCached: true
   - title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
     excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
@@ -119,21 +89,7 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Kamala Harris' plane returns to air base after technical issue"
-    excerpt: "Vice President Kamala Harris was on her way to Guatemala when her plane returned to Joint Base Andrews due to a \"technical issue,\" according to a spokesperson. CNN's Joe Johns"
-    publishedDateTime: 2021-06-06T19:37:00Z
-    webUrl: "https://www.djournal.com/news/national/kamala-harris-plane-returns-to-air-base-after-technical-issue/video_c8224d80-9244-5dce-8f58-45bcdb3e9b36.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/82/c8224d80-9244-5dce-8f58-45bcdb3e9b36/60bd2971c7610.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
 
-secured: "dZgR6YEqKkInYLHJLk4emRU29IZ94zc7H1SB14DnBZ4quNTdnpadCIRPRmSHN1h0LFz//cDsHPhaFagWFCscLNL5vxiptBEP2jxat3A7IdYWa9Yw67T/FFXZZbGNw9MUVMpjn1imgxkogQtdJwu0Zz/USy7whW6jcZu6lYX26LI9+k2fdCgNROAcdOsvMNgI9wZXBRHFPpmTE9kIFgrVmoPZVbZ/9iAwZ3VysDyGf++dyz6wXshOy95wLFJXsvjw+UTauLcHdiahvT0Nik+MIX1UktcUZZbNRHkVV7buntfzuKx7Nqus670UbMuFbdnd9QIisVVtePCyx2zmRPxgLBVOHCRq9P14s/obJ8J/MuI=;S1feiSAOVDJZIS4flrZoKg=="
+secured: "6GIQNINpS2ywgQSSHbjT1REnC/PH9llWCv/+cgjvQBh0ivZg+yRrHrlJrMxUdJWyL72xpX0jbLPPoRcy9JYtdXLQSC5YC4Vu5ONMC4Lh7vt7ZIkUAbtpfp+AopGG/RGb8rBbodSF9JHcxnVboEUMa2WBT2ERQE29qiqzJnCwyMm7tTtdgSv9WtLpX1aZmOJhMbpYXh/PCUGdwrUv7kPFuzzb/yodpXXOcn/fcyCCA9035beDpzsyV33fa+HWNFTRKzvR8snDuixxINBBcOMAwGSW0ngExsL1Ugd+9O2G9WycbDmVl8/yPViNsSy0aza5Mzc8gBaX379Bjnjg1v3k8cT4kAh2eeAHlyyjHv/VgS8tQV3bfeqsYf8h4skU8szHedW+nBYa9rQH3LQF+qEEZGsSgIOYUrfI/86gic0CvayRrTHiFiFTQtM9TJxu3dMsm6+9ENZsKRqhHPJmT3uXAmvsFWEVQL6kTUI/4m2RCqS9Ww0hHm2LKf6zktKfVzhMujY7diWxtNivfGiqTfjAqQ==;5T/Fo6Vl7pEwlC7x65K3xA=="
 ---
 

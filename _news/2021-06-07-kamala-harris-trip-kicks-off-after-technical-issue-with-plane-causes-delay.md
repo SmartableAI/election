@@ -1,46 +1,36 @@
 ---
 category: news
-title: "Kamala Harris' plane returns to air base after technical issue"
-excerpt: "Vice President Kamala Harris was on her way to Guatemala when her plane returned to Joint Base Andrews due to a \"technical issue,\" according to a spokesperson. CNN's Joe Johns"
-publishedDateTime: 2021-06-06T19:37:00Z
-originalUrl: "https://www.djournal.com/news/national/kamala-harris-plane-returns-to-air-base-after-technical-issue/video_c8224d80-9244-5dce-8f58-45bcdb3e9b36.html"
-webUrl: "https://www.djournal.com/news/national/kamala-harris-plane-returns-to-air-base-after-technical-issue/video_c8224d80-9244-5dce-8f58-45bcdb3e9b36.html"
+title: "Kamala Harris' trip kicks off after \"technical issue\" with plane causes delay"
+excerpt: "Vice President Kamala Harris' first international trip got off to a rocky start when her plane was forced to fly back to Joint Base Andrews due to a \"technical issue\" about 30 minutes after it took off."
+publishedDateTime: 2021-06-06T23:05:00Z
+originalUrl: "https://www.cbsnews.com/news/kamala-harris-plane-technical-issues-international-trip/"
+webUrl: "https://www.cbsnews.com/news/kamala-harris-plane-technical-issues-international-trip/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-plane-technical-issues-international-trip/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-plane-technical-issues-international-trip/"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 122
+heat: 222
+published: true
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: CBS News
+  domain: cbsnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/82/c8224d80-9244-5dce-8f58-45bcdb3e9b36/60bd2971c7610.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/32e33163-886f-4eb0-b5af-4bf7eca8321d/thumbnail/1200x630/fc54cf3e475d509a099349d22d6466a2/ap21157699384597.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "Kamala Harris' trip kicks off after \"technical issue\" with plane causes delay"
-    excerpt: "Vice President Kamala Harris' first international trip got off to a rocky start when her plane was forced to fly back to Joint Base Andrews due to a \"technical issue\" about 30 minutes after it took off."
-    publishedDateTime: 2021-06-06T23:05:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-plane-technical-issues-international-trip/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-plane-technical-issues-international-trip/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-plane-technical-issues-international-trip/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/32e33163-886f-4eb0-b5af-4bf7eca8321d/thumbnail/1200x630/fc54cf3e475d509a099349d22d6466a2/ap21157699384597.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Harris seeks to defy history with Central America mission"
     excerpt: "Vice President Kamala Harris will make her first foray into international diplomacy on the border situation this weekend, heading to Central American to do some nation-building with a promise of $4 billion in American cash,"
     publishedDateTime: 2021-06-04T19:19:00Z
@@ -103,7 +93,21 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Kamala Harris' plane returns to air base after technical issue"
+    excerpt: "Vice President Kamala Harris was on her way to Guatemala when her plane returned to Joint Base Andrews due to a \"technical issue,\" according to a spokesperson. CNN's Joe Johns"
+    publishedDateTime: 2021-06-06T19:37:00Z
+    webUrl: "https://www.djournal.com/news/national/kamala-harris-plane-returns-to-air-base-after-technical-issue/video_c8224d80-9244-5dce-8f58-45bcdb3e9b36.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/82/c8224d80-9244-5dce-8f58-45bcdb3e9b36/60bd2971c7610.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
 
-secured: "9iUG/RAhyo2tu+1DcDe8tY07G402l5IOuGYJFa9d6rPR79TzeBseNf4Zjct0UTn9KRvJFf5niMdfnO56gFBFbITAWdrxNWatCMDexSJmUHrFrq0K8WXwuS6/GNIefBGyBNkEegqH6K78pMt6RLwabqXI11mni2mIj4/nWmMtv2NF4Rj6s/LPI0/gHmA538TxythBPuabLzKPhkO05MuD848BxKRPabIxj9kBmbifNRGaBeskBZ/deCA+8Um6XEx/UPLe3mMhuifLbW+QnMlCZYk7WVOAFeH9OEkO1t/BwMKg4xRBJfy71yfNfVMK6YIffLnBiGwie6O1BN9GOx7zFgUXzEVkIf4sRK8JIaA5oyJSFeumXJ2aVghbPjinnqlX4JMASPQDln0qZ/UFItmYJ8ltGtjQNVBb+BeSdJSnBdufEtz4rSL9lzaUnuf99hrRDHTc956YoA7YxyY1BFjkBjuIGmS9JKZgJEaV2Bao1bN9CEkI3/ANYw+7Wzj39kusLI/o3GFxXIoTiFjSAUMFCg==;0ymTPxoUNHJ0DVkHZ1GqMQ=="
+secured: "Qf+K73jqVqh/gd/frnWunIBx6h2otEQjwbRJgykohOTkgHnfPp8daWQ7JesqEIciQHIuazTCiSvqrkBeBoamIyf5+7COQDOu+B38STjcZOCZteNrcwF2ASlD7ckgbep6qsCLTjME7upAftWFEQp+bhBEXegz1QzcCj8MDBypEBaxrvqEWJU666Bi2t3ESG7JHpl8P8mFR18gdBUOvp8q6LvYdswLWP+zhWI92OemESfy1FU2MVYzkLzO2wZAGTd0D6n7hDt6IRBLClbU5A3lu2BE0FCVpM84evqfoRqLG0PV0XuvbDa3F23YCRHdSdNDWHGJ7Abv85SmLGS76OWpMZ8BAvaMBBn8ANdvefpLlUY=;ALSAjp7MQt0OYmASXZGnqQ=="
 ---
 

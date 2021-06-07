@@ -2,44 +2,44 @@
 category: news
 title: "Vice President Kamala Harris’ plane forced to return over ‘technical issue’"
 excerpt: "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday."
-publishedDateTime: 2021-06-06T19:48:00Z
-originalUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
-webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
-ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+publishedDateTime: 2021-06-06T22:14:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.dailypress.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
+  - url: "https://www.baltimoresun.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
     width: 1200
     height: 758
     isCached: true
 
 related:
-  - title: "Guatemala's president says Kamala Harris \"doesn't hold back\" ahead of immigration talks"
-    excerpt: "Guatemalan President Alejandro Giammattei is set to host Harris on Monday during her first international trip as vice president."
-    publishedDateTime: 2021-06-06T11:54:00Z
-    webUrl: "https://www.cbsnews.com/news/guatemala-president-kamala-harris-trip-immigration-talks/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/"
+  - title: "Kamala Harris' trip kicks off after \"technical issue\" with plane causes delay"
+    excerpt: "Vice President Kamala Harris' first international trip got off to a rocky start when her plane was forced to fly back to Joint Base Andrews due to a \"technical issue\" about 30 minutes after it took off."
+    publishedDateTime: 2021-06-06T23:05:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-plane-technical-issues-international-trip/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-plane-technical-issues-international-trip/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-plane-technical-issues-international-trip/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 117
+    quality: 122
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/c23dfc7a-2de3-4928-b162-b5344262f730/thumbnail/1200x630g3/6df35ab454879cb32f06a8fd233a428e/gettyimages-1232547348.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/32e33163-886f-4eb0-b5af-4bf7eca8321d/thumbnail/1200x630/fc54cf3e475d509a099349d22d6466a2/ap21157699384597.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -59,37 +59,21 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Kamala Harris visits Latin America to tackle migration, corruption"
-    excerpt: "Vice President Kamala Harris heads to Guatemala and Mexico on her first foreign trip Sunday, looking to deepen diplomatic ties with two nations key to the Biden administration's efforts to stem the spike in migration at the U.S. border. [ MOISES CASTILLO | ..."
-    publishedDateTime: 2021-06-06T13:27:00Z
-    webUrl: "https://www.tampabay.com/news/nation-world/2021/06/06/kamala-harris-visits-latin-america-to-tackle-migration-corruption/"
-    ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/06/06/kamala-harris-visits-latin-america-to-tackle-migration-corruption/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/06/06/kamala-harris-visits-latin-america-to-tackle-migration-corruption/?outputType=amp"
+  - title: "VP Kamala Harris' plane forced to return due to `technical issue'"
+    excerpt: "The vice president's plane landed safely back at Joint Base Andrews about 25 minutes after takeoff Sunday afternoon."
+    publishedDateTime: 2021-06-06T19:18:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 75
     images:
-      - url: "https://www.tampabay.com/resizer/uls7ATZ4zW3R9qTpUGmrEhpWOu0=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/C676FOACOJF4FHXCS57HUIFB64.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "VP Kamala Harris visits Latin America to tackle migration, corruption"
-    excerpt: "Kamala Harris, on her first foreign trip as vice president, is looking to deepen diplomatic ties with Guatemala and Mexico, two Latin American nations key to the Biden administration’s efforts to stem the spike in migration at the U."
-    publishedDateTime: 2021-06-06T21:29:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 75
-    images:
-      - url: "https://www.baltimoresun.com/resizer/Qi1CvPm4fsP8wQEbh0vjo01ZjZk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7XO7A5BPJBOEQOUOX4R3UDUVVM.aspx"
-        width: 1200
-        height: 800
+      - url: "https://media.11alive.com/assets/CCT/images/11f18511-5d46-4202-b763-553b5ae6080f/11f18511-5d46-4202-b763-553b5ae6080f_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Kamala Harris: I eat 'no' for breakfast"
     excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
@@ -104,20 +88,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
         width: 576
         height: 324
-        isCached: true
-  - title: "U.S. Vice President Kamala Harris swears in Eric Lander in Washington"
-    excerpt: "Eric Lander, director of the Office of Science and Technology Policy (OSTP), is sworn in by U.S. Vice President Kamala Harris in the Eisenhower Executive Office Building in Washington, D.C. on Wednesday,"
-    publishedDateTime: 2021-06-02T17:02:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/009facc2f199ecbb7b4c0affa25233fc/US-Vice-President-Kamala-Harris-swears-in-Eric-Lander-in-Washington/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/009facc2f199ecbb7b4c0affa25233fc/HARRIS-LANDER.jpg"
-        width: 650
-        height: 433
         isCached: true
   - title: "Kamala Harris' plane returns to air base after technical issue"
     excerpt: "Vice President Kamala Harris was on her way to Guatemala when her plane returned to Joint Base Andrews due to a \"technical issue,\" according to a spokesperson. CNN's Joe Johns"
@@ -134,6 +104,6 @@ related:
         height: 324
         isCached: true
 
-secured: "3FCxyt1Cf+yoQWBfuKKgvEEK5aXsHhq1/sebi/W1f78SjuVmOEzraYKjTzyUHH0rXnLY2J5ZyZEjlUHdUpqLnYiQeYUBN3KYEwTc3U8Hphvw+91dCzlJXXhEHXnt5CFTVwzn+7Z1kqPm3F7TWBL1JrXWsJDFDUZ3aUTw/fZUWwOfqOD2yNTXXfaGjLsNhXv1lS/6pCz7/6+0G27EQBxnsVraIgFA9BUaqKUBLqzKlU5+7wICwZiEeC2chrSjuhNADIYhi/HmdEO/0uFZpJj+VQ5mZ9fmOTvOIM891UUnNshmKpOLxA/OOYLPiSIPI+ppjpkiU0X04SNxCiUaJWEvj/zvvtWiN2HKcZgLhOCTpqw=;xQu8/rPRWdpGZqCtC2M7wg=="
+secured: "uBoLD4G18j7miNVH9z3E63WjJ2awtjN4abDmbwJgA/ddHVIJVfe9pUGd6eSD/mLiNnerkikalPau7eTARZxk2cZgj/ZtjUG/vsEfecQ7fDfLRv/1dnD7l/11f/lfz+zqgY5ZsJqGXUSt8cFwQOM/txxCJD5rbsGRiJkXerz0Oz9Y3RsNy1qmss1EP5lnoueVCTvhoyUfH9bpIjsbg7u/5WWFKFuBRwgtIodEsju0u3Xjrp9tll4WIR3fPac8c4cXOftpy/sPkiIREwDO4YJ305h2ULmu0t4QVSdSUO1eECVJVhlu9Y7IH7hxR0pOnyQBcwLzajHZRN8W73pt0c1iflFsiZThJmDkHFzFESnFvy4=;Qn5F5UI9uWuLyUfXogw9Sw=="
 ---
 
