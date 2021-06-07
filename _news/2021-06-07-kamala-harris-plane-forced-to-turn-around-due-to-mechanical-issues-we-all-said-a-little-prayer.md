@@ -59,21 +59,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris’ stepdaughter Ella Emhoff praises the ‘ugly’ mullet"
-    excerpt: "From David Bowie to ‘Rambo’ to K-pop stars, the shaggy haircut comes, goes and is back again. Style icon Ella Emhoff explains its appeal in new Vogue feature."
-    publishedDateTime: 2021-06-04T22:36:00Z
-    webUrl: "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet"
-    ampWebUrl: "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/"
+  - title: "VP Kamala Harris' plane forced to return due to `technical issue'"
+    excerpt: "The vice president's plane landed safely back at Joint Base Andrews about 25 minutes after takeoff Sunday afternoon."
+    publishedDateTime: 2021-06-06T19:18:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 75
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771"
-        width: 1024
-        height: 771
+      - url: "https://media.11alive.com/assets/CCT/images/11f18511-5d46-4202-b763-553b5ae6080f/11f18511-5d46-4202-b763-553b5ae6080f_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "Y476ViOAKsJuZz3p9AdF2+I8z7x84JXk69gBNuXocVnfMJBvNpjEJTHPhmW6g5X0TF4sjyEbtBRlYjEA2iAEztICw6iwQdZeZy0l7ccaLn87m/PZ/S6588zOJtjv34oQzXE74XeHPMJqZXsjmA3As0Wt1YKaLhvTVFi8AjhmX2hi8UIAZfvIR1l8EKksKFcq/YeUsv5x+oDjsEKmmdUrEqHsgI14QB3SIdEHnikAcprSDuCvozaifVySrtlWdl25sh8eALGTS3IV4B5F+8WM3m6QYhevRP5b07KgIrOI8uDPLmH7V4bi19DEqmjUC05epc0aAj35WzyYh4GAuJ0M0RVsY8s7Rsey/x+zu0aoIY+Dzo+VNwoOkzojaYTeOcwlSoeOMML3AV61Hc3CFtFILmcLZcq2vnY63bqyzVBI5Vr8tHqUFeOinHkD7A5+akjWRI4NtaHKR/vHB8Zu1wPGVL8KiMmCkvAaQPR8QLJqZI+V7PV7pnNhN2Fmsn0WhTH89dhCvAJ1FGw9DuU7ZE7dBw==;lOo9CGlwOaT0BeMgneHMSQ=="

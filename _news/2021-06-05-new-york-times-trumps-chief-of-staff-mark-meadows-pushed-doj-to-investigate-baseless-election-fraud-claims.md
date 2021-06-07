@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Stormy Daniels says she would 'love' to testify in Trump Organization probe"
+    excerpt: "Stormy Daniels said Monday that she has not yet testified in a New York criminal probe into the Trump Organization but that she would \"love nothing more than\" to be interviewed by prosecutors investigating former President Donald Trump's sprawling company.\n    \n"
+    publishedDateTime: 2021-06-07T20:02:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FwPYaFsZ-DE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/stormy-daniels-trump-organization-investigation-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/stormy-daniels-trump-organization-investigation-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180307113630-01-donald-trump-stormy-daniels-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump dwells on 2020 during North Carolina event aimed at helping Republicans in 2022"
     excerpt: "Former President Donald Trump dashed the hopes of Republicans on Saturday who spent the weeks leading up to his public reemergence encouraging him to keep his focus on policy and Democratic shortcomings, rather than re-litigating his 2020 election loss once again.\n    \n"
     publishedDateTime: 2021-06-06T03:15:45Z

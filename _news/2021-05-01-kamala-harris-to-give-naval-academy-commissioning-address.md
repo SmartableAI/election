@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 1365
+heat: 1345
 published: true
 
 provider:
@@ -200,20 +200,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2021/05/GettyImages-1232459585.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Kamala Harris heads to Guatemala to address immigration on first foreign trip"
-    excerpt: "CBS News senior White House and political correspondent Ed O'Keefe reports on VIce President Kamala Harris' trip to Central America, her first overseas trip since taking office."
-    publishedDateTime: 2021-06-06T15:50:00Z
-    webUrl: "https://www.cbsnews.com/video/kamala-harris-heads-to-guatemala-to-address-immigration-on-first-foreign-trip/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 102
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/f32c437a-3b09-4f05-a70a-b9a0c05141e5/thumbnail/1200x630/a06647e737a39cdf880110881efb89bc/0606-fttn-okeefe-729408-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "A New York Post story about Kamala Harris triggered conservative outrage. Almost all of it was wrong. Now the reporter has resigned."
     excerpt: "The New York Post belatedly corrected stories the journalist says she was “ordered to write,” claiming the vice president’s book was given to undocumented migrants by the thousands."

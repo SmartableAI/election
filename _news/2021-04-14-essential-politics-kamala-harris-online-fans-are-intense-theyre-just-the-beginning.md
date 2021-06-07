@@ -109,20 +109,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Vice President Kamala Harris travels to Guatemala and Mexico on first official trip abroad"
-    excerpt: "Vice President Kamala Harris is in Guatemala on her first overseas trip since taking office. She is spearheading the Biden administration's diplomatic efforts to address the root causes of migration from Central America."
-    publishedDateTime: 2021-06-07T16:49:00Z
-    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-travels-to-guatemala-and-mexico-on-first-official-trip-abroad/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 95
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/07/1c3c8c32-4472-4cef-8931-c784a1de93bc/thumbnail/1200x630/c097c4efb1c5eea17efaf39021b6ec6b/0607-cbsnam-harrisguatemala-729962-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Chris Wallace: Kamala Harris seems to want zero 'fingerprints' on Biden's migrant 'mess' at border"
     excerpt: "Chris Wallace said that Vice President Kamala Harris appears to be treating the border crisis like a crime scene in which she wants zero “fingerprints.”"
     publishedDateTime: 2021-04-09T00:00:00Z
@@ -186,22 +172,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/13/aptopix_police_shooting_minnesota_48122_c0-150-3600-2250_s1200x700.jpg?187bc123cc4510feb7f1966081317bdd024739c4"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Women and youth a top focus of Kamala Harris' first visit to Mexico as vice president"
-    excerpt: "The El Paso Times is choosing to use a pseudonym since she isn't authorized by her work to speak to the press. U.S. Vice President Kamala Harris is in Guatemala today, her first diplomatic visit abroad since assuming her current post. Her next stop is ..."
-    publishedDateTime: 2021-06-07T13:13:00Z
-    webUrl: "https://www.statesman.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
-    ampWebUrl: "https://amp.statesman.com/amp/7569783002"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7569783002"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 68
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/24/PTX1/369c7658-4220-438f-a5b2-04e1016fa226-Vaccination_Juarez1039.JPG?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Harris: Visiting border isn't my job; veep says she's focused on 'root causes' instead"
     excerpt: "Vice President Kamala Harris said Wednesday she has no plans to visit the U.S. southern border but she’s looking forward to a trip soon to Mexico and Guatemala to address the core causes of surging migration from Central America."
@@ -299,20 +269,6 @@ related:
         width: 1200
         height: 920
         isCached: true
-  - title: "VP Harris announces trip to Mexico, Guatemala"
-    excerpt: "Vice President Kamala Harris announces travel to Northern Triangle countries and said progress on the migration issue 'will not be obvious overnight.'"
-    publishedDateTime: 2021-04-14T15:54:00Z
-    webUrl: "https://www.hawaiinewsnow.com/video/2021/04/14/vp-harris-announces-trip-mexico-guatemala/"
-    type: article
-    provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
-    quality: 55
-    images:
-      - url: "https://www.hawaiinewsnow.com/resizer/mCyqJD0q70x-95JFE4yF8ocvHgs=/1200x0/d1acid63ghtydj.cloudfront.net/04-14-2021/t_07ce704295344215b3cef8fed3fd2a9d_name_file_1280x720_2000_v3_1_.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."
     publishedDateTime: 2021-05-13T20:39:00Z
@@ -343,15 +299,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
-    excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
-    publishedDateTime: 2021-04-20T23:17:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/apr/20/facebook-posts/no-prime-minister-japan-didnt-hold-trump-2024-sign/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 44
   - title: "Vice President Kamala Harris to talk American Jobs Plan in NC | Charlotte Observer"
     excerpt: "Vice President Kamala Harris will make her first trip to North Carolina since taking office next week to sell the American Jobs Plan. Harris is set to make stops in Greensboro and High Point on Monday,"
     publishedDateTime: 2021-04-14T22:12:00Z

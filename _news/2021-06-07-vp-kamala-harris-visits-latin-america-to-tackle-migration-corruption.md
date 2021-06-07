@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 565
-published: true
+heat: -1
+published: false
 
 provider:
   name: Chicago Tribune
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris Blasts Texas Voting Restrictions As 'Assault on Our Democracy'"
-    excerpt: "Vice President Kamala Harris has strongly criticized a Texas bill that will introduce new restrictions on voting in the Lone Star State and which is part of a wider push by Republicans to tighten election rules."
-    publishedDateTime: 2021-05-30T09:19:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185?amp=1"
+  - title: "Protesters in Guatemala Meet Kamala Harris With 'Trump Won' Signs"
+    excerpt: "U.S. Vice President Kamala Harris was met by protesters holding signs reading messages such as \"Trump won\" and \"Go home\" in Guatemala on Monday, the New York Post reported, as the country's president blames the Biden administration for this year's migrant crisis."
+    publishedDateTime: 2021-06-07T21:26:00Z
+    webUrl: "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351"
+    ampWebUrl: "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 122
+    quality: 140
     images:
-      - url: "https://d.newsweek.com/en/full/1810109/kamala-harris-makes-remarks-roundtable.jpg"
+      - url: "https://d.newsweek.com/en/full/1815134/harris-guatemala.jpg"
         width: 2500
-        height: 1639
+        height: 1663
         isCached: true
   - title: "Vice President Kamala Harris’ plane forced to return due to technical problem"
     excerpt: "A technical problem that involved \"no immediate safety issue\" forced Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."
@@ -95,19 +95,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "U.S. VP Harris to meet companies, groups to push Central America economic growth"
-    excerpt: "U.S. Vice President Kamala Harris will meet top officials from 12 companies and groups including Microsoft Corp (MSFT.O), Mastercard (MA.N) and the World Economic Forum on Thursday to promote economic opportunity in Central America's Northern Triangle countries,"
-    publishedDateTime: 2021-05-27T15:20:00Z
-    webUrl: "https://www.reuters.com/business/us-vp-harris-meet-companies-groups-push-central-america-economic-growth-2021-05-27/"
+  - title: "Kamala Harris meets with Guatemalan president"
+    excerpt: "Vice President Kamala Harris said during a news conference with President Alejandro Giammattei that the fact that Guatemala is the first country she's visiting as vice president sends a message about how important the region is to the U."
+    publishedDateTime: 2021-06-07T19:44:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-meets-guatemala-president-alejandro-giammattei-2021-06-07/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://www.reuters.com/resizer/6_n-ITQL8kzEbhcIojQrH-xzRow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WE6HSFDBGVIV3GKOVV3NHHX2WA.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/07/46bd0208-92d3-4d31-ba60-f4bd1f7e932f/thumbnail/1200x630/14da784aa27faf0d8cf6a502ff78a69e/cbsn-fusion-kamala-harris-guatemala-president-thumbnail-730040-640x360.jpg"
         width: 1200
-        height: 628
+        height: 630
+        isCached: true
+  - title: "Kamala Harris heads to Guatemala to address immigration on first foreign trip"
+    excerpt: "CBS News senior White House and political correspondent Ed O'Keefe reports on VIce President Kamala Harris' trip to Central America, her first overseas trip since taking office."
+    publishedDateTime: 2021-06-06T15:50:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-heads-to-guatemala-to-address-immigration-on-first-foreign-trip/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 102
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/f32c437a-3b09-4f05-a70a-b9a0c05141e5/thumbnail/1200x630/a06647e737a39cdf880110881efb89bc/0606-fttn-okeefe-729408-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President Kamala Harris travels to Guatemala and Mexico on first official trip abroad"
+    excerpt: "Vice President Kamala Harris is in Guatemala on her first overseas trip since taking office. She is spearheading the Biden administration's diplomatic efforts to address the root causes of migration from Central America."
+    publishedDateTime: 2021-06-07T16:49:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-travels-to-guatemala-and-mexico-on-first-official-trip-abroad/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/07/1c3c8c32-4472-4cef-8931-c784a1de93bc/thumbnail/1200x630/c097c4efb1c5eea17efaf39021b6ec6b/0607-cbsnam-harrisguatemala-729962-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vice President Kamala Harris aims to tackle immigration on her first foreign trip to Guatemala"
     excerpt: "Vice President Kamala Harris is in Guatemala to discuss the underlying causes of U.S. migration on her first foreign trip. Ed O'Keefe reports from Guatemala City."
@@ -122,22 +150,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/07/5500cdc5-aa74-45c9-82d3-86889a19b448/thumbnail/1200x630/b5db05a1ba8cb0e44141bf58b2cb3d8c/0607-ctm-vpforeigntrip-okeefe-729672-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "VP Harris announces business investments in Central America"
-    excerpt: "Harris issued what her office described as a “call to action” for businesses and nonprofits to make new commitments to promote economic opportunity in Central America. At an event announcing the initiative,"
-    publishedDateTime: 2021-05-28T03:09:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
-    type: article
-    provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/23/16/21050297/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "Harris seeks to defy history with Central America mission"
     excerpt: "Vice President Kamala Harris will make her first foray into international diplomacy on the border situation this weekend, heading to Central American to do some nation-building with a promise of $4 billion in American cash,"
@@ -155,6 +167,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris’ stepdaughter Ella Emhoff praises the ‘ugly’ mullet"
+    excerpt: "From David Bowie to ‘Rambo’ to K-pop stars, the shaggy haircut comes, goes and is back again. Style icon Ella Emhoff explains its appeal in new Vogue feature."
+    publishedDateTime: 2021-06-04T22:36:00Z
+    webUrl: "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet"
+    ampWebUrl: "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771"
+        width: 1024
+        height: 771
+        isCached: true
   - title: "Kamala Harris visits Latin America to tackle migration, corruption"
     excerpt: "Vice President Kamala Harris heads to Guatemala and Mexico on her first foreign trip Sunday, looking to deepen diplomatic ties with two nations key to the Biden administration's efforts to stem the spike in migration at the U.S. border. [ MOISES CASTILLO | ..."
     publishedDateTime: 2021-06-06T13:27:00Z
@@ -171,21 +199,21 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "VP Kamala Harris' plane forced to return due to `technical issue'"
-    excerpt: "The vice president's plane landed safely back at Joint Base Andrews about 25 minutes after takeoff Sunday afternoon."
-    publishedDateTime: 2021-06-06T19:18:00Z
-    webUrl: "https://www.11alive.com/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
+  - title: "On 1st trip, Kamala Harris says Guatemalans need 'hope' to deter migration"
+    excerpt: "Central Americans must believe that \"help is on the way\" if illegal migration to the United States is to be curbed, Vice President Kamala Harris said Monday in Guatemala during her first official foreign visit."
+    publishedDateTime: 2021-06-07T19:32:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/07/Harris-Guatemalans-need-hope-deter-migration/1331623090540/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/07/Harris-Guatemalans-need-hope-deter-migration/1331623090540/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/07/Harris-Guatemalans-need-hope-deter-migration/1331623090540/"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 75
+      name: UPI.com
+      domain: upi.com
+    quality: 73
     images:
-      - url: "https://media.11alive.com/assets/CCT/images/11f18511-5d46-4202-b763-553b5ae6080f/11f18511-5d46-4202-b763-553b5ae6080f_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/1331623090540/2021/1/ed4c77866c740474f476feb7daa30f02/v1.5/On-1st-trip-Kamala-Harris-says-Guatemalans-need-hope-to-deter-migration.jpg"
+        width: 800
+        height: 531
         isCached: true
   - title: "VP Kamala Harris’ staff moves to in-person work in July | Charlotte Observer"
     excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
@@ -219,6 +247,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Technical issue turns Kamala Harris' plane around just after takeoff for Guatemala"
+    excerpt: "The vice president was about 30 minutes into her flight to Guatemala City when the plane was forced to return to Maryland."
+    publishedDateTime: 2021-06-07T12:35:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/06/06/kamala-harris-plane-guatemala-turns-back-after-technical-issue/7576265002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/7576265002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7576265002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/06/USAT/ce7eb9ce-d915-47f0-b7f1-2da297f50042-AP_US_Harris_1.jpg?auto=webp&crop=5322,2994,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Women and youth a top focus of Kamala Harris' first visit to Mexico as vice president"
+    excerpt: "The El Paso Times is choosing to use a pseudonym since she isn't authorized by her work to speak to the press. U.S. Vice President Kamala Harris is in Guatemala today, her first diplomatic visit abroad since assuming her current post. Her next stop is ..."
+    publishedDateTime: 2021-06-07T13:13:00Z
+    webUrl: "https://www.statesman.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
+    ampWebUrl: "https://amp.statesman.com/amp/7569783002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7569783002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/24/PTX1/369c7658-4220-438f-a5b2-04e1016fa226-Vaccination_Juarez1039.JPG?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Harris’ staff to shift to in-person work in July as White House eases COVID restrictions"
     excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
     publishedDateTime: 2021-06-01T16:27:00Z
@@ -251,35 +311,19 @@ related:
         width: 1660
         height: 1168
         isCached: true
-  - title: "Harris to announce business investments in Central America"
-    excerpt: "Vice President Kamala Harris on Thursday will announce commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden administr"
-    publishedDateTime: 2021-05-27T16:32:00Z
-    webUrl: "https://www.columbian.com/news/2021/may/27/harris-to-announce-business-investments-in-central-america/"
+  - title: "VP Harris announces trip to Mexico, Guatemala"
+    excerpt: "Vice President Kamala Harris announces travel to Northern Triangle countries and said progress on the migration issue 'will not be obvious overnight.'"
+    publishedDateTime: 2021-04-14T15:54:00Z
+    webUrl: "https://www.hawaiinewsnow.com/video/2021/04/14/vp-harris-announces-trip-mexico-guatemala/"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
+      name: KHNL
+      domain: hawaiinewsnow.com
     quality: 55
     images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/05/Harris_57945.jpg-e62d7.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
-    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
-    publishedDateTime: 2021-05-31T00:11:00Z
-    webUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-    ampWebUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-capitalgazette-com.cdn.ampproject.org/c/s/www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Capital Gazette
-      domain: capitalgazette.com
-    quality: 55
-    images:
-      - url: "https://www.capitalgazette.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
+      - url: "https://www.hawaiinewsnow.com/resizer/mCyqJD0q70x-95JFE4yF8ocvHgs=/1200x0/d1acid63ghtydj.cloudfront.net/04-14-2021/t_07ce704295344215b3cef8fed3fd2a9d_name_file_1280x720_2000_v3_1_.jpg"
         width: 1200
-        height: 831
+        height: 675
         isCached: true
   - title: "Kamala Harris: I eat 'no' for breakfast"
     excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
@@ -348,6 +392,31 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
+    excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
+    publishedDateTime: 2021-06-07T20:58:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 45
+    images:
+      - url: "https://www.baltimoresun.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
+    excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
+    publishedDateTime: 2021-04-20T23:17:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/apr/20/facebook-posts/no-prime-minister-japan-didnt-hold-trump-2024-sign/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 44
   - title: "Guatemala is Kamala Harris' first stop on her trip to talk migration. Why is that nation an important player?"
     excerpt: "Vice President Kamala Harris has worked closely with Guatemala and Mexico to address the root causes of migration."
     publishedDateTime: 2021-06-07T12:34:00Z

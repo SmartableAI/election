@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Joe Biden gears up for trip to Europe to meet Queen and Putin – live"
     excerpt: "President to meet world leaders at G7 in Cornwall this week and have summit with Putin in Geneva – follow all the latest news"
-    publishedDateTime: 2021-06-07T13:04:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be1af98f082e80569f8ec0"
+    publishedDateTime: 2021-06-07T13:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be2e648f082e80569f901c"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
     type: article

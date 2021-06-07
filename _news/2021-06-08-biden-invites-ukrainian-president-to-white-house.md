@@ -63,8 +63,8 @@ related:
         isCached: true
   - title: "Joe Biden gears up for trip to Europe to meet Queen and Putin – live"
     excerpt: "President to meet world leaders at G7 in Cornwall this week and have summit with Putin in Geneva – follow all the latest news"
-    publishedDateTime: 2021-06-07T13:04:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be1af98f082e80569f8ec0"
+    publishedDateTime: 2021-06-07T13:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be2e648f082e80569f901c"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
     type: article
@@ -277,6 +277,6 @@ related:
         height: 3934
         isCached: true
 
-secured: "ZHlVsglYDwMeQH1sOEdZFXf/xrwZD258nZX0f6bwt0NAC8AtiZoH1Vd3WfWpsAZRg9JQymoQvq+HpwRRAegpQK53epBmXFuiZlMbJqWeN2PH4Foe6MpDgJst1AQO4YtKVwJAXaRARt3twI1jwRgTHq+HJ0rSjllis+K46K7Fz++qBdWlXwOo3ytIm4sZyzmHQKxkbCVjzzFr8o0IXxe6twsbLQsH9Nk+rNvuKvdUI3RMhZ8ImC86jXgXqVmUxpjmGBnTxd2jFXYhN7EmcKdJewVtHnmu1Qd3P1rQ1l3IZONFX01NXF/JkEefU/ebDp5D5Pv3wHJZF3tNGu97+/MWcbKwt9cT71nr5dbmccBUc14=;9n5xdOOYxOlVUTqGSkBkBA=="
+secured: "t1fV2WXJq3nY2JV8yF8s5/mi/8oNdZn7WQfrWbCusRQMkrehV1kt3Peyxl/jLstDfMYiS0/p/uIj3mYc2xHmWxccq+zY8wEQq/2EEviKL9uvnkS8lkqAm8lo87x8oWlshtPI3m2/nqSsFqv0B1BRuFhuCzswYte/XxOegPWMzGIz+sHB/2KByktdZA9GknymNnCMruEXR9ExraELnwY7MWXJdvZ+kngCvX5DiwMElfYM5phNmBhfGuYQ/kTJFEYzb3Gx1+Q+T3LW5Cm1uWb+vJ7ofls4jrbZiESmiboa385bhYb2Yai5NBwvsUYeDLf/3j++ScOsPN6AIzE09HhP806N5unK9nbWIsRRcsa1HQLCg1xkHBY+eWkMBtSK9AQU3y80Mve8yhfKQao8Qj8jGOpbasIDxg47god7z5eJ2z8k9lOAWe7HXR8zQrBoYFgivGK0QF18+jsu+603MbJHdl5+IBDRdo4y8s9tJ4TXq5gD+WXPQ2+zjOgg0F6oUgV+96TtBQv+6rlNbGdJtQp40Q==;Np1RlhZRzaMHXgEDykKlaw=="
 ---
 

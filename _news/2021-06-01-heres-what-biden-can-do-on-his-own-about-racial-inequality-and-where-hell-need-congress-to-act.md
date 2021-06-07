@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House defends Biden-Putin summit, calling it 'vital' for defending American interests"
+    excerpt: "The White House is defending President Joe Biden's upcoming meeting with Russian President Vladimir Putin in Geneva next week, saying it's \"vital\" to protecting America's interests.\n    \n"
+    publishedDateTime: 2021-06-07T20:56:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FbJTqJ1FeeA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/white-house-defends-putin-summit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/white-house-defends-putin-summit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House rejects GOP infrastructure counteroffer, saying it does not meet Biden's objectives"
     excerpt: "President Joe Biden on Friday rejected a new counteroffer made by Republicans on infrastructure despite a $50 billion increase in spending, telling the GOP's key negotiator that the new offer did not meet his policy goals.\n    \n"
     publishedDateTime: 2021-06-04T23:42:02Z
@@ -76,6 +92,22 @@ related:
     quality: 158
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602180257-02-biden-vaccine-remoarks-0602-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New audio of 2019 phone call reveals how Giuliani pressured Ukraine to investigate baseless Biden conspiracies"
+    excerpt: "Never-before-heard audio, obtained exclusively by CNN, shows how former President Donald Trump's longtime adviser Rudy Giuliani relentlessly pressured and coaxed the Ukrainian government in 2019 to investigate baseless conspiracies about then-candidate Joe Biden.\n    \n"
+    publishedDateTime: 2021-06-07T21:01:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tgMHpcB6CT4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/rudy-giuliani-ukraine-call-investigate-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/rudy-giuliani-ukraine-call-investigate-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607151112-giuliani-file-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
