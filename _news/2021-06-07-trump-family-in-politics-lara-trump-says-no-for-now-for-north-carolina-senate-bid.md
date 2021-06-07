@@ -3,8 +3,8 @@ category: news
 title: "Trump Family In Politics: Lara Trump Says 'No For Now' For North Carolina Senate Bid"
 excerpt: "The Trump family continues to flirt with running for public office without committing to a bid. Late Saturday, Lara Trump, the wife of Donald Trump's son Eric Trump, announced to the North Carolina GOP state convention in Greenville that she would not run for Senate in 2022."
 publishedDateTime: 2021-06-06T18:59:00Z
-originalUrl: "https://ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602"
-webUrl: "https://ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602"
+originalUrl: "https://www.ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602"
+webUrl: "https://www.ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602"
 ampWebUrl: "https://www.ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-family-politics-lara-trump-says-no-now-north-carolina-senate-bid-3216602?amp=1"
 type: article
@@ -167,6 +167,6 @@ related:
       domain: thestate.com
     quality: 35
 
-secured: "opcBAAqjIaT3yl3NR1g6iLDJMj+Vn+87YwvaahaRnXK7zLRPoiq/rEJTXPrns1UoGaAU959F3igwGht9u8EWSWSc6Pqhr3GWHSWjPv+uwEPAGq4suSXVoc1zal5u22C+1lI5a0KtXWASuOYwCzyaJBMcz2/L7xRfNWv80KvDdYpRLpVLg/+PeAFn+hcPzvwc3yEvL18DWHwZ+lOFjCTwI7FLQ7RBdh2u0Qb5y5xZBF6FQFiY8tBURKvFiK7dLOfoT+gKqdT++eIH5SJTfbXW87P7Hc/PYjEgTRD2nynIJJCduKef6OEWfZk37+eCWepTvt0AwkZzYuR6CE0HrlEUOcDQUjliR1R86u/Avk/5ifaLVHDl41bRVDTimJDW0F0gQSH6W7oAY+6nS6j8khutqUTXVv3Yh1Ml3TYv88sVMj1ahHqiDKWXBqNNuAaVn3+20RHfAwygknu7TEi0TO/O9OJ+1nq4bhWVTPe0hsl64pno/asuLSMUKOVMKOSHw2gxlu0Tpv7nRP4YFBiLBcpSow==;gjVxQ54jNAV08DdxvICicQ=="
+secured: "981mRK0oJS+wgAHnooe+pnYx7Fx+kM9KnWTiF9rMKIs319viCDnw3B0ZNN52P61IcCIQKRpLaQD/yRASGk+Y4pQ8+LBjYCTbBdaMtNRo6z8IuzCs5tei8ZbHTCPl29FJYRSPT03rl2jC+lcKFriIt+XAUB6nPVp1iF2VsglIoTZ9w7xUWNnMcrozgzTqAQQQ6LYpWyHcK2ZFIGCmnZLofMv5Rd/4/aLDnYUDJkDtKP0L6AgTGXKvx8owGHv3TyywA1S7ebewqUXukopnTravXZmIh10qR1ZwcmhNzhFikFQnpiWFWH/AKPw4DE7eTvGqV9RYX7Z33ZmOgm6RG8NYev5ZMttnmkmS4EI1ad8iU/M=;7xZvdJ9liBwYwI1BIE3f3w=="
 ---
 

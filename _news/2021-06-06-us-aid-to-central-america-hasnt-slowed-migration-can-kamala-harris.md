@@ -96,6 +96,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris arrives in Guatemala on first foreign trip as vice president"
+    excerpt: "After an enforced return to Joint Base Andrews to change planes, Vice President Kamala Harris finally arrived in Guatemala at the start of her first foreign trip as vice president."
+    publishedDateTime: 2021-06-07T09:08:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-arrives-in-guatemala-on-first-foreign-trip-as-vice-president-114415173748"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114415173748"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114415173748"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/KamAFP_9BJ4PM.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "YEloIAYvF/DPFNAHnYZEBeAVRZ5AIvI8d1StlTyvyWk5DVJK7bN7WLWFHWeE/ISfmY/RDme4U6IyUE0DNQDmc9HvbGYqxsmHAVJ34ZcvYWxAiSJ+R5SyDOih1+x6XEr5piFlCWM7zTDxfMVtvItdEFQ9sBpVuf670QPRVdYlWhEr+t4WNcR4lad1EAFt+/7IJ1zAeVbS1x0jSsR9gCI6fNWP61RX7D1vp8b4xhiYUu8TqKo0i2UsdvGQcazEiWaK5akj6FcLTOwCWrKo0OUrzgPHaWk/9Y6wx+7RGeXW5cFfk0nDqAFXmLB0jcnjg4+Q/eAngZlYwzZ2YpvyIp7ls/VrYpRouWw1u/JcDDBc4nEfMZC5UxLc7hG621X9p1bBMM8WApkXp9rOCRqZJluQzn3hyyGKrHaCJGxFsQyf/qDKKg1rrDf6ZQyfB5x3qADfy35Qx4KmB5eszJqeX6giNoXZCOL1I/RZYC83r1RsxsXCVAcAXonXwHsGErAKVkKsFqhHlnG3yR92GLrJjPsfxg==;f4hL2HQfM1/hfu8asK3Nng=="
 ---

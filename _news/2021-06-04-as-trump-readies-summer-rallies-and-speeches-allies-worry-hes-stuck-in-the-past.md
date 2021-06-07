@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In behalf of white farmers, Trump allies wage legal war against equity"
+    excerpt: "Black farmers say reverse discrimination has never been evident in their industry — but that may not stop the idea from being used to upend civil rights law."
+    publishedDateTime: 2021-06-06T21:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/behalf-white-farmers-trump-allies-wage-legal-war-against-equity-n1269737"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269737"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269737"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480535/210604-john-boyd-farmer-2019-ac-830p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "2kuP3mGYmOmdKOjhCkGUiUEFYeIxIMmHqnKIM+BavHuedmExplsfsMQPj6KtyS7Ic6no5mj68743/OGaNYDyP1IGXY2x5fdJ96b/pbdnEMlD//w2bfTudTgvh1728P9quM6rsaIMBSoX9m0808wCuNY2ac2ED9v5nTeFuS9ghLhmk4wQlBMzdRroAQaK9Nt6wgl5jdAU2qbTg7XN+Oq+aE2IvYvKBaIIjDGnftY3FtgkwP/hge4ZPwngAltehEACln3XrlEu7TYCPNNytjmAyiW/AWMwAJ5NAAwpUK2UzIRg9yrUkZYTCG81a0xBG+zCulL3pTPoOjNV23iTLYZB2lxE35cfbGjAJAT9AFYepWg=;GXk41/POvQOD6p3mpZjDNQ=="
 ---

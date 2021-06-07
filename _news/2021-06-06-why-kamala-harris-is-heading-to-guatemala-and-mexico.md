@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-mexico-immigration/index.html"
 type: article
 quality: 185
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/27/world/americas/00guatemala-foreign-aid-top/00guatemala-foreign-aid-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Kamala Harris arrives in Guatemala on first foreign trip as vice president"
+    excerpt: "After an enforced return to Joint Base Andrews to change planes, Vice President Kamala Harris finally arrived in Guatemala at the start of her first foreign trip as vice president."
+    publishedDateTime: 2021-06-07T09:08:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-arrives-in-guatemala-on-first-foreign-trip-as-vice-president-114415173748"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114415173748"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114415173748"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/KamAFP_9BJ4PM.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Uj7oOdQC+aJKESjU0cnD9gtjWHJ0ZshuQtKhNH9tCp9jMcwCOG8tmfABhkSu61X65dCye4kiSzT+yZ+UYG2uFJKIGgoh+XSsAyF+iTvNct4cPsiHfBpeycNkJJG/WxOsFL5rs/znkE7I5zctrxmx12pbh/j99f3ucwJaH1Z4sQAr/k1mMdTUJlytxKs8yrzK+xoNfHyp36G0CPunDqzaKrNxqjmoTWItL+wtYFXgfHmBZ6pp7g77Iu25pdfgEvWhzJS7KJp56L434CuLbn1O11QcaDfPfopGWO/g08Bq93yfcYA6/IzsZcTRF99MnHT14VJBuY4PzhTw2HP8j7FprSWYXldML/235ifOxpJZZ2I=;DJVWll3WE5DKUrRszIZJ2w=="

@@ -1,34 +1,34 @@
 ---
 category: news
-title: "Harris safely returns to air base after plane has 'technical issue' while departing for first foreign trip"
-excerpt: "Vice President Kamala Harris, who was en route to Latin America on Sunday, safely returned to Joint Base Andrews after her plane had a \"technical issue,\" according to Harris' chief spokesperson and senior adviser Symone Sanders.\n    \n"
-publishedDateTime: 2021-06-06T20:50:04Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvWcUZNMM5s/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvWcUZNMM5s/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-plane-technical-issue-foreign-trip-guatemala/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-plane-technical-issue-foreign-trip-guatemala/index.html"
+title: "Kamala Harris arrives in Guatemala on first foreign trip as vice president"
+excerpt: "After an enforced return to Joint Base Andrews to change planes, Vice President Kamala Harris finally arrived in Guatemala at the start of her first foreign trip as vice president."
+publishedDateTime: 2021-06-07T09:08:00Z
+originalUrl: "https://www.nbcnews.com/video/kamala-harris-arrives-in-guatemala-on-first-foreign-trip-as-vice-president-114415173748"
+webUrl: "https://www.nbcnews.com/video/kamala-harris-arrives-in-guatemala-on-first-foreign-trip-as-vice-president-114415173748"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114415173748"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114415173748"
 type: article
-quality: 167
+quality: 133
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Democratic Voice
   - Kamala Harris
+  - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606152000-01-kamala-harris-latam-0606-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/KamAFP_9BJ4PM.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris safely returns to air base after plane has 'technical issue' while departing for first foreign trip"
+    excerpt: "Vice President Kamala Harris, who was en route to Latin America on Sunday, safely returned to Joint Base Andrews after her plane had a \"technical issue,\" according to Harris' chief spokesperson and senior adviser Symone Sanders.\n    \n"
+    publishedDateTime: 2021-06-06T20:50:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvWcUZNMM5s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-plane-technical-issue-foreign-trip-guatemala/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-plane-technical-issue-foreign-trip-guatemala/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606152000-01-kamala-harris-latam-0606-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris and a High-Risk, High-Reward Presidential Résumé"
     excerpt: "For the vice president, another run at the Oval Office is a near certainty. How her current responsibilities help or hurt that bid is an open question."
     publishedDateTime: 2021-06-05T09:00:00Z
@@ -96,23 +112,7 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Kamala Harris arrives in Guatemala on first foreign trip as vice president"
-    excerpt: "After an enforced return to Joint Base Andrews to change planes, Vice President Kamala Harris finally arrived in Guatemala at the start of her first foreign trip as vice president."
-    publishedDateTime: 2021-06-07T09:08:00Z
-    webUrl: "https://www.nbcnews.com/video/kamala-harris-arrives-in-guatemala-on-first-foreign-trip-as-vice-president-114415173748"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114415173748"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114415173748"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/KamAFP_9BJ4PM.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
-secured: "IDnX6hyKNgF+ogI+VjK4YTcoqbd/UOQ8+drRnlyhPXNdgoKDDBJISBcTa6xusFbBf3au7ba94cl0nxek2+CXGANWmkfST1yzc7SaBGS/v4PUF2SWWJ3zh//YWZ2XaZPIgNMvevMLuKpcgjXe55XES4IFdlVgsXF81DCGvYGgnW0Si6y6Q1NmUDl14tCOOAEQhpzy4jno+LdsAEBONNZnVW694b1R7225HORUdEbcdJyPWs3ZpgWh3GiRi/f3uoWY9TuZLSPWUyOGGJIF07LNPGEzaJhJWD0/GXbmNHXGLAzldSipy4GOCZMMltYScy0OL7uBuW07iH8b8CdCboMQDNEV/sI7hMzrECxytJJx00Y=;dPYhm7dusW1x1OAGPAjNzw=="
+secured: "S8Adv3Bl1INpzjDKC0MEGNy//t+QJADRSPc+UJKGxlPqkpr7CVG9ODyf14O1gPf8r3oIYkU7Cpx+AgRL7/y3le4o9LnCfjlYLrbSdVtT7qJV/S/BDdyEK7n1eWkl7hlrufiShBKkx4keCkjY8dvNThjnjvayVbRcbnHIUBng0I75k/CO+5VVym83hLoJpgmmuLbiolFn2oukpOn1QItlFyJ/IqusHovxsAe8w4KADe09I8ujdHT7dNgLIw+1xw7KcOukEl7H7GPzqobL1k+NwajjgO3TyzZbhVe7SGllICJzC1Oplb3oOcz2RF9vhoxnjiotdLzo5RG9mJo83EdG4U7gSJxsrVDN+JoBBo6asjY=;TEczVbCKIS8IEVinaqHQ7A=="
 ---
 
