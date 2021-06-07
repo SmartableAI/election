@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-07-vp-kamala-harris-visits-latin-america-to-tackle-migration-corruption.md",
+      "title": "VP Kamala Harris visits Latin America to tackle migration, corruption",
+      "excerpt": "The Biden administration is expected to announce new measures to fight smuggling and trafficking, and hopes to announce additional anti-corruption efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/XEP7DeqoJKwujD5O3LaMf_lrGGw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/M3GSUD6GWY6XRPWDLTTJWDLHGE.jpg",
+          "width": 1200,
+          "height": 832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-06T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-kamala-harris-trip-kicks-off-after-technical-issue-with-plane-causes-delay.md",
       "title": "Kamala Harris' trip kicks off after \"technical issue\" with plane causes delay",
       "excerpt": "Vice President Kamala Harris' first international trip got off to a rocky start when her plane was forced to fly back to Joint Base Andrews due to a \"technical issue\" about 30 minutes after it took off.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.cbsnews.com/news/kamala-harris-plane-technical-issues-international-trip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 222,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -168,58 +220,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-06-guatemalas-president-says-kamala-harris-doesnt-hold-back-ahead-of-immigration-talks.md",
-      "title": "Guatemala's president says Kamala Harris \"doesn't hold back\" ahead of immigration talks",
-      "excerpt": "Guatemalan President Alejandro Giammattei is set to host Harris on Monday during her first international trip as vice president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/guatemala-president-kamala-harris-trip-immigration-talks/",
-      "originalUrl": "https://www.cbsnews.com/news/guatemala-president-kamala-harris-trip-immigration-talks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/c23dfc7a-2de3-4928-b162-b5344262f730/thumbnail/1200x630g3/6df35ab454879cb32f06a8fd233a428e/gettyimages-1232547348.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/",
-      "publishedDateTime": "2021-06-06T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-06-06-biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.md",
       "title": "Biden, Harris packing their bags this week for first foreign trips since taking office",
       "excerpt": "After more than four months in office, President Joe Biden and Vice President Kamala Harris are both planning this week to leave the U.S. and take the first foreign trips of their administration.",
@@ -285,7 +285,7 @@
       "originalUrl": "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -488,58 +488,6 @@
         "Election",
         "Kamala Harris",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-us-vp-harris-to-meet-companies-groups-to-push-central-america-economic-growth.md",
-      "title": "U.S. VP Harris to meet companies, groups to push Central America economic growth",
-      "excerpt": "U.S. Vice President Kamala Harris will meet top officials from 12 companies and groups including Microsoft Corp (MSFT.O), Mastercard (MA.N) and the World Economic Forum on Thursday to promote economic opportunity in Central America's Northern Triangle countries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/us-vp-harris-meet-companies-groups-push-central-america-economic-growth-2021-05-27/",
-      "originalUrl": "https://www.reuters.com/business/us-vp-harris-meet-companies-groups-push-central-america-economic-growth-2021-05-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/6_n-ITQL8kzEbhcIojQrH-xzRow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WE6HSFDBGVIV3GKOVV3NHHX2WA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -775,7 +723,7 @@
       "originalUrl": "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 404,
+      "heat": 324,
       "tags": null,
       "images": [
         {
@@ -1019,6 +967,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-18-harris-county-to-lower-covid-threat-level-khou-11-confirms.md",
+      "title": "Harris County to lower COVID threat level, KHOU 11 confirms",
+      "excerpt": "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032",
+      "originalUrl": "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-harris-headlines-unity-summit-for-aapi-community.md",
       "title": "Harris headlines unity summit for AAPI community",
       "excerpt": "Vice President Kamala Harris will serve as the keynote speaker for a virtual unity summit for Asian Americans and Pacific Islanders this week, her latest outreach to a community that has faced a wave of racially motivated crimes during the pandemic and is growing as a voting bloc.\n    \n",
@@ -1184,7 +1175,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 244,
       "tags": null,
       "images": [
         {

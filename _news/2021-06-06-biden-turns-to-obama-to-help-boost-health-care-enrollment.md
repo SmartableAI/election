@@ -47,6 +47,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Manchin says he will not support voting rights bill, in blow to Biden agenda and a warning to his colleagues"
+    excerpt: "I believe that partisan voting legislation will destroy the already weakening binds of our democracy, and for that reason, I will vote against the For the People Act,” Manchin wrote in an op-ed in the Charleston Gazette-Mail on Sunday."
+    publishedDateTime: 2021-06-06T21:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/06/manchin-voting-rights-op-ed/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/06/manchin-voting-rights-op-ed/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/06/manchin-voting-rights-op-ed/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/60bd4e034cedfd0001aaf833/2021-06-06T221827Z_1_OVEG9QC4F_RTRMADC_0_USA-SENATE-ELECTION.jpg&w=1440"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Biden to troops before Memorial Day: 'We owe you'"
     excerpt: "President Joe Biden traveled to Joint Base Langley-Eustis in Virginia Friday to thank troops ahead of the Memorial Day weekend and acknowledge the unheralded sacrifices that the service members and their families make."
     publishedDateTime: 2021-05-28T20:57:00Z

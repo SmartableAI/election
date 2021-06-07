@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden to troops before Memorial Day: 'We owe you'"
-excerpt: "President Joe Biden traveled to Joint Base Langley-Eustis in Virginia Friday to thank troops ahead of the Memorial Day weekend and acknowledge the unheralded sacrifices that the service members and their families make."
-publishedDateTime: 2021-05-28T20:57:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/28/biden-troops-before-memorial-day-we-owe-you/5253536001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/28/biden-troops-before-memorial-day-we-owe-you/5253536001/"
+title: "Manchin says he will not support voting rights bill, in blow to Biden agenda and a warning to his colleagues"
+excerpt: "I believe that partisan voting legislation will destroy the already weakening binds of our democracy, and for that reason, I will vote against the For the People Act,” Manchin wrote in an op-ed in the Charleston Gazette-Mail on Sunday."
+publishedDateTime: 2021-06-06T21:53:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/06/06/manchin-voting-rights-op-ed/"
+webUrl: "https://www.washingtonpost.com/politics/2021/06/06/manchin-voting-rights-op-ed/"
+ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/06/manchin-voting-rights-op-ed/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/06/manchin-voting-rights-op-ed/?outputType=amp"
 type: article
-quality: 105
+quality: 106
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e86cd806-07cc-4ea4-9dcc-2d333775783d_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/60bd4e034cedfd0001aaf833/2021-06-06T221827Z_1_OVEG9QC4F_RTRMADC_0_USA-SENATE-ELECTION.jpg&w=1440"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -61,21 +63,19 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Manchin says he will not support voting rights bill, in blow to Biden agenda and a warning to his colleagues"
-    excerpt: "I believe that partisan voting legislation will destroy the already weakening binds of our democracy, and for that reason, I will vote against the For the People Act,” Manchin wrote in an op-ed in the Charleston Gazette-Mail on Sunday."
-    publishedDateTime: 2021-06-06T21:53:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/06/06/manchin-voting-rights-op-ed/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/06/manchin-voting-rights-op-ed/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/06/manchin-voting-rights-op-ed/?outputType=amp"
+  - title: "Biden to troops before Memorial Day: 'We owe you'"
+    excerpt: "President Joe Biden traveled to Joint Base Langley-Eustis in Virginia Friday to thank troops ahead of the Memorial Day weekend and acknowledge the unheralded sacrifices that the service members and their families make."
+    publishedDateTime: 2021-05-28T20:57:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/28/biden-troops-before-memorial-day-we-owe-you/5253536001/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/60bd4e034cedfd0001aaf833/2021-06-06T221827Z_1_OVEG9QC4F_RTRMADC_0_USA-SENATE-ELECTION.jpg&w=1440"
-        width: 960
-        height: 540
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e86cd806-07cc-4ea4-9dcc-2d333775783d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden rejects new GOP infrastructure offer"
     excerpt: "Top News Biden rejects new GOP infrastructure offer. Posted [NFA] U.S. President Joe Biden shot down a new proposal from the main Republican negotiator on infrastructure, Senator"
@@ -152,6 +152,6 @@ related:
         height: 433
         isCached: true
 
-secured: "NMksWWouSxXSuvwTh5cU+DQQAEoFpgfu4VV3ezBIrc6DWm4fKCw50ACchjY0QUrvtf34PRMdyj2ym+rYtJIA+OrhL/dRCRt5BIXx0LyD5U5TfKAANs7ZD6I2uoDlW7gI37hv4F+tOdiKy/GXgrsewnzoFPyqgBVKElfwuGc/kV5QxfCjTTV+8hDcUPUo5/H4t0UKRrSB2UwoDynBKV4C9S5iUp68gLAzFUUtFYqs4prlI4W3gaHS3JTveFbDQy6rS2g0aMWWVm8cNjUoo7SnPlKLyR8k42d0nBVKaGfuyJL1zvu92I94qqQFrXPFv+w+ItSBlwi0t91aR2tsPp/mEvrHV91DFoafHb+60JGzcRj3bG1e+mQHEbZgXui6OfUZLuUR4lDgwJ3iWa2YWS3cs9cNpozR1EFjCWgG58E+UUcupmz7gYp47FgUtRxKCGSRBbZ3YGrsqxhyr12A8tWA0GrQRP+U7+W6uCfG6Kr0msJNDrvJEYu/QS0p0305FLuTj2dz9C56ENEFLk2C/bT8KQ==;VQ6TUxduUJTLBgcb8osJZA=="
+secured: "a+hQtshvIUIgzrJ1d6UsVmrl8BF5kZ3wncJF10tP0F2dsA+u7JLAbIeTYGscnR2Z8jdzInPhuhd2H7DEq6VPVcF1T5qiEYQkoDvloYb0YmgiIiASklmRKYZkNvQBfeCKEuOoM3BnabiEkhELpRUrzgUWio7lWuSatEU8k7yzfIStnnEzKDHiNqUSz5IHOxmJS1BKWDYQDWBNWROORAFDlwLao6WjT5lVhxBmxpfjSAN2SgFyoow7tHk6tXWFTZmR+wBGAjEHnYY5kTpA2Wl7v0HYEeFWnSzwSxb81U60rEcyWe0luDvJ35gBFyYUOUFDtQX2FUZhf2Yj5UWhHRwhmhr31TP6iSaWBhvEpLGZPQw=;uSLINYEqLKyNGqi0Cnus6A=="
 ---
 

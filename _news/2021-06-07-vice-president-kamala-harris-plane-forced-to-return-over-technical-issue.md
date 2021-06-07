@@ -2,26 +2,26 @@
 category: news
 title: "Vice President Kamala Harris’ plane forced to return over ‘technical issue’"
 excerpt: "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday."
-publishedDateTime: 2021-06-06T22:14:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+publishedDateTime: 2021-06-07T01:49:00Z
+originalUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
+webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
+ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
+  - url: "https://www.dailypress.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
     width: 1200
     height: 758
     isCached: true
@@ -43,67 +43,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Harris seeks to defy history with Central America mission"
-    excerpt: "Vice President Kamala Harris will make her first foray into international diplomacy on the border situation this weekend, heading to Central American to do some nation-building with a promise of $4 billion in American cash,"
-    publishedDateTime: 2021-06-04T19:19:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jun/4/kamala-harris-seeks-defy-history-central-america-m/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jun/4/kamala-harris-seeks-defy-history-central-america-m/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/4/kamala-harris-seeks-defy-history-central-america-m/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/28/Naval_Academy_Harris_66558.jpg-f684d_c0-0-2504-1460_s1200x700.jpg?559d7eea007bb7e32e58016af6093f8273cfeedd"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "VP Kamala Harris' plane forced to return due to `technical issue'"
-    excerpt: "The vice president's plane landed safely back at Joint Base Andrews about 25 minutes after takeoff Sunday afternoon."
-    publishedDateTime: 2021-06-06T19:18:00Z
-    webUrl: "https://www.11alive.com/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 75
-    images:
-      - url: "https://media.11alive.com/assets/CCT/images/11f18511-5d46-4202-b763-553b5ae6080f/11f18511-5d46-4202-b763-553b5ae6080f_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Kamala Harris: I eat 'no' for breakfast"
-    excerpt: "During an interview with MSNBC, Vice President Kamala Harris says she has been told no many times in her career and she \"eats no for breakfast\"."
-    publishedDateTime: 2021-06-01T17:56:00Z
-    webUrl: "https://www.djournal.com/news/national/kamala-harris-i-eat-no-for-breakfast/video_0b6c4d73-2c56-5394-b2ff-12828c5e4332.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/b6/0b6c4d73-2c56-5394-b2ff-12828c5e4332/60b67a0a13d70.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
-  - title: "Kamala Harris' plane returns to air base after technical issue"
-    excerpt: "Vice President Kamala Harris was on her way to Guatemala when her plane returned to Joint Base Andrews due to a \"technical issue,\" according to a spokesperson. CNN's Joe Johns"
-    publishedDateTime: 2021-06-06T19:37:00Z
-    webUrl: "https://www.djournal.com/news/national/kamala-harris-plane-returns-to-air-base-after-technical-issue/video_c8224d80-9244-5dce-8f58-45bcdb3e9b36.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/82/c8224d80-9244-5dce-8f58-45bcdb3e9b36/60bd2971c7610.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
 
-secured: "uBoLD4G18j7miNVH9z3E63WjJ2awtjN4abDmbwJgA/ddHVIJVfe9pUGd6eSD/mLiNnerkikalPau7eTARZxk2cZgj/ZtjUG/vsEfecQ7fDfLRv/1dnD7l/11f/lfz+zqgY5ZsJqGXUSt8cFwQOM/txxCJD5rbsGRiJkXerz0Oz9Y3RsNy1qmss1EP5lnoueVCTvhoyUfH9bpIjsbg7u/5WWFKFuBRwgtIodEsju0u3Xjrp9tll4WIR3fPac8c4cXOftpy/sPkiIREwDO4YJ305h2ULmu0t4QVSdSUO1eECVJVhlu9Y7IH7hxR0pOnyQBcwLzajHZRN8W73pt0c1iflFsiZThJmDkHFzFESnFvy4=;Qn5F5UI9uWuLyUfXogw9Sw=="
+secured: "/d8gBEP9SJQ7PA72WCXbmo2wSmcIxQpiHHMdAWWLeGQF9NbYRpezC7f8GXy0HLp9pI7T3qzAxZtFRtZu/ZUzOZu0TlhGxpWo5P9RiRZeMJhW2UQXK8ubAr0arSgOMY6FhHrzEugqcFxQM7Ym56WBlSf2SR7mi/I7AOG58VlUl6C2mYKz17aO2sbQmcARgqEMDQnAh87c6ktJmcfsDy/Zur+8l1uqybFyajdYUwAXW4k7lZgJwSVk1Z4jBaF/NWbkReRHGud7XsFWaMPcib/n6hIZVPrLl9+cC9dnk4OtwixWYXWyTFckd/88v4ETaWwto4r2w0fm9WYzM+A0hWBsR3PDcCFgbLLOo8PUEcJmls4=;8LpZgNu7kY8Qui5cUY+kDQ=="
 ---
 

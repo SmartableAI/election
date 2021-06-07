@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-07-vp-kamala-harris-visits-latin-america-to-tackle-migration-corruption.md",
+      "title": "VP Kamala Harris visits Latin America to tackle migration, corruption",
+      "excerpt": "The Biden administration is expected to announce new measures to fight smuggling and trafficking, and hopes to announce additional anti-corruption efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/XEP7DeqoJKwujD5O3LaMf_lrGGw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/M3GSUD6GWY6XRPWDLTTJWDLHGE.jpg",
+          "width": 1200,
+          "height": 832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-06T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-kamala-harris-trip-kicks-off-after-technical-issue-with-plane-causes-delay.md",
       "title": "Kamala Harris' trip kicks off after \"technical issue\" with plane causes delay",
       "excerpt": "Vice President Kamala Harris' first international trip got off to a rocky start when her plane was forced to fly back to Joint Base Andrews due to a \"technical issue\" about 30 minutes after it took off.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.cbsnews.com/news/kamala-harris-plane-technical-issues-international-trip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 222,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -108,6 +160,58 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-trump-adviser-lewandowski-he-lost-the-election-and-will-not-be-reinstated.md",
+      "title": "Trump adviser Lewandowski: he ‘lost the election’ and will not be reinstated",
+      "excerpt": "Former campaign manager tells Fox News Sunday there is no mechanism by which a loser can return to the White House",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a4b97b8c413143ea1afe44637af39841f042e591/0_275_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4f52b1748e208e20eb8ed24e73d36fff",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
+      "publishedDateTime": "2021-06-06T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -498,58 +602,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-guatemalas-president-says-kamala-harris-doesnt-hold-back-ahead-of-immigration-talks.md",
-      "title": "Guatemala's president says Kamala Harris \"doesn't hold back\" ahead of immigration talks",
-      "excerpt": "Guatemalan President Alejandro Giammattei is set to host Harris on Monday during her first international trip as vice president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/guatemala-president-kamala-harris-trip-immigration-talks/",
-      "originalUrl": "https://www.cbsnews.com/news/guatemala-president-kamala-harris-trip-immigration-talks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/c23dfc7a-2de3-4928-b162-b5344262f730/thumbnail/1200x630g3/6df35ab454879cb32f06a8fd233a428e/gettyimages-1232547348.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/guatemala-president-kamala-harris-trip-immigration-talks/",
-      "publishedDateTime": "2021-06-06T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -1264,7 +1316,7 @@
       "originalUrl": "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1296,62 +1348,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-biden-pentagon-state-department-at-odds-over-pride-flag.md",
-      "title": "Biden Pentagon, State Department at odds over pride flag",
-      "excerpt": "The Defense Department will not allow the Pride flag to be flown at military bases, unlike the State Department, spokesperson John Kirby said Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Pride-Flag-iStock-2.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp",
-      "publishedDateTime": "2021-06-04T14:29:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

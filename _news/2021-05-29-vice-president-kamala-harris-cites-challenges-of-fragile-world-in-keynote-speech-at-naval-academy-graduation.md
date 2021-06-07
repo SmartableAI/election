@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Kamala Harris Blasts Texas Voting Restrictions As 'Assault on Our Democracy'"
-    excerpt: "Vice President Kamala Harris has strongly criticized a Texas bill that will introduce new restrictions on voting in the Lone Star State and which is part of a wider push by Republicans to tighten election rules."
-    publishedDateTime: 2021-05-30T09:19:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-blasts-texas-voting-restrictions-assault-our-democracy-1596185?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1810109/kamala-harris-makes-remarks-roundtable.jpg"
-        width: 2500
-        height: 1639
-        isCached: true
   - title: "Kamala Harris Describes Colonial Pipeline Hack As 'Warning Shot' in Speech To Navy Graduates"
     excerpt: "\"We must defend our nation against these threats, and at the same time we must make advances in things that you've been learning — things like quantum computing and artificial intelligence and robotics and things that will put our nation at a strategic advantage,"
     publishedDateTime: 2021-05-28T17:22:00Z
@@ -108,22 +92,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/12/election_2020_joe_biden_vp_00766_c0-0-4061-2368_s1200x700.jpg?1b20ccd4a28d7efd04c18bd85a2c3907018d352d"
         width: 1200
         height: 700
-        isCached: true
-  - title: "VP Harris announces business investments in Central America"
-    excerpt: "Harris issued what her office described as a “call to action” for businesses and nonprofits to make new commitments to promote economic opportunity in Central America. At an event announcing the initiative,"
-    publishedDateTime: 2021-05-28T03:09:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/Harris-to-announce-business-investments-in-16207174.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Harris-to-announce-business-investments-in-16207174.php"
-    type: article
-    provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/23/16/21050297/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "Harris cites challenges of 'fragile' world in Navy speech"
     excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday, the first by a woman at the 175-year-old institution."
@@ -173,20 +141,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Harris to announce business investments in Central America"
-    excerpt: "Vice President Kamala Harris on Thursday will announce commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden administr"
-    publishedDateTime: 2021-05-27T16:32:00Z
-    webUrl: "https://www.columbian.com/news/2021/may/27/harris-to-announce-business-investments-in-central-america/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 55
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/05/Harris_57945.jpg-e62d7.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
     excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
     publishedDateTime: 2021-05-28T16:14:00Z
@@ -200,22 +154,6 @@ related:
     quality: 55
     images:
       - url: "https://www.dailypress.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
-        width: 1200
-        height: 831
-        isCached: true
-  - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
-    excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
-    publishedDateTime: 2021-05-31T00:11:00Z
-    webUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html"
-    ampWebUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-capitalgazette-com.cdn.ampproject.org/c/s/www.capitalgazette.com/news/nation-world/ct-aud-nw-nyt-kamala-harris-naval-academy-commencement-20210528-l673zylxljcbpfxmsbh7afev6i-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Capital Gazette
-      domain: capitalgazette.com
-    quality: 55
-    images:
-      - url: "https://www.capitalgazette.com/resizer/WT-QMWHJnNftn7P_WEXZwUqPV6Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KHUSSF6FIZCI7CMPKZIIP4X53I.jpg"
         width: 1200
         height: 831
         isCached: true

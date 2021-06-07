@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Harris to announce business investments in Central America"
-excerpt: "Vice President Kamala Harris on Thursday will announce commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden administr"
-publishedDateTime: 2021-05-27T16:32:00Z
-originalUrl: "https://www.columbian.com/news/2021/may/27/harris-to-announce-business-investments-in-central-america/"
-webUrl: "https://www.columbian.com/news/2021/may/27/harris-to-announce-business-investments-in-central-america/"
+title: "Kamala Harris Flight to Guatemala Forced to Return to Maryland Due to Plane Issue"
+excerpt: "The plane turned back roughly 30 minutes after takeoff and safely landed back at Joint Base Andrews around 3 p.m. ET."
+publishedDateTime: 2021-06-07T00:56:00Z
+originalUrl: "https://www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004"
+webUrl: "https://www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004"
+ampWebUrl: "https://www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004?amp=1"
 type: article
-quality: 55
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: The Columbian
-  domain: columbian.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://pcdn.columbian.com/wp-content/uploads/2021/05/Harris_57945.jpg-e62d7.jpg"
-    width: 900
-    height: 600
+  - url: "https://d.newsweek.com/en/full/1814333/kamala-harris-plane-forced-return.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -56,22 +62,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1810109/kamala-harris-makes-remarks-roundtable.jpg"
         width: 2500
         height: 1639
-        isCached: true
-  - title: "Kamala Harris Flight to Guatemala Forced to Return to Maryland Due to Plane Issue"
-    excerpt: "The plane turned back roughly 30 minutes after takeoff and safely landed back at Joint Base Andrews around 3 p.m. ET."
-    publishedDateTime: 2021-06-07T00:56:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-flight-guatemala-forced-return-maryland-due-plane-issue-1598004?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
-    images:
-      - url: "https://d.newsweek.com/en/full/1814333/kamala-harris-plane-forced-return.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Guatemala's president says Kamala Harris \"doesn't hold back\" ahead of immigration talks"
     excerpt: "Guatemalan President Alejandro Giammattei is set to host Harris on Monday during her first international trip as vice president."
@@ -231,6 +221,20 @@ related:
         width: 1660
         height: 1168
         isCached: true
+  - title: "Harris to announce business investments in Central America"
+    excerpt: "Vice President Kamala Harris on Thursday will announce commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden administr"
+    publishedDateTime: 2021-05-27T16:32:00Z
+    webUrl: "https://www.columbian.com/news/2021/may/27/harris-to-announce-business-investments-in-central-america/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 55
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/05/Harris_57945.jpg-e62d7.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Vice President Kamala Harris cites challenges of ‘fragile’ world in keynote speech at Naval Academy graduation"
     excerpt: "Vice President Kamala Harris focused on the challenges of the pandemic, climate change and cybersecurity threats during her keynote speech to graduates at the U.S. Naval Academy on Friday."
     publishedDateTime: 2021-05-31T00:11:00Z
@@ -315,6 +319,6 @@ related:
         height: 324
         isCached: true
 
-secured: "SAbBwja6YFWnAT9ItphzwVcbv2IMCGj6JYT4BzsO/KklPiymGnRfEgeg/Dy2NvJF/24F0a+2LqyDIt0Ucwu1wG/ADfZHp09gGi1f52zYY1jSth4LpL1EgiUbX7tnUuIkpoui6T4yTYmL3HyVTIqy/rv1wjkrMOIWnay7RI/aHD1t0AFDhInf8WfRkW5/3pq2Q/n0c49hp0QX8qTj3WrkuUWu+1OoxuO8x0TPwY5tIzOEaoOwFj4zgvRYNvwEuWpzEMcIEZJbFtk8kCOT5Ld946tegW741LyopWsOItMoORXLhaCVOV32pQx5//mLs2cOwAGSV6B7rKtn6haro6WSYcXPfe8WkpUX0LTjK6v57gM=;8AcYj3crFs2H5YzviA9iEw=="
+secured: "jXwvXx7SV2VDKl6RywLqgMnZx7fE7wTgglJxdiqvBzUlagTArUEs2rt7VN5u8s/FCuKh6jmYFZu95OPBFoI+QdAq9NGJYJOvzEY7YeoVI/CaExe8CZCPav72+CRrZAlIuiyNv03tTWnHwzXSIM7LCRDt8SbZBMv62sCXivrCc2kKvMMatDoSImCzGUQb77qo7yE2N24c5Xcb+CG7QyDmvJSaCCRthzrS03taYLayqMmZsVbJP5AacOtTniyNBqCp7m7TeBJ0ikHo9rJH3sqjilh/lfJBN4ifV/D8oWu1dcnhNuqerH2eOIDruqm7OaSfqmEaFoTfXjJ+sWkcIOCzgILeCJFs9RmSrIu1QkXLlc0=;Lyx9DkZA5A4NMUpapFjtXQ=="
 ---
 

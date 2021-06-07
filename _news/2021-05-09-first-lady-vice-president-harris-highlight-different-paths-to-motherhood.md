@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highl
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
 type: article
 quality: 124
-heat: 264
+heat: 244
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/07/US_Mexico_Harris_Obrador_27987.jpg-ac6ed_c0-0-5527-3224_s1200x700.jpg?3598ffbb02b4836c4f9da67f95c650e0d52b03d3"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Vice President Kamala Harris Speaks About High Speed Internet Access"
-    excerpt: "United States Vice President Kamala Harris departs following an event about high speed internet at the White House on Thursday, June 3, 2021 in Washington, DC. Photo by Alex Edelman/UPI"
-    publishedDateTime: 2021-06-03T18:46:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/07425a76056b18adf917dea890a8b058/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/07425a76056b18adf917dea890a8b058/HARRIS-INTERNET-SPEED.jpg"
-        width: 650
-        height: 433
         isCached: true
   - title: "Kamala Harris said corruption costs as much as 5% of the world's GDP. That stat is questionable"
     excerpt: "For more than a decade, an interesting statistic about the cost of corruption has been bouncing around the global-economics community, showing up in statements and reports from or"

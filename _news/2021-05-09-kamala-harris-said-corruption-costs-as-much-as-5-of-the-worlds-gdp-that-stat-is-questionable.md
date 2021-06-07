@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Vice President Kamala Harris Speaks About High Speed Internet Access"
-    excerpt: "United States Vice President Kamala Harris departs following an event about high speed internet at the White House on Thursday, June 3, 2021 in Washington, DC. Photo by Alex Edelman/UPI"
-    publishedDateTime: 2021-06-03T18:46:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/07425a76056b18adf917dea890a8b058/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/07425a76056b18adf917dea890a8b058/HARRIS-INTERNET-SPEED.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "Vice President Harris Meeting with Congressional Asian Pacific American Caucus"
     excerpt: "T16:24:02-04:00 President Harris meets with members of the Congressional Asian Pacific American Caucus. Javascript must be enabled in order to access C-SPAN videos. Democratic vice presidential candidate Kamala Harris meets with officials in Fresno,"
     publishedDateTime: 2021-05-11T20:43:00Z
