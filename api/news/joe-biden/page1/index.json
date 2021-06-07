@@ -59,21 +59,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-07-biden-to-warn-uk-pm-johnson-over-northern-ireland-the-times.md",
-      "title": "Biden to warn UK PM Johnson over Northern Ireland: The Times",
-      "excerpt": "U.S. President Joe Biden will warn British Prime Minister Boris Johnson not to renege on the Northern Ireland Brexit deal when they meet for the first time at the G7 summit this week, The Times reported on Monday,",
+      "path": "_news/2021-06-07-biden-to-affirm-special-relationship-at-g7-meeting-with-johnson.md",
+      "title": "Biden to affirm “special relationship’ at G7 meeting with Johnson",
+      "excerpt": "President also expected to discuss post-Brexit difficulties in Northern Ireland with the prime minister",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-g7-summit-brexit/biden-to-warn-uk-pm-johnson-over-northern-ireland-the-times-idUSKCN2DJ0IS",
-      "originalUrl": "https://www.reuters.com/article/us-g7-summit-brexit/biden-to-warn-uk-pm-johnson-over-northern-ireland-the-times-idUSKCN2DJ0IS",
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564736702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5609V",
-          "width": 816,
-          "height": 545,
+          "url": "https://i.guim.co.uk/img/media/6f9f1d2fea9fe37796afb6d72fbee2090125ba66/0_299_5836_3501/master/5836.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ebd6191c3c329deef6509b1a555e3ef",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -81,16 +81,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2DJ0IQ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DJ0IQ",
-      "publishedDateTime": "2021-06-07T00:07:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson",
+      "publishedDateTime": "2021-06-06T21:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -754,7 +754,7 @@
       "originalUrl": "https://www.businessinsider.com/ted-cruz-israel-calls-on-biden-deliver-weapons-to-country-2021-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {

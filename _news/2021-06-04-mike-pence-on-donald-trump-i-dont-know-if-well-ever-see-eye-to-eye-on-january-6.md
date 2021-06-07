@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/index.html"
 type: article
 quality: 193
-heat: 333
+heat: 353
 published: true
 
 provider:
@@ -141,6 +141,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/03/us/politics/03new-washington-briefing-pence2/03new-washington-briefing-pence2-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "What Happened When Trump Was Banned on Social Media"
+    excerpt: "Since Facebook and Twitter banned him, Donald J. Trump, the former president, has posted statements online far less often. But some of his statements have traveled just as far and wide on social networks."
+    publishedDateTime: 2021-06-07T05:00:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/06/07/technology/trump-social-media-ban.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/01/us/trump-social-media-ban-promo-1622577567013/trump-social-media-ban-promo-1622577567013-facebookJumbo-v3.png"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "iDZJcJYWsU6AbIlMTXv4wQKflqN/MKKfL0rGAAMx9JoSneakB1DwJwV/1A6+kgE750kvx96Qx0INDbMobGYrb+Ptf4aeQFEtgePeQ4OE7SwHd5M7HAZrKJkzN7PeFKtUl64290HYHfxe6CxZPN/+zhf8FrJhrWLCxjYAmL+Ft5AbWGlGS0YyFoqUin6w9TBX3aBKI5kf0X3CCbgnjKRD/FaDU/a5fecI+vgh0naMx0IGu2yuCIBWHWURevgzZbKTODEmhyMR2R/DY9it4Qj8Fp9cN+ti8EcaM9LmWCRDDEm4ymM58XcIzY6caknK5dPNPbSGSy/9cCtpYX0quNcXLwAC1wDwcdJCecGwtET5uJs=;N3x7xWt03X3JK7ndDzSRhA=="

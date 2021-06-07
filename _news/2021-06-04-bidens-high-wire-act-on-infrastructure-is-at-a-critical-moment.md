@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ransomware attacks saddle Biden with grave national security crisis"
+    excerpt: "The Biden administration Sunday confronted the implications of a sudden and grave national security challenge as ransom-demanding cyber hackers target the staples of American life -- food, gas, water, hospitals and transport.\n    \n"
+    publishedDateTime: 2021-06-07T05:32:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k7DiDWgZsHs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/president-joe-biden-cyber-attacks-russia-putin-trump-economy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/president-joe-biden-cyber-attacks-russia-putin-trump-economy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604104621-01-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Progressives push Biden to do more to distribute vaccines across the world"
     excerpt: "A group of more than 30 Democratic members of the House of Representatives have signed onto a letter to the White House encouraging the Biden administration to do even more to help distribute vaccines across the world.\n    \n"
     publishedDateTime: 2021-06-03T20:59:25Z

@@ -295,6 +295,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence says he’ll likely never see eye to eye with Trump on Capitol attack"
+    excerpt: "Some angry Trump supporters chanted \"Hang Mike Pence!\" on Jan. 6 after he refused to overturn Joe Biden's election victory."
+    publishedDateTime: 2021-06-04T09:41:00Z
+    webUrl: "https://bangordailynews.com/2021/06/04/national-politics/mike-pence-says-hell-likely-never-see-eye-to-eye-with-trump-on-capitol-attack/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 66
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Pence.jpg"
+        width: 1024
+        height: 665
+        isCached: true
 
 secured: "7PE97mfcDuqKzGpRilqeUfoZm+mECiY2z4tJU9KkYoLknhbhElCexgXNcSod/9mN3m4WTSaK9LBP0b/uLLG9qTu/oSYZN/N4rN9cPtF0dqFKRMhBe71ZKZVJV/gcAEJ05/SXoNi+vc0KEt0IRQ8nLA48O7Nywyok6nzGzg6e/UuG1ZUsQ310atSijdXmHE7JjCD54l6DQCzlsu9JyKaR1FCbEAZ3UfbaMRO/piGJ1RH4WvuZlUJt88gcRbqTfe0mS54f747Zlrpc0gTTL5CgUGTj9a9jU8M9bHEaxao1rhcHl20fuYeXoQHqTbTQI2BT0o7UtM6LhSqPJqjWjtqiQOJpaz39n07YvQhP7v4w87buv40/wlePZo9kMfwrGw7DYp4UzzYtstV05z1bWqW/MtilMD152Iuewetea5u1oTveqbzVXccUpxlwgdLgcJRCz6iMWqi6XpQonqCHWtKYflWr6lOnr8PA0llcLJbw4k49lCFRH7b2uaXJ1HI710x0aAjO7YY3xPuDP/mGf0Azdg==;Dx5RyfHnWx2C/MfXWGsemg=="
 ---

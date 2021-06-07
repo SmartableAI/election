@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ransomware attacks saddle Biden with grave national security crisis"
+    excerpt: "The Biden administration Sunday confronted the implications of a sudden and grave national security challenge as ransom-demanding cyber hackers target the staples of American life -- food, gas, water, hospitals and transport.\n    \n"
+    publishedDateTime: 2021-06-07T05:32:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k7DiDWgZsHs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/president-joe-biden-cyber-attacks-russia-putin-trump-economy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/president-joe-biden-cyber-attacks-russia-putin-trump-economy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604104621-01-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to suspend oil and gas drilling leases in Arctic refuge, undoing a Trump-era decision"
     excerpt: "The Biden administration plans to suspend oil and gas leases in the Arctic National Wildlife Refuge, a senior administration official confirmed Tuesday, undoing a move made by the Trump administration late last year.\n    \n"
     publishedDateTime: 2021-06-01T20:50:02Z

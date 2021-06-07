@@ -142,6 +142,20 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "What Happened When Trump Was Banned on Social Media"
+    excerpt: "Since Facebook and Twitter banned him, Donald J. Trump, the former president, has posted statements online far less often. But some of his statements have traveled just as far and wide on social networks."
+    publishedDateTime: 2021-06-07T05:00:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/06/07/technology/trump-social-media-ban.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/01/us/trump-social-media-ban-promo-1622577567013/trump-social-media-ban-promo-1622577567013-facebookJumbo-v3.png"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "Jdar3prgnHikHn31R0z/nyoqUSqmDCUjWNx4vBtpGhNaXgONYR6vtljRpVwvnRtAA3eUvAfjZnqEX3kx/jz0R++0wMGTEWtY+yWihBZKKGB3xMRmZF82S/tGecWyH595/h4TnAU/9pI5Wd7tUglG70pWIGauI9TR7FU03vlYIs4vN9rLX/WHgq22w5QoHNahLxOLw61ZfdT+Yq5gPG33VA9lvniH6bH3ulx4TfYbCoXVv1KsCwAfCRgDK5ooTkmCRIckpy2MCYX/Q0CygDLgRUJ8rxQhw/PCvTNkNDYEdWwiDnIPhH+ecPLK67RAxxZhIhITMa3IOcxYMdN/1yvYD0GoiQcfv1YjIj15vsfyHX0=;yi6gEomiMyFmV16jZWfqLg=="
 ---

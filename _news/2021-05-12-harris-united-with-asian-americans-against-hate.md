@@ -77,6 +77,31 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Kamala Harris Speaks About High Speed Internet Access"
+    excerpt: "United States Vice President Kamala Harris departs following an event about high speed internet at the White House on Thursday, June 3, 2021 in Washington, DC. Photo by Alex Edelman/UPI"
+    publishedDateTime: 2021-06-03T18:46:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/07425a76056b18adf917dea890a8b058/Vice-President-Kamala-Harris-Speaks-About-High-Speed-Internet-Access/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/07425a76056b18adf917dea890a8b058/HARRIS-INTERNET-SPEED.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Kamala Harris and a High-Risk, High-Reward Presidential Resume"
+    excerpt: "Is Kamala Harris drawing the shortest straws in the White House? This week, President Joe Biden announced that Harris would lead the administration’s effort to protect voting rights, a task he immediately said would “take a hell of a"
+    publishedDateTime: 2021-06-06T21:49:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/kamala-harris-and-a-high-risk-high-reward-presidential-resume/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/kamala-harris-and-a-high-risk-high-reward-presidential-resume/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/kamala-harris-and-a-high-risk-high-reward-presidential-resume/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "Kamala Harris said corruption costs as much as 5% of the world's GDP. That stat is questionable"
     excerpt: "For more than a decade, an interesting statistic about the cost of corruption has been bouncing around the global-economics community, showing up in statements and reports from or"
     publishedDateTime: 2021-05-09T08:51:00Z
