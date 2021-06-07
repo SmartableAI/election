@@ -344,6 +344,15 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Guatemala is Kamala Harris' first stop on her trip to talk migration. Why is that nation an important player?"
+    excerpt: "Vice President Kamala Harris has worked closely with Guatemala and Mexico to address the root causes of migration."
+    publishedDateTime: 2021-06-07T12:34:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/06/07/kamala-harris-heads-guatemala-talk-root-causes-migration/7514875002/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 16
 
 secured: "RqroGeMXVci8bsh3yNXOtS6oLv/11vQ3liMpK7FO8pV/9TOtlXlWi7bRuDwnP14qrGIMlposlf19MqtlpkAnrkp08GvyrMrqoVrofb7jsBoEzQnBdod0r3AeI0Xtl1ZHHh+qMooiKnaScx04b/OUkelkLQx6GfF9OSfHmIWNIYzNxT0WwBojAloQeyeLvG0Hu5uwxxgqkQwXnfoK34KlJaP70+fplp4sU2ISkQ259ZxT5ri4wEOvf6MGNqe/ke+BlyyyDutvPzZgzm5pa/M9ZRwC/ngAJ4Ygish73i3takYa5HiPR6Xu2BnzUpusfgizWfPLZd0b9otPWEd0uX3TGnCRTuv/a9JrRJIwzS0NkRKUMQ7Zd5WzkXKO3v41G2quHOufuskdi399IfGfheqC44o3vjHEbwd7K9Na3udPc5oWSFWCqr4inGO1MIdikO7HIoV8OBPbl3pR1+LFxuGTOFiKens/mvBi+BxL73CexmHOyJW4ngiQNe1FVlQb7fVG0V6ULF2MGPh4LfErLZcRHw==;3FW3Sh3ssQ60QQpdA7lXGw=="
 ---

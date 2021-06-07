@@ -150,6 +150,17 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "What happened when Donald Trump was banned from social media"
+    excerpt: "In an examination of Donald Trump's social media engagement both before and after he was banned from Facebook and Twitter, one thing was very clear: His most ardent supporters continued to spread his message when he was unable to"
+    publishedDateTime: 2021-06-07T18:55:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "hZwqFPVSuqFBDzeVgbHPgMYC6CgzeF1AGUQYVBrptWBYeR0UD5kD7/uPBvXyCTbXPXeY1rRwsvJzZRIRL9LHpbJR73QSn80HaFqikJHQWhtivaSQ6ySCW/2LpL4jkSLqthC3k9h/79RY2nmhBhH3ju0yMC5mvtrfSu8mWiz/mExzRaAeGK0OxKU9x+hs8mjxmvH/GPyu4J3rLbmF+/EOBbBzBUtPj0aEwYh3a7PGRQuGKMaO3+xw8LR8HUZp+qqA1dtYj4eLrCou3zXztJ0nmujYG6LpbZkcrBV9ze8m8Iu52/V7/0bMfKh/PIUGno2c57t6ILq9skcXVlPtndYKvmIAhIDTUh+ug1n60RIPn6Q=;u16feKdq23RkwMOmLqEhQQ=="
 ---

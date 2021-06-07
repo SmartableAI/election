@@ -112,6 +112,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris, in Guatemala, tells potential migrants they will be turned back: 'Do not come'"
+    excerpt: "Vice President Kamala Harris, as part of her visit to Guatemala, on Monday told potential migrants that they should not travel to the U.S. Mexico border -- claiming that they would be turned back if they did."
+    publishedDateTime: 2021-06-07T19:22:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VDhTq5Dixa0/harris-guatemala-potential-migrants-turned-back-do-not-come"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-guatemala-potential-migrants-turned-back-do-not-come.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-guatemala-potential-migrants-turned-back-do-not-come.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c9962fd-1510-412f-b97c-f2d99e3a28cf/6153bd59-4c6d-4659-a50f-6191435cb018/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Guatemala’s prez blames Biden for border crisis as protesters tell Kamala Harris ‘Trump won’"
     excerpt: "The rally was visible to Vice President Kamala Harris’ motorcade as she arrived to meet with Guatemala President Alejandro Giammattei on curbing illegal migration."
     publishedDateTime: 2021-06-07T16:50:00Z

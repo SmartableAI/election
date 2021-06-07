@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden gears up for trip to Europe to meet Queen and Putin – live"
 excerpt: "President to meet world leaders at G7 in Cornwall this week and have summit with Putin in Geneva – follow all the latest news"
-publishedDateTime: 2021-06-07T12:28:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
+publishedDateTime: 2021-06-07T13:04:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be1af98f082e80569f8ec0"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be1af98f082e80569f8ec0"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/754a201b269cb688c5422883eabd93e8f1f5a247/0_194_3842_2307/master/3842.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00f3c293ae15a837f2abf2a9b8d5abd0"
+  - url: "https://i.guim.co.uk/img/media/a3c5544ffc302674b7bea8972132487246448464/0_99_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0d9e8f8fae7f2bd463eea29473facb83"
     width: 600
     height: 360
     isCached: true
@@ -78,6 +78,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce05cbcc-e76e-46de-9795-bcfba664c88f.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 333
+        isCached: true
+  - title: "Biden invites Ukrainian president to White House this summer"
+    excerpt: "President Joe Biden has invited Ukrainian President Volodymyr Zelenskyy for a White House visit this summer. National security adviser Jake Sullivan said Biden extended the invitation during a phone call on Monday with Zelenskyy,"
+    publishedDateTime: 2021-06-07T18:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-invites-ukrainian-president-white-house-summer-78135589"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-invites-ukrainian-president-white-house-summer-78135589"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-invites-ukrainian-president-white-house-summer-78135589"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_32ce982ea5f84f31b1a9ea3e6a935249_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
     excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"
@@ -205,6 +221,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden invites Ukrainian president to White House"
+    excerpt: "President Joe Biden has invited Ukrainian President Volodymyr Zelenskyy for a White House visit this summer. The invitation comes as Zelenskyy has expressed concerns about Biden's plan to meet with Russian President Vladimir Putin next week."
+    publishedDateTime: 2021-06-07T19:10:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/07/biden-invites-ukrainian-president-white-house/7589583002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1c3c5c11-4fe9-429b-9fdb-7e4ba8d96698_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden made decision to support IP waiver for COVID-19 vaccines- White House"
     excerpt: "U.S. President Joe Biden made the decision to back a proposed waiver for COVID-19 vaccine intellectual property rights, the White House said on Thursday, denying that Biden administration officials had been split on the issue."
     publishedDateTime: 2021-05-06T20:06:00Z
@@ -247,6 +277,6 @@ related:
         height: 3934
         isCached: true
 
-secured: "ARqGf47ksbycm5+yVSV6KsNywqyc9SDqxLKwfWC7mcAPS+c5eCVdLg0IwzVrNrsyO0w8c+ps6FjOLqnqjjUKbzm9IbPPW0M+FgufX81cB2xnOkbNXlch3xKguQAnKMt5TeuSPWmlrKyfK1zD3ATWpm8p+IM/FUIHD42UFrbXhZUC17mlTpT85d/EX6UBpGrQ1P7oIqWKsxx9TbQsqDw+3PfwJvP6CcbvJXr1ozaH1EMXEqNeVPSjVMEA4WlHvUZtsq9GLafpuOjK8MCa4VhKrOABKUWU1muhWC3MKR/IIxpTf222C4DRYLgjJJmvDzjki5zYQEXoCcnZ6P9p/iqNbxRjFXyVkesm21KYqex3AVRPYQGNTT6s9fdci4NyyE1lUpxvkpspsnyKXpYWnbY7p+etD3/IYQo2cq+l6jpdxwbRz/8OM5Ism7FxuNtYJWZ3gNF8X9FRjO+YM0UWOFhHBvm/cK3u0hGykXhfhpXdm5U5zMCEBZyCuGGaGJHcJGHNahjjatTMK0U/5PoHTJ6yBA==;fOQ2Ypz60r2XOBKsHPROfQ=="
+secured: "bMlXli7kHVyZNoj3G2niQB+Hcc0zkn2eZGfUhipdm8D1nSG19/vdSbI9ldgsEqno1/OCJsmvsXdQFage1xCuXtsKHv+HI7ZvpKpIP6Fd7Yx7AgIJW0TD4/63QZSV782yZ5gELlR9C1wE5MM2FKZ7Fwr5bAVu4Kn9h+0/Jr3B197oLYXW2eargXIdYP92eymcUGQHnq8SmIDxDd8E9MgM8dOP7UZZ+UtzidNMw/ledLxI0iLgM2XNkU+hDjVJp0T9Xd/piyNuLwXFpsTUItzYdL/zPDbVVDdQ7u6VrMkT5TtxtbW7mZkxqEHWvZANwb0yxGHQL92mjtyCtNCQQEXt9VRsoBrwNpPvZE1QwhXWQu4=;nCyRCIXMexnNrvQrN00R7A=="
 ---
 

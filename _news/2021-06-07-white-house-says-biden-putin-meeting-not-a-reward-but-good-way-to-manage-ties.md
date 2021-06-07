@@ -3,8 +3,8 @@ category: news
 title: "White House says Biden-Putin meeting not a reward but good way to manage ties"
 excerpt: "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,"
 publishedDateTime: 2021-06-07T16:06:00Z
-originalUrl: "https://www.reuters.com/article/us-g7-summit-biden-idUSKCN2DJ24Y"
-webUrl: "https://www.reuters.com/article/us-g7-summit-biden-idUSKCN2DJ24Y"
+originalUrl: "https://www.reuters.com/article/us-g7-summit-biden/white-house-says-biden-putin-meeting-not-a-reward-but-good-way-to-manage-ties-idUSKCN2DJ24Y"
+webUrl: "https://www.reuters.com/article/us-g7-summit-biden/white-house-says-biden-putin-meeting-not-a-reward-but-good-way-to-manage-ties-idUSKCN2DJ24Y"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564807351&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH56158"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564817374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH56158"
     width: 828
     height: 545
     isCached: true
@@ -64,6 +64,6 @@ related:
         height: 360
         isCached: true
 
-secured: "4xG8tekzkNiaiOmXOmGxBVJRVqIM7QCqoHSIxwQUfvuin5G22ocMcxo9D59bQXOtiudIH8tciw7HvAwDHUNDmpj22XNVomGlLKHvRni/TbjtAZ5HXR1vUX3GG/kSfC8N5bnyo0ISQkUI/CC7pVmhW3OXArfIcQLSW9Ghsy5SaOkgdMOmNHlg+/qof5HgRbkn6VbTjMh0lG1bTOT0QOiTd9sh7aymRsyNtS+/QSSO/HemncsaXexN/TqdBgOpqeGZscxiOn4kb4v2kXBcJVu8Z/SIm7ZnWGEOSR53HoY61Mpshfou/xn2K4AkA7bZHIuyA0nuFO9CpSiw3yJ66wSXKPCDVNjCs9Jnd2LmxzsfvOk=;WrrK0T01Cj56JRD0INxlfg=="
+secured: "DPhF/A1MBQxwy/BEqaHD3NPjtpxpGNj5jtrupvdCDA/CWYRK9iyyuFHMn4byNwLIa3SQaoDIbDPU4KFPxC4tNkZx3o68Sa2jiZzls3p7SF/Su2GJQmDoYaetOqhDU5CHJ0dZnwF7tTWcblpIDu5076gCJEoaExpJwRmtuMaNJDsqkLYrviz2He7+2qCnHvE5JI0M2gRH3A3iv7LTrE6Jg/txMX5YV3GTPP9maSKBrtKyxY1aM4/H3e55GNK/ItHuYq32uBuTTV1sDnZParvjNd0N5k6KDRApG6H7MCvXLts0bwHIP+t27d7BBsKkkcURbgMCI7V6EH8Y5tnlqkW6mK091EELDNUDVXmVz/9zObg=;WyQCLGHpADruXtKouzYg4w=="
 ---
 

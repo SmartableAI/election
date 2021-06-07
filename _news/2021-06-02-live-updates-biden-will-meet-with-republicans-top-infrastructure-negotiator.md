@@ -64,38 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "White House rejects GOP infrastructure counteroffer, saying it does not meet Biden's objectives"
-    excerpt: "President Joe Biden on Friday rejected a new counteroffer made by Republicans on infrastructure despite a $50 billion increase in spending, telling the GOP's key negotiator that the new offer did not meet his policy goals.\n    \n"
-    publishedDateTime: 2021-06-04T23:42:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HLDfET3ZEBo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/biden-capito-defazio-infrastructure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/biden-capito-defazio-infrastructure/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604104621-01-biden-remarks-on-economy-0604-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Here's what Biden can do on his own about racial inequality -- and where he'll need Congress to act"
-    excerpt: "President Joe Biden on Tuesday laid out his most comprehensive plan yet for shrinking the nation's longstanding racial wealth gap, the latest step in his promise to infuse more equity in government policies and in the rebuilding of the economy after the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-06-01T21:21:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/80wWhQ90ZnA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/racial-inequality-biden-proposals/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/racial-inequality-biden-proposals/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601171059-04-biden-tulsa-speech-0601-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to host GOP West Virginia Sen. Shelley Moore Capito as bipartisan infrastructure talks continue "
     excerpt: "President Joe Biden on Wednesday will host Republican Sen. Shelley Moore Capito of West Virginia at the White House as the bipartisan infrastructure talks continue.\n    \n"
     publishedDateTime: 2021-06-01T12:48:21Z
@@ -127,22 +95,6 @@ related:
       - url: "https://static.politico.com/07/c9/4437d05d4a2cbc399fb7bb2a9f62/5-27-21-joebiden-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Groups put pressure on Biden to fulfill campaign pledge to end solitary confinement"
-    excerpt: "More than 130 civil rights and justice groups signed on to a letter calling on the Biden administration to \"end the pain\" of the practice in federal facilities."
-    publishedDateTime: 2021-06-07T14:00:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/groups-put-pressure-biden-fulfill-campaign-pledge-end-solitary-confinement-n1269684"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269684"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269684"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_14/3291041/200331-federal-prison-illinois-1989-ac-826p-3291041.jpg"
-        width: 2500
-        height: 1669
         isCached: true
 
 secured: "b2ChhmXRE724BN39LYOc+8ah/u8SSaxx9wKTkXFkt0EM398ACP/vkhpSO3KgD4gAXN6cKfoYtNF5+ojNNfEdVpjhIYn7BRFDDhYZ8sHuqqlTdXAZ047ZQI2qw7sKT8hQyuSNFl/Mx0BLfqjLDkcYw5CWXDXQW/ZHzGeQiqym5W7pa2qe8OeMm9lcGeKZnfIZWIqR1Ir9rQOYIPraZtUfKaPfozcPNZeP/kwcOJPOKJ9i75v1fu7XGMks5qSa9EPNivWuJlkXFG8IocJpNEVmHRRmtXERu5J3lYU82pbK3++WV6Ajtt6ygbX4mSoFuQ8Uc7F0AAhNzcALQVlYf55OD0HXvQ7eglFDEx2YJS3GM8FDh2Tbu82/ssFYAl6oLDv0q16dD05Gu+UmDythe+3Bz7nGrBxZWplwkkAfWc2MTGFe1EohaDXbnHKoMuwILlp8EErXw/HF6Zhnj87Tdh8JnyPM90THV1ggrKhmbMTw3NRQ8AePTmrh/GnxK/19WpEQQ+EBZVgXy/7dcfCWamUNCw==;OtNoC1KSges9PKYfZjCx5g=="

@@ -31,54 +31,150 @@ images:
     isCached: true
 
 related:
-  - title: "Chris Ruddy and Newsmax went all-in on Trump. Now they might pay a price for it."
-    excerpt: "The conservative media entrepreneur became Trump’s most quotable friend. His cable channel became one of the biggest promoters of Trump’s election-fraud fantasies."
-    publishedDateTime: 2021-05-06T08:04:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+  - title: "Facebook and Trump are at a turning point in their long, tortured relationship"
+    excerpt: "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm."
+    publishedDateTime: 2021-05-04T10:15:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 120
+    quality: 121
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YCJTFSVNXEI6XLGTES2EUVYJHI.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SUC6YBUU2II6XKW4V54HAGRQZI.jpg&w=1440"
         width: 1440
-        height: 1008
+        height: 901
         isCached: true
-  - title: "Trump's Ex-Pentagon Chief Chris Miller Expected to Turn On Him At Capitol Riot Hearing"
-    excerpt: "The former Defense Department chief said that the insurrection occurred because of Trump's \"Stop the Steal\" rally and speech beforehand."
-    publishedDateTime: 2021-05-11T00:56:00Z
-    webUrl: "https://www.newsweek.com/trumps-ex-pentagon-chief-chris-miller-expected-turn-him-capitol-riot-hearing-1590251"
-    ampWebUrl: "https://www.newsweek.com/trumps-ex-pentagon-chief-chris-miller-expected-turn-him-capitol-riot-hearing-1590251?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trumps-ex-pentagon-chief-chris-miller-expected-turn-him-capitol-riot-hearing-1590251?amp=1"
+  - title: "Pro-Trump and anti-vax sites urging people to forge COVID-19 vaccination cards, says CDC"
+    excerpt: "Faking a vaccination is easy with a template and blank flashcard. New York is the only state that keeps track of authentic cards. It is against the law to fake vaccination cards. Some former President Trump supporters and anti-vaxxers are forging vaccine cards using a government-issued template to falsely state they received their shots."
+    publishedDateTime: 2021-05-01T00:17:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
+      name: The Hill
+      domain: thehill.com
+    quality: 116
     images:
-      - url: "https://d.newsweek.com/en/full/1792713/christopher-miller-donald-trump-capitol-riots-hearing.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://thehill.com/sites/default/files/ca.vac_card_gettyimages-1230169189.jpg"
+        width: 1440
+        height: 880
         isCached: true
-  - title: "Attorney General Bill Barr threatened to quit last year over Trump's attempts to fire FBI Director Chris Wray"
-    excerpt: "Wray's remarks about antifa, voter fraud, and Russian election interference often put him at odds with Trump, who publicly voiced his frustration."
-    publishedDateTime: 2021-05-10T05:36:00Z
-    webUrl: "https://www.businessinsider.com/bill-barr-threatened-to-quit-trump-attempts-fire-chris-wray-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/bill-barr-threatened-to-quit-trump-attempts-fire-chris-wray-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-barr-threatened-to-quit-trump-attempts-fire-chris-wray-2021-5?amp"
+  - title: "Facebook board to decide today if former President Donald Trump can post again on the social media site"
+    excerpt: "On Wednesday, his fate on Facebook, the biggest social platform around, will be decided. The company’s quasi-independent Oversight Board will announce its ruling around 9 a.m. ET. If it rules in Trump’s favor,"
+    publishedDateTime: 2021-05-05T14:09:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
     images:
-      - url: "https://i.insider.com/60987750f22c6b00185dd2e2?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/EdDUGwtzjwBcFovhqqYK-Scvjqw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXEMQWNFPFACPHFROHLXQYAWMM.jpg"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
+  - title: "EXPLAINER: Will Donald Trump return to Facebook?"
+    excerpt: "Former President Donald Trump will find out whether he gets to return to Facebook on Wednesday, when the social network’s quasi-independent Oversight Board plans to announce its ruling in the high-profile case."
+    publishedDateTime: 2021-05-04T18:46:00Z
+    webUrl: "https://www.chron.com/news/article/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
+    ampWebUrl: "https://www.chron.com/news/amp/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Donald Trump's Facebook ban is permanent, social network's Oversight Board rules"
+    excerpt: "Former President Donald Trump won’t return to Facebook. The social network’s quasi-independent Oversight Board has voted to permanently ban his account after it was suspended four months ago for inciting violence that led to the deadly Jan."
+    publishedDateTime: 2021-05-05T13:05:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_af3cfcd0-ada1-11eb-abd2-c3ef83b7cf9b.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_af3cfcd0-ada1-11eb-abd2-c3ef83b7cf9b.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_af3cfcd0-ada1-11eb-abd2-c3ef83b7cf9b.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/8/b3/8b3ccfa8-ada2-11eb-897f-d3cffbf2ca1e/6092981d6297f.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump 'Egged On' Capitol Rioters: Facebook Panel Co-chair"
+    excerpt: "Donald Trump encouraged the Capitol rioters and so earned his Facebook ban, but the social media giant's rules are in \"shambles\" and need fixing, the co-chair of the network's oversight panel said Sunday."
+    publishedDateTime: 2021-05-09T19:39:00Z
+    webUrl: "https://www.ibtimes.com/trump-egged-capitol-rioters-facebook-panel-co-chair-3195688"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/09/the-co-chair-of-facebooks-oversight-panel-said.jpg"
+        width: 1024
+        height: 695
+        isCached: true
+  - title: "Look who’s moving in. Eric and Lara Trump are the latest to call South Florida home"
+    excerpt: "Property records show the Trump Organization exec and his wife Lara paid $3.2 million for a five bedroom, seven-bathroom spread at the Trump National Golf Club gated community. Donald Trump bought the South Florida club from The Ritz-Carlton Co."
+    publishedDateTime: 2021-05-10T16:00:00Z
+    webUrl: "https://www.miamiherald.com/entertainment/celebrities/article251286709.html"
+    ampWebUrl: "https://amp.miamiherald.com/entertainment/celebrities/article251286709.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/entertainment/celebrities/article251286709.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 49
+  - title: "Facebook Board Upholds Donald Trump Suspension. Could His YouTube,Twitter Accounts Return?"
+    excerpt: "Facebook has six months to decide whether Trump will return or be banned outright. What are his odds on other social media platforms?"
+    publishedDateTime: 2021-05-05T16:24:00Z
+    webUrl: "https://www.ibtimes.com/facebook-board-upholds-donald-trump-suspension-could-his-youtubetwitter-accounts-3193568"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 45
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/donald-trump-was-suspended-from-facebook-and-instagram.jpg"
+        width: 1024
+        height: 652
+        isCached: true
+  - title: "Donald Trump’s Facebook suspension upheld by Oversight Board; group calls on social media giant to conduct six-month review of case, policies"
+    excerpt: "Former president Donald Trump will remain suspended from posting on Facebook, the world’s most popular social media platform, according to an independent Oversight Board. But the board, a diverse group of international experts in law,"
+    publishedDateTime: 2021-05-05T13:14:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 40
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U3T3Z7ONNZDCBMPY2WPOZSOEPE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "U.S. House Majority Leader Hoyer Applauds Facebook Decision on Trump"
+    excerpt: "House Majority Leader Steny Hoyer applauded Facebook Inc's decision to maintain its suspension of Donald Trump after the Jan. 6 Capitol riots, saying it has the right to refuse to be a medium for the former Republican president."
+    publishedDateTime: 2021-05-05T13:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-05/us-house-majority-leader-hoyer-applauds-facebook-decision-on-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "fNbewGdsAwJzBSjslk8Bt+Fa5Dr3qL33D2BPtE5pp34flghWX2gFzashnTETKcWAdaKcNIMisqZM/6GYij+4EJzsWsWHBsz3yuIdUAx159pXb5VPxy7T3Fj1f94aj9zf1s6l4+T/Hggj+iQ0zmBH1FSsnJNna5ACxHPvXY7e3C3Ws7SbjAHcOvf3Bai1yom0uMtuPrgxMyrKQcXcoyEfWnH64FWZQbLac1+Qt+tBh/tsVn12b8p3RxyYvYs9LYBCJLI7wAHRmLgm2OmSH6YUCHo3SDih2ETV25LULNwAGX5PhabeVkIK/L89z4m9oJxNk0HA3s2dmChwHOUDBIJB85GUXWILF/lCazZ6y5cwGNOQ8NVmuJPY+uolJVi8+KJpM86TkdDkWgIa2yg8sW4a8eAcSNBw5uZNkxdNrG73dvcBIEwHJ08smD6vpKlDDoWrWBH75T1q4DeOGjLJQWT74MU3wO/P5d5bxJbaLzSut9mHcX2r0jt/RSz5Oada4DMkuGM5SueqncdwW3BvH7S9ug==;gfJGUSakETt44+gM9092jQ=="
 ---

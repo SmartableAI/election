@@ -34,7 +34,7 @@ related:
   - title: "White House says Biden-Putin meeting not a reward but good way to manage ties"
     excerpt: "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,"
     publishedDateTime: 2021-06-07T16:06:00Z
-    webUrl: "https://www.reuters.com/article/us-g7-summit-biden-idUSKCN2DJ24Y"
+    webUrl: "https://www.reuters.com/article/us-g7-summit-biden/white-house-says-biden-putin-meeting-not-a-reward-but-good-way-to-manage-ties-idUSKCN2DJ24Y"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
     type: article
@@ -43,7 +43,7 @@ related:
       domain: reuters.com
     quality: 122
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564807351&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH56158"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564817374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH56158"
         width: 828
         height: 545
         isCached: true

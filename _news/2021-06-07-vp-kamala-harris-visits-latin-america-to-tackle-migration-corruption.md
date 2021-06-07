@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 545
+heat: 565
 published: true
 
 provider:
@@ -348,6 +348,15 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Guatemala is Kamala Harris' first stop on her trip to talk migration. Why is that nation an important player?"
+    excerpt: "Vice President Kamala Harris has worked closely with Guatemala and Mexico to address the root causes of migration."
+    publishedDateTime: 2021-06-07T12:34:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/06/07/kamala-harris-heads-guatemala-talk-root-causes-migration/7514875002/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 16
 
 secured: "ktFXLFC/5Y0quinif+RacBf6OPjVir3VS7y5NXV7cJe5YtI0nvyAa+cdMghlJP1dE7h2N2lzDBabPVKW4GZ49vpnZ+JZTe82gOg2vWyKfl7tV83k1sGQNzdU34BeZ9qQQoSdieoiAtQczOpR6E+rY2TDuzcM7ID5kn9rr9oIifzMHzhHyC0gTkI6QOLK1ZKF55y3zrd7FikOtJiDdlF4axzF5waU2RVCAl4CA2VEMc6ORvytMSBGOTvYEYD7+I3j4nEbZLV3pH1/ZtHp42atWclYegtk1Gf0rmVwkg4bXAXGnqbZuVVaRvPZqd7inUMltFKFuGK6ANPmAJ+5EQaSCtUHDgDpNSl5tlZBfP9RkCZEcyfz/Pve+Rh/I8IWQ4cG0fuKDMbRYqNPX37W3qfvLEtBYKLu70gHWcVuAaCPlfm3OpU7cvyF/veMoGM3H4CDTpjV21+9qAuCSN6gs3zOfa4tDD9KzLYB+EmAsljxCsvJjxWRW4dgJs30jZR6lzOAAr941RJnkfWW+fv1Wc9V2w==;KLfnHPITgwoHL81UY9BGyA=="
 ---

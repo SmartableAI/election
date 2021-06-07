@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-jr-accused-making-threat-again
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-accused-making-threat-against-anthony-fauci-after-sharing-murder-meme-1597918?amp=1"
 type: article
 quality: 116
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -29,6 +29,24 @@ images:
     width: 2500
     height: 1668
     isCached: true
+
+related:
+  - title: "China, Fauci and hoaxes: Donald Trump targets usual suspects in return to stage"
+    excerpt: "Former president seeks limelight ahead of midterms, calling on China to pay Covid reparations and dismissing criminal inquiries into his business dealings"
+    publishedDateTime: 2021-06-06T02:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/73af5f6e2ee2429f8282c954d2b810ce5735b6cb/0_185_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3358b50e34c7af97b2a5b6c149e14100"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "x2pVQyblBKRkbuQmrmR/UGHr8IgyurhMjm2VDus0YN5V03UUb9k+xuqMCssQKSJU5jyRxg7UTY+49nvE765dukzsw3NFuwafQoseUz2mjJ/S4HUhnwpz+PqkvAwIB/QnRbXFbkjiLe/s2blgddfMhMH90eQUJgamx52+KnSrZ1VfyFEsK7r3ZmrafMhLlB0uGc8FH0CU7HhjzpqLBCcrf1KX8r/IfcG7OUPqs4iIeChA2DaK1+xJfTPCdnCldjoufy2fuXStiJVPotrbLfQjl5x1tmUo74VA8vETiaipcFOcJ7X/BJHiAAyeq/L+8fpOsDqoZuYHs0KBFuPwPoB3IA558OsFlIC9oDvvCSKU/KoEOV3QaPzhezWLWF7FZljZqpUYKFuK0SuqXuAeFRZcs4EtDtCecMGdpGhBCdldci9bafQakmMd+QAqd6h8VWNhbyUIflQ7jAUhuG5PefKUQeiDl0NMjVidzhkrEq+Pl9pBj+aMPyWR6tup12KxC+Lp5/7MRjQ34GY/wtaIQaTqgw==;bUvsKmj5Wa7HOFrJaj7tzA=="
 ---
