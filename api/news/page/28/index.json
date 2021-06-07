@@ -2,63 +2,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2021-04-10-trump-faces-a-narrow-path-to-victory-against-facebook-suspension.md",
-      "title": "Trump faces a narrow path to victory against Facebook suspension",
-      "excerpt": "If former President Donald Trump manages to get back on Facebook and Instagram this month, his win will rest on a series of close calls. Facebook’s oversight board is expected to rule in the coming weeks on whether to uphold or overturn Trump’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/09/trump-facebook-suspension-oversight-board-480671",
-      "originalUrl": "https://www.politico.com/news/2021/04/09/trump-facebook-suspension-oversight-board-480671",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c9/e9/f0ff0b934e189519ffd7493b3913/210409-trump-phone-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/09/trump-facebook-suspension-oversight-board-480671",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/trump-facebook-suspension-oversight-board-480671",
-      "publishedDateTime": "2021-04-09T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.md",
       "title": "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'",
       "excerpt": "Fox News contributor Karl Rove warns Democrats against expanding the Supreme Court, saying it may not working their favor in 2022, on 'Your World.'",
@@ -1319,6 +1262,62 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-04-08T15:56:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis.md",
+      "title": "Rep. Kat Cammack: Joe Biden has become 'trafficker-in-chief' of southern border 'crisis'",
+      "excerpt": "Congresswoman Kat Cammack, R-Fla., called out her Democrat colleagues Thursday for calling the border situation anything but a \"crisis,\" telling \"The Story\" the Biden administration should have followed Trump’s lead.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YfaGyl9P0H0/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YfaGyl9P0H0/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis.amp",
+      "publishedDateTime": "2021-04-08T13:53:17-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

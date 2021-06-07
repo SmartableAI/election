@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-plane-technical-issue
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-plane-technical-issues-international-trip/"
 type: article
 quality: 122
-heat: 162
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -34,18 +34,34 @@ related:
   - title: "Vice President Kamala Harris’ plane forced to return over ‘technical issue’"
     excerpt: "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday."
     publishedDateTime: 2021-06-07T01:49:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 73
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 123
     images:
-      - url: "https://www.dailypress.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
+      - url: "https://www.chicagotribune.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
         width: 1200
         height: 758
+        isCached: true
+  - title: "Kamala Harris’ stepdaughter Ella Emhoff praises the ‘ugly’ mullet"
+    excerpt: "From David Bowie to ‘Rambo’ to K-pop stars, the shaggy haircut comes, goes and is back again. Style icon Ella Emhoff explains its appeal in new Vogue feature."
+    publishedDateTime: 2021-06-04T22:36:00Z
+    webUrl: "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet"
+    ampWebUrl: "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771"
+        width: 1024
+        height: 771
         isCached: true
   - title: "Kamala Harris’ plane forced to turn around due to mechanical issues: ‘We all said a little prayer’"
     excerpt: "A technical problem that involved “no immediate safety issue” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."
