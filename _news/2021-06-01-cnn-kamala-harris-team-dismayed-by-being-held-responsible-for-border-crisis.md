@@ -112,6 +112,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris staff says climate, economy among 'main drivers' of migration after Guatemala president blames US"
+    excerpt: "Vice President Kamala Harris’ staff on Sunday insisted that the \"main drivers\" of the migrant surge to the southern border are climate and the economy -- as Harris arrived in Guatemala and after the Guatemalan president blamed the change in U.S. administrations for the crisis."
+    publishedDateTime: 2021-06-07T14:44:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9UdQ-XFNpW0/harris-staff-migration-main-drivers-guatemala-president-us"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-staff-migration-main-drivers-guatemala-president-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-staff-migration-main-drivers-guatemala-president-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dac429f1-6f9c-4c27-a6af-b323285a0de0/56ba66ce-b60b-4b98-9af1-fb77aa3a1c9f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Rep. Brady on border crisis: Harris in denial; influx of migrant kids making foster care system strained"
     excerpt: "Texas GOP Rep. Kevin Brady said the border crisis is \"growing worse\" and the influx of unaccompanied migrant children is making the already tough foster care system even \"more cruel\" for American children."
     publishedDateTime: 2021-06-04T19:23:01Z

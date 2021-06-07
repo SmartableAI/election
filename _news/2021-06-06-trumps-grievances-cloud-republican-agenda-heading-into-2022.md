@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump tells Fox News it's 'highly unlikely' he'll run for a House seat in 2022"
+    excerpt: "A right-wing talk radio host speculated that Trump could run in a safe district and become House Speaker if the GOP were to flip the majority in the 2022 midterms."
+    publishedDateTime: 2021-06-07T13:58:00Z
+    webUrl: "https://www.businessinsider.com/trump-running-for-house-2022-become-speaker-theory-fox-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/trump-running-for-house-2022-become-speaker-theory-fox-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-running-for-house-2022-become-speaker-theory-fox-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/60be1eb193c6fa00195e5725?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
     excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."
     publishedDateTime: 2021-06-03T09:43:00Z

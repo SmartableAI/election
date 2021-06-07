@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/557038-trump-too-soon-to
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in?amp"
 type: article
 quality: 141
-heat: 221
+heat: 241
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EI46HVGGMUI6XCNEW6XCFKQZHY.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump tells Fox News it's 'highly unlikely' he'll run for a House seat in 2022"
+    excerpt: "A right-wing talk radio host speculated that Trump could run in a safe district and become House Speaker if the GOP were to flip the majority in the 2022 midterms."
+    publishedDateTime: 2021-06-07T13:58:00Z
+    webUrl: "https://www.businessinsider.com/trump-running-for-house-2022-become-speaker-theory-fox-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/trump-running-for-house-2022-become-speaker-theory-fox-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-running-for-house-2022-become-speaker-theory-fox-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/60be1eb193c6fa00195e5725?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
     excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."

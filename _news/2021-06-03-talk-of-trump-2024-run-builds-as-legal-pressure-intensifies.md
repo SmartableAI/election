@@ -57,6 +57,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump tells Fox News it's 'highly unlikely' he'll run for a House seat in 2022"
+    excerpt: "A right-wing talk radio host speculated that Trump could run in a safe district and become House Speaker if the GOP were to flip the majority in the 2022 midterms."
+    publishedDateTime: 2021-06-07T13:58:00Z
+    webUrl: "https://www.businessinsider.com/trump-running-for-house-2022-become-speaker-theory-fox-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/trump-running-for-house-2022-become-speaker-theory-fox-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-running-for-house-2022-become-speaker-theory-fox-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/60be1eb193c6fa00195e5725?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "After 2-Year Battle, House Panel to Interview Trump Counsel"
     excerpt: "The House Judiciary Committee is poised to question former White House counsel Don McGahn behind closed doors on Friday, two years after House Democrats originally sought his testimony as part of investigations into former President Donald Trump."
     publishedDateTime: 2021-06-04T13:47:00Z

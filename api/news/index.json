@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-07-trump-praises-manchin-for-defending-the-filibuster-which-he-urged-mcconnell-to-get-rid-of.md",
+      "title": "Trump Praises Manchin for Defending the Filibuster, Which He Urged McConnell to Get Rid Of",
+      "excerpt": "Donald Trump has praised Democratic Senator Joe Manchin for defending the filibuster, a Senate rule he urged Republican leader Mitch McConnell to do away with during his presidency. Speaking to Fox Business host Stuart Varney on Monday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-praises-manchin-defending-filibuster-which-he-urged-mcconnell-get-rid-1598208",
+      "originalUrl": "https://www.newsweek.com/trump-praises-manchin-defending-filibuster-which-he-urged-mcconnell-get-rid-1598208",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1814767/trump-praises-manchin-defending-filibuster.jpg",
+          "width": 2500,
+          "height": 1729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-praises-manchin-defending-filibuster-which-he-urged-mcconnell-get-rid-1598208?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-praises-manchin-defending-filibuster-which-he-urged-mcconnell-get-rid-1598208?amp=1",
+      "publishedDateTime": "2021-06-07T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster.md",
+      "title": "Trump says Sen. Manchin 'doing right thing' by saying 'no' to ending the filibuster",
+      "excerpt": "Former President Donald Trump said he believes that U.S. Sen. Joe Manchin, D-W.Va., is “doing right thing” by saying “no” to ending the filibuster.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YSj5PuUS6rE/trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YSj5PuUS6rE/trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-sen-manchin-doing-right-thing-by-saying-no-to-ending-the-filibuster.amp",
+      "publishedDateTime": "2021-06-07T07:49:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-the-never-ending-ever-frustrating-hunt-for-the-biden-doctrine.md",
       "title": "The never-ending, ever-frustrating hunt for the ‘Biden doctrine’",
       "excerpt": "For decades, Washington has been searching for Joe Biden's foreign policy vision. But why?",
@@ -215,21 +323,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-07-vice-president-kamala-harris-plane-forced-to-return-over-technical-issue.md",
-      "title": "Vice President Kamala Harris’ plane forced to return over ‘technical issue’",
-      "excerpt": "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday.",
+      "path": "_news/2021-06-07-kamala-harris-trip-kicks-off-after-technical-issue-with-plane-causes-delay.md",
+      "title": "Kamala Harris' trip kicks off after \"technical issue\" with plane causes delay",
+      "excerpt": "Vice President Kamala Harris' first international trip got off to a rocky start when her plane was forced to fly back to Joint Base Andrews due to a \"technical issue\" about 30 minutes after it took off.",
       "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html",
+      "webUrl": "https://www.cbsnews.com/news/kamala-harris-plane-technical-issues-international-trip/",
+      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-plane-technical-issues-international-trip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 162,
       "tags": null,
       "images": [
         {
-          "url": "https://www.chicagotribune.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx",
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/32e33163-886f-4eb0-b5af-4bf7eca8321d/thumbnail/1200x630/fc54cf3e475d509a099349d22d6466a2/ap21157699384597.jpg",
           "width": 1200,
-          "height": 758,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -237,16 +345,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp",
-      "publishedDateTime": "2021-06-06T18:49:00-07:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-plane-technical-issues-international-trip/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-plane-technical-issues-international-trip/",
+      "publishedDateTime": "2021-06-06T16:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -611,7 +719,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -835,7 +943,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 412,
+      "heat": 432,
       "tags": null,
       "images": [
         {
@@ -1261,116 +1369,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-cnns-don-lemon-continues-trump-obsession-hours-after-urging-the-media-to-leave-him-alone.md",
-      "title": "CNN's Don Lemon continues Trump obsession hours after urging the media to 'leave him alone'",
-      "excerpt": "CNN anchor Don Lemon cannot quit Donald Trump even after he urged the rest of the media to do so. Lemon raised eyebrows on Thursday during his appearance on CNN's \"New Day\" when he pleaded to his journalism colleagues to lay off covering the former president a bit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media",
-      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc4cf548-f8c0-417e-8f51-f9f2b94f7b6b/2d568eb8-6f45-4153-954e-cb7aea218fe3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-obsession-media.amp",
-      "publishedDateTime": "2021-06-04T20:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-ted-lieu-doesnt-understand-why-mike-pence-is-even-talking-to-donald-trump-after-capitol-riot.md",
-      "title": "Ted Lieu Doesn't 'Understand Why Mike Pence Is Even Talking' To Donald Trump After Capitol Riot",
-      "excerpt": "\"Mike Pence didn't have the courage to do what should have been done to protect our Country and our Constitution,\" Trump tweeted as Capitol rioters chanted \"Hang Mike Pence.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858",
-      "originalUrl": "https://www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1814131/ted-lieu-pence-trump-talk-capitol-riot.jpg",
-          "width": 3630,
-          "height": 2561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858?amp=1",
-      "publishedDateTime": "2021-06-04T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
       ]
     }
   ],

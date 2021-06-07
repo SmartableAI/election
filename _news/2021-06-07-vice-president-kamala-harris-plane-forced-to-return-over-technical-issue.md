@@ -2,30 +2,26 @@
 category: news
 title: "Vice President Kamala Harris’ plane forced to return over ‘technical issue’"
 excerpt: "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday."
-publishedDateTime: 2021-06-07T01:49:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+publishedDateTime: 2021-06-07T04:49:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
 type: article
-quality: 123
-heat: 183
-published: true
+quality: 73
+heat: -1
+published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
+  - url: "https://www.baltimoresun.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
     width: 1200
     height: 758
     isCached: true
@@ -47,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris’ stepdaughter Ella Emhoff praises the ‘ugly’ mullet"
-    excerpt: "From David Bowie to ‘Rambo’ to K-pop stars, the shaggy haircut comes, goes and is back again. Style icon Ella Emhoff explains its appeal in new Vogue feature."
-    publishedDateTime: 2021-06-04T22:36:00Z
-    webUrl: "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet"
-    ampWebUrl: "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771"
-        width: 1024
-        height: 771
-        isCached: true
   - title: "Kamala Harris’ plane forced to turn around due to mechanical issues: ‘We all said a little prayer’"
     excerpt: "A technical problem that involved “no immediate safety issue” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."
     publishedDateTime: 2021-06-07T02:43:00Z
@@ -80,6 +60,6 @@ related:
         height: 4000
         isCached: true
 
-secured: "x8lIcy7bMBoorlSMtZsuli6/Q7WRwgemr4LRnYNQYCI9+loQButn0Kuy7TyUwwETyh7kZUDbcoDxKhmGk1wh2xKGhyIbmLe9ya3jI+B+TxhHArGghOMexlp3Cm9psl1TZRWX/Ea8xvJgsjKakmVBaAfbHgXdn0rOi9467ABLcBUa4MN145QCiTB6ldPDd1FBziHOPKMGUSpnl/BC/rb6q+uykqowvlRK6hhFqcxd4sTKkWtwcMNSNlOm/1YEFJ5O//QXxe+mphOzC+frbh4yNpPgNKZ2YCCZW8W/ybHNaHdQBw7VTX8c/JGJZizYOvjPyWlmmCt13FW9+7RRUYly677IbXQpqF4sxpldxrC+cWU=;rS1CddVVEXBFURyYWLCvrw=="
+secured: "BRuiS0xao3OgFIoGjRmZqOVldftKrBi5tQI3KEgUm83upT0IUCMyLBwx0GCY9B0duUttl+2NfXXlcWpNavezJ+4p1kDy1GA4Af6MEfSsTuif5NAcCYE5knFHw73Sy7F9ol1maFIHDhQTKTDGp2MjngiZZIVmZXCWl8oq5LGxW8tcJ6496iV0VtVimxiLXgWvLBrjiqhjX91PpfBhTVCKgFM5IPWELHBMblUltaBpT37LjAR1KPy9GmbaFqm1YW58hiQDpuYslrVqF9B0W/G/5gLSK92/fzB5n+/CRlV7bss3A+M1Er0unCmrwxEMbn5ov7KOJip50iKI6cVTd1l0BSq64MSti8rLKfSoDgj3YuY=;KQmoj9j//alKuFbE93NC3w=="
 ---
 

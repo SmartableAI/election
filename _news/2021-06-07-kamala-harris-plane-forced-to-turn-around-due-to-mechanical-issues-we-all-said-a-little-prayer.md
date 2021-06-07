@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Kamala Harris’ plane forced to return over ‘technical issue’"
-    excerpt: "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday."
-    publishedDateTime: 2021-06-07T01:49:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 123
-    images:
-      - url: "https://www.chicagotribune.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
-        width: 1200
-        height: 758
-        isCached: true
   - title: "Kamala Harris' trip kicks off after \"technical issue\" with plane causes delay"
     excerpt: "Vice President Kamala Harris' first international trip got off to a rocky start when her plane was forced to fly back to Joint Base Andrews due to a \"technical issue\" about 30 minutes after it took off."
     publishedDateTime: 2021-06-06T23:05:00Z
@@ -59,21 +43,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris’ stepdaughter Ella Emhoff praises the ‘ugly’ mullet"
-    excerpt: "From David Bowie to ‘Rambo’ to K-pop stars, the shaggy haircut comes, goes and is back again. Style icon Ella Emhoff explains its appeal in new Vogue feature."
-    publishedDateTime: 2021-06-04T22:36:00Z
-    webUrl: "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet"
-    ampWebUrl: "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/"
+  - title: "Vice President Kamala Harris’ plane forced to return over ‘technical issue’"
+    excerpt: "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday."
+    publishedDateTime: 2021-06-07T04:49:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 73
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771"
-        width: 1024
-        height: 771
+      - url: "https://www.baltimoresun.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx"
+        width: 1200
+        height: 758
         isCached: true
 
 secured: "Y476ViOAKsJuZz3p9AdF2+I8z7x84JXk69gBNuXocVnfMJBvNpjEJTHPhmW6g5X0TF4sjyEbtBRlYjEA2iAEztICw6iwQdZeZy0l7ccaLn87m/PZ/S6588zOJtjv34oQzXE74XeHPMJqZXsjmA3As0Wt1YKaLhvTVFi8AjhmX2hi8UIAZfvIR1l8EKksKFcq/YeUsv5x+oDjsEKmmdUrEqHsgI14QB3SIdEHnikAcprSDuCvozaifVySrtlWdl25sh8eALGTS3IV4B5F+8WM3m6QYhevRP5b07KgIrOI8uDPLmH7V4bi19DEqmjUC05epc0aAj35WzyYh4GAuJ0M0RVsY8s7Rsey/x+zu0aoIY+Dzo+VNwoOkzojaYTeOcwlSoeOMML3AV61Hc3CFtFILmcLZcq2vnY63bqyzVBI5Vr8tHqUFeOinHkD7A5+akjWRI4NtaHKR/vHB8Zu1wPGVL8KiMmCkvAaQPR8QLJqZI+V7PV7pnNhN2Fmsn0WhTH89dhCvAJ1FGw9DuU7ZE7dBw==;lOo9CGlwOaT0BeMgneHMSQ=="

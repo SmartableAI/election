@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/shelley-moore-capito-bid
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/shelley-moore-capito-biden-meeting/index.html"
 type: article
 quality: 172
-heat: 292
+heat: 312
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/02/us/02new-washington-briefing-promo3/02new-washington-briefing-promo3-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Groups put pressure on Biden to fulfill campaign pledge to end solitary confinement"
+    excerpt: "More than 130 civil rights and justice groups signed on to a letter calling on the Biden administration to \"end the pain\" of the practice in federal facilities."
+    publishedDateTime: 2021-06-07T14:00:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/groups-put-pressure-biden-fulfill-campaign-pledge-end-solitary-confinement-n1269684"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269684"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269684"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_14/3291041/200331-federal-prison-illinois-1989-ac-826p-3291041.jpg"
+        width: 2500
+        height: 1669
         isCached: true
 
 secured: "wSMfFRBjRpIzlHmYjLPYUiNPtiwS5qMc4UXytS+LmQZPHyYes91/Y2kiXQiaPiQ+oZSU4FnhvHRTlAUmuTjIJbA/40zURVaDl+1S0SX0grJ0vjJPmM2JyHoMaKTRf8Xmf12/NmW6E8E+Z6tfKezuP3gkCBaPkt7aF1XJlGMU3oYKvF7ywbu3C+flCHDp5ShiVWZu8tnlpRFCZrbrwu1RCOHe9BbznCvMEMMR1m4EF4xtG/Pcz+s2U/MP56KEsdAjlp+aTi42H+ysWA2isLABFrMGbfg3gO+RiGCmYg25OOu/O8TCDuUJ+aEK5rtX64XqJRsDz6SQyniupxs2uc5VGa4wftR1TnWJ2YQo3KdyxxE=;rT0pkjasPz/7wcuhjU4jYw=="

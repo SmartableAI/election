@@ -185,6 +185,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Women and youth a top focus of Kamala Harris' first visit to Mexico as vice president"
+    excerpt: "The El Paso Times is choosing to use a pseudonym since she isn't authorized by her work to speak to the press. U.S. Vice President Kamala Harris is in Guatemala today, her first diplomatic visit abroad since assuming her current post. Her next stop is ..."
+    publishedDateTime: 2021-06-07T13:13:00Z
+    webUrl: "https://www.statesman.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
+    ampWebUrl: "https://amp.statesman.com/amp/7569783002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7569783002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/24/PTX1/369c7658-4220-438f-a5b2-04e1016fa226-Vaccination_Juarez1039.JPG?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Harris: Visiting border isn't my job; veep says she's focused on 'root causes' instead"
     excerpt: "Vice President Kamala Harris said Wednesday she has no plans to visit the U.S. southern border but she’s looking forward to a trip soon to Mexico and Guatemala to address the core causes of surging migration from Central America."
     publishedDateTime: 2021-04-14T15:44:00Z

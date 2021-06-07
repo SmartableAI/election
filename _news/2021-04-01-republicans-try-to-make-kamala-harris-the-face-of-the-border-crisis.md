@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
 type: article
 quality: 185
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris faces first major diplomatic test"
+    excerpt: "Vice President Kamala Harris is facing the first major diplomatic test of her vice presidency as she looks to tackle the root causes of migration toward the US in her full day of meetings in Guatemala.\n    \n"
+    publishedDateTime: 2021-06-07T14:24:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qHtO0gxp_74/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic-test/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic-test/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527183402-kamala-harris-triangulo-norte-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

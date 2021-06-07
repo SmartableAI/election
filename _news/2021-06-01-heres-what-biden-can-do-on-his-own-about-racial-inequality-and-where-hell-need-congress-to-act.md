@@ -127,6 +127,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Groups put pressure on Biden to fulfill campaign pledge to end solitary confinement"
+    excerpt: "More than 130 civil rights and justice groups signed on to a letter calling on the Biden administration to \"end the pain\" of the practice in federal facilities."
+    publishedDateTime: 2021-06-07T14:00:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/groups-put-pressure-biden-fulfill-campaign-pledge-end-solitary-confinement-n1269684"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269684"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269684"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_14/3291041/200331-federal-prison-illinois-1989-ac-826p-3291041.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
 
 secured: "lk2vP2G+AjJAy5LIrKp5oyioa9anhu92PqLwJe+i4s/U8MR7Oc9szwfj36lLuMimktUp/yznJ1tlIpS+K7pBnCnZ83Qti4tEQCxi3GRueDLMLFK9BtAdAel8vdgHwiyzN7py5GH7msyr9ZIj+gaJsMMJ1fMf9Cd6Nd83iKBH7nQ/dfGa/aUdYUVZPGWOFv2jzTSPqHLxy0G7SmkmBPvFIgPR0oxV1596BPg7CNzuBU79f2tkTgVIIWTIihmehqQ65wZOEPbiFIYUjrTwxL2OZGs24PfVVgU4gkC/J8YRfhEuOn7KpEY3LTj7tO7CNtVLwBlS8CaEyUN0+H5LWNg4LDCo12ETlC9wGmTC+K3JKLc=;Ix0XnugaOD/UEM6idswa0g=="
 ---

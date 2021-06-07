@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris faces first major diplomatic test"
+    excerpt: "Vice President Kamala Harris is facing the first major diplomatic test of her vice presidency as she looks to tackle the root causes of migration toward the US in her full day of meetings in Guatemala.\n    \n"
+    publishedDateTime: 2021-06-07T14:24:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qHtO0gxp_74/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic-test/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic-test/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527183402-kamala-harris-triangulo-norte-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "VP Harris is the latest White House official to appear with California Gov. Newsom amid recall effort"
     excerpt: "Top members of the Biden White House have appeared with California's embattled Democratic governor, Gavin Newsom, twice over the last week -- a signal of support for a politician who is likely to face a recall election.\n    \n"
     publishedDateTime: 2021-04-05T20:25:11Z
