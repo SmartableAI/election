@@ -388,6 +388,20 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Vice President Kamala Harris in Guatemala on migration mission"
+    excerpt: "Vice President Kamala Harris was in Guatemala on Monday, her first stop in a mission to work on reducing migration to the US by seeking to improve conditions in Central American countries. And, in Burkina Faso,"
+    publishedDateTime: 2021-06-07T19:30:00Z
+    webUrl: "https://www.pri.org/programs/world/vice-president-kamala-harris-guatemala-migration-mission"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 55
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/feature_tiny/public/images/2021/06/2021-06-07-harris-guatemala.jpg?itok=zK79IZyy"
+        width: 401
+        height: 226
+        isCached: true
   - title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
     excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
     publishedDateTime: 2021-06-07T20:58:00Z
@@ -423,6 +437,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "CqxTNl6nGKk5zh1d0tsad/uWqo7ZbVTXJE/Z4pK4zL8aTd3k9IZzEaMrvGgx5LkHP0tqDmKerSmavdYWD3gDy9zLv51UHpTGgDk5EEf0sHvskvmf+6nB3dQ5A1/Pnyd6E7XzvsOaQX22uSj4zu5IEs4BqKpb0Q2ack9GxG8o81/+XxCsx1pS2a+/zFVMo5KqJchw4t5N2z5tAjckdTsCgAiIzDIPw/LWhcwv8Z18sHdJH4oFJCPrlX+cXQNWwA8GpR5kyVDrkGiTD9rQx7IWWSUyUMoC27bF190ZZlj/4bkB9bTA/xMsygKS6r1oH94HbIFWfJJDzgMR+64VOyBvcBn3VRyqa2SXFkpUKfL9okk=;Wd/o5L5/6VSUxG4mLEMd3Q=="
+secured: "sMLlHAwAs07VadrDJw2toO9bCLISBNU7ZoNzqfNz13enwCS6+0XkvbWivsSJFOpOKhg0wKGwDRZJc4B4Vydoe3re1MpD/fx2mDK6wuC6Tq2h495dRmfmMicPHKGDxI8BRKApHlJi6Lc+756yitCdxreW215Y8ZKb5jAHYIXcSDFqvjJjNznbn8stif8z1GKPEdgsewjwbC/EmZHZ4Wn7I6kftliGAA26xbhtdwREzJDOPGNPfZqxCrQqDXwypMRIkEiikTE45Vtx5pDehEeTP9zxtfNAtJEtqbUktS5Pu2iQReYn7K2uQsbCZclZUBR7Xc3UYM5HTK3TOi4PB6dIFR9VBr8IvlURTxD5MvDIcxbUyHJ3U6MPVRa1eXqI9H0L4ph1jUbv0/rzB12ugNp+PEvki2s6dfniwi9DyePS8IAYqOnCkpxMcVV2OR6gQMrRUuNZ4Gr80QBASY8hNt55fz/suyckCo2jXIUUL+0lBgIABtd7NIyfyYwtmj8OOJoOCEjhyyb/X9s1MK3rIcSLHg==;KbKVawBD1JnvUUz/SG18tw=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Now we know how far Giuliani went for Trump "
+    excerpt: "Listen to this audio, exclusively obtained by CNN, of Rudy Giuliani in July 2019 -- when he was still President Donald Trump's lawyer and henchman -- cajoling an aide to Ukrainian President Volodymyr Zelensky to announce an investigation into Joe Biden.\n    \n"
+    publishedDateTime: 2021-06-07T22:07:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/whsJNSisc24/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/what-matters-biden-putin-giuliani/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/what-matters-biden-putin-giuliani/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "In behalf of white farmers, Trump allies wage legal war against equity"
     excerpt: "Black farmers say reverse discrimination has never been evident in their industry — but that may not stop the idea from being used to upend civil rights law."
     publishedDateTime: 2021-06-06T21:47:00Z

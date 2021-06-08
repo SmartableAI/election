@@ -108,6 +108,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Twitter mocks Kamala Harris for passing out cookies of her faceless head to reporters"
+    excerpt: "The vice president traveled to the Central American country on Monday to meet with the Guatemalan President Alejandro Giammattei in her first trip after being appointed by President Biden to lead diplomatic efforts in the region amid the border crisis."
+    publishedDateTime: 2021-06-07T22:25:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SLS0tQahoEk/twitter-mocks-harris-cookies-faceless-head"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-mocks-harris-cookies-faceless-head.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-mocks-harris-cookies-faceless-head.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c9962fd-1510-412f-b97c-f2d99e3a28cf/6153bd59-4c6d-4659-a50f-6191435cb018/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Harris, in Guatemala, tells potential migrants they will be turned back: 'Do not come'"
     excerpt: "Vice President Kamala Harris, as part of her visit to Guatemala, on Monday told potential migrants that they should not travel to the U.S. Mexico border -- claiming that they would be turned back if they did."
     publishedDateTime: 2021-06-07T19:22:57Z
@@ -183,6 +199,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/kevin-brady-Getty.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Geraldo blasts Biden's border policy as Harris visits Guatemala: 'catastrophic domestic policy failure'"
+    excerpt: "Fox News correspondent-at-large Geraldo Rivera blasted President Biden's border policies on Monday as a \"catastrophic\" failure. During a segment on “The Story,\" Rivera said Biden was “naive” to reverse former President Trump's tougher immigration policies."
+    publishedDateTime: 2021-06-07T22:34:00Z
+    webUrl: "https://www.foxnews.com/media/geraldo-biden-border-policy-harris-visit-guatemala"
+    ampWebUrl: "https://www.foxnews.com/media/geraldo-biden-border-policy-harris-visit-guatemala.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/geraldo-biden-border-policy-harris-visit-guatemala.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/380560ce-a20c-4a30-8721-611a14960fd5/d8e7f067-a365-47d8-bee1-e214f0eaae28/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "CNN: Kamala Harris' team 'dismayed' by being held responsible for border crisis"
     excerpt: "Vice President Kamala Harris is frustrated by her border role being “mischaracterized” by Republicans and some media outlets, CNN reported Tuesday, saying Harris was not in charge of stemming border crossings themselves but rather “root causes” of migration."

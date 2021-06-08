@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-tru
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1"
 type: article
 quality: 140
-heat: 680
+heat: 700
 published: true
 
 provider:
@@ -392,6 +392,20 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Vice President Kamala Harris in Guatemala on migration mission"
+    excerpt: "Vice President Kamala Harris was in Guatemala on Monday, her first stop in a mission to work on reducing migration to the US by seeking to improve conditions in Central American countries. And, in Burkina Faso,"
+    publishedDateTime: 2021-06-07T19:30:00Z
+    webUrl: "https://www.pri.org/programs/world/vice-president-kamala-harris-guatemala-migration-mission"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 55
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/feature_tiny/public/images/2021/06/2021-06-07-harris-guatemala.jpg?itok=zK79IZyy"
+        width: 401
+        height: 226
+        isCached: true
   - title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
     excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
     publishedDateTime: 2021-06-07T20:58:00Z
@@ -427,6 +441,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "0+C1BasuCSNapfqdVIQFqmNLbX2oW5aGIZ2dkkCZw5uLF4PTwMDYvNy2QsW8+rGF6iyOdwPWPKv+5YldnatI2TVSD/0H9dkMn8ET4+VKa4u0/DIEVNkRstmgfD/+DjC5oo3z7qsV3F1B4dLq0RROPsNGATtJL2WDL1+WV40BBrvXow5XmzbHveqeyYhm7vkB1mGrDl6fmyjhJPFBmZO9Af45YqoorlC/rfvaQSwUGlryEAKHXqYERwK/3hDVsvOKytjsE7WfESJBUxS8ZuG+plX7K72tnWNlApweITYRjew7O7zdTzwqFUIhXdAbvFg4o2JNaLQWqTFrI2GmCsb1ciY/3Pp9guOmHZ5QHIjf+X8=;WRCmzDS0eLbdTQMDtgfXoQ=="
+secured: "6VQj8QbDwdeZW5Q77XvVjAe6tCo0rCFUAPEX6kZZXYZwN1Lu6+GQwLdALaIAqCBZyeB8wgo9bX/hA8wC3j3tFJ61SVhR3kJ2/1RQIryZb7VnWm7lnRUBnCkyydZJ93VpekdF55w1KugblH2+6lA4TaEUQ1/nmnJU/mqJg7QfeBrQxEIQ08mpQ5ZOl2VrOdrwTKjsEoGq5FNKMFV04FJWByIhJgcKoQt3UcttCwCaghUvjnZJnUmLRQ0vU2EhCzi8gEUUbW8LrFIsD1FjYpBtkLQ6vpqXwHE32/iG6AzASEv0aWMpKp7cV6fXYwNgOWwvA6tqn10FU7M75agvfBGit/PtiS60sx7aBoYXauQ6Smo=;Ggp6cWsj1lVA1HggLBVk9g=="
 ---
 

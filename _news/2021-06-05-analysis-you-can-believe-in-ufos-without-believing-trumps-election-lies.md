@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-electio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-election-fraud/index.html"
 type: article
 quality: 189
-heat: 229
+heat: 249
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Analysis: Now we know how far Giuliani went for Trump "
+    excerpt: "Listen to this audio, exclusively obtained by CNN, of Rudy Giuliani in July 2019 -- when he was still President Donald Trump's lawyer and henchman -- cajoling an aide to Ukrainian President Volodymyr Zelensky to announce an investigation into Joe Biden.\n    \n"
+    publishedDateTime: 2021-06-07T22:07:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/whsJNSisc24/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/what-matters-biden-putin-giuliani/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/what-matters-biden-putin-giuliani/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Trump readies summer rallies and speeches, allies worry he's stuck in the past"
     excerpt: "A cadre of aides and advisers working to tame Donald Trump's obsession with the 2020 election, including his fixation with debunked voter fraud theories and ballot audits, are realizing the task at hand is much tougher than they thought.\n    \n"
     publishedDateTime: 2021-06-04T11:00:41Z

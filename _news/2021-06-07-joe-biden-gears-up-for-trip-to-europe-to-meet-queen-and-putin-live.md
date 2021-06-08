@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden gears up for trip to Europe to meet Queen and Putin – live"
 excerpt: "President to meet world leaders at G7 in Cornwall this week and have summit with Putin in Geneva – follow all the latest news"
-publishedDateTime: 2021-06-07T13:46:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be2e648f082e80569f901c"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be2e648f082e80569f901c"
+publishedDateTime: 2021-06-07T13:04:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be202d8f082e80569f8f2c"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be202d8f082e80569f8f2c"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
 type: article
@@ -277,6 +277,6 @@ related:
         height: 3934
         isCached: true
 
-secured: "9Mq/1XX/fNci1onqgtfAg22uJUw3rq2KM5Cpf5p1dUbrY2cYA4p5wOuCAwmXSutn5y2vMVUPpVqRzol/HnLAa9FiqkyhcjJa+h2NpOdHFgS84vs6C3czCt7dqyzXqI51/jqG9uHTVTX2h7/W7AaG1FbkQQlnclE1hI/INAhECB6glhfSZwH490lZqN83p6MNXci7EqjZ17XGGwhrVHMwH+rlbQlkSqQoD1x8zZtNULIaBG4bqS+QYhSdZqxW4EuFBi5qhtVjYmwAapQ4Y2UErkbhClOxTbm6pa4Z4Fv5iOiDesOweh/Mf9843BlA11rEtH9YJSjxH39wedjbIIIxsDI5bwKJYEuo91ehWhJwcUY=;fX9qEbdLzpOqlKaZgtP5Mw=="
+secured: "p8A3qq3wIamz2T0yg1sszw0ZFSxuLATSjvwb9qxein2+uqMv4whhkccPyrTdbmh0FvZDWKNAyo5N9mkgTz75tLIp6gRATVQBl4q7Eqmpz2Afgu07yrp3mynliDpzWlj9Taf6+lw+yGZLPDbw5Q/IorK4vsIZylfoJFCzZQlYIMHGogK/PlJEzItU17wbyLANOk2cPVBDqrRn58vpjGQG3rD0PfvkwQfoknbGpqL42LKB10UjS3Eus+RciGd6utquVO8DhdtZgGjT8hrXV2X56iRsCsX9Bc2ni9vV0BjQ6me651PAZHq1hiZcTIt1Rl0hzcmwzqcLhhICe51gztFo4rmBlNBJmR6P/wKb43sblAE=;1nwn4S05OyiKdlIpdcLQ4A=="
 ---
 

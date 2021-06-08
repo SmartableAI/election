@@ -404,6 +404,20 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Vice President Kamala Harris in Guatemala on migration mission"
+    excerpt: "Vice President Kamala Harris was in Guatemala on Monday, her first stop in a mission to work on reducing migration to the US by seeking to improve conditions in Central American countries. And, in Burkina Faso,"
+    publishedDateTime: 2021-06-07T19:30:00Z
+    webUrl: "https://www.pri.org/programs/world/vice-president-kamala-harris-guatemala-migration-mission"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 55
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/feature_tiny/public/images/2021/06/2021-06-07-harris-guatemala.jpg?itok=zK79IZyy"
+        width: 401
+        height: 226
+        isCached: true
   - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
     excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
     publishedDateTime: 2021-04-20T23:17:00Z
@@ -423,6 +437,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "rLNoXlg0z6jOrS9fScdpDTybNN61Cm9BavqN6vZqWA7p6twUJDISO/3lD67ekyEpcCTNesIsQqER2ktlJKk4IvzmQL1LX1Fs9Q2td/cYJJIDqYmwKJLWgTtc90Ll20HHMqDeEhd0tuUCFmLHLiVT1vfTqdUr4nbKsWhskSDtLAfMzQUeiTPVgx87jrtviH+UZMokDcDp8oAPUBIUKnD2RQItWHeUsi2NDkhPOkb+8B3nw+QJesKmlVOaGHmwZWnXjv+jai/7BPhluAI6cZk2VHQtVvV5rkjmHtFvap7cQd6Lih33W91enxRGOpbdyFbJnUf4eWeZ8B2QCsl3szm6nHaheSpi1NB/yGgcJRk9SN8=;WrDqKpgb4x1uUulrKlNvZg=="
+secured: "P17x1AQfOYKciyvs4fkpBwwqj6gx67JGC4xswW8/4ElSsqal7KzAtfAenGahzEjNDHEE5UawyCghsr6UCLBSfzSynm1LqhL9t4V8XNT6Mz/rjvp6TbiTtHzbWrtJFFgSeZtCAcQrihlSpOrTBI9V8fq0zjG7pZI0J9XXG5xGiSVx6kccVkU4Naa5PtUlb/0VopXvXXpmmSJQJY1X1Zma+qMdZ6ubMSC57LkeXRYlToPuhN1C4/VsP/voFCG/AQ1WmVjCMYm2maZazjR/JXLpCKOGU/kWKQ2nWWjQNdWTdCK31BgsWsC+oN176ahDddQQGd3GDvj/sW/FnHZ+3FrDG5vpnzv8yO+O/MZdzST74I75JwBAfbmIfkMVTx9STAjtbVyS2/g263khu1q5E7IMIRuZMdsfJWrm0KjzNNFUfi+WrYZCMH7SwqGUfQKIQrL5BdR3We3y+SlsULCVx596h5ktgvjiIA3yaatxkKMFS3vaSI6kec9to/U1PjCapyeWPs3Alyd7xMyXVlHtdhgHhw==;y8Qod63i4sDA0U1YK/4yCQ=="
 ---
 

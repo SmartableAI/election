@@ -112,6 +112,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Twitter mocks Kamala Harris for passing out cookies of her faceless head to reporters"
+    excerpt: "The vice president traveled to the Central American country on Monday to meet with the Guatemalan President Alejandro Giammattei in her first trip after being appointed by President Biden to lead diplomatic efforts in the region amid the border crisis."
+    publishedDateTime: 2021-06-07T22:25:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SLS0tQahoEk/twitter-mocks-harris-cookies-faceless-head"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-mocks-harris-cookies-faceless-head.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-mocks-harris-cookies-faceless-head.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c9962fd-1510-412f-b97c-f2d99e3a28cf/6153bd59-4c6d-4659-a50f-6191435cb018/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Harris staff says climate, economy among 'main drivers' of migration after Guatemala president blames US"
     excerpt: "Vice President Kamala Harris’ staff on Sunday insisted that the \"main drivers\" of the migrant surge to the southern border are climate and the economy -- as Harris arrived in Guatemala and after the Guatemalan president blamed the change in U.S. administrations for the crisis."
     publishedDateTime: 2021-06-07T14:44:12Z
@@ -171,6 +187,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/kevin-brady-Getty.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Geraldo blasts Biden's border policy as Harris visits Guatemala: 'catastrophic domestic policy failure'"
+    excerpt: "Fox News correspondent-at-large Geraldo Rivera blasted President Biden's border policies on Monday as a \"catastrophic\" failure. During a segment on “The Story,\" Rivera said Biden was “naive” to reverse former President Trump's tougher immigration policies."
+    publishedDateTime: 2021-06-07T22:34:00Z
+    webUrl: "https://www.foxnews.com/media/geraldo-biden-border-policy-harris-visit-guatemala"
+    ampWebUrl: "https://www.foxnews.com/media/geraldo-biden-border-policy-harris-visit-guatemala.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/geraldo-biden-border-policy-harris-visit-guatemala.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/380560ce-a20c-4a30-8721-611a14960fd5/d8e7f067-a365-47d8-bee1-e214f0eaae28/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Kamala Harris pays tribute to fallen military after tone-deaf tweet"
     excerpt: "Kamala Harris posted a more fitting tribute to America’s military Sunday, a day after drawing online heat for telling her fellow countrymen to “enjoy the long weekend.”"
