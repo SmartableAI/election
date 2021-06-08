@@ -1,27 +1,33 @@
 ---
 category: news
-title: "U.S. President Joe Biden Departs For Wilmington, Delaware"
-excerpt: "Marine One, carrying U.S. President Joe Biden, departs the Ellipse of the White House in Washington, DC on Friday, April 16, 2021. Biden will travel to Wilmington, Delaware for the weekend. Photo by S"
-publishedDateTime: 2021-04-16T23:56:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/bd28193e88e83e91050bc266b436a2c4/US-President-Joe-Biden-Departs-For-Wilmington-Delaware/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/bd28193e88e83e91050bc266b436a2c4/US-President-Joe-Biden-Departs-For-Wilmington-Delaware/"
+title: "'A lot of anxiety' for Democrats as Biden agenda stalls"
+excerpt: "Six months into the Democrats’ hold on Washington, the party’s progressive wing is growing increasingly restless"
+publishedDateTime: 2021-06-08T04:12:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
+webUrl: "https://abcnews.go.com/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/bd28193e88e83e91050bc266b436a2c4/BIDEN-DEPARTS.jpg"
-    width: 650
-    height: 433
+  - url: "https://s.abcnews.com/images/Politics/WireAP_a67c5b5cf26a448f97c3304222e3e1b6_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -54,22 +60,6 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Health/WireAP_115d35a8669d4d67959566146d2dadef_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "'A lot of anxiety' for Democrats as Biden agenda stalls"
-    excerpt: "Six months into the Democrats’ hold on Washington, the party’s progressive wing is growing increasingly restless"
-    publishedDateTime: 2021-06-08T04:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a67c5b5cf26a448f97c3304222e3e1b6_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -149,6 +139,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. President Joe Biden Departs For Wilmington, Delaware"
+    excerpt: "Marine One, carrying U.S. President Joe Biden, departs the Ellipse of the White House in Washington, DC on Friday, April 16, 2021. Biden will travel to Wilmington, Delaware for the weekend. Photo by S"
+    publishedDateTime: 2021-04-16T23:56:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bd28193e88e83e91050bc266b436a2c4/US-President-Joe-Biden-Departs-For-Wilmington-Delaware/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/bd28193e88e83e91050bc266b436a2c4/BIDEN-DEPARTS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Joe Biden departs to Oklahoma from the White House"
     excerpt: "U.S. President Joe Biden arrives to board Marine One helicopter as he departs the White House en route Tulsa, Oklahoma from the Ellipse in Washington on Tuesday, June 1, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-06-01T16:25:00Z
@@ -164,6 +168,6 @@ related:
         height: 433
         isCached: true
 
-secured: "x6se0mWQN8GAIKPU8hRWsqGD7k3opHIQz4WgJ0HarxK3NmWVHKDAenOUduJOVEBnh37bIimregDDQq7LztWSsTcQQIJmG7PbvxUTmrEYKkuBzchEJVoxkYAmCWuowmI6PxrCtaTxximmYOuBhgs1vWf3Hg8nxdocQrDUITD8f+Oa9RLZ3B5lsDKUcIrqX0uM/k8YKVQEzDrT9WT1V5mUksTWhLCC44Z9etM7c0R/jz2KFTB1dAZkno0hWbNZr4OyJCy7WzdG0DQ+8wtFhZLUqbAsgCpXMeH5ivuPXhC1BfLJLl/Eq7/nOZwLaJIfpxvLWwIxiqaPdVPfMl+f5vIaRSILHOWqIutMrCMoUFiDrEotQdBQIlx0RKm4kFfDf5uR5jBAkpICmlK61gXC8J5XBifCXNmZHLR/Uye3HdKLOOVSsi6jGPhEkwdgxXTAwdeiBJpMXSGtRNakaAmnAexKH4IX69+GfZbBVq/NZeg2e1CwFHpwHZlrmny5pALgd+leTyES5BFOLuEbn+FsrM/Naw==;xgW3PZaBhzYuAQmjfqZgOA=="
+secured: "/rbVJDPk4/mtyRpzhvJGHK+ufWkDL9HK62lFx6XFISGLmEY2f9oJABUDMGcETUQghgvYewZMEoSVtjUwrTMzmWEIAlhlrp9KAJdsxS0t4ei1zxOTQhPtywFfLkTb2vF/eAh3qqCLW+xqJxW4nHKBIzVRssaBam32phLTxgIw3cyjSeh/dzllZKE4lMyQ2AmmDuFbkwHje7tJrgboeWdDFdN13CW1dILVm9GHx6XLVqPZqCwhJlDr+UD/0Pxzp9XUiv+oVB9C4DQNV2LG2nJjbEXqvEBi31iBEj1Xvh7qmRzs3doTmAMt+BSiH6TfbGZhE++Q/5gZ/iXzbqZgvA4dWQB1RWYEOCNR2wPorLbnhwY=;RTuPohA+nNL4rjsDHDcuFQ=="
 ---
 

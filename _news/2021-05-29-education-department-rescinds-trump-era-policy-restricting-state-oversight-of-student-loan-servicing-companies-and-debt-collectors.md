@@ -239,6 +239,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden's Justice Department moves to defend Trump in defamation suit from accuser E. Jean Carroll"
+    excerpt: "E. Jean Carroll has accused the former president of sexual assault and defamation by saying it \"never happened.\""
+    publishedDateTime: 2021-06-08T04:43:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/biden-s-justice-department-moves-defend-trump-defamation-suit-accuser-n1269917"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269917"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269917"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 137
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/2907831/190624-e-jean-carroll-mn-1005.jpg"
+        width: 2500
+        height: 1679
+        isCached: true
   - title: "Trump Administration Secretly Seized Phone Records of Times Reporters"
     excerpt: "The admission by the Biden Justice Department followed similar recent disclosures to The Washington Post and CNN."
     publishedDateTime: 2021-06-03T00:22:00Z

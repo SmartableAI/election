@@ -183,6 +183,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
+    excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
+    publishedDateTime: 2021-06-08T01:41:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 95
+    images:
+      - url: "https://www.chicagotribune.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Kamala Harris aims to tackle immigration on her first foreign trip to Guatemala"
     excerpt: "Vice President Kamala Harris is in Guatemala to discuss the underlying causes of U.S. migration on her first foreign trip. Ed O'Keefe reports from Guatemala City."
     publishedDateTime: 2021-06-07T11:59:00Z
@@ -465,22 +481,6 @@ related:
       - url: "https://media.pri.org/s3fs-public/styles/feature_tiny/public/images/2021/06/2021-06-07-harris-guatemala.jpg?itok=zK79IZyy"
         width: 401
         height: 226
-        isCached: true
-  - title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
-    excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
-    publishedDateTime: 2021-06-08T02:41:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 45
-    images:
-      - url: "https://www.baltimoresun.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Guatemala is Kamala Harris' first stop on her trip to talk migration. Why is that nation an important player?"
     excerpt: "Vice President Kamala Harris has worked closely with Guatemala and Mexico to address the root causes of migration."

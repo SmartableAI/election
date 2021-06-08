@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Trump advances dangerous disinformation campaign as more states move to restrict the vote"
-excerpt: "Donald Trump's speech before the North Carolina Republican Party Saturday night was a reminder of the danger the former President poses as he undermines America's election system while attempting to reassert himself as kingmaker on the national stage.\n    \n"
-publishedDateTime: 2021-06-06T04:18:45Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RQ1w_OE1tEQ/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RQ1w_OE1tEQ/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/trump-election-lies-north-carolina/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/trump-election-lies-north-carolina/index.html"
+title: "Biden's Justice Department moves to defend Trump in defamation suit from accuser E. Jean Carroll"
+excerpt: "E. Jean Carroll has accused the former president of sexual assault and defamation by saying it \"never happened.\""
+publishedDateTime: 2021-06-08T04:43:00Z
+originalUrl: "https://www.nbcnews.com/politics/donald-trump/biden-s-justice-department-moves-defend-trump-defamation-suit-accuser-n1269917"
+webUrl: "https://www.nbcnews.com/politics/donald-trump/biden-s-justice-department-moves-defend-trump-defamation-suit-accuser-n1269917"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269917"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269917"
 type: article
-quality: 166
+quality: 137
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606001415-02-donald-trump-north-carolina-gop-0605-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/2907831/190624-e-jean-carroll-mn-1005.jpg"
+    width: 2500
+    height: 1679
     isCached: true
 
 related:
@@ -175,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump advances dangerous disinformation campaign as more states move to restrict the vote"
+    excerpt: "Donald Trump's speech before the North Carolina Republican Party Saturday night was a reminder of the danger the former President poses as he undermines America's election system while attempting to reassert himself as kingmaker on the national stage.\n    \n"
+    publishedDateTime: 2021-06-06T04:18:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RQ1w_OE1tEQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/trump-election-lies-north-carolina/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/trump-election-lies-north-carolina/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606001415-02-donald-trump-north-carolina-gop-0605-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's willingness to break conventional presidential wisdom on full display as he heads to the beach "
     excerpt: "Political wisdom might ordinarily dictate that a president in need of certain senators' votes not publicly scold those lawmakers in public.\n    \n"
     publishedDateTime: 2021-06-02T22:55:41Z
@@ -239,22 +256,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden's Justice Department moves to defend Trump in defamation suit from accuser E. Jean Carroll"
-    excerpt: "E. Jean Carroll has accused the former president of sexual assault and defamation by saying it \"never happened.\""
-    publishedDateTime: 2021-06-08T04:43:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/biden-s-justice-department-moves-defend-trump-defamation-suit-accuser-n1269917"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269917"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269917"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 137
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/2907831/190624-e-jean-carroll-mn-1005.jpg"
-        width: 2500
-        height: 1679
-        isCached: true
   - title: "Trump Administration Secretly Seized Phone Records of Times Reporters"
     excerpt: "The admission by the Biden Justice Department followed similar recent disclosures to The Washington Post and CNN."
     publishedDateTime: 2021-06-03T00:22:00Z
@@ -302,6 +303,6 @@ related:
         height: 773
         isCached: true
 
-secured: "BZk4TeFOrQYAzWTj3z//ryjTw7C3t2oFgsX5D9B0/oiy/dzuYvDi8zKEdYbm6XFS/Aori9ke+DCEKUvWYoF4/o6jelawSH/PY+97dkyCQmz/c1HQaNAhIMdJ49DSbfu2Xye+j+ssQKxx1Aztaux1oJk5/wwcqHGD5hAOPoMV9BdDf6EHjc4Nn23i8FcbxMlD3bEStK1ImUyvQ67+Mi+GPSKvkGxV73XP0vASViEtwhx5zzUb1pyLuHAwDIfrveVgDgw+EEeqZf2LYwYrLOXXOD348y/N8Xags6nIfe1tgTSKFhU62RARJ5yFdfb6SYGXM2E8k/sQf/BtBr7mnOVpavc3tcCHShrk2K0OCJsMYEg=;xub9FoIpb4SMKPV5OXe84g=="
+secured: "3pIAcaykGcOTd8m39pso/KV6+Lk7TWsxzgEKvqAhtzUO9+zffg3VfZfbcWguQtsEuLCnRvFd0WkpkM20PWdNTnmOx2t28EWJyt2hJ2itxp2sPdiW6JENqw3pNQp0MO6asYdD0iGQoVwx9/hM+ahxpuyKYGAJ0n70kC0qk3h16BeHLa/WfJzz2+yNPgJdGWjx6doJuG2vBjcIJk57fh+ywRA9AV0VuJfxoVodrAjooMr6Hmu8cF3AQot2bYS+p1SVNWwUpuhuwPMayIf3nf0wA9PVfuiIzaRjkhh608qQw55OD/GU3vNm7O80hWA6NI5ztolJYm8GuaYMxEWrgshqNd4SQzTRNl/Y4nCt/eLxCLk=;gvaLYvz6FauSn2y4LdXAAQ=="
 ---
 

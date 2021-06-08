@@ -240,6 +240,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden's Justice Department moves to defend Trump in defamation suit from accuser E. Jean Carroll"
+    excerpt: "E. Jean Carroll has accused the former president of sexual assault and defamation by saying it \"never happened.\""
+    publishedDateTime: 2021-06-08T04:43:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/biden-s-justice-department-moves-defend-trump-defamation-suit-accuser-n1269917"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269917"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269917"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 137
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/2907831/190624-e-jean-carroll-mn-1005.jpg"
+        width: 2500
+        height: 1679
+        isCached: true
   - title: "Trump Administration Secretly Seized Phone Records of Times Reporters"
     excerpt: "The admission by the Biden Justice Department followed similar recent disclosures to The Washington Post and CNN."
     publishedDateTime: 2021-06-03T00:22:00Z
@@ -287,6 +303,6 @@ related:
         height: 773
         isCached: true
 
-secured: "0VVc24tpzo41fvqBxdeMk9bqzd1rQo3i67tC5wvXxPCUcuvmkEEelIUb9DwbNSC2ZUMub1S56AMjCqA6Lf0aiq0tOkgMyLvLAmBWuRhihKeutHeWT5v6+OrRbpZz2L3Ii3DApkoxvFG5A4h3gu6oN8OFGvmgJi04EVsLTA5gvi0QQYbc2XUexypKhvJzWQ7sFnT8hLRos56t1tvvggG8rVccXXruOyi34CxcplvhIeu1JJG2SRdsrKf2NI8MlhvkPNOnVJKpvXNlw42wzfOblw31kSLLm3O1FiECaAQqwpokKiwoVt9fcW4n7GZ2XQn4lrldjRSw/JQwPb+9gmsWY8XAJGRM2B0lYyH1SFTdjXw=;RKnmN79trOp96gKGHKWMkg=="
+secured: "v9hmcz9FnP0qXEQnPMF4vp6mZnUfSbA5D6ttDtjbdWBMvbAkVYH2Lft84eriPsMJ8B2bAzTvlfP6wDzDGReqSoh4UhvH1CxdY2lwO6nJEzT20B0FJTd9FO5wyQ3TNSUpvT2FK5ohjCyA72v5/dijNpHKe1Up3rne/csq3tV9OLXCSjnu6G0SB4clbr2eufGXNyk8T6tCLxh6DY0/PqRZn3J1S3v9OPvuA/VFZ0ovRmHtmFoXNb75j9jjZE0t1V0YKUJ0FdyCXDRPvEmLJYnYVLux4iMG7/5pgWy4TMg/LO5KLU7fNAJnjXJQbfj5rP44YbXmwYk8uVxpJMuoyCuS2LGL6c6wV5AQZTP1AjljR07bFJHmEVybw8Wgv5Dmyrqh0lJBD5/MJ9q8Xxk/K7Fz401wLQ4AOkSv/LH6VrRMPVjH+xN7M3hYc5BDA7bSls8RdwfpJLJ7AkRCDOsWvwh82cqK1zEb4vQ/HX/NhfYOsbxGTNuBn7I8Obx+gSpT4ZjGwMv0v1LxMnIvcUUcDAqqpw==;qt3CnCwpZi8z7EBYfGNsfg=="
 ---
 

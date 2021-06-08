@@ -179,6 +179,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
+    excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
+    publishedDateTime: 2021-06-08T01:41:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 95
+    images:
+      - url: "https://www.chicagotribune.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Kamala Harris aims to tackle immigration on her first foreign trip to Guatemala"
     excerpt: "Vice President Kamala Harris is in Guatemala to discuss the underlying causes of U.S. migration on her first foreign trip. Ed O'Keefe reports from Guatemala City."
     publishedDateTime: 2021-06-07T11:59:00Z
@@ -462,22 +478,6 @@ related:
         width: 401
         height: 226
         isCached: true
-  - title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
-    excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
-    publishedDateTime: 2021-06-08T02:41:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 45
-    images:
-      - url: "https://www.baltimoresun.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
     excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
     publishedDateTime: 2021-04-20T23:17:00Z
@@ -497,6 +497,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "r00WWMCiLLf6I5lqMiGQtZZ5IAHoFFTspAhHaCr3BW360WCO8US6x3PF4m3r9DhnGsE05I3nME691/2vWey7mcvSQMcR63rp/9ccaQl3hNaTAdfTXe2Wp/qG066slixCyeztWcqKq+xVu/aHPf1R1NjWgmo0vAwpg6G4qf/z18BPhKenqf0lY8xThG2oYdQr6xMy8t0qI8bQF48S4tK/bx7SsxPzuea+OVrFraWAxBsMJPot13v80YiGMUIAdlfX7dCC1XMxIwmwdW3vPKIM3CoM0WzWavaw3Cy6zg3rIw8OtTTShTmg1xn8R0xImir0MGFG8Z3CnWaxiJPSBLPFhtBDYc+lYkFPzvUY/MCXxus=;CWeGNAdDRrx4X1f6c0No+A=="
+secured: "XaALqXAycoXCHvzAuncVM2l7EXk4zk8wpzPOonscuqe3lONssSJK6xlXgCGh6oLDQVCW3Jfq3G2DM+0pbGWYwsThaYtTOF0NgYkfORN6ZR8LaNmwEdkUEKmeDmkp1cIFJ0PeMLywMbASXVtc1/20JcC5PRwThlGA+XhoOqaDhgBkBqNdZvFgBQ/0CKN63BAP5Ot44BQqgWeyGETF6eHtSkVVpCZXqj3vvzHy+dejAVUbrgZ7T4kW0JP24BfF48KYoa6EnAgfqZwZ1+3pzzq+a2k40DNPAUD3rPKMVLpdeh32F/4xB3grK+uwGya0XZVsouTQqwb6rwS1GSOnsrTmP2d3b9vKGYwPNlaX+FCqwtQYtJTQf0MMx/d1czq88icAMX58U5vE85GmGGr1fvT0+zmhf5IjNFjUne9BSCuc0N8TLdZkAK1gUYaGeveppK26Qebc66iQCovLMQdUZ6OjsHrqsGvDWOs9mDgZLfXB2x4+DWjmqUEBh5JWcpWMGBxJsw+kUE83XDMcMvpryCAPUw==;Gbj/LvB/jFhPBZ0SsCgslQ=="
 ---
 

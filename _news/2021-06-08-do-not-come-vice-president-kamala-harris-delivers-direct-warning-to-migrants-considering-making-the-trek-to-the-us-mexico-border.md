@@ -2,26 +2,30 @@
 category: news
 title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
 excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
-publishedDateTime: 2021-06-08T02:41:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+publishedDateTime: 2021-06-08T01:41:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
 type: article
-quality: 45
+quality: 95
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
+  - url: "https://www.chicagotribune.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -493,6 +497,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "LZyTwBmwZXS+I5e2gLIDcmDH7pMJ2KMK3/dpf349d6WMBrC7qmpWS7u8gdZr6djtQw4+VO/VxF/lAX8rJnzeHoKHALkx8kdpoWRRAn4g0N8h995s3uSHObNoJzIk5O4rANn5Jmi1Ui/VblTXROMczqn+LzoQCJqc3Xv/3y3fe3ksXLxGAkczqTd4j7CjygZ4aKBV+DKDseZGV++raM5X5w03PYiWsGBJWy/ft/YMuzzFItDaXTgDYqPPIV6qVL1HIqAXG6iCLGdF3QushqzsvHL/djwzqO7zlD3SnHlUW5H7i4L2r1Zxyek38CY6fVD90+/FqwTgm473HVquL7nHguOhu7lE1Lq53CnGF3UC0xI=;d0wgRej42nCObSruxZHxIA=="
+secured: "buPy8yX4Yu5k1CIlJKwV9mRjBluir6gT9Sfr1fC62HOoKuRkArB3XFf6JMj5WCHVTCh8KouSNcJ/VQltT7Oq91jGpo3InYk1n1P3855HC6x1eYlL2j6kKsNdKCkVsdlSJiccmk+MCRqSebkyTGlCOzoL7avnX+e2SYJO4GigoCcGiWobauzPG2epr/xzGxBr7PvAtDuocOscqDkaMzW7ltSJV1gk8HcnPm0aJkzKHgA2nIBMMXNzNuXszShPsJh9d1BUKPiBWBQZc47Cab3TDnkGb5ujEPeGTnWA4YU4ZOXWRFTrv3dJBOjFyyQMNXzxEMifeC3j1VZIDXuFUiUKlAA9kwBWNb/pi7lUw7HDdiA=;CeJwQN4uCbec0Py5uWa7hQ=="
 ---
 
