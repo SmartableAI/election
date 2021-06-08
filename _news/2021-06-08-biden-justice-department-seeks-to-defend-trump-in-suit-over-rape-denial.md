@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden administration to suspend oil and gas drilling leases in Arctic refuge, undoing a Trump-era decision"
-excerpt: "The Biden administration plans to suspend oil and gas leases in the Arctic National Wildlife Refuge, a senior administration official confirmed Tuesday, undoing a move made by the Trump administration late last year.\n    \n"
-publishedDateTime: 2021-06-01T20:50:02Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uJ3c9Bco-sc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uJ3c9Bco-sc/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
+title: "Biden Justice Department Seeks to Defend Trump in Suit Over Rape Denial"
+excerpt: "Donald Trump is facing a defamation lawsuit brought by E. Jean Carroll, who has accused Mr. Trump of raping her."
+publishedDateTime: 2021-06-08T02:48:00Z
+originalUrl: "https://www.nytimes.com/2021/06/07/nyregion/trump-jean-carroll-lawsuit.html"
+webUrl: "https://www.nytimes.com/2021/06/07/nyregion/trump-jean-carroll-lawsuit.html"
+ampWebUrl: "https://www.nytimes.com/2021/06/07/nyregion/trump-jean-carroll-lawsuit.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/07/nyregion/trump-jean-carroll-lawsuit.amp.html"
 type: article
-quality: 172
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117174214-arctic-national-wildlife-refuge-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/06/07/us/07carrollsuit-new-promo/07carrollsuit-new-promo-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -143,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration to suspend oil and gas drilling leases in Arctic refuge, undoing a Trump-era decision"
+    excerpt: "The Biden administration plans to suspend oil and gas leases in the Arctic National Wildlife Refuge, a senior administration official confirmed Tuesday, undoing a move made by the Trump administration late last year.\n    \n"
+    publishedDateTime: 2021-06-01T20:50:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uJ3c9Bco-sc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/oil-and-gas-arctic-leaders/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117174214-arctic-national-wildlife-refuge-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration announces plan to share first 25 million Covid-19 doses abroad"
     excerpt: "The Biden administration on Thursday announced a plan to share 25 million Covid-19 vaccine doses with the rest of the world by the end of June, with an overall framework of distributing at least 80 million doses by the end of June\n    \n"
     publishedDateTime: 2021-06-03T15:33:29Z
@@ -190,22 +207,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden Justice Department Seeks to Defend Trump in Suit Over Rape Denial"
-    excerpt: "Donald Trump is facing a defamation lawsuit brought by E. Jean Carroll, who has accused Mr. Trump of raping her."
-    publishedDateTime: 2021-06-08T02:48:00Z
-    webUrl: "https://www.nytimes.com/2021/06/07/nyregion/trump-jean-carroll-lawsuit.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/07/nyregion/trump-jean-carroll-lawsuit.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/07/nyregion/trump-jean-carroll-lawsuit.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/07/us/07carrollsuit-new-promo/07carrollsuit-new-promo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Education Department rescinds Trump-era policy restricting state oversight of student loan servicing companies and debt collectors"
     excerpt: "The Department of Education under the Biden administration is rescinding a Trump-era policy that restricted states' access to records and information in policing student loan servicing companies.\n    \n"
@@ -286,6 +287,6 @@ related:
         height: 773
         isCached: true
 
-secured: "bee1loZXt/qeQfLwloyFI8Fbi3FKXSHH0bdlaR6VUTcgboRtc+O/u18ml2ZGOGNZLpWLz7hWa0FcUBviftkh7XOMBIH8foKWcBj5WlN/oCq2Depv3ESdUB6fXPitGV7yOnYbB4l9lPzaGRu5fD0zEU32846cIzgu/nt2bPj/Pgh81dhUIzKI+mMqMQSF8in2be88q2TGqRjXsjxI9fElP++6dpdRcDBxmDtt0ZEgYn13gUHIAABOWPy9k70ng3y04JEjmUDds7Fc5iaLFWAxuN4M39Ume+zEg2xc6MITRPENcSukKiXV1JLwMg6ttjxRnQZgL8vyAuWFkWBOrsqyGjg8M7x1Zn0k6mnx2kKgChc=;vjiGpm3rGNacKYlYB830iw=="
+secured: "0VVc24tpzo41fvqBxdeMk9bqzd1rQo3i67tC5wvXxPCUcuvmkEEelIUb9DwbNSC2ZUMub1S56AMjCqA6Lf0aiq0tOkgMyLvLAmBWuRhihKeutHeWT5v6+OrRbpZz2L3Ii3DApkoxvFG5A4h3gu6oN8OFGvmgJi04EVsLTA5gvi0QQYbc2XUexypKhvJzWQ7sFnT8hLRos56t1tvvggG8rVccXXruOyi34CxcplvhIeu1JJG2SRdsrKf2NI8MlhvkPNOnVJKpvXNlw42wzfOblw31kSLLm3O1FiECaAQqwpokKiwoVt9fcW4n7GZ2XQn4lrldjRSw/JQwPb+9gmsWY8XAJGRM2B0lYyH1SFTdjXw=;RKnmN79trOp96gKGHKWMkg=="
 ---
 

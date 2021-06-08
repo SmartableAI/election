@@ -123,6 +123,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris to illegal migrants: 'Do not come'"
+    excerpt: "Do not come' Up Next. Statue toppled of 'shameful' school founder. Video, 00:01:25Statue toppled of 'shameful' school founder Sinkhole swallows cars at Israeli hospital. Video, 00:01:09Sinkhole swallows cars at Israeli hospital Train collision leaves dozens dead."
+    publishedDateTime: 2021-06-08T02:02:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-57395101"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9C1B/production/_118836993_p09kvftq.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Vice President Kamala Harris discourages would-be migrants in Guatemala"
+    excerpt: "Vice President Kamala Harris addressed the crisis at the U.S. southern border while in Guatemala on Monday as part of her first foreign trip. CBS News senior White House and political correspondent Ed O'Keefe joins CBSN's Elaine Quijano to discuss."
+    publishedDateTime: 2021-06-08T01:33:00Z
+    webUrl: "https://www.cbsnews.com/video/vp-harris-if-you-come-to-our-border-you-will-be-turned-back/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/08/c5db34eb-59df-4b5d-b73f-c193f5169252/thumbnail/1200x630/b4aec317c88639950aaac3d2a79a125d/cbsn-fusion-vp-harris-if-you-come-to-our-border-you-will-be-turned-back-thumbnail-730432-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris heads to Guatemala to address immigration on first foreign trip"
     excerpt: "CBS News senior White House and political correspondent Ed O'Keefe reports on VIce President Kamala Harris' trip to Central America, her first overseas trip since taking office."
     publishedDateTime: 2021-06-06T15:50:00Z
@@ -137,21 +165,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
-    excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
-    publishedDateTime: 2021-06-08T01:41:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+  - title: "Kamala Harris tells migrants 'do not come' during talks in Guatemala – video"
+    excerpt: "Do not come’: speaking in Guatemala, Kamala Harris gives a blunt message to people thinking of crossing into the US"
+    publishedDateTime: 2021-06-07T20:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jun/07/kamala-harris-tells-migrants-do-not-come-during-talks-in-guatemala-video"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 95
+      name: The Guardian
+      domain: theguardian.com
+    quality: 102
     images:
-      - url: "https://www.chicagotribune.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
+      - url: "https://i.guim.co.uk/img/media/2baa61d94842a7d8ec656ed6b3d0452b65d18973/0_131_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e11a1a345dd175a0f7fe4f2743f7840"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
   - title: "Vice President Kamala Harris aims to tackle immigration on her first foreign trip to Guatemala"
     excerpt: "Vice President Kamala Harris is in Guatemala to discuss the underlying causes of U.S. migration on her first foreign trip. Ed O'Keefe reports from Guatemala City."
@@ -435,6 +461,22 @@ related:
       - url: "https://media.pri.org/s3fs-public/styles/feature_tiny/public/images/2021/06/2021-06-07-harris-guatemala.jpg?itok=zK79IZyy"
         width: 401
         height: 226
+        isCached: true
+  - title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
+    excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
+    publishedDateTime: 2021-06-08T02:41:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 45
+    images:
+      - url: "https://www.baltimoresun.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
     excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."

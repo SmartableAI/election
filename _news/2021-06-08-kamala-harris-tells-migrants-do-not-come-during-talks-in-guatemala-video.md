@@ -1,29 +1,31 @@
 ---
 category: news
-title: "VP Kamala Harris’ staff moves to in-person work in July | Raleigh News & Observer"
-excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
-publishedDateTime: 2021-06-01T16:27:00Z
-originalUrl: "https://www.newsobserver.com/news/politics-government/article251817863.html"
-webUrl: "https://www.newsobserver.com/news/politics-government/article251817863.html"
-ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article251817863.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article251817863.html"
+title: "Kamala Harris tells migrants 'do not come' during talks in Guatemala – video"
+excerpt: "Do not come’: speaking in Guatemala, Kamala Harris gives a blunt message to people thinking of crossing into the US"
+publishedDateTime: 2021-06-07T20:24:00Z
+originalUrl: "https://www.theguardian.com/us-news/video/2021/jun/07/kamala-harris-tells-migrants-do-not-come-during-talks-in-guatemala-video"
+webUrl: "https://www.theguardian.com/us-news/video/2021/jun/07/kamala-harris-tells-migrants-do-not-come-during-talks-in-guatemala-video"
 type: article
-quality: 70
+quality: 102
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://i.guim.co.uk/img/media/2baa61d94842a7d8ec656ed6b3d0452b65d18973/0_131_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e11a1a345dd175a0f7fe4f2743f7840"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -163,20 +165,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris tells migrants 'do not come' during talks in Guatemala – video"
-    excerpt: "Do not come’: speaking in Guatemala, Kamala Harris gives a blunt message to people thinking of crossing into the US"
-    publishedDateTime: 2021-06-07T20:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/jun/07/kamala-harris-tells-migrants-do-not-come-during-talks-in-guatemala-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 102
-    images:
-      - url: "https://i.guim.co.uk/img/media/2baa61d94842a7d8ec656ed6b3d0452b65d18973/0_131_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e11a1a345dd175a0f7fe4f2743f7840"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Vice President Kamala Harris travels to Guatemala and Mexico on first official trip abroad"
     excerpt: "Vice President Kamala Harris is in Guatemala on her first overseas trip since taking office. She is spearheading the Biden administration's diplomatic efforts to address the root causes of migration from Central America."
     publishedDateTime: 2021-06-07T16:49:00Z
@@ -280,6 +268,22 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "VP Kamala Harris’ staff moves to in-person work in July | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
+    publishedDateTime: 2021-06-01T16:27:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article251817863.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article251817863.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article251817863.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 70
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
         width: 1280
@@ -493,6 +497,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "B85Z2D0f5/CtCi2JpoNsP4vRhf6Gge/0vIhYdaimvw7eknapJeegVeI24RJ2VTUPbxvcmkIv77Z4p1Zw+AbHY5QdpnZ6bwhnZF0Dif7wFMRbcrF84CAobWTyxnUhfeKeWFa/ZzGpM6AwYv0/G4Ee4aET5xClLkU/Ztht9+jNa4Q+aPCUb8QZMTgQ/ALT5yxwpIj74zC6Ll9eRCELSFJh3sSFAf/ybjzCf45zBF18+Y6WRo1yuYsNVJFm0Qlmi9TejC+hpAi6mHh33ghLgfaUOe+Cf1y3Nb8dh6b5Rsig2uvPUICiZfLJQAw82e6PtZUtSkzjmqcU6ukzAmonF3+xYfxJ3Nxe+pntat24SqHXs2FFjhjHYSK4NimvOsvY9LJLF/EQYU/ZemJzczK4e3DoaB7banjuNB5tM4NPW/6Da8MeHr8NCXGwamH57OZTGQ+CZHQFlTC1m9b9/Qi/xoYML4q1lhItllnsKdy0PyJ3VDkAqXYpp7kKWcqBCbCjsfKqk/eV7y2cMgGGuc3hZNU2Kg==;AmQU40s7ClQZge1uCV1pbw=="
+secured: "r00WWMCiLLf6I5lqMiGQtZZ5IAHoFFTspAhHaCr3BW360WCO8US6x3PF4m3r9DhnGsE05I3nME691/2vWey7mcvSQMcR63rp/9ccaQl3hNaTAdfTXe2Wp/qG066slixCyeztWcqKq+xVu/aHPf1R1NjWgmo0vAwpg6G4qf/z18BPhKenqf0lY8xThG2oYdQr6xMy8t0qI8bQF48S4tK/bx7SsxPzuea+OVrFraWAxBsMJPot13v80YiGMUIAdlfX7dCC1XMxIwmwdW3vPKIM3CoM0WzWavaw3Cy6zg3rIw8OtTTShTmg1xn8R0xImir0MGFG8Z3CnWaxiJPSBLPFhtBDYc+lYkFPzvUY/MCXxus=;CWeGNAdDRrx4X1f6c0No+A=="
 ---
 

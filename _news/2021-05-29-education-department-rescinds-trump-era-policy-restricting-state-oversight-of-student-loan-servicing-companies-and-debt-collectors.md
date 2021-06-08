@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden Justice Department Seeks to Defend Trump in Suit Over Rape Denial"
+    excerpt: "Donald Trump is facing a defamation lawsuit brought by E. Jean Carroll, who has accused Mr. Trump of raping her."
+    publishedDateTime: 2021-06-08T02:48:00Z
+    webUrl: "https://www.nytimes.com/2021/06/07/nyregion/trump-jean-carroll-lawsuit.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/07/nyregion/trump-jean-carroll-lawsuit.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/07/nyregion/trump-jean-carroll-lawsuit.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/07/us/07carrollsuit-new-promo/07carrollsuit-new-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden administration lifts Trump-era restrictions stalling Puerto Rico hurricane aid"
     excerpt: "The Department of Housing and Urban Development also made $8.2 billion available to Puerto Rico, three years after Congress initially approved the aid."
     publishedDateTime: 2021-04-21T14:50:00Z

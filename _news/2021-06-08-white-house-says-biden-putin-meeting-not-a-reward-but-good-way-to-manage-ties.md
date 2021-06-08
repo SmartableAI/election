@@ -2,15 +2,15 @@
 category: news
 title: "White House says Biden-Putin meeting not a reward but good way to manage ties"
 excerpt: "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,"
-publishedDateTime: 2021-06-07T16:06:00Z
-originalUrl: "https://www.reuters.com/article/us-g7-summit-biden/white-house-says-biden-putin-meeting-not-a-reward-but-good-way-to-manage-ties-idUSKCN2DJ24Y"
-webUrl: "https://www.reuters.com/article/us-g7-summit-biden/white-house-says-biden-putin-meeting-not-a-reward-but-good-way-to-manage-ties-idUSKCN2DJ24Y"
+publishedDateTime: 2021-06-07T17:55:00Z
+originalUrl: "https://www.reuters.com/article/us-g7-summit-biden-idUSKCN2DJ24Y"
+webUrl: "https://www.reuters.com/article/us-g7-summit-biden-idUSKCN2DJ24Y"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
 type: article
 quality: 122
-heat: 182
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -33,8 +33,8 @@ images:
 related:
   - title: "White House says Biden-Putin meeting not a reward but good way to manage ties"
     excerpt: "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,"
-    publishedDateTime: 2021-06-07T17:55:00Z
-    webUrl: "https://www.reuters.com/article/us-g7-summit-biden-idUSKCN2DJ24Y"
+    publishedDateTime: 2021-06-07T16:06:00Z
+    webUrl: "https://www.reuters.com/article/us-g7-summit-biden/white-house-says-biden-putin-meeting-not-a-reward-but-good-way-to-manage-ties-idUSKCN2DJ24Y"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
     type: article
@@ -80,6 +80,6 @@ related:
         height: 360
         isCached: true
 
-secured: "eLdNnlFVq0rnGzEiV0wtlmc/M0Amw6v3QbkuHCxEq9jIag4D7EBr8Mtm/8W8iUIXYfdsBRz+9NPBAeLdDIKNydB9sB1mQcs9Uw4zhLZkBPrRmPaFlmMMkN0mZiVvMjXF+cSj2cm8nZpRiIWU98sl/voImhMY7TeJVagqoFxfUSD/RirZtrVaZum7x8gbyYIll+ROVBznGMg5/o/OqUtzdl+Sjg1jcvh9g9it/vt23QISwc0Q0spONrrCjBdpsYUITrHOMEpWcssBD7BseqsqYAWGPhsRslj1qxZNWLDxg3Dou8lITX9MmEHB7I720qKo5PL1R8VwCvYLaLzisPT3rot1+uE2s90FP7TmvzwRcEKor2tfXKC91TRkP24QGptr0hNY26N9sD4aYB0Q/Ln3KLlg1kCToDed6H8RpA5F8cqyo9OsnUmTXA70jkU6oXDmKiuB/zWn0bdFcsLoDGiZSqnJ6dM9Lnq2yybpgnwUcWg/P5G92O5HLh0Ipwnx7P/DzTWoBN3UDA2hyitdDczmLA==;Si2aS+zMCHHOJu/2Rk2GWA=="
+secured: "AkZncfYpoacZCG4OKrEDdNvRgt+8IMZRdVg6JeQk3XGYAOqN/57g90iqevezHTxgM0DBOsN37uevOrAibom2jFdQeE+IyMa9OqBYyA6yFh4tPACkjRXC1F5Dfx6HKRtFT7W++3y+BXbYYNlSgOX7dVLorbi7lDK7yIccZ8kyEqMdVAXh7FPQZZfpLo32iUzDnnSMxMMt9Y/ohyuO+E/1jS2zysrTqzK3NAt003YdcBdg2VwvRIyScBRDrG9rmY78En2LMCQPBzmmrNeVZr6ThOFeVUR0WfUQEHmotOCamxhVfJX+C9s5ZKPYbfZoHQIk5KxnItyz80iq3FpENWgBXg0+lh/bIE8+raijkwbP9/4=;sty/bs9fuRuAvxZArLiX/w=="
 ---
 

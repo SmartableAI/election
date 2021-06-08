@@ -150,6 +150,22 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Twitter Reacts To Trump's Extremely Wrinkled Pants, Says It's Worn Backwards"
+    excerpt: "Trump appeared at a Republican convention wearing noticeably wrinkled pants Twitter users claim he wore his trousers backward Snopes later said Trump had been wearing the pants the right way Former President Donald Trump has been the subject of a Twitter storm after he made headlines this week over his attire at a Republican convention."
+    publishedDateTime: 2021-06-08T01:40:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/former-president-donald-trump-north-carolina-republican-partys-convention.jpg"
+        width: 1024
+        height: 680
+        isCached: true
   - title: "What happened when Donald Trump was banned from social media"
     excerpt: "In an examination of Donald Trump's social media engagement both before and after he was banned from Facebook and Twitter, one thing was very clear: His most ardent supporters continued to spread his message when he was unable to"
     publishedDateTime: 2021-06-07T18:55:00Z

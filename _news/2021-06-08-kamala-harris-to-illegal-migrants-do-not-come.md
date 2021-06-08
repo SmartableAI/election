@@ -1,29 +1,31 @@
 ---
 category: news
-title: "VP Kamala Harris’ staff moves to in-person work in July | Raleigh News & Observer"
-excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
-publishedDateTime: 2021-06-01T16:27:00Z
-originalUrl: "https://www.newsobserver.com/news/politics-government/article251817863.html"
-webUrl: "https://www.newsobserver.com/news/politics-government/article251817863.html"
-ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article251817863.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article251817863.html"
+title: "Kamala Harris to illegal migrants: 'Do not come'"
+excerpt: "Do not come' Up Next. Statue toppled of 'shameful' school founder. Video, 00:01:25Statue toppled of 'shameful' school founder Sinkhole swallows cars at Israeli hospital. Video, 00:01:09Sinkhole swallows cars at Israeli hospital Train collision leaves dozens dead."
+publishedDateTime: 2021-06-08T02:02:00Z
+originalUrl: "https://www.bbc.com/news/av/world-us-canada-57395101"
+webUrl: "https://www.bbc.com/news/av/world-us-canada-57395101"
 type: article
-quality: 70
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: BBC
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9C1B/production/_118836993_p09kvftq.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -120,20 +122,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/07/46bd0208-92d3-4d31-ba60-f4bd1f7e932f/thumbnail/1200x630/14da784aa27faf0d8cf6a502ff78a69e/cbsn-fusion-kamala-harris-guatemala-president-thumbnail-730040-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Kamala Harris to illegal migrants: 'Do not come'"
-    excerpt: "Do not come' Up Next. Statue toppled of 'shameful' school founder. Video, 00:01:25Statue toppled of 'shameful' school founder Sinkhole swallows cars at Israeli hospital. Video, 00:01:09Sinkhole swallows cars at Israeli hospital Train collision leaves dozens dead."
-    publishedDateTime: 2021-06-08T02:02:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-57395101"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9C1B/production/_118836993_p09kvftq.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Vice President Kamala Harris discourages would-be migrants in Guatemala"
     excerpt: "Vice President Kamala Harris addressed the crisis at the U.S. southern border while in Guatemala on Monday as part of her first foreign trip. CBS News senior White House and political correspondent Ed O'Keefe joins CBSN's Elaine Quijano to discuss."
@@ -280,6 +268,22 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "VP Kamala Harris’ staff moves to in-person work in July | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
+    publishedDateTime: 2021-06-01T16:27:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article251817863.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article251817863.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article251817863.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 70
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
         width: 1280
@@ -493,6 +497,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "B85Z2D0f5/CtCi2JpoNsP4vRhf6Gge/0vIhYdaimvw7eknapJeegVeI24RJ2VTUPbxvcmkIv77Z4p1Zw+AbHY5QdpnZ6bwhnZF0Dif7wFMRbcrF84CAobWTyxnUhfeKeWFa/ZzGpM6AwYv0/G4Ee4aET5xClLkU/Ztht9+jNa4Q+aPCUb8QZMTgQ/ALT5yxwpIj74zC6Ll9eRCELSFJh3sSFAf/ybjzCf45zBF18+Y6WRo1yuYsNVJFm0Qlmi9TejC+hpAi6mHh33ghLgfaUOe+Cf1y3Nb8dh6b5Rsig2uvPUICiZfLJQAw82e6PtZUtSkzjmqcU6ukzAmonF3+xYfxJ3Nxe+pntat24SqHXs2FFjhjHYSK4NimvOsvY9LJLF/EQYU/ZemJzczK4e3DoaB7banjuNB5tM4NPW/6Da8MeHr8NCXGwamH57OZTGQ+CZHQFlTC1m9b9/Qi/xoYML4q1lhItllnsKdy0PyJ3VDkAqXYpp7kKWcqBCbCjsfKqk/eV7y2cMgGGuc3hZNU2Kg==;AmQU40s7ClQZge1uCV1pbw=="
+secured: "aGO0OXG08tXhODLPzNL+21xFPrSyXL3iEVyCDXZLhAW2Evetk+RxZ7P65AMEa/RXrfTpRyLmNHijE96img1xWUYzUHob5EwGI4ku5gnOKq+FtaY5B5jXAvADruyEuAYqxtiHj5SIG4rJW1lKcIVx+sRdM70oOrTHpm0/HAfZgAoTowbrSThymO+9CE56CBBKYTM0n394+TyyI+H/oisOgF+WZsHMsHsaH5EFCYIHBd1x+Jgpp66kOkQWDAcQ44oKejJHtwJ7WT7eHyqHDIIab/t9od0K8OfM7bxWNpaK7MInuY5c97JfxxIrspMkeD5q6qAfpMcTy+hemJ00p+isHo3Y/M5GJUQPEuLvv9BocaQ=;YaAl2OybI4O6Ob92fItipA=="
 ---
 

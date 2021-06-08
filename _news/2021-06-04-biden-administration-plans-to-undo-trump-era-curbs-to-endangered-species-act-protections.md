@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/endangered-species-act-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/endangered-species-act-protection-changes/index.html"
 type: article
 quality: 181
-heat: 481
+heat: 501
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden Justice Department Seeks to Defend Trump in Suit Over Rape Denial"
+    excerpt: "Donald Trump is facing a defamation lawsuit brought by E. Jean Carroll, who has accused Mr. Trump of raping her."
+    publishedDateTime: 2021-06-08T02:48:00Z
+    webUrl: "https://www.nytimes.com/2021/06/07/nyregion/trump-jean-carroll-lawsuit.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/07/nyregion/trump-jean-carroll-lawsuit.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/07/nyregion/trump-jean-carroll-lawsuit.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/07/us/07carrollsuit-new-promo/07carrollsuit-new-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Education Department rescinds Trump-era policy restricting state oversight of student loan servicing companies and debt collectors"
     excerpt: "The Department of Education under the Biden administration is rescinding a Trump-era policy that restricted states' access to records and information in policing student loan servicing companies.\n    \n"

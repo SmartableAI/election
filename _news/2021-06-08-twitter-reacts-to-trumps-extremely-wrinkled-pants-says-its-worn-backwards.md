@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Republican leaders say they want to focus on the future, but Trump is far from done with the past"
-excerpt: "Trump’s appearance Saturday in North Carolina illustrates a continued conundrum for the Republican Party: While he remains overwhelmingly popular among the party’s faithful, he potentially poses a problem for the GOP as it looks to win over voters ahead of the 2022 midterms who are wary of his divisive style."
-publishedDateTime: 2021-06-06T22:55:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
+title: "Twitter Reacts To Trump's Extremely Wrinkled Pants, Says It's Worn Backwards"
+excerpt: "Trump appeared at a Republican convention wearing noticeably wrinkled pants Twitter users claim he wore his trousers backward Snopes later said Trump had been wearing the pants the right way Former President Donald Trump has been the subject of a Twitter storm after he made headlines this week over his attire at a Republican convention."
+publishedDateTime: 2021-06-08T01:40:00Z
+originalUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728"
+webUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728"
+ampWebUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
 type: article
-quality: 112
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QA6YQHWG6EI6XL6QS4TPP3ALUY.jpg&w=1440"
-    width: 1440
-    height: 1029
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/former-president-donald-trump-north-carolina-republican-partys-convention.jpg"
+    width: 1024
+    height: 680
     isCached: true
 
 related:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/56e3613f35b98dddab767517b6385fc637cfeaad/0_18_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33da07d376c7aee7efd80937b10ca43e"
         width: 600
         height: 360
+        isCached: true
+  - title: "Republican leaders say they want to focus on the future, but Trump is far from done with the past"
+    excerpt: "Trump’s appearance Saturday in North Carolina illustrates a continued conundrum for the Republican Party: While he remains overwhelmingly popular among the party’s faithful, he potentially poses a problem for the GOP as it looks to win over voters ahead of the 2022 midterms who are wary of his divisive style."
+    publishedDateTime: 2021-06-06T22:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QA6YQHWG6EI6XL6QS4TPP3ALUY.jpg&w=1440"
+        width: 1440
+        height: 1029
         isCached: true
   - title: "Fact Check-Trump does not own half of Moderna, as posts claim"
     excerpt: "Moderna, one of the pharmaceutical companies spearheading COVID-19 vaccination efforts in the United States, is not half owned by former president Donald Trump, as posts on social media claim."
@@ -136,22 +152,6 @@ related:
         width: 1024
         height: 731
         isCached: true
-  - title: "Twitter Reacts To Trump's Extremely Wrinkled Pants, Says It's Worn Backwards"
-    excerpt: "Trump appeared at a Republican convention wearing noticeably wrinkled pants Twitter users claim he wore his trousers backward Snopes later said Trump had been wearing the pants the right way Former President Donald Trump has been the subject of a Twitter storm after he made headlines this week over his attire at a Republican convention."
-    publishedDateTime: 2021-06-08T01:40:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/former-president-donald-trump-north-carolina-republican-partys-convention.jpg"
-        width: 1024
-        height: 680
-        isCached: true
   - title: "Back On Stage, Trump Airs Conspiracies And Flirts With 2024 Run"
     excerpt: "Former US president Donald Trump returned to the spotlight Saturday for his first speech in months, framing next year's midterm elections as a battle for the \"survival of America\" -- but keeping followers guessing on his own plans for 2024."
     publishedDateTime: 2021-06-06T02:54:00Z
@@ -178,6 +178,6 @@ related:
       domain: seattletimes.com
     quality: 55
 
-secured: "AF3hKdaaSRKxgK+Hyde8P9mEgMLt2of+VdWhUknjrgtdqYkloMmHq/+Ds7rKEYOi4m6o/l7ge5yz6zEGm/XxiAMyg4nIW8JRDjXXNIhXmbt7ah29kZJwy0/LUmsDxy02G3BGMhPPdOlchuZpzEImsX8DcEuZPC5uvDcQ2zu5CVQYU0Us2Pam2e/br6IbZBiolon5SKrOoztEWBZD5fa4Y5f8cJXGFz/Xgv+/YEKbyb6pM38zADRHPqRt/vU13lO0QGKNvfhUIiVS6RmNUh5L0PUZBhLud1Gz/UocBbQehZsX+VVQRlnjBoAY72UUoj4lT62q6+t2xxZa2hj7T7h9BNtNuUavUUx2KVh5jWbo90rRCNjP71/Nd/CuhyBvRTcMe1yMjaYe4QL6PgpuKatKMbXJTl6dOvKdJa38wQP5GMMT3vO2FhS0UrwchDHDxwAdsacpsSzgW2RiLFWOr/Q4TCc09zKyiM1UuZsC1gK7/IcyHGXY+1CXZDraBmTsSvWKsKGXOil3vQ9c/GrxgNNlMA==;ov5wjutoV9dlHBsqAzOa/g=="
+secured: "SpY4ipmS4eubuM+4S9WSg5hcX8KE3o+5am9K9tMixhFeYghTIjTKky8h2wn/vyaD3zdvlmcIvOop/Apjsh/Zi+I/6otOfPJPW58y4+xEkQtFPgINIct4sDadHfoRKY4oDrqHGMd0rnLcRL0GBuG/NQqEGnO/2D98BgRGyGL3hYOrGV3XmPd3O9RrnNj6yYn9LR2is8srOYaJ1eaNRmfmVgcMMedPVEjFnKtCvvawyQdnagOmsX7wt4APoBZs/xrJa0ucAP6/geDsmBeB8momaNwt7ThFPnQRTfF/UQKBl1G4QPZ4/k5kFoglOfmhSL2xCXOTHLl48XHLrnFQ1pW84fYTOnogNclUCXj2A+JtFFI=;EXr4lvWaesBDMpY+H8Dbqg=="
 ---
 

@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "DOJ argues it should substitute for Trump as defendant in E. Jean Carroll lawsuit"
+    excerpt: "The Justice Department argued in a brief filed Monday that it should be permitted to substitute itself for former President Donald Trump as defendant in a defamation lawsuit brought by a longtime magazine columnist, E. Jean Carroll, who accused him of rape, continuing the argument it had initiated under"
+    publishedDateTime: 2021-06-08T03:46:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/30BWRjQJ-5M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/e-jean-carroll-trump-lawsuit-justice-department/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/e-jean-carroll-trump-lawsuit-justice-department/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190716072234-e-jean-carroll-new-day-071619-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump dwells on 2020 during North Carolina event aimed at helping Republicans in 2022"
     excerpt: "Former President Donald Trump dashed the hopes of Republicans on Saturday who spent the weeks leading up to his public reemergence encouraging him to keep his focus on policy and Democratic shortcomings, rather than re-litigating his 2020 election loss once again.\n    \n"
     publishedDateTime: 2021-06-06T03:15:45Z
