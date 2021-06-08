@@ -91,6 +91,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Vice President Kamala Harris closes out first foreign trip with visit to Mexico"
+    excerpt: "The vice president will meet with President Andrés Manuel López Obrador, a key but complicated ally in efforts to curb the spike in migration at the border."
+    publishedDateTime: 2021-06-08T13:01:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 121
+    images:
+      - url: "https://www.chicagotribune.com/resizer/ic9gf-63_v0koAvx7hmNCWXTJnM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZRTSS3APQBEUTCEWAE7N37EUDI.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris Flight to Guatemala Forced to Return to Maryland Due to Plane Issue"
     excerpt: "The plane turned back roughly 30 minutes after takeoff and safely landed back at Joint Base Andrews around 3 p.m. ET."
     publishedDateTime: 2021-06-07T00:56:00Z
@@ -122,6 +138,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/c23dfc7a-2de3-4928-b162-b5344262f730/thumbnail/1200x630g3/6df35ab454879cb32f06a8fd233a428e/gettyimages-1232547348.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris Sticks to 'Root Causes' Migration Message, Doesn't Respond to AOC's Criticism"
+    excerpt: "On her trip to Mexico and Guatemala, Vice President Kamala Harris emphasized the United States' commitment to dealing with the \"root causes\" of migration, including poor economic conditions that force people to flee to the U."
+    publishedDateTime: 2021-06-08T19:11:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-sticks-root-causes-migration-message-doesnt-respond-aocs-criticism-1598731"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-sticks-root-causes-migration-message-doesnt-respond-aocs-criticism-1598731?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-sticks-root-causes-migration-message-doesnt-respond-aocs-criticism-1598731?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1816151/kamala-harris-mexico.jpg"
+        width: 3200
+        height: 2133
         isCached: true
   - title: "Kamala Harris meets with Guatemalan president"
     excerpt: "Vice President Kamala Harris said during a news conference with President Alejandro Giammattei that the fact that Guatemala is the first country she's visiting as vice president sends a message about how important the region is to the U."
@@ -330,22 +362,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Vice President Kamala Harris closes out first foreign trip with visit to Mexico"
-    excerpt: "The vice president will meet with President Andrés Manuel López Obrador, a key but complicated ally in efforts to curb the spike in migration at the border."
-    publishedDateTime: 2021-06-08T13:01:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 71
-    images:
-      - url: "https://www.baltimoresun.com/resizer/ic9gf-63_v0koAvx7hmNCWXTJnM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZRTSS3APQBEUTCEWAE7N37EUDI.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "VP Kamala Harris’ staff moves to in-person work in July | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."

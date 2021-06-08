@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-china-pay-10-trillion-in-repa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-pay-10-trillion-in-reparations-for-covid-19.amp"
 type: article
 quality: 160
-heat: 220
+heat: 180
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump to hit ‘timid and corrupt’ Biden on China in rare speech"
-    excerpt: "President Donald Trump is expected to criticize President Joe Biden’s policy on China at a speech at the North Carolina Republican state convention."
-    publishedDateTime: 2021-06-05T18:51:00Z
-    webUrl: "https://nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/"
-    ampWebUrl: "https://nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump rips Biden in return speech at NC GOP convention, vows ‘tremendous 2022’"
-    excerpt: "Former President Donald Trump returned triumphantly with a speech at the North Carolina Republican Convention, where he railed against President Joe Biden, Dr. Anthony Fauci, Democrats, Big Tech,"
-    publishedDateTime: 2021-06-06T02:45:00Z
-    webUrl: "https://nypost.com/2021/06/05/trump-rips-biden-in-nc-gop-convention-speech-vows-tremendous-2022/"
-    ampWebUrl: "https://nypost.com/2021/06/05/trump-rips-biden-in-nc-gop-convention-speech-vows-tremendous-2022/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-rips-biden-in-nc-gop-convention-speech-vows-tremendous-2022/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 146
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/DonaldTrumpNC.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump demands reparations from China over COVID-19, rips Big Tech censorship"
     excerpt: "Former President Donald Trump returned to the political stage to demand China pay reparations over the pandemic and rail against Big Tech over censorship and alleged interference in the 2020"
     publishedDateTime: 2021-06-06T12:32:00Z

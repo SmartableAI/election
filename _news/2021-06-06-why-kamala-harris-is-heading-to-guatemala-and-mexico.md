@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-mexico-immigration/index.html"
 type: article
 quality: 185
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 177
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420152901-kamala-harris-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris invites all female senators for dinner at Naval Observatory amid infrastructure negotiations"
+    excerpt: "Vice President Kamala Harris has invited every female senator to the Naval Observatory for dinner next Tuesday, according to a Harris aide and Senate aide, in a show of bipartisanship among a deeply divided Congress.\n    \n"
+    publishedDateTime: 2021-06-08T19:07:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KCvgHDU-6eM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/vice-president-female-senators-dinner/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/vice-president-female-senators-dinner/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607173528-06-kamala-harris-guatemala-mexico-visit-unf-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

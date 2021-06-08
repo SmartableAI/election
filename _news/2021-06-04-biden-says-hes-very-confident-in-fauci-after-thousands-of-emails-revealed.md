@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Pentagon, State Department at odds over pride flag"
-    excerpt: "The Defense Department will not allow the Pride flag to be flown at military bases, unlike the State Department, spokesperson John Kirby said Friday."
-    publishedDateTime: 2021-06-04T21:29:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Pride-Flag-iStock-2.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Hunter Biden-linked lobbying firm facing DOJ probe, report says"
     excerpt: "A consulting firm linked to Hunter Biden – and co-founded by a former member of the Clinton administration -- is facing a Justice Department investigation into potential illegal lobbying activity, according to a report."
     publishedDateTime: 2021-06-04T07:27:57Z
@@ -79,38 +63,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Sen. Capito and Biden to talk again Monday on potential spending deal"
-    excerpt: "President Biden and Sen. Shelley Moore Capito, R-W.Va., talked Friday in their effort to forge a bipartisan deal on infrastructure spending and they've agreed to reconvene on Monday, the senator's office said. "
-    publishedDateTime: 2021-06-04T20:36:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wbxrkejdaHY/capito-biden-talk-again-monday-infrastructure"
-    ampWebUrl: "https://www.foxnews.com/politics/capito-biden-talk-again-monday-infrastructure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-biden-talk-again-monday-infrastructure.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden calls systemic racism one of ‘the great crises of our time’"
-    excerpt: "President Biden on Saturday addressed the class of 2021 in a speech in which he told the they stood at an “inflection point” in history, and described systemic racism as one of “the great crises of our time.”"
-    publishedDateTime: 2021-06-05T21:14:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6lB2v_DNjCY/biden-systemic-racism-great-crises-time-address-class-of-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-systemic-racism-great-crises-time-address-class-of-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-systemic-racism-great-crises-time-address-class-of-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab44b9f-de82-413f-a18b-edc9a57bf466/31c82716-6015-447e-b1cf-fa5e663ec21d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden snubs D-Day's 77th anniversary, angering veterans"
     excerpt: "A homeland security source told Fox News that President Biden failed to acknowledge the 77th anniversary of D-Day on Sunday."
     publishedDateTime: 2021-06-07T16:00:44Z
@@ -124,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b38256f9-488a-42b5-97a8-0045ea9f23f2/54b27850-e8bb-4108-bf23-32a606a53cac/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden White House 'progress' report conspicuously omits school re-openings"
+    excerpt: "A “progress” report put out on Instagram by the White House is touting the Biden administration’s “successes” on reducing COVID-19 cases and increasing vaccinations -- while not including other key issues like re-opening schools where the administration has struggled."
+    publishedDateTime: 2021-05-28T12:53:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/egk1l8FeAQw/biden-white-house-progress-report-school-re-openings-omitted"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-progress-report-school-re-openings-omitted.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-progress-report-school-re-openings-omitted.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1942ec4c-ff0a-4f44-9440-03dd24b379da/6f59b55e-754e-4135-b63c-23c6a220d574/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -159,54 +127,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden Cabinet members avoid huge tax hits thanks to little-known federal law"
-    excerpt: "Under Section 2634 of federal elections law sits a unique provision to help soften the financial blow of new administration officials suddenly selling off assets: certificates of divestiture."
-    publishedDateTime: 2021-06-04T10:14:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6iXrFGLof9s/biden-cabinet-certificates-of-divestiture"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-certificates-of-divestiture.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-certificates-of-divestiture.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2a99b01-47c4-41c7-b0cb-5b090050a230/f6930429-3760-4230-8b76-54bd6f4e39e7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Texas Senate passes election reform bill criticized by Biden after closed-door negotiations, all-night debate"
-    excerpt: "Republicans in the Texas Senate took a big step toward tightening their state's election laws this weekend, prompting outcry from Democrats."
-    publishedDateTime: 2021-05-30T17:07:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUK_Oegc9aI/texas-senate-election-reform-bill-biden-security"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-senate-election-reform-bill-biden-security.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/168c5283-4842-412a-8322-5eced9ab2a41/09b74a5c-137c-4da4-ac4a-8ca8d445d604/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden administration quietly tasks 6 groups to pick asylum-seekers to allow into US"
-    excerpt: "The Biden administration has quietly tasked six humanitarian groups with recommending which migrants should be allowed to stay in the U.S. instead of being rapidly expelled from the country under federal pandemic-related powers that block people from seeking asylum."
-    publishedDateTime: 2021-06-04T11:58:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ywGcXVkIwQU/biden-administration-groups-pick-asylum-seekers"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-groups-pick-asylum-seekers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-groups-pick-asylum-seekers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e93ca25d-fba9-4cfe-9975-9023021195c6/ba468a9e-b854-4db0-bd72-2039e7d6c420/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden announces new incentives, including free beer, to reach COVID vaccination goal"
     excerpt: "President Biden on Wednesday declared June a “national month of action” to take aim at the coronavirus pandemic, urging Americans to get vaccinated."
     publishedDateTime: 2021-06-02T21:06:34Z
@@ -223,19 +143,35 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden administration threatens Texas with legal action over migrant detention facility closures"
-    excerpt: "The Biden administration threatened Monday to pursue legal action if Texas Gov. Greg Abbott doesn't rescind his order shutting down federally funded shelters that house migrant children who cross the U.S.-Mexico border without their parents."
-    publishedDateTime: 2021-06-08T10:49:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qJLj2R4uKfQ/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures.amp"
+  - title: "Biden speech commemorating Tulsa race massacre to detail efforts to combat racial inequality"
+    excerpt: "President Biden will detail his administration’s planned initiatives to combat racial injustice on Tuesday during a speech commemorating the 100th anniversary of the Tulsa race massacre."
+    publishedDateTime: 2021-06-01T09:22:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mQzJSBZ1ZeM/biden-speech-tulsa-race-massacre-efforts-combat-racial-inequality"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-speech-tulsa-race-massacre-efforts-combat-racial-inequality.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-tulsa-race-massacre-efforts-combat-racial-inequality.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad8cee42-560c-45e5-81a1-4caa19116439/a14c9b64-5a8f-467d-a060-ec6795af2393/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77c9a4d0-e255-4343-a5bb-8859501c783f/65dd2b45-d44c-49ae-b161-e0abb868740a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "68 GOP members send letter to Biden admin slamming POTUS for waiving Nord Stream 2 Pipeline sanctions"
+    excerpt: "Russia's Nord Stream 2 gas pipeline is the subject of a letter 68 Republican House of Representatives members sent to the Biden administration."
+    publishedDateTime: 2021-06-07T16:24:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R-qDfZtjgns/biden-russia-nord-stream-pipeline-gop-letter"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-russia-nord-stream-pipeline-gop-letter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-nord-stream-pipeline-gop-letter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4c36659-25c2-40ab-b470-9cb115741d73/b60e912b-0aec-485a-b2e5-39bf269222ec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -255,19 +191,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "House Republicans call on Senate leaders to reject Biden DHS picks, warn they won't end border crisis"
-    excerpt: "EXCLUSIVE: More than 30 House Republicans on Thursday wrote to Senate leaders in both parties, urging them to reject President Biden’s nominees for key Department of Homeland Security agencies -- warning that they will not \"make the decisions necessary\" to end the ongoing crisis at the southern border."
-    publishedDateTime: 2021-06-03T16:00:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NcJ1rzhs7xs/house-republicans-senate-leaders-biden-dhs-picks-border-crisis"
+  - title: "Biden DOJ backtracks on subpoena for USA TODAY readers' IP addresses"
+    excerpt: "The Department of Justice will not seek information identifying the readers of a USA TODAY story from earlier this year, according to a Friday court filing, but only after the FBI captured the alleged criminal it was seeking through other means."
+    publishedDateTime: 2021-06-05T21:29:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsx_NzEiWmk/biden-doj-backtracks-on-subpoena-for-usa-today-readers-ip-addresses"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 140
+    quality: 155
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/BORDER-2.jpeg"
-        width: 1000
-        height: 667
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/biden-fbi.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tara Reade fires back at NYC mayoral candidate Scott Stringer after he invoked Biden accuser during debate"
     excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at NYC mayoral candidate Scott Stringer, who invoked her while addressing the allegation faced against him during Wednesday night's Democratic primary debate."
@@ -301,15 +237,20 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Biden Needs to Make China Pay for Actions Over Covid"
-    excerpt: "President Joe Biden flies across the pond Wednesday to meet European leaders. He says the goal is to deliver real results on critical issues such as climate change and cybersecurity. Yet the"
-    publishedDateTime: 2021-06-08T11:21:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/08/biden_needs_to_make_china_pay_for_actions_over_covid_544550.html#!"
+  - title: "Barack Obama Interview: Joe Biden Is 'Finishing the Job'"
+    excerpt: "Barack Obama tells Ezra Klein how American went from \"Yes We Can\" to \"MAGA.\" The former president also discuss Joe Biden, aliens, and three of his favorite books."
+    publishedDateTime: 2021-06-02T16:32:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/544771.jpg"
+        width: 3851
+        height: 2562
+        isCached: true
   - title: "Biden Warned as a Court Slaps Down Race-Based Covid Relief"
     excerpt: "As President Joe Biden pursues initiatives he announced last week to help narrow the racial wealth gap, he should heed a late-May reminder from the 6th Circuit U.S. Court of Appeals that preferential treatment based on race is presumptively invalid."
     publishedDateTime: 2021-06-08T11:31:00Z

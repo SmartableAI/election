@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Rallies Are Back. They're Just What Dems Ordered"
-    excerpt: "Starting this month, Donald Trump will also be back in public circulation, headlining a series of grievance-filled summer MAGA rallies. That's fantastic news for anxious Democrats."
-    publishedDateTime: 2021-06-04T13:43:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/04/trump_rallies_are_back_theyre_just_what_dems_ordered_544275.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/536860_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "v3FxfnnIZSf55+Hjo2t2TwEQDGcxEzKlY9/jBAPdOLG7BcCVA7GnjjgShOfVIVPdYFyeT048VZH5FwehMIfv7gNktXXBUCMw8CEN0j6Og/jh58NcH9p7PTugF1n59A+qd3VFlUPyU00qpyWESLjxOwcMOqBh9gwnKJLiAuYnFUCJ2EQLeZ4do/Kr+U9bOv7NYH/B/Px1tvBPGghx1nLNxMyy4q5qD3wmL098c5seIxf7J3mO0mc/9grkN8k9xq5OT2PYV+5mqlCuP1U4cFrwiltKPqAx0vtgVoXm44q1aUacGVf7WkdSqpeTJCUr2WXvJ0ZtBzqMWTLM6PoOnGvSTOUfYiVnh2Pubx/Pp6TDmcElS7cMSa4HpV4CH8kzhindG9O0mpz5EevzQwDmO2ytpHHMKf2Aa7xHiEPhV7zspWXD6KBToTN66tGCmLAaC2n+rAsgs9UPZmopsR8kZ/VzGoOVFVc2LqyvHG7A9sqJFvDL4XlX4XvjivJyJHVkA8Xz/PdIRncsSauG2fOm1E8PiQ==;0ulUUHYkCC2pYon81h1l7A=="
 ---

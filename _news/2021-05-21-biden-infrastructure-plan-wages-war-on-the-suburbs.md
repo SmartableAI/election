@@ -28,37 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to talk again with Capito on Friday to try to forge 'infrastructure' deal"
-    excerpt: "President Biden and Sen. Shelley Moore Capito, R-W.Va., had a \"constructive\" meeting Wednesday at the White House in their effort to forge a bipartisan deal on infrastructure spending and intend to talk again Friday, according to the Biden Administration."
-    publishedDateTime: 2021-06-02T22:25:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JTaKEdBdKs/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.amp"
+  - title: "Blunt: Biden 'infrastructure' bill should be 30% of current level, slams partisan add-ons as 'big mistake'"
+    excerpt: "President Biden's massive spending plan needs to be cut by around 70% for Republicans to get on board, Sen. Roy Blunt, R-Mo., suggested on \"Fox News Sunday.\""
+    publishedDateTime: 2021-04-04T17:21:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUlzpMSov2M/sen-blunt-cut-biden-infrastructure-spending"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-blunt-cut-biden-infrastructure-spending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-blunt-cut-biden-infrastructure-spending.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 157
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "GOP offer on infrastructure 'did not meet' Biden's objectives in Friday call, Psaki says"
-    excerpt: "President Biden is not yet satisfied with the Republican offer on infrastructure after another call with Sen. Shelley Capito on Friday, White House press secretary Jen Psaki said."
-    publishedDateTime: 2021-06-04T22:16:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ch6IWkGVzlU/gop-offer-infrastructure-did-not-meet-bidens-objectives"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-offer-infrastructure-did-not-meet-bidens-objectives.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-offer-infrastructure-did-not-meet-bidens-objectives.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5cff0088-3ae8-45c5-9d0d-54c3a61230a9/61dedd14-c4dc-4e2d-87d1-b2d706b6d011/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "EBs5Cuu+2qgLJJJrSSW5xcd1QBN+KYgowg8UKvFOBlrTaYPuTF6AMvJCJGEIHujy/DVkcga/kwQ1OpqcGBb/3ibwnNe9coUFL/TrdacCnOMvBqPBaHrlHqKFYGRMZC/kckyMNNZy8GxVjsu9n517a3voVUpjhPCD0iMyWXE1GS60jwDIP/XKpDi9uoFKHpiFWuMk47ZdNxorx/IiUoBbzGFcyvfIsf71xd2t/r5cDVYr9xWh+Xq04jg/MjRElTfIu5rHcOp9ZaXWVefcL2P7fxsdY1vIMfnAh0X9fXFqyr1kxVSG6r8T6USSL+EtzBkF11P3RHJW0dXDKzTbzXlGLMKIZ9s5EZKO0uTkVsvexvJWAYitwUhQriHDKITbhTv5HuJTG3mIRpqT42uqZ6cBRb8UYLk7X2Eo7LckAYdYXrdCmOf1RzMYeAJylkZWf8Cq2XRKPO3fik2WUe+PC3mJP1Ad3BNQ5N/ayIhZlDazmlaqE6z+iT29Z/kDfiWmo+z48RJS7rzVRs/QPWdD2ItFuA==;igUYXu+4TmfEXu/Bkxilgg=="

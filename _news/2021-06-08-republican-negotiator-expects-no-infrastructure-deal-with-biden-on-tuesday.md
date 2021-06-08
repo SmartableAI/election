@@ -3,8 +3,8 @@ category: news
 title: "Republican negotiator expects no infrastructure deal with Biden on Tuesday"
 excerpt: "The Republican U.S. senator leading her party's talks with President Joe Biden on his sweeping infrastructure proposal said she hopes the two will talk on Tuesday but does not expect a deal to emerge."
 publishedDateTime: 2021-06-08T14:59:00Z
-originalUrl: "https://www.reuters.com/article/ousivMolt/idUSKCN2DK20N"
-webUrl: "https://www.reuters.com/article/ousivMolt/idUSKCN2DK20N"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-congress/republican-negotiator-expects-no-infrastructure-deal-with-biden-on-tuesday-idUSKCN2DK20N"
+webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-congress/republican-negotiator-expects-no-infrastructure-deal-with-biden-on-tuesday-idUSKCN2DK20N"
 type: article
 quality: 103
 heat: -1
@@ -182,6 +182,6 @@ related:
         height: 433
         isCached: true
 
-secured: "P12PRvXlZAeX5Rx9VgSjLYxegS2hk0AuKGUjQvKt4tGf/e2Gsrw0xTRNSPK0fQWNOI0jylyx7W+S3JJviwkn/PIVrkzGQ8LNzLK3qq/9hrV4AFcWgY4MzXOi3sh4SRPqyvzo3Zv/lmco4/SaaVN1lgaDQt0u9FctpSCR/Gfqg/ctG02Ce+AlwVkfp6Vy1zqz1aWKi1vfVXPRfVMnSzzrt0xKbDX8sfSJgwvPONAFBmRpV2yr0LGkvjp/JwJT0zHfi0xJAH7KbAry4v3y3SYgjgV3nUb5IH1IFjz+GGizWmdBGoX3LBhEU7jV7oEMqmAgdMJ7C+9HRBjfE9MLgd8qXfMfe82BGkz8/CpNwavXT9w=;u9NonHFX6Kr8QLllfD+k2Q=="
+secured: "8WTNJ9ET8AfbCWJ4S3pNe448Qbnq8uWlWOPMys2IQiDGeOcywsciTApRTA+wWxM0rtpL+l5108/hN/fvwUlXHVxbFb+LHUsDrfiRSNmdm5lWrX4owYz6OtWQUEOCJqnrzavK4o7GiRCA/KNeJSaj2bDUoa//kO3yFTjYzLOokPFoA295o1RA1A4TEVX+QgYlrdQ9qd+UF9adFmJHFGQGV1gQzwcy8oL7oCmI9bfofjwHXSoA5C0ZyJykGMjsunl9kT2tJAoGkP2ytPjDTvlishrqtf3g3U/PLpJz9M5cLHGHfzmj3ei5uzW4TCat80+FnJgYCjlf10udPfEKJ7vib471afkQZUGOaGkInHb3K0g=;/B5c0YJpFG7jcPpwoMAvlg=="
 ---
 

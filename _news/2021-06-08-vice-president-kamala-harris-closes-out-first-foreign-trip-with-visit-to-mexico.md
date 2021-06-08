@@ -3,25 +3,29 @@ category: news
 title: "Vice President Kamala Harris closes out first foreign trip with visit to Mexico"
 excerpt: "The vice president will meet with President Andrés Manuel López Obrador, a key but complicated ally in efforts to curb the spike in migration at the border."
 publishedDateTime: 2021-06-08T13:01:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html?outputType=amp"
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html?outputType=amp"
 type: article
-quality: 71
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/ic9gf-63_v0koAvx7hmNCWXTJnM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZRTSS3APQBEUTCEWAE7N37EUDI.jpg"
+  - url: "https://www.chicagotribune.com/resizer/ic9gf-63_v0koAvx7hmNCWXTJnM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZRTSS3APQBEUTCEWAE7N37EUDI.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -122,6 +126,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/c23dfc7a-2de3-4928-b162-b5344262f730/thumbnail/1200x630g3/6df35ab454879cb32f06a8fd233a428e/gettyimages-1232547348.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris Sticks to 'Root Causes' Migration Message, Doesn't Respond to AOC's Criticism"
+    excerpt: "On her trip to Mexico and Guatemala, Vice President Kamala Harris emphasized the United States' commitment to dealing with the \"root causes\" of migration, including poor economic conditions that force people to flee to the U."
+    publishedDateTime: 2021-06-08T19:11:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-sticks-root-causes-migration-message-doesnt-respond-aocs-criticism-1598731"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-sticks-root-causes-migration-message-doesnt-respond-aocs-criticism-1598731?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-sticks-root-causes-migration-message-doesnt-respond-aocs-criticism-1598731?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1816151/kamala-harris-mexico.jpg"
+        width: 3200
+        height: 2133
         isCached: true
   - title: "Kamala Harris meets with Guatemalan president"
     excerpt: "Vice President Kamala Harris said during a news conference with President Alejandro Giammattei that the fact that Guatemala is the first country she's visiting as vice president sends a message about how important the region is to the U."
@@ -569,6 +589,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "WKclPnDbt2scUFFG/CL5jEJm9vcZuvF2C7RxYEjho402kfvRlp92bcGA/1fMDbp4tzz5NyibjAcIPCHgtyd19rDrKDmL6tk71txymqNBQu7EESjrGZggd6gj7GHYfU7d80OvIk/UEFrvpgzSyOc5uN7HX3CTESi2db/Eo+er7nEmSCFzzUDeHhqAh4NAoqP/wh6e2B1upjh9/WDWfBfyu7od24QA8kfmecp2O69F+dIIvCqL8B1riu4uF1lBj1xRiTahpGF001DR1kP64N0NpA0xksLdEwx5nVfRMa+5VbkO9JuJpeLy74vrtGRsdkSlmS+hl7fZV6dnxIQvQRkAfqbxztUCDumhTGp57CmBSmHZMvmEPFo6Yb315jBGUz27/01E9jYCIHp6A2NrYeWv3hnecVExztieqP+RQRKqxtdn/k3uXoPay2pUpf2MfhEwIa4pHmpEuEWsPakDKmt+5y5QNZwi+7NXl+it4U8rivvqj9NJJHde8tmAcEwOJmwEqm9fDLrRkOAxVC2E27PLjg==;twLN1/xobonZE51sfprOIA=="
+secured: "vgPVkzPu6A35KQCK77MTgJFk9Nyc3mT7G3MevU+Pmx7SBmNZ0W0i/zXJS7SwnIGURSXhdXwW6qDMMYZWx/SEZF+2FJV5swCkHnOOSoG/Tty0s3iPjwVHkYFZ+ywQcGthVYZFRykVE+X2xl/nZ7nk1N18R8ateynX71NoQw2GKRWwWdN570jwHz/+agbRp8fUwPxlP8IcSvfvLg3cd0+caqj4EWT36C8aEURASYyeWtOxyhLuR4FjP3f23dWXm1X63cpk8ajZ985XfsKMO1Ake9RQq1JLCBbni2cLMfDjV49UbGxiuWFhTYcEP8E9Gd/EU5uOYT9T4JMqtngaSfQgUPy++JbzUTUs3BY4fiow154=;Xo3KL/tS0gzQpd5GNLFbbw=="
 ---
 

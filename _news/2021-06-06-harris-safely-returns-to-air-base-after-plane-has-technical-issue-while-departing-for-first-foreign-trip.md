@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris invites all female senators for dinner at Naval Observatory amid infrastructure negotiations"
+    excerpt: "Vice President Kamala Harris has invited every female senator to the Naval Observatory for dinner next Tuesday, according to a Harris aide and Senate aide, in a show of bipartisanship among a deeply divided Congress.\n    \n"
+    publishedDateTime: 2021-06-08T19:07:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KCvgHDU-6eM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/vice-president-female-senators-dinner/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/vice-president-female-senators-dinner/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607173528-06-kamala-harris-guatemala-mexico-visit-unf-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris and a High-Risk, High-Reward Presidential Résumé"
     excerpt: "For the vice president, another run at the Oval Office is a near certainty. How her current responsibilities help or hurt that bid is an open question."
     publishedDateTime: 2021-06-05T09:00:00Z

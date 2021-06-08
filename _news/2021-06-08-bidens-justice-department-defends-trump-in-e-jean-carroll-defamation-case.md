@@ -1,0 +1,163 @@
+---
+category: news
+title: "Biden's Justice Department defends Trump in E. Jean Carroll defamation case"
+excerpt: "The Justice Department is attempting to push its way into a defamation suit against former President Donald Trump brought by writer E. Jean Carroll."
+publishedDateTime: 2021-06-08T18:54:17Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQM1YSkFeaI/biden-justice-department-trump-e-jean-carroll"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQM1YSkFeaI/biden-justice-department-trump-e-jean-carroll"
+ampWebUrl: "https://www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp"
+type: article
+quality: 188
+heat: 348
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/871d5882-3214-4239-9819-324e15de69c6/2511659f-c83e-4156-b33f-5990b03c54e5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
+
+related:
+  - title: "Biden Pentagon, State Department at odds over pride flag"
+    excerpt: "The Defense Department will not allow the Pride flag to be flown at military bases, unlike the State Department, spokesperson John Kirby said Friday."
+    publishedDateTime: 2021-06-04T21:29:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Pride-Flag-iStock-2.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump to hit ‘timid and corrupt’ Biden on China in rare speech"
+    excerpt: "President Donald Trump is expected to criticize President Joe Biden’s policy on China at a speech at the North Carolina Republican state convention."
+    publishedDateTime: 2021-06-05T18:51:00Z
+    webUrl: "https://nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/"
+    ampWebUrl: "https://nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "‘MediaBuzz’ on Facebook’s Trump ban, media treatment of Biden"
+    excerpt: "What drives me crazy about the media is that when they totally blow it, an all-out, no doubt deep-rooted red-faced botching of a major story, they barely acknowledge it before moving on. You read the coverage now of the circumstantial evidence of the Wuhan lab as the original source of the COVID scourge and there's this flat,"
+    publishedDateTime: 2021-06-08T11:34:00Z
+    webUrl: "https://www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden"
+    ampWebUrl: "https://www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1830dbee-539b-438a-9afb-ee5b8eba9049/5d7d1d25-f5a8-4a38-951b-018ce87fc784/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump rips Biden in return speech at NC GOP convention, vows ‘tremendous 2022’"
+    excerpt: "Former President Donald Trump returned triumphantly with a speech at the North Carolina Republican Convention, where he railed against President Joe Biden, Dr. Anthony Fauci, Democrats, Big Tech,"
+    publishedDateTime: 2021-06-06T02:45:00Z
+    webUrl: "https://nypost.com/2021/06/05/trump-rips-biden-in-nc-gop-convention-speech-vows-tremendous-2022/"
+    ampWebUrl: "https://nypost.com/2021/06/05/trump-rips-biden-in-nc-gop-convention-speech-vows-tremendous-2022/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-rips-biden-in-nc-gop-convention-speech-vows-tremendous-2022/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/DonaldTrumpNC.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "McEnany: Women in Biden admin get 'glowing' profiles after 'hit pieces' for female Trump officials"
+    excerpt: "Former White House press secretary Kayleigh McEnany responded Friday to reports that successor Jen Psaki was having her picture taken by celebrity photographer Annie Leibovitz for a magazine profile."
+    publishedDateTime: 2021-06-04T19:44:00Z
+    webUrl: "https://www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials"
+    ampWebUrl: "https://www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 136
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60aec5b5-2172-4ba1-94aa-358a5c5d3a4c/5e5ef5ee-f5c2-4b7e-9410-a7a1a83f62a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Liberal PBS reporter ridiculed for asking how Biden will heal Europe's 'scars' from 'anomaly' Trump"
+    excerpt: "Liberal PBS White House correspondent Yamiche Alcindor was ridiculed for her question to a White House official Monday asking how President Biden could heal the “scars” in Europe after what former President Donald Trump did to “traumatize” its leaders."
+    publishedDateTime: 2021-06-07T18:50:00Z
+    webUrl: "https://www.foxnews.com/media/liberal-pbs-reporter-ridiculed-for-asking-how-biden-will-heal-europes-scars-from-anomaly-trump"
+    ampWebUrl: "https://www.foxnews.com/media/liberal-pbs-reporter-ridiculed-for-asking-how-biden-will-heal-europes-scars-from-anomaly-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-pbs-reporter-ridiculed-for-asking-how-biden-will-heal-europes-scars-from-anomaly-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 136
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d46f7548-6409-430c-aa47-c17a333abe07/72552222-8e1f-4936-a7b2-f5097a758f69/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Justice Department to Defend Trump in Lawsuit Over Rape Claim"
+    excerpt: "Journalist E. Jean Carroll sued the former president for defamation after he denied raping her in the 1990s."
+    publishedDateTime: 2021-06-08T04:26:00Z
+    webUrl: "https://www.wsj.com/articles/justice-department-to-defend-trump-in-lawsuit-over-rape-claim-11623129987"
+    ampWebUrl: "https://www.wsj.com/amp/articles/justice-department-to-defend-trump-in-lawsuit-over-rape-claim-11623129987"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/justice-department-to-defend-trump-in-lawsuit-over-rape-claim-11623129987"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-350268/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Rallies Are Back. They're Just What Dems Ordered"
+    excerpt: "Starting this month, Donald Trump will also be back in public circulation, headlining a series of grievance-filled summer MAGA rallies. That's fantastic news for anxious Democrats."
+    publishedDateTime: 2021-06-04T13:43:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/04/trump_rallies_are_back_theyre_just_what_dems_ordered_544275.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/536860_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+
+secured: "Z9MYWES8KhEz17TV/HbwpSsDN8S+ec7FG7SlPeNCAPF7k1EYjjS+K+kfNKKpOoo4onItiX40ivO6OpDL0DA4ftuCB0ABl2jp2iFsetoqaf3C1qHIAy3aPRStDuL0RzM7wEKm+8Rp+elRH5p1gMm5/Vs7u42UuNYgFHpx5lfnxltpRqcqBz1CQ1M3XINKJ1wVhrGR2nB9U9IbEtVzf3WxWHeYR+sShjigqgMjRZHTDpwe97LoXyUNh+B9mPDx0+pNC/vJYvJI5XIrig8KTLNeHR9vB7zS+gMH+XvkNBQWVMT3p1XFO4eGZvBOEMKRuhYsgN7GuWwB3rtKQIC6X8dYOSut1vJdgLsngdArnnVr0ow=;YE9vc9p9+K2mdoovNXYnCw=="
+---
+

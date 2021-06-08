@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "White House says Harris 'may go to the border' 'at some point'"
+    excerpt: "Vice President Kamala Harris “may go to the border” “at some point,” the White House said Tuesday, as the vice president faces criticism for not yet visiting the southern border after being tappen by President Biden to handle the “root causes” of migration."
+    publishedDateTime: 2021-06-08T19:14:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GP25tINgYlk/white-house-harris-may-go-to-the-border-at-some-point"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-harris-may-go-to-the-border-at-some-point.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-may-go-to-the-border-at-some-point.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris' mixed messages on the border: From migrant 'embrace' to 'do not come'"
     excerpt: "Vice President Kamala Harris on Monday issued a tough warning to potential migrants, telling them \"do not come\" to the U.S. and warning that she believed they would be turned back -- a stark contrast to a more welcoming message she had issued in past years."
     publishedDateTime: 2021-06-08T15:30:14Z
@@ -43,38 +59,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 178
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00b804f7-55d2-43fd-8325-c596d752f467/6a0dfc8a-4dfe-456b-8ac8-621f5c277501/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Wall Street Journal column mocks Kamala Harris' 'face-plant' Naval Academy commencement speech"
-    excerpt: "A Wall Street Journal columnist mocked Vice President ' Friday commencement speech at the U.S. Naval Academy in a piece centering on the \"face-plant\" joke she told about solar panels."
-    publishedDateTime: 2021-06-01T19:57:00Z
-    webUrl: "https://www.foxnews.com/media/wall-street-journal-column-mocks-kamala-harris-face-plant-naval-academy-commencement-speech"
-    ampWebUrl: "https://www.foxnews.com/media/wall-street-journal-column-mocks-kamala-harris-face-plant-naval-academy-commencement-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wall-street-journal-column-mocks-kamala-harris-face-plant-naval-academy-commencement-speech.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24af3547-95ff-46d5-a121-a8739aa4bdc1/b55ae970-4a39-4dfa-bcdd-0d3bc0d4e008/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris' Guatemala comments would've led media to brand her a 'racist' 6 months ago, Gutfeld says"
-    excerpt: "Vice President Kamala Harris issued cautionary remarks directed people who may seek to illegally immigrate to the US through the southern border, which Greg Gutfeld commented that those remarks would be considered racist during the Trump administration on \"The Five\"."
-    publishedDateTime: 2021-06-08T00:27:00Z
-    webUrl: "https://www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld"
-    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00b804f7-55d2-43fd-8325-c596d752f467/6a0dfc8a-4dfe-456b-8ac8-621f5c277501/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720

@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump calls Bitcoin 'a scam against the dollar'"
 excerpt: "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar."
 publishedDateTime: 2021-06-08T01:12:00Z
-originalUrl: "https://www.bbc.com/news/business-57392734"
-webUrl: "https://www.bbc.com/news/business-57392734"
+originalUrl: "https://www.bbc.com/news/business-57392734.amp"
+webUrl: "https://www.bbc.com/news/business-57392734.amp"
 ampWebUrl: "https://www.bbc.com/news/business-57392734.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp"
 type: article
@@ -80,6 +80,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ieDNRUi2Ha5you69AudEG+xAcEDahAEfNHOQXPoTo8W8IxGRtCgvu4CgW9Le3YJpteiNtmPphZmu/KxHwPtweN8DqP2q0iKeGQJwi67JGlv3jy3sS1myW8jXGRT3zASwFtnKglIxalge8HvmJU/eqeCifiqMXSJWATYKFWPw1oVI+AQKpJWVCmwsRKDFaLyfngWvrmemBk4qYT31z2597L8dImlMvsj3fyikewW/QAQ8XqAdUVfruwWt6MJxA8SuQaEOyY2KS+ohadPkpB/vvXZ74ICCpHxZ9B84XR12tbuRpSS11iVZjRuhoKemUQ60xQjIcI/zC4pUEhA7ZVSZVYxmzhfWJhgqiPpqgnFt9KY=;GEQI/fVL2FXBjvTm7yILMg=="
+secured: "DifGKh/zMbu8JIaMZyYo1w+KZC2n7yYUWfwKP4yaC1ycCPJJCF39JvV2egubFQziQp/H8g2Nzcqpe+YNcXxxCEHWTkzeklU6Q9L7IQgUKO+n+bOdWRQAUNOWNHlCMAbPPqsG8VM7LzoJKFh4HQ4mKFcyHslqSAEwflnIENZd58+nI8bxOgXadLF2UnHfiicROl0TL+cA0bdXOeEg9bEzPCOw/FNdBlMB1Jp3JeKTCaDnIXqJF88z10cUTSgjTihKAfZZTcjTEevDW2QILBtgnrqpUceueBIZQNUMar1jtPFHnMHxObhcYQg1+Ed4Z6Ufusvp9mi/M7BXSTGreLUfL6lK+etuNPKVc7EyMHujGIA=;SBSWDj8IzYW54UpdeX9Ykw=="
 ---
 

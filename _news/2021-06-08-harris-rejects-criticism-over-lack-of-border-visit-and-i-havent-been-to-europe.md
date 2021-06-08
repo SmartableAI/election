@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris invites all female senators for dinner at Naval Observatory amid infrastructure negotiations"
+    excerpt: "Vice President Kamala Harris has invited every female senator to the Naval Observatory for dinner next Tuesday, according to a Harris aide and Senate aide, in a show of bipartisanship among a deeply divided Congress.\n    \n"
+    publishedDateTime: 2021-06-08T19:07:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KCvgHDU-6eM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/vice-president-female-senators-dinner/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/vice-president-female-senators-dinner/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607173528-06-kamala-harris-guatemala-mexico-visit-unf-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris safely returns to air base after plane has 'technical issue' while departing for first foreign trip"
     excerpt: "Vice President Kamala Harris, who was en route to Latin America on Sunday, safely returned to Joint Base Andrews after her plane had a \"technical issue,\" according to Harris' chief spokesperson and senior adviser Symone Sanders.\n    \n"
     publishedDateTime: 2021-06-06T20:50:04Z

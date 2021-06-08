@@ -31,35 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "San Jose shooting prompts Biden, Newsom to renew call for gun control measures"
-    excerpt: "President Biden, California Gov. Gavin Newsom and other prominent Democrats renewed calls for tighter gun laws on Wednesday after a deadly mass shooting at a California rail yard."
-    publishedDateTime: 2021-05-27T01:01:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1oEqrNEUU30/san-jose-shooting-biden-newsom-gun-control"
-    ampWebUrl: "https://www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp"
+  - title: "Sen. Capito and Biden to talk again Monday on potential spending deal"
+    excerpt: "President Biden and Sen. Shelley Moore Capito, R-W.Va., talked Friday in their effort to forge a bipartisan deal on infrastructure spending and they've agreed to reconvene on Monday, the senator's office said. "
+    publishedDateTime: 2021-06-04T20:36:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wbxrkejdaHY/capito-biden-talk-again-monday-infrastructure"
+    ampWebUrl: "https://www.foxnews.com/politics/capito-biden-talk-again-monday-infrastructure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-biden-talk-again-monday-infrastructure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden Cabinet members avoid huge tax hits thanks to little-known federal law"
+    excerpt: "Under Section 2634 of federal elections law sits a unique provision to help soften the financial blow of new administration officials suddenly selling off assets: certificates of divestiture."
+    publishedDateTime: 2021-06-04T10:14:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6iXrFGLof9s/biden-cabinet-certificates-of-divestiture"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-certificates-of-divestiture.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-certificates-of-divestiture.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2a99b01-47c4-41c7-b0cb-5b090050a230/f6930429-3760-4230-8b76-54bd6f4e39e7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden to talk again with Capito on Friday to try to forge 'infrastructure' deal"
+    excerpt: "President Biden and Sen. Shelley Moore Capito, R-W.Va., had a \"constructive\" meeting Wednesday at the White House in their effort to forge a bipartisan deal on infrastructure spending and intend to talk again Friday, according to the Biden Administration."
+    publishedDateTime: 2021-06-02T22:25:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JTaKEdBdKs/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-meet-again-with-capito-on-friday-to-try-to-forge-infrastructure-deal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75fd10f9-5ed7-4a0a-a339-cec24197305e/c2c66037-e392-4e1e-b849-923bdaf2f091/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Blackburn presses Biden on WHO probe into COVID origins, amid renewed scrutiny of Wuhan lab"
-    excerpt: "EXCLUSIVE: Sen. Marsha Blackburn, R-Tenn., has written to President Biden to press him about ongoing concerns with the World Health Organization's investigation into the origins of the COVID-19 outbreak -- amid renewed scrutiny of the Wuhan Institute of Virology, where some believe the pandemic may have"
-    publishedDateTime: 2021-05-25T15:30:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UvCkruufTcU/blackburn-biden-who-probe-covid-origins-wuhan-lab"
+  - title: "Biden administration quietly tasks 6 groups to pick asylum-seekers to allow into US"
+    excerpt: "The Biden administration has quietly tasked six humanitarian groups with recommending which migrants should be allowed to stay in the U.S. instead of being rapidly expelled from the country under federal pandemic-related powers that block people from seeking asylum."
+    publishedDateTime: 2021-06-04T11:58:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ywGcXVkIwQU/biden-administration-groups-pick-asylum-seekers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-groups-pick-asylum-seekers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-groups-pick-asylum-seekers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 145
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ae325c8-e306-4891-9ae9-6b0b9f33589c/6686ca74-f4f4-4130-8448-8cc5a22af4ee/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e93ca25d-fba9-4cfe-9975-9023021195c6/ba468a9e-b854-4db0-bd72-2039e7d6c420/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "GOP offer on infrastructure 'did not meet' Biden's objectives in Friday call, Psaki says"
+    excerpt: "President Biden is not yet satisfied with the Republican offer on infrastructure after another call with Sen. Shelley Capito on Friday, White House press secretary Jen Psaki said."
+    publishedDateTime: 2021-06-04T22:16:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ch6IWkGVzlU/gop-offer-infrastructure-did-not-meet-bidens-objectives"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-offer-infrastructure-did-not-meet-bidens-objectives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-offer-infrastructure-did-not-meet-bidens-objectives.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "House Republicans call on Senate leaders to reject Biden DHS picks, warn they won't end border crisis"
+    excerpt: "EXCLUSIVE: More than 30 House Republicans on Thursday wrote to Senate leaders in both parties, urging them to reject President Biden’s nominees for key Department of Homeland Security agencies -- warning that they will not \"make the decisions necessary\" to end the ongoing crisis at the southern border."
+    publishedDateTime: 2021-06-03T16:00:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NcJ1rzhs7xs/house-republicans-senate-leaders-biden-dhs-picks-border-crisis"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/BORDER-2.jpeg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "Qn4t14da6HvDzJVEF2s9+d+LXsqSctf1mWejqBPYOUX8L24Jr8EE/NDrstZ35tO323TBc1OOoCfdwqD5jfQrLvFCTLMlI6DjFSndFfwrOd/SN6r/vxJsAt4Cg5YKQpFKDYbVbZVv8w/PznfhNgm5JyqCX61oraKylYE/M+rpwiFyiFdp/mxBtXTlijrd0qEPAXY/2xM8RaFZdZhU9zMTFQyT669uvN5wEH9t8t73P60KmCHtUFluZ7wuehOkjawA629psezRzlP1hf/Wbhtib1hEcQKtROCSBgwge/TV7QcwZSceT9uxjEh2aR8t/J1s0G0KgJnYSndPh3Vl1cdnfYyMcDtt2qMzJrXmAi8w8lE=;nXLLeBz6cujgwwgtgGRbuw=="

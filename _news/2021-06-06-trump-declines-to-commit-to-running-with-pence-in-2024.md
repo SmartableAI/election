@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-declines-to-commit-to-running
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024.amp"
 type: article
 quality: 160
-heat: 240
+heat: 220
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump Rallies Are Back. They're Just What Dems Ordered"
-    excerpt: "Starting this month, Donald Trump will also be back in public circulation, headlining a series of grievance-filled summer MAGA rallies. That's fantastic news for anxious Democrats."
-    publishedDateTime: 2021-06-04T13:43:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/04/trump_rallies_are_back_theyre_just_what_dems_ordered_544275.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/536860_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "4HQIPIU14xVaEQTvD5WLC76L2Lr/7hJibwiErsmgH5+xOOebx5mjn93QrJZ3PJ4ScQDAizAfFUG4kmieiHy6NivEvH43dPgeRtO4bfiIsG1nJES0Rld1gPPFZU5aqZyei+ijAXsyM9yD2Z+GMvLTcI4c8TRxoRowYrIhG3lej0NsEn3HKdTY/U5pmpuxCf+OfZyjDm3FF/jRbEbyItWXSAHAQWEoEdx+4Y6qaru2m3YutMr4mAXDucOW9KeBsQVKWPl6Zjq5Qoc5Fcgf8qPPqY6cK7jRjXuNtRdf1wbg8FskT2u4GZ6moITK10YUEb73VdRuqUvX1OsyvdGIbGqUKy70cf/AbOKJUvTX0inoHsM=;aBxgnaidyc6x38q7OTh9PQ=="

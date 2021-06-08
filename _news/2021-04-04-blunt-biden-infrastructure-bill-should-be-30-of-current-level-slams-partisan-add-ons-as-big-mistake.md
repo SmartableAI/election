@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/sen-blunt-cut-biden-infrastructure-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-blunt-cut-biden-infrastructure-spending.amp"
 type: article
 quality: 157
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden 'Infrastructure' Plan Wages War on the Suburbs"
+    excerpt: "If you saved your money and bought a house in the suburbs, your investment and lifestyle are under attack. President Joe Biden is pushing to end"
+    publishedDateTime: 2021-05-21T03:28:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/543623_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "9bR4DPr3LOZaYOp4vYejrH0Goh9Odgn44/oD+rbrSBwFasXyhvkFpeKO72IG311PhgAZ6NGLhIn1SEyfe1UvfB5sTN+CAbLlejYfp3ZLaBzYpdrSlm5VyyalgNaZybgNs15ZITs/UJVtKINaK8fuaj46APut8tzWAODVbRxYElXiZhRm/THZaa5IkVC+nqEHh/Hv5r2amnkXfKbOfhnBn79MaQghmubeZ1tv/ekm/Kiau8eIYJwbbC4mCZu6nsSSYS3NqXFniebT/AJVBc0IHrO2bF7f9nLi6oBCHnRNAJeGUB9jIxretlFCBcGNFgod5scpEsXHwU/SFWb5KcZ4muKE3ngB5iXDa9Ph03j4/uM=;22CogbpzTxjIgb7psbDefA=="
 ---

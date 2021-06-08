@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-packing-their-bags-thi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp"
 type: article
 quality: 192
-heat: 592
+heat: 612
 published: true
 
 provider:
@@ -173,6 +173,22 @@ related:
     quality: 177
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c9962fd-1510-412f-b97c-f2d99e3a28cf/6153bd59-4c6d-4659-a50f-6191435cb018/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Boebert takes cardboard cutout of Kamala Harris to the border, as VP takes heat for failing to visit"
+    excerpt: "Rep. Lauren Boebert, R-Colo., on Tuesday released video of her taking a cardboard cutout of Vice President Kamala Harris to the border -- as the vice president continued to take heat for failing to visit in more than 70 days since she was tasked with handling the migrant crisis."
+    publishedDateTime: 2021-06-08T18:56:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kfXGW1yeBrQ/boebert-cardboard-cutout-kamala-harris-border-vp-heat-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/boebert-cardboard-cutout-kamala-harris-border-vp-heat-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-cardboard-cutout-kamala-harris-border-vp-heat-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8292479a-8b4e-4a0e-9eeb-ca988756b0ab/c244e29d-79ac-4fef-b542-69d4bb413b9a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
