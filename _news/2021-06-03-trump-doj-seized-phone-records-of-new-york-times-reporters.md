@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-rec
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/56e3613f35b98dddab767517b6385fc637cfeaad/0_18_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33da07d376c7aee7efd80937b10ca43e"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden DOJ Plans To Continue To Defend Trump In E. Jean Carroll's Defamation Lawsuit"
+    excerpt: "The Justice Department simultaneously distanced itself from the allegations Carroll has made that former President Donald Trump sexually assaulted her in the 1990s."
+    publishedDateTime: 2021-06-08T15:18:00Z
+    webUrl: "https://www.npr.org/2021/06/08/1004340386/biden-doj-plans-to-continue-to-defend-trump-in-e-jean-carrolls-defamation-lawsui"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 114
+    images:
+      - url: "https://media.npr.org/assets/img/2021/06/08/ap_20295746395355_wide-0bac69349f777885aa0bd9a95d46a3faa03dc025.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Republican leaders say they want to focus on the future, but Trump is far from done with the past"
     excerpt: "Trump’s appearance Saturday in North Carolina illustrates a continued conundrum for the Republican Party: While he remains overwhelmingly popular among the party’s faithful, he potentially poses a problem for the GOP as it looks to win over voters ahead of the 2022 midterms who are wary of his divisive style."

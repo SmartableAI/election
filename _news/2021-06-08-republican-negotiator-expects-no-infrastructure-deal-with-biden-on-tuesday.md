@@ -1,29 +1,31 @@
 ---
 category: news
-title: "President Joe Biden to attend Memorial Day observance Sunday near New Castle"
-excerpt: "Joe Biden has been a frequent attendee at the Memorial Day observance at War Memorial Plaza near the Delaware Memorial Bridge near New Castle. This year, he'll attend the event as commander in chief."
-publishedDateTime: 2021-05-29T11:20:00Z
-originalUrl: "https://www.indystar.com/story/news/2021/05/28/memorial-day-joe-biden-attend-sunday-observance-new-castle/5254888001/"
-webUrl: "https://www.indystar.com/story/news/2021/05/28/memorial-day-joe-biden-attend-sunday-observance-new-castle/5254888001/"
-ampWebUrl: "https://amp.indystar.com/amp/5254888001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5254888001"
+title: "Republican negotiator expects no infrastructure deal with Biden on Tuesday"
+excerpt: "The Republican U.S. senator leading her party's talks with President Joe Biden on his sweeping infrastructure proposal said she hopes the two will talk on Tuesday but does not expect a deal to emerge."
+publishedDateTime: 2021-06-08T14:59:00Z
+originalUrl: "https://www.reuters.com/article/ousivMolt/idUSKCN2DK20N"
+webUrl: "https://www.reuters.com/article/ousivMolt/idUSKCN2DK20N"
 type: article
-quality: 72
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/11/02/PWIL/b0641e7c-89e6-4210-a8b0-e22c16d1115e-053019_WIL_BIDEN_MEMORIAL_DAY_JC0253.JPG?auto=webp&crop=3856,2169,x0,y206&format=pjpg&width=1200"
+  - url: "https://www.reuters.com/resizer/N3dUQVC_oZaZI0fUo_wNN0xTY84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ILMZFREJEZLYHDL2VLZJXKJAKU.jpg"
     width: 1200
-    height: 675
+    height: 628
     isCached: true
 
 related:
@@ -119,19 +121,21 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Republican negotiator expects no infrastructure deal with Biden on Tuesday"
-    excerpt: "The Republican U.S. senator leading her party's talks with President Joe Biden on his sweeping infrastructure proposal said she hopes the two will talk on Tuesday but does not expect a deal to emerge."
-    publishedDateTime: 2021-06-08T14:59:00Z
-    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKCN2DK20N"
+  - title: "President Joe Biden to attend Memorial Day observance Sunday near New Castle"
+    excerpt: "Joe Biden has been a frequent attendee at the Memorial Day observance at War Memorial Plaza near the Delaware Memorial Bridge near New Castle. This year, he'll attend the event as commander in chief."
+    publishedDateTime: 2021-05-29T11:20:00Z
+    webUrl: "https://www.indystar.com/story/news/2021/05/28/memorial-day-joe-biden-attend-sunday-observance-new-castle/5254888001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5254888001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5254888001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 72
     images:
-      - url: "https://www.reuters.com/resizer/N3dUQVC_oZaZI0fUo_wNN0xTY84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ILMZFREJEZLYHDL2VLZJXKJAKU.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/PWIL/b0641e7c-89e6-4210-a8b0-e22c16d1115e-053019_WIL_BIDEN_MEMORIAL_DAY_JC0253.JPG?auto=webp&crop=3856,2169,x0,y206&format=pjpg&width=1200"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
   - title: "Democrats win battle over GOP voting bill, but can’t win war without Joe Biden, Senate Dems"
     excerpt: "AUSTIN—Texas Democrats won a battle in a war that they cannot win, unless they get help from President Joe Biden and their fellow party members"
@@ -178,6 +182,6 @@ related:
         height: 433
         isCached: true
 
-secured: "jmEuaMnv+4wxn+dxZ5HhGuRXUmwjfe53Kgr2d1XIwUut+yhWM/u7qhLpB6NS/By6dQoLqvxdDG58mXmhuum3Zkeo9CygEtqy+qXhKKnTXXRzlW0LuMTLOA2POT5HBznpncdfZaCJe9gzp21OPjIn8PhihuMDaTIDQn6j7tw6n8ljrlJNFMwcQlO1Gr2myoka3dgR4VaNjngYudNNfBWOwhsfbiaOcAC7B4vlALJYnRMnSh4KRIWC5l/eY4ujh6Rb4Anw7R2/kVZCyUGEpqUtVcqgA3r8PR7Z7vZoHU5rPvO0KQNMuDpLU7Gc6AWhailrJMfQoPAiiIFNqO+RD/YuBB9vtLqxmaUwHfoelW/YllPwBxuPzbt2fPjBztiDSLQyd/Jju29x2dJuyAqj+MJ61i6Mfd8dMLcWcfSbpMPAEvs1pbfGP41/+yxsLWdr8l+/IxEKbQ47T3nnktiGceQhSInMIleQdaytpNNJkxCzYO3bddhr+Pbs/kfblriB6545Ls7oFmUuc2Ct3QriIgjv7w==;Hl0Gm1dHkYFu6kV2hLxTaw=="
+secured: "P12PRvXlZAeX5Rx9VgSjLYxegS2hk0AuKGUjQvKt4tGf/e2Gsrw0xTRNSPK0fQWNOI0jylyx7W+S3JJviwkn/PIVrkzGQ8LNzLK3qq/9hrV4AFcWgY4MzXOi3sh4SRPqyvzo3Zv/lmco4/SaaVN1lgaDQt0u9FctpSCR/Gfqg/ctG02Ce+AlwVkfp6Vy1zqz1aWKi1vfVXPRfVMnSzzrt0xKbDX8sfSJgwvPONAFBmRpV2yr0LGkvjp/JwJT0zHfi0xJAH7KbAry4v3y3SYgjgV3nUb5IH1IFjz+GGizWmdBGoX3LBhEU7jV7oEMqmAgdMJ7C+9HRBjfE9MLgd8qXfMfe82BGkz8/CpNwavXT9w=;u9NonHFX6Kr8QLllfD+k2Q=="
 ---
 

@@ -315,6 +315,22 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "VP Kamala Harris in Mexico to address illegal migration with Lopez Obrador"
+    excerpt: "Vice President Kamala Harris met with Mexican President Andres Manuel Lopez Obrador in Mexico City on Tuesday to discuss immigration policy, part of her first foreign trip since taking office in January."
+    publishedDateTime: 2021-06-08T15:48:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/06/08/mexico-kamala-harris-andres-lopez-obrador/4351623165361/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/06/08/mexico-kamala-harris-andres-lopez-obrador/4351623165361/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/06/08/mexico-kamala-harris-andres-lopez-obrador/4351623165361/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4351623165361/2021/1/7d110b245689b574fd514cc39320462b/v1.5/VP-Kamala-Harris-in-Mexico-to-address-illegal-migration-with-Lopez-Obrador.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "VP Kamala Harris’ staff moves to in-person work in July | Charlotte Observer"
     excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
     publishedDateTime: 2021-06-01T17:45:00Z

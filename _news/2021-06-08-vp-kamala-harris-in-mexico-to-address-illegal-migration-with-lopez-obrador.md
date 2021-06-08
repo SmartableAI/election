@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Women and youth a top focus of Kamala Harris' first visit to Mexico as vice president"
-excerpt: "The El Paso Times is choosing to use a pseudonym since she isn't authorized by her work to speak to the press. U.S. Vice President Kamala Harris is in Guatemala today, her first diplomatic visit abroad since assuming her current post. Her next stop is ..."
-publishedDateTime: 2021-06-07T13:13:00Z
-originalUrl: "https://www.statesman.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
-webUrl: "https://www.statesman.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
-ampWebUrl: "https://amp.statesman.com/amp/7569783002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7569783002"
+title: "VP Kamala Harris in Mexico to address illegal migration with Lopez Obrador"
+excerpt: "Vice President Kamala Harris met with Mexican President Andres Manuel Lopez Obrador in Mexico City on Tuesday to discuss immigration policy, part of her first foreign trip since taking office in January."
+publishedDateTime: 2021-06-08T15:48:00Z
+originalUrl: "https://www.upi.com/Top_News/World-News/2021/06/08/mexico-kamala-harris-andres-lopez-obrador/4351623165361/"
+webUrl: "https://www.upi.com/Top_News/World-News/2021/06/08/mexico-kamala-harris-andres-lopez-obrador/4351623165361/"
+ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/06/08/mexico-kamala-harris-andres-lopez-obrador/4351623165361/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/06/08/mexico-kamala-harris-andres-lopez-obrador/4351623165361/"
 type: article
-quality: 68
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/24/PTX1/369c7658-4220-438f-a5b2-04e1016fa226-Vaccination_Juarez1039.JPG?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://cdnph.upi.com/sv/ph/og/upi/4351623165361/2021/1/7d110b245689b574fd514cc39320462b/v1.5/VP-Kamala-Harris-in-Mexico-to-address-illegal-migration-with-Lopez-Obrador.jpg"
+    width: 800
+    height: 534
     isCached: true
 
 related:
@@ -315,22 +315,6 @@ related:
         width: 800
         height: 531
         isCached: true
-  - title: "VP Kamala Harris in Mexico to address illegal migration with Lopez Obrador"
-    excerpt: "Vice President Kamala Harris met with Mexican President Andres Manuel Lopez Obrador in Mexico City on Tuesday to discuss immigration policy, part of her first foreign trip since taking office in January."
-    publishedDateTime: 2021-06-08T15:48:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2021/06/08/mexico-kamala-harris-andres-lopez-obrador/4351623165361/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/06/08/mexico-kamala-harris-andres-lopez-obrador/4351623165361/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/06/08/mexico-kamala-harris-andres-lopez-obrador/4351623165361/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 73
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/4351623165361/2021/1/7d110b245689b574fd514cc39320462b/v1.5/VP-Kamala-Harris-in-Mexico-to-address-illegal-migration-with-Lopez-Obrador.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "VP Kamala Harris’ staff moves to in-person work in July | Charlotte Observer"
     excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
     publishedDateTime: 2021-06-01T17:45:00Z
@@ -392,6 +376,22 @@ related:
     quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/06/USAT/ce7eb9ce-d915-47f0-b7f1-2da297f50042-AP_US_Harris_1.jpg?auto=webp&crop=5322,2994,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Women and youth a top focus of Kamala Harris' first visit to Mexico as vice president"
+    excerpt: "The El Paso Times is choosing to use a pseudonym since she isn't authorized by her work to speak to the press. U.S. Vice President Kamala Harris is in Guatemala today, her first diplomatic visit abroad since assuming her current post. Her next stop is ..."
+    publishedDateTime: 2021-06-07T13:13:00Z
+    webUrl: "https://www.statesman.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
+    ampWebUrl: "https://amp.statesman.com/amp/7569783002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7569783002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/24/PTX1/369c7658-4220-438f-a5b2-04e1016fa226-Vaccination_Juarez1039.JPG?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -569,6 +569,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "jKOhFFY0z5cAfrETuMBVKGtf2RQAifnIQpN7I6bHwjuCiC2q+lFxVcVTAGzflOCaNgGBoQR/id+AsgxBkq2H+HGCWs/RyPYOcXnFR+WEqzuCsPHQSL8lum7VjYuq1/zcjVLz9xAwN2GWUOyxj1pcWVjngv4j9WK9aOAcF0mhbYTRGoKWkJL+09/yYCaVbMPj4ayZp1F34558CpdaiKciYB+CSsBJy1B8DOJxYtvcQr1wPtX9opvrhxEKadMfdXsqVIiddCCfz8y55YCB3SupTEGk7MCE/UtADfNOc+AhLGl4OQHBzzyh8CFnCogEzQ+dge1JGLzxcTrqq+OR6a7V/LIAT6xX1d+nSBRfD5V4lNI=;KvFeSiFlPhMjkHirrdr7qw=="
+secured: "M77YUdLrs8RWVV4pblAo/YZzzQ9JKHnwyVFWQ2wH51gHwu/IDCsRyzUwCsVxrGxZYWy/90zn2mZPB9Kab+DE6jmPNkkz4AQxrjcbm+9eof9hD+1xf+XZFR08p6sqGoG4fShfSS+Lqi2F9Zwk8EXeLwRtIYy9Q1K/vGwr8qEP7mCM/mWjdglhKfuyThRQe5hhOZMjcgmEu6w4tU43trmdZ5k84DLfDAzfroCqpuipFCGrIx8lM1SJ1VE5doihRXuSTSXSwUCA2SMa61DyH86NSQ975ZqcDEpgvYaq/vhHyNeoo6CAv4dzezyQph5XKMvioXl7OrB5ByE2tih73g4l5iGabmZAAZlh61z+DPJy0LU=;V3u2cpvqQ40zpEBO3I3svw=="
 ---
 

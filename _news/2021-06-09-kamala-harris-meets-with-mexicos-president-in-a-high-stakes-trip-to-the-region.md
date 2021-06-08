@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Kamala Harris and a High-Risk, High-Reward Presidential Résumé"
-excerpt: "For the vice president, another run at the Oval Office is a near certainty. How her current responsibilities help or hurt that bid is an open question."
-publishedDateTime: 2021-06-05T09:00:00Z
-originalUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.html"
-webUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.html"
-ampWebUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
+title: "Kamala Harris meets with Mexico’s president in a high-stakes trip to the region."
+excerpt: "While meeting with Mexico’s president, Vice President Kamala Harris will likely discuss a restrictionist policy that the administration has said is necessary to prevent overcrowding in detention facilities."
+publishedDateTime: 2021-06-08T17:07:00Z
+originalUrl: "https://www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.html"
+webUrl: "https://www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.html"
+ampWebUrl: "https://www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.amp.html"
 type: article
-quality: 135
+quality: 130
 heat: -1
 published: false
 
@@ -26,7 +26,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05onpolitics-newsletter/05onpolitics-newsletter-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2021/06/08/world/08new-washington-briefing-harris2/08new-washington-briefing-harris2-facebookJumbo.jpg"
     width: 1050
     height: 550
     isCached: true
@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris and a High-Risk, High-Reward Presidential Résumé"
+    excerpt: "For the vice president, another run at the Oval Office is a near certainty. How her current responsibilities help or hurt that bid is an open question."
+    publishedDateTime: 2021-06-05T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05onpolitics-newsletter/05onpolitics-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "U.S. Aid to Central America Hasn’t Slowed Migration. Can Kamala Harris?"
     excerpt: "A stark reality faces the vice president as she visits the region: Expanding aid programs have failed to stem migration."
     publishedDateTime: 2021-06-06T07:00:00Z
@@ -128,23 +144,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Kamala Harris meets with Mexico’s president in a high-stakes trip to the region."
-    excerpt: "While meeting with Mexico’s president, Vice President Kamala Harris will likely discuss a restrictionist policy that the administration has said is necessary to prevent overcrowding in detention facilities."
-    publishedDateTime: 2021-06-08T17:07:00Z
-    webUrl: "https://www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/08/world/08new-washington-briefing-harris2/08new-washington-briefing-harris2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
-secured: "abs8UtBCwWpMGxhZyaagD1eeLsPEVgCUpLE6VdvL//fLn4kvF9JtChZ6SfrrT9cb8pUj8bTajacidNWOPbYuvnY+JB2nNs+IkD03SZJuQP39T5EdfIu4HvBOXrfzPtC54kM9gyewLFefHgJQ3cgzjYEF2nBiXlNvoVJ1t9pqvu0XV/cerV5NcTqnnWFlfVDH9dCu2KQ5SGmI1Nu/ZMWeWZsOH6Szzrc3I3QzV/OvRJ4a+k2w8DEdKXzmZvJZSNe5SwLVZuFf4MWBhQsifzETd/rD3dFo50Ful6D1/dV9T2GZE18wWFK6yB5XQKcJn1sXi323z0Zb7aZ2pD12/u2f1C6keE0UxCzmpOrdEdQ0+8POmpaHMbioaFW6i4hBjurIPGTCQIflo40ydO2me+dk5tk7Uz47eWunCjq6ju7UrJCwGlwDuo0O+aDyzI88q4bmZrfn6bckASv4lAm8GDiSAJpFagKndx1viyiyB9wZU9xP3pS24LG+T9v3EIjEMgsHanVwiz9cVO/6sML5F9wxWA==;Y8vmebTturFKXrmCdIc3dg=="
+secured: "sIWY8cylCunZBoVHJd0aL7PNzslwcbsk+jFhQE6qgXetII0lgenRNuZ6Qs5ohlKXPbFNbazYbW5lmLlGJNdJGxYlqet8SgnnuljZzae9tsBGCrvZ70cwKuZ4DnytHCeOqE4wit7iNho9EwHBJd0TiNQOZOIt3aKADytKfJCRxCI1Xpv9QQCj6VYptQVtOErBriJfuQLdEleezY7ZFAtWp3BdAsrXKCx2CHw179QSdizEIw6mrnCnQRLxf5n4rnFEDTe994nn3O9uXaJoK/DT2zTlAVTQ13pEohInRAMSELPKrpjLwTpykHXAuRan7mM6z75LZKLtCKtrEupnckduTOEGu4Q2KNx5o+WFdhnW0fI=;NMvLthqpwLfrCUhhWLOBKA=="
 ---
 

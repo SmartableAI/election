@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthda
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210605&i=OVEG4QH27&r=OVEG4QH27&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Republican negotiator expects no infrastructure deal with Biden on Tuesday"
+    excerpt: "The Republican U.S. senator leading her party's talks with President Joe Biden on his sweeping infrastructure proposal said she hopes the two will talk on Tuesday but does not expect a deal to emerge."
+    publishedDateTime: 2021-06-08T14:59:00Z
+    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKCN2DK20N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://www.reuters.com/resizer/N3dUQVC_oZaZI0fUo_wNN0xTY84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ILMZFREJEZLYHDL2VLZJXKJAKU.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "President Joe Biden to attend Memorial Day observance Sunday near New Castle"
     excerpt: "Joe Biden has been a frequent attendee at the Memorial Day observance at War Memorial Plaza near the Delaware Memorial Bridge near New Castle. This year, he'll attend the event as commander in chief."

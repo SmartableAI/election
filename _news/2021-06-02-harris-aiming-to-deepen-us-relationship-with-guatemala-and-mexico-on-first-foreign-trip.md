@@ -128,6 +128,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Kamala Harris meets with Mexico’s president in a high-stakes trip to the region."
+    excerpt: "While meeting with Mexico’s president, Vice President Kamala Harris will likely discuss a restrictionist policy that the administration has said is necessary to prevent overcrowding in detention facilities."
+    publishedDateTime: 2021-06-08T17:07:00Z
+    webUrl: "https://www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/08/world/08new-washington-briefing-harris2/08new-washington-briefing-harris2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "yW4qoIPvgOhAPZ7IxPHmsLQyRLoTb/iJ2Q18AKvMxZ2QnGhicHe2BYakxcvqt/DVsbYdFNqJIRVIJSnVYTboLZRaDH77WtwBTUiullPc9Qfwjy3CoOQRx0ChlW0/ivEmn9AoTFAwWXKsr4+eVW6eLMX75JE+8nWDnPTdgbvX9Dnv8sJNipxR+9C4m4Ungnr9XvgdWWevUnigsUSPu3yqJ1xrmr2srn3gSpXmF+rpftCCh/FCYcWFMocTQtzjs106bfEU3iis8NrOo99Ovh4A3iqnNfgTZQHLppVQXqsrIAWZRA8iechzKkREC66ahydbD6IrxMeb9GMe/s/61IXQc7rtVH05iZbggC5TaH/bXE8=;E1sA2Ju7yHPwJodK2h2+OQ=="
 ---

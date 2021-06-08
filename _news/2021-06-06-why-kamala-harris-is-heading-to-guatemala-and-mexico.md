@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-mexico-immigration/index.html"
 type: article
 quality: 185
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/KamAFP_9BJ4PM.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Kamala Harris meets with Mexico’s president in a high-stakes trip to the region."
+    excerpt: "While meeting with Mexico’s president, Vice President Kamala Harris will likely discuss a restrictionist policy that the administration has said is necessary to prevent overcrowding in detention facilities."
+    publishedDateTime: 2021-06-08T17:07:00Z
+    webUrl: "https://www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/08/world/08new-washington-briefing-harris2/08new-washington-briefing-harris2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "Uj7oOdQC+aJKESjU0cnD9gtjWHJ0ZshuQtKhNH9tCp9jMcwCOG8tmfABhkSu61X65dCye4kiSzT+yZ+UYG2uFJKIGgoh+XSsAyF+iTvNct4cPsiHfBpeycNkJJG/WxOsFL5rs/znkE7I5zctrxmx12pbh/j99f3ucwJaH1Z4sQAr/k1mMdTUJlytxKs8yrzK+xoNfHyp36G0CPunDqzaKrNxqjmoTWItL+wtYFXgfHmBZ6pp7g77Iu25pdfgEvWhzJS7KJp56L434CuLbn1O11QcaDfPfopGWO/g08Bq93yfcYA6/IzsZcTRF99MnHT14VJBuY4PzhTw2HP8j7FprSWYXldML/235ifOxpJZZ2I=;DJVWll3WE5DKUrRszIZJ2w=="

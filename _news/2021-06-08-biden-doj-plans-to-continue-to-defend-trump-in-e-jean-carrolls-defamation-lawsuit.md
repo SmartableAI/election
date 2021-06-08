@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
-excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."
-publishedDateTime: 2021-06-08T11:13:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-justice-department-e-jean-carroll-remarks/"
-webUrl: "https://www.cbsnews.com/news/trump-justice-department-e-jean-carroll-remarks/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-justice-department-e-jean-carroll-remarks/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-justice-department-e-jean-carroll-remarks/"
+title: "Biden DOJ Plans To Continue To Defend Trump In E. Jean Carroll's Defamation Lawsuit"
+excerpt: "The Justice Department simultaneously distanced itself from the allegations Carroll has made that former President Donald Trump sexually assaulted her in the 1990s."
+publishedDateTime: 2021-06-08T15:18:00Z
+originalUrl: "https://www.npr.org/2021/06/08/1004340386/biden-doj-plans-to-continue-to-defend-trump-in-e-jean-carrolls-defamation-lawsui"
+webUrl: "https://www.npr.org/2021/06/08/1004340386/biden-doj-plans-to-continue-to-defend-trump-in-e-jean-carrolls-defamation-lawsui"
 type: article
-quality: 103
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: NPR
+  domain: npr.org
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/27/00b220c7-efcc-4ab4-80ce-259b963ce720/thumbnail/640x456g2/4560b5a2be120c52c53750c611ffdb40/screen-shot-2020-10-27-at-12-04-41-pm.png#"
-    width: 640
-    height: 456
+  - url: "https://media.npr.org/assets/img/2021/06/08/ap_20295746395355_wide-0bac69349f777885aa0bd9a95d46a3faa03dc025.jpg?s=1400"
+    width: 1400
+    height: 787
     isCached: true
 
 related:
@@ -111,20 +109,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden DOJ Plans To Continue To Defend Trump In E. Jean Carroll's Defamation Lawsuit"
-    excerpt: "The Justice Department simultaneously distanced itself from the allegations Carroll has made that former President Donald Trump sexually assaulted her in the 1990s."
-    publishedDateTime: 2021-06-08T15:18:00Z
-    webUrl: "https://www.npr.org/2021/06/08/1004340386/biden-doj-plans-to-continue-to-defend-trump-in-e-jean-carrolls-defamation-lawsui"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 114
-    images:
-      - url: "https://media.npr.org/assets/img/2021/06/08/ap_20295746395355_wide-0bac69349f777885aa0bd9a95d46a3faa03dc025.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Republican leaders say they want to focus on the future, but Trump is far from done with the past"
     excerpt: "Trump’s appearance Saturday in North Carolina illustrates a continued conundrum for the Republican Party: While he remains overwhelmingly popular among the party’s faithful, he potentially poses a problem for the GOP as it looks to win over voters ahead of the 2022 midterms who are wary of his divisive style."
     publishedDateTime: 2021-06-06T22:55:00Z
@@ -165,6 +149,22 @@ related:
       - url: "https://www.reuters.com/resizer/EU-UeRNbl9GNyodkJwyZ7ATzNdk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WAJHWC7A3RLYXI4LPO36KDRE6E.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
+    excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."
+    publishedDateTime: 2021-06-08T11:13:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-justice-department-e-jean-carroll-remarks/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-justice-department-e-jean-carroll-remarks/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-justice-department-e-jean-carroll-remarks/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/27/00b220c7-efcc-4ab4-80ce-259b963ce720/thumbnail/640x456g2/4560b5a2be120c52c53750c611ffdb40/screen-shot-2020-10-27-at-12-04-41-pm.png#"
+        width: 640
+        height: 456
         isCached: true
   - title: "Trump Believes He Can Regain the Presidency This Summer"
     excerpt: "Maggie Haberman and the Washington Post report that Donald Trump has been proclaiming to anybody who would listen that his return to power is imminent. Trump is obsessively following a so-called “audit” in Arizona,"
@@ -240,6 +240,6 @@ related:
       domain: seattletimes.com
     quality: 55
 
-secured: "nYYuHs5vBNNatnQTqfts1ndeSAOLW3M3vZP25GpBWEfNvFo1YLdKZBG2amK8GMgoKDW6dxO9eo8oNuOGdP2D1jpLMhp/EyYLwzi+3FQkYlxtwbmgYduG5pOhI6YO+VqEmc3pY3zC8maF+jAViZfVa8lZmeayIUFjQ8WzzwUfuxDfH6i3mFkrbumN4t0g/nHm9h4o1mxqSy6y6osI7GcN77Nbpj9yLf2KCfYxl/CmryojgTLYCHhvtdHiqsjq+g4aKNntwLG2hGACcYH7roiRIg5IAfJc0gJGxW+DdW7ruFydBPsm0NJNAhVl7HjHbB6JmnEIuw2VwC8Jbqh/FHuFH06iHRxfKY3Uy3f8elPKakVXkKcQ+qAZNtNPJ3ezfBJPtaJTuSN6ZYd+zehR21HKuh9QUobV9Iy7xN/wrPp5UWsCoq/E/yfQ5qhKeKNNLFwVZI1nCe1clfhmKAftY8S0HSE7Q3QRPHoNNFNk+f+iPq71yWWdoql5HtYa8cuw35F3EucRsqFLfW5nRbNjydZlRQ==;81wODgEG8BK6u2wHv15WXg=="
+secured: "OJoCzxbCCYbVRr4hAEz0YE3Ff9EEZ7zvGeVYIIGkoJfJYLAVeg2W5rZQBl1S9qIyhNPwx8uLOkOiWbY7vJgwpQl/PwGTQnOGNyjwwgWcu4EJNhzgJM8fYAjHN2IzKg4pwf77vAgNw6oSy+UJVjK+GSitRVn3MY7SwK0tecQRLQBFqKlSF1Rje9Q3ZFZoV0eEy9Qd2G6SGj0oR4Rb+VNYpx3+e4n85QBWLuye2cbR2DyZDe4eRvnC+64BubSYYzpxu7j3m8egWmttML2Ni06+3I+YLBe2btGEWul7ahvPpNKisL+ACzm1gDNkT+Sunfg6Na346ioZPkfKEGEl8p4O1ggkIt7Xf78EEhQ30gyezDE=;EuwY4VluT5aP6CATtMiTlw=="
 ---
 
