@@ -79,6 +79,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "New Jersey voters to select GOP governor nominee after Trump-filled primary"
+    excerpt: "New Jersey Republicans will select a challenger to Gov. Phil Murphy (D) on Tuesday after a primary that focused on how candidates would prevent future pandemic lockdowns and whether they had done enough to support Donald Trump’s reelection bid."
+    publishedDateTime: 2021-06-08T10:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6YDOV3GH4QI6XANRGR4WY44TV4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Facebook will end special treatment for politicians after Trump ban - report"
     excerpt: "Reported change comes after the Facebook oversight board said that the same rules should apply to all users"
     publishedDateTime: 2021-06-03T21:23:00Z
@@ -210,6 +226,6 @@ related:
       domain: seattletimes.com
     quality: 55
 
-secured: "JQClZ36hwZKm9vEzaq848H9tFaJDgV7KQxPpp/K0e1ofmsHf0WUi7jMndg/hN+aTFWVL8BqPSAWOx9m5ZAE0F4iqZ8dQ9PvqBsCGJCjSXxrV9Dlvdv8IoZBO5qbrHHc4Q6NaDiVhTXQQjacQ0OKex1hfyvFk6Wwe/sym+ar8hLe+UWdgViwEID8WZwLkw7AN1OxUSdT2piPtJ0LcOJDJmVM0YWZVUxIxmiUD7rcXQm/tsRlSRp25OWxC+o1W4WD1Z7jXdANrsI4utg0m3+jjaTwjLHyzE+mQLHpesh33nL/w9Bp58+Al1shXNHtVj6WUXmutlAJvaCWinouF31PatK9iIjc2ixBL1FKa0J4zrUU=;A290kGVa/yUZMtRCe1gspQ=="
+secured: "nYYuHs5vBNNatnQTqfts1ndeSAOLW3M3vZP25GpBWEfNvFo1YLdKZBG2amK8GMgoKDW6dxO9eo8oNuOGdP2D1jpLMhp/EyYLwzi+3FQkYlxtwbmgYduG5pOhI6YO+VqEmc3pY3zC8maF+jAViZfVa8lZmeayIUFjQ8WzzwUfuxDfH6i3mFkrbumN4t0g/nHm9h4o1mxqSy6y6osI7GcN77Nbpj9yLf2KCfYxl/CmryojgTLYCHhvtdHiqsjq+g4aKNntwLG2hGACcYH7roiRIg5IAfJc0gJGxW+DdW7ruFydBPsm0NJNAhVl7HjHbB6JmnEIuw2VwC8Jbqh/FHuFH06iHRxfKY3Uy3f8elPKakVXkKcQ+qAZNtNPJ3ezfBJPtaJTuSN6ZYd+zehR21HKuh9QUobV9Iy7xN/wrPp5UWsCoq/E/yfQ5qhKeKNNLFwVZI1nCe1clfhmKAftY8S0HSE7Q3QRPHoNNFNk+f+iPq71yWWdoql5HtYa8cuw35F3EucRsqFLfW5nRbNjydZlRQ==;81wODgEG8BK6u2wHv15WXg=="
 ---
 

@@ -79,6 +79,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "New Jersey voters to select GOP governor nominee after Trump-filled primary"
+    excerpt: "New Jersey Republicans will select a challenger to Gov. Phil Murphy (D) on Tuesday after a primary that focused on how candidates would prevent future pandemic lockdowns and whether they had done enough to support Donald Trump’s reelection bid."
+    publishedDateTime: 2021-06-08T10:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6YDOV3GH4QI6XANRGR4WY44TV4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Republican leaders say they want to focus on the future, but Trump is far from done with the past"
     excerpt: "Trump’s appearance Saturday in North Carolina illustrates a continued conundrum for the Republican Party: While he remains overwhelmingly popular among the party’s faithful, he potentially poses a problem for the GOP as it looks to win over voters ahead of the 2022 midterms who are wary of his divisive style."
     publishedDateTime: 2021-06-06T22:55:00Z

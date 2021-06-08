@@ -309,7 +309,7 @@ related:
   - title: "Biden Warned as a Court Slaps Down Race-Based Covid Relief"
     excerpt: "As President Joe Biden pursues initiatives he announced last week to help narrow the racial wealth gap, he should heed a late-May reminder from the 6th Circuit U.S. Court of Appeals that preferential treatment based on race is presumptively invalid."
     publishedDateTime: 2021-06-08T11:31:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/08/biden_warned_as_a_court_slaps_down_race-based_covid_relief_544561.html"
+    webUrl: "https://www.realclearpolitics.com/2021/06/08/biden_warned_as_a_court_slaps_down_race-based_covid_relief_544561.html#!"
     type: article
     provider:
       name: RealClearPolitics

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-ja
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980"
 type: article
 quality: 150
-heat: 570
+heat: 590
 published: true
 
 provider:
@@ -223,6 +223,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/76a40b73d7ef25925928c7740d3f555ccdd2b0fa/0_133_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ab622bdaac0dc5d28e44d8d984d982b"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump says he would consider dropping Pence for DeSantis for 2024 election"
+    excerpt: "\"I would certainly consider Ron,\" Trump told Fox Business' Stuart Varney of Florida's governor. \"I was at the beginning of Ron.\""
+    publishedDateTime: 2021-06-08T12:37:00Z
+    webUrl: "https://thegrio.com/2021/06/08/trump-would-consider-dropping-pence-for-desantis-2024/"
+    ampWebUrl: "https://thegrio.com/2021/06/08/trump-would-consider-dropping-pence-for-desantis-2024/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/06/08/trump-would-consider-dropping-pence-for-desantis-2024/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 103
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/06/TrumpRDesantis-scaled.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pence: Trump and I may never see ‘eye to eye’ on events of Jan. 6"
     excerpt: "He tried to turn the events of Jan. 6 back around on Democrats, saying they wanted to keep the insurrection in the news to divert attention from Biden’s liberal agenda."

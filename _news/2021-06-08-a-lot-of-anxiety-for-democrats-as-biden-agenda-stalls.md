@@ -2,11 +2,11 @@
 category: news
 title: "'A lot of anxiety' for Democrats as Biden agenda stalls"
 excerpt: "Six months into the Democrats’ hold on Washington, the party’s progressive wing is growing increasingly restless"
-publishedDateTime: 2021-06-08T04:12:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
-webUrl: "https://abcnews.go.com/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
+publishedDateTime: 2021-06-08T02:50:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/time-ticking-democrats-face-wrenching-test-agenda-78124217"
+webUrl: "https://abcnews.go.com/Politics/wireStory/time-ticking-democrats-face-wrenching-test-agenda-78124217"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/time-ticking-democrats-face-wrenching-test-agenda-78124217"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/time-ticking-democrats-face-wrenching-test-agenda-78124217"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_a67c5b5cf26a448f97c3304222e3e1b6_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_95a5e611a6084e15a0212f4353a3a0f8_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -168,6 +168,6 @@ related:
         height: 433
         isCached: true
 
-secured: "/rbVJDPk4/mtyRpzhvJGHK+ufWkDL9HK62lFx6XFISGLmEY2f9oJABUDMGcETUQghgvYewZMEoSVtjUwrTMzmWEIAlhlrp9KAJdsxS0t4ei1zxOTQhPtywFfLkTb2vF/eAh3qqCLW+xqJxW4nHKBIzVRssaBam32phLTxgIw3cyjSeh/dzllZKE4lMyQ2AmmDuFbkwHje7tJrgboeWdDFdN13CW1dILVm9GHx6XLVqPZqCwhJlDr+UD/0Pxzp9XUiv+oVB9C4DQNV2LG2nJjbEXqvEBi31iBEj1Xvh7qmRzs3doTmAMt+BSiH6TfbGZhE++Q/5gZ/iXzbqZgvA4dWQB1RWYEOCNR2wPorLbnhwY=;RTuPohA+nNL4rjsDHDcuFQ=="
+secured: "mYBTj1GLAQOQ112KU/deAGf9kKx8pknN5aIGFIZrkuKR8tyJSem6dvrZsVOVAJWhKJNwp4Gv3RN8YrynIYEKx8HeYOgrvnl2z92bNXAqvkBbowIRDTdUWeMQhFiWVjK+Op5xXKhpmxuRBIWNbN3ofXr18stZer1F1mAyUyuZwJpQ55F8tegkMBDHFToM+y/vXczT+2y5YDjAuatJ1u6v+bB2Vmhs7FwJiEslf2w5DQfTmYV7rCx8IFQSwU0I0xQ2D23sbdotnJ1WuYr5wNNy45U1gYPVQciXA1Rt8TMAY0mV6xTXc3u8RMb6ibf3C0XvxuAfx7KkSi9FjM1ZEuXXfGdfqnFr/RPWCbwvWIhJFeU=;Cq2ASojtXbHhcoI/r4SQXA=="
 ---
 

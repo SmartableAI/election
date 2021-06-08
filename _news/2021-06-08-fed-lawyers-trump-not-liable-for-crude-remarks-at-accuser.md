@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Fed Lawyers: Trump Not Liable for 'Crude' Remarks at Accuser"
-excerpt: "Justice Department lawyers say Donald Trump cannot be held personally liable for “crude and disrespectful” remarks he made while president about a woman who accused him of rape."
-publishedDateTime: 2021-06-08T03:28:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-07/fed-lawyers-trump-not-liable-for-crude-remarks-at-accuser"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-06-07/fed-lawyers-trump-not-liable-for-crude-remarks-at-accuser"
+title: "Fed lawyers: Trump not liable for 'crude' remarks at accuser"
+excerpt: "Justice Department lawyers say Donald Trump cannot be held personally liable for “crude and disrespectful” remarks he made while president about a woman who accused him of rape"
+publishedDateTime: 2021-06-08T03:17:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/fed-lawyers-trump-liable-crude-remarks-accuser-78143497"
+webUrl: "https://abcnews.go.com/Politics/wireStory/fed-lawyers-trump-liable-crude-remarks-accuser-78143497"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/fed-lawyers-trump-liable-crude-remarks-accuser-78143497"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fed-lawyers-trump-liable-crude-remarks-accuser-78143497"
 type: article
-quality: 35
-heat: 35
-published: false
+quality: 125
+heat: 125
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +24,12 @@ topics:
   - Election
   - Donald Trump
 
-secured: "Y1eYfryc3yzfi174rla9D6/pXy1ptj0rTI+BsaBpDgpR/MmEJx+mvVLy2Nu170tc5bZmzc/UsuYk/+MJB9P/bOcAddzSCPoEYRQxFK9JdKQarjf10roI6/dWgToFXMY0X21cnxa9sQ5XE66yZo2sPpici30kDFi8Bby+owgGgxQWvKUYljCfFnXBCX1Y9Tx6xvNMnt7V8jFdmH2tNT8sCmj1wzyAJpo8FVJi/l3+0Wd5LIvxC1NefQAV+tan8ytAOM6UEFdTkb3IYtUj5Z86ALSuUlC6hdcUBU2bNsBIjyPlChjPPOj00D4nALe1F/e4dMzfSk/xhORuB80bkXN71GQeDFbc0w7yhnDvyktaoldoGAvK0sugsf0ZSeHtmM0xWjJCavvDwz2lDez1y7Uu/HkGnGe1DPQF+kVRRwmebkZ/kZYa5ELgdjZx9NnGg42/lv7KAFEMBnluH1mdituMA5aHUSdz19VL96kzBTgoU1VYF5bkLeYtTy2/U3y+JFQC7PzmjYCpXUubjseozH1xBQ==;GOnUywYvxGf0/x42/sC5OA=="
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_eb5055b71ae747e88789220d4fb0f28f_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+secured: "1dqkQQRCTM03zHnqkDliB1wT43T9/BsTspiNBwsLUtbTyXRLf+h9cAT32KOV49JhhzmIKv/lxccsf9BF9rx58PhOOvUxcQXVBzs6RsPpCVyW4gSFcCOllDjluwK8uRUo9dKWo1BK4g5csmSlHO62GttH4t9yddLA+7M+6V0ywBr2Nnx9CUCPFJMI0HJM7Xqw6k0xWpYF0q3MWfIJmC9LpmafNdpqbhiXb9Aa36ZWv7jZX258TE6+Ve3gr2ukwCLWn9Z4LLpTcP+bd1xxEXuOoH87zBCyw3sXSyThYvQ+HjtPebg4mxjJN3/gVawxYmrZApwSvcVORoF1t/2ZKQMn7XK2eeY05Xp6yOKIew6Iijs=;oZwhcM9Xqer2xVSXT/R9hA=="
 ---
 

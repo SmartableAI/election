@@ -235,6 +235,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump says he would consider dropping Pence for DeSantis for 2024 election"
+    excerpt: "\"I would certainly consider Ron,\" Trump told Fox Business' Stuart Varney of Florida's governor. \"I was at the beginning of Ron.\""
+    publishedDateTime: 2021-06-08T12:37:00Z
+    webUrl: "https://thegrio.com/2021/06/08/trump-would-consider-dropping-pence-for-desantis-2024/"
+    ampWebUrl: "https://thegrio.com/2021/06/08/trump-would-consider-dropping-pence-for-desantis-2024/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/06/08/trump-would-consider-dropping-pence-for-desantis-2024/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 103
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/06/TrumpRDesantis-scaled.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pence: Trump and I may never see ‘eye to eye’ on events of Jan. 6"
     excerpt: "He tried to turn the events of Jan. 6 back around on Democrats, saying they wanted to keep the insurrection in the news to divert attention from Biden’s liberal agenda."
     publishedDateTime: 2021-06-04T01:17:00Z

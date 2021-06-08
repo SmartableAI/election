@@ -92,6 +92,54 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Guatemala protesters display signs telling Harris to 'mind your own business'"
+    excerpt: "During her visit to Guatemala Monday, Vice President Harris was greeted by protesters holding signs pushing the false claim that fomer President Donald Trump won the 2020 presidential election."
+    publishedDateTime: 2021-06-08T12:55:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3x0fUIZVp54/guatemala-protesters-harris-signs-trump-won"
+    ampWebUrl: "https://www.foxnews.com/politics/guatemala-protesters-harris-signs-trump-won.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/guatemala-protesters-harris-signs-trump-won.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Harris falsely claims 'we've been to the border' when pressed on lack of visit"
+    excerpt: "Vice President Kamala Harris falsely claimed that \"we've been to the border\" when pressed on why she has not yet visited the southern border after being tasked by President Biden to handle the \"root causes\" of migration. "
+    publishedDateTime: 2021-06-08T12:57:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uJe5GI4Kox0/harris-false-claim-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-false-claim-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-false-claim-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Harris doubles down on telling migrants not to trek to US amid 'Squad' criticism"
+    excerpt: "Vice President Harris' office Tuesday doubled down on her call for migrants not make the long trek from Central America to the United States amid criticism from some progressives for comments she made Monday telling Guatemalans: \"Do not come.\""
+    publishedDateTime: 2021-06-08T13:44:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y3T83kSfWMA/harris-doubles-down-migrants-not-come-squad-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-doubles-down-migrants-not-come-squad-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-doubles-down-migrants-not-come-squad-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris pays tribute to vets after taking heat for earlier Memorial Day tweet"
     excerpt: "Vice President Harris paid tribute to fallen service members on Sunday after taking heat for a Memorial Day weekend message that neglected to mention veterans."
     publishedDateTime: 2021-05-30T12:41:00Z
