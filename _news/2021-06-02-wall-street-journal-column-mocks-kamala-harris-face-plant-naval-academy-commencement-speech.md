@@ -32,19 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Check out Kamala Harris' Naval Academy graduation punchline: 'Just ask any Marine today...'"
-    excerpt: "Vice President Kamala Harris made a joke about green electricity during her commencement speech at the U.S. Naval Academy in Annapolis Friday."
-    publishedDateTime: 2021-05-28T22:52:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lNyyYiNClTs/kamala-harris-naval-academy-graduation-joke"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-naval-academy-graduation-joke.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-naval-academy-graduation-joke.amp"
+  - title: "AOC calls Harris' immigration comments 'disappointing' as VP warns migrants 'do not come'"
+    excerpt: "New York Democrat Rep. Alexandria Ocasio-Cortez called Vice President Kamala Harris’ comments on immigration “disappointing” on Monday, after Harris said during a press conference that migrants looking to cross the U.S. border should not come."
+    publishedDateTime: 2021-06-08T00:24:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2lIM3vKflrQ/aoc-slams-vp-harris-over-border-comments"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-slams-vp-harris-over-border-comments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-slams-vp-harris-over-border-comments.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 176
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21148533253450.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d9eaeb4-0fac-46cc-8d39-e5d9b16c24a5/942a8b25-2a3a-41c5-9d0d-4ecbbfeb78ec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris' Guatemala comments would've led media to brand her a 'racist' 6 months ago, Gutfeld says"
+    excerpt: "Vice President Kamala Harris issued cautionary remarks directed people who may seek to illegally immigrate to the US through the southern border, which Greg Gutfeld commented that those remarks would be considered racist during the Trump administration on \"The Five\"."
+    publishedDateTime: 2021-06-08T00:27:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00b804f7-55d2-43fd-8325-c596d752f467/6a0dfc8a-4dfe-456b-8ac8-621f5c277501/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

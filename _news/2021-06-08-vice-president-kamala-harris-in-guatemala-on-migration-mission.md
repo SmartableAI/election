@@ -147,6 +147,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
+    excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
+    publishedDateTime: 2021-06-08T01:41:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 95
+    images:
+      - url: "https://www.chicagotribune.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Kamala Harris aims to tackle immigration on her first foreign trip to Guatemala"
     excerpt: "Vice President Kamala Harris is in Guatemala to discuss the underlying causes of U.S. migration on her first foreign trip. Ed O'Keefe reports from Guatemala City."
     publishedDateTime: 2021-06-07T11:59:00Z
@@ -402,21 +418,19 @@ related:
         width: 576
         height: 324
         isCached: true
-  - title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
-    excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
-    publishedDateTime: 2021-06-07T20:58:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+  - title: "Ocasio-Cortez calls out Kamala Harris after speech"
+    excerpt: "Rep. Alexandria Ocasio-Cortez (D-NY) criticized Vice President Kamala Harris' speech in Guatemala where she told potential migrants \"don't come\" to the US."
+    publishedDateTime: 2021-06-08T00:11:00Z
+    webUrl: "https://www.djournal.com/news/national/ocasio-cortez-calls-out-kamala-harris-after-speech/video_54a00669-fb29-56a1-a955-419b09348ed2.html"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 45
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
     images:
-      - url: "https://www.baltimoresun.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
-        width: 1200
-        height: 800
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/4a/54a00669-fb29-56a1-a955-419b09348ed2/60beba0b743f6.image.jpg?crop=1100%2C619%2C0%2C0&resize=1100%2C619&order=crop%2Cresize"
+        width: 1100
+        height: 619
         isCached: true
   - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
     excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
@@ -437,6 +451,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "+jJfkRK9OeKwU3IZvrlsRPN3Ir7kumh+ejnSnTvGAX+AIPrYckH9r4dKxgjnmLdMjZNmmDOpgcww+u0b2ul/Ebi2O8sE8E81/RT1epNnK1zhaU2KRmvb2YbiIjuuSPhRPstuxD6c1gIFiZ2iz6IN8NB5IL3dKjBJyVcRFA9kDmF1R3ijbzH2N2mGnz7xc5nKZjv+tB+avGoq8+p+Mn3DXWiomi9x2oQ+g7OzU4izkhU8wUgn6jZ+iGXMnHVcDo4vec1+Rgfng8u5JugUUwtJjGuXGonqxmBMY48x04peMWejSSaUSNlCURK2imfHiMWG5lXmubyGoSeCp1SHg+cuphKVPsXSlyvpqDZoM1xrIUA=;m9ghYj4vszZf3SQXKFr/Wg=="
+secured: "sr63txWH8uBX2Dn3EQqyU6Nf1rLI7Sz92wxlHqGA8DoWGahw8Xj9Civ3fNs1PLpzBYO8ixo4qwo6/62jEiJmUFmpOL4jp2KX9iBwpsJ/tW6Pb9hKrmc1NXX9Gnp+euJToTTCswm1BeTBbWP7e2LM83kLN5rEq0qonW1BSir+dviulmpAq5m4BPKXMNw0AyNjys5nFQe+YnwO77raboQdtZP1eeBaSxM0HaEUywG2qYM3CVW84/4DQ78pUpPu1X6wSj3ep7CPMdDFKFwG1QaQDDr2io5Msku0QoFLbEnEepp2lmFBqBqE0X+kOXp3Dv6ZaeEu6rzjL8Bsnitfl/MR0LswUY8XFSPLyPR5qNxHhVWp5PbMCK94LJDjzHjCfdKrasWtL2a6mKf7Ni5atfm0ZqTBlLoqp9mz6zU+H0o0jviOfJv8w7a7f24tQiOe6oDPu/2+JYuZxagjOPO7iWbOwRDdG9xIUx2lWOPAXQNrxrPM6DbP3Sc2nKBipck8jsYFOoca8pAagMes1OIib3JQ5Q==;RF3NcwgetjZQGzi8F6OClg=="
 ---
 

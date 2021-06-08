@@ -1,29 +1,27 @@
 ---
 category: news
-title: "VP Kamala Harris’ staff moves to in-person work in July | Charlotte Observer"
-excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
-publishedDateTime: 2021-06-01T17:45:00Z
-originalUrl: "https://www.charlotteobserver.com/news/politics-government/article251817863.html"
-webUrl: "https://www.charlotteobserver.com/news/politics-government/article251817863.html"
-ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article251817863.html"
-cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article251817863.html"
+title: "Ocasio-Cortez calls out Kamala Harris after speech"
+excerpt: "Rep. Alexandria Ocasio-Cortez (D-NY) criticized Vice President Kamala Harris' speech in Guatemala where she told potential migrants \"don't come\" to the US."
+publishedDateTime: 2021-06-08T00:11:00Z
+originalUrl: "https://www.djournal.com/news/national/ocasio-cortez-calls-out-kamala-harris-after-speech/video_54a00669-fb29-56a1-a955-419b09348ed2.html"
+webUrl: "https://www.djournal.com/news/national/ocasio-cortez-calls-out-kamala-harris-after-speech/video_54a00669-fb29-56a1-a955-419b09348ed2.html"
 type: article
-quality: 72
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Charlotte Observer
-  domain: charlotteobserver.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/4a/54a00669-fb29-56a1-a955-419b09348ed2/60beba0b743f6.image.jpg?crop=1100%2C619%2C0%2C0&resize=1100%2C619&order=crop%2Cresize"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -243,6 +241,22 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "VP Kamala Harris’ staff moves to in-person work in July | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
+    publishedDateTime: 2021-06-01T17:45:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article251817863.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article251817863.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article251817863.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Kamala Harris’ staff moves to in-person work in July | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."
     publishedDateTime: 2021-06-01T16:27:00Z
@@ -404,20 +418,6 @@ related:
         width: 576
         height: 324
         isCached: true
-  - title: "Ocasio-Cortez calls out Kamala Harris after speech"
-    excerpt: "Rep. Alexandria Ocasio-Cortez (D-NY) criticized Vice President Kamala Harris' speech in Guatemala where she told potential migrants \"don't come\" to the US."
-    publishedDateTime: 2021-06-08T00:11:00Z
-    webUrl: "https://www.djournal.com/news/national/ocasio-cortez-calls-out-kamala-harris-after-speech/video_54a00669-fb29-56a1-a955-419b09348ed2.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/4a/54a00669-fb29-56a1-a955-419b09348ed2/60beba0b743f6.image.jpg?crop=1100%2C619%2C0%2C0&resize=1100%2C619&order=crop%2Cresize"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Vice President Kamala Harris in Guatemala on migration mission"
     excerpt: "Vice President Kamala Harris was in Guatemala on Monday, her first stop in a mission to work on reducing migration to the US by seeking to improve conditions in Central American countries. And, in Burkina Faso,"
     publishedDateTime: 2021-06-07T19:30:00Z
@@ -451,6 +451,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "SEU3xjWi18HoxFlUF9e6FvrUgxhhBbBPvwCFe7aE6hKpRo+/U27xAgPmZH5F17j2zspVBHo+/1xVlcoSxHUweJv6bwjLjPU/OcCr5Nlhm8lnmrrOBlbtF01hkzvF4E/IxGrCmRmL9dn8sa3xrmYvmzoN6hdhUl9wQTx/kxVquwrmIio0u+E6HJs+5ZEZODgXo/oW9wEUYAqZ5y/s/bzvnlEdaA9kPJnf1vXiMmAZ8UCS1Xc0W8Diw3rftCpwts933dMgh7OB3FQqRY6nr/rPmZRVWykYnUkvhzP6iZDjJH9enAn0oOZSpXL2vTCZrHCbO/L0PfZ3BgpfFYdiFTHKrvsrWQQS4uYbpzZW4rZW0zuOT2hUo+ZiQ8ElYlQHcdRGlTir7lT5bR3R3mHtctMt+bVNPJzXI9oJUCr90dgYzwmOLD58tNVxoJEZhntlUU/k+/noPHrXvzHwVACNuXhcTOFoG3v34xZNGlE7UAZpgjuzmB2j9SvUPMO+sHhCKZZSe96qjRa94+xHsVHqqMgOfw==;xkDU6QBBwzJPQ+wURBNnJQ=="
+secured: "iBpCf3RNq1T7SbptQ6+7ireB/YC6I/ZADwFm4E44oKTfnrou+rIII/2mciZrDK8CiOUPq9ReI0AjTQbbxhJWekUY5hT47eotMSQnbuGE9o7ysh6Q4oCet/+qZgJ6/tdUeSWbxZECn09jMQfGnRduDxe5/nh9vTAipUt9PVYll7KS2L4bKPpAZsB+eUtKsD3kj1Ty0lGBxcFpPRsS3E6AoLxBu1VKm1ISu5JYNg4nlminhRR6o0+4VweTWLpppheL4giW4YnVCqBJg77L+xL12w14DzbR5dwsmiQ3Oj1WKuYyscvTGK7ceHDp/XyKROKzNsTKIcaPt3t2lXWAau8bP1RjDlbb4D85N9O4OCkFmBc=;0rBApzm8JQKVHpPHbycUJg=="
 ---
 

@@ -2,26 +2,30 @@
 category: news
 title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
 excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
-publishedDateTime: 2021-06-07T20:58:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+publishedDateTime: 2021-06-08T01:41:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
 type: article
-quality: 45
+quality: 95
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
+  - url: "https://www.chicagotribune.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -404,6 +408,20 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Ocasio-Cortez calls out Kamala Harris after speech"
+    excerpt: "Rep. Alexandria Ocasio-Cortez (D-NY) criticized Vice President Kamala Harris' speech in Guatemala where she told potential migrants \"don't come\" to the US."
+    publishedDateTime: 2021-06-08T00:11:00Z
+    webUrl: "https://www.djournal.com/news/national/ocasio-cortez-calls-out-kamala-harris-after-speech/video_54a00669-fb29-56a1-a955-419b09348ed2.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/4a/54a00669-fb29-56a1-a955-419b09348ed2/60beba0b743f6.image.jpg?crop=1100%2C619%2C0%2C0&resize=1100%2C619&order=crop%2Cresize"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Vice President Kamala Harris in Guatemala on migration mission"
     excerpt: "Vice President Kamala Harris was in Guatemala on Monday, her first stop in a mission to work on reducing migration to the US by seeking to improve conditions in Central American countries. And, in Burkina Faso,"
     publishedDateTime: 2021-06-07T19:30:00Z
@@ -437,6 +455,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "P17x1AQfOYKciyvs4fkpBwwqj6gx67JGC4xswW8/4ElSsqal7KzAtfAenGahzEjNDHEE5UawyCghsr6UCLBSfzSynm1LqhL9t4V8XNT6Mz/rjvp6TbiTtHzbWrtJFFgSeZtCAcQrihlSpOrTBI9V8fq0zjG7pZI0J9XXG5xGiSVx6kccVkU4Naa5PtUlb/0VopXvXXpmmSJQJY1X1Zma+qMdZ6ubMSC57LkeXRYlToPuhN1C4/VsP/voFCG/AQ1WmVjCMYm2maZazjR/JXLpCKOGU/kWKQ2nWWjQNdWTdCK31BgsWsC+oN176ahDddQQGd3GDvj/sW/FnHZ+3FrDG5vpnzv8yO+O/MZdzST74I75JwBAfbmIfkMVTx9STAjtbVyS2/g263khu1q5E7IMIRuZMdsfJWrm0KjzNNFUfi+WrYZCMH7SwqGUfQKIQrL5BdR3We3y+SlsULCVx596h5ktgvjiIA3yaatxkKMFS3vaSI6kec9to/U1PjCapyeWPs3Alyd7xMyXVlHtdhgHhw==;y8Qod63i4sDA0U1YK/4yCQ=="
+secured: "y8BWosQpYcJDyi/Iq8c4m/njnrW9wvJY9wcamT3/3nlWdifHa9bqom/AXhcr0tuNcI6i6TZsVqRD25oMUmu2jL+t4/TaKE64kVYb/vAuHCj1Dyz6Ax0s0h2d83givfwLUSbRmIkJ+SHzJIT0JII6yYmTWlP4aH8vCvPYctphxuZ52OMhZGANRL2xmAyTdBUesXAGeVaQ59h7sViC4NA4di7yGGCVDk3s5lIc6xKMP4DBxO05fwrn1GskKiwhmkDv92xnJQoWscEaUOT79bWV+miBvR/Tq61zwJmRlyoAMB8IpFJ3rNvX4epCG/bVcRisEBc5wSWFVjhqUW3SNvPYDiC2/a+ENme1qJOIVhex4hk=;qU71Y9/1H5omCVOXFF9lRQ=="
 ---
 
