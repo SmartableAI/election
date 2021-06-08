@@ -3,13 +3,13 @@ category: news
 title: "Donald Trump calls Bitcoin 'a scam against the dollar'"
 excerpt: "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar."
 publishedDateTime: 2021-06-08T01:12:00Z
-originalUrl: "https://www.bbc.com/news/business-57392734.amp"
-webUrl: "https://www.bbc.com/news/business-57392734.amp"
+originalUrl: "https://www.bbc.com/news/business-57392734"
+webUrl: "https://www.bbc.com/news/business-57392734"
 ampWebUrl: "https://www.bbc.com/news/business-57392734.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp"
 type: article
-quality: 125
-heat: 165
+quality: 105
+heat: 125
 published: true
 
 provider:
@@ -24,29 +24,7 @@ topics:
   - Election
   - Donald Trump
 
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BA93/production/_118836774_trump1.jpg"
-    width: 1024
-    height: 576
-    isCached: true
-
 related:
-  - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
-    excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
-    publishedDateTime: 2021-06-03T00:58:00Z
-    webUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
-    ampWebUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Donald Trump to headline high-dollar fundraiser in Dallas for Make America Great Again Action"
     excerpt: "This is a developing story and will be updated. Former President Donald Trump will headline a July 11 fundraiser in Dallas hosted by leaders of the"
     publishedDateTime: 2021-06-04T17:09:00Z
@@ -64,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "UfDXAFR7zRkSdGFn2bnx74QKHRi0utz/tFNQT+NrAAJOlTs3gC9EU3IlAuP6sqad/1jRXT8ibAHKsqGfNZvp5EMGJ+pnS7HObjGgiw2hMTED6xtEJll8b/bU7ZpFCIwCi7CEu4xnJIy1LA+Tl/qNQ8mYIgishSdupXEyjeLePd0LcUtm1qM/MUNKTavDDoBXug6DV39ogrfVs6l5xCovYSKyCwudHfYnALnC+8cXc0A+moRvI9f/nzLPiN3T7Dj74zhbTxF54OaJpuG/nHFsjst4pxEES7OliSsB3UPIPFoESFXHjwbNANs3tQpno7joam/doOcJy8ipf75zxTX2iiKMlwIl4bwrRSGiB/xrtbJxuZLPITqdTLBKMGGOtOI/wKVxfqGHZaGEiWb7hcXTbQnD4BJ1+xbqmyoRg3iWDCuFhEWWga534fj1EgvIU0V67xv/UEqEDOE9u2jh1iSbT2EFv1yCOnAdsb4wu6ZjzNixAZO/a88CnUeoG6wPFmQI1RhFyYIL8GrPEKx2JvOfFw==;0ScT+BFfIpTUAv3LDpCEmw=="
+secured: "WFd137Zwz6bYCXPalNcrW37aOzl3JnEwVCPOI+9vXKbxdCIOYwdR9a+IpnUbvuCUd/uiWM/69Lcwh80rMz8kWgrqtNJUXVdJ1xjfVh7RshhM1nnB2uEGDpmZDx70ma2i25Q5MPvm8+44Vc+9/MUk7NRAwlCdP+fi54PTX9xi+G4OeopaMQ8tq+fLtRclF4PXsHQnAuUVqUTsOfRvGLcUajOOdPFPXVIwhjnfziptTDYZR0eNWucPEPTVHWkbcGfzLtXcZzYLb3+oDsz1oYGRsdjVUrUhgDY8uttZISlpl/k+xBxi3mcxvN1qCJX8WaSoALoTCGmaEUkVjdyqm/yG3WBakn9HCtUF0ir+1/UEW8WDnnTlSfpIMWQuIhoaBl+clYBeT8giabssLLbtpytvKABWC7butYXFz0uYqZVvDKuGFMt3lyfO4KN6EokQNf+JG4oguh0amWNO+GEkb3bKGSBFwFcwxxXVC8PegBu2wCy1PbCyTUm08P/Mxbd7exu+2WUDUQe6dYqhKFfR/zK99A==;32xcjMeEOttmU5hRvo6yEw=="
 ---
 

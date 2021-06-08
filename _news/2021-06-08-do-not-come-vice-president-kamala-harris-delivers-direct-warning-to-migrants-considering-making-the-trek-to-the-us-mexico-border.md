@@ -2,30 +2,26 @@
 category: news
 title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
 excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
-publishedDateTime: 2021-06-08T01:41:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+publishedDateTime: 2021-06-08T02:41:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
 type: article
-quality: 95
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
+  - url: "https://www.baltimoresun.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -125,19 +121,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris to illegal migrants: 'Do not come'"
-    excerpt: "Do not come' Up Next. Statue toppled of 'shameful' school founder. Video, 00:01:25Statue toppled of 'shameful' school founder Sinkhole swallows cars at Israeli hospital. Video, 00:01:09Sinkhole swallows cars at Israeli hospital Train collision leaves dozens dead."
-    publishedDateTime: 2021-06-08T02:02:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-57395101"
+  - title: "Kamala Harris Tells Guatemalans Not To Migrate To The United States"
+    excerpt: "The vice president met with Guatemala's president to talk about the root causes behind migration to the United States, including corruption. But another prominent Democrat called that \"disappointing.\""
+    publishedDateTime: 2021-06-08T02:55:00Z
+    webUrl: "https://www.npr.org/2021/06/07/1004074139/harris-tells-guatemalans-not-to-migrate-to-the-united-states"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
+      name: NPR
+      domain: npr.org
     quality: 105
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9C1B/production/_118836993_p09kvftq.jpg"
-        width: 1024
-        height: 576
+      - url: "https://media.npr.org/assets/img/2021/06/07/ap_21158671061761_wide-c6b25c1c8252d3e62220c77ee466acf4673882d6.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Vice President Kamala Harris discourages would-be migrants in Guatemala"
     excerpt: "Vice President Kamala Harris addressed the crisis at the U.S. southern border while in Guatemala on Monday as part of her first foreign trip. CBS News senior White House and political correspondent Ed O'Keefe joins CBSN's Elaine Quijano to discuss."
@@ -450,6 +446,20 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Kamala Harris to illegal migrants: 'Do not come'"
+    excerpt: "In Guatemala, the vice-president says anyone who comes to the US border illegally will be turned back."
+    publishedDateTime: 2021-06-08T07:20:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-57395101"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9C1B/production/_118836993_p09kvftq.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Ocasio-Cortez calls out Kamala Harris after speech"
     excerpt: "Rep. Alexandria Ocasio-Cortez (D-NY) criticized Vice President Kamala Harris' speech in Guatemala where she told potential migrants \"don't come\" to the US."
     publishedDateTime: 2021-06-08T00:11:00Z
@@ -497,6 +507,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "buPy8yX4Yu5k1CIlJKwV9mRjBluir6gT9Sfr1fC62HOoKuRkArB3XFf6JMj5WCHVTCh8KouSNcJ/VQltT7Oq91jGpo3InYk1n1P3855HC6x1eYlL2j6kKsNdKCkVsdlSJiccmk+MCRqSebkyTGlCOzoL7avnX+e2SYJO4GigoCcGiWobauzPG2epr/xzGxBr7PvAtDuocOscqDkaMzW7ltSJV1gk8HcnPm0aJkzKHgA2nIBMMXNzNuXszShPsJh9d1BUKPiBWBQZc47Cab3TDnkGb5ujEPeGTnWA4YU4ZOXWRFTrv3dJBOjFyyQMNXzxEMifeC3j1VZIDXuFUiUKlAA9kwBWNb/pi7lUw7HDdiA=;CeJwQN4uCbec0Py5uWa7hQ=="
+secured: "dZwQsGV2o1MLjkyDvCAnXdblspJEBgbn1Ypp3YCH25/qMcNNeAuYykH+OeOwc6FwLj4RUYb8w2mCTp6lnXvLbENOqYWavDRoQ9bN0k1iQDnWAjNUoXDMLbdZBMimsg2IELH3bFpX/erkS2skCRaopQKRxIZ9KCJTSEzxMd/RieJbvbzc9RWYvJZFy/R9B80jvQ9oFOUx9UsesjXEpYzNNxkj3K5SSHmP05cxwYZHYqz2p9pIJ197ALJc5qNaZy44Dy0BlJdYzSxjZfpzJI2ypMJVeM6mUcKCp+MQLM/nnrsZcXh0c7K15vHidqebwHa//5vnnSwsSeHPDllysyM5C25zcRK+F9MYVQMotrI5llY=;TVKuO1r72SYUHpPI0j9scA=="
 ---
 

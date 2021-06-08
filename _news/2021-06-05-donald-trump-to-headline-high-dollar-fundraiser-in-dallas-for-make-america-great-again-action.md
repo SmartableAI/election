@@ -30,35 +30,14 @@ related:
   - title: "Donald Trump calls Bitcoin 'a scam against the dollar'"
     excerpt: "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar."
     publishedDateTime: 2021-06-08T01:12:00Z
-    webUrl: "https://www.bbc.com/news/business-57392734.amp"
+    webUrl: "https://www.bbc.com/news/business-57392734"
     ampWebUrl: "https://www.bbc.com/news/business-57392734.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp"
     type: article
     provider:
       name: BBC
       domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BA93/production/_118836774_trump1.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
-    excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
-    publishedDateTime: 2021-06-03T00:58:00Z
-    webUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
-    ampWebUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
+    quality: 105
 
 secured: "i0J4nZJNsZsKx+XVd9HgU7x1gz+qC65h9eB3oOeZ+MZgBfw9TEsCOi3TinpBtLK2aLG4kKqbCyx7YXrCNQY6aqL/n/kBq9lFUA4hCqECqTXPN7PjZyk5pPWIe8RA5mhMy5EVbPqT4//7LIp9Ef0nF3+abIbPdKfBWcaF5aBPdStXQ7bJH2Aiqsrff2Vw3l8sSPpqE4vsbMahj5LeCx6ub3c+saJ0TIfM3SdLlOlCJlGoWXhwDQUIsch+UfD129GwqiPzTifU+BnNqpaQL9zd2+ho8FUhf/tVxsypk6QF1xi81TacqP2C1lGTnSc19SLZw9rliWvNd7FqEv6jSyUuRfteINRLTWdzJ/y48kx6mzg=;oHN8QpwokxaE35kHvhj8aA=="
 ---

@@ -1,24 +1,32 @@
 ---
 category: news
-title: "Kamala Harris and a High-Risk, High-Reward Presidential Resume"
-excerpt: "Is Kamala Harris drawing the shortest straws in the White House? This week, President Joe Biden announced that Harris would lead the administration’s effort to protect voting rights, a task he immediately said would “take a hell of a"
-publishedDateTime: 2021-06-06T21:49:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/kamala-harris-and-a-high-risk-high-reward-presidential-resume/"
-webUrl: "https://www.seattletimes.com/nation-world/kamala-harris-and-a-high-risk-high-reward-presidential-resume/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/kamala-harris-and-a-high-risk-high-reward-presidential-resume/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/kamala-harris-and-a-high-risk-high-reward-presidential-resume/?amp=1"
+title: "Kamala Harris Tells Guatemalans Not To Migrate To The United States"
+excerpt: "The vice president met with Guatemala's president to talk about the root causes behind migration to the United States, including corruption. But another prominent Democrat called that \"disappointing.\""
+publishedDateTime: 2021-06-08T02:55:00Z
+originalUrl: "https://www.npr.org/2021/06/07/1004074139/harris-tells-guatemalans-not-to-migrate-to-the-united-states"
+webUrl: "https://www.npr.org/2021/06/07/1004074139/harris-tells-guatemalans-not-to-migrate-to-the-united-states"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: NPR
+  domain: npr.org
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://media.npr.org/assets/img/2021/06/07/ap_21158671061761_wide-c6b25c1c8252d3e62220c77ee466acf4673882d6.jpg?s=1400"
+    width: 1400
+    height: 787
+    isCached: true
 
 related:
   - title: "Protesters in Guatemala Meet Kamala Harris With 'Trump Won' Signs"
@@ -114,20 +122,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/07/46bd0208-92d3-4d31-ba60-f4bd1f7e932f/thumbnail/1200x630/14da784aa27faf0d8cf6a502ff78a69e/cbsn-fusion-kamala-harris-guatemala-president-thumbnail-730040-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Kamala Harris Tells Guatemalans Not To Migrate To The United States"
-    excerpt: "The vice president met with Guatemala's president to talk about the root causes behind migration to the United States, including corruption. But another prominent Democrat called that \"disappointing.\""
-    publishedDateTime: 2021-06-08T02:55:00Z
-    webUrl: "https://www.npr.org/2021/06/07/1004074139/harris-tells-guatemalans-not-to-migrate-to-the-united-states"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2021/06/07/ap_21158671061761_wide-c6b25c1c8252d3e62220c77ee466acf4673882d6.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
   - title: "Vice President Kamala Harris discourages would-be migrants in Guatemala"
     excerpt: "Vice President Kamala Harris addressed the crisis at the U.S. southern border while in Guatemala on Monday as part of her first foreign trip. CBS News senior White House and political correspondent Ed O'Keefe joins CBSN's Elaine Quijano to discuss."
@@ -415,6 +409,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Kamala Harris and a High-Risk, High-Reward Presidential Resume"
+    excerpt: "Is Kamala Harris drawing the shortest straws in the White House? This week, President Joe Biden announced that Harris would lead the administration’s effort to protect voting rights, a task he immediately said would “take a hell of a"
+    publishedDateTime: 2021-06-06T21:49:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/kamala-harris-and-a-high-risk-high-reward-presidential-resume/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/kamala-harris-and-a-high-risk-high-reward-presidential-resume/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/kamala-harris-and-a-high-risk-high-reward-presidential-resume/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "Kamala Harris' plane returns to air base after technical issue"
     excerpt: "Vice President Kamala Harris was on her way to Guatemala when her plane returned to Joint Base Andrews due to a \"technical issue,\" according to a spokesperson. CNN's Joe Johns"
     publishedDateTime: 2021-06-06T19:37:00Z
@@ -506,6 +511,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "LUjKm5u1/E1VUWcrYy4VeYyT90/wmTKuLpk9MBzCfNcyv+O3IyTlH2ySt1HUomiiDEMLORn7MA9YeRld+HSq53yEyyEhtPmaHwag2zdJoQQHVtqNz6aWanSVqUSJVT6Bn4n9gb1/f5rjZlWvKeOqs+U/HgpLBtil4qsPtV6lTuYGjKzWI5Mpc93/YnTTpc5QZWx1HCVIBy1zkInk8RMR4YXKyGbEvrFNaSbz/WkLldS+I7nk/uYQb6WKrZwN8OgcWp1qej8H1PpDbUdcnOy8hH7IPjLVFB+aB+ldMCDSdwIdQizptC4nkxKbsdaT3sTklXWtUqMgN/oeiUXIHIz4ig9Zfp8JWBRTKSHU7jvQJMhw+mPOAmKdNHjlCrMGzqz9/r1ND7U1i32PVkisEK2ouRFGA9qi2OJL9j4BcbRAqH/yJ6T1e2Bchx6Kz9gRM7yMC+AFBMlTc/MiTRP8uHKEsWb9S3UvVo8u1/A3el7cFHHcIEYAAHyPdmI0b5GbNC/RqshEtaDOrvaZ85YDZK4qBg==;IzroznAN7DlK5QMuJgE0AA=="
+secured: "1uFIlwv2gzka+dq9/wurh2jvGyUqovNcFqqDYxhHjbk5gW6fcWFGR82LRDgxxdigd6QDbdTAknQJX9L7+JCsxctTOVlln7KrMG6kxE7CRltq1hLpWmYww42BYdyP99TzefLOBFfn7WYXePDaIkF4y+jbobZKHTXVXdkFBdOxGAfvZhuqNXByUX2ytjQmTwNZrUz/Urv66d23BLteYEXEZNTia3n7h2IJQLwxAQiVAQOSOl9+MIcWeGxaRkMVso010VZQQCBE7rnU3UCvtHhrsLgrDbppaCOp+0XGPPmkYRcZctSUNhmP5clu+eEnyNGQC8aYBIFIk+xlQYZU8sWjYoKAw6P3tKNtAbh5U8ePOCc=;9giMj0C0ixOksJFUXrlgDQ=="
 ---
 

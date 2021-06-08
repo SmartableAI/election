@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Kamala Harris to illegal migrants: 'Do not come'"
-excerpt: "Do not come' Up Next. Statue toppled of 'shameful' school founder. Video, 00:01:25Statue toppled of 'shameful' school founder Sinkhole swallows cars at Israeli hospital. Video, 00:01:09Sinkhole swallows cars at Israeli hospital Train collision leaves dozens dead."
-publishedDateTime: 2021-06-08T02:02:00Z
-originalUrl: "https://www.bbc.com/news/av/world-us-canada-57395101"
-webUrl: "https://www.bbc.com/news/av/world-us-canada-57395101"
+excerpt: "In Guatemala, the vice-president says anyone who comes to the US border illegally will be turned back."
+publishedDateTime: 2021-06-08T07:20:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/world-us-canada-57395101"
+webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-57395101"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -123,6 +119,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris Tells Guatemalans Not To Migrate To The United States"
+    excerpt: "The vice president met with Guatemala's president to talk about the root causes behind migration to the United States, including corruption. But another prominent Democrat called that \"disappointing.\""
+    publishedDateTime: 2021-06-08T02:55:00Z
+    webUrl: "https://www.npr.org/2021/06/07/1004074139/harris-tells-guatemalans-not-to-migrate-to-the-united-states"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/06/07/ap_21158671061761_wide-c6b25c1c8252d3e62220c77ee466acf4673882d6.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Vice President Kamala Harris discourages would-be migrants in Guatemala"
     excerpt: "Vice President Kamala Harris addressed the crisis at the U.S. southern border while in Guatemala on Monday as part of her first foreign trip. CBS News senior White House and political correspondent Ed O'Keefe joins CBSN's Elaine Quijano to discuss."
     publishedDateTime: 2021-06-08T01:33:00Z
@@ -178,22 +188,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/07/1c3c8c32-4472-4cef-8931-c784a1de93bc/thumbnail/1200x630/c097c4efb1c5eea17efaf39021b6ec6b/0607-cbsnam-harrisguatemala-729962-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
-    excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
-    publishedDateTime: 2021-06-08T01:41:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 95
-    images:
-      - url: "https://www.chicagotribune.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Vice President Kamala Harris aims to tackle immigration on her first foreign trip to Guatemala"
     excerpt: "Vice President Kamala Harris is in Guatemala to discuss the underlying causes of U.S. migration on her first foreign trip. Ed O'Keefe reports from Guatemala City."
@@ -478,6 +472,22 @@ related:
         width: 401
         height: 226
         isCached: true
+  - title: "‘Do not come’: Vice President Kamala Harris delivers direct warning to migrants considering making the trek to the US-Mexico border"
+    excerpt: "Vice President Kamala Harris offered an optimistic outlook for improved cooperation with Guatemala on addressing the spike in migration to the U.S."
+    publishedDateTime: 2021-06-08T02:41:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-guatemala-migrants-do-not-come-20210607-5df32p2rcjdq5o374wx7vjvcfy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 45
+    images:
+      - url: "https://www.baltimoresun.com/resizer/qHn4rvnakq8t9qxQ6FSeEpPRM1I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/V7IC2ZNOPAM2WYLRGFDRIU6PMQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
     excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
     publishedDateTime: 2021-04-20T23:17:00Z
@@ -497,6 +507,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "uxRKyCh6rhAnOMcjuq3xa7WQsddLnHJpKNg4LhYeUnJyruSw2bXJiaMdz+I5GKKB/VIq7U4bdQiweTr6WppLtvk3eAs4hM2qoQ/FSFvop8zhmRQ6cAsmcSbt6EIc0ashfCg/S6p6ZudGcg7aqRD3jZ8vdRJx1S8c+qjpkeexu6sLCSJhIEpfwGNAmdZoJxD7IPzHsq3WhksRNjnfBPR+vUDl5IGAskI9pXP4lsx3fxTXNmo7GSgmCrSeOGKKX4kZeYkwjCRNE/xx2hhRUh0XE3JTsOA4HZL6aUf7dUoCBtcaR+QCKuVZB3zASziRiS1wJcIkgIwjCwsNlzURt01jTkBaAiPpNefIUQOL4JvVIQo6nRdKE5+VEWqHjnsGFezS+HRXPK7REITcflyGQGB6IFcj+z2rkWOoSXHGWw0Sp5yjdVuBvMLTV6qo0XRB7ZJVYtA8edqHhnJIuqzWFuLOXMyH5sivbI4H+Pg0hoCrUjJM1MYWEn4fx6S2z7EIr4qMzNtaJu1QCFb3ZQuy1sslmQ==;DygyRGHw6Iv0U5om1/6VYw=="
+secured: "4izGm79V2bycw8D0c9yPdrA9tmdUxUzhEp4KeXNfzEbsrgRmuTZvt7EZJpK2jT1dZt6KZMxMtW37M3FE/6m0YYHdsPTHwBY2USW3dBIGmhCQL7bDTdQfdVnjlJ9nX6/Dc7EoEKxondYA5E0MPF8rTj8R0OOqS+U6V5zTmcCv2IAbzAz6nLNRP/rstqL3+Sd8J9tk5oNfJNHU/V68LbsOktiMWXqd/UIFKx3FKR8emx1t0bLnr2ukijHMTzQOaul6DwY19db5kNesmcPcZD7a51K25NjgyCpK0nKWyuKEaNBbb6TNp1Cp+frDO/35cdjFAil9B6pi/nitpWtZE7hq08sZe33P2PefD7cMxbhi7dc=;0iMz/kjl5uwpUPREVPh4gw=="
 ---
 

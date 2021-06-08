@@ -46,6 +46,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Justice Department to Defend Trump in Lawsuit Over Rape Claim"
+    excerpt: "Journalist E. Jean Carroll sued the former president for defamation after he denied raping her in the 1990s."
+    publishedDateTime: 2021-06-08T04:26:00Z
+    webUrl: "https://www.wsj.com/articles/justice-department-to-defend-trump-in-lawsuit-over-rape-claim-11623129987"
+    ampWebUrl: "https://www.wsj.com/amp/articles/justice-department-to-defend-trump-in-lawsuit-over-rape-claim-11623129987"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/justice-department-to-defend-trump-in-lawsuit-over-rape-claim-11623129987"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-350268/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "Sp5xLG1DVHuPHTKkzhqJa2oOuDVYFm1PIKVTFgoRQwoYWEFBxgEWZwZCCWwNeK9kbCtbDyJNIHVbg9qSRDXbwFj0DB6xAeLEB4o+Lys3nqe57Rebodh1mWxTJ3Qth2qDxdMqqpuezrfH9M/IpxClGDbmIupvPTgw1k1xmHAFAZjpPKqkegLG5B6HEuJLN3aHaxygxlnbbLrl3KSX3ez3JYk1HM2udgRq1CcrAbSVHm7pjjNSIfOWvdsdPpUWCMZ4W05t9ZHg3v3+fWCwTRoKsPIr1q8RTGJ8YJF0eOHo2jasOrczhOqRBYeCxKwvfvT6U14pO5LxjCduEpuG0WODGjeidGWea9lwVmC1+kA0yYqV0k2XMkE0cpS/hPZIg0OAm6Y8qqJiiyvSlv4RmCpN8jV5K77H9sppR/EWBWaM5hiFwaRX8ehM+ZGrfnu7gX8i1g1YQas7iJOCFtPSf2o0GYX07MLlTrTCWd4TWkXUP8l1kAiki9Of59Xtq94x/Lcrm6gyw1IXFICuPS4B1rOEyg==;nGmxHB4p796GecLkrg4aqQ=="
 ---
