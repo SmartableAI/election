@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden task force prepares to reunite 29 migrant families separated at border under Trump"
+    excerpt: "The Biden administration is preparing to reunite 29 migrant families who were separated at the US-Mexico border under then-President Donald Trump's controversial \"zero tolerance\" immigration policy, according to a newly released report.\n    \n"
+    publishedDateTime: 2021-06-08T11:00:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iKCqBybQjP0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/family-separation-biden-task-force-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/family-separation-biden-task-force-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190821121231-01-cbp-migrant-family-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration plans to speed up court cases for migrant families"
     excerpt: "The Biden administration plans to speed up court cases for recently arrived migrant families who are seeking asylum, the Department of Homeland Security announced Friday.\n    \n"
     publishedDateTime: 2021-05-28T14:58:03Z

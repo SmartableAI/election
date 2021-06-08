@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480531/210604-joe-biden-ac-742p.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "More than 2,100 children separated at border 'have not yet been reunified,' Biden task force says"
+    excerpt: "More than 2,100 children separated at the border by Trump administration’s “zero tolerance” program “have not yet been reunified” with their parents, according to the task force working to reunite the families."
+    publishedDateTime: 2021-06-08T11:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/more-2-100-children-separated-border-have-not-yet-been-n1269918"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269918"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269918"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3481098/210608-border-children-mc-1111.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "ytKLdH/VMAH9NoYvTtS8vFHrMyJrqLuZxWoXxPIDfEIe97Y87Z7YZy3XADEkqvgU5XnTYwBsF5UTaK+ySA97FY+6gGxgLrtvrpZoVY1J38XEsUc23eAPJMhPWRs7W45Nnz9FSCO1XMRtFN+4dEyzYvX14pEu+/xu+UV1stonMvCbyRmz9LftO8L40F03JBRL/LqcbHqHx+SYWVgG2y0Eixz/8EyQ672OhgYT5Nq485cjiHNkYguNhWPXIo5JbpBoE8tC6Rn55ZckzJeuQwtXYr93CD78QoiEPfBZZubVHpn0OnDU6CRP9N2U7y4JKZzipDFRof0IkivH+aQ0gFLaVlKupWcbRVgpvInf/QhPlC4=;KduOCF41D9DubIl3oEyeGg=="

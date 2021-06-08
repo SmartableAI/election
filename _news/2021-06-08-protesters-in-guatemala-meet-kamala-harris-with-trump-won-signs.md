@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-tru
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1"
 type: article
 quality: 140
-heat: 800
+heat: 820
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/XEP7DeqoJKwujD5O3LaMf_lrGGw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/M3GSUD6GWY6XRPWDLTTJWDLHGE.jpg"
         width: 1200
         height: 832
+        isCached: true
+  - title: "Kamala Harris tells Guatemala migrants: 'Do not come to US'"
+    excerpt: "US Vice President Kamala Harris has urged would-be migrants in Guatemala not to try to enter the United States illegally. Speaking on her first overseas trip since taking office, she said the journey north was dangerous and would mainly benefit people smugglers."
+    publishedDateTime: 2021-06-08T01:18:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57387350?at_custom1=%5Bpost+type%5D&at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=5A5FA78C-C7FD-11EB-AD25-ABB34744363C"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57387350.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57387350.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10C37/production/_118836686_067888160.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Vice President Kamala Harris’ plane forced to return due to technical problem"
     excerpt: "A technical problem that involved \"no immediate safety issue\" forced Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."

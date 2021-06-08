@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama and Trump intensify their battle over democracy"
+    excerpt: "Most presidents stop trying to define the nation's future once they leave office. But Barack Obama and Donald Trump are refusing to concede the battle for America's soul on which they first clashed more than a decade ago.\n    \n"
+    publishedDateTime: 2021-06-08T09:46:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUoVuD5f5Qg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/barack-obama-donald-trump-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/barack-obama-donald-trump-democracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200218073745-obama-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New York Times: Trump's chief of staff Mark Meadows pushed DOJ to investigate baseless election fraud claims"
     excerpt: "Mark Meadow, former President Donald Trump's White House chief of staff, pushed the Department of Justice in his boss' last days in office to investigate unproven conspiracy theories and fraud claims about the 2020 presidential election, the New York Times reported Saturday.\n    \n"
     publishedDateTime: 2021-06-05T18:49:57Z

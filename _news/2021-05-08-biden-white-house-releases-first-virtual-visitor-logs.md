@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-first-virtual-vis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp"
 type: article
 quality: 175
-heat: 915
+heat: 935
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/741fc8a7-a423-4c76-a18a-6c409ccbda4e/9a58cddf-753e-4d08-834a-211625a6cc82/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden White House powered by family connections"
+    excerpt: "White House press secretary Jen Psaki, Secretary of State Antony Blinken, National Security Adviser Jake Sullivan, senior adviser Anita Dunn, White House counselor Steve Richetti, deputy chief of staff Bruce Reed and Presidential Personnel Office Director Cathy Russell each have at least one direct family"
+    publishedDateTime: 2021-06-08T10:03:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NSJPTyuBCkc/biden-white-house-family-members-psaki-sullivan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-family-members-psaki-sullivan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-family-members-psaki-sullivan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad8cee42-560c-45e5-81a1-4caa19116439/a14c9b64-5a8f-467d-a060-ec6795af2393/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -3,13 +3,13 @@ category: news
 title: "Donald Trump calls Bitcoin 'a scam against the dollar'"
 excerpt: "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar."
 publishedDateTime: 2021-06-08T01:12:00Z
-originalUrl: "https://www.bbc.com/news/business-57392734"
-webUrl: "https://www.bbc.com/news/business-57392734"
+originalUrl: "https://www.bbc.com/news/business-57392734.amp"
+webUrl: "https://www.bbc.com/news/business-57392734.amp"
 ampWebUrl: "https://www.bbc.com/news/business-57392734.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp"
 type: article
-quality: 105
-heat: 125
+quality: 125
+heat: 185
 published: true
 
 provider:
@@ -24,7 +24,45 @@ topics:
   - Election
   - Donald Trump
 
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BA93/production/_118836774_trump1.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
 related:
+  - title: "First Thing: ‘Teflon Don no more’ as legal threats mount against Trump"
+    excerpt: "Former president faces increasingly serious legal issues as he teases a 2024 run. Plus, how cicada-phobes are surviving Brood X"
+    publishedDateTime: 2021-06-08T08:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/07bee087791bd38b55d1955b5f487d8c24217a92/0_105_2404_1443/master/2404.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f52110a3c1d23a5f659f64d8bd43a54e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
+    excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
+    publishedDateTime: 2021-06-03T00:58:00Z
+    webUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
+    ampWebUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Donald Trump to headline high-dollar fundraiser in Dallas for Make America Great Again Action"
     excerpt: "This is a developing story and will be updated. Former President Donald Trump will headline a July 11 fundraiser in Dallas hosted by leaders of the"
     publishedDateTime: 2021-06-04T17:09:00Z
@@ -42,6 +80,6 @@ related:
         height: 630
         isCached: true
 
-secured: "WFd137Zwz6bYCXPalNcrW37aOzl3JnEwVCPOI+9vXKbxdCIOYwdR9a+IpnUbvuCUd/uiWM/69Lcwh80rMz8kWgrqtNJUXVdJ1xjfVh7RshhM1nnB2uEGDpmZDx70ma2i25Q5MPvm8+44Vc+9/MUk7NRAwlCdP+fi54PTX9xi+G4OeopaMQ8tq+fLtRclF4PXsHQnAuUVqUTsOfRvGLcUajOOdPFPXVIwhjnfziptTDYZR0eNWucPEPTVHWkbcGfzLtXcZzYLb3+oDsz1oYGRsdjVUrUhgDY8uttZISlpl/k+xBxi3mcxvN1qCJX8WaSoALoTCGmaEUkVjdyqm/yG3WBakn9HCtUF0ir+1/UEW8WDnnTlSfpIMWQuIhoaBl+clYBeT8giabssLLbtpytvKABWC7butYXFz0uYqZVvDKuGFMt3lyfO4KN6EokQNf+JG4oguh0amWNO+GEkb3bKGSBFwFcwxxXVC8PegBu2wCy1PbCyTUm08P/Mxbd7exu+2WUDUQe6dYqhKFfR/zK99A==;32xcjMeEOttmU5hRvo6yEw=="
+secured: "uCDzyBLfi4Fjh97EsgrE8Hck/JncX1N0fiTOlwS8h8sb4Z8wMlghgVJlAPgyZ2zHxAC89en1Os1TzBX+7J5aobH0c3K0dgj4mtFHOzafYUUkzf2rqMaeqitBSUmP8l8CWu3Z0bTjjH7dEgQgaLdDlDhpkLDiuLn5VWtDOLXpA7kEJyXsbaW7Wjq2Ri2dexlIP5bVV5Pmo3WrhS0djmN754VtEK/EK9v9O4wOlZ0aw3ucOdDmbusb7YpHGY8jVyIZf0eyjuUzFZGNgRG/ftNHfbvxUa5n/whJaSx8eiElzXw3PQuna9srAl6MovzjOY9dGjOarWvmRahcJTd8jhW5CXVMuawUziOcJ9zmFtbK9XM=;aHiZASwpj4cnM5JHH0X2cw=="
 ---
 

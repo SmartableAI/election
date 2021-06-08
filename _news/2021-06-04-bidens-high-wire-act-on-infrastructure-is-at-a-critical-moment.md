@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden task force prepares to reunite 29 migrant families separated at border under Trump"
+    excerpt: "The Biden administration is preparing to reunite 29 migrant families who were separated at the US-Mexico border under then-President Donald Trump's controversial \"zero tolerance\" immigration policy, according to a newly released report.\n    \n"
+    publishedDateTime: 2021-06-08T11:00:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iKCqBybQjP0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/family-separation-biden-task-force-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/family-separation-biden-task-force-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190821121231-01-cbp-migrant-family-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House Democrats are still pursuing Trump's tax returns but Biden administration may not play ball"
     excerpt: "After notching recent wins in their long hunt for material to help bring legal accountability to former President Donald Trump, congressional Democrats fear the Biden administration won't be helpful when it comes to obtaining the documents they covet the most: Trump's tax returns.\n    \n"
     publishedDateTime: 2021-06-01T10:17:59Z

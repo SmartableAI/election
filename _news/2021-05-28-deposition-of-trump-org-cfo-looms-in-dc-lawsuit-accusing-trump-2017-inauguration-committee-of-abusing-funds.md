@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama and Trump intensify their battle over democracy"
+    excerpt: "Most presidents stop trying to define the nation's future once they leave office. But Barack Obama and Donald Trump are refusing to concede the battle for America's soul on which they first clashed more than a decade ago.\n    \n"
+    publishedDateTime: 2021-06-08T09:46:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUoVuD5f5Qg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/barack-obama-donald-trump-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/barack-obama-donald-trump-democracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200218073745-obama-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Stormy Daniels says she would 'love' to testify in Trump Organization probe"
     excerpt: "Stormy Daniels said Monday that she has not yet testified in a New York criminal probe into the Trump Organization but that she would \"love nothing more than\" to be interviewed by prosecutors investigating former President Donald Trump's sprawling company.\n    \n"
     publishedDateTime: 2021-06-07T20:02:01Z

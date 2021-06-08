@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate report reveals new details about security failures ahead of January 6 attack but omits Trump's role"
+    excerpt: "A new Senate report reveals previously unknown details about the stunning security breakdowns ahead of the January 6 US Capitol attack, adding an authoritative emphasis to previous evidence that there were massive intelligence failures, critical miscommunications, and unheeded warnings that ultimately"
+    publishedDateTime: 2021-06-08T11:12:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZF8wwb1P4Pk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/us-capitol-riot-senate-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/us-capitol-riot-senate-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131171546-capitol-riots-fbi-tips-family-friends-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence calls Jan. 6 a 'dark day,' says he may never see 'eye to eye' with Trump over it"
     excerpt: "\"But I will always be proud of what we accomplished for the American people,\" the former vice president said in a speech in New Hampshire."
     publishedDateTime: 2021-06-04T03:12:00Z

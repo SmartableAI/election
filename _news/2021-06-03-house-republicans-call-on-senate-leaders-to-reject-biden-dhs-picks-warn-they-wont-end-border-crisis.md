@@ -237,6 +237,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration threatens Texas with legal action over migrant detention facility closures"
+    excerpt: "The Biden administration threatened Monday to pursue legal action if Texas Gov. Greg Abbott doesn't rescind his order shutting down federally funded shelters that house migrant children who cross the U.S.-Mexico border without their parents."
+    publishedDateTime: 2021-06-08T10:49:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qJLj2R4uKfQ/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad8cee42-560c-45e5-81a1-4caa19116439/a14c9b64-5a8f-467d-a060-ec6795af2393/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "DHS, southern border states face economic hurdle as Biden admin stays mum on lifting travel restrictions"
     excerpt: "President Biden has been silent on when he will reopen the border, which has been closed throughout the COVID-19 pandemic."
     publishedDateTime: 2021-06-03T14:32:24Z
@@ -285,6 +301,24 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden Needs to Make China Pay for Actions Over Covid"
+    excerpt: "President Joe Biden flies across the pond Wednesday to meet European leaders. He says the goal is to deliver real results on critical issues such as climate change and cybersecurity. Yet the"
+    publishedDateTime: 2021-06-08T11:21:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/08/biden_needs_to_make_china_pay_for_actions_over_covid_544550.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "Biden Warned as a Court Slaps Down Race-Based Covid Relief"
+    excerpt: "As President Joe Biden pursues initiatives he announced last week to help narrow the racial wealth gap, he should heed a late-May reminder from the 6th Circuit U.S. Court of Appeals that preferential treatment based on race is presumptively invalid."
+    publishedDateTime: 2021-06-08T11:31:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/08/biden_warned_as_a_court_slaps_down_race-based_covid_relief_544561.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "dbDrHbDE5t5Tw9Zycvc/xoT0IGzAhCgs6SKQ3AWVXv2PEms5iUPpbX1gV1Rt+GAkQ44o/iJxvjd7QoaqUv2ehXEvL3p3zNRhoQpr3NTK+C3HJdBIOTtDhwoXv/WubeSNy6w0uNhHl40QKc1X982rLu0SKBIO7fAmibhC2zwkP5mcxCCCKTrv5Ui2AlqgGfVvwK5F1g2ER0W7AiPc1J93rG+kNMvv7o6yM/sZxfrXpG2xRhjsaj7JiSiRyQUVSdHI2c7MPjjbMkgUfdO19YrNOpg9Kmj2dtD6pLGuPE60H68AA0OeARbWNj505TkN1o0Thj7Soy5xPwKoFdLQdt4e49QAaOmeuQFYXtmqtNWQUNQ=;t71C4UwFUMXAuyR4vHHzGg=="
 ---

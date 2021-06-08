@@ -108,6 +108,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden White House powered by family connections"
+    excerpt: "White House press secretary Jen Psaki, Secretary of State Antony Blinken, National Security Adviser Jake Sullivan, senior adviser Anita Dunn, White House counselor Steve Richetti, deputy chief of staff Bruce Reed and Presidential Personnel Office Director Cathy Russell each have at least one direct family"
+    publishedDateTime: 2021-06-08T10:03:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NSJPTyuBCkc/biden-white-house-family-members-psaki-sullivan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-family-members-psaki-sullivan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-family-members-psaki-sullivan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad8cee42-560c-45e5-81a1-4caa19116439/a14c9b64-5a8f-467d-a060-ec6795af2393/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Jen Psaki insists new guidance on mask-wearing comes from CDC, not Biden"
     excerpt: "White House Press Secretary Jen Psaki on Friday insisted that the new federal guidance on masks came from the Centers for Disease Control and Prevention, in a back-and-forth with Fox News White House correspondent Peter Doocy during a briefing."
     publishedDateTime: 2021-05-14T17:49:09Z

@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 832
         isCached: true
+  - title: "Kamala Harris tells Guatemala migrants: 'Do not come to US'"
+    excerpt: "US Vice President Kamala Harris has urged would-be migrants in Guatemala not to try to enter the United States illegally. Speaking on her first overseas trip since taking office, she said the journey north was dangerous and would mainly benefit people smugglers."
+    publishedDateTime: 2021-06-08T01:18:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57387350?at_custom1=%5Bpost+type%5D&at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=5A5FA78C-C7FD-11EB-AD25-ABB34744363C"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57387350.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57387350.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10C37/production/_118836686_067888160.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Vice President Kamala Harris’ plane forced to return due to technical problem"
     excerpt: "A technical problem that involved \"no immediate safety issue\" forced Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."
     publishedDateTime: 2021-06-06T19:19:00Z
@@ -511,6 +527,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "1uFIlwv2gzka+dq9/wurh2jvGyUqovNcFqqDYxhHjbk5gW6fcWFGR82LRDgxxdigd6QDbdTAknQJX9L7+JCsxctTOVlln7KrMG6kxE7CRltq1hLpWmYww42BYdyP99TzefLOBFfn7WYXePDaIkF4y+jbobZKHTXVXdkFBdOxGAfvZhuqNXByUX2ytjQmTwNZrUz/Urv66d23BLteYEXEZNTia3n7h2IJQLwxAQiVAQOSOl9+MIcWeGxaRkMVso010VZQQCBE7rnU3UCvtHhrsLgrDbppaCOp+0XGPPmkYRcZctSUNhmP5clu+eEnyNGQC8aYBIFIk+xlQYZU8sWjYoKAw6P3tKNtAbh5U8ePOCc=;9giMj0C0ixOksJFUXrlgDQ=="
+secured: "iE1KndFGPS/QczMiGfSQHDWGuHXk5bK3XKTT+BQVviQCzCtOk2fulbK0avSKj4aXiWgggD6DLWDUnQ56OsRkP1jXprx4EdzgpN2UNd3DGRI0nhidb+72LhYxcY7EdIczJHToGCR9lts3qHvPUmdXYIwXF0sKc6d20gBJzVQsX40eSOFS97spXJiv7jPglgV0NNtNRYPxQ9sPxBSH0QK3u8+3uvFlvhnxASniUoKpgxE+9cxJ+mLwtoOs3JG97/mnm3q3Tw28QlRP8Sg/9doDYWeyVSCea+2JCYr94qN5vzOLzMimuo4X2QE42B+WCmyndyB7vWhJkTH9GCZW/RLLTrf2YxL5OY7674x5CXLuj56eae9j7u2ZF/dUzW1G39g8mPXnZAPATBfvHzuLREISjNB0cQzdVRQ5L4qaPYD6YQQktDWIzP9DwYStXd9OYtQK9wiGh7+caTaN70cSfeZuC79ALND9vGZI/yOfDji8iVJuRqzlLWnjPyAWZ3F77bq8rRxyFbFzsWzw3CiY0Goy/g==;lovFUxC0LSDlX9w7bPk99Q=="
 ---
 

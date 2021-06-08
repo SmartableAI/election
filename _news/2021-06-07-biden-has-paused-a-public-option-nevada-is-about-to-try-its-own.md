@@ -159,6 +159,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "More than 2,100 children separated at border 'have not yet been reunified,' Biden task force says"
+    excerpt: "More than 2,100 children separated at the border by Trump administration’s “zero tolerance” program “have not yet been reunified” with their parents, according to the task force working to reunite the families."
+    publishedDateTime: 2021-06-08T11:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/more-2-100-children-separated-border-have-not-yet-been-n1269918"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269918"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269918"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3481098/210608-border-children-mc-1111.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "EMlXQ1mXP+ninR+ioLwxjCYv/o+tjV5Jis4wQu7B5wLzCaM01g9oRtFMc/4Xq3F5kEoR4Fu1V/BE/GrRYN8H4aE/IMVO2dVdUpS/JW7RDGOnhPuJKTZw/DVrctpbgZlZ1vgyNxzqVEQKfuYXJ3gHuX+ELpXUQY05jk3GzFurBJ+GLVKk0rO0bsOd9rRg4kkyAgP/YIkzwxrT7G0paSnoLag8n1uMxzk0NrF7BvG/Kbb+N2cY3OWvnzQ4aYmkvwnxbelDe6H18N/sJvCc5WdjiTtHdwibMA0R8v37im5sFIIx6uLj5ZHPMKJoKSDxy4CkY4fgBvLoeR3K7jsH6wHQBXZCmsUcDDAhdFEfx36CHrQ=;MFj5mcJX5xvKU2G7/aTODw=="
 ---
