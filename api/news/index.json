@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president.md",
+      "title": "Trump Says More Countries Should Ban Twitter: 'Perhaps I Should Have Done It While I Was President'",
+      "excerpt": "\"Who are [Twitter and Facebook] to dictate good and evil if they are evil themselves?\" Trump wrote of the massive social media companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president-1598788",
+      "originalUrl": "https://www.newsweek.com/trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president-1598788",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1808323/breaking-news.png",
+          "width": 1799,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president-1598788?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president-1598788?amp=1",
+      "publishedDateTime": "2021-06-08T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-ivanka-trump-focusing-on-family-time-in-months-after-trump-administration.md",
+      "title": "Ivanka Trump 'focusing on family time' in months after Trump administration",
+      "excerpt": "Ivanka Trump is focusing on her family and living in Miami, Florida, with her husband Jared Kushner, sources familiar with the couple’s plans told Fox News, following four years in Washington, D.C., serving in the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXbrvMGtcwY/ivanka-trump-family-time-months-after-trump-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXbrvMGtcwY/ivanka-trump-family-time-months-after-trump-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-family-time-months-after-trump-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-family-time-months-after-trump-administration.amp",
+      "publishedDateTime": "2021-06-08T13:02:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-white-house-says-harris-may-go-to-the-border-at-some-point.md",
       "title": "White House says Harris 'may go to the border' 'at some point'",
       "excerpt": "Vice President Kamala Harris “may go to the border” “at some point,” the White House said Tuesday, as the vice president faces criticism for not yet visiting the southern border after being tappen by President Biden to handle the “root causes” of migration.",
@@ -71,7 +179,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 348,
+      "heat": 368,
       "tags": null,
       "images": [
         {
@@ -382,8 +490,8 @@
       "title": "Donald Trump calls Bitcoin 'a scam against the dollar'",
       "excerpt": "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-57392734.amp",
-      "originalUrl": "https://www.bbc.com/news/business-57392734.amp",
+      "webUrl": "https://www.bbc.com/news/business-57392734",
+      "originalUrl": "https://www.bbc.com/news/business-57392734",
       "featuredContent": null,
       "highlight": null,
       "heat": 185,
@@ -603,7 +711,7 @@
       "originalUrl": "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351",
       "featuredContent": null,
       "highlight": null,
-      "heat": 900,
+      "heat": 940,
       "tags": null,
       "images": [
         {
@@ -1241,110 +1349,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-biden-to-affirm-special-relationship-at-g7-meeting-with-johnson.md",
-      "title": "Biden to affirm “special relationship’ at G7 meeting with Johnson",
-      "excerpt": "President also expected to discuss post-Brexit difficulties in Northern Ireland with the prime minister",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/6f9f1d2fea9fe37796afb6d72fbee2090125ba66/0_299_5836_3501/master/5836.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ebd6191c3c329deef6509b1a555e3ef",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson",
-      "publishedDateTime": "2021-06-06T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-vice-president-kamala-harris-plane-forced-to-return-over-technical-issue.md",
-      "title": "Vice President Kamala Harris’ plane forced to return over ‘technical issue’",
-      "excerpt": "A technical issue that involved “no major safety concerns” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/O4lhCDH5HNl_036z4V5-jVeg_vs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GPKPDGMWWW7JGEHDQX6YYI5G74.aspx",
-          "width": 1200,
-          "height": 758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp",
-      "publishedDateTime": "2021-06-06T18:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

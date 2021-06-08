@@ -192,6 +192,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris meets with Mexican president amid criticism over migrant remarks, lack of border visit"
+    excerpt: "Vice President Kamala Harris on Tuesday was meeting with Mexican President Andres Manuel Lopez Obrador as part of a two-day tour to the region to tackle what the Biden administration describes as the \"root causes\" of the crisis at the southern border -- as she faces criticism for failing to visit the"
+    publishedDateTime: 2021-06-08T21:01:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gaTtpsCgZOw/harris-mexican-president-migrant-remarks-lack-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-mexican-president-migrant-remarks-lack-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-mexican-president-migrant-remarks-lack-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff6fb411-94ad-4669-a085-4703f66b86dd/d05ab59b-322a-4650-a17e-87608403931b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Harris staff says climate, economy among 'main drivers' of migration after Guatemala president blames US"
     excerpt: "Vice President Kamala Harris’ staff on Sunday insisted that the \"main drivers\" of the migrant surge to the southern border are climate and the economy -- as Harris arrived in Guatemala and after the Guatemalan president blamed the change in U.S. administrations for the crisis."
     publishedDateTime: 2021-06-07T14:44:12Z
@@ -284,6 +300,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris Tells Migrants Not to Come to U.S., Lays Out Anti-Graft Steps"
+    excerpt: "Vice president discusses with Mexican and Guatemalan leaders how to stem the immigration surge at the U.S. southern border during her first trip abroad in the Biden administration."
+    publishedDateTime: 2021-06-08T18:20:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-350498/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "CNN: Kamala Harris' team 'dismayed' by being held responsible for border crisis"
     excerpt: "Vice President Kamala Harris is frustrated by her border role being “mischaracterized” by Republicans and some media outlets, CNN reported Tuesday, saying Harris was not in charge of stemming border crossings themselves but rather “root causes” of migration."
     publishedDateTime: 2021-06-01T16:01:00Z
@@ -315,6 +347,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/KamalaHarris.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Bret Baier: Kamala Harris’ border message is difference between campaigning and governing"
+    excerpt: "Fox News chief political anchor Bret Baier joined \"America Reports\" Tuesday to discuss Vice President Kamala Harris seemingly laughing off questions about visiting the US-Mexico border to witness the migrant crisis firsthand."
+    publishedDateTime: 2021-06-08T21:07:00Z
+    webUrl: "https://www.foxnews.com/media/bret-baier-kamala-harris-border-message-difference-campaigning-governing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 106
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e23d498-aabf-4a71-aac3-58951aff62df/8938475b-9604-4491-b659-6f9e5821e6c3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden: I Am Tasking VP Kamala Harris With Voting Rights, \"Among Her Many Other Responsibilities\""
     excerpt: "President Joe Biden said on Tuesday \"we're going to overcome again\" when he announced he will be tasking Vice President Kamala Harris with issues tied to voting rights. \"To signify the importance of our efforts,"

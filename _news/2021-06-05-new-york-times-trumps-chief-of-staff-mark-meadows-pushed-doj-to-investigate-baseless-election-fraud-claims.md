@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Man arrested for allegedly impersonating Trump's family in fundraising scheme"
+    excerpt: "A man from central Pennsylvania was arrested Tuesday for allegedly impersonating former President Donald Trump's family members on social media to raise money for a fake political organization he used to defraud donors and pocket the money for himself, according to prosecutors.\n    \n"
+    publishedDateTime: 2021-06-08T20:52:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qvRZ4Vuximk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/joshua-hall-trump-family-fake-fundraising/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/joshua-hall-trump-family-fake-fundraising/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531094912-01-trump-taxes-house-democrats-biden-play-ball-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "DOJ argues it should substitute for Trump as defendant in E. Jean Carroll lawsuit"
     excerpt: "The Justice Department argued in a brief filed Monday that it should be permitted to substitute itself for former President Donald Trump as defendant in a defamation lawsuit brought by a longtime magazine columnist, E. Jean Carroll, who accused him of rape, continuing the argument it had initiated under"
     publishedDateTime: 2021-06-08T03:46:39Z

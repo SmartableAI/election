@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-08-ivanka-trump-focusing-on-family-time-in-months-after-trump-administration.md",
+      "title": "Ivanka Trump 'focusing on family time' in months after Trump administration",
+      "excerpt": "Ivanka Trump is focusing on her family and living in Miami, Florida, with her husband Jared Kushner, sources familiar with the couple’s plans told Fox News, following four years in Washington, D.C., serving in the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXbrvMGtcwY/ivanka-trump-family-time-months-after-trump-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXbrvMGtcwY/ivanka-trump-family-time-months-after-trump-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-family-time-months-after-trump-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-family-time-months-after-trump-administration.amp",
+      "publishedDateTime": "2021-06-08T13:02:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-white-house-says-harris-may-go-to-the-border-at-some-point.md",
       "title": "White House says Harris 'may go to the border' 'at some point'",
       "excerpt": "Vice President Kamala Harris “may go to the border” “at some point,” the White House said Tuesday, as the vice president faces criticism for not yet visiting the southern border after being tappen by President Biden to handle the “root causes” of migration.",
@@ -71,7 +127,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 348,
+      "heat": 368,
       "tags": null,
       "images": [
         {
@@ -692,7 +748,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 612,
+      "heat": 672,
       "tags": null,
       "images": [
         {
@@ -1078,7 +1134,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 475,
+      "heat": 515,
       "tags": null,
       "images": [
         {
@@ -1239,7 +1295,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1618,54 +1674,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ex-trump-adviser-michael-flynn-endorses-fernando-mateo-for-mayor.md",
-      "title": "Ex-Trump adviser Michael Flynn endorses Fernando Mateo for mayor",
-      "excerpt": "Former Trump national security advisor Michael Flynn is endorsing Fernando Mateo in the Republican primary for mayor.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/",
-      "originalUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Mateo.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/amp/",
-      "publishedDateTime": "2021-06-02T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

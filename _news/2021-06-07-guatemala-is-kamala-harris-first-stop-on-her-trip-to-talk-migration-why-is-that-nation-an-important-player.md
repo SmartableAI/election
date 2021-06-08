@@ -115,6 +115,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Vice President Kamala Harris issues stark warning to migrants in first foreign trip"
+    excerpt: "Vice President Kamala Harris sent a stark warning to migrants in her first foreign trip. Senior White House and political correspondent Ed O'Keefe reports."
+    publishedDateTime: 2021-06-08T12:14:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-issues-stark-warning-to-migrants-in-first-foreign-trip/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/vice-president-kamala-harris-issues-stark-warning-to-migrants-in-first-foreign-trip/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/vice-president-kamala-harris-issues-stark-warning-to-migrants-in-first-foreign-trip/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/08/78605915-6163-4a89-a060-796f02056979/thumbnail/1200x630/e6879c7a8e89450c1a18204f3a2e1e2d/0608-ctm-foreigntrip-okeefe-730535-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Guatemala's president says Kamala Harris \"doesn't hold back\" ahead of immigration talks"
     excerpt: "Guatemalan President Alejandro Giammattei is set to host Harris on Monday during her first international trip as vice president."
     publishedDateTime: 2021-06-06T11:54:00Z
@@ -370,6 +386,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Vice President Kamala Harris closes out first foreign trip with visit to Mexico"
+    excerpt: "The vice president will meet with President Andrés Manuel López Obrador, a key but complicated ally in efforts to curb the spike in migration at the border."
+    publishedDateTime: 2021-06-08T20:02:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-20210608-rdfjs3ff2rc4tl5ap7qth7asmq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 71
+    images:
+      - url: "https://www.baltimoresun.com/resizer/ic9gf-63_v0koAvx7hmNCWXTJnM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZRTSS3APQBEUTCEWAE7N37EUDI.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "VP Kamala Harris’ staff moves to in-person work in July | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."

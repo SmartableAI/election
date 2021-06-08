@@ -3,10 +3,10 @@ category: news
 title: "Biden Needs to Make China Pay for Actions Over Covid"
 excerpt: "President Joe Biden flies across the pond Wednesday to meet European leaders. He says the goal is to deliver real results on critical issues such as climate change and cybersecurity. Yet the"
 publishedDateTime: 2021-06-08T11:21:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/08/biden_needs_to_make_china_pay_for_actions_over_covid_544550.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/06/08/biden_needs_to_make_china_pay_for_actions_over_covid_544550.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/06/08/biden_needs_to_make_china_pay_for_actions_over_covid_544550.html"
+webUrl: "https://www.realclearpolitics.com/2021/06/08/biden_needs_to_make_china_pay_for_actions_over_covid_544550.html"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/54/545202_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Senate confirms first Biden judicial nominee as Schumer promises to move 'swiftly' on picks"
@@ -37,6 +43,6 @@ related:
         height: 340
         isCached: true
 
-secured: "KYyI0t3EXf5VRDSbSfBu1D0oCPJz0O0iANZYlvWDlzOp7LRalBq3Ph18TruAtOWenEe1CPWd+uBMsUcSc9AeYorPbxaKumPdqhaqkQe2EZnRc9yPqUUuWrsfz1iESYOVP0vVfVPoza3BpdwzcW56mvfNH8+c/UGbkmIo0RNcdwn+53W3XtKvrDkQ5qFi4Qj0HuQnAuEGA8vwMkOkBecvkhsjoByeDoHvwe+V6Q7GoaMIfrJia+fZyIHDtLBS21ZrQoqMaiFwu0nOKknvRtkhU65pQHpCve+jcAaJH8T8/2emHWO4BR5N5uxpBg8kHOJ0lRGFHmHaKesYCYZfQvX0LsSU/VjTJyvEcopqJsA9IoU=;wXMIghXo3Vb59HsyzJZTAA=="
+secured: "kDhRMznsCMghBanjWmzrZ5tA4Ju5tvEBCbcy9/snop09iJS9gYMh/lx69d/ROUyIZRpmfeYC3OEryAhJ55NchURDLAtnN3LD3lXfNFd+WFghRKx98inbNlEsYkLvOuxRNBRFz6bGK6wywhbgYTL1WfzayeFIOT7BqRo5oHartSqre3w4sDvOVtFm0YVsLhMMQqzZ5lQo/HfIYAx2OYExU+wwisSSgPdY50F4gkkjDkNZ1sKYbAeG9PZlE+EA1XZBStmwEKeqzACCXLqoOohO/9KrRbmXPgoUJatDuQlxz77zKTn835Gg8OXTfp9XdDADhyW7R51dZtfhTW6G750zgGrDgSCr8TjOxMoGQhdBiWA=;8KbzsY1veK6Sz+in+eVEXQ=="
 ---
 

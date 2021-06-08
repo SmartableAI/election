@@ -60,6 +60,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden ends infrastructure talks with Capito amid disagreements on spending"
+    excerpt: "President Biden broke off negotiations with a group of GOP senators led by Sen. Shelley Capito on Tuesday (R-W.Va.) amid disagreements regarding the structure and size of his proposed infrastructure spending plan."
+    publishedDateTime: 2021-06-08T21:45:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1V1mQoUoVQ/biden-ends-infrastructure-talks-capito-disagreements-spending"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ends-infrastructure-talks-capito-disagreements-spending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ends-infrastructure-talks-capito-disagreements-spending.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/Heinrich_Jacqui_OFFICIAL-1-1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "‘MediaBuzz’ on Facebook’s Trump ban, media treatment of Biden"
     excerpt: "What drives me crazy about the media is that when they totally blow it, an all-out, no doubt deep-rooted red-faced botching of a major story, they barely acknowledge it before moving on. You read the coverage now of the circumstantial evidence of the Wuhan lab as the original source of the COVID scourge and there's this flat,"
     publishedDateTime: 2021-06-08T11:34:00Z

@@ -144,6 +144,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris Forges Moderate Image on Migration With Measured Approach"
+    excerpt: "The vice president concluded her first trip abroad, a high-stakes trip to Mexico and Guatemala during which she took on the politically volatile issue."
+    publishedDateTime: 2021-06-08T20:49:00Z
+    webUrl: "https://www.nytimes.com/2021/06/08/world/americas/Mexico-Kamala-Harris-Lopez-Obrado.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/08/world/americas/Mexico-Kamala-Harris-Lopez-Obrado.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/08/world/americas/Mexico-Kamala-Harris-Lopez-Obrado.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/08/world/08Mexico-Harris1/08Mexico-Harris1-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "Kamala Harris meets with Mexico’s president in a high-stakes trip to the region."
     excerpt: "While meeting with Mexico’s president, Vice President Kamala Harris will likely discuss a restrictionist policy that the administration has said is necessary to prevent overcrowding in detention facilities."
     publishedDateTime: 2021-06-08T17:07:00Z

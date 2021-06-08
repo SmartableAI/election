@@ -34,13 +34,18 @@ related:
   - title: "Biden Needs to Make China Pay for Actions Over Covid"
     excerpt: "President Joe Biden flies across the pond Wednesday to meet European leaders. He says the goal is to deliver real results on critical issues such as climate change and cybersecurity. Yet the"
     publishedDateTime: 2021-06-08T11:21:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/08/biden_needs_to_make_china_pay_for_actions_over_covid_544550.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/06/08/biden_needs_to_make_china_pay_for_actions_over_covid_544550.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/545202_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "8M8srJV5nEIRys7XrEg95+krvn5Bpnkvxmlh2P1FckK7YEBKi4TgRxSRiw5+4CiXSNr5hXoVkOxX0UmnTZxB5kjVfUT+UTImfniNopzcjZXQzb1i8poXJlmUswLRTVB286qX03ri2BjI1o0oLBOokCcE2xiVPJPKmkpLJxCHMQZvWwxYyi8upsSq56nSsIMk5SfTpeBnChLgVPt6SpYkqBhywF2JApMO0QY8IxBVCqQedHaYh/jhR4zR198fZ+2422GUXGW0cmPtUQQlKdQ2YyA2HSbfMF2BFr3eTK/x9E1+UHaABXWZBSoL4nv8PIpTTuYV4FqZb2eTUx2YlWen1TZ91XejVtWyHSrL9bFtB/k=;hDXK4O8OQzsXpe2K0mkskA=="
+secured: "X4XWhktkAURnuAKse2906qo9Gi5Dxjn2F7EQotQbOW42VZyU0mXYZKHdNsNbF/46fSHzBRLKO7+d8loVnj1N5Rhd/AKBVn8HtBfclLx5xRrdY35OAFTgBW8lCVzC6bqi+9KI0lctgSN3KURpiK1rDUoGNYqubSjj4ZLJIWPBJ6aXiqT+7ahleBcbH0z0taI9GgrFw5YMTxcLMeHpWzPkeUG1ZBRgZsZsWY1RN2noQI4iKgxL9KkrYMfjRLgCUed7BO2rbtNxf9fHjaTOAJahT2X27vxGlmSEXNAxKK8howJ5RFXhwjaFSWaU8OLXK1MY26Ie7QjZUBKEjC4ICzBaaUpurmY9aYCKe/+nG/rMmeM=;vtL7K8GLUr5UIdh6uiH4cg=="
 ---
 

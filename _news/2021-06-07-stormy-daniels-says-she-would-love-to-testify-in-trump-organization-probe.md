@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Man arrested for allegedly impersonating Trump's family in fundraising scheme"
+    excerpt: "A man from central Pennsylvania was arrested Tuesday for allegedly impersonating former President Donald Trump's family members on social media to raise money for a fake political organization he used to defraud donors and pocket the money for himself, according to prosecutors.\n    \n"
+    publishedDateTime: 2021-06-08T20:52:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qvRZ4Vuximk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/joshua-hall-trump-family-fake-fundraising/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/joshua-hall-trump-family-fake-fundraising/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531094912-01-trump-taxes-house-democrats-biden-play-ball-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New York Times: Trump's chief of staff Mark Meadows pushed DOJ to investigate baseless election fraud claims"
     excerpt: "Mark Meadow, former President Donald Trump's White House chief of staff, pushed the Department of Justice in his boss' last days in office to investigate unproven conspiracy theories and fraud claims about the 2020 presidential election, the New York Times reported Saturday.\n    \n"
     publishedDateTime: 2021-06-05T18:49:57Z

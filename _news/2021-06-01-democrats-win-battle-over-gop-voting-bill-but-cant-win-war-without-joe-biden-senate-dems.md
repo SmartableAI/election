@@ -75,6 +75,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to get warm welcome from relieved but wary allies"
+    excerpt: "When U.S. President Joe Biden flies to Europe this week on his first foreign trip as president, he will find his hosts welcoming but wary"
+    publishedDateTime: 2021-06-08T10:50:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/biden-warm-relieved-wary-allies-78146041"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/biden-warm-relieved-wary-allies-78146041"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/biden-warm-relieved-wary-allies-78146041"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_6ca5559f7a3047aebd1ac88ccd61b21d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Manchin says he will not support voting rights bill, in blow to Biden agenda and a warning to his colleagues"
     excerpt: "I believe that partisan voting legislation will destroy the already weakening binds of our democracy, and for that reason, I will vote against the For the People Act,” Manchin wrote in an op-ed in the Charleston Gazette-Mail on Sunday."
     publishedDateTime: 2021-06-06T21:53:00Z

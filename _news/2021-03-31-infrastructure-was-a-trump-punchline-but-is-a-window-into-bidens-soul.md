@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html"
 type: article
 quality: 190
-heat: 1730
+heat: 1750
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 182
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why the Biden Justice Department wants to help Donald Trump fight a defamation lawsuit"
+    excerpt: "When the Justice Department argued in a court filing Monday that it should be allowed to protect former President Donald Trump from a defamation lawsuit brought by a longtime magazine columnist who accused him of rape, a move that would hugely benefit Trump by likely ending the litigation, some wondered"
+    publishedDateTime: 2021-06-08T21:32:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vSWL9PoJaCc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/trump-justice-e-jean-carroll-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/trump-justice-e-jean-carroll-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608165633-trump-garland-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -77,6 +77,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to get warm welcome from relieved but wary allies"
+    excerpt: "When U.S. President Joe Biden flies to Europe this week on his first foreign trip as president, he will find his hosts welcoming but wary"
+    publishedDateTime: 2021-06-08T10:50:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/biden-warm-relieved-wary-allies-78146041"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/biden-warm-relieved-wary-allies-78146041"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/biden-warm-relieved-wary-allies-78146041"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_6ca5559f7a3047aebd1ac88ccd61b21d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Manchin says he will not support voting rights bill, in blow to Biden agenda and a warning to his colleagues"
     excerpt: "I believe that partisan voting legislation will destroy the already weakening binds of our democracy, and for that reason, I will vote against the For the People Act,” Manchin wrote in an op-ed in the Charleston Gazette-Mail on Sunday."
     publishedDateTime: 2021-06-06T21:53:00Z
@@ -182,6 +198,6 @@ related:
         height: 433
         isCached: true
 
-secured: "8WTNJ9ET8AfbCWJ4S3pNe448Qbnq8uWlWOPMys2IQiDGeOcywsciTApRTA+wWxM0rtpL+l5108/hN/fvwUlXHVxbFb+LHUsDrfiRSNmdm5lWrX4owYz6OtWQUEOCJqnrzavK4o7GiRCA/KNeJSaj2bDUoa//kO3yFTjYzLOokPFoA295o1RA1A4TEVX+QgYlrdQ9qd+UF9adFmJHFGQGV1gQzwcy8oL7oCmI9bfofjwHXSoA5C0ZyJykGMjsunl9kT2tJAoGkP2ytPjDTvlishrqtf3g3U/PLpJz9M5cLHGHfzmj3ei5uzW4TCat80+FnJgYCjlf10udPfEKJ7vib471afkQZUGOaGkInHb3K0g=;/B5c0YJpFG7jcPpwoMAvlg=="
+secured: "pxUIzEfeCwo4p694kHCi1jJQfHbuDwwxHMK3Qg4CDhho4EE36uWnLvjywyU1d9V4BWIkm9IR7SFwRk/aULFwZ8czvhWp13HlXuYd7xx4IROrzjEobAlSLaCHC1yUdEzr83DBvN5bAV6uHbzSv1ijIaDxeQP67G+ATMyzLkoGDfWoBj1jJy0nE1MMlZGHkCH62EfLTXdR2k407g9UjIEBnEJyT59bJV43kBo4AauM5XZAdxLqmHMQS5VpHp+hmMScB61lMreFQf/Okis7kaO9LAEfDyeeRif5++Q7clM2zOPR1vK6qE0sdznZY1LsEtCKJhaSf1Kv1HQn5mztOVT17yNtIVrxWM4F41eW/vC9gJsaTKr/7yEezSAmaGRqnIcY/iGBM6Tfp6921GvS3TeeSdDyuH0tO8xyibyVlPAw9ovEjtUzsH8T9mM0kuRVK+UozGM8mRoX8qo2Cm4VhA1euWq/nvA+1ye6tznqO/qQqvtJCkepSGd7t1etxCastIpykH9+LfwNU0r5RcHKdGDtyA==;4A6g+DDd33Yt7OBIvAaw6w=="
 ---
 

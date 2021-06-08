@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/DonaldTrump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Man impersonated Trump family to raise thousands of dollars, feds say"
+    excerpt: "A Pennsylvania man is facing federal charges for allegedly impersonating former President Donald Trump’s family online to dupe supporters into forking over thousands of dollars, federal prosecutors said Tuesday."
+    publishedDateTime: 2021-06-08T21:31:00Z
+    webUrl: "https://nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/"
+    ampWebUrl: "https://nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-family.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

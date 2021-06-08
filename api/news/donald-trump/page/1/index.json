@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president.md",
+      "title": "Trump Says More Countries Should Ban Twitter: 'Perhaps I Should Have Done It While I Was President'",
+      "excerpt": "\"Who are [Twitter and Facebook] to dictate good and evil if they are evil themselves?\" Trump wrote of the massive social media companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president-1598788",
+      "originalUrl": "https://www.newsweek.com/trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president-1598788",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1808323/breaking-news.png",
+          "width": 1799,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president-1598788?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president-1598788?amp=1",
+      "publishedDateTime": "2021-06-08T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-defamation-to-georgia-voting-the-top-trump-legal-cases.md",
       "title": "Defamation to Georgia voting: the top Trump legal cases",
       "excerpt": "Trump is out of the White House, paving the way for legal challenges against him to continue in earnest",
@@ -101,8 +153,8 @@
       "title": "Donald Trump calls Bitcoin 'a scam against the dollar'",
       "excerpt": "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-57392734.amp",
-      "originalUrl": "https://www.bbc.com/news/business-57392734.amp",
+      "webUrl": "https://www.bbc.com/news/business-57392734",
+      "originalUrl": "https://www.bbc.com/news/business-57392734",
       "featuredContent": null,
       "highlight": null,
       "heat": 185,
@@ -1487,58 +1539,6 @@
       "ampWebUrl": "https://www.bbc.com/news/technology-57338035.amp",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57338035.amp",
       "publishedDateTime": "2021-06-02T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-karen-mcdougal-trump-escapes-fine-in-playboy-model-payment-case.md",
-      "title": "Karen McDougal: Trump escapes fine in Playboy model payment case",
-      "excerpt": "Mr Trump will not be punished or the subject of further inquiry, the Federal Election Commission (FEC) ruled. The FEC found that the money paid to ex-Playboy model Karen McDougal during the presidential election amounted to an illegal campaign contribution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-57335148",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-57335148",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15C78/production/_118780298_gettyimages-1318749430.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57335148.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57335148.amp",
-      "publishedDateTime": "2021-06-02T10:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthda
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_95a5e611a6084e15a0212f4353a3a0f8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to get warm welcome from relieved but wary allies"
+    excerpt: "When U.S. President Joe Biden flies to Europe this week on his first foreign trip as president, he will find his hosts welcoming but wary"
+    publishedDateTime: 2021-06-08T10:50:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/biden-warm-relieved-wary-allies-78146041"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/biden-warm-relieved-wary-allies-78146041"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/biden-warm-relieved-wary-allies-78146041"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_6ca5559f7a3047aebd1ac88ccd61b21d_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

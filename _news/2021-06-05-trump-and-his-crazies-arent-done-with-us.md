@@ -68,6 +68,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Man impersonated Trump family to raise thousands of dollars, feds say"
+    excerpt: "A Pennsylvania man is facing federal charges for allegedly impersonating former President Donald Trump’s family online to dupe supporters into forking over thousands of dollars, federal prosecutors said Tuesday."
+    publishedDateTime: 2021-06-08T21:31:00Z
+    webUrl: "https://nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/"
+    ampWebUrl: "https://nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-family.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "C4EchHte9/smEkOOD6qQF/+o2NEtw88sR5Ofcwi4W+Xsv/ZOhdmKS6j80Eof9zbAVKUHe4n22dnoef/EvQ+Cr7+a4UXc55HnI7IZp5eGLUpFFAlDDcGXOdWDl8639jTwx3ZWDT5FiUF1I17QrL4U89kLKcuK7931HPHTpCiTmIqCFMTOC5hi1MYNfqj1YyGHrmjUMwpBjqsSI+TCBihOIk+pFdn1u2BKUFLjjdwatfnyv0KfCSoZSXRSR5ClzFQMIXxGe+jVQXUuDZR3MgQJU5drQ2HP2XNUBw6wWNdVNlGCB4cqZoKZfw446VU0eabFskGw68yEXrd//tHFtIQGLD5ap/6mcbxMJfiYhqBjzhM=;zdqfjacDS7534drHG3UVXg=="
 ---
