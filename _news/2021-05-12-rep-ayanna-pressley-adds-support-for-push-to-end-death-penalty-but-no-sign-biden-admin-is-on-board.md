@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to speak with GOP Sen. Capito as hopes for bipartisan infrastructure plan dim"
+    excerpt: "President Joe Biden on Tuesday will speak with Sen. Shelley Moore Capito, the lead Republican negotiator on infrastructure, as prospects appear to be dimming for a bipartisan agreement.\n    \n"
+    publishedDateTime: 2021-06-08T15:18:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gkJ73rQfPdc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/biden-capito-infrastructure-talks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/biden-capito-infrastructure-talks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608102430-01-biden-capito-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden touts electric car company potentially worth millions for his energy secretary"
     excerpt: "President Joe Biden and Vice President Kamala Harris' efforts to sell their green agenda and infrastructure plan are being complicated by a thorny conflict of interest for Energy Secretary Jennifer Granholm -- who stands to gain a windfall from stock options in a private electric vehicle company.\n  "
     publishedDateTime: 2021-05-06T11:34:15Z

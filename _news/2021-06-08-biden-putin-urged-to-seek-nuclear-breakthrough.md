@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Biden to meet with UK Prime Minister, Turkish President and other world leaders during first foreign trip"
-excerpt: "President Joe Biden will meet with United Kingdom Prime Minister Boris Johnson, Turkish President Recep Tayyip Erdogan and other world leaders during his first international trip as President next week, the White House announced Thursday.\n    \n"
-publishedDateTime: 2021-06-03T15:16:12Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tEJfZZ8ul8/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tEJfZZ8ul8/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/biden-world-leaders-trip/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/biden-world-leaders-trip/index.html"
+title: "Biden, Putin urged to seek nuclear breakthrough"
+excerpt: "U.S. and Russian arms control experts are pleading for steps to reduce the nuclear threat in the presidential summit. — A former Pentagon No. 2 has good things to say about the new defense budget, with one major caveat."
+publishedDateTime: 2021-06-08T14:00:00Z
+originalUrl: "https://www.politico.com/newsletters/morning-defense/2021/06/08/biden-putin-urged-to-seek-nuclear-breakthrough-795808"
+webUrl: "https://www.politico.com/newsletters/morning-defense/2021/06/08/biden-putin-urged-to-seek-nuclear-breakthrough-795808"
 type: article
-quality: 158
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602180257-02-biden-vaccine-remoarks-0602-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+    width: 1120
+    height: 629
     isCached: true
 
 related:
@@ -95,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to meet with UK Prime Minister, Turkish President and other world leaders during first foreign trip"
+    excerpt: "President Joe Biden will meet with United Kingdom Prime Minister Boris Johnson, Turkish President Recep Tayyip Erdogan and other world leaders during his first international trip as President next week, the White House announced Thursday.\n    \n"
+    publishedDateTime: 2021-06-03T15:16:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tEJfZZ8ul8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/biden-world-leaders-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/biden-world-leaders-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602180257-02-biden-vaccine-remoarks-0602-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New audio of 2019 phone call reveals how Giuliani pressured Ukraine to investigate baseless Biden conspiracies"
     excerpt: "Never-before-heard audio, obtained exclusively by CNN, shows how former President Donald Trump's longtime adviser Rudy Giuliani relentlessly pressured and coaxed the Ukrainian government in 2019 to investigate baseless conspiracies about then-candidate Joe Biden.\n    \n"
     publishedDateTime: 2021-06-07T21:01:26Z
@@ -127,21 +142,7 @@ related:
         width: 2500
         height: 1669
         isCached: true
-  - title: "Biden, Putin urged to seek nuclear breakthrough"
-    excerpt: "U.S. and Russian arms control experts are pleading for steps to reduce the nuclear threat in the presidential summit. — A former Pentagon No. 2 has good things to say about the new defense budget, with one major caveat."
-    publishedDateTime: 2021-06-08T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/06/08/biden-putin-urged-to-seek-nuclear-breakthrough-795808"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
-secured: "Emg8dC0YrfqBHYEgLCsKD4wLp8kVkbc+OoWP9zGypNWat2W/bVcK8nMu/ddRJ4RSdc38F4qIxaJxYuqEM//ocDfBTNKXvpmQX47qDEZ9D7dMaj/Et3NshzGaWHWDKXzTSJzB/WaPLHBuZ8+bplklWZqBkOMN8z7PvidQXlptggiChv7f/fBjmlT47dOtLGQ5OvLZl5ylyy2Lek30qAAc06xZQPCupCiv1wt3fgj0PmUhH9/g1os35yo4xIh5Yk7FQLOPk1Xzig2l5BUtuFwGMTJTF6UKaYHEPv2YABcToI9LpMg1IhTGZo20H6CoA50Mgfc4t0Tuc+vsylMzsG1jXyxJ1BgPH2PWcAz5kBUPDaA=;X/0Adg4JW5FoVdpB6enZNg=="
+secured: "Mx9/IvD0rMTbIXGiKJrYrgl8V/mFZf1t8s/99020glvZ24oF1Q1mkadCvK7AnnuvduuwyO/XK48um+uCeHuCWpB9m4uCB5WK1btif6CZEruL32iej/xiveFEiyqxYvt2Xw9enwN5j6NdifVN10DusJyAZmCnX9RozbdMEGcZ3yGgZDj+DyT0T6/hwpbhJmR1ILWxHbo+9CwzBLinjOhJxvKBn+4qQFBGU1mTAj7lz0XmzLoZVTVKF8sZSRAYEp9wmWa/jSKSejwDjV8yNZ/7hpAu2OtbTzNY95DiPph88AvwDRESc5KySpUTIK3qmxYjpwH6tzqvNaEvMfbT0Gx3k1UPJe8Q16ypMIjEOgb90Ow=;zK8XBAqcZlwiiHXxPjw0Rw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats confront reality of narrowly split Congress as Biden's agenda faces major obstacles"
+    excerpt: "President Joe Biden's legislative agenda faces a critical month ahead as he and congressional Democrats work to secure agreements with Republicans on several key items -- including a far-reaching infrastructure bill and a policing overhaul -- and gear up for action on voting legislation they believe"
+    publishedDateTime: 2021-06-08T15:21:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/urS3LSIy3Sk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/congress-agenda-biden-infrastructure-manchin-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/congress-agenda-biden-infrastructure-manchin-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104140355-01-us-congress-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

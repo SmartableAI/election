@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Democratic lawmakers wanted to call on Biden to form presidential commission on January 6 but were told it wouldn't happen"
-excerpt: "A group of Democratic members of Congress planned to call on President Joe Biden to form a presidential commission on the January 6 attack at the US Capitol, but they were discouraged by the White House, a congressional source told CNN on Friday.\n    \n"
-publishedDateTime: 2021-06-04T22:11:47Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l37nolLsHNA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l37nolLsHNA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
+title: "Democrats confront reality of narrowly split Congress as Biden's agenda faces major obstacles"
+excerpt: "President Joe Biden's legislative agenda faces a critical month ahead as he and congressional Democrats work to secure agreements with Republicans on several key items -- including a far-reaching infrastructure bill and a policing overhaul -- and gear up for action on voting legislation they believe"
+publishedDateTime: 2021-06-08T15:21:56Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/urS3LSIy3Sk/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/urS3LSIy3Sk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/congress-agenda-biden-infrastructure-manchin-senate/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/congress-agenda-biden-infrastructure-manchin-senate/index.html"
 type: article
-quality: 149
+quality: 164
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420124249-us-capitol-dome-0413-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104140355-01-us-congress-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -127,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Democrats confront reality of narrowly split Congress as Biden's agenda faces major obstacles"
-    excerpt: "President Joe Biden's legislative agenda faces a critical month ahead as he and congressional Democrats work to secure agreements with Republicans on several key items -- including a far-reaching infrastructure bill and a policing overhaul -- and gear up for action on voting legislation they believe"
-    publishedDateTime: 2021-06-08T15:21:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/urS3LSIy3Sk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/congress-agenda-biden-infrastructure-manchin-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/congress-agenda-biden-infrastructure-manchin-senate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104140355-01-us-congress-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Key week for infrastructure talks arrives as Biden's agenda faces major obstacles in Congress "
     excerpt: "President Joe Biden's legislative agenda faces a critical month ahead as he and congressional Democrats work to secure agreements with Republicans on several key items -- including a far-reaching infrastructure bill and a policing overhaul -- and gear up for action on voting legislation they believe"
     publishedDateTime: 2021-06-07T10:05:12Z
@@ -156,6 +140,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104140355-01-us-congress-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democratic lawmakers wanted to call on Biden to form presidential commission on January 6 but were told it wouldn't happen"
+    excerpt: "A group of Democratic members of Congress planned to call on President Joe Biden to form a presidential commission on the January 6 attack at the US Capitol, but they were discouraged by the White House, a congressional source told CNN on Friday.\n    \n"
+    publishedDateTime: 2021-06-04T22:11:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l37nolLsHNA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420124249-us-capitol-dome-0413-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -192,6 +192,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "nPhVNbzh/IjHSgTK/9rWLp55dIOOY7RIDu5ZWX3pT+yeIJH074xnPXYUPff6COxJvkhKT9jY03/Tc3F1n4HxJUZnMBtPpnNPs2cnmkV1ra89oJEhLX1njuCib2gGzLdM5puJU3Ksy7vEfALlpuq5He1o0u6Kv97tfECQIXc9MMMFbY92escZjV/yIxRxGVTqpVw0DUKd1cKEKuCNlrHqc7H9gjU/f2wk9DP41kkyFE1mLGXpRu0PSyztwp9SliTNQ5Blz6lTtZB4Iz/K5JktL2sgIJGg7NRe/XniEygtazhYdqIDiBsH29wlWRkOBWMEbgr6wIRQRB9vWGn8aLypLEaYTnKQiCbpb5OmhqM7mWw=;qnBgoWIeUA/Onov9mjNxNA=="
+secured: "poOzdwdto3fZ8AQrkxsR3n237yQZTgXAjfFa1LTQQ3jJwDUuOcLsJIcrQ1P8z0mO2InJ13GRVW2hrADBTBs4IokamaFYiFKqJmriJuMyjw5dinJAEWbaBcon74+4pgqZ4cmGQrjcSziajKN224jsVKBsoAVtTQNHbbOGHoC2BGXiiruhkPpRwyNuu8wXyo1zrAKitOuqBlPpxoKEHN6t1aAZv3mkgrIs22J3fFgJA/sSXKUvljssSyER7wOn7Ni4FMjszMGc95YRHeZCOIJlZQh7wTbD6bzoJHhNxcpgs2bPXGifg5bW/dJTW4N/8+zlevEPauQ54uapalx6eguzrrR5CXDYhcp/W0s7zH+39Rg=;dyk+OagV1ZNuimiE9+51ag=="
 ---
 

@@ -127,6 +127,20 @@ related:
         width: 2500
         height: 1669
         isCached: true
+  - title: "Biden, Putin urged to seek nuclear breakthrough"
+    excerpt: "U.S. and Russian arms control experts are pleading for steps to reduce the nuclear threat in the presidential summit. — A former Pentagon No. 2 has good things to say about the new defense budget, with one major caveat."
+    publishedDateTime: 2021-06-08T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/06/08/biden-putin-urged-to-seek-nuclear-breakthrough-795808"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "NEDqlJQp09ZFYTVUqUYSj3H5I1Byb+qso7chz0uiSPadC2aXdODMv2LFcSS4b8xnvEO7QNjcJSzmopKnY5+3Vsxb+rUxFKui7ADa9AXEEHReHmwguE9O3A73uAXpBHb10Retc8KiSiq1jY8zYgwZk2mHMALwhin6ovnvfAcK6zcO1JPBGCqaGb4/VihWAq9/gLndHRz1NtVtTuKiY96hk0rt5b7QeEkSxgwTO7KZDcaBMJqx9S2upg5SzWOb1MT7OPa6gIKzbibMHQEnUlv1lhr31QnPRP3QE/AAfdkimiBK/onNnmD1+zo4KrTbFQJfY3yvEbQ/MP+iN1yY4eiMU7wS3fX/0AVOa+QryASUOg0=;7xfOgy/PeW8uNYrFeJTPDg=="
 ---

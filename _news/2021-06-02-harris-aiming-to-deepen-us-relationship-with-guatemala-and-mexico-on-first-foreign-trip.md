@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris rejects criticism over lack of border visit: 'And I haven't been to Europe'"
+    excerpt: "Vice President Kamala Harris pushed back on criticism that she hasn't visited the US-Mexico border in an interview aired on Tuesday by arguing that her travel has been limited during the early days of the Biden administration.\n    \n"
+    publishedDateTime: 2021-06-08T14:33:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HlRMmQ9VaMU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/kamala-harris-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/kamala-harris-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607122242-01-kamala-harris-guatemala-0607-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris safely returns to air base after plane has 'technical issue' while departing for first foreign trip"
     excerpt: "Vice President Kamala Harris, who was en route to Latin America on Sunday, safely returned to Joint Base Andrews after her plane had a \"technical issue,\" according to Harris' chief spokesperson and senior adviser Symone Sanders.\n    \n"
     publishedDateTime: 2021-06-06T20:50:04Z

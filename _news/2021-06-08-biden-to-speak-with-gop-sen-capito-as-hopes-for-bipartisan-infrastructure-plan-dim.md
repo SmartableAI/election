@@ -1,32 +1,33 @@
 ---
 category: news
-title: "Will Biden go to bat for Dems in the midterms?"
-excerpt: "It’s no secret that for years, Dems have had skirmishes over ideology, race, age and gender — and the differences between who makes up the party’s base and who ends up getting nominated for office. As the 2022 primaries take shape,"
-publishedDateTime: 2021-05-09T15:38:00Z
-originalUrl: "https://www.politico.com/newsletters/playbook/2021/05/09/will-biden-go-to-bat-for-dems-in-the-midterms-492777"
-webUrl: "https://www.politico.com/newsletters/playbook/2021/05/09/will-biden-go-to-bat-for-dems-in-the-midterms-492777"
+title: "Biden to speak with GOP Sen. Capito as hopes for bipartisan infrastructure plan dim"
+excerpt: "President Joe Biden on Tuesday will speak with Sen. Shelley Moore Capito, the lead Republican negotiator on infrastructure, as prospects appear to be dimming for a bipartisan agreement.\n    \n"
+publishedDateTime: 2021-06-08T15:18:06Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gkJ73rQfPdc/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gkJ73rQfPdc/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/biden-capito-infrastructure-talks/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/biden-capito-infrastructure-talks/index.html"
 type: article
-quality: 115
+quality: 169
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/38/3f/68aea6bf413a8ee915b93370ba42/210509-biden-ap-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608102430-01-biden-capito-0513-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -235,22 +236,6 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513155016-02-biden-vaccine-remarks-0513-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to speak with GOP Sen. Capito as hopes for bipartisan infrastructure plan dim"
-    excerpt: "President Joe Biden on Tuesday will speak with Sen. Shelley Moore Capito, the lead Republican negotiator on infrastructure, as prospects appear to be dimming for a bipartisan agreement.\n    \n"
-    publishedDateTime: 2021-06-08T15:18:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gkJ73rQfPdc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/biden-capito-infrastructure-talks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/biden-capito-infrastructure-talks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608102430-01-biden-capito-0513-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -638,6 +623,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Will Biden go to bat for Dems in the midterms?"
+    excerpt: "It’s no secret that for years, Dems have had skirmishes over ideology, race, age and gender — and the differences between who makes up the party’s base and who ends up getting nominated for office. As the 2022 primaries take shape,"
+    publishedDateTime: 2021-05-09T15:38:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/05/09/will-biden-go-to-bat-for-dems-in-the-midterms-492777"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/38/3f/68aea6bf413a8ee915b93370ba42/210509-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "POLITICO Playbook: Biden under pressure to act, not mull"
     excerpt: "Right now, the Biden administration is “struggling to find a clear message” amid “anxiety-inducing data on prices and jobs,” as Victoria Guida, Christopher Cadelgo and Natasha Korecki report: “Treasury Secretary JANET YELLEN spooked markets this month when she said interest rates could rise if the economy heated up too much — then clarified a few hours later that it wasn’t a prediction,"
     publishedDateTime: 2021-05-16T15:50:00Z
@@ -667,6 +666,6 @@ related:
         height: 629
         isCached: true
 
-secured: "3VKIvlwJRcLBVHzgdqq3l0CNVjQPhk0Qc9S6c+ihaM44BHeqeHje4el2YhYzdf4JH97DRaTJyY480uAlUiIi8SZlUM/fLtM2TOjLsaMXuogRgROMv27hnzfLRcdi3roIopfX7zrs0VRsdgTR6CT3sQKGtBnTx2XeQQBEs1f4IqpR0paHe2G1uohgyfCjLfD+bsnTsEm8hu9f4HxxXj3AHVXcKiRpWtUS/G2wYpPILnbdwZTghdameGlRy5GzcPm5gTNl0bPnI6ahjHEtChkjD1PF/aPPsFeBpeWWmUCd101T5x6srNWGBL5CKVI4DE6dDSGt6/TA10wZWYDBqVGaRXGDVYgHsjCTr9te/YGHgc4xizXyGhkFHM7LSVm5WDyUC1G2HDcmBlhd64retwUQcjO4IAvwELModPIag/7W+Er+7SCN+BFh28f+lkHCpiLbp6t/OAj/qbdXLJ2VspLDhnIPBk5WnJ7VP+fqNLe8PQDT4t7wIRw01AupLDF+CcBjhLJWbdkPGOzuHw1IUPa+dQ==;rdYC3r7Q5S99G6+yW1bCCw=="
+secured: "88Q36V5LQe8GdOUCQIp9vrdp1Pc4bwXIAwJl2UJzN+Nw/qItd8HjutoM+Ach3Hx4VwmrTwz9hglyyez9UKSb6U56GxQjVNx8fXZfE0f3VCQQafhTcRnE6d3WzHC3xlqOh9CPjj30PR3uQYha+jdgG5GUyHDtiryFlMxDjHPm8BIuS5+RukgDGRE3WM6gyD7XGGmntKAXd1k0u7fNFlfQ1BeQ+TE9dNOY6C/428iL7ZrxPBu/n2PoXU8drB0uX3F8iztvz0UR8mxP0wzBbWGehtutWbNHyIygOsfIq8v8ysHShsLTHss/BDnkVTGd+3iRMoocLfkY7oE9e22m//Qbem/Z/hYgCgsysG5ELKHGt7E=;l40aFBV9vBAGDgt4LDiY4Q=="
 ---
 

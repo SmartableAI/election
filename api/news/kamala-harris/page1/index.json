@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-08-aoc-calls-harris-immigration-comments-disappointing-as-vp-warns-migrants-do-not-come.md",
-      "title": "AOC calls Harris' immigration comments 'disappointing' as VP warns migrants 'do not come'",
-      "excerpt": "New York Democrat Rep. Alexandria Ocasio-Cortez called Vice President Kamala Harris’ comments on immigration “disappointing” on Monday, after Harris said during a press conference that migrants looking to cross the U.S. border should not come.",
+      "path": "_news/2021-06-08-kamala-harris-mixed-messages-on-the-border-from-migrant-embrace-to-do-not-come.md",
+      "title": "Kamala Harris' mixed messages on the border: From migrant 'embrace' to 'do not come'",
+      "excerpt": "Vice President Kamala Harris on Monday issued a tough warning to potential migrants, telling them \"do not come\" to the U.S. and warning that she believed they would be turned back -- a stark contrast to a more welcoming message she had issued in past years.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2lIM3vKflrQ/aoc-slams-vp-harris-over-border-comments",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2lIM3vKflrQ/aoc-slams-vp-harris-over-border-comments",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BHCAEcFYR9g/kamala-harris-mixed-messages-border-migrant-embrace-do-not-come",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BHCAEcFYR9g/kamala-harris-mixed-messages-border-migrant-embrace-do-not-come",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 216,
+      "heat": 238,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d9eaeb4-0fac-46cc-8d39-e5d9b16c24a5/942a8b25-2a3a-41c5-9d0d-4ecbbfeb78ec/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00b804f7-55d2-43fd-8325-c596d752f467/6a0dfc8a-4dfe-456b-8ac8-621f5c277501/1280x720/match/720/405/image.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-slams-vp-harris-over-border-comments.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-slams-vp-harris-over-border-comments.amp",
-      "publishedDateTime": "2021-06-07T17:24:26-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-mixed-messages-border-migrant-embrace-do-not-come.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-mixed-messages-border-migrant-embrace-do-not-come.amp",
+      "publishedDateTime": "2021-06-08T08:30:14-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -232,7 +232,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {

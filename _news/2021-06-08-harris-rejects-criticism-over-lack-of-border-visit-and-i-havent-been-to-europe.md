@@ -1,34 +1,34 @@
 ---
 category: news
-title: "Kamala Harris and a High-Risk, High-Reward Presidential Résumé"
-excerpt: "For the vice president, another run at the Oval Office is a near certainty. How her current responsibilities help or hurt that bid is an open question."
-publishedDateTime: 2021-06-05T09:00:00Z
-originalUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.html"
-webUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.html"
-ampWebUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
+title: "Harris rejects criticism over lack of border visit: 'And I haven't been to Europe'"
+excerpt: "Vice President Kamala Harris pushed back on criticism that she hasn't visited the US-Mexico border in an interview aired on Tuesday by arguing that her travel has been limited during the early days of the Biden administration.\n    \n"
+publishedDateTime: 2021-06-08T14:33:51Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HlRMmQ9VaMU/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HlRMmQ9VaMU/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/kamala-harris-border/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/kamala-harris-border/index.html"
 type: article
-quality: 135
+quality: 179
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Kamala Harris
   - Democratic Voice
+  - Kamala Harris
 
 images:
-  - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05onpolitics-newsletter/05onpolitics-newsletter-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607122242-01-kamala-harris-guatemala-0607-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -45,22 +45,6 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527183402-kamala-harris-triangulo-norte-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Harris rejects criticism over lack of border visit: 'And I haven't been to Europe'"
-    excerpt: "Vice President Kamala Harris pushed back on criticism that she hasn't visited the US-Mexico border in an interview aired on Tuesday by arguing that her travel has been limited during the early days of the Biden administration.\n    \n"
-    publishedDateTime: 2021-06-08T14:33:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HlRMmQ9VaMU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/kamala-harris-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/kamala-harris-border/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 179
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607122242-01-kamala-harris-guatemala-0607-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -96,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris and a High-Risk, High-Reward Presidential Résumé"
+    excerpt: "For the vice president, another run at the Oval Office is a near certainty. How her current responsibilities help or hurt that bid is an open question."
+    publishedDateTime: 2021-06-05T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05onpolitics-newsletter/05onpolitics-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "U.S. Aid to Central America Hasn’t Slowed Migration. Can Kamala Harris?"
     excerpt: "A stark reality faces the vice president as she visits the region: Expanding aid programs have failed to stem migration."
     publishedDateTime: 2021-06-06T07:00:00Z
@@ -129,6 +129,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "abs8UtBCwWpMGxhZyaagD1eeLsPEVgCUpLE6VdvL//fLn4kvF9JtChZ6SfrrT9cb8pUj8bTajacidNWOPbYuvnY+JB2nNs+IkD03SZJuQP39T5EdfIu4HvBOXrfzPtC54kM9gyewLFefHgJQ3cgzjYEF2nBiXlNvoVJ1t9pqvu0XV/cerV5NcTqnnWFlfVDH9dCu2KQ5SGmI1Nu/ZMWeWZsOH6Szzrc3I3QzV/OvRJ4a+k2w8DEdKXzmZvJZSNe5SwLVZuFf4MWBhQsifzETd/rD3dFo50Ful6D1/dV9T2GZE18wWFK6yB5XQKcJn1sXi323z0Zb7aZ2pD12/u2f1C6keE0UxCzmpOrdEdQ0+8POmpaHMbioaFW6i4hBjurIPGTCQIflo40ydO2me+dk5tk7Uz47eWunCjq6ju7UrJCwGlwDuo0O+aDyzI88q4bmZrfn6bckASv4lAm8GDiSAJpFagKndx1viyiyB9wZU9xP3pS24LG+T9v3EIjEMgsHanVwiz9cVO/6sML5F9wxWA==;Y8vmebTturFKXrmCdIc3dg=="
+secured: "cTnapZs/sy6RhLz9888CTamYkfFmbUn5zAEkDCpxYeqBkyKaEOwvSYBbj+1XEWdd2ovMNezRv1/lYTb4N+RiACC0eXXzZK609JOzUxtJiy125NX8oAaB2fYNJQPLKuPpJr2Im91jVCPi5aJ+BeJvAzOxrcq9gaRVJHar578gkRmLiPkfDAiAauR/yi7C6akHfq5EhuRW0ishybSwiyABEuPw/Z3d/hZhqhK4oMw8ukc2bAnwYO6lOAjcjsie7BB2+afc2Ebaz1/p9Ibboylh6KWBHxIPEIhJOiRFCuKtxjKBZfxQ8Jt6ZAX+WZxPY0RHABAZWBpjbXLp7QNhVRjWa5ZzZxBFKJPpYhAggz1HLcs=;PCwPi1qSHsffYJ32IrvQwA=="
 ---
 
