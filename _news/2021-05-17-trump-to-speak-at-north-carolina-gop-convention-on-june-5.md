@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump to speak at Republican event in North Carolina"
-    excerpt: "Former President Donald Trump is set to make a rare public appearance at a Republican event held in North Carolina this Saturday night, where conservatives are expected to plan for their party’s future."
-    publishedDateTime: 2021-06-05T22:57:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-to-speak-at-republican-event-in-north-carolina/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/05/64004832-71bb-4bb6-98fe-bd6b3f663fad/thumbnail/1200x630/a811b2041a295754665d007db9ef952f/ruffini-729168-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump returns to political stage with speech at North Carolina GOP convention"
     excerpt: "The former president continued to repeat falsehoods about the 2020 election, sowing divisions in his own party."
     publishedDateTime: 2021-06-06T02:28:00Z
@@ -92,20 +76,6 @@ related:
     quality: 122
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/06/fdbd3419-5b09-49fb-a498-d32f8dc467d1/thumbnail/1200x630/f6bcb7a155cd44386d8b60ed77087f80/gettyimages-1233293385.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Former President Trump addresses crowd in North Carolina"
-    excerpt: "Former President Trump on Saturday spoke at a Republican event in North Carolina where he discussed the 2020 election and the future of the Republican party. Christina Ruffini has more."
-    publishedDateTime: 2021-06-06T23:12:00Z
-    webUrl: "https://www.cbsnews.com/video/former-president-trump-addresses-crowd-in-north-carolina/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/51c0f68a-9067-4792-9fb9-a75ea1908ac8/thumbnail/1200x630/c1aab970eaca9edd9d42048a3fae7e25/0606-en-ruffini-729566-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

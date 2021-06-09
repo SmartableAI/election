@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-05-democrat-says-trump-counsel-recounted-troubling-events.md",
+      "title": "Democrat says Trump counsel recounted 'troubling events'",
+      "excerpt": "The closed-door interview, which came two years after House Democrats originally sought his testimony, was originally part of Democrats' efforts to investigate whether Trump tried to obstruct Justice Department investigations into his 2016 presidential campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/After-2-year-battle-House-panel-to-interview-16224038.php",
+      "originalUrl": "https://www.chron.com/news/article/After-2-year-battle-House-panel-to-interview-16224038.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php",
+      "publishedDateTime": "2021-06-04T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-sen-capito-and-biden-to-talk-again-monday-on-potential-spending-deal.md",
       "title": "Sen. Capito and Biden to talk again Monday on potential spending deal",
       "excerpt": "President Biden and Sen. Shelley Moore Capito, R-W.Va., talked Friday in their effort to forge a bipartisan deal on infrastructure spending and they've agreed to reconvene on Monday, the senator's office said. ",
@@ -914,7 +957,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1126,7 +1169,7 @@
       "originalUrl": "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1275,62 +1318,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-biden-to-meet-with-queen-elizabeth-ii-at-windsor-castle-on-june-13.md",
-      "title": "Biden to meet with Queen Elizabeth II at Windsor Castle on June 13",
-      "excerpt": "President Biden and first lady Jill Biden are set to meet with Queen Elizabeth II at Windsor Castle during his trip to Europe next month for the G-7 summit, the palace said Thursday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uHx7jkR-4YY/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uHx7jkR-4YY/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13.amp",
-      "publishedDateTime": "2021-06-03T05:41:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

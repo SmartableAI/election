@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump DOJ seized phone records of New York Times reporters"
-    excerpt: "The New York Times reported on Wednesday that the Justice Department under former President Trump Donald Trump RNC warns it will advise presidential candidates against future debates if panel doesn't make changes Washington Post issues correction on 2020 report on Tom Cotton,"
-    publishedDateTime: 2021-06-03T01:38:00Z
-    webUrl: "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters"
-    ampWebUrl: "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp"
+  - title: "Biden's Justice Department follows Trump's lead in E. Jean Carroll defamation lawsuit"
+    excerpt: "The Justice Department is continuing to try to substitute for former President Trump in a defamation lawsuit brought by former Elle columnist E. Jean Carroll."
+    publishedDateTime: 2021-06-09T00:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
     images:
-      - url: "https://thehill.com/sites/default/files/ca_dojhatecrimechurchfire_041521getty.jpg"
-        width: 1440
-        height: 880
+      - url: "https://s.abcnews.com/images/US/trump-carroll-splt-rt-gty-ps-210608_1623166131564_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Facebook suspends Trump until 2023, shifts rules for world leaders"
-    excerpt: "Facebook Inc on Friday suspended former U.S. President Donald Trump until at least January 2023 and announced changes to how it will treat world leaders who break the rules on its site."
-    publishedDateTime: 2021-06-05T04:28:00Z
-    webUrl: "https://www.reuters.com/article/us-trump-facebook-idUSKCN2DG23I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DG23I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DG23I"
+  - title: "Biden turns to Obama to help boost health care enrollment"
+    excerpt: "President Joe Biden has turned to his old boss, former President Barack Obama, to help him encourage Americans to sign up for “Obamacare\" during an expanded special enrollment period in the pandemic"
+    publishedDateTime: 2021-06-05T17:20:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210604&t=2&i=1564541092&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5314F"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Health/WireAP_115d35a8669d4d67959566146d2dadef_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump to speak at Republican event in North Carolina"
+    excerpt: "Former President Donald Trump is set to make a rare public appearance at a Republican event held in North Carolina this Saturday night, where conservatives are expected to plan for their party’s future."
+    publishedDateTime: 2021-06-05T22:57:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-to-speak-at-republican-event-in-north-carolina/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/05/64004832-71bb-4bb6-98fe-bd6b3f663fad/thumbnail/1200x630/a811b2041a295754665d007db9ef952f/ruffini-729168-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Just over half in new poll support Facebook's suspension of Trump"
     excerpt: "A slim majority of Americans surveyed in a new poll said they support a recent decision by Facebook to extend a suspension of former President Trump Donald Trump Biden DOJ adopts Trump's ..."
@@ -79,38 +95,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "New Jersey voters to select GOP governor nominee after Trump-filled primary"
-    excerpt: "New Jersey Republicans will select a challenger to Gov. Phil Murphy (D) on Tuesday after a primary that focused on how candidates would prevent future pandemic lockdowns and whether they had done enough to support Donald Trump’s reelection bid."
-    publishedDateTime: 2021-06-08T10:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6YDOV3GH4QI6XANRGR4WY44TV4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Facebook will end special treatment for politicians after Trump ban - report"
-    excerpt: "Reported change comes after the Facebook oversight board said that the same rules should apply to all users"
-    publishedDateTime: 2021-06-03T21:23:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/jun/03/facebook-content-moderation-trump-ban"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/jun/03/facebook-content-moderation-trump-ban"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jun/03/facebook-content-moderation-trump-ban"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/56e3613f35b98dddab767517b6385fc637cfeaad/0_18_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33da07d376c7aee7efd80937b10ca43e"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Biden DOJ Plans To Continue To Defend Trump In E. Jean Carroll's Defamation Lawsuit"
     excerpt: "The Justice Department simultaneously distanced itself from the allegations Carroll has made that former President Donald Trump sexually assaulted her in the 1990s."
     publishedDateTime: 2021-06-08T15:18:00Z
@@ -125,120 +109,76 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Republican leaders say they want to focus on the future, but Trump is far from done with the past"
-    excerpt: "Trump’s appearance Saturday in North Carolina illustrates a continued conundrum for the Republican Party: While he remains overwhelmingly popular among the party’s faithful, he potentially poses a problem for the GOP as it looks to win over voters ahead of the 2022 midterms who are wary of his divisive style."
-    publishedDateTime: 2021-06-06T22:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QA6YQHWG6EI6XL6QS4TPP3ALUY.jpg&w=1440"
-        width: 1440
-        height: 1029
-        isCached: true
-  - title: "Fact Check-Trump does not own half of Moderna, as posts claim"
-    excerpt: "Moderna, one of the pharmaceutical companies spearheading COVID-19 vaccination efforts in the United States, is not half owned by former president Donald Trump, as posts on social media claim."
-    publishedDateTime: 2021-06-02T20:15:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-trump-moderna/fact-check-trump-does-not-own-half-of-moderna-as-posts-claim-idUSL2N2NK2VH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NK2VH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NK2VH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Russian accounts still active on pro-Trump sites -researchers"
-    excerpt: "A group believed to be Russian has remained active on internet services favored by far-right Americans, showing efforts to interfere in U.S. politics continue after the election, according to reports from social media research firm Graphika and nonprofit Advance Democracy Inc."
-    publishedDateTime: 2021-06-07T13:00:00Z
-    webUrl: "https://www.reuters.com/technology/russian-accounts-still-active-pro-trump-sites-researchers-2021-06-07/"
+  - title: "President Biden bikes for first lady’s bday"
+    excerpt: "Politics President Biden bikes for first lady’s bday. Posted . U.S. President Joe Biden and his wife Jill went for a bike ride at a Delaware state park on Thursday as they celeb"
+    publishedDateTime: 2021-06-03T21:08:00Z
+    webUrl: "https://www.reuters.com/video/watch/president-biden-bikes-for-first-ladys-bd-id730870669?chan=6g5ka85"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://www.reuters.com/resizer/EU-UeRNbl9GNyodkJwyZ7ATzNdk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WAJHWC7A3RLYXI4LPO36KDRE6E.jpg"
+      - url: "https://static.reuters.com/resources/r/?d=20210603&i=OVEFURG7Z&r=OVEFURG7Z&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Former President Trump addresses crowd in North Carolina"
+    excerpt: "Former President Trump on Saturday spoke at a Republican event in North Carolina where he discussed the 2020 election and the future of the Republican party. Christina Ruffini has more."
+    publishedDateTime: 2021-06-06T23:12:00Z
+    webUrl: "https://www.cbsnews.com/video/former-president-trump-addresses-crowd-in-north-carolina/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/51c0f68a-9067-4792-9fb9-a75ea1908ac8/thumbnail/1200x630/c1aab970eaca9edd9d42048a3fae7e25/0606-en-ruffini-729566-640x360.jpg"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "Trump Believes He Can Regain the Presidency This Summer"
-    excerpt: "Maggie Haberman and the Washington Post report that Donald Trump has been proclaiming to anybody who would listen that his return to power is imminent. Trump is obsessively following a so-called “audit” in Arizona,"
-    publishedDateTime: 2021-06-03T18:06:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/trump-reinstatement-president-election-recount-audit-domino-insurrection-riot.html"
+  - title: "Latest in the Biden administration"
+    excerpt: "Border policy, infrastructure, Sen. Joe Manchin\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-08T19:00:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210608190031-latest-in-the-biden-administration-border-policy-infrastructure-sen-joe-manchin/"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/08/story_10736457_1623179284.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump Told Allies He'll Run For President In 2024 Under One Condition: Report"
-    excerpt: "Trump’s political ambitions \"are making some congressional Republicans anxious,\" according to interviews conducted by Politico with 20 Republicans in both the House and Senate."
-    publishedDateTime: 2021-05-28T11:31:00Z
-    webUrl: "https://www.ibtimes.com/trump-told-allies-hell-run-president-2024-under-one-condition-report-3210998"
-    ampWebUrl: "https://www.ibtimes.com/trump-told-allies-hell-run-president-2024-under-one-condition-report-3210998?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-told-allies-hell-run-president-2024-under-one-condition-report-3210998?amp=1"
+  - title: "President Joe Biden returns to the White House"
+    excerpt: "U.S. President Joe Biden gets into a limo after stepping off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
+    publishedDateTime: 2021-06-04T18:26:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/1b38ca44290d367c6c73fd0cf62370f0/President-Joe-Biden-returns-to-the-White-House/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
-        width: 1024
-        height: 731
-        isCached: true
-  - title: "Twitter Reacts To Trump's Extremely Wrinkled Pants, Says It's Worn Backwards"
-    excerpt: "Trump appeared at a Republican convention wearing noticeably wrinkled pants Twitter users claim he wore his trousers backward Snopes later said Trump had been wearing the pants the right way Former President Donald Trump has been the subject of a Twitter storm after he made headlines this week over his attire at a Republican convention."
-    publishedDateTime: 2021-06-08T01:40:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/former-president-donald-trump-north-carolina-republican-partys-convention.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "Back On Stage, Trump Airs Conspiracies And Flirts With 2024 Run"
-    excerpt: "Former US president Donald Trump returned to the spotlight Saturday for his first speech in months, framing next year's midterm elections as a battle for the \"survival of America\" -- but keeping followers guessing on his own plans for 2024."
-    publishedDateTime: 2021-06-06T02:54:00Z
-    webUrl: "https://www.ibtimes.com/back-stage-trump-airs-conspiracies-flirts-2024-run-3218228"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: UPI.com
+      domain: upi.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/05/former-us-president-donald-trump-addresses-the-state.jpg"
-        width: 1024
-        height: 680
+      - url: "https://cdnph.upi.com/pv/upi/1b38ca44290d367c6c73fd0cf62370f0/USA-WHITE-HOUSE-BIDEN.jpg"
+        width: 650
+        height: 433
         isCached: true
-  - title: "What happened when Donald Trump was banned from social media"
-    excerpt: "In an examination of Donald Trump's social media engagement both before and after he was banned from Facebook and Twitter, one thing was very clear: His most ardent supporters continued to spread his message when he was unable to"
-    publishedDateTime: 2021-06-07T18:55:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/?amp=1"
+  - title: "United States President Joe Biden departs from Holy Trinity Catholic Church"
+    excerpt: "United States President Joe Biden departs from Holy Trinity Catholic Church in Washington, DC on June 5, 2021. Photo by Chris Kleponis/UPI"
+    publishedDateTime: 2021-06-06T00:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4cbf302b2616c16b3668de34f9f109e3/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
+      name: UPI.com
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/4cbf302b2616c16b3668de34f9f109e3/BIDEN-CHURCH.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "nYYuHs5vBNNatnQTqfts1ndeSAOLW3M3vZP25GpBWEfNvFo1YLdKZBG2amK8GMgoKDW6dxO9eo8oNuOGdP2D1jpLMhp/EyYLwzi+3FQkYlxtwbmgYduG5pOhI6YO+VqEmc3pY3zC8maF+jAViZfVa8lZmeayIUFjQ8WzzwUfuxDfH6i3mFkrbumN4t0g/nHm9h4o1mxqSy6y6osI7GcN77Nbpj9yLf2KCfYxl/CmryojgTLYCHhvtdHiqsjq+g4aKNntwLG2hGACcYH7roiRIg5IAfJc0gJGxW+DdW7ruFydBPsm0NJNAhVl7HjHbB6JmnEIuw2VwC8Jbqh/FHuFH06iHRxfKY3Uy3f8elPKakVXkKcQ+qAZNtNPJ3ezfBJPtaJTuSN6ZYd+zehR21HKuh9QUobV9Iy7xN/wrPp5UWsCoq/E/yfQ5qhKeKNNLFwVZI1nCe1clfhmKAftY8S0HSE7Q3QRPHoNNFNk+f+iPq71yWWdoql5HtYa8cuw35F3EucRsqFLfW5nRbNjydZlRQ==;81wODgEG8BK6u2wHv15WXg=="
 ---

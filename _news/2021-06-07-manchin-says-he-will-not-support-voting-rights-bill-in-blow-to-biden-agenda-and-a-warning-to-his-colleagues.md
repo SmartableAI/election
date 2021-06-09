@@ -47,35 +47,19 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Biden turns to Obama to help boost health care enrollment"
-    excerpt: "President Joe Biden has turned to his old boss, former President Barack Obama, to help him encourage Americans to sign up for “Obamacare\" during an expanded special enrollment period in the pandemic"
-    publishedDateTime: 2021-06-05T17:20:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_115d35a8669d4d67959566146d2dadef_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "'A lot of anxiety' for Democrats as Biden agenda stalls"
     excerpt: "Six months into the Democrats’ hold on Washington, the party’s progressive wing is growing increasingly restless"
-    publishedDateTime: 2021-06-08T02:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/time-ticking-democrats-face-wrenching-test-agenda-78124217"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/time-ticking-democrats-face-wrenching-test-agenda-78124217"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/time-ticking-democrats-face-wrenching-test-agenda-78124217"
+    publishedDateTime: 2021-06-08T04:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_95a5e611a6084e15a0212f4353a3a0f8_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a67c5b5cf26a448f97c3304222e3e1b6_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -126,7 +110,7 @@ related:
   - title: "Republican negotiator expects no infrastructure deal with Biden on Tuesday"
     excerpt: "The Republican U.S. senator leading her party's talks with President Joe Biden on his sweeping infrastructure proposal said she hopes the two will talk on Tuesday but does not expect a deal to emerge."
     publishedDateTime: 2021-06-08T14:59:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-congress/republican-negotiator-expects-no-infrastructure-deal-with-biden-on-tuesday-idUSKCN2DK20N"
+    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKCN2DK20N"
     type: article
     provider:
       name: Reuters

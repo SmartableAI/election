@@ -25,129 +25,155 @@ images:
     isCached: true
 
 related:
-  - title: "Biden budget highlights: Lots of spending, taxing the rich"
-    excerpt: "President Joe Biden’s $6 trillion budget proposal offers major new initiatives like child and elder care subsidies, generous tax credits for families and the working poor, and free community college"
-    publishedDateTime: 2021-05-29T04:05:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394"
+  - title: "Biden's Justice Department follows Trump's lead in E. Jean Carroll defamation lawsuit"
+    excerpt: "The Justice Department is continuing to try to substitute for former President Trump in a defamation lawsuit brought by former Elle columnist E. Jean Carroll."
+    publishedDateTime: 2021-06-09T00:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/US/trump-carroll-splt-rt-gty-ps-210608_1623166131564_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden turns to Obama to help boost health care enrollment"
+    excerpt: "President Joe Biden has turned to his old boss, former President Barack Obama, to help him encourage Americans to sign up for “Obamacare\" during an expanded special enrollment period in the pandemic"
+    publishedDateTime: 2021-06-05T17:20:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f0a0e4ffd3e348ec92ebab4bdd69a565_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_115d35a8669d4d67959566146d2dadef_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden's $6T budget: Social spending, taxes on business"
-    excerpt: "President Joe Biden is proposing a $6 trillion budget for next year that’s piled high with new safety net programs for the poor and middle class"
-    publishedDateTime: 2021-05-29T04:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-6t-budget-social-spending-taxes-business-77975291"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-6t-budget-social-spending-taxes-business-77975291"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-6t-budget-social-spending-taxes-business-77975291"
+  - title: "Trump to speak at Republican event in North Carolina"
+    excerpt: "Former President Donald Trump is set to make a rare public appearance at a Republican event held in North Carolina this Saturday night, where conservatives are expected to plan for their party’s future."
+    publishedDateTime: 2021-06-05T22:57:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-to-speak-at-republican-event-in-north-carolina/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_782dc8fcdea4478c8b95358a5bb648b0_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/05/64004832-71bb-4bb6-98fe-bd6b3f663fad/thumbnail/1200x630/a811b2041a295754665d007db9ef952f/ruffini-729168-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Biden administration will expand union rights for 46,000 TSA officers"
-    excerpt: "The U.S. Homeland Security Department said on Thursday that 46,000 Transportation Security Administration (TSA) officers will be eligible for expanded union rights and the department will move to boost pay for frontline airport screeners."
-    publishedDateTime: 2021-06-04T03:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-security-airports-idUSKCN2DF2I8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DF2I8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DF2I8"
+  - title: "Just over half in new poll support Facebook's suspension of Trump"
+    excerpt: "A slim majority of Americans surveyed in a new poll said they support a recent decision by Facebook to extend a suspension of former President Trump Donald Trump Biden DOJ adopts Trump's ..."
+    publishedDateTime: 2021-06-08T11:39:00Z
+    webUrl: "https://thehill.com/policy/technology/557270-just-over-half-in-new-poll-support-facebooks-suspension-of-trump"
+    ampWebUrl: "https://thehill.com/policy/technology/557270-just-over-half-in-new-poll-support-facebooks-suspension-of-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557270-just-over-half-in-new-poll-support-facebooks-suspension-of-trump?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210604&t=2&i=1564434157&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5218T"
-        width: 818
-        height: 545
+      - url: "https://thehill.com/sites/default/files/trumpdonald_112620getty_trump-gop.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Joe Biden's Proposed Budget Would Increase Federal Spending to Equal 25% of U.S. Economy, Most Since WWII"
-    excerpt: "The New York Times first obtained documents about the budget request, reporting that Biden will call for total spending to rise to $8.2 trillion by 2031 with deficits topping $1.3 billion throughout the decade."
-    publishedDateTime: 2021-05-28T17:42:00Z
-    webUrl: "https://www.newsweek.com/joe-bidens-proposed-budget-would-increase-federal-spending-equal-25-us-economy-most-since-1595970"
-    ampWebUrl: "https://www.newsweek.com/joe-bidens-proposed-budget-would-increase-federal-spending-equal-25-us-economy-most-since-1595970?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-proposed-budget-would-increase-federal-spending-equal-25-us-economy-most-since-1595970?amp=1"
+  - title: "Biden DOJ Plans To Continue To Defend Trump In E. Jean Carroll's Defamation Lawsuit"
+    excerpt: "The Justice Department simultaneously distanced itself from the allegations Carroll has made that former President Donald Trump sexually assaulted her in the 1990s."
+    publishedDateTime: 2021-06-08T15:18:00Z
+    webUrl: "https://www.npr.org/2021/06/08/1004340386/biden-doj-plans-to-continue-to-defend-trump-in-e-jean-carrolls-defamation-lawsui"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 108
+      name: NPR
+      domain: npr.org
+    quality: 114
     images:
-      - url: "https://d.newsweek.com/en/full/1809772/bidens-budget-increase-spending-most-since-wwii.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://media.npr.org/assets/img/2021/06/08/ap_20295746395355_wide-0bac69349f777885aa0bd9a95d46a3faa03dc025.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
-  - title: "Biden to propose $6 trillion U.S. budget for 2022 fiscal year -NYT"
-    excerpt: "President Joe Biden will seek $6 trillion in U.S. federal spending for the 2022 fiscal year, rising to $8.2 trillion by 2031, the New York Times reported on Thursday, a day before the White House is expected to unveil its budget proposal."
-    publishedDateTime: 2021-05-27T12:55:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-propose-6-trillion-us-budget-2022-fiscal-year-nyt-2021-05-27/"
+  - title: "President Biden bikes for first lady’s bday"
+    excerpt: "Politics President Biden bikes for first lady’s bday. Posted . U.S. President Joe Biden and his wife Jill went for a bike ride at a Delaware state park on Thursday as they celeb"
+    publishedDateTime: 2021-06-03T21:08:00Z
+    webUrl: "https://www.reuters.com/video/watch/president-biden-bikes-for-first-ladys-bd-id730870669?chan=6g5ka85"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://www.reuters.com/resizer/5HgTgTiTA7jNogU_j6BneiGM1D4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TLU3CX4B6NP4RIH2GN5UDDFTII.jpg"
-        width: 1200
-        height: 628
+      - url: "https://static.reuters.com/resources/r/?d=20210603&i=OVEFURG7Z&r=OVEFURG7Z&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "White House defends Biden's comment calling out centrist Democrats for blocking his agenda"
-    excerpt: "The White House on Wednesday defended comments President Biden made a day earlier during a speech in Tulsa, in which he appeared to call out Democratic Senators Joe Manchin and Kyrsten Sinema, who he said \"vote more with my Republican friends."
-    publishedDateTime: 2021-06-02T23:31:00Z
-    webUrl: "https://www.cbsnews.com/video/president-biden-calls-out-centrist-democrats-for-blocking-his-agenda/"
+  - title: "Former President Trump addresses crowd in North Carolina"
+    excerpt: "Former President Trump on Saturday spoke at a Republican event in North Carolina where he discussed the 2020 election and the future of the Republican party. Christina Ruffini has more."
+    publishedDateTime: 2021-06-06T23:12:00Z
+    webUrl: "https://www.cbsnews.com/video/former-president-trump-addresses-crowd-in-north-carolina/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 95
+    quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/02/087ea643-bd40-408f-920f-940bb681fb42/thumbnail/1200x630/497e168ab55cbdf1fe014001201f92c5/cbsn-fusion-white-house-defends-biden-after-president-calls-out-centrist-democrats-for-blocking-his-agenda-thumbnail-727413-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/51c0f68a-9067-4792-9fb9-a75ea1908ac8/thumbnail/1200x630/c1aab970eaca9edd9d42048a3fae7e25/0606-en-ruffini-729566-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden’s $6T budget: Social spending, taxes on business"
-    excerpt: "President Joe Biden is proposing a $6 trillion budget for next year that’s piled high with new safety net programs for the poor and middle class, but his generosity depends on"
-    publishedDateTime: 2021-05-30T02:39:00Z
-    webUrl: "https://www.denverpost.com/2021/05/29/joe-biden-6-trillion-budget-spending-taxes/"
-    ampWebUrl: "https://www.denverpost.com/2021/05/29/joe-biden-6-trillion-budget-spending-taxes/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/05/29/joe-biden-6-trillion-budget-spending-taxes/amp/"
+  - title: "Latest in the Biden administration"
+    excerpt: "Border policy, infrastructure, Sen. Joe Manchin\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-08T19:00:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210608190031-latest-in-the-biden-administration-border-policy-infrastructure-sen-joe-manchin/"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/05/AP21147686823317.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/08/story_10736457_1623179284.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden’s claim of historic job creation at the start of his presidency needs context"
-    excerpt: "The reopening of the economy has played a major role in the historic number of people finding work during the first four months of Biden’s presidency."
-    publishedDateTime: 2021-06-04T20:15:00Z
-    webUrl: "https://www.khou.com/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
-    ampWebUrl: "https://www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+  - title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
+    excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."
+    publishedDateTime: 2021-06-08T11:13:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-justice-department-e-jean-carroll-remarks/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-justice-department-e-jean-carroll-remarks/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-justice-department-e-jean-carroll-remarks/"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 69
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
     images:
-      - url: "https://media.khou.com/assets/VERIFY/images/033e0954-f8c3-4046-a168-26f25df4bf60/033e0954-f8c3-4046-a168-26f25df4bf60_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/27/00b220c7-efcc-4ab4-80ce-259b963ce720/thumbnail/640x456g2/4560b5a2be120c52c53750c611ffdb40/screen-shot-2020-10-27-at-12-04-41-pm.png#"
+        width: 640
+        height: 456
+        isCached: true
+  - title: "United States President Joe Biden departs from Holy Trinity Catholic Church"
+    excerpt: "United States President Joe Biden departs from Holy Trinity Catholic Church in Washington, DC on June 5, 2021. Photo by Chris Kleponis/UPI"
+    publishedDateTime: 2021-06-06T00:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4cbf302b2616c16b3668de34f9f109e3/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/4cbf302b2616c16b3668de34f9f109e3/BIDEN-CHURCH.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "xwcCoj7XtcEFjJLye9VOO9nIQ0255mXbtEYbFZEddjstlqmV+zod35Tr+6a4aNkLhO8uPBa2jmRXa8hrwyK+I7bHNZQ4gKYaWeotG/K3KVxh3S9RPnkfxqXvnOHtP7KHUqhIN8ROi8PLI/KIiKUKynSkGHyVzqJA57aD/SkXU49kYRszSbQMlcYchZ5qg0i0/LOzs9RZi6nWxrzqkVfwW1AWIuCNvLMVl79Du3eY2SUzofbe+RDH+GLxXjf6ZTjj+rF7l9xugX7Witfua+SGBJeZCl0Jde7fCnH44dlImslk+V91iv6lJADfh4p/s+iFvimORZELqow2frnrXNoXGXzzdr8pLyC+FdF6ZWYZXp56vJEEIub9DimkrIB5S3ldnFRSjRilUMqDJUJKmuRzgE6MxKr7xG+vY6anM77Qsfwr302rtfbhpfhzo/gNbUDUij8UHTXNcLixXxgpt1jDWg2LBoJtH1j8kLArtRPLm3e4gIF4Ek0lpQOKxQhi9GI4sy8LAN7/qig2Wi28HA7ajg==;g+0ntlHCOgQmmOIVcd36XQ=="

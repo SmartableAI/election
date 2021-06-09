@@ -272,6 +272,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden gives video address to graduating Parkland students"
+    excerpt: "President Joe Biden has told graduating seniors who were freshmen when a mass shooting left 17 people dead at their Florida high school that they've turned pain into purpose and darkness into light"
+    publishedDateTime: 2021-06-09T01:00:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 75
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/a3003ce/2147483647/strip/true/crop/5000x3266+0+34/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F03%2Fd8980eef5077f563a7450d9cba6b%2F46e40697465a4e198d72507c74e85165"
+        width: 320
+        height: 209
+        isCached: true
 
 secured: "NryfsDZceTzKMnig+1P/vYraIOw7NawqpiHthhdBlrD4R9Hbc43RwlVusbpndXQ9NfMLzE9hiofgKG+ZEKNk8bvgQSJ2yOnaVB+RX2xmP+pzNnR2eW5oaZUYHGA/CezdWuKzJwznzRiVqzSC1CDaSKsN+TPQEZUp4vJYi1IyTPBgVx7mQTcr9FzxbkJK+I+GAa9HgaHbKNdcWcFxVWZXHW1zdiIGrSahzuBXgCRtSeOrizBRPlYMy6gnM3Fzo8i7Qm7lenJTMuO6BfMxsUMEH4bGVEbXXOJ+JcxRtXL+9fetrqgfUeQd1gdltD3WGFKvMuuY5phoN5tdEtS6k61V5EThcvp/9vFHz7vhF7R0jCURHTli1XUw6aOvR4HkYYU1DvAQ560B0r7/aOdQX7ZQ7Npr9X3c8vOsJ0xsWWk5poP9frHubvnu1Xh5LngvNUo15mDQtZQQSUVLiVviayxXHOCOsO1ZVay0h9TK+QNWp9i37BJEDFWaxzIshj09NSM0dsTodCetvAvnDPwm82TsHg==;/GeUJkyzqD4p3iwODw1/KA=="
 ---

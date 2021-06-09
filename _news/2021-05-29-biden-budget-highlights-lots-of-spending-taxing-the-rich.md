@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-budget-highlight
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394"
 type: article
 quality: 125
-heat: 285
+heat: 265
 published: true
 
 provider:
@@ -138,20 +138,6 @@ related:
       - url: "https://media.khou.com/assets/VERIFY/images/033e0954-f8c3-4046-a168-26f25df4bf60/033e0954-f8c3-4046-a168-26f25df4bf60_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "President Joe Biden returns to the White House"
-    excerpt: "U.S. President Joe Biden gets into a limo after stepping off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
-    publishedDateTime: 2021-06-04T18:26:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/1b38ca44290d367c6c73fd0cf62370f0/President-Joe-Biden-returns-to-the-White-House/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/1b38ca44290d367c6c73fd0cf62370f0/USA-WHITE-HOUSE-BIDEN.jpg"
-        width: 650
-        height: 433
         isCached: true
 
 secured: "adcPOGShgrk46HthL2BfTY6vPmd/bcKmyCNoOGWdJNBuFamIthSbe7ZiAKW7NlMiDe5Oz5hbgjYPnObCZqq1SW1HtL8y5PyjWkHQ+DOWUTghwwT/H/QaRJQXb+FELJlWw0560j533JpNjxkj7TW8RLB2w2vjxAV2Cgq31ShKMZSMEcx2HSpEeun0GHtiv/07tIhPUdr7CDkgW/1tGuYc52Bt4ke/f2mtKeWG8szif/fVPARqeLMy6uOsVsGhj4n/IXZ0ai/4r9+0Lxksq8jnnjwts1SHoj+YPBB+OhjbzacKI40XHaZagfqLYYGhUpGPhnNocrGhmKfD44CCtXiRzTtet0TbbQ0WvG9mBekieeU=;qrwCjHTq8/QFORO1u5lr5A=="

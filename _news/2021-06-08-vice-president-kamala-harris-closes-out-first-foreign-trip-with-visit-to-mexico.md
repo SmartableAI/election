@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris under pressure to visit US-Mexico border"
+    excerpt: "Vice-President Kamala Harris has faced pressure to visit the US-Mexico border, as she tackled a record migration spike on her first official foreign trip. Ms Harris had a testy exchange with a news anchor who asked why she had not gone to the US' southern boundary."
+    publishedDateTime: 2021-06-08T23:09:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57408094?at_custom4=FF8ED09A-C8A0-11EB-8A2E-4BFA15F31EAE&at_custom2=twitter&at_campaign=64&at_medium=custom7&at_custom1=%5Bpost+type%5D"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57408094.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57408094.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1844D/production/_118850499_gettyimages-1233319341.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Vice President Kamala Harris’ plane forced to return due to technical problem"
     excerpt: "A technical problem that involved \"no immediate safety issue\" forced Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."
     publishedDateTime: 2021-06-06T19:19:00Z
@@ -364,22 +380,6 @@ related:
       - url: "https://www.tampabay.com/resizer/uls7ATZ4zW3R9qTpUGmrEhpWOu0=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/C676FOACOJF4FHXCS57HUIFB64.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Kamala Harris under pressure to visit US-Mexico border"
-    excerpt: "Vice-President Kamala Harris is under pressure to visit the US-Mexico border as she targets illegal immigration on her first official foreign trip. Ms Harris had a testy exchange with a cable anchor who asked why she had not gone to the US' southern boundary."
-    publishedDateTime: 2021-06-08T21:05:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-57408094"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57408094.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57408094.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1844D/production/_118850499_gettyimages-1233319341.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "On 1st trip, Kamala Harris says Guatemalans need 'hope' to deter migration"
     excerpt: "Central Americans must believe that \"help is on the way\" if illegal migration to the United States is to be curbed, Vice President Kamala Harris said Monday in Guatemala during her first official foreign visit."
@@ -667,6 +667,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "vgPVkzPu6A35KQCK77MTgJFk9Nyc3mT7G3MevU+Pmx7SBmNZ0W0i/zXJS7SwnIGURSXhdXwW6qDMMYZWx/SEZF+2FJV5swCkHnOOSoG/Tty0s3iPjwVHkYFZ+ywQcGthVYZFRykVE+X2xl/nZ7nk1N18R8ateynX71NoQw2GKRWwWdN570jwHz/+agbRp8fUwPxlP8IcSvfvLg3cd0+caqj4EWT36C8aEURASYyeWtOxyhLuR4FjP3f23dWXm1X63cpk8ajZ985XfsKMO1Ake9RQq1JLCBbni2cLMfDjV49UbGxiuWFhTYcEP8E9Gd/EU5uOYT9T4JMqtngaSfQgUPy++JbzUTUs3BY4fiow154=;Xo3KL/tS0gzQpd5GNLFbbw=="
+secured: "yUHj/ABerZE72N9qf0PisDE/qKENA5ekM/spoV/TIhPwV2JDtvor0jpJfSb+iLr5FkrceVRah50ZaJCVj3qrpZ+h9LTTJDUlz45DUPnwmkNRashM5Ye6RC1Up2pXvV5WWjccn66yegHuadBt+3QTvk99lWDx5urTBmmQZgrhy77WsjR2tCuMQ1DscRwKomxMh32em4L9SNZ+R7B082Kw0f59NNkaTkFfk+2ZWwAvrZDVGIpoEM5nVMXBzc/ItARs6MYKzlIpDCgksDDKgqz7/zGrWflT40uKrdnGblCjxYnn5CSD/H6cEnhT6MMReKifcHeONT/xHgDPgsOtOFpYRMZbzS+u6ell0WZ0ZxTE+I9+9pGY/bbNVmvveXQXrgD2iUlBhUppnNT+SGr8gyrVXv9Gz2g+CMm2WATjsdhoLod6IW5+B5fdscrwDbpcPruRHNY0i6F3atvYftuPHI++jCNxfuFN5xge+ruikbCJiv8ZJ2b+noCBUPDhgcmIsJGLcSrs7c8ajD9jfMEwRxgo/Q==;R5MP9ca4f9Yds+f9Yg+oQg=="
 ---
 

@@ -175,6 +175,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Nikki Haley rips Kamala Harris for handling of border crisis: 'This is embarrassing'"
+    excerpt: "Former U.N. Ambassador Nikki Haley on Tuesday ripped Kamala Harris for her handling of the border, as the Vice President still has yet to set a date to travel there and has gone nearly 100 days without a press conference on the migrant surge."
+    publishedDateTime: 2021-06-09T01:00:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cK2CkTmFO7c/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc94b485-5058-4d0d-b314-c39b8519a638/04d9b1c6-0f33-4e33-885c-c8e6ab0a7b6c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Harris, in Guatemala, tells potential migrants they will be turned back: 'Do not come'"
     excerpt: "Vice President Kamala Harris, as part of her visit to Guatemala, on Monday told potential migrants that they should not travel to the U.S. Mexico border -- claiming that they would be turned back if they did."
     publishedDateTime: 2021-06-07T19:22:57Z

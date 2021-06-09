@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-07-liz-cheney-what-trump-did-is-the-most-egregious-violation.md",
+      "title": "Liz Cheney: What Trump did is 'the most egregious violation'",
+      "excerpt": "Rep. Liz Cheney (R-WY) shares her thoughts on the aftermath of the January 6th insurrection with CNN's David Axelrod on his podcast, \"The Axe Files\".\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fYg3Qy-quOs/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fYg3Qy-quOs/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210503055421-liz-cheney-donald-trump-split-for-video-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/06/07/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/07/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
+      "publishedDateTime": "2021-06-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-the-never-ending-ever-frustrating-hunt-for-the-biden-doctrine.md",
       "title": "The never-ending, ever-frustrating hunt for the ‘Biden doctrine’",
       "excerpt": "For decades, Washington has been searching for Joe Biden's foreign policy vision. But why?",
@@ -783,7 +839,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 692,
+      "heat": 712,
       "tags": null,
       "images": [
         {
@@ -1319,49 +1375,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-democrat-says-trump-counsel-recounted-troubling-events.md",
-      "title": "Democrat says Trump counsel recounted 'troubling events'",
-      "excerpt": "The closed-door interview, which came two years after House Democrats originally sought his testimony, was originally part of Democrats' efforts to investigate whether Trump tried to obstruct Justice Department investigations into his 2016 presidential campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/After-2-year-battle-House-panel-to-interview-16224038.php",
-      "originalUrl": "https://www.chron.com/news/article/After-2-year-battle-House-panel-to-interview-16224038.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php",
-      "publishedDateTime": "2021-06-04T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

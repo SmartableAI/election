@@ -135,20 +135,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "President Joe Biden returns to the White House"
-    excerpt: "U.S. President Joe Biden gets into a limo after stepping off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
-    publishedDateTime: 2021-06-04T18:26:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/1b38ca44290d367c6c73fd0cf62370f0/President-Joe-Biden-returns-to-the-White-House/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/1b38ca44290d367c6c73fd0cf62370f0/USA-WHITE-HOUSE-BIDEN.jpg"
-        width: 650
-        height: 433
-        isCached: true
 
 secured: "LEHShbwTcbkMj7JLbKilguoHBl7j2HmXI9GprbjZUTPO+8iEraJzI1y2jLGXYRPNpgkxsDfrjQSHSZcDb5kseYpkfn/BwQl1pF7UzWzY+TJsdUXU1c3bZZgFQ/iY1fGJq1rfkZferDyKlH8olpOcughOga2MvVWa5UlZgyyZxyZxKIOt+v+7705eEtHiepf6gbActX1elOi3XXKjddlOw0ZKkN+/2wbRuHkshnk9TZc7ZAu7z1UhuieeSYh24LyoqG6C/qyCC+hTfhObyoUTElkB5IWqFuY2Dl6afKrJQg0LspcOe4p9c96bBvCmVzf62K4E2B6MYWEpGlDLoCNpdwZLt5uv/OrsI2bYCp1Q/dzZY/T7JCmuaTYIrwiOy+33Uo9u/Bo32byFVa8b40PksB3796izl5vFeKyslXaB7DVGmLTnO74Rw2qvUrrmbmxWsDKZtv1hJU3Suc44D8U68zB9DzSezw5mGPKz8voCPVGT0cd4xfps8GIuW4mzn+ungSPREQRjkOpm3ioIUcCpWg==;bOzru9eM72vJ0zW7MqbTzA=="
 ---

@@ -185,20 +185,6 @@ related:
         width: 2500
         height: 1720
         isCached: true
-  - title: "President Biden bikes for first lady’s bday"
-    excerpt: "Politics President Biden bikes for first lady’s bday. Posted . U.S. President Joe Biden and his wife Jill went for a bike ride at a Delaware state park on Thursday as they celeb"
-    publishedDateTime: 2021-06-03T21:08:00Z
-    webUrl: "https://www.reuters.com/video/watch/president-biden-bikes-for-first-ladys-bd-id730870669?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210603&i=OVEFURG7Z&r=OVEFURG7Z&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "President Joe Biden says Texas voting bill is “part of an assault on democracy”"
     excerpt: "Senate Bill 7, a Republican priority voting bill, would limit early voting hours, curtail local voting options and further clamp down on mail-in voting, among several other provisions."
     publishedDateTime: 2021-05-29T18:23:00Z

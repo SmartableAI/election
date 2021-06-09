@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/senate-confirms-first-biden-judicia
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-first-biden-judicial-nominee-schumer-promises-swiftly.amp"
 type: article
 quality: 165
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hawley, GOP senators delay Biden OPM nominee confirmation over critical race theory, abortion stance"
+    excerpt: "Senate Republicans are delaying confirmation proceedings for Kiran Ahuja, President Biden’s nominee to serve as head of the Office of Personnel Management, amid concerns about her stance on critical race theory and abortion rights."
+    publishedDateTime: 2021-06-09T00:57:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sekjEVxJRVw/hawley-gop-senators-block-biden-opm-nominee-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-gop-senators-block-biden-opm-nominee-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-gop-senators-block-biden-opm-nominee-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d73e80b0-bb67-443f-85d7-eb5579eb201c/116ec0e7-301a-4514-893b-9973e3b6bc65/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden Needs to Make China Pay for Actions Over Covid"
     excerpt: "President Joe Biden flies across the pond Wednesday to meet European leaders. He says the goal is to deliver real results on critical issues such as climate change and cybersecurity. Yet the"
     publishedDateTime: 2021-06-08T11:21:00Z

@@ -2,11 +2,11 @@
 category: news
 title: "'A lot of anxiety' for Democrats as Biden agenda stalls"
 excerpt: "Six months into the Democrats’ hold on Washington, the party’s progressive wing is growing increasingly restless"
-publishedDateTime: 2021-06-08T02:50:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/time-ticking-democrats-face-wrenching-test-agenda-78124217"
-webUrl: "https://abcnews.go.com/Politics/wireStory/time-ticking-democrats-face-wrenching-test-agenda-78124217"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/time-ticking-democrats-face-wrenching-test-agenda-78124217"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/time-ticking-democrats-face-wrenching-test-agenda-78124217"
+publishedDateTime: 2021-06-08T04:12:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
+webUrl: "https://abcnews.go.com/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lot-anxiety-democrats-biden-agenda-stalls-78144036"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_95a5e611a6084e15a0212f4353a3a0f8_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_a67c5b5cf26a448f97c3304222e3e1b6_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -46,22 +46,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/1b46bff/2147483647/strip/true/crop/3619x2364+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F83%2F8d%2F49ba68437eface87637124193ea2%2F5189605cb4724ba8a4dd8ff54178610c"
         width: 320
         height: 209
-        isCached: true
-  - title: "Biden turns to Obama to help boost health care enrollment"
-    excerpt: "President Joe Biden has turned to his old boss, former President Barack Obama, to help him encourage Americans to sign up for “Obamacare\" during an expanded special enrollment period in the pandemic"
-    publishedDateTime: 2021-06-05T17:20:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_115d35a8669d4d67959566146d2dadef_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Biden to get warm welcome from relieved but wary allies"
     excerpt: "When U.S. President Joe Biden flies to Europe this week on his first foreign trip as president, he will find his hosts welcoming but wary"
@@ -126,7 +110,7 @@ related:
   - title: "Republican negotiator expects no infrastructure deal with Biden on Tuesday"
     excerpt: "The Republican U.S. senator leading her party's talks with President Joe Biden on his sweeping infrastructure proposal said she hopes the two will talk on Tuesday but does not expect a deal to emerge."
     publishedDateTime: 2021-06-08T14:59:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-congress/republican-negotiator-expects-no-infrastructure-deal-with-biden-on-tuesday-idUSKCN2DK20N"
+    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKCN2DK20N"
     type: article
     provider:
       name: Reuters
@@ -223,6 +207,6 @@ related:
         height: 433
         isCached: true
 
-secured: "xMq/yCYO23oV4cxx5qECtTZeKEF8Sl3+wzp8ajRbN8Q9EcqN3QW5/s5vu1fPUJpgmdU0qySGGGbabgamTzlKWGr70MGlEVYCPkP/feq09R5FbzxAX2T/3YKj+uEyjhvp16M15wDXqvWK07/N1W0G0uTT13AIgEdnFHBLOzqKpiZOZibZWnydzZP8yftKYannHnhWQZvVr73ykTmDdaW7ujSpuwqL3vXNKA8CRSVd3BxKDSHBdaHitMH0cXV7c2XOVqLag9Qh/h1K1IG2BbFpMTbJpvH182cm30Zjk4UdyGJ2d0YK77b9J6uFDvtzFbvg+AQ/EVZ5P7DLOnV/GcQZZx9uj9NyXM5RUddOAbBWrUU854qRIpJzguK2OOhL1ma0dYUmw6XkSrNDO5urGNC7Ptr2mOj5ierPh/N0BtZX0CBAiE8syR/nTwMt56GC6SHExIdIfn1ylkDX4XYVn4glJbMSR7OEuwBmcWFut3a+LmLmvcAKOGozmeRY6/KHASy1oAqGuLaYuu0Vk8ld7BPitQ==;XWq7m/kE32sGeCZ6cR/ORw=="
+secured: "k/uQhNkgcrqw/fpd0iTtWsq3d8HD53DsOWlhoZW1WNMYKLf5rjcAUVYaf7NyhzaFFWAuw15p227ia5nk1pSBRkesX42OHJVFSl6mh/ifcIpvz0m9O5rzNT0FRX1lomC7+43FPtkoGXBMegfaQMV4aT6yOTPM+zz2/1FBuzVzJKhTfKYIBxi5r66htNUvCJR/7ZV8hUDtk8YaHLFM1dyQgaRDu0JgjsgWF8YnVt0mn3e3Dx3TRrp47+TST6kOIzJIjnzjfD4wK8aFDuouFpwa9HS/nVS42iKkEoAe2IM6808zebcDfL7yP9P6BVEpXJAtpO4Y+ukr6Kg0coPGsTkF08qTYWnjLwmh7Y81247gj+E=;+3C6fWVhnrV4tDd167+FuQ=="
 ---
 

@@ -766,6 +766,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "President Biden Isn’t Making Life Easy for Kamala Harris"
+    excerpt: "The vice-president is the presumed frontrunner to someday succeed Biden. He might want to start giving her less impossible assignments."
+    publishedDateTime: 2021-06-09T00:23:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/06/kamala-harris-saddled-with-difficult-tasks-by-biden.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/kamala-harris-saddled-with-difficult-tasks-by-biden.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/kamala-harris-saddled-with-difficult-tasks-by-biden.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/85e/252/58f68e5d6c5d18cf0760247ddae88db4ca-kamala-harris-guatemala.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
     publishedDateTime: 2021-04-21T22:37:00Z

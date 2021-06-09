@@ -768,6 +768,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "President Biden Isn’t Making Life Easy for Kamala Harris"
+    excerpt: "The vice-president is the presumed frontrunner to someday succeed Biden. He might want to start giving her less impossible assignments."
+    publishedDateTime: 2021-06-09T00:23:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/06/kamala-harris-saddled-with-difficult-tasks-by-biden.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/kamala-harris-saddled-with-difficult-tasks-by-biden.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/kamala-harris-saddled-with-difficult-tasks-by-biden.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/85e/252/58f68e5d6c5d18cf0760247ddae88db4ca-kamala-harris-guatemala.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris, Nancy Pelosi will be historic duo at Biden's address to Congress"
     excerpt: "When Joe Biden delivers his first speech as president to Congress on Wednesday, history will be made behind him. For the first time during a joint address to Congress, the majority of politicians on the dais in the House of Representatives will be women,"
     publishedDateTime: 2021-04-28T11:18:00Z

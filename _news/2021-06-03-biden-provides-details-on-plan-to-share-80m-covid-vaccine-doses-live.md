@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-repub
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -259,6 +259,22 @@ related:
       - url: "https://i.insider.com/60b01460bee0fc0019d5a148?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden gives video address to graduating Parkland students"
+    excerpt: "President Joe Biden has told graduating seniors who were freshmen when a mass shooting left 17 people dead at their Florida high school that they've turned pain into purpose and darkness into light"
+    publishedDateTime: 2021-06-09T01:00:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 75
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/a3003ce/2147483647/strip/true/crop/5000x3266+0+34/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F03%2Fd8980eef5077f563a7450d9cba6b%2F46e40697465a4e198d72507c74e85165"
+        width: 320
+        height: 209
         isCached: true
   - title: "Stimulus check update: President Joe Biden leaves door open to 4th payment"
     excerpt: "Some lawmakers are pushing for a fourth round of coronavirus stimulus checks. So are more than 2 million Americans."

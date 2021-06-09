@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-bidens-justice-department-follows-trumps-lead-in-e-jean-carroll-defamation-lawsuit.md",
+      "title": "Biden's Justice Department follows Trump's lead in E. Jean Carroll defamation lawsuit",
+      "excerpt": "The Justice Department is continuing to try to substitute for former President Trump in a defamation lawsuit brought by former Elle columnist E. Jean Carroll.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523",
+      "originalUrl": "https://abcnews.go.com/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 333,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/trump-carroll-splt-rt-gty-ps-210608_1623166131564_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523",
+      "publishedDateTime": "2021-06-08T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to-follow.md",
       "title": "Trump backs Nigeria banning Twitter, calls for other countries to follow",
       "excerpt": "Former President Trump on Tuesday applauded Nigeria’s Twitter ban and called on other countries to follow suit.",
@@ -1461,7 +1513,7 @@
       "originalUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1502,63 +1554,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-washington-post-op-ed-claims-media-no-longer-needs-trump-despite-nonstop-coverage-of-former-potus.md",
-      "title": "Washington Post op-ed claims media 'no longer needs Trump' despite nonstop coverage of former POTUS",
-      "excerpt": "Washington Post columnist Paul Waldman made a questionable claim that the media \"no longer needs\" Donald Trump despite the continued coverage the former president still receives more than four months after leaving office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump",
-      "originalUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13047418-caba-44ab-b1ef-54005bdff3dc/dacbaf78-7f4d-4ad2-9cae-657e1f1b9c1b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-media-no-longer-needs-trump.amp",
-      "publishedDateTime": "2021-06-02T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],
