@@ -253,6 +253,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden Praised for 'Bold Leadership' to End Pandemic After Reports U.S. to Donate 500M COVID Shots"
+    excerpt: "\"The Biden administration's decision to purchase and donate additional COVID-19 vaccine doses is the kind of bold leadership that is needed to end this global pandemic,\" said Tom Hart, acting CEO at The ONE Campaign."
+    publishedDateTime: 2021-06-09T19:50:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-praised-bold-leadership-end-pandemic-after-reports-us-donate-500m-covid-shots-1599182"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-praised-bold-leadership-end-pandemic-after-reports-us-donate-500m-covid-shots-1599182?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-praised-bold-leadership-end-pandemic-after-reports-us-donate-500m-covid-shots-1599182?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 110
+    images:
+      - url: "https://d.newsweek.com/en/full/1817292/biden-g-7.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Biden invites Ukrainian president to White House"
     excerpt: "President Joe Biden has invited Ukrainian President Volodymyr Zelenskyy for a White House visit this summer. The invitation comes as Zelenskyy has expressed concerns about Biden's plan to meet with Russian President Vladimir Putin next week."
     publishedDateTime: 2021-06-07T19:10:00Z

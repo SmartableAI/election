@@ -203,6 +203,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Democrats and Activists Say Kamala Harris' First Foreign Trip Eclipsed by Her 'Don't Come' Comment"
+    excerpt: "Harris tough talk reverberated among immigration organizations, advocates, and even Hollywood allies of the White House, with a belief that Harris trip was overshadowed by comments many believed to be aimed more at appeasing intractable Republicans than anyone else."
+    publishedDateTime: 2021-06-09T19:32:00Z
+    webUrl: "https://www.newsweek.com/democrats-activists-say-kamala-harris-first-foreign-trip-eclipsed-her-dont-come-comment-1599052"
+    ampWebUrl: "https://www.newsweek.com/democrats-activists-say-kamala-harris-first-foreign-trip-eclipsed-her-dont-come-comment-1599052?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/democrats-activists-say-kamala-harris-first-foreign-trip-eclipsed-her-dont-come-comment-1599052?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 111
+    images:
+      - url: "https://d.newsweek.com/en/full/1817157/kamala-harris-guatemala.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Border Mayors in Texas and Arizona Welcome Kamala Harris' 'Do Not Come' Message, But Say It's Just a Start"
+    excerpt: "\"I wholeheartedly support what [the Biden administration] is trying to do and I'm sure they're going to receive lots of criticism. But it's a long-term process, so I salute them for getting started,\" Mayor John Ferguson of Presidio,"
+    publishedDateTime: 2021-06-09T19:31:00Z
+    webUrl: "https://www.newsweek.com/border-mayors-texas-arizona-welcome-kamala-harris-do-not-come-message-say-its-just-start-1599122"
+    ampWebUrl: "https://www.newsweek.com/border-mayors-texas-arizona-welcome-kamala-harris-do-not-come-message-say-its-just-start-1599122?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/border-mayors-texas-arizona-welcome-kamala-harris-do-not-come-message-say-its-just-start-1599122?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 107
+    images:
+      - url: "https://d.newsweek.com/en/full/1817249/kamala-harris-border-do-not-come-migrants.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Kamala Harris meets with Guatemalan president"
     excerpt: "Vice President Kamala Harris said during a news conference with President Alejandro Giammattei that the fact that Guatemala is the first country she's visiting as vice president sends a message about how important the region is to the U."
     publishedDateTime: 2021-06-07T19:44:00Z
@@ -312,6 +344,20 @@ related:
     quality: 102
     images:
       - url: "https://i.guim.co.uk/img/media/2baa61d94842a7d8ec656ed6b3d0452b65d18973/0_131_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e11a1a345dd175a0f7fe4f2743f7840"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Today’s Headlines: A mix of diplomacy and controversy on Kamala Harris’ trip"
+    excerpt: "Vice President Kamala Harris met with Mexico's president after visiting Guatemala and drawing criticism for telling Central Americans to \"not come\" to U.S."
+    publishedDateTime: 2021-06-09T12:00:00Z
+    webUrl: "https://www.latimes.com/world-nation/newsletter/2021-06-09/kamala-harris-guatemala-mexico-todays-headlines"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 102
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/be4cc3f/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F91%2Fe6%2Fa5fd5a494061ab15356db064704c%2Fla-photos-1staff-787294-na-pol-0608-vp-harris-mexico-city-kkn-28909.JPG"
         width: 1200
         height: 630
         isCached: true
@@ -720,6 +766,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "U/apPcxv/x5374bv5uywMvfaHIjFRxMsTjIyG4GyfI2vlM9RUeNX7ttHq/0iG13DsedjmkK9phHv+InmIXzdn+xApQuSzHmuao5WJjCwy5p40qIAwfEhuY+JRn1Yassqo4xLsuQnKxear9ervkNEgF8y4jDJxgfcfbJcd1mD2xupdw9n7bd960/SpVDIvh1c7iV16x2c0Cy0WOSr/ODedwZVbTc5Z6Y0jSixjcJyrkJ9WoaLkRgyJ6MhOHY4AB9qlv3bMhuPfWs/bjt1aWh3Xfe/+Iqnj3q8kP9syEE6Yvx6QrJpejyu2fDcfeoHKUAydUBJE/H45YEKvh5RHI48Q0vLEFEw9LgV6PuOfrM9LQ4=;oPCvMdJ3LO8FwSkQJaYl2A=="
+secured: "IJYrtf2dt9u3APL4wcBWLaU70EoPcZFtPwoZT9OJcKT9ecJbAOTttTbmgfHtyRW5DUOFh1CmDrWzorn+Qkj6dW5BK+/Igl4EGLSFfUEJhfSc2VLfVaRSN1NnhP9TufajgOqIzfuEtVQZdZ0YtmvsBMUyjhc5tOc0rDWjWSiCnUcmL+xAFVqvFk0fQ2gnks6lBxIB0Y7r+e7d0/RFtH2MCKp4LvhP6y140HqnSq9gAJkx6JHvXXePhIc4LrspCyeAvtbvqb5MYkYmMFEnR0m0vq+XzneoIXxqmrFiZLseBR6BY7vvciWLRv7p6GPxT6j/bwW4dHKq5EdbV94uCDt6KFP2j5aLyyujQrCPJbxbyX8TmgCCp1JalX0V9eW1rEiXjXzX22lWoQsa8wgQbj7VTRIPd+g/qhn7hBvVT82zNnARmjGYTsE0y0QL1vkEuHTw+62kOdufpgs+Y04JTcJ3C6lnV3RtKyL5z7lzmRb131cQt0ypSUDj8wqUqyuaUhjiZg7aegoJyF2rG73x474ecA==;D2M8w03qFzerbjjge7Cr+g=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden stuck relying on transatlantic phone calls to salvage infrastructure priorities"
+    excerpt: "President Joe Biden came to Europe this week in part because he's grown tired of virtual meetings and telephone calls with world leaders, which he believes can't capture the essence of a face-to-face relationship.\n    \n"
+    publishedDateTime: 2021-06-09T19:34:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609131925-01-biden-overseas-trip-0609-white-house-departure-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden poised to announce first slate of ambassador nominees as he eyes first trip abroad"
     excerpt: "President Joe Biden has made final decisions on several high-profile ambassador posts around the world and is poised to announce the first slate of nominees in the coming days as he prepares to set off on his first overseas trip since taking office.\n    \n"
     publishedDateTime: 2021-06-05T13:02:02Z

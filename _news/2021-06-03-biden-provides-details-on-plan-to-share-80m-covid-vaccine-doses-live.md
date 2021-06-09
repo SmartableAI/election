@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-repub
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/88391a34f332ac8b3d05b82d38153a38f9d5672a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84d47d854adfd84f347375c94e376574"
         width: 600
         height: 360
+        isCached: true
+  - title: "Joe Biden Praised for 'Bold Leadership' to End Pandemic After Reports U.S. to Donate 500M COVID Shots"
+    excerpt: "\"The Biden administration's decision to purchase and donate additional COVID-19 vaccine doses is the kind of bold leadership that is needed to end this global pandemic,\" said Tom Hart, acting CEO at The ONE Campaign."
+    publishedDateTime: 2021-06-09T19:50:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-praised-bold-leadership-end-pandemic-after-reports-us-donate-500m-covid-shots-1599182"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-praised-bold-leadership-end-pandemic-after-reports-us-donate-500m-covid-shots-1599182?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-praised-bold-leadership-end-pandemic-after-reports-us-donate-500m-covid-shots-1599182?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 110
+    images:
+      - url: "https://d.newsweek.com/en/full/1817292/biden-g-7.jpg"
+        width: 2500
+        height: 1668
         isCached: true
   - title: "Biden pushes more vaccines for 'summer of freedom'"
     excerpt: "Free beer is the latest White House-backed incentive to persuade Americans to get the COVID-19 vaccine. President Joe Biden announced a “month of action” Wednesday to get more shots into arms before July 4th and bring on a \"summer of freedom\"."

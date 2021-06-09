@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's attorney general defends controversial Justice Department arguments related to Trump"
+    excerpt: "Attorney General Merrick Garland on Wednesday defended a series of controversial arguments made by the Justice Department in recent weeks that endorsed legal positions held by former President Donald Trump and the previous administration.\n    \n"
+    publishedDateTime: 2021-06-09T19:10:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQUQZz8_0Sw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/ag-garland-trump-rule-of-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/ag-garland-trump-rule-of-law/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609150900-02-merrick-garland-0609-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden doesn't want to meet the press"
     excerpt: "Joe Biden has been president of the United States for 138 days. And in that time, he has held a total of ONE formal news conference.\n    \n"
     publishedDateTime: 2021-06-07T22:55:20Z

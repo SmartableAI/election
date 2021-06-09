@@ -1022,6 +1022,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "CNN And MSNBC Still Mention Trump More Than Biden"
+    excerpt: "Who is receiving more attention on television news since the inauguration, President Joe Biden or former president Donald Trump? The graph below shows the total mentions of President Biden across CNN,"
+    publishedDateTime: 2021-06-09T19:06:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_and_msnbc_still_mention_trump_more_than_biden.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/54/545137.png"
+        width: 2000
+        height: 930
+        isCached: true
   - title: "Biden's Weakness On World Stage Is Dangerous"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-03-30T18:59:00Z

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration pursued CNN reporter's records in months-long secret court battle"
+    excerpt: "The Trump administration battled with CNN for half a year to obtain the email records of a reporter and insisted it all take place under an extraordinary order of secrecy, CNN's lead attorney revealed on Wednesday.\n    \n"
+    publishedDateTime: 2021-06-09T18:49:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SWKfSUpGPBM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/trump-pursuit-cnn-reporter-records-secret-court-battle/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/trump-pursuit-cnn-reporter-records-secret-court-battle/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609091841-04-cnn-center-atl-0520-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New York Times reports Trump administration secretly obtained its reporters' phone records"
     excerpt: "The Trump administration's Justice Department secretly seized months of phone records from four New York Times reporters as part of a leak investigation, the newspaper reported Wednesday.\n    \n"
     publishedDateTime: 2021-06-03T02:38:29Z

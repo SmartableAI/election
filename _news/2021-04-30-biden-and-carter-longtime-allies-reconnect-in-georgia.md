@@ -415,6 +415,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Biden administration moves to restore clean-water safeguards ended by Trump"
+    excerpt: "The Biden administration began legal action Wednesday to repeal a Trump-era rule that ended federal protections for hundreds of thousands of small streams, wetlands and other waterways."
+    publishedDateTime: 2021-06-09T18:53:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-clean-water-20210609-pksnkvrupfhkpm5hrubdiducmi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-clean-water-20210609-pksnkvrupfhkpm5hrubdiducmi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-clean-water-20210609-pksnkvrupfhkpm5hrubdiducmi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 138
+    images:
+      - url: "https://www.chicagotribune.com/resizer/PsvvOCW8rq5Chh93ItISMtMfE-0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IPIYWAREEF436YIDR75P2MOKME.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Joe Biden's Executive Orders in First 100 Days Compare to Donald Trump's"
     excerpt: "The executive orders give a snapshot of the differing priorities between the two administrations soon after taking office."
     publishedDateTime: 2021-04-28T09:28:00Z
@@ -1205,6 +1221,20 @@ related:
       - url: "https://thehill.com/sites/default/files/voting_ballot_2020_110220gn_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden moves to restore clean-water safeguards ended by Trump"
+    excerpt: "The Biden administration has begun legal action to repeal a Trump-era rule that ended federal protections for hundreds of thousands of small streams, wetlands and other waterways"
+    publishedDateTime: 2021-06-09T18:36:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-moves-restore-clean-water-safeguards-ended-trump-78179185"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_49f60c00511749c1b22b00cc897872f7_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "President Biden, first lady to visit former President Jimmy Carter in Georgia this week"
     excerpt: "Biden was a young Delaware senator and Carter ally during the Georgian’s term in the White House, from 1977 to 1981."

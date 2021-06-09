@@ -3,8 +3,8 @@ category: news
 title: "Biden Should Make China Pay"
 excerpt: "President Joe Biden heads to Europe Wednesday to meet with European leaders. He says the goal is to work together to"
 publishedDateTime: 2021-06-09T10:13:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
 type: article
@@ -219,6 +219,6 @@ related:
         height: 500
         isCached: true
 
-secured: "yvGt3eyFv68Gr0XSDm1ZVj0sPshUt9rxpZ8385qBBMPhwV6kAV2CsJDSLRL6dsOZOWgJ+yTV/btpOa4P/0SzQQRvvGGcwMWjg9BQjVA2ZSQ7aP0+FYB8hCAQhq7x7IVEpuc9QM5xvWRlxjYgM3jEMnvnIb/Ez8XbAZO/RPlDUz/g95IbPH3A/bLmRbClzeB+heRajAJGmQE8PpIZHWo3zJEra46O8WFDXd31chViCMCqgRkbiCxtHmku7BRx7S3vyxM9mrPgore0+CiMRnpzplv9eauldg9UTt91zLXxMQAW6Kocpm4729jcMYIXtYFPWIh6ly4ZBcnnR0cXHzQyP9jIrpvjMjChp/S9TGDLpYozbY6h7ixthfVqxdiG5pcop8F/VBhLAIubxnL9596wYdp+wH/D6XzR2lzqWj4HqkWB+6OHRDhwlMg6T1rZ2L4e7D6YplVpIKILmupC+2IWzH8g72YyC+/Z1ZYcS296OPYqiOsnWw0yX+YRGXeAGI6JBk27f+QGrLl0D850cWXqEw==;V1nRC/d+4QO6ttZxzajQ2Q=="
+secured: "EA+vHIoVt/XbGZNSk4QE00mhyRxadmRRQNRs9Mp9Yf9c5UCfwd1sNS5+AK+7uJirAdD3jT+M+AsmtodNBKQ0cazEgsJ9EDj4rgNLk2765Wf5XF6hZWl5fcyinHbZYIl8AUQlt6qUWfuDLK806sV7RZ1nKNJuHxstTfBGWC73AFmnPIwJmD9vLJHX40PWpEVzGs40khrHSX81x2yi1SDWhRSZ70iHQsR0wy+rVzrkiL5PiPPpvG6Kj3niHMHSiCjUxnvnJwjnt6OJdGgQLG7H1cHsCRz+bPJeUOdp89qkNeKu4I4RT4O80XB8zpiDgfh47fgNm/Cg8xiR4jg8Ha5ijW2Q+kS9xiw1o2Hjmb5SSNU=;Fo+56GIzJCCASfHazZb82w=="
 ---
 
