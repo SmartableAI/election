@@ -156,6 +156,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden nominee under fire over possible financial benefits while working in Congress"
+    excerpt: "President Biden's nominee for the director of the Bureau of Land Management is under fire from Republicans for an allegedly unethical loan she took while she worked for Sen. John Tester."
+    publishedDateTime: 2021-06-09T15:11:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2jZARIHSs9A/biden-hearing-alleged-unethical-loan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hearing-alleged-unethical-loan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hearing-alleged-unethical-loan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden announces new incentives, including free beer, to reach COVID vaccination goal"
     excerpt: "President Biden on Wednesday declared June a “national month of action” to take aim at the coronavirus pandemic, urging Americans to get vaccinated."
     publishedDateTime: 2021-06-02T21:06:34Z

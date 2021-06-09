@@ -124,6 +124,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden drops Trump ban on TikTok and WeChat, orders new security review"
+    excerpt: "President Biden is withdrawing Trump-era executive orders that sought to ban new downloads of TikTok and WeChat, and is ordering a Commerce Department review of security concerns posed by the apps."
+    publishedDateTime: 2021-06-09T15:03:00Z
+    webUrl: "https://nypost.com/2021/06/09/biden-drops-trump-ban-on-tiktok-and-wechat-orders-new-review/"
+    ampWebUrl: "https://nypost.com/2021/06/09/biden-drops-trump-ban-on-tiktok-and-wechat-orders-new-review/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/biden-drops-trump-ban-on-tiktok-and-wechat-orders-new-review/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/tiktok-wechat-white-house-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "McEnany: Women in Biden admin get 'glowing' profiles after 'hit pieces' for female Trump officials"
     excerpt: "Former White House press secretary Kayleigh McEnany responded Friday to reports that successor Jen Psaki was having her picture taken by celebrity photographer Annie Leibovitz for a magazine profile."
     publishedDateTime: 2021-06-04T19:44:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris: Going To Border Would Be A \"Grand Gesture\""
 excerpt: "Vice President Kamala Harris defends her strategy to get 'real results' during her visit to Guatemala and called a visit to the U.S.-Mexico border a \"grand gesture.\" QUESTION: Sure. Thank you both for taking questions."
 publishedDateTime: 2021-06-08T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
 type: article
@@ -503,6 +503,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "iT79UygnTamtvN6tKFpeYopMMQ4lC7g/ZKUcRQzI+n6ADO2mOxrhVBc0aVP3vyPijEsNCVg5jCOrrZUsIUxQMt/9MU/RTjHVBDB4HMH628I6hhtars09QsHZ5bkD+kOX7vZ70hxHDcIb+z0YbAyVn7jGW1mwehmVY1TCagnI7y0naLd3MkqHhHBo2S61SmeUsmEYmJKlPg6fa04pczHsi6NRuA8RRoVXq1yx3TS7C4jeSTyQaSyCIxWrClezuNJb70tBV9v5U/4vsL20mDrAUK/oPZMYaDiUhFBRheJ1Wn/u7D4Bbt8UnpnvuytDhlFunTvmGO5mXjHXRV5GZd+7y6P8UFUaB6lDRdaRYnraZoDZFim8tG8khTmV6FqEETr7qSPmShYGKddMyf4eNaCDJLe3kUxxoCNphOU0B3LNXFGUhh0Po0RMwMPEnXVjsccQiYf6YUyf1+JL0yJJ52w8Nqq6M7VIWnXHnv5xofrTFdCa6AVXX3Cn7Yi5W1iNMZFuUVAA0jGbHx9LZFpyF6XWXg==;3XdoOhoVwKV2xs0C5J24IQ=="
+secured: "xczXFYrRRfDgxUh4HU7xZZzqo7sEbtc6bDHeZA/zFw1E8mix2FQiqJ4pHSD57DkIWxJ9HY/+shlDLPoPjKw8d9+8ewd2fzLn/r57kwlXdRmw8zm0z8QRxUVF8aBHksQmhaeSrCihQ0GW0rEmYYsIwMfGI18keSUpbFR9/3LdX6OH7Qv3VykwNTqypLMXHdnp3kzkDjSJCw2HrWaDW6VGYYLGyc/2dcejSlvRK9cNG+xnOU7jY+RNBMCU9mSPX/Lu+w0UqIQ7E2x75qpobiAZtJCNkTriOrn1/n2BEH+2hzTxxsGrfo6Gjn/Qs/GCipq9Nqh0ALXfczp0OO2Bgw7u+wncyRVqMyz5DkNnzViwbnc=;UBBBG+PzBBfSdLeQf4w3RA=="
 ---
 

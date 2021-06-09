@@ -128,85 +128,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Democrats confront reality of narrowly split Congress as Biden's agenda faces major obstacles"
-    excerpt: "President Joe Biden's legislative agenda faces a critical month ahead as he and congressional Democrats work to secure agreements with Republicans on several key items -- including a far-reaching infrastructure bill and a policing overhaul -- and gear up for action on voting legislation they believe"
-    publishedDateTime: 2021-06-08T15:21:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/urS3LSIy3Sk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/congress-agenda-biden-infrastructure-manchin-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/congress-agenda-biden-infrastructure-manchin-senate/index.html"
+  - title: "Live Updates: Biden Departs for Europe to Bolster Alliances"
+    excerpt: "President Biden, in the first foreign trip of his term, will make the case that America is back and ready to lead anew. Before he left, Mr. Biden cut off infrastructure talks with Republicans that had failed to yield a deal,"
+    publishedDateTime: 2021-06-09T08:43:00Z
+    webUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104140355-01-us-congress-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Key week for infrastructure talks arrives as Biden's agenda faces major obstacles in Congress "
-    excerpt: "President Joe Biden's legislative agenda faces a critical month ahead as he and congressional Democrats work to secure agreements with Republicans on several key items -- including a far-reaching infrastructure bill and a policing overhaul -- and gear up for action on voting legislation they believe"
-    publishedDateTime: 2021-06-07T10:05:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/urS3LSIy3Sk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/congress-agenda-biden-infrastructure-manchin-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/congress-agenda-biden-infrastructure-manchin-senate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104140355-01-us-congress-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden takes the lead role he's always craved in his high-stakes first trip abroad as president"
-    excerpt: "When President Joe Biden told officials this spring that he wanted to meet soon with his Russian counterpart for a summit, his team quickly set out to make it happen -- even if some wondered what he really hoped to achieve.\n    \n"
-    publishedDateTime: 2021-06-09T06:35:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gd62i9_ww9M/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608104620-joe-biden-060421-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democratic lawmakers wanted to call on Biden to form presidential commission on January 6 but were told it wouldn't happen"
-    excerpt: "A group of Democratic members of Congress planned to call on President Joe Biden to form a presidential commission on the January 6 attack at the US Capitol, but they were discouraged by the White House, a congressional source told CNN on Friday.\n    \n"
-    publishedDateTime: 2021-06-04T22:11:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l37nolLsHNA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 149
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420124249-us-capitol-dome-0413-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "More than 2,100 children separated at border 'have not yet been reunified,' Biden task force says"
-    excerpt: "More than 2,100 children separated at the border by Trump administration’s “zero tolerance” program “have not yet been reunified” with their parents, according to the task force working to reunite the families."
-    publishedDateTime: 2021-06-08T11:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/immigration/more-2-100-children-separated-border-have-not-yet-been-n1269918"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269918"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269918"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 122
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3481098/210608-border-children-mc-1111.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static01.nyt.com/images/2021/06/09/world/09dc-tiktok-1/09dc-tiktok-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "sWDRZB1C7NJWbu9vf8GmBXAtRQzYz5cIBTofjg8g/CIVMbj3TmT/zhaUyDM9PKYvyYIkXuRdZ4AltaER6pputLV/yUQ/WI0OwOX48t2D7NG5CInjHV/E+9jHwieGC+9Rig4/meMLPt++oKllGyftQHjDGIb5vbRp7WrIko5qQqVJ23OUr76jcTpoQ4lpF60NP9ZrtB93YrvvVsiwoF/RbA5WfsrbcgZ/tR7C8vqwEOFgCebSFad9jgyL7XPszMSQPATHWxpo/MqIIUTY1c1NQIZiX3RdM9yXQZn1SADdGO9oSPUjL6Sy5Tb23Yg0mt+GHvCdUGlJGDvKPHuvzxlB0iOJElPr7kNcOJ6obyV9JF6Z03WjKxShKyIEXPmUx1oMdvNkM0wkUz9YlzjLoaaMI8MvsTIXKyehrLG4eKjcQiRtZYojvZtSe01MOMv6hEGpsCQVzXTNEaJRyGXf5kPszO3zEIgivjHH50coB2NeDW2bvn8162RaYmoIFpmdG3kmDVNduBiPTVxyB/hSGdrP7A==;DJ4i8948tJVELPI1MS/9NQ=="

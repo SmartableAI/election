@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
 type: article
 quality: 190
-heat: 1510
+heat: 1530
 published: true
 
 provider:
@@ -508,6 +508,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-339013/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden Revokes Trump Actions Targeting TikTok, WeChat"
+    excerpt: "President Biden issued an order requiring security reviews of some foreign-owned apps, revoking orders by former President Trump targeting TikTok and WeChat."
+    publishedDateTime: 2021-06-09T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/biden-revokes-trump-actions-targeting-tiktok-wechat-11623247225"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-revokes-trump-actions-targeting-tiktok-wechat-11623247225"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-revokes-trump-actions-targeting-tiktok-wechat-11623247225"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-351169/social"
         width: 1280
         height: 640
         isCached: true

@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact Check-Donald Trump remains suspended from Facebook and Instagram"
-    excerpt: "Claims that former President Donald Trump has returned to Facebook and Instagram after being banned months ago are false. Representatives from Facebook, the parent company of Instagram, confirmed in an email to Reuters the former president remains off both platforms."
-    publishedDateTime: 2021-06-04T18:55:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-trump-facebook-ban-idUSL2N2NM2CA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NM2CA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NM2CA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Trump fans convene to talk about God, country and patriotism"
     excerpt: "The For God & Country Patriot Roundup conference is being held for three days at the Omni Dallas Hotel. DALLAS — It had all the buzz and excitement of a political convention, except that the next presidential election is still a few years away."
     publishedDateTime: 2021-05-29T21:26:00Z

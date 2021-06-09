@@ -55,6 +55,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "White House drops Trump orders trying to ban TikTok, WeChat"
+    excerpt: "Officials say the White House has dropped Trump-era executive orders that attempted to ban the popular apps TikTok and WeChat and will conduct its own review aimed at identifying national security ris"
+    publishedDateTime: 2021-06-09T14:28:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/white-house-drops-trump-orders-ban-tiktok-wechat-78172937"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/white-house-drops-trump-orders-ban-tiktok-wechat-78172937"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/white-house-drops-trump-orders-ban-tiktok-wechat-78172937"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0417ca8064e248ec89d234b0626d5fca_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump tells Fox News it's 'highly unlikely' he'll run for a House seat in 2022"
     excerpt: "A right-wing talk radio host speculated that Trump could run in a safe district and become House Speaker if the GOP were to flip the majority in the 2022 midterms."
     publishedDateTime: 2021-06-07T13:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-57335148.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57335148.amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DOAKAMATPAI6RJUM5E3UDCAXBY.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Former President Donald Trump endorses Mike Carey in 15th Congressional District race"
+    excerpt: "Former President Donald Trump on Tuesday endorsed Mike Carey in the special election for Ohio's 15th Congressional District, giving Carey an edge in a contentious GOP primary."
+    publishedDateTime: 2021-06-09T01:51:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/former-president-donald-trump-endorses-mike-carey-in-15th-congressional-district-race/article_f5e1f380-71e0-50d8-a28f-f6fd9d4e485b.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 48
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "O45oqWX+J4M2iBhx53dpdGmDrXvY4wh1JoGqYw2Zh0P+jDB2Z3Trm5z1WprryGJkc0JahEm0GCDAb88ABzMD9fzOCy1ta6A4omTYWIrZGQXb6NFuUzO8S+tBbbNuuPGP2h2Le7lNoFiW39XLwPB9MZIgNeiXKAL4DcSife+GwVmq6ivuElJ33X49HXRbwujPJzF6psvwGY1GRvHRzN0oGebt2KZGMW819S4I/KsUURqIU+OxHUrpvZSg/DSbG3yYIDLBIwIXg7DCqaZ+F8BKQgz7cRqYy7OaerXwAUWwW+RjKzHGBK3V+olX8jnlj2zTuoyleD6fFoZDMpHjiYACSSa75Sfm6oFFi2XXkaPWV9Q=;JF/bdlPS5pY2D7JFSbiW3Q=="

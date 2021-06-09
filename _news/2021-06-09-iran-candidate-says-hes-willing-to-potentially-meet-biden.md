@@ -47,6 +47,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden turns to Obama to help boost health care enrollment"
+    excerpt: "President Joe Biden has turned to his old boss, former President Barack Obama, to help him encourage Americans to sign up for “Obamacare\" during an expanded special enrollment period in the pandemic"
+    publishedDateTime: 2021-06-05T17:20:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_115d35a8669d4d67959566146d2dadef_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'A lot of anxiety' for Democrats as Biden agenda stalls"
     excerpt: "Six months into the Democrats’ hold on Washington, the party’s progressive wing is growing increasingly restless"
     publishedDateTime: 2021-06-08T04:12:00Z
@@ -270,7 +286,35 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden and First Lady Dr. Jill Biden Depart the White House"
+    excerpt: "United States President Joe Biden and first lady Dr. Jill Biden depart the White House from the Ellipse in Washington, DC, on Wednesday, June 9, 2021. Biden will be in Europe for a week. Photo by Chri"
+    publishedDateTime: 2021-06-09T15:01:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/38e69482eefe21ac8edf868cde3c18c2/President-Joe-Biden-and-First-Lady-Dr-Jill-Biden-Depart-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/38e69482eefe21ac8edf868cde3c18c2/BIDEN-DEPART.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "United States President Joe Biden and first lady Dr. Jill Biden depart the White House"
+    excerpt: "United States President Joe Biden and first lady Dr. Jill Biden depart the White House, headed to Europe from the Ellipse in Washington, ?DC, June 9, 2021 Credit: Chris Kleponis / Pool via"
+    publishedDateTime: 2021-06-09T15:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8b9c4e22be7f745bba8360c5b008508d/United-States-President-Joe-Biden-and-first-lady-Dr-Jill-Biden-depart-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 47
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/8b9c4e22be7f745bba8360c5b008508d/Trump.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
-secured: "wb8UFKuh5RjVGvuuumrIk6H33aVNMmeCuPfIh0Z8j1TQnoPH6k7EbA6fYuzOj1tidK1ufJzuWtea6ChxC/87mBgTng03G6KtCIkSxmQCtZC4bW3T5bCza++GJCbIvHVpdqvGrJmtLYxlXTgS3SJhovQVwuqLkFRIRaa5Q5ZOazsKv0wrfuSpgrrP5WwTFZdqYVWE0HvEgC/wE9TUaAGv98UXs0d1I/sLZ8gBMFkp+u+DU7MiCIRfWeUVeK8oCCEWX6JOmdXQS2s6kTeDYHgwp3BdqxczOpOlWTD8WQbD9B2IyPwPDta7onBYFEsQSDlMC4JhYkv4448KNur957zwi0HUrmw6EKxDBDgucvftL2A=;O8keTWwYN8dojiekDlydwg=="
+secured: "VaHDmQe8k0wy94rEMYfF/h8v0TjaVjq5MiYkwsjUCO3LRMOvu3NNTGzEIv9OcI7vEYUIKWs7DfAwQZMIegmuEcguvieynhw2DjryIixWt9gOS6rKcn/irsgnJuN7IBufIGYQP30/sbfy2IUR8nOZooUetoVE08B/XWDbMpOfbqXIhqz6dU8n7HZvIIB/QQkG+zEOlq5/1Z7YVQADvIeLjaSbiIdNrpn2vbSSVi90zecsj1MoCB2uz54FcC7kxnnmktK4NaLhU/a93u/o9duPfjoyp/0z8UX5AAfExaDoXalb1QqYN8vcTuccnWwCkxnRJ4X2E4BnSf9V7yqyExbqphImFJDWK5bzJ7Oh9VlOIMFJY5lQC4a7z55NeQwdv3QZTychoyjvoXAv30eQNOHBoKDWDkv2YYBUno3GVqgcHjdj/rzf9Py4L2rJKhsrKlVDd3cVfn8tUH6ZfbWB3UUoAo3xL8FAmzem0I+9fsdd5PznsPU5FHJJ8UTpxJOjDG370vCH6nXwu0PKnYIJLIOubA==;2XMwH3uDdHhOwqNsORsfIQ=="
 ---
 

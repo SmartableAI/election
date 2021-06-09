@@ -522,6 +522,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden Revokes Trump Actions Targeting TikTok, WeChat"
+    excerpt: "President Biden issued an order requiring security reviews of some foreign-owned apps, revoking orders by former President Trump targeting TikTok and WeChat."
+    publishedDateTime: 2021-06-09T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/biden-revokes-trump-actions-targeting-tiktok-wechat-11623247225"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-revokes-trump-actions-targeting-tiktok-wechat-11623247225"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-revokes-trump-actions-targeting-tiktok-wechat-11623247225"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-351169/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden WH keeps Trump's National Space Council despite mocking Space Force"
     excerpt: "While President Biden has put as much distance as possible between himself and most of his predecessor’s policies, there is one area that Biden appears satisfied not to touch—space."
     publishedDateTime: 2021-04-02T00:16:00Z

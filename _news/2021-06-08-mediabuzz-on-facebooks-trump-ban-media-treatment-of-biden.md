@@ -112,6 +112,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden drops Trump ban on TikTok and WeChat, orders new security review"
+    excerpt: "President Biden is withdrawing Trump-era executive orders that sought to ban new downloads of TikTok and WeChat, and is ordering a Commerce Department review of security concerns posed by the apps."
+    publishedDateTime: 2021-06-09T15:03:00Z
+    webUrl: "https://nypost.com/2021/06/09/biden-drops-trump-ban-on-tiktok-and-wechat-orders-new-review/"
+    ampWebUrl: "https://nypost.com/2021/06/09/biden-drops-trump-ban-on-tiktok-and-wechat-orders-new-review/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/biden-drops-trump-ban-on-tiktok-and-wechat-orders-new-review/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/tiktok-wechat-white-house-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump rips Biden in return speech at NC GOP convention, vows ‘tremendous 2022’"
     excerpt: "Former President Donald Trump returned triumphantly with a speech at the North Carolina Republican Convention, where he railed against President Joe Biden, Dr. Anthony Fauci, Democrats, Big Tech,"
     publishedDateTime: 2021-06-06T02:45:00Z

@@ -128,12 +128,12 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden touts May jobs numbers as he pushes for infrastructure funding"
-    excerpt: "President Joe Biden on Friday touted the economic progress the US has made in its recovery from the coronavirus pandemic after the government reported 559,000 jobs were added in May.\n    \n"
-    publishedDateTime: 2021-06-04T15:32:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-6hLGDPv0yk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/biden-may-jobs-report/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/biden-may-jobs-report/index.html"
+  - title: "Biden's high-wire act on infrastructure is at a critical moment"
+    excerpt: "President Joe Biden has entered a critical moment where the decisions he makes will dictate the success of his sweeping $4 trillion legislative agenda -- and potentially his first term in office.\n    \n"
+    publishedDateTime: 2021-06-04T12:32:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ns45sQm1UdM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/infrastructure-state-of-play/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/infrastructure-state-of-play/index.html"
     type: article
     provider:
       name: CNN
@@ -543,22 +543,6 @@ related:
       - url: "https://static.politico.com/6b/79/ed63bdbc414ca30f970233bf9949/210513-biden-capito-getty-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Biden Ends Infrastructure Talks With Republicans, Falling Short of a Deal"
-    excerpt: "After weeks of failed efforts to bridge deep divides, the president pulled the plug, turning to a bipartisan group to try to salvage a chance at compromise."
-    publishedDateTime: 2021-06-09T00:29:00Z
-    webUrl: "https://www.nytimes.com/2021/06/08/us/politics/infrastructure-biden-republicans.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/08/us/politics/infrastructure-biden-republicans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/08/us/politics/infrastructure-biden-republicans.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/08/us/politics/08dc-infrastructure-1/merlin_188730204_6b7163d2-ce72-4e62-9eca-0211c0d2875f-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Biden Courts Congressional Leaders on Infrastructure, but Divisions Remain"
     excerpt: "The meeting produced little progress, underscoring the political challenge for President Biden as he seeks to exploit the narrowest of majorities in Congress to revive the country’s economy."

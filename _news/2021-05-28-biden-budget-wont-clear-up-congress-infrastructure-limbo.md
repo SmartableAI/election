@@ -32,69 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden floats bringing down infrastructure price tag but wants GOP concessions"
-    excerpt: "President Joe Biden met with Republican Sen. Shelley Moore Capito of West Virginia at the White House on Wednesday as part of ongoing discussions between his administration and the Senate GOP on infrastructure.\n    \n"
-    publishedDateTime: 2021-06-03T12:52:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hj7E-NIlVfU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/shelley-moore-capito-biden-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/shelley-moore-capito-biden-meeting/index.html"
+  - title: "Biden adviser: President will 'change course' in infrastructure talks if inaction seems inevitable"
+    excerpt: "White House senior adviser Cedric Richmond said Sunday that President Joe Biden will \"change course\" on his massive infrastructure bill if inaction on the costly proposal seems inevitable.\n    \n"
+    publishedDateTime: 2021-05-23T15:14:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oVN3nArV5-I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/23/politics/cedric-richmond-infrastructure-bill-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/23/politics/cedric-richmond-infrastructure-bill-biden-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531145551-01-biden-0527-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218085023-01-cedric-richmond-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump appointee on West Point Board spreads conspiracy that Biden is replacing White people of European ancestry "
-    excerpt: "A Trump appointee serving on West Point's advisory board has repeatedly spread a conspiracy that the Biden administration is bringing in non-White immigrants as part of a \"grand plan\" to have them outnumber White Americans of European ancestry in the United States.\n    \n"
-    publishedDateTime: 2021-05-27T20:09:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IG3xBwFfwyA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/27/politics/kfile-macgregor2/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/kfile-macgregor2/index.html"
+  - title: "Biden indicated he could support $1 trillion infrastructure plan, Republicans say, as GOP group prepares new offer"
+    excerpt: "GOP senators say that President Joe Biden has informed them he'd be willing to accept an infrastructure package of around $1 trillion, significantly lower than the White House's public offer last week.\n    \n"
+    publishedDateTime: 2021-05-26T00:31:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jYkrEjMIXCE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/infrastructure-negotiations-latest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/infrastructure-negotiations-latest/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 153
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden to host GOP West Virginia Sen. Shelley Moore Capito as bipartisan infrastructure talks continue "
-    excerpt: "President Joe Biden on Wednesday will host Republican Sen. Shelley Moore Capito of West Virginia at the White House as the bipartisan infrastructure talks continue.\n    \n"
-    publishedDateTime: 2021-06-01T12:48:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9FPHCl_3W0k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/01/politics/capito-biden-infrastructure-talks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/capito-biden-infrastructure-talks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Live Updates: Biden Will Meet With Republicans’ Top Infrastructure Negotiator"
-    excerpt: "Democrats are ready to move on President Biden’s $2 trillion infrastructure plan unless there is a major breakthrough this week. The two sides are over $1 trillion apart in how much they want to spend,"
-    publishedDateTime: 2021-06-02T08:20:00Z
-    webUrl: "https://www.nytimes.com/live/2021/06/02/us/biden-news-today"
-    ampWebUrl: "https://www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 132
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/02/us/02new-washington-briefing-promo3/02new-washington-briefing-promo3-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "Fhoh6hUITAjUbg4iGGFzUdA21i7HsPO3ZPRPPi6bJgFlZb6DSu32VXE/Ntx2w96/1JBIBcAmVNbnHhedSHP0TzAAUBV8ursHreQoozb5XAYKm68oW9bhqDaUey92cFYV3WirX3RvYYK9r+fJ0UI11s2q/luVEopzr/2+OVsV8bM/Wms8ZtVJFxcmmme8AoV9yOLniJRRL6+loZBfheaJZTt7NSIz1v0G5Syhh2z6ULUTXqhC+pAUO07Ul0v66H1MC9ldM2Y0JKipQd8MGSM//pXCcC6JtNlrQVZtO7gT9jiQO+6HdckHf1JCnYc8DTol9MBnw5TYJkKdugapE4uxpHKyr0aNZ+ik0GRJsboJ9gubyRMQlkFdY0XsTfk97aU6UIcxX02VQ/kqAyXPG7j/PRQQ+ljH7ou1FW+dO96WHC0Hid0gTrx9hq3kwHZo4KpKBoDrTKOSx9zqPGMV8jWah51D9YFl09KW5g6s6modqcYS7sjYUM0nVjcLQ2kPOQ5S8k38RywnXFUd7kGJ1YMfdw==;YwelECYEn/gHp8MvO3kzmQ=="

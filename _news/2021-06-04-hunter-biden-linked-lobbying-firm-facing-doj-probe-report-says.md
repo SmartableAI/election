@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says.amp"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a4c2abd-87f5-4752-be3f-94e17533012e/8087ecda-dc5d-4e4e-8af2-933f901d4dc5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden nominee under fire over possible financial benefits while working in Congress"
+    excerpt: "President Biden's nominee for the director of the Bureau of Land Management is under fire from Republicans for an allegedly unethical loan she took while she worked for Sen. John Tester."
+    publishedDateTime: 2021-06-09T15:11:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2jZARIHSs9A/biden-hearing-alleged-unethical-loan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hearing-alleged-unethical-loan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hearing-alleged-unethical-loan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden announces new incentives, including free beer, to reach COVID vaccination goal"
     excerpt: "President Biden on Wednesday declared June a “national month of action” to take aim at the coronavirus pandemic, urging Americans to get vaccinated."

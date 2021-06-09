@@ -169,6 +169,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "United States President Joe Biden departs from Holy Trinity Catholic Church"
+    excerpt: "United States President Joe Biden departs from Holy Trinity Catholic Church in Washington, DC on June 5, 2021. Photo by Chris Kleponis/UPI"
+    publishedDateTime: 2021-06-06T00:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4cbf302b2616c16b3668de34f9f109e3/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/4cbf302b2616c16b3668de34f9f109e3/BIDEN-CHURCH.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "6CIxGyrcvXnFw4nuyLIhhr4dusf6QV9uxPipj4YPCJ3fbFnY7OAsv5SlTQGZCxvl/48xmM8uqcO6x0fi4xkTHFg8osRsfN9yyRSqS3rZUaqYW7ZVlq1S6dZFipv3QwAl9b1bjEkXWxWbmFTSVxdvaCyc95XAe710IxW8GzVCRhBBTbrnJCj+OzDjwp/KGmXlFyJc0/Rx9rVskHCS0Lf3oQNk0ZSDUSnqx7IREmaZS0v6pUlqeUY5/R0G0OZqtlJYtvXJ9HBiES7ufMb4ixfNH6zLk6RDqH9otOd+ZqpiaSpaMvGiqtyhnzIHEF2OyNBN5bMbOtLVj+CLE9L2MYiDSzZGoFY6TAKgN40apyyk9pY=;aTvG0+LaQWe6s/AM625p2Q=="
 ---

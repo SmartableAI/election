@@ -25,63 +25,98 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Ted Lieu Doesn't 'Understand Why Mike Pence Is Even Talking' To Donald Trump After Capitol Riot"
-    excerpt: "\"Mike Pence didn't have the courage to do what should have been done to protect our Country and our Constitution,\" Trump tweeted as Capitol rioters chanted \"Hang Mike Pence.\""
-    publishedDateTime: 2021-06-05T02:24:00Z
-    webUrl: "https://www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858"
-    ampWebUrl: "https://www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858?amp=1"
+  - title: "Biden revokes Trump executive orders targeting TikTok and WeChat"
+    excerpt: "President Biden has revoked former President Trump’s executive orders that sought to ban downloads of the Chinese-owned apps TikTok and WeChat in the U.S., according to a fact sheet released by the White House Wednesday."
+    publishedDateTime: 2021-06-09T14:34:00Z
+    webUrl: "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat"
+    ampWebUrl: "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 138
+      name: The Hill
+      domain: thehill.com
+    quality: 140
     images:
-      - url: "https://d.newsweek.com/en/full/1814131/ted-lieu-pence-trump-talk-capitol-riot.jpg"
-        width: 3630
-        height: 2561
+      - url: "https://thehill.com/sites/default/files/tiktok_082619istock.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Trump increasingly talking like he plans another presidential run, even as he faces legal threats, allies say"
-    excerpt: "Trump would face daunting headwinds in addition to his legal vulnerabilities if he runs, with the legacy of being the only president to be impeached twice."
-    publishedDateTime: 2021-06-03T16:41:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-president-2024-20210603-lxkfgdpezzdkvl4kk2sac5kue4-story.html?outputType=amp"
+  - title: "Biden's Justice Department follows Trump's lead in E. Jean Carroll defamation lawsuit"
+    excerpt: "The Justice Department is continuing to try to substitute for former President Trump in a defamation lawsuit brought by former Elle columnist E. Jean Carroll."
+    publishedDateTime: 2021-06-09T00:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 106
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
     images:
-      - url: "https://www.chicagotribune.com/resizer/Ikajz9nESbBxudD0chGC9cQZ1Ww=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TZVUHTCDS5AFHE4OFF3VF5XG6U.jpg"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/US/trump-carroll-splt-rt-gty-ps-210608_1623166131564_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump fans convene to talk about God, country and patriotism"
-    excerpt: "The For God & Country Patriot Roundup conference is being held for three days at the Omni Dallas Hotel. DALLAS — It had all the buzz and excitement of a political convention, except that the next presidential election is still a few years away."
-    publishedDateTime: 2021-05-29T21:26:00Z
-    webUrl: "https://www.pressherald.com/2021/05/29/trump-fans-convene-to-talk-about-god-country-and-patriotism/"
+  - title: "US drops Trump order targeting TikTok, plans its own review"
+    excerpt: "The White House dropped Trump-era executive orders that attempted to ban the popular apps TikTok and WeChat and will conduct its own review aimed at identifying national security risks with software a"
+    publishedDateTime: 2021-06-09T15:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/white-house-drops-trump-orders-ban-tiktok-wechat-78172933"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/white-house-drops-trump-orders-ban-tiktok-wechat-78172933"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/white-house-drops-trump-orders-ban-tiktok-wechat-78172933"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0417ca8064e248ec89d234b0626d5fca_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden DOJ Plans To Continue To Defend Trump In E. Jean Carroll's Defamation Lawsuit"
+    excerpt: "The Justice Department simultaneously distanced itself from the allegations Carroll has made that former President Donald Trump sexually assaulted her in the 1990s."
+    publishedDateTime: 2021-06-08T15:18:00Z
+    webUrl: "https://www.npr.org/2021/06/08/1004340386/biden-doj-plans-to-continue-to-defend-trump-in-e-jean-carrolls-defamation-lawsui"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 114
+    images:
+      - url: "https://media.npr.org/assets/img/2021/06/08/ap_20295746395355_wide-0bac69349f777885aa0bd9a95d46a3faa03dc025.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Biden gives video address to graduating Parkland students"
+    excerpt: "President Joe Biden has told graduating seniors who were freshmen when a mass shooting left 17 people dead at their Florida high school that they've turned pain into purpose and darkness into light"
+    publishedDateTime: 2021-06-09T01:00:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 75
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/a3003ce/2147483647/strip/true/crop/5000x3266+0+34/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F03%2Fd8980eef5077f563a7450d9cba6b%2F46e40697465a4e198d72507c74e85165"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "President Joe Biden returns to the White House"
+    excerpt: "U.S. President Joe Biden gets into a limo after stepping off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
+    publishedDateTime: 2021-06-04T18:26:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/1b38ca44290d367c6c73fd0cf62370f0/President-Joe-Biden-returns-to-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
     quality: 55
     images:
-      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
-        width: 300
-        height: 300
+      - url: "https://cdnph.upi.com/pv/upi/1b38ca44290d367c6c73fd0cf62370f0/USA-WHITE-HOUSE-BIDEN.jpg"
+        width: 650
+        height: 433
         isCached: true
-  - title: "Trump Impeachment Lawyer Defending Man in Capitol Riot"
-    excerpt: "A lawyer who defended former President Donald Trump during his impeachment trial against a charge of inciting the riot at the U.S. Capitol is now representing a man charged alongside other members and associates of the far-right Oath Keepers extremist group in the Jan."
-    publishedDateTime: 2021-06-08T17:56:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-08/trump-impeachment-lawyer-defending-man-in-capitol-riot"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-08/trump-impeachment-lawyer-defending-man-in-capitol-riot?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-08/trump-impeachment-lawyer-defending-man-in-capitol-riot?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "QBUnz7WnCB0TnPz1gJw6BdVFSixRez62TuVDJqAee3E5U3gUdhULFCtLkkBWKaC5q0+j3ucorYddf2KGTusquqlnoqmvXRdp8079RNADFdHCSZObkwK2/bfm04nKwfElh5Rk1mvEPk2IRA7+Ar1OjoK9JpeRvXdOPUC8NphzLh4fsvTBh9Ylz43K1cbCvXE+l5D9kHZPRjABPJ48kIUIRyNUqCw+cGSTY4H2BUZF/17Rr4tvHgyXUpMvhgJQw2SHbWjx8zZvhioQuVqlPogRHXHerv6GacYNHRzfkMDuyWgiZiPqgZErDJ0pIG3QGE/4UfgfBTUFnfHmxSkiRqf9ba5I+EIpSvtSTuzZO1XiJqE=;1/ue+9PHrqoZJ9eLJQLiEw=="
 ---

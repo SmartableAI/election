@@ -673,6 +673,17 @@ related:
         width: 401
         height: 226
         isCached: true
+  - title: "‘Do not come’: Kamala Harris’ three words to Guatemalans stir debate and backlash"
+    excerpt: "When Vice President Kamala Harris gave a high-profile speech in Guatemala in which she told would-be immigrants from Central America “do not come” to the United States, her words instantly provoked ripples of anger and concern among immigrant rights"
+    publishedDateTime: 2021-06-09T13:53:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/do-not-come-kamala-harris-three-words-to-guatemalans-stir-debate-and-backlash/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/do-not-come-kamala-harris-three-words-to-guatemalans-stir-debate-and-backlash/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/do-not-come-kamala-harris-three-words-to-guatemalans-stir-debate-and-backlash/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 50
   - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
     excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
     publishedDateTime: 2021-04-20T23:17:00Z

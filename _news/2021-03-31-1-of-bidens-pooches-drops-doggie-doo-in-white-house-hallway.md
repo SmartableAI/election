@@ -993,6 +993,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Latest in the Biden administration"
+    excerpt: "Border policy, infrastructure, Sen. Joe Manchin\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-08T20:00:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210608200022-latest-in-the-biden-administration-border-policy-infrastructure-sen-joe-manchin/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/08/story_10737208_1623182884.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'Opportunity is coming': Joe Biden celebrates latest jobs report – video"
     excerpt: "Joe Biden has encouraged Americans to ‘buckle down’ as coronavirus cases rise but he was optimistic on the state of the economy and celebrated the latest jobs report. The US economy added 916,000 jobs last month according to the report which Biden ..."
     publishedDateTime: 2021-04-02T16:01:00Z

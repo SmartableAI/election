@@ -678,6 +678,17 @@ related:
         width: 401
         height: 226
         isCached: true
+  - title: "‘Do not come’: Kamala Harris’ three words to Guatemalans stir debate and backlash"
+    excerpt: "When Vice President Kamala Harris gave a high-profile speech in Guatemala in which she told would-be immigrants from Central America “do not come” to the United States, her words instantly provoked ripples of anger and concern among immigrant rights"
+    publishedDateTime: 2021-06-09T13:53:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/do-not-come-kamala-harris-three-words-to-guatemalans-stir-debate-and-backlash/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/do-not-come-kamala-harris-three-words-to-guatemalans-stir-debate-and-backlash/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/do-not-come-kamala-harris-three-words-to-guatemalans-stir-debate-and-backlash/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 50
   - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
     excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
     publishedDateTime: 2021-04-20T23:17:00Z
@@ -697,6 +708,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "y8IkgCEyXIT17ONxJRbJTYUPjkHb7xbQLO40hr8az12sYTafQMRc9MW+Aw/Hg1KMHiPH2z5B/PcZv9hsNanbxzaP/NtMlg6LVhzS8ldlQOBu25syMTLEx1o3p0psH0F0Fdot05edAi48kWa9t6fONg4A7oK8mNZq14qQaaFzo+z8L23o2DfHyrLIQuvVbihhPRUthLXeBEZhUHIy6jGxRDEzOdLsahOUElrcB+3dCDNySYO8Aalfksjj8xLYKz+8wVp1c+57UbuZeTnUC3nPMSoGbFgy/aP5kA0cFVAN6tvtGrF1Z4xAo+0UtDe+7z0R0X2Hr+WpO+gHq4BbswiF1ZvnqeD3U2LEmoYPvKuHoYM=;q5izQ2uJGfjA4CWLWhsbsA=="
+secured: "GJsdgS6NhGH4v3wXYzTSXQ6hlaLuXGkTvyJ1OOtXYOULqAbsvODtAeXPiBf7r2dNKK3nBrieX6r+Km3Q8k2gJ+RLs0o9986InC2I8MgRNeStuAify/J+xEl6tRcwDNkyRhHdsysqKgMb+Ebj5MlSODccz2fss6AhGqaN1vsK3taszsEahRX07gDBwPcKZW9e/PuOxH3tDYbs8t9hFTFFqUe9g35kgLyL8U3Oddco+snjudExQ+ezU9Ll7jjhcUa44BpvAFOrmEsbZn0CdD4BI5e3Q2tuqrotyfUDDXrwJmpiFij55rLVmQDPc4fjyyo5X3O0VrRe4KmJemuwuMevCxAARihZDsPJenecN7oVA5RwvHo3pvmvTnlhMznXVK8ikrnb1VqUiVT6GrNv31EPAv1PljJCLzVrYzOP2xpLCaQGVGvtmI2j8MtjNhZ05OLO1CMMck3OpJKc+8pkIlq6pi7baaR+J5N0DS5lX/2pTyQkQM523WbQ3GuhLnefRWzYlKdYJuUqULhIlUJab4fxIQ==;huJAg6UVW9auLFvGf1+CgA=="
 ---
 

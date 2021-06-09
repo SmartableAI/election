@@ -179,6 +179,20 @@ related:
         width: 2500
         height: 1720
         isCached: true
+  - title: "President Biden bikes for first lady’s bday"
+    excerpt: "Politics President Biden bikes for first lady’s bday. Posted . U.S. President Joe Biden and his wife Jill went for a bike ride at a Delaware state park on Thursday as they celeb"
+    publishedDateTime: 2021-06-03T21:08:00Z
+    webUrl: "https://www.reuters.com/video/watch/president-biden-bikes-for-first-ladys-bd-id730870669?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210603&i=OVEFURG7Z&r=OVEFURG7Z&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "President Biden announces initiatives to combat racial wealth gap following 100 year mark since Tulsa Race Massacre"
     excerpt: "President Joe Biden on Tuesday became the first sitting U.S. president to visit the Tulsa, Oklahoma, neighborhood of Greenwood to pay tribute to the victims of the 1921 race massacre. CBS News Chief White House correspondent Nancy Cordes and CBSN political contributor and Associated Press White House reporter Zeke Miller join \"Red and Blue\" anchor Elaine Quijano with more on a new White House initiative that aims to combat the racial wealth gap and the latest on a ransomware attack targeting the world's largest meat supplier."
     publishedDateTime: 2021-06-01T23:06:00Z

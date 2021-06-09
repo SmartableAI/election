@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-justice-department-trumps
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
 type: article
 quality: 133
-heat: 373
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden turns to Obama to help boost health care enrollment"
-    excerpt: "President Joe Biden has turned to his old boss, former President Barack Obama, to help him encourage Americans to sign up for “Obamacare\" during an expanded special enrollment period in the pandemic"
-    publishedDateTime: 2021-06-05T17:20:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-turns-obama-boost-health-care-enrollment-78105281"
+  - title: "Biden revokes Trump executive orders targeting TikTok and WeChat"
+    excerpt: "President Biden has revoked former President Trump’s executive orders that sought to ban downloads of the Chinese-owned apps TikTok and WeChat in the U.S., according to a fact sheet released by the White House Wednesday."
+    publishedDateTime: 2021-06-09T14:34:00Z
+    webUrl: "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat"
+    ampWebUrl: "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/tiktok_082619istock.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "US drops Trump order targeting TikTok, plans its own review"
+    excerpt: "The White House dropped Trump-era executive orders that attempted to ban the popular apps TikTok and WeChat and will conduct its own review aimed at identifying national security risks with software a"
+    publishedDateTime: 2021-06-09T15:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/white-house-drops-trump-orders-ban-tiktok-wechat-78172933"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/white-house-drops-trump-orders-ban-tiktok-wechat-78172933"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/white-house-drops-trump-orders-ban-tiktok-wechat-78172933"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_115d35a8669d4d67959566146d2dadef_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0417ca8064e248ec89d234b0626d5fca_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Trump to speak at Republican event in North Carolina"
-    excerpt: "Former President Donald Trump is set to make a rare public appearance at a Republican event held in North Carolina this Saturday night, where conservatives are expected to plan for their party’s future."
-    publishedDateTime: 2021-06-05T22:57:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-to-speak-at-republican-event-in-north-carolina/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-to-speak-at-republican-event-in-north-carolina/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/05/64004832-71bb-4bb6-98fe-bd6b3f663fad/thumbnail/1200x630/a811b2041a295754665d007db9ef952f/ruffini-729168-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Just over half in new poll support Facebook's suspension of Trump"
-    excerpt: "A slim majority of Americans surveyed in a new poll said they support a recent decision by Facebook to extend a suspension of former President Trump Donald Trump Biden DOJ adopts Trump's ..."
-    publishedDateTime: 2021-06-08T11:39:00Z
-    webUrl: "https://thehill.com/policy/technology/557270-just-over-half-in-new-poll-support-facebooks-suspension-of-trump"
-    ampWebUrl: "https://thehill.com/policy/technology/557270-just-over-half-in-new-poll-support-facebooks-suspension-of-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557270-just-over-half-in-new-poll-support-facebooks-suspension-of-trump?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_112620getty_trump-gop.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Biden DOJ Plans To Continue To Defend Trump In E. Jean Carroll's Defamation Lawsuit"
     excerpt: "The Justice Department simultaneously distanced itself from the allegations Carroll has made that former President Donald Trump sexually assaulted her in the 1990s."
@@ -93,79 +77,32 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "President Biden bikes for first lady’s bday"
-    excerpt: "Politics President Biden bikes for first lady’s bday. Posted . U.S. President Joe Biden and his wife Jill went for a bike ride at a Delaware state park on Thursday as they celeb"
-    publishedDateTime: 2021-06-03T21:08:00Z
-    webUrl: "https://www.reuters.com/video/watch/president-biden-bikes-for-first-ladys-bd-id730870669?chan=6g5ka85"
+  - title: "Fact Check-Donald Trump remains suspended from Facebook and Instagram"
+    excerpt: "Claims that former President Donald Trump has returned to Facebook and Instagram after being banned months ago are false. Representatives from Facebook, the parent company of Instagram, confirmed in an email to Reuters the former president remains off both platforms."
+    publishedDateTime: 2021-06-04T18:55:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-trump-facebook-ban-idUSL2N2NM2CA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NM2CA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NM2CA"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210603&i=OVEFURG7Z&r=OVEFURG7Z&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Former President Trump addresses crowd in North Carolina"
-    excerpt: "Former President Trump on Saturday spoke at a Republican event in North Carolina where he discussed the 2020 election and the future of the Republican party. Christina Ruffini has more."
-    publishedDateTime: 2021-06-06T23:12:00Z
-    webUrl: "https://www.cbsnews.com/video/former-president-trump-addresses-crowd-in-north-carolina/"
+  - title: "Biden gives video address to graduating Parkland students"
+    excerpt: "President Joe Biden has told graduating seniors who were freshmen when a mass shooting left 17 people dead at their Florida high school that they've turned pain into purpose and darkness into light"
+    publishedDateTime: 2021-06-09T01:00:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students?_amp=true"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 75
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/51c0f68a-9067-4792-9fb9-a75ea1908ac8/thumbnail/1200x630/c1aab970eaca9edd9d42048a3fae7e25/0606-en-ruffini-729566-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latest in the Biden administration"
-    excerpt: "Border policy, infrastructure, Sen. Joe Manchin\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-06-08T20:00:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210608200022-latest-in-the-biden-administration-border-policy-infrastructure-sen-joe-manchin/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/08/story_10737208_1623182884.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
-    excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."
-    publishedDateTime: 2021-06-08T11:13:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-justice-department-e-jean-carroll-remarks/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-justice-department-e-jean-carroll-remarks/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-justice-department-e-jean-carroll-remarks/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 103
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/27/00b220c7-efcc-4ab4-80ce-259b963ce720/thumbnail/640x456g2/4560b5a2be120c52c53750c611ffdb40/screen-shot-2020-10-27-at-12-04-41-pm.png#"
-        width: 640
-        height: 456
-        isCached: true
-  - title: "Donald Trump isn’t liable for ‘crude and disrespectful’ remarks about accuser, columnist E. Jean Carroll, federal lawyers say"
-    excerpt: "U.S. Justice Department lawyers told an appeals court Donald Trump cannot be held personally liable for remarks he made about columnist E. Jean Carroll."
-    publishedDateTime: 2021-06-08T19:50:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-columnist-lawsuit-20210608-20210608-7fp47foc65g3tm3a2aft7vmrpq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-columnist-lawsuit-20210608-20210608-7fp47foc65g3tm3a2aft7vmrpq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-columnist-lawsuit-20210608-20210608-7fp47foc65g3tm3a2aft7vmrpq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 98
-    images:
-      - url: "https://www.chicagotribune.com/resizer/6YROuD0o1wndnHrCEFiZAVvZqVE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UPNIKPOET5EZDIENBTHQR2FDG4.jpg"
-        width: 1200
-        height: 675
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/a3003ce/2147483647/strip/true/crop/5000x3266+0+34/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F03%2Fd8980eef5077f563a7450d9cba6b%2F46e40697465a4e198d72507c74e85165"
+        width: 320
+        height: 209
         isCached: true
   - title: "President Joe Biden returns to the White House"
     excerpt: "U.S. President Joe Biden gets into a limo after stepping off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
@@ -180,34 +117,6 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/1b38ca44290d367c6c73fd0cf62370f0/USA-WHITE-HOUSE-BIDEN.jpg"
         width: 650
         height: 433
-        isCached: true
-  - title: "United States President Joe Biden departs from Holy Trinity Catholic Church"
-    excerpt: "United States President Joe Biden departs from Holy Trinity Catholic Church in Washington, DC on June 5, 2021. Photo by Chris Kleponis/UPI"
-    publishedDateTime: 2021-06-06T00:17:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4cbf302b2616c16b3668de34f9f109e3/United-States-President-Joe-Biden-departs-from-Holy-Trinity-Catholic-Church/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 53
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/4cbf302b2616c16b3668de34f9f109e3/BIDEN-CHURCH.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Former President Donald Trump endorses Mike Carey in 15th Congressional District race"
-    excerpt: "Former President Donald Trump on Tuesday endorsed Mike Carey in the special election for Ohio's 15th Congressional District, giving Carey an edge in a contentious GOP primary."
-    publishedDateTime: 2021-06-09T01:51:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/former-president-donald-trump-endorses-mike-carey-in-15th-congressional-district-race/article_f5e1f380-71e0-50d8-a28f-f6fd9d4e485b.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 48
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "AY75wvnVWnW18zi45Kfy/s/Q39b65Z3T0W1EBzdSFwDgarATvh6MGKmUe9jynji0apbOjjbrlNF/SV2jNC53M+9x/3WzF8dH7izdnHr931nF7v6v36vV8APe4y37oCi9ZbUPL9mGgsZWuSwMuW3i6BcF9c2ZUT+iFaF1LRvdGkBPhB+dpWFfaJ0DQRUSN78A4bZz4tSvYtvRuC4Bufo+3BKRiElU/i5ARvfskAXHfrox9pDiUHXxBwFLUs6dNA9SlvlebQ58Nb1FMoZFG4Tl+E+ruq8WHL4VW2Kr45eWTfDT6Qv6I6xSuFD5YSOzxqoKtcxxFmrOXIyN6ueMo8+ylOFvaDuIcSnGliMLyWczP2GBcQT6EkR9LSEqEpmo/I2kYlF6zWvcHZwtNX4wzA6/wDQKNMrTla5GTjb1yBHviUDsQ8Stsr6WkBJTKDLni/Sp++n3kbazkDWvlLgiSZYkCwr4e/ewGi8Pi97lxhjaJNgG0lJxcMaksTg8vpgHjVlHhPuvv7WWvn/JW/E7ptAvZw==;L8kK7Wq3LNMz+3xReRZKQA=="
