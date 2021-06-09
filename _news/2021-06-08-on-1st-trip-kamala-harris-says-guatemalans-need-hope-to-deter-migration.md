@@ -423,6 +423,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Kamala Harris has awkward interview with NBC's Lester Holt"
+    excerpt: "During her trip to Guatemala this week, Vice President Kamala Harris did a sit-down interview with NBC's Lester Holt, who pressed Harris on the ongoing crisis at the southern U.S. border. Harris, who is visiting Guatemala to work on solutions for the \"root causes\" of migration,"
+    publishedDateTime: 2021-06-09T17:29:00Z
+    webUrl: "https://www.chron.com/lavoz/politics/article/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/36/45/21096777/6/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "VP Kamala Harris in Mexico to address illegal migration with Lopez Obrador"
     excerpt: "Vice President Kamala Harris met with Mexican President Andres Manuel Lopez Obrador in Mexico City on Tuesday to discuss immigration policy, part of her first foreign trip since taking office in January."
     publishedDateTime: 2021-06-08T15:48:00Z

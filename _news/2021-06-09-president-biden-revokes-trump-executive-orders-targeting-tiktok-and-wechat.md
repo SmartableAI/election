@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/tiktok-wechat-executive-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/tiktok-wechat-executive-order/index.html"
 type: article
 quality: 188
-heat: 508
+heat: 528
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330130504-01-rep-pramila-jayapal-0301-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden DOJ signals it will defend law that allows discrimination in schools"
+    excerpt: "The Justice Department said in a court filing Tuesday that it will continue to defend a federal law that allows religious schools to discriminate against LGBTQ students.\n    \n"
+    publishedDateTime: 2021-06-09T17:42:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7m179AlDJ6k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/justice-department-schools-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/justice-department-schools-law/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609132226-us-dept-of-education-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -286,6 +302,6 @@ related:
         height: 629
         isCached: true
 
-secured: "L7/37H4KpqThcQH2czLwRN2sYCs7xNIDVWIixn5YKHwalDdJWxaguaJFVvcvw3UzRmlH9ofTxCHIzmth5jLy11jL6Xn8k1sbjCRNeDoc/MaiQIYlxcjxY1ZuuWgOQmbqFo56jkHWoW71Ckajqy7dOVRIcgGB2SYQzqLhz8Kq+HW/oz9BH1axFz23SwjtVu8LZEJQYct8df7DskbsSautJIAR6Juwk4gIkvdMkqMs5F6e6e71ST3BMm8hBhQIgAhiUOyOoR/ue8oQlZuSWoCfPx6jGUawlm0jznTCjvt+Ma1PgZQVqKYTNkSWzAex2Ur4nmepfgrK+lYhyFDWeBk0Ipacxc/Ta/Xx/nxdLE39qCQ=;fGf2BLeAAC6SyjPYlHnj+w=="
+secured: "ffKloNwe91Dr+Qinwk4PnKkfqZ+QYBMEu6QYI5S5/a+Etc1k1NrS2ULfZYC9tqTyjZEiOcmZ0Rsi9jBkYlZs7ku9SpMBPKMoP8HRLMbDnh1vMnPczDhL5UbC8skz4yLmQWk4xt6AygiT35Lq0JM30YDYf7qEyQPRbbP+LAxZsRbuUkH1MDDJkZHvEK62KXEY/SKiJy3SE40FV1B+fqDCxgYsleTo0qw4YN3mg/CwFvOamsrz/wE6lQDA3zLzFwxFgB5Ak2CWp85L2NeG5hYHVW6QZxUw+DAwX7QqQiTfT9cearLe9KyNybi6Sza9ujYS45b/3MLbfRI6czePwd5w7/WNzExkVDbznNBZeSSQ9Sg=;pAPab0ksVEPvElW5Ynz9EQ=="
 ---
 

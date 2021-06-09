@@ -2,6 +2,62 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-04-23-biden-set-to-make-maiden-foreign-trip-in-june-to-uk-and-belgium.md",
+      "title": "Biden set to make maiden foreign trip in June to UK and Belgium",
+      "excerpt": "President Joe Biden will embark upon his first foreign trip in June, the White House said on Friday, with plans to attend the Group of 7 summit in southwestern England and diplomatic meetings in Brussels.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YLIbrs3KlG4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YLIbrs3KlG4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 595,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210423101800-joe-biden-0423-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html",
+      "publishedDateTime": "2021-04-23T08:42:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-biden-announces-us-will-aim-to-cut-carbon-emissions-by-as-much-as-52-by-2030-at-virtual-climate-summit.md",
       "title": "Biden announces US will aim to cut carbon emissions by as much as 52% by 2030 at virtual climate summit",
       "excerpt": "President Joe Biden on Thursday will kick off a climate summit attended by 40 other world leaders by announcing an ambitious cut in greenhouse gas emissions as he looks to put the US back at the center of the global effort to address the climate crisis and curb carbon emissions.\n    \n",
@@ -1277,58 +1333,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-donald-trump-spokesperson-katrina-pierson-on-david-dukes-support.md",
-      "title": "Donald Trump spokesperson Katrina Pierson on David Duke's support",
-      "excerpt": "Donald Trump is hammering Hillary Clinton for saying half of his supporters were \"deplorables.\" One of those supporters is former KKK grand wizard, David Duke. Trump spokesperson Katrina Pierson joins CBSN's Vladimir Duthiers with more on Duke's support of Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/donald-trump-spokesperson-katrina-pierson-on-david-dukes-support-1/",
-      "originalUrl": "https://www.cbsnews.com/video/donald-trump-spokesperson-katrina-pierson-on-david-dukes-support-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/21/a179b816-e7bb-4b60-b84c-10cfa09d9ab1/thumbnail/1200x630/5bb76f63916dded2637062c244317c52/0913-cbsn-gcb-trumpspokesperson-1123271-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

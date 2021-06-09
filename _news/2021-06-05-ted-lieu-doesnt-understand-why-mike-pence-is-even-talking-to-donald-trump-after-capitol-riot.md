@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-e
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858?amp=1"
 type: article
 quality: 138
-heat: 198
+heat: 218
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/Ikajz9nESbBxudD0chGC9cQZ1Ww=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TZVUHTCDS5AFHE4OFF3VF5XG6U.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "These 7 federal judges have had past brushes with Trump and are now helping to decide the Capitol rioters' fate"
+    excerpt: "Expect to hear much more from these US judges as the Justice Department pursues the pro-Trump crowd that stormed the US Capitol on January 6."
+    publishedDateTime: 2021-06-09T17:43:00Z
+    webUrl: "https://www.businessinsider.com/judges-capitol-riot-january-6th-cases-trump-dc-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/60be972de459cb0018a2c919?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump fans convene to talk about God, country and patriotism"
     excerpt: "The For God & Country Patriot Roundup conference is being held for three days at the Omni Dallas Hotel. DALLAS — It had all the buzz and excitement of a political convention, except that the next presidential election is still a few years away."

@@ -236,6 +236,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris says Mexico's refusal to take back migrant families was not discussed during trip"
+    excerpt: "Vice President Kamala Harris on Tuesday said that Mexico’s refusal to take back some migrant families turned away from the U.S. was not even discussed in her meetings with Mexican President Andres Manuel Lopez Obrador – as she unveiled a number of U.S. investments in Mexico and the Northern Triangle."
+    publishedDateTime: 2021-06-09T15:59:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xusBgmZYnrM/harris-mexico-refusal-migrant-families"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-mexico-refusal-migrant-families.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-mexico-refusal-migrant-families.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ad17067-a7bb-4717-ae83-a79c787c209c/47e49a5a-1b58-4e8d-b007-37bc1b604909/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Harris meets with Mexican president amid criticism over migrant remarks, lack of border visit"
     excerpt: "Vice President Kamala Harris on Tuesday was meeting with Mexican President Andres Manuel Lopez Obrador as part of a two-day tour to the region to tackle what the Biden administration describes as the \"root causes\" of the crisis at the southern border -- as she faces criticism for failing to visit the"
     publishedDateTime: 2021-06-08T21:01:17Z
@@ -503,6 +519,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "xczXFYrRRfDgxUh4HU7xZZzqo7sEbtc6bDHeZA/zFw1E8mix2FQiqJ4pHSD57DkIWxJ9HY/+shlDLPoPjKw8d9+8ewd2fzLn/r57kwlXdRmw8zm0z8QRxUVF8aBHksQmhaeSrCihQ0GW0rEmYYsIwMfGI18keSUpbFR9/3LdX6OH7Qv3VykwNTqypLMXHdnp3kzkDjSJCw2HrWaDW6VGYYLGyc/2dcejSlvRK9cNG+xnOU7jY+RNBMCU9mSPX/Lu+w0UqIQ7E2x75qpobiAZtJCNkTriOrn1/n2BEH+2hzTxxsGrfo6Gjn/Qs/GCipq9Nqh0ALXfczp0OO2Bgw7u+wncyRVqMyz5DkNnzViwbnc=;UBBBG+PzBBfSdLeQf4w3RA=="
+secured: "4gocHt4SVohsEvvjQl0mWxbCGjoR06rqcbgFC5znLkT+rIaNI+EcvOgbEIpviy8OUr/n4fOT3lJ9BjaaXv9nPgnWn9hbHnn3S7vlXa8bymBBvqOk60U9+ZcrjPKFkLbFQvHInBEN3IDyOEEm58IwOduop6Rv5/yCNCDCIhLXukaF4DiYvFdoCtrprRdYL+M6AVSVuSvTWXf2yTBbK6N0gfK/sooHXjKjYk6Dt5lS923oZodiXT/cNYKYTZk5TZwZQ/t1o+4X1s7Xvf2Y/V0OYYPN38TkHZmVzGRClHI1h8pT8bIpPL95ypa4EhXEioAUGgjdRHJqCAG/4joiTl4VFG3kteQ9rRbnO5fpx8y5a0yhzcP9UAFBOerW3hRXF2c6CeX9H/efzpi+2iaHZBs1CZZC8AieWzX445cPEpfKIdNNVIY1mxt8VjMaaD4Llzj6Rvx+joFzXfhDiZcJNONrI017BKTG46mdGFD0rhGULx/Tcc/kt3Ijq4KlyYwyiA56B4F6fBt1C4D+eUkDIk5sBg==;CDvHl+a7E7Pq49hRba30+Q=="
 ---
 

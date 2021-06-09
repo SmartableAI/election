@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthda
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -184,6 +184,20 @@ related:
     quality: 105
     images:
       - url: "https://static.reuters.com/resources/r/?d=20210605&i=OVEG4QH27&r=OVEG4QH27&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "'Watch out for the cicadas' - Biden swats away insect"
+    excerpt: "Biden swats away insect. Posted . U.S. President Joe Biden on Wednesday on his way to to the G7 summit in Britain swatted away a cicada and"
+    publishedDateTime: 2021-06-09T16:45:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEGOQ5ZZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210609&i=OVEGOQ5ZZ&r=OVEGOQ5ZZ&t=2"
         width: 960
         height: 540
         isCached: true

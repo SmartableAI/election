@@ -302,6 +302,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Dems fear Biden agenda may be squandered as they pressure key moderates to abandon Senate GOP"
+    excerpt: "Senate Democrats, growing impatient as they watch their ambitious agenda imperiled in the evenly divided chamber, are prepared to go-it-alone on President Joe Biden's sweeping infrastructure package -- and pressure Sens. Joe Manchin and Kyrsten Sinema into backing a Democratic-only approach.\n    \n"
+    publishedDateTime: 2021-06-09T02:16:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DZgJuX_t-jg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/democrats-divide-senate-squander-biden-agenda/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/democrats-divide-senate-squander-biden-agenda/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604093516-02-joe-manchin-0527-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House rejects GOP infrastructure counteroffer, saying it does not meet Biden's objectives"
     excerpt: "President Joe Biden on Friday rejected a new counteroffer made by Republicans on infrastructure despite a $50 billion increase in spending, telling the GOP's key negotiator that the new offer did not meet his policy goals.\n    \n"
     publishedDateTime: 2021-06-04T23:42:02Z

@@ -236,6 +236,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris says Mexico's refusal to take back migrant families was not discussed during trip"
+    excerpt: "Vice President Kamala Harris on Tuesday said that Mexico’s refusal to take back some migrant families turned away from the U.S. was not even discussed in her meetings with Mexican President Andres Manuel Lopez Obrador – as she unveiled a number of U.S. investments in Mexico and the Northern Triangle."
+    publishedDateTime: 2021-06-09T15:59:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xusBgmZYnrM/harris-mexico-refusal-migrant-families"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-mexico-refusal-migrant-families.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-mexico-refusal-migrant-families.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ad17067-a7bb-4717-ae83-a79c787c209c/47e49a5a-1b58-4e8d-b007-37bc1b604909/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Harris meets with Mexican president amid criticism over migrant remarks, lack of border visit"
     excerpt: "Vice President Kamala Harris on Tuesday was meeting with Mexican President Andres Manuel Lopez Obrador as part of a two-day tour to the region to tackle what the Biden administration describes as the \"root causes\" of the crisis at the southern border -- as she faces criticism for failing to visit the"
     publishedDateTime: 2021-06-08T21:01:17Z

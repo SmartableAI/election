@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-mollie-hemingway-calls-out-kamala-harris-nervous-laugh-when-facing-tough-questions.md",
+      "title": "Mollie Hemingway calls out Kamala Harris' nervous laugh when facing tough questions",
+      "excerpt": "The Federalist Senior Editor Mollie Hemingway said on Wednesday that Vice President Kamala Harris laughs “nervously” when challenged by journalists, reacting to an interview the former senator had with NBC journalist Lester Holt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway",
+      "originalUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9eb52e3-ebd6-468a-906e-47779bf429e6/5abaec05-51d8-4fad-adf4-f8b47dee9050/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway.amp",
+      "publishedDateTime": "2021-06-09T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-president-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat.md",
       "title": "President Biden revokes Trump executive orders targeting TikTok and WeChat",
       "excerpt": "President Joe Biden on Thursday revoked a series of executive orders signed during the Trump administration targeting TikTok, WeChat and other Chinese apps, and replaced them with a new executive order addressing apps linked to foreign adversaries, including China.\n    \n",
@@ -14,7 +71,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 508,
+      "heat": 528,
       "tags": null,
       "images": [
         {
@@ -1294,62 +1351,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-obama-reacts-to-rise-in-anti-semitism-says-trump-fanned-those-flames.md",
-      "title": "Obama reacts to rise in anti-Semitism, says Trump 'fanned those flames'",
-      "excerpt": "Former President Barack Obama is pointing to his successor as the reason for the rise in anti-Semitism in the United States. In an exclusive interview with Jewish Insider, Obama blamed said former President Donald Trump “fanned those flames\" during his tenure in office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAJLo3HclHs/obama-reacts-rise-antisemitism-trump-fanned-flames",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAJLo3HclHs/obama-reacts-rise-antisemitism-trump-fanned-flames",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2e4f9aa-47a8-4f80-9d23-fab0e07698c6/59c03c6e-b1f3-4809-b8f0-009b923c55ae/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/obama-reacts-rise-antisemitism-trump-fanned-flames.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-reacts-rise-antisemitism-trump-fanned-flames.amp",
-      "publishedDateTime": "2021-06-07T16:07:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

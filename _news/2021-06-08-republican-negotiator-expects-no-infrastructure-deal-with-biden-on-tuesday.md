@@ -201,6 +201,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "'Watch out for the cicadas' - Biden swats away insect"
+    excerpt: "Biden swats away insect. Posted . U.S. President Joe Biden on Wednesday on his way to to the G7 summit in Britain swatted away a cicada and"
+    publishedDateTime: 2021-06-09T16:45:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEGOQ5ZZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210609&i=OVEGOQ5ZZ&r=OVEGOQ5ZZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Infrastructure talks between Joe Biden and Republicans collapse"
     excerpt: "Joe Biden’s bid to strike a deal with Senate Republicans on a sweeping infrastructure spending package collapsed on Tuesday, narrowing the US president’s options as he tries to move his economic agenda through Congress."
     publishedDateTime: 2021-06-08T21:45:00Z

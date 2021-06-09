@@ -47,6 +47,20 @@ related:
         width: 3630
         height: 2561
         isCached: true
+  - title: "These 7 federal judges have had past brushes with Trump and are now helping to decide the Capitol rioters' fate"
+    excerpt: "Expect to hear much more from these US judges as the Justice Department pursues the pro-Trump crowd that stormed the US Capitol on January 6."
+    publishedDateTime: 2021-06-09T17:43:00Z
+    webUrl: "https://www.businessinsider.com/judges-capitol-riot-january-6th-cases-trump-dc-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/60be972de459cb0018a2c919?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump fans convene to talk about God, country and patriotism"
     excerpt: "The For God & Country Patriot Roundup conference is being held for three days at the Omni Dallas Hotel. DALLAS — It had all the buzz and excitement of a political convention, except that the next presidential election is still a few years away."
     publishedDateTime: 2021-05-29T21:26:00Z

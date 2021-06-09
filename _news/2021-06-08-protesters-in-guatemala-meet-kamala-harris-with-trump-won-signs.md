@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-tru
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1"
 type: article
 quality: 140
-heat: 1060
+heat: 1080
 published: true
 
 provider:
@@ -410,6 +410,22 @@ related:
       - url: "https://www.tampabay.com/resizer/uls7ATZ4zW3R9qTpUGmrEhpWOu0=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/C676FOACOJF4FHXCS57HUIFB64.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Kamala Harris has awkward interview with NBC's Lester Holt"
+    excerpt: "During her trip to Guatemala this week, Vice President Kamala Harris did a sit-down interview with NBC's Lester Holt, who pressed Harris on the ongoing crisis at the southern U.S. border. Harris, who is visiting Guatemala to work on solutions for the \"root causes\" of migration,"
+    publishedDateTime: 2021-06-09T17:29:00Z
+    webUrl: "https://www.chron.com/lavoz/politics/article/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/36/45/21096777/6/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "On 1st trip, Kamala Harris says Guatemalans need 'hope' to deter migration"
     excerpt: "Central Americans must believe that \"help is on the way\" if illegal migration to the United States is to be curbed, Vice President Kamala Harris said Monday in Guatemala during her first official foreign visit."

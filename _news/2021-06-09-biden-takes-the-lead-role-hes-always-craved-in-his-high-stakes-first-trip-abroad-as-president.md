@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden DOJ signals it will defend law that allows discrimination in schools"
+    excerpt: "The Justice Department said in a court filing Tuesday that it will continue to defend a federal law that allows religious schools to discriminate against LGBTQ students.\n    \n"
+    publishedDateTime: 2021-06-09T17:42:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7m179AlDJ6k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/justice-department-schools-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/justice-department-schools-law/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609132226-us-dept-of-education-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's willingness to break conventional presidential wisdom on full display as he heads to the beach "
     excerpt: "Political wisdom might ordinarily dictate that a president in need of certain senators' votes not publicly scold those lawmakers in public.\n    \n"
     publishedDateTime: 2021-06-02T22:55:41Z

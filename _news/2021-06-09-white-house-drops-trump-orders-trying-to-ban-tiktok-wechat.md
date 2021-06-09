@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "White House drops Trump order targeting TikTok, plans new review"
+    excerpt: "The White House has abandoned Trump-era executive orders that sought to ban the popular apps TikTok and WeChat and will conduct its own review aimed at identifying national security risks with software applications tied to China,"
+    publishedDateTime: 2021-06-09T17:39:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-tiktok-ban-dropped-20210609-z6qnrpmmvvcfzhyymmg72s7zuy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-tiktok-ban-dropped-20210609-z6qnrpmmvvcfzhyymmg72s7zuy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-tiktok-ban-dropped-20210609-z6qnrpmmvvcfzhyymmg72s7zuy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/wpRLeVjqUr4MJLNqSSk6m6eOUeo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GHVUJJVORPGNNFDSYUFAYOUXRY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump tells Fox News it's 'highly unlikely' he'll run for a House seat in 2022"
     excerpt: "A right-wing talk radio host speculated that Trump could run in a safe district and become House Speaker if the GOP were to flip the majority in the 2022 midterms."
     publishedDateTime: 2021-06-07T13:58:00Z

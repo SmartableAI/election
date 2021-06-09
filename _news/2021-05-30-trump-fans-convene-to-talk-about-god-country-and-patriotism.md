@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "These 7 federal judges have had past brushes with Trump and are now helping to decide the Capitol rioters' fate"
+    excerpt: "Expect to hear much more from these US judges as the Justice Department pursues the pro-Trump crowd that stormed the US Capitol on January 6."
+    publishedDateTime: 2021-06-09T17:43:00Z
+    webUrl: "https://www.businessinsider.com/judges-capitol-riot-january-6th-cases-trump-dc-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/60be972de459cb0018a2c919?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Impeachment Lawyer Defending Man in Capitol Riot"
     excerpt: "A lawyer who defended former President Donald Trump during his impeachment trial against a charge of inciting the riot at the U.S. Capitol is now representing a man charged alongside other members and associates of the far-right Oath Keepers extremist group in the Jan."
     publishedDateTime: 2021-06-08T17:56:00Z

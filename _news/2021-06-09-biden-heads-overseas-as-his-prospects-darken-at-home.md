@@ -3,8 +3,8 @@ category: news
 title: "Biden Heads Overseas as His Prospects Darken at Home"
 excerpt: "Joe Biden is heading abroad, just at the moment when his hopes for a historic legislative legacy at home seem headed for a wall. Read Full Article »"
 publishedDateTime: 2021-06-09T11:41:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/09/biden_heads_overseas_as_his_prospects_darken_at_home_544636.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/06/09/biden_heads_overseas_as_his_prospects_darken_at_home_544636.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/06/09/biden_heads_overseas_as_his_prospects_darken_at_home_544636.html"
+webUrl: "https://www.realclearpolitics.com/2021/06/09/biden_heads_overseas_as_his_prospects_darken_at_home_544636.html"
 type: article
 quality: 65
 heat: -1
@@ -320,6 +320,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "d9lWJ13/6S+0kH6ZS7cZ9MPwCPrWNm+IkhuAvWyhg2KBFEOwJuBAFr3wLRY9LR3DyWb7iDxWhkPFv4aJ5mSYDtT8cU6K0xLM+pk2cPH1kdxNkWZLdUWpvF8Mx8uaUSqHw+JaefeNRjNsSYrv6eKmwy7lU/F8NxxJ+FnNPnKz76VdDKWYlamP0PUdJIrNxYAezK+igIDkyldU/igWpFX1V3nkyOxTipbZbREswGal2PAMawHbAChQNxwr7lW/V0zMEM7MUkDrny1aq1HHr2ukkSEXv6aSANTuoGiJXcWv0QygHfdwJFqazpFEzjTARhctv5LdT39t/OJGQThe9J+ZX1WfugFfStAn/Q/G9Ha7GDc=;FM10QqkbC2e6DGFZpuRYBw=="
+secured: "6sPTjNJjW1JmXxuZWWmM/TgygnkgazCwXHPQgEYbobdg1jSu7JUX/0xWtMCeXTLaxjvtRbQpLGelNb8QQDfp5ZvUtdB7Ujoi7A2N4ToLJkqpgGFZnOrsbeySZOa83AlHDB3YJ9kBA2SELruWLBOFvvnZjDfHCo1aCO3OQiOJAlG7gt/hNtIPr043sNQBBHiI8mOfQ5ANzCq7+2fFpuMXRhByAKl1pozYaOKgKJrGNmk0HT/3FS2YZo7H/OcQHVLJaDGmlXEk/umgw+60b30V95y7LjhfoGqW52de8AOuVceLxja3HndOiUJ0Ax7zaaBC3zC8sH9IIUgsqEcDNITOLnULvLR9Gcls7l8GgUWaDRU=;+CF5SABX1X5wOmn7ZjxJpw=="
 ---
 

@@ -142,6 +142,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden DOJ signals it will defend law that allows discrimination in schools"
+    excerpt: "The Justice Department said in a court filing Tuesday that it will continue to defend a federal law that allows religious schools to discriminate against LGBTQ students.\n    \n"
+    publishedDateTime: 2021-06-09T17:42:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7m179AlDJ6k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/justice-department-schools-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/justice-department-schools-law/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609132226-us-dept-of-education-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden takes the lead role he's always craved in his high-stakes first trip abroad as president"
     excerpt: "When President Joe Biden told officials this spring that he wanted to meet soon with his Russian counterpart for a summit, his team quickly set out to make it happen -- even if some wondered what he really hoped to achieve.\n    \n"
     publishedDateTime: 2021-06-09T06:35:10Z
