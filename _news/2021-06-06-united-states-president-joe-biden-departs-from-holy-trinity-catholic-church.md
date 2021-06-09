@@ -191,6 +191,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Former President Donald Trump endorses Mike Carey in 15th Congressional District race"
+    excerpt: "Former President Donald Trump on Tuesday endorsed Mike Carey in the special election for Ohio's 15th Congressional District, giving Carey an edge in a contentious GOP primary."
+    publishedDateTime: 2021-06-09T01:51:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/former-president-donald-trump-endorses-mike-carey-in-15th-congressional-district-race/article_f5e1f380-71e0-50d8-a28f-f6fd9d4e485b.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 48
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3skUUwPUCVDK4GmVUyYkYVgDV/fLM3eV+WBporOlyPdo8Zpo1IpuvfDjxUtkOaOmeHgO0ZBBfr/V+Xc69SB11Ke7fb2XmnvZ3FYiDUAHSAcAfggdRRPfCj8I4i3AgL6lqOq6kUE1HJ2/dqYsX6FXCuXpTDbPWPEbhx7Rz6OKNFYiN6LYXYPp11LcZaddbe17OdvvWncSrDUToSyODY27qQRlJ8alyNg80c5u70FLi/MgBAMZbL7L+lXf5YVvWXnswGKBstJfEDh29ynUi+zHOM2kVRtx4pILJ/rxwtyCT1cOAFldVQLL+kG8NQeL8DsfABfU9AbGqRQjF8mddpZxQ7Qszgc0rs1JOBUnEqmfrjyvZawU8kkngRTIm/YEHznf3yZP/pTLLl9OIocVnShK+5iaSweNb6Fi2KYJMvgY3EUIY9tCUMb3UzzSLO8CZ2SAbxXNB4PU1O737MWNqyAa7FXQPXbA7Ehr0YSPsDgfc16csnf7LqyJgKEnDYFV/k0yH8cXl7JX0P23e5B9FlvTAQ==;zW3JIWcsgvPWcee8WggWAQ=="
 ---

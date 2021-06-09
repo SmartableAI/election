@@ -289,6 +289,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to face global challenges from China, Russia as he departs for first foreign trip"
+    excerpt: "President Biden embarked on his first trip overseas since taking office Wednesday, a journey in which he will meet with G-7 and NATO allies to discuss ways to address the coronavirus pandemic and an increasingly aggressive China and Russia."
+    publishedDateTime: 2021-06-09T12:05:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nlLKkBjXipk/biden-first-foreign-trip-europe-global-challenges-china-russia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-first-foreign-trip-europe-global-challenges-china-russia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-foreign-trip-europe-global-challenges-china-russia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Guatemala’s prez blames Biden for border crisis as protesters tell Kamala Harris ‘Trump won’"
     excerpt: "The rally was visible to Vice President Kamala Harris’ motorcade as she arrived to meet with Guatemala President Alejandro Giammattei on curbing illegal migration."
     publishedDateTime: 2021-06-07T16:50:00Z

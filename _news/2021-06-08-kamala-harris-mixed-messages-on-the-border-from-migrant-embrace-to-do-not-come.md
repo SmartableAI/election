@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris proves 'time and time again' she's not fit to handle border crisis: AZ sheriff"
+    excerpt: "Pinal County, Arizona Sheriff Mark Lamb slammed Kamala Harris for dodging press questions about the border crisis with laughter, saying the issue is \"not a laughing matter\" and that her response proves she's not the right person for the job,"
+    publishedDateTime: 2021-06-09T13:41:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-not-fit-handle-border-crisis-sheriff"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-not-fit-handle-border-crisis-sheriff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-not-fit-handle-border-crisis-sheriff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c473241f-b4db-48b6-90a1-8cae4c4a45fd/397c4270-1a1d-4507-aee5-6da181aa7cc5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "zeopeshrGJosj16YuYe/o/WZQ1Bp0Ymb7StGjmr7H2zVxPXovTEKYuNfrZNX/lBYT9IXN4r7DcbVIQ/mRWfgS6/tlQ5rLpR9ic9BP/vZmUc/8pOmfnvW12bkuOFHZYFloGjS9XyZinemjpACRaD+h/r4/y4A6EU/uf5b1vT1WRWIMUGTwjQjc3Ok3Zgyhq23ORH5bYd0r55skO6XIXtrTRfdpf/DaCyzcF1uGeNWLBh+l9hq1WB400lGqtJp+8MxvxtwTGA6hKDmMXvizjyJcqBFXX+zXAxEraT/emM59HmCIuleL39TYqwkf5Yu2v0mJgl9zL+Vrf8ao/0jUWKFqYYd4CysMfg93zWspflKg3w=;VdedX5/VBvR7SNOcxLyweg=="
 ---

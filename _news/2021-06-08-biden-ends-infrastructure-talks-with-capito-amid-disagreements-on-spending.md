@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "House Dems urge DOJ to stop defending Trump in defamation lawsuit over sexual assault allegations"
+    excerpt: "Democrats on the House Judiciary Committee blasted the Biden administration's Justice Department for its \"misguided\" decision to continue to represent former President Donald Trump in a defamation lawsuit filed by a woman who claims Trump sexually assaulted her in the 1990s."
+    publishedDateTime: 2021-06-09T12:30:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xj9bTePwbHI/house-dems-stop-defending-trump-defamation-suit"
+    ampWebUrl: "https://www.foxnews.com/politics/house-dems-stop-defending-trump-defamation-suit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dems-stop-defending-trump-defamation-suit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump to hit ‘timid and corrupt’ Biden on China in rare speech"
     excerpt: "President Donald Trump is expected to criticize President Joe Biden’s policy on China at a speech at the North Carolina Republican state convention."
     publishedDateTime: 2021-06-05T18:51:00Z
@@ -162,7 +178,7 @@ related:
   - title: "Biden Should Make China Pay"
     excerpt: "President Joe Biden heads to Europe Wednesday to meet with European leaders. He says the goal is to work together to"
     publishedDateTime: 2021-06-09T10:13:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
     type: article

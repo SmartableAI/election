@@ -181,6 +181,22 @@ related:
         width: 3200
         height: 2133
         isCached: true
+  - title: "Vice President Kamala Harris back in Washington after first foreign trip to Mexico, Guatemala"
+    excerpt: "Vice President Kamala Harris is back in Washington Wednesday after wrapping up her first foreign trip in office, traveling to Mexico and Guatemala to address the growing number of migrants crossing the U."
+    publishedDateTime: 2021-06-09T12:13:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-back-in-washington-after-first-foreign-trip-to-mexico-guatemala/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/vice-president-kamala-harris-back-in-washington-after-first-foreign-trip-to-mexico-guatemala/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/vice-president-kamala-harris-back-in-washington-after-first-foreign-trip-to-mexico-guatemala/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/09/dfc4eb49-4b3e-4cc2-a739-167f26e4cc07/thumbnail/1200x630/0418c00afcb3aefe5af0eb86912558ac/0609-ctm-kamalamexico-okeefe-731226-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris meets with Guatemalan president"
     excerpt: "Vice President Kamala Harris said during a news conference with President Alejandro Giammattei that the fact that Guatemala is the first country she's visiting as vice president sends a message about how important the region is to the U."
     publishedDateTime: 2021-06-07T19:44:00Z

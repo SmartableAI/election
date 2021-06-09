@@ -3,8 +3,8 @@ category: news
 title: "Biden Should Make China Pay"
 excerpt: "President Joe Biden heads to Europe Wednesday to meet with European leaders. He says the goal is to work together to"
 publishedDateTime: 2021-06-09T10:13:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
 type: article
@@ -73,6 +73,22 @@ related:
     quality: 173
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/Heinrich_Jacqui_OFFICIAL-1-1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "House Dems urge DOJ to stop defending Trump in defamation lawsuit over sexual assault allegations"
+    excerpt: "Democrats on the House Judiciary Committee blasted the Biden administration's Justice Department for its \"misguided\" decision to continue to represent former President Donald Trump in a defamation lawsuit filed by a woman who claims Trump sexually assaulted her in the 1990s."
+    publishedDateTime: 2021-06-09T12:30:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xj9bTePwbHI/house-dems-stop-defending-trump-defamation-suit"
+    ampWebUrl: "https://www.foxnews.com/politics/house-dems-stop-defending-trump-defamation-suit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dems-stop-defending-trump-defamation-suit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -187,6 +203,6 @@ related:
         height: 500
         isCached: true
 
-secured: "igPS987MZqXbQmJX7Z0F7WY6KHTCvy7+MgGKpuYd8etoHraVd+NYl/kwyraPKldU5/pKCMnozpYq7R69RXSH+jwfUzLTCw7N7/a9c+Z4/lM236LXJWl4pxpWJy4yY5y2mJRF+2ATUJ1QKWflPxRh+VwcLVQk6P2rO6BW+os8UCdhNcr7LwZUCoqzoN/1p9q9liFpaLYRE6xUFouMK6GkWkiz0wR30x9ocHGtcj3f6UqyV4S1NNRYHLl4WbOoT1cfMdFw/qVwwkb1N5chC4nOZ0d2CgVMgEMOxXPlpfa97Vx1vgXI7n3YGGgwJEE7I8/+ZSli7Ne9Bow1IniE9M2Aq2FCGUeu8ary1nQLm/Sp/hc=;Bd0OPRqKz2DENcsto79iDw=="
+secured: "4CqiuPUdXEKMCvfE1Yh9kgwJEqUAgzt357coE8Sgddt6hz8Nn4sQBSoJU1hbOKDRE9iVunu90z7wjsxLfkCGi49UjXHuT9bU9OCYIK51U/nOvA6zWEw6i7RqIpSteIV73axwtsHAl6HCZN1DpsM1RN0MZtgBRRgqj8JXgtSt3A2+FpMRZ5Vs/K16FXscJa8xeLTyYXNcpSciA9k+0rX8TyRvg8YnmpAQKEa04vsq6iCtihpF3gCdbXVZO0lpY0G2UtHJIYz29qg80WXcT58erjAUZxMZkTw8/xuxOsecyH/p0ZFIw16W/ucGKUJnUQnkGrxkWYsoR7oy1O3tFvmOzEuhrOUWQjPpIGlYIOg1veM=;FlkHvDCZlMJWVQDo/2I6KQ=="
 ---
 

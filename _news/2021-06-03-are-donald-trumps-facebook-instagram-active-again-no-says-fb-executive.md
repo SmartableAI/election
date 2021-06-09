@@ -31,53 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump calls Bitcoin 'a scam against the dollar'"
-    excerpt: "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar."
-    publishedDateTime: 2021-06-08T01:12:00Z
-    webUrl: "https://www.bbc.com/news/business-57392734?at_custom1=%5Bpost+type%5D&at_medium=custom7&at_campaign=64&at_custom2=twitter&at_custom4=22863048-C7F7-11EB-AD25-ABB34744363C"
-    ampWebUrl: "https://www.bbc.com/news/business-57392734.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp"
+  - title: "Fact check: Donald Trump remains suspended from Facebook, Instagram"
+    excerpt: "An Instagram post claims Donald Trump's Facebook and Instagram accounts were restored as of June 2. That's false."
+    publishedDateTime: 2021-06-07T18:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/06/07/fact-check-trump-facebook-and-instagram-accounts-still-suspended/7546944002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7546944002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7546944002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/26/USAT/c93bd3c4-8f04-4f46-b7af-39d711e7a971-AP_Trump_Russia_Probe.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Facebook suspends Trump for 2 years in response to Oversight Board ruling"
+    excerpt: "The change is part of a series of responses to the Facebook Oversight Board’s ruling on former President Trump."
+    publishedDateTime: 2021-06-04T15:35:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/06/03/trump-facebook-oversight-board/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/03/trump-facebook-oversight-board/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/03/trump-facebook-oversight-board/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G5K344WESUI6XCNEW6XCFKQZHY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Fact check: Trump spent Memorial Day 2020 at commemorative ceremonies – not golfing"
+    excerpt: "Then-President Donald Trump attended Memorial Day commemorative services in 2020, despite images claiming otherwise."
+    publishedDateTime: 2021-06-02T22:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/06/02/fact-check-trump-didnt-spend-memorial-day-2020-golfing/7504230002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7504230002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7504230002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/25/USAT/ca40f75b-fbed-41b9-a786-fd6ccab2b696-7448bfdc-b665-44ce-b3fd-cdb966ff6f28_thumbnail.png?auto=webp&crop=849,478,x6,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Facebook's Nick Clegg explains former US President Donald Trump's suspension"
+    excerpt: "Former US President Donald Trump was barred indefinitely from Facebook and Instagram in January, in the wake of posts made during the US Capitol Riots. Following criticism from Facebook's Oversight Board, the company has clarified Mr Trump will be ..."
+    publishedDateTime: 2021-06-05T04:36:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-57367598"
     type: article
     provider:
       name: BBC
       domain: bbc.com
-    quality: 125
+    quality: 102
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BA93/production/_118836774_trump1.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/195A/production/_118809460_p09kmzqh.jpg"
         width: 1024
         height: 576
         isCached: true
-  - title: "First Thing: ‘Teflon Don no more’ as legal threats mount against Trump"
-    excerpt: "Former president faces increasingly serious legal issues as he teases a 2024 run. Plus, how cicada-phobes are surviving Brood X"
-    publishedDateTime: 2021-06-08T08:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
+  - title: "Facebook says Donald Trump's suspension will last at least 2 years, but can be lifted if there is no 'serious risk to public safety'"
+    excerpt: "Trump's account can be reinstated pending an evaluation to assess whether \"the risk to public safety has receded,\" Facebook announced."
+    publishedDateTime: 2021-06-04T20:56:00Z
+    webUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-will-suspend-donald-trump-for-at-least-two-years-2021-6?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
     images:
-      - url: "https://i.guim.co.uk/img/media/07bee087791bd38b55d1955b5f487d8c24217a92/0_105_2404_1443/master/2404.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f52110a3c1d23a5f659f64d8bd43a54e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Donald Trump to headline high-dollar fundraiser in Dallas for Make America Great Again Action"
-    excerpt: "This is a developing story and will be updated. Former President Donald Trump will headline a July 11 fundraiser in Dallas hosted by leaders of the"
-    publishedDateTime: 2021-06-04T17:09:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/06/04/donald-trump-to-headline-high-dollar-fundraiser-in-dallas-for-make-america-great-again-action/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/06/04/donald-trump-to-headline-high-dollar-fundraiser-in-dallas-for-make-america-great-again-action/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/06/04/donald-trump-to-headline-high-dollar-fundraiser-in-dallas-for-make-america-great-again-action/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 64
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/8tBuv71W-tvIIZWu8xXvypP3QfM=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/DET4OR5CRNEMFBE2HNBZ3I5XEQ.jpg"
+      - url: "https://i.insider.com/60ba5775e459cb0018a2c3db?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
 
 secured: "j0Qm1ZLR6CElXRLCRF/PcvtB7LQV0EdxUumJOk2e0x0ZdZ3N6+onh1yWNKroOqFNOhb4B01XDSEq/C+KrpAbFfr5w0HKhboN8zONIIjvypsX8vHvfvk1nz0AQ3MV0EZuEQ/7356K+vPCEHJPxf02JEpKDb4Wf1myptKVs/161oiqmsnotaIV2cxWaQHYgS355SZkMyM/QVcOgkkBvrqxH9KK/sAgSwhV8WhbxILMI+qc6/ujkoqBcuQgFagoaP3trjz4yxFiInHxb4oyoodFpPcEWSl+C+lou19h9GSo5pAzpF+ERWr8Pf33CQq5mlkgXpz9dJZLZBT7a4QS0WaVEsKMdNvkwQ+BimUUkD6T3LnEL1+JtnYLPpdhehMEhgagoJXT+1lw/yzsqBt4drCBjPR+EY+M5YMQlBbCgxusA5Y92SWipwHI1fd454N1aSuXhqXk/bTShZAnb8PDYaur/4PBy8k/C/dtid9Hxr87elzESftK1SpDFtu+OgY4NWSn1MDB5mQQSalnNx2snv24JQ==;/Kbjb8Z1aG1ekxd+YzbSEg=="

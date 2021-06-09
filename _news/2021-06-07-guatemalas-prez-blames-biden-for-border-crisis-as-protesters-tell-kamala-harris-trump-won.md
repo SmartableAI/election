@@ -285,6 +285,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to face global challenges from China, Russia as he departs for first foreign trip"
+    excerpt: "President Biden embarked on his first trip overseas since taking office Wednesday, a journey in which he will meet with G-7 and NATO allies to discuss ways to address the coronavirus pandemic and an increasingly aggressive China and Russia."
+    publishedDateTime: 2021-06-09T12:05:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nlLKkBjXipk/biden-first-foreign-trip-europe-global-challenges-china-russia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-first-foreign-trip-europe-global-challenges-china-russia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-foreign-trip-europe-global-challenges-china-russia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Harris tells Guatemalan president that migration is a top priority, after he blames US for surge"
     excerpt: "Vice President Kamala Harris told the president of Guatemala on Monday that tackling migration is a top priority for both countries, as she made her first visit to the region -- and Guatemala’s president blamed the US for the migrant surge at the border"
     publishedDateTime: 2021-06-07T17:03:15Z

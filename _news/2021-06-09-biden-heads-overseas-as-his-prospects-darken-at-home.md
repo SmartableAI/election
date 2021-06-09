@@ -3,10 +3,10 @@ category: news
 title: "Biden Heads Overseas as His Prospects Darken at Home"
 excerpt: "Joe Biden is heading abroad, just at the moment when his hopes for a historic legislative legacy at home seem headed for a wall. Read Full Article »"
 publishedDateTime: 2021-06-09T11:41:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/09/biden_heads_overseas_as_his_prospects_darken_at_home_544636.html"
-webUrl: "https://www.realclearpolitics.com/2021/06/09/biden_heads_overseas_as_his_prospects_darken_at_home_544636.html"
+originalUrl: "https://www.realclearpolitics.com/2021/06/09/biden_heads_overseas_as_his_prospects_darken_at_home_544636.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/06/09/biden_heads_overseas_as_his_prospects_darken_at_home_544636.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/54/545303_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Hunter Biden-linked lobbying firm facing DOJ probe, report says"
@@ -298,6 +304,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "qTlXrFG2m8m/6Zyrq0EIxrMHuAWfiKQk92MiTBncF+Wz+BcDSiNBN9DcyVSp1Ii5v8Uq27GcRdJmcvVcUtZl+Ut0gZImS1UTwnKOmM/EpFrYM2cSVB+tZ21o/ChsOuakLwvwvPCHqrblJsoE/O9M2LnodmdSJNePfRoUOV1P5tbcA0eGhB7fzp5bc5HEvzYELT2vE1wGNWuXNZdr+xs0KhAzykXmo3+FfVHB7hbo00O5CWe1NaJjtszEoxQHZHcivdt94njzxwfQrSNbWgoF7J2oNc2wA6rvzQOdTe/pZAyKynhyA1GuWMfFj38/SqXcZSQnvMZolxpguN67/mIx13r0qOg+gb2YvSD2jfJgdeY=;N7TDvB1p4fBV5OMn7+cNeA=="
+secured: "d9lWJ13/6S+0kH6ZS7cZ9MPwCPrWNm+IkhuAvWyhg2KBFEOwJuBAFr3wLRY9LR3DyWb7iDxWhkPFv4aJ5mSYDtT8cU6K0xLM+pk2cPH1kdxNkWZLdUWpvF8Mx8uaUSqHw+JaefeNRjNsSYrv6eKmwy7lU/F8NxxJ+FnNPnKz76VdDKWYlamP0PUdJIrNxYAezK+igIDkyldU/igWpFX1V3nkyOxTipbZbREswGal2PAMawHbAChQNxwr7lW/V0zMEM7MUkDrny1aq1HHr2ukkSEXv6aSANTuoGiJXcWv0QygHfdwJFqazpFEzjTARhctv5LdT39t/OJGQThe9J+ZX1WfugFfStAn/Q/G9Ha7GDc=;FM10QqkbC2e6DGFZpuRYBw=="
 ---
 

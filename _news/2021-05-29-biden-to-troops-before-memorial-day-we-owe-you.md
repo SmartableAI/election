@@ -125,6 +125,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Iran candidate says he’s willing to potentially meet Biden"
+    excerpt: "An Iranian presidential candidate says he’d be willing to meet with U.S. President Joe Biden if he wins his country’s election next week"
+    publishedDateTime: 2021-06-09T13:06:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/iran-candidate-hes-potentially-meet-biden-78171590"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/iran-candidate-hes-potentially-meet-biden-78171590"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/iran-candidate-hes-potentially-meet-biden-78171590"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_0ba3e50b1ae9437f811b178db6827e55_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Manchin says he will not support voting rights bill, in blow to Biden agenda and a warning to his colleagues"
     excerpt: "I believe that partisan voting legislation will destroy the already weakening binds of our democracy, and for that reason, I will vote against the For the People Act,” Manchin wrote in an op-ed in the Charleston Gazette-Mail on Sunday."
     publishedDateTime: 2021-06-06T21:53:00Z

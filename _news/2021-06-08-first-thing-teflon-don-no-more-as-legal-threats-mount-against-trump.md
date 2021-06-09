@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-d
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 185
+published: true
 
 provider:
   name: The Guardian
@@ -31,53 +31,46 @@ images:
     isCached: true
 
 related:
+  - title: "Defamation to Georgia voting: the top Trump legal cases"
+    excerpt: "Trump is out of the White House, paving the way for legal challenges against him to continue in earnest"
+    publishedDateTime: 2021-06-08T05:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/08/trump-legal-cases-defamation-manhattan-georgia-voting"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/08/trump-legal-cases-defamation-manhattan-georgia-voting"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/trump-legal-cases-defamation-manhattan-georgia-voting"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
   - title: "Donald Trump calls Bitcoin 'a scam against the dollar'"
-    excerpt: "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar."
+    excerpt: "You can change these settings by clicking “Ad Choices / Do not sell my info” in the footer at any time. Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just ..."
     publishedDateTime: 2021-06-08T01:12:00Z
-    webUrl: "https://www.bbc.com/news/business-57392734?at_custom1=%5Bpost+type%5D&at_medium=custom7&at_campaign=64&at_custom2=twitter&at_custom4=22863048-C7F7-11EB-AD25-ABB34744363C"
-    ampWebUrl: "https://www.bbc.com/news/business-57392734.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp"
+    webUrl: "https://www.bbc.co.uk/news/business-57392734.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-57392734.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-57392734.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.com
-    quality: 125
+      domain: bbc.co.uk
+    quality: 75
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BA93/production/_118836774_trump1.jpg"
         width: 1024
         height: 576
         isCached: true
-  - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
-    excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
-    publishedDateTime: 2021-06-03T00:58:00Z
-    webUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
-    ampWebUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
+  - title: "No more 'From The Desk of Donald J. Trump': Former president shut down blog launched just a month ago"
+    excerpt: "A spokesman for Donald Trump said the blog was designed to be temporary as the organization develops its own social media site."
+    publishedDateTime: 2021-06-02T20:43:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/06/02/from-desk-donald-j-trump-former-president-kills-blog/7505211002/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 40
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Donald Trump to headline high-dollar fundraiser in Dallas for Make America Great Again Action"
-    excerpt: "This is a developing story and will be updated. Former President Donald Trump will headline a July 11 fundraiser in Dallas hosted by leaders of the"
-    publishedDateTime: 2021-06-04T17:09:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/06/04/donald-trump-to-headline-high-dollar-fundraiser-in-dallas-for-make-america-great-again-action/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/06/04/donald-trump-to-headline-high-dollar-fundraiser-in-dallas-for-make-america-great-again-action/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/06/04/donald-trump-to-headline-high-dollar-fundraiser-in-dallas-for-make-america-great-again-action/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 64
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/8tBuv71W-tvIIZWu8xXvypP3QfM=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/DET4OR5CRNEMFBE2HNBZ3I5XEQ.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.gannett-cdn.com/sites/cincinnati/images/footer-logo@2x.png"
+        width: 720
+        height: 316
         isCached: true
 
 secured: "onTTGmGVMuI1kl62KhY+l+TVC5I1TbdtzDuAM80ce7YDEvMMsmBG6IiVImcUl0mSxLAFMr7npHcgUe460TkVEvoJaKF2IYHx3vqRpafpQhJoXj2ysYF9203r8nJDcRg9uXZUoEiA0FKLeVL5kkikJExot1Xz95tIxmp82B3Rbss+1bO0//+/GqiawRNH3ZqH5wbiVyM1mOwFOkyfoBv0eXjI29EglVNk8fBD5xCZWRWSGh5+zXJuv3nFu9f4iLoxiqd/DU3W3muaxxj1TrlPsQ7RvGmHbPLc9E/SCpuCal4nHpQW/2u78FtqWo+iMpXdwThAQ3NrZ2qqEBdWJGo7M8wp2Oj4/QRgNT7sMcXsk4Y=;kktJSXSm34ZxhFBQoF6+kA=="

@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Donald Trump calls Bitcoin 'a scam against the dollar'"
-excerpt: "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar."
+excerpt: "You can change these settings by clicking “Ad Choices / Do not sell my info” in the footer at any time. Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just ..."
 publishedDateTime: 2021-06-08T01:12:00Z
-originalUrl: "https://www.bbc.com/news/business-57392734?at_custom1=%5Bpost+type%5D&at_medium=custom7&at_campaign=64&at_custom2=twitter&at_custom4=22863048-C7F7-11EB-AD25-ABB34744363C"
-webUrl: "https://www.bbc.com/news/business-57392734?at_custom1=%5Bpost+type%5D&at_medium=custom7&at_campaign=64&at_custom2=twitter&at_custom4=22863048-C7F7-11EB-AD25-ABB34744363C"
-ampWebUrl: "https://www.bbc.com/news/business-57392734.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp"
+originalUrl: "https://www.bbc.co.uk/news/business-57392734.amp"
+webUrl: "https://www.bbc.co.uk/news/business-57392734.amp"
+ampWebUrl: "https://www.bbc.co.uk/news/business-57392734.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-57392734.amp"
 type: article
-quality: 125
-heat: 185
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -47,39 +43,32 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
-    excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
-    publishedDateTime: 2021-06-03T00:58:00Z
-    webUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
-    ampWebUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
+  - title: "Defamation to Georgia voting: the top Trump legal cases"
+    excerpt: "Trump is out of the White House, paving the way for legal challenges against him to continue in earnest"
+    publishedDateTime: 2021-06-08T05:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/08/trump-legal-cases-defamation-manhattan-georgia-voting"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/08/trump-legal-cases-defamation-manhattan-georgia-voting"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/trump-legal-cases-defamation-manhattan-georgia-voting"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Donald Trump to headline high-dollar fundraiser in Dallas for Make America Great Again Action"
-    excerpt: "This is a developing story and will be updated. Former President Donald Trump will headline a July 11 fundraiser in Dallas hosted by leaders of the"
-    publishedDateTime: 2021-06-04T17:09:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/06/04/donald-trump-to-headline-high-dollar-fundraiser-in-dallas-for-make-america-great-again-action/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/06/04/donald-trump-to-headline-high-dollar-fundraiser-in-dallas-for-make-america-great-again-action/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/06/04/donald-trump-to-headline-high-dollar-fundraiser-in-dallas-for-make-america-great-again-action/?outputType=amp"
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+  - title: "No more 'From The Desk of Donald J. Trump': Former president shut down blog launched just a month ago"
+    excerpt: "A spokesman for Donald Trump said the blog was designed to be temporary as the organization develops its own social media site."
+    publishedDateTime: 2021-06-02T20:43:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/06/02/from-desk-donald-j-trump-former-president-kills-blog/7505211002/"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 64
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 40
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/8tBuv71W-tvIIZWu8xXvypP3QfM=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/DET4OR5CRNEMFBE2HNBZ3I5XEQ.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.gannett-cdn.com/sites/cincinnati/images/footer-logo@2x.png"
+        width: 720
+        height: 316
         isCached: true
 
-secured: "XhPdGsj+3jjqym267cF/jO6QdE0yqvTkGbKqNRUSP5MDnjpKffHV1e74veMy3smn04wzeDhE1TrAxW0JYdmHYz638Q2I6CEZYgU1wMZ5R0ePaaqP5LujgeJu6iHkp0tmoJK6JAepO+G58rPzuQoEfMCRMejjat7BYbWM0F92iWS/5FTQduotm8gSPNSL/+9/xXxKyNt4ClQ3/qB3cfHfZFnvnOgO6rFCETBz9dWQohOF3vx+TfEahG7MhoYg0VdWpXHVkZKu2pm20mdYEi7/zUGnlko0ihb931JCDlYTsJyIlmMP2XcBqHraZZnyJFaNY26rOgY6oAfkpdax1BKS9bAU5D7DTqFPGBONo6ATdzQ=;mpe0V76Kw4t6Ly125urDKA=="
+secured: "4Wxa8j/Hu3fY9+unPj2KwYPAO07dBHF0b3NdnfBhMI7iGX8vaWpRA832jIaHUWl2NdzY/MAD5kwoJRVQ8/zhCPG+prJRnAerB/C7TU+hILeE9Yp16V45XnyiDFF6F9S845xNSEU1eT92mEX+Ha9IIMoBZn9FMTO2oqViJupAVF7HHxjN94D7auBMXA78ST5MOwyqkTYcN1mq/deb5kvVsip1Uhs/TB2PPTzMBEyZu+Et0/L6z0ezHGUCVm89g+bp20HNjwGbgLUErJUHpFdQPBlAM4SCQdCZXYAtUFcmpmrzdMGxKWq8cYNsCGSiJnpkDXy2gkS4Yt8gnAo+N4Uz8aWpzsdA4RoyNx2XOTPt95w=;t32LXwQyEzpYZDkhUbUvOQ=="
 ---
 

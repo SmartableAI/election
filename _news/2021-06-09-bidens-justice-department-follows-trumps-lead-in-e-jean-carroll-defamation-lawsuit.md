@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-justice-department-trumps
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
 type: article
 quality: 133
-heat: 353
+heat: 373
 published: true
 
 provider:
@@ -194,6 +194,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/4cbf302b2616c16b3668de34f9f109e3/BIDEN-CHURCH.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Former President Donald Trump endorses Mike Carey in 15th Congressional District race"
+    excerpt: "Former President Donald Trump on Tuesday endorsed Mike Carey in the special election for Ohio's 15th Congressional District, giving Carey an edge in a contentious GOP primary."
+    publishedDateTime: 2021-06-09T01:51:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/former-president-donald-trump-endorses-mike-carey-in-15th-congressional-district-race/article_f5e1f380-71e0-50d8-a28f-f6fd9d4e485b.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 48
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "AY75wvnVWnW18zi45Kfy/s/Q39b65Z3T0W1EBzdSFwDgarATvh6MGKmUe9jynji0apbOjjbrlNF/SV2jNC53M+9x/3WzF8dH7izdnHr931nF7v6v36vV8APe4y37oCi9ZbUPL9mGgsZWuSwMuW3i6BcF9c2ZUT+iFaF1LRvdGkBPhB+dpWFfaJ0DQRUSN78A4bZz4tSvYtvRuC4Bufo+3BKRiElU/i5ARvfskAXHfrox9pDiUHXxBwFLUs6dNA9SlvlebQ58Nb1FMoZFG4Tl+E+ruq8WHL4VW2Kr45eWTfDT6Qv6I6xSuFD5YSOzxqoKtcxxFmrOXIyN6ueMo8+ylOFvaDuIcSnGliMLyWczP2GBcQT6EkR9LSEqEpmo/I2kYlF6zWvcHZwtNX4wzA6/wDQKNMrTla5GTjb1yBHviUDsQ8Stsr6WkBJTKDLni/Sp++n3kbazkDWvlLgiSZYkCwr4e/ewGi8Pi97lxhjaJNgG0lJxcMaksTg8vpgHjVlHhPuvv7WWvn/JW/E7ptAvZw==;L8kK7Wq3LNMz+3xReRZKQA=="

@@ -169,6 +169,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden heads to UK as Democrats rally in support of voting rights bill – live"
+    excerpt: "Biden takes off on first overseas trip as president as Bernie Sanders says he has ‘limited patience’ with Republicans – follow the latest"
+    publishedDateTime: 2021-06-09T12:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/09/joe-biden-uk-democrats-voting-rights-bill-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/09/joe-biden-uk-democrats-voting-rights-bill-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/09/joe-biden-uk-democrats-voting-rights-bill-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/720a7537ae5193d828861c18156041cda88c0f63/0_119_5904_3543/master/5904.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4aecced4024cb4f60038ef8a85e7e68a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden promises ‘summer of freedom’ as he urges more Americans to get vaccinated – live"
     excerpt: "The more people we get vaccinated, the more success we’re going to have,’ president says – follow all the day’s politics news"
     publishedDateTime: 2021-06-02T23:06:00Z

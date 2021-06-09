@@ -280,19 +280,24 @@ related:
         width: 3851
         height: 2562
         isCached: true
-  - title: "Biden Warned as a Court Slaps Down Race-Based Covid Relief"
-    excerpt: "As President Joe Biden pursues initiatives he announced last week to help narrow the racial wealth gap, he should heed a late-May reminder from the 6th Circuit U.S. Court of Appeals that preferential treatment based on race is presumptively invalid."
-    publishedDateTime: 2021-06-08T11:31:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/08/biden_warned_as_a_court_slaps_down_race-based_covid_relief_544561.html#!"
+  - title: "Biden Heads Overseas as His Prospects Darken at Home"
+    excerpt: "Joe Biden is heading abroad, just at the moment when his hopes for a historic legislative legacy at home seem headed for a wall. Read Full Article »"
+    publishedDateTime: 2021-06-09T11:41:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/09/biden_heads_overseas_as_his_prospects_darken_at_home_544636.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
-  - title: "Biden Heads Overseas as His Prospects Darken at Home"
-    excerpt: "Joe Biden is heading abroad, just at the moment when his hopes for a historic legislative legacy at home seem headed for a wall. Read Full Article »"
-    publishedDateTime: 2021-06-09T11:41:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/09/biden_heads_overseas_as_his_prospects_darken_at_home_544636.html"
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/545303_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden Warned as a Court Slaps Down Race-Based Covid Relief"
+    excerpt: "As President Joe Biden pursues initiatives he announced last week to help narrow the racial wealth gap, he should heed a late-May reminder from the 6th Circuit U.S. Court of Appeals that preferential treatment based on race is presumptively invalid."
+    publishedDateTime: 2021-06-08T11:31:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/08/biden_warned_as_a_court_slaps_down_race-based_covid_relief_544561.html#!"
     type: article
     provider:
       name: RealClearPolitics

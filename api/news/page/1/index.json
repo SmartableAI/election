@@ -2,6 +2,171 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-2-years-ago-a-saudi-princess-was-kidnapped-and-jailed-without-charge-her-family-say-theyre-being-stonewalled-and-are-urging-biden-to-step.md",
+      "title": "2 years ago, a Saudi princess was kidnapped and jailed without charge. Her family say they're being stonewalled, and are urging Biden to step in.",
+      "excerpt": "Princess Basmah was kidnapped and imprisoned in February 2019. She tried begging her cousin, Crown Prince Mohammed, for mercy, but was ignored.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6",
+      "originalUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ece81c72618b912bb2b3373?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6?amp",
+      "publishedDateTime": "2021-06-09T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-kamalas-migration-migraine-uber-lyfts-ny-setback-biden-doj-fights-private-prison-ban-pelosi-pushes-on-voting.md",
+      "title": "KAMALA’s migration migraine — UBER, LYFT’s NY setback — BIDEN DOJ fights PRIVATE PRISON ban — PELOSI pushes on voting",
+      "excerpt": "In case there was any doubt, Vice President Kamala Harris’s first official trip abroad has illuminated the supreme political difficulty of her migration policy assignment. When President Joe Biden made Harris his migration point person,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/california-playbook/2021/06/09/kamalas-migration-migraine-uber-lyfts-ny-setback-biden-doj-fights-private-prison-ban-pelosi-pushes-on-voting-493176",
+      "originalUrl": "https://www.politico.com/newsletters/california-playbook/2021/06/09/kamalas-migration-migraine-uber-lyfts-ny-setback-biden-doj-fights-private-prison-ban-pelosi-pushes-on-voting-493176",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-youre-already-changing-the-world-biden-tapes-remarks-for-marjory-stoneman-douglas-graduation.md",
+      "title": "'You're already changing the world': Biden tapes remarks for Marjory Stoneman Douglas graduation",
+      "excerpt": "President Joe Biden delivered a taped graduation message at Marjory Stoneman Douglas High School in Parkland, Florida, where students who were freshmen during a mass shooting three years ago graduated on Tuesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eJsfQucokdU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eJsfQucokdU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210402113121-01-biden-jobs-0402-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/biden-marjory-stoneman-douglas-graduation/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/biden-marjory-stoneman-douglas-graduation/index.html",
+      "publishedDateTime": "2021-06-09T05:07:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-joe-biden-clone-conspiracy-theory-spreads-on-facebook.md",
       "title": "Joe Biden 'Clone' Conspiracy Theory Spreads on Facebook",
       "excerpt": "An outlandish theory suggesting the president is \"a lookalike, double or clone\" is starting to spread across social media platforms.",
@@ -270,7 +435,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523",
       "featuredContent": null,
       "highlight": null,
-      "heat": 353,
+      "heat": 373,
       "tags": null,
       "images": [
         {
@@ -482,7 +647,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -539,7 +704,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 388,
+      "heat": 408,
       "tags": null,
       "images": [
         {
@@ -803,22 +968,31 @@
       ]
     },
     {
-      "path": "_news/2021-06-08-defamation-to-georgia-voting-the-top-trump-legal-cases.md",
-      "title": "Defamation to Georgia voting: the top Trump legal cases",
-      "excerpt": "Trump is out of the White House, paving the way for legal challenges against him to continue in earnest",
+      "path": "_news/2021-06-08-first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump.md",
+      "title": "First Thing: ‘Teflon Don no more’ as legal threats mount against Trump",
+      "excerpt": "Former president faces increasingly serious legal issues as he teases a 2024 run. Plus, how cicada-phobes are surviving Brood X",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/08/trump-legal-cases-defamation-manhattan-georgia-voting",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/08/trump-legal-cases-defamation-manhattan-georgia-voting",
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 185,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/07bee087791bd38b55d1955b5f487d8c24217a92/0_105_2404_1443/master/2404.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f52110a3c1d23a5f659f64d8bd43a54e",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/08/trump-legal-cases-defamation-manhattan-georgia-voting",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/trump-legal-cases-defamation-manhattan-georgia-voting",
-      "publishedDateTime": "2021-06-07T22:01:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump",
+      "publishedDateTime": "2021-06-08T01:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -878,58 +1052,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-donald-trump-calls-bitcoin-a-scam-against-the-dollar.md",
-      "title": "Donald Trump calls Bitcoin 'a scam against the dollar'",
-      "excerpt": "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-57392734?at_custom1=%5Bpost+type%5D&at_medium=custom7&at_campaign=64&at_custom2=twitter&at_custom4=22863048-C7F7-11EB-AD25-ABB34744363C",
-      "originalUrl": "https://www.bbc.com/news/business-57392734?at_custom1=%5Bpost+type%5D&at_medium=custom7&at_campaign=64&at_custom2=twitter&at_custom4=22863048-C7F7-11EB-AD25-ABB34744363C",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BA93/production/_118836774_trump1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-57392734.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp",
-      "publishedDateTime": "2021-06-07T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1123,7 +1245,7 @@
       "originalUrl": "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1020,
+      "heat": 1040,
       "tags": null,
       "images": [
         {
@@ -1220,118 +1342,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-white-house-says-biden-keeps-d-day-memory-close-to-his-heart-despite-anniversary-snub.md",
-      "title": "White House says Biden keeps D-Day memory 'close to his heart' despite anniversary snub",
-      "excerpt": "The White House on Monday defended President Biden after he failed to acknowledge the 77th anniversary of D-Day on Sunday, saying he values the role of the men and women who serve, and that his memory of them is \"close to his heart.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XlRfcUeL2uE/white-house-reaction-biden-d-day-anniversary-snub",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XlRfcUeL2uE/white-house-reaction-biden-d-day-anniversary-snub",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-reaction-biden-d-day-anniversary-snub.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-reaction-biden-d-day-anniversary-snub.amp",
-      "publishedDateTime": "2021-06-07T11:55:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-biden-invites-ukrainian-president-to-white-house-in-july.md",
-      "title": "Biden invites Ukrainian President to White House in July",
-      "excerpt": "President Joe Biden has invited Ukrainian President Volodymyr Zelensky to visit the White House later this summer, national security adviser Jake Sullivan said on Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_oXqNmX-U0w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_oXqNmX-U0w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/07/politics/biden-zelensky-white-house-meeting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/biden-zelensky-white-house-meeting/index.html",
-      "publishedDateTime": "2021-06-07T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],
