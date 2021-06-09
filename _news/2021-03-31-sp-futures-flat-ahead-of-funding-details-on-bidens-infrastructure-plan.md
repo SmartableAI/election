@@ -511,6 +511,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Senate confirms Biden's first judges"
+    excerpt: "The Senate approved Julien Neals to the U.S. district court in New Jersey by a vote of 66-33 and Regina Rodriguez to the federal district court in Colorado by a vote of 72-28."
+    publishedDateTime: 2021-06-08T20:08:00Z
+    webUrl: "https://www.cbsnews.com/news/united-states-senate-joe-biden-judge-julien-neals/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/united-states-senate-joe-biden-judge-julien-neals/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/united-states-senate-joe-biden-judge-julien-neals/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/08/0a4cc03c-e6e5-4853-8789-4c564090c01c/thumbnail/1200x630/49dba0a727310217607c2a6ea76e3672/gettyimages-1232578231.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UPDATE 1-Biden aides to host meeting on supply chain issues -White House"
     excerpt: "White House press secretary Jen Psaki said the meeting would be hosted by President Joe Biden’s national security adviser, Jake Sullivan, and a top economic aide, Brian Deese. The meeting will be held on April 12 and include chipmakers and automakers ..."
     publishedDateTime: 2021-04-01T23:49:00Z

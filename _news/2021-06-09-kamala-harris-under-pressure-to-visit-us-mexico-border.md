@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris under pressure to visit US-Mexico border"
 excerpt: "Vice-President Kamala Harris has faced pressure to visit the US-Mexico border, as she tackled a record migration spike on her first official foreign trip. Ms Harris had a testy exchange with a news anchor who asked why she had not gone to the US' southern boundary."
 publishedDateTime: 2021-06-08T23:09:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-57408094?at_custom4=FF8ED09A-C8A0-11EB-8A2E-4BFA15F31EAE&at_custom2=twitter&at_campaign=64&at_medium=custom7&at_custom1=%5Bpost+type%5D"
-webUrl: "https://www.bbc.com/news/world-us-canada-57408094?at_custom4=FF8ED09A-C8A0-11EB-8A2E-4BFA15F31EAE&at_custom2=twitter&at_campaign=64&at_medium=custom7&at_custom1=%5Bpost+type%5D"
+originalUrl: "https://www.bbc.com/news/world-us-canada-57408094?at_custom4=FF8ED09A-C8A0-11EB-8A2E-4BFA15F31EAE&at_"
+webUrl: "https://www.bbc.com/news/world-us-canada-57408094?at_custom4=FF8ED09A-C8A0-11EB-8A2E-4BFA15F31EAE&at_"
 ampWebUrl: "https://www.bbc.com/news/world-us-canada-57408094.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57408094.amp"
 type: article
@@ -242,6 +242,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/08/e5baa0b6-b164-4dfe-8899-d5db8f21d639/thumbnail/1200x630/c4593e8fcd24fff7f55bbdf7cacf6241/0608-en-harrismexico-jiang-731007-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris questioned over not going to US-Mexico border – video"
+    excerpt: "Harris quizzed over future trip to US-Mexico border"
+    publishedDateTime: 2021-06-09T01:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jun/09/kamala-harris-questioned-over-not-going-to-us-mexico-border-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/3917f24520fb2ecf0f93f27141b5e7b63f2be4f2/0_136_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e51cb995f716c8253f9a904850a2fab"
         width: 1200
         height: 630
         isCached: true
@@ -667,6 +681,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "MXH5zEZs4hUqFWbzioK65VuIa6s9A1Dxke75VIEvr3lKtaPu/V9q+bpfJQ7SZZTxsr6w9gzZ1RE1pmX9jL38leaN87LEwsUWSztONOluwGFH2IFkkOyPG9Hkv8EyBi32va34DRW327q5pEBmaA1oqVUe0gHB8iTbkZR/0Lrlp0TXLNHB+Uy6IrqPtqui68fwefC7DiMTSoYmoDbEZAtmxDmuCHrtY/zlfoupDxwBWP2gmVDfULTtKrlA6YCzAJOcTxfygxZz60kOlfQih3+aWLxnXtVaL3epLgxn6pLxhSfgmp1xhhqVYU7qLb5CTgvgwtYBP97tL0l3DAjGsnVDFr0abYXq16h28AXQ4vpNAxk=;ypyDKq/rhK8KueMrMBwZ3w=="
+secured: "NHKH+eMupTdk+8respU0uPTVDYmqQ32komWeynlupgZS5WNqnn/d7GuMOoEBk39/ZMb3Pt0rvVT3UwF6KmIFlbE3uB3zLtbtfBA88NtIrR1F5gJwEWvqcb/rGwZP9KC3Y1+4hJeL17QdQXaOeeVqtCw5jDN8W7LBTIy5TqA8HEGwuajIcCPzwaqmeCrtX+nlrTRblVZ8A+nEPBx8OA2ndSMNyJzsVH+qvSoZKrl9LLOeHNzu0DDRr/0MWeFKkETrWmhqLHerJURsUBN/YRKdS37N+UIfLfVxoW57jwpUmRTLt3MX48vRcbk+CnHtYDUYinb8FzPbAg7tAknA+XSxcAJTs/JmzFmCdYO0wv2pU5Y=;X0DMmzPR7KM5zuZsNl8P3Q=="
 ---
 

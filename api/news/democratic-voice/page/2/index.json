@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-28-dianne-morales-beautiful-mess-council-boosts-housing-vouchers-racketeering-charge-in-trump-org-probe.md",
+      "title": "Dianne Morales’ beautiful mess — Council boosts housing vouchers — Racketeering charge in Trump Org probe?",
+      "excerpt": "Erin Durkin and Anna Gronewold's must-read briefing informing the daily conversation among knowledgeable New Yorkers Dianne Morales’ beautiful mess — Council boosts housing vouchers — Racketeering charge in Trump Org probe?",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/new-york-playbook/2021/05/28/dianne-morales-beautiful-mess-council-boosts-housing-vouchers-racketeering-charge-in-trump-org-probe-493043",
+      "originalUrl": "https://www.politico.com/newsletters/new-york-playbook/2021/05/28/dianne-morales-beautiful-mess-council-boosts-housing-vouchers-racketeering-charge-in-trump-org-probe-493043",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-at-naval-academy-graduation-harris-to-focus-on-strengthening-a-fragile-world.md",
       "title": "At Naval Academy Graduation, Harris to Focus on Strengthening a ‘Fragile’ World",
       "excerpt": "Vice President Kamala Harris, the school’s first female commencement speaker, is expected to use her speech to address some of the Biden administration’s most urgent challenges.",
@@ -1632,63 +1689,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-a-michigan-judge-dismissed-one-of-the-last-remaining-lawsuits-by-trump-supporters-challenging-the-2020-election.md",
-      "title": "A Michigan judge dismissed one of the last remaining lawsuits by Trump supporters challenging the 2020 election.",
-      "excerpt": "The plaintiffs never cited any specific evidence that the results from voting machines used in Antrim County had been hacked or were fraudulent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/18/us/michigan-voting-lawsuit-trump.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/18/us/michigan-voting-lawsuit-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/18/us/politics/18new-washington-briefing-antrim1/18new-washington-briefing-antrim1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/18/us/michigan-voting-lawsuit-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/18/us/michigan-voting-lawsuit-trump.amp.html",
-      "publishedDateTime": "2021-05-18T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

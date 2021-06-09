@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-packing-their-bags-thi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp"
 type: article
 quality: 192
-heat: 712
+heat: 732
 published: true
 
 provider:
@@ -335,6 +335,22 @@ related:
   - title: "Kamala Harris Tells Migrants Not to Come to U.S., Lays Out Anti-Graft Steps"
     excerpt: "Vice president discusses with Mexican and Guatemalan leaders how to stem the immigration surge at the U.S. southern border during her first trip abroad in the Biden administration."
     publishedDateTime: 2021-06-08T18:20:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-350498/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Kamala Harris Tells Migrants Not to Come to U.S., Lays Out Antigraft Steps"
+    excerpt: "The vice president discussed with Mexican and Guatemalan leaders how to stem the immigration surge at the U.S. southern border during her first trip abroad in the Biden administration."
+    publishedDateTime: 2021-06-08T23:33:00Z
     webUrl: "https://www.wsj.com/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
     ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"

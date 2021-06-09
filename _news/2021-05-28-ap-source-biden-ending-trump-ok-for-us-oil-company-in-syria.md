@@ -164,6 +164,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Donald Trump Accuses Joe Biden Of ‘Incompetence’ Over Immigration, Border Decisions"
+    excerpt: "Donald Trump said President Joe Biden is incompetent and “destroying our country.” Trump shared his opinions Saturday in a phone call to Newsmax program “Dick Morris Democracy.” During the conversation,"
+    publishedDateTime: 2021-05-30T17:34:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 94
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Donald Trump endorses Gov. Greg Abbott for reelection"
     excerpt: "Former President Donald Trump endorsed Gov. Greg Abbott for reelection on Tuesday, giving him an early and crucial stamp of approval as he confronts a possibly competitive primary. Abbott has already drawn a challenge from former state Sen."
     publishedDateTime: 2021-06-02T02:08:00Z
@@ -179,22 +195,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Donald Trump Accuses Joe Biden Of ‘Incompetence’ Over Immigration, Border Decisions"
-    excerpt: "Donald Trump said President Joe Biden is incompetent and “destroying our country.” Trump shared his opinions Saturday in a phone call to Newsmax program “Dick Morris Democracy.” During the conversation,"
-    publishedDateTime: 2021-05-30T17:34:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 84
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Most Republicans Still Believe 2020 Election Was Rigged, Trump Is Actual President: Poll"
     excerpt: "A new Reuters/Ipsos opinion poll found that 53% of Republicans believe Trump is the “true president”, compared with 3% of Democrats and 25% of all Americans."

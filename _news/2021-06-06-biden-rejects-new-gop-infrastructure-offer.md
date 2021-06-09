@@ -77,6 +77,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden nominee for public lands boss hits GOP opposition"
+    excerpt: "President Joe Biden’s nominee to oversee vast expanses of public land in the U.S. West is being criticized by Republicans because of her involvement in partisan politics as a longtime Democratic aide"
+    publishedDateTime: 2021-06-08T17:27:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-nominee-public-lands-boss-hits-gop-opposition-78154475"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-nominee-public-lands-boss-hits-gop-opposition-78154475"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-nominee-public-lands-boss-hits-gop-opposition-78154475"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_c8b6b6f1a05d48fa8b0719b37266a661_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Manchin says he will not support voting rights bill, in blow to Biden agenda and a warning to his colleagues"
     excerpt: "I believe that partisan voting legislation will destroy the already weakening binds of our democracy, and for that reason, I will vote against the For the People Act,” Manchin wrote in an op-ed in the Charleston Gazette-Mail on Sunday."
     publishedDateTime: 2021-06-06T21:53:00Z

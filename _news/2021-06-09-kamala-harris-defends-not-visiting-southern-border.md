@@ -80,7 +80,7 @@ related:
   - title: "Kamala Harris under pressure to visit US-Mexico border"
     excerpt: "Vice-President Kamala Harris has faced pressure to visit the US-Mexico border, as she tackled a record migration spike on her first official foreign trip. Ms Harris had a testy exchange with a news anchor who asked why she had not gone to the US' southern boundary."
     publishedDateTime: 2021-06-08T23:09:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57408094?at_custom4=FF8ED09A-C8A0-11EB-8A2E-4BFA15F31EAE&at_custom2=twitter&at_campaign=64&at_medium=custom7&at_custom1=%5Bpost+type%5D"
+    webUrl: "https://www.bbc.com/news/world-us-canada-57408094?at_custom4=FF8ED09A-C8A0-11EB-8A2E-4BFA15F31EAE&at_"
     ampWebUrl: "https://www.bbc.com/news/world-us-canada-57408094.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57408094.amp"
     type: article
@@ -242,6 +242,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/08/c5db34eb-59df-4b5d-b73f-c193f5169252/thumbnail/1200x630/b4aec317c88639950aaac3d2a79a125d/cbsn-fusion-vp-harris-if-you-come-to-our-border-you-will-be-turned-back-thumbnail-730432-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris questioned over not going to US-Mexico border – video"
+    excerpt: "Harris quizzed over future trip to US-Mexico border"
+    publishedDateTime: 2021-06-09T01:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jun/09/kamala-harris-questioned-over-not-going-to-us-mexico-border-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/3917f24520fb2ecf0f93f27141b5e7b63f2be4f2/0_136_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e51cb995f716c8253f9a904850a2fab"
         width: 1200
         height: 630
         isCached: true

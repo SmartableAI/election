@@ -48,6 +48,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump backers lose big as Ciattarelli claims GOP nomination in New Jersey"
+    excerpt: "Jack Ciattarelli’s victory is likely a relief to the more moderate members of New Jersey’s GOP establishment who watched their already-minority party lose ground during Trump’s presidency."
+    publishedDateTime: 2021-06-09T03:34:00Z
+    webUrl: "https://www.politico.com/states/new-jersey/story/2021/06/08/trump-backers-lose-big-as-ciattarelli-claims-gop-nomination-in-new-jersey-1385483"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/ab/6e/6dcf943f4f1c9f01d02410c1602f/ap17142058502272-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "6K5mFVDaY3jAFAInv5LxmDe9j2CBR4XHGJzAvgtl3B197KrRpHRYYihgTd5105KDLmphI1QREhObVoRVxAq2AZLwnlb6GevB+JdUVpLt1powyH73dlUyZ9wK/3TLFDx5Oyk555GlhN/YKTpZXYTSd6BYs7Y7cnrxuWoOm5/1ZY/EA/nAX8ci5Zv6vkjVA4+JEC55Qz8VCIMukZQqGNsY4U+sUDmDQhKB5ELN9L1iBjeyOkwaVk/CUh9XuKz9MfhwKazJDvk3mkrKbQtS7yKLHGnldjl7MDT7mD8lJtSBCTuBylSXBcNYWh+jxyLc1Mgxzf8FRd5PmODGdBhuwLC0/FAhBShm8XQoBDIGOxw/25+kb4pBsbYsj8+AmN8nw85BW8qXvVq3lqvvgs3/GvoCVWXJUVZpl1AmUlbr/nkrs71yKeDwb+lGEaqiDuHPqr6U9c8yH5WzO1+usNbnNLXToe5V5nB+nr/gWxbe8ldo0Ir3g3/ZbSrpb02lKqxqA1SK826AorH2FotmViE4sxOsBA==;P7TK7KW2jah3QoeFJfUNEA=="
 ---

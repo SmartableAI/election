@@ -153,6 +153,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Man impersonated Trump relatives online to trick donors, prosecutors say"
+    excerpt: "Joshua Hall of Pennsylvania allegedly created fake online identities for ex-president’s brother and son"
+    publishedDateTime: 2021-06-09T00:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/08/robert-trump-barron-trump-fake-social-media"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/08/robert-trump-barron-trump-fake-social-media"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/robert-trump-barron-trump-fake-social-media"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/1487ece4587e4b07d8af5a46e863e01488eb26c3/0_0_3285_1971/master/3285.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9682b69df254bdd5b210dcbb7c519f28"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Mike Pence: I'll Likely Never See Eye to Eye With Trump on Jan. 6"
     excerpt: "Former Vice President Mike Pence said Thursday that he wasn’t sure that he and former President Donald Trump would ever see “eye to eye” over what happened on Jan. 6 but that he would “always be proud of what we accomplished for the American people over the last four years."
     publishedDateTime: 2021-06-03T14:12:00Z

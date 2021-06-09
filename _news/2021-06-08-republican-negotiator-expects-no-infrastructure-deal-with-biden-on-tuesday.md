@@ -77,6 +77,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden nominee for public lands boss hits GOP opposition"
+    excerpt: "President Joe Biden’s nominee to oversee vast expanses of public land in the U.S. West is being criticized by Republicans because of her involvement in partisan politics as a longtime Democratic aide"
+    publishedDateTime: 2021-06-08T17:27:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-nominee-public-lands-boss-hits-gop-opposition-78154475"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-nominee-public-lands-boss-hits-gop-opposition-78154475"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-nominee-public-lands-boss-hits-gop-opposition-78154475"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_c8b6b6f1a05d48fa8b0719b37266a661_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Manchin says he will not support voting rights bill, in blow to Biden agenda and a warning to his colleagues"
     excerpt: "I believe that partisan voting legislation will destroy the already weakening binds of our democracy, and for that reason, I will vote against the For the People Act,” Manchin wrote in an op-ed in the Charleston Gazette-Mail on Sunday."
     publishedDateTime: 2021-06-06T21:53:00Z
@@ -207,6 +223,6 @@ related:
         height: 433
         isCached: true
 
-secured: "Xpas5JeXFoD6mvb0lAFQEEEt2M4EWtru2eATMs2FjSxeiUyNSXpaKTEgMc7q4kYp1Q+aGy5vjibEaEKdHh2Tc7ytpWPMOHOzAn8V8iMFTTqDriU0ibZOLsECX8OiLxub4Zdx0EdPNvgBflm/er7E9bmIXiOeklovsat4eI+arLJj6EjJ6vXh1Q/2tcXld0CY2O4S/Sz52fZdkCd1eFXHs6PZTCTXV9FUmjbTtm1FqT8cgI++mErI7vBfYVFu1231C09Kb5YmtV6D2QRSUZ8N273htDzl9eCOIJZ5sQGXiCTYTfMyXn04WdcU+P016VJAnOKlOhucMu35zorIEdjVBTfviRDT7F3ij4nixhHzRnk=;iYgaP4SpNVbOvm2SE8qbig=="
+secured: "70ULYvGGWyauDSMd5KbZ2PxHpyMhTn+tcT8TmyyuwAqsaS3em3t+Dkr4PA7OboJpgFzUmL05Vvfp5Soiv/BHrR7hGB59BDbuSA6w6ChbE6kjU5NySwn7InPZF6IAOm+RMFX3sCw78ngOXtmaAmfyBlJTAkJAIB3JOeyrU1/XcKnYBB+zlknUcLvkEcn/L4qzA4Y/q4k308bgoa1DlMzJSbMxreNos+hRM8pHyX4OnUYlgWoCTXxay5L3K+b4581cQxjgpphK2gB/DmPzQLAv/sZe1ezOWqHtp6/Kx6MPOleBu1x0wKdt4ApbsPQ+JLHaI955yQAvr2wDoHomfErmG3EWpaiCTVE8pzE72lm5SlIsV2wWtUueD4zc8FDOtxwGEqE1O26tUmmi0b5DpW9E5WQF1o/pCi0jODISkKk7k7SEtgqUiYUditAF4DgW8BjQnWsYj9ldSos7Yt0xQXU0ae0AEd+MsO6Xen4xGlOi4beljFgy/7kPdgKC9dIpuQ+D0cs5dQItSG4Gl+OrfaGu0g==;Ms/EjEM7meg10fVgXYjJLA=="
 ---
 

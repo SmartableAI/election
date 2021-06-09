@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthda
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/International/WireAP_6ca5559f7a3047aebd1ac88ccd61b21d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden nominee for public lands boss hits GOP opposition"
+    excerpt: "President Joe Biden’s nominee to oversee vast expanses of public land in the U.S. West is being criticized by Republicans because of her involvement in partisan politics as a longtime Democratic aide"
+    publishedDateTime: 2021-06-08T17:27:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-nominee-public-lands-boss-hits-gop-opposition-78154475"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-nominee-public-lands-boss-hits-gop-opposition-78154475"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-nominee-public-lands-boss-hits-gop-opposition-78154475"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_c8b6b6f1a05d48fa8b0719b37266a661_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

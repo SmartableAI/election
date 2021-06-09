@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "This school taught students before the Civil War. It's hoping Biden's recovery plans will bring modern necessities"
-    excerpt: "The school is so old it's seen not one but two global pandemics, plus a civil war. Now its superintendent is hoping new federal funding will bring it firmly into the 21st century.\n    \n"
-    publishedDateTime: 2021-06-08T20:00:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r6U63htkpcg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/schools-infrastructure-biden-plan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/schools-infrastructure-biden-plan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 153
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607132803-02-lafayette-street-elementary-school-sign-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden budget won't clear up Congress' infrastructure limbo"
     excerpt: "\"It is getting late,\" one senior Democrat said of the frozen bill as the president and Senate GOP won't let go of talks."
     publishedDateTime: 2021-05-28T08:30:00Z

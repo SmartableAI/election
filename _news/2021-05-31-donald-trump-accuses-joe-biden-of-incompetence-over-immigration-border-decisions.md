@@ -8,7 +8,7 @@ webUrl: "https://www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-ove
 ampWebUrl: "https://www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-accuses-joe-biden-incompetence-over-immigration-border-decisions-3212486?amp=1"
 type: article
-quality: 84
+quality: 94
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"

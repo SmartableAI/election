@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-27-us-judge-says-trumps-election-falsehoods-still-pose-security-risk.md",
+      "title": "U.S. judge says Trump's election falsehoods still pose security risk",
+      "excerpt": "A U.S. judge said there is a risk that Donald Trump's supporters could still carry out attacks similar to the deadly Jan. 6 assault on the U.S. Capitol, noting the former president's \"near-daily fulminations\" about his election loss have not subsided.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-capitol-arrests-idUSKCN2D81NZ",
+      "originalUrl": "https://www.reuters.com/article/us-usa-capitol-arrests-idUSKCN2D81NZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 860,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210527&t=2&i=1563618128&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4Q0UP",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D81NZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D81NZ",
+      "publishedDateTime": "2021-05-27T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-biden-addresses-ethiopias-tigray-crisis-as-famine-looms-large-scale-abuses-continue.md",
       "title": "Biden addresses Ethiopia's Tigray crisis as famine looms, 'large-scale abuses' continue",
       "excerpt": "After months of ongoing fighting, reported atrocities, and hindered humanitarian aid, President Joe Biden has finally weighed in directly on the crisis in Ethiopia -- issuing a warning late Wednesday about the \"escalating violence,",
@@ -1313,58 +1365,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-donald-trump-faces-new-grand-jury-as-manhattan-da-ramps-up-criminal-probe.md",
-      "title": "Donald Trump Faces New Grand Jury as Manhattan DA Ramps Up Criminal Probe",
-      "excerpt": "The grand jury will consider different matters including Trump's alleged hush-money payments, improper property valuations and employee compensation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844",
-      "originalUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1806845/donald-trump-grand-jury.jpg",
-          "width": 2500,
-          "height": 1737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844?amp=1",
-      "publishedDateTime": "2021-05-25T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

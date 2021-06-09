@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/north-carolina-senate-ra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/north-carolina-senate-race-ted-budd-donald-trump/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479666/210602-donald-trump-jm-1138.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Trump backers lose big as Ciattarelli claims GOP nomination in New Jersey"
+    excerpt: "Jack Ciattarelli’s victory is likely a relief to the more moderate members of New Jersey’s GOP establishment who watched their already-minority party lose ground during Trump’s presidency."
+    publishedDateTime: 2021-06-09T03:34:00Z
+    webUrl: "https://www.politico.com/states/new-jersey/story/2021/06/08/trump-backers-lose-big-as-ciattarelli-claims-gop-nomination-in-new-jersey-1385483"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/ab/6e/6dcf943f4f1c9f01d02410c1602f/ap17142058502272-c.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "fLrJC0otmc0DZ7kKxGGyA/bWFeIttn33LTKdT2xEf9LWVi6vvJyelfUXKw34dIc/AMc9x1ntWXqGwCEseVJPLraEi44KqxFnZmp1Sx8zm4k45CnuVXTd/WR2a2LbxfseLfcgSIaSxTJ3JWRi7SPRrZz0Q8woW3RpqExfG7au8QSt3rSwXVmR5bj09VFLhhk7lugZ4AVIxNx1IWkIXBQ8IFwzRFKvGOd6/urut02m8bqUBk0MCkYWc8Q/365wuv3d0+zvlusxtZdZzEBd4GrNjZe+p/TiBzUS+BKBaHAmMX0rTJMRBJ3x7UGLx+01f+EeSht1E5Uk4NJFSt+ttWgcYlwcYGSi+aJWzR98LidBWw4=;Tr7UeNbQeHZG201BEJVGeg=="

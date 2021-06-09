@@ -186,7 +186,7 @@ related:
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 84
+    quality: 94
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
         width: 1024

@@ -364,6 +364,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Kamala Harris Tells Migrants Not to Come to U.S., Lays Out Antigraft Steps"
+    excerpt: "The vice president discussed with Mexican and Guatemalan leaders how to stem the immigration surge at the U.S. southern border during her first trip abroad in the Biden administration."
+    publishedDateTime: 2021-06-08T23:33:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-350498/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Kamala Harris blasted for ‘enjoy the long weekend’ tweet, with no mention of Memorial Day"
     excerpt: "Vice President Kamala Harris sent a tweet telling Americans to “enjoy the long weekend” and disregard America’s national day of mourning, Memorial day."
     publishedDateTime: 2021-05-30T00:44:00Z
