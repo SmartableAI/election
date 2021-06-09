@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Kamala Harris under pressure to visit US-Mexico border"
-excerpt: "Vice-President Kamala Harris has faced pressure to visit the US-Mexico border, as she tackled a record migration spike on her first official foreign trip. Ms Harris had a testy exchange with a news anchor who asked why she had not gone to the US' southern boundary."
-publishedDateTime: 2021-06-08T23:09:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-57408094?at_custom4=FF8ED09A-C8A0-11EB-8A2E-4BFA15F31EAE&at_"
-webUrl: "https://www.bbc.com/news/world-us-canada-57408094?at_custom4=FF8ED09A-C8A0-11EB-8A2E-4BFA15F31EAE&at_"
-ampWebUrl: "https://www.bbc.com/news/world-us-canada-57408094.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57408094.amp"
+excerpt: "Vice-President Kamala Harris is under pressure to visit the US-Mexico border as she targets illegal immigration on her first official foreign trip. Ms Harris had a testy exchange with a cable anchor who asked why she had not gone to the US' southern boundary."
+publishedDateTime: 2021-06-08T21:05:00Z
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-57408094"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-57408094"
+ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57408094.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57408094.amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -681,6 +677,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "vjlkobyS4FaZC129sNZf+j3KEA+bii+oFX4go5hJe2o18PRqEzOCLCgX2PxaL5zDOztDEESa0R+1VUOO6zCi6E8B4Ghm+iNXxMjOsYOrxTGL2xf4W6Prt/zxZ7pHdspqV3bk+LfYA0pC52DdvIYUKY0T5q2kkh2+7pcLDn7eq63qCbJjjedS19JSsrl1+TMERj+idRAe/L0oEb9HSkR+h4R5G2ryzFnJwSiPM+itChjA7Alo38Vn7dgTXXlz/kwVlDzny6QZzevktc+VwXBcREmWuSuVm3frNtyvclFc6cLu4n1lswYoxJS7wMqMjHpv1bnUeM/S/T/Mt8hvCqBOA5rAGLUXtnnLrwCo+HyXiY3KDU0VcNiUtxPNgYZ0Ps2U1Efb9FIFaz8SjItLldJsSwDHB9/2Wnt575kV1ksEfktWL3gF9JMTpKFeUbsuHVGemfuuKbdiMnWj+18zsKfc4dE2HErFDPxCiz+NuVGdyEk2utrS4Z0IW2GiFWBemduxvYRSRhHdJyz9Xu3mcOtUUQ==;4ltDBZlgg+fuoU2/A5ICLQ=="
+secured: "eY9qf7bMMiQbYqwH+a1pziQpoBKVE9rQwFyb1NuoetIhz31qAc75nRQgxQtTV+WoIk80Y53YilH1ObiTN9THJEHi0EBuosTTCt18acB59nZc7dk8QM/rm8PZlgTF39or4n6nwCS+3+dLh/t1WfmDy395x/K6SL6CTvMpRi2phr8eyghdIZThPwibYowkIhfTHFT5NE724lDbm/MpOiTDpHcb6XGXR1AxyL+/cjIPEn1mh8smn0KuUtvmRoquv0wiPJOPike3/6DhI3QlZuY5qOBwzJomQQ27nUPy6pGGwNRZiT0z9y39TRXRNIwcanouKk/GRRfEz3RKGBUBNvZi+1Qixt8cx4OwVTta/y56U+o=;0hKLrzq81R75IX16l22guQ=="
 ---
 

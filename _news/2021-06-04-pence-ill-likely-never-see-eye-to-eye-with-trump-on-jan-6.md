@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-ja
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980"
 type: article
 quality: 150
-heat: 610
+heat: 630
 published: true
 
 provider:
@@ -287,6 +287,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/16/vice-president-mike-pence-is-coming-out-from.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "SCOOP: The top Trump fundraiser who helped plan his January 6 rally is out of Trumpworld"
+    excerpt: "Caroline Wren, a lead fundraiser for former President Donald Trump, was pushed out in the latest Trumpworld turf war."
+    publishedDateTime: 2021-06-09T07:25:00Z
+    webUrl: "https://www.businessinsider.com/top-trump-aide-caroline-wren-who-helped-plan-january-6-rally-is-out-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5ff6ec5bd184b30018aad767?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Mike Pence Won’t Let Pro-Trump Mob Come Between Him and His President"
     excerpt: "The ex-veep made it clear he’s still fully Team Trump, though he and his former boss may never “see eye to eye” on January 6."

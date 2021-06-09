@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris: Going To Border Would Be A \"Grand Gesture\""
 excerpt: "Vice President Kamala Harris defends her strategy to get 'real results' during her visit to Guatemala and called a visit to the U.S.-Mexico border a \"grand gesture.\" QUESTION: Sure. Thank you both for taking questions."
 publishedDateTime: 2021-06-08T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
 type: article
@@ -137,6 +137,22 @@ related:
     quality: 181
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Case of mistaken identity during Harris press conference sets internet on fire"
+    excerpt: "At Harris' press conference in Mexico City, one of the questions came from a person identified as a reporter for Univision and was widely mocked as the height of press fawning over the administration."
+    publishedDateTime: 2021-06-09T07:45:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SEvHCQkzYzo/case-of-mistaken-identity-during-harris-press-conference-sets-internet-on-fire"
+    ampWebUrl: "https://www.foxnews.com/politics/case-of-mistaken-identity-during-harris-press-conference-sets-internet-on-fire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/case-of-mistaken-identity-during-harris-press-conference-sets-internet-on-fire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -471,6 +487,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "wAQYyk38CEXTKeY/TChP8GJm2krXHixIN3RaweIeoM+dwmfwvaRgbW/Gpo6MoAIWkhteh69WGPnIHDwTwW5jztzzIiBQSC+wwAw96KGsa9udRkP1U9dH5l0u6SuPfOloxuA+BQmCBorYp5DWLivcAYfuYzXoHIZk92FBHJZACwtDnlDWkPcnYpnba8IDHA93s7Go3P0cmIe7xzGaBhsjL5u85mh/eZq/emAljJhNtzlq5/iC9esoIJe9KcQJZ7nnKkfe54uzNCwcIJFAgh3NII5li6Id6k7HDvG87y2aDukYCptZQRzly/yP7xkSexdoCuV39xRHpoE3plKciH/XbrbsFTJZdlUCX8YtC2WPDuA=;s0tmQQovM2Nri8HeiL32xQ=="
+secured: "crhTvpwkeqgESyMJUElLBzNQPz48vdvnsepyljWUDGXYn327p4sd0QHNlQEC2SNGFY/7VEwV2vOf98RvEkIRQLDA8oZ6EkAV2zqQydIBORDgln2utmQZkWLsfxYSmnXK4Houzti+KBCHDG8fKqWZnuwD9V8vVaD/Q/GYgRsC761jJWh3G62uBklAQ8qyKj9yB9BQlk9iCVKfMSt9uViQ0CGEJ5qQrmMoZ8ZDeDvgNXeY1J7uqMoITifjHUvwtoup2HKfw33YMIb30zZeK81AY/G4W4yWvuIzaB1oo2RICcruIgSIq03Jsf+NfChj5Pms0hT8/dNV61Pj+Rc5llBFVOVIVXJBxfgMC+jg+gp9DIk=;aPqZzKzAjT9Blnl7V6uFFw=="
 ---
 

@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Mike Pence says he’ll likely never see eye to eye with Trump on Capitol attack"
-excerpt: "Some angry Trump supporters chanted \"Hang Mike Pence!\" on Jan. 6 after he refused to overturn Joe Biden's election victory."
-publishedDateTime: 2021-06-04T09:41:00Z
-originalUrl: "https://bangordailynews.com/2021/06/04/national-politics/mike-pence-says-hell-likely-never-see-eye-to-eye-with-trump-on-capitol-attack/"
-webUrl: "https://bangordailynews.com/2021/06/04/national-politics/mike-pence-says-hell-likely-never-see-eye-to-eye-with-trump-on-capitol-attack/"
+title: "SCOOP: The top Trump fundraiser who helped plan his January 6 rally is out of Trumpworld"
+excerpt: "Caroline Wren, a lead fundraiser for former President Donald Trump, was pushed out in the latest Trumpworld turf war."
+publishedDateTime: 2021-06-09T07:25:00Z
+originalUrl: "https://www.businessinsider.com/top-trump-aide-caroline-wren-who-helped-plan-january-6-rally-is-out-2021-6"
+webUrl: "https://www.businessinsider.com/top-trump-aide-caroline-wren-who-helped-plan-january-6-rally-is-out-2021-6"
 type: article
-quality: 66
+quality: 96
 heat: -1
 published: false
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Pence.jpg"
-    width: 1024
-    height: 665
+  - url: "https://i.insider.com/5ff6ec5bd184b30018aad767?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -297,20 +301,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "SCOOP: The top Trump fundraiser who helped plan his January 6 rally is out of Trumpworld"
-    excerpt: "Caroline Wren, a lead fundraiser for former President Donald Trump, was pushed out in the latest Trumpworld turf war."
-    publishedDateTime: 2021-06-09T07:25:00Z
-    webUrl: "https://www.businessinsider.com/top-trump-aide-caroline-wren-who-helped-plan-january-6-rally-is-out-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5ff6ec5bd184b30018aad767?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Mike Pence Won’t Let Pro-Trump Mob Come Between Him and His President"
     excerpt: "The ex-veep made it clear he’s still fully Team Trump, though he and his former boss may never “see eye to eye” on January 6."
     publishedDateTime: 2021-06-04T17:24:00Z
@@ -359,6 +349,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence says he’ll likely never see eye to eye with Trump on Capitol attack"
+    excerpt: "Some angry Trump supporters chanted \"Hang Mike Pence!\" on Jan. 6 after he refused to overturn Joe Biden's election victory."
+    publishedDateTime: 2021-06-04T09:41:00Z
+    webUrl: "https://bangordailynews.com/2021/06/04/national-politics/mike-pence-says-hell-likely-never-see-eye-to-eye-with-trump-on-capitol-attack/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 66
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Pence.jpg"
+        width: 1024
+        height: 665
+        isCached: true
   - title: "Donald Trump’s pants weren’t backward"
     excerpt: "In some ways, presidents are just like us — they put their pants on one leg at a time. But after former president Donald Trump’s speech at a Republican Party convention in North Carolina on June 5, his critics on social media are suggesting that he does this backward."
     publishedDateTime: 2021-06-07T16:06:00Z
@@ -383,6 +387,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "1nIF7p3TNxknXSaT1BPDpxjInuoOgcJZmhCaFC+hRVG3CzP2MRw3oIpB8E99+YCFh6pW3Ia3y+ZSbFmvHB+pSwYIdnLqrxqRl1haVHBVvxL1WjT6054wUMbib9vwhHPKYtBjLilYDTL54DIjCXjunt2dY0HJYASBdDscms8zfJadfo6XRCpV4ykdW7RYcnft4xPfiSNBRkT4aVefChe35omJ96Ss7dZZdBCVCIXWMOlvlY8UChzyRgAyyANlmhhGm5bJ3rvzZulOu40MPB/5xmtzXJIb7F+nblTHpaBfdwUeuf4nMYxMNiM2L8VeFo9wNnLvEG94JnvACTQWjpmApxxyUmWLOaRjw22FODd89lG/Dkxvq6V2o9t9MbJcmN3vuvjeQ1yUSuabR+zibN8st/6srWvrGQNAGTXQmEqf00ALg0ZzE2g5g4EqRQuXAY03y1B0UpkkP25RwrmCn0QVaj9CLeCbcUHT2UHmSzynd/+ZB9iZa/AgUl37oS8WR4wOe5Aiu7QvDnnegYa3eCxQLg==;2V41WNM9CRebaEI1RePInQ=="
+secured: "i7bJi6NYyIJeVhcdLqmWH3ksJ6xqNa4XzJ8VRa0GI8BzRC41+d2DJslG+Ki9BfliqQgyH9KKDOz5R78O4JRLXqXrH27ZnlZsQOGN8fm+uavkSQNSQINtPQTCG79mageOnIV/d03Lho3OqaF+NKgxjbl7z09g4QF+wOk9VAtOUhTFC8fnHhJeiItTWGvOz1ajMGTno1foTk0jQ2E8UPGlNONLdyluNBGL0ne5plAPL42RhRVdLOjaW5aX6TJKHjT7G8fMzag45uZvkD+fWnJ5wHfWkYklqJvYp3bbrXcRuE+n2QE+LuXBiD5srTN8BBnL0d7p9q1jQf5vhDT03Q5yMhnsTvU7bJkzGt+vWSBb/VA=;Pi+fTngfewTqTuEyE+k5bw=="
 ---
 

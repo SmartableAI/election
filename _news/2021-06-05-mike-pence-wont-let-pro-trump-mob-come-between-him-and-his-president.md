@@ -299,6 +299,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "SCOOP: The top Trump fundraiser who helped plan his January 6 rally is out of Trumpworld"
+    excerpt: "Caroline Wren, a lead fundraiser for former President Donald Trump, was pushed out in the latest Trumpworld turf war."
+    publishedDateTime: 2021-06-09T07:25:00Z
+    webUrl: "https://www.businessinsider.com/top-trump-aide-caroline-wren-who-helped-plan-january-6-rally-is-out-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5ff6ec5bd184b30018aad767?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Mike Pence: I’ll likely never see eye to eye with Donald Trump on Jan. 6"
     excerpt: "Pence, speaking at a Republican dinner Thursday in the early-voting state of New Hampshire, gave his most extensive comments to date on the events of Jan. 6"
     publishedDateTime: 2021-06-04T16:01:00Z

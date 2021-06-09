@@ -140,6 +140,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Case of mistaken identity during Harris press conference sets internet on fire"
+    excerpt: "At Harris' press conference in Mexico City, one of the questions came from a person identified as a reporter for Univision and was widely mocked as the height of press fawning over the administration."
+    publishedDateTime: 2021-06-09T07:45:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SEvHCQkzYzo/case-of-mistaken-identity-during-harris-press-conference-sets-internet-on-fire"
+    ampWebUrl: "https://www.foxnews.com/politics/case-of-mistaken-identity-during-harris-press-conference-sets-internet-on-fire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/case-of-mistaken-identity-during-harris-press-conference-sets-internet-on-fire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Harris doubles down on telling migrants not to trek to US amid 'Squad' criticism"
     excerpt: "Vice President Harris' office Tuesday doubled down on her call for migrants not make the long trek from Central America to the United States amid criticism from some progressives for comments she made Monday telling Guatemalans: \"Do not come.\""
     publishedDateTime: 2021-06-08T13:44:05Z
@@ -425,7 +441,7 @@ related:
   - title: "Kamala Harris: Going To Border Would Be A \"Grand Gesture\""
     excerpt: "Vice President Kamala Harris defends her strategy to get 'real results' during her visit to Guatemala and called a visit to the U.S.-Mexico border a \"grand gesture.\" QUESTION: Sure. Thank you both for taking questions."
     publishedDateTime: 2021-06-08T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html#!"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
     type: article
@@ -471,6 +487,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "dbFLb4XM8dWw9Sm+6suM4zf3oxUkGZ/+EUVtIXxT+2gWYlaEjUlQo+sTiPlW4qjMFxgFE5j8XxDwwHX6ZJowNDklQiRH/bYtrhrcErQIAK2xxohqjDqEnpsxi3wYR7GVi4YdPUmBZ8QSlH+A6knYytFFZNGzXQb9M2pJ1PNTqvq3X9vyOwkzvGnE01fD8tbgcmjVp+4x0vQnq6TIKMKUNg0vKrUcqQyOpodF37DIwUGH2I/Axr8lYQxrjIWvcTRfjkICDYvm3fjvVX1SeRWyZjllmBrzpwV3T1Qo9OXkLtqSgLy6JoyKZzJj7Ho8jb9yUTNnEkVSl6CAQOdCFYNNJXMA4jlMxZlCvYhV6XU78TQ=;8f12OUQE68eBzevKJr+I3A=="
+secured: "tVszHbOIGo5ltZh9g98Y1RuRQunvgWuguc6rduTVB+ZqRCiSti+yXVH1OWHiezy0m7zFUIcnCAtO314JbIaAXQROVmfQR3ckGltWYqYU13qGilKk8gIOXOFTPsTp/Kr+9GVQRteWGbaIbnjbU2NIfmOckQB6CidT/ETjJoaptj4BBFWr0oIWwZ/jOR8Rv+SN+sA4+2BiJOSJT5iC51EsnjBUgbAxvP9uUWGYBV/hWBOxBaEUoxIVTY48gzgUt92TuhHWJW+KW5M43NQ1MIqTeoZLZikDq64rqRXCZ0ivLg0p8RHERUxSXRU+0CBFDbhznmPE+Y94kJNR4eF+0WNpWqkXNx7RCc69vkyy234vgouzFXlq8aGN1WxMEq1DeO2ir2E8RsHRhnHoe8SvBpBytMSmkWuB0Wpm0dUq2tN/q7G55qQJdxot2g3WfD0jXhx90TW/jYyMBWw7GR3Viiz2sekCeJRgpA+vsBhSeC2mTDNeyX8k0Af0zsAC1ubcxS8dip3Pz14lHDfxntBpx98xjg==;Ct1Ejjui107GLYKrcTrVYQ=="
 ---
 

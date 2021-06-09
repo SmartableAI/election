@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Kamala Harris pays tribute to vets after taking heat for earlier Memorial Day tweet"
-excerpt: "Vice President Harris paid tribute to fallen service members on Sunday after taking heat for a Memorial Day weekend message that neglected to mention veterans."
-publishedDateTime: 2021-05-30T12:41:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
-ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
+title: "Case of mistaken identity during Harris press conference sets internet on fire"
+excerpt: "At Harris' press conference in Mexico City, one of the questions came from a person identified as a reporter for Univision and was widely mocked as the height of press fawning over the administration."
+publishedDateTime: 2021-06-09T07:45:32Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SEvHCQkzYzo/case-of-mistaken-identity-during-harris-press-conference-sets-internet-on-fire"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SEvHCQkzYzo/case-of-mistaken-identity-during-harris-press-conference-sets-internet-on-fire"
+ampWebUrl: "https://www.foxnews.com/politics/case-of-mistaken-identity-during-harris-press-conference-sets-internet-on-fire.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/case-of-mistaken-identity-during-harris-press-conference-sets-internet-on-fire.amp"
 type: article
-quality: 179
+quality: 181
 heat: -1
 published: false
 
@@ -26,9 +26,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7a6ae93-cc8d-425b-bb14-6992656b9efe/6e55c3de-c62b-4139-85ef-d8928b4f753a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -144,22 +144,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Case of mistaken identity during Harris press conference sets internet on fire"
-    excerpt: "At Harris' press conference in Mexico City, one of the questions came from a person identified as a reporter for Univision and was widely mocked as the height of press fawning over the administration."
-    publishedDateTime: 2021-06-09T07:45:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SEvHCQkzYzo/case-of-mistaken-identity-during-harris-press-conference-sets-internet-on-fire"
-    ampWebUrl: "https://www.foxnews.com/politics/case-of-mistaken-identity-during-harris-press-conference-sets-internet-on-fire.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/case-of-mistaken-identity-during-harris-press-conference-sets-internet-on-fire.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Harris doubles down on telling migrants not to trek to US amid 'Squad' criticism"
     excerpt: "Vice President Harris' office Tuesday doubled down on her call for migrants not make the long trek from Central America to the United States amid criticism from some progressives for comments she made Monday telling Guatemalans: \"Do not come.\""
     publishedDateTime: 2021-06-08T13:44:05Z
@@ -175,6 +159,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Kamala Harris pays tribute to vets after taking heat for earlier Memorial Day tweet"
+    excerpt: "Vice President Harris paid tribute to fallen service members on Sunday after taking heat for a Memorial Day weekend message that neglected to mention veterans."
+    publishedDateTime: 2021-05-30T12:41:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7a6ae93-cc8d-425b-bb14-6992656b9efe/6e55c3de-c62b-4139-85ef-d8928b4f753a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Twitter mocks Kamala Harris for passing out cookies of her faceless head to reporters"
     excerpt: "The vice president traveled to the Central American country on Monday to meet with the Guatemalan President Alejandro Giammattei in her first trip after being appointed by President Biden to lead diplomatic efforts in the region amid the border crisis."
@@ -491,6 +491,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "3MHnXducuYJyEp/Ky5/v78njyMmu92fRz1IXAsm9wUJiKPzTs6PKg8C2L8MHo1lvREqYeWeoQCtJCJc5O3l02O4ljwsMUpYVlbwYoW50sjfgues5VOnpJEv9lR3hMwxkMsJa8fspIC/j8OW7fmcb5xVDsyhBv0xUNZ7KVTLmieAr/VMXI8bwiEQbgnjOrrx0jZni01HXljXAwQjPyvfJLpwOnXREJIG5hxj+FUyVUf0rN1N5SV8r1FMxPDyWDYUeKjV0qZ1neGn/QI6xYsQzbzNpXpqOckpArduH4tielc8hWOxJ/k7uMMZOJG26PD/aRdHE4WfXp1PsrSQuEbliwlnzrirBrv1r4QkJbGZ5HSU=;9B/U8f2dxt/Nnck2nA55aw=="
+secured: "se2TKiKUPi6F3xAztZu7Q+dwqeeFoG9koPbxtD9KSkqB7fOyio6jBPs0z3ITjlh/rHcC1l4L7LRO1IVLjVhZUfZXD2Ee7b+Jctg2XTwQvHxzy629mN6VyD6EOc8n/i4xsF2xy2TsqKgqlqdgkTlDcDdzemyXzi3+F1m1i8pFG2jCiMAn/Pt+N0UrM5HbJVb4LwBuKPAgY9plwGKsi7c702qIC8ycAHKII6y2rNZiissqFcXNIboFQTXl+Gjgpiik8lC0zZQ0uAsNKkV45HFFkEsx15soOW3x3IRXujv7yRTPkROhnIP08wDU58dhXyDQi6bRxKngrv+TYhFrqP0aEw2DVjhAy6mRC/2FFaJvjdw=;8k3ESoXAfXYaInRfFCSeEg=="
 ---
 
