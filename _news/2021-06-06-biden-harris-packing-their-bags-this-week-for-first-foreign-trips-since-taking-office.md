@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-packing-their-bags-thi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp"
 type: article
 quality: 192
-heat: 732
+heat: 772
 published: true
 
 provider:
@@ -409,6 +409,38 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e23d498-aabf-4a71-aac3-58951aff62df/8938475b-9604-4491-b659-6f9e5821e6c3/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris: Going To Border Would Be A \"Grand Gesture\""
+    excerpt: "Vice President Kamala Harris defends her strategy to get 'real results' during her visit to Guatemala and called a visit to the U.S.-Mexico border a \"grand gesture.\" QUESTION: Sure. Thank you both for taking questions."
+    publishedDateTime: 2021-06-08T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/545265.jpg"
+        width: 880
+        height: 660
+        isCached: true
+  - title: "Vice President Kamala Harris to Guatemalans: \"Do Not Come\""
+    excerpt: "Vice President Kamala Harris has dismissed a visit to the border as a 'grand gesture' - before telling illegal immigrants they are not welcome in the US. HARRIS: I want to emphasize that the goal of our work is to help Guatemalans find hope at home."
+    publishedDateTime: 2021-06-08T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/08/vice_president_kamala_harris_to_guatemalans_do_not_come.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/08/vice_president_kamala_harris_to_guatemalans_do_not_come.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/08/vice_president_kamala_harris_to_guatemalans_do_not_come.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/545263.jpg"
+        width: 1032
+        height: 774
         isCached: true
   - title: "Biden: I Am Tasking VP Kamala Harris With Voting Rights, \"Among Her Many Other Responsibilities\""
     excerpt: "President Joe Biden said on Tuesday \"we're going to overcome again\" when he announced he will be tasking Vice President Kamala Harris with issues tied to voting rights. \"To signify the importance of our efforts,"

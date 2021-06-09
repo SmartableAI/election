@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden nominee for public lands boss faces GOP opposition"
+    excerpt: "President Joe Biden’s nominee to oversee vast expanses of public land in the U.S. West is being criticized by Republicans because of her involvement in partisan politics as a longtime Democratic aide"
+    publishedDateTime: 2021-06-08T16:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-nominee-for-public-lands-boss-hits-gop-opposition/2021/06/08/608b79c0-c87e-11eb-8708-64991f2acf28_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-nominee-for-public-lands-boss-hits-gop-opposition/2021/06/08/608b79c0-c87e-11eb-8708-64991f2acf28_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-nominee-for-public-lands-boss-hits-gop-opposition/2021/06/08/608b79c0-c87e-11eb-8708-64991f2acf28_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I23JXWGIN4I6XBYIMSMR6KWPFA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden nominee for public lands boss hits GOP opposition"
     excerpt: "President Joe Biden’s nominee to oversee vast expanses of public land in the U.S. West is being criticized by Republicans because of her involvement in partisan politics as a longtime Democratic aide"
     publishedDateTime: 2021-06-08T17:27:00Z

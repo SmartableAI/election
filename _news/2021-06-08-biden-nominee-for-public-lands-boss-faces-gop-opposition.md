@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Jill Biden gets Delaware beach day for her 70th birthday"
-excerpt: "The trip was a rare midweek getaway from the White House by a president. It also was Biden's first visit to the couple's vacation home since he took office in January."
-publishedDateTime: 2021-06-03T14:42:00Z
-originalUrl: "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day"
-webUrl: "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day"
-ampWebUrl: "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true"
+title: "Biden nominee for public lands boss faces GOP opposition"
+excerpt: "President Joe Biden’s nominee to oversee vast expanses of public land in the U.S. West is being criticized by Republicans because of her involvement in partisan politics as a longtime Democratic aide"
+publishedDateTime: 2021-06-08T16:24:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-nominee-for-public-lands-boss-hits-gop-opposition/2021/06/08/608b79c0-c87e-11eb-8708-64991f2acf28_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-nominee-for-public-lands-boss-hits-gop-opposition/2021/06/08/608b79c0-c87e-11eb-8708-64991f2acf28_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-nominee-for-public-lands-boss-hits-gop-opposition/2021/06/08/608b79c0-c87e-11eb-8708-64991f2acf28_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-nominee-for-public-lands-boss-hits-gop-opposition/2021/06/08/608b79c0-c87e-11eb-8708-64991f2acf28_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 405
-published: true
+heat: -1
+published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/1b46bff/2147483647/strip/true/crop/3619x2364+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F83%2F8d%2F49ba68437eface87637124193ea2%2F5189605cb4724ba8a4dd8ff54178610c"
-    width: 320
-    height: 209
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I23JXWGIN4I6XBYIMSMR6KWPFA.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
+  - title: "Jill Biden gets Delaware beach day for her 70th birthday"
+    excerpt: "The trip was a rare midweek getaway from the White House by a president. It also was Biden's first visit to the couple's vacation home since he took office in January."
+    publishedDateTime: 2021-06-03T14:42:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1b46bff/2147483647/strip/true/crop/3619x2364+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F83%2F8d%2F49ba68437eface87637124193ea2%2F5189605cb4724ba8a4dd8ff54178610c"
+        width: 320
+        height: 209
+        isCached: true
   - title: "'A lot of anxiety' for Democrats as Biden agenda stalls"
     excerpt: "Six months into the Democrats’ hold on Washington, the party’s progressive wing is growing increasingly restless"
     publishedDateTime: 2021-06-08T04:12:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_a67c5b5cf26a448f97c3304222e3e1b6_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden nominee for public lands boss faces GOP opposition"
-    excerpt: "President Joe Biden’s nominee to oversee vast expanses of public land in the U.S. West is being criticized by Republicans because of her involvement in partisan politics as a longtime Democratic aide"
-    publishedDateTime: 2021-06-08T16:24:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-nominee-for-public-lands-boss-hits-gop-opposition/2021/06/08/608b79c0-c87e-11eb-8708-64991f2acf28_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-nominee-for-public-lands-boss-hits-gop-opposition/2021/06/08/608b79c0-c87e-11eb-8708-64991f2acf28_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-nominee-for-public-lands-boss-hits-gop-opposition/2021/06/08/608b79c0-c87e-11eb-8708-64991f2acf28_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I23JXWGIN4I6XBYIMSMR6KWPFA.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Biden to get warm welcome from relieved but wary allies"
     excerpt: "When U.S. President Joe Biden flies to Europe this week on his first foreign trip as president, he will find his hosts welcoming but wary"
@@ -239,6 +239,6 @@ related:
         height: 433
         isCached: true
 
-secured: "MMWCmweE0RUqnmLXUpRT2mYQrOA5WQF/zshlVqHr727LBXlEUeXKuKk1ioAFF/5hkpAucdofqBZLB90Nq8dmBCsCzc2T0vhIjDZySxikjtnoOc9z5bo55Bx6oa1vVjJXuvJt1LaIArzfAjSxo53HjMxDtrSfGg9POpF540pQrqaIHpsoHdIB7PLpLXOvJjiSFCWd/AvGWirJi70Sni/9ec2KXBN5t305RmfBpLZ/pqbTQsUPiCccp3Xz/YP7gtIbl5l7V1VBozUgYAPI5NiRnf5mH/FMRkuqTDsCFuM2KHBTgu8jsY9y8o63nhXaxOl//wfE2vNLWS+bcJyQJGrJLXW0XoZyNngvDKMwryxRl1UY76Cj65SFqd8yxjW9i4C1KH7DIvurSTvOCuslW9WYWuCATNaR/4ngQkTQolFZAdwH+Q9dqloJyI3aRxNWh1JoX01BHTY/XFCQW6WAmqsRcvUSE//N6LRqBpEPtS/IuyewQQE+j620w16dChhpfMrBGaoFrhT/0xilp0p8UgUSWQ==;Lfiz1+3UGo72DhN3Q2gteQ=="
+secured: "7rWpejWDe7eXtH1J38Lpv+5QFXAvBwnoz7XGeOfO0j9Up2bVZ1m4Fm5CUSdV2jhj7gWo2J/Jn0mzQJp7ium4AVcGkKil244uK+DJcrTcTPNKl/PrMVggvH7vtT2qZM9BIMycA0FnJNEL3AiUtAc3WLhBGBkQ70z0VnzFOJWsTAd2CClTFRaD6GrQeMfCez5aSxzQ7en9Uqk6Orf96SNNExX+wJoyyf1Djne/7z2QsduB6+lM9A9YZo2gMpDHeYjrj4HgMO47nQC0vGQOWpsGa9kIrIV8sngaCvPJzAQk4KxfZYEV5GXuKDkkPkvc4fccMbsGy4xtHR12igFchhwJKO4InLbeggV6wD1276vgyEY=;S9g/Z7w7K6w5khfRP1z8Ng=="
 ---
 

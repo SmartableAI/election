@@ -31,21 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "‘Wrong and un-American’: Biden blasts Texas Republicans’ SB7 voting bill"
-    excerpt: "Governor has said he will sign restrictive voting bill while president laments effects on ‘Black and brown Americans’"
-    publishedDateTime: 2021-05-29T15:38:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/29/wrong-un-american-biden-republicans-texas-sb7-voting-rights-bill"
+  - title: "Biden ends GOP infrastructure talks, but new group emerges"
+    excerpt: "President Joe Biden has ended talks with a group of Republican senators on a big infrastructure package and has started to reach out to senators in a new bipartisan effort"
+    publishedDateTime: 2021-06-09T04:48:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1bff0f645d8344baa26f3f755411995e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "White House says Biden-Putin meeting not a reward but good way to manage ties"
+    excerpt: "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,"
+    publishedDateTime: 2021-06-07T16:06:00Z
+    webUrl: "https://www.reuters.com/article/us-g7-summit-biden/white-house-says-biden-putin-meeting-not-a-reward-but-good-way-to-manage-ties-idUSKCN2DJ24Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564817374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH56158"
+        width: 828
+        height: 545
+        isCached: true
+  - title: "White House says Biden-Putin meeting not a reward but good way to manage ties"
+    excerpt: "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,"
+    publishedDateTime: 2021-06-07T17:55:00Z
+    webUrl: "https://www.reuters.com/article/us-g7-summit-biden-idUSKCN2DJ24Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DJ24Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564817374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH56158"
+        width: 828
+        height: 545
+        isCached: true
+  - title: "White House says Republicans increased offer on Biden infrastructure deal by $50bn – as it happened"
+    excerpt: "The president spoke with Senator Shelley Moore Capito, the lead Republican negotiator on the deal – get the latest"
+    publishedDateTime: 2021-06-04T23:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest?page=with:block-60ba84448f082ac930aea9aa"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 124
+    quality: 111
     images:
-      - url: "https://i.guim.co.uk/img/media/1233ea0fee8cf090bb13777dedbfc67acae46e5e/0_319_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84f2155abe07a45e3f9a6e8a6c567430"
+      - url: "https://i.guim.co.uk/img/media/6d23283704255b71f37f57a1fcb5c2fe60dc8cd4/0_119_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=561831e6ccd9fcd5523f7f24d9a7fad3"
         width: 600
         height: 360
+        isCached: true
+  - title: "The Hill's Morning Report - Presented by Citizens' Climate Lobby - Biden floats infrastructure, tax concessions to GOP"
+    excerpt: "Welcome to The Hill’s Morning Report. It is Friday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators."
+    publishedDateTime: 2021-06-04T10:30:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/556812-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/556812-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/556812-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 101
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenbike.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "President Joe Biden calls on Republicans to boost $980B infrastructure offer; Democrats remain ready to go it alone"
+    excerpt: "The White House on Monday called on Republicans to bump their recent $980 billion offer on an infrastructure package, noting President Joe Biden shaved his initial proposal by almost $1 trillion in a move to seal a historic investment in jobs,"
+    publishedDateTime: 2021-06-07T19:01:00Z
+    webUrl: "https://www.masslive.com/politics/2021/06/president-joe-biden-calls-on-republicans-to-boost-980b-infrastructure-offer-democrats-remain-ready-to-go-it-alone.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/06/president-joe-biden-calls-on-republicans-to-boost-980b-infrastructure-offer-democrats-remain-ready-to-go-it-alone.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/president-joe-biden-calls-on-republicans-to-boost-980b-infrastructure-offer-democrats-remain-ready-to-go-it-alone.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 53
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FARDNIG44VBVZGDZP6UJ24ONUE.jpg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "dSEy03uAONfhiNg8PfMfqWbl7vBwtpIKQ9H2FJUMULEM0iAVMtxW5vuOVJ5XHwJzKrO4faQeY3jREMFdiMosS4BqPHdQGNvKFIf9K8JhSbn8wpvtu/qjDVRf0d895ZWSd03UZBDwysLEEEq2UbOTche1Xm9lwxgNFvOZUzWwNj6vPKf0zYwM8iln68wrUtBxIhA3yyM8imcO9gTKewmbBR7jHF5vH7a6qcLspxQQUPq00NpjZXDzrmeigKU3jwPFD+8EoKhE/cyvXnyippCl8QL2WrTvQFQhBkNDP2/Fm64Co0PeuwdgHkI3YO2kBeRgcPN2k1rG6chsgFZ3svX5AIk2YAmOY1LhY0/6lVlShHv5T2EZX25Rxr7qKEeKX3ZKRoV4M6FepgYb7QuVVXXZdqAja8Xmo4xHTLqqndJFB5d1ng/ns3gAlmAOLzMSugF5BTRCs5D4yaia2reNO0elEhzx44mPy0huE9eMNzfqOVNFZqCTt5uPE92AjIGe5VJetdWaV99QIAs3tci+iP0jIA==;1ek3AdVzC3QZchCIi2cDIg=="

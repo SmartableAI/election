@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden nominee for public lands boss faces GOP opposition"
+    excerpt: "President Joe Biden’s nominee to oversee vast expanses of public land in the U.S. West is being criticized by Republicans because of her involvement in partisan politics as a longtime Democratic aide"
+    publishedDateTime: 2021-06-08T16:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-nominee-for-public-lands-boss-hits-gop-opposition/2021/06/08/608b79c0-c87e-11eb-8708-64991f2acf28_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-nominee-for-public-lands-boss-hits-gop-opposition/2021/06/08/608b79c0-c87e-11eb-8708-64991f2acf28_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-nominee-for-public-lands-boss-hits-gop-opposition/2021/06/08/608b79c0-c87e-11eb-8708-64991f2acf28_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I23JXWGIN4I6XBYIMSMR6KWPFA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden to get warm welcome from relieved but wary allies"
     excerpt: "When U.S. President Joe Biden flies to Europe this week on his first foreign trip as president, he will find his hosts welcoming but wary"
     publishedDateTime: 2021-06-08T10:50:00Z
@@ -223,6 +239,6 @@ related:
         height: 433
         isCached: true
 
-secured: "HrosQBzINfICDCludixxBCfwZyES3w9E/ZU+IZtlcJD/m/c2fS0e5FpidduLf7xjkXDZdwilJgX7dVr4HrmMf1WwxX+2WEW6AmWd/rcovTZ/GcygRzz0h+qDJFN7TAGQqMBpEfXYa8lMZmsip5B6FwBMGXax/bz1iS+PfIl3fENvHnp45VM5dt0cGwDZYEgH+s7/lRJtZEBBPhJhHRidKIoR+uJXTraL82//T49VWAMAgb3VlQpKRZbZZ0rslQJszjBvzDMoYLoStuSAUzGN6GwdnX0g4O0Qs9clsXPWK9CEjqDWniyEcfm9JSRKkX6VSFHXFqt5PmVjly1akcxemhYJMlq8aGZIN7z3IJGq2R4=;bYywQKacJC18My25woVQxg=="
+secured: "fp3RsVl5hRNkNN/AL+Xc4M9PA0fSFUL4sDRleFXJXt1og07Hru01xK6flUZaYp3WKnIIp3dh+s3ZlPagtfNM8o3PKghIqJfBvthK0RdlKkUkR7xP1bcKQithXJnGe13MbVdmATMy/ex3AnC9V37N/CEDVxy2gYy9iG6uvUDmagWPYM4BfwMv4eT6e/1so1m5Ffj3PJjPHz/XxskjG1R9MiX+zzP7Ihw/t2YBv2z61T4Y7kO1XpAfPKflDRE26gSh9Q7p1Vr2q5Z6z2ai1FOOau7ZYLy1oGN/f933a2aWsIsWZakpIQM7rs6lI5IgWrTGtuWId29r/ksI5y54I9STgEpnDklcEibDAsMEZLgYl46KWi98vDiXnmbDxrRRdy12OBfme2ya2BfIiwZm3vlcnGijtAuoR8Pr+bEXFVS4uBgJ1XQdb4D9GL7K1+aA1WMXFc8/n67Crt3iOyz0u1iSO9zh185jVktZ2MgkpybsWEMAN8fh4x9IkD1xYvHsWkb6LE5Xl+YLOzKRwmy9NID6sw==;Y/0YyqnwGDGzNRKLEE4ofA=="
 ---
 

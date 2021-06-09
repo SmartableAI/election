@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-biden-ends-gop-infrastructure-talks-but-new-group-emerges.md",
+      "title": "Biden ends GOP infrastructure talks, but new group emerges",
+      "excerpt": "President Joe Biden has ended talks with a group of Republican senators on a big infrastructure package and has started to reach out to senators in a new bipartisan effort",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_1bff0f645d8344baa26f3f755411995e_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086",
+      "publishedDateTime": "2021-06-08T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-sen-josh-hawley-holds-up-biden-personnel-nominee-over-critical-race-theory.md",
       "title": "Sen. Josh Hawley holds up Biden personnel nominee over critical race theory",
       "excerpt": "Senate Republicans are holding up President Joe Biden's nominee to lead the Office of Personnel Management over concerns about her stance on critical race theory.\n    \n",
@@ -443,7 +495,7 @@
       "originalUrl": "https://www.cnbc.com/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -867,7 +919,7 @@
       "originalUrl": "https://www.latimes.com/politics/story/2021-06-07/a-lot-of-anxiety-for-democrats-as-biden-agenda-to-rebuild-economy-and-reshape-u-s-stalls",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1232,58 +1284,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-white-house-says-biden-putin-meeting-not-a-reward-but-good-way-to-manage-ties.md",
-      "title": "White House says Biden-Putin meeting not a reward but good way to manage ties",
-      "excerpt": "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-g7-summit-biden/white-house-says-biden-putin-meeting-not-a-reward-but-good-way-to-manage-ties-idUSKCN2DJ24Y",
-      "originalUrl": "https://www.reuters.com/article/us-g7-summit-biden/white-house-says-biden-putin-meeting-not-a-reward-but-good-way-to-manage-ties-idUSKCN2DJ24Y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564817374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH56158",
-          "width": 828,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2DJ24Y",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DJ24Y",
-      "publishedDateTime": "2021-06-07T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Boebert takes cardboard cutout of Kamala Harris to the border, as VP takes heat for failing to visit"
-excerpt: "Rep. Lauren Boebert, R-Colo., on Tuesday released video of her taking a cardboard cutout of Vice President Kamala Harris to the border -- as the vice president continued to take heat for failing to visit in more than 70 days since she was tasked with handling the migrant crisis."
-publishedDateTime: 2021-06-08T18:56:43Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kfXGW1yeBrQ/boebert-cardboard-cutout-kamala-harris-border-vp-heat-visit"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kfXGW1yeBrQ/boebert-cardboard-cutout-kamala-harris-border-vp-heat-visit"
-ampWebUrl: "https://www.foxnews.com/politics/boebert-cardboard-cutout-kamala-harris-border-vp-heat-visit.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-cardboard-cutout-kamala-harris-border-vp-heat-visit.amp"
+title: "Vice President Kamala Harris to Guatemalans: \"Do Not Come\""
+excerpt: "Vice President Kamala Harris has dismissed a visit to the border as a 'grand gesture' - before telling illegal immigrants they are not welcome in the US. HARRIS: I want to emphasize that the goal of our work is to help Guatemalans find hope at home."
+publishedDateTime: 2021-06-08T00:00:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/08/vice_president_kamala_harris_to_guatemalans_do_not_come.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/08/vice_president_kamala_harris_to_guatemalans_do_not_come.html"
+ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/08/vice_president_kamala_harris_to_guatemalans_do_not_come.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/08/vice_president_kamala_harris_to_guatemalans_do_not_come.amp.html"
 type: article
-quality: 170
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8292479a-8b4e-4a0e-9eeb-ca988756b0ab/c244e29d-79ac-4fef-b542-69d4bb413b9a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/54/545263.jpg"
+    width: 1032
+    height: 774
     isCached: true
 
 related:
@@ -240,6 +236,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Boebert takes cardboard cutout of Kamala Harris to the border, as VP takes heat for failing to visit"
+    excerpt: "Rep. Lauren Boebert, R-Colo., on Tuesday released video of her taking a cardboard cutout of Vice President Kamala Harris to the border -- as the vice president continued to take heat for failing to visit in more than 70 days since she was tasked with handling the migrant crisis."
+    publishedDateTime: 2021-06-08T18:56:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kfXGW1yeBrQ/boebert-cardboard-cutout-kamala-harris-border-vp-heat-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/boebert-cardboard-cutout-kamala-harris-border-vp-heat-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-cardboard-cutout-kamala-harris-border-vp-heat-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8292479a-8b4e-4a0e-9eeb-ca988756b0ab/c244e29d-79ac-4fef-b542-69d4bb413b9a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Harris staff says climate, economy among 'main drivers' of migration after Guatemala president blames US"
     excerpt: "Vice President Kamala Harris’ staff on Sunday insisted that the \"main drivers\" of the migrant surge to the southern border are climate and the economy -- as Harris arrived in Guatemala and after the Guatemalan president blamed the change in U.S. administrations for the crisis."
     publishedDateTime: 2021-06-07T14:44:12Z
@@ -426,22 +438,6 @@ related:
         width: 880
         height: 660
         isCached: true
-  - title: "Vice President Kamala Harris to Guatemalans: \"Do Not Come\""
-    excerpt: "Vice President Kamala Harris has dismissed a visit to the border as a 'grand gesture' - before telling illegal immigrants they are not welcome in the US. HARRIS: I want to emphasize that the goal of our work is to help Guatemalans find hope at home."
-    publishedDateTime: 2021-06-08T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/08/vice_president_kamala_harris_to_guatemalans_do_not_come.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/08/vice_president_kamala_harris_to_guatemalans_do_not_come.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/08/vice_president_kamala_harris_to_guatemalans_do_not_come.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/545263.jpg"
-        width: 1032
-        height: 774
-        isCached: true
   - title: "Biden: I Am Tasking VP Kamala Harris With Voting Rights, \"Among Her Many Other Responsibilities\""
     excerpt: "President Joe Biden said on Tuesday \"we're going to overcome again\" when he announced he will be tasking Vice President Kamala Harris with issues tied to voting rights. \"To signify the importance of our efforts,"
     publishedDateTime: 2021-06-01T00:00:00Z
@@ -475,6 +471,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "fRMSp3vcRVTfgfAf/2sbelYKO8JeXCkW8bt+anVLc4f7uaZp7W5VWTbGRkb/rWOR2siVlYtvcuD08uaOzDqLAATJURDZ+gobHj9VMrEtCy77f70SjRI4vbS2uQeTTlxuARHn2OC2C7w8LCBajo9tcjtA+2Pnh8DC2XuUZ/7mBbRFpzVBeH56HrJ0uSORtMpXklUOyap5dYL+v936YGQl/FyZXPCoyFIg8dhuQwGpuOWQyexWD2dT8cAM42OP3LRgdDpQgdLUziRAQ4ymYvs9p2NRo0H/fh7/B7a/5gF32fWwBrIhA4z+8/SRWPzKnRZfoYQogyPS2kTRWwySSN5KiMZd0ATz4xzIfmDROmc511c=;4lnxG1ibtqhokpzvSw4bhA=="
+secured: "dbFLb4XM8dWw9Sm+6suM4zf3oxUkGZ/+EUVtIXxT+2gWYlaEjUlQo+sTiPlW4qjMFxgFE5j8XxDwwHX6ZJowNDklQiRH/bYtrhrcErQIAK2xxohqjDqEnpsxi3wYR7GVi4YdPUmBZ8QSlH+A6knYytFFZNGzXQb9M2pJ1PNTqvq3X9vyOwkzvGnE01fD8tbgcmjVp+4x0vQnq6TIKMKUNg0vKrUcqQyOpodF37DIwUGH2I/Axr8lYQxrjIWvcTRfjkICDYvm3fjvVX1SeRWyZjllmBrzpwV3T1Qo9OXkLtqSgLy6JoyKZzJj7Ho8jb9yUTNnEkVSl6CAQOdCFYNNJXMA4jlMxZlCvYhV6XU78TQ=;8f12OUQE68eBzevKJr+I3A=="
 ---
 
