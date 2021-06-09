@@ -139,15 +139,15 @@ related:
         isCached: true
   - title: "Latest in the Biden administration"
     excerpt: "Border policy, infrastructure, Sen. Joe Manchin\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-06-08T19:00:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210608190031-latest-in-the-biden-administration-border-policy-infrastructure-sen-joe-manchin/"
+    publishedDateTime: 2021-06-08T20:00:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210608200022-latest-in-the-biden-administration-border-policy-infrastructure-sen-joe-manchin/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/08/story_10736457_1623179284.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/08/story_10737208_1623182884.jpg"
         width: 1280
         height: 720
         isCached: true

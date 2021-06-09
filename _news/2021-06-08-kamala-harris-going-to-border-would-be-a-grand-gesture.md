@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris: Going To Border Would Be A \"Grand Gesture\""
 excerpt: "Vice President Kamala Harris defends her strategy to get 'real results' during her visit to Guatemala and called a visit to the U.S.-Mexico border a \"grand gesture.\" QUESTION: Sure. Thank you both for taking questions."
 publishedDateTime: 2021-06-08T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
 type: article
@@ -487,6 +487,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "crhTvpwkeqgESyMJUElLBzNQPz48vdvnsepyljWUDGXYn327p4sd0QHNlQEC2SNGFY/7VEwV2vOf98RvEkIRQLDA8oZ6EkAV2zqQydIBORDgln2utmQZkWLsfxYSmnXK4Houzti+KBCHDG8fKqWZnuwD9V8vVaD/Q/GYgRsC761jJWh3G62uBklAQ8qyKj9yB9BQlk9iCVKfMSt9uViQ0CGEJ5qQrmMoZ8ZDeDvgNXeY1J7uqMoITifjHUvwtoup2HKfw33YMIb30zZeK81AY/G4W4yWvuIzaB1oo2RICcruIgSIq03Jsf+NfChj5Pms0hT8/dNV61Pj+Rc5llBFVOVIVXJBxfgMC+jg+gp9DIk=;aPqZzKzAjT9Blnl7V6uFFw=="
+secured: "2wuwhr3PmCVjHbXsDb1O5JMQRtopwv++mbDuMyxSEm9rDo7Hi59vF8izQCWTtU1NIk0ft2NywMBzgmaLRUSos3UXvR+sGIVBR9s/420QH5K6otxufGmSMISaqK5zpL7aSRGR9wKWrHC1IEGJ5OeGSksIRvxx/1h2n6aiLUOQ5PWKOs2h1xPcjx8xorOPcP7VWENFQPKVz91si9CxVp3u3W/O8yAC2pN/FeUtLGiWjZfsaoSCU7vS8GxjCoDcdSZDH1y7HDTCmPc1RC6FCmuD3/AlH3iqMnGUD/7MrlU03gHAKTvzrEtOFK/m0X37sJpLIVbdJ8hHT/X+s2eEBWQ4kgk5jEdQXi/q3E8o7muKFHI=;7DBvalEdpnKyhuDl0+6tUQ=="
 ---
 

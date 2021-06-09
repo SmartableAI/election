@@ -3,18 +3,22 @@ category: news
 title: "Kamala Harris under pressure to visit US-Mexico border"
 excerpt: "Vice-President Kamala Harris is under pressure to visit the US-Mexico border as she targets illegal immigration on her first official foreign trip. Ms Harris had a testy exchange with a cable anchor who asked why she had not gone to the US' southern boundary."
 publishedDateTime: 2021-06-08T21:05:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-us-canada-57408094"
-webUrl: "https://www.bbc.co.uk/news/world-us-canada-57408094"
-ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57408094.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57408094.amp"
+originalUrl: "https://www.bbc.com/news/world-us-canada-57408094"
+webUrl: "https://www.bbc.com/news/world-us-canada-57408094"
+ampWebUrl: "https://www.bbc.com/news/world-us-canada-57408094.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57408094.amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -677,6 +681,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "eY9qf7bMMiQbYqwH+a1pziQpoBKVE9rQwFyb1NuoetIhz31qAc75nRQgxQtTV+WoIk80Y53YilH1ObiTN9THJEHi0EBuosTTCt18acB59nZc7dk8QM/rm8PZlgTF39or4n6nwCS+3+dLh/t1WfmDy395x/K6SL6CTvMpRi2phr8eyghdIZThPwibYowkIhfTHFT5NE724lDbm/MpOiTDpHcb6XGXR1AxyL+/cjIPEn1mh8smn0KuUtvmRoquv0wiPJOPike3/6DhI3QlZuY5qOBwzJomQQ27nUPy6pGGwNRZiT0z9y39TRXRNIwcanouKk/GRRfEz3RKGBUBNvZi+1Qixt8cx4OwVTta/y56U+o=;0hKLrzq81R75IX16l22guQ=="
+secured: "x+I6V6ApQSW8mBxYR4ItDN1voZ8gUsO2fikEx3X7lSXcmuY/C8vSLyED7YMU+hzzYXidaDcdqb//7EsGHj6TYDfKYn5wmqW4jZnlrdqtsQiDcgHyyCWxhjBLFXwvVNsyZh7anRWMHg28R0H/oh/y/sy5EvC4HjfjmbyGqJNFnpU9jFJzr7f3dRUz9PbKX2FXWG0R8vZYkM+4jsWgLnrnRxvDxfxMbTMd+afD68TVsQiFOnqxSCYejD26FI2pBQiKwaoejLq9MzRwfN778NBUGLx+gxza/5hGvRpWOoQm4q9wylIb0yzqryfqgQVMsE6Q9vXLM8JwkHghPQSBch16oRzBop9EIR2AOyqY6KpBFpo=;JmYbxFF/uV553uLq/AIQSg=="
 ---
 

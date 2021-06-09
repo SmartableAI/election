@@ -2,9 +2,9 @@
 category: news
 title: "Latest in the Biden administration"
 excerpt: "Border policy, infrastructure, Sen. Joe Manchin\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-06-08T19:00:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210608190031-latest-in-the-biden-administration-border-policy-infrastructure-sen-joe-manchin/"
-webUrl: "https://www.cbsnews.com/live/video/20210608190031-latest-in-the-biden-administration-border-policy-infrastructure-sen-joe-manchin/"
+publishedDateTime: 2021-06-08T20:00:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210608200022-latest-in-the-biden-administration-border-policy-infrastructure-sen-joe-manchin/"
+webUrl: "https://www.cbsnews.com/live/video/20210608200022-latest-in-the-biden-administration-border-policy-infrastructure-sen-joe-manchin/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/08/story_10736457_1623179284.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/08/story_10737208_1623182884.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -180,6 +180,6 @@ related:
         height: 433
         isCached: true
 
-secured: "atky/h5p+SNPSXnzV616lyZrCdWxQgWwI2pBTVAC40YHMc9rEGoLZGWffjXhPvUR1nqZNmAxW7LqLpp5g17tIOBzruurQ1/GcyCvwxmCTwZ6nelxtGqO6ZtMz7gqWyQBrBYMFs5QJ4S4/75IEO2mMrz2kALDcBTequn7xWfZIBdcHwyN36Mf7N3VSPefEngRWNJg+qtWhqAzotOemoMdgxTyICB7Y/TK1TO2MNk6xGwBBpol9Ys1mjVfgR+ZCA2bQmV/yB9MdUq2TgMp7EJ2wyNzFnFmqg/CcTkCVdxAw5e1qd6G5j3pnUy896KhZM+gtyUnrMfNt4k491QGnD5LBTeG5OUHvmOEpQy2xyI5f60=;mdXFPQqn9/l2PMTlyR4xjw=="
+secured: "P4hTqHpUBV34w9NLk5cJKwDAGmxbdzGnlPPbiJh8hhwEx35i8pfjAKEKSJN+4piKjGuyI3by/UYcd9qcV0s1+jrMn0aLwLMW/CXdyaVfvk39Dx+SYovahD2ppt248hR9uJduv8RPngH0kBpqaL1UQVjtpKGe8J5hb5FdIcdD7JOMtQS1wbybMfXmqABn1RETYXIGFmSM5Coj2j9xse7nIkEOXhfperW605mqC/91aoCTyX0tZmXCdGuB7GTLXAjF4p15FcTOxTFv36VcJKV/denmoVDl4wckaNDx+EqsKPaS0+eKdkbOtvGfL8n55+WOyA+wDXp8qfKEn7jkhF7WQktFvXlIboBkke5/b4e8YrQ=;AIGWGQn8Sx3PC4G8usRyVw=="
 ---
 
