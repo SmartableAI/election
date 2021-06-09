@@ -107,6 +107,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden: The plane spotters gathering for the president's arrival"
+    excerpt: "The Suffolk airbase will be the first place outside the United States that Joe Biden has visited since becoming president following his election victory over Donald Trump last November. \"It has been very busy for the past three days,"
+    publishedDateTime: 2021-06-09T11:50:00Z
+    webUrl: "https://www.bbc.com/news/uk-england-suffolk-57400674"
+    ampWebUrl: "https://www.bbc.com/news/uk-england-suffolk-57400674.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-suffolk-57400674.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/AC7B/production/_118855144_vanessaandtracy.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
     excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"
     publishedDateTime: 2021-03-30T17:44:00Z

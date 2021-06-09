@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden ends infrastructure negotiations with Republican senators"
+    excerpt: "The president will pivot to talks with a bipartisan group of senators to try to reach a deal on infrastructure."
+    publishedDateTime: 2021-06-09T11:11:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-infrastructure-bill-ends-negotiations-republican-senators/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-infrastructure-bill-ends-negotiations-republican-senators/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-infrastructure-bill-ends-negotiations-republican-senators/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/07/83d4b074-e34c-4cd5-a86d-4b101b13f6c3/thumbnail/1200x630/3a3990ce07a3cb9339858c35370a2332/joe-biden-economy-replace-730008-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Manchin says he will not support voting rights bill, in blow to Biden agenda and a warning to his colleagues"
     excerpt: "I believe that partisan voting legislation will destroy the already weakening binds of our democracy, and for that reason, I will vote against the For the People Act,” Manchin wrote in an op-ed in the Charleston Gazette-Mail on Sunday."
     publishedDateTime: 2021-06-06T21:53:00Z

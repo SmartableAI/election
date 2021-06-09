@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104140355-01-us-congress-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden takes the lead role he's always craved in his high-stakes first trip abroad as president"
+    excerpt: "When President Joe Biden told officials this spring that he wanted to meet soon with his Russian counterpart for a summit, his team quickly set out to make it happen -- even if some wondered what he really hoped to achieve.\n    \n"
+    publishedDateTime: 2021-06-09T06:35:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gd62i9_ww9M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608104620-joe-biden-060421-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

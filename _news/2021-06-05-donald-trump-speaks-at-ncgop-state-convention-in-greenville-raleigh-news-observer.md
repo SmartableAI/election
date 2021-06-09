@@ -51,6 +51,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Tycoon behind DAMAC's Trump golf club wants full ownership"
+    excerpt: "The billionaire founder of one of Dubai’s largest developers, DAMAC Properties, has announced his intention to take the company fully private by buying its publicly traded shares in a deal valued at a"
+    publishedDateTime: 2021-06-09T11:46:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/tycoon-damacs-trump-golf-club-full-ownership-78170114"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/tycoon-damacs-trump-golf-club-full-ownership-78170114"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/tycoon-damacs-trump-golf-club-full-ownership-78170114"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_95cf51a74dbe49d5b4b945e697189f76_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Former House Speaker Paul Ryan urges GOP to return to Reaganism, end Trump fixation"
     excerpt: "The Wisconsin Republican and onetime VP candidate, in a speech at the Reagan Library in Simi Valley, describes conservatives as at 'a crossroads.'"
     publishedDateTime: 2021-05-27T18:01:00Z

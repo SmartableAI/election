@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthda
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s.abcnews.com/images/International/WireAP_6ca5559f7a3047aebd1ac88ccd61b21d_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden ends infrastructure negotiations with Republican senators"
+    excerpt: "The president will pivot to talks with a bipartisan group of senators to try to reach a deal on infrastructure."
+    publishedDateTime: 2021-06-09T11:11:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-infrastructure-bill-ends-negotiations-republican-senators/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-infrastructure-bill-ends-negotiations-republican-senators/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-infrastructure-bill-ends-negotiations-republican-senators/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/07/83d4b074-e34c-4cd5-a86d-4b101b13f6c3/thumbnail/1200x630/3a3990ce07a3cb9339858c35370a2332/joe-biden-economy-replace-730008-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden nominee for public lands boss hits GOP opposition"
     excerpt: "President Joe Biden’s nominee to oversee vast expanses of public land in the U.S. West is being criticized by Republicans because of her involvement in partisan politics as a longtime Democratic aide"

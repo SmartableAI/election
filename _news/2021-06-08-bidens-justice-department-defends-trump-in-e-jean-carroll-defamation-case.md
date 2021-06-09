@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-justice-department-trump-e-je
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp"
 type: article
 quality: 188
-heat: 368
+heat: 388
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://images.wsj.net/im-350268/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Biden Should Make China Pay"
+    excerpt: "President Joe Biden heads to Europe Wednesday to meet with European leaders. He says the goal is to work together to"
+    publishedDateTime: 2021-06-09T10:13:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/544585_5_.jpg"
+        width: 750
+        height: 501
         isCached: true
   - title: "Trump Rallies Are Back. They're Just What Dems Ordered"
     excerpt: "Starting this month, Donald Trump will also be back in public circulation, headlining a series of grievance-filled summer MAGA rallies. That's fantastic news for anxious Democrats."

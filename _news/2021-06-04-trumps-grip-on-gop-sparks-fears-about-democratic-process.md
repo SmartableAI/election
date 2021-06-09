@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_fa5b3953a8514733bc5837389c59fd8d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Tycoon behind DAMAC's Trump golf club wants full ownership"
+    excerpt: "The billionaire founder of one of Dubai’s largest developers, DAMAC Properties, has announced his intention to take the company fully private by buying its publicly traded shares in a deal valued at a"
+    publishedDateTime: 2021-06-09T11:46:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/tycoon-damacs-trump-golf-club-full-ownership-78170114"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/tycoon-damacs-trump-golf-club-full-ownership-78170114"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/tycoon-damacs-trump-golf-club-full-ownership-78170114"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_95cf51a74dbe49d5b4b945e697189f76_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden heads overseas as his prospects darken at home"
+    excerpt: "Joe Biden is heading abroad, just at the moment when his hopes for a historic legislative legacy at home seem headed for a wall.\n    \n"
+    publishedDateTime: 2021-06-09T10:22:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZflAABEgUo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-domestic-troubles-international-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-domestic-troubles-international-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to suspend oil and gas drilling leases in Arctic refuge, undoing a Trump-era decision"
     excerpt: "The Biden administration plans to suspend oil and gas leases in the Arctic National Wildlife Refuge, a senior administration official confirmed Tuesday, undoing a move made by the Trump administration late last year.\n    \n"
     publishedDateTime: 2021-06-01T20:50:02Z

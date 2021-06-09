@@ -3,8 +3,8 @@ category: news
 title: "Tucker Carlson: How Did Kamala Harris Wind Up Effectively In Charge Of The United States?"
 excerpt: "Two years ago, during the Democratic presidential primaries, Kamala Harris appeared on CNN to explain where she stood in the race. At that moment, Harris had just been memorably humiliated by Tulsi Gabbard of Hawaii during a televised debate,"
 publishedDateTime: 2021-06-09T08:56:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.amp.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 870
     isCached: true
 
-secured: "mk5RfT7bBOEEDxXR0AtuauA8aanTt08xqaFgl2jrbnPicxHNaPrWbvDIOM+dB50LnSdLfqpZjejUSR/22/mQOs19013fUN2cdKaFy7YYnl5eeRiJuXuM3CO9wPbZMwBpcoExQJyurBgYVqH5HoPMPqwC6K+KS4mPuYexbJZiZ2r4JU1Z+O/RzDRyrzFvJ5ukRUCnp5hK/AXbJfugUKE2WXKP7ZfvV1y8To3QHzfvE8Izj9fW9HyEvGHB2+gyCHh18FhkAOaOS1Ynbi/eF88BlNwwmBU/xGglwir8LCLXMZ253Dg4mrQH19lXlobw2wajSP24vhYdi32YKQPKPNdqcCMlhuS81eBCR5PvWvedqcY=;C8xlhz0DZRwAfB7Mk3fmEA=="
+secured: "yt88dpZKPHG/yBf1vvuyuEh8MSmttfg5FT5Ut+AcLCNhvqTPTuVG60BRcPfbcGwX2dIUkOJzBX8L4D4rQEtR5MKFPcVX3Etbek8FbqBN9odQouJiMwJecRw9AQWFz2W0azs5VyQ56YLLI9nVo60erRS8yhiNyCDV9AotDCYM7VBBkkjCii6gRG1vMV5LyJapQx7m/dfV+2Kg4tbKjzg+L5idWXLn0Kdgr9r13qMEs+ABR8rjIILLnfoFFAzo2r4Q+H2QnyRKtQjufMDawnk55feZI3e2mMtR2GioCPaeWGrYOVoWPb+QwTyVvjsnrviFeZ4Dj6w2dACiMjLt+vkdHum/JR1eMBIDhIouScxoopk=;JvmDa45glgchubTf4q7p3g=="
 ---
 

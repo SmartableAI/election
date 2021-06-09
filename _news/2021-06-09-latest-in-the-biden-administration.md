@@ -151,6 +151,22 @@ related:
         width: 640
         height: 456
         isCached: true
+  - title: "Donald Trump isn’t liable for ‘crude and disrespectful’ remarks about accuser, columnist E. Jean Carroll, federal lawyers say"
+    excerpt: "U.S. Justice Department lawyers told an appeals court Donald Trump cannot be held personally liable for remarks he made about columnist E. Jean Carroll."
+    publishedDateTime: 2021-06-08T19:50:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-columnist-lawsuit-20210608-20210608-7fp47foc65g3tm3a2aft7vmrpq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-columnist-lawsuit-20210608-20210608-7fp47foc65g3tm3a2aft7vmrpq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-columnist-lawsuit-20210608-20210608-7fp47foc65g3tm3a2aft7vmrpq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 98
+    images:
+      - url: "https://www.chicagotribune.com/resizer/6YROuD0o1wndnHrCEFiZAVvZqVE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UPNIKPOET5EZDIENBTHQR2FDG4.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Joe Biden returns to the White House"
     excerpt: "U.S. President Joe Biden gets into a limo after stepping off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
     publishedDateTime: 2021-06-04T18:26:00Z
@@ -180,6 +196,6 @@ related:
         height: 433
         isCached: true
 
-secured: "P4hTqHpUBV34w9NLk5cJKwDAGmxbdzGnlPPbiJh8hhwEx35i8pfjAKEKSJN+4piKjGuyI3by/UYcd9qcV0s1+jrMn0aLwLMW/CXdyaVfvk39Dx+SYovahD2ppt248hR9uJduv8RPngH0kBpqaL1UQVjtpKGe8J5hb5FdIcdD7JOMtQS1wbybMfXmqABn1RETYXIGFmSM5Coj2j9xse7nIkEOXhfperW605mqC/91aoCTyX0tZmXCdGuB7GTLXAjF4p15FcTOxTFv36VcJKV/denmoVDl4wckaNDx+EqsKPaS0+eKdkbOtvGfL8n55+WOyA+wDXp8qfKEn7jkhF7WQktFvXlIboBkke5/b4e8YrQ=;AIGWGQn8Sx3PC4G8usRyVw=="
+secured: "8dI7P929KfLlWnzRseCQjv47g7W1W7PcTyUB8Y4RQ6FgYHfU9DQQPrVvw37jwLkDebAX1qj6omZei6yXt3LewjCO1Qebowo7CnF3nMbRe+BlS7t1v9Sgp0npc3U0ICMBs+OoBgRuMNRNyHBYe/dPedkZ58vRnpGrzLdRjFlTEYzOoV9VimTEs+Uf6Joh4aaYQR5RtfIJDyZGz5O/TS0pXoUZKorXxv+6yw1awcJRbIsN4PoeEEY3Ok86vs505SpNQFQV/CThN3+bZHlRUlc5zxxpfl7AhqtxcJGZnnODIqjGlTPZh4+ZmXXly/tcHp3cRcrnIKBuIATHrptrAOiAIwVNFrhwahi9lJv/7RVmleEID1jj0NqCDgH1ZEr/kEvXoaUIxiQk/zDis/fiGwk5aBQg0QtAupjbLKobw20z1SnA2ix2WobGAjMsZOJIxvAsNyJ5qSJdcShlM4Brtsj2WVInOryf/NClboPA2VYVSTgxIU9m34Uz1Vi4YJu0BDullpufxA8ljiVBtiocSsDghQ==;CCaN4LGRqxXylD64fVbVXQ=="
 ---
 

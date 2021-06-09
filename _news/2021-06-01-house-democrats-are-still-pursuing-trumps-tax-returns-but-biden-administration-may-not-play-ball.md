@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden heads overseas as his prospects darken at home"
+    excerpt: "Joe Biden is heading abroad, just at the moment when his hopes for a historic legislative legacy at home seem headed for a wall.\n    \n"
+    publishedDateTime: 2021-06-09T10:22:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZflAABEgUo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-domestic-troubles-international-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-domestic-troubles-international-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Progressives push Biden to do more to distribute vaccines across the world"
     excerpt: "A group of more than 30 Democratic members of the House of Representatives have signed onto a letter to the White House encouraging the Biden administration to do even more to help distribute vaccines across the world.\n    \n"
     publishedDateTime: 2021-06-03T20:59:25Z

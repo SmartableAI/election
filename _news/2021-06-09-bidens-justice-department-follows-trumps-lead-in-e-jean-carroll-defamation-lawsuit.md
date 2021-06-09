@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-justice-department-trumps
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
 type: article
 quality: 133
-heat: 333
+heat: 353
 published: true
 
 provider:
@@ -150,6 +150,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/27/00b220c7-efcc-4ab4-80ce-259b963ce720/thumbnail/640x456g2/4560b5a2be120c52c53750c611ffdb40/screen-shot-2020-10-27-at-12-04-41-pm.png#"
         width: 640
         height: 456
+        isCached: true
+  - title: "Donald Trump isn’t liable for ‘crude and disrespectful’ remarks about accuser, columnist E. Jean Carroll, federal lawyers say"
+    excerpt: "U.S. Justice Department lawyers told an appeals court Donald Trump cannot be held personally liable for remarks he made about columnist E. Jean Carroll."
+    publishedDateTime: 2021-06-08T19:50:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-columnist-lawsuit-20210608-20210608-7fp47foc65g3tm3a2aft7vmrpq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-columnist-lawsuit-20210608-20210608-7fp47foc65g3tm3a2aft7vmrpq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-donald-trump-columnist-lawsuit-20210608-20210608-7fp47foc65g3tm3a2aft7vmrpq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 98
+    images:
+      - url: "https://www.chicagotribune.com/resizer/6YROuD0o1wndnHrCEFiZAVvZqVE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UPNIKPOET5EZDIENBTHQR2FDG4.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Joe Biden returns to the White House"
     excerpt: "U.S. President Joe Biden gets into a limo after stepping off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"

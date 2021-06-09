@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden: The plane spotters gathering for the president's arrival"
+    excerpt: "The Suffolk airbase will be the first place outside the United States that Joe Biden has visited since becoming president following his election victory over Donald Trump last November. \"It has been very busy for the past three days,"
+    publishedDateTime: 2021-06-09T11:50:00Z
+    webUrl: "https://www.bbc.com/news/uk-england-suffolk-57400674"
+    ampWebUrl: "https://www.bbc.com/news/uk-england-suffolk-57400674.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-suffolk-57400674.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/AC7B/production/_118855144_vanessaandtracy.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
     excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."
     publishedDateTime: 2021-04-22T01:13:00Z
