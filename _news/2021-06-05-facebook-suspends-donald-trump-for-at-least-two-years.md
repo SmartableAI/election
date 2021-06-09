@@ -32,37 +32,101 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook will end special treatment for politicians after Trump ban"
-    excerpt: "The change will make lawmakers and other elected officials subject to the same moderation rules as everybody else — including ones requiring fact-checking and forbidding bullying."
-    publishedDateTime: 2021-06-03T22:30:00Z
-    webUrl: "https://nypost.com/2021/06/03/facebook-will-end-special-treatment-for-politicians-after-trump-ban/"
-    ampWebUrl: "https://nypost.com/2021/06/03/facebook-will-end-special-treatment-for-politicians-after-trump-ban/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/facebook-will-end-special-treatment-for-politicians-after-trump-ban/amp/"
+  - title: "Trump Casts Shadow on New Jersey Primary Election"
+    excerpt: "Front-runner Jack Ciattarelli looks to hold off Hirsh Singh, a supporter of the former president, in race for Republican nomination."
+    publishedDateTime: 2021-06-07T18:51:00Z
+    webUrl: "https://www.wsj.com/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-350066/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Republican leaders to summit with Trump over conservative agenda"
+    excerpt: "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week."
+    publishedDateTime: 2021-06-03T16:27:00Z
+    webUrl: "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/"
+    ampWebUrl: "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/facebook-change.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook says Trump ban won’t end until at least 2023"
-    excerpt: "Facebook announced it has decided to keep former President Donald Trump blocked from its social media platforms for two years."
-    publishedDateTime: 2021-06-04T17:02:00Z
-    webUrl: "https://nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/"
-    ampWebUrl: "https://nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/amp/"
+  - title: "Trump hosts fundraiser for new GOP chair Rep. Elise Stefanik"
+    excerpt: "Former President Donald Trump is hosting a fundraiser for upstate GOP Rep. Elise Stefanik at his golf course in Bedminster, New Jersey Wednesday night, the Post reveals."
+    publishedDateTime: 2021-06-09T19:40:00Z
+    webUrl: "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/"
+    ampWebUrl: "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-FB-inset.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Elise-Stefanik.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump Jr. accuses NY AG James of ‘persecution’ in Trump Organization probe"
+    excerpt: "Donald Trump Jr. claimed that the New York Attorney General’s probe into the Trump Organization is a form of “political persecution.”"
+    publishedDateTime: 2021-06-02T02:01:00Z
+    webUrl: "https://nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/"
+    ampWebUrl: "https://nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/don-jr-letitia-james-016.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump backs Nigeria on Twitter ban, says more countries should follow suit"
+    excerpt: "The former US president, who himself is banned from the social media platform, defended the West African nation’s decision to block Twitter saying all speech should be heard,"
+    publishedDateTime: 2021-06-08T22:09:00Z
+    webUrl: "https://nypost.com/2021/06/08/trump-backs-nigeria-on-twitter-ban-says-more-countries-should-too/"
+    ampWebUrl: "https://nypost.com/2021/06/08/trump-backs-nigeria-on-twitter-ban-says-more-countries-should-too/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/08/trump-backs-nigeria-on-twitter-ban-says-more-countries-should-too/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "‘Life, Liberty & Levin’ on media, criminal investigation into Trump Organization"
+    excerpt: "I'm Mark Levin and this is LIFE, LIBERTY & LEVIN. This is a very important program and I'm glad you're here. We pride ourselves in America being a nation of laws. We have this beautiful Constitution of the United States."
+    publishedDateTime: 2021-06-08T11:35:00Z
+    webUrl: "https://www.foxnews.com/transcript/life-liberty-levin-on-media-criminal-investigation-into-trump-organization"
+    ampWebUrl: "https://www.foxnews.com/transcript/life-liberty-levin-on-media-criminal-investigation-into-trump-organization.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/life-liberty-levin-on-media-criminal-investigation-into-trump-organization.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a588ac8-15b5-426f-8dde-6f314e7631ee/a41250a4-56c8-42bf-8952-9e5cea70b5a4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "y3e1t84ORJ0mk1CgKUZPqZgpRJOxdOyseto5+Wc7qqy8fJrG0APNVCTCemA4j4XnNoqZgNIChm2Nds81PwMTcOLwKakJQesRLiwn0Ofyw6/8BVHWXNRW1QgWKMkCDax2VdbbSfmhGu1diY2OkxL+pmHX4ZIVPKKK5LhCTiN3s7j8+S/5tNOp/R4A0tshRPqNTYzHTE4cMLm0FTNyaKwas7ezFbZO/p3/6AlkHj7/ZMGR6Govr07FCKrUtAxBpGo1733//NQkhAEz4BOJAOPAl4vWYE7A7HZhHy4nNWSmZlHZ75aMRu/4010ljE8zDS1ufk2ub1lljhcZUhOO7xLIpZuPlPWe14JGqWbyP/T7MACIjnq16N9elL0pjuS1hUOv2zvJ8UBskw/2L2WiW6MKMQ2ygYbacGegshDfrNKTqFuK8hW1rjM1P1oSlIdN4weV2rGXRPC5gnVELhXDlzICaxHxk3ggu+pc+Dzeska2dMsdJqc8BfDTE7VhHEi4dJZ0XeE3KIGqj+us3viRSnExQg==;26G/ADUjV9y2ObBB9rA/pQ=="

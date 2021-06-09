@@ -30,69 +30,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden invites Ukrainian President to White House in July"
-    excerpt: "President Joe Biden has invited Ukrainian President Volodymyr Zelensky to visit the White House later this summer, national security adviser Jake Sullivan said on Monday.\n    \n"
-    publishedDateTime: 2021-06-07T18:36:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_oXqNmX-U0w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/biden-zelensky-white-house-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/biden-zelensky-white-house-meeting/index.html"
+  - title: "Biden has paused a public option. Nevada is about to try its own. "
+    excerpt: "A federal public option isn't happening anytime soon, so Nevada officials are creating their own.\n    \n"
+    publishedDateTime: 2021-06-07T11:18:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQZlEXpJXOs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604155418-02-steve-sisolak-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden poised to announce first slate of ambassador nominees as he eyes first trip abroad"
+    excerpt: "President Joe Biden has made final decisions on several high-profile ambassador posts around the world and is poised to announce the first slate of nominees in the coming days as he prepares to set off on his first overseas trip since taking office.\n    \n"
+    publishedDateTime: 2021-06-05T13:02:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FgTpE5IZbN4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "White House defends Biden-Putin summit, calling it 'vital' for defending American interests"
-    excerpt: "The White House is defending President Joe Biden's upcoming meeting with Russian President Vladimir Putin in Geneva next week, saying it's \"vital\" to protecting America's interests.\n    \n"
-    publishedDateTime: 2021-06-07T20:56:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FbJTqJ1FeeA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/white-house-defends-putin-summit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/white-house-defends-putin-summit/index.html"
+  - title: "Biden takes the lead role he's always craved in his high-stakes first trip abroad as president"
+    excerpt: "When President Joe Biden told officials this spring that he wanted to meet soon with his Russian counterpart for a summit, his team quickly set out to make it happen -- even if some wondered what he really hoped to achieve.\n    \n"
+    publishedDateTime: 2021-06-09T06:35:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gd62i9_ww9M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608104620-joe-biden-060421-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "New audio of 2019 phone call reveals how Giuliani pressured Ukraine to investigate baseless Biden conspiracies"
-    excerpt: "Never-before-heard audio, obtained exclusively by CNN, shows how former President Donald Trump's longtime adviser Rudy Giuliani relentlessly pressured and coaxed the Ukrainian government in 2019 to investigate baseless conspiracies about then-candidate Joe Biden.\n    \n"
-    publishedDateTime: 2021-06-07T21:01:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tgMHpcB6CT4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/rudy-giuliani-ukraine-call-investigate-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/rudy-giuliani-ukraine-call-investigate-biden/index.html"
+  - title: "'Watch out for the cicadas!': Biden swats cicada crawling on his neck"
+    excerpt: "Watch as President Joe Biden swats a cicada off his neck after the insect landed on him at Joint Base Andrews before the president departed for his first overseas trip."
+    publishedDateTime: 2021-06-09T14:13:00Z
+    webUrl: "https://www.nbcnews.com/video/-watch-out-for-the-cicadas-biden-swats-cicada-crawling-on-his-neck-114543173533"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114543173533"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114543173533"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607151112-giuliani-file-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'Bernie Sanders has real influence': Vermont's longtime outsider has become a trusted voice in the Biden White House"
-    excerpt: "At first glance, they seem like an odd couple -- Sen. Bernie Sanders, the progressive and quintessential outsider, and President Joe Biden, moderate politician and political insider.\n    \n"
-    publishedDateTime: 2021-06-08T23:00:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/05PdtqLwrsQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/bernie-sanders-gloria-borger-interview-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/bernie-sanders-gloria-borger-interview-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 152
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608172930-bernie-sanders-gloria-borger-interview-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/f_mo_biden_cicada_210609.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Groups put pressure on Biden to fulfill campaign pledge to end solitary confinement"
     excerpt: "More than 130 civil rights and justice groups signed on to a letter calling on the Biden administration to \"end the pain\" of the practice in federal facilities."

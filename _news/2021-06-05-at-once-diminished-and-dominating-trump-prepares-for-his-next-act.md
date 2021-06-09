@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden nixes Trump proposal that would have kicked 3 million off food stamps"
+    excerpt: "In one of its latest steps to erase Trump administration policies, the Biden administration has withdrawn a controversial proposal that could have kicked 3 million Americans off of food stamps and cost nearly 1 million children automatic eligibility for free school meals.\n    \n"
+    publishedDateTime: 2021-06-09T21:22:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RvTXMZPPGw4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001121600-snap-food-stamps-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President Biden revokes Trump executive orders targeting TikTok and WeChat"
     excerpt: "President Joe Biden on Thursday revoked a series of executive orders signed during the Trump administration targeting TikTok, WeChat and other Chinese apps, and replaced them with a new executive order addressing apps linked to foreign adversaries, including China.\n    \n"
     publishedDateTime: 2021-06-09T15:24:35Z
@@ -93,6 +109,22 @@ related:
     quality: 179
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609150900-02-merrick-garland-0609-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden stays mum on state abortion laws with major test ahead for Roe"
+    excerpt: "As more Republican-led states pass abortion bans with the easing of the Covid-19 pandemic, a heated debate has returned to center stage with abortion rights supporters warning of a looming threat to access and anti-abortion activists determined to keep up the momentum.\n    \n"
+    publishedDateTime: 2021-06-06T18:27:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7VGVmHND2_g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -176,19 +208,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden takes the lead role he's always craved in his high-stakes first trip abroad as president"
-    excerpt: "When President Joe Biden told officials this spring that he wanted to meet soon with his Russian counterpart for a summit, his team quickly set out to make it happen -- even if some wondered what he really hoped to achieve.\n    \n"
-    publishedDateTime: 2021-06-09T06:35:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gd62i9_ww9M/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
+  - title: "Biden wants to close the digital divide in the US. Here's what that could look like"
+    excerpt: "The former auto parts warehouse Bill O'Boyle is refurbishing in Wilson, North Carolina, looks like a relic now, but within the next year, he hopes, it will be filled with dozens of people running his fast-growing tech consulting business.\n    \n"
+    publishedDateTime: 2021-06-09T20:37:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JJf9XXaN76I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/infrastructure-broadband-digital-divide/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/infrastructure-broadband-digital-divide/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608104620-joe-biden-060421-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609133741-01-broadband-screengrab-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -208,22 +240,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to meet with UK Prime Minister, Turkish President and other world leaders during first foreign trip"
-    excerpt: "President Joe Biden will meet with United Kingdom Prime Minister Boris Johnson, Turkish President Recep Tayyip Erdogan and other world leaders during his first international trip as President next week, the White House announced Thursday.\n    \n"
-    publishedDateTime: 2021-06-03T15:16:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1tEJfZZ8ul8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/biden-world-leaders-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/biden-world-leaders-trip/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602180257-02-biden-vaccine-remoarks-0602-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden Justice Department Seeks to Defend Trump in Suit Over Rape Denial"
     excerpt: "Donald Trump is facing a defamation lawsuit brought by E. Jean Carroll, who has accused Mr. Trump of raping her."
     publishedDateTime: 2021-06-08T02:48:00Z
@@ -240,19 +256,35 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "US ambassador to Russia warned senators that Biden administration risks repeating predecessors' mistakes in dealing with Putin"
-    excerpt: "The day before the White House announced that President Joe Biden and Russian President Vladimir Putin would hold their first in-person meeting in Geneva, Switzerland, the US ambassador to Russia privately told lawmakers he's worried about Washington giving concessions to Moscow without getting anything"
-    publishedDateTime: 2021-06-08T20:54:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mWPppVrFGe0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/biden-putin-summit-us-ambassador/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/biden-putin-summit-us-ambassador/index.html"
+  - title: "Biden Revokes and Replaces Trump Order That Banned TikTok"
+    excerpt: "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data."
+    publishedDateTime: 2021-06-09T21:46:00Z
+    webUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-order-tiktok.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-order-tiktok.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/09/us/politics/biden-order-tiktok.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/09/us/politics/09dc-TIKTOK-SWAP/09dc-TIKTOK-SWAP-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Democratic lawmakers wanted to call on Biden to form presidential commission on January 6 but were told it wouldn't happen"
+    excerpt: "A group of Democratic members of Congress planned to call on President Joe Biden to form a presidential commission on the January 6 attack at the US Capitol, but they were discouraged by the White House, a congressional source told CNN on Friday.\n    \n"
+    publishedDateTime: 2021-06-04T22:11:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l37nolLsHNA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 147
+    quality: 149
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420124249-us-capitol-dome-0413-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -272,37 +304,21 @@ related:
         width: 2500
         height: 1679
         isCached: true
-  - title: "Trump Administration Secretly Seized Phone Records of Times Reporters"
-    excerpt: "The admission by the Biden Justice Department followed similar recent disclosures to The Washington Post and CNN."
-    publishedDateTime: 2021-06-03T00:22:00Z
-    webUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/02/us/politics/02dc-times-1/merlin_131699588_8a898e52-fc40-459a-8813-84c0b2ec118c-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "More than 2,100 children separated at border 'have not yet been reunified,' Biden task force says"
-    excerpt: "More than 2,100 children separated at the border by Trump administration’s “zero tolerance” program “have not yet been reunified” with their parents, according to the task force working to reunite the families."
-    publishedDateTime: 2021-06-08T11:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/immigration/more-2-100-children-separated-border-have-not-yet-been-n1269918"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269918"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269918"
+  - title: "Trump scraps short-lived blog that was created in wake of social media ban"
+    excerpt: "The former president, who is set to address the North Carolina Republican Party Saturday, wasn't getting much traction with his new outlet."
+    publishedDateTime: 2021-06-02T15:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-scraps-short-lived-blog-n1269337"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269337"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269337"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 122
+    quality: 133
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3481098/210608-border-children-mc-1111.jpg"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479666/210602-donald-trump-jm-1138.jpg"
         width: 2500
-        height: 1667
+        height: 1666
         isCached: true
   - title: "Biden officials urge states to keep expired doses"
     excerpt: "The Biden administration says states should hold onto J&J doses because the expiration date could be extended. — Democrats are struggling to find common ground on drug pricing reforms, as Senate leaders champion different proposals."

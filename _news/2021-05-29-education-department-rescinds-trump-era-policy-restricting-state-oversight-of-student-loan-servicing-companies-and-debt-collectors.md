@@ -447,19 +447,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Democratic lawmakers wanted to call on Biden to form presidential commission on January 6 but were told it wouldn't happen"
-    excerpt: "A group of Democratic members of Congress planned to call on President Joe Biden to form a presidential commission on the January 6 attack at the US Capitol, but they were discouraged by the White House, a congressional source told CNN on Friday.\n    \n"
-    publishedDateTime: 2021-06-04T22:11:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l37nolLsHNA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/january-6-presidential-commission-democratic-lawmakers-white-house/index.html"
+  - title: "US ambassador to Russia warned senators that Biden administration risks repeating predecessors' mistakes in dealing with Putin"
+    excerpt: "The day before the White House announced that President Joe Biden and Russian President Vladimir Putin would hold their first in-person meeting in Geneva, Switzerland, the US ambassador to Russia privately told lawmakers he's worried about Washington giving concessions to Moscow without getting anything"
+    publishedDateTime: 2021-06-08T20:54:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mWPppVrFGe0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/biden-putin-summit-us-ambassador/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/biden-putin-summit-us-ambassador/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 149
+    quality: 147
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420124249-us-capitol-dome-0413-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -524,6 +524,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/05/28/us/politics/28onpolitics/28DC-NEWSLETTER-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Administration Secretly Seized Phone Records of Times Reporters"
+    excerpt: "The admission by the Biden Justice Department followed similar recent disclosures to The Washington Post and CNN."
+    publishedDateTime: 2021-06-03T00:22:00Z
+    webUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/02/us/trump-administration-phone-records-times-reporters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/02/us/politics/02dc-times-1/merlin_131699588_8a898e52-fc40-459a-8813-84c0b2ec118c-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

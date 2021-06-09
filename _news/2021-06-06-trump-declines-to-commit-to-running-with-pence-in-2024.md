@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-declines-to-commit-to-running
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024.amp"
 type: article
 quality: 160
-heat: 220
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -33,53 +33,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pence says he and Trump don’t ‘see eye to eye’ on Jan. 6 — but GOP ‘must move forward’"
-    excerpt: "In a speech in New Hampshire, former Vice President Mike Pence urged Republicans to move forward following the Capitol riot."
-    publishedDateTime: 2021-06-04T00:47:00Z
-    webUrl: "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/"
-    ampWebUrl: "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/amp/"
+  - title: "Police did not clear Lafayette Square so Trump could pose for photo with the Bible, IG says"
+    excerpt: "An Inspector General report found Wednesday that when law enforcement cleared Lafayette Park in front of the White House last June, security was the top priority – not a photo opportunity for Donald Trump."
+    publishedDateTime: 2021-06-09T21:49:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mJE38p4bS9g/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says"
+    ampWebUrl: "https://www.foxnews.com/politics/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 152
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/pence-trump-206.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump Casts Shadow on New Jersey Primary Election"
-    excerpt: "Front-runner Jack Ciattarelli looks to hold off Hirsh Singh, a supporter of the former president, in race for Republican nomination."
-    publishedDateTime: 2021-06-07T18:51:00Z
-    webUrl: "https://www.wsj.com/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-350066/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Republican leaders to summit with Trump over conservative agenda"
-    excerpt: "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week."
-    publishedDateTime: 2021-06-03T16:27:00Z
-    webUrl: "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/"
-    ampWebUrl: "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "4HQIPIU14xVaEQTvD5WLC76L2Lr/7hJibwiErsmgH5+xOOebx5mjn93QrJZ3PJ4ScQDAizAfFUG4kmieiHy6NivEvH43dPgeRtO4bfiIsG1nJES0Rld1gPPFZU5aqZyei+ijAXsyM9yD2Z+GMvLTcI4c8TRxoRowYrIhG3lej0NsEn3HKdTY/U5pmpuxCf+OfZyjDm3FF/jRbEbyItWXSAHAQWEoEdx+4Y6qaru2m3YutMr4mAXDucOW9KeBsQVKWPl6Zjq5Qoc5Fcgf8qPPqY6cK7jRjXuNtRdf1wbg8FskT2u4GZ6moITK10YUEb73VdRuqUvX1OsyvdGIbGqUKy70cf/AbOKJUvTX0inoHsM=;aBxgnaidyc6x38q7OTh9PQ=="

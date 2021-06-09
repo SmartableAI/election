@@ -421,6 +421,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "LA Times Today: Covering Kamala Harris: Visit to Guatemala and Mexico a mix of diplomacy and controversy"
+    excerpt: "Vice President Kamala Harris opened her two-day Central America visit in Guatemala, aimed ultimately at reducing the poverty, violence and corruption that have helped prompt thous"
+    publishedDateTime: 2021-06-09T20:39:00Z
+    webUrl: "https://www.latimes.com/politics/00000179-f1e1-d819-a57b-fde50d4e0000-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 88
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5c106cb/2147483647/strip/true/crop/809x425+0+15/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe3%2Ff0%2F2dd400c34d14a576d82bf31a1129%2Fcovering-kamala-central-america-visit-latt.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris’ stepdaughter Ella Emhoff praises the ‘ugly’ mullet"
     excerpt: "From David Bowie to ‘Rambo’ to K-pop stars, the shaggy haircut comes, goes and is back again. Style icon Ella Emhoff explains its appeal in new Vogue feature."
     publishedDateTime: 2021-06-04T22:36:00Z

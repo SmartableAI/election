@@ -112,64 +112,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-06-trump-declines-to-commit-to-running-with-pence-in-2024.md",
-      "title": "Trump declines to commit to running with Pence in 2024",
-      "excerpt": "Former President Trump tells Fox News he is not ready to re-up with former Vice President Mike Pence on a potential campaign in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024",
-      "originalUrl": "https://www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4789990-fe5d-419e-bc61-b8b73e56e9e3/5a5c023e-50ec-4401-9de9-a6f908ee76cb/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024.amp",
-      "publishedDateTime": "2021-06-06T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-06-05-ted-lieu-doesnt-understand-why-mike-pence-is-even-talking-to-donald-trump-after-capitol-riot.md",
       "title": "Ted Lieu Doesn't 'Understand Why Mike Pence Is Even Talking' To Donald Trump After Capitol Riot",
       "excerpt": "\"Mike Pence didn't have the courage to do what should have been done to protect our Country and our Constitution,\" Trump tweeted as Capitol rioters chanted \"Hang Mike Pence.\"",
@@ -381,6 +323,55 @@
       "topics": [
         "Election",
         "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6-but-gop-must-move-forward.md",
+      "title": "Pence says he and Trump don’t ‘see eye to eye’ on Jan. 6 — but GOP ‘must move forward’",
+      "excerpt": "In a speech in New Hampshire, former Vice President Mike Pence urged Republicans to move forward following the Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/",
+      "originalUrl": "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/pence-trump-206.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/amp/",
+      "publishedDateTime": "2021-06-03T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice",
         "Mike Pence"
       ]
     },

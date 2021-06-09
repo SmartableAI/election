@@ -75,6 +75,26 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "California Latino leaders criticize Kamala Harris’ ‘Do not come’ message to migrants"
+    excerpt: "Seeking asylum in the United States is not only legal but a matter of life and death for many,” the Latino Caucus leaders said."
+    publishedDateTime: 2021-06-09T21:36:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article252006333.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article252006333.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article252006333.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 48
+  - title: "Vice President Kamala Harris' comments on Central American migration draw fire from left and right"
+    excerpt: "Arizona immigration advocacy groups and Republican elected officials from Arizona denounced her comments for different reasons."
+    publishedDateTime: 2021-06-09T18:56:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/border-issues/2021/06/09/vice-president-harris-comments-central-american-migration-united-states-draw-ire/7611779002/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 21
 
 secured: "Y476ViOAKsJuZz3p9AdF2+I8z7x84JXk69gBNuXocVnfMJBvNpjEJTHPhmW6g5X0TF4sjyEbtBRlYjEA2iAEztICw6iwQdZeZy0l7ccaLn87m/PZ/S6588zOJtjv34oQzXE74XeHPMJqZXsjmA3As0Wt1YKaLhvTVFi8AjhmX2hi8UIAZfvIR1l8EKksKFcq/YeUsv5x+oDjsEKmmdUrEqHsgI14QB3SIdEHnikAcprSDuCvozaifVySrtlWdl25sh8eALGTS3IV4B5F+8WM3m6QYhevRP5b07KgIrOI8uDPLmH7V4bi19DEqmjUC05epc0aAj35WzyYh4GAuJ0M0RVsY8s7Rsey/x+zu0aoIY+Dzo+VNwoOkzojaYTeOcwlSoeOMML3AV61Hc3CFtFILmcLZcq2vnY63bqyzVBI5Vr8tHqUFeOinHkD7A5+akjWRI4NtaHKR/vHB8Zu1wPGVL8KiMmCkvAaQPR8QLJqZI+V7PV7pnNhN2Fmsn0WhTH89dhCvAJ1FGw9DuU7ZE7dBw==;lOo9CGlwOaT0BeMgneHMSQ=="
 ---

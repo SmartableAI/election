@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden warns he'll tell Putin 'what I want him to know' as he defines goals of foreign tour"
+    excerpt: "President Joe Biden told a hangar of US troops on Wednesday he was in Europe to defend the very concept of democracy, setting high stakes for his first presidential trip abroad and warning Russian President Vladimir Putin he planned to raise touchy issues during their upcoming summit.\n    \n"
+    publishedDateTime: 2021-06-09T21:32:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LstL0kyivUw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-troops-europe-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-troops-europe-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609162257-08-biden-uk-0508-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "i0bZ7Mt78y6NRkqr75YzX1uAKjpyPmmfl1yF1GbfEP8UwSskFiLFimXi8k3yTJ+sbfLpTom/t6xUjaZh5BXsAQM3UBe4M5VH4sI2qbkUX/pUmD2nj8zn0Dep0+yf+mK9P4NPKZFJ+R8Qdj9r8wNPjQ+wdPror2KL08CEGBp3BcJjRqq8hwKhjvkbZogQJ5WKx1IGJP50CI0ccYO7kMae+euf3sgcMtcnOOX5oKrO1Cl6Gz1yFN0SbktLsRNOsTkFtIGoLmQjTEYo4z5Xmm0VkVv+2pI0+csIm6OT1YJkDTJmsbkIOoUg6ZukD4JiiMR0Nw8QVakSDjE7He+d8YTgxIZ8eBdwXzTyN/SPq3/3gOI=;jiLjOm93uy2yLpdHWwKgxw=="
 ---

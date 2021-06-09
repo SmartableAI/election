@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-plane-20210606-f4h7wrblsffljilds2rkw2jwhm-story.html?outputType=amp"
 type: article
 quality: 123
-heat: 183
+heat: 223
 published: true
 
 provider:
@@ -79,6 +79,26 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "California Latino leaders criticize Kamala Harris’ ‘Do not come’ message to migrants"
+    excerpt: "Seeking asylum in the United States is not only legal but a matter of life and death for many,” the Latino Caucus leaders said."
+    publishedDateTime: 2021-06-09T21:36:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article252006333.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article252006333.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article252006333.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 48
+  - title: "Vice President Kamala Harris' comments on Central American migration draw fire from left and right"
+    excerpt: "Arizona immigration advocacy groups and Republican elected officials from Arizona denounced her comments for different reasons."
+    publishedDateTime: 2021-06-09T18:56:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/border-issues/2021/06/09/vice-president-harris-comments-central-american-migration-united-states-draw-ire/7611779002/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 21
 
 secured: "Tb/2TKxvPeuIU6uQ8PCw2WdZ7mLEJ8F3uHfrOuAszWnFf+T8XAv5TaBvM1Xmjh/xfLAcoURNdJrgfJuz3kqb3t2AlxVZXNYbeX6HMtaDh+b06gNcri/pRN8yrUM/de36oIk4ydRFb7VRSFnBTyGNmtF6/aeNsO9UNR1Ed3fMi1jS1tCq2uKG0oX6eSNMl67FQZ28ZwrxC5Uw575MKslTOxRgu1aWYks6dw7B69Lu+mCqn0/YJsYLMfQW7qgesTlcdMLDk5hgvVDLW4QjlGQ1KoiHvosLxWHd4p7c1o9GKtBN0Kzc63Hhtf7D96PFMOqen9JfrvkLiyFRCPQ0K5LQ+VB+4jioKE7yoq35/zXXpZ7HD70a0wA9zKLAwqs6F+lTTpUG9aMzZC1FigLseZp/vVlOagxuvAEsplBNN5o310UP6iDXmKKUADgT05e6Vrrk/OPNLILV2yBZdRdvco6MMOVgFZ0bu7dTASEacqc9QPPgZqgFNga8PSgSLmJV4vuH1SzH4/uUkf5Q06GQQ6r3/w==;kLmtet9D6CwDdonn2jfwHw=="
 ---

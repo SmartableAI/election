@@ -195,7 +195,7 @@ related:
   - title: "Biden Should Make China Pay"
     excerpt: "President Joe Biden heads to Europe Wednesday to meet with European leaders. He says the goal is to work together to"
     publishedDateTime: 2021-06-09T10:13:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
     type: article

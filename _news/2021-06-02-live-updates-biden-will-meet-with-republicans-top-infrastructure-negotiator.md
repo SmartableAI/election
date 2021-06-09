@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html"
 type: article
 quality: 132
-heat: 132
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,6 +30,40 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Biden stuck relying on transatlantic phone calls to salvage infrastructure priorities"
+    excerpt: "President Joe Biden came to Europe this week in part because he's grown tired of virtual meetings and telephone calls with world leaders, which he believes can't capture the essence of a face-to-face relationship.\n    \n"
+    publishedDateTime: 2021-06-09T19:34:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609131925-01-biden-overseas-trip-0609-white-house-departure-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Live Updates: Biden Departs for Europe to Bolster Alliances"
+    excerpt: "President Biden, in the first foreign trip of his term, will make the case that America is back and ready to lead anew. Before he left, Mr. Biden cut off infrastructure talks with Republicans that had failed to yield a deal,"
+    publishedDateTime: 2021-06-09T08:43:00Z
+    webUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/09/world/09dc-tiktok-1/09dc-tiktok-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "b2ChhmXRE724BN39LYOc+8ah/u8SSaxx9wKTkXFkt0EM398ACP/vkhpSO3KgD4gAXN6cKfoYtNF5+ojNNfEdVpjhIYn7BRFDDhYZ8sHuqqlTdXAZ047ZQI2qw7sKT8hQyuSNFl/Mx0BLfqjLDkcYw5CWXDXQW/ZHzGeQiqym5W7pa2qe8OeMm9lcGeKZnfIZWIqR1Ir9rQOYIPraZtUfKaPfozcPNZeP/kwcOJPOKJ9i75v1fu7XGMks5qSa9EPNivWuJlkXFG8IocJpNEVmHRRmtXERu5J3lYU82pbK3++WV6Ajtt6ygbX4mSoFuQ8Uc7F0AAhNzcALQVlYf55OD0HXvQ7eglFDEx2YJS3GM8FDh2Tbu82/ssFYAl6oLDv0q16dD05Gu+UmDythe+3Bz7nGrBxZWplwkkAfWc2MTGFe1EohaDXbnHKoMuwILlp8EErXw/HF6Zhnj87Tdh8JnyPM90THV1ggrKhmbMTw3NRQ8AePTmrh/GnxK/19WpEQQ+EBZVgXy/7dcfCWamUNCw==;OtNoC1KSges9PKYfZjCx5g=="
 ---

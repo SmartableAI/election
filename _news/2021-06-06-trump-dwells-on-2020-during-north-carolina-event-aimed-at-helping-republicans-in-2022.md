@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump scraps short-lived blog that was created in wake of social media ban"
-    excerpt: "The former president, who is set to address the North Carolina Republican Party Saturday, wasn't getting much traction with his new outlet."
-    publishedDateTime: 2021-06-02T15:59:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-scraps-short-lived-blog-n1269337"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269337"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269337"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3479666/210602-donald-trump-jm-1138.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "Trump backers lose big as Ciattarelli claims GOP nomination in New Jersey"
     excerpt: "Jack Ciattarelli’s victory is likely a relief to the more moderate members of New Jersey’s GOP establishment who watched their already-minority party lose ground during Trump’s presidency."
     publishedDateTime: 2021-06-09T03:34:00Z

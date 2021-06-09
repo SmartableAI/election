@@ -2,6 +2,394 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-ig-says.md",
+      "title": "Police did not clear Lafayette Square so Trump could pose for photo with the Bible, IG says",
+      "excerpt": "An Inspector General report found Wednesday that when law enforcement cleared Lafayette Park in front of the White House last June, security was the top priority – not a photo opportunity for Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mJE38p4bS9g/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mJE38p4bS9g/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says.amp",
+      "publishedDateTime": "2021-06-09T14:49:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-house-democrats-release-former-trump-white-house-counsel-don-mcgahns-testimony.md",
+      "title": "House Democrats release former Trump White House Counsel Don McGahn's testimony ",
+      "excerpt": "The House Judiciary Committee has released the transcript of its June 4 interview with Trump White House Counsel Don McGahn, the culmination of a two-year court fight Democrats waged against the Trump administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqtUtVn9cO8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqtUtVn9cO8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191125183648-03-don-mcgahn-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/don-mcgahn-transcript-released/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/don-mcgahn-transcript-released/index.html",
+      "publishedDateTime": "2021-06-09T14:47:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-trumps-former-white-house-counsel-says-he-felt-frustrated-perturbed-trapped-when-trump-asked-him-to-help-fire-mueller.md",
+      "title": "Trump's former White House counsel says he felt 'frustrated, perturbed, trapped' when Trump asked him to help fire Mueller",
+      "excerpt": "White House counsel said he felt \"frustrated, perturbed, trapped\" when Trump asked for his help firing Mueller. He also said that he tried to \"get off the phone\" when Trump raised the subject. Don McGahn made the comments while testifying to Congress last week about the Mueller probe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mcgahn-testimony-frustrated-perturbed-trapped-trump-asked-help-fire-mueller-2021-6",
+      "originalUrl": "https://www.businessinsider.com/mcgahn-testimony-frustrated-perturbed-trapped-trump-asked-help-fire-mueller-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609ceea9070a690018af4fac?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mcgahn-testimony-frustrated-perturbed-trapped-trump-asked-help-fire-mueller-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcgahn-testimony-frustrated-perturbed-trapped-trump-asked-help-fire-mueller-2021-6?amp",
+      "publishedDateTime": "2021-06-09T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-biden-nixes-trump-proposal-that-would-have-kicked-3-million-off-food-stamps.md",
+      "title": "Biden nixes Trump proposal that would have kicked 3 million off food stamps",
+      "excerpt": "In one of its latest steps to erase Trump administration policies, the Biden administration has withdrawn a controversial proposal that could have kicked 3 million Americans off of food stamps and cost nearly 1 million children automatic eligibility for free school meals.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RvTXMZPPGw4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RvTXMZPPGw4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 568,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201001121600-snap-food-stamps-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html",
+      "publishedDateTime": "2021-06-09T14:22:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-ex-officer-trump-impeachment-manager-and-now-senate-candidate-who-is-rep-val-demings.md",
+      "title": "Ex-officer, Trump impeachment manager and now Senate candidate: Who is Rep. Val Demings",
+      "excerpt": "Rep. Val Demings' Senate run provides Democrats with a prominent, nationally recognized candidate to challenge Republican incumbent Sen. Marco Rubio, a formidable opponent, in next year's general election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xU4dG_WxMb0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xU4dG_WxMb0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210609120121-01-val-demings-file-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/who-is-val-demings/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/who-is-val-demings/index.html",
+      "publishedDateTime": "2021-06-09T14:13:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-biden-warns-climate-change-is-greatest-threat-to-us-security-this-is-not-a-joke.md",
+      "title": "Biden warns climate change is 'greatest threat' to US security: 'This is not a joke'",
+      "excerpt": "President Biden warned military servicemembers Wednesday that top Pentagon officials consider climate change to be the “greatest threat” to America’s national security in the coming years.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7M06ZqB3w-I/biden-climate-change-greatest-threat-us-security",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7M06ZqB3w-I/biden-climate-change-greatest-threat-us-security",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-climate-change-greatest-threat-us-security.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-climate-change-greatest-threat-us-security.amp",
+      "publishedDateTime": "2021-06-09T13:56:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-biden-waiving-nord-stream-2-pipeline-sanctions-puts-us-at-competitive-disadvantage-gop-leader-mccarthy.md",
+      "title": "Biden waiving Nord Stream 2 pipeline sanctions puts US at 'competitive disadvantage': GOP leader McCarthy",
+      "excerpt": "House Minority Leader Kevin McCarthy, R-Calif., ripped President Biden’s decision to waive sanctions on the Russia-backed Nord Stream 2 pipeline, arguing the move would hurt the U.S. economy and geopolitical interests.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uei185eeHYA/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uei185eeHYA/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9effcbb3-b713-47d7-bef3-5aa43c57b4d4/9fa727a2-00b4-4232-a155-442dc4e5f534/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy.amp",
+      "publishedDateTime": "2021-06-09T13:14:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-watchdog-report-finds-park-police-did-not-clear-racial-injustice-protesters-from-lafayette-park-for-trumps-visit-to-st-johns-church-last-june.md",
       "title": "Watchdog report finds Park Police did not clear racial injustice protesters from Lafayette Park for Trump's visit to St. John's Church last June",
       "excerpt": "The US Park Police did not clear racial injustice protesters from Lafayette Park to allow for then-President Donald Trump's march to St. John's Church last June, but instead did so to allow a contractor to install a fence safely around the White House, according to a new inspector general report.\n  ",
@@ -58,25 +446,25 @@
       ]
     },
     {
-      "path": "_news/2021-06-10-trump-hosts-fundraiser-for-new-gop-chair-rep-elise-stefanik.md",
-      "title": "Trump hosts fundraiser for new GOP chair Rep. Elise Stefanik",
-      "excerpt": "Former President Donald Trump is hosting a fundraiser for upstate GOP Rep. Elise Stefanik at his golf course in Bedminster, New Jersey Wednesday night, the Post reveals.",
+      "path": "_news/2021-06-09-biden-stuck-relying-on-transatlantic-phone-calls-to-salvage-infrastructure-priorities.md",
+      "title": "Biden stuck relying on transatlantic phone calls to salvage infrastructure priorities",
+      "excerpt": "President Joe Biden came to Europe this week in part because he's grown tired of virtual meetings and telephone calls with world leaders, which he believes can't capture the essence of a face-to-face relationship.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/",
-      "originalUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html",
       "featuredContent": null,
       "highlight": {
-        "text": "Republican Voice",
+        "text": "Democratic Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
+        "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 208,
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Elise-Stefanik.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210609131925-01-biden-overseas-trip-0609-white-house-departure-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -84,14 +472,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/",
-      "publishedDateTime": "2021-06-09T12:40:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html",
+      "publishedDateTime": "2021-06-09T12:34:41-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -101,8 +498,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Republican Voice"
+        "Democratic Voice"
       ]
     },
     {
@@ -160,62 +556,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-president-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat.md",
-      "title": "President Biden revokes Trump executive orders targeting TikTok and WeChat",
-      "excerpt": "President Joe Biden on Thursday revoked a series of executive orders signed during the Trump administration targeting TikTok, WeChat and other Chinese apps, and replaced them with a new executive order addressing apps linked to foreign adversaries, including China.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VA8YOWgxUS4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VA8YOWgxUS4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 548,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210215164326-11-tiktok---stock-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/tiktok-wechat-executive-order/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/tiktok-wechat-executive-order/index.html",
-      "publishedDateTime": "2021-06-09T08:24:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -327,25 +667,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-09-watch-out-for-the-cicadas-biden-swats-cicada-crawling-on-his-neck.md",
-      "title": "'Watch out for the cicadas!': Biden swats cicada crawling on his neck",
-      "excerpt": "Watch as President Joe Biden swats a cicada off his neck after the insect landed on him at Joint Base Andrews before the president departed for his first overseas trip.",
+      "path": "_news/2021-06-09-hud-to-reinstate-obama-era-fair-housing-rule-gutted-under-trump-minus-the-burdensome-reporting-requirement.md",
+      "title": "HUD to reinstate Obama-era fair housing rule gutted under Trump — minus the ‘burdensome’ reporting requirement",
+      "excerpt": "Biden's housing department is restoring the requirement that communities take steps to reduce racial segregation or risk losing federal funds. But missing from the requirement is the 2015 mandate that communities undergo an extensive analysis of local barriers to integration and submit plans to dismantle them to the Department of Housing and Urban Development.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/-watch-out-for-the-cicadas-biden-swats-cicada-crawling-on-his-neck-114543173533",
-      "originalUrl": "https://www.nbcnews.com/video/-watch-out-for-the-cicadas-biden-swats-cicada-crawling-on-his-neck-114543173533",
+      "webUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/",
+      "originalUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
+      "highlight": null,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/f_mo_biden_cicada_210609.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G7ZU6FWDNYI6XCNEW6XCFKQZHY.jpg&w=1440",
+          "width": 1440,
+          "height": 956,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -353,16 +689,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo114543173533",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114543173533",
-      "publishedDateTime": "2021-06-09T07:13:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/?outputType=amp",
+      "publishedDateTime": "2021-06-09T07:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -379,8 +715,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
-        "Democratic Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -765,7 +1100,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 173,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -858,54 +1193,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-trump-backs-nigeria-on-twitter-ban-says-more-countries-should-follow-suit.md",
-      "title": "Trump backs Nigeria on Twitter ban, says more countries should follow suit",
-      "excerpt": "The former US president, who himself is banned from the social media platform, defended the West African nation’s decision to block Twitter saying all speech should be heard,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/08/trump-backs-nigeria-on-twitter-ban-says-more-countries-should-too/",
-      "originalUrl": "https://nypost.com/2021/06/08/trump-backs-nigeria-on-twitter-ban-says-more-countries-should-too/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/08/trump-backs-nigeria-on-twitter-ban-says-more-countries-should-too/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/08/trump-backs-nigeria-on-twitter-ban-says-more-countries-should-too/amp/",
-      "publishedDateTime": "2021-06-08T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -1075,278 +1362,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-senate-confirms-first-biden-judicial-nominee-as-schumer-promises-to-move-swiftly-on-picks.md",
-      "title": "Senate confirms first Biden judicial nominee as Schumer promises to move 'swiftly' on picks",
-      "excerpt": "The Senate Tuesday confirmed the first of President Biden's judicial nominees to a federal district court, starting a long effort for Biden and Senate Democrats to match the massive number of judges confirmed under former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JDTVzLlV4A/senate-confirms-first-biden-judicial-nominee-schumer-promises-swiftly",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JDTVzLlV4A/senate-confirms-first-biden-judicial-nominee-schumer-promises-swiftly",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/senate-confirms-first-biden-judicial-nominee-schumer-promises-swiftly.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-first-biden-judicial-nominee-schumer-promises-swiftly.amp",
-      "publishedDateTime": "2021-06-08T11:25:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.md",
-      "title": "Joe Manchin is opposing big parts of Biden's agenda as the Koch network pressures him",
-      "excerpt": "The Koch network has been actively pressuring Democratic Sen. Joe Manchin to oppose key legislative items linked to Biden's agenda.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html",
-      "originalUrl": "https://www.cnbc.com/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106893398-1623092822612-gettyimages-1320525423-a16i4160_20210528123535910.jpeg?v=1623092878",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html",
-      "publishedDateTime": "2021-06-08T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-biden-administration-threatens-texas-with-legal-action-over-migrant-detention-facility-closures.md",
-      "title": "Biden administration threatens Texas with legal action over migrant detention facility closures",
-      "excerpt": "The Biden administration threatened Monday to pursue legal action if Texas Gov. Greg Abbott doesn't rescind his order shutting down federally funded shelters that house migrant children who cross the U.S.-Mexico border without their parents.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qJLj2R4uKfQ/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qJLj2R4uKfQ/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad8cee42-560c-45e5-81a1-4caa19116439/a14c9b64-5a8f-467d-a060-ec6795af2393/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures.amp",
-      "publishedDateTime": "2021-06-08T03:49:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-new-jersey-republicans-weigh-loyalty-to-trump-in-tuesdays-gubernatorial-primary.md",
-      "title": "New Jersey Republicans weigh loyalty to Trump in Tuesday's gubernatorial primary",
-      "excerpt": "Republicans in New Jersey will choose Tuesday between an establishment-backed candidate for governor who would prefer to avoid the topic of former President Donald Trump and contenders who have forcefully embraced Trump's lies about the 2020 election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wlG3q_Xs6LA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wlG3q_Xs6LA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210607180658-nj-primary-gov-candidates-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/08/politics/new-jersey-republican-governors-primary/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/new-jersey-republican-governors-primary/index.html",
-      "publishedDateTime": "2021-06-08T03:00:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump.md",
-      "title": "First Thing: ‘Teflon Don no more’ as legal threats mount against Trump",
-      "excerpt": "Former president faces increasingly serious legal issues as he teases a 2024 run. Plus, how cicada-phobes are surviving Brood X",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/07bee087791bd38b55d1955b5f487d8c24217a92/0_105_2404_1443/master/2404.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f52110a3c1d23a5f659f64d8bd43a54e",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump",
-      "publishedDateTime": "2021-06-08T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

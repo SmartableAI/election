@@ -409,6 +409,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "LA Times Today: Covering Kamala Harris: Visit to Guatemala and Mexico a mix of diplomacy and controversy"
+    excerpt: "Vice President Kamala Harris opened her two-day Central America visit in Guatemala, aimed ultimately at reducing the poverty, violence and corruption that have helped prompt thous"
+    publishedDateTime: 2021-06-09T20:39:00Z
+    webUrl: "https://www.latimes.com/politics/00000179-f1e1-d819-a57b-fde50d4e0000-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 88
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5c106cb/2147483647/strip/true/crop/809x425+0+15/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe3%2Ff0%2F2dd400c34d14a576d82bf31a1129%2Fcovering-kamala-central-america-visit-latt.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Harris seeks to defy history with Central America mission"
     excerpt: "Vice President Kamala Harris will make her first foray into international diplomacy on the border situation this weekend, heading to Central American to do some nation-building with a promise of $4 billion in American cash,"
     publishedDateTime: 2021-06-04T19:19:00Z
@@ -770,6 +784,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "sJL6ql07N+h1efh4h0YT8UTjuORnwVYNkb0XOXydSI9PLfjBNsS42iJHH2+JGJs8F7VBI7kiQGxv5seY2kPvhplgSenA9ZUyAynfT18FE3ethg+sngKHpvUX6bgTDiQApBx5aO9dO9drOb0sUm5WUIBOTyuCmFgubivlfbICmtybu0kahaqA79OUTV3XcoPPMnabSIhKnmavrPIT/z1kvIhzVFbTtaTLmynpC0ZkiX7dPyg/zZloWgGol6jEgzRI7j7DFTHTUhxcoylsuG3VjWiIuVWyWEsdWfMFfpaGg2kkh91NyUbScfpob/eEMJiip3Wv5aopnaT3cDgKr/8t0nLvx9yHSZjSYNcr9hThmN4=;wXwsqGrbALcbacWUFwOG8w=="
+secured: "+2L/VeNtrI+6aT/sLEpQzeSZENlGOR2jkRHbIF3bIy88GvcT3teZPk2NsjV6G6MT5QYrhfxrP+gRWlWXPvQjjW5tojS12vAqZCl00Rs75nKmRUBp9IGfGp9L715bqQ2OpKS7PH/v/Krg3yLyV3W7T9C/ERj8QX8acZOi4N/4Q66MxG1lnRmHH0Ee1DDhgvRAMpdA/cE09m5NOzfjSPr9vqY++4OEwFeKky+8GaLXOx2No1WZvEgGHRuCJG6QabsBoHmQIB6Z3CEjErVGmRtzFkiwdfiNadvcaD9Yu4wQh7FSKKXDhcLgC9GN04/tBjK+9leZbvt0AdI7S8VvLqCMbctnWeaajoTTY5WA4ZgQ5OZSbTGHvL/YheLnMCWjF6Le6aOpmC3F92hNKooFxv9b/XoePOIudAVIrD7/q18kPKZY2qU/PKJDTRlUeHvBUbCJEnEagrW3lbfYWLDlV7BoFnF0Kle1CZBGmcyQ+6gU78YD8Cvvm5g0IBXir1o7H1tkqDFcXsDbaR/5+l4bgViHKQ==;asuR/nLtfSoA2CJrHb6Vww=="
 ---
 

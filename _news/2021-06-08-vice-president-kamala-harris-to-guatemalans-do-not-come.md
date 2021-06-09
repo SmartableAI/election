@@ -456,6 +456,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Dana Perino: Kamala Harris’ border assignment ‘baffling’ from the beginning, only answer is to ‘just go’"
+    excerpt: "\"America’s Newsroom\" co-host and former White House press secretary Dana Perino joined \"The Story\" Wednesday to discuss the blowback Vice President Kamala Harris is facing over her first foreign trip."
+    publishedDateTime: 2021-06-09T21:32:00Z
+    webUrl: "https://www.foxnews.com/media/dana-perino-kamala-harris-border-assignment-baffling-go"
+    ampWebUrl: "https://www.foxnews.com/media/dana-perino-kamala-harris-border-assignment-baffling-go.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/dana-perino-kamala-harris-border-assignment-baffling-go.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/232704ae-d011-4e2a-b429-000a8830c533/0c061f1d-7667-4a20-a764-63d0930b6fe2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Bret Baier: Kamala Harris’ border message is difference between campaigning and governing"
     excerpt: "Fox News chief political anchor Bret Baier joined \"America Reports\" Tuesday to discuss Vice President Kamala Harris seemingly laughing off questions about visiting the US-Mexico border to witness the migrant crisis firsthand."
     publishedDateTime: 2021-06-08T21:07:00Z

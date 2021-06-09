@@ -2,6 +2,119 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-03-trump-to-speak-at-dallas-cpac-event-in-july.md",
+      "title": "Trump to speak at Dallas CPAC event in July",
+      "excerpt": "Former President Donald Trump will speak at the Conservative Political Action Conference (CPAC) event in Dallas in July, Fox News has learned, in what will be one of his most high-profile speaking engagements since leaving the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5_iclN1pLk0/trump-speak-dallas-cpac-event-july",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5_iclN1pLk0/trump-speak-dallas-cpac-event-july",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.amp",
+      "publishedDateTime": "2021-06-03T12:30:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-flashback-ted-koppel-predicted-cnn-ratings-would-be-in-the-toilet-without-donald-trump.md",
+      "title": "FLASHBACK: Ted Koppel predicted CNN ratings 'would be in the toilet without Donald Trump'",
+      "excerpt": "Veteran journalist Ted Koppel said “CNN's ratings would be in the toilet without Donald Trump” in a 2018 interview, words that appear prescient as the liberal network's numbers continue to fall without its nemesis in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump",
+      "originalUrl": "https://www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18c8a7d9-22e9-4c2b-8acd-d0628fefb0ab/e659bf02-7679-45ea-8c23-d27c2bd8c917/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump.amp",
+      "publishedDateTime": "2021-06-03T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-biden-to-meet-with-queen-elizabeth-ii-at-windsor-castle-on-june-13.md",
       "title": "Biden to meet with Queen Elizabeth II at Windsor Castle on June 13",
       "excerpt": "President Biden and first lady Jill Biden are set to meet with Queen Elizabeth II at Windsor Castle during his trip to Europe next month for the G-7 summit, the palace said Thursday. ",
@@ -418,54 +531,6 @@
       "ampWebUrl": "https://nypost.com/2021/06/01/fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show/amp/",
       "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/01/fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show/amp/",
       "publishedDateTime": "2021-06-01T20:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-trump-jr-accuses-ny-ag-james-of-persecution-in-trump-organization-probe.md",
-      "title": "Trump Jr. accuses NY AG James of ‘persecution’ in Trump Organization probe",
-      "excerpt": "Donald Trump Jr. claimed that the New York Attorney General’s probe into the Trump Organization is a form of “political persecution.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/",
-      "originalUrl": "https://nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/don-jr-letitia-james-016.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/amp/",
-      "publishedDateTime": "2021-06-01T19:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Post",
@@ -1590,62 +1655,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-biden-cant-imagine-anyone-opposing-a-commission-to-investigate-jan-6.md",
-      "title": "Biden ‘can’t imagine’ anyone opposing a commission to investigate Jan 6.",
-      "excerpt": "President Biden said he “can’t imagine” why Republicans would vote against the Jan. 6 riot commission, as legislation to form the probe stalls in the Senate.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cfm_9gsZ34Y/biden-commission-jan-6-riot",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cfm_9gsZ34Y/biden-commission-jan-6-riot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cefafe0f-1e02-4a31-bfc0-3334dd54497b/3f902d84-a3fe-4d47-a9e3-e9096262c137/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-commission-jan-6-riot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-jan-6-riot.amp",
-      "publishedDateTime": "2021-05-27T15:25:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

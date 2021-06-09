@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/06/03/facebook-will-end-special-treatment-fo
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/facebook-will-end-special-treatment-for-politicians-after-trump-ban/amp/"
 type: article
 quality: 135
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-FB-inset.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Facebook Suspends Donald Trump for at Least Two Years"
-    excerpt: "The company said it would revisit the decision two years from the date of its initial move to suspend him on Jan. 7."
-    publishedDateTime: 2021-06-04T22:33:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-349049/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "n4dt282/0i5zBv1h5I0fWBhmxNUZTscdC3s3dO4QjkMoZXHd4VMFUHXPcy4xNQK6kAcxIwkLXehbAvAXxSCRNVFaOUpbti4NWszLq2wLkrTvj4Hp0dVLh0Emx8OKC8joRJuZFv4RWuW0sKdrA+Fa+GC8NEIeRxC5AEp69ieyjwFwKMknLMLqBm1NNYOTFqhc5dnP0XEjDE0GIJDQF2kByfih29mm4Mic6jolJsxDvk5hjlPF8f/ydj8CPQWihV95p4F3+F+NBfgPv2u1M6MQjGGN3cS6pSwV/zeJaWPQ2LynsSY8mBCgliCk8NplDG61QuTVm69xtEQvNvhcvJu4LunzLlB2UIWESrnzw19NMEE=;k4jeklCskauzuN9JHHUoBw=="

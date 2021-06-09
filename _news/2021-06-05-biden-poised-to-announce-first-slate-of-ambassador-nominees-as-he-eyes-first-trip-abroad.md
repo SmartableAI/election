@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden stays mum on state abortion laws with major test ahead for Roe"
-    excerpt: "As more Republican-led states pass abortion bans with the easing of the Covid-19 pandemic, a heated debate has returned to center stage with abortion rights supporters warning of a looming threat to access and anti-abortion activists determined to keep up the momentum.\n    \n"
-    publishedDateTime: 2021-06-06T18:27:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7VGVmHND2_g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden has paused a public option. Nevada is about to try its own. "
     excerpt: "A federal public option isn't happening anytime soon, so Nevada officials are creating their own.\n    \n"
     publishedDateTime: 2021-06-07T11:18:43Z
@@ -63,101 +47,67 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Queen Elizabeth announces she'll meet President Biden at Windsor Castle this month"
-    excerpt: "Britain's Queen Elizabeth will welcome US President Joe Biden to Windsor Castle on June 13, Buckingham Palace announced on Thursday.\n    \n"
-    publishedDateTime: 2021-06-03T13:54:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E8Ozs7YBfpc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/queen-elizabeth-joe-biden-meeting-scli-intl-gbr/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/queen-elizabeth-joe-biden-meeting-scli-intl-gbr/index.html"
+  - title: "Biden takes the lead role he's always craved in his high-stakes first trip abroad as president"
+    excerpt: "When President Joe Biden told officials this spring that he wanted to meet soon with his Russian counterpart for a summit, his team quickly set out to make it happen -- even if some wondered what he really hoped to achieve.\n    \n"
+    publishedDateTime: 2021-06-09T06:35:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gd62i9_ww9M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210526112357-biden-queen-elizabeth-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608104620-joe-biden-060421-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden spoke with prominent critic Larry Summers on economy after inflation warnings "
-    excerpt: "President Joe Biden called prominent Democratic economist Larry Summers to discuss the economy after he raised several warnings recently over his inflation concerns, a source familiar with the call confirms to CNN.\n    \n"
-    publishedDateTime: 2021-06-03T21:20:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rSJcaj42s5Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/larry-summers-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/larry-summers-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190829144518-larry-summers-file-2015-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden stuck relying on transatlantic phone calls to salvage infrastructure priorities"
-    excerpt: "President Joe Biden came to Europe this week in part because he's grown tired of virtual meetings and telephone calls with world leaders, which he believes can't capture the essence of a face-to-face relationship.\n    \n"
-    publishedDateTime: 2021-06-09T19:34:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609131925-01-biden-overseas-trip-0609-white-house-departure-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Bipartisan lawmakers call on Biden to 'immediately' evacuate Afghans who helped the US"
-    excerpt: "A bipartisan group of lawmakers is calling on the Biden administration to immediately evacuate thousands of Afghans who have assisted the United States, saying in a letter Friday that those \"Afghan friends and allies are at greater risk than ever before\" as the US military withdrawal from the country"
-    publishedDateTime: 2021-06-04T20:37:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l7U_X9Da6jA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/afghanistan-siv-bipartisan-letter/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/afghanistan-siv-bipartisan-letter/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210523082033-afghan-translators-holmes-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "A favored Biden timeline for politically-charged decisions: Later"
-    excerpt: "The president seems to be reaching for a traditional executive branch stalling tactic at a higher rate than his predecessors."
-    publishedDateTime: 2021-06-05T08:35:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/favored-biden-timeline-politically-charged-decisions-later-n1269721"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269721"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269721"
+  - title: "'Watch out for the cicadas!': Biden swats cicada crawling on his neck"
+    excerpt: "Watch as President Joe Biden swats a cicada off his neck after the insect landed on him at Joint Base Andrews before the president departed for his first overseas trip."
+    publishedDateTime: 2021-06-09T14:13:00Z
+    webUrl: "https://www.nbcnews.com/video/-watch-out-for-the-cicadas-biden-swats-cicada-crawling-on-his-neck-114543173533"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114543173533"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114543173533"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480531/210604-joe-biden-ac-742p.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/f_mo_biden_cicada_210609.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Live Updates: Biden Departs for Europe to Bolster Alliances"
-    excerpt: "President Biden, in the first foreign trip of his term, will make the case that America is back and ready to lead anew. Before he left, Mr. Biden cut off infrastructure talks with Republicans that had failed to yield a deal,"
-    publishedDateTime: 2021-06-09T08:43:00Z
-    webUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
+  - title: "Groups put pressure on Biden to fulfill campaign pledge to end solitary confinement"
+    excerpt: "More than 130 civil rights and justice groups signed on to a letter calling on the Biden administration to \"end the pain\" of the practice in federal facilities."
+    publishedDateTime: 2021-06-07T14:00:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/groups-put-pressure-biden-fulfill-campaign-pledge-end-solitary-confinement-n1269684"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269684"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269684"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
     images:
-      - url: "https://static01.nyt.com/images/2021/06/09/world/09dc-tiktok-1/09dc-tiktok-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_14/3291041/200331-federal-prison-illinois-1989-ac-826p-3291041.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
+  - title: "Biden, Putin urged to seek nuclear breakthrough"
+    excerpt: "U.S. and Russian arms control experts are pleading for steps to reduce the nuclear threat in the presidential summit. — A former Pentagon No. 2 has good things to say about the new defense budget, with one major caveat."
+    publishedDateTime: 2021-06-08T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/06/08/biden-putin-urged-to-seek-nuclear-breakthrough-795808"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "bS+mENln7vROeKEeFPFMOBoCQ//FJxILVuYi3xCH7VmKdmVkDFgYTiijVD8xfnNNiAuckLMGtjUp4lyVfKMgcLxid0HxBiNBCx33bbcuSc/LOO5b+pcMEfMt2qbXhW+nUpmtmYTfS0haOQZztV4Y/VXhnpAP/bU/G4wWQui+KvrqcEbbgL5H+Lp99Xs442Wa/RbOkLiv4g2XXhNHZyEaSpY6cQbarnfxdzt5zfI/eMnboa4WAnI/YL+w/j1s2lUhk7HwnNxlr1x5Cay78pF+H2/LQd0GAxE5IGA2OWoorDp2aEevqmUVsrp54AgsoN+EN5bOvKbgjInZjlbYtrcwFy/e5gZMCSRK2L6w6YGpC5U=;Yd5n1qRwip8JDJ5C073Nug=="

@@ -2,6 +2,174 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-house-democrats-release-former-trump-white-house-counsel-don-mcgahns-testimony.md",
+      "title": "House Democrats release former Trump White House Counsel Don McGahn's testimony ",
+      "excerpt": "The House Judiciary Committee has released the transcript of its June 4 interview with Trump White House Counsel Don McGahn, the culmination of a two-year court fight Democrats waged against the Trump administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqtUtVn9cO8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqtUtVn9cO8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191125183648-03-don-mcgahn-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/don-mcgahn-transcript-released/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/don-mcgahn-transcript-released/index.html",
+      "publishedDateTime": "2021-06-09T14:47:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-biden-nixes-trump-proposal-that-would-have-kicked-3-million-off-food-stamps.md",
+      "title": "Biden nixes Trump proposal that would have kicked 3 million off food stamps",
+      "excerpt": "In one of its latest steps to erase Trump administration policies, the Biden administration has withdrawn a controversial proposal that could have kicked 3 million Americans off of food stamps and cost nearly 1 million children automatic eligibility for free school meals.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RvTXMZPPGw4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RvTXMZPPGw4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 568,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201001121600-snap-food-stamps-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html",
+      "publishedDateTime": "2021-06-09T14:22:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-ex-officer-trump-impeachment-manager-and-now-senate-candidate-who-is-rep-val-demings.md",
+      "title": "Ex-officer, Trump impeachment manager and now Senate candidate: Who is Rep. Val Demings",
+      "excerpt": "Rep. Val Demings' Senate run provides Democrats with a prominent, nationally recognized candidate to challenge Republican incumbent Sen. Marco Rubio, a formidable opponent, in next year's general election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xU4dG_WxMb0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xU4dG_WxMb0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210609120121-01-val-demings-file-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/who-is-val-demings/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/who-is-val-demings/index.html",
+      "publishedDateTime": "2021-06-09T14:13:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-watchdog-report-finds-park-police-did-not-clear-racial-injustice-protesters-from-lafayette-park-for-trumps-visit-to-st-johns-church-last-june.md",
       "title": "Watchdog report finds Park Police did not clear racial injustice protesters from Lafayette Park for Trump's visit to St. John's Church last June",
       "excerpt": "The US Park Police did not clear racial injustice protesters from Lafayette Park to allow for then-President Donald Trump's march to St. John's Church last June, but instead did so to allow a contractor to install a fence safely around the White House, according to a new inspector general report.\n  ",
@@ -58,23 +226,23 @@
       ]
     },
     {
-      "path": "_news/2021-06-09-president-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat.md",
-      "title": "President Biden revokes Trump executive orders targeting TikTok and WeChat",
-      "excerpt": "President Joe Biden on Thursday revoked a series of executive orders signed during the Trump administration targeting TikTok, WeChat and other Chinese apps, and replaced them with a new executive order addressing apps linked to foreign adversaries, including China.\n    \n",
+      "path": "_news/2021-06-09-biden-stuck-relying-on-transatlantic-phone-calls-to-salvage-infrastructure-priorities.md",
+      "title": "Biden stuck relying on transatlantic phone calls to salvage infrastructure priorities",
+      "excerpt": "President Joe Biden came to Europe this week in part because he's grown tired of virtual meetings and telephone calls with world leaders, which he believes can't capture the essence of a face-to-face relationship.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VA8YOWgxUS4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VA8YOWgxUS4/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 548,
+      "heat": 208,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210215164326-11-tiktok---stock-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210609131925-01-biden-overseas-trip-0609-white-house-departure-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -84,9 +252,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/tiktok-wechat-executive-order/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/tiktok-wechat-executive-order/index.html",
-      "publishedDateTime": "2021-06-09T08:24:35-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html",
+      "publishedDateTime": "2021-06-09T12:34:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -110,63 +278,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-watch-out-for-the-cicadas-biden-swats-cicada-crawling-on-his-neck.md",
-      "title": "'Watch out for the cicadas!': Biden swats cicada crawling on his neck",
-      "excerpt": "Watch as President Joe Biden swats a cicada off his neck after the insect landed on him at Joint Base Andrews before the president departed for his first overseas trip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/-watch-out-for-the-cicadas-biden-swats-cicada-crawling-on-his-neck-114543173533",
-      "originalUrl": "https://www.nbcnews.com/video/-watch-out-for-the-cicadas-biden-swats-cicada-crawling-on-his-neck-114543173533",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/f_mo_biden_cicada_210609.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo114543173533",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114543173533",
-      "publishedDateTime": "2021-06-09T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -296,7 +407,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 173,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -464,7 +575,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -481,6 +592,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/07/politics/biden-zelensky-white-house-meeting/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/biden-zelensky-white-house-meeting/index.html",
       "publishedDateTime": "2021-06-07T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-biden-has-paused-a-public-option-nevada-is-about-to-try-its-own.md",
+      "title": "Biden has paused a public option. Nevada is about to try its own. ",
+      "excerpt": "A federal public option isn't happening anytime soon, so Nevada officials are creating their own.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQZlEXpJXOs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQZlEXpJXOs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604155418-02-steve-sisolak-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-biden/index.html",
+      "publishedDateTime": "2021-06-07T04:18:43-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -617,62 +784,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-biden-stays-mum-on-state-abortion-laws-with-major-test-ahead-for-roe.md",
-      "title": "Biden stays mum on state abortion laws with major test ahead for Roe",
-      "excerpt": "As more Republican-led states pass abortion bans with the easing of the Covid-19 pandemic, a heated debate has returned to center stage with abortion rights supporters warning of a looming threat to access and anti-abortion activists determined to keep up the momentum.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7VGVmHND2_g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7VGVmHND2_g/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/joe-biden-abortion/index.html",
-      "publishedDateTime": "2021-06-06T11:27:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     },
@@ -860,7 +971,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1016,6 +1127,63 @@
       ]
     },
     {
+      "path": "_news/2021-06-05-a-favored-biden-timeline-for-politically-charged-decisions-later.md",
+      "title": "A favored Biden timeline for politically-charged decisions: Later",
+      "excerpt": "The president seems to be reaching for a traditional executive branch stalling tactic at a higher rate than his predecessors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/white-house/favored-biden-timeline-politically-charged-decisions-later-n1269721",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/favored-biden-timeline-politically-charged-decisions-later-n1269721",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480531/210604-joe-biden-ac-742p.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1269721",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269721",
+      "publishedDateTime": "2021-06-05T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-arizona-republican-who-ordered-election-audit-touted-trump-phone-call-giuliani-support-in-emails.md",
       "title": "Arizona Republican who ordered election audit touted Trump phone call, Giuliani support in emails",
       "excerpt": "Karen Fann, the state Senate president, also told a constituent that \"Biden won,\" according to the messages obtained and released by a watchdog group.",
@@ -1073,25 +1241,25 @@
       ]
     },
     {
-      "path": "_news/2021-06-04-after-2-year-battle-house-panel-to-interview-trump-counsel-mcgahn.md",
-      "title": "After 2-year battle, House panel to interview Trump counsel McGahn",
-      "excerpt": "His interview with the Judiciary Committee comes two years after House Democrats originally sought his testimony as part of investigations into former President Donald Trump.",
+      "path": "_news/2021-06-04-bipartisan-lawmakers-call-on-biden-to-immediately-evacuate-afghans-who-helped-the-us.md",
+      "title": "Bipartisan lawmakers call on Biden to 'immediately' evacuate Afghans who helped the US",
+      "excerpt": "A bipartisan group of lawmakers is calling on the Biden administration to immediately evacuate thousands of Afghans who have assisted the United States, saying in a letter Friday that those \"Afghan friends and allies are at greater risk than ever before\" as the US military withdrawal from the country",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/after-2-year-battle-house-panel-interview-trump-counsel-mcgahn-n1269616",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/after-2-year-battle-house-panel-interview-trump-counsel-mcgahn-n1269616",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l7U_X9Da6jA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l7U_X9Da6jA/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 167,
       "tags": null,
       "images": [
         {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480277/210604-don_mcgahn-mc-1225.JPG",
-          "width": 2500,
-          "height": 1664,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210523082033-afghan-translators-holmes-vpx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1099,16 +1267,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1269616",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269616",
-      "publishedDateTime": "2021-06-04T05:13:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/04/politics/afghanistan-siv-bipartisan-letter/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/afghanistan-siv-bipartisan-letter/index.html",
+      "publishedDateTime": "2021-06-04T13:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1125,7 +1293,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1300,6 +1467,62 @@
       ]
     },
     {
+      "path": "_news/2021-06-03-queen-elizabeth-announces-shell-meet-president-biden-at-windsor-castle-this-month.md",
+      "title": "Queen Elizabeth announces she'll meet President Biden at Windsor Castle this month",
+      "excerpt": "Britain's Queen Elizabeth will welcome US President Joe Biden to Windsor Castle on June 13, Buckingham Palace announced on Thursday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E8Ozs7YBfpc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E8Ozs7YBfpc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210526112357-biden-queen-elizabeth-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/03/politics/queen-elizabeth-joe-biden-meeting-scli-intl-gbr/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/queen-elizabeth-joe-biden-meeting-scli-intl-gbr/index.html",
+      "publishedDateTime": "2021-06-03T06:54:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-get-a-shot-and-have-a-beer-bidens-new-glass-half-full-strategy-woos-vaccine-skeptics.md",
       "title": "'Get a shot and have a beer': Biden's new glass-half-full strategy woos vaccine skeptics",
       "excerpt": "This Bud's for you, and anyone else ready to roll up their sleeve to put the pandemic behind them.\n    \n",
@@ -1312,7 +1535,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 166,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -1424,7 +1647,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 192,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -1441,232 +1664,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/02/politics/biden-putin-jbs-foods-russia/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/biden-putin-jbs-foods-russia/index.html",
       "publishedDateTime": "2021-06-02T10:51:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-anheuser-busch-to-give-away-free-alcohol-if-us-hits-bidens-goal-of-70-of-adults-with-at-least-one-covid-vaccine-shot-by-july-4.md",
-      "title": "Anheuser-Busch to give away free alcohol if US hits Biden's goal of 70% of adults with at least one Covid vaccine shot by July 4",
-      "excerpt": "Anheuser-Busch, the national brewer that produces Budweiser, announced Wednesday it will give away free alcohol if the nation reaches President Joe Biden's goal to have 70% of US adults receive at least dose of the vaccine by July 4. \n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpCgOhzgwY4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpCgOhzgwY4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210602134454-anheuser-busch-st-louis-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/02/politics/anheuser-busch-white-house-vaccinations-beer/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/anheuser-busch-white-house-vaccinations-beer/index.html",
-      "publishedDateTime": "2021-06-02T06:29:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-live-updates-biden-will-meet-with-republicans-top-infrastructure-negotiator.md",
-      "title": "Live Updates: Biden Will Meet With Republicans’ Top Infrastructure Negotiator",
-      "excerpt": "Democrats are ready to move on President Biden’s $2 trillion infrastructure plan unless there is a major breakthrough this week. The two sides are over $1 trillion apart in how much they want to spend,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/06/02/us/biden-news-today",
-      "originalUrl": "https://www.nytimes.com/live/2021/06/02/us/biden-news-today",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/02/us/02new-washington-briefing-promo3/02new-washington-briefing-promo3-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html",
-      "publishedDateTime": "2021-06-02T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-a-tabloid-publisher-will-pay-a-187500-fec-penalty-for-its-trump-hush-money-payment.md",
-      "title": "A tabloid publisher will pay a $187,500 F.E.C. penalty for its Trump hush-money payment.",
-      "excerpt": "But Donald Trump faces no further investigation or penalties related to the 2016 payment to a former Playboy model by the publisher of The National Enquirer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/01/lens/01new-washington-briefing-american-media1/01new-washington-briefing-american-media1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/01/us/politics/trump-karen-mcdougal-playboy-american-media.amp.html",
-      "publishedDateTime": "2021-06-01T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-biden-to-host-gop-west-virginia-sen-shelley-moore-capito-as-bipartisan-infrastructure-talks-continue.md",
-      "title": "Biden to host GOP West Virginia Sen. Shelley Moore Capito as bipartisan infrastructure talks continue ",
-      "excerpt": "President Joe Biden on Wednesday will host Republican Sen. Shelley Moore Capito of West Virginia at the White House as the bipartisan infrastructure talks continue.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9FPHCl_3W0k/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9FPHCl_3W0k/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/01/politics/capito-biden-infrastructure-talks/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/capito-biden-infrastructure-talks/index.html",
-      "publishedDateTime": "2021-06-01T05:48:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
