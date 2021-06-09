@@ -144,6 +144,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris, With Blunt Language on Border, Forges Immigration Image"
+    excerpt: "The vice president concluded her first trip abroad, a high-stakes trip to Mexico and Guatemala during which she took on the politically volatile issue."
+    publishedDateTime: 2021-06-08T20:55:00Z
+    webUrl: "https://www.nytimes.com/2021/06/08/world/americas/kamala-harris-immigration.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/08/world/americas/kamala-harris-immigration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/08/world/americas/kamala-harris-immigration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/08/world/08Mexico-Harris1/08Mexico-Harris1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris arrives in Guatemala on first foreign trip as vice president"
     excerpt: "After an enforced return to Joint Base Andrews to change planes, Vice President Kamala Harris finally arrived in Guatemala at the start of her first foreign trip as vice president."
     publishedDateTime: 2021-06-07T09:08:00Z
@@ -177,6 +193,6 @@ related:
         height: 550
         isCached: true
 
-secured: "P5EgOmdQsT+3lNJzMv25bIiqr0FrL7Z/O/qFUbvkCnSRjLNjHdKA1GOrJOsBhv/DqqM8kMRRnfSEgcVP1/oXMx1XCr2dSilJsOwIrbWiyeFJ1jOA+MvORRa5RHFQ9BBJnkFs7Vp3ld1SQMTdk4b3pnNvC6MKyiVrr3mU4AbNRtTkfSkA4xuawOuQ1as4hVZZTKWmT/oHgyKTG/+LUkg9nYKWZ3XpPosan9zQpMgcUf1W5OMppEflxsvkSzPuUF/MpY0WUqYpXgiT4fyNHHTQXV4PtTXOT7pSSM67tkaed7UCA8DU48vlfO1ia6yxHSlcZ0fjCNpeg4s8qY8wU9Ejhwk3dtNFHneNhXFfYN9TsFc=;49LBRsUg+mnzBHLPm4qrMA=="
+secured: "hzCxE0hpm9oRBFmqs3gHbvkkkW8t19aB+rryzHvluBsqCsJjKcdDAPy+cnXDU4hxo40rx7STbkMJNuRuYdiiaML8aYfAAs1doF9cFDJHru6H1GhaCudbwwlur+qgC//g+gshd02WQMH8KEMAMI61KPQYOjRpTxR6D7yDZpNxu4jtE2pomanyAb3wElqDF028oNLt/FG3qp+TzPjys4ci7FosZRDo09MCDqpX0Jdtz0Zdy7ssE5yZcTIP99ZwNpdjpkU6sDJgZp1tVlvhe6GCGPl8cwn2URja0giEUmaeH/UEKnMngkmLHd+oAOmzwC6jFVRKPtWaTvKnvZ7xY7SQJ2jhLMit1dOi/fcrrj3M/u1WyZbPAY9WqCCNDZTiI+HBEaTX8t4h8ST+A/fkU0tMWmXxrbz3rxw7tzqq9Mht7O5znRkiL4ahKhhXhLB26bI2QQydaLUdpvhfpZVoOGGNoCA9lcPcZdl+GdQsKO5Gjbq/g1HeOZ5iqfTkhUL+PxJKdbb185S6SBletlr7IsKtbw==;HF+FbXe4q+/dUAIOg/BhuA=="
 ---
 

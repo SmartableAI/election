@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden gears up for trip to Europe to meet Queen and Putin – live"
 excerpt: "President to meet world leaders at G7 in Cornwall this week and have summit with Putin in Geneva – follow all the latest news"
 publishedDateTime: 2021-06-07T13:04:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be202d8f082e80569f8f2c"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be202d8f082e80569f8f2c"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be1af98f082e80569f8ec0"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live?page=with:block-60be1af98f082e80569f8ec0"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/07/biden-uk-trip-g7-cornwall-european-leaders-queen-putin-latest-us-politics-live"
 type: article
@@ -277,6 +277,6 @@ related:
         height: 3934
         isCached: true
 
-secured: "p8A3qq3wIamz2T0yg1sszw0ZFSxuLATSjvwb9qxein2+uqMv4whhkccPyrTdbmh0FvZDWKNAyo5N9mkgTz75tLIp6gRATVQBl4q7Eqmpz2Afgu07yrp3mynliDpzWlj9Taf6+lw+yGZLPDbw5Q/IorK4vsIZylfoJFCzZQlYIMHGogK/PlJEzItU17wbyLANOk2cPVBDqrRn58vpjGQG3rD0PfvkwQfoknbGpqL42LKB10UjS3Eus+RciGd6utquVO8DhdtZgGjT8hrXV2X56iRsCsX9Bc2ni9vV0BjQ6me651PAZHq1hiZcTIt1Rl0hzcmwzqcLhhICe51gztFo4rmBlNBJmR6P/wKb43sblAE=;1nwn4S05OyiKdlIpdcLQ4A=="
+secured: "MSg5LH6KSkqm0U80ivpDYBk+YHEoA9fFNymN3Oz1AVZjx/Xifc74TLtvCm8/guQyRjNXWn2T17VEjPWb+/H2zLlrUiYWGpMV8nsPwuFpOZESiXAL9WHyif2g6EIsjgnwZz1FgM+LBJXQGT4klOn39DYLv7bXux5wTr2deC830JpmsQLJx0KpzdninEt9NPqiubrgEUf3cikziSdmUP6aHnxbIM+pjoYqk235rRiScKd0bQdZfVUu3l246FAmPDw3YOE4biQ8WB8dIsrG+muTjGTVzDaWbNPgdGjETuIDfbWwhBHTM7N4NOmfR57851ptTSMGfDB77jwTpuxbIPPCWqZ7FGRS6FNlexrVmXlmRNY=;nsprpHptWAAJZgJOHocxbQ=="
 ---
 

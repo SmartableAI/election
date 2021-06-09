@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/endangered-species-act-p
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/endangered-species-act-protection-changes/index.html"
 type: article
 quality: 181
-heat: 541
+heat: 561
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606001415-02-donald-trump-north-carolina-gop-0605-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats fear Biden's agenda may be squandered as they pressure key moderates to abandon Senate GOP"
+    excerpt: "Senate Democrats, growing impatient as they watch their ambitious agenda imperiled in the evenly divided chamber, are prepared to go-it-alone on President Joe Biden's sweeping infrastructure package -- and pressure Sens. Joe Manchin and Kyrsten Sinema into backing a Democratic-only approach.\n    \n"
+    publishedDateTime: 2021-06-08T23:35:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DZgJuX_t-jg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/democrats-divide-senate-squander-biden-agenda/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/democrats-divide-senate-squander-biden-agenda/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604093516-02-joe-manchin-0527-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

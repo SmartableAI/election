@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Bernie Sanders has real influence': Vermont's longtime outsider has become a trusted voice in the Biden White House"
+    excerpt: "At first glance, they seem like an odd couple -- Sen. Bernie Sanders, the progressive and quintessential outsider, and President Joe Biden, moderate politician and political insider.\n    \n"
+    publishedDateTime: 2021-06-08T23:00:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/05PdtqLwrsQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/bernie-sanders-gloria-borger-interview-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/bernie-sanders-gloria-borger-interview-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 152
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608172930-bernie-sanders-gloria-borger-interview-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden, Putin urged to seek nuclear breakthrough"
     excerpt: "U.S. and Russian arms control experts are pleading for steps to reduce the nuclear threat in the presidential summit. — A former Pentagon No. 2 has good things to say about the new defense budget, with one major caveat."
     publishedDateTime: 2021-06-08T14:00:00Z

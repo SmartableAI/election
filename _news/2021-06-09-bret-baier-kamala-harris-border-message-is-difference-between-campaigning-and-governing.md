@@ -94,6 +94,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris says she will visit the southern border but does not indicate when"
+    excerpt: "Vice President Kamala Harris on Tuesday said she will visit the U.S.-Mexico border, but did not say when."
+    publishedDateTime: 2021-06-08T23:41:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eBAl2qRGBCE/harris-says-she-will-visit-the-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-says-she-will-visit-the-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-says-she-will-visit-the-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5912017b-2c27-4199-ab9f-16ef229fb6a4/cbace6a6-082a-46e1-a42c-422acfb64c7c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Guatemala protesters display signs telling Harris to 'mind your own business'"
     excerpt: "During her visit to Guatemala Monday, Vice President Harris was greeted by protesters holding signs pushing the false claim that fomer President Donald Trump won the 2020 presidential election."
     publishedDateTime: 2021-06-08T12:55:34Z
@@ -395,6 +411,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "4m3fByTRzlbmvz2Ep+0XuluHPYXb9YwQHfnqU1W8nErT5iLGTKzQIXtjp1t28qs5Ef07QYGo6cATw08gP6fsdy2BZeosEjDtwJDJ0K68qV1QAVH1x6EyrL/Xa6o4wd+oPh1X3rM7ru5tdPPpW167SL2Km3YV3uJrVjDtxDITvDI3SrzOtqxXfCjEAa0ui/w6cKxQTd+3XF3fgVsHDmQ1Sy8fs3iHI9Y35cXT78V/fUbaMBrOq9daQ1TZ2LP5uEd6vCELwLACZfokKTRP5XNZRGalEt0unHa4y1mczwzN+U8dhxcBNyUCPfnSpz8Jf1OAo7GLSJGFQ/8t8zZLpMcl0cpUW+3E2cCFKAC7C8uG1Qk=;wV7KLb+AxkqQvu7CjdIUJA=="
+secured: "iE+sXf0YVyFDXayJ3lG2CknesC/nxEhDrfMIl2DraTvA9lGPcvah1M2mCqN1hLRZzNGjrHRmk/KVHPhmXEYvDUcGFsWzjy5fVSX+pdiutiA4QybtgrdhlyGG094RjWgW4r5laoIHNhsfbZCsVuVtiZQV62CPnLZLOpu0pTK7PqkpwCIL76AK7pUZn640kmVWOtBmT8WtyR1puBDocKuuSMC85pyHJ2gs2vRvazz+9Y05O7h/Ubsandly/Lq4VwrVEKWCqr9stmkGmrejjAlj21x8+fCOGcF2YKjbHD6DGqas3BqpWPOxs8sbo7jo9abVyHXE41GHay7bhjNzm0cJ1lAdFQ53cCL/nm1TjWfDa1DV7YORWfKgfmG3vqLMBGCoQ8u18FxGTd3RnTx/AN5raWiv6BwnsJM8GRpKhKTYAPx8DgFZhtGcOkfFWEJoqCr3f8pYkH/fibD6yuWpk14CqSeQQcnQTTRUWXTDtk1dxSNSLg3TrMLJhw8LeIExwkKTD+jaIAKWI+EVcHNSnKovAw==;pt0PhC1SH3SKKu9QfGHCNg=="
 ---
 

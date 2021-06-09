@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/trump-says-more-countries-should-ban-twitte
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president-1598788?amp=1"
 type: article
 quality: 111
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -30,6 +30,24 @@ images:
     height: 1200
     isCached: true
 
-secured: "9uFPAAJS4gZz+Hi8AV+xHD33Nvsz2f3+1hlVPXwIz1KJWvqJS5N76cqYQTbVX6wQ/OFwtbjMN4Jzo3YD/WsVAzeDRME1uje+YgGjoOisRar57x6KHuBPiikVmxGKEBovULSwpQ2BqNC+QrbWZu8LaKX7eOg1GWpw7TTRNdM9WMj6ohHvtC++PxijgTmYKoa4aDnBCWNHwXisZaNnSTm7Rq0Rxlcu49uhShQDZ1CD5W/wyvKdJfcNuCYpc7xpdSYfjS4u7y3Iw5DxK9lDjLlcbZ7+CDTZLzviTLCovw+kJX5Qql6NftYKlgiZ+GTNEE4ReCz3M1x8eAdIoPTjtVoVMxGLG8Ic5JJzVGzMOnNBwbE=;QvzOn7GjxQvVg6S7/EQmvw=="
+related:
+  - title: "Trump backs Nigeria banning Twitter, calls for other countries to follow"
+    excerpt: "Former President Trump on Tuesday applauded Nigeria’s Twitter ban and called on other countries to follow suit."
+    publishedDateTime: 2021-06-08T23:46:00Z
+    webUrl: "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to"
+    ampWebUrl: "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_093020getty_trump-legal.jpg"
+        width: 980
+        height: 580
+        isCached: true
+
+secured: "0ZzzaEkUGw4mfjLqrRLFv/LHPRLQdvuqDG3RQWSlKt9S1E2jXuSpG2NwMoNQKt9BP2NGQy6y3VrJFyz+BwAICV9w0ZfxA7XgbdDnMk2W2P6I1F2Z8tnyUDkleLhO9jtRznN/smCgpqTlKLFSUWGPbWcXAOl5y/D600jXVFMkx5QGGXxv/Udh37LoYCw5Q3pa3RsrpxghKQ8W6L5Rk3nVwk358O2/WrK4ms3H/lYCgm6DCLT0P6JKRnlRevP+DBm9HfIhbybAvrbF6pJnZHWW/kZihIrFumVS7Y6ahzahXB+0sIbzAPFjvVvLnvH+usPe7w9kZyONAR4rXuVP2nhmZNOJ19gC0GYVV8JH9XatPBw=;ivZIsKyQ3moijnbNiPEN0A=="
 ---
 

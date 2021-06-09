@@ -79,6 +79,15 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "U.S. increasingly unlikely to meet Biden’s July 4 vax goal"
+    excerpt: "For months, President Joe Biden has laid out goal after goal for taming the coronavirus pandemic and then exceeded his own benchmarks. Now, though, the U.S. is unlikely to meet his target to have 70% of Americans at least partially vaccinated by July 4."
+    publishedDateTime: 2021-06-08T23:20:00Z
+    webUrl: "https://lasvegassun.com/news/2021/jun/08/us-increasingly-unlikely-to-meet-bidens-july-4-vax/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
 secured: "AkZncfYpoacZCG4OKrEDdNvRgt+8IMZRdVg6JeQk3XGYAOqN/57g90iqevezHTxgM0DBOsN37uevOrAibom2jFdQeE+IyMa9OqBYyA6yFh4tPACkjRXC1F5Dfx6HKRtFT7W++3y+BXbYYNlSgOX7dVLorbi7lDK7yIccZ8kyEqMdVAXh7FPQZZfpLo32iUzDnnSMxMMt9Y/ohyuO+E/1jS2zysrTqzK3NAt003YdcBdg2VwvRIyScBRDrG9rmY78En2LMCQPBzmmrNeVZr6ThOFeVUR0WfUQEHmotOCamxhVfJX+C9s5ZKPYbfZoHQIk5KxnItyz80iq3FpENWgBXg0+lh/bIE8+raijkwbP9/4=;sty/bs9fuRuAvxZArLiX/w=="
 ---

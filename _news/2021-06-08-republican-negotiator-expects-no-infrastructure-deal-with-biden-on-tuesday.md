@@ -137,6 +137,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Infrastructure talks between Joe Biden and Republicans collapse"
+    excerpt: "Joe Biden’s bid to strike a deal with Senate Republicans on a sweeping infrastructure spending package collapsed on Tuesday, narrowing the US president’s options as he tries to move his economic agenda through Congress."
+    publishedDateTime: 2021-06-08T21:45:00Z
+    webUrl: "https://www.ft.com/content/b279ffae-f813-42a9-bf17-d00005f38384"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 85
   - title: "President Joe Biden to attend Memorial Day observance Sunday near New Castle"
     excerpt: "Joe Biden has been a frequent attendee at the Memorial Day observance at War Memorial Plaza near the Delaware Memorial Bridge near New Castle. This year, he'll attend the event as commander in chief."
     publishedDateTime: 2021-05-29T11:20:00Z
@@ -168,6 +177,22 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/IrqayP6JfKjJRt3GoE9HusUkgTE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/TAVZQNE6CBDOPC6FW64D6J562A.JPG"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President Joe Biden ends talks with GOP over infrastructure package, starts bipartisan push"
+    excerpt: "President Joe Biden ended talks with a group of Republican senators on a big infrastructure package on Tuesday and started reaching out to senators from both parties as he strives to build bipartisan compromise while laying the groundwork for a potential Democrats-only approach on his top legislative priority."
+    publishedDateTime: 2021-06-08T22:08:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-gop-infrastructure-package-bipartisan-20210608-hoggx3if5bfd3b55tfefanluiq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-gop-infrastructure-package-bipartisan-20210608-hoggx3if5bfd3b55tfefanluiq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-gop-infrastructure-package-bipartisan-20210608-hoggx3if5bfd3b55tfefanluiq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 65
+    images:
+      - url: "https://www.baltimoresun.com/resizer/N0pVE09HMfF0Ks4-L6KTlOjKmEc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MZTV4AIQ5F3L2NVZ3ILQZM47SE.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "U.S. President Joe Biden Departs For Wilmington, Delaware"
     excerpt: "Marine One, carrying U.S. President Joe Biden, departs the Ellipse of the White House in Washington, DC on Friday, April 16, 2021. Biden will travel to Wilmington, Delaware for the weekend. Photo by S"

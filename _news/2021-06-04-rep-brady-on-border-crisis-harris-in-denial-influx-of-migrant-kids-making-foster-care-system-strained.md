@@ -94,6 +94,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris says she will visit the southern border but does not indicate when"
+    excerpt: "Vice President Kamala Harris on Tuesday said she will visit the U.S.-Mexico border, but did not say when."
+    publishedDateTime: 2021-06-08T23:41:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eBAl2qRGBCE/harris-says-she-will-visit-the-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-says-she-will-visit-the-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-says-she-will-visit-the-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5912017b-2c27-4199-ab9f-16ef229fb6a4/cbace6a6-082a-46e1-a42c-422acfb64c7c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Guatemala protesters display signs telling Harris to 'mind your own business'"
     excerpt: "During her visit to Guatemala Monday, Vice President Harris was greeted by protesters holding signs pushing the false claim that fomer President Donald Trump won the 2020 presidential election."
     publishedDateTime: 2021-06-08T12:55:34Z
