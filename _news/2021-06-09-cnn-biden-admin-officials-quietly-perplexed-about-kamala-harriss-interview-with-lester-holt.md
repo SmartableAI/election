@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Kamala Harris: Going To Border Would Be A \"Grand Gesture\""
-excerpt: "Vice President Kamala Harris defends her strategy to get 'real results' during her visit to Guatemala and called a visit to the U.S.-Mexico border a \"grand gesture.\" QUESTION: Sure. Thank you both for taking questions."
-publishedDateTime: 2021-06-08T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html#!"
-ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
+title: "CNN: Biden Admin Officials \"Quietly Perplexed\" About Kamala Harris's Interview With Lester Holt"
+excerpt: "Vice President Kamala Harris back in the United States this morning after a trip to Guatemala and Mexico, her first foreign trip as vice president. This morning, we're told, that some of what she said on the trip,"
+publishedDateTime: 2021-06-09T00:00:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html"
+ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
 type: article
-quality: 85
+quality: 88
 heat: -1
 published: false
 
@@ -22,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/545265.jpg"
-    width: 880
-    height: 660
+  - url: "https://assets.realclear.com/images/54/543529.jpg"
+    width: 1038
+    height: 778
     isCached: true
 
 related:
@@ -486,21 +486,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "CNN: Biden Admin Officials \"Quietly Perplexed\" About Kamala Harris's Interview With Lester Holt"
-    excerpt: "Vice President Kamala Harris back in the United States this morning after a trip to Guatemala and Mexico, her first foreign trip as vice president. This morning, we're told, that some of what she said on the trip,"
-    publishedDateTime: 2021-06-09T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
+  - title: "Kamala Harris: Going To Border Would Be A \"Grand Gesture\""
+    excerpt: "Vice President Kamala Harris defends her strategy to get 'real results' during her visit to Guatemala and called a visit to the U.S.-Mexico border a \"grand gesture.\" QUESTION: Sure. Thank you both for taking questions."
+    publishedDateTime: 2021-06-08T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/08/kamala_harris_going_to_border_would_be_a_grand_gesture.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 88
+    quality: 85
     images:
-      - url: "https://assets.realclear.com/images/54/543529.jpg"
-        width: 1038
-        height: 778
+      - url: "https://assets.realclear.com/images/54/545265.jpg"
+        width: 880
+        height: 660
         isCached: true
   - title: "Vice President Kamala Harris to Guatemalans: \"Do Not Come\""
     excerpt: "Vice President Kamala Harris has dismissed a visit to the border as a 'grand gesture' - before telling illegal immigrants they are not welcome in the US. HARRIS: I want to emphasize that the goal of our work is to help Guatemalans find hope at home."
@@ -551,6 +551,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "4gocHt4SVohsEvvjQl0mWxbCGjoR06rqcbgFC5znLkT+rIaNI+EcvOgbEIpviy8OUr/n4fOT3lJ9BjaaXv9nPgnWn9hbHnn3S7vlXa8bymBBvqOk60U9+ZcrjPKFkLbFQvHInBEN3IDyOEEm58IwOduop6Rv5/yCNCDCIhLXukaF4DiYvFdoCtrprRdYL+M6AVSVuSvTWXf2yTBbK6N0gfK/sooHXjKjYk6Dt5lS923oZodiXT/cNYKYTZk5TZwZQ/t1o+4X1s7Xvf2Y/V0OYYPN38TkHZmVzGRClHI1h8pT8bIpPL95ypa4EhXEioAUGgjdRHJqCAG/4joiTl4VFG3kteQ9rRbnO5fpx8y5a0yhzcP9UAFBOerW3hRXF2c6CeX9H/efzpi+2iaHZBs1CZZC8AieWzX445cPEpfKIdNNVIY1mxt8VjMaaD4Llzj6Rvx+joFzXfhDiZcJNONrI017BKTG46mdGFD0rhGULx/Tcc/kt3Ijq4KlyYwyiA56B4F6fBt1C4D+eUkDIk5sBg==;CDvHl+a7E7Pq49hRba30+Q=="
+secured: "jDRIHHYLrQDsptn364nlHi6UkeGnUOk+M5aBBIScdUwv/uxTgwEsrFYlt2dcALGNIiyXQj64RFW8kOEHG/gRBa9UQK+JfyVGnGd0VeGfnLEUOzErGJ/iTE7uE2a6qpIeX+9RNYKpefkWBiMr5Se9+uGpfBqorbGQLCLQme0ALm8r21Uk8y0bxJVwRSfcw5QbOF483Wk6fCEABI6OHA/EWSGoSNbo/P8wbxuJY+eDJpOl95wgRrQoRPks/n9sI/tZdiaVpkNIulEHRgTAV/3Bq59BPclrl5anbyMknU5h1QROZPLPEGo2A8eDbXfbgbdB2DyYNXVpBsgJbnYZGZpB/F+bVgtLLatCTQRhpsyQ8dI=;a5nbKQA8vtwyBVgR31bXtg=="
 ---
 

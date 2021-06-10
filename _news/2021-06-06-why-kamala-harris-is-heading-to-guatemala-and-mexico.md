@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-mexico-immigration/index.html"
 type: article
 quality: 185
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris' rocky first foreign trip"
+    excerpt: "Kamala Harris traveled to Guatemala and Mexico seeking a serious strategy for stemming migration from the Northern Triangle, but her efforts were quickly overshadowed by her flippant response about why she has not visited the US-Mexico border as vice president.\n    \n"
+    publishedDateTime: 2021-06-10T03:01:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i13OhRSNCKA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/kamala-harris-foreign-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/kamala-harris-foreign-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609223159-01-kamala-harris-foreign-trip-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris rejects criticism over lack of border visit: 'And I haven't been to Europe'"
     excerpt: "Vice President Kamala Harris pushed back on criticism that she hasn't visited the US-Mexico border in an interview aired on Tuesday by arguing that her travel has been limited during the early days of the Biden administration.\n    \n"
     publishedDateTime: 2021-06-08T14:33:51Z

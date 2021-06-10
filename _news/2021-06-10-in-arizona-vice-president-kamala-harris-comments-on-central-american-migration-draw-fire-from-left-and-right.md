@@ -3,32 +3,20 @@ category: news
 title: "In Arizona, Vice President Kamala Harris' comments on Central American migration draw fire from left and right"
 excerpt: "Progressives like AOC, Arizona immigration advocacy groups and Republican elected officials denounced Kamala Harris's comments for different reasons."
 publishedDateTime: 2021-06-09T23:38:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/06/09/vice-president-harris-comments-central-american-migration-united-states-draw-ire/7628598002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/06/09/vice-president-harris-comments-central-american-migration-united-states-draw-ire/7628598002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7628598002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7628598002"
+originalUrl: "https://www.indystar.com/story/news/politics/2021/06/09/vice-president-harris-comments-central-american-migration-united-states-draw-ire/7628598002/"
+webUrl: "https://www.indystar.com/story/news/politics/2021/06/09/vice-president-harris-comments-central-american-migration-united-states-draw-ire/7628598002/"
 type: article
-quality: 105
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/07/PTX1/ac44319b-a6c3-4734-90a8-9131ce31eb53-Kamala_Harris_Presser_Giamattei_1151.JPG?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-    width: 1200
-    height: 676
-    isCached: true
 
 related:
   - title: "Vice President Kamala Harris’ plane forced to return over ‘technical issue’"
@@ -116,6 +104,6 @@ related:
       domain: azcentral.com
     quality: 21
 
-secured: "dSDAUgDIrFmKPGCatqBexIEYwGbdaDho1h0unAxqJ3MEi89gqfdXf9MLRRRIkMEYV2wiT+Ye6pnSPkGCfFgvKZFfGdQ/TyVTeJbOim7VoFNLcCIY/prSxZVMsF8FGJ7j3qzHcPqnJL0ftG4vczL5+jX7WosaTXmCrHwJKFJxskXV6kMb9pTcmDSDL22eC1n86RDZkGYUPbuSQQ7o9qAqYwpE+P5sqOY8MnO2TZ3uv8z96e0zJXvVPHgb/3SzR5ynrcR33x0q/JpIJY0gpvgjJDmIYByG+GkhuxC5h2w31ob9dBrWdauN9JvuyYe3RNTQppuvqTP24bWDhu8OeHEr7rk4z4p7iLwp9lPT24f9dyynOmBbYMdB80a//zAHo65hI+7dTYZWuCISi2fysi8J3vTUpcwB3in5pjnBv5uPEe5fvGRrP57VyK8Nkt7abURPRe+ZRb/8nlVAQlKYpXhjnrq7Es71MLNQM5oX3QQyQAZj6+3Xpsc6C+X4RcWO3Dk1EeSjFC5vtG4tAJnCBSvASA==;4BLaiacA3YMVncBNTNeTsw=="
+secured: "3wLaPIldDNcdLmNckM1CPqn+41cZ4uhKpo4hd+PvRB1Cw00gB2SU1A2GVA5BlW9974687Ckg71ccczshj3Xto4r45niIABJC8ICYWhy/g/4+WvduXvsOu/mRHRIXz49rfNsTSAJZKF6GFgV9PZQN5asAv79SfnbDOdLGjL/d7lSisD/LXdnqcS7sGXw6aMf2RNmGPWZpmC58HDzKs6LwoMxm+vHx+vWFx+piSHddFXQv97JnQuDej9tFWYRAhvmYF6r7FDLdospstc0CP4HGLlO7HkeYf5GQ3kZpbAYCAWTMbtc7oBrK62/qZLtuEm8PniyVDWGoUyHiYLSnl/qHNXteJTKdr07mKRnyQ/lNMkMVwzakjzeHF0hizD2nmyXmNkOSss8fw5o+N4WondtXOofYtJh4c2qta+Juj1HAR74rZHx7w2xypcoaGv1Jh+VfY4pKaIqYU57pua0wh4f/ydJTyx0SLjneNeNbgYhWgDUqPJK2u7T+NQIJKltQdvJwzGdSZ4YrN2NMSzPFYuO/aQ==;jbLkl1m0o1+ViJ3aBz5GZw=="
 ---
 

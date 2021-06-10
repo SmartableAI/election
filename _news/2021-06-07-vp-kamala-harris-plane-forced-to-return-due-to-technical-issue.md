@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "In Arizona, Vice President Kamala Harris' comments on Central American migration draw fire from left and right"
-    excerpt: "Progressives like AOC, Arizona immigration advocacy groups and Republican elected officials denounced Kamala Harris's comments for different reasons."
-    publishedDateTime: 2021-06-09T23:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/09/vice-president-harris-comments-central-american-migration-united-states-draw-ire/7628598002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7628598002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7628598002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/07/PTX1/ac44319b-a6c3-4734-90a8-9131ce31eb53-Kamala_Harris_Presser_Giamattei_1151.JPG?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Kamala Harris’ plane forced to turn around due to mechanical issues: ‘We all said a little prayer’"
     excerpt: "A technical problem that involved “no immediate safety issue” forced Vice President Kamala Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."
     publishedDateTime: 2021-06-07T02:43:00Z
@@ -111,6 +95,15 @@ related:
       name: The Arizona Republic
       domain: azcentral.com
     quality: 21
+  - title: "In Arizona, Vice President Kamala Harris' comments on Central American migration draw fire from left and right"
+    excerpt: "Progressives like AOC, Arizona immigration advocacy groups and Republican elected officials denounced Kamala Harris's comments for different reasons."
+    publishedDateTime: 2021-06-09T23:38:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/09/vice-president-harris-comments-central-american-migration-united-states-draw-ire/7628598002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 15
 
 secured: "bqOH+VlIo7tQ/OEKyMxFLbX2TT6EAvjnDNAyCoNhLdv+lquPKZUeIprU8sNzFGQ/rEuIPVb6gqK+In942XUsQnhzabVMWxTigRRXOYUZJxzcMIZpHrptRb7wwkyJQKyyheyi302CAv0luJEZBrgoWUI1nizRNpQUXKSDS/0caHsJIAdLx2dVFANvRQ70UP7ZOGp0J9J8A51VvTzJxVQtzOebCrWOAO82UBiTvLyZrhHzTVJKsjU7i5UKJd+72BIQl4+qjEvwjGUhVYTd/J0bOWVzawjBCaWT9QuoX1oKPXH15SLdE+BICmdTDpDZvHrSS5ayH8gMg/2/J93d9hHG3YKxl/L9xWqSXI04WEFFeG9AU5+CStT1HGVsJXC+TVUxsDJr1JeJWOIiZIu/2UnQPNCHOI6R3rsUpS4tXXLnIpd4j1I+SQOLmsMm+XqySGUzEVxEfXFZBZl8M9MMdYbMsX0UqPsxWVSPqMVDuubFP2bpTVZWTEoWg7eWCfsgTGV9e4VqLV+mhEEfJTKMCT2cEg==;Ink81i1JL3LatmdZucG2Vg=="
 ---

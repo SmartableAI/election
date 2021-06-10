@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris' rocky first foreign trip"
+    excerpt: "Kamala Harris traveled to Guatemala and Mexico seeking a serious strategy for stemming migration from the Northern Triangle, but her efforts were quickly overshadowed by her flippant response about why she has not visited the US-Mexico border as vice president.\n    \n"
+    publishedDateTime: 2021-06-10T03:01:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i13OhRSNCKA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/kamala-harris-foreign-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/kamala-harris-foreign-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609223159-01-kamala-harris-foreign-trip-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris aiming to deepen US relationship with Guatemala and Mexico on first foreign trip"
     excerpt: "Kamala Harris will try to deepen the United States' \"strategic partnership and bilateral relationship\" with Guatemala and Mexico on her first foreign trip as vice president, according to her senior staff members.\n    \n"
     publishedDateTime: 2021-06-02T11:16:06Z

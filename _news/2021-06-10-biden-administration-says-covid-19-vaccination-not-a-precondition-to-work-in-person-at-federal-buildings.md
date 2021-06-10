@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Hannity Exclusive: Guatemalan president chides Biden administration for mixed messaging"
+    excerpt: "In a “Hannity” exclusive, investigative journalist Sara Carter sat down with Guatemalan President Alejandro Giammattei to discuss Kamala Harris' summit with him, as well as the state of the U.S. border crisis."
+    publishedDateTime: 2021-06-10T02:36:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-exclusive-guatemalan-president-biden-administration-mixed-messaging"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-exclusive-guatemalan-president-biden-administration-mixed-messaging.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-exclusive-guatemalan-president-biden-administration-mixed-messaging.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b057cbd0-863c-4220-9863-7a112b5adc94/a9f119e7-8e8c-4b3a-9743-35f71ac070f7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "ouEwPYrEUm8JtlnaaRNhgzmydCUWDT0mrzZBgW//lq8MySkdig0nYVaMj9ozKV4QjP5+XiqP6mmrT44CRYjtqDtMsiPWBKmjBeQY4Az++Hc/55hse1eiRibQoZlCnbNTtVkucGjUzGYvr12Wy9bn+0T7Z0Z17TAVoWMlYT++aNVTPBeHXg2DYOv6juElVQmuwfs/reGe7vhrud/7GJSHMfJdlKQiC3YBZUu1HVI0Dq7R+vQErrWiaMdjJXRfjkjhtImIRmZpVYT9g/con5FNb1NUdZDVarMTjn8Cq/s7sZG1quP3wESayWfBi98mfC39s+RUMNU2/WAOEoGAMt0b58K9K3MsJXoMk//evzFQwq8=;I+C+/D/F8xmFPooMeVYTNw=="
 ---

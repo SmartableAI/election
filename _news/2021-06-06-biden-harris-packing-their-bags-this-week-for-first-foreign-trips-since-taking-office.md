@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-packing-their-bags-thi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp"
 type: article
 quality: 192
-heat: 852
+heat: 872
 published: true
 
 provider:
@@ -473,6 +473,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e23d498-aabf-4a71-aac3-58951aff62df/8938475b-9604-4491-b659-6f9e5821e6c3/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "CNN: Biden Admin Officials \"Quietly Perplexed\" About Kamala Harris's Interview With Lester Holt"
+    excerpt: "Vice President Kamala Harris back in the United States this morning after a trip to Guatemala and Mexico, her first foreign trip as vice president. This morning, we're told, that some of what she said on the trip,"
+    publishedDateTime: 2021-06-09T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 88
+    images:
+      - url: "https://assets.realclear.com/images/54/543529.jpg"
+        width: 1038
+        height: 778
         isCached: true
   - title: "Kamala Harris: Going To Border Would Be A \"Grand Gesture\""
     excerpt: "Vice President Kamala Harris defends her strategy to get 'real results' during her visit to Guatemala and called a visit to the U.S.-Mexico border a \"grand gesture.\" QUESTION: Sure. Thank you both for taking questions."

@@ -471,6 +471,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "CNN: Biden Admin Officials \"Quietly Perplexed\" About Kamala Harris's Interview With Lester Holt"
+    excerpt: "Vice President Kamala Harris back in the United States this morning after a trip to Guatemala and Mexico, her first foreign trip as vice president. This morning, we're told, that some of what she said on the trip,"
+    publishedDateTime: 2021-06-09T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 88
+    images:
+      - url: "https://assets.realclear.com/images/54/543529.jpg"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "Kamala Harris: Going To Border Would Be A \"Grand Gesture\""
     excerpt: "Vice President Kamala Harris defends her strategy to get 'real results' during her visit to Guatemala and called a visit to the U.S.-Mexico border a \"grand gesture.\" QUESTION: Sure. Thank you both for taking questions."
     publishedDateTime: 2021-06-08T00:00:00Z

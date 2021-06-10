@@ -46,6 +46,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "McGhan: Trump bid to remove Mueller recalled ‘Saturday Night Massacre’"
+    excerpt: "Former White House counsel Don McGhan told lawmakers last week that then-President Donald Trump’s effort to get Special Counsel Robert Mueller fired in June 2017 marked a potential"
+    publishedDateTime: 2021-06-10T03:19:00Z
+    webUrl: "https://nypost.com/2021/06/09/mcghan-trump-bid-to-remove-mueller-recalled-saturday-night-massacre/"
+    ampWebUrl: "https://nypost.com/2021/06/09/mcghan-trump-bid-to-remove-mueller-recalled-saturday-night-massacre/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/mcghan-trump-bid-to-remove-mueller-recalled-saturday-night-massacre/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/mcgahn-trump-saturday-night-massacre-610.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Sp5xLG1DVHuPHTKkzhqJa2oOuDVYFm1PIKVTFgoRQwoYWEFBxgEWZwZCCWwNeK9kbCtbDyJNIHVbg9qSRDXbwFj0DB6xAeLEB4o+Lys3nqe57Rebodh1mWxTJ3Qth2qDxdMqqpuezrfH9M/IpxClGDbmIupvPTgw1k1xmHAFAZjpPKqkegLG5B6HEuJLN3aHaxygxlnbbLrl3KSX3ez3JYk1HM2udgRq1CcrAbSVHm7pjjNSIfOWvdsdPpUWCMZ4W05t9ZHg3v3+fWCwTRoKsPIr1q8RTGJ8YJF0eOHo2jasOrczhOqRBYeCxKwvfvT6U14pO5LxjCduEpuG0WODGjeidGWea9lwVmC1+kA0yYqV0k2XMkE0cpS/hPZIg0OAm6Y8qqJiiyvSlv4RmCpN8jV5K77H9sppR/EWBWaM5hiFwaRX8ehM+ZGrfnu7gX8i1g1YQas7iJOCFtPSf2o0GYX07MLlTrTCWd4TWkXUP8l1kAiki9Of59Xtq94x/Lcrm6gyw1IXFICuPS4B1rOEyg==;nGmxHB4p796GecLkrg4aqQ=="
 ---

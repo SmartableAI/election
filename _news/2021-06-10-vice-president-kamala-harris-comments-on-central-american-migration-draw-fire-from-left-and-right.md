@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "In Arizona, Vice President Kamala Harris' comments on Central American migration draw fire from left and right"
-    excerpt: "Progressives like AOC, Arizona immigration advocacy groups and Republican elected officials denounced Kamala Harris's comments for different reasons."
-    publishedDateTime: 2021-06-09T23:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/09/vice-president-harris-comments-central-american-migration-united-states-draw-ire/7628598002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7628598002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7628598002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/07/PTX1/ac44319b-a6c3-4734-90a8-9131ce31eb53-Kamala_Harris_Presser_Giamattei_1151.JPG?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "VP Kamala Harris' plane forced to return due to `technical issue'"
     excerpt: "The vice president's plane landed safely back at Joint Base Andrews about 25 minutes after takeoff Sunday afternoon."
     publishedDateTime: 2021-06-06T19:18:00Z
@@ -110,6 +94,15 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 48
+  - title: "In Arizona, Vice President Kamala Harris' comments on Central American migration draw fire from left and right"
+    excerpt: "Progressives like AOC, Arizona immigration advocacy groups and Republican elected officials denounced Kamala Harris's comments for different reasons."
+    publishedDateTime: 2021-06-09T23:38:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/09/vice-president-harris-comments-central-american-migration-united-states-draw-ire/7628598002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 15
 
 secured: "kUEeXtPLhXQ61Xcvjd4zoE9CnDMOssh7MsuS1vc5BUQC7R2sZ9Psciqs3irleXFEXMZHJRQUbm1TMtB9JjL0lAgVHHcEGXAkrfLq2mbsRXevGTtmA3Zgwt2TeZ1PeffL2SO6uweTjZ/zG7//SxrVKD7acEoF5gjJbHtC3J/MNnNl3nmVIscuwKbfuP/Zl3SM3/xcpAQp4d+yDl/U/RbZWllBwKKSodoWruR8BUz7TwzUbL3OhBJG4o9AnIZ5RrvDuE0ZCmELyWDxBAWk2t35EmX9bGUsd/2eR2V2eQZHfHMj0qEyAipLGc3f9uBFv456IED0Ig4UQp9U7C9u5dJevIkBRa5ixrIkMTky3lUqmmfWe6Iz7WgyQQfFdhbZNU5EeluwwCuAR1GFhZiKft14x1Ba3ce0OCZaks9nHNbcYjhWn6m6hi+kv3DLUzVAbhW/ZWtPatd0gn+nGCV26xyrC66qlQDScReyQW7XQTAkgdDlgmUQajW3lH2wEu64+8VhdAtwiQrYn7dvl2JZe8TEAg==;d0Z6+2M4Fetj/Q9mleXTgg=="
 ---
