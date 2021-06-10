@@ -152,6 +152,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
+    excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
+    publishedDateTime: 2021-06-09T22:57:00Z
+    webUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/09/d9b8350a-27c7-4f0f-abb4-e6f0f08ba353/thumbnail/1200x630/1586e82cf3dcb5bdded8a03a277cd4fb/0609-en-kvc-731678-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Believes He Can Regain the Presidency This Summer"
     excerpt: "Maggie Haberman and the Washington Post report that Donald Trump has been proclaiming to anybody who would listen that his return to power is imminent. Trump is obsessively following a so-called “audit” in Arizona,"
     publishedDateTime: 2021-06-03T18:06:00Z

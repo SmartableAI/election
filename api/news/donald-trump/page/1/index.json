@@ -54,6 +54,63 @@
       ]
     },
     {
+      "path": "_news/2021-06-10-army-corps-of-engineers-race-to-fix-massive-gaps-in-border-levees-left-by-trump.md",
+      "title": "Army Corps of Engineers race to fix massive gaps in border levees left by Trump",
+      "excerpt": "The U.S. Army Corps of Engineers are racing to fix massive gaps created while building Trump’s border wall. Residents in the Rio Grande Valley are vulnerable to dangerous flooding until they are fixed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/biden-administration-fixing-holes-left-by-trump-in-border-levees-114575429651?playlist=mmlsnnd_bestofnbc-nnd",
+      "originalUrl": "https://www.nbcnews.com/now/video/biden-administration-fixing-holes-left-by-trump-in-border-levees-114575429651?playlist=mmlsnnd_bestofnbc-nnd",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623290231331_ott_now_border_leves_210609_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo114575429651",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114575429651",
+      "publishedDateTime": "2021-06-09T19:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-for-benjamin-netanyahu-like-donald-trump-only-fraud-can-explain-his-defeat.md",
       "title": "For Benjamin Netanyahu, like Donald Trump, only ‘fraud’ can explain his defeat",
       "excerpt": "Israel’s democratic transition is set for Sunday, but nothing is certain amid the prime minister’s scorched-earth campaign to wreck his opponents’ coalition.",
@@ -1504,55 +1561,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6-but-gop-must-move-forward.md",
-      "title": "Pence says he and Trump don’t ‘see eye to eye’ on Jan. 6 — but GOP ‘must move forward’",
-      "excerpt": "In a speech in New Hampshire, former Vice President Mike Pence urged Republicans to move forward following the Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/",
-      "originalUrl": "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/pence-trump-206.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/amp/",
-      "publishedDateTime": "2021-06-03T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump Told Allies He'll Run For President In 2024 Under One Condition: Report"
-excerpt: "Trump’s political ambitions \"are making some congressional Republicans anxious,\" according to interviews conducted by Politico with 20 Republicans in both the House and Senate."
-publishedDateTime: 2021-05-28T11:31:00Z
-originalUrl: "https://www.ibtimes.com/trump-told-allies-hell-run-president-2024-under-one-condition-report-3210998"
-webUrl: "https://www.ibtimes.com/trump-told-allies-hell-run-president-2024-under-one-condition-report-3210998"
-ampWebUrl: "https://www.ibtimes.com/trump-told-allies-hell-run-president-2024-under-one-condition-report-3210998?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-told-allies-hell-run-president-2024-under-one-condition-report-3210998?amp=1"
+title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
+excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
+publishedDateTime: 2021-06-09T22:57:00Z
+originalUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
+webUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
 type: article
-quality: 72
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
-    width: 1024
-    height: 731
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/09/d9b8350a-27c7-4f0f-abb4-e6f0f08ba353/thumbnail/1200x630/1586e82cf3dcb5bdded8a03a277cd4fb/0609-en-kvc-731678-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -168,20 +166,6 @@ related:
         width: 640
         height: 456
         isCached: true
-  - title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
-    excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
-    publishedDateTime: 2021-06-09T22:57:00Z
-    webUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/09/d9b8350a-27c7-4f0f-abb4-e6f0f08ba353/thumbnail/1200x630/1586e82cf3dcb5bdded8a03a277cd4fb/0609-en-kvc-731678-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump Believes He Can Regain the Presidency This Summer"
     excerpt: "Maggie Haberman and the Washington Post report that Donald Trump has been proclaiming to anybody who would listen that his return to power is imminent. Trump is obsessively following a so-called “audit” in Arizona,"
     publishedDateTime: 2021-06-03T18:06:00Z
@@ -197,6 +181,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "Trump Told Allies He'll Run For President In 2024 Under One Condition: Report"
+    excerpt: "Trump’s political ambitions \"are making some congressional Republicans anxious,\" according to interviews conducted by Politico with 20 Republicans in both the House and Senate."
+    publishedDateTime: 2021-05-28T11:31:00Z
+    webUrl: "https://www.ibtimes.com/trump-told-allies-hell-run-president-2024-under-one-condition-report-3210998"
+    ampWebUrl: "https://www.ibtimes.com/trump-told-allies-hell-run-president-2024-under-one-condition-report-3210998?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-told-allies-hell-run-president-2024-under-one-condition-report-3210998?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
+        width: 1024
+        height: 731
         isCached: true
   - title: "Twitter Reacts To Trump's Extremely Wrinkled Pants, Says It's Worn Backwards"
     excerpt: "Trump appeared at a Republican convention wearing noticeably wrinkled pants Twitter users claim he wore his trousers backward Snopes later said Trump had been wearing the pants the right way Former President Donald Trump has been the subject of a Twitter storm after he made headlines this week over his attire at a Republican convention."
@@ -240,6 +240,6 @@ related:
       domain: seattletimes.com
     quality: 55
 
-secured: "BWYvEGkYXcHS4GUBmmZYCrOCB5tSaF9uBdjN/kbO5ulv7gGbZHBUecTSSJDlnLIDVlpzDhnzwNeUB3lXIQ8wsQXS0REt9TcFPG1ikENzBYvh54wUi5r11ixl0O8074jILKVXy0bFxGpjdS6ElJl5bvobZv/2AS1BLEsgZYH5OXiUTXa19v8KTEZWmpSRboBLel9eBI4PwOLfn3W+FLfh0B7sPRnF4z1U7hJEZFAa2JF1zOA4kkFIZQmxHqKs7MEaEWl4iFI/s5JDZ0XCNF+VvehvNTK5z1xzX4R1fxzgEhBxY8PmylVP2TK4a2+COn5sgXpPMHJ02V/oF4iQvg3vE1bFN4sOWAv8ZR/WgkcSmkUDeGPj8LGdR2FK5AUnmr0qbz3dN5E9q0sR6IrPLv5fMOVm4kfbrp8cOB9w6iF2N+Clkr6iJKCnTpZmOSAHQ36JUOPU0s03Cf5Eck5lEpnjf+TipMEIZa4aSLedbOIFXcnT1pvpNBJ/Kh+HB2qzSkK5tTvil3ksiugPaHR7anudwQ==;Lh8V4tet4X09QnCcqNhvVg=="
+secured: "lrhQTSvuJjZCeSW+UJR3fSJwCg62zMeq7KZ8taAWmgg4EuVmwHMt5M5Vbk2ssa7XVY7PKX4RW6ftqZSQ7kIVXQosueNe/dFAILG01X4rdtHVJkO+6N57GFqhjZZ92PCJRt9KqmbJj/nV/pRPpD0KnxurcDtGzCLl4Pf1W9jN0caM2y3E0n0CzcUYg3Uubkbr4Z8SnYmtuiRWQ8jd3LZ3sF8egIh9XUNRyEfjFuzHz0uP6XfsUcRQdvMWnl+byZ95gKM/BuOiUZ5Fhsg7fFAfhOaBMbUu9PNO9vtbbJM+ghBj5nrYi5Jg5Bm+P9IqLp1PMZMWNnenwJhgx0k5L0Z2F1jEyjg1cSxZSyuIn8PIsCY=;ur6MZ32Np2E8dg60GQ42oA=="
 ---
 

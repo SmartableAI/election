@@ -3,8 +3,8 @@ category: news
 title: "CNN: Biden Admin Officials \"Quietly Perplexed\" About Kamala Harris's Interview With Lester Holt"
 excerpt: "Vice President Kamala Harris back in the United States this morning after a trip to Guatemala and Mexico, her first foreign trip as vice president. This morning, we're told, that some of what she said on the trip,"
 publishedDateTime: 2021-06-09T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
 type: article
@@ -201,22 +201,6 @@ related:
     quality: 178
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c9962fd-1510-412f-b97c-f2d99e3a28cf/6153bd59-4c6d-4659-a50f-6191435cb018/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Nikki Haley rips Kamala Harris for handling of border crisis: 'This is embarrassing'"
-    excerpt: "Former U.N. Ambassador Nikki Haley on Tuesday ripped Kamala Harris for her handling of the border, as the Vice President still has yet to set a date to travel there and has gone nearly 100 days without a press conference on the migrant surge."
-    publishedDateTime: 2021-06-09T01:00:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cK2CkTmFO7c/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 178
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc94b485-5058-4d0d-b314-c39b8519a638/04d9b1c6-0f33-4e33-885c-c8e6ab0a7b6c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -456,6 +440,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Nikki Haley rips Kamala Harris for handling of border crisis: 'This is embarrassing'"
+    excerpt: "Former U.N. Ambassador Nikki Haley on Tuesday ripped Kamala Harris for her handling of the border, as the Vice President still has yet to set a date to travel there and has gone nearly 100 days without a press conference on the migrant surge."
+    publishedDateTime: 2021-06-09T14:49:00Z
+    webUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc94b485-5058-4d0d-b314-c39b8519a638/04d9b1c6-0f33-4e33-885c-c8e6ab0a7b6c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris blasted for ‘enjoy the long weekend’ tweet, with no mention of Memorial Day"
     excerpt: "Vice President Kamala Harris sent a tweet telling Americans to “enjoy the long weekend” and disregard America’s national day of mourning, Memorial day."
     publishedDateTime: 2021-05-30T00:44:00Z
@@ -581,6 +581,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "VjqOrmePDbTHkQfUZ9GHFnDi41NnMsy7S+kKoGOkcz4DyhwOohXNkeuj3lwkZ+w6zlb+n3e2UKLw0DYFpmB//2pliB+NRA6jY7OuEvEuTRqs3j9ZoLTq5aXo7n3ScOIZw+0NPVNFJefj9mkmYf7tAU9Kig+x4JQy0hzyhtJvdxHv+LSRfHax37CZEhSGds16dBLHPIaK0MpsCV+YuJQaQiWuAGdN2J0GfTvJkTgCUkA0o7fQuJ9GqE1cc4a+Ywd4YFIzsb+KR3rX0wL59gM/Px2mBShLqCnz3LTX49wblSchR/GV2TsoGFMIJ0KEnd6Lnl6ug55sufuoHoaVMf+mIH+7HBHfcnS7qNQGVg7DdK0=;T0cSbWeYrGoxAn1cs0cAdA=="
+secured: "07Px410DdEqKy0lLbs3/9yASJax7vDJKJ57nXx6AxlreYcDOC0DqDdlrCgI2Luyi/MLTEhng0w/j5AtSxiEc7AwuBU35fXj9snVaLGYJPt/JKzloBszdOMV0tWXGp79XXyMyHu3qkpO6fbCygNor7nwZXP57zG3UO4eCR7hZ5Sw5d5M4bvpyxI0Vvoinqo5R83mvxloxZz/hbpxcNVUn2f2g1QR8poirx3dqOQBOV/0sQaF5mmZa0TJ813FyjdPeBGudJ4zgLhmjPBUVovRu6SOsyqSzxlEOw9flGTzZU++wyf3EoCETpbY+r6xwAbPprINaH8OEgzxXKECD65RAMb8VDLj+OGJWir7Dyt14D48=;GmcY6bP4HOxuoi6h8JWu6g=="
 ---
 

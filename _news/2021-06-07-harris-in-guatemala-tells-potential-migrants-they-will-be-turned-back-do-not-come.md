@@ -208,22 +208,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Nikki Haley rips Kamala Harris for handling of border crisis: 'This is embarrassing'"
-    excerpt: "Former U.N. Ambassador Nikki Haley on Tuesday ripped Kamala Harris for her handling of the border, as the Vice President still has yet to set a date to travel there and has gone nearly 100 days without a press conference on the migrant surge."
-    publishedDateTime: 2021-06-09T01:00:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cK2CkTmFO7c/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 178
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc94b485-5058-4d0d-b314-c39b8519a638/04d9b1c6-0f33-4e33-885c-c8e6ab0a7b6c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Harris says Mexico's refusal to take back migrant families was not discussed during trip"
     excerpt: "Vice President Kamala Harris on Tuesday said that Mexico’s refusal to take back some migrant families turned away from the U.S. was not even discussed in her meetings with Mexican President Andres Manuel Lopez Obrador – as she unveiled a number of U.S. investments in Mexico and the Northern Triangle."
     publishedDateTime: 2021-06-09T15:59:09Z
@@ -444,6 +428,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Nikki Haley rips Kamala Harris for handling of border crisis: 'This is embarrassing'"
+    excerpt: "Former U.N. Ambassador Nikki Haley on Tuesday ripped Kamala Harris for her handling of the border, as the Vice President still has yet to set a date to travel there and has gone nearly 100 days without a press conference on the migrant surge."
+    publishedDateTime: 2021-06-09T14:49:00Z
+    webUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc94b485-5058-4d0d-b314-c39b8519a638/04d9b1c6-0f33-4e33-885c-c8e6ab0a7b6c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris blasted for ‘enjoy the long weekend’ tweet, with no mention of Memorial Day"
     excerpt: "Vice President Kamala Harris sent a tweet telling Americans to “enjoy the long weekend” and disregard America’s national day of mourning, Memorial day."
     publishedDateTime: 2021-05-30T00:44:00Z
@@ -507,7 +507,7 @@ related:
   - title: "CNN: Biden Admin Officials \"Quietly Perplexed\" About Kamala Harris's Interview With Lester Holt"
     excerpt: "Vice President Kamala Harris back in the United States this morning after a trip to Guatemala and Mexico, her first foreign trip as vice president. This morning, we're told, that some of what she said on the trip,"
     publishedDateTime: 2021-06-09T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
     type: article

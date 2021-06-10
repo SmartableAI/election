@@ -2,13 +2,13 @@
 category: news
 title: "Nikki Haley rips Kamala Harris for handling of border crisis: 'This is embarrassing'"
 excerpt: "Former U.N. Ambassador Nikki Haley on Tuesday ripped Kamala Harris for her handling of the border, as the Vice President still has yet to set a date to travel there and has gone nearly 100 days without a press conference on the migrant surge."
-publishedDateTime: 2021-06-09T01:00:16Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cK2CkTmFO7c/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cK2CkTmFO7c/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration"
+publishedDateTime: 2021-06-09T14:49:00Z
+originalUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration"
+webUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration"
 ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-border-crisis-embarrassing-mexico-guatemala-immigration.amp"
 type: article
-quality: 178
+quality: 128
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc94b485-5058-4d0d-b314-c39b8519a638/04d9b1c6-0f33-4e33-885c-c8e6ab0a7b6c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
@@ -507,7 +507,7 @@ related:
   - title: "CNN: Biden Admin Officials \"Quietly Perplexed\" About Kamala Harris's Interview With Lester Holt"
     excerpt: "Vice President Kamala Harris back in the United States this morning after a trip to Guatemala and Mexico, her first foreign trip as vice president. This morning, we're told, that some of what she said on the trip,"
     publishedDateTime: 2021-06-09T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
     type: article
@@ -585,6 +585,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "pf4oFMD9g7n3NqGFBiw01mjM1GE0XDZDS5JoHfB3CCax9HqjQMcTpE2398S2xiPIOF6xJiy+Aj4oLmLJO4I9PFd8U7KY0oCY1Gu0okxDj6xkoBhed+0AXaB9I7u3y0jDegDnyA4C0sxXbuomda4v36tfhrh8+Oi62wM0XO+X7V2b1Sg16TVs/8BxmLb6MBPX/E0YS9yj6XqId36KVG9mD+z9WgaWJ+w5AgaMkEo+bksriuqqP3C7Zac4tFOF+2iKmyc/QROvV1jA4BmT8be45sDna1s0O3pKFcfcZZDKcfsyz3RMCPPyOtezaXc/jqotZZZeKeXUL202QaXlTOZ938FEAr0wQLWOxowh2k+IXCM=;jzcBjk1TSA7rcayizPVqtw=="
+secured: "qJfpo5lcl8PrMvBsrcYc4k7ixc5AXoE5IYIECCqagWx6bQkZc7PnmMDfd8+Me5OSGkVm43XedUVByZ0W8zGQMHZdq/kMoUt7Iov/laaQNtYne72xWEjkMqQ8igRSWtTDmga9hbTGbIxuHgjgTcqytqwG0mxwbo0UnW427nKYGn0qtu2QTs+10ltrC1iGKssAM0xvccOV2prNRD8wMSWn0yyW1KrfWR5qkLLyu4n4zgbCxphNaG37oXt14vHF/Q22uGl+BSQyePKzzZeib3Z6tAEPq39Qtd1A/K++VMJajcxVbDNsQO2uWAy6MsAHfnHnHMzl+q3QRkLGCrNMq3nS0LR00AMZ1Fzyr2yRKaDcMyc=;0g6Plgb1ENerka9Ll9PhdA=="
 ---
 
