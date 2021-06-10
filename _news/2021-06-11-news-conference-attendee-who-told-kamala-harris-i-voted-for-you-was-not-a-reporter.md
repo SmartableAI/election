@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Kamala Harris Tells Guatemalans Not To Migrate To The United States"
-excerpt: "The vice president met with Guatemala's president to talk about the root causes behind migration to the United States, including corruption. But another prominent Democrat called that \"disappointing.\""
-publishedDateTime: 2021-06-08T02:55:00Z
-originalUrl: "https://www.npr.org/2021/06/07/1004074139/harris-tells-guatemalans-not-to-migrate-to-the-united-states"
-webUrl: "https://www.npr.org/2021/06/07/1004074139/harris-tells-guatemalans-not-to-migrate-to-the-united-states"
+title: "News conference attendee who told Kamala Harris “I voted for you” was not a reporter"
+excerpt: "The person who told Kamala Harris “I voted for you” at a Mexico City news conference was not a Univision reporter. She was part of an academic research program. She was introduced during the press Q&A portion by White House staff as being with Univision."
+publishedDateTime: 2021-06-10T20:55:00Z
+originalUrl: "https://www.politifact.com/article/2021/jun/10/news-conference-attendee-who-told-kamala-harris-i-/"
+webUrl: "https://www.politifact.com/article/2021/jun/10/news-conference-attendee-who-told-kamala-harris-i-/"
 type: article
-quality: 105
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: NPR
-  domain: npr.org
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
-      width: 50
-      height: 50
+  name: Politifact
+  domain: politifact.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://media.npr.org/assets/img/2021/06/07/ap_21158671061761_wide-c6b25c1c8252d3e62220c77ee466acf4673882d6.jpg?s=1400"
-    width: 1400
-    height: 787
+  - url: "https://static.politifact.com/CACHE/images/politifact/photos/Vice_President_Kamala_Harris_June_8_alt/2c6bbfa2d3ad3e70cae6dbc04168dfdd.jpg"
+    width: 1024
+    height: 584
     isCached: true
 
 related:
@@ -266,6 +262,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/07/46bd0208-92d3-4d31-ba60-f4bd1f7e932f/thumbnail/1200x630/14da784aa27faf0d8cf6a502ff78a69e/cbsn-fusion-kamala-harris-guatemala-president-thumbnail-730040-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris Tells Guatemalans Not To Migrate To The United States"
+    excerpt: "The vice president met with Guatemala's president to talk about the root causes behind migration to the United States, including corruption. But another prominent Democrat called that \"disappointing.\""
+    publishedDateTime: 2021-06-08T02:55:00Z
+    webUrl: "https://www.npr.org/2021/06/07/1004074139/harris-tells-guatemalans-not-to-migrate-to-the-united-states"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/06/07/ap_21158671061761_wide-c6b25c1c8252d3e62220c77ee466acf4673882d6.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Today’s Headlines: Kamala Harris’ message to migrant hopefuls"
     excerpt: "In Guatemala, Vice President Kamala Harris told would-be migrants to not come to the U.S. TOP STORIES. VP Harris’ Message to Migrant Hopefuls. During her trip to Guatemala’s c"
@@ -797,20 +807,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 50
-  - title: "News conference attendee who told Kamala Harris “I voted for you” was not a reporter"
-    excerpt: "The person who told Kamala Harris “I voted for you” at a Mexico City news conference was not a Univision reporter. She was part of an academic research program. She was introduced during the press Q&A portion by White House staff as being with Univision."
-    publishedDateTime: 2021-06-10T20:55:00Z
-    webUrl: "https://www.politifact.com/article/2021/jun/10/news-conference-attendee-who-told-kamala-harris-i-/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 48
-    images:
-      - url: "https://static.politifact.com/CACHE/images/politifact/photos/Vice_President_Kamala_Harris_June_8_alt/2c6bbfa2d3ad3e70cae6dbc04168dfdd.jpg"
-        width: 1024
-        height: 584
-        isCached: true
   - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
     excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
     publishedDateTime: 2021-04-20T23:17:00Z
@@ -839,6 +835,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "iE1KndFGPS/QczMiGfSQHDWGuHXk5bK3XKTT+BQVviQCzCtOk2fulbK0avSKj4aXiWgggD6DLWDUnQ56OsRkP1jXprx4EdzgpN2UNd3DGRI0nhidb+72LhYxcY7EdIczJHToGCR9lts3qHvPUmdXYIwXF0sKc6d20gBJzVQsX40eSOFS97spXJiv7jPglgV0NNtNRYPxQ9sPxBSH0QK3u8+3uvFlvhnxASniUoKpgxE+9cxJ+mLwtoOs3JG97/mnm3q3Tw28QlRP8Sg/9doDYWeyVSCea+2JCYr94qN5vzOLzMimuo4X2QE42B+WCmyndyB7vWhJkTH9GCZW/RLLTrf2YxL5OY7674x5CXLuj56eae9j7u2ZF/dUzW1G39g8mPXnZAPATBfvHzuLREISjNB0cQzdVRQ5L4qaPYD6YQQktDWIzP9DwYStXd9OYtQK9wiGh7+caTaN70cSfeZuC79ALND9vGZI/yOfDji8iVJuRqzlLWnjPyAWZ3F77bq8rRxyFbFzsWzw3CiY0Goy/g==;lovFUxC0LSDlX9w7bPk99Q=="
+secured: "mZwmVpROzup+VTNhjCrIunQgx6RnhTELQIW9+9HIdCgbcd8Nt6VfjUet8L59BVVtPfqD93S/+mnwc2vNeWBmjW7ZPZZ2/hCTJrDTx7lu4xGmpTlAhnkcuDPIy3dtuFiBSYkuis/jHCNYD4Fp2tyOnbQY32vuHBy1KkHtWfHQCDejS+ImIvlON8H0kal6V91J/k9eM2I0cYMnyvF5D2GQFxFv2Cq8Rcqd8gXvKwJWOAefon05asPYJkAv48zPab3Ra/bFScYxPw6G07ICAxXVhVwK6bipzzPesmhW/3/o6MshPH2c6/OpALpUq/10lOKPysHRzB9qan7YuRO/JioRUlA3WZRRojXmRpXlYj/IavM=;OZ2mEm84+8zMqz5qKubWVg=="
 ---
 

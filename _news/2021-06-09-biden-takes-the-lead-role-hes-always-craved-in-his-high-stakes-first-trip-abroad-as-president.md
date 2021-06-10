@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "See Boris Johnson's reaction to Biden's joke about their wives"
+    excerpt: "CNN's Nic Robertson says British Prime Minister Boris Johnson's reaction to a joke from President Joe Biden shows that Johnson desperately wants to get along with Biden.\n    \n"
+    publishedDateTime: 2021-06-10T16:30:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SiH2qX7rcEU/biden-boris-johnson-wants-to-be-liked-robertson-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2021/06/10/biden-boris-johnson-wants-to-be-liked-robertson-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/06/10/biden-boris-johnson-wants-to-be-liked-robertson-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610112719-joe-biden-boris-johnson-for-video-june-10-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Biden's foreign trip is so unique and so important "
     excerpt: "Joe Biden's first foreign trip as President comes at a unique moment.\n    \n"
     publishedDateTime: 2021-06-10T10:41:45Z
@@ -76,6 +92,20 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "In photos: Biden's first trip abroad as president"
+    excerpt: "President Joe Biden is traveling to the United Kingdom, Belgium and Switzerland for his first international trip since taking office.\n    \n"
+    publishedDateTime: 2021-06-10T19:59:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/om79cu_KjxI/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610154842-10b-biden-overseas-0610-uk-johnson-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

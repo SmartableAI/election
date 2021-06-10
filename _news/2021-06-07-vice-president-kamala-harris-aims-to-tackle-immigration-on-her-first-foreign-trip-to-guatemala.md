@@ -797,6 +797,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 50
+  - title: "News conference attendee who told Kamala Harris “I voted for you” was not a reporter"
+    excerpt: "The person who told Kamala Harris “I voted for you” at a Mexico City news conference was not a Univision reporter. She was part of an academic research program. She was introduced during the press Q&A portion by White House staff as being with Univision."
+    publishedDateTime: 2021-06-10T20:55:00Z
+    webUrl: "https://www.politifact.com/article/2021/jun/10/news-conference-attendee-who-told-kamala-harris-i-/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 48
+    images:
+      - url: "https://static.politifact.com/CACHE/images/politifact/photos/Vice_President_Kamala_Harris_June_8_alt/2c6bbfa2d3ad3e70cae6dbc04168dfdd.jpg"
+        width: 1024
+        height: 584
+        isCached: true
   - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
     excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
     publishedDateTime: 2021-04-20T23:17:00Z

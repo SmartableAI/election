@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/louis-dejoy-campaign-con
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/louis-dejoy-campaign-contributions/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190716072234-e-jean-carroll-new-day-071619-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "DOJ charges six connected to pro-Trump rallies and right-wing revolutionary group in new Capitol riot conspiracy case"
+    excerpt: "Six men from California who allegedly organized themselves as a \"DC Brigade,\" including one man who spoke at a right-wing rally in Washington, DC, the day before the January 6 attack on the US Capitol, face new conspiracy charges from the Justice Department, according to court documents made public on"
+    publishedDateTime: 2021-06-10T21:38:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l1C4FjGpJvo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/capitol-riot-three-percenters-conspiracy-case-doj/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/capitol-riot-three-percenters-conspiracy-case-doj/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 152
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527011135-02-capitol-riot-file-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

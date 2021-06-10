@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "DOJ charges six connected to pro-Trump rallies and right-wing revolutionary group in new Capitol riot conspiracy case"
+    excerpt: "Six men from California who allegedly organized themselves as a \"DC Brigade,\" including one man who spoke at a right-wing rally in Washington, DC, the day before the January 6 attack on the US Capitol, face new conspiracy charges from the Justice Department, according to court documents made public on"
+    publishedDateTime: 2021-06-10T21:38:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l1C4FjGpJvo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/capitol-riot-three-percenters-conspiracy-case-doj/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/capitol-riot-three-percenters-conspiracy-case-doj/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 152
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527011135-02-capitol-riot-file-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "YgufCQmWbwCSIVgsjm+0j7Cs1e2c/lGsmeRNIFX2ZybtvkBcp7qM3BZmekwlOMa5ANmrEmPVAHEYBapFUsW9hAkrl88glX0Bgo00ELuAezg0Bqpna6pjdadRaMaQ2CNm2gchTfYQIiFfNL1Fkk74yV7S7CGf4kGze5n8rxY1u5FrpyLOQN+2YToarx+uZXrQxLKmj5pO2RynWT9XaYu3oR+YtRKwgX/F1EVaASE/jKBn4RbNqiBYBpUQ6CnYncp1zhj77AO+sNx8dGrrUnOkpLH2z5p1N+xaqTnDfSLLabZ6Sq+0cOSArJBpOtUAisDeZUMg3WvoB31bPn53AbYhwhXf/VG/FkFSAYe/g2Rq0oR39/ZLPsq3s4vqWSTwPFLvNNZRNPr2D8K4/jZhuyd6wkm6nvpBpZ0JG3h3mgzgAZCK5ZZw28ntpIA49Q8o6SrvTr2zG3KWXLdlvcYrfexVJFyraLTBvQQFgfDbdeV18o5AABS0Bx/OdXhno4mO/5J/RASH9MHcjV8AdWUhlnZ93Q==;tpnyHkgF/qmGvNysCwa+0g=="
 ---

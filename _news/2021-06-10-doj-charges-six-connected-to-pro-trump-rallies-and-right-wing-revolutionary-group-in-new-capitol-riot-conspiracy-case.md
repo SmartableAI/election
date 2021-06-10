@@ -1,14 +1,14 @@
 ---
 category: news
-title: "DOJ argues it should substitute for Trump as defendant in E. Jean Carroll lawsuit"
-excerpt: "The Justice Department argued in a brief filed Monday that it should be permitted to substitute itself for former President Donald Trump as defendant in a defamation lawsuit brought by a longtime magazine columnist, E. Jean Carroll, who accused him of rape, continuing the argument it had initiated under"
-publishedDateTime: 2021-06-08T03:46:39Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/30BWRjQJ-5M/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/30BWRjQJ-5M/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/e-jean-carroll-trump-lawsuit-justice-department/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/e-jean-carroll-trump-lawsuit-justice-department/index.html"
+title: "DOJ charges six connected to pro-Trump rallies and right-wing revolutionary group in new Capitol riot conspiracy case"
+excerpt: "Six men from California who allegedly organized themselves as a \"DC Brigade,\" including one man who spoke at a right-wing rally in Washington, DC, the day before the January 6 attack on the US Capitol, face new conspiracy charges from the Justice Department, according to court documents made public on"
+publishedDateTime: 2021-06-10T21:38:34Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l1C4FjGpJvo/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l1C4FjGpJvo/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/capitol-riot-three-percenters-conspiracy-case-doj/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/capitol-riot-three-percenters-conspiracy-case-doj/index.html"
 type: article
-quality: 170
+quality: 152
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/190716072234-e-jean-carroll-new-day-071619-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527011135-02-capitol-riot-file-0106-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,19 +63,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "DOJ charges six connected to pro-Trump rallies and right-wing revolutionary group in new Capitol riot conspiracy case"
-    excerpt: "Six men from California who allegedly organized themselves as a \"DC Brigade,\" including one man who spoke at a right-wing rally in Washington, DC, the day before the January 6 attack on the US Capitol, face new conspiracy charges from the Justice Department, according to court documents made public on"
-    publishedDateTime: 2021-06-10T21:38:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l1C4FjGpJvo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/capitol-riot-three-percenters-conspiracy-case-doj/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/capitol-riot-three-percenters-conspiracy-case-doj/index.html"
+  - title: "DOJ argues it should substitute for Trump as defendant in E. Jean Carroll lawsuit"
+    excerpt: "The Justice Department argued in a brief filed Monday that it should be permitted to substitute itself for former President Donald Trump as defendant in a defamation lawsuit brought by a longtime magazine columnist, E. Jean Carroll, who accused him of rape, continuing the argument it had initiated under"
+    publishedDateTime: 2021-06-08T03:46:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/30BWRjQJ-5M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/e-jean-carroll-trump-lawsuit-justice-department/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/e-jean-carroll-trump-lawsuit-justice-department/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 152
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527011135-02-capitol-riot-file-0106-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190716072234-e-jean-carroll-new-day-071619-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -96,6 +96,6 @@ related:
         height: 550
         isCached: true
 
-secured: "moIxz2MLdFWUr04HZ29i5b/DjoB8qG9QW3XrCCkt/kSlfktuqX0aoJhmyGw9aPPejCCvB+qTk1WUyhudF2aYWloVIxIErJvewfgTMREYIFNTmUeNER2Lz1tM3KbZJFM9R2hgGnKiuRyuXorOSj4oX4xmXJJkBm2njcJMr2sPRzpsGgVInosFM6LXKnazBX24pV7uZPUscBdBA2tbR+z7LqF6IWXjI5GS0Eyt520dUhYC0Bcr/PS5fCij4pAJrQpDQAdGMkjsg2RszXkPQwbb+GJjL2YwZGw5Kml92JOSPcC+2Qd8HxyLPLPxMkoDX4EZVoc2MA4RN+Va/4VJtCxcLD7kgjWWO/NP6drUnV8+lxg=;AHOL8jRBAFkACu9ENg/5BA=="
+secured: "nnvrY7LPJ0UDKzUGo0zAG7t+pbb30nFaxaj8OYY/X5ZhWGzMPJxfZWV2AmCz2Sn6EHUzODQOfQcb6tDmkvOpx1zqmG2+rHGOliMxAE3bLid+Bvq1yWeN5UNtKWRB2cI3q2c+J0qqw4Kiwezzza8Aw3DtX87GzFo6SfdNEjkMcZTAjfHsrkpV5zsAs2c5VetsQB4F0Ddx7fF7bBIf2SRFZWESBId6QZRs2Iq7XW24Ewn+YCMY5pp3LkwRPAgD9Cuz8LQ1yYZvAJIfaCxWkw8fvPZqCQDoIyQFPti0YJ4i8haH5DfXT/v3cHrNT9f7Drfh/uO0zFJHZnWmaY15ibdFAcOPPahl+WL9rcgrJ9Rz8ww=;ffhE07g513dMwpm/em8d5w=="
 ---
 

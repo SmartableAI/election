@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden poised to announce first slate of ambassador nominees as he eyes first trip abroad"
-excerpt: "President Joe Biden has made final decisions on several high-profile ambassador posts around the world and is poised to announce the first slate of nominees in the coming days as he prepares to set off on his first overseas trip since taking office.\n    \n"
-publishedDateTime: 2021-06-05T13:02:02Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FgTpE5IZbN4/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FgTpE5IZbN4/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
+title: "See Boris Johnson's reaction to Biden's joke about their wives"
+excerpt: "CNN's Nic Robertson says British Prime Minister Boris Johnson's reaction to a joke from President Joe Biden shows that Johnson desperately wants to get along with Biden.\n    \n"
+publishedDateTime: 2021-06-10T16:30:09Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SiH2qX7rcEU/biden-boris-johnson-wants-to-be-liked-robertson-sot-vpx.cnn"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SiH2qX7rcEU/biden-boris-johnson-wants-to-be-liked-robertson-sot-vpx.cnn"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2021/06/10/biden-boris-johnson-wants-to-be-liked-robertson-sot-vpx.cnn"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/06/10/biden-boris-johnson-wants-to-be-liked-robertson-sot-vpx.cnn"
 type: article
-quality: 166
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610112719-joe-biden-boris-johnson-for-video-june-10-2021-01-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "See Boris Johnson's reaction to Biden's joke about their wives"
-    excerpt: "CNN's Nic Robertson says British Prime Minister Boris Johnson's reaction to a joke from President Joe Biden shows that Johnson desperately wants to get along with Biden.\n    \n"
-    publishedDateTime: 2021-06-10T16:30:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SiH2qX7rcEU/biden-boris-johnson-wants-to-be-liked-robertson-sot-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2021/06/10/biden-boris-johnson-wants-to-be-liked-robertson-sot-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/06/10/biden-boris-johnson-wants-to-be-liked-robertson-sot-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610112719-joe-biden-boris-johnson-for-video-june-10-2021-01-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Why Biden's foreign trip is so unique and so important "
     excerpt: "Joe Biden's first foreign trip as President comes at a unique moment.\n    \n"
     publishedDateTime: 2021-06-10T10:41:45Z
@@ -76,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609164025-03-biden-international-trip-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden poised to announce first slate of ambassador nominees as he eyes first trip abroad"
+    excerpt: "President Joe Biden has made final decisions on several high-profile ambassador posts around the world and is poised to announce the first slate of nominees in the coming days as he prepares to set off on his first overseas trip since taking office.\n    \n"
+    publishedDateTime: 2021-06-05T13:02:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FgTpE5IZbN4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -172,6 +172,6 @@ related:
         height: 629
         isCached: true
 
-secured: "bS+mENln7vROeKEeFPFMOBoCQ//FJxILVuYi3xCH7VmKdmVkDFgYTiijVD8xfnNNiAuckLMGtjUp4lyVfKMgcLxid0HxBiNBCx33bbcuSc/LOO5b+pcMEfMt2qbXhW+nUpmtmYTfS0haOQZztV4Y/VXhnpAP/bU/G4wWQui+KvrqcEbbgL5H+Lp99Xs442Wa/RbOkLiv4g2XXhNHZyEaSpY6cQbarnfxdzt5zfI/eMnboa4WAnI/YL+w/j1s2lUhk7HwnNxlr1x5Cay78pF+H2/LQd0GAxE5IGA2OWoorDp2aEevqmUVsrp54AgsoN+EN5bOvKbgjInZjlbYtrcwFy/e5gZMCSRK2L6w6YGpC5U=;Yd5n1qRwip8JDJ5C073Nug=="
+secured: "hYb5uOwlE3Yfy+vNhdGCZ4/WCXWhZ+nujpM3UICbU0t8yjK3fIpUtePk1r7bGVrOlqBYn3MhUhF/FZ39VCy2r+E6jUQ+LmsIxkxh8s6KgAHhCm2R42Svyr5eD5Wxzr31nRlIHCiImM+6fY+clgX0B74On9IMk45KEpPSFOQ5gtVWXQrkg5uIenuvRby3goMlh8fNYd1bj1y6zkxuoeytJNaD4nUKirjnar5SVHLlm1Msegmkx6XFwk/jsEd2fQnlnYJlLAGkmlO/x3QYAEUA0c9rCzWSqXZmOjZfrFc6HZlOnLiBDO9vRryPpmX6xf1pVofCbtyIyBPb2+pqFMNSIcdiaWtK3RKxyYeoR5EEluo=;vhNQCJOjr9nRwLqsGR52Bw=="
 ---
 

@@ -234,6 +234,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden admin softens defense of law protecting religious exemption after liberals complain"
+    excerpt: "President Biden's administration appeared to soften the language it used to defend a religious exemption after intense backlash from progressives."
+    publishedDateTime: 2021-06-10T21:31:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4RIdb6U0G48/biden-doj-lgbtq-religious-exemption-defense-law"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-lgbtq-religious-exemption-defense-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-lgbtq-religious-exemption-defense-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f54365df-0068-4544-a216-f26e426c7b0f/e849bcc4-fe35-4e2c-a44a-96a0c7f4dcfc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden speech commemorating Tulsa race massacre to detail efforts to combat racial inequality"
     excerpt: "President Biden will detail his administration’s planned initiatives to combat racial injustice on Tuesday during a speech commemorating the 100th anniversary of the Tulsa race massacre."
     publishedDateTime: 2021-06-01T09:22:52Z

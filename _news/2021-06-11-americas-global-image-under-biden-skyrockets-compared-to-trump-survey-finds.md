@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden DOJ signals it will defend law that allows discrimination in schools"
-excerpt: "The Justice Department said in a court filing Tuesday that it will continue to defend a federal law that allows religious schools to discriminate against LGBTQ students.\n    \n"
-publishedDateTime: 2021-06-09T17:42:21Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7m179AlDJ6k/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7m179AlDJ6k/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/justice-department-schools-law/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/justice-department-schools-law/index.html"
+title: "America's global image under Biden skyrockets compared to Trump, survey finds"
+excerpt: "A median of 75 percent of respondents from 12 countries expressed confidence in Biden, compared with 17 percent for Trump in 2020."
+publishedDateTime: 2021-06-10T21:16:00Z
+originalUrl: "https://www.nbcnews.com/politics/joe-biden/america-s-global-image-under-biden-skyrockets-compared-trump-survey-n1270401"
+webUrl: "https://www.nbcnews.com/politics/joe-biden/america-s-global-image-under-biden-skyrockets-compared-trump-survey-n1270401"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270401"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270401"
 type: article
-quality: 173
+quality: 147
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609132226-us-dept-of-education-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3424079/201029-joe-biden-florida-jm-1513.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -191,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden DOJ signals it will defend law that allows discrimination in schools"
+    excerpt: "The Justice Department said in a court filing Tuesday that it will continue to defend a federal law that allows religious schools to discriminate against LGBTQ students.\n    \n"
+    publishedDateTime: 2021-06-09T17:42:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7m179AlDJ6k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/justice-department-schools-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/justice-department-schools-law/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609132226-us-dept-of-education-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says US to buy and donate half-billion doses of Pfizer's Covid vaccine"
     excerpt: "President Joe Biden's expected announcement Thursday evening that the United States plans to donate 500 million Pfizer Covid-19 vaccine doses globally will be a part of his efforts to reassert US leadership on the world stage, officials said.\n    \n"
     publishedDateTime: 2021-06-10T18:36:51Z
@@ -287,22 +304,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "America's global image under Biden skyrockets compared to Trump, survey finds"
-    excerpt: "A median of 75 percent of respondents from 12 countries expressed confidence in Biden, compared with 17 percent for Trump in 2020."
-    publishedDateTime: 2021-06-10T21:16:00Z
-    webUrl: "https://www.nbcnews.com/politics/joe-biden/america-s-global-image-under-biden-skyrockets-compared-trump-survey-n1270401"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270401"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270401"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 147
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3424079/201029-joe-biden-florida-jm-1513.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Biden's Justice Department moves to defend Trump in defamation suit from accuser E. Jean Carroll"
     excerpt: "E. Jean Carroll has accused the former president of sexual assault and defamation by saying it \"never happened.\""
     publishedDateTime: 2021-06-08T04:43:00Z
@@ -364,6 +365,6 @@ related:
         height: 773
         isCached: true
 
-secured: "dLLn/R6ItQ0gvaPZK2Ax4iSF6ND1BACdrA4pIy+M7qYmrm8nMZPgucYxn9jQDQc/vHiR0grhm53Ngnmke5Q72oqHJbJ2o1m77HpOP3uguWQ6nlEd441K2Ytlie3CIJXigbmiXtdCGU6QgCf649klh4woQ0ZY1m3nQISn7xnJ0TP1DewpDm0lOiyfO5FyALmbW6DZyQDXSK8v5etZYSuKLlVLfHggdO6mRsUcn6RFHtkRxbFYGzSwdwb0fGoiJtWMKwPLVn4XCIfIwDDHIJ4d8NQgz2DTKegJpOd4uEx2mky4lUyNMHme6Fgwpi+/6hDqHJZzJswGu8f8hzVxbCOFOe6InZ8ZEcuLJ/N702eNGNs=;R90EcNLczp8CRT/0ixN2rg=="
+secured: "JTVmdV85v1kZjbLTRkz5w4NGOZuZZBACAQ+41m0pLKHXtgrjZrR55AS7jTVnAgPI1DMx6/FFQz69RpGr3JSBHBfsC+c06pPzA73/8+lVgX5xLI/7MGm1o6WIs75UoLxLrnkXcW+ugQotSLgzjB1n87P8l+VkKWzOeJ7rr+5ns0fq309w1CkxAr+yHMEu1Og5AsavX2mbJs7RodBdO2fj4b6cXjvp/Jn4OGzJpwk6QkhlzAVFQZfbHIxTfP5aeiYqpgEsgrZxzABUKT52rMDLLf5FQkesvB+cUPFEd4+HYgGich94gSvzmdJwWa4lf+5c8D8DS6Fmgynl0H48AJsNfhpVj3mYg++KbbSK2gne1n4=;5a04Xo5XbmUqntCikUl1UQ=="
 ---
 

@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Biden poised to announce first slate of ambassador nominees as he eyes first trip abroad"
-excerpt: "President Joe Biden has made final decisions on several high-profile ambassador posts around the world and is poised to announce the first slate of nominees in the coming days as he prepares to set off on his first overseas trip since taking office.\n    \n"
-publishedDateTime: 2021-06-05T13:02:02Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FgTpE5IZbN4/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FgTpE5IZbN4/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
+title: "In photos: Biden's first trip abroad as president"
+excerpt: "President Joe Biden is traveling to the United Kingdom, Belgium and Switzerland for his first international trip since taking office.\n    \n"
+publishedDateTime: 2021-06-10T19:59:59Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/om79cu_KjxI/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/om79cu_KjxI/index.html"
 type: article
-quality: 166
+quality: 155
 heat: -1
 published: false
 
@@ -25,7 +23,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610154842-10b-biden-overseas-0610-uk-johnson-restricted-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -79,6 +77,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden poised to announce first slate of ambassador nominees as he eyes first trip abroad"
+    excerpt: "President Joe Biden has made final decisions on several high-profile ambassador posts around the world and is poised to announce the first slate of nominees in the coming days as he prepares to set off on his first overseas trip since taking office.\n    \n"
+    publishedDateTime: 2021-06-05T13:02:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FgTpE5IZbN4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/ambassadors-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden takes the lead role he's always craved in his high-stakes first trip abroad as president"
     excerpt: "When President Joe Biden told officials this spring that he wanted to meet soon with his Russian counterpart for a summit, his team quickly set out to make it happen -- even if some wondered what he really hoped to achieve.\n    \n"
     publishedDateTime: 2021-06-09T06:35:10Z
@@ -92,20 +106,6 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608104620-joe-biden-060421-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "In photos: Biden's first trip abroad as president"
-    excerpt: "President Joe Biden is traveling to the United Kingdom, Belgium and Switzerland for his first international trip since taking office.\n    \n"
-    publishedDateTime: 2021-06-10T19:59:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/om79cu_KjxI/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610154842-10b-biden-overseas-0610-uk-johnson-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -172,6 +172,6 @@ related:
         height: 629
         isCached: true
 
-secured: "bS+mENln7vROeKEeFPFMOBoCQ//FJxILVuYi3xCH7VmKdmVkDFgYTiijVD8xfnNNiAuckLMGtjUp4lyVfKMgcLxid0HxBiNBCx33bbcuSc/LOO5b+pcMEfMt2qbXhW+nUpmtmYTfS0haOQZztV4Y/VXhnpAP/bU/G4wWQui+KvrqcEbbgL5H+Lp99Xs442Wa/RbOkLiv4g2XXhNHZyEaSpY6cQbarnfxdzt5zfI/eMnboa4WAnI/YL+w/j1s2lUhk7HwnNxlr1x5Cay78pF+H2/LQd0GAxE5IGA2OWoorDp2aEevqmUVsrp54AgsoN+EN5bOvKbgjInZjlbYtrcwFy/e5gZMCSRK2L6w6YGpC5U=;Yd5n1qRwip8JDJ5C073Nug=="
+secured: "b16J2LrgJXFyWLs7MGBFme7zw1MZISn6K6StXDkkQcZdLAB4Oreb30jFKLdyXZL99ZKax5CQ8Y/7CpugYFek7NjfwaXkP1rqPL0LENE7gcsnQRuBnFu83iyTRAnrP5sxuBu09w5VMFGs05vle1d2d6GQphV3kB6+Sp5icNgxju5Bfs0ZhE6wCiwuIdrr2oHvGjMo7LxdVnbk/iUpM7+c597CBnOnyxHYb147ymGmKulumsaphpMVkYig+lsdz2V8kFioRJk5zNohTSDXLzhuXypeG5v2E/mf8jrjgmFTbNALZStD0Ig5CPHfVdpAA34NK87R6tk719Rd3XXpIVGauZ86wLsww2XwWgJbG5DNqVo=;CKq7yQIMMd/Il1ujwzp6SA=="
 ---
 

@@ -239,6 +239,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden admin softens defense of law protecting religious exemption after liberals complain"
+    excerpt: "President Biden's administration appeared to soften the language it used to defend a religious exemption after intense backlash from progressives."
+    publishedDateTime: 2021-06-10T21:31:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4RIdb6U0G48/biden-doj-lgbtq-religious-exemption-defense-law"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-lgbtq-religious-exemption-defense-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-lgbtq-religious-exemption-defense-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f54365df-0068-4544-a216-f26e426c7b0f/e849bcc4-fe35-4e2c-a44a-96a0c7f4dcfc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "68 GOP members send letter to Biden admin slamming POTUS for waiving Nord Stream 2 Pipeline sanctions"
     excerpt: "Russia's Nord Stream 2 gas pipeline is the subject of a letter 68 Republican House of Representatives members sent to the Biden administration."
     publishedDateTime: 2021-06-07T16:24:13Z

@@ -801,6 +801,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 50
+  - title: "News conference attendee who told Kamala Harris “I voted for you” was not a reporter"
+    excerpt: "The person who told Kamala Harris “I voted for you” at a Mexico City news conference was not a Univision reporter. She was part of an academic research program. She was introduced during the press Q&A portion by White House staff as being with Univision."
+    publishedDateTime: 2021-06-10T20:55:00Z
+    webUrl: "https://www.politifact.com/article/2021/jun/10/news-conference-attendee-who-told-kamala-harris-i-/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 48
+    images:
+      - url: "https://static.politifact.com/CACHE/images/politifact/photos/Vice_President_Kamala_Harris_June_8_alt/2c6bbfa2d3ad3e70cae6dbc04168dfdd.jpg"
+        width: 1024
+        height: 584
+        isCached: true
   - title: "With immigration and voting rights, is Biden setting up Kamala Harris for failure in 2024?"
     excerpt: "Vice President Kamala Harris is already the front-runner for the 2024 Democratic nomination, making everything she does fodder for political attacks."
     publishedDateTime: 2021-06-10T12:00:00Z

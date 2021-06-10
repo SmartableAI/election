@@ -63,6 +63,20 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Trump-appointed US Ambassador To Brazil Resigns"
+    excerpt: "The American ambassador to Brazil, Todd Chapman, a Donald Trump appointee seen as close to far-right President Jair Bolsonaro, said Thursday he had resigned in a letter to current US President Joe Biden."
+    publishedDateTime: 2021-06-10T19:18:00Z
+    webUrl: "https://www.ibtimes.com/trump-appointed-us-ambassador-brazil-resigns-3222800"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/10/brazilian-president-jair-bolsonaro-and-us-ambassador-to.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "bi3b0mgNI5rQOWCSu1R3aq7JBaI6ljDEHgIgxcB+VyM1Zj8Y03aEyJ723AtMC6m0gDeF1JNhifEMr4kQGpiPmN5gDkpuxCSbbZW0OrK1Yn1ahnbOZZz36zbhrs1J0uT78p8SLFRliKOsp/2LvWCC458iETzk53jbG8G/HDH/XXhXHGa8Rtzn82PD7CB1euq7b3eC8/8WEAucJk5BgpgSReLjk1aIZe/ULMv8TsTmCPcCUdqIsMo+EkjglG8tX/aCqk1lLfdsC0V0OwsTWZhPwGED7WG8LSrjouim8JWMVvzCfPVRMb8Z8fJiQGdKZyurNvHygzecXmWQO4SUJ5Ji4W+c1t18MaQmCd8XDF/fszaqqY4AABfCrmHrhODzPiAzDR8CItMw3lF19TBcKIX9yCa7ln+fkzCa7k1Cup58OvGkqrQs6DpL9MHV0wP3LgxIWNTL4IXTVwYHyDB4cgrT3JTT33N8THT2JPLS0jfGiiAEYQWnJwvSKfLtcUFzH0vqvck5dxPp12jXNIY7ZlNejg==;TsBhauLiVZa+ERKouWflXg=="
 ---

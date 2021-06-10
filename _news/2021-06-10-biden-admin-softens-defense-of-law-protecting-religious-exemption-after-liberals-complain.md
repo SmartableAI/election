@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden won't form his own commission to study Capitol riot, White House says"
-excerpt: "The White House on Thursday shot down the idea of forming its own presidential commission to study the Jan. 6 attack on the Capitol, saying it is Congress’ “unique role” to carry out that investigation."
-publishedDateTime: 2021-06-03T21:26:42Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
-ampWebUrl: "https://www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+title: "Biden admin softens defense of law protecting religious exemption after liberals complain"
+excerpt: "President Biden's administration appeared to soften the language it used to defend a religious exemption after intense backlash from progressives."
+publishedDateTime: 2021-06-10T21:31:55Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4RIdb6U0G48/biden-doj-lgbtq-religious-exemption-defense-law"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4RIdb6U0G48/biden-doj-lgbtq-religious-exemption-defense-law"
+ampWebUrl: "https://www.foxnews.com/politics/biden-doj-lgbtq-religious-exemption-defense-law.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-lgbtq-religious-exemption-defense-law.amp"
 type: article
-quality: 173
+quality: 166
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/AP21019774947253.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f54365df-0068-4544-a216-f26e426c7b0f/e849bcc4-fe35-4e2c-a44a-96a0c7f4dcfc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -92,6 +92,22 @@ related:
     quality: 173
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1942ec4c-ff0a-4f44-9440-03dd24b379da/6f59b55e-754e-4135-b63c-23c6a220d574/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden won't form his own commission to study Capitol riot, White House says"
+    excerpt: "The White House on Thursday shot down the idea of forming its own presidential commission to study the Jan. 6 attack on the Capitol, saying it is Congress’ “unique role” to carry out that investigation."
+    publishedDateTime: 2021-06-03T21:26:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CldfRjeDDZs/biden-commission-study-capitol-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-study-capitol-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/AP21019774947253.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -222,22 +238,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden admin softens defense of law protecting religious exemption after liberals complain"
-    excerpt: "President Biden's administration appeared to soften the language it used to defend a religious exemption after intense backlash from progressives."
-    publishedDateTime: 2021-06-10T21:31:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4RIdb6U0G48/biden-doj-lgbtq-religious-exemption-defense-law"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-lgbtq-religious-exemption-defense-law.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-lgbtq-religious-exemption-defense-law.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f54365df-0068-4544-a216-f26e426c7b0f/e849bcc4-fe35-4e2c-a44a-96a0c7f4dcfc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
   - title: "Biden speech commemorating Tulsa race massacre to detail efforts to combat racial inequality"
     excerpt: "President Biden will detail his administration’s planned initiatives to combat racial injustice on Tuesday during a speech commemorating the 100th anniversary of the Tulsa race massacre."
@@ -371,6 +371,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "N45FEvX4HYyujzvWMXOFpb4l/qNNm15UWnlwoIm1TAotWNuKqi67vzAFN06uEp+71prq8VUpqaQGbvbQkX64RiCyXTz3RyLLSRrD1zJvTt/HsE03EsEU9KghqJ95b0RcuF5kkmnYXs1OI9xfda6S+viYRqfTbFMRh0R5wfIcTuRgKqUGsLJTo0BDoOBmTPg77g6uzpr53wmjn4TkMlJ6nJJ6AG3nE6zLJgBnc1VFNSrlMncRMLq8z7rhLAOyQNE7HvN5JIedJ2ochCzp78jg7WA4p6E0gfu+dWqcA37tk3knHawI6FXLjjvxk0XQJqbZqN1hpdQTizn3Jz4YI6loJo0q7Now35c24D07ahTG4c8=;IbXrePZ5cC7KpIHKDrPf8g=="
+secured: "Ys+ZFY4NAjQiWqYaFTzIUcaS5wrp8rvY+iQ8dP6WbsNgY/xbydRImddrnK4afw2BCEDCR3uehrYlIyJ8se1dszK5DURYwNZvbkWTF4XPLBhT0Wbzi0SiMHDRZmYUCDC7HhLWGHmaFNT3KOIEYllwFSi8wRP745RA1g92PhXjGwInuvvBxb483XVk8rhr8ufGQPzb1K3Zla2FX2n1ndnreLiIZlNAUgp4ZxcINExHkMR+lQ98BXSG3lMyTeQEm0ml7CBwv8/4D7fQCVl5wZWOaU07MXqPxdA5EENq4qxOjza9wmn74s5Ki7n/oCNr8VJtaLEAgSkxRMEb2EuAXinjIHDrg70dOgLRlBuOulXhsHc=;tyg3pV9mVmeWgwJH8Hpv0w=="
 ---
 

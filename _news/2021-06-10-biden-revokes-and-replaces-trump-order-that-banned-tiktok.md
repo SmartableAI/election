@@ -288,6 +288,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "America's global image under Biden skyrockets compared to Trump, survey finds"
+    excerpt: "A median of 75 percent of respondents from 12 countries expressed confidence in Biden, compared with 17 percent for Trump in 2020."
+    publishedDateTime: 2021-06-10T21:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/america-s-global-image-under-biden-skyrockets-compared-trump-survey-n1270401"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270401"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270401"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3424079/201029-joe-biden-florida-jm-1513.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden's Justice Department moves to defend Trump in defamation suit from accuser E. Jean Carroll"
     excerpt: "E. Jean Carroll has accused the former president of sexual assault and defamation by saying it \"never happened.\""
     publishedDateTime: 2021-06-08T04:43:00Z
