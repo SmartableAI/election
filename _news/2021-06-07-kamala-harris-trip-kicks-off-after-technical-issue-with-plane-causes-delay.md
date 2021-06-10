@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 758
         isCached: true
+  - title: "In Arizona, Vice President Kamala Harris' comments on Central American migration draw fire from left and right"
+    excerpt: "Progressives like AOC, Arizona immigration advocacy groups and Republican elected officials denounced Kamala Harris's comments for different reasons."
+    publishedDateTime: 2021-06-09T23:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/09/vice-president-harris-comments-central-american-migration-united-states-draw-ire/7628598002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7628598002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7628598002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/07/PTX1/ac44319b-a6c3-4734-90a8-9131ce31eb53-Kamala_Harris_Presser_Giamattei_1151.JPG?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "VP Kamala Harris' plane forced to return due to `technical issue'"
     excerpt: "The vice president's plane landed safely back at Joint Base Andrews about 25 minutes after takeoff Sunday afternoon."
     publishedDateTime: 2021-06-06T19:18:00Z

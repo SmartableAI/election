@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstat
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 91
+  - title: "Joe Biden the perfect fit for today's Americans"
+    excerpt: "To many Red-Blooded Americans, America does not feel right, right now. Does our president represent the people he leads?Our media opened our eyes,"
+    publishedDateTime: 2021-06-09T22:04:00Z
+    webUrl: "https://www.theday.com/article/20210609/OP02/210609363"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
+        isCached: true
   - title: "Joe Biden laid out his ambitious vision for a post-pandemic America. Now it is up to Sen. Chuck Schumer to make it a reality."
     excerpt: "The Senate majority leader, marking his own 100 days in charge, is responsible for turning sweeping Democratic plans into law. It’s a tall order."
     publishedDateTime: 2021-04-29T21:06:00Z

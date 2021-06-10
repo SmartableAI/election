@@ -132,6 +132,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 91
+  - title: "Joe Biden the perfect fit for today's Americans"
+    excerpt: "To many Red-Blooded Americans, America does not feel right, right now. Does our president represent the people he leads?Our media opened our eyes,"
+    publishedDateTime: 2021-06-09T22:04:00Z
+    webUrl: "https://www.theday.com/article/20210609/OP02/210609363"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
+        isCached: true
   - title: "Joe Biden's support of labor unions is historic. Here's what it means"
     excerpt: "No recent president of either party has come close to expressing the overt support for the labor movement that Biden has during his first three months."
     publishedDateTime: 2021-05-10T18:29:00Z

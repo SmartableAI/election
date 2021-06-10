@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden withdrawing Trump orders that sought to ban WeChat and TikTok"
+    excerpt: "President also orders new commerce department review of security concerns posed by those apps"
+    publishedDateTime: 2021-06-09T14:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/jun/09/tiktok-wechat-joe-biden-donald-trump-executive-orders"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/jun/09/tiktok-wechat-joe-biden-donald-trump-executive-orders"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jun/09/tiktok-wechat-joe-biden-donald-trump-executive-orders"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/c3f3c0ebeedaa6fbd5c6909284d8f7d75bf18550/0_0_7281_4367/master/7281.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2336e5e9d2cacfcbfe978671ecb260b9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "US drops Trump order targeting TikTok, plans its own review"
     excerpt: "The White House dropped Trump-era executive orders that attempted to ban the popular apps TikTok and WeChat and will conduct its own review aimed at identifying national security risks with software a"
     publishedDateTime: 2021-06-09T15:05:00Z

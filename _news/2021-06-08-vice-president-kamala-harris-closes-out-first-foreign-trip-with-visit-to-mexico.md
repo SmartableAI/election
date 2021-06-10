@@ -95,6 +95,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris suffers bumpy baptism over immigration on first foreign trip"
+    excerpt: "Vice-president’s ‘get tough’ stance on corruption overshadowed by backlash over ‘do not come’ message to migrants"
+    publishedDateTime: 2021-06-09T20:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/09/kamala-harris-immigration-foreign-trip?ref=upstract.com&curator=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/09/kamala-harris-immigration-foreign-trip"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/09/kamala-harris-immigration-foreign-trip"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/dbc0bab2979c9d6a83d749606c6e7e560156f135/0_290_4424_2654/master/4424.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86687ac72aefeed0d40860b14257a991"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Vice President Kamala Harris’ plane forced to return due to technical problem"
     excerpt: "A technical problem that involved \"no immediate safety issue\" forced Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."
     publishedDateTime: 2021-06-06T19:19:00Z

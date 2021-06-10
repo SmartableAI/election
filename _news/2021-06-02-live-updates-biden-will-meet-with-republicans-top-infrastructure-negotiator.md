@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Live Updates: Biden Departs for Europe to Bolster Alliances"
-    excerpt: "President Biden, in the first foreign trip of his term, will make the case that America is back and ready to lead anew. Before he left, Mr. Biden cut off infrastructure talks with Republicans that had failed to yield a deal,"
-    publishedDateTime: 2021-06-09T08:43:00Z
-    webUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/09/world/09dc-tiktok-1/09dc-tiktok-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "b2ChhmXRE724BN39LYOc+8ah/u8SSaxx9wKTkXFkt0EM398ACP/vkhpSO3KgD4gAXN6cKfoYtNF5+ojNNfEdVpjhIYn7BRFDDhYZ8sHuqqlTdXAZ047ZQI2qw7sKT8hQyuSNFl/Mx0BLfqjLDkcYw5CWXDXQW/ZHzGeQiqym5W7pa2qe8OeMm9lcGeKZnfIZWIqR1Ir9rQOYIPraZtUfKaPfozcPNZeP/kwcOJPOKJ9i75v1fu7XGMks5qSa9EPNivWuJlkXFG8IocJpNEVmHRRmtXERu5J3lYU82pbK3++WV6Ajtt6ygbX4mSoFuQ8Uc7F0AAhNzcALQVlYf55OD0HXvQ7eglFDEx2YJS3GM8FDh2Tbu82/ssFYAl6oLDv0q16dD05Gu+UmDythe+3Bz7nGrBxZWplwkkAfWc2MTGFe1EohaDXbnHKoMuwILlp8EErXw/HF6Zhnj87Tdh8JnyPM90THV1ggrKhmbMTw3NRQ8AePTmrh/GnxK/19WpEQQ+EBZVgXy/7dcfCWamUNCw==;OtNoC1KSges9PKYfZjCx5g=="
 ---

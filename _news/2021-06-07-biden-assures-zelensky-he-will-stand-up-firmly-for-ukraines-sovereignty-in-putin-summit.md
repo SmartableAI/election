@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-assures-zelensky-ukraine-sove
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-assures-zelensky-ukraine-sovereignty-putin-summit.amp"
 type: article
 quality: 165
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden says US 'not seeking conflict' with Russia as Putin meeting looms"
+    excerpt: "President Biden said Wednesday he will reiterate to Russian President Vladimir Putin at an upcoming summit that there will be “consequences” if Russia takes harmful action toward democratic governments."
+    publishedDateTime: 2021-06-09T23:15:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjwF5yJdRfo/biden-putin-meeting-us-not-seeking-conflict-russia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "uCYtWacWNCEPhNGxVKtmUbMr+87cYiUmxeJedqf/9BuH9rRx8nv52gnM7Y3qKfBwJQO5zljQDXCzDH6GTAzIzhoJrsMq+rZOu3pqs3+YXbAoK5EJJMq4GMpcLI/B752VMZVSumIjtYC5XWxlL22Tz2kGoKPWyhRstAuAFQ1YpyTyEe1Xn3QyyubZYAQOSEVa+SXj29TQHNRCFIXK9bTegObdVp3r/nD8YLz9PlHZRpXXKfzyoyudMn0XPpaEGh3MR8Oj51tZY+56d97aEPF1SCWbNcVWonf+DUqLUHOpQWz5I3RfXf4i5cYHtIAbb6OwBy6jRBjmQORPkLPaQVUKiFybs6ZmuaSphsU+VQEBNQo=;kCz06O1yelT6TqYoaN13tw=="
 ---

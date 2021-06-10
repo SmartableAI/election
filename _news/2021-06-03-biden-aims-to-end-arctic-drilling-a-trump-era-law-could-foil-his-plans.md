@@ -624,6 +624,22 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Biden Administration to Restore Clean-Water Protections Ended by Trump"
+    excerpt: "The Environmental Protection Agency announced it would repeal a Trump-era rule that weakened pollution controls for wetlands and streams."
+    publishedDateTime: 2021-06-09T22:59:00Z
+    webUrl: "https://www.nytimes.com/2021/06/09/climate/biden-clean-water-wotus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/09/climate/biden-clean-water-wotus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/09/climate/biden-clean-water-wotus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/09/climate/09CLI-WATERS/09CLI-WATERS-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "GOP loudly voicing concerns about debt under Biden 'eerily quiet' under Trump"
     excerpt: "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden."
     publishedDateTime: 2021-04-04T23:21:00Z

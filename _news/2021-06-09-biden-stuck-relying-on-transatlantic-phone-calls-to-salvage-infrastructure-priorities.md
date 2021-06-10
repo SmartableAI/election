@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/president-agenda-oversea
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
 type: article
 quality: 168
-heat: 208
+heat: 188
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: Biden Departs for Europe to Bolster Alliances"
-    excerpt: "President Biden, in the first foreign trip of his term, will make the case that America is back and ready to lead anew. Before he left, Mr. Biden cut off infrastructure talks with Republicans that had failed to yield a deal,"
-    publishedDateTime: 2021-06-09T08:43:00Z
-    webUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/09/world/09dc-tiktok-1/09dc-tiktok-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Live Updates: Biden Will Meet With Republicans’ Top Infrastructure Negotiator"
     excerpt: "Democrats are ready to move on President Biden’s $2 trillion infrastructure plan unless there is a major breakthrough this week. The two sides are over $1 trillion apart in how much they want to spend,"
     publishedDateTime: 2021-06-02T08:20:00Z
