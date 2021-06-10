@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says US to buy and donate half-billion doses of Pfizer's Covid vaccine"
+    excerpt: "President Joe Biden's expected announcement Thursday evening that the United States plans to donate 500 million Pfizer Covid-19 vaccine doses globally will be a part of his efforts to reassert US leadership on the world stage, officials said.\n    \n"
+    publishedDateTime: 2021-06-10T18:36:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ED_YHrkZs9o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/joe-biden-vaccine-us-leadership/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/joe-biden-vaccine-us-leadership/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610140633-05-biden-overseas-0610-uk-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden wants to close the digital divide in the US. Here's what that could look like"
     excerpt: "The former auto parts warehouse Bill O'Boyle is refurbishing in Wilson, North Carolina, looks like a relic now, but within the next year, he hopes, it will be filled with dozens of people running his fast-growing tech consulting business.\n    \n"
     publishedDateTime: 2021-06-09T20:37:36Z

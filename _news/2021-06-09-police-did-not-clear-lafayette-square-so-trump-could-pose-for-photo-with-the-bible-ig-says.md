@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/police-did-not-clear-lafayette-squa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says.amp"
 type: article
 quality: 165
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Trump declines to commit to running with Pence in 2024"
-    excerpt: "Former President Trump tells Fox News he is not ready to re-up with former Vice President Mike Pence on a potential campaign in 2024."
-    publishedDateTime: 2021-06-06T13:22:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4789990-fe5d-419e-bc61-b8b73e56e9e3/5a5c023e-50ec-4401-9de9-a6f908ee76cb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "cxf1IQejcAHNXCcg1ZfWM5uD/6y0diEw0yzNCjPlY5Knr5E8qbsmH3b1/Q97a3VlGQeMSzWOCBh1saXECXp5AwWUE+YATi7pz4rN1XKiWPcw5HmQab4SzjRFGLlyyWfXCar+2h96GpUsszBZwljmV80YkUMWO0IpOFhAsye2EFmh7g7+XJe8G4CnqQUDC9YkHlGtFTOz1wS3CyiLpq+c9WL2vri1nZcHQcJH6J+/LKDbtCSey3+My0/Sv7EmZIIcZoN7B0XV5AMLe/hIhej5fY1Hj+qXqNrs9CL35+SMYQUW03I3S014k2IScTlsg9LGTfR6T2o7YHkap8Qv1ck2qq4rA9G2znFZO5baTWqQwhs=;6L51fmxhb56SlERF0oqvSA=="
 ---

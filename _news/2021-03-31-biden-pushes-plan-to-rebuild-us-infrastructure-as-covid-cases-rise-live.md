@@ -127,6 +127,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden's vaccine pledge ups pressure on rich countries to give more"
+    excerpt: "The United States on Thursday raised the pressure on other Group of Seven leaders to share their vaccine hoards to bring an end to the pandemic by pledging to donate 500 million doses of the Pfizer coronavirus vaccine to the world's poorest countries."
+    publishedDateTime: 2021-06-10T16:43:00Z
+    webUrl: "https://www.reuters.com/article/idUSKCN2DM0FE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DM0FE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DM0FE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565245744&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5912I"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
     excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."
     publishedDateTime: 2021-04-22T01:13:00Z

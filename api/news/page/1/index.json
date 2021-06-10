@@ -2,6 +2,171 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-10-conservative-house-republican-leaders-meeting-with-trump-to-chart-gops-future.md",
+      "title": "Conservative House Republican leaders meeting with Trump to chart GOP's future",
+      "excerpt": "A group of top House Republican conservatives is meeting with former President Trump on Thursday to “chart the course for the future of the Republican Party and the conservative movement.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fa4_Y2g9VaE/conservative-house-republican-leaders-trump-meeting-gop-future",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fa4_Y2g9VaE/conservative-house-republican-leaders-trump-meeting-gop-future",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/conservative-house-republican-leaders-trump-meeting-gop-future.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/conservative-house-republican-leaders-trump-meeting-gop-future.amp",
+      "publishedDateTime": "2021-06-10T12:52:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-undoing-trump-rule-wont-likely-affect-okefenokee-mine-plan.md",
+      "title": "Undoing Trump rule won't likely affect Okefenokee mine plan",
+      "excerpt": "The Biden administration's plan to revive protections for some wetlands and streams that got eliminated during Donald Trump's presidency isn't likely to restore federal oversight of a proposed mine ou",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/undoing-trump-rule-affect-okefenokee-mine-plan-78203895",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/undoing-trump-rule-affect-okefenokee-mine-plan-78203895",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/WireAP_81249ad3817843fcbae119288992a38c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/undoing-trump-rule-affect-okefenokee-mine-plan-78203895",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/undoing-trump-rule-affect-okefenokee-mine-plan-78203895",
+      "publishedDateTime": "2021-06-10T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-democrat-henry-cuellar-slams-bidens-handling-of-border-crisis-doing-a-staged-visit-is-not-enough.md",
+      "title": "Democrat Henry Cuellar slams Biden's handling of border crisis: 'Doing a staged visit is not enough'",
+      "excerpt": "Texas, slammed the Biden administration's handling of the border crisis Thursday, stressing the need to address its policies encouraging migrants to make the dangerous journey to the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit",
+      "originalUrl": "https://www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bf61830-4f75-4877-864b-4116fb9b8d17/5d131eef-3cf1-4b0d-b039-63f0f9bfb200/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit.amp",
+      "publishedDateTime": "2021-06-10T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-biden-johnson-sign-revitalized-atlantic-charter-reaffirming-commitment-to-global-challenges.md",
       "title": "Biden, Johnson sign 'revitalized' Atlantic Charter, reaffirming commitment to global challenges",
       "excerpt": "President Biden and British Prime Minister Boris Johnson on Thursday signed a \"revitalized\" Atlantic Charter reaffirming their commitment to work together to counter the efforts of those who seek to undermine democratic alliances and institutions.",
@@ -324,6 +489,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-trump-appointed-ambassador-to-brazil-resigns-after-14-months.md",
+      "title": "Trump-appointed ambassador to Brazil resigns after 14 months",
+      "excerpt": "The U.S. ambassador to Brazil, Todd Chapman, has resigned after just over a year in the position and is leaving the diplomatic service",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/trump-appointed-ambassador-to-brazil-resigns-after-14-months/2021/06/10/ee3a75f2-ca07-11eb-8708-64991f2acf28_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/trump-appointed-ambassador-to-brazil-resigns-after-14-months/2021/06/10/ee3a75f2-ca07-11eb-8708-64991f2acf28_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NBRXHMWKAEI6XBYIMSMR6KWPFA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/trump-appointed-ambassador-to-brazil-resigns-after-14-months/2021/06/10/ee3a75f2-ca07-11eb-8708-64991f2acf28_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/trump-appointed-ambassador-to-brazil-resigns-after-14-months/2021/06/10/ee3a75f2-ca07-11eb-8708-64991f2acf28_story.html?outputType=amp",
+      "publishedDateTime": "2021-06-10T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -994,7 +1211,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1143,226 +1360,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-nixes-trump-proposal-that-would-have-kicked-3-million-off-food-stamps.md",
-      "title": "Biden nixes Trump proposal that would have kicked 3 million off food stamps",
-      "excerpt": "In one of its latest steps to erase Trump administration policies, the Biden administration has withdrawn a controversial proposal that could have kicked 3 million Americans off of food stamps and cost nearly 1 million children automatic eligibility for free school meals.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RvTXMZPPGw4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RvTXMZPPGw4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 568,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201001121600-snap-food-stamps-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html",
-      "publishedDateTime": "2021-06-09T14:22:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-ex-officer-trump-impeachment-manager-and-now-senate-candidate-who-is-rep-val-demings.md",
-      "title": "Ex-officer, Trump impeachment manager and now Senate candidate: Who is Rep. Val Demings",
-      "excerpt": "Rep. Val Demings' Senate run provides Democrats with a prominent, nationally recognized candidate to challenge Republican incumbent Sen. Marco Rubio, a formidable opponent, in next year's general election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xU4dG_WxMb0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xU4dG_WxMb0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210609120121-01-val-demings-file-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/who-is-val-demings/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/who-is-val-demings/index.html",
-      "publishedDateTime": "2021-06-09T14:13:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-warns-climate-change-is-greatest-threat-to-us-security-this-is-not-a-joke.md",
-      "title": "Biden warns climate change is 'greatest threat' to US security: 'This is not a joke'",
-      "excerpt": "President Biden warned military servicemembers Wednesday that top Pentagon officials consider climate change to be the “greatest threat” to America’s national security in the coming years.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7M06ZqB3w-I/biden-climate-change-greatest-threat-us-security",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7M06ZqB3w-I/biden-climate-change-greatest-threat-us-security",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-climate-change-greatest-threat-us-security.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-climate-change-greatest-threat-us-security.amp",
-      "publishedDateTime": "2021-06-09T13:56:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-biden-declares-the-us-is-back-and-urges-democracies-to-stand-together.md",
-      "title": "Biden declares the ‘US is back’ and urges democracies to stand together",
-      "excerpt": "US president rings changes since Trump but has a serious message on Northern Ireland peace process",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/658deb3cdc010ed92f9507f4779d98587c280270/0_245_3080_1849/master/3080.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb307853f0aea9c68dcf33baf5e7382",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
-      "publishedDateTime": "2021-06-09T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

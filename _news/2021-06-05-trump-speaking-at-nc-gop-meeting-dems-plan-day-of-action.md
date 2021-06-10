@@ -87,6 +87,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Former GOP Congresswoman Barbara Comstock wants fellow Republicans to \"stop fearing\" Donald Trump"
+    excerpt: "In an op-ed in The New York Times, former Virginia Congresswoman Barbara Comstock calls on fellow Republicans to stop worrying about former President Trump and approve a commission to investigate the January 6 attack on the Capitol."
+    publishedDateTime: 2021-06-10T16:26:00Z
+    webUrl: "https://www.cbsnews.com/video/former-gop-congresswoman-barbara-comstock-wants-fellow-republicans-to-stop-fearing-donald-trump/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/former-gop-congresswoman-barbara-comstock-wants-fellow-republicans-to-stop-fearing-donald-trump/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/former-gop-congresswoman-barbara-comstock-wants-fellow-republicans-to-stop-fearing-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/10/83e4a447-154e-4ddd-bc87-802b3b6f470d/thumbnail/1200x630/bb71ce31058c17a7210db829fd2e1a74/0610-cbsn-tte-comstockgop-732111-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The GOP has proven to be an even 'greater threat' to US democracy than Trump in 2021, experts warn"
     excerpt: "Democracy experts are sounding the alarm as Republican-led legislatures nationwide take extraordinary steps to restrict voting."
     publishedDateTime: 2021-06-04T20:55:00Z

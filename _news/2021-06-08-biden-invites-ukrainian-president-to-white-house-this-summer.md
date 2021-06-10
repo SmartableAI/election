@@ -111,6 +111,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden's vaccine pledge ups pressure on rich countries to give more"
+    excerpt: "The United States on Thursday raised the pressure on other Group of Seven leaders to share their vaccine hoards to bring an end to the pandemic by pledging to donate 500 million doses of the Pfizer coronavirus vaccine to the world's poorest countries."
+    publishedDateTime: 2021-06-10T16:43:00Z
+    webUrl: "https://www.reuters.com/article/idUSKCN2DM0FE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DM0FE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DM0FE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565245744&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5912I"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
     excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"
     publishedDateTime: 2021-03-30T17:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/technology/557523-biden-revokes-trump-exe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp"
 type: article
 quality: 140
-heat: 300
+heat: 320
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/c3f3c0ebeedaa6fbd5c6909284d8f7d75bf18550/0_0_7281_4367/master/7281.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2336e5e9d2cacfcbfe978671ecb260b9"
         width: 600
         height: 360
+        isCached: true
+  - title: "Boris Johnson, Former Trump Ally, Calls Joe Biden 'Breath of Fresh Air' Ahead of G7"
+    excerpt: "\"It's wonderful to listen to the Biden administration and to Joe Biden, because there's so much they want to do together with us, from security, NATO, to climate change,\" Johnson said."
+    publishedDateTime: 2021-06-10T19:45:00Z
+    webUrl: "https://www.newsweek.com/boris-johnson-former-trump-ally-calls-joe-biden-breath-fresh-air-ahead-g7-1599576"
+    ampWebUrl: "https://www.newsweek.com/boris-johnson-former-trump-ally-calls-joe-biden-breath-fresh-air-ahead-g7-1599576?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/boris-johnson-former-trump-ally-calls-joe-biden-breath-fresh-air-ahead-g7-1599576?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 134
+    images:
+      - url: "https://d.newsweek.com/en/full/1818734/joe-biden-boris-johnson.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden's Justice Department follows Trump's lead in E. Jean Carroll defamation lawsuit"
     excerpt: "The Justice Department is continuing to try to substitute for former President Trump in a defamation lawsuit brought by former Elle columnist E. Jean Carroll."

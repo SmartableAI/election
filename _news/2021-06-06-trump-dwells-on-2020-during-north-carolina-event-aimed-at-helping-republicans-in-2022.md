@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Missouri GOP Rep. Vicky Hartzler launches Senate run echoing Trump"
+    excerpt: "Missouri Republican Rep. Vicky Hartzler launched her Senate campaign in a video Thursday, echoing former president Donald Trump's slogan to \"make America great once again\" and touting her support for his border, military and economic policies.\n    \n"
+    publishedDateTime: 2021-06-10T18:55:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tvrlRh0x7pk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/vicky-hartzler-missouri-senate-run/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/vicky-hartzler-missouri-senate-run/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610142159-rep-vicky-hartzler-file-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump backers lose big as Ciattarelli claims GOP nomination in New Jersey"
     excerpt: "Jack Ciattarelli’s victory is likely a relief to the more moderate members of New Jersey’s GOP establishment who watched their already-minority party lose ground during Trump’s presidency."
     publishedDateTime: 2021-06-09T03:34:00Z

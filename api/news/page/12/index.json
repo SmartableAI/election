@@ -2,6 +2,105 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-20-president-joe-biden-to-visit-cleveland-next-week-marking-second-ohio-trip-this-year.md",
+      "title": "President Joe Biden to visit Cleveland next week, marking second Ohio trip this year",
+      "excerpt": "President Joe Biden will visit Cleveland next week, marking his second trip to Ohio this year. White House officials said Wednesday that Biden will deliver remarks about the economy during his trip May 27.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/2021/05/19/president-joe-biden-visit-cleveland-ohio-may-27/5173738001/",
+      "originalUrl": "https://www.cincinnati.com/story/news/2021/05/19/president-joe-biden-visit-cleveland-ohio-may-27/5173738001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/110829cb56c19181e8e5ed866a9c55ca2ff254a7/c=0-92-1763-1084/local/-/media/2021/04/28/Somerset/6e297bd498304b83f7e13c262caa39a7.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cincinnati.com/amp/5173738001",
+      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5173738001",
+      "publishedDateTime": "2021-05-19T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cincinnati Enquirer",
+        "domain": "cincinnati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-biden-calls-former-dem-senator-accused-of-sexual-misconduct-one-of-the-finest-men-ive-ever-served-with.md",
+      "title": "Biden calls former Dem senator accused of sexual misconduct 'One of the finest men I've ever served with'’",
+      "excerpt": "President Biden called a former Democratic senator whose past is checkered with complicity in a sexual assault allegation “one of the finest men I’ve ever served with.”’",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ldDnX4M10TY/biden-calls-chris-dodd-sexual-misconduct-finest-men",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ldDnX4M10TY/biden-calls-chris-dodd-sexual-misconduct-finest-men",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/media2.foxnews.com/thumbnails/720/405/010207_010207_greta_dodd_16_9.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-chris-dodd-sexual-misconduct-finest-men.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-chris-dodd-sexual-misconduct-finest-men.amp",
+      "publishedDateTime": "2021-05-19T14:42:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-sfchronicle-podcast-chronicled-who-is-kamala-harris-wins-webby-award.md",
       "title": "SFChronicle podcast 'Chronicled: Who is Kamala Harris?' wins Webby Award",
       "excerpt": "Those were the questions reporters Joe Garofoli and Tal Kopan explored in the six-part series “Chronicled: Who is Kamala Harris?,” named Best Documentary Podcast (Limited-Series/Specials) by the 2021 Webby Awards this week.",
@@ -1215,114 +1314,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-supreme-court-could-cut-into-biden-agenda-the-note.md",
-      "title": "Supreme Court could cut into Biden agenda: The Note",
-      "excerpt": "The full meaning of the 6-3 conservative edge on the Supreme Court is only beginning to be felt. That matters for President Joe Biden and his agenda.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
-      "originalUrl": "https://abcnews.go.com/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/supreme-court-gty-jef-210517_1621286530595_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
-      "publishedDateTime": "2021-05-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-us-military-intercepted-small-aircraft-in-restricted-airspace-as-biden-visited-delaware-home.md",
-      "title": "US military intercepted small aircraft in restricted airspace as Biden visited Delaware home",
-      "excerpt": "The U.S. military intercepted a small aircraft that flew into restricted airspace over the weekend, grounding the pilot at a nearby airport in Pennsylvania as President Biden visited his home in Delaware.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SZVVUQU-i4/us-military-intercepts-small-aircraft-restricted-airspace-biden-home",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SZVVUQU-i4/us-military-intercepts-small-aircraft-restricted-airspace-biden-home",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d00d31a1-6666-4ac8-b26f-64d7e428d11f/4d96ae63-73cc-421d-9348-814592008d48/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/us-military-intercepts-small-aircraft-restricted-airspace-biden-home.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-military-intercepts-small-aircraft-restricted-airspace-biden-home.amp",
-      "publishedDateTime": "2021-05-17T19:01:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -31,7 +31,7 @@ related:
   - title: "Tucker Carlson: Why is Kamala Harris Promising To Rebuild Central America, Rather Than America?"
     excerpt: "If you think you’ve had a stressful week. Imagine being Kamala Harris. You take your first big trip south of the border, to what we used to call the \"developing world.\" You’re excited about it because you know,"
     publishedDateTime: 2021-06-10T14:15:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/10/tucker_carlson_why_is_kamala_harris_promising_to_rebuild_central_america_rather_than_america.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/10/tucker_carlson_why_is_kamala_harris_promising_to_rebuild_central_america_rather_than_america.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/10/tucker_carlson_why_is_kamala_harris_promising_to_rebuild_central_america_rather_than_america.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/10/tucker_carlson_why_is_kamala_harris_promising_to_rebuild_central_america_rather_than_america.amp.html"
     type: article

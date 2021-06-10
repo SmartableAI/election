@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Boris Johnson, Former Trump Ally, Calls Joe Biden 'Breath of Fresh Air' Ahead of G7"
+    excerpt: "\"It's wonderful to listen to the Biden administration and to Joe Biden, because there's so much they want to do together with us, from security, NATO, to climate change,\" Johnson said."
+    publishedDateTime: 2021-06-10T19:45:00Z
+    webUrl: "https://www.newsweek.com/boris-johnson-former-trump-ally-calls-joe-biden-breath-fresh-air-ahead-g7-1599576"
+    ampWebUrl: "https://www.newsweek.com/boris-johnson-former-trump-ally-calls-joe-biden-breath-fresh-air-ahead-g7-1599576?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/boris-johnson-former-trump-ally-calls-joe-biden-breath-fresh-air-ahead-g7-1599576?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 134
+    images:
+      - url: "https://d.newsweek.com/en/full/1818734/joe-biden-boris-johnson.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "US drops Trump order targeting TikTok, plans its own review"
     excerpt: "The White House dropped Trump-era executive orders that attempted to ban the popular apps TikTok and WeChat and will conduct its own review aimed at identifying national security risks with software a"
     publishedDateTime: 2021-06-09T15:05:00Z

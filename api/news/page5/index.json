@@ -2,6 +2,112 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-04-pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6-but-gop-must-move-forward.md",
+      "title": "Pence says he and Trump don’t ‘see eye to eye’ on Jan. 6 — but GOP ‘must move forward’",
+      "excerpt": "In a speech in New Hampshire, former Vice President Mike Pence urged Republicans to move forward following the Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/",
+      "originalUrl": "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/pence-trump-206.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/pence-says-he-and-trump-dont-see-eye-to-eye-on-jan-6/amp/",
+      "publishedDateTime": "2021-06-03T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-in-a-speech-to-a-new-hampshire-gop-group-pence-calls-systemic-racism-a-left-wing-myth.md",
+      "title": "In a speech to a New Hampshire G.O.P. group, Pence calls systemic racism a ‘left-wing myth.’",
+      "excerpt": "Mike Pence also distanced himself from President Donald J. Trump, saying of the Capitol attack, “I don’t know if we’ll ever see eye-to-eye on that day.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/03/us/politics/03new-washington-briefing-pence2/03new-washington-briefing-pence2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.amp.html",
+      "publishedDateTime": "2021-06-03T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-pence-targeting-critical-race-theory-declares-america-is-not-a-racist-nation.md",
       "title": "Pence, targeting critical race theory, declares ‘America is not a racist nation’",
       "excerpt": "During a trip that sparked more 2024 speculation, former Vice President Mike Pence dived directly into the latest battleground in the nation’s culture wars, as he took direct aim at critical race theory and spotlighted that “America is not a racist nation.”",
@@ -228,7 +334,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 565,
       "tags": null,
       "images": [
         {
@@ -1210,7 +1316,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1243,119 +1349,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-mcenany-slams-medias-hunter-biden-cover-up-they-hid-the-story-and-influenced-the-election.md",
-      "title": "McEnany slams media's Hunter Biden cover-up: 'They hid the story and influenced the election'",
-      "excerpt": "Fox News host Kayleigh McEnany blasted the media’s ongoing cover-up of the Hunter Biden scandal, Wednesday, on the heels a New York Post editorial lamenting the paper’s scoops are \"being ignored by outlets that would be all over them if they were about the Trump family.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election",
-      "originalUrl": "https://www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f69d72d8-f7d2-46cd-a7f7-8d7c46cc8456/1bda30c1-a454-452c-b317-c1c3244792b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election.amp",
-      "publishedDateTime": "2021-06-02T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-anheuser-busch-to-give-away-free-alcohol-if-us-hits-bidens-goal-of-70-of-adults-with-at-least-one-covid-vaccine-shot-by-july-4.md",
-      "title": "Anheuser-Busch to give away free alcohol if US hits Biden's goal of 70% of adults with at least one Covid vaccine shot by July 4",
-      "excerpt": "Anheuser-Busch, the national brewer that produces Budweiser, announced Wednesday it will give away free alcohol if the nation reaches President Joe Biden's goal to have 70% of US adults receive at least dose of the vaccine by July 4. \n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpCgOhzgwY4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpCgOhzgwY4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210602134454-anheuser-busch-st-louis-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/02/politics/anheuser-busch-white-house-vaccinations-beer/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/anheuser-busch-white-house-vaccinations-beer/index.html",
-      "publishedDateTime": "2021-06-02T06:29:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],
