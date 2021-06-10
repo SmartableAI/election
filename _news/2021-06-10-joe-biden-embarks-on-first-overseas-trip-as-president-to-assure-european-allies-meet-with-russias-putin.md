@@ -43,15 +43,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Biden administration to increase pay for airport screeners"
-    excerpt: "The Biden administration says it is moving to increase the pay and union rights for security screeners at the nation’s airports"
-    publishedDateTime: 2021-06-03T22:22:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-administration-increase-pay-airport-screeners-78073415"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 85
 
 secured: "+mzLmJjjBpu3y2RN9GUWgFQVsgQg4AHhrpjttxu3qXkQnCi9I4AJMsaPsoUqN1c++rBVm2YLc/yLz0q5zJraGLk7QilOZ6jwMg+GyewFbGNNa6exCU3wEln3G7/1kOfTsR2LuKNxDB2vMjvfhFEMam6Kgp6xBUdICoX//o0k9/0mRZIwM/10u6rE+qiWl8+ZWD9EHTy/5vFdGafszUq3wAJgQzVMsh5PKV0OV+2WrwtVJCn/ZzzWRNtvvQGDygvrg0wU3QiPMdIVFUVLYm8NGPvFJZFj3S3udy7bYonZin8R5Kp64c8Hi0VFN9ZC3iSoir+LzCVfBE8KkWySdA7ffE1IJx5nIVtHCO+1ZjUmzLU=;kARrnnF63Gf9tqxywGz/gQ=="
 ---

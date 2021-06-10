@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-28-trump-case-new-york-prosecutor-known-for-aggressive-pursuit-of-evidence.md",
+      "title": "Trump Case: New York Prosecutor Known for Aggressive Pursuit of Evidence",
+      "excerpt": "Gary Fishman is one of the two assistant attorneys general working with the Manhattan district attorney’s office on the Trump investigation as part of an unusual collaboration with the New York attorney general’s office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-case-new-york-prosecutor-known-for-aggressive-pursuit-of-evidence-11622206821",
+      "originalUrl": "https://www.wsj.com/articles/trump-case-new-york-prosecutor-known-for-aggressive-pursuit-of-evidence-11622206821",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-345366/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-case-new-york-prosecutor-known-for-aggressive-pursuit-of-evidence-11622206821",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-case-new-york-prosecutor-known-for-aggressive-pursuit-of-evidence-11622206821",
+      "publishedDateTime": "2021-05-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-men-booted-from-yankee-stadium-after-displaying-trump-won-banner.md",
       "title": "Men booted from Yankee Stadium after displaying ‘Trump Won’ banner",
       "excerpt": "Two men who brought a ‘Trump Won Save America’ banner to the May 27, 2021 doubleheader between the Yankees and Blue Jays were greeted with boos from the crowd and escorted out of the",
@@ -1588,54 +1645,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-how-anti-trump-steele-dossier-exposed-shoddy-world-of-private-spies.md",
-      "title": "How anti-Trump ‘Steele dossier’ exposed shoddy world of ‘private spies’",
-      "excerpt": "Now, politicians were hiring them to dig up dirt on opponents, companies were employing them to torpedo investigations into their activities by authorities or journalists, and dictators were using them as freelance intelligence agents.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/",
-      "originalUrl": "https://nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/Steele-Trap-Tump-Putin.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/article/how-anti-trump-steele-dossier-exposed-world-of-private-spies/amp/",
-      "publishedDateTime": "2021-05-22T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

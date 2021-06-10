@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html"
 type: article
 quality: 188
-heat: 568
+heat: 588
 published: true
 
 provider:
@@ -332,6 +332,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "4 climate obstacles Biden facing at the G-7"
+    excerpt: "President Joe Biden's supercharged ambitions on climate change are about to hit a deflating reality at this week's G-7 summit: tensions between the U.S. and its allies and the developing world about how to live up to their promises."
+    publishedDateTime: 2021-06-10T15:00:00Z
+    webUrl: "https://www.politico.com/news/2021/06/10/biden-climate-obstacles-g7-492974"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ac/b0/b4b5e2454d8e82c1b6f561dd2353/ap21107820987715-c.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "XgKgJbJfXSKmOHMa1FdufY/VBhkiU6hiRSSE09IyjXrgOSQ4xnoMDfnduoPYRgn0Myj8xpNTbizDx3Xzdic0eq1eI8yyVyRbAv1DtZFBxQ0fdw5PbZpmR/Nwjy7uMwyYuvzOC4Vv+zojaG5QTA/siNVaIRE/viKSf7NpIAUpLwStqp25lRut0S95BC2JxnIoVaf224/BC1x+2OO6h1pvZqmGiHQSogxsZ344ofFNlIQZrM4Q5D6rLQpMCR4BNDAQhLD+iMbtdIgPVGyXX6Trh6DqIkvI9QlxHoy7AfQ1myemvElU+K4aPnflwpNo8sFMdby2BGtM5x8gtBVMw157ll+xRAAe0k4wxprZtQWTnpE=;PGI+5g8Cl0McQ1tcfKMj6w=="

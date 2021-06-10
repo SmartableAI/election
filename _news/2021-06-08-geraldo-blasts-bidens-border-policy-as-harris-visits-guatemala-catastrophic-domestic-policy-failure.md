@@ -349,6 +349,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lara Trump rips Kamala Harris for 'absolute disaster' interview on border crisis"
+    excerpt: "Vice President Kamala Harris made a trip to Guatemala this week to discuss the root cause of immigration but has yet to visit the U.S.-Mexico border to see the crisis firsthand."
+    publishedDateTime: 2021-06-10T14:24:00Z
+    webUrl: "https://www.foxnews.com/media/lara-trump-rips-kamala-harris-for-absolute-disaster-interview-on-the-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/media/lara-trump-rips-kamala-harris-for-absolute-disaster-interview-on-the-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-rips-kamala-harris-for-absolute-disaster-interview-on-the-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a06c3e8-07d4-4028-8cda-ac831fb0e9ed/71019407-6622-4990-9ce2-6b99f8faec32/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris pays tribute to fallen military after tone-deaf tweet"
     excerpt: "Kamala Harris posted a more fitting tribute to America’s military Sunday, a day after drawing online heat for telling her fellow countrymen to “enjoy the long weekend.”"
     publishedDateTime: 2021-05-30T20:37:00Z

@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-30-gop-reps-question-biden-admin-on-alleged-political-interference-in-census-citing-departure-from-estimates.md",
+      "title": "GOP reps question Biden admin on alleged 'political interference' in census, citing departure from estimates",
+      "excerpt": "EXCLUSIVE: A group of House Republicans Friday are questioning Commerce Secretary Gina Raimondo on if there \"was any political interference\" in the final census numbers used to decide how many House members each state will get for the coming decade. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OyYiolHkBvU/house-republicans-biden-census-numbers-estimates-departures",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OyYiolHkBvU/house-republicans-biden-census-numbers-estimates-departures",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/iStock-1158882321.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T06:48:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-two-border-state-dems-break-with-biden-on-the-crisis-want-to-see-more-action.md",
       "title": "Two border state Dems break with Biden on the crisis: 'Want to see more action'",
       "excerpt": "Two border state Democratic senators say President Biden is not doing enough to address the ongoing border crisis. ",
@@ -1588,62 +1644,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/brian-mast-rolling-to-remember-memorial-day-lloyd-austin.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brian-mast-rolling-to-remember-memorial-day-lloyd-austin.amp",
       "publishedDateTime": "2021-04-21T16:26:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-biden-dojs-police-reform-agenda-dangerous-law-enforcement-advocates.md",
-      "title": "Biden DOJ's police reform agenda 'dangerous': law enforcement advocates",
-      "excerpt": "The Biden Justice Department's decision to return to the Obama administration’s heavy use of consent decrees is being criticized by law enforcement officials and advocates who fear it will handicap police and erode community-police relations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kA3KGQN1WAM/biden-police-reform-dangerous-law-enforcement-advocates-say",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kA3KGQN1WAM/biden-police-reform-dangerous-law-enforcement-advocates-say",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7a99bcd-a967-4c58-b1a9-9628b69255c9/e340ddad-00f7-4953-842b-bef590b03c64/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-police-reform-dangerous-law-enforcement-advocates-say.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-police-reform-dangerous-law-enforcement-advocates-say.amp",
-      "publishedDateTime": "2021-04-21T12:52:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-once-said-god-save-queen-congress
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-once-said-god-save-queen-congress-1597170?amp=1"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/e12d9e9cd48b8789d15d47a0c8e752777252b3af/0_261_7804_4682/master/7804.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ffedaf4586025e10f958c141c511648"
         width: 600
         height: 360
+        isCached: true
+  - title: "Power Up: President Biden's leverage at home and abroad is being put to the test"
+    excerpt: "Reach out and sign up for the Power Up newsletter. Thanks for waking up with us. TESTING BIDEN'S THEORY OF THE CASE: The premise of President Biden's presidency – leveraging personal relationships to get things done with allies and adversaries alike at home and abroad – is being seriously tested."
+    publishedDateTime: 2021-06-10T15:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/10/power-up-president-biden-leverage-home-abroad-is-being-put-test/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/10/power-up-president-biden-leverage-home-abroad-is-being-put-test/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/10/power-up-president-biden-leverage-home-abroad-is-being-put-test/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/65QFYLWJXMI6XBYIMSMR6KWPFA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "UK's Queen Elizabeth to meet President Biden at Windsor Castle"
     excerpt: "Queen Elizabeth will meet U.S. President Joe Biden and First Lady Jill Biden at her Windsor Castle home at the conclusion of the G7 summit which begins in Britain next week, Buckingham Palace said on Thursday."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-administration-threatens-texa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures.amp"
 type: article
 quality: 163
-heat: 203
+heat: 223
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b057cbd0-863c-4220-9863-7a112b5adc94/a9f119e7-8e8c-4b3a-9743-35f71ac070f7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Dem Rep. Cuellar: People Know They Can Exploit Biden's Child Policy To Cross The Border"
+    excerpt: "Democratic Rep. Henry Cuellar, who represents a portion of the Texas-Mexico border, told MSNBC's \"Morning Joe\" on Thursday that the Biden administration's policy not to deport groups of illegal immigrants with children \"They're realizing at the southern part of the United States,"
+    publishedDateTime: 2021-06-10T14:17:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/10/dem_rep_henry_cuellar_people_from_around_the_world_are_exploiting_biden_agenda_to_cross_the_border.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/10/dem_rep_henry_cuellar_people_from_around_the_world_are_exploiting_biden_agenda_to_cross_the_border.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/10/dem_rep_henry_cuellar_people_from_around_the_world_are_exploiting_biden_agenda_to_cross_the_border.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/54/545393.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "yAc8FKE9KQy8DAbjirN59KXzl49JWM614BvUjoHvO2w/tNHqbamOubRQO9MPLUfeS8A+rhRklyTZsKGc9sne08X2oT6zxkd9B+HF+QCsS3krrkv9DYWsUJMUxdu3gk1qQnLwSqJ5lQ3lPTaG0p8a1IW4zcw5LdXHb0TrCYci9IFlVKunvGg57uQ8Cmr6kBq482VfBpoDc410zcqbAmBwCwUpF7DDmbMDlf6qpTM6wuB62g6BSKNFSb4qv5xuO87LGJReH0J6Qcxz2mzd/FtuZSuTy3HbJoH0RGeYqm/rNMmkXtU98oZlFx51T97AAswH3yKxxVRvAvwtQZB95oWQNE0smA9/b98oZvSSrMxuDNo=;JhIOW2abIGBHkCY7jwp5ig=="

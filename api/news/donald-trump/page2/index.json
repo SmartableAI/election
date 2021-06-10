@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-04-chris-hayes-the-dangers-of-trumps-big-lie-and-republicans-actually-believing-it.md",
+      "title": "Chris Hayes: The Dangers Of Trump's Big Lie and Republicans Actually Believing It",
+      "excerpt": "It is hard to tell what is more dangerous to American democracy, at the moment: the big lie, or the big delusion. The key question emerging from the alternate reality the right has been constructing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/04/chris_hayes_the_dangers_of_trumps_big_lie_and_republicans_actually_believing_it.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/04/chris_hayes_the_dangers_of_trumps_big_lie_and_republicans_actually_believing_it.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/541227.png",
+          "width": 500,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6.md",
       "title": "Pence: I'll likely never see eye to eye with Trump on Jan. 6",
       "excerpt": "Former Vice President Mike Pence says he isn't sure he and former President Donald Trump will ever see “eye to eye” over what happened on Jan_ 6 but he will “always be proud of what we accomplished for the American people over the last four years.",
@@ -1510,54 +1558,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-trump-laments-7-year-high-gas-prices-as-americans-prep-for-memorial-day.md",
-      "title": "Trump laments 7-year-high gas prices as Americans prep for Memorial Day",
-      "excerpt": "Former President Donald Trump expressed concern Thursday for Americans forced to pay sky-high gas prices as millions hit the road for the Memorial Day holiday. “With Memorial Day Weekend",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/",
-      "originalUrl": "https://nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/amp/",
-      "publishedDateTime": "2021-05-27T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

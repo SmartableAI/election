@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Dem Rep. Cuellar: People Know They Can Exploit Biden's Child Policy To Cross The Border"
+    excerpt: "Democratic Rep. Henry Cuellar, who represents a portion of the Texas-Mexico border, told MSNBC's \"Morning Joe\" on Thursday that the Biden administration's policy not to deport groups of illegal immigrants with children \"They're realizing at the southern part of the United States,"
+    publishedDateTime: 2021-06-10T14:17:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/10/dem_rep_henry_cuellar_people_from_around_the_world_are_exploiting_biden_agenda_to_cross_the_border.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/10/dem_rep_henry_cuellar_people_from_around_the_world_are_exploiting_biden_agenda_to_cross_the_border.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/10/dem_rep_henry_cuellar_people_from_around_the_world_are_exploiting_biden_agenda_to_cross_the_border.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/54/545393.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "ouEwPYrEUm8JtlnaaRNhgzmydCUWDT0mrzZBgW//lq8MySkdig0nYVaMj9ozKV4QjP5+XiqP6mmrT44CRYjtqDtMsiPWBKmjBeQY4Az++Hc/55hse1eiRibQoZlCnbNTtVkucGjUzGYvr12Wy9bn+0T7Z0Z17TAVoWMlYT++aNVTPBeHXg2DYOv6juElVQmuwfs/reGe7vhrud/7GJSHMfJdlKQiC3YBZUu1HVI0Dq7R+vQErrWiaMdjJXRfjkjhtImIRmZpVYT9g/con5FNb1NUdZDVarMTjn8Cq/s7sZG1quP3wESayWfBi98mfC39s+RUMNU2/WAOEoGAMt0b58K9K3MsJXoMk//evzFQwq8=;I+C+/D/F8xmFPooMeVYTNw=="
 ---

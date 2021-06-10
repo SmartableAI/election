@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says.amp"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's Europe trip: President's schedule, meetings and everything you need to know"
+    excerpt: "On his first trip overseas, the president landed in the United Kingdom on Wednesday evening and is set to meet with several European allies, participate in the G-7 and NATO summits, and participate in a high-stakes, in-person meeting with Russian President Vladimir Putin."
+    publishedDateTime: 2021-06-10T13:57:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7O_oIp5g-T0/biden-europe-everything-you-need-to-know"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-europe-everything-you-need-to-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-europe-everything-you-need-to-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
