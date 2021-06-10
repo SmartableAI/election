@@ -2,6 +2,62 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-04-19-billboards-troll-warnock-biden-abrams-over-all-star-game-as-poll-says-public-wants-companies-out-of-politics.md",
+      "title": "Billboards troll Warnock, Biden, Abrams over All-Star game as poll says public wants companies out of politics",
+      "excerpt": "Conservatives are doubling down on their attacks against Democrats after Major League Baseball moved its All-Star Game from Atlanta in protest of Georgia's new elections law, arguing \"lies\" about the content of the law led to the decision. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xwIkWPTgtBE/billboards-warnock-biden-abrams-all-star-game",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xwIkWPTgtBE/billboards-warnock-biden-abrams-all-star-game",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21004855298319.jpg",
+          "width": 1024,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T04:17:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-trump-shifts-focus-from-clintons-emails-by-praising-saddam-hussein.md",
       "title": "Trump shifts focus from Clinton's emails by praising Saddam Hussein",
       "excerpt": "CBS News' Major Garrett reports on Donald Trump's response to the FBI's decision over the Clinton email case - and his decision to change the subject.",
@@ -1325,62 +1381,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-tom-cotton-intel-on-russia-bounties-selectively-leaked-to-media-to-help-biden-campaign.md",
-      "title": "Tom Cotton: Intel on Russia bounties 'selectively leaked' to media to help Biden campaign",
-      "excerpt": "Sen. Tom Cotton, a Republican member of the Senate Judiciary Committee, told “The Faulkner Focus” Friday that Russia bounty intel “selectively leaked” information to the media to help the Biden campaign, after a senior Biden administration official said the intelligence community only had “low to moderate”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d1kmkK4Qw5M/tom-cotton-russia-bounty-intel-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d1kmkK4Qw5M/tom-cotton-russia-bounty-intel-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tom-cotton-russia-bounty-intel-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-russia-bounty-intel-biden.amp",
-      "publishedDateTime": "2021-04-16T11:17:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

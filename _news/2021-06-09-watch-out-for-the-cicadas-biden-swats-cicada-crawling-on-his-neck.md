@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden disliked Putin before it was cool"
+    excerpt: "Joe Biden has questioned Vladimir Putin’s true intentions. Now, the two presidents prepare to meet in a critical summit."
+    publishedDateTime: 2021-06-09T18:10:00Z
+    webUrl: "https://www.politico.com/news/2021/06/09/biden-russia-putin-love-story-492195"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/09/biden-russia-putin-love-story-492195"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/09/biden-russia-putin-love-story-492195"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/54/a6/41a53759451988691b55fb97ce99/6-8-21-putin-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Groups put pressure on Biden to fulfill campaign pledge to end solitary confinement"
     excerpt: "More than 130 civil rights and justice groups signed on to a letter calling on the Biden administration to \"end the pain\" of the practice in federal facilities."
     publishedDateTime: 2021-06-07T14:00:00Z

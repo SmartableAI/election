@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/International/WireAP_95cf51a74dbe49d5b4b945e697189f76_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Democrats urge Justice Department not to defend Trump in defamation suit"
+    excerpt: "House Democrats are urging Attorney General Merrick Garland to reconsider the Justice Department's decision to take up the defense of former President Trump in a defamation lawsuit. The 2019 suit was filed by writer E."
+    publishedDateTime: 2021-06-10T01:27:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-defamation-lawsuit-justice-department-analysis-josh-gerstein/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-defamation-lawsuit-justice-department-analysis-josh-gerstein/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-defamation-lawsuit-justice-department-analysis-josh-gerstein/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/10/97110378-481d-4108-960d-305037a0a644/thumbnail/1200x630/25c5128bf43def0f71389023eda6e6c2/cbsn-fusion-trump-defamation-lawsuit-justice-department-analysis-josh-gerstein-thumbnail-731825-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Former House Speaker Paul Ryan urges GOP to return to Reaganism, end Trump fixation"
     excerpt: "The Wisconsin Republican and onetime VP candidate, in a speech at the Reagan Library in Simi Valley, describes conservatives as at 'a crossroads.'"

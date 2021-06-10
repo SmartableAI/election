@@ -2,11 +2,11 @@
 category: news
 title: "Biden Revokes and Replaces Trump Order That Banned TikTok"
 excerpt: "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data."
-publishedDateTime: 2021-06-09T21:46:00Z
-originalUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-order-tiktok.html"
-webUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-order-tiktok.html"
-ampWebUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-order-tiktok.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/09/us/politics/biden-order-tiktok.amp.html"
+publishedDateTime: 2021-06-09T23:02:00Z
+originalUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.html"
+webUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.html"
+ampWebUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
 type: article
 quality: 150
 heat: -1
@@ -335,6 +335,6 @@ related:
         height: 629
         isCached: true
 
-secured: "B1HuM/8vM77q2f8C2Bu/gK6XV7ezXX5aKANitn7yTQCGbm9BkBAYag0y3ztHwNHhtSIEq6Ftn/exsz1XjIIwm5zKzw8NC+GxX3zDumfHnRZpmnxtO9psLwgmOWnvWCpOBUDZ8GbJHPTZMn1K1KXLuL/WCbFgmyRTa3BURkTBED8CWifi571HDReL5gsTHKK647XVNdRZ8Euxo8Ast0W8BCK+T0L/0Y/l1smFBaRj6xHC791IaFf2au37YtHUfAEylWIIDdUMj9OLm4KgggpRsgV+cZVgolTKTaKqa2asV3aVowuMJXX1gutFaFW9Ce1gIl69rhM/RIFir0Q1pisKxqJMGQjOYW61WqmCGhsWOvM=;O2swC4Zh5oAJ7GsRSDDhIA=="
+secured: "RI/fBNm+5B8IpammaUxLxw0OHN4FaZZ85yeQsqZQnZQFWxEhli+Fv2NAzgKOu+LxmB7MTB3i+jsr0saosQH3UfNZM7iOWJq4bNnyUeoINnNgKLfLvDcqQTLnWODLhzdUE51IYS/byrctXGKHB4pfi58dl+wiy7+h4x6a9MSFl3rUB/C5GXbccpV0ig9Zzw71fPViKdqswpDDqZom1bgA2wdP64IH/k+RLlV2PGIlQqwSCLrnGkYELDJEnNThA9iF7kE9wL2BJ5nh1oQ0XMEycgAUnyJvIdDV9x1iZdZfBQabqxew5KoUf64bz0V+KmVXxzV7u55/XhBOQX0qauaXvQwq+TII7CxXfAasyrXhuyY=;Lwga93eSBd6sBS27t+JGQg=="
 ---
 

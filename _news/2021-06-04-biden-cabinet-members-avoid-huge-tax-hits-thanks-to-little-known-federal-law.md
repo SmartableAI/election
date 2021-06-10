@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "First Lady tells Biden to 'pay attention' during her speech in UK"
+    excerpt: "First Lady Jill Biden prodded President Biden to focus on her speech during a lighthearted moment at an event marking the start of the first overseas trip of his presidency on Wednesday."
+    publishedDateTime: 2021-06-10T00:54:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xSOXqXygTJk/first-lady-biden-pay-attention-speech-uk-trip"
+    ampWebUrl: "https://www.foxnews.com/politics/first-lady-biden-pay-attention-speech-uk-trip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-biden-pay-attention-speech-uk-trip.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7161d408-4540-472a-a140-ae113c3499b6/53aca1c4-8a1c-4c79-9eae-6d39f570c583/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to talk again with Capito on Friday to try to forge 'infrastructure' deal"
     excerpt: "President Biden and Sen. Shelley Moore Capito, R-W.Va., had a \"constructive\" meeting Wednesday at the White House in their effort to forge a bipartisan deal on infrastructure spending and intend to talk again Friday, according to the Biden Administration."
     publishedDateTime: 2021-06-02T22:25:49Z

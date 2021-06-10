@@ -241,10 +241,10 @@ related:
         isCached: true
   - title: "Biden Revokes and Replaces Trump Order That Banned TikTok"
     excerpt: "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data."
-    publishedDateTime: 2021-06-09T21:46:00Z
-    webUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-order-tiktok.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-order-tiktok.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/09/us/politics/biden-order-tiktok.amp.html"
+    publishedDateTime: 2021-06-09T23:02:00Z
+    webUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
     type: article
     provider:
       name: New York Times
