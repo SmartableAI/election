@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-10-brexit-trouble-overshadows-biden-and-johnsons-first-meeting.md",
+      "title": "Brexit trouble overshadows Biden and Johnson's first meeting",
+      "excerpt": "Boris Johnson's star turn on the world stage has already been undermined by his previous greatest accomplishment: Brexit.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tWkANR1xQyo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tWkANR1xQyo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html",
+      "publishedDateTime": "2021-06-10T04:52:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-army-corps-of-engineers-race-to-fix-massive-gaps-in-border-levees-left-by-trump.md",
       "title": "Army Corps of Engineers race to fix massive gaps in border levees left by Trump",
       "excerpt": "The U.S. Army Corps of Engineers are racing to fix massive gaps created while building Trump’s border wall. Residents in the Rio Grande Valley are vulnerable to dangerous flooding until they are fixed.",
@@ -351,7 +407,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 188,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -481,62 +537,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/biden-marjory-stoneman-douglas-graduation/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/biden-marjory-stoneman-douglas-graduation/index.html",
       "publishedDateTime": "2021-06-09T05:07:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-sen-josh-hawley-holds-up-biden-personnel-nominee-over-critical-race-theory.md",
-      "title": "Sen. Josh Hawley holds up Biden personnel nominee over critical race theory",
-      "excerpt": "Senate Republicans are holding up President Joe Biden's nominee to lead the Office of Personnel Management over concerns about her stance on critical race theory.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cWyYKvnOPvM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cWyYKvnOPvM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210608213129-josh-hawley-kiran-ahuja-critical-race-theory-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/08/politics/josh-hawley-kiran-ahuja-critical-race-theory/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/josh-hawley-kiran-ahuja-critical-race-theory/index.html",
-      "publishedDateTime": "2021-06-08T19:52:27-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -744,7 +744,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {

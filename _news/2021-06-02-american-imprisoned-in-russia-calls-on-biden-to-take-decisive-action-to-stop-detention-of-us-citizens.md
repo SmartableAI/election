@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden spoke with prominent critic Larry Summers on economy after inflation warnings "
+    excerpt: "President Joe Biden called prominent Democratic economist Larry Summers to discuss the economy after he raised several warnings recently over his inflation concerns, a source familiar with the call confirms to CNN.\n    \n"
+    publishedDateTime: 2021-06-03T21:20:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rSJcaj42s5Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/larry-summers-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/larry-summers-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190829144518-larry-summers-file-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden warns he'll tell Putin 'what I want him to know' as he defines goals of foreign tour"
     excerpt: "President Joe Biden told a hangar of US troops on Wednesday he was in Europe to defend the very concept of democracy, setting high stakes for his first presidential trip abroad and warning Russian President Vladimir Putin he planned to raise touchy issues during their upcoming summit.\n    \n"
     publishedDateTime: 2021-06-09T21:32:06Z

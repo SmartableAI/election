@@ -1,34 +1,33 @@
 ---
 category: news
-title: "'Watch out for the cicadas!': Biden swats cicada crawling on his neck"
-excerpt: "Watch as President Joe Biden swats a cicada off his neck after the insect landed on him at Joint Base Andrews before the president departed for his first overseas trip."
-publishedDateTime: 2021-06-09T14:13:00Z
-originalUrl: "https://www.nbcnews.com/video/-watch-out-for-the-cicadas-biden-swats-cicada-crawling-on-his-neck-114543173533"
-webUrl: "https://www.nbcnews.com/video/-watch-out-for-the-cicadas-biden-swats-cicada-crawling-on-his-neck-114543173533"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114543173533"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114543173533"
+title: "Why Biden's foreign trip is so unique and so important "
+excerpt: "Joe Biden's first foreign trip as President comes at a unique moment.\n    \n"
+publishedDateTime: 2021-06-10T10:41:45Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IniG9ZHNA_c/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IniG9ZHNA_c/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/joe-biden-foreign-trip-g7-uk-putin-russia-democracy/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/joe-biden-foreign-trip-g7-uk-putin-russia-democracy/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/f_mo_biden_cicada_210609.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609164025-03-biden-international-trip-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -45,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604155418-02-steve-sisolak-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Why Biden's foreign trip is so unique and so important "
-    excerpt: "Joe Biden's first foreign trip as President comes at a unique moment.\n    \n"
-    publishedDateTime: 2021-06-10T10:41:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IniG9ZHNA_c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/joe-biden-foreign-trip-g7-uk-putin-russia-democracy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/joe-biden-foreign-trip-g7-uk-putin-russia-democracy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609164025-03-biden-international-trip-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -95,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608104620-joe-biden-060421-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "'Watch out for the cicadas!': Biden swats cicada crawling on his neck"
+    excerpt: "Watch as President Joe Biden swats a cicada off his neck after the insect landed on him at Joint Base Andrews before the president departed for his first overseas trip."
+    publishedDateTime: 2021-06-09T14:13:00Z
+    webUrl: "https://www.nbcnews.com/video/-watch-out-for-the-cicadas-biden-swats-cicada-crawling-on-his-neck-114543173533"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114543173533"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114543173533"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/f_mo_biden_cicada_210609.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden disliked Putin before it was cool"
     excerpt: "Joe Biden has questioned Vladimir Putin’s true intentions. Now, the two presidents prepare to meet in a critical summit."
@@ -143,6 +142,6 @@ related:
         height: 629
         isCached: true
 
-secured: "5RXkhIx0kpqmxyLI2TxJApkWtHQmgsEWs0wWauf++Y4BWHSjR6YVlDml4WaBZa32ZZv74XmVOpTESQCHEDZ0E7e1QwWgJhjZOZWEtw8UNjMERaZTzBw6yRb3JA5wI7IUZbUGP9Oc4YibQGY8FfdHi8sndXjuLjzCfDeH4wr9NDfs3cwZ/xYjrrCWw3Th3V/0LIEjyONeC1KWDmawEzgOPFQ39LWhNaCwMlzAXMLKPE5+mrMNt/yZ+QGDB+UhMYjaLk7qrVQkE+LP+eJMZgfGxvvnsdN5NYBycuUe/Ckm/QmyxD00ihO7ulwkG5LRXc0KCAKsQGmfLd3YBrI/g7sL8746nbU9Vu8w0qRWDL57cca5YZ2e9oeqMlvqFNrZvtLL8CMin6uaI7+9cRxyVUaFIXxAim9Ak0WkCxiWHr+/q5DsaItJLKUMl9rocPYjd/AlUbCn0CEDyiwHqefVBQVevnx168AHNXZHV9xn5DKf1g0xB1bR/gX2kupjbrH+91POGySwvV6folzBzJZBVFiCYw==;5Ag6ocvJeOWI34kFIs/+zQ=="
+secured: "7NecaIU5oBqewaJC9m4d9zTgsgZ1oWcGrCVHU+lOPjecmWgf1TW66hxpcokTalx1Rr/m+WjQIa3xJmKG9R0w/c85xlVeOasOfz2AMpnikj/slZhvH6navz0NEgIr6HtlrIXO/z64jJcr9hQ9EBd3WnJX15DyrhXmeePuC6ooV8k+3/496vnuOlXyQW9Hldp+hKMonV1Zwhou2YexyxdY3NN9zgD2ijmJStQsQfd9gGMuOxfr2ceDuRGvc1CZnMmzIyYaVpBgb6ele6HetC9DKZTxbAXmDxJXooFgusE3qtWZn3vZi2nH6rQctqsYrOxExCXJ90npbI07yb+eeITIO8KX24vWgx/EYN1xI5IPHmE=;U2ZMjs+Ik2iErxm48sptYw=="
 ---
 

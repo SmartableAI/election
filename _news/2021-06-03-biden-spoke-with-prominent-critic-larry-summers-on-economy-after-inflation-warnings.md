@@ -31,35 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Sen. Josh Hawley holds up Biden personnel nominee over critical race theory"
-    excerpt: "Senate Republicans are holding up President Joe Biden's nominee to lead the Office of Personnel Management over concerns about her stance on critical race theory.\n    \n"
-    publishedDateTime: 2021-06-09T02:52:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cWyYKvnOPvM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/josh-hawley-kiran-ahuja-critical-race-theory/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/josh-hawley-kiran-ahuja-critical-race-theory/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608213129-josh-hawley-kiran-ahuja-critical-race-theory-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden and Johnson to agree to new Atlantic Charter during bilateral meeting "
-    excerpt: "President Joe Biden and UK Prime Minister Boris Johnson are expected on Thursday to agree to a new Atlantic Charter modeled on the historic declaration made by President Franklin D. Roosevelt and Prime Minister Winston Churchill in 1941 that set out American and British goals for the world after the"
-    publishedDateTime: 2021-06-09T21:33:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J6qr3iuW5zM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/biden-johnson-atlantic-treaty/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/biden-johnson-atlantic-treaty/index.html"
+  - title: "Biden will discuss recent cyber attack on meat producer with Putin in Geneva"
+    excerpt: "The White House says President Joe Biden will address the recent ransomware attack on a meat producer and the increased threat of cyber attacks while meeting with Russian President Vladimir Putin later this month in Geneva.\n    \n"
+    publishedDateTime: 2021-06-02T17:51:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8WuGM8W675s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/biden-putin-jbs-foods-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/biden-putin-jbs-foods-russia/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524025455-01-joe-biden-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden warns he'll tell Putin 'what I want him to know' as he defines goals of foreign tour"
+    excerpt: "President Joe Biden told a hangar of US troops on Wednesday he was in Europe to defend the very concept of democracy, setting high stakes for his first presidential trip abroad and warning Russian President Vladimir Putin he planned to raise touchy issues during their upcoming summit.\n    \n"
+    publishedDateTime: 2021-06-09T21:32:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LstL0kyivUw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-troops-europe-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-troops-europe-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609162257-08-biden-uk-0508-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "American imprisoned in Russia calls on Biden to take 'decisive action' to stop detention of US citizens"
+    excerpt: "Paul Whelan, an American imprisoned in Russia, called on President Joe Biden to \"aggressively discuss and resolve\" the issue of US citizens being detained for political purposes when he meets President Vladimir Putin at a summit later this month.\n    \n"
+    publishedDateTime: 2021-06-02T11:18:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K4q--RKUf30/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/paul-whelan-cnn-biden-putin-summit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/paul-whelan-cnn-biden-putin-summit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200615092214-01-paul-whelan-trial-0615-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -1,35 +1,24 @@
 ---
 category: news
-title: "Gingrich: Biden's congressional speech will be the 'weirdest' in American history"
-excerpt: "Guests: Jamie McBride, Leonydus Johnson, Newt Gingrich, Peter McCullough, Maggie Williams, Stephen Williams, Dave Turnbull, Dinesh D'Souza, Kurt Schlichter"
-publishedDateTime: 2021-04-30T01:07:00Z
-originalUrl: "https://www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history"
-webUrl: "https://www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history"
-ampWebUrl: "https://www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history.amp"
+title: "Guatemala Harris and the Myth of Biden's Border Policy"
+excerpt: "RealClearPolitics"
+publishedDateTime: 2021-06-10T11:39:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/06/10/guatemala_harris_and_the_myth_of_bidens_border_policy_544635.html"
+webUrl: "https://www.realclearpolitics.com/2021/06/10/guatemala_harris_and_the_myth_of_bidens_border_policy_544635.html"
 type: article
-quality: 130
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
   - Joe Biden
   - Republican Voice
-
-images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/698e0949-38b7-4fb4-99e0-76eeb265afff/7bf55267-6b4a-4e90-a5de-2104e62d440e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
-    isCached: true
+  - Kamala Harris
 
 related:
   - title: "Harris lands new job pushing American Jobs Plan through Congress for Biden"
@@ -316,6 +305,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Gingrich: Biden's congressional speech will be the 'weirdest' in American history"
+    excerpt: "Guests: Jamie McBride, Leonydus Johnson, Newt Gingrich, Peter McCullough, Maggie Williams, Stephen Williams, Dave Turnbull, Dinesh D'Souza, Kurt Schlichter"
+    publishedDateTime: 2021-04-30T01:07:00Z
+    webUrl: "https://www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history"
+    ampWebUrl: "https://www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/698e0949-38b7-4fb4-99e0-76eeb265afff/7bf55267-6b4a-4e90-a5de-2104e62d440e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Why Harris is treading carefully in Biden world, and taking flak from the press"
     excerpt: "There are signs that the press is unhappy with Vice President Harris, or at least getting impatient. Why doesn’t she make more news? Why is she so cautious?"
     publishedDateTime: 2021-05-19T07:00:00Z
@@ -376,15 +381,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Guatemala Harris and the Myth of Biden's Border Policy"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-06-10T11:39:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/10/guatemala_harris_and_the_myth_of_bidens_border_policy_544635.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 70
   - title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
     excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
     publishedDateTime: 2021-04-29T16:08:00Z
@@ -400,6 +396,6 @@ related:
         height: 562
         isCached: true
 
-secured: "7VbGKRiUbsDpxY5fKyKjnRWwwckwq7QVaJXO+APti1lYT7NeId+yN+cm/rRD2Wb8WAGihuayEdRV6ubQfUKSzqvb592XJckAWTUGI9iKLvK7jB3B/0CHYZAA6vcL4TsiiSb86J4mPktCCmy6kGJq6k/KdlKzKuKCA5ygnDNdT59+It6+62cttn33Rm6iuujjkWgZ5Fs1CsxZYZIfdfwh7Us/zWnriTIa3ymNiUG9uO8vTh1/W76AwPh6b9iptC71mHHFBaA7dwos9znFcl7S2Hfi6QKMSVGtRTratY3tfqua+3OmOxrsBln65SuKipOXVgUEcrrQZKl1JCj5sF0QG8xrXPQfRsRC5pgaAgVQPoSiPm3a9EWtA5RNpjR1z1PdbkYq7UaXcw+NQPAg+e3Rz0hHpjhYecx+ASyFAN+scOCPSxJwlgQ1BUsVbio/dHD+y81tnazvlvWDu+uUCl7OL1Il9ss3biENUulDkKvCc7/Qkpi+Q3MKHH5wjGYgKNuINOiwKIB117E7piVlXV6iNw==;h3dMuvIIdOdWGW6ClHQBKw=="
+secured: "4X9cayxZUyMP3/iVvmLek6Ngdokwg9nFLYrMpD8EaLP6nsMGvzE1z6v7Sz6AOyCiqBgAPr6cTPp6eP+Voqi1P+Cw4r0u0aV/a2jQ1tWN1DzsGdEVwMjnRCBEL/h3NWV8F16tx7BQMqA4D++rMoiNzmF933d+19sP90eIJazXf/TyLEeo09GfVkk79RGNdBh6LT9s0k5SQtn4L2UwPk19OMkzj5uis3Ae9wR0TG4BweLIpnjQDGQBlXCywbhwrfs4PE2aECP5eJKcAzwoorG4Brdtc/AhEEgTV0BlG7Tq/1CxFJ1TaoPE9IHrSYGP8cOPDQwI8+Bfr5an3hXh8/rraXOfaoFekc54KVwEa9Wq668=;FxkJ69tztbfYLhpOBgpbag=="
 ---
 

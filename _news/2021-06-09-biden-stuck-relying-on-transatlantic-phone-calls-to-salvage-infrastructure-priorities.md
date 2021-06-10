@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/president-agenda-oversea
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
 type: article
 quality: 168
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Boris and Biden: A diplomatic odd couple faces pressure to define the US-UK relationship "
+    excerpt: "In style and in substance, President Joe Biden and British Prime Minister Boris Johnson are two very different men leading two countries whose relationship makes up one of the most important global alliances.\n    \n"
+    publishedDateTime: 2021-06-10T11:03:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w1cczqFk070/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/joe-biden-boris-johnson-relationship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/joe-biden-boris-johnson-relationship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Biden Will Meet With Republicans’ Top Infrastructure Negotiator"
     excerpt: "Democrats are ready to move on President Biden’s $2 trillion infrastructure plan unless there is a major breakthrough this week. The two sides are over $1 trillion apart in how much they want to spend,"
     publishedDateTime: 2021-06-02T08:20:00Z

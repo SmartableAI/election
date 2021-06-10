@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Biden's foreign trip is so unique and so important "
+    excerpt: "Joe Biden's first foreign trip as President comes at a unique moment.\n    \n"
+    publishedDateTime: 2021-06-10T10:41:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IniG9ZHNA_c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/joe-biden-foreign-trip-g7-uk-putin-russia-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/joe-biden-foreign-trip-g7-uk-putin-russia-democracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609164025-03-biden-international-trip-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden takes the lead role he's always craved in his high-stakes first trip abroad as president"
     excerpt: "When President Joe Biden told officials this spring that he wanted to meet soon with his Russian counterpart for a summit, his team quickly set out to make it happen -- even if some wondered what he really hoped to achieve.\n    \n"
     publishedDateTime: 2021-06-09T06:35:10Z

@@ -376,6 +376,15 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Guatemala Harris and the Myth of Biden's Border Policy"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-10T11:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/10/guatemala_harris_and_the_myth_of_bidens_border_policy_544635.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 70
   - title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
     excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
     publishedDateTime: 2021-04-29T16:08:00Z

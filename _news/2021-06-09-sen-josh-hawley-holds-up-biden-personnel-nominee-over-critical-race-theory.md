@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/josh-hawley-kiran-ahuja-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/josh-hawley-kiran-ahuja-critical-race-theory/index.html"
 type: article
 quality: 173
-heat: 213
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Brexit trouble overshadows Biden and Johnson's first meeting"
+    excerpt: "Boris Johnson's star turn on the world stage has already been undermined by his previous greatest accomplishment: Brexit.\n    \n"
+    publishedDateTime: 2021-06-10T11:52:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tWkANR1xQyo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden and Johnson to agree to new Atlantic Charter during bilateral meeting "
     excerpt: "President Joe Biden and UK Prime Minister Boris Johnson are expected on Thursday to agree to a new Atlantic Charter modeled on the historic declaration made by President Franklin D. Roosevelt and Prime Minister Winston Churchill in 1941 that set out American and British goals for the world after the"
     publishedDateTime: 2021-06-09T21:33:49Z
@@ -44,22 +60,6 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden spoke with prominent critic Larry Summers on economy after inflation warnings "
-    excerpt: "President Joe Biden called prominent Democratic economist Larry Summers to discuss the economy after he raised several warnings recently over his inflation concerns, a source familiar with the call confirms to CNN.\n    \n"
-    publishedDateTime: 2021-06-03T21:20:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rSJcaj42s5Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/larry-summers-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/larry-summers-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190829144518-larry-summers-file-2015-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-bid
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-biden/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Biden's foreign trip is so unique and so important "
+    excerpt: "Joe Biden's first foreign trip as President comes at a unique moment.\n    \n"
+    publishedDateTime: 2021-06-10T10:41:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IniG9ZHNA_c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/joe-biden-foreign-trip-g7-uk-putin-russia-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/joe-biden-foreign-trip-g7-uk-putin-russia-democracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609164025-03-biden-international-trip-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden poised to announce first slate of ambassador nominees as he eyes first trip abroad"
     excerpt: "President Joe Biden has made final decisions on several high-profile ambassador posts around the world and is poised to announce the first slate of nominees in the coming days as he prepares to set off on his first overseas trip since taking office.\n    \n"
     publishedDateTime: 2021-06-05T13:02:02Z
