@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Report says U.S. Park Police didn't clear Lafayette Park for Trump photo op"
+    excerpt: "A new report sheds light on the events surrounding a controversial photo op by President Trump last year. Kris Van Cleave was there on the scene when it happened and has the details."
+    publishedDateTime: 2021-06-10T12:31:00Z
+    webUrl: "https://www.cbsnews.com/video/report-says-us-park-police-didnt-clear-lafayette-park-for-trump-photo-op/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/report-says-us-park-police-didnt-clear-lafayette-park-for-trump-photo-op/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/report-says-us-park-police-didnt-clear-lafayette-park-for-trump-photo-op/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/10/0475d8b8-76c3-4e18-83bd-62029ebb7a26/thumbnail/1200x630/53a477b5443e4e3331a151acaeb5346b/0610-ctm-lafayettepark-kvc-731963-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "DOJ asks judge to dismiss cases against Trump, Barr for Lafayette Square clearing"
     excerpt: "Department of Justice lawyers asked a federal judge to dismiss lawsuits against former President Trump, former attorney general William Barr and other administration officials for the forced clearing"
     publishedDateTime: 2021-05-29T11:52:00Z

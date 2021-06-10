@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Tennessee shelter for immigrant children opened under Trump"
-    excerpt: "Tennessee licensed a shelter for immigrant children a year before the state’s Republican governor and U.S. Senators began expressing outrage over unaccompanied minors sent to Chattanooga"
-    publishedDateTime: 2021-05-28T21:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795"
+  - title: "State bar investigating Texas Attorney General Ken Paxton over Trump election lawsuit"
+    excerpt: "A Democratic Party activist complained that Ken Paxton's challenge to President Joe Biden's victory in four states was frivolous and unethical."
+    publishedDateTime: 2021-06-10T12:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/10/texas-bar-investigates-attorney-general-ken-paxton-over-election-suit/7633751002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7633751002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633751002"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/NAAS/a4019b43-5247-4de3-96bb-87bf22051b19-Electoral_College_Protests.jpg?auto=webp&crop=4847,2727,x0,y246&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "House committee to interview former Trump counsel after two-year legal battle"
-    excerpt: "The House Judiciary Committee will question former White House counsel Don McGahn behind closed doors on Friday."
-    publishedDateTime: 2021-06-04T12:30:00Z
-    webUrl: "https://www.cbsnews.com/news/don-mcgahn-house-committee-interview-former-trump-counsel/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/don-mcgahn-house-committee-interview-former-trump-counsel/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/don-mcgahn-house-committee-interview-former-trump-counsel/"
+  - title: "Democrats urge Justice Department not to defend Trump in defamation suit"
+    excerpt: "House Democrats are urging Attorney General Merrick Garland to reconsider the Justice Department's decision to take up the defense of former President Trump in a defamation lawsuit. The 2019 suit was filed by writer E."
+    publishedDateTime: 2021-06-10T01:27:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-defamation-lawsuit-justice-department-analysis-josh-gerstein/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-defamation-lawsuit-justice-department-analysis-josh-gerstein/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-defamation-lawsuit-justice-department-analysis-josh-gerstein/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 122
+    quality: 124
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2019/11/25/47cb784e-952a-4a0d-b068-f8f25ed3639d/thumbnail/1200x630g4/3887ff2505aaf0a92aade698da971528/gettyimages-1026739840.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/10/97110378-481d-4108-960d-305037a0a644/thumbnail/1200x630/25c5128bf43def0f71389023eda6e6c2/cbsn-fusion-trump-defamation-lawsuit-justice-department-analysis-josh-gerstein-thumbnail-731825-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

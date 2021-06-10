@@ -27,20 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. to respond in 'robust' way to Russian malice -Biden"
-    excerpt: "U.S. President Joe Biden on Wednesday said the United States was not seeking conflict with Russia, but would respond in a \"robust and meaningful way\" if the Russian government engaged in harmful activities."
-    publishedDateTime: 2021-06-09T22:29:00Z
-    webUrl: "https://www.reuters.com/video/watch/us-to-respond-in-robust-way-to-russian-m-id731198861?chan=6g5ka85"
+  - title: "President Joe Biden arrives in UK on first overseas trip of his administration, will visit 3 countries over 8 days"
+    excerpt: "President Joe Biden arrives in UK on first overseas trip of his administration, will visit 3 countries over 8 days"
+    publishedDateTime: 2021-06-09T18:51:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210609&i=OVEGOQL0F&r=OVEGOQL0F&t=2"
-        width: 960
-        height: 540
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
+  - title: "Biden administration to increase pay for airport screeners"
+    excerpt: "The Biden administration says it is moving to increase the pay and union rights for security screeners at the nation’s airports"
+    publishedDateTime: 2021-06-03T22:22:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-administration-increase-pay-airport-screeners-78073415"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
 
 secured: "+mzLmJjjBpu3y2RN9GUWgFQVsgQg4AHhrpjttxu3qXkQnCi9I4AJMsaPsoUqN1c++rBVm2YLc/yLz0q5zJraGLk7QilOZ6jwMg+GyewFbGNNa6exCU3wEln3G7/1kOfTsR2LuKNxDB2vMjvfhFEMam6Kgp6xBUdICoX//o0k9/0mRZIwM/10u6rE+qiWl8+ZWD9EHTy/5vFdGafszUq3wAJgQzVMsh5PKV0OV+2WrwtVJCn/ZzzWRNtvvQGDygvrg0wU3QiPMdIVFUVLYm8NGPvFJZFj3S3udy7bYonZin8R5Kp64c8Hi0VFN9ZC3iSoir+LzCVfBE8KkWySdA7ffE1IJx5nIVtHCO+1ZjUmzLU=;kARrnnF63Gf9tqxywGz/gQ=="
 ---

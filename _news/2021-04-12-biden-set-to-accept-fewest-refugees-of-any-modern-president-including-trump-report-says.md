@@ -559,6 +559,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "INSIGHT-Bruised by border politics, some Biden officials cling to Trump restrictions"
+    excerpt: "Jasibi says she fled her hometown in Honduras after a gang killed her parents and gave her 24 hours to leave the country."
+    publishedDateTime: 2021-06-10T14:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-immigration-border-idUSL2N2NP2QE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DM10D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DM10D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565181802&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH590FO"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Under Trump-era border rule that Biden has kept, few asylum-seekers can seek U.S. refuge"
     excerpt: "Just 0.3% of more than 600,000 migrants expelled by U.S. border officials under a pandemic-era policy have been allowed to pursue U.S. refuge."
     publishedDateTime: 2021-04-15T01:45:00Z

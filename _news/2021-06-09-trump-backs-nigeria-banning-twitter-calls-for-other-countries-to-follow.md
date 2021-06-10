@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/technology/557451-trump-backs-nigeria-ban
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp"
 type: article
 quality: 124
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1808323/breaking-news.png"
         width: 1799
         height: 1200
-        isCached: true
-  - title: "Food Deliverer Posed As Trump's Family; Used Social Media Following To Steal Thousands"
-    excerpt: "A 22-year old former food delivery worker was arrested this week for creating fake Twitter accounts of former President Trump's family members and duping MAGA supporters of money."
-    publishedDateTime: 2021-06-10T11:23:00Z
-    webUrl: "https://www.ibtimes.com/food-deliverer-posed-trumps-family-used-social-media-following-steal-thousands-3222299"
-    ampWebUrl: "https://www.ibtimes.com/food-deliverer-posed-trumps-family-used-social-media-following-steal-thousands-3222299?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/food-deliverer-posed-trumps-family-used-social-media-following-steal-thousands-3222299?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "dr0nzEAnOe0AvuVXbpRdJWQLr7HefcAuqRWCA8cutdbsO+0J5BuM9wJhavZsV6FBDNkQe31l4kBZFxLGtgP8/smHG4mLBq7jBDBi3U6Vbb/B80HtPOosFTdwMhrnyKjydlAJM96JloELS7TIhqjiakx5+BwWzhX36VdfuDwqU9my0mywWqNfF3FLe8a2MWYqJMUkampsaUyjA3IjRBRBkIAEi0Oxjrz+VonBKr9jQFdrW+xF5Txh3GxZsmGrhCkKZ2GWpBdxwSRje1tsuvcg+lUVfPQBL5ziVE6BA1SnRlazXfyMPQF0cM6i3GDYLP1KznfWsai48uk2trBuRfnDTUew1cN+axh0+DFkF31p3Ak=;p7ri9TmIdVIl/EcfjkWPew=="

@@ -143,6 +143,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "21,000 sign petition protesting US Catholic Bishops vote on Biden, abortion"
+    excerpt: "More than 21,000 people have signed a letter calling for the U.S. Catholic Bishops to cancel a planned vote on whether President Biden should receive communion."
+    publishedDateTime: 2021-06-10T13:52:00Z
+    webUrl: "https://thehill.com/homenews/administration/557729-more-than-21000-christians-call-on-us-catholic-bishops-to-cancel"
+    ampWebUrl: "https://thehill.com/homenews/administration/557729-more-than-21000-christians-call-on-us-catholic-bishops-to-cancel?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557729-more-than-21000-christians-call-on-us-catholic-bishops-to-cancel?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_060921getty_memo.jpg"
+        width: 980
+        height: 580
+        isCached: true
+  - title: "Joe Biden to meet Boris Johnson as deadlock continues in Washington – live"
+    excerpt: "Pair to look at lifting travel restrictions between US and UK – follow the day’s politics news"
+    publishedDateTime: 2021-06-10T12:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/10/joe-biden-boris-johnson-uk-g7-covid-coronavirus-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/10/joe-biden-boris-johnson-uk-g7-covid-coronavirus-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/10/joe-biden-boris-johnson-uk-g7-covid-coronavirus-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/f24a15c7182dbe3533ea5b2d12461cbbe8074b65/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f565a4c6ac7ec0eba72b3ab92fc8d26"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden plans more talks to woo Republicans on $1tn infrastructure deal – live"
     excerpt: "President to meet Shelley Moore Capito to try to bridge divide on massive rebuilding package – follow the latest"
     publishedDateTime: 2021-06-04T12:41:00Z

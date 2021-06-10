@@ -63,6 +63,36 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Biden not looking to lecture Johnson on N.Ireland, official says"
+    excerpt: "U.S. President Joe Biden has not come to Britain to lecture Prime Minister Boris Johnson about Northern Ireland and is not looking to be confrontational or adversarial, a senior U.S. administration official said on Thursday."
+    publishedDateTime: 2021-06-10T12:17:00Z
+    webUrl: "https://www.reuters.com/world/uk/biden-not-looking-lecture-johnson-nireland-official-says-2021-06-10/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/xWtYx2lx9WkthIBd8z1gbxwDFhE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WOAYAAXDRNOBXIVPSY6FBFKAQU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Joe Biden, Boris Johnson to solidify alliance with renewed Atlantic Charter"
+    excerpt: "President Joe Biden will spend the opening leg of his first overseas trip as president meeting with British Prime Minister Boris Johnson Thursday on a host of issues, along with signing the Atlantic Charter."
+    publishedDateTime: 2021-06-10T13:55:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/06/10/Joe-Biden-Boris-Johnson-Atlantic-Charter/6561623330424/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/06/10/Joe-Biden-Boris-Johnson-Atlantic-Charter/6561623330424/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/06/10/Joe-Biden-Boris-Johnson-Atlantic-Charter/6561623330424/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/6561623330424/2021/1/20247bdb571662d5db68393fab9fd5bf/v1.5/Joe-Biden-Boris-Johnson-to-solidify-alliance-with-renewed-Atlantic-Charter.jpg"
+        width: 800
+        height: 535
+        isCached: true
 
 secured: "lph00Xx0YlZWTavtXCcJyNwWIDv9N3wKBXEfjXue+MOeNiLgafyQc5Tk+Qz3TWBDXfmR3/nfeRvFoCm7UhFpfQU3TkKfO1FvI0mTiBbFfhVk2oEJxLpCnurgtaPNa7gsQkkldro/Z5AH8zMI+bBX1AEaV/pTRTpc7dj9FXMGHNhX2d5AQ06K9Opv5UEdnnxzTjl2OIkhrFGttzthmVswG0wfdJ+fFYxl9WSuwpmdLU3LMUrUns15kNCgH7FcycaMU+42aTf72HlkBpQ3I5IkofhS7i91H/UKhhEySE5c5pkPKnrnNqsKRcJW4ha9UAMo3jWbV7emmCYILkwjURBdRfnSVBBGOqR2mtk8KaGkre3BUjQMq/lwR6Yzbei7nPJgdfg4iVA+UbQiFrlcEGvR7/B74tY7DCwhIFi2E+D/ITjD79laExYCdxFHmqmcpHT5AFNKk3viuE0l4qkvOL9AsJFQFuwDqV2YpCzW0FKtVnYGOB4gbPUhe6kJUzVCPnU/clL4jH3W5NUJqZcsxTaviQ==;dSgEQU1WjwXbB/PJZEVb3Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-cicada-europe-trip.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cicada-europe-trip.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden should end Europe trip to deal with border after new numbers show continuing crisis, Arizona AG says"
+    excerpt: "Arizona Attorney General Mark Brnovich is asking President Biden to return from his trip to Europe and address the massive migrant surge on the southern border after May numbers from Border Patrol indicate the number of migrants coming to the U.S. is much higher than it's been in years."
+    publishedDateTime: 2021-06-10T13:33:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/43Flv89H6gE/biden-end-europe-trip-border-numbers-arizona-ag"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/US-Mexico-Border-Migrants-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "fmYWFZlU2TjzZNUtmPB7vbCJigPPND9G8lx4apVkaxj52ipfnhatrcRotuHDkFr0dEMswCmPgkfZePlkQkpibQNFESDwNlOktzn8hkpNiLPj2GNb6x6O2oU8pcyLKwBVwRdylg3+Z4boRCCRykegxzG/njwBmCzfJwwxefQ+jkuNagprHkjD/FRcneXzQdHn0qFY5/52+jh/iH5HPguksmEueuGw4NvS4ifiCXgNedPvdVIMKLQnh7D+v57o+EIXkPp4f8+HTBEP7pNM5ImibBni9uUbgAS72swGwh4EDL+6pHx7ZvexkMJwEF3LPQP1UUzkBZPXwcm8LzImeMHhVIMMacQ/uAkZOMxA8HpuaiQ=;42RsNFF3XZCzL90nkcWPBQ=="
 ---

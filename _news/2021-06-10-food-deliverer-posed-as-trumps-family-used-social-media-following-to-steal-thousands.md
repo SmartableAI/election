@@ -31,39 +31,39 @@ images:
     isCached: true
 
 related:
-  - title: "Trump backs Nigeria banning Twitter, calls for other countries to follow"
-    excerpt: "Former President Trump on Tuesday applauded Nigeria’s Twitter ban and called on other countries to follow suit."
-    publishedDateTime: 2021-06-08T23:46:00Z
-    webUrl: "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to"
-    ampWebUrl: "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp"
+  - title: "Former Trump aide eyeing New Hampshire congressional bid"
+    excerpt: "A former Trump White House aide is mulling a congressional run in New Hampshire. Karoline Leavitt, who served as an assistant press secretary in the Trump administration and most recently worked as a top press staffer for Rep."
+    publishedDateTime: 2021-06-10T13:46:00Z
+    webUrl: "https://thehill.com/homenews/campaign/557736-former-trump-aide-eyeing-new-hampshire-congressional-bid"
+    ampWebUrl: "https://thehill.com/homenews/campaign/557736-former-trump-aide-eyeing-new-hampshire-congressional-bid?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557736-former-trump-aide-eyeing-new-hampshire-congressional-bid?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_093020getty_trump-legal.jpg"
+      - url: "https://thehill.com/sites/default/files/trumpdonald_103020getty_endorsements.jpeg"
         width: 980
-        height: 580
+        height: 551
         isCached: true
-  - title: "Trump Says More Countries Should Ban Twitter: 'Perhaps I Should Have Done It While I Was President'"
-    excerpt: "\"Who are [Twitter and Facebook] to dictate good and evil if they are evil themselves?\" Trump wrote of the massive social media companies."
-    publishedDateTime: 2021-06-08T21:37:00Z
-    webUrl: "https://www.newsweek.com/trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president-1598788"
-    ampWebUrl: "https://www.newsweek.com/trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president-1598788?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-more-countries-should-ban-twitter-perhaps-i-should-have-done-it-while-i-was-president-1598788?amp=1"
+  - title: "Trump Considers Running For Florida Congress, Being House Speaker Is 'Very Interesting'"
+    excerpt: "Former President Donald Trump may consider running for a congressional seat in Florida and taking the position of House Speaker. During a guest appearance on Wayne Allyn Root’s"
+    publishedDateTime: 2021-06-09T00:47:00Z
+    webUrl: "https://www.ibtimes.com/trump-considers-running-florida-congress-being-house-speaker-very-interesting-3220655"
+    ampWebUrl: "https://www.ibtimes.com/trump-considers-running-florida-congress-being-house-speaker-very-interesting-3220655?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-considers-running-florida-congress-being-house-speaker-very-interesting-3220655?amp=1"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 111
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
     images:
-      - url: "https://d.newsweek.com/en/full/1808323/breaking-news.png"
-        width: 1799
-        height: 1200
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/02/the-former-presidents-blog-from-the-desk-of.jpg"
+        width: 1024
+        height: 696
         isCached: true
 
-secured: "PR4EabJvaU8WMjedahvl4FQ52bzWO5kpIkOVP81iu8JXJUTvcvaGAZrG3kqgg5mE5SIL0pMEWhGxb8KwkXb2pj0roQkBJeNWVm23T2gje7NJ0iTqBwsB2tTw1C2S118brFM0HCeubS8wcViAgqDeNdtF8aP2ODy0a6VcE5miZFMJrxQWtNVeq5aLfqD3+uZ7IIIv7n5bhdXX2pvrzaJHUZcSCR6fTTSaNoXb7uxZ2e2IBFwf+AsnQZJagSwsGLBwwRWbEFR+fgaKKxkmNA8kuTGmR89GEAwjjXijDvbKm4hUyDAjNjtRWiqAkUTgvU3tOywzVjOH6NNYD/hHMhVJPq69wl8vNfVyMpT6FFbTPX8=;UDlllqLfXMb6un4nstejpQ=="
+secured: "bi3b0mgNI5rQOWCSu1R3aq7JBaI6ljDEHgIgxcB+VyM1Zj8Y03aEyJ723AtMC6m0gDeF1JNhifEMr4kQGpiPmN5gDkpuxCSbbZW0OrK1Yn1ahnbOZZz36zbhrs1J0uT78p8SLFRliKOsp/2LvWCC458iETzk53jbG8G/HDH/XXhXHGa8Rtzn82PD7CB1euq7b3eC8/8WEAucJk5BgpgSReLjk1aIZe/ULMv8TsTmCPcCUdqIsMo+EkjglG8tX/aCqk1lLfdsC0V0OwsTWZhPwGED7WG8LSrjouim8JWMVvzCfPVRMb8Z8fJiQGdKZyurNvHygzecXmWQO4SUJ5Ji4W+c1t18MaQmCd8XDF/fszaqqY4AABfCrmHrhODzPiAzDR8CItMw3lF19TBcKIX9yCa7ln+fkzCa7k1Cup58OvGkqrQs6DpL9MHV0wP3LgxIWNTL4IXTVwYHyDB4cgrT3JTT33N8THT2JPLS0jfGiiAEYQWnJwvSKfLtcUFzH0vqvck5dxPp12jXNIY7ZlNejg==;TsBhauLiVZa+ERKouWflXg=="
 ---
 

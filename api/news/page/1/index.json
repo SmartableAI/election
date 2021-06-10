@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-10-former-trump-aide-eyeing-new-hampshire-congressional-bid.md",
+      "title": "Former Trump aide eyeing New Hampshire congressional bid",
+      "excerpt": "A former Trump White House aide is mulling a congressional run in New Hampshire. Karoline Leavitt, who served as an assistant press secretary in the Trump administration and most recently worked as a top press staffer for Rep.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/557736-former-trump-aide-eyeing-new-hampshire-congressional-bid",
+      "originalUrl": "https://thehill.com/homenews/campaign/557736-former-trump-aide-eyeing-new-hampshire-congressional-bid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_103020getty_endorsements.jpeg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/557736-former-trump-aide-eyeing-new-hampshire-congressional-bid?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557736-former-trump-aide-eyeing-new-hampshire-congressional-bid?amp",
+      "publishedDateTime": "2021-06-10T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-polls-us-image-abroad-has-rebounded-since-biden-took-office.md",
+      "title": "Polls: US image abroad has rebounded since Biden took office",
+      "excerpt": "The United States’ image around the world has improved sharply since President Joe Biden took office The United States' image around the world has improved sharply since President Joe Biden took office,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_3091bf6a667b4bd684841cf02e7e4ce7_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
+      "publishedDateTime": "2021-06-10T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-state-bar-investigating-texas-attorney-general-ken-paxton-over-trump-election-lawsuit.md",
+      "title": "State bar investigating Texas Attorney General Ken Paxton over Trump election lawsuit",
+      "excerpt": "A Democratic Party activist complained that Ken Paxton's challenge to President Joe Biden's victory in four states was frivolous and unethical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/10/texas-bar-investigates-attorney-general-ken-paxton-over-election-suit/7633751002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/10/texas-bar-investigates-attorney-general-ken-paxton-over-election-suit/7633751002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/06/NAAS/a4019b43-5247-4de3-96bb-87bf22051b19-Electoral_College_Protests.jpg?auto=webp&crop=4847,2727,x0,y246&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7633751002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633751002",
+      "publishedDateTime": "2021-06-10T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-brexit-trouble-overshadows-biden-and-johnsons-first-meeting.md",
       "title": "Brexit trouble overshadows Biden and Johnson's first meeting",
       "excerpt": "Boris Johnson's star turn on the world stage has already been undermined by his previous greatest accomplishment: Brexit.\n    \n",
@@ -179,7 +335,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 182,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -390,58 +546,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-us-to-respond-in-robust-way-to-russian-malice-biden.md",
-      "title": "U.S. to respond in 'robust' way to Russian malice -Biden",
-      "excerpt": "U.S. President Joe Biden on Wednesday said the United States was not seeking conflict with Russia, but would respond in a \"robust and meaningful way\" if the Russian government engaged in harmful activities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/us-to-respond-in-robust-way-to-russian-m-id731198861?chan=6g5ka85",
-      "originalUrl": "https://www.reuters.com/video/watch/us-to-respond-in-robust-way-to-russian-m-id731198861?chan=6g5ka85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210609&i=OVEGOQL0F&r=OVEGOQL0F&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1052,7 +1156,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 208,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -1093,6 +1197,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-president-joe-biden-arrives-in-uk-on-first-overseas-trip-of-his-administration-will-visit-3-countries-over-8-days.md",
+      "title": "President Joe Biden arrives in UK on first overseas trip of his administration, will visit 3 countries over 8 days",
+      "excerpt": "President Joe Biden arrives in UK on first overseas trip of his administration, will visit 3 countries over 8 days",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599",
+      "publishedDateTime": "2021-06-09T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1165,7 +1321,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1206,162 +1362,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat.md",
-      "title": "Biden revokes Trump executive orders targeting TikTok and WeChat",
-      "excerpt": "President Biden has revoked former President Trump’s executive orders that sought to ban downloads of the Chinese-owned apps TikTok and WeChat in the U.S., according to a fact sheet released by the White House Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
-      "originalUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 300,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/tiktok_082619istock.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp",
-      "publishedDateTime": "2021-06-09T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-hud-to-reinstate-obama-era-fair-housing-rule-gutted-under-trump-minus-the-burdensome-reporting-requirement.md",
-      "title": "HUD to reinstate Obama-era fair housing rule gutted under Trump — minus the ‘burdensome’ reporting requirement",
-      "excerpt": "Biden's housing department is restoring the requirement that communities take steps to reduce racial segregation or risk losing federal funds. But missing from the requirement is the 2015 mandate that communities undergo an extensive analysis of local barriers to integration and submit plans to dismantle them to the Department of Housing and Urban Development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/",
-      "originalUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G7ZU6FWDNYI6XCNEW6XCFKQZHY.jpg&w=1440",
-          "width": 1440,
-          "height": 956,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/06/09/hud-biden-fair-housing-rule/?outputType=amp",
-      "publishedDateTime": "2021-06-09T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-2-years-ago-a-saudi-princess-was-kidnapped-and-jailed-without-charge-her-family-say-theyre-being-stonewalled-and-are-urging-biden-to-step.md",
-      "title": "2 years ago, a Saudi princess was kidnapped and jailed without charge. Her family say they're being stonewalled, and are urging Biden to step in.",
-      "excerpt": "Princess Basmah was kidnapped and imprisoned in February 2019. She tried begging her cousin, Crown Prince Mohammed, for mercy, but was ignored.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6",
-      "originalUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ece81c72618b912bb2b3373?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6?amp",
-      "publishedDateTime": "2021-06-09T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

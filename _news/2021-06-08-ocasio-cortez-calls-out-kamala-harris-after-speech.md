@@ -786,6 +786,15 @@ related:
       name: Politifact
       domain: politifact.com
     quality: 44
+  - title: "With immigration and voting rights, is Biden setting up Kamala Harris for failure in 2024?"
+    excerpt: "Vice President Kamala Harris is already the front-runner for the 2024 Democratic nomination, making everything she does fodder for political attacks."
+    publishedDateTime: 2021-06-10T12:00:00Z
+    webUrl: "https://www.freep.com/in-depth/opinion/contributors/2021/06/10/kamala-harris-2024-immigration-voting-rights-mexico-guatemala/7626933002/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 40
   - title: "Guatemala is Kamala Harris' first stop on her trip to talk migration. Why is that nation an important player?"
     excerpt: "Vice President Kamala Harris has worked closely with Guatemala and Mexico to address the root causes of migration."
     publishedDateTime: 2021-06-07T12:34:00Z

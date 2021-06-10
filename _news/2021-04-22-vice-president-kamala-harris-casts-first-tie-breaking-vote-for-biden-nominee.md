@@ -784,6 +784,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Colorado Republicans focus more criticisms on Kamala Harris than Joe Biden"
+    excerpt: "Colorado Republicans in Congress are increasingly focusing their ire at Vice President Kamala Harris rather than President Joe Biden, especially on social media. Experts say that’s unsurprising."
+    publishedDateTime: 2021-06-10T12:00:00Z
+    webUrl: "https://www.denverpost.com/2021/06/10/kamala-harris-colorado-gop-boebert/"
+    ampWebUrl: "https://www.denverpost.com/2021/06/10/kamala-harris-colorado-gop-boebert/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/06/10/kamala-harris-colorado-gop-boebert/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 88
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/06/Boebert-Harris.jpg?w=1024&h=542"
+        width: 1024
+        height: 542
+        isCached: true
   - title: "Kamala Harris, Nancy Pelosi will be historic duo at Biden's address to Congress"
     excerpt: "When Joe Biden delivers his first speech as president to Congress on Wednesday, history will be made behind him. For the first time during a joint address to Congress, the majority of politicians on the dais in the House of Representatives will be women,"
     publishedDateTime: 2021-04-28T11:18:00Z

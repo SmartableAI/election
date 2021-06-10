@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-bide
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
 type: article
 quality: 150
-heat: 1970
+heat: 1990
 published: true
 
 provider:
@@ -772,6 +772,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/85e/252/58f68e5d6c5d18cf0760247ddae88db4ca-kamala-harris-guatemala.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Colorado Republicans focus more criticisms on Kamala Harris than Joe Biden"
+    excerpt: "Colorado Republicans in Congress are increasingly focusing their ire at Vice President Kamala Harris rather than President Joe Biden, especially on social media. Experts say that’s unsurprising."
+    publishedDateTime: 2021-06-10T12:00:00Z
+    webUrl: "https://www.denverpost.com/2021/06/10/kamala-harris-colorado-gop-boebert/"
+    ampWebUrl: "https://www.denverpost.com/2021/06/10/kamala-harris-colorado-gop-boebert/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/06/10/kamala-harris-colorado-gop-boebert/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 88
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/06/Boebert-Harris.jpg?w=1024&h=542"
+        width: 1024
+        height: 542
         isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"

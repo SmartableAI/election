@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden moves closer to filling critical cyber roles as administration is tested by attacks"
+    excerpt: "Two of the senior officials expected to round out President Joe Biden's cyber team will face lawmakers on Thursday for their confirmation hearing as the administration grapples with how to deal with the growing number of foreign ransomware attacks against American companies and organizations.\n    \n"
+    publishedDateTime: 2021-06-10T13:06:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7g96jKD9zVw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/biden-administration-cyber-attacks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/biden-administration-cyber-attacks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610131048-chris-inglis-file-2013-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Biden Will Meet With Republicans’ Top Infrastructure Negotiator"
     excerpt: "Democrats are ready to move on President Biden’s $2 trillion infrastructure plan unless there is a major breakthrough this week. The two sides are over $1 trillion apart in how much they want to spend,"
     publishedDateTime: 2021-06-02T08:20:00Z

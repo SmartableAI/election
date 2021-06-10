@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-u
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson"
 type: article
 quality: 125
-heat: 165
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,36 @@ related:
       - url: "https://i.guim.co.uk/img/media/0a7222074fb55c4a71c11b92cd656fab2b73fda8/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b6696de207fa392fc74da274615771a9"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden not looking to lecture Johnson on N.Ireland, official says"
+    excerpt: "U.S. President Joe Biden has not come to Britain to lecture Prime Minister Boris Johnson about Northern Ireland and is not looking to be confrontational or adversarial, a senior U.S. administration official said on Thursday."
+    publishedDateTime: 2021-06-10T12:17:00Z
+    webUrl: "https://www.reuters.com/world/uk/biden-not-looking-lecture-johnson-nireland-official-says-2021-06-10/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/xWtYx2lx9WkthIBd8z1gbxwDFhE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WOAYAAXDRNOBXIVPSY6FBFKAQU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Joe Biden, Boris Johnson to solidify alliance with renewed Atlantic Charter"
+    excerpt: "President Joe Biden will spend the opening leg of his first overseas trip as president meeting with British Prime Minister Boris Johnson Thursday on a host of issues, along with signing the Atlantic Charter."
+    publishedDateTime: 2021-06-10T13:55:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/06/10/Joe-Biden-Boris-Johnson-Atlantic-Charter/6561623330424/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/06/10/Joe-Biden-Boris-Johnson-Atlantic-Charter/6561623330424/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/06/10/Joe-Biden-Boris-Johnson-Atlantic-Charter/6561623330424/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/6561623330424/2021/1/20247bdb571662d5db68393fab9fd5bf/v1.5/Joe-Biden-Boris-Johnson-to-solidify-alliance-with-renewed-Atlantic-Charter.jpg"
+        width: 800
+        height: 535
         isCached: true
 
 secured: "ajN3eyXG8Nf/os8dC30CtJkzTHyl//bE3xm9HssxEDhBdtmpTocMwCZoCed7I6fcavc7ZinzKYkUQjI73AoKUYjpgVh79a9OAEhyKQY4gUhw5Zwwl8oKuAL5V4IHeyGPMG144GnQKfKlQaMJetoyIuYocFSY7qZRsVqJhT73t2MTw+Lt5uPa60S7p5oJ607KtRHclrfy+hfQ2TpaawCWNJ0vTYfJW21lqwdDN60ZpgpT0XlH0zkpt7hPhnIpdUebcGZR0BCdKDTObvKcEM1vyN5jYKvzUoSgs/DTG8xxYZqfzUsBPuj/1Mz3Ro9uv9ZiACM6GvI+eA1n2k9DYUamoBUOqrND4bGEzUn4c7te0VKkOMap/eXkCIUCjDs2tSf3Yr02nGNRwu6FaYxmE9veDruBNhvZ8FHEEc4fp+mqGScJVUsbsqDsq12QIC+iuSvJHmECBBwOUjHrjiStpkwR59Nj0XgWlTsWiqzFCCXrqyCgYx41+f85Q4OQncfCrjhjxiO7G/Q1ZpUYCcC5p+H58A==;VKOd7Ma+DOEVjbsMITbscQ=="

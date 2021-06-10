@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-10-polls-us-image-abroad-has-rebounded-since-biden-took-office.md",
+      "title": "Polls: US image abroad has rebounded since Biden took office",
+      "excerpt": "The United States’ image around the world has improved sharply since President Joe Biden took office The United States' image around the world has improved sharply since President Joe Biden took office,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_3091bf6a667b4bd684841cf02e7e4ce7_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103",
+      "publishedDateTime": "2021-06-10T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-biden-asking-for-911-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold.md",
       "title": "Biden asking for ‘9/11 style attack’ by not responding ‘forcefully’ to Russian cyberattacks: Kirk Lippold",
       "excerpt": "Former USS Cole Commander Kirk Lippold told \"Your World\" Joe Biden will embolden Vladimir Putin if he does not \"clearly\" respond to the Russian government for \"state-sponsored\" cyberattacks on American businesses.",
@@ -59,58 +111,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-10-us-to-respond-in-robust-way-to-russian-malice-biden.md",
-      "title": "U.S. to respond in 'robust' way to Russian malice -Biden",
-      "excerpt": "U.S. President Joe Biden on Wednesday said the United States was not seeking conflict with Russia, but would respond in a \"robust and meaningful way\" if the Russian government engaged in harmful activities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/us-to-respond-in-robust-way-to-russian-m-id731198861?chan=6g5ka85",
-      "originalUrl": "https://www.reuters.com/video/watch/us-to-respond-in-robust-way-to-russian-m-id731198861?chan=6g5ka85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210609&i=OVEGOQL0F&r=OVEGOQL0F&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-06-10-biden-declares-the-us-is-back-and-urges-democracies-to-stand-together.md",
       "title": "Biden declares the ‘US is back’ and urges democracies to stand together",
       "excerpt": "US president rings changes since Trump but has a serious message on Northern Ireland peace process",
@@ -143,6 +143,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-president-joe-biden-arrives-in-uk-on-first-overseas-trip-of-his-administration-will-visit-3-countries-over-8-days.md",
+      "title": "President Joe Biden arrives in UK on first overseas trip of his administration, will visit 3 countries over 8 days",
+      "excerpt": "President Joe Biden arrives in UK on first overseas trip of his administration, will visit 3 countries over 8 days",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599",
+      "publishedDateTime": "2021-06-09T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -493,7 +545,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -594,49 +646,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-04-biden-administration-to-increase-pay-for-airport-screeners.md",
-      "title": "Biden administration to increase pay for airport screeners",
-      "excerpt": "The Biden administration says it is moving to increase the pay and union rights for security screeners at the nation’s airports",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-administration-increase-pay-airport-screeners-78073415",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-administration-increase-pay-airport-screeners-78073415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-06-03-biden-provides-details-on-plan-to-share-80m-covid-vaccine-doses-live.md",
       "title": "Biden provides details on plan to share 80m Covid vaccine doses – live",
       "excerpt": "President offers details, explaining how the first 25m doses will be disbursed, and says ‘We are sharing these vaccines to save lives’ – follow the latest",
@@ -645,7 +654,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 545,
       "tags": null,
       "images": [
         {
