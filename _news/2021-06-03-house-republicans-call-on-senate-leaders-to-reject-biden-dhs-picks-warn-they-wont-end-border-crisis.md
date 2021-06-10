@@ -45,6 +45,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden, Johnson to stress close ties, manage differences"
+    excerpt: "Their nations may have a famed \"special relationship,\" but President Joe Biden and British Prime Minister Boris Johnson will meet for the first time Thursday against a backdrop of differences both political and personal."
+    publishedDateTime: 2021-06-10T06:19:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6SMN7dO3qs/biden-johnson-to-stress-close-ties-manage-differences"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-johnson-to-stress-close-ties-manage-differences.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-johnson-to-stress-close-ties-manage-differences.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce1dc15d-0298-447c-b3ca-3dfa1fe9e0a2/deb10291-05b0-4f81-92cb-5b10022f496c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "First Lady tells Biden to 'pay attention' during her speech in UK"
     excerpt: "First Lady Jill Biden prodded President Biden to focus on her speech during a lighthearted moment at an event marking the start of the first overseas trip of his presidency on Wednesday."
     publishedDateTime: 2021-06-10T00:54:37Z

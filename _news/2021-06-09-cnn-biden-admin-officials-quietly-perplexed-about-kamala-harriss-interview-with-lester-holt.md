@@ -3,8 +3,8 @@ category: news
 title: "CNN: Biden Admin Officials \"Quietly Perplexed\" About Kamala Harris's Interview With Lester Holt"
 excerpt: "Vice President Kamala Harris back in the United States this morning after a trip to Guatemala and Mexico, her first foreign trip as vice president. This morning, we're told, that some of what she said on the trip,"
 publishedDateTime: 2021-06-09T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
 type: article
@@ -488,6 +488,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "At home and abroad, the Biden agenda suddenly seems stalled"
+    excerpt: "Momentum is a funny thing in politics, gathering enough force to provide an intangible boost and then, just as suddenly, vanishing into the ether. Joe Biden had it for the first few months, but now it’s abruptly eroding,"
+    publishedDateTime: 2021-06-10T07:08:00Z
+    webUrl: "https://www.foxnews.com/media/at-home-and-abroad-the-biden-agenda-suddenly-seems-stalled"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Departs-G7.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Bret Baier: Kamala Harris’ border message is difference between campaigning and governing"
     excerpt: "Fox News chief political anchor Bret Baier joined \"America Reports\" Tuesday to discuss Vice President Kamala Harris seemingly laughing off questions about visiting the US-Mexico border to witness the migrant crisis firsthand."
     publishedDateTime: 2021-06-08T21:07:00Z
@@ -567,6 +581,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "LVi68RzOkFlZPr9y2qO3YGP0hWYfbm2d9w/4NAssGrctnlCTLdIbSSHqN7crFpqVxmYVNkSJn72Pz+LEMfcC6LRnlUHrqq7PBWwx9nHW8p3s/AiDPnbf4f8+iP9JPTMVUIr9ST/ibR3vr1dxR+uZnV3LpVZp3qrdsPfS4P6whAUy+rple5wSOLmxR3W/Pu4pO/ELdE8aLZRhgaxOszQiur1BBbv59L+jPAboqbG8OyCpx8EMKvhUMgxQ9yKkFMScIeCg4K6PIO6XCbtxaqaPuiDd08FEdpjPqZFZgdjf6CoUo1Az18F74bcoJ/wrOyZE86ywn4ufdyp7zKL9cCHvckXMN1s3MD5vytJsKMK+/4GhCxqeuSQbNbtv+Ml5coel6r5cPhm2HLd6Rsx0Iqo/wfZZgUHYFeNtYUL/OjlSvXyIUheJsYkrxryV2DcODBbyMXncxu9kGaxU9yhRq0eT0g9GQ5pzjkzVvcZquSFss3huk2FZre/x6J8+nIQ/seMNwWeGVctuIw+rhHB0Ihoy1g==;B3Foa+kU5m7CdcOA3yALxA=="
+secured: "VjqOrmePDbTHkQfUZ9GHFnDi41NnMsy7S+kKoGOkcz4DyhwOohXNkeuj3lwkZ+w6zlb+n3e2UKLw0DYFpmB//2pliB+NRA6jY7OuEvEuTRqs3j9ZoLTq5aXo7n3ScOIZw+0NPVNFJefj9mkmYf7tAU9Kig+x4JQy0hzyhtJvdxHv+LSRfHax37CZEhSGds16dBLHPIaK0MpsCV+YuJQaQiWuAGdN2J0GfTvJkTgCUkA0o7fQuJ9GqE1cc4a+Ywd4YFIzsb+KR3rX0wL59gM/Px2mBShLqCnz3LTX49wblSchR/GV2TsoGFMIJ0KEnd6Lnl6ug55sufuoHoaVMf+mIH+7HBHfcnS7qNQGVg7DdK0=;T0cSbWeYrGoxAn1cs0cAdA=="
 ---
 

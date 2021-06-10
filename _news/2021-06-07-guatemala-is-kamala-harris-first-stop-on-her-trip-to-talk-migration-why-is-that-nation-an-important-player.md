@@ -494,7 +494,7 @@ related:
   - title: "Kamala Harris has awkward interview with NBC's Lester Holt"
     excerpt: "During her trip to Guatemala this week, Vice President Kamala Harris did a sit-down interview with NBC's Lester Holt, who pressed Harris on the ongoing crisis at the southern U.S. border. Harris, who is visiting Guatemala to work on solutions for the \"root causes\" of migration,"
     publishedDateTime: 2021-06-09T17:29:00Z
-    webUrl: "https://www.chron.com/lavoz/politics/article/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
+    webUrl: "https://www.chron.com/politics/article/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
     ampWebUrl: "https://www.chron.com/politics/amp/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
     type: article

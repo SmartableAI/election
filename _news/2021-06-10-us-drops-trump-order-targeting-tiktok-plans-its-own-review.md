@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Biden's Justice Department follows Trump's lead in E. Jean Carroll defamation lawsuit"
-excerpt: "The Justice Department is continuing to try to substitute for former President Trump in a defamation lawsuit brought by former Elle columnist E. Jean Carroll."
-publishedDateTime: 2021-06-09T00:21:00Z
-originalUrl: "https://abcnews.go.com/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
-webUrl: "https://abcnews.go.com/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
+title: "US Drops Trump Order Targeting TikTok, Plans Its Own Review"
+excerpt: "The White House has dropped Trump-era executive orders that attempted to ban the popular apps TikTok and WeChat and will conduct its own review aimed at identifying national security risks with software applications tied to China."
+publishedDateTime: 2021-06-09T21:43:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2021-06-09/white-house-drops-trump-orders-trying-to-ban-tiktok-wechat"
+webUrl: "https://www.usnews.com/news/business/articles/2021-06-09/white-house-drops-trump-orders-trying-to-ban-tiktok-wechat"
+ampWebUrl: "https://www.usnews.com/news/business/articles/2021-06-09/white-house-drops-trump-orders-trying-to-ban-tiktok-wechat?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-06-09/white-house-drops-trump-orders-trying-to-ban-tiktok-wechat?context=amp"
 type: article
-quality: 133
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/US/trump-carroll-splt-rt-gty-ps-210608_1623166131564_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden revokes Trump executive orders targeting TikTok and WeChat"
@@ -62,6 +56,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/c3f3c0ebeedaa6fbd5c6909284d8f7d75bf18550/0_0_7281_4367/master/7281.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2336e5e9d2cacfcbfe978671ecb260b9"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden's Justice Department follows Trump's lead in E. Jean Carroll defamation lawsuit"
+    excerpt: "The Justice Department is continuing to try to substitute for former President Trump in a defamation lawsuit brought by former Elle columnist E. Jean Carroll."
+    publishedDateTime: 2021-06-09T00:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-justice-department-trumps-lead-jean-carroll-defamation/story?id=78148523"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/US/trump-carroll-splt-rt-gty-ps-210608_1623166131564_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "US drops Trump order targeting TikTok, plans its own review"
     excerpt: "The White House dropped Trump-era executive orders that attempted to ban the popular apps TikTok and WeChat and will conduct its own review aimed at identifying national security risks with software a"
@@ -134,18 +144,7 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "US Drops Trump Order Targeting TikTok, Plans Its Own Review"
-    excerpt: "The White House has dropped Trump-era executive orders that attempted to ban the popular apps TikTok and WeChat and will conduct its own review aimed at identifying national security risks with software applications tied to China."
-    publishedDateTime: 2021-06-09T21:43:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-06-09/white-house-drops-trump-orders-trying-to-ban-tiktok-wechat"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-06-09/white-house-drops-trump-orders-trying-to-ban-tiktok-wechat?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-06-09/white-house-drops-trump-orders-trying-to-ban-tiktok-wechat?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
-secured: "AY75wvnVWnW18zi45Kfy/s/Q39b65Z3T0W1EBzdSFwDgarATvh6MGKmUe9jynji0apbOjjbrlNF/SV2jNC53M+9x/3WzF8dH7izdnHr931nF7v6v36vV8APe4y37oCi9ZbUPL9mGgsZWuSwMuW3i6BcF9c2ZUT+iFaF1LRvdGkBPhB+dpWFfaJ0DQRUSN78A4bZz4tSvYtvRuC4Bufo+3BKRiElU/i5ARvfskAXHfrox9pDiUHXxBwFLUs6dNA9SlvlebQ58Nb1FMoZFG4Tl+E+ruq8WHL4VW2Kr45eWTfDT6Qv6I6xSuFD5YSOzxqoKtcxxFmrOXIyN6ueMo8+ylOFvaDuIcSnGliMLyWczP2GBcQT6EkR9LSEqEpmo/I2kYlF6zWvcHZwtNX4wzA6/wDQKNMrTla5GTjb1yBHviUDsQ8Stsr6WkBJTKDLni/Sp++n3kbazkDWvlLgiSZYkCwr4e/ewGi8Pi97lxhjaJNgG0lJxcMaksTg8vpgHjVlHhPuvv7WWvn/JW/E7ptAvZw==;L8kK7Wq3LNMz+3xReRZKQA=="
+secured: "QhsDtTjiUkvKyHGQbaZRMmEuYJMBjPFDKEZEtXPte1MnQ+A8zLvm7/yyC1fqt03u8oAxAKGJgoKhogP27j8iKlLKWgtH47H7a6HoX/S0jQkfIaGay91660VpYQrP498qRF4F7u/lir7CMkXS3vQCLnz4m2wm/MR6atvgXLMIiJ61ebhjU6pUd0vASz0nU5sZyeTndLrlt84PEfQRYgsRCui9oyfBhL18w+X8YY+lQ+fNZY6VKwgc2M05qxYvTlmEoXKmxHIM4Ev2MVpqc2DdWvN70lzBEWn87YM2WeNJC+D1DPTPNwj2Nbr7C++jvcrCiFw1829AUKYu4WSctA2fulxTjZza8NGQAHFrZ225y+KblA0SrZCoDjcyQWUih97UN0W6b8ajen97mVTcU/nWDMGGN8txMtDLGLlNDDjxttaBIYSOD+bT0m2SgdE38lube2rz1NXLaDepleN4mKQoxu5jfP7RdJn/NHZVK9KYFdKBJwxOzK9XyNGfo34of7vdJjuzZiqFFU86LEpOCoeCFQ==;/TD+Y9Ltbx/IDiKOX1mohQ=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris has awkward interview with NBC's Lester Holt"
 excerpt: "During her trip to Guatemala this week, Vice President Kamala Harris did a sit-down interview with NBC's Lester Holt, who pressed Harris on the ongoing crisis at the southern U.S. border. Harris, who is visiting Guatemala to work on solutions for the \"root causes\" of migration,"
 publishedDateTime: 2021-06-09T17:29:00Z
-originalUrl: "https://www.chron.com/lavoz/politics/article/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
-webUrl: "https://www.chron.com/lavoz/politics/article/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
+originalUrl: "https://www.chron.com/politics/article/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
+webUrl: "https://www.chron.com/politics/article/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
 ampWebUrl: "https://www.chron.com/politics/amp/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Kamala-Harris-border-Lester-Holt-Guatemala-Biden-16235436.php"
 type: article
@@ -796,6 +796,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "IJYrtf2dt9u3APL4wcBWLaU70EoPcZFtPwoZT9OJcKT9ecJbAOTttTbmgfHtyRW5DUOFh1CmDrWzorn+Qkj6dW5BK+/Igl4EGLSFfUEJhfSc2VLfVaRSN1NnhP9TufajgOqIzfuEtVQZdZ0YtmvsBMUyjhc5tOc0rDWjWSiCnUcmL+xAFVqvFk0fQ2gnks6lBxIB0Y7r+e7d0/RFtH2MCKp4LvhP6y140HqnSq9gAJkx6JHvXXePhIc4LrspCyeAvtbvqb5MYkYmMFEnR0m0vq+XzneoIXxqmrFiZLseBR6BY7vvciWLRv7p6GPxT6j/bwW4dHKq5EdbV94uCDt6KFP2j5aLyyujQrCPJbxbyX8TmgCCp1JalX0V9eW1rEiXjXzX22lWoQsa8wgQbj7VTRIPd+g/qhn7hBvVT82zNnARmjGYTsE0y0QL1vkEuHTw+62kOdufpgs+Y04JTcJ3C6lnV3RtKyL5z7lzmRb131cQt0ypSUDj8wqUqyuaUhjiZg7aegoJyF2rG73x474ecA==;D2M8w03qFzerbjjge7Cr+g=="
+secured: "5Td6fUUdb0MDGQmJfuGWtnv53csPaAMxx2m9Ef8AzK1mGP0C6wDGqOK8eTdTixc4rfrjLeLRTkpFZCHEcsSe+f3nRrD7VUT8zQunD8dpLG8ly+XoPX08XVKZE/pWa6l2hySeJArBaYC/HYIHBGpT38HkGSYlwaZJDvzCTUl8nIe6sX2nl6txfRhPbDsMov47sdh8/E/4put1zJ+vryCfygiTCsAYWpy7wj0b1/Y+mDhzAV3DfcMhuXuNSDPV4WLF/0Ti42zhfnAoUNkgAS8F1caAXDPNkOkbnnLGh98GORG9+LF6F1IIRjQY7UEoMnjfrB24A6Og59fBxiVXJLnnZYH8HEep4BweO1SPvN+CNuA=;HOWofpl5Ce+qWMBhEVO9cg=="
 ---
 

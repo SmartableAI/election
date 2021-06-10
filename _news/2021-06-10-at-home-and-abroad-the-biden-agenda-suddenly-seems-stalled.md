@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Kamala Harris pays tribute to vets after taking heat for earlier Memorial Day tweet"
-excerpt: "Vice President Harris paid tribute to fallen service members on Sunday after taking heat for a Memorial Day weekend message that neglected to mention veterans."
-publishedDateTime: 2021-05-30T12:41:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
-ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
+title: "At home and abroad, the Biden agenda suddenly seems stalled"
+excerpt: "Momentum is a funny thing in politics, gathering enough force to provide an intangible boost and then, just as suddenly, vanishing into the ether. Joe Biden had it for the first few months, but now it’s abruptly eroding,"
+publishedDateTime: 2021-06-10T07:08:00Z
+originalUrl: "https://www.foxnews.com/media/at-home-and-abroad-the-biden-agenda-suddenly-seems-stalled"
+webUrl: "https://www.foxnews.com/media/at-home-and-abroad-the-biden-agenda-suddenly-seems-stalled"
 type: article
-quality: 179
+quality: 115
 heat: -1
 published: false
 
@@ -22,13 +20,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
-  - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7a6ae93-cc8d-425b-bb14-6992656b9efe/6e55c3de-c62b-4139-85ef-d8928b4f753a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Departs-G7.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -175,6 +173,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Kamala Harris pays tribute to vets after taking heat for earlier Memorial Day tweet"
+    excerpt: "Vice President Harris paid tribute to fallen service members on Sunday after taking heat for a Memorial Day weekend message that neglected to mention veterans."
+    publishedDateTime: 2021-05-30T12:41:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7a6ae93-cc8d-425b-bb14-6992656b9efe/6e55c3de-c62b-4139-85ef-d8928b4f753a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Twitter mocks Kamala Harris for passing out cookies of her faceless head to reporters"
     excerpt: "The vice president traveled to the Central American country on Monday to meet with the Guatemalan President Alejandro Giammattei in her first trip after being appointed by President Biden to lead diplomatic efforts in the region amid the border crisis."
@@ -476,20 +490,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "At home and abroad, the Biden agenda suddenly seems stalled"
-    excerpt: "Momentum is a funny thing in politics, gathering enough force to provide an intangible boost and then, just as suddenly, vanishing into the ether. Joe Biden had it for the first few months, but now it’s abruptly eroding,"
-    publishedDateTime: 2021-06-10T07:08:00Z
-    webUrl: "https://www.foxnews.com/media/at-home-and-abroad-the-biden-agenda-suddenly-seems-stalled"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Departs-G7.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Bret Baier: Kamala Harris’ border message is difference between campaigning and governing"
     excerpt: "Fox News chief political anchor Bret Baier joined \"America Reports\" Tuesday to discuss Vice President Kamala Harris seemingly laughing off questions about visiting the US-Mexico border to witness the migrant crisis firsthand."
     publishedDateTime: 2021-06-08T21:07:00Z
@@ -585,6 +585,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "3MHnXducuYJyEp/Ky5/v78njyMmu92fRz1IXAsm9wUJiKPzTs6PKg8C2L8MHo1lvREqYeWeoQCtJCJc5O3l02O4ljwsMUpYVlbwYoW50sjfgues5VOnpJEv9lR3hMwxkMsJa8fspIC/j8OW7fmcb5xVDsyhBv0xUNZ7KVTLmieAr/VMXI8bwiEQbgnjOrrx0jZni01HXljXAwQjPyvfJLpwOnXREJIG5hxj+FUyVUf0rN1N5SV8r1FMxPDyWDYUeKjV0qZ1neGn/QI6xYsQzbzNpXpqOckpArduH4tielc8hWOxJ/k7uMMZOJG26PD/aRdHE4WfXp1PsrSQuEbliwlnzrirBrv1r4QkJbGZ5HSU=;9B/U8f2dxt/Nnck2nA55aw=="
+secured: "ucrVwUsEAgVSC6K8t8SUSsm+RW3LCdRmzw5RQUKoRUh8bLEa0Ygjv7eAljpgecNXtlQRT3Velp1vLfoGMeHHhZ0tthBHdWYZAevTnY/fJS4LBNWjCeDInGnysg4QDwbU8I1e6HNaXtSSaCbICqJp3GFx1M46jhT8y20AVAzOLobMF3f1XKwr6najrqu6xahpJ3d54Nleazzm6M8skmhmXedsTW/S/GNoplZdY5rJTX5XfsDSMsNkP4ZkII97Zr3z+dec8TWU1ojhd3Ybs7WyVr7G863lJH2TsaLKop4mmiMlvtL0ladJKjWvcunhj4GmWiE3KJViY3jF2mtT0yGADs7kSNMrGqyQyHCsZ0iTp+g=;trXNSutIccGvrMqSv5YK8Q=="
 ---
 

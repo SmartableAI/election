@@ -488,6 +488,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "At home and abroad, the Biden agenda suddenly seems stalled"
+    excerpt: "Momentum is a funny thing in politics, gathering enough force to provide an intangible boost and then, just as suddenly, vanishing into the ether. Joe Biden had it for the first few months, but now it’s abruptly eroding,"
+    publishedDateTime: 2021-06-10T07:08:00Z
+    webUrl: "https://www.foxnews.com/media/at-home-and-abroad-the-biden-agenda-suddenly-seems-stalled"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Departs-G7.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Bret Baier: Kamala Harris’ border message is difference between campaigning and governing"
     excerpt: "Fox News chief political anchor Bret Baier joined \"America Reports\" Tuesday to discuss Vice President Kamala Harris seemingly laughing off questions about visiting the US-Mexico border to witness the migrant crisis firsthand."
     publishedDateTime: 2021-06-08T21:07:00Z
@@ -505,7 +519,7 @@ related:
   - title: "CNN: Biden Admin Officials \"Quietly Perplexed\" About Kamala Harris's Interview With Lester Holt"
     excerpt: "Vice President Kamala Harris back in the United States this morning after a trip to Guatemala and Mexico, her first foreign trip as vice president. This morning, we're told, that some of what she said on the trip,"
     publishedDateTime: 2021-06-09T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.html#!"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/cnn_biden_admin_officials_quietly_perplexed_about_kamala_harriss_interview_with_lester_holt.amp.html"
     type: article

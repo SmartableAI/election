@@ -134,6 +134,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "US Drops Trump Order Targeting TikTok, Plans Its Own Review"
+    excerpt: "The White House has dropped Trump-era executive orders that attempted to ban the popular apps TikTok and WeChat and will conduct its own review aimed at identifying national security risks with software applications tied to China."
+    publishedDateTime: 2021-06-09T21:43:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-06-09/white-house-drops-trump-orders-trying-to-ban-tiktok-wechat"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-06-09/white-house-drops-trump-orders-trying-to-ban-tiktok-wechat?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-06-09/white-house-drops-trump-orders-trying-to-ban-tiktok-wechat?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "OJoCzxbCCYbVRr4hAEz0YE3Ff9EEZ7zvGeVYIIGkoJfJYLAVeg2W5rZQBl1S9qIyhNPwx8uLOkOiWbY7vJgwpQl/PwGTQnOGNyjwwgWcu4EJNhzgJM8fYAjHN2IzKg4pwf77vAgNw6oSy+UJVjK+GSitRVn3MY7SwK0tecQRLQBFqKlSF1Rje9Q3ZFZoV0eEy9Qd2G6SGj0oR4Rb+VNYpx3+e4n85QBWLuye2cbR2DyZDe4eRvnC+64BubSYYzpxu7j3m8egWmttML2Ni06+3I+YLBe2btGEWul7ahvPpNKisL+ACzm1gDNkT+Sunfg6Na346ioZPkfKEGEl8p4O1ggkIt7Xf78EEhQ30gyezDE=;EuwY4VluT5aP6CATtMiTlw=="
 ---

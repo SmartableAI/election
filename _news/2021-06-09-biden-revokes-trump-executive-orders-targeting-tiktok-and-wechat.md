@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/technology/557523-biden-revokes-trump-exe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp"
 type: article
 quality: 140
-heat: 280
+heat: 300
 published: true
 
 provider:
@@ -134,6 +134,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "US Drops Trump Order Targeting TikTok, Plans Its Own Review"
+    excerpt: "The White House has dropped Trump-era executive orders that attempted to ban the popular apps TikTok and WeChat and will conduct its own review aimed at identifying national security risks with software applications tied to China."
+    publishedDateTime: 2021-06-09T21:43:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-06-09/white-house-drops-trump-orders-trying-to-ban-tiktok-wechat"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-06-09/white-house-drops-trump-orders-trying-to-ban-tiktok-wechat?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-06-09/white-house-drops-trump-orders-trying-to-ban-tiktok-wechat?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "jurMR3UDWRELFG/z0gvzSQBvW+1r12fBP1l+jA6WjHCF6BCvxssmSySuwWBw60QZajxwhQbmGXyHUfPxx10c1JY4zD7UZfUDm++4lNvlvSe6YMGMAKvhcD7dECEMifatNYYu9lem/49eGIhEdEdimKKiOWXEIn67gQFmHx7MfXHP+33rE+J14LuO708RJyTLHUfIXqiPTKotoDFR7ZAjKqTqPJZ8+UitPp43hbsiW04PN1VI+TKbtoo8SDDhUu4IdpZhAd4ZgjMIX2DV3s12LU/i9AvwZxmYFyK2+zNXT96hb2QxbLWy4ailBfRSazgNqTOugSEzHszrXn8hgi999MO11y2ItcvjghJwR27f9ew=;ChAtkvkJeeKd2hDXXxtTQg=="
 ---
