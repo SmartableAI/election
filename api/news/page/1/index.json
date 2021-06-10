@@ -2,6 +2,175 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-10-biden-johnson-sign-revitalized-atlantic-charter-reaffirming-commitment-to-global-challenges.md",
+      "title": "Biden, Johnson sign 'revitalized' Atlantic Charter, reaffirming commitment to global challenges",
+      "excerpt": "President Biden and British Prime Minister Boris Johnson on Thursday signed a \"revitalized\" Atlantic Charter reaffirming their commitment to work together to counter the efforts of those who seek to undermine democratic alliances and institutions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TaJyIFTn7Fg/biden-johnson-sign-revitalized-atlantic-charter",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TaJyIFTn7Fg/biden-johnson-sign-revitalized-atlantic-charter",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-johnson-sign-revitalized-atlantic-charter.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-johnson-sign-revitalized-atlantic-charter.amp",
+      "publishedDateTime": "2021-06-10T10:23:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-pence-eyes-his-political-future-as-he-tries-to-make-peace-with-trump.md",
+      "title": "Pence eyes his political future as he tries to make peace with Trump ",
+      "excerpt": "Six months after their relationship deteriorated in the midst of an insurrection at the US Capitol, Donald Trump and Mike Pence appear to be on the mend.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 420,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604131734-02-pence-nh-speech-0603-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
+      "publishedDateTime": "2021-06-10T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-us-hopes-to-agree-that-ambassadors-can-return-to-moscow-and-washington-at-biden-putin-summit.md",
+      "title": "US hopes to agree that ambassadors can return to Moscow and Washington at Biden-Putin summit",
+      "excerpt": "President Joe Biden plans to address the strained US-Russia diplomatic relationship when he meets President Vladimir Putin next week with the hope that the two leaders can agree to send their ambassadors back to Washington and Moscow after months with no senior diplomat being present in either country,",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/93JMV3PyLLM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/93JMV3PyLLM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/politics/biden-putin-ambassadors/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/biden-putin-ambassadors/index.html",
+      "publishedDateTime": "2021-06-10T09:02:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-arizonas-pro-trump-vote-audit-is-prompting-calls-for-and-against-federal-intervention-as-threats-of-violence-and-political-fallout-loom.md",
       "title": "Arizona's pro-Trump vote audit is prompting calls for — and against — federal intervention as threats of violence and political fallout loom",
       "excerpt": "Election-security experts are calling for DOJ to intervene in the Arizona 2020 vote audit. But there are concerns federal involvement could backfire.",
@@ -479,63 +648,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-10-army-corps-of-engineers-race-to-fix-massive-gaps-in-border-levees-left-by-trump.md",
-      "title": "Army Corps of Engineers race to fix massive gaps in border levees left by Trump",
-      "excerpt": "The U.S. Army Corps of Engineers are racing to fix massive gaps created while building Trump’s border wall. Residents in the Rio Grande Valley are vulnerable to dangerous flooding until they are fixed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/biden-administration-fixing-holes-left-by-trump-in-border-levees-114575429651?playlist=mmlsnnd_bestofnbc-nnd",
-      "originalUrl": "https://www.nbcnews.com/now/video/biden-administration-fixing-holes-left-by-trump-in-border-levees-114575429651?playlist=mmlsnnd_bestofnbc-nnd",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623290231331_ott_now_border_leves_210609_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo114575429651",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114575429651",
-      "publishedDateTime": "2021-06-09T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-10-california-latino-caucus-rebukes-harris-for-do-not-come-immigration-warning.md",
       "title": "California Latino Caucus rebukes Harris for 'do not come' immigration warning",
       "excerpt": "California Latino lawmakers issued a statement Wednesday rebuking Vice President Kamala Harris’ controversial comments in El Salvador this week when she told “folks” from the northern triangle states \"Do not come.\"",
@@ -822,15 +934,15 @@
       "title": "For Benjamin Netanyahu, like Donald Trump, only ‘fraud’ can explain his defeat",
       "excerpt": "Israel’s democratic transition is set for Sunday, but nothing is certain amid the prime minister’s scorched-earth campaign to wreck his opponents’ coalition.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailypress.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html",
-      "originalUrl": "https://www.dailypress.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html",
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 121,
       "tags": null,
       "images": [
         {
-          "url": "https://www.dailypress.com/resizer/9SNOAbQpI_SiJRZdfcRrhbzxgAQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SYSU6WAOK5ND54WSVDRK3ZQX6U.jpg",
+          "url": "https://www.chicagotribune.com/resizer/9SNOAbQpI_SiJRZdfcRrhbzxgAQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SYSU6WAOK5ND54WSVDRK3ZQX6U.jpg",
           "width": 1200,
           "height": 835,
           "title": null,
@@ -840,14 +952,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailypress.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html?outputType=amp",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html?outputType=amp",
       "publishedDateTime": "2021-06-09T15:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Press",
-        "domain": "dailypress.com",
-        "images": null,
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1037,7 +1158,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 588,
+      "heat": 568,
       "tags": null,
       "images": [
         {
@@ -1242,118 +1363,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-waiving-nord-stream-2-pipeline-sanctions-puts-us-at-competitive-disadvantage-gop-leader-mccarthy.md",
-      "title": "Biden waiving Nord Stream 2 pipeline sanctions puts US at 'competitive disadvantage': GOP leader McCarthy",
-      "excerpt": "House Minority Leader Kevin McCarthy, R-Calif., ripped President Biden’s decision to waive sanctions on the Russia-backed Nord Stream 2 pipeline, arguing the move would hurt the U.S. economy and geopolitical interests.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uei185eeHYA/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uei185eeHYA/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9effcbb3-b713-47d7-bef3-5aa43c57b4d4/9fa727a2-00b4-4232-a155-442dc4e5f534/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy.amp",
-      "publishedDateTime": "2021-06-09T13:14:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-watchdog-report-finds-park-police-did-not-clear-racial-injustice-protesters-from-lafayette-park-for-trumps-visit-to-st-johns-church-last-june.md",
-      "title": "Watchdog report finds Park Police did not clear racial injustice protesters from Lafayette Park for Trump's visit to St. John's Church last June",
-      "excerpt": "The US Park Police did not clear racial injustice protesters from Lafayette Park to allow for then-President Donald Trump's march to St. John's Church last June, but instead did so to allow a contractor to install a fence safely around the White House, according to a new inspector general report.\n  ",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fFWZCZU4lq8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fFWZCZU4lq8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200603172424-trump-group-walking-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/park-police-lafayette-square-protesters-donald-trump-bible/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/park-police-lafayette-square-protesters-donald-trump-bible/index.html",
-      "publishedDateTime": "2021-06-09T12:49:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

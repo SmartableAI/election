@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-vio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
 type: article
 quality: 168
-heat: 228
+heat: 248
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_13/3462135/210404-stanfordncaatitle-kf-1025p_3ed72c869bb4625859403f739b77ead5.jpg"
         width: 1929
         height: 2894
+        isCached: true
+  - title: "Justice Thomas grumbles over Trump's social media ban"
+    excerpt: "The decision by social media giants Twitter and Facebook to ban former President Donald Trump from their platforms appears to have drawn the ire of one of America’s most prominent jurists: Justice Clarence Thomas. As the Supreme Court issued an order ..."
+    publishedDateTime: 2021-04-05T14:58:00Z
+    webUrl: "https://www.politico.com/news/2021/04/05/justice-clarence-thomas-trump-twitter-ban-479046"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/5f/ed/e10ea6c847c28b17c494f425ea8f/210405-thomas-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "NFK+CvEZwF0VxdVB3cUt2mYNvBZpFtTla9Kh/AC21tP765FBgdP8hPH3TCFqiMEfPAJcNC+7UzSV3Xui++tvzDrW+zJnJwjDucmmC0igMZ3P9zQa4CbZV1OfuQv0FVMEB0udLW8UHqk2ioMaB8ua0bVTbqNRNOuxl5sGLuhh6cBbVWYjGTdrXH2Oxh/4XzC51HAioqRQHUcmtTfYOSBVpKf7HHo6iGSbThA2Fll/fsHBUEYOJX2eCbzimHK27vqstdSgSrF1qnTfO9LvhGN3Q0W7eOtccuIzfzLwchsrhSxJozADZcF2HmD+EePDtsT3tEhsXzg4xWUyAxhzj3lUNA9nnX+hNbU0APllJBfB8rQ=;FkU1Qcs+wVRNVYD4o2kneg=="

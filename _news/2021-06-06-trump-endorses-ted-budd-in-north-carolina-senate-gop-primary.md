@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/north-carolina-senate-ra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/north-carolina-senate-race-ted-budd-donald-trump/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210605205313-01-donald-trump-north-carolina-gop-0605-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump advances dangerous disinformation campaign as more states move to restrict the vote"
-    excerpt: "Donald Trump's speech before the North Carolina Republican Party Saturday night was a reminder of the danger the former President poses as he undermines America's election system while attempting to reassert himself as kingmaker on the national stage.\n    \n"
-    publishedDateTime: 2021-06-06T04:18:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RQ1w_OE1tEQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/trump-election-lies-north-carolina/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/trump-election-lies-north-carolina/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606001415-02-donald-trump-north-carolina-gop-0605-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

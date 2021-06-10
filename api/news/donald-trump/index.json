@@ -210,76 +210,19 @@
       ]
     },
     {
-      "path": "_news/2021-06-10-army-corps-of-engineers-race-to-fix-massive-gaps-in-border-levees-left-by-trump.md",
-      "title": "Army Corps of Engineers race to fix massive gaps in border levees left by Trump",
-      "excerpt": "The U.S. Army Corps of Engineers are racing to fix massive gaps created while building Trump’s border wall. Residents in the Rio Grande Valley are vulnerable to dangerous flooding until they are fixed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/biden-administration-fixing-holes-left-by-trump-in-border-levees-114575429651?playlist=mmlsnnd_bestofnbc-nnd",
-      "originalUrl": "https://www.nbcnews.com/now/video/biden-administration-fixing-holes-left-by-trump-in-border-levees-114575429651?playlist=mmlsnnd_bestofnbc-nnd",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623290231331_ott_now_border_leves_210609_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo114575429651",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114575429651",
-      "publishedDateTime": "2021-06-09T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-10-for-benjamin-netanyahu-like-donald-trump-only-fraud-can-explain-his-defeat.md",
       "title": "For Benjamin Netanyahu, like Donald Trump, only ‘fraud’ can explain his defeat",
       "excerpt": "Israel’s democratic transition is set for Sunday, but nothing is certain amid the prime minister’s scorched-earth campaign to wreck his opponents’ coalition.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailypress.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html",
-      "originalUrl": "https://www.dailypress.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html",
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 121,
       "tags": null,
       "images": [
         {
-          "url": "https://www.dailypress.com/resizer/9SNOAbQpI_SiJRZdfcRrhbzxgAQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SYSU6WAOK5ND54WSVDRK3ZQX6U.jpg",
+          "url": "https://www.chicagotribune.com/resizer/9SNOAbQpI_SiJRZdfcRrhbzxgAQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SYSU6WAOK5ND54WSVDRK3ZQX6U.jpg",
           "width": 1200,
           "height": 835,
           "title": null,
@@ -289,14 +232,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailypress.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html?outputType=amp",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-benjamin-netanyahu-trump-fraud-20210609-ekjhxhxbzrbmncbirigxxxrc2m-story.html?outputType=amp",
       "publishedDateTime": "2021-06-09T15:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Press",
-        "domain": "dailypress.com",
-        "images": null,
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -518,21 +470,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-09-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to-follow.md",
-      "title": "Trump backs Nigeria banning Twitter, calls for other countries to follow",
-      "excerpt": "Former President Trump on Tuesday applauded Nigeria’s Twitter ban and called on other countries to follow suit.",
+      "path": "_news/2021-06-09-nigerias-twitter-ban-donald-trump-hails-buhari.md",
+      "title": "Nigeria's Twitter ban: Donald Trump hails Buhari",
+      "excerpt": "Former US president Donald Trump has praised Nigeria's government for banning Twitter after it deleted President Muhammadu Buhari's post for breaching its rules. \"Who are they to dictate good and evil,",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to",
-      "originalUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to",
+      "webUrl": "https://www.bbc.com/news/world-africa-57408179.amp",
+      "originalUrl": "https://www.bbc.com/news/world-africa-57408179.amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 185,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_093020getty_trump-legal.jpg",
-          "width": 980,
-          "height": 580,
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BCCF/production/_118853384_gettyimages-953303198.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -540,16 +492,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp",
-      "publishedDateTime": "2021-06-08T16:46:00-07:00",
+      "ampWebUrl": "https://www.bbc.com/news/world-africa-57408179.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-africa-57408179.amp",
+      "publishedDateTime": "2021-06-09T01:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "BBC",
+        "domain": "bbc.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1564,6 +1516,54 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-chris-hayes-the-dangers-of-trumps-big-lie-and-republicans-actually-believing-it.md",
+      "title": "Chris Hayes: The Dangers Of Trump's Big Lie and Republicans Actually Believing It",
+      "excerpt": "It is hard to tell what is more dangerous to American democracy, at the moment: the big lie, or the big delusion. The key question emerging from the alternate reality the right has been constructing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/04/chris_hayes_the_dangers_of_trumps_big_lie_and_republicans_actually_believing_it.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/04/chris_hayes_the_dangers_of_trumps_big_lie_and_republicans_actually_believing_it.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/541227.png",
+          "width": 500,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

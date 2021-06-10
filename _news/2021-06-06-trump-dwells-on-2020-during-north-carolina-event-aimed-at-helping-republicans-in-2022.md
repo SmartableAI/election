@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump advances dangerous disinformation campaign as more states move to restrict the vote"
-    excerpt: "Donald Trump's speech before the North Carolina Republican Party Saturday night was a reminder of the danger the former President poses as he undermines America's election system while attempting to reassert himself as kingmaker on the national stage.\n    \n"
-    publishedDateTime: 2021-06-06T04:18:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RQ1w_OE1tEQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/trump-election-lies-north-carolina/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/trump-election-lies-north-carolina/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606001415-02-donald-trump-north-carolina-gop-0605-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump backers lose big as Ciattarelli claims GOP nomination in New Jersey"
     excerpt: "Jack Ciattarelli’s victory is likely a relief to the more moderate members of New Jersey’s GOP establishment who watched their already-minority party lose ground during Trump’s presidency."
     publishedDateTime: 2021-06-09T03:34:00Z

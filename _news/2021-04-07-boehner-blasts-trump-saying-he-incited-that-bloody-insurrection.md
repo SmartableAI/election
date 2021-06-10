@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Intelligence officials reassert role post-Trump"
+    excerpt: "The last time the top three intelligence officials testified in front of Congress, they were publicly criticized by the President, who lashed out at them in a series of tweets calling them passive and naive and saying that they should \"go back to school.\"\n    \n"
+    publishedDateTime: 2021-04-14T09:12:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I7Daj6EUhzc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190225105707-01-cia-symbol-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Some Trump congressional backers see big campaign windfalls in 1st quarter"
     excerpt: "Rep. Matt Gaetz of Florida raised more than $1.8 million during the first three months of the year, largely driven by small donations as the Republican mounted a vigorous defense of former President Donald Trump, a new filing shows.\n    \n"
     publishedDateTime: 2021-04-16T03:13:04Z
@@ -160,6 +176,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump relaunches his fundraising machine after months of quiet"
+    excerpt: "The red \"Make America Great Again\" hats are back in stock. Former President Donald Trump is reigniting his small-dollar fundraising operation for the first time since leaving the White House, part of his political ramp-up to stake out an outsize role in ..."
+    publishedDateTime: 2021-04-07T20:18:00Z
+    webUrl: "https://www.politico.com/news/2021/04/07/trump-fundraising-relaunch-479724"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/07/trump-fundraising-relaunch-479724"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/trump-fundraising-relaunch-479724"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d6/5b/2e9d3b5f4cbb81dc25d0a9b7c1ba/4-7-21-maga-hats-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Former In-Law of Trump Executive Gives Prosecutors Boxes of Documents"
     excerpt: "The handover of the documents suggests prosecutors are stepping up pressure on the executive, Allen H. Weisselberg."
     publishedDateTime: 2021-04-08T21:31:00Z
@@ -251,6 +283,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Gaetz-tied group threatens to sue reporters writing on his Trump relationship"
+    excerpt: "But Elmore’s email took umbrage with reports that the congressman had asked then-President Donald Trump for a pardon and was currently on the outs with the 45th president. “We are seeking an immediate print and on-air statement of retraction."
+    publishedDateTime: 2021-04-09T02:34:00Z
+    webUrl: "https://www.politico.com/news/2021/04/08/gaetz-reporters-trump-480534"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/dc/df/4ae0060d42db84acd39ceb55a189/210408-matt-gaetz-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
     excerpt: "The investigation also found that she displayed a red \"USA\" campaign hat in her HUD office, but neither Patton nor HUD ethics counsel had realized then President-Donald Trump's campaign was selling the hat until after the allegation was made public."

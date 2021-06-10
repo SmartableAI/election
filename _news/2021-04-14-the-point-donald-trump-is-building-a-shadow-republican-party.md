@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pence launches political advocacy group with an eye to the Trump legacy -- and his own future"
-    excerpt: "Former Vice President Mike Pence on Wednesday announced the launch of a new political advocacy group, \"Advancing American Freedom,\" a move designed with an eye to his political future and his efforts to help shape the conversation around the Trump administration's legacy.\n    \n"
-    publishedDateTime: 2021-04-07T15:11:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tdWNrm2BA-g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 189
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115145314-01-mike-pence-0104-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Ex-Trump aides form new policy group with $20 million initial budget"
     excerpt: "A well-funded new group formed by former senior aides to then-President Donald Trump launched on Tuesday with the goal of permanently fusing the ex-President's \"America First\" agenda with the Republican Party.\n    \n"
     publishedDateTime: 2021-04-13T23:26:53Z
@@ -63,101 +47,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Intelligence officials reassert role post-Trump"
-    excerpt: "The last time the top three intelligence officials testified in front of Congress, they were publicly criticized by the President, who lashed out at them in a series of tweets calling them passive and naive and saying that they should \"go back to school.\"\n    \n"
-    publishedDateTime: 2021-04-14T09:12:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I7Daj6EUhzc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+  - title: "How the Trump era made redistricting more complicated"
+    excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes.\n    \n"
+    publishedDateTime: 2021-04-18T22:04:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/USwTatmtgTs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190225105707-01-cia-symbol-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Pentagon announces new policies to abolish Trump administration's transgender military ban"
-    excerpt: "The Pentagon has announced new policies to abolish the Trump administration's ban on transgender troops serving in the US military following a 60-day review initiated after President Joe Biden signed an executive order repealing the ban shortly after he took office in January.\n    \n"
-    publishedDateTime: 2021-03-31T20:34:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/btC90CjyEOk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/transgender-military-ban-policies/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/transgender-military-ban-policies/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "EPA empties out science panels stacked with Trump picks"
-    excerpt: "This is the latest attempt by the Biden administration to reverse what officials have described as rampant political interference in key decisions under Trump and distortion of good data and evidence."
-    publishedDateTime: 2021-03-31T17:47:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/epa-empties-out-science-panels-stacked-trump-picks-n1262615"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262615"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262615"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3461085/210331-michael-regan-se-1152a_a21758672e7ef354318c90435886231b.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump sued by two Capitol Police officers"
-    excerpt: "Two officers accuse Donald Trump of inciting the January 6 riot, during which they were injured, and have sued him for damages. Brian Todd reports."
-    publishedDateTime: 2021-04-01T04:14:00Z
-    webUrl: "https://www.cnn.com/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401000836-exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot-00001323-super-tease.png"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Kemp Seizes on Georgia Voting Law to Try to Win Back Trump and His Base"
-    excerpt: "After resisting Donald Trump’s demands to overturn the state’s election results, Gov. Brian Kemp was an outcast in his own party. Now he’s embraced the state’s new voting bill as a way to rebuild his standing."
-    publishedDateTime: 2021-04-08T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/00kemp1/00kemp1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump relaunches his fundraising machine after months of quiet"
-    excerpt: "The red \"Make America Great Again\" hats are back in stock. Former President Donald Trump is reigniting his small-dollar fundraising operation for the first time since leaving the White House, part of his political ramp-up to stake out an outsize role in ..."
-    publishedDateTime: 2021-04-07T20:18:00Z
-    webUrl: "https://www.politico.com/news/2021/04/07/trump-fundraising-relaunch-479724"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/07/trump-fundraising-relaunch-479724"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/trump-fundraising-relaunch-479724"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/d6/5b/2e9d3b5f4cbb81dc25d0a9b7c1ba/4-7-21-maga-hats-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Ex-Trump aides form new policy group with $20 million initial budget"
     excerpt: "Washington (CNN)A well-funded new group formed by former senior aides to then-President Donald Trump launched on Tuesday with the goal of permanently fusing the ex-President's \"America First\" agenda with the Republican Party. The newly minted nonprofit is ..."
@@ -175,35 +79,83 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Intelligence officials reassert their role post-Trump"
-    excerpt: "The last time the top three intelligence officials testified in front of Congress, they were publicly criticized by the President, who lashed out at them in a series of tweets calling them passive and naive and saying that they should \"go back to school."
-    publishedDateTime: 2021-04-14T09:12:00Z
-    webUrl: "https://www.cnn.com/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+  - title: "100 Days Without Trump on Twitter: A Nation Scrolls More Calmly"
+    excerpt: "Democrats are breathing easier. Republicans are crying censorship. For all of the country’s news consumers, a strange quiet has descended after a four-year bombardment of presidential verbiage."
+    publishedDateTime: 2021-04-17T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/17/us/politics/trump-twitter.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/17/us/politics/trump-twitter.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/17/us/politics/trump-twitter.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/18/us/politics/18trumptwitter/18trumptwitter-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "North Carolina primary field builds, with or without Lara Trump"
+    excerpt: "Former North Carolina Gov. Pat McCrory participates in a University of North Carolina Institute of Politics forum in Chapel Hill The Republican Senate primary in North Carolina has been essentially frozen for months as Lara Trump,"
+    publishedDateTime: 2021-04-17T11:00:00Z
+    webUrl: "https://www.politico.com/news/2021/04/17/north-carolina-republican-primary-field-482516"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/17/north-carolina-republican-primary-field-482516"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/17/north-carolina-republican-primary-field-482516"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ac/2c/745efc2e4e32bc85d4f4f72f916c/ap21103646740883.jpg"
+        width: 4371
+        height: 2912
+        isCached: true
+  - title: "One America News Network Stays True to Trump"
+    excerpt: "A recent OAN segment said there were “serious doubts about who’s actually president,” and another blamed “anti-Trump extremists” for the Capitol attack."
+    publishedDateTime: 2021-04-18T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/05/business/00OAN-01/merlin_177598191_67fd0320-9bd9-4f06-b481-3683fd454302-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "How the Trump era made redistricting more complicated"
+    excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes."
+    publishedDateTime: 2021-04-18T18:04:00Z
+    webUrl: "https://www.cnn.com/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190225105707-01-cia-symbol-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Pamela Brown fact-checks deficit growth during Donald Trump's presidency"
-    excerpt: "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden."
-    publishedDateTime: 2021-04-04T23:21:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
+  - title: "Donald Trump Jr. takes on new role as top adviser inside the Trump family"
+    excerpt: "Former President Donald Trump has elevated his son Donald Trump Jr. to an unofficial new role inside his orbit as he weighs the idea of a comeback presidential bid in 2024 that would require him to maintain a vise grip on the Republican base for any chance of success."
+    publishedDateTime: 2021-04-20T09:30:00Z
+    webUrl: "https://www.cnn.com/2021/04/20/politics/donald-trump-jr-adviser/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 134
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419134709-donald-trump-jr-file-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -223,17 +175,17 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Justice Thomas grumbles over Trump's social media ban"
-    excerpt: "The decision by social media giants Twitter and Facebook to ban former President Donald Trump from their platforms appears to have drawn the ire of one of America’s most prominent jurists: Justice Clarence Thomas. As the Supreme Court issued an order ..."
-    publishedDateTime: 2021-04-05T14:58:00Z
-    webUrl: "https://www.politico.com/news/2021/04/05/justice-clarence-thomas-trump-twitter-ban-479046"
+  - title: "‘A mini-Trump’: New York mayoral candidates look to take down Yang"
+    excerpt: "Everybody’s ganging up on Andrew Yang. The New York City mayor’s race has grown more vicious in recent weeks — and the favorite target is Yang, who has come under attack for everything from his basic income and tax plans to his employment history and his second home upstate."
+    publishedDateTime: 2021-04-07T23:57:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/04/07/a-mini-trump-new-york-mayoral-candidates-look-to-take-down-yang-1371914"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/5f/ed/e10ea6c847c28b17c494f425ea8f/210405-thomas-getty-773.jpg"
+      - url: "https://static.politico.com/5e/95/d37a7ce14b17857aa856828419c8/gettyimages-1310969538-1.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -251,17 +203,17 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Gaetz-tied group threatens to sue reporters writing on his Trump relationship"
-    excerpt: "But Elmore’s email took umbrage with reports that the congressman had asked then-President Donald Trump for a pardon and was currently on the outs with the 45th president. “We are seeking an immediate print and on-air statement of retraction."
-    publishedDateTime: 2021-04-09T02:34:00Z
-    webUrl: "https://www.politico.com/news/2021/04/08/gaetz-reporters-trump-480534"
+  - title: "POLITICO Playbook: GOP struggles with how to handle Trumpism — and Trump"
+    excerpt: "In her statement, sheONALD TRUMP, which are steeped in white identity politics — and that could make this situation a bit sticky for McCarthy to handle. It’s all a big reminder that GOP leadership is still unsure how to handle both Trump and Trumpism."
+    publishedDateTime: 2021-04-18T15:11:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/04/18/gop-struggles-with-how-to-handle-trumpism-and-trump-492508"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 112
+    quality: 114
     images:
-      - url: "https://static.politico.com/dc/df/4ae0060d42db84acd39ceb55a189/210408-matt-gaetz-getty-773.jpg"
+      - url: "https://static.politico.com/76/b6/b7daf8e84b9a8c1e2d0613fdb84a/gettyimages-1230985238.jpg"
         width: 1160
         height: 773
         isCached: true

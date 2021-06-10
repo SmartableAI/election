@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence on Donald Trump: 'I don't know if we'll ever see eye to eye' on January 6"
-    excerpt: "Former Vice President Mike Pence acknowledged on Thursday that he and former President Donald Trump maintain starkly different views of the riot that unfolded at the US Capitol on January 6.\n    \n"
-    publishedDateTime: 2021-06-04T01:07:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kahhDWlaIBw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 193
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115145314-01-mike-pence-0104-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "SE Cupp: Trump is preying on his own fans"
-    excerpt: "CNN's SE Cupp reacts to New York Times reporting that former President Trump is telling those around him that he expects to be reinstated to the presidency by August.\n    \n"
-    publishedDateTime: 2021-06-02T11:43:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TehDUz9Yi2E/trump-reinstatement-claims-nyt-cupp-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/06/02/trump-reinstatement-claims-nyt-cupp-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/02/trump-reinstatement-claims-nyt-cupp-newday-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210602070317-se-cupp-newday-6-2-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Facebook says Trump now suspended until at least January 2023"
     excerpt: "Facebook announced Friday that former President Donald Trump would be suspended from its platform until at least January 7th, 2023 -- two years from when he was initially suspended.\n    \n"
     publishedDateTime: 2021-06-04T17:45:48Z
@@ -95,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence says he and Trump may never see 'eye to eye' on Jan. 6 riot"
-    excerpt: "Former Vice President Mike Pence addressed the Jan. 6 pro-Trump riot attack of the Capitol saying that he and former President Donald Trump may never see \"eye to eye\" on the event."
-    publishedDateTime: 2021-06-04T02:53:00Z
-    webUrl: "https://www.nbcnews.com/video/pence-says-he-and-trump-may-never-see-eye-to-eye-on-jan-6-riot-114310213715"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114310213715"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114310213715"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 160
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/Pence_on_Jan_6th.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Senate report reveals new details about security failures ahead of January 6 attack but omits Trump's role"
     excerpt: "A new Senate report reveals previously unknown details about the stunning security breakdowns ahead of the January 6 US Capitol attack, adding an authoritative emphasis to previous evidence that there were massive intelligence failures, critical miscommunications, and unheeded warnings that ultimately"
     publishedDateTime: 2021-06-08T11:12:27Z
@@ -127,49 +79,69 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence calls Jan. 6 a 'dark day,' says he may never see 'eye to eye' with Trump over it"
-    excerpt: "\"But I will always be proud of what we accomplished for the American people,\" the former vice president said in a speech in New Hampshire."
-    publishedDateTime: 2021-06-04T03:12:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/pence-calls-jan-6-dark-day-says-he-may-never-n1269583"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269583"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269583"
+  - title: "Trump faces a narrow path to victory against Facebook suspension"
+    excerpt: "If former President Donald Trump manages to get back on Facebook and Instagram this month, his win will rest on a series of close calls. Facebook’s oversight board is expected to rule in the coming weeks on whether to uphold or overturn Trump’s ..."
+    publishedDateTime: 2021-04-09T22:56:00Z
+    webUrl: "https://www.politico.com/news/2021/04/09/trump-facebook-suspension-oversight-board-480671"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/09/trump-facebook-suspension-oversight-board-480671"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/trump-facebook-suspension-oversight-board-480671"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c9/e9/f0ff0b934e189519ffd7493b3913/210409-trump-phone-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Facebook oversight board to rule on suspended Trump account on May 5"
+    excerpt: "After years of treating Trump’s inflammatory rhetoric with a light touch, Facebook and Instagram silenced his accounts on Jan. 7, saying at the time he’d be suspended “at le"
+    publishedDateTime: 2021-05-03T15:07:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/facebook-oversight-board-rule-suspended-trump-account-may-5-rcna817"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna817"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna817"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 152
+    quality: 135
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480201/210603-mike-pence-ac-814p.jpg"
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-05/1235/210503-donald-trump-al-1047-c2648d_f77920af1b4dd0f14ea5d04f2a53a071db3c70db.jpg"
         width: 2500
-        height: 1666
+        height: 1802
         isCached: true
-  - title: "Pence Says He May Never See Trump ‘Eye to Eye’ on Capitol Riot"
-    excerpt: "Former Vice President Mike Pence’s speech illustrated the careful balance he is aiming to strike in squaring the rhetoric of the Republican Party under former President Donald J. Trump while standing by his opposition to Mr."
-    publishedDateTime: 2021-06-04T16:03:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007798701/mike-pence-trump-jan-6-capitol-riot.html"
+  - title: "The Facebook Ban Hurt Trump in Surprising Ways"
+    excerpt: "MAGA world still loves him, but it doesn’t hear him with the same force it used to. How long before that begins to erode his support?"
+    publishedDateTime: 2021-05-05T08:34:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/05/05/trump-social-media-supporters-485381"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/05/05/trump-social-media-supporters-485381"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/05/05/trump-social-media-supporters-485381"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/06/03/us/politics/03new-washington-briefing-pence2/03new-washington-briefing-pence2-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/54/a4/873e2b024444941520a326b37fba/mag-gettyimages-1229555360.jpg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "What Happened When Trump Was Banned on Social Media"
-    excerpt: "Since Facebook and Twitter banned him, Donald J. Trump, the former president, has posted statements online far less often. But some of his statements have traveled just as far and wide on social networks."
-    publishedDateTime: 2021-06-07T05:00:00Z
-    webUrl: "https://www.nytimes.com/interactive/2021/06/07/technology/trump-social-media-ban.html"
+  - title: "Facebook extends Trump suspension for two years"
+    excerpt: "Facebook announced a two-year ban of former President Donald Trump from its platforms, including Instagram, until at least January 2023."
+    publishedDateTime: 2021-06-04T21:02:00Z
+    webUrl: "https://www.nbcnews.com/now/video/facebook-extends-trump-suspension-for-two-years-114347077726"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114347077726"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114347077726"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/06/01/us/trump-social-media-ban-promo-1622577567013/trump-social-media-ban-promo-1622577567013-facebookJumbo-v3.png"
-        width: 1050
-        height: 549
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1622840486631_ott_now_fb_trump_210604_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "YoI97FwDuPICIJsmWalJK7CPtLdgu5mFu9bENQVm4e/YjSB98AWW2e3WVr3qvUA950Sb7dM2R5mz2kY/kqiKDbOkpcFZiiQe/jUrkhET3FGgOW+MVtCHE51/pciZCSnpC/9wyq+8CEqmBURxLAa8fAPvG2l8zhGMfg6eBU5Jz6hwNjyYLzL1t2rN9GCep1wgWSVgkJ+iRusLDqgtrwl6UzHr9iVaTIRDFeteIfCIALkIi9Rot9fOHl9Q2L4nxLhtPz5jOFEC6dTWRwN/xGwqWJW3AO9kXi+f4FdK5WE6z7AoGAP5KJsGHrozELESWNrHcNToHelHyaUbfU4V1ErhK91d9AK3q0WIhCJ7eEIRaq4=;EHwmmX5GZ+zoVMMCWeplGA=="

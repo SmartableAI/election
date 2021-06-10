@@ -80,22 +80,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "North Carolina primary field builds, with or without Lara Trump"
-    excerpt: "Former North Carolina Gov. Pat McCrory participates in a University of North Carolina Institute of Politics forum in Chapel Hill The Republican Senate primary in North Carolina has been essentially frozen for months as Lara Trump,"
-    publishedDateTime: 2021-04-17T11:00:00Z
-    webUrl: "https://www.politico.com/news/2021/04/17/north-carolina-republican-primary-field-482516"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/17/north-carolina-republican-primary-field-482516"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/17/north-carolina-republican-primary-field-482516"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/ac/2c/745efc2e4e32bc85d4f4f72f916c/ap21103646740883.jpg"
-        width: 4371
-        height: 2912
-        isCached: true
   - title: "Twitter’s revenue jumps 28 percent in its first post-Trump quarter."
     excerpt: "Twitter’s permanent ban of former President Donald J. Trump did not appear to hurt activity. The company saw a 20 percent jump in daily active users who see ads in the first three months of the year."
     publishedDateTime: 2021-04-29T20:05:00Z
@@ -157,20 +141,6 @@ related:
       - url: "https://static.politico.com/6f/30/8635360e44c49f7a766287c92f14/sergio-de-la-pena.png"
         width: 700
         height: 466
-        isCached: true
-  - title: "POLITICO Playbook: GOP struggles with how to handle Trumpism — and Trump"
-    excerpt: "In her statement, sheONALD TRUMP, which are steeped in white identity politics — and that could make this situation a bit sticky for McCarthy to handle. It’s all a big reminder that GOP leadership is still unsure how to handle both Trump and Trumpism."
-    publishedDateTime: 2021-04-18T15:11:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/04/18/gop-struggles-with-how-to-handle-trumpism-and-trump-492508"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 114
-    images:
-      - url: "https://static.politico.com/76/b6/b7daf8e84b9a8c1e2d0613fdb84a/gettyimages-1230985238.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "ILLINOIS GOP’s ASTERISK — FIRST AD for 2022 CYCLE — REMAP MAY HAVE A TRUMP FACTOR"
     excerpt: "The Illinois GOP has never been a fundraising juggernaut, and yet the first quarter numbers were still pretty bleak. For the first quarter, Illinois GOP reported receiving a little more than $115,000 in donations,"

@@ -111,6 +111,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Intelligence officials reassert their role post-Trump"
+    excerpt: "The last time the top three intelligence officials testified in front of Congress, they were publicly criticized by the President, who lashed out at them in a series of tweets calling them passive and naive and saying that they should \"go back to school."
+    publishedDateTime: 2021-04-14T09:12:00Z
+    webUrl: "https://www.cnn.com/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190225105707-01-cia-symbol-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Shades of 2016: Republicans Stay Silent on Trump, Hoping He Fades Away"
     excerpt: "Trump was a candidate in 2016, rival Republicans are trying to avoid becoming the target of his attacks or directly confronting him, while hoping someone else will. Many Republicans have privately expressed hope that former President Donald J."
     publishedDateTime: 2021-04-14T20:28:00Z

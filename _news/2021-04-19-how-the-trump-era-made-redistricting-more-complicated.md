@@ -32,19 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Liz Cheney says she won't support Trump if he runs in 2024"
-    excerpt: "Wyoming Rep. Liz Cheney, the No. 3 House Republican, said Wednesday she would not support Donald Trump if he decided to launch another White House bid in 2024.\n    \n"
-    publishedDateTime: 2021-04-15T00:03:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqJt3v3lcVk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
+  - title: "Ex-Trump aides form new policy group with $20 million initial budget"
+    excerpt: "A well-funded new group formed by former senior aides to then-President Donald Trump launched on Tuesday with the goal of permanently fusing the ex-President's \"America First\" agenda with the Republican Party.\n    \n"
+    publishedDateTime: 2021-04-13T23:26:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rMR8QFze9TI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Donald Trump is building a shadow Republican Party"
+    excerpt: "On Monday, a cohort of former Trump administration officials launched the America First Policy Institute, a think tank organization aimed at promoting \"liberty, free enterprise, national greatness, American military superiority, foreign-policy engagement in the American interest, and the primacy of American"
+    publishedDateTime: 2021-04-14T16:00:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pmzrGKeX1BI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190412085826-trump-for-lockhart-op-ed-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,101 +80,143 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Liz Cheney's fall shows that Trump is here to stay"
-    excerpt: "The unmistakable message of Liz Cheney's downfall is that Donald Trump will be a dominant figure in the Republican Party -- and by extension American life -- most likely for years to come.\n    \n"
-    publishedDateTime: 2021-05-06T09:01:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8vM3rGmjBOo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/liz-cheney-donald-trump-gop/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/liz-cheney-donald-trump-gop/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064319-01-liz-cheney-0203-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Nikki Haley says she'll support and not challenge Trump if he runs in 2024"
-    excerpt: "Former UN Ambassador Nikki Haley on Monday said she would back her onetime boss, former President Donald Trump, if he decides to run for the Republican Party's presidential nomination again in 2024 and not mount a bid against him.\n    \n"
-    publishedDateTime: 2021-04-13T02:07:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2tNC4vgH2FM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/nikki-haley-donald-trump-2024/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/nikki-haley-donald-trump-2024/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210412215343-trump-haley-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "What Liz Cheney has figured out about Donald Trump"
-    excerpt: "Wyoming Rep. Liz Cheney has planted a flag firmly against another Trump run in 2024, and while she may be lonely in that position in the GOP, the numbers seem to back her up. In this latest episode of The Point,"
-    publishedDateTime: 2021-04-22T14:29:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
+  - title: "Ex-Trump aides form new policy group with $20 million initial budget"
+    excerpt: "Washington (CNN)A well-funded new group formed by former senior aides to then-President Donald Trump launched on Tuesday with the goal of permanently fusing the ex-President's \"America First\" agenda with the Republican Party. The newly minted nonprofit is ..."
+    publishedDateTime: 2021-04-13T23:27:00Z
+    webUrl: "https://www.cnn.com/2021/04/13/politics/trump-aides-policy-group/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422101510-the-point-liz-cheney-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Liz Cheney ousted from GOP leadership role over Trump criticism"
-    excerpt: "House Republicans could vote as early as today to replace Rep. Liz Cheney as GOP conference chair over her opposition to former President Trump. Follow here for the latest."
-    publishedDateTime: 2021-05-12T13:48:00Z
-    webUrl: "https://www.cnn.com/politics/live-news/liz-cheney-gop-vote-05-11-21/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/liz-cheney-gop-vote-05-11-21/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/liz-cheney-gop-vote-05-11-21/index.html"
+  - title: "100 Days Without Trump on Twitter: A Nation Scrolls More Calmly"
+    excerpt: "Democrats are breathing easier. Republicans are crying censorship. For all of the country’s news consumers, a strange quiet has descended after a four-year bombardment of presidential verbiage."
+    publishedDateTime: 2021-04-17T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/17/us/politics/trump-twitter.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/17/us/politics/trump-twitter.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/17/us/politics/trump-twitter.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/18/us/politics/18trumptwitter/18trumptwitter-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "North Carolina primary field builds, with or without Lara Trump"
+    excerpt: "Former North Carolina Gov. Pat McCrory participates in a University of North Carolina Institute of Politics forum in Chapel Hill The Republican Senate primary in North Carolina has been essentially frozen for months as Lara Trump,"
+    publishedDateTime: 2021-04-17T11:00:00Z
+    webUrl: "https://www.politico.com/news/2021/04/17/north-carolina-republican-primary-field-482516"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/17/north-carolina-republican-primary-field-482516"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/17/north-carolina-republican-primary-field-482516"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ac/2c/745efc2e4e32bc85d4f4f72f916c/ap21103646740883.jpg"
+        width: 4371
+        height: 2912
+        isCached: true
+  - title: "One America News Network Stays True to Trump"
+    excerpt: "A recent OAN segment said there were “serious doubts about who’s actually president,” and another blamed “anti-Trump extremists” for the Capitol attack."
+    publishedDateTime: 2021-04-18T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/05/business/00OAN-01/merlin_177598191_67fd0320-9bd9-4f06-b481-3683fd454302-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Donald Trump Jr. takes on new role as top adviser inside the Trump family"
+    excerpt: "Former President Donald Trump has elevated his son Donald Trump Jr. to an unofficial new role inside his orbit as he weighs the idea of a comeback presidential bid in 2024 that would require him to maintain a vise grip on the Republican base for any chance of success."
+    publishedDateTime: 2021-04-20T09:30:00Z
+    webUrl: "https://www.cnn.com/2021/04/20/politics/donald-trump-jr-adviser/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510165219-liz-cheney-2019-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419134709-donald-trump-jr-file-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Republicans say Cheney needs to stop talking about the past. But Trump won't."
-    excerpt: "Trump has posted more than 20 statements about last fall's election in the past six weeks compared to just one directly criticizing the Biden administration."
-    publishedDateTime: 2021-05-09T22:08:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/republicans-say-cheney-needs-stop-talking-about-past-trump-won-n1266779"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266779"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266779"
+  - title: "High number of Trump political appointees sought permanent jobs in final year"
+    excerpt: "The number of political appointees who sought permanent positions in the final year of former President Donald Trump’s term outpaced the number who did so under his predecessor during the same time frame, according to documents obtained by NBC News."
+    publishedDateTime: 2021-04-10T09:01:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/high-number-trump-political-appointees-sought-permanent-jobs-final-year-n1262234"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262234"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262234"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 132
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_18/3471445/210509-liz-cheney-jm-1029_1c3b0a522b8f83266db4b05def1bdf27.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3424219/201029-donald-trump-maga-rally-ac-828p_c93e3f4d695a7d9de6357a085cc195ee.jpg"
         width: 2500
-        height: 1690
+        height: 1667
         isCached: true
-  - title: "House Republicans to vote on Liz Cheney's future in leadership for rebuking Trump"
-    excerpt: "Cheney has consistently criticized the former president's false claims about the election after his supporters waged a deadly attack on the U.S. Capitol."
-    publishedDateTime: 2021-05-12T08:30:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/house-republicans-vote-liz-cheney-s-future-leadership-rebuking-trump-n1266992"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266992"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266992"
+  - title: "‘A mini-Trump’: New York mayoral candidates look to take down Yang"
+    excerpt: "Everybody’s ganging up on Andrew Yang. The New York City mayor’s race has grown more vicious in recent weeks — and the favorite target is Yang, who has come under attack for everything from his basic income and tax plans to his employment history and his second home upstate."
+    publishedDateTime: 2021-04-07T23:57:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/04/07/a-mini-trump-new-york-mayoral-candidates-look-to-take-down-yang-1371914"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_19/3472019/210511-liz-cheney-capitol-an_eafe9c24fe14c09b2c97ea12600882bf.jpg"
-        width: 2500
-        height: 1600
+      - url: "https://static.politico.com/5e/95/d37a7ce14b17857aa856828419c8/gettyimages-1310969538-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Race to face Cuomo kicks off with two Trump allies"
+    excerpt: "Democrats reacted with a shrug to news of Lee Zeldin’s bid — and an eye roll for Andrew Guiliani, who was a White House aide under Trump."
+    publishedDateTime: 2021-04-08T23:35:00Z
+    webUrl: "https://www.politico.com/states/new-york/albany/story/2021/04/08/race-to-face-cuomo-kicks-off-with-two-trump-allies-1372320"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ff/f5/e268b95e4e468ae682fc9aa137da/ap18142588150929-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "POLITICO Playbook: GOP struggles with how to handle Trumpism — and Trump"
+    excerpt: "In her statement, sheONALD TRUMP, which are steeped in white identity politics — and that could make this situation a bit sticky for McCarthy to handle. It’s all a big reminder that GOP leadership is still unsure how to handle both Trump and Trumpism."
+    publishedDateTime: 2021-04-18T15:11:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/04/18/gop-struggles-with-how-to-handle-trumpism-and-trump-492508"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/76/b6/b7daf8e84b9a8c1e2d0613fdb84a/gettyimages-1230985238.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "xXW+CaqLBHccpNjqh2Gc3Vv1wKTnethmJ+T80Tc6mkO10q35DQ74JSFQqZasHeyM+WnWP8hFihT5ThXC+GpX/xZRY82woOLZ8M8nGGX0lvwLGGT9spbOzzAjuEkF7e918a7KlinRlruQwVX+522KqF1wz/kkKijjrL57TaYTPPbKvcaTmRx5Fe2j0HSQp4SPxPU5by5muwyDbuQTFqCzC9hvem51Hoq4rIB++1WU7Y6LlPHjFYPj/Yrd+TPxC+JvQ4fOl6WxFiw712DhGSoNWeL/hGDm5c+bcESmG2Ka8AC1jEQkPolNBX97uMiV+6RYML6ZxtPcLyGYwUi8BzUeWEzjqC9d8BrS1tcRq/VQ8XAI/U68c4Rw2xzvTnPFxXko7ZD5UY+qSJqbnd7Gv0q+KQ8Q69EVPhaRuT4QxGGt3fguaOWqbHAUvRqyHHKXX8rSEMh21Zc0iGNJogiWgqGDRf+PO7DNd8IP2Fm7NIwfjdwoCNZ0bSZw35nAZa0xPdyxy851z07yQtJHdclXlVi2cg==;xSonin3M0v6MZaiJEIV1LQ=="

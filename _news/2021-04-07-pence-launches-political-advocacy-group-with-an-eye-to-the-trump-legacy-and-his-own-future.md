@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-gro
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html"
 type: article
 quality: 189
-heat: 489
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -32,239 +32,177 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Trump aides form new policy group with $20 million initial budget"
-    excerpt: "A well-funded new group formed by former senior aides to then-President Donald Trump launched on Tuesday with the goal of permanently fusing the ex-President's \"America First\" agenda with the Republican Party.\n    \n"
-    publishedDateTime: 2021-04-13T23:26:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rMR8QFze9TI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+  - title: "Pence eyes his political future as he tries to make peace with Trump "
+    excerpt: "Six months after their relationship deteriorated in the midst of an insurrection at the US Capitol, Donald Trump and Mike Pence appear to be on the mend.\n    \n"
+    publishedDateTime: 2021-06-10T17:07:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 200
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604131734-02-pence-nh-speech-0603-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Intelligence officials reassert role post-Trump"
-    excerpt: "The last time the top three intelligence officials testified in front of Congress, they were publicly criticized by the President, who lashed out at them in a series of tweets calling them passive and naive and saying that they should \"go back to school.\"\n    \n"
-    publishedDateTime: 2021-04-14T09:12:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I7Daj6EUhzc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+  - title: "Mike Pence on Donald Trump: 'I don't know if we'll ever see eye to eye' on January 6"
+    excerpt: "Former Vice President Mike Pence acknowledged on Thursday that he and former President Donald Trump maintain starkly different views of the riot that unfolded at the US Capitol on January 6.\n    \n"
+    publishedDateTime: 2021-06-04T01:07:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kahhDWlaIBw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/pence-trump-january-6/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 193
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190225105707-01-cia-symbol-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115145314-01-mike-pence-0104-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Donald Trump is building a shadow Republican Party"
-    excerpt: "On Monday, a cohort of former Trump administration officials launched the America First Policy Institute, a think tank organization aimed at promoting \"liberty, free enterprise, national greatness, American military superiority, foreign-policy engagement in the American interest, and the primacy of American"
-    publishedDateTime: 2021-04-14T16:00:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pmzrGKeX1BI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
+  - title: "Trump is more obsessed than ever with 2020 election and is brushing off allies who are telling him to move on"
+    excerpt: "Donald Trump is more obsessed than ever with the 2020 election and pushing his lie that there was widespread fraud that led to his defeat, according to several former advisers and allies still close to the former Republican president.\n    \n"
+    publishedDateTime: 2021-06-03T15:09:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yf9vGyLRLzM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/trump-mindset-2020-election-obsession/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/trump-mindset-2020-election-obsession/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190412085826-trump-for-lockhart-op-ed-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521102719-donald-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Pentagon announces new policies to abolish Trump administration's transgender military ban"
-    excerpt: "The Pentagon has announced new policies to abolish the Trump administration's ban on transgender troops serving in the US military following a 60-day review initiated after President Joe Biden signed an executive order repealing the ban shortly after he took office in January.\n    \n"
-    publishedDateTime: 2021-03-31T20:34:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/btC90CjyEOk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/transgender-military-ban-policies/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/transgender-military-ban-policies/index.html"
+  - title: "As Trump readies summer rallies and speeches, allies worry he's stuck in the past"
+    excerpt: "A cadre of aides and advisers working to tame Donald Trump's obsession with the 2020 election, including his fixation with debunked voter fraud theories and ballot audits, are realizing the task at hand is much tougher than they thought.\n    \n"
+    publishedDateTime: 2021-06-04T11:00:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6zUDM5TouqA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603151659-donald-trump-cpac-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "EPA empties out science panels stacked with Trump picks"
-    excerpt: "This is the latest attempt by the Biden administration to reverse what officials have described as rampant political interference in key decisions under Trump and distortion of good data and evidence."
-    publishedDateTime: 2021-03-31T17:47:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/epa-empties-out-science-panels-stacked-trump-picks-n1262615"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262615"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262615"
+  - title: "Trump advances dangerous disinformation campaign as more states move to restrict the vote"
+    excerpt: "Donald Trump's speech before the North Carolina Republican Party Saturday night was a reminder of the danger the former President poses as he undermines America's election system while attempting to reassert himself as kingmaker on the national stage.\n    \n"
+    publishedDateTime: 2021-06-06T04:18:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RQ1w_OE1tEQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/trump-election-lies-north-carolina/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/trump-election-lies-north-carolina/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606001415-02-donald-trump-north-carolina-gop-0605-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pence says he and Trump may never see 'eye to eye' on Jan. 6 riot"
+    excerpt: "Former Vice President Mike Pence addressed the Jan. 6 pro-Trump riot attack of the Capitol saying that he and former President Donald Trump may never see \"eye to eye\" on the event."
+    publishedDateTime: 2021-06-04T02:53:00Z
+    webUrl: "https://www.nbcnews.com/video/pence-says-he-and-trump-may-never-see-eye-to-eye-on-jan-6-riot-114310213715"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114310213715"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114310213715"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 160
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3461085/210331-michael-regan-se-1152a_a21758672e7ef354318c90435886231b.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/Pence_on_Jan_6th.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Trump sued by two Capitol Police officers"
-    excerpt: "Two officers accuse Donald Trump of inciting the January 6 riot, during which they were injured, and have sued him for damages. Brian Todd reports."
-    publishedDateTime: 2021-04-01T04:14:00Z
-    webUrl: "https://www.cnn.com/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
+  - title: "Pence calls Jan. 6 a 'dark day,' says he may never see 'eye to eye' with Trump over it"
+    excerpt: "\"But I will always be proud of what we accomplished for the American people,\" the former vice president said in a speech in New Hampshire."
+    publishedDateTime: 2021-06-04T03:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/pence-calls-jan-6-dark-day-says-he-may-never-n1269583"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269583"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269583"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 152
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401000836-exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot-00001323-super-tease.png"
-        width: 1100
-        height: 619
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480201/210603-mike-pence-ac-814p.jpg"
+        width: 2500
+        height: 1666
         isCached: true
-  - title: "Kemp Seizes on Georgia Voting Law to Try to Win Back Trump and His Base"
-    excerpt: "After resisting Donald Trump’s demands to overturn the state’s election results, Gov. Brian Kemp was an outcast in his own party. Now he’s embraced the state’s new voting bill as a way to rebuild his standing."
-    publishedDateTime: 2021-04-08T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.amp.html"
+  - title: "At Once Diminished and Dominating, Trump Prepares for His Next Act"
+    excerpt: "The former president speaks on Saturday to the North Carolina Republican convention, as he resumes political speeches and rallies."
+    publishedDateTime: 2021-06-05T13:56:00Z
+    webUrl: "https://www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/00kemp1/00kemp1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05trump-1/05trump-1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump relaunches his fundraising machine after months of quiet"
-    excerpt: "The red \"Make America Great Again\" hats are back in stock. Former President Donald Trump is reigniting his small-dollar fundraising operation for the first time since leaving the White House, part of his political ramp-up to stake out an outsize role in ..."
-    publishedDateTime: 2021-04-07T20:18:00Z
-    webUrl: "https://www.politico.com/news/2021/04/07/trump-fundraising-relaunch-479724"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/07/trump-fundraising-relaunch-479724"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/trump-fundraising-relaunch-479724"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/d6/5b/2e9d3b5f4cbb81dc25d0a9b7c1ba/4-7-21-maga-hats-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Ex-Trump aides form new policy group with $20 million initial budget"
-    excerpt: "Washington (CNN)A well-funded new group formed by former senior aides to then-President Donald Trump launched on Tuesday with the goal of permanently fusing the ex-President's \"America First\" agenda with the Republican Party. The newly minted nonprofit is ..."
-    publishedDateTime: 2021-04-13T23:27:00Z
-    webUrl: "https://www.cnn.com/2021/04/13/politics/trump-aides-policy-group/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Intelligence officials reassert their role post-Trump"
-    excerpt: "The last time the top three intelligence officials testified in front of Congress, they were publicly criticized by the President, who lashed out at them in a series of tweets calling them passive and naive and saying that they should \"go back to school."
-    publishedDateTime: 2021-04-14T09:12:00Z
-    webUrl: "https://www.cnn.com/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190225105707-01-cia-symbol-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pamela Brown fact-checks deficit growth during Donald Trump's presidency"
-    excerpt: "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden."
-    publishedDateTime: 2021-04-04T23:21:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 134
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "High number of Trump political appointees sought permanent jobs in final year"
-    excerpt: "The number of political appointees who sought permanent positions in the final year of former President Donald Trump’s term outpaced the number who did so under his predecessor during the same time frame, according to documents obtained by NBC News."
-    publishedDateTime: 2021-04-10T09:01:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/high-number-trump-political-appointees-sought-permanent-jobs-final-year-n1262234"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262234"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262234"
+  - title: "Army Corps of Engineers race to fix massive gaps in border levees left by Trump"
+    excerpt: "The U.S. Army Corps of Engineers are racing to fix massive gaps created while building Trump’s border wall. Residents in the Rio Grande Valley are vulnerable to dangerous flooding until they are fixed."
+    publishedDateTime: 2021-06-10T02:33:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-administration-fixing-holes-left-by-trump-in-border-levees-114575429651?playlist=mmlsnnd_bestofnbc-nnd"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114575429651"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114575429651"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 132
+    quality: 131
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3424219/201029-donald-trump-maga-rally-ac-828p_c93e3f4d695a7d9de6357a085cc195ee.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623290231331_ott_now_border_leves_210609_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Justice Thomas grumbles over Trump's social media ban"
-    excerpt: "The decision by social media giants Twitter and Facebook to ban former President Donald Trump from their platforms appears to have drawn the ire of one of America’s most prominent jurists: Justice Clarence Thomas. As the Supreme Court issued an order ..."
-    publishedDateTime: 2021-04-05T14:58:00Z
-    webUrl: "https://www.politico.com/news/2021/04/05/justice-clarence-thomas-trump-twitter-ban-479046"
+  - title: "Pence Says He May Never See Trump ‘Eye to Eye’ on Capitol Riot"
+    excerpt: "Former Vice President Mike Pence’s speech illustrated the careful balance he is aiming to strike in squaring the rhetoric of the Republican Party under former President Donald J. Trump while standing by his opposition to Mr."
+    publishedDateTime: 2021-06-04T16:03:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007798701/mike-pence-trump-jan-6-capitol-riot.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/03/us/politics/03new-washington-briefing-pence2/03new-washington-briefing-pence2-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "What Happened When Trump Was Banned on Social Media"
+    excerpt: "Since Facebook and Twitter banned him, Donald J. Trump, the former president, has posted statements online far less often. But some of his statements have traveled just as far and wide on social networks."
+    publishedDateTime: 2021-06-07T05:00:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/06/07/technology/trump-social-media-ban.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
     quality: 115
     images:
-      - url: "https://static.politico.com/5f/ed/e10ea6c847c28b17c494f425ea8f/210405-thomas-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Race to face Cuomo kicks off with two Trump allies"
-    excerpt: "Democrats reacted with a shrug to news of Lee Zeldin’s bid — and an eye roll for Andrew Guiliani, who was a White House aide under Trump."
-    publishedDateTime: 2021-04-08T23:35:00Z
-    webUrl: "https://www.politico.com/states/new-york/albany/story/2021/04/08/race-to-face-cuomo-kicks-off-with-two-trump-allies-1372320"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ff/f5/e268b95e4e468ae682fc9aa137da/ap18142588150929-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Gaetz-tied group threatens to sue reporters writing on his Trump relationship"
-    excerpt: "But Elmore’s email took umbrage with reports that the congressman had asked then-President Donald Trump for a pardon and was currently on the outs with the 45th president. “We are seeking an immediate print and on-air statement of retraction."
-    publishedDateTime: 2021-04-09T02:34:00Z
-    webUrl: "https://www.politico.com/news/2021/04/08/gaetz-reporters-trump-480534"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 112
-    images:
-      - url: "https://static.politico.com/dc/df/4ae0060d42db84acd39ceb55a189/210408-matt-gaetz-getty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2021/06/01/us/trump-social-media-ban-promo-1622577567013/trump-social-media-ban-promo-1622577567013-facebookJumbo-v3.png"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "GZnxaCner2aatS77n118P+mpAH+rtCsZfclsK/hToGgOlIK+u8jpVwP1OvSZ3nLknOBNtVHs45WtjhZbNaIzTB79FcxTx74bLI2jgtvM40AJgPJ6Ex601mBTDGXRYSlPtOWFQJnNSB+u14Qyhz5xeJtozGh5zO7ywQyv8SKM4BJs5aLPlzB+dNJplOVcrDAbQWqUL3hjk53pVgGe175SOK+jDw5UmPDfH98I0xgrudp70iiwaQGdB2qJqN0uAtejh7Shuny5PGpXrsF8Wz22u5F66WXNdgej/crlQsxVTk81TrKK0DKODB4C+iVq7/y5EmG7PsbROSYTLIVojLZj0Lvp340Rdz+Qs24y41d/UCI=;KderEvW3WjeQCZxFbLbr/g=="

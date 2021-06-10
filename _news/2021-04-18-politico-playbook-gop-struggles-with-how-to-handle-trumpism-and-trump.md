@@ -30,53 +30,85 @@ images:
     isCached: true
 
 related:
-  - title: "With Trump's backing, Walker freezes Senate GOP field in Georgia  "
-    excerpt: "Former President Donald Trump's backing of football great Herschel Walker to run for the Georgia Senate seat has been enough to effectively freeze the GOP field in place -- even though some Republicans privately worry the political neophyte might fizzle against Sen. Raphael Warnock in a high-stakes general"
-    publishedDateTime: 2021-04-22T16:50:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hnl9_MRoAQk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022-herschel-walker-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022-herschel-walker-donald-trump/index.html"
+  - title: "Ex-Trump aides form new policy group with $20 million initial budget"
+    excerpt: "A well-funded new group formed by former senior aides to then-President Donald Trump launched on Tuesday with the goal of permanently fusing the ex-President's \"America First\" agenda with the Republican Party.\n    \n"
+    publishedDateTime: 2021-04-13T23:26:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rMR8QFze9TI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421194818-01-herschel-walker-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fulton County DA has grown frustrated with Georgia Secretary of State's office cooperation in Trump probe, source says"
-    excerpt: "Investigators in Fulton County District Attorney Fani Willis' office have grown frustrated with the level of cooperation they are receiving from staffers in the Georgia Secretary of State's office regarding a probe into former President Donald Trump's efforts to influence the 2020 election, according"
-    publishedDateTime: 2021-04-23T21:35:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r7Rp_QUafiA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/georgia-trump-2020-election-probe-fulton-county/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/georgia-trump-2020-election-probe-fulton-county/index.html"
+  - title: "The Point: Donald Trump is building a shadow Republican Party"
+    excerpt: "On Monday, a cohort of former Trump administration officials launched the America First Policy Institute, a think tank organization aimed at promoting \"liberty, free enterprise, national greatness, American military superiority, foreign-policy engagement in the American interest, and the primacy of American"
+    publishedDateTime: 2021-04-14T16:00:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pmzrGKeX1BI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 151
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423171013-fani-willis-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190412085826-trump-for-lockhart-op-ed-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Vernon Jones, a Pro-Trump Republican, Will Challenge Kemp in Georgia"
-    excerpt: "Vernon Jones, a Democrat-turned Republican and onetime state representative who has called Georgia’s presidential election “fixed,” will oppose Gov. Brian Kemp, one of Donald Trump’s top targets."
-    publishedDateTime: 2021-04-15T20:25:00Z
-    webUrl: "https://www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.amp.html"
+  - title: "How the Trump era made redistricting more complicated"
+    excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes.\n    \n"
+    publishedDateTime: 2021-04-18T22:04:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/USwTatmtgTs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ex-Trump aides form new policy group with $20 million initial budget"
+    excerpt: "Washington (CNN)A well-funded new group formed by former senior aides to then-President Donald Trump launched on Tuesday with the goal of permanently fusing the ex-President's \"America First\" agenda with the Republican Party. The newly minted nonprofit is ..."
+    publishedDateTime: 2021-04-13T23:27:00Z
+    webUrl: "https://www.cnn.com/2021/04/13/politics/trump-aides-policy-group/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "100 Days Without Trump on Twitter: A Nation Scrolls More Calmly"
+    excerpt: "Democrats are breathing easier. Republicans are crying censorship. For all of the country’s news consumers, a strange quiet has descended after a four-year bombardment of presidential verbiage."
+    publishedDateTime: 2021-04-17T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/17/us/politics/trump-twitter.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/17/us/politics/trump-twitter.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/17/us/politics/trump-twitter.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/04/13/us/politics/00VernonJonesGeorgia/00VernonJonesGeorgia-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/04/18/us/politics/18trumptwitter/18trumptwitter-facebookJumbo.jpg"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
   - title: "North Carolina primary field builds, with or without Lara Trump"
     excerpt: "Former North Carolina Gov. Pat McCrory participates in a University of North Carolina Institute of Politics forum in Chapel Hill The Republican Senate primary in North Carolina has been essentially frozen for months as Lara Trump,"
@@ -94,97 +126,97 @@ related:
         width: 4371
         height: 2912
         isCached: true
-  - title: "Democrats move to reinstate methane rules loosened by Trump"
-    excerpt: "Democrats and environmentalists called the methane rollback one of the Trump administration’s most egregious actions to deregulate U.S. businesses."
-    publishedDateTime: 2021-04-28T14:12:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/democrats-move-reinstate-methane-rules-loosened-trump-n1265640"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265640"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265640"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/201908/n_tur_levine_190829_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Twitter’s revenue jumps 28 percent in its first post-Trump quarter."
-    excerpt: "Twitter’s permanent ban of former President Donald J. Trump did not appear to hurt activity. The company saw a 20 percent jump in daily active users who see ads in the first three months of the year."
-    publishedDateTime: 2021-04-29T20:05:00Z
-    webUrl: "https://www.nytimes.com/2021/04/29/business/twitter-growth-trump-ban.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/29/business/twitter-growth-trump-ban.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/29/business/twitter-growth-trump-ban.amp.html"
+  - title: "One America News Network Stays True to Trump"
+    excerpt: "A recent OAN segment said there were “serious doubts about who’s actually president,” and another blamed “anti-Trump extremists” for the Capitol attack."
+    publishedDateTime: 2021-04-18T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/04/29/business/29econ-brf-twitter/merlin_185400969_6e091f12-3465-4839-b22d-abacd0f6ea8b-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/04/05/business/00OAN-01/merlin_177598191_67fd0320-9bd9-4f06-b481-3683fd454302-facebookJumbo.jpg"
         width: 1050
-        height: 549
+        height: 550
         isCached: true
-  - title: "Trump's fight with Murkowski roils GOP with new Alaska Senate challenger emerging"
-    excerpt: "The first major GOP rift in the post-Trump era centers on Alaska Sen. Lisa Murkowski, the maverick Republican who has the strong backing of GOP leaders in Washington but has been targeted for defeat by former President Donald Trump and his closest confidantes over her vote to convict him for inciting the January 6 attack on the US Capitol."
-    publishedDateTime: 2021-04-19T11:01:00Z
-    webUrl: "https://www.cnn.com/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
+  - title: "How the Trump era made redistricting more complicated"
+    excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes."
+    publishedDateTime: 2021-04-18T18:04:00Z
+    webUrl: "https://www.cnn.com/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 130
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416231950-tump-murkowski-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "A Trump-McConnell power struggle creates landmines in GOP quest to retake Congress"
-    excerpt: "It’s forcing congressional leadership to tread lightly and avoid setting off an explosion that does real damage to the party."
-    publishedDateTime: 2021-04-22T20:55:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/trump-mcconnell-power-struggle-creates-landmines-gop-quest-retake-congress-n1264216"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264216"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264216"
+  - title: "Donald Trump Jr. takes on new role as top adviser inside the Trump family"
+    excerpt: "Former President Donald Trump has elevated his son Donald Trump Jr. to an unofficial new role inside his orbit as he weighs the idea of a comeback presidential bid in 2024 that would require him to maintain a vise grip on the Republican base for any chance of success."
+    publishedDateTime: 2021-04-20T09:30:00Z
+    webUrl: "https://www.cnn.com/2021/04/20/politics/donald-trump-jr-adviser/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 134
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419134709-donald-trump-jr-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "High number of Trump political appointees sought permanent jobs in final year"
+    excerpt: "The number of political appointees who sought permanent positions in the final year of former President Donald Trump’s term outpaced the number who did so under his predecessor during the same time frame, according to documents obtained by NBC News."
+    publishedDateTime: 2021-04-10T09:01:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/high-number-trump-political-appointees-sought-permanent-jobs-final-year-n1262234"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262234"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262234"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 129
+    quality: 132
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_15/3465028/210415-trump-mcconnell-jm-1432_f47bdedc9477cb88b301dfb643e269a2.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3424219/201029-donald-trump-maga-rally-ac-828p_c93e3f4d695a7d9de6357a085cc195ee.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "This pro-Trump Latino wants to lead Virginia"
-    excerpt: "Now, de la Peña, 65, who never sought elective office before, is using his life story to connect with voters as he seeks to become Virginia’s first ever Latino governor. He faces a crowded primary, which the Republican Party of Virginia will hold next month in an unassembled convention."
-    publishedDateTime: 2021-04-16T17:02:00Z
-    webUrl: "https://www.politico.com/newsletters/the-recast/2021/04/16/latino-trump-virginia-sergio-de-la-pena-492502"
+  - title: "‘A mini-Trump’: New York mayoral candidates look to take down Yang"
+    excerpt: "Everybody’s ganging up on Andrew Yang. The New York City mayor’s race has grown more vicious in recent weeks — and the favorite target is Yang, who has come under attack for everything from his basic income and tax plans to his employment history and his second home upstate."
+    publishedDateTime: 2021-04-07T23:57:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/04/07/a-mini-trump-new-york-mayoral-candidates-look-to-take-down-yang-1371914"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/6f/30/8635360e44c49f7a766287c92f14/sergio-de-la-pena.png"
-        width: 700
-        height: 466
+      - url: "https://static.politico.com/5e/95/d37a7ce14b17857aa856828419c8/gettyimages-1310969538-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "ILLINOIS GOP’s ASTERISK — FIRST AD for 2022 CYCLE — REMAP MAY HAVE A TRUMP FACTOR"
-    excerpt: "The Illinois GOP has never been a fundraising juggernaut, and yet the first quarter numbers were still pretty bleak. For the first quarter, Illinois GOP reported receiving a little more than $115,000 in donations,"
-    publishedDateTime: 2021-04-19T12:21:00Z
-    webUrl: "https://www.politico.com/newsletters/illinois-playbook/2021/04/19/illinois-gops-asterisk-first-ad-for-2022-cycle-remap-may-have-a-trump-factor-492515"
+  - title: "Race to face Cuomo kicks off with two Trump allies"
+    excerpt: "Democrats reacted with a shrug to news of Lee Zeldin’s bid — and an eye roll for Andrew Guiliani, who was a White House aide under Trump."
+    publishedDateTime: 2021-04-08T23:35:00Z
+    webUrl: "https://www.politico.com/states/new-york/albany/story/2021/04/08/race-to-face-cuomo-kicks-off-with-two-trump-allies-1372320"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 110
+    quality: 115
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://static.politico.com/ff/f5/e268b95e4e468ae682fc9aa137da/ap18142588150929-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "LBqLrszsUZgBTRfyWMuaEveAbSeXbz0reIRMBFWCi7C47nXPWcAXru7KejkMu47clCLbuBWnzvjY80LOJpua834lcK4kePHad1eidf5qINHeRfATzJsxfb01KBCk0Xe5jxGjuCnhdyuP4p2dXfank4FbQ+B+0i7mdDIIAbTWIShrPOI/DWRMMertaWFOoDGG5NpYKr9ifFs332vzdduwFhxgAWwSZxP1hidJPZDrBu3DXn6S3zOpnEX4nwqbDyeCSy/Jde+KqOnqYEBd1yBX8V2I7k9k8yodyY9aegqlaWPyOIWjDrh0PzsuXUuCsiEcimk0s14DiFcrc++B27MTvk+RCfawmeRKtCJX1ff3yzW8zCbssnXVVo0YRuDRjLaxuG7BjDCAZ9ie7dvXa2yIvwRjSQhITtGlVADxHC4vrPsyDV2LPiKeP+uKTHu4p7kD95TVs8ghmfjrm0HH7AsMGC3YlglMPl9gLNKw+0UsmHapWS4bjFhe94srygAAb33NXpERXacMuwbudXPtB3oouA==;pJkBXQQlzCmoRjCHTe6Nlg=="

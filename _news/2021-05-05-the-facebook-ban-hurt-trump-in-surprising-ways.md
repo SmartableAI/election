@@ -32,6 +32,70 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook says Trump now suspended until at least January 2023"
+    excerpt: "Facebook announced Friday that former President Donald Trump would be suspended from its platform until at least January 7th, 2023 -- two years from when he was initially suspended.\n    \n"
+    publishedDateTime: 2021-06-04T17:45:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Q51gWweaho/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/tech/facebook-politicians/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/tech/facebook-politicians/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604130847-01-trump-phone-june2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Cheney: Trump inciting January 6 riot 'the most dangerous thing' a president has done"
+    excerpt: "Wyoming Republican Rep. Liz Cheney accused former President Donald Trump of having committed the worst violation of a president's oath of office by inciting the January 6 Capitol insurrection -- and taking a jab at House Minority Leader Kevin McCarthy over his subsequent visit to Trump at Mar-a-Lago.\n"
+    publishedDateTime: 2021-06-07T03:01:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sPJZb6-02gg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/cheney-trump-dangerous-thing-axe-files/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/cheney-trump-dangerous-thing-axe-files/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514181348-cheney-tapper-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New Senate report to detail security failures on January 6 but will fuel fight for probe over Trump's role"
+    excerpt: "Two Senate committees plan to release a flurry of recommendations in a thorough 100-page-plus report about what went wrong on January 6, but they will stop short of examining former President Donald Trump's role in the run-up to the attack on the US Capitol, which is likely to fuel the partisan debate"
+    publishedDateTime: 2021-06-03T13:24:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iT2k4vxDlaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/senate-report-january-6-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/senate-report-january-6-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210321231141-capitol-hill-riot-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senate report reveals new details about security failures ahead of January 6 attack but omits Trump's role"
+    excerpt: "A new Senate report reveals previously unknown details about the stunning security breakdowns ahead of the January 6 US Capitol attack, adding an authoritative emphasis to previous evidence that there were massive intelligence failures, critical miscommunications, and unheeded warnings that ultimately"
+    publishedDateTime: 2021-06-08T11:12:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZF8wwb1P4Pk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/us-capitol-riot-senate-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/us-capitol-riot-senate-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131171546-capitol-riots-fbi-tips-family-friends-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump faces a narrow path to victory against Facebook suspension"
     excerpt: "If former President Donald Trump manages to get back on Facebook and Instagram this month, his win will rest on a series of close calls. Facebook’s oversight board is expected to rule in the coming weeks on whether to uphold or overturn Trump’s ..."
     publishedDateTime: 2021-04-09T22:56:00Z
@@ -45,22 +109,6 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/c9/e9/f0ff0b934e189519ffd7493b3913/210409-trump-phone-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Old Trump health team rivalries resurface in Texas House race"
-    excerpt: "A senior Trump health official’s bid to become the first administration alumnus elected to Congress is running into resistance from an unlikely source: his own former colleagues. Brian Harrison, a chief of staff to former Health and Human Services ..."
-    publishedDateTime: 2021-04-12T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/9f/95/6083ce4d4093a63bafe1c7155074/gettyimages-906623620-1.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -79,70 +127,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/rockcms/2021-05/1235/210503-donald-trump-al-1047-c2648d_f77920af1b4dd0f14ea5d04f2a53a071db3c70db.jpg"
         width: 2500
         height: 1802
-        isCached: true
-  - title: "Will Trump be allowed back on Facebook? This board will decide"
-    excerpt: "The former president had his Facebook account cut off after the insurrection. But on Wednesday, Facebook's new oversight board will announce if he'll be allowed to use the platform again."
-    publishedDateTime: 2021-05-04T10:55:00Z
-    webUrl: "https://www.cnn.com/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200717085352-zuckerberg-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Facebook Oversight Board Set to Rule on Trump Ban"
-    excerpt: "The panel of about 20 people, including academics and political leaders, will decide whether the company’s ban of former President Donald J. Trump will remain in effect."
-    publishedDateTime: 2021-05-05T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/05/05/technology/What-Is-the-Facebook-Oversight-Board.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/05/technology/What-Is-the-Facebook-Oversight-Board.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/05/technology/What-Is-the-Facebook-Oversight-Board.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/05/business/05fbboard-explainer/05fbboard-explainer-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Lawmakers slam Facebook’s Oversight Board decision to uphold Trump ban."
-    excerpt: "Lawmakers lashed out at the Facebook Oversight Board’s ruling on Wednesday to uphold the social network’s ban on former President Donald J. Trump, at least for now. Driving the discontent was that the Oversight Board,"
-    publishedDateTime: 2021-05-05T15:41:00Z
-    webUrl: "https://www.nytimes.com/2021/05/05/technology/facebook-oversight-board-decision-reaction.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/05/technology/facebook-oversight-board-decision-reaction.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/05/technology/facebook-oversight-board-decision-reaction.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/05/business/05Economy-briefing-cruz/merlin_180135762_0aa0f7d2-654f-4aa2-b483-cbe7f1653788-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "British Political Veteran Steers Facebook’s Trump Decision"
-    excerpt: "Trump from its service in January, Mark Zuckerberg, the chief executive, defended the decision in a Facebook post the morning after the siege of the Capitol. But the first draft was written the night before by Nick Clegg,"
-    publishedDateTime: 2021-05-05T20:42:00Z
-    webUrl: "https://www.nytimes.com/2021/05/05/technology/facebook-trump-nick-clegg.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/05/technology/facebook-trump-nick-clegg.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/05/technology/facebook-trump-nick-clegg.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/06/business/06clegg/05clegg-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Facebook extends Trump suspension for two years"
     excerpt: "Facebook announced a two-year ban of former President Donald Trump from its platforms, including Instagram, until at least January 2023."

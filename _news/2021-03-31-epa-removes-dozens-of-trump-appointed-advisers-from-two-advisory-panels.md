@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/environmental-protection
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/environmental-protection-agency-trump-appointees/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 335
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pentagon announces new policies to abolish Trump administration's transgender military ban"
+    excerpt: "The Pentagon has announced new policies to abolish the Trump administration's ban on transgender troops serving in the US military following a 60-day review initiated after President Joe Biden signed an executive order repealing the ban shortly after he took office in January.\n    \n"
+    publishedDateTime: 2021-03-31T20:34:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/btC90CjyEOk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/transgender-military-ban-policies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/transgender-military-ban-policies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House tells Democratic investigators it no longer has Trump White House Capitol attack documents"
     excerpt: "The White House says it no longer has custody of the documents House Democratic investigators sought to shed light on the inner workings of then President Donald Trump's top aides in the lead up to, and on the day of, the January 6 attack on the US Capitol, according to a letter obtained by CNN.\n   "
     publishedDateTime: 2021-04-02T16:26:19Z
@@ -78,6 +94,38 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/31/world/31xp-trumpsuit-01/31xp-trumpsuit-01-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "EPA empties out science panels stacked with Trump picks"
+    excerpt: "This is the latest attempt by the Biden administration to reverse what officials have described as rampant political interference in key decisions under Trump and distortion of good data and evidence."
+    publishedDateTime: 2021-03-31T17:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/epa-empties-out-science-panels-stacked-trump-picks-n1262615"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262615"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262615"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3461085/210331-michael-regan-se-1152a_a21758672e7ef354318c90435886231b.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump sued by two Capitol Police officers"
+    excerpt: "Two officers accuse Donald Trump of inciting the January 6 riot, during which they were injured, and have sued him for damages. Brian Todd reports."
+    publishedDateTime: 2021-04-01T04:14:00Z
+    webUrl: "https://www.cnn.com/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401000836-exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot-00001323-super-tease.png"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Supreme Court dismisses lawsuit over Trump's Twitter account"
     excerpt: "WASHINGTON — The Supreme Court on Monday tossed out a lawsuit over former President Donald Trump's Twitter account, after the Justice Department said the end of Trump's presidency made the case a dead letter. The case arose after seven people responded ..."

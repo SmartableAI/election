@@ -80,6 +80,20 @@ related:
         width: 1929
         height: 2894
         isCached: true
+  - title: "Justice Thomas grumbles over Trump's social media ban"
+    excerpt: "The decision by social media giants Twitter and Facebook to ban former President Donald Trump from their platforms appears to have drawn the ire of one of America’s most prominent jurists: Justice Clarence Thomas. As the Supreme Court issued an order ..."
+    publishedDateTime: 2021-04-05T14:58:00Z
+    webUrl: "https://www.politico.com/news/2021/04/05/justice-clarence-thomas-trump-twitter-ban-479046"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/5f/ed/e10ea6c847c28b17c494f425ea8f/210405-thomas-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "z+X9gDO/+9qlJ/Np1et4kZESPg1l6aKohMdyWN2z/nYWFfKslaILnPRV9JN7yRJgb1+eG8pCmQu2E72bDlxGLHUd2q3lhGuAO5jy0gtHB/0+eJNMFDEqAMR3fh69s83gavMFCpMyQdyIsxblyRLH3COldBg/mF8mNScribQXB5fl9ESh5f8lpYJn5bS1I0d8Wc3mshhBH3O96UooobDa/x0zS6O5UeCrUQ+7lIpNKYiTIA/KW/TUca/mkyXB4NCLlHuAiwOysJMwyHDAnIyVBEd8rRfwdMwNghzDU8SZyC7JK5cNxPMtWF3P+hyo5roD/lSKaShMiUepG0kLrem0HoPYdirRQqf3Z+xxgM9mjgO2fMnh/SOi5eud/kiX+FmLu6IR6kcoI1fNydwW6fKbDbxOTM6OVB4+nElNWHH2l+EHX27g6bm4AiiU8+ljR/Pba8SHVCMMk9AViJaEfpsMB2o45rUexkhfH6CR2L4ZLRuzf4kBXtcu8jTqwBQSvShspjLATzskYcGVFiGA8dukAQ==;zd+1VMU+i/wZZhVEr8NlnQ=="
 ---

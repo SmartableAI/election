@@ -287,22 +287,6 @@ related:
         width: 2500
         height: 1679
         isCached: true
-  - title: "At Once Diminished and Dominating, Trump Prepares for His Next Act"
-    excerpt: "The former president speaks on Saturday to the North Carolina Republican convention, as he resumes political speeches and rallies."
-    publishedDateTime: 2021-06-05T13:56:00Z
-    webUrl: "https://www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/05/us/politics/donald-trump-republican-convention-speech.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05trump-1/05trump-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump scraps short-lived blog that was created in wake of social media ban"
     excerpt: "The former president, who is set to address the North Carolina Republican Party Saturday, wasn't getting much traction with his new outlet."
     publishedDateTime: 2021-06-02T15:59:00Z

@@ -611,6 +611,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Women and youth a top focus of Vice President Kamala Harris' first visit to Mexico"
+    excerpt: "U.S. Vice President Kamala Harris' talking points during Guatemala, Mexico trip includes discussing vulnerable populations, namely women and youth."
+    publishedDateTime: 2021-06-07T21:00:00Z
+    webUrl: "https://www.indystar.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7569783002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7569783002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/24/PTX1/369c7658-4220-438f-a5b2-04e1016fa226-Vaccination_Juarez1039.JPG?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Women and youth a top focus of Kamala Harris' first visit to Mexico as vice president"
     excerpt: "The El Paso Times is choosing to use a pseudonym since she isn't authorized by her work to speak to the press. U.S. Vice President Kamala Harris is in Guatemala today, her first diplomatic visit abroad since assuming her current post. Her next stop is ..."
     publishedDateTime: 2021-06-07T13:13:00Z

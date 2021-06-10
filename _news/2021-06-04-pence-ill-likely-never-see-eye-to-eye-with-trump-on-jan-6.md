@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-ja
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980"
 type: article
 quality: 150
-heat: 630
+heat: 670
 published: true
 
 provider:
@@ -137,6 +137,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/06/bfe356ef-7725-46cf-a838-b7c83210fd6d/thumbnail/1200x630/23c58408b9e514c7ad8a7646632eefc9/cbsn-fusion-donald-trump-returns-political-stage-north-carolina-speech-analysis-2021-06-06-thumbnail-729475-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Legal storm clouds gather over Donald Trump’s future"
+    excerpt: "As the president hints at running for president once again, his future could lie in the courtroom, not the Oval Office"
+    publishedDateTime: 2021-06-08T15:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/08/trump-legal-threat-investigations-courts"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/08/trump-legal-threat-investigations-courts"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/trump-legal-threat-investigations-courts"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d7f69cd460a3033fa5d5e2d7c45813e907f45e6b/0_107_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a6b6469795875fd5b68d8df85ebd83cd"
+        width: 600
+        height: 360
         isCached: true
   - title: "Man impersonated Trump relatives online to trick donors, prosecutors say"
     excerpt: "Joshua Hall of Pennsylvania allegedly created fake online identities for ex-president’s brother and son"
@@ -377,6 +393,20 @@ related:
       - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
         width: 438
         height: 392
+        isCached: true
+  - title: "Speaker Donald Trump? It could happen."
+    excerpt: "Could former President Donald Trump be heading for the House of Representatives? In this latest episode of The Point, CNN's Chris Cillizza discusses the possibility of Trump making a run"
+    publishedDateTime: 2021-06-10T14:14:00Z
+    webUrl: "https://www.djournal.com/news/national/speaker-donald-trump-it-could-happen/video_55c877f1-b4c1-555a-8315-a5ef4b8885d5.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/5c/55c877f1-b4c1-555a-8315-a5ef4b8885d5/60c222b4357b0.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
         isCached: true
   - title: "NJ Republicans Wrestle With Devotion to Trump in Primary"
     excerpt: "New Jersey Republicans decide Tuesday if their standard bearer to take on Democratic Gov. Phil Murphy will be a strong supporter of Donald Trump or a well-funded, establishment-backed candidate who hardly mentions the former president."

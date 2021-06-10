@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-electio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-election-fraud/index.html"
 type: article
 quality: 189
-heat: 249
+heat: 229
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "As Trump readies summer rallies and speeches, allies worry he's stuck in the past"
-    excerpt: "A cadre of aides and advisers working to tame Donald Trump's obsession with the 2020 election, including his fixation with debunked voter fraud theories and ballot audits, are realizing the task at hand is much tougher than they thought.\n    \n"
-    publishedDateTime: 2021-06-04T11:00:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6zUDM5TouqA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603151659-donald-trump-cpac-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

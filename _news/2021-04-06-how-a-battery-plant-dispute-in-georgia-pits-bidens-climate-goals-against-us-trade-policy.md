@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kemp Seizes on Georgia Voting Law to Try to Win Back Trump and His Base"
+    excerpt: "After resisting Donald Trump’s demands to overturn the state’s election results, Gov. Brian Kemp was an outcast in his own party. Now he’s embraced the state’s new voting bill as a way to rebuild his standing."
+    publishedDateTime: 2021-04-08T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/00kemp1/00kemp1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "1XJcgLpNv/g7NZ4/BQNEJ7RSNXS5Fu5PUPsi8V4XKn9MeS0NbSQ4ENpGqRlbxLTH0089nz0uC16gNR902n/B4Xfut1mZ9E0RWSev48nTV2u4fFa8J+zdLfVMi7954VciDBRJNVoF8kdL4oA4TSbL5UILWfbwS4qV8LRXOri6+UVYhQFMb2fbH2bgoTG3l/zAtQcsiwiKWkI0fkmC1iu3YyaiVSvYXBUDXGpnxHfpsR4WKZHz0SuZRisEDNBOEn/eZn3VU48E8P1lAIG5ASOobePqmxqmQqK1hvzZfHDgbV0nu5atMKwNz4rjX5tQGhzT2iQPIKLd1jOw8MgrzcNeahIiMAZqSV/73TQxBuuFTqaeireD6UhvPEknEAHgvpm6Jr3NBWgcJX3rufQCa1bplppCmHtTqQmCjDjKprq2qXmJEmx4rl+cU0co6UgDu0Ll37zYulW9P4Eef8gpA01UkTYlQExbJQeMwXxfc6nwqNh5AaHyWzQWYbD3LVtcv0R26yGh9F0anrr9voTGiFKphg==;Sub6cixaIXb8hCDoJwAthQ=="
 ---

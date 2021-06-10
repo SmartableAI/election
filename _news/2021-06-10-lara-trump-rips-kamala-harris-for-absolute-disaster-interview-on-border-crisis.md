@@ -320,6 +320,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "First lady says Biden 'over-prepared' for Europe trip, says they are 'bringing love from America'"
+    excerpt: "First lady Jill Biden on Thursday said President Biden is \"over prepared\" for his first overseas trip since taking office, ahead of summits and face-to-face meetings in Europe with allies and other world leaders."
+    publishedDateTime: 2021-06-10T17:46:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QmO4PblCivM/first-lady-biden-over-prepared-europe-trip"
+    ampWebUrl: "https://www.foxnews.com/politics/first-lady-biden-over-prepared-europe-trip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-biden-over-prepared-europe-trip.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Harris tells Guatemalan president that migration is a top priority, after he blames US for surge"
     excerpt: "Vice President Kamala Harris told the president of Guatemala on Monday that tackling migration is a top priority for both countries, as she made her first visit to the region -- and Guatemala’s president blamed the US for the migrant surge at the border"
     publishedDateTime: 2021-06-07T17:03:15Z
@@ -601,6 +617,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "631RJ6yQPaX+cOwXhS8Yp6hPAp/64Chm5rH1iAzCA+DOzvfu4uk1GL6De/bXBT8rBkTeEUsRdNa0zln9DXBbpjCiC4iXnuJjq2L/DxgApRavO9M65qOujujNPgWIsDpUhaZfzXZNcgqIrbGGEKbQhyynYyWZZL8c9cMenPydCknc4VMr+UibYvF+nHVZ7koUVphstFoLX/B4RmGyQdpqp5huQPS0jMVcpWjT1/XIccWISAblEW6Zc2pADHzWnGqHPJUwdb3Fc2Uk/r2wYnltS2tPcoRraiVsbzloxeDlmfySmCTL0AOJgbq2YX10ZrLrlII/OQOVA0LJiPBZGl2XGOS0S3+cTfhJDAP+zkjCXxc=;LsE4INpQa+1ax3DhUeYLqQ=="
+secured: "gwwxz2LNGBayxow/ey/tPMe8HOsSZL5TpqbkE0JZfxJkWCG0jtHFh08s0Yi9P0yaNeaUkuuiWInfBaaiKiPaur8lrVv/ACu7CN1VMK+N9x3hu+LEd3WKjRN2E5BQWJEfeZZvxrdLniijemAhLXOvgg7Q6f0ZERshyDK4csXBPHuE1iToG8U5/i/G0cIkmHnoCF5btp412DIuk3ZvYfKpC3GqWsvxyce6UVFz0ooATUEh3OXrw8m5/hY5Ckex5o8Z3JzsJ/ybnCSqfhYSiLRotL/yQr8ykdZPIgoSFMT2YtbQe7LIxeM3Bw6NDZUpVQhRXpzqGbX3pipmQRBuOgmlaVud0qVrbddkjbR6hiuF9+kRdAe2HGjFYx3HN0EIJiSpQ+MFlvTJrraw64PulTr97ZhXBz1tXyahEiNyYUKRAPTuEBVZvge+IG0MyET85ityIxwYaTGR2lrwssJUFvWkIs2eLHNaeOl31ZBi6Np+MTF4jGJ89hYSguvchArUlM+d9XaPnbrMXVhDZhAq6STdoA==;fMkl1uhqVzkEt+r4umaQ6A=="
 ---
 

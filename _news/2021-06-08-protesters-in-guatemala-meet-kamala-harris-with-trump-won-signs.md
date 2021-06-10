@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-tru
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1"
 type: article
 quality: 140
-heat: 1200
+heat: 1220
 published: true
 
 provider:
@@ -596,6 +596,22 @@ related:
     quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/06/USAT/ce7eb9ce-d915-47f0-b7f1-2da297f50042-AP_US_Harris_1.jpg?auto=webp&crop=5322,2994,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Women and youth a top focus of Vice President Kamala Harris' first visit to Mexico"
+    excerpt: "U.S. Vice President Kamala Harris' talking points during Guatemala, Mexico trip includes discussing vulnerable populations, namely women and youth."
+    publishedDateTime: 2021-06-07T21:00:00Z
+    webUrl: "https://www.indystar.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7569783002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7569783002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/24/PTX1/369c7658-4220-438f-a5b2-04e1016fa226-Vaccination_Juarez1039.JPG?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

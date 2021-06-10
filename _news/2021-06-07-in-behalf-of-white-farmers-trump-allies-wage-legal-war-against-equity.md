@@ -64,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "As Trump readies summer rallies and speeches, allies worry he's stuck in the past"
-    excerpt: "A cadre of aides and advisers working to tame Donald Trump's obsession with the 2020 election, including his fixation with debunked voter fraud theories and ballot audits, are realizing the task at hand is much tougher than they thought.\n    \n"
-    publishedDateTime: 2021-06-04T11:00:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6zUDM5TouqA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603151659-donald-trump-cpac-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "nDGVaLHbgYWWnS8ApgvbcSRGh1frdG3sCL53Dwtke2JiiiorXYDNxgBFXFy6HD/4cP+JzDo/9nnNwOoLrdALs1gOrCYxKK8oG7ajjM2oPQjM11x+AkbCpkRupMY3ys5XmnQXg9ta7gA8L9vlbVDQNcKhmItsq9y+pLloKByq2du39tiotCbq8bszUUF6Q6v+etiQQdLXeoyXBV6QkqN+Z0Czb15hy5P/x8JucLG4fO8t/168iL5QnCt/muw8U0nO0GuKN8NvY3B0w9eC/ncjyuWCsKRG3vCUq56U6z96nY7lIdtwd3E4RMu13fuiKMgnGgExpGOBkc5zqD4b7H+cMYNTybjjQXTyGWvvKSoKfEDRSLPNZIa8f70zOEaQzXzHXX/lmU6HGbLVFmRoZUzIAVmImk72cLLSW4F26pPMvxA4c+4T3U6EwvbEbM9ULps7NyAwWyqw889SEuIvnYFOqz9HKaNUnTN7l8mad5PRiIl0p0nQI1FzwuBWWqj9CKJP2hedrJzK4aT8/QrLf3PaoQ==;mr5a44HUOh6pILIVkA9M4A=="
 ---
