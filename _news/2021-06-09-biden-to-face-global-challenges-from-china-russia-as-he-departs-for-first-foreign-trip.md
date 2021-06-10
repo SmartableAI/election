@@ -379,6 +379,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tomi Lahren blasts Kamala Harris for failing to visit southern border"
+    excerpt: "Tomi Lahren blasted Kamala Harris for her trip to Latin America and the Biden administration’s border policies Wednesday on Fox Nation’s \"Final Thoughts.\" \"Vice President Kamala Harris completed her first photo op – I mean international trip to Guatemala and Mexico this week to discover the ‘root causes’ of the border crisis,"
+    publishedDateTime: 2021-06-10T04:35:00Z
+    webUrl: "https://www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border"
+    ampWebUrl: "https://www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b5947c-8552-4d6d-9763-85ee44edcf7e/4191dba7-60a9-4e8e-a245-8c009da4f2bb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris Tells Migrants Not to Come to U.S., Lays Out Anti-Graft Steps"
     excerpt: "Vice president discusses with Mexican and Guatemalan leaders how to stem the immigration surge at the U.S. southern border during her first trip abroad in the Biden administration."
     publishedDateTime: 2021-06-08T18:20:00Z

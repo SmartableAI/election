@@ -1,33 +1,33 @@
 ---
 category: news
-title: "President Biden, first lady to visit former President Jimmy Carter in Georgia this week"
-excerpt: "Biden was a young Delaware senator and Carter ally during the Georgian’s term in the White House, from 1977 to 1981."
-publishedDateTime: 2021-04-27T20:49:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/04/27/president-biden-visit-former-president-jimmy-carter-week/4861359001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/04/27/president-biden-visit-former-president-jimmy-carter-week/4861359001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4861359001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4861359001"
+title: "Biden embraces a Trump policy in backing Arab-Israeli deals"
+excerpt: "The Biden administration is laying the groundwork for a renewed push to encourage more Arab countries to sign accords with Israel, and working to strengthen existing deals"
+publishedDateTime: 2021-06-10T04:30:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/biden-embraces-trump-policy-backing-arab-israeli-deals-78189429"
+webUrl: "https://abcnews.go.com/US/wireStory/biden-embraces-trump-policy-backing-arab-israeli-deals-78189429"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-embraces-trump-policy-backing-arab-israeli-deals-78189429"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-embraces-trump-policy-backing-arab-israeli-deals-78189429"
 type: article
-quality: 117
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/04/27/USAT/bfc1809d-119b-4e06-8015-609e63865332-AP080826032783.jpg?auto=webp&crop=2345,1320,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s.abcnews.com/images/US/WireAP_c05ea64d05c24c2f9a0d4eec2a5876d7_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -302,22 +302,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1812480/joe-biden-extends-trumps-china-executive-order.jpg"
         width: 2500
         height: 1668
-        isCached: true
-  - title: "Biden embraces a Trump policy in backing Arab-Israeli deals"
-    excerpt: "The Biden administration is laying the groundwork for a renewed push to encourage more Arab countries to sign accords with Israel, and working to strengthen existing deals"
-    publishedDateTime: 2021-06-10T04:30:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/biden-embraces-trump-policy-backing-arab-israeli-deals-78189429"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-embraces-trump-policy-backing-arab-israeli-deals-78189429"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-embraces-trump-policy-backing-arab-israeli-deals-78189429"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_c05ea64d05c24c2f9a0d4eec2a5876d7_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
@@ -1268,6 +1252,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Biden, first lady to visit former President Jimmy Carter in Georgia this week"
+    excerpt: "Biden was a young Delaware senator and Carter ally during the Georgian’s term in the White House, from 1977 to 1981."
+    publishedDateTime: 2021-04-27T20:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/27/president-biden-visit-former-president-jimmy-carter-week/4861359001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4861359001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4861359001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/27/USAT/bfc1809d-119b-4e06-8015-609e63865332-AP080826032783.jpg?auto=webp&crop=2345,1320,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Biden touts direct relief for businesses with Restaurant Revitalization Fund"
     excerpt: "President Joe Biden called the newly launched Restaurant Revitalization Fund \"badly needed\" Wednesday as he continues to tout the implementation of the American Rescue Plan. The application process for the $28."
     publishedDateTime: 2021-05-05T19:19:00Z
@@ -2020,6 +2020,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "ELCKOblIJOAXJJTmSP08ktua6Se1y4aLiyFz09r6CcxMtJLA9r48QRfc/LjIXyoXml8FSBwQ+3R3x/LDUSVFLR8pAC9/aC35U5wrWducwhfUvC/ygnWddlqEUiO5ROxg+5Ow88YinU4jD7Xq8H6kSW9hdXrr+GhmFJlNMQwXmZadbalKKHKn9aHL/4Qk5o1JvPcsq41bqodNQtQ96MLHhrjEl5nzjdnWOhvfdKD+rg4CHxHFcsdPfN7D2q1m6U/P+8GHzzX7J2mU+rO8zgmY+Wiea2DXsOaGflgkQRZATy9w6gWyF8sHC+kXbGBv7Wrmow+rsge3fMshMB+b3ljTIcP7mi11K5pDDXRffvCeyurZ8GFAdb0Wedc3qvfpk98q+Dfxw6v/GLSSdVIzs26jIeUQZXiiAFuM+pFYDg0oeUNnHhsouHlPu8eLX8R0eypCPJnRGnQF0Dw33JSLRR3yHqM/LczK3yfJAyzQT+SwN14JWkYBZAyKE3/TzLZorA+yQjiqtcQ0oEgw0gl09uO5bA==;/zTuZUmps6ulq6N0SFvTPw=="
+secured: "wcJ8nYSDzpuQ6uBD4xenTkykf6AkNu/C4YzH0VuXcE5C9zUIG8Rkq+bYxUE8PxyS+/OL2Rsn5PsW0XTDpRQpcG3J8KWmyO9H4rRviH88zYCkaaRXZiAbtA2vceGCjU/hI62ThtO6VPuticUHvd2c2YCkt8b4qi6CT92IT0R7f5crRnkTblIaQV/BLLCUtRBTzlcMM/FWfxmWL4Fp8zVNz3EVFZ3yq19n58ZKyt4hUp0p1eOKpqIJAu8QHt+ozWGJBCiNpII1H6C4ucGUkgC44WEgxjLoRigdG11VkNswd7+UkVjWjPSokczwmdCHwhwVqzZxC+BCsRzbXxs7fuNjNumvrnMAffpl7F5tYjzwjZM=;/AvK4ku3O8Ew7TlxwRgA/w=="
 ---
 

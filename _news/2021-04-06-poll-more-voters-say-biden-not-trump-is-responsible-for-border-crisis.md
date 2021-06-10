@@ -303,6 +303,22 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Biden embraces a Trump policy in backing Arab-Israeli deals"
+    excerpt: "The Biden administration is laying the groundwork for a renewed push to encourage more Arab countries to sign accords with Israel, and working to strengthen existing deals"
+    publishedDateTime: 2021-06-10T04:30:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-embraces-trump-policy-backing-arab-israeli-deals-78189429"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-embraces-trump-policy-backing-arab-israeli-deals-78189429"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-embraces-trump-policy-backing-arab-israeli-deals-78189429"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_c05ea64d05c24c2f9a0d4eec2a5876d7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden keeps Trump-era cap on refugee admissions, breaking earlier pledge"
     excerpt: "Instead, the president is adjusting the allocation limits and lifting restrictions on resettlements from Somalia, Syria and Yemen"
     publishedDateTime: 2021-04-16T17:19:00Z

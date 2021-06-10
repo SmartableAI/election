@@ -293,6 +293,22 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Biden embraces a Trump policy in backing Arab-Israeli deals"
+    excerpt: "The Biden administration is laying the groundwork for a renewed push to encourage more Arab countries to sign accords with Israel, and working to strengthen existing deals"
+    publishedDateTime: 2021-06-10T04:30:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-embraces-trump-policy-backing-arab-israeli-deals-78189429"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-embraces-trump-policy-backing-arab-israeli-deals-78189429"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-embraces-trump-policy-backing-arab-israeli-deals-78189429"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_c05ea64d05c24c2f9a0d4eec2a5876d7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Kamala Harris Tells Migrants Not to Come to U.S., Lays Out Antigraft Steps"
-excerpt: "The vice president discussed with Mexican and Guatemalan leaders how to stem the immigration surge at the U.S. southern border during her first trip abroad in the Biden administration."
-publishedDateTime: 2021-06-08T23:33:00Z
-originalUrl: "https://www.wsj.com/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
-webUrl: "https://www.wsj.com/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
-ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
+title: "Tomi Lahren blasts Kamala Harris for failing to visit southern border"
+excerpt: "Tomi Lahren blasted Kamala Harris for her trip to Latin America and the Biden administration’s border policies Wednesday on Fox Nation’s \"Final Thoughts.\" \"Vice President Kamala Harris completed her first photo op – I mean international trip to Guatemala and Mexico this week to discover the ‘root causes’ of the border crisis,"
+publishedDateTime: 2021-06-10T04:35:00Z
+originalUrl: "https://www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border"
+webUrl: "https://www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border"
+ampWebUrl: "https://www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border.amp"
 type: article
-quality: 133
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
+  name: Fox News
+  domain: foxnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-350498/social"
-    width: 1280
-    height: 640
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b5947c-8552-4d6d-9763-85ee44edcf7e/4191dba7-60a9-4e8e-a245-8c009da4f2bb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -396,25 +396,25 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tomi Lahren blasts Kamala Harris for failing to visit southern border"
-    excerpt: "Tomi Lahren blasted Kamala Harris for her trip to Latin America and the Biden administration’s border policies Wednesday on Fox Nation’s \"Final Thoughts.\" \"Vice President Kamala Harris completed her first photo op – I mean international trip to Guatemala and Mexico this week to discover the ‘root causes’ of the border crisis,"
-    publishedDateTime: 2021-06-10T04:35:00Z
-    webUrl: "https://www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border"
-    ampWebUrl: "https://www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b5947c-8552-4d6d-9763-85ee44edcf7e/4191dba7-60a9-4e8e-a245-8c009da4f2bb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Kamala Harris Tells Migrants Not to Come to U.S., Lays Out Anti-Graft Steps"
     excerpt: "Vice president discusses with Mexican and Guatemalan leaders how to stem the immigration surge at the U.S. southern border during her first trip abroad in the Biden administration."
     publishedDateTime: 2021-06-08T18:20:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-350498/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Kamala Harris Tells Migrants Not to Come to U.S., Lays Out Antigraft Steps"
+    excerpt: "The vice president discussed with Mexican and Guatemalan leaders how to stem the immigration surge at the U.S. southern border during her first trip abroad in the Biden administration."
+    publishedDateTime: 2021-06-08T23:33:00Z
     webUrl: "https://www.wsj.com/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
     ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-tells-migrants-not-to-come-to-u-s-lays-out-anti-graft-steps-11623180032"
@@ -571,6 +571,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "+VouqZoR3Ly1h6JIgKJG03cUysM/ODWdPW37ElLcGPy7jXGlPCdc7dI/jH1kcLvZFBhTzu+S31fGX6ZNe8dLzddo2lkBl+FeU1qqraMl5pqjwUieMpbnxK5uGNqLd/HiULkxK7JflcTNJwXW8ER7vEUQi8SC/BJWNsuLuEvpUcJncbv/mKK9VQLFC78CtN7jlPfhuS+igjcMRoGuV+DdQxaj7yk9e6VcARoADPw42EojxTDaMS+/jN58329QuXQij8jy3a9a/bDfkBHvxuWIDfJ8Uy9Er74+AVFDDJx6ThI0nW0bw8L1M8SgtmlUDCsSEfk88wexcyVs7GUhSmYOdcG8k3ef78vKLkeZFrhM1w9GLH9Pn/4rM7s0ZBVGUUWJSeh1ZWv+lcgzp9hClWSzWSuIpOYdY+YCh9UTwhyhHeemYgSBsEHCy8cptUKWIBM6n+liX0Wy/wYzXIv5BuWA7Zsud2Lm6NxpMUbbtN/WsxvtblmNcHPdXCu0xj/aZAkD3BuZ3TSzY4WJC0UGH0mlEg==;vAcQqt1C+5FKqNlwz2O05g=="
+secured: "MSFmSUbK2NKPoDqBmqtg7oznAtrJpXAUOtvZ8efEMry7O1zm1663Lu0hnZbEKauG6zfpiVudxlCfgNOpFUruYzzB9dazcWkLtL58otFpmAaJwW8dAVtskghwClGWiKyPtX678f3yna9pe92k85QmqSqy+oMsYtSXpSvPUjb/vh5nArHq+Z+mxsnWWDtNMG5bNJmSzFIAYldpagqhzvfgu82dlyahYTSAyY3DIVTv1+dY4ZcicIbD49qXGwQo08ZSZPR6g31eNeR0vlFS+w5YbwsJFJtaT87J0S9oIyVZ0HbhCZI4Ho720lKw1Y85nryjewl5r/jHsDxjNaqcQ1zz4z6PFpbkOdixJFpAf0IP2xM=;yrAd2huz+2vF7BimgZYmJg=="
 ---
 

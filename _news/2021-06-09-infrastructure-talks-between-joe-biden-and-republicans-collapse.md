@@ -209,6 +209,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Thursday briefing: Biden lands with Northern Ireland warning"
+    excerpt: "US diplomats warn Lord Frost against moves that undermine peace … G7 communique leak … Britain’s first Black female Olympian"
+    publishedDateTime: 2021-06-10T04:23:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jun/10/thursday-briefing-biden-northern-ireland-brexit-talks"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/6b7579a0b8863e110e4c1ab77323dc70db4c3454/257_16_1742_1046/master/1742.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=57176f474ddc453e882f2d65044491a7"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Republican negotiator expects no infrastructure deal with Biden on Tuesday"
     excerpt: "The Republican U.S. senator leading her party's talks with President Joe Biden on his sweeping infrastructure proposal said she hopes the two will talk on Tuesday but does not expect a deal to emerge."
     publishedDateTime: 2021-06-08T14:59:00Z
