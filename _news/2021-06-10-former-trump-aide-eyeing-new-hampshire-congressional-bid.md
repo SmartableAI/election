@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/557736-former-trump-aide-eyein
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557736-former-trump-aide-eyeing-new-hampshire-congressional-bid?amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/10/brazilian-president-jair-bolsonaro-and-us-ambassador-to.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump DOJ Forced Apple To Hand Over Data Of Democrats In Congress: NYT"
+    excerpt: "Prosecutors in the US Justice Department under former president Donald Trump seized data from Apple from two Democratic lawmakers on the House Intelligence Committee, as well as that of their staff and family members,"
+    publishedDateTime: 2021-06-11T06:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
+        width: 1024
+        height: 621
         isCached: true
   - title: "Trump Administration Subpoenaed Apple for Lawmakers' Data -New York Times"
     excerpt: "The U.S. Justice Department under former President Donald Trump subpoenaed Apple Inc for data from the accounts of at least two Democrats on the House of Representatives Intelligence Committee in an attempt to find out who was behind leaks of classified information,"

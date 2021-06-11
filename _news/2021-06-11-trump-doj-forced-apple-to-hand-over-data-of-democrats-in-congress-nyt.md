@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Trump-appointed US Ambassador To Brazil Resigns"
-excerpt: "The American ambassador to Brazil, Todd Chapman, a Donald Trump appointee seen as close to far-right President Jair Bolsonaro, said Thursday he had resigned in a letter to current US President Joe Biden."
-publishedDateTime: 2021-06-10T19:18:00Z
-originalUrl: "https://www.ibtimes.com/trump-appointed-us-ambassador-brazil-resigns-3222800"
-webUrl: "https://www.ibtimes.com/trump-appointed-us-ambassador-brazil-resigns-3222800"
+title: "Trump DOJ Forced Apple To Hand Over Data Of Democrats In Congress: NYT"
+excerpt: "Prosecutors in the US Justice Department under former president Donald Trump seized data from Apple from two Democratic lawmakers on the House Intelligence Committee, as well as that of their staff and family members,"
+publishedDateTime: 2021-06-11T06:03:00Z
+originalUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
+webUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
 type: article
 quality: 55
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/10/brazilian-president-jair-bolsonaro-and-us-ambassador-to.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
     width: 1024
-    height: 682
+    height: 621
     isCached: true
 
 related:
@@ -77,19 +77,19 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump DOJ Forced Apple To Hand Over Data Of Democrats In Congress: NYT"
-    excerpt: "Prosecutors in the US Justice Department under former president Donald Trump seized data from Apple from two Democratic lawmakers on the House Intelligence Committee, as well as that of their staff and family members,"
-    publishedDateTime: 2021-06-11T06:03:00Z
-    webUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
+  - title: "Trump-appointed US Ambassador To Brazil Resigns"
+    excerpt: "The American ambassador to Brazil, Todd Chapman, a Donald Trump appointee seen as close to far-right President Jair Bolsonaro, said Thursday he had resigned in a letter to current US President Joe Biden."
+    publishedDateTime: 2021-06-10T19:18:00Z
+    webUrl: "https://www.ibtimes.com/trump-appointed-us-ambassador-brazil-resigns-3222800"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/10/brazilian-president-jair-bolsonaro-and-us-ambassador-to.jpg"
         width: 1024
-        height: 621
+        height: 682
         isCached: true
   - title: "Trump Administration Subpoenaed Apple for Lawmakers' Data -New York Times"
     excerpt: "The U.S. Justice Department under former President Donald Trump subpoenaed Apple Inc for data from the accounts of at least two Democrats on the House of Representatives Intelligence Committee in an attempt to find out who was behind leaks of classified information,"
@@ -101,6 +101,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "P2m6FvL1yc1G+kFRxtoQCGh+MgRl50vw8+pfeEYZcIoa707YlU6+N0Y8w4MUR+tIKT62CFIlqZY/Uj2NnD9+0tyjpmYXBPKcb6hHDm9algSHpv2yZYIDW9gyPoUNbOSvTS8gKumTfBIUDDGc3ctPd+0pX1+eyCNn2QK5c0J6WtZOBu1/05GdfQ1BXV8bw+akub0gz8U6shi/os8vHMAnkvGYHPyaP90RxkpSZSMQENcHzCp64Cfrc0tA219O1RBy9aqdZLYH60B4bGUGsaD8Asp529M7ZilGhZQ6GTIgpA6MQpKj5iwArpMvvCxSSUN2rGGZx8y7uGBrOax106wHuhRK9TRFBvh8f6lX+PmDsNI=;xVBBXoJ4D8Fwzb+9W1sEvw=="
+secured: "ILkxf0nip6mVTIDkfaufwNGnyjxzEvP9F8N/eJPYqFzAgLgmaUprHjO5UE8lVTZbtxONhsn1UEK2TFSrJnoaOaMkn6BxRRISMEy4wwxTU/AZhkR6Mftp+FBHHU2W1SbZdoEamUnGgCxxDT610TSyOQc1+SLd+22Parm87JlfSQSAOFzr5yaAQaAzV57+nMeO+VxBsW//kmZc87Stm37IQTffh0lEU+RW0DxTbqQ4qpS5a4NWora8zYk7KUJSOzRW9sQVRrb6LaNA+PKx7GlrwUL89MtX5JkEKUbU/pyGa+TP+HMnOsjlhx71P/VSXPveZEiHfll/uSvbXyKHnL/x1Cxidg9s2+f7r1tREclYoJU=;HNJJSDiWRCtruX+O2/Tdvw=="
 ---
 

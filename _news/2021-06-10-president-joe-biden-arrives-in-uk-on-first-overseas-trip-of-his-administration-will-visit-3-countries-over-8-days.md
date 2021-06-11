@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/president-joe-biden-arrives-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599"
 type: article
 quality: 103
-heat: 143
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -33,29 +33,29 @@ images:
 related:
   - title: "Biden administration restores $929 mln for California high speed rail"
     excerpt: "U.S. President Joe Biden's administration and California on Thursday reached a settlement to restore a $929 million grant agreement that former president Donald Trump tried to revoke."
-    publishedDateTime: 2021-06-11T04:29:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-administration-restores-929-mln-california-high-speed-rail-2021-06-11/"
+    publishedDateTime: 2021-06-11T05:49:00Z
+    webUrl: "https://www.reuters.com/article/usa-rail-california/biden-administration-restores-929-mln-for-california-high-speed-rail-idUSL3N2NT138"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DN0DY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DN0DY"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 85
-  - title: "Joe Biden embarks on first overseas trip as president to assure European allies, meet with Russia’s Putin"
-    excerpt: "Biden told reporters the trip is about making clear to the leaders of China and Russia that the United States and Europe “are tight.”"
-    publishedDateTime: 2021-06-09T19:30:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-biden-europe-trip-20210609-z3wfsdyypfbqhg6kbuh4swyxke-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-biden-europe-trip-20210609-z3wfsdyypfbqhg6kbuh4swyxke-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-biden-europe-trip-20210609-z3wfsdyypfbqhg6kbuh4swyxke-story.html?outputType=amp"
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210611&t=2&i=1565317703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5A0AE"
+        width: 792
+        height: 545
+        isCached: true
+  - title: "Biden administration to increase pay for airport screeners"
+    excerpt: "The Biden administration says it is moving to increase the pay and union rights for security screeners at the nation’s airports"
+    publishedDateTime: 2021-06-03T22:22:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-administration-increase-pay-airport-screeners-78073415"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 58
-    images:
-      - url: "https://www.dailypress.com/resizer/KIBIV8LE101K42fzWK80434u_mY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43KYGC2HX5CKFO4UF477T2VODQ.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
 
 secured: "wVi5h8J4G+uBx74VTBD2BbndQ2AtpDB0CFSHPxPDE7ZPdI2o2rScRnZkuVsQMM5qFkUTMczrWXIHTTlr2K8pOYJxAYB/R67khv3XuMgTx8uG2FARP8FfAOAqgNpjIhTYb2GPElYwDDrWc8KbF5p8Fo2Q5u4/UTXIN+nq/eci2Q1ANKNm6f7ljN0LPlgwjM8qUJmlw4QoqFOnc5Oz1Wbs8Ot2RV8c8SsBN5Tgaio4uyC7xZo10b+bku86AT3v6jdEYNojIfELu+wIsNonKNRGOfRqgvVwdkZPewnal88hL97llYMR2DO1Xe+hzvoj+qqq6ZWDR3utsmIaO/LvoQqQuuF7ur3JdBrJCGQ98SRT9yg=;OBB1J/mwp56vgHKMCFvHfg=="
 ---

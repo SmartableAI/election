@@ -85,6 +85,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump DOJ Forced Apple To Hand Over Data Of Democrats In Congress: NYT"
+    excerpt: "Prosecutors in the US Justice Department under former president Donald Trump seized data from Apple from two Democratic lawmakers on the House Intelligence Committee, as well as that of their staff and family members,"
+    publishedDateTime: 2021-06-11T06:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
+        width: 1024
+        height: 621
+        isCached: true
 
 secured: "o1l5u+dPdZL6b+N/FcwW+K8BIJ359QTKKYMwNrYz3QaLMBGQN6D+fbj3So8tJ3XL5vFvmwBAHn5sgz81nTkAaBS83PC1LiSB0NZdtW35MzeTPWeQ/Yfn08zehnilIYhnlNgSyqu2XYMYj5EH3id3SLqSr3V1nLZ97o10LQJ4DnwdsOAJpL0WXGY6ltDCtDK4OastvwEWt7Yrf8Y6gC4emNRLzNpkQHKYT43nab+iePzGYT4QfpuG3/TDh4/ldHTj9jnx0+KE8un0KDSRfqarZG3uovWjA3I2UfNjaDGAs73T20d50+7WGdtqCNWvCp+qLdUdNo7p9lNKXFZHf0P4BoGbmOwgACaq+z0JN84iMRSaGC3iAGsZ3LqnQiu9gM/6srWX9+ax2I07N7PBuH6LH5OfzLZFOTlPitQTz2p26ehv6liWFCl/TpztDB+JkeeUkvLvB4fCqk7QGFsUhxgkJisna/+22Ct1yxcPTM1BfHvSzKcI3hmPeZcKU2wAfcgUqVDGEmycxvwQj2eB4H191g==;Mrqx36XUP04RhY0+tpZeLQ=="
 ---

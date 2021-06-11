@@ -2,13 +2,15 @@
 category: news
 title: "Biden administration restores $929 mln for California high speed rail"
 excerpt: "U.S. President Joe Biden's administration and California on Thursday reached a settlement to restore a $929 million grant agreement that former president Donald Trump tried to revoke."
-publishedDateTime: 2021-06-11T04:29:00Z
-originalUrl: "https://www.reuters.com/world/us/biden-administration-restores-929-mln-california-high-speed-rail-2021-06-11/"
-webUrl: "https://www.reuters.com/world/us/biden-administration-restores-929-mln-california-high-speed-rail-2021-06-11/"
+publishedDateTime: 2021-06-11T05:49:00Z
+originalUrl: "https://www.reuters.com/article/usa-rail-california/biden-administration-restores-929-mln-for-california-high-speed-rail-idUSL3N2NT138"
+webUrl: "https://www.reuters.com/article/usa-rail-california/biden-administration-restores-929-mln-for-california-high-speed-rail-idUSL3N2NT138"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DN0DY"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DN0DY"
 type: article
-quality: 85
-heat: -1
-published: false
+quality: 125
+heat: 165
+published: true
 
 provider:
   name: Reuters
@@ -21,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210611&t=2&i=1565317703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5A0AE"
+    width: 792
+    height: 545
+    isCached: true
 
 related:
   - title: "President Joe Biden arrives in UK on first overseas trip of his administration, will visit 3 countries over 8 days"
@@ -39,23 +47,16 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Joe Biden embarks on first overseas trip as president to assure European allies, meet with Russia’s Putin"
-    excerpt: "Biden told reporters the trip is about making clear to the leaders of China and Russia that the United States and Europe “are tight.”"
-    publishedDateTime: 2021-06-09T19:30:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-biden-europe-trip-20210609-z3wfsdyypfbqhg6kbuh4swyxke-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-biden-europe-trip-20210609-z3wfsdyypfbqhg6kbuh4swyxke-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-biden-europe-trip-20210609-z3wfsdyypfbqhg6kbuh4swyxke-story.html?outputType=amp"
+  - title: "Biden administration to increase pay for airport screeners"
+    excerpt: "The Biden administration says it is moving to increase the pay and union rights for security screeners at the nation’s airports"
+    publishedDateTime: 2021-06-03T22:22:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-administration-increase-pay-airport-screeners-78073415"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 58
-    images:
-      - url: "https://www.dailypress.com/resizer/KIBIV8LE101K42fzWK80434u_mY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43KYGC2HX5CKFO4UF477T2VODQ.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
 
-secured: "iBODzqmisWoQ3lNZncAFiJ19NYszgm15XUQ+ggsmrcEUPJYJ1NeS0SAAeNqGj3TAPbN6/zltl6CA+IXU8baHuZfrKq3K+v1hmE3JO/ikr9uQKZ6oXEQKKKiplYXy2ZwapNGyiTxwsozt75N//mm2VDWn6VYKhxP1Qjjuz1QPMcBEGBh2c+WqRC41qCfcTG4kI+vGw6TPyvO6cdQ3cw2v8dMzLEt01fXXVK6JHd8utrs9gbVuFwB7VSOzg3MwoEfHB5T1mPVq3WdZon4XR7OgTHQRfBbjggXwqFCVsWLn4yDVzEZoJc9gCeYkQyebhJTnC7ALI203nbVDjcsRJhvdnL7GFX5emM/6CnEcE2Ck+Rs=;Ht6wwCVYeQ+YkM3orUQCJw=="
+secured: "bpWd51n8sA9lzmJaVxlPKB3k6xQC2UyDfIiZ4UnHnaTKY7JvQzc2FWg7BQoJT+Yal/tJX8p0Ksk1VtOAFnohng42ac9XADDQGsp7E35halj/cJVuhgxt0FbuFUXVr89T9JWYIvapJD66qVTfzbGJPQHSrYsndy2iu/96+f2S8cSa1jqhnFX4Xl6HevOisJvg7rxmmILAkvzMa29OcDa7X3ottIjIp1h4/oV4+uwm7+Ah2A8YBwnYts/OIGOHV4BS7XuC42iF++7eVKWp1271ErmJsVkjyFzU/S9nTxf6lTtkdDrHFXMX1PiWOutgyEwyIHx7qSgAcCoarS3I3XSiJ++2mA/7hsWbopIebZNzTI4=;gtf9o4DW0pA/kaat6vfcSg=="
 ---
 

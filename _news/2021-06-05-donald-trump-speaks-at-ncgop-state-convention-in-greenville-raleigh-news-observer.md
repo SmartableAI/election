@@ -99,6 +99,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Justice Department subpoenaed Apple for communications data on House Democrats, report says"
+    excerpt: "Democrats called for an investigation after The New York Times reported that President Donald Trump's DOJ seized data from House Democrats."
+    publishedDateTime: 2021-06-11T05:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/10/president-donald-trump-justice-department-data-house-democrats/7650303002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7650303002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7650303002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/11/USAT/65f3ae36-98fd-4339-ad92-0d6ec3d9a452-AP_Trump_Impeachment.JPG?auto=webp&crop=3999,2249,x0,y236&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The GOP has proven to be an even 'greater threat' to US democracy than Trump in 2021, experts warn"
     excerpt: "Democracy experts are sounding the alarm as Republican-led legislatures nationwide take extraordinary steps to restrict voting."
     publishedDateTime: 2021-06-04T20:55:00Z
