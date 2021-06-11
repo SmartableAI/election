@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-11-live-updates-g-7-summit-2021-kicks-of-friday-as-biden-meets-with-world-leaders.md",
-      "title": "LIVE UPDATES: G-7 summit 2021 kicks of Friday as Biden meets with world leaders",
-      "excerpt": "The 47th G-7 summit is set to commence today in the United Kingdom.",
+      "path": "_news/2021-06-11-dem-infighting-intensifies-as-biden-meets-brits-at-swanky-uk-retreat.md",
+      "title": "Dem infighting intensifies as Biden meets Brits at swanky UK retreat",
+      "excerpt": "President Biden kicked off a series of get-togethers with world leaders Thursday ahead of the G-7 Summit while Democratic infighting intensifies back home.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2j6A4W3_Ao/biden-democratic-infighting-omar-pelosi-israel-house-british",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2j6A4W3_Ao/biden-democratic-infighting-omar-pelosi-israel-house-british",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 171,
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cce6d6c1-0fe1-4f5f-8731-c7540b6bfd85/010d2956-348b-4e65-93fa-f4150af72ea5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
-      "publishedDateTime": "2021-06-11T01:42:05-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-democratic-infighting-omar-pelosi-israel-house-british.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democratic-infighting-omar-pelosi-israel-house-british.amp",
+      "publishedDateTime": "2021-06-11T05:08:40-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -70,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {

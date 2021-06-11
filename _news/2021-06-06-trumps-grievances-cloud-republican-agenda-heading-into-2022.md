@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How Trump took control of the G.O.P.: Part 1"
+    excerpt: "The roots of former president Donald Trump’s power in the Republican Party can be traced back to the backlash following the 2008 financial crisis and presidential election."
+    publishedDateTime: 2021-06-11T12:43:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/how-trump-took-control-of-the-gop-part-1/2021/06/11/06d40589-1b72-4326-9e8a-4fe06e1f7ed4_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-10-2021/t_706691930e7e4bb29a338b0cf5ac5491_name_Site_thumb_pt1.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Justice Department under Trump seized data from House Democrats in 2018 as a part of a probe on leaks related to the Russia Investigation"
     excerpt: "The Justice Department under former President Donald Trump seized data from the accounts of at least two members of the House Intelligence Committee in 2018 as part of an aggressive crackdown on leaks related to the Russia investigation and other national security matters."
     publishedDateTime: 2021-06-11T02:58:00Z

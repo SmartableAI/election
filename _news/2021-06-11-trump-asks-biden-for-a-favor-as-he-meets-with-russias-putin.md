@@ -111,6 +111,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden restores $929 mln for California high-speed rail withheld by Trump"
+    excerpt: "The Biden administration late on Thursday restored a $929 million grant for California's high-speed rail that former President Donald Trump revoked in 2019."
+    publishedDateTime: 2021-06-11T09:29:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-administration-restores-929-mln-california-high-speed-rail-2021-06-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://www.reuters.com/resizer/J7uThqW2-EsaVcCDYF2W57q9ggw=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HPBQXNVJFJNTLKENASTKDPKVG4.jpg"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Biden DOJ Plans To Continue To Defend Trump In E. Jean Carroll's Defamation Lawsuit"
     excerpt: "The Justice Department simultaneously distanced itself from the allegations Carroll has made that former President Donald Trump sexually assaulted her in the 1990s."
     publishedDateTime: 2021-06-08T15:18:00Z

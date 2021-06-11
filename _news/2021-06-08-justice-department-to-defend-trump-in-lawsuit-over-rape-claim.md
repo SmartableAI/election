@@ -241,7 +241,7 @@ related:
   - title: "Biden's Inflation Monster Arises"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-06-11T10:59:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/11/bidens_inflation_monster_arises_544826.html"
+    webUrl: "https://www.realclearpolitics.com/2021/06/11/bidens_inflation_monster_arises_544826.html#!"
     type: article
     provider:
       name: RealClearPolitics

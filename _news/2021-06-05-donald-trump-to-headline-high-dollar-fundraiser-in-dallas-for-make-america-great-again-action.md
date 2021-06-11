@@ -59,6 +59,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Former President Trump's DOJ subpoenaed records of at least two House Democrats"
+    excerpt: "Former President Donald Trump's Department of Justice reportedly subpoenaed the data of at least a dozen people connected to the House Intelligence Committee back in 2017 and 2018. Among them are Congressman Adam Schiff,"
+    publishedDateTime: 2021-06-11T12:39:00Z
+    webUrl: "https://www.cbsnews.com/video/former-president-trumps-doj-subpoenaed-records-of-at-least-two-house-democrats/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/former-president-trumps-doj-subpoenaed-records-of-at-least-two-house-democrats/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/former-president-trumps-doj-subpoenaed-records-of-at-least-two-house-democrats/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/11/b49e2fcf-296d-4b9b-90ad-2ab395dc71ed/thumbnail/1200x630/b13713420f34ad9d50c6fb76ee3eb69d/0611-ctm-trumpdoj-herridge-mid-732708-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "House Democrats outraged that Trump justice department seized their data – live"
+    excerpt: "Democrats and Republicans may not be agreeing on much in Washington these days, but members on both sides were able to join together to attack Minnesota congresswoman I"
+    publishedDateTime: 2021-06-11T13:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/11/joe-biden-donald-trump-democrats-republicans-doj-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/11/joe-biden-donald-trump-democrats-republicans-doj-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/11/joe-biden-donald-trump-democrats-republicans-doj-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/c537a8987165f301812b3edecd654e9713db43ce/0_114_5659_3396/master/5659.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7955852a1d555ecfea62158bd338c310"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
     excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
     publishedDateTime: 2021-06-03T00:58:00Z

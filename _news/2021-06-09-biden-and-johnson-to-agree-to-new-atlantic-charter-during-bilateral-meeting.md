@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Putin not currently expected to hold joint news conference following meeting next week"
+    excerpt: "President Joe Biden and Russian President Vladimir Putin are not currently expected to hold a joint press conference following their high-stakes summit in Geneva, Switzerland, next week, two US officials familiar with the matter said.\n    \n"
+    publishedDateTime: 2021-06-11T13:28:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8HiHYojsiDI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/vladimir-putin-joe-biden-press-conference/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/vladimir-putin-joe-biden-press-conference/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "reW7Mwqr9z+L9B4ybRPWffnu3myXCLpGCrFpEGCfKm8PkvRVAnxZBkzp9HwvGSRprrOFdCFPB1MWHrkPMRXosL/Su605K+iJ5g6yInKUK19hgKKODkxhhxkqBLP6LB6YgIaOlKh5heSV3AdtZ0Kr6fU6ZG6R5bBKpvTuhNw+DliavzVbRIZpDkSMcFHgz7xfCsB4i1DPfF0lspsbFbpSlUTdmXP4Y0naFCs1lECGwoHOMNO6d3MKNRf6WeGdLYhQkTa1MGRE/ZYGx+6+HkCMYI9364tlCrXIMwOlj5fVrBwucjIAxdg9dSBBgb3YL7tic/9X6cIh1mAPRddmkb949xfb2KR/Bz3ZGZYb8wjOjH0=;iVR8mmF9bJ7gFJSSwV8qHQ=="
 ---

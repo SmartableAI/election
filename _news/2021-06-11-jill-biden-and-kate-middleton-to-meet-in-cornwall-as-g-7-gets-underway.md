@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jill-biden-and-kate-middleton-to-me
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Jill Biden, Kate Middleton visit UK classroom, with early childhood education in focus"
+    excerpt: "First lady Jill Biden and Duchess of Cambridge Kate Middleton visited a classroom of young children before taking part in a roundtable discussing the importance of early childhood education."
+    publishedDateTime: 2021-06-11T12:25:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XK9HQnCKKyw/jill-biden-kate-middleton-uk-classroom-early-childhood-education"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-kate-middleton-uk-classroom-early-childhood-education.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-kate-middleton-uk-classroom-early-childhood-education.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "/pa4wDI1iBMHoyO0knhNt9rs3GDCXERPe7bvbcAeOgGnIqmcee7pRWi8JRQ7IxD3L8d2REkr9VHlPiN/KFsWGitNAODhgWnmK8ntXDOpUffQdRUw0jbC9QTwJ3WcXyx4ZycF7LTiTLnCgv/lFL85MdNZa4QiD47MBijdolR5OnB0BzXTHjZkE9s+2bCZDWv4DCN9PzYpYKGFBsVlogeJQRjoQWG3hgsbwupJJXaAuDrK98hXYK2qB98zwDN8//TDDKkJR9fJTUAmy9TCoycio/9OfDKbqIvAdBkj0OnlGWYetkXi4Uitn2ydIwgzeYUtN7Syu1mvY4q0GJ/r0Hhvk90QijHHn5qZVILuB5jYiCQ=;ncRKVkUs7h7JqcMi5yREQA=="
 ---

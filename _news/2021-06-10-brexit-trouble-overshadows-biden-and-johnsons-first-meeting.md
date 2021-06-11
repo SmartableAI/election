@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden and Putin not currently expected to hold joint news conference following meeting next week"
+    excerpt: "President Joe Biden and Russian President Vladimir Putin are not currently expected to hold a joint press conference following their high-stakes summit in Geneva, Switzerland, next week, two US officials familiar with the matter said.\n    \n"
+    publishedDateTime: 2021-06-11T13:28:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8HiHYojsiDI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/vladimir-putin-joe-biden-press-conference/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/vladimir-putin-joe-biden-press-conference/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

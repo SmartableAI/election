@@ -175,6 +175,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Former Green Beret running for Congress gives Biden an 'F' in Middle East policy"
+    excerpt: "Retired Green Beret Joe Kent wants to bring his experience on the ground fighting America's enemies in the Middle East to Congress."
+    publishedDateTime: 2021-06-11T13:41:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9A_aUUOis0w/joe-kent-washington-dc-congress-jaime-herrera-beutler"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-kent-washington-dc-congress-jaime-herrera-beutler.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-kent-washington-dc-congress-jaime-herrera-beutler.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cce6d6c1-0fe1-4f5f-8731-c7540b6bfd85/010d2956-348b-4e65-93fa-f4150af72ea5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's Europe trip: President's schedule, meetings and everything you need to know"
     excerpt: "On his first trip overseas, the president landed in the United Kingdom on Wednesday evening and is set to meet with several European allies, participate in the G-7 and NATO summits, and participate in a high-stakes, in-person meeting with Russian President Vladimir Putin."
     publishedDateTime: 2021-06-10T13:57:12Z

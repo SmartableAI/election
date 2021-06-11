@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-11-dem-infighting-intensifies-as-biden-meets-brits-at-swanky-uk-retreat.md",
+      "title": "Dem infighting intensifies as Biden meets Brits at swanky UK retreat",
+      "excerpt": "President Biden kicked off a series of get-togethers with world leaders Thursday ahead of the G-7 Summit while Democratic infighting intensifies back home.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2j6A4W3_Ao/biden-democratic-infighting-omar-pelosi-israel-house-british",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2j6A4W3_Ao/biden-democratic-infighting-omar-pelosi-israel-house-british",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-democratic-infighting-omar-pelosi-israel-house-british.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democratic-infighting-omar-pelosi-israel-house-british.amp",
+      "publishedDateTime": "2021-06-11T05:08:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-trump-doj-secretly-seized-house-democrats-data-in-crackdown-on-leaks.md",
+      "title": "Trump DoJ secretly seized House Democrats’ data in crackdown on leaks",
+      "excerpt": "At least two House members including Adam Schiff targeted in 2018, say officials familiar with the investigation",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/833a082fef419e963431b1565b44ba0c16badbf1/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7272812056fc84ee1bc19156633221c5",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
+      "publishedDateTime": "2021-06-11T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-swiss-detail-extra-security-measures-for-biden-putin-summit.md",
       "title": "Swiss detail extra security measures for Biden-Putin summit",
       "excerpt": "Swiss authorities will temporarily restrict airspace over the city of Geneva and deploy up to 1,000 troops to the area to help reinforce security for the summit of Russian President Vladimir Putin and U.",
@@ -97,62 +205,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-11-live-updates-g-7-summit-2021-kicks-of-friday-as-biden-meets-with-world-leaders.md",
-      "title": "LIVE UPDATES: G-7 summit 2021 kicks of Friday as Biden meets with world leaders",
-      "excerpt": "The 47th G-7 summit is set to commence today in the United Kingdom.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cce6d6c1-0fe1-4f5f-8731-c7540b6bfd85/010d2956-348b-4e65-93fa-f4150af72ea5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
-      "publishedDateTime": "2021-06-11T01:42:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-11-jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g-7-gets-underway.md",
       "title": "Jill Biden and Kate Middleton to meet in Cornwall as G-7 gets underway",
       "excerpt": "First lady Jill Biden will meet with the Duchess of Cambridge for the first time on Friday during her husband’s first trip abroad as president.",
@@ -165,7 +217,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -314,58 +366,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-trumps-justice-department-targeted-democrats-in-congress-in-search-for-source-of-leaks-related-to-the-russia-investigation-new-york-times-reports.md",
-      "title": "Trump's Justice Department targeted Democrats in Congress in search for source of leaks related to the Russia investigation, New York Times reports",
-      "excerpt": "Officials subpoenaed Apple for communications data of Reps. Adam Schiff and Eric Swalwell, as well as their families and staffers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60c2b63023393a00188e2931?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp",
-      "publishedDateTime": "2021-06-10T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1188,7 +1188,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {

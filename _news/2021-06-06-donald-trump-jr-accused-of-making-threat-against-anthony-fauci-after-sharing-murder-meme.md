@@ -47,17 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "NY Times: Trump DOJ Investigated House Dems, Seized Data"
-    excerpt: "House Speaker Nancy Pelosi and other top Democrats are calling for an investigation after The New York Times reported Thursday that the Justice Department under President Donald Trump seized communications data of members of the House intelligence committee."
-    publishedDateTime: 2021-06-11T01:13:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "x2pVQyblBKRkbuQmrmR/UGHr8IgyurhMjm2VDus0YN5V03UUb9k+xuqMCssQKSJU5jyRxg7UTY+49nvE765dukzsw3NFuwafQoseUz2mjJ/S4HUhnwpz+PqkvAwIB/QnRbXFbkjiLe/s2blgddfMhMH90eQUJgamx52+KnSrZ1VfyFEsK7r3ZmrafMhLlB0uGc8FH0CU7HhjzpqLBCcrf1KX8r/IfcG7OUPqs4iIeChA2DaK1+xJfTPCdnCldjoufy2fuXStiJVPotrbLfQjl5x1tmUo74VA8vETiaipcFOcJ7X/BJHiAAyeq/L+8fpOsDqoZuYHs0KBFuPwPoB3IA558OsFlIC9oDvvCSKU/KoEOV3QaPzhezWLWF7FZljZqpUYKFuK0SuqXuAeFRZcs4EtDtCecMGdpGhBCdldci9bafQakmMd+QAqd6h8VWNhbyUIflQ7jAUhuG5PefKUQeiDl0NMjVidzhkrEq+Pl9pBj+aMPyWR6tup12KxC+Lp5/7MRjQ34GY/wtaIQaTqgw==;bUvsKmj5Wa7HOFrJaj7tzA=="
 ---

@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How Trump took control of the G.O.P.: Part 1"
+    excerpt: "The roots of former president Donald Trump’s power in the Republican Party can be traced back to the backlash following the 2008 financial crisis and presidential election."
+    publishedDateTime: 2021-06-11T12:43:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/how-trump-took-control-of-the-gop-part-1/2021/06/11/06d40589-1b72-4326-9e8a-4fe06e1f7ed4_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-10-2021/t_706691930e7e4bb29a338b0cf5ac5491_name_Site_thumb_pt1.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
     excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."
     publishedDateTime: 2021-06-03T09:43:00Z

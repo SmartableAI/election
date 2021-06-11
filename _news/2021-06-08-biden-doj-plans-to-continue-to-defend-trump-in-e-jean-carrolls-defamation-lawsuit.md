@@ -109,6 +109,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden restores $929 mln for California high-speed rail withheld by Trump"
+    excerpt: "The Biden administration late on Thursday restored a $929 million grant for California's high-speed rail that former President Donald Trump revoked in 2019."
+    publishedDateTime: 2021-06-11T09:29:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-administration-restores-929-mln-california-high-speed-rail-2021-06-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://www.reuters.com/resizer/J7uThqW2-EsaVcCDYF2W57q9ggw=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HPBQXNVJFJNTLKENASTKDPKVG4.jpg"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Fact Check-Donald Trump remains suspended from Facebook and Instagram"
     excerpt: "Claims that former President Donald Trump has returned to Facebook and Instagram after being banned months ago are false. Representatives from Facebook, the parent company of Instagram, confirmed in an email to Reuters the former president remains off both platforms."
     publishedDateTime: 2021-06-04T18:55:00Z

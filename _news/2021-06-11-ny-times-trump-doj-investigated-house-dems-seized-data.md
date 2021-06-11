@@ -25,37 +25,69 @@ topics:
   - Donald Trump
 
 related:
-  - title: "China, Fauci and hoaxes: Donald Trump targets usual suspects in return to stage"
-    excerpt: "Former president seeks limelight ahead of midterms, calling on China to pay Covid reparations and dismissing criminal inquiries into his business dealings"
-    publishedDateTime: 2021-06-06T02:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus"
+  - title: "Trump DoJ secretly seized House Democrats’ data in crackdown on leaks"
+    excerpt: "At least two House members including Adam Schiff targeted in 2018, say officials familiar with the investigation"
+    publishedDateTime: 2021-06-11T11:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 121
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/73af5f6e2ee2429f8282c954d2b810ce5735b6cb/0_185_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3358b50e34c7af97b2a5b6c149e14100"
+      - url: "https://i.guim.co.uk/img/media/833a082fef419e963431b1565b44ba0c16badbf1/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7272812056fc84ee1bc19156633221c5"
         width: 600
         height: 360
         isCached: true
-  - title: "Donald Trump Jr. Accused of Making Threat Against Anthony Fauci After Sharing Murder Meme"
-    excerpt: "Critics have accused Donald Trump Jr. of issuing threats against Dr. Anthony Fauci after he shared a meme about the infectious disease expert's hypothetical murder on Friday. At around 7 p.m. last night,"
-    publishedDateTime: 2021-06-05T23:11:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-jr-accused-making-threat-against-anthony-fauci-after-sharing-murder-meme-1597918"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-accused-making-threat-against-anthony-fauci-after-sharing-murder-meme-1597918?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-accused-making-threat-against-anthony-fauci-after-sharing-murder-meme-1597918?amp=1"
+  - title: "Trump's Justice Department targeted Democrats in Congress in search for source of leaks related to the Russia investigation, New York Times reports"
+    excerpt: "Officials subpoenaed Apple for communications data of Reps. Adam Schiff and Eric Swalwell, as well as their families and staffers."
+    publishedDateTime: 2021-06-11T03:20:00Z
+    webUrl: "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://d.newsweek.com/en/full/1814199/donald-trump-jr-meme-anthony-fauci-murder.jpg"
-        width: 2500
-        height: 1668
+      - url: "https://i.insider.com/60c2b63023393a00188e2931?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Democrat says Trump counsel recounted 'troubling events'"
+    excerpt: "The closed-door interview, which came two years after House Democrats originally sought his testimony, was originally part of Democrats' efforts to investigate whether Trump tried to obstruct Justice Department investigations into his 2016 presidential campaign."
+    publishedDateTime: 2021-06-04T23:46:00Z
+    webUrl: "https://www.chron.com/news/article/After-2-year-battle-House-panel-to-interview-16224038.php"
+    ampWebUrl: "https://www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "'Trump Man' Admits To Repeatedly Pooping On Neighbors' Lawn Because They're 'Democrats'"
+    excerpt: "Ohio police said Jerry Detrick, 70, admitted to repeatedly defecating in front of a neighbor's home because he said the residents \"are Democrats and support Joe Biden.\""
+    publishedDateTime: 2021-06-07T05:55:00Z
+    webUrl: "https://www.ibtimes.com/trump-man-admits-repeatedly-pooping-neighbors-lawn-because-theyre-democrats-3218933"
+    ampWebUrl: "https://www.ibtimes.com/trump-man-admits-repeatedly-pooping-neighbors-lawn-because-theyre-democrats-3218933?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-man-admits-repeatedly-pooping-neighbors-lawn-because-theyre-democrats-3218933?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/stars-stripes-21806501280.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "bXd7joj12yegrUMdcsmrh+T0aTC6vV0/17vSylbhoVucBtkz7BA3nKI4+wIP6bMjX47ePJ4OhZhro76xehBea0MyxwLpyD/8ao819smlNAlXkGu1NUq4EvRPmRrGSIjEFfqb85xRtGJycelQPHPaX0RWQtamD04nxUy65qplYXzqoNv9MdOmY1CazuOtYNQRNlohp2vk7IBEeprQIQ/CyfsKeucsQHQ+bZuQwpNuXAPB00+37laQTJyfGRqTnkOh0WUE5oY7tS5uDhLDUbWp2zE3RKJAbW6VR95R0OzjIC5iZjeMARKoRgzDoqx8ade5JwE3KWPx8iomgqCTPmTRhGf1rRgKngNbqdxSM5INYS0V1or1fX2DjQ5+NKNRSfN8Ar8uc++/UBBIMUPKBvvewo7fJRm4Xpk6E53hVHJ7whkNW5PQXlxT8RtLCIonyM8qGDNGqmTldqFaCzvVg+ba4r03jwvM/F15OhqkFdr4/dlITQk3LhE38/4E553dfCuEIt75cgDvQ8Nb3QcC4CWyZw==;5TgKeHgmmlqlSHjaZqvPzg=="

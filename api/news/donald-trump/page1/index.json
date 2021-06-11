@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-11-trumps-justice-department-targeted-democrats-in-congress-in-search-for-source-of-leaks-related-to-the-russia-investigation-new-york-times-reports.md",
-      "title": "Trump's Justice Department targeted Democrats in Congress in search for source of leaks related to the Russia investigation, New York Times reports",
-      "excerpt": "Officials subpoenaed Apple for communications data of Reps. Adam Schiff and Eric Swalwell, as well as their families and staffers.",
+      "path": "_news/2021-06-11-trump-doj-secretly-seized-house-democrats-data-in-crackdown-on-leaks.md",
+      "title": "Trump DoJ secretly seized House Democrats’ data in crackdown on leaks",
+      "excerpt": "At least two House members including Adam Schiff targeted in 2018, say officials familiar with the investigation",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6",
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/60c2b63023393a00188e2931?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://i.guim.co.uk/img/media/833a082fef419e963431b1565b44ba0c16badbf1/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7272812056fc84ee1bc19156633221c5",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp",
-      "publishedDateTime": "2021-06-10T20:20:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
+      "publishedDateTime": "2021-06-11T04:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -426,7 +426,7 @@
       "originalUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
       "featuredContent": null,
       "highlight": null,
-      "heat": 340,
+      "heat": 360,
       "tags": null,
       "images": [
         {
@@ -686,7 +686,7 @@
       "originalUrl": "https://www.bbc.com/news/business-57392734.amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1112,7 +1112,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in",
       "featuredContent": null,
       "highlight": null,
-      "heat": 321,
+      "heat": 341,
       "tags": null,
       "images": [
         {
@@ -1274,7 +1274,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1480,49 +1480,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-05-democrat-says-trump-counsel-recounted-troubling-events.md",
-      "title": "Democrat says Trump counsel recounted 'troubling events'",
-      "excerpt": "The closed-door interview, which came two years after House Democrats originally sought his testimony, was originally part of Democrats' efforts to investigate whether Trump tried to obstruct Justice Department investigations into his 2016 presidential campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/After-2-year-battle-House-panel-to-interview-16224038.php",
-      "originalUrl": "https://www.chron.com/news/article/After-2-year-battle-House-panel-to-interview-16224038.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php",
-      "publishedDateTime": "2021-06-04T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-06-04-next-stop-on-donald-trumps-political-comeback-tour-dallas-in-july-for-cpac.md",
       "title": "Next stop on Donald Trump’s political comeback tour: Dallas in July for CPAC",
       "excerpt": "Donald Trump will be in Dallas in July to appear at a major conservative gathering, organizers said Thursday — a fresh spotlight in a",
@@ -1562,6 +1519,59 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6.md",
+      "title": "Pence: I'll likely never see eye to eye with Trump on Jan. 6",
+      "excerpt": "Former Vice President Mike Pence says he isn't sure he and former President Donald Trump will ever see “eye to eye” over what happened on Jan_ 6 but he will “always be proud of what we accomplished for the American people over the last four years.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 670,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_222e493ae2ce4962910dd26824e1fa20_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
+      "publishedDateTime": "2021-06-03T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
         "Donald Trump"
       ]
     }
