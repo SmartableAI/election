@@ -127,6 +127,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Kamala Harris, Yet to Visit Border, Meeting TX Dems Who Blocked Voting Bill"
+    excerpt: "Symone Sanders, senior advisor and chief spokesperson to Vice President Kamala Harris, said Harris would meet with Texas Democrats \"who in May blocked passage of legislation that would have made it significantly harder for the people of Texas to vote."
+    publishedDateTime: 2021-06-11T04:27:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1818885/kamala-harris-border-visit-texas-democrats-voting.jpg"
+        width: 3200
+        height: 2133
+        isCached: true
   - title: "Vice President Kamala Harris closes out first foreign trip with visit to Mexico"
     excerpt: "The vice president will meet with President Andrés Manuel López Obrador, a key but complicated ally in efforts to curb the spike in migration at the border."
     publishedDateTime: 2021-06-08T13:01:00Z

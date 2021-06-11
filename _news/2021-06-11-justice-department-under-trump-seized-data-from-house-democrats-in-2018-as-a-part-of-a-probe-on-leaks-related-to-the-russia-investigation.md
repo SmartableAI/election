@@ -111,22 +111,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump DOJ seized data from House Democrats in leaks probe"
-    excerpt: "The Trump administration's attempt to secretly gain access to data of individual members of Congress and others related to the panel came as the president was fuming over investigations — in Congress and by then-special counsel Robert Mueller — into his campaign's ties to Russia."
-    publishedDateTime: 2021-06-11T01:55:00Z
-    webUrl: "https://www.chron.com/news/article/NY-Times-Trump-DOJ-investigated-House-Dems-16240230.php"
-    ampWebUrl: "https://www.chron.com/news/amp/NY-Times-Trump-DOJ-investigated-House-Dems-16240230.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NY-Times-Trump-DOJ-investigated-House-Dems-16240230.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
     excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."
     publishedDateTime: 2021-06-03T09:43:00Z
@@ -149,6 +133,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump DOJ Seized Data From House Democrats in Leaks Probe"
+    excerpt: "The Justice Department under former President Donald Trump seized data from the accounts of at least two members of the House Intelligence Committee in 2018 as part of an aggressive crackdown on leaks related to the Russia investigation and other national security matters."
+    publishedDateTime: 2021-06-11T04:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Former Counsel Tells Congress of Trump Efforts to Undercut Russia Probe Democrats"
     excerpt: "Former Counsel Tells Congress of Trump Efforts to Undercut Russia Probe Democrats WASHINGTON (Reuters) - President Donald Trump's ex-White House counsel Don McGahn \"shed new light\" on the investigation into Russia's role in the 2016 U.S. elections and the ..."
     publishedDateTime: 2021-06-04T23:48:00Z
@@ -159,6 +154,6 @@ related:
       domain: usnews.com
     quality: 30
 
-secured: "RjYullEKPI3YAKKE1dK2NoCOK/oKFxQ7yK3NUxTSCfpb7+Wpb85GaM+2yqf5pQB4zIA7SRjhOVEo6fG39TsIq9FmEyvKWMmFUF2DkQIfP5EMVJYJULD+FEqgVksn1D3H8a5T7nqgDHc/8AsSTm7DKwgHOm0fzehPlyzPd7RyQS16OOQsoUM4iX6NFhUechCCmwxjQVuYKNWizEquSdnlB9H5eM2rfAe+iZQop/pcRtoxUKznSMthLMklYivq5kWvZBbZHPhDiEvw4z5i/zjCgnNaFzadvAuU5YoISTCvwF2KxG0861cX2IF7Hl8sjU3YQ1pGRkoBHZU7CcPRf3w1KTMt90sM7OgyLnqB0nNZWn0=;/SZZe3CUBvz9eJ1s8eNqbQ=="
+secured: "NtasEk5AbNTtNqTmqvwQrnjQU+bwtAVQwSLuvweOyQ2HKVFg5WQO+WDfD/tHCQhNMYVQNxkzT4dcs861bYvqmzKMMUJVKSrjThGyGx/XzHgknslzuBqFKOfzSNEPzkBfeMkKpiEWa2sy5f7TPmHGWI1vOwmG66VqTNViZC24DbyTGccO+rN8b06ZyBJAMI/lCrLfgodw2H2TSPKYs2jFDWQhp/FotyDp1XAfPmFT7eGA41hfr2GUUfymNsfXUd2v7UJCuHX1vj+T29gV48oqyTVS7kFF67ljyAzydZbo4Qy6QNWAg1S8Lsd5hKtSeacYd4DVxafH9o6LFz8exNXU9CzPKGxjb2p9aFCTWYvI9PckOJLmVGBgSuSpwvO2GAGXXFem8OE5fcVo5pSJYgKxJRrKLM8wUHL+xt9KHuO4Ir+/DITvesjuwQYxTy0LH3pXAk40tGCoDViFJT+yfguUnPlAcPbOgg8vrH0Z7IOh6QVZLFSdRkeIRHuiEaBMOx7BStrMrQEJFZH2AWQJwNgylQ==;lTKavkFOWZ+xLy49/lDpLA=="
 ---
 

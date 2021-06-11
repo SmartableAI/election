@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-04-hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says.md",
+      "title": "Hunter Biden-linked lobbying firm facing DOJ probe, report says",
+      "excerpt": "A consulting firm linked to Hunter Biden – and co-founded by a former member of the Clinton administration -- is facing a Justice Department investigation into potential illegal lobbying activity, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRbGx-OX4FQ/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRbGx-OX4FQ/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 635,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40e43fe5-4356-4038-be88-b4d2093c0947/834ae71a-febe-43f9-82e0-9e1ef088056c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says.amp",
+      "publishedDateTime": "2021-06-04T00:27:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6.md",
       "title": "Pence: I'll likely never see eye to eye with Trump on Jan. 6",
       "excerpt": "Former Vice President Mike Pence says he isn't sure he and former President Donald Trump will ever see “eye to eye” over what happened on Jan_ 6 but he will “always be proud of what we accomplished for the American people over the last four years.",
@@ -1298,58 +1354,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-karen-mcdougal-trump-escapes-fine-in-playboy-model-payment-case.md",
-      "title": "Karen McDougal: Trump escapes fine in Playboy model payment case",
-      "excerpt": "Mr Trump will not be punished or the subject of further inquiry, the Federal Election Commission (FEC) ruled. The FEC found that the money paid to ex-Playboy model Karen McDougal during the presidential election amounted to an illegal campaign contribution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-57335148",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-57335148",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15C78/production/_118780298_gettyimages-1318749430.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57335148.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57335148.amp",
-      "publishedDateTime": "2021-06-02T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

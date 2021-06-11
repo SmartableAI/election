@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden takes the lead role he's always craved in his high-stakes first trip abroad as president"
-excerpt: "When President Joe Biden told officials this spring that he wanted to meet soon with his Russian counterpart for a summit, his team quickly set out to make it happen -- even if some wondered what he really hoped to achieve.\n    \n"
-publishedDateTime: 2021-06-09T06:35:10Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gd62i9_ww9M/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gd62i9_ww9M/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
+title: "Biden is at the G7 meeting of world leaders. Here's what to know about it"
+excerpt: "President Joe Biden's first trip abroad since taking office includes a G7 summit where he'll look to reestablish US leadership on the world stage.\n    \n"
+publishedDateTime: 2021-06-11T04:00:20Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s6f5v5jTvao/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s6f5v5jTvao/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/g7-summit-explainer/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/g7-summit-explainer/index.html"
 type: article
-quality: 163
+quality: 174
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608104620-joe-biden-060421-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610161934-01-g7-through-history-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden is at the G7 meeting of world leaders. Here's what to know about it"
-    excerpt: "President Joe Biden's first trip abroad since taking office includes a G7 summit where he'll look to reestablish US leadership on the world stage.\n    \n"
-    publishedDateTime: 2021-06-11T04:00:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s6f5v5jTvao/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/g7-summit-explainer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/g7-summit-explainer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610161934-01-g7-through-history-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden poised to announce first slate of ambassador nominees as he eyes first trip abroad"
     excerpt: "President Joe Biden has made final decisions on several high-profile ambassador posts around the world and is poised to announce the first slate of nominees in the coming days as he prepares to set off on his first overseas trip since taking office.\n    \n"
     publishedDateTime: 2021-06-05T13:02:02Z
@@ -108,6 +92,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden takes the lead role he's always craved in his high-stakes first trip abroad as president"
+    excerpt: "When President Joe Biden told officials this spring that he wanted to meet soon with his Russian counterpart for a summit, his team quickly set out to make it happen -- even if some wondered what he really hoped to achieve.\n    \n"
+    publishedDateTime: 2021-06-09T06:35:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gd62i9_ww9M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-leaves-for-international-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608104620-joe-biden-060421-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -188,6 +188,6 @@ related:
         height: 629
         isCached: true
 
-secured: "R0WUA8YwzAJiHSEpizCCbIR0IeSyTGmkkhEMN6SJE8IfB0R7AYgKAU3W+LcG1VEDisBF5AwUv9xaIUhIjuJyWZTHwyBuiWMZhkKsnsuVNGC0q9nv5AaEZRl0rS/9iiDC1u1RI2YdkBZ4tkBiaX8+fWNnbLU4+piuDOw573zjU2v9kbTZmzRaSZUFIQKfbPIzmbUpx6qUGIaMBHEBhGvMHwFZb10qQZbcK9jyrGhjXM0wukf74mcUgzae925KPtwwG/OSGQ38mqDCyt7A1ONBsGMm+AgiWCx/M5tIpkTx01F/YncU6WvLzvPnjZpfHRzdNAXFsaVY64/vteb9QS43e6XMcGbjQNWV6oH3FHgA8UU=;zsPSSJ3jttJldigdNgkGgw=="
+secured: "/fPzh2G/eyoz5CyEP8bAA/a1qGuH1U5LGO67WFBA8EJozBtBaH8UKtAP+By5WFtoRTPEKX+xxXaym6rgWq2YbxZcTe9kQESaLWfeahAL/kMCHs4sQ8XYBVk0s0uqgC9pFXDYMMjR2weZwgQKwBuhYiv6Lh4qPyGiVrvCtDYFQNwsjss+EjrXaIPlN+3Ys20PkzqM+rLX7GVwU5HdnWVaca7jBdg2nkW16NcPMQd/WTCwHIG7ibqz0fp/KjKtPNOvDR4p6QK10X+bevr3e90C4rZDWahQV8goYZd0uult2CPa3MEVswtSFOMBFgSwRxHV6HMgrkZCZRgvLJUu9We4/k1tttnv+kL31xqUsV8j98E=;6q3KZ0bNj3XARSrHVhWa6A=="
 ---
 

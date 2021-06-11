@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Trump DOJ seized data from House Democrats in leaks probe"
-excerpt: "The Trump administration's attempt to secretly gain access to data of individual members of Congress and others related to the panel came as the president was fuming over investigations — in Congress and by then-special counsel Robert Mueller — into his campaign's ties to Russia."
-publishedDateTime: 2021-06-11T01:55:00Z
-originalUrl: "https://www.chron.com/news/article/NY-Times-Trump-DOJ-investigated-House-Dems-16240230.php"
-webUrl: "https://www.chron.com/news/article/NY-Times-Trump-DOJ-investigated-House-Dems-16240230.php"
-ampWebUrl: "https://www.chron.com/news/amp/NY-Times-Trump-DOJ-investigated-House-Dems-16240230.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NY-Times-Trump-DOJ-investigated-House-Dems-16240230.php"
+title: "Trump DOJ Seized Data From House Democrats in Leaks Probe"
+excerpt: "The Justice Department under former President Donald Trump seized data from the accounts of at least two members of the House Intelligence Committee in 2018 as part of an aggressive crackdown on leaks related to the Russia investigation and other national security matters."
+publishedDateTime: 2021-06-11T04:09:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Trump: 'Too soon to tell' if Pence would be running mate if he seeks White House in 2024"
@@ -155,6 +153,6 @@ related:
       domain: usnews.com
     quality: 30
 
-secured: "HFqy6wIfqjHFifQAv/EF6xKQoSRpDH8i1F2OU259I8tcCdXUCxdtC9N0t77hMR52NEEJURZjrdrBxhENLJqAcl2S2OVELsC5HNbpM4XCZitlY1aU52z7YIGMccisrIxkFYcZ1bRHqMFffHSspkD2WyWjUHBu1hSr99skZPFb7bLQawftA0ubK8URwRHsIhENImH1rtVZtH2DkQjQmxDwm0spgMFIBat6tUW99l/hkDhJaCj7vywhNwFaR8kPLbdmHB4+ecCzChbCP3lLI+p1jHlgvO0NdZhcrF9D4KOmTEQAXWLDoJU1E5gZj6DNDy2OPLu7h1E7PW3uwQvYDKEmndmlknHOEfmMed8Y3kDZvUs=;f7kiCMCjmAmJ2FOIpTM6Yg=="
+secured: "DrXa9qao1vhAX4c+6z9PUDEKqu7eRr9Mkbz1j9sGFXeJxPm8aepXj14ro1ZZ/Rp3MJyCjEDQin05LYQ9ASFR2ipj8/Mw8qJHGehGVEDqpkY/ZICr0u3Xl9fFSjbwkrY3jhFXZ9iRi2/RlS08enOKKbw5Eg9gLqYkwkUwodDuZpbM/WbpSvnTPdeJDV2uiZWTJlJ99soB7Cl1PEUNeeKxTwOZ1Ax/e9PdnvZEMS8ZD0a/F/HsSYtEvfGpa4qLMGZ8f3sZmRt8Gz6JVVKK1HW1NByqDbw6xXrQnHavzUlivXmalE7gwXbz1b1Nqqb37smmabUe7lkYunMxZ3YE7J+PP0OwXqGoPyRcZx5a9c7A5yZIXEgqw5vNM1Tuvgo4m/+fre4K1wPV3iKK/SLgI9uNufWD3T7iWOVAB4y8fJl7yj8KtvEqeEFGmG/9fOTwEmwjYSgTmZZVypp6ecW7hHVK/rqb7vjxcNsuSPoyN+jiaHIKG1JYyJguKarVQ/PleeYDqB9B0k1eglHf//sgeQx1GQ==;cJ+kh24q9sa5Y2lJyFpHZQ=="
 ---
 

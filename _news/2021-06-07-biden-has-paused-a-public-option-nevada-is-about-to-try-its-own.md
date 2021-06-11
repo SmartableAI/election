@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-bid
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-biden/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609164025-03-biden-international-trip-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden is at the G7 meeting of world leaders. Here's what to know about it"
+    excerpt: "President Joe Biden's first trip abroad since taking office includes a G7 summit where he'll look to reestablish US leadership on the world stage.\n    \n"
+    publishedDateTime: 2021-06-11T04:00:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s6f5v5jTvao/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/g7-summit-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/g7-summit-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610161934-01-g7-through-history-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

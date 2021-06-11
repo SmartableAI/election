@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-09-house-democrats-release-former-trump-white-house-counsel-don-mcgahns-testimony.md",
+      "title": "House Democrats release former Trump White House Counsel Don McGahn's testimony ",
+      "excerpt": "The House Judiciary Committee has released the transcript of its June 4 interview with Trump White House Counsel Don McGahn, the culmination of a two-year court fight Democrats waged against the Trump administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqtUtVn9cO8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqtUtVn9cO8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191125183648-03-don-mcgahn-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/don-mcgahn-transcript-released/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/don-mcgahn-transcript-released/index.html",
+      "publishedDateTime": "2021-06-09T14:47:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-trumps-former-white-house-counsel-says-he-felt-frustrated-perturbed-trapped-when-trump-asked-him-to-help-fire-mueller.md",
       "title": "Trump's former White House counsel says he felt 'frustrated, perturbed, trapped' when Trump asked him to help fire Mueller",
       "excerpt": "White House counsel said he felt \"frustrated, perturbed, trapped\" when Trump asked for his help firing Mueller. He also said that he tried to \"get off the phone\" when Trump raised the subject. Don McGahn made the comments while testifying to Congress last week about the Mueller probe.",
@@ -450,7 +506,7 @@
       "originalUrl": "https://abcnews.go.com/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1274,62 +1330,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp",
       "publishedDateTime": "2021-06-08T11:54:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-senate-confirms-first-biden-judicial-nominee-as-schumer-promises-to-move-swiftly-on-picks.md",
-      "title": "Senate confirms first Biden judicial nominee as Schumer promises to move 'swiftly' on picks",
-      "excerpt": "The Senate Tuesday confirmed the first of President Biden's judicial nominees to a federal district court, starting a long effort for Biden and Senate Democrats to match the massive number of judges confirmed under former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JDTVzLlV4A/senate-confirms-first-biden-judicial-nominee-schumer-promises-swiftly",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JDTVzLlV4A/senate-confirms-first-biden-judicial-nominee-schumer-promises-swiftly",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/senate-confirms-first-biden-judicial-nominee-schumer-promises-swiftly.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-first-biden-judicial-nominee-schumer-promises-swiftly.amp",
-      "publishedDateTime": "2021-06-08T11:25:32-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

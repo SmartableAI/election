@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Ocasio-Cortez calls out Kamala Harris after speech"
-excerpt: "Rep. Alexandria Ocasio-Cortez (D-NY) criticized Vice President Kamala Harris' speech in Guatemala where she told potential migrants \"don't come\" to the US."
-publishedDateTime: 2021-06-08T00:11:00Z
-originalUrl: "https://www.djournal.com/news/national/ocasio-cortez-calls-out-kamala-harris-after-speech/video_54a00669-fb29-56a1-a955-419b09348ed2.html"
-webUrl: "https://www.djournal.com/news/national/ocasio-cortez-calls-out-kamala-harris-after-speech/video_54a00669-fb29-56a1-a955-419b09348ed2.html"
+title: "Kamala Harris, Yet to Visit Border, Meeting TX Dems Who Blocked Voting Bill"
+excerpt: "Symone Sanders, senior advisor and chief spokesperson to Vice President Kamala Harris, said Harris would meet with Texas Democrats \"who in May blocked passage of legislation that would have made it significantly harder for the people of Texas to vote."
+publishedDateTime: 2021-06-11T04:27:00Z
+originalUrl: "https://www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648"
+webUrl: "https://www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648"
+ampWebUrl: "https://www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648?amp=1"
 type: article
-quality: 55
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/4a/54a00669-fb29-56a1-a955-419b09348ed2/60beba0b743f6.image.jpg?crop=1100%2C619%2C0%2C0&resize=1100%2C619&order=crop%2Cresize"
-    width: 1100
-    height: 619
+  - url: "https://d.newsweek.com/en/full/1818885/kamala-harris-border-visit-texas-democrats-voting.jpg"
+    width: 3200
+    height: 2133
     isCached: true
 
 related:
@@ -120,22 +126,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/dbc0bab2979c9d6a83d749606c6e7e560156f135/0_290_4424_2654/master/4424.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86687ac72aefeed0d40860b14257a991"
         width: 600
         height: 360
-        isCached: true
-  - title: "Kamala Harris, Yet to Visit Border, Meeting TX Dems Who Blocked Voting Bill"
-    excerpt: "Symone Sanders, senior advisor and chief spokesperson to Vice President Kamala Harris, said Harris would meet with Texas Democrats \"who in May blocked passage of legislation that would have made it significantly harder for the people of Texas to vote."
-    publishedDateTime: 2021-06-11T04:27:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1818885/kamala-harris-border-visit-texas-democrats-voting.jpg"
-        width: 3200
-        height: 2133
         isCached: true
   - title: "Vice President Kamala Harris’ plane forced to return due to technical problem"
     excerpt: "A technical problem that involved \"no immediate safety issue\" forced Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."
@@ -816,6 +806,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Ocasio-Cortez calls out Kamala Harris after speech"
+    excerpt: "Rep. Alexandria Ocasio-Cortez (D-NY) criticized Vice President Kamala Harris' speech in Guatemala where she told potential migrants \"don't come\" to the US."
+    publishedDateTime: 2021-06-08T00:11:00Z
+    webUrl: "https://www.djournal.com/news/national/ocasio-cortez-calls-out-kamala-harris-after-speech/video_54a00669-fb29-56a1-a955-419b09348ed2.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/4a/54a00669-fb29-56a1-a955-419b09348ed2/60beba0b743f6.image.jpg?crop=1100%2C619%2C0%2C0&resize=1100%2C619&order=crop%2Cresize"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Vice President Kamala Harris in Guatemala on migration mission"
     excerpt: "Vice President Kamala Harris was in Guatemala on Monday, her first stop in a mission to work on reducing migration to the US by seeking to improve conditions in Central American countries. And, in Burkina Faso,"
     publishedDateTime: 2021-06-07T19:30:00Z
@@ -897,6 +901,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "21OlL5W+b/PlyEwCYcdm6yS/GI0gCG6nphxyBmw/8c2X7Qy8DaIgOSgahRyl7wIjvVQP4CBJBvl0iilhf0bX3TU24Wn2/gEiMhDcJtWD8DluHaOz4ZERg4NxxeRP9WJkulNMST32uj2ebEJ4pDgjWW8ZHwEJbPs19wP1ShvuPq/llnMsuz1sY1vXa997r79FXYjAren8fMxVt2/YEJoKb/qySLNtaaXj2Jg/vCpfKyE5gQElg9ny1MhqOuyujc/32Wi42itmSyVLIIEV5NOUZIrU/YdtucjqTrvdXyAav1JYuiAKZHh/n4oAR27dRszZWQGnEeEUgeCdxjhEVEWZTOHJqRHjjfoL0VJHlpAQFtnoBuIHa3ykI4qIEFB+Jm6ZVIFp0OS/TJjhnWXwpXzBlAp37h84Nj3euRoFYuPOr0VqV+NRaSzIGAQF87P06TmC1kxN6zlqovoZ9+c679YesH6nJPTjkfKBALX+H0Osayef4B8Iy76VhH/mhgDmWDlzaC9yGvfIpeKLfYj2gl5vIQ==;1CPCFVDV2xEHcSw7S7/buQ=="
+secured: "3m47uRhkf8Bd/jzTEurPC5ZDfES4nXyr5k5t/mRnu+im2TayLBzd/X1lld7YweUZ25Ca3K3upfrV+1UZVFcxolSs1pQrDaGURAeTBIhxyF0a4OQxEMm17F4dPQAwR6/embfVdlO0zeenuuJLmDS1oj/RGpnAkkT8d8iS+yPSKExIwBU+T/QQ5hMMqe2UJuSN83BSnuPJJHLfWCyx/snOXb6Fon+XU4DgDlOmHgRMr8Wth9CcIhYUqb0wcjowByME3eSi++YCNsgc5IslCpa3DTy9KuLQQDkpxtY6uLQqN0MV8CKDhgWeaX7CZSgO501N0215ftwAAraLlQ9TnOAs1BlNIEaG/+SKVskkkkqB8Yg=;nTsK9cge3cKUN4ZAXX4R6Q=="
 ---
 

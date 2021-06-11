@@ -121,6 +121,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Kamala Harris, Yet to Visit Border, Meeting TX Dems Who Blocked Voting Bill"
+    excerpt: "Symone Sanders, senior advisor and chief spokesperson to Vice President Kamala Harris, said Harris would meet with Texas Democrats \"who in May blocked passage of legislation that would have made it significantly harder for the people of Texas to vote."
+    publishedDateTime: 2021-06-11T04:27:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1818885/kamala-harris-border-visit-texas-democrats-voting.jpg"
+        width: 3200
+        height: 2133
+        isCached: true
   - title: "Vice President Kamala Harris’ plane forced to return due to technical problem"
     excerpt: "A technical problem that involved \"no immediate safety issue\" forced Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."
     publishedDateTime: 2021-06-06T19:19:00Z
@@ -881,6 +897,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "ONAH4xevlJi0c5Ya0DiiI77f/3/qMwuwmkqTPD6gDq24+uW8GqlvzMnjrYid/p4kSMxP8gOhgZMOcK4+VD7LoFSdINHQy0n9Ctm65yqyMVcHT1KS1b9sXhpHCBJWq2FWgJSTtHLBPyFMfNMajADs448V/UymPukIkFVs7v3daSzFdhhiTpcZqVNrJ9TtuJKNW040xvEi3FQkKFPlWHiBLX1vHpJb2c+Z5E+lmpJXCiApoiSbUw0UFoe0PVBcJLfE97jGbQmNS0zhFsULxOSBsSvzMVkr7xq1cGfCqtR9q0pdz2tws0yaw1vuRxU8BhJhAHG6edqPh/L+HWty/BvQi9wE2eBOOMTb6ZvGGDGjx+k=;tST2ZBGo5ziJ5N9U1Kw1dA=="
+secured: "/JZe+bCq33h02B/AG1Fv0sXhTjbanT13IpncKpcVkEFKTaZocdvn+2jgUHN2PJcfHb32caFHdbiOENl9xh+vGfGiQkBQ8ilzbZAQwuBvPUSCHsU+qQX7ZE02WkRC4CQ+qHjC1Suqte6eR1J8LeJK2P0EhP1VZbpBppuRSYp9Rz9PEP9Fzlv5sZR2tytuqksrLHhKAZbK8t9eUmBYtmRKRxpskw3g8Qp82SDPagD2F4PB+sPRSwNatTtXehRN1INtMQww5uQa/F26ohUwp4agsxQdVDHROj7FQQs1a4bGdzVdlYZ6TNe9UsOEuhGnsxpRhKQ+y0GR4wXyNuueLbDld4LKD5c+VbhPk800TgO//siw7UM99CDNsrPa/xwuCE5KRO/YKTX3sJW3gcP76yZ0/d3Ro+QF9HGzEVnGajKFoX8p02A2eHKPqzsSeqx7qDe0GN4xaVQ/WCOuqRRfTNpDACWLPqbCVGBoZ7VBM2NT4ShgsKnJ09A5HoNV4e2VvXTg3P5ntC2Ujr6iLV52q3RhgQ==;ZUZQfXcAl3dcielJxgrAwg=="
 ---
 

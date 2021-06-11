@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-tru
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1"
 type: article
 quality: 140
-heat: 1300
+heat: 1320
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/dbc0bab2979c9d6a83d749606c6e7e560156f135/0_290_4424_2654/master/4424.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86687ac72aefeed0d40860b14257a991"
         width: 600
         height: 360
+        isCached: true
+  - title: "Kamala Harris, Yet to Visit Border, Meeting TX Dems Who Blocked Voting Bill"
+    excerpt: "Symone Sanders, senior advisor and chief spokesperson to Vice President Kamala Harris, said Harris would meet with Texas Democrats \"who in May blocked passage of legislation that would have made it significantly harder for the people of Texas to vote."
+    publishedDateTime: 2021-06-11T04:27:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-yet-visit-border-meeting-tx-dems-who-blocked-voting-bill-1599648?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1818885/kamala-harris-border-visit-texas-democrats-voting.jpg"
+        width: 3200
+        height: 2133
         isCached: true
   - title: "Vice President Kamala Harris’ plane forced to return due to technical problem"
     excerpt: "A technical problem that involved \"no immediate safety issue\" forced Harris’ plane to return to Joint Base Andrews in Maryland about 30 minutes after she had left Sunday on a trip to Guatemala and Mexico."

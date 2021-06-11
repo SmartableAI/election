@@ -43,6 +43,15 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Biden administration restores $929 mln for California high speed rail"
+    excerpt: "U.S. President Joe Biden's administration and California on Thursday reached a settlement to restore a $929 million grant agreement that former president Donald Trump tried to revoke."
+    publishedDateTime: 2021-06-11T04:29:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-administration-restores-929-mln-california-high-speed-rail-2021-06-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
 
 secured: "+mzLmJjjBpu3y2RN9GUWgFQVsgQg4AHhrpjttxu3qXkQnCi9I4AJMsaPsoUqN1c++rBVm2YLc/yLz0q5zJraGLk7QilOZ6jwMg+GyewFbGNNa6exCU3wEln3G7/1kOfTsR2LuKNxDB2vMjvfhFEMam6Kgp6xBUdICoX//o0k9/0mRZIwM/10u6rE+qiWl8+ZWD9EHTy/5vFdGafszUq3wAJgQzVMsh5PKV0OV+2WrwtVJCn/ZzzWRNtvvQGDygvrg0wU3QiPMdIVFUVLYm8NGPvFJZFj3S3udy7bYonZin8R5Kp64c8Hi0VFN9ZC3iSoir+LzCVfBE8KkWySdA7ffE1IJx5nIVtHCO+1ZjUmzLU=;kARrnnF63Gf9tqxywGz/gQ=="
 ---

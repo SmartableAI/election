@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/president-joe-biden-arrives-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/president-joe-biden-arrives-uk-overseas-trip-administration-78179599"
 type: article
 quality: 103
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration restores $929 mln for California high speed rail"
+    excerpt: "U.S. President Joe Biden's administration and California on Thursday reached a settlement to restore a $929 million grant agreement that former president Donald Trump tried to revoke."
+    publishedDateTime: 2021-06-11T04:29:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-administration-restores-929-mln-california-high-speed-rail-2021-06-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
   - title: "Joe Biden embarks on first overseas trip as president to assure European allies, meet with Russia’s Putin"
     excerpt: "Biden told reporters the trip is about making clear to the leaders of China and Russia that the United States and Europe “are tight.”"
     publishedDateTime: 2021-06-09T19:30:00Z

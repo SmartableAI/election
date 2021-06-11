@@ -121,28 +121,23 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump DOJ seized data from House Democrats in leaks probe"
-    excerpt: "The Trump administration's attempt to secretly gain access to data of individual members of Congress and others related to the panel came as the president was fuming over investigations — in Congress and by then-special counsel Robert Mueller — into his campaign's ties to Russia."
-    publishedDateTime: 2021-06-11T01:55:00Z
-    webUrl: "https://www.chron.com/news/article/NY-Times-Trump-DOJ-investigated-House-Dems-16240230.php"
-    ampWebUrl: "https://www.chron.com/news/amp/NY-Times-Trump-DOJ-investigated-House-Dems-16240230.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NY-Times-Trump-DOJ-investigated-House-Dems-16240230.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "After 2-Year Battle, House Panel to Interview Trump Counsel"
     excerpt: "The House Judiciary Committee is poised to question former White House counsel Don McGahn behind closed doors on Friday, two years after House Democrats originally sought his testimony as part of investigations into former President Donald Trump."
     publishedDateTime: 2021-06-04T13:47:00Z
     webUrl: "https://www.usnews.com/news/politics/articles/2021-06-04/after-2-year-battle-house-panel-to-interview-trump-counsel"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-04/after-2-year-battle-house-panel-to-interview-trump-counsel?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-04/after-2-year-battle-house-panel-to-interview-trump-counsel?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump DOJ Seized Data From House Democrats in Leaks Probe"
+    excerpt: "The Justice Department under former President Donald Trump seized data from the accounts of at least two members of the House Intelligence Committee in 2018 as part of an aggressive crackdown on leaks related to the Russia investigation and other national security matters."
+    publishedDateTime: 2021-06-11T04:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
