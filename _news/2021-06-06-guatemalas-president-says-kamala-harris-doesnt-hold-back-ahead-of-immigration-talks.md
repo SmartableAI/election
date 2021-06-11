@@ -207,6 +207,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris Grilling Bill Barr Video Resurfaces After DoJ Apple Data Revelations"
+    excerpt: "The May 2019 video shows Harris asking the then-attorney general whether anyone at the White House suggested to him that he should open an investigation into anyone."
+    publishedDateTime: 2021-06-11T15:31:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-grilling-bill-barr-video-resurfaces-after-doj-apple-data-revelations-1599799"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-grilling-bill-barr-video-resurfaces-after-doj-apple-data-revelations-1599799?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-grilling-bill-barr-video-resurfaces-after-doj-apple-data-revelations-1599799?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1819257/harris-barr-investigation.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Kamala Harris Sticks to 'Root Causes' Migration Message, Doesn't Respond to AOC's Criticism"
     excerpt: "On her trip to Mexico and Guatemala, Vice President Kamala Harris emphasized the United States' commitment to dealing with the \"root causes\" of migration, including poor economic conditions that force people to flee to the U."
     publishedDateTime: 2021-06-08T19:11:00Z

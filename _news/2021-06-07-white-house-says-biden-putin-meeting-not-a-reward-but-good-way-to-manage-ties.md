@@ -127,6 +127,15 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "G-7: What's driving the day at summit in U.K. attended by President Joe Biden"
+    excerpt: "President Joe Biden and the leaders of Britain, Canada, France, Germany, Italy and Japan are expected to endorse a plan to ensure a global minimum corporate tax rate of at least 15%. This is to prevent large companies such as Amazon and Apple from paying little-to-no-tax on their overseas earnings."
+    publishedDateTime: 2021-06-11T09:09:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/11/g-7-whats-driving-day-u-k-summit-attended-joe-biden/7622607002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 32
 
 secured: "eLdNnlFVq0rnGzEiV0wtlmc/M0Amw6v3QbkuHCxEq9jIag4D7EBr8Mtm/8W8iUIXYfdsBRz+9NPBAeLdDIKNydB9sB1mQcs9Uw4zhLZkBPrRmPaFlmMMkN0mZiVvMjXF+cSj2cm8nZpRiIWU98sl/voImhMY7TeJVagqoFxfUSD/RirZtrVaZum7x8gbyYIll+ROVBznGMg5/o/OqUtzdl+Sjg1jcvh9g9it/vt23QISwc0Q0spONrrCjBdpsYUITrHOMEpWcssBD7BseqsqYAWGPhsRslj1qxZNWLDxg3Dou8lITX9MmEHB7I720qKo5PL1R8VwCvYLaLzisPT3rot1+uE2s90FP7TmvzwRcEKor2tfXKC91TRkP24QGptr0hNY26N9sD4aYB0Q/Ln3KLlg1kCToDed6H8RpA5F8cqyo9OsnUmTXA70jkU6oXDmKiuB/zWn0bdFcsLoDGiZSqnJ6dM9Lnq2yybpgnwUcWg/P5G92O5HLh0Ipwnx7P/DzTWoBN3UDA2hyitdDczmLA==;Si2aS+zMCHHOJu/2Rk2GWA=="
 ---

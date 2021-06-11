@@ -191,6 +191,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Joe Biden is meeting with the G-7 on his first presidential trip abroad. What is the G-7 and what do they do?"
+    excerpt: "Biden will attend the G-7 summit on his trip to Europe. Other stops include visits to Queen Elizabeth II and Russian President Vladimir Putin."
+    publishedDateTime: 2021-06-11T10:26:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/11/biden-attends-g-7-summit-week-heres-what-know/7624050002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 16
 
 secured: "AY75wvnVWnW18zi45Kfy/s/Q39b65Z3T0W1EBzdSFwDgarATvh6MGKmUe9jynji0apbOjjbrlNF/SV2jNC53M+9x/3WzF8dH7izdnHr931nF7v6v36vV8APe4y37oCi9ZbUPL9mGgsZWuSwMuW3i6BcF9c2ZUT+iFaF1LRvdGkBPhB+dpWFfaJ0DQRUSN78A4bZz4tSvYtvRuC4Bufo+3BKRiElU/i5ARvfskAXHfrox9pDiUHXxBwFLUs6dNA9SlvlebQ58Nb1FMoZFG4Tl+E+ruq8WHL4VW2Kr45eWTfDT6Qv6I6xSuFD5YSOzxqoKtcxxFmrOXIyN6ueMo8+ylOFvaDuIcSnGliMLyWczP2GBcQT6EkR9LSEqEpmo/I2kYlF6zWvcHZwtNX4wzA6/wDQKNMrTla5GTjb1yBHviUDsQ8Stsr6WkBJTKDLni/Sp++n3kbazkDWvlLgiSZYkCwr4e/ewGi8Pi97lxhjaJNgG0lJxcMaksTg8vpgHjVlHhPuvv7WWvn/JW/E7ptAvZw==;L8kK7Wq3LNMz+3xReRZKQA=="
 ---

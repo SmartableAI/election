@@ -125,7 +125,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US Closes Trump-Era Office for Victims of Immigrant Crime"
+    excerpt: "The Biden administration says it has dismantled a Trump-era goverment agency that was created help victims of crimes committed by immigrants."
+    publishedDateTime: 2021-06-11T15:06:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/us-closes-trump-era-office-for-victims-of-immigrant-crime"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "aSxvOWI+1wBqwnuw0GAVo8xKWrKHupkzUNLinORlDXy/F2x1vz2/o8zS/7l5ux1aGreBCTYSvSzK+/dMt/VFkTFaTx1Z8OQ5YhG8txWuAmJmdVfIdKRj4cKyOH0ZJKbpbWspkqJOlirFpAgLRgiYu9QKLUNphelBOSWzTu3rntGgDqibG6om8NxEVRzIXOlu4sADzHAh0s+fu1tfQtjKJfL8fm/8Lui1YY12TT9mAVWc/oYjFF63N1pffP2p21xFq5rWqg5pPcOUDPqT0Yt3a262e/ejweJ9jkt0WMxzm6f7KtNkt1Xf6QWznxkXzliWBFWbpz3uPOZvKao3ZkyAfjU+HPgvryC+wghl+Tj09/g=;7gLRIuehvpOKaMR4ggQ4vw=="
+secured: "Rz9IoNkEsI+20gnRZbvIA1QkGWO1Wyvl7g9zuZUMzrOiwDzEoOiw8NsctCKjgoPFjwC4W0FAGNaTBGy7wxhRyCQitY7T1UaPsboOJPX5XPOtpY05/2vBMw7Ju5OxDUIaC6mW0d1AUCMj8zu9y9O+CtHLj20icPyDh25A0D0iVrDuRQUwZyUOpsleAumQn9+VVAZyon2OA9QajJ1/bBDZ1psLV1rNwTOA0DEbm3wU2LlZBoI9sOE/HosO6cVJm/nJ6ZZB6LnRhp9EnizEDowFzGMaYP30UXdW9U4x43ZXV/UeCbSwkEZLQMtF9AKh8GUdgzeTwP1kKxLDBp6ljaJRvdSpIF/PKPX6SStiW47xdL/pMWZ0rb35x2FTwj4S8kvyV4TtEm4Uc24yfQdr2t9ZMbI1GLfTXzXPEMxQYrssQTYF8jUOYZaHLsfq8VCNNfwsMiOgFfxf/By10cW98wiM0T64QV2Qprbuv1EpRaexX4AyjAipgh02UZkggLpfXNpRMVaZK31Isq12TFbyquN8dQ==;Pq0XAXmcp5G63U4iaPfubQ=="
 ---
 

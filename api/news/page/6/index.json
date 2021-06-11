@@ -2,6 +2,171 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-03-trump-doj-seized-phone-records-of-new-york-times-reporters.md",
+      "title": "Trump DOJ seized phone records of New York Times reporters",
+      "excerpt": "The New York Times reported on Wednesday that the Justice Department under former President Trump Donald Trump RNC warns it will advise presidential candidates against future debates if panel doesn't make changes Washington Post issues correction on 2020 report on Tom Cotton,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters",
+      "originalUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca_dojhatecrimechurchfire_041521getty.jpg",
+          "width": 1440,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp",
+      "publishedDateTime": "2021-06-02T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-washington-post-op-ed-claims-media-no-longer-needs-trump-despite-nonstop-coverage-of-former-potus.md",
+      "title": "Washington Post op-ed claims media 'no longer needs Trump' despite nonstop coverage of former POTUS",
+      "excerpt": "Washington Post columnist Paul Waldman made a questionable claim that the media \"no longer needs\" Donald Trump despite the continued coverage the former president still receives more than four months after leaving office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump",
+      "originalUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13047418-caba-44ab-b1ef-54005bdff3dc/dacbaf78-7f4d-4ad2-9cae-657e1f1b9c1b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-media-no-longer-needs-trump.amp",
+      "publishedDateTime": "2021-06-02T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-well-paid-aoc-dinged-after-posting-photo-of-grandmas-dilapidated-puerto-rico-home-and-blaming-trump.md",
+      "title": "Well-paid AOC dinged after posting photo of grandma's dilapidated Puerto Rico home and blaming Trump",
+      "excerpt": "Rep. Alexandria Ocasio-Cortez posted a photo of her grandmother’s Puerto Rico home in a state of disrepair in the aftermath of Hurricane Maria to demonstrate how the U.S. had blocked relief to the territory, but some questioned why she hadn’t offered to help repair the home herself.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HZ4EpfCUyEo/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HZ4EpfCUyEo/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/aoc.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief.amp",
+      "publishedDateTime": "2021-06-02T15:40:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-robert-mueller-to-help-teach-law-school-class-on-trump-russia-investigation.md",
       "title": "Robert Mueller to help teach law school class on Trump-Russia investigation",
       "excerpt": "Former special counsel Robert Mueller will help teach a University of Virginia Law School class on his investigation into Russian interference in the 2016 presidential election, the school announced Wednesday.\n    \n",
@@ -1166,171 +1331,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democrats-biden-play-ball/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/trump-taxes-house-democrats-biden-play-ball/index.html",
       "publishedDateTime": "2021-06-01T03:17:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms.md",
-      "title": "Trump Turned Nonvoters Into Voters in 2020. Will They Turn Out for Next Year’s Midterms?",
-      "excerpt": "Former President Donald Trump drew substantial support in 2020 from a new pool of voters whose decisions on whether to participate in elections again will be central to next year’s midterms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
-      "originalUrl": "https://www.wsj.com/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-344446/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-turned-nonvoters-into-voters-in-2020-will-they-turn-out-for-next-years-midterms-11622545202",
-      "publishedDateTime": "2021-06-01T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-a-former-associate-of-trump-ally-roger-stone-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-a-conference-with-qanon-attendees.md",
-      "title": "A former associate of Trump ally Roger Stone appeared to gesture for Hillary Clinton to be hanged at a conference with QAnon attendees",
-      "excerpt": "Jason Sullivan, a former social media adviser to Roger Stone, made a gesture appearing to resemble a noose, receiving loud cheers from a crowd.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5",
-      "originalUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60b545ff02ac410018f93a82?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/roger-stone-adviser-appeared-to-gesture-for-hillary-clinton-to-be-hanged-at-qanon-conference-2021-5?amp",
-      "publishedDateTime": "2021-05-31T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-biden-proclaims-day-of-remembrance-on-100th-anniversary-of-tulsa-race-massacre.md",
-      "title": "Biden proclaims day of remembrance on 100th anniversary of Tulsa Race Massacre",
-      "excerpt": "President Joe Biden on Monday issued a proclamation to commemorate the 100th anniversary of the Tulsa Race Massacre, when hundreds of Black Americans were killed by a White mob that attacked a prosperous Black neighborhood and burned dozens of city blocks to the ground.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAIR3hiAk7U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAIR3hiAk7U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210531111043-joe-biden-may-31-2021-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/31/politics/biden-proclamation-tulsa-race-massacre/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/31/politics/biden-proclamation-tulsa-race-massacre/index.html",
-      "publishedDateTime": "2021-05-31T12:40:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

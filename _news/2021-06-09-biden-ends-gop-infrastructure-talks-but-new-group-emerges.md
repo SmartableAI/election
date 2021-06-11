@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrast
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -127,6 +127,15 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "G-7: What's driving the day at summit in U.K. attended by President Joe Biden"
+    excerpt: "President Joe Biden and the leaders of Britain, Canada, France, Germany, Italy and Japan are expected to endorse a plan to ensure a global minimum corporate tax rate of at least 15%. This is to prevent large companies such as Amazon and Apple from paying little-to-no-tax on their overseas earnings."
+    publishedDateTime: 2021-06-11T09:09:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/11/g-7-whats-driving-day-u-k-summit-attended-joe-biden/7622607002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 32
 
 secured: "bln9XlwsawFk4VX0u3Vc2TxaDzPMUUK0vQM3l2gyf+BzObTfHTESsA1SRDRAEUpuG1kRPgQ+YJFA0kh1jBo9VHUqd7hbO0KxU+4YnGXpcfHY+0+9FjT8l1xy6FiEGGiNx9HDJURAx5ZL0ZglJFmTZMngjYwr98tnKWDzd5629coE8QuGj5a5IJgpM0uqZBx+9e+EcKAWCA5Rg43LXbPrvOg7Vpzq1jeqx6qdcLRzcBfn2WmKl3sZIaXqSr9OmBCA73tSFIuJyzYlEBmBBRVuEH3sVAtoH/HLaQn3Nv0Fc0I6Mo0mdgBJuUD4kiGhNr9XFDoa4XGANIfIQkNgRgeSAUBpjvE55QR2uL3H4onhzpr0VgfifiDaAIRJC1nH5YQeXvwzOZQ9aHePDqyCoeES6oRGyYGIuXxzI/ND4qkl/na3IXKbaVHWQJRkgYatjasN6NMA2Ym9OOg+Lu/iq9A3oJHWeCDWB0dnS3GolLxb+OhTf/UnWLjzHin2Wf5wZHKRFRhi/R9hHvkiELoFLBqoTQ==;zxZDr1cabQkW65wY07GzMg=="
 ---

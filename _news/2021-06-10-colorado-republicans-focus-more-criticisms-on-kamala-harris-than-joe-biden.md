@@ -8,7 +8,7 @@ webUrl: "https://www.denverpost.com/2021/06/10/kamala-harris-colorado-gop-boeber
 ampWebUrl: "https://www.denverpost.com/2021/06/10/kamala-harris-colorado-gop-boebert/amp/"
 cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/06/10/kamala-harris-colorado-gop-boebert/amp/"
 type: article
-quality: 88
+quality: 98
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://www.denverpost.com/wp-content/uploads/2021/06/Boebert-Harris.jpg?w=1024&h=542"

@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "G7 summit: Boris Johnson praises Joe Biden as ‘breath of fresh air’ after talks – as it happened"
+    excerpt: "Latest updates: prime minister welcomes US president’s desire to work with UK on issues such as security and climate crisis"
+    publishedDateTime: 2021-06-10T17:13:00Z
+    webUrl: "https://www.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7?page=with:block-60c2518f8f0854de4ba6c9c6"
+    ampWebUrl: "https://amp.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 112
+    images:
+      - url: "https://i.guim.co.uk/img/media/b2e2f51ac3a62db0601d6873d3cb877c1a15c4a3/0_130_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8275ecf65705cb5f80366212805bfc06"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden not looking to lecture Johnson on N.Ireland, official says"
     excerpt: "U.S. President Joe Biden has not come to Britain to lecture Prime Minister Boris Johnson about Northern Ireland and is not looking to be confrontational or adversarial, a senior U.S. administration official said on Thursday."
     publishedDateTime: 2021-06-10T12:17:00Z
@@ -123,6 +139,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "G7: Joe Biden is breath of fresh air, says Boris Johnson"
+    excerpt: "Boris Johnson has described US President Joe Biden as a \"breath of fresh air\" after they met for the first time on the eve of the G7 summit in Cornwall. \"There's so much that they want to do together with us,"
+    publishedDateTime: 2021-06-10T17:28:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-politics-57433296"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-politics-57433296.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-politics-57433296.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/185E0/production/_118880899_johnonbiden.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Joe Biden, Boris Johnson to solidify alliance with renewed Atlantic Charter"
     excerpt: "President Joe Biden will spend the opening leg of his first overseas trip as president meeting with British Prime Minister Boris Johnson Thursday on a host of issues, along with signing the Atlantic Charter."
     publishedDateTime: 2021-06-10T13:55:00Z
@@ -138,6 +170,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi_com/6561623330424/2021/1/20247bdb571662d5db68393fab9fd5bf/v1.5/Joe-Biden-Boris-Johnson-to-solidify-alliance-with-renewed-Atlantic-Charter.jpg"
         width: 800
         height: 535
+        isCached: true
+  - title: "Boris Johnson 'won't disagree with Joe Biden on anything'"
+    excerpt: "The UK Prime Minister has said he is \"not going to disagree with his US counterpart on anything\" ahead of the G7 summit in Cornwall. He was responding to the US President's joke that they both married \"way above their station\"."
+    publishedDateTime: 2021-06-10T16:33:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-politics-57434182"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FA61/production/_118879046_p09l40mt.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "xj6E57PyaHmktOVD6UlRio9PqpOD+WQfNUvxlW4BahLm0onkArVytGdyUb6GQDPj1Y0+9WohPUcETWtTQwctABcO1oIcvnMT+m9x1EATxGuYbzj2Bx1jGhtyal5GFdObVFizWuMcvyXJDeEGGNjLIN8vE7+LS7QomoitvM7CCJxJGnYfk6Qv7iS3waaeF0cRq+Egbd03MXoPVLxsC/BAMBheSz99e6+VepJ44DMdeCT6cD9Vftxnv+zuvGPQwlcY9O+x8PBuQVNYC3Qq9TRTpLPOxQA72yD0SQYbz/qGAbS8jnh96LmRdDpv3psB1wmugj/6cOk6FpRGEvM90pf5CdGqfonejkLSftBR5Bo/enk=;ohpBk10LwxnCgFI4FRzSVw=="

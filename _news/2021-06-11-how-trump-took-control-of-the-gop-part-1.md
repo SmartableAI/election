@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How Trump took control of the G.O.P.: Part 2"
+    excerpt: "Former president Donald Trump has remained the main driver of the Republican Party priorities, despite losing his reelection bid in 2020."
+    publishedDateTime: 2021-06-11T13:58:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/how-trump-took-control-of-the-gop-part-2/2021/06/11/e51dd21f-cb4f-482d-99c3-84e995e2dd4f_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-10-2021/t_30906ce0701a471f8f311da60f2eb083_name_Site_thumb_pt2.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Justice Department under Trump seized data from House Democrats in 2018 as a part of a probe on leaks related to the Russia Investigation"
     excerpt: "The Justice Department under former President Donald Trump seized data from the accounts of at least two members of the House Intelligence Committee in 2018 as part of an aggressive crackdown on leaks related to the Russia investigation and other national security matters."
     publishedDateTime: 2021-06-11T02:58:00Z

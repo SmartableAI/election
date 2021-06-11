@@ -125,6 +125,20 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "How Trump took control of the G.O.P.: Part 2"
+    excerpt: "Former president Donald Trump has remained the main driver of the Republican Party priorities, despite losing his reelection bid in 2020."
+    publishedDateTime: 2021-06-11T13:58:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/how-trump-took-control-of-the-gop-part-2/2021/06/11/e51dd21f-cb4f-482d-99c3-84e995e2dd4f_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-10-2021/t_30906ce0701a471f8f311da60f2eb083_name_Site_thumb_pt2.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
     excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."
     publishedDateTime: 2021-06-03T09:43:00Z

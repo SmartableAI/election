@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-tru
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1"
 type: article
 quality: 140
-heat: 1320
+heat: 1340
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/08/78605915-6163-4a89-a060-796f02056979/thumbnail/1200x630/e6879c7a8e89450c1a18204f3a2e1e2d/0608-ctm-foreigntrip-okeefe-730535-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris Grilling Bill Barr Video Resurfaces After DoJ Apple Data Revelations"
+    excerpt: "The May 2019 video shows Harris asking the then-attorney general whether anyone at the White House suggested to him that he should open an investigation into anyone."
+    publishedDateTime: 2021-06-11T15:31:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-grilling-bill-barr-video-resurfaces-after-doj-apple-data-revelations-1599799"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-grilling-bill-barr-video-resurfaces-after-doj-apple-data-revelations-1599799?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-grilling-bill-barr-video-resurfaces-after-doj-apple-data-revelations-1599799?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1819257/harris-barr-investigation.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Guatemala's president says Kamala Harris \"doesn't hold back\" ahead of immigration talks"
     excerpt: "Guatemalan President Alejandro Giammattei is set to host Harris on Monday during her first international trip as vice president."

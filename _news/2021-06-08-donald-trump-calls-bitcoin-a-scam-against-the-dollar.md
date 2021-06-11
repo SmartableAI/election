@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-57392734.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -125,6 +125,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US Closes Trump-Era Office for Victims of Immigrant Crime"
+    excerpt: "The Biden administration says it has dismantled a Trump-era goverment agency that was created help victims of crimes committed by immigrants."
+    publishedDateTime: 2021-06-11T15:06:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/us-closes-trump-era-office-for-victims-of-immigrant-crime"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "zOBkCPTlO4V0Jz5bVHulN4zH9H/ITr7ybW+4x9nOpw3C2ONdGA4byH1tuha/SMbKKuEVMOogXXNGEUBuY0NI1Vth9BoaNlnifIGuFOWd6x+KR5mw5GifK2mHNEM3/ElRrmG83rnOcTdYrGCyeuyLHVANuxngK2un6P/x9yUjQM6HaJv9dJBHhFenGompOICEGLXrHB7W2ultVNZERGoC61cmx4y5AGQYqcoCZawjPINlejSstOCNYfW9drmbnREmHi4FV3awa4Y68+cLK4Ctv5F1JB01UocPpQfawYHzg+sm5cbVpr6YYHS7PWZk7vQz0sOR6hW0xIVFwfjT02FBCso9b/RIWYADzdFeHa96A3U=;17xQVijHusezlv3O81YO+A=="
 ---

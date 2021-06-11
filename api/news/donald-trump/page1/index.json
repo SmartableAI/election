@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-11-caitlyn-jenner-could-be-the-next-donald-trump-how-her-appearance-on-the-view-proved-it.md",
+      "title": "Caitlyn Jenner could be the next Donald Trump. How her appearance on 'The View' proved it",
+      "excerpt": "On ABC's 'The View' with Meghan McCain and Joy Behar, Caitlyn Jenner seemed a lot like the former president, a reality TV veteran seeking office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/media/2021/06/11/caitlyn-jenner-donald-trump-the-view/7643374002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/media/2021/06/11/caitlyn-jenner-donald-trump-the-view/7643374002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/06/10/PPHX/b1e1a37d-5169-4a43-859b-4004aeb59ba2-Jenner.jpg?auto=webp&crop=1275,718,x2,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7643374002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7643374002",
+      "publishedDateTime": "2021-06-11T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-swalwell-donald-trump-was-the-biggest-brother-weve-ever-seen-in-terms-of-spying-on-opponents.md",
+      "title": "Swalwell: Donald Trump \"Was The Biggest Brother We've Ever Seen\" In Terms Of Spying On Opponents",
+      "excerpt": "Rep. Eric Swalwell (D-CA) said former President Donald Trump used the Department of Justice to spy on him: \"I hope Trump supporters who fear big brother see that Donald Trump was the biggest brother we've ever seen in our country who did weaponize this to go all the way down the stack into the private communications of people he perceived as political opponents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/545501.jpg",
+          "width": 1210,
+          "height": 906,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.amp.html",
+      "publishedDateTime": "2021-06-11T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-trump-doj-secretly-seized-house-democrats-data-in-crackdown-on-leaks.md",
       "title": "Trump DoJ secretly seized House Democrats’ data in crackdown on leaks",
       "excerpt": "At least two House members including Adam Schiff targeted in 2018, say officials familiar with the investigation",
@@ -426,7 +526,7 @@
       "originalUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
       "featuredContent": null,
       "highlight": null,
-      "heat": 360,
+      "heat": 380,
       "tags": null,
       "images": [
         {
@@ -686,7 +786,7 @@
       "originalUrl": "https://www.bbc.com/news/business-57392734.amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1112,7 +1212,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in",
       "featuredContent": null,
       "highlight": null,
-      "heat": 341,
+      "heat": 361,
       "tags": null,
       "images": [
         {
@@ -1477,102 +1577,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-next-stop-on-donald-trumps-political-comeback-tour-dallas-in-july-for-cpac.md",
-      "title": "Next stop on Donald Trump’s political comeback tour: Dallas in July for CPAC",
-      "excerpt": "Donald Trump will be in Dallas in July to appear at a major conservative gathering, organizers said Thursday — a fresh spotlight in a",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/news/politics/2021/06/03/next-stop-on-donald-trump-comeback-tour-dallas-in-july-for-cpac/",
-      "originalUrl": "https://www.dallasnews.com/news/politics/2021/06/03/next-stop-on-donald-trump-comeback-tour-dallas-in-july-for-cpac/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/lUN-Da5YC3ztZgVvz6kpg1TM6QE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/TIR3JXQ7FYZRFHCZZ43YLIGUMY.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/news/politics/2021/06/03/next-stop-on-donald-trump-comeback-tour-dallas-in-july-for-cpac/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/06/03/next-stop-on-donald-trump-comeback-tour-dallas-in-july-for-cpac/?outputType=amp",
-      "publishedDateTime": "2021-06-04T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6.md",
-      "title": "Pence: I'll likely never see eye to eye with Trump on Jan. 6",
-      "excerpt": "Former Vice President Mike Pence says he isn't sure he and former President Donald Trump will ever see “eye to eye” over what happened on Jan_ 6 but he will “always be proud of what we accomplished for the American people over the last four years.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 670,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_222e493ae2ce4962910dd26824e1fa20_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
-      "publishedDateTime": "2021-06-03T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     }
   ],

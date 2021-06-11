@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-11-pence-to-visit-iowa-to-headline-event-for-congressman.md",
+      "title": "Pence to visit Iowa to headline event for congressman",
+      "excerpt": "Former Vice President Mike Pence will headline a fundraiser next month for Rep. Randy Feenstra (R-Iowa), marking his third trip in recent weeks to an early primary state and fueling speculation about his 2024 plans.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
+      "originalUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_070820getty_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
+      "publishedDateTime": "2021-06-11T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-how-mike-pences-new-carmel-home-compares-to-the-last-one-he-owned.md",
       "title": "How Mike Pence's new Carmel home compares to the last one he owned",
       "excerpt": "Former Vice President Mike Pence and his wife Karen have improved their position in life since they last owned a home in Indiana in 2013. The Pences bought a modest home in Columbus in 2001 for about $116,",
@@ -150,49 +202,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-07-former-vice-president-mike-pence-to-speak-at-des-moines-event-this-summer.md",
-      "title": "Former Vice President Mike Pence to speak at Des Moines event this summer",
-      "excerpt": "Former Vice President Mike Pence, a frequent Iowa visitor during President Donald Trump's term, will return to Des Moines this summer. Pence plans to address the Family Leadership Summit in Des Moines on July 16.",
-      "sourceUrl": null,
-      "webUrl": "https://www.press-citizen.com/story/news/politics/2021/06/07/mike-pence-speak-des-moines-iowa-family-leadership-summit-family-leader-kristi-noem-mike-pompeo-july/7594916002/",
-      "originalUrl": "https://www.press-citizen.com/story/news/politics/2021/06/07/mike-pence-speak-des-moines-iowa-family-leadership-summit-family-leader-kristi-noem-mike-pompeo-july/7594916002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/29/PDEM/b4bb1aed-db4c-4826-81ab-80adeedd3735-20201029_Pence_10697.JPG?auto=webp&crop=2109,1187,x0,y257&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.press-citizen.com/amp/7594916002",
-      "cdnAmpWebUrl": "https://amp-press--citizen-com.cdn.ampproject.org/c/s/amp.press-citizen.com/amp/7594916002",
-      "publishedDateTime": "2021-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Iowa City Press-Citizen",
-        "domain": "press-citizen.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-06-06-why-mike-pences-speech-was-really-important-and-what-it-says-about-2024.md",
       "title": "Why Mike Pence’s speech was really important, and what it says about 2024",
       "excerpt": "The former vice president well received speech was interrupted by numerous standing ovations by the sold out crowd of conservative activists and leaders, but most importantly, he gave his most extensive comments to date about the deadly Jan. 6 insurrection at the U.S. Capitol.",
@@ -258,7 +267,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in",
       "featuredContent": null,
       "highlight": null,
-      "heat": 341,
+      "heat": 361,
       "tags": null,
       "images": [
         {

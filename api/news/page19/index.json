@@ -2,6 +2,167 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-05-04-biden-expected-to-speak-on-shift-in-us-vaccine-distribution-strategy-live.md",
+      "title": "Biden expected to speak on shift in US vaccine distribution strategy – live",
+      "excerpt": "White House reportedly to deliver unused doses to other states as part of ‘use it or lose it’ strategy – follow all the day’s politics news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest?page=with:block-60916c278f08235e51f1e2ec",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest?page=with:block-60916c278f08235e51f1e2ec",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cca8fd69fd929c563cf5d0423303d1d11a51c924/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1055a8a67a46d0831699cf04c784163a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
+      "publishedDateTime": "2021-05-04T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-will-trump-be-allowed-back-on-facebook-this-board-will-decide.md",
+      "title": "Will Trump be allowed back on Facebook? This board will decide",
+      "excerpt": "The former president had his Facebook account cut off after the insurrection. But on Wednesday, Facebook's new oversight board will announce if he'll be allowed to use the platform again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200717085352-zuckerberg-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business",
+      "publishedDateTime": "2021-05-04T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-facebook-and-trump-are-at-a-turning-point-in-their-long-tortured-relationship.md",
+      "title": "Facebook and Trump are at a turning point in their long, tortured relationship",
+      "excerpt": "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 321,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SUC6YBUU2II6XKW4V54HAGRQZI.jpg&w=1440",
+          "width": 1440,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp",
+      "publishedDateTime": "2021-05-04T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-joe-biden-raises-trump-refugee-cap-after-backlash.md",
       "title": "Joe Biden raises Trump refugee cap after backlash",
       "excerpt": "President Joe Biden has lifted the US annual refugee cap, bowing to backlash from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,",
@@ -1175,153 +1336,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far.md",
-      "title": "Joe Biden Issues 11 Proclamations, His Highest Daily Tally So Far",
-      "excerpt": "President Joe Biden set a personal daily record for The president issued 11 proclamations on April 30. Proclamations are statements that serve a variety of functions, such as issuing a directive, acknowledging an event or person,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
-      "originalUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1786140/biden-addresses-joint-session-congress.jpg",
-          "width": 2836,
-          "height": 1900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
-      "publishedDateTime": "2021-05-01T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-mike-pence-coming-to-texas-for-gop-fundraising-blitz-donor-appreciation-event.md",
-      "title": "Mike Pence coming to Texas for GOP fundraising blitz, donor appreciation event",
-      "excerpt": "Former Vice President Mike Pence and several other potential 2024 presidential candidates are descending upon Texas next week to thank donors to the 2020 campaign here and to help raise money to flip the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php",
-      "originalUrl": "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php",
-      "publishedDateTime": "2021-04-30T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-kamala-harris-to-give-naval-academy-commissioning-address.md",
-      "title": "Kamala Harris to give Naval Academy commissioning address",
-      "excerpt": "Vice President Kamala Harris will deliver the keynote address at the Naval Academy's commissioning ceremony, a White House official told a Maryland news outlet Friday. Harris is expected to give the speech May 28 during the in-person,",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/17/67/05/20934993/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php",
-      "publishedDateTime": "2021-04-30T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

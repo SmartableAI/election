@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/technology/557523-biden-revokes-trump-exe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp"
 type: article
 quality: 140
-heat: 360
+heat: 380
 published: true
 
 provider:
@@ -191,6 +191,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Joe Biden is meeting with the G-7 on his first presidential trip abroad. What is the G-7 and what do they do?"
+    excerpt: "Biden will attend the G-7 summit on his trip to Europe. Other stops include visits to Queen Elizabeth II and Russian President Vladimir Putin."
+    publishedDateTime: 2021-06-11T10:26:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/11/biden-attends-g-7-summit-week-heres-what-know/7624050002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 16
 
 secured: "jurMR3UDWRELFG/z0gvzSQBvW+1r12fBP1l+jA6WjHCF6BCvxssmSySuwWBw60QZajxwhQbmGXyHUfPxx10c1JY4zD7UZfUDm++4lNvlvSe6YMGMAKvhcD7dECEMifatNYYu9lem/49eGIhEdEdimKKiOWXEIn67gQFmHx7MfXHP+33rE+J14LuO708RJyTLHUfIXqiPTKotoDFR7ZAjKqTqPJZ8+UitPp43hbsiW04PN1VI+TKbtoo8SDDhUu4IdpZhAd4ZgjMIX2DV3s12LU/i9AvwZxmYFyK2+zNXT96hb2QxbLWy4ailBfRSazgNqTOugSEzHszrXn8hgi999MO11y2ItcvjghJwR27f9ew=;ChAtkvkJeeKd2hDXXxtTQg=="
 ---

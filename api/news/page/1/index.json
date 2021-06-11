@@ -2,6 +2,214 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-11-pence-to-visit-iowa-to-headline-event-for-congressman.md",
+      "title": "Pence to visit Iowa to headline event for congressman",
+      "excerpt": "Former Vice President Mike Pence will headline a fundraiser next month for Rep. Randy Feenstra (R-Iowa), marking his third trip in recent weeks to an early primary state and fueling speculation about his 2024 plans.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
+      "originalUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_070820getty_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
+      "publishedDateTime": "2021-06-11T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-swalwell-says-trump-weaponized-justice-department-against-enemies.md",
+      "title": "Swalwell says Trump 'weaponized' Justice Department against enemies",
+      "excerpt": "California Democratic Rep. Eric Swalwell, whose data was seized by the Trump administration as part of a leak probe, on Friday said former President Donald Trump \"weaponized\" the Justice Department to dig into the private communications of his political opponents.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLsUJzJiscI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLsUJzJiscI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210611150142-01-eric-swalwell-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-house-democrats-swalwell-reaction-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-house-democrats-swalwell-reaction-cnntv/index.html",
+      "publishedDateTime": "2021-06-11T08:07:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-caitlyn-jenner-could-be-the-next-donald-trump-how-her-appearance-on-the-view-proved-it.md",
+      "title": "Caitlyn Jenner could be the next Donald Trump. How her appearance on 'The View' proved it",
+      "excerpt": "On ABC's 'The View' with Meghan McCain and Joy Behar, Caitlyn Jenner seemed a lot like the former president, a reality TV veteran seeking office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/media/2021/06/11/caitlyn-jenner-donald-trump-the-view/7643374002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/media/2021/06/11/caitlyn-jenner-donald-trump-the-view/7643374002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/06/10/PPHX/b1e1a37d-5169-4a43-859b-4004aeb59ba2-Jenner.jpg?auto=webp&crop=1275,718,x2,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7643374002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7643374002",
+      "publishedDateTime": "2021-06-11T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-swalwell-donald-trump-was-the-biggest-brother-weve-ever-seen-in-terms-of-spying-on-opponents.md",
+      "title": "Swalwell: Donald Trump \"Was The Biggest Brother We've Ever Seen\" In Terms Of Spying On Opponents",
+      "excerpt": "Rep. Eric Swalwell (D-CA) said former President Donald Trump used the Department of Justice to spy on him: \"I hope Trump supporters who fear big brother see that Donald Trump was the biggest brother we've ever seen in our country who did weaponize this to go all the way down the stack into the private communications of people he perceived as political opponents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/545501.jpg",
+          "width": 1210,
+          "height": 906,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.amp.html",
+      "publishedDateTime": "2021-06-11T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-dem-infighting-intensifies-as-biden-meets-brits-at-swanky-uk-retreat.md",
       "title": "Dem infighting intensifies as Biden meets Brits at swanky UK retreat",
       "excerpt": "President Biden kicked off a series of get-togethers with world leaders Thursday ahead of the G-7 Summit while Democratic infighting intensifies back home.",
@@ -919,7 +1127,7 @@
       "originalUrl": "https://www.newsweek.com/qanon-supporters-joe-biden-cicada-neck-shows-plan-working-1599401",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1121,223 +1329,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-state-bar-investigating-texas-attorney-general-ken-paxton-over-trump-election-lawsuit.md",
-      "title": "State bar investigating Texas Attorney General Ken Paxton over Trump election lawsuit",
-      "excerpt": "A Democratic Party activist complained that Ken Paxton's challenge to President Joe Biden's victory in four states was frivolous and unethical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/10/texas-bar-investigates-attorney-general-ken-paxton-over-election-suit/7633751002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/10/texas-bar-investigates-attorney-general-ken-paxton-over-election-suit/7633751002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/06/NAAS/a4019b43-5247-4de3-96bb-87bf22051b19-Electoral_College_Protests.jpg?auto=webp&crop=4847,2727,x0,y246&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7633751002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633751002",
-      "publishedDateTime": "2021-06-10T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-brexit-trouble-overshadows-biden-and-johnsons-first-meeting.md",
-      "title": "Brexit trouble overshadows Biden and Johnson's first meeting",
-      "excerpt": "Boris Johnson's star turn on the world stage has already been undermined by his previous greatest accomplishment: Brexit.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tWkANR1xQyo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tWkANR1xQyo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html",
-      "publishedDateTime": "2021-06-10T04:52:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-george-p-bush-defends-his-support-for-donald-trump-im-my-own-man.md",
-      "title": "George P. Bush Defends His Support for Donald Trump: 'I'm My Own Man'",
-      "excerpt": "Texas Attorney General Candidate George P. Bush defended his support of Donald Trump on Wednesday, noting that members of his family have \"differences of opinion\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245",
-      "originalUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1817426/george-p-bush-houston-texas.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245?amp=1",
-      "publishedDateTime": "2021-06-10T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-california-latino-caucus-rebukes-harris-for-do-not-come-immigration-warning.md",
-      "title": "California Latino Caucus rebukes Harris for 'do not come' immigration warning",
-      "excerpt": "California Latino lawmakers issued a statement Wednesday rebuking Vice President Kamala Harris’ controversial comments in El Salvador this week when she told “folks” from the northern triangle states \"Do not come.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_wsHBOyti2Y/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_wsHBOyti2Y/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bff910dc-4c2d-4082-9b97-da2cfa1ec6fa/8ecf015e-aae7-4cf0-b8fe-a84a924199c9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come.amp",
-      "publishedDateTime": "2021-06-09T18:53:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

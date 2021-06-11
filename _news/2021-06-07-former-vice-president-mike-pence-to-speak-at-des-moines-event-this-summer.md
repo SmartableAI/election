@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.press-citizen.com/amp/7594916002"
 cdnAmpWebUrl: "https://amp-press--citizen-com.cdn.ampproject.org/c/s/amp.press-citizen.com/amp/7594916002"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Iowa City Press-Citizen
@@ -27,15 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Pence to speak at FAMiLY Leadership Summit"
-    excerpt: "The FAMiLY Leader is pleased to announce former Vice President Mike Pence will join a star-studded lineup of confirmed speakers at the 10th annual FAMiLY Leadership Summit at the Community Choice Credit Union Convention Center in Des Moines on July"
-    publishedDateTime: 2021-06-11T02:15:00Z
-    webUrl: "https://www.spencerdailyreporter.com/story/2889052.html"
+  - title: "Pence to visit Iowa to headline event for congressman"
+    excerpt: "Former Vice President Mike Pence will headline a fundraiser next month for Rep. Randy Feenstra (R-Iowa), marking his third trip in recent weeks to an early primary state and fueling speculation about his 2024 plans."
+    publishedDateTime: 2021-06-11T15:49:00Z
+    webUrl: "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman"
+    ampWebUrl: "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp"
     type: article
     provider:
-      name: Spencer Daily Reporter
-      domain: spencerdailyreporter.com
-    quality: 35
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/pencemike_070820getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "Kk4mcmRM7mxj7nTKw2XEyNXWOTh6fpVhlwxF638MS938zmN5p6OOq3FNge0be9xPPTQo/CpWJJ9Qhw1KoVZTL3WFooGvqSEnb27mMxDgs4nrxPIksiN8266s4mLejEPvjkVzArbbbHBbdo3KsZs2NBXdiV7Iz262iPpVvbveEOBQlfkfHO5SGZCbAIF20z6evbO6Pm26W3xDez19pSSXyCp8Wy4X6olYD1SsoRc8VqaklNam0TY6Z6zKEbsz2q+YqIUCYlR4F7d/Ax584mbaC6ygL8uNi3lfB8uCWWJeYVwIh+aPxwl6Z+UMAH75mtlhJPrqx+0aP/1Htkzakv3eHn+1GxpqFYVLPHm5i9c7U1qzw/VPVQseJ1azZ7JtaoHWYguirit2pd5/eyneoKszaCnZV/IQVV8WXiEZZop0upBfVnQQBO/Yb3yx07fE55TMtq1/Y8zzlzoOGY5xUFizlVTfycnGmFZJpC3t88B3z9em/LfM3OUna8Mkr6IHHGHSBsoaPlvfZkG5l6DL82pgig==;3/kcx9wTfASfSD9gBy06QA=="
 ---
