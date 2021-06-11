@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-biden-europe-trip-
 cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-biden-europe-trip-20210609-z3wfsdyypfbqhg6kbuh4swyxke-story.html?outputType=amp"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,40 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Swiss detail extra security measures for Biden-Putin summit"
+    excerpt: "Swiss authorities will temporarily restrict airspace over the city of Geneva and deploy up to 1,000 troops to the area to help reinforce security for the summit of Russian President Vladimir Putin and U."
+    publishedDateTime: 2021-06-11T09:39:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/210610_vod_OnLocationV2_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "White House downplays Biden-Putin summit, not expecting 'huge outcome'"
+    excerpt: "White House press secretary Jen Psaki on Thursday doubled down on Biden using the summit as an opportunity to confront Putin. \"He's going to be straightforward, he's going to be candid, he's not going to hold back,"
+    publishedDateTime: 2021-06-10T20:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/biden-summit-01-rt-llr-210609_1623270675294_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "+mzLmJjjBpu3y2RN9GUWgFQVsgQg4AHhrpjttxu3qXkQnCi9I4AJMsaPsoUqN1c++rBVm2YLc/yLz0q5zJraGLk7QilOZ6jwMg+GyewFbGNNa6exCU3wEln3G7/1kOfTsR2LuKNxDB2vMjvfhFEMam6Kgp6xBUdICoX//o0k9/0mRZIwM/10u6rE+qiWl8+ZWD9EHTy/5vFdGafszUq3wAJgQzVMsh5PKV0OV+2WrwtVJCn/ZzzWRNtvvQGDygvrg0wU3QiPMdIVFUVLYm8NGPvFJZFj3S3udy7bYonZin8R5Kp64c8Hi0VFN9ZC3iSoir+LzCVfBE8KkWySdA7ffE1IJx5nIVtHCO+1ZjUmzLU=;kARrnnF63Gf9tqxywGz/gQ=="
 ---

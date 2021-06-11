@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-06-trump-demands-100-tariffs-on-chinese-goods-debt-cancellation-and-10t-in-reparations-for-covid-19.md",
+      "title": "Trump demands 100% tariffs on Chinese goods, debt cancellation, and $10T in reparations for COVID-19",
+      "excerpt": "Donald Trump returned to the GOP political scene Saturday with a speech at the North Carolina Republican Convention, where he called on China to pay “reparations” to the U.S. for coronavirus-related damages.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBdeF-Oi6t0/trump-china-pay-10-trillion-in-reparations-for-covid-19",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBdeF-Oi6t0/trump-china-pay-10-trillion-in-reparations-for-covid-19",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d804ca7-92c4-4052-92f1-2c73cbe36b5c/0a7739a1-8be0-4390-891e-d5b2a298df51/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-china-pay-10-trillion-in-reparations-for-covid-19.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-pay-10-trillion-in-reparations-for-covid-19.amp",
+      "publishedDateTime": "2021-06-05T19:28:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-biden-calls-systemic-racism-one-of-the-great-crises-of-our-time.md",
+      "title": "Biden calls systemic racism one of ‘the great crises of our time’",
+      "excerpt": "President Biden on Saturday addressed the class of 2021 in a speech in which he told the they stood at an “inflection point” in history, and described systemic racism as one of “the great crises of our time.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6lB2v_DNjCY/biden-systemic-racism-great-crises-time-address-class-of-2021",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6lB2v_DNjCY/biden-systemic-racism-great-crises-time-address-class-of-2021",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab44b9f-de82-413f-a18b-edc9a57bf466/31c82716-6015-447e-b1cf-fa5e663ec21d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-systemic-racism-great-crises-time-address-class-of-2021.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-systemic-racism-great-crises-time-address-class-of-2021.amp",
+      "publishedDateTime": "2021-06-05T14:14:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-sen-capito-and-biden-to-talk-again-monday-on-potential-spending-deal.md",
       "title": "Sen. Capito and Biden to talk again Monday on potential spending deal",
       "excerpt": "President Biden and Sen. Shelley Moore Capito, R-W.Va., talked Friday in their effort to forge a bipartisan deal on infrastructure spending and they've agreed to reconvene on Monday, the senator's office said. ",
@@ -1519,119 +1631,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities.amp",
       "publishedDateTime": "2021-05-29T13:58:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-check-out-kamala-harris-naval-academy-graduation-punchline-just-ask-any-marine-today.md",
-      "title": "Check out Kamala Harris' Naval Academy graduation punchline: 'Just ask any Marine today...'",
-      "excerpt": "Vice President Kamala Harris made a joke about green electricity during her commencement speech at the U.S. Naval Academy in Annapolis Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lNyyYiNClTs/kamala-harris-naval-academy-graduation-joke",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lNyyYiNClTs/kamala-harris-naval-academy-graduation-joke",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21148533253450.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-naval-academy-graduation-joke.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-naval-academy-graduation-joke.amp",
-      "publishedDateTime": "2021-05-28T15:52:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-biden-calls-recent-spike-in-anti-semitic-attacks-despicable-unconscionable-un-american.md",
-      "title": "Biden calls recent spike in anti-Semitic attacks ‘despicable, unconscionable, un-American’",
-      "excerpt": "President Biden called a recent wave of anti-Semitic attacks after the violence in Israel and Gaza “unconscionable.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Duc3iPv5Ob0/biden-spike-anti-semitic-attacks-despicable-unconscionable-un-american",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Duc3iPv5Ob0/biden-spike-anti-semitic-attacks-despicable-unconscionable-un-american",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ada39e0-4be0-43b2-8ef3-26f3ebfa1e93/141116e1-8abd-474f-a22d-429f1971b439/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-spike-anti-semitic-attacks-despicable-unconscionable-un-american.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spike-anti-semitic-attacks-despicable-unconscionable-un-american.amp",
-      "publishedDateTime": "2021-05-28T15:33:56-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

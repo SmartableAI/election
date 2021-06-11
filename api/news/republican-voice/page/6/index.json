@@ -2,6 +2,119 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-11-biden-to-tap-rahm-emanuel-as-japan-ambassador-reports.md",
+      "title": "Biden to tap Rahm Emanuel as Japan ambassador: reports",
+      "excerpt": "President Biden is reportedly set to tap Rahm Emanuel -- former President Barack Obama's chief of staff and Chicago mayor -- as U.S. ambassador to Japan. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OnUKMshHtV0/biden-rahm-emanuel-japan-ambassador",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OnUKMshHtV0/biden-rahm-emanuel-japan-ambassador",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/GettyImages-1165549574.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-rahm-emanuel-japan-ambassador.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rahm-emanuel-japan-ambassador.amp",
+      "publishedDateTime": "2021-05-11T10:07:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-stephen-miller-sounds-alarm-over-bidens-unprecedented-border-policies.md",
+      "title": "Stephen Miller sounds alarm over Biden's 'unprecedented' border policies",
+      "excerpt": "Stephen Miller, former senior adviser to President Trump, now America First Legal founder. Stephen Miller, how are you my friend? STEPHEN MILLER, FOUNDER, AMERICA FIRST LEGAL: I am doing great. Thank you for having me.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/life-liberty-levin",
+      "originalUrl": "https://www.foxnews.com/transcript/life-liberty-levin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7c6fec6-741e-459d-bfef-718af1cdf957/712688ae-d177-48e7-90e1-2f612cd229cb/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/life-liberty-levin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/life-liberty-levin.amp",
+      "publishedDateTime": "2021-05-10T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-biden-approval-rating-thumbs-up-overall-but-thumbs-down-on-immigration-poll.md",
       "title": "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll",
       "excerpt": "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration.",
@@ -1525,119 +1638,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-biden-afghan-troop-withdrawal.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-biden-afghan-troop-withdrawal.amp",
       "publishedDateTime": "2021-04-30T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-cnns-gloria-borger-falsely-claims-operation-warp-speed-happened-under-joe-biden.md",
-      "title": "CNN's Gloria Borger falsely claims Operation Warp Speed 'happened under Joe Biden'",
-      "excerpt": "CNN political analyst Gloria Borger falsely said Operation Warp Speed occurred under President Biden on Wednesday, and no one on CNN's panel corrected her in real time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden",
-      "originalUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02d8a247-9dbf-48a1-90ff-5e2576f98549/c71a7b29-2c1e-46d9-811b-d231e175c379/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden.amp",
-      "publishedDateTime": "2021-04-30T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-bidens-bringing-cat-into-white-house-despite-dog-biting-drama.md",
-      "title": "Bidens bringing cat into White House despite dog-biting drama",
-      "excerpt": "Despite having a ruff run of things with first dog Major caught up in a biting scandal, President Biden and first lady Jill Biden announced Friday that they’re bringing a cat to the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TN1s2IHXNqg/bidens-bringing-cat-white-house-dog-biting",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TN1s2IHXNqg/bidens-bringing-cat-white-house-dog-biting",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6165699-e33d-4790-9f5d-d33471d1c4b4/19c2eb65-527f-4e43-9d3a-3aed7ed97d5b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp",
-      "publishedDateTime": "2021-04-30T09:46:40-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

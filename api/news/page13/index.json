@@ -2,6 +2,205 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-05-19-what-an-old-politician-understands-biden-turns-the-age-issue-to-advantage.md",
+      "title": "‘What an old politician understands’ — Biden turns the age issue to advantage",
+      "excerpt": "Biden has seemed a changed man, calmer yet bolder. He savors the job, yet governs like a guy who knows the hurdles are high and time is short.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far",
+      "originalUrl": "https://www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/b4f3b0d/2147483647/strip/true/crop/3901x2548+49+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2F5c%2F090f2eb74320953e4d22f41fd085%2Fla-photos-1staff-645664-la-me-schools-waivers-equity-15-als.JPG",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-18/new-biden-surprises-even-longtime-watchers-by-his-governance-so-far?_amp=true",
+      "publishedDateTime": "2021-05-18T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-ex-trump-dhs-officials-call-for-mayorkas-dismissal-over-border-crisis-enough-is-enough.md",
+      "title": "Ex-Trump DHS officials call for Mayorkas' dismissal over border crisis: 'Enough is enough'",
+      "excerpt": "Three top Trump-era Department of Homeland Security officials are calling on President Biden to dismiss Secretary Alejandro Mayorkas over his handling of the crisis at the southern border, accusing him of \"reckless abandonment\" of securing the border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qva-stK91w/ex-trump-dhs-officials-mayorkas-fire-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qva-stK91w/ex-trump-dhs-officials-mayorkas-fire-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a570c73-98d6-4f91-b742-2b7220d15df9/2dcdb4f5-ef07-458a-9628-0d6274662406/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ex-trump-dhs-officials-mayorkas-fire-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-dhs-officials-mayorkas-fire-border-crisis.amp",
+      "publishedDateTime": "2021-05-18T10:55:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-pennsylvania-town-saved-by-fracking-fears-biden-will-kill-its-prosperity.md",
+      "title": "Pennsylvania Town Saved By Fracking Fears Biden Will Kill Its Prosperity",
+      "excerpt": "Thirty years ago, Jason Capps was a young man with ambition, but when he looked around this town near Pittsburgh, where he grew up, all",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/47/478783_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/18/_pennsylvania_town_saved_by_fracking_fears_biden_will_kill_its_prosperity_145779.amp.html",
+      "publishedDateTime": "2021-05-18T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-former-vp-pence-to-speak-at-michigan-republican-conference.md",
+      "title": "Former VP Pence to speak at Michigan Republican conference",
+      "excerpt": "Former Vice President Mike Pence will be among the speakers at a gathering of Michigan Republicans on Mackinac Island this fall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/news/politics/2021/05/18/former-vp-pence-speak-michigan-republican-conference/5138070001/",
+      "originalUrl": "https://www.detroitnews.com/story/news/politics/2021/05/18/former-vp-pence-speak-michigan-republican-conference/5138070001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/03/PDTN/a61a3c96-22be-4634-8948-2b41f1de0432-AP20308060390607.jpg?auto=webp&crop=3935,2214,x0,y131&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/5138070001",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5138070001",
+      "publishedDateTime": "2021-05-18T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-val-demings-prosecutor-in-trumps-first-impeachment-trial-challenging-marco-rubio-for-senate-in-florida.md",
       "title": "Val Demings, Prosecutor in Trump's First Impeachment Trial, Challenging Marco Rubio for Senate in Florida",
       "excerpt": "Demings competing against Rubio as a Democrat could decide the control of the Senate. She previously considered campaigning for governor.",
@@ -1116,226 +1315,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-police-week-deep-sense-of-distrust-cops-black-americans.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-police-week-deep-sense-of-distrust-cops-black-americans.amp",
       "publishedDateTime": "2021-05-15T12:14:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-senior-trump-air-force-official-suggested-dramatically-slashing-f-35-jet-numbers.md",
-      "title": "Senior Trump Air Force official suggested dramatically slashing F-35 jet numbers ",
-      "excerpt": "The official in charge of purchasing military hardware for the US Air Force suggested slashing the total number of Lockheed Martin F-35 jets for the service by more than half late last year, according to two former defense officials involved in the discussions who spoke with CNN. The news comes as Congressional",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RfwDY6IUY0c/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RfwDY6IUY0c/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 250,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181120183114-f-35-elephant-walk-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html",
-      "publishedDateTime": "2021-05-15T07:03:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-hardliner-ebrahim-raisi-to-run-in-iran-election-could-hurt-bidens-nuclear-deal-hopes.md",
-      "title": "Hardliner Ebrahim Raisi to Run in Iran Election, Could Hurt Biden's Nuclear Deal Hopes",
-      "excerpt": "The head of the judiciary is considered to be most likely to become Iran's next president in elections next month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/iran-ebrahim-raisi-election-nuclear-deal-joe-biden-1591803",
-      "originalUrl": "https://www.newsweek.com/iran-ebrahim-raisi-election-nuclear-deal-joe-biden-1591803",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1797477/iranian-judiciary-chief-ebrahim-raisi.jpg",
-          "width": 2502,
-          "height": 1674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/iran-ebrahim-raisi-election-nuclear-deal-joe-biden-1591803?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/iran-ebrahim-raisi-election-nuclear-deal-joe-biden-1591803?amp=1",
-      "publishedDateTime": "2021-05-15T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-no-civil-war-here-republicans-are-at-peace-in-their-embrace-of-trump.md",
-      "title": "No 'civil war' here: Republicans are at peace in their embrace of Trump",
-      "excerpt": "It was the bureaucratic shuffle \"heard round the world.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PnMZ9F7DC8U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PnMZ9F7DC8U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210514101620-04-elise-stefanik-0514-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/15/politics/republicans-trump-cheney-stefanik-greene/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/republicans-trump-cheney-stefanik-greene/index.html",
-      "publishedDateTime": "2021-05-14T21:14:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news.md",
-      "title": "McCarthy dings Biden: Notice mask orders ended 'when it was $7 in the gas line and they wanted change in news'",
-      "excerpt": "House Minority Leader Kevin McCarthy, House Minority Whip Steve Scalise, and newly-minted House Republican Conference Chairwoman Elise Stefanik joined 'Hannity' on Friday for their first joint interview since Stefanik unseated Rep. Liz Cheney from her leadership post",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt_5m421nsY/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt_5m421nsY/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9cfe18c-5b65-4575-9549-0a79534d10b1/afbb8edd-a5c8-4e93-8fa7-dd4a4048d588/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news.amp",
-      "publishedDateTime": "2021-05-14T20:47:55-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

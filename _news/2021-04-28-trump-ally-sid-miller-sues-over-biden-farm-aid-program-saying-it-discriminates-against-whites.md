@@ -623,6 +623,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Texas governor pledges to keep building the Trump border wall even after Biden canceled it"
+    excerpt: "Gov. Greg Abbott, a Republican, recently declared border security a statewide disaster. The wall promise is his latest salvo in a feud with Biden."
+    publishedDateTime: 2021-06-11T09:54:00Z
+    webUrl: "https://www.businessinsider.com/texas-greg-abbott-promises-to-keep-building-trump-border-wall-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/texas-greg-abbott-promises-to-keep-building-trump-border-wall-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/texas-greg-abbott-promises-to-keep-building-trump-border-wall-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 130
+    images:
+      - url: "https://i.insider.com/60c32ab923393a00188e296a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Trump White House provided reporters with a gusher of leaks. With Biden, everything’s changed."
     excerpt: "No such thing anymore. The Trump administration says it doesn’t tolerate leakers, but President Trump’s White House is one of the leakiest in modern history. (Victoria Walker/The Washington Post) Since then, the pipeline has gone dry. When the $1.9 ..."
     publishedDateTime: 2021-04-06T19:56:00Z

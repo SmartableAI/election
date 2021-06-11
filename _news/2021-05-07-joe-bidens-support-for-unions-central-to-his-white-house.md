@@ -611,6 +611,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Texas governor pledges to keep building the Trump border wall even after Biden canceled it"
+    excerpt: "Gov. Greg Abbott, a Republican, recently declared border security a statewide disaster. The wall promise is his latest salvo in a feud with Biden."
+    publishedDateTime: 2021-06-11T09:54:00Z
+    webUrl: "https://www.businessinsider.com/texas-greg-abbott-promises-to-keep-building-trump-border-wall-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/texas-greg-abbott-promises-to-keep-building-trump-border-wall-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/texas-greg-abbott-promises-to-keep-building-trump-border-wall-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 130
+    images:
+      - url: "https://i.insider.com/60c32ab923393a00188e296a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites"
     excerpt: "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers."
     publishedDateTime: 2021-04-27T21:36:00Z

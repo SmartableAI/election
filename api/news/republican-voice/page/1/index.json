@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-11-live-updates-g-7-summit-2021-kicks-of-friday-as-biden-meets-with-world-leaders.md",
+      "title": "LIVE UPDATES: G-7 summit 2021 kicks of Friday as Biden meets with world leaders",
+      "excerpt": "The 47th G-7 summit is set to commence today in the United Kingdom.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cce6d6c1-0fe1-4f5f-8731-c7540b6bfd85/010d2956-348b-4e65-93fa-f4150af72ea5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
+      "publishedDateTime": "2021-06-11T01:42:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g-7-gets-underway.md",
+      "title": "Jill Biden and Kate Middleton to meet in Cornwall as G-7 gets underway",
+      "excerpt": "First lady Jill Biden will meet with the Duchess of Cambridge for the first time on Friday during her husband’s first trip abroad as president.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_U8YRCx_TE/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_U8YRCx_TE/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5d27ae1-ccee-45ec-b569-83491164a783/c6bfc349-5323-49c2-b1db-400bc8784729/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway.amp",
+      "publishedDateTime": "2021-06-11T01:41:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-mike-pence-buys-19m-indiana-home-packed-with-amenities.md",
       "title": "Mike Pence buys $1.9M Indiana home packed with amenities",
       "excerpt": "The former Vice President and his wife Karen, have put their Washington D.C. days behind them and are now living in a $1.93 million Indiana home they purchased last month.",
@@ -1562,118 +1674,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-trump-demands-100-tariffs-on-chinese-goods-debt-cancellation-and-10t-in-reparations-for-covid-19.md",
-      "title": "Trump demands 100% tariffs on Chinese goods, debt cancellation, and $10T in reparations for COVID-19",
-      "excerpt": "Donald Trump returned to the GOP political scene Saturday with a speech at the North Carolina Republican Convention, where he called on China to pay “reparations” to the U.S. for coronavirus-related damages.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBdeF-Oi6t0/trump-china-pay-10-trillion-in-reparations-for-covid-19",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBdeF-Oi6t0/trump-china-pay-10-trillion-in-reparations-for-covid-19",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d804ca7-92c4-4052-92f1-2c73cbe36b5c/0a7739a1-8be0-4390-891e-d5b2a298df51/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-china-pay-10-trillion-in-reparations-for-covid-19.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-pay-10-trillion-in-reparations-for-covid-19.amp",
-      "publishedDateTime": "2021-06-05T19:28:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-biden-calls-systemic-racism-one-of-the-great-crises-of-our-time.md",
-      "title": "Biden calls systemic racism one of ‘the great crises of our time’",
-      "excerpt": "President Biden on Saturday addressed the class of 2021 in a speech in which he told the they stood at an “inflection point” in history, and described systemic racism as one of “the great crises of our time.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6lB2v_DNjCY/biden-systemic-racism-great-crises-time-address-class-of-2021",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6lB2v_DNjCY/biden-systemic-racism-great-crises-time-address-class-of-2021",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ab44b9f-de82-413f-a18b-edc9a57bf466/31c82716-6015-447e-b1cf-fa5e663ec21d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-systemic-racism-great-crises-time-address-class-of-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-systemic-racism-great-crises-time-address-class-of-2021.amp",
-      "publishedDateTime": "2021-06-05T14:14:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
