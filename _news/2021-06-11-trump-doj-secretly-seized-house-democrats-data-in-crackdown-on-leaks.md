@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/11/01a71634-efa9-41aa-b80c-f0b230217c43/thumbnail/1200x630/fdecbe725190761810c4488e5a5103d8/cbsn-fusion-trump-doj-targeted-house-dems-in-leak-investigation-thumbnail-732937-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Dems demand Trump officials testify on reported records seizure"
+    excerpt: "Top News Dems demand Trump officials testify on reported records seizure. Posted . Top Senate Democrats on Friday demanded two former U.S. attorneys general testify about reported"
+    publishedDateTime: 2021-06-11T20:09:00Z
+    webUrl: "https://www.reuters.com/video/watch/dems-demand-trump-officials-testify-on-r-id731354951"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210611&i=OVEGYPSYN&r=OVEGYPSYN&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Trump's Justice Department targeted Democrats in Congress in search for source of leaks related to the Russia investigation, New York Times reports"
     excerpt: "Officials subpoenaed Apple for communications data of Reps. Adam Schiff and Eric Swalwell, as well as their families and staffers."

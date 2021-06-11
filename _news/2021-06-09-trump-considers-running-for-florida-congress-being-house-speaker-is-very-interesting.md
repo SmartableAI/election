@@ -63,6 +63,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Justice Dept., Congress probing Trump seizures of Dems' data"
+    excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
+    publishedDateTime: 2021-06-11T21:10:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Food Deliverer Posed As Trump's Family; Used Social Media Following To Steal Thousands"
     excerpt: "A 22-year old former food delivery worker was arrested this week for creating fake Twitter accounts of former President Trump's family members and duping MAGA supporters of money."
     publishedDateTime: 2021-06-10T11:23:00Z

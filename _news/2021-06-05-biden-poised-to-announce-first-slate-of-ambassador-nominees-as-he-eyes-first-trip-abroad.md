@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ransomware legislation under consideration as key senators request input from Biden team "
+    excerpt: "The top two senators on the Homeland Security and Governmental Affairs Committee called on the Biden administration on Friday to provide input on addressing the threat of ransomware, as they draft legislation ahead of the August recess.\n    \n"
+    publishedDateTime: 2021-06-11T20:42:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wm7WqpxAChE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/ransomware-legislation-consideration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/ransomware-legislation-consideration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029151522-ransomware-attacks-target-hospitals-election-voter-databases-ferrante-nr-vpx-00000102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden takes the lead role he's always craved in his high-stakes first trip abroad as president"
     excerpt: "When President Joe Biden told officials this spring that he wanted to meet soon with his Russian counterpart for a summit, his team quickly set out to make it happen -- even if some wondered what he really hoped to achieve.\n    \n"
     publishedDateTime: 2021-06-09T06:35:10Z

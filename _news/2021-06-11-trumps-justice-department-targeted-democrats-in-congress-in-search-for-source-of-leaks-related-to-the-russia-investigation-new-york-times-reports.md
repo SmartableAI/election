@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dems demand Trump officials testify on reported records seizure"
+    excerpt: "Top News Dems demand Trump officials testify on reported records seizure. Posted . Top Senate Democrats on Friday demanded two former U.S. attorneys general testify about reported"
+    publishedDateTime: 2021-06-11T20:09:00Z
+    webUrl: "https://www.reuters.com/video/watch/dems-demand-trump-officials-testify-on-r-id731354951"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210611&i=OVEGYPSYN&r=OVEGYPSYN&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Democrat says Trump counsel recounted 'troubling events'"
     excerpt: "The closed-door interview, which came two years after House Democrats originally sought his testimony, was originally part of Democrats' efforts to investigate whether Trump tried to obstruct Justice Department investigations into his 2016 presidential campaign."
     publishedDateTime: 2021-06-04T23:46:00Z

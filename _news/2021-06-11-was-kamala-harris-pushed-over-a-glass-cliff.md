@@ -222,6 +222,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris’s Vice Presidency Is Coming Into Focus. Everyone Has an Opinion About What They See."
+    excerpt: "In a role that seldom allows for error, Ms. Harris is trying to shape her vice presidency by tackling unwieldy policy issues."
+    publishedDateTime: 2021-06-11T21:47:00Z
+    webUrl: "https://www.nytimes.com/2021/06/11/us/politics/kamala-harris-vice-president.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/11/us/politics/kamala-harris-vice-president.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/us/politics/kamala-harris-vice-president.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 121
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/11/us/politics/11dc-harris1/11dc-harris1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "QRy9rcvUfJXPy5fcdTJSZWSBi2Av14+tLyRUGxuW7xmG7az+ay7yL0ls8J85C0sVKpmn1oQ4flxRQBYUbmLnjZtOX3YlMmnkSdWklo4qLxX84dw/VUh08BiWRyu2PoB0GhaSWmqB7wz4UZqL0H3xzTnpqytd59XRugUGCuiClw7fUBiraeILudrmt1laTQfeXYNqTqK6/UjWMrAlSh0YSJo45rgM/Xz1tNnF5RraB1tzRNPi7+ck5JF//4f5Kwzp7JONuc8IQex+UmHl8nS1uL0/HZbqJ/2bDt9lGJfqpjbJ4NISwhn1IQUVVxZEeNgV30FpFqn2USsVa4vZhMS47MPx68MRdpRN6XE1J94M5Jg=;LHEkTV46viwfSUQhPKW19A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-packing-their-bags-thi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp"
 type: article
 quality: 192
-heat: 992
+heat: 1012
 published: true
 
 provider:
@@ -629,6 +629,20 @@ related:
       - url: "https://assets.realclear.com/images/54/544712.jpg"
         width: 850
         height: 636
+        isCached: true
+  - title: "Kamala Harris Is in a Really Tough Spot"
+    excerpt: "Vice President Kamala Harris learned that three little words can cause a lot of damage. On her first vice presidential trip abroad, Harris stoked controversy when she spoke at a news conference in Guatemala and told potential migrants,"
+    publishedDateTime: 2021-06-11T10:59:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/545292_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Joe Biden, Budget Buster"
     excerpt: "RealClearPolitics"

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrast
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden nominee's link to 1989 logging sabotage blasted by GOP"
+    excerpt: "President Joe Biden’s nominee to oversee federal lands in the U.S. West is facing Republican pressure to withdraw over her ties to environmental activists convicted of spiking trees to sabotage a nati"
+    publishedDateTime: 2021-06-11T20:52:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229806"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229806"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229806"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_c8b6b6f1a05d48fa8b0719b37266a661_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "White House says Biden-Putin meeting not a reward but good way to manage ties"
     excerpt: "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,"
     publishedDateTime: 2021-06-07T16:06:00Z

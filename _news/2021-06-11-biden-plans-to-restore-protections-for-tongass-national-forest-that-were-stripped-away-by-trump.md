@@ -304,6 +304,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "A tale of two jackets: From Melania Trump to Jill Biden"
+    excerpt: "Mika Brzezinski says Jill Biden’s “love” jacket shows the Bidens are turning the page on Trump’s tenure — and all of the Trump family, including former first lady Melania."
+    publishedDateTime: 2021-06-11T19:52:00Z
+    webUrl: "https://www.nbcnews.com/know-your-value/feature/melania-trump-s-jacket-sent-clear-message-2018-now-it-ncna1270525"
+    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1270525"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1270525"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3482376/210611-2x1-melania-jill-jacket-ew-227p.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden Plans to Restore Alaskan Forest Protections Stripped Under Trump"
+    excerpt: "The administration says it will “repeal or replace” the rule that opened up more than half of Tongass National Forest to logging."
+    publishedDateTime: 2021-06-11T20:48:00Z
+    webUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/11/science/11CLI-TONGASS1/11CLI-TONGASS1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Democratic lawmakers wanted to call on Biden to form presidential commission on January 6 but were told it wouldn't happen"
     excerpt: "A group of Democratic members of Congress planned to call on President Joe Biden to form a presidential commission on the January 6 attack at the US Capitol, but they were discouraged by the White House, a congressional source told CNN on Friday.\n    \n"
     publishedDateTime: 2021-06-04T22:11:47Z
@@ -429,6 +461,6 @@ related:
         height: 773
         isCached: true
 
-secured: "fGqbvH1qK01t73S+jfJ7nG/dvzLHNrpBf8AiMPkmh+dgDuTBSkmn6t1e7ugDSR8XIa4k9KCEj1yNIrVXut6dBdxmnxBe9JU2d/T49B+8iWZnm5Zbo24OdtY7llAaNIZirWTN6klj33liwf3YsI4tFK4gcdreqh6vLg3GdD510D5qYN0H+digpuYuzdVT9zHhlxfXludI9AUDDxWmXQeBcuja1BlM7MXYg2Qp6SujHa8HJYnifYcbD/akwByvkA+2RckV6sNxvoE1LN0xcNPL6zmhJaFod1nl4ZSzKrL5gzDPqjZ3wnxSjNkwGCl2GGTRV5iot1+gbI3FZly3EX3gfHgkLB0pmWfmYWwgVew9CsA=;PpShdjYSeP/+oldh4wm/Hg=="
+secured: "8aRuLmNu/Qr59aJhkZeGnubgIOUWg78HxkAJF6l+EX0PxnysoUYb9faYMHB01nAGDrXdaiJLtkuq4SbPrEFa6XGNsc7rPgyxGkKrwynuqSzC4uKKcGBh78wnXsQFSZd7c/0giacnGCFkPt6f8fAp70tPokwhAnB7W1A4u1LAPjuJO/hpNBlJxCwb4UamFbXbjNlKOduoLSJqRmeo724pU9B9ZWM/iV6QVYQYMLcp4kg5Rfg+EzZTP8y+phlKng2BoZvLOqoAmpd7Sb+Gkpbk3Xe3fSqnnRJhgg8XqQ1xdA738VLtCvKu0abmxLJ+PWEvqidlnrzgBUX9eQjMXx/sGXU7Get+uK6gMn9BbVv806tpPC0GgwVc3jrKuKc17TQBPotahK2wb+2OnoSt9HOAcRQiOoSLaQYrF2c8Wd5psfffYHW+7v3mERjGyvh+m5ZC0TfdlmsaEiZunV3gyBq0/tGgB9qFfpBF7Iy7k+KiIjrT2vm1amFWTzBrN127EPMkT/xmf/KozC9kKpeGTyKd2w==;ryzYTv2SGn1bAV24sMgYwg=="
 ---
 

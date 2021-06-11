@@ -208,6 +208,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris’s Vice Presidency Is Coming Into Focus. Everyone Has an Opinion About What They See."
+    excerpt: "In a role that seldom allows for error, Ms. Harris is trying to shape her vice presidency by tackling unwieldy policy issues."
+    publishedDateTime: 2021-06-11T21:47:00Z
+    webUrl: "https://www.nytimes.com/2021/06/11/us/politics/kamala-harris-vice-president.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/11/us/politics/kamala-harris-vice-president.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/us/politics/kamala-harris-vice-president.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 121
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/11/us/politics/11dc-harris1/11dc-harris1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Was Kamala Harris pushed over a glass cliff?"
     excerpt: "Vice President Kamala Harris is back in Washington, D.C. after a difficult week. Harris arrived in Guatemala on Monday, the first part of a three-day trip that also included Mexico, as part of the diplomatic task President Joe Biden assigned her in March: treating the root causes of migration at the southern border."
     publishedDateTime: 2021-06-11T16:17:00Z

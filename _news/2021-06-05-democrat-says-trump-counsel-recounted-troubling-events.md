@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dems demand Trump officials testify on reported records seizure"
+    excerpt: "Top News Dems demand Trump officials testify on reported records seizure. Posted . Top Senate Democrats on Friday demanded two former U.S. attorneys general testify about reported"
+    publishedDateTime: 2021-06-11T20:09:00Z
+    webUrl: "https://www.reuters.com/video/watch/dems-demand-trump-officials-testify-on-r-id731354951"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210611&i=OVEGYPSYN&r=OVEGYPSYN&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump's Justice Department targeted Democrats in Congress in search for source of leaks related to the Russia investigation, New York Times reports"
     excerpt: "Officials subpoenaed Apple for communications data of Reps. Adam Schiff and Eric Swalwell, as well as their families and staffers."
     publishedDateTime: 2021-06-11T03:20:00Z

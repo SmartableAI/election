@@ -149,6 +149,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Seized House records show just how far Trump admin would go"
+    excerpt: "Former President Donald Trump has made no secret of his long list of political enemies. It just wasn't clear until now how far he would go to try to punish them. Two House Democrats disclosed this week that their smartphone data was secretly obtained by the Trump Justice Department as part of an effort to uncover the source of leaks related to the investigation of Russian-related election interference."
+    publishedDateTime: 2021-06-11T21:44:00Z
+    webUrl: "https://www.chron.com/news/article/Seized-House-records-show-just-how-far-Trump-16242365.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242365.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242365.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "After 2-Year Battle, House Panel to Interview Trump Counsel"
     excerpt: "The House Judiciary Committee is poised to question former White House counsel Don McGahn behind closed doors on Friday, two years after House Democrats originally sought his testimony as part of investigations into former President Donald Trump."
     publishedDateTime: 2021-06-04T13:47:00Z

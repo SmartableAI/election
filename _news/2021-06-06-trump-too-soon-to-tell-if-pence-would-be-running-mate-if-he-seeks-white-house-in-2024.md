@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/557038-trump-too-soon-to
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557038-trump-too-soon-to-tell-if-pence-would-be-running-mate-if-he-runs-in?amp"
 type: article
 quality: 141
-heat: 361
+heat: 381
 published: true
 
 provider:
@@ -139,6 +139,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/5lHEwZNwW41aS3z0nNeW7ATYm5Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TKMNFD6XKV62M43PP2777GO3SE.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Seized House records show just how far Trump admin would go"
+    excerpt: "Former President Donald Trump has made no secret of his long list of political enemies. It just wasn't clear until now how far he would go to try to punish them. Two House Democrats disclosed this week that their smartphone data was secretly obtained by the Trump Justice Department as part of an effort to uncover the source of leaks related to the investigation of Russian-related election interference."
+    publishedDateTime: 2021-06-11T21:44:00Z
+    webUrl: "https://www.chron.com/news/article/Seized-House-records-show-just-how-far-Trump-16242365.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242365.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242365.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
     excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."

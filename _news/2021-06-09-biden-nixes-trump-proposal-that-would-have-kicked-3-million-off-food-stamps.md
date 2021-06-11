@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html"
 type: article
 quality: 188
-heat: 688
+heat: 728
 published: true
 
 provider:
@@ -284,6 +284,38 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2021/06/09/us/politics/09dc-TIKTOK-SWAP/09dc-TIKTOK-SWAP-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "A tale of two jackets: From Melania Trump to Jill Biden"
+    excerpt: "Mika Brzezinski says Jill Biden’s “love” jacket shows the Bidens are turning the page on Trump’s tenure — and all of the Trump family, including former first lady Melania."
+    publishedDateTime: 2021-06-11T19:52:00Z
+    webUrl: "https://www.nbcnews.com/know-your-value/feature/melania-trump-s-jacket-sent-clear-message-2018-now-it-ncna1270525"
+    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1270525"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1270525"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3482376/210611-2x1-melania-jill-jacket-ew-227p.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden Plans to Restore Alaskan Forest Protections Stripped Under Trump"
+    excerpt: "The administration says it will “repeal or replace” the rule that opened up more than half of Tongass National Forest to logging."
+    publishedDateTime: 2021-06-11T20:48:00Z
+    webUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/11/science/11CLI-TONGASS1/11CLI-TONGASS1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

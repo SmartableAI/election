@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Migrant childrens' flights prompt Iowa, Tennessee governors to demand answers from Biden administration"
+    excerpt: "The governors of Iowa and Tennessee are calling for hearings into what they describe as a lack of transparency from the Biden administration about the transportation of unaccompanied migrant children into their states."
+    publishedDateTime: 2021-06-11T21:16:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g3WBUAu-q0g/tennessee-iowa-child-migrant-flights"
+    ampWebUrl: "https://www.foxnews.com/politics/tennessee-iowa-child-migrant-flights.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tennessee-iowa-child-migrant-flights.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41ef6126-d339-4ab8-b892-902c1d90189a/ea2f9116-2659-46fa-8b52-f4952bf3e2ff/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Hannity Exclusive: Guatemalan president chides Biden administration for mixed messaging"
     excerpt: "In a “Hannity” exclusive, investigative journalist Sara Carter sat down with Guatemalan President Alejandro Giammattei to discuss Kamala Harris' summit with him, as well as the state of the U.S. border crisis."
     publishedDateTime: 2021-06-10T02:36:00Z
