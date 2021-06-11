@@ -416,6 +416,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris not fit to handle border crisis, Arizona sheriff says"
+    excerpt: "Pinal County Sheriff Mark Lamb, whose turf sits about 200 miles north of the Mexican border, said during an interview on “Fox & Friends” that Kamala Harris hasn’t taken the"
+    publishedDateTime: 2021-06-09T17:14:00Z
+    webUrl: "https://nypost.com/2021/06/09/kamala-harris-not-fit-to-handle-border-crisis-arizona-sheriff/"
+    ampWebUrl: "https://nypost.com/2021/06/09/kamala-harris-not-fit-to-handle-border-crisis-arizona-sheriff/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/kamala-harris-not-fit-to-handle-border-crisis-arizona-sheriff/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-border.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tomi Lahren blasts Kamala Harris for failing to visit southern border"
     excerpt: "Tomi Lahren blasted Kamala Harris for her trip to Latin America and the Biden administration’s border policies Wednesday on Fox Nation’s \"Final Thoughts.\" \"Vice President Kamala Harris completed her first photo op – I mean international trip to Guatemala and Mexico this week to discover the ‘root causes’ of the border crisis,"
     publishedDateTime: 2021-06-10T04:35:00Z

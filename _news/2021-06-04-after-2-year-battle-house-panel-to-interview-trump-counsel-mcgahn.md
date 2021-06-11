@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Justice Department subpoenaed Apple for data from House Intelligence Committee Democrats, sources say"
+    excerpt: "Prosecutors in the Trump administration Justice Department subpoenaed Apple for data from the accounts of House Intelligence Committee Democrats -- including Chairman Adam Schiff -- along with their staff and family members as part of a leak investigation, an Intelligence Committee official and a source"
+    publishedDateTime: 2021-06-11T01:56:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w0ODYX5Yf44/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/house-intelligence-committee-apple-data-trump-justice-department-doj/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/house-intelligence-committee-apple-data-trump-justice-department-doj/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531094912-01-trump-taxes-house-democrats-biden-play-ball-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "uXBFhNa6iNwm+warfl8NRyZ7ikKWP10BTU8w/znbLoD7SWcnqfRXmUPunfNycAskEJHwPKFznr/rp0bGxCUQa30K6KZSzpdhL0g6ZySykt94y3u8YCPWOTa5ILT7pt5yRrGuVn/baobGrG346P7s83jUjnWF/fIEBDM3Y4VS4X6wc+IOhvq4tFsQBtjVRBHXF7tM5Gv3jrreFrHFfJIc5/Cl3yNDwQQPVCrfOKnqDXzbznxZRG5ABSCiXgQDiTfvnQ0qzzoQEWrZRj83rHM86KvXtZf4Wvs5fCbqIPH5Ur3bTxB6ZXcOGvbmApB6iund+msJudhJi4YNg1yqkok10CoGrOhQ7TX5BIJE/O6w7HLCIut5VuML1kmIzxDE37Ku6xNQrpTiGH8t0NAJlGYvlieeB47R/kp7iQSlHTYzfUSzEwokSNc9mvMjktD+aK37geBpjgSKIjTHc8aKhc2jzfgA0uALUTAXhe7eYfog3obMJ6PFn0zIk4Sc3O3nQNLLBR+by2rDbior7bYrEBwlSw==;P3F1BthRNyV65RY4vzAkmA=="
 ---

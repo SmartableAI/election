@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html"
 type: article
 quality: 188
-heat: 608
+heat: 628
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/2907831/190624-e-jean-carroll-mn-1005.jpg"
         width: 2500
         height: 1679
+        isCached: true
+  - title: "Hunting Leaks, Trump Officials Focused on Democrats in Congress"
+    excerpt: "The Justice Department seized records from Apple for metadata of House Intelligence Committee members, their aides and family members."
+    publishedDateTime: 2021-06-11T00:06:00Z
+    webUrl: "https://www.nytimes.com/2021/06/10/us/politics/justice-department-leaks-trump-administration.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/10/us/politics/justice-department-leaks-trump-administration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/10/us/politics/justice-department-leaks-trump-administration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/10/us/politics/10dc-justice-1/10dc-justice-1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump scraps short-lived blog that was created in wake of social media ban"
     excerpt: "The former president, who is set to address the North Carolina Republican Party Saturday, wasn't getting much traction with his new outlet."

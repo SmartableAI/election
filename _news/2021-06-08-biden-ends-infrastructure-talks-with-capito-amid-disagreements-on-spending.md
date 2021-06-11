@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump Justice Department seized records of House Democrats as it searched for leakers: report"
+    excerpt: "The Department of Justice under former President Donald Trump subpoenaed data from Apple belonging to a pair of House Democrats – and a least a dozen people with ties to them – as it looked into leaks of classified information, The New York Times reported on Thursday."
+    publishedDateTime: 2021-06-11T01:55:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ftuDmOLvDk/trump-justice-department-seized-records-house-democrats-investigate-leaks"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-justice-department-seized-records-house-democrats-investigate-leaks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-justice-department-seized-records-house-democrats-investigate-leaks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d7aa755-6c0a-4d9d-963a-c774cecdde86/b22bf6d9-2400-40f9-9322-0e527d07d20b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "House Dems urge DOJ to stop defending Trump in defamation lawsuit over sexual assault allegations"
     excerpt: "Democrats on the House Judiciary Committee blasted the Biden administration's Justice Department for its \"misguided\" decision to continue to represent former President Donald Trump in a defamation lawsuit filed by a woman who claims Trump sexually assaulted her in the 1990s."
     publishedDateTime: 2021-06-09T12:30:00Z

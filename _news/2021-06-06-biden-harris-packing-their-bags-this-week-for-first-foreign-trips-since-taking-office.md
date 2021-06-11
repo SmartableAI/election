@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-packing-their-bags-thi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp"
 type: article
 quality: 192
-heat: 972
+heat: 992
 published: true
 
 provider:
@@ -409,6 +409,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-091.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris not fit to handle border crisis, Arizona sheriff says"
+    excerpt: "Pinal County Sheriff Mark Lamb, whose turf sits about 200 miles north of the Mexican border, said during an interview on “Fox & Friends” that Kamala Harris hasn’t taken the"
+    publishedDateTime: 2021-06-09T17:14:00Z
+    webUrl: "https://nypost.com/2021/06/09/kamala-harris-not-fit-to-handle-border-crisis-arizona-sheriff/"
+    ampWebUrl: "https://nypost.com/2021/06/09/kamala-harris-not-fit-to-handle-border-crisis-arizona-sheriff/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/kamala-harris-not-fit-to-handle-border-crisis-arizona-sheriff/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-border.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

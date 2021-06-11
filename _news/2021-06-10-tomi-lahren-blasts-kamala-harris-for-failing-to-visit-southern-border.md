@@ -428,6 +428,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris not fit to handle border crisis, Arizona sheriff says"
+    excerpt: "Pinal County Sheriff Mark Lamb, whose turf sits about 200 miles north of the Mexican border, said during an interview on “Fox & Friends” that Kamala Harris hasn’t taken the"
+    publishedDateTime: 2021-06-09T17:14:00Z
+    webUrl: "https://nypost.com/2021/06/09/kamala-harris-not-fit-to-handle-border-crisis-arizona-sheriff/"
+    ampWebUrl: "https://nypost.com/2021/06/09/kamala-harris-not-fit-to-handle-border-crisis-arizona-sheriff/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/kamala-harris-not-fit-to-handle-border-crisis-arizona-sheriff/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-border.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris Tells Migrants Not to Come to U.S., Lays Out Anti-Graft Steps"
     excerpt: "Vice president discusses with Mexican and Guatemalan leaders how to stem the immigration surge at the U.S. southern border during her first trip abroad in the Biden administration."
     publishedDateTime: 2021-06-08T18:20:00Z

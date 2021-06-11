@@ -132,6 +132,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump Asks Biden For A Favor As He Meets With Russia’s Putin"
+    excerpt: "Donald Trump on Thursday wished President Joe Biden luck and asked him for a favor ahead of his anticipated meeting with Russian President Vladimir Putin next week. In a statement, the former president asked Biden to send Putin his “warmest regards” and also warned him not to fall asleep during the meeting."
+    publishedDateTime: 2021-06-11T00:55:00Z
+    webUrl: "https://www.ibtimes.com/trump-asks-biden-favor-he-meets-russias-putin-3222932"
+    ampWebUrl: "https://www.ibtimes.com/trump-asks-biden-favor-he-meets-russias-putin-3222932?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-asks-biden-favor-he-meets-russias-putin-3222932?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/us-president-donald-trump-shocked-many-with-his.jpg"
+        width: 1024
+        height: 717
+        isCached: true
   - title: "President Joe Biden returns to the White House"
     excerpt: "U.S. President Joe Biden gets into a limo after stepping off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
     publishedDateTime: 2021-06-04T18:26:00Z

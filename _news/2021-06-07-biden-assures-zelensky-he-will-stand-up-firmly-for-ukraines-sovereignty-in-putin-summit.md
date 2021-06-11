@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump to Biden: ‘Good luck’ with Putin meeting, ‘don’t fall asleep!’"
+    excerpt: "Former President Donald Trump on Thursday wished President Biden luck in his upcoming meeting with Russian President Vladimir Putin — and also encouraged him to stay awake."
+    publishedDateTime: 2021-06-10T22:41:00Z
+    webUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/"
+    ampWebUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-putin-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "uCYtWacWNCEPhNGxVKtmUbMr+87cYiUmxeJedqf/9BuH9rRx8nv52gnM7Y3qKfBwJQO5zljQDXCzDH6GTAzIzhoJrsMq+rZOu3pqs3+YXbAoK5EJJMq4GMpcLI/B752VMZVSumIjtYC5XWxlL22Tz2kGoKPWyhRstAuAFQ1YpyTyEe1Xn3QyyubZYAQOSEVa+SXj29TQHNRCFIXK9bTegObdVp3r/nD8YLz9PlHZRpXXKfzyoyudMn0XPpaEGh3MR8Oj51tZY+56d97aEPF1SCWbNcVWonf+DUqLUHOpQWz5I3RfXf4i5cYHtIAbb6OwBy6jRBjmQORPkLPaQVUKiFybs6ZmuaSphsU+VQEBNQo=;kCz06O1yelT6TqYoaN13tw=="
 ---

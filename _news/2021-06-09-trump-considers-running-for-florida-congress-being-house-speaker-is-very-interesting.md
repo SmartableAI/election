@@ -77,6 +77,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump Administration Subpoenaed Apple for Lawmakers' Data -New York Times"
+    excerpt: "The U.S. Justice Department under former President Donald Trump subpoenaed Apple Inc for data from the accounts of at least two Democrats on the House of Representatives Intelligence Committee in an attempt to find out who was behind leaks of classified information,"
+    publishedDateTime: 2021-06-11T01:32:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-10/trump-administration-subpoenaed-apple-for-lawmakers-data-new-york-times"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "UkQuUcAOjL5ool/+feydyB53vZzojQaRjTeUirGGq9k2vgrLdPpdHCY3GiSMG9Rru4inJ7byCYFGjrhMavovsBjeMkwfh0Bv6J9aQ2wd9Dx0sFCGuZgigpG8bf0QtJ4PuPe2+UFJ6Km1ALjiL7JNDo227xHcq4s1sVltndGZ13VSIpLDDPE6r7pr1LLoK/ncU0vyZQYsDM8u+fs490mrICDG/wo+NVOx8QHXF6zvPV+dsU/wtoWBpUlzLGX9xxoZBdYyJGGnTySAmzSX546D0rWf2J+DZqvoggFAFgFCeMA23qwheVS4p0PfS3USpGR7H2NOhX6LGat89QqTAatVTBZlyqWYhdZSO+CmnWQEqNyLOMrdChm2X9Canq4sFiI4l1DXDPV2cWmrHOvSuMPmTgmChViuQp7Y01O+cxhIN5d66Se1Di4jXCc7GN2YdHWmIcQRDjTWBYXkPYRUw7uZTdiTXZp/MlZ71HrAIvr4dXt1SnPOB+pq0spejYnAN/xa6AAq3MZCLh4SQlmF3P00zA==;+6ebggI8zodyLg8egebuVg=="
 ---

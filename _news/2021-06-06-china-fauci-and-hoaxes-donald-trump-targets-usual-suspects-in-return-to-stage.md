@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/06/donald-trump-north-c
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus"
 type: article
 quality: 121
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "NY Times: Trump DOJ Investigated House Dems, Seized Data"
+    excerpt: "House Speaker Nancy Pelosi and other top Democrats are calling for an investigation after The New York Times reported Thursday that the Justice Department under President Donald Trump seized communications data of members of the House intelligence committee."
+    publishedDateTime: 2021-06-11T01:13:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "zOyVNB2n0kemHrklZCwzCiOqSjln8VZRsHy/E9wR7TawJ9gqXGVKhIk0nDJqHZKtaEnBQoMmCyG0f9QjuUlVCohMJ6bM8+zsWwKlLi4I3H7bM4ou+8AuN8MdzV8yH4IMYGbQ8wtHIYVWTx5Z1RNCHyblBvPupP0Oe+MX0eVMgMaHbuHJeIOFxtSxNIxmhIOMP2rfcTsv7GeFhyvzvc+eoAjHSw1ez72B8unHXiAbCUox6TGWWLN8WTHIYlypBQRmcT22x4JsNXa2EwJTMw58nuQ1Bp9qezTdVCvWJ49tye8OgKWteYxN542YzDHLzVk3g8O2/yrPzDCV24g6he6fZMAQhGrDHuveii+YWYCAV4DvQArRDRKEw33hvHFu8GdoWrQLeKWLyJq4FTMoasoTw+CnF7oKIpV6eBhM3Wk59KHE730w+J1L+FovZ3LdbVwCavjoUvdpEjGobsgwjYqJ75doHz3BZXhlE0tEjVYiK1h6Fu+yJXFm2KZUwIWFRZTtMeyG/D1T4bT8n8ORv+CejQ==;BR1lrxlBjLHW9InWeNd1Hg=="
 ---

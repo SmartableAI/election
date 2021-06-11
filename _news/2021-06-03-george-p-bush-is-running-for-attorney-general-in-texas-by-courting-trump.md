@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "FBI Director Chris Wray says he's 'not aware of any investigation' against Trump related to the insurrection"
+    excerpt: "FBI Director Chris Wray said Thursday that he is \"not aware of any investigation\" against former President Donald Trump in connection with the January 6 insurrection.\n    \n"
+    publishedDateTime: 2021-06-11T00:35:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G6urcJ34zsA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/fbi-chris-wray-trump-insurrection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/fbi-chris-wray-trump-insurrection/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302103424-02-riot-senate-hearing-wray-0302-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "DOJ charges six connected to pro-Trump rallies and right-wing revolutionary group in new Capitol riot conspiracy case"
     excerpt: "Six men from California who allegedly organized themselves as a \"DC Brigade,\" including one man who spoke at a right-wing rally in Washington, DC, the day before the January 6 attack on the US Capitol, face new conspiracy charges from the Justice Department, according to court documents made public on"
     publishedDateTime: 2021-06-10T21:38:34Z

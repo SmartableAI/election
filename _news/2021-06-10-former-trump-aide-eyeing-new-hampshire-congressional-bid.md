@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/557736-former-trump-aide-eyein
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557736-former-trump-aide-eyeing-new-hampshire-congressional-bid?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump Administration Subpoenaed Apple for Lawmakers' Data -New York Times"
+    excerpt: "The U.S. Justice Department under former President Donald Trump subpoenaed Apple Inc for data from the accounts of at least two Democrats on the House of Representatives Intelligence Committee in an attempt to find out who was behind leaks of classified information,"
+    publishedDateTime: 2021-06-11T01:32:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-10/trump-administration-subpoenaed-apple-for-lawmakers-data-new-york-times"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "nULgA8Pvz9gPDMTQVyRdPj7ut2c6zel8s24UIU/ShFh9GLRk1yrTh0VPE1Esv79rA9D6XJgwBifTMI58CnVLF1VHYaPIguewDMCmtYOEi98LrylAfjb5ZSDsmxHk/f1swYIV11Jp7h5TmHLmsGh13Sc9gJMkyuHTP1OX307OzUkWFv66urjwMSSjmycWQqHUqh3nh/SwEUUdO6KMDYGhObaMitmb/RudgIMWz8/EHOJWIp0BLcYer0LoNCkwsTFSQwMu9JWaNwn7KoMHqAZ5eZWn6rleFG99FDW796+WYEavRIN54k8op3i2gzLL9mY1gwLeUl8zEh75EXyAAC5upw18UvEW56hlWq4yIBBhy6k=;Ck3bA2aFwy4YhOIDfY1bcQ=="
 ---
