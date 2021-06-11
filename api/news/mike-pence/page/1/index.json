@@ -59,6 +59,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-07-former-vice-president-mike-pence-to-speak-at-des-moines-event-this-summer.md",
+      "title": "Former Vice President Mike Pence to speak at Des Moines event this summer",
+      "excerpt": "Former Vice President Mike Pence, a frequent Iowa visitor during President Donald Trump's term, will return to Des Moines this summer. Pence plans to address the Family Leadership Summit in Des Moines on July 16.",
+      "sourceUrl": null,
+      "webUrl": "https://www.press-citizen.com/story/news/politics/2021/06/07/mike-pence-speak-des-moines-iowa-family-leadership-summit-family-leader-kristi-noem-mike-pompeo-july/7594916002/",
+      "originalUrl": "https://www.press-citizen.com/story/news/politics/2021/06/07/mike-pence-speak-des-moines-iowa-family-leadership-summit-family-leader-kristi-noem-mike-pompeo-july/7594916002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/29/PDEM/b4bb1aed-db4c-4826-81ab-80adeedd3735-20201029_Pence_10697.JPG?auto=webp&crop=2109,1187,x0,y257&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.press-citizen.com/amp/7594916002",
+      "cdnAmpWebUrl": "https://amp-press--citizen-com.cdn.ampproject.org/c/s/amp.press-citizen.com/amp/7594916002",
+      "publishedDateTime": "2021-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Iowa City Press-Citizen",
+        "domain": "press-citizen.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-why-mike-pences-speech-was-really-important-and-what-it-says-about-2024.md",
       "title": "Why Mike Pence’s speech was really important, and what it says about 2024",
       "excerpt": "The former vice president well received speech was interrupted by numerous standing ovations by the sold out crowd of conservative activists and leaders, but most importantly, he gave his most extensive comments to date about the deadly Jan. 6 insurrection at the U.S. Capitol.",
@@ -1523,58 +1566,6 @@
         "Republican Voice",
         "Mike Pence",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-mike-pence-undergoes-surgery-to-have-pacemaker-implanted.md",
-      "title": "Mike Pence undergoes surgery to have pacemaker implanted",
-      "excerpt": "\"The routine surgery was successful, and he is expected to fully recover and return to normal activity in the coming days,\" Pence's office said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/mike-pence-pacemaker-implant-surgery/",
-      "originalUrl": "https://www.cbsnews.com/news/mike-pence-pacemaker-implant-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/13/3d46e6fa-c74e-41cc-be16-96e683b81c3e/thumbnail/1200x630/6416c4237a17d28bc745050913d7d613/gettyimages-1230408840.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/",
-      "publishedDateTime": "2021-04-16T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

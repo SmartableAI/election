@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7546944002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7546944002"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
       - url: "https://i.insider.com/60ba5775e459cb0018a2c3db?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
-    excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
-    publishedDateTime: 2021-06-03T00:58:00Z
-    webUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
-    ampWebUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "MNTYtQPgnNT4dyScyymIr7PtxCncZOSWJavTzTtOnDezqVDIp8QvsmK49gd0Lu4yqU8iH2C2m9LiqYfSYVCYggvyW4WJX9N7jiK3g80s1F3IppiWcwBe7RBZLOPn8AsLRoUboP/m/eur/sdvzy5y/IxeF4P9P6ja50muK3IK7EIzF5cY31vSpJ/62gvaBfWfYP7t4M1RHlxE6lv8Xgxk3L+MQjRpxzCDhUR4ZPw+YurLc7Zry2cXzT7BuDZj1BcmNY8JOtJ9sVAG84DT1hFbGTr3N9afMMVOrlNLSBoMq8Uf/QxBps2bXyi235PWTPoXa/GjLFcbe827VTzgAPUwbBmWbRnsOantYcmgkQFSmCYuJEpYrxujcpkfRwdtc0gDkuA/dShOPjTQmYtrrPBXt9Rb8JRbPcNziioRm1QCuTfd17vSjCe4/PbPgzo0bD3KdGjmECLwmGcOBgN3k678jEjz+cGGGnb8f5MEqmGwz8jyoYYkWnQKiaYiCMGot/iwX2TPwftNPehsXIBEnAdvcA==;55qruJhCiUyyv5LIzCTnpg=="

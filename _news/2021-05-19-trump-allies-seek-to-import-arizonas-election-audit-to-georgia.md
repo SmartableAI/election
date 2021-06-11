@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html"
 type: article
 quality: 190
-heat: 470
+heat: 490
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521102719-donald-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Arizona attorney general, slammed by Trump, announces Senate bid"
+    excerpt: "Arizona Attorney General Mark Brnovich officially announced a Senate campaign on Thursday, eying a general election matchup with incumbent Democratic Sen. Mark Kelly.\n    \n"
+    publishedDateTime: 2021-06-10T23:11:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qFUTSDQktzw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/mark-brnovich-senate-bid-arizona/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/mark-brnovich-senate-bid-arizona/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610185206-arizona-ag-mark-brnovich-file-2020-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

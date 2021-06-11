@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/08/joe-manchin-is-opposing-big-part
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html"
 type: article
 quality: 118
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1811587/biden-walks-back-biden-sinema-slam.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "How BidenLand is courting Joe Manchin with house boat dinners, millions of dollars in grants, and West Virginia visits"
+    excerpt: "The conservative Democrat continues to play hard-to-get as the White House seeks his crucial vote to move Biden's priorities."
+    publishedDateTime: 2021-06-10T23:09:00Z
+    webUrl: "https://www.businessinsider.com/biden-is-courting-manchin-with-political-favors-west-virginia-democrat-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/60c2397d6d855e00181575b0?width=1200&format=jpeg"
+        width: 1200
+        height: 599
         isCached: true
 
 secured: "8X9KN7WKZ31SkJweVJHkHinQch46SOfzYLODD5sTfz3p3cJ6fzQHyXeUNt5PA0/9zcZ2sses1ggTlKn3c1Qpra33YDpu0d32qAKcGbWHGlCzKkFzBgZ2HkNkLBfBoF0GyphG73mE4YZ5HMuR9Xgkirij8HM+F+ipZ40/y0BYwDb8GNx51l9ZHEECx82quHTDIjcHhynhoQ1edxTBq1hVHuMyZv5LbrjbpzTLKd9z/V/PQvhv2gd1FjGl6ImHIxHoq8mF8lWlJEz7GnK7VzItcrZqhlo4ELhdZ1ESy5fBvU6YvvTpRZnpWKn86dCg+eFD9Oq9lUHvV72s/KYpqxIplNNbCdlk1ClIuWizphoCiLQ=;gzMcKBUsXDMuUN11d1GMgQ=="

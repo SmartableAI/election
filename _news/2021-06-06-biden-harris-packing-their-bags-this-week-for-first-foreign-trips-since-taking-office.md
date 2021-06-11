@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-packing-their-bags-thi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp"
 type: article
 quality: 192
-heat: 952
+heat: 972
 published: true
 
 provider:
@@ -253,6 +253,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8292479a-8b4e-4a0e-9eeb-ca988756b0ab/c244e29d-79ac-4fef-b542-69d4bb413b9a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris invites Texas Democrats who walked out of state House to kill voting bill to White House"
+    excerpt: "Vice President Kamala Harris is set to meet with Texas Democrats who walked out of the state’s House chamber in order to deny Republicans the quorum needed to pass their voting restrictions bill."
+    publishedDateTime: 2021-06-10T23:20:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tnF-LU7NVT0/kamala-harris-texas-democrats-walked-state-house-kill-voting-bill-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-texas-democrats-walked-state-house-kill-voting-bill-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-texas-democrats-walked-state-house-kill-voting-bill-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Kamala-new-.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

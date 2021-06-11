@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-tru
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1"
 type: article
 quality: 140
-heat: 1240
+heat: 1280
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1844D/production/_118850499_gettyimages-1233319341.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "10 Texas Democrats to meet with Vice President Kamala Harris on Wednesday"
+    excerpt: "Ten Texas Democratic lawmakers will meet with Vice President Kamala Harris in Washington on Wednesday after they staged a walkout that killed Republican-proposed voting restrictions. The Democrats who will be in attendance are: Rep."
+    publishedDateTime: 2021-06-10T22:39:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/10-Texas-Democrats-to-meet-with-VP-Harris-on-16240000.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/10-Texas-Democrats-to-meet-with-VP-Harris-on-16240000.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/10-Texas-Democrats-to-meet-with-VP-Harris-on-16240000.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 124
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/41/40/21108758/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Kamala Harris suffers bumpy baptism over immigration on first foreign trip"
     excerpt: "Vice-president’s ‘get tough’ stance on corruption overshadowed by backlash over ‘do not come’ message to migrants"
@@ -630,6 +646,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/24/PTX1/369c7658-4220-438f-a5b2-04e1016fa226-Vaccination_Juarez1039.JPG?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris to host White House meeting with Texas Democrats who blocked voting bill"
+    excerpt: "The meeting will take place Wednesday, according to Harris' office. Sign up for The Brief, our daily newsletter that keeps readers up to speed on the most essential Texas news. Vice President Kamala Harris is hosting a meeting next week at the White House with Democratic state lawmakers who killed Texas Republicans' priority elections bill in the regular session."
+    publishedDateTime: 2021-06-10T22:01:00Z
+    webUrl: "https://www.texastribune.org/2021/06/10/kamala-harris-texas-voting-bill/"
+    ampWebUrl: "https://www.texastribune.org/2021/06/10/kamala-harris-texas-voting-bill/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/06/10/kamala-harris-texas-voting-bill/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 67
+    images:
+      - url: "https://thumbnails.texastribune.org/Y1zZ3nPc4Me_wOLQ_Snp3EFew9Y=/1200x630/filters:quality(95)/static.texastribune.org/media/files/f9f323cca6833f15e8f5b9672268d697/SB7%20Dem%20Broke%20Quorum%20Presser%20MG%2002.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Harris’ staff to shift to in-person work in July as White House eases COVID restrictions"
     excerpt: "Vice President Kamala Harris’ aides have not been able to work from the White House grounds full time because of COVID-19. That’s changing in July."

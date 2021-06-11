@@ -47,6 +47,20 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "How BidenLand is courting Joe Manchin with house boat dinners, millions of dollars in grants, and West Virginia visits"
+    excerpt: "The conservative Democrat continues to play hard-to-get as the White House seeks his crucial vote to move Biden's priorities."
+    publishedDateTime: 2021-06-10T23:09:00Z
+    webUrl: "https://www.businessinsider.com/biden-is-courting-manchin-with-political-favors-west-virginia-democrat-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/60c2397d6d855e00181575b0?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
 
 secured: "hJCV7/kNyt3MakTEYbx3OQr1HzbqAtdtQacBa6YCjyJTa09n09sLwPEphShiKz7uV4dKIP335qaEgGFfryC0EuAyRYJQiz3+PRTnSvvwDANr5L9ps20DILIL7ySZ/+rUP2QYE45uHMyE826upKAYKO39+69t88FyjA1EPxuSN/0IfR4xrUZQvugKlHVydhNc7QucXtx3N1tG8sdIMeTYYg4HDSiTYj9MSJqklpMzcChYySM2/qTgLA3O+vZhqoYOyKArO4hny+mUm8YNxIQ8ANcLSr1l4n1cmD0z/PvfoI4oUesyxC7v/Di3METzbo5qi+hJ5Oz5jLp4Shy5lYOtNrL7lvBpq7cCkrLC+qa6yW8=;lmJetbkFCpmSEebLzTSmoQ=="
 ---

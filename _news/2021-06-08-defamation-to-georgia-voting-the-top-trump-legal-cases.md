@@ -25,51 +25,21 @@ topics:
   - Donald Trump
 
 related:
-  - title: "First Thing: ‘Teflon Don no more’ as legal threats mount against Trump"
-    excerpt: "Former president faces increasingly serious legal issues as he teases a 2024 run. Plus, how cicada-phobes are surviving Brood X"
-    publishedDateTime: 2021-06-08T08:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
+  - title: "George P. Bush Defends His Support for Donald Trump: 'I'm My Own Man'"
+    excerpt: "Texas Attorney General Candidate George P. Bush defended his support of Donald Trump on Wednesday, noting that members of his family have \"differences of opinion\""
+    publishedDateTime: 2021-06-10T07:53:00Z
+    webUrl: "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245"
+    ampWebUrl: "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/07bee087791bd38b55d1955b5f487d8c24217a92/0_105_2404_1443/master/2404.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f52110a3c1d23a5f659f64d8bd43a54e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Donald Trump calls Bitcoin 'a scam against the dollar'"
-    excerpt: "You can change these settings by clicking “Ad Choices / Do not sell my info” in the footer at any time. Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just ..."
-    publishedDateTime: 2021-06-08T01:12:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-57392734.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-57392734.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-57392734.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BA93/production/_118836774_trump1.jpg"
+      - url: "https://d.newsweek.com/en/full/1817426/george-p-bush-houston-texas.jpg"
         width: 1024
-        height: 576
-        isCached: true
-  - title: "No more 'From The Desk of Donald J. Trump': Former president shut down blog launched just a month ago"
-    excerpt: "A spokesman for Donald Trump said the blog was designed to be temporary as the organization develops its own social media site."
-    publishedDateTime: 2021-06-02T20:43:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2021/06/02/from-desk-donald-j-trump-former-president-kills-blog/7505211002/"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 40
-    images:
-      - url: "https://www.gannett-cdn.com/sites/cincinnati/images/footer-logo@2x.png"
-        width: 720
-        height: 316
+        height: 683
         isCached: true
 
 secured: "sqWB4jl7dzja/PzZt1WKWaXbDc7q2tkcGphicmzUSFAddhpbnOY5WbCJjyazVlNwZm/fVVDPLI4pzdcQn43yRStLbivfQzBkk31UvwMorbRsmQESCFDIJyrmwfH4nO3US+siPcB4zUC83KqdcKV7I+wShUkZqEIbsXrLWQxPd5YoxgKl5SqgvvzmzCSTm1JHNVyjhTthOl1L/kLqThWMLJqbj3mJYgLYYYlVDF79Ry/UCubO7BGZM8ecPlf4Ji/yt6jJbyFWV7xt6FIGDWhYZVsWwAuxsAYlO+2eUO3T7t5qnsKRz2BE2ZhW61ZedB5OVAnMU9ftlW+Opuk69UhcVGOddwePIdiNoDzWlILls4Lg2Y2tK0cFE9TexG9EmFO9NnoNgFXkyJifh7cOn2eyhHVWMojtR00e92mYEoE2+Mpm2bJRvLvWQ2fXpSTBVA4WRjDk/m3+8gBJzLCX5nKcJMyN6ZRcTh8zYVnlaPMk49GumbAHQlV0TIEBDJN2VyHeH5+pYoMFmn+ZWx7qRuWwWQ==;Zcbc4Qqd4SAuWNYKMjSaqA=="

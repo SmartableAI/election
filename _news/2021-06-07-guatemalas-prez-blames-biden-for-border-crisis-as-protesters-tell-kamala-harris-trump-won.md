@@ -269,6 +269,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris invites Texas Democrats who walked out of state House to kill voting bill to White House"
+    excerpt: "Vice President Kamala Harris is set to meet with Texas Democrats who walked out of the state’s House chamber in order to deny Republicans the quorum needed to pass their voting restrictions bill."
+    publishedDateTime: 2021-06-10T23:20:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tnF-LU7NVT0/kamala-harris-texas-democrats-walked-state-house-kill-voting-bill-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-texas-democrats-walked-state-house-kill-voting-bill-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-texas-democrats-walked-state-house-kill-voting-bill-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Kamala-new-.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Harris staff says climate, economy among 'main drivers' of migration after Guatemala president blames US"
     excerpt: "Vice President Kamala Harris’ staff on Sunday insisted that the \"main drivers\" of the migrant surge to the southern border are climate and the economy -- as Harris arrived in Guatemala and after the Guatemalan president blamed the change in U.S. administrations for the crisis."
     publishedDateTime: 2021-06-07T14:44:12Z

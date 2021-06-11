@@ -93,22 +93,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
-    excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
-    publishedDateTime: 2021-06-03T00:58:00Z
-    webUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
-    ampWebUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "GcT1+UG8zr1IGwpMMrWIhsxzmBKmmEf+zbkRVPiCRP9K6HejoMhNFmhoHmR5N957b6QLYTU+iw+eawWuSqnd9rPcgP+xUTL8g4I8web2iTIUaBpi8ZMPVEHbmgAl3+GJBwfmyQL4l947uqCGu/pvZvCsuPcOOvQmjmG4mIFNSRmj75UsQF4qZawI3mzdU5OzxuBdaj1Iu7DGUNnBXgNCYmpM6V0yTQ5kWAubYksI9TriPBh7TxtVBnU0FNsPc9kFSsnq5njeoKd9H0Sy4kkk3MaAz5ggMPji9nz3B7oMWHhD6u/bQUB8c1LzMZSjBVUtPERsqx3/imqVHGB1T157kAjvjvdYdCLhJ+RH1CZGIUI=;RKHQnd+tBbQdUVbOfe5pJA=="
 ---
