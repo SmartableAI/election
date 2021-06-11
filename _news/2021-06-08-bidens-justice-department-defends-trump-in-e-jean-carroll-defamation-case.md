@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-justice-department-trump-e-je
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp"
 type: article
 quality: 188
-heat: 448
+heat: 468
 published: true
 
 provider:
@@ -237,6 +237,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Inflation Monster Arises"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-11T10:59:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/11/bidens_inflation_monster_arises_544826.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "Z9MYWES8KhEz17TV/HbwpSsDN8S+ec7FG7SlPeNCAPF7k1EYjjS+K+kfNKKpOoo4onItiX40ivO6OpDL0DA4ftuCB0ABl2jp2iFsetoqaf3C1qHIAy3aPRStDuL0RzM7wEKm+8Rp+elRH5p1gMm5/Vs7u42UuNYgFHpx5lfnxltpRqcqBz1CQ1M3XINKJ1wVhrGR2nB9U9IbEtVzf3WxWHeYR+sShjigqgMjRZHTDpwe97LoXyUNh+B9mPDx0+pNC/vJYvJI5XIrig8KTLNeHR9vB7zS+gMH+XvkNBQWVMT3p1XFO4eGZvBOEMKRuhYsgN7GuWwB3rtKQIC6X8dYOSut1vJdgLsngdArnnVr0ow=;YE9vc9p9+K2mdoovNXYnCw=="
 ---

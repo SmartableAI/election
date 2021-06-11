@@ -234,6 +234,15 @@ related:
         width: 750
         height: 501
         isCached: true
+  - title: "Biden's Inflation Monster Arises"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-11T10:59:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/11/bidens_inflation_monster_arises_544826.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "2Umq1opmUXqPlJiTYYTx0Wp1wIAZOFu/1ZFwK85D/ovuckz/tqJlqnEGtf8ohqZtEQ/kt/J7UohFnCy+lJmivwmUnQhPDhUYWJ8bHEOOqy29f5g1hFtsB79WX3sz4Pgt4cvpnZgrAfyfm/3r2hFwFLVWa2+AWY3x+1pBGGHJX3+IMBv1/ryEUu3df0zXNv4m8U2uMk/zQNJu37793EiQAPT84Z6k3aU8W0KVPUio4oC+bzkF79BpImPhUiHDO9xo0IgovOM4tqq0jjQddUO1e4F/Rw0AjSdP78+qVOt8MvGJ9N4PW73v6of864a6zZz9WNfAgL+ydOCUu9M5QMWickjgYxy6C8ePg/nyHU5JdRc=;DqgeIffuelUusB4pPKNQeA=="
 ---

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Calls intensify for Biden administration to help save former Marine's life"
-excerpt: "Cindy Warmbier's son was killed by North Korea's regime, and now she wants to prevent another American being murdered."
-publishedDateTime: 2021-06-05T16:11:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YyJsW4Jostc/biden-administration-help-save-us-marine"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YyJsW4Jostc/biden-administration-help-save-us-marine"
-ampWebUrl: "https://www.foxnews.com/politics/biden-administration-help-save-us-marine.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-help-save-us-marine.amp"
+title: "Biden's proposed corporate tax hike poses potential for costlier utility bills"
+excerpt: "The Biden administration is proposing to increase the corporate tax to 28%. That's still lower than it was before the 2017 tax reform package – but some fear enough to force power bills to increase."
+publishedDateTime: 2021-06-11T10:04:35Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/snwpfUfKYlQ/biden-corporate-tax-hike-utility-bills"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/snwpfUfKYlQ/biden-corporate-tax-hike-utility-bills"
+ampWebUrl: "https://www.foxnews.com/politics/biden-corporate-tax-hike-utility-bills.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-corporate-tax-hike-utility-bills.amp"
 type: article
-quality: 173
+quality: 171
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ca12684-78aa-47da-b839-917d70527ced/3486e9bf-4327-43a6-ae91-b962eaa558a1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f54365df-0068-4544-a216-f26e426c7b0f/e849bcc4-fe35-4e2c-a44a-96a0c7f4dcfc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Calls intensify for Biden administration to help save former Marine's life"
+    excerpt: "Cindy Warmbier's son was killed by North Korea's regime, and now she wants to prevent another American being murdered."
+    publishedDateTime: 2021-06-05T16:11:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YyJsW4Jostc/biden-administration-help-save-us-marine"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-help-save-us-marine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-help-save-us-marine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ca12684-78aa-47da-b839-917d70527ced/3486e9bf-4327-43a6-ae91-b962eaa558a1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden says he's 'very confident' in Fauci after thousands of emails revealed"
     excerpt: "President Biden said he is \"very confident\" in Dr. Anthony Fauci amid Republican attacks on his chief medical adviser after the revelation of thousands of his emails from the early days of the coronavirus pandemic. "
     publishedDateTime: 2021-06-04T17:33:26Z
@@ -140,22 +156,6 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a4c2abd-87f5-4752-be3f-94e17533012e/8087ecda-dc5d-4e4e-8af2-933f901d4dc5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden's proposed corporate tax hike poses potential for costlier utility bills"
-    excerpt: "The Biden administration is proposing to increase the corporate tax to 28%. That's still lower than it was before the 2017 tax reform package – but some fear enough to force power bills to increase."
-    publishedDateTime: 2021-06-11T10:04:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/snwpfUfKYlQ/biden-corporate-tax-hike-utility-bills"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-corporate-tax-hike-utility-bills.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-corporate-tax-hike-utility-bills.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f54365df-0068-4544-a216-f26e426c7b0f/e849bcc4-fe35-4e2c-a44a-96a0c7f4dcfc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -403,6 +403,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "gFeCROODf6b4c3TWbdw0vO6SmPqEOvySX0uA+dz2lDKoK6JoIWds2ciP1j/jrJWr67Q0R4Y9QS2J/FWJpM7RhG91d7HUbzqaBSbKn6ca3gDmIoPqSjZ1I1gx27eea3+jh+M158kHyMFZkLscI+/lMMu92W14RJ7S8QgapVBwBPC0GVO53XaedcfOm/wYYtaeaCPEG8jf6WNYY83GxQxBEaBbBRi5mTNGta9arh1RXRw/GKk21GgcxmuzFJAhI73TqFGv4KI6239Zt5G/esWkCEQKM5ynfDKqD4Lm2IuWquMj13Ah1RpR/mLDZNVzt0QoIDpoUkhy871/9X3OvaV7IusXVVSEIJfpijaWc19JmHY=;W0/f+1pIOI2dTmeZdGHf/w=="
+secured: "wVRM38UUNp/e3BcAmblkZFnhawkrtwifvccZGqBguLokyxJBcjPlXVxtr0/1t+VbkAqHKSRCKBv8+DkkLLPCh5NsU2rX/KqYqxMEXLK7/uoBuTZBpG3g18w3lIQFm6FQAAfpx3fBug7U8NqSGslulHAFL3xdPO3t+7nIG3wwPZJ0cSSFTslr8Y0fj13EA/8/lEthpZdoKodc69Z7BuSTZT9PAOptt+jfcYfneHF6GN/KyY6EfS90EUay+eZjICJXG66zEvgqhfCkYcHUA5B/L4YgRkdQTfYjcjarlbqCIa6S8yOaR1/yvbLDP9D/RNm3xbnFf6FQWKDMpAx+ZIvR8QwH/CCG2BYCiNZbr15Egsc=;GeM+CNi396OEqbCilkDTRA=="
 ---
 

@@ -159,6 +159,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's proposed corporate tax hike poses potential for costlier utility bills"
+    excerpt: "The Biden administration is proposing to increase the corporate tax to 28%. That's still lower than it was before the 2017 tax reform package – but some fear enough to force power bills to increase."
+    publishedDateTime: 2021-06-11T10:04:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/snwpfUfKYlQ/biden-corporate-tax-hike-utility-bills"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-corporate-tax-hike-utility-bills.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-corporate-tax-hike-utility-bills.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f54365df-0068-4544-a216-f26e426c7b0f/e849bcc4-fe35-4e2c-a44a-96a0c7f4dcfc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's Europe trip: President's schedule, meetings and everything you need to know"
     excerpt: "On his first trip overseas, the president landed in the United Kingdom on Wednesday evening and is set to meet with several European allies, participate in the G-7 and NATO summits, and participate in a high-stakes, in-person meeting with Russian President Vladimir Putin."
     publishedDateTime: 2021-06-10T13:57:12Z

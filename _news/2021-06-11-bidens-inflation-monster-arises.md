@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Biden Should Make China Pay"
-excerpt: "President Joe Biden heads to Europe Wednesday to meet with European leaders. He says the goal is to work together to"
-publishedDateTime: 2021-06-09T10:13:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html#!"
-ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
+title: "Biden's Inflation Monster Arises"
+excerpt: "RealClearPolitics"
+publishedDateTime: 2021-06-11T10:59:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/06/11/bidens_inflation_monster_arises_544826.html"
+webUrl: "https://www.realclearpolitics.com/2021/06/11/bidens_inflation_monster_arises_544826.html"
 type: article
-quality: 85
+quality: 45
 heat: -1
 published: false
 
@@ -20,12 +18,6 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
-
-images:
-  - url: "https://assets.realclear.com/images/54/544585_5_.jpg"
-    width: 750
-    height: 501
-    isCached: true
 
 related:
   - title: "Biden's Justice Department defends Trump in E. Jean Carroll defamation case"
@@ -220,6 +212,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden Should Make China Pay"
+    excerpt: "President Joe Biden heads to Europe Wednesday to meet with European leaders. He says the goal is to work together to"
+    publishedDateTime: 2021-06-09T10:13:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/544585_5_.jpg"
+        width: 750
+        height: 501
+        isCached: true
   - title: "Trump Rallies Are Back. They're Just What Dems Ordered"
     excerpt: "Starting this month, Donald Trump will also be back in public circulation, headlining a series of grievance-filled summer MAGA rallies. That's fantastic news for anxious Democrats."
     publishedDateTime: 2021-06-04T13:43:00Z
@@ -234,16 +242,7 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Biden's Inflation Monster Arises"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-06-11T10:59:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/11/bidens_inflation_monster_arises_544826.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
-secured: "BDCp0CRqdCCVfh3XEFyyBiBez8+p/6hOsTCPBjWPbjhVcJCtxrPfaeggVmVH7a4kgSHzlT++MACJwnogM4ayyaIUquQJtEaNvZlzeyPFK4ff6MkhAZD4vaFpepd6NoOhYlbIx92nWnqx1ROxk4p0mJ1qIBdAXRNrZ02+srOlWviqRbTSs3snd33fRQwePsJ9x7m00hLXYky3RsXvGcuywhZjPzUkhjn5tBPWKvl7NmcwAiqrZhohL6FZy4aJRPBwNhy3AI2R/18eIQGPvW3jgZrT3/j0EqzX+N9RkhokmtD4Ig6M9ejo7tVXF8gzvzwzssu2LdJi86pk/0EZ4uqR4UzLeXrKHnAOSuUEYHcTnGs=;Yoay/hghUpGHJGIgMcT6TA=="
+secured: "5tw4HseCDMuASuIBGxRNrZHgDcEo6Qiq92ixH2BhfE6ZaccrPz8+znEwVlXF3cio9hsWXp732ioD1sxmpXuluAsnVeRMorugLY5vMSieOQHCyalYWRTJIg39jpWskMif9gtixCgCsBUFVNn2wJQ2/P3GFqNSfdRA9WX4pNCvfiEluJS0a+V3wP3vSpbBi1WKGQsWJWZtiiTVMGT4LDjWKSomrNIPUuVgZihEV4wJg5QTlOLw98XEjM9yg0LsAgpBQCov4lhA7ArAgvTBWRyMy8bYsyLPB7sdZugJvUhJ1tgsYagfBZTESCZSY0EGbiGY4LdHOAMJV85Ww0yHf20IGqJw0IOnfPLDTlNda7GUWxg=;ZnAWUKB6KikJKx+v+y7AJw=="
 ---
 

@@ -160,6 +160,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's proposed corporate tax hike poses potential for costlier utility bills"
+    excerpt: "The Biden administration is proposing to increase the corporate tax to 28%. That's still lower than it was before the 2017 tax reform package – but some fear enough to force power bills to increase."
+    publishedDateTime: 2021-06-11T10:04:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/snwpfUfKYlQ/biden-corporate-tax-hike-utility-bills"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-corporate-tax-hike-utility-bills.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-corporate-tax-hike-utility-bills.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f54365df-0068-4544-a216-f26e426c7b0f/e849bcc4-fe35-4e2c-a44a-96a0c7f4dcfc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden nominee under fire over possible financial benefits while working in Congress"
     excerpt: "President Biden's nominee for the director of the Bureau of Land Management is under fire from Republicans for an allegedly unethical loan she took while she worked for Sen. John Tester."
     publishedDateTime: 2021-06-09T15:11:47Z
