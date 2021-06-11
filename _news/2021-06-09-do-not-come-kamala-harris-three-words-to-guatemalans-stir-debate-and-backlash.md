@@ -824,6 +824,20 @@ related:
         width: 401
         height: 226
         isCached: true
+  - title: "SF immigration advocates slam Kamala Harris’ ‘betrayal’ to her past"
+    excerpt: "Kamala Harris’ comments earlier this week discouraging Central Americans from traveling to the southernmost border of the United States rattled San Francisco advocates, who point to the vice president’s chequered record on immigration during her time as a city official."
+    publishedDateTime: 2021-06-11T00:00:00Z
+    webUrl: "https://www.sfexaminer.com/news/sf-immigration-advocates-slam-kamala-harris-betrayal-to-her-past/"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 55
+    images:
+      - url: "https://www.sfexaminer.com/wp-content/uploads/2021/06/25463525_210610-SFE-immigration_1.png"
+        width: 916
+        height: 572
+        isCached: true
   - title: "News conference attendee who told Kamala Harris “I voted for you” was not a reporter"
     excerpt: "The person who told Kamala Harris “I voted for you” at a Mexico City news conference was not a Univision reporter. She was part of an academic research program. She was introduced during the press Q&A portion by White House staff as being with Univision."
     publishedDateTime: 2021-06-10T20:55:00Z

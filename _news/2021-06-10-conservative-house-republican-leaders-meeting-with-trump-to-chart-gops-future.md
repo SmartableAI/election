@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/conservative-house-republican-leade
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/conservative-house-republican-leaders-trump-meeting-gop-future.amp"
 type: article
 quality: 171
-heat: 311
+heat: 331
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/jason-miller-tech-ceo-722.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump meets Republican Study Committee leaders to discuss policy agenda, path to majority"
+    excerpt: "Republican Study Committee Chairman Jim Banks and members of the conservative caucus’ leadership team huddled with former President Trump to discuss their policy agenda and path to the majority in"
+    publishedDateTime: 2021-06-11T02:15:00Z
+    webUrl: "https://nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/"
+    ampWebUrl: "https://nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 126
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-discusses-policy-agenda-734.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

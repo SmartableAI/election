@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump meets Republican Study Committee leaders to discuss policy agenda, path to majority"
+    excerpt: "Republican Study Committee Chairman Jim Banks and members of the conservative caucus’ leadership team huddled with former President Trump to discuss their policy agenda and path to the majority in"
+    publishedDateTime: 2021-06-11T02:15:00Z
+    webUrl: "https://nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/"
+    ampWebUrl: "https://nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 126
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-discusses-policy-agenda-734.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Chris Hayes: The Dangers Of Trump's Big Lie and Republicans Actually Believing It"
     excerpt: "It is hard to tell what is more dangerous to American democracy, at the moment: the big lie, or the big delusion. The key question emerging from the alternate reality the right has been constructing,"
     publishedDateTime: 2021-06-04T14:28:00Z

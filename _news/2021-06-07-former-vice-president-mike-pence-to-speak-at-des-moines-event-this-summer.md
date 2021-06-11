@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.press-citizen.com/amp/7594916002"
 cdnAmpWebUrl: "https://amp-press--citizen-com.cdn.ampproject.org/c/s/amp.press-citizen.com/amp/7594916002"
 type: article
 quality: 74
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Pence to speak at FAMiLY Leadership Summit"
+    excerpt: "The FAMiLY Leader is pleased to announce former Vice President Mike Pence will join a star-studded lineup of confirmed speakers at the 10th annual FAMiLY Leadership Summit at the Community Choice Credit Union Convention Center in Des Moines on July"
+    publishedDateTime: 2021-06-11T02:15:00Z
+    webUrl: "https://www.spencerdailyreporter.com/story/2889052.html"
+    type: article
+    provider:
+      name: Spencer Daily Reporter
+      domain: spencerdailyreporter.com
+    quality: 35
 
 secured: "Kk4mcmRM7mxj7nTKw2XEyNXWOTh6fpVhlwxF638MS938zmN5p6OOq3FNge0be9xPPTQo/CpWJJ9Qhw1KoVZTL3WFooGvqSEnb27mMxDgs4nrxPIksiN8266s4mLejEPvjkVzArbbbHBbdo3KsZs2NBXdiV7Iz262iPpVvbveEOBQlfkfHO5SGZCbAIF20z6evbO6Pm26W3xDez19pSSXyCp8Wy4X6olYD1SsoRc8VqaklNam0TY6Z6zKEbsz2q+YqIUCYlR4F7d/Ax584mbaC6ygL8uNi3lfB8uCWWJeYVwIh+aPxwl6Z+UMAH75mtlhJPrqx+0aP/1Htkzakv3eHn+1GxpqFYVLPHm5i9c7U1qzw/VPVQseJ1azZ7JtaoHWYguirit2pd5/eyneoKszaCnZV/IQVV8WXiEZZop0upBfVnQQBO/Yb3yx07fE55TMtq1/Y8zzlzoOGY5xUFizlVTfycnGmFZJpC3t88B3z9em/LfM3OUna8Mkr6IHHGHSBsoaPlvfZkG5l6DL82pgig==;3/kcx9wTfASfSD9gBy06QA=="
 ---

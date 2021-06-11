@@ -108,6 +108,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump meets Republican Study Committee leaders to discuss policy agenda, path to majority"
+    excerpt: "Republican Study Committee Chairman Jim Banks and members of the conservative caucus’ leadership team huddled with former President Trump to discuss their policy agenda and path to the majority in"
+    publishedDateTime: 2021-06-11T02:15:00Z
+    webUrl: "https://nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/"
+    ampWebUrl: "https://nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 126
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-discusses-policy-agenda-734.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CNN's Don Lemon continues Trump obsession hours after urging the media to 'leave him alone'"
     excerpt: "CNN anchor Don Lemon cannot quit Donald Trump even after he urged the rest of the media to do so. Lemon raised eyebrows on Thursday during his appearance on CNN's \"New Day\" when he pleaded to his journalism colleagues to lay off covering the former president a bit."
     publishedDateTime: 2021-06-05T03:57:00Z
@@ -139,6 +155,6 @@ related:
         height: 375
         isCached: true
 
-secured: "qmq3GJ0lt2MU+Z5b2jGK1w/LUccQa1F2eoE9Ohu5yyIcmUDReQ5/FyOLsAEKCjKB60kulHhe45et22vIUNVWaXCDEhD+phZm3F0cP8MXdGgBrCfmE05/wQ6wJ8RYy0tKgwt7iGzXubZFVolOCDGT1Nb6nMJ5z0bLCW3UuVPlzKy3O6Ko2TGUMBKNyQbrkVNNOh0LyxoMSLpw8Q+E0PsuNcQTbpCgliOE27/ekB7/9UKx/d25QU9hjj0jmaBuRva1NExBny6OMlxV6dliT5vYLGb3hW/kEsC4GYrUNvqDd32gbNeQ6ZqPhn38BohkCR3jKWmT4LAivj1PTG/ekfK38jiJOFVK3JsgbVQyQTA3v2c=;lP9wVViEs4tocPPug8iC8Q=="
+secured: "poBmfQXwHRsfJTqMGo8lY076PfB0PgZ1A+Ls/oD7tPv0UoqFkXCSSe8s/4XPtUJ4a37Cgb6OqRKuVobv21PqYn/i0dB3cDpPXAG90z7aevCu6rb/WGsOsAdk1CLzS55XL059xV/Y6RyTlUONJAe/2kkmfoUfQJlvFYHL0G8akZZqcx+6QsafL781rd85JuHKrGFrBiasSmaOIsUDCbkyR0CVeqNxmV7SaHJLwxxPVdPf9JpW4M3ja1T+BINrRB7LEXvWtGstd6loWOH5rAzk4EwFBwN3mSDj2RBwsOCvMUvV22L2HwX2oN+w8AGp0cY0/oJZQ0Z3rrwrPEdG4mV2L3yiR+FdXA1zceVDv6fTHd1a2ExQs9GJvojR860j8alUaRBqBjfGzfKeEMQ2iZvCoIuQtjKJmo7LKYGWH0frEm/I+j0S7D7gPeN7+6hmgtnrzERsKD/6zRoa/GIX5u9SSHIzIul787BfoA6dZzJP3Q3YyVSjT9BpoycuW+aQ2ICzCpHPSHOruzaVbvbqzHOdLA==;PR99BmuTyW+gLIcCnuX6yg=="
 ---
 

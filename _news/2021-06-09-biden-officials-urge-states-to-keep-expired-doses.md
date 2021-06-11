@@ -350,6 +350,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Jason Miller to head tech startup that could become Trump platform"
+    excerpt: "The former president’s spokesperson is shifting roles but will stay with Trump’s team, according to a person familiar with his plans."
+    publishedDateTime: 2021-06-11T02:01:00Z
+    webUrl: "https://www.politico.com/news/2021/06/10/jason-miller-role-tech-startup-493293"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/10/jason-miller-role-tech-startup-493293"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/10/jason-miller-role-tech-startup-493293"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/31/1b/dcc25f5843c1820f7f3cc2754b27/gettyimages-624664040-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump scraps short-lived blog that was created in wake of social media ban"
     excerpt: "The former president, who is set to address the North Carolina Republican Party Saturday, wasn't getting much traction with his new outlet."
     publishedDateTime: 2021-06-02T15:59:00Z

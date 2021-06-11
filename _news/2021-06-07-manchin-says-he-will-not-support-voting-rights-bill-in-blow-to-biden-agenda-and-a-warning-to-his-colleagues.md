@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Why Joe Biden is so invested in defending Good Friday agreement"
+    excerpt: "Analysis: Northern Ireland is a rare issue of bipartisan consensus and a pillar of US foreign policy"
+    publishedDateTime: 2021-06-10T21:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/10/why-joe-biden-is-so-invested-in-defending-good-friday-agreement"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/10/why-joe-biden-is-so-invested-in-defending-good-friday-agreement"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/10/why-joe-biden-is-so-invested-in-defending-good-friday-agreement"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/b72ae232eac230735b5d449214a0b5fd9cd24518/0_127_3900_2341/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d53f3f7b49d2ceb4bb74e181c631bbb4"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to troops before Memorial Day: 'We owe you'"
     excerpt: "President Joe Biden traveled to Joint Base Langley-Eustis in Virginia Friday to thank troops ahead of the Memorial Day weekend and acknowledge the unheralded sacrifices that the service members and their families make."
     publishedDateTime: 2021-05-28T20:57:00Z

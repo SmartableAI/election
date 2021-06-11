@@ -813,6 +813,20 @@ related:
         width: 401
         height: 226
         isCached: true
+  - title: "SF immigration advocates slam Kamala Harris’ ‘betrayal’ to her past"
+    excerpt: "Kamala Harris’ comments earlier this week discouraging Central Americans from traveling to the southernmost border of the United States rattled San Francisco advocates, who point to the vice president’s chequered record on immigration during her time as a city official."
+    publishedDateTime: 2021-06-11T00:00:00Z
+    webUrl: "https://www.sfexaminer.com/news/sf-immigration-advocates-slam-kamala-harris-betrayal-to-her-past/"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 55
+    images:
+      - url: "https://www.sfexaminer.com/wp-content/uploads/2021/06/25463525_210610-SFE-immigration_1.png"
+        width: 916
+        height: 572
+        isCached: true
   - title: "‘Do not come’: Kamala Harris’ three words to Guatemalans stir debate and backlash"
     excerpt: "When Vice President Kamala Harris gave a high-profile speech in Guatemala in which she told would-be immigrants from Central America “do not come” to the United States, her words instantly provoked ripples of anger and concern among immigrant rights"
     publishedDateTime: 2021-06-09T13:53:00Z

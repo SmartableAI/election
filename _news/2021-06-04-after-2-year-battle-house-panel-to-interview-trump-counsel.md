@@ -105,6 +105,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Justice Department under Trump seized data from House Democrats in 2018 as a part of a probe on leaks related to the Russia Investigation"
+    excerpt: "The Justice Department under former President Donald Trump seized data from the accounts of at least two members of the House Intelligence Committee in 2018 as part of an aggressive crackdown on leaks related to the Russia investigation and other national security matters."
+    publishedDateTime: 2021-06-11T02:58:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-congress-house-deomocrats-20210611-xydbkihtyvg6hoh4qi4xus2qb4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-congress-house-deomocrats-20210611-xydbkihtyvg6hoh4qi4xus2qb4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-congress-house-deomocrats-20210611-xydbkihtyvg6hoh4qi4xus2qb4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 92
+    images:
+      - url: "https://www.chicagotribune.com/resizer/5lHEwZNwW41aS3z0nNeW7ATYm5Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TKMNFD6XKV62M43PP2777GO3SE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump DOJ seized data from House Democrats in leaks probe"
+    excerpt: "The Trump administration's attempt to secretly gain access to data of individual members of Congress and others related to the panel came as the president was fuming over investigations — in Congress and by then-special counsel Robert Mueller — into his campaign's ties to Russia."
+    publishedDateTime: 2021-06-11T01:55:00Z
+    webUrl: "https://www.chron.com/news/article/NY-Times-Trump-DOJ-investigated-House-Dems-16240230.php"
+    ampWebUrl: "https://www.chron.com/news/amp/NY-Times-Trump-DOJ-investigated-House-Dems-16240230.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NY-Times-Trump-DOJ-investigated-House-Dems-16240230.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
     excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."
     publishedDateTime: 2021-06-03T09:43:00Z

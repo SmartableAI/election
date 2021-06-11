@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-linked-lobbying-firm-facing-doj-probe-report-says.amp"
 type: article
 quality: 175
-heat: 615
+heat: 635
 published: true
 
 provider:
@@ -300,6 +300,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/biden-fbi.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Laura Ingraham exposes how Biden is sabotaging America"
+    excerpt: "Laura Ingraham slammed President Joe Biden Thursday on \"The Ingraham Angle,\" accusing him of ditching the American working class in favor of the European elite."
+    publishedDateTime: 2021-06-11T03:52:00Z
+    webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-sabotaging-america"
+    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-sabotaging-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-sabotaging-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1de90c20-7c21-4218-a794-b72e77729826/0f321bc8-1778-43f6-b160-8deacd41f5e6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Tara Reade fires back at NYC mayoral candidate Scott Stringer after he invoked Biden accuser during debate"
     excerpt: "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, fired back at NYC mayoral candidate Scott Stringer, who invoked her while addressing the allegation faced against him during Wednesday night's Democratic primary debate."
