@@ -208,6 +208,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Was Kamala Harris pushed over a glass cliff?"
+    excerpt: "Vice President Kamala Harris is back in Washington, D.C. after a difficult week. Harris arrived in Guatemala on Monday, the first part of a three-day trip that also included Mexico, as part of the diplomatic task President Joe Biden assigned her in March: treating the root causes of migration at the southern border."
+    publishedDateTime: 2021-06-11T16:17:00Z
+    webUrl: "https://www.politico.com/newsletters/women-rule/2021/06/11/was-kamala-harris-pushed-over-a-glass-cliff-493219"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "K+IAr/G4xo4qLsE6QE7EvGhxdTkM52+6x0hD3DO+bm3hUnYi77k2x2WNxlf9nqciyljBgpWql7ted1X0IgnPFjPFIrP6HksWgsnzmsns0ktsVHspCqJQ/cLudIWa/vi3hTUHG9Gd1R6ILgVq/ClEWd9ASmpEI11FJ2IW7Y5L1hBZRWzXW+fephpb7wYrqzFKeZUNVCFyqYLALNKHxEVW12GDUszY/uAxS8umoozSHEfFyf9p0zpoJVoHl6Fyd228nMkb7nR+LXYKx19ABULPzifea/fTkjrjIeNzm1bAGcqgbCBvb2OrDA+2BywPbmtm9NlNMjiEh+bBPfZpBk+NR87Afmw34wq3mJrsODvnsuU=;m6z28lmbbZw64mMGzyjKnw=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Switzerland Restricting Airspace Ahead of Biden-Putin Meeting"
+    excerpt: "Swiss authorities made the decision to restrict airspace and deploy up to 3,000 troops and police officers ahead of next week's Geneva summit to protect against terrorist threats that remain \"high in Switzerland and Europe."
+    publishedDateTime: 2021-06-11T17:22:00Z
+    webUrl: "https://www.newsweek.com/switzerland-restricting-airspace-ahead-biden-putin-meeting-1599933"
+    ampWebUrl: "https://www.newsweek.com/switzerland-restricting-airspace-ahead-biden-putin-meeting-1599933?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/switzerland-restricting-airspace-ahead-biden-putin-meeting-1599933?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1819530/g7-summit-buildup.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Joe Biden embarks on first overseas trip as president to assure European allies, meet with Russia’s Putin"
     excerpt: "Biden told reporters the trip is about making clear to the leaders of China and Russia that the United States and Europe “are tight.”"
     publishedDateTime: 2021-06-09T19:30:00Z

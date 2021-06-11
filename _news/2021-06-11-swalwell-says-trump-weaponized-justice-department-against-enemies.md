@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-house-democrats-swalwell-reaction-cnntv/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Trump scandal shows the depth of his assault on America's democratic foundations"
+    excerpt: "New revelations suggesting that the Trump administration abused Justice Department powers to target his political enemies underscore just how far the ex-President went to destroy cherished principles of American republican government.\n    \n"
+    publishedDateTime: 2021-06-11T17:29:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NrZtroSP2nQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/trump-justice-department-democrats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/trump-justice-department-democrats/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606070442-0606-trumpgopnc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Justice Department subpoenaed Apple for data from House Intelligence Committee Democrats, sources say"
     excerpt: "Prosecutors in the Trump administration Justice Department subpoenaed Apple for data from the accounts of House Intelligence Committee Democrats -- including Chairman Adam Schiff -- along with their staff and family members as part of a leak investigation, an Intelligence Committee official and a source"
     publishedDateTime: 2021-06-11T01:56:00Z

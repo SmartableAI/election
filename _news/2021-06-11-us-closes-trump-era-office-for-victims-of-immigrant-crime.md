@@ -133,6 +133,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Senate Demands Former AGs Testify About Trump Data Seizure"
+    excerpt: "Senate Democratic Leaders are demanding that Trump-era Attorneys General Bill Barr and Jeff Sessions testify about the secret seizure of data from House Democrats in 2018."
+    publishedDateTime: 2021-06-11T16:16:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "3PEFPSd6xvV49WlF29Re7IPdVStPu02S1c2pWpgGAXcDzEh79zWUSESOkD4haq5zJxsEp2EtYYWbBsmQwglR5TE6YfUJ4LgAkqgOPcu6LJ41zy3Z+BBtMyeyYNmCbVdM6fnfwU7n+kgDjZMMa6EawMdPdBsSR+2koe5qQBzEyoEYHq1i2BEUP9fPs2YAMYYg9psQfSaKUwQPefzK1atS521fkY1h99z8W4i3lKtYSkX3h43P7DqV+Pwufa7Yyi7OmYeRo7q9YW2AECVBl+Zl4j4a8Bm6d4UTTMI1K398YyVtkv3ApG3CDlHdx0EUDHu98Cz0CBB/QQOqvuEkLiTsMvIUdkocJgaerpKW4EnKwNvVNG20uzha6h+l4HKtrttxvqzY0kBA+ZApoFYsDYYT0QTyrGbsG3JpEuiXosiuamU+oyqUk//yk6vxAnaF4Kz/BvgmRsSYGLb5KFCBew4ND7xYOJy40zfF2UeOoa/ujXQiLLeF/oFLrPa4PLuatZg/ORbA15pBeCJHrSxurN3M+A==;LAQnjtgMQUOc+Ni8/QhEyA=="
 ---

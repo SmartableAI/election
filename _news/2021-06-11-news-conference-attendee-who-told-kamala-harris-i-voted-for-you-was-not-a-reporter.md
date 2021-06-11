@@ -885,6 +885,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 50
+  - title: "Kamala Harris asks the president of Mexico not to interfere with the work of NGOs"
+    excerpt: "Kamala Harris , toured Mexico and Guatemala to speak with the presidents of both nations. He expressed his concern about the corruption and impunity that occurs in the two countries. The main reason for the visit was \"to attack the migration problem from the root."
+    publishedDateTime: 2021-06-11T16:10:00Z
+    webUrl: "https://www.chron.com/business/article/Kamala-Harris-asks-the-president-of-Mexico-not-to-16241403.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 50
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/42/17/21111798/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
     excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
     publishedDateTime: 2021-04-20T23:17:00Z

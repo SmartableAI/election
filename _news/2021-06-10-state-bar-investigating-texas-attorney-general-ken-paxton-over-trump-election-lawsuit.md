@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7633751002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633751002"
 type: article
 quality: 133
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3M3QUYGD7EI6XGUN7FOXOJEWPQ.jpg&w=1440"
         width: 1440
         height: 1022
+        isCached: true
+  - title: "Senate demands Trump-era Attorneys General Bill Barr and Jeff Sessions testify about data seizure"
+    excerpt: "Senate Democratic leaders are demanding that Trump-era Attorneys General Bill Barr and Jeff Sessions testify about the secret seizure of data from House Democrats in 2018."
+    publishedDateTime: 2021-06-11T16:13:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-congress-spying-democrats-leak-data-20210611-ssnu2vw7wvcwdcs2z2ykgf2zja-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-congress-spying-democrats-leak-data-20210611-ssnu2vw7wvcwdcs2z2ykgf2zja-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-congress-spying-democrats-leak-data-20210611-ssnu2vw7wvcwdcs2z2ykgf2zja-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/KmjGF3TydT6psPipxirKHnDWozs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DAWPECQE62SPV5X2BT76HFCLPY.aspx"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "KnpbimsX+6xNycP6eH8abw+5lNgSZIsxzLUu1fAnygUVHhr4GUgvmOBbTdN/Ve/bUi5sqzTsMTkveAX0J/rxIWlADFuibT1ILfeHDYUwBFXxVtgVUaI1+5MsaJeIJ9T/PblmP+BwGn+1b+5JzTqIz1coY0mYAMc0kkKcpTXHtsPkcoer8FCUmWCFGQjKyF7LnxUWwUltUJstzx1gMDyb93CTguhlh4fNbW1jfUoROoFP1WdCH9+US0an47xIdF6MnbhGvD5s1x0fFIHYl9FTDFlMbyCrn6ISj4qdPCXgMw7Vi8P/loX4M2mdx4QWEGPg5eFQVnjfn5Cl7jBuXJIPKxLxJ/3PaEqAVl2vb9j0a4NgPKqJJdfK+sEPAG4qzc0V4eMdrLTtXxGgFNBF13FfXS7Urk79Lh0ilLs6l8vRv+zaFpARJMONFpc4TD08SS673A7FJYLshr527skruDp+ThZnEA581GXnHv3EjtSMjKJIEXd0BfE0s4+6IAi+zm5B9WVPmbaRHGNkoldJCIDJ7g==;5gs6cn445NycoqwwEjjyYQ=="

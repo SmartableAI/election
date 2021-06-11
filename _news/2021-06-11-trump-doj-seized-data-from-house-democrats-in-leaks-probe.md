@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Trump DOJ Seized Data From House Democrats in Leaks Probe"
-excerpt: "The Justice Department under former President Donald Trump seized data from the accounts of at least two members of the House Intelligence Committee in 2018 as part of an aggressive crackdown on leaks related to the Russia investigation and other national security matters."
-publishedDateTime: 2021-06-11T04:09:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
+title: "Trump DOJ seized data from House Democrats in leaks probe"
+excerpt: "The Trump administration’s attempt to secretly gain access to data of individual members of Congress and others connected to the panel came as the president was fuming publicly and privately over investigations — in Congress and by then-special counsel Robert Mueller — into his campaign’s ties to Russia."
+publishedDateTime: 2021-06-11T16:44:00Z
+originalUrl: "https://www.chron.com/news/local/article/Trump-DOJ-seized-data-House-Democrats-leaks-probe-16240979.php"
+webUrl: "https://www.chron.com/news/local/article/Trump-DOJ-seized-data-House-Democrats-leaks-probe-16240979.php"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.hdnux.com/photos/01/20/41/56/21109642/3/rawImage.jpg"
+    width: 2048
+    height: 1365
+    isCached: true
 
 related:
   - title: "Trump: 'Too soon to tell' if Pence would be running mate if he seeks White House in 2024"
@@ -181,6 +181,6 @@ related:
       domain: usnews.com
     quality: 30
 
-secured: "DrXa9qao1vhAX4c+6z9PUDEKqu7eRr9Mkbz1j9sGFXeJxPm8aepXj14ro1ZZ/Rp3MJyCjEDQin05LYQ9ASFR2ipj8/Mw8qJHGehGVEDqpkY/ZICr0u3Xl9fFSjbwkrY3jhFXZ9iRi2/RlS08enOKKbw5Eg9gLqYkwkUwodDuZpbM/WbpSvnTPdeJDV2uiZWTJlJ99soB7Cl1PEUNeeKxTwOZ1Ax/e9PdnvZEMS8ZD0a/F/HsSYtEvfGpa4qLMGZ8f3sZmRt8Gz6JVVKK1HW1NByqDbw6xXrQnHavzUlivXmalE7gwXbz1b1Nqqb37smmabUe7lkYunMxZ3YE7J+PP0OwXqGoPyRcZx5a9c7A5yZIXEgqw5vNM1Tuvgo4m/+fre4K1wPV3iKK/SLgI9uNufWD3T7iWOVAB4y8fJl7yj8KtvEqeEFGmG/9fOTwEmwjYSgTmZZVypp6ecW7hHVK/rqb7vjxcNsuSPoyN+jiaHIKG1JYyJguKarVQ/PleeYDqB9B0k1eglHf//sgeQx1GQ==;cJ+kh24q9sa5Y2lJyFpHZQ=="
+secured: "OkI/ialTvAqf6Dfa9RNghsnu4ViluhjmvzzrcryPZHKskFr5h6YBMoxXo4n3gVSNuQyoStzRIRx5/jf+y0NX54YTE110mkhbzMcs7TaUocRrguMcUxc9ZNu2QxzetZV39pTX9wa2g9SzcK0bSP7FsWpXcFRI6s4jYNxBbboxo4HclBe0ce8buFgXlWvPr9AcXqMAFq/8zaF3YuxEw8qY1eotIh4wWsPO4UjIFsYHD5EZIuSfl147a1D6mrkQV4gICZLf76DEd62f3nu/EcxUQAYyGnBCcbeAuqq6q5PJl0Iln69ptieYxBcTfUFciCjEorryWetJ1YwcBKI97o4h6d9SziIbuyCYJXuixxkQ6Bk=;OfllEZFbqc4rzFH097/b/A=="
 ---
 

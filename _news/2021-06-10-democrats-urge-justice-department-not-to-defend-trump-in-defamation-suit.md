@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 1022
         isCached: true
+  - title: "Senate demands Trump-era Attorneys General Bill Barr and Jeff Sessions testify about data seizure"
+    excerpt: "Senate Democratic leaders are demanding that Trump-era Attorneys General Bill Barr and Jeff Sessions testify about the secret seizure of data from House Democrats in 2018."
+    publishedDateTime: 2021-06-11T16:13:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-congress-spying-democrats-leak-data-20210611-ssnu2vw7wvcwdcs2z2ykgf2zja-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-congress-spying-democrats-leak-data-20210611-ssnu2vw7wvcwdcs2z2ykgf2zja-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-congress-spying-democrats-leak-data-20210611-ssnu2vw7wvcwdcs2z2ykgf2zja-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/KmjGF3TydT6psPipxirKHnDWozs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DAWPECQE62SPV5X2BT76HFCLPY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "zCDYjuVt3uL2VwDmQMg/bJGAL+s40jTPTAxYNrsCgGrRFFcuxIRbrT/dA0kQ7YbmKjuYVLw+/WpleIL6KY4ICr1ilVV8sou/PIMAdd4VnHYNzCJrtI16VmuEPdagEdXiy4llsOimLRlaO6gAt7CALSh+L/2Zju3IMnQoDbZC8Zxw+duLL/47AfdmD9PBlzqSYf/cMcKqxwcJFiq+f/L8BI0GUu5v67yUyAh5qFZ02Uh/8h2tmgy93bpOFuZLkhaUMQ5JO6+Zv1TcN7O+z79l3lRRqKJjwxK9Po40r/uIWE/XWzVSx1stoBkBS7HHapmAkyJ4xbsgJvwGWCGTAYAKHarJNMQn/WRpEUAIIyD429VoP0MVIrUtJAG3XDA+kKeLmw7+pcaVnEx9LVC4j/BBAkfjJ7RIULMyLQyWzLyZs45wNbmLQ+ddYz/xbFUZvVexp71GDeDkiEhl2sDUR4efKv03HFT27+KrVpuOYyLV60/9Fq2Z9j87uRw3IM9dHDVNOlaET0lB9jgyy26YYOB4lg==;fpPiDM77HFVCf/Ms6sX1mw=="
 ---

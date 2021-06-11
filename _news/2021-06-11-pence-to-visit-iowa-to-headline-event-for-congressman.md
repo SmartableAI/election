@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ex-VP Mike Pence returns to Iowa, site of first 2024 caucuses"
+    excerpt: "Former Vice President Mike Pence is headed back to Iowa. Mr. Pence, a possible 2024 presidential contender, is slated on July 16 to headline Republican Rep. Randy Feenstra’s inaugural Feenstra Family Picnic at The Dean Family Classic Car Museum in Sioux Center."
+    publishedDateTime: 2021-06-11T17:52:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jun/11/mike-pence-returns-iowa-site-first-2024-caucuses/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jun/11/mike-pence-returns-iowa-site-first-2024-caucuses/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/11/mike-pence-returns-iowa-site-first-2024-caucuses/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/03/Pence_81781.jpg-b3a64_c0-164-3910-2444_s1200x700.jpg?4e31107bb4e0522248d19f5bacef3db9bd1f537f"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Former Vice President Mike Pence to speak at Des Moines event this summer"
     excerpt: "Former Vice President Mike Pence, a frequent Iowa visitor during President Donald Trump's term, will return to Des Moines this summer. Pence plans to address the Family Leadership Summit in Des Moines on July 16."
     publishedDateTime: 2021-06-07T00:00:00Z
@@ -48,6 +64,6 @@ related:
         height: 675
         isCached: true
 
-secured: "m+y7p3osiCwyyTTufCgXAfgs7K+5VsGGVt8P2l7PVrK/NEoW98YXHcXv8EG0MQdVomdU9RM6jcW8FZ5e192ZZ+qOQsmvg1VWGZ7e+PCd07MPf8IoI/Qd0BTufOV2Iz4PFuDGxeO+JSEIICDRbkxvdIKxlvAsY1skwyjoLIgJmnjEVeTNj0odrIeQyUX5PxJucTf9kiRc0hNoz1ssWK3fEg6vUpkq1RQm/b76vq2jXiqdeIRMHpcCPBQJQS/Knj+GNKhU5mAip84yqZsOb3rUM/YNvr2dr5lUjRpPrwYdgiomL+neuVpX30QloaABcOHtCcEFFsyNgAjsmoMmYPWzOb0lkZxKLCaP5u9zpz4O6Xw=;ZlLCQ5FvfqiAF5cHMp9Whw=="
+secured: "u3RTswyT1LADbLXz5veDOf4GbL4PClpq8V7v/xXMCRGyo1jz7iwGwatRbJT6LhWkFvVC1aF3RPdOMKg8mqRRZaO03coOqK3iN58hJi7RR2Ru0MN1xQyVx1+eQ/vHMaUtnhJW6oEG2z0NQkyngYELV2A1kyQtH+8xnZOz85munM6a4RTusGtpr+JRunwx1y0OGvZrOsuqibkMIEjCsrzB7IRR0JRMhgq4Cy2UMPhZSIaYY3uO39qlaPYxjcpj/6qZL6jS0gwSCCfmnr0ehoox1SlDAPN7Ak7EJ79jv8Ox/EioFbi1OrhkJasKCseFtgZS8lG/YftD7/doEqp8ekAEpfQjCgzde9AEGIMnlC8iTmk=;PHr1bQa2FLAOTKxWzN5ekA=="
 ---
 

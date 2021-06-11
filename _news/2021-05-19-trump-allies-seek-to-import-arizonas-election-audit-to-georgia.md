@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html"
 type: article
 quality: 190
-heat: 490
+heat: 510
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610185206-arizona-ag-mark-brnovich-file-2020-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump struggles to find challenger to Kemp in Georgia"
+    excerpt: "Donald Trump's plans to play GOP kingmaker are being disrupted by one of his most loyal supporters in Georgia.\n    \n"
+    publishedDateTime: 2021-06-11T16:00:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VWAKyDu6mwI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/trump-georgia-governor-primary-kemp/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/trump-georgia-governor-primary-kemp/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611111035-01-trump-0605-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -169,17 +169,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Trump DOJ Seized Data From House Democrats in Leaks Probe"
-    excerpt: "The Justice Department under former President Donald Trump seized data from the accounts of at least two members of the House Intelligence Committee in 2018 as part of an aggressive crackdown on leaks related to the Russia investigation and other national security matters."
-    publishedDateTime: 2021-06-11T04:09:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
+  - title: "Trump DOJ seized data from House Democrats in leaks probe"
+    excerpt: "The Trump administration’s attempt to secretly gain access to data of individual members of Congress and others connected to the panel came as the president was fuming publicly and privately over investigations — in Congress and by then-special counsel Robert Mueller — into his campaign’s ties to Russia."
+    publishedDateTime: 2021-06-11T16:44:00Z
+    webUrl: "https://www.chron.com/news/local/article/Trump-DOJ-seized-data-House-Democrats-leaks-probe-16240979.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/41/56/21109642/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "DAHmY+l+46IcIse1wq46zgLC+NxNPNX152V6iOv5+06++pOT8SIINF8s5+BjRXWgo/X7pOAjh7T4z+r/Lue75ftLZNq4gfIVbOjs42/3L4otN65kVYhOGYQgyGyPcD+8bkOzI+9lPBCXROroU3n+CLjondXIZMIKcPp/zO1ASlqqXLdMyb835w/gVZ83XpmBVN3/l0U3Gf5oaax2/NSRV7tyUo2oDAgqCHZlBIpWrZxFE8RGtpWev/lme3eu/A9/URUXqs23hDPJgfgWnYezvVnmal9veTcN0kmqziONX5pd27ImP1sEdSA4OhaUg5fo5+4FMIFuIcBDklVAW96Jubp7PWEkstzagJasuC9fb14=;ChWboCxfTbjdEGwC08VY2Q=="
 ---

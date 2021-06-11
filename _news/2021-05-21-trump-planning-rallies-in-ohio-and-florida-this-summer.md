@@ -144,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump struggles to find challenger to Kemp in Georgia"
+    excerpt: "Donald Trump's plans to play GOP kingmaker are being disrupted by one of his most loyal supporters in Georgia.\n    \n"
+    publishedDateTime: 2021-06-11T16:00:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VWAKyDu6mwI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/trump-georgia-governor-primary-kemp/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/trump-georgia-governor-primary-kemp/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611111035-01-trump-0605-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New Hampshire auditors see no sign of fraud -- as Trump claims otherwise"
     excerpt: "Outside a nondescript building, guarded 24/7 by state troopers, the leaders of Windham's election audit field questions on the type of tape they're using to seal boxes, why the livestream briefly failed and whether any ballot boxes have gone missing.\n    \n"
     publishedDateTime: 2021-05-26T01:23:42Z

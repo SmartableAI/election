@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-mexico-immigration/index.html"
 type: article
 quality: 185
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -207,6 +207,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/08/world/08new-washington-briefing-harris2/08new-washington-briefing-harris2-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Was Kamala Harris pushed over a glass cliff?"
+    excerpt: "Vice President Kamala Harris is back in Washington, D.C. after a difficult week. Harris arrived in Guatemala on Monday, the first part of a three-day trip that also included Mexico, as part of the diplomatic task President Joe Biden assigned her in March: treating the root causes of migration at the southern border."
+    publishedDateTime: 2021-06-11T16:17:00Z
+    webUrl: "https://www.politico.com/newsletters/women-rule/2021/06/11/was-kamala-harris-pushed-over-a-glass-cliff-493219"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "Uj7oOdQC+aJKESjU0cnD9gtjWHJ0ZshuQtKhNH9tCp9jMcwCOG8tmfABhkSu61X65dCye4kiSzT+yZ+UYG2uFJKIGgoh+XSsAyF+iTvNct4cPsiHfBpeycNkJJG/WxOsFL5rs/znkE7I5zctrxmx12pbh/j99f3ucwJaH1Z4sQAr/k1mMdTUJlytxKs8yrzK+xoNfHyp36G0CPunDqzaKrNxqjmoTWItL+wtYFXgfHmBZ6pp7g77Iu25pdfgEvWhzJS7KJp56L434CuLbn1O11QcaDfPfopGWO/g08Bq93yfcYA6/IzsZcTRF99MnHT14VJBuY4PzhTw2HP8j7FprSWYXldML/235ifOxpJZZ2I=;DJVWll3WE5DKUrRszIZJ2w=="

@@ -160,17 +160,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Trump DOJ Seized Data From House Democrats in Leaks Probe"
-    excerpt: "The Justice Department under former President Donald Trump seized data from the accounts of at least two members of the House Intelligence Committee in 2018 as part of an aggressive crackdown on leaks related to the Russia investigation and other national security matters."
-    publishedDateTime: 2021-06-11T04:09:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
+  - title: "Trump DOJ seized data from House Democrats in leaks probe"
+    excerpt: "The Trump administration’s attempt to secretly gain access to data of individual members of Congress and others connected to the panel came as the president was fuming publicly and privately over investigations — in Congress and by then-special counsel Robert Mueller — into his campaign’s ties to Russia."
+    publishedDateTime: 2021-06-11T16:44:00Z
+    webUrl: "https://www.chron.com/news/local/article/Trump-DOJ-seized-data-House-Democrats-leaks-probe-16240979.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/41/56/21109642/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Former Counsel Tells Congress of Trump Efforts to Undercut Russia Probe Democrats"
     excerpt: "Former Counsel Tells Congress of Trump Efforts to Undercut Russia Probe Democrats WASHINGTON (Reuters) - President Donald Trump's ex-White House counsel Don McGahn \"shed new light\" on the investigation into Russia's role in the 2016 U.S. elections and the ..."
     publishedDateTime: 2021-06-04T23:48:00Z
