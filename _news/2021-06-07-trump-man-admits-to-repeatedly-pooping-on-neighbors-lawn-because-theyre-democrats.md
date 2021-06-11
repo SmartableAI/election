@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump Justice Department seized House Democrats' data"
+    excerpt: "CBS News has confirmed the Justice Department under President Donald Trump subpoenaed the personal metadata of at least a dozen people tied to the House Intelligence Committee in 2017 and again in 2018,"
+    publishedDateTime: 2021-06-11T18:40:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-doj-targeted-house-dems-in-leak-investigation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-doj-targeted-house-dems-in-leak-investigation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-doj-targeted-house-dems-in-leak-investigation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/11/01a71634-efa9-41aa-b80c-f0b230217c43/thumbnail/1200x630/fdecbe725190761810c4488e5a5103d8/cbsn-fusion-trump-doj-targeted-house-dems-in-leak-investigation-thumbnail-732937-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump's Justice Department targeted Democrats in Congress in search for source of leaks related to the Russia investigation, New York Times reports"
     excerpt: "Officials subpoenaed Apple for communications data of Reps. Adam Schiff and Eric Swalwell, as well as their families and staffers."
     publishedDateTime: 2021-06-11T03:20:00Z

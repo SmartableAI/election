@@ -256,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration will return $2 billion to military projects that had been set aside for border wall construction "
+    excerpt: "The Biden administration is returning more than $2 billion to military projects that had previously been set aside for the construction of former President Donald Trump's border wall, the White House Office of Management and Budget said Friday.\n    \n"
+    publishedDateTime: 2021-06-11T18:39:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SqE884mQ4kI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/border-wall-return-funds/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/border-wall-return-funds/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210412114837-border-wall-construction-lavandera-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Justice Department Seeks to Defend Trump in Suit Over Rape Denial"
     excerpt: "Donald Trump is facing a defamation lawsuit brought by E. Jean Carroll, who has accused Mr. Trump of raping her."
     publishedDateTime: 2021-06-08T02:48:00Z
@@ -335,6 +351,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/2907831/190624-e-jean-carroll-mn-1005.jpg"
         width: 2500
         height: 1679
+        isCached: true
+  - title: "Biden plans to restore protections for Tongass National Forest that were stripped away by Trump."
+    excerpt: "The Trump administration allowed road building in Alaska’s Tongass National Forest, a pristine wilderness. President Biden intends to change those plans."
+    publishedDateTime: 2021-06-11T15:14:00Z
+    webUrl: "https://www.nytimes.com/2021/06/11/us/politics/tongass-national-forest-alaska.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/11/us/politics/tongass-national-forest-alaska.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/us/politics/tongass-national-forest-alaska.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 137
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/11/world/11new-washington-briefing-alaska-1/11new-washington-briefing-alaska-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Jason Miller to head tech startup that could become Trump platform"
     excerpt: "The former president’s spokesperson is shifting roles but will stay with Trump’s team, according to a person familiar with his plans."

@@ -144,6 +144,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Surveillance Of Democrats Sparks Abuse Of Power Claims"
+    excerpt: "Democrats erupted in outrage Friday over news that Donald Trump's Justice Department secretly surveilled lawmakers probing possible collusion with Russia, reaping the phone records of top political foes in what they called an unprecedented abuse of power."
+    publishedDateTime: 2021-06-11T18:49:00Z
+    webUrl: "https://www.ibtimes.com/trump-surveillance-democrats-sparks-abuse-power-claims-3223334"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
+        width: 1024
+        height: 621
+        isCached: true
 
 secured: "3PEFPSd6xvV49WlF29Re7IPdVStPu02S1c2pWpgGAXcDzEh79zWUSESOkD4haq5zJxsEp2EtYYWbBsmQwglR5TE6YfUJ4LgAkqgOPcu6LJ41zy3Z+BBtMyeyYNmCbVdM6fnfwU7n+kgDjZMMa6EawMdPdBsSR+2koe5qQBzEyoEYHq1i2BEUP9fPs2YAMYYg9psQfSaKUwQPefzK1atS521fkY1h99z8W4i3lKtYSkX3h43P7DqV+Pwufa7Yyi7OmYeRo7q9YW2AECVBl+Zl4j4a8Bm6d4UTTMI1K398YyVtkv3ApG3CDlHdx0EUDHu98Cz0CBB/QQOqvuEkLiTsMvIUdkocJgaerpKW4EnKwNvVNG20uzha6h+l4HKtrttxvqzY0kBA+ZApoFYsDYYT0QTyrGbsG3JpEuiXosiuamU+oyqUk//yk6vxAnaF4Kz/BvgmRsSYGLb5KFCBew4ND7xYOJy40zfF2UeOoa/ujXQiLLeF/oFLrPa4PLuatZg/ORbA15pBeCJHrSxurN3M+A==;LAQnjtgMQUOc+Ni8/QhEyA=="
 ---

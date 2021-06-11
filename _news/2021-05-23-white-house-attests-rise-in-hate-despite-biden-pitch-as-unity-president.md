@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden, Putin to meet in Geneva with US-Russia relations near all-time low"
+    excerpt: "As the G-7 summit gets underway, the action is in Cornwall, England, but all eyes are on Geneva. That's where President Biden will meet one-on-one with Russian President Vladimir Putin next week, at a time when many experts say bilateral relations are at an historic low.  "
+    publishedDateTime: 2021-06-11T19:15:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RhtgF_8S3Is/biden-putin-to-meet-relations-near-all-time-low"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-putin-to-meet-relations-near-all-time-low.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-to-meet-relations-near-all-time-low.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2918bd1a-5bd5-45ba-b3c5-7aeb0af7ab74/c0fa82fc-52c2-4d18-8cde-248a24c43e45/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden White House blames anti-Asian violence spike on rhetoric from 'certain political leaders'"
     excerpt: "The White House on Friday took what appeared to be a thinly veiled attack at former President Donald Trump as it blamed a spike in anti-Asian violence and bias on rhetoric from “certain political leaders” -- as it announced an initiative to combat the spike in violence."
     publishedDateTime: 2021-05-28T11:22:53Z

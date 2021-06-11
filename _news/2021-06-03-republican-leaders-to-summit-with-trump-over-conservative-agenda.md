@@ -44,22 +44,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump declines to commit to running with Pence in 2024"
-    excerpt: "Former President Trump tells Fox News he is not ready to re-up with former Vice President Mike Pence on a potential campaign in 2024."
-    publishedDateTime: 2021-06-06T13:22:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declines-to-commit-to-running-with-pence-in-2024.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4789990-fe5d-419e-bc61-b8b73e56e9e3/5a5c023e-50ec-4401-9de9-a6f908ee76cb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "GOP mayoral candidate Fernando Mateo meets with Trump"
     excerpt: "Already with an endorsement from Michael Flynn in tow, NYC mayoral candidate Fernando Mateo met with former President Trump in New Jersey at Trump National Golf Club."
     publishedDateTime: 2021-06-04T03:11:00Z

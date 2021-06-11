@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.indystar.com/amp/7633750002"
 cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7633750002"
 type: article
 quality: 75
-heat: 95
+heat: 75
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Former Vice President Mike Pence Buys $1.93 Million Mansion in Home State of Indiana"
-    excerpt: "Former Vice President Mike Pence and his wife, Karen, purchased a 10,349-square-foot home for $1.93 million on the outskirts of Carmel, Indiana, at the end of May, according to property records.  The seven-bedroom,"
-    publishedDateTime: 2021-06-11T15:48:00Z
-    webUrl: "https://www.barrons.com/articles/former-vice-president-mike-pence-buys-1-93-million-mansion-in-home-state-of-indiana-01623426497"
-    ampWebUrl: "https://www.barrons.com/amp/articles/former-vice-president-mike-pence-buys-1-93-million-mansion-in-home-state-of-indiana-01623426497"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/former-vice-president-mike-pence-buys-1-93-million-mansion-in-home-state-of-indiana-01623426497"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 68
-    images:
-      - url: "https://images.barrons.com/im-352857/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "Jtahn6l5tAqHZSgUcv6Xk+Uzlc9d2BYkDxJDrsgikUsJQIv+VaPCLIEgG+kVjhx6OGlDDGJPlp8HIBV/NqvhtWkwMZ2QcgNHxbm7hcesWjPJXqKq4m4N9I8Ag6CRh/KM0nodLu1DnKNDvAxHS/1bfhQrJUpJlSBJgxCFoaxSRH2kJZIMLiSXh/ES64ykoeH3pvL+CxaRtAlSLAuL1eYKjZNNkmTZYHrlzmmkE3mpk0aKm6IEHa+8fuCkWWWG+2+TE2DHpB0lg0s0XD9SxBbaoo9JA5HifVZVDC/KP2+3ve4e/hvybMo7pmGTICYMXYB5ilqrxi7gbZl+rpqTHzRvyHpRScbIbEFiRV0SPzKSEr0=;rUwBcCnAGu7H8bL/MLJLPg=="
 ---

@@ -136,6 +136,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Surveillance Of Democrats Sparks Abuse Of Power Claims"
+    excerpt: "Democrats erupted in outrage Friday over news that Donald Trump's Justice Department secretly surveilled lawmakers probing possible collusion with Russia, reaping the phone records of top political foes in what they called an unprecedented abuse of power."
+    publishedDateTime: 2021-06-11T18:49:00Z
+    webUrl: "https://www.ibtimes.com/trump-surveillance-democrats-sparks-abuse-power-claims-3223334"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
+        width: 1024
+        height: 621
+        isCached: true
   - title: "US Closes Trump-Era Office for Victims of Immigrant Crime"
     excerpt: "The Biden administration says it has dismantled a Trump-era goverment agency that was created help victims of crimes committed by immigrants."
     publishedDateTime: 2021-06-11T15:06:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-justice-department-trump-e-je
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp"
 type: article
 quality: 188
-heat: 468
+heat: 488
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://images.wsj.net/im-350268/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Byron Donalds meets with Trump amid Congressional Black Caucus feud"
+    excerpt: "Black conservative freshman lawmaker Byron Donalds is taking up arms against the Congressional Black Caucus after they rejected his bid to join — slamming their ideological intolerance in a new interview,"
+    publishedDateTime: 2021-06-11T19:41:00Z
+    webUrl: "https://nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/"
+    ampWebUrl: "https://nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/byron-donalds-trump-01.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden Should Make China Pay"
     excerpt: "President Joe Biden heads to Europe Wednesday to meet with European leaders. He says the goal is to work together to"

@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump Justice Department seized House Democrats' data"
+    excerpt: "CBS News has confirmed the Justice Department under President Donald Trump subpoenaed the personal metadata of at least a dozen people tied to the House Intelligence Committee in 2017 and again in 2018,"
+    publishedDateTime: 2021-06-11T18:40:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-doj-targeted-house-dems-in-leak-investigation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-doj-targeted-house-dems-in-leak-investigation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-doj-targeted-house-dems-in-leak-investigation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/11/01a71634-efa9-41aa-b80c-f0b230217c43/thumbnail/1200x630/fdecbe725190761810c4488e5a5103d8/cbsn-fusion-trump-doj-targeted-house-dems-in-leak-investigation-thumbnail-732937-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Democrat says Trump counsel recounted 'troubling events'"
     excerpt: "The closed-door interview, which came two years after House Democrats originally sought his testimony, was originally part of Democrats' efforts to investigate whether Trump tried to obstruct Justice Department investigations into his 2016 presidential campaign."
     publishedDateTime: 2021-06-04T23:46:00Z

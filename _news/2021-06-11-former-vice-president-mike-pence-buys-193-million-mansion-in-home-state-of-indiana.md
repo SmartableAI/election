@@ -1,49 +1,31 @@
 ---
 category: news
-title: "Former Vice President Mike Pence Buys $1.93 Million Mansion in Home State of Indiana"
-excerpt: "Former Vice President Mike Pence and his wife, Karen, purchased a 10,349-square-foot home for $1.93 million on the outskirts of Carmel, Indiana, at the end of May, according to property records.  The seven-bedroom,"
-publishedDateTime: 2021-06-11T15:48:00Z
-originalUrl: "https://www.barrons.com/articles/former-vice-president-mike-pence-buys-1-93-million-mansion-in-home-state-of-indiana-01623426497"
-webUrl: "https://www.barrons.com/articles/former-vice-president-mike-pence-buys-1-93-million-mansion-in-home-state-of-indiana-01623426497"
-ampWebUrl: "https://www.barrons.com/amp/articles/former-vice-president-mike-pence-buys-1-93-million-mansion-in-home-state-of-indiana-01623426497"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/former-vice-president-mike-pence-buys-1-93-million-mansion-in-home-state-of-indiana-01623426497"
+title: "Former Vice President Mike Pence buys $1.93 million mansion in home state of Indiana"
+excerpt: "Former Vice President Mike Pence and his wife, Karen, purchased a 10,349-square-foot home for $1.93 million on the outskirts of Carmel, Indiana, at the end of May, according to property records."
+publishedDateTime: 2021-06-10T22:16:00Z
+originalUrl: "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana"
+webUrl: "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana"
+ampWebUrl: "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana.amp"
+cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana.amp"
 type: article
 quality: 68
-heat: -1
+heat: 68
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://images.barrons.com/im-352857/social"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d11a1cfc-5e80-48f5-960f-832aea059b86/0babdbe8-b819-4b21-9ee0-845034cf9b53/1280x720/match/image.jpg"
     width: 1280
-    height: 640
+    height: 720
     isCached: true
 
-related:
-  - title: "How Mike Pence's new Carmel home compares to the last one he owned"
-    excerpt: "Former Vice President Mike Pence and his wife Karen have improved their position in life since they last owned a home in Indiana in 2013. The Pences bought a modest home in Columbus in 2001 for about $116,"
-    publishedDateTime: 2021-06-11T09:36:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7633750002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7633750002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9de87950-7812-481d-bbbd-87bec24d0513-01202021_Pence_GH_030.jpg?auto=webp&crop=2804,1578,x0,y334&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "Af2h6utoZrpTTReKwYkYj5r3o18CuEsBOawaLhFTQO0mH89u8Vh0lL4kwXxd4iZlR1vPPdNlQH8dCC78cCEJrhBwZCaCrgsgrQRZ+DkAOlQbtQzSZVdIqQOWuQMHRPtUbxkubhRKoQ0SjMcWzzN7iqBcEWgoc+hF0/RjaKZbNLGM64HjiJk78ePUqWhNnCVXf2VqFj/Dsrqc3YY96Mz5qLdbp7MHzyxTiLGAjDphqFfG6cgcO+1BnzOHQt1ZcoyO2F6694rp2QUYA/2XuIRH/6WCs80vH3Gzl1DDx6LjbiXuqVzMrVdAhytfQGsblFmARhszqbBULZ6v8aVjKhyiXCsFLSN89wjXwwz2CCAXAQo=;p21V9V6Ir5+2t0Wus9K4DQ=="
+secured: "x1cVjOcNhmWYQbMyg4gUsANuxrI5pc0vQw2HjUPHVlTMb4jmxShvaVXH8lLxPCKUJki/Q6UBHViUAMp2EerGUIXNjuWPvfyS3aiPG3NpNB8n3uKpC4Zq0SvubGGpWy8eMQMdt2SQ17pZ1zSriWwY1e7aV8Ov4r0jc6e4+7dtBbZbxN4GIlPULjaRHopFupZBtYYe7/eSB+41JJQktgcPb9oakff+DX8U2O2lj+X6zycxU9USuqNhW8L2FJqGeoNjfrwN2/CkMciGCqauB815WU/JHOcSyn2TSNMAkwjfYcNUJPmwroc0zNpSw3aGqzK/VflQFULpfIMDFZYBS1fW+Ab0C1xtkcfEtbobIPYDE8w=;0oqFEuakIaxaCtS7jAAhkw=="
 ---
 
