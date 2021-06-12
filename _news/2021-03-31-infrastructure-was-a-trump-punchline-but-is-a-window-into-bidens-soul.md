@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html"
 type: article
 quality: 190
-heat: 1770
+heat: 1790
 published: true
 
 provider:
@@ -638,6 +638,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/02/climate/02CLI-ANWR1/02CLI-ANWR1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Garland looks like he's protecting Trump. But Biden could benefit bigly."
+    excerpt: "Analysis: There's nothing new about the Justice Department protecting the executive branch and the president. That's good for the current president, too."
+    publishedDateTime: 2021-06-12T17:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/garland-looks-he-s-protecting-trump-biden-could-benefit-bigly-n1270580"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270580"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270580"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_17/3467944/210426-merrick-garland-jm-1301.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "GOP loudly voicing concerns about debt under Biden 'eerily quiet' under Trump"
     excerpt: "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden."

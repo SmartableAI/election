@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Analysis: You can believe in UFOs without believing Trump's election lies"
-excerpt: "2021 is shaping up to be the year of believing the unbelievable might be possible.\n    \n"
-publishedDateTime: 2021-06-05T12:05:32Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rd-NRl5EvEM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rd-NRl5EvEM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-election-fraud/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-election-fraud/index.html"
+title: "Analysis: Trump is doing more lying about the election than talking about any other subject"
+excerpt: "Since his presidency ended, Donald Trump has issued more statements lying about the 2020 election than statements talking about any other subject.\n    \n"
+publishedDateTime: 2021-06-12T16:00:40Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TZj3XmSpIJo/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TZj3XmSpIJo/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
 type: article
-quality: 189
-heat: 249
-published: true
+quality: 180
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519133725-ufo-us-navy-corbell-1-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608191019-trump-0605-greenville-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Analysis: Trump is doing more lying about the election than talking about any other subject"
-    excerpt: "Since his presidency ended, Donald Trump has issued more statements lying about the 2020 election than statements talking about any other subject.\n    \n"
-    publishedDateTime: 2021-06-12T16:00:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TZj3XmSpIJo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
+  - title: "Analysis: You can believe in UFOs without believing Trump's election lies"
+    excerpt: "2021 is shaping up to be the year of believing the unbelievable might be possible.\n    \n"
+    publishedDateTime: 2021-06-05T12:05:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rd-NRl5EvEM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-election-fraud/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-election-fraud/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 180
+    quality: 189
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608191019-trump-0605-greenville-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519133725-ufo-us-navy-corbell-1-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "BagVMLnxkkVVtNs8pOimHFAUZJ/kYgjw9vrOoX9k/4mGS3BYrC8lc327QvDCuJzO40thL+LAzzD+eIiQjVcv7R4kIHrBPD4NVULK98ftfeN+G/IByRrGT0gvnoMmQTIc6wM++6vLvhKMwVccE4fA06LussmnMwaT282EQfd1LjIzmTFYTIz/OU9GY4yVFzPcW4pa9fk8JlUuJwff5pt1dJmw05gMxHKIZE+Mf7z4dtZS5WlDBWP5LI3hNxTlpD7U4z4ie7Sg/4dBs0XR1p8elOPx6ecxNB/UhLr0Jv8JqxN4mOykQLMYK1yvcR85ZvyMsA9ZqGk4pnpek9/Lyxp7gasaE1s1K9H3Qgc/2eazKD8=;pRN3DK4ReT/+FIFJtxahYA=="
+secured: "EOYZvxrnW6BGgP8NxWXOZQuSoMKKoPvMFtAPSQn4o7lx9NMdkK1AhstyDV0CIGeQ5bwr0mZM+ojDsLnIjpijc8gY2EOzvdlqxj3c55QlDTwhZXkHU2x2HiLxhS4IijLhjZe/+qvf6WYb0zyIEq0UsO+Pzeg8RjWTGX9xik1wv4gMfO0q82Yl2tpaoEEIUJ/ciuNXqEizdhOJpE48ORq5VEhoFtm+T7G5/OmzCrLvbGc2pkGtFlj0eqtoFb/J4X4/gT9koFrVQDUKYQ2maNLuq8c8X2rbZ3Y21qtjM3uSy2RhZqwGBwhuPrEbIWRSD+Q65TZQo7O9rNX+/Le2CzvOJlJhpxyWtzdcTMPuiMZIbJQ=;Ox19ad5ZqKx7qaMUj53Qug=="
 ---
 

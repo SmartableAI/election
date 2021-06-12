@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Kamala Harris pays tribute to vets after taking heat for earlier Memorial Day tweet"
-excerpt: "Vice President Harris paid tribute to fallen service members on Sunday after taking heat for a Memorial Day weekend message that neglected to mention veterans."
-publishedDateTime: 2021-05-30T12:41:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
-ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
+title: "Mexico's López Obrador says he called Harris 'president' after meetings on migration"
+excerpt: "Mexican President Andrés Manuel López Obrador said this week that in-person meetings on the migration crisis with Vice President Kamala Harris went so well that he called her “president.”"
+publishedDateTime: 2021-06-12T16:29:11Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r9GbY0QW-xc/mexicos-lopez-obrador-harris-president-after-meetings-migration"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r9GbY0QW-xc/mexicos-lopez-obrador-harris-president-after-meetings-migration"
+ampWebUrl: "https://www.foxnews.com/politics/mexicos-lopez-obrador-harris-president-after-meetings-migration.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mexicos-lopez-obrador-harris-president-after-meetings-migration.amp"
 type: article
-quality: 179
+quality: 178
 heat: -1
 published: false
 
@@ -26,7 +26,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7a6ae93-cc8d-425b-bb14-6992656b9efe/6e55c3de-c62b-4139-85ef-d8928b4f753a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec886373-a4a8-4b46-b4d4-c59168e50c46/a54b5759-a333-49c4-a367-c0a430e0719b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -192,6 +192,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kamala Harris pays tribute to vets after taking heat for earlier Memorial Day tweet"
+    excerpt: "Vice President Harris paid tribute to fallen service members on Sunday after taking heat for a Memorial Day weekend message that neglected to mention veterans."
+    publishedDateTime: 2021-05-30T12:41:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6pPfvcBUGWc/kamala-harris-memorial-day-fallen-service-members-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-memorial-day-fallen-service-members-twitter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7a6ae93-cc8d-425b-bb14-6992656b9efe/6e55c3de-c62b-4139-85ef-d8928b4f753a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Twitter mocks Kamala Harris for passing out cookies of her faceless head to reporters"
     excerpt: "The vice president traveled to the Central American country on Monday to meet with the Guatemalan President Alejandro Giammattei in her first trip after being appointed by President Biden to lead diplomatic efforts in the region amid the border crisis."
     publishedDateTime: 2021-06-07T22:25:48Z
@@ -205,22 +221,6 @@ related:
     quality: 178
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c9962fd-1510-412f-b97c-f2d99e3a28cf/6153bd59-4c6d-4659-a50f-6191435cb018/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Mexico's López Obrador says he called Harris 'president' after meetings on migration"
-    excerpt: "Mexican President Andrés Manuel López Obrador said this week that in-person meetings on the migration crisis with Vice President Kamala Harris went so well that he called her “president.”"
-    publishedDateTime: 2021-06-12T16:29:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r9GbY0QW-xc/mexicos-lopez-obrador-harris-president-after-meetings-migration"
-    ampWebUrl: "https://www.foxnews.com/politics/mexicos-lopez-obrador-harris-president-after-meetings-migration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mexicos-lopez-obrador-harris-president-after-meetings-migration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 178
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec886373-a4a8-4b46-b4d4-c59168e50c46/a54b5759-a333-49c4-a367-c0a430e0719b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -711,6 +711,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "3MHnXducuYJyEp/Ky5/v78njyMmu92fRz1IXAsm9wUJiKPzTs6PKg8C2L8MHo1lvREqYeWeoQCtJCJc5O3l02O4ljwsMUpYVlbwYoW50sjfgues5VOnpJEv9lR3hMwxkMsJa8fspIC/j8OW7fmcb5xVDsyhBv0xUNZ7KVTLmieAr/VMXI8bwiEQbgnjOrrx0jZni01HXljXAwQjPyvfJLpwOnXREJIG5hxj+FUyVUf0rN1N5SV8r1FMxPDyWDYUeKjV0qZ1neGn/QI6xYsQzbzNpXpqOckpArduH4tielc8hWOxJ/k7uMMZOJG26PD/aRdHE4WfXp1PsrSQuEbliwlnzrirBrv1r4QkJbGZ5HSU=;9B/U8f2dxt/Nnck2nA55aw=="
+secured: "lwicbyjcN8GD2Hwt3zsLW8n11dDROOBfGmvoDTnf19OPZ9SZKhe7mpM4nLcdvvLbQ3P/rhZcVzEXpgkSMSh0TFO0MzeiQaGRJUxWvrrjiX3qq3Y05u5X6bqfo4ZCVU0XsAy3EAAo/Cc4GGQ0PWaZpaqPo/eL07rgnuAgNadO9PdMVVwNfLXiK/4FAXIC+muiVUuZ/gi5v8Zo7dUSpSJ9cxxubW4ExjW2gafnv9EAklZ++k1F81PPNZnwLwxlsvdzfvqbK/mbK7GnqF2u2R21lnut+7rqu/BgAPZap7a+AICYINT5REKMz87iQbhdmQZpdqDBJ0K0xjjICYYuAuwgV+obtbtmbtrdOoLzPYrl12w=;C9KA04DMl3kIvcgV3swt9A=="
 ---
 

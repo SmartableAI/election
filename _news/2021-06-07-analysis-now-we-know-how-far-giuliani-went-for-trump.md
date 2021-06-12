@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump is doing more lying about the election than talking about any other subject"
+    excerpt: "Since his presidency ended, Donald Trump has issued more statements lying about the 2020 election than statements talking about any other subject.\n    \n"
+    publishedDateTime: 2021-06-12T16:00:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TZj3XmSpIJo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608191019-trump-0605-greenville-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "In behalf of white farmers, Trump allies wage legal war against equity"
     excerpt: "Black farmers say reverse discrimination has never been evident in their industry — but that may not stop the idea from being used to upend civil rights law."
     publishedDateTime: 2021-06-06T21:47:00Z

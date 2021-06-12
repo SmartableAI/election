@@ -218,6 +218,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Mexico's López Obrador says he called Harris 'president' after meetings on migration"
+    excerpt: "Mexican President Andrés Manuel López Obrador said this week that in-person meetings on the migration crisis with Vice President Kamala Harris went so well that he called her “president.”"
+    publishedDateTime: 2021-06-12T16:29:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r9GbY0QW-xc/mexicos-lopez-obrador-harris-president-after-meetings-migration"
+    ampWebUrl: "https://www.foxnews.com/politics/mexicos-lopez-obrador-harris-president-after-meetings-migration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mexicos-lopez-obrador-harris-president-after-meetings-migration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec886373-a4a8-4b46-b4d4-c59168e50c46/a54b5759-a333-49c4-a367-c0a430e0719b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Harris, in Guatemala, tells potential migrants they will be turned back: 'Do not come'"
     excerpt: "Vice President Kamala Harris, as part of her visit to Guatemala, on Monday told potential migrants that they should not travel to the U.S. Mexico border -- claiming that they would be turned back if they did."
     publishedDateTime: 2021-06-07T19:22:57Z

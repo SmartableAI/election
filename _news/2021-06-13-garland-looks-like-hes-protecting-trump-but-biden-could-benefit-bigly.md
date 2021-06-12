@@ -1,34 +1,34 @@
 ---
 category: news
-title: "Corporate America tears down Biden's infrastructure plan"
-excerpt: "Executives at some of America’s largest companies complain much more bitterly in private about the White House approach."
-publishedDateTime: 2021-04-07T01:02:00Z
-originalUrl: "https://www.politico.com/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
-webUrl: "https://www.politico.com/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
-ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
+title: "Garland looks like he's protecting Trump. But Biden could benefit bigly."
+excerpt: "Analysis: There's nothing new about the Justice Department protecting the executive branch and the president. That's good for the current president, too."
+publishedDateTime: 2021-06-12T17:48:00Z
+originalUrl: "https://www.nbcnews.com/politics/politics-news/garland-looks-he-s-protecting-trump-biden-could-benefit-bigly-n1270580"
+webUrl: "https://www.nbcnews.com/politics/politics-news/garland-looks-he-s-protecting-trump-biden-could-benefit-bigly-n1270580"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270580"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270580"
 type: article
-quality: 135
+quality: 149
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/1a/fb/11a78bf1427c8995db7e85fdb24b/4-6-21-joe-biden-ap-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_17/3467944/210426-merrick-garland-jm-1301.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -656,22 +656,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Garland looks like he's protecting Trump. But Biden could benefit bigly."
-    excerpt: "Analysis: There's nothing new about the Justice Department protecting the executive branch and the president. That's good for the current president, too."
-    publishedDateTime: 2021-06-12T17:48:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/garland-looks-he-s-protecting-trump-biden-could-benefit-bigly-n1270580"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270580"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270580"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 149
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_17/3467944/210426-merrick-garland-jm-1301.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "GOP loudly voicing concerns about debt under Biden 'eerily quiet' under Trump"
     excerpt: "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden."
     publishedDateTime: 2021-04-04T23:21:00Z
@@ -973,6 +957,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/5e/59/ea2fb4c640ed90176f22301bc402/4-5-21-matt-gaetz-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Corporate America tears down Biden's infrastructure plan"
+    excerpt: "Executives at some of America’s largest companies complain much more bitterly in private about the White House approach."
+    publishedDateTime: 2021-04-07T01:02:00Z
+    webUrl: "https://www.politico.com/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/1a/fb/11a78bf1427c8995db7e85fdb24b/4-6-21-joe-biden-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -1283,6 +1283,6 @@ related:
         height: 550
         isCached: true
 
-secured: "XjLsC/LVkaC1sFxPzHIHalXYr5SK8icJRglWAfA2ZKjJaXoLOqEi9N1Y0NBPxSIJoZ5fTBvHnpYRQg4y/Xkwa8IrxlXzbwshXrXZeAOlIiDJiw2VS/MjCnFCVNpj07XhXCJc/BUmGbGdNfyX2gQdJRX7VV3r6EGN7xkBcqnHMMOYBOuvTFvw3pmkwkPZk+uY1mEBbc9J833rV6bOCtZiNnNP5kVaGD3Fevbsaou+ACYTDIvpL/XnDDqtkloF5J4oPzxdp/Gqc6CJK4N+M1L/uXoXxp41m1OW2egII92PjPk9XtBJZG8f3YqSnqOGTO3gdGRgT6lU/GbUDBRpeVol4CiAx3Gh8zAU1zsNBpF6loJ7unfc7JWkb6a88ZEFqN63LCsS1NdzGMfD/YYM0oPfbYHeBYP6GNqxvDripGc1aDq1W8NzZra1F1knFdFsS65k/24C2OSqUhLLS5yufg2fowFKQ1CWmE8BpdTXMExIL6R/sQSITneQ1eKPYB7plT4Esz7iklRLRquxiiMbb3A0qg==;P8yKPBQnT4sboeBg1dWivA=="
+secured: "MnhxZToCjiexMqPFR/0cPPe0gejsWMfukz0BwLGiKmJAE8IjmFUtQtVBWMoB0heLskTmD/MUqOOLdew+ly8+wWIYOugJYYKFPO0H1HARTWDS843PsHnHd891WyKjR+9pJD1gfbFolxl1pcFvznHsXHJQ3vDbBe81qQcW3JRAfYeafWSDOVto3NiIyJa7llnBB4uspRIumKAxFeeU8veivS5z/attJWmDufeJ4yL0xJeN5MGqVIw/waIdqIEzCkcvwA8gEC8TMVRTdY3PWm9UxtTHSY/Vn0CiJHbxz3dtJZx5cLksgkF0g7M8QL4HnUTzrWeukTA3/aRnnRl2rCEXuigcw10nJZq0WYrbhsQwPkc=;HV6l0tlaBMG9SbwFkPdNsw=="
 ---
 

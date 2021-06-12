@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-packing-their-bags-thi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp"
 type: article
 quality: 192
-heat: 1052
+heat: 1072
 published: true
 
 provider:
@@ -205,6 +205,22 @@ related:
     quality: 178
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c9962fd-1510-412f-b97c-f2d99e3a28cf/6153bd59-4c6d-4659-a50f-6191435cb018/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Mexico's López Obrador says he called Harris 'president' after meetings on migration"
+    excerpt: "Mexican President Andrés Manuel López Obrador said this week that in-person meetings on the migration crisis with Vice President Kamala Harris went so well that he called her “president.”"
+    publishedDateTime: 2021-06-12T16:29:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r9GbY0QW-xc/mexicos-lopez-obrador-harris-president-after-meetings-migration"
+    ampWebUrl: "https://www.foxnews.com/politics/mexicos-lopez-obrador-harris-president-after-meetings-migration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mexicos-lopez-obrador-harris-president-after-meetings-migration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec886373-a4a8-4b46-b4d4-c59168e50c46/a54b5759-a333-49c4-a367-c0a430e0719b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

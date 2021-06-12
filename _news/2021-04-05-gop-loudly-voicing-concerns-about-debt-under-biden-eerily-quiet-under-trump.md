@@ -656,6 +656,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Garland looks like he's protecting Trump. But Biden could benefit bigly."
+    excerpt: "Analysis: There's nothing new about the Justice Department protecting the executive branch and the president. That's good for the current president, too."
+    publishedDateTime: 2021-06-12T17:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/garland-looks-he-s-protecting-trump-biden-could-benefit-bigly-n1270580"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270580"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270580"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_17/3467944/210426-merrick-garland-jm-1301.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Tapper examines why Biden admin may be hesitant to credit Trump for vaccine success"
     excerpt: "CNN's Jake Tapper shares his experience receiving the Covid-19 vaccine and looks back at how former President Donald Trump's actions affected the nation's pandemic response."
     publishedDateTime: 2021-04-04T15:01:00Z

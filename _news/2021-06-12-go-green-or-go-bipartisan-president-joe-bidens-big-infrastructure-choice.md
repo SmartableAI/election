@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Go green or go bipartisan? Biden's big infrastructure choice"
-excerpt: "President Joe Biden’s hope of pouring billions of dollars into green infrastructure investments is running into the political obstacle of winning over Republican votes"
-publishedDateTime: 2021-06-12T03:26:00Z
-originalUrl: "https://www.washingtonpost.com/politics/go-green-or-go-bipartisan-bidens-big-infrastructure-choice/2021/06/12/61bcb72c-cb36-11eb-8708-64991f2acf28_story.html"
-webUrl: "https://www.washingtonpost.com/politics/go-green-or-go-bipartisan-bidens-big-infrastructure-choice/2021/06/12/61bcb72c-cb36-11eb-8708-64991f2acf28_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/go-green-or-go-bipartisan-bidens-big-infrastructure-choice/2021/06/12/61bcb72c-cb36-11eb-8708-64991f2acf28_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/go-green-or-go-bipartisan-bidens-big-infrastructure-choice/2021/06/12/61bcb72c-cb36-11eb-8708-64991f2acf28_story.html?outputType=amp"
+title: "Go green or go bipartisan? President Joe Biden’s big infrastructure choice"
+excerpt: "As negotiations unfold in Congress in search of a bipartisan deal, the White House's ability to ensure a climate focus in Biden's sweeping infrastructure package is becoming daunting."
+publishedDateTime: 2021-06-12T16:57:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
 type: article
-quality: 125
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZWT6M4WLGII6XBYIMSMR6KWPFA.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.baltimoresun.com/resizer/e412vHahVzpumXEQYXGNDP7Lkts=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6NLKY7DP2OSSSWLTTXZGYLUIKY.aspx"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -78,6 +74,22 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_c8b6b6f1a05d48fa8b0719b37266a661_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Go green or go bipartisan? Biden's big infrastructure choice"
+    excerpt: "President Joe Biden’s hope of pouring billions of dollars into green infrastructure investments is running into the political obstacle of winning over Republican votes"
+    publishedDateTime: 2021-06-12T03:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/go-green-or-go-bipartisan-bidens-big-infrastructure-choice/2021/06/12/61bcb72c-cb36-11eb-8708-64991f2acf28_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/go-green-or-go-bipartisan-bidens-big-infrastructure-choice/2021/06/12/61bcb72c-cb36-11eb-8708-64991f2acf28_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/go-green-or-go-bipartisan-bidens-big-infrastructure-choice/2021/06/12/61bcb72c-cb36-11eb-8708-64991f2acf28_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZWT6M4WLGII6XBYIMSMR6KWPFA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Joe Biden Had His First Meeting With Queen Elizabeth As President"
     excerpt: "President Joe Biden met with Queen Elizabeth II in England on Friday — the first time he has encountered the British sovereign as commander in chief. The president and first lady Jill Biden were photographed chatting with the Queen at an event for heads of state attending the G7 summit in Cornwall."
@@ -191,22 +203,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Go green or go bipartisan? President Joe Biden’s big infrastructure choice"
-    excerpt: "As negotiations unfold in Congress in search of a bipartisan deal, the White House's ability to ensure a climate focus in Biden's sweeping infrastructure package is becoming daunting."
-    publishedDateTime: 2021-06-12T16:57:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 73
-    images:
-      - url: "https://www.baltimoresun.com/resizer/e412vHahVzpumXEQYXGNDP7Lkts=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6NLKY7DP2OSSSWLTTXZGYLUIKY.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "President Joe Biden calls on Republicans to boost $980B infrastructure offer; Democrats remain ready to go it alone"
     excerpt: "The White House on Monday called on Republicans to bump their recent $980 billion offer on an infrastructure package, noting President Joe Biden shaved his initial proposal by almost $1 trillion in a move to seal a historic investment in jobs,"
     publishedDateTime: 2021-06-07T19:01:00Z
@@ -233,6 +229,6 @@ related:
       domain: indystar.com
     quality: 32
 
-secured: "Ts91uoXQpRr9msApvjmbULQlYp4bPMKWtJ1PLJ65ZsB/ZbTOc+Y2SKs63TwwJ6KLjkB7xHWSsdYFq2/iwCJE1RyQk6mftcCLAP00k9SpiXbQKfojceXmfHoVyhDXXfaY6uU4bZOd4WNlw1DoSgHg6hUmoJawX7QjYT5ezGcxwIRIvT5XJy+Ug6LTDOqNc+TxvC2slqdxU5fa4TuzLG1/7KdnJhK0Zajf620bgAGdzxqnvkDAlv1gZSYt1F7hYvygiHdJ6wE+lRdfI+cldx2vPEWlHLmM4NSKh5eAUoTqwKZMCyjC4LzqPtXY3FknB5ljEfWtYBSsKcgw45HkK9kgX7oqkduEztOXH650PlHxcrI=;M6ldR31Sd9hOpaJK7zgmpg=="
+secured: "cH6d9FVabv2QgNJtfkihlyUSCSL8KJpIQcCUHCmvC0cJMFqb7yR7acXcnsmHuFmT/M+UkELcMm/gjgQfwnx27Zd805MVQg5Oufff2B+PAFeebiZc2kQ3cVLC/2J5IWyLVOuJK8dYbIgAC6Eop2vwHYDcqG0hRqry7Y1mFltl1HBmcUR0HBleogrR0vitJkp1FvD+eT8qzeKcVGPJu4ztcxjMei+/vDnY/PkQhEHuAYqjZ/8X1sFMmXLUeTQ/9ZM9MdqARGibCKajwky9Qk5F+sPZxZSn9csbS6g0Ac3iPRPN8Wld13mzgzrDfwnXhUhq7+tYDCU3livR230srBXGxiNUb11mof3UAD/Qb7T8djk=;XRZMq3sXyJ0Dr+650JpdaQ=="
 ---
 
