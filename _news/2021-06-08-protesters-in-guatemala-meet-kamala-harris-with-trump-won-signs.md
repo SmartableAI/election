@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-tru
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1"
 type: article
 quality: 140
-heat: 1400
+heat: 1420
 published: true
 
 provider:
@@ -487,6 +487,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris takes heat handling knotty vice-presidential portfolio"
+    excerpt: "US vice-president Kamala Harris gave a widely panned television interview while visiting Guatemala this week. Asked why she hadn’t been to the US-Mexico border, where an influx of migrants is putting a huge strain on local communities,"
+    publishedDateTime: 2021-06-12T11:00:00Z
+    webUrl: "https://www.ft.com/content/39f4d3b9-f918-428b-9ef2-d5cc0415aa37"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 85
   - title: "Harris seeks to defy history with Central America mission"
     excerpt: "Vice President Kamala Harris will make her first foray into international diplomacy on the border situation this weekend, heading to Central American to do some nation-building with a promise of $4 billion in American cash,"
     publishedDateTime: 2021-06-04T19:19:00Z

@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to urge G-7 leaders to stand up to China on reeducation camp abuses"
+    excerpt: "President Biden on Saturday plans to urge allies to publicly call out China over its Uighur reeducation camps on the second full day of the G-7 summit."
+    publishedDateTime: 2021-06-12T09:58:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVuZ5EAHHzw/biden-to-urge-g-7-leaders-to-stand-up-to-china-on-reeducation-camp-abuses"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-urge-g-7-leaders-to-stand-up-to-china-on-reeducation-camp-abuses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-urge-g-7-leaders-to-stand-up-to-china-on-reeducation-camp-abuses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfc08cdc-6fc8-414b-b1b4-cb834f1dc702/eff743ab-bfce-4902-9f2d-6201c6d6dae7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "rxdFBSDPUESO8xsZl2J7pAszjt3smzMGc+fJxsJHtO0P3pXob3Ym3LE0ihN0SEGCrTfrafQ870HYtUWkHJ9GIOdqhFsiv4gBSIXp9dsHh2KxIgt62AVGhHs6EdBYCcsT4vJvvPohMU8rWUKENvd+0zhi6vm5i9XY3JdCeyNQ3eEchnZ8VO96nxKH9o78UcMSBRT0T9U7jFERwAPnIrIGWRWOsJeunHopiS0hpeHo0LdNDZBU9O1qUTRvIll0nwdPuowKesbB5Iabxte7rhSruoVk9IzRXOP6dBIvYvPrQD67YATBZjWYyZKXXxd8o9jlzXxH0CYaUOhx93Qmv2gtM8lI56+/650iS+Bsi38NBvQ=;MRh/F2BegVlOte18PkZLjg=="
 ---

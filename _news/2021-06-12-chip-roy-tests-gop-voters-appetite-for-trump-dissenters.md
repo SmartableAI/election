@@ -1,20 +1,24 @@
 ---
 category: news
-title: "GOP mayoral candidate Fernando Mateo meets with Trump"
-excerpt: "Already with an endorsement from Michael Flynn in tow, NYC mayoral candidate Fernando Mateo met with former President Trump in New Jersey at Trump National Golf Club."
-publishedDateTime: 2021-06-04T03:11:00Z
-originalUrl: "https://nypost.com/2021/06/03/gop-mayoral-candidate-fernando-mateo-meets-with-trump/"
-webUrl: "https://nypost.com/2021/06/03/gop-mayoral-candidate-fernando-mateo-meets-with-trump/"
-ampWebUrl: "https://nypost.com/2021/06/03/gop-mayoral-candidate-fernando-mateo-meets-with-trump/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/gop-mayoral-candidate-fernando-mateo-meets-with-trump/amp/"
+title: "Chip Roy Tests GOP Voters’ Appetite for Trump Dissenters"
+excerpt: "The conservative House Republican said President Biden’s victory should be certified and later challenged former President Donald Trump’s pick for party leadership."
+publishedDateTime: 2021-06-12T08:30:00Z
+originalUrl: "https://www.wsj.com/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
+webUrl: "https://www.wsj.com/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
+ampWebUrl: "https://www.wsj.com/amp/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-mateo-hp.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://images.wsj.net/im-352450/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -92,6 +96,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "GOP mayoral candidate Fernando Mateo meets with Trump"
+    excerpt: "Already with an endorsement from Michael Flynn in tow, NYC mayoral candidate Fernando Mateo met with former President Trump in New Jersey at Trump National Golf Club."
+    publishedDateTime: 2021-06-04T03:11:00Z
+    webUrl: "https://nypost.com/2021/06/03/gop-mayoral-candidate-fernando-mateo-meets-with-trump/"
+    ampWebUrl: "https://nypost.com/2021/06/03/gop-mayoral-candidate-fernando-mateo-meets-with-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/gop-mayoral-candidate-fernando-mateo-meets-with-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-mateo-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump hosts fundraiser for new GOP chair Rep. Elise Stefanik"
     excerpt: "Former President Donald Trump is hosting a fundraiser for upstate GOP Rep. Elise Stefanik at his golf course in Bedminster, New Jersey Wednesday night, the Post reveals."
     publishedDateTime: 2021-06-09T19:40:00Z
@@ -123,22 +143,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/jason-miller-tech-ceo-722.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Chip Roy Tests GOP Voters’ Appetite for Trump Dissenters"
-    excerpt: "The conservative House Republican said President Biden’s victory should be certified and later challenged former President Donald Trump’s pick for party leadership."
-    publishedDateTime: 2021-06-12T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
-    ampWebUrl: "https://www.wsj.com/amp/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-352450/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "The Trump DOJ’s Leak Investigations of House Democrats and Media"
     excerpt: "Lawmakers call for hearings and the Justice Department inspector general launches probe into Trump administration’s secret efforts to find sources of leaks."
@@ -203,6 +207,6 @@ related:
         height: 375
         isCached: true
 
-secured: "Qs/aCgCIsMxw2chIlVPiDGyg4cp48ajWwj5eu8IAMiQ97sNNIAa9s8ty4WpIRdSQj03Ic+YEKXnHzs9AMLLOC2WmXQVXiKIM6R3fht3VjswS3ZS1vrTZ0xzIZY6P9LxVRoFi4fJOqEFA8kro2fz7IKXQ34wtsV3pol1bURLpiJYcg5xiquD20gDisJzKt13xqQ10AO7qFGe+Mb0isfAWwTdCxBP+JQjJnS2srh0qFSd7RFcdxuGnhpyWcRYLmROtdLzcmGaf1Ds54vqqEkJqqzqa+UIWwKoKzzVr7M01d++ou80ujGgYfFLkJaSFCteRAlJIbul5lvaQ6hIV5XwEcRya2RXtJMG4q8Xr4OFYuqJx2oP0LoprvG4E9zL4YUsNNUnysmmW/1P+ZuV6VIuAQXCnBvH3lJLuhGze5Mb07/oIANgGwoRbtcqLcyB6acuwo/LzdSKuBKwZ+pWcNpCpcopkRB+j5IkrMnHIZ7o+Rfj5C1xS+NFrSkLJSkVVYkJLxPm3Yhgrb14F8u6wEqZMxw==;xwwuCS3RpKKmde08It9qAA=="
+secured: "x76NiETJmj7zD/Ag13Y6PalKxweuUBObgRdB0VjVc7QG3hbuLNFuRbYJR5rIc44eEdtLarBJF/vr0kP4wqKs86+o8B3036uOw+L5QiZrq0G1v8GZGenChVhPMYW04YjSjt9Z90V4Jgcpd01L5zrVF8JYtCsyTZK1BtguAE6dyzmpRwFg/VNQ0P7z1qM0m76NLlpabeqQ0LxAFmCbbFMp8Xx1Ay6ZuqZnR8+usUxnJQ0V8FW7wFdS77pY4sTMAdt2vHPY+4R1dffwEaiWEBw57dz00f4ADAcqXtXqf5O5AqadJ7HluccM+lM9ih0TpkBQbQwGOXYG1TtmGYdG7CaRrLc2o4kStLPQ/QUJov+WD1A=;gfsyePf4mDZmuYT34wi/Sg=="
 ---
 

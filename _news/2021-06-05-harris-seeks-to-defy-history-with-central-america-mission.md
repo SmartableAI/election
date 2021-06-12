@@ -499,6 +499,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris takes heat handling knotty vice-presidential portfolio"
+    excerpt: "US vice-president Kamala Harris gave a widely panned television interview while visiting Guatemala this week. Asked why she hadn’t been to the US-Mexico border, where an influx of migrants is putting a huge strain on local communities,"
+    publishedDateTime: 2021-06-12T11:00:00Z
+    webUrl: "https://www.ft.com/content/39f4d3b9-f918-428b-9ef2-d5cc0415aa37"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 85
   - title: "Kamala Harris’ stepdaughter Ella Emhoff praises the ‘ugly’ mullet"
     excerpt: "From David Bowie to ‘Rambo’ to K-pop stars, the shaggy haircut comes, goes and is back again. Style icon Ella Emhoff explains its appeal in new Vogue feature."
     publishedDateTime: 2021-06-04T22:36:00Z

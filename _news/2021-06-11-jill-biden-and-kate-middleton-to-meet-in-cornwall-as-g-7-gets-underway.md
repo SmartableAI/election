@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jill-biden-and-kate-middleton-to-me
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to urge G-7 leaders to stand up to China on reeducation camp abuses"
+    excerpt: "President Biden on Saturday plans to urge allies to publicly call out China over its Uighur reeducation camps on the second full day of the G-7 summit."
+    publishedDateTime: 2021-06-12T09:58:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KVuZ5EAHHzw/biden-to-urge-g-7-leaders-to-stand-up-to-china-on-reeducation-camp-abuses"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-urge-g-7-leaders-to-stand-up-to-china-on-reeducation-camp-abuses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-urge-g-7-leaders-to-stand-up-to-china-on-reeducation-camp-abuses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfc08cdc-6fc8-414b-b1b4-cb834f1dc702/eff743ab-bfce-4902-9f2d-6201c6d6dae7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Jill Biden, Kate Middleton visit UK classroom, with early childhood education in focus"
     excerpt: "First lady Jill Biden and Duchess of Cambridge Kate Middleton visited a classroom of young children before taking part in a roundtable discussing the importance of early childhood education."
     publishedDateTime: 2021-06-11T12:25:05Z

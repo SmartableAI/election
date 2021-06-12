@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Brexit trouble overshadows Biden and Johnson's first meeting"
-excerpt: "Boris Johnson's star turn on the world stage has already been undermined by his previous greatest accomplishment: Brexit.\n    \n"
-publishedDateTime: 2021-06-10T11:52:45Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tWkANR1xQyo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tWkANR1xQyo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html"
+title: "Biden, Putin not currently expected to hold joint news conference following meeting next week"
+excerpt: "President Joe Biden and Russian President Vladimir Putin are not currently expected to hold a joint press conference following their high-stakes summit in Geneva, Switzerland, next week, two US officials familiar with the matter said.\n    \n"
+publishedDateTime: 2021-06-12T11:25:44Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8HiHYojsiDI/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8HiHYojsiDI/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/vladimir-putin-joe-biden-press-conference/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/vladimir-putin-joe-biden-press-conference/index.html"
 type: article
-quality: 175
-heat: 255
-published: true
+quality: 164
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,12 +25,28 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
+  - title: "Brexit trouble overshadows Biden and Johnson's first meeting"
+    excerpt: "Boris Johnson's star turn on the world stage has already been undermined by his previous greatest accomplishment: Brexit.\n    \n"
+    publishedDateTime: 2021-06-10T11:52:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tWkANR1xQyo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Sen. Josh Hawley holds up Biden personnel nominee over critical race theory"
     excerpt: "Senate Republicans are holding up President Joe Biden's nominee to lead the Office of Personnel Management over concerns about her stance on critical race theory.\n    \n"
     publishedDateTime: 2021-06-09T02:52:27Z
@@ -63,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden, Putin not currently expected to hold joint news conference following meeting next week"
-    excerpt: "President Joe Biden and Russian President Vladimir Putin are not currently expected to hold a joint press conference following their high-stakes summit in Geneva, Switzerland, next week, two US officials familiar with the matter said.\n    \n"
-    publishedDateTime: 2021-06-12T11:25:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8HiHYojsiDI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/vladimir-putin-joe-biden-press-conference/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/vladimir-putin-joe-biden-press-conference/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden and Putin not currently expected to hold joint news conference following meeting next week"
     excerpt: "President Joe Biden and Russian President Vladimir Putin are not currently expected to hold a joint press conference following their high-stakes summit in Geneva, Switzerland, next week, two US officials familiar with the matter said.\n    \n"
     publishedDateTime: 2021-06-11T13:28:04Z
@@ -96,6 +96,6 @@ related:
         height: 619
         isCached: true
 
-secured: "Rx/osPFznyNyiL29fgW09k0z84Q9pJk14mSP2b3sVJmfBONt1JkT8JwQWcXOXhdUA0/O25rv0X9Ly4lNBCQuAFWUX0ZQzRoDQAeL/cO+3elU2NQpoGVLgHmyIy0tbrWE0tfBPbeB6mYaeaXKGFyHNtxlEepp5o9W/vAlsQMLH4C8/DwsoP4esKdaLScrM15wjoIRW92f5J/UnvD2DudpOmk9u9B3ZnnkqNhpMKYRBy5nm314SkVShHutJUV0lgeRHiot/si/Ar3mZPFbUTG2TNguc1tZmrOsAo6cqMfz+jQ+h5y2VOjU/C2Cbw4sXXGq3DvTb0ITR8kKFK51BCvbA+KOCWQ+W9+n7Vkbc0o68iE=;ExQMsdmAwZg8mk4z0VbH5g=="
+secured: "h8Ye07SKSQG5LQrqH9LO5NUeglM0W1cm/E0tOMc60XwP0VUd2o1MgOHMyRiXMC/4K8qOxHw9oka8VcGS73yYd8u7oFCYiHu6sScVPQULiWZeB4KodtXDPBZ2vVPAWb0WScS/hSu4E2CI+w29hbX/DrWUzxz4xp3p+rsvC6w5Nwt3gEKtlqJSI+VCNrttlLRCRIDMeT/gAfZZgV77DLrEyFRuhBZ7PHpiR0UvR0X4jAkoHaOumVxh/wXNvoaB2LLO+e3ubK2CkgD3qhCEa/Dnb1jWRWLq1NREpvOzFNFiKg3ogzkCgeL4u7ASAR/KAYSQo4HVc+ZeU0vjl+WB40ce0iZKvx/27Bhh/seYZf4LJ/M=;nfarF1lpCC1O6L2u6q4IEw=="
 ---
 

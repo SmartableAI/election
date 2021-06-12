@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Kamala Harris' plane returns to air base after technical issue"
-excerpt: "Vice President Kamala Harris was on her way to Guatemala when her plane returned to Joint Base Andrews due to a \"technical issue,\" according to a spokesperson. CNN's Joe Johns"
-publishedDateTime: 2021-06-06T19:37:00Z
-originalUrl: "https://www.djournal.com/news/national/kamala-harris-plane-returns-to-air-base-after-technical-issue/video_c8224d80-9244-5dce-8f58-45bcdb3e9b36.html"
-webUrl: "https://www.djournal.com/news/national/kamala-harris-plane-returns-to-air-base-after-technical-issue/video_c8224d80-9244-5dce-8f58-45bcdb3e9b36.html"
+title: "Kamala Harris takes heat handling knotty vice-presidential portfolio"
+excerpt: "US vice-president Kamala Harris gave a widely panned television interview while visiting Guatemala this week. Asked why she hadn’t been to the US-Mexico border, where an influx of migrants is putting a huge strain on local communities,"
+publishedDateTime: 2021-06-12T11:00:00Z
+originalUrl: "https://www.ft.com/content/39f4d3b9-f918-428b-9ef2-d5cc0415aa37"
+webUrl: "https://www.ft.com/content/39f4d3b9-f918-428b-9ef2-d5cc0415aa37"
 type: article
-quality: 55
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: The Financial Times
+  domain: ft.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/82/c8224d80-9244-5dce-8f58-45bcdb3e9b36/60bd2971c7610.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
-    isCached: true
 
 related:
   - title: "Protesters in Guatemala Meet Kamala Harris With 'Trump Won' Signs"
@@ -497,15 +495,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris takes heat handling knotty vice-presidential portfolio"
-    excerpt: "US vice-president Kamala Harris gave a widely panned television interview while visiting Guatemala this week. Asked why she hadn’t been to the US-Mexico border, where an influx of migrants is putting a huge strain on local communities,"
-    publishedDateTime: 2021-06-12T11:00:00Z
-    webUrl: "https://www.ft.com/content/39f4d3b9-f918-428b-9ef2-d5cc0415aa37"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 85
   - title: "Harris seeks to defy history with Central America mission"
     excerpt: "Vice President Kamala Harris will make her first foray into international diplomacy on the border situation this weekend, heading to Central American to do some nation-building with a promise of $4 billion in American cash,"
     publishedDateTime: 2021-06-04T19:19:00Z
@@ -813,6 +802,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "Kamala Harris' plane returns to air base after technical issue"
+    excerpt: "Vice President Kamala Harris was on her way to Guatemala when her plane returned to Joint Base Andrews due to a \"technical issue,\" according to a spokesperson. CNN's Joe Johns"
+    publishedDateTime: 2021-06-06T19:37:00Z
+    webUrl: "https://www.djournal.com/news/national/kamala-harris-plane-returns-to-air-base-after-technical-issue/video_c8224d80-9244-5dce-8f58-45bcdb3e9b36.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/82/c8224d80-9244-5dce-8f58-45bcdb3e9b36/60bd2971c7610.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Kamala Harris to illegal migrants: 'Do not come'"
     excerpt: "In Guatemala, the vice-president says anyone who comes to the US border illegally will be turned back."
     publishedDateTime: 2021-06-08T07:20:00Z
@@ -964,6 +967,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "9iUG/RAhyo2tu+1DcDe8tY07G402l5IOuGYJFa9d6rPR79TzeBseNf4Zjct0UTn9KRvJFf5niMdfnO56gFBFbITAWdrxNWatCMDexSJmUHrFrq0K8WXwuS6/GNIefBGyBNkEegqH6K78pMt6RLwabqXI11mni2mIj4/nWmMtv2NF4Rj6s/LPI0/gHmA538TxythBPuabLzKPhkO05MuD848BxKRPabIxj9kBmbifNRGaBeskBZ/deCA+8Um6XEx/UPLe3mMhuifLbW+QnMlCZYk7WVOAFeH9OEkO1t/BwMKg4xRBJfy71yfNfVMK6YIffLnBiGwie6O1BN9GOx7zFgUXzEVkIf4sRK8JIaA5oyJSFeumXJ2aVghbPjinnqlX4JMASPQDln0qZ/UFItmYJ8ltGtjQNVBb+BeSdJSnBdufEtz4rSL9lzaUnuf99hrRDHTc956YoA7YxyY1BFjkBjuIGmS9JKZgJEaV2Bao1bN9CEkI3/ANYw+7Wzj39kusLI/o3GFxXIoTiFjSAUMFCg==;0ymTPxoUNHJ0DVkHZ1GqMQ=="
+secured: "j6OWXt+Y1S96NO/V6u0W5ClNMUxG865QJJzrYNeJVPMEy20IwVhUdugrLbnfNOLqXBBrIduASzeENmFc38D96RfDybY9kSVFmbM7JsbPMslq6C4yaBqUn+UGTeRyf0AKAuCmRrG0C/9xWkhddZF7HxnT8yO56BuxlLoFxoAIQIjRN5DBDjbVcIdDuuWWDGVXom6mENLfwjwN59wj6YD4SsYZoh63xpqtwBf3QavwXAuxiLMqYjcmNvVKWMXCBYwJFxefKy4qcqWCInpPHPthmi5MhkFMhmjbKtjm/jp8Im4KVzvBM1e5LblpFQDT4K2CdiprinTjjdyklSDHqrJ4trcqLt7EaevJEGZ5w77ZG1J133JAPUx5R28AUi98QYg3924DBSZRfobujDrD/9p4REgYeAg6+z7XQsABBcufSosInK6T87PD0IPwd0ek6Mu971FgYLtCGKYddulmwHe7HSRFxDc7MQi+xE07vm/JJiENSEfrHMT8q67+75WSxJ0kY03jAUaGmcFMKAOvYkDEtg==;9gty54e7m4Zzh2ehsbsqag=="
 ---
 

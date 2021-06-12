@@ -144,6 +144,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chip Roy Tests GOP Voters’ Appetite for Trump Dissenters"
+    excerpt: "The conservative House Republican said President Biden’s victory should be certified and later challenged former President Donald Trump’s pick for party leadership."
+    publishedDateTime: 2021-06-12T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
+    ampWebUrl: "https://www.wsj.com/amp/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-352450/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump meets Republican Study Committee leaders to discuss policy agenda, path to majority"
     excerpt: "Republican Study Committee Chairman Jim Banks and members of the conservative caucus’ leadership team huddled with former President Trump to discuss their policy agenda and path to the majority in"
     publishedDateTime: 2021-06-11T02:15:00Z
