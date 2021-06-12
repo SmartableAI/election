@@ -60,6 +60,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admin dismantles VOICE, Trump office for reporting crimes by immigrants"
+    excerpt: "The Biden administration has dismantled and replaced a Department of Homeland Security office created during the Trump presidency to help victims of crimes committed by immigrants in a further break with his predecessor’s border policies. "
+    publishedDateTime: 2021-06-12T08:32:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OMEOBYxvTM/biden-voice-trump-crimes-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-voice-trump-crimes-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voice-trump-crimes-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ad17067-a7bb-4717-ae83-a79c787c209c/47e49a5a-1b58-4e8d-b007-37bc1b604909/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Vice President Kamala Harris under fire for 'disrespectful' tweet"
     excerpt: "Vice President Kamala Harris came under fire Saturday for posting a tweet about Memorial Weekend, but without mentioning the significance of the weekend. "
     publishedDateTime: 2021-05-29T23:07:32Z

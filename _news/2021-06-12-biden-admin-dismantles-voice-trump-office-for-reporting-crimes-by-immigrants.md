@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Tomi Lahren blasts Kamala Harris for failing to visit southern border"
-excerpt: "Tomi Lahren blasted Kamala Harris for her trip to Latin America and the Biden administration’s border policies Wednesday on Fox Nation’s \"Final Thoughts.\" \"Vice President Kamala Harris completed her first photo op – I mean international trip to Guatemala and Mexico this week to discover the ‘root causes’ of the border crisis,"
-publishedDateTime: 2021-06-10T04:35:00Z
-originalUrl: "https://www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border"
-webUrl: "https://www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border"
-ampWebUrl: "https://www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border.amp"
+title: "Biden admin dismantles VOICE, Trump office for reporting crimes by immigrants"
+excerpt: "The Biden administration has dismantled and replaced a Department of Homeland Security office created during the Trump presidency to help victims of crimes committed by immigrants in a further break with his predecessor’s border policies. "
+publishedDateTime: 2021-06-12T08:32:07Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OMEOBYxvTM/biden-voice-trump-crimes-immigrants"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OMEOBYxvTM/biden-voice-trump-crimes-immigrants"
+ampWebUrl: "https://www.foxnews.com/politics/biden-voice-trump-crimes-immigrants.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voice-trump-crimes-immigrants.amp"
 type: article
-quality: 135
+quality: 187
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b5947c-8552-4d6d-9763-85ee44edcf7e/4191dba7-60a9-4e8e-a245-8c009da4f2bb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ad17067-a7bb-4717-ae83-a79c787c209c/47e49a5a-1b58-4e8d-b007-37bc1b604909/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -61,22 +60,6 @@ related:
     quality: 190
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81fc7535-244e-4fa9-a0dd-64b86e840e26/01e03745-7cfa-494c-9050-32157a24947e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden admin dismantles VOICE, Trump office for reporting crimes by immigrants"
-    excerpt: "The Biden administration has dismantled and replaced a Department of Homeland Security office created during the Trump presidency to help victims of crimes committed by immigrants in a further break with his predecessor’s border policies. "
-    publishedDateTime: 2021-06-12T08:32:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OMEOBYxvTM/biden-voice-trump-crimes-immigrants"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-voice-trump-crimes-immigrants.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voice-trump-crimes-immigrants.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ad17067-a7bb-4717-ae83-a79c787c209c/47e49a5a-1b58-4e8d-b007-37bc1b604909/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -460,6 +443,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tomi Lahren blasts Kamala Harris for failing to visit southern border"
+    excerpt: "Tomi Lahren blasted Kamala Harris for her trip to Latin America and the Biden administration’s border policies Wednesday on Fox Nation’s \"Final Thoughts.\" \"Vice President Kamala Harris completed her first photo op – I mean international trip to Guatemala and Mexico this week to discover the ‘root causes’ of the border crisis,"
+    publishedDateTime: 2021-06-10T04:35:00Z
+    webUrl: "https://www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border"
+    ampWebUrl: "https://www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tomi-lahren-kamala-harris-visit-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b5947c-8552-4d6d-9763-85ee44edcf7e/4191dba7-60a9-4e8e-a245-8c009da4f2bb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris Tells Migrants Not to Come to U.S., Lays Out Anti-Graft Steps"
     excerpt: "Vice president discusses with Mexican and Guatemalan leaders how to stem the immigration surge at the U.S. southern border during her first trip abroad in the Biden administration."
     publishedDateTime: 2021-06-08T18:20:00Z
@@ -695,6 +694,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "MSFmSUbK2NKPoDqBmqtg7oznAtrJpXAUOtvZ8efEMry7O1zm1663Lu0hnZbEKauG6zfpiVudxlCfgNOpFUruYzzB9dazcWkLtL58otFpmAaJwW8dAVtskghwClGWiKyPtX678f3yna9pe92k85QmqSqy+oMsYtSXpSvPUjb/vh5nArHq+Z+mxsnWWDtNMG5bNJmSzFIAYldpagqhzvfgu82dlyahYTSAyY3DIVTv1+dY4ZcicIbD49qXGwQo08ZSZPR6g31eNeR0vlFS+w5YbwsJFJtaT87J0S9oIyVZ0HbhCZI4Ho720lKw1Y85nryjewl5r/jHsDxjNaqcQ1zz4z6PFpbkOdixJFpAf0IP2xM=;yrAd2huz+2vF7BimgZYmJg=="
+secured: "spNVgAn6ldZMOEghFYaQ4rensOoPadfrW6CujSKmGNhFhYJJ/ZZZ/I7S3qOBwuxLwOU++V+5sXfBfsAb7FACql5PME7iyfM71/mVaYQOYAQ++LCqXVyB1JV7VbhZkCJhPL1lJql7Lfk6+SZ29ls0eyg1ONt7tW6EHSmgXd7OkLnjH947M0ltj0e+GRRRx9u95XVEJ9Ahoh8ULLXeyY8w/6LDaqFiw+eY8f5qkN+BR7npJoC66dQQUnAeY9DPJld+VstNBk0B4cbUDfo88BrWFswZjJGObN/mEx55xMc6wDJ9CFYzWx6AwehCfEt1/2R0kkdzGLEoz/7/c4utrLc6URsKCOpysKxi2JRYSUugKCs=;Aj46uRFLWNCw4Q8ZPDrAcg=="
 ---
 

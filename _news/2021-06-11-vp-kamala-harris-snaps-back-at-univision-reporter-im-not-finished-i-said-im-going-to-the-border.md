@@ -1,34 +1,30 @@
 ---
 category: news
-title: "AOC calls Harris' immigration comments 'disappointing' as VP warns migrants 'do not come'"
-excerpt: "New York Democrat Rep. Alexandria Ocasio-Cortez called Vice President Kamala Harris’ comments on immigration “disappointing” on Monday, after Harris said during a press conference that migrants looking to cross the U.S. border should not come."
-publishedDateTime: 2021-06-08T00:24:26Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2lIM3vKflrQ/aoc-slams-vp-harris-over-border-comments"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2lIM3vKflrQ/aoc-slams-vp-harris-over-border-comments"
-ampWebUrl: "https://www.foxnews.com/politics/aoc-slams-vp-harris-over-border-comments.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-slams-vp-harris-over-border-comments.amp"
+title: "VP Kamala Harris Snaps Back At Univision Reporter: \"I'm Not Finished,\" \"I Said I'm Going To The Border\""
+excerpt: "Vice President Kamala Harris promised she will visit the U.S.-Mexico in an interview with Univision and snapped back at the correspondent when pressed on a date."
+publishedDateTime: 2021-06-11T00:00:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/11/vp_kamala_harris_snaps_back_at_univision_reporter_im_not_finished_i_said_im_going_to_the_border.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/11/vp_kamala_harris_snaps_back_at_univision_reporter_im_not_finished_i_said_im_going_to_the_border.html"
+ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/11/vp_kamala_harris_snaps_back_at_univision_reporter_im_not_finished_i_said_im_going_to_the_border.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/11/vp_kamala_harris_snaps_back_at_univision_reporter_im_not_finished_i_said_im_going_to_the_border.amp.html"
 type: article
-quality: 176
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d9eaeb4-0fac-46cc-8d39-e5d9b16c24a5/942a8b25-2a3a-41c5-9d0d-4ecbbfeb78ec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/54/545545.jpg"
+    width: 1862
+    height: 1396
     isCached: true
 
 related:
@@ -64,6 +60,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "AOC calls Harris' immigration comments 'disappointing' as VP warns migrants 'do not come'"
+    excerpt: "New York Democrat Rep. Alexandria Ocasio-Cortez called Vice President Kamala Harris’ comments on immigration “disappointing” on Monday, after Harris said during a press conference that migrants looking to cross the U.S. border should not come."
+    publishedDateTime: 2021-06-08T00:24:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2lIM3vKflrQ/aoc-slams-vp-harris-over-border-comments"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-slams-vp-harris-over-border-comments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-slams-vp-harris-over-border-comments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d9eaeb4-0fac-46cc-8d39-e5d9b16c24a5/942a8b25-2a3a-41c5-9d0d-4ecbbfeb78ec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris proves 'time and time again' she's not fit to handle border crisis: AZ sheriff"
     excerpt: "Pinal County, Arizona Sheriff Mark Lamb slammed Kamala Harris for dodging press questions about the border crisis with laughter, saying the issue is \"not a laughing matter\" and that her response proves she's not the right person for the job,"
     publishedDateTime: 2021-06-09T13:41:00Z
@@ -80,23 +92,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "VP Kamala Harris Snaps Back At Univision Reporter: \"I'm Not Finished,\" \"I Said I'm Going To The Border\""
-    excerpt: "Vice President Kamala Harris promised she will visit the U.S.-Mexico in an interview with Univision and snapped back at the correspondent when pressed on a date."
-    publishedDateTime: 2021-06-11T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/11/vp_kamala_harris_snaps_back_at_univision_reporter_im_not_finished_i_said_im_going_to_the_border.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/11/vp_kamala_harris_snaps_back_at_univision_reporter_im_not_finished_i_said_im_going_to_the_border.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/11/vp_kamala_harris_snaps_back_at_univision_reporter_im_not_finished_i_said_im_going_to_the_border.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 69
-    images:
-      - url: "https://assets.realclear.com/images/54/545545.jpg"
-        width: 1862
-        height: 1396
-        isCached: true
 
-secured: "Rw3wu+/k51qUANuAZNXHLEfVB0jDwxAl8hiI2uWZHknTQVAZcc1ho4Q1+A6mdvb9H6KUjbXWyHb1KWpZYWjB4U/nA0hV7xj5PzpkT070gOTjo+oABc01YUqnCj7C7n83g7V2K2jB91O0YefduaXI9ZdRZ9Iq/8zuhAsav2jtPDYJ5aSkhLAPDHszMC4ETEiVxJ3efNW+8avRqhJO/dovl43o06sOGHdm0FIK8DE6d/yljq/76LGliCXnlcs6T9/GXK2A5BnqPOtKxts6kYmZF5zYoDJ20AQnZDwU0wfUTcbZKQ+FSQA1MsebFsk2uO97IAula//lu80/iOYnNGQz5a3K/s6qKFO+mt7F0uH2zMI=;KSt4iQEpeYmjOIvfxrO49Q=="
+secured: "Ag0pstYzqHp+yVbPmxW7C3Oe+blyfLiYtMx3yj6SLFhnJXa05VYRdo07vYJMPjz1tpbKhsV1m/cC3wRkKLw4ORLMI3B8GUkxPmuipkvdL+vIsC4snqZT3pC2m7fh9FZvy+a1dfalQcJmIPQMSOUNp18rVwd56skNj2k1QuIgfXbSG9jwXfmhzReILmaAScgqOAd5qVj2BtH4plxjPBMniloaU9LE7bKy5lOMxq9IKG3ouRnpTIUOVpZSlIDTWBDYeQer3EX037UPAjNPs3nlMYfHawTX4j/n7JEhZQ6TY4mfiGY/ggvw66SzK2WAFAoygJ/5s8j+Zp6DYQdXT8e1udkkLFx0djJyvzqn66+i244=;4iLpSuUeDAi8HMrPD89OBw=="
 ---
 

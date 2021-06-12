@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-harris-may-go-to-the-bo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-may-go-to-the-border-at-some-point.amp"
 type: article
 quality: 185
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c473241f-b4db-48b6-90a1-8cae4c4a45fd/397c4270-1a1d-4507-aee5-6da181aa7cc5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "VP Kamala Harris Snaps Back At Univision Reporter: \"I'm Not Finished,\" \"I Said I'm Going To The Border\""
+    excerpt: "Vice President Kamala Harris promised she will visit the U.S.-Mexico in an interview with Univision and snapped back at the correspondent when pressed on a date."
+    publishedDateTime: 2021-06-11T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/11/vp_kamala_harris_snaps_back_at_univision_reporter_im_not_finished_i_said_im_going_to_the_border.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/11/vp_kamala_harris_snaps_back_at_univision_reporter_im_not_finished_i_said_im_going_to_the_border.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/11/vp_kamala_harris_snaps_back_at_univision_reporter_im_not_finished_i_said_im_going_to_the_border.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 69
+    images:
+      - url: "https://assets.realclear.com/images/54/545545.jpg"
+        width: 1862
+        height: 1396
         isCached: true
 
 secured: "B7C8e+1qqnuL6BIQh9OkC8uaTlxKdYFwYk7fTyszsuASO3y95SupuWiw9eoCxCN5qh/MKD08aCRuIaBv0/RQ3Tpck8ML/GjbcJNkcI7XUe5cJ771vs7PZfBTj0gAoiYhc3w26DMqcCUbMOq2pnu7GzTyRUnHlJkHP9a6+sEKIb+Ke5g0cTzhZ9N8rVyMkUirhTfPAZbgbNsGqLQQ3jMyPNx1db2mCoF7qUuvrB4SNNxFwsmWdAZ0oC1+iySJwwxJOrIGRP8P3brCVTZQ+3CWxI8DUV6d4DtmWocSqPJ9YA2UKyhAe8LjZ2u3jdycjfyW838oJx2qe0xBe8CH7fbtTUnsBgmyhUM1L62Xud5Mqig=;rOaifHWbBKOn/WUr47ZfsA=="

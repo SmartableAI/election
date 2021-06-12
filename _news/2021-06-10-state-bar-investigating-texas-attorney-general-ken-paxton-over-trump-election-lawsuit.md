@@ -47,6 +47,22 @@ related:
         width: 726
         height: 545
         isCached: true
+  - title: "Brad Raffensperger Bemoans Ongoing Threats to Election Workers Over Trump Claims"
+    excerpt: "Georgia Secretary of State Brad Raffensperger has called on elected officials to take action on threats against election officials because of \"continuing\" false claims about the 2020 presidential election."
+    publishedDateTime: 2021-06-12T09:30:00Z
+    webUrl: "https://www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038"
+    ampWebUrl: "https://www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1819829/brad-raffensperger-speaks-stage-2020.jpg"
+        width: 3648
+        height: 2432
+        isCached: true
   - title: "First Thing: ‘Teflon Don no more’ as legal threats mount against Trump"
     excerpt: "Former president faces increasingly serious legal issues as he teases a 2024 run. Plus, how cicada-phobes are surviving Brood X"
     publishedDateTime: 2021-06-08T08:31:00Z

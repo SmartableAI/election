@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-packing-their-bags-thi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp"
 type: article
 quality: 192
-heat: 1032
+heat: 1052
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 190
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81fc7535-244e-4fa9-a0dd-64b86e840e26/01e03745-7cfa-494c-9050-32157a24947e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden admin dismantles VOICE, Trump office for reporting crimes by immigrants"
+    excerpt: "The Biden administration has dismantled and replaced a Department of Homeland Security office created during the Trump presidency to help victims of crimes committed by immigrants in a further break with his predecessor’s border policies. "
+    publishedDateTime: 2021-06-12T08:32:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OMEOBYxvTM/biden-voice-trump-crimes-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-voice-trump-crimes-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voice-trump-crimes-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ad17067-a7bb-4717-ae83-a79c787c209c/47e49a5a-1b58-4e8d-b007-37bc1b604909/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

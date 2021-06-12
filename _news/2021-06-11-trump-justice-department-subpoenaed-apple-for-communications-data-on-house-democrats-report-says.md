@@ -47,6 +47,22 @@ related:
         width: 726
         height: 545
         isCached: true
+  - title: "Brad Raffensperger Bemoans Ongoing Threats to Election Workers Over Trump Claims"
+    excerpt: "Georgia Secretary of State Brad Raffensperger has called on elected officials to take action on threats against election officials because of \"continuing\" false claims about the 2020 presidential election."
+    publishedDateTime: 2021-06-12T09:30:00Z
+    webUrl: "https://www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038"
+    ampWebUrl: "https://www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1819829/brad-raffensperger-speaks-stage-2020.jpg"
+        width: 3648
+        height: 2432
+        isCached: true
   - title: "State bar investigating Texas Attorney General Ken Paxton over Trump election lawsuit"
     excerpt: "A Democratic Party activist complained that Ken Paxton's challenge to President Joe Biden's victory in four states was frivolous and unethical."
     publishedDateTime: 2021-06-10T12:37:00Z

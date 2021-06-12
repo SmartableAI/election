@@ -58,6 +58,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admin dismantles VOICE, Trump office for reporting crimes by immigrants"
+    excerpt: "The Biden administration has dismantled and replaced a Department of Homeland Security office created during the Trump presidency to help victims of crimes committed by immigrants in a further break with his predecessor’s border policies. "
+    publishedDateTime: 2021-06-12T08:32:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OMEOBYxvTM/biden-voice-trump-crimes-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-voice-trump-crimes-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voice-trump-crimes-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ad17067-a7bb-4717-ae83-a79c787c209c/47e49a5a-1b58-4e8d-b007-37bc1b604909/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Vice President Kamala Harris under fire for 'disrespectful' tweet"
     excerpt: "Vice President Kamala Harris came under fire Saturday for posting a tweet about Memorial Weekend, but without mentioning the significance of the weekend. "
     publishedDateTime: 2021-05-29T23:07:32Z
@@ -675,6 +691,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "XxIqnvDenMxfEEHLe9J1A4q/1mRCwLo45HWG/HhtBAAaboaONdyKDjX9mQ+UUxspX5ARlxI2GLIkp2ooTQr5Z0jsSL+sZq7TbW4x/aKB2aNO64cwvuO/bYXlQKoVyB6V58Gs3By9RG9XmnvEMXZV5jAwgZ5E1ZVaDwqGpUFF3s8yO1MbhT37KI4OIz9FfvmXFq8y7OwX6oQqo/qoEdfT6/cv7dggxkHpa7/L8qlnlfNLU5zvOul8Bbwg7c/olXij9IqW5TBHp5IcqQxgCahCRpChHaMV6h9My3lGWZxHs8XIdW6wuvq38+l8uaQ5aKbjQFJ+vros70iSEzjcAXmiekB2xf1Q+1f9yxW3aVSxIpI=;TJb19EqTVYUh3hayWP1nig=="
+secured: "VSVp828b0Y4fu0DbpY0mtDKZSm3cj/UkgJfRzdNqVUn2GA20PWl6ns7FH4pII8yzn2kzLb16m1SzJYNVpJxhwoLIkMIPobm3qPk4gSqE0mq1bVuHf01g6coSQ89+tK7lpcs7MiI02O8zjPx7oXzh0A2oxD539TmtGOyraVLym2U3TKCErRzM5zhBarSyferK5LRy/6/P3Q8Fzp0ZuM9lDpvZris0pzLnYAmgFf4OinBtIBweYgZIsDgifdwcv4oW1oksZe+CqL9kB7q/L1+7QcQVZraBIbA8sIh5h0COHhKiSldXMFwMv9JaJfc22KhmOp/B1lOFh/ARxUMxCi06C8SYd9xb9vRWtD5baRhrtE8E0gGXZorc4xb+wGCw+qPnnkn6O2U54A4Z8VXWLWdPgkS05ra9wG84SFlyuXJZtM2+bA+napvhYplJkdldVfZKcQ3i3vivJWGrktqoehuLV2LL2lCQO5DWND56tuxBGSJGYLhZJ3aAo0q4M76hgGUPMAEbsQzPum12wTJwN0wo6g==;f/O0jAC0pdm2TbzHSbSNAw=="
 ---
 

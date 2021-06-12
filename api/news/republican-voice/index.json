@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-12-biden-pick-for-navy-secretary-is-cuban-born-carlos-del-toro-a-22-year-navy-veteran.md",
+      "title": "Biden pick for Navy secretary is Cuban-born Carlos Del Toro, a 22-year Navy veteran",
+      "excerpt": "President Biden said Friday he plans to nominate Carlos Del Toro for secretary of the Navy. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7Vt4u_iRGA/biden-nominates-carlos-del-toro-as-navy-secretary",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7Vt4u_iRGA/biden-nominates-carlos-del-toro-as-navy-secretary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/535d031e-e499-41ed-984b-bf132bd69c5b/7a7138b9-bda4-45c9-94ec-9d533682eec7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-carlos-del-toro-as-navy-secretary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-carlos-del-toro-as-navy-secretary.amp",
+      "publishedDateTime": "2021-06-12T01:14:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.md",
       "title": "AOC’s aunt says blame Puerto Rico pols, not Trump, for ‘abuela’ misery: report",
       "excerpt": "If the grandmother of U.S. Rep. Alexandria Ocasio-Cortez has suffered in Puerto Rico since Hurricane Maria in 2017, then Puerto Rican politicians are to blame, not former President Trump.",
@@ -1452,7 +1508,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1607,62 +1663,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-obama-reacts-to-rise-in-anti-semitism-says-trump-fanned-those-flames.md",
-      "title": "Obama reacts to rise in anti-Semitism, says Trump 'fanned those flames'",
-      "excerpt": "Former President Barack Obama is pointing to his successor as the reason for the rise in anti-Semitism in the United States. In an exclusive interview with Jewish Insider, Obama blamed said former President Donald Trump “fanned those flames\" during his tenure in office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAJLo3HclHs/obama-reacts-rise-antisemitism-trump-fanned-flames",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAJLo3HclHs/obama-reacts-rise-antisemitism-trump-fanned-flames",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2e4f9aa-47a8-4f80-9d23-fab0e07698c6/59c03c6e-b1f3-4809-b8f0-009b923c55ae/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/obama-reacts-rise-antisemitism-trump-fanned-flames.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-reacts-rise-antisemitism-trump-fanned-flames.amp",
-      "publishedDateTime": "2021-06-07T16:07:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

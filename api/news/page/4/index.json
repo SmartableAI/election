@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-08-kamala-harris-guatemala-comments-wouldve-led-media-to-brand-her-a-racist-6-months-ago-gutfeld-says.md",
+      "title": "Kamala Harris' Guatemala comments would've led media to brand her a 'racist' 6 months ago, Gutfeld says",
+      "excerpt": "Vice President Kamala Harris issued cautionary remarks directed people who may seek to illegally immigrate to the US through the southern border, which Greg Gutfeld commented that those remarks would be considered racist during the Trump administration on \"The Five\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld",
+      "originalUrl": "https://www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00b804f7-55d2-43fd-8325-c596d752f467/6a0dfc8a-4dfe-456b-8ac8-621f5c277501/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-guatemala-comments-media-brand-her-racist-months-ago-gutfeld.amp",
+      "publishedDateTime": "2021-06-07T17:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-obama-reacts-to-rise-in-anti-semitism-says-trump-fanned-those-flames.md",
       "title": "Obama reacts to rise in anti-Semitism, says Trump 'fanned those flames'",
       "excerpt": "Former President Barack Obama is pointing to his successor as the reason for the rise in anti-Semitism in the United States. In an exclusive interview with Jewish Insider, Obama blamed said former President Donald Trump “fanned those flames\" during his tenure in office.",
@@ -1311,63 +1368,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.md",
-      "title": "Biden, Harris packing their bags this week for first foreign trips since taking office",
-      "excerpt": "After more than four months in office, President Joe Biden and Vice President Kamala Harris are both planning this week to leave the U.S. and take the first foreign trips of their administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_1JAu3opITA/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_1JAu3opITA/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1032,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d804ca7-92c4-4052-92f1-2c73cbe36b5c/0a7739a1-8be0-4390-891e-d5b2a298df51/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-packing-their-bags-this-week-for-first-foreign-trips-since-taking-office.amp",
-      "publishedDateTime": "2021-06-05T21:53:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

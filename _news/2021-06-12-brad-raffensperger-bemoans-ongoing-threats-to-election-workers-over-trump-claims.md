@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest"
-excerpt: "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it."
-publishedDateTime: 2021-06-11T23:35:00Z
-originalUrl: "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/"
-webUrl: "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7662402002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7662402002"
+title: "Brad Raffensperger Bemoans Ongoing Threats to Election Workers Over Trump Claims"
+excerpt: "Georgia Secretary of State Brad Raffensperger has called on elected officials to take action on threats against election officials because of \"continuing\" false claims about the 2020 presidential election."
+publishedDateTime: 2021-06-12T09:30:00Z
+originalUrl: "https://www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038"
+webUrl: "https://www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038"
+ampWebUrl: "https://www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038?amp=1"
 type: article
-quality: 96
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2018/11/06/USAT/07f2e10a-a895-4a3b-8a78-4ca7d17513ae-Alaska_110618.jpg?auto=webp&crop=599,335,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 671
+  - url: "https://d.newsweek.com/en/full/1819829/brad-raffensperger-speaks-stage-2020.jpg"
+    width: 3648
+    height: 2432
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210611&t=2&i=1565350857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5A0O4"
         width: 726
         height: 545
-        isCached: true
-  - title: "Brad Raffensperger Bemoans Ongoing Threats to Election Workers Over Trump Claims"
-    excerpt: "Georgia Secretary of State Brad Raffensperger has called on elected officials to take action on threats against election officials because of \"continuing\" false claims about the 2020 presidential election."
-    publishedDateTime: 2021-06-12T09:30:00Z
-    webUrl: "https://www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038"
-    ampWebUrl: "https://www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 135
-    images:
-      - url: "https://d.newsweek.com/en/full/1819829/brad-raffensperger-speaks-stage-2020.jpg"
-        width: 3648
-        height: 2432
         isCached: true
   - title: "State bar investigating Texas Attorney General Ken Paxton over Trump election lawsuit"
     excerpt: "A Democratic Party activist complained that Ken Paxton's challenge to President Joe Biden's victory in four states was frivolous and unethical."
@@ -217,6 +201,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest"
+    excerpt: "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it."
+    publishedDateTime: 2021-06-11T23:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7662402002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7662402002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/11/06/USAT/07f2e10a-a895-4a3b-8a78-4ca7d17513ae-Alaska_110618.jpg?auto=webp&crop=599,335,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 671
+        isCached: true
   - title: "Trump's Justice Department targeted Democrats in Congress in search for source of leaks related to the Russia investigation, New York Times reports"
     excerpt: "Officials subpoenaed Apple for communications data of Reps. Adam Schiff and Eric Swalwell, as well as their families and staffers."
     publishedDateTime: 2021-06-11T03:20:00Z
@@ -316,6 +316,6 @@ related:
       domain: usnews.com
     quality: 52
 
-secured: "v00eHhj7KanWfbEC+I617P3p908APstR4tiBx/KxFBv9hSgqxiASoQGT1hXvHhkp0hDL1lUIfO+5nl6S2L0TLEfTNU59GIdxD2l9f4uDo4aG93vS9e9hHN6viPAxOPnyLGRSE3H0CW+ro0kinTNTuW4DWllm9sn+EH0tVA0Q0XwgUcVFU8xfgaSBFkf4FMZPRdt/KlGroanGohhi5YFFgOvMwFKa3+AqHblQD674pWYYztPa3tTWX1ogbgkIPm/Hk0mYLh57Q5gMwYTfFztBIIhfOOIAhg2oLHerdjoN4PamP/SFOv8P1s9qaqGDrbSP8YZmXQ5zBXdpS0Xw0cy7J26KJHXgs1lyH8SfxTfgsGo=;v6VGCSbJB3rxfOosIglA9A=="
+secured: "0LpRTx7DjUdjsHsMiDtbve8zSqOTyFCeoX3xCCamFVH046qeYjPZzRDX571GjtSLBX9t0/Kmii/mYr5lCjj/8xeDaTUUhoMP+5Gw07QKqrexNRwx5OENMKM9fryWnvhTRTuHJ54BMMNTJh2Di0WWm369oYvmvDPLyb54O0bqcPZnc+4CxkmWHcTWzzthJ5fXMwKQu+H3tHKyviP7UVz41qKd2/oPfLcamLp8rzehrHZfLfgNAyROYm6ALvfddk3xz9euPao0egud839J/69+LxqQ3nvyByDSHOEWrSlMQgkzGAM+sMqcF57HUDQTXnezbZfKiu9N455w3PDb2OXxT0OkgTuH5gyT21/UZX3kMAA=;E4D+smHmLEOB1beMQji6iA=="
 ---
 

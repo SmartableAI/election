@@ -80,6 +80,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "VP Kamala Harris Snaps Back At Univision Reporter: \"I'm Not Finished,\" \"I Said I'm Going To The Border\""
+    excerpt: "Vice President Kamala Harris promised she will visit the U.S.-Mexico in an interview with Univision and snapped back at the correspondent when pressed on a date."
+    publishedDateTime: 2021-06-11T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/11/vp_kamala_harris_snaps_back_at_univision_reporter_im_not_finished_i_said_im_going_to_the_border.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/11/vp_kamala_harris_snaps_back_at_univision_reporter_im_not_finished_i_said_im_going_to_the_border.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/11/vp_kamala_harris_snaps_back_at_univision_reporter_im_not_finished_i_said_im_going_to_the_border.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 69
+    images:
+      - url: "https://assets.realclear.com/images/54/545545.jpg"
+        width: 1862
+        height: 1396
+        isCached: true
 
 secured: "zeopeshrGJosj16YuYe/o/WZQ1Bp0Ymb7StGjmr7H2zVxPXovTEKYuNfrZNX/lBYT9IXN4r7DcbVIQ/mRWfgS6/tlQ5rLpR9ic9BP/vZmUc/8pOmfnvW12bkuOFHZYFloGjS9XyZinemjpACRaD+h/r4/y4A6EU/uf5b1vT1WRWIMUGTwjQjc3Ok3Zgyhq23ORH5bYd0r55skO6XIXtrTRfdpf/DaCyzcF1uGeNWLBh+l9hq1WB400lGqtJp+8MxvxtwTGA6hKDmMXvizjyJcqBFXX+zXAxEraT/emM59HmCIuleL39TYqwkf5Yu2v0mJgl9zL+Vrf8ao/0jUWKFqYYd4CysMfg93zWspflKg3w=;VdedX5/VBvR7SNOcxLyweg=="
 ---
