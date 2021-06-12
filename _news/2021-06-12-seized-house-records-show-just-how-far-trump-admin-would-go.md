@@ -2,32 +2,28 @@
 category: news
 title: "Seized House records show just how far Trump admin would go"
 excerpt: "Former President Donald Trump has made no secret of his long list of political enemies. It just wasn't clear until now how far he would go to try to punish them. Two House Democrats disclosed this week that their smartphone data was secretly obtained by the Trump Justice Department as part of an effort to uncover the source of leaks related to the investigation of Russian-related election interference."
-publishedDateTime: 2021-06-12T04:07:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/seized-house-records-show-trump-admin-78234981"
-webUrl: "https://abcnews.go.com/Politics/wireStory/seized-house-records-show-trump-admin-78234981"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/seized-house-records-show-trump-admin-78234981"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/seized-house-records-show-trump-admin-78234981"
+publishedDateTime: 2021-06-12T08:08:00Z
+originalUrl: "https://www.chron.com/news/article/Seized-House-records-show-just-how-far-Trump-16242944.php"
+webUrl: "https://www.chron.com/news/article/Seized-House-records-show-just-how-far-Trump-16242944.php"
+ampWebUrl: "https://www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242944.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242944.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_67cc328980c24ec19d938b906ffcbb54_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -217,6 +213,6 @@ related:
       domain: usnews.com
     quality: 30
 
-secured: "ofGXk4ZnadWyhmeerf8Cf6X1GLwHGZPwRZYWUYUkwC0/4rpNpq2WFDKPLTl2zgNjSJljSEuMt9bFer1ou0KN36+URueyQGZ7vPB9JQppHO91xmQ8MrrHaXG2yEkcSb65f7z2pl05C5NIot10typvQMXer1J8DzmODhJQbGnsvckrMrR6kcKsTQAvsqitYLSCZj+yK/zPzfNGWIovI8kOwbm5aUGvg+fLFcU8kd8XZbzWSBpks1EN6/GWcTWaWvaAon3KkOGaS64dmsSNcrHQ3cHszkHSW7U11/4295wpvfU8YcLciFSftKeYtcebangNrsBYtqekhYw1pqy+Tbqu0kdDsMTGOkFAv+thWZXxYdy9uMwqZgeBFlQpXtr0teeoW9dqric+R5WWXmDM4Jj6zkV/O+UJIEzHl0wT18h1J2vjXoKq+78kpvDSkxscOttubgblWZ0V19mblwfxg2lyMYVnF6Jv5/eO1uvYy+QaLtWGbqQORHfg/eA1E2xitiA+/JYN7n91rup4zmyLLRZPcA==;SGYJsbSknIhO/d0iOC+22Q=="
+secured: "rAfq6tP8f464Eeulh+XnsBtSybrwlKFUiqH51GfHXnZdXUuAwjFBN8g5P6uorzhlv8ojUrh2lQgXsVcUNoulV4M17EOO7uCc8hPZ2SoHFT1BKdHQIdXzXIDfkQPhnMeumNQVjJgLgkXoa6RNaexAKZ50xRUJuzMmNJwrxKBWgtWKZzfjzQjvppYMQVt3Dxw8SP8svL3Rh9gnWW2im4GjTb0uTDOj48kyuTaT55MZivvMPD8F921BrTcG7rUBDzGwuSgzMR2a7u3hxnjzuT4ufD8OEWPZwKayXmxGhRUavjgOaV+BCNPLszk71XQAAoj3nGybVbqxRB/sxg5wKADattiUkMk3NFNNCAZSL29mzrI=;E8nB72qVGE0NQaxXh4Pzsg=="
 ---
 

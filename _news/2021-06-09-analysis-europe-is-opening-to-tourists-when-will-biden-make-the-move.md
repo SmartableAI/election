@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/what-matters-travel-rest
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/what-matters-travel-restrictions/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden's preaching the benefits of democracy in Europe, but new concerns rise back home"
+    excerpt: "President Joe Biden's attempts to talk up democracy in Europe this week are facing headwinds from back home, where revelations about the Justice Department's attempts to obtain Democrats' data have raised new concerns about the state of American politics.\n    \n"
+    publishedDateTime: 2021-06-12T08:19:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7DfsZnAxpT0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/president-biden-g7-day-2/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/president-biden-g7-day-2/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611100750-03-g7-family-photo-0611-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Biden Departs for Europe to Bolster Alliances"
     excerpt: "President Biden, in the first foreign trip of his term, will make the case that America is back and ready to lead anew. Before he left, Mr. Biden cut off infrastructure talks with Republicans that had failed to yield a deal,"
     publishedDateTime: 2021-06-09T08:43:00Z

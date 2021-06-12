@@ -495,6 +495,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden administration dismantles Trump-era office for victims of immigrant crime"
+    excerpt: "The move symbolizes President Joe Biden's rejection of former President Donald Trump's repeated efforts to link immigrants to crime."
+    publishedDateTime: 2021-06-12T12:23:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-administration-dismantles-trump-era-office-victims-immigrant-crime/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-administration-dismantles-trump-era-office-victims-immigrant-crime/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-administration-dismantles-trump-era-office-victims-immigrant-crime/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 136
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/12/09b44ba6-7f61-4319-890e-0fd643387822/thumbnail/1200x630/845ae4c46ea478f87afe0939d5b1fe54/ap21162594467332.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden's first budget fuels health, education spending in sharp change from Trump"
     excerpt: "WASHINGTON (Reuters) -U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence and to support education in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion ..."
     publishedDateTime: 2021-04-09T16:19:00Z
@@ -1874,6 +1890,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Biden's G7 Charm Offensive Draws Line Under Trump Era"
+    excerpt: "\"Everybody in the water!\" President Joe Biden joked to his fellow G7 leaders at a family photo on the beach, underlining an assured transformation in tone from the antagonistic Donald Trump. Where Trump alienated and exasperated,"
+    publishedDateTime: 2021-06-12T12:55:00Z
+    webUrl: "https://www.ibtimes.com/bidens-g7-charm-offensive-draws-line-under-trump-era-3224282"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/12/mocked-by-trump-as-sleepy-joe-biden-has.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Hear how Putin compared Donald Trump to Joe Biden"
     excerpt: "In an interview with NBC, Russian President Vladimir Putin discussed the relationship between his country and the US, and compared President Biden to his predecessor Donald Trump. CNN's Kaitlan Collin"
     publishedDateTime: 2021-06-11T23:09:00Z

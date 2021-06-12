@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden aims to counter China's global infrastructure project with new G7 initiative"
+    excerpt: "The United States says it will be a lead partner in a new global, climate-friendly infrastructure program with its Group of 7 partners, part of President Joe Biden's larger efforts at the G7 summit to better position the US and its allies to compete with China in the aftermath of the coronavirus pandemic.\n"
+    publishedDateTime: 2021-06-12T13:47:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7MH-1jvyQYw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/joe-biden-china-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/joe-biden-china-infrastructure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611101015-03-g7-biden-macron-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to meet with UK Prime Minister, Turkish President and other world leaders during first foreign trip"
     excerpt: "President Joe Biden will meet with United Kingdom Prime Minister Boris Johnson, Turkish President Recep Tayyip Erdogan and other world leaders during his first international trip as President next week, the White House announced Thursday.\n    \n"
     publishedDateTime: 2021-06-03T15:16:12Z

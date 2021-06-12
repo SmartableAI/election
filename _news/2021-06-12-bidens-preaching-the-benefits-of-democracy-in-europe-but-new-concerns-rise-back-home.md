@@ -1,0 +1,69 @@
+---
+category: news
+title: "Biden's preaching the benefits of democracy in Europe, but new concerns rise back home"
+excerpt: "President Joe Biden's attempts to talk up democracy in Europe this week are facing headwinds from back home, where revelations about the Justice Department's attempts to obtain Democrats' data have raised new concerns about the state of American politics.\n    \n"
+publishedDateTime: 2021-06-12T08:19:52Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7DfsZnAxpT0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7DfsZnAxpT0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/president-biden-g7-day-2/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/president-biden-g7-day-2/index.html"
+type: article
+quality: 167
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611100750-03-g7-family-photo-0611-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Analysis: Europe is opening to tourists. When will Biden make the move?"
+    excerpt: "Two completely different takes on whether travelers should have to prove vaccine or Covid test.\n    \n"
+    publishedDateTime: 2021-06-09T22:28:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hJ3i5-8xSzk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/what-matters-travel-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/what-matters-travel-restrictions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928115533-01-paris-skyline-pfw-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Live Updates: Biden Departs for Europe to Bolster Alliances"
+    excerpt: "President Biden, in the first foreign trip of his term, will make the case that America is back and ready to lead anew. Before he left, Mr. Biden cut off infrastructure talks with Republicans that had failed to yield a deal,"
+    publishedDateTime: 2021-06-09T08:43:00Z
+    webUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/09/world/09dc-tiktok-1/09dc-tiktok-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "829+i0s34S/1zxf3Eo8/ITAl++CgwpL02+kEyOtQ9T/57NGAZbjsue7lfeXqXdtoKUbEA0ri1+BvsnwKY+jDFbDz5cjFr56un4RbkOuWM1bwEfNxgMmgL44si+n2N9acXtCO+Op5WpvF/X4YmsN7SGYMbvga3CrMGjdcHxQwcnJHwCET9oG1RH73SVxcD4rna3f92KhFPNGsjACkTYOTcd4g+i5jQNxs3vLOzpLpI6Ozwfoewx8q6nNROQYWBEnMNUwQhBb1wMUcyTHvg1TZQdq3AQPckOSI9S/SHlrCVztVjNeUqUNLTXeSfAj/wgp0CIS4XYamV8N96GWF1ZB6X1yABZIiV7MCEFuQlxdLJ2k=;yZMiYHXq5W2fslnYmxMoGA=="
+---
+

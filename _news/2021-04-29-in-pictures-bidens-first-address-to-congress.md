@@ -301,6 +301,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Infrastructure in America needs an upgrade. Here's how Biden's plans would impact key areas of American life."
+    excerpt: "The nation's infrastructure is sorely in need of repair. It recently earned a C- score from the American Society of Civil Engineers, which said an additional $2.6 trillion in funding is required over the next decade.\n    \n"
+    publishedDateTime: 2021-06-12T12:07:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f5I0uSPmNa0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/infrastructure-biden-plan-impact/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/infrastructure-biden-plan-impact/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610172654-iowa-wind-turbine-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden reversed Trump on the Keystone XL pipeline. Native American groups want more."
     excerpt: "Native American and Indigenous peoples groups said they know they have an ally in Biden. But they are all too familiar with the transient nature of executive action."
     publishedDateTime: 2021-04-29T15:05:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-ma
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana.amp"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 88
+published: true
 
 provider:
   name: Fox Business
@@ -25,6 +25,17 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Mike Pence, Wife Buy Suburban Indianapolis Home for $1.93M"
+    excerpt: "Former Vice President Mike Pence and his wife have purchased a $1.93 million house in suburban Indianapolis that sits on a 5-acre spread and features seven bedrooms, a swimming pool and an indoor basketball court."
+    publishedDateTime: 2021-06-12T13:29:00Z
+    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2021-06-12/mike-pence-wife-buy-suburban-indianapolis-home-for-193m"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "qENrgy+CDmr8qbqejO8MOC+tvCa+PzLRQB2YkKi35aLL4XPuo2OXOxnLOPMNzIH1frMCcbtGcFiWAyiibzElL6d5jrETg62zGmRA4x5FPrPclTNCzVkzbCWs+9uhD9+Fm5AdcT+Q5w1LoZsTG9hThRC93L57BeCwFz8XQxKE+CGJlFk9JKGlflcrqRPH3iwjhLreuI4sB8i7XP+WoNNA1FB9hu4qVi+0BtbviTJCq0nhFvtvj81wnkpjumgMhyQ6lFUcHZmLX1W7z5ZIxedwgUR6DjaRmL3GehXynxLBl0kmI4VV2rce77MK2PsTOruXUsdSx8u9FPO2OpGjUeCyW5RlYcm7lTuL7rQkPJvVnNEHznPMTSawLZh+f/gI8J8uJeC6Sap1tz1Zme/ZdcRhLQAWW8eRIEeMaeQjJtaBTvB+2iTtE6RgKVXsAer2kJPwQ42jfWc5y/clxYPYKnB7tf3i6xM0X/cVLym3dwkl0ozUGx+ryenhNXxaCJCynwnzY82tk34u0yegAdlfNM0MZw==;4MOle5vOsKh1nWuYzh6sFQ=="
 ---

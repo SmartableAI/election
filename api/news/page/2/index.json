@@ -110,6 +110,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-11-former-vice-president-mike-pence-buys-193-million-mansion-in-home-state-of-indiana.md",
+      "title": "Former Vice President Mike Pence buys $1.93 million mansion in home state of Indiana",
+      "excerpt": "Former Vice President Mike Pence and his wife, Karen, purchased a 10,349-square-foot home for $1.93 million on the outskirts of Carmel, Indiana, at the end of May, according to property records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana",
+      "originalUrl": "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d11a1cfc-5e80-48f5-960f-832aea059b86/0babdbe8-b819-4b21-9ee0-845034cf9b53/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana.amp",
+      "publishedDateTime": "2021-06-10T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-david-m-shribman-pence-hasnt-gone-away.md",
       "title": "David M. Shribman: Pence hasn't gone away",
       "excerpt": "Mike Pence is determined not to be the modern version of William R. King, William A. Wheeler or Charles W. Fairbanks.",
@@ -1041,7 +1084,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1298,62 +1341,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-nixes-trump-proposal-that-would-have-kicked-3-million-off-food-stamps.md",
-      "title": "Biden nixes Trump proposal that would have kicked 3 million off food stamps",
-      "excerpt": "In one of its latest steps to erase Trump administration policies, the Biden administration has withdrawn a controversial proposal that could have kicked 3 million Americans off of food stamps and cost nearly 1 million children automatic eligibility for free school meals.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RvTXMZPPGw4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RvTXMZPPGw4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 748,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201001121600-snap-food-stamps-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html",
-      "publishedDateTime": "2021-06-09T14:22:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

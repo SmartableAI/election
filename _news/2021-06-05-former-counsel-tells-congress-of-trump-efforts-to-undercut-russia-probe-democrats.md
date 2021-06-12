@@ -103,22 +103,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Seized House records show just how far Trump admin would go"
-    excerpt: "Former President Donald Trump has made no secret of his long list of political enemies. It just wasn't clear until now how far he would go to try to punish them. Two House Democrats disclosed this week that their smartphone data was secretly obtained by the Trump Justice Department as part of an effort to uncover the source of leaks related to the investigation of Russian-related election interference."
-    publishedDateTime: 2021-06-12T04:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/seized-house-records-show-trump-admin-78234981"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/seized-house-records-show-trump-admin-78234981"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/seized-house-records-show-trump-admin-78234981"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_67cc328980c24ec19d938b906ffcbb54_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump tells Fox News it's 'highly unlikely' he'll run for a House seat in 2022"
     excerpt: "A right-wing talk radio host speculated that Trump could run in a safe district and become House Speaker if the GOP were to flip the majority in the 2022 midterms."
     publishedDateTime: 2021-06-07T13:58:00Z
@@ -178,6 +162,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/5lHEwZNwW41aS3z0nNeW7ATYm5Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TKMNFD6XKV62M43PP2777GO3SE.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Seized House records show just how far Trump admin would go"
+    excerpt: "Former President Donald Trump has made no secret of his long list of political enemies. It just wasn't clear until now how far he would go to try to punish them. Two House Democrats disclosed this week that their smartphone data was secretly obtained by the Trump Justice Department as part of an effort to uncover the source of leaks related to the investigation of Russian-related election interference."
+    publishedDateTime: 2021-06-12T08:08:00Z
+    webUrl: "https://www.chron.com/news/article/Seized-House-records-show-just-how-far-Trump-16242944.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242944.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242944.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
     excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."

@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Most blue states will make Biden's July 4 vaccine goal. The red ones won't."
+    excerpt: "The United States looks increasingly unlikely to reach President Joe Biden's July 4 vaccine goal. We need at least 70% of all adults to have one dose of the Covid-19 vaccine, and we're on pace to have somewhere between 67% and 68%.\n    \n"
+    publishedDateTime: 2021-06-12T13:01:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cA6yFvW8Li8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/vaccinations-blue-red-states-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/vaccinations-blue-red-states-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609222745-us-coronavirus-thursday-0610-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Joe Biden asks Americans to choose country over party as restrictive Texas voting bill advances, but consensus proves elusive"
     excerpt: "President Joe Biden weighed in on the restrictive Texas voting bill that is edging closer toward passage in that state's legislature Saturday, calling it \"wrong and un-American\" as he pressed Congress to pass the \"For the People Act\" that would reverse the GOP's assault on voting rights -- one that has"
     publishedDateTime: 2021-05-30T10:19:06Z

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's preaching the benefits of democracy in Europe, but new concerns rise back home"
+    excerpt: "President Joe Biden's attempts to talk up democracy in Europe this week are facing headwinds from back home, where revelations about the Justice Department's attempts to obtain Democrats' data have raised new concerns about the state of American politics.\n    \n"
+    publishedDateTime: 2021-06-12T08:19:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7DfsZnAxpT0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/president-biden-g7-day-2/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/president-biden-g7-day-2/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611100750-03-g7-family-photo-0611-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "a70eP4ZqaiPjhIgRYW9zbhBFu0d8tC/fTxzA2L+A5IyBQ6nnbkx3yq0dVQaRWjnwnSev2vVVuGk9gUeafAhXGCYDW/DiflDDX7H4GkKlP8fcFjGMFToQduMoW8uj9zVdxd/lDCC7pTJYNZhU4o6twtqkqPWutkKwDw3fDyKbo4fpOlr2Gq26EIgdOReuWPCd7t6r3WIxa5X7C8V0s5XX4F3512rLKu5uaFPHHAX1nq27tqOpvFaJehEbp5xlu7f4ARUWBT/hZjYnnZDH0smiR/0GFSq+lC6mkEyZbb9i2laIAuKoiM8N8qMu4M+WuqcE0PywT4EdbJ7lrhE0U+ABnvvMJDERBlrOCAp1a8ehbHuocx27ZoaOc/bRCEHY9tC5JDhBkl1gGGfecBB789HDhrogNmsZ+xXILMxkdEgAHmt0FT3B6R1hSK5xjTimrg50hlZUk5w7wrqFlbrRH6OFvtzdEJNchABwVwtr49C4jtWGjZUSnxCv27L85K14Mi3VSzBKeOmR0uUoABX5l/IB1g==;KuHc4TiX1LndQvvrFPy6YA=="
 ---
