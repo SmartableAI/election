@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Macron says Biden is 'part of the club' at the G7 in leaders' first formal meeting"
+    excerpt: "US President Joe Biden and French President Emmanuel Macron held their first formal in-person meeting on Saturday, touching on the coronavirus pandemic, NATO and climate change.\n    \n"
+    publishedDateTime: 2021-06-12T15:08:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chfwjrSX2RA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/biden-macron-bilateral-g7/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/biden-macron-bilateral-g7/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611101015-03-g7-biden-macron-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

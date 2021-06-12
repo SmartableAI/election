@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/joe-biden-boris-johnson-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/joe-biden-boris-johnson-relationship/index.html"
 type: article
 quality: 166
-heat: -1
-published: false
+heat: 166
+published: true
 
 provider:
   name: CNN
@@ -29,56 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Biden stuck relying on transatlantic phone calls to salvage infrastructure priorities"
-    excerpt: "President Joe Biden came to Europe this week in part because he's grown tired of virtual meetings and telephone calls with world leaders, which he believes can't capture the essence of a face-to-face relationship.\n    \n"
-    publishedDateTime: 2021-06-09T19:34:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609131925-01-biden-overseas-trip-0609-white-house-departure-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden moves closer to filling critical cyber roles as administration is tested by attacks"
-    excerpt: "Two of the senior officials expected to round out President Joe Biden's cyber team will face lawmakers on Thursday for their confirmation hearing as the administration grapples with how to deal with the growing number of foreign ransomware attacks against American companies and organizations.\n    \n"
-    publishedDateTime: 2021-06-10T13:06:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7g96jKD9zVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/biden-administration-cyber-attacks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/biden-administration-cyber-attacks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610131048-chris-inglis-file-2013-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Live Updates: Biden Will Meet With Republicans’ Top Infrastructure Negotiator"
-    excerpt: "Democrats are ready to move on President Biden’s $2 trillion infrastructure plan unless there is a major breakthrough this week. The two sides are over $1 trillion apart in how much they want to spend,"
-    publishedDateTime: 2021-06-02T08:20:00Z
-    webUrl: "https://www.nytimes.com/live/2021/06/02/us/biden-news-today"
-    ampWebUrl: "https://www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 132
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/02/us/02new-washington-briefing-promo3/02new-washington-briefing-promo3-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "MEKnEtXv/gxbDFU08GTSVTe1Pb6k/9qBdigjJHrKpqn1ZydtnYdBHIlgZR3Qb9Po9uw3Mn44Pwvj7O+OnRiag/swObv6wXTZQyN8RL3dsZj+kuyTCknjIz3YhPz0kddyn020+w2hLQBq+mZf9TZGp8fEgUhm7Une/NgST66lYJuqs62XRqfYMHcakyjy0Ba2NLtbD+3Ba6BPwLLPZbt2NMoNRtqt5cyaAZnWolP7mugyK8DN9Aam19GAfGz7kk0eQg/1sEKPMtdlUz0r2IHadEHUephq7gDiNCNnqyN2020kFrwZ/F33NWhEbNMFRJamGclVJs3+FSutWASFuZ66s0X0QYB6R1cdcEZiu9til14=;z2MCfPF+hpNjXzIxpGbj4g=="
 ---

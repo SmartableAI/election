@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Trump DOJ Forced Apple To Hand Over Data Of Democrats In Congress: NYT"
-excerpt: "Prosecutors in the US Justice Department under former president Donald Trump seized data from Apple from two Democratic lawmakers on the House Intelligence Committee, as well as that of their staff and family members,"
-publishedDateTime: 2021-06-11T06:03:00Z
-originalUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
-webUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
+title: "Justice Department watchdog to investigate Trump administration's seizure of Democrats' phone data"
+excerpt: "The internal watchdog of the Justice Department says it will investigate the Trump administration's seizure of communications records of two Democratic members of the House Intelligence Committee. The requests were made by former Attorney Generals Jeff Sessions and William Barr in their aggressive investigation to locate the source of leaks about Mr."
+publishedDateTime: 2021-06-12T13:02:00Z
+originalUrl: "https://www.cbsnews.com/video/justice-department-watchdog-to-investigate-trump-administrations-seizure-of-democrats-phone-data/"
+webUrl: "https://www.cbsnews.com/video/justice-department-watchdog-to-investigate-trump-administrations-seizure-of-democrats-phone-data/"
 type: article
-quality: 55
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
-    width: 1024
-    height: 621
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/12/fd5b9cbf-9bff-4f48-9c0e-1b29913cb111/thumbnail/1200x630/8383da562bc52e931f338f16d0f53b94/0612-satmo-dojinvestigation-pegues-733307-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -93,20 +93,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Justice Department watchdog to investigate Trump administration's seizure of Democrats' phone data"
-    excerpt: "The internal watchdog of the Justice Department says it will investigate the Trump administration's seizure of communications records of two Democratic members of the House Intelligence Committee. The requests were made by former Attorney Generals Jeff Sessions and William Barr in their aggressive investigation to locate the source of leaks about Mr."
-    publishedDateTime: 2021-06-12T13:02:00Z
-    webUrl: "https://www.cbsnews.com/video/justice-department-watchdog-to-investigate-trump-administrations-seizure-of-democrats-phone-data/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 91
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/12/fd5b9cbf-9bff-4f48-9c0e-1b29913cb111/thumbnail/1200x630/8383da562bc52e931f338f16d0f53b94/0612-satmo-dojinvestigation-pegues-733307-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Democrat says Trump counsel recounted 'troubling events'"
     excerpt: "The closed-door interview, which came two years after House Democrats originally sought his testimony, was originally part of Democrats' efforts to investigate whether Trump tried to obstruct Justice Department investigations into his 2016 presidential campaign."
     publishedDateTime: 2021-06-04T23:46:00Z
@@ -166,7 +152,21 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump DOJ Forced Apple To Hand Over Data Of Democrats In Congress: NYT"
+    excerpt: "Prosecutors in the US Justice Department under former president Donald Trump seized data from Apple from two Democratic lawmakers on the House Intelligence Committee, as well as that of their staff and family members,"
+    publishedDateTime: 2021-06-11T06:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
+        width: 1024
+        height: 621
+        isCached: true
 
-secured: "GIsfUZfOYYSIFKMro/Ztb6dvo4IyKpKLHqK+MV8Sl0BwAi/xjRdbSR8nAzczs19OjKNvUc2Ah9X9CWUja9PzH3kSzs8pbTQok+f87rPIvSPsRfMy0+6RwwjlCUcf+nqNl56Yo+VnwSOB2iwrp2RaMFeLzo+rI9kdBaVGfWlEvl1apYpqZVH/uHNSqsudaSV7Uy58lmw0UmBjtYnBGjH1aa/GxwcbDC3oIrU0ji8UWF4OO/zsY6TcmEeEoPjgVDJIMdyxM5hkXbhLL+hoFocZYzoiLL+04rKHHVQlCjrj2nJLQ9VHhQfOc/e+Rt+tWCxOfWYPwfjqifznIJwfqUkueUmPLZCO0aj62Oe2oinOd5mkWTZFRXyuKknDnUXXbtzKi6zDMgtdH55fnaOsHxjnEZrNYaU4eCPipAwS2/vGvFGcHeroXuVMfbwMvASRggvMIZgcZq5gmGpKWK+fsOjVW6IiL4dmL/5817NwAjKuk++xHGBRlNBkYty1+/PgO2tdMFjr0R3rIYfOTY+M1Bhvxg==;2o6gui4vXG6XkwvbBk4K1A=="
+secured: "KnfsOPPcRkSq/Fnu+7RgdAqjWmslTmNe5MdYkFSNjQmEJl2pohG8gXg+SEduKUqX71XQK5i0lyYD0X7tcxwEs/z9LWlZVpojZxloq5RuolJD7chYRPVS+Gc14GbMWm2UIOin2m0Xxq25vn/ECTb8omRiYXD6Lq170JRWXm88ecFIKVDtSa6DV6U4R20VmfyrG1KM0cFTKlK+l9FCAp+JpYBB45gVnKzon8YaRVMED0RxbqUjGLSZ7K67NWlhjb7V/9EM++soYoCdYrOL0UJ2QEPbFqJLf7AUhDXCcXqXClbH5LeJtu4Jz6MyAILapr7GdnzxIfKQi4D/t+jFRMNyZUFvqMakItyHIh45dwjqMiU=;yRi/6lyjV5B4a+0NIdzUTg=="
 ---
 

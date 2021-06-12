@@ -1,14 +1,14 @@
 ---
 category: news
-title: "G7 summit: Boris Johnson praises Joe Biden as ‘breath of fresh air’ after talks – as it happened"
-excerpt: "Latest updates: prime minister welcomes US president’s desire to work with UK on issues such as security and climate crisis"
-publishedDateTime: 2021-06-10T17:13:00Z
-originalUrl: "https://www.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7?page=with:block-60c2518f8f0854de4ba6c9c6"
-webUrl: "https://www.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7?page=with:block-60c2518f8f0854de4ba6c9c6"
-ampWebUrl: "https://amp.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7"
+title: "Harry Dunn death: Johnson and Biden discuss virtual trial for US diplomat’s wife"
+excerpt: "Idea being pursued by Dominic Raab might allow Anne Sacoolas to face punishment in US"
+publishedDateTime: 2021-06-12T09:19:00Z
+originalUrl: "https://www.theguardian.com/uk-news/2021/jun/12/harry-dunn-death-johnson-and-biden-discuss-virtual-trial-for-alleged-killer?via=webuproar"
+webUrl: "https://www.theguardian.com/uk-news/2021/jun/12/harry-dunn-death-johnson-and-biden-discuss-virtual-trial-for-alleged-killer?via=webuproar"
+ampWebUrl: "https://amp.theguardian.com/uk-news/2021/jun/12/harry-dunn-death-johnson-and-biden-discuss-virtual-trial-for-alleged-killer"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/jun/12/harry-dunn-death-johnson-and-biden-discuss-virtual-trial-for-alleged-killer"
 type: article
-quality: 112
+quality: 120
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/b2e2f51ac3a62db0601d6873d3cb877c1a15c4a3/0_130_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8275ecf65705cb5f80366212805bfc06"
+  - url: "https://i.guim.co.uk/img/media/b18f3b01a545d7999777ad7e8c78381c6ad26fcd/0_25_1200_720/master/1200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f1b393cfd7213ace2b3f964d612e0d30"
     width: 600
     height: 360
     isCached: true
@@ -62,22 +62,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564736702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5609V"
         width: 816
         height: 545
-        isCached: true
-  - title: "Harry Dunn death: Johnson and Biden discuss virtual trial for US diplomat’s wife"
-    excerpt: "Idea being pursued by Dominic Raab might allow Anne Sacoolas to face punishment in US"
-    publishedDateTime: 2021-06-12T09:19:00Z
-    webUrl: "https://www.theguardian.com/uk-news/2021/jun/12/harry-dunn-death-johnson-and-biden-discuss-virtual-trial-for-alleged-killer?via=webuproar"
-    ampWebUrl: "https://amp.theguardian.com/uk-news/2021/jun/12/harry-dunn-death-johnson-and-biden-discuss-virtual-trial-for-alleged-killer"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/jun/12/harry-dunn-death-johnson-and-biden-discuss-virtual-trial-for-alleged-killer"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/b18f3b01a545d7999777ad7e8c78381c6ad26fcd/0_25_1200_720/master/1200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f1b393cfd7213ace2b3f964d612e0d30"
-        width: 600
-        height: 360
         isCached: true
   - title: "G7 summit live: Joe Biden meets Boris Johnson in Cornwall ahead of world leaders’ talks"
     excerpt: "US president arrives in Carbis Bay as world leaders assemble for in-person G7 summit"
@@ -124,6 +108,22 @@ related:
     quality: 115
     images:
       - url: "https://i.guim.co.uk/img/media/0a7222074fb55c4a71c11b92cd656fab2b73fda8/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b6696de207fa392fc74da274615771a9"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "G7 summit: Boris Johnson praises Joe Biden as ‘breath of fresh air’ after talks – as it happened"
+    excerpt: "Latest updates: prime minister welcomes US president’s desire to work with UK on issues such as security and climate crisis"
+    publishedDateTime: 2021-06-10T17:13:00Z
+    webUrl: "https://www.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7?page=with:block-60c2518f8f0854de4ba6c9c6"
+    ampWebUrl: "https://amp.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 112
+    images:
+      - url: "https://i.guim.co.uk/img/media/b2e2f51ac3a62db0601d6873d3cb877c1a15c4a3/0_130_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8275ecf65705cb5f80366212805bfc06"
         width: 600
         height: 360
         isCached: true
@@ -202,6 +202,6 @@ related:
         height: 576
         isCached: true
 
-secured: "1JRT3ze7ekfYSWbZsK6BdzJcbOGJPODUlFEnE+hHo0qupEGDHV8aX6tVeRqrl3sUJt1hO/nqBx5tOAsM8Ga/GaJs425tt9NGKCJ3hOVwL0MVr1NmTxI/kCYGd5+nJqKatz9nOy8Pe+IJGmVUMtC7PNYLtwcArxkhxTHQspkqygDyjGXod2ndYO+lZz0fflYpTHx13kmWaydQEOCuZ3uJxyXpp/JxWPfBMzUN8sIO/Gip0ZNdEPkFeNAaX7enfHgaY44YvKR1RWu/nZRbAkUASYRqwEHQh5EUsD5qYVtbJ3wNWSs8aTaenvuCUWt6B7mPy/MQa4heOJaViJRbpyzsF+skwvbybz2AhPpaZNTvwJc=;aGm/aejaLQTTynPzKddWNQ=="
+secured: "21WUsQiM4yG6fcSMxPuDn3/6arZQY2MlBpNC/fLGMbr/aCXEf27ydN0vUGL69YklAT2rMEVGtshqbBIvIbAEoIv7M7I6d+v11ySO0MTmtE2SE2tRSChwNsP8QHU1mZ9jXP/B0OcfgWWYAqaBVAsz3nP1D5TVSGNkJC9071xZOK6GGXjlqLVfsYslPBJQTWt80vvRFNXrbID6TBdrdYawFjBLTka9tCj8G4vFGYxdGZdhx6L9qriqQlD0HAbGdJ1MDAW1WqOMjXvcsNacdzqmMB3+LnxlVJDcsDHC4vvX2/MlAyr8PizrfhmKShPw59gYqt+UfYhmOTdo6LPuwR6nyhFsX9sGdZcOCIOgc8PAFmc=;SWauybV8Ln5TReX/esy65w=="
 ---
 

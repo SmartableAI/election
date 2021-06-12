@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden stuck relying on transatlantic phone calls to salvage infrastructure priorities"
-excerpt: "President Joe Biden came to Europe this week in part because he's grown tired of virtual meetings and telephone calls with world leaders, which he believes can't capture the essence of a face-to-face relationship.\n    \n"
-publishedDateTime: 2021-06-09T19:34:41Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
+title: "Biden causes sighs of relief among world leaders even as G7 divisions linger"
+excerpt: "When President Donald Trump used his elbows at international summits, it was to throw them -- on trade, on Russia and, once, they helped him remove the Montenegrin prime minister from his path to a photo-op.\n    \n"
+publishedDateTime: 2021-06-12T15:39:12Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qO9smieXdGo/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qO9smieXdGo/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/index.html"
 type: article
-quality: 168
-heat: -1
-published: false
+quality: 172
+heat: 292
+published: true
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609131925-01-biden-overseas-trip-0609-white-house-departure-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611151658-04-g7-biden-queen-elizabeth-0611-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Biden causes sighs of relief among world leaders even as G7 divisions linger"
-    excerpt: "When President Donald Trump used his elbows at international summits, it was to throw them -- on trade, on Russia and, once, they helped him remove the Montenegrin prime minister from his path to a photo-op.\n    \n"
-    publishedDateTime: 2021-06-12T15:39:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qO9smieXdGo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/index.html"
+  - title: "Biden stuck relying on transatlantic phone calls to salvage infrastructure priorities"
+    excerpt: "President Joe Biden came to Europe this week in part because he's grown tired of virtual meetings and telephone calls with world leaders, which he believes can't capture the essence of a face-to-face relationship.\n    \n"
+    publishedDateTime: 2021-06-09T19:34:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611151658-04-g7-biden-queen-elizabeth-0611-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609131925-01-biden-overseas-trip-0609-white-house-departure-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,6 +128,6 @@ related:
         height: 1666
         isCached: true
 
-secured: "yRCYD/g/BSRU0FYw/h9O1PohKUGD54YqNo9E50rpOuoEx0fGpiGjun3/9oy6OqbH4Yu/di/lORqcjlkwQwU4BjOHfFNGlyoP7BGIr6LeyE72cpJ0Y7/2S34gVu1K4jVun/2ZNY3j4KOCRn5Z0U1Mri98KpKoezlKk6Fnh/5djai762vBXZaqaFlNzgdqXRXPAnbJojAzxgJiHQhN3ezhEkhTxtqb2RB7pTllmu1KXuuB0lYjNa0T25Vvl6ZMqVpIAF9xyRuZ0a7300bMIigcA451divjSQUzEOLvBAV82Cd/qD/1GyA+6vOZA36Z4S3Cfqga4aCgE9WAPkrVdw7MvQHCvx/P5EtUc+QyjJItH4M=;zC81GjA14Gu/Pl63kiHFzA=="
+secured: "G/5gbotSyyaNqXXM0XCrDnCd7vCEzbDnJMD/6fUAYePtUk2YWmtovOEhE01uznOB92FbJwmFmjERFNQ6AhKBHLEd5NAMYCy/JMbpLofd4FatUMgbDoIPxKpKhfld8YGh2vVPYnMWI3rWIEsoaZpXADK0IoxUa227LwofFPZjCw5QSsN8SSV8K7wjC0tNbzfvsjlOIJCqzdabnyajtz4lhAxyyGlDWuuGUb0ED3hKGbeCFiCYJ10+c+qkqXEkP7SgUBXV7Sfn0NT5m5bkE4wLicziOAKszYCYdw1sF5Uf3SvFXMZR6Tw4y2bcHmahpFFBN8oYmhUYvPkCp3drm1VMS5UZfXFGs5gfoWy/ZgR7M4w=;UJ/rF8esGmUkhpVHobMH5g=="
 ---
 

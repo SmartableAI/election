@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden and Johnson to agree to new Atlantic Charter during bilateral meeting "
-excerpt: "President Joe Biden and UK Prime Minister Boris Johnson are expected on Thursday to agree to a new Atlantic Charter modeled on the historic declaration made by President Franklin D. Roosevelt and Prime Minister Winston Churchill in 1941 that set out American and British goals for the world after the"
-publishedDateTime: 2021-06-09T21:33:49Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J6qr3iuW5zM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J6qr3iuW5zM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/biden-johnson-atlantic-treaty/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/biden-johnson-atlantic-treaty/index.html"
+title: "Macron says Biden is 'part of the club' at the G7 in leaders' first formal meeting"
+excerpt: "US President Joe Biden and French President Emmanuel Macron held their first formal in-person meeting on Saturday, touching on the coronavirus pandemic, NATO and climate change.\n    \n"
+publishedDateTime: 2021-06-12T15:08:31Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chfwjrSX2RA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chfwjrSX2RA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/biden-macron-bilateral-g7/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/biden-macron-bilateral-g7/index.html"
 type: article
-quality: 172
+quality: 169
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611101015-03-g7-biden-macron-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,19 +63,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Macron says Biden is 'part of the club' at the G7 in leaders' first formal meeting"
-    excerpt: "US President Joe Biden and French President Emmanuel Macron held their first formal in-person meeting on Saturday, touching on the coronavirus pandemic, NATO and climate change.\n    \n"
-    publishedDateTime: 2021-06-12T15:08:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chfwjrSX2RA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/biden-macron-bilateral-g7/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/biden-macron-bilateral-g7/index.html"
+  - title: "Biden and Johnson to agree to new Atlantic Charter during bilateral meeting "
+    excerpt: "President Joe Biden and UK Prime Minister Boris Johnson are expected on Thursday to agree to a new Atlantic Charter modeled on the historic declaration made by President Franklin D. Roosevelt and Prime Minister Winston Churchill in 1941 that set out American and British goals for the world after the"
+    publishedDateTime: 2021-06-09T21:33:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J6qr3iuW5zM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/biden-johnson-atlantic-treaty/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/biden-johnson-atlantic-treaty/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611101015-03-g7-biden-macron-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 619
         isCached: true
 
-secured: "reW7Mwqr9z+L9B4ybRPWffnu3myXCLpGCrFpEGCfKm8PkvRVAnxZBkzp9HwvGSRprrOFdCFPB1MWHrkPMRXosL/Su605K+iJ5g6yInKUK19hgKKODkxhhxkqBLP6LB6YgIaOlKh5heSV3AdtZ0Kr6fU6ZG6R5bBKpvTuhNw+DliavzVbRIZpDkSMcFHgz7xfCsB4i1DPfF0lspsbFbpSlUTdmXP4Y0naFCs1lECGwoHOMNO6d3MKNRf6WeGdLYhQkTa1MGRE/ZYGx+6+HkCMYI9364tlCrXIMwOlj5fVrBwucjIAxdg9dSBBgb3YL7tic/9X6cIh1mAPRddmkb949xfb2KR/Bz3ZGZYb8wjOjH0=;iVR8mmF9bJ7gFJSSwV8qHQ=="
+secured: "beZEZSy/nLsvP5B6tQyBBIyfSSsKU4uxjM14VwAS8Z5Qs1XJAISmzB1CV0Sb1SYAnjkIAot/xHf3MtaRwaHvjJaddS4tYoB6ap8pzuiReM1jmrqMmuCF3gQHnfgkcpjhhKYz12e0E8Pt+gNPqt0FYirMuOM3tVfBgxmBVBh8C8hPIsHNOMUQOmIi9QtC16FFrKUesTgCalYJXdZLbqlzAMWWY4qI97T/qHZc8thLyDyyQEpe0KPXLURjcZdGZb3kAwGnx4vwMfJT6fMvod2YuBjqrGeKV1pHpsBRuhbt+VDFm5h1iSRb//J7zUWdOJ0TI53q+cCCATOmRp6AKzUVBaSHLvQD2sX9gL1N83K8sz8=;mCKf9g820KSnYE5+3VtEHQ=="
 ---
 

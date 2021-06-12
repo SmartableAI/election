@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-u
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564736702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5609V"
         width: 816
         height: 545
+        isCached: true
+  - title: "Harry Dunn death: Johnson and Biden discuss virtual trial for US diplomat’s wife"
+    excerpt: "Idea being pursued by Dominic Raab might allow Anne Sacoolas to face punishment in US"
+    publishedDateTime: 2021-06-12T09:19:00Z
+    webUrl: "https://www.theguardian.com/uk-news/2021/jun/12/harry-dunn-death-johnson-and-biden-discuss-virtual-trial-for-alleged-killer?via=webuproar"
+    ampWebUrl: "https://amp.theguardian.com/uk-news/2021/jun/12/harry-dunn-death-johnson-and-biden-discuss-virtual-trial-for-alleged-killer"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/jun/12/harry-dunn-death-johnson-and-biden-discuss-virtual-trial-for-alleged-killer"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/b18f3b01a545d7999777ad7e8c78381c6ad26fcd/0_25_1200_720/master/1200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f1b393cfd7213ace2b3f964d612e0d30"
+        width: 600
+        height: 360
         isCached: true
   - title: "G7 summit live: Joe Biden meets Boris Johnson in Cornwall ahead of world leaders’ talks"
     excerpt: "US president arrives in Carbis Bay as world leaders assemble for in-person G7 summit"

@@ -60,6 +60,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden will hold solo press conference after Putin meeting"
+    excerpt: "President Biden will hold a solo press conference in Switzerland after his meeting with Russian President Vladimir Putin later this week, the White House said Saturday morning."
+    publishedDateTime: 2021-06-12T14:56:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qgXEeep-xw/biden-to-hold-solo-press-conference-after-putin-meeting"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-hold-solo-press-conference-after-putin-meeting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-hold-solo-press-conference-after-putin-meeting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden drops Trump ban on TikTok and WeChat, orders new security review"
     excerpt: "President Biden is withdrawing Trump-era executive orders that sought to ban new downloads of TikTok and WeChat, and is ordering a Commerce Department review of security concerns posed by the apps."
     publishedDateTime: 2021-06-09T15:03:00Z

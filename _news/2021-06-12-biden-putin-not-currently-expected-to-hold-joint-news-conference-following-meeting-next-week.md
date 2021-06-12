@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Macron says Biden is 'part of the club' at the G7 in leaders' first formal meeting"
+    excerpt: "US President Joe Biden and French President Emmanuel Macron held their first formal in-person meeting on Saturday, touching on the coronavirus pandemic, NATO and climate change.\n    \n"
+    publishedDateTime: 2021-06-12T15:08:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chfwjrSX2RA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/biden-macron-bilateral-g7/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/biden-macron-bilateral-g7/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611101015-03-g7-biden-macron-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden and Putin not currently expected to hold joint news conference following meeting next week"
     excerpt: "President Joe Biden and Russian President Vladimir Putin are not currently expected to hold a joint press conference following their high-stakes summit in Geneva, Switzerland, next week, two US officials familiar with the matter said.\n    \n"
     publishedDateTime: 2021-06-11T13:28:04Z

@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Justice Department watchdog to investigate Trump administration's seizure of Democrats' phone data"
+    excerpt: "The internal watchdog of the Justice Department says it will investigate the Trump administration's seizure of communications records of two Democratic members of the House Intelligence Committee. The requests were made by former Attorney Generals Jeff Sessions and William Barr in their aggressive investigation to locate the source of leaks about Mr."
+    publishedDateTime: 2021-06-12T13:02:00Z
+    webUrl: "https://www.cbsnews.com/video/justice-department-watchdog-to-investigate-trump-administrations-seizure-of-democrats-phone-data/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 91
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/12/fd5b9cbf-9bff-4f48-9c0e-1b29913cb111/thumbnail/1200x630/8383da562bc52e931f338f16d0f53b94/0612-satmo-dojinvestigation-pegues-733307-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Congress, Justice Dept. probing Trump seizures of Dems' data"
     excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
     publishedDateTime: 2021-06-11T18:50:00Z

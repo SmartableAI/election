@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden causes sighs of relief among world leaders even as G7 divisions linger"
+    excerpt: "When President Donald Trump used his elbows at international summits, it was to throw them -- on trade, on Russia and, once, they helped him remove the Montenegrin prime minister from his path to a photo-op.\n    \n"
+    publishedDateTime: 2021-06-12T15:39:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qO9smieXdGo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611151658-04-g7-biden-queen-elizabeth-0611-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden stuck relying on transatlantic phone calls to salvage infrastructure priorities"
     excerpt: "President Joe Biden came to Europe this week in part because he's grown tired of virtual meetings and telephone calls with world leaders, which he believes can't capture the essence of a face-to-face relationship.\n    \n"
     publishedDateTime: 2021-06-09T19:34:41Z
@@ -47,37 +63,69 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Boris and Biden: A diplomatic odd couple faces pressure to define the US-UK relationship "
-    excerpt: "In style and in substance, President Joe Biden and British Prime Minister Boris Johnson are two very different men leading two countries whose relationship makes up one of the most important global alliances.\n    \n"
-    publishedDateTime: 2021-06-10T11:03:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w1cczqFk070/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/joe-biden-boris-johnson-relationship/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/joe-biden-boris-johnson-relationship/index.html"
+  - title: "Biden joins the world leaders club at G7 with call for wartime effort against Covid-19"
+    excerpt: "The leaders of the world's advanced economies will gather Friday on the Cornish coast for the first time since the global coronavirus pandemic began, welcoming President Joe Biden as a new member who arrived here intent on restoring traditional American alliances.\n    \n"
+    publishedDateTime: 2021-06-11T04:01:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MaV_1xhaL9E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/president-biden-g7-summit-day-1/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/president-biden-g7-summit-day-1/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610141823-08-biden-overseas-0610-uk-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Live Updates: Biden Will Meet With Republicans’ Top Infrastructure Negotiator"
-    excerpt: "Democrats are ready to move on President Biden’s $2 trillion infrastructure plan unless there is a major breakthrough this week. The two sides are over $1 trillion apart in how much they want to spend,"
-    publishedDateTime: 2021-06-02T08:20:00Z
-    webUrl: "https://www.nytimes.com/live/2021/06/02/us/biden-news-today"
-    ampWebUrl: "https://www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html"
+  - title: "US hopes to agree that ambassadors can return to Moscow and Washington at Biden-Putin summit"
+    excerpt: "President Joe Biden plans to address the strained US-Russia diplomatic relationship when he meets President Vladimir Putin next week with the hope that the two leaders can agree to send their ambassadors back to Washington and Moscow after months with no senior diplomat being present in either country,"
+    publishedDateTime: 2021-06-10T16:02:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/93JMV3PyLLM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/biden-putin-ambassadors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/biden-putin-ambassadors/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 132
+      name: CNN
+      domain: cnn.com
+    quality: 164
     images:
-      - url: "https://static01.nyt.com/images/2021/06/02/us/02new-washington-briefing-promo3/02new-washington-briefing-promo3-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's Justice Department says it will no longer seize reporters' records for leak investigations"
+    excerpt: "The Justice Department on Saturday said it will no longer seize reporters' records in leak investigations, a notable policy shift on the heels of disclosures that federal prosecutors aggressively pursued communication data from reporters to identify their sources.\n    \n"
+    publishedDateTime: 2021-06-05T17:20:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nlsd4PPROpo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/justice-department-leak-investigations-reporters-new-york-times/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/justice-department-leak-investigations-reporters-new-york-times/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190305093213-03-us-department-of-justice-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "A favored Biden timeline for politically-charged decisions: Later"
+    excerpt: "The president seems to be reaching for a traditional executive branch stalling tactic at a higher rate than his predecessors."
+    publishedDateTime: 2021-06-05T08:35:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/favored-biden-timeline-politically-charged-decisions-later-n1269721"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1269721"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269721"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480531/210604-joe-biden-ac-742p.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "SqyKehEHhjwRJmXikRpcWjQzpJibVxGBOJsFDP6jwKVYbvt0H87QdmSqXFpWc0ZgY59UF4CcEgfvq4Z+TI2wfU4TtI6tySf20RJruKPUVtkBVWmD/3lxCiJZPcddfeUYKglKkKc857SupnKOGDlVJVC8qSBt84NWprJhft70fA8fbAhN4WeiLPLc/dOJZ3pNFU3e2L82hsp0codxcJ7MbdTc7EjuhSDQNL9H4HMnrty7sWC3cMn5B+RqigluH6CKKH1jzKSrQAVZAoCZXLVwxVUScz5S48CkdCDB3fA0Kv5QBEl7nBENgY4zSEh1HwISB9WN6JMKhPY7z9QOKkkZ8xPzZd7lwZ0FX8o3rJWHMws=;COyFskq2kSru2ObnVthq/w=="

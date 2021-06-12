@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Trump to Biden: ‘Good luck’ with Putin meeting, ‘don’t fall asleep!’"
-excerpt: "Former President Donald Trump on Thursday wished President Biden luck in his upcoming meeting with Russian President Vladimir Putin — and also encouraged him to stay awake."
-publishedDateTime: 2021-06-10T22:41:00Z
-originalUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/"
-webUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/"
-ampWebUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
+title: "Biden will hold solo press conference after Putin meeting"
+excerpt: "President Biden will hold a solo press conference in Switzerland after his meeting with Russian President Vladimir Putin later this week, the White House said Saturday morning."
+publishedDateTime: 2021-06-12T14:56:02Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qgXEeep-xw/biden-to-hold-solo-press-conference-after-putin-meeting"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qgXEeep-xw/biden-to-hold-solo-press-conference-after-putin-meeting"
+ampWebUrl: "https://www.foxnews.com/politics/biden-to-hold-solo-press-conference-after-putin-meeting.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-hold-solo-press-conference-after-putin-meeting.amp"
 type: article
-quality: 150
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-putin-index.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -60,22 +63,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden will hold solo press conference after Putin meeting"
-    excerpt: "President Biden will hold a solo press conference in Switzerland after his meeting with Russian President Vladimir Putin later this week, the White House said Saturday morning."
-    publishedDateTime: 2021-06-12T14:56:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qgXEeep-xw/biden-to-hold-solo-press-conference-after-putin-meeting"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-hold-solo-press-conference-after-putin-meeting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-hold-solo-press-conference-after-putin-meeting.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump to hit ‘timid and corrupt’ Biden on China in rare speech"
     excerpt: "President Donald Trump is expected to criticize President Joe Biden’s policy on China at a speech at the North Carolina Republican state convention."
     publishedDateTime: 2021-06-05T18:51:00Z
@@ -108,6 +95,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump to Biden: ‘Good luck’ with Putin meeting, ‘don’t fall asleep!’"
+    excerpt: "Former President Donald Trump on Thursday wished President Biden luck in his upcoming meeting with Russian President Vladimir Putin — and also encouraged him to stay awake."
+    publishedDateTime: 2021-06-10T22:41:00Z
+    webUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/"
+    ampWebUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-putin-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden Should Make China Pay"
     excerpt: "President Joe Biden heads to Europe Wednesday to meet with European leaders. He says the goal is to work together to"
     publishedDateTime: 2021-06-09T10:13:00Z
@@ -125,6 +128,6 @@ related:
         height: 501
         isCached: true
 
-secured: "zCTj5FMFqnx0rc0WtkiVte1P9LWZl5e3ZjBEcTJemGRTJgTQ3GZIMuhgARuovxyxVn2midx0VXidYTidprQsdHVtWysOdvJkw8Ed9GI0yAJ/Sc8AZ3nrv+FYcGSmk5zG16gLhi+nJzy8NvuV9yiZzIjU/E5S30YgJkh0hWYVxXQ1kvzporRcvZvrXyQegM6EaAinflC8S2NUNZDyOkLIlhOhCepbUdjcaBCWDPl6YfcHhYVNfE7i7Hm+OqHR1MIzNbW7Xf3PCWR5FF59q9I/n592FI7k4+FDiGAbgFiuf3EHXr7e49tSSIrTh1814wU8KFoOCcRkQWlynBG0awkCNdSMheiZXTaTA3TSrMa91kE=;7mqAWO1n58BDJALE9p8AhQ=="
+secured: "jK2Hdxj79qVID9jNNcH6uSD6oNYymfb+uuSntvMVW+PACM/fZlPgatChhG+ibY1XK0s6Mplv69vbas71qtn9Z8E7gAmbz2HzEEWU/lKB3jTL4FWD1drfVGh8pujldFVhWMSbk2sQTZAAnnPS3mSpQqy0IYNXVDJhHcV2ml+DXula/s5Kw2tlfbeTTxJAhHUt1hf7r49zXSS/gpv95fe4c8vwwJcbT+DoZ3296wjdNYfDHM+FGglct/b4kXREcbbFXd2vTG3V04xPEfjtWJc6d/qiplowUDRm1DQBAn1s+0cwDXBsNTLhlWxcF31aEunjEITM888Y9z/TDU+AKW5aJq0r72lxvglkl2I21zyd7SU=;GcbqS0DkOl9mFriM7KWqmA=="
 ---
 
