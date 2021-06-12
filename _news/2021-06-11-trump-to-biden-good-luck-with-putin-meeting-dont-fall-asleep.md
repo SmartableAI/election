@@ -28,37 +28,85 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says US 'not seeking conflict' with Russia as Putin meeting looms"
-    excerpt: "President Biden said Wednesday he will reiterate to Russian President Vladimir Putin at an upcoming summit that there will be “consequences” if Russia takes harmful action toward democratic governments."
-    publishedDateTime: 2021-06-09T23:15:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjwF5yJdRfo/biden-putin-meeting-us-not-seeking-conflict-russia"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp"
+  - title: "Putin calls Trump an ‘extraordinary individual,’ Biden, a ‘career man’"
+    excerpt: "Russian President Vladimir Putin compared his relationship with former President Trump, who he praised as an “extraordinary individual,” and President Biden, who he called a “career man.”"
+    publishedDateTime: 2021-06-12T00:38:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZbmxPirZSc/putin-trump-extraordinary-individual-biden-career-man"
+    ampWebUrl: "https://www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Russia-Vladimir-Putin-AP.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden assures Zelensky he will 'stand up firmly' for Ukraine's sovereignty in Putin summit"
-    excerpt: "President Biden told Ukrainian President Volodymyr Zelensky on Monday that he will “stand up firmly” for Ukraine’s sovereignty during his meeting with Russian President Vladimir Putin next week, while extending an invitation to the White House later this summer."
-    publishedDateTime: 2021-06-07T19:11:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nFvkUPPYWE/biden-assures-zelensky-ukraine-sovereignty-putin-summit"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-assures-zelensky-ukraine-sovereignty-putin-summit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-assures-zelensky-ukraine-sovereignty-putin-summit.amp"
+  - title: "Biden's Justice Department defends Trump in E. Jean Carroll defamation case"
+    excerpt: "The Justice Department is attempting to push its way into a defamation suit against former President Donald Trump brought by writer E. Jean Carroll."
+    publishedDateTime: 2021-06-08T18:54:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQM1YSkFeaI/biden-justice-department-trump-e-jean-carroll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 188
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/871d5882-3214-4239-9819-324e15de69c6/2511659f-c83e-4156-b33f-5990b03c54e5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump to hit ‘timid and corrupt’ Biden on China in rare speech"
+    excerpt: "President Donald Trump is expected to criticize President Joe Biden’s policy on China at a speech at the North Carolina Republican state convention."
+    publishedDateTime: 2021-06-05T18:51:00Z
+    webUrl: "https://nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/"
+    ampWebUrl: "https://nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-to-hit-corrupt-biden-on-china-in-comeback-speech/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden drops Trump ban on TikTok and WeChat, orders new security review"
+    excerpt: "President Biden is withdrawing Trump-era executive orders that sought to ban new downloads of TikTok and WeChat, and is ordering a Commerce Department review of security concerns posed by the apps."
+    publishedDateTime: 2021-06-09T15:03:00Z
+    webUrl: "https://nypost.com/2021/06/09/biden-drops-trump-ban-on-tiktok-and-wechat-orders-new-review/"
+    ampWebUrl: "https://nypost.com/2021/06/09/biden-drops-trump-ban-on-tiktok-and-wechat-orders-new-review/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/biden-drops-trump-ban-on-tiktok-and-wechat-orders-new-review/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/tiktok-wechat-white-house-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden Should Make China Pay"
+    excerpt: "President Joe Biden heads to Europe Wednesday to meet with European leaders. He says the goal is to work together to"
+    publishedDateTime: 2021-06-09T10:13:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/09/biden_should_make_china_pay_145895.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/544585_5_.jpg"
+        width: 750
+        height: 501
         isCached: true
 
 secured: "zCTj5FMFqnx0rc0WtkiVte1P9LWZl5e3ZjBEcTJemGRTJgTQ3GZIMuhgARuovxyxVn2midx0VXidYTidprQsdHVtWysOdvJkw8Ed9GI0yAJ/Sc8AZ3nrv+FYcGSmk5zG16gLhi+nJzy8NvuV9yiZzIjU/E5S30YgJkh0hWYVxXQ1kvzporRcvZvrXyQegM6EaAinflC8S2NUNZDyOkLIlhOhCepbUdjcaBCWDPl6YfcHhYVNfE7i7Hm+OqHR1MIzNbW7Xf3PCWR5FF59q9I/n592FI7k4+FDiGAbgFiuf3EHXr7e49tSSIrTh1814wU8KFoOCcRkQWlynBG0awkCNdSMheiZXTaTA3TSrMa91kE=;7mqAWO1n58BDJALE9p8AhQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-queen-elizabeth-ii-meeting-wi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-queen-elizabeth-ii-meeting-windsor-castle-june-13.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden ends infrastructure talks with Capito amid disagreements on spending"
+    excerpt: "President Biden broke off negotiations with a group of GOP senators led by Sen. Shelley Capito on Tuesday (R-W.Va.) amid disagreements regarding the structure and size of his proposed infrastructure spending plan."
+    publishedDateTime: 2021-06-08T21:45:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1V1mQoUoVQ/biden-ends-infrastructure-talks-capito-disagreements-spending"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ends-infrastructure-talks-capito-disagreements-spending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ends-infrastructure-talks-capito-disagreements-spending.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/Heinrich_Jacqui_OFFICIAL-1-1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "1JRmaNK5LoAArlCH9cv4kC/l9WXBqrmOSlbyJQ+7MoCVowiuu0bkujgeFc5P+IdIH0El8iqrVdOsX+apJUv2lDEPbYVb0bvjbq2wm6tMB+Q2wW+WcVmSOcW7Hkqrda6iqoDmmV1q++Fb4KQQqJ1l4jVElFTo9StABE0PkMPi1R4KL5/Pvwq77VsizlHGssFdlAeUQsPqMm1CaFZbsbiMmWiek9JRnwEixY2UQodP56VqNc+X3CRn78nf/aCuzORSrM32aRSYJfP2iDg6ztOQ+OrrmXWZ+dk49Z7pBL1OipUZtIkUOqmPjTqUEsTqhnWX54cdab1vrv/XXlIGHCykPBIqg517EynSMC5Oei+HBBA=;yvMqZ28zbE/1Qd1AW8BiEQ=="
 ---

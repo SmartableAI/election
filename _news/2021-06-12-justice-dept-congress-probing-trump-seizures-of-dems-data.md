@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Justice Dept., Congress probing Trump seizures of Dems' data"
-excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
-publishedDateTime: 2021-06-11T21:10:00Z
-originalUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+excerpt: "The Justice Department’s internal watchdog has launched an investigation after revelations that former President Donald Trump’s administration secretly seized phone data from at least two House Democr"
+publishedDateTime: 2021-06-11T22:48:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/senate-demands-ags-testify-trump-data-seizure-78222973"
+webUrl: "https://abcnews.go.com/Politics/wireStory/senate-demands-ags-testify-trump-data-seizure-78222973"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-demands-ags-testify-trump-data-seizure-78222973"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-demands-ags-testify-trump-data-seizure-78222973"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.abcnews.com/images/Politics/WireAP_b3a90973c8024c0192d1491ee861eff2_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -149,6 +153,6 @@ related:
         height: 621
         isCached: true
 
-secured: "hMaerXlry9tNudzZLcdVYbn/Zz2JYiHjefXB9b4Epg614qWAyVxIwOQb3qrqw1eV1AwDnJyScOCOP1bK2B+FoFbi+81urRuU0mVwbEPcuyPil9XI5BJ6Ys26JJso++/aqdsuPWWoXlxfmgMlunve2ODc+uNDNPpVVREqgrKG4QjZntOG43K8p5EHDsUQ/pdY5G7X6iCm1CmLZP8IMwmZGW054QjjeS3jay0Jaj02LWHE+1h2wM/ShxIzEda3vQMJ6rx+e7KPdoQubWa9PHYct/pnHiRAbaK9ywGHqg64PqSoxNQGYqi9KzXC6/INO/KWtZ2nHg3C4+ARrVTI64V/UeQI/t8+RfFqNWfL2ZEg1aoyXIswSrJvuLdGFlkSo2VzUEXIAC1lVq6JuK9SkNVSOBksiQ5lXaDvilDQVo1ES8/YLsriUygTfoifHxMPl3K9FdIBZRhSLOvyMglhSkR0PrdTlxotzq66dM8LuY3dVAyPWsHU5vU/jwVIdlIiYoZolTBny6uL9fG9ZU45ne0w3w==;ZgQoXv3UAApFc6nxJckP8Q=="
+secured: "HWMKd+T+AwXhCYBDNaRVAovvgCmLJE3SZBZGtkvAWX+JQQomiD43gfwIN4983GwjV9Z+gYSy36n7ZQ21UpWwtO+KQbT/Rk0r5OVN0uhyvVvWoN89vgJWOwl5llQUtkiBLmuhlm40ipBNAEl1aLGhytUu2DzJYvOzvBzvBRBFpEcHP0RCuESJ6f0sRN5r5aTKiff0rof1pH2eIDzd0wASV3UF8hceb6DeaYvaiLuFKAb2mZHatqoYqT3jBdBsZIyfuTNsPRC755KP/HMLb46vnieitaVUC+9U60D2Zq+qwXPd9XI6yKhraxCOuJB62SGRtwyGMqkx8GQyKI879JPWeXZ4dWQVDu0A4OZsFNUdMFs=;3VpHUe1OZoMYoD9UCg+FuQ=="
 ---
 

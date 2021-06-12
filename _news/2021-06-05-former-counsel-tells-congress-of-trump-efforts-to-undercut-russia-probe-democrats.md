@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "G-7 leaders try to signal that page has turned on Trump era"
+    excerpt: "Rich democracies meeting in Britain sought to send a message Friday that they were back in business after a surge in vaccinations and the exit of a disruptive American president."
+    publishedDateTime: 2021-06-11T22:32:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-g7-leaders-england/2021/06/11/adb19d62-cac0-11eb-a11b-6c6191ccd599_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-g7-leaders-england/2021/06/11/adb19d62-cac0-11eb-a11b-6c6191ccd599_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-g7-leaders-england/2021/06/11/adb19d62-cac0-11eb-a11b-6c6191ccd599_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/42LNP2GK5MI6XANRGR4WY44TV4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump tells Fox News it's 'highly unlikely' he'll run for a House seat in 2022"
     excerpt: "A right-wing talk radio host speculated that Trump could run in a safe district and become House Speaker if the GOP were to flip the majority in the 2022 midterms."
     publishedDateTime: 2021-06-07T13:58:00Z
@@ -147,6 +163,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Seized House records show just how far Trump admin would go"
+    excerpt: "Former President Donald Trump has made no secret of his long list of political enemies. It just wasn't clear until now how far he would go to try to punish them. Two House Democrats disclosed this week that their smartphone data was secretly obtained by the Trump Justice Department as part of an effort to uncover the source of leaks related to the investigation of Russian-related election interference."
+    publishedDateTime: 2021-06-12T01:37:00Z
+    webUrl: "https://www.chron.com/news/article/Seized-House-records-show-just-how-far-Trump-16242365.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242365.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242365.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Talk of Trump 2024 Run Builds as Legal Pressure Intensifies"
     excerpt: "Multiple people who have spoken with Donald Trump and his team in recent weeks say they sense a shift, with the former president increasingly acting and talking as though he plans to mount another White House bid."
     publishedDateTime: 2021-06-03T09:43:00Z
@@ -183,15 +215,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Seized House Records Show Just How Far Trump Admin Would Go"
-    excerpt: "Former President Donald Trump has made no secret of his long list of political enemies. It just wasn't clear until now how far he would go to try to punish them. Two House Democrats disclosed this week that their smartphone data was secretly obtained by the Trump Justice Department as part of an effort to uncover the source of leaks related to the investigation of Russian-related election interference."
-    publishedDateTime: 2021-06-11T21:33:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/seized-house-records-show-just-how-far-trump-admin-would-go"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "DAHmY+l+46IcIse1wq46zgLC+NxNPNX152V6iOv5+06++pOT8SIINF8s5+BjRXWgo/X7pOAjh7T4z+r/Lue75ftLZNq4gfIVbOjs42/3L4otN65kVYhOGYQgyGyPcD+8bkOzI+9lPBCXROroU3n+CLjondXIZMIKcPp/zO1ASlqqXLdMyb835w/gVZ83XpmBVN3/l0U3Gf5oaax2/NSRV7tyUo2oDAgqCHZlBIpWrZxFE8RGtpWev/lme3eu/A9/URUXqs23hDPJgfgWnYezvVnmal9veTcN0kmqziONX5pd27ImP1sEdSA4OhaUg5fo5+4FMIFuIcBDklVAW96Jubp7PWEkstzagJasuC9fb14=;ChWboCxfTbjdEGwC08VY2Q=="
 ---

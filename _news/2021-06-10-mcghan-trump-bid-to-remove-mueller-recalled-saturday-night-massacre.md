@@ -44,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Justice Department to Defend Trump in Lawsuit Over Rape Claim"
+    excerpt: "Journalist E. Jean Carroll sued the former president for defamation after he denied raping her in the 1990s."
+    publishedDateTime: 2021-06-08T04:26:00Z
+    webUrl: "https://www.wsj.com/articles/justice-department-to-defend-trump-in-lawsuit-over-rape-claim-11623129987"
+    ampWebUrl: "https://www.wsj.com/amp/articles/justice-department-to-defend-trump-in-lawsuit-over-rape-claim-11623129987"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/justice-department-to-defend-trump-in-lawsuit-over-rape-claim-11623129987"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-350268/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "'Life, Liberty & Levin' rips criminal investigations against Donald Trump, says its like Soviet Russia"
     excerpt: "Life, Liberty & Levin’ host Mark Levin ripped into multiple investigations into former President Donald Trump calling them “witch hunts” which are motivated by politics not justice."
     publishedDateTime: 2021-06-07T03:10:00Z

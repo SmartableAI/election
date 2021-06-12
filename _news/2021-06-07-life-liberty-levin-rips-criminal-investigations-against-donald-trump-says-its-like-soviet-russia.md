@@ -46,6 +46,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Justice Department to Defend Trump in Lawsuit Over Rape Claim"
+    excerpt: "Journalist E. Jean Carroll sued the former president for defamation after he denied raping her in the 1990s."
+    publishedDateTime: 2021-06-08T04:26:00Z
+    webUrl: "https://www.wsj.com/articles/justice-department-to-defend-trump-in-lawsuit-over-rape-claim-11623129987"
+    ampWebUrl: "https://www.wsj.com/amp/articles/justice-department-to-defend-trump-in-lawsuit-over-rape-claim-11623129987"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/justice-department-to-defend-trump-in-lawsuit-over-rape-claim-11623129987"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-350268/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "McGhan: Trump bid to remove Mueller recalled ‘Saturday Night Massacre’"
     excerpt: "Former White House counsel Don McGhan told lawmakers last week that then-President Donald Trump’s effort to get Special Counsel Robert Mueller fired in June 2017 marked a potential"
     publishedDateTime: 2021-06-10T03:19:00Z

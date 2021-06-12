@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Justice Dept., Congress probing Trump seizures of Dems' data"
+    excerpt: "The Justice Department’s internal watchdog has launched an investigation after revelations that former President Donald Trump’s administration secretly seized phone data from at least two House Democr"
+    publishedDateTime: 2021-06-11T22:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/senate-demands-ags-testify-trump-data-seizure-78222973"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-demands-ags-testify-trump-data-seizure-78222973"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-demands-ags-testify-trump-data-seizure-78222973"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b3a90973c8024c0192d1491ee861eff2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Justice Department seized House Democrats' data"
     excerpt: "CBS News has confirmed the Justice Department under President Donald Trump subpoenaed the personal metadata of at least a dozen people tied to the House Intelligence Committee in 2017 and again in 2018,"
     publishedDateTime: 2021-06-11T18:40:00Z
@@ -82,22 +98,6 @@ related:
   - title: "Congress, Justice Dept. probing Trump seizures of Dems' data"
     excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
     publishedDateTime: 2021-06-11T18:50:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Justice Dept., Congress probing Trump seizures of Dems' data"
-    excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
-    publishedDateTime: 2021-06-11T21:10:00Z
     webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
     ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"

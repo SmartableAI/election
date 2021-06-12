@@ -2,6 +2,118 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-09-watchdog-report-finds-park-police-did-not-clear-racial-injustice-protesters-from-lafayette-park-for-trumps-visit-to-st-johns-church-last-june.md",
+      "title": "Watchdog report finds Park Police did not clear racial injustice protesters from Lafayette Park for Trump's visit to St. John's Church last June",
+      "excerpt": "The US Park Police did not clear racial injustice protesters from Lafayette Park to allow for then-President Donald Trump's march to St. John's Church last June, but instead did so to allow a contractor to install a fence safely around the White House, according to a new inspector general report.\n  ",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fFWZCZU4lq8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fFWZCZU4lq8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200603172424-trump-group-walking-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/park-police-lafayette-square-protesters-donald-trump-bible/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/park-police-lafayette-square-protesters-donald-trump-bible/index.html",
+      "publishedDateTime": "2021-06-09T12:49:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-biden-stuck-relying-on-transatlantic-phone-calls-to-salvage-infrastructure-priorities.md",
+      "title": "Biden stuck relying on transatlantic phone calls to salvage infrastructure priorities",
+      "excerpt": "President Joe Biden came to Europe this week in part because he's grown tired of virtual meetings and telephone calls with world leaders, which he believes can't capture the essence of a face-to-face relationship.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210609131925-01-biden-overseas-trip-0609-white-house-departure-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html",
+      "publishedDateTime": "2021-06-09T12:34:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-mollie-hemingway-calls-out-kamala-harris-nervous-laugh-when-facing-tough-questions.md",
       "title": "Mollie Hemingway calls out Kamala Harris' nervous laugh when facing tough questions",
       "excerpt": "The Federalist Senior Editor Mollie Hemingway said on Wednesday that Vice President Kamala Harris laughs “nervously” when challenged by journalists, reacting to an interview the former senator had with NBC journalist Lester Holt.",
@@ -640,6 +752,62 @@
       ]
     },
     {
+      "path": "_news/2021-06-08-gop-reps-say-biden-admin-downplaying-border-crisis-only-empowers-bad-actors.md",
+      "title": "GOP reps say Biden admin downplaying border crisis only 'empowers bad actors'",
+      "excerpt": "Republican members of the House of Representatives blasted the Biden administration for downplaying the crisis at the southern border, saying the decision \"empowers bad actors.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/alL88IQEJm4/gop-biden-border-crisis-empowers-bad-actors",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/alL88IQEJm4/gop-biden-border-crisis-empowers-bad-actors",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a4c2abd-87f5-4752-be3f-94e17533012e/8087ecda-dc5d-4e4e-8af2-933f901d4dc5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-biden-border-crisis-empowers-bad-actors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-biden-border-crisis-empowers-bad-actors.amp",
+      "publishedDateTime": "2021-06-08T14:58:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-ivanka-trump-focusing-on-family-time-in-months-after-trump-administration.md",
       "title": "Ivanka Trump 'focusing on family time' in months after Trump administration",
       "excerpt": "Ivanka Trump is focusing on her family and living in Miami, Florida, with her husband Jared Kushner, sources familiar with the couple’s plans told Fox News, following four years in Washington, D.C., serving in the Trump administration.",
@@ -652,7 +820,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 173,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -753,118 +921,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-08-bidens-justice-department-defends-trump-in-e-jean-carroll-defamation-case.md",
-      "title": "Biden's Justice Department defends Trump in E. Jean Carroll defamation case",
-      "excerpt": "The Justice Department is attempting to push its way into a defamation suit against former President Donald Trump brought by writer E. Jean Carroll.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQM1YSkFeaI/biden-justice-department-trump-e-jean-carroll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQM1YSkFeaI/biden-justice-department-trump-e-jean-carroll",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 488,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/871d5882-3214-4239-9819-324e15de69c6/2511659f-c83e-4156-b33f-5990b03c54e5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp",
-      "publishedDateTime": "2021-06-08T11:54:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-senate-confirms-first-biden-judicial-nominee-as-schumer-promises-to-move-swiftly-on-picks.md",
-      "title": "Senate confirms first Biden judicial nominee as Schumer promises to move 'swiftly' on picks",
-      "excerpt": "The Senate Tuesday confirmed the first of President Biden's judicial nominees to a federal district court, starting a long effort for Biden and Senate Democrats to match the massive number of judges confirmed under former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JDTVzLlV4A/senate-confirms-first-biden-judicial-nominee-schumer-promises-swiftly",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JDTVzLlV4A/senate-confirms-first-biden-judicial-nominee-schumer-promises-swiftly",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/senate-confirms-first-biden-judicial-nominee-schumer-promises-swiftly.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-first-biden-judicial-nominee-schumer-promises-swiftly.amp",
-      "publishedDateTime": "2021-06-08T11:25:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-08-joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.md",
       "title": "Joe Manchin is opposing big parts of Biden's agenda as the Koch network pressures him",
       "excerpt": "The Koch network has been actively pressuring Democratic Sen. Joe Manchin to oppose key legislative items linked to Biden's agenda.",
@@ -917,23 +973,23 @@
       ]
     },
     {
-      "path": "_news/2021-06-08-biden-administration-threatens-texas-with-legal-action-over-migrant-detention-facility-closures.md",
-      "title": "Biden administration threatens Texas with legal action over migrant detention facility closures",
-      "excerpt": "The Biden administration threatened Monday to pursue legal action if Texas Gov. Greg Abbott doesn't rescind his order shutting down federally funded shelters that house migrant children who cross the U.S.-Mexico border without their parents.",
+      "path": "_news/2021-06-08-mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden.md",
+      "title": "‘MediaBuzz’ on Facebook’s Trump ban, media treatment of Biden",
+      "excerpt": "What drives me crazy about the media is that when they totally blow it, an all-out, no doubt deep-rooted red-faced botching of a major story, they barely acknowledge it before moving on. You read the coverage now of the circumstantial evidence of the Wuhan lab as the original source of the COVID scourge and there's this flat,",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qJLj2R4uKfQ/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qJLj2R4uKfQ/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures",
+      "webUrl": "https://www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden",
+      "originalUrl": "https://www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 243,
+      "heat": 230,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad8cee42-560c-45e5-81a1-4caa19116439/a14c9b64-5a8f-467d-a060-ec6795af2393/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1830dbee-539b-438a-9afb-ee5b8eba9049/5d7d1d25-f5a8-4a38-951b-018ce87fc784/1280x720/match/720/405/image.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -943,9 +999,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-threatens-texas-legal-action-migrant-detention-facility-closures.amp",
-      "publishedDateTime": "2021-06-08T03:49:48-07:00",
+      "ampWebUrl": "https://www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden.amp",
+      "publishedDateTime": "2021-06-08T04:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -969,6 +1025,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1295,62 +1352,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-stormy-daniels-says-she-would-love-to-testify-in-trump-organization-probe.md",
-      "title": "Stormy Daniels says she would 'love' to testify in Trump Organization probe",
-      "excerpt": "Stormy Daniels said Monday that she has not yet testified in a New York criminal probe into the Trump Organization but that she would \"love nothing more than\" to be interviewed by prosecutors investigating former President Donald Trump's sprawling company.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FwPYaFsZ-DE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FwPYaFsZ-DE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180307113630-01-donald-trump-stormy-daniels-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/07/politics/stormy-daniels-trump-organization-investigation-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/stormy-daniels-trump-organization-investigation-cnntv/index.html",
-      "publishedDateTime": "2021-06-07T13:02:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

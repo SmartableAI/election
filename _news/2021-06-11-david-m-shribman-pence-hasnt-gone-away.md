@@ -7,8 +7,8 @@ originalUrl: "https://www.hastingstribune.com/david-m-shribman-pence-hasnt-gone-
 webUrl: "https://www.hastingstribune.com/david-m-shribman-pence-hasnt-gone-away/article_b0b8e996-ca36-11eb-a591-27270006269c.html"
 type: article
 quality: 55
-heat: 55
-published: false
+heat: 75
+published: true
 
 provider:
   name: Hastings Tribune
@@ -23,6 +23,22 @@ images:
     width: 431
     height: 630
     isCached: true
+
+related:
+  - title: "David M. Shribman: Mike Pence hasn’t gone away"
+    excerpt: "Mike Pence is determined not to be the modern version of William R. King, William A. Wheeler or Charles W. Fairbanks. The three — vice presidents under Franklin Pierce, Rutherford B. Hayes and Theodore Roosevelt,"
+    publishedDateTime: 2021-06-12T00:05:00Z
+    webUrl: "https://www.itemlive.com/2021/06/11/david-m-shribman-mike-pence-hasnt-gone-away/"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: itemlive.com
+    quality: 55
+    images:
+      - url: "https://www.itemlive.com/wp-content/uploads/2020/10/itemlive-opengraph-2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "De6e/egkTgjnG3LuMGI7KKSP67wQPWxU0W3hZjTFGENUeobhhBrHH7PnGf3MqUoDAwrPyQ6bRTmLB8v2rsMiFskBBQMCRxJo5Gke7ZYJf5kBMFZAU2+IWy+viVvuQzTpZgHJXLvj4Ii/l2qc5q5ixxLjkFPdbM7yG3sOa32u3Qhxb358qiPIE5hFUQUbu0dgyq0z6W5JMKF18v04NzbhVYEHtGNF+c3GdKcav/yOWmfpo+WJ+XfohP+bnEahCSrYQoW5rGloss3UHkZkr2Tj67uYDYkpEFN1Rgd6Wn6+ppGdm3yhaxhbkPZNSb9eGZ+TiapjSvKi6m+wNmwvXbR2SPKY12lc/D1rLtK8ReYrb64=;14G9lq4qefykpZN23242YQ=="
 ---

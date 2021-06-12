@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-jose-shooting-biden-newsom-gun-control.amp"
 type: article
 quality: 171
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Stakes high as Biden meets GOP Sen. Capito on infrastructure amid progressive push to leave Republicans behind"
+    excerpt: "President Biden and Sen. Shelley Moore Capito will meet Wednesday afternoon for high-stakes talks on a potential infrastructure deal as the two parties' proposals are hundreds of billions of dollars apart and progressive Democrats push Biden to ditch negotiations and go it alone with a Democrats-only"
+    publishedDateTime: 2021-06-02T12:17:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l5X3ga1DG9c/capito-biden-infrastructure-meet-negotiations-progressives-abandon-gop"
+    ampWebUrl: "https://www.foxnews.com/politics/capito-biden-infrastructure-meet-negotiations-progressives-abandon-gop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-biden-infrastructure-meet-negotiations-progressives-abandon-gop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Blackburn presses Biden on WHO probe into COVID origins, amid renewed scrutiny of Wuhan lab"
     excerpt: "EXCLUSIVE: Sen. Marsha Blackburn, R-Tenn., has written to President Biden to press him about ongoing concerns with the World Health Organization's investigation into the origins of the COVID-19 outbreak -- amid renewed scrutiny of the Wuhan Institute of Virology, where some believe the pandemic may have"
     publishedDateTime: 2021-05-25T15:30:33Z

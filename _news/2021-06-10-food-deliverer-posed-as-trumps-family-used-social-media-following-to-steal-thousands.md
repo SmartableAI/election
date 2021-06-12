@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Apple reaffirms privacy stance amid Trump probe revelations"
+    excerpt: "Apple is seeking to protect its image as a guardian of personal privacy, maintaining it was blindsided and handcuffed by a Trump administration probe that resulted in the company handing over phone da"
+    publishedDateTime: 2021-06-12T00:36:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/apple-reaffirms-privacy-stance-amid-trump-probe-revelations-78233055"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_da23fea4feed49d188ea1fa401c3444e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Dems demand Trump officials testify on reported records seizure"
     excerpt: "Top News Dems demand Trump officials testify on reported records seizure. Posted . Top Senate Democrats on Friday demanded two former U.S. attorneys general testify about reported"
     publishedDateTime: 2021-06-11T20:09:00Z

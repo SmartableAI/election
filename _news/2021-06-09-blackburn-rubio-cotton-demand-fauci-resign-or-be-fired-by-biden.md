@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Hawley, GOP senators delay Biden OPM nominee confirmation over critical race theory, abortion stance"
-    excerpt: "Senate Republicans are delaying confirmation proceedings for Kiran Ahuja, President Biden’s nominee to serve as head of the Office of Personnel Management, amid concerns about her stance on critical race theory and abortion rights."
-    publishedDateTime: 2021-06-09T00:57:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sekjEVxJRVw/hawley-gop-senators-block-biden-opm-nominee-critical-race-theory"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-gop-senators-block-biden-opm-nominee-critical-race-theory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-gop-senators-block-biden-opm-nominee-critical-race-theory.amp"
+  - title: "Acting OMB director won't say if Biden's budget will fund Wuhan Institute of Virology"
+    excerpt: "The acting head of the Office of Management and Budget (OMB), in a House hearing Wednesday, wouldn’t commit to saying that President Biden’s budget request would not include funding for research at the Wuhan Institute of Virology – from where it is suspected that the COVID-19 pandemic may have originated."
+    publishedDateTime: 2021-06-09T20:57:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EqPV3tEQl8c/acting-omb-director-bidens-budget-wuhan-institute-virology"
+    ampWebUrl: "https://www.foxnews.com/politics/acting-omb-director-bidens-budget-wuhan-institute-virology.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/acting-omb-director-bidens-budget-wuhan-institute-virology.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d73e80b0-bb67-443f-85d7-eb5579eb201c/116ec0e7-301a-4514-893b-9973e3b6bc65/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e6622a1-4164-4ee4-b30a-ba9d48e3040d/37269143-93ac-485e-9d51-2844d8ab9e7a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

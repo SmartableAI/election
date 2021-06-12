@@ -45,6 +45,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Stakes high as Biden meets GOP Sen. Capito on infrastructure amid progressive push to leave Republicans behind"
+    excerpt: "President Biden and Sen. Shelley Moore Capito will meet Wednesday afternoon for high-stakes talks on a potential infrastructure deal as the two parties' proposals are hundreds of billions of dollars apart and progressive Democrats push Biden to ditch negotiations and go it alone with a Democrats-only"
+    publishedDateTime: 2021-06-02T12:17:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l5X3ga1DG9c/capito-biden-infrastructure-meet-negotiations-progressives-abandon-gop"
+    ampWebUrl: "https://www.foxnews.com/politics/capito-biden-infrastructure-meet-negotiations-progressives-abandon-gop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-biden-infrastructure-meet-negotiations-progressives-abandon-gop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "IYFZYgWsUnzsL3oqmj5L20xZheDtPQKPkeB6Yw2Gp0VwcqgRoGE9LIAa0xOXNGlnckfYCwdckWTAHrt6hRFp0Jnhq1AlqH10XR1x/Ck3HyzeIe6lecGP9E4qZHtQ/yQhP8rvVc326CRWJvc9xbxlGG5u1GmdrQFfDHmk++3OXIwsomoDdgazR40x+fBdmxYo6m+iNFvOVZLLcovLnc/T486OXmanQeHVy90vqx4xexdqm8ZiyHfFllpf5F09E34hDVB525HdAPjqIUulnzFXgz+K1klPdjvXr9H8MTH5la1/xW0mEjyf/htZu3nPAFfjU2YAxqDcmt8O1JnkpJjllQb9huXMbQFFS9aiAoaWRhI=;mBRsNegBxyEkMXuz2+wixA=="
 ---

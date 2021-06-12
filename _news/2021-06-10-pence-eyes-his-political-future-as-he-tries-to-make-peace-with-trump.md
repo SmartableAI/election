@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html"
 type: article
 quality: 200
-heat: 420
+heat: 440
 published: true
 
 provider:
@@ -175,6 +175,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623290231331_ott_now_border_leves_210609_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Independent Watchdog Launches Inquiry into Trump-Era Seizure of Lawmakers’ Data"
+    excerpt: "The announcement from the Justice Department’s independent inspector general followed one by Senate Democrats, who announced that they would open their own investigation into the Trump Justice Department’s decision to go after records associated with Congress."
+    publishedDateTime: 2021-06-11T20:45:00Z
+    webUrl: "https://www.nytimes.com/live/2021/06/11/us/politics-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/06/11/us/politics-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/11/us/politics-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/11/world/11new-washington-briefing-doj-folo-1/11new-washington-briefing-doj-folo-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Pence Says He May Never See Trump ‘Eye to Eye’ on Capitol Riot"
     excerpt: "Former Vice President Mike Pence’s speech illustrated the careful balance he is aiming to strike in squaring the rhetoric of the Republican Party under former President Donald J. Trump while standing by his opposition to Mr."

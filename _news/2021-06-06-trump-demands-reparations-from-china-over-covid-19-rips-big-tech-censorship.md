@@ -44,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump rips Biden in return speech at NC GOP convention, vows ‘tremendous 2022’"
+    excerpt: "Former President Donald Trump returned triumphantly with a speech at the North Carolina Republican Convention, where he railed against President Joe Biden, Dr. Anthony Fauci, Democrats, Big Tech,"
+    publishedDateTime: 2021-06-06T02:45:00Z
+    webUrl: "https://nypost.com/2021/06/05/trump-rips-biden-in-nc-gop-convention-speech-vows-tremendous-2022/"
+    ampWebUrl: "https://nypost.com/2021/06/05/trump-rips-biden-in-nc-gop-convention-speech-vows-tremendous-2022/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-rips-biden-in-nc-gop-convention-speech-vows-tremendous-2022/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/DonaldTrumpNC.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "MbtYKHrBJ7KR5mY6a7ixL1ylFOeWKD1Erx+75v0a0YrJjBKlzH83JE5qQnjusqP+o9Jm6Prhkibk/fwCJPZzNT0OF4Lncae01Tv5oWbYFBuj7akAF+CT/yn26t7IU1ECtp+I+k2GIC/fUc6YbzeA19mlT9NB7PfRFnj+76IU8mY7dEB84OYV3gumnyCxBOTkiPEoizHO+g1zg7b5URn+kThU6mdzVY3+EEC4I67ncmLF3NN6Z4y0NP4+Oc6rWZyyll39b8ZFpCo9RSpToBWWl0jFl42wNc8S/0hCSQ2fJamVEjinBhjdRfnqji4tl/vZeoTqQVvQN3Vz8YRnNpojtCJduvs0WKcsLB09jh/B5mc=;P7nyiz/TIbFnGGlg0Am31A=="
 ---

@@ -190,6 +190,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Independent Watchdog Launches Inquiry into Trump-Era Seizure of Lawmakers’ Data"
+    excerpt: "The announcement from the Justice Department’s independent inspector general followed one by Senate Democrats, who announced that they would open their own investigation into the Trump Justice Department’s decision to go after records associated with Congress."
+    publishedDateTime: 2021-06-11T20:45:00Z
+    webUrl: "https://www.nytimes.com/live/2021/06/11/us/politics-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/06/11/us/politics-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/11/us/politics-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/11/world/11new-washington-briefing-doj-folo-1/11new-washington-briefing-doj-folo-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "What Happened When Trump Was Banned on Social Media"
     excerpt: "Since Facebook and Twitter banned him, Donald J. Trump, the former president, has posted statements online far less often. But some of his statements have traveled just as far and wide on social networks."
     publishedDateTime: 2021-06-07T05:00:00Z

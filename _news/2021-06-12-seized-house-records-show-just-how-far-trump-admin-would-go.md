@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Seized House Records Show Just How Far Trump Admin Would Go"
+title: "Seized House records show just how far Trump admin would go"
 excerpt: "Former President Donald Trump has made no secret of his long list of political enemies. It just wasn't clear until now how far he would go to try to punish them. Two House Democrats disclosed this week that their smartphone data was secretly obtained by the Trump Justice Department as part of an effort to uncover the source of leaks related to the investigation of Russian-related election interference."
-publishedDateTime: 2021-06-11T21:33:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/seized-house-records-show-just-how-far-trump-admin-would-go"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/seized-house-records-show-just-how-far-trump-admin-would-go"
+publishedDateTime: 2021-06-12T01:37:00Z
+originalUrl: "https://www.chron.com/news/article/Seized-House-records-show-just-how-far-Trump-16242365.php"
+webUrl: "https://www.chron.com/news/article/Seized-House-records-show-just-how-far-Trump-16242365.php"
+ampWebUrl: "https://www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242365.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242365.php"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Trump: 'Too soon to tell' if Pence would be running mate if he seeks White House in 2024"
@@ -86,6 +90,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/wpRLeVjqUr4MJLNqSSk6m6eOUeo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GHVUJJVORPGNNFDSYUFAYOUXRY.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "G-7 leaders try to signal that page has turned on Trump era"
+    excerpt: "Rich democracies meeting in Britain sought to send a message Friday that they were back in business after a surge in vaccinations and the exit of a disruptive American president."
+    publishedDateTime: 2021-06-11T22:32:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-g7-leaders-england/2021/06/11/adb19d62-cac0-11eb-a11b-6c6191ccd599_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-g7-leaders-england/2021/06/11/adb19d62-cac0-11eb-a11b-6c6191ccd599_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-g7-leaders-england/2021/06/11/adb19d62-cac0-11eb-a11b-6c6191ccd599_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/42LNP2GK5MI6XANRGR4WY44TV4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump tells Fox News it's 'highly unlikely' he'll run for a House seat in 2022"
     excerpt: "A right-wing talk radio host speculated that Trump could run in a safe district and become House Speaker if the GOP were to flip the majority in the 2022 midterms."
@@ -193,6 +213,6 @@ related:
       domain: usnews.com
     quality: 30
 
-secured: "QBiFur3c7ghb+DKKwsW2i3vvrb+Y/xpnKDvM8KDn4dKKRvTDLXmCwNnba+IXcE/1LZ5fpIS2gMNx7ODPnQCn7VKlQ28+le+yVuDnjyHgDaE9FU4vvncswqAbefJq7StA1c64i7rjP9x3SHaPmzve3zFTr/PFnWsb7B/emZULgBHZGz/KWi4LomBDyQPB3O47i/F6HXKvteFMAuoAeYZNWF4t0P0iHmpJpTIpY4NFC2kAUpQzUCRlZDgSDgpncxz5cLVMOt4Pexfg7646p9nv1wGstlyteFcWGDyPsjfDBG/XFS42wPptS8tM/KB7PAYPQhl2yHbAbA3hS6BRsosRFJvLWAvoB/cmNKFsdYDg0uEEJ9cT6bZ3ImmTrtTyN+kxUH8GpUUb6VxeXjYsOV5UATioRLzxDA/snhpDu0ylLYSKdt613edsgLeuwaswZHaszBMvdESQ4Q72nuYHbVcbVDFjfwku2kKRrer3LXStK41bpMrTAx/3QvBA586cmvuggthiANRJZUn+hD8vlPNnUg==;D/P+w79ZLlzveUeZX35nFg=="
+secured: "Y5mdO9mqVeADykgdWta+W3UUPouOZ3LcC7jx87JJytG274lmEXMyiJOLkKt17HEz5wTc4U+wdCfmtAi+CKK5UY7Ww7AcHgA80OKsD/5UZeZ0BXh+OWTBMhOz8IUdu5xcrHv7Q1DGAMv+g8K5ihoOu0kphU50I2jYE4a8xoa3xRxsuk4lCEvybegsK/jUwK4IgRfZNUsMgWTqmdGLBmnH2JTgNBEhmw2ywItuUsGkgDqPGx/a0jaKayynPLDeVW8y3zlIyqxxpiF+8LhRpBqydA8PaGs/bVx8nNZY/MR/41nMtHhHglzOtz6F7UwPyOuCqvMccBWQS5Nki/HNaN8x3C18/nmaKT0uGTDeFSqPXcs=;8Igzp3g2kyl/Zu2NXYyqJw=="
 ---
 

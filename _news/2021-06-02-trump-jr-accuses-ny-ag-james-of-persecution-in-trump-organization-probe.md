@@ -44,22 +44,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Facebook Suspends Donald Trump for at Least Two Years"
-    excerpt: "The company said it would revisit the decision two years from the date of its initial move to suspend him on Jan. 7."
-    publishedDateTime: 2021-06-04T22:33:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-349049/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump backs Nigeria on Twitter ban, says more countries should follow suit"
     excerpt: "The former US president, who himself is banned from the social media platform, defended the West African nation’s decision to block Twitter saying all speech should be heard,"
     publishedDateTime: 2021-06-08T22:09:00Z

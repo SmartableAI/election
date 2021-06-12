@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/transcript/gutfeld-on-fauci-media-coverage-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gutfeld-on-fauci-media-coverage-of-trump.amp"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,72 @@ images:
     height: 405
     isCached: true
 
-secured: "bpSwzENpCpmqfwg58l3RHqJMiWEKBnW6givBvj7JeyZVZbgb1ZgQbb/WJMnXkev1PNnxqSFIpuuIZxAUEcTZOfOHl4S5wdY6eLp/xDaUtBWNLdYIyakz+7IPPEmvMM5u6ozkXm0L0eehDr4DcN8vvrfbsqF4WmOdfsLxTIHEBYDLNczS8qMI6YVbRMwvCpgHZCMokkAqj0qkKyLsmMDZEeuzRsZpyCjx40BuD2/tG6XjpUBKhtBYR0p/EmAuILY0d7EbWhrm861l23IONtzlkgCKHPZ1yacF/cccoaaGxfvz8Kj4Ai5n+Hbzt37njrrXU23LdjEi3CctwHMU2w3lxANaRLslx+pUVEh69r1seso=;LaPMZdMg8MW5v6MgEzz+5Q=="
+related:
+  - title: "‘MediaBuzz’ on Facebook’s Trump ban, media treatment of Biden"
+    excerpt: "What drives me crazy about the media is that when they totally blow it, an all-out, no doubt deep-rooted red-faced botching of a major story, they barely acknowledge it before moving on. You read the coverage now of the circumstantial evidence of the Wuhan lab as the original source of the COVID scourge and there's this flat,"
+    publishedDateTime: 2021-06-08T11:34:00Z
+    webUrl: "https://www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden"
+    ampWebUrl: "https://www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mediabuzz-on-facebooks-trump-ban-media-treatment-of-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1830dbee-539b-438a-9afb-ee5b8eba9049/5d7d1d25-f5a8-4a38-951b-018ce87fc784/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Facebook will end special treatment for politicians after Trump ban"
+    excerpt: "The change will make lawmakers and other elected officials subject to the same moderation rules as everybody else — including ones requiring fact-checking and forbidding bullying."
+    publishedDateTime: 2021-06-03T22:30:00Z
+    webUrl: "https://nypost.com/2021/06/03/facebook-will-end-special-treatment-for-politicians-after-trump-ban/"
+    ampWebUrl: "https://nypost.com/2021/06/03/facebook-will-end-special-treatment-for-politicians-after-trump-ban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/facebook-will-end-special-treatment-for-politicians-after-trump-ban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/facebook-change.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facebook says Trump ban won’t end until at least 2023"
+    excerpt: "Facebook announced it has decided to keep former President Donald Trump blocked from its social media platforms for two years."
+    publishedDateTime: 2021-06-04T17:02:00Z
+    webUrl: "https://nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/"
+    ampWebUrl: "https://nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/04/facebook-says-trump-ban-wont-end-until-at-least-2023/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-FB-inset.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facebook Suspends Donald Trump for at Least Two Years"
+    excerpt: "The company said it would revisit the decision two years from the date of its initial move to suspend him on Jan. 7."
+    publishedDateTime: 2021-06-04T22:33:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-suspends-donald-trump-for-two-years-11622825480"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-349049/social"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "lPw9mY6wZbT20tPMBCmKrL4j+kA4QTatFzn1CprF6h8OQ7vPIjq/Mlgvgb8o49jSfpfTVF8qo7Q/fZEph7M2t8I6D6Cx4X5LEQbsGKzHgBsanzaT+xG+QzB0EIx8N9qlJbjmoLwtNbpHe12jvAmG30xMmlytu2RoJLqLh5LnyUh3KjwNqIl5Xbc7AxCkvLsny7RSa1dKyV2Mmo2ASTtmfVvXQp8pzCF8rzaKwnYPLUfVg4ecRci7JNnUQAVE3vezO4lE7qCKNpgPE8/sB3KxKyFKLLmAVI2kC03Dv0cjnliKzAA49oWsboUNsujbRQSzmDSru2rf0njYX3fAVWBlyhl9L8d58QtSnVMBrHH2H2Y=;Nehc0+SUdTeqPX2n8EH6zQ=="
 ---
 
