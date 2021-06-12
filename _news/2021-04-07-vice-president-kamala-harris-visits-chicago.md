@@ -752,6 +752,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 49
+  - title: "Gavin Newsom sides with Alexandria Ocasio-Cortez in border debate with Kamala Harris"
+    excerpt: "Gavin Newsom, who endorsed Harris early in her 2020 presidential bid, is taking the side of The border has seen a dramatic surge in migrant arrivals, and Harris, who was tasked with leading the Biden administration's response to the surge,"
+    publishedDateTime: 2021-06-11T23:06:00Z
+    webUrl: "https://www.chron.com/politics/article/Gavin-Newsom-Ocasio-Cortez-Kamala-Harris-AOC-WH-16241883.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 48
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/55/16/20632462/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "At Long Last, Kamala Harris Is Home: Take a Look Inside the Vice President's Residence"
     excerpt: "At last—moving day has arrived! Vice President Kamala Harris finally resides in her official residence on the grounds of the U.S. Naval Observatory. Why the long wait, given she was sworn in three months ago? It's because her six-bedroom, 9,000-square ..."
     publishedDateTime: 2021-04-07T21:22:00Z

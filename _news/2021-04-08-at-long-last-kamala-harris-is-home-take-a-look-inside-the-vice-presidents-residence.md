@@ -762,6 +762,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 49
+  - title: "Gavin Newsom sides with Alexandria Ocasio-Cortez in border debate with Kamala Harris"
+    excerpt: "Gavin Newsom, who endorsed Harris early in her 2020 presidential bid, is taking the side of The border has seen a dramatic surge in migrant arrivals, and Harris, who was tasked with leading the Biden administration's response to the surge,"
+    publishedDateTime: 2021-06-11T23:06:00Z
+    webUrl: "https://www.chron.com/politics/article/Gavin-Newsom-Ocasio-Cortez-Kamala-Harris-AOC-WH-16241883.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 48
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/55/16/20632462/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran Internationa"
     excerpt: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran International Airport on Monday, March 15, 2021, in Las Vegas. (Evan Barber)"
     publishedDateTime: 2021-04-02T11:19:00Z

@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Seized House records show just how far Trump admin would go"
+title: "Seized House Records Show Just How Far Trump Admin Would Go"
 excerpt: "Former President Donald Trump has made no secret of his long list of political enemies. It just wasn't clear until now how far he would go to try to punish them. Two House Democrats disclosed this week that their smartphone data was secretly obtained by the Trump Justice Department as part of an effort to uncover the source of leaks related to the investigation of Russian-related election interference."
-publishedDateTime: 2021-06-11T21:44:00Z
-originalUrl: "https://www.chron.com/news/article/Seized-House-records-show-just-how-far-Trump-16242365.php"
-webUrl: "https://www.chron.com/news/article/Seized-House-records-show-just-how-far-Trump-16242365.php"
-ampWebUrl: "https://www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242365.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242365.php"
+publishedDateTime: 2021-06-11T21:33:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/seized-house-records-show-just-how-far-trump-admin-would-go"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/seized-house-records-show-just-how-far-trump-admin-would-go"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Trump: 'Too soon to tell' if Pence would be running mate if he seeks White House in 2024"
@@ -197,6 +193,6 @@ related:
       domain: usnews.com
     quality: 30
 
-secured: "jSwMs5u3Xk4N9WSLszEnT2HnyMGLZuURqCJMbr3NmiN12Xw8NIuOdjT1laUARFc1MmgdPklxPy+zjconGi82bKt4GO0/620zAFTxJgOPe3BY3xzvmnB6gUeBsHHaj71dLGUs8WaUJ5XrattJYsc4mEhqI3tuCuHlIaDF/SH9Mh2xQITVH1rQpuNLxNmGKVfkkNHwqVALeCpnHrjU60Cj6BD5mnisrc/Biesu22NBHCqSWXPfahcWIjXXFzJ6mPhcHswC4Nn6Xtm731iASBm3kC2WHjAyCTBAYNr5YoAyrAuLq+HrX7BP+PUBGv8U9VM9vOOsO7BowQ9H75/4VeMFdRdDYUrtLAt8BrqWYbzaI2E=;7wGumv+Bp/VISMWFttMejA=="
+secured: "QBiFur3c7ghb+DKKwsW2i3vvrb+Y/xpnKDvM8KDn4dKKRvTDLXmCwNnba+IXcE/1LZ5fpIS2gMNx7ODPnQCn7VKlQ28+le+yVuDnjyHgDaE9FU4vvncswqAbefJq7StA1c64i7rjP9x3SHaPmzve3zFTr/PFnWsb7B/emZULgBHZGz/KWi4LomBDyQPB3O47i/F6HXKvteFMAuoAeYZNWF4t0P0iHmpJpTIpY4NFC2kAUpQzUCRlZDgSDgpncxz5cLVMOt4Pexfg7646p9nv1wGstlyteFcWGDyPsjfDBG/XFS42wPptS8tM/KB7PAYPQhl2yHbAbA3hS6BRsosRFJvLWAvoB/cmNKFsdYDg0uEEJ9cT6bZ3ImmTrtTyN+kxUH8GpUUb6VxeXjYsOV5UATioRLzxDA/snhpDu0ylLYSKdt613edsgLeuwaswZHaszBMvdESQ4Q72nuYHbVcbVDFjfwku2kKRrer3LXStK41bpMrTAx/3QvBA586cmvuggthiANRJZUn+hD8vlPNnUg==;D/P+w79ZLlzveUeZX35nFg=="
 ---
 

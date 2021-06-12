@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/conservative-house-republican-leade
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/conservative-house-republican-leaders-trump-meeting-gop-future.amp"
 type: article
 quality: 171
-heat: 311
+heat: 331
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/jason-miller-tech-ceo-722.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Trump DOJ’s Leak Investigations of House Democrats and Media"
+    excerpt: "Lawmakers call for hearings and the Justice Department inspector general launches probe into Trump administration’s secret efforts to find sources of leaks."
+    publishedDateTime: 2021-06-11T19:09:00Z
+    webUrl: "https://www.wsj.com/articles/the-trump-dojs-leak-investigations-of-house-democrats-and-media-11623442195"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-trump-dojs-leak-investigations-of-house-democrats-and-media-11623442195"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-dojs-leak-investigations-of-house-democrats-and-media-11623442195"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-353039/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump meets Republican Study Committee leaders to discuss policy agenda, path to majority"
     excerpt: "Republican Study Committee Chairman Jim Banks and members of the conservative caucus’ leadership team huddled with former President Trump to discuss their policy agenda and path to the majority in"

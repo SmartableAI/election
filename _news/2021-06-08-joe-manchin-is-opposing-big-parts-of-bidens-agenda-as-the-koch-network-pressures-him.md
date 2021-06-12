@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/08/joe-manchin-is-opposing-big-part
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html"
 type: article
 quality: 118
-heat: 158
+heat: 178
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1811587/biden-walks-back-biden-sinema-slam.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Joe Biden: Unearthing the president's unsung English roots"
+    excerpt: "Joe Biden's presence in the UK this week brings him closer to a part of his family heritage that had been obscure - until recently. Last year an English link was added to Mr Biden's well-known Irish ancestry."
+    publishedDateTime: 2021-06-11T23:49:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57394351"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B551/production/_118871464_gettyimages-1233359683-594x594.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "How BidenLand is courting Joe Manchin with house boat dinners, millions of dollars in grants, and West Virginia visits"
     excerpt: "The conservative Democrat continues to play hard-to-get as the White House seeks his crucial vote to move Biden's priorities."

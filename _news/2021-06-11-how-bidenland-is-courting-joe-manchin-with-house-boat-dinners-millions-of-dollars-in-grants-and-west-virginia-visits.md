@@ -61,6 +61,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden: Unearthing the president's unsung English roots"
+    excerpt: "Joe Biden's presence in the UK this week brings him closer to a part of his family heritage that had been obscure - until recently. Last year an English link was added to Mr Biden's well-known Irish ancestry."
+    publishedDateTime: 2021-06-11T23:49:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57394351"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B551/production/_118871464_gettyimages-1233359683-594x594.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "uV7OI7l1QEFW5l3ao4AbLe5FlPPZ52Rqz7ev4yDcxvgyQQm0GmvPxh+XAqV17Xn1WQdJhLi8HvbjiPpnYFbt9cMsZNECjkXYpR1VOsDFFBnkfgepT/DhgZ3TDBdP//5iqGlViN90TYl1xPvrorsegIW96U5Z614tqD57kI5x6XDzFfjBJDJzedhk7XN/DMaZMz8hGRUcKsG/gk7c16Zj2CZh67MAVcKjPOmw9lgE92qvHLt3WRD9+OoIh7Itx73KQdYa1OjJuvxu6jA5LWLWun5WGD8PEj6PZkDi52f7ya257FPMeqNDz+IecFkvQd57VLEX3pnAPlb5ROyFcsADoLyYvT8umzOQdlco/IBylw/INyECmJmMJksgdGi71AHX3csq76Lvj21/BT1TCoQ1gtY1Bzn8fjz3H9BuQgy0GSqXmTfilxrZvYUiIMsr8RnM+H/rsHmQBdrXGnMW98V0s9xFJU0IdP9E9fxI7sVGqpdTsD1F5/StBdtnhq3v00kKJhB/o/pf5PJgZ5NgEVvUbQ==;7S/87br1feb9YX7ynKLE0A=="
 ---

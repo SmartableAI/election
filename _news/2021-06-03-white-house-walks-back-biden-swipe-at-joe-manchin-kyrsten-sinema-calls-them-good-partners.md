@@ -47,6 +47,20 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Joe Biden: Unearthing the president's unsung English roots"
+    excerpt: "Joe Biden's presence in the UK this week brings him closer to a part of his family heritage that had been obscure - until recently. Last year an English link was added to Mr Biden's well-known Irish ancestry."
+    publishedDateTime: 2021-06-11T23:49:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57394351"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B551/production/_118871464_gettyimages-1233359683-594x594.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "How BidenLand is courting Joe Manchin with house boat dinners, millions of dollars in grants, and West Virginia visits"
     excerpt: "The conservative Democrat continues to play hard-to-get as the White House seeks his crucial vote to move Biden's priorities."
     publishedDateTime: 2021-06-10T23:09:00Z

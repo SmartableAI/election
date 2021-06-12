@@ -889,6 +889,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Kamala Harris asks the president of Mexico not to interfere with the work of NGOs"
+    excerpt: "Kamala Harris , toured Mexico and Guatemala to speak with the presidents of both nations. He expressed his concern about the corruption and impunity that occurs in the two countries. The main reason for the visit was \"to attack the migration problem from the root."
+    publishedDateTime: 2021-06-11T22:10:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/Kamala-Harris-asks-the-president-of-Mexico-not-to-16241403.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 50
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/42/17/21111798/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "News conference attendee who told Kamala Harris “I voted for you” was not a reporter"
     excerpt: "The person who told Kamala Harris “I voted for you” at a Mexico City news conference was not a Univision reporter. She was part of an academic research program. She was introduced during the press Q&A portion by White House staff as being with Univision."
     publishedDateTime: 2021-06-10T20:55:00Z

@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "First Thing: ‘Teflon Don no more’ as legal threats mount against Trump"
-    excerpt: "Former president faces increasingly serious legal issues as he teases a 2024 run. Plus, how cicada-phobes are surviving Brood X"
-    publishedDateTime: 2021-06-08T08:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/07bee087791bd38b55d1955b5f487d8c24217a92/0_105_2404_1443/master/2404.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f52110a3c1d23a5f659f64d8bd43a54e"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Former President Trump's DOJ subpoenaed records of at least two House Democrats"
     excerpt: "Former President Donald Trump's Department of Justice reportedly subpoenaed the data of at least a dozen people connected to the House Intelligence Committee back in 2017 and 2018. Among them are Congressman Adam Schiff,"
     publishedDateTime: 2021-06-11T12:39:00Z
@@ -102,20 +86,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Arizona's pro-Trump vote audit is prompting calls for — and against — federal intervention as threats of violence and political fallout loom"
-    excerpt: "Election-security experts are calling for DOJ to intervene in the Arizona 2020 vote audit. But there are concerns federal involvement could backfire."
-    publishedDateTime: 2021-06-10T15:43:00Z
-    webUrl: "https://www.businessinsider.com/arizona-election-audit-trump-update-doj-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-    images:
-      - url: "https://i.insider.com/60c2330323393a00188e275c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Donald Trump to headline high-dollar fundraiser in Dallas for Make America Great Again Action"
     excerpt: "This is a developing story and will be updated. Former President Donald Trump will headline a July 11 fundraiser in Dallas hosted by leaders of the"

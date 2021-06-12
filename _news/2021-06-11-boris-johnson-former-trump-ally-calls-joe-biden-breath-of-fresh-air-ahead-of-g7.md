@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to return diverted border wall money, spend down rest"
+    excerpt: "Former President Donald Trump’s signature border wall project would lose much of its funding as well as the fast-track status that enabled it to bypass environmental regulations under a new Biden admi"
+    publishedDateTime: 2021-06-11T21:35:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-return-diverted-border-wall-money-spend-rest-78230474"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-return-diverted-border-wall-money-spend-rest-78230474"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-return-diverted-border-wall-money-spend-rest-78230474"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_829823954350425e8c693d38b31b2d50_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden restores $929 mln for California high-speed rail withheld by Trump"
     excerpt: "The Biden administration late on Thursday restored a $929 million grant for California's high-speed rail that former President Donald Trump revoked in 2019."
     publishedDateTime: 2021-06-11T09:29:00Z

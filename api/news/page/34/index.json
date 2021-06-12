@@ -2,49 +2,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_news/2021-04-07-harris-vaccinated-can-be-role-models-for-friends-family.md",
-      "title": "Harris: Vaccinated can be 'role models' for friends, family",
-      "excerpt": "Vice President Kamala Harris on Tuesday urged Chicago union members to share their experience receiving a COVID-19 vaccine and act as “role models\" for family and friends who may be reluctant even as Illinois prepares to open access to all adults.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/Harris-Vaccinated-can-be-role-models-for-16081248.php",
-      "originalUrl": "https://www.chron.com/business/article/Harris-Vaccinated-can-be-role-models-for-16081248.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php",
-      "publishedDateTime": "2021-04-06T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-donald-trump-calls-georgia-election-law-too-weak-hope-the-rinos-are-happy.md",
       "title": "Donald Trump Calls Georgia Election Law 'Too Weak': 'Hope the RINOs Are Happy'",
       "excerpt": "Former U.S. President Donald Trump has criticized Georgia's recently passed election law as \"too weak.\" \"Hope the RINOs are happy,\" Trump wrote in a Tuesday statement criticizing the law. RINO is an initialism for Republicans in Name Only. The initialism ...",
@@ -920,7 +877,7 @@
       "originalUrl": "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1140,
+      "heat": 1160,
       "tags": null,
       "images": [
         {
@@ -1346,6 +1303,54 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-trump-melania-met-with-cheers-at-easter-church-service-in-florida.md",
+      "title": "Trump, Melania met with cheers at Easter church service in Florida",
+      "excerpt": "Former President Donald Trump and former First Lady Melania Trump spent their Easter in Florida, attending church before spending time with family at an Easter egg roll at their Mar-a-Lago estate.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/",
+      "originalUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-easter-82.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/amp/",
+      "publishedDateTime": "2021-04-05T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

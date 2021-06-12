@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-tru
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1"
 type: article
 quality: 140
-heat: 1360
+heat: 1380
 published: true
 
 provider:
@@ -883,6 +883,20 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
+    quality: 50
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/42/17/21111798/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Kamala Harris asks the president of Mexico not to interfere with the work of NGOs"
+    excerpt: "Kamala Harris , toured Mexico and Guatemala to speak with the presidents of both nations. He expressed his concern about the corruption and impunity that occurs in the two countries. The main reason for the visit was \"to attack the migration problem from the root."
+    publishedDateTime: 2021-06-11T22:10:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/Kamala-Harris-asks-the-president-of-Mexico-not-to-16241403.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
     quality: 50
     images:
       - url: "https://s.hdnux.com/photos/01/20/42/17/21111798/3/rawImage.jpg"

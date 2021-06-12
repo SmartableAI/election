@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1664
         isCached: true
+  - title: "During Trump administration DOJ subpoenaed phone records of lawmakers"
+    excerpt: "During the Trump administration, The Department of Justice subpoenaed Apple for phone records concerning potential leaks between senior officials and the Russians. They sought records from at least two Congressmen on the House Intelligence Committee,"
+    publishedDateTime: 2021-06-11T23:24:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/during-trump-administration-doj-subpoenaed-phone-records-of-lawmakers-114691653830"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114691653830"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114691653830"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623453730685_nn_pwi_doj_leak_investigation_210611_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "07fg6ovpzrpY8PA74+uC4hwhyj8ouyW79rHJDg5zr239wzSX6X0SKA7sqvQmflR7DVsDywGaqh6Gn3iElSUZ37Kj3PQdFesgRACgJLwoqH2/tS1uuGvDqlrNwULlNjIBJ0e5L5/8tBWx/eHVCxZFa/9+FJfazqYJDxjCCGnkYYcNd7s1eBvmlldapqWLjyg4gdHvT1tB7bKmEUwnCkTu0XCT0tpLGon7o5oMBgvbcxdkUmN2Vi9ngKcna3hzMhgTrAnybIN7NWNQNL5VbkGAKaqILeBVZLLHiJXD38Ih+p/sfqVc4ljlgohVJzO4B/Tz/prSce/KY40xJiMLAKm+7gHPO2+Fj4PS8KaIFDxl+HI=;qoSGTXs8HJJFM+4Fq/AkAw=="
 ---

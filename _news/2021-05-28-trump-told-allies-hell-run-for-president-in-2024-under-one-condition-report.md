@@ -111,22 +111,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Republican leaders say they want to focus on the future, but Trump is far from done with the past"
-    excerpt: "Trump’s appearance Saturday in North Carolina illustrates a continued conundrum for the Republican Party: While he remains overwhelmingly popular among the party’s faithful, he potentially poses a problem for the GOP as it looks to win over voters ahead of the 2022 midterms who are wary of his divisive style."
-    publishedDateTime: 2021-06-06T22:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QA6YQHWG6EI6XL6QS4TPP3ALUY.jpg&w=1440"
-        width: 1440
-        height: 1029
-        isCached: true
   - title: "Fact Check-Trump does not own half of Moderna, as posts claim"
     excerpt: "Moderna, one of the pharmaceutical companies spearheading COVID-19 vaccination efforts in the United States, is not half owned by former president Donald Trump, as posts on social media claim."
     publishedDateTime: 2021-06-02T20:15:00Z
@@ -168,20 +152,6 @@ related:
         width: 640
         height: 456
         isCached: true
-  - title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
-    excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
-    publishedDateTime: 2021-06-09T22:57:00Z
-    webUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/09/d9b8350a-27c7-4f0f-abb4-e6f0f08ba353/thumbnail/1200x630/1586e82cf3dcb5bdded8a03a277cd4fb/0609-en-kvc-731678-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump Believes He Can Regain the Presidency This Summer"
     excerpt: "Maggie Haberman and the Washington Post report that Donald Trump has been proclaiming to anybody who would listen that his return to power is imminent. Trump is obsessively following a so-called “audit” in Arizona,"
     publishedDateTime: 2021-06-03T18:06:00Z
@@ -198,47 +168,6 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "Twitter Reacts To Trump's Extremely Wrinkled Pants, Says It's Worn Backwards"
-    excerpt: "Trump appeared at a Republican convention wearing noticeably wrinkled pants Twitter users claim he wore his trousers backward Snopes later said Trump had been wearing the pants the right way Former President Donald Trump has been the subject of a Twitter storm after he made headlines this week over his attire at a Republican convention."
-    publishedDateTime: 2021-06-08T01:40:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/former-president-donald-trump-north-carolina-republican-partys-convention.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "Back On Stage, Trump Airs Conspiracies And Flirts With 2024 Run"
-    excerpt: "Former US president Donald Trump returned to the spotlight Saturday for his first speech in months, framing next year's midterm elections as a battle for the \"survival of America\" -- but keeping followers guessing on his own plans for 2024."
-    publishedDateTime: 2021-06-06T02:54:00Z
-    webUrl: "https://www.ibtimes.com/back-stage-trump-airs-conspiracies-flirts-2024-run-3218228"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/05/former-us-president-donald-trump-addresses-the-state.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "What happened when Donald Trump was banned from social media"
-    excerpt: "In an examination of Donald Trump's social media engagement both before and after he was banned from Facebook and Twitter, one thing was very clear: His most ardent supporters continued to spread his message when he was unable to"
-    publishedDateTime: 2021-06-07T18:55:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
 
 secured: "BWYvEGkYXcHS4GUBmmZYCrOCB5tSaF9uBdjN/kbO5ulv7gGbZHBUecTSSJDlnLIDVlpzDhnzwNeUB3lXIQ8wsQXS0REt9TcFPG1ikENzBYvh54wUi5r11ixl0O8074jILKVXy0bFxGpjdS6ElJl5bvobZv/2AS1BLEsgZYH5OXiUTXa19v8KTEZWmpSRboBLel9eBI4PwOLfn3W+FLfh0B7sPRnF4z1U7hJEZFAa2JF1zOA4kkFIZQmxHqKs7MEaEWl4iFI/s5JDZ0XCNF+VvehvNTK5z1xzX4R1fxzgEhBxY8PmylVP2TK4a2+COn5sgXpPMHJ02V/oF4iQvg3vE1bFN4sOWAv8ZR/WgkcSmkUDeGPj8LGdR2FK5AUnmr0qbz3dN5E9q0sR6IrPLv5fMOVm4kfbrp8cOB9w6iF2N+Clkr6iJKCnTpZmOSAHQ36JUOPU0s03Cf5Eck5lEpnjf+TipMEIZa4aSLedbOIFXcnT1pvpNBJ/Kh+HB2qzSkK5tTvil3ksiugPaHR7anudwQ==;Lh8V4tet4X09QnCcqNhvVg=="
 ---

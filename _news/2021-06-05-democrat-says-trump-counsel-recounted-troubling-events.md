@@ -59,35 +59,53 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dems demand Trump officials testify on reported records seizure"
-    excerpt: "Top News Dems demand Trump officials testify on reported records seizure. Posted . Top Senate Democrats on Friday demanded two former U.S. attorneys general testify about reported"
-    publishedDateTime: 2021-06-11T20:09:00Z
-    webUrl: "https://www.reuters.com/video/watch/dems-demand-trump-officials-testify-on-r-id731354951"
+  - title: "Senate demands Trump-era Attorneys General Bill Barr and Jeff Sessions testify about data seizure"
+    excerpt: "Senate Democratic leaders are demanding that Trump-era Attorneys General Bill Barr and Jeff Sessions testify about the secret seizure of data from House Democrats in 2018."
+    publishedDateTime: 2021-06-11T16:13:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-congress-spying-democrats-leak-data-20210611-ssnu2vw7wvcwdcs2z2ykgf2zja-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-congress-spying-democrats-leak-data-20210611-ssnu2vw7wvcwdcs2z2ykgf2zja-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-congress-spying-democrats-leak-data-20210611-ssnu2vw7wvcwdcs2z2ykgf2zja-story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210611&i=OVEGYPSYN&r=OVEGYPSYN&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Trump's Justice Department targeted Democrats in Congress in search for source of leaks related to the Russia investigation, New York Times reports"
-    excerpt: "Officials subpoenaed Apple for communications data of Reps. Adam Schiff and Eric Swalwell, as well as their families and staffers."
-    publishedDateTime: 2021-06-11T03:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/60c2b63023393a00188e2931?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/KmjGF3TydT6psPipxirKHnDWozs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DAWPECQE62SPV5X2BT76HFCLPY.aspx"
         width: 1200
-        height: 600
+        height: 800
+        isCached: true
+  - title: "Congress, Justice Dept. probing Trump seizures of Dems' data"
+    excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
+    publishedDateTime: 2021-06-11T18:50:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Justice Dept., Congress probing Trump seizures of Dems' data"
+    excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
+    publishedDateTime: 2021-06-11T21:10:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "'Trump Man' Admits To Repeatedly Pooping On Neighbors' Lawn Because They're 'Democrats'"
     excerpt: "Ohio police said Jerry Detrick, 70, admitted to repeatedly defecating in front of a neighbor's home because he said the residents \"are Democrats and support Joe Biden.\""
@@ -116,6 +134,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump DOJ Forced Apple To Hand Over Data Of Democrats In Congress: NYT"
+    excerpt: "Prosecutors in the US Justice Department under former president Donald Trump seized data from Apple from two Democratic lawmakers on the House Intelligence Committee, as well as that of their staff and family members,"
+    publishedDateTime: 2021-06-11T06:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
+        width: 1024
+        height: 621
+        isCached: true
 
 secured: "PFzAmKFjRCliMaqI0V2Da06ECQnwMcLci0Oii5IEbPCV+djJnKkr2SYrfKmSP8vbqqpWWaZx4qnV6AlG4qNEanY5MSSVHEffa2qR2h37XPiy5NKThhpdio/JqQ1HWqZ2UmBx8dtWK+MgbjeTU7x3qE8sj+woEgOupDEVts6s6reyI15WgUZClKFKfndJVCuGde3M5kQvXO/0iEI6yoypDnp+3kFhuRX8XiBgW7f67D4YlxKWnhWLmC9bqwHIykQLgG/nBYsam8B9xeC17tyWRGvlcgocUxDplBBt4fpAdpaFs0sjfmK4ukokCDekMQIWDoNuImwgAti1tYSwnX045fSlssWBIHEuc/k6A37ZRYia7lOHYHHeNzan32FvJJ+OE0aw/E9rt4QKKhdgbp0fFeRos3JYeiTk2jnQY98ImgLEdVb4C6pplew98T7rbZtdKdBXuan9Km45PdAYRawk5bMaUiZX32YsiDU7+IrBDYVceIpJjj5402A7LLJU6oZ25PwgYJ14DfivI1X04+d62w==;AxkTdU4NJ1BwOpzDe4Sk+A=="
 ---

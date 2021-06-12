@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4997276001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4997276001"
 type: article
 quality: 125
-heat: 305
+heat: 285
 published: true
 
 provider:
@@ -157,17 +157,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
-    excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
-    publishedDateTime: 2021-04-30T12:06:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 52
 
 secured: "QOzTEBDGg5TmFegvB0o/6oO3bAKrrRNi9TC0gQM+6P0ZH6hReRzzV2R9/IWWdUFxsggKB/pYqSm61uuAoTe3WqkdBYWPOgXM7Ceb/6bc5Hw24X1MQPOy1/hrbC5nuvdqZhNGd8GSzxqQEU9BLEeXSh5StrFRD6dLbT4l+v47BxiHXCXfZ4Bz81d0BRQMHn9rZOnAXpsDervj/VZxvbTZut2FIV/hZD8xx7IrCiC7uu8DFLBPH/+psvQDqhiqZJJ3cgsIprXCx+pA1aRV7fB+iudhR0X+2V8jnkHK7MKHE+KPtCYXqpRIonMiEnvXvg9rc1COH0h26oOwxtXwWFrvU1KODJJps1vAAo2gtUWU5lHqiUX8JjTfax4+/C8JXWV2WEOk7XFu9HGQ6/7clupQ9lhjX3JS8aMWLAPWFw0t+dlgE/xCmMFGE5I4iJ9wqlagnjYA0zjZB0xGXgCFWe37vOILrTCNGXTVCIGNqlJf+4BHNBeZQI+D2oPoRHCADYNasjxf5OfFsYL5npDmYq4gPg==;Qowco6TqcUors1TlPyVNyQ=="
 ---

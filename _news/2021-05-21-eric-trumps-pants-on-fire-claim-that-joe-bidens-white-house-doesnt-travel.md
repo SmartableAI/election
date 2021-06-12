@@ -1884,6 +1884,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Putin Hopes Biden Less Impulsive Than Trump"
+    excerpt: "Russian President Vladimir Putin voiced hope Friday that Joe Biden will be less impulsive than his predecessor Donald Trump ahead of his first summit with the new US leader. In an interview with NBC News,"
+    publishedDateTime: 2021-06-11T23:29:00Z
+    webUrl: "https://www.ibtimes.com/putin-hopes-biden-less-impulsive-trump-3224018"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/russian-president-vladimir-putin-and-us-president-joe.jpg"
+        width: 1024
+        height: 752
+        isCached: true
   - title: "After blowback, White House says Biden will move to lift Trump-era refugee caps"
     excerpt: "The White House on Friday said President Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements."
     publishedDateTime: 2021-04-16T21:45:00Z

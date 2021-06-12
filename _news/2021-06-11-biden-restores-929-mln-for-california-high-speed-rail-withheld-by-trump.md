@@ -125,6 +125,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to return diverted border wall money, spend down rest"
+    excerpt: "Former President Donald Trump’s signature border wall project would lose much of its funding as well as the fast-track status that enabled it to bypass environmental regulations under a new Biden admi"
+    publishedDateTime: 2021-06-11T21:35:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-return-diverted-border-wall-money-spend-rest-78230474"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-return-diverted-border-wall-money-spend-rest-78230474"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-return-diverted-border-wall-money-spend-rest-78230474"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_829823954350425e8c693d38b31b2d50_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden DOJ Plans To Continue To Defend Trump In E. Jean Carroll's Defamation Lawsuit"
     excerpt: "The Justice Department simultaneously distanced itself from the allegations Carroll has made that former President Donald Trump sexually assaulted her in the 1990s."
     publishedDateTime: 2021-06-08T15:18:00Z

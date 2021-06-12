@@ -108,6 +108,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Trump DOJ’s Leak Investigations of House Democrats and Media"
+    excerpt: "Lawmakers call for hearings and the Justice Department inspector general launches probe into Trump administration’s secret efforts to find sources of leaks."
+    publishedDateTime: 2021-06-11T19:09:00Z
+    webUrl: "https://www.wsj.com/articles/the-trump-dojs-leak-investigations-of-house-democrats-and-media-11623442195"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-trump-dojs-leak-investigations-of-house-democrats-and-media-11623442195"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-dojs-leak-investigations-of-house-democrats-and-media-11623442195"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-353039/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "CNN's Don Lemon continues Trump obsession hours after urging the media to 'leave him alone'"
     excerpt: "CNN anchor Don Lemon cannot quit Donald Trump even after he urged the rest of the media to do so. Lemon raised eyebrows on Thursday during his appearance on CNN's \"New Day\" when he pleaded to his journalism colleagues to lay off covering the former president a bit."
     publishedDateTime: 2021-06-05T03:57:00Z

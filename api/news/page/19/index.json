@@ -2,62 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2021-05-04-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.md",
-      "title": "DOJ ordered to turn over Trump obstruction of justice memo",
-      "excerpt": "A judge has ordered the Department of Justice (DOJ) to turn over an internal memo from March 2019 that then-Attorney General Bill Barr cited as his reason not to charge former President Trump with obstruction of justice following the Mueller investigation. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nyOZae-aROc/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nyOZae-aROc/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 755,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/720/405/ag-barr.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp",
-      "publishedDateTime": "2021-05-04T16:33:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-04-secret-william-barr-memo-saying-not-to-charge-trump-must-be-released-judge-says.md",
       "title": "Secret William Barr memo saying not to charge Trump must be released, judge says",
       "excerpt": "A federal judge this week rejected the Justice Department's attempts to keep secret a departmental opinion to not charge former President Donald Trump with obstruction at the end of the Mueller investigation, calling the administration's lawyers \"disingenuous.\"\n    \n",
@@ -546,7 +490,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2850,
+      "heat": 2870,
       "tags": null,
       "images": [
         {
@@ -1334,6 +1278,62 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-02-biden-adviser-president-didnt-say-absolutely-open-schools-in-fall-because-virus-is-unpredictable.md",
+      "title": "Biden adviser: President didn't say 'absolutely' open schools in fall because virus is unpredictable",
+      "excerpt": "President Joe Biden hasn't committed to K-12 schools reopening full-time and in-person in the fall, one of his senior advisers said Sunday, because the coronavirus remains unpredictable.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FGS6mRLqPwU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FGS6mRLqPwU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210502092834-screengrab-anita-dunn-cnn-0502-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/02/politics/anita-dunn-schools-reopen-biden-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/02/politics/anita-dunn-schools-reopen-biden-cnntv/index.html",
+      "publishedDateTime": "2021-05-02T07:27:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

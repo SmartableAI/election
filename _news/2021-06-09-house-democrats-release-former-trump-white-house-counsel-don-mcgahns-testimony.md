@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/don-mcgahn-transcript-re
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/don-mcgahn-transcript-released/index.html"
 type: article
 quality: 170
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480277/210604-don_mcgahn-mc-1225.JPG"
         width: 2500
         height: 1664
+        isCached: true
+  - title: "During Trump administration DOJ subpoenaed phone records of lawmakers"
+    excerpt: "During the Trump administration, The Department of Justice subpoenaed Apple for phone records concerning potential leaks between senior officials and the Russians. They sought records from at least two Congressmen on the House Intelligence Committee,"
+    publishedDateTime: 2021-06-11T23:24:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/during-trump-administration-doj-subpoenaed-phone-records-of-lawmakers-114691653830"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114691653830"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114691653830"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623453730685_nn_pwi_doj_leak_investigation_210611_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "kTnPhl78lEKEz+ON/vVaefQm/Nvi0MNAB1XiupIqVAZrhdGoIden1kqYDVH//XLzr/QBDc+CzbynB4kOgm+Xzna/mTMaMP1xcAATw9C6UlHrk7I9TKAW1l04Mm9JsNLfCZXuZZ6CdFXZ/hxUyfzDElPIjq/RWdyYyExgzBoyjbYn/L0xbVRnlDXw7DMIyXywTWbArZZ4dogGvYIdMKQpvdmaDGPj/Bf6VKYDaJ5/ck4HJblseJVyH5pNBDCXLi3cFR27o5rN9rnuOvrbesB/TuxgNFbimkTkTCtz61NdNZSQPwnFgj+c2/6Y1nkTDTSk3u14GLlqXtVB6BQc/cQKD4aTtdybMnUUG3H181bFJxo=;U0ouFOp5Kyb4TvQKE9UJYw=="

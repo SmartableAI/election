@@ -31,53 +31,126 @@ images:
     isCached: true
 
 related:
-  - title: "State bar investigating Texas Attorney General Ken Paxton over Trump election lawsuit"
-    excerpt: "A Democratic Party activist complained that Ken Paxton's challenge to President Joe Biden's victory in four states was frivolous and unethical."
-    publishedDateTime: 2021-06-10T12:37:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/10/texas-bar-investigates-attorney-general-ken-paxton-over-election-suit/7633751002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7633751002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633751002"
+  - title: "Trump DoJ secretly seized House Democrats’ data in crackdown on leaks"
+    excerpt: "At least two House members including Adam Schiff targeted in 2018, say officials familiar with the investigation"
+    publishedDateTime: 2021-06-11T11:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/06/NAAS/a4019b43-5247-4de3-96bb-87bf22051b19-Electoral_College_Protests.jpg?auto=webp&crop=4847,2727,x0,y246&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i.guim.co.uk/img/media/833a082fef419e963431b1565b44ba0c16badbf1/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7272812056fc84ee1bc19156633221c5"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Democrats urge Justice Department not to defend Trump in defamation suit"
-    excerpt: "House Democrats are urging Attorney General Merrick Garland to reconsider the Justice Department's decision to take up the defense of former President Trump in a defamation lawsuit. The 2019 suit was filed by writer E."
-    publishedDateTime: 2021-06-10T01:27:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-defamation-lawsuit-justice-department-analysis-josh-gerstein/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-defamation-lawsuit-justice-department-analysis-josh-gerstein/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-defamation-lawsuit-justice-department-analysis-josh-gerstein/"
+  - title: "Trump Justice Department seized House Democrats' data"
+    excerpt: "CBS News has confirmed the Justice Department under President Donald Trump subpoenaed the personal metadata of at least a dozen people tied to the House Intelligence Committee in 2017 and again in 2018,"
+    publishedDateTime: 2021-06-11T18:40:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-doj-targeted-house-dems-in-leak-investigation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-doj-targeted-house-dems-in-leak-investigation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-doj-targeted-house-dems-in-leak-investigation/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/10/97110378-481d-4108-960d-305037a0a644/thumbnail/1200x630/25c5128bf43def0f71389023eda6e6c2/cbsn-fusion-trump-defamation-lawsuit-justice-department-analysis-josh-gerstein-thumbnail-731825-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/11/01a71634-efa9-41aa-b80c-f0b230217c43/thumbnail/1200x630/fdecbe725190761810c4488e5a5103d8/cbsn-fusion-trump-doj-targeted-house-dems-in-leak-investigation-thumbnail-732937-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Congress wins battle for Trump aide’s testimony, but a broader war over subpoena power goes on"
-    excerpt: "Former White House counsel Donald McGahn will appear before the House Judiciary Committee on Friday as part of a deal that averts a Supreme Court showdown over congressional subpoenas, leaving unanswered questions about what happens in future separation-of-power disputes."
-    publishedDateTime: 2021-06-03T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/don-mcgahn-trump-interview-house-judiciary/2021/06/02/0ec9e798-c3d3-11eb-9a8d-f95d7724967c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/don-mcgahn-trump-interview-house-judiciary/2021/06/02/0ec9e798-c3d3-11eb-9a8d-f95d7724967c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/don-mcgahn-trump-interview-house-judiciary/2021/06/02/0ec9e798-c3d3-11eb-9a8d-f95d7724967c_story.html?outputType=amp"
+  - title: "Democrat says Trump counsel recounted 'troubling events'"
+    excerpt: "The closed-door interview, which came two years after House Democrats originally sought his testimony, was originally part of Democrats' efforts to investigate whether Trump tried to obstruct Justice Department investigations into his 2016 presidential campaign."
+    publishedDateTime: 2021-06-04T23:46:00Z
+    webUrl: "https://www.chron.com/news/article/After-2-year-battle-House-panel-to-interview-16224038.php"
+    ampWebUrl: "https://www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3M3QUYGD7EI6XGUN7FOXOJEWPQ.jpg&w=1440"
-        width: 1440
-        height: 1022
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Congress, Justice Dept. probing Trump seizures of Dems' data"
+    excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
+    publishedDateTime: 2021-06-11T18:50:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Justice Dept., Congress probing Trump seizures of Dems' data"
+    excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
+    publishedDateTime: 2021-06-11T21:10:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "'Trump Man' Admits To Repeatedly Pooping On Neighbors' Lawn Because They're 'Democrats'"
+    excerpt: "Ohio police said Jerry Detrick, 70, admitted to repeatedly defecating in front of a neighbor's home because he said the residents \"are Democrats and support Joe Biden.\""
+    publishedDateTime: 2021-06-07T05:55:00Z
+    webUrl: "https://www.ibtimes.com/trump-man-admits-repeatedly-pooping-neighbors-lawn-because-theyre-democrats-3218933"
+    ampWebUrl: "https://www.ibtimes.com/trump-man-admits-repeatedly-pooping-neighbors-lawn-because-theyre-democrats-3218933?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-man-admits-repeatedly-pooping-neighbors-lawn-because-theyre-democrats-3218933?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/stars-stripes-21806501280.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "NY Times: Trump DOJ Investigated House Dems, Seized Data"
+    excerpt: "House Speaker Nancy Pelosi and other top Democrats are calling for an investigation after The New York Times reported Thursday that the Justice Department under President Donald Trump seized communications data of members of the House intelligence committee."
+    publishedDateTime: 2021-06-11T01:13:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump DOJ Forced Apple To Hand Over Data Of Democrats In Congress: NYT"
+    excerpt: "Prosecutors in the US Justice Department under former president Donald Trump seized data from Apple from two Democratic lawmakers on the House Intelligence Committee, as well as that of their staff and family members,"
+    publishedDateTime: 2021-06-11T06:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
+        width: 1024
+        height: 621
         isCached: true
 
 secured: "SIQquIFhoA/fI/30kHYnlbzu22xYfUuDn+eW83CXPTUK5RpgSrqyWPP9tpVnR7M1t+3QVYSwKUWfD9ygBlSx75g3+gO4x7D5ARP0GsIjmgd/bHkdFKbwkEkPibVHZ5a4fd8lo0uzSYPH0U1DWN0m/0S7TK534tAtRkBoWiy2F1d67EMYydzac/iYWpIshjjRYNk4RRg3OOHz7JuIKvwagkbA2RDguBpfqGG7Cna8PmjYBT5Sheiy2c6O78Cl7PNn33OY5+4fUo0f0IvJhgHLCcQnOcL/3bkErEJy6w4HabEzdlcuK786uepHe+SneeSGNZE8EGLYMvySZwkHuz5P8dORHqojQffR3spUFsxhga4=;b7FejEPqoGU0oLxOyXMg9Q=="

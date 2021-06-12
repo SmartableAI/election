@@ -37,10 +37,10 @@ related:
         isCached: true
   - title: "Biden nominee's link to 1989 logging sabotage blasted by GOP"
     excerpt: "President Joe Biden’s nominee to oversee federal lands in the U.S. West is facing Republican pressure to withdraw over her ties to environmental activists convicted of spiking trees to sabotage a nati"
-    publishedDateTime: 2021-06-11T20:52:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229806"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229806"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229806"
+    publishedDateTime: 2021-06-11T21:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229805"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229805"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229805"
     type: article
     provider:
       name: ABC
@@ -50,6 +50,22 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_c8b6b6f1a05d48fa8b0719b37266a661_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "All the Queen’s presidents: Biden will be 13th US leader to meet monarch"
+    excerpt: "Biden previously met the Queen in 1982 while she has met every US president since Eisenhower except Lyndon B Johnson"
+    publishedDateTime: 2021-06-11T17:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/11/joe-biden-queen-meeting-presidents-photos"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/11/joe-biden-queen-meeting-presidents-photos"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/11/joe-biden-queen-meeting-presidents-photos"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/db75f8fd1df67f101245365ecb0501f020301bbc/0_39_2023_1214/master/2023.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f868fa28983de7cc7adef6cd008110dc"
+        width: 600
+        height: 360
         isCached: true
   - title: "White House says Biden-Putin meeting not a reward but good way to manage ties"
     excerpt: "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,"

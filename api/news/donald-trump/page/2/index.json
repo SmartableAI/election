@@ -2,63 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-06-05-arizona-republican-who-ordered-election-audit-touted-trump-phone-call-giuliani-support-in-emails.md",
-      "title": "Arizona Republican who ordered election audit touted Trump phone call, Giuliani support in emails",
-      "excerpt": "Karen Fann, the state Senate president, also told a constituent that \"Biden won,\" according to the messages obtained and released by a watchdog group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/arizona-republican-who-ordered-election-audit-touted-trump-phone-call-n1269718",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/arizona-republican-who-ordered-election-audit-touted-trump-phone-call-n1269718",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480512/210604-arizona-maricopa-audit-ac-702p.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1269718",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269718",
-      "publishedDateTime": "2021-06-04T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-04-next-stop-on-donald-trumps-political-comeback-tour-dallas-in-july-for-cpac.md",
       "title": "Next stop on Donald Trump’s political comeback tour: Dallas in July for CPAC",
       "excerpt": "Donald Trump will be in Dallas in July to appear at a major conservative gathering, organizers said Thursday — a fresh spotlight in a",
@@ -163,7 +106,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-grip-gop-sparks-fears-democratic-process-78078235",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -421,7 +364,7 @@
       "originalUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -839,7 +782,7 @@
       "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/06/01/trump-supporters-celebrate-memorial-day-boat-parade-florida/5288009001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1208,7 +1151,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1558,6 +1501,54 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-trump-laments-7-year-high-gas-prices-as-americans-prep-for-memorial-day.md",
+      "title": "Trump laments 7-year-high gas prices as Americans prep for Memorial Day",
+      "excerpt": "Former President Donald Trump expressed concern Thursday for Americans forced to pay sky-high gas prices as millions hit the road for the Memorial Day holiday. “With Memorial Day Weekend",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/",
+      "originalUrl": "https://nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-2.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/27/trump-laments-7-year-high-gas-prices-before-memorial-day/amp/",
+      "publishedDateTime": "2021-05-27T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

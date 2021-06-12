@@ -1888,6 +1888,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Putin Hopes Biden Less Impulsive Than Trump"
+    excerpt: "Russian President Vladimir Putin voiced hope Friday that Joe Biden will be less impulsive than his predecessor Donald Trump ahead of his first summit with the new US leader. In an interview with NBC News,"
+    publishedDateTime: 2021-06-11T23:29:00Z
+    webUrl: "https://www.ibtimes.com/putin-hopes-biden-less-impulsive-trump-3224018"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/russian-president-vladimir-putin-and-us-president-joe.jpg"
+        width: 1024
+        height: 752
+        isCached: true
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"
     publishedDateTime: 2021-05-20T20:26:00Z
