@@ -75,6 +75,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "US closes Trump-era office for victims of immigrant crime"
+    excerpt: "The Biden administration said Friday it has dismantled a Trump-era government office to help victims of crimes committed by immigrants, a move that symbolizes President Joe Biden's rejection of former President Donald Trump's repeated efforts to link immigrants to crime."
+    publishedDateTime: 2021-06-12T01:54:00Z
+    webUrl: "https://www.chron.com/news/article/US-closes-Trump-era-office-for-victims-of-16241321.php"
+    ampWebUrl: "https://www.chron.com/news/amp/US-closes-Trump-era-office-for-victims-of-16241321.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/US-closes-Trump-era-office-for-victims-of-16241321.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
     excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
     publishedDateTime: 2021-06-03T00:58:00Z

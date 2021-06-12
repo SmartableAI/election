@@ -490,6 +490,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Ingraham claims White House is having 'buyer's remorse' over Kamala Harris"
+    excerpt: "\"The Ingraham Angle\" host Laura Ingraham recapped the Biden administration's blunders both abroad and in the media on Friday, as President Biden traveled to Europe and Vice President Kamala Harris was forced to answer questions on immigration."
+    publishedDateTime: 2021-06-12T03:20:00Z
+    webUrl: "https://www.foxnews.com/media/ingraham-white-house-buyers-remorse-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/media/ingraham-white-house-buyers-remorse-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-white-house-buyers-remorse-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f1f102f7-ed5e-499e-8bf8-7256e5d2911d/a4a8442b-cebd-43ff-b8e6-a669ab4d0f0c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "CNN: Kamala Harris' team 'dismayed' by being held responsible for border crisis"
     excerpt: "Vice President Kamala Harris is frustrated by her border role being “mischaracterized” by Republicans and some media outlets, CNN reported Tuesday, saying Harris was not in charge of stemming border crossings themselves but rather “root causes” of migration."
     publishedDateTime: 2021-06-01T16:01:00Z

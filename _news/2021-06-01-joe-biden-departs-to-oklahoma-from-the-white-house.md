@@ -329,14 +329,14 @@ related:
   - title: "President Joe Biden and First Lady Dr. Jill Biden Depart the White House"
     excerpt: "United States President Joe Biden and first lady Dr. Jill Biden depart the White House from the Ellipse in Washington, DC, on Wednesday, June 9, 2021. Biden will be in Europe for a week. Photo by Chri"
     publishedDateTime: 2021-06-09T15:01:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/38e69482eefe21ac8edf868cde3c18c2/President-Joe-Biden-and-First-Lady-Dr-Jill-Biden-Depart-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6c6b8860b6158cc49046d886a1d194d7/President-Joe-Biden-and-First-Lady-Dr-Jill-Biden-Depart-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/38e69482eefe21ac8edf868cde3c18c2/BIDEN-DEPART.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/6c6b8860b6158cc49046d886a1d194d7/BIDEN-DEPART.jpg"
         width: 650
         height: 433
         isCached: true

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-08-protesters-in-guatemala-meet-kamala-harris-with-trump-won-signs.md",
+      "title": "Protesters in Guatemala Meet Kamala Harris With 'Trump Won' Signs",
+      "excerpt": "U.S. Vice President Kamala Harris was met by protesters holding signs reading messages such as \"Trump won\" and \"Go home\" in Guatemala on Monday, the New York Post reported, as the country's president blames the Biden administration for this year's migrant crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351",
+      "originalUrl": "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1380,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1815134/harris-guatemala.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1",
+      "publishedDateTime": "2021-06-07T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-stormy-daniels-says-she-would-love-to-testify-in-trump-organization-probe.md",
       "title": "Stormy Daniels says she would 'love' to testify in Trump Organization probe",
       "excerpt": "Stormy Daniels said Monday that she has not yet testified in a New York criminal probe into the Trump Organization but that she would \"love nothing more than\" to be interviewed by prosecutors investigating former President Donald Trump's sprawling company.\n    \n",
@@ -1218,7 +1270,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1012,
+      "heat": 1032,
       "tags": null,
       "images": [
         {
@@ -1316,58 +1368,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-china-fauci-and-hoaxes-donald-trump-targets-usual-suspects-in-return-to-stage.md",
-      "title": "China, Fauci and hoaxes: Donald Trump targets usual suspects in return to stage",
-      "excerpt": "Former president seeks limelight ahead of midterms, calling on China to pay Covid reparations and dismissing criminal inquiries into his business dealings",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/73af5f6e2ee2429f8282c954d2b810ce5735b6cb/0_185_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3358b50e34c7af97b2a5b6c149e14100",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus",
-      "publishedDateTime": "2021-06-05T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

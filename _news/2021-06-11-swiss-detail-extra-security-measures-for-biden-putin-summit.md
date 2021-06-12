@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/swiss-detail-extr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.dailypress.com/resizer/KIBIV8LE101K42fzWK80434u_mY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43KYGC2HX5CKFO4UF477T2VODQ.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How Joe Biden could increase pressure on Vladimir Putin if their June 16 meeting fails to deter Russia's 'harmful' behavior"
+    excerpt: "When announcing financial penalties on Russia earlier this year, Biden hinted at the prospect of further sanctions. An energy scholar explains what Biden may have meant."
+    publishedDateTime: 2021-06-11T18:30:00Z
+    webUrl: "https://www.pri.org/stories/2021-06-11/how-joe-biden-could-increase-pressure-vladimir-putin-if-their-june-16-meeting"
+    ampWebUrl: "https://www.pri.org/stories/2021-06-11/how-joe-biden-could-increase-pressure-vladimir-putin-if-their-june-16-meeting?amp"
+    cdnAmpWebUrl: "https://www-pri-org.cdn.ampproject.org/c/s/www.pri.org/stories/2021-06-11/how-joe-biden-could-increase-pressure-vladimir-putin-if-their-june-16-meeting?amp"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 49
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2021/06/file-20210608-135197-1xrw33t.jpeg?itok=OwnwwivO"
+        width: 1200
+        height: 707
         isCached: true
 
 secured: "A7RFWj5wR7oRlNQah7rAML+2/F+uwoGlRwzDkR/D1J2gBxbewydWpPLNAAJ/jLqAjjjIWcb6SyaetvKQmNoozF8fji6Cm4869CiIRubM39bP7V407BVU9xDw51XOMxtruRlj3damQJVONaT3EU3bWPt+gpcdDz5ZG8j35Xz/XHOxOyNoo0+wvFivQ7D4cKdArjsIH5JetPJ0B7MukYXorGD20DmuW4H7LZT8GoB69HePROv/ZtCNbvCmCWVxhAcFnLr++WjMn7Pnv6FEBHKshoGT6j73rI3uUBQCRL5iO+X3qiGFIetfTjS+BhHoTAJIfkqgdmzVA2KoQ+dAwJ/BACY3DMc7MOdbJmaaXUXhdbA+HY+CYZzICzEKll5I2kkE0QxpYDSum8lDMPFa6QpURJ/9RmnGtaPxmy29KmOQ4Z6R1juFkvfU26U9XYCwrGs2aLXUrASzX6GEzp3+SlkhGogUdbrR35y1c6T/WQN9ByyIcgZfoYRj7Y5oPpQ8wX5rOdCw8eYIk6hg7hDcr/8IeA==;UWtC6xsjOFv1l0Zh9Rzj5A=="

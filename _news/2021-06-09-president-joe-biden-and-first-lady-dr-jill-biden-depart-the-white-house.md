@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden and First Lady Dr. Jill Biden Depart the White House"
 excerpt: "United States President Joe Biden and first lady Dr. Jill Biden depart the White House from the Ellipse in Washington, DC, on Wednesday, June 9, 2021. Biden will be in Europe for a week. Photo by Chri"
 publishedDateTime: 2021-06-09T15:01:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/38e69482eefe21ac8edf868cde3c18c2/President-Joe-Biden-and-First-Lady-Dr-Jill-Biden-Depart-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/38e69482eefe21ac8edf868cde3c18c2/President-Joe-Biden-and-First-Lady-Dr-Jill-Biden-Depart-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/6c6b8860b6158cc49046d886a1d194d7/President-Joe-Biden-and-First-Lady-Dr-Jill-Biden-Depart-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/6c6b8860b6158cc49046d886a1d194d7/President-Joe-Biden-and-First-Lady-Dr-Jill-Biden-Depart-the-White-House/"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/38e69482eefe21ac8edf868cde3c18c2/BIDEN-DEPART.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/6c6b8860b6158cc49046d886a1d194d7/BIDEN-DEPART.jpg"
     width: 650
     height: 433
     isCached: true
@@ -355,6 +355,6 @@ related:
         height: 433
         isCached: true
 
-secured: "Ee8phom1vFsnYW6x5pUf8ZGW7ecHwJpo9dCgRdhJ3czrBLez0az9oe25FaPkk28QGyQkjIypZaDUs7LXkhEBTviV43DRIpTaQjwNWisxyNW97fDksnDIp5G4/zncic9whN4FApD9ne751+GgMiZ+3xY00OSDVjoiAuXOApVoZR0tcEWf0hmL4+InNJoIdkdUAGsusTagSp5MRm/nq4w93b3mAgbBrhSj9Z4pgZA5n7bpMYW364rpBjrpAyV3+jFQHzYlvGVIpO7/bEcfTpftsYfdhI22QQmAeUBANut+4rTDc2MqFKjOtEa6P9Rg20IVQwXizLOVjXM7YYO5UIRd+jVicQErGC3TjJ/blWQD2wY=;VpXP9sC8oSTiSmKcbCfajw=="
+secured: "9PpqRi3oTrnM7P9MJNp1MkfG5LdvYl90fGrqM4KqCP2er45pWshvVE50TFthsoEOT93NwsxOIxG4K1xjm6HoU3U/qEv5YhjjMGTU68/D5VMmjf/SQVq7flcsn0ZE6/HpFskC5lOpueznzdQcAQehhTnntN6pjZ1Hdm7b3mLLV41qCFmchae+h6jrP3H3I8dlNFHUUQI76Mo+frZGNAKg9uULmCN4HeLHlERqUbS4YmZWcbs555cayeWn7Rj7AEecCt/izXI3WWr/pJHY1JdGkLzEpucjlgSck5PY011tp+HXeKrIwtAKZo9/nXrPIuhxcEIYEU8Oe5uw1r//10CeRD49m/Ptj6vG1O/VAdLvzeU=;MCRZTSGM3zQ0blUpMzcdIQ=="
 ---
 

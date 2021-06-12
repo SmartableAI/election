@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "QAnon Supporters Say Cicada Landing on Biden's Neck Is Proof Plan Is Working"
-    excerpt: "QAnon influencers are struggling to come up with new ways to prove their movement holds true in the absence of Donald Trump and after the public failure of several predictions."
-    publishedDateTime: 2021-06-10T15:22:00Z
-    webUrl: "https://www.newsweek.com/qanon-supporters-joe-biden-cicada-neck-shows-plan-working-1599401"
-    ampWebUrl: "https://www.newsweek.com/qanon-supporters-joe-biden-cicada-neck-shows-plan-working-1599401?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-supporters-joe-biden-cicada-neck-shows-plan-working-1599401?amp=1"
+  - title: "Joe Biden: Unearthing the president's unsung English roots"
+    excerpt: "Joe Biden's presence in the UK this week brings him closer to a part of his family heritage that had been obscure - until recently. Last year an English link was added to Mr Biden's well-known Irish ancestry."
+    publishedDateTime: 2021-06-11T23:49:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57394351.amp"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57394351.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57394351.amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
+      name: BBC
+      domain: bbc.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1817644/biden-cicada-qanon.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B551/production/_118871464_gettyimages-1233359683-594x594.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Joe Manchin is opposing big parts of Biden's agenda as the Koch network pressures him"
+    excerpt: "The Koch network has been actively pressuring Democratic Sen. Joe Manchin to oppose key legislative items linked to Biden's agenda."
+    publishedDateTime: 2021-06-08T16:40:00Z
+    webUrl: "https://www.cnbc.com/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106893398-1623092822612-gettyimages-1320525423-a16i4160_20210528123535910.jpeg?v=1623092878"
+        width: 5472
+        height: 3648
         isCached: true
 
 secured: "A+pAAidpdB5NCrnYId4tNClA/986xaow6MYJKuzzzpmGtIbO2jJPrPknB2Ttc4Bcrw2ai+6u3ASoUJmKz6mrumkdPgDsUeHKo5YLHZzKMlRy0HbSjuNKkvQUStW9HkWiKrMzQUirm6RwnIg3bKXavpjmy2rX1V20Di4wdvShqw/mUcQoyDE1PyMhmMR715zhyk4ZaVwSMpQx93No72BP2yVBnsulVMh6JbcM9DdTqWOJS3m5YH+VuTIqSCC3Y8ZI/XyJGYSUVOPAiNLiglLPaoT/Y0RXq4XMhnopsItGhUfZTDhG6OhNQ3cED1J/+k+Iff30wLiM8GrqZAOkVecPb1UTsbXr43+KOJlBqmUGzRg=;JqS4NcVYXlzp+hH5/wz2Cg=="

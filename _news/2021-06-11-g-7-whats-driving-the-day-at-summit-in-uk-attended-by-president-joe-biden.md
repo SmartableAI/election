@@ -51,6 +51,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Had His First Meeting With Queen Elizabeth As President"
+    excerpt: "President Joe Biden met with Queen Elizabeth II in England on Friday — the first time he has encountered the British sovereign as commander in chief. The president and first lady Jill Biden were photographed chatting with the Queen at an event for heads of state attending the G7 summit in Cornwall."
+    publishedDateTime: 2021-06-11T22:16:00Z
+    webUrl: "https://www.buzzfeednews.com/article/davidmack/joe-biden-meets-queen-elizabeth-g7-summit"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/davidmack/joe-biden-meets-queen-elizabeth-g7-summit"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/davidmack/joe-biden-meets-queen-elizabeth-g7-summit"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 125
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-05/27/14/tmp/buzzfeed-prod-fastlane-03/tmp-name-2-8287-1495908039-5_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
   - title: "All the Queen’s presidents: Biden will be 13th US leader to meet monarch"
     excerpt: "Biden previously met the Queen in 1982 while she has met every US president since Eisenhower except Lyndon B Johnson"
     publishedDateTime: 2021-06-11T17:01:00Z

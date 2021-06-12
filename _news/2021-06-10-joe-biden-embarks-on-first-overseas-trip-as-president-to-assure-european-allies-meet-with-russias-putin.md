@@ -75,6 +75,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "How Joe Biden could increase pressure on Vladimir Putin if their June 16 meeting fails to deter Russia's 'harmful' behavior"
+    excerpt: "When announcing financial penalties on Russia earlier this year, Biden hinted at the prospect of further sanctions. An energy scholar explains what Biden may have meant."
+    publishedDateTime: 2021-06-11T18:30:00Z
+    webUrl: "https://www.pri.org/stories/2021-06-11/how-joe-biden-could-increase-pressure-vladimir-putin-if-their-june-16-meeting"
+    ampWebUrl: "https://www.pri.org/stories/2021-06-11/how-joe-biden-could-increase-pressure-vladimir-putin-if-their-june-16-meeting?amp"
+    cdnAmpWebUrl: "https://www-pri-org.cdn.ampproject.org/c/s/www.pri.org/stories/2021-06-11/how-joe-biden-could-increase-pressure-vladimir-putin-if-their-june-16-meeting?amp"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 49
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2021/06/file-20210608-135197-1xrw33t.jpeg?itok=OwnwwivO"
+        width: 1200
+        height: 707
+        isCached: true
 
 secured: "+mzLmJjjBpu3y2RN9GUWgFQVsgQg4AHhrpjttxu3qXkQnCi9I4AJMsaPsoUqN1c++rBVm2YLc/yLz0q5zJraGLk7QilOZ6jwMg+GyewFbGNNa6exCU3wEln3G7/1kOfTsR2LuKNxDB2vMjvfhFEMam6Kgp6xBUdICoX//o0k9/0mRZIwM/10u6rE+qiWl8+ZWD9EHTy/5vFdGafszUq3wAJgQzVMsh5PKV0OV+2WrwtVJCn/ZzzWRNtvvQGDygvrg0wU3QiPMdIVFUVLYm8NGPvFJZFj3S3udy7bYonZin8R5Kp64c8Hi0VFN9ZC3iSoir+LzCVfBE8KkWySdA7ffE1IJx5nIVtHCO+1ZjUmzLU=;kARrnnF63Gf9tqxywGz/gQ=="
 ---

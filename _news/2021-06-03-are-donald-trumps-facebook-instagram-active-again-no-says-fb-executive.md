@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "US closes Trump-era office for victims of immigrant crime"
+    excerpt: "The Biden administration said Friday it has dismantled a Trump-era government office to help victims of crimes committed by immigrants, a move that symbolizes President Joe Biden's rejection of former President Donald Trump's repeated efforts to link immigrants to crime."
+    publishedDateTime: 2021-06-12T01:54:00Z
+    webUrl: "https://www.chron.com/news/article/US-closes-Trump-era-office-for-victims-of-16241321.php"
+    ampWebUrl: "https://www.chron.com/news/amp/US-closes-Trump-era-office-for-victims-of-16241321.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/US-closes-Trump-era-office-for-victims-of-16241321.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Donald Trump to headline high-dollar fundraiser in Dallas for Make America Great Again Action"
     excerpt: "This is a developing story and will be updated. Former President Donald Trump will headline a July 11 fundraiser in Dallas hosted by leaders of the"
     publishedDateTime: 2021-06-04T17:09:00Z

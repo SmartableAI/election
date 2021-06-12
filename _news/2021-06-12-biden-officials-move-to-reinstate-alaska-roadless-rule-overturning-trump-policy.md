@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Vladimir Putin says Biden ‘radically different’ after impulsive Trump"
+    excerpt: "Russian ruler says relations with US at their lowest point in years as the two presidents prepare to meet in Geneva"
+    publishedDateTime: 2021-06-12T00:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/12/vladimir-putin-says-biden-radically-different-after-impulsive-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/12/vladimir-putin-says-biden-radically-different-after-impulsive-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/12/vladimir-putin-says-biden-radically-different-after-impulsive-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/3e414ae4f418b1fa5eadaca9addcc6c4e9dc8798/0_27_2679_1607/master/2679.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=980f1da8cf325779dffdd0834725fe8e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Boris Johnson, Former Trump Ally, Calls Joe Biden 'Breath of Fresh Air' Ahead of G7"
     excerpt: "\"It's wonderful to listen to the Biden administration and to Joe Biden, because there's so much they want to do together with us, from security, NATO, to climate change,\" Johnson said."
     publishedDateTime: 2021-06-10T19:45:00Z

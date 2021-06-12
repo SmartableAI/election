@@ -459,6 +459,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Joe Biden, forever young"
+    excerpt: "As world leaders gladhand and pose for countless photos at the optics-heavy G-7 summit this weekend in Cornwall, England, one visible detail jumps out: President JOE BIDEN is the eldest of all the statesmen."
+    publishedDateTime: 2021-06-11T22:11:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/06/11/joe-biden-forever-young-493226"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "dLLn/R6ItQ0gvaPZK2Ax4iSF6ND1BACdrA4pIy+M7qYmrm8nMZPgucYxn9jQDQc/vHiR0grhm53Ngnmke5Q72oqHJbJ2o1m77HpOP3uguWQ6nlEd441K2Ytlie3CIJXigbmiXtdCGU6QgCf649klh4woQ0ZY1m3nQISn7xnJ0TP1DewpDm0lOiyfO5FyALmbW6DZyQDXSK8v5etZYSuKLlVLfHggdO6mRsUcn6RFHtkRxbFYGzSwdwb0fGoiJtWMKwPLVn4XCIfIwDDHIJ4d8NQgz2DTKegJpOd4uEx2mky4lUyNMHme6Fgwpi+/6hDqHJZzJswGu8f8hzVxbCOFOe6InZ8ZEcuLJ/N702eNGNs=;R90EcNLczp8CRT/0ixN2rg=="
 ---

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Mike Pence to visit Iowa in July"
+    excerpt: "Former Vice President Mike Pence is headlining Rep. Randy Feenstra's inaugural Feenstra Family Picnic next month in northwest Iowa. The campaign event will be held from 11 a.m. to 1 p.m. July 16 at the Dean Classic Car Museum,"
+    publishedDateTime: 2021-06-12T02:12:00Z
+    webUrl: "https://www.thegazette.com/government-politics/mike-pence-to-visit-iowa-in-july/"
+    ampWebUrl: "https://www.thegazette.com/government-politics/mike-pence-to-visit-iowa-in-july/?amp=1"
+    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/government-politics/mike-pence-to-visit-iowa-in-july/?amp=1"
+    type: article
+    provider:
+      name: The Gazette
+      domain: thegazette.com
+    quality: 75
+    images:
+      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6CACD9BF-53BC-4FC9-AEA7-8E6F0F1DA289&type=preview&q=75&width=1200&height=800"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "Kk4mcmRM7mxj7nTKw2XEyNXWOTh6fpVhlwxF638MS938zmN5p6OOq3FNge0be9xPPTQo/CpWJJ9Qhw1KoVZTL3WFooGvqSEnb27mMxDgs4nrxPIksiN8266s4mLejEPvjkVzArbbbHBbdo3KsZs2NBXdiV7Iz262iPpVvbveEOBQlfkfHO5SGZCbAIF20z6evbO6Pm26W3xDez19pSSXyCp8Wy4X6olYD1SsoRc8VqaklNam0TY6Z6zKEbsz2q+YqIUCYlR4F7d/Ax584mbaC6ygL8uNi3lfB8uCWWJeYVwIh+aPxwl6Z+UMAH75mtlhJPrqx+0aP/1Htkzakv3eHn+1GxpqFYVLPHm5i9c7U1qzw/VPVQseJ1azZ7JtaoHWYguirit2pd5/eyneoKszaCnZV/IQVV8WXiEZZop0upBfVnQQBO/Yb3yx07fE55TMtq1/Y8zzlzoOGY5xUFizlVTfycnGmFZJpC3t88B3z9em/LfM3OUna8Mkr6IHHGHSBsoaPlvfZkG5l6DL82pgig==;3/kcx9wTfASfSD9gBy06QA=="
 ---

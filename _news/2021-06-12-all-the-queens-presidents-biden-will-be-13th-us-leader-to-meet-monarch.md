@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Had His First Meeting With Queen Elizabeth As President"
+    excerpt: "President Joe Biden met with Queen Elizabeth II in England on Friday — the first time he has encountered the British sovereign as commander in chief. The president and first lady Jill Biden were photographed chatting with the Queen at an event for heads of state attending the G7 summit in Cornwall."
+    publishedDateTime: 2021-06-11T22:16:00Z
+    webUrl: "https://www.buzzfeednews.com/article/davidmack/joe-biden-meets-queen-elizabeth-g7-summit"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/davidmack/joe-biden-meets-queen-elizabeth-g7-summit"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/davidmack/joe-biden-meets-queen-elizabeth-g7-summit"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 125
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-05/27/14/tmp/buzzfeed-prod-fastlane-03/tmp-name-2-8287-1495908039-5_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
   - title: "White House says Biden-Putin meeting not a reward but good way to manage ties"
     excerpt: "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,"
     publishedDateTime: 2021-06-07T16:06:00Z

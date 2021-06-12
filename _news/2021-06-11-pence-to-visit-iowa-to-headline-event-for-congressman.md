@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/03/Pence_81781.jpg-b3a64_c0-164-3910-2444_s1200x700.jpg?4e31107bb4e0522248d19f5bacef3db9bd1f537f"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Mike Pence to visit Iowa in July"
+    excerpt: "Former Vice President Mike Pence is headlining Rep. Randy Feenstra's inaugural Feenstra Family Picnic next month in northwest Iowa. The campaign event will be held from 11 a.m. to 1 p.m. July 16 at the Dean Classic Car Museum,"
+    publishedDateTime: 2021-06-12T02:12:00Z
+    webUrl: "https://www.thegazette.com/government-politics/mike-pence-to-visit-iowa-in-july/"
+    ampWebUrl: "https://www.thegazette.com/government-politics/mike-pence-to-visit-iowa-in-july/?amp=1"
+    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/government-politics/mike-pence-to-visit-iowa-in-july/?amp=1"
+    type: article
+    provider:
+      name: The Gazette
+      domain: thegazette.com
+    quality: 75
+    images:
+      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6CACD9BF-53BC-4FC9-AEA7-8E6F0F1DA289&type=preview&q=75&width=1200&height=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Former Vice President Mike Pence to speak at Des Moines event this summer"
     excerpt: "Former Vice President Mike Pence, a frequent Iowa visitor during President Donald Trump's term, will return to Des Moines this summer. Pence plans to address the Family Leadership Summit in Des Moines on July 16."
