@@ -556,6 +556,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "VP Kamala Harris Joins LGBTQ+ Pride March in DC"
+    excerpt: "Vice President Kamala Harris put her pride for the LBGTQ+ community on display Saturday in, D.C. Harris surprised marchers by joining the Capital Pride Walk and Rally. She wore a pink blazer and a “love is love” shirt as she walked with the procession for about a block."
+    publishedDateTime: 2021-06-12T18:49:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-joins-lgbtq-pride-march-in-dc/3103792/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-joins-lgbtq-pride-march-in-dc/3103792/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/vp-kamala-harris-joins-lgbtq-pride-march-in-dc/3103792/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://i1.wp.com/media.nbcnewyork.com/2021/06/harris-pride-3-1.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "On 1st trip, Kamala Harris says Guatemalans need 'hope' to deter migration"
     excerpt: "Central Americans must believe that \"help is on the way\" if illegal migration to the United States is to be curbed, Vice President Kamala Harris said Monday in Guatemala during her first official foreign visit."
     publishedDateTime: 2021-06-07T19:32:00Z
@@ -882,6 +898,20 @@ related:
       - url: "https://www.sfexaminer.com/wp-content/uploads/2021/06/25463525_210610-SFE-immigration_1.png"
         width: 916
         height: 572
+        isCached: true
+  - title: "Vice President Kamala Harris attends Capital Pride Celebration"
+    excerpt: "Second Gentleman Doug Emhoff and Vice President Kamala Harris walk in the Capital Pride Celebration in Washington, DC on Saturday, June 12, 2021. Vice President Kamala Harris and Second Gentleman Doug Emhoff walked a few blocks,"
+    publishedDateTime: 2021-06-12T18:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/1350a45d02714c64c79ab9490a4de5a5/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/1350a45d02714c64c79ab9490a4de5a5/HARRIS-CAPITAL-PRIDE.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "‘Do not come’: Kamala Harris’ three words to Guatemalans stir debate and backlash"
     excerpt: "When Vice President Kamala Harris gave a high-profile speech in Guatemala in which she told would-be immigrants from Central America “do not come” to the United States, her words instantly provoked ripples of anger and concern among immigrant rights"

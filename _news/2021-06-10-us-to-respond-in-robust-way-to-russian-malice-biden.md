@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "G7: Macron says US is back under Biden as leaders meet in Cornwall - as it happened"
+    excerpt: "News from today’s meeting of leaders of the G7 industrialised countries in Cornwall to discuss vaccines, the pandemic recovery and the climate crisis"
+    publishedDateTime: 2021-06-12T15:01:00Z
+    webUrl: "https://www.theguardian.com/world/live/2021/jun/12/g7-emmanuel-macron-tells-boris-johnson-uk-france-relations-need-reset-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/world/live/2021/jun/12/g7-emmanuel-macron-tells-boris-johnson-uk-france-relations-need-reset-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/jun/12/g7-emmanuel-macron-tells-boris-johnson-uk-france-relations-need-reset-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/d61b36a581e2c4d1c7b7611c6067a31769f2b791/0_117_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4cd871554f76865e77a00dcae9f74b29"
+        width: 600
+        height: 360
+        isCached: true
   - title: "U.S. increasingly unlikely to meet Biden’s July 4 vax goal"
     excerpt: "For months, President Joe Biden has laid out goal after goal for taming the coronavirus pandemic and then exceeded his own benchmarks. Now, though, the U.S. is unlikely to meet his target to have 70% of Americans at least partially vaccinated by July 4."
     publishedDateTime: 2021-06-08T23:20:00Z

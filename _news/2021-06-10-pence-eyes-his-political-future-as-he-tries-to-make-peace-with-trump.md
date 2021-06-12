@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html"
 type: article
 quality: 200
-heat: 440
+heat: 460
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 193
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115145314-01-mike-pence-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New book suggests Birx wanted Trump to lose presidential election"
+    excerpt: "A new book written by one of President Joe Biden's top coronavirus advisers suggests Dr. Deborah Birx hoped former President Donald Trump would lose the 2020 presidential election.\n    \n"
+    publishedDateTime: 2021-06-12T18:26:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DRRk96Qpa9o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/deborah-birx-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/deborah-birx-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103083154-file-deborah-birx-0420-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

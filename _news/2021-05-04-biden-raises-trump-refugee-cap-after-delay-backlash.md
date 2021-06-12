@@ -1708,6 +1708,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Hear how Putin compared Donald Trump to Joe Biden"
+    excerpt: "In an interview with NBC, Russian President Vladimir Putin discussed the relationship between his country and the US, and compared President Biden to his predecessor Donald Trump. CNN's Kaitlan Collin"
+    publishedDateTime: 2021-06-11T23:09:00Z
+    webUrl: "https://www.djournal.com/news/national/hear-how-putin-compared-donald-trump-to-joe-biden/video_56d26ac6-b479-5809-8310-c5536088a8a2.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 80
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/6d/56d26ac6-b479-5809-8310-c5536088a8a2/60c3f27f85a9d.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "On call backing Susan Wright, Donald Trump blasts Joe Biden, suggests he won Texas by larger margin"
     excerpt: "Donald Trump on Thursday used his endorsement of Republican congressional candidate Susan Wright to blast President Joe Biden and the Democratic"
     publishedDateTime: 2021-05-01T01:46:00Z
@@ -1899,20 +1913,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/12/mocked-by-trump-as-sleepy-joe-biden-has.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Hear how Putin compared Donald Trump to Joe Biden"
-    excerpt: "In an interview with NBC, Russian President Vladimir Putin discussed the relationship between his country and the US, and compared President Biden to his predecessor Donald Trump. CNN's Kaitlan Collin"
-    publishedDateTime: 2021-06-11T23:09:00Z
-    webUrl: "https://www.djournal.com/news/national/hear-how-putin-compared-donald-trump-to-joe-biden/video_56d26ac6-b479-5809-8310-c5536088a8a2.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 70
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/6d/56d26ac6-b479-5809-8310-c5536088a8a2/60c3f27f85a9d.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
         isCached: true
   - title: "Putin Hopes Biden Less Impulsive Than Trump"
     excerpt: "Russian President Vladimir Putin voiced hope Friday that Joe Biden will be less impulsive than his predecessor Donald Trump ahead of his first summit with the new US leader. In an interview with NBC News,"

@@ -95,6 +95,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Brian Kemp May Be Outfoxing Donald Trump"
+    excerpt: "Despite Trump’s vows of vengeance against the Georgia governor, he cannot find a top-tier candidate to run against him."
+    publishedDateTime: 2021-06-12T19:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/06/brian-kemp-may-be-outfoxing-donald-trump.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/brian-kemp-may-be-outfoxing-donald-trump.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/brian-kemp-may-be-outfoxing-donald-trump.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/567/730/acdc3d07a3b8f3f8c2cc5bdc04de238abd-brian-kemp-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
     excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
     publishedDateTime: 2021-06-03T00:58:00Z

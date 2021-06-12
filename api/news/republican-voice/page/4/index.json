@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-25-nikki-haley-calls-for-beijing-olympics-boycott-urges-biden-diplomats-to-create-covid-probe-alliance.md",
+      "title": "Nikki Haley calls for Beijing Olympics boycott, urges Biden diplomats to create COVID probe alliance",
+      "excerpt": "Former U.S. Ambassador to the United Nations Nikki Haley on Tuesday called on the United States to boycott the 2022 Winter Olympics set to take place next February in Beijing.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ENsNVrLo1mk/nikki-haley-beijing-olympics-boycott-biden-diplomats-covid-probe",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ENsNVrLo1mk/nikki-haley-beijing-olympics-boycott-biden-diplomats-covid-probe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12754ac1-99b5-45a5-8752-aaca4bfec658/910b6cbc-a09f-4ca4-b5ca-62e733608e85/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-beijing-olympics-boycott-biden-diplomats-covid-probe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-beijing-olympics-boycott-biden-diplomats-covid-probe.amp",
+      "publishedDateTime": "2021-05-25T14:49:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-ethiopias-amhara-ethnic-group-accuses-biden-of-ignoring-atrocities.md",
       "title": "Ethiopia’s Amhara ethnic group accuses Biden of ignoring atrocities",
       "excerpt": "Eskedar Getaneh stepped out of his house on April 12 to screams from surrounding neighbors in the village of Arkumbi Kebele in the Oromo region of ethnically divided Ethiopia.",
@@ -1565,62 +1621,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-praises-squads-tlaib-after-tarmac-confrontation-on-palestinian-conflict-botches-her-name.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-praises-squads-tlaib-after-tarmac-confrontation-on-palestinian-conflict-botches-her-name.amp",
       "publishedDateTime": "2021-05-18T12:35:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-white-house-says-trump-admin-did-not-do-anything-constructive-to-end-conflict-in-middle-east.md",
-      "title": "White House says Trump admin did not do 'anything constructive' to end conflict in Middle East",
-      "excerpt": "The White House on Tuesday said the Trump administration didn’t do \"anything constructive\" to end the conflict in the Middle East, while defending the Biden administration's approach to the ongoing violence in between Israeli forces and Palestinian militants, and maintaining that a \"two-state solution\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7hrbdsmA7LI/white-house-trump-admin-middle-east-conflict",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7hrbdsmA7LI/white-house-trump-admin-middle-east-conflict",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-trump-admin-middle-east-conflict.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-trump-admin-middle-east-conflict.amp",
-      "publishedDateTime": "2021-05-18T12:26:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New book suggests Birx wanted Trump to lose presidential election"
+    excerpt: "A new book written by one of President Joe Biden's top coronavirus advisers suggests Dr. Deborah Birx hoped former President Donald Trump would lose the 2020 presidential election.\n    \n"
+    publishedDateTime: 2021-06-12T18:26:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DRRk96Qpa9o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/deborah-birx-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/deborah-birx-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103083154-file-deborah-birx-0420-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump is more obsessed than ever with 2020 election and is brushing off allies who are telling him to move on"
     excerpt: "Donald Trump is more obsessed than ever with the 2020 election and pushing his lie that there was widespread fraud that led to his defeat, according to several former advisers and allies still close to the former Republican president.\n    \n"
     publishedDateTime: 2021-06-03T15:09:38Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-11T23:09:00Z
 originalUrl: "https://www.djournal.com/news/national/hear-how-putin-compared-donald-trump-to-joe-biden/video_56d26ac6-b479-5809-8310-c5536088a8a2.html"
 webUrl: "https://www.djournal.com/news/national/hear-how-putin-compared-donald-trump-to-joe-biden/video_56d26ac6-b479-5809-8310-c5536088a8a2.html"
 type: article
-quality: 70
+quality: 80
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/6d/56d26ac6-b479-5809-8310-c5536088a8a2/60c3f27f85a9d.image.jpg?resize=576%2C324"
@@ -2106,6 +2107,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "uSuB6vkWy6BN9tY1Kk88fosrgR4J0MAxHIEKg4PYhU2IhsuxDFvCoB6uvxWA0//TmHxZChYIvsYSYEf7lozs/dXmBYD6NTFrGeTZ6b9HVjQktoLPjSNeTd/HRLUiylJ11gczuMqvOuHLnWXdN+f/y9KnZzqdQpjyWgQFqI4MqqBJB+K/1pvRxhQb4oTIBVbFpbAPEr1vauMe+dPLIasJpr18XSmEAL6CblyVXl/ZzL8D2fUID0ChHJG3HecAHeomARHhBH7ygGz3bqVobpypIr0BRPW9Q68xg0yzpehn2Y663bFfMEwxT75HxU7ARyPRZ0ijqPdvJtQ/pSKMpdibCjrDiZ3UMh+NY9TfvjKXUI4=;TcYvKQ3b6osjSjAeJFEToQ=="
+secured: "Qr2qFDyXdCxcXdgZRT4oV8l/vj0fL69JxgHIqViPkK3FclPS2tKEaUkLNmz5kdVMS8xRZZJvImKnO9uHW3q7HVOjjJJTqSVoBGYX5XzUrngYAOCsmFOncAYxX09BcYnlz8QMiJq/Pd2e2a7avMk9Gazw8vDqbE0h1oG3gmTxIANVCmYWBsCr0+aLtoknM51U5FdkSwP8sQ28u5gypqeItAPFmyXga4pBGYO4mT7co1p9lYVqpQjmM7Nat9eMJX28ZDwNKzc7Vdn55rLoC5F/rUpRzaciuoGoV3TZJXTqJ2Lm8abaSoqeOcdhsNTSmo1KghBRsHkIaO0EFN3+HlVwuEzF5VomYH8us7xvLvI7PUNGPUtYxE+A+oJHO/Ipdq66RhYubRJnmFlGaq3+B91xwm2LCaSJYW8AAWV9z7M7P/Bo9ywhKQ+II/Utp4ZjIbh1LDpsmpCFcWlJu7KULKXaLURn8+16gx9mTy2n4bDbvItK5oYZde4YbZ9QIzO+1MS64Q8Q+7PYcjxmbQvn7EPm3Q==;cXAqPIaEbqAJfZoULqeInA=="
 ---
 
