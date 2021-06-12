@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'I'm a partner on this journey': Jill Biden on how she sees her role as first lady during debut foreign trip"
+    excerpt: "On her third full day in the United Kingdom to accompany President Joe Biden on his first G7 Summit, Jill Biden peeled off from her husband, and the rest of the program's leader-spouse events, for a solo excursion of her own -- one of several the first lady has taken while abroad that highlight the importance"
+    publishedDateTime: 2021-06-12T20:46:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X6NC5ojMI3U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/jill-biden-first-lady-g7-veterans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/jill-biden-first-lady-g7-veterans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210612155834-01-jill-biden-first-lady-g7-veterans-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

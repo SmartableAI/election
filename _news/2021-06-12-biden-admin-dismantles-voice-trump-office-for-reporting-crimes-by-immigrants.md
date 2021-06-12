@@ -680,7 +680,7 @@ related:
   - title: "Kamala Harris Is in a Really Tough Spot"
     excerpt: "Vice President Kamala Harris learned that three little words can cause a lot of damage. On her first vice presidential trip abroad, Harris stoked controversy when she spoke at a news conference in Guatemala and told potential migrants,"
     publishedDateTime: 2021-06-11T10:59:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html"
+    webUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html#!"
     type: article
     provider:
       name: RealClearPolitics

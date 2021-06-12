@@ -99,6 +99,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "Jill Biden tells English surf therapy group about her board"
+    excerpt: "U.S. first lady Jill Biden told members of a British group that uses surfing as therapy that she once owned a surfboard"
+    publishedDateTime: 2021-06-12T19:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b17758efa8044382aabc7f7d67531f65_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "All the Queen’s presidents: Biden will be 13th US leader to meet monarch"
     excerpt: "Biden previously met the Queen in 1982 while she has met every US president since Eisenhower except Lyndon B Johnson"
     publishedDateTime: 2021-06-11T17:01:00Z
@@ -226,6 +242,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FARDNIG44VBVZGDZP6UJ24ONUE.jpg"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "Joe Biden public lands nominee linked to 1989 sabotage draws Republican ire"
+    excerpt: "The animosity toward her nomination reflects anger among some Republicans over Tracy Stone-Manning's role in the 2020 election."
+    publishedDateTime: 2021-06-12T14:13:00Z
+    webUrl: "https://bangordailynews.com/2021/06/12/national-politics/joe-biden-public-lands-nominee-linked-to-1989-sabotage-draws-republican-ire/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 53
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Biden-Public-Lands-Nominee.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "sZ+6OTAcfRLAsnYBsGOk/9IrnwTe+2tzyRp7VNFlUn9ph50wNRAAZgzG8r2tnsgqOv2l+sQMkfrJ+B/Feo9bqHZI81/0g9s8YzamL7t28oTO9gI23dwU95maZy4UMzIO1lBBNQ8FC5/AtpgWi5BzfLIiu+KlFiXMB88rfJCct1G+tGt8mNbURIchaLdQTOqOYxguouxyGXSxLR05dRfQJF0Qa0DdvJTUSyDujzBu4OGcjshzRmS9MDefVWUR68d2/hPTdK8NITECUlO2+YuJxT/6m/qvAvtfr6tiKBWG9V1kx7fGiDOEF8RuH4Y1Ky1TSRMR2MedWI8b4OvAKdyhIGeCpMhsUNK2JBUO3VKYK/vF73X3Zebk1hOokHJLTskSl2LuENA/M8bFkXBnJPnW2UAoEmbbV0Lu32v0glrdbykSrrg+SdjESlGHoBNyqkbNY3QNIL1UqvY3CxbWXA7Vkn3xd9Wrl7flgQIrZNzsjeV5mPymwZXZqAPlCb2IBXNGi8EVZQAhg5Mpz7MuEsk3/A==;6JDURpOMOdUVQNC2b1cV7g=="

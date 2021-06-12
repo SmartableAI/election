@@ -910,16 +910,16 @@ related:
         height: 572
         isCached: true
   - title: "Vice President Kamala Harris attends Capital Pride Celebration"
-    excerpt: "Second Gentleman Doug Emhoff and Vice President Kamala Harris walk in the Capital Pride Celebration in Washington, DC on Saturday, June 12, 2021. Vice President Kamala Harris and Second Gentleman Doug Emhoff walked a few blocks,"
+    excerpt: "Supporters greet Vice President Kamala Harris and Second Gentleman Doug Emhoff as they walk in the Capital Pride Celebration in Washington, DC on Saturday, June 12, 2021. Vice President Kamala Harris and Second Gentleman Doug Emhoff walked a few blocks,"
     publishedDateTime: 2021-06-12T18:17:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/1350a45d02714c64c79ab9490a4de5a5/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e489fd1b2333c6ff7e50b43ab5e7e6e0/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/1350a45d02714c64c79ab9490a4de5a5/HARRIS-CAPITAL-PRIDE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/e489fd1b2333c6ff7e50b43ab5e7e6e0/HARRIS-CAPITAL-PRIDE.jpg"
         width: 650
         height: 433
         isCached: true

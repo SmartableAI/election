@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris attends Capital Pride Celebration"
-excerpt: "Second Gentleman Doug Emhoff and Vice President Kamala Harris walk in the Capital Pride Celebration in Washington, DC on Saturday, June 12, 2021. Vice President Kamala Harris and Second Gentleman Doug Emhoff walked a few blocks,"
+excerpt: "Supporters greet Vice President Kamala Harris and Second Gentleman Doug Emhoff as they walk in the Capital Pride Celebration in Washington, DC on Saturday, June 12, 2021. Vice President Kamala Harris and Second Gentleman Doug Emhoff walked a few blocks,"
 publishedDateTime: 2021-06-12T18:17:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/1350a45d02714c64c79ab9490a4de5a5/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/1350a45d02714c64c79ab9490a4de5a5/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/e489fd1b2333c6ff7e50b43ab5e7e6e0/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/e489fd1b2333c6ff7e50b43ab5e7e6e0/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/1350a45d02714c64c79ab9490a4de5a5/HARRIS-CAPITAL-PRIDE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/e489fd1b2333c6ff7e50b43ab5e7e6e0/HARRIS-CAPITAL-PRIDE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -994,6 +994,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "VXa8zzpOLd2BdUToIP1nKxam8iZySlJNakuJsUfLz80oPISDX1+pZO7Z/frRU5NeK9OOlKkfG5OilQJVuyE/Z/ZY+BslgLfdXFO5dNXg0JB0qDl6YYS47tGgumWaMeLm58ncpYTPvgyQtO6JS6j4wWysKVqIPrrKuFmbefg7JhCcvBeXGMH+4rqq3yf0IPlxlY5D42HQy/jT/Km7nTp3owvpQHTkvJ1ntAUuwonKJ6Q4T0nwSijLRVlfaR8sozyGeixTbR6I1sbVepADiJ9NNE0D1K7CuRqFpeJ9uIeAgigZmyfprWqav/CiJr47Yq0r+hzFfHaqIhkK9CeN6Hd0Pa8m6wh+tIN1BSxMqyAspJg=;IRaEYbX6TlVbhPz57jp9Fw=="
+secured: "lxyd5pP+0wxgoQicM6IqaJ4FTbpTA1CyU5OBFp3njNKehAKnbjN+b8UTB5PT2kNUO+LO0l/TrGdjVzh+UhYlanoaANZfto+1sQZK3uqR64NuO5LYH3BcGdr25d8k7fLpkQzZEbG5jUS5TTe0QC/BjBBwqDzferCoveM4K+75IiQ7eg9MCcSQieNwj6/rWuRwHEpvGfQD8ztqV6u4sQpPOgmpspXVr//3hElYRvMQg66NuREwVDhIRKeX5u5jsV/yB2g1GRVnPnnflFE1FE9IrWfbCMoLGlt3rPtnzpCE+BAHN39tYZxavll2rnrNK85ZyuwE+WRWTY7ZEEXZq905pU7YeUwWdeZpvQeY1Fpi83o=;b4AtXwxwQ8VFQomEuT7OOA=="
 ---
 

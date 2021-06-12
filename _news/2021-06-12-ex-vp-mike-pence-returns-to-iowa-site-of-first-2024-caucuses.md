@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence to attend Iowa event"
+    excerpt: "Former Vice President Mike Pence is headlining Rep. Randy Feenstra's inaugural \"Feenstra Family Picnic\" next month in Sioux Center."
+    publishedDateTime: 2021-06-12T21:39:00Z
+    webUrl: "https://qctimes.com/news/pence-to-attend-iowa-event/article_341f06a1-6037-524b-b35c-4816099c091a.html"
+    type: article
+    provider:
+      name: Quad-City Times
+      domain: qctimes.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/custom/image/d86b5402-c54a-11ea-ac94-bf1fd66c47b1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "eHKG99aNfNCh8rgavjNgLJGniPO3Lo4riCkeI+kgZpQm287xWKToXzCtFWMiMihG7V13/KJOssAPdAm8eSCUn8nKRgMRw90oBUCnnuhcYCfW5dW96zDmCp8yIc7LcikHlBqXvZeM1yDc2vMAGq6VcFERL/sa3+CjyGiRmJ92YBYvY1q72WAfBD+NwcbOikxsSD5TCiz942EsOpwNCBHF7z+GGAnpQVTsAPGPqjsTIwI2OU2sOmYRLFW7H9FIHGmEDYNkBWS28aQ/LZCkc29uYc/qncN0pJ1NRjTvNnK7j4EjuvQyQklNCKM+2qH4hHAoIAyTTwzAA+NkKIEe7HQjKSbB6tPg+QiUDLVr31zhLolUQjIvtxKMz9hOr0yDKdY7+juXoWwLg054NlYz8Iziu1AQgUUvsgZkoBKtCam6J1Ao/KA3ali2NjalYTHdlc07VTHGlbogtu2raotMiej4KaMzX7QuIBu4Amjt6w9eyPMyCsYJxb8kIU6X+89zqvtt08nYfIdmqk9HZSrOoqj1mg==;RbfzSSXKcxX1f8eCVQm9og=="
 ---

@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'I'm a partner on this journey': Jill Biden on how she sees her role as first lady during debut foreign trip"
+    excerpt: "On her third full day in the United Kingdom to accompany President Joe Biden on his first G7 Summit, Jill Biden peeled off from her husband, and the rest of the program's leader-spouse events, for a solo excursion of her own -- one of several the first lady has taken while abroad that highlight the importance"
+    publishedDateTime: 2021-06-12T20:46:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X6NC5ojMI3U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/jill-biden-first-lady-g7-veterans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/jill-biden-first-lady-g7-veterans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210612155834-01-jill-biden-first-lady-g7-veterans-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "2SmOwWwwxu1TN9rm3fRRs756WapH4wmD/fzVymby+UtTBptGAY6mKJbnLT6T6FnbVDa5O0toOkI/jzk5M3A0s2LsdFzJ8wyOGAIvDOnUY17UkVlGs60jIyj0fw9iuUgDLEVF74dnSuqjBajfRYVMHT2uAuLnezFWYTNOHKEWNd8Nb4o73KDO1b1h3NqYJS2KV6IXa+0v4vAlVu2YvjUE7VU+NLdsriG+2FcIDuarzrIjSsbg006tKuiVLXSaV/FhHIJxnwHqtFTl7IxChZlD7rK0COoNEoTiGWMypy5U4J74H2AW1xe41avDjCQP0u8xz2foizuqFUTjvipiLQyUpDQhF27EWQ5xAAkRXpVtif8=;zEzbRxicDUf7bhwRgE9hMA=="
 ---

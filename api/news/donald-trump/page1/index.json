@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-13-trump-says-senate-would-be-60-dems-vs-40-republicans-if-not-for-him-rips-mcconnell.md",
+      "title": "Trump Says Senate Would Be 60 Dems vs. 40 Republicans if Not for Him, Rips McConnell",
+      "excerpt": "\"Unfortunately Mitch McConnell, with what he was doing, hurt us very, very badly in Georgia,\" the former president said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102",
+      "originalUrl": "https://www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1819934/donald-trump.jpg",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102?amp=1",
+      "publishedDateTime": "2021-06-12T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-special-report-trump-inspired-death-threats-are-terrorizing-election-workers.md",
       "title": "Special Report: Trump-inspired death threats are terrorizing election workers",
       "excerpt": "Late on the night of April 24, the wife of Georgia’s top election official got a chilling text message: “You and your family will be killed very slowly.”",
@@ -141,6 +193,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.md",
+      "title": "Michigan man gets prison for email threat to Trump whistleblower’s attorney",
+      "excerpt": "Emailing a “stark, brutal” threat to hunt down and kill an attorney for the whistleblower who sparked Donald J. Trump’s first impeachment has cost a Gladwin County man time in federal prison. Brittan J.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html",
+      "originalUrl": "https://www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/33OEFL4ORVCNTPHNAJQUD4TARE.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html?outputType=amp",
+      "publishedDateTime": "2021-06-10T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -944,58 +1039,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-07-trump-praises-manchin-for-defending-the-filibuster-which-he-urged-mcconnell-to-get-rid-of.md",
-      "title": "Trump Praises Manchin for Defending the Filibuster, Which He Urged McConnell to Get Rid Of",
-      "excerpt": "Donald Trump has praised Democratic Senator Joe Manchin for defending the filibuster, a Senate rule he urged Republican leader Mitch McConnell to do away with during his presidency. Speaking to Fox Business host Stuart Varney on Monday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-praises-manchin-defending-filibuster-which-he-urged-mcconnell-get-rid-1598208",
-      "originalUrl": "https://www.newsweek.com/trump-praises-manchin-defending-filibuster-which-he-urged-mcconnell-get-rid-1598208",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1814767/trump-praises-manchin-defending-filibuster.jpg",
-          "width": 2500,
-          "height": 1729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-praises-manchin-defending-filibuster-which-he-urged-mcconnell-get-rid-1598208?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-praises-manchin-defending-filibuster-which-he-urged-mcconnell-get-rid-1598208?amp=1",
-      "publishedDateTime": "2021-06-07T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-06-07-coach-v-the-white-house-inside-steve-kerrs-extraordinary-feud-with-donald-trump.md",
       "title": "Coach v the White House: inside Steve Kerr’s extraordinary feud with Donald Trump",
       "excerpt": "In a new book about the Golden State Warriors coach, Scott Howard-Cooper explores how the NBA, China and the US president combined for an explosive mix",
@@ -1530,63 +1573,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials.md",
-      "title": "McEnany: Women in Biden admin get 'glowing' profiles after 'hit pieces' for female Trump officials",
-      "excerpt": "Former White House press secretary Kayleigh McEnany responded Friday to reports that successor Jen Psaki was having her picture taken by celebrity photographer Annie Leibovitz for a magazine profile.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials",
-      "originalUrl": "https://www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60aec5b5-2172-4ba1-94aa-358a5c5d3a4c/5e5ef5ee-f5c2-4b7e-9410-a7a1a83f62a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials.amp",
-      "publishedDateTime": "2021-06-04T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

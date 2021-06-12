@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/trump-praises-manchin-defending-filibuster-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-praises-manchin-defending-filibuster-which-he-urged-mcconnell-get-rid-1598208?amp=1"
 type: article
 quality: 115
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan man gets prison for email threat to Trump whistleblower’s attorney"
-    excerpt: "Emailing a “stark, brutal” threat to hunt down and kill an attorney for the whistleblower who sparked Donald J. Trump’s first impeachment has cost a Gladwin County man time in federal prison. Brittan J."
-    publishedDateTime: 2021-06-10T19:24:00Z
-    webUrl: "https://www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html"
-    ampWebUrl: "https://www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html?outputType=amp"
+  - title: "Trump Says Senate Would Be 60 Dems vs. 40 Republicans if Not for Him, Rips McConnell"
+    excerpt: "\"Unfortunately Mitch McConnell, with what he was doing, hurt us very, very badly in Georgia,\" the former president said."
+    publishedDateTime: 2021-06-12T21:26:00Z
+    webUrl: "https://www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102"
+    ampWebUrl: "https://www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-senate-would-60-dems-vs-40-republicans-if-not-him-rips-mcconnell-1600102?amp=1"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 73
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/33OEFL4ORVCNTPHNAJQUD4TARE.jpg"
-        width: 600
-        height: 400
+      - url: "https://d.newsweek.com/en/full/1819934/donald-trump.jpg"
+        width: 1024
+        height: 680
         isCached: true
 
 secured: "ql6L7RGKyFnkcawYjEPlqLOTSPnVSOFeedPou11LVEWIpZB+emJxneJJCkHYAaMXA7Q/5SgD383y9+C11uWSdd7j4nPXVIJOztwealk2GGWbTl5xseR9TaNjztkyF5/zDchX2z7zd+18Svg4xFP9Fw6WF9ymh07jpy1VjCUOeD22xP6ecZNCiP+wvg2lFHakudipt9EikNUymKqNjZa8UUPkGesNfJQGdQJOcd+jomR5cxi1LOjQyek9WA3ZC7/2W50qJIuFsi4SQY+ynvrg9hX+mpEfGS5xDDbh1p9Y5tNp3Oqq7AV+caoyYffgvGWproe/abj/M0kh4pVLJkPPaxkEgJWTcIjoSPaIKRHGJHE=;LAJBh2Hd1qcaOEVKQtNBZA=="

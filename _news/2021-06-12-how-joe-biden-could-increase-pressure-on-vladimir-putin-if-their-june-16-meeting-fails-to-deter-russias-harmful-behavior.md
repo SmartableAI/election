@@ -75,6 +75,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden to hold solo news conference after meeting with Vladimir Putin in Geneva"
+    excerpt: "White House says solo press event is 'appropriate format\" to communicate with media about topics raised during Joe Biden, Vladimir Putin meeting."
+    publishedDateTime: 2021-06-12T13:36:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7666869002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7666869002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/10/USAT/1f0ecd28-c37c-4a73-8247-004c960ffbf0-AFP_AFP_9BK7FL.jpg?auto=webp&crop=3999,2250,x0,y370&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden embarks on first overseas trip as president to assure European allies, meet with Russia’s Putin"
     excerpt: "Biden told reporters the trip is about making clear to the leaders of China and Russia that the United States and Europe “are tight.”"
     publishedDateTime: 2021-06-09T19:30:00Z
