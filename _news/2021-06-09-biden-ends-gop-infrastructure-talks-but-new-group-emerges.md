@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrast
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Technology/WireAP_c8b6b6f1a05d48fa8b0719b37266a661_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Go green or go bipartisan? Biden's big infrastructure choice"
+    excerpt: "President Joe Biden’s hope of pouring billions of dollars into green infrastructure investments is running into the political obstacle of winning over Republican votes"
+    publishedDateTime: 2021-06-12T04:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3d5e1572288b4910be34676fc841b5b8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "John Dean Calls Surveillance by Trump-Era DOJ 'Nixon on Stilts and Steroids'"
+    excerpt: "\"Nixon didn't have that kind of Department of Justice,\" John Dean said on Friday. \"Nixon couldn't use the department as he wanted to.\""
+    publishedDateTime: 2021-06-12T04:08:00Z
+    webUrl: "https://www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029"
+    ampWebUrl: "https://www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1819790/john-dean-richard-nixon-donald-trump-doj.jpg"
+        width: 2500
+        height: 1570
+        isCached: true
   - title: "Former President Trump's DOJ subpoenaed records of at least two House Democrats"
     excerpt: "Former President Donald Trump's Department of Justice reportedly subpoenaed the data of at least a dozen people connected to the House Intelligence Committee back in 2017 and 2018. Among them are Congressman Adam Schiff,"
     publishedDateTime: 2021-06-11T12:39:00Z
@@ -142,6 +158,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "7RpwZkbLKAszORn6R+mGSs3OAeUi3ymNvwzGmUjBAZYqdIC+LawO8s8bHJjuvflyFPAlabfAWBxLH94lAFAFqfDwGXQmFvoEtfOjrmb+YOp5n+nBN4TFfc11EUvUIJ0CA3n8dSmMb3H6ioQnL1TR+Ik8kPfRZyf4yX/e9uvCD8QHBmuZvbapTZAhX3BkGUX3YOqh8EibJrelTba2Qb4zrJ5TgX4Ct45EdhFfcYX8l5VtIKpfWxsONKd7/lwEfNnWQjGQiR8r1ciqYLgNCtjco4bLxYmF9lYlrUv8aB4WnynBY1WMWEDRaxSdag4tugqtg4vritgwpVRVXqxjVvYlX6db5aheHsbGEhp3boa2LiY=;sX7xbkpxw3So3NgfRXcFuA=="
+secured: "Bih+XCyf/vPsV4026zuVTts9eeyoZLJAe3SzWs3l//cn24vBKrI7JpzMUkg5uDSeIAoWHOvrZ4iHvu4/MrgdCMdbxLvlpKTsvF2LgWEhqoWreIP0lkUuw5qswfbpEJ4TPgQFEoTw3vZFF3xbMHTMKt6Mk4Zc4mbgCakYKMbahRqKsSs99KBLxiR9KNE2vC0ih3Tu3IwaQ7iEE2PXRQfYHYXXFCRSjWRzNQAzknRGEZt7SOUCVmeSHmiEcfJUvzslx808hmlexvS6Ts6lmHY3NIsJSZMvfl4Dbsyze0WOUhUqCNVEbphhUR45ewqBDi7IRRgH/ViKPxHZDyq5dRcBE5yUeOCon9rzwZhsPbqqFMYpV4R/r9Y5DJSOPTiI6gcDplaOq0vbVXeUP+faayP5EcKxEyJ6AoGn6vTsN7iXYdOLar25wAptVWp4og/NfPLaw6KE/fMJKDgNZek4QWgCdWlFY8U7qIH9RYzgjtS4sdZFVEjS+t8cR9qCbbS764NKGVzcsQg3xKBSv/M6kQDp3g==;VszvAk/LDZ/c8s3lg/ZRug=="
 ---
 

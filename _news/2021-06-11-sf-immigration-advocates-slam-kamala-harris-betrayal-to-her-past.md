@@ -860,6 +860,20 @@ related:
         width: 401
         height: 226
         isCached: true
+  - title: "Kamala Harris questions William Barr on investigations"
+    excerpt: "New reports of Trump ordering Barr to investigate Democratic members of Congress may explain why he refused to address that issue two years ago."
+    publishedDateTime: 2021-06-11T15:53:00Z
+    webUrl: "https://www.hawaiinewsnow.com/video/2021/06/11/kamala-harris-questions-william-barr-investigations/"
+    type: article
+    provider:
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 55
+    images:
+      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/ZfztmlAwA5aYpQlGZ_zvgefqCek=/980x0/smart/do0bihdskp9dy.cloudfront.net/06-11-2021/t_2d517000428b4d6a91307b3e8c52e583_name_file_1280x720_2000_v3_1_.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "‘Do not come’: Kamala Harris’ three words to Guatemalans stir debate and backlash"
     excerpt: "When Vice President Kamala Harris gave a high-profile speech in Guatemala in which she told would-be immigrants from Central America “do not come” to the United States, her words instantly provoked ripples of anger and concern among immigrant rights"
     publishedDateTime: 2021-06-09T13:53:00Z

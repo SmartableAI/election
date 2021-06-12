@@ -2,28 +2,32 @@
 category: news
 title: "Seized House records show just how far Trump admin would go"
 excerpt: "Former President Donald Trump has made no secret of his long list of political enemies. It just wasn't clear until now how far he would go to try to punish them. Two House Democrats disclosed this week that their smartphone data was secretly obtained by the Trump Justice Department as part of an effort to uncover the source of leaks related to the investigation of Russian-related election interference."
-publishedDateTime: 2021-06-12T01:37:00Z
-originalUrl: "https://www.chron.com/news/article/Seized-House-records-show-just-how-far-Trump-16242365.php"
-webUrl: "https://www.chron.com/news/article/Seized-House-records-show-just-how-far-Trump-16242365.php"
-ampWebUrl: "https://www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242365.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Seized-House-records-show-just-how-far-Trump-16242365.php"
+publishedDateTime: 2021-06-12T04:07:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/seized-house-records-show-trump-admin-78234981"
+webUrl: "https://abcnews.go.com/Politics/wireStory/seized-house-records-show-trump-admin-78234981"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/seized-house-records-show-trump-admin-78234981"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/seized-house-records-show-trump-admin-78234981"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.abcnews.com/images/Politics/WireAP_67cc328980c24ec19d938b906ffcbb54_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -213,6 +217,6 @@ related:
       domain: usnews.com
     quality: 30
 
-secured: "LRjdXxBPU+iIsrtETI63dK0qBXwAcEN3dvl/9IAALsPcf0mIG1h8ZPd/KeQn89wUrbP9RCyVptpOGA/yLerapSUsWDA4RGRMGR3qATPPM5IvMoUbgBxmvERMH+Eg7NjRxE5pwXRT2A6a3Dr/32RZSAXsp80Vdw3v5Qd0bPfwjQNYQ+77+9kS9zL6W4OOiwC7CXAxex4J9IBLBVhI/kssioOMGFD3u4tSkyM2L5FLyzxhe+L2UeGGgIpwVNRsExG0Cn9yl0aMcSDpHXZGEg7Tpcl5owJY7zBx85JVoB1jG7xm/CQ9R00hP86ZjOqB+gi1GJC5qX7mK+0DEWnar3++KC5jRkapE1FuaZZOLrK3MMYzkNfJTjLLvJYaCl2jcRvpIeQdOR4OSp51bU8TfNNzuKnQMHavWJZaK/eeDOKoLex2sCRD3NAs+pYsTS9EGRKnlUu2+FmJaAnaQPD1knRxANdrIVsNumzmsxxenpOgpV9ZVaISsp95XYVWMS8NwDnpRgsm+6tzchL2QONxncoPYQ==;E+HPzQ56KzEX7EH8HWxiOw=="
+secured: "l7sdjt60YY4ldQ4sai0rVCpHO4IsSmd5fChFEmu+P2YQpw/LchLIZ29YqWMXBMYK6lEgGAxzug7W/dTQujzphZqCmheW1vG0b4QawsFwr52n6JKmrp0UyBKkmumSIYkPZaya54DZIBMfXiU5uv4Df60nvYwqR2rU5j/E09/sBOPHDkC8hmLSAFDkayXp21E2lnQ+HQcVivXpy26WPQu+OMH2IE/4t2W/Y8Fs5LDH/KeLn843xqK2CXVFPsx9GGSvINzQPkO1t9aky/6XtYgPrF/8ouiFCNpx+MmYVjlsOYKHIBwTWQhHpPHM6L6wL23j4ne0wZZhfBbO71iCOV4PTgvysadebGXnfyfRx/gvoNI=;xNqSFQ4VCQJuyQMDq0cKZA=="
 ---
 

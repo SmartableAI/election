@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Kamala Harris tells migrants 'do not come' during talks in Guatemala – video"
-excerpt: "Do not come’: speaking in Guatemala, Kamala Harris gives a blunt message to people thinking of crossing into the US"
-publishedDateTime: 2021-06-07T20:24:00Z
-originalUrl: "https://www.theguardian.com/us-news/video/2021/jun/07/kamala-harris-tells-migrants-do-not-come-during-talks-in-guatemala-video"
-webUrl: "https://www.theguardian.com/us-news/video/2021/jun/07/kamala-harris-tells-migrants-do-not-come-during-talks-in-guatemala-video"
+title: "Kamala Harris questions William Barr on investigations"
+excerpt: "New reports of Trump ordering Barr to investigate Democratic members of Congress may explain why he refused to address that issue two years ago."
+publishedDateTime: 2021-06-11T15:53:00Z
+originalUrl: "https://www.hawaiinewsnow.com/video/2021/06/11/kamala-harris-questions-william-barr-investigations/"
+webUrl: "https://www.hawaiinewsnow.com/video/2021/06/11/kamala-harris-questions-william-barr-investigations/"
 type: article
-quality: 102
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KHNL
+  domain: hawaiinewsnow.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://i.guim.co.uk/img/media/2baa61d94842a7d8ec656ed6b3d0452b65d18973/0_131_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e11a1a345dd175a0f7fe4f2743f7840"
-    width: 1200
-    height: 630
+  - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/ZfztmlAwA5aYpQlGZ_zvgefqCek=/980x0/smart/do0bihdskp9dy.cloudfront.net/06-11-2021/t_2d517000428b4d6a91307b3e8c52e583_name_file_1280x720_2000_v3_1_.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -396,6 +392,20 @@ related:
     quality: 102
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/f32c437a-3b09-4f05-a70a-b9a0c05141e5/thumbnail/1200x630/a06647e737a39cdf880110881efb89bc/0606-fttn-okeefe-729408-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris tells migrants 'do not come' during talks in Guatemala – video"
+    excerpt: "Do not come’: speaking in Guatemala, Kamala Harris gives a blunt message to people thinking of crossing into the US"
+    publishedDateTime: 2021-06-07T20:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jun/07/kamala-harris-tells-migrants-do-not-come-during-talks-in-guatemala-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 102
+    images:
+      - url: "https://i.guim.co.uk/img/media/2baa61d94842a7d8ec656ed6b3d0452b65d18973/0_131_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e11a1a345dd175a0f7fe4f2743f7840"
         width: 1200
         height: 630
         isCached: true
@@ -850,20 +860,6 @@ related:
         width: 401
         height: 226
         isCached: true
-  - title: "Kamala Harris questions William Barr on investigations"
-    excerpt: "New reports of Trump ordering Barr to investigate Democratic members of Congress may explain why he refused to address that issue two years ago."
-    publishedDateTime: 2021-06-11T15:53:00Z
-    webUrl: "https://www.hawaiinewsnow.com/video/2021/06/11/kamala-harris-questions-william-barr-investigations/"
-    type: article
-    provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
-    quality: 55
-    images:
-      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/ZfztmlAwA5aYpQlGZ_zvgefqCek=/980x0/smart/do0bihdskp9dy.cloudfront.net/06-11-2021/t_2d517000428b4d6a91307b3e8c52e583_name_file_1280x720_2000_v3_1_.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "SF immigration advocates slam Kamala Harris’ ‘betrayal’ to her past"
     excerpt: "Kamala Harris’ comments earlier this week discouraging Central Americans from traveling to the southernmost border of the United States rattled San Francisco advocates, who point to the vice president’s chequered record on immigration during her time as a city official."
     publishedDateTime: 2021-06-11T00:00:00Z
@@ -959,6 +955,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "XaALqXAycoXCHvzAuncVM2l7EXk4zk8wpzPOonscuqe3lONssSJK6xlXgCGh6oLDQVCW3Jfq3G2DM+0pbGWYwsThaYtTOF0NgYkfORN6ZR8LaNmwEdkUEKmeDmkp1cIFJ0PeMLywMbASXVtc1/20JcC5PRwThlGA+XhoOqaDhgBkBqNdZvFgBQ/0CKN63BAP5Ot44BQqgWeyGETF6eHtSkVVpCZXqj3vvzHy+dejAVUbrgZ7T4kW0JP24BfF48KYoa6EnAgfqZwZ1+3pzzq+a2k40DNPAUD3rPKMVLpdeh32F/4xB3grK+uwGya0XZVsouTQqwb6rwS1GSOnsrTmP2d3b9vKGYwPNlaX+FCqwtQYtJTQf0MMx/d1czq88icAMX58U5vE85GmGGr1fvT0+zmhf5IjNFjUne9BSCuc0N8TLdZkAK1gUYaGeveppK26Qebc66iQCovLMQdUZ6OjsHrqsGvDWOs9mDgZLfXB2x4+DWjmqUEBh5JWcpWMGBxJsw+kUE83XDMcMvpryCAPUw==;Gbj/LvB/jFhPBZ0SsCgslQ=="
+secured: "9idb37OG8F1096VxH4QZwGzr5h0kxsl8o53F+g4bCob2mt3wsMw6Q3PNS/rD8KVIkjAK0xGx/GEA3ie3oiSgC4JeuAHB/4lvGid4uFUYgsvbZmmGVhL/OMtqpZH/+X2sU7DAk8vpshPxMts+2Us3rolBQwpc1VNcvoQz7DhVkPbO0D66ne9QzU1QIL5qv/WlzpYItDUeVl9yQap+BCNZCHVbJbgKgkY8cJ+RwARLrFm+nV4MkpLHXUchZujpZML8ts0Ofv4nES2VbD0YLd2uVehqi4DGz1ZXBkh6aGiJTTJoO3sQT8rz1oD+EXixXpFOIBveyQuPgzKss/4HC32ZtK8jLLwrGuauojnZghZav84=;YxShNy2FdXo3egBohaj0lQ=="
 ---
 

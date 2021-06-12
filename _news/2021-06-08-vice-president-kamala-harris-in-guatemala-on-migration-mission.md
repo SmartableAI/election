@@ -846,6 +846,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris questions William Barr on investigations"
+    excerpt: "New reports of Trump ordering Barr to investigate Democratic members of Congress may explain why he refused to address that issue two years ago."
+    publishedDateTime: 2021-06-11T15:53:00Z
+    webUrl: "https://www.hawaiinewsnow.com/video/2021/06/11/kamala-harris-questions-william-barr-investigations/"
+    type: article
+    provider:
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 55
+    images:
+      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/ZfztmlAwA5aYpQlGZ_zvgefqCek=/980x0/smart/do0bihdskp9dy.cloudfront.net/06-11-2021/t_2d517000428b4d6a91307b3e8c52e583_name_file_1280x720_2000_v3_1_.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "SF immigration advocates slam Kamala Harris’ ‘betrayal’ to her past"
     excerpt: "Kamala Harris’ comments earlier this week discouraging Central Americans from traveling to the southernmost border of the United States rattled San Francisco advocates, who point to the vice president’s chequered record on immigration during her time as a city official."
     publishedDateTime: 2021-06-11T00:00:00Z

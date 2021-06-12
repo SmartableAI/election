@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/protesters-guatemala-meet-kamala-harris-tru
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/protesters-guatemala-meet-kamala-harris-trump-won-signs-1598351?amp=1"
 type: article
 quality: 140
-heat: 1380
+heat: 1400
 published: true
 
 provider:
@@ -849,6 +849,20 @@ related:
       - url: "https://media.pri.org/s3fs-public/styles/feature_tiny/public/images/2021/06/2021-06-07-harris-guatemala.jpg?itok=zK79IZyy"
         width: 401
         height: 226
+        isCached: true
+  - title: "Kamala Harris questions William Barr on investigations"
+    excerpt: "New reports of Trump ordering Barr to investigate Democratic members of Congress may explain why he refused to address that issue two years ago."
+    publishedDateTime: 2021-06-11T15:53:00Z
+    webUrl: "https://www.hawaiinewsnow.com/video/2021/06/11/kamala-harris-questions-william-barr-investigations/"
+    type: article
+    provider:
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 55
+    images:
+      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/ZfztmlAwA5aYpQlGZ_zvgefqCek=/980x0/smart/do0bihdskp9dy.cloudfront.net/06-11-2021/t_2d517000428b4d6a91307b3e8c52e583_name_file_1280x720_2000_v3_1_.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "SF immigration advocates slam Kamala Harris’ ‘betrayal’ to her past"
     excerpt: "Kamala Harris’ comments earlier this week discouraging Central Americans from traveling to the southernmost border of the United States rattled San Francisco advocates, who point to the vice president’s chequered record on immigration during her time as a city official."

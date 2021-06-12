@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Donald Trump calls Bitcoin 'a scam against the dollar'"
-excerpt: "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar."
-publishedDateTime: 2021-06-08T01:12:00Z
-originalUrl: "https://www.bbc.com/news/business-57392734.amp"
-webUrl: "https://www.bbc.com/news/business-57392734.amp"
-ampWebUrl: "https://www.bbc.com/news/business-57392734.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp"
+title: "John Dean Calls Surveillance by Trump-Era DOJ 'Nixon on Stilts and Steroids'"
+excerpt: "\"Nixon didn't have that kind of Department of Justice,\" John Dean said on Friday. \"Nixon couldn't use the department as he wanted to.\""
+publishedDateTime: 2021-06-12T04:08:00Z
+originalUrl: "https://www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029"
+webUrl: "https://www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029"
+ampWebUrl: "https://www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029?amp=1"
 type: article
-quality: 125
-heat: 305
-published: true
+quality: 122
+heat: -1
+published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BA93/production/_118836774_trump1.jpg"
-    width: 1024
-    height: 576
+  - url: "https://d.newsweek.com/en/full/1819790/john-dean-richard-nixon-donald-trump-doj.jpg"
+    width: 2500
+    height: 1570
     isCached: true
 
 related:
-  - title: "John Dean Calls Surveillance by Trump-Era DOJ 'Nixon on Stilts and Steroids'"
-    excerpt: "\"Nixon didn't have that kind of Department of Justice,\" John Dean said on Friday. \"Nixon couldn't use the department as he wanted to.\""
-    publishedDateTime: 2021-06-12T04:08:00Z
-    webUrl: "https://www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029"
-    ampWebUrl: "https://www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029?amp=1"
+  - title: "Donald Trump calls Bitcoin 'a scam against the dollar'"
+    excerpt: "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar."
+    publishedDateTime: 2021-06-08T01:12:00Z
+    webUrl: "https://www.bbc.com/news/business-57392734.amp"
+    ampWebUrl: "https://www.bbc.com/news/business-57392734.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
+      name: BBC
+      domain: bbc.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1819790/john-dean-richard-nixon-donald-trump-doj.jpg"
-        width: 2500
-        height: 1570
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BA93/production/_118836774_trump1.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Former President Trump's DOJ subpoenaed records of at least two House Democrats"
     excerpt: "Former President Donald Trump's Department of Justice reportedly subpoenaed the data of at least a dozen people connected to the House Intelligence Committee back in 2017 and 2018. Among them are Congressman Adam Schiff,"
@@ -162,6 +162,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "zOBkCPTlO4V0Jz5bVHulN4zH9H/ITr7ybW+4x9nOpw3C2ONdGA4byH1tuha/SMbKKuEVMOogXXNGEUBuY0NI1Vth9BoaNlnifIGuFOWd6x+KR5mw5GifK2mHNEM3/ElRrmG83rnOcTdYrGCyeuyLHVANuxngK2un6P/x9yUjQM6HaJv9dJBHhFenGompOICEGLXrHB7W2ultVNZERGoC61cmx4y5AGQYqcoCZawjPINlejSstOCNYfW9drmbnREmHi4FV3awa4Y68+cLK4Ctv5F1JB01UocPpQfawYHzg+sm5cbVpr6YYHS7PWZk7vQz0sOR6hW0xIVFwfjT02FBCso9b/RIWYADzdFeHa96A3U=;17xQVijHusezlv3O81YO+A=="
+secured: "foYW3iKKi6SfGch4HI+L+tTty+HZG2rXyHJHIcSvqzBZMV289AJkui4HFMBLvmOl2qI43svdE2dSRhkNjFsl39sons6IgBl9UFXbzdRSKr0X8SITKEg6byKOEHbRJPFH7c84iexMqqJ/U/VE2O9gUTGJVBhQuo6RJdH4lodYJLWorvYlqkI8tgMf4u+xnTwKuWGddtwyqXv4YfhINU0QnOxdo8uWyzqkTE5sMp5WorSlcRUdJTQtEm/D1AU1CA+86t07ViAzYTLUMhotT+7ssAvEyi4iXKZhN5XPWJiawW6CRNcMncg1QhcJ4ur2EHecnyYSKvk2d4sCN5tKSpaW33Ow3ZSZNVAViD2tOv7+ITA=;HYve3s+FgwsChCPCKCzXGA=="
 ---
 

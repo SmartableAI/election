@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Well-paid AOC dinged after posting photo of grandma's dilapidated Puerto Rico home and blaming Trump"
-    excerpt: "Rep. Alexandria Ocasio-Cortez posted a photo of her grandmother’s Puerto Rico home in a state of disrepair in the aftermath of Hurricane Maria to demonstrate how the U.S. had blocked relief to the territory, but some questioned why she hadn’t offered to help repair the home herself."
-    publishedDateTime: 2021-06-02T22:40:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HZ4EpfCUyEo/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-photo-grandmothers-home-puerto-rico-trump-blocked-relief.amp"
+  - title: "AOC’s aunt says blame Puerto Rico pols, not Trump, for ‘abuela’ misery: report"
+    excerpt: "If the grandmother of U.S. Rep. Alexandria Ocasio-Cortez has suffered in Puerto Rico since Hurricane Maria in 2017, then Puerto Rican politicians are to blame, not former President Trump."
+    publishedDateTime: 2021-06-12T04:26:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UOaDnhAfI88/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report"
+    ampWebUrl: "https://www.foxnews.com/politics/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aocs-aunt-says-blame-puerto-rico-pols-not-trump-for-abuela-misery-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/aoc.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4fd5fb5-83f2-4861-b108-1ba47e4ff053/c6a6343e-88a5-4bfe-a221-9c75c0fadebf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

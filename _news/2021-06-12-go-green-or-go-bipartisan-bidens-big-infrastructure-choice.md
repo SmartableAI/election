@@ -1,22 +1,22 @@
 ---
 category: news
-title: "All the Queen’s presidents: Biden will be 13th US leader to meet monarch"
-excerpt: "Biden previously met the Queen in 1982 while she has met every US president since Eisenhower except Lyndon B Johnson"
-publishedDateTime: 2021-06-11T17:01:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jun/11/joe-biden-queen-meeting-presidents-photos"
-webUrl: "https://www.theguardian.com/us-news/2021/jun/11/joe-biden-queen-meeting-presidents-photos"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/11/joe-biden-queen-meeting-presidents-photos"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/11/joe-biden-queen-meeting-presidents-photos"
+title: "Go green or go bipartisan? Biden's big infrastructure choice"
+excerpt: "President Joe Biden’s hope of pouring billions of dollars into green infrastructure investments is running into the political obstacle of winning over Republican votes"
+publishedDateTime: 2021-06-12T04:26:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
+webUrl: "https://abcnews.go.com/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
 type: article
-quality: 124
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/db75f8fd1df67f101245365ecb0501f020301bbc/0_39_2023_1214/master/2023.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f868fa28983de7cc7adef6cd008110dc"
-    width: 600
-    height: 360
+  - url: "https://s.abcnews.com/images/Politics/WireAP_3d5e1572288b4910be34676fc841b5b8_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -63,22 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Go green or go bipartisan? Biden's big infrastructure choice"
-    excerpt: "President Joe Biden’s hope of pouring billions of dollars into green infrastructure investments is running into the political obstacle of winning over Republican votes"
-    publishedDateTime: 2021-06-12T04:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_3d5e1572288b4910be34676fc841b5b8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Joe Biden Had His First Meeting With Queen Elizabeth As President"
     excerpt: "President Joe Biden met with Queen Elizabeth II in England on Friday — the first time he has encountered the British sovereign as commander in chief. The president and first lady Jill Biden were photographed chatting with the Queen at an event for heads of state attending the G7 summit in Cornwall."
     publishedDateTime: 2021-06-11T22:16:00Z
@@ -94,6 +78,22 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-05/27/14/tmp/buzzfeed-prod-fastlane-03/tmp-name-2-8287-1495908039-5_dblbig.jpg"
         width: 625
         height: 415
+        isCached: true
+  - title: "All the Queen’s presidents: Biden will be 13th US leader to meet monarch"
+    excerpt: "Biden previously met the Queen in 1982 while she has met every US president since Eisenhower except Lyndon B Johnson"
+    publishedDateTime: 2021-06-11T17:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/11/joe-biden-queen-meeting-presidents-photos"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/11/joe-biden-queen-meeting-presidents-photos"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/11/joe-biden-queen-meeting-presidents-photos"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/db75f8fd1df67f101245365ecb0501f020301bbc/0_39_2023_1214/master/2023.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f868fa28983de7cc7adef6cd008110dc"
+        width: 600
+        height: 360
         isCached: true
   - title: "White House says Biden-Putin meeting not a reward but good way to manage ties"
     excerpt: "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,"
@@ -201,6 +201,6 @@ related:
       domain: indystar.com
     quality: 32
 
-secured: "wYJ6zgMgeQjnW6wbr6o7HGtSMjBq3xg5ijdzvMepn68oE8xLkPutYTuB4tqaZRybzBxf+3ggML3jj/otPwhf+sU//Eo2T8CEHV6LEONjlz+DAGmxiZDtCZwrlnPvljnbrLdGW/wMpQgQ8b5ifWGiPCUwxrOWvGzjHUXT2QTWFm8Y5hH/Me5x2ThtTHs0E8aqaT7GIzksPiC6RIiMSMfdSA2qsF64lxn7LUbuuxv4+0anCqLUVZO1XihZFv62LjwnA1RiKANRMY3M4x2dZbMtoKfd1J6BLUVvs/Wt97mG9/6aLPeMfJxBI9RAT2scin3vYWEezwsp/jBr5aKSEeD1D4JlialvggIxkw7MQ8YjhIGzKre/SQBfMrVnz6FWNTxTtc43xyZQnCrradNWYQFaMusrTFgR0zYLcwOPvqppYHVWhVI3XCYa/csm50ds307YT/3tyz7rW+sSPgHFUi1Qi0JEHt8EPGKrXLcVEfGK3vhyyw2PPsGd1+HIQKtLEDO9pHxmYveOfs5XkBq8j56mUg==;2QK/DcsEn1NIzzxhhcWf7w=="
+secured: "Hj3WVhwjPNEUnC2pDMeMXrFZBTwJwpN+YM6ihfdfJOluVBZIXQzEcAC24doQMW/kojUfGtXJ/c8m6WgsufC/DWy+OgJPbZReR3VKc1y+x6gOa/hS/2qQEZoAS9iIJdfaajnB1ZDWBgvckZhG2BUB9w6JJz/Dg6z0+Pfnd/cSL/xRHbMZVjACYIh9HGZ4b73p/S+TiAO+t5/G8hABRShCqFkyhVckBGC+bhUlrskcvdTsTH091UgQcdxNdEQNKtl+/MtwloCvjjTmtn7x2yKcYUC5hRbo150hFANz2Lrqo1c5Ix++q2K1MvG4+ZEWNapK8jvwkJjAgqXRJgB/xbGLzR0L1szOn3Z8joIqwtVsFn0=;Su5vCJfad4FF4oZqwOwQWA=="
 ---
 

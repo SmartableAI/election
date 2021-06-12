@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "John Dean Calls Surveillance by Trump-Era DOJ 'Nixon on Stilts and Steroids'"
+    excerpt: "\"Nixon didn't have that kind of Department of Justice,\" John Dean said on Friday. \"Nixon couldn't use the department as he wanted to.\""
+    publishedDateTime: 2021-06-12T04:08:00Z
+    webUrl: "https://www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029"
+    ampWebUrl: "https://www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1819790/john-dean-richard-nixon-donald-trump-doj.jpg"
+        width: 2500
+        height: 1570
+        isCached: true
   - title: "Former President Trump's DOJ subpoenaed records of at least two House Democrats"
     excerpt: "Former President Donald Trump's Department of Justice reportedly subpoenaed the data of at least a dozen people connected to the House Intelligence Committee back in 2017 and 2018. Among them are Congressman Adam Schiff,"
     publishedDateTime: 2021-06-11T12:39:00Z
