@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-bide
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
 type: article
 quality: 150
-heat: 1990
+heat: 2010
 published: true
 
 provider:
@@ -495,6 +495,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_b58d496d76d746199d6d5052e9ccf57c_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Watch live: Biden press conference"
+    excerpt: "President Biden is set to hold a press conference on Sunday morning on the final day of the G-7 summit.The event is scheduled to begin at 9:40 a.m. ET.Watch live in the video player above."
+    publishedDateTime: 2021-06-13T11:12:00Z
+    webUrl: "https://thehill.com/policy/international/558175-watch-live-biden-press-conference"
+    ampWebUrl: "https://thehill.com/policy/international/558175-watch-live-biden-press-conference?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/558175-watch-live-biden-press-conference?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bideng-7_061321getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "No vice president has broken more Senate ties as early as Kamala Harris has"
     excerpt: "During the eight years that Joe Biden served as vice president to Barack Obama, he never cast a tiebreaking vote in the Senate. For eight years, Biden was just at the other end of Pennsylvania Avenue,"

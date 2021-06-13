@@ -1,24 +1,18 @@
 ---
 category: news
-title: "Trump Casts Shadow on New Jersey Primary Election"
-excerpt: "Front-runner Jack Ciattarelli looks to hold off Hirsh Singh, a supporter of the former president, in race for Republican nomination."
-publishedDateTime: 2021-06-07T18:51:00Z
-originalUrl: "https://www.wsj.com/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
-webUrl: "https://www.wsj.com/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
-ampWebUrl: "https://www.wsj.com/amp/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
+title: "Trump Supplied Post-Election Demagoguery; Democrats Sparked Demand"
+excerpt: "First of two parts The recent failure of the Senate to approve a proposed Jan. 6 commission and the removal of National Guard troops from the Capitol have returned attention to the events of"
+publishedDateTime: 2021-06-13T10:23:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/06/13/trump_supplied_post-election_demagoguery_democrats_sparked_demand.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/06/13/trump_supplied_post-election_demagoguery_democrats_sparked_demand.html#!"
 type: article
-quality: 150
-heat: 230
-published: true
+quality: 80
+heat: -1
+published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -26,12 +20,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-350066/social"
-    width: 1280
-    height: 640
+  - url: "https://assets.realclear.com/images/54/545417_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
+  - title: "Trump Casts Shadow on New Jersey Primary Election"
+    excerpt: "Front-runner Jack Ciattarelli looks to hold off Hirsh Singh, a supporter of the former president, in race for Republican nomination."
+    publishedDateTime: 2021-06-07T18:51:00Z
+    webUrl: "https://www.wsj.com/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-350066/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Jr. accuses NY AG James of ‘persecution’ in Trump Organization probe"
     excerpt: "Donald Trump Jr. claimed that the New York Attorney General’s probe into the Trump Organization is a form of “political persecution.”"
     publishedDateTime: 2021-06-02T02:01:00Z
@@ -80,21 +90,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Trump Supplied Post-Election Demagoguery; Democrats Sparked Demand"
-    excerpt: "First of two parts The recent failure of the Senate to approve a proposed Jan. 6 commission and the removal of National Guard troops from the Capitol have returned attention to the events of"
-    publishedDateTime: 2021-06-13T10:23:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/06/13/trump_supplied_post-election_demagoguery_democrats_sparked_demand.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 80
-    images:
-      - url: "https://assets.realclear.com/images/54/545417_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "sPSD7BIF/McEjns/TGFFELdbTMtpRYbiOFBx6NvNRJ90krZpw4dcVBiBDFzTicNH9s4O7BcJhDxws1K9ywoikh7RnOSnwSwAaruBQ07x5ZAxjcma3nwUigVerkICFylzbBwSAcrD51CCBJQs6O0iPNgItBPqKAb700VTG4quMdYHApeY2mQ1Rh51lR6QT19bEzbqAh/47RxLgn3MAd5GSxL5PCMkxshj2T17wkRfaDTP5EKv9SbRaPbBSIbjQfyeLkrQ+Tx/ZtlpynNuZcMlnN8PzA4DCq7FoPT9mob2yHtaJc4e4JVOpV8tVHm5/nga2LCLanZzXk2YQlmTIkNr+shcPd2mWK06eZUEHYjdY9Bz7LvKfQWIloT7U8lbA/jk0rQCn5/fZASifNwwBo+WcYCB4sfbrSmZ4G26a3a8FQ41VoyL3TR8ouGIoSQUY2y+PjtxhU1Y6M1JIbOkJyR22eZ4BOqrNfCQOinSbdVfqInk3prsyfl65BXGDYWs2ncBKpJZsx9h01PToyluSAlCqw==;Dq5QJ/eBN7d0nLVNszJVYA=="
+secured: "ISGRBoBF4EWrjLqXpGGUmRSrrQzCmsFIj/w+83AaZ0ZTqpFBOso4dj5rkg/AUi0Ncb7kcrewGQi0cPKk1jbgGgqr/NE21z7PQmtfb/jyt49+n1zT5TLMCkuy4eiS35sVpDmW36wvIjusixgZ6vLlg9H6HWquObYntVMUcDF0XsxCnjdLwS+tpDg4JiveKPemjPDtbaYiQISV7ox8yKmelMiJW5NJKv0vdJ3MwmWCbqc/HQSn+EUifJMsN37NYQaE1QUi0bBTBRGUynZ1ReQxrRE73MuzI2wpPJJFKZ7nrmhb6Ay97HOzgiQK6AvtjkoKHhPfRTPCS+ra6z+IakIbLXK8gWolEOREfH70Erhpq6Y=;0Tv9LxNzfzOChlKHz2AqaA=="
 ---
 

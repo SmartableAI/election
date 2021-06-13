@@ -3,25 +3,25 @@ category: news
 title: "Go green or go bipartisan? President Joe Biden’s big infrastructure choice"
 excerpt: "As negotiations unfold in Congress in search of a bipartisan deal, the White House's ability to ensure a climate focus in Biden's sweeping infrastructure package is becoming daunting."
 publishedDateTime: 2021-06-12T16:57:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
+originalUrl: "https://www.courant.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
+webUrl: "https://www.courant.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
+ampWebUrl: "https://www.courant.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/e412vHahVzpumXEQYXGNDP7Lkts=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6NLKY7DP2OSSSWLTTXZGYLUIKY.aspx"
+  - url: "https://www.courant.com/resizer/e412vHahVzpumXEQYXGNDP7Lkts=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6NLKY7DP2OSSSWLTTXZGYLUIKY.aspx"
     width: 1200
     height: 800
     isCached: true
@@ -275,6 +275,6 @@ related:
       domain: indystar.com
     quality: 32
 
-secured: "r5vu0DNKvGZA/6TOeYevYucKl9YJFBD0/EQ77wZdzv7OXGZkUFSTV+4YPlvdfuKSmqt665ob13l5LDLTmgcGlJaGNtf3E1ZbfDj++PpW8DssOFR3RX4N5oiql6GwBvuKF7+NyQK+Kx3w4NE5m0VatWb3Ie/KeyOgurxiwLncRK3425rdR+gZ2EUm8XB8oAPzRhsfPPD7SRrwEg4Il/eNCp2AGI8h0zcPR/bY5fwGeZ/JyVXORdnCrv2Es3sxzPS/HvDI1M6DZQkedwcV/9F7HjBXSISHlgYpGUR2h/mqNg5wrFdcbxS4OponU1GgikZANO+a40CdSE8wzzlY/Fggpq4oz/zdGdy+xOWq5/bd6htaP7zFcxjQj8dRAZo8Jp/gjoGewVfYxKsMj44Im7M5ZpvDbMw2xFkFpQtXKd04FK77BjozDgm3pMFMKToLXvwY0os6Z1aqRNnWfQxdJMoTK5jDL2Xnp87D41GgKt1/Svm6r5zzXnk1foLV7SBeUVBYkckm2b6Gf3988Pe1DUsaUQ==;eNT2Ns4g51hbhZwUaWPEIg=="
+secured: "v8fZx4+5w7udjtBoS8+X/Yq9EnCjx06Gxajcqs/AjFiF0kbh5B5iWTVRmsc6+KJUhU8867j9+CRHZXsxPdnYrvGVqRijfAzXO728bQ0VeunKamrY1r7G8v3Ofc5xE0K60DIHWc5XoXo6IHk/F8oeleu81Vkqa0X8EDkYPczMrzAvKkoClQBYcx/c2fbDdfb4mkBL3m1maOxbIC6VQu+rK+aiWTicvA84SsrRkAWQKqI9l0GQouHi1gl18FAt3yWy52uYJ9lzC3oLPc/r/yJaMwSQ1uwl8wxvuxq6UH4qPqltEmYQHj7qdbkvNBSCCc+goCWyuPjzBASynOjlV4tGIQeC0ISMV0IRHm5dyCxL/Y0=;U8g7ykfYuv9JZ4R7ORwgJw=="
 ---
 

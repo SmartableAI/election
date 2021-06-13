@@ -511,6 +511,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Watch live: Biden press conference"
+    excerpt: "President Biden is set to hold a press conference on Sunday morning on the final day of the G-7 summit.The event is scheduled to begin at 9:40 a.m. ET.Watch live in the video player above."
+    publishedDateTime: 2021-06-13T11:12:00Z
+    webUrl: "https://thehill.com/policy/international/558175-watch-live-biden-press-conference"
+    ampWebUrl: "https://thehill.com/policy/international/558175-watch-live-biden-press-conference?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/558175-watch-live-biden-press-conference?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bideng-7_061321getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "What Biden has done on climate change has activists applauding -- and waiting"
     excerpt: "Biden has doubled down on climate change, hosting an international virtual summit with 40 world leaders this Earth Day."
     publishedDateTime: 2021-04-22T16:54:00Z
