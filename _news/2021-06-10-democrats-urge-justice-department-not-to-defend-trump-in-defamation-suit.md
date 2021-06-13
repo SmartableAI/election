@@ -111,6 +111,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "With Trump gone, NATO wages war on climate threat"
+    excerpt: "If the U.S. military were a nation state, it would be the world's 47th largest emitter of planet-warming greenhouse gases, a 2019 study found."
+    publishedDateTime: 2021-06-13T10:32:00Z
+    webUrl: "https://www.reuters.com/article/us-nato-summit-climate-analysis-idCAKCN2DP03E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKCN2DP03E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKCN2DP03E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210613&t=2&i=1565505331&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5C022"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Republican leaders say they want to focus on the future, but Trump is far from done with the past"
     excerpt: "Trump’s appearance Saturday in North Carolina illustrates a continued conundrum for the Republican Party: While he remains overwhelmingly popular among the party’s faithful, he potentially poses a problem for the GOP as it looks to win over voters ahead of the 2022 midterms who are wary of his divisive style."
     publishedDateTime: 2021-06-06T22:55:00Z

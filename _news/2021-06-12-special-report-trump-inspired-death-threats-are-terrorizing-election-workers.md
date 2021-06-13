@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DN14M"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DN14M"
 type: article
 quality: 137
-heat: 537
+heat: 557
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_103020getty_endorsements.jpeg"
         width: 980
         height: 551
+        isCached: true
+  - title: "With Trump gone, NATO wages war on climate threat"
+    excerpt: "If the U.S. military were a nation state, it would be the world's 47th largest emitter of planet-warming greenhouse gases, a 2019 study found."
+    publishedDateTime: 2021-06-13T10:32:00Z
+    webUrl: "https://www.reuters.com/article/us-nato-summit-climate-analysis-idCAKCN2DP03E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKCN2DP03E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKCN2DP03E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210613&t=2&i=1565505331&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5C022"
+        width: 818
+        height: 545
         isCached: true
   - title: "Democrats urge Justice Department not to defend Trump in defamation suit"
     excerpt: "House Democrats are urging Attorney General Merrick Garland to reconsider the Justice Department's decision to take up the defense of former President Trump in a defamation lawsuit. The 2019 suit was filed by writer E."

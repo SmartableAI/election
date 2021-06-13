@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest"
-excerpt: "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it."
-publishedDateTime: 2021-06-11T23:35:00Z
-originalUrl: "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/"
-webUrl: "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7662402002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7662402002"
+title: "With Trump gone, NATO wages war on climate threat"
+excerpt: "If the U.S. military were a nation state, it would be the world's 47th largest emitter of planet-warming greenhouse gases, a 2019 study found."
+publishedDateTime: 2021-06-13T10:32:00Z
+originalUrl: "https://www.reuters.com/article/us-nato-summit-climate-analysis-idCAKCN2DP03E"
+webUrl: "https://www.reuters.com/article/us-nato-summit-climate-analysis-idCAKCN2DP03E"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKCN2DP03E"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKCN2DP03E"
 type: article
-quality: 96
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2018/11/06/USAT/07f2e10a-a895-4a3b-8a78-4ca7d17513ae-Alaska_110618.jpg?auto=webp&crop=599,335,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 671
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210613&t=2&i=1565505331&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5C022"
+    width: 818
+    height: 545
     isCached: true
 
 related:
@@ -110,22 +110,6 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_103020getty_endorsements.jpeg"
         width: 980
         height: 551
-        isCached: true
-  - title: "With Trump gone, NATO wages war on climate threat"
-    excerpt: "If the U.S. military were a nation state, it would be the world's 47th largest emitter of planet-warming greenhouse gases, a 2019 study found."
-    publishedDateTime: 2021-06-13T10:32:00Z
-    webUrl: "https://www.reuters.com/article/us-nato-summit-climate-analysis-idCAKCN2DP03E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKCN2DP03E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKCN2DP03E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210613&t=2&i=1565505331&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5C022"
-        width: 818
-        height: 545
         isCached: true
   - title: "Democrats urge Justice Department not to defend Trump in defamation suit"
     excerpt: "House Democrats are urging Attorney General Merrick Garland to reconsider the Justice Department's decision to take up the defense of former President Trump in a defamation lawsuit. The 2019 suit was filed by writer E."
@@ -244,6 +228,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest"
+    excerpt: "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it."
+    publishedDateTime: 2021-06-11T23:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7662402002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7662402002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/11/06/USAT/07f2e10a-a895-4a3b-8a78-4ca7d17513ae-Alaska_110618.jpg?auto=webp&crop=599,335,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 671
+        isCached: true
   - title: "Trump's Justice Department targeted Democrats in Congress in search for source of leaks related to the Russia investigation, New York Times reports"
     excerpt: "Officials subpoenaed Apple for communications data of Reps. Adam Schiff and Eric Swalwell, as well as their families and staffers."
     publishedDateTime: 2021-06-11T03:20:00Z
@@ -343,6 +343,6 @@ related:
       domain: usnews.com
     quality: 52
 
-secured: "v00eHhj7KanWfbEC+I617P3p908APstR4tiBx/KxFBv9hSgqxiASoQGT1hXvHhkp0hDL1lUIfO+5nl6S2L0TLEfTNU59GIdxD2l9f4uDo4aG93vS9e9hHN6viPAxOPnyLGRSE3H0CW+ro0kinTNTuW4DWllm9sn+EH0tVA0Q0XwgUcVFU8xfgaSBFkf4FMZPRdt/KlGroanGohhi5YFFgOvMwFKa3+AqHblQD674pWYYztPa3tTWX1ogbgkIPm/Hk0mYLh57Q5gMwYTfFztBIIhfOOIAhg2oLHerdjoN4PamP/SFOv8P1s9qaqGDrbSP8YZmXQ5zBXdpS0Xw0cy7J26KJHXgs1lyH8SfxTfgsGo=;v6VGCSbJB3rxfOosIglA9A=="
+secured: "oO2ywLnRh825fTyKD0GYjjIcA++IMuu1CXFSR3+JZaGtEl+6BiA0JT9pNxTMSpsuQY3MKv1xlxtzEQGe/a7jM2J59mvC7jVMEEVaChCxHxApTJs4AhIcCEmiCA9nh+N6bzK6t3y+hnWaxBWCigRGNlQtFTJsX2twchp00tQT3uTg0QJBjXHGhW5AlkCYGgzdC8OFGOh58je60uopPisbhqVNXpcXCTgGZrGeDZjugktBBX53w151N+mFmJ1bWCKiIQEE/GO+sp4iL+Whaz1LMCXzh3/ZeNdplZvYqHS0yboQSGNYsmhaLFQWU0g/SP9zlc/l1O7Gh3V4HSoN/Bj+/IY3msMmYMWm+OUXYkLXzPU=;VWxDKBdepF6R0lpy3zfG+A=="
 ---
 

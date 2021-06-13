@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-26-biden-intel-community-torn-between-two-likely-scenarios-on-covid-19-outbreak-source.md",
+      "title": "Biden: Intel community torn between 'two likely scenarios' on COVID-19 outbreak source",
+      "excerpt": "President Biden on Wednesday asked the Intelligence Community to \"redouble\" their efforts to \"collect and analyze\" information that could bring the U.S. closer to a \"definitive conclusion\" on the origins of the novel coronavirus, saying U.S. intelligence officials are currently torn between \"two likely",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/giqHf44JnaQ/biden-intel-community-covid-origin-probe-lab-leak-theory",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/giqHf44JnaQ/biden-intel-community-covid-origin-probe-lab-leak-theory",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-intel-community-covid-origin-probe-lab-leak-theory.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intel-community-covid-origin-probe-lab-leak-theory.amp",
+      "publishedDateTime": "2021-05-26T10:10:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-trump-patriots-owner-robert-kraft-accused-of-trying-to-influence-late-senators-spygate-probe-report.md",
       "title": "Trump, Patriots owner Robert Kraft accused of trying to influence late senator's Spygate probe: report",
       "excerpt": "Former President Donald Trump and New England Patriots owner Robert Kraft were accused in a new report Wednesday of trying to influence the investigation into the team’s 2007 Spygate scandal.",
@@ -1557,62 +1613,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point.amp",
       "publishedDateTime": "2021-05-19T11:52:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.md",
-      "title": "New York AG’s office says Trump Organization probe now ‘criminal’ investigation",
-      "excerpt": "The office of New York state Attorney General Letitia James issued a statement to Fox News on Tuesday night, confirming a change in its investigation of the Trump Organization.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 311,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp",
-      "publishedDateTime": "2021-05-19T01:41:03-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

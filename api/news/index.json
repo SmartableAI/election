@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-13-biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.md",
+      "title": "Biden congratulates Israel’s incoming PM Naftali Bennett, vows support for 'Israelis, Palestinians'",
+      "excerpt": "President Joe Biden on Sunday congratulated Israel’s incoming Prime Minister Naftali Bennett after Israel’s parliament voted to approve a new government, effectively ending Benjamin Netanyahu’s historic 12 years in office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VuCLqcy-Gok/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VuCLqcy-Gok/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ba207a5-e5c3-44d7-ac5a-5bb6e1c12fb7/13469762-5405-4e01-b991-9d0ec4c05076/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-congratulates-israels-incoming-pm-naftali-bennett-vows-support-for-israelis-palestinians.amp",
+      "publishedDateTime": "2021-06-13T13:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-did-covid-19-start-in-a-chinese-lab-former-trump-official-gives-bold-answer.md",
       "title": "Did COVID-19 Start In A Chinese Lab? Former Trump Official Gives Bold Answer",
       "excerpt": "In an interview with Fox News, the former secretary of state said he strongly believed Covid-19 originated from a Chinese lab.",
@@ -427,6 +483,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-mypillow-ceo-mike-lindell-played-a-speech-by-former-president-trump-during-his-latest-political-rally.md",
+      "title": "MyPillow CEO Mike Lindell played a speech by former President Trump during his latest political rally",
+      "excerpt": "Former President Trump and MyPillow CEO Mike Lindell on Saturday spoke to a crowd in Wisconsin, repeating claims of voter fraud in the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mypillow-mike-lindell-trump-speech-rally-voter-fraud-wisconsin-2021-6",
+      "originalUrl": "https://www.businessinsider.com/mypillow-mike-lindell-trump-speech-rally-voter-fraud-wisconsin-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60c5c1d923393a00188e2d53?width=1200&format=jpeg",
+          "width": 869,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mypillow-mike-lindell-trump-speech-rally-voter-fraud-wisconsin-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mypillow-mike-lindell-trump-speech-rally-voter-fraud-wisconsin-2021-6?amp",
+      "publishedDateTime": "2021-06-13T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1082,7 +1190,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-georgia-threats-special-rep-idUSKCN2DN14M",
       "featuredContent": null,
       "highlight": null,
-      "heat": 537,
+      "heat": 557,
       "tags": null,
       "images": [
         {
@@ -1235,120 +1343,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-pence-to-headline-two-events-in-iowa-fueling-2024-run-speculation.md",
-      "title": "Pence to headline two events in Iowa, fueling 2024 run speculation",
-      "excerpt": "Former Vice President Mike Pence is set to headline two events next month in Iowa, the first state to host a primary for presidential elections, further fueling speculation that the former VP is mulling a run in 2024.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HyFASMdOgAY/pence-iowa-2024-presidential-speculation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HyFASMdOgAY/pence-iowa-2024-presidential-speculation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/pence.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-iowa-2024-presidential-speculation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-iowa-2024-presidential-speculation.amp",
-      "publishedDateTime": "2021-06-11T10:53:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-biden-nominee-takes-heat-over-critical-race-theory.md",
-      "title": "Biden nominee takes heat over ‘critical race theory’",
-      "excerpt": "The group cites Ahuja’s embrace of “critical race theory,” which they say “draws a large question as to this nominee’s ability to neutrality, fairness, and impartiality.” “Although we have not weighed in on this nomination in the past,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook-pm/2021/06/11/biden-nominee-takes-heat-over-critical-race-theory-493221",
-      "originalUrl": "https://www.politico.com/newsletters/playbook-pm/2021/06/11/biden-nominee-takes-heat-over-critical-race-theory-493221",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/3d/74/4604fc834fe882f0a6e4c85944dd/210611-ahuja-ap-1160.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],
