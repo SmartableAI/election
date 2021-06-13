@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Joe Biden, Budget Buster"
-excerpt: "RealClearPolitics"
-publishedDateTime: 2021-05-30T11:14:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/05/30/joe_biden_budget_buster_543949.html"
-webUrl: "https://www.realclearpolitics.com/2021/05/30/joe_biden_budget_buster_543949.html"
+title: "Meghan McCain: VP Kamala Harris \"Sounded Like A Moron\" Talking About The Border"
+excerpt: "The View' co-host Meghan McCain criticized Vice President Kamala Harris for sounding \"like a moron\" when she talked about the border in an interview with NBC 'Nightly News' host Lester Holt. \"Vice President Harris was in Guatemala this week telling people seeking asylum in the U."
+publishedDateTime: 2021-06-12T23:40:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html"
+ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
 type: article
-quality: 45
+quality: 81
 heat: -1
 published: false
 
@@ -16,8 +18,14 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
+  - Kamala Harris
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/54/545573.jpg"
+    width: 868
+    height: 650
+    isCached: true
 
 related:
   - title: "Biden, Harris packing their bags this week for first foreign trips since taking office"
@@ -668,22 +676,6 @@ related:
         width: 1032
         height: 774
         isCached: true
-  - title: "Meghan McCain: VP Kamala Harris \"Sounded Like A Moron\" Talking About The Border"
-    excerpt: "The View' co-host Meghan McCain criticized Vice President Kamala Harris for sounding \"like a moron\" when she talked about the border in an interview with NBC 'Nightly News' host Lester Holt. \"Vice President Harris was in Guatemala this week telling people seeking asylum in the U."
-    publishedDateTime: 2021-06-12T23:40:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 81
-    images:
-      - url: "https://assets.realclear.com/images/54/545573.jpg"
-        width: 868
-        height: 650
-        isCached: true
   - title: "Biden: I Am Tasking VP Kamala Harris With Voting Rights, \"Among Her Many Other Responsibilities\""
     excerpt: "President Joe Biden said on Tuesday \"we're going to overcome again\" when he announced he will be tasking Vice President Kamala Harris with issues tied to voting rights. \"To signify the importance of our efforts,"
     publishedDateTime: 2021-06-01T00:00:00Z
@@ -712,6 +704,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Joe Biden, Budget Buster"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-05-30T11:14:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/30/joe_biden_budget_buster_543949.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
   - title: "Kamala Harris' Naval Gazing Speech"
     excerpt: "On this Memorial Day weekend, what does Vice President Kamala Harris decide to talk about in front of the Naval Academy's graduating class? Solar power. Read Full Article »"
     publishedDateTime: 2021-05-30T11:15:00Z
@@ -722,6 +723,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "kjBVPBuNfHTKBls+tmgLYLKiCbqjbE2LREw9XvEVn3oItkBbWsMh9jyXwvt+FT1kmjwrWHjiDFDd7dkX/PJkUSaOFn2bKeV1LeWz5VPphINWAHX/LmRzk3TWvfIvqhd+6SUQ78/sf6OhfGZkkQuM1mNxzkOD0ZzW+2niWkivAlplOBYFgPNFBUq4sHOfPn3uDuAgM+7L2bheBA5U9GJ/ovwtmL+U4mdQjxy8zk6XB6ztfrANWUa2ocKRIqTATySmwtj6q5Hsm/OHsu899HcT0j3Kq4D9n6AYx6uasOkxFJayCmtaNV0LPysSTss+Pu0pEAwLBlyLBUpk7I+I9DKdTJsfadG7BbSmnnUHP5wp1j8=;6In162lPQvG311RQdSTAVA=="
+secured: "4VBiq2R3zPya9JiT9LohiDEI+s0O2LYMo+/5fItlBj8p2kXbKjOfN6RKcesz/oYsxVDK6/y3gu5UEIkh6uIPYqm7N/4rCUdRn2Whl9VEaPzPvHoQvVnPMbae5btdl0tXcDVvSaegcEKbbNrwhlczUlh4f/HzSp91YBE2gvYjRodoBtyekcwG/nvEeAtX/2tANYjZBeg1FnLJrnxwSjgy1XgIGTlQaPMZFqOQfTBBYqaw0Mitulqnpd16AyFD1KaqSalpHxLFzDPk9wTothw/7L/XuWfUK7H/PjnjyuN4bGKCf4CfrNiDxpQghvGvorL4jpsc9h171/BfyYGPcfXfnLxfLQ/64+c2MBK7gS0K3YE=;H5pYlOqMQQiCNL75zbxytQ=="
 ---
 

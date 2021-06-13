@@ -588,6 +588,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Kamala Harris takes part in D.C.'s LGBTQ Pride rally"
+    excerpt: "After the coronavirus pandemic left most Pride parades and events canceled in 2020, Vice President Kamala Harris joined the CapitalPride Walk and Rally in Washington, D.C. on Saturday."
+    publishedDateTime: 2021-06-12T22:20:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/12/kamala-harris-lgbtq-pride-rally-washington/7401623534397/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/12/kamala-harris-lgbtq-pride-rally-washington/7401623534397/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/12/kamala-harris-lgbtq-pride-rally-washington/7401623534397/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7401623534397/2021/1/bbd3b3ab8fb83497c085da513754b8d4/v1.5/VP-Kamala-Harris-takes-part-in-DCs-LGBTQ-Pride-rally.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "On 1st trip, Kamala Harris says Guatemalans need 'hope' to deter migration"
     excerpt: "Central Americans must believe that \"help is on the way\" if illegal migration to the United States is to be curbed, Vice President Kamala Harris said Monday in Guatemala during her first official foreign visit."
     publishedDateTime: 2021-06-07T19:32:00Z

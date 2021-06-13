@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Progressives push Biden to do more to distribute vaccines across the world"
-excerpt: "A group of more than 30 Democratic members of the House of Representatives have signed onto a letter to the White House encouraging the Biden administration to do even more to help distribute vaccines across the world.\n    \n"
-publishedDateTime: 2021-06-03T20:59:25Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/igDpRpHW16A/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/igDpRpHW16A/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/progressive-reaction-biden-vaccines/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/progressive-reaction-biden-vaccines/index.html"
+title: "President Biden meets with allies on G-7 Summit day two"
+excerpt: "President Joe Biden met with French President Emmanuel Macron and will also visit the queen at Windsor Castle on Sunday. This comes ahead of next week’s high-stakes summit with Russian President Vladimir Putin."
+publishedDateTime: 2021-06-12T22:38:00Z
+originalUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533"
+webUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114717253533"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114717253533"
 type: article
-quality: 173
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330130504-01-rep-pramila-jayapal-0301-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623537320007_nn_pal_president_biden_g7_day_two_210612_1920x1080.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -172,6 +173,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Progressives push Biden to do more to distribute vaccines across the world"
+    excerpt: "A group of more than 30 Democratic members of the House of Representatives have signed onto a letter to the White House encouraging the Biden administration to do even more to help distribute vaccines across the world.\n    \n"
+    publishedDateTime: 2021-06-03T20:59:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/igDpRpHW16A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/03/politics/progressive-reaction-biden-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/progressive-reaction-biden-vaccines/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330130504-01-rep-pramila-jayapal-0301-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -415,22 +432,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "President Biden meets with allies on G-7 Summit day two"
-    excerpt: "President Joe Biden met with French President Emmanuel Macron and will also visit the queen at Windsor Castle on Sunday. This comes ahead of next week’s high-stakes summit with Russian President Vladimir Putin."
-    publishedDateTime: 2021-06-12T22:38:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114717253533"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114717253533"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623537320007_nn_pal_president_biden_g7_day_two_210612_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Trump scraps short-lived blog that was created in wake of social media ban"
     excerpt: "The former president, who is set to address the North Carolina Republican Party Saturday, wasn't getting much traction with his new outlet."
     publishedDateTime: 2021-06-02T15:59:00Z
@@ -490,6 +491,6 @@ related:
         height: 629
         isCached: true
 
-secured: "uuUm482JBuMk+8A9hOklHc0eS7o43rd4UpOKBNgR0kody2DmWpU2+5f+EwWXALpMPJMjOtgpv0M8pJ1CooeIcpj86yw62bsyXtrnA3T1jFzhfGi5Wllxp/E/GrxKZUfqGeghmsRQUmyxAW55bFts2OOl0pzt9hOltr6t0ZZio9AMyHhs7bOP3KJJU3M2WgZblNsDJqEDTF9bBz746HBFHrCu6uKLxmKEXHbt+HRgqI74uo/KjLvduS+UwjCnriZcsV5JDYNfhWZYXklzHojrqmZtwvsRCpFXF6kQ0DsTQ4iTNxdYgEEZ1ucMOIkUA8cCCZjLkUYgM/pORuhM10E+OHvDbjoMy27/ypUyIrgn1Hg=;qIV1HUY5wEREiY8oUQTg/w=="
+secured: "I9Idgd/SuBNYzsl/Yp/dcmXo2fO2ZN1aqaY09oq8PRw79ziIOC8YlPE/G33ePMwh5lmCBaBJojU1qnQ6ol4+1oe2HbT1YpkDwgjpljorb1GjA1Z5Ha9+XejOtKOjk6QJlM165CDtimdd5BUb+Bc0LnO5gZaZM2LFq+dof6bWd2chiHVzDhhfv9o3olLGR3iJ6i3aUTuiIfEWPbJ6K0Q79JckYu34+TmRJCFVkfPlwPARNw/kMjKke2p6Rnwu3+Kb7V3m8AqLYDRl6381xTWfVOZnaQXK5wh89J/gYvyulwFBea52N9RIStQUnLQbYBpb5Z97uxrzm7poXvbRe3l6ziZtw6lUtbazeaz3e7/sZdM=;hsngbiu1b/QYEbGjE+ZjAQ=="
 ---
 

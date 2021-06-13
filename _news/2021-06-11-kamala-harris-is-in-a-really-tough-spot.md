@@ -674,6 +674,22 @@ related:
         width: 1032
         height: 774
         isCached: true
+  - title: "Meghan McCain: VP Kamala Harris \"Sounded Like A Moron\" Talking About The Border"
+    excerpt: "The View' co-host Meghan McCain criticized Vice President Kamala Harris for sounding \"like a moron\" when she talked about the border in an interview with NBC 'Nightly News' host Lester Holt. \"Vice President Harris was in Guatemala this week telling people seeking asylum in the U."
+    publishedDateTime: 2021-06-12T23:40:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 81
+    images:
+      - url: "https://assets.realclear.com/images/54/545573.jpg"
+        width: 868
+        height: 650
+        isCached: true
   - title: "Biden: I Am Tasking VP Kamala Harris With Voting Rights, \"Among Her Many Other Responsibilities\""
     excerpt: "President Joe Biden said on Tuesday \"we're going to overcome again\" when he announced he will be tasking Vice President Kamala Harris with issues tied to voting rights. \"To signify the importance of our efforts,"
     publishedDateTime: 2021-06-01T00:00:00Z
@@ -707,6 +723,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "1prah2Dif7Ci+buu5j+QMpIPWjDePk4n49+NYjqxEqA8ISanY3NDsQ7cLxAv6WZfadGxOpLNWk8JpKAk0LcFcaKCLiTOLp45yhpbsIz3uLbApqGmtWMHSm6B5nXZApyooFIeJRbK8ByNn3UwaVJIPkVE3KUKZ8aJHlYdeg/PdSB7wylJRJgXIdWyBA/LetOI5eNXETO6fYhkHFQqX1H2kMnrM9uhQIQzUKkg3G8sFgqkgk8rk3oW4WvN77Neh+9biVyzp//S6lDCvV9V8tcuwiVbhaoUpmHOu24N+CqWf+AF6GwaEMO30m/D2CEKNlYdWUywg7DZtdS0Uts0qZc/TwbV7M1YkCjf2xrirowSJdM=;kvesTNM6CagQqS4azu/rqQ=="
+secured: "nf87JbZw2HcXMereRXHXYH7ps1W0vVSb0tikS44JNZXvzzo/4iC/bYb86vLgmmi+6RA9wx3BnA0LsS+hVXzLleaUdTyrT+XWa9PqvwlFz01tjfwdPVJOkRVdSYbOkmU1vIDh8wGVKbgxdQ2xnkSoVug+dI4nA0COjk6yn/NkqH4YPZFwpcqiBblKYXoOOE41gZYo80xjQK1Cl4yawRFa0UvNWsIRA2IY/QfQAbEMKYS38Z4QI2du0Tsn3zwCsM9gRYuecVkRhAd3ePUHL4vDVGxIXkcgdwTFPn5mAKUVpiFGJVqrPC9RQPIUPZ1is1/NRjD/0q8KLJlZ09GEp515LWn8GDMwyQMaNwp8pZNQVGZXjb8bGWJOqC2YoKvqP0nvUoIyBsx3453Bfps4IiQTxPtP8BzfnMppT2nP0aMXeJX7vGXAr6ZxcsgTjMK2hyiJb//gQPVs2qHhffoZjI4sSubzE+B3Gb4csb9IGxF7I60yBfDDkZxeddt7u1ySYVRQGTlTW0uji71vEWnmLTb9Uw==;6csFn1Kdpx1kNVnOun9pqQ=="
 ---
 

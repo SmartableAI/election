@@ -586,6 +586,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Kamala Harris takes part in D.C.'s LGBTQ Pride rally"
+    excerpt: "After the coronavirus pandemic left most Pride parades and events canceled in 2020, Vice President Kamala Harris joined the CapitalPride Walk and Rally in Washington, D.C. on Saturday."
+    publishedDateTime: 2021-06-12T22:20:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/12/kamala-harris-lgbtq-pride-rally-washington/7401623534397/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/12/kamala-harris-lgbtq-pride-rally-washington/7401623534397/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/12/kamala-harris-lgbtq-pride-rally-washington/7401623534397/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7401623534397/2021/1/bbd3b3ab8fb83497c085da513754b8d4/v1.5/VP-Kamala-Harris-takes-part-in-DCs-LGBTQ-Pride-rally.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "On 1st trip, Kamala Harris says Guatemalans need 'hope' to deter migration"
     excerpt: "Central Americans must believe that \"help is on the way\" if illegal migration to the United States is to be curbed, Vice President Kamala Harris said Monday in Guatemala during her first official foreign visit."
     publishedDateTime: 2021-06-07T19:32:00Z
@@ -994,6 +1010,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "lxyd5pP+0wxgoQicM6IqaJ4FTbpTA1CyU5OBFp3njNKehAKnbjN+b8UTB5PT2kNUO+LO0l/TrGdjVzh+UhYlanoaANZfto+1sQZK3uqR64NuO5LYH3BcGdr25d8k7fLpkQzZEbG5jUS5TTe0QC/BjBBwqDzferCoveM4K+75IiQ7eg9MCcSQieNwj6/rWuRwHEpvGfQD8ztqV6u4sQpPOgmpspXVr//3hElYRvMQg66NuREwVDhIRKeX5u5jsV/yB2g1GRVnPnnflFE1FE9IrWfbCMoLGlt3rPtnzpCE+BAHN39tYZxavll2rnrNK85ZyuwE+WRWTY7ZEEXZq905pU7YeUwWdeZpvQeY1Fpi83o=;b4AtXwxwQ8VFQomEuT7OOA=="
+secured: "xOBaWmXr0x9hbKj1Ojo5MwtH5BZ8zz2rjbmO4VZJy6cNM8Wf+FU8Jr92aFgxLxwA/tpUKpuYSQ8amXGqNCXr4iSDT/PPxjWTP0oyESZJ2K7eGfi1qaPZw9T6DixlpmH+KGkH3yh0Qed+nEqBEarSoNir+iVmCmTzYUBkDG5M/aKRuMRfB9Zm1ubODLGPvPrEze00yN+yahz0d4aeDEJPGk6Swofw5mJ7ospvWADiJPPCg++jF/imtxRo8W+FlgAFBr2JAliZgCntC5ifd3dvch7HKqOs+ThwcAuO71grDEi1R2ej9fw+VuszwW+4gm6x93ZB/vR36Bypq0pfVLjm6uIWCKVCaLN2SJcrFHbtllz38ZqTVeFGyqX1n3YGvLluVireJ24f/5YX/9y+A3/dJCThP2syok2THnduV+DeJMA0otJAPbXpFxBXuyG1k6ZHX86WHAZWSWoXwOciZB0NIPjBxzLz2ZPEiWDQ6YgFKCiPRhmi+kuMthTeNgNPtIz06ncvl5J+GFuNN/+lwLhR3w==;ZeIRAVW3fFqgDJ700U2GXw=="
 ---
 

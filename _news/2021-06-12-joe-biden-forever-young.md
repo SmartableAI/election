@@ -430,6 +430,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "President Biden meets with allies on G-7 Summit day two"
+    excerpt: "President Joe Biden met with French President Emmanuel Macron and will also visit the queen at Windsor Castle on Sunday. This comes ahead of next week’s high-stakes summit with Russian President Vladimir Putin."
+    publishedDateTime: 2021-06-12T22:38:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114717253533"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114717253533"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623537320007_nn_pal_president_biden_g7_day_two_210612_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump scraps short-lived blog that was created in wake of social media ban"
     excerpt: "The former president, who is set to address the North Carolina Republican Party Saturday, wasn't getting much traction with his new outlet."
     publishedDateTime: 2021-06-02T15:59:00Z
