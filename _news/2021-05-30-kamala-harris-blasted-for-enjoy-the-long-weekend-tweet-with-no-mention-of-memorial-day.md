@@ -663,7 +663,7 @@ related:
   - title: "Meghan McCain: VP Kamala Harris \"Sounded Like A Moron\" Talking About The Border"
     excerpt: "The View' co-host Meghan McCain criticized Vice President Kamala Harris for sounding \"like a moron\" when she talked about the border in an interview with NBC 'Nightly News' host Lester Holt. \"Vice President Harris was in Guatemala this week telling people seeking asylum in the U."
     publishedDateTime: 2021-06-12T23:40:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html#!"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
     type: article

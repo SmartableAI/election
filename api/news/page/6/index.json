@@ -2,6 +2,63 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-04-flashback-ted-koppel-predicted-cnn-ratings-would-be-in-the-toilet-without-donald-trump.md",
+      "title": "FLASHBACK: Ted Koppel predicted CNN ratings 'would be in the toilet without Donald Trump'",
+      "excerpt": "Veteran journalist Ted Koppel said “CNN's ratings would be in the toilet without Donald Trump” in a 2018 interview, words that appear prescient as the liberal network's numbers continue to fall without its nemesis in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump",
+      "originalUrl": "https://www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18c8a7d9-22e9-4c2b-8acd-d0628fefb0ab/e659bf02-7679-45ea-8c23-d27c2bd8c917/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/flashback-ted-koppel-predicted-cnn-ratings-toilet-without-donald-trump.amp",
+      "publishedDateTime": "2021-06-03T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-biden-provides-details-on-plan-to-share-80m-covid-vaccine-doses-live.md",
       "title": "Biden provides details on plan to share 80m Covid vaccine doses – live",
       "excerpt": "President offers details, explaining how the first 25m doses will be disbursed, and says ‘We are sharing these vaccines to save lives’ – follow the latest",
@@ -1290,63 +1347,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-live-updates-biden-will-meet-with-republicans-top-infrastructure-negotiator.md",
-      "title": "Live Updates: Biden Will Meet With Republicans’ Top Infrastructure Negotiator",
-      "excerpt": "Democrats are ready to move on President Biden’s $2 trillion infrastructure plan unless there is a major breakthrough this week. The two sides are over $1 trillion apart in how much they want to spend,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/06/02/us/biden-news-today",
-      "originalUrl": "https://www.nytimes.com/live/2021/06/02/us/biden-news-today",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/02/us/02new-washington-briefing-promo3/02new-washington-briefing-promo3-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html",
-      "publishedDateTime": "2021-06-02T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

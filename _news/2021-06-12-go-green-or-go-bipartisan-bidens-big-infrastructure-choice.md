@@ -2,21 +2,21 @@
 category: news
 title: "Go green or go bipartisan? Biden's big infrastructure choice"
 excerpt: "President Joe Biden’s hope of pouring billions of dollars into green infrastructure investments is running into the political obstacle of winning over Republican votes"
-publishedDateTime: 2021-06-12T03:26:00Z
-originalUrl: "https://www.washingtonpost.com/politics/go-green-or-go-bipartisan-bidens-big-infrastructure-choice/2021/06/12/61bcb72c-cb36-11eb-8708-64991f2acf28_story.html"
-webUrl: "https://www.washingtonpost.com/politics/go-green-or-go-bipartisan-bidens-big-infrastructure-choice/2021/06/12/61bcb72c-cb36-11eb-8708-64991f2acf28_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/go-green-or-go-bipartisan-bidens-big-infrastructure-choice/2021/06/12/61bcb72c-cb36-11eb-8708-64991f2acf28_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/go-green-or-go-bipartisan-bidens-big-infrastructure-choice/2021/06/12/61bcb72c-cb36-11eb-8708-64991f2acf28_story.html?outputType=amp"
+publishedDateTime: 2021-06-12T04:26:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
+webUrl: "https://abcnews.go.com/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/green-bipartisan-bidens-big-infrastructure-choice-78235116"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZWT6M4WLGII6XBYIMSMR6KWPFA.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_3d5e1572288b4910be34676fc841b5b8_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -97,19 +97,19 @@ related:
         isCached: true
   - title: "Jill Biden tells English surf therapy group about her board"
     excerpt: "U.S. first lady Jill Biden told members of a British group that uses surfing as therapy that she once owned a surfboard"
-    publishedDateTime: 2021-06-12T19:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
+    publishedDateTime: 2021-06-12T17:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/jill-biden-tells-english-surf-therapy-group-about-her-board/2021/06/12/95e83cd8-cba9-11eb-8708-64991f2acf28_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-tells-english-surf-therapy-group-about-her-board/2021/06/12/95e83cd8-cba9-11eb-8708-64991f2acf28_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-tells-english-surf-therapy-group-about-her-board/2021/06/12/95e83cd8-cba9-11eb-8708-64991f2acf28_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b17758efa8044382aabc7f7d67531f65_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PM3KP5WLRUI6XBYIMSMR6KWPFA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "All the Queen’s presidents: Biden will be 13th US leader to meet monarch"
     excerpt: "Biden previously met the Queen in 1982 while she has met every US president since Eisenhower except Lyndon B Johnson"
@@ -279,6 +279,6 @@ related:
       domain: indystar.com
     quality: 32
 
-secured: "xAPST+lYTDKn0DICibhn9YU7z7k+IW0Pt7N9+8waW73LEeYpo/AZD7bb/4Mvc5ZQzcQo+NNyz0ppgXOLxy3Z5JM+MoCO5hLKDm2lXvcB3AvehIinkdyK79xJQToTjoDhtHJPSfVvg33aghWCDBgNEJTZ/iJAkdPV2gY3936SnIqHaNQMMkTkY7krfU5oFzBdb3xwVEadaPQdigtkq9SvR3/3hOgL0UzHdGyRHnHe7Xwv1GOfkQ24ebPzmDw7j6sqBIPwvPIFSY2xPyiP9d6ipvkQ/63gzjOLLtfJ+62OgqaxsXT5rssZ7q1e5qOOg2EFnRUFVd1wYv9fIn+8WbW7UVsZQKewEBLlrLbUoAaw/ZlFYcYktxK43EYpdYmBRZu9ormqD2OZIwSy5xDqoLOsm3mpWFA8sCFwThV2V6iVpl52sTJheBZvP38WcGSmUYbKcdpIenEAz0bHCIY61ZMkj6XidA2moaT4muH0rwvK6+/XZW0behFAz2up9bRnfFflre8ntVgXFu1Oyz8kDUbUvQ==;gf3S9yYaforXwSsfZ/03kw=="
+secured: "FRBsnOWFsU1GMizUvjcuFwuwnwTT73R3y42i74VyldGiI8wdMvm/VF8AcpJutjQd7p5IbFZeVMYGhN0xVFtownjXeJuFIV/ff4isuKJ5tBE/IDbEv26jRhLWDI12hhJPJiEVDSt8zjhvCbLLdNMKJqWVUpK+mgQEW/7Egv89/nvcQDTm/JBIXvm6Hr1KyDHczAuOliNzXMmXxBqHKFqj/RVMTq2E28TRZm3rHorASDCQstKzfQ0pC/MWU05DVhEpnqJthlD1vPdGAnhJOUm6eWLHfcqdAvwXEEWCseF3tOWZIk7hwxxNAtPUYO46pJnHiRwqJQD97LK9qgEbNWwesJSbjXKhlD+GzSQ/sz7ObNk=;XJO8NVOfz8u4c4a/6hp9aA=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Meghan McCain: VP Kamala Harris \"Sounded Like A Moron\" Talking About The Border"
 excerpt: "The View' co-host Meghan McCain criticized Vice President Kamala Harris for sounding \"like a moron\" when she talked about the border in an interview with NBC 'Nightly News' host Lester Holt. \"Vice President Harris was in Guatemala this week telling people seeking asylum in the U."
 publishedDateTime: 2021-06-12T23:40:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
 type: article
@@ -723,6 +723,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "l7ruClTY6bBwUK3n/vsLFQLUwomiNnjslRK2nqDocxmpD2l+FVXL0ezmdrAslkXRFDI3C0Gare4o529D8MmtjypWVd7ndP3iK12VMFI2+AMQorAhqjIbjXfTgjdlYr38Ig2MM+FbTHGCi1cW1+VK3lyAptljetvXl4Ik7C/VsAHgINhCEWk2yJmL9Pgbq3EDYL0cHxcokPv+qEhGhnO9Scp3SsyNWaVbknF3qUe+MT8cP+K61hjHFbet46YaaqYiZ9LipeIK77vz0mqeUFyZsijwSBRO4MKWHBdnnACyEWg6XxTRhTTkw4OcCZobmS8WaxgNF71Yjl41G8QjmKqiIVc8IVICRm+/gEzTKq3TbwOWhR6sGKmB8GDYSYcpmTBFKy3jA5eKydphTM1LXTd7O1lknv/04g07Il94+GobpnxNr1AtCbf6DTPOZguXnfIsbVxF8o2JqPxUh5tpfvLJ4szbkn7Ev96CqDhc7dxSUxeejjl5dpbr1Fu21aQ7akgJLs/q8NN3NDK0fUAUTITYMA==;lYvL0o7qcDPLbYWvIfQ2oQ=="
+secured: "FxnNUoiavJJYSaT7sV/mWO1d8KjIfwZW2Iq8YmUYldQ7R8fd5/PFE4uUByCn+tu/2h4m1H/wHVpmc/A+uirGqUUjPxuIvIFA8n7DpjaYsLxkq/0Y4oEyd17RauGiPPZ1+Wq1nGrKaDHq8M5DkOap2Q7LxpAENDAFKAbgxDLrU/SnpI9hEV7M6W1JyJnHYIWn+BL/iNSRsJ1QKCmz2T3iSep2Ujhn7ZcY6vdHeb0vPTq1lXbW4oYaF2Pb8XSH/vnmGYPIdh3OCj2aHOHfNsOLJHESJktd2MOrtXdNlGWxSSE2LygAR/wEOp3xvcc2tVk2SGay+sUw38cZnR/3ShH3kucmxFi9Kvo1w68l2jC4JFw=;1HKXtLlM8hWqpIOAQT0weg=="
 ---
 
