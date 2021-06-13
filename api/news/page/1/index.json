@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-13-mike-pence-wife-buy-suburban-indianapolis-home-for-193m.md",
+      "title": "Mike Pence, Wife Buy Suburban Indianapolis Home for $1.93M",
+      "excerpt": "Former Vice President Mike Pence and his wife have purchased a $1.93 million suburban Indianapolis house that sits on a 5-acre spread and features seven bedrooms, a swimming pool and an indoor basketball court.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/",
+      "originalUrl": "https://www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/media.nbcnewyork.com/2020/08/GettyImages-1169849230.jpg?crop=0px%2C44px%2C4991px%2C2807px&quality=85&resize=1200%2C675&strip=all&ssl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/?amp",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/?amp",
+      "publishedDateTime": "2021-06-12T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-lara-trump-urges-americans-living-at-southern-border-to-arm-up-get-guns.md",
       "title": "Lara Trump Urges Americans Living at Southern Border to 'Arm Up, Get Guns'",
       "excerpt": "Lara Trump, former President Donald Trump's daughter-in-law, on Saturday night urged Americans living at the southern border to \"arm up\" and \"get guns\" as she railed against President Joe Biden's immigration policies.",
@@ -174,7 +217,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 292,
+      "heat": 312,
       "tags": null,
       "images": [
         {
@@ -1275,62 +1318,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-live-updates-g-7-summit-2021-kicks-of-friday-as-biden-meets-with-world-leaders.md",
-      "title": "LIVE UPDATES: G-7 summit 2021 kicks of Friday as Biden meets with world leaders",
-      "excerpt": "The 47th G-7 summit is set to commence today in the United Kingdom.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cce6d6c1-0fe1-4f5f-8731-c7540b6bfd85/010d2956-348b-4e65-93fa-f4150af72ea5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
-      "publishedDateTime": "2021-06-11T01:42:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

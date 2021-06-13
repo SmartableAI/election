@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-u
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/b2e2f51ac3a62db0601d6873d3cb877c1a15c4a3/0_130_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8275ecf65705cb5f80366212805bfc06"
         width: 600
         height: 360
+        isCached: true
+  - title: "Ron Johnson called Joe Biden 'a liberal, progressive, socialist, Marxist.' Can someone be all those things?"
+    excerpt: "Republican U.S. Sen. Ron Johnson heaped a lot of political ideology on President Joe Biden during a Thursday night interview with Sean Hannity of Fox News."
+    publishedDateTime: 2021-06-12T14:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/11/ron-johnson-joe-biden-a-liberal-progressive-socialist-marxist/7655294002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7655294002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7655294002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/11/PMJS/643dd0f8-5561-4d34-809e-7ef2e0f676f9-Ron.Johnson.Joe.Biden.jpg?auto=webp&crop=659,371,x0,y26&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Biden not looking to lecture Johnson on N.Ireland, official says"
     excerpt: "U.S. President Joe Biden has not come to Britain to lecture Prime Minister Boris Johnson about Northern Ireland and is not looking to be confrontational or adversarial, a senior U.S. administration official said on Thursday."

@@ -78,13 +78,13 @@ related:
   - title: "Joe Biden to hold solo news conference after meeting with Vladimir Putin in Geneva"
     excerpt: "White House says solo press event is 'appropriate format\" to communicate with media about topics raised during Joe Biden, Vladimir Putin meeting."
     publishedDateTime: 2021-06-12T13:36:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/7666869002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7666869002"
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7666869002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7666869002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/10/USAT/1f0ecd28-c37c-4a73-8247-004c960ffbf0-AFP_AFP_9BK7FL.jpg?auto=webp&crop=3999,2250,x0,y370&format=pjpg&width=1200"

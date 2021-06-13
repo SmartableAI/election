@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Joe Biden, Boris Johnson to solidify alliance with renewed Atlantic Charter"
-excerpt: "President Joe Biden will spend the opening leg of his first overseas trip as president meeting with British Prime Minister Boris Johnson Thursday on a host of issues, along with signing the Atlantic Charter."
-publishedDateTime: 2021-06-10T13:55:00Z
-originalUrl: "https://www.upi.com/Top_News/World-News/2021/06/10/Joe-Biden-Boris-Johnson-Atlantic-Charter/6561623330424/"
-webUrl: "https://www.upi.com/Top_News/World-News/2021/06/10/Joe-Biden-Boris-Johnson-Atlantic-Charter/6561623330424/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/06/10/Joe-Biden-Boris-Johnson-Atlantic-Charter/6561623330424/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/06/10/Joe-Biden-Boris-Johnson-Atlantic-Charter/6561623330424/"
+title: "Ron Johnson called Joe Biden 'a liberal, progressive, socialist, Marxist.' Can someone be all those things?"
+excerpt: "Republican U.S. Sen. Ron Johnson heaped a lot of political ideology on President Joe Biden during a Thursday night interview with Sean Hannity of Fox News."
+publishedDateTime: 2021-06-12T14:12:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/06/11/ron-johnson-joe-biden-a-liberal-progressive-socialist-marxist/7655294002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/06/11/ron-johnson-joe-biden-a-liberal-progressive-socialist-marxist/7655294002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7655294002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7655294002"
 type: article
-quality: 73
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi_com/6561623330424/2021/1/20247bdb571662d5db68393fab9fd5bf/v1.5/Joe-Biden-Boris-Johnson-to-solidify-alliance-with-renewed-Atlantic-Charter.jpg"
-    width: 800
-    height: 535
+  - url: "https://www.gannett-cdn.com/presto/2021/06/11/PMJS/643dd0f8-5561-4d34-809e-7ef2e0f676f9-Ron.Johnson.Joe.Biden.jpg?auto=webp&crop=659,371,x0,y26&format=pjpg&width=1200"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -139,22 +143,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Ron Johnson called Joe Biden 'a liberal, progressive, socialist, Marxist.' Can someone be all those things?"
-    excerpt: "Republican U.S. Sen. Ron Johnson heaped a lot of political ideology on President Joe Biden during a Thursday night interview with Sean Hannity of Fox News."
-    publishedDateTime: 2021-06-12T14:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/11/ron-johnson-joe-biden-a-liberal-progressive-socialist-marxist/7655294002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7655294002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7655294002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/11/PMJS/643dd0f8-5561-4d34-809e-7ef2e0f676f9-Ron.Johnson.Joe.Biden.jpg?auto=webp&crop=659,371,x0,y26&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Biden not looking to lecture Johnson on N.Ireland, official says"
     excerpt: "U.S. President Joe Biden has not come to Britain to lecture Prime Minister Boris Johnson about Northern Ireland and is not looking to be confrontational or adversarial, a senior U.S. administration official said on Thursday."
     publishedDateTime: 2021-06-10T12:17:00Z
@@ -199,6 +187,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden, Boris Johnson to solidify alliance with renewed Atlantic Charter"
+    excerpt: "President Joe Biden will spend the opening leg of his first overseas trip as president meeting with British Prime Minister Boris Johnson Thursday on a host of issues, along with signing the Atlantic Charter."
+    publishedDateTime: 2021-06-10T13:55:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/06/10/Joe-Biden-Boris-Johnson-Atlantic-Charter/6561623330424/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/06/10/Joe-Biden-Boris-Johnson-Atlantic-Charter/6561623330424/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/06/10/Joe-Biden-Boris-Johnson-Atlantic-Charter/6561623330424/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/6561623330424/2021/1/20247bdb571662d5db68393fab9fd5bf/v1.5/Joe-Biden-Boris-Johnson-to-solidify-alliance-with-renewed-Atlantic-Charter.jpg"
+        width: 800
+        height: 535
+        isCached: true
   - title: "Boris Johnson 'won't disagree with Joe Biden on anything'"
     excerpt: "The UK Prime Minister has said he is \"not going to disagree with his US counterpart on anything\" ahead of the G7 summit in Cornwall. He was responding to the US President's joke that they both married \"way above their station\"."
     publishedDateTime: 2021-06-10T16:33:00Z
@@ -214,6 +218,6 @@ related:
         height: 576
         isCached: true
 
-secured: "HEX3CGUKPgRfkaJEh+8xeg9whS61CpbSO5CjKyvTyxsKEmanceYvIVjMfYPRwTh6luc1FTp9lV1+o/LYNxUWi4UR0OYda02OWBlpCK1K5v8kJ2B/i+7sIc40BkNoLau8QDCTn31FLYzGb9vh45UQDObgZZ+wE4+0hbduNNKSfYEIelzgpdpHYpkCxWXE9F/tyRb0R0l+cJrVWKlXwSobXbeYJ2MvUBBRKtUfDIlW3dzPsXXUFFzTlyixJLJYQI/+CnJHOalCOd/0NTJqmtUXfLF2+nGp1itifzvG8IQUPiBHh9kMQx3UO+YLc4vlOt2tVEtuUgkktnn+pY2GtWlQCJpCgmF4mtIWIP5cR/aOS6Stc1Um8Dt2k+dFmyqqyfCTopvv2xetvXTHQ6bQVHUZ3wybvS+iWPUmzBi/5U8/HDzC8j1T/CM6KadCnUegFsD/nN2BLcjpc6H8COdep0lMybWzGhZ5pK91eiUOhZUKDMYFDOJtFinPp5PjIjy9gSQNRnHqnDJol2i5RiCBXF9TnQ==;ErfalX2wDB9KK1R32kkXfA=="
+secured: "b+vXrouxUcbk8AQQ1H+6EPzk2t7jSjom5HghtU3z7s1WwZjvP5W7AU2FKs01shEhlYFeqgUWIGe0+LWwoV6+2b+7Ai5TKIshhmVsBs+FewLVRSR7mBHoizJ9vC6Wbzew+fSqnURu1uf1NKZ9W6ymBK7t40w8ydGLLZO7QjId1YOI2Z7G+oC35COu853l9V5a9KvwSmf0GVVN2hOBMJJuj4bY/2tjaMNWLSxfWjZZbCApesr8q+532IooIY00Sw1DnNMgAacHibtLzFus8KlaUUWmtFm8lUzRk2DEIP9e6oP6QO83XmeawTQYEFQ0Y8Z63Usd2Wjsqz7NqyxO97khYIaYKBEs/p2z3x3zZwF0/C8=;d4UCUSTGgTvjB806HY1utw=="
 ---
 

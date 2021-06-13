@@ -3,18 +3,18 @@ category: news
 title: "Joe Biden to hold solo news conference after meeting with Vladimir Putin in Geneva"
 excerpt: "White House says solo press event is 'appropriate format\" to communicate with media about topics raised during Joe Biden, Vladimir Putin meeting."
 publishedDateTime: 2021-06-12T13:36:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
-webUrl: "https://www.azcentral.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
-ampWebUrl: "https://amp.azcentral.com/amp/7666869002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7666869002"
+originalUrl: "https://www.indystar.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
+webUrl: "https://www.indystar.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
+ampWebUrl: "https://amp.indystar.com/amp/7666869002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7666869002"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -108,6 +108,6 @@ related:
         height: 707
         isCached: true
 
-secured: "2RSCcUsOyOCWNxZ1IbttbdLVtxNy3qw9y6P7HH2A3EuRZUhNfEeroPGdKJ87GztTNzO36MnGrBQuNt1Tf+scCQ7z/jku/zkCm53NqQgBP0a/NIhv3GqGOIJJiQwmExEitOlXPb2zNRrq+/6ZHET4i5AYpyDPsPT4iIxgI32PC3h2b3ImFRZ3fo9yZUeC9J/L3C6n5xmtEEXo+/utlfSLqUsac/4jOu1iJ+wD+7OEJGdR/HrRTCE0ryTw8YVyidljYSRAg1WKGbobBRzTGZ4Lsp/9uedDkFiKkAMhZuRJFHIBIFEJpLZzlHmAFkQn5YsTfklu9a4V+OAZkJqigZV4kLCSth6TSqIsFmJmYzNbR/d0C66Xn0qrGDixqxT9r9zPFyalayjAr5cZPWVJVhvnnR6bGRMWvXJsgrVYsxfJrW73Q58jMtF98eOqEy9UVN6+KFM7VXI2Irs4xONkuQmAo2P3OoLQHMnFuR3LPAXAOSntD4+fgw6ebpGMiIiiJlvnYKTvYw/mryboeWpDVzFT9A==;pHfUK0v9KpzFhmR8/ax7Pg=="
+secured: "C3VcxaFerjmnVusFZqJRk6UUzegmUeUA7S2SZ3KZvmix1bB9ue5JC6om8yHLYKRUotvOlyxpE0hnnYGl8lv2LGWjBl5ATGHBqRtcbSaPeYjyZ3XYH+MbO80SUNEqxweh11izTe19HTxCZIEk0dxzbez8XIbyGY5rcDiCYkmvD9UhBj2yDHOx99DiWmJQZVAMnCgnpNFgJQwk4n7FHDegytlAK3+G9+3H8iJbhL91QUgK5w/KM4E0kn21D3kLTODftlIwdLN8gWNftTjRzDiNP8P8QliPELsDJDaiKEaI79nRPkEPIP5TWp7FCTsH/Qiyn82m0BLNaHAx174tUeJWqkU+sZYOjBdN60NY5/XqhhA=;1ZSsfr266Ct+o+TPdvwV7g=="
 ---
 

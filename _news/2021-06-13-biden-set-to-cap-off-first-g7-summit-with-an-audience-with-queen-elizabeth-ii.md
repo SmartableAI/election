@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden's Justice Department says it will no longer seize reporters' records for leak investigations"
-excerpt: "The Justice Department on Saturday said it will no longer seize reporters' records in leak investigations, a notable policy shift on the heels of disclosures that federal prosecutors aggressively pursued communication data from reporters to identify their sources.\n    \n"
-publishedDateTime: 2021-06-05T17:20:12Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nlsd4PPROpo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nlsd4PPROpo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/justice-department-leak-investigations-reporters-new-york-times/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/justice-department-leak-investigations-reporters-new-york-times/index.html"
+title: "Biden set to cap off first G7 summit with an audience with Queen Elizabeth II"
+excerpt: "When Joe Biden was preparing for his first audience with Britain's Queen Elizabeth II as a young senator, his mother -- an Irish American born with the surname Finnegan -- had a piece of advice.\n    \n"
+publishedDateTime: 2021-06-13T04:00:34Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/981SoEcHBYw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/981SoEcHBYw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/13/politics/president-biden-g7-day-3/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/13/politics/president-biden-g7-day-3/index.html"
 type: article
-quality: 161
+quality: 172
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/190305093213-03-us-department-of-justice-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611151658-04-g7-biden-queen-elizabeth-0611-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -37,22 +37,6 @@ related:
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qO9smieXdGo/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611151658-04-g7-biden-queen-elizabeth-0611-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden set to cap off first G7 summit with an audience with Queen Elizabeth II"
-    excerpt: "When Joe Biden was preparing for his first audience with Britain's Queen Elizabeth II as a young senator, his mother -- an Irish American born with the surname Finnegan -- had a piece of advice.\n    \n"
-    publishedDateTime: 2021-06-13T04:00:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/981SoEcHBYw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/13/politics/president-biden-g7-day-3/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/13/politics/president-biden-g7-day-3/index.html"
     type: article
     provider:
       name: CNN
@@ -127,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's Justice Department says it will no longer seize reporters' records for leak investigations"
+    excerpt: "The Justice Department on Saturday said it will no longer seize reporters' records in leak investigations, a notable policy shift on the heels of disclosures that federal prosecutors aggressively pursued communication data from reporters to identify their sources.\n    \n"
+    publishedDateTime: 2021-06-05T17:20:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nlsd4PPROpo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/justice-department-leak-investigations-reporters-new-york-times/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/justice-department-leak-investigations-reporters-new-york-times/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190305093213-03-us-department-of-justice-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "A favored Biden timeline for politically-charged decisions: Later"
     excerpt: "The president seems to be reaching for a traditional executive branch stalling tactic at a higher rate than his predecessors."
     publishedDateTime: 2021-06-05T08:35:00Z
@@ -144,6 +144,6 @@ related:
         height: 1666
         isCached: true
 
-secured: "kD15uZmzhGSLeZyBTSIwGrWhQ98AQkEgl9gMQFBNsy0ocTZNrMVAgJXfJMMbO5K9shixBTTztxE5KQpEsCRmxuslVbLVuDppUWdzo+tV6tdIOKtBiGSxk2RH87WQH4iQxlduooku/crGBak8ytCo3KdKI7c2FyhF2v2KGl05RNAuK6IyFMVhzNiGVuf/IKAoOZ4A7KPO29PbR1qbchz32nOZBJy+5WdQcX6jWbfbZpKl1/vUF6aM7fKAx6bo/XYXhFN707mxtqW3EbQC3Hp+hEdI4SLWog6mb9T+878AkalGVTX9BgRxLzQJScUBaeCtlxAlQfrloKIJTgyZiLZRO8VB0hLeFpOO8s1CbAHc08g=;xCa2URVyO7MLN1Oa+Cwwlg=="
+secured: "iVUJOkI5NmcWBer8VRu/qTlCINZiDgsRH46o4NwkAL7z9RQqMouZ4UdmlJBhTFudiCUn1wIK3Q5P11X6XD1WjCGnbzHtBlckG269TcEt9uwmc8oSr9hDPoU+xcVVZFUOvAj61fmDcpLnL4S7fw7M07qA3iqDoEeCHCFxk3TWit0D7qRh9mGHVo0Lsa9iEjhPVmkvdLpx4Wx4oRUFjYsPue7f5I0VFK4eWMTPins4pUTVcGWYRRv5ZnlFUphmV48elJ4R24ibybvx1ue9B4vFCl3RcZon/Q1SUQ0jXmKRTyKVMzJaL3V3LInrB8hS6UuyYCdjdf2Y5iAtoPBM8uBBdLVMPAnZYOiJ8UcrAxmAmys=;JYD6EbGcuehtvfX0WZFc/g=="
 ---
 

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-11-live-updates-g-7-summit-2021-kicks-of-friday-as-biden-meets-with-world-leaders.md",
+      "title": "LIVE UPDATES: G-7 summit 2021 kicks of Friday as Biden meets with world leaders",
+      "excerpt": "The 47th G-7 summit is set to commence today in the United Kingdom.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cce6d6c1-0fe1-4f5f-8731-c7540b6bfd85/010d2956-348b-4e65-93fa-f4150af72ea5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
+      "publishedDateTime": "2021-06-11T01:42:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g-7-gets-underway.md",
       "title": "Jill Biden and Kate Middleton to meet in Cornwall as G-7 gets underway",
       "excerpt": "First lady Jill Biden will meet with the Duchess of Cambridge for the first time on Friday during her husband’s first trip abroad as president.",
@@ -320,49 +376,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-former-vice-president-mike-pence-buys-193-million-mansion-in-home-state-of-indiana.md",
-      "title": "Former Vice President Mike Pence buys $1.93 million mansion in home state of Indiana",
-      "excerpt": "Former Vice President Mike Pence and his wife, Karen, purchased a 10,349-square-foot home for $1.93 million on the outskirts of Carmel, Indiana, at the end of May, according to property records.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana",
-      "originalUrl": "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d11a1cfc-5e80-48f5-960f-832aea059b86/0babdbe8-b819-4b21-9ee0-845034cf9b53/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana.amp",
-      "publishedDateTime": "2021-06-10T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {

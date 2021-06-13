@@ -23,6 +23,22 @@ topics:
   - Mike Pence
 
 related:
+  - title: "Mike Pence, Wife Buy Suburban Indianapolis Home for $1.93M"
+    excerpt: "Former Vice President Mike Pence and his wife have purchased a $1.93 million suburban Indianapolis house that sits on a 5-acre spread and features seven bedrooms, a swimming pool and an indoor basketball court."
+    publishedDateTime: 2021-06-13T05:30:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/media.nbcnewyork.com/2020/08/GettyImages-1169849230.jpg?crop=0px%2C44px%2C4991px%2C2807px&quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Former Vice President Mike Pence buys $1.93 million mansion in home state of Indiana"
     excerpt: "Former Vice President Mike Pence and his wife, Karen, purchased a 10,349-square-foot home for $1.93 million on the outskirts of Carmel, Indiana, at the end of May, according to property records."
     publishedDateTime: 2021-06-10T22:16:00Z
