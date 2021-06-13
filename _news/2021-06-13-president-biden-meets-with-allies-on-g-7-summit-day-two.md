@@ -2,9 +2,9 @@
 category: news
 title: "President Biden meets with allies on G-7 Summit day two"
 excerpt: "President Joe Biden met with French President Emmanuel Macron and will also visit the queen at Windsor Castle on Sunday. This comes ahead of next week’s high-stakes summit with Russian President Vladimir Putin."
-publishedDateTime: 2021-06-12T22:38:00Z
-originalUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533"
-webUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533"
+publishedDateTime: 2021-06-12T22:40:00Z
+originalUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533?playlist=mmlsnnd_bestofnbc-nnd"
+webUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533?playlist=mmlsnnd_bestofnbc-nnd"
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114717253533"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114717253533"
 type: article
@@ -491,6 +491,6 @@ related:
         height: 629
         isCached: true
 
-secured: "dwhXicWDi13c62QE6Ppij8pMrAd2ju29Y1vfaqxjOcEoAIHMow2OWD2emj4splHBF/nAx6lnLiFTOPwli+wvldpi+ahTiXhxLx+BZY+OLkXLfSgRWP0qH1tIZtLgRthTAM7BquGnZFsmpmxQMJcyaWGFQP79eCeuYtNiWk++wIuu8337rT0B9BWmy3j9HXnNIslyG142ry2pEJVibchXva/+V5c0u4UQVFKdZfHPPX/ttOq63j/tKfi0zLxE1bp263Vr9WrhgXJArWm/Dc1BITq1yxCynDdBXHhjOpbHlzcHEAcvRQxF/49BaK3lWO//n+bIBeCxPkSeOju6EtXJ9CzSVa0gEi2ommQdZr6tjUwWKD36XMxSdpdh+7WtTQhC6ySxHz1mi+6nu1bT4A3ze0w5Fli3yZjEAZfXvrWpSocmHVogXR+gFw7rf4rHn2HjD9P4WbUbdEQuztUz5zqZAkrjrFMz/6p5Y8Ccy0MlhYPCxO6d4fgNEghpmrdirhJKgR2N4BIgVbdST1h7uXOCPQ==;fzJIY3oKFsiw02the+nxrQ=="
+secured: "NJTMHt5ci0af7g7aDvzy7HB+B5R4imKfKJRl5tjtsjTrX0gu3gLKVXbOK3SjP7Kq8AgTGZkxaKYbrMKmy+xFkqkyFsRiHS8StIs4vlrCZJ31EJLcqH3c5DMZCslIZz5Qlf6C+AqimafOYUdQx3YcvNmiW5c0lo+E7WwW/BdT0huy2mufjcDXXANqJnBJ8ps/qtpr730H1SuaAocINPvOzCjVlHrtrwab0GNN8D9vzcc2Uib4b611yxvKXk4IvvLf06ZxR/ljN4HIzU2xAMGB89B2dF3zaD0doUnbGjUk2LRgy+xXJWS/jCClFmk9QPiL6gEl0VIuenoEuKlpTqo1g4wiQH+YUorYyXNYik0sp8g=;TUO1tp+Dp/oBvy79PLZT6Q=="
 ---
 

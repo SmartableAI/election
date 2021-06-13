@@ -181,6 +181,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Donald Trump turning 75, continues teasing another White House run"
+    excerpt: "Speculation continues to mount that Donald Trump, who turns 75 on Monday, will become the first American president to be impeached twice to seek another term in the Oval Office."
+    publishedDateTime: 2021-06-13T11:54:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/donald-trump-turning-75-continues-teasing-another-white-house-run/64ONYP4UENGQZDCBHUPBJGXG3U/"
+    ampWebUrl: "https://www.ajc.com/news/nation-world/donald-trump-turning-75-continues-teasing-another-white-house-run/64ONYP4UENGQZDCBHUPBJGXG3U/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/donald-trump-turning-75-continues-teasing-another-white-house-run/64ONYP4UENGQZDCBHUPBJGXG3U/?outputType=amp"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 75
+    images:
+      - url: "https://www.ajc.com/resizer/lSRK0NVyoRN_DTerMOJ_zqFmMH8=/1200x630/d1fegwn2wjh0cs.cloudfront.net/06-04-2021/t_5282c52c25194705b541b8b9f6dca580_name_e5d64bbda3c04c3e9781992de9243a3f.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "After 2-Year Battle, House Panel to Interview Trump Counsel"
     excerpt: "The House Judiciary Committee is poised to question former White House counsel Don McGahn behind closed doors on Friday, two years after House Democrats originally sought his testimony as part of investigations into former President Donald Trump."
     publishedDateTime: 2021-06-04T13:47:00Z

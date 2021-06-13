@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-11-how-mike-pences-new-carmel-home-compares-to-the-last-one-he-owned.md",
+      "title": "How Mike Pence's new Carmel home compares to the last one he owned",
+      "excerpt": "Former Vice President Mike Pence and his wife Karen have improved their position in life since they last owned a home in Indiana in 2013. The Pences bought a modest home in Columbus in 2001 for about $116,",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/",
+      "originalUrl": "https://www.indystar.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9de87950-7812-481d-bbbd-87bec24d0513-01202021_Pence_GH_030.jpg?auto=webp&crop=2804,1578,x0,y334&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.indystar.com/amp/7633750002",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7633750002",
+      "publishedDateTime": "2021-06-11T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-live-updates-g-7-summit-2021-kicks-of-friday-as-biden-meets-with-world-leaders.md",
       "title": "LIVE UPDATES: G-7 summit 2021 kicks of Friday as Biden meets with world leaders",
       "excerpt": "The 47th G-7 summit is set to commence today in the United Kingdom.",
@@ -1281,62 +1324,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-says-us-not-seeking-conflict-with-russia-as-putin-meeting-looms.md",
-      "title": "Biden says US 'not seeking conflict' with Russia as Putin meeting looms",
-      "excerpt": "President Biden said Wednesday he will reiterate to Russian President Vladimir Putin at an upcoming summit that there will be “consequences” if Russia takes harmful action toward democratic governments.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjwF5yJdRfo/biden-putin-meeting-us-not-seeking-conflict-russia",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjwF5yJdRfo/biden-putin-meeting-us-not-seeking-conflict-russia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp",
-      "publishedDateTime": "2021-06-09T16:15:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }
