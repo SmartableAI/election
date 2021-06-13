@@ -432,8 +432,8 @@ related:
         isCached: true
   - title: "President Biden meets with allies on G-7 Summit day two"
     excerpt: "President Joe Biden met with French President Emmanuel Macron and will also visit the queen at Windsor Castle on Sunday. This comes ahead of next week’s high-stakes summit with Russian President Vladimir Putin."
-    publishedDateTime: 2021-06-12T22:40:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533?playlist=mmlsnnd_bestofnbc-nnd"
+    publishedDateTime: 2021-06-12T22:38:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533"
     ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114717253533"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114717253533"
     type: article

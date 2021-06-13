@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-05-trump-speech-in-nc-east-coast-heat-wave-belmont-stakes-5-things-to-know-this-weekend.md",
+      "title": "Trump speech in NC, East Coast heat wave, Belmont Stakes: 5 things to know this weekend",
+      "excerpt": "Former President Donald Trump will return to the political stage, a heat wave is expected to scorch the East Coast and more news to start your weekend",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2021/06/05/trump-speech-east-coast-heat-wave-5-things-know-weekend/7538122002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2021/06/05/trump-speech-east-coast-heat-wave-5-things-know-weekend/7538122002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/01/USAT/635dfef8-08df-4434-a40c-ee6aea5166ce-AP_Trump_Conservatives.jpg?auto=webp&crop=3788,2131,x1,y95&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7538122002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7538122002",
+      "publishedDateTime": "2021-06-05T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-ted-lieu-doesnt-understand-why-mike-pence-is-even-talking-to-donald-trump-after-capitol-riot.md",
       "title": "Ted Lieu Doesn't 'Understand Why Mike Pence Is Even Talking' To Donald Trump After Capitol Riot",
       "excerpt": "\"Mike Pence didn't have the courage to do what should have been done to protect our Country and our Constitution,\" Trump tweeted as Capitol rioters chanted \"Hang Mike Pence.\"",
@@ -1520,54 +1572,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-men-booted-from-yankee-stadium-after-displaying-trump-won-banner.md",
-      "title": "Men booted from Yankee Stadium after displaying ‘Trump Won’ banner",
-      "excerpt": "Two men who brought a ‘Trump Won Save America’ banner to the May 27, 2021 doubleheader between the Yankees and Blue Jays were greeted with boos from the crowd and escorted out of the",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/",
-      "originalUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-fans-ejected-index.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/28/two-men-booted-from-yankee-game-for-holding-a-trump-won-sign/amp/",
-      "publishedDateTime": "2021-05-27T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

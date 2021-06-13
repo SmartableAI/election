@@ -83,7 +83,7 @@ related:
   - title: "Trump Supplied Post-Election Demagoguery; Democrats Sparked Demand"
     excerpt: "First of two parts The recent failure of the Senate to approve a proposed Jan. 6 commission and the removal of National Guard troops from the Capitol have returned attention to the events of"
     publishedDateTime: 2021-06-13T10:23:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/06/13/trump_supplied_post-election_demagoguery_democrats_sparked_demand.html#!"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/13/trump_supplied_post-election_demagoguery_democrats_sparked_demand.html"
     type: article
     provider:
       name: RealClearPolitics

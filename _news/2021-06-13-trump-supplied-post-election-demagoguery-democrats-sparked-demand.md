@@ -3,8 +3,8 @@ category: news
 title: "Trump Supplied Post-Election Demagoguery; Democrats Sparked Demand"
 excerpt: "First of two parts The recent failure of the Senate to approve a proposed Jan. 6 commission and the removal of National Guard troops from the Capitol have returned attention to the events of"
 publishedDateTime: 2021-06-13T10:23:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/06/13/trump_supplied_post-election_demagoguery_democrats_sparked_demand.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/06/13/trump_supplied_post-election_demagoguery_democrats_sparked_demand.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/06/13/trump_supplied_post-election_demagoguery_democrats_sparked_demand.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/06/13/trump_supplied_post-election_demagoguery_democrats_sparked_demand.html"
 type: article
 quality: 80
 heat: -1
@@ -91,6 +91,6 @@ related:
         height: 405
         isCached: true
 
-secured: "ISGRBoBF4EWrjLqXpGGUmRSrrQzCmsFIj/w+83AaZ0ZTqpFBOso4dj5rkg/AUi0Ncb7kcrewGQi0cPKk1jbgGgqr/NE21z7PQmtfb/jyt49+n1zT5TLMCkuy4eiS35sVpDmW36wvIjusixgZ6vLlg9H6HWquObYntVMUcDF0XsxCnjdLwS+tpDg4JiveKPemjPDtbaYiQISV7ox8yKmelMiJW5NJKv0vdJ3MwmWCbqc/HQSn+EUifJMsN37NYQaE1QUi0bBTBRGUynZ1ReQxrRE73MuzI2wpPJJFKZ7nrmhb6Ay97HOzgiQK6AvtjkoKHhPfRTPCS+ra6z+IakIbLXK8gWolEOREfH70Erhpq6Y=;0Tv9LxNzfzOChlKHz2AqaA=="
+secured: "42WTCVoAGrFeFThn5MOjaA8OINejsxM+iJZ/9LK5zzrvfJm/hs920nd/jbW/dHKm10vA5Ub9wFEIgLYsYH1GNST/9kzRcP3X9x9K7ECDYd4Dq1im2wfTJScICK1N+OpZw5KY5/mlOISG9P3D/Pmxd7JNWvS62lGYANiMtYvLvyNgVUTUESyAz6JL3PRP9CsqPcUppVjLnlE2BfFlViFHKvE5hmCIb4u2Gqa0AqYCuXQ+7oZklkXV8lD9nvAT7tzxOj8hgTx6d31l1ftxn+R9BDPgzKO6oZDzRSNnBH6XhSYGF/NFbDMk72YYAXO9pzPzdN+/WTANKs1ZbGWmxsZ/fA4D+sbglIaQmk8uaPf3akU=;xh/W+9akQbk9zR/Q9AOR6A=="
 ---
 

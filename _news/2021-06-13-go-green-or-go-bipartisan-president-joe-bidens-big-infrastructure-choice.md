@@ -2,30 +2,26 @@
 category: news
 title: "Go green or go bipartisan? President Joe Biden’s big infrastructure choice"
 excerpt: "As negotiations unfold in Congress in search of a bipartisan deal, the White House's ability to ensure a climate focus in Biden's sweeping infrastructure package is becoming daunting."
-publishedDateTime: 2021-06-12T18:57:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
+publishedDateTime: 2021-06-12T19:57:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
 type: article
-quality: 123
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/e412vHahVzpumXEQYXGNDP7Lkts=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6NLKY7DP2OSSSWLTTXZGYLUIKY.aspx"
+  - url: "https://www.baltimoresun.com/resizer/e412vHahVzpumXEQYXGNDP7Lkts=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6NLKY7DP2OSSSWLTTXZGYLUIKY.aspx"
     width: 1200
     height: 800
     isCached: true
@@ -279,6 +275,6 @@ related:
       domain: indystar.com
     quality: 32
 
-secured: "EBB64I3k4PWCmWJvZ6/VkQVTBGBvX8MokURomUhFnPfBq/JLzQqrtnfJw8w8f6c7umYw9cuWFwHAqt6i1V3bswQ7u/ljb+phqdMjobA7jD0zXzHfjl2fW+0iIHage8GeWF1xypq09p/VaAPiHhkoiCMCUmOnbn9/9cAl8UL8x6iC2U+ahtdhq5y21X9+6OZBMNt9MT66XeFfULhAbcADa2mqzVZV4PXFFOjEYWYXyiCBNrvVnINF5OtelkCRNv+KmcSzOdDNLIypmy47Zd4Jbn2X5/+m9QQ8dXYM4hBwCHI+j55e80AwyptktFZAmMa3K3ti8mjA/7gEWU7dLLLUV9b2BzUDV953h+7npPZ64HvYxROaiV/SWWLwbkA7JnMLgk6lCj+wkCWSyXGohOzbXv5lnHwGbhY/puxRj1nQxdYM3mTT/4bKb9cZ4/3qb7b8zp32hnNOl1EqRNxWLrp/Te+kGaYmUNTWKFTOpcTb0wscqHlFaWLV/g99ga6PYAH7o9dpnurgTxnUKR2CxWvV+Q==;WxyPbUtWnxrZRYuyO0QFWw=="
+secured: "7+HD0qEBtQFNS6uXrLq3dU2J6i7ImyaskChhfXTTz8HbT/1r6BQT5IQp82qMKkIrFI2JfIV33dieaXiJGMVlXvx+KNbtCsnvjbdpkvD/VKE/AJq0iTFO2qm6PeqsjYGabcjlmi1gOEmiKtgu/jB5Sk32M+mCPRWy/PcGYluxBm20/obKu4GlV9ChdHO8bEvDo8wPhp584suusLs/iQLKJrLltORf06NHd1uFysLsWdBBuucsKAdNXeyjNj1eGOKzO+wLvIv1f6ALgLSZ3ThJ2qyMufeFiMqa+3MHQ7Hngh84LJ3ROdAwmyl62R0/8psupESKMymNSCOpaIlkbvbixse0NYpMLR4+pGhmFWvrJak=;tSNAefnPSvXCjVGmT8uM3w=="
 ---
 

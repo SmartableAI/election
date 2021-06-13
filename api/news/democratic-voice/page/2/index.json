@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-04-in-a-speech-to-a-new-hampshire-gop-group-pence-calls-systemic-racism-a-left-wing-myth.md",
+      "title": "In a speech to a New Hampshire G.O.P. group, Pence calls systemic racism a ‘left-wing myth.’",
+      "excerpt": "Mike Pence also distanced himself from President Donald J. Trump, saying of the Capitol attack, “I don’t know if we’ll ever see eye-to-eye on that day.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/03/us/politics/03new-washington-briefing-pence2/03new-washington-briefing-pence2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/03/us/politics/pence-trump-systemic-racism.amp.html",
+      "publishedDateTime": "2021-06-03T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-doj-investigating-trump-appointed-postmaster-general-louis-dejoy.md",
       "title": "DOJ investigating Trump-appointed Postmaster General Louis DeJoy",
       "excerpt": "The Justice Department is investigating campaign contributions made by Postmaster General Louis DeJoy's private sector employees, his spokesman confirmed Thursday.\n    \n",
@@ -1630,63 +1687,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-doj-partly-discloses-memo-barr-used-to-clear-trump-of-obstructing-russia-inquiry.md",
-      "title": "DOJ partly discloses memo Barr used to clear Trump of obstructing Russia inquiry",
-      "excerpt": "The Justice Department intends to appeal an order to disclose the full memo cited as a reason not to charge Trump with obstruction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/justice-department/doj-partially-discloses-memo-barr-used-clear-trump-obstruction-russia-n1268445",
-      "originalUrl": "https://www.nbcnews.com/politics/justice-department/doj-partially-discloses-memo-barr-used-clear-trump-obstruction-russia-n1268445",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_33/3069776/191025-department-of-justice-building-ew-1227p_e433387e9fbfe306b8bd633f60e1b57d.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1268445",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268445",
-      "publishedDateTime": "2021-05-24T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

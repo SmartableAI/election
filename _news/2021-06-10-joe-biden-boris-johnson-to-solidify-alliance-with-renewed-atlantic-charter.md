@@ -199,6 +199,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Queen to meet Joe Biden at Windsor Castle"
+    excerpt: "The Queen will welcome US President Joe Biden and First Lady Jill Biden to Windsor Castle later. The visit will include a Guard of Honour and tea at the monarch's Berkshire residence. It comes at the end of the G7 summit in Cornwall,"
+    publishedDateTime: 2021-06-13T14:32:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-57461257"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-57461257.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-57461257.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/765A/production/_118789203_queen-biden-comp.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Boris Johnson 'won't disagree with Joe Biden on anything'"
     excerpt: "The UK Prime Minister has said he is \"not going to disagree with his US counterpart on anything\" ahead of the G7 summit in Cornwall. He was responding to the US President's joke that they both married \"way above their station\"."
     publishedDateTime: 2021-06-10T16:33:00Z

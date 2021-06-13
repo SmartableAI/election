@@ -2,9 +2,9 @@
 category: news
 title: "President Biden meets with allies on G-7 Summit day two"
 excerpt: "President Joe Biden met with French President Emmanuel Macron and will also visit the queen at Windsor Castle on Sunday. This comes ahead of next week’s high-stakes summit with Russian President Vladimir Putin."
-publishedDateTime: 2021-06-12T22:40:00Z
-originalUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533?playlist=mmlsnnd_bestofnbc-nnd"
-webUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533?playlist=mmlsnnd_bestofnbc-nnd"
+publishedDateTime: 2021-06-12T22:38:00Z
+originalUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533"
+webUrl: "https://www.nbcnews.com/nightly-news/video/president-biden-meets-with-allies-on-g-7-summit-day-two-114717253533"
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114717253533"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114717253533"
 type: article
@@ -491,6 +491,6 @@ related:
         height: 629
         isCached: true
 
-secured: "NJTMHt5ci0af7g7aDvzy7HB+B5R4imKfKJRl5tjtsjTrX0gu3gLKVXbOK3SjP7Kq8AgTGZkxaKYbrMKmy+xFkqkyFsRiHS8StIs4vlrCZJ31EJLcqH3c5DMZCslIZz5Qlf6C+AqimafOYUdQx3YcvNmiW5c0lo+E7WwW/BdT0huy2mufjcDXXANqJnBJ8ps/qtpr730H1SuaAocINPvOzCjVlHrtrwab0GNN8D9vzcc2Uib4b611yxvKXk4IvvLf06ZxR/ljN4HIzU2xAMGB89B2dF3zaD0doUnbGjUk2LRgy+xXJWS/jCClFmk9QPiL6gEl0VIuenoEuKlpTqo1g4wiQH+YUorYyXNYik0sp8g=;TUO1tp+Dp/oBvy79PLZT6Q=="
+secured: "Fyabj/Nc9R3sWPs/Nk04EOORDNvgfdYxa0zI3oFtAcB06Zj6026Xyu+9YvwwuIQOmyNoert4o1wrMojqA8TRLGQCUSbN1cXULxv4gaEBTyF+1Er1YwsmYuvGTA8WQaRMaDoBjsnJtqzZMiWFDKTAogA1TStcUXRypnGZGzPZUFZ4bQBdfZWeMtGA6TzAeE8eBRKGHR9oGyxswj9/mfRty2jbSXrkcxSAwM9o7T5XbS734gtRva9MnAmwMdPLynv/HHYkm+qmVc48mDXU/fzgeQu2J95yZkUDrsPfWgA4is/+vjXTmSyENR6mALdkcUStmkVGAd8Hka+hznKU4EPsknyK43gnQU5iirmmSAe/DfQ=;kGR+5HwxV9UALffrm0dwTg=="
 ---
 

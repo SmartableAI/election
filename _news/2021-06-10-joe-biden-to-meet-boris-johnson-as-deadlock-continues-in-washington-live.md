@@ -372,6 +372,22 @@ related:
         width: 5901
         height: 3934
         isCached: true
+  - title: "President Joe Biden, G-7 leaders agree on COVID vaccines, China and taxing corporations"
+    excerpt: "Leaders of the Group of Seven wealthy nations on Sunday pledged more than 1 billion COVID-19 vaccine doses to poorer nations, vowed to help developing countries grow their economies while fighting climate change and agreed to challenge China’s “non-market economic practices” and call out Beijing for rights abuses in Xinjiang and Hong Kong."
+    publishedDateTime: 2021-06-13T15:28:00Z
+    webUrl: "https://www.masslive.com/politics/2021/06/president-joe-biden-g-7-leaders-agree-on-covid-vaccines-china-and-taxing-corporations.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/06/president-joe-biden-g-7-leaders-agree-on-covid-vaccines-china-and-taxing-corporations.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/president-joe-biden-g-7-leaders-agree-on-covid-vaccines-china-and-taxing-corporations.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 67
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SAZ2AUEIZVGMZH2Q2GMGT73XP4.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "oz3k4naWjdVbXo3BHjzC7KGr/+1YHWzDezhvq25X/w6U2ZQM+KKjYWEbH6aUln86w4f2/aBwUnozyT+gXnpsy57+b2gro0QbXDAbfeLVvmwf8t1aWAB1RtYRjSeQsnBu5m/q7iovwmZ3RqA146QIBXj/XCMTQ02v5ioe48eLu0w7ZT2O0IdsQjGzFRERV1iCx+zQ57kWRX2DIEXvcmyLtuMdJy5tp2tWJPg74OVTc53ENe+kIq65UYEVVZq124UvAKPXhRbom9IgRBM8m5l9uCbe/x8Mx/aHfWMy3ucSovqNO9HkeZbf25pn3yTHyV3/FhvzDoCVH5nh/j7L59Ln3Nkhc+UxtjSFZptDi0ok6TY=;fd1W4s2JdOZhp0GoEDS0ig=="
 ---

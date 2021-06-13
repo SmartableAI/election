@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-13-andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic.md",
+      "title": "Andy Slavitt faults Trump administration for \"deadly sins\" at start of pandemic",
+      "excerpt": "Andy Slavitt, the former senior White House COVID-19 adviser, says the Trump administration made costly mistakes at the beginning of the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
+      "originalUrl": "https://www.cbsnews.com/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/13/7df1ec35-5dac-488b-82ae-118957459f84/thumbnail/1200x630/a185a3fde40274b688ec16ca77c67a8e/0613-ftn-slavitt-733712-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
+      "publishedDateTime": "2021-06-13T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-lara-trump-urges-americans-living-at-southern-border-to-arm-up-get-guns.md",
       "title": "Lara Trump Urges Americans Living at Southern Border to 'Arm Up, Get Guns'",
       "excerpt": "Lara Trump, former President Donald Trump's daughter-in-law, on Saturday night urged Americans living at the southern border to \"arm up\" and \"get guns\" as she railed against President Joe Biden's immigration policies.",
@@ -1498,58 +1550,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-trump-speech-in-nc-east-coast-heat-wave-belmont-stakes-5-things-to-know-this-weekend.md",
-      "title": "Trump speech in NC, East Coast heat wave, Belmont Stakes: 5 things to know this weekend",
-      "excerpt": "Former President Donald Trump will return to the political stage, a heat wave is expected to scorch the East Coast and more news to start your weekend",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2021/06/05/trump-speech-east-coast-heat-wave-5-things-know-weekend/7538122002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2021/06/05/trump-speech-east-coast-heat-wave-5-things-know-weekend/7538122002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/01/USAT/635dfef8-08df-4434-a40c-ee6aea5166ce-AP_Trump_Conservatives.jpg?auto=webp&crop=3788,2131,x1,y95&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7538122002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7538122002",
-      "publishedDateTime": "2021-06-05T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

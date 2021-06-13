@@ -679,7 +679,7 @@ related:
   - title: "Meghan McCain: VP Kamala Harris \"Sounded Like A Moron\" Talking About The Border"
     excerpt: "The View' co-host Meghan McCain criticized Vice President Kamala Harris for sounding \"like a moron\" when she talked about the border in an interview with NBC 'Nightly News' host Lester Holt. \"Vice President Harris was in Guatemala this week telling people seeking asylum in the U."
     publishedDateTime: 2021-06-12T23:40:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html#!"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
     type: article
@@ -709,7 +709,7 @@ related:
   - title: "Kamala Harris Is in a Really Tough Spot"
     excerpt: "Vice President Kamala Harris learned that three little words can cause a lot of damage. On her first vice presidential trip abroad, Harris stoked controversy when she spoke at a news conference in Guatemala and told potential migrants,"
     publishedDateTime: 2021-06-11T10:59:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html"
     type: article
     provider:
       name: RealClearPolitics
@@ -739,6 +739,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "W3wo+l59kehPiz8piOiCf0grSRQjqyWeEfKXv3moMvyE9SIPnT2NUmnXiIQK64Ad4ljHLO+oYl/lU9J6cvHT2duFzq5JKC5RsdaAkZKBYBMtTthXJjxUrvK7R4c011vRFAIgoWzECY/ezrrOCG1kHM+xlkmlezh22gnqacFL8gcLjDhS/Yki+T2do/cMFg51lqXV9/gYwCI09LdS/zoGE9c0K2Sk2aHUlJaoDO8OwfF910/PnFLuwdd0DsP1cBamCY7HqiEu5naUEiowGnZLCDaE06gnQ+F3k7UUyOWdu9rmfID6kVftNWHiTv2MVZbqkE/rH7OE6c4xzhgdvbqv8sbug/envg/NpKdwG3CF50Q=;lcooSgdul7trqdJNaB8y0Q=="
+secured: "2qf8Nvt+7zlgsiXGGMrP/91TvIL8q8h/djqHUNUD0EKH0ucSoTKfDlSQt+kdkVOsuQXTTxmOPik5vs12+rsaKJ40udrXn+EDcv2qTOlB6ktk4mg2Uyx/Z5+v2jcbgKfJ4LKdRlX957p3DkL23F4EgOu7vTeKAmR6Do1JwP8GWxHKTFuxE1boFOPfS3GwWkdq2InJUTdjRu11eUjFMuMqmSKuWM4Kk3ELETFjsQc/nP7GJd7XQc4idU9UOhaKkyMI8nWgaNpjKwdiVloRIL8f3pfugjfmxAQ6Vj//ThjYPCp0ol/BXwgtKyE3kNsCKKO5s8L8ts4+KOqyfTow5XbARCEJktxB2sqIvbcT7sML/h9xMKCxaKEkyac/yzPNzk0k4LHGTJnVgbTomKcfMoQcuKI2qTC8esVHzMt61Ag+8m4tLRX8RBwqPOQCtq0LadP8brvwkzBTdJsP9NC+mbEGdf8KB+gdS+k/jgFykcUfhdZbbD5tq376AedkkSK6W6XCU9tIEez65m2Y7VrHxOyLrg==;ensMvSaHnSuwMpdbNo0Fpw=="
 ---
 

@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pelosi says Trump DOJ's targeting of political enemies 'goes even beyond Richard Nixon'"
+    excerpt: "The Trump-era Justice Department's decision to secretly seize data of Democrats on the House Intelligence Committee went even beyond the nefarious actions of former President Richard Nixon, House Speaker Nancy Pelosi said Sunday.\n    \n"
+    publishedDateTime: 2021-06-13T14:34:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JQxNFAYAvkw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/13/politics/nancy-pelosi-trump-doj-data-seizure-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/13/politics/nancy-pelosi-trump-doj-data-seizure-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528185455-pelosi-walking-0525-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump advances dangerous disinformation campaign as more states move to restrict the vote"
     excerpt: "Donald Trump's speech before the North Carolina Republican Party Saturday night was a reminder of the danger the former President poses as he undermines America's election system while attempting to reassert himself as kingmaker on the national stage.\n    \n"
     publishedDateTime: 2021-06-06T04:18:45Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-u
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -184,6 +184,22 @@ related:
     quality: 75
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/185E0/production/_118880899_johnonbiden.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Queen to meet Joe Biden at Windsor Castle"
+    excerpt: "The Queen will welcome US President Joe Biden and First Lady Jill Biden to Windsor Castle later. The visit will include a Guard of Honour and tea at the monarch's Berkshire residence. It comes at the end of the G7 summit in Cornwall,"
+    publishedDateTime: 2021-06-13T14:32:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-57461257"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-57461257.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-57461257.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/765A/production/_118789203_queen-biden-comp.jpg"
         width: 1024
         height: 576
         isCached: true
