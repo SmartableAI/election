@@ -97,19 +97,19 @@ related:
         isCached: true
   - title: "Jill Biden tells English surf therapy group about her board"
     excerpt: "U.S. first lady Jill Biden told members of a British group that uses surfing as therapy that she once owned a surfboard"
-    publishedDateTime: 2021-06-12T17:11:00Z
-    webUrl: "https://www.washingtonpost.com/politics/jill-biden-tells-english-surf-therapy-group-about-her-board/2021/06/12/95e83cd8-cba9-11eb-8708-64991f2acf28_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-tells-english-surf-therapy-group-about-her-board/2021/06/12/95e83cd8-cba9-11eb-8708-64991f2acf28_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-tells-english-surf-therapy-group-about-her-board/2021/06/12/95e83cd8-cba9-11eb-8708-64991f2acf28_story.html?outputType=amp"
+    publishedDateTime: 2021-06-12T19:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PM3KP5WLRUI6XBYIMSMR6KWPFA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b17758efa8044382aabc7f7d67531f65_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "All the Queen’s presidents: Biden will be 13th US leader to meet monarch"
     excerpt: "Biden previously met the Queen in 1982 while she has met every US president since Eisenhower except Lyndon B Johnson"

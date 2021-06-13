@@ -330,6 +330,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris becomes first sitting VP to join Pride march, calls for passage of GOP-opposed Equality Act"
+    excerpt: "Kamala Harris became the first sitting vice president to march in a Pride event on Saturday as she and her husband, second gentlemen Douglas Emhoff, surprised the crowd with an appearance at the Capital Pride Walk and Rally in Washington, D.C."
+    publishedDateTime: 2021-06-13T06:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y00Ndn6yIOo/kamala-harris-pride-march-gop-equality-act-border"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-pride-march-gop-equality-act-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-pride-march-gop-equality-act-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e163aed-58db-4cea-bff2-b1371f809cf5/1321966e-4395-4baa-87c3-dd4c8b196029/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to face global challenges from China, Russia as he departs for first foreign trip"
     excerpt: "President Biden embarked on his first trip overseas since taking office Wednesday, a journey in which he will meet with G-7 and NATO allies to discuss ways to address the coronavirus pandemic and an increasingly aggressive China and Russia."
     publishedDateTime: 2021-06-09T12:05:21Z
@@ -723,6 +739,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "JZ1PX4tVA4gNe2x0zv5Aaxp176myyyRpozTjmBXF6d9LynrAEX0ssylX4l2gPq1vmP308Ep8BlMb/degDBZY/LobP6RwjwsxJ/t24Zjq9aQiXqTr5Ncm3ZsGRmoD9Sn6+3eZ4icZCGCXYFRpP543AnCQigM6UlCXr41so2tGHG5h3dLaXiJpz2RBU5/lJB52W0sQh2yv8E9QmvBiKipMnZVgijQCA14Dsh+4lKNgI2hHu6+mdJyx9hKQE+atq5QRIgceLGdmQTjFmge34NI8jLMs7cureaKoIJP2FJWN0OH7BV0ZdscVPvfzLv8GtJ2Rd5ARC9SGfJq86XuX1RH/Mt/TWaKiq15lekImjJaUPmA=;RAPUtBZj+JRg8bYJisJV7w=="
+secured: "gMi8tR+lRqCmwsAxGBexR7dzL/hzQbDUEDf7LQx2E8ybzVdrwQc2ED0r1f7hmE/VOzb/HEZhzr/Tq9eXQhSs503hkd1X0OTVvsdEMlijQ06XLLeMZIsZmXBr1SekzT09aQvHdNT9z4eJtyn6hiRpz1zYj7XmLNv7K59sx14biVnvViOLMvmfHeQ2k5UrKtgUIAOdlRLvvb3JrgbSQIcVceJGm7nkX09T5yQKLKlL6/WYjJdIjxvawaeIVhzu4rDOAx4Sf7fKNRNmO9vBoWo3GuhfibQOWexhr/JFhHq9lhpRbmpp7alDPZKMfdF+4ChJ4cBeIgIJdtKOzaoeA7JmBsuhrBjlt/Kf/2nf4gZTfsgHrEBACfkzEUgER9odUvfypM5xzt3DMyeCFGVUpS+22Q1afXReGsmyIcuzpniaJijAMPi7vY6RK5oTU/Q534lfv/eNl8OeCY3X+wmRfYm7HPr6fyHyWQUcJ77xRi0qpnFCfLvsdYAbjY6mZW7JxWBAuy7HMrvBy60Jw2HpMpI4wA==;/kMYrrde4sEIV5r4kWo2vA=="
 ---
 

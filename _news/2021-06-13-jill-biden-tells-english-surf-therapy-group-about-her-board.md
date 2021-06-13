@@ -2,21 +2,21 @@
 category: news
 title: "Jill Biden tells English surf therapy group about her board"
 excerpt: "U.S. first lady Jill Biden told members of a British group that uses surfing as therapy that she once owned a surfboard"
-publishedDateTime: 2021-06-12T17:11:00Z
-originalUrl: "https://www.washingtonpost.com/politics/jill-biden-tells-english-surf-therapy-group-about-her-board/2021/06/12/95e83cd8-cba9-11eb-8708-64991f2acf28_story.html"
-webUrl: "https://www.washingtonpost.com/politics/jill-biden-tells-english-surf-therapy-group-about-her-board/2021/06/12/95e83cd8-cba9-11eb-8708-64991f2acf28_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-tells-english-surf-therapy-group-about-her-board/2021/06/12/95e83cd8-cba9-11eb-8708-64991f2acf28_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-tells-english-surf-therapy-group-about-her-board/2021/06/12/95e83cd8-cba9-11eb-8708-64991f2acf28_story.html?outputType=amp"
+publishedDateTime: 2021-06-12T19:57:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
+webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-tells-english-surf-therapy-group-board-78243143"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PM3KP5WLRUI6XBYIMSMR6KWPFA.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_b17758efa8044382aabc7f7d67531f65_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -279,6 +279,6 @@ related:
       domain: indystar.com
     quality: 32
 
-secured: "y9lqcQ0HAqtskEcvfs7IAgsTlar9HpQf8cjZEaMNjrtf/L+XCDcW43KKIfU8GzkcBHBlLen+aakZ8IjamTOiJ15IuVKdnnyQTTSoXPon9Q25GX3g8s4jz7260eumW6LsCWUSSYhUQOQd9r35R9dHvnha2lhtJxGNOI8xtbpOXrL5qW35eDhQsyNRVlUirjiSVHxV1zVdnnqbk3gWr1hYmCwP5F/yYHZ5CoRAim80QC4VhBTDu4IZUu1J9sCZAOtmT2ZImkrEFR5c4Uc2z06BjWUtLZLCiY1Vm3qwu41BEuLgVe/s4TiOjx+/UQ16eYrEub43rojS6o/Vi703yTQ3r7I74wXzHis7PzyDJJteLM9gFwshF+UK5rrqpSFEhVIDtyxtoowORlFjflnLOT5Bi8UjAhwEFpdn3CmZU9PLKeAMZs+UPFMe3ntO4oyUkxpk4GYI66ahEo6nnW1qns8uXRdmByY7uOmCyFXlQV/KJDBm5L/IArTaxYBg59tJhPzepHj/3/W4AjSv/rYw/382tw==;ZmN4VPDVJ3aKYPUAq5wCWw=="
+secured: "wTOFXl1fdGZlXo+xIg2LBArARxXBTDUYGRIcdN+H75AyvcGUd7tstdSpo4Rxo2OozPU8lbJwJe/5gyFF+9RkRVNC7f+gfuilaLHTShydWyQiuwC4DidSLvuBoqoed+v1n6XB6hs/yiQCr8+K2UiAVK9G6G7cfvn6n7wdlMc7u9oV+vN5xYrl/TDYiu+BmvsqnYNgI5CTzI+BTPCFhGlgHtGMteBObTLR4zYDCkswwXE5BASAtp5xFMxP17pg1TvmQQUvSpqobqdw4q8+i3qdp0pPNHxDyaq2sfEyEycJqmFPHTIjwj8Ms7hLyr6yVRTSZODeazx5/uwM/OJMovHgQDJ4ERLi5+d1mTjpftLoP2M=;1lKxVqFaE9HAii4yVP5mUQ=="
 ---
 

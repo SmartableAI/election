@@ -335,6 +335,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris becomes first sitting VP to join Pride march, calls for passage of GOP-opposed Equality Act"
+    excerpt: "Kamala Harris became the first sitting vice president to march in a Pride event on Saturday as she and her husband, second gentlemen Douglas Emhoff, surprised the crowd with an appearance at the Capital Pride Walk and Rally in Washington, D.C."
+    publishedDateTime: 2021-06-13T06:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y00Ndn6yIOo/kamala-harris-pride-march-gop-equality-act-border"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-pride-march-gop-equality-act-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-pride-march-gop-equality-act-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e163aed-58db-4cea-bff2-b1371f809cf5/1321966e-4395-4baa-87c3-dd4c8b196029/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Guatemala’s prez blames Biden for border crisis as protesters tell Kamala Harris ‘Trump won’"
     excerpt: "The rally was visible to Vice President Kamala Harris’ motorcade as she arrived to meet with Guatemala President Alejandro Giammattei on curbing illegal migration."
     publishedDateTime: 2021-06-07T16:50:00Z

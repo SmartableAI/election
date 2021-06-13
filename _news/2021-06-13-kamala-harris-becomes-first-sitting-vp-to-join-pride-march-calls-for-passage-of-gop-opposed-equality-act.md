@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Harris falsely claims 'we've been to the border' when pressed on lack of visit"
-excerpt: "Vice President Kamala Harris falsely claimed that \"we've been to the border\" when pressed on why she has not yet visited the southern border after being tasked by President Biden to handle the \"root causes\" of migration. "
-publishedDateTime: 2021-06-08T12:57:19Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uJe5GI4Kox0/harris-false-claim-border-visit"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uJe5GI4Kox0/harris-false-claim-border-visit"
-ampWebUrl: "https://www.foxnews.com/politics/harris-false-claim-border-visit.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-false-claim-border-visit.amp"
+title: "Kamala Harris becomes first sitting VP to join Pride march, calls for passage of GOP-opposed Equality Act"
+excerpt: "Kamala Harris became the first sitting vice president to march in a Pride event on Saturday as she and her husband, second gentlemen Douglas Emhoff, surprised the crowd with an appearance at the Capital Pride Walk and Rally in Washington, D.C."
+publishedDateTime: 2021-06-13T06:55:31Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y00Ndn6yIOo/kamala-harris-pride-march-gop-equality-act-border"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y00Ndn6yIOo/kamala-harris-pride-march-gop-equality-act-border"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-pride-march-gop-equality-act-border.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-pride-march-gop-equality-act-border.amp"
 type: article
-quality: 181
+quality: 168
 heat: -1
 published: false
 
@@ -26,9 +26,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e163aed-58db-4cea-bff2-b1371f809cf5/1321966e-4395-4baa-87c3-dd4c8b196029/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -141,6 +141,22 @@ related:
     quality: 182
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Harris falsely claims 'we've been to the border' when pressed on lack of visit"
+    excerpt: "Vice President Kamala Harris falsely claimed that \"we've been to the border\" when pressed on why she has not yet visited the southern border after being tasked by President Biden to handle the \"root causes\" of migration. "
+    publishedDateTime: 2021-06-08T12:57:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uJe5GI4Kox0/harris-false-claim-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-false-claim-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-false-claim-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -317,22 +333,6 @@ related:
     quality: 168
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dac429f1-6f9c-4c27-a6af-b323285a0de0/56ba66ce-b60b-4b98-9af1-fb77aa3a1c9f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris becomes first sitting VP to join Pride march, calls for passage of GOP-opposed Equality Act"
-    excerpt: "Kamala Harris became the first sitting vice president to march in a Pride event on Saturday as she and her husband, second gentlemen Douglas Emhoff, surprised the crowd with an appearance at the Capital Pride Walk and Rally in Washington, D.C."
-    publishedDateTime: 2021-06-13T06:55:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y00Ndn6yIOo/kamala-harris-pride-march-gop-equality-act-border"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-pride-march-gop-equality-act-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-pride-march-gop-equality-act-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e163aed-58db-4cea-bff2-b1371f809cf5/1321966e-4395-4baa-87c3-dd4c8b196029/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -743,6 +743,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "FJUhBwyiFu+YM1CfEEXDMPQuxdBbIadgmNLBbVDN8bOHnVOWm/fX82PvMYdGbO2Rs292Q8nPNA4OdCOO0jlD2/spO09w5/sQ7QkUpHHyybnG+1nABPoaud6COflEtI9nR5bVPQWrBfd+V7S6+gd1Cv0pPZgYmnrKe8CvckJeohQggTvVWoTwcBnmAnkB3ZKJ623ucxx4NC1nKdVWf0Mpiv1Tv+BaTyQCcDLcl6YbnjlQCD/EnhNvHUkPgTKAVcvq1l5FZ/ylg6lDqRu2rRQLfmsH7lyUblGAMbTyOixCnTr4g2mza2LfTGFryuscFvCVch50CaH4BDZi32Nq4q/vOMNP8As1y9+VzPFvaCLaNDg=;0+eBbefXLEtkif8PAYMWRg=="
+secured: "ZXtYtE6viuKp5ntiVXbKcvhI5HzcEFBcPldBYyK2VZ3jvIXdhRO1zX84lE7WAf6sDli+XnwtkmgMDQHEmb9zGjMsI2Z8thEB6dZD7ptMphmFI9AUSe3opIP580SAPsL8+nf9qItB6yDDUBz6K7IkU3r8YPP8kzaC6FJHsAnUzGC8Gs3CbXZxWoSiCDjMk04WYmy6yJorZheFrLIbM6HJuaNV/4G725zD9uE5eQ/V6RZvekib4yivgmp/kAmaHny3MDsiaw49QtgBWlRQS8QQhKWHtsy1dYCPJDrU2czaKSO58SepVfA6nE29sOoQQ9k1zV6uUjrhJZGlhBDrjzh9vwLfElSqCgJHPvH/vzF293c=;vqTPZ0M5KTmPcDV4ltKvww=="
 ---
 
