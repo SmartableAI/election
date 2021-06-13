@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "VP Harris 'advocating for lawlessness,' Border Patrol union president says"
+    excerpt: "The head of the Border Patrol union has slammed Vice President Harris for advocating for migrants and, in turn, “advocating for lawlessness” that has extended into other parts of the country."
+    publishedDateTime: 2021-06-13T18:15:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bmVxmCznQyk/kamala-harris-immigration-lawlessness-border-patrol-union"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-immigration-lawlessness-border-patrol-union.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-immigration-lawlessness-border-patrol-union.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/584f90ac-d725-48e9-b778-a544e51f57ca/7b71597d-3847-47bc-b582-4b110bc38367/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "AOC calls Harris' immigration comments 'disappointing' as VP warns migrants 'do not come'"
     excerpt: "New York Democrat Rep. Alexandria Ocasio-Cortez called Vice President Kamala Harris’ comments on immigration “disappointing” on Monday, after Harris said during a press conference that migrants looking to cross the U.S. border should not come."
     publishedDateTime: 2021-06-08T00:24:26Z

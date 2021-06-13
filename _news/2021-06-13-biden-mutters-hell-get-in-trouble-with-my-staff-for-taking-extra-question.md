@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden open to Vladimir Putin proposal on swapping cybercriminals"
+    excerpt: "President Biden signaled openness to a prisoner swap of cyber criminals with Russia ahead of his meeting with Russian President Vladimir Putin on Wednesday."
+    publishedDateTime: 2021-06-13T18:55:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2XxdqRgj9iw/biden-open-to-vladimir-putin-proposal-on-swapping-cybercriminals"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-open-to-vladimir-putin-proposal-on-swapping-cybercriminals.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-to-vladimir-putin-proposal-on-swapping-cybercriminals.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a5fbcea-0331-4b64-93d7-39e9203a7294/210ccfb6-19fb-49a4-ad94-c7f611c8fb9c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden assures Zelensky he will 'stand up firmly' for Ukraine's sovereignty in Putin summit"
     excerpt: "President Biden told Ukrainian President Volodymyr Zelensky on Monday that he will “stand up firmly” for Ukraine’s sovereignty during his meeting with Russian President Vladimir Putin next week, while extending an invitation to the White House later this summer."
     publishedDateTime: 2021-06-07T19:11:39Z

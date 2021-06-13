@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-14-did-covid-19-start-in-a-chinese-lab-former-trump-official-gives-bold-answer.md",
+      "title": "Did COVID-19 Start In A Chinese Lab? Former Trump Official Gives Bold Answer",
+      "excerpt": "In an interview with Fox News, the former secretary of state said he strongly believed Covid-19 originated from a Chinese lab.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/did-covid-19-start-chinese-lab-former-trump-official-gives-bold-answer-3224681",
+      "originalUrl": "https://www.ibtimes.com/did-covid-19-start-chinese-lab-former-trump-official-gives-bold-answer-3224681",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/19/us-secretary-of-state-mike-pompeo-seen-in-AFP_8Z43FP.jpg",
+          "width": 1024,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/did-covid-19-start-chinese-lab-former-trump-official-gives-bold-answer-3224681?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/did-covid-19-start-chinese-lab-former-trump-official-gives-bold-answer-3224681?amp=1",
+      "publishedDateTime": "2021-06-13T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-carl-bernstein-trump-and-enthralled-republican-party-are-guilty-of-crimes-against-democracy.md",
+      "title": "Carl Bernstein: Trump And \"Enthralled\" Republican Party Are Guilty Of Crimes Against Democracy",
+      "excerpt": "Key Watergate figures Carl Bernstein and John Dean explain the differences between former Presidents Donald Trump and Richard Nixon following reports the Department of Justice under Trump demanded data on 73 phone numbers and 36 email addresses related to lawmakers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/49/494847.jpg",
+          "width": 1202,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.amp.html",
+      "publishedDateTime": "2021-06-13T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-doj-sought-account-information-of-top-trump-white-house-lawyer-report.md",
+      "title": "DOJ sought account information of top Trump White House lawyer: report",
+      "excerpt": "Apple informed former Trump administration White House counsel Don McGahn that the Justice Department subpoenaed information about an email account of his in 2018, and forbade Apple from letting him know, according to a New York Times report.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PvOaIbRau2c/doj-sought-account-information-top-trump-white-house-lawyer-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PvOaIbRau2c/doj-sought-account-information-top-trump-white-house-lawyer-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp",
+      "publishedDateTime": "2021-06-13T11:12:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell.md",
       "title": "Lawmakers react to Trump DOJ subpoenas of Schiff, Swalwell",
       "excerpt": "House Speaker Nancy Pelosi (D-Calif.) and other lawmakers responded June 13 to revelations about acts by former president Donald Trump's Justice Department.",
@@ -641,6 +797,63 @@
       ]
     },
     {
+      "path": "_news/2021-06-12-chip-roy-tests-gop-voters-appetite-for-trump-dissenters.md",
+      "title": "Chip Roy Tests GOP Voters’ Appetite for Trump Dissenters",
+      "excerpt": "The conservative House Republican said President Biden’s victory should be certified and later challenged former President Donald Trump’s pick for party leadership.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201",
+      "originalUrl": "https://www.wsj.com/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-352450/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201",
+      "publishedDateTime": "2021-06-12T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-biden-pick-for-navy-secretary-is-cuban-born-carlos-del-toro-a-22-year-navy-veteran.md",
       "title": "Biden pick for Navy secretary is Cuban-born Carlos Del Toro, a 22-year Navy veteran",
       "excerpt": "President Biden said Friday he plans to nominate Carlos Del Toro for secretary of the Navy. ",
@@ -969,62 +1182,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-11-doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communications.md",
-      "title": "DOJ inspector general launches review of Trump-era seizure of members of Congress' communications",
-      "excerpt": "Department of Justice Inspector General Michael Horowitz announced Friday that his office had initiated a review of the DOJ’s use of subpoenas and other legal authorities to obtain communication records of Members of Congress and of some in the news media.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dogmCZF-FG8/doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communication",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dogmCZF-FG8/doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communication",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2c5cf54-7193-40e2-a2d9-ccff0b9575f0/a9e6c652-d67c-4efc-b98a-ca6792dcf8a2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communication.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communication.amp",
-      "publishedDateTime": "2021-06-11T12:51:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-11-mccarthy-jordan-demand-bidens-doj-reject-radical-demands-to-defund-police-amid-crime-spikes.md",
       "title": "McCarthy, Jordan demand Biden's DOJ reject 'radical demands' to defund police amid crime spikes",
       "excerpt": "House Minority Leader Kevin McCarthy and House Judiciary Committee Ranking Member Jim Jordan pressed Attorney General Merrick Garland in a letter Friday to speak gainst “radical demands” to defund police in major cities that are seeing crime spikes ahead of what may be a “violent summer.”",
@@ -1191,157 +1348,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center.md",
-      "title": "Mike Pence to appear at 'Feenstra Family Picnic' event July 16 in Sioux Center",
-      "excerpt": "Former Vice President Mike Pence is headlining Rep. Randy Feenstra's inaugural \"Feenstra Family Picnic\" next month in Sioux Center.",
-      "sourceUrl": null,
-      "webUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.html",
-      "originalUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/c/d2/cd22d76c-4c7a-5009-b490-301bdb2a3e7b/609d95791b0c9.image.jpg?resize=1024%2C476",
-          "width": 1024,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.amp.html",
-      "cdnAmpWebUrl": "https://siouxcityjournal-com.cdn.ampproject.org/c/s/siouxcityjournal.com/news/local/govt-and-politics/mike-pence-to-appear-at-feenstra-family-picnic-event-july-16-in-sioux-center/article_c36c7e6a-bf76-56dd-a78d-6ce106eb5b69.amp.html",
-      "publishedDateTime": "2021-06-11T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sioux City Journal",
-        "domain": "siouxcityjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-pence-to-visit-iowa-to-headline-event-for-congressman.md",
-      "title": "Pence to visit Iowa to headline event for congressman",
-      "excerpt": "Former Vice President Mike Pence will headline a fundraiser next month for Rep. Randy Feenstra (R-Iowa), marking his third trip in recent weeks to an early primary state and fueling speculation about his 2024 plans.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
-      "originalUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike_070820getty_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557995-pence-to-visit-iowa-to-headline-event-for-iowa-congressman?amp",
-      "publishedDateTime": "2021-06-11T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-swalwell-says-trump-weaponized-justice-department-against-enemies.md",
-      "title": "Swalwell says Trump 'weaponized' Justice Department against enemies",
-      "excerpt": "California Democratic Rep. Eric Swalwell, whose data was seized by the Trump administration as part of a leak probe, on Friday said former President Donald Trump \"weaponized\" the Justice Department to dig into the private communications of his political opponents.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLsUJzJiscI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLsUJzJiscI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210611150142-01-eric-swalwell-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-house-democrats-swalwell-reaction-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-house-democrats-swalwell-reaction-cnntv/index.html",
-      "publishedDateTime": "2021-06-11T08:07:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

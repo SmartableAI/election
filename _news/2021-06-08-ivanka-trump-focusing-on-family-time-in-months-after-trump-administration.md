@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-family-time-months-aft
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-family-time-months-after-trump-administration.amp"
 type: article
 quality: 173
-heat: 193
+heat: 173
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Byron Donalds meets with Trump amid Congressional Black Caucus feud"
-    excerpt: "Black conservative freshman lawmaker Byron Donalds is taking up arms against the Congressional Black Caucus after they rejected his bid to join — slamming their ideological intolerance in a new interview,"
-    publishedDateTime: 2021-06-11T19:41:00Z
-    webUrl: "https://nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/"
-    ampWebUrl: "https://nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/byron-donalds-trump-01.jpeg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "yVxcmOnyUWIUHod7gYienJc5hnLkpDprqcJs/GCy6+RkuJ07pcPIo5674NaqIiUn3kd7olZvCa20agdzm+VMDwZhRf7PZgEmwb1j/rw1vSCNUEiA9BjjRD9PZvCw7N+veKaIZxoiul/PTp/UWsG0q02Nd/K10K/W7xATSExBhBbigaLGGLC1ZzCb71OZBgK48I+LuWvdHxb10dX2E8fl147ZIYJTHp9Q2tvSg3sAVVkJmmgBzEnEl/4FiQcJe9Of2lX0RgShGjqwYcK8sfSs8YFLPgV/XhP412jW56ZYtl3IEJv2RvwttNZVh3BLa4nRQ3sWgFiheTLanayAq/kREtYOOn/FR6ZrYRATvgSWtKY=;PUJgePfN0l34+2EmXEc0Jw=="
 ---

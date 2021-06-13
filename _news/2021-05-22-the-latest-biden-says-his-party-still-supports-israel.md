@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cea
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "The Latest: Biden invites queen, 95, to stay at White House"
+    excerpt: "The Latest on the Group of Seven nations meeting being held in England: WINDSOR, England - U.S. President Joe Biden says he has invited Queen Elizabeth II to stay at the White House. Biden and his wife,"
+    publishedDateTime: 2021-06-13T18:22:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/latest-attenborough-speed-climate-action-78249177"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ecfe855b4f5640439bfb1312a12ee4d5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Hill's Morning Report - Presented by Facebook - Israel-Hamas cease-fire underway; Biden praises 'unconditional' truce"
     excerpt: "Total U.S. coronavirus deaths reported each morning this week: Monday, 585,970; Tuesday, 586,359; Wednesday, 587,219; Thursday, 587,874. Friday, 588,539. A cease-fire took effect between Israel and Hamas hours after Israeli Prime Minister Benjamin Netanyahu ’s Security Cabinet approved a unilateral halt to an 11-day military operation in the Gaza Strip."
     publishedDateTime: 2021-05-21T10:29:00Z

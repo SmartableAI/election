@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "DOJ sought account information of top Trump White House lawyer: report"
+    excerpt: "Apple informed former Trump administration White House counsel Don McGahn that the Justice Department subpoenaed information about an email account of his in 2018, and forbade Apple from letting him know, according to a New York Times report."
+    publishedDateTime: 2021-06-13T18:12:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PvOaIbRau2c/doj-sought-account-information-top-trump-white-house-lawyer-report"
+    ampWebUrl: "https://www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Conservative House Republican leaders meeting with Trump to chart GOP's future"
     excerpt: "A group of top House Republican conservatives is meeting with former President Trump on Thursday to “chart the course for the future of the Republican Party and the conservative movement.”"
     publishedDateTime: 2021-06-10T19:52:42Z
@@ -63,53 +79,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Republican leaders to summit with Trump over conservative agenda"
-    excerpt: "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week."
-    publishedDateTime: 2021-06-03T16:27:00Z
-    webUrl: "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/"
-    ampWebUrl: "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/"
+  - title: "DOJ inspector general launches review of Trump-era seizure of members of Congress' communications"
+    excerpt: "Department of Justice Inspector General Michael Horowitz announced Friday that his office had initiated a review of the DOJ’s use of subpoenas and other legal authorities to obtain communication records of Members of Congress and of some in the news media."
+    publishedDateTime: 2021-06-11T19:51:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dogmCZF-FG8/doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communication"
+    ampWebUrl: "https://www.foxnews.com/politics/doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communication.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communication.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "GOP mayoral candidate Fernando Mateo meets with Trump"
-    excerpt: "Already with an endorsement from Michael Flynn in tow, NYC mayoral candidate Fernando Mateo met with former President Trump in New Jersey at Trump National Golf Club."
-    publishedDateTime: 2021-06-04T03:11:00Z
-    webUrl: "https://nypost.com/2021/06/03/gop-mayoral-candidate-fernando-mateo-meets-with-trump/"
-    ampWebUrl: "https://nypost.com/2021/06/03/gop-mayoral-candidate-fernando-mateo-meets-with-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/gop-mayoral-candidate-fernando-mateo-meets-with-trump/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-mateo-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump hosts fundraiser for new GOP chair Rep. Elise Stefanik"
-    excerpt: "Former President Donald Trump is hosting a fundraiser for upstate GOP Rep. Elise Stefanik at his golf course in Bedminster, New Jersey Wednesday night, the Post reveals."
-    publishedDateTime: 2021-06-09T19:40:00Z
-    webUrl: "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/"
-    ampWebUrl: "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Elise-Stefanik.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2c5cf54-7193-40e2-a2d9-ccff0b9575f0/a9e6c652-d67c-4efc-b98a-ca6792dcf8a2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Trump post-White House rep Jason Miller to join tech start-up as CEO"
     excerpt: "Former Trump campaign strategist Jason Miller is stepping back from his post-White House spokesman role to take over as the CEO of a tech start-up, a source told the Post late Thursday."
@@ -127,21 +111,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Chip Roy Tests GOP Voters’ Appetite for Trump Dissenters"
-    excerpt: "The conservative House Republican said President Biden’s victory should be certified and later challenged former President Donald Trump’s pick for party leadership."
-    publishedDateTime: 2021-06-12T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
-    ampWebUrl: "https://www.wsj.com/amp/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
+  - title: "Byron Donalds meets with Trump amid Congressional Black Caucus feud"
+    excerpt: "Black conservative freshman lawmaker Byron Donalds is taking up arms against the Congressional Black Caucus after they rejected his bid to join — slamming their ideological intolerance in a new interview,"
+    publishedDateTime: 2021-06-11T19:41:00Z
+    webUrl: "https://nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/"
+    ampWebUrl: "https://nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: New York Post
+      domain: nypost.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-352450/social"
-        width: 1280
-        height: 640
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/byron-donalds-trump-01.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "The Trump DOJ’s Leak Investigations of House Democrats and Media"
     excerpt: "Lawmakers call for hearings and the Justice Department inspector general launches probe into Trump administration’s secret efforts to find sources of leaks."
@@ -159,51 +143,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump meets Republican Study Committee leaders to discuss policy agenda, path to majority"
-    excerpt: "Republican Study Committee Chairman Jim Banks and members of the conservative caucus’ leadership team huddled with former President Trump to discuss their policy agenda and path to the majority in"
-    publishedDateTime: 2021-06-11T02:15:00Z
-    webUrl: "https://nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/"
-    ampWebUrl: "https://nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/amp/"
+  - title: "Trump Justice Department Sought Don McGahn’s Phone Records"
+    excerpt: "The disclosure came amid political fallout from revelations that the Trump administration also secretly sought the records of journalists and Democrats on the House Intelligence Committee,"
+    publishedDateTime: 2021-06-13T17:36:00Z
+    webUrl: "https://www.wsj.com/articles/trump-justice-department-sought-don-mcgahns-phone-records-11623609415"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-justice-department-sought-don-mcgahns-phone-records-11623609415"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-justice-department-sought-don-mcgahns-phone-records-11623609415"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 126
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-discusses-policy-agenda-734.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "CNN's Don Lemon continues Trump obsession hours after urging the media to 'leave him alone'"
-    excerpt: "CNN anchor Don Lemon cannot quit Donald Trump even after he urged the rest of the media to do so. Lemon raised eyebrows on Thursday during his appearance on CNN's \"New Day\" when he pleaded to his journalism colleagues to lay off covering the former president a bit."
-    publishedDateTime: 2021-06-05T03:57:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-obsession-media.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc4cf548-f8c0-417e-8f51-f9f2b94f7b6b/2d568eb8-6f45-4153-954e-cb7aea218fe3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Chris Hayes: The Dangers Of Trump's Big Lie and Republicans Actually Believing It"
-    excerpt: "It is hard to tell what is more dangerous to American democracy, at the moment: the big lie, or the big delusion. The key question emerging from the alternate reality the right has been constructing,"
-    publishedDateTime: 2021-06-04T14:28:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/04/chris_hayes_the_dangers_of_trumps_big_lie_and_republicans_actually_believing_it.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 60
-    images:
-      - url: "https://assets.realclear.com/images/54/541227.png"
-        width: 500
-        height: 375
+      - url: "https://images.wsj.net/im-353407/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "lIf70gtxLmeuYBbi61fiBLRyeTny/DKqyTznadiM8LkBsGx9cRJXbZmelO5m93TFnl2+hzHfy/q/FSOYE142CELmcsMj8s0obQ0g754XyUDsaElclpQILuc9HHQ6KlPWXxvfUrpNSB1iMLaqximYrnF6DmsiAfg3Sd8Q+4CFJib4gllctZXbtdOEwZf0e5v7Dlh6z3dD4qHE4CyYPiqKJSl93Vp5o5fffNEDxK7NVdnG6VUwtvYAaDBlDnyker+zTx0BzcBcwks31sPQRjk+c7EOsmR3pssg7AM15DgB8xVJuqGKm/6F1s48Y0SXiHXm433p+Zt51EcMhBDlWlu85v+L2u/CKaqbg2tUurZ2bmA=;mySbU1cG/lI6xi+AqmoQyQ=="

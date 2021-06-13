@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "3 takeaways from President Joe Biden's first G7 summit"
+    excerpt: "When President Joe Biden and his aides were planning his visit to the Cornish coast this weekend, many -- including the President -- viewed it as something of a homecoming.\n    \n"
+    publishedDateTime: 2021-06-13T18:39:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZrmIZbqN_k8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/13/politics/takeaways-from-biden-at-the-g7/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/13/politics/takeaways-from-biden-at-the-g7/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210613101951-03-joe-biden-g7-summit-06-13-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden is at the G7 meeting of world leaders. Here's what to know about it"
     excerpt: "President Joe Biden's first trip abroad since taking office includes a G7 summit where he'll look to reestablish US leadership on the world stage.\n    \n"
     publishedDateTime: 2021-06-11T04:00:20Z

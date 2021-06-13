@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/technology/557523-biden-revokes-trump-exe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp"
 type: article
 quality: 140
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -214,6 +214,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Lawmakers preview Biden's summit with Putin"
+    excerpt: "Secretary of State Anthony Blinken and lawmakers on June 13 outlined the challenge President Joe Biden will face in his upcoming Geneva meeting with Russian President Vladimir Putin."
+    publishedDateTime: 2021-06-13T17:34:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/lawmakers-preview-bidens-summit-with-putin/2021/06/13/6dc26c50-d1c1-4878-a760-6af612e5041b_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-13-2021/t_4f2ab688b3a4495e97c2646e56f3c079_name_20210613_SundayShows_Putin_v1_Copy_01_00_03_16_18_Still014.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Trump Asks Biden For A Favor As He Meets With Russia’s Putin"
     excerpt: "Donald Trump on Thursday wished President Joe Biden luck and asked him for a favor ahead of his anticipated meeting with Russian President Vladimir Putin next week. In a statement, the former president asked Biden to send Putin his “warmest regards” and also warned him not to fall asleep during the meeting."
     publishedDateTime: 2021-06-11T00:55:00Z

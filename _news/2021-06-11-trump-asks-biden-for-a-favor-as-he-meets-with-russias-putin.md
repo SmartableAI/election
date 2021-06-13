@@ -230,6 +230,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Lawmakers preview Biden's summit with Putin"
+    excerpt: "Secretary of State Anthony Blinken and lawmakers on June 13 outlined the challenge President Joe Biden will face in his upcoming Geneva meeting with Russian President Vladimir Putin."
+    publishedDateTime: 2021-06-13T17:34:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/lawmakers-preview-bidens-summit-with-putin/2021/06/13/6dc26c50-d1c1-4878-a760-6af612e5041b_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-13-2021/t_4f2ab688b3a4495e97c2646e56f3c079_name_20210613_SundayShows_Putin_v1_Copy_01_00_03_16_18_Still014.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Biden gives video address to graduating Parkland students"
     excerpt: "President Joe Biden has told graduating seniors who were freshmen when a mass shooting left 17 people dead at their Florida high school that they've turned pain into purpose and darkness into light"
     publishedDateTime: 2021-06-09T01:00:00Z
