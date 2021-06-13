@@ -3,8 +3,8 @@ category: news
 title: "Meghan McCain: VP Kamala Harris \"Sounded Like A Moron\" Talking About The Border"
 excerpt: "The View' co-host Meghan McCain criticized Vice President Kamala Harris for sounding \"like a moron\" when she talked about the border in an interview with NBC 'Nightly News' host Lester Holt. \"Vice President Harris was in Guatemala this week telling people seeking asylum in the U."
 publishedDateTime: 2021-06-12T23:40:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
 type: article
@@ -709,7 +709,7 @@ related:
   - title: "Kamala Harris Is in a Really Tough Spot"
     excerpt: "Vice President Kamala Harris learned that three little words can cause a lot of damage. On her first vice presidential trip abroad, Harris stoked controversy when she spoke at a news conference in Guatemala and told potential migrants,"
     publishedDateTime: 2021-06-11T10:59:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html"
+    webUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html#!"
     type: article
     provider:
       name: RealClearPolitics
@@ -739,6 +739,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "BkfRUyJ+78wb9XSoh2M35tVGE0ctqCbSlUWT1LdnzPScH+kQx6+rJ4nsjegWcUNzkCgaH7sVb3pkGDaedG2JZT5ZgRrpwJi0o1TMNkwtDrg3Rs2hZnBn5CKie0I9360a0xjpvc1fRQjdqkkfKvQwloROYsoe/vxzzB5la6hpR/Y3jYc/ZNRPMc7R1zXjxl/HIanj5PtGPhOHn2dtic95Pw602ksVgUUdRkmpUsB2wPnKGczRnkMMmB2nDSMFHGHsXlh08UITtK7MqBpLVeCjCLnaFeFAFemwPBE87cu00MuBp5AN9Ct7sweY7/2mr9hvl+0e0wx3RIxsojmPwdVaR/f8R593Qka/TGMcXammLQRukNuUuFd7dLq/lpLU4oiX7FMKtoekgsv8UbLSyOMJp/zX1oRkC3dT8jiQHb5CK8KWRbzMgbSdegAROoxx1zb1ax3MTkm2LoPw3n1CknUFF/ZiuScd/FtCBucla9xvEOYzA0Ym7fGacQZQar5kiqkwm1QZxK08tZ3Ls95qIijkHA==;mmvwmyQVKWnaWMZivy5bTQ=="
+secured: "hDzdhX35FszPcIHJanvt380gl+l81aHzHNgctrP7fse3Ocsooqp7uJ/qkicUE586wvWSLMvOAASou5o8VUAjNUyYEOhWOIE0HVLPqjU2UgK+874uwBM7JjW4lnt4jbeQRBE/7YPMd2TGbJp7uzZKDOyJfm2G93d4wR6D9+A+mg7N5PpI5bJGeFGoPY3frKMsOHnFA7WycyLUYdkQtViKO+XshpQyEbqsoR2rqdMNTKe2GTWAD+Ioo+Lo8zPueiEUXh8O5XJ1fJdpDN8JM1uiW26wV3u2eXWRIJ4jKbGYmV9DboyziVVyJ/PHlwgAV90F6CjhwuvpZ3IJTowXvBHUqXO7AykXI3dhQmjXSp1OCfo=;iGHdZ8mHRP4D7dqAaoWs1w=="
 ---
 

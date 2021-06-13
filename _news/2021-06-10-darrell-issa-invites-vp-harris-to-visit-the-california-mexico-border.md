@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris’ Secret Service agent 'clearly not happy' about VP's Pride walk: Twitter users react"
+    excerpt: "Vice President Kamala Harris made a surprise appearance at the Pride event in Washington on Saturday but it was one of her protectors who drew the attention of many Twitter users."
+    publishedDateTime: 2021-06-13T08:27:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OxhjRJuueYw/kamala-harris-secret-service-agent-clearly-not-happy-about-vps-pride-walk-twitter-users-react"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-secret-service-agent-clearly-not-happy-about-vps-pride-walk-twitter-users-react.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-secret-service-agent-clearly-not-happy-about-vps-pride-walk-twitter-users-react.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e163aed-58db-4cea-bff2-b1371f809cf5/1321966e-4395-4baa-87c3-dd4c8b196029/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "RMkvSLrRd34M4r8T+PV4VMbH3eUic8EZCLiwJp0s1mAGMO/tPrhlLcEQlyRF2n63kqyzbwj09GV5YkPy4+mhEqiI6SZqCppzBW7OcWJ0CGFxJLPEQtMQaIhr36oauAgPJVwng61ajy9bd6El32v/lCJlfAhSRXX87G/nUZmFR9jLaMbgcVpdH0OinOM7S8awFMmW7XDYBcHiHRC9mY8UIxKMPr7Z6B89/ulyBBAhd+XKrGpvzu7X0E06ww/FMtOPBFP6Vup6aN0jnHdkUmzvFaqBvE7zGnCumdxPWaypEJXPr375vctFu3kVxeBrCQsAAqH2KT3MOWhrg7Qbt0FehnM8ephuUcz+87hQULNMMp8=;1bnBKPk0nf2RUqQ+V5L+lw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-plane-technical-issue
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-plane-technical-issue.amp"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 185
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a06c3e8-07d4-4028-8cda-ac831fb0e9ed/71019407-6622-4990-9ce2-6b99f8faec32/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris’ Secret Service agent 'clearly not happy' about VP's Pride walk: Twitter users react"
+    excerpt: "Vice President Kamala Harris made a surprise appearance at the Pride event in Washington on Saturday but it was one of her protectors who drew the attention of many Twitter users."
+    publishedDateTime: 2021-06-13T08:27:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OxhjRJuueYw/kamala-harris-secret-service-agent-clearly-not-happy-about-vps-pride-walk-twitter-users-react"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-secret-service-agent-clearly-not-happy-about-vps-pride-walk-twitter-users-react.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-secret-service-agent-clearly-not-happy-about-vps-pride-walk-twitter-users-react.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e163aed-58db-4cea-bff2-b1371f809cf5/1321966e-4395-4baa-87c3-dd4c8b196029/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
