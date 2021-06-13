@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-12-trump-lost-40-million-on-his-scottish-golf-clubs-by-failing-to-implement-a-very-basic-financial-practice-say-experts.md",
+      "title": "Trump lost $40 million on his Scottish golf clubs by failing to implement a very basic financial practice, say experts",
+      "excerpt": "Trump's failure to hedge loans he made to his Scottish golf courses may have cost him tens of millions of dollars in recent years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6",
+      "originalUrl": "https://www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/605718b7cad7d300183f8350?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6?amp",
+      "publishedDateTime": "2021-06-12T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-special-report-trump-inspired-death-threats-are-terrorizing-election-workers.md",
       "title": "Special Report: Trump-inspired death threats are terrorizing election workers",
       "excerpt": "Late on the night of April 24, the wife of Georgia’s top election official got a chilling text message: “You and your family will be killed very slowly.”",
@@ -517,7 +569,7 @@
       "originalUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
       "featuredContent": null,
       "highlight": null,
-      "heat": 440,
+      "heat": 460,
       "tags": null,
       "images": [
         {
@@ -1516,63 +1568,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-arizona-republican-who-ordered-election-audit-touted-trump-phone-call-giuliani-support-in-emails.md",
-      "title": "Arizona Republican who ordered election audit touted Trump phone call, Giuliani support in emails",
-      "excerpt": "Karen Fann, the state Senate president, also told a constituent that \"Biden won,\" according to the messages obtained and released by a watchdog group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/arizona-republican-who-ordered-election-audit-touted-trump-phone-call-n1269718",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/arizona-republican-who-ordered-election-audit-touted-trump-phone-call-n1269718",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480512/210604-arizona-maricopa-audit-ac-702p.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1269718",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269718",
-      "publishedDateTime": "2021-06-04T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

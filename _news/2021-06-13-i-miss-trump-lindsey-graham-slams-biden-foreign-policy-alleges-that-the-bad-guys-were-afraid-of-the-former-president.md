@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Biden gives video address to graduating Parkland students"
-excerpt: "President Joe Biden has told graduating seniors who were freshmen when a mass shooting left 17 people dead at their Florida high school that they've turned pain into purpose and darkness into light"
-publishedDateTime: 2021-06-09T01:00:00Z
-originalUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students"
-webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students"
-ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students?_amp=true"
-cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students?_amp=true"
+title: "'I miss Trump': Lindsey Graham slams Biden foreign policy, alleges that the 'bad guys were afraid' of the former president"
+excerpt: "During an appearance on Fox News's \"The Ingraham Angle,\" Graham alleged that Biden is not pushing back forcefully against China and Russia."
+publishedDateTime: 2021-06-12T19:55:00Z
+originalUrl: "https://www.businessinsider.com/lindsey-graham-misses-donald-trump-bemoans-biden-foreign-policy-2021-6"
+webUrl: "https://www.businessinsider.com/lindsey-graham-misses-donald-trump-bemoans-biden-foreign-policy-2021-6"
+ampWebUrl: "https://www.businessinsider.com/lindsey-graham-misses-donald-trump-bemoans-biden-foreign-policy-2021-6?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lindsey-graham-misses-donald-trump-bemoans-biden-foreign-policy-2021-6?amp"
 type: article
-quality: 75
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/a3003ce/2147483647/strip/true/crop/5000x3266+0+34/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F03%2Fd8980eef5077f563a7450d9cba6b%2F46e40697465a4e198d72507c74e85165"
-    width: 320
-    height: 209
+  - url: "https://i.insider.com/60c4d4c323393a00188e2d2e?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -183,22 +187,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "'I miss Trump': Lindsey Graham slams Biden foreign policy, alleges that the 'bad guys were afraid' of the former president"
-    excerpt: "During an appearance on Fox News's \"The Ingraham Angle,\" Graham alleged that Biden is not pushing back forcefully against China and Russia."
-    publishedDateTime: 2021-06-12T19:55:00Z
-    webUrl: "https://www.businessinsider.com/lindsey-graham-misses-donald-trump-bemoans-biden-foreign-policy-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/lindsey-graham-misses-donald-trump-bemoans-biden-foreign-policy-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lindsey-graham-misses-donald-trump-bemoans-biden-foreign-policy-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/60c4d4c323393a00188e2d2e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Fact Check-Donald Trump remains suspended from Facebook and Instagram"
     excerpt: "Claims that former President Donald Trump has returned to Facebook and Instagram after being banned months ago are false. Representatives from Facebook, the parent company of Instagram, confirmed in an email to Reuters the former president remains off both platforms."
     publishedDateTime: 2021-06-04T18:55:00Z
@@ -225,6 +213,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/us-president-donald-trump-shocked-many-with-his.jpg"
         width: 1024
         height: 717
+        isCached: true
+  - title: "Biden gives video address to graduating Parkland students"
+    excerpt: "President Joe Biden has told graduating seniors who were freshmen when a mass shooting left 17 people dead at their Florida high school that they've turned pain into purpose and darkness into light"
+    publishedDateTime: 2021-06-09T01:00:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-06-08/biden-gives-video-address-to-graduating-parkland-students?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 75
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/a3003ce/2147483647/strip/true/crop/5000x3266+0+34/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F03%2Fd8980eef5077f563a7450d9cba6b%2F46e40697465a4e198d72507c74e85165"
+        width: 320
+        height: 209
         isCached: true
   - title: "President Joe Biden returns to the White House"
     excerpt: "U.S. President Joe Biden gets into a limo after stepping off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
@@ -261,6 +265,6 @@ related:
       domain: indystar.com
     quality: 16
 
-secured: "isZYoPxl5EBFvsiKW4Tq9e1RhCZQiD+FOPyDu9wjXHrLsHyksFYO6EnKnjwUDMazLdE/EaYLqQWX/rAojDFa07bTi1ejjAkUQfG6TZJXohPQN9DVSiCBuPaUOtEhCpcB+WobrzYUGPLFnQPGzgjNRD6jEZcqzMG5KRify5qNrGY8B8HbobSbT12MqP8DFGEI+AOfYHX+7i5H0D7FAgYvRcKMmg96vIwYZAKeOujFgKURcAVcpXcUk+fDuZrErcXMG2LF4FTckCTtBMcggs+5o02+VXANvcDk7IojQr5X5K74G7kN418kJBubU/RhHMn/oQkYZ2+LPZii7tqRnhVRvYvWCsePjpEcjgLXyq95aZA=;/pGnq4xaBGfa0oU+7lYVKA=="
+secured: "3mNzcUJ0fHSgBVtsFW7bxu4nuTV/6C8pyowbI00qrj5gHw8UqwJz59cZ2qxwKcZlgT78ZEIgCovC8LFCxlV6hRddBHKpKxru45lPHPkgCymeR5THprNVJOc2jRBGPNYBSwUVS1ITyMnSb0B52OSTjzB22Ir7XTk8vGfzmuKLv1SGllf5stvCVYy1vmjPjoLX8OXydjC+VZK2d/edcnrdI7+0+6yda/ZIE8jVNTP16uWDFbBOc/mi8gpZ7bbzs5v2dXNHosJwEJMps0zTDXqfvW03EF9zbica9UomKIZ0/rr5c6oBy2K3mg+6zVxucrXh8fTYYn9CaZrtbf3W9cbTA430vH9L8V5jVSbhPxIs1os=;QjcRg854IrqzKjo+/N9GiA=="
 ---
 

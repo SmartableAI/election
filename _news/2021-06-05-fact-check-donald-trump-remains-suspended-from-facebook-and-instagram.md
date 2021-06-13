@@ -181,6 +181,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "'I miss Trump': Lindsey Graham slams Biden foreign policy, alleges that the 'bad guys were afraid' of the former president"
+    excerpt: "During an appearance on Fox News's \"The Ingraham Angle,\" Graham alleged that Biden is not pushing back forcefully against China and Russia."
+    publishedDateTime: 2021-06-12T19:55:00Z
+    webUrl: "https://www.businessinsider.com/lindsey-graham-misses-donald-trump-bemoans-biden-foreign-policy-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/lindsey-graham-misses-donald-trump-bemoans-biden-foreign-policy-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lindsey-graham-misses-donald-trump-bemoans-biden-foreign-policy-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/60c4d4c323393a00188e2d2e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Asks Biden For A Favor As He Meets With Russia’s Putin"
     excerpt: "Donald Trump on Thursday wished President Joe Biden luck and asked him for a favor ahead of his anticipated meeting with Russian President Vladimir Putin next week. In a statement, the former president asked Biden to send Putin his “warmest regards” and also warned him not to fall asleep during the meeting."
     publishedDateTime: 2021-06-11T00:55:00Z

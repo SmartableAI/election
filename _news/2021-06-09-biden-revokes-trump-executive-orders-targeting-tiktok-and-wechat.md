@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/technology/557523-biden-revokes-trump-exe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp"
 type: article
 quality: 140
-heat: 440
+heat: 460
 published: true
 
 provider:
@@ -170,6 +170,22 @@ related:
       - url: "https://media.npr.org/assets/img/2021/06/08/ap_20295746395355_wide-0bac69349f777885aa0bd9a95d46a3faa03dc025.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "'I miss Trump': Lindsey Graham slams Biden foreign policy, alleges that the 'bad guys were afraid' of the former president"
+    excerpt: "During an appearance on Fox News's \"The Ingraham Angle,\" Graham alleged that Biden is not pushing back forcefully against China and Russia."
+    publishedDateTime: 2021-06-12T19:55:00Z
+    webUrl: "https://www.businessinsider.com/lindsey-graham-misses-donald-trump-bemoans-biden-foreign-policy-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/lindsey-graham-misses-donald-trump-bemoans-biden-foreign-policy-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lindsey-graham-misses-donald-trump-bemoans-biden-foreign-policy-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/60c4d4c323393a00188e2d2e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Fact Check-Donald Trump remains suspended from Facebook and Instagram"
     excerpt: "Claims that former President Donald Trump has returned to Facebook and Instagram after being banned months ago are false. Representatives from Facebook, the parent company of Instagram, confirmed in an email to Reuters the former president remains off both platforms."
