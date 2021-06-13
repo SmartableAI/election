@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden mutters he'll 'get in trouble with my staff' for taking extra question"
+    excerpt: "President Biden joked when taking questions at a press conference Sunday following the G-7 summit, claiming that his staff will be upset with him if he does not conduct the event as they want him to."
+    publishedDateTime: 2021-06-13T17:50:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z5GoQ9GILW8/biden-g-7-press-conference-in-trouble-with-my-staff-extra-question"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-g-7-press-conference-in-trouble-with-my-staff-extra-question.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-g-7-press-conference-in-trouble-with-my-staff-extra-question.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden assures Zelensky he will 'stand up firmly' for Ukraine's sovereignty in Putin summit"
     excerpt: "President Biden told Ukrainian President Volodymyr Zelensky on Monday that he will “stand up firmly” for Ukraine’s sovereignty during his meeting with Russian President Vladimir Putin next week, while extending an invitation to the White House later this summer."
     publishedDateTime: 2021-06-07T19:11:39Z

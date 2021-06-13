@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden mutters he'll 'get in trouble with my staff' for taking extra question"
+    excerpt: "President Biden joked when taking questions at a press conference Sunday following the G-7 summit, claiming that his staff will be upset with him if he does not conduct the event as they want him to."
+    publishedDateTime: 2021-06-13T17:50:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z5GoQ9GILW8/biden-g-7-press-conference-in-trouble-with-my-staff-extra-question"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-g-7-press-conference-in-trouble-with-my-staff-extra-question.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-g-7-press-conference-in-trouble-with-my-staff-extra-question.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "uCYtWacWNCEPhNGxVKtmUbMr+87cYiUmxeJedqf/9BuH9rRx8nv52gnM7Y3qKfBwJQO5zljQDXCzDH6GTAzIzhoJrsMq+rZOu3pqs3+YXbAoK5EJJMq4GMpcLI/B752VMZVSumIjtYC5XWxlL22Tz2kGoKPWyhRstAuAFQ1YpyTyEe1Xn3QyyubZYAQOSEVa+SXj29TQHNRCFIXK9bTegObdVp3r/nD8YLz9PlHZRpXXKfzyoyudMn0XPpaEGh3MR8Oj51tZY+56d97aEPF1SCWbNcVWonf+DUqLUHOpQWz5I3RfXf4i5cYHtIAbb6OwBy6jRBjmQORPkLPaQVUKiFybs6ZmuaSphsU+VQEBNQo=;kCz06O1yelT6TqYoaN13tw=="
 ---

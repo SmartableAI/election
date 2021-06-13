@@ -125,8 +125,8 @@ related:
         isCached: true
   - title: "G7 summit: Boris Johnson praises Joe Biden as ‘breath of fresh air’ after talks – as it happened"
     excerpt: "Latest updates: prime minister welcomes US president’s desire to work with UK on issues such as security and climate crisis"
-    publishedDateTime: 2021-06-10T17:13:00Z
-    webUrl: "https://www.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7?page=with:block-60c2518f8f0854de4ba6c9c6"
+    publishedDateTime: 2021-06-10T18:13:00Z
+    webUrl: "https://www.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7?page=with:block-60c24e488f08a0e572330d3c"
     ampWebUrl: "https://amp.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7"
     type: article
@@ -230,6 +230,6 @@ related:
         height: 576
         isCached: true
 
-secured: "H7hmwr8GEUwdFkylyMhPrh7alLIQY9joYICRSzMWxzf1WIO35kDM4bF0rtpAh3jXueWUzXB43AETYMuE50Q8IbHEg03dkxdUO80Pzk020ppdkLs0HPfSPTi6WvYGYOA7hSQJBwa7T21R4iLRdtYy4iJSdTBa6VWnbywrfgMUmOyf0LbLwvgK3lVFuOGTqEBSOwtSDGP5Xe2uW6Y9MUuguwVnRyMxAjJ0tcZDktOzIfd1MnIwWt/uYcmAvBM3WYJjnu+eY7k5DhwkX4OH8nYF1cWQiF1qp6+ZvLn7Za84RLQj5T8xM7iv38InlbMZAzfJ3kNL2FudgEiZ7Rm2j0vzCivGaVRjLrDR3Fz80KvDq8M=;raL6OJWjPksGq1i95CECQA=="
+secured: "RMzFUDDA9pL/kDSX2pGu92ADXrxLogwWjMdpVpG7AsjP7cScbQidpIBi9OU/neFXEPQXDcCd7ZVKLJElxRICTvgLViz94KSnjJULUp/IWIjbp8vW5jvEEIt2sJT840BezEY1UQu9wd3Jj7hzSuHfjW0Bnc83mu+vEHi3WIrD3FUQJNaLzFTlHwEH3mYWB2ZreC1UQIAdNjGEZjQ1fx06vTk5p3qo+AFoAsAyuqEQClTuphgUwPRjF3J5BH7xEg8mN/YpFMWiipW1y03HNYpHHbhxMcvh33KJSE8sStowTsa2+QKxWn55BHX+0FZ4zLJ/eH3HzHRSkMui/S6kLxDetNiq595AuLTFj9RU05OqQccmFXMp52vUi+CnRpEb+W8mdnmlhC5wiwt+mnN3uWoe9PhiY6JOBu912F6p9aCm0Q+zOYRGzuIBE04gOb3SEEF7eOvfel8uPfxURKfbCe9lJGFJ8VVNtIYRfUcK62/G6ZgSeN3KqaUzXkJ+pklgpHGXuME7622W8eRs1TVWnhAySw==;sz4O9yi6uBWgqToJu6e0PQ=="
 ---
 

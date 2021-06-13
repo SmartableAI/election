@@ -2,9 +2,9 @@
 category: news
 title: "G7 summit: Boris Johnson praises Joe Biden as ‘breath of fresh air’ after talks – as it happened"
 excerpt: "Latest updates: prime minister welcomes US president’s desire to work with UK on issues such as security and climate crisis"
-publishedDateTime: 2021-06-10T17:13:00Z
-originalUrl: "https://www.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7?page=with:block-60c2518f8f0854de4ba6c9c6"
-webUrl: "https://www.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7?page=with:block-60c2518f8f0854de4ba6c9c6"
+publishedDateTime: 2021-06-10T18:13:00Z
+originalUrl: "https://www.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7?page=with:block-60c24e488f08a0e572330d3c"
+webUrl: "https://www.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7?page=with:block-60c24e488f08a0e572330d3c"
 ampWebUrl: "https://amp.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7"
 type: article
@@ -234,6 +234,6 @@ related:
         height: 576
         isCached: true
 
-secured: "1JRT3ze7ekfYSWbZsK6BdzJcbOGJPODUlFEnE+hHo0qupEGDHV8aX6tVeRqrl3sUJt1hO/nqBx5tOAsM8Ga/GaJs425tt9NGKCJ3hOVwL0MVr1NmTxI/kCYGd5+nJqKatz9nOy8Pe+IJGmVUMtC7PNYLtwcArxkhxTHQspkqygDyjGXod2ndYO+lZz0fflYpTHx13kmWaydQEOCuZ3uJxyXpp/JxWPfBMzUN8sIO/Gip0ZNdEPkFeNAaX7enfHgaY44YvKR1RWu/nZRbAkUASYRqwEHQh5EUsD5qYVtbJ3wNWSs8aTaenvuCUWt6B7mPy/MQa4heOJaViJRbpyzsF+skwvbybz2AhPpaZNTvwJc=;aGm/aejaLQTTynPzKddWNQ=="
+secured: "umdp9R5aHL4/4lnfJXR+fdIHKK75DblUdTL7z/m4RK7N1/8ClLRt2YjZE2w14SaQfKaZe36O8pg+97PQ1HgiI75GfAy+M/yDZBQValB6bQcmgvH+mAiOf9WMTVd3478GHUoZtQm7Dkux8i3LCAsnjnmq0sNiAhTnVq6Ntg8BAzXL22Dag8m6ZSwxqc+E9l0tGAnYazeWFWO5HXPE+vc+d4nxjJ3PbAXH8iCw6kxpNfDUOD3O4uShlC0begstAjJOJNNEMvW5pBL5jQukQ0jU88irWqE10cZDmrCQu7fU0isEsvefYH6yIZkLvblem8FiaA4372jf4Xm3Fn7aR9fd+fbV7S2oaPOEupnvHmE4fxQ=;a7bXJmJnXflsmC791Bf/SA=="
 ---
 

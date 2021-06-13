@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "From Jill Biden to Melania Trump – why are women always sent to schools?"
+    excerpt: "Letter: Diane Reay wonders why female public figures are always sent to meet schoolchildren rather than to visit factories or laboratories"
+    publishedDateTime: 2021-06-13T15:09:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jun/13/from-jill-biden-to-melania-trump-why-are-women-always-sent-to-schools"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jun/13/from-jill-biden-to-melania-trump-why-are-women-always-sent-to-schools"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jun/13/from-jill-biden-to-melania-trump-why-are-women-always-sent-to-schools"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/4476dc40d1c90cbd76159fd80794d12b2af2d26c/0_207_5519_3313/master/5519.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0fdfd04cc122d3b91afb5f70bad7523e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden officials move to reinstate Alaska roadless rule, overturning Trump policy"
     excerpt: "The Biden administration prohibited road building in half of Alaska’s Tongass National Forest on xx, resurrecting 20-year old protections Donald Trump had stripped three months before leaving office."
     publishedDateTime: 2021-06-11T18:46:00Z

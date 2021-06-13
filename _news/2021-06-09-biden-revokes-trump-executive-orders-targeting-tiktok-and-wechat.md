@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/technology/557523-biden-revokes-trump-exe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp"
 type: article
 quality: 140
-heat: 460
+heat: 480
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 140
     images:
       - url: "https://i.guim.co.uk/img/media/3e414ae4f418b1fa5eadaca9addcc6c4e9dc8798/0_27_2679_1607/master/2679.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=980f1da8cf325779dffdd0834725fe8e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "From Jill Biden to Melania Trump – why are women always sent to schools?"
+    excerpt: "Letter: Diane Reay wonders why female public figures are always sent to meet schoolchildren rather than to visit factories or laboratories"
+    publishedDateTime: 2021-06-13T15:09:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jun/13/from-jill-biden-to-melania-trump-why-are-women-always-sent-to-schools"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jun/13/from-jill-biden-to-melania-trump-why-are-women-always-sent-to-schools"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jun/13/from-jill-biden-to-melania-trump-why-are-women-always-sent-to-schools"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/4476dc40d1c90cbd76159fd80794d12b2af2d26c/0_207_5519_3313/master/5519.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0fdfd04cc122d3b91afb5f70bad7523e"
         width: 600
         height: 360
         isCached: true

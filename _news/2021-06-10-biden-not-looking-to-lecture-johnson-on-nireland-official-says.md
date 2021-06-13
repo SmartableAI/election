@@ -127,8 +127,8 @@ related:
         isCached: true
   - title: "G7 summit: Boris Johnson praises Joe Biden as ‘breath of fresh air’ after talks – as it happened"
     excerpt: "Latest updates: prime minister welcomes US president’s desire to work with UK on issues such as security and climate crisis"
-    publishedDateTime: 2021-06-10T17:13:00Z
-    webUrl: "https://www.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7?page=with:block-60c2518f8f0854de4ba6c9c6"
+    publishedDateTime: 2021-06-10T18:13:00Z
+    webUrl: "https://www.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7?page=with:block-60c24e488f08a0e572330d3c"
     ampWebUrl: "https://amp.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/live/2021/jun/10/uk-covid-live-news-latest-updates-matt-hancock-pandemic-coronavirus-brexit-g7"
     type: article

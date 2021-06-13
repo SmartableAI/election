@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-05-20-obama-alleged-r-rated-criticism-of-trump-published-in-new-book-f-ing-lunatic.md",
+      "title": "Obama Alleged R-Rated Criticism Of Trump Published In New Book: 'F---ing Lunatic'",
+      "excerpt": "Former President Barack Obama had previously refused to speak out against Donald Trump after leaving the White House in 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390",
+      "originalUrl": "https://www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/10/exactly-four-years-ago-us-president-barack-obama.jpg",
+          "width": 1024,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390?amp=1",
+      "publishedDateTime": "2021-05-19T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-new-york-attorney-general-investigating-the-trump-organization-in-a-criminal-capacity.md",
       "title": "New York Attorney General \"investigating the Trump Organization in a criminal capacity\"",
       "excerpt": "New York Attorney General Letitia James launched a civil probe into the company in 2019, but that investigation \"is no longer purely civil in nature\"",
@@ -1262,58 +1314,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-val-demings-prosecutor-in-trumps-first-impeachment-trial-challenging-marco-rubio-for-senate-in-florida.md",
-      "title": "Val Demings, Prosecutor in Trump's First Impeachment Trial, Challenging Marco Rubio for Senate in Florida",
-      "excerpt": "Demings competing against Rubio as a Democrat could decide the control of the Senate. She previously considered campaigning for governor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/val-demings-prosecutor-trumps-first-impeachment-trial-challenging-marco-rubio-senate-florida-1592497",
-      "originalUrl": "https://www.newsweek.com/val-demings-prosecutor-trumps-first-impeachment-trial-challenging-marco-rubio-senate-florida-1592497",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1799712/rep-val-demings.jpg",
-          "width": 2500,
-          "height": 1673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/val-demings-prosecutor-trumps-first-impeachment-trial-challenging-marco-rubio-senate-florida-1592497?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/val-demings-prosecutor-trumps-first-impeachment-trial-challenging-marco-rubio-senate-florida-1592497?amp=1",
-      "publishedDateTime": "2021-05-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

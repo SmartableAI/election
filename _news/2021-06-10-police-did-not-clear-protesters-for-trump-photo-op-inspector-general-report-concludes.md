@@ -201,6 +201,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "REFILE-ANALYSIS-With Trump gone, NATO wages war on climate threat"
+    excerpt: "If the U.S. military were a nation state, it would be the world's 47th largest emitter of planet-warming greenhouse gases, a 2019 study found."
+    publishedDateTime: 2021-06-13T09:59:00Z
+    webUrl: "https://www.reuters.com/article/nato-summit-climate-idINL5N2NS2GU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINL5N2NS2GU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL5N2NS2GU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest"
     excerpt: "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it."
     publishedDateTime: 2021-06-11T23:35:00Z

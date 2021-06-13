@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden, first lady join Queen for tea at Windsor Castle"
+    excerpt: "President Biden and First Lady Jill Biden met with Queen Elizabeth II for tea at Windsor Castle on Sunday."
+    publishedDateTime: 2021-06-13T16:53:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BOIvBi5cIKs/biden-first-lady-queen-elizabeth-windsor-castle-g-7"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-first-lady-queen-elizabeth-windsor-castle-g-7.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-lady-queen-elizabeth-windsor-castle-g-7.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2f0e79b6-d58d-4752-b60a-4163de84fea1/b1ffe823-a3e2-4f47-a069-7eea02543382/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "9C0aTN3rW8PP/s0L67C+3t79J+ZwqHTo0BdSJHnp1pXzTVlxEZ96nrPZb0Gg6vIAwrMQfn8PA7ACGUlRiAs4gzyultf/Fu7ZbAWZqvSmolDBJz+x9W1WMdLGyBSnT2TWc8Y9wG1Fj+zNaW1axaqmkf/rYW+V0H2q+6l2dbfkWkg+EZBY4CBffbJfJ3KtG31L6JMsMqsbSuaUn87GHFzTSsxywEFy9l5fMjiigKDJ532eKJVGsgIhMPuBlSdKKjJT4l6Zmif99cXCNtCZrIQYK/5BXwJSeOWgFY2XaQhzR4+CKOeN4A34SgfyMk7tSRh/8kXDOy4YIOVHs6duivvTeS6o6TJx7JzcWqv2HW7ZBqg=;YXLWx7ZfNzpGfPpY9MrltA=="
 ---

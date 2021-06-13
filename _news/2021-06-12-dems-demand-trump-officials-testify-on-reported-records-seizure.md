@@ -187,6 +187,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "REFILE-ANALYSIS-With Trump gone, NATO wages war on climate threat"
+    excerpt: "If the U.S. military were a nation state, it would be the world's 47th largest emitter of planet-warming greenhouse gases, a 2019 study found."
+    publishedDateTime: 2021-06-13T09:59:00Z
+    webUrl: "https://www.reuters.com/article/nato-summit-climate-idINL5N2NS2GU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINL5N2NS2GU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL5N2NS2GU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
     excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
     publishedDateTime: 2021-06-09T22:57:00Z
