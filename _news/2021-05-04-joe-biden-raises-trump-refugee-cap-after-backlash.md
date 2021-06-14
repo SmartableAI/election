@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2930
+heat: 2950
 published: true
 
 provider:
@@ -1932,6 +1932,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/russian-president-vladimir-putin-and-us-president-joe.jpg"
         width: 1024
         height: 752
+        isCached: true
+  - title: "Biden To Rebuild 'Sacred' NATO Bond Shaken By Trump"
+    excerpt: "US President Joe Biden will seek to restore bonds of trust at NATO's first post-Trump summit on Monday, as leaders push to revitalise the alliance despite differences over dangers ahead. The allies will agree a statement stressing common ground on securing their withdrawal from Afghanistan,"
+    publishedDateTime: 2021-06-14T01:42:00Z
+    webUrl: "https://www.ibtimes.com/biden-rebuild-sacred-nato-bond-shaken-trump-3224930"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/13/nato-headquarters-on-the-eve-of-the-nato.jpg"
+        width: 1024
+        height: 627
         isCached: true
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"

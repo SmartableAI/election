@@ -1942,6 +1942,20 @@ related:
         width: 1024
         height: 752
         isCached: true
+  - title: "Biden To Rebuild 'Sacred' NATO Bond Shaken By Trump"
+    excerpt: "US President Joe Biden will seek to restore bonds of trust at NATO's first post-Trump summit on Monday, as leaders push to revitalise the alliance despite differences over dangers ahead. The allies will agree a statement stressing common ground on securing their withdrawal from Afghanistan,"
+    publishedDateTime: 2021-06-14T01:42:00Z
+    webUrl: "https://www.ibtimes.com/biden-rebuild-sacred-nato-bond-shaken-trump-3224930"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/13/nato-headquarters-on-the-eve-of-the-nato.jpg"
+        width: 1024
+        height: 627
+        isCached: true
   - title: "After blowback, White House says Biden will move to lift Trump-era refugee caps"
     excerpt: "The White House on Friday said President Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements."
     publishedDateTime: 2021-04-16T21:45:00Z

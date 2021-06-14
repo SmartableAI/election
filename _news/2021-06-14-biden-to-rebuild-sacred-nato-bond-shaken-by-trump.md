@@ -1,22 +1,20 @@
 ---
 category: news
-title: "US Senate votes to reinstate methane rules loosened by Trump"
-excerpt: "Congressional Democrats are moving to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields"
-publishedDateTime: 2021-04-29T12:38:00Z
-originalUrl: "https://www.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
-webUrl: "https://www.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
-ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+title: "Biden To Rebuild 'Sacred' NATO Bond Shaken By Trump"
+excerpt: "US President Joe Biden will seek to restore bonds of trust at NATO's first post-Trump summit on Monday, as leaders push to revitalise the alliance despite differences over dangers ahead. The allies will agree a statement stressing common ground on securing their withdrawal from Afghanistan,"
+publishedDateTime: 2021-06-14T01:42:00Z
+originalUrl: "https://www.ibtimes.com/biden-rebuild-sacred-nato-bond-shaken-trump-3224930"
+webUrl: "https://www.ibtimes.com/biden-rebuild-sacred-nato-bond-shaken-trump-3224930"
 type: article
-quality: 125
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/9028a5acafbbc71e738c040c43f59f5bac5873c9/0_274_8192_4915/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e8905907090ebd6c75b239f4e275576"
-    width: 600
-    height: 360
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/13/nato-headquarters-on-the-eve-of-the-nato.jpg"
+    width: 1024
+    height: 627
     isCached: true
 
 related:
@@ -830,6 +828,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6YEKLFH2YI6XKFHL5C53TPTMQ.jpg&w=1440"
         width: 1176
         height: 784
+        isCached: true
+  - title: "US Senate votes to reinstate methane rules loosened by Trump"
+    excerpt: "Congressional Democrats are moving to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields"
+    publishedDateTime: 2021-04-29T12:38:00Z
+    webUrl: "https://www.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+    ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9028a5acafbbc71e738c040c43f59f5bac5873c9/0_274_8192_4915/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e8905907090ebd6c75b239f4e275576"
+        width: 600
+        height: 360
         isCached: true
   - title: "What to expect from President Biden's address to Congress"
     excerpt: "President Biden will give his first address to a joint session of Congress tonight. CBS News political contributor Antjuan Seawright and former White House aide to President George H.W. Bush Joe Watkins joined CBSN with a look at what we can expect."
@@ -1932,20 +1946,6 @@ related:
         width: 1024
         height: 752
         isCached: true
-  - title: "Biden To Rebuild 'Sacred' NATO Bond Shaken By Trump"
-    excerpt: "US President Joe Biden will seek to restore bonds of trust at NATO's first post-Trump summit on Monday, as leaders push to revitalise the alliance despite differences over dangers ahead. The allies will agree a statement stressing common ground on securing their withdrawal from Afghanistan,"
-    publishedDateTime: 2021-06-14T01:42:00Z
-    webUrl: "https://www.ibtimes.com/biden-rebuild-sacred-nato-bond-shaken-trump-3224930"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/13/nato-headquarters-on-the-eve-of-the-nato.jpg"
-        width: 1024
-        height: 627
-        isCached: true
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"
     publishedDateTime: 2021-05-20T20:26:00Z
@@ -2124,6 +2124,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "j2ZxGrwWRyQmacxPU4vCQCoYGmXT9CUSCSJ7lf0rlJ2FewhzO/nYe3YDt6SwWfcAVfjnrf6xOFzvoB/VMjdlcVBVVvJm/8u/bN8UU5d53rHv3drb9EMULA+cCQsltdiF7Rv99AnnHIz0DJiPj/TQzgUdll1wjFCJzwCGMYozMmJ8WrRElhVYKgjHUjZTt3FTuF8jY5Mb4EbfYuj+HeJe8yKr5Na/zPxObToDCY/l3wxserLyAdROPChcPWpSK2+Z7JDEOXVapV+2MOMTsCxHlIYuqE7QXH2DNySjvs4BHocjQE2I6w86a1/6Bcl8MYLxOjh6gsFKc9MapHiKS70exjmHMNieVBLg2eMwF+VsRPU=;VG7VG3GDhWk7seYwDOKytQ=="
+secured: "jxrVYpATwDwrgN4ffMk536A+vc1b7bA5LmUK/8amnYIbYzEN35yjom53VmagyRRWuOZwmPkwSGAoyjklLbW1WyXhYgdbSbowLwL6+HURh/EWHhGva2CodeznIo5wKrTfDjeuN7wHE6d1/fu26EtS0RQRcqv0v3Gl9O2psi5a44AeSgex+0DnPd6EIIzQHLCPIOxc0P1/R6ptllQZWhsuayuZ2UfQno31SfTchs2zP929QTmNZZNX9/S43FPsZQ+8rkKgV75lnBkdEzsNsTd3m1HnWs5AoEz/sITX2CXzwuImftNuinnYl2EZrLzwlOE2S5QClyyU5Qr2GP7fVripxyOZvB73uHSw7Uam64sni9Y=;74JsaNQbw6qrNyeDWSMn2w=="
 ---
 
