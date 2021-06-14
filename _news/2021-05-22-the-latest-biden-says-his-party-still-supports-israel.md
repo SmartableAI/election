@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cea
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-eu-hails-gaza-cease-fire-calls-for-peace-talks/2021/05/21/12fb6d5c-ba17-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_35f7d122f04244f582f753f9a7d005ba_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Latest: Biden pays tribute at NATO’s 9/11 memorial"
+    excerpt: "President Joe Biden has paid tribute at NATO’s 9/11 memorial as he wraps up his meeting with members of the military alliance"
+    publishedDateTime: 2021-06-14T11:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-uk-nato-china-rival-russia-78263126"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-uk-nato-china-rival-russia-78263126"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-uk-nato-china-rival-russia-78263126"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f4ac78221ad745bd88c0755101e44a82_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

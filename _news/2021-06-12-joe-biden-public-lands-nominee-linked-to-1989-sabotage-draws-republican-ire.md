@@ -217,6 +217,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden says US allies 'shocked' by Capitol riot"
+    excerpt: "President Joe Biden says U.S. allies were \"shocked\" and \"surprised\" by the Jan. 6 insurrection at the U.S. Capitol, but they nevertheless are unconcerned about American leadership on the world stage."
+    publishedDateTime: 2021-06-14T21:23:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/14/biden-says-us-allies-shocked-capitol-riot/7693301002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/8e793528-cbe1-41e2-9822-e6e78628a018_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The Hill's Morning Report - Presented by Citizens' Climate Lobby - Biden floats infrastructure, tax concessions to GOP"
     excerpt: "Welcome to The Hill’s Morning Report. It is Friday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators."
     publishedDateTime: 2021-06-04T10:30:00Z
@@ -264,6 +278,20 @@ related:
       - url: "https://www.baltimoresun.com/resizer/e412vHahVzpumXEQYXGNDP7Lkts=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6NLKY7DP2OSSSWLTTXZGYLUIKY.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "President Joe Biden speaks following NATO summit"
+    excerpt: "President Joe Biden called Russian President Vladimir Putin a “worthy adversary” but declined to say how he’ll measure the success of the meeting in advance."
+    publishedDateTime: 2021-06-14T20:21:00Z
+    webUrl: "https://www.myhighplains.com/video/president-joe-biden-speaks-following-nato-summit/6718737/"
+    type: article
+    provider:
+      name: myhighplains.com
+      domain: myhighplains.com
+    quality: 55
+    images:
+      - url: "https://i2.wp.com/www.myhighplains.com/wp-content/uploads/sites/87/2021/06/GettyImages-1233398841-1.jpg?w=2000&#038;ssl=1"
+        width: 1024
+        height: 683
         isCached: true
   - title: "President Joe Biden calls on Republicans to boost $980B infrastructure offer; Democrats remain ready to go it alone"
     excerpt: "The White House on Monday called on Republicans to bump their recent $980 billion offer on an infrastructure package, noting President Joe Biden shaved his initial proposal by almost $1 trillion in a move to seal a historic investment in jobs,"

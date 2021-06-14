@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-14-biden-slams-republicans-while-on-foreign-soil-in-break-with-political-norms.md",
+      "title": "Biden slams Republicans while on foreign soil in break with political norms",
+      "excerpt": "President Biden blasted former president Donald Trump and Republicans during a press conference following a NATO summit in Brussels on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iq45gJORgtg/biden-trump-republicans-nato-foreign-soil",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iq45gJORgtg/biden-trump-republicans-nato-foreign-soil",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea2088a8-b920-4e3c-95f1-05694b3bb30e/c26df30c-94d0-41b3-9f77-10d6a4a2163c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp",
+      "publishedDateTime": "2021-06-14T14:50:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-biden-says-ukraine-hasnt-met-nato-membership-criteria.md",
+      "title": "Biden says Ukraine hasn't met NATO membership criteria",
+      "excerpt": "President Biden said Monday that Ukraine had yet to meet standards required to join NATO but would receive necessary support from the alliance amid rising tensions with Russia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8mryuzcEXPo/biden-ukraine-met-nato-membership-criteria-tensions-russia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8mryuzcEXPo/biden-ukraine-met-nato-membership-criteria-tensions-russia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea2088a8-b920-4e3c-95f1-05694b3bb30e/c26df30c-94d0-41b3-9f77-10d6a4a2163c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-ukraine-met-nato-membership-criteria-tensions-russia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ukraine-met-nato-membership-criteria-tensions-russia.amp",
+      "publishedDateTime": "2021-06-14T13:52:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-mcconnell-says-hell-block-bidens-supreme-court-nominee-in-2024-if-gop-controls-senate.md",
       "title": "McConnell says he'll block Biden's Supreme Court nominee in 2024 if GOP controls Senate",
       "excerpt": "Senate Minority Leader Mitch McConnell said Monday that he would block a Supreme Court nominee from President Biden in 2024 if Republicans are in the Senate majority – just as he did in 2016 after the death of late Justice Antonin Scalia.",
@@ -143,62 +255,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/house-republicans-impeachment-pro-trump-primary-challengers.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-impeachment-pro-trump-primary-challengers.amp",
       "publishedDateTime": "2021-06-14T03:09:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-live-updates-biden-arrives-in-brussels-for-nato-meeting-following-g-7-summit.md",
-      "title": "LIVE UPDATES: Biden arrives in Brussels for NATO meeting following G-7 summit",
-      "excerpt": "President Biden is set to participate in his first in-person North Atlantic Treaty Organization (NATO) summit on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k7ybYtO5ocE/live-updates-biden-nato-meeting",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k7ybYtO5ocE/live-updates-biden-nato-meeting",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eda38c1-0b23-48e5-b081-f60e524c1b76/0d6b9e13-d9bd-48db-9a75-bed6463a3e52/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-nato-meeting.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-nato-meeting.amp",
-      "publishedDateTime": "2021-06-14T00:13:34-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -783,7 +839,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 310,
+      "heat": 330,
       "tags": null,
       "images": [
         {
@@ -984,6 +1040,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-live-updates-g-7-summit-2021-kicks-of-friday-as-biden-meets-with-world-leaders.md",
+      "title": "LIVE UPDATES: G-7 summit 2021 kicks of Friday as Biden meets with world leaders",
+      "excerpt": "The 47th G-7 summit is set to commence today in the United Kingdom.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ElV9T712Wlo/live-updates-g-7-summit-2021",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cce6d6c1-0fe1-4f5f-8731-c7540b6bfd85/010d2956-348b-4e65-93fa-f4150af72ea5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
+      "publishedDateTime": "2021-06-11T01:42:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     },
@@ -1517,118 +1629,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/police-did-not-clear-lafayette-square-so-trump-could-pose-for-photo-with-the-bible-report-says.amp",
       "publishedDateTime": "2021-06-09T14:49:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-warns-climate-change-is-greatest-threat-to-us-security-this-is-not-a-joke.md",
-      "title": "Biden warns climate change is 'greatest threat' to US security: 'This is not a joke'",
-      "excerpt": "President Biden warned military servicemembers Wednesday that top Pentagon officials consider climate change to be the “greatest threat” to America’s national security in the coming years.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7M06ZqB3w-I/biden-climate-change-greatest-threat-us-security",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7M06ZqB3w-I/biden-climate-change-greatest-threat-us-security",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-climate-change-greatest-threat-us-security.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-climate-change-greatest-threat-us-security.amp",
-      "publishedDateTime": "2021-06-09T13:56:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-waiving-nord-stream-2-pipeline-sanctions-puts-us-at-competitive-disadvantage-gop-leader-mccarthy.md",
-      "title": "Biden waiving Nord Stream 2 pipeline sanctions puts US at 'competitive disadvantage': GOP leader McCarthy",
-      "excerpt": "House Minority Leader Kevin McCarthy, R-Calif., ripped President Biden’s decision to waive sanctions on the Russia-backed Nord Stream 2 pipeline, arguing the move would hurt the U.S. economy and geopolitical interests.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uei185eeHYA/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uei185eeHYA/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9effcbb3-b713-47d7-bef3-5aa43c57b4d4/9fa727a2-00b4-4232-a155-442dc4e5f534/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-waiving-nord-stream-2-pipeline-sanctions-mccarthy.amp",
-      "publishedDateTime": "2021-06-09T13:14:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

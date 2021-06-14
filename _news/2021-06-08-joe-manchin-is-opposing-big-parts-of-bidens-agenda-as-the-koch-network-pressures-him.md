@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden: Ukraine must clean up corruption to be admitted to NATO"
+    excerpt: "President Biden on Monday said Ukraine must still root out corruption before it can become a full member of the NATO alliance, something Ukrainian President Volodymyr Zelensky has pushed for."
+    publishedDateTime: 2021-06-14T21:19:00Z
+    webUrl: "https://thehill.com/homenews/administration/558376-biden-ukraine-must-clean-up-corruption-to-be-admitted-to-nato"
+    ampWebUrl: "https://thehill.com/homenews/administration/558376-biden-ukraine-must-clean-up-corruption-to-be-admitted-to-nato?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/558376-biden-ukraine-must-clean-up-corruption-to-be-admitted-to-nato?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidennato2_061421gett.jpeg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Biden meets Nato leaders and Turkish president Erdoğan – US politics live"
     excerpt: "President continues European trip with summit in Brussels – follow all the day’s politics news live"
     publishedDateTime: 2021-06-14T14:55:00Z

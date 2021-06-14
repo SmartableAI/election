@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden: Ukraine must clean up corruption to be admitted to NATO"
+    excerpt: "President Biden on Monday said Ukraine must still root out corruption before it can become a full member of the NATO alliance, something Ukrainian President Volodymyr Zelensky has pushed for."
+    publishedDateTime: 2021-06-14T21:19:00Z
+    webUrl: "https://thehill.com/homenews/administration/558376-biden-ukraine-must-clean-up-corruption-to-be-admitted-to-nato"
+    ampWebUrl: "https://thehill.com/homenews/administration/558376-biden-ukraine-must-clean-up-corruption-to-be-admitted-to-nato?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/558376-biden-ukraine-must-clean-up-corruption-to-be-admitted-to-nato?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidennato2_061421gett.jpeg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Manchin is opposing big parts of Biden's agenda as the Koch network pressures him"
     excerpt: "The Koch network has been actively pressuring Democratic Sen. Joe Manchin to oppose key legislative items linked to Biden's agenda."
     publishedDateTime: 2021-06-08T16:40:00Z

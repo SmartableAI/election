@@ -77,6 +77,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Biden pays tribute at NATO’s 9/11 memorial"
+    excerpt: "President Joe Biden has paid tribute at NATO’s 9/11 memorial as he wraps up his meeting with members of the military alliance"
+    publishedDateTime: 2021-06-14T11:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-uk-nato-china-rival-russia-78263126"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-uk-nato-china-rival-russia-78263126"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-uk-nato-china-rival-russia-78263126"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f4ac78221ad745bd88c0755101e44a82_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "U.S. state governors urge Biden to support Lockheed's F-35 jet"
     excerpt: "Governors of U.S. states that represent both political parties have written letters to President Joe Biden supporting the purchase of F-35 jets made by Lockheed Martin Co."
     publishedDateTime: 2021-05-27T17:56:00Z

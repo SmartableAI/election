@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-reaction-biden-d-day-an
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-reaction-biden-d-day-anniversary-snub.amp"
 type: article
 quality: 167
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Biden to designate Pulse nightclub as national memorial, renews gun control calls on mass shooting anniversary"
-    excerpt: "President Biden announced Saturday that he would designate Pulse nightclub, where 49 people were gunned down five years ago, a national memorial, as he again called on Congress to pass gun control legislation."
-    publishedDateTime: 2021-06-12T21:14:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsAAAfgmygw/biden-pulse-nightclub-national-memorial-gun-control-mass-shooting"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pulse-nightclub-national-memorial-gun-control-mass-shooting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pulse-nightclub-national-memorial-gun-control-mass-shooting.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "kqkN96rL21r3PE+8JcUq777+mxVI+Lajtg0LclOUWW9WP5Hj38PoJ2taicp+Ugkw0e7+rdMTGzITL4+KWrwKI1JOArK9BN42/Du+qGQgoso+EYO5lBaLsW0R4LUwAd8YIEESrh85u1eB2Favc2HYR3bgBnaG5BGDIrxmPc3veULuK1jEopU+mq4GtLqjZrbi4tuzRiYe8avzoj/Qc4T46sTiHZ/G9QGm2ZjRGMIMxp7pGO7UOmbwLCW22oWgerrDjrF6CW0bdMZGjRLPwjlJro3vnz5ZLHLj2/wU6DInPdi3v8ZMPlnYv4p+BCBDtYzTrq3ZWEHjW3sf6DoJCYvZW8BHMAZQBxgdVd5Nk5sTlHM=;vB0LNsGJHgQxjhTKdDnX8w=="
 ---

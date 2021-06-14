@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "LIVE UPDATES: Biden arrives in Brussels for NATO meeting following G-7 summit"
-    excerpt: "President Biden is set to participate in his first in-person North Atlantic Treaty Organization (NATO) summit on Monday."
-    publishedDateTime: 2021-06-14T07:13:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k7ybYtO5ocE/live-updates-biden-nato-meeting"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-nato-meeting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-nato-meeting.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eda38c1-0b23-48e5-b081-f60e524c1b76/0d6b9e13-d9bd-48db-9a75-bed6463a3e52/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "LIVE UPDATES: G-7 summit 2021 kicks of Friday as Biden meets with world leaders"
     excerpt: "The 47th G-7 summit is set to commence today in the United Kingdom."
     publishedDateTime: 2021-06-11T08:42:05Z

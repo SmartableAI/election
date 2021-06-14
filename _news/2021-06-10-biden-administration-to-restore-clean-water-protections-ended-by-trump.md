@@ -624,6 +624,22 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Biden, on a global stage, has harsh words on Trump."
+    excerpt: "Fielding questions at the end of a NATO summit, the American president accused his predecessor of “phony populism.”"
+    publishedDateTime: 2021-06-14T20:57:00Z
+    webUrl: "https://www.nytimes.com/2021/06/14/world/europe/biden-trump-populism-nato.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/14/world/europe/biden-trump-populism-nato.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/14/world/europe/biden-trump-populism-nato.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/14/world/14biden-overseas-press-conference/merlin_189236820_a1c2c3d4-8bf1-4016-8bd1-16322a5f9470-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden Aims to End Arctic Drilling. A Trump-Era Law Could Foil His Plans."
     excerpt: "The administration suspended leases that were auctioned in the waning days of the Trump White House. But a 2017 law requires another sale."
     publishedDateTime: 2021-06-02T21:16:00Z

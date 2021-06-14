@@ -640,6 +640,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden, on a global stage, has harsh words on Trump."
+    excerpt: "Fielding questions at the end of a NATO summit, the American president accused his predecessor of “phony populism.”"
+    publishedDateTime: 2021-06-14T20:57:00Z
+    webUrl: "https://www.nytimes.com/2021/06/14/world/europe/biden-trump-populism-nato.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/14/world/europe/biden-trump-populism-nato.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/14/world/europe/biden-trump-populism-nato.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/14/world/14biden-overseas-press-conference/merlin_189236820_a1c2c3d4-8bf1-4016-8bd1-16322a5f9470-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Garland looks like he's protecting Trump. But Biden could benefit bigly."
     excerpt: "Analysis: There's nothing new about the Justice Department protecting the executive branch and the president. That's good for the current president, too."
     publishedDateTime: 2021-06-12T17:48:00Z

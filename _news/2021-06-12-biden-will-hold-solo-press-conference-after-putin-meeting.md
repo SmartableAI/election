@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden calls Putin a 'worthy adversary' after Russian prez calls him 'career man'"
+    excerpt: "President Biden called Russian President Vladimir Putin a \"worthy adversary\" at a press conference following a NATO summit in Brussels on Monday — days after Putin praised former president Donald Trump and called Biden a \"career man\" in an interview."
+    publishedDateTime: 2021-06-14T20:23:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VmC0a5eS89w/biden-nato-putin-russia-meeting-ukraine-navalny"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nato-putin-russia-meeting-ukraine-navalny.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nato-putin-russia-meeting-ukraine-navalny.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea2088a8-b920-4e3c-95f1-05694b3bb30e/c26df30c-94d0-41b3-9f77-10d6a4a2163c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump to hit ‘timid and corrupt’ Biden on China in rare speech"
     excerpt: "President Donald Trump is expected to criticize President Joe Biden’s policy on China at a speech at the North Carolina Republican state convention."
     publishedDateTime: 2021-06-05T18:51:00Z
