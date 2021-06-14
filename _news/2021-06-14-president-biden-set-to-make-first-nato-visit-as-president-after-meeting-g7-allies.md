@@ -1,32 +1,33 @@
 ---
 category: news
-title: "Biden, Putin urged to seek nuclear breakthrough"
-excerpt: "U.S. and Russian arms control experts are pleading for steps to reduce the nuclear threat in the presidential summit. — A former Pentagon No. 2 has good things to say about the new defense budget, with one major caveat."
-publishedDateTime: 2021-06-08T14:00:00Z
-originalUrl: "https://www.politico.com/newsletters/morning-defense/2021/06/08/biden-putin-urged-to-seek-nuclear-breakthrough-795808"
-webUrl: "https://www.politico.com/newsletters/morning-defense/2021/06/08/biden-putin-urged-to-seek-nuclear-breakthrough-795808"
+title: "President Biden set to make first NATO visit as President after meeting G7 allies"
+excerpt: "President Joe Biden is set to participate in his first in-person North Atlantic Treaty Organization summit after taking office and reaffirm the United States' commitment to the military alliance.\n    \n"
+publishedDateTime: 2021-06-14T04:12:16Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oqyvASOwgIA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oqyvASOwgIA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/president-biden-nato-summit/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/president-biden-nato-summit/index.html"
 type: article
-quality: 115
+quality: 170
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-    width: 1120
-    height: 629
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210613085937-01-joe-biden-g7-summit-06-13-2021-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -107,22 +108,6 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610161934-01-g7-through-history-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "President Biden set to make first NATO visit as President after meeting G7 allies"
-    excerpt: "President Joe Biden is set to participate in his first in-person North Atlantic Treaty Organization summit after taking office and reaffirm the United States' commitment to the military alliance.\n    \n"
-    publishedDateTime: 2021-06-14T04:12:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oqyvASOwgIA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/president-biden-nato-summit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/president-biden-nato-summit/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210613085937-01-joe-biden-g7-summit-06-13-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -236,7 +221,21 @@ related:
         width: 2500
         height: 1669
         isCached: true
+  - title: "Biden, Putin urged to seek nuclear breakthrough"
+    excerpt: "U.S. and Russian arms control experts are pleading for steps to reduce the nuclear threat in the presidential summit. — A former Pentagon No. 2 has good things to say about the new defense budget, with one major caveat."
+    publishedDateTime: 2021-06-08T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/06/08/biden-putin-urged-to-seek-nuclear-breakthrough-795808"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
-secured: "Mx9/IvD0rMTbIXGiKJrYrgl8V/mFZf1t8s/99020glvZ24oF1Q1mkadCvK7AnnuvduuwyO/XK48um+uCeHuCWpB9m4uCB5WK1btif6CZEruL32iej/xiveFEiyqxYvt2Xw9enwN5j6NdifVN10DusJyAZmCnX9RozbdMEGcZ3yGgZDj+DyT0T6/hwpbhJmR1ILWxHbo+9CwzBLinjOhJxvKBn+4qQFBGU1mTAj7lz0XmzLoZVTVKF8sZSRAYEp9wmWa/jSKSejwDjV8yNZ/7hpAu2OtbTzNY95DiPph88AvwDRESc5KySpUTIK3qmxYjpwH6tzqvNaEvMfbT0Gx3k1UPJe8Q16ypMIjEOgb90Ow=;zK8XBAqcZlwiiHXxPjw0Rw=="
+secured: "jAucUL/WED1m/iTi8pQe3i7GYKo64FCVyzHkkcdFurfAfUKd1lj+ULFX3zeUmR5CkznQB0B0rirtpI+fEYvsRx3E2zqOgxmAp9l4T6Df/eHAx56LZMqeJMzPNGSBRRUakNp9ZLeH7nLkJfiZX0OabQp9A9XHzek/kZs6Tlp4NEuQbGsGgH2fPBTeGfu9n0s/OkdSDlfgDpfkGk4jimrIOI4dT/sXy0RipT2QgLd72AcajCwLGTTidX2kGpOZz1Nv9Nmm54aDNU/QxhduJEceAzVc2VXggXI1FP8LzpWqNlwZCA3JM8W4RabuE9czr2XiocvLRQDpFBeZIpjTNM+w3ey+o8lb056mvtvQNtFfQAE=;ue864S++N+Qn57gjuWg0WA=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Is in a Really Tough Spot"
 excerpt: "Vice President Kamala Harris learned that three little words can cause a lot of damage. On her first vice presidential trip abroad, Harris stoked controversy when she spoke at a news conference in Guatemala and told potential migrants,"
 publishedDateTime: 2021-06-11T10:59:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html"
+webUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html"
 type: article
 quality: 65
 heat: -1
@@ -739,6 +739,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "9Eliryg6520dITg2lloT8ATtl0SS4b6SvlWRQ6sw7X+SeLMa0pWx9IPdtqVw7WiTQhDx4w51LHmf/CsPWySKn9kH94McOaXZro+faAEwLUOE1iA0/exC9U2gUKMYx/MlkVYyu2hjKzKjIG4LeTa0RvjBMwMuwDh1SFfXh6K7rnmn22RizLe0KiX4QDqglayq1y250rh0LuTm8TyVPM2YmzuNq5qY3rDddXd1yDUJcMMM1rVtf2djkVgajarj1vGLaclzfuZqWXd318wjf3iex95FeOzP/NFA59vd2jxnvlUVRlKvs62tl6D/cI4hc5McqmVsr/K4JWlJP2o2gG8pKDvCG74rPO1wqi+stAJ2DpM=;XT++WEL0t75ZZ8SCgJEx4Q=="
+secured: "i23OAMlV0J20ABy/7XuTux6Z+fJX3zlszNNZ/wEmYXYaw6+vy7dtIfr5v39EjhtKMAiQrTTLVqTXaFF/5FENMH9COwhic1CpdVmCKG9eqOM/QocEGwRFucJLEt9gq3echjSUfcvpMVCoODNW1Ev2dus2WHgwbkokT5V0xfVWhgDBsZHXF6nWDVm5eGO3DKgLD9t/nZTKhh5QDjfmbVMZ+ozjUKMLzWdLHjfnRbnf6QM2ZNDYPpp2UjotMm27yCq7LxtmZap+ftpXMB5U/iUktZeb0vaxguH+TOZVD4B0j4j8G/3VswmKJluuNuDRZLVy0WgcnRS1iu8ZNY1s0V130pPN+fqL5dFy4Cp8qZ5cOf4=;iKblRUfJJfWGdv7CruNuVQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-bid
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-biden/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610161934-01-g7-through-history-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "President Biden set to make first NATO visit as President after meeting G7 allies"
+    excerpt: "President Joe Biden is set to participate in his first in-person North Atlantic Treaty Organization summit after taking office and reaffirm the United States' commitment to the military alliance.\n    \n"
+    publishedDateTime: 2021-06-14T04:12:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oqyvASOwgIA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/president-biden-nato-summit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/president-biden-nato-summit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210613085937-01-joe-biden-g7-summit-06-13-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

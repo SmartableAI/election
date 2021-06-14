@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "President Biden set to make first NATO visit as President after meeting G7 allies"
+    excerpt: "President Joe Biden is set to participate in his first in-person North Atlantic Treaty Organization summit after taking office and reaffirm the United States' commitment to the military alliance.\n    \n"
+    publishedDateTime: 2021-06-14T04:12:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oqyvASOwgIA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/president-biden-nato-summit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/president-biden-nato-summit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210613085937-01-joe-biden-g7-summit-06-13-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden poised to announce first slate of ambassador nominees as he eyes first trip abroad"
     excerpt: "President Joe Biden has made final decisions on several high-profile ambassador posts around the world and is poised to announce the first slate of nominees in the coming days as he prepares to set off on his first overseas trip since taking office.\n    \n"
     publishedDateTime: 2021-06-05T13:02:02Z

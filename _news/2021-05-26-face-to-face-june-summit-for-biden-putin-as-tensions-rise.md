@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/white-house-biden-to-meet-pu
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_f31c9f06758e48e98c1f2a10ec488122_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "At an arms control crossroads, Biden and Putin face choices"
+    excerpt: "At a low point in U.S.-Russian relations, President Joe Biden and Russian President Vladimir Putin appear to agree broadly on at least one thing, and that’s the need to set the stage for a new era in"
+    publishedDateTime: 2021-06-13T10:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/at-an-arms-control-crossroads-biden-and-putin-face-choices/2021/06/13/c2a297ac-cc3d-11eb-a224-bd59bd22197c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/at-an-arms-control-crossroads-biden-and-putin-face-choices/2021/06/13/c2a297ac-cc3d-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/at-an-arms-control-crossroads-biden-and-putin-face-choices/2021/06/13/c2a297ac-cc3d-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSX6YWWMGYI6XIREXVM32IQZPQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Joe Biden, Russia’s Vladimir Putin to meet next month for summit in Geneva"
     excerpt: "The two leaders’ scheduled meeting, set for June 16, is being tacked on to the end of Biden’s first international trip as president next month."

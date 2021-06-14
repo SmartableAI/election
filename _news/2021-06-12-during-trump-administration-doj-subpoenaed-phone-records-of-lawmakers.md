@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats demand testimony from Trump's attorneys general as media executives seek answers"
+    excerpt: "Democrats are demanding sworn testimony from Donald Trump's former attorneys general in an exploding scandal over secret seizures of communications records from top lawmakers and news organizations on the ex-President's enemies list.\n    \n"
+    publishedDateTime: 2021-06-14T04:00:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gbWlCR9E-6E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/justice-department-donald-trump-democrats-media/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/justice-department-donald-trump-democrats-media/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210613232123-department-of-justice-0611-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ex-WH counsel McGahn to testify behind closed doors about Trump efforts to obstruct Russia investigation"
     excerpt: "Former Trump White House counsel Don McGahn will testify before the House Judiciary Committee behind closed doors about then-President Donald Trump's attempts to obstruct the Russia investigation, the House and the Justice Department announced in a court filing Wednesday night.\n    \n"
     publishedDateTime: 2021-05-13T01:59:15Z
