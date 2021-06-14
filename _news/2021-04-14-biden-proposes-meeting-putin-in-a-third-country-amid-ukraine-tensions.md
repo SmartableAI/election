@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden preparing intensely for Putin's tactics with aides and allies"
+    excerpt: "President Joe Biden is using time away from summit meetings on his European tour this week for intense preparations ahead of his talks with Vladimir Putin, according to officials, as he works to avoid the pitfalls his predecessors faced in showdowns with the Russian leader.\n    \n"
+    publishedDateTime: 2021-06-14T13:28:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SKqHBChgZOo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/vladimir-putin-joe-biden-summit-preparations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/vladimir-putin-joe-biden-summit-preparations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614070505-joe-biden-05-nato-summit-06-14-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden ramps up vaccine diplomacy efforts as hopes rise that he'll share surplus doses"
     excerpt: "President Joe Biden, well on his way to reaching a new goal of vaccinating 200 million Americans by the end of April, is taking initial steps toward helping other nations ramp up shots, including by boosting global manufacturing and appointing a top global health expert who previously advocated for shipping"
     publishedDateTime: 2021-04-06T10:09:48Z

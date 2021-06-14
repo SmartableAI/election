@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-57394351.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57394351.amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden meets Nato leaders and Turkish president Erdoğan – US politics live"
+    excerpt: "President continues European trip with summit in Brussels – follow all the day’s politics news live"
+    publishedDateTime: 2021-06-14T12:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/20b12e7e37738aa35570b63111b636545db238db/0_52_3159_1896/master/3159.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b6e33b3e38ceca3ffcc768ad3b8f1fb4"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Manchin is opposing big parts of Biden's agenda as the Koch network pressures him"
     excerpt: "The Koch network has been actively pressuring Democratic Sen. Joe Manchin to oppose key legislative items linked to Biden's agenda."
     publishedDateTime: 2021-06-08T16:40:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris attends Capital Pride Celebration"
 excerpt: "Supporters greet Vice President Kamala Harris and Second Gentleman Doug Emhoff as they walk in the Capital Pride Celebration in Washington, DC on Saturday, June 12, 2021. Vice President Kamala Harris and Second Gentleman Doug Emhoff walked a few blocks,"
 publishedDateTime: 2021-06-12T18:17:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/fb611c1444b991699a488712307ca901/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/fb611c1444b991699a488712307ca901/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/e489fd1b2333c6ff7e50b43ab5e7e6e0/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/e489fd1b2333c6ff7e50b43ab5e7e6e0/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/fb611c1444b991699a488712307ca901/HARRIS-CAPITAL-PRIDE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/e489fd1b2333c6ff7e50b43ab5e7e6e0/HARRIS-CAPITAL-PRIDE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1010,6 +1010,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "AGIYkBytvqTM3Bs10KkMb1uUr4NI6QkmPdwnSg2XHs1YGgGWIEOUs/8jAIor1X4IRRO5kOWjOxNUeKj0kx9D53jgkWSiOctf5eRsQY8TPYK4dBdJYGH3KNWmUKl7qeA92cTRsh2bH+o8tOcWOX3jCXLg73a88ryuyaqZpd7HbRDuLToTihwk1QjfxuNEvSNYKMEIVji72kRqL3ghHm81qhwGUiPGH2esqTuY5wJnV/Pg9sez3xg0Xd9vLuNlPTkZFm/YI4glZ8Ih5/YDfCTwNkDcXNxev5W8TeHzwUaLNRTTV2spoWi/hAB/eZU8B6xOBBHk9HwmQUs2NS3dHfTN2aw2Qoflyemy/eGN5wB3cdo=;kjAfzai8aILm1CkT1iPxzw=="
+secured: "vnPY0//yLYCysW+QhN4jzcikTxv7v93sb6YI4AqrY+O/HH9coO0CPeYojzEa8vxzdpu7XJcsQr7Ao5cUxkhq2EplRf85MJntiP7FdP90iXkszRZTmjRewzFfFY+NlMOIXB+1eUaob+jtTHp9zExdAvhuWZcIvc4o9wZS4eV6eUub4lNSAaGbNzTpzjNGwGkfHEVubh3gJN+S04GfJbl5LhNww3aFsyRMfGnTxuPwLII2UUs3BKMylP6UFbgH9PrFSUAiDbIac4OfTVIcu8SbREAaQUHrPv3gcf9e3qm+3Ab0qhWsUWHkEz1HemK9a8MKnJjYU2wbF6PGMT7EJtFAfpShXr2bY6vzoigTMLIRjL8=;uVjyHNX38Iepq9rQi4PzGw=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden meets Nato leaders and Turkish president Erdoğan – US politics live"
+    excerpt: "President continues European trip with summit in Brussels – follow all the day’s politics news live"
+    publishedDateTime: 2021-06-14T12:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/20b12e7e37738aa35570b63111b636545db238db/0_52_3159_1896/master/3159.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b6e33b3e38ceca3ffcc768ad3b8f1fb4"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Is Joe Biden Making a 14th Grade? President Said 12 Years of Education No Longer Enough"
     excerpt: "A popular video released on June 1 on Instagram incorrectly said that Biden intends to extended high school education by four more years."
     publishedDateTime: 2021-06-11T15:55:00Z

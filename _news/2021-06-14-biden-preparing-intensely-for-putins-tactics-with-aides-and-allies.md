@@ -1,12 +1,12 @@
 ---
 category: news
-title: "These were Biden's campaign promises on the climate crisis"
-excerpt: "President Joe Biden has promised to act urgently on the climate crisis. His plans include returning the US to the Paris climate accord and working to move toward clean energy.\n    \n"
-publishedDateTime: 2021-04-20T19:00:59Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fANPAFuGQi0/joe-biden-on-the-climate-crisis-mh-orig.cnn"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fANPAFuGQi0/joe-biden-on-the-climate-crisis-mh-orig.cnn"
-ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/13/joe-biden-on-the-climate-crisis-mh-orig.cnn"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/13/joe-biden-on-the-climate-crisis-mh-orig.cnn"
+title: "Biden preparing intensely for Putin's tactics with aides and allies"
+excerpt: "President Joe Biden is using time away from summit meetings on his European tour this week for intense preparations ahead of his talks with Vladimir Putin, according to officials, as he works to avoid the pitfalls his predecessors faced in showdowns with the Russian leader.\n    \n"
+publishedDateTime: 2021-06-14T13:28:45Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SKqHBChgZOo/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SKqHBChgZOo/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/vladimir-putin-joe-biden-summit-preparations/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/vladimir-putin-joe-biden-summit-preparations/index.html"
 type: article
 quality: 175
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925174605-trump-v-biden-card-climate-crisis-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614070505-joe-biden-05-nato-summit-06-14-2021-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden preparing intensely for Putin's tactics with aides and allies"
-    excerpt: "President Joe Biden is using time away from summit meetings on his European tour this week for intense preparations ahead of his talks with Vladimir Putin, according to officials, as he works to avoid the pitfalls his predecessors faced in showdowns with the Russian leader.\n    \n"
-    publishedDateTime: 2021-06-14T13:28:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SKqHBChgZOo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/vladimir-putin-joe-biden-summit-preparations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/vladimir-putin-joe-biden-summit-preparations/index.html"
+  - title: "These were Biden's campaign promises on the climate crisis"
+    excerpt: "President Joe Biden has promised to act urgently on the climate crisis. His plans include returning the US to the Paris climate accord and working to move toward clean energy.\n    \n"
+    publishedDateTime: 2021-04-20T19:00:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fANPAFuGQi0/joe-biden-on-the-climate-crisis-mh-orig.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/13/joe-biden-on-the-climate-crisis-mh-orig.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/13/joe-biden-on-the-climate-crisis-mh-orig.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614070505-joe-biden-05-nato-summit-06-14-2021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925174605-trump-v-biden-card-climate-crisis-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,6 +128,6 @@ related:
         height: 2519
         isCached: true
 
-secured: "NPUHahCKDT0YeDLteuRRJZynTsvJ/sAy6I+5yuwUdRuU4HeqBWdo4SBjZWSTaLlUy+FHGmS6dFJyHV1sfulU2D89xO2Zn96FcjavHm2y+uNB8Qx3nIponAbQm6CsJ4DtfwIUVXAtYO5YH8GYEMoh3H7c8nHcVP10353pdt2OXC14o9/dEZUX9hj/hcTzpk6XSQpuqdTmuUD3gsGfPlAsfJaLiyO7QEcFBEslQnGorVj7d/bQpE46yHLyUfmqNtQ2nc036R44RPmFEatSSnhjo0H1ympWL6dLsSFP2x9+h5JRaZdO/i4NP7tx3Nab6Ko8LExwJvWBWV+WNvlaiejf/Ol05J6j/TpRJE8Yz+zJUtU=;3rd9PUEhvOaMqBssArakag=="
+secured: "V0i/AptPTC97ou4+I22KP6E8CRWcdEdYLC/du5EEA0whU4zD4rLuUADAnsWMupT00/Yr8pfm2FlsP7VlxBxS2VJ1FOCp2DKUVMW/GvX1exJuS2MyE20opR/UTmJ4oxTaRI0X86GS0ocvIJWe4EeG89xs3lYGzal2WeV+/gc0wOHhHWEJO4XVlsC1LKtGtr7ZDkY4HJ8OgVvQkn+1j7g0LasiSNJbuq1ee8N7h1geucs+wE0cjq2qamRpl+mfFHcwZVEy0CFgc1isee3cW7K9YMazKgtpISWfS4Nl/f1MvyH6apZD2s+r1RDxSe67K8SlGPJyNWeqdT5heV965DcmXvFPluFyJi4guhdZBLwamyU=;qfGrMIT5QAiGBIG+2YXrYg=="
 ---
 

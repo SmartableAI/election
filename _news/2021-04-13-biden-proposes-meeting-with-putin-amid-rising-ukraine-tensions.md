@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin-meeting-proposal/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925174605-trump-v-biden-card-climate-crisis-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden preparing intensely for Putin's tactics with aides and allies"
+    excerpt: "President Joe Biden is using time away from summit meetings on his European tour this week for intense preparations ahead of his talks with Vladimir Putin, according to officials, as he works to avoid the pitfalls his predecessors faced in showdowns with the Russian leader.\n    \n"
+    publishedDateTime: 2021-06-14T13:28:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SKqHBChgZOo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/vladimir-putin-joe-biden-summit-preparations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/vladimir-putin-joe-biden-summit-preparations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614070505-joe-biden-05-nato-summit-06-14-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

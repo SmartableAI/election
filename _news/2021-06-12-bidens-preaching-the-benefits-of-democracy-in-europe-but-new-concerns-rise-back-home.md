@@ -63,6 +63,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Jill Biden Models Love and Sustainability at the G7"
+    excerpt: "In her debut international trip as first lady, Dr. Biden played her part with style. Literally. By Vanessa Friedman The first Joe and Jill Biden American Outreach tour, a.k.a. the Group of 7 meeting in Britain,"
+    publishedDateTime: 2021-06-14T13:24:00Z
+    webUrl: "https://www.nytimes.com/2021/06/14/style/Joe-Jill-Biden-G7-style.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/14/style/Joe-Jill-Biden-G7-style.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/14/style/Joe-Jill-Biden-G7-style.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/14/us/14BIDEN-G7STYLE/14BIDEN-G7STYLE-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "829+i0s34S/1zxf3Eo8/ITAl++CgwpL02+kEyOtQ9T/57NGAZbjsue7lfeXqXdtoKUbEA0ri1+BvsnwKY+jDFbDz5cjFr56un4RbkOuWM1bwEfNxgMmgL44si+n2N9acXtCO+Op5WpvF/X4YmsN7SGYMbvga3CrMGjdcHxQwcnJHwCET9oG1RH73SVxcD4rna3f92KhFPNGsjACkTYOTcd4g+i5jQNxs3vLOzpLpI6Ozwfoewx8q6nNROQYWBEnMNUwQhBb1wMUcyTHvg1TZQdq3AQPckOSI9S/SHlrCVztVjNeUqUNLTXeSfAj/wgp0CIS4XYamV8N96GWF1ZB6X1yABZIiV7MCEFuQlxdLJ2k=;yZMiYHXq5W2fslnYmxMoGA=="
 ---
