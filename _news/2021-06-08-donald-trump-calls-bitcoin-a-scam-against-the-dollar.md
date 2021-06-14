@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-57392734.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/567/730/acdc3d07a3b8f3f8c2cc5bdc04de238abd-brian-kemp-trump.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "‘I was right’: Donald Trump sounds off"
+    excerpt: "Former President Donald Trump has offered a handy summary of recent political developments, investigations and media coverage which suggests his perceptions about certain matters were correct. Mr. Trump suggests that analysts and rivals are changing their tune about his time in office."
+    publishedDateTime: 2021-06-14T06:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/13/BELTWAY_Trump_35152.jpg-801f8_c0-0-4573-2667_s1200x700.jpg?cbe289b14c47a4339267b432674b9f5abf177ad6"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
     excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."

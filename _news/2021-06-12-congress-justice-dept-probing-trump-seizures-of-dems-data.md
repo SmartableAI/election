@@ -162,6 +162,22 @@ related:
         width: 1024
         height: 621
         isCached: true
+  - title: "DOJ under former President Donald Trump investigated Democrats in investigation Speaker Nancy Pelosi called ‘weaponization of law enforcement’"
+    excerpt: "\"These actions appear to be yet another egregious assault on our democracy waged by the former president,\" House Speaker Nancy Pelosi said."
+    publishedDateTime: 2021-06-11T12:24:00Z
+    webUrl: "https://www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 39
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UW2EUO36LRCY3N7FSJLSOXIHDU.jpg"
+        width: 3301
+        height: 2201
+        isCached: true
 
 secured: "swf8bjD8QRjunjFd6Tzbh+Vq3ppN56koknr2troTYhbdx52977DdWWqmo+Gi/Z9QF6x8gcIvNGAGRCibaEQFKz21bwsngQWEd+vY9AGtDEARTGai8+9R5i0Qgriho7HyTJHMcgrpmk+812uYS3u1CfjNJjDyexf+B1UDoh0a9zlKnhYzrCRaHBGAZh2ulmJ/FBJljzvLWzAoCpEaMft/ygwdwX+/79h0g4w0GgIAkZRd110uPRMv0xTPaPu478Cr+lt+EJE1AJHQfz7ismHsFJGO4uw3p4MU1b7Dkm8/HFbmvBaZxuGC0psXeShEQG+fFcUDp+JdZMtmSYWwMU+bjT6gYKCAWYmdzglZs12Z7Ik=;eJSgmD/ECitY/XnwhoMA3A=="
 ---

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
-excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
-publishedDateTime: 2021-06-03T00:58:00Z
-originalUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
-webUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
-ampWebUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
+title: "‘I was right’: Donald Trump sounds off"
+excerpt: "Former President Donald Trump has offered a handy summary of recent political developments, investigations and media coverage which suggests his perceptions about certain matters were correct. Mr. Trump suggests that analysts and rivals are changing their tune about his time in office."
+publishedDateTime: 2021-06-14T06:40:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+webUrl: "https://www.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+ampWebUrl: "https://amp.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
 type: article
-quality: 73
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
-    width: 1024
-    height: 682
+  - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/13/BELTWAY_Trump_35152.jpg-801f8_c0-0-4573-2667_s1200x700.jpg?cbe289b14c47a4339267b432674b9f5abf177ad6"
+    width: 1200
+    height: 700
     isCached: true
 
 related:
@@ -127,21 +123,21 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "‘I was right’: Donald Trump sounds off"
-    excerpt: "Former President Donald Trump has offered a handy summary of recent political developments, investigations and media coverage which suggests his perceptions about certain matters were correct. Mr. Trump suggests that analysts and rivals are changing their tune about his time in office."
-    publishedDateTime: 2021-06-14T06:40:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+  - title: "Are Donald Trump's Facebook, Instagram Active Again? No, Says FB Executive"
+    excerpt: "President Donald Trump's Facebook and Instagram accounts appeared to have been reinstated just hours after his blog permanently shut down."
+    publishedDateTime: 2021-06-03T00:58:00Z
+    webUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600"
+    ampWebUrl: "https://www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/are-donald-trumps-facebook-instagram-active-again-no-says-fb-executive-3215600?amp=1"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/13/BELTWAY_Trump_35152.jpg-801f8_c0-0-4573-2667_s1200x700.jpg?cbe289b14c47a4339267b432674b9f5abf177ad6"
-        width: 1200
-        height: 700
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/28/former-us-president-donald-trump-was-impeached-for.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Donald Trump to headline high-dollar fundraiser in Dallas for Make America Great Again Action"
     excerpt: "This is a developing story and will be updated. Former President Donald Trump will headline a July 11 fundraiser in Dallas hosted by leaders of the"
@@ -194,6 +190,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "j0Qm1ZLR6CElXRLCRF/PcvtB7LQV0EdxUumJOk2e0x0ZdZ3N6+onh1yWNKroOqFNOhb4B01XDSEq/C+KrpAbFfr5w0HKhboN8zONIIjvypsX8vHvfvk1nz0AQ3MV0EZuEQ/7356K+vPCEHJPxf02JEpKDb4Wf1myptKVs/161oiqmsnotaIV2cxWaQHYgS355SZkMyM/QVcOgkkBvrqxH9KK/sAgSwhV8WhbxILMI+qc6/ujkoqBcuQgFagoaP3trjz4yxFiInHxb4oyoodFpPcEWSl+C+lou19h9GSo5pAzpF+ERWr8Pf33CQq5mlkgXpz9dJZLZBT7a4QS0WaVEsKMdNvkwQ+BimUUkD6T3LnEL1+JtnYLPpdhehMEhgagoJXT+1lw/yzsqBt4drCBjPR+EY+M5YMQlBbCgxusA5Y92SWipwHI1fd454N1aSuXhqXk/bTShZAnb8PDYaur/4PBy8k/C/dtid9Hxr87elzESftK1SpDFtu+OgY4NWSn1MDB5mQQSalnNx2snv24JQ==;/Kbjb8Z1aG1ekxd+YzbSEg=="
+secured: "O7aTtoc/aBFu/D8PGhiB0r8fvyn2Ql+6iCKIHbX/g0e1mx+eXPEphayPjFIkRDXABW87yYZoGx8Jv5YeOL7cUZ+ovxevZlYWj4L7qmRi/fNRcg+l8jvX6FIY8/5npgI+DZ+2jbbtgwhjGBIIl8RqljoQWDWsrdYLb4zwKeEjeOC/ga0mmf+t0rNgQRC18g77UqiTxuFuGMoCZl8IbwoD0q/6UqMFGPFX3KiGMrXZXB4iIJNPz6b3EjlS+8AmI7+cX2Apbn61uFlGd+HyZnslTpd/DB5Id9dPhogLHa0cXPUxmb9jYMqYL991NiY20K9g1rLHaSrw9LQ9i7KCjh8trZCAy67/rRHDEXtSvO24syg=;XArOa/ZzQj5QxkLhWOSWcQ=="
 ---
 

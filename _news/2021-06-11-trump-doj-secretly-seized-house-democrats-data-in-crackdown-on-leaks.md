@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -165,6 +165,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
         width: 1024
         height: 621
+        isCached: true
+  - title: "DOJ under former President Donald Trump investigated Democrats in investigation Speaker Nancy Pelosi called ‘weaponization of law enforcement’"
+    excerpt: "\"These actions appear to be yet another egregious assault on our democracy waged by the former president,\" House Speaker Nancy Pelosi said."
+    publishedDateTime: 2021-06-11T12:24:00Z
+    webUrl: "https://www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 39
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UW2EUO36LRCY3N7FSJLSOXIHDU.jpg"
+        width: 3301
+        height: 2201
         isCached: true
 
 secured: "uUjRmYAnBZva0hfcEOR5g5quNnJfkNarWK2/RUsTOGxUF7ztz3hx60elyS0dqj5FJr3NozSyvkO3jQaF5wgF8Vks7fbIFHwzvm7Kvv6EARMzEYGK9hItxzOAMn5I3n2tSFqF+Wgq5T1Rk2+L62HnXM8pzX7wqM7lvLGck/MRMse2TBJOH6W1dBB037s3XhotFg/2XjIgmo1PMbP/zZuiT641vCNJY84vUVaFRWbPxqb5/Hf/uiM0z9ydGvCp44nra25nQqGUdJAq0o9yFjFYRM/COEwnvn6OUvhl/0YMAp0JR05CtHUJtmj35/Vn2BWPfCRBnlU5dm1gPP3+ilnwSoqzelg/LkGwhlUE6UyYXkyIws8ffLIjbVInpR7Ccs3I42LpQM2xzvN2a5Up8zDhqRwQDSlmukb6uxn01y4s78WNlg8eZT6GgcRXnNVSl3pZNVnR+2wzmykb8HYG7vsxqNAajoAk6ZUCjbpOSnIsJpHmyl04/HYN22jz2RjQrfFVFdV80VSeMl7uOl5nK8RQ6A==;WPry4HEhYx3K5yTBbKMP2A=="

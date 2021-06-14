@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Trump DOJ Forced Apple To Hand Over Data Of Democrats In Congress: NYT"
-excerpt: "Prosecutors in the US Justice Department under former president Donald Trump seized data from Apple from two Democratic lawmakers on the House Intelligence Committee, as well as that of their staff and family members,"
-publishedDateTime: 2021-06-11T06:03:00Z
-originalUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
-webUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
+title: "DOJ under former President Donald Trump investigated Democrats in investigation Speaker Nancy Pelosi called ‘weaponization of law enforcement’"
+excerpt: "\"These actions appear to be yet another egregious assault on our democracy waged by the former president,\" House Speaker Nancy Pelosi said."
+publishedDateTime: 2021-06-11T12:24:00Z
+originalUrl: "https://www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html"
+webUrl: "https://www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html"
+ampWebUrl: "https://www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html?outputType=amp"
 type: article
-quality: 55
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
-    width: 1024
-    height: 621
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UW2EUO36LRCY3N7FSJLSOXIHDU.jpg"
+    width: 3301
+    height: 2201
     isCached: true
 
 related:
@@ -166,23 +164,21 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "DOJ under former President Donald Trump investigated Democrats in investigation Speaker Nancy Pelosi called ‘weaponization of law enforcement’"
-    excerpt: "\"These actions appear to be yet another egregious assault on our democracy waged by the former president,\" House Speaker Nancy Pelosi said."
-    publishedDateTime: 2021-06-11T12:24:00Z
-    webUrl: "https://www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html?outputType=amp"
+  - title: "Trump DOJ Forced Apple To Hand Over Data Of Democrats In Congress: NYT"
+    excerpt: "Prosecutors in the US Justice Department under former president Donald Trump seized data from Apple from two Democratic lawmakers on the House Intelligence Committee, as well as that of their staff and family members,"
+    publishedDateTime: 2021-06-11T06:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 39
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UW2EUO36LRCY3N7FSJLSOXIHDU.jpg"
-        width: 3301
-        height: 2201
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
+        width: 1024
+        height: 621
         isCached: true
 
-secured: "GIsfUZfOYYSIFKMro/Ztb6dvo4IyKpKLHqK+MV8Sl0BwAi/xjRdbSR8nAzczs19OjKNvUc2Ah9X9CWUja9PzH3kSzs8pbTQok+f87rPIvSPsRfMy0+6RwwjlCUcf+nqNl56Yo+VnwSOB2iwrp2RaMFeLzo+rI9kdBaVGfWlEvl1apYpqZVH/uHNSqsudaSV7Uy58lmw0UmBjtYnBGjH1aa/GxwcbDC3oIrU0ji8UWF4OO/zsY6TcmEeEoPjgVDJIMdyxM5hkXbhLL+hoFocZYzoiLL+04rKHHVQlCjrj2nJLQ9VHhQfOc/e+Rt+tWCxOfWYPwfjqifznIJwfqUkueUmPLZCO0aj62Oe2oinOd5mkWTZFRXyuKknDnUXXbtzKi6zDMgtdH55fnaOsHxjnEZrNYaU4eCPipAwS2/vGvFGcHeroXuVMfbwMvASRggvMIZgcZq5gmGpKWK+fsOjVW6IiL4dmL/5817NwAjKuk++xHGBRlNBkYty1+/PgO2tdMFjr0R3rIYfOTY+M1Bhvxg==;2o6gui4vXG6XkwvbBk4K1A=="
+secured: "gWJXrjjv4Ru13J9soySQimJ71X1SczddMYllaB4Z2iS/vjetzlJJLSnCMzPJYYZ2EDXUgbFyQNW59kHPnfFiFT4gUXT3evdPfGfJntaqfDiWhnHeN9K9/XTqLU7xoqugyKjTz84egSQtATBQRu7wAI09GtW64rRrYBxB6vmIFcjZhAhpyJsbmDCbLfKO1Rcj0YyEHp0RaGahDF0BYaOGdE5lBVPKo2yvtHaT/rrp9L50RNylkd9FuZuIM/xO8EB+47RCNx5D4DEj3cS5p7+cU29tTnOf1TFuPt6lhnmrqvt4aMJ+7ZCmix0GFeSibyQ0lRyBC+76+VShoaTXnwYtEEc2TStuvHnJX0SL/Q/pLAg=;7K5uIi2gAJSvO8r7P4+GmA=="
 ---
 
