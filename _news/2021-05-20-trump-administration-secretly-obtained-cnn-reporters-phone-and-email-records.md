@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html"
 type: article
 quality: 172
-heat: 272
+heat: 292
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427105455-03-new-york-times-building-0630-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "I'm a journalist and the Trump administration tried to secretly obtain tens of thousands of my emails"
+    excerpt: "Finally, it is now an appropriate time for me to speak out on the Trump administration's months long efforts to secretly gain access to tens of thousands of my 2017 work and personal emails and my work and personal phone records.\n    \n"
+    publishedDateTime: 2021-06-14T11:49:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lfusPBc8fag/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/opinions/trump-admin-email-access-barbara-starr/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/opinions/trump-admin-email-access-barbara-starr/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520175121-barbara-starr-headshot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

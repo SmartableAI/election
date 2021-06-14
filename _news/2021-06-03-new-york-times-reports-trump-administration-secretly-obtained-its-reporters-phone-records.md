@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "I'm a journalist and the Trump administration tried to secretly obtain tens of thousands of my emails"
+    excerpt: "Finally, it is now an appropriate time for me to speak out on the Trump administration's months long efforts to secretly gain access to tens of thousands of my 2017 work and personal emails and my work and personal phone records.\n    \n"
+    publishedDateTime: 2021-06-14T11:49:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lfusPBc8fag/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/opinions/trump-admin-email-access-barbara-starr/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/opinions/trump-admin-email-access-barbara-starr/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520175121-barbara-starr-headshot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration didn't provide some separated parents the opportunity to bring their children as they were deported, new watchdog report says"
     excerpt: "Immigration and Customs Enforcement deported some parents between July 2017 and July 2018 without giving them the opportunity to bring their children, contradicting claims made by the agency and the Department of Homeland Security, according to a newly released watchdog report.\n    \n"
     publishedDateTime: 2021-05-24T14:56:01Z

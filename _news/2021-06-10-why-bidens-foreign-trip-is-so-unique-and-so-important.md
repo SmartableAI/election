@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's agenda hits roadblocks in Congress as he preaches democracy overseas"
+    excerpt: "As President Joe Biden makes the case for democracy overseas, his agenda back home is facing major obstacles in Washington, where early progress on several key items has stalled in Congress.\n    \n"
+    publishedDateTime: 2021-06-14T10:01:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HCL86optZxI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/congress-week-ahead-infrastructure-voting-rights-police-reform/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/congress-week-ahead-infrastructure-voting-rights-police-reform/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514095116-us-capitol-0511-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President Biden set to make first NATO visit as President after meeting G7 allies"
     excerpt: "President Joe Biden is set to participate in his first in-person North Atlantic Treaty Organization summit after taking office and reaffirm the United States' commitment to the military alliance.\n    \n"
     publishedDateTime: 2021-06-14T04:12:16Z

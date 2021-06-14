@@ -325,63 +325,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-05-cnns-don-lemon-continues-trump-obsession-hours-after-urging-the-media-to-leave-him-alone.md",
-      "title": "CNN's Don Lemon continues Trump obsession hours after urging the media to 'leave him alone'",
-      "excerpt": "CNN anchor Don Lemon cannot quit Donald Trump even after he urged the rest of the media to do so. Lemon raised eyebrows on Thursday during his appearance on CNN's \"New Day\" when he pleaded to his journalism colleagues to lay off covering the former president a bit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media",
-      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc4cf548-f8c0-417e-8f51-f9f2b94f7b6b/2d568eb8-6f45-4153-954e-cb7aea218fe3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-obsession-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-obsession-media.amp",
-      "publishedDateTime": "2021-06-04T20:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-05-ted-lieu-doesnt-understand-why-mike-pence-is-even-talking-to-donald-trump-after-capitol-riot.md",
       "title": "Ted Lieu Doesn't 'Understand Why Mike Pence Is Even Talking' To Donald Trump After Capitol Riot",
       "excerpt": "\"Mike Pence didn't have the courage to do what should have been done to protect our Country and our Constitution,\" Trump tweeted as Capitol rioters chanted \"Hang Mike Pence.\"",
@@ -592,54 +535,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-04-chris-hayes-the-dangers-of-trumps-big-lie-and-republicans-actually-believing-it.md",
-      "title": "Chris Hayes: The Dangers Of Trump's Big Lie and Republicans Actually Believing It",
-      "excerpt": "It is hard to tell what is more dangerous to American democracy, at the moment: the big lie, or the big delusion. The key question emerging from the alternate reality the right has been constructing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/04/chris_hayes_the_dangers_of_trumps_big_lie_and_republicans_actually_believing_it.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/04/chris_hayes_the_dangers_of_trumps_big_lie_and_republicans_actually_believing_it.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/541227.png",
-          "width": 500,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-04-pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6.md",
       "title": "Pence: I'll likely never see eye to eye with Trump on Jan. 6",
       "excerpt": "Former Vice President Mike Pence says he isn't sure he and former President Donald Trump will ever see “eye to eye” over what happened on Jan_ 6 but he will “always be proud of what we accomplished for the American people over the last four years.",
@@ -837,6 +732,54 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-republican-leaders-to-summit-with-trump-over-conservative-agenda.md",
+      "title": "Republican leaders to summit with Trump over conservative agenda",
+      "excerpt": "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
+      "originalUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
+      "publishedDateTime": "2021-06-03T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1193,6 +1136,54 @@
       "ampWebUrl": "https://nypost.com/2021/06/01/fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show/amp/",
       "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/01/fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show/amp/",
       "publishedDateTime": "2021-06-01T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-trump-jr-accuses-ny-ag-james-of-persecution-in-trump-organization-probe.md",
+      "title": "Trump Jr. accuses NY AG James of ‘persecution’ in Trump Organization probe",
+      "excerpt": "Donald Trump Jr. claimed that the New York Attorney General’s probe into the Trump Organization is a form of “political persecution.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/",
+      "originalUrl": "https://nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/don-jr-letitia-james-016.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/amp/",
+      "publishedDateTime": "2021-06-01T19:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Post",

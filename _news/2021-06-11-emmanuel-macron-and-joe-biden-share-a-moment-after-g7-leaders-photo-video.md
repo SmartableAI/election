@@ -45,6 +45,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "The Latest: Biden arrives in Belgium ahead of NATO summit"
+    excerpt: "President Joe Biden has arrived in the Belgian capital for the upcoming NATO summit, wearing a mask because of the coronavirus as an honor guard and trumpeters greeted him"
+    publishedDateTime: 2021-06-13T19:28:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/latest-attenborough-speed-climate-action-78249177"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ecfe855b4f5640439bfb1312a12ee4d5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "saRSGzKzil+l76MrAtO3KFw40PMRZJGkD/WyShlHMkCqg/4frRZlHE9oAjzBH/Kj14B4bh/6yDG+R1PSP2EYzBmqER6BUcSsS4Vei9Yzgr/Wc5JK+Qa3dCvx2HgMMXQxk31B4Bo2473GkZpotJNy9c/hhofWe34S659fn1zS3ERuu7PvAOHCG2prDiQNDwlNaAhrBeZDD6gVTIWvXtfv6l+KEiYxXw5qR3yvBSRNH6/UD8u4FQ2nLm6eg6ARcsTMDMG+3KKH8NgmR9fosrKc5MH35eJzj71Ca9jMTZuv0e8jP0zawnxyhfLANvl+0xTDbthkhKb83fvPP9hkyejeBz374aTRlBzr3yxhDxCJZAg=;siyROdGXCncgxtrYfQefTw=="
 ---

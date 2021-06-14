@@ -91,6 +91,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "DOJ watchdog to investigate Trump era leak"
+    excerpt: "Watch \"DOJ watchdog to investigate Trump era leak that targeted journalists\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-14T10:59:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210614105930-doj-watchdog-to-investigate-trump-era-leak-that-targeted-journalists/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/14/story_10813592_1623668883.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Brian Kemp May Be Outfoxing Donald Trump"
     excerpt: "Despite Trump’s vows of vengeance against the Georgia governor, he cannot find a top-tier candidate to run against him."
     publishedDateTime: 2021-06-12T19:00:00Z

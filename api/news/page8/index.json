@@ -2,6 +2,114 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-01-biden-to-host-gop-west-virginia-sen-shelley-moore-capito-as-bipartisan-infrastructure-talks-continue.md",
+      "title": "Biden to host GOP West Virginia Sen. Shelley Moore Capito as bipartisan infrastructure talks continue ",
+      "excerpt": "President Joe Biden on Wednesday will host Republican Sen. Shelley Moore Capito of West Virginia at the White House as the bipartisan infrastructure talks continue.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9FPHCl_3W0k/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9FPHCl_3W0k/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/01/politics/capito-biden-infrastructure-talks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/01/politics/capito-biden-infrastructure-talks/index.html",
+      "publishedDateTime": "2021-06-01T05:48:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-trump-supporters-celebrate-memorial-day-with-boat-parade-in-florida.md",
+      "title": "Trump supporters celebrate Memorial Day with boat parade in Florida",
+      "excerpt": "Supporters of former President Donald Trump celebrated Memorial Day with a boat parade in Jupiter, Florida, on May 31. Credit: Juan Fiol via Storyful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/06/01/trump-supporters-celebrate-memorial-day-boat-parade-florida/5288009001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/06/01/trump-supporters-celebrate-memorial-day-boat-parade-florida/5288009001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/8a18dbe5-929c-4ef4-ba67-6afe7e22db8a_poster.jpg?quality=10",
+          "width": 459,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-fox-news-host-sean-hannity-wrote-trump-2020-campaign-ad-book-claims.md",
       "title": "Fox News host Sean Hannity wrote Trump 2020 campaign ad, book claims",
       "excerpt": "Hannity worked on ‘swamp creature’ ad that ran during Hannity’s show, according to Mike Bender’s Frankly, We Did Win This Election",
@@ -1245,101 +1353,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-tennessee-shelter-for-immigrant-children-opened-under-trump.md",
-      "title": "Tennessee shelter for immigrant children opened under Trump",
-      "excerpt": "Tennessee licensed a shelter for immigrant children a year before the state’s Republican governor and U.S. Senators began expressing outrage over unaccompanied minors sent to Chattanooga",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tennessee-shelter-immigrant-children-opened-trump-77971795",
-      "publishedDateTime": "2021-05-28T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-mcconnell-to-trump-whats-a-little-insurrection-between-friends.md",
-      "title": "McConnell to Trump: What’s a Little Insurrection Between Friends?",
-      "excerpt": "Mitch McConnell gave his members permission to vote to impeach Trump, and even briefly entertained the possibility of joining them. By now, whatever defiant impulse the party’s establishment harbored has died down to the point where a former officeholder merely hinting that Trump is politically optimal rates as a news story.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/a14/14e/8711801fbf6ea18d66d6e885b9b0164d4a-ni-trump-mcconnell.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/mcconnell-blocks-january-6-commission-senate-filibuster-trump-riot.html",
-      "publishedDateTime": "2021-05-28T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -1956,6 +1956,17 @@ related:
         width: 1024
         height: 627
         isCached: true
+  - title: "Ties With Biden More Natural After 'Awkward' Trump, Dutch PM Says"
+    excerpt: "Transatlantic relations have become more natural since Joe Biden took over as U.S. president after a sometimes \"more awkward\" period with Donald Trump, the leader of Washington's NATO ally the Netherlands said on Monday."
+    publishedDateTime: 2021-06-14T11:40:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-06-14/ties-with-biden-more-natural-after-awkward-trump-dutch-pm-says"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-06-14/ties-with-biden-more-natural-after-awkward-trump-dutch-pm-says?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-06-14/ties-with-biden-more-natural-after-awkward-trump-dutch-pm-says?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "After blowback, White House says Biden will move to lift Trump-era refugee caps"
     excerpt: "The White House on Friday said President Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements."
     publishedDateTime: 2021-04-16T21:45:00Z

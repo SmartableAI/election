@@ -79,6 +79,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "DOJ watchdog to investigate Trump era leak"
+    excerpt: "Watch \"DOJ watchdog to investigate Trump era leak that targeted journalists\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-14T10:59:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210614105930-doj-watchdog-to-investigate-trump-era-leak-that-targeted-journalists/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/14/story_10813592_1623668883.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "US closes Trump-era office for victims of immigrant crime"
     excerpt: "The Biden administration said Friday it has dismantled a Trump-era government office to help victims of crimes committed by immigrants, a move that symbolizes President Joe Biden's rejection of former President Donald Trump's repeated efforts to link immigrants to crime."
     publishedDateTime: 2021-06-12T01:54:00Z

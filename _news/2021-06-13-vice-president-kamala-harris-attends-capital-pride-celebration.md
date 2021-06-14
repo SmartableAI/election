@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris attends Capital Pride Celebration"
 excerpt: "Supporters greet Vice President Kamala Harris and Second Gentleman Doug Emhoff as they walk in the Capital Pride Celebration in Washington, DC on Saturday, June 12, 2021. Vice President Kamala Harris and Second Gentleman Doug Emhoff walked a few blocks,"
 publishedDateTime: 2021-06-12T18:17:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/e489fd1b2333c6ff7e50b43ab5e7e6e0/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/e489fd1b2333c6ff7e50b43ab5e7e6e0/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/fb611c1444b991699a488712307ca901/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/fb611c1444b991699a488712307ca901/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/e489fd1b2333c6ff7e50b43ab5e7e6e0/HARRIS-CAPITAL-PRIDE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/fb611c1444b991699a488712307ca901/HARRIS-CAPITAL-PRIDE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1010,6 +1010,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "xOBaWmXr0x9hbKj1Ojo5MwtH5BZ8zz2rjbmO4VZJy6cNM8Wf+FU8Jr92aFgxLxwA/tpUKpuYSQ8amXGqNCXr4iSDT/PPxjWTP0oyESZJ2K7eGfi1qaPZw9T6DixlpmH+KGkH3yh0Qed+nEqBEarSoNir+iVmCmTzYUBkDG5M/aKRuMRfB9Zm1ubODLGPvPrEze00yN+yahz0d4aeDEJPGk6Swofw5mJ7ospvWADiJPPCg++jF/imtxRo8W+FlgAFBr2JAliZgCntC5ifd3dvch7HKqOs+ThwcAuO71grDEi1R2ej9fw+VuszwW+4gm6x93ZB/vR36Bypq0pfVLjm6uIWCKVCaLN2SJcrFHbtllz38ZqTVeFGyqX1n3YGvLluVireJ24f/5YX/9y+A3/dJCThP2syok2THnduV+DeJMA0otJAPbXpFxBXuyG1k6ZHX86WHAZWSWoXwOciZB0NIPjBxzLz2ZPEiWDQ6YgFKCiPRhmi+kuMthTeNgNPtIz06ncvl5J+GFuNN/+lwLhR3w==;ZeIRAVW3fFqgDJ700U2GXw=="
+secured: "AGIYkBytvqTM3Bs10KkMb1uUr4NI6QkmPdwnSg2XHs1YGgGWIEOUs/8jAIor1X4IRRO5kOWjOxNUeKj0kx9D53jgkWSiOctf5eRsQY8TPYK4dBdJYGH3KNWmUKl7qeA92cTRsh2bH+o8tOcWOX3jCXLg73a88ryuyaqZpd7HbRDuLToTihwk1QjfxuNEvSNYKMEIVji72kRqL3ghHm81qhwGUiPGH2esqTuY5wJnV/Pg9sez3xg0Xd9vLuNlPTkZFm/YI4glZ8Ih5/YDfCTwNkDcXNxev5W8TeHzwUaLNRTTV2spoWi/hAB/eZU8B6xOBBHk9HwmQUs2NS3dHfTN2aw2Qoflyemy/eGN5wB3cdo=;kjAfzai8aILm1CkT1iPxzw=="
 ---
 

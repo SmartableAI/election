@@ -32,63 +32,69 @@ images:
     isCached: true
 
 related:
-  - title: "Reps. Roy, Herrell move to force House vote on extending Trump-era border restrictions"
-    excerpt: "FIRST ON FOX: Reps. Chip Roy, R-Texas, and Yvette Herrell, R-N.M., on Monday moved to force a vote on a bill that would keep a Trump-era public health order -- which allows migrants to be rapidly expelled from the U.S. -- in place until the COVID-19 pandemic and associated restrictions are repealed."
-    publishedDateTime: 2021-04-20T11:01:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pUYbfdUD37M/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions"
-    ampWebUrl: "https://www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp"
+  - title: "Republicans who voted for impeachment face barrage of pro-Trump primary challengers"
+    excerpt: "Nine out of the 10 Republicans who voted to impeach former President Donald Trump over his alleged role in inspiring the attack on the Capitol by a mob of his supporters are already facing primary challenges – and some of them may have a very hard time holding on to their seats."
+    publishedDateTime: 2021-06-14T10:09:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T6oABemcA9U/house-republicans-impeachment-pro-trump-primary-challengers"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-impeachment-pro-trump-primary-challengers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-impeachment-pro-trump-primary-challengers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6aba89ef-13d8-476d-a099-2e7d6c407a22/d8eb31b2-fab7-48ac-b0ae-0ad08d4aa013/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
-    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. "
-    publishedDateTime: 2021-04-13T19:44:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQAr7hmtD3E/ashley-hinson-seeks-revive-trumps-deregulation-executive-orders"
+  - title: "Trump Casts Shadow on New Jersey Primary Election"
+    excerpt: "Front-runner Jack Ciattarelli looks to hold off Hirsh Singh, a supporter of the former president, in race for Republican nomination."
+    publishedDateTime: 2021-06-07T18:51:00Z
+    webUrl: "https://www.wsj.com/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 154
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ashley-Hinson.jpg"
+      - url: "https://images.wsj.net/im-350066/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
-    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. The freshman lawmaker authored the \"Red Tape Reduction Act\" to ..."
-    publishedDateTime: 2021-04-13T19:44:00Z
-    webUrl: "https://www.foxnews.com/politics/ashley-hinson-seeks-revive-trumps-deregulation-executive-orders"
+  - title: "Chip Roy Tests GOP Voters’ Appetite for Trump Dissenters"
+    excerpt: "The conservative House Republican said President Biden’s victory should be certified and later challenged former President Donald Trump’s pick for party leadership."
+    publishedDateTime: 2021-06-12T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
+    ampWebUrl: "https://www.wsj.com/amp/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chip-roy-tests-gop-voters-appetite-for-trump-dissenters-11623490201"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 114
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ashley-Hinson.jpg"
+      - url: "https://images.wsj.net/im-352450/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "Trump's Dominance Spells Trouble for Republican Party"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-04-22T20:38:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/22/trumps_dominance_spells_trouble_for_republican_party_541131.html"
+  - title: "Trump meets Republican Study Committee leaders to discuss policy agenda, path to majority"
+    excerpt: "Republican Study Committee Chairman Jim Banks and members of the conservative caucus’ leadership team huddled with former President Trump to discuss their policy agenda and path to the majority in"
+    publishedDateTime: 2021-06-11T02:15:00Z
+    webUrl: "https://nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/"
+    ampWebUrl: "https://nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/trump-huddles-with-gop-leaders-to-discuss-agenda-path-to-majority/amp/"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: New York Post
+      domain: nypost.com
+    quality: 126
     images:
-      - url: "https://assets.realclear.com/images/53/536849_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-discusses-policy-agenda-734.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "DtknmLUIhF4+VfEYQN8C8vuohiVsAYrSEfBOoKPZo999gmAMwrJunUw8dO2QYaimEtFZuI1G/9SlaCxTI0GjEhsF4r6bzXUJ4//BELSTHRPDAC36oTe8G5Q3h9hhEifJ8H9CLZJBB6sblPdtb2//17A7D9YLysaw3nKHN3r/v8+EUCKoV2pTa9I5OxeNVCCwzM+CCJe4RwBr8Z4yUJ6ISwmFa/McaEwySLOBK/873a+gjHaXYHMBBmqlV3rJuByOL52d/vooMror4+OpghWGpQU1HBhPFMcNTqmJFtylM/q+kuIZ0M18zH2M+xEgvoLYqO4fYh/bfJ78Th6IdXIHIdfglEaJnvmpieB4utORmW0BNR432bv/JTyeqMn66extBXyPPqpQnJ6gWhiLzGY1z+kgcUJtdxzoWi2MuI6k4AdX/Nkv8ZqsI7IwsBUQ4VPsjO32DXu/5CD4KtpAZDE1eltruXsYl/xhUE1pUOeGixz0fuoxKpRHMcqVgJrdZrrcfwlQUC+i65ByY1tOubo95A==;5TabURMVjt2H9TXVanwlLg=="

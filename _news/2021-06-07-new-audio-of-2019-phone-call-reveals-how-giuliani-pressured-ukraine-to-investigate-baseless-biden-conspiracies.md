@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "They say he once protected Biden. Now jailed American's parents want President to stand up for their son"
+    excerpt: "The parents of a former US Marine imprisoned in Russia are pleading with Presidents Joe Biden and Vladimir Putin to work out a deal to send him home.\n    \n"
+    publishedDateTime: 2021-06-14T10:41:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/05Yj4OQeeMM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/biden-putin-summit-trevor-reed-plea/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/biden-putin-summit-trevor-reed-plea/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401183338-trevor-reed-obama-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Bernie Sanders has real influence': Vermont's longtime outsider has become a trusted voice in the Biden White House"
     excerpt: "At first glance, they seem like an odd couple -- Sen. Bernie Sanders, the progressive and quintessential outsider, and President Joe Biden, moderate politician and political insider.\n    \n"
     publishedDateTime: 2021-06-08T23:00:16Z

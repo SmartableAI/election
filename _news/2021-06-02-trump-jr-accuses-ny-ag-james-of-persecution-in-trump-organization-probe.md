@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persec
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/01/trump-jr-accuses-ny-ag-james-of-persecution-in-trump-org-probe/amp/"
 type: article
 quality: 133
-heat: -1
-published: false
+heat: 153
+published: true
 
 provider:
   name: New York Post
@@ -28,70 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Casts Shadow on New Jersey Primary Election"
-    excerpt: "Front-runner Jack Ciattarelli looks to hold off Hirsh Singh, a supporter of the former president, in race for Republican nomination."
-    publishedDateTime: 2021-06-07T18:51:00Z
-    webUrl: "https://www.wsj.com/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-casts-shadow-on-new-jersey-primary-election-11623095481"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-350066/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Republican leaders to summit with Trump over conservative agenda"
-    excerpt: "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week."
-    publishedDateTime: 2021-06-03T16:27:00Z
-    webUrl: "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/"
-    ampWebUrl: "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump hosts fundraiser for new GOP chair Rep. Elise Stefanik"
-    excerpt: "Former President Donald Trump is hosting a fundraiser for upstate GOP Rep. Elise Stefanik at his golf course in Bedminster, New Jersey Wednesday night, the Post reveals."
-    publishedDateTime: 2021-06-09T19:40:00Z
-    webUrl: "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/"
-    ampWebUrl: "https://nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/09/donald-trump-hosting-fundraiser-for-ny-rep-elise-stefanik/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Elise-Stefanik.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump backs Nigeria on Twitter ban, says more countries should follow suit"
-    excerpt: "The former US president, who himself is banned from the social media platform, defended the West African nation’s decision to block Twitter saying all speech should be heard,"
-    publishedDateTime: 2021-06-08T22:09:00Z
-    webUrl: "https://nypost.com/2021/06/08/trump-backs-nigeria-on-twitter-ban-says-more-countries-should-too/"
-    ampWebUrl: "https://nypost.com/2021/06/08/trump-backs-nigeria-on-twitter-ban-says-more-countries-should-too/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/08/trump-backs-nigeria-on-twitter-ban-says-more-countries-should-too/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-2.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "‘Life, Liberty & Levin’ on media, criminal investigation into Trump Organization"
     excerpt: "I'm Mark Levin and this is LIFE, LIBERTY & LEVIN. This is a very important program and I'm glad you're here. We pride ourselves in America being a nation of laws. We have this beautiful Constitution of the United States."
     publishedDateTime: 2021-06-08T11:35:00Z
@@ -107,20 +43,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a588ac8-15b5-426f-8dde-6f314e7631ee/a41250a4-56c8-42bf-8952-9e5cea70b5a4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Trump Supplied Post-Election Demagoguery; Democrats Sparked Demand"
-    excerpt: "First of two parts The recent failure of the Senate to approve a proposed Jan. 6 commission and the removal of National Guard troops from the Capitol have returned attention to the events of"
-    publishedDateTime: 2021-06-13T10:23:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/06/13/trump_supplied_post-election_demagoguery_democrats_sparked_demand.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 80
-    images:
-      - url: "https://assets.realclear.com/images/54/545417_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "ndIQvqHO44FCnFDq41kb1a5Z8Rt+qfKF+iLv9PC92rHtXB4SG6hA3mj/QsaEURn0y534gbX4nU7sNB54deNVkP9NVQItE7se+picQj+UuQHWbUegfpSE2jj/ew3bhR2cufBY7BfreSXXTZQmWNcsmp4Nt1/ozJbbbVZZFOFP03q3f/EliwL3KC+XHVv4qVSWHRw4dmCdh4RX1cxFVPzmcs6RwP9koKqzho1yUTavEOVVlcJiIa5/aW4vIFo57mPk1/PZKnv/V7v1WPELvoLzxF3puaRjoej+bFVXnLAvSin8C5LkmruD9JYI/4dyQFXsAFsgesYH1MrPGaTcrpS5Lde4bja0RZoRlpBnXAnVU6ztnESL7wvIv7ZVI5EL320btzmB+cpHRhZRP4WyG9On+P/hWxo2U41tcdsRqGwXrDqNnB2MBovl1yp0F2332ksVF1f9J5c9aqip4LrcyHzwEo98DyrAfTSRUZhcxSIfJfXYsnrbuN4MlQvvwXOmZ6D6LgEooLSQCnw1ei6bPrkasA==;44l3j4w5sgXYGhjrODw7eg=="

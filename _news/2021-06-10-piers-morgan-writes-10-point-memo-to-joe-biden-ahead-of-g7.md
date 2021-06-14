@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden-ahead-g7-1599363?amp=1"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Latest: Biden arrives in Belgium ahead of NATO summit"
+    excerpt: "President Joe Biden has arrived in the Belgian capital for the upcoming NATO summit, wearing a mask because of the coronavirus as an honor guard and trumpeters greeted him"
+    publishedDateTime: 2021-06-13T19:28:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/latest-attenborough-speed-climate-action-78249177"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ecfe855b4f5640439bfb1312a12ee4d5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Emmanuel Macron and Joe Biden share a moment after G7 leaders' photo – video"
     excerpt: "Boris Johnson was left lingering with Angela Merkel as he waited for the pair to catch up"
     publishedDateTime: 2021-06-11T14:24:00Z
