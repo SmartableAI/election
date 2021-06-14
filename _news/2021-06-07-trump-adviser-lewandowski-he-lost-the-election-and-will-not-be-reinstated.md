@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/06/trump-lewandowski-el
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news"
 type: article
 quality: 137
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "Trump-inspired death threats are terrorizing election workers"
-    excerpt: "Election officials and their families are living with threats of hanging, firing squads, torture and bomb blasts, interviews and documents reveal. The campaign of fear, sparked by Trump's voter-fraud falsehoods,"
-    publishedDateTime: 2021-06-11T11:00:00Z
-    webUrl: "https://www.reuters.com/investigates/special-report/usa-trump-georgia-threats/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://www.reuters.com/investigates/special-report/assets/usa-trump-georgia-threats/mastheads/share-RTX8KABX.jpg?v=143901110621"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "iuir7rdVg7+hC0aG+wmXctMRsr7PTBBYAtrRWZUdgeZjDJHQ4vQSE+lDsJs5Q6V94bwxl2dlOJuAG7B10MmashzeUKzflp2BXqk51k4R8gqGES5tySwZK3dvrpJNTpNlsuD7Ob84jmKzmwuM0msdX7CyJOenxgiaFBuPLvPhKRLyFrkH/jVHRGw4QFaFE6vWia0S8ehXA1zY2TiBETQzTQoC3TjCJN70sbZ3s56W3ym9Xn3RZGmrssZFhC66Qcp+2gYNGxcpm7cQuShujHHQCdDotfTI27xfRRiQSiNIPFD+zs+PA4nOG7awO5CHknOkLHoeAJVtnKIa26qDOb0meDPtT6fVlDMV2fG1W0QjbkvPLgMM7pmFyQ8CuJtEHfFOSkhjnAQid8ZZ68VD5iyDtJskVHBJaQ4M2igU2GtfZp1e8jdoN/95ag814mhI8yIW3ND95xKX5q05dwX29+8IK1JK4E4KiefZ6uSCDWORDPGWP+P7iPwdlQAmp/vHEep0xgMkcxnCgKl/kCOs/CtBZg==;Zk3OWF/bm7KXM4IFO74f0A=="
 ---

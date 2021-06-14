@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-rec
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp"
 type: article
 quality: 125
-heat: 305
+heat: 345
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Republican leaders say they want to focus on the future, but Trump is far from done with the past"
+    excerpt: "Trump’s appearance Saturday in North Carolina illustrates a continued conundrum for the Republican Party: While he remains overwhelmingly popular among the party’s faithful, he potentially poses a problem for the GOP as it looks to win over voters ahead of the 2022 midterms who are wary of his divisive style."
+    publishedDateTime: 2021-06-06T22:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QA6YQHWG6EI6XL6QS4TPP3ALUY.jpg&w=1440"
+        width: 1440
+        height: 1029
+        isCached: true
   - title: "Fact Check-Trump does not own half of Moderna, as posts claim"
     excerpt: "Moderna, one of the pharmaceutical companies spearheading COVID-19 vaccination efforts in the United States, is not half owned by former president Donald Trump, as posts on social media claim."
     publishedDateTime: 2021-06-02T20:15:00Z
@@ -106,20 +122,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Russian accounts still active on pro-Trump sites -researchers"
-    excerpt: "A group believed to be Russian has remained active on internet services favored by far-right Americans, showing efforts to interfere in U.S. politics continue after the election, according to reports from social media research firm Graphika and nonprofit Advance Democracy Inc."
-    publishedDateTime: 2021-06-07T13:00:00Z
-    webUrl: "https://www.reuters.com/technology/russian-accounts-still-active-pro-trump-sites-researchers-2021-06-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/EU-UeRNbl9GNyodkJwyZ7ATzNdk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WAJHWC7A3RLYXI4LPO36KDRE6E.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
     excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."
     publishedDateTime: 2021-06-08T11:13:00Z
@@ -135,6 +137,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/27/00b220c7-efcc-4ab4-80ce-259b963ce720/thumbnail/640x456g2/4560b5a2be120c52c53750c611ffdb40/screen-shot-2020-10-27-at-12-04-41-pm.png#"
         width: 640
         height: 456
+        isCached: true
+  - title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
+    excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
+    publishedDateTime: 2021-06-09T22:57:00Z
+    webUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/09/d9b8350a-27c7-4f0f-abb4-e6f0f08ba353/thumbnail/1200x630/1586e82cf3dcb5bdded8a03a277cd4fb/0609-en-kvc-731678-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump Believes He Can Regain the Presidency This Summer"
     excerpt: "Maggie Haberman and the Washington Post report that Donald Trump has been proclaiming to anybody who would listen that his return to power is imminent. Trump is obsessively following a so-called “audit” in Arizona,"
@@ -167,6 +183,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
         width: 1024
         height: 731
+        isCached: true
+  - title: "Back On Stage, Trump Airs Conspiracies And Flirts With 2024 Run"
+    excerpt: "Former US president Donald Trump returned to the spotlight Saturday for his first speech in months, framing next year's midterm elections as a battle for the \"survival of America\" -- but keeping followers guessing on his own plans for 2024."
+    publishedDateTime: 2021-06-06T02:54:00Z
+    webUrl: "https://www.ibtimes.com/back-stage-trump-airs-conspiracies-flirts-2024-run-3218228"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/05/former-us-president-donald-trump-addresses-the-state.jpg"
+        width: 1024
+        height: 680
         isCached: true
 
 secured: "IX2zA4nZR/PVag16HR8nFKREtxDPnuJn/f0Y82tYzkWaWfChFjfk3bIR4+xL0UusizAXvylMKW9E3VaaNlCRSoT93Vz3MBbRL3kwDxdgT9YB9iGdxLooEpO/THNONprUdEq1ymCc6v2WbutRgdmlCtc9hT3gT8ScXcE233i3kv+S1tGm97GthHNurg7a1l3hc5FTX1fBluCar27LXbhjwIajhvp4m6m0PvcDxXVSMGfyFC5/WApS9JPfUyMu0CP2PHZrSsZYMitLNi23n61ZuN3wIgi7m5XweZJdt4lAzu+Z7MdoUOBLne7Hlfvj3cwvf/eEtTVs1B0hU0p6ID0XB3X6BRUzEA0W8vqI96kal9GnxXKiZUo/hgozzibF4vXKCl4emj5l3JmF3sShtAKEwGq4D6ohbcWpSOirR5R8nFtQsVFXdQYFh0OUhhOfS9JRwM1muLJj9s/jBlYSlTwI7pmMjS3cOrn460zkFeLon+Jgv9lMQ5Isb/0j/GTjL/3qw8gPeBJq2O49T1xb6pnKVw==;MC4DKMEGAYq53kd7TQ3z4Q=="

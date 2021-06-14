@@ -45,22 +45,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Justice Dept., Congress probing Trump seizures of Dems' data"
-    excerpt: "The Justice Department’s internal watchdog has launched an investigation after revelations that former President Donald Trump’s administration secretly seized phone data from at least two House Democr"
-    publishedDateTime: 2021-06-11T22:48:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/senate-demands-ags-testify-trump-data-seizure-78222973"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-demands-ags-testify-trump-data-seizure-78222973"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-demands-ags-testify-trump-data-seizure-78222973"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b3a90973c8024c0192d1491ee861eff2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump Justice Department seized House Democrats' data"
     excerpt: "CBS News has confirmed the Justice Department under President Donald Trump subpoenaed the personal metadata of at least a dozen people tied to the House Intelligence Committee in 2017 and again in 2018,"
     publishedDateTime: 2021-06-11T18:40:00Z
@@ -93,28 +77,28 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump's Justice Department targeted Democrats in Congress in search for source of leaks related to the Russia investigation, New York Times reports"
+    excerpt: "Officials subpoenaed Apple for communications data of Reps. Adam Schiff and Eric Swalwell, as well as their families and staffers."
+    publishedDateTime: 2021-06-11T03:20:00Z
+    webUrl: "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/60c2b63023393a00188e2931?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Democrat says Trump counsel recounted 'troubling events'"
     excerpt: "The closed-door interview, which came two years after House Democrats originally sought his testimony, was originally part of Democrats' efforts to investigate whether Trump tried to obstruct Justice Department investigations into his 2016 presidential campaign."
     publishedDateTime: 2021-06-04T23:46:00Z
     webUrl: "https://www.chron.com/news/article/After-2-year-battle-House-panel-to-interview-16224038.php"
     ampWebUrl: "https://www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/After-2-year-battle-House-panel-to-interview-16224038.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Congress, Justice Dept. probing Trump seizures of Dems' data"
-    excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
-    publishedDateTime: 2021-06-11T18:50:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -141,17 +125,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NY Times: Trump DOJ Investigated House Dems, Seized Data"
-    excerpt: "House Speaker Nancy Pelosi and other top Democrats are calling for an investigation after The New York Times reported Thursday that the Justice Department under President Donald Trump seized communications data of members of the House intelligence committee."
-    publishedDateTime: 2021-06-11T01:13:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Trump DOJ Forced Apple To Hand Over Data Of Democrats In Congress: NYT"
     excerpt: "Prosecutors in the US Justice Department under former president Donald Trump seized data from Apple from two Democratic lawmakers on the House Intelligence Committee, as well as that of their staff and family members,"
     publishedDateTime: 2021-06-11T06:03:00Z

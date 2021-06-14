@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "US election officials still plagued by threats for certifying Trump defeat"
+    excerpt: "A barrage of death threats against officials and volunteers from ex-president’s supporters could make recruiting poll workers harder"
+    publishedDateTime: 2021-06-14T15:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/14/us-election-officials-threats-trump-defeat"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/14/us-election-officials-threats-trump-defeat"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/14/us-election-officials-threats-trump-defeat"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 138
+    images:
+      - url: "https://i.guim.co.uk/img/media/d73964ad17680ad1151e6c230004ac94a9277465/0_4_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dfcb1b506255a68725b213b5dfaf32fe"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Special Report: Trump-inspired death threats are terrorizing election workers"
     excerpt: "Late on the night of April 24, the wife of Georgia’s top election official got a chilling text message: “You and your family will be killed very slowly.”"
     publishedDateTime: 2021-06-11T21:34:00Z
@@ -93,6 +109,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Tycoon behind DAMAC's Trump golf club wants full ownership"
+    excerpt: "The billionaire founder of one of Dubai’s largest developers, DAMAC Properties, has announced his intention to take the company fully private by buying its publicly traded shares in a deal valued at a"
+    publishedDateTime: 2021-06-09T11:46:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/tycoon-damacs-trump-golf-club-full-ownership-78170114"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/tycoon-damacs-trump-golf-club-full-ownership-78170114"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/tycoon-damacs-trump-golf-club-full-ownership-78170114"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_95cf51a74dbe49d5b4b945e697189f76_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Former Trump aide eyeing New Hampshire congressional bid"
     excerpt: "A former Trump White House aide is mulling a congressional run in New Hampshire. Karoline Leavitt, who served as an assistant press secretary in the Trump administration and most recently worked as a top press staffer for Rep."
     publishedDateTime: 2021-06-10T13:46:00Z
@@ -108,6 +140,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_103020getty_endorsements.jpeg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Justice Dept., Congress probing Trump seizures of Dems' data"
+    excerpt: "The Justice Department’s internal watchdog has launched an investigation after revelations that former President Donald Trump’s administration secretly seized phone data from at least two House Democr"
+    publishedDateTime: 2021-06-11T22:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/senate-demands-ags-testify-trump-data-seizure-78222973"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-demands-ags-testify-trump-data-seizure-78222973"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-demands-ags-testify-trump-data-seizure-78222973"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b3a90973c8024c0192d1491ee861eff2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "With Trump gone, NATO wages war on climate threat"
     excerpt: "If the U.S. military were a nation state, it would be the world's 47th largest emitter of planet-warming greenhouse gases, a 2019 study found."
@@ -141,21 +189,67 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Republican leaders say they want to focus on the future, but Trump is far from done with the past"
-    excerpt: "Trump’s appearance Saturday in North Carolina illustrates a continued conundrum for the Republican Party: While he remains overwhelmingly popular among the party’s faithful, he potentially poses a problem for the GOP as it looks to win over voters ahead of the 2022 midterms who are wary of his divisive style."
-    publishedDateTime: 2021-06-06T22:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
+  - title: "John Dean Calls Surveillance by Trump-Era DOJ 'Nixon on Stilts and Steroids'"
+    excerpt: "\"Nixon didn't have that kind of Department of Justice,\" John Dean said on Friday. \"Nixon couldn't use the department as he wanted to.\""
+    publishedDateTime: 2021-06-12T04:08:00Z
+    webUrl: "https://www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029"
+    ampWebUrl: "https://www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/john-dean-calls-surveillance-trump-era-doj-nixon-stilts-steroids-1600029?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QA6YQHWG6EI6XL6QS4TPP3ALUY.jpg&w=1440"
-        width: 1440
-        height: 1029
+      - url: "https://d.newsweek.com/en/full/1819790/john-dean-richard-nixon-donald-trump-doj.jpg"
+        width: 2500
+        height: 1570
+        isCached: true
+  - title: "Former President Trump's DOJ subpoenaed records of at least two House Democrats"
+    excerpt: "Former President Donald Trump's Department of Justice reportedly subpoenaed the data of at least a dozen people connected to the House Intelligence Committee back in 2017 and 2018. Among them are Congressman Adam Schiff,"
+    publishedDateTime: 2021-06-11T12:39:00Z
+    webUrl: "https://www.cbsnews.com/video/former-president-trumps-doj-subpoenaed-records-of-at-least-two-house-democrats/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/former-president-trumps-doj-subpoenaed-records-of-at-least-two-house-democrats/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/former-president-trumps-doj-subpoenaed-records-of-at-least-two-house-democrats/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/11/b49e2fcf-296d-4b9b-90ad-2ab395dc71ed/thumbnail/1200x630/b13713420f34ad9d50c6fb76ee3eb69d/0611-ctm-trumpdoj-herridge-mid-732708-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "House Democrats outraged that Trump justice department seized their data – live"
+    excerpt: "Democrats and Republicans may not be agreeing on much in Washington these days, but members on both sides were able to join together to attack Minnesota congresswoman I"
+    publishedDateTime: 2021-06-11T13:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/11/joe-biden-donald-trump-democrats-republicans-doj-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/11/joe-biden-donald-trump-democrats-republicans-doj-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/11/joe-biden-donald-trump-democrats-republicans-doj-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/c537a8987165f301812b3edecd654e9713db43ce/0_114_5659_3396/master/5659.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7955852a1d555ecfea62158bd338c310"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump-inspired death threats are terrorizing election workers"
+    excerpt: "Election officials and their families are living with threats of hanging, firing squads, torture and bomb blasts, interviews and documents reveal. The campaign of fear, sparked by Trump's voter-fraud falsehoods,"
+    publishedDateTime: 2021-06-11T11:00:00Z
+    webUrl: "https://www.reuters.com/investigates/special-report/usa-trump-georgia-threats/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://www.reuters.com/investigates/special-report/assets/usa-trump-georgia-threats/mastheads/share-RTX8KABX.jpg?v=143901110621"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Trump Justice Department subpoenaed Apple for communications data on House Democrats, report says"
     excerpt: "Democrats called for an investigation after The New York Times reported that President Donald Trump's DOJ seized data from House Democrats."
@@ -173,21 +267,35 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The GOP has proven to be an even 'greater threat' to US democracy than Trump in 2021, experts warn"
-    excerpt: "Democracy experts are sounding the alarm as Republican-led legislatures nationwide take extraordinary steps to restrict voting."
-    publishedDateTime: 2021-06-04T20:55:00Z
-    webUrl: "https://www.businessinsider.com/gop-has-become-even-greater-threat-democracy-than-trump-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/gop-has-become-even-greater-threat-democracy-than-trump-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-has-become-even-greater-threat-democracy-than-trump-2021-6?amp"
+  - title: "MyPillow CEO Mike Lindell played a speech by former President Trump during his latest political rally"
+    excerpt: "Former President Trump and MyPillow CEO Mike Lindell on Saturday spoke to a crowd in Wisconsin, repeating claims of voter fraud in the 2020 election."
+    publishedDateTime: 2021-06-13T12:04:00Z
+    webUrl: "https://www.businessinsider.com/mypillow-mike-lindell-trump-speech-rally-voter-fraud-wisconsin-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/mypillow-mike-lindell-trump-speech-rally-voter-fraud-wisconsin-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mypillow-mike-lindell-trump-speech-rally-voter-fraud-wisconsin-2021-6?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 111
+    quality: 110
     images:
-      - url: "https://i.insider.com/60ba6b8ce459cb0018a2c48a?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60c5c1d923393a00188e2d53?width=1200&format=jpeg"
+        width: 869
+        height: 434
+        isCached: true
+  - title: "Russian accounts still active on pro-Trump sites -researchers"
+    excerpt: "A group believed to be Russian has remained active on internet services favored by far-right Americans, showing efforts to interfere in U.S. politics continue after the election, according to reports from social media research firm Graphika and nonprofit Advance Democracy Inc."
+    publishedDateTime: 2021-06-07T13:00:00Z
+    webUrl: "https://www.reuters.com/technology/russian-accounts-still-active-pro-trump-sites-researchers-2021-06-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/EU-UeRNbl9GNyodkJwyZ7ATzNdk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WAJHWC7A3RLYXI4LPO36KDRE6E.jpg"
         width: 1200
-        height: 600
+        height: 628
         isCached: true
   - title: "Dems demand Trump officials testify on reported records seizure"
     excerpt: "Top News Dems demand Trump officials testify on reported records seizure. Posted . Top Senate Democrats on Friday demanded two former U.S. attorneys general testify about reported"
@@ -214,51 +322,83 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
-    excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
-    publishedDateTime: 2021-06-09T22:57:00Z
-    webUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
+  - title: "DOJ watchdog to investigate Trump era leak"
+    excerpt: "Watch \"DOJ watchdog to investigate Trump era leak that targeted journalists\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-14T10:59:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210614105930-doj-watchdog-to-investigate-trump-era-leak-that-targeted-journalists/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 97
+    quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/09/d9b8350a-27c7-4f0f-abb4-e6f0f08ba353/thumbnail/1200x630/1586e82cf3dcb5bdded8a03a277cd4fb/0609-en-kvc-731678-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/14/story_10813592_1623668883.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest"
-    excerpt: "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it."
-    publishedDateTime: 2021-06-11T23:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7662402002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7662402002"
+  - title: "Congress, Justice Dept. probing Trump seizures of Dems' data"
+    excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
+    publishedDateTime: 2021-06-11T18:50:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 96
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2018/11/06/USAT/07f2e10a-a895-4a3b-8a78-4ca7d17513ae-Alaska_110618.jpg?auto=webp&crop=599,335,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 671
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Trump's Justice Department targeted Democrats in Congress in search for source of leaks related to the Russia investigation, New York Times reports"
-    excerpt: "Officials subpoenaed Apple for communications data of Reps. Adam Schiff and Eric Swalwell, as well as their families and staffers."
-    publishedDateTime: 2021-06-11T03:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp"
+  - title: "US closes Trump-era office for victims of immigrant crime"
+    excerpt: "The Biden administration said Friday it has dismantled a Trump-era government office to help victims of crimes committed by immigrants, a move that symbolizes President Joe Biden's rejection of former President Donald Trump's repeated efforts to link immigrants to crime."
+    publishedDateTime: 2021-06-12T01:54:00Z
+    webUrl: "https://www.chron.com/news/article/US-closes-Trump-era-office-for-victims-of-16241321.php"
+    ampWebUrl: "https://www.chron.com/news/amp/US-closes-Trump-era-office-for-victims-of-16241321.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/US-closes-Trump-era-office-for-victims-of-16241321.php"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://i.insider.com/60c2b63023393a00188e2931?width=1200&format=jpeg"
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Brian Kemp May Be Outfoxing Donald Trump"
+    excerpt: "Despite Trump’s vows of vengeance against the Georgia governor, he cannot find a top-tier candidate to run against him."
+    publishedDateTime: 2021-06-12T19:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/06/brian-kemp-may-be-outfoxing-donald-trump.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/brian-kemp-may-be-outfoxing-donald-trump.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/brian-kemp-may-be-outfoxing-donald-trump.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/567/730/acdc3d07a3b8f3f8c2cc5bdc04de238abd-brian-kemp-trump.1x.rsocial.w1200.jpg"
         width: 1200
-        height: 600
+        height: 632
+        isCached: true
+  - title: "‘I was right’: Donald Trump sounds off"
+    excerpt: "Former President Donald Trump has offered a handy summary of recent political developments, investigations and media coverage which suggests his perceptions about certain matters were correct. Mr. Trump suggests that analysts and rivals are changing their tune about his time in office."
+    publishedDateTime: 2021-06-14T06:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/13/BELTWAY_Trump_35152.jpg-801f8_c0-0-4573-2667_s1200x700.jpg?cbe289b14c47a4339267b432674b9f5abf177ad6"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Twitter Reacts To Trump's Extremely Wrinkled Pants, Says It's Worn Backwards"
     excerpt: "Trump appeared at a Republican convention wearing noticeably wrinkled pants Twitter users claim he wore his trousers backward Snopes later said Trump had been wearing the pants the right way Former President Donald Trump has been the subject of a Twitter storm after he made headlines this week over his attire at a Republican convention."
@@ -306,20 +446,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Back On Stage, Trump Airs Conspiracies And Flirts With 2024 Run"
-    excerpt: "Former US president Donald Trump returned to the spotlight Saturday for his first speech in months, framing next year's midterm elections as a battle for the \"survival of America\" -- but keeping followers guessing on his own plans for 2024."
-    publishedDateTime: 2021-06-06T02:54:00Z
-    webUrl: "https://www.ibtimes.com/back-stage-trump-airs-conspiracies-flirts-2024-run-3218228"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/05/former-us-president-donald-trump-addresses-the-state.jpg"
-        width: 1024
-        height: 680
-        isCached: true
   - title: "What happened when Donald Trump was banned from social media"
     excerpt: "In an examination of Donald Trump's social media engagement both before and after he was banned from Facebook and Twitter, one thing was very clear: His most ardent supporters continued to spread his message when he was unable to"
     publishedDateTime: 2021-06-07T18:55:00Z
@@ -331,17 +457,51 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
-  - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
-    excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
-    publishedDateTime: 2021-04-30T12:06:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+  - title: "NY Times: Trump DOJ Investigated House Dems, Seized Data"
+    excerpt: "House Speaker Nancy Pelosi and other top Democrats are calling for an investigation after The New York Times reported Thursday that the Justice Department under President Donald Trump seized communications data of members of the House intelligence committee."
+    publishedDateTime: 2021-06-11T01:13:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-10/ny-times-trump-doj-investigated-house-dems-seized-data?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 52
+    quality: 55
+  - title: "Senate Demands Former AGs Testify About Trump Data Seizure"
+    excerpt: "Senate Democratic Leaders are demanding that Trump-era Attorneys General Bill Barr and Jeff Sessions testify about the secret seizure of data from House Democrats in 2018."
+    publishedDateTime: 2021-06-11T16:16:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-11/trump-doj-seized-data-from-house-democrats-in-leaks-probe?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Surveillance Of Democrats Sparks Abuse Of Power Claims"
+    excerpt: "Democrats erupted in outrage Friday over news that Donald Trump's Justice Department secretly surveilled lawmakers probing possible collusion with Russia, reaping the phone records of top political foes in what they called an unprecedented abuse of power."
+    publishedDateTime: 2021-06-11T18:49:00Z
+    webUrl: "https://www.ibtimes.com/trump-surveillance-democrats-sparks-abuse-power-claims-3223334"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
+        width: 1024
+        height: 621
+        isCached: true
+  - title: "US Closes Trump-Era Office for Victims of Immigrant Crime"
+    excerpt: "The Biden administration says it has dismantled a Trump-era goverment agency that was created help victims of crimes committed by immigrants."
+    publishedDateTime: 2021-06-11T15:06:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/us-closes-trump-era-office-for-victims-of-immigrant-crime"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "yztzmYuirD3dSzxxsSuqHwltv82F+GcrmjgLMwBLojKtj/Z0gogAA5oOfJ33CUkfrhxHYkORHF9Sdu3Ep3gbGXUbxqafaGB1vQsME2FjaVBgBiK269mMUoPrBlB5XbmZ5Q9fcSsP/zQIoadSAx17TgK1E7o2tGY6drSI74sR/iWgHfFaaB8+rcWBc6nhMLn9lNtZPTCzW6Z0u/tgFSAmhA9wK9fxSTYJvvQBdhsuyS7XMQaeN2pMmHe2sN7ItNclWfq4h4mu48EgDuHrfmiSu315bFd12XESruh2RfaPHLCz2R8r+33QAizjwDEdVc/rYDFV/BMcb+jh3T6ys7/NZE/niME38Cs1D/VQbR7Z87a80MDlE2XxVSoOEu7y/59DxrP6cVddzySKghvacKun4p4xdUk4+/2Gr7AYg/HyWErhxpqcm2PbnquucrcTL7tJvZzyCGifRi07DKVitoZz2UtLFCLeMuXXJH+OxkpZ0JxCciOrUAAUvJvwH789+BrK/EkVurS+b0OOWu9RJ0pcAg==;KsfLqimFW1tk3rhOnTUCog=="
 ---

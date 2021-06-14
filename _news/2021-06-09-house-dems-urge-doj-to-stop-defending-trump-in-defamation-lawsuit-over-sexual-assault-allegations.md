@@ -159,6 +159,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DC Mayor, Not Trump, Teargassed Protesters"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-14T18:53:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/14/dc_mayor_not_trump_teargassed_protesters_545043.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/545694_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "lIf70gtxLmeuYBbi61fiBLRyeTny/DKqyTznadiM8LkBsGx9cRJXbZmelO5m93TFnl2+hzHfy/q/FSOYE142CELmcsMj8s0obQ0g754XyUDsaElclpQILuc9HHQ6KlPWXxvfUrpNSB1iMLaqximYrnF6DmsiAfg3Sd8Q+4CFJib4gllctZXbtdOEwZf0e5v7Dlh6z3dD4qHE4CyYPiqKJSl93Vp5o5fffNEDxK7NVdnG6VUwtvYAaDBlDnyker+zTx0BzcBcwks31sPQRjk+c7EOsmR3pssg7AM15DgB8xVJuqGKm/6F1s48Y0SXiHXm433p+Zt51EcMhBDlWlu85v+L2u/CKaqbg2tUurZ2bmA=;mySbU1cG/lI6xi+AqmoQyQ=="
 ---

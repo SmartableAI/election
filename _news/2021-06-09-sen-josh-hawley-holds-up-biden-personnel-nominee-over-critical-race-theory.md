@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Erdoğan and Biden hold bilateral meeting following NATO summit"
+    excerpt: "President Joe Biden and Turkish President Recep Tayyip Erdoğan held a bilateral meeting on Monday following a meeting of NATO leaders in Brussels.\n    \n"
+    publishedDateTime: 2021-06-14T18:32:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YJufgGNe8kg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/recep-tayyip-erdogan-joe-biden-bilateral/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/recep-tayyip-erdogan-joe-biden-bilateral/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614135119-08-nato-summit-biden-erdogan-0614-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden and Johnson to agree to new Atlantic Charter during bilateral meeting "
     excerpt: "President Joe Biden and UK Prime Minister Boris Johnson are expected on Thursday to agree to a new Atlantic Charter modeled on the historic declaration made by President Franklin D. Roosevelt and Prime Minister Winston Churchill in 1941 that set out American and British goals for the world after the"
     publishedDateTime: 2021-06-09T21:33:49Z

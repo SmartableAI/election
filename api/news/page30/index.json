@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-04-14-pastor-jeff-jansen-says-trump-is-still-president-people-will-be-dancing-in-the-streets-in-april.md",
+      "title": "Pastor Jeff Jansen Says Trump Is 'Still President,' People Will Be 'Dancing in the Streets' in April",
+      "excerpt": "Pastor Jeff Jansen, a self-described \"prophet,\" still believes former President Donald Trump is in office and advised people to \"watch what the Lord does\" this month. Jansen, who leads the Global Fire Ministries International in Murfreesboro, Tennessee ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396",
+      "originalUrl": "https://www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1777294/donald-trump-jeff-jansen-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396?amp=1",
+      "publishedDateTime": "2021-04-13T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-ex-trump-dhs-officials-say-harris-needs-to-visit-border-accuse-her-of-dodging-political-hot-potato.md",
       "title": "Ex-Trump DHS officials say Harris needs to visit border, accuse her of dodging 'political hot potato'",
       "excerpt": "Former Department of Homeland Security (DHS) officials under the Trump administration on Tuesday said Vice President Kamala Harris needs to visit the border soon if she is going to succeed in her role as border czar – while accusing her of dodging what has become a \"political hot potato\" for the administration.",
@@ -1318,58 +1370,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-55-progressive-groups-urge-biden-to-go-big-on-family-friendly-care-infrastructure.md",
-      "title": "55 progressive groups urge Biden to go big on 'family-friendly care infrastructure'",
-      "excerpt": "An envelope. It indicates the ability to send an email. The first $2.3 trillion part of the infrastructure package President Joe Biden unveiled on March 31 included some elements related to care-economy measures, like investments in home care. But ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/progressive-groups-urge-biden-to-go-big-on-care-infrastructure-2021-4",
-      "originalUrl": "https://www.businessinsider.com/progressive-groups-urge-biden-to-go-big-on-care-infrastructure-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/606584ffdaf0f10018f9964b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/progressive-groups-urge-biden-to-go-big-on-care-infrastructure-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/progressive-groups-urge-biden-to-go-big-on-care-infrastructure-2021-4?amp",
-      "publishedDateTime": "2021-04-12T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

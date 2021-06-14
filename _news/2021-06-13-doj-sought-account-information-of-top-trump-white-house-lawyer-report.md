@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/doj-sought-account-information-top-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -158,6 +158,20 @@ related:
       - url: "https://images.wsj.net/im-353407/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "DC Mayor, Not Trump, Teargassed Protesters"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-14T18:53:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/14/dc_mayor_not_trump_teargassed_protesters_545043.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/545694_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "q3NBeDTx4vAnORonFeaaEXsowxR4DME6qTYy58HbBKP/QpWStNE4mF48xKIelWCPquF90vOOSxZPGNtmSuGue/PHCEyz0s9vraHr85wneH3Tr3JZ90lgLogbIfy3V3ebxOmbFu4HLMG5IBRRNMJYezMZf8e3vmCHhcY0UPCC95MkhmusMX+N7A+JO9L+xqlPFp6IQIQiEl9Rpvx1eXFhT/ne2Wm0TtPO7bl3cBasAtZoarXQup0y4sT5obU5n84dmOS4cbvIF3us3i7rg34hGRI7ogIBURABWjUJMpzN0TQYvjZh9+hKl58fwb9I8SL2CSUQSeYttMTYa3bZr6ICph7qtkQqTsHHc/SgB4V+S1M=;VaS2wV+hhDT7Y1T+9n+Tww=="

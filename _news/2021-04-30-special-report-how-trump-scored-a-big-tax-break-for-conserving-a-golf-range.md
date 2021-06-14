@@ -25,322 +25,148 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Special Report: Trump-inspired death threats are terrorizing election workers"
-    excerpt: "Late on the night of April 24, the wife of Georgia’s top election official got a chilling text message: “You and your family will be killed very slowly.”"
-    publishedDateTime: 2021-06-11T21:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-georgia-threats-special-rep-idUSKCN2DN14M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DN14M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DN14M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210611&t=2&i=1565350857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5A0O4"
-        width: 726
-        height: 545
-        isCached: true
-  - title: "Brad Raffensperger Bemoans Ongoing Threats to Election Workers Over Trump Claims"
-    excerpt: "Georgia Secretary of State Brad Raffensperger has called on elected officials to take action on threats against election officials because of \"continuing\" false claims about the 2020 presidential election."
-    publishedDateTime: 2021-06-12T09:30:00Z
-    webUrl: "https://www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038"
-    ampWebUrl: "https://www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brad-raffensperger-bemoans-ongoing-threats-election-workers-over-trump-claims-1600038?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 135
-    images:
-      - url: "https://d.newsweek.com/en/full/1819829/brad-raffensperger-speaks-stage-2020.jpg"
-        width: 3648
-        height: 2432
-        isCached: true
-  - title: "State bar investigating Texas Attorney General Ken Paxton over Trump election lawsuit"
-    excerpt: "A Democratic Party activist complained that Ken Paxton's challenge to President Joe Biden's victory in four states was frivolous and unethical."
-    publishedDateTime: 2021-06-10T12:37:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/10/texas-bar-investigates-attorney-general-ken-paxton-over-election-suit/7633751002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7633751002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633751002"
+  - title: "Washington Post: Trump Justice Department got reporters’ phone records"
+    excerpt: "The Washington Post reported on Friday that the Department of Justice under former President Donald Trump secretly obtained phone records from some of the newspaper's reporters. The Post reported that the DOJ sent letters dated May 3 to Post reporters Ellen Nakashima and Greg Miller,"
+    publishedDateTime: 2021-05-07T23:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/07/washington-post-trump-doj-got-reporters-phone-records/4997276001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4997276001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4997276001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 133
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/06/NAAS/a4019b43-5247-4de3-96bb-87bf22051b19-Electoral_College_Protests.jpg?auto=webp&crop=4847,2727,x0,y246&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/03/24/USATODAY/usatsports/justice-department-getty-fool-1.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "First Thing: ‘Teflon Don no more’ as legal threats mount against Trump"
-    excerpt: "Former president faces increasingly serious legal issues as he teases a 2024 run. Plus, how cicada-phobes are surviving Brood X"
-    publishedDateTime: 2021-06-08T08:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
+  - title: "Rightwingers tried to discredit Trump ‘foes’ with honey trap plot – report"
+    excerpt: "Efforts included ‘planned sting operation’ targeting HR McMaster and fake dating app profiles to attract FBI, says New York Times"
+    publishedDateTime: 2021-05-14T15:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/14/trump-rightwing-activists-plot-hr-mcmaster-fbi"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/14/trump-rightwing-activists-plot-hr-mcmaster-fbi"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/14/trump-rightwing-activists-plot-hr-mcmaster-fbi"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://i.guim.co.uk/img/media/07bee087791bd38b55d1955b5f487d8c24217a92/0_105_2404_1443/master/2404.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f52110a3c1d23a5f659f64d8bd43a54e"
+      - url: "https://i.guim.co.uk/img/media/7a943b4fe245e30044c7bfeb933f67199417b577/0_384_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e47269d2856f59946d84a4c0b2f34d9b"
         width: 600
         height: 360
         isCached: true
-  - title: "Former Trump aide eyeing New Hampshire congressional bid"
-    excerpt: "A former Trump White House aide is mulling a congressional run in New Hampshire. Karoline Leavitt, who served as an assistant press secretary in the Trump administration and most recently worked as a top press staffer for Rep."
-    publishedDateTime: 2021-06-10T13:46:00Z
-    webUrl: "https://thehill.com/homenews/campaign/557736-former-trump-aide-eyeing-new-hampshire-congressional-bid"
-    ampWebUrl: "https://thehill.com/homenews/campaign/557736-former-trump-aide-eyeing-new-hampshire-congressional-bid?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/557736-former-trump-aide-eyeing-new-hampshire-congressional-bid?amp"
+  - title: "Washington Post says Trump Justice Department secretly seized reporters’ phone records"
+    excerpt: "The Trump Justice Department secretly seized the phone records of three Washington Post reporters who covered the federal investigation into ties between Russia and Donald Trump’s 2016 presidential campaign,"
+    publishedDateTime: 2021-05-08T00:29:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-washington-post-phone-records-20210508-nx54jogftnd4bjaibcvm5vej7e-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-washington-post-phone-records-20210508-nx54jogftnd4bjaibcvm5vej7e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-washington-post-phone-records-20210508-nx54jogftnd4bjaibcvm5vej7e-story.html?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 117
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_103020getty_endorsements.jpeg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "With Trump gone, NATO wages war on climate threat"
-    excerpt: "If the U.S. military were a nation state, it would be the world's 47th largest emitter of planet-warming greenhouse gases, a 2019 study found."
-    publishedDateTime: 2021-06-13T10:32:00Z
-    webUrl: "https://www.reuters.com/article/us-nato-summit-climate-analysis-idCAKCN2DP03E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKCN2DP03E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKCN2DP03E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210613&t=2&i=1565505331&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5C022"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Democrats urge Justice Department not to defend Trump in defamation suit"
-    excerpt: "House Democrats are urging Attorney General Merrick Garland to reconsider the Justice Department's decision to take up the defense of former President Trump in a defamation lawsuit. The 2019 suit was filed by writer E."
-    publishedDateTime: 2021-06-10T01:27:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-defamation-lawsuit-justice-department-analysis-josh-gerstein/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-defamation-lawsuit-justice-department-analysis-josh-gerstein/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-defamation-lawsuit-justice-department-analysis-josh-gerstein/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/10/97110378-481d-4108-960d-305037a0a644/thumbnail/1200x630/25c5128bf43def0f71389023eda6e6c2/cbsn-fusion-trump-defamation-lawsuit-justice-department-analysis-josh-gerstein-thumbnail-731825-640x360.jpg"
+      - url: "https://www.chicagotribune.com/resizer/sB5cQgbvIQZhpKMxyt-M95yTIwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NRXIDCVBOSJ4I3MD7H43RSYGNU.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Republican leaders say they want to focus on the future, but Trump is far from done with the past"
-    excerpt: "Trump’s appearance Saturday in North Carolina illustrates a continued conundrum for the Republican Party: While he remains overwhelmingly popular among the party’s faithful, he potentially poses a problem for the GOP as it looks to win over voters ahead of the 2022 midterms who are wary of his divisive style."
-    publishedDateTime: 2021-06-06T22:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-north-carolina-election/2021/06/06/2707c706-c64b-11eb-8c34-f8095f2dc445_story.html?outputType=amp"
+  - title: "Trump Justice Department secretly obtained reporters’ phone records, Washington Post says"
+    excerpt: "The Trump Justice Department secretly seized phone records of three Washington Post reporters who covered the probe into ties between Russia and Trump's 2016 presidential campaign."
+    publishedDateTime: 2021-05-08T07:46:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 116
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5b8cc32/2147483647/strip/true/crop/5015x3322+0+0/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F24%2F59%2F6c94dad74b23a340cffe0a4009c2%2Fcongress-equality-act-15761.jpg"
+        width: 320
+        height: 212
+        isCached: true
+  - title: "Trump justice department secretly obtained New York Times reporters’ phone records, paper says"
+    excerpt: "Previous seizures of the records of journalists from the Washington Post and CNN have emerged in the past month"
+    publishedDateTime: 2021-06-03T05:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/03/trump-justice-department-secretly-obtained-new-york-times-reporters-phone-records-paper-says"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/03/trump-justice-department-secretly-obtained-new-york-times-reporters-phone-records-paper-says"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/03/trump-justice-department-secretly-obtained-new-york-times-reporters-phone-records-paper-says"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/13205b3acb6709a6336ed1c519eee78b175c165e/0_24_5200_3120/master/5200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b3e6e1afb5b26ade3e33f18de16ff2e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Justice Dept. secretly obtained New York Times reporters’ phone records during Trump administration"
+    excerpt: "This is the third time in recent weeks that the department has disclosed secretly sifting through journalists’ data during the Trump administration."
+    publishedDateTime: 2021-06-03T06:44:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/new-york-times-phone-records-trump/2021/06/02/c1375918-c407-11eb-93f5-ee9558eecf4b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/new-york-times-phone-records-trump/2021/06/02/c1375918-c407-11eb-93f5-ee9558eecf4b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/new-york-times-phone-records-trump/2021/06/02/c1375918-c407-11eb-93f5-ee9558eecf4b_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QA6YQHWG6EI6XL6QS4TPP3ALUY.jpg&w=1440"
-        width: 1440
-        height: 1029
-        isCached: true
-  - title: "Trump Justice Department subpoenaed Apple for communications data on House Democrats, report says"
-    excerpt: "Democrats called for an investigation after The New York Times reported that President Donald Trump's DOJ seized data from House Democrats."
-    publishedDateTime: 2021-06-11T05:53:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/10/president-donald-trump-justice-department-data-house-democrats/7650303002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7650303002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7650303002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/11/USAT/65f3ae36-98fd-4339-ad92-0d6ec3d9a452-AP_Trump_Impeachment.JPG?auto=webp&crop=3999,2249,x0,y236&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The GOP has proven to be an even 'greater threat' to US democracy than Trump in 2021, experts warn"
-    excerpt: "Democracy experts are sounding the alarm as Republican-led legislatures nationwide take extraordinary steps to restrict voting."
-    publishedDateTime: 2021-06-04T20:55:00Z
-    webUrl: "https://www.businessinsider.com/gop-has-become-even-greater-threat-democracy-than-trump-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/gop-has-become-even-greater-threat-democracy-than-trump-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-has-become-even-greater-threat-democracy-than-trump-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 111
     images:
-      - url: "https://i.insider.com/60ba6b8ce459cb0018a2c48a?width=1200&format=jpeg"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6DDROTGECQI6XGUN7FOXOJEWPQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Search warrant for Rudy Giuliani’s records resolved a Justice Department dispute leftover from the Trump administration"
+    excerpt: "The question of whether to serve a search warrant for Rudy Giuliani's records simmered inside the Justice Department in the waning months of the Trump administration, dividing officials in New York and Washington and remaining unresolved for a new leadership team to sort out."
+    publishedDateTime: 2021-05-01T17:59:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/c-Ale6YBxYo5LkKH0F3piP2Xdj4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4ULNT3YHFH66AEJUZPITPRDTPQ.aspx"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Apple reaffirms privacy stance amid Trump probe revelations"
-    excerpt: "Apple is seeking to protect its image as a guardian of personal privacy, maintaining it was blindsided and handcuffed by a Trump administration probe that resulted in the company handing over phone da"
-    publishedDateTime: 2021-06-12T00:36:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/apple-reaffirms-privacy-stance-amid-trump-probe-revelations-78233055"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_da23fea4feed49d188ea1fa401c3444e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Dems demand Trump officials testify on reported records seizure"
-    excerpt: "Top News Dems demand Trump officials testify on reported records seizure. Posted . Top Senate Democrats on Friday demanded two former U.S. attorneys general testify about reported"
-    publishedDateTime: 2021-06-11T20:09:00Z
-    webUrl: "https://www.reuters.com/video/watch/dems-demand-trump-officials-testify-on-r-id731354951"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210611&i=OVEGYPSYN&r=OVEGYPSYN&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "REFILE-ANALYSIS-With Trump gone, NATO wages war on climate threat"
-    excerpt: "If the U.S. military were a nation state, it would be the world's 47th largest emitter of planet-warming greenhouse gases, a 2019 study found."
-    publishedDateTime: 2021-06-13T09:59:00Z
-    webUrl: "https://www.reuters.com/article/nato-summit-climate-idINL5N2NS2GU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINL5N2NS2GU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL5N2NS2GU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
-    excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
-    publishedDateTime: 2021-06-09T22:57:00Z
-    webUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/09/d9b8350a-27c7-4f0f-abb4-e6f0f08ba353/thumbnail/1200x630/1586e82cf3dcb5bdded8a03a277cd4fb/0609-en-kvc-731678-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest"
-    excerpt: "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it."
-    publishedDateTime: 2021-06-11T23:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7662402002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7662402002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 96
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2018/11/06/USAT/07f2e10a-a895-4a3b-8a78-4ca7d17513ae-Alaska_110618.jpg?auto=webp&crop=599,335,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 671
-        isCached: true
-  - title: "Trump's Justice Department targeted Democrats in Congress in search for source of leaks related to the Russia investigation, New York Times reports"
-    excerpt: "Officials subpoenaed Apple for communications data of Reps. Adam Schiff and Eric Swalwell, as well as their families and staffers."
-    publishedDateTime: 2021-06-11T03:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/60c2b63023393a00188e2931?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Twitter Reacts To Trump's Extremely Wrinkled Pants, Says It's Worn Backwards"
-    excerpt: "Trump appeared at a Republican convention wearing noticeably wrinkled pants Twitter users claim he wore his trousers backward Snopes later said Trump had been wearing the pants the right way Former President Donald Trump has been the subject of a Twitter storm after he made headlines this week over his attire at a Republican convention."
-    publishedDateTime: 2021-06-08T01:40:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
+  - title: "Trump Justice Department Seized Reporters’ Phone Records In ‘Authoritarian’ Move"
+    excerpt: "Three Washington Post reporters became the subject of an investigation by Donald Trump’s Justice Department after reporting on his administration’s alleged ties with Russia during the 2016 election."
+    publishedDateTime: 2021-05-08T15:41:00Z
+    webUrl: "https://www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392"
+    ampWebUrl: "https://www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/former-president-donald-trump-north-carolina-republican-partys-convention.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "Arizona's pro-Trump vote audit is prompting calls for — and against — federal intervention as threats of violence and political fallout loom"
-    excerpt: "Election-security experts are calling for DOJ to intervene in the Arizona 2020 vote audit. But there are concerns federal involvement could backfire."
-    publishedDateTime: 2021-06-10T15:43:00Z
-    webUrl: "https://www.businessinsider.com/arizona-election-audit-trump-update-doj-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 70
     images:
-      - url: "https://i.insider.com/60c2330323393a00188e275c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Food Deliverer Posed As Trump's Family; Used Social Media Following To Steal Thousands"
-    excerpt: "A 22-year old former food delivery worker was arrested this week for creating fake Twitter accounts of former President Trump's family members and duping MAGA supporters of money."
-    publishedDateTime: 2021-06-10T11:23:00Z
-    webUrl: "https://www.ibtimes.com/food-deliverer-posed-trumps-family-used-social-media-following-steal-thousands-3222299"
-    ampWebUrl: "https://www.ibtimes.com/food-deliverer-posed-trumps-family-used-social-media-following-steal-thousands-3222299?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/food-deliverer-posed-trumps-family-used-social-media-following-steal-thousands-3222299?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "Back On Stage, Trump Airs Conspiracies And Flirts With 2024 Run"
-    excerpt: "Former US president Donald Trump returned to the spotlight Saturday for his first speech in months, framing next year's midterm elections as a battle for the \"survival of America\" -- but keeping followers guessing on his own plans for 2024."
-    publishedDateTime: 2021-06-06T02:54:00Z
-    webUrl: "https://www.ibtimes.com/back-stage-trump-airs-conspiracies-flirts-2024-run-3218228"
+  - title: "Trump Administration Obtained Phone Records Of Journalists: Washington Post"
+    excerpt: "The Trump administration secretly obtained the phone records of Washington Post journalists who reported on allegations of Russian meddling in the 2016 election, the newspaper reported Friday, prompting concerns over freedom of speech."
+    publishedDateTime: 2021-05-08T03:12:00Z
+    webUrl: "https://www.ibtimes.com/trump-administration-obtained-phone-records-journalists-washington-post-3195258"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 55
+    quality: 53
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/05/former-us-president-donald-trump-addresses-the-state.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
         width: 1024
-        height: 680
+        height: 682
         isCached: true
-  - title: "What happened when Donald Trump was banned from social media"
-    excerpt: "In an examination of Donald Trump's social media engagement both before and after he was banned from Facebook and Twitter, one thing was very clear: His most ardent supporters continued to spread his message when he was unable to"
-    publishedDateTime: 2021-06-07T18:55:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
 
 secured: "3pWdevFGRijqxZ5uB0hkYtW5fdwhr+QA1Esrqg5BtCTH3cKIQpv/5umTJJ4SWZSOX7ZnELVj1EwH7XTAvqhtFmJd7mx5FIaoAoPPlo+qfLDwLwZJbqyMg8b6QlIgth2uHXUJZXrFq2rQtCcHbRJJB7r7/8XFWJlNJBEa9OmV/mXPd9telIXrQnCIGhlSwzrFM0HiwnC+nu06aVg9gtcVmNCaFa3ioeFAlwRw87FmVH64p7em0VdUlLtKVqx4WgXWgjkxRsaK8GnduyE2QOqMKK1okg4WRlvwTgP8eo616ImU742r02SkCIqRwUwxMp4KVJIA372wDWAZlHnEe6VFbKW0mxqZuA1MCosJQv8defFYaDk5+Mwcz7EBUe/Ugl3xO5poboQT7GIp/E16hy/XzwY4OmGEpBg5p2HeD2v4fiH7+O5DAbtjDQHRxKhvJ1l1GthlZgEwZFx0ld/wIzqOpxWz829z1M7aKIx2F+p19ajCt6SQ/w71wRrjJ7gyCs3pZ8MMNbOOJszp4CVxsCGrCA==;XZJN/OSxwp/0hrjNDFGqNA=="
 ---

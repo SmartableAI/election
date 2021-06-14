@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "ICE terminates Trump-era office that focused on victims of immigrant crime   "
+    excerpt: "Immigration and Customs Enforcement has terminated the Trump-era office that focused on victims of crimes linked to undocumented immigrants, another move the Biden administration has taken to distance itself from President Donald Trump's immigration policies.\n    \n"
+    publishedDateTime: 2021-06-14T18:38:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6CstzgkjxHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/ice-terminates-trump-era-voice/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/ice-terminates-trump-era-voice/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614185715-ice-hq-file-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Trump readies summer rallies and speeches, allies worry he's stuck in the past"
     excerpt: "A cadre of aides and advisers working to tame Donald Trump's obsession with the 2020 election, including his fixation with debunked voter fraud theories and ballot audits, are realizing the task at hand is much tougher than they thought.\n    \n"
     publishedDateTime: 2021-06-04T11:00:41Z

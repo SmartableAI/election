@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-13-lara-trump-urges-americans-living-at-southern-border-to-arm-up-get-guns.md",
+      "title": "Lara Trump Urges Americans Living at Southern Border to 'Arm Up, Get Guns'",
+      "excerpt": "Lara Trump, former President Donald Trump's daughter-in-law, on Saturday night urged Americans living at the southern border to \"arm up\" and \"get guns\" as she railed against President Joe Biden's immigration policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116",
+      "originalUrl": "https://www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1819949/lara-trump-bidens-border-crisis.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116?amp=1",
+      "publishedDateTime": "2021-06-12T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-trump-says-senate-would-be-60-dems-vs-40-republicans-if-not-for-him-rips-mcconnell.md",
       "title": "Trump Says Senate Would Be 60 Dems vs. 40 Republicans if Not for Him, Rips McConnell",
       "excerpt": "\"Unfortunately Mitch McConnell, with what he was doing, hurt us very, very badly in Georgia,\" the former president said.",
@@ -494,21 +546,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-12-special-report-trump-inspired-death-threats-are-terrorizing-election-workers.md",
-      "title": "Special Report: Trump-inspired death threats are terrorizing election workers",
-      "excerpt": "Late on the night of April 24, the wife of Georgia’s top election official got a chilling text message: “You and your family will be killed very slowly.”",
+      "path": "_news/2021-06-12-feds-will-repeal-or-replace-trump-era-decision-to-lift-logging-road-building-restrictions-in-alaskas-tongass-national-forest.md",
+      "title": "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest",
+      "excerpt": "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-georgia-threats-special-rep-idUSKCN2DN14M",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-georgia-threats-special-rep-idUSKCN2DN14M",
+      "webUrl": "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 557,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210611&t=2&i=1565350857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5A0O4",
-          "width": 726,
-          "height": 545,
+          "url": "https://www.gannett-cdn.com/presto/2018/11/06/USAT/07f2e10a-a895-4a3b-8a78-4ca7d17513ae-Alaska_110618.jpg?auto=webp&crop=599,335,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 671,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -516,16 +568,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2DN14M",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DN14M",
-      "publishedDateTime": "2021-06-11T14:34:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7662402002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7662402002",
+      "publishedDateTime": "2021-06-11T16:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -975,7 +1027,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1267,58 +1319,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-how-bidenland-is-courting-joe-manchin-with-house-boat-dinners-millions-of-dollars-in-grants-and-west-virginia-visits.md",
-      "title": "How BidenLand is courting Joe Manchin with house boat dinners, millions of dollars in grants, and West Virginia visits",
-      "excerpt": "The conservative Democrat continues to play hard-to-get as the White House seeks his crucial vote to move Biden's priorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-is-courting-manchin-with-political-favors-west-virginia-democrat-2021-6",
-      "originalUrl": "https://www.businessinsider.com/biden-is-courting-manchin-with-political-favors-west-virginia-democrat-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60c2397d6d855e00181575b0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

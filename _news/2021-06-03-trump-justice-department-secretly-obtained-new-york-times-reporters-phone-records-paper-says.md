@@ -157,6 +157,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
+    excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
+    publishedDateTime: 2021-04-30T12:06:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 52
 
 secured: "spJZlrI1rfWu7aiC/1V1zhn+AIcounpRhxX3TnuiQqxFwjlnx3eZJee61JDZVwj8mj5fvLUPZ3t7gD3poaEfW3kRFt82nckU5U0LOBFS5zD5qtCYsrqLKv5a+1CZ0H0SlWSTgwWTLWTRElnoqJqUnkCz2lefy156zrfKDn9FmKr8ndeeRhUF6v7xZoqR6i2+gru20Odfvy2StIjTNBHHWYCqOMcP78Elm+GTLr+nxlrkvp38fBheIGztQO18moTjElvwDFk8AMVKzIqS91M/VutP275I8tLK47BehOThxM72yiEaApfwhUh8kaWt0RFJFeIp2shF/hO7ufDjgQzTTYNt4NH5q2c8+afyeNyjhQP4UTsfbLUpn4C7Dtdy4kFULvNUvPMw4haXG5LTxjn+T6KipZSQKQEEgIqq6oGM3XccahDgMncPH4vDtMKWJAGdKafSrLuM0dTmSra9K7wTp7KcTNJtsnrv7I2FIMpEVHSwVpbyCJFsvfJ2/r80hJGppN3nVImB8oAVELZ+4xsJIg==;CqVyPWI5+QumZD2YPtbhmg=="
 ---

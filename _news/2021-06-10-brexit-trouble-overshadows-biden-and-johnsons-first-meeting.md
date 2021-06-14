@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Erdoğan and Biden hold bilateral meeting following NATO summit"
+    excerpt: "President Joe Biden and Turkish President Recep Tayyip Erdoğan held a bilateral meeting on Monday following a meeting of NATO leaders in Brussels.\n    \n"
+    publishedDateTime: 2021-06-14T18:32:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YJufgGNe8kg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/recep-tayyip-erdogan-joe-biden-bilateral/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/recep-tayyip-erdogan-joe-biden-bilateral/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614135119-08-nato-summit-biden-erdogan-0614-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Sen. Josh Hawley holds up Biden personnel nominee over critical race theory"
     excerpt: "Senate Republicans are holding up President Joe Biden's nominee to lead the Office of Personnel Management over concerns about her stance on critical race theory.\n    \n"
     publishedDateTime: 2021-06-09T02:52:27Z

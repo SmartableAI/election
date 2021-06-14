@@ -661,16 +661,16 @@ related:
         height: 572
         isCached: true
   - title: "Vice President Kamala Harris attends Capital Pride Celebration"
-    excerpt: "Supporters greet Vice President Kamala Harris and Second Gentleman Doug Emhoff as they walk in the Capital Pride Celebration in Washington, DC on Saturday, June 12, 2021. Vice President Kamala Harris and Second Gentleman Doug Emhoff walked a few blocks,"
+    excerpt: "Second Gentleman Doug Emhoff and Vice President Kamala Harris walk in the Capital Pride Celebration in Washington, DC on Saturday, June 12, 2021. Vice President Kamala Harris and Second Gentleman Doug Emhoff walked a few blocks,"
     publishedDateTime: 2021-06-12T18:17:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/fb611c1444b991699a488712307ca901/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/1350a45d02714c64c79ab9490a4de5a5/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/fb611c1444b991699a488712307ca901/HARRIS-CAPITAL-PRIDE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/1350a45d02714c64c79ab9490a4de5a5/HARRIS-CAPITAL-PRIDE.jpg"
         width: 650
         height: 433
         isCached: true
@@ -701,6 +701,20 @@ related:
       - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/05/Biden-1-1.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "In Greenville visit, VP Kamala Harris promotes COVID-19 vaccination campaign"
+    excerpt: "Invoking the scripture that says to \"love thy neighbor,\" Vice President Kamala Harris on her tour of Greenville promoted the government's vaccination campaign as part of a nationwide"
+    publishedDateTime: 2021-06-14T15:50:00Z
+    webUrl: "https://www.postandcourier.com/greenville/politics/in-greenville-visit-vp-kamala-harris-promotes-covid-19-vaccination-campaign/article_89e93042-ccba-11eb-ab1b-abf2bb9df624.html"
+    type: article
+    provider:
+      name: Post and Courier
+      domain: postandcourier.com
+    quality: 52
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/fe/dfe0082a-cd34-11eb-b514-5fa5597c42dd/60c78ff64b56d.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
   - title: "Kamala Harris asks the president of Mexico not to interfere with the work of NGOs"
     excerpt: "Kamala Harris , toured Mexico and Guatemala to speak with the presidents of both nations. He expressed his concern about the corruption and impunity that occurs in the two countries. The main reason for the visit was \"to attack the migration problem from the root."
@@ -754,6 +768,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "zrXiv/yPfgdK/EuvoowpbzR5UGmt8BRKFj4VpcvmC9KCh7pMZQBlKtPz0K1QRRTKXPDTNOW0TUiGQgqzI5QebEHHo4Ta+t1cfwUlI/JJUQ4h2jX7mN+HBVFEU9M/cmKbgnFDWLKzp1Ou/DYUwM/ow4jy6fxmlZXNSi/qfrVfEco8EzWihYHC2aTCYfDbsxFHyKK3dj8oxI3uaCr6NAlv7IpUgUawlceMj9SE+8Pbsmuf8l6FaUonpZKzxWGRG15hjXAEuXLSuzIs01skj5g/qLsYcofwJbO5dHYqhcYlXS0U3Vwg2VGZL06qMsqzi43cOWhLEmeRFyohge6ti7xam3wK1IzWv8bJZ6bWGq4TeeU=;H0GH/tfPmrcZav5VjboViQ=="
+secured: "2lD2adoTn5iPw9JWuRNW/ZxtsZrZqTHLNa1+lUFmtRBfwoYflSt+dqFPucXQhITBwvMx3aYvJXcci1n0SASCnAPNkONUQN99eZdnEiWn7uoiH+DuLRjcZ7pdPiZFt78IEqTgkMp9D5uCncvaPSK/AxBDUnS3BF25P8gANc1yIMbktu7yZND1w/3B0qQSOc0c0P2iZ2fnNUvgJEgm54WXFpIsI49Bu518UV9L8Qsu9qRqNQUy5givbqs2doXHDRmDY3TSNWAam7OQFBMeaxJefoK2phXLZzS0lyRgHuts8+mUkgq405d38Vp/agBcLDMIICwNcUQsd9S/HrLH6poWY/KkH6BcobSTijNuODSTYxEtUCn+5ZdAQ2G5wpcevLPeU52IusgZKrMtsS9JGG3A+WHkWtYxcEVJWYWsOeCgXkkN59yjQVidEzz1XB6vSffBolLTR8ojVBYZ8dpfaiTjZ2Q6kmUL3kBBTAj1e4rw3whRgKwqSUWnrrYf7SZ8YJLmUowkb4uPaWvOjTF9F6yooA==;SDzF/ZlfL3XLxYEWB8NJ/g=="
 ---
 

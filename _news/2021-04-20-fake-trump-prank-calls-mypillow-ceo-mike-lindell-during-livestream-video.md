@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "MyPillow CEO Mike Lindell played a speech by former President Trump during his latest political rally"
-    excerpt: "Former President Trump and MyPillow CEO Mike Lindell on Saturday spoke to a crowd in Wisconsin, repeating claims of voter fraud in the 2020 election."
-    publishedDateTime: 2021-06-13T12:04:00Z
-    webUrl: "https://www.businessinsider.com/mypillow-mike-lindell-trump-speech-rally-voter-fraud-wisconsin-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/mypillow-mike-lindell-trump-speech-rally-voter-fraud-wisconsin-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mypillow-mike-lindell-trump-speech-rally-voter-fraud-wisconsin-2021-6?amp"
+  - title: "Watch Mike Lindell get tricked by a prank caller pretending to be Donald Trump during a livestream for his new social-media site"
+    excerpt: "MyPillow CEO Mike Lindell launched social-media site Frank on Monday with a 48-hour livestream that was plagued by technical issues and prank calls."
+    publishedDateTime: 2021-04-20T15:42:00Z
+    webUrl: "https://www.businessinsider.com/mike-lindell-frank-donald-trump-prank-call-social-media-mypillow-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/mike-lindell-frank-donald-trump-prank-call-social-media-mypillow-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-lindell-frank-donald-trump-prank-call-social-media-mypillow-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 110
+    quality: 96
     images:
-      - url: "https://i.insider.com/60c5c1d923393a00188e2d53?width=1200&format=jpeg"
-        width: 869
-        height: 434
+      - url: "https://i.insider.com/607ea3c444f4540019207a1a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "flxFKm1JcgLuqZFDDuXXSZq7S75t0BdgAvA9EyEsP1Stsps8QY0Mbduzao+X2fByMZYOwIcNwlsT4o2N/Sksm2dQwIBEBRyi9bYFXXaEEhK6XVLwvMLSWSfIeXq7tF46zpwfejpiclsq8KweyWQfcnipgDZBxWer6/CtNdDNq7xTlohqd69QJYvqoN91q8yJOEr7jyWd+K9lpY2X5qtkMWwz7Th74BVPKp8U40PvdkSrnUQm8JLmjZkhje3I961vhg23LrKc7h+e3thcHiStIAzrTlMW6uV0pwZ1w9L13W8SC41cd/s1Tx4973bevykd0zTBMB31/0QRPFqAhDEtQGfXKvwgCjKDBy/a7Tnh7iZPmj9zhxATH3xWNoldu+cEfNUM2SQ5oCa25Mou8NEKB1R/dScjYHyJZnchKKP1O7HcAuozBd7EWBfK2mFHqUmbPQXvSwi6Xynw7n6ZQh2gRyLE9ZuDYdYpvk+nYHDi4Wa41PJBkJj5FkF6WX342hYO50ikN1QWLYIH71vIrXjD8w==;6tXIvQvN29KK3XZEw4JdlQ=="

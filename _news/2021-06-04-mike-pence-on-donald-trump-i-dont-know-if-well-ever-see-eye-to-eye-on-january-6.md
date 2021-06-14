@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "ICE terminates Trump-era office that focused on victims of immigrant crime   "
+    excerpt: "Immigration and Customs Enforcement has terminated the Trump-era office that focused on victims of crimes linked to undocumented immigrants, another move the Biden administration has taken to distance itself from President Donald Trump's immigration policies.\n    \n"
+    publishedDateTime: 2021-06-14T18:38:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6CstzgkjxHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/ice-terminates-trump-era-voice/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/ice-terminates-trump-era-voice/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614185715-ice-hq-file-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump is more obsessed than ever with 2020 election and is brushing off allies who are telling him to move on"
     excerpt: "Donald Trump is more obsessed than ever with the 2020 election and pushing his lie that there was widespread fraud that led to his defeat, according to several former advisers and allies still close to the former Republican president.\n    \n"
     publishedDateTime: 2021-06-03T15:09:38Z
