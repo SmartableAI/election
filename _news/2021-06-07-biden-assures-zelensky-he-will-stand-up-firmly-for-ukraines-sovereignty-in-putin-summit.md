@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden reaffirms US commitment to NATO, cites 'new challenges' with Russia, China"
+    excerpt: "President Biden on Monday said NATO is \"facing new challenges,\" specifically referring to Russia and China, while maintaining that the NATO alliance is \"essential\" and \"critically important\" for U.S. interests."
+    publishedDateTime: 2021-06-14T15:45:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QTSxKpvjLfI/biden-reaffirms-nato-alliance-russia-china"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reaffirms-nato-alliance-russia-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reaffirms-nato-alliance-russia-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden, at G-7, says US, Russia can work together to help people of ‘Libya’ – meant to say ‘Syria,’ aides say"
     excerpt: "President Joe Biden fumbled during a press conference at the G-7 summit Sunday, mixing up “Libya” and “Syria” – not once, but three times – while discussing humanitarian aid to countries torn apart by civil war."
     publishedDateTime: 2021-06-13T23:39:36Z

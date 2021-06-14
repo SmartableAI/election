@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden reaffirms US commitment to NATO, cites 'new challenges' with Russia, China"
+    excerpt: "President Biden on Monday said NATO is \"facing new challenges,\" specifically referring to Russia and China, while maintaining that the NATO alliance is \"essential\" and \"critically important\" for U.S. interests."
+    publishedDateTime: 2021-06-14T15:45:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QTSxKpvjLfI/biden-reaffirms-nato-alliance-russia-china"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reaffirms-nato-alliance-russia-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reaffirms-nato-alliance-russia-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

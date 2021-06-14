@@ -1582,6 +1582,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden nominated as many minority women to be judges in four months as Trump had confirmed in four years"
+    excerpt: "Sixty five percent of the federal judges confirmed under Donald Trump were non-Hispanic White men. President Biden has launched an early effort to reverse that trend, nominating 11 diverse women to the federal bench."
+    publishedDateTime: 2021-06-14T14:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/interactive/2021/biden-judge-diversity/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A5FYKCPUWRC2PNIG3E4XLQ3ETQ.jpg&w=1200"
+        width: 1200
+        height: 730
+        isCached: true
   - title: "Biden's capital gains tax plan could backfire, says 8VC founder Joe Lonsdale"
     excerpt: "President Joe Biden's $3.5 trillion tax plan includes a hike on the capital gains tax to 39.6% in order to increase revenue. Joe Lonsdale, founding partner at 8VC and Palantir co-founder, joined \"Squawk Box\" on Thursday to discuss why he thinks the proposal may actually do the economy more harm than good."
     publishedDateTime: 2021-05-06T16:18:00Z

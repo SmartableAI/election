@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump-appointed head of DOJ's national security division to leave at end of June"
+    excerpt: "John Demers, the Trump-appointed head of the Justice Department's national security division, is leaving at the end of the month as planned, a person briefed on the matter told CNN Monday.\n    \n"
+    publishedDateTime: 2021-06-14T15:32:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-y5xK5CiSww/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/john-demers-justice-department-leave/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/john-demers-justice-department-leave/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614112912-john-demers-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump advances dangerous disinformation campaign as more states move to restrict the vote"
     excerpt: "Donald Trump's speech before the North Carolina Republican Party Saturday night was a reminder of the danger the former President poses as he undermines America's election system while attempting to reassert himself as kingmaker on the national stage.\n    \n"
     publishedDateTime: 2021-06-06T04:18:45Z

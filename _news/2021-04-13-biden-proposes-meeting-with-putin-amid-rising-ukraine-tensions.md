@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin-meeting-proposal/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464339/210413-biden-putin-mb-1709_f992cb72bd6ed910718633f276f04c2a.jpg"
         width: 3778
         height: 2519
+        isCached: true
+  - title: "Teeing up the Biden-Putin meeting"
+    excerpt: "T-minus two days until the Biden-Putin meeting. After two Russian cyber criminal gangs were linked to ransomware attacks on U.S. critical infrastructure, will we see any progress? (Probably not.) — The G-7 walked away from its summit promising to tackle ransomware together."
+    publishedDateTime: 2021-06-14T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-cybersecurity/2021/06/14/teeing-up-the-biden-putin-meeting-795918"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "IJhPT4cDd02mm+QR9buP8OvNaARgBUpeLRvLWSrxIj0I9EhoXlnihaW8bpHbbqVPH0RPrmqPjqkT9d3DKOJDVi08Z9dsbydXYnVmmI3UAyCTPy17oQk4aZajVLKPDs22it3LhA4OcvMKV9GaVAMmzLJVe194LMmmg4Hn3YG755GQn4CezLVG64T+AdjhtRLWttCIJpds+blfg23lktO81NiWItYiSO5t5/1vVVwrPBylw3QLcQCpfPNQSd5bKHyUJmZw6EMiU+wMecUDjo6Z40CWCP2Qk4BkhtquEkNSwuRwO+P0gygojjAZUIgxxN59hNgcHYpywoy2bMh7/9ibwSpzba5ZRIcFlYKoRItf+aQ=;zBRRfttL7K/FJVIcTKCzRQ=="

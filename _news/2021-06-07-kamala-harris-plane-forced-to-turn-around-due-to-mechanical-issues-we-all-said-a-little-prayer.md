@@ -59,51 +59,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "VP Kamala Harris' plane forced to return due to `technical issue'"
-    excerpt: "The vice president's plane landed safely back at Joint Base Andrews about 25 minutes after takeoff Sunday afternoon."
-    publishedDateTime: 2021-06-06T19:18:00Z
-    webUrl: "https://www.11alive.com/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/vp-kamala-harris-plane-forced-to-return-due-to-technical-issue-air-force-two/507-708b4b03-89b0-4a59-9b72-97059c00c3b1"
+  - title: "Today’s Headlines: A mix of diplomacy and controversy on Kamala Harris’ trip"
+    excerpt: "Vice President Kamala Harris met with Mexico's president after visiting Guatemala and drawing criticism for telling Central Americans to \"not come\" to U.S."
+    publishedDateTime: 2021-06-09T12:00:00Z
+    webUrl: "https://www.latimes.com/world-nation/newsletter/2021-06-09/kamala-harris-guatemala-mexico-todays-headlines"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 102
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/be4cc3f/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F91%2Fe6%2Fa5fd5a494061ab15356db064704c%2Fla-photos-1staff-787294-na-pol-0608-vp-harris-mexico-city-kkn-28909.JPG"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris’ stepdaughter Ella Emhoff praises the ‘ugly’ mullet"
+    excerpt: "From David Bowie to ‘Rambo’ to K-pop stars, the shaggy haircut comes, goes and is back again. Style icon Ella Emhoff explains its appeal in new Vogue feature."
+    publishedDateTime: 2021-06-04T22:36:00Z
+    webUrl: "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet"
+    ampWebUrl: "https://www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/06/04/kamala-harris-stepdaughter-ella-emhoff-praises-the-ugly-mullet/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
     quality: 75
     images:
-      - url: "https://media.11alive.com/assets/CCT/images/11f18511-5d46-4202-b763-553b5ae6080f/11f18511-5d46-4202-b763-553b5ae6080f_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771"
+        width: 1024
+        height: 771
         isCached: true
-  - title: "California Latino leaders criticize Kamala Harris’ ‘Do not come’ message to migrants"
-    excerpt: "Seeking asylum in the United States is not only legal but a matter of life and death for many,” the Latino Caucus leaders said."
-    publishedDateTime: 2021-06-09T21:36:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article252006333.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article252006333.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article252006333.html"
+  - title: "‘Do not come’: Kamala Harris’ three words to Guatemalans stir debate and backlash"
+    excerpt: "When Vice President Kamala Harris gave a high-profile speech in Guatemala in which she told would-be immigrants from Central America “do not come” to the United States, her words instantly provoked ripples of anger and concern among immigrant rights"
+    publishedDateTime: 2021-06-09T13:53:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/do-not-come-kamala-harris-three-words-to-guatemalans-stir-debate-and-backlash/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/do-not-come-kamala-harris-three-words-to-guatemalans-stir-debate-and-backlash/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/do-not-come-kamala-harris-three-words-to-guatemalans-stir-debate-and-backlash/?amp=1"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 48
-  - title: "Vice President Kamala Harris' comments on Central American migration draw fire from left and right"
-    excerpt: "Arizona immigration advocacy groups and Republican elected officials from Arizona denounced her comments for different reasons."
-    publishedDateTime: 2021-06-09T18:56:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/border-issues/2021/06/09/vice-president-harris-comments-central-american-migration-united-states-draw-ire/7611779002/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 21
-  - title: "In Arizona, Vice President Kamala Harris' comments on Central American migration draw fire from left and right"
-    excerpt: "Progressives like AOC, Arizona immigration advocacy groups and Republican elected officials denounced Kamala Harris's comments for different reasons."
-    publishedDateTime: 2021-06-09T23:38:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/06/09/vice-president-harris-comments-central-american-migration-united-states-draw-ire/7628598002/"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 15
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 50
 
 secured: "Y476ViOAKsJuZz3p9AdF2+I8z7x84JXk69gBNuXocVnfMJBvNpjEJTHPhmW6g5X0TF4sjyEbtBRlYjEA2iAEztICw6iwQdZeZy0l7ccaLn87m/PZ/S6588zOJtjv34oQzXE74XeHPMJqZXsjmA3As0Wt1YKaLhvTVFi8AjhmX2hi8UIAZfvIR1l8EKksKFcq/YeUsv5x+oDjsEKmmdUrEqHsgI14QB3SIdEHnikAcprSDuCvozaifVySrtlWdl25sh8eALGTS3IV4B5F+8WM3m6QYhevRP5b07KgIrOI8uDPLmH7V4bi19DEqmjUC05epc0aAj35WzyYh4GAuJ0M0RVsY8s7Rsey/x+zu0aoIY+Dzo+VNwoOkzojaYTeOcwlSoeOMML3AV61Hc3CFtFILmcLZcq2vnY63bqyzVBI5Vr8tHqUFeOinHkD7A5+akjWRI4NtaHKR/vHB8Zu1wPGVL8KiMmCkvAaQPR8QLJqZI+V7PV7pnNhN2Fmsn0WhTH89dhCvAJ1FGw9DuU7ZE7dBw==;lOo9CGlwOaT0BeMgneHMSQ=="
 ---

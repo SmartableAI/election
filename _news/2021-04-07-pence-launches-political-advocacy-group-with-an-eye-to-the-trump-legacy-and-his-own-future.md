@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump-appointed head of DOJ's national security division to leave at end of June"
+    excerpt: "John Demers, the Trump-appointed head of the Justice Department's national security division, is leaving at the end of the month as planned, a person briefed on the matter told CNN Monday.\n    \n"
+    publishedDateTime: 2021-06-14T15:32:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-y5xK5CiSww/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/john-demers-justice-department-leave/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/john-demers-justice-department-leave/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614112912-john-demers-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pelosi says Trump DOJ's targeting of political enemies 'goes even beyond Richard Nixon'"
     excerpt: "The Trump-era Justice Department's decision to secretly seize data of Democrats on the House Intelligence Committee went even beyond the nefarious actions of former President Richard Nixon, House Speaker Nancy Pelosi said Sunday.\n    \n"
     publishedDateTime: 2021-06-13T14:34:44Z

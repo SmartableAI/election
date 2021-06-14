@@ -137,22 +137,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
-    excerpt: "Politicking aside, some Democrats, nonpartisan policy experts and pro-immigrant advocacy groups also say Kamala Harris should visit the border."
-    publishedDateTime: 2021-05-16T00:00:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/05/16/republicans-arent-alone-saying-kamala-harris-should-visit-southern-border/5098783001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5098783001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5098783001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/14/PDTN/3213f99c-f4f9-4f38-b978-9c8fa263a782-US-NEWS-IMMIGRATION-HARRIS-LA.jpg?auto=webp&crop=1499,843,x1,y114&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Kamala Harris blames climate change for immigration crisis at U.S.-Mexico border"
     excerpt: "The Biden administration is reframing the migrant crisis at the U.S.-Mexico border, saying the influx results not from any White House actions, but rather from climate change in Central America’s Northern Triangle of El Salvador,"
     publishedDateTime: 2021-05-07T00:54:00Z
@@ -265,19 +249,19 @@ related:
         width: 1200
         height: 920
         isCached: true
-  - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
-    excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."
-    publishedDateTime: 2021-05-13T20:39:00Z
-    webUrl: "https://bangordailynews.com/2021/05/13/national-politics/republicans-arent-alone-in-saying-kamala-harris-should-visit-southern-border/"
+  - title: "VP Harris announces trip to Mexico, Guatemala"
+    excerpt: "Vice President Kamala Harris announces travel to Northern Triangle countries and said progress on the migration issue 'will not be obvious overnight.'"
+    publishedDateTime: 2021-04-14T15:54:00Z
+    webUrl: "https://www.hawaiinewsnow.com/video/2021/04/14/vp-harris-announces-trip-mexico-guatemala/"
     type: article
     provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 52
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 55
     images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/05/Biden-1-1.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.hawaiinewsnow.com/resizer/mCyqJD0q70x-95JFE4yF8ocvHgs=/1200x0/d1acid63ghtydj.cloudfront.net/04-14-2021/t_07ce704295344215b3cef8fed3fd2a9d_name_file_1280x720_2000_v3_1_.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
@@ -295,6 +279,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
+    excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
+    publishedDateTime: 2021-04-20T23:17:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/apr/20/facebook-posts/no-prime-minister-japan-didnt-hold-trump-2024-sign/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 44
   - title: "Vice President Kamala Harris to talk American Jobs Plan in NC | Charlotte Observer"
     excerpt: "Vice President Kamala Harris will make her first trip to North Carolina since taking office next week to sell the American Jobs Plan. Harris is set to make stops in Greensboro and High Point on Monday,"
     publishedDateTime: 2021-04-14T22:12:00Z

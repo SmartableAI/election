@@ -127,6 +127,20 @@ related:
         width: 3778
         height: 2519
         isCached: true
+  - title: "Teeing up the Biden-Putin meeting"
+    excerpt: "T-minus two days until the Biden-Putin meeting. After two Russian cyber criminal gangs were linked to ransomware attacks on U.S. critical infrastructure, will we see any progress? (Probably not.) — The G-7 walked away from its summit promising to tackle ransomware together."
+    publishedDateTime: 2021-06-14T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-cybersecurity/2021/06/14/teeing-up-the-biden-putin-meeting-795918"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "NPUHahCKDT0YeDLteuRRJZynTsvJ/sAy6I+5yuwUdRuU4HeqBWdo4SBjZWSTaLlUy+FHGmS6dFJyHV1sfulU2D89xO2Zn96FcjavHm2y+uNB8Qx3nIponAbQm6CsJ4DtfwIUVXAtYO5YH8GYEMoh3H7c8nHcVP10353pdt2OXC14o9/dEZUX9hj/hcTzpk6XSQpuqdTmuUD3gsGfPlAsfJaLiyO7QEcFBEslQnGorVj7d/bQpE46yHLyUfmqNtQ2nc036R44RPmFEatSSnhjo0H1ympWL6dLsSFP2x9+h5JRaZdO/i4NP7tx3Nab6Ko8LExwJvWBWV+WNvlaiejf/Ol05J6j/TpRJE8Yz+zJUtU=;3rd9PUEhvOaMqBssArakag=="
 ---

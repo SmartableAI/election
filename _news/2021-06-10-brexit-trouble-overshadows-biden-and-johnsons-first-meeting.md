@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611101015-03-g7-biden-macron-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senate to vote on confirmation of key Biden judicial nominee Ketanji Brown Jackson "
+    excerpt: "Judge Ketanji Brown Jackson, President Joe Biden's pick to fill a vacancy on a powerful DC-based appellate court and one of the President's most closely watched judicial nominees, is on track to be confirmed by the Senate on Monday evening.\n    \n"
+    publishedDateTime: 2021-06-14T15:24:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x1lS6__OAfs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/ketanji-brown-jackson-confirmation-vote-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/ketanji-brown-jackson-confirmation-vote-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428111725-04-ketanji-brown-jackson-hearing-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

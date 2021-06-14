@@ -213,6 +213,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Kamala Harris heads to Guatemala to address immigration on first foreign trip"
+    excerpt: "CBS News senior White House and political correspondent Ed O'Keefe reports on VIce President Kamala Harris' trip to Central America, her first overseas trip since taking office."
+    publishedDateTime: 2021-06-06T15:50:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-heads-to-guatemala-to-address-immigration-on-first-foreign-trip/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 102
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/06/f32c437a-3b09-4f05-a70a-b9a0c05141e5/thumbnail/1200x630/a06647e737a39cdf880110881efb89bc/0606-fttn-okeefe-729408-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A New York Post story about Kamala Harris triggered conservative outrage. Almost all of it was wrong. Now the reporter has resigned."
     excerpt: "The New York Post belatedly corrected stories the journalist says she was “ordered to write,” claiming the vice president’s book was given to undocumented migrants by the thousands."
     publishedDateTime: 2021-04-27T20:18:00Z
@@ -642,22 +656,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/ecea355a-ae51-471b-b0e3-1fbd7eb8f6e5/d32bcb35-22f4-43ca-afa9-db75700f38b0/1280x720/match/image.jpg"
         width: 1279
         height: 720
-        isCached: true
-  - title: "'It's about time': With Kamala Harris and Nancy Pelosi, women share the dais for the first time"
-    excerpt: "\"No president has ever said those words from this podium and it's about time.\" For the first time, both of those positions are now held by women: Vice President Kamala Harris and House Speaker Nancy Pelosi."
-    publishedDateTime: 2021-04-29T10:57:00Z
-    webUrl: "https://www.statesman.com/story/news/politics/2021/04/28/joe-biden-speech-nancy-pelosi-kamala-harris-make-history/7352628002/"
-    ampWebUrl: "https://amp.statesman.com/amp/7352628002"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7352628002"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 63
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/565d2a8b-823e-45df-b682-5b63d9d2a2e9-GTY_1232582885.jpg?auto=webp&crop=3595,2023,x0,y106&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Vice President Kamala Harris boosts public transit in Cincinnati to promote infrastructure bill"
     excerpt: "Vice President Kamala Harris and Sen. Sherrod Brown conducted a roundtable at the University of Cincinnati’s 1819 Innovation Hub to discuss the importance of investing in the nation's public transit infrastructure."

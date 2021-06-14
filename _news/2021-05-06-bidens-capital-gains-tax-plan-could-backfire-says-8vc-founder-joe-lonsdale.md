@@ -1596,6 +1596,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden nominated as many minority women to be judges in four months as Trump had confirmed in four years"
+    excerpt: "Sixty five percent of the federal judges confirmed under Donald Trump were non-Hispanic White men. President Biden has launched an early effort to reverse that trend, nominating 11 diverse women to the federal bench."
+    publishedDateTime: 2021-06-14T14:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/interactive/2021/biden-judge-diversity/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A5FYKCPUWRC2PNIG3E4XLQ3ETQ.jpg&w=1200"
+        width: 1200
+        height: 730
+        isCached: true
   - title: "'We still have a long way to go,' says Joe Biden after disappointing jobs numbers – video"
     excerpt: "Joe Biden did not appear downhearted by a disappointing April jobs report"
     publishedDateTime: 2021-05-07T12:09:00Z
