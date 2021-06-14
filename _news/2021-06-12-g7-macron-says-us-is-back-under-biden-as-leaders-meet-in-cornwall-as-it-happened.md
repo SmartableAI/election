@@ -61,6 +61,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "52% of Americans trust President Joe Biden to negotiate with world leaders, poll shows"
+    excerpt: "A majority of Americans trust President Joe Biden to negotiate on the United States’ behalf with foreign leaders, a new ABC News/Ipsos poll shows. News of the poll comes as Biden prepared to meet Queen Elizabeth II at Windsor Castle after leaders of the Group of Seven wealthy nations agreed to provide poor nations 1 billion COVID-19 vaccine doses,"
+    publishedDateTime: 2021-06-13T18:34:00Z
+    webUrl: "https://www.masslive.com/politics/2021/06/52-of-americans-trust-president-joe-biden-to-negotiate-with-world-leaders-poll-shows.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/06/52-of-americans-trust-president-joe-biden-to-negotiate-with-world-leaders-poll-shows.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/52-of-americans-trust-president-joe-biden-to-negotiate-with-world-leaders-poll-shows.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 67
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YGUPUWBA5ZBUNJYSUYSKNCHB5M.jpg"
+        width: 5588
+        height: 3726
+        isCached: true
   - title: "U.S. increasingly unlikely to meet Biden’s July 4 vax goal"
     excerpt: "For months, President Joe Biden has laid out goal after goal for taming the coronavirus pandemic and then exceeded his own benchmarks. Now, though, the U.S. is unlikely to meet his target to have 70% of Americans at least partially vaccinated by July 4."
     publishedDateTime: 2021-06-08T23:20:00Z

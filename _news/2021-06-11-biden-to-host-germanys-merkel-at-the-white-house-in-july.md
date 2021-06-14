@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/557943-biden-to-host-ger
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july?amp"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 980
     height: 551
     isCached: true
+
+related:
+  - title: "Joe Manchin: the Democrat who holds the fate of Biden’s agenda in his hands"
+    excerpt: "Burst of legislating slowed this week as most conservative Senate Democrat thrust into position of unique power"
+    publishedDateTime: 2021-06-13T18:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/13/joe-manchin-biden-agenda-senate-democrats"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/13/joe-manchin-biden-agenda-senate-democrats"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/13/joe-manchin-biden-agenda-senate-democrats"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/808df3efdb5a196330c45a50e30edb178e13b9fb/0_268_5578_3347/master/5578.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8c3dad6c7987a52609e907505aff5994"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "7QO5vvN9CwWOn0I62g9X6rtyeSa/lc4FP5Zz2+aTqdcuCLu/z1mmf/I5O3dGZyjOAhqWj0dy/yEqs8x0F+c96L11hSHQyFBaxjzdQf6GVi87CSOXhFHIZPb37yXyFuLLELNegiCdCmo7RlHOdhw4DEw19euzuJWJwN1mF4ykeoI4vXlEUbWwpze4MbHg4hoWzQoMCavshrfUF6NY7DPladfLjV8uxlXp3Le29zJhXx4AD9MlNvgf2r/kw1idE91KxgXTQG3lFEq9fh6tPeKJvBTraEIC/dmbOT02+L/qM3s+bYwiXUERnrXIf8okLFgascI/HhfNFSZ7DqsMQlXMXcVqZh01w1Xy/9hE/HEymPQ=;GD6PR6sxOsC2Br6AWyvNAQ=="
 ---

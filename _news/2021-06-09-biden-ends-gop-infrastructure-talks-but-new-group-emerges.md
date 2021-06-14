@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrast
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_b17758efa8044382aabc7f7d67531f65_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Queen hosts Joe Biden for tea at Windsor Castle"
+    excerpt: "US president and first lady welcomed with guard of honour after arriving from G7 summit in Cornwall"
+    publishedDateTime: 2021-06-13T16:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/13/queen-hosts-joe-biden-for-tea-at-windsor-castle"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/13/queen-hosts-joe-biden-for-tea-at-windsor-castle"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/13/queen-hosts-joe-biden-for-tea-at-windsor-castle"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/fc545c7d35f3ded144c7f42333f776e6e9e50a54/0_173_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0fc688401e638ea4a116f52a1d7b010f"
+        width: 600
+        height: 360
         isCached: true
   - title: "All the Queen’s presidents: Biden will be 13th US leader to meet monarch"
     excerpt: "Biden previously met the Queen in 1982 while she has met every US president since Eisenhower except Lyndon B Johnson"

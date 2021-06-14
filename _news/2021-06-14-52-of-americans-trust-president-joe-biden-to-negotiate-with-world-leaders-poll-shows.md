@@ -1,22 +1,30 @@
 ---
 category: news
-title: "U.S. increasingly unlikely to meet Biden’s July 4 vax goal"
-excerpt: "For months, President Joe Biden has laid out goal after goal for taming the coronavirus pandemic and then exceeded his own benchmarks. Now, though, the U.S. is unlikely to meet his target to have 70% of Americans at least partially vaccinated by July 4."
-publishedDateTime: 2021-06-08T23:20:00Z
-originalUrl: "https://lasvegassun.com/news/2021/jun/08/us-increasingly-unlikely-to-meet-bidens-july-4-vax/"
-webUrl: "https://lasvegassun.com/news/2021/jun/08/us-increasingly-unlikely-to-meet-bidens-july-4-vax/"
+title: "52% of Americans trust President Joe Biden to negotiate with world leaders, poll shows"
+excerpt: "A majority of Americans trust President Joe Biden to negotiate on the United States’ behalf with foreign leaders, a new ABC News/Ipsos poll shows. News of the poll comes as Biden prepared to meet Queen Elizabeth II at Windsor Castle after leaders of the Group of Seven wealthy nations agreed to provide poor nations 1 billion COVID-19 vaccine doses,"
+publishedDateTime: 2021-06-13T18:34:00Z
+originalUrl: "https://www.masslive.com/politics/2021/06/52-of-americans-trust-president-joe-biden-to-negotiate-with-world-leaders-poll-shows.html"
+webUrl: "https://www.masslive.com/politics/2021/06/52-of-americans-trust-president-joe-biden-to-negotiate-with-world-leaders-poll-shows.html"
+ampWebUrl: "https://www.masslive.com/politics/2021/06/52-of-americans-trust-president-joe-biden-to-negotiate-with-world-leaders-poll-shows.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/52-of-americans-trust-president-joe-biden-to-negotiate-with-world-leaders-poll-shows.html?outputType=amp"
 type: article
-quality: 35
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Las Vegas Sun
-  domain: lasvegassun.com
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YGUPUWBA5ZBUNJYSUYSKNCHB5M.jpg"
+    width: 5588
+    height: 3726
+    isCached: true
 
 related:
   - title: "Polls: US image abroad has rebounded since Biden took office"
@@ -65,23 +73,16 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "52% of Americans trust President Joe Biden to negotiate with world leaders, poll shows"
-    excerpt: "A majority of Americans trust President Joe Biden to negotiate on the United States’ behalf with foreign leaders, a new ABC News/Ipsos poll shows. News of the poll comes as Biden prepared to meet Queen Elizabeth II at Windsor Castle after leaders of the Group of Seven wealthy nations agreed to provide poor nations 1 billion COVID-19 vaccine doses,"
-    publishedDateTime: 2021-06-13T18:34:00Z
-    webUrl: "https://www.masslive.com/politics/2021/06/52-of-americans-trust-president-joe-biden-to-negotiate-with-world-leaders-poll-shows.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/06/52-of-americans-trust-president-joe-biden-to-negotiate-with-world-leaders-poll-shows.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/52-of-americans-trust-president-joe-biden-to-negotiate-with-world-leaders-poll-shows.html?outputType=amp"
+  - title: "U.S. increasingly unlikely to meet Biden’s July 4 vax goal"
+    excerpt: "For months, President Joe Biden has laid out goal after goal for taming the coronavirus pandemic and then exceeded his own benchmarks. Now, though, the U.S. is unlikely to meet his target to have 70% of Americans at least partially vaccinated by July 4."
+    publishedDateTime: 2021-06-08T23:20:00Z
+    webUrl: "https://lasvegassun.com/news/2021/jun/08/us-increasingly-unlikely-to-meet-bidens-july-4-vax/"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 67
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YGUPUWBA5ZBUNJYSUYSKNCHB5M.jpg"
-        width: 5588
-        height: 3726
-        isCached: true
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
-secured: "doIdPICtfTp6kSpCWAYuP/dVdk3OTyTzxFDiKRSz61lDhoYk34UwdrJ0WIqxybHtBuRxIK1gKEqrkGdPfq8vIfR49+7cHbJf0T0q77nilj7T9AOEF+J9flLaX66p6wb229xyCyfZ72RmCg5hT4d55KJmV0G3M3I4fxPur2UnYLVmtRhi7fLNIt3Skn7vxo7GPcmZoPVgDOlYCH6L8U5phbmatCX2g9OlW6Z8ordAtxW+QcoO5A6Rq1dmHdvSMjOG2Sjbdra35Z1h8FHrFjgTOXaPBjDpP2LtkQaibNQ9akWVwxw9MiBHpwn9+pFNZfq6LavCeAMXJOT67wBChx3gbUVborHuqOc+J3ipEZ155Oo=;S7XSfDNvo3rV42lTXzrwGQ=="
+secured: "yHLlQDiJiAJBGofNRx1JBWd3em/rP4f29gM/ZNsFzTlUpZDUicCfofu1oKklLgcdnvTqFI5I95jxpGp+mfEV3T+TlWtNn28xq021/qcYEBxHaUczK3+gMpGTwVQdB8MvScb/9UaMFNHwq6/Su+07AaWjl1yjRNbYFLhBVGMpMpvHVmHzi+979EmYkFjxt61EfAin/P2PP2Jn7gq3/SGsyNlnzkbvPWAj8pp+yHAKWWWxyA6peudr/MKZy8WJ+Gpwy3LN6SeRKUXn3vECmpXzV/5p7tJU07GC/uFXnCUtVyxFRR0aaHWrwChpOG5LahdLwVd19XC6/s/2TqAFbbi9UgbC7YBCGzkj01WMecPNUy4=;KjWcdGicvTlsYpFD8LYotQ=="
 ---
 

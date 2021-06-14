@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-aviators-greet-q
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-aviators-greet-queen-sunny-afternoon-78254205"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 558
     isCached: true
 
-secured: "UCB+bGcDV/SJnfDf+cDn6vLp/C2qZDT3Wg6pXTSUhLIdgl7ayhlpb7fh3tKI7wvWZPZpsEOBdBusDcERfddJZpi/e5nerY5goFwBRoAZR9zc6J9lB0L7GnOA82t1xdV7zsH1bTavBa1LrcPv5m/JNthmupDQsu9ikOqJytr0u10hYFX3TrIC/HOIIGTOheVmKjQbvduDON/sqpN4UI734G9yQDUP0IGhc+DL80sRpPtURzCuRFrPIEatBDb/L+GPuh6dQBUawqZe/lsTGj8tM6sjThvfUzMDqcOs+LbZpJN77pGdart+MAFbC/rKYia3Vn7t9EEBlupOddX6xw2bL9WzqI9PLDp+cvZvqHclV7k=;7O/6qBLadTzZOBUbdl8sEw=="
+related:
+  - title: "Joe, Jill Biden join Queen Elizabeth II at Windsor Castle for tea following G-7 Summit"
+    excerpt: "At 95, Queen Elizabeth II has met her 13th occupant of the White House, President Joe Biden and his wife, first lady Jill Biden, for tea at Windsor."
+    publishedDateTime: 2021-06-13T21:41:00Z
+    webUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/06/13/joe-jill-biden-meet-queen-elizabeth-windsor-castle/7676168002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/7676168002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7676168002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/13/USAT/8f34546e-a74b-40c4-89f0-f10004140421-GTY_1233432980.jpg?auto=webp&crop=5257,2957,x0,y417&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "5ObC838UEzFqq841h1X6N+TBAS+oyNn/nnv36nNTjRyWtdUMBYOPy0PfVKgSSrkp/40vgSaWMQY+DZWequ72pDpvVJH/T6jUwHAdt5Qofr5NT/qvzM6lyHYZ80Nj18KDwo3izOi8Hcn/VqSrm4HXpYss/mdK/lbEQfjtJuI1Xz/q3jHiQp5Zp/7Et2qwU+j8h9bHhb3iUZHCSgS+BJqzN6sJYrCpLkjbL2zA6K9tZCy24qCqGFv8iegMaVKR4rMkxOLXIehSqyTm6xURl0IqF3skB3LUbnvj9mxx0AHLmJStT67yb1R9RoWOPZzIxlRz+Ck03ua3zDHgtXefBE/3c6xXEiUCtwqdpc6O5xIeLL0=;NM1bwriJcb8RCn8GjWqOyA=="
 ---
 

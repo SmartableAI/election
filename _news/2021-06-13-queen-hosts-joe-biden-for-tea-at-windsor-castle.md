@@ -1,14 +1,14 @@
 ---
 category: news
-title: "White House says Republicans increased offer on Biden infrastructure deal by $50bn - live"
-excerpt: "Shelley Moore Capito, the lead Republican negotiator on the deal – get the latest"
-publishedDateTime: 2021-06-04T22:00:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
+title: "Queen hosts Joe Biden for tea at Windsor Castle"
+excerpt: "US president and first lady welcomed with guard of honour after arriving from G7 summit in Cornwall"
+publishedDateTime: 2021-06-13T16:48:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jun/13/queen-hosts-joe-biden-for-tea-at-windsor-castle"
+webUrl: "https://www.theguardian.com/us-news/2021/jun/13/queen-hosts-joe-biden-for-tea-at-windsor-castle"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/13/queen-hosts-joe-biden-for-tea-at-windsor-castle"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/13/queen-hosts-joe-biden-for-tea-at-windsor-castle"
 type: article
-quality: 116
+quality: 125
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/6d23283704255b71f37f57a1fcb5c2fe60dc8cd4/0_119_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=561831e6ccd9fcd5523f7f24d9a7fad3"
+  - url: "https://i.guim.co.uk/img/media/fc545c7d35f3ded144c7f42333f776e6e9e50a54/0_173_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0fc688401e638ea4a116f52a1d7b010f"
     width: 600
     height: 360
     isCached: true
@@ -127,22 +127,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Queen hosts Joe Biden for tea at Windsor Castle"
-    excerpt: "US president and first lady welcomed with guard of honour after arriving from G7 summit in Cornwall"
-    publishedDateTime: 2021-06-13T16:48:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/13/queen-hosts-joe-biden-for-tea-at-windsor-castle"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/13/queen-hosts-joe-biden-for-tea-at-windsor-castle"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/13/queen-hosts-joe-biden-for-tea-at-windsor-castle"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/fc545c7d35f3ded144c7f42333f776e6e9e50a54/0_173_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0fc688401e638ea4a116f52a1d7b010f"
-        width: 600
-        height: 360
-        isCached: true
   - title: "All the Queen’s presidents: Biden will be 13th US leader to meet monarch"
     excerpt: "Biden previously met the Queen in 1982 while she has met every US president since Eisenhower except Lyndon B Johnson"
     publishedDateTime: 2021-06-11T17:01:00Z
@@ -190,6 +174,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210607&t=2&i=1564817374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH56158"
         width: 828
         height: 545
+        isCached: true
+  - title: "White House says Republicans increased offer on Biden infrastructure deal by $50bn - live"
+    excerpt: "Shelley Moore Capito, the lead Republican negotiator on the deal – get the latest"
+    publishedDateTime: 2021-06-04T22:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/04/joe-biden-us-politics-covid-coronavirus-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/6d23283704255b71f37f57a1fcb5c2fe60dc8cd4/0_119_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=561831e6ccd9fcd5523f7f24d9a7fad3"
+        width: 600
+        height: 360
         isCached: true
   - title: "White House says Republicans increased offer on Biden infrastructure deal by $50bn – as it happened"
     excerpt: "The president spoke with Senator Shelley Moore Capito, the lead Republican negotiator on the deal – get the latest"
@@ -295,6 +295,6 @@ related:
       domain: indystar.com
     quality: 32
 
-secured: "dSEy03uAONfhiNg8PfMfqWbl7vBwtpIKQ9H2FJUMULEM0iAVMtxW5vuOVJ5XHwJzKrO4faQeY3jREMFdiMosS4BqPHdQGNvKFIf9K8JhSbn8wpvtu/qjDVRf0d895ZWSd03UZBDwysLEEEq2UbOTche1Xm9lwxgNFvOZUzWwNj6vPKf0zYwM8iln68wrUtBxIhA3yyM8imcO9gTKewmbBR7jHF5vH7a6qcLspxQQUPq00NpjZXDzrmeigKU3jwPFD+8EoKhE/cyvXnyippCl8QL2WrTvQFQhBkNDP2/Fm64Co0PeuwdgHkI3YO2kBeRgcPN2k1rG6chsgFZ3svX5AIk2YAmOY1LhY0/6lVlShHv5T2EZX25Rxr7qKEeKX3ZKRoV4M6FepgYb7QuVVXXZdqAja8Xmo4xHTLqqndJFB5d1ng/ns3gAlmAOLzMSugF5BTRCs5D4yaia2reNO0elEhzx44mPy0huE9eMNzfqOVNFZqCTt5uPE92AjIGe5VJetdWaV99QIAs3tci+iP0jIA==;1ek3AdVzC3QZchCIi2cDIg=="
+secured: "cDy0+ffd23KpjrQESprGyZQVKtg2+jynklGT+Yj4bhG7BS1P6KNle0KdCQ63UbMTGrG7eWGK4ATPEvUvUUsMSGoR40wUEWSBlte+YATAous4U/o49S1m6o5yM/iuOF9+GDbthV6QYryhCI+2wZLKyhv/1HltQL4QbLCk8l3gE7xt/PKI4ToMKpbn8O5zjNEAXgZFnAQT8MpQL2wMd9xB4X55W5o9i4dTpvueQLDOjbZJXLsUNoPc4zPsFVv0JGUYR95iMVvuwvrXaiCOcCQl1t69MzqvHm3C3mVI5EOLz4OiX1bWtGKVkl7hz7MFi1mGf0Rv/8AxEisrqUw+g2f/bKh4q/5h1ibvFMWwEeuOy8E=;Jh7qupjjpiX5M/zhl2WJ5w=="
 ---
 
