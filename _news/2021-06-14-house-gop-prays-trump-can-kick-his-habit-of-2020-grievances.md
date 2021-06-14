@@ -1,33 +1,34 @@
 ---
 category: news
-title: "New book suggests Birx wanted Trump to lose presidential election"
-excerpt: "A new book written by one of President Joe Biden's top coronavirus advisers suggests Dr. Deborah Birx hoped former President Donald Trump would lose the 2020 presidential election.\n    \n"
-publishedDateTime: 2021-06-12T18:26:55Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DRRk96Qpa9o/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DRRk96Qpa9o/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/deborah-birx-donald-trump/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/deborah-birx-donald-trump/index.html"
+title: "House GOP prays Trump can kick his habit of 2020 grievances"
+excerpt: "As Republicans strategize with Donald Trump on how to retake the House in 2022, they worry his focus on false claims about the 2020 election will create an uncomfortable litmus test."
+publishedDateTime: 2021-06-14T08:30:00Z
+originalUrl: "https://www.politico.com/news/2021/06/13/trump-house-gop-election-493545"
+webUrl: "https://www.politico.com/news/2021/06/13/trump-house-gop-election-493545"
+ampWebUrl: "https://www.politico.com/amp/news/2021/06/13/trump-house-gop-election-493545"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/13/trump-house-gop-election-493545"
 type: article
-quality: 190
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103083154-file-deborah-birx-0420-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/ea/6a/3c75f16b482281f928a10ca92718/gettyimages-1233293639.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -60,6 +61,22 @@ related:
     quality: 193
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115145314-01-mike-pence-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New book suggests Birx wanted Trump to lose presidential election"
+    excerpt: "A new book written by one of President Joe Biden's top coronavirus advisers suggests Dr. Deborah Birx hoped former President Donald Trump would lose the 2020 presidential election.\n    \n"
+    publishedDateTime: 2021-06-12T18:26:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DRRk96Qpa9o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/deborah-birx-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/deborah-birx-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103083154-file-deborah-birx-0420-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -191,22 +208,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "House GOP prays Trump can kick his habit of 2020 grievances"
-    excerpt: "As Republicans strategize with Donald Trump on how to retake the House in 2022, they worry his focus on false claims about the 2020 election will create an uncomfortable litmus test."
-    publishedDateTime: 2021-06-14T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/06/13/trump-house-gop-election-493545"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/06/13/trump-house-gop-election-493545"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/13/trump-house-gop-election-493545"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/ea/6a/3c75f16b482281f928a10ca92718/gettyimages-1233293639.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Army Corps of Engineers race to fix massive gaps in border levees left by Trump"
     excerpt: "The U.S. Army Corps of Engineers are racing to fix massive gaps created while building Trump’s border wall. Residents in the Rio Grande Valley are vulnerable to dangerous flooding until they are fixed."
     publishedDateTime: 2021-06-10T02:33:00Z
@@ -268,6 +269,6 @@ related:
         height: 549
         isCached: true
 
-secured: "+Kua6thldwPLyiRtdbcrJ1HQdLERB5kl3F7bGxnbcgZ3urdQq5lj7o71kfBh9qOQ54p2Q4OOPoQ0uljoqwvMulETAnYd+48e3LgGGE/kBgcgxOBxNd0zBme25XOmlXQtI5m2JRVbcNrISom/gcyDo0JGXFV18f3CxqZc4TxbZnVgnqQq3T1OcG+6K6N6AaJGNqtFxCNmPMwETmbxlsR+ZlrQqfcH4dc5U58tj27MIV2BOckyYFBKXwdYgw62ft4a2aRZh06NAH4nB84iL57rVcGIjR62eFFfWwQYsG4nTn25j4j6SnSId5xv9NBGRWVXpWkxVXqukokVL/XHFe57LLOs84hjAAN3dzVXBnRnEgI=;XjTAQKV0pgXgrH+DmvncLg=="
+secured: "l6WZp8UqCb3J3yeQyMO77lLR+kkzYUbk78BDHoY1KGcryjzHpfeOt+q58hyvr2eKcA1XN9wGJgq8FkWMR3fRzjN+tUTMfwaZLrtV8ZAY6NshgR4KmL59e2e3pun+qJijkfReSGFAsM82rdsdr2nnnQWRkbI4SOSE/bskEMR1j1UdSDFHfSY4uTCGZ0bNSDvWocdwrPayUHh3MrGX76RtJbTEy1qKFMdwtpWpEeGqfr8N8pghDPf8bFeXA7Ou3LsIV5BiWOtDSvk9rN1BBBjPTlzs8P1CxnrPlXqPx0WOuXOGOceI4pzO1M2wuHwQL6/v20C96xz5c6wLjF3c6STpxk/KPmGzv6Ssxs3dt34HDxQ=;4TrQcTIiiOSfizVPReoZDQ=="
 ---
 

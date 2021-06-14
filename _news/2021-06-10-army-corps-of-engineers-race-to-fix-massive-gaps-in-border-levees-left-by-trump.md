@@ -208,6 +208,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "House GOP prays Trump can kick his habit of 2020 grievances"
+    excerpt: "As Republicans strategize with Donald Trump on how to retake the House in 2022, they worry his focus on false claims about the 2020 election will create an uncomfortable litmus test."
+    publishedDateTime: 2021-06-14T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/06/13/trump-house-gop-election-493545"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/13/trump-house-gop-election-493545"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/13/trump-house-gop-election-493545"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ea/6a/3c75f16b482281f928a10ca92718/gettyimages-1233293639.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Independent Watchdog Launches Inquiry into Trump-Era Seizure of Lawmakers’ Data"
     excerpt: "The announcement from the Justice Department’s independent inspector general followed one by Senate Democrats, who announced that they would open their own investigation into the Trump Justice Department’s decision to go after records associated with Congress."
     publishedDateTime: 2021-06-11T20:45:00Z

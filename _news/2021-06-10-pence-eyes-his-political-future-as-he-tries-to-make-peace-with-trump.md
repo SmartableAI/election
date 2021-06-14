@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html"
 type: article
 quality: 200
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -191,6 +191,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05trump-1/05trump-1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "House GOP prays Trump can kick his habit of 2020 grievances"
+    excerpt: "As Republicans strategize with Donald Trump on how to retake the House in 2022, they worry his focus on false claims about the 2020 election will create an uncomfortable litmus test."
+    publishedDateTime: 2021-06-14T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/06/13/trump-house-gop-election-493545"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/13/trump-house-gop-election-493545"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/13/trump-house-gop-election-493545"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ea/6a/3c75f16b482281f928a10ca92718/gettyimages-1233293639.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Army Corps of Engineers race to fix massive gaps in border levees left by Trump"
     excerpt: "The U.S. Army Corps of Engineers are racing to fix massive gaps created while building Trump’s border wall. Residents in the Rio Grande Valley are vulnerable to dangerous flooding until they are fixed."

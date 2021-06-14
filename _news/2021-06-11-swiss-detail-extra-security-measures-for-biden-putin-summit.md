@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/swiss-detail-extr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1819530/g7-summit-buildup.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Some US allies near Russia are wary of Biden-Putin summit"
+    excerpt: "Countries in Central and Eastern Europe are anxious about the coming summit meeting between U.S. President Joe Biden and Russian President Vladimir Putin"
+    publishedDateTime: 2021-06-14T05:23:00Z
+    webUrl: "https://www.washingtonpost.com/world/some-us-allies-near-russia-are-wary-of-biden-putin-summit/2021/06/14/10027c6a-ccd9-11eb-a224-bd59bd22197c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/some-us-allies-near-russia-are-wary-of-biden-putin-summit/2021/06/14/10027c6a-ccd9-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/some-us-allies-near-russia-are-wary-of-biden-putin-summit/2021/06/14/10027c6a-ccd9-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4O3UK5WM2UI6XIREXVM32IQZPQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Joe Biden to hold solo news conference after meeting with Vladimir Putin in Geneva"
     excerpt: "White House says solo press event is 'appropriate format\" to communicate with media about topics raised during Joe Biden, Vladimir Putin meeting."

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "White House downplays Biden-Putin summit, not expecting 'huge outcome'"
-excerpt: "White House press secretary Jen Psaki on Thursday doubled down on Biden using the summit as an opportunity to confront Putin. \"He's going to be straightforward, he's going to be candid, he's not going to hold back,"
-publishedDateTime: 2021-06-10T20:27:00Z
-originalUrl: "https://abcnews.go.com/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263"
-webUrl: "https://abcnews.go.com/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263"
+title: "Some US allies near Russia are wary of Biden-Putin summit"
+excerpt: "Countries in Central and Eastern Europe are anxious about the coming summit meeting between U.S. President Joe Biden and Russian President Vladimir Putin"
+publishedDateTime: 2021-06-14T05:23:00Z
+originalUrl: "https://www.washingtonpost.com/world/some-us-allies-near-russia-are-wary-of-biden-putin-summit/2021/06/14/10027c6a-ccd9-11eb-a224-bd59bd22197c_story.html"
+webUrl: "https://www.washingtonpost.com/world/some-us-allies-near-russia-are-wary-of-biden-putin-summit/2021/06/14/10027c6a-ccd9-11eb-a224-bd59bd22197c_story.html"
+ampWebUrl: "https://www.washingtonpost.com/world/some-us-allies-near-russia-are-wary-of-biden-putin-summit/2021/06/14/10027c6a-ccd9-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/some-us-allies-near-russia-are-wary-of-biden-putin-summit/2021/06/14/10027c6a-ccd9-11eb-a224-bd59bd22197c_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/General/biden-summit-01-rt-llr-210609_1623270675294_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4O3UK5WM2UI6XIREXVM32IQZPQ.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "White House downplays Biden-Putin summit, not expecting 'huge outcome'"
+    excerpt: "White House press secretary Jen Psaki on Thursday doubled down on Biden using the summit as an opportunity to confront Putin. \"He's going to be straightforward, he's going to be candid, he's not going to hold back,"
+    publishedDateTime: 2021-06-10T20:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/biden-summit-01-rt-llr-210609_1623270675294_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Switzerland Restricting Airspace Ahead of Biden-Putin Meeting"
     excerpt: "Swiss authorities made the decision to restrict airspace and deploy up to 3,000 troops and police officers ahead of next week's Geneva summit to protect against terrorist threats that remain \"high in Switzerland and Europe."
     publishedDateTime: 2021-06-11T17:22:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1819530/g7-summit-buildup.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Some US allies near Russia are wary of Biden-Putin summit"
-    excerpt: "Countries in Central and Eastern Europe are anxious about the coming summit meeting between U.S. President Joe Biden and Russian President Vladimir Putin"
-    publishedDateTime: 2021-06-14T05:23:00Z
-    webUrl: "https://www.washingtonpost.com/world/some-us-allies-near-russia-are-wary-of-biden-putin-summit/2021/06/14/10027c6a-ccd9-11eb-a224-bd59bd22197c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/some-us-allies-near-russia-are-wary-of-biden-putin-summit/2021/06/14/10027c6a-ccd9-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/some-us-allies-near-russia-are-wary-of-biden-putin-summit/2021/06/14/10027c6a-ccd9-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4O3UK5WM2UI6XIREXVM32IQZPQ.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Joe Biden to hold solo news conference after meeting with Vladimir Putin in Geneva"
     excerpt: "White House says solo press event is 'appropriate format\" to communicate with media about topics raised during Joe Biden, Vladimir Putin meeting."
@@ -128,6 +128,6 @@ related:
         height: 707
         isCached: true
 
-secured: "asFZ+iBuNagZniEnIJLHc8rm1UN1lCfG7LvNcwGySTql0AfRyJrc4Bo0fSsWBvcsRux+eFwnxMOxMz2jvrTF2a5WunFPO5Eb+igJHXFRgcSC++eHZQ37O2GhT6zgaNxC0h14zYDOdyA43DF10bHD/idYbSYi/FxrRgcWoATUtas8WFGW7PPvAGhT1ecJMs+B6vDzirEtdOGeFZzXE8qNWJX6D8IaPlW/T6FIxtnPILww7VlH5G2Hep0Oz/iS5UTNypfYvYIE0khq67FEEJAsZnY3JCUvCuVgqRvuTiDYKaBa2KqMQ2muXOhD8TrEU4BB3D3l77njsYxTxl+lAz+/tTh8I1Qd+WFLhwG8aBvudsw=;szcF3IUWMo0cQmmUsl2OGg=="
+secured: "iJ+CNWgnwXZbsTI2S6Rz6SPRw962JVD3Rf2Z/7/VP3YWCdRTPrCRuEpkO5f0dWItrPrSYa9VQXgJTN+tmLDewnjsc34tCzddgHzjB3piHuj/RvEAdktaewW0/yY28m5ThlNOON3gNGOl7RLEdEOLi37xiW93hmQWu1Az177JX0evjRLY97Ko8vRcf8u8OrnqnAbcJRTtjZs666NwVzhVhYHurUeuwXmXnF8dIuSP8FFtwZKTTKE9IHQoEjE/q6bS3aTj3yskROs0NEf6DV3RbP2imzHxd0Mc5VpWNulP8DrxqfXri6GSzR+MNCbAgsjoH4c/YK6IFC6URDFSw4a05aCexUMCrCXqXYdf03d4pQ0=;Jwv69wTqJtjisKbsEDiyFQ=="
 ---
 
