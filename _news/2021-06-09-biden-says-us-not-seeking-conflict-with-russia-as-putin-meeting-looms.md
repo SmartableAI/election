@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden, at G-7, says US, Russia can work together to help people of ‘Libya’ – meant to say ‘Syria,’ aides say"
+    excerpt: "President Joe Biden fumbled during a press conference at the G-7 summit Sunday, mixing up “Libya” and “Syria” – not once, but three times – while discussing humanitarian aid to countries torn apart by civil war."
+    publishedDateTime: 2021-06-13T23:39:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9BrTkm7C6oE/biden-g7-us-russia-help-people-libya-syria"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-g7-us-russia-help-people-libya-syria.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-g7-us-russia-help-people-libya-syria.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b8be70-6089-4102-ba58-362e44a8a4a3/7110526e-323f-4439-b4fc-5bf2b6009b8f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "BsXA5ypfKVmmQRv7HF8MAkvXnuT1/gqVJxBdDdp/2ekJ7028uOOqx4Tw8aDLSdNLUi8/lYDuVSn7tdRktUMZXPLyVE7BDY8GfrXqw5U/wDME5LxkfOH6TH6Nw/HtREFNn+Bn0b5QIoqFYCmIO5j7TcLX11NhWKRni/dGhoAro5wU8jbBWAlZVlOmDLJo2npI4t0aVHhX1VfNHQ7ElevQYqZDP05gZQPC3jOYEaMNag+VvQtuipOWdj+/Kh6/JvIgVnWGaRabciDzVJtDcnPQN7AK6weKn5CO7Aad0F3uhfws4OXlxSPhMOc9LfdNvZx5EeRcxuba1WAD4Lda6x2xXc3aI/3FjtNdbWCE+avyxyQ=;Al71IPAEdEESnoAtoKpGyQ=="

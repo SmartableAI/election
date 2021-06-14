@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-14-biden-says-very-gracious-queen-reminded-me-of-my-mother.md",
+      "title": "Biden says 'very gracious' queen 'reminded me of my mother'",
+      "excerpt": "President Joe Biden and first lady Jill Biden visited Queen Elizabeth II at Windsor Castle on Sunday, and afterward the president told reporters traveling with him that the 95-year-old monarch was “ve",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-aviators-greet-queen-sunny-afternoon-78254205",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-aviators-greet-queen-sunny-afternoon-78254205",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_9a0e9670065a46418d27a01c55230205_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-aviators-greet-queen-sunny-afternoon-78254205",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-aviators-greet-queen-sunny-afternoon-78254205",
+      "publishedDateTime": "2021-06-13T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-joe-biden-unearthing-the-presidents-unsung-english-roots.md",
       "title": "Joe Biden: Unearthing the president's unsung English roots",
       "excerpt": "Joe Biden's presence in the UK this week brings him closer to a part of his family heritage that had been obscure - until recently. Last year an English link was added to Mr Biden's well-known Irish ancestry.",
@@ -1553,58 +1605,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-biden-visits-tulsa-to-honor-victims-of-1921-race-massacre-us-politics-live.md",
-      "title": "Biden visits Tulsa to honor victims of 1921 race massacre – US politics live",
-      "excerpt": "President to commemorate hundreds who died in attack by white mob – follow all the day’s politics news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b645058f08b9889b365a08",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live?page=with:block-60b645058f08b9889b365a08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 242,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0d3ad303e825c14e8de5210b5c83e95d929b332d/0_107_3980_2389/master/3980.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1beca5805e55e7773443ec4f37679480",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/01/joe-biden-tulsa-oklahoma-race-massacre-us-politics-live",
-      "publishedDateTime": "2021-06-01T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden assures Zelensky he will 'stand up firmly' for Ukraine's sovereignty in Putin summit"
-excerpt: "President Biden told Ukrainian President Volodymyr Zelensky on Monday that he will “stand up firmly” for Ukraine’s sovereignty during his meeting with Russian President Vladimir Putin next week, while extending an invitation to the White House later this summer."
-publishedDateTime: 2021-06-07T19:11:39Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nFvkUPPYWE/biden-assures-zelensky-ukraine-sovereignty-putin-summit"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nFvkUPPYWE/biden-assures-zelensky-ukraine-sovereignty-putin-summit"
-ampWebUrl: "https://www.foxnews.com/politics/biden-assures-zelensky-ukraine-sovereignty-putin-summit.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-assures-zelensky-ukraine-sovereignty-putin-summit.amp"
+title: "Biden, at G-7, says US, Russia can work together to help people of ‘Libya’ – meant to say ‘Syria,’ aides say"
+excerpt: "President Joe Biden fumbled during a press conference at the G-7 summit Sunday, mixing up “Libya” and “Syria” – not once, but three times – while discussing humanitarian aid to countries torn apart by civil war."
+publishedDateTime: 2021-06-13T23:39:36Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9BrTkm7C6oE/biden-g7-us-russia-help-people-libya-syria"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9BrTkm7C6oE/biden-g7-us-russia-help-people-libya-syria"
+ampWebUrl: "https://www.foxnews.com/politics/biden-g7-us-russia-help-people-libya-syria.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-g7-us-russia-help-people-libya-syria.amp"
 type: article
-quality: 165
+quality: 156
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b8be70-6089-4102-ba58-362e44a8a4a3/7110526e-323f-4439-b4fc-5bf2b6009b8f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -79,23 +79,23 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden, at G-7, says US, Russia can work together to help people of ‘Libya’ – meant to say ‘Syria,’ aides say"
-    excerpt: "President Joe Biden fumbled during a press conference at the G-7 summit Sunday, mixing up “Libya” and “Syria” – not once, but three times – while discussing humanitarian aid to countries torn apart by civil war."
-    publishedDateTime: 2021-06-13T23:39:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9BrTkm7C6oE/biden-g7-us-russia-help-people-libya-syria"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-g7-us-russia-help-people-libya-syria.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-g7-us-russia-help-people-libya-syria.amp"
+  - title: "Biden assures Zelensky he will 'stand up firmly' for Ukraine's sovereignty in Putin summit"
+    excerpt: "President Biden told Ukrainian President Volodymyr Zelensky on Monday that he will “stand up firmly” for Ukraine’s sovereignty during his meeting with Russian President Vladimir Putin next week, while extending an invitation to the White House later this summer."
+    publishedDateTime: 2021-06-07T19:11:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nFvkUPPYWE/biden-assures-zelensky-ukraine-sovereignty-putin-summit"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-assures-zelensky-ukraine-sovereignty-putin-summit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-assures-zelensky-ukraine-sovereignty-putin-summit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b8be70-6089-4102-ba58-362e44a8a4a3/7110526e-323f-4439-b4fc-5bf2b6009b8f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
-secured: "uCYtWacWNCEPhNGxVKtmUbMr+87cYiUmxeJedqf/9BuH9rRx8nv52gnM7Y3qKfBwJQO5zljQDXCzDH6GTAzIzhoJrsMq+rZOu3pqs3+YXbAoK5EJJMq4GMpcLI/B752VMZVSumIjtYC5XWxlL22Tz2kGoKPWyhRstAuAFQ1YpyTyEe1Xn3QyyubZYAQOSEVa+SXj29TQHNRCFIXK9bTegObdVp3r/nD8YLz9PlHZRpXXKfzyoyudMn0XPpaEGh3MR8Oj51tZY+56d97aEPF1SCWbNcVWonf+DUqLUHOpQWz5I3RfXf4i5cYHtIAbb6OwBy6jRBjmQORPkLPaQVUKiFybs6ZmuaSphsU+VQEBNQo=;kCz06O1yelT6TqYoaN13tw=="
+secured: "XjQGOhtpWpwK2bI6p9rBmaui6aEnIo9EwesiWkMfbU+PnALPw4cnK/rJKckPtPWEEI8hlryQl63/nYAOiu86VnYcrmtV2LKCaKgg21a01LOsRLLR/wT5AerS9Jp9mC6ei1NJh0E2Adu2fAyLJRpeZ9aLI8whnUQebHB9vkSf5uzF88/8DPRbuwO21ysSusx19R6LJ8W2YXyPya4zgR7HMsskDVVsjwahYitOLX7UJ5zrlx98D/Ju7klSimOk0IyNsJM4RJ9EuNflfDtIaF0RUMM1WYAWH6MzExDmyTpkQrxYbWFO+P2q8EnK1629wXEJh5LBByb4Fxx97lHAkHrf6riImMm1P6CB+Wb67JbaHsw=;eto9ct4MTyve3FtBd6Q7AQ=="
 ---
 

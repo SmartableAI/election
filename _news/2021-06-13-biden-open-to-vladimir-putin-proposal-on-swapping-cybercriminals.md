@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden, at G-7, says US, Russia can work together to help people of ‘Libya’ – meant to say ‘Syria,’ aides say"
+    excerpt: "President Joe Biden fumbled during a press conference at the G-7 summit Sunday, mixing up “Libya” and “Syria” – not once, but three times – while discussing humanitarian aid to countries torn apart by civil war."
+    publishedDateTime: 2021-06-13T23:39:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9BrTkm7C6oE/biden-g7-us-russia-help-people-libya-syria"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-g7-us-russia-help-people-libya-syria.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-g7-us-russia-help-people-libya-syria.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b8be70-6089-4102-ba58-362e44a8a4a3/7110526e-323f-4439-b4fc-5bf2b6009b8f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "9hTZ5HTZwueqQWR+5LfIcCb8iNsjBSkfuDAM9QdR1xcnGBg23eaDIcEx4U+67GvuAmTMymRxlbzOpzXTtJgUy2htHWRXMgwQL4G2CWI2wLSAno/ozEqRM6NPjph1JwzvX3jl1YBZYyow9PiMawg3oxhq9TZAz/Yhya2J8+IGoRXxjJRohYOLq8lDNevdv0l1kgO+1LQUkI54DP/cahtdCBYU+KgSF1aTB88S6kgkW32zdKWGekajE67/AAeY9KUqlqrdhZzUq36mY7cTRBgXFmkukdzyzYTWchlJ4U9fY4mg2n0dialRs58TCNV/V8P859+ynXixuRpQxo2lSiaHxCvTQDpTTA+TcEpapH9aeqA=;tHxHke01EUSUBlKN34P0dw=="
 ---
