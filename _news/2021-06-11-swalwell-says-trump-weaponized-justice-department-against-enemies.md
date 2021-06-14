@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-house-democrats-swalwell-reaction-cnntv/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606070442-0606-trumpgopnc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Justice Department can keep the Barr memo on not charging Trump secret for now, judge rules"
+    excerpt: "Judge Amy Berman Jackson is allowing the Justice Department to keep secret part of a key memo to then-Attorney General William Barr from his top advisers in March 2019 that backed his decision not to charge then-President Donald Trump with obstruction of justice.\n    \n"
+    publishedDateTime: 2021-06-14T16:37:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQdWTIxP3XY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/barr-memo-mueller-secret/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/barr-memo-mueller-secret/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190529143216-barr-mueller-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

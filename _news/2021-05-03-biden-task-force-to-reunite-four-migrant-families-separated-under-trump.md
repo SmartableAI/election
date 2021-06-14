@@ -1299,6 +1299,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden to use Nato summit to atone for damage of Trump years"
+    excerpt: "Omens are favourable, but experts warn previous four years will have lasting consequences"
+    publishedDateTime: 2021-06-14T11:11:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jun/14/joe-biden-to-use-nato-summit-to-atone-for-damage-of-trump-years"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jun/14/joe-biden-to-use-nato-summit-to-atone-for-damage-of-trump-years"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jun/14/joe-biden-to-use-nato-summit-to-atone-for-damage-of-trump-years"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
   - title: "President Biden, first lady to visit former President Jimmy Carter in Georgia this week"
     excerpt: "Biden was a young Delaware senator and Carter ally during the Georgian’s term in the White House, from 1977 to 1981."
     publishedDateTime: 2021-04-27T20:49:00Z

@@ -49,8 +49,8 @@ related:
         isCached: true
   - title: "Joe Biden meets Nato leaders and Turkish president Erdoğan – US politics live"
     excerpt: "President continues European trip with summit in Brussels – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-14T14:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c764448f08232f71fc75bc"
+    publishedDateTime: 2021-06-14T14:55:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c776438f0801e93ba5a3dc"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
     type: article
@@ -59,9 +59,9 @@ related:
       domain: theguardian.com
     quality: 122
     images:
-      - url: "https://i.guim.co.uk/img/media/a09c424739074a6e6e4abef250c4d3068e106bc7/0_15_2200_1320/master/2200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=71a2b314eb712f02d333aec313eabfd0"
+      - url: "https://i.guim.co.uk/img/media/f6c6469fe0412060410bde9479227097557a8be2/0_0_3200_2128/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f33bc204b677e8e4a8f3bf452678da43"
         width: 600
-        height: 360
+        height: 400
         isCached: true
   - title: "Joe Manchin is opposing big parts of Biden's agenda as the Koch network pressures him"
     excerpt: "The Koch network has been actively pressuring Democratic Sen. Joe Manchin to oppose key legislative items linked to Biden's agenda."

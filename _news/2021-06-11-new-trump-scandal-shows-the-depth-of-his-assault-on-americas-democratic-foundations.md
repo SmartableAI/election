@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Justice Department can keep the Barr memo on not charging Trump secret for now, judge rules"
+    excerpt: "Judge Amy Berman Jackson is allowing the Justice Department to keep secret part of a key memo to then-Attorney General William Barr from his top advisers in March 2019 that backed his decision not to charge then-President Donald Trump with obstruction of justice.\n    \n"
+    publishedDateTime: 2021-06-14T16:37:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQdWTIxP3XY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/barr-memo-mueller-secret/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/barr-memo-mueller-secret/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190529143216-barr-mueller-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Justice Department subpoenaed Apple for data from House Intelligence Committee Democrats, sources say"
     excerpt: "Prosecutors in the Trump administration Justice Department subpoenaed Apple for data from the accounts of House Intelligence Committee Democrats -- including Chairman Adam Schiff -- along with their staff and family members as part of a leak investigation, an Intelligence Committee official and a source"
     publishedDateTime: 2021-06-11T01:56:00Z

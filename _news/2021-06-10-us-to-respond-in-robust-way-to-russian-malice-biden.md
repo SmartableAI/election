@@ -61,6 +61,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Catholic bishops may change Communion rules to rebuke politicians like Biden supporting abortion rights"
+    excerpt: "Conservative bishops want President Biden and other Catholic politicians to know that support of abortion rights could disqualify them from Communion."
+    publishedDateTime: 2021-06-14T16:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/06/14/catholic-politicians-communion-based-abortion-views-us-bishops/7686378002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7686378002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7686378002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/14/USAT/d339558c-26ad-4a37-b182-e3dbe05ddee4-AP_Catholic_Bishops_Communion_and_Politics.jpg?auto=webp&crop=2638,1484,x0,y82&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "52% of Americans trust President Joe Biden to negotiate with world leaders, poll shows"
     excerpt: "A majority of Americans trust President Joe Biden to negotiate on the United States’ behalf with foreign leaders, a new ABC News/Ipsos poll shows. News of the poll comes as Biden prepared to meet Queen Elizabeth II at Windsor Castle after leaders of the Group of Seven wealthy nations agreed to provide poor nations 1 billion COVID-19 vaccine doses,"
     publishedDateTime: 2021-06-13T18:34:00Z

@@ -1314,6 +1314,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden to use Nato summit to atone for damage of Trump years"
+    excerpt: "Omens are favourable, but experts warn previous four years will have lasting consequences"
+    publishedDateTime: 2021-06-14T11:11:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jun/14/joe-biden-to-use-nato-summit-to-atone-for-damage-of-trump-years"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jun/14/joe-biden-to-use-nato-summit-to-atone-for-damage-of-trump-years"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jun/14/joe-biden-to-use-nato-summit-to-atone-for-damage-of-trump-years"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
   - title: "President Biden, first lady to visit former President Jimmy Carter in Georgia this week"
     excerpt: "Biden was a young Delaware senator and Carter ally during the Georgian’s term in the White House, from 1977 to 1981."
     publishedDateTime: 2021-04-27T20:49:00Z
@@ -2149,6 +2160,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "KN0O/X3WO2hUyOw5BujKPIqni+PsllGj5OvnSx1hrUNfAe9auE7g8Jh4Uhc3bVOWDTlDnfs5el2K74A1qGHqU3rqdFxQ/TKWiwavbGxD7zifsJyB2DhAJOQxHr/nlyUIOiEUFPX3UaSQJYOzD6MhxcmwSotzxl6bNWbuHVIYRNuhpaU892dOTDmcH1tOILgEd1OTTeYs6lohNbWl07MoNjIqvrrvawFNLiCSeO/+5dP7S99csVRW/5SOFkLzFmTzjSAf27kL1jSFZ7V68tP8vggWcR9V4fB0w6cmuBJolmf5D2y7vKWr4Jh8uTD69rk0hWqmxJJm3LsuLMhQMKDdJIUzFo7P9RZ3D0//2QEKugI=;kEfxhhhI57QeojjgAX3Dog=="
+secured: "wX1YBd1OCTQmo8MYZNynlWtd5tRS7XtZbmw/2yD4BqvWDZUkYWale4/hI4x0nU/HTxlLop93/F+j8VTqPPUDv1H2/a1YDrwsaMCc/BxJxb0utxZs1szlIrY4O4zJZ1O0TlqL1aF8QfwQHOzKlaMuOiWJT9AN+gaJEIYl7VuLg4g6mb6X3ILlcI8R33W5+I5Mj8z3RmS6xUAJngPPiunCZ4YQ5sOBp7NwtUJyx1DKK3U6t6h4NzYBGwxh+vjEq9gfkY6TH3z1XXPOcbzIgkQ1OjldW5AWDmzB9DQmbTjO/zgJhVkhwWbQLuicAxrMNHGHV4ENu1Tlo/8ELUmG/z3vbM862MPhqaOEkqgoI7cYtYDQm6v9uLefRQg4Vw3A+MWfNtmxa4oBRNqSP4FzkQ+jdnOvro6gbOWiyl6RDPSnMENa9SeQMu0HK7nky3VA2ANOPxcad04ZkIQakSItvipiHVuZ0K9ktXqxdEwtguY0NiBVvf/QBdb0aj4T3grwUPkvXFrm8ZxqTmqM+6nWdJcGmg==;cFdKDr11SM/QegOtaftZ6Q=="
 ---
 

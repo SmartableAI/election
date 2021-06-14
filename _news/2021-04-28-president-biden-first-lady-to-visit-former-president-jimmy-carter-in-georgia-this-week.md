@@ -1316,6 +1316,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden to use Nato summit to atone for damage of Trump years"
+    excerpt: "Omens are favourable, but experts warn previous four years will have lasting consequences"
+    publishedDateTime: 2021-06-14T11:11:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jun/14/joe-biden-to-use-nato-summit-to-atone-for-damage-of-trump-years"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jun/14/joe-biden-to-use-nato-summit-to-atone-for-damage-of-trump-years"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jun/14/joe-biden-to-use-nato-summit-to-atone-for-damage-of-trump-years"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
   - title: "President Biden touts direct relief for businesses with Restaurant Revitalization Fund"
     excerpt: "President Joe Biden called the newly launched Restaurant Revitalization Fund \"badly needed\" Wednesday as he continues to tout the implementation of the American Rescue Plan. The application process for the $28."
     publishedDateTime: 2021-05-05T19:19:00Z

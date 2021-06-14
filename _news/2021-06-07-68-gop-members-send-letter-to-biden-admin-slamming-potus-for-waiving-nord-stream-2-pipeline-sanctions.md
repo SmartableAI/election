@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Sunday Morning Futures' on Big Tech censorship, Biden's handing of immigration crisis"
+    excerpt: "This is a rush transcript from \"Sunday Morning Futures,\" June 13, 2021. This copy may not be in its final form and may be updated. MARIA BARTIROMO, FOX NEWS ANCHOR: All right, that was President Biden holding a live news conference in the United Kingdom this morning following the G7 summit."
+    publishedDateTime: 2021-06-14T16:09:00Z
+    webUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-big-tech-censorship-bidens-handing-of-immigration-crisis"
+    ampWebUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-big-tech-censorship-bidens-handing-of-immigration-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/sunday-morning-futures-on-big-tech-censorship-bidens-handing-of-immigration-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d8a7547-af95-4962-887d-e16037f87bef/04ab00da-4592-4e46-aade-ae7735c69dbd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "oA18RWhYgORL8gix5amAdUaXgif/dpLRCcPDlcqcfQYrTjbxeWbbyjSXi1xmvWKajySb/H/ZvDLJkiIpvPD0OW8Z2oT4cwRwPZqGwDF0x4Bf4eSZ7d8Lk3bgkmCn8QjM7KQFwLsBIOxrAjo/F9PlXkAcYkC72IK5HsvVb0DsDXA8SEhojqVe0UMQTWqvTzggoiGjHktoMXHw6twm9/Nhktj/6WQubjKjqY6u1iHP7Kbypoupvx7GoNoJTtncpV/mnYNaKVgh5MV9wcQN73f7CdGrLM7P1/N0fk1U20Q/+URlU97vqmkauwOpmMANHFu/T6adsjFTJr71WBEseP9aHraCo0riDonE4etVjQQmm6k=;GHHVlbxpf++bh5M1YrZl2Q=="
 ---

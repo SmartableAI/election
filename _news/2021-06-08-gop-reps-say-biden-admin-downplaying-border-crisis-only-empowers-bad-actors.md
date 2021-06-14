@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-biden-border-crisis-empowers-ba
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-biden-border-crisis-empowers-bad-actors.amp"
 type: article
 quality: 172
-heat: 212
+heat: 232
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/biden-fbi.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "'Sunday Morning Futures' on Big Tech censorship, Biden's handing of immigration crisis"
+    excerpt: "This is a rush transcript from \"Sunday Morning Futures,\" June 13, 2021. This copy may not be in its final form and may be updated. MARIA BARTIROMO, FOX NEWS ANCHOR: All right, that was President Biden holding a live news conference in the United Kingdom this morning following the G7 summit."
+    publishedDateTime: 2021-06-14T16:09:00Z
+    webUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-big-tech-censorship-bidens-handing-of-immigration-crisis"
+    ampWebUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-big-tech-censorship-bidens-handing-of-immigration-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/sunday-morning-futures-on-big-tech-censorship-bidens-handing-of-immigration-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d8a7547-af95-4962-887d-e16037f87bef/04ab00da-4592-4e46-aade-ae7735c69dbd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "NveYl1EjJ+/lkBhKVzFQ82g9R0zc0BdP6Vu2v5NdI5lF1ZMKZ9ZIfk+Vssocf/nT2imf2HX71bUCJbonhhmgCgem3kUOFsGM/HcEBgLDe25kUeKxKjPPQrgl03bOq3pjkC9osFdIhNuP7MQcVlrih7SdOC2d5xzzRvJoiQPaFN7HLf3cCpKV2CCaCAfvP4Oys5sB9d6cihTQUqyK5PV5y2gUph0W5qeDzZ0tbnYwXSGwgnSMjPq+/eTYX6pKz4gfNB307gpH1FTE9ZE8ylRk0G2JJ370POEagSQ8Pwobj3BpLc9CVS6T2iut55A+WgzmuJY9cCkjKG9bel9/BH1uPRWl3+gT6Kced0ksxcJGeu0=;wAZbAk+4ZyzuJbyyAtY5hw=="

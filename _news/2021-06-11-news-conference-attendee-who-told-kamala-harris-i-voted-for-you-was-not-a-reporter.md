@@ -674,6 +674,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Vice President Kamala Harris' motorcade travels through Greenville"
+    excerpt: "Motorcade passes through Greenville as a group chants “build the wall.” A small group of Harris supporters shouted their support amidst the protests."
+    publishedDateTime: 2021-06-14T16:39:00Z
+    webUrl: "https://www.greenvilleonline.com/videos/news/local/south-carolina/2021/06/14/vice-president-kamala-harris-motorcade-travels-through-greenville/7687033002/"
+    type: article
+    provider:
+      name: Greenville News
+      domain: greenvilleonline.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/14/PGRE/6474a143-8a95-478e-b45f-b7e0e1d46a1a-protest2.jpg?quality=10"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."
     publishedDateTime: 2021-05-13T20:39:00Z
@@ -715,6 +729,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/20/42/17/21111798/3/rawImage.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "VP Kamala Harris visits Upstate SC to promote COVID-19 vaccines, discuss voting rights"
+    excerpt: "Vice President Kamala Harris is in the Upstate on June 14. Harris arrived at Greenville-Spartanburg International Airport around 11:30 a.m."
+    publishedDateTime: 2021-06-14T15:50:00Z
+    webUrl: "https://www.postandcourier.com/greenville/politics/vp-kamala-harris-visits-upstate-sc-to-promote-covid-19-vaccines-discuss-voting-rights/article_89e93042-ccba-11eb-ab1b-abf2bb9df624.html"
+    type: article
+    provider:
+      name: Post and Courier
+      domain: postandcourier.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/fe/dfe0082a-cd34-11eb-b514-5fa5597c42dd/60c78ff64b56d.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
   - title: "Guatemala is Kamala Harris' first stop on her trip to talk migration. Why is that nation an important player?"
     excerpt: "Vice President Kamala Harris has worked closely with Guatemala and Mexico to address the root causes of migration."
