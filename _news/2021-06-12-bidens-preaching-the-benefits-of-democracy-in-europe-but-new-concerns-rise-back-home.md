@@ -47,6 +47,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden and Putin to meet in summit reverberating with Cold War echoes"
+    excerpt: "Joe Biden's showdown with Russia's Vladimir Putin on Wednesday is one of the most critical summits of recent times, and not just because relations between the two nations -- which together own 90% of the world's nuclear weapons -- have plummeted to post-Cold War lows.\n    \n"
+    publishedDateTime: 2021-06-15T21:50:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hPPJCNgHKzk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/geneva-summit-joe-biden-vladimir-putin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/geneva-summit-joe-biden-vladimir-putin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210615162537-02-biden-putin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden names 9 ambassador nominees, including 'Sully' Sullenberger, but posts in Europe and Asia are still to come"
+    excerpt: "President Joe Biden on Tuesday announced his nominees to serve as ambassadors to Israel, Mexico, NATO and several other posts, including Capt. Chesley \"Sully\" Sullenberger III to represent the United States on an international civil aviation safety board.\n    \n"
+    publishedDateTime: 2021-06-15T19:59:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sp0h4Tx2Zwc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/ambassadors-named-by-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/ambassadors-named-by-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200905121919-01-captain-sully-sullenberger-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Biden Departs for Europe to Bolster Alliances"
     excerpt: "President Biden, in the first foreign trip of his term, will make the case that America is back and ready to lead anew. Before he left, Mr. Biden cut off infrastructure talks with Republicans that had failed to yield a deal,"
     publishedDateTime: 2021-06-09T08:43:00Z

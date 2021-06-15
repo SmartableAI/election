@@ -355,6 +355,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Joe Biden nominates three to be federal judges in Connecticut"
+    excerpt: "President Joe Biden on Tuesday named his picks to serve as judges on the federal bench in Connecticut, including one prosecutor who could be the first person of South Asian descent to serve in the state’s federal courts."
+    publishedDateTime: 2021-06-15T18:29:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/President-Joe-Biden-nominates-three-to-be-federal-16249747.php?src=sthplocal"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/46/03/21127399/3/rawImage.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Joe Biden public lands nominee linked to 1989 sabotage draws Republican ire"
     excerpt: "The animosity toward her nomination reflects anger among some Republicans over Tracy Stone-Manning's role in the 2020 election."
     publishedDateTime: 2021-06-12T14:13:00Z

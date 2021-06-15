@@ -125,6 +125,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden arrives in Geneva for summit with ‘worthy adversary’ Putin – live"
+    excerpt: "Reports say Biden has prepared extensively for Geneva meeting on Wednesday – follow all the day’s politics live"
+    publishedDateTime: 2021-06-15T16:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/15/joe-biden-geneva-summit-putin-europe-us-politics-live?page=with:block-60c8c0be8f08ee3a7beea3ed"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/15/joe-biden-geneva-summit-putin-europe-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/15/joe-biden-geneva-summit-putin-europe-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/13939ed6e393addf2054376a48f1f2627fcbc9de/0_0_3500_2500/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e7f7ec5e38bdcd0c374bc9cb1eff8a0a"
+        width: 600
+        height: 428
+        isCached: true
+  - title: "President Joe Biden arrives in Geneva ahead of meeting with Russia’s Vladimir Putin"
+    excerpt: "President Biden plans to confront Vladimir Putin on everything from Moscow’s cyberattacks to its election interference efforts and human rights abuses."
+    publishedDateTime: 2021-06-15T18:41:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 119
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7xWUqp8XmQGYVCVZiA2uooROlhk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NE6LQF2WMNDYHLTM6YQB7CFQSA.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vladimir Putin offers Joe Biden exchange of cybercriminals ahead of summit"
     excerpt: "Ahead of his highly anticipated Wednesday summit with U.S. President Joe Biden, Russian President Vladimir Putin said he is willing to exchange cybercriminals with United States, state-run media said."
     publishedDateTime: 2021-06-14T08:31:00Z

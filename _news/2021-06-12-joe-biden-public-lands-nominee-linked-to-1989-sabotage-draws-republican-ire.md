@@ -353,6 +353,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Joe Biden nominates three to be federal judges in Connecticut"
+    excerpt: "President Joe Biden on Tuesday named his picks to serve as judges on the federal bench in Connecticut, including one prosecutor who could be the first person of South Asian descent to serve in the state’s federal courts."
+    publishedDateTime: 2021-06-15T18:29:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/President-Joe-Biden-nominates-three-to-be-federal-16249747.php?src=sthplocal"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/46/03/21127399/3/rawImage.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "President Joe Biden calls on Republicans to boost $980B infrastructure offer; Democrats remain ready to go it alone"
     excerpt: "The White House on Monday called on Republicans to bump their recent $980 billion offer on an infrastructure package, noting President Joe Biden shaved his initial proposal by almost $1 trillion in a move to seal a historic investment in jobs,"
     publishedDateTime: 2021-06-07T19:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-aviators-greet-q
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-aviators-greet-queen-sunny-afternoon-78254205"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Queen met with Joe Biden and his wife Jill at Windsor Castle"
+    excerpt: "The Queen met with President Joe Biden and his wife, First Lady Jill Biden at Windsor Castle on June 13 2021, the meeting was one of Joe Biden's first international appointments since he became presid"
+    publishedDateTime: 2021-06-14T06:59:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/57466178"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/57466178.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/57466178.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/1667B/production/_118917719__118914350_pa.jpg"
+        width: 640
+        height: 425
+        isCached: true
   - title: "Joe, Jill Biden join Queen Elizabeth II at Windsor Castle for tea following G-7 Summit"
     excerpt: "At 95, Queen Elizabeth II has met her 13th occupant of the White House, President Joe Biden and his wife, first lady Jill Biden, for tea at Windsor."
     publishedDateTime: 2021-06-13T21:41:00Z

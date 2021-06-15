@@ -236,6 +236,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vladimir Putin’s Encounters With Joe Biden’s Predecessors"
+    excerpt: "Joe Biden on Wednesday becomes the fifth U.S. president to sit across from Mr. Putin on the world stage. Here is how the meetings went with the previous four."
+    publishedDateTime: 2021-06-15T14:35:00Z
+    webUrl: "https://www.wsj.com/articles/vladimir-putins-encounters-with-joe-bidens-predecessors-11623771355"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vladimir-putins-encounters-with-joe-bidens-predecessors-11623771355"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vladimir-putins-encounters-with-joe-bidens-predecessors-11623771355"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-353917/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "What Does Putin Have on Biden?"
     excerpt: "Only a few months ago, the Biden administration argued that Nord Stream 2, a proposed natural-gas pipeline running from Russia to Germany, was"
     publishedDateTime: 2021-05-21T11:13:00Z

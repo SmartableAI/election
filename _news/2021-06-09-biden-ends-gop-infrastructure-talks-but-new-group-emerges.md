@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrast
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -342,6 +342,20 @@ related:
       - url: "https://i2.wp.com/www.myhighplains.com/wp-content/uploads/sites/87/2021/06/GettyImages-1233398841-1.jpg?w=2000&#038;ssl=1"
         width: 1024
         height: 683
+        isCached: true
+  - title: "President Joe Biden nominates three to be federal judges in Connecticut"
+    excerpt: "President Joe Biden on Tuesday named his picks to serve as judges on the federal bench in Connecticut, including one prosecutor who could be the first person of South Asian descent to serve in the state’s federal courts."
+    publishedDateTime: 2021-06-15T18:29:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/President-Joe-Biden-nominates-three-to-be-federal-16249747.php?src=sthplocal"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/46/03/21127399/3/rawImage.jpg"
+        width: 1800
+        height: 1200
         isCached: true
   - title: "President Joe Biden calls on Republicans to boost $980B infrastructure offer; Democrats remain ready to go it alone"
     excerpt: "The White House on Monday called on Republicans to bump their recent $980 billion offer on an infrastructure package, noting President Joe Biden shaved his initial proposal by almost $1 trillion in a move to seal a historic investment in jobs,"

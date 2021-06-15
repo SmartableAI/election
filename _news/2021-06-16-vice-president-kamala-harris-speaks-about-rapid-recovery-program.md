@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
-excerpt: "United States Vice President Kamala Harris announces the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
+excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
 publishedDateTime: 2021-06-15T19:21:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/455fa5f603f4e6f42e9d119072ab1a59/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/455fa5f603f4e6f42e9d119072ab1a59/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/9f94fb3645d1f08c63c8b800019348ce/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/9f94fb3645d1f08c63c8b800019348ce/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/455fa5f603f4e6f42e9d119072ab1a59/HARRIS-RECOVERY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/9f94fb3645d1f08c63c8b800019348ce/HARRIS-RECOVERY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -842,6 +842,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "/pADdK3eFEanlKAdt5Z11lnJ5MZoSHEYvxJbRtxoHCGNL7LZkppK4K4d2hSIh0FQWqhhokUEBSesL2UWO1V4pj9XXAePlb38cgmLPiaAcQD0dlzrwfm1tlv7edO05RJeuVCXgCfBkXYbfxaLGU23nqpRWmpiFVMpMDjvAWyXZaDErczPb/VwokYWRXl0B7ZDcFc5oYRmThfPqcoa5aIk7WFIqe+PF2lp1NCehTCqR4r3ncyMDsnqnphBFuJNjDMeQLYvj7eaxf4clQBNLXvXRc4ArijO9FdwYNAha3GAEEmUQJN48GbeqPcPkn+JJzWRoKyX+TpHonsaRhrFmqc9EUqXMLR/R0fPd7lOLTrElVI=;n6mMjlypRa1v/iSDHKi13A=="
+secured: "E0/+B161i4yj0pVPOppTqYfvdQhUKa/c1DISjXl/qN3XVEMfa2TPVH5z0GJG3PP5WrGThoA80C9yiVE28cEaQgAIDd4xyAzS7OY4FFrvZS1RKFOTc0wKdtypB6q62oIUCi+2ZiyvFk1nftmcdbawInnY9fme/Qp6qzWCztQK4RpG+/t+xITo2+7xCvsyjaRux1EQFx7XUNIW3r9tzUuAdrwqtmo9Xc1HS+nt1ao8kmZ5R5eaX+kedk04MRwU8IkAcHb6JgciTM1xZ9dehI1WibmHln5lBOg+u7THhIXy5WGiBSnX6wWMwteF/flQQOMS/jleqT8lRag49T3zFKjwewSn8web3ZikpljqQiHkMrI=;to2zggVQmmo8C1fQeVV/aw=="
 ---
 

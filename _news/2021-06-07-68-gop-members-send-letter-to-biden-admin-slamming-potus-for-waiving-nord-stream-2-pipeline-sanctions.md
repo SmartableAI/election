@@ -61,6 +61,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration expands eligibility for program to bring Central American minors to US"
+    excerpt: "The Biden administration on Tuesday announced it is significantly expanding eligibility for a program that brings Central American minors to the U.S. if they have parents or legal guardians here already – part of the effort by the administration to tackle the migrant surge at the southern border."
+    publishedDateTime: 2021-06-15T20:48:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5k1FiXwmH3o/biden-administration-eligibility-program-bring-central-american-minors-us"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aac5aad-156b-47c2-876f-b729a79d2e83/43173c34-5f1c-4b7a-931a-4a0413d9e851/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House Republicans demand answers from Biden administration about unions' 'special treatment'"
     excerpt: "EXCLUSIVE: House Republicans are raising alarms about former union officials who were granted ethics waivers to serve in the Biden administration, claiming organized labor is having undue influence on government policy."
     publishedDateTime: 2021-06-15T16:55:40Z
@@ -70,6 +84,20 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 144
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "US adversaries 'salivating' over Joe Biden's 'America last' agenda: Tomi Lahren"
+    excerpt: "In a press conference in Brussels, President Biden attacked former President Trump for “phony populism” and claimed Republican leadership is fractured. Fox News contributor Tomi Lahren ripped the president and mainstream media,"
+    publishedDateTime: 2021-06-15T18:44:00Z
+    webUrl: "https://www.foxnews.com/media/biden-america-last-agenda-tomi-lahren"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 111
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
         width: 1280

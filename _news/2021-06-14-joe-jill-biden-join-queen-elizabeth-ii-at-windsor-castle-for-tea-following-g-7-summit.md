@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Queen met with Joe Biden and his wife Jill at Windsor Castle"
+    excerpt: "The Queen met with President Joe Biden and his wife, First Lady Jill Biden at Windsor Castle on June 13 2021, the meeting was one of Joe Biden's first international appointments since he became presid"
+    publishedDateTime: 2021-06-14T06:59:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/57466178"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/57466178.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/57466178.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/1667B/production/_118917719__118914350_pa.jpg"
+        width: 640
+        height: 425
+        isCached: true
 
 secured: "AsGKWUHKrmtXFUms1IPu3Yi9ZAg5cH+ctFk8+/VgHUIt/D3YY48TsboyjRS+Q5RO5jBJ1IQEq6LdzjebSOIXtel/dAtVjJDiui+WcdE42j0w1xZ7lCPUvdjLTdypaAnUWnerHrOFuqtAOqNawYE+qScoNes/+lTj7bW3CX2tdyv4brnke1qE2SVlvqNGSRRqXd8oP7L+1i6gYTQT9TeK7a9K2jtwTdNWBDs5p0dDHaviY2cJbpsFXHCQ3FTCbYlcIfIct4q6ahucvWmmmGA9goPgngTnRwznhlYLrdEQugvZhuuGrJdkGbUFVPvGLX3yheNpXVLam8Z2G1PCSStW5jwRA94hOrGyK112e4DjWbs=;Ou7zGf+Q16QnkTwhhRz7iQ=="
 ---

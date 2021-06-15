@@ -41,6 +41,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Trump allies leaned on DOJ to push probes into 2020 election fraud claims"
+    excerpt: "New emails released by congressional Democrats show Trump allies leaned on the Justice Department to push investigations into alleged 2020 election fraud."
+    publishedDateTime: 2021-06-15T20:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-allies-leaned-doj-push-probes-2020-election/story?id=78288940"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-allies-leaned-doj-push-probes-2020-election/story?id=78288940"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-allies-leaned-doj-push-probes-2020-election/story?id=78288940"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 139
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-gty-rc-210611_1623428510284_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "US election officials still plagued by threats for certifying Trump defeat"
     excerpt: "A barrage of death threats against officials and volunteers from ex-president’s supporters could make recruiting poll workers harder"
     publishedDateTime: 2021-06-14T15:39:00Z

@@ -47,6 +47,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Trump allies leaned on DOJ to push probes into 2020 election fraud claims"
+    excerpt: "New emails released by congressional Democrats show Trump allies leaned on the Justice Department to push investigations into alleged 2020 election fraud."
+    publishedDateTime: 2021-06-15T20:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-allies-leaned-doj-push-probes-2020-election/story?id=78288940"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-allies-leaned-doj-push-probes-2020-election/story?id=78288940"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-allies-leaned-doj-push-probes-2020-election/story?id=78288940"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 139
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-gty-rc-210611_1623428510284_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "US election officials still plagued by threats for certifying Trump defeat"
     excerpt: "A barrage of death threats against officials and volunteers from ex-president’s supporters could make recruiting poll workers harder"
     publishedDateTime: 2021-06-14T15:39:00Z
@@ -803,6 +819,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "flaxIkp3tzsxUuL+117xdAAP89JRsqR+YgFac/VbSTl1SKZ5YlsRFAuwbFxonYbMP0P4wJB1JIHJ8bmB2uk/uw6daligXzGtqGa2Ku4B/WF+jzYdd5zyZbOb6OJF/p558XHEBkCHGb6WKCxY5N/+OE0XAOCrH1VRAENXeFhql0JDlTOY/GxxpGBIhxLANbM9Pm97931FkCrjDMXG/i4cNPp0cwy7vR0sQd7s1OEtIavIE7ppoPhbLCBMFugQyF5OCOq8xYAiJ6d3R03UXlJNDVUiRxiX9X7o2duMB6BkbVJEJRQPO2Qz1y/Bhkl8BUVKsH8I7q6k9xa7qmmEashlRbte15M3rJYmu8fjE3gASSU=;fN2C0TYNfwoew90Brl4GIA=="
+secured: "a1ebe1FhX4M/xDsycl3/blVnXzkORG5P/RUZ84QftPQvg2ljHO5h/oM34TxJovmd39hbh9aswPUxXxU58sFXzF1MiHi5F/rosjAD/Flnb06gNPI098DTVHr63gEccHQBg8kMrfN8o8uqv1aaFo0l8b/+czJrOzj/XzhG3B7oY0oTissSRW2jZYBmuL8oUi3dIg2e7CxGn0p+r3fDVJeMtgUiHZkmiaMCmp0kKIaI7Tsuuets9epf6b3ldtZbZf0Ip+3BVaE3JkVcunb88EXqWON5zBRzBD8lTs6v9TTo9jxYDxXWPiFqZZhdDZqFTLt2BfvzIo4vM9nqTRxVYkyn7oqzgUTGzxYl6cqz89w9qEw9LkWWfFfBTL5Y/VaJ10WxyDpAY5Y6lb+OM/JoE1l7sQEs+fKRaxMRhFx61KbCpJx49CPlGG8iZ9Bu++svyXX9wUmerJcAfKeBtWpRQOxEeMwrWwfyfeG5BDjDXYSEFxwRTrgxO3KgsYvmGvwqNfu8rK8DdlHs0/NKgCp3N8ooog==;y8mzXoAHJaXr3wprWU2TRQ=="
 ---
 

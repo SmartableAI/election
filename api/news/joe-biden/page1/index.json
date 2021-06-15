@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-15-mcconnell-says-hed-block-joe-bidens-supreme-court-nominee-in-2024-and-maybe-even-in-2023.md",
+      "title": "McConnell says he'd block Joe Biden's Supreme Court nominee in 2024 and maybe even in 2023",
+      "excerpt": "The Kentucky Republican has had a lot of experience with getting Supreme Court nominations approved — or blocked.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/politics/mitch-mcconnell/2021/06/14/mcconnell-would-block-joe-bidens-scotus-nom-2024-maybe-2023/7687731002/",
+      "originalUrl": "https://www.cincinnati.com/story/news/politics/mitch-mcconnell/2021/06/14/mcconnell-would-block-joe-bidens-scotus-nom-2024-maybe-2023/7687731002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/28/NMLF/529b72b4-9f64-4fff-9cdf-48980b1dc1d3-IMPEACHMENT-GOP-COMMENTARY-GET.jpg?auto=webp&crop=3650,2054,x0,y186&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cincinnati.com/amp/7687731002",
+      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7687731002",
+      "publishedDateTime": "2021-06-15T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cincinnati Enquirer",
+        "domain": "cincinnati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-dana-carveys-joe-biden-impression-on-colbert-praised-as-perfect.md",
       "title": "Dana Carvey's Joe Biden Impression on Colbert Praised As 'Perfect'",
       "excerpt": "Dana Carvey appeared as Joe Biden for a full-interview with Stephen Colbert on The Late Show. His impression of the President went down well with fans.",
@@ -266,7 +309,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-aviators-greet-queen-sunny-afternoon-78254205",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -479,7 +522,7 @@
       "originalUrl": "https://abcnews.go.com/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1175,7 +1218,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 585,
+      "heat": 605,
       "tags": null,
       "images": [
         {
@@ -1538,58 +1581,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-white-house-walks-back-biden-swipe-at-joe-manchin-kyrsten-sinema-calls-them-good-partners.md",
-      "title": "White House Walks Back Biden Swipe at Joe Manchin, Kyrsten Sinema, Calls Them 'Good Partners'",
-      "excerpt": "President Joe Biden 's remark this week that his agenda is being thwarted, in part, because of \"two [Democratic] members of the Senate who vote more with my Republican friends\" was never intended to be a criticism of conservative Democratic Senators Joe Manchin and Kyrsten Sinema,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/white-house-walks-back-biden-swipe-joe-manchin-kyrsten-sinema-calls-them-good-partners-1596980",
-      "originalUrl": "https://www.newsweek.com/white-house-walks-back-biden-swipe-joe-manchin-kyrsten-sinema-calls-them-good-partners-1596980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1811587/biden-walks-back-biden-sinema-slam.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/white-house-walks-back-biden-swipe-joe-manchin-kyrsten-sinema-calls-them-good-partners-1596980?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/white-house-walks-back-biden-swipe-joe-manchin-kyrsten-sinema-calls-them-good-partners-1596980?amp=1",
-      "publishedDateTime": "2021-06-02T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

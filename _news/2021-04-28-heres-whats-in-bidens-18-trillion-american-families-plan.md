@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/index.html"
 type: article
 quality: 175
-heat: 735
+heat: 755
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220345-41-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration expands humanitarian program for Central American children"
+    excerpt: "The Biden administration is expanding eligibility for the Central American Minors program, which affords certain at-risk children in the region the opportunity to apply to resettle in the US, the Departments of State and Homeland Security announced Tuesday.\n    \n"
+    publishedDateTime: 2021-06-15T20:18:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e2kjKp1XFTQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/central-american-minors-program-expanded/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/central-american-minors-program-expanded/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154002-01-central-american-minors-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

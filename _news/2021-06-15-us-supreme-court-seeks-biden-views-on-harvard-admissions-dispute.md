@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democratic leaders seek to placate liberals by kicking off effort to pass Biden agenda along party lines"
+    excerpt: "Senate Democratic leaders, facing skepticism from liberals about the direction of bipartisan infrastructure talks, plan to formally begin a process that would allow them to pass President Joe Biden's signature policy agenda along straight party lines.\n    \n"
+    publishedDateTime: 2021-06-15T21:00:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Po7-EmHWxI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/schumer-biden-agenda-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/schumer-biden-agenda-infrastructure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212164710-01-schumer-trump-impeachment-trial-0212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "A favored Biden timeline for politically-charged decisions: Later"
     excerpt: "The president seems to be reaching for a traditional executive branch stalling tactic at a higher rate than his predecessors."
     publishedDateTime: 2021-06-05T08:35:00Z

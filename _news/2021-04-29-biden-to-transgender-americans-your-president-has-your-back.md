@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration expands humanitarian program for Central American children"
+    excerpt: "The Biden administration is expanding eligibility for the Central American Minors program, which affords certain at-risk children in the region the opportunity to apply to resettle in the US, the Departments of State and Homeland Security announced Tuesday.\n    \n"
+    publishedDateTime: 2021-06-15T20:18:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e2kjKp1XFTQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/central-american-minors-program-expanded/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/central-american-minors-program-expanded/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154002-01-central-american-minors-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First lady's virtual joint address guests spotlight Biden administration priorities"
     excerpt: "When President Joe Biden delivers his address to a joint session of Congress Wednesday night, first lady Jill Biden will forgo the traditional set of guests in the first lady's viewing box due to social distancing constraints in the House chamber amid the coronavirus pandemic. Instead, she will virtually"
     publishedDateTime: 2021-04-28T20:21:06Z
