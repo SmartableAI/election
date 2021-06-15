@@ -591,6 +591,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Haaland urges Biden to fully protect three national monuments weakened by Donald Trump"
+    excerpt: "Interior Secretary Deb Haaland has recommended in a private report that President Biden restore full protections to three national monuments diminished by Donald Trump, including Utah’s Bears Ears and Grand Staircase-Escalante and a huge marine reserve off New England."
+    publishedDateTime: 2021-06-14T22:06:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2021/06/14/haaland-biden-national-monuments/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/06/14/haaland-biden-national-monuments/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/06/14/haaland-biden-national-monuments/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 132
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GFOR4RDKJEI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "Under Trump-era border rule that Biden has kept, few asylum-seekers can seek U.S. refuge"
     excerpt: "Just 0.3% of more than 600,000 migrants expelled by U.S. border officials under a pandemic-era policy have been allowed to pursue U.S. refuge."
     publishedDateTime: 2021-04-15T01:45:00Z

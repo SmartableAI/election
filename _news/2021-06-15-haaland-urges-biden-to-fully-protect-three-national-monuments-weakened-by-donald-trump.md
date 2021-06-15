@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Biden to Nominate Texas Sheriff and Trump Critic to Lead Immigration Enforcement Agency"
-excerpt: "U.S. President Joe Biden will nominate a Texas sheriff who criticized Trump-era immigration raids to lead the U.S. Immigration and Customs Enforcement (ICE) agency, a homeland security official told Reuters on Tuesday."
-publishedDateTime: 2021-04-27T19:10:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-04-27/biden-to-nominate-texas-sheriff-and-trump-critic-to-lead-immigration-enforcement-agency"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-27/biden-to-nominate-texas-sheriff-and-trump-critic-to-lead-immigration-enforcement-agency"
+title: "Haaland urges Biden to fully protect three national monuments weakened by Donald Trump"
+excerpt: "Interior Secretary Deb Haaland has recommended in a private report that President Biden restore full protections to three national monuments diminished by Donald Trump, including Utah’s Bears Ears and Grand Staircase-Escalante and a huge marine reserve off New England."
+publishedDateTime: 2021-06-14T22:06:00Z
+originalUrl: "https://www.washingtonpost.com/climate-environment/2021/06/14/haaland-biden-national-monuments/"
+webUrl: "https://www.washingtonpost.com/climate-environment/2021/06/14/haaland-biden-national-monuments/"
+ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/06/14/haaland-biden-national-monuments/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/06/14/haaland-biden-national-monuments/?outputType=amp"
 type: article
-quality: 42
+quality: 132
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GFOR4RDKJEI6XJTO4JYEN2PITA.jpg&w=1440"
+    width: 1440
+    height: 961
+    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -582,22 +590,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565181802&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH590FO"
         width: 816
         height: 545
-        isCached: true
-  - title: "Haaland urges Biden to fully protect three national monuments weakened by Donald Trump"
-    excerpt: "Interior Secretary Deb Haaland has recommended in a private report that President Biden restore full protections to three national monuments diminished by Donald Trump, including Utah’s Bears Ears and Grand Staircase-Escalante and a huge marine reserve off New England."
-    publishedDateTime: 2021-06-14T22:06:00Z
-    webUrl: "https://www.washingtonpost.com/climate-environment/2021/06/14/haaland-biden-national-monuments/"
-    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/06/14/haaland-biden-national-monuments/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/06/14/haaland-biden-national-monuments/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 132
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GFOR4RDKJEI6XJTO4JYEN2PITA.jpg&w=1440"
-        width: 1440
-        height: 961
         isCached: true
   - title: "Biden set to accept fewest refugees of any modern president, including Trump, report says"
     excerpt: "Since his days on the campaign trail, President Biden has tried to cast himself as diametrically opposed to former president Donald Trump when it comes to welcoming refugees into the United States. Within two weeks of taking office, Biden signed an ..."
@@ -2156,6 +2148,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
+  - title: "Biden to Nominate Texas Sheriff and Trump Critic to Lead Immigration Enforcement Agency"
+    excerpt: "U.S. President Joe Biden will nominate a Texas sheriff who criticized Trump-era immigration raids to lead the U.S. Immigration and Customs Enforcement (ICE) agency, a homeland security official told Reuters on Tuesday."
+    publishedDateTime: 2021-04-27T19:10:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-27/biden-to-nominate-texas-sheriff-and-trump-critic-to-lead-immigration-enforcement-agency"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 42
   - title: "Democrats Move to Reinstate Methane Rules Loosened by Trump"
     excerpt: "Congressional Democrats are taking action to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields."
     publishedDateTime: 2021-04-28T18:57:00Z
@@ -2175,6 +2176,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "zzYI5FDN/fWpeXfAfQLGUax53zNNxwwgFvDpCstk/70Y2qxKYviKQiHZcDT+CvI3SQROJwwexoWutdkgATVHtcvJYhM1+rpn/2SNpYbgqLeC1LP9oDMpvmE8DQSz8bvsafdzSUweeyoHgGB2NAV/qO5muyAlZgwqW8GdXOwLZcunelLFHmDYfoSsAdpnfBRyOcwtulj36qPjvKHUbDkEuT0wNiI7evSHqlSWOj8RBLNcPIbIw0KbxIHXPf6YC3KmQuO875xmQW6Hu/PmiT+pqn3AHTdeThhSpL6HRm2XsauSfmZWYWogPwcYcxoxi3p8h5HC8SMeNS9ZkZYhNKJZxiKd59lah11zjei2kBkwkmM=;nTTPw2N3c1T72lGwmNv8Hg=="
+secured: "2ShJ0jdPgkM0U4tTdM+eZI92Bi635/3cNs6jxGaaFWwTsp+6vteYBf6BOijabUqCzJAlXGFQw33l2Zu0XlavAdRATlRA8ANz/1GHY6vR2fjV5kqQ9Qg0gRxNj07s2T1LOxMYZ0rjP3I217/CJspwASrbP2XPWdGE1y3Guk/XckMxrkE4SfdAI2JxIP4TWOlPpKScV0BJNLn0eP14yjWes3vInPCFqqmJXaWXlg9BiHbuUx4214wX5vWIELGeglEsct7ObzFQwgis0rJkirP5XzJ36DRYmz/D4R3fbNgN+oA+l7hOVBcNYUSpJVz3qu9bkZa8M4qCg/TXTnzjuuFf0fIHtibw1Lwqwd1osaSYefc=;j7GW20npnbXV9c03qtxd9A=="
 ---
 

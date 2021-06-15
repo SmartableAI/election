@@ -3,8 +3,8 @@ category: news
 title: "DC Mayor, Not Trump, Teargassed Protesters"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2021-06-14T18:53:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/14/dc_mayor_not_trump_teargassed_protesters_545043.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/06/14/dc_mayor_not_trump_teargassed_protesters_545043.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/06/14/dc_mayor_not_trump_teargassed_protesters_545043.html"
+webUrl: "https://www.realclearpolitics.com/2021/06/14/dc_mayor_not_trump_teargassed_protesters_545043.html"
 type: article
 quality: 65
 heat: -1
@@ -187,6 +187,6 @@ related:
         height: 640
         isCached: true
 
-secured: "geegf/A11Rkr6nVflWa7m+1ySE6rHlJ13TgGjPmSr/GY1CU1TP4yTR37Qnm69lX+wX2Ruv1c+3pILBAaP/TlAFVkRku61jk/diQ7KW50IZPVCivSVStMCmQ7f5u1ASzISNuJ6U6pPNvxIMxP11Zl4V94191qjA/OmNWH6+V7Iv0mwvU1VDJK64fE0ZadB4yIakg4K3sNaT8s5DnxWn/gDIXgmfSA50U6BHraxlRSTgoty5B0Wp1/2dAU+8cYW0T4aJeJPPnQUIBeQ05Cqv06bBWVcSWedyGYaWYwKrvx2AGJCwmNnRMzUrMoQ058AVshXuCmlCdfQenQH+LnHXWMjyTVpbXmW5OGyEsqUxhJCsU=;B2PM8Z3vz+oVNtCyXK9tPw=="
+secured: "5fUyegTHQ1MIiskn04HzJiGcLu8xUKf69yJ9wwuporjfewSU46F1afVuMH1OoD2OUJS4sxFTAV3j5SO7YUk/vt7Ja0OXLpypKIQ8E2UFN5hkG8dk4ypwO1CmYlwE5bm5aQ9N9oYEhr9xlkPN51P5mG4yr+XruYUi7R+Z17DXqHY5/INA/9zXSrWh0Ue0miHK2rEj40fLALCpSLO3l0C2brK9yx8HdRCay0fHuotpk3mZQ31oQjSFNcbFnLhTJTypVGZsrsCAvjIuw2usB+7cyUhU84Z3ZsGcv6xnTyV3lkHiuDkoFbQuOZeKV/dlPDvqEjf1b2WK8+KJYUf/lapJABn54qgXsUevow71ZmqhkMc=;2tFAYutWr9m5tuhdk95Ehg=="
 ---
 

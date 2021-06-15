@@ -175,7 +175,7 @@ related:
   - title: "DC Mayor, Not Trump, Teargassed Protesters"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-06-14T18:53:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/14/dc_mayor_not_trump_teargassed_protesters_545043.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/06/14/dc_mayor_not_trump_teargassed_protesters_545043.html"
     type: article
     provider:
       name: RealClearPolitics
