@@ -63,6 +63,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "GAO says Biden halt of border wall construction does not violate law"
+    excerpt: "The Government Accountability Office (GAO) on Tuesday announced it had decided that the Biden administration’s ending of wall construction at the southern border does not violate the law, after Republicans had called for the agency to weigh in."
+    publishedDateTime: 2021-06-15T17:49:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pF_xo88Eafw/gao-biden-halt-border-wall-construction-violate-law"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Lahren-Border-Wall-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "rxdFBSDPUESO8xsZl2J7pAszjt3smzMGc+fJxsJHtO0P3pXob3Ym3LE0ihN0SEGCrTfrafQ870HYtUWkHJ9GIOdqhFsiv4gBSIXp9dsHh2KxIgt62AVGhHs6EdBYCcsT4vJvvPohMU8rWUKENvd+0zhi6vm5i9XY3JdCeyNQ3eEchnZ8VO96nxKH9o78UcMSBRT0T9U7jFERwAPnIrIGWRWOsJeunHopiS0hpeHo0LdNDZBU9O1qUTRvIll0nwdPuowKesbB5Iabxte7rhSruoVk9IzRXOP6dBIvYvPrQD67YATBZjWYyZKXXxd8o9jlzXxH0CYaUOhx93Qmv2gtM8lI56+/650iS+Bsi38NBvQ=;MRh/F2BegVlOte18PkZLjg=="
 ---

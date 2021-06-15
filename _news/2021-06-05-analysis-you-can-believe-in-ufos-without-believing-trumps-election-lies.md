@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-electio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/conspiracies-ufo-election-fraud/index.html"
 type: article
 quality: 189
-heat: 269
+heat: 229
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Trump is doing more lying about the election than talking about any other subject"
-    excerpt: "Since his presidency ended, Donald Trump has issued more statements lying about the 2020 election than statements talking about any other subject.\n    \n"
-    publishedDateTime: 2021-06-12T16:00:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TZj3XmSpIJo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 180
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608191019-trump-0605-greenville-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: Now we know how far Giuliani went for Trump "
     excerpt: "Listen to this audio, exclusively obtained by CNN, of Rudy Giuliani in July 2019 -- when he was still President Donald Trump's lawyer and henchman -- cajoling an aide to Ukrainian President Volodymyr Zelensky to announce an investigation into Joe Biden.\n    \n"
     publishedDateTime: 2021-06-07T22:07:10Z
@@ -60,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: The scandal over Trump's leak investigations keeps getting worse"
-    excerpt: "First we learned that former President Donald Trump's Department of Justice secretly obtained records about the communications of members of the press.\n    \n"
-    publishedDateTime: 2021-06-14T23:15:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7vCLdyN1pWc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/trump-doj-leak-investigation-explainer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/trump-doj-leak-investigation-explainer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614174520-don-mcgahn-donald-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

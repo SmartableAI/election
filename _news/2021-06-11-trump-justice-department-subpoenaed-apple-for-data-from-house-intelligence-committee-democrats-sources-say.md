@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "New Trump scandal shows the depth of his assault on America's democratic foundations"
-    excerpt: "New revelations suggesting that the Trump administration abused Justice Department powers to target his political enemies underscore just how far the ex-President went to destroy cherished principles of American republican government.\n    \n"
-    publishedDateTime: 2021-06-11T17:29:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NrZtroSP2nQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/trump-justice-department-democrats/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/trump-justice-department-democrats/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606070442-0606-trumpgopnc-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Justice Department can keep the Barr memo on not charging Trump secret for now, judge rules"
     excerpt: "Judge Amy Berman Jackson is allowing the Justice Department to keep secret part of a key memo to then-Attorney General William Barr from his top advisers in March 2019 that backed his decision not to charge then-President Donald Trump with obstruction of justice.\n    \n"
     publishedDateTime: 2021-06-14T16:37:11Z

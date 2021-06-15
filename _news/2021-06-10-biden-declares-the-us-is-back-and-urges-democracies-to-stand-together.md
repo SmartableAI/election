@@ -78,21 +78,16 @@ related:
         height: 532
         isCached: true
   - title: "Joe Biden, a father's love and the legacy of 'daddy issues' among presidents"
-    excerpt: "President Joe Biden often talks about the close relationship he had with his father and how this influenced him growing up as “the scrappy kid from Scranton,"
+    excerpt: "President Joe Biden often talks about the close relationship he had with his father and how this influenced him growing up as “the scrappy kid from Scranton,” Pennsylvania. Biden was born into wealth,"
     publishedDateTime: 2021-06-15T14:07:00Z
-    webUrl: "https://www.timesunion.com/news/article/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+    webUrl: "https://www.expressnews.com/news/article/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+    ampWebUrl: "https://www.expressnews.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 72
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 52
 
 secured: "A0mOKoyOKgSkr3micFcJzFtGAfC76vhyRfBjqEHR9iaut+Vo/47I4ftDeiabTtbLCTqlUdS0N2Q3sCsXoOMngg26GYRMJM2D5sBEsr0Dk3qwpgCwATxdNjKtqtmA/kWvp1Xb/IGlzqr6m46rrokZm9CTpZBk3qKjzwLitjVtwWWK3FPny52H8WeWzc4Z+acpWuD7dvN0ziX25qfHZFYOJZeyk330rGoOLmhIFO9YJVj2slATHEP0IG0Uy7IpDUqilTK1p5ivVM2pPGA1oFymkIaMGQM4frk4sniD0t+fAEu3dSZKuyqTlWfa2EuuT77uLnT2G4ueAs6BuGmWPb3pW8o4r6Ny+x4CDoywW3XPny1ShNgU4B/BwC2YEgPReSZp20qU1s4Qo86duGTYiWKR905gKOwjRWdnqaQqVZjME3JYJqfmltjdax4MXYoshHHE5kULiPwgEpaHAFpRbq32Fn7g7RbRyuVH3Mjuzg6c/eYjr8JvNhwjvGeUL1W8R9X7k9F1OfAdGTIjU9vVUJws8w==;zxCCfKX6iKY9YCLMofYZ2A=="
 ---

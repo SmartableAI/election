@@ -126,6 +126,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ashley Hinson unveils 'See the Crisis' bill as Kamala Harris declines to go to border"
+    excerpt: "Iowa Rep. Ashley Hinson joined “Fox & Friends” Tuesday to discuss her new legislation the ‘See the Crisis’ Act."
+    publishedDateTime: 2021-06-15T17:11:00Z
+    webUrl: "https://www.foxnews.com/media/ashley-hinson-see-crisis-bill-kamala-harris"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 108
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/919da78c-ca11-4b15-b0bb-6c02c75b4233/b9462f72-0f16-4ee5-90eb-1e75fd14dd3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Kamala Harris Snaps Back At Univision Reporter: \"I'm Not Finished,\" \"I Said I'm Going To The Border\""
     excerpt: "Vice President Kamala Harris promised she will visit the U.S.-Mexico in an interview with Univision and snapped back at the correspondent when pressed on a date."
     publishedDateTime: 2021-06-11T00:00:00Z

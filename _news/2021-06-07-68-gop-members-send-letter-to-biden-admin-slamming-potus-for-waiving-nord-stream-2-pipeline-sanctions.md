@@ -61,6 +61,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "House Republicans demand answers from Biden administration about unions' 'special treatment'"
+    excerpt: "EXCLUSIVE: House Republicans are raising alarms about former union officials who were granted ethics waivers to serve in the Biden administration, claiming organized labor is having undue influence on government policy."
+    publishedDateTime: 2021-06-15T16:55:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gpdon6-IG8o/biden-admin-unions-special-treatment"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "oA18RWhYgORL8gix5amAdUaXgif/dpLRCcPDlcqcfQYrTjbxeWbbyjSXi1xmvWKajySb/H/ZvDLJkiIpvPD0OW8Z2oT4cwRwPZqGwDF0x4Bf4eSZ7d8Lk3bgkmCn8QjM7KQFwLsBIOxrAjo/F9PlXkAcYkC72IK5HsvVb0DsDXA8SEhojqVe0UMQTWqvTzggoiGjHktoMXHw6twm9/Nhktj/6WQubjKjqY6u1iHP7Kbypoupvx7GoNoJTtncpV/mnYNaKVgh5MV9wcQN73f7CdGrLM7P1/N0fk1U20Q/+URlU97vqmkauwOpmMANHFu/T6adsjFTJr71WBEseP9aHraCo0riDonE4etVjQQmm6k=;GHHVlbxpf++bh5M1YrZl2Q=="
 ---

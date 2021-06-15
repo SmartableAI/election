@@ -78,22 +78,17 @@ related:
         height: 532
         isCached: true
   - title: "Joe Biden, a father's love and the legacy of 'daddy issues' among presidents"
-    excerpt: "President Joe Biden often talks about the close relationship he had with his father and how this influenced him growing up as “the scrappy kid from Scranton,"
+    excerpt: "President Joe Biden often talks about the close relationship he had with his father and how this influenced him growing up as “the scrappy kid from Scranton,” Pennsylvania. Biden was born into wealth,"
     publishedDateTime: 2021-06-15T14:07:00Z
-    webUrl: "https://www.timesunion.com/news/article/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+    webUrl: "https://www.expressnews.com/news/article/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+    ampWebUrl: "https://www.expressnews.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 72
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 52
 
-secured: "YqrkD719mdgpcila0+vkIU2CEHu2tSAIrPg/IdlDlSurzc7KPODYrdz3uLS1MgcRTA37owUM4PYyhbv06zPrXvLRzbiPMttizNDchI4y8s+nwwU9tPGN3hVdUdEMnYSuazqxisNXDB474UlzzhS06Q2dOMJOT8/Ys4hdO3YGYts5PT3Dnt2+WKUnnoe7kLzpjWRe7Hjdx711najAGVl8MZmxRnma8ezUGpWgqMgeSjiTCxlxsYtIrrZCesyhIVMU6Ed34wp8ZXpuZXnmQHyQm+VDOx7vp0MvB7W9TSMFt890Cjfoge9nniABhpoJj4p8BarFr0yHPbjYW4hCws/HM5qqc0o6XPHG0PPwz+8ANYc=;97MqwqU+1qI5lSAJ8xmBcg=="
+secured: "gtHK+a4a7cFXMxqrkzgf/c6IQ63CMdeOgyFdMZ1JipV4VVJcqlFOUYUntPeaCOZCEvNnPq827sMnSUmaAws5iSOqRMUZJsmAi/WjKeOhj+PeN02wUJbr6BXOQowBVLXBJYZ1TpSPLloD5XlI/bE/2orZAKFaRJVYZZcdLa//Gk1I9URxnmy/XBUoYJ2/ubi/XWC0I0S/qXZLLlK1XmeVFkLxP4cFcOzwtowZzO5dr4wGd8ZXLEuGLrfxKn5fbt1M/NKPmiJHFSNq1497OinAzLsy4eAWgtwFjC2M5lohvOQpBa5YHc+qRaWxGtzYIPgbfq0G96zxiYJA9eVwQdKAtxd2ONa2beZEjCtLwyIywLDmX6eA7POVbkz0SLUvwYXCcuGRqIv9aiUTTTilL38mEBaUJt0CMnyWOJBGk2Ek5ol1yqbGpLe7qZrMA31RgmYrC6CoGFGHD/y1tt3ZKinQ2qbZwoxfP6RtQaSsIfGHdaNjRYS/Wix4ExhE1KaJg8z5iLvr77oqeSiYrFDB2kuqrQ==;qh02oiIkvnUSNYNgO3+UKA=="
 ---
 

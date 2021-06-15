@@ -31,19 +31,131 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration secretly obtained CNN reporter's phone and email records"
-    excerpt: "The Trump administration secretly sought and obtained the 2017 phone and email records of a CNN correspondent, the latest instance where federal prosecutors have taken aggressive steps targeting journalists in leak investigations.\n    \n"
-    publishedDateTime: 2021-05-20T22:20:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9tqOPv59K1g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/trump-secretly-obtained-cnn-reporter-records/index.html"
+  - title: "4 takeaways from the latest batch of Trump's election-related emails"
+    excerpt: "A previously secret trove of emails released Tuesday by the House Oversight Committee sheds new light on how former President Donald Trump pressured the Justice Department on multiple fronts to do his bidding in his quest to overturn the 2020 election results.\n    \n"
+    publishedDateTime: 2021-06-15T17:05:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3mdygaVbzk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520173734-doj-building-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614174532-02-trump-senate-gop-nc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump is doing more lying about the election than talking about any other subject"
+    excerpt: "Since his presidency ended, Donald Trump has issued more statements lying about the 2020 election than statements talking about any other subject.\n    \n"
+    publishedDateTime: 2021-06-12T16:00:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TZj3XmSpIJo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608191019-trump-0605-greenville-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's attorney general defends controversial Justice Department arguments related to Trump"
+    excerpt: "Attorney General Merrick Garland on Wednesday defended a series of controversial arguments made by the Justice Department in recent weeks that endorsed legal positions held by former President Donald Trump and the previous administration.\n    \n"
+    publishedDateTime: 2021-06-09T19:10:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQUQZz8_0Sw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/ag-garland-trump-rule-of-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/ag-garland-trump-rule-of-law/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609150900-02-merrick-garland-0609-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Obama and Trump intensify their battle over democracy"
+    excerpt: "Most presidents stop trying to define the nation's future once they leave office. But Barack Obama and Donald Trump are refusing to concede the battle for America's soul on which they first clashed more than a decade ago.\n    \n"
+    publishedDateTime: 2021-06-08T09:46:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUoVuD5f5Qg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/barack-obama-donald-trump-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/barack-obama-donald-trump-democracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200218073745-obama-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump and House committee still at loggerheads over tax records"
+    excerpt: "Lawyers for Donald Trump and the House Oversight Committee revealed on Tuesday that they're at a standstill in the Democrats' long-running pursuit of tax records from Trump's accounting firm Mazars USA.\n    \n"
+    publishedDateTime: 2021-06-15T16:00:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YZCZhxmJ_ss/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/trump-and-house-committee-still-at-loggerheads-over-tax-records/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/trump-and-house-committee-still-at-loggerheads-over-tax-records/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: The scandal over Trump's leak investigations keeps getting worse"
+    excerpt: "First we learned that former President Donald Trump's Department of Justice secretly obtained records about the communications of members of the press.\n    \n"
+    publishedDateTime: 2021-06-14T23:15:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7vCLdyN1pWc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/trump-doj-leak-investigation-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/trump-doj-leak-investigation-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614174520-don-mcgahn-donald-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House Democrats release former Trump White House Counsel Don McGahn's testimony "
+    excerpt: "The House Judiciary Committee has released the transcript of its June 4 interview with Trump White House Counsel Don McGahn, the culmination of a two-year court fight Democrats waged against the Trump administration.\n    \n"
+    publishedDateTime: 2021-06-09T21:47:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqtUtVn9cO8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/don-mcgahn-transcript-released/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/don-mcgahn-transcript-released/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191125183648-03-don-mcgahn-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New Trump scandal shows the depth of his assault on America's democratic foundations"
+    excerpt: "New revelations suggesting that the Trump administration abused Justice Department powers to target his political enemies underscore just how far the ex-President went to destroy cherished principles of American republican government.\n    \n"
+    publishedDateTime: 2021-06-11T17:29:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NrZtroSP2nQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/trump-justice-department-democrats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/trump-justice-department-democrats/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606070442-0606-trumpgopnc-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -63,69 +175,101 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "New York Times reports Trump administration secretly obtained its reporters' phone records"
-    excerpt: "The Trump administration's Justice Department secretly seized months of phone records from four New York Times reporters as part of a leak investigation, the newspaper reported Wednesday.\n    \n"
-    publishedDateTime: 2021-06-03T02:38:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jofIMKedxNY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/trump-administration-phone-records-reporters-new-york-times/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/trump-administration-phone-records-reporters-new-york-times/index.html"
+  - title: "Democrats demand testimony from Trump's attorneys general as media executives seek answers"
+    excerpt: "Democrats are demanding sworn testimony from Donald Trump's former attorneys general in an exploding scandal over secret seizures of communications records from top lawmakers and news organizations on the ex-President's enemies list.\n    \n"
+    publishedDateTime: 2021-06-14T04:00:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gbWlCR9E-6E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/justice-department-donald-trump-democrats-media/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/justice-department-donald-trump-democrats-media/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427105455-03-new-york-times-building-0630-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210613232123-department-of-justice-0611-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration didn't provide some separated parents the opportunity to bring their children as they were deported, new watchdog report says"
-    excerpt: "Immigration and Customs Enforcement deported some parents between July 2017 and July 2018 without giving them the opportunity to bring their children, contradicting claims made by the agency and the Department of Homeland Security, according to a newly released watchdog report.\n    \n"
-    publishedDateTime: 2021-05-24T14:56:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYaqkh0SBmU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/24/politics/immigration-families-separated-parents-removal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/24/politics/immigration-families-separated-parents-removal/index.html"
+  - title: "FBI Director Chris Wray says he's 'not aware of any investigation' against Trump related to the insurrection"
+    excerpt: "FBI Director Chris Wray said Thursday that he is \"not aware of any investigation\" against former President Donald Trump in connection with the January 6 insurrection.\n    \n"
+    publishedDateTime: 2021-06-11T00:35:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G6urcJ34zsA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/fbi-chris-wray-trump-insurrection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/fbi-chris-wray-trump-insurrection/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 137
+    quality: 156
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302103424-02-riot-senate-hearing-wray-0302-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "U.S. and Europe Seek to End Trump-Era Dispute Over Steel and Aluminum"
-    excerpt: "The Biden administration is trying to rebuild relations with Europe, but it is moving cautiously to unwind tariffs imposed by President Donald J. Trump."
-    publishedDateTime: 2021-05-17T17:48:00Z
-    webUrl: "https://www.nytimes.com/2021/05/17/business/us-europe-steel-tariffs.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/17/business/us-europe-steel-tariffs.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/17/business/us-europe-steel-tariffs.amp.html"
+  - title: "Biden plans to restore protections for Tongass National Forest that were stripped away by Trump."
+    excerpt: "The Trump administration allowed road building in Alaska’s Tongass National Forest, a pristine wilderness. President Biden intends to change those plans."
+    publishedDateTime: 2021-06-11T15:14:00Z
+    webUrl: "https://www.nytimes.com/2021/06/11/us/politics/tongass-national-forest-alaska.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/11/us/politics/tongass-national-forest-alaska.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/us/politics/tongass-national-forest-alaska.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 137
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/11/world/11new-washington-briefing-alaska-1/11new-washington-briefing-alaska-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Hunting Leaks, Trump Officials Focused on Democrats in Congress"
+    excerpt: "The Justice Department seized records from Apple for metadata of House Intelligence Committee members, their aides and family members."
+    publishedDateTime: 2021-06-11T00:06:00Z
+    webUrl: "https://www.nytimes.com/2021/06/10/us/politics/justice-department-leaks-trump-administration.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/10/us/politics/justice-department-leaks-trump-administration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/10/us/politics/justice-department-leaks-trump-administration.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/05/18/business/17economy-briefing-steeltariffs/17economy-briefing-steeltariffs-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/06/10/us/politics/10dc-justice-1/10dc-justice-1-facebookJumbo.jpg"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
-  - title: "CNN: Trump Justice Department seized reporter's email and phone records"
-    excerpt: "The DOJ secretly obtained Pentagon correspondent Barbara Starr's phone and email records in another apparent leak investigation to identify a journalist's sources."
-    publishedDateTime: 2021-05-21T14:54:00Z
-    webUrl: "https://www.nbcnews.com/politics/justice-department/cnn-trump-justice-department-seized-reporter-s-email-phone-records-n1268136"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268136"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268136"
+  - title: "Jason Miller to head tech startup that could become Trump platform"
+    excerpt: "The former president’s spokesperson is shifting roles but will stay with Trump’s team, according to a person familiar with his plans."
+    publishedDateTime: 2021-06-11T02:01:00Z
+    webUrl: "https://www.politico.com/news/2021/06/10/jason-miller-role-tech-startup-493293"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/10/jason-miller-role-tech-startup-493293"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/10/jason-miller-role-tech-startup-493293"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/31/1b/dcc25f5843c1820f7f3cc2754b27/gettyimages-624664040-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "During Trump administration DOJ subpoenaed phone records of lawmakers"
+    excerpt: "During the Trump administration, The Department of Justice subpoenaed Apple for phone records concerning potential leaks between senior officials and the Russians. They sought records from at least two Congressmen on the House Intelligence Committee,"
+    publishedDateTime: 2021-06-11T23:24:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/during-trump-administration-doj-subpoenaed-phone-records-of-lawmakers-114691653830"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114691653830"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114691653830"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476652/210521-doj-trump-mb-1530_b5f661bfa9dd8a5326b015d5a23c57a6.jpg"
-        width: 4000
-        height: 2667
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623453730685_nn_pwi_doj_leak_investigation_210611_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "qSQ3xTs++nAYE4L1YB28JAQH0yZZgg9hbHgMBdrd6LmPU87nJEvSwOXTlnWvMbE1o8JdVYxsW+DHS4aM6D93hd38n/yoSAMxKjjIK6J+JIyI9QDHyGVcrk7cGz9FhOm8UMo91nryD2cn9OnxmPzVpAK2bwyIGK1CY33pauqToMlbtguxbIvNx8nqwH270NYFO/nz3BHrQ0uKmtmhUcljrFKDo/ElHa1qWu5+Jbzq9pNA3LPBN24x18geDfG+3yYwgH/GunlnCjxgH6zLQ8xfOSOHk2X7mkNr2WXumGOPMS5VFlJUxopcsvQsGohRq0qO7aCaN7Lg0qOfHvE75sfMOc8LKzTf0cX4O7LfwO6ck18=;GEROGJ4Vl+QGFha0gTniUg=="

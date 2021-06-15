@@ -551,13 +551,13 @@ related:
   - title: "Will Vice President Kamala Harris' visit increase vaccine rates in South Carolina?"
     excerpt: "SC state reps and officials and the community look at whether Vice President Kamala Harris' visit could get more people to vaccination clinics."
     publishedDateTime: 2021-06-13T11:38:00Z
-    webUrl: "https://www.freep.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
-    ampWebUrl: "https://amp.freep.com/amp/7668764002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7668764002"
+    webUrl: "https://www.azcentral.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/7668764002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7668764002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/12/PGRE/b5a0f561-590c-4b58-8acb-320c2fe97996-0612_Vaccinationate_preferences_vary_in_Greenville_County_025.JPG?auto=webp&crop=2399,1350,x0,y40&format=pjpg&width=1200"

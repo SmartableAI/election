@@ -486,6 +486,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Emails Show Trump Pressured Justice Dept. Over 2020 Election"
+    excerpt: "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his term."
+    publishedDateTime: 2021-06-15T16:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Food Deliverer Posed As Trump's Family; Used Social Media Following To Steal Thousands"
     excerpt: "A 22-year old former food delivery worker was arrested this week for creating fake Twitter accounts of former President Trump's family members and duping MAGA supporters of money."
     publishedDateTime: 2021-06-10T11:23:00Z
@@ -568,6 +579,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "fPA1bhGDGSte7CD4frSdG5Id6F31Qnn/p+isklr7xVMS2h2X1HGX8Dv/km0e1FxqIMo4S/EX32Jj9/w3ToeuCVztEXHy/mh+CDzx1hIykJC8p2OWvcM8b1RhGzP60QxDb9R4nltNSZl2zwawYKpUK9feNgJCUxhYi2T39HomGwAybc+PEEMITwNhpmvnjr0em3gKirekiNbqSru3dDYG95/1mwgafLYWp/3FxDoJfMD0S5ij7g9qkZdS7/Sc+y9oTAgPASHIrx2hkS4gE0KOBNaLrKFIjQTvKIZQhWOBztJmJJFZeODajLLBluX36Bpz+ujcIVv8+s9AJsAfgNjWDSogfhJSawIlMRp3SWzVEfo=;X+vy5NkYBWBxEzgo9EhC7Q=="
+secured: "ZSPOlAAyLyIZlGOW25Euk4NZw6Fm5Jbm14r/I7LkGYTPfpRWpVNlltziZKQwrgkIy4T/CYP7jP6c2Wm24dOStVPC4BAEyRAjFFEjFhe5oU7/VrU+cETZXDk+BszwNQJbO3M0VyOcXRigVJf0jCT9kpJhplKDPj6X5Y7A67N0ZTsP7cSpiOKzFSB42a3uEt4l2PuFH+HwJEl30qOjAA6nsvWCzuox6bLvd1+/NhbojXAETeOVSXJkybcPoT8XWDvQvU9kLLa4EqWWNVuU64Tjg5DDnJnkAogi7CT/69JjvGuGV54sLDeNtCoALO5lGt/RRIBmOPYe4Mgo2yLbxP68Vm6ygUSISXkCSZchmp9NaO/JTQMGowdfyj97Eyz2V6pWyhFmP5i/KQLniUExV8bPiWrTk4VFsi88XB4DOLU2ftVIzygZUrgGoDTYB1zzHMTHdDopef0xuodyC6mpyLoEUJrhzzBe2Ikq4fvt4s+fo+jKWkNZr5mLwGgYGzPBN361ZgaJT9P3pMVjfIgjYFldDw==;unTkmsIGe82qSqL67MmA5A=="
 ---
 

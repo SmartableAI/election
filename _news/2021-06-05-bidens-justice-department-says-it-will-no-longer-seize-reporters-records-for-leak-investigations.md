@@ -111,6 +111,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "U.S. Supreme Court seeks Biden views on Harvard admissions dispute"
+    excerpt: "The lawsuit accused Harvard of discriminating against Asian American applicants in violation of a landmark 1964 federal civil rights law."
+    publishedDateTime: 2021-06-15T16:19:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/u-s-supreme-court-seeks-biden-views-harvard-admissions-dispute-n1270882"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270882"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270882"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3480787/210607-joe-biden-al-0813.jpg"
+        width: 2500
+        height: 1708
+        isCached: true
 
 secured: "kD15uZmzhGSLeZyBTSIwGrWhQ98AQkEgl9gMQFBNsy0ocTZNrMVAgJXfJMMbO5K9shixBTTztxE5KQpEsCRmxuslVbLVuDppUWdzo+tV6tdIOKtBiGSxk2RH87WQH4iQxlduooku/crGBak8ytCo3KdKI7c2FyhF2v2KGl05RNAuK6IyFMVhzNiGVuf/IKAoOZ4A7KPO29PbR1qbchz32nOZBJy+5WdQcX6jWbfbZpKl1/vUF6aM7fKAx6bo/XYXhFN707mxtqW3EbQC3Hp+hEdI4SLWog6mb9T+878AkalGVTX9BgRxLzQJScUBaeCtlxAlQfrloKIJTgyZiLZRO8VB0hLeFpOO8s1CbAHc08g=;xCa2URVyO7MLN1Oa+Cwwlg=="
 ---

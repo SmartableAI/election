@@ -96,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's attorney general defends controversial Justice Department arguments related to Trump"
-    excerpt: "Attorney General Merrick Garland on Wednesday defended a series of controversial arguments made by the Justice Department in recent weeks that endorsed legal positions held by former President Donald Trump and the previous administration.\n    \n"
-    publishedDateTime: 2021-06-09T19:10:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQUQZz8_0Sw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/ag-garland-trump-rule-of-law/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/ag-garland-trump-rule-of-law/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 179
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609150900-02-merrick-garland-0609-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden stays mum on state abortion laws with major test ahead for Roe"
     excerpt: "As more Republican-led states pass abortion bans with the easing of the Covid-19 pandemic, a heated debate has returned to center stage with abortion rights supporters warning of a looming threat to access and anti-abortion activists determined to keep up the momentum.\n    \n"
     publishedDateTime: 2021-06-06T18:27:49Z
@@ -383,54 +367,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/2907831/190624-e-jean-carroll-mn-1005.jpg"
         width: 2500
         height: 1679
-        isCached: true
-  - title: "Biden plans to restore protections for Tongass National Forest that were stripped away by Trump."
-    excerpt: "The Trump administration allowed road building in Alaska’s Tongass National Forest, a pristine wilderness. President Biden intends to change those plans."
-    publishedDateTime: 2021-06-11T15:14:00Z
-    webUrl: "https://www.nytimes.com/2021/06/11/us/politics/tongass-national-forest-alaska.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/11/us/politics/tongass-national-forest-alaska.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/us/politics/tongass-national-forest-alaska.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 137
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/11/world/11new-washington-briefing-alaska-1/11new-washington-briefing-alaska-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Hunting Leaks, Trump Officials Focused on Democrats in Congress"
-    excerpt: "The Justice Department seized records from Apple for metadata of House Intelligence Committee members, their aides and family members."
-    publishedDateTime: 2021-06-11T00:06:00Z
-    webUrl: "https://www.nytimes.com/2021/06/10/us/politics/justice-department-leaks-trump-administration.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/10/us/politics/justice-department-leaks-trump-administration.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/10/us/politics/justice-department-leaks-trump-administration.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/10/us/politics/10dc-justice-1/10dc-justice-1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Jason Miller to head tech startup that could become Trump platform"
-    excerpt: "The former president’s spokesperson is shifting roles but will stay with Trump’s team, according to a person familiar with his plans."
-    publishedDateTime: 2021-06-11T02:01:00Z
-    webUrl: "https://www.politico.com/news/2021/06/10/jason-miller-role-tech-startup-493293"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/06/10/jason-miller-role-tech-startup-493293"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/10/jason-miller-role-tech-startup-493293"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/31/1b/dcc25f5843c1820f7f3cc2754b27/gettyimages-624664040-c.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Trump scraps short-lived blog that was created in wake of social media ban"
     excerpt: "The former president, who is set to address the North Carolina Republican Party Saturday, wasn't getting much traction with his new outlet."

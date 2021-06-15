@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jill-biden-and-kate-middleton-to-me
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "GAO says Biden halt of border wall construction does not violate law"
+    excerpt: "The Government Accountability Office (GAO) on Tuesday announced it had decided that the Biden administration’s ending of wall construction at the southern border does not violate the law, after Republicans had called for the agency to weigh in."
+    publishedDateTime: 2021-06-15T17:49:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pF_xo88Eafw/gao-biden-halt-border-wall-construction-violate-law"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Lahren-Border-Wall-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "/pa4wDI1iBMHoyO0knhNt9rs3GDCXERPe7bvbcAeOgGnIqmcee7pRWi8JRQ7IxD3L8d2REkr9VHlPiN/KFsWGitNAODhgWnmK8ntXDOpUffQdRUw0jbC9QTwJ3WcXyx4ZycF7LTiTLnCgv/lFL85MdNZa4QiD47MBijdolR5OnB0BzXTHjZkE9s+2bCZDWv4DCN9PzYpYKGFBsVlogeJQRjoQWG3hgsbwupJJXaAuDrK98hXYK2qB98zwDN8//TDDKkJR9fJTUAmy9TCoycio/9OfDKbqIvAdBkj0OnlGWYetkXi4Uitn2ydIwgzeYUtN7Syu1mvY4q0GJ/r0Hhvk90QijHHn5qZVILuB5jYiCQ=;ncRKVkUs7h7JqcMi5yREQA=="

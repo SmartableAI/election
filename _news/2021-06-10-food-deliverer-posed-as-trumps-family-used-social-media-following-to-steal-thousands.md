@@ -506,6 +506,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Emails Show Trump Pressured Justice Dept. Over 2020 Election"
+    excerpt: "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his term."
+    publishedDateTime: 2021-06-15T16:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "What happened when Donald Trump was banned from social media"
     excerpt: "In an examination of Donald Trump's social media engagement both before and after he was banned from Facebook and Twitter, one thing was very clear: His most ardent supporters continued to spread his message when he was unable to"
     publishedDateTime: 2021-06-07T18:55:00Z

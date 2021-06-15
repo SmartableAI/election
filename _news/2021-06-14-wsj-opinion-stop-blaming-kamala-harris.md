@@ -126,6 +126,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Ashley Hinson unveils 'See the Crisis' bill as Kamala Harris declines to go to border"
+    excerpt: "Iowa Rep. Ashley Hinson joined “Fox & Friends” Tuesday to discuss her new legislation the ‘See the Crisis’ Act."
+    publishedDateTime: 2021-06-15T17:11:00Z
+    webUrl: "https://www.foxnews.com/media/ashley-hinson-see-crisis-bill-kamala-harris"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 108
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/919da78c-ca11-4b15-b0bb-6c02c75b4233/b9462f72-0f16-4ee5-90eb-1e75fd14dd3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Kamala Harris Snaps Back At Univision Reporter: \"I'm Not Finished,\" \"I Said I'm Going To The Border\""
     excerpt: "Vice President Kamala Harris promised she will visit the U.S.-Mexico in an interview with Univision and snapped back at the correspondent when pressed on a date."
     publishedDateTime: 2021-06-11T00:00:00Z
@@ -143,6 +157,6 @@ related:
         height: 1396
         isCached: true
 
-secured: "aXliByAkWueQyerEnWERPAxPi02DbMWgkpSLxNFzxjHR7FvLoMhvlBgLleV7xfGpIDVekD1Mc5EBJGaAJJwFe3aZ8SPk54vLzswGt9IIQV+JC3jGFb5TCsDEHRcC37M44ZRejU/5UIA5ZROuUOY102UswLXznGhwiPWs1wdPqdhnBZydJArydj6a5+YJe2UJmsxNluHs+ZKjb4saAo3zhXgg6lPST2dyYX/E0PKtlKHylmK+LGNyWeg0YZNPzBslzHOw8J2kzjLHKTsK/+FGm3Ca6eWFppa5NTbwWjJT4m/xburvQPjCHGPfEzeDqFcv2Zq2skD3eN5jApX5Apgf1gi6xcpfyr9z4KCxT7WeGTI=;j8hFG1Er5Cmc+mlq/4Rkxw=="
+secured: "wdKH+EbYfWs4mtmx1yPxgxXU3N6cW1fG8r3cuTvJSE/L6CiN0VRab+bfiL/9hO/ba528ffNy89hUqgCUWQr3r3Q4NhW8QIETLzJv/u1e1WS/EQNjNVb4WQAm9RN2zf3Tn69MQouGiuYG+fBSR0h7RFjdu1T7pK8pKfXyWPG6+58hs8IaTvM4qZA1GSmjHkT/RFxU9B4VrQIOn0lZaTxXzWmAQ/Q4rlZui4ZZtSKrPHWICSraH+goc4wpENQ6J11WyI/3AIAKk/MV/altdkMBSftCuaFRkjToaX75MLAppughjT0T5Lc7s8VtGD+e6fUtcKzWJpWTTfCw53FoVh8qZy3PMo7yynKUJWzOB9TUPvD/OZpJLYs1IXc/BQ49EJ2bhSAHhkeepV1CrPyRu0G/Ka1N/zI5nqOwHJ9fg7zhkkqgDrjw9stvUyafyQcnEgR4TQrVqmkysUHTSq3sMM7ABaiN1kvSIEhY9MOD5x05VspZbNFByiDbM/I47qJiAjOzDpc09MXPb7F7Kk3s3/qslQ==;FPdEr0L83k876xAaDyU8fQ=="
 ---
 

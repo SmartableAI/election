@@ -192,6 +192,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden, E.U. eliminate long-running aircraft trade dispute, but other Trump tariffs still stand in the way"
+    excerpt: "Biden is meeting with E.U. leaders in Brussels Tuesday, but all the Trump-era disputes won’t be resolved immediately."
+    publishedDateTime: 2021-06-15T10:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-eu-tariffs/2021/06/15/88fcfe92-cd4c-11eb-a7f1-52b8870bef7c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-eu-tariffs/2021/06/15/88fcfe92-cd4c-11eb-a7f1-52b8870bef7c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-eu-tariffs/2021/06/15/88fcfe92-cd4c-11eb-a7f1-52b8870bef7c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JGRB3LWNZEI6XJ7RKK4IOC7PPQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden restores $929 mln for California high-speed rail withheld by Trump"
     excerpt: "The Biden administration late on Thursday restored a $929 million grant for California's high-speed rail that former President Donald Trump revoked in 2019."
     publishedDateTime: 2021-06-11T09:29:00Z

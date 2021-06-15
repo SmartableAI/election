@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/index.html"
 type: article
 quality: 172
-heat: 272
+heat: 292
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480531/210604-joe-biden-ac-742p.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "U.S. Supreme Court seeks Biden views on Harvard admissions dispute"
+    excerpt: "The lawsuit accused Harvard of discriminating against Asian American applicants in violation of a landmark 1964 federal civil rights law."
+    publishedDateTime: 2021-06-15T16:19:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/u-s-supreme-court-seeks-biden-views-harvard-admissions-dispute-n1270882"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270882"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270882"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3480787/210607-joe-biden-al-0813.jpg"
+        width: 2500
+        height: 1708
         isCached: true
 
 secured: "G/5gbotSyyaNqXXM0XCrDnCd7vCEzbDnJMD/6fUAYePtUk2YWmtovOEhE01uznOB92FbJwmFmjERFNQ6AhKBHLEd5NAMYCy/JMbpLofd4FatUMgbDoIPxKpKhfld8YGh2vVPYnMWI3rWIEsoaZpXADK0IoxUa227LwofFPZjCw5QSsN8SSV8K7wjC0tNbzfvsjlOIJCqzdabnyajtz4lhAxyyGlDWuuGUb0ED3hKGbeCFiCYJ10+c+qkqXEkP7SgUBXV7Sfn0NT5m5bkE4wLicziOAKszYCYdw1sF5Uf3SvFXMZR6Tw4y2bcHmahpFFBN8oYmhUYvPkCp3drm1VMS5UZfXFGs5gfoWy/ZgR7M4w=;UJ/rF8esGmUkhpVHobMH5g=="

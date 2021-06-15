@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-trump-republicans-nato-foreig
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp"
 type: article
 quality: 173
-heat: 213
+heat: 233
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
     quality: 155
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/GettyImages-1232366321.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House Republicans demand answers from Biden administration about unions' 'special treatment'"
+    excerpt: "EXCLUSIVE: House Republicans are raising alarms about former union officials who were granted ethics waivers to serve in the Biden administration, claiming organized labor is having undue influence on government policy."
+    publishedDateTime: 2021-06-15T16:55:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gpdon6-IG8o/biden-admin-unions-special-treatment"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
         width: 1280
         height: 720
         isCached: true

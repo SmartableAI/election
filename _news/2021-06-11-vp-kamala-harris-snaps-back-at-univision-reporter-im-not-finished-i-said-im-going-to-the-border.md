@@ -138,6 +138,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ashley Hinson unveils 'See the Crisis' bill as Kamala Harris declines to go to border"
+    excerpt: "Iowa Rep. Ashley Hinson joined “Fox & Friends” Tuesday to discuss her new legislation the ‘See the Crisis’ Act."
+    publishedDateTime: 2021-06-15T17:11:00Z
+    webUrl: "https://www.foxnews.com/media/ashley-hinson-see-crisis-bill-kamala-harris"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 108
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/919da78c-ca11-4b15-b0bb-6c02c75b4233/b9462f72-0f16-4ee5-90eb-1e75fd14dd3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Ag0pstYzqHp+yVbPmxW7C3Oe+blyfLiYtMx3yj6SLFhnJXa05VYRdo07vYJMPjz1tpbKhsV1m/cC3wRkKLw4ORLMI3B8GUkxPmuipkvdL+vIsC4snqZT3pC2m7fh9FZvy+a1dfalQcJmIPQMSOUNp18rVwd56skNj2k1QuIgfXbSG9jwXfmhzReILmaAScgqOAd5qVj2BtH4plxjPBMniloaU9LE7bKy5lOMxq9IKG3ouRnpTIUOVpZSlIDTWBDYeQer3EX037UPAjNPs3nlMYfHawTX4j/n7JEhZQ6TY4mfiGY/ggvw66SzK2WAFAoygJ/5s8j+Zp6DYQdXT8e1udkkLFx0djJyvzqn66+i244=;4iLpSuUeDAi8HMrPD89OBw=="
 ---

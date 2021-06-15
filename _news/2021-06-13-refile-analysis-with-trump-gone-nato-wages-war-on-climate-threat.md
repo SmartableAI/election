@@ -489,6 +489,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Emails Show Trump Pressured Justice Dept. Over 2020 Election"
+    excerpt: "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his term."
+    publishedDateTime: 2021-06-15T16:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Food Deliverer Posed As Trump's Family; Used Social Media Following To Steal Thousands"
     excerpt: "A 22-year old former food delivery worker was arrested this week for creating fake Twitter accounts of former President Trump's family members and duping MAGA supporters of money."
     publishedDateTime: 2021-06-10T11:23:00Z

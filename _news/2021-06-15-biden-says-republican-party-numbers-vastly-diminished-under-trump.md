@@ -183,6 +183,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden, E.U. eliminate long-running aircraft trade dispute, but other Trump tariffs still stand in the way"
+    excerpt: "Biden is meeting with E.U. leaders in Brussels Tuesday, but all the Trump-era disputes won’t be resolved immediately."
+    publishedDateTime: 2021-06-15T10:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-eu-tariffs/2021/06/15/88fcfe92-cd4c-11eb-a7f1-52b8870bef7c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-eu-tariffs/2021/06/15/88fcfe92-cd4c-11eb-a7f1-52b8870bef7c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-eu-tariffs/2021/06/15/88fcfe92-cd4c-11eb-a7f1-52b8870bef7c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JGRB3LWNZEI6XJ7RKK4IOC7PPQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "GOP Rep. Jim Jordan rips into Joe Biden for attending the same G-7, NATO summits with US allies that Trump went to multiple times"
     excerpt: "Jordan, a conservative lawmaker and staunch ally of former President Donald Trump, took to Twitter to blast Biden for attending diplomatic summits in Europe."
     publishedDateTime: 2021-06-14T20:04:00Z

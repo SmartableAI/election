@@ -3,18 +3,18 @@ category: news
 title: "Will Vice President Kamala Harris' visit increase vaccine rates in South Carolina?"
 excerpt: "SC state reps and officials and the community look at whether Vice President Kamala Harris' visit could get more people to vaccination clinics."
 publishedDateTime: 2021-06-13T11:38:00Z
-originalUrl: "https://www.freep.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
-webUrl: "https://www.freep.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
-ampWebUrl: "https://amp.freep.com/amp/7668764002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7668764002"
+originalUrl: "https://www.azcentral.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
+webUrl: "https://www.azcentral.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
+ampWebUrl: "https://amp.azcentral.com/amp/7668764002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7668764002"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -814,6 +814,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "+oMb/3docst303wVmB8/hMfboUrvD5Mnih54DsMuHr4PBEe2g8mya7/7MnXjkzS/747uy/SXFAhcVPDiJK1mLFemAmOFcI8NvY7xpIMchzrr3KHNc6aMVejZHTQj0QAqJEUqI/0XC+VEWfscg5uQRREM1bpT1z3+/A4074ha0UwtSM6Y1Tm/let9Sso2ohp9JQcxf13UWiUw5qZuzuCD+SLH57bfRnUzSXwlJwZVjVYqkXik3S/y/WpNV6m68RESPHMmmOy4ipT1I7BWhyVnigQhjeqNYsgMox/c8B+W7nktAn0pg77ZxV7lc/WsH5U2KQbrkDyRKuu169ZDsLaf74VKNvdBo2VfUYUJiVwVugg=;S4tOhGMeczIptG47a4oCeA=="
+secured: "Y7j79XPr8S59WsMWHjjgSpu9+oRtiUyHI9T9qOdRIC9/UmUbiiB7a/zNx6SJ9/qXtJCSJoGw5yNpLgdcqwQpBo/kTkG7x526MoQm0NHggXF51dZiP9fVPqL/inEQ8dFj/gUqX0AOTAVqHmmWh0B6HcCli7nEIiyoAMLeJtYTeCZDsqbh2Rf0hNv2hDxNIWTGqvT3Cd+zHUerJVxxGXhb6u9yRvtvELL05Aa5YFfj7ZxAWdre0uIgTBzOxWvuatS81EUH7eEXqE/qOsVoydUWkjrBOtv6euB9AJqwi5mqF7E/o9eq/q+yv4JwZMHCSoR/vFCR1OomJ4gfTZ2e6ixWMH0hP27ufIZxn99VJv4OjeQ=;cewYKBEygBY7ejyqP/WBfA=="
 ---
 
