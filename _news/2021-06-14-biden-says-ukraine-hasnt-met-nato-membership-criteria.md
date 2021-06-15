@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ukraine-met-nato-membership-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ukraine-met-nato-membership-criteria-tensions-russia.amp"
 type: article
 quality: 175
-heat: 215
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden gives awkward fist-bump to Turkey’s Erdogan at NATO summit"
+    excerpt: "President Biden on Monday offered an awkward fist-bump to Turkish President Recep Tayyip Erdogan in Belgium at the annual NATO summit Monday — as the Islamist strongman prepared to blast the U.S. leader for his recent recognition of the Armenian genocide."
+    publishedDateTime: 2021-06-14T23:38:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QqVib7QZRDA/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd6a145e-66e9-499f-af6f-6e679e86637f/ce50cd7b-ad82-41a8-827b-0a4d21342769/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "LIVE UPDATES: Biden arrives in Brussels for NATO meeting following G-7 summit"
     excerpt: "President Biden is set to participate in his first in-person North Atlantic Treaty Organization (NATO) summit on Monday."
     publishedDateTime: 2021-06-14T07:13:34Z
@@ -47,23 +63,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden to designate Pulse nightclub as national memorial, renews gun control calls on mass shooting anniversary"
-    excerpt: "President Biden announced Saturday that he would designate Pulse nightclub, where 49 people were gunned down five years ago, a national memorial, as he again called on Congress to pass gun control legislation."
-    publishedDateTime: 2021-06-12T21:14:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsAAAfgmygw/biden-pulse-nightclub-national-memorial-gun-control-mass-shooting"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pulse-nightclub-national-memorial-gun-control-mass-shooting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pulse-nightclub-national-memorial-gun-control-mass-shooting.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
-secured: "yOjRXDgC2USmqXsPAfWcoDUA0nvQJUNTEI/rPqYt2HGLKNngqmgDnPsS2otZDOC8dgjPo/7dj8eERsrVA9ra26Nk1dGIAW91tyAjKnOKv81maYBr67Kz1FVfElCDvGiXtZBXmsd6RttAKGwBSgS7YUfoVlyUESpIss0kEqLev/X6pMhe4HtB+HH2C0a37frfflfvZNRa2Fa0JGBzr1dcyalB8NAF5lGH3qmbGKxgvKtjYQm1KL1H0qUmfTdF0A3PylEyOtRN5aEi7LMc/SBbq9suOeIdx9sQ6DsHi44YFucHcp7TjtV5OWprohkVNagT7pXFE3WTg6ZHZ0vdO2vrV62BMQzhmkGsD7+nYLv/u/4=;ITDNpR2RIM3/Rcbv42rHtA=="
+secured: "P+4Hy6wfykxEa0Qd0vd7geDCd5i0aro8uDVzrrOanRNl67FwYKJJQOUMPl97gI73g04SJg45IwcdojGbTqyU18XMCIBltnOw9Mph4uovTSL67VP5ZdbNxeOOg+eAXB+llJMUw6+YB/cLCqc6+XMxvn/V49zbEO0xbrFiuwaY+Rtz9Hyu2mg3I6bLg8jo8piiZS27kzgN1+t0OaHK/k4Qp/UgDWeC+gH1d1yOHRBeE1M1yuSfbSm5BOR/WEgd2kA+rwzjnzM32A3PAk4WzDVKyCDgII0iwxs2iEXXwYL3/YZzKxpG0TzD+LwQdvWeCnLx1kNh605DWydt4cAjEGXx3IU3MOmPfxsHDwcpa66m+ew=;g9tnsLEtmlsVIck+jCVADw=="
 ---
 

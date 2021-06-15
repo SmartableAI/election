@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Biden notes US virus deaths approaching 600K"
+    excerpt: "President Joe Biden used his NATO press conference to acknowledge the approaching grim milestone of 600,000 Americans dead from the coronavirus pandemic and to urge more Americans to get vaccinated"
+    publishedDateTime: 2021-06-14T21:16:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/latest-germany-records-fewest-virus-cases-months-78261940"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-germany-records-fewest-virus-cases-months-78261940"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-germany-records-fewest-virus-cases-months-78261940"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_606cbfa84490486c95b5acda2009f50b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "U.S. state governors urge Biden to support Lockheed's F-35 jet"
     excerpt: "Governors of U.S. states that represent both political parties have written letters to President Joe Biden supporting the purchase of F-35 jets made by Lockheed Martin Co."
     publishedDateTime: 2021-05-27T17:56:00Z

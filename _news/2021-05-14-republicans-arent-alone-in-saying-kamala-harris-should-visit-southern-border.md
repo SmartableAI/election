@@ -688,6 +688,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Vice President Kamala Harris' charm offensive turned mostly offensive"
+    excerpt: "Rep. Alexandria Ocasio-Cortez actually was being kind when she described Vice President Kamala Harris' \"Do not come\" message to undocumented Central"
+    publishedDateTime: 2021-06-14T22:38:00Z
+    webUrl: "https://www.theday.com/article/20210614/OP04/210619672"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
+        isCached: true
   - title: "In Greenville visit, VP Kamala Harris promotes COVID-19 vaccination campaign"
     excerpt: "Invoking the scripture that says to \"love thy neighbor,\" Vice President Kamala Harris on her tour of Greenville promoted the government's vaccination campaign as part of a nationwide"
     publishedDateTime: 2021-06-14T15:50:00Z

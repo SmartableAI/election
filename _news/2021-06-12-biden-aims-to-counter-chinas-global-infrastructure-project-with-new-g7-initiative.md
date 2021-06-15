@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says it 'remains to be seen' whether Ukraine will be admitted to NATO"
+    excerpt: "President Joe Biden made clear Monday that Ukraine does not yet have the go-ahead to join the North Atlantic Treaty Organization, a move long sought by Ukraine and vehemently opposed by Russia. For a moment,"
+    publishedDateTime: 2021-06-14T21:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-says-it-remains-be-seen-if-ukraine-will-be-n1270807"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270807"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270807"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3482999/210614-volodymyr-zelenskiy-jm-1527.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "wtHflm0pPa/mEMgBoRHMrlFbIJuTZAHNP5ZZ0y32V/oLlnexADRyx1q2QhkQ397YM+cKwLNG5RiyiC5zLoOjWrC/uwFdug0jj9CtN7d/HZp6tvLR7bnlBx/vVRHn96VzSOTQYEllRe6FXp4b39TxYj0A6v3EfuAZbErXlS+EiOQgKCDEYFRdX/OXM/EBP7ll3MgYfjCSp14ZW/0uv3UjRc15MzgXX39v3GsoPGY5TQI8WV4ddSMae9K12i/UzXhmE7+W3juOshN9JS9//2MSnbz4KmCtYAJt1j88c3sZ7vWVSKW/QQq6Tcs1CluKNK/ij1BEnXI78Qypz+kT+6EjwZH3piPkpA0obFitZoJAjt4=;6UzjoJRMdznbVRX98xnoHQ=="
 ---

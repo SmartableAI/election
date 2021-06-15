@@ -237,6 +237,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "SCOTUS seeks Biden views on admissions dispute"
+    excerpt: "News Agency SCOTUS seeks Biden views on admissions dispute. Posted . The U.S. Supreme Court on Monday asked President Joe Biden's administration to give its views on whether the j"
+    publishedDateTime: 2021-06-14T22:27:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEHDPA73"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210614&i=OVEHDPA73&r=OVEHDPA73&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Go green or go bipartisan? President Joe Biden’s big infrastructure choice"
     excerpt: "As negotiations unfold in Congress in search of a bipartisan deal, the White House's ability to ensure a climate focus in Biden's sweeping infrastructure package is becoming daunting."
     publishedDateTime: 2021-06-12T16:57:00Z

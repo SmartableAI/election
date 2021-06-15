@@ -169,6 +169,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "News executives protest Trump-era probe with Garland"
+    excerpt: "Executives with CNN, The New York Times and Washington Post met with Attorney General Merrick Garland to protest the Trump-era Justice Department's efforts to seize phone and email records of journali"
+    publishedDateTime: 2021-06-14T23:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/news-executives-protest-trump-era-probe-garland-78277110"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/news-executives-protest-trump-era-probe-garland-78277110"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/news-executives-protest-trump-era-probe-garland-78277110"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_562e5ca0567046fea2fa5075422639b9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden restores $929 mln for California high-speed rail withheld by Trump"
     excerpt: "The Biden administration late on Thursday restored a $929 million grant for California's high-speed rail that former President Donald Trump revoked in 2019."
     publishedDateTime: 2021-06-11T09:29:00Z
@@ -284,6 +300,15 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Biden Says Republican Party Numbers 'Vastly Diminished' Under Trump"
+    excerpt: "U.S. President Joe Biden views the Republican Party as vastly diminished in numbers even as it remains in lockstep with the man he defeated, former President Donald Trump. \"The leadership of the Republican Party is fractured and the Trump wing of the party is the bulk of the party,"
+    publishedDateTime: 2021-06-14T22:03:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-14/biden-says-republican-party-numbers-vastly-diminished-under-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "Joe Biden is meeting with the G-7 on his first presidential trip abroad. What is the G-7 and what do they do?"
     excerpt: "Biden will attend the G-7 summit on his trip to Europe. Other stops include visits to Queen Elizabeth II and Russian President Vladimir Putin."
     publishedDateTime: 2021-06-11T10:26:00Z

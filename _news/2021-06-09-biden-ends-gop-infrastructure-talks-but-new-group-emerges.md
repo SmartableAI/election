@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrast
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -220,6 +220,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/8e793528-cbe1-41e2-9822-e6e78628a018_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "SCOTUS seeks Biden views on admissions dispute"
+    excerpt: "News Agency SCOTUS seeks Biden views on admissions dispute. Posted . The U.S. Supreme Court on Monday asked President Joe Biden's administration to give its views on whether the j"
+    publishedDateTime: 2021-06-14T22:27:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEHDPA73"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210614&i=OVEHDPA73&r=OVEHDPA73&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "The Hill's Morning Report - Presented by Citizens' Climate Lobby - Biden floats infrastructure, tax concessions to GOP"
     excerpt: "Welcome to The Hill’s Morning Report. It is Friday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators."

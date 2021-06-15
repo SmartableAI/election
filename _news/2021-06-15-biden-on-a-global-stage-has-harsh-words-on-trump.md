@@ -640,6 +640,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Where Biden’s Justice Department Isn’t Breaking From Trump"
+    excerpt: "Democratic gripes are increasing, as some critics worry that the department is rubber-stamping Trump-era policies."
+    publishedDateTime: 2021-06-14T22:54:00Z
+    webUrl: "https://www.nytimes.com/2021/06/14/us/politics/merrick-garland-justice-department-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/14/us/politics/merrick-garland-justice-department-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/14/us/politics/merrick-garland-justice-department-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/14/us/politics/14onpolitics-pm-newsletter/14onpolitics-pm-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden Aims to End Arctic Drilling. A Trump-Era Law Could Foil His Plans."
     excerpt: "The administration suspended leases that were auctioned in the waning days of the Trump White House. But a 2017 law requires another sale."
     publishedDateTime: 2021-06-02T21:16:00Z
@@ -1299,6 +1315,6 @@ related:
         height: 550
         isCached: true
 
-secured: "YOADaZ+XQvJ3Kz43JQr6SE/vHbSeW2S94rNGIoWEfU5JplzYceG+RFLwgz1ruFl2qr+bi3cIOn+ozF5vM+I4znr25uL3PJ2ZgG+gj0TRWTQRP1i6e5L5PWji/fPMK0I6bcrSkVSKTe8Ym8ipXAkrZoDBEppkUZxq+kAbvFpPPPeHkEWjP0kwIevCf0LTU2ZvPAL8KV2XsYL/dqoxqeDZsfxu5NSYIHJ/yE8Lr7yMgLfNoxVSqLufkW6rq2lTuf7+Wq0rfv34VVhkjlTwQ3irbqr1ernmq68z46MDa7tYiPNtOPKg+9BS9CHm5cMhi3yX+h8T5KP6/+vzqwVEbALHvfSBJbiprghkbqH4OR30fqg=;iT6Qftp21zZ8fPIoeW4vNg=="
+secured: "O4Mbhr/8SfrED8RAnr4oqKgJjoAfC2uWW8EloypzHIuAAwSbqiDKpDtdZL6vO7n2jWgb+kb+G4flyPzlTJe3zwczUlmXE9g64TR3Wjilthz14FSKm/W5EuF1VIDNLTjpT+Ky3M3sJ/VwUoVHtlTXImIufdHqX9Hc01uuErpwTDL4kpf+LXhaNhrj9yF70qryym/OyMhMbQ2JBfSxMxo95b7mhxJLh46LClmSDkMbTDfikoNN7svDRPhI9ZxXxF4FX1GcS/zfn6Fk7K1oHSGQqpSWxiedj8jxscrcmUd6hqajnV4TccPqUVLhXZSPLemyDSHci863vEJ3yhh25izAJJKBiCt/znWRJq9gOuWS27paRv1y4Fr8TFZl+vHxLmqseJ8/wkf7r3sQ11k4goUpse+ct4ivQxAnxOZyN/yfW7YyMAhPgn0bUKP9V3LvGOsRRdjmFG2xzXkLTWNvDNllopLsW2FqhFRcLcFOKp8+e4IrIqvDxLsY42sABnUzEUgS+C0MBR+AG95cHqhv+/woXQ==;78te9inb/fFfHqqeJeuGrA=="
 ---
 

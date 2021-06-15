@@ -674,6 +674,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Vice President Kamala Harris' charm offensive turned mostly offensive"
+    excerpt: "Rep. Alexandria Ocasio-Cortez actually was being kind when she described Vice President Kamala Harris' \"Do not come\" message to undocumented Central"
+    publishedDateTime: 2021-06-14T22:38:00Z
+    webUrl: "https://www.theday.com/article/20210614/OP04/210619672"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
+        isCached: true
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."
     publishedDateTime: 2021-05-13T20:39:00Z

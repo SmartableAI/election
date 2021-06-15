@@ -89,6 +89,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence To Be In Area Next Month"
+    excerpt: "Former US Vice President Mike Pence will be in northwest Iowa next month. The nation's 48th Vice President is scheduled to attend a fundraiser for 4th District Congressman Randy Feenstra in Sioux Center on July 16th."
+    publishedDateTime: 2021-06-12T21:32:00Z
+    webUrl: "https://kiwaradio.com/local-news/mike-pence-to-be-in-area-next-month/"
+    type: article
+    provider:
+      name: KIWA Radio
+      domain: kiwaradio.com
+    quality: 55
+    images:
+      - url: "https://kiwaradio.com/wp-content/uploads/Mike-Pence.png"
+        width: 906
+        height: 1000
+        isCached: true
+  - title: "Former VP Mike Pence to headline ‘Feenstra Family Picnic’ event in Sioux Center, IA"
+    excerpt: "Former Vice President Mike Pence is scheduled to headline Rep. Randy Feenstra's \"Feenstra Family Picnic\" this upcoming July. The event is being held in Sioux Center, Iowa on July 16 from 11 a.m. to 1 p."
+    publishedDateTime: 2021-06-11T21:12:00Z
+    webUrl: "https://ktiv.com/2021/06/11/former-vp-mike-pence-to-headline-feenstra-family-picnic-event-in-sioux-center-ia/"
+    type: article
+    provider:
+      name: KTIV
+      domain: ktiv.com
+    quality: 49
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/4/2020/01/Mike-Pence-Hedshot.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "0+8Fq1MLVVgAaCTaF+TFJ+VcOIYAVFN/GgKm7rbHjSiflHX732tyo/re9QJFHTzfLV2djeiNGso76nRFWGq/1TnI0ITiVGbq7mo7jHha9Agm6blEW5ZjKt/j0RgGeK7yHXSu/1kohoujtwP4/3mCjFuPZjsdM7hOjJ0ETnUnL5aZFne0EEGQfGccoIAKTT3gxdduOzsvLVyhjhbjUSvBaNUvqmHgHuDN2Q2t/G70Yc8h+DG0lM4/wkZHiE24ZirjDP1o8ajMO1QZLdz7LEAchwxEV04jjT0jsMDEE22hSZ2oO6O4OAVQunzU4mchaGZRSFLZ3is+zwv5XEKmeHHNIHe9nUqBP8EupIRmM0rMKCM=;rbRI9MwAFOikE4NftO7Rug=="
 ---

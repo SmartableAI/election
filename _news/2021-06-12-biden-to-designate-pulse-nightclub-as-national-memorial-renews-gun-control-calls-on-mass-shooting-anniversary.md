@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says Ukraine hasn't met NATO membership criteria"
-    excerpt: "President Biden said Monday that Ukraine had yet to meet standards required to join NATO but would receive necessary support from the alliance amid rising tensions with Russia."
-    publishedDateTime: 2021-06-14T20:52:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8mryuzcEXPo/biden-ukraine-met-nato-membership-criteria-tensions-russia"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-ukraine-met-nato-membership-criteria-tensions-russia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ukraine-met-nato-membership-criteria-tensions-russia.amp"
+  - title: "White House says Biden keeps D-Day memory 'close to his heart' despite anniversary snub"
+    excerpt: "The White House on Monday defended President Biden after he failed to acknowledge the 77th anniversary of D-Day on Sunday, saying he values the role of the men and women who serve, and that his memory of them is \"close to his heart.\" "
+    publishedDateTime: 2021-06-07T18:55:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XlRfcUeL2uE/white-house-reaction-biden-d-day-anniversary-snub"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-reaction-biden-d-day-anniversary-snub.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-reaction-biden-d-day-anniversary-snub.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea2088a8-b920-4e3c-95f1-05694b3bb30e/c26df30c-94d0-41b3-9f77-10d6a4a2163c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "LIVE UPDATES: Biden arrives in Brussels for NATO meeting following G-7 summit"
-    excerpt: "President Biden is set to participate in his first in-person North Atlantic Treaty Organization (NATO) summit on Monday."
-    publishedDateTime: 2021-06-14T07:13:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k7ybYtO5ocE/live-updates-biden-nato-meeting"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-nato-meeting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-nato-meeting.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eda38c1-0b23-48e5-b081-f60e524c1b76/0d6b9e13-d9bd-48db-9a75-bed6463a3e52/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "m6NKmwA30uHMqUv1pk6F4fnjxa730Oved6rZfqh/JbT/k2omeAgbuDsKClA0RWZfjXScdqnzRcR70UUMwdKQPxu1TlV6Y95a0XFpsHbHSF3BDyZFjzhf304lCl5vupt/5BpMhRLcoEseqbOcbKpVR1swXPwcYxHPed+Kzk4B8Os1QIIEtOrqSNefgsU2qK5vTqUoRExHB6mHmjepk7TT3sbgABfPCKeZmueF+hhnkynAw371NZd2dHM/C3tpFuwVSs7ig2Ov53713Pdco30V/8dMY1a6Drr6d6yENisgZyT82Wltt99253PgbxEcAs4bci5J+3b22mIUIJ1mbc9a8EAMvrdBa4xFWxoQ9V8MqvY=;HTxkU1kca9G8YvtXVpHmMA=="

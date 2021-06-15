@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence To Be In Area Next Month"
+    excerpt: "Former US Vice President Mike Pence will be in northwest Iowa next month. The nation's 48th Vice President is scheduled to attend a fundraiser for 4th District Congressman Randy Feenstra in Sioux Center on July 16th."
+    publishedDateTime: 2021-06-12T21:32:00Z
+    webUrl: "https://kiwaradio.com/local-news/mike-pence-to-be-in-area-next-month/"
+    type: article
+    provider:
+      name: KIWA Radio
+      domain: kiwaradio.com
+    quality: 55
+    images:
+      - url: "https://kiwaradio.com/wp-content/uploads/Mike-Pence.png"
+        width: 906
+        height: 1000
+        isCached: true
   - title: "Pence to attend Iowa event"
     excerpt: "Former Vice President Mike Pence is headlining Rep. Randy Feenstra's inaugural \"Feenstra Family Picnic\" next month in Sioux Center."
     publishedDateTime: 2021-06-12T21:39:00Z
@@ -88,6 +102,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/custom/image/d86b5402-c54a-11ea-ac94-bf1fd66c47b1.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Former VP Mike Pence to headline ‘Feenstra Family Picnic’ event in Sioux Center, IA"
+    excerpt: "Former Vice President Mike Pence is scheduled to headline Rep. Randy Feenstra's \"Feenstra Family Picnic\" this upcoming July. The event is being held in Sioux Center, Iowa on July 16 from 11 a.m. to 1 p."
+    publishedDateTime: 2021-06-11T21:12:00Z
+    webUrl: "https://ktiv.com/2021/06/11/former-vp-mike-pence-to-headline-feenstra-family-picnic-event-in-sioux-center-ia/"
+    type: article
+    provider:
+      name: KTIV
+      domain: ktiv.com
+    quality: 49
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/4/2020/01/Mike-Pence-Hedshot.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "X09YdYAZPLBdIAh14JFL0PWOwkm7zq3j1TaxMZ1OSGiadhUiLMqUcXPRzlx50LGk2gZ3dNLtRjIuQAS70aAg2tIAempoPQquO2r2m8wr9JPLFm8LHiHUXgqd/vn1CtEchUG+EodwFFbvcA1B9b4kMqA8MadQtI3G6ocR0ibTt+hmGrxclpK2j2zvv7Kxdcp5A814DMFdFR1M91RNCpgMYNR2E/4J6HhaiRMi13SdCEcbDLBRyEN/FRh6sBiroiGbprR0K14DhYmIKemGy8vCWPVoKVCdX6Hn4FdQ8kr0Pvk1Ch5dzRXglZspikFeN6qtQtCJDHEjpBHozqt7dEjBN8IT3opT29zwCeX+BcQhIYQeuXJpvUFKv+1kJEdX76Xeqak4tFiojUkfXXwHpDaNSbtpwMLrBPdCj5MGoo4ZrH2AkcmTsKoJ6K463GyRdg4xkQYel7W9r/jkMRmukC54SH/P3jjH9i4Kdfy9uLbv53oYLfhidNE2lm6iqGYMRHQGmC9ypLQIVOSP1Wxn3/9X7w==;K2pYiCrzBIV/V3rNafWqZw=="

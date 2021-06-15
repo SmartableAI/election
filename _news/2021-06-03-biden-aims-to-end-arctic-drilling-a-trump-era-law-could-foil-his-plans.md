@@ -656,6 +656,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Where Biden’s Justice Department Isn’t Breaking From Trump"
+    excerpt: "Democratic gripes are increasing, as some critics worry that the department is rubber-stamping Trump-era policies."
+    publishedDateTime: 2021-06-14T22:54:00Z
+    webUrl: "https://www.nytimes.com/2021/06/14/us/politics/merrick-garland-justice-department-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/14/us/politics/merrick-garland-justice-department-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/14/us/politics/merrick-garland-justice-department-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/14/us/politics/14onpolitics-pm-newsletter/14onpolitics-pm-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Garland looks like he's protecting Trump. But Biden could benefit bigly."
     excerpt: "Analysis: There's nothing new about the Justice Department protecting the executive branch and the president. That's good for the current president, too."
     publishedDateTime: 2021-06-12T17:48:00Z

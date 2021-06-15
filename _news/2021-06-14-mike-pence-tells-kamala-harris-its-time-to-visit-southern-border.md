@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp=1"
 type: article
 quality: 150
-heat: 1150
+heat: 1170
 published: true
 
 provider:
@@ -678,6 +678,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/14/PGRE/6474a143-8a95-478e-b45f-b7e0e1d46a1a-protest2.jpg?quality=10"
         width: 800
         height: 532
+        isCached: true
+  - title: "Vice President Kamala Harris' charm offensive turned mostly offensive"
+    excerpt: "Rep. Alexandria Ocasio-Cortez actually was being kind when she described Vice President Kamala Harris' \"Do not come\" message to undocumented Central"
+    publishedDateTime: 2021-06-14T22:38:00Z
+    webUrl: "https://www.theday.com/article/20210614/OP04/210619672"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
         isCached: true
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."

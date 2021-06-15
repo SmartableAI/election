@@ -221,6 +221,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "SCOTUS seeks Biden views on admissions dispute"
+    excerpt: "News Agency SCOTUS seeks Biden views on admissions dispute. Posted . The U.S. Supreme Court on Monday asked President Joe Biden's administration to give its views on whether the j"
+    publishedDateTime: 2021-06-14T22:27:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEHDPA73"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210614&i=OVEHDPA73&r=OVEHDPA73&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "The Hill's Morning Report - Presented by Citizens' Climate Lobby - Biden floats infrastructure, tax concessions to GOP"
     excerpt: "Welcome to The Hill’s Morning Report. It is Friday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators."
     publishedDateTime: 2021-06-04T10:30:00Z
@@ -323,6 +337,6 @@ related:
       domain: indystar.com
     quality: 32
 
-secured: "LYfv+CK+NL4fkCwivkeiSwtL6Fm5vOBU4QmLJbVdv+YzhApAHuNuVm4ifJKp5+NLeWlkoIXgBKU0z8c+yXPMM+obNZ5Dbd9/+A5TTuXAemA6EiYCiZoiVd2nEyy6h20Z/nN+g2KRL7X54daR/ER9MK3Jn+GRu3GKv7SnueU3G+KQJLCrSXJR7abvYZD8oS/W9q6oLBCt5l/VXlymq/0qPbgSPyrhW471L+9/l54nvk37hY55n5wU4GYcA3VPIuvbPX6qpE1k+saJzQ32Aqg9IJQsUOy7U21l6I/6IiJdw0ls1bSHJS7fVN5bKwQ75M2lBsbDZ948Q26j3yNa5M3MsQFGRexTO3ZgIWt5mlCtezs=;jmc5panUROq4936CajxfEw=="
+secured: "Zy/lrJL7Sid/wD2OT8EfIux/ybVfGV4HRTTC93LXh7qTiJHg0paC1OFu88S5mOLcW1b/KR2x+AsHJsGsu5WMw9pneHQaY/gmkN+RzuvPJMjKzBJJvDyIGtqr7rNnkd5Jw5RjAAvSl6l409VVOO6QD4lHKO4/K4HAxSCiJMqHP1YyR5p36cXDBkstMo9WHdEVu3WKcMYvMmEuvM+2RrZ9sl2m7yFzCey23YhdCir9X0z+bJU5C/QN9EY7+9L7yIRAl04Uy6jKetlhi5ehihnqxz1q0zM21X22ygJA+WQ5FIK5YrZJx8/sS+iG61oo8p0lgZBCJF1idn2UGrGAjATiRVNVeQoV58tI1Jz73cAkJIWqeAiUk39EMx2FGaGmmx4u9MkRyWBGjhcs+SBIB/M6LixGs8Bh1oOYgcRpjXfaC9YjKG4nyEy01DUBLfNaw2uVdeyn8jNndLy616kXyeLVdoVfQZdlP8BaqqaidqmAVAWecICUViIwOgLASryk57Vn2oZWmAZUwdXnAoR4wajt0A==;+vsgxfcRwMtGqQT+/cV9gw=="
 ---
 
