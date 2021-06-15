@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/09/biden-declares-the-u
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/26c2be6/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F98%2Fd9%2F1d2142524ff89e33504db57a0201%2Fla-photos-1staff-787290-na-pol-0607-vp-harris-guatemala-kkn-27069.JPG"
         width: 320
         height: 209
+        isCached: true
+  - title: "Joe Biden declares 'rock solid' commitment to defend NATO allies"
+    excerpt: "President Joe Biden on Monday concluded his first meeting with fellow NATO leaders by reiterating the United States' \"rock solid and unshakable\" commitment to come to the defense of its allies."
+    publishedDateTime: 2021-06-14T11:40:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/06/14/Belgium-Biden-NATO-Vladimir-Putin/7241623669060/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/06/14/Belgium-Biden-NATO-Vladimir-Putin/7241623669060/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/06/14/Belgium-Biden-NATO-Vladimir-Putin/7241623669060/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/7241623669060/2021/1/3fe89119e1c919e4fc95bacf2053d4df/v1.5/Joe-Biden-declares-rock-solid-commitment-to-defend-NATO-allies.jpg"
+        width: 800
+        height: 532
         isCached: true
 
 secured: "A0mOKoyOKgSkr3micFcJzFtGAfC76vhyRfBjqEHR9iaut+Vo/47I4ftDeiabTtbLCTqlUdS0N2Q3sCsXoOMngg26GYRMJM2D5sBEsr0Dk3qwpgCwATxdNjKtqtmA/kWvp1Xb/IGlzqr6m46rrokZm9CTpZBk3qKjzwLitjVtwWWK3FPny52H8WeWzc4Z+acpWuD7dvN0ziX25qfHZFYOJZeyk330rGoOLmhIFO9YJVj2slATHEP0IG0Uy7IpDUqilTK1p5ivVM2pPGA1oFymkIaMGQM4frk4sniD0t+fAEu3dSZKuyqTlWfa2EuuT77uLnT2G4ueAs6BuGmWPb3pW8o4r6Ny+x4CDoywW3XPny1ShNgU4B/BwC2YEgPReSZp20qU1s4Qo86duGTYiWKR905gKOwjRWdnqaQqVZjME3JYJqfmltjdax4MXYoshHHE5kULiPwgEpaHAFpRbq32Fn7g7RbRyuVH3Mjuzg6c/eYjr8JvNhwjvGeUL1W8R9X7k9F1OfAdGTIjU9vVUJws8w==;zxCCfKX6iKY9YCLMofYZ2A=="

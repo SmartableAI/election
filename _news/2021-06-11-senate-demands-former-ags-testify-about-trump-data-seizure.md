@@ -346,6 +346,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "A House Panel Will Investigate Trump DOJ Surveillance Of Lawmakers And Journalists"
+    excerpt: "A Democratic-led committee will probe efforts by the Trump-era U.S. Department of Justice to seize metadata from devices belonging to members of Congress, journalists and the then-White House counsel."
+    publishedDateTime: 2021-06-15T02:19:00Z
+    webUrl: "https://www.npr.org/2021/06/14/1006417513/a-house-panel-will-investigate-trump-era-surveillance-by-the-department-of-justi"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 99
+    images:
+      - url: "https://media.npr.org/assets/img/2021/06/14/gettyimages-1323059124_wide-96ea7f7cc862d7023bf43ad8d053f5ebd7917d62.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Congress, Justice Dept. probing Trump seizures of Dems' data"
     excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
     publishedDateTime: 2021-06-11T18:50:00Z

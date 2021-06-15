@@ -144,6 +144,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden praised as the non-Trump, but will Putin outfox him on world stage?"
+    excerpt: "The lack of any precooked deals between President Biden and Russian President Putin means not much of substance will be accomplished. Biden will be judged on the appearance of whether he got tough with the Russian leader who he once said he no soul."
+    publishedDateTime: 2021-06-15T06:55:00Z
+    webUrl: "https://www.foxnews.com/media/biden-praised-as-the-non-trump-but-will-putin-outfox-him-on-world-stage"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-Putin2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden Should Make China Pay"
     excerpt: "President Joe Biden heads to Europe Wednesday to meet with European leaders. He says the goal is to work together to"
     publishedDateTime: 2021-06-09T10:13:00Z

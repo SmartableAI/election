@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexi
 ampWebUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
 type: article
-quality: 111
+quality: 121
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
@@ -352,6 +353,6 @@ related:
       domain: indystar.com
     quality: 16
 
-secured: "ejZG8AX1IKqyaGLCmlbz5cbwlo+U1zBlzA+x0vD5cFZLki0OlJ/j23RE/ozDRRRp80bRFa3NCoOS9STSXUBWFvqUJh62CeSmaQ40p719kbs41FrnTijOtaqtG6nv30H0hX52aO6Nln7rLOEBj2VP7VrWHgjxoTD18bM4S4yZ7RRESaPXTGSJ/vwLVwaJVHwiNAexThPjB7EvPeyOs9Yl1uey3R4fCLpN+rak8Ufl2P99sj7ttx8SHIAouHEmT3UEYfWiDRamnZiYFnsdbRXUFzU8ARXdpOTfYBSSaunr8l6qKpF5Q/axRIZlLN4MoqsoioxaxLPSUt74Bcbu946pDzDzx0QC29BLVQ2jum6yEHU=;c6jfmMR0S4vjr9faFYfowg=="
+secured: "WoaohVaSJiIGkbEeQZ7r6Uw6LiSGQwkBkaH9zjWoz09jEb++hRh+Izc56wUCxT0BdHtMYYV4YLQmUOyjdMAt16jhd5pkEuxzxvI68heRBOwH+IYn8P2NtQHBI1Vm15A8LeAQvtBHmupwVC0KsPw5fs8wdzaahEAarJAIK9Yd05MNbPIUurhMlZhlnooUgyrwR3imPTHFClSFXEgf6s/e0tWoCdxLFts1EI4K4BM3N/iDEPZnlIjzUTEWB7xm1JsJnx3lcEA9H2f4Ih0RVpx3RR+DAKAySTVnpZ31clJ00cotRO1krSBz8aBohea59YhbJjtugWEpLKkrKM4ydXiNaNk8ji/cSB4qujVW6cP82DCiVq+M58XaIMqAKjBkNA6RphOQZ7s0UejhD17aidbcOVdotUZO8bGySLbsplUkOTK9Oyf88DaF1Mqc8e7J9z/I4QUSgDW2DlvZmw7Y14ZHG89CdTPGMIsyEWUX29Az7CRwZYfNRXmfVB87/vo4718Y/FUXg16AOsRbo8niO01EUw==;rCWEa/vglmfdEkulhkTvlw=="
 ---
 

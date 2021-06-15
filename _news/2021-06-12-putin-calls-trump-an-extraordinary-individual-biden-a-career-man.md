@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-trump-extraordinary-individua
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp"
 type: article
 quality: 190
-heat: 350
+heat: 370
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ca93db81-fc79-4cfb-be7a-4727ff1f63d4/f1f147dd-2644-499e-8e1c-02a36f5a9c54/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden praised as the non-Trump, but will Putin outfox him on world stage?"
+    excerpt: "The lack of any precooked deals between President Biden and Russian President Putin means not much of substance will be accomplished. Biden will be judged on the appearance of whether he got tough with the Russian leader who he once said he no soul."
+    publishedDateTime: 2021-06-15T06:55:00Z
+    webUrl: "https://www.foxnews.com/media/biden-praised-as-the-non-trump-but-will-putin-outfox-him-on-world-stage"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-Putin2.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden Should Make China Pay"
     excerpt: "President Joe Biden heads to Europe Wednesday to meet with European leaders. He says the goal is to work together to"

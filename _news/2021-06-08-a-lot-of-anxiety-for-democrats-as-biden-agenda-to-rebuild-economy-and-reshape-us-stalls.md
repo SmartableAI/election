@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden declares 'rock solid' commitment to defend NATO allies"
+    excerpt: "President Joe Biden on Monday concluded his first meeting with fellow NATO leaders by reiterating the United States' \"rock solid and unshakable\" commitment to come to the defense of its allies."
+    publishedDateTime: 2021-06-14T11:40:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/06/14/Belgium-Biden-NATO-Vladimir-Putin/7241623669060/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/06/14/Belgium-Biden-NATO-Vladimir-Putin/7241623669060/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/06/14/Belgium-Biden-NATO-Vladimir-Putin/7241623669060/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/7241623669060/2021/1/3fe89119e1c919e4fc95bacf2053d4df/v1.5/Joe-Biden-declares-rock-solid-commitment-to-defend-NATO-allies.jpg"
+        width: 800
+        height: 532
+        isCached: true
 
 secured: "SrUMjuX+iqWWYlyNODksB6Re1pqWd6RigaedOKXnvtYq1KvZStawRoDs1qN5YZnzJkAeMnhks5HUrQ1L4FVVCgoATo6R4wWE6Wpe+HD9eFueaIzPdw+XtjosL7MTxV1kQ8wYvpHJHTmeo/prd2AlrHykHx/1P/tQWieHM6XpCEhcUj4Utp+fCjn7n3P994aJF1ba/I89GFNxGXrNV0V88UQs6pSj5dUM2j8dtOawuZuF0Hur25rUyp63+RlLmBJJ4HkrJKOsgQPAf/ijhy7d4IsXKaS3Jt7DlXJifIrdSLxW5eJT4mtbgskHtcRVedCkKbucHxVBKaCUIunYaJzaBpXUwQXFd+4GgSIY6X8TSsM=;cK8STHtcv6ZyQWS7f58Igw=="
 ---

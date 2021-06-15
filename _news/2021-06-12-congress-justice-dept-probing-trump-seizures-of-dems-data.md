@@ -348,6 +348,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "A House Panel Will Investigate Trump DOJ Surveillance Of Lawmakers And Journalists"
+    excerpt: "A Democratic-led committee will probe efforts by the Trump-era U.S. Department of Justice to seize metadata from devices belonging to members of Congress, journalists and the then-White House counsel."
+    publishedDateTime: 2021-06-15T02:19:00Z
+    webUrl: "https://www.npr.org/2021/06/14/1006417513/a-house-panel-will-investigate-trump-era-surveillance-by-the-department-of-justi"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 99
+    images:
+      - url: "https://media.npr.org/assets/img/2021/06/14/gettyimages-1323059124_wide-96ea7f7cc862d7023bf43ad8d053f5ebd7917d62.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "US closes Trump-era office for victims of immigrant crime"
     excerpt: "The Biden administration said Friday it has dismantled a Trump-era government office to help victims of crimes committed by immigrants, a move that symbolizes President Joe Biden's rejection of former President Donald Trump's repeated efforts to link immigrants to crime."
     publishedDateTime: 2021-06-12T01:54:00Z

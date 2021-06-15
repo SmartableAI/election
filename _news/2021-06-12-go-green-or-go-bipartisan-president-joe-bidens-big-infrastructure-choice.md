@@ -279,6 +279,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "President Joe Biden says Queen Elizabeth reminded him of his mom"
+    excerpt: "US President Joe Biden has compared Queen Elizabeth to his mother. The 78-year-old commander-in-chief and his wife, First Lady Jill Biden, was hosted for tea by the British monarch at her Windsor Castle residence on Sunday (13."
+    publishedDateTime: 2021-06-14T09:00:00Z
+    webUrl: "https://www.djournal.com/lifestyle/arts-entertainment/president-joe-biden-says-queen-elizabeth-reminded-him-of-his-mom/article_45714a26-c9c6-5dc0-926c-015f46bb12ca.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/68/568bbff0-514f-58a1-987d-21eee6f0834f/60c71742cc8d1.image.jpg?crop=1000%2C563%2C0%2C43&resize=1000%2C563&order=crop%2Cresize"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "President Joe Biden speaks following NATO summit"
     excerpt: "President Joe Biden called Russian President Vladimir Putin a “worthy adversary” but declined to say how he’ll measure the success of the meeting in advance."
     publishedDateTime: 2021-06-14T20:21:00Z
@@ -333,6 +347,6 @@ related:
       domain: indystar.com
     quality: 32
 
-secured: "v8fZx4+5w7udjtBoS8+X/Yq9EnCjx06Gxajcqs/AjFiF0kbh5B5iWTVRmsc6+KJUhU8867j9+CRHZXsxPdnYrvGVqRijfAzXO728bQ0VeunKamrY1r7G8v3Ofc5xE0K60DIHWc5XoXo6IHk/F8oeleu81Vkqa0X8EDkYPczMrzAvKkoClQBYcx/c2fbDdfb4mkBL3m1maOxbIC6VQu+rK+aiWTicvA84SsrRkAWQKqI9l0GQouHi1gl18FAt3yWy52uYJ9lzC3oLPc/r/yJaMwSQ1uwl8wxvuxq6UH4qPqltEmYQHj7qdbkvNBSCCc+goCWyuPjzBASynOjlV4tGIQeC0ISMV0IRHm5dyCxL/Y0=;U8g7ykfYuv9JZ4R7ORwgJw=="
+secured: "0ANyX2uUs+F85NSX3ytpHpCzdWPpzJhuPRIpMGILjgDhc7S4Xwq5tXB7xWe4Hr0LVromPZCxDWdxunEw1TIltbofaFJzQNp6OlGGd6pY6ObMnJucGNfeiJgri18CYF3cUJJdTkS1fFw5LtFkSjJzBJgQ20nd7UKAyk1pS2Dr4AtSVPXiaSpTYn5zCNwCR/9ktH33O6Y12pdr7Qs6V+uvcg8/9AkujeNWlXsTqalWgCPChTDWHmJOkTxry2jxHzZ+dYWD7CzpXTG0P8REKzQ8SASMQKCfbqGE0PgoSyLTRVU0Hwdknus3I4LAwKp15YI8ZhqdxiQZdp00FOyLn8QeAr2ywOIHsIfFc4XDcszv6OD82eOv+6KTn5BZRKiI+d3uwHvBYg8uPaz3gFXQPvqfoRDWILxnXbtjGZwhxLZx2I5J083keM/E1PgGaIHKy1W1om00tJeeDlxVsg0tjBA1p3qPy+2S08KmBq7EYzDFsfmpEPBuxuSDoT4JinPahGDDIpLvmihJy79xlPmwMgdrwA==;DzxJnrKdphoHyq+McJy2FA=="
 ---
 

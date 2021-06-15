@@ -185,6 +185,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP Rep. Jim Jordan rips into Joe Biden for attending the same G-7, NATO summits with US allies that Trump went to multiple times"
+    excerpt: "Jordan, a conservative lawmaker and staunch ally of former President Donald Trump, took to Twitter to blast Biden for attending diplomatic summits in Europe."
+    publishedDateTime: 2021-06-14T20:04:00Z
+    webUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden restores $929 mln for California high-speed rail withheld by Trump"
     excerpt: "The Biden administration late on Thursday restored a $929 million grant for California's high-speed rail that former President Donald Trump revoked in 2019."
     publishedDateTime: 2021-06-11T09:29:00Z
@@ -226,22 +242,6 @@ related:
     quality: 114
     images:
       - url: "https://i.insider.com/60c4d4c323393a00188e2d2e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "GOP Rep. Jim Jordan rips into Joe Biden for attending the same G-7, NATO summits with US allies that Trump went to multiple times"
-    excerpt: "Jordan, a conservative lawmaker and staunch ally of former President Donald Trump, took to Twitter to blast Biden for attending diplomatic summits in Europe."
-    publishedDateTime: 2021-06-14T20:04:00Z
-    webUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

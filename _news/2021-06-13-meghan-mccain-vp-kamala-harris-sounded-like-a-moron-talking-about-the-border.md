@@ -3,8 +3,8 @@ category: news
 title: "Meghan McCain: VP Kamala Harris \"Sounded Like A Moron\" Talking About The Border"
 excerpt: "The View' co-host Meghan McCain criticized Vice President Kamala Harris for sounding \"like a moron\" when she talked about the border in an interview with NBC 'Nightly News' host Lester Holt. \"Vice President Harris was in Guatemala this week telling people seeking asylum in the U."
 publishedDateTime: 2021-06-12T23:40:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
 type: article
@@ -739,6 +739,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "SLLv8IWlM7BZgz8roF8MeX3jT9sVOzOxgM4w/XjkqqyUdfmkXbSd94QhmE9JkNq+OXzkDoHCBgP0sH/qzcSy54GYovPNzA4CntSfvdVejB2aDxR1xztRE5obOfhGr6bwOF8+IVsOcsoSwzv27EO7Wx1huREto+7YHJHUvXLdkqWw54Go0vx/AOPt1G0Hb47j2MjXL6KsblIT1qju3yTcqHD/Et0gHNHFO79z0OaV/GJFF0IuDLtf6t5Dj/47+THBYmjrobSgBMc5PP1x4SFKGHfWWsb6FLIHg/VmLNgNV59e8rtjh/gMsJGFtmcC+Se5n029/T3KKY2iBgJeL9udv+d/msVIt+OyaYKFysvsI7M=;j3cqm6RBtL6hkNwjq0L47Q=="
+secured: "zLXJz82chS00yJ7mT5QGo/loLJSr6Yg9k+taBDEJd35Ix/R8zAunCFi/WdcC605q1XLjA4l0pQfjNF6kSADlJqG0nROCP0bomHUUv32ig3RdXnP6YfEyhF7a45WdPGXaiAv9RQFsIdLQlMglaA2KAmL8Sm6V1e/rH5AF/RdvgIYaeW65aY7q42HsNqaZRFxBhiqyI9uqLAH2vurKjJM22p83PCB1nbCcr3Vd0zRBACtokj4+TZmiSKJTOx+XU0mF9ujJkSJkBm4Zb7W1FKlCux4pb84HHu+73DVfLMbPyNuxU3T9AkJT5rOofsBHV2T+xbRlLNt7mY+47UWKSA8tPYErwN5blEjfEu3gOfHgv0U=;xVjocpRNLjI/+7mvfj38XA=="
 ---
 

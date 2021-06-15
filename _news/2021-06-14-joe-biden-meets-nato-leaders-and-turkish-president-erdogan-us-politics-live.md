@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden meets Nato leaders and Turkish president Erdoğan – US politics live"
 excerpt: "President continues European trip with summit in Brussels – follow all the day’s politics news live"
-publishedDateTime: 2021-06-14T14:33:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c76b668f089956fec8c06e"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c76b668f089956fec8c06e"
+publishedDateTime: 2021-06-14T14:55:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c776438f0801e93ba5a3dc"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c776438f0801e93ba5a3dc"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
 type: article
@@ -96,6 +96,6 @@ related:
         height: 1999
         isCached: true
 
-secured: "gt1aLzNPFxAyp+QtG0xEzNdTLjkYQ4cb4yAkX559x/qE3YLXVthVruo0LjN+YiUCdnrY/qYIef7plDg2NyQMMYDu5Vf4oK1qyL559j3WjtvUTfFdn02fRQcBRWwv3C9TwcEjLoD7vnTZttrRVwcvk6y6RIyT6Fo0OTTcgV69C4x5V3clQXxreOBAvMoo3X+3eTduHIouDTnXhi3XHT7Z7xUUnr68feTKS96VTU60ZBaSwPSLEwInC/2FaNJuEiaXN960J44oAWcuWSDjhucNW4uKG5u/PDNG8kHcN4G/e2UCf5X+k233IwGbkd30WwRAxHTIRX/Dd7YfuXp9/PC3Ty5Ds1nZ23LZW2MnBApLxDs=;ewXYFf62Ij0OEOfN52hOsw=="
+secured: "VEtrRkn3Rh9Fy84Z9UOMkSLos2j6kHSCVdT1AprL6f2qN+dseuEygPIdLegiGCYbBH1js+Cfdfr3PYso2SHXaCelpBicb98kAUmiGaYvfCGUv/eRu9KCjK8IQ/QeNFFUKEYUFNfHKqkgSkaDPk4euxiJOhqBNCNfd/tGmoc+uzcn2yBFv0cqmow0KnVZeAZ+gl1BP7Yi5tY55JmUwbuHWtx4O1E2jPHC9HKTpLzDpPDS9BAwUlq78JVCb6QzmkTDHrXC+vl0JB6T9fgyFcDlBRbQl3fbLyHzJADIfEEtmVx46HMB6yl7Jq8qoy82YfDoUp7X50M4K+AFCjWJ+SwArkFe4EzvZBuBHS5EEcMa20M=;X5kw+ajHAqtU8tPJes8JcA=="
 ---
 

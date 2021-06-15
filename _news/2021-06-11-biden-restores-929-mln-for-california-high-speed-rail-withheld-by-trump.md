@@ -189,6 +189,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP Rep. Jim Jordan rips into Joe Biden for attending the same G-7, NATO summits with US allies that Trump went to multiple times"
+    excerpt: "Jordan, a conservative lawmaker and staunch ally of former President Donald Trump, took to Twitter to blast Biden for attending diplomatic summits in Europe."
+    publishedDateTime: 2021-06-14T20:04:00Z
+    webUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden DOJ Plans To Continue To Defend Trump In E. Jean Carroll's Defamation Lawsuit"
     excerpt: "The Justice Department simultaneously distanced itself from the allegations Carroll has made that former President Donald Trump sexually assaulted her in the 1990s."
     publishedDateTime: 2021-06-08T15:18:00Z
@@ -216,22 +232,6 @@ related:
     quality: 114
     images:
       - url: "https://i.insider.com/60c4d4c323393a00188e2d2e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "GOP Rep. Jim Jordan rips into Joe Biden for attending the same G-7, NATO summits with US allies that Trump went to multiple times"
-    excerpt: "Jordan, a conservative lawmaker and staunch ally of former President Donald Trump, took to Twitter to blast Biden for attending diplomatic summits in Europe."
-    publishedDateTime: 2021-06-14T20:04:00Z
-    webUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

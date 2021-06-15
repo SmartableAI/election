@@ -3,18 +3,18 @@ category: news
 title: "Joe Biden to hold solo news conference after meeting with Vladimir Putin in Geneva"
 excerpt: "White House says solo press event is 'appropriate format\" to communicate with media about topics raised during Joe Biden, Vladimir Putin meeting."
 publishedDateTime: 2021-06-12T13:36:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
-webUrl: "https://www.azcentral.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
-ampWebUrl: "https://amp.azcentral.com/amp/7666869002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7666869002"
+originalUrl: "https://www.indystar.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
+webUrl: "https://www.indystar.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
+ampWebUrl: "https://amp.indystar.com/amp/7666869002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7666869002"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vladimir Putin offers Joe Biden exchange of cybercriminals ahead of summit"
+    excerpt: "Ahead of his highly anticipated Wednesday summit with U.S. President Joe Biden, Russian President Vladimir Putin said he is willing to exchange cybercriminals with United States, state-run media said."
+    publishedDateTime: 2021-06-14T08:31:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/06/14/russia-Russian-President-Vladimir-Putin-offers-cybercriminal-swap-with-United-States-President-Joe-Biden/8391623655947/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/06/14/russia-Russian-President-Vladimir-Putin-offers-cybercriminal-swap-with-United-States-President-Joe-Biden/8391623655947/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/06/14/russia-Russian-President-Vladimir-Putin-offers-cybercriminal-swap-with-United-States-President-Joe-Biden/8391623655947/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/8391623655947/2021/1/1460b214c5de6c54a593b8e3b9c65aa8/v1.5/Vladimir-Putin-offers-Joe-Biden-exchange-of-cybercriminals-ahead-of-summit.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Joe Biden embarks on first overseas trip as president to assure European allies, meet with Russia’s Putin"
     excerpt: "Biden told reporters the trip is about making clear to the leaders of China and Russia that the United States and Europe “are tight.”"
     publishedDateTime: 2021-06-09T19:30:00Z
@@ -138,6 +154,6 @@ related:
         height: 707
         isCached: true
 
-secured: "aMCPJIdSmuX3HU7D0WZ3fquYJz7p0ljje+KBj1qV9NpnBMlz4YjXCcMMRyPKB4L6GSSvdfuIzt5fT56d3qmilcD3mTTcRew1T71oUqoYnrQLDzNWRl7B9HGOlxbHrhaeC5bkCjsKlMBLaZDmFMMtmNTkG+qVTvvBY6KeRKI4C08xeNdSPhIgk9/3pYA0zxWenaT5MlPeYanNeGoQ8rG969aXj5z8d4vY1KGWIly9tFeWBj9V4xV0zO2MHKFUzyqZn0SLQox75hhsOnXpq43a4ECcbjfC94603r6ijedwP+rRnnR66/iB/YltwkJ3AC29FsK4UYl8/B1k+iIzwFe8LwLpbVoSMfo8IxdptJJCFW0=;+/kD/vWyaKvvesjJD1+iPg=="
+secured: "dl7TldusltA5O6T7qDJoq6lytlmwR5EO8FofZPxrFf9Ekg4eR8XREEecyk2jYmtHpoKc8i/JG7wx3JVUiNe6lVOQlKDvCKG1MZT9uP+IqbETs/qMVqruyjLyrR/Ott6c2h8t2hD1bjL6r1YUoljqbLm9sPiZEEkf/vKT310mQyMsioxm6SPPkobacVABCAdpKoa5eGujMtw3E4quWmNbX9InHKKo5tD4+aKjlFv9Yyd83X14MRvPsdOvw67vRi/3WI/fn54JtsIwwEBNp49HrMY0EkQikhHB0tZVjY76vOS3eCkmRiKTDrYX50LtjbFO8NpRy5Fg+fACo1ukqJJk9C2fEcK/fERbt4mxuPh8h0Q=;zoWws8V3O4q41OmQNYG4dw=="
 ---
 

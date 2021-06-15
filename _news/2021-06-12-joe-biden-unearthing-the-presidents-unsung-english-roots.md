@@ -49,8 +49,8 @@ related:
         isCached: true
   - title: "Joe Biden meets Nato leaders and Turkish president Erdoğan – US politics live"
     excerpt: "President continues European trip with summit in Brussels – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-14T14:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c76b668f089956fec8c06e"
+    publishedDateTime: 2021-06-14T14:55:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c776438f0801e93ba5a3dc"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
     type: article

@@ -287,6 +287,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "President Joe Biden says Queen Elizabeth reminded him of his mom"
+    excerpt: "US President Joe Biden has compared Queen Elizabeth to his mother. The 78-year-old commander-in-chief and his wife, First Lady Jill Biden, was hosted for tea by the British monarch at her Windsor Castle residence on Sunday (13."
+    publishedDateTime: 2021-06-14T09:00:00Z
+    webUrl: "https://www.djournal.com/lifestyle/arts-entertainment/president-joe-biden-says-queen-elizabeth-reminded-him-of-his-mom/article_45714a26-c9c6-5dc0-926c-015f46bb12ca.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/68/568bbff0-514f-58a1-987d-21eee6f0834f/60c71742cc8d1.image.jpg?crop=1000%2C563%2C0%2C43&resize=1000%2C563&order=crop%2Cresize"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "President Joe Biden speaks following NATO summit"
     excerpt: "President Joe Biden called Russian President Vladimir Putin a “worthy adversary” but declined to say how he’ll measure the success of the meeting in advance."
     publishedDateTime: 2021-06-14T20:21:00Z

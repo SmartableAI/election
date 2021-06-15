@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-latin-america-20210606-cgsw3a3z6nhunkhmk4tupj3mji-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/02JOmUzdSFolW6UGkQrnFTfM-Po=/1660x0/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/SHI3QJXS7FHT7AABK63HYS45KU.jpg"
         width: 1660
         height: 1168
+        isCached: true
+  - title: "VP Harris to meet 'Dreamers' on 9th anniversary of DACA amid uncertainty over immigration bills, Texas case"
+    excerpt: "Harris' meeting marks the ninth anniversary of DACA's creation and comes as a federal case threatens to upend protections for recipients."
+    publishedDateTime: 2021-06-14T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/14/vp-kamala-harris-meet-daca-recipients-amid-immigration-uncertainty/7683960002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7683960002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7683960002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 57
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/08/USAT/b4a6067c-e694-48db-a923-cf09d36a4cfd-XXX_Kamala_Harris_Presser_Giamattei_1151.JPG?auto=webp&crop=5183,2915,x0,y263&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Harris to announce business investments in Central America"
     excerpt: "Vice President Kamala Harris on Thursday will announce commitments from a dozen companies and organizations to invest in Guatemala, Honduras and El Salvador as part of the Biden administr"
