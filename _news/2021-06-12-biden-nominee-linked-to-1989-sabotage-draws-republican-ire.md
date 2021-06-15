@@ -143,6 +143,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Go green or go bipartisan? President Joe Biden’s big infrastructure choice"
+    excerpt: "As negotiations unfold in Congress in search of a bipartisan deal, the White House's ability to ensure a climate focus in Biden's sweeping infrastructure package is becoming daunting."
+    publishedDateTime: 2021-06-12T16:57:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 123
+    images:
+      - url: "https://www.chicagotribune.com/resizer/e412vHahVzpumXEQYXGNDP7Lkts=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6NLKY7DP2OSSSWLTTXZGYLUIKY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "White House says Biden-Putin meeting not a reward but good way to manage ties"
     excerpt: "U.S. President Joe Biden's planned meeting with Russian counterpart Vladimir Putin is not a \"reward\" for Putin but instead the most effective way to hear directly from him to understand and manage the differences between Washington and Moscow,"
     publishedDateTime: 2021-06-07T16:06:00Z
@@ -250,22 +266,6 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenbike.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Go green or go bipartisan? President Joe Biden’s big infrastructure choice"
-    excerpt: "As negotiations unfold in Congress in search of a bipartisan deal, the White House's ability to ensure a climate focus in Biden's sweeping infrastructure package is becoming daunting."
-    publishedDateTime: 2021-06-12T16:57:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-aud-nw-biden-infrastructure-green-bipartisan-20210612-v7gm46xokjd3vjdpr6rkx3r3t4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 73
-    images:
-      - url: "https://www.courant.com/resizer/e412vHahVzpumXEQYXGNDP7Lkts=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6NLKY7DP2OSSSWLTTXZGYLUIKY.aspx"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Go green or go bipartisan? President Joe Biden’s big infrastructure choice"
     excerpt: "As negotiations unfold in Congress in search of a bipartisan deal, the White House's ability to ensure a climate focus in Biden's sweeping infrastructure package is becoming daunting."

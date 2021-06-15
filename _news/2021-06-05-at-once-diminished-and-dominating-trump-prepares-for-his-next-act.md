@@ -224,6 +224,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Trump Pressed Official to Wield Justice Dept. to Back Election Claims"
+    excerpt: "The former president began pressuring his acting attorney general even before announcing that his predecessor was stepping down, emails show."
+    publishedDateTime: 2021-06-15T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/06/15/us/politics/trump-justice-department-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/15/us/politics/trump-justice-department-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/15/us/politics/trump-justice-department-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/15/multimedia/15dc-justice-01/15dc-justice-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "House GOP prays Trump can kick his habit of 2020 grievances"
     excerpt: "As Republicans strategize with Donald Trump on how to retake the House in 2022, they worry his focus on false claims about the 2020 election will create an uncomfortable litmus test."
     publishedDateTime: 2021-06-14T08:30:00Z

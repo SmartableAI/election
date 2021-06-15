@@ -209,6 +209,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump Pressed Official to Wield Justice Dept. to Back Election Claims"
+    excerpt: "The former president began pressuring his acting attorney general even before announcing that his predecessor was stepping down, emails show."
+    publishedDateTime: 2021-06-15T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/06/15/us/politics/trump-justice-department-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/15/us/politics/trump-justice-department-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/15/us/politics/trump-justice-department-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/15/multimedia/15dc-justice-01/15dc-justice-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "At Once Diminished and Dominating, Trump Prepares for His Next Act"
     excerpt: "The former president speaks on Saturday to the North Carolina Republican convention, as he resumes political speeches and rallies."
     publishedDateTime: 2021-06-05T13:56:00Z

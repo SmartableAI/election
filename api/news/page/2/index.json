@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-13-biden-says-putin-is-right-about-us-russia-relations-being-at-a-low-point-ahead-of-summit.md",
+      "title": "Biden says Putin is right about US-Russia relations being at 'a low point' ahead of summit",
+      "excerpt": "President Joe Biden said Sunday he agreed with Russian President Vladimir Putin that relations between the US and Russia are at a \"low point,\" days before the two leaders are scheduled to hold a highly anticipated summit in Geneva.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gkuu0wbwPdc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gkuu0wbwPdc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/13/politics/vladimir-putin-joe-biden-relations-low-point/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/13/politics/vladimir-putin-joe-biden-relations-low-point/index.html",
+      "publishedDateTime": "2021-06-13T08:12:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-biden-to-face-questions-about-rallying-allies-against-chinas-uyghur-treatment.md",
       "title": "Biden to face questions about rallying allies against China's Uyghur treatment",
       "excerpt": "President Biden could face questions about his progress convincing allies to publicly call out China over its Uyghur reeducation camps.",
@@ -1258,58 +1314,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-trump-doj-secretly-seized-house-democrats-data-in-crackdown-on-leaks.md",
-      "title": "Trump DoJ secretly seized House Democrats’ data in crackdown on leaks",
-      "excerpt": "At least two House members including Adam Schiff targeted in 2018, say officials familiar with the investigation",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/833a082fef419e963431b1565b44ba0c16badbf1/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7272812056fc84ee1bc19156633221c5",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
-      "publishedDateTime": "2021-06-11T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

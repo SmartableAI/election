@@ -1,35 +1,34 @@
 ---
 category: news
-title: "Pence says he and Trump may never see 'eye to eye' on Jan. 6 riot"
-excerpt: "Former Vice President Mike Pence addressed the Jan. 6 pro-Trump riot attack of the Capitol saying that he and former President Donald Trump may never see \"eye to eye\" on the event."
-publishedDateTime: 2021-06-04T02:53:00Z
-originalUrl: "https://www.nbcnews.com/video/pence-says-he-and-trump-may-never-see-eye-to-eye-on-jan-6-riot-114310213715"
-webUrl: "https://www.nbcnews.com/video/pence-says-he-and-trump-may-never-see-eye-to-eye-on-jan-6-riot-114310213715"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114310213715"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114310213715"
+title: "Trump Pressed Official to Wield Justice Dept. to Back Election Claims"
+excerpt: "The former president began pressuring his acting attorney general even before announcing that his predecessor was stepping down, emails show."
+publishedDateTime: 2021-06-15T09:00:00Z
+originalUrl: "https://www.nytimes.com/2021/06/15/us/politics/trump-justice-department-election.html"
+webUrl: "https://www.nytimes.com/2021/06/15/us/politics/trump-justice-department-election.html"
+ampWebUrl: "https://www.nytimes.com/2021/06/15/us/politics/trump-justice-department-election.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/15/us/politics/trump-justice-department-election.amp.html"
 type: article
-quality: 160
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Mike Pence
-  - Democratic Voice
   - Donald Trump
+  - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/Pence_on_Jan_6th.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://static01.nyt.com/images/2021/06/15/multimedia/15dc-justice-01/15dc-justice-01-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -193,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence says he and Trump may never see 'eye to eye' on Jan. 6 riot"
+    excerpt: "Former Vice President Mike Pence addressed the Jan. 6 pro-Trump riot attack of the Capitol saying that he and former President Donald Trump may never see \"eye to eye\" on the event."
+    publishedDateTime: 2021-06-04T02:53:00Z
+    webUrl: "https://www.nbcnews.com/video/pence-says-he-and-trump-may-never-see-eye-to-eye-on-jan-6-riot-114310213715"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114310213715"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114310213715"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/Pence_on_Jan_6th.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Pence calls Jan. 6 a 'dark day,' says he may never see 'eye to eye' with Trump over it"
     excerpt: "\"But I will always be proud of what we accomplished for the American people,\" the former vice president said in a speech in New Hampshire."
     publishedDateTime: 2021-06-04T03:12:00Z
@@ -208,22 +223,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480201/210603-mike-pence-ac-814p.jpg"
         width: 2500
         height: 1666
-        isCached: true
-  - title: "Trump Pressed Official to Wield Justice Dept. to Back Election Claims"
-    excerpt: "The former president began pressuring his acting attorney general even before announcing that his predecessor was stepping down, emails show."
-    publishedDateTime: 2021-06-15T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/06/15/us/politics/trump-justice-department-election.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/15/us/politics/trump-justice-department-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/15/us/politics/trump-justice-department-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/15/multimedia/15dc-justice-01/15dc-justice-01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "At Once Diminished and Dominating, Trump Prepares for His Next Act"
     excerpt: "The former president speaks on Saturday to the North Carolina Republican convention, as he resumes political speeches and rallies."
@@ -332,6 +331,6 @@ related:
         height: 549
         isCached: true
 
-secured: "8gqwq4qmcBh8/8/up9olvP1zfqQ2+zLnsMQfl1oUtYZjg4eMdNq1o8UAMgk0dB2U+u/oqhecyH9IjloCSUrLVHRrmMkM3zXbUgB129WBys09xWqIyWJBF7l5oL7eanDq4xKloJK6qF0Ooy2DGTkbz9j+oUsX2H/2toM2HkiiZ9bAGJ7KX5klx+O+41s0XUzxVTsXsq/T7R6XLJHVKyUnYcZKG4LColb5ca90364q5C/Q46eAA1K80p6YvMgkl+5hnk7ym8Lq+tMBLi5OBclOJiAMp0xnm/ENu/w/KOBqEBV9tbb2TMs5+V54Pxosseg5Q8guZ0i2HNQRe5tvPPvs1/3arEyuaNg0FAJYFCvtLItN0O9qzBHgSMH74CITpdE+ouZh/BPNvnKUnCOiySBRbFpfp4KY5rCWNN5E2UDS9BwDh8nnzC4i4R3lcE1yHeasN2/NdJ1e+AKvU1iiMCQwophuzpfJhCu+1QrzK6d/xp82U7clF7nhPognBRPcAlK5OqOmgPCCvDB+sIcUEg7Zug==;svxoYUKbioia3TFnaHbs3A=="
+secured: "f1IdSm/rGotVRzKxJybIJeHVp3TRITLJFfBXCRNmBAqv6XpeUuBqw1UmPlRW0wTy5l4yj1NjF0sVZWhctL66l55czE4RNpGaS7egkNIjUhP56IDhQCKZ+Fgt7M8biymhU6ubgDsFFx9ruqC/asK5/R9rFGNWvf5coaL5vQ7i5QCBXKSp8qcBQO5D2cJ+wlztKYysRf9lQUWMMlS2hD7gDreNJHshuX4Wae2bOvSJBG7DNVvGCbGR/l2uagG6S+LOyfCbpjyS782DfKrS4AEJpsY/AjHrDGQuA9KXhI3s0DbOl5pmlun0S1lDfAZfYxfQ2BXCvl4zRWoazi4PQmuulRgJNvIqBulDCIOvSHmiPYg=;l6Ui6JLme/3EhSe++rEqSg=="
 ---
 

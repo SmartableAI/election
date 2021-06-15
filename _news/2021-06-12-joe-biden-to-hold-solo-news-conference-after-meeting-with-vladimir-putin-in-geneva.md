@@ -3,18 +3,18 @@ category: news
 title: "Joe Biden to hold solo news conference after meeting with Vladimir Putin in Geneva"
 excerpt: "White House says solo press event is 'appropriate format\" to communicate with media about topics raised during Joe Biden, Vladimir Putin meeting."
 publishedDateTime: 2021-06-12T13:36:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
-webUrl: "https://www.indystar.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
-ampWebUrl: "https://amp.indystar.com/amp/7666869002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7666869002"
+originalUrl: "https://www.azcentral.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
+webUrl: "https://www.azcentral.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
+ampWebUrl: "https://amp.azcentral.com/amp/7666869002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7666869002"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -154,6 +154,6 @@ related:
         height: 707
         isCached: true
 
-secured: "dl7TldusltA5O6T7qDJoq6lytlmwR5EO8FofZPxrFf9Ekg4eR8XREEecyk2jYmtHpoKc8i/JG7wx3JVUiNe6lVOQlKDvCKG1MZT9uP+IqbETs/qMVqruyjLyrR/Ott6c2h8t2hD1bjL6r1YUoljqbLm9sPiZEEkf/vKT310mQyMsioxm6SPPkobacVABCAdpKoa5eGujMtw3E4quWmNbX9InHKKo5tD4+aKjlFv9Yyd83X14MRvPsdOvw67vRi/3WI/fn54JtsIwwEBNp49HrMY0EkQikhHB0tZVjY76vOS3eCkmRiKTDrYX50LtjbFO8NpRy5Fg+fACo1ukqJJk9C2fEcK/fERbt4mxuPh8h0Q=;zoWws8V3O4q41OmQNYG4dw=="
+secured: "4kQ+GdoM/HvIifAxKCmv8KIJRzV0oVZh+wRQx/+QNH1XyAJk4WlGv9htz4V2avRxstJc4MpEWuyQofTV8wlylRRA6fJMNWeLhtZyApCzJmUm0HXhl9FKq8Jd3qCktCsXV/BvG7kl6FmEofWbsA2Mz6yMno4XhFxOCklbiFPu03hBzAqDbVUTycPK8UkBU2Lwz0cfCI+WadOgs3s+aZrSUSebkfmzGcT0fOJHFv2zCaH8qSwHl5D6g8cbVhQHoAU7tD6FSsmt1Vxbn+xB6S6DI/rUbJhksv6RvZRgMR/e4nvuxPCGdUkzJlyHMMej/y61j06FR8UjTwaZDBstyMFQdJiaK5ysNnulizUk9bLlz1U=;M/0XzGQMmP5xDFsH+DwFoA=="
 ---
 
