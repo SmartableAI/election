@@ -1,0 +1,69 @@
+---
+category: news
+title: "Biden shores up allied support before heading to Geneva for Putin summit"
+excerpt: "President Joe Biden arrives in Geneva on Tuesday ahead of lengthy and contentious talks with Vladimir Putin, the capstone on a European tour designed to show western solidarity ahead of the momentous summit.\n    \n"
+publishedDateTime: 2021-06-15T11:49:04Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fSLo_OPvtYw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fSLo_OPvtYw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/president-biden-international-trip-vladimir-putin/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/president-biden-international-trip-vladimir-putin/index.html"
+type: article
+quality: 174
+heat: 214
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614181318-13-nato-summit-biden-0614-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Biden warns he'll tell Putin 'what I want him to know' as he defines goals of foreign tour"
+    excerpt: "President Joe Biden told a hangar of US troops on Wednesday he was in Europe to defend the very concept of democracy, setting high stakes for his first presidential trip abroad and warning Russian President Vladimir Putin he planned to raise touchy issues during their upcoming summit.\n    \n"
+    publishedDateTime: 2021-06-09T21:32:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LstL0kyivUw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-troops-europe-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-troops-europe-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609162257-08-biden-uk-0508-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "US hopes to agree that ambassadors can return to Moscow and Washington at Biden-Putin summit"
+    excerpt: "President Joe Biden plans to address the strained US-Russia diplomatic relationship when he meets President Vladimir Putin next week with the hope that the two leaders can agree to send their ambassadors back to Washington and Moscow after months with no senior diplomat being present in either country,"
+    publishedDateTime: 2021-06-10T16:02:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/93JMV3PyLLM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/biden-putin-ambassadors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/biden-putin-ambassadors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "YLjRgqRIvNpet6czspAxzqya0ogqXi1PJt6e5IwIYtry+QY+aN25h+paU+cEJ9nr7g9gT5jL7UPgNV51m+lPb6RxNYWN6nFG7ffXgY0lFLK0P30RxxTUotAga2x/5pS4a5W1lWBGc8FT762OGFBfgqLkbrrflV/D0WAjJrYhoOUmLqQGplPuV4THcIWJwamKzaFdrlZJaBNw55nMpnrYceSNn9tku6wETgijYHB9+V3A0KuR2SXRRY1AhwwB6OKrjLXDtdRJ/9tPqE7lRkAPgr6E/YuxZ7A8UYazn7k/64vfOJQ63TsZeTvSQgWmKfmMqFgzg/knCSx6k6HHBtR9HIwTrwbZ4g4KfyH/+SZrh98=;KUN6pSxpTVEIVw+wM6ChAA=="
+---
+

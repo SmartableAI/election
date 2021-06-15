@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "President Biden and First Lady Jill Biden deliver ‘happy Pride Month’ message"
+    excerpt: "President Joe Biden and First Lady Jill Biden wished the country a happy Pride Month on Twitter, saying Pride Month represents “defiance in the face of injustice.” The president also added that his administration is working to “build a better LGBTQ life for young people” across the country."
+    publishedDateTime: 2021-06-15T11:45:00Z
+    webUrl: "https://www.nbcnews.com/now/video/president-biden-and-first-lady-jill-biden-deliver-happy-pride-month-message-114822213755"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114822213755"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114822213755"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623757361841_ott_now_am_pride_month_210615_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "2HHv93rup4Yk3TAViHsKqQ4rJIEC3NvF9XkhNe9fEpoz6OVRnU4Q9wnPPKTDos+5hdMU0p7V9+vOLT9WSPY65y3az6guVJxnMkvyU7Xft3lFlXnKurW31Zfp+EUwQzirxqsPCdi8xwUAe6in50kVvQ55pf67nNrE+mNNoHJj2R8qiQ+U3MTyYo2Q5Pe1IC+GZOa4uLmmJ7J1xuAhXhH8RzM3LDsD1mnvonYKsU6NouxSNHxbo2xLhhSZdu5GEzU/KXbi0kVe8NqIJP0Yz+lPvT2J1eSqob4Ja1hI+TiaZy766dEq1lPxgQtMyv4h1+8A7KwYVPe9Ml3wAQTltZt/vXEykHgA/cDY8V6pPkGgwzY=;Y+t7/d0beGGYXbBJ4x8W1A=="
 ---

@@ -259,6 +259,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "U.S. House panel: Justice Dept. documents show Trump pressed to overturn 2020 election"
+    excerpt: "Documents obtained from the U.S. Department of Justice detail efforts by then President Donald Trump, his chief of staff and other allies to pressure the department to challenge the 2020 presidential election results,"
+    publishedDateTime: 2021-06-15T10:03:00Z
+    webUrl: "https://www.reuters.com/world/us/us-house-panel-justice-dept-documents-show-trump-pressed-overturn-2020-election-2021-06-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 112
+    images:
+      - url: "https://www.reuters.com/resizer/uRm_h8SgI9RRbvG5Qn-239IB5B4=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GY5SHWU7IRNBXOFCDPSL5PRTTU.jpg"
+        width: 800
+        height: 419
+        isCached: true
   - title: "MyPillow CEO Mike Lindell played a speech by former President Trump during his latest political rally"
     excerpt: "Former President Trump and MyPillow CEO Mike Lindell on Saturday spoke to a crowd in Wisconsin, repeating claims of voter fraud in the 2020 election."
     publishedDateTime: 2021-06-13T12:04:00Z
@@ -502,6 +516,15 @@ related:
         width: 1024
         height: 621
         isCached: true
+  - title: "U.S. House Panel: Justice Department Documents Show Trump Pressed to Overturn 2020 Election"
+    excerpt: "Documents obtained from the U.S. Department of Justice detail efforts by then President Donald Trump, his chief of staff and other allies to pressure the department to challenge the 2020 presidential election results,"
+    publishedDateTime: 2021-06-15T11:19:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-15/us-house-panel-justice-department-documents-show-trump-pressed-to-overturn-2020-election"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 40
   - title: "US Closes Trump-Era Office for Victims of Immigrant Crime"
     excerpt: "The Biden administration says it has dismantled a Trump-era goverment agency that was created help victims of crimes committed by immigrants."
     publishedDateTime: 2021-06-11T15:06:00Z

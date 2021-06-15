@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-trump-extraordinary-individua
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp"
 type: article
 quality: 190
-heat: 370
+heat: 390
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
       - url: "https://assets.realclear.com/images/54/544585_5_.jpg"
         width: 750
         height: 501
+        isCached: true
+  - title: "All Is Hype for the Biden-Putin Summit"
+    excerpt: "History repeats itself, first as tragedy, then as farce. Karl Marx's comment came to mind as President Joe Biden and Prime Minister Boris Johnson sought"
+    publishedDateTime: 2021-06-15T09:29:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/15/all_is_hype_for_the_biden-putin_summit_145926.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/15/all_is_hype_for_the_biden-putin_summit_145926.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/15/all_is_hype_for_the_biden-putin_summit_145926.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/545713_5_.jpg"
+        width: 750
+        height: 498
         isCached: true
 
 secured: "8HLOzzTpSI1b8C8zJjXIiLU1Y8ZdMD2YHxc8FCXy7IVP97KFDoshJ51zxTdaCU+U/HXWP/bDfnV4dqGaszX2dtBGvA6trkCxsdFVPegueswJDOHTGsW3+IEEC9izrhIPMOmYbWFzoY5h/s+iE89LBqKYpGsJf2PKhKvr8Yc8quM5G/9Lv31umfgvFGIPmHUuOOOrFVbtmIdeqtpPSAm8oGiorZa3UllqysOQT6XlXm9UDA2QCCkf/hFy7droRpJgAbgM5uZnVsubKY1mgOcOppYLY+vYhvszbDsiEGGcqVLTt8W+aFqdUTR/FVX8Q/VcKjGXXsUDORtsXzDjLyt7b3aWeJEHnWW+6d1aegttOR8=;pkGEPFAoIP79dcserRs1+g=="

@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden meets Nato leaders and Turkish president Erdoğan – US politics live"
 excerpt: "President continues European trip with summit in Brussels – follow all the day’s politics news live"
-publishedDateTime: 2021-06-14T14:55:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c776438f0801e93ba5a3dc"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c776438f0801e93ba5a3dc"
+publishedDateTime: 2021-06-14T14:33:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c76b668f089956fec8c06e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c76b668f089956fec8c06e"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
 type: article
@@ -96,6 +96,6 @@ related:
         height: 1999
         isCached: true
 
-secured: "Bay+XGoSmxlYXsAzOX7YBBwJQlFwRy8aiiUGeoR1Q9vxfj7N0Di0W9BJdQ8uOtaK0aX3tnNPGPkq++WRM1XFIQzZsPwNNpOtX0F70ySzE5M9tlR5byDXDlqnucMMNvqA4LsqlWiypEuyCdEhJUFsPy3jIgwPEzwkb5UkqVUuje0/AyVdXt2wet+5sU6YxA9m2R+weKvQ+pwvFFsimfW9CBgcGQn4BOLa+Bg1t0OJ/ha+j7A17ZbgkXOyXvfSyxb9jRSFq/LXOjwfNIQ9obubUFa8vrbVxNszmIzd9i+2i7p7KhRZ8QsN6Qg3t8T/3jS2PK31BfEOndl6FCESSbrdfw8nfE0sDJoyuXFV8dyxGaKt7sZJiNOYIJ/hMXFugIlpc4a/NFp4Tu38ROTN56WtduAO14/IBsERz5/i6e4Y57nBxgzT/k1LImNYKlWuVs4mJM4zgn2mheImiFSF8yzO24OXNZ7CSUqUJKBEENhc/v8esifHrK3lT3iW5vfOKCybVL9Pt5HaLXpuz1deTBvImA==;10bgdX8IrYyjfVIlzRItPA=="
+secured: "b1HDNFCbyLu9hE3b4L3ucXXPgpcAZF+IaWySRadnu0j6haItAc7HO5InG57fPKc9L9NpviY4tPOHGf6v1awHelbhJv5f9+viQJB1dEOAssk77NYgH2A37ZYt2ZsE4SHDggWAjgl7RcWfIa4oHPIsci3aQLAHAnyVrM/QCcF2OnwF039YSO2HsGwxaKzqPr0Q1G58dGkIFTnfNQab3SF0X64sTnWGPywM8NFAIymUVPrDM8GlUD5NGLBZ7PoBMOpC0IgMfUU8MdNYPYdRo8JO7XbXOLgrL/D7JOr3tY83B3TDXetK7WLY9h16317NxDLMlGYjKkT5olFn9prxflv+1MwI52tr9d4uOwhznIq7neI=;L3j0WolbEORWcCfMZs9NzQ=="
 ---
 

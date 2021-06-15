@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden warns he'll tell Putin 'what I want him to know' as he defines goals of foreign tour"
-    excerpt: "President Joe Biden told a hangar of US troops on Wednesday he was in Europe to defend the very concept of democracy, setting high stakes for his first presidential trip abroad and warning Russian President Vladimir Putin he planned to raise touchy issues during their upcoming summit.\n    \n"
-    publishedDateTime: 2021-06-09T21:32:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LstL0kyivUw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-troops-europe-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-troops-europe-trip/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609162257-08-biden-uk-0508-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "American imprisoned in Russia calls on Biden to take 'decisive action' to stop detention of US citizens"
     excerpt: "Paul Whelan, an American imprisoned in Russia, called on President Joe Biden to \"aggressively discuss and resolve\" the issue of US citizens being detained for political purposes when he meets President Vladimir Putin at a summit later this month.\n    \n"
     publishedDateTime: 2021-06-02T11:18:21Z

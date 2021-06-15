@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/13/politics/vladimir-putin-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/13/politics/vladimir-putin-joe-biden-relations-low-point/index.html"
 type: article
 quality: 165
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,56 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden's experience with Russia, in key moments from 1973 to now"
+    excerpt: "President Joe Biden will approach his first face-to-face summit with his Russian counterpart on Wednesday with one of the longest foreign policy résumés of an American leader in recent history. Biden's experience with Russian affairs spans more than 38 of his years in federal public office under seven"
+    publishedDateTime: 2021-06-15T11:00:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iVfQYASeSZo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610113748-2011-biden-russia-timeline-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McConnell haunts Democrats with new pledge to block Biden court nominee"
+    excerpt: "Mitch McConnell just did it again.\n    \n"
+    publishedDateTime: 2021-06-15T11:33:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WB8ytiIsqgc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/mitch-mcconnell-biden-agenda-manchin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/mitch-mcconnell-biden-agenda-manchin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to cap off first G7 summit with an audience with Queen Elizabeth II"
+    excerpt: "When Joe Biden was preparing for his first audience with Britain's Queen Elizabeth II as a young senator, his mother -- an Irish American born with the surname Finnegan -- had a piece of advice.\n    \n"
+    publishedDateTime: 2021-06-13T04:00:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/981SoEcHBYw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/13/politics/president-biden-g7-day-3/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/13/politics/president-biden-g7-day-3/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611151658-04-g7-biden-queen-elizabeth-0611-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "mF66wfPhcIC01gNpzvHLekbJCZ2cEAZbFWYeNnM82J8eI+kC/xtnLjegSf4eXPNiMygKQeCIXXeIUfcfWu52yP2VO5rhGgn+xAR02rt5aXIo+eQyjrUqc36T9EaojE6yI3d/KP6fNDKKbe9i0M4xnwIGX/PotexCoJrF5v3Ogb4fi6LrbZ1ayGpsnGCbhwnmOU3z4Z5hLDsXoSS9P691z1B2zS7bb20SRaTfVXKVc1rafhVCE4vxUBi5e8/i6Ub6P1HrdSzIFK8g15F99VSMGc5hqCy2ryyb84oLRUpeoGufkhx7gGff6/y2bHEQxtvknCqRPrJYeXlyHH+H2mGnwz3pjTaqxTO6VvteKqZdCHk=;rFpecNyWFcvfE34X0qWa2Q=="
 ---

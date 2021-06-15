@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New emails show how Trump and his allies pressured Justice Department to try to challenge 2020 election results"
+    excerpt: "New emails show how former President Donald Trump's White House assistant, chief of staff and other allies pressured the Justice Department to investigate claims of voter fraud in the 2020 election -- and how Trump directed allies to push then-acting Attorney General Jeffrey Rosen to join the legal effort"
+    publishedDateTime: 2021-06-15T11:30:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZBvKGRA4OYQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/trump-allies-emails-justice-department-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/trump-allies-emails-justice-department-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump advances dangerous disinformation campaign as more states move to restrict the vote"
     excerpt: "Donald Trump's speech before the North Carolina Republican Party Saturday night was a reminder of the danger the former President poses as he undermines America's election system while attempting to reassert himself as kingmaker on the national stage.\n    \n"
     publishedDateTime: 2021-06-06T04:18:45Z

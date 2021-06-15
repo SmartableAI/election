@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Geneva regains diplomatic spotlight with Putin-Biden summit"
+    excerpt: "With Presidents Joe Biden and Vladimir Putin heading to town, Geneva is returning to the international spotlight as a leading hub for diplomacy and multilateralism, things that were largely shunned by"
+    publishedDateTime: 2021-06-15T06:24:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/geneva-regains-diplomatic-spotlight-putin-biden-summit-78283178"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/geneva-regains-diplomatic-spotlight-putin-biden-summit-78283178"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/geneva-regains-diplomatic-spotlight-putin-biden-summit-78283178"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_15442b558462466abe950338311bd414_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says U.S. \"not looking for conflict\" with Russia ahead of meeting with Putin"
     excerpt: "President Biden says he's not seeking conflict with Russia, but that the U.S. would respond if Russia continued its \"harmful activities.\" CBS News chief White House correspondent Nancy Cordes joins CBSN's Elaine Quijano to discuss Monday's NATO summit and preview Mr."
     publishedDateTime: 2021-06-15T01:46:00Z

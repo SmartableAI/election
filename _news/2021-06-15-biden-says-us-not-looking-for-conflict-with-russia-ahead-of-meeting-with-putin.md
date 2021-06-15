@@ -93,6 +93,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Geneva regains diplomatic spotlight with Putin-Biden summit"
+    excerpt: "With Presidents Joe Biden and Vladimir Putin heading to town, Geneva is returning to the international spotlight as a leading hub for diplomacy and multilateralism, things that were largely shunned by"
+    publishedDateTime: 2021-06-15T06:24:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/geneva-regains-diplomatic-spotlight-putin-biden-summit-78283178"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/geneva-regains-diplomatic-spotlight-putin-biden-summit-78283178"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/geneva-regains-diplomatic-spotlight-putin-biden-summit-78283178"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_15442b558462466abe950338311bd414_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Vladimir Putin offers Joe Biden exchange of cybercriminals ahead of summit"
     excerpt: "Ahead of his highly anticipated Wednesday summit with U.S. President Joe Biden, Russian President Vladimir Putin said he is willing to exchange cybercriminals with United States, state-run media said."
     publishedDateTime: 2021-06-14T08:31:00Z

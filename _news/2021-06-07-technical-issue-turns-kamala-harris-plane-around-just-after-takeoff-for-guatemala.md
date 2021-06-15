@@ -496,6 +496,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Second gentleman Doug Emhoff, husband of VP Kamala Harris, coming to Alabama"
+    excerpt: "Second gentleman Doug Emhoff, husband of Vice President Kamala Harris, will be in Alabama this week. Emhoff will travel to Birmingham on Thursday. Details of the visit have not been announced. The trip is part of the Biden administration’s nationwide tour to encourage coronavirus vaccinations."
+    publishedDateTime: 2021-06-14T19:35:00Z
+    webUrl: "https://www.al.com/news/2021/06/second-gentleman-doug-emhoff-husband-of-vp-kamala-harris-coming-to-alabama.html"
+    ampWebUrl: "https://www.al.com/news/2021/06/second-gentleman-doug-emhoff-husband-of-vp-kamala-harris-coming-to-alabama.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/06/second-gentleman-doug-emhoff-husband-of-vp-kamala-harris-coming-to-alabama.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 72
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PIOG4FZADRG6TFKVCGAB4BOVBA.JPG"
+        width: 944
+        height: 565
+        isCached: true
   - title: "Vice President Kamala Harris closes out first foreign trip with visit to Mexico"
     excerpt: "The vice president will meet with President Andrés Manuel López Obrador, a key but complicated ally in efforts to curb the spike in migration at the border."
     publishedDateTime: 2021-06-08T20:02:00Z
@@ -531,13 +547,13 @@ related:
   - title: "Will Vice President Kamala Harris' visit increase vaccine rates in South Carolina?"
     excerpt: "SC state reps and officials and the community look at whether Vice President Kamala Harris' visit could get more people to vaccination clinics."
     publishedDateTime: 2021-06-13T11:38:00Z
-    webUrl: "https://www.freep.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
-    ampWebUrl: "https://amp.freep.com/amp/7668764002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7668764002"
+    webUrl: "https://www.azcentral.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/7668764002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7668764002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/12/PGRE/b5a0f561-590c-4b58-8acb-320c2fe97996-0612_Vaccinationate_preferences_vary_in_Greenville_County_025.JPG?auto=webp&crop=2399,1350,x0,y40&format=pjpg&width=1200"

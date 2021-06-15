@@ -173,6 +173,22 @@ related:
         width: 750
         height: 501
         isCached: true
+  - title: "All Is Hype for the Biden-Putin Summit"
+    excerpt: "History repeats itself, first as tragedy, then as farce. Karl Marx's comment came to mind as President Joe Biden and Prime Minister Boris Johnson sought"
+    publishedDateTime: 2021-06-15T09:29:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/15/all_is_hype_for_the_biden-putin_summit_145926.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/15/all_is_hype_for_the_biden-putin_summit_145926.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/15/all_is_hype_for_the_biden-putin_summit_145926.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/545713_5_.jpg"
+        width: 750
+        height: 498
+        isCached: true
 
 secured: "AarnQ1b8dp2WXI0QKG4i9PVfHAPoQYt2uCMqtUr3XFMX2dRuBMFQCB+3xYWv0scLfs5J1Jh+unpntbIM8fwFbbflKsuNI+nQcG0uUqKuD/WpwhQpsCTqa/pg04OVgiNR4RmSRpdTURfu3Naklj+FjqCbVeVRcfMzCRxiwET8soFgwnh7AiO8ITHDUE5LkfUlJ3VNTyqS3wxGsLBmbtM5wT2Dyjka3zhaacEz3eWVl0TIfxPo5z4JJkloyuHVNgPqSaasPz8C/61PXM5cPNmdYmOLT2LqswhhZ5Xj3ao88GawJTxVepyZ+FWLZKmmbBhFXlZXv9ab92l/y18gQETxu3MmU21NwKquNigl2/Fm2Vs=;5OP5V/eXqvE0preTnqHilQ=="
 ---

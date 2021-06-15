@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden set to cap off first G7 summit with an audience with Queen Elizabeth II"
-    excerpt: "When Joe Biden was preparing for his first audience with Britain's Queen Elizabeth II as a young senator, his mother -- an Irish American born with the surname Finnegan -- had a piece of advice.\n    \n"
-    publishedDateTime: 2021-06-13T04:00:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/981SoEcHBYw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/13/politics/president-biden-g7-day-3/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/13/politics/president-biden-g7-day-3/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611151658-04-g7-biden-queen-elizabeth-0611-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden stuck relying on transatlantic phone calls to salvage infrastructure priorities"
     excerpt: "President Joe Biden came to Europe this week in part because he's grown tired of virtual meetings and telephone calls with world leaders, which he believes can't capture the essence of a face-to-face relationship.\n    \n"
     publishedDateTime: 2021-06-09T19:34:41Z
@@ -109,22 +93,6 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610131048-chris-inglis-file-2013-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "US hopes to agree that ambassadors can return to Moscow and Washington at Biden-Putin summit"
-    excerpt: "President Joe Biden plans to address the strained US-Russia diplomatic relationship when he meets President Vladimir Putin next week with the hope that the two leaders can agree to send their ambassadors back to Washington and Moscow after months with no senior diplomat being present in either country,"
-    publishedDateTime: 2021-06-10T16:02:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/93JMV3PyLLM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/biden-putin-ambassadors/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/biden-putin-ambassadors/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

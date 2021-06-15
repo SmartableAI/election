@@ -3,18 +3,18 @@ category: news
 title: "Will Vice President Kamala Harris' visit increase vaccine rates in South Carolina?"
 excerpt: "SC state reps and officials and the community look at whether Vice President Kamala Harris' visit could get more people to vaccination clinics."
 publishedDateTime: 2021-06-13T11:38:00Z
-originalUrl: "https://www.freep.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
-webUrl: "https://www.freep.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
-ampWebUrl: "https://amp.freep.com/amp/7668764002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7668764002"
+originalUrl: "https://www.azcentral.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
+webUrl: "https://www.azcentral.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
+ampWebUrl: "https://amp.azcentral.com/amp/7668764002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7668764002"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -496,6 +496,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Second gentleman Doug Emhoff, husband of VP Kamala Harris, coming to Alabama"
+    excerpt: "Second gentleman Doug Emhoff, husband of Vice President Kamala Harris, will be in Alabama this week. Emhoff will travel to Birmingham on Thursday. Details of the visit have not been announced. The trip is part of the Biden administration’s nationwide tour to encourage coronavirus vaccinations."
+    publishedDateTime: 2021-06-14T19:35:00Z
+    webUrl: "https://www.al.com/news/2021/06/second-gentleman-doug-emhoff-husband-of-vp-kamala-harris-coming-to-alabama.html"
+    ampWebUrl: "https://www.al.com/news/2021/06/second-gentleman-doug-emhoff-husband-of-vp-kamala-harris-coming-to-alabama.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/06/second-gentleman-doug-emhoff-husband-of-vp-kamala-harris-coming-to-alabama.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 72
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PIOG4FZADRG6TFKVCGAB4BOVBA.JPG"
+        width: 944
+        height: 565
+        isCached: true
   - title: "Vice President Kamala Harris closes out first foreign trip with visit to Mexico"
     excerpt: "The vice president will meet with President Andrés Manuel López Obrador, a key but complicated ally in efforts to curb the spike in migration at the border."
     publishedDateTime: 2021-06-08T20:02:00Z
@@ -798,6 +814,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "pmEgGRLLqoifsNOvJu8/Os673dSrA+dpIyirFimJoCJi0jKMAucPsGWwJ2AGnKtIcfpF+HK8v9UScT1xeQlnFIIbfASqWu61u3qkNbmv8LJwxrjNoQin9VYJlOqSOfFSGoz5Y9kHD71bLjIFVS6jTsE/5J/z5cdvDwwnRXacGXnPvvjLDGFmf28pOoqmUD1ko5BRCBKNCqfZ8y9oR7yeVqoMLsTcTwo2xx8J/RgTwUq5D4JM53/hjqCVjDnjbalNUwnA09kLkVqVGtdFr8uanr7NSw8L74BX39wa0PgByK8z8uZnA6EpfwbbIdDpfrSFkHucYKmtzx6oLcoEdnsZcmRT308QX15gvdLW7qNejS7l0WL1QSpm7PJ68VgHEAsQaaJpJITRUht5YieqnCI9k9ACWAxu7xJQdF5uJP8sebkCfwyCOpebwkIJA5wAdhI0SsWLcdK0eake2CAfuByUgpCOjsGUKpxhPoNVC39lXOOEQBLBYQzdd1o85LgSQTk7jt9+Mif2G4uhEoCyHej4vw==;j7D4X7QRzIZAokIfS0zVYw=="
+secured: "UQmGz2rZRrwNGlUlOo7wURh9sDTPQGH9RZEXy9aAB7V1KH0/tVEcFSJ0qKKedNhNWzC24up6C+DZzu9T5gW1M+hKMvYfO70yqBeUJ11mt6epwP8CXas1AeagMvWsOsFMlZGNDnk6wMyMR6QSSu+9YknS0jARAGz16uwscBoHrXsfa/bgtUBvvPWhiJiyrmQkDkrC1umXl0DKWZWVBFPEikvXilyQ7np+dLeyR27ruVdyPH49DJUbEZNhNgyemqZLwZzhP24xSGWAk5dwW2Ju0cvNvh/fXK5G1Nel6NKygNro22s0bksNXWMRIW5arQtKLVbL/iXhRYnjuZKzUx7mHoVG4OxD3LLFCqgoje7o8qw=;TVvkPImIgk7rUnQdalVygw=="
 ---
 

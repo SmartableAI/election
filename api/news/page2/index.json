@@ -2,25 +2,25 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-06-13-biden-says-putin-is-right-about-us-russia-relations-being-at-a-low-point-ahead-of-summit.md",
-      "title": "Biden says Putin is right about US-Russia relations being at 'a low point' ahead of summit",
-      "excerpt": "President Joe Biden said Sunday he agreed with Russian President Vladimir Putin that relations between the US and Russia are at a \"low point,\" days before the two leaders are scheduled to hold a highly anticipated summit in Geneva.\n    \n",
+      "path": "_news/2021-06-13-doj-sought-account-information-of-top-trump-white-house-lawyer-report.md",
+      "title": "DOJ sought account information of top Trump White House lawyer: report",
+      "excerpt": "Apple informed former Trump administration White House counsel Don McGahn that the Justice Department subpoenaed information about an email account of his in 2018, and forbade Apple from letting him know, according to a New York Times report.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gkuu0wbwPdc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gkuu0wbwPdc/index.html",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PvOaIbRau2c/doj-sought-account-information-top-trump-white-house-lawyer-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PvOaIbRau2c/doj-sought-account-information-top-trump-white-house-lawyer-report",
       "featuredContent": null,
       "highlight": {
-        "text": "Democratic Voice",
+        "text": "Republican Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
+        "backgroundColor": "#FF0000"
       },
-      "heat": 165,
+      "heat": 375,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +28,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/13/politics/vladimir-putin-joe-biden-relations-low-point/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/13/politics/vladimir-putin-joe-biden-relations-low-point/index.html",
-      "publishedDateTime": "2021-06-13T08:12:17-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp",
+      "publishedDateTime": "2021-06-13T11:12:30-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,7 +54,167 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell.md",
+      "title": "Lawmakers react to Trump DOJ subpoenas of Schiff, Swalwell",
+      "excerpt": "House Speaker Nancy Pelosi (D-Calif.) and other lawmakers responded June 13 to revelations about acts by former president Donald Trump's Justice Department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/politics/lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell/2021/06/13/20c5bdba-01b1-43b7-9c31-72fa426d2001_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell/2021/06/13/20c5bdba-01b1-43b7-9c31-72fa426d2001_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-13-2021/t_5f5e4acf16054d74b7cb0678b91c7c29_name_20210613_SundayShows_DOJ_v1_Copy_01_00_05_47_27_Still014.jpg&w=1080",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-13T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-pompeo-says-biden-admin-is-taking-america-back-to-obama-years-when-america-was-weak.md",
+      "title": "Pompeo says Biden admin is taking America back to Obama years when 'America was weak'",
+      "excerpt": "Former Secretary of State Mike Pompeo on Sunday said that when he hears the Biden administration talking about “taking America back\" he said they are talking about taking the United States back to the years when “America was weak” during the Obama administration",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b-a-rOrqQ7w/pompeo-biden-admin-obama-years-america-weak",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b-a-rOrqQ7w/pompeo-biden-admin-obama-years-america-weak",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c983db6c-a7f8-4557-9242-2c11f7ed9274/89a027bb-5a9d-4e72-846b-1d33d2f15e8d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-admin-obama-years-america-weak.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-obama-years-america-weak.amp",
+      "publishedDateTime": "2021-06-13T08:50:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic.md",
+      "title": "Andy Slavitt faults Trump administration for \"deadly sins\" at start of pandemic",
+      "excerpt": "Andy Slavitt, the former senior White House COVID-19 adviser, says the Trump administration made costly mistakes at the beginning of the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
+      "originalUrl": "https://www.cbsnews.com/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/13/7df1ec35-5dac-488b-82ae-118957459f84/thumbnail/1200x630/a185a3fde40274b688ec16ca77c67a8e/0613-ftn-slavitt-733712-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
+      "publishedDateTime": "2021-06-13T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -377,7 +537,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 312,
+      "heat": 272,
       "tags": null,
       "images": [
         {
@@ -696,7 +856,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 370,
+      "heat": 390,
       "tags": null,
       "images": [
         {
@@ -1162,158 +1322,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-swalwell-donald-trump-was-the-biggest-brother-weve-ever-seen-in-terms-of-spying-on-opponents.md",
-      "title": "Swalwell: Donald Trump \"Was The Biggest Brother We've Ever Seen\" In Terms Of Spying On Opponents",
-      "excerpt": "Rep. Eric Swalwell (D-CA) said former President Donald Trump used the Department of Justice to spy on him: \"I hope Trump supporters who fear big brother see that Donald Trump was the biggest brother we've ever seen in our country who did weaponize this to go all the way down the stack into the private communications of people he perceived as political opponents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/545501.jpg",
-          "width": 1210,
-          "height": 906,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.amp.html",
-      "publishedDateTime": "2021-06-11T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-mike-pences-new-home-is-in-the-only-carmel-council-district-represented-by-a-democrat.md",
-      "title": "Mike Pence's new home is in the only Carmel council district represented by a Democrat",
-      "excerpt": "Former Vice President Mike Pence and his wife Karen purchased a home in Carmel, a city that voted primarily for President Joe Biden in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/local/hamilton-county/carmel/2021/06/11/mike-pences-new-home-carmels-only-democratic-council-district/7636089002/",
-      "originalUrl": "https://www.usatoday.com/story/news/local/hamilton-county/carmel/2021/06/11/mike-pences-new-home-carmels-only-democratic-council-district/7636089002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7636089002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7636089002",
-      "publishedDateTime": "2021-06-11T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-biden-to-host-germanys-merkel-at-the-white-house-in-july.md",
-      "title": "Biden to host Germany's Merkel at the White House in July",
-      "excerpt": "President Biden will host German Chancellor Angela Merkel at the White House next month, his third in-person visit with a foreign leader in Washington since taking office at the beginning of this year.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july",
-      "originalUrl": "https://thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_merkelangela_germany_getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july?amp",
-      "publishedDateTime": "2021-06-11T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
