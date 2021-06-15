@@ -27,68 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence's new home is in the only Carmel council district represented by a Democrat"
-    excerpt: "Former Vice President Mike Pence and his wife Karen purchased a home in Carmel, a city that voted primarily for President Joe Biden in 2020."
-    publishedDateTime: 2021-06-11T12:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/hamilton-county/carmel/2021/06/11/mike-pences-new-home-carmels-only-democratic-council-district/7636089002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7636089002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7636089002"
+  - title: "Mike Pence, Wife Buy Suburban Indianapolis Home for $1.93M"
+    excerpt: "Former Vice President Mike Pence and his wife have purchased a $1.93 million suburban Indianapolis house that sits on a 5-acre spread and features seven bedrooms, a swimming pool and an indoor basketball court."
+    publishedDateTime: 2021-06-13T05:30:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Mike Pence's new Carmel home compares to the last one he owned"
-    excerpt: "Former Vice President Mike Pence and his wife Karen have improved their position in life since they last owned a home in Indiana in 2013. The Pences bought a modest home in Columbus in 2001 for about $116,"
-    publishedDateTime: 2021-06-11T09:36:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7633750002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7633750002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: NBC New York
+      domain: nbcnewyork.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9de87950-7812-481d-bbbd-87bec24d0513-01202021_Pence_GH_030.jpg?auto=webp&crop=2804,1578,x0,y334&format=pjpg&width=1200"
+      - url: "https://i0.wp.com/media.nbcnewyork.com/2020/08/GettyImages-1169849230.jpg?crop=0px%2C44px%2C4991px%2C2807px&quality=85&resize=1200%2C675&strip=all&ssl=1"
         width: 1200
         height: 675
         isCached: true
-  - title: "Former Vice President Mike Pence Buys $1.93 Million Mansion in Home State of Indiana"
-    excerpt: "Former Vice President Mike Pence and his wife, Karen, purchased a 10,349-square-foot home for $1.93 million on the outskirts of Carmel, Indiana, at the end of May, according to property records.  The seven-bedroom,"
-    publishedDateTime: 2021-06-11T19:48:00Z
-    webUrl: "https://www.barrons.com/articles/former-vice-president-mike-pence-buys-1-93-million-mansion-in-home-state-of-indiana-01623426497"
-    ampWebUrl: "https://www.barrons.com/amp/articles/former-vice-president-mike-pence-buys-1-93-million-mansion-in-home-state-of-indiana-01623426497"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/former-vice-president-mike-pence-buys-1-93-million-mansion-in-home-state-of-indiana-01623426497"
+  - title: "Mike, Karen Pence buy Zionsville home for $1.93M"
+    excerpt: "Former Vice President Mike Pence and his wife have purchased a $1.93 million house in suburban Indianapolis that sits on a 5-acre spread and features seven bedrooms, a"
+    publishedDateTime: 2021-06-14T14:18:00Z
+    webUrl: "https://fox59.com/news/whats-trending/mike-karen-pence-buy-zionsville-home-for-1-93m/"
+    ampWebUrl: "https://fox59.com/news/whats-trending/mike-karen-pence-buy-zionsville-home-for-1-93m/amp/"
+    cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/whats-trending/mike-karen-pence-buy-zionsville-home-for-1-93m/amp/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 68
+      name: FOX59 News
+      domain: fox59.com
+    quality: 75
     images:
-      - url: "https://images.barrons.com/im-352857/social"
-        width: 1280
-        height: 640
+      - url: "https://fox59.com/wp-content/uploads/sites/21/2021/06/Pences-house.jpg?w=1280"
+        width: 1002
+        height: 617
         isCached: true
-  - title: "Mike Pence, wife buy $1.93M home in Carmel"
-    excerpt: "Former Vice President Mike Pence and his wife have purchased a $1.93 million suburban Indianapolis house that sits on a 5-acre spread and features seven bedrooms, a swimming"
-    publishedDateTime: 2021-06-14T20:54:00Z
-    webUrl: "https://www.madisoncourier.com/news/mike-pence-wife-buy-1-93m-home-in-carmel/article_aa67bbda-9f80-5387-bc90-cf542375ed13.html"
+  - title: "Mike Pence, Wife Buy Suburban Indianapolis Home for $1.93M"
+    excerpt: "Former Vice President Mike Pence and his wife have purchased a $1.93 million house in suburban Indianapolis that sits on a 5-acre spread and features seven bedrooms, a swimming pool and an indoor basketball court."
+    publishedDateTime: 2021-06-12T13:29:00Z
+    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2021-06-12/mike-pence-wife-buy-suburban-indianapolis-home-for-193m"
     type: article
     provider:
-      name: Madison Courier
-      domain: madisoncourier.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madisoncourier.com/content/tncms/custom/image/b1f849ba-dcd8-11ea-9099-4387d0bdd6af.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "qENrgy+CDmr8qbqejO8MOC+tvCa+PzLRQB2YkKi35aLL4XPuo2OXOxnLOPMNzIH1frMCcbtGcFiWAyiibzElL6d5jrETg62zGmRA4x5FPrPclTNCzVkzbCWs+9uhD9+Fm5AdcT+Q5w1LoZsTG9hThRC93L57BeCwFz8XQxKE+CGJlFk9JKGlflcrqRPH3iwjhLreuI4sB8i7XP+WoNNA1FB9hu4qVi+0BtbviTJCq0nhFvtvj81wnkpjumgMhyQ6lFUcHZmLX1W7z5ZIxedwgUR6DjaRmL3GehXynxLBl0kmI4VV2rce77MK2PsTOruXUsdSx8u9FPO2OpGjUeCyW5RlYcm7lTuL7rQkPJvVnNEHznPMTSawLZh+f/gI8J8uJeC6Sap1tz1Zme/ZdcRhLQAWW8eRIEeMaeQjJtaBTvB+2iTtE6RgKVXsAer2kJPwQ42jfWc5y/clxYPYKnB7tf3i6xM0X/cVLym3dwkl0ozUGx+ryenhNXxaCJCynwnzY82tk34u0yegAdlfNM0MZw==;4MOle5vOsKh1nWuYzh6sFQ=="
 ---

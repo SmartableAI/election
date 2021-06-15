@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump pressured attorney general to have Justice Department back false election claims, emails show"
+    excerpt: "The former president began pressuring his incoming acting attorney general even before announcing that his predecessor was stepping down, emails show."
+    publishedDateTime: 2021-06-15T13:47:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 126
+    images:
+      - url: "https://www.chicagotribune.com/resizer/vCwpflBVJwcRqEBXvIZBQlcMGYo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UGPPBK36NZE23BTHN6VIHHAZ3M.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "First Thing: ‘Teflon Don no more’ as legal threats mount against Trump"
     excerpt: "Former president faces increasingly serious legal issues as he teases a 2024 run. Plus, how cicada-phobes are surviving Brood X"
     publishedDateTime: 2021-06-08T08:31:00Z

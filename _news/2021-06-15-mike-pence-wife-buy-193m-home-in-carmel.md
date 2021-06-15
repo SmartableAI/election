@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Mike Pence's new Carmel home compares to the last one he owned"
+    excerpt: "Former Vice President Mike Pence and his wife Karen have improved their position in life since they last owned a home in Indiana in 2013. The Pences bought a modest home in Columbus in 2001 for about $116,"
+    publishedDateTime: 2021-06-11T09:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7633750002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633750002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9de87950-7812-481d-bbbd-87bec24d0513-01202021_Pence_GH_030.jpg?auto=webp&crop=2804,1578,x0,y334&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence's new home is in the only Carmel council district represented by a Democrat"
     excerpt: "Former Vice President Mike Pence and his wife Karen purchased a home in Carmel, a city that voted primarily for President Joe Biden in 2020."
     publishedDateTime: 2021-06-11T12:32:00Z
@@ -41,38 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Mike Pence's new Carmel home compares to the last one he owned"
-    excerpt: "Former Vice President Mike Pence and his wife Karen have improved their position in life since they last owned a home in Indiana in 2013. The Pences bought a modest home in Columbus in 2001 for about $116,"
-    publishedDateTime: 2021-06-11T09:36:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7633750002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7633750002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9de87950-7812-481d-bbbd-87bec24d0513-01202021_Pence_GH_030.jpg?auto=webp&crop=2804,1578,x0,y334&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Former Vice President Mike Pence buys $1.93 million mansion in home state of Indiana"
-    excerpt: "Former Vice President Mike Pence and his wife, Karen, purchased a 10,349-square-foot home for $1.93 million on the outskirts of Carmel, Indiana, at the end of May, according to property records."
-    publishedDateTime: 2021-06-10T22:16:00Z
-    webUrl: "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana"
-    ampWebUrl: "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d11a1cfc-5e80-48f5-960f-832aea059b86/0babdbe8-b819-4b21-9ee0-845034cf9b53/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Former Vice President Mike Pence Buys $1.93 Million Mansion in Home State of Indiana"
     excerpt: "Former Vice President Mike Pence and his wife, Karen, purchased a 10,349-square-foot home for $1.93 million on the outskirts of Carmel, Indiana, at the end of May, according to property records.  The seven-bedroom,"
     publishedDateTime: 2021-06-11T19:48:00Z
@@ -88,6 +72,22 @@ related:
       - url: "https://images.barrons.com/im-352857/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Mike Pence buys $1.9M Indiana home with a pool and games room after being ‘homeless’ when he left White House"
+    excerpt: "MIKE Pence has picked up an Indiana mansion with a pool and games room for $1.93million after being left “homeless” when he left the White House in January.  The former Vice President, 62, closed"
+    publishedDateTime: 2021-06-11T14:51:00Z
+    webUrl: "https://www.the-sun.com/news/3061015/mike-pence-lives-indiana-mansion-carmel/"
+    ampWebUrl: "https://www.the-sun.com/news/3061015/mike-pence-lives-indiana-mansion-carmel/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3061015/mike-pence-lives-indiana-mansion-carmel/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 56
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/JF-US-INSIDE-MIKE-OENCE-MANSION-OFF-PLATFORM-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "N0GvW3Gv5etPpekeAmRJLzGpU43bUTZHoqjxp9I0kyMbqLPCXYAnyfXgXyWJL6g3OoXicxpOtdBRzGHg7jRPHK+52GM0O86qHn5nk5CwBVR5p/DOYbNoAiqstf/zg2OGjB3588fjrZolu8+5h/1B/nrof+jSqaaD5w0oq3ZUdi2ZAX2itURGEuzICEbSZZvZGWy92eghAZ/VFCzdsypYAc7wHbOhL7cYxy6tHw6qs9iOLIpE55Naa1TztsP4CcdFdIfpUuBTW9TzmcdVQNN2jcgKPxbccbdABHzPN1Tq13Vn82vfKPmuvfidWuaCsmQ96vDpfa39/5myWXHRfKelZDq5+ItpDA5Mv15TINSL37o=;XBLNCO8KOH78wjr+LEj0ug=="

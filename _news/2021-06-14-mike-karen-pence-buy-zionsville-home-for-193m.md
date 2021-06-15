@@ -43,21 +43,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mike Pence buys $1.9M Indiana home with a pool and games room after being ‘homeless’ when he left White House"
-    excerpt: "MIKE Pence has picked up an Indiana mansion with a pool and games room for $1.93million after being left “homeless” when he left the White House in January.  The former Vice President, 62, closed"
-    publishedDateTime: 2021-06-11T14:51:00Z
-    webUrl: "https://www.the-sun.com/news/3061015/mike-pence-lives-indiana-mansion-carmel/"
-    ampWebUrl: "https://www.the-sun.com/news/3061015/mike-pence-lives-indiana-mansion-carmel/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3061015/mike-pence-lives-indiana-mansion-carmel/amp/"
+  - title: "Former Vice President Mike Pence buys $1.93 million mansion in home state of Indiana"
+    excerpt: "Former Vice President Mike Pence and his wife, Karen, purchased a 10,349-square-foot home for $1.93 million on the outskirts of Carmel, Indiana, at the end of May, according to property records."
+    publishedDateTime: 2021-06-10T22:16:00Z
+    webUrl: "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana"
+    ampWebUrl: "https://www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/real-estate/vice-president-mike-pence-mansion-home-state-indiana.amp"
     type: article
     provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 56
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 68
     images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/JF-US-INSIDE-MIKE-OENCE-MANSION-OFF-PLATFORM-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d11a1cfc-5e80-48f5-960f-832aea059b86/0babdbe8-b819-4b21-9ee0-845034cf9b53/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Mike Pence, Wife Buy Suburban Indianapolis Home for $1.93M"
     excerpt: "Former Vice President Mike Pence and his wife have purchased a $1.93 million house in suburban Indianapolis that sits on a 5-acre spread and features seven bedrooms, a swimming pool and an indoor basketball court."

@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump pressured attorney general to have Justice Department back false election claims, emails show"
+    excerpt: "The former president began pressuring his incoming acting attorney general even before announcing that his predecessor was stepping down, emails show."
+    publishedDateTime: 2021-06-15T13:47:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 126
+    images:
+      - url: "https://www.chicagotribune.com/resizer/vCwpflBVJwcRqEBXvIZBQlcMGYo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UGPPBK36NZE23BTHN6VIHHAZ3M.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "First Thing: ‘Teflon Don no more’ as legal threats mount against Trump"
     excerpt: "Former president faces increasingly serious legal issues as he teases a 2024 run. Plus, how cicada-phobes are surviving Brood X"
     publishedDateTime: 2021-06-08T08:31:00Z
@@ -540,6 +556,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "DbdxHjeLW5MuT6TXXlG2OEOw+a0Rh2mn/ClAtvM/73Se9JyZeN+OsSOxIa2iPK8pgnbIy/dL5fi6QkRysVBxByhpYwBxxoB7t1qp2Pg06D6FnwQQ6FcsmV5djILl/EyWXsp6CYW4xAE/nLUFkM4rPpb77cJREFnOztOEuGtfuwaiHtoH2iF+INeKmnq1mC2LXtrYR6T4u42vJCx/sKR60lEpuJjj5td28pz0OjWZsT0IhxN5AsQrCCFOC/a+2EirenQVjGd2Gzw474O2aPWJx6jTkzvFiOkkI9WxYn8e1dZFlWnBBF6p7gEojTqQ/Ah6FDePbOiOMYljR4I18vWt2wm7XAbmH9aK/dwRdnXBwfA=;oYm8E+emDTWiuz1zk790Dw=="
+secured: "nQBc/OYcbY7vYgwVwjwPZHMFjLo0lJvOUgL6oLM/lPJvjtFqKvYxeaIw2WtGX/PmetfF1nCgTKewsG9hXuPeeycL/z+NkWdHeqRfig0LVYMpt+ougtYhRiKOcAysI5xM0Y8r8BTg5GRS8IGfZl+F94kuwgvWqM1izxBn4wFOELrcIp/MSjEpoyPGquF29ivEIfyh3xAiwyrBt7iQ0/ggMHtzRJrO50wx8Zz7831qn5tiDY9oXNdCjJSGZ6L8H09wMwGguxHdGsoDJt7ZXjb10sHJlLQGMHRFlmDCQ9aJ4q37b2PD6BPx92mCPXPXVQGP52DRoTBUvhymQ/hdWJLfTzuUUjH0s/XfcV6pO3s68KeR+hr5994jG8W0JYaOh/nRDwaxftge7VkutL9DnDWc2vgcEDqQT77SS3f91jX0Iv5s2IjdtfC2JLxVEKkOVBV3a4mQj0VBNc58Dw09p9QL67wLKH3WD7w84JPLOV83iSELimRZs+FhKvpxVitE2lo7ZVJsfWisB4m+xkwqx6L+WA==;1TscUyOL8uj73/x+3A9k2w=="
 ---
 

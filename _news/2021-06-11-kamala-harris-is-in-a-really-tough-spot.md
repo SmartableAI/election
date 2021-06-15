@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Is in a Really Tough Spot"
 excerpt: "Vice President Kamala Harris learned that three little words can cause a lot of damage. On her first vice presidential trip abroad, Harris stoked controversy when she spoke at a news conference in Guatemala and told potential migrants,"
 publishedDateTime: 2021-06-11T10:59:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html"
-webUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html"
+originalUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/06/11/kamala_harris_is_in_a_really_tough_spot_544818.html#!"
 type: article
 quality: 65
 heat: -1
@@ -693,7 +693,7 @@ related:
   - title: "Meghan McCain: VP Kamala Harris \"Sounded Like A Moron\" Talking About The Border"
     excerpt: "The View' co-host Meghan McCain criticized Vice President Kamala Harris for sounding \"like a moron\" when she talked about the border in an interview with NBC 'Nightly News' host Lester Holt. \"Vice President Harris was in Guatemala this week telling people seeking asylum in the U."
     publishedDateTime: 2021-06-12T23:40:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/12/meghan_mccain_vp_kamala_harris_sounded_like_a_moron_talking_about_the_border.amp.html"
     type: article
@@ -739,6 +739,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "uKCNM9lDVWXquo+/ZU0VRjYQijcAqKlJcz92g9abFElZtas7yy7elKOH2786MNi4RSMiwh/wfKsqt8fwIz6kvsT9vCaSPfs0CchbVX6nPfHSBwLWxQqw7p3Yyxtpahtbd9wGicr5Ytce8riHCTn/LIpvwkVdHEuW0zTpZq0BSh3W7ePKcaKdqIEVutC0+twrMxAaSScCvqzf+yStbw5Uzmhk91KhbLcmLm90W0jI+LIgvVOqPxQZTVQqBpKr/KB5JY01A0mL2QYH9YBJoq/5AGmDzntsEjpckmWNQlwARngYMysWHc42iX8jwke+9MyY4NEH0T1/hWX7m7MsncFkT3sSVeGXewwFlUu8fBoxfzroyoaATKSkg+MDsj7O7j4djQdKarC2l7sAK05fezhwl4NE6/rx5CyjAFRhCm5yPeBalnYQE/v6DNGdDXr08kONvql+s5QkhdMVghRpZgfa9bU6BN5te+EXkv+sm4NfwQm7LjMpze6zRWdqxJk0FuIMGLfSv2lnU1wuqOQ5eJIl1w==;V8wLUGr2z6rMtzNkOwV+mw=="
+secured: "3ERDELpW3mkrdSFaOVT2OUT9FykPtjoQlL+FakmVXSw8j5Zxva2Zuo51qNsNP/ExS/5K1MFBoKDG+jWy4sRjaQTECfk2DYfWOFdGXJEvcZz6bw3j0ksQicvox/VzUtYlHsBSPuiU3SxyeDqRlMVgI+oeMtHeIuugjKH51dkine+gB4ocvldI6inrm96bfX/2C3SSKwdKxsd7BEc7EhtCqzCKuOt2xZ+TfbTiRaO+EOGgeYfVXVlC81AYKQLJRBEMoQEoc70dYI+tBKEDSpRfelpe7LJgHpTO1vGk5djzHSXMgFpF8bq02BHaWykYMZg79kpKHWk2RvYZ0L+rjR7fG89YtNdZXZEBbwsKKxxYYU8=;T7P+Xc+3t/tcHS5TEhDCtA=="
 ---
 

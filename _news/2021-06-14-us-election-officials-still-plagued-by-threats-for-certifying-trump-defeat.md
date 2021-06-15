@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/14/us-election-official
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/14/us-election-officials-threats-trump-defeat"
 type: article
 quality: 138
-heat: 838
+heat: 858
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 133
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/06/NAAS/a4019b43-5247-4de3-96bb-87bf22051b19-Electoral_College_Protests.jpg?auto=webp&crop=4847,2727,x0,y246&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump pressured attorney general to have Justice Department back false election claims, emails show"
+    excerpt: "The former president began pressuring his incoming acting attorney general even before announcing that his predecessor was stepping down, emails show."
+    publishedDateTime: 2021-06-15T13:47:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 126
+    images:
+      - url: "https://www.chicagotribune.com/resizer/vCwpflBVJwcRqEBXvIZBQlcMGYo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UGPPBK36NZE23BTHN6VIHHAZ3M.jpg"
         width: 1200
         height: 675
         isCached: true

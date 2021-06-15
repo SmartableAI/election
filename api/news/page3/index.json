@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-11-swalwell-says-trump-weaponized-justice-department-against-enemies.md",
+      "title": "Swalwell says Trump 'weaponized' Justice Department against enemies",
+      "excerpt": "California Democratic Rep. Eric Swalwell, whose data was seized by the Trump administration as part of a leak probe, on Friday said former President Donald Trump \"weaponized\" the Justice Department to dig into the private communications of his political opponents.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLsUJzJiscI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLsUJzJiscI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210611150142-01-eric-swalwell-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-house-democrats-swalwell-reaction-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-house-democrats-swalwell-reaction-cnntv/index.html",
+      "publishedDateTime": "2021-06-11T08:07:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-swalwell-donald-trump-was-the-biggest-brother-weve-ever-seen-in-terms-of-spying-on-opponents.md",
       "title": "Swalwell: Donald Trump \"Was The Biggest Brother We've Ever Seen\" In Terms Of Spying On Opponents",
       "excerpt": "Rep. Eric Swalwell (D-CA) said former President Donald Trump used the Department of Justice to spy on him: \"I hope Trump supporters who fear big brother see that Donald Trump was the biggest brother we've ever seen in our country who did weaponize this to go all the way down the stack into the private communications of people he perceived as political opponents.",
@@ -47,58 +103,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-mike-pences-new-home-is-in-the-only-carmel-council-district-represented-by-a-democrat.md",
-      "title": "Mike Pence's new home is in the only Carmel council district represented by a Democrat",
-      "excerpt": "Former Vice President Mike Pence and his wife Karen purchased a home in Carmel, a city that voted primarily for President Joe Biden in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/local/hamilton-county/carmel/2021/06/11/mike-pences-new-home-carmels-only-democratic-council-district/7636089002/",
-      "originalUrl": "https://www.usatoday.com/story/news/local/hamilton-county/carmel/2021/06/11/mike-pences-new-home-carmels-only-democratic-council-district/7636089002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7636089002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7636089002",
-      "publishedDateTime": "2021-06-11T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {
@@ -255,6 +259,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-how-mike-pences-new-carmel-home-compares-to-the-last-one-he-owned.md",
+      "title": "How Mike Pence's new Carmel home compares to the last one he owned",
+      "excerpt": "Former Vice President Mike Pence and his wife Karen have improved their position in life since they last owned a home in Indiana in 2013. The Pences bought a modest home in Columbus in 2001 for about $116,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/11/mike-pence-house-carmel-indiana/7633750002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9de87950-7812-481d-bbbd-87bec24d0513-01202021_Pence_GH_030.jpg?auto=webp&crop=2804,1578,x0,y334&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7633750002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633750002",
+      "publishedDateTime": "2021-06-11T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -1260,58 +1316,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-george-p-bush-defends-his-support-for-donald-trump-im-my-own-man.md",
-      "title": "George P. Bush Defends His Support for Donald Trump: 'I'm My Own Man'",
-      "excerpt": "Texas Attorney General Candidate George P. Bush defended his support of Donald Trump on Wednesday, noting that members of his family have \"differences of opinion\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245",
-      "originalUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1817426/george-p-bush-houston-texas.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-p-bush-defends-donald-trump-support-fox-news-texas-1599245?amp=1",
-      "publishedDateTime": "2021-06-10T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

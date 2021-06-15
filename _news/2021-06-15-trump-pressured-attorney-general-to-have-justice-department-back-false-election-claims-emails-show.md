@@ -1,26 +1,34 @@
 ---
 category: news
-title: "US Closes Trump-Era Office for Victims of Immigrant Crime"
-excerpt: "The Biden administration says it has dismantled a Trump-era goverment agency that was created help victims of crimes committed by immigrants."
-publishedDateTime: 2021-06-11T15:06:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/us-closes-trump-era-office-for-victims-of-immigrant-crime"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/us-closes-trump-era-office-for-victims-of-immigrant-crime"
+title: "Trump pressured attorney general to have Justice Department back false election claims, emails show"
+excerpt: "The former president began pressuring his incoming acting attorney general even before announcing that his predecessor was stepping down, emails show."
+publishedDateTime: 2021-06-15T13:47:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html?outputType=amp"
 type: article
-quality: 35
+quality: 126
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.chicagotribune.com/resizer/vCwpflBVJwcRqEBXvIZBQlcMGYo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UGPPBK36NZE23BTHN6VIHHAZ3M.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "US election officials still plagued by threats for certifying Trump defeat"
@@ -84,22 +92,6 @@ related:
     quality: 133
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/06/NAAS/a4019b43-5247-4de3-96bb-87bf22051b19-Electoral_College_Protests.jpg?auto=webp&crop=4847,2727,x0,y246&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump pressured attorney general to have Justice Department back false election claims, emails show"
-    excerpt: "The former president began pressuring his incoming acting attorney general even before announcing that his predecessor was stepping down, emails show."
-    publishedDateTime: 2021-06-15T13:47:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 126
-    images:
-      - url: "https://www.chicagotribune.com/resizer/vCwpflBVJwcRqEBXvIZBQlcMGYo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UGPPBK36NZE23BTHN6VIHHAZ3M.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -554,7 +546,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 40
+  - title: "US Closes Trump-Era Office for Victims of Immigrant Crime"
+    excerpt: "The Biden administration says it has dismantled a Trump-era goverment agency that was created help victims of crimes committed by immigrants."
+    publishedDateTime: 2021-06-11T15:06:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/us-closes-trump-era-office-for-victims-of-immigrant-crime"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "3PEFPSd6xvV49WlF29Re7IPdVStPu02S1c2pWpgGAXcDzEh79zWUSESOkD4haq5zJxsEp2EtYYWbBsmQwglR5TE6YfUJ4LgAkqgOPcu6LJ41zy3Z+BBtMyeyYNmCbVdM6fnfwU7n+kgDjZMMa6EawMdPdBsSR+2koe5qQBzEyoEYHq1i2BEUP9fPs2YAMYYg9psQfSaKUwQPefzK1atS521fkY1h99z8W4i3lKtYSkX3h43P7DqV+Pwufa7Yyi7OmYeRo7q9YW2AECVBl+Zl4j4a8Bm6d4UTTMI1K398YyVtkv3ApG3CDlHdx0EUDHu98Cz0CBB/QQOqvuEkLiTsMvIUdkocJgaerpKW4EnKwNvVNG20uzha6h+l4HKtrttxvqzY0kBA+ZApoFYsDYYT0QTyrGbsG3JpEuiXosiuamU+oyqUk//yk6vxAnaF4Kz/BvgmRsSYGLb5KFCBew4ND7xYOJy40zfF2UeOoa/ujXQiLLeF/oFLrPa4PLuatZg/ORbA15pBeCJHrSxurN3M+A==;LAQnjtgMQUOc+Ni8/QhEyA=="
+secured: "TpIWmxMB7xr5x6SqVAblIoWO10j0G6xaMg47e8dkjeEeN9JPkDldHIYv1JWhuVr4Ly59qSTgfyquUWH3Qw+lVFDAIzBJniMAGW/v5ZdtFYypacxUuz8TxsGABItG9ftEwAMNdWlONRF7fXQI6A7zxXIHqyIJ2kjg8di7aETr2n6i2bQ+G9wg4KosVxBa7POxltjvN4I4ocnyZWaqSD8K3R/DK84UNL5/uIm6wGOMp+WjgvlZybyayABT31r+FN5Weivb9iX6ySGnPbnMnrc6C/a4CZw5MSP0y9fH4UKLBfJgmNGbNfz/u1nXhIzNC/couPOwXECnrk6dGORa/g3KaUTpHNAAa/xVVLEtucKSJKo=;OWd6wo1gyBsaMNFoRK6h8A=="
 ---
 
