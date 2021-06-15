@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nigeria's Twitter ban: Donald Trump hails Buhari"
-    excerpt: "Former US president Donald Trump has praised Nigeria's government for banning Twitter after it deleted President Muhammadu Buhari's post for breaching its rules. \"Who are they to dictate good and evil,"
-    publishedDateTime: 2021-06-09T08:31:00Z
-    webUrl: "https://www.bbc.com/news/world-africa-57408179.amp"
-    ampWebUrl: "https://www.bbc.com/news/world-africa-57408179.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-africa-57408179.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BCCF/production/_118853384_gettyimages-953303198.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Trump backs Nigeria banning Twitter, calls for other countries to follow"
     excerpt: "Former President Trump on Tuesday applauded Nigeria’s Twitter ban and called on other countries to follow suit."
     publishedDateTime: 2021-06-08T23:46:00Z
@@ -62,22 +46,6 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_093020getty_trump-legal.jpg"
         width: 980
         height: 580
-        isCached: true
-  - title: "Ohio abortion ban: Inspired by 'God's agenda,' written in Texas, defended by Trump lawyer"
-    excerpt: "A group of anti-abortion activists worked behind the scenes for weeks with a city councilman to make Lebanon, Ohio's new abortion ban possible."
-    publishedDateTime: 2021-06-02T14:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/02/abortion-ban-texas-group-trump-lawyer-behind-ohios-law/7491809002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7491809002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7491809002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/28/PCIN/667d5789-17e9-4e0a-b905-1a8fd239ee68-052521_LEBANONABORTION_0003.jpg?auto=webp&crop=5507,3098,x0,y280&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "0ZzzaEkUGw4mfjLqrRLFv/LHPRLQdvuqDG3RQWSlKt9S1E2jXuSpG2NwMoNQKt9BP2NGQy6y3VrJFyz+BwAICV9w0ZfxA7XgbdDnMk2W2P6I1F2Z8tnyUDkleLhO9jtRznN/smCgpqTlKLFSUWGPbWcXAOl5y/D600jXVFMkx5QGGXxv/Udh37LoYCw5Q3pa3RsrpxghKQ8W6L5Rk3nVwk358O2/WrK4ms3H/lYCgm6DCLT0P6JKRnlRevP+DBm9HfIhbybAvrbF6pJnZHWW/kZihIrFumVS7Y6ahzahXB+0sIbzAPFjvVvLnvH+usPe7w9kZyONAR4rXuVP2nhmZNOJ19gC0GYVV8JH9XatPBw=;ivZIsKyQ3moijnbNiPEN0A=="

@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's summer tour to kick off with rally against Republican who voted to impeach him"
+    excerpt: "Donald Trump has scheduled the first stop on his long-promised revenge tour against Republicans who spurned him during his quest to overturn the 2020 election outcome and subsequent impeachment.\n    \n"
+    publishedDateTime: 2021-06-15T18:54:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwaRWKS0tWI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/trump-ohio-florida-rallies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/trump-ohio-florida-rallies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209104258-04-trump-1205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump advances dangerous disinformation campaign as more states move to restrict the vote"
     excerpt: "Donald Trump's speech before the North Carolina Republican Party Saturday night was a reminder of the danger the former President poses as he undermines America's election system while attempting to reassert himself as kingmaker on the national stage.\n    \n"
     publishedDateTime: 2021-06-06T04:18:45Z

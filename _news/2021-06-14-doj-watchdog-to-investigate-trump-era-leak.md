@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Emails show Trump pressured Justice Dept. over 2020 election"
+    excerpt: "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his ter"
+    publishedDateTime: 2021-06-15T16:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "US election officials still plagued by threats for certifying Trump defeat"
     excerpt: "A barrage of death threats against officials and volunteers from ex-president’s supporters could make recruiting poll workers harder"
     publishedDateTime: 2021-06-14T15:39:00Z
@@ -77,6 +93,22 @@ related:
         width: 3648
         height: 2432
         isCached: true
+  - title: "New emails detail Trump's push for Justice Department to overturn election results"
+    excerpt: "New documents released Tuesday by Democrats on the House Oversight and Reform Committee demonstrate the extent of efforts by former President Donald Trump to push the Justice Department to challenge the results of the 2020 presidential election."
+    publishedDateTime: 2021-06-15T18:54:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-election-result-email-doj-pressure/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-election-result-email-doj-pressure/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-election-result-email-doj-pressure/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 134
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/15/c8793ae3-fe6e-491b-a33b-514786e527a1/thumbnail/1200x630/11b0b842cd1ee66b08802dfda35d0513/gettyimages-1233293639.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "State bar investigating Texas Attorney General Ken Paxton over Trump election lawsuit"
     excerpt: "A Democratic Party activist complained that Ken Paxton's challenge to President Joe Biden's victory in four states was frivolous and unethical."
     publishedDateTime: 2021-06-10T12:37:00Z
@@ -109,21 +141,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "First Thing: ‘Teflon Don no more’ as legal threats mount against Trump"
-    excerpt: "Former president faces increasingly serious legal issues as he teases a 2024 run. Plus, how cicada-phobes are surviving Brood X"
-    publishedDateTime: 2021-06-08T08:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/08/first-thing-teflon-don-no-more-as-legal-threats-mount-against-trump"
+  - title: "Just over half in new poll support Facebook's suspension of Trump"
+    excerpt: "A slim majority of Americans surveyed in a new poll said they support a recent decision by Facebook to extend a suspension of former President Trump Donald Trump Biden DOJ adopts Trump's ..."
+    publishedDateTime: 2021-06-08T11:39:00Z
+    webUrl: "https://thehill.com/policy/technology/557270-just-over-half-in-new-poll-support-facebooks-suspension-of-trump"
+    ampWebUrl: "https://thehill.com/policy/technology/557270-just-over-half-in-new-poll-support-facebooks-suspension-of-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557270-just-over-half-in-new-poll-support-facebooks-suspension-of-trump?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/07bee087791bd38b55d1955b5f487d8c24217a92/0_105_2404_1443/master/2404.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f52110a3c1d23a5f659f64d8bd43a54e"
-        width: 600
-        height: 360
+      - url: "https://thehill.com/sites/default/files/trumpdonald_112620getty_trump-gop.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Nigeria's Twitter ban: Donald Trump hails Buhari"
+    excerpt: "Former US president Donald Trump has praised Nigeria's government for banning Twitter after it deleted President Muhammadu Buhari's post for breaching its rules. \"Who are they to dictate good and evil,"
+    publishedDateTime: 2021-06-09T08:31:00Z
+    webUrl: "https://www.bbc.com/news/world-africa-57408179.amp"
+    ampWebUrl: "https://www.bbc.com/news/world-africa-57408179.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-africa-57408179.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BCCF/production/_118853384_gettyimages-953303198.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Tycoon behind DAMAC's Trump golf club wants full ownership"
     excerpt: "The billionaire founder of one of Dubai’s largest developers, DAMAC Properties, has announced his intention to take the company fully private by buying its publicly traded shares in a deal valued at a"
@@ -173,6 +221,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Justice Department seized House Democrats' data"
+    excerpt: "CBS News has confirmed the Justice Department under President Donald Trump subpoenaed the personal metadata of at least a dozen people tied to the House Intelligence Committee in 2017 and again in 2018,"
+    publishedDateTime: 2021-06-11T18:40:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-doj-targeted-house-dems-in-leak-investigation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-doj-targeted-house-dems-in-leak-investigation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-doj-targeted-house-dems-in-leak-investigation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/11/01a71634-efa9-41aa-b80c-f0b230217c43/thumbnail/1200x630/fdecbe725190761810c4488e5a5103d8/cbsn-fusion-trump-doj-targeted-house-dems-in-leak-investigation-thumbnail-732937-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "With Trump gone, NATO wages war on climate threat"
     excerpt: "If the U.S. military were a nation state, it would be the world's 47th largest emitter of planet-warming greenhouse gases, a 2019 study found."
     publishedDateTime: 2021-06-13T10:32:00Z
@@ -205,6 +269,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New Jersey voters to select GOP governor nominee after Trump-filled primary"
+    excerpt: "New Jersey Republicans will select a challenger to Gov. Phil Murphy (D) on Tuesday after a primary that focused on how candidates would prevent future pandemic lockdowns and whether they had done enough to support Donald Trump’s reelection bid."
+    publishedDateTime: 2021-06-08T10:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6YDOV3GH4QI6XANRGR4WY44TV4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "John Dean Calls Surveillance by Trump-Era DOJ 'Nixon on Stilts and Steroids'"
     excerpt: "\"Nixon didn't have that kind of Department of Justice,\" John Dean said on Friday. \"Nixon couldn't use the department as he wanted to.\""
     publishedDateTime: 2021-06-12T04:08:00Z
@@ -220,6 +300,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1819790/john-dean-richard-nixon-donald-trump-doj.jpg"
         width: 2500
         height: 1570
+        isCached: true
+  - title: "Trump and House Democrats remain at odds over subpoena for financial records"
+    excerpt: "Judge Amit Mehta told both parties he reached out to a mediator to help facilitate discussions between Mr. Trump and Democrats."
+    publishedDateTime: 2021-06-15T18:53:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-financial-records-subpoena-scope/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-financial-records-subpoena-scope/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-financial-records-subpoena-scope/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/25/6d4f4817-2ff8-4f41-83d8-6c877a8ad6e6/thumbnail/1200x630/b9606be5f084f0bb07e863d766b8619d/gettyimages-1318749430.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Former President Trump's DOJ subpoenaed records of at least two House Democrats"
     excerpt: "Former President Donald Trump's Department of Justice reportedly subpoenaed the data of at least a dozen people connected to the House Intelligence Committee back in 2017 and 2018. Among them are Congressman Adam Schiff,"
@@ -313,20 +409,6 @@ related:
         width: 869
         height: 434
         isCached: true
-  - title: "Russian accounts still active on pro-Trump sites -researchers"
-    excerpt: "A group believed to be Russian has remained active on internet services favored by far-right Americans, showing efforts to interfere in U.S. politics continue after the election, according to reports from social media research firm Graphika and nonprofit Advance Democracy Inc."
-    publishedDateTime: 2021-06-07T13:00:00Z
-    webUrl: "https://www.reuters.com/technology/russian-accounts-still-active-pro-trump-sites-researchers-2021-06-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/EU-UeRNbl9GNyodkJwyZ7ATzNdk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WAJHWC7A3RLYXI4LPO36KDRE6E.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Apple reaffirms privacy stance amid Trump probe revelations"
     excerpt: "Apple is seeking to protect its image as a guardian of personal privacy, maintaining it was blindsided and handcuffed by a Trump administration probe that resulted in the company handing over phone da"
     publishedDateTime: 2021-06-12T00:36:00Z
@@ -366,6 +448,47 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "A sense of relief over 'dear Joe' and post-Trump summit era"
+    excerpt: "For all of President Joe Biden’s decades on the diplomatic circuit, most of the world leaders he met in three summits over the past week were strangers to him"
+    publishedDateTime: 2021-06-15T19:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/sense-relief-dear-joe-post-trump-summit-era-78296591"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/sense-relief-dear-joe-post-trump-summit-era-78296591"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/sense-relief-dear-joe-post-trump-summit-era-78296591"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+  - title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
+    excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."
+    publishedDateTime: 2021-06-08T11:13:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-justice-department-e-jean-carroll-remarks/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-justice-department-e-jean-carroll-remarks/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-justice-department-e-jean-carroll-remarks/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/27/00b220c7-efcc-4ab4-80ce-259b963ce720/thumbnail/640x456g2/4560b5a2be120c52c53750c611ffdb40/screen-shot-2020-10-27-at-12-04-41-pm.png#"
+        width: 640
+        height: 456
+        isCached: true
+  - title: "Media leaders meet with attorney general about Trump-era phone record seizures"
+    excerpt: "Attorney General Merrick Garland is meeting with leaders from top media organizations today about the Trump-era Justice Department secretly seizing phone records of journalists. CBS News legal contributor Rebecca Roiphe joins \"CBSN AM\" to talk about the latest."
+    publishedDateTime: 2021-06-14T15:24:00Z
+    webUrl: "https://www.cbsnews.com/video/media-trump-leak-investigation-phone-records-attorney-general-merrick-garland/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/14/3760f0a7-9b48-484f-9bdf-8558f60269ac/thumbnail/1200x630/ced353b26b77006916e9966ebf379cf7/cbsn-fusion-media-organization-leaders-meet-with-ag-garland-about-leak-probes-thumbnail-734109-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A House Panel Will Investigate Trump DOJ Surveillance Of Lawmakers And Journalists"
     excerpt: "A Democratic-led committee will probe efforts by the Trump-era U.S. Department of Justice to seize metadata from devices belonging to members of Congress, journalists and the then-White House counsel."
     publishedDateTime: 2021-06-15T02:19:00Z
@@ -379,6 +502,34 @@ related:
       - url: "https://media.npr.org/assets/img/2021/06/14/gettyimages-1323059124_wide-96ea7f7cc862d7023bf43ad8d053f5ebd7917d62.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
+    excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
+    publishedDateTime: 2021-06-09T22:57:00Z
+    webUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/09/d9b8350a-27c7-4f0f-abb4-e6f0f08ba353/thumbnail/1200x630/1586e82cf3dcb5bdded8a03a277cd4fb/0609-en-kvc-731678-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Justice Department watchdog to investigate Trump administration's seizure of Democrats' phone data"
+    excerpt: "The internal watchdog of the Justice Department says it will investigate the Trump administration's seizure of communications records of two Democratic members of the House Intelligence Committee. The requests were made by former Attorney Generals Jeff Sessions and William Barr in their aggressive investigation to locate the source of leaks about Mr."
+    publishedDateTime: 2021-06-12T13:02:00Z
+    webUrl: "https://www.cbsnews.com/video/justice-department-watchdog-to-investigate-trump-administrations-seizure-of-democrats-phone-data/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 91
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/12/fd5b9cbf-9bff-4f48-9c0e-1b29913cb111/thumbnail/1200x630/8383da562bc52e931f338f16d0f53b94/0612-satmo-dojinvestigation-pegues-733307-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Emails show Donald Trump pressured Justice Department over 2020 election"
     excerpt: "During the last weeks of his presidency, Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of widespread 2020 election fraud, despite his former"
@@ -395,6 +546,38 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/06/Racial_Injustice_Trump_Photo_Op_84882-1.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump's Justice Department targeted Democrats in Congress in search for source of leaks related to the Russia investigation, New York Times reports"
+    excerpt: "Officials subpoenaed Apple for communications data of Reps. Adam Schiff and Eric Swalwell, as well as their families and staffers."
+    publishedDateTime: 2021-06-11T03:20:00Z
+    webUrl: "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-targeted-democrats-search-for-russia-intel-leaks-nyt-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/60c2b63023393a00188e2931?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "‘Pure insanity:’ Emails show how Trump pressured Justice Dept. over 2020 election"
+    excerpt: "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his term,"
+    publishedDateTime: 2021-06-15T15:07:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 85
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5cf19f1/2147483647/strip/true/crop/2000x1306+0+52/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa9%2Fef%2F6c9330784159c23bd60cc4f05a19%2F02d17f84ee654506b884c968ed055011"
+        width: 320
+        height: 209
         isCached: true
   - title: "Congress, Justice Dept. probing Trump seizures of Dems' data"
     excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
@@ -460,47 +643,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Twitter Reacts To Trump's Extremely Wrinkled Pants, Says It's Worn Backwards"
-    excerpt: "Trump appeared at a Republican convention wearing noticeably wrinkled pants Twitter users claim he wore his trousers backward Snopes later said Trump had been wearing the pants the right way Former President Donald Trump has been the subject of a Twitter storm after he made headlines this week over his attire at a Republican convention."
-    publishedDateTime: 2021-06-08T01:40:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/former-president-donald-trump-north-carolina-republican-partys-convention.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "Arizona's pro-Trump vote audit is prompting calls for — and against — federal intervention as threats of violence and political fallout loom"
-    excerpt: "Election-security experts are calling for DOJ to intervene in the Arizona 2020 vote audit. But there are concerns federal involvement could backfire."
-    publishedDateTime: 2021-06-10T15:43:00Z
-    webUrl: "https://www.businessinsider.com/arizona-election-audit-trump-update-doj-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-    images:
-      - url: "https://i.insider.com/60c2330323393a00188e275c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Emails Show Trump Pressured Justice Dept. Over 2020 Election"
-    excerpt: "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his term."
-    publishedDateTime: 2021-06-15T16:44:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Food Deliverer Posed As Trump's Family; Used Social Media Following To Steal Thousands"
     excerpt: "A 22-year old former food delivery worker was arrested this week for creating fake Twitter accounts of former President Trump's family members and duping MAGA supporters of money."
     publishedDateTime: 2021-06-10T11:23:00Z
@@ -517,16 +659,27 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "What happened when Donald Trump was banned from social media"
-    excerpt: "In an examination of Donald Trump's social media engagement both before and after he was banned from Facebook and Twitter, one thing was very clear: His most ardent supporters continued to spread his message when he was unable to"
-    publishedDateTime: 2021-06-07T18:55:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/?amp=1"
+  - title: "Trump Impeachment Lawyer Defending Man in Capitol Riot"
+    excerpt: "A lawyer who defended former President Donald Trump during his impeachment trial against a charge of inciting the riot at the U.S. Capitol is now representing a man charged alongside other members and associates of the far-right Oath Keepers extremist group in the Jan."
+    publishedDateTime: 2021-06-08T17:56:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-08/trump-impeachment-lawyer-defending-man-in-capitol-riot"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-08/trump-impeachment-lawyer-defending-man-in-capitol-riot?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-08/trump-impeachment-lawyer-defending-man-in-capitol-riot?context=amp"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Gov't Probe: Protest Not Broken up Because of Trump Photo Op"
+    excerpt: "An internal investigation has determined that the decision to clear racial justice protesters from an area in front of the White House last summer wasn't influenced by then-President Donald Trump’s plans for a photo opportunity at that spot."
+    publishedDateTime: 2021-06-09T17:34:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-09/govt-probe-protest-not-broken-up-because-of-trump-photo-op"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-09/govt-probe-protest-not-broken-up-because-of-trump-photo-op?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-09/govt-probe-protest-not-broken-up-because-of-trump-photo-op?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
   - title: "NY Times: Trump DOJ Investigated House Dems, Seized Data"
     excerpt: "House Speaker Nancy Pelosi and other top Democrats are calling for an investigation after The New York Times reported Thursday that the Justice Department under President Donald Trump seized communications data of members of the House intelligence committee."
@@ -550,6 +703,34 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump-appointed US Ambassador To Brazil Resigns"
+    excerpt: "The American ambassador to Brazil, Todd Chapman, a Donald Trump appointee seen as close to far-right President Jair Bolsonaro, said Thursday he had resigned in a letter to current US President Joe Biden."
+    publishedDateTime: 2021-06-10T19:18:00Z
+    webUrl: "https://www.ibtimes.com/trump-appointed-us-ambassador-brazil-resigns-3222800"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/10/brazilian-president-jair-bolsonaro-and-us-ambassador-to.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump DOJ Forced Apple To Hand Over Data Of Democrats In Congress: NYT"
+    excerpt: "Prosecutors in the US Justice Department under former president Donald Trump seized data from Apple from two Democratic lawmakers on the House Intelligence Committee, as well as that of their staff and family members,"
+    publishedDateTime: 2021-06-11T06:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-doj-forced-apple-hand-over-data-democrats-congress-nyt-3223334"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
+        width: 1024
+        height: 621
+        isCached: true
   - title: "Trump Surveillance Of Democrats Sparks Abuse Of Power Claims"
     excerpt: "Democrats erupted in outrage Friday over news that Donald Trump's Justice Department secretly surveilled lawmakers probing possible collusion with Russia, reaping the phone records of top political foes in what they called an unprecedented abuse of power."
     publishedDateTime: 2021-06-11T18:49:00Z
@@ -564,6 +745,20 @@ related:
         width: 1024
         height: 621
         isCached: true
+  - title: "Former President Donald Trump endorses Mike Carey in 15th Congressional District race"
+    excerpt: "Former President Donald Trump on Tuesday endorsed Mike Carey in the special election for Ohio's 15th Congressional District, giving Carey an edge in a contentious GOP primary."
+    publishedDateTime: 2021-06-09T01:51:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/former-president-donald-trump-endorses-mike-carey-in-15th-congressional-district-race/article_f5e1f380-71e0-50d8-a28f-f6fd9d4e485b.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 48
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. House Panel: Justice Department Documents Show Trump Pressed to Overturn 2020 Election"
     excerpt: "Documents obtained from the U.S. Department of Justice detail efforts by then President Donald Trump, his chief of staff and other allies to pressure the department to challenge the 2020 presidential election results,"
     publishedDateTime: 2021-06-15T11:19:00Z
@@ -573,6 +768,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 40
+  - title: "DOJ under former President Donald Trump investigated Democrats in investigation Speaker Nancy Pelosi called ‘weaponization of law enforcement’"
+    excerpt: "\"These actions appear to be yet another egregious assault on our democracy waged by the former president,\" House Speaker Nancy Pelosi said."
+    publishedDateTime: 2021-06-11T12:24:00Z
+    webUrl: "https://www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/doj-under-former-president-donald-trump-investigated-democrats-in-investigation-speaker-nancy-pelosi-called-weaponization-of-law-enforcement.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 39
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UW2EUO36LRCY3N7FSJLSOXIHDU.jpg"
+        width: 3301
+        height: 2201
+        isCached: true
   - title: "US Closes Trump-Era Office for Victims of Immigrant Crime"
     excerpt: "The Biden administration says it has dismantled a Trump-era goverment agency that was created help victims of crimes committed by immigrants."
     publishedDateTime: 2021-06-11T15:06:00Z
@@ -582,6 +793,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Trump Administration Subpoenaed Apple for Lawmakers' Data -New York Times"
+    excerpt: "The U.S. Justice Department under former President Donald Trump subpoenaed Apple Inc for data from the accounts of at least two Democrats on the House of Representatives Intelligence Committee in an attempt to find out who was behind leaks of classified information,"
+    publishedDateTime: 2021-06-11T01:32:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-10/trump-administration-subpoenaed-apple-for-lawmakers-data-new-york-times"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "qKwib0T4rDTqqHHBLshqHRuJ1hPbHTcdCLJmvb7GrSayS+wadPC7F3bmvUDDefYlxftRwOK4g0gA6qt+QBXw2woWQD6ce/0avWnrg/kUnu5l9ImyeRKIZ7I/T6lQItKDnGmcSRVjE94W+y6otgkQklVO9TLlHZODO+bFwBAJ9MnVf8qRNdxRSzKUYjB+wuh+PirmVkStK9JFhXSlUtv2KLRkNKqUttPwRrPaAUaAGwjELLiJVDjE2WFeQ94PG4xBfSOxp7NTIWiMVUM3fGZpDtiM0rbzFrvyLmPpKovMzi4lTiEG0SYaUjdzMA1rK5r3fHloSdz98L1rmIO/64z7q1XTIFO1fM+miS5hO3+xcXSlnwun9WWbg7ugF4gtTC/9FhsYSeT5DRekNxFaoTWaMa6Y4iEbOgGwhlMHAwSdKytUH3Y88RfKawtk58EmVGy6Xs944D1K9pQ3jMx6imBGFUuNSot52OmpOosEXkJhAOrEprsvDKOnM43QIQ5LztmB3U4gMsnGQ9bHg31zPQQAMQ==;ED8dOkuEuXYi2dLxSpeXzg=="
 ---

@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's summer tour to kick off with rally against Republican who voted to impeach him"
+    excerpt: "Donald Trump has scheduled the first stop on his long-promised revenge tour against Republicans who spurned him during his quest to overturn the 2020 election outcome and subsequent impeachment.\n    \n"
+    publishedDateTime: 2021-06-15T18:54:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwaRWKS0tWI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/trump-ohio-florida-rallies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/trump-ohio-florida-rallies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209104258-04-trump-1205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence says he and Trump may never see 'eye to eye' on Jan. 6 riot"
     excerpt: "Former Vice President Mike Pence addressed the Jan. 6 pro-Trump riot attack of the Capitol saying that he and former President Donald Trump may never see \"eye to eye\" on the event."
     publishedDateTime: 2021-06-04T02:53:00Z

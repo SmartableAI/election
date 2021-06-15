@@ -75,17 +75,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Trump Impeachment Lawyer Defending Man in Capitol Riot"
-    excerpt: "A lawyer who defended former President Donald Trump during his impeachment trial against a charge of inciting the riot at the U.S. Capitol is now representing a man charged alongside other members and associates of the far-right Oath Keepers extremist group in the Jan."
-    publishedDateTime: 2021-06-08T17:56:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-08/trump-impeachment-lawyer-defending-man-in-capitol-riot"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-08/trump-impeachment-lawyer-defending-man-in-capitol-riot?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-08/trump-impeachment-lawyer-defending-man-in-capitol-riot?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "z8Bp+b6yenGWzoSjWm1rlU+OURGvZWqzAcnUmz1D5UYWWQIo4qt5cwpIWTMPeU7Rw537qytQwE8mMdP1ek6p4+Ge+2GgA+z7yOdKVqv+UKN+GQze53lPixlvIPuKDqH1gamc6TS39eVFf8PgWSasHWE/0lDeYOyVr9yXkzCNbRs2BLRW/b+z5mSL6VVeP34/jxtwOVGCTqNpIrZve+w72wOqVd4aFBra32CV/AhwTjTFNMqMBaEEgyKuDpWXb1S/WdTj3/Va+Gczl9GW5srgIHAwkpf+jR0lVemg+g9/rlBGKALdrRYoqZul4XSfExrU0L9jWOkSSrXz3K5BjpK1lepJIKMjKUvh8gdbFpsZYgbwzV9Ez8T88wNR192o8iOM4blvUYonZRE+l57tqg2xs/PVAZCT3m2Y22nURwYZAGmasr1dOflXSt0KFIO0+66c/rz5Lup3xgDXMxI6bya9TdxLI2qSXnGll9H48oByg6T1o3sQdMmdltntDKCLPVqGkvdVhLjm6adPeDS908uKfw==;CoovVBZcmsS4yEGgKt39og=="
 ---

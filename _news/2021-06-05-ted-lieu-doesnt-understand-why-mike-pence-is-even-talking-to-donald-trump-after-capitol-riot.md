@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-e
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-lieu-doesnt-understand-why-mike-pence-even-talking-donald-trump-after-capitol-riot-1597858?amp=1"
 type: article
 quality: 138
-heat: 218
+heat: 198
 published: true
 
 provider:
@@ -76,17 +76,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Trump Impeachment Lawyer Defending Man in Capitol Riot"
-    excerpt: "A lawyer who defended former President Donald Trump during his impeachment trial against a charge of inciting the riot at the U.S. Capitol is now representing a man charged alongside other members and associates of the far-right Oath Keepers extremist group in the Jan."
-    publishedDateTime: 2021-06-08T17:56:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-08/trump-impeachment-lawyer-defending-man-in-capitol-riot"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-08/trump-impeachment-lawyer-defending-man-in-capitol-riot?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-08/trump-impeachment-lawyer-defending-man-in-capitol-riot?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "yhCK891XhYfRwhxTmXFTdhrXQAu2XaJdLObDtvCMU6SbrHGVFA8kL5VVPp0OZOkARxjm4QzXtLKT9h7YJhhc5rvBb56n2PXuXuC3VEJ6pqV3gojRiiEL5Ak/nh2wXFuIAACCwCFiWpNEjlaAXxzq7IEEg+q9GEKv/baGaxjlWpCKW/JFAUwaNeEa8fKdQW8OX9DSjhsEO8crFx1Ymbg80txYWmSRunOdU70LsBH2KtX4buYk+YTB23evYLhoVGFo8oaoih3WmGLM4dl5tnaEBMwX8meLiW9w3ktu6Z/LyOGjg4XrSEOf6Cgrb7NsRML6wRApihecVmLqR4C/1WMDKn1qybpEfLvsZJDB/iZxs0I=;Ea6Ok1vAhD6o7fwUzlbj3w=="
 ---

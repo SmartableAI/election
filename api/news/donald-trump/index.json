@@ -50,21 +50,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-15-pure-insanity-emails-show-how-trump-pressured-justice-dept-over-2020-election.md",
-      "title": "‘Pure insanity:’ Emails show how Trump pressured Justice Dept. over 2020 election",
-      "excerpt": "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his term,",
+      "path": "_news/2021-06-15-emails-show-trump-pressured-justice-dept-over-2020-election.md",
+      "title": "Emails show Trump pressured Justice Dept. over 2020 election",
+      "excerpt": "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his ter",
       "sourceUrl": null,
-      "webUrl": "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election",
-      "originalUrl": "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election",
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 1200,
       "tags": null,
       "images": [
         {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/5cf19f1/2147483647/strip/true/crop/2000x1306+0+52/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa9%2Fef%2F6c9330784159c23bd60cc4f05a19%2F02d17f84ee654506b884c968ed055011",
-          "width": 320,
-          "height": 209,
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -72,14 +72,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election?_amp=true",
-      "cdnAmpWebUrl": "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-06-15/emails-show-trump-pressured-justice-dept-over-2020-election?_amp=true",
-      "publishedDateTime": "2021-06-15T08:07:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
+      "publishedDateTime": "2021-06-15T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "San Diego Union-Tribune",
-        "domain": "sandiegouniontribune.com",
-        "images": null,
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -153,7 +162,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-furious-with-gop-candidates-falsely-claiming-he-endorsed-them-2021-6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -177,110 +186,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-us-election-officials-still-plagued-by-threats-for-certifying-trump-defeat.md",
-      "title": "US election officials still plagued by threats for certifying Trump defeat",
-      "excerpt": "A barrage of death threats against officials and volunteers from ex-president’s supporters could make recruiting poll workers harder",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/14/us-election-officials-threats-trump-defeat",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/14/us-election-officials-threats-trump-defeat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 898,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d73964ad17680ad1151e6c230004ac94a9277465/0_4_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dfcb1b506255a68725b213b5dfaf32fe",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/14/us-election-officials-threats-trump-defeat",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/14/us-election-officials-threats-trump-defeat",
-      "publishedDateTime": "2021-06-14T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-media-leaders-meet-with-attorney-general-about-trump-era-phone-record-seizures.md",
-      "title": "Media leaders meet with attorney general about Trump-era phone record seizures",
-      "excerpt": "Attorney General Merrick Garland is meeting with leaders from top media organizations today about the Trump-era Justice Department secretly seizing phone records of journalists. CBS News legal contributor Rebecca Roiphe joins \"CBSN AM\" to talk about the latest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/media-trump-leak-investigation-phone-records-attorney-general-merrick-garland/",
-      "originalUrl": "https://www.cbsnews.com/video/media-trump-leak-investigation-phone-records-attorney-general-merrick-garland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/14/3760f0a7-9b48-484f-9bdf-8558f60269ac/thumbnail/1200x630/ced353b26b77006916e9966ebf379cf7/cbsn-fusion-media-organization-leaders-meet-with-ag-garland-about-leak-probes-thumbnail-734109-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-14T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -409,7 +314,7 @@
       "originalUrl": "https://www.washingtonpost.com/video/politics/lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell/2021/06/13/20c5bdba-01b1-43b7-9c31-72fa426d2001_video.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -817,7 +722,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -964,7 +869,7 @@
       "originalUrl": "https://abcnews.go.com/International/wireStory/trump-appointed-ambassador-brazil-resigns-14-months-78199990",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1220,7 +1125,7 @@
       "originalUrl": "https://thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat",
       "featuredContent": null,
       "highlight": null,
-      "heat": 600,
+      "heat": 640,
       "tags": null,
       "images": [
         {
@@ -1368,21 +1273,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-09-nigerias-twitter-ban-donald-trump-hails-buhari.md",
-      "title": "Nigeria's Twitter ban: Donald Trump hails Buhari",
-      "excerpt": "Former US president Donald Trump has praised Nigeria's government for banning Twitter after it deleted President Muhammadu Buhari's post for breaching its rules. \"Who are they to dictate good and evil,",
+      "path": "_news/2021-06-09-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to-follow.md",
+      "title": "Trump backs Nigeria banning Twitter, calls for other countries to follow",
+      "excerpt": "Former President Trump on Tuesday applauded Nigeria’s Twitter ban and called on other countries to follow suit.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-africa-57408179.amp",
-      "originalUrl": "https://www.bbc.com/news/world-africa-57408179.amp",
+      "webUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to",
+      "originalUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BCCF/production/_118853384_gettyimages-953303198.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://thehill.com/sites/default/files/trumpdonald_093020getty_trump-legal.jpg",
+          "width": 980,
+          "height": 580,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1390,16 +1295,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-africa-57408179.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-africa-57408179.amp",
-      "publishedDateTime": "2021-06-09T01:31:00-07:00",
+      "ampWebUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp",
+      "publishedDateTime": "2021-06-08T16:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1509,6 +1414,110 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-donald-trump-calls-bitcoin-a-scam-against-the-dollar.md",
+      "title": "Donald Trump calls Bitcoin 'a scam against the dollar'",
+      "excerpt": "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-57392734.amp",
+      "originalUrl": "https://www.bbc.com/news/business-57392734.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BA93/production/_118836774_trump1.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-57392734.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp",
+      "publishedDateTime": "2021-06-07T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch.md",
+      "title": "A refugee agency rebuilds its pipeline after Trump: 'We're starting from scratch'",
+      "excerpt": "RELATED: Faith-based refugee resettlement groups describe what it will take to rebuild program after Trump cuts Friends and family collected winter coats for the girl and dropped off a stack of Christmas presents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/a-refugee-agency-rebuilds-its-pipeline-after-trump-were-starting-from-scratch/2021/06/07/6f09ad1a-c7c4-11eb-8708-64991f2acf28_story.html?outputType=amp",
+      "publishedDateTime": "2021-06-07T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

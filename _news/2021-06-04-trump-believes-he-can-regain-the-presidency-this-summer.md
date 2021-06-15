@@ -59,38 +59,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Just over half in new poll support Facebook's suspension of Trump"
-    excerpt: "A slim majority of Americans surveyed in a new poll said they support a recent decision by Facebook to extend a suspension of former President Trump Donald Trump Biden DOJ adopts Trump's ..."
-    publishedDateTime: 2021-06-08T11:39:00Z
-    webUrl: "https://thehill.com/policy/technology/557270-just-over-half-in-new-poll-support-facebooks-suspension-of-trump"
-    ampWebUrl: "https://thehill.com/policy/technology/557270-just-over-half-in-new-poll-support-facebooks-suspension-of-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557270-just-over-half-in-new-poll-support-facebooks-suspension-of-trump?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_112620getty_trump-gop.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "New Jersey voters to select GOP governor nominee after Trump-filled primary"
-    excerpt: "New Jersey Republicans will select a challenger to Gov. Phil Murphy (D) on Tuesday after a primary that focused on how candidates would prevent future pandemic lockdowns and whether they had done enough to support Donald Trump’s reelection bid."
-    publishedDateTime: 2021-06-08T10:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/new-jersey-election-republican-governor/2021/06/07/5dd49334-c7c4-11eb-afd0-9726f7ec0ba6_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6YDOV3GH4QI6XANRGR4WY44TV4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Facebook will end special treatment for politicians after Trump ban - report"
     excerpt: "Reported change comes after the Facebook oversight board said that the same rules should apply to all users"
     publishedDateTime: 2021-06-03T21:23:00Z
@@ -134,35 +102,19 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
-    excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."
-    publishedDateTime: 2021-06-08T11:13:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-justice-department-e-jean-carroll-remarks/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-justice-department-e-jean-carroll-remarks/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-justice-department-e-jean-carroll-remarks/"
+  - title: "Russian accounts still active on pro-Trump sites -researchers"
+    excerpt: "A group believed to be Russian has remained active on internet services favored by far-right Americans, showing efforts to interfere in U.S. politics continue after the election, according to reports from social media research firm Graphika and nonprofit Advance Democracy Inc."
+    publishedDateTime: 2021-06-07T13:00:00Z
+    webUrl: "https://www.reuters.com/technology/russian-accounts-still-active-pro-trump-sites-researchers-2021-06-07/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 103
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/27/00b220c7-efcc-4ab4-80ce-259b963ce720/thumbnail/640x456g2/4560b5a2be120c52c53750c611ffdb40/screen-shot-2020-10-27-at-12-04-41-pm.png#"
-        width: 640
-        height: 456
-        isCached: true
-  - title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
-    excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
-    publishedDateTime: 2021-06-09T22:57:00Z
-    webUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/09/d9b8350a-27c7-4f0f-abb4-e6f0f08ba353/thumbnail/1200x630/1586e82cf3dcb5bdded8a03a277cd4fb/0609-en-kvc-731678-640x360.jpg"
+      - url: "https://www.reuters.com/resizer/EU-UeRNbl9GNyodkJwyZ7ATzNdk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WAJHWC7A3RLYXI4LPO36KDRE6E.jpg"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
   - title: "Trump Told Allies He'll Run For President In 2024 Under One Condition: Report"
     excerpt: "Trump’s political ambitions \"are making some congressional Republicans anxious,\" according to interviews conducted by Politico with 20 Republicans in both the House and Senate."
@@ -180,6 +132,22 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Twitter Reacts To Trump's Extremely Wrinkled Pants, Says It's Worn Backwards"
+    excerpt: "Trump appeared at a Republican convention wearing noticeably wrinkled pants Twitter users claim he wore his trousers backward Snopes later said Trump had been wearing the pants the right way Former President Donald Trump has been the subject of a Twitter storm after he made headlines this week over his attire at a Republican convention."
+    publishedDateTime: 2021-06-08T01:40:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-trumps-extremely-wrinkled-pants-says-its-worn-backwards-3219728?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/former-president-donald-trump-north-carolina-republican-partys-convention.jpg"
+        width: 1024
+        height: 680
+        isCached: true
   - title: "Back On Stage, Trump Airs Conspiracies And Flirts With 2024 Run"
     excerpt: "Former US president Donald Trump returned to the spotlight Saturday for his first speech in months, framing next year's midterm elections as a battle for the \"survival of America\" -- but keeping followers guessing on his own plans for 2024."
     publishedDateTime: 2021-06-06T02:54:00Z
@@ -194,6 +162,17 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "What happened when Donald Trump was banned from social media"
+    excerpt: "In an examination of Donald Trump's social media engagement both before and after he was banned from Facebook and Twitter, one thing was very clear: His most ardent supporters continued to spread his message when he was unable to"
+    publishedDateTime: 2021-06-07T18:55:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/what-happened-when-donald-trump-was-banned-from-social-media/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "ve41VPtJgFaN1yDokm5ikpBu1uL07VBlQYDoayf7t36UxE1VlB3nSBLyVGaYjf/H5Gg0gMXrwhbYUpKeLQoz2oW4g9pD4d7TL9AEQf6kgQvEOD9tQIQX8xENnPsS6tijurI6q3pTZBNiPR3yE39rFSfuT2URAOIYEslC1yXVdCugUMKmZ9VpzU7P4jo2hBit7NRuaAdTRss5LJWgQRIx4G6TjWy5A7/nfXI8844lI+zYTeLgJEQKULLUx6mU7OY3ehMriJTzaGtpTD9gUCR81ErGWlhshxJSkfrcO2IaO6SOvswwh5m4bSDCatOMkIOujcumb7hLNEUG/QXN0QalXpOjyXusgj+luWJvBBAeVZA=;HrHGGYzf6F5Q7DA7+AygqQ=="
 ---

@@ -191,6 +191,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Has Nominated 24 Federal Judges In His First 150 Days As President, Compared to Trump's 15"
+    excerpt: "President Biden's fourth round of nominations for federal and district courts was announced on Tuesday. Biden has nominated federal judges at record speeds, surpassing Trump's number of nominations in the same amount of time."
+    publishedDateTime: 2021-06-15T19:43:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-has-nominated-24-federal-judges-his-first-150-days-president-compared-trumps-15-1600985"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-has-nominated-24-federal-judges-his-first-150-days-president-compared-trumps-15-1600985?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-has-nominated-24-federal-judges-his-first-150-days-president-compared-trumps-15-1600985?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1822024/president-joe-biden-smiles.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden, E.U. eliminate long-running aircraft trade dispute, but other Trump tariffs still stand in the way"
     excerpt: "Biden is meeting with E.U. leaders in Brussels Tuesday, but all the Trump-era disputes won’t be resolved immediately."
     publishedDateTime: 2021-06-15T10:25:00Z
@@ -222,6 +238,20 @@ related:
       - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "DOJ rebuffed Trump bid to overturn election"
+    excerpt: "Top News DOJ rebuffed Trump bid to overturn election. Posted . Former President Donald Trump pressed the Justice Department during his waning weeks in office to join his failed ef"
+    publishedDateTime: 2021-06-15T19:10:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEHIP0IN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210615&i=OVEHIP0IN&r=OVEHIP0IN&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Biden restores $929 mln for California high-speed rail withheld by Trump"
     excerpt: "The Biden administration late on Thursday restored a $929 million grant for California's high-speed rail that former President Donald Trump revoked in 2019."

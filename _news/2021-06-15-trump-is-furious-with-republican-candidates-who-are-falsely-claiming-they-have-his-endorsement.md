@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-furious-with-gop-candidates-fa
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-furious-with-gop-candidates-falsely-claiming-he-endorsed-them-2021-6?amp"
 type: article
 quality: 113
-heat: 113
+heat: 133
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Trump says he has rejected book deals from 'two of the biggest and most prestigious publishing houses'"
+    excerpt: "Former President Trump said he rejected book deals from “two of the biggest and most prestigious publishing houses,” amid reports that top publishing companies are skeptical of landing a deal with him"
+    publishedDateTime: 2021-06-15T19:52:00Z
+    webUrl: "https://thehill.com/homenews/administration/558576-trump-says-he-has-rejected-book-deals-from-two-of-the-biggest-and"
+    ampWebUrl: "https://thehill.com/homenews/administration/558576-trump-says-he-has-rejected-book-deals-from-two-of-the-biggest-and?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/558576-trump-says-he-has-rejected-book-deals-from-two-of-the-biggest-and?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 109
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_060521upi3_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "5lxT5EcvCLtd9tEbDbGzP2BE60CofZmj+xVhJaYMCEISRS/gDd7mY5F7n22RFOFqlmhTrP3qtKcebxmBvW/Ill7nyQvrAEQzeRC6mQug5FHw82WZIevfFd73+DXeWIeCiDcuFb/H7Q4zUWgMNtwOAntPN9FCVOVBJHaDmtuPlIhT9c5vEaxKaaMfs4dUlBQXwXFGb9NjbTka+fUJxjR7oitSPN0M0ikN6rRYP3QZ6ZFVPThpfJDDlqBoIalnTcG33he0y6bbpjHDaNbL1KAKEOmLVbO+2dMQowQkaS8kN77jBBVIoG59HXVa/nuSDAzi+Zuw4AjziQ4l8Ot1JH7L/Ii+6vLON776fvWKvjIcW+K8kFyRpDPWWIrAy/3GR0dIyXDoFc5rjZMASRUJ2DUXX2IoN9EnUO44/j44c7TLnebUYagM6JPME9dX+M4ibJS/oiuNGwzHT9fpxFfO1Ymb4oaft7ilFb0flxmagp3zrl/lyKpvgwov+40AgF7+9rTM3btYrcxSQpn6cst3qq+KtQ==;ZZEMd3YarMDYQcQAAeuxpw=="
 ---

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Biden and Putin won't hold a joint press conference"
+    excerpt: "When US President Joe Biden and Russian President Vladimir Putin gather for their highly anticipated summit in Geneva on Wednesday, it will come at a time that both leaders say is a low point for relations between their two countries. So, perhaps unsurprisingly, a joint press conference following the"
+    publishedDateTime: 2021-06-15T18:34:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cit1X6DvJJI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/why-biden-and-putin-will-not-hold-a-joint-press-conference/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/why-biden-and-putin-will-not-hold-a-joint-press-conference/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614181332-12-nato-summit-biden-0614-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden and Johnson to agree to new Atlantic Charter during bilateral meeting "
     excerpt: "President Joe Biden and UK Prime Minister Boris Johnson are expected on Thursday to agree to a new Atlantic Charter modeled on the historic declaration made by President Franklin D. Roosevelt and Prime Minister Winston Churchill in 1941 that set out American and British goals for the world after the"
     publishedDateTime: 2021-06-09T21:33:49Z

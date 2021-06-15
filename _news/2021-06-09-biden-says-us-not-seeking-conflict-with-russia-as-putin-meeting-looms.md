@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b8be70-6089-4102-ba58-362e44a8a4a3/7110526e-323f-4439-b4fc-5bf2b6009b8f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden's Bumbling on World Stage Is Boosting Our Foes"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-15T18:44:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/15/bidens_bumbling_on_world_stage_is_boosting_our_foes_545072.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/545793_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "BsXA5ypfKVmmQRv7HF8MAkvXnuT1/gqVJxBdDdp/2ekJ7028uOOqx4Tw8aDLSdNLUi8/lYDuVSn7tdRktUMZXPLyVE7BDY8GfrXqw5U/wDME5LxkfOH6TH6Nw/HtREFNn+Bn0b5QIoqFYCmIO5j7TcLX11NhWKRni/dGhoAro5wU8jbBWAlZVlOmDLJo2npI4t0aVHhX1VfNHQ7ElevQYqZDP05gZQPC3jOYEaMNag+VvQtuipOWdj+/Kh6/JvIgVnWGaRabciDzVJtDcnPQN7AK6weKn5CO7Aad0F3uhfws4OXlxSPhMOc9LfdNvZx5EeRcxuba1WAD4Lda6x2xXc3aI/3FjtNdbWCE+avyxyQ=;Al71IPAEdEESnoAtoKpGyQ=="

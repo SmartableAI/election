@@ -135,17 +135,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Gov't Probe: Protest Not Broken up Because of Trump Photo Op"
-    excerpt: "An internal investigation has determined that the decision to clear racial justice protesters from an area in front of the White House last summer wasn't influenced by then-President Donald Trump’s plans for a photo opportunity at that spot."
-    publishedDateTime: 2021-06-09T17:34:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-09/govt-probe-protest-not-broken-up-because-of-trump-photo-op"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-09/govt-probe-protest-not-broken-up-because-of-trump-photo-op?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-09/govt-probe-protest-not-broken-up-because-of-trump-photo-op?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Trump Speaking at NC GOP Meeting; Dems Plan 'Day of Action'"
     excerpt: "Donald Trump is coming to the Republican Party’s annual convention in North Carolina, a state whose electoral votes he won in 2016 and 2020."
     publishedDateTime: 2021-06-05T09:30:00Z

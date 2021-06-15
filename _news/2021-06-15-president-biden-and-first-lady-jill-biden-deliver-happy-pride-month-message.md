@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Biden and Putin won't hold a joint press conference"
+    excerpt: "When US President Joe Biden and Russian President Vladimir Putin gather for their highly anticipated summit in Geneva on Wednesday, it will come at a time that both leaders say is a low point for relations between their two countries. So, perhaps unsurprisingly, a joint press conference following the"
+    publishedDateTime: 2021-06-15T18:34:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cit1X6DvJJI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/why-biden-and-putin-will-not-hold-a-joint-press-conference/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/why-biden-and-putin-will-not-hold-a-joint-press-conference/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614181332-12-nato-summit-biden-0614-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Sen. Josh Hawley holds up Biden personnel nominee over critical race theory"
     excerpt: "Senate Republicans are holding up President Joe Biden's nominee to lead the Office of Personnel Management over concerns about her stance on critical race theory.\n    \n"
     publishedDateTime: 2021-06-09T02:52:27Z

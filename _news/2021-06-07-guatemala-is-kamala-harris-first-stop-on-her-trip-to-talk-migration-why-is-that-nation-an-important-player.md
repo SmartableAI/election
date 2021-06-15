@@ -311,6 +311,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris announces $1.2 billion for community lenders"
+    excerpt: "The $1.2 billion Rapid Recovery Program announced by Vice President Kamala Harris will help enable community financial institutions loan money to small businesses, primarily in minority communities. The effort is part of a larger $12 billion in funding for community and minority financial institutions passed as part of COVID-19 relief in December."
+    publishedDateTime: 2021-06-15T18:45:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-rapid-recovery-program-for-community-lenders/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/15/794a942c-04ae-4ae9-9b6b-70cdd9f290a4/thumbnail/1200x630/5c7b46c2d7eca0147c98f183599ab069/cbsn-fusion-vice-president-kamala-harris-announces-12-billion-for-community-lenders-thumbnail-735089-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris tells migrants 'do not come' during talks in Guatemala – video"
     excerpt: "Do not come’: speaking in Guatemala, Kamala Harris gives a blunt message to people thinking of crossing into the US"
     publishedDateTime: 2021-06-07T20:24:00Z
@@ -727,6 +741,20 @@ related:
       - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
         width: 360
         height: 360
+        isCached: true
+  - title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
+    excerpt: "United States Vice President Kamala Harris announces the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
+    publishedDateTime: 2021-06-15T19:21:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/455fa5f603f4e6f42e9d119072ab1a59/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/455fa5f603f4e6f42e9d119072ab1a59/HARRIS-RECOVERY.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."

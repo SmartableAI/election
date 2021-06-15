@@ -111,6 +111,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's Bumbling on World Stage Is Boosting Our Foes"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-15T18:44:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/15/bidens_bumbling_on_world_stage_is_boosting_our_foes_545072.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/545793_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "9hTZ5HTZwueqQWR+5LfIcCb8iNsjBSkfuDAM9QdR1xcnGBg23eaDIcEx4U+67GvuAmTMymRxlbzOpzXTtJgUy2htHWRXMgwQL4G2CWI2wLSAno/ozEqRM6NPjph1JwzvX3jl1YBZYyow9PiMawg3oxhq9TZAz/Yhya2J8+IGoRXxjJRohYOLq8lDNevdv0l1kgO+1LQUkI54DP/cahtdCBYU+KgSF1aTB88S6kgkW32zdKWGekajE67/AAeY9KUqlqrdhZzUq36mY7cTRBgXFmkukdzyzYTWchlJ4U9fY4mg2n0dialRs58TCNV/V8P859+ynXixuRpQxo2lSiaHxCvTQDpTTA+TcEpapH9aeqA=;tHxHke01EUSUBlKN34P0dw=="
 ---

@@ -147,17 +147,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Gov't Probe: Protest Not Broken up Because of Trump Photo Op"
-    excerpt: "An internal investigation has determined that the decision to clear racial justice protesters from an area in front of the White House last summer wasn't influenced by then-President Donald Trump’s plans for a photo opportunity at that spot."
-    publishedDateTime: 2021-06-09T17:34:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-09/govt-probe-protest-not-broken-up-because-of-trump-photo-op"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-09/govt-probe-protest-not-broken-up-because-of-trump-photo-op?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-09/govt-probe-protest-not-broken-up-because-of-trump-photo-op?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Donald Trump: Speaks at NCGOP state convention in Greenville | Raleigh News & Observer"
     excerpt: "I understand the place will be packed, all records broken!” former President Trump said of his upcoming speech in Greenville, North Carolina."
     publishedDateTime: 2021-06-04T17:14:00Z
