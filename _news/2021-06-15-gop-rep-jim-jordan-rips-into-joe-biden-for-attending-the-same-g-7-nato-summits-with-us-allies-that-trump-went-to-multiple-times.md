@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Biden Says Republican Party Numbers 'Vastly Diminished' Under Trump"
-excerpt: "U.S. President Joe Biden views the Republican Party as vastly diminished in numbers even as it remains in lockstep with the man he defeated, former President Donald Trump. \"The leadership of the Republican Party is fractured and the Trump wing of the party is the bulk of the party,"
-publishedDateTime: 2021-06-14T22:03:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-06-14/biden-says-republican-party-numbers-vastly-diminished-under-trump"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-14/biden-says-republican-party-numbers-vastly-diminished-under-trump"
+title: "GOP Rep. Jim Jordan rips into Joe Biden for attending the same G-7, NATO summits with US allies that Trump went to multiple times"
+excerpt: "Jordan, a conservative lawmaker and staunch ally of former President Donald Trump, took to Twitter to blast Biden for attending diplomatic summits in Europe."
+publishedDateTime: 2021-06-14T20:04:00Z
+originalUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6"
+webUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6"
+ampWebUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
 type: article
-quality: 50
+quality: 111
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Biden revokes Trump executive orders targeting TikTok and WeChat"
@@ -227,22 +235,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "GOP Rep. Jim Jordan rips into Joe Biden for attending the same G-7, NATO summits with US allies that Trump went to multiple times"
-    excerpt: "Jordan, a conservative lawmaker and staunch ally of former President Donald Trump, took to Twitter to blast Biden for attending diplomatic summits in Europe."
-    publishedDateTime: 2021-06-14T20:04:00Z
-    webUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Fact Check-Donald Trump remains suspended from Facebook and Instagram"
     excerpt: "Claims that former President Donald Trump has returned to Facebook and Instagram after being banned months ago are false. Representatives from Facebook, the parent company of Instagram, confirmed in an email to Reuters the former president remains off both platforms."
     publishedDateTime: 2021-06-04T18:55:00Z
@@ -341,6 +333,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Biden Says Republican Party Numbers 'Vastly Diminished' Under Trump"
+    excerpt: "U.S. President Joe Biden views the Republican Party as vastly diminished in numbers even as it remains in lockstep with the man he defeated, former President Donald Trump. \"The leadership of the Republican Party is fractured and the Trump wing of the party is the bulk of the party,"
+    publishedDateTime: 2021-06-14T22:03:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-14/biden-says-republican-party-numbers-vastly-diminished-under-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "Joe Biden is meeting with the G-7 on his first presidential trip abroad. What is the G-7 and what do they do?"
     excerpt: "Biden will attend the G-7 summit on his trip to Europe. Other stops include visits to Queen Elizabeth II and Russian President Vladimir Putin."
     publishedDateTime: 2021-06-11T10:26:00Z
@@ -351,6 +352,6 @@ related:
       domain: indystar.com
     quality: 16
 
-secured: "qpoTBl+HLEz4PAhie/FWbuFWbQzj1A4LmmFY7FbhlHbH+p4SqJAoDu+4D6Xi+6AZEerLhjJwEs8X6dZ1BQE438psRSdSzFP81EK53SMClLfJC8C85s9HMw1KzB5jwS2GTZAJWWG2hBQJ6tARXrtxdH2c9ACK6VJPR9MMR29P5Fg5KZb135hq8DkUzFbscjMst18L9f/hgjheQ6RlTgWhoS0B0J+4HZNKIQr1RrteLNiSHfzfn+49a3WQ/p0oX0Y67cT7KFghJoeZWaVN3yY/WNRWC72LjwnmnuCUB4OH3YHCaNnYq944LlcVEWVs7yqlUnJwpuwdOi5llo4qcaAV+UUw5v/2c8qm+/ehP4WzZpCMsAqLaXKWPqPw63ubIIq4v+GFvt+d+WOgNOeRx9UenTRNaToyB/7E9zujx54e9lDZEQ5uQUK7FL8I+IEsaby2y+Z6qzQ6O/wkCgSVwLiObWrNEFcpMx5lctr0wyirHZjzvGproiYnkDUOCxQCoNEpVYjXf6sktm/AJtyU39HYWQ==;b1fUomz7f8NSMlWyPs6K7w=="
+secured: "ejZG8AX1IKqyaGLCmlbz5cbwlo+U1zBlzA+x0vD5cFZLki0OlJ/j23RE/ozDRRRp80bRFa3NCoOS9STSXUBWFvqUJh62CeSmaQ40p719kbs41FrnTijOtaqtG6nv30H0hX52aO6Nln7rLOEBj2VP7VrWHgjxoTD18bM4S4yZ7RRESaPXTGSJ/vwLVwaJVHwiNAexThPjB7EvPeyOs9Yl1uey3R4fCLpN+rak8Ufl2P99sj7ttx8SHIAouHEmT3UEYfWiDRamnZiYFnsdbRXUFzU8ARXdpOTfYBSSaunr8l6qKpF5Q/axRIZlLN4MoqsoioxaxLPSUt74Bcbu946pDzDzx0QC29BLVQ2jum6yEHU=;c6jfmMR0S4vjr9faFYfowg=="
 ---
 

@@ -229,6 +229,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "GOP Rep. Jim Jordan rips into Joe Biden for attending the same G-7, NATO summits with US allies that Trump went to multiple times"
+    excerpt: "Jordan, a conservative lawmaker and staunch ally of former President Donald Trump, took to Twitter to blast Biden for attending diplomatic summits in Europe."
+    publishedDateTime: 2021-06-14T20:04:00Z
+    webUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jim-jordan-biden-europe-g7-nato-us-mexico-border-immigration-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Lawmakers preview Biden's summit with Putin"
     excerpt: "Secretary of State Anthony Blinken and lawmakers on June 13 outlined the challenge President Joe Biden will face in his upcoming Geneva meeting with Russian President Vladimir Putin."
     publishedDateTime: 2021-06-13T17:34:00Z

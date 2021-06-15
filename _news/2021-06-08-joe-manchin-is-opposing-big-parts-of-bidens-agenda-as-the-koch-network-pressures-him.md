@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Joe Biden meets Nato leaders and Turkish president Erdoğan – US politics live"
     excerpt: "President continues European trip with summit in Brussels – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-14T14:55:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c776438f0801e93ba5a3dc"
+    publishedDateTime: 2021-06-14T14:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c76b668f089956fec8c06e"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
     type: article
@@ -75,9 +75,9 @@ related:
       domain: theguardian.com
     quality: 122
     images:
-      - url: "https://i.guim.co.uk/img/media/f6c6469fe0412060410bde9479227097557a8be2/0_0_3200_2128/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f33bc204b677e8e4a8f3bf452678da43"
+      - url: "https://i.guim.co.uk/img/media/53718d4169d73869109855a29b2e8259b6f53b09/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f4eecd5bc0b0c2214b9d7fbf06e0cade"
         width: 600
-        height: 400
+        height: 360
         isCached: true
   - title: "Is Joe Biden Making a 14th Grade? President Said 12 Years of Education No Longer Enough"
     excerpt: "A popular video released on June 1 on Instagram incorrectly said that Biden intends to extended high school education by four more years."

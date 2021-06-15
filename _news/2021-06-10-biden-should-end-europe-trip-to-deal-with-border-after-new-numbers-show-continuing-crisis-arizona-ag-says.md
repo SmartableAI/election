@@ -45,6 +45,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "LIVE UPDATES: Biden to meet with European Union leaders as his overseas trip continues"
+    excerpt: "Joe Biden is scheduled to meet with European Union leaders in Brussels on Tuesday as his first presidential overseas trip continues."
+    publishedDateTime: 2021-06-15T05:46:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pam7UszPaUk/live-updates-biden-meet-european-union-leaders-overseas-trip-continues"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-meet-european-union-leaders-overseas-trip-continues.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-meet-european-union-leaders-overseas-trip-continues.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2411cae0-9c18-4a55-abf0-2cae2c64bb7d/a9cabb4f-5ce4-40c3-84ca-8a10a3d1e0ba/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "aoYU8I9Bd0NFKPvdMfoQp4soi+VAZTRX/1FhPD5N18ELErUbJS0wLVP6zcBhMHndE40Z9kOB01eqC3gl/kCTh8wQHh56aCQtDEvDT82xzY8gn57Oq2FKQHrOHVKfjLf1OmQpiNrE4u8voxffYXsT3dV2SW9jlo8XWcC/RS1aC6fyLynRHcAtPdzV6q1VVo26VqIM5/Z4sZs2/NFTr/iNpSYoluSzDnw7xlvJ1lMg2/epj62RcCCMftCY6onpqRNro2oHfyWJp3MH7Lr2BSoypHGDdqm0e6wt+JpDoc91D2HzhW3KKWCAiviBIvXcN8RvF3XKHz2EyvMTH/l03X6muIDz8K6HQ+MbZ+o3h1720lU=;vryvbFf7qqjceUXAcXgB3Q=="
 ---

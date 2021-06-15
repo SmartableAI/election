@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden meets Nato leaders and Turkish president Erdoğan – US politics live"
 excerpt: "President continues European trip with summit in Brussels – follow all the day’s politics news live"
-publishedDateTime: 2021-06-14T14:55:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c776438f0801e93ba5a3dc"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c776438f0801e93ba5a3dc"
+publishedDateTime: 2021-06-14T14:33:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c76b668f089956fec8c06e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live?page=with:block-60c76b668f089956fec8c06e"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
 type: article
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/f6c6469fe0412060410bde9479227097557a8be2/0_0_3200_2128/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f33bc204b677e8e4a8f3bf452678da43"
+  - url: "https://i.guim.co.uk/img/media/53718d4169d73869109855a29b2e8259b6f53b09/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f4eecd5bc0b0c2214b9d7fbf06e0cade"
     width: 600
-    height: 400
+    height: 360
     isCached: true
 
 related:
@@ -96,6 +96,6 @@ related:
         height: 1999
         isCached: true
 
-secured: "Aa4OMMrxfMlX4NYnR/n9O8JSqaqG8KnWaczjEV+p4AnA2MG3ExNZZ+CV17QG1X8TtqMxtvXzj1NhHEhFq9EQsazkooX5HTDysCcdPaaPRQdVN6OGqZDieo7QEcQ4sE5UPrGO6mUus0BJx1nQD9Mt2w9hjFldn/P8qd5AoFIYrjPQG002vkaiHbooRs8bzd484invcEiVsPR7rC1osYcOhF0HIr99KWgkFWpNKeWE0GwnjBZ0PZGROCv5GlmgLOCxZCxNamMMJoYqHPy6n/r3/kZ++I0K5wxsYMA6lrLLrHODIHqD9FTDSCKJAnU67jvRUTgNMdt4093PadD82opw+lnz+8o5bHfKL3v6bt/1h4MlMjNX9hDct+PYnSe98YmE3VLif7hI0c1q7qZEcQz1s8jz7CHWTsMAbT3VEVYg5T6R4PcgfgR+33BnGB9njLiZ1i0Abuvjwtefg5jXPWsSdRbfs+RNW2Ff7YiPCSgoKngB704H28Q9PVCfQGEDO+cxxGPBHgU41fnlnn2D2F0IwQ==;At1cu6IySuIIvFzaPr6sog=="
+secured: "gt1aLzNPFxAyp+QtG0xEzNdTLjkYQ4cb4yAkX559x/qE3YLXVthVruo0LjN+YiUCdnrY/qYIef7plDg2NyQMMYDu5Vf4oK1qyL559j3WjtvUTfFdn02fRQcBRWwv3C9TwcEjLoD7vnTZttrRVwcvk6y6RIyT6Fo0OTTcgV69C4x5V3clQXxreOBAvMoo3X+3eTduHIouDTnXhi3XHT7Z7xUUnr68feTKS96VTU60ZBaSwPSLEwInC/2FaNJuEiaXN960J44oAWcuWSDjhucNW4uKG5u/PDNG8kHcN4G/e2UCf5X+k233IwGbkd30WwRAxHTIRX/Dd7YfuXp9/PC3Ty5Ds1nZ23LZW2MnBApLxDs=;ewXYFf62Ij0OEOfN52hOsw=="
 ---
 
