@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: The scandal over Trump's leak investigations keeps getting worse"
+    excerpt: "First we learned that former President Donald Trump's Department of Justice secretly obtained records about the communications of members of the press.\n    \n"
+    publishedDateTime: 2021-06-14T23:15:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7vCLdyN1pWc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/trump-doj-leak-investigation-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/trump-doj-leak-investigation-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614174520-don-mcgahn-donald-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "In behalf of white farmers, Trump allies wage legal war against equity"
     excerpt: "Black farmers say reverse discrimination has never been evident in their industry — but that may not stop the idea from being used to upend civil rights law."
     publishedDateTime: 2021-06-06T21:47:00Z

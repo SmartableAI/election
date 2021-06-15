@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 119
     images:
       - url: "https://i.guim.co.uk/img/media/d61b36a581e2c4d1c7b7611c6067a31769f2b791/0_117_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4cd871554f76865e77a00dcae9f74b29"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Deb Haaland to ask Biden to restore protections for three national monuments - report"
+    excerpt: "Donald Trump ‘drastically shrunk’ the size of Utah’s Bears Ears and Grand Escalante national monuments in 2017 – follow all the day’s news"
+    publishedDateTime: 2021-06-14T21:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/53718d4169d73869109855a29b2e8259b6f53b09/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f4eecd5bc0b0c2214b9d7fbf06e0cade"
         width: 600
         height: 360
         isCached: true

@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: The scandal over Trump's leak investigations keeps getting worse"
+    excerpt: "First we learned that former President Donald Trump's Department of Justice secretly obtained records about the communications of members of the press.\n    \n"
+    publishedDateTime: 2021-06-14T23:15:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7vCLdyN1pWc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/trump-doj-leak-investigation-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/trump-doj-leak-investigation-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614174520-don-mcgahn-donald-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "nDGVaLHbgYWWnS8ApgvbcSRGh1frdG3sCL53Dwtke2JiiiorXYDNxgBFXFy6HD/4cP+JzDo/9nnNwOoLrdALs1gOrCYxKK8oG7ajjM2oPQjM11x+AkbCpkRupMY3ys5XmnQXg9ta7gA8L9vlbVDQNcKhmItsq9y+pLloKByq2du39tiotCbq8bszUUF6Q6v+etiQQdLXeoyXBV6QkqN+Z0Czb15hy5P/x8JucLG4fO8t/168iL5QnCt/muw8U0nO0GuKN8NvY3B0w9eC/ncjyuWCsKRG3vCUq56U6z96nY7lIdtwd3E4RMu13fuiKMgnGgExpGOBkc5zqD4b7H+cMYNTybjjQXTyGWvvKSoKfEDRSLPNZIa8f70zOEaQzXzHXX/lmU6HGbLVFmRoZUzIAVmImk72cLLSW4F26pPMvxA4c+4T3U6EwvbEbM9ULps7NyAwWyqw889SEuIvnYFOqz9HKaNUnTN7l8mad5PRiIl0p0nQI1FzwuBWWqj9CKJP2hedrJzK4aT8/QrLf3PaoQ==;mr5a44HUOh6pILIVkA9M4A=="
 ---

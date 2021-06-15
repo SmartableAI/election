@@ -531,6 +531,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Will Vice President Kamala Harris' visit increase vaccine rates in South Carolina?"
+    excerpt: "SC state reps and officials and the community look at whether Vice President Kamala Harris' visit could get more people to vaccination clinics."
+    publishedDateTime: 2021-06-13T11:38:00Z
+    webUrl: "https://www.freep.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
+    ampWebUrl: "https://amp.freep.com/amp/7668764002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7668764002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/12/PGRE/b5a0f561-590c-4b58-8acb-320c2fe97996-0612_Vaccinationate_preferences_vary_in_Greenville_County_025.JPG?auto=webp&crop=2399,1350,x0,y40&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Women and youth a top focus of Kamala Harris' first visit to Mexico as vice president"
     excerpt: "The El Paso Times is choosing to use a pseudonym since she isn't authorized by her work to speak to the press. U.S. Vice President Kamala Harris is in Guatemala today, her first diplomatic visit abroad since assuming her current post. Her next stop is ..."
     publishedDateTime: 2021-06-07T13:13:00Z
@@ -650,16 +666,16 @@ related:
         height: 572
         isCached: true
   - title: "Vice President Kamala Harris attends Capital Pride Celebration"
-    excerpt: "Second Gentleman Doug Emhoff and Vice President Kamala Harris walk in the Capital Pride Celebration in Washington, DC on Saturday, June 12, 2021. Vice President Kamala Harris and Second Gentleman Doug Emhoff walked a few blocks,"
+    excerpt: "Supporters greet Vice President Kamala Harris and Second Gentleman Doug Emhoff as they walk in the Capital Pride Celebration in Washington, DC on Saturday, June 12, 2021. Vice President Kamala Harris and Second Gentleman Doug Emhoff walked a few blocks,"
     publishedDateTime: 2021-06-12T18:17:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/1350a45d02714c64c79ab9490a4de5a5/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/fb611c1444b991699a488712307ca901/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/1350a45d02714c64c79ab9490a4de5a5/HARRIS-CAPITAL-PRIDE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/fb611c1444b991699a488712307ca901/HARRIS-CAPITAL-PRIDE.jpg"
         width: 650
         height: 433
         isCached: true

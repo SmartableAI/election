@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html"
 type: article
 quality: 200
-heat: 540
+heat: 560
 published: true
 
 provider:
@@ -283,6 +283,20 @@ related:
     quality: 130
     images:
       - url: "https://static01.nyt.com/images/2021/06/03/us/politics/03new-washington-briefing-pence2/03new-washington-briefing-pence2-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden Criticizes Trump at NATO Summit"
+    excerpt: "President Biden criticized his predecessor on Monday at a press conference after a one-day NATO summit, accusing former President Donald J. Trump of “phony populism.”"
+    publishedDateTime: 2021-06-15T00:00:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007815422/biden-nato-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/14/world/14biden-overseas-press-conference/merlin_189236820_a1c2c3d4-8bf1-4016-8bd1-16322a5f9470-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
         width: 1050
         height: 550
         isCached: true

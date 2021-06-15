@@ -92,6 +92,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "House Republican presses bill to prevent Harris from traveling overseas before visiting the border"
+    excerpt: "Iowa Republican Rep. Ashley Hinson appeared on the House floor Monday to press for legislation that would bar Vice President Harris from taxpayer-funded international travel until she visits the southern border first."
+    publishedDateTime: 2021-06-15T00:57:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7VkOnuMnzM8/ashley-hinson-bill-prevent-kamala-harris-border-visit-overseas-travel-iowa-republican"
+    ampWebUrl: "https://www.foxnews.com/politics/ashley-hinson-bill-prevent-kamala-harris-border-visit-overseas-travel-iowa-republican.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ashley-hinson-bill-prevent-kamala-harris-border-visit-overseas-travel-iowa-republican.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aac5aad-156b-47c2-876f-b729a79d2e83/43173c34-5f1c-4b7a-931a-4a0413d9e851/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris proves 'time and time again' she's not fit to handle border crisis: AZ sheriff"
     excerpt: "Pinal County, Arizona Sheriff Mark Lamb slammed Kamala Harris for dodging press questions about the border crisis with laughter, saying the issue is \"not a laughing matter\" and that her response proves she's not the right person for the job,"
     publishedDateTime: 2021-06-09T13:41:00Z

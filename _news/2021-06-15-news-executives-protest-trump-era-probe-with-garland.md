@@ -2,11 +2,11 @@
 category: news
 title: "News executives protest Trump-era probe with Garland"
 excerpt: "Executives with CNN, The New York Times and Washington Post met with Attorney General Merrick Garland to protest the Trump-era Justice Department's efforts to seize phone and email records of journali"
-publishedDateTime: 2021-06-14T23:22:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/news-executives-protest-trump-era-probe-garland-78277110"
-webUrl: "https://abcnews.go.com/Politics/wireStory/news-executives-protest-trump-era-probe-garland-78277110"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/news-executives-protest-trump-era-probe-garland-78277110"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/news-executives-protest-trump-era-probe-garland-78277110"
+publishedDateTime: 2021-06-15T00:17:00Z
+originalUrl: "https://abcnews.go.com/Entertainment/wireStory/news-executives-protest-trump-era-probe-garland-78277750"
+webUrl: "https://abcnews.go.com/Entertainment/wireStory/news-executives-protest-trump-era-probe-garland-78277750"
+ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/news-executives-protest-trump-era-probe-garland-78277750"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/news-executives-protest-trump-era-probe-garland-78277750"
 type: article
 quality: 125
 heat: -1
@@ -260,6 +260,22 @@ related:
         width: 1024
         height: 717
         isCached: true
+  - title: "Putin Praises Trump, Calls Him An 'Extraordinary Individual' Ahead Of Biden Meeting"
+    excerpt: "Russian President Vladimir Putin on Friday praised former President Donald Trump in an interview conducted ahead of his upcoming meeting with President Joe Biden. In an exclusive interview with NBC News’ Keir Simmons,"
+    publishedDateTime: 2021-06-15T01:36:00Z
+    webUrl: "https://www.ibtimes.com/putin-praises-trump-calls-him-extraordinary-individual-ahead-biden-meeting-3225773"
+    ampWebUrl: "https://www.ibtimes.com/putin-praises-trump-calls-him-extraordinary-individual-ahead-biden-meeting-3225773?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/putin-praises-trump-calls-him-extraordinary-individual-ahead-biden-meeting-3225773?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 84
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/donald-trump-has-described-his-russian-counterpart-vladimir.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden gives video address to graduating Parkland students"
     excerpt: "President Joe Biden has told graduating seniors who were freshmen when a mass shooting left 17 people dead at their Florida high school that they've turned pain into purpose and darkness into light"
     publishedDateTime: 2021-06-09T01:00:00Z
@@ -320,6 +336,6 @@ related:
       domain: indystar.com
     quality: 16
 
-secured: "SMbytsg0xbpszBi92tfNP/+AIGowFQH9feStS5DW0ogbh+Tct2eUjdJj4P9YCm6pwUvlLjwAOJwbXRM6Wn6QOdliE+zIs6Tdzh41uAqCeBkpcaRjnmzuQA9IitaWWFjHRI5d18Y0u9ffSPhKRAIZS/9b6VVst7+jIQWM0W6JlGEmuTKxhD/FLZ66CBD4ejgObzRr9ZOAQOFoTwke/vcMcWNEE1TQlit3rA2lLgdhzizMQYzlk1KcT1os2Mxt7BP+MKAxNBD8592EPOdszqMgK1fyLVHrcofExoLIFk/9DfNiCab7TOToPexbZC4iS7rSUMxSicesPCgaNz6ngcKPnLvwp6t0YIKAuDL42pP9uHI=;iV1rKAw7Wtr0f3wfUAPx0Q=="
+secured: "BhBuiTopbiJg1Zq4wFqY+yw5/U5ODKtPlfiPjHOEf1DmVxA1cqsARH5KsLCSY37Ff21CBc0bYQJzdg7lla3Tq9MRqE3SyZjTllEFkqRCgH5HU0EdDY3eLbFNBQbaQCEcEA7q+JQ+vYSAy5pwX8EW6o/313qBtp7Ta9Go/BxybCg+Fgkl5f/YjwhJ36hvSCxr3Ss/BCj8lvD3xo85aw+62c147w1RrPDllT6Vekil2b3L74vNfIm6rNTi/7NchkrIyyYXXVP5b6buaFH1ZJOkkwymrAZ+4dfdR0Y1Q276ocp+qydqzMO20nlQ1D/fhOFzyUNpdshxtcFRETBta4TidKMD4bDKp2E1eiIfUSIVUfA=;JdoHn23watmJuWrMfLG3RA=="
 ---
 

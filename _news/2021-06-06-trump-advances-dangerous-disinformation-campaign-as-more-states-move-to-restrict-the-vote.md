@@ -285,6 +285,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Criticizes Trump at NATO Summit"
+    excerpt: "President Biden criticized his predecessor on Monday at a press conference after a one-day NATO summit, accusing former President Donald J. Trump of “phony populism.”"
+    publishedDateTime: 2021-06-15T00:00:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007815422/biden-nato-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/14/world/14biden-overseas-press-conference/merlin_189236820_a1c2c3d4-8bf1-4016-8bd1-16322a5f9470-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "What Happened When Trump Was Banned on Social Media"
     excerpt: "Since Facebook and Twitter banned him, Donald J. Trump, the former president, has posted statements online far less often. But some of his statements have traveled just as far and wide on social networks."
     publishedDateTime: 2021-06-07T05:00:00Z

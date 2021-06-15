@@ -91,6 +91,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden says U.S. \"not looking for conflict\" with Russia ahead of meeting with Putin"
+    excerpt: "President Biden says he's not seeking conflict with Russia, but that the U.S. would respond if Russia continued its \"harmful activities.\" CBS News chief White House correspondent Nancy Cordes joins CBSN's Elaine Quijano to discuss Monday's NATO summit and preview Mr."
+    publishedDateTime: 2021-06-15T01:46:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-vladimir-putin-summit-preview-analysis-2021-06-14/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/15/f15a2967-82ec-4f03-8830-2ef851902861/thumbnail/1200x630/4e8606f7a1035c769c3e7eaf9cbe3199/cbsn-fusion-joe-biden-vladimir-putin-summit-preview-analysis-2021-06-14-thumbnail-734744-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden to hold solo news conference after meeting with Vladimir Putin in Geneva"
     excerpt: "White House says solo press event is 'appropriate format\" to communicate with media about topics raised during Joe Biden, Vladimir Putin meeting."
     publishedDateTime: 2021-06-12T13:36:00Z

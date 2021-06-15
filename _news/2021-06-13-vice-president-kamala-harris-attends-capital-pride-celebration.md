@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris attends Capital Pride Celebration"
-excerpt: "Second Gentleman Doug Emhoff and Vice President Kamala Harris walk in the Capital Pride Celebration in Washington, DC on Saturday, June 12, 2021. Vice President Kamala Harris and Second Gentleman Doug Emhoff walked a few blocks,"
+excerpt: "Supporters greet Vice President Kamala Harris and Second Gentleman Doug Emhoff as they walk in the Capital Pride Celebration in Washington, DC on Saturday, June 12, 2021. Vice President Kamala Harris and Second Gentleman Doug Emhoff walked a few blocks,"
 publishedDateTime: 2021-06-12T18:17:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/1350a45d02714c64c79ab9490a4de5a5/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/1350a45d02714c64c79ab9490a4de5a5/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/fb611c1444b991699a488712307ca901/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/fb611c1444b991699a488712307ca901/Vice-President-Kamala-Harris-attends-Capital-Pride-Celebration/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/1350a45d02714c64c79ab9490a4de5a5/HARRIS-CAPITAL-PRIDE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/fb611c1444b991699a488712307ca901/HARRIS-CAPITAL-PRIDE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -542,6 +542,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Will Vice President Kamala Harris' visit increase vaccine rates in South Carolina?"
+    excerpt: "SC state reps and officials and the community look at whether Vice President Kamala Harris' visit could get more people to vaccination clinics."
+    publishedDateTime: 2021-06-13T11:38:00Z
+    webUrl: "https://www.freep.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
+    ampWebUrl: "https://amp.freep.com/amp/7668764002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7668764002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/12/PGRE/b5a0f561-590c-4b58-8acb-320c2fe97996-0612_Vaccinationate_preferences_vary_in_Greenville_County_025.JPG?auto=webp&crop=2399,1350,x0,y40&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Women and youth a top focus of Kamala Harris' first visit to Mexico as vice president"
     excerpt: "The El Paso Times is choosing to use a pseudonym since she isn't authorized by her work to speak to the press. U.S. Vice President Kamala Harris is in Guatemala today, her first diplomatic visit abroad since assuming her current post. Her next stop is ..."
     publishedDateTime: 2021-06-07T13:13:00Z
@@ -782,6 +798,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "0U2f0BWhFLQ7GUh+HyvQLMDYYwCgLeMP320dvS/btxfBB/aoNu47cvJz77JOxQXqhdVmEtyPDnc1rhJMDqwkDNZZqy0lE4zq5mZ4rGZxLE35WuHkmMSTLfRQlQ4t829RjmcvXWI/wCX66xBZZ5qzGmvQP0zWFvt4Teg8aQeRcJvSiN9ZZoABf7kFThyBcjkyHbMbqUSdODBBqZbX/HN9Kq66CzStM39D68RYgrmRRBN/3T4YOxSsiMNUq1Ak0YMKZpaIJSJn8IPzpQsUmv3i+fL/3SDB68iSke8+I9jn6htCAR9JbwD7seYqHR2qrZsv3Q0NZaEZGu+bjOWd7m77gFU2uJCD+4bnLZNaXycIRPLpYRkffX1/0q8HcXRSuSYmk/OnHUrSkAcRlcQoVFnQGG5q9vl/UVVjcTzusYCIc0W2SLCMuY3GzwKnDwPv0Pkz0qfhAL8a8LFQKhTEXxzblY9SZl+HWdiZ+HWlj9H25o2cMltcSSgnqhvmkhHuaSev39JaDPWdOuxTzDowhYPfVQ==;cFAEwwC9ZXfbgDZ0GFUMUg=="
+secured: "9puP75g1rlre0bA7BWZReecQ5zUKfKDawU0njnB3BG+W0k3xP6LWoBS+o1Tubg6XpC3X/9rJFaE+RsnOOW14qi8bB4zGn8nhmLZTIyKZhY9UmC/27XCDQ6c+eRSIJs5FSGcpHfe+ckK1FKDmZ6fAqwjqW0NnHbO1zPg/OBGRkykdAZgT5V2vDtPWExgZNE3a1FCBMm70aT/j16JCE88cXzZ4sjpoc+jN98udXvDifCNmiEfEIzfpPeYuNiU44WKJgwE8auZOKNbEQqwwv02ozy7z8jlZGo3Dah97xvHFwG0o1P6F1X98rmxSaEQyrklLzQ67Wgza/0YkuDHkLQLvK7dZluyc4QFNfGh410ZZ0Ao=;QB5uiOS4v6bhIPy1+le0Fg=="
 ---
 

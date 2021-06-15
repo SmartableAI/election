@@ -170,6 +170,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "SEC Considers Changes to Trump-Era Rules"
+    excerpt: "The SEC said it would look at amending rules related to its whistleblower award program and an anticorruption provision passed last year over opposition by its Democratic members."
+    publishedDateTime: 2021-06-14T20:11:00Z
+    webUrl: "https://www.wsj.com/articles/sec-considers-changes-to-trump-era-rules-11623705091"
+    ampWebUrl: "https://www.wsj.com/amp/articles/sec-considers-changes-to-trump-era-rules-11623705091"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/sec-considers-changes-to-trump-era-rules-11623705091"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-353735/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "geegf/A11Rkr6nVflWa7m+1ySE6rHlJ13TgGjPmSr/GY1CU1TP4yTR37Qnm69lX+wX2Ruv1c+3pILBAaP/TlAFVkRku61jk/diQ7KW50IZPVCivSVStMCmQ7f5u1ASzISNuJ6U6pPNvxIMxP11Zl4V94191qjA/OmNWH6+V7Iv0mwvU1VDJK64fE0ZadB4yIakg4K3sNaT8s5DnxWn/gDIXgmfSA50U6BHraxlRSTgoty5B0Wp1/2dAU+8cYW0T4aJeJPPnQUIBeQ05Cqv06bBWVcSWedyGYaWYwKrvx2AGJCwmNnRMzUrMoQ058AVshXuCmlCdfQenQH+LnHXWMjyTVpbXmW5OGyEsqUxhJCsU=;B2PM8Z3vz+oVNtCyXK9tPw=="
 ---

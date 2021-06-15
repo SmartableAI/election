@@ -252,6 +252,20 @@ related:
         width: 2500
         height: 1669
         isCached: true
+  - title: "Nonprofits raise alarms about clawing back Biden stimulus money for infrastructure"
+    excerpt: "NONPROFITS RAISE ALARM ON CLAWING BACK STATE AND LOCAL COVID FUNDS: A trade association for charitable groups has added its voice to the chorus of warnings from cities and counties against repurposing unused state and local funds included in the March coronavirus relief package to pay for a bipartisan infrastructure proposal."
+    publishedDateTime: 2021-06-14T20:35:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-influence/2021/06/14/nonprofits-raise-alarms-about-clawing-back-biden-stimulus-money-for-infrastructure-795930"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "Mx9/IvD0rMTbIXGiKJrYrgl8V/mFZf1t8s/99020glvZ24oF1Q1mkadCvK7AnnuvduuwyO/XK48um+uCeHuCWpB9m4uCB5WK1btif6CZEruL32iej/xiveFEiyqxYvt2Xw9enwN5j6NdifVN10DusJyAZmCnX9RozbdMEGcZ3yGgZDj+DyT0T6/hwpbhJmR1ILWxHbo+9CwzBLinjOhJxvKBn+4qQFBGU1mTAj7lz0XmzLoZVTVKF8sZSRAYEp9wmWa/jSKSejwDjV8yNZ/7hpAu2OtbTzNY95DiPph88AvwDRESc5KySpUTIK3qmxYjpwH6tzqvNaEvMfbT0Gx3k1UPJe8Q16ypMIjEOgb90Ow=;zK8XBAqcZlwiiHXxPjw0Rw=="
 ---

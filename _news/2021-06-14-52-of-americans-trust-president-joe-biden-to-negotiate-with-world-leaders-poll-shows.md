@@ -59,6 +59,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Deb Haaland to ask Biden to restore protections for three national monuments - report"
+    excerpt: "Donald Trump ‘drastically shrunk’ the size of Utah’s Bears Ears and Grand Escalante national monuments in 2017 – follow all the day’s news"
+    publishedDateTime: 2021-06-14T21:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/14/joe-biden-nato-europe-turkey-president-erdogan-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/53718d4169d73869109855a29b2e8259b6f53b09/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f4eecd5bc0b0c2214b9d7fbf06e0cade"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Catholic bishops may change Communion rules to rebuke politicians like Biden supporting abortion rights"
     excerpt: "Conservative bishops want President Biden and other Catholic politicians to know that support of abortion rights could disqualify them from Communion."
     publishedDateTime: 2021-06-14T16:44:00Z

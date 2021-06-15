@@ -300,6 +300,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Criticizes Trump at NATO Summit"
+    excerpt: "President Biden criticized his predecessor on Monday at a press conference after a one-day NATO summit, accusing former President Donald J. Trump of “phony populism.”"
+    publishedDateTime: 2021-06-15T00:00:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007815422/biden-nato-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/14/world/14biden-overseas-press-conference/merlin_189236820_a1c2c3d4-8bf1-4016-8bd1-16322a5f9470-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "Cp9rD2ZpLjPxGqcHGjX2NCArXtRKum7y8tA3BOzD3SvrbkBl+JHe/uOTFwmovuJiUHEKeQb5eMS8BpHhh1gNXnEA6zLPVm5JuxO0CSdJ9DDcpmfRaeyX0+Mosys/QcxwFWlxsXbbpaL+dtaEbcTGmuEpCCdMVhBfFMCB7+cGHu++e7vwWjuiiE1WYa7YCPHG1S8GY0jMC91VAz9daCU2IIUBLvv6R53OT1NMRa/M618SF9ECKVvkcQrQ+7ssaRDi0T3+ThtUkC+zJY3F/SgN7O770EsgX0001Zb3GqUME6Eu7ov9OPYRvjHO04uH0hNT2AdimHK59I7s8l7ldXgFyQFbrAb7ta3wStXWc5BerRc4uQK94V3U3nlmqjQoRHL+JZiNvYAhmADpVB37/rgumVYDr+S4aYmlWReCQUBsLLz2u4MGiN5yJZ9WtR9ZB92sZ5/aA+wb7R5pFBWCMMLgzPeVwTTkATcp1hmM+DhnYk0qVhuiufe+jJZtA/o9MBGCDmnODYn4PXmV9llbHqZPKw==;/Yx+w4XcBNo0lFSK/OKGJQ=="
 ---

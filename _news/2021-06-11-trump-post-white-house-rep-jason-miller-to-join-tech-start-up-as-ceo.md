@@ -156,6 +156,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "SEC Considers Changes to Trump-Era Rules"
+    excerpt: "The SEC said it would look at amending rules related to its whistleblower award program and an anticorruption provision passed last year over opposition by its Democratic members."
+    publishedDateTime: 2021-06-14T20:11:00Z
+    webUrl: "https://www.wsj.com/articles/sec-considers-changes-to-trump-era-rules-11623705091"
+    ampWebUrl: "https://www.wsj.com/amp/articles/sec-considers-changes-to-trump-era-rules-11623705091"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/sec-considers-changes-to-trump-era-rules-11623705091"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-353735/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "DC Mayor, Not Trump, Teargassed Protesters"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-06-14T18:53:00Z

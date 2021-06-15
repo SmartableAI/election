@@ -140,6 +140,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Media ignores Biden's attack against GOP while abroad after shredding Trump for violating political norm"
+    excerpt: "Mainstream media outlets came under fire Monday night for ignoring President Biden's attack against former president Donald Trump and Republicans during a press conference in Brussels, despite ripping Trump in 2019 for waging a political attack of a similar nature overseas."
+    publishedDateTime: 2021-06-15T00:40:00Z
+    webUrl: "https://www.foxnews.com/media/media-ignore-bidens-foreign-attack-against-republicans-after-shredding-trump-for-attack-of-similar-nature"
+    ampWebUrl: "https://www.foxnews.com/media/media-ignore-bidens-foreign-attack-against-republicans-after-shredding-trump-for-attack-of-similar-nature.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-ignore-bidens-foreign-attack-against-republicans-after-shredding-trump-for-attack-of-similar-nature.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ca93db81-fc79-4cfb-be7a-4727ff1f63d4/f1f147dd-2644-499e-8e1c-02a36f5a9c54/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "BDCp0CRqdCCVfh3XEFyyBiBez8+p/6hOsTCPBjWPbjhVcJCtxrPfaeggVmVH7a4kgSHzlT++MACJwnogM4ayyaIUquQJtEaNvZlzeyPFK4ff6MkhAZD4vaFpepd6NoOhYlbIx92nWnqx1ROxk4p0mJ1qIBdAXRNrZ02+srOlWviqRbTSs3snd33fRQwePsJ9x7m00hLXYky3RsXvGcuywhZjPzUkhjn5tBPWKvl7NmcwAiqrZhohL6FZy4aJRPBwNhy3AI2R/18eIQGPvW3jgZrT3/j0EqzX+N9RkhokmtD4Ig6M9ejo7tVXF8gzvzwzssu2LdJi86pk/0EZ4uqR4UzLeXrKHnAOSuUEYHcTnGs=;Yoay/hghUpGHJGIgMcT6TA=="
 ---

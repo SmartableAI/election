@@ -173,10 +173,10 @@ related:
         isCached: true
   - title: "News executives protest Trump-era probe with Garland"
     excerpt: "Executives with CNN, The New York Times and Washington Post met with Attorney General Merrick Garland to protest the Trump-era Justice Department's efforts to seize phone and email records of journali"
-    publishedDateTime: 2021-06-14T23:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/news-executives-protest-trump-era-probe-garland-78277110"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/news-executives-protest-trump-era-probe-garland-78277110"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/news-executives-protest-trump-era-probe-garland-78277110"
+    publishedDateTime: 2021-06-15T00:17:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/news-executives-protest-trump-era-probe-garland-78277750"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/news-executives-protest-trump-era-probe-garland-78277750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/news-executives-protest-trump-era-probe-garland-78277750"
     type: article
     provider:
       name: ABC
@@ -271,6 +271,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/us-president-donald-trump-shocked-many-with-his.jpg"
         width: 1024
         height: 717
+        isCached: true
+  - title: "Putin Praises Trump, Calls Him An 'Extraordinary Individual' Ahead Of Biden Meeting"
+    excerpt: "Russian President Vladimir Putin on Friday praised former President Donald Trump in an interview conducted ahead of his upcoming meeting with President Joe Biden. In an exclusive interview with NBC News’ Keir Simmons,"
+    publishedDateTime: 2021-06-15T01:36:00Z
+    webUrl: "https://www.ibtimes.com/putin-praises-trump-calls-him-extraordinary-individual-ahead-biden-meeting-3225773"
+    ampWebUrl: "https://www.ibtimes.com/putin-praises-trump-calls-him-extraordinary-individual-ahead-biden-meeting-3225773?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/putin-praises-trump-calls-him-extraordinary-individual-ahead-biden-meeting-3225773?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 84
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/donald-trump-has-described-his-russian-counterpart-vladimir.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "President Joe Biden returns to the White House"
     excerpt: "U.S. President Joe Biden gets into a limo after stepping off Marine One on the Ellipse as he returns to the White House in Washington, DC, USA, on Friday, June 4, 2021. Earlier in the day President Biden delivered remarks on the May jobs report in Rehoboth Beach,"
