@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-proposes-putin-summit-russia.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -218,6 +218,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/USA-BIDEN__21.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "'Special Report' All-Star panel on Biden's foreign policy ahead of summit with Putin"
+    excerpt: "I'm going to make clear to President Putin that there are areas where we can cooperate if he chooses."
+    publishedDateTime: 2021-06-15T15:02:00Z
+    webUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-foreign-policy-ahead-of-summit-with-putin"
+    ampWebUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-foreign-policy-ahead-of-summit-with-putin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-foreign-policy-ahead-of-summit-with-putin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e26e0b30-7ac5-455e-9690-d3894593101f/5edca013-7b76-413a-adb6-3aa38133b381/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "What Does Putin Have on Biden?"
     excerpt: "Only a few months ago, the Biden administration argued that Nord Stream 2, a proposed natural-gas pipeline running from Russia to Germany, was"

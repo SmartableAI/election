@@ -232,6 +232,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "'Special Report' All-Star panel on Biden's foreign policy ahead of summit with Putin"
+    excerpt: "I'm going to make clear to President Putin that there are areas where we can cooperate if he chooses."
+    publishedDateTime: 2021-06-15T15:02:00Z
+    webUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-foreign-policy-ahead-of-summit-with-putin"
+    ampWebUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-foreign-policy-ahead-of-summit-with-putin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-foreign-policy-ahead-of-summit-with-putin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e26e0b30-7ac5-455e-9690-d3894593101f/5edca013-7b76-413a-adb6-3aa38133b381/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Merkel Flips Off Biden's Protest -- to Buy Putin's Gas"
     excerpt: "When the U.S. created NATO, a primary purpose of the alliance was to serve as a western wall to defend Germany against the 400,000 Russian troops on"
     publishedDateTime: 2021-05-25T11:37:00Z

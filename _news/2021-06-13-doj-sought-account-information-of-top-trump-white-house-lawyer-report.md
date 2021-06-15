@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/doj-sought-account-information-top-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2c5cf54-7193-40e2-a2d9-ccff0b9575f0/a9e6c652-d67c-4efc-b98a-ca6792dcf8a2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Trump White House Pressed Justice Department on Election Claims in Emails"
+    excerpt: "The House Oversight Committee released communications showing White House efforts to enlist the Justice Department in bolstering false claims that the November election had been rigged."
+    publishedDateTime: 2021-06-15T13:37:00Z
+    webUrl: "https://www.wsj.com/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-354074/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump post-White House rep Jason Miller to join tech start-up as CEO"
     excerpt: "Former Trump campaign strategist Jason Miller is stepping back from his post-White House spokesman role to take over as the CEO of a tech start-up, a source told the Post late Thursday."

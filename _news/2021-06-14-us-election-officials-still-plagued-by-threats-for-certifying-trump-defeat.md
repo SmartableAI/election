@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/14/us-election-official
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/14/us-election-officials-threats-trump-defeat"
 type: article
 quality: 138
-heat: 858
+heat: 878
 published: true
 
 provider:
@@ -82,7 +82,7 @@ related:
   - title: "Trump pressured attorney general to have Justice Department back false election claims, emails show"
     excerpt: "The former president began pressuring his incoming acting attorney general even before announcing that his predecessor was stepping down, emails show."
     publishedDateTime: 2021-06-15T13:47:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html"
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html?outputType=amp"
     ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-justice-department-election-20210615-bro3hk3tkzdtdngoaafk43dezy-story.html?outputType=amp"
     type: article
@@ -379,6 +379,22 @@ related:
       - url: "https://media.npr.org/assets/img/2021/06/14/gettyimages-1323059124_wide-96ea7f7cc862d7023bf43ad8d053f5ebd7917d62.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Emails show Donald Trump pressured Justice Department over 2020 election"
+    excerpt: "During the last weeks of his presidency, Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of widespread 2020 election fraud, despite his former"
+    publishedDateTime: 2021-06-15T15:28:00Z
+    webUrl: "https://www.denverpost.com/2021/06/15/donald-trump-emails-2020-election/"
+    ampWebUrl: "https://www.denverpost.com/2021/06/15/donald-trump-emails-2020-election/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/06/15/donald-trump-emails-2020-election/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 89
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/06/Racial_Injustice_Trump_Photo_Op_84882-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Congress, Justice Dept. probing Trump seizures of Dems' data"
     excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."

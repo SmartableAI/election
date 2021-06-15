@@ -108,6 +108,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump White House Pressed Justice Department on Election Claims in Emails"
+    excerpt: "The House Oversight Committee released communications showing White House efforts to enlist the Justice Department in bolstering false claims that the November election had been rigged."
+    publishedDateTime: 2021-06-15T13:37:00Z
+    webUrl: "https://www.wsj.com/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-354074/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump post-White House rep Jason Miller to join tech start-up as CEO"
     excerpt: "Former Trump campaign strategist Jason Miller is stepping back from his post-White House spokesman role to take over as the CEO of a tech start-up, a source told the Post late Thursday."
     publishedDateTime: 2021-06-11T01:02:00Z

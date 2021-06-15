@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-15-biden-admin-asks-supreme-court-to-reinstate-death-penalty-for-boston-marathon-bomber-dzhokhar-tsarnaev.md",
+      "title": "Biden admin asks Supreme Court to reinstate death penalty for Boston Marathon bomber Dzhokhar Tsarnaev",
+      "excerpt": "The Department of Justice is asking the Supreme Court to overturn a lower court ruling and reinstate the death penalty for Boston Marathon bomber Dzhokhar Tsarnaev.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y2TIXPTkj1Q/biden-admin-supreme-court-reinstate-death-penalty-boston-marathon-bomber-dzhokhar-tsarnaev",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y2TIXPTkj1Q/biden-admin-supreme-court-reinstate-death-penalty-boston-marathon-bomber-dzhokhar-tsarnaev",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-supreme-court-reinstate-death-penalty-boston-marathon-bomber-dzhokhar-tsarnaev.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-supreme-court-reinstate-death-penalty-boston-marathon-bomber-dzhokhar-tsarnaev.amp",
+      "publishedDateTime": "2021-06-15T08:27:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-biden-wh-strategy-for-battling-domestic-terror-labels-white-supremacy-militia-extremists-as-biggest-threats.md",
       "title": "Biden WH strategy for battling domestic terror labels White supremacy, militia 'extremists' as biggest threats",
       "excerpt": "The Biden administration on Tuesday unveiled its national strategy for countering domestic terrorism, with officials telling Fox News it is designed to cut across the political spectrum and is “laser focused” on combating violence in the U.S., while warning that White supremacy and “militia violent extremists”",
@@ -126,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 193,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -511,7 +567,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 375,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -895,7 +951,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 390,
+      "heat": 410,
       "tags": null,
       "images": [
         {
@@ -1596,62 +1652,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-biden-says-us-not-seeking-conflict-with-russia-as-putin-meeting-looms.md",
-      "title": "Biden says US 'not seeking conflict' with Russia as Putin meeting looms",
-      "excerpt": "President Biden said Wednesday he will reiterate to Russian President Vladimir Putin at an upcoming summit that there will be “consequences” if Russia takes harmful action toward democratic governments.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjwF5yJdRfo/biden-putin-meeting-us-not-seeking-conflict-russia",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjwF5yJdRfo/biden-putin-meeting-us-not-seeking-conflict-russia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp",
-      "publishedDateTime": "2021-06-09T16:15:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

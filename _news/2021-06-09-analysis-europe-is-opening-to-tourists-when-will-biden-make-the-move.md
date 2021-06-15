@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/what-matters-travel-rest
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/what-matters-travel-restrictions/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/14/us/14BIDEN-G7STYLE/14BIDEN-G7STYLE-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Biden meets with European leaders head of Putin summit"
+    excerpt: "President Biden is set to meet with European Commission leaders before heading to Geneva, Switzerland for his highly anticipated meeting with Russian President Vladimir Putin. NBC News’ Monica Alba breaks down the president’s meetings with European allies and what to expect from his meeting with Putin."
+    publishedDateTime: 2021-06-15T11:11:00Z
+    webUrl: "https://www.nbcnews.com/now/video/president-joe-biden-meets-with-european-leaders-head-of-putin-summit-114821701701"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114821701701"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114821701701"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623755416436_ott_now_am_biden_ec_210615_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "87ExT8XLlJVJyVQkN4XVNHMAFjt3vjuPPMANroR3WcGyv12eQBRnkgcXDUxHIF+VhttSXtCdc77yI63gUdEP7sVLMZ0mztgcj5zS/cq0dvosBKDEriYFrB6DzZweFs27hFleZBO7Fr79IKfPPJQlQt9Px1fek/7Ql+BQu6rhdhuVSVGbOS5oUAATBOVkH4XDj1drsIMrOpRTr2qEvCDNF6Nq4E5COn6n47I+lPelhXVHwpN/O4lp0CGqz1iVI7LQv7DBFu+CtWjgCJD+wBJmgIXpYdhBWpWC4y4nrEXOjX60XAvclmPTEUX0AbO+hsLljh+pGT3ubtLH8ficdzTlqDx4I5N26BDFvJ94oech1xE=;ZaMvTAoUGOml8s5hHyHQ7A=="

@@ -108,6 +108,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump White House Pressed Justice Department on Election Claims in Emails"
+    excerpt: "The House Oversight Committee released communications showing White House efforts to enlist the Justice Department in bolstering false claims that the November election had been rigged."
+    publishedDateTime: 2021-06-15T13:37:00Z
+    webUrl: "https://www.wsj.com/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-354074/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Byron Donalds meets with Trump amid Congressional Black Caucus feud"
     excerpt: "Black conservative freshman lawmaker Byron Donalds is taking up arms against the Congressional Black Caucus after they rejected his bid to join — slamming their ideological intolerance in a new interview,"
     publishedDateTime: 2021-06-11T19:41:00Z

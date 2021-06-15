@@ -240,6 +240,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Emails detail Trump's pressure on the Justice Department to overturn the 2020 election results"
+    excerpt: "Documents released Tuesday by the House Oversight Committee detail President Donald Trump’s repeated efforts to pressure the Department of Justice to pursue his unsubstantiated claims of election fraud in the 2020 presidential election and to help overturn Joe Biden’s victory."
+    publishedDateTime: 2021-06-15T14:38:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/emails-detail-trump-s-pressure-justice-department-overturn-2020-election-n1270864"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270864"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270864"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 138
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_03/3193596/200119-donald-trump-air-force-one-ew-240p-3193596.jpg"
+        width: 2500
+        height: 1629
+        isCached: true
   - title: "At Once Diminished and Dominating, Trump Prepares for His Next Act"
     excerpt: "The former president speaks on Saturday to the North Carolina Republican convention, as he resumes political speeches and rallies."
     publishedDateTime: 2021-06-05T13:56:00Z

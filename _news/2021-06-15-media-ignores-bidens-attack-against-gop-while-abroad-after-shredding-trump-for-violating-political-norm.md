@@ -144,6 +144,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ingraham on Biden-Putin summit, G-7 world leaders"
+    excerpt: "The Ingraham Angle' exposes exactly how Biden is surrendering America to the global elites at G-7 and how that is going to lower your standard of living This is a rush transcript from \"The Ingraham Angle,"
+    publishedDateTime: 2021-06-15T15:04:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-ingraham-angle-on-biden-putin-summit-g-7-world-leaders"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-ingraham-angle-on-biden-putin-summit-g-7-world-leaders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-ingraham-angle-on-biden-putin-summit-g-7-world-leaders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/481c093a-4e17-4583-bcec-a0cb53b5fb5d/74955865-a702-419f-8891-008d3aa5d23f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden praised as the non-Trump, but will Putin outfox him on world stage?"
     excerpt: "The lack of any precooked deals between President Biden and Russian President Putin means not much of substance will be accomplished. Biden will be judged on the appearance of whether he got tough with the Russian leader who he once said he no soul."
     publishedDateTime: 2021-06-15T06:55:00Z

@@ -124,6 +124,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "WSJ Opinion: Stop Blaming Kamala Harris"
+    excerpt: "It’s not Kamala Harris’s fault she has no good answers for the chaos at the border. It’s President Biden’s. Images: Reuters/Getty Images Composite:"
+    publishedDateTime: 2021-06-13T23:00:00Z
+    webUrl: "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-stop-blaming-kamala-harris/4CBFA180-7EC1-4FDF-8012-6178A502AFAF"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20210614/061421opvidms/061421opvidms_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Ag0pstYzqHp+yVbPmxW7C3Oe+blyfLiYtMx3yj6SLFhnJXa05VYRdo07vYJMPjz1tpbKhsV1m/cC3wRkKLw4ORLMI3B8GUkxPmuipkvdL+vIsC4snqZT3pC2m7fh9FZvy+a1dfalQcJmIPQMSOUNp18rVwd56skNj2k1QuIgfXbSG9jwXfmhzReILmaAScgqOAd5qVj2BtH4plxjPBMniloaU9LE7bKy5lOMxq9IKG3ouRnpTIUOVpZSlIDTWBDYeQer3EX037UPAjNPs3nlMYfHawTX4j/n7JEhZQ6TY4mfiGY/ggvw66SzK2WAFAoygJ/5s8j+Zp6DYQdXT8e1udkkLFx0djJyvzqn66+i244=;4iLpSuUeDAi8HMrPD89OBw=="
 ---

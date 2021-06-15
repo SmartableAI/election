@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-harris-may-go-to-the-bo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-may-go-to-the-border-at-some-point.amp"
 type: article
 quality: 185
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c473241f-b4db-48b6-90a1-8cae4c4a45fd/397c4270-1a1d-4507-aee5-6da181aa7cc5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "WSJ Opinion: Stop Blaming Kamala Harris"
+    excerpt: "It’s not Kamala Harris’s fault she has no good answers for the chaos at the border. It’s President Biden’s. Images: Reuters/Getty Images Composite:"
+    publishedDateTime: 2021-06-13T23:00:00Z
+    webUrl: "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-stop-blaming-kamala-harris/4CBFA180-7EC1-4FDF-8012-6178A502AFAF"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20210614/061421opvidms/061421opvidms_1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "VP Kamala Harris Snaps Back At Univision Reporter: \"I'm Not Finished,\" \"I Said I'm Going To The Border\""
     excerpt: "Vice President Kamala Harris promised she will visit the U.S.-Mexico in an interview with Univision and snapped back at the correspondent when pressed on a date."

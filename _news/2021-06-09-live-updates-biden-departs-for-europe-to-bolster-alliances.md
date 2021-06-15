@@ -80,6 +80,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden meets with European leaders head of Putin summit"
+    excerpt: "President Biden is set to meet with European Commission leaders before heading to Geneva, Switzerland for his highly anticipated meeting with Russian President Vladimir Putin. NBC News’ Monica Alba breaks down the president’s meetings with European allies and what to expect from his meeting with Putin."
+    publishedDateTime: 2021-06-15T11:11:00Z
+    webUrl: "https://www.nbcnews.com/now/video/president-joe-biden-meets-with-european-leaders-head-of-putin-summit-114821701701"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114821701701"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114821701701"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623755416436_ott_now_am_biden_ec_210615_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "a70eP4ZqaiPjhIgRYW9zbhBFu0d8tC/fTxzA2L+A5IyBQ6nnbkx3yq0dVQaRWjnwnSev2vVVuGk9gUeafAhXGCYDW/DiflDDX7H4GkKlP8fcFjGMFToQduMoW8uj9zVdxd/lDCC7pTJYNZhU4o6twtqkqPWutkKwDw3fDyKbo4fpOlr2Gq26EIgdOReuWPCd7t6r3WIxa5X7C8V0s5XX4F3512rLKu5uaFPHHAX1nq27tqOpvFaJehEbp5xlu7f4ARUWBT/hZjYnnZDH0smiR/0GFSq+lC6mkEyZbb9i2laIAuKoiM8N8qMu4M+WuqcE0PywT4EdbJ7lrhE0U+ABnvvMJDERBlrOCAp1a8ehbHuocx27ZoaOc/bRCEHY9tC5JDhBkl1gGGfecBB789HDhrogNmsZ+xXILMxkdEgAHmt0FT3B6R1hSK5xjTimrg50hlZUk5w7wrqFlbrRH6OFvtzdEJNchABwVwtr49C4jtWGjZUSnxCv27L85K14Mi3VSzBKeOmR0uUoABX5l/IB1g==;KuHc4TiX1LndQvvrFPy6YA=="
 ---

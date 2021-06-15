@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden heads to Geneva for summit with ‘worthy adversary’ Putin – live"
+    excerpt: "Reports say Biden has prepared extensively for Geneva meeting on Wednesday – follow all the day’s politics live"
+    publishedDateTime: 2021-06-15T12:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/15/joe-biden-geneva-summit-putin-europe-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/15/joe-biden-geneva-summit-putin-europe-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/15/joe-biden-geneva-summit-putin-europe-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/1471c378be20a2a9592ff5b0302e80eeb273b2f5/0_186_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b0252a9553ca83042ea5fb7c52b9f8ed"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden says U.S. \"not looking for conflict\" with Russia ahead of meeting with Putin"
     excerpt: "President Biden says he's not seeking conflict with Russia, but that the U.S. would respond if Russia continued its \"harmful activities.\" CBS News chief White House correspondent Nancy Cordes joins CBSN's Elaine Quijano to discuss Monday's NATO summit and preview Mr."
     publishedDateTime: 2021-06-15T01:46:00Z
@@ -138,6 +154,22 @@ related:
     quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/10/USAT/1f0ecd28-c37c-4a73-8247-004c960ffbf0-AFP_AFP_9BK7FL.jpg?auto=webp&crop=3999,2250,x0,y370&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Joe Biden arrives in Geneva ahead of meeting with Russia’s Vladimir Putin"
+    excerpt: "President Biden plans to confront Vladimir Putin on everything from Moscow’s cyberattacks to its election interference efforts and human rights abuses."
+    publishedDateTime: 2021-06-15T15:49:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 69
+    images:
+      - url: "https://www.baltimoresun.com/resizer/7xWUqp8XmQGYVCVZiA2uooROlhk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NE6LQF2WMNDYHLTM6YQB7CFQSA.aspx"
         width: 1200
         height: 675
         isCached: true

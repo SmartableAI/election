@@ -47,6 +47,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden adviser's son lands Treasury job, promoted 'Defund the Police'"
+    excerpt: "Biden aide and White House counselor Steve Ricchetti now has not one but three children working within the administration."
+    publishedDateTime: 2021-06-15T15:22:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GyodNQy4tqY/ricchetti-biden-treasury-administration-family"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/GettyImages-1232366321.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "oA18RWhYgORL8gix5amAdUaXgif/dpLRCcPDlcqcfQYrTjbxeWbbyjSXi1xmvWKajySb/H/ZvDLJkiIpvPD0OW8Z2oT4cwRwPZqGwDF0x4Bf4eSZ7d8Lk3bgkmCn8QjM7KQFwLsBIOxrAjo/F9PlXkAcYkC72IK5HsvVb0DsDXA8SEhojqVe0UMQTWqvTzggoiGjHktoMXHw6twm9/Nhktj/6WQubjKjqY6u1iHP7Kbypoupvx7GoNoJTtncpV/mnYNaKVgh5MV9wcQN73f7CdGrLM7P1/N0fk1U20Q/+URlU97vqmkauwOpmMANHFu/T6adsjFTJr71WBEseP9aHraCo0riDonE4etVjQQmm6k=;GHHVlbxpf++bh5M1YrZl2Q=="
 ---

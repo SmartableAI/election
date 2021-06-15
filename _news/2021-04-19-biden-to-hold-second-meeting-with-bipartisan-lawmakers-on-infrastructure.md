@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden rallies NATO support ahead of confrontation with Putin"
+    excerpt: "Joe Biden has used his first appearance at the NATO summit as president to call on Russian President Vladimir Putin to step back from provocative actions targeting the U.S. and allies"
+    publishedDateTime: 2021-06-14T22:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-nato-ready-talk-china-russia-soothe-allies-78261031"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-nato-ready-talk-china-russia-soothe-allies-78261031"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nato-ready-talk-china-russia-soothe-allies-78261031"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_71582ad7de3b48a79c6be8e0c006f1e4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden, meeting with lawmakers, says willing to compromise on infrastructure"
     excerpt: "U.S. President Joe Biden said he was willing to compromise on his $2.3 trillion infrastructure proposal on Monday before meeting with a group of bipartisan lawmakers at the White House."
     publishedDateTime: 2021-04-19T16:46:00Z
