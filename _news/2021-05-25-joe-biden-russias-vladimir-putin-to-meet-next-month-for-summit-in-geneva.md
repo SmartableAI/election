@@ -123,13 +123,15 @@ related:
         isCached: true
   - title: "Buoyed by allied summits, Biden ready to take on Putin"
     excerpt: "Fresh from supportive summits with allies, Joe Biden is declaring himself ready to take on Russia’s Vladimir Putin in far more confrontational talks"
-    publishedDateTime: 2021-06-15T22:09:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78282309"
+    publishedDateTime: 2021-06-15T20:20:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 105
+    quality: 125
     images:
       - url: "https://s.abcnews.com/images/International/WireAP_b2ed2ad9ce3d47d69be41a7d134f2c41_16x9_992.jpg"
         width: 992

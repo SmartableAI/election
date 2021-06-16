@@ -504,6 +504,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Emails show Trump urged DOJ to probe 'voter fraud'"
+    excerpt: "New emails show former president Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last few weeks in office."
+    publishedDateTime: 2021-06-15T21:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/15/emails-show-trump-urged-doj-probe-voter-fraud/7708543002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/80284b5d-2124-40a2-a0f9-4101aaf08230_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
     excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."
     publishedDateTime: 2021-06-08T11:13:00Z

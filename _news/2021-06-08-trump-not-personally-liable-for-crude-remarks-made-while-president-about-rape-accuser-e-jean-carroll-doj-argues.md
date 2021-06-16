@@ -512,6 +512,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Emails show Trump urged DOJ to probe 'voter fraud'"
+    excerpt: "New emails show former president Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last few weeks in office."
+    publishedDateTime: 2021-06-15T21:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/15/emails-show-trump-urged-doj-probe-voter-fraud/7708543002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/80284b5d-2124-40a2-a0f9-4101aaf08230_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Media leaders meet with attorney general about Trump-era phone record seizures"
     excerpt: "Attorney General Merrick Garland is meeting with leaders from top media organizations today about the Trump-era Justice Department secretly seizing phone records of journalists. CBS News legal contributor Rebecca Roiphe joins \"CBSN AM\" to talk about the latest."
     publishedDateTime: 2021-06-14T15:24:00Z

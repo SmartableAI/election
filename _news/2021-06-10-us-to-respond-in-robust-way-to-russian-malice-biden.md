@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "U.S. judge orders resumption in federal drilling auctions in setback for Biden"
+    excerpt: "A federal judge in Louisiana on Tuesday blocked the Biden administration's pause on oil and gas leasing on public lands and waters, dealing a setback to a key White House effort to address climate change."
+    publishedDateTime: 2021-06-15T20:49:00Z
+    webUrl: "https://www.reuters.com/business/energy/us-judge-blocks-biden-pausing-oil-gas-lease-auctions-2021-06-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://www.reuters.com/resizer/uZj81OCXpuuXKkM9IUSLVnv7q8Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4OYIJ42VRBNPVA2ZY5WNXMTOHM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "52% of Americans trust President Joe Biden to negotiate with world leaders, poll shows"
     excerpt: "A majority of Americans trust President Joe Biden to negotiate on the United States’ behalf with foreign leaders, a new ABC News/Ipsos poll shows. News of the poll comes as Biden prepared to meet Queen Elizabeth II at Windsor Castle after leaders of the Group of Seven wealthy nations agreed to provide poor nations 1 billion COVID-19 vaccine doses,"
     publishedDateTime: 2021-06-13T18:34:00Z

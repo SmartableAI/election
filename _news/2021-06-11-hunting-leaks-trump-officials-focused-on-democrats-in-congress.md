@@ -272,6 +272,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Top Trump officials pushed the Covid-19 lab-leak theory. Investigators had doubts."
+    excerpt: "New documents and interviews show how the president and his senior aides cherry-picked evidence and sidelined the government’s own virus sleuths."
+    publishedDateTime: 2021-06-15T23:50:00Z
+    webUrl: "https://www.politico.com/news/2021/06/15/wuhan-lab-trump-officials-covid-494700"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/15/wuhan-lab-trump-officials-covid-494700"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/15/wuhan-lab-trump-officials-covid-494700"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 129
+    images:
+      - url: "https://static.politico.com/03/4b/12b07f424400b101b9d11634f4d5/ap21104683831468-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "nb1frxZwJ3RtWLuAAM1oKxgup+DhXCX3p2klC6/tZX9eJAKsZRGJT1r8ABNqWYEQUnxX5Z6v5SkOcuNO0pSx3PdMhUunYlx1xxSiTvDvHewEIuRFZzqk/oqFmsZSWD3DQqvmdQVhGc79JWlLufGefMVT7mZnKs1TUEFOslkXKfUUZ+Uh6rG0SuHAR4LhGC5fBIiBmpE++AFoPfoj35LCZYhqFuTM3xwzxf3UU/UmB3WuhXCcNMVm8tUN9BX0swc63qs9VuiptFsegz0dFCOGH8f7g9VZg0KqWMm+3NJ0eBkmZ5vuLKt2J8laGAYL6ft4nzkquISpooW2WATn2U9VPXH92gSk/bj4Sz5u0hk+Oa4kONbDj8d+pdl2TD5zaGDLZeyM7srEWljFIQSUfiJFOclc0aIBsVpttQpyK6LpERtDSczAkEDMCJatZLLFL3emdk2sWzCNOkqpHereheuqZZomSNAeFzvmirzi9S/K8mCQhm641P6jVFKBU6AiTQYueNEO+e5CHSBmQhuA5uSKyw==;zM6uJ3y9QLR+dOBunCUV8w=="
 ---

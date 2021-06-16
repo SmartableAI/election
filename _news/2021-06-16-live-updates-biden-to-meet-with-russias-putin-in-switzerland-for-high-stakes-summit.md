@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Biden, at G-7, says US, Russia can work together to help people of ‘Libya’ – meant to say ‘Syria,’ aides say"
-excerpt: "President Joe Biden fumbled during a press conference at the G-7 summit Sunday, mixing up “Libya” and “Syria” – not once, but three times – while discussing humanitarian aid to countries torn apart by civil war."
-publishedDateTime: 2021-06-13T23:39:36Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9BrTkm7C6oE/biden-g7-us-russia-help-people-libya-syria"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9BrTkm7C6oE/biden-g7-us-russia-help-people-libya-syria"
-ampWebUrl: "https://www.foxnews.com/politics/biden-g7-us-russia-help-people-libya-syria.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-g7-us-russia-help-people-libya-syria.amp"
+title: "LIVE UPDATES: Biden to meet with Russia's Putin in Switzerland for high-stakes summit"
+excerpt: "President Biden is set to meet with Russian President Vladimir Putin on Wednesday for a highly anticipated showdown between the two leaders."
+publishedDateTime: 2021-06-16T07:18:43Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AHleOyb_VBI/live-updates-biden-to-meet-with-russias-putin-in-switzerland-for-high-stakes-summit"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AHleOyb_VBI/live-updates-biden-to-meet-with-russias-putin-in-switzerland-for-high-stakes-summit"
 type: article
-quality: 156
+quality: 148
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b8be70-6089-4102-ba58-362e44a8a4a3/7110526e-323f-4439-b4fc-5bf2b6009b8f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/db782526-AP21166471478931.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -111,6 +109,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden, at G-7, says US, Russia can work together to help people of ‘Libya’ – meant to say ‘Syria,’ aides say"
+    excerpt: "President Joe Biden fumbled during a press conference at the G-7 summit Sunday, mixing up “Libya” and “Syria” – not once, but three times – while discussing humanitarian aid to countries torn apart by civil war."
+    publishedDateTime: 2021-06-13T23:39:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9BrTkm7C6oE/biden-g7-us-russia-help-people-libya-syria"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-g7-us-russia-help-people-libya-syria.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-g7-us-russia-help-people-libya-syria.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15b8be70-6089-4102-ba58-362e44a8a4a3/7110526e-323f-4439-b4fc-5bf2b6009b8f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden continues attacks on GOP-led voter restrictions from overseas"
     excerpt: "President Biden took a moment to attack efforts by GOP-led states to restrict voting as he arrived in Geneva, Switzerland on the eve of his highly anticipated summit with Russian President Vladimir Putin."
     publishedDateTime: 2021-06-15T22:51:44Z
@@ -122,20 +136,6 @@ related:
     quality: 155
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21166471478931.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Biden to meet with Russia's Putin in Switzerland for high-stakes summit"
-    excerpt: "President Biden is set to meet with Russian President Vladimir Putin on Wednesday for a highly anticipated showdown between the two leaders."
-    publishedDateTime: 2021-06-16T07:18:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AHleOyb_VBI/live-updates-biden-to-meet-with-russias-putin-in-switzerland-for-high-stakes-summit"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/db782526-AP21166471478931.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -168,6 +168,6 @@ related:
         height: 500
         isCached: true
 
-secured: "XjQGOhtpWpwK2bI6p9rBmaui6aEnIo9EwesiWkMfbU+PnALPw4cnK/rJKckPtPWEEI8hlryQl63/nYAOiu86VnYcrmtV2LKCaKgg21a01LOsRLLR/wT5AerS9Jp9mC6ei1NJh0E2Adu2fAyLJRpeZ9aLI8whnUQebHB9vkSf5uzF88/8DPRbuwO21ysSusx19R6LJ8W2YXyPya4zgR7HMsskDVVsjwahYitOLX7UJ5zrlx98D/Ju7klSimOk0IyNsJM4RJ9EuNflfDtIaF0RUMM1WYAWH6MzExDmyTpkQrxYbWFO+P2q8EnK1629wXEJh5LBByb4Fxx97lHAkHrf6riImMm1P6CB+Wb67JbaHsw=;eto9ct4MTyve3FtBd6Q7AQ=="
+secured: "EWl8/Fv1AimIhfnTwQB8OlUXm3xBzF0Jn3Y1aLqwEmnskeoYmfhDG017TLdpLZaTlOoBClKdiIG3P2zd/1tuMZAD25nzq7TCls3D7gkO+GN2673CQFxOunQoNk5a9naoFPHbvYEurd6w+0A8R2340a561ulI9LxBMHpZxGd2BYU+hpfuBWJBfOm8t0KfuxyqEOOVyRBDvrrICNGHkIFHjJMCNpQP+1sJ2DlM8j+DNrQ8eZEAmmUfHYirAPRK8UiMtGTCYJ6jtvVy49k2u+yymyVYjx7jE60a8Q2wWvGtN/HUxP4C0sST8A6vr3VMkidTIWJ9VEqzZEVwOWT5uhmRXqn0rLOCHG+WvI6+vIKmFAM=;uRtr6iBysh7T2q5hSnQA3A=="
 ---
 

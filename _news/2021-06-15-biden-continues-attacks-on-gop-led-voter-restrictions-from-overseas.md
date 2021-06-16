@@ -125,6 +125,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "LIVE UPDATES: Biden to meet with Russia's Putin in Switzerland for high-stakes summit"
+    excerpt: "President Biden is set to meet with Russian President Vladimir Putin on Wednesday for a highly anticipated showdown between the two leaders."
+    publishedDateTime: 2021-06-16T07:18:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AHleOyb_VBI/live-updates-biden-to-meet-with-russias-putin-in-switzerland-for-high-stakes-summit"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/db782526-AP21166471478931.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Will Biden raise microwave directed-energy attacks on US spies and diplomats with Putin?"
     excerpt: "As President Biden heads into the summit meeting with Russian President Vladimir Putin, a bipartisan group of Senate lawmakers is calling on the president to raise the issue of directed-energy microwave incidents targeting U.S. diplomats and top national security and CIA officials."
     publishedDateTime: 2021-06-15T22:44:45Z

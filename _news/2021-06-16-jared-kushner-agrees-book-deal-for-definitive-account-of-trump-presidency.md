@@ -496,6 +496,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Emails show Trump urged DOJ to probe 'voter fraud'"
+    excerpt: "New emails show former president Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last few weeks in office."
+    publishedDateTime: 2021-06-15T21:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/15/emails-show-trump-urged-doj-probe-voter-fraud/7708543002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/80284b5d-2124-40a2-a0f9-4101aaf08230_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
     excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."
     publishedDateTime: 2021-06-08T11:13:00Z
@@ -886,6 +900,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "8aOYy29eIrWeD5ZRMs1+XjKFUugawMy7QTe348V+Efw6qUQhZFIZsOK155yBfxFDzumjadJMEOR2lS4rMA4nIA+kR2uwbWsk7XWtpvQdjkuMidkkMVKq95JTI3nfuf8KWRVM01flUwIPq47Kgv8l9D+6pVeVd4ZsJQfXZi8DS4Dc2HSaRF3uKy1hnFARockWHKgHTEreh3+xG1qlxobYrssKxZLgdIXf7RY94IgckXSW15JHvOI6e6W7B3ZiySg3IqvgvEmY/6qYsFrCaPxRjiR5Tdr+qr5hoOq8GMUA/xM11q4pje/YW8EB9i3EVA1mVCebBw6r9wBzOp2rzqfiiFzkJ4qKGG+JXSLX9QROG90=;uQV20+MIzIxXJcAucj7lfA=="
+secured: "l8py+Hj/a368DhUfyendRTCKZNBqiJAypxhp2Bnj5Nd0OmcCkN4TJLaHpUPl5o1vCS+zuy0E0GD7E82vzhUQkCvZsDSGxTVdXej9GYv40PSk7K8RjdtWK7Z6NoXP/LQxLTkGM760/EFzDm0UIK0EeSXdR81BErZawKH/n6u2jntFJ9pc72aOTB1jn1vSVnirukSXjYzw6Iv3g9RyP2zKxb5YZXWIKws0vfBN9becG66qiJByj+BXl0MUVG6AQ45SdLW/8owPMjnq9lXPfshE1qGlVCh5MYETwD1rEY8ZFaGU23fK9E3+OC2smrZHG+CPVzSkNI7M0dmKUlcvacEFshd6Cy8WjvvyXbyGeKDgJfs0kEVzPXRf3JQZaum79PGDJqopx5Rp39mhQAU93N4uGQgE/Ngg1BJlLelS1z8FsnzMjJS7amhU8BEgAya7Ot/AtJTcITjMy9dmNfP8JGTLE+GFpzt2aCX933OLb4dem9jvlPHU6jAe8TIYTui7jl+ToIKTMlyJ4wNtAGNxqVp1aA==;RpkEfGGuwSPpQEDt0c3AQQ=="
 ---
 

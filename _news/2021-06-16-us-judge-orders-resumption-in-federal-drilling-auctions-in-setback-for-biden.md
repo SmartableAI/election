@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Polls: US image abroad has rebounded since Biden took office"
-excerpt: "The United States’ image around the world has improved sharply since President Joe Biden took office The United States' image around the world has improved sharply since President Joe Biden took office,"
-publishedDateTime: 2021-06-10T13:06:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103"
-webUrl: "https://abcnews.go.com/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103"
+title: "U.S. judge orders resumption in federal drilling auctions in setback for Biden"
+excerpt: "A federal judge in Louisiana on Tuesday blocked the Biden administration's pause on oil and gas leasing on public lands and waters, dealing a setback to a key White House effort to address climate change."
+publishedDateTime: 2021-06-15T20:49:00Z
+originalUrl: "https://www.reuters.com/business/energy/us-judge-blocks-biden-pausing-oil-gas-lease-auctions-2021-06-15/"
+webUrl: "https://www.reuters.com/business/energy/us-judge-blocks-biden-pausing-oil-gas-lease-auctions-2021-06-15/"
 type: article
-quality: 125
-heat: 265
-published: true
+quality: 101
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +23,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_3091bf6a667b4bd684841cf02e7e4ce7_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.reuters.com/resizer/uZj81OCXpuuXKkM9IUSLVnv7q8Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4OYIJ42VRBNPVA2ZY5WNXMTOHM.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
+  - title: "Polls: US image abroad has rebounded since Biden took office"
+    excerpt: "The United States’ image around the world has improved sharply since President Joe Biden took office The United States' image around the world has improved sharply since President Joe Biden took office,"
+    publishedDateTime: 2021-06-10T13:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3091bf6a667b4bd684841cf02e7e4ce7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "G7: Macron says US is back under Biden as leaders meet in Cornwall - as it happened"
     excerpt: "News from today’s meeting of leaders of the G7 industrialised countries in Cornwall to discuss vaccines, the pandemic recovery and the climate crisis"
     publishedDateTime: 2021-06-12T15:01:00Z
@@ -93,20 +107,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "U.S. judge orders resumption in federal drilling auctions in setback for Biden"
-    excerpt: "A federal judge in Louisiana on Tuesday blocked the Biden administration's pause on oil and gas leasing on public lands and waters, dealing a setback to a key White House effort to address climate change."
-    publishedDateTime: 2021-06-15T20:49:00Z
-    webUrl: "https://www.reuters.com/business/energy/us-judge-blocks-biden-pausing-oil-gas-lease-auctions-2021-06-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 101
-    images:
-      - url: "https://www.reuters.com/resizer/uZj81OCXpuuXKkM9IUSLVnv7q8Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4OYIJ42VRBNPVA2ZY5WNXMTOHM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "52% of Americans trust President Joe Biden to negotiate with world leaders, poll shows"
     excerpt: "A majority of Americans trust President Joe Biden to negotiate on the United States’ behalf with foreign leaders, a new ABC News/Ipsos poll shows. News of the poll comes as Biden prepared to meet Queen Elizabeth II at Windsor Castle after leaders of the Group of Seven wealthy nations agreed to provide poor nations 1 billion COVID-19 vaccine doses,"
     publishedDateTime: 2021-06-13T18:34:00Z
@@ -133,6 +133,6 @@ related:
       domain: lasvegassun.com
     quality: 35
 
-secured: "92iKwggZX0vC76MYIg5Ed5+IpZJ2ksNz/irwizUOCwbDIEkjRdnJRqX9tNr1hVfct4gGdSXLwoawzpEzMsc5W03gauU4qKhvTDKZWrOLGynKqk5jztg5ndtiAxoLGJuJ6QxR3anWxIuU1NqHVhGc6N159RGparSB3SNj4pMZ41XrokOq67CEnU1sLa8yxXP2fBV2KrJ81BB45soYRTkKUkZeaOb6XZfyG8cKwD0bKbqfklfHy8rvRjTC93qC+6WwsPuHisJ/gw8bxyWBTX3LERTmsMIkCW3mImRGYwKf4orRjgJBsHKhHg1eEowg6M27qPqmQMm9aIe9/LeYqioj5As7O1hZ60Hx5zfFHVZRYXiYrt59M02KXJWQrw1/t/3BFUg9cAYT2gMozQP9Mhq/+XG0mgqmj0vUcr95JsTfJyBXGCjIP3ZgQgG9KKndeo32lqCoMa+w6xsq+HAHqaeTXr+KnjkMo009+oW+wkjq7ZoVD+tz/GAY7x9Vko2JLfdpEuuRSwxyoHFiw0ZL0wupFA==;lM435xH6HlpBj6vVF5k1xA=="
+secured: "tDSuojtDmR+w7xP9NXR0uiiCMKxy0g5834CdBcdqmOaCLnIVpA/4YjERnjM/nbf1/22Kky7GgZusAOz0yw2DvX6OB8x3ePEgVTc3qmvFSqUtGmBDEqIb1r6wzIpAWUquXkfKKRddiEPFjqjIHBPra6kc2q8ftskLRYGZn1v38D73wLRw/A037ETqdvjR5r3edchC0Lo2hQA9souvR+PBtPlH626MjHj7LlFUppeQSnlbSamGlyPmXBNyXDzXFCEe8dDhaMBQk+PgdckAXaZdlEWHBDVrIPpb1+vGTIiukUCXCSBkb777XJ/7520o/PQB3LBu04+B/hLfMsbqu1Q6unyueR1PRAarx03lk3aSBbU=;Hz0eqCuiS9Htoz7y7oB22A=="
 ---
 

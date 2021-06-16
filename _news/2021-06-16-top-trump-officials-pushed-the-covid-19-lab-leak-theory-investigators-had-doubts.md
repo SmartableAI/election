@@ -1,36 +1,53 @@
 ---
 category: news
-title: "4 takeaways from the latest batch of Trump's election-related emails"
-excerpt: "A previously secret trove of emails released Tuesday by the House Oversight Committee sheds new light on how former President Donald Trump pressured the Justice Department on multiple fronts to do his bidding in his quest to overturn the 2020 election results.\n    \n"
-publishedDateTime: 2021-06-15T17:05:52Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3mdygaVbzk/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3mdygaVbzk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html"
+title: "Top Trump officials pushed the Covid-19 lab-leak theory. Investigators had doubts."
+excerpt: "New documents and interviews show how the president and his senior aides cherry-picked evidence and sidelined the government’s own virus sleuths."
+publishedDateTime: 2021-06-15T23:50:00Z
+originalUrl: "https://www.politico.com/news/2021/06/15/wuhan-lab-trump-officials-covid-494700"
+webUrl: "https://www.politico.com/news/2021/06/15/wuhan-lab-trump-officials-covid-494700"
+ampWebUrl: "https://www.politico.com/amp/news/2021/06/15/wuhan-lab-trump-officials-covid-494700"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/15/wuhan-lab-trump-officials-covid-494700"
 type: article
-quality: 190
-heat: 510
-published: true
+quality: 129
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614174532-02-trump-senate-gop-nc-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/03/4b/12b07f424400b101b9d11634f4d5/ap21104683831468-1.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
+  - title: "4 takeaways from the latest batch of Trump's election-related emails"
+    excerpt: "A previously secret trove of emails released Tuesday by the House Oversight Committee sheds new light on how former President Donald Trump pressured the Justice Department on multiple fronts to do his bidding in his quest to overturn the 2020 election results.\n    \n"
+    publishedDateTime: 2021-06-15T17:05:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3mdygaVbzk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614174532-02-trump-senate-gop-nc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump is doing more lying about the election than talking about any other subject"
     excerpt: "Since his presidency ended, Donald Trump has issued more statements lying about the 2020 election than statements talking about any other subject.\n    \n"
     publishedDateTime: 2021-06-12T16:00:40Z
@@ -271,23 +288,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Top Trump officials pushed the Covid-19 lab-leak theory. Investigators had doubts."
-    excerpt: "New documents and interviews show how the president and his senior aides cherry-picked evidence and sidelined the government’s own virus sleuths."
-    publishedDateTime: 2021-06-15T23:50:00Z
-    webUrl: "https://www.politico.com/news/2021/06/15/wuhan-lab-trump-officials-covid-494700"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/06/15/wuhan-lab-trump-officials-covid-494700"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/15/wuhan-lab-trump-officials-covid-494700"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 129
-    images:
-      - url: "https://static.politico.com/03/4b/12b07f424400b101b9d11634f4d5/ap21104683831468-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "bj+BLIeSpQEqVvJVvMF1Z8ZNNnUbDmQpuDNuSOZPh1wH2cRZm6quzfnVhMm5kbQsRNbJTK57wFmPXQXqnRb0evx+7arB342rjBEWUHSCWd0yRFPnLikj4590aFIDjlR/TUdwi+Kk5oPz/5/glHI22BOpW+ECkm4Hw2YBu11IAKJNWtxBMx2yiQwGbRDXjHpKxoh9vPqG8AeB0jXGnNfIAZAhoyv8JWgj96bYMdrw38QJVMdnLjD08zwp/6Z3Cbp/NTQnN7MMwRR3UPUQye0TVp8csudhz/CmVhvK2+u+OE4YjhxoPso6d6OxfZ8Y1nIgVg6q/SYqafIsiYJkiuDWfdQ8yTuyvfNsBd7EqujSvqk=;sGz3tHZwYgH03dcIiOHd/Q=="
+secured: "R+ETjSO0YukkD/ptxXnSjwuiYmKeuFZUz+ebaP3Qkx1Q5LG0iLWnmkl1SzyeIUGcqpr7ZPEZF6Cj/THLEPd4vm25/Rc6Y92mUy/DklywI3hPf2bbYTJWYlNTZ9AMqI1L2a4qVazlsAUfxmjpOUb5SmNU0OZE3WYM8WutYvnJ4Lipafwhi+hQOEdtIHyBh50odWv22yrKsZtCUD5uBZWnlfGXbb/dp3caMdgStAhHpBGidCQesXsWahuNH9eHICiFEotM62BLylpCyEaDVfJ9G/HncW7gNX6lTjICK1QhghigexaExKHM1oen8SRGtEhmay+fds+TBsy0dolyuZ5PNSvRPPfLtlz7tg+yiwZdRcU=;Ww9pU2A1VfNwzDT1fAVJiA=="
 ---
 

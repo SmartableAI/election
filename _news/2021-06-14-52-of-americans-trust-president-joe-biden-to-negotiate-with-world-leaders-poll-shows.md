@@ -105,6 +105,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "U.S. judge orders resumption in federal drilling auctions in setback for Biden"
+    excerpt: "A federal judge in Louisiana on Tuesday blocked the Biden administration's pause on oil and gas leasing on public lands and waters, dealing a setback to a key White House effort to address climate change."
+    publishedDateTime: 2021-06-15T20:49:00Z
+    webUrl: "https://www.reuters.com/business/energy/us-judge-blocks-biden-pausing-oil-gas-lease-auctions-2021-06-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://www.reuters.com/resizer/uZj81OCXpuuXKkM9IUSLVnv7q8Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4OYIJ42VRBNPVA2ZY5WNXMTOHM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "U.S. increasingly unlikely to meet Biden’s July 4 vax goal"
     excerpt: "For months, President Joe Biden has laid out goal after goal for taming the coronavirus pandemic and then exceeded his own benchmarks. Now, though, the U.S. is unlikely to meet his target to have 70% of Americans at least partially vaccinated by July 4."
     publishedDateTime: 2021-06-08T23:20:00Z

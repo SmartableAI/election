@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Republican Leader Defends Secret Subpoenas, Democrat Blasts Trump's DOJ"
-excerpt: "In defending the secret subpoenas, Stefanik attacked Rep. Adam Schiff, D-Calif., who has been a fierce critic of Trump, and was one of the House Intelligence Committee members to have his phone data seized."
-publishedDateTime: 2021-06-15T23:41:00Z
-originalUrl: "https://www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727"
-webUrl: "https://www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727"
-ampWebUrl: "https://www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727?amp=1"
+title: "Emails show Trump urged DOJ to probe 'voter fraud'"
+excerpt: "New emails show former president Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last few weeks in office."
+publishedDateTime: 2021-06-15T21:19:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/06/15/emails-show-trump-urged-doj-probe-voter-fraud/7708543002/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/15/emails-show-trump-urged-doj-probe-voter-fraud/7708543002/"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/us-representative-elise-stefanik-a-new-york-republican.jpg"
-    width: 1024
-    height: 676
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/80284b5d-2124-40a2-a0f9-4101aaf08230_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -512,20 +510,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Emails show Trump urged DOJ to probe 'voter fraud'"
-    excerpt: "New emails show former president Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last few weeks in office."
-    publishedDateTime: 2021-06-15T21:19:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/15/emails-show-trump-urged-doj-probe-voter-fraud/7708543002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/80284b5d-2124-40a2-a0f9-4101aaf08230_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
     excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."
     publishedDateTime: 2021-06-08T11:13:00Z
@@ -726,6 +710,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Republican Leader Defends Secret Subpoenas, Democrat Blasts Trump's DOJ"
+    excerpt: "In defending the secret subpoenas, Stefanik attacked Rep. Adam Schiff, D-Calif., who has been a fierce critic of Trump, and was one of the House Intelligence Committee members to have his phone data seized."
+    publishedDateTime: 2021-06-15T23:41:00Z
+    webUrl: "https://www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727"
+    ampWebUrl: "https://www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/us-representative-elise-stefanik-a-new-york-republican.jpg"
+        width: 1024
+        height: 676
+        isCached: true
   - title: "Food Deliverer Posed As Trump's Family; Used Social Media Following To Steal Thousands"
     excerpt: "A 22-year old former food delivery worker was arrested this week for creating fake Twitter accounts of former President Trump's family members and duping MAGA supporters of money."
     publishedDateTime: 2021-06-10T11:23:00Z
@@ -900,6 +900,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "e8lN7QEBfoIN5mUeCx7bd/ml2SEfcek7YIrh22WJi3qkGghkyaC0GkBcX10iF9bNYQ4k0zxciWnpJwWjfKJlwJ0I420F690CPjEv4Papd7hvnMvA6Ocv/6PBNkHFxXphPwJJvq+Cd0YvuADwaHy+3nX+SoprJ8WakKCY+s2AO+n3Xy/HJFTMXt41cf2JKRD2HwiOi2zQRc8CoMOfFbfiA3jyHKD0fsA0Fr3hlxZer330mwieMUVllSL7GKaNgcLe5tnt+T+YMPbtYsc+8BNxOh3+PFEOhTHJkni9kwolwpCojhBuC5zx4tEZPGHSL5GQTYEhGL70v6oMO43dm7ErqBWmF0jZ20QUccCQK0Un7sfdUMYTeKQHWGdIlgY9nn9S4SuCFd7Hc8lZvDpGTGKUfQXUom/TBtigu4sqClNaoizj6rf9WwjE7ULspa4dKu9lVr7gnMszkKb5PYMqWGrRlQKZQCCp1QcS1ItdMBzLbBDZ1uJLIzTBKiNItbvafrMChY+WgWlePB/Oh6QA7aXDYg==;ZccNa3GQfkH4P5pgg12WPA=="
+secured: "diDe0QiTZWkgRw4X4NQvkuHO+VLbPGQKWPkT+iCl0rDE3jQh/+p+jlwUHxxRt3D6itxZPEly26dBD2n5kQVQiurtUb78ERAjZ7l7U+KeLWyiPwOjo8lG3rphdXS4TvXCkG6aqIaNn2cjchyz4j4Xb2VCHvEvaEo4OzDyVOzwkJ+gpiaOQm40tkF8MF5vkS12yD06HFjq5+PgU85gIk00Iyh8apAZ6Qke69fPnIe4gLBF9asN5qQLYBmxjikzDmTR+6G7mMxHGccpNjOv6mbsku07zdq2n3KUKSLDUd1eR6al3DJBfMhA4Z/+RrTnisjy3rYNY7M+IZDk0fzibW3nAFVW50IeGph52PsOc7NkYNs=;Cd8mTB0/7I4UPdihuGkkhA=="
 ---
 
