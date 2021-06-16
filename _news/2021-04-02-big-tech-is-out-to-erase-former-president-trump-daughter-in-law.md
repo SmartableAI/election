@@ -92,6 +92,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "After Trump Ban, Facebook Oversight Panel Pushes for More Say"
+    excerpt: "The social-media company’s Oversight Board, as well as outside observers, say the longer-term effectiveness of the panel lies in how Facebook responds to its guidance."
+    publishedDateTime: 2021-06-16T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/after-trump-ban-facebook-oversight-panel-pushes-for-more-say-11623844800"
+    ampWebUrl: "https://www.wsj.com/amp/articles/after-trump-ban-facebook-oversight-panel-pushes-for-more-say-11623844800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/after-trump-ban-facebook-oversight-panel-pushes-for-more-say-11623844800"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-353616/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "b3RmaQuvJaN5IXcx6gmRPoeYQo+GfJfOaCKARcsV6Vev2RuelehNpetWd+IBUYptfnGkpFJwVuk9ZEtmupxeQfKDuzSBZBHha+KC7lIF3aN/IYS6bgTqj+kdRVgDcSfjqnNS5bfQzVHsGPSZIG81923Zkqe07ejazRIKPdcel7TcdH/aE3fED/nHfL8GVldnZQb9yazbDRupbpKKPOCZyljPLHMGjOxTFw0iy30FaXikUfUYuExXZQdbvtKa68UaMQBmXLuWvkuZ/ZIAImZjtR+aSk860xG200bgR9PZoz+1WsLRZ5FhPGxy/zHDhF3BlBPrRnzMmbBZzLizBvQSAsyDpHtr8Se5Kic6xuIYxumUNqggWLEWWZjJvxUUBfK8QTx6qqoveKSATDlCqzM7pxwUt19brDqmr3jXrA3kwZ630nR586i2AYg5Hf8U0hNF8Nete7VvbDGGqyI3JSqdzh7KwbE0kxi44cuLOO0FAdBppD8WkMJXhxDi1tMbolt+7tNEJPBxkv8TusSV/cD+Xw==;5S0Pk8yOvU2hvU2EnkvoVA=="
 ---

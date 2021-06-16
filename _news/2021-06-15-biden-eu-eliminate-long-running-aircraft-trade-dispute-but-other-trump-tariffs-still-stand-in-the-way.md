@@ -223,6 +223,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Looking ahead at the stakes for President Biden in meeting with Putin"
+    excerpt: "CBS News chief political analyst John Dickerson joins “CBS This Morning” to discuss the high stakes meeting between President Joe Biden and Russian President Vladimir Putin and what a successful summit would look like for the U."
+    publishedDateTime: 2021-06-16T12:05:00Z
+    webUrl: "https://www.cbsnews.com/video/looking-ahead-at-the-stakes-for-president-biden-in-meeting-with-putin/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/looking-ahead-at-the-stakes-for-president-biden-in-meeting-with-putin/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/looking-ahead-at-the-stakes-for-president-biden-in-meeting-with-putin/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/16/fce35e0a-c0ab-4fac-b7f7-94fc128d4509/thumbnail/1200x630/2aa4b02c7fb619bbb8505be2a0588d83/ap21167423879935-735417-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GOP Rep. Jim Jordan rips into Joe Biden for attending the same G-7, NATO summits with US allies that Trump went to multiple times"
     excerpt: "Jordan, a conservative lawmaker and staunch ally of former President Donald Trump, took to Twitter to blast Biden for attending diplomatic summits in Europe."
     publishedDateTime: 2021-06-14T20:04:00Z

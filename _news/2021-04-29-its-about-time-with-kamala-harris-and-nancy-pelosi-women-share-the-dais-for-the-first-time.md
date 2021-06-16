@@ -625,13 +625,13 @@ related:
   - title: "Vice President Kamala Harris invites all 24 female US senators for dinner at her home"
     excerpt: "Vice President Kamala Harris is set to host all 24 female senators in her home for a first-of-its-kind dinner."
     publishedDateTime: 2021-06-15T20:23:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7706598002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7706598002"
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7706598002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7706598002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 68
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/05/28/USAT/3ee71268-b3d9-4bcf-a461-edd6feb6e868-005_AP_Naval_Academy_Harris_2.jpg?auto=webp&crop=4334,2438,x0,y0&format=pjpg&width=1200"
@@ -769,14 +769,14 @@ related:
   - title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
     excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-06-15T19:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/40f41772693764fa3ce75c19df2d9049/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7e74eedfcc5cdea409f4c5cdce8018f9/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/40f41772693764fa3ce75c19df2d9049/HARRIS-RECOVERY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/7e74eedfcc5cdea409f4c5cdce8018f9/HARRIS-RECOVERY.jpg"
         width: 650
         height: 433
         isCached: true

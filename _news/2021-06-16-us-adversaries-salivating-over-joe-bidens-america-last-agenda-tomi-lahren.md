@@ -104,6 +104,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Ingraham Angle' on border crisis, Biden policy"
+    excerpt: "The Ingraham Angle' welcomed guests Terry Turchie, Dinesh D'Souza, Dan Patrick, Jim Jordan, Mark Meadows, Elana Fishbein and Chris Rufo"
+    publishedDateTime: 2021-06-16T13:15:00Z
+    webUrl: "https://www.foxnews.com/transcript/ingraham-angle-on-border-crisis-biden-policy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a2114de-2a2a-4bfa-bcf9-1e7179c4cc69/52c23c35-30a0-4447-ad5b-dd64364b902e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "fXbzuR2FaXO+VbIhWZuAAptooeAA0RVaBqSVTIF0xn1ckM8pEdp78V56T71En2p+NFLK+vM5DY26nx63NSJ1k4HMUug8gJ4bwKLDAPA3etv2MrI0NZWxUzshOfdY/2XE8WzSs0xOMYdp+NS4/iKL0qHVdnQFbGCM7Uu9TMkFrhJqWRIbqWyjuoUYnYnmLesWZ4mswGYQPPlL8x22v5lzG0kIYZNfSYLssyUFc81jns2xJ2JieFcYz4r8Cocdo0evrKqyVKlpX2FhPQf4maasQUypoob9+eknMcG3rrbTS8J8v3KNHWDxVV2Dzy5Y7VTv2+1MKlhXZRiPLd4vZc0+zNhkzBMkA9I0rYJPTcTQ9hY=;gf3CAKoDgc4Y9/Z8LF7O0Q=="
 ---

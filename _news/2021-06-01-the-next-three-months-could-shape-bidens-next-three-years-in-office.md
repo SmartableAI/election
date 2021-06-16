@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "See Biden and Putin shake hands as summit begins in Geneva"
+    excerpt: "President Joe Biden convenes the highest-stakes talks of his long career when he joins Russia's Vladimir Putin for a summit, an encounter set to test his decades of experience on the world stage and lay down an early marker of his diplomatic skills.\n    \n"
+    publishedDateTime: 2021-06-16T11:49:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZOE9pQ7KGOQ/biden-putin-meeting-geneva-summit-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/06/16/biden-putin-meeting-geneva-summit-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/16/biden-putin-meeting-geneva-summit-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616072605-biden-putin-handshake-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "bzmh+xyKxi9kNJoWWOIwtndmOIGak2pTeqvhF6NtRJyECo5cdBwVTMvCeboQpDHeXYuwhN4/T1OebHZd2lek4pIBP13YOYQeR9vIHKTD2N3X2B+ssf4wW4WnK7FN3CzNOqE3xlX7Ybty8o1oUMS2MllcLnUUjIXQCHszWgigqKitfYsD6wZ3hWrzct6Mnp7DAvar97JFthNcZNTl2W5vsOmM5D78CMuw7MsogaoIb4mjgR/g2Wi0D6Fpv9DcjN4Nm2ZbE3vVc0V8EqaGtFfdQ1BQXOgJUrwHiWvTfVxBIAlywHnkoKxKcwGgj6tv6UjHt7tsppTNTXN6papheXdje2H+qCoRF8Qp2QYfXpxi657XPCztJiPq5IRyGeoZDScJzbd4O2ZQdJ/vOCKLqzcvq4LmQImDwUZgwQnaokJbswjU1ANvb/Ld4whv86qDi7+EWdAcYo9BCH2c0fI9AqC96D56clrAZYv5xpJjHIj5gdXUcwtQtTi7qMcPEOdhjBGzAkp+dPjsPVDFByrdl/JIhQ==;iL38UtSLLsXnRtBt9R0oew=="
 ---

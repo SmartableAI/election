@@ -207,6 +207,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Looking ahead at the stakes for President Biden in meeting with Putin"
+    excerpt: "CBS News chief political analyst John Dickerson joins “CBS This Morning” to discuss the high stakes meeting between President Joe Biden and Russian President Vladimir Putin and what a successful summit would look like for the U."
+    publishedDateTime: 2021-06-16T12:05:00Z
+    webUrl: "https://www.cbsnews.com/video/looking-ahead-at-the-stakes-for-president-biden-in-meeting-with-putin/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/looking-ahead-at-the-stakes-for-president-biden-in-meeting-with-putin/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/looking-ahead-at-the-stakes-for-president-biden-in-meeting-with-putin/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/16/fce35e0a-c0ab-4fac-b7f7-94fc128d4509/thumbnail/1200x630/2aa4b02c7fb619bbb8505be2a0588d83/ap21167423879935-735417-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden, E.U. eliminate long-running aircraft trade dispute, but other Trump tariffs still stand in the way"
     excerpt: "Biden is meeting with E.U. leaders in Brussels Tuesday, but all the Trump-era disputes won’t be resolved immediately."
     publishedDateTime: 2021-06-15T10:25:00Z
@@ -414,6 +430,6 @@ related:
       domain: indystar.com
     quality: 16
 
-secured: "QXGNDKoU8hu908Z4ddCynYt36X5hwZ9hZYTfKMjURbQzHg+1ajAY+n8g0JTzZVGYj9a4Wr+L9f/h/mo5qjsJ+qlYe6Im8c9DZ+XzKlilOl7FRNQ38G4B7Ee2lRtIRjlDlzuniNgR2QoA40CxXva2gMg6rA1gkIs4VA+XV0xlywogsA6APe+KyDl6rJc8lj52qGL2zTtxK+pSgobPFLrnXvB2LNRBVTO1Igz46N+nAGdt3ZzMfBA9eNwUE7ASUe1iowHzwL3HFnz+M3Yg9HnrwAN+HONEbIiUDnoe6axq9Dtzj0e0QvGhD7zaVXr0xtDrylPkCdIKYMxScm1+c5OLWAyif1ZCBaHs7CJ9e5ADDUQ=;0EwIJnaZeVEKs64V1bRyyQ=="
+secured: "r/aCxQW785VFus/BC2fu8/iUgEYNoLkr5HsJio6RsSnpZoCTCw6sx2ECvuySvPIcgaWUY85JszmAUNHbl2Xi4h1WWzAjNNfKanWxNagWTy+WnJKWpT+bDthwsEcxzOHkWxZSCays7E09mIOeAvNX1lAXHcL2P4VOLhGrDNcxlzT9BLr1j0t8DE7y90pOw2jH+aOJVmYt3qGlzzzpLcsz8jLAENZZ+fDMQC4aVPxaLx2ZkBskU9ov+seCGnDBGJbCCK0XLSHjujIZETTPUsr/6WoVqfnkJs/M3vBsHy1O2TxAXWi9zcrUmBFmazBTSTqykIR85TwMQTfOiTgXc1Hgd1cyu4DcJz10TzYcwsAmGEdQ2qrno23gUahDg/1UE0vSXPClXUbehv7fu6UO+Sm0A/YiRviQMuZOqXIgY9YoAnE4/0UFV/F1TYAOtJlFE5Rnir8TO6Egb0lw0ffuUc1Cml4/OYYfDD9kkh6wwmPaPnY4sObKL4Y1c0AQealFwlDRRYD3ATQeI+3L0FA2SK5rTg==;JxZHRqcwhRou8jfrTUWNIA=="
 ---
 

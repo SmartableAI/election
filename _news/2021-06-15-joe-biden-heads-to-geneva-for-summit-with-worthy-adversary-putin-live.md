@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Biden-Putin meeting opens with reporters shoving"
+    excerpt: "President Joe Biden’s summit with Russian President Vladimir Putin began with minutes of unusually fierce shoving and shouting among U.S. and Russian journalists and security forces"
+    publishedDateTime: 2021-06-16T12:58:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/latest-kremlin-official-summit-easy-78308831"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/latest-kremlin-official-summit-easy-78308831"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/latest-kremlin-official-summit-easy-78308831"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f87f02f140e64a35b1744006f41a67f2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden arrives in Geneva for summit with ‘worthy adversary’ Putin – live"
     excerpt: "Reports say Biden has prepared extensively for Geneva meeting on Wednesday – follow all the day’s politics live"
     publishedDateTime: 2021-06-15T16:21:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
 excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
 publishedDateTime: 2021-06-15T19:21:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/40f41772693764fa3ce75c19df2d9049/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/40f41772693764fa3ce75c19df2d9049/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/7e74eedfcc5cdea409f4c5cdce8018f9/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/7e74eedfcc5cdea409f4c5cdce8018f9/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/40f41772693764fa3ce75c19df2d9049/HARRIS-RECOVERY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/7e74eedfcc5cdea409f4c5cdce8018f9/HARRIS-RECOVERY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -623,13 +623,13 @@ related:
   - title: "Vice President Kamala Harris invites all 24 female US senators for dinner at her home"
     excerpt: "Vice President Kamala Harris is set to host all 24 female senators in her home for a first-of-its-kind dinner."
     publishedDateTime: 2021-06-15T20:23:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7706598002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7706598002"
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7706598002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7706598002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 68
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/05/28/USAT/3ee71268-b3d9-4bcf-a461-edd6feb6e868-005_AP_Naval_Academy_Harris_2.jpg?auto=webp&crop=4334,2438,x0,y0&format=pjpg&width=1200"
@@ -874,6 +874,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "yR+ETkrK+9bRmzfutlTNz+VGoTqBJ+SFa0r1O/b+drPZ3r92ViKqx9jyLbA0mMKiSgPufV5TqtwtPRYw8JQ6FVMpH89Ei2rgmgnR7caOGPoGwFC7ZiJtsq0FjtRhZqwRmeVzG2ABw8gNQr0MKwn62IfIsn/rjpaAPtELi3IYVN7Bolqu1szECkfVaxwpY3H1MsPLQhROtw7+4iUzx/54l0xzjMHRBk8h2xXWxjslf0Q3eKhcDJ7Ymc0GCssQQEKYj5gf1fvXUbxe4nx7qY/Y/5y8iCyZhmOwcrbm0/hASw49myBKOBXeqGpOwf3gebCLfsrnHvZtqU2iETF8HSe3E1AtN5RZPbRCnQ5FUtpN3z8JpYfm6o4XwKLoMzIlcgzUiBVEWVTqDbozutTr/kQfsugZDOuRogQAX3+BnCz1YJ8vEYqR9x16b7DPCGF0Eh4NhNm8n/t3m4PMF7lJm5NrkvLe2pzkzTXP0o9DLl5FYIi4T4rkfyWJG/qqc9+yAsT8R3jovsbgcQv6AS8r5dk50w==;JPb7161/SFxrfzn24eG9tg=="
+secured: "t4XeXXRlRzT0OVhIFf008GOAglI+7QwpaAzY0nf/QCmmEcIZF1vezkdMKYE9P0hVlvOtlHJuyGL0XYYR1frblRoeGGQVMfdsW0iTjtVy/MylI7YLTR21ZldL0w4lvtgL0D+vYfxwBk2HApdvme0wHUoex9rnj/9hU1KOKo924B6CKyCHCyG5YpWHt01VvmRkKbaE1SLhn4bVVd5xHz/cnpwkw8L+TrZ/UlzAq5l7P06bWWnludQuPRfpHIPUtsEd9DUUBsFGEH6fQu6ZxZI1J7fgWXBfnWAIzJ3uBl9PGWhI+2n3BOp+8TGsNECSeNBuTgrFP82Tst+v2hPg+eCnOuiL/teBFHVhIqGTN/GJQwA=;D/9iasQdNWgahj2z9XqJFw=="
 ---
 

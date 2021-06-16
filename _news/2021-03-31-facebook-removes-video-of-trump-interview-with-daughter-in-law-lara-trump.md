@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-removes-trump-interview-vi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp"
 type: article
 quality: 174
-heat: 254
+heat: 274
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/100022f6-198e-455a-8560-ccb91f1ac4d9/83fb32f0-05d1-497b-b1f9-fe2008dabec4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "After Trump Ban, Facebook Oversight Panel Pushes for More Say"
+    excerpt: "The social-media company’s Oversight Board, as well as outside observers, say the longer-term effectiveness of the panel lies in how Facebook responds to its guidance."
+    publishedDateTime: 2021-06-16T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/after-trump-ban-facebook-oversight-panel-pushes-for-more-say-11623844800"
+    ampWebUrl: "https://www.wsj.com/amp/articles/after-trump-ban-facebook-oversight-panel-pushes-for-more-say-11623844800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/after-trump-ban-facebook-oversight-panel-pushes-for-more-say-11623844800"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-353616/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "7IdAQuqJeXVIVoRS/cUkPYeJyXgP3Eph8vhy+gLvqMZkdLyH/FkXBUngaIoEyUKmebC2zgmHD6HMSlse5KnhF764/BfYCd3GV+QDTKDMRfswBAHjUoFNRedhyFZhXeFWMMUTsPOG2IsMP4YpmDLN56uRZnWAzt8ZYChTRMrgebInqMKXh1XfV8/U4DTIWsBKmsan1wTuGuhpU052blROF4rEL+pxmsgkKM6+yp90Ru1ZHTHKqifIAZ30IDySECaWiPdOQm6GhpQWE/G/cd+4YWLO0kPDhTtClrTUnb9hfqWz/7sd8+y8Ct4mdIodWU/gjJL0FfXNyQeo7NXWQy/4JJauFuWTZo2ygqihjzsh5YE=;zRSOGj4mHgFF8y5EqjCUiQ=="

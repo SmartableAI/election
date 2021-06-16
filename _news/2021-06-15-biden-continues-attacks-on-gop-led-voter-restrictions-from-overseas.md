@@ -125,6 +125,34 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden-Putin meeting: American press manhandled by Russian security agents"
+    excerpt: "U.S. reporters and producers were aggressively pushed and shoved by Russian security officials Wednesday at the start of the highly-anticipated meeting in Geneva between President Biden and Russian President Vladimir Putin."
+    publishedDateTime: 2021-06-16T13:07:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HE_mWKlJC8g/biden-putin-meeting-american-press-manhandled-russian-security-agents"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Putin-meeting-media-shoved.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden meeting with Russia's Putin in Switzerland for high-stakes summit"
+    excerpt: "President Biden is meeting with Russian President Vladimir Putin on Wednesday for a highly anticipated showdown between the two leaders. "
+    publishedDateTime: 2021-06-16T07:18:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tIKnCbiK5LQ/live-updates-biden-putin-switzerland-summit"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/db782526-AP21166471478931.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Biden to meet with Russia's Putin in Switzerland for high-stakes summit"
     excerpt: "President Biden is set to meet with Russian President Vladimir Putin on Wednesday for a highly anticipated showdown between the two leaders."
     publishedDateTime: 2021-06-16T07:18:43Z
