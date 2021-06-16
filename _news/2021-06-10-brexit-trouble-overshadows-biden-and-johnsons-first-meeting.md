@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614135119-08-nato-summit-biden-erdogan-0614-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden pushes democracy abroad. Republicans openly question it at home"
+    excerpt: "President Joe Biden is girding himself for an epic confrontation of democracy vs. autocracy at his meeting with Russian President Vladimir Putin in Geneva, even as some Republicans back at home are openly questioning if democracy has much of anything to do with America at all.\n    \n"
+    publishedDateTime: 2021-06-15T22:27:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fHMTCnJYg9k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/biden-democracy-us-abroad/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-democracy-us-abroad/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210615140615-04b-biden-geneva-0615-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

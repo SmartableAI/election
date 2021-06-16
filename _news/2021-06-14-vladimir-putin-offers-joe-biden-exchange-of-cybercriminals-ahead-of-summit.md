@@ -169,6 +169,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "In interview ahead of Biden meeting, Putin called a US Marine veteran imprisoned in Russia a 'drunk' who 'got himself s---faced'"
+    excerpt: "Trevor Reed was sentenced to nine years in prison last July after being convicted of assaulting two Moscow police officers while drunk."
+    publishedDateTime: 2021-06-15T19:13:00Z
+    webUrl: "https://www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/60c86ba823393a00188e32b2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden to hold solo news conference after meeting with Vladimir Putin in Geneva"
     excerpt: "White House says solo press event is 'appropriate format\" to communicate with media about topics raised during Joe Biden, Vladimir Putin meeting."
     publishedDateTime: 2021-06-12T13:36:00Z

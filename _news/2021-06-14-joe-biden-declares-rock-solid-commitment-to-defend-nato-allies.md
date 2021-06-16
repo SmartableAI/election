@@ -75,20 +75,15 @@ related:
         isCached: true
   - title: "Joe Biden, a father's love and the legacy of 'daddy issues' among presidents"
     excerpt: "President Joe Biden often talks about the close relationship he had with his father and how this influenced him growing up as “the scrappy kid from Scranton,” Pennsylvania. Biden was born into wealth,"
-    publishedDateTime: 2021-06-15T13:07:00Z
-    webUrl: "https://www.chron.com/news/article/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+    publishedDateTime: 2021-06-15T14:07:00Z
+    webUrl: "https://www.expressnews.com/news/article/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+    ampWebUrl: "https://www.expressnews.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 72
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 52
 
 secured: "Q+5TzwjRKTBu+ETtr53l3NTErjPMmmPd1tSxRUegPTGqIUE9EkQzOGqi1gH/J687UShYF91B52fFRPvtCu2AQiPbIMccAEABYjdlnQSXny8x3A4+XKhBeeuwLVEUqST9GDL1V1ET7e+juC7FShyIudTpgJ3XD9QAP3tjf+xRXBfvBfst2Xjo5M52UBPVNQZKUVssl09dYLZ74nUrRfaQK3FsuKggIU4Bgo+ySIlfdN53EEG0beMUL3U4UxWNYwEpTVgJge4qSMVacbFrWggsJzue2f3vp/WQ52u8H+Bc2qL8xmGcmrgMs1Yd0QRYIUZDSKaKXFgU+GP7eZ2eSes+HlmEv8AKolAl5PfJVZPge5UfdB1j4GXZb6aU13cpwP6cYNQZg4Vt+0MMoGVpcENdFRkPtUHz23rCKglvceKoPVSRs1CezqDvp6eStSV8osK1ImG/pQHcGfbCN0p9jkoFKod6GHbxAhVoZzqcRxcK1S6eWOrcJZR/bP6sIg4c+Y9lD/a1N03HM8Zo2lXyhzCBMw==;PlWqMAh1fZC619zAbcsDtA=="
 ---

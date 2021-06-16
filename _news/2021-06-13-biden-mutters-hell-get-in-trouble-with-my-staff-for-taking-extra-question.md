@@ -111,6 +111,34 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden continues attacks on GOP-led voter restrictions from overseas"
+    excerpt: "President Biden took a moment to attack efforts by GOP-led states to restrict voting as he arrived in Geneva, Switzerland on the eve of his highly anticipated summit with Russian President Vladimir Putin."
+    publishedDateTime: 2021-06-15T22:51:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b0o-fZUqi9o/biden-attacks-gop-led-voter-restrictions-overseas"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21166471478931.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Will Biden raise microwave directed-energy attacks on US spies and diplomats with Putin?"
+    excerpt: "As President Biden heads into the summit meeting with Russian President Vladimir Putin, a bipartisan group of Senate lawmakers is calling on the president to raise the issue of directed-energy microwave incidents targeting U.S. diplomats and top national security and CIA officials."
+    publishedDateTime: 2021-06-15T22:44:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpuIVrFWiiE/will-biden-raise-microwave-directed-energy-attacks-spies-diplomats-putin"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-Putin2-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's Bumbling on World Stage Is Boosting Our Foes"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-06-15T18:44:00Z

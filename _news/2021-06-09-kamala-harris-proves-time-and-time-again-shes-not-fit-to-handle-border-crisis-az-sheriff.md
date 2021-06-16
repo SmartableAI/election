@@ -112,6 +112,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris pushes amnesty bills on DACA anniversary, as Republicans slam border crisis response"
+    excerpt: "Vice President Kamala Harris on Tuesday backed efforts to give pathways to citizenship for some illegal immigrants on the 9th anniversary of the Deferred Action for Childhood Arrivals (DACA) program – as Republicans hammered her response to the crisis at the southern border."
+    publishedDateTime: 2021-06-15T22:10:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RsUmuprcFqs/harris-pushes-immigration-bills-daca-anniversary-republicans-border-crisis"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/harris-desk.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "WSJ Opinion: Stop Blaming Kamala Harris"
     excerpt: "It’s not Kamala Harris’s fault she has no good answers for the chaos at the border. It’s President Biden’s. Images: Reuters/Getty Images Composite:"
     publishedDateTime: 2021-06-13T23:00:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
 excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
 publishedDateTime: 2021-06-15T19:21:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/9f94fb3645d1f08c63c8b800019348ce/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/9f94fb3645d1f08c63c8b800019348ce/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/3ec31fa177ec9babd24e4b98f17c29dd/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/3ec31fa177ec9babd24e4b98f17c29dd/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/9f94fb3645d1f08c63c8b800019348ce/HARRIS-RECOVERY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/3ec31fa177ec9babd24e4b98f17c29dd/HARRIS-RECOVERY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -842,6 +842,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "E0/+B161i4yj0pVPOppTqYfvdQhUKa/c1DISjXl/qN3XVEMfa2TPVH5z0GJG3PP5WrGThoA80C9yiVE28cEaQgAIDd4xyAzS7OY4FFrvZS1RKFOTc0wKdtypB6q62oIUCi+2ZiyvFk1nftmcdbawInnY9fme/Qp6qzWCztQK4RpG+/t+xITo2+7xCvsyjaRux1EQFx7XUNIW3r9tzUuAdrwqtmo9Xc1HS+nt1ao8kmZ5R5eaX+kedk04MRwU8IkAcHb6JgciTM1xZ9dehI1WibmHln5lBOg+u7THhIXy5WGiBSnX6wWMwteF/flQQOMS/jleqT8lRag49T3zFKjwewSn8web3ZikpljqQiHkMrI=;to2zggVQmmo8C1fQeVV/aw=="
+secured: "CDhMtKmXX7EI5aREjUXBosC49O4+6WGyhhg5Zoziddq3euk4qcLgAs8Tl0bhYTRZOfO3WN03jSAX56vn5huvYQKU/2Sn89Rwt1OhvbJz+1NVW3jTMTfETG7NPs1JYH9kPeXgFn1GRyebKK+VFV5LUp6qPkahWXpuv26hBIDX1rcmZTduQiz6+IzXzYiXrl+cUndFnDP0MzXVMn9s6J6RRV5ylPnzypaO3JJVXWgL5LbYGkgnpGDRF+ubyVatYpAuWup8qb1P84XZeDsBhI6J3lJk2Xvy0sp5OFe3Va/PSFuSO5TPk+4mnrTiQpsM99biO6RiiwAQTCImwoFA2KjRQKeXEKgQK+dt8iZ9PrpOIrI=;xWgGIj8xCyni2ezkSscsIA=="
 ---
 

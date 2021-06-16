@@ -425,6 +425,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "The startup scoring all the Biden admin interviews"
+    excerpt: "Welcome to POLITICO’s West Wing Playbook, your guide to the people and power centers in the Biden administration. During a live interview with the reporter ERRIN HAINES last month, Energy Secretary JENNIFER GRANHOLM divulged that the women of President JOE BIDEN’s Cabinet had discussed getting together for dinner or drinks “once Covid calms down just a bit more."
+    publishedDateTime: 2021-06-15T23:00:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/06/15/the-startup-scoring-all-the-biden-admin-interviews-493262"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "dLLn/R6ItQ0gvaPZK2Ax4iSF6ND1BACdrA4pIy+M7qYmrm8nMZPgucYxn9jQDQc/vHiR0grhm53Ngnmke5Q72oqHJbJ2o1m77HpOP3uguWQ6nlEd441K2Ytlie3CIJXigbmiXtdCGU6QgCf649klh4woQ0ZY1m3nQISn7xnJ0TP1DewpDm0lOiyfO5FyALmbW6DZyQDXSK8v5etZYSuKLlVLfHggdO6mRsUcn6RFHtkRxbFYGzSwdwb0fGoiJtWMKwPLVn4XCIfIwDDHIJ4d8NQgz2DTKegJpOd4uEx2mky4lUyNMHme6Fgwpi+/6hDqHJZzJswGu8f8hzVxbCOFOe6InZ8ZEcuLJ/N702eNGNs=;R90EcNLczp8CRT/0ixN2rg=="
 ---

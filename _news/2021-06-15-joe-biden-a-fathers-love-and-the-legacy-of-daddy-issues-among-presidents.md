@@ -2,29 +2,23 @@
 category: news
 title: "Joe Biden, a father's love and the legacy of 'daddy issues' among presidents"
 excerpt: "President Joe Biden often talks about the close relationship he had with his father and how this influenced him growing up as “the scrappy kid from Scranton,” Pennsylvania. Biden was born into wealth,"
-publishedDateTime: 2021-06-15T13:07:00Z
-originalUrl: "https://www.chron.com/news/article/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
-webUrl: "https://www.chron.com/news/article/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
-ampWebUrl: "https://www.chron.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+publishedDateTime: 2021-06-15T14:07:00Z
+originalUrl: "https://www.expressnews.com/news/article/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+webUrl: "https://www.expressnews.com/news/article/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+ampWebUrl: "https://www.expressnews.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
 type: article
-quality: 72
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: San Antonio Express-News
+  domain: expressnews.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Biden declares the ‘US is back’ and urges democracies to stand together"
@@ -90,6 +84,6 @@ related:
         height: 532
         isCached: true
 
-secured: "8XdktNKSrAPPpmI2PyEKFD+9+1HYCIfV4E/aqUMdg4vruIDKJDJotBy9bpsrrUfS5EObupYI5RfzkSUprXn+qO/4u0YItk7eABe2382ccNHoTLwNdG4Lg+fLeAFfGsXmvPfr3HLXVAGZrPSgWIL/fG4I1zZAITUeddkL1fPqp4T/dfyyjUuqVj/dfcKbrokKUi1qzEnaeWIpSpi4rlpxbauBfkiM+DcPTmcrib1Rufe8Gzqqs5ry0kfpQCpBESEtNN62GyOGWqovNihsSY5UAx/wkGOwOJj7Y5H7GjS6tL6sraEsi9yuWy9bpZhBfcdgWn+dEYk+uMvGOiPcQP2lAYb1mOHjHW/VlIhgN5pdTX8=;2FTK0wbKLbhuih1zo7J4JQ=="
+secured: "DlghzRfPlTZIUelX6WB2CL6iBQRwQ6Ise5hKHPgT7V7eaRqbtWjZc1t4I1PTNLXO76pAVRlEODLEDupdWw7pNBclsN6sLeibMM2NMpQ1jNil1I66PcsT2wOjr4odtski19CsMEjhzLDmzLYG6jRYy9YevdsW7opvsIHr0/2RCwfa+NgmhzYaLZ9hGUg1VffwfNnaf9V5YmNlYKBHZb/06Ah6QcZUcYTQ6yAZT5nKuZP3mFUKLU2dLGJR3JIcagLvnEw7Cfkb2aWmAMkjHv657fZhzCGx+Bff47yiclFomakRl8GFQBS0EifBMHjdyy8oQhCgJ8Y8NLP0b9b5nywg5SiDpi0IMAHC/5pAPiqkTpw=;oza7IE2C8WKIUhvg3HemQw=="
 ---
 

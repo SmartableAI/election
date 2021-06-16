@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden nominates 9 to high-profile ambassador postings"
+    excerpt: "President Joe Biden has unveiled picks for several high-profile ambassadorial postings, turning to a group that includes career diplomats, political allies and an American aviation hero"
+    publishedDateTime: 2021-06-15T20:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-nominates-high-profile-ambassador-postings-78296693"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-nominates-high-profile-ambassador-postings-78296693"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominates-high-profile-ambassador-postings-78296693"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7e2141ba6e1c4af0bdb6e05dd9171362_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "All the Queen’s presidents: Biden will be 13th US leader to meet monarch"
     excerpt: "Biden previously met the Queen in 1982 while she has met every US president since Eisenhower except Lyndon B Johnson"
     publishedDateTime: 2021-06-11T17:01:00Z

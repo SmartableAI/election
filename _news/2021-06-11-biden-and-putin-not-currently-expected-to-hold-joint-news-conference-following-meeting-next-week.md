@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden pushes democracy abroad. Republicans openly question it at home"
+    excerpt: "President Joe Biden is girding himself for an epic confrontation of democracy vs. autocracy at his meeting with Russian President Vladimir Putin in Geneva, even as some Republicans back at home are openly questioning if democracy has much of anything to do with America at all.\n    \n"
+    publishedDateTime: 2021-06-15T22:27:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fHMTCnJYg9k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/biden-democracy-us-abroad/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-democracy-us-abroad/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210615140615-04b-biden-geneva-0615-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Biden and Putin won't hold a joint press conference"
     excerpt: "When US President Joe Biden and Russian President Vladimir Putin gather for their highly anticipated summit in Geneva on Wednesday, it will come at a time that both leaders say is a low point for relations between their two countries. So, perhaps unsurprisingly, a joint press conference following the"
     publishedDateTime: 2021-06-15T18:34:29Z

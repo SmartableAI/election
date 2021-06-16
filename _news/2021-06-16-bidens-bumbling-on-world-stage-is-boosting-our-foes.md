@@ -122,7 +122,35 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden continues attacks on GOP-led voter restrictions from overseas"
+    excerpt: "President Biden took a moment to attack efforts by GOP-led states to restrict voting as he arrived in Geneva, Switzerland on the eve of his highly anticipated summit with Russian President Vladimir Putin."
+    publishedDateTime: 2021-06-15T22:51:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b0o-fZUqi9o/biden-attacks-gop-led-voter-restrictions-overseas"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21166471478931.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Will Biden raise microwave directed-energy attacks on US spies and diplomats with Putin?"
+    excerpt: "As President Biden heads into the summit meeting with Russian President Vladimir Putin, a bipartisan group of Senate lawmakers is calling on the president to raise the issue of directed-energy microwave incidents targeting U.S. diplomats and top national security and CIA officials."
+    publishedDateTime: 2021-06-15T22:44:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpuIVrFWiiE/will-biden-raise-microwave-directed-energy-attacks-spies-diplomats-putin"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-Putin2-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "9t2EWKwo6ecE3rMgjb1M22nR2BgiBmzcOhw6NocxUIWmGoV5xqUfiP6TcqYyoWvGj+0dKRfnG4eXRnoevKbWcEzgLU+SaSPKGLROg5AvgEDN+2EkShaeeAhQaYHglAqheLNkcL1ryJM1Mu36rQqpf7N+SyOtEWwGsfdRCDpqDazaYH+IwIk6aXwbpljbsBeTPsbkuzAtyPI3CPXsi0m6wR48yThDWQi/7zn6mnCuUfiQ9YhHt7BPnRzI1Xp34UDgLBeBC1v0xNWhgHuegniTWZjCfTIpWg5YpkgQXQbZwYyTOLpFc3KS+grRQS0P9eIO94CFytTbzSpW/CUajFKkyEsezklic0S1nGTB+GmYedY=;nEPG2KHxvWqufow/p4UvWg=="
+secured: "7RRt79dY5ziaO3I5/CWwi62cNrUKiByU+zicWqjanEtxBeUI0yYQCULlV1QIvSKFbEj0s4K8eulBwCmhGLFjcFahrJCw6KIQtivJsghm3kPr30dTaBqQuaS2GuP2lh0d+f+ctX1Iiox+7/SPIoeyJ1FIrve0myKi4WucnfCB5jVkgnfMkfkhCgOTS2ElzRN1N7dijkYkY5A/QB2MkU2Sa3kJmRi9WJ2gYCaxGzIM4uS11HKHgPy1e0LmkN4Yaw+nLYeaqHhD5y6ai8kSxmaRZW6mKOB+LpWwFi0LoJPWV00F6dy+NaxQiCQ8s7gYxuoeCTaV3cm1JQU0CQcF7tlsLklA5KxW+D3zLxzNprITz+G/sGZaLFWdN0Z8eTaBbINjCsS9jfZxQPmsET94rDnpYgiXHSHfWV+YbP+YyLtsLvwbYl8DNqilG1JD2TlRVtsf3M/3iFcJnoVqT1sZtAXtQRPKqOizkm6ceDy5bBUzhJKhZ/wUkFvjs8bHWTRyf5tppYWddcK7VTsHv386CuttNQ==;iE2zrW8QvNlYvm4AHpog1g=="
 ---
 

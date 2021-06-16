@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/swiss-detail-extr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/15/f15a2967-82ec-4f03-8830-2ef851902861/thumbnail/1200x630/4e8606f7a1035c769c3e7eaf9cbe3199/cbsn-fusion-joe-biden-vladimir-putin-summit-preview-analysis-2021-06-14-thumbnail-734744-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "In interview ahead of Biden meeting, Putin called a US Marine veteran imprisoned in Russia a 'drunk' who 'got himself s---faced'"
+    excerpt: "Trevor Reed was sentenced to nine years in prison last July after being convicted of assaulting two Moscow police officers while drunk."
+    publishedDateTime: 2021-06-15T19:13:00Z
+    webUrl: "https://www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/60c86ba823393a00188e32b2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Vladimir Putin offers Joe Biden exchange of cybercriminals ahead of summit"
     excerpt: "Ahead of his highly anticipated Wednesday summit with U.S. President Joe Biden, Russian President Vladimir Putin said he is willing to exchange cybercriminals with United States, state-run media said."

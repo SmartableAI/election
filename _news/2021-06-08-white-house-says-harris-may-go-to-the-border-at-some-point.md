@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-harris-may-go-to-the-bo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-may-go-to-the-border-at-some-point.amp"
 type: article
 quality: 185
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aac5aad-156b-47c2-876f-b729a79d2e83/43173c34-5f1c-4b7a-931a-4a0413d9e851/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Harris pushes amnesty bills on DACA anniversary, as Republicans slam border crisis response"
+    excerpt: "Vice President Kamala Harris on Tuesday backed efforts to give pathways to citizenship for some illegal immigrants on the 9th anniversary of the Deferred Action for Childhood Arrivals (DACA) program – as Republicans hammered her response to the crisis at the southern border."
+    publishedDateTime: 2021-06-15T22:10:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RsUmuprcFqs/harris-pushes-immigration-bills-daca-anniversary-republicans-border-crisis"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/harris-desk.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris proves 'time and time again' she's not fit to handle border crisis: AZ sheriff"
     excerpt: "Pinal County, Arizona Sheriff Mark Lamb slammed Kamala Harris for dodging press questions about the border crisis with laughter, saying the issue is \"not a laughing matter\" and that her response proves she's not the right person for the job,"

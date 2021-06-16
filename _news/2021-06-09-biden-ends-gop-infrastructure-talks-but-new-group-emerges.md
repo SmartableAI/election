@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrast
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ends-gop-infrastructure-talks-group-emerges-78167086"
 type: article
 quality: 125
-heat: 605
+heat: 625
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/International/biden-jobs-ap-rc-210604_1622818701236_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden nominates 9 to high-profile ambassador postings"
+    excerpt: "President Joe Biden has unveiled picks for several high-profile ambassadorial postings, turning to a group that includes career diplomats, political allies and an American aviation hero"
+    publishedDateTime: 2021-06-15T20:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-nominates-high-profile-ambassador-postings-78296693"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-nominates-high-profile-ambassador-postings-78296693"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominates-high-profile-ambassador-postings-78296693"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7e2141ba6e1c4af0bdb6e05dd9171362_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/white-house-biden-to-meet-pu
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSX6YWWMGYI6XIREXVM32IQZPQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Buoyed by allied summits, Biden ready to take on Putin"
+    excerpt: "Fresh from supportive summits with allies, Joe Biden is declaring himself ready to take on Russia’s Vladimir Putin in far more confrontational talks"
+    publishedDateTime: 2021-06-15T20:20:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_b2ed2ad9ce3d47d69be41a7d134f2c41_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Joe Biden, Russia’s Vladimir Putin to meet next month for summit in Geneva"
     excerpt: "The two leaders’ scheduled meeting, set for June 16, is being tacked on to the end of Biden’s first international trip as president next month."
