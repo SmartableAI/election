@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Sides With U.S. Following Putin Meeting, Unlike Trump After Helsinki Summit"
+    excerpt: "The American president made it clear that he would side with the U.S. over Russia and every other nation, unlike the unexpected comments that came from Trump after his own summit with Putin in 2018."
+    publishedDateTime: 2021-06-16T17:53:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-sides-us-following-putin-meeting-unlike-trump-after-helsinki-summit-1601261"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-sides-us-following-putin-meeting-unlike-trump-after-helsinki-summit-1601261?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-sides-us-following-putin-meeting-unlike-trump-after-helsinki-summit-1601261?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1822810/joe-biden-vladimir-putin-summit-trump-helsinki.jpg"
+        width: 594
+        height: 386
+        isCached: true
   - title: "US drops Trump order targeting TikTok, plans its own review"
     excerpt: "The White House dropped Trump-era executive orders that attempted to ban the popular apps TikTok and WeChat and will conduct its own review aimed at identifying national security risks with software a"
     publishedDateTime: 2021-06-09T15:05:00Z

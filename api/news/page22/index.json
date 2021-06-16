@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-05-04-pence-to-headline-new-hampshire-event-in-june.md",
+      "title": "Pence to headline New Hampshire event in June",
+      "excerpt": "Former Vice President Mike Pence will headline a campaign event in New Hampshire next month, fueling speculation that he may run for the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june",
+      "originalUrl": "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_100820getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june?amp",
+      "publishedDateTime": "2021-05-03T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-kamala-harris-stresses-need-for-independent-judiciary-in-el-salvador-as-democrats-push-court-packing-in-us.md",
       "title": "Kamala Harris stresses need for 'independent' judiciary in El Salvador as Democrats push court-packing in US",
       "excerpt": "Vice President Kamala Harris stressed the need for an \"independent\" judiciary in El Salvador on Sunday, even as she has yet to speak out against a Democratic attempt to pack the Supreme Court.",
@@ -1291,58 +1343,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-paul-ryan-trump-debate-will-fade-as-new-candidates-emerge.md",
-      "title": "Paul Ryan: Trump debate will fade as new candidates emerge",
-      "excerpt": "Nearly six months after the presidential election, Republicans remain divided over former President Donald Trump",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_c9db11371d264d36a3059ee975d86cbf_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
-      "publishedDateTime": "2021-04-30T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

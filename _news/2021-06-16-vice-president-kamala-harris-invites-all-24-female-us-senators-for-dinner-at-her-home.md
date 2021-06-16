@@ -3,18 +3,18 @@ category: news
 title: "Vice President Kamala Harris invites all 24 female US senators for dinner at her home"
 excerpt: "Vice President Kamala Harris is set to host all 24 female senators in her home for a first-of-its-kind dinner."
 publishedDateTime: 2021-06-15T20:23:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/7706598002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7706598002"
+originalUrl: "https://www.indystar.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
+webUrl: "https://www.indystar.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
+ampWebUrl: "https://amp.indystar.com/amp/7706598002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7706598002"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -430,6 +430,22 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 85
+  - title: "Vice President Kamala Harris says Texas is key example of why a new federal elections law is needed"
+    excerpt: "After their walkout to derail a priority GOP voting bill, Harris met with Texas Democrats at the White House as lawmakers call on Congress to pass legislation to restore federal oversight of elections."
+    publishedDateTime: 2021-06-16T17:38:00Z
+    webUrl: "https://www.texastribune.org/2021/06/16/kamala-harris-texas-voting/"
+    ampWebUrl: "https://www.texastribune.org/2021/06/16/kamala-harris-texas-voting/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/06/16/kamala-harris-texas-voting/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 76
+    images:
+      - url: "https://thumbnails.texastribune.org/yzsQh9wt3PLClIvsFWNmkaTDJLg=/1200x630/filters:quality(95)/static.texastribune.org/media/files/2e24eed9c97c2ddd89dc73e08530bfda/VP%20Harris%20Texas%20Dems%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris has awkward interview with NBC's Lester Holt"
     excerpt: "During her trip to Guatemala this week, Vice President Kamala Harris did a sit-down interview with NBC's Lester Holt, who pressed Harris on the ongoing crisis at the southern U.S. border. Harris, who is visiting Guatemala to work on solutions for the \"root causes\" of migration,"
     publishedDateTime: 2021-06-09T17:29:00Z
@@ -874,6 +890,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "PMYY/OuW4YOf5BJxU3PDhM5SGjmxM1WTjiUKnUjxbXowm3i0I/Sxi0nYU3to5H9Zd5rc5J1I5eVtIPkYMTUGCv8T/ZuRmxPtRw5VB9UsM0GyEkKut0XPzd5CkHCGkTNfw1Jfs81CwnQMiPr0Ruo6FBTp/pORzY9QECJzMtwElIqkSbKc2DczRg5ePO/GKf5635D9zT9ycJ0mm7/ANU/5AaTjcJBQNQnEmvxgAyyqosbJVE2V8VdI3q86Dm/1ZVE7bNTpU6004T+W4lr/V7tEbNjX72gyIGnfxYrQbRFcckIAuOGP5W1DKXrLSmyaUHFZJHRSQ9i+KkFmq0o4WxPws+URswJUl/8+afwm1g58aqE=;xZFt3LIaUqh/AulPJSBeJg=="
+secured: "XPrpdYoyjGDjoTcpSEsUvAInpvc0iS89NPhymXvk3CrBqBdQp2L8vOs36dtOx+OItlGeKEq1WvP8qoDVG1dRo7rdkPZpBTvuRNnyM1md++Xot6FWARi/JUv8nFqJNNid43y3edmY2K4rJGPfnKzCWB0DxLEmfwfdVJrkEKdZTdtzBQmLrBP3YmkfNaycAKaBo2NIy+l45tRsxQ7MJ8iUo9ofge/rgP3kmUdVjBoY/GVprAH59e+8tvtSZtpa0j+x+XLv/icr314/rxtxdZMVKUCGsqUvTqEwHIGa5IGHscXFy6IHWeasACedt3PzzeRlkKIcoLiIsRVsaXA29HAIkA0aE4F83pC18EVYa6/yuNA=;lbDQgbHQFvTOzKQiT/ZaSA=="
 ---
 

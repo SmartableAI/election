@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/president-biden-internat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/president-biden-international-trip-vladimir-putin/index.html"
 type: article
 quality: 174
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden: Putin knows there will be consequences if ransomware attacks, election interference continues"
+    excerpt: "President Joe Biden said Russian President Vladimir Putin knows there will be consequences if ransomware attacks and election interference continue. Biden said the price Putin will pay includes his credibility worldwide."
+    publishedDateTime: 2021-06-16T17:55:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-says-there-will-be-consequences-for-russia-if-ransomware-attacks-election-interference-continues-114929221597"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114929221597"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114929221597"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623865787554_nbc_spec_biden_cyberattack_consequences_210615_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "2egnZet6I4QET7xujx9/vqNioDmCAQhrcBe+vUUcqTU1fUEMW4ufKqQpQPLWVt5kvPbeVKQjeuHzFhgMKXeBrRV/TAYCjy+CDjmOJjNMKLxIl2Ydt31fCk6cjLKHHBnWfjKUZ3tT3+H6O+3jJb0Ua6nhrruJpnkjOkm6sQJAb1KI0MXz0ZxAYSLJAniLs5zQm6CpIAgPnbop3hlANOiGPD3PXgR0ARrQpH9EW8gt296GEY2Hv2p7WJKfb9rSj2i3BaQHBa3dhGLPWtCk1/oKH50AOCRkWp7O6wo29zql6bfHlWZSbwPB+9QzpPY4kbf+jnhoURUNJMzV0C+Qym1UMnJMuaVnZ8djoqeo5egMzq4=;Yl5XSaCOyiVa1xcTAExdGA=="

@@ -430,6 +430,22 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 85
+  - title: "Vice President Kamala Harris says Texas is key example of why a new federal elections law is needed"
+    excerpt: "After their walkout to derail a priority GOP voting bill, Harris met with Texas Democrats at the White House as lawmakers call on Congress to pass legislation to restore federal oversight of elections."
+    publishedDateTime: 2021-06-16T17:38:00Z
+    webUrl: "https://www.texastribune.org/2021/06/16/kamala-harris-texas-voting/"
+    ampWebUrl: "https://www.texastribune.org/2021/06/16/kamala-harris-texas-voting/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/06/16/kamala-harris-texas-voting/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 76
+    images:
+      - url: "https://thumbnails.texastribune.org/yzsQh9wt3PLClIvsFWNmkaTDJLg=/1200x630/filters:quality(95)/static.texastribune.org/media/files/2e24eed9c97c2ddd89dc73e08530bfda/VP%20Harris%20Texas%20Dems%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "VP Kamala Harris Joins LGBTQ+ Pride March in DC"
     excerpt: "Vice President Kamala Harris put her pride for the LBGTQ+ community on display Saturday in, D.C. Harris surprised marchers by joining the Capital Pride Walk and Rally. She wore a pink blazer and a “love is love” shirt as she walked with the procession for about a block."
     publishedDateTime: 2021-06-12T18:49:00Z
@@ -609,13 +625,13 @@ related:
   - title: "Vice President Kamala Harris invites all 24 female US senators for dinner at her home"
     excerpt: "Vice President Kamala Harris is set to host all 24 female senators in her home for a first-of-its-kind dinner."
     publishedDateTime: 2021-06-15T20:23:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7706598002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7706598002"
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7706598002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7706598002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 68
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/05/28/USAT/3ee71268-b3d9-4bcf-a461-edd6feb6e868-005_AP_Naval_Academy_Harris_2.jpg?auto=webp&crop=4334,2438,x0,y0&format=pjpg&width=1200"

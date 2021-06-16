@@ -111,6 +111,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In photos: Biden meets with Putin"
+    excerpt: "US President Joe Biden and Russian President Vladimir Putin are meeting at a high-stakes summit in Geneva, Switzerland.\n    \n"
+    publishedDateTime: 2021-06-16T17:52:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0AYL9pdC-p0/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616095230-21-biden-putin-summit-0616-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden proposes meeting Putin 'in a third country' amid Ukraine tensions"
     excerpt: "President Joe Biden suggested meeting Russian President Vladimir Putin “in a third country” in the coming months, in a call Tuesday to discuss issues facing the United States and Russia amid growing tensions in Ukraine, the White House said. The ..."
     publishedDateTime: 2021-04-13T18:01:00Z

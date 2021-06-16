@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-13-lara-trump-urges-americans-living-at-southern-border-to-arm-up-get-guns.md",
+      "title": "Lara Trump Urges Americans Living at Southern Border to 'Arm Up, Get Guns'",
+      "excerpt": "Lara Trump, former President Donald Trump's daughter-in-law, on Saturday night urged Americans living at the southern border to \"arm up\" and \"get guns\" as she railed against President Joe Biden's immigration policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116",
+      "originalUrl": "https://www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1819949/lara-trump-bidens-border-crisis.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-urges-americans-living-southern-border-arm-get-guns-1600116?amp=1",
+      "publishedDateTime": "2021-06-12T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-trump-says-senate-would-be-60-dems-vs-40-republicans-if-not-for-him-rips-mcconnell.md",
       "title": "Trump Says Senate Would Be 60 Dems vs. 40 Republicans if Not for Him, Rips McConnell",
       "excerpt": "\"Unfortunately Mitch McConnell, with what he was doing, hurt us very, very badly in Georgia,\" the former president said.",
@@ -1275,58 +1327,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-biden-administration-restores-929-mln-for-california-high-speed-rail.md",
-      "title": "Biden administration restores $929 mln for California high speed rail",
-      "excerpt": "U.S. President Joe Biden's administration and California on Thursday reached a settlement to restore a $929 million grant agreement that former president Donald Trump tried to revoke.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-rail-california/biden-administration-restores-929-mln-for-california-high-speed-rail-idUSL3N2NT138",
-      "originalUrl": "https://www.reuters.com/article/usa-rail-california/biden-administration-restores-929-mln-for-california-high-speed-rail-idUSL3N2NT138",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210611&t=2&i=1565317703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5A0AE",
-          "width": 792,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2DN0DY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DN0DY",
-      "publishedDateTime": "2021-06-10T22:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -150,6 +150,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Putin says 'no hostility' in Biden meeting, two sides agreed to return ambassadors"
+    excerpt: "Russian President Vladimir Putin said there was \"no hostility\" between him and President Biden during their summit Wednesday morning, and revealed that the two sides reached an agreement to return ambassadors to their posts."
+    publishedDateTime: 2021-06-16T17:01:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aNygl7n92Lw/putin-no-hostility-biden-meeting-press-conference"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Vladimir-Putin-News-Conference-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Biden meeting with Russia's Putin in Switzerland for high-stakes summit"
     excerpt: "President Biden is meeting with Russian President Vladimir Putin on Wednesday for a highly anticipated showdown between the two leaders. "
     publishedDateTime: 2021-06-16T07:18:43Z
