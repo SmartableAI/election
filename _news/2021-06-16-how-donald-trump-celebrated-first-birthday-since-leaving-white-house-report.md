@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
-excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
-publishedDateTime: 2021-06-09T22:57:00Z
-originalUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
-webUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
+title: "How Donald Trump Celebrated First Birthday Since Leaving White House: Report"
+excerpt: "Former President Donald Trump celebrated his first birthday since leaving the White House with his son, Donald Trump Jr., at his golf club in Bedminster, New Jersey."
+publishedDateTime: 2021-06-16T04:49:00Z
+originalUrl: "https://ibtimes.com/how-donald-trump-celebrated-first-birthday-leaving-white-house-report-3226901"
+webUrl: "https://ibtimes.com/how-donald-trump-celebrated-first-birthday-leaving-white-house-report-3226901"
 type: article
-quality: 97
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/09/d9b8350a-27c7-4f0f-abb4-e6f0f08ba353/thumbnail/1200x630/1586e82cf3dcb5bdded8a03a277cd4fb/0609-en-kvc-731678-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
+    width: 1024
+    height: 657
     isCached: true
 
 related:
@@ -554,6 +554,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
+    excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
+    publishedDateTime: 2021-06-09T22:57:00Z
+    webUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/09/d9b8350a-27c7-4f0f-abb4-e6f0f08ba353/thumbnail/1200x630/1586e82cf3dcb5bdded8a03a277cd4fb/0609-en-kvc-731678-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Justice Department watchdog to investigate Trump administration's seizure of Democrats' phone data"
     excerpt: "The internal watchdog of the Justice Department says it will investigate the Trump administration's seizure of communications records of two Democratic members of the House Intelligence Committee. The requests were made by former Attorney Generals Jeff Sessions and William Barr in their aggressive investigation to locate the source of leaks about Mr."
     publishedDateTime: 2021-06-12T13:02:00Z
@@ -814,20 +828,6 @@ related:
         width: 1024
         height: 621
         isCached: true
-  - title: "How Donald Trump Celebrated First Birthday Since Leaving White House: Report"
-    excerpt: "Former President Donald Trump celebrated his first birthday since leaving the White House with his son, Donald Trump Jr., at his golf club in Bedminster, New Jersey."
-    publishedDateTime: 2021-06-16T04:49:00Z
-    webUrl: "https://ibtimes.com/how-donald-trump-celebrated-first-birthday-leaving-white-house-report-3226901"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
-        width: 1024
-        height: 657
-        isCached: true
   - title: "Former President Donald Trump endorses Mike Carey in 15th Congressional District race"
     excerpt: "Former President Donald Trump on Tuesday endorsed Mike Carey in the special election for Ohio's 15th Congressional District, giving Carey an edge in a contentious GOP primary."
     publishedDateTime: 2021-06-09T01:51:00Z
@@ -886,6 +886,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "lrhQTSvuJjZCeSW+UJR3fSJwCg62zMeq7KZ8taAWmgg4EuVmwHMt5M5Vbk2ssa7XVY7PKX4RW6ftqZSQ7kIVXQosueNe/dFAILG01X4rdtHVJkO+6N57GFqhjZZ92PCJRt9KqmbJj/nV/pRPpD0KnxurcDtGzCLl4Pf1W9jN0caM2y3E0n0CzcUYg3Uubkbr4Z8SnYmtuiRWQ8jd3LZ3sF8egIh9XUNRyEfjFuzHz0uP6XfsUcRQdvMWnl+byZ95gKM/BuOiUZ5Fhsg7fFAfhOaBMbUu9PNO9vtbbJM+ghBj5nrYi5Jg5Bm+P9IqLp1PMZMWNnenwJhgx0k5L0Z2F1jEyjg1cSxZSyuIn8PIsCY=;ur6MZ32Np2E8dg60GQ42oA=="
+secured: "dQ+O1mctpUbSSjIZzjUOK4prB0xfAxLb3pLZrt3XYTpnQReoZs6hLVHUNX7WiHDFBDPqgx728eezJ+CToIKXdVG5LDEQltsHY3JCQyomR3DzVqv2Bnu4j/9Yn/XMZcicXdro1dPUh6TqzXx+EQXlFspIq8GtfqrFMtn6rgbX0ClBpHDJ90mRsKHgT2PodU8IPpmG8pnCHZ5XZmfzR/vC8f1WMqqEUNKRX4bWvacatRYqaSrpiUBcvW/eINQmiQPO70EmOWAHM/AQGxZcd7MGOE5l+mWZr0Wu1Oab346G/TWRfNeJlntpheuAV09F8dBcQV2zgxz+fBzvP/J0TF405YRlaFwMn236rVA/R7qr1/M=;lrtCmtzDKrpPlsLGSqxGhA=="
 ---
 

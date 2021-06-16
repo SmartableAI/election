@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Ocasio-Cortez calls out Kamala Harris after speech"
-excerpt: "Rep. Alexandria Ocasio-Cortez (D-NY) criticized Vice President Kamala Harris' speech in Guatemala where she told potential migrants \"don't come\" to the US."
-publishedDateTime: 2021-06-08T00:11:00Z
-originalUrl: "https://www.djournal.com/news/national/ocasio-cortez-calls-out-kamala-harris-after-speech/video_54a00669-fb29-56a1-a955-419b09348ed2.html"
-webUrl: "https://www.djournal.com/news/national/ocasio-cortez-calls-out-kamala-harris-after-speech/video_54a00669-fb29-56a1-a955-419b09348ed2.html"
+title: "Kamala Harris unveils $1.25B COVID-19 relief program for small businesses"
+excerpt: "The Biden administration announced $1.25 billion in federal COVID-19 relief funds for hundreds of community development lenders in an effort to boost local economies and small businesses struggling amid the pandemic."
+publishedDateTime: 2021-06-16T04:48:00Z
+originalUrl: "https://www.upi.com/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
+webUrl: "https://www.upi.com/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
+ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
 type: article
-quality: 55
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/4a/54a00669-fb29-56a1-a955-419b09348ed2/60beba0b743f6.image.jpg?crop=1100%2C619%2C0%2C0&resize=1100%2C619&order=crop%2Cresize"
-    width: 1100
-    height: 619
+  - url: "https://cdnph.upi.com/sv/ph/og/upi/9651623813948/2021/1/e68e12ee0779beb1d654a22a65a28994/v1.5/Kamala-Harris-unveils-125B-COVID-19-relief-program-for-small-businesses.jpg"
+    width: 800
+    height: 532
     isCached: true
 
 related:
@@ -476,22 +478,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Kamala Harris unveils $1.25B COVID-19 relief program for small businesses"
-    excerpt: "The Biden administration announced $1.25 billion in federal COVID-19 relief funds for hundreds of community development lenders in an effort to boost local economies and small businesses struggling amid the pandemic."
-    publishedDateTime: 2021-06-16T04:48:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 74
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/9651623813948/2021/1/e68e12ee0779beb1d654a22a65a28994/v1.5/Kamala-Harris-unveils-125B-COVID-19-relief-program-for-small-businesses.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "On 1st trip, Kamala Harris says Guatemalans need 'hope' to deter migration"
     excerpt: "Central Americans must believe that \"help is on the way\" if illegal migration to the United States is to be curbed, Vice President Kamala Harris said Monday in Guatemala during her first official foreign visit."
     publishedDateTime: 2021-06-07T19:32:00Z
@@ -681,6 +667,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9C1B/production/_118836993_p09kvftq.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Ocasio-Cortez calls out Kamala Harris after speech"
+    excerpt: "Rep. Alexandria Ocasio-Cortez (D-NY) criticized Vice President Kamala Harris' speech in Guatemala where she told potential migrants \"don't come\" to the US."
+    publishedDateTime: 2021-06-08T00:11:00Z
+    webUrl: "https://www.djournal.com/news/national/ocasio-cortez-calls-out-kamala-harris-after-speech/video_54a00669-fb29-56a1-a955-419b09348ed2.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/5/4a/54a00669-fb29-56a1-a955-419b09348ed2/60beba0b743f6.image.jpg?crop=1100%2C619%2C0%2C0&resize=1100%2C619&order=crop%2Cresize"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Vice President Kamala Harris in Guatemala on migration mission"
     excerpt: "Vice President Kamala Harris was in Guatemala on Monday, her first stop in a mission to work on reducing migration to the US by seeking to improve conditions in Central American countries. And, in Burkina Faso,"
@@ -874,6 +874,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "21OlL5W+b/PlyEwCYcdm6yS/GI0gCG6nphxyBmw/8c2X7Qy8DaIgOSgahRyl7wIjvVQP4CBJBvl0iilhf0bX3TU24Wn2/gEiMhDcJtWD8DluHaOz4ZERg4NxxeRP9WJkulNMST32uj2ebEJ4pDgjWW8ZHwEJbPs19wP1ShvuPq/llnMsuz1sY1vXa997r79FXYjAren8fMxVt2/YEJoKb/qySLNtaaXj2Jg/vCpfKyE5gQElg9ny1MhqOuyujc/32Wi42itmSyVLIIEV5NOUZIrU/YdtucjqTrvdXyAav1JYuiAKZHh/n4oAR27dRszZWQGnEeEUgeCdxjhEVEWZTOHJqRHjjfoL0VJHlpAQFtnoBuIHa3ykI4qIEFB+Jm6ZVIFp0OS/TJjhnWXwpXzBlAp37h84Nj3euRoFYuPOr0VqV+NRaSzIGAQF87P06TmC1kxN6zlqovoZ9+c679YesH6nJPTjkfKBALX+H0Osayef4B8Iy76VhH/mhgDmWDlzaC9yGvfIpeKLfYj2gl5vIQ==;1CPCFVDV2xEHcSw7S7/buQ=="
+secured: "rIffzrq/btjUnI2UeX3zstsPoOUu0Tw9h5k8qtPd+3zP0vv2bKsk6RS2heZxKeyMuFI3P6zfP10JLeOPZVQB7oqZLuJtxuKuJ4j5KC+SthGo2crgRXaJknEtA7Vi6r99VUeAmSV9cg1EpLtkq2lE4yGx3Znv6v6BF0l0yM7FaM4FrSg0U+KiGoO+dXwiztVwur1mGgH6p0esArZhbJNA4PkknTbdB/HbiyGHPuDs13MqcfK8na0ZCeCARytkgsYp26dE7+LVyK70liVFQu8zPVbUSMBNJuvD7dJxhytEgVNB5I4xUjY5x3EFTv3M0RKCT7L2e+E7F9cOl0vEKFA6c9m5fOy9LX7YFwnJ1paUz5o=;rvHT+xU49vljouY9YguxkA=="
 ---
 

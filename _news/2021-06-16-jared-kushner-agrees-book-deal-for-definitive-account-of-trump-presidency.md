@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
-excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
-publishedDateTime: 2021-06-09T22:57:00Z
-originalUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
-webUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
+title: "Jared Kushner agrees book deal for ‘definitive’ account of Trump presidency"
+excerpt: "The untitled memoir by the president’s son-in-law will be published in 2022"
+publishedDateTime: 2021-06-16T02:45:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jun/16/jared-kushner-agrees-book-deal-for-definitive-account-of-trump-presidency"
+webUrl: "https://www.theguardian.com/us-news/2021/jun/16/jared-kushner-agrees-book-deal-for-definitive-account-of-trump-presidency"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/16/jared-kushner-agrees-book-deal-for-definitive-account-of-trump-presidency"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/16/jared-kushner-agrees-book-deal-for-definitive-account-of-trump-presidency"
 type: article
-quality: 97
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/09/d9b8350a-27c7-4f0f-abb4-e6f0f08ba353/thumbnail/1200x630/1586e82cf3dcb5bdded8a03a277cd4fb/0609-en-kvc-731678-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://i.guim.co.uk/img/media/484438168bb29e2e39580d87756d9e58d10faedd/0_0_5765_3460/master/5765.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=391236dacb5212245efe11f46b3032d8"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -317,22 +319,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Jared Kushner agrees book deal for ‘definitive’ account of Trump presidency"
-    excerpt: "The untitled memoir by the president’s son-in-law will be published in 2022"
-    publishedDateTime: 2021-06-16T02:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/16/jared-kushner-agrees-book-deal-for-definitive-account-of-trump-presidency"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/16/jared-kushner-agrees-book-deal-for-definitive-account-of-trump-presidency"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/16/jared-kushner-agrees-book-deal-for-definitive-account-of-trump-presidency"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/484438168bb29e2e39580d87756d9e58d10faedd/0_0_5765_3460/master/5765.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=391236dacb5212245efe11f46b3032d8"
-        width: 600
-        height: 360
-        isCached: true
   - title: "John Dean Calls Surveillance by Trump-Era DOJ 'Nixon on Stilts and Steroids'"
     excerpt: "\"Nixon didn't have that kind of Department of Justice,\" John Dean said on Friday. \"Nixon couldn't use the department as he wanted to.\""
     publishedDateTime: 2021-06-12T04:08:00Z
@@ -553,6 +539,20 @@ related:
       - url: "https://media.npr.org/assets/img/2021/06/14/gettyimages-1323059124_wide-96ea7f7cc862d7023bf43ad8d053f5ebd7917d62.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Police did not clear protesters for Trump photo-op, inspector general report concludes"
+    excerpt: "A watchdog report found that federal authorities forcibly clearing protesters from Lafayette Park in 2020 was not related to President Trump's walk across the park for a photo-op in front of a church."
+    publishedDateTime: 2021-06-09T22:57:00Z
+    webUrl: "https://www.cbsnews.com/video/police-did-not-clear-protesters-for-trump-photo-op-inspector-general-report-concludes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/09/d9b8350a-27c7-4f0f-abb4-e6f0f08ba353/thumbnail/1200x630/1586e82cf3dcb5bdded8a03a277cd4fb/0609-en-kvc-731678-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Justice Department watchdog to investigate Trump administration's seizure of Democrats' phone data"
     excerpt: "The internal watchdog of the Justice Department says it will investigate the Trump administration's seizure of communications records of two Democratic members of the House Intelligence Committee. The requests were made by former Attorney Generals Jeff Sessions and William Barr in their aggressive investigation to locate the source of leaks about Mr."
@@ -886,6 +886,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "lrhQTSvuJjZCeSW+UJR3fSJwCg62zMeq7KZ8taAWmgg4EuVmwHMt5M5Vbk2ssa7XVY7PKX4RW6ftqZSQ7kIVXQosueNe/dFAILG01X4rdtHVJkO+6N57GFqhjZZ92PCJRt9KqmbJj/nV/pRPpD0KnxurcDtGzCLl4Pf1W9jN0caM2y3E0n0CzcUYg3Uubkbr4Z8SnYmtuiRWQ8jd3LZ3sF8egIh9XUNRyEfjFuzHz0uP6XfsUcRQdvMWnl+byZ95gKM/BuOiUZ5Fhsg7fFAfhOaBMbUu9PNO9vtbbJM+ghBj5nrYi5Jg5Bm+P9IqLp1PMZMWNnenwJhgx0k5L0Z2F1jEyjg1cSxZSyuIn8PIsCY=;ur6MZ32Np2E8dg60GQ42oA=="
+secured: "8aOYy29eIrWeD5ZRMs1+XjKFUugawMy7QTe348V+Efw6qUQhZFIZsOK155yBfxFDzumjadJMEOR2lS4rMA4nIA+kR2uwbWsk7XWtpvQdjkuMidkkMVKq95JTI3nfuf8KWRVM01flUwIPq47Kgv8l9D+6pVeVd4ZsJQfXZi8DS4Dc2HSaRF3uKy1hnFARockWHKgHTEreh3+xG1qlxobYrssKxZLgdIXf7RY94IgckXSW15JHvOI6e6W7B3ZiySg3IqvgvEmY/6qYsFrCaPxRjiR5Tdr+qr5hoOq8GMUA/xM11q4pje/YW8EB9i3EVA1mVCebBw6r9wBzOp2rzqfiiFzkJ4qKGG+JXSLX9QROG90=;uQV20+MIzIxXJcAucj7lfA=="
 ---
 

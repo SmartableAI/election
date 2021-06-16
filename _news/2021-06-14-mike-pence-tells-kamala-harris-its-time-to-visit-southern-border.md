@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp=1"
 type: article
 quality: 150
-heat: 1270
+heat: 1290
 published: true
 
 provider:
@@ -464,6 +464,22 @@ related:
     quality: 75
     images:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/7401623534397/2021/1/bbd3b3ab8fb83497c085da513754b8d4/v1.5/VP-Kamala-Harris-takes-part-in-DCs-LGBTQ-Pride-rally.jpg"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Kamala Harris unveils $1.25B COVID-19 relief program for small businesses"
+    excerpt: "The Biden administration announced $1.25 billion in federal COVID-19 relief funds for hundreds of community development lenders in an effort to boost local economies and small businesses struggling amid the pandemic."
+    publishedDateTime: 2021-06-16T04:48:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9651623813948/2021/1/e68e12ee0779beb1d654a22a65a28994/v1.5/Kamala-Harris-unveils-125B-COVID-19-relief-program-for-small-businesses.jpg"
         width: 800
         height: 532
         isCached: true

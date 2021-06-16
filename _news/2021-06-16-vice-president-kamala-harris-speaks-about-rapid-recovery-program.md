@@ -476,6 +476,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Kamala Harris unveils $1.25B COVID-19 relief program for small businesses"
+    excerpt: "The Biden administration announced $1.25 billion in federal COVID-19 relief funds for hundreds of community development lenders in an effort to boost local economies and small businesses struggling amid the pandemic."
+    publishedDateTime: 2021-06-16T04:48:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9651623813948/2021/1/e68e12ee0779beb1d654a22a65a28994/v1.5/Kamala-Harris-unveils-125B-COVID-19-relief-program-for-small-businesses.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "On 1st trip, Kamala Harris says Guatemalans need 'hope' to deter migration"
     excerpt: "Central Americans must believe that \"help is on the way\" if illegal migration to the United States is to be curbed, Vice President Kamala Harris said Monday in Guatemala during her first official foreign visit."
     publishedDateTime: 2021-06-07T19:32:00Z
@@ -858,6 +874,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "AkDts2OG93ux04O3U5EDrg8uBG1KvubsFZ7BjqxUYN3ZuWFlrPRD5VwYgSsV6NXF1aqvLzBlcTbMjuXPlo6/MgHy9jRuKGL6ww+22HoSo/VelAAOZPprnILdT9FDsE5Ar4VKuOkRDrxj27pxUevxJliYEeCi8cXbMxRDLkiVc9z1IkaS6SUTOVg+7NPana9l+0tanL4/ifgyQf7uCF8ntiwt1skJ78KJ+1cjPN+gkyErRVNWS6A8kbSOkyH3WYhD7GJQqeemOQdEl5wQlyegpb6GkUnlmovXt5Hmacg5wI+gtj8mQFoHHiLFsVWo7Gik7ljSA8ftrP7jki3EIxqEJfeTR9DTIdF7fxo+GATnOzg=;qFTnOG/oGU94VrbIfdK2TQ=="
+secured: "fzFypOpY8D6+Ywh+k4EjeUPmqzqZ+73TLCnoBJ4raKxznlWQDFI0zszgBqx0crC5lueQ7imZIBrsrHQSZfo0Bk+BvNn3vOhm2pkRHuvC+H4AyYLmfiz1WY9oaQv3kZmRcV8421w+qGet1LcIAM2hI1oTVm3UyNTQoCqVradHhr4AXmh8fCW48kf2DCJAIKT46yUwlhckJOU7p9LwQAhRg09QfwCbmfvJ84aaCt5DCWJjVWrGuiL+syVUW+of9lMY5+r/EnKWWoryk4S1ZRx/tM2Rh+sbQr2GDps3kDFNqhYyl+Kei2FBMkiCYxqo08Qd6PoQRZRD05LjnhYfpk4puRRs2bdAfWRcd8uRamXzXj9ZBuTcbSUAh6wwi6KUfONr6cQOQ+thXnaQPTW1aM32LXSiJXH0nkQZ+vKv5SkWmPH4sNz63oqCFumwTJIXNeUmGHJOisuOMyd0+j+/jr2JufX3a5E7in33ReMDhLysR9nVVny7qEFeDRtCOT44mhBnaJw220pA8FGXhcMkZBaSSA==;F2r1ZYTBUK25EXl9FBkzHA=="
 ---
 

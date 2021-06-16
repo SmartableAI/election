@@ -54,6 +54,54 @@
       ]
     },
     {
+      "path": "_news/2021-06-15-vp-kamala-harris-announces-small-business-program-we-must-re-imagine-our-economy.md",
+      "title": "VP Kamala Harris Announces Small Business Program: \"We Must Re-Imagine Our Economy\"",
+      "excerpt": "AP: Vice President Kamala Harris announced Tuesday that the Biden administration is distributing $1.25 billion to hundreds of community lenders in an effort to help boost the economic recovery from the coronavirus for small businesses and disadvantaged business owners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/545821.jpg",
+          "width": 990,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
+      "publishedDateTime": "2021-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-her-instinct-is-to-dig-in-kamala-harris-struggles-to-answer-border-question-seen-as-part-of-a-pattern.md",
       "title": "'Her instinct is to dig in': Kamala Harris' struggles to answer border question seen as part of a pattern",
       "excerpt": "Several allies and former aides to Vice President Kamala Harris had \"flashbacks\" last week as they watched her fumble a politically sensitive question during her first foreign trip, seeing the misstep as part of a broader pattern of messaging challenges that have dogged her since her presidential campaign.\n",
@@ -119,7 +167,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1270,
+      "heat": 1290,
       "tags": null,
       "images": [
         {
@@ -1558,58 +1606,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-first-lady-vice-president-harris-highlight-different-paths-to-motherhood.md",
-      "title": "First lady, Vice President Harris highlight different paths to motherhood",
-      "excerpt": "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
-      "originalUrl": "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/mothers-day-kamala-harris-jill-biden-09-gty-llr-210508_1620502085825_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
-      "publishedDateTime": "2021-05-08T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

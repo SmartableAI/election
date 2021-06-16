@@ -462,6 +462,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Kamala Harris unveils $1.25B COVID-19 relief program for small businesses"
+    excerpt: "The Biden administration announced $1.25 billion in federal COVID-19 relief funds for hundreds of community development lenders in an effort to boost local economies and small businesses struggling amid the pandemic."
+    publishedDateTime: 2021-06-16T04:48:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/16/Vice-President-Kamala-Harris-announces-125-billion-for-small-businesses/9651623813948/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9651623813948/2021/1/e68e12ee0779beb1d654a22a65a28994/v1.5/Kamala-Harris-unveils-125B-COVID-19-relief-program-for-small-businesses.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "On 1st trip, Kamala Harris says Guatemalans need 'hope' to deter migration"
     excerpt: "Central Americans must believe that \"help is on the way\" if illegal migration to the United States is to be curbed, Vice President Kamala Harris said Monday in Guatemala during her first official foreign visit."
     publishedDateTime: 2021-06-07T19:32:00Z

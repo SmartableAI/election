@@ -319,6 +319,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Jared Kushner agrees book deal for ‘definitive’ account of Trump presidency"
+    excerpt: "The untitled memoir by the president’s son-in-law will be published in 2022"
+    publishedDateTime: 2021-06-16T02:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/16/jared-kushner-agrees-book-deal-for-definitive-account-of-trump-presidency"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/16/jared-kushner-agrees-book-deal-for-definitive-account-of-trump-presidency"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/16/jared-kushner-agrees-book-deal-for-definitive-account-of-trump-presidency"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/484438168bb29e2e39580d87756d9e58d10faedd/0_0_5765_3460/master/5765.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=391236dacb5212245efe11f46b3032d8"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump and House Democrats remain at odds over subpoena for financial records"
     excerpt: "Judge Amit Mehta told both parties he reached out to a mediator to help facilitate discussions between Mr. Trump and Democrats."
     publishedDateTime: 2021-06-15T18:53:00Z
@@ -797,6 +813,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/subpoenas-for-the-communications-metadata-reportedly-targeted-congressman.jpg"
         width: 1024
         height: 621
+        isCached: true
+  - title: "How Donald Trump Celebrated First Birthday Since Leaving White House: Report"
+    excerpt: "Former President Donald Trump celebrated his first birthday since leaving the White House with his son, Donald Trump Jr., at his golf club in Bedminster, New Jersey."
+    publishedDateTime: 2021-06-16T04:49:00Z
+    webUrl: "https://ibtimes.com/how-donald-trump-celebrated-first-birthday-leaving-white-house-report-3226901"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
+        width: 1024
+        height: 657
         isCached: true
   - title: "Former President Donald Trump endorses Mike Carey in 15th Congressional District race"
     excerpt: "Former President Donald Trump on Tuesday endorsed Mike Carey in the special election for Ohio's 15th Congressional District, giving Carey an edge in a contentious GOP primary."
