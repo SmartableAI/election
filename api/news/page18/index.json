@@ -2,6 +2,167 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-05-13-liz-cheney-willing-to-do-whatever-it-takes-to-prevent-trump-win-in-2024.md",
+      "title": "Liz Cheney willing to do ‘whatever it takes’ to prevent Trump win in 2024",
+      "excerpt": "Fresh off her ouster from House Republican leadership, Rep. Liz Cheney is maintaining her crusade to do “whatever it takes” to oppose former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/",
+      "originalUrl": "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/liz-cheney-1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/amp/",
+      "publishedDateTime": "2021-05-13T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-politico-playbook-how-palm-beach-is-preparing-for-a-possible-trump-indictment.md",
+      "title": "POLITICO Playbook: How Palm Beach is preparing for a possible Trump indictment",
+      "excerpt": "SCOOP: PALM BEACH MAKES CONTINGENCY PLANS IN CASE TRUMP IS INDICTED — Law enforcement officials in Palm Beach County, Fla., have actively prepared for the possibility that Manhattan District Attorney CY VANCE could indict former President DONALD TRUMP while he’s at Mar-a-Lago,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/playbook/2021/05/13/how-palm-beach-is-preparing-for-a-possible-trump-indictment-492836",
+      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/05/13/how-palm-beach-is-preparing-for-a-possible-trump-indictment-492836",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/36/67/10f1022845e8aa7976787ed47ff8/210513-trump-ap-1160.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-america-under-siege-on-bidens-watch-as-cyberattackers-cripple-the-country.md",
+      "title": "America under siege on Biden's watch as cyberattackers cripple the country",
+      "excerpt": "They cut off a pipeline to the Eastern Seaboard for days, tried to poison a Florida water-treatment plant, held hospital IT systems hostage and stole an undetermined trove of information in the SolarWinds hack – all as the Biden administration searches for a way to respond.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/df_JC-kJl5Y/cyberattacks-america-biden-watch",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/df_JC-kJl5Y/cyberattacks-america-biden-watch",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/America-Under-Attack-6.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cyberattacks-america-biden-watch.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cyberattacks-america-biden-watch.amp",
+      "publishedDateTime": "2021-05-13T03:07:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-trump-white-house-counsel-donald-mcgahn-expected-to-answer-house-committee-questions-as-soon-as-possible.md",
       "title": "Trump White House counsel Donald McGahn expected to answer House committee questions ‘as soon as possible’",
       "excerpt": "McGahn will be asked whether Trump interfered with Mueller’s Russia investigation. House Democrats have been fighting for years to enforce a subpoena for his testimony.",
@@ -1183,170 +1344,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-biden-says-he-expects-a-more-aggressive-effort-to-relax-cdc-guidance-for-fully-vaccinated-people.md",
-      "title": "Biden says he expects ‘a more aggressive effort’ to relax CDC guidance for fully vaccinated people",
-      "excerpt": "President Biden predicted \"a more aggressive effort\" within his administration to increase the \"desire\" to get vaccinated by relaxing the Centers for Disease Control and Prevention's guidance on what fully vaccinated people can do safely. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uqfuJ5lhgOQ/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uqfuJ5lhgOQ/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated.amp",
-      "publishedDateTime": "2021-05-11T13:36:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-mike-pompeo-bidens-stance-on-israel-and-iran-emboldens-terrorists.md",
-      "title": "Mike Pompeo: Biden's stance on Israel and Iran 'emboldens terrorists'",
-      "excerpt": "Former Secretary of State Mike Pompeo tore into President Biden's foreign policy regarding Israel and Iran, saying its stance on the long-standing disputes in the region \"emboldens terrorists.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qVVZjpj4_Q/pompeo-biden-israel-hamas-iran-terrorists",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qVVZjpj4_Q/pompeo-biden-israel-hamas-iran-terrorists",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae7a3b50-1eb5-4eb1-88c0-cb7eb37bbcb2/ef1326cd-9d60-4c6f-a38a-ac991775de88/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-israel-hamas-iran-terrorists.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-israel-hamas-iran-terrorists.amp",
-      "publishedDateTime": "2021-05-11T13:01:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-trump-family-members-got-inappropriately-close-to-secret-service-agents-book-claims.md",
-      "title": "Trump family members got ‘inappropriately close’ to Secret Service agents, book claims",
-      "excerpt": "Concerns over bonds involving Trump’s then daughter in-law Vanessa and daughter Tiffany revealed in Zero Fail by Carol Leonnig",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/11561139299edbc7f8d3970677ad92cbae9c2a7c/0_1_3914_2349/master/3914.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=edbad52088432403c9d2d0b917585123",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
-      "publishedDateTime": "2021-05-11T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

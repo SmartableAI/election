@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-putin-summit-genev
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-putin-summit-geneva/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "5 takeaways from the summit between Biden and Putin"
+    excerpt: "President Joe Biden's meeting Wednesday with his Russian counterpart came after months of diplomatic wrangling over the details, days of preparation with reams of research and the elaborate construction of two separate lakeside venues for the leaders to appear afterward.\n    \n"
+    publishedDateTime: 2021-06-16T19:51:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VbsbwowQMTU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/takeaways-from-biden-and-putin-summit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/takeaways-from-biden-and-putin-summit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616134559-09-biden-presser-biden-putin-summit-0616-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "See Biden and Putin shake hands as summit begins in Geneva"
     excerpt: "President Joe Biden convenes the highest-stakes talks of his long career when he joins Russia's Vladimir Putin for a summit, an encounter set to test his decades of experience on the world stage and lay down an early marker of his diplomatic skills.\n    \n"
     publishedDateTime: 2021-06-16T11:49:21Z

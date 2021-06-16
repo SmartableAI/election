@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timel
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611151658-04-g7-biden-queen-elizabeth-0611-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden warns of 'devastating' consequences for Russia if Navalny dies in prison"
+    excerpt: "President Joe Biden said he warned Russian President Vladimir Putin Wednesday of consequences if jailed Russian opposition leader Alexey Navalny were to die in prison, though he declined to specify which actions he would take.\n    \n"
+    publishedDateTime: 2021-06-16T18:58:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/13v7FM8x89Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/alexey-navalny-biden-putin-geneva/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/alexey-navalny-biden-putin-geneva/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616135322-11-biden-presser-biden-putin-summit-0616-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

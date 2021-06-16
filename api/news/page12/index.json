@@ -2,6 +2,175 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-05-26-hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners.md",
+      "title": "Hunter Biden brought VP Joe to dinner with shady business partners",
+      "excerpt": "Joe Biden met with Ukrainian, Russian and Kazakhstani business associates of his son’s at a dinner in Washington, DC, while he was vice president, records on Hunter Biden’s abandoned laptop show.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/feySe9nfB1M/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/feySe9nfB1M/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c512f608-7189-4398-997f-d62d552bb2b0/49f8f3fc-b42c-49d8-b9c8-95281a0915c8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-brought-vp-joe-to-dinner-with-shady-business-partners.amp",
+      "publishedDateTime": "2021-05-26T12:16:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-biden-intel-community-torn-between-two-likely-scenarios-on-covid-19-outbreak-source.md",
+      "title": "Biden: Intel community torn between 'two likely scenarios' on COVID-19 outbreak source",
+      "excerpt": "President Biden on Wednesday asked the Intelligence Community to \"redouble\" their efforts to \"collect and analyze\" information that could bring the U.S. closer to a \"definitive conclusion\" on the origins of the novel coronavirus, saying U.S. intelligence officials are currently torn between \"two likely",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/giqHf44JnaQ/biden-intel-community-covid-origin-probe-lab-leak-theory",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/giqHf44JnaQ/biden-intel-community-covid-origin-probe-lab-leak-theory",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-intel-community-covid-origin-probe-lab-leak-theory.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intel-community-covid-origin-probe-lab-leak-theory.amp",
+      "publishedDateTime": "2021-05-26T10:10:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-trump-patriots-owner-robert-kraft-accused-of-trying-to-influence-late-senators-spygate-probe-report.md",
+      "title": "Trump, Patriots owner Robert Kraft accused of trying to influence late senator's Spygate probe: report",
+      "excerpt": "Former President Donald Trump and New England Patriots owner Robert Kraft were accused in a new report Wednesday of trying to influence the investigation into the team’s 2007 Spygate scandal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/sports/trump-patriots-robert-kraft-accused-influence-senator-spygate-probe-report",
+      "originalUrl": "https://www.foxnews.com/sports/trump-patriots-robert-kraft-accused-influence-senator-spygate-probe-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/720/405/Trump-and-Robert-kraft.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/sports/trump-patriots-robert-kraft-accused-influence-senator-spygate-probe-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-patriots-robert-kraft-accused-influence-senator-spygate-probe-report.amp",
+      "publishedDateTime": "2021-05-26T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-trump-asks-court-to-toss-out-capitol-assault-suit-from-eric-swalwell.md",
       "title": "Trump asks court to toss out Capitol assault suit from Eric Swalwell",
       "excerpt": "Swalwell is suing Mr. Trump, Donald Trump Jr., GOP Congressman Mo Brooks of Alabama and Rudy Giuliani, the former president's lawyer, over the events of January 6.",
@@ -1179,166 +1348,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-biden-and-putin-summit-expected-to-take-place-next-month-in-switzerland.md",
-      "title": "Biden and Putin summit expected to take place next month in Switzerland",
-      "excerpt": "The first face-to-face meeting between President Joe Biden and Russian President Vladimir Putin is expected to take place next month in Switzerland, two US officials told CNN, as the White House and the Kremlin move closer this week to finalizing arrangements for the summit.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M8MKh_olRe0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M8MKh_olRe0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/biden-putin-summit-geneva/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-putin-summit-geneva/index.html",
-      "publishedDateTime": "2021-05-25T05:58:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-trump-reacts-to-ufo-sightings-im-not-such-a-believer.md",
-      "title": "Trump Reacts To UFO Sightings: 'I'm Not Such A Believer'",
-      "excerpt": "Former President Donald Trump said he is not a \"believer\" of UFOs ahead of the release of a Pentagon report on sightings of mysterious flying objects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-reacts-ufo-sightings-im-not-such-believer-3207977",
-      "originalUrl": "https://www.ibtimes.com/trump-reacts-ufo-sightings-im-not-such-believer-3207977",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/19/donald-trump-has-described-a-parallel-criminal-investigation.jpg",
-          "width": 1024,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-reacts-ufo-sightings-im-not-such-believer-3207977?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-reacts-ufo-sightings-im-not-such-believer-3207977?amp=1",
-      "publishedDateTime": "2021-05-25T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-lindsey-graham-says-trump-will-have-some-damage-to-repair-if-he-runs-in-2024.md",
-      "title": "Lindsey Graham Says Trump Will Have 'Some Damage to Repair' If He Runs in 2024",
-      "excerpt": "Senator Lindsey Graham (R-SC) has said former President Donald Trump may have \"some damage to repair\" if he plans to run for the White House successfully in 2024. Graham, who has been a strong defender of Trump,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lindsey-graham-says-trump-will-have-some-damage-repair-if-he-runs-2024-1594439",
-      "originalUrl": "https://www.newsweek.com/lindsey-graham-says-trump-will-have-some-damage-repair-if-he-runs-2024-1594439",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1805796/lindsey-graham-speaks-press.jpg",
-          "width": 2500,
-          "height": 1750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lindsey-graham-says-trump-will-have-some-damage-repair-if-he-runs-2024-1594439?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-says-trump-will-have-some-damage-repair-if-he-runs-2024-1594439?amp=1",
-      "publishedDateTime": "2021-05-25T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

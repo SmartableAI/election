@@ -195,6 +195,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden calls tone of Putin meeting 'positive,' says he made 'no threats' but warned of consequences"
+    excerpt: "President Biden said the tone of his highly-anticipated meeting with Russian President Putin was “good” and “positive,” saying he made “no threats” to his Russian counterpart, but warned of “consequences.”"
+    publishedDateTime: 2021-06-16T18:31:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQenSAAXdg8/biden-putin-meeting-press-conference-tone-positive"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Putin-Summit-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden-Putin meeting: Republicans outline 5 things POTUS should be doing to counter Russian president"
     excerpt: "House conservatives released a new memo in advance of President Biden's Wednesday summit with Vladimir Putin calling out the Democrat's \"tough words but weak actions\" and offering advice on policies that could actually counter Russian aggression."
     publishedDateTime: 2021-06-16T11:00:07Z
@@ -208,6 +222,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Vladimir-Putin-Joe-Biden-Meeting-AP.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden on Putin Meeting: \"I Did What I Came To Do\""
+    excerpt: "U.S. President Joe Biden held a press conference following his meeting with Russian President Vladimir Putin in Geneva on Wednesday and told reporters taht he came what he \"came to do.\" \"I know you have a lot of questions so let me close with this,"
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/16/biden_on_putin_meeting_i_did_what_i_came_to_do.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/16/biden_on_putin_meeting_i_did_what_i_came_to_do.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/16/biden_on_putin_meeting_i_did_what_i_came_to_do.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/545899.jpg"
+        width: 1120
+        height: 840
         isCached: true
   - title: "Biden's Bumbling on World Stage Is Boosting Our Foes"
     excerpt: "RealClearPolitics"

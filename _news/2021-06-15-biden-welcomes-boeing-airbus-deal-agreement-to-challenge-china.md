@@ -45,6 +45,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden admin extends protections to transgender students"
+    excerpt: "The U.S. Department on Wednesday expanded its interpretation of federal sex protections to include transgender and gay students"
+    publishedDateTime: 2021-06-16T19:04:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-admin-extends-protections-transgender-students-78320905"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-admin-extends-protections-transgender-students-78320905"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-admin-extends-protections-transgender-students-78320905"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_b8c1796032de48d392c6c2e79cd995ae_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "‘A lot of anxiety’ for Democrats as Biden agenda to rebuild economy and reshape U.S. stalls"
     excerpt: "Six months into the Democrats’ hold on Washington, the party’s progressive wing is growing increasingly restless."
     publishedDateTime: 2021-06-07T21:27:00Z

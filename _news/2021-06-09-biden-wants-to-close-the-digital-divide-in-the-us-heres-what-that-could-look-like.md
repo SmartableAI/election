@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden cancels $500 million in student debt for victims of for-profit school fraud"
+    excerpt: "The Department of Education is canceling $500 million in student loan debt for 18,000 former ITT Tech students defrauded by the now defunct for-profit college, another step the Biden administration is taking to address a backlog of more than 100,000 forgiveness claims left over from the Trump administration.\n"
+    publishedDateTime: 2021-06-16T18:29:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2mRW7HfYPcY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/student-loan-forgiveness-for-profit-colleges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/student-loan-forgiveness-for-profit-colleges/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fiona Hill reflects on 'terrible spectacle' of Trump-Putin summit ahead of Biden's meeting with Russian President"
     excerpt: "Fiona Hill, once then-President Donald Trump's top Russia adviser, said Tuesday evening that she was so alarmed during Trump's 2018 press conference with Russian President Vladimir Putin that she had looked for a fire alarm to pull and considered faking a medical emergency.\n    \n"
     publishedDateTime: 2021-06-16T03:48:35Z

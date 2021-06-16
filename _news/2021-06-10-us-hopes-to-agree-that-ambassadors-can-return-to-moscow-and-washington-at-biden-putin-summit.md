@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden brings up detained Americans Paul Whelan and Trevor Reed in meeting with Putin "
+    excerpt: "US President Joe Biden said he had discussed the cases of two Americans detained in Russia during his meeting with Russian President Vladimir Putin on Wednesday, pledging to \"follow through\" on that discussion.\n    \n"
+    publishedDateTime: 2021-06-16T18:58:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wyV_h6pBicY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/biden-putin-paul-whelan-trevor-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/biden-putin-paul-whelan-trevor-reed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200615092607-02-paul-whelan-trial-0615-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden warns he'll tell Putin 'what I want him to know' as he defines goals of foreign tour"
     excerpt: "President Joe Biden told a hangar of US troops on Wednesday he was in Europe to defend the very concept of democracy, setting high stakes for his first presidential trip abroad and warning Russian President Vladimir Putin he planned to raise touchy issues during their upcoming summit.\n    \n"
     publishedDateTime: 2021-06-09T21:32:06Z

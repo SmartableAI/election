@@ -48,6 +48,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Democratic Rep. Cuellar urges Kamala Harris to visit border amid immigration crisis"
+    excerpt: "Rep. Henry Cuellar, D-Texas, invited Vice President Harris to his district to visit the U.S.-Mexico border and warned the \"situation on the border will only worsen.\""
+    publishedDateTime: 2021-06-16T19:53:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/REruQkdx9Hg/cuellar-kamala-harris-border-visit-migrant-crisis"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Henry-Cuellar-Harris-GETTY-AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "2aViepmxD3KLH0g95yp4PIzIjajMm+3iegDT3kEB+aHkTnyUmwMrMk9rSR2Pi/DK5x/FMO2mDT0ATY0pq1BO87/IUnbb28aryU/s1OGS9C1obdsjt/C3E25zLTh1KgwvQ+Mu4ubor6jkZ4Ly8rLgolHxe6NgLONXYhJBDxEu8aJTHNqWNwceBzLjigq+i7sSI3gDoZyrXtfQqMxMcbMz605oY4NhWAlVtPL6AM/4kDzddisu/UkI7VTerjoLN0tkmjeT3BZIzMT64yABj8pejUtt64UrenL2LswVekONjpjfrmw59QG6V49ayKVRX1bXHXKzHUf+UewQO/zLF5slaPT9S5k8VM+tIvPrWmw7+OaxO2bNTOMZ/IPmPzg8Mp543Y17IWHDuZrSFgiGDu+VKLnHG69qlzu6+FuBOjLZTIafTPNKiCxJyYUd/hHR6uTJqZqBIr4DM5h/ixaK++/fwacXf7O6QrKrcDvLzs84XfkgiZqWQL/mlU9gT3EVxphnXYh/nJixMQ4twIZFrT8l4Q==;Ah3O8m+vV/VltUVNGZi/6Q=="
 ---

@@ -96,6 +96,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Putin issue joint statement following historic Geneva summit"
+    excerpt: "US President Joe Biden and Russian President Vladimir Putin issued a joint statement following their historic summit on Wednesday.\n    \n"
+    publishedDateTime: 2021-06-16T18:11:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0f0j5SR87TU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/joint-statement-from-biden-and-putin-summit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/joint-statement-from-biden-and-putin-summit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616081719-16-biden-putin-summit-0616-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "President Biden gave Putin custom aviator sunglasses during summit "
+    excerpt: "President Joe Biden gifted Russian President Vladimir Putin a pair of custom aviator sunglasses made by Randolph USA during their summit on Wednesday, according to a White House official.\n    \n"
+    publishedDateTime: 2021-06-16T19:37:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U24cdX0VGYg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/aviators-gift-biden-putin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/aviators-gift-biden-putin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616134559-09-biden-presser-biden-putin-summit-0616-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Sen. Josh Hawley holds up Biden personnel nominee over critical race theory"
     excerpt: "Senate Republicans are holding up President Joe Biden's nominee to lead the Office of Personnel Management over concerns about her stance on critical race theory.\n    \n"
     publishedDateTime: 2021-06-09T02:52:27Z
@@ -207,6 +239,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210612155834-01-jill-biden-first-lady-g7-veterans-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Watch live: Biden holds press conference after Putin meeting"
+    excerpt: "Watch live coverage of President Joe Biden’s press conference after his meeting with Russian President Vladimir Putin's in Geneva."
+    publishedDateTime: 2021-06-16T17:03:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-coverage-of-biden-putin-summit-114886213739"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114886213739"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114886213739"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/210616-joe-biden-al-1332-tease.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "78UK5bBcm4upFEGq9pEh56bWauv91rq6dM32HoZAJl9emh4OLAhk4/sOdy5M+PIdEqRZHAL7oBABu4tdiUPD5psuSd3E0cqkLjNECWhM4LrPmU9wYl8EnP2TCOu3s67utscO5VWKSI8KM7u1fxUI6JixlNxdjmPhcdbxRh+g7lrG1ehZNki33rUJ/I8yr4XNAxvjfk2pLEy1H4PntEBYiwn1QfU6DbwvdnxlGD+PnbVpgdj3ztYWcns+3wgsCeva5DE5baYdF5ZnYcBJAszJG+0jCI7wB3/eRezmg/BnWIg/TJC5UVNzpXYf8Zwaz+8R0vdwsTF38oRB3ZKvVpBavQ2T8zCpKauVeDjfbkA3efdXquj/ugdXg50Gu1pW7n02nN+pjYJsefbzrtmdfxGUOli464jQB8uImisQuO7kJdzaYA+gLOoahXcBw6rkIZXN7UPZG7DosIqJHO0UHTKV4xUi+FKh59oLfsxEXUUar1EyG6Huv8s6LpDu55zaYaoX1DYWdp/ii6xm93Sqh16iEg==;cT9r1wIbH+K0PwnT7LzKSw=="

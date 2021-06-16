@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden warns of 'devastating' consequences for Russia if Navalny dies in prison"
+    excerpt: "President Joe Biden said he warned Russian President Vladimir Putin Wednesday of consequences if jailed Russian opposition leader Alexey Navalny were to die in prison, though he declined to specify which actions he would take.\n    \n"
+    publishedDateTime: 2021-06-16T18:58:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/13v7FM8x89Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/alexey-navalny-biden-putin-geneva/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/alexey-navalny-biden-putin-geneva/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616135322-11-biden-presser-biden-putin-summit-0616-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says Putin is right about US-Russia relations being at 'a low point' ahead of summit"
     excerpt: "President Joe Biden said Sunday he agreed with Russian President Vladimir Putin that relations between the US and Russia are at a \"low point,\" days before the two leaders are scheduled to hold a highly anticipated summit in Geneva.\n    \n"
     publishedDateTime: 2021-06-13T15:12:17Z

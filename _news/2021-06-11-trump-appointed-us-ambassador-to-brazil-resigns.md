@@ -756,6 +756,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump Family: Twitter Mocks Jared Kushner’s Book Deal To Tell ‘The Truth’ About Trump’s Presidency"
+    excerpt: "Former President Donald Trump’s son-in-law Jared Kushner has signed a book deal with Broadside Books, the conservative imprint of HarperCollins Publishers, to tell “the truth” about his time in the White House."
+    publishedDateTime: 2021-06-16T18:49:00Z
+    webUrl: "https://www.ibtimes.com/trump-family-twitter-mocks-jared-kushners-book-deal-tell-truth-about-trumps-3227702"
+    ampWebUrl: "https://www.ibtimes.com/trump-family-twitter-mocks-jared-kushners-book-deal-tell-truth-about-trumps-3227702?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-family-twitter-mocks-jared-kushners-book-deal-tell-truth-about-trumps-3227702?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/us-presidential-advisor-jared-kushner-is-to-visit.jpg"
+        width: 1024
+        height: 680
+        isCached: true
   - title: "Trump Impeachment Lawyer Defending Man in Capitol Riot"
     excerpt: "A lawyer who defended former President Donald Trump during his impeachment trial against a charge of inciting the riot at the U.S. Capitol is now representing a man charged alongside other members and associates of the far-right Oath Keepers extremist group in the Jan."
     publishedDateTime: 2021-06-08T17:56:00Z

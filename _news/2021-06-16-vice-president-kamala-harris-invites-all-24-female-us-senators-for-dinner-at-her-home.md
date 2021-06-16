@@ -785,14 +785,14 @@ related:
   - title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
     excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-06-15T19:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9f94fb3645d1f08c63c8b800019348ce/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/40f41772693764fa3ce75c19df2d9049/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9f94fb3645d1f08c63c8b800019348ce/HARRIS-RECOVERY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/40f41772693764fa3ce75c19df2d9049/HARRIS-RECOVERY.jpg"
         width: 650
         height: 433
         isCached: true
@@ -890,6 +890,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "XPrpdYoyjGDjoTcpSEsUvAInpvc0iS89NPhymXvk3CrBqBdQp2L8vOs36dtOx+OItlGeKEq1WvP8qoDVG1dRo7rdkPZpBTvuRNnyM1md++Xot6FWARi/JUv8nFqJNNid43y3edmY2K4rJGPfnKzCWB0DxLEmfwfdVJrkEKdZTdtzBQmLrBP3YmkfNaycAKaBo2NIy+l45tRsxQ7MJ8iUo9ofge/rgP3kmUdVjBoY/GVprAH59e+8tvtSZtpa0j+x+XLv/icr314/rxtxdZMVKUCGsqUvTqEwHIGa5IGHscXFy6IHWeasACedt3PzzeRlkKIcoLiIsRVsaXA29HAIkA0aE4F83pC18EVYa6/yuNA=;lbDQgbHQFvTOzKQiT/ZaSA=="
+secured: "wXu9LCbAFgyfKkiFsvp6P3Ex0lg8xODhEcuRffk3/FDZwbwX4/FPvygIYPCQuKKszGEwzGjn7wyw3oNfiJbAgT6SR/6vgty6O0UGuIdFptsfEyUCe1bq92lPucDKZAZGkRUsGdB4qtuH6HQMeVui/gdFJh+SdCLfCJAJmWRBqWJxq4AGUIDYA8pt+HroivQb6OKLlySXdjLHyxJUzxOJQtR6q0DTTTPQxEC39mExRb5cIOZcW/YwZP+eVyoqmwNms8H0s50SQWyYgTMzJNE51yM2C/m73kSDW/tPLnu18v/bx1cILQv1r9oRs++/Zbx3uQ+MJspwEHXdLnpUgGJROyQPpiuCN8DrgPt2U3iQX841MoCVjaJOAXT/KVUXNPFXG8DiBaXJ7HA8QLuqsKTG+btKF7BBFt52C8qJarh6Nj+Kr/L63bfJlq5HY+x+SwBxK5hoHxecnFzgOeAbkbkYAhnkgYKROm51Xm8GSKhZAUiT0yl86KZgxvmyETaH8H/exouXqgTmEUa0uPkfROCVIQ==;Y4ygm1b9n6qhnGj3h/OEXQ=="
 ---
 

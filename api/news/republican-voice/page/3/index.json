@@ -2,6 +2,119 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-04-biden-pentagon-state-department-at-odds-over-pride-flag.md",
+      "title": "Biden Pentagon, State Department at odds over pride flag",
+      "excerpt": "The Defense Department will not allow the Pride flag to be flown at military bases, unlike the State Department, spokesperson John Kirby said Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 895,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Pride-Flag-iStock-2.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp",
+      "publishedDateTime": "2021-06-04T14:29:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-05-mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials.md",
+      "title": "McEnany: Women in Biden admin get 'glowing' profiles after 'hit pieces' for female Trump officials",
+      "excerpt": "Former White House press secretary Kayleigh McEnany responded Friday to reports that successor Jen Psaki was having her picture taken by celebrity photographer Annie Leibovitz for a magazine profile.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials",
+      "originalUrl": "https://www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60aec5b5-2172-4ba1-94aa-358a5c5d3a4c/5e5ef5ee-f5c2-4b7e-9410-a7a1a83f62a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-women-in-biden-admin-get-glowing-profiles-after-hit-pieces-for-female-trump-officials.amp",
+      "publishedDateTime": "2021-06-04T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-biden-blasted-for-suspending-oil-drilling-leases-in-alaska-political-football.md",
       "title": "Biden blasted for suspending oil-drilling leases in Alaska: 'Political football'",
       "excerpt": "Energy groups in Alaska and beyond blasted the Biden administration for suspending long-sought oil and gas leases in the Arctic National Wildlife Refuge (ANWR) this week pending review.",
@@ -1503,119 +1616,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-budget-proposal-smorgasboard-left-wing-activities.amp",
       "publishedDateTime": "2021-05-29T13:58:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-check-out-kamala-harris-naval-academy-graduation-punchline-just-ask-any-marine-today.md",
-      "title": "Check out Kamala Harris' Naval Academy graduation punchline: 'Just ask any Marine today...'",
-      "excerpt": "Vice President Kamala Harris made a joke about green electricity during her commencement speech at the U.S. Naval Academy in Annapolis Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lNyyYiNClTs/kamala-harris-naval-academy-graduation-joke",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lNyyYiNClTs/kamala-harris-naval-academy-graduation-joke",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21148533253450.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-naval-academy-graduation-joke.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-naval-academy-graduation-joke.amp",
-      "publishedDateTime": "2021-05-28T15:52:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-biden-calls-recent-spike-in-anti-semitic-attacks-despicable-unconscionable-un-american.md",
-      "title": "Biden calls recent spike in anti-Semitic attacks ‘despicable, unconscionable, un-American’",
-      "excerpt": "President Biden called a recent wave of anti-Semitic attacks after the violence in Israel and Gaza “unconscionable.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Duc3iPv5Ob0/biden-spike-anti-semitic-attacks-despicable-unconscionable-un-american",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Duc3iPv5Ob0/biden-spike-anti-semitic-attacks-despicable-unconscionable-un-american",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ada39e0-4be0-43b2-8ef3-26f3ebfa1e93/141116e1-8abd-474f-a22d-429f1971b439/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-spike-anti-semitic-attacks-despicable-unconscionable-un-american.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spike-anti-semitic-attacks-despicable-unconscionable-un-american.amp",
-      "publishedDateTime": "2021-05-28T15:33:56-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

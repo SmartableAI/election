@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Live Updates: Biden says \"I did what I came to do\" in Putin meeting"
+    excerpt: "President Biden and Russian President Vladimir Putin met Wednesday for the first time since Mr. Biden took office, at a summit in Geneva that the Russian president described as \"constructive,\" while Mr."
+    publishedDateTime: 2021-06-16T19:10:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-putin-geneva-summit-2021-06-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-putin-geneva-summit-2021-06-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-putin-geneva-summit-2021-06-16/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/16/941fb5cb-4b48-4677-809d-ddfe1192bf1c/thumbnail/1200x630/a3d92b5524adb3e97d87e36fed105d0e/2021-06-16t174740z-1924575976-rc2t1o9zsnaf-rtrmadp-3-usa-russia-summit-geneva.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden arrives in Geneva for summit with ‘worthy adversary’ Putin – live"
     excerpt: "Reports say Biden has prepared extensively for Geneva meeting on Wednesday – follow all the day’s politics live"
     publishedDateTime: 2021-06-15T16:21:00Z
@@ -190,6 +206,20 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "Putin says satisfied with Biden explanation for calling him a \"killer\""
+    excerpt: "Russian President Vladimir Putin said on Wednesday that U.S. President Joe Biden had phoned him to explain why he had called him \"a killer\" in March and that the explanation he had offered had satisfied Putin."
+    publishedDateTime: 2021-06-16T16:51:00Z
+    webUrl: "https://www.reuters.com/world/europe/putin-says-satisfied-with-biden-explanation-calling-him-killer-2021-06-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/uGdr0kZaHS03i-ssQoLgGW2XeyM=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T6FIG72UAZPCHDAYQ3JWRM52EM.jpg"
+        width: 800
+        height: 419
         isCached: true
   - title: "Biden says U.S. \"not looking for conflict\" with Russia ahead of meeting with Putin"
     excerpt: "President Biden says he's not seeking conflict with Russia, but that the U.S. would respond if Russia continued its \"harmful activities.\" CBS News chief White House correspondent Nancy Cordes joins CBSN's Elaine Quijano to discuss Monday's NATO summit and preview Mr."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html"
 type: article
 quality: 188
-heat: 768
+heat: 788
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610140633-05-biden-overseas-0610-uk-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden cancels $500 million in student debt for victims of for-profit school fraud"
+    excerpt: "The Department of Education is canceling $500 million in student loan debt for 18,000 former ITT Tech students defrauded by the now defunct for-profit college, another step the Biden administration is taking to address a backlog of more than 100,000 forgiveness claims left over from the Trump administration.\n"
+    publishedDateTime: 2021-06-16T18:29:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2mRW7HfYPcY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/student-loan-forgiveness-for-profit-colleges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/student-loan-forgiveness-for-profit-colleges/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

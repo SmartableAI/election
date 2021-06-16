@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden brings up detained Americans Paul Whelan and Trevor Reed in meeting with Putin "
+    excerpt: "US President Joe Biden said he had discussed the cases of two Americans detained in Russia during his meeting with Russian President Vladimir Putin on Wednesday, pledging to \"follow through\" on that discussion.\n    \n"
+    publishedDateTime: 2021-06-16T18:58:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wyV_h6pBicY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/biden-putin-paul-whelan-trevor-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/biden-putin-paul-whelan-trevor-reed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200615092607-02-paul-whelan-trial-0615-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden warns he'll tell Putin 'what I want him to know' as he defines goals of foreign tour"
     excerpt: "President Joe Biden told a hangar of US troops on Wednesday he was in Europe to defend the very concept of democracy, setting high stakes for his first presidential trip abroad and warning Russian President Vladimir Putin he planned to raise touchy issues during their upcoming summit.\n    \n"
     publishedDateTime: 2021-06-09T21:32:06Z
@@ -81,6 +97,6 @@ related:
         height: 619
         isCached: true
 
-secured: "t4G7pnULL/B8ZV3EGu0OJDU9Du/bx+LY0YwirURK4S3SNicHCrTkvHlOu3PXPmiCFPkGvVeroWMS3c6KIPvNJaTl8xN5C7pJID9Y+RK9Y+rSxIVInDvY7Oybg+mUGhcNMLFe71u7o0h05CR3k3U8Z3yM5nhaAm1CvLhzmrfPWJZzZCkP5HR7TVxZQhlUfhXNxk33HoDUjYP4bj/6oGzEP6hUtpsM+Y+vZFdiHRdQzjEUCR/YwRFv185GO13wVbTU7+3FYi6qgM1ZYdB63iv/TlqjFzz+yYOo3DSfbPsdiNjUMzfkNNmyrr7dtadI42Gir98bb0jQowV6DSIpH+hXqqT+il7zq+ABU0A2k/YA94U=;LgS+u06tHsk6tcNLAuTgTQ=="
+secured: "KejLv/Enh/SweJDG0MMglL6evVDVwiB5aD3vKrinMlLsLEXXnUeyX8t/2EpAo0d+CHpneIJAk/4tcHJ4tEkZDLYXLTMuh+VhhlrigFBleiCqHEp+p9330GwGuhrWlrlv0IFx9ZGSPGOYHGjSzapannDDmip2NjltRTGAGkRgQqQP+Pnoxy7Z7PBHZKg/q7FFZcCbkb+oNlcbglLoEr82ontga3GtHyoumVecfYbSmtuXgwBsEnjaFl5nf182OCwqXZhFkRmHRLmJ/NUYqpVPQBQX3ZioAEf/evk8xnkF+S6G6lnrBwSP/JaJnQtxgUZv+0dpJI2Q8Pki4abJ6L7RjRTtLGgdWpwt782YIW3u+TwpYtwui1PsVf8Aw7L46fazKmWS+dDowypj1yTqcjXwVAskQ1HDDuhp9YzCZzNu5wnCuMPJJFxAM10HwIT9ces0o8z8xPR9m5IK88YmoisHDQBQCEJsn0V3D3e/1yNGHQTGoMO5+al7fzJfKdMAeZjd5NpNLEpIo2MEyPEYYWPoHg==;lnPcHb7m4DhInIsikztLMA=="
 ---
 
