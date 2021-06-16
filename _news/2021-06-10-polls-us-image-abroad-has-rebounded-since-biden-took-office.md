@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
     quality: 105
     images:
       - url: "https://static.reuters.com/resources/r/?d=20210609&i=OVEGOQL0F&r=OVEGOQL0F&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Biden apologizes for being 'short' with reporter"
+    excerpt: "Politics Biden apologizes for being 'short' with reporter. Posted . U.S. President Joe Biden leaving Geneva following his meeting with Russia's Vladimir Putin apologized for \"bein"
+    publishedDateTime: 2021-06-16T20:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-apologizes-for-being-short-with-re-id731637552?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210616&i=OVEHNP5UN&r=OVEHNP5UN&t=2"
         width: 960
         height: 540
         isCached: true

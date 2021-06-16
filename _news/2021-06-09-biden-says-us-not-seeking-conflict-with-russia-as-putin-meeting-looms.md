@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden denies he's 'old friends' with China's Xi, says world questioning Beijing on COVID-19 origin probe"
+    excerpt: "President Biden pushed back on the assertion that he and Chinese Xi Jinping were “old friends” at a press conference on Wednesday, arguing that the international community was questioning Beijing’s commitment to a transparent investigation into the origins of the COVID-19 pandemic."
+    publishedDateTime: 2021-06-16T20:08:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/al6gum573Y8/biden-denies-old-friends-china-xi-beijing-covid-19-origin-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-denies-old-friends-china-xi-beijing-covid-19-origin-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-denies-old-friends-china-xi-beijing-covid-19-origin-probe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6bf2e3e-7198-4c43-9787-d952f2b79a77/7c02dfb9-df8c-43b5-9a27-18e57803581e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden, at G-7, says US, Russia can work together to help people of ‘Libya’ – meant to say ‘Syria,’ aides say"
     excerpt: "President Joe Biden fumbled during a press conference at the G-7 summit Sunday, mixing up “Libya” and “Syria” – not once, but three times – while discussing humanitarian aid to countries torn apart by civil war."

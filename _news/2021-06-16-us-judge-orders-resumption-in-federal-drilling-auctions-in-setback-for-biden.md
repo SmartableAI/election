@@ -107,6 +107,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden apologizes for being 'short' with reporter"
+    excerpt: "Politics Biden apologizes for being 'short' with reporter. Posted . U.S. President Joe Biden leaving Geneva following his meeting with Russia's Vladimir Putin apologized for \"bein"
+    publishedDateTime: 2021-06-16T20:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-apologizes-for-being-short-with-re-id731637552?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210616&i=OVEHNP5UN&r=OVEHNP5UN&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "52% of Americans trust President Joe Biden to negotiate with world leaders, poll shows"
     excerpt: "A majority of Americans trust President Joe Biden to negotiate on the United States’ behalf with foreign leaders, a new ABC News/Ipsos poll shows. News of the poll comes as Biden prepared to meet Queen Elizabeth II at Windsor Castle after leaders of the Group of Seven wealthy nations agreed to provide poor nations 1 billion COVID-19 vaccine doses,"
     publishedDateTime: 2021-06-13T18:34:00Z

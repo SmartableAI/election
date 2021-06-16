@@ -1,0 +1,85 @@
+---
+category: news
+title: "Justice Department drops Trump-era lawsuit against John Bolton over book royalties"
+excerpt: "The Justice Department has agreed to drop a lawsuit against former Trump national security adviser John Bolton, which sought to grab royalties from him for publishing his book without full approval.\n    \n"
+publishedDateTime: 2021-06-16T21:38:00Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0dqJ9ZwVW4/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0dqJ9ZwVW4/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/john-bolton-book-justice-department/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/john-bolton-book-justice-department/index.html"
+type: article
+quality: 169
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200621223212-john-bolton-file-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Swalwell says Trump 'weaponized' Justice Department against enemies"
+    excerpt: "California Democratic Rep. Eric Swalwell, whose data was seized by the Trump administration as part of a leak probe, on Friday said former President Donald Trump \"weaponized\" the Justice Department to dig into the private communications of his political opponents.\n    \n"
+    publishedDateTime: 2021-06-11T15:07:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLsUJzJiscI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-house-democrats-swalwell-reaction-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/trump-doj-subpoenas-house-democrats-swalwell-reaction-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611150142-01-eric-swalwell-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Justice Department can keep the Barr memo on not charging Trump secret for now, judge rules"
+    excerpt: "Judge Amy Berman Jackson is allowing the Justice Department to keep secret part of a key memo to then-Attorney General William Barr from his top advisers in March 2019 that backed his decision not to charge then-President Donald Trump with obstruction of justice.\n    \n"
+    publishedDateTime: 2021-06-14T16:37:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQdWTIxP3XY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/barr-memo-mueller-secret/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/barr-memo-mueller-secret/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190529143216-barr-mueller-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Justice Department subpoenaed Apple for data from House Intelligence Committee Democrats, sources say"
+    excerpt: "Prosecutors in the Trump administration Justice Department subpoenaed Apple for data from the accounts of House Intelligence Committee Democrats -- including Chairman Adam Schiff -- along with their staff and family members as part of a leak investigation, an Intelligence Committee official and a source"
+    publishedDateTime: 2021-06-11T01:56:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w0ODYX5Yf44/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/house-intelligence-committee-apple-data-trump-justice-department-doj/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/house-intelligence-committee-apple-data-trump-justice-department-doj/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210531094912-01-trump-taxes-house-democrats-biden-play-ball-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "wN9Cp6T5kqe1d+BzMPPgzTtt2TqPAzKYMS9FXgckixxXtvKZC5b2LEQnKk/715Wkwhmgkv9JXJiRoAHu/OGs37kGelzHfYyzpiYSN+/gpEWMnVCjlbswWjmiE0yemlgcjfFI+apyw6Xp5ibfhGC4eor6VATAmgRFSZfSLedD8KbVynQj7mNHsCOEBTCDWBPBHMHcAS+Jm3xSJ+1mpOqsCWuiPOYNx7rrX8GiDiHGi641APOtrQi3u9FscDPrdaSqhmftci6oSMMoHeOTZ9IAVyl28xAKLzS7W0C/9yRw1oOGOTkjueSriip1ycDdaFeMqHGfUOMBwQsgzfNPe+T9ASo0TP7FjDOiEPcxiL7JVj4=;dWc1Uz3WlQFCRYP+JrKfdw=="
+---
+

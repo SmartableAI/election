@@ -413,6 +413,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "DOJ drops civil lawsuit against former Trump national security adviser John Bolton"
+    excerpt: "The DOJ on Wednesday dropped its civil lawsuit targeting former national security adviser John Bolton over his 2020 memoir about Donald Trump's presidency."
+    publishedDateTime: 2021-06-16T21:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/doj-drops-civil-lawsuit-trump-national-security-adviser/story?id=78320715"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/doj-drops-civil-lawsuit-trump-national-security-adviser/story?id=78320715"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/doj-drops-civil-lawsuit-trump-national-security-adviser/story?id=78320715"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/bolton-gty-rc-210616_1623870142399_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Justice Department subpoenaed Apple for communications data on House Democrats, report says"
     excerpt: "Democrats called for an investigation after The New York Times reported that President Donald Trump's DOJ seized data from House Democrats."
     publishedDateTime: 2021-06-11T05:53:00Z
@@ -844,6 +860,20 @@ related:
         width: 1024
         height: 621
         isCached: true
+  - title: "Could Trump Become Speaker of the House?"
+    excerpt: "This bizarre scenario is technically possible, but fantasies about Trump returning to the White House via the Speakership are extremely far-fetched."
+    publishedDateTime: 2021-06-16T21:29:00Z
+    webUrl: "https://nymag.com/intelligencer/article/trump-house-speaker.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 55
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/bc0/857/fb9111414cc11fe4fbdb339e04b152813f-speaker-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Donald Trump Celebrated First Birthday Since Leaving White House: Report"
     excerpt: "Former President Donald Trump celebrated his first birthday since leaving the White House with his son, Donald Trump Jr., at his golf club in Bedminster, New Jersey."
     publishedDateTime: 2021-06-16T04:49:00Z
@@ -916,6 +946,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "zxa065Mf9mkLtfspUKPK2A6DvmzUxHaUNQ6LN6ZehQK4mXegTSR6UDGTAavcUDZJm4nQLOZjYkMeUP2e/3ZeK8Q72ybIOvaHmw439gKQxVEiNVFnbZ1BoDJFZryj05KTc8IKyMNRyzzpa+p0ng/VcVVZykKerf+OUlqL2nlTEUIxLRhqLqZV5ok4neh7c9R+nNwUn74h6cilpiwj/d7T8gEhHwfXb0Ow9Nb+XzjdLoo0WDXI6UHBYvlq0kkpN6GPdQhkyMPmhwwhdYYplGqV3goSYp75scGX9JN6c92kcs5q20AYqHZ9N/Z39AfHGxsjLCTDXGItsi4vF8kdAO/IsnGWi8wCI5DwtjgO/kJtiV4=;yo5XrVQBRxf8Rjum8EgYDQ=="
+secured: "8HMXD3sJcNk5LP8wJCL5m1UtKNwOt1wcvgyIyfRpfARSQlm92vUS1Ayqn03R1ukbS8lWBpOxkCZLweFZrufLely+y3n3yrq5w+7H6EjsRVta3C/6rKUqABq7x6yyTybv3y5S8qCFdbaO+F74KwjnLLY4kZHO/Y0W4lGBRSwXbEdzoLdY1LUVOUGt4zUU/aK4siJ13rwYq9bYS5Sx+5+EpiNBq+uLnzLNnkwkwmELrErHuoLsPByA2z0CSrLquy/l3CNSCy8I8WwhxvWp/YOUv6Re692Ejn1aMpYgXGxXbET0HJFe8VEScLXACVEb+M4qjb0vl2GUe0Vni1M3eQKIj/wBNDQzNySfxo+7+woafoUMIjsuLMWUW7xmPnKDUsGZgzQM47Pc3gaVjnbU75C1i9AK+GwdVlwl1F+22ZsVLmlwFzZnkG0AdX3MBMPkEStcKmUBWPnW3RuGqy3QuREjvDmh5yGCW7ED1Ylc4VbqGocsxGnMWl5pkSDr2x6BVe1yYu4kCu+uUWHPP29wpm4mdQ==;RuA0XNO7SC/V4Xm39us0eQ=="
 ---
 

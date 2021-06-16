@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump-era limits on asylum claims for victims of domestic and gang violence removed"
+    excerpt: "The Justice Department on Wednesday reversed two Trump-era immigration decisions that narrowed who could qualify for asylum, including an opinion that removed some protections for victims of domestic violence and gang violence.\n    \n"
+    publishedDateTime: 2021-06-16T21:11:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/meVaZ76IAII/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/immigration-asylum-gang-domestic-violence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/immigration-asylum-gang-domestic-violence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New Trump scandal shows the depth of his assault on America's democratic foundations"
     excerpt: "New revelations suggesting that the Trump administration abused Justice Department powers to target his political enemies underscore just how far the ex-President went to destroy cherished principles of American republican government.\n    \n"
     publishedDateTime: 2021-06-11T17:29:38Z

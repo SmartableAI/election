@@ -3,8 +3,8 @@ category: news
 title: "After Trump Ban, Facebook Oversight Panel Pushes for More Say"
 excerpt: "The social-media company’s Oversight Board, as well as outside observers, say the longer-term effectiveness of the panel lies in how Facebook responds to its guidance."
 publishedDateTime: 2021-06-16T11:00:00Z
-originalUrl: "https://www.wsj.com/articles/after-trump-ban-facebook-oversight-panel-pushes-for-more-say-11623844800?mod=hp_lead_pos12"
-webUrl: "https://www.wsj.com/articles/after-trump-ban-facebook-oversight-panel-pushes-for-more-say-11623844800?mod=hp_lead_pos12"
+originalUrl: "https://www.wsj.com/articles/after-trump-ban-facebook-oversight-panel-pushes-for-more-say-11623844800"
+webUrl: "https://www.wsj.com/articles/after-trump-ban-facebook-oversight-panel-pushes-for-more-say-11623844800"
 ampWebUrl: "https://www.wsj.com/amp/articles/after-trump-ban-facebook-oversight-panel-pushes-for-more-say-11623844800"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/after-trump-ban-facebook-oversight-panel-pushes-for-more-say-11623844800"
 type: article
@@ -113,6 +113,6 @@ related:
         height: 720
         isCached: true
 
-secured: "i0oLHWiKxa0UO2QwpZIHYACtJPMxe9XDGjym58rJ8GbQSUYSx0AFt3Vx41dMwRfCNb3DkIenTOyA77sl3TH1I7OOpChbJsK3nbWVRJ/08yZdjjSqlV3vPQ1asv7MDEvvtiliVGyux1p16WvQeEqXQYQVHLwtROHqY/egb0YsK0SOV218x648EbrvnqSOrYIHOycotWPD81TN95KLqVRfhhU6mqz+IZXIA2ouS2rXq6z7Iea69LqIG77NgmMzZ6v3QsbKJ6ci1G7KMNZ60QpCx5Zij9d9y/2QmNJtbpO7OaV0glZHNxwPeTLDVJUODa7BfHo0z3XNlx9wQ4/f29lGJzBv7WlNYm0A2TM+/vYLYQ4=;DpmYlSSqNixPlb08bX7HkA=="
+secured: "mqJ3NgTV7VnwZvop7LkwIRoo8YmS1pmLqXYE8OLU2FM+jKhZOXE511YxXSxuHc+GxOc3SMcLZWOfD2YWvUVdaFSe8uJLfIrO3GxK8wWD2YnCr6YuE2FT/b/z8j5V7ZutGTY2q2dGYMuOXpSVNlfiInvfyzLy0X2mumkxZxbJidrFhfcX8UP9x9D53qc5JhGlRWr70KsyM7KHI9Omu6lZKTyVmwFKdm7LHyrfMgRBC1fe1lRbDgyA+nVqaIIxAA2F7GWRII3FNjjC//YvU1mm8fpPoZrO9T3ijekGn7i+edlSWt6qyCEP4clV+OJWCq/tg06XfKv3sY92viKMV+heKPB7XHcNJl2ZPqFwpMLPH3k=;hnX9msv0hWq4FsikOVmpQQ=="
 ---
 

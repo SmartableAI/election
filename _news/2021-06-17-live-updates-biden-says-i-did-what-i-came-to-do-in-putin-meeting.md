@@ -221,6 +221,20 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Biden: Tone of Putin meeting was 'good, positive'"
+    excerpt: "President Joe Biden said the tone of his first face-to-face meeting with Russian President Vladimir Putin was \"good\" and \"positive,\" and told he reporters he did what he \"came to do.\" (June 16)"
+    publishedDateTime: 2021-06-16T21:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/16/biden-tone-putin-meeting-good-positive/7721168002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3f06dc94-54cb-415d-80ca-26eedad1d8b1_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden says U.S. \"not looking for conflict\" with Russia ahead of meeting with Putin"
     excerpt: "President Biden says he's not seeking conflict with Russia, but that the U.S. would respond if Russia continued its \"harmful activities.\" CBS News chief White House correspondent Nancy Cordes joins CBSN's Elaine Quijano to discuss Monday's NATO summit and preview Mr."
     publishedDateTime: 2021-06-15T01:46:00Z
@@ -348,6 +362,6 @@ related:
         height: 707
         isCached: true
 
-secured: "DpszLfmRirJ+4eavCo1MfuYV/SD8YmQy4575QfXOWKfrnCqUgdeByxxh/oGh1VxeKI2MBvN9ssMJuoawvk/211JtzyfgO0IW3if8hi7iZZJ64neGPNUs2MUOS+h0zWB9lAsGhMTn6nMDk4Onrpt691mTxAwEdxRA5BIDWDh6xSsW0KUTMkThMjOHQbAedyGEO9DwUDdIGTDVoi+vAzZO49K+bgCPX4Z0i7aM4MGLxqSf+vSLYzGeqfuQPf2qYp0pjV0/1pWd26TaG9NqOJyYGSsdOmAxLulMqI6NZzbaOjpIz1IVDxiEWVCD4cPk3c2gbRJOjoTE0Y20+HPAgmvpbCtw+hG9IolmdYlr4L4R7mE=;xA0+HDlmUzd6iG1yNeJkPw=="
+secured: "0twFsH78k97ZoQd+teQm/HpzZ7OLANMDDaYFyaD/sGwBTBDbsTmKCeHxoMQyhfg9A1zlsP64BOHgE16x1OEFW/PwP7ie8TuhqR3np99aWjAih6U4VmE7pCk5tEEBt0BMH9czEfA39abqNDWz4EpdXYzXrJwo2kQYSt/J9FWmDVwAtY+Ykw966gb0nmPeHXCQrFPoMnKDAArVe/eXqxwZGQQ+lkwUw6/Yd6O88645qVhprhTDgCUbxCBr+dGF/+12VfK08clVW/WQY/wMhuI+g92q2luy+1CiIvPjcAas3XjTTZ/2Hmy6GkT4iD4gt5z1X49P8nbup1aQAszBXgAwHZ5vF4CCOtRBqWcYfe+epUon1lLTXOeL9Ba8boE4CHEW6AXDm6hMZTvH0V9jV2J01DoUqKruMbiCO/yILL3M6319Hw7kA3mhATSYNHeWbDaLJAta3y/FfX3L0SwwGf0F6X/ktoD/Vxzf4VpthmAPAdifci5A2RA/JM7TPPpPZqTzYQqNex7zHMhrFQKTmKe6Og==;4jBi6V61Ti41KDURlJ3rbA=="
 ---
 

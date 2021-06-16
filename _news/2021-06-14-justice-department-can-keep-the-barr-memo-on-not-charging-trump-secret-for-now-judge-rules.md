@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Justice Department drops Trump-era lawsuit against John Bolton over book royalties"
+    excerpt: "The Justice Department has agreed to drop a lawsuit against former Trump national security adviser John Bolton, which sought to grab royalties from him for publishing his book without full approval.\n    \n"
+    publishedDateTime: 2021-06-16T21:38:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0dqJ9ZwVW4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/john-bolton-book-justice-department/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/john-bolton-book-justice-department/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200621223212-john-bolton-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Justice Department subpoenaed Apple for data from House Intelligence Committee Democrats, sources say"
     excerpt: "Prosecutors in the Trump administration Justice Department subpoenaed Apple for data from the accounts of House Intelligence Committee Democrats -- including Chairman Adam Schiff -- along with their staff and family members as part of a leak investigation, an Intelligence Committee official and a source"
     publishedDateTime: 2021-06-11T01:56:00Z

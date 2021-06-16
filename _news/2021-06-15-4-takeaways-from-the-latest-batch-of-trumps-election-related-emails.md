@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html"
 type: article
 quality: 190
-heat: 510
+heat: 530
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191125183648-03-don-mcgahn-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump-era limits on asylum claims for victims of domestic and gang violence removed"
+    excerpt: "The Justice Department on Wednesday reversed two Trump-era immigration decisions that narrowed who could qualify for asylum, including an opinion that removed some protections for victims of domestic violence and gang violence.\n    \n"
+    publishedDateTime: 2021-06-16T21:11:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/meVaZ76IAII/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/immigration-asylum-gang-domestic-violence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/immigration-asylum-gang-domestic-violence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -235,6 +235,20 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Biden: Tone of Putin meeting was 'good, positive'"
+    excerpt: "President Joe Biden said the tone of his first face-to-face meeting with Russian President Vladimir Putin was \"good\" and \"positive,\" and told he reporters he did what he \"came to do.\" (June 16)"
+    publishedDateTime: 2021-06-16T21:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/16/biden-tone-putin-meeting-good-positive/7721168002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3f06dc94-54cb-415d-80ca-26eedad1d8b1_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "In interview ahead of Biden meeting, Putin called a US Marine veteran imprisoned in Russia a 'drunk' who 'got himself s---faced'"
     excerpt: "Trevor Reed was sentenced to nine years in prison last July after being convicted of assaulting two Moscow police officers while drunk."
     publishedDateTime: 2021-06-15T19:13:00Z

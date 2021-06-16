@@ -237,6 +237,20 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Biden: Tone of Putin meeting was 'good, positive'"
+    excerpt: "President Joe Biden said the tone of his first face-to-face meeting with Russian President Vladimir Putin was \"good\" and \"positive,\" and told he reporters he did what he \"came to do.\" (June 16)"
+    publishedDateTime: 2021-06-16T21:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/16/biden-tone-putin-meeting-good-positive/7721168002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3f06dc94-54cb-415d-80ca-26eedad1d8b1_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden says U.S. \"not looking for conflict\" with Russia ahead of meeting with Putin"
     excerpt: "President Biden says he's not seeking conflict with Russia, but that the U.S. would respond if Russia continued its \"harmful activities.\" CBS News chief White House correspondent Nancy Cordes joins CBSN's Elaine Quijano to discuss Monday's NATO summit and preview Mr."
     publishedDateTime: 2021-06-15T01:46:00Z

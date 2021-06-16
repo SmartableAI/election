@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden-Putin summit highlights: 'I did what I came to do,' Biden said"
+    excerpt: "U.S. President Joe Biden held a high-stakes summit with Russian President Vladimir Putin on Wednesday. Here are the highlights."
+    publishedDateTime: 2021-06-16T21:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-putin-summit-live-updates/?id=78286684"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-putin-summit-live-updates/?id=78286684"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-putin-summit-live-updates/?id=78286684"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-geneva19-gty-ml-210616_1623864756769_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Joe Biden's Proposed Budget Would Increase Federal Spending to Equal 25% of U.S. Economy, Most Since WWII"
     excerpt: "The New York Times first obtained documents about the budget request, reporting that Biden will call for total spending to rise to $8.2 trillion by 2031 with deficits topping $1.3 billion throughout the decade."
     publishedDateTime: 2021-05-28T17:42:00Z

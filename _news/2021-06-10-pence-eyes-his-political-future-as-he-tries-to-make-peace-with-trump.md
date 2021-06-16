@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html"
 type: article
 quality: 200
-heat: 640
+heat: 680
 published: true
 
 provider:
@@ -361,6 +361,38 @@ related:
     quality: 130
     images:
       - url: "https://static01.nyt.com/images/2021/06/14/world/14biden-overseas-press-conference/merlin_189236820_a1c2c3d4-8bf1-4016-8bd1-16322a5f9470-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Garland overturns two Trump-era rules that made it hard for immigrants to win asylum"
+    excerpt: "One order by former Attorney General Jeff Sessions had made it hard for domestic violence or gang violence victims to qualify for asylum."
+    publishedDateTime: 2021-06-16T21:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/garland-overturns-two-trump-era-rules-made-it-hard-immigrants-n1271078"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1271078"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271078"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623324325940_ott_now_am_border_210610_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Justice Dept. ends a Trump policy that limited asylum for survivors of gang violence and domestic abuse."
+    excerpt: "Garland on Wednesday reversed a Trump-era immigration ruling that made it all but impossible for people to seek asylum in the United States over credible fears of domestic abuse or gang violence, marking one of the Justice Department’s most significant breaks with the previous administration."
+    publishedDateTime: 2021-06-16T21:09:00Z
+    webUrl: "https://www.nytimes.com/2021/06/16/us/politics/justice-dept-asylum-gangs-domestic-abuse.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/16/us/politics/justice-dept-asylum-gangs-domestic-abuse.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/16/us/politics/justice-dept-asylum-gangs-domestic-abuse.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/16/us/16new-washington-briefing-asylum-domestic-violence/16new-washington-briefing-asylum-domestic-violence-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

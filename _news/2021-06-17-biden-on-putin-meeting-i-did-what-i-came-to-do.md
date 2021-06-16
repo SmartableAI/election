@@ -108,6 +108,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden denies he's 'old friends' with China's Xi, says world questioning Beijing on COVID-19 origin probe"
+    excerpt: "President Biden pushed back on the assertion that he and Chinese Xi Jinping were “old friends” at a press conference on Wednesday, arguing that the international community was questioning Beijing’s commitment to a transparent investigation into the origins of the COVID-19 pandemic."
+    publishedDateTime: 2021-06-16T20:08:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/al6gum573Y8/biden-denies-old-friends-china-xi-beijing-covid-19-origin-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-denies-old-friends-china-xi-beijing-covid-19-origin-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-denies-old-friends-china-xi-beijing-covid-19-origin-probe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6bf2e3e-7198-4c43-9787-d952f2b79a77/7c02dfb9-df8c-43b5-9a27-18e57803581e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden, at G-7, says US, Russia can work together to help people of ‘Libya’ – meant to say ‘Syria,’ aides say"
     excerpt: "President Joe Biden fumbled during a press conference at the G-7 summit Sunday, mixing up “Libya” and “Syria” – not once, but three times – while discussing humanitarian aid to countries torn apart by civil war."
     publishedDateTime: 2021-06-13T23:39:36Z
@@ -251,6 +267,6 @@ related:
         height: 500
         isCached: true
 
-secured: "CgQ/uBc8SNWb1Mz3H1MaXnXdmUl0sjEfNFcL5kdT3uNkja3myfJCFQ/TV0WldQs9ldeBYv+Apq25O1+83RdGx2+tT9Mo3r81mBy01ODRG/v2CygsekOnBXAdfW9pnklLC7XWEBvmrn6jZx1wUXdQ5c0iv1Zy63X1/zhvDLIscbZQBgzT7v8nWYPpMl5XF+/lvNyb335XHrtRyW3ZZxqQiZEOf9rhtLGJFLtEyUOA2HxTfAAovREB8W/qCQ9ZqJuat1OXf1OdX2gwQ/imMrns1ARWphtoyvQdLu9Y8BWUHUtO9P6xs/aXurRjvu+ImiZXQ4BzQ3xJcspDsTN6MJ76B4Ss1WxKRNaq/hPAI4idbUM=;EtUuB+msAQKZifZsDdrQ8g=="
+secured: "05uVXHHWGhr/gfLWCMuQ0mBPa1lc6qreKQahT8mHiPjNJFf99d7ggAjVDU4++1Z9p2jmTJxo7qecmvP2tFz3MOMQJgFh863Ms9cX5GAGn0b3s49QF0NKfrWEhFbjs/oKxaEQ0YznxBV1ZCe3gihI6EYvfDvG3ORVqFnulouR9t1ghD6HWm+xahvR6spA6PpwC+BLzafV+z2B0k74vrsKoaasnNAaJpsjc4oPVo09EZeVqmO5PwdwihOGWLr7ovy23Bf2PZ9yki/VD7a11iD2AjCVfw3xt+tdkySnOv7CqPeTz+QRCw+qcvtAwX4ZB7rRVVUHaM4NcYr2ubdMl2AzTMLV0S+h/eRr8Ax5INwahIiCDd685weaeFjXJ3D60QgfGX+pgieCM8X5SPzke+NHE0OtdPWMzJYguLdr04lwF7PS7unKq4JBDkuQ+QsiOy5GxZkETSbVEf37cqFH1mDII9O7wxRMGSFpMSzgHr6/hQxPSSRuntfk+tATs6CyEZccl9lCrdDIbr/ETM5erT2XdA==;2I6TYYBVyMUT39CzlGULzw=="
 ---
 
