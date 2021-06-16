@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Congress, Justice Dept. probing Trump seizures of Dems' data"
-excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
-publishedDateTime: 2021-06-11T18:50:00Z
-originalUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+title: "Past criticism of Trump becomes potent weapon in GOP primaries"
+excerpt: "By the same token, opposition researchers are discovering the most potent weapon against potential rivals: past comments critical of Trump, or acknowledgement that Trump lost to President Biden in the 2020 election."
+publishedDateTime: 2021-06-16T00:21:00Z
+originalUrl: "https://thehill.com/homenews/campaign/558636-past-criticism-of-trump-becomes-potent-weapon-in-gop-primaries"
+webUrl: "https://thehill.com/homenews/campaign/558636-past-criticism-of-trump-becomes-potent-weapon-in-gop-primaries"
+ampWebUrl: "https://thehill.com/homenews/campaign/558636-past-criticism-of-trump-becomes-potent-weapon-in-gop-primaries?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/558636-past-criticism-of-trump-becomes-potent-weapon-in-gop-primaries?amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: The Hill
+  domain: thehill.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_011221getty.jpg"
+    width: 980
+    height: 580
     isCached: true
 
 related:
@@ -266,22 +270,6 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210613&t=2&i=1565505331&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5C022"
         width: 818
         height: 545
-        isCached: true
-  - title: "Past criticism of Trump becomes potent weapon in GOP primaries"
-    excerpt: "By the same token, opposition researchers are discovering the most potent weapon against potential rivals: past comments critical of Trump, or acknowledgement that Trump lost to President Biden in the 2020 election."
-    publishedDateTime: 2021-06-16T00:21:00Z
-    webUrl: "https://thehill.com/homenews/campaign/558636-past-criticism-of-trump-becomes-potent-weapon-in-gop-primaries"
-    ampWebUrl: "https://thehill.com/homenews/campaign/558636-past-criticism-of-trump-becomes-potent-weapon-in-gop-primaries?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/558636-past-criticism-of-trump-becomes-potent-weapon-in-gop-primaries?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_011221getty.jpg"
-        width: 980
-        height: 580
         isCached: true
   - title: "Democrats urge Justice Department not to defend Trump in defamation suit"
     excerpt: "House Democrats are urging Attorney General Merrick Garland to reconsider the Justice Department's decision to take up the defense of former President Trump in a defamation lawsuit. The 2019 suit was filed by writer E."
@@ -623,6 +611,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Congress, Justice Dept. probing Trump seizures of Dems' data"
+    excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
+    publishedDateTime: 2021-06-11T18:50:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "US closes Trump-era office for victims of immigrant crime"
     excerpt: "The Biden administration said Friday it has dismantled a Trump-era government office to help victims of crimes committed by immigrants, a move that symbolizes President Joe Biden's rejection of former President Donald Trump's repeated efforts to link immigrants to crime."
     publishedDateTime: 2021-06-12T01:54:00Z
@@ -847,6 +851,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "swf8bjD8QRjunjFd6Tzbh+Vq3ppN56koknr2troTYhbdx52977DdWWqmo+Gi/Z9QF6x8gcIvNGAGRCibaEQFKz21bwsngQWEd+vY9AGtDEARTGai8+9R5i0Qgriho7HyTJHMcgrpmk+812uYS3u1CfjNJjDyexf+B1UDoh0a9zlKnhYzrCRaHBGAZh2ulmJ/FBJljzvLWzAoCpEaMft/ygwdwX+/79h0g4w0GgIAkZRd110uPRMv0xTPaPu478Cr+lt+EJE1AJHQfz7ismHsFJGO4uw3p4MU1b7Dkm8/HFbmvBaZxuGC0psXeShEQG+fFcUDp+JdZMtmSYWwMU+bjT6gYKCAWYmdzglZs12Z7Ik=;eJSgmD/ECitY/XnwhoMA3A=="
+secured: "G+OzycmlQ8ho+nWnqXt9v5oZ2hjKbWDNXbw/NHTCnFVk6ZUsARG+7s333emJfgDW/pSa33SsGVVndMIAX5CKkA02iActt0kOhCHcIeWAAuPzjfvgMdnztIq3bh+1sHqnzvgNmudjZADlrFyk0fLudbUzlHDOhMSoU3LKRyWop6VGNiAuaKyQ5oaps5i5D0myqKVsT1wn57rmyTM6x3g16chJkjrwTC6o9zYUWI/9QPnhz059KfH+ZejFhtvRbVQWq0qUeSPUSHjYUO+ZYCIIaEmGYWXnGGw8SW37uLoiYWOG3fXunsIsumrfDd0BsivcdXJe8MlfL3r3QHULj6eybrH2sQNCZHACbTyMmfljbPM=;ze7o1SYvC5Ut5CTZm3SnEw=="
 ---
 

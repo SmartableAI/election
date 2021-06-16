@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/06/15/donald-trump-texas-gov-greg-abbott-to-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/15/donald-trump-texas-gov-greg-abbott-to-visit-us-mexico-border-june-30/amp/"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -27,6 +27,22 @@ images:
     height: 800
     isCached: true
 
-secured: "ff66I6IzUxBCIRREfImM3hEZR2FoME9X2Xx+jYv/ZMUhUs61vKjtWZKmtyDO7MfJDBHRc5R3aiqM4i6C6ry3bGjWODyTtDy71CoQAVLMxDDX1KiP/USezINO/OIOHCMKj+aLS9Ejbg/vlaLCmnbbzVNMQzgUjyy357NySabMuNF0xpPMWKb6v6W3ynR+cmWXwOqXgCZ6xDakJiCzC+4nOkAxVVfeurzLUSw0WObyc9Uy5SnaPu5xAeQbq56Hl9tCQHAWyMu6YdYrQdr4aUmhP5sNXEhI4ybjFeOtLkWS5h5/J49EEQGtX/zbnZmeOMa65KHdGQdTmNEcgWflu+8KXjEOuCF2BccIeQ30b3I7yqE=;DoxzrHS/9d3hdqWEn5e2/Q=="
+related:
+  - title: "Trump to visit 'decimated' Mexico border with Texas Gov. Abbott on June 30"
+    excerpt: "President Donald Trump is scheduled to visit the U.S.-Mexico border with Texas Gov. Greg Abbott at the end of the month, which he described on Tuesday as an “unmitigated disaster zone.”"
+    publishedDateTime: 2021-06-16T01:45:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_BrcixYkGM0/trump-visit-mexico-border-abbott-june-30"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/donald-trump-control.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "CysValyDwKzybsKIaQacP3y1WtOm7xDDxMR3bRpN9r3BYm+amcIhyF24qllHFXJd+DdIhAOsgHt/w9kWfukk+x7RCYE3eie3Afflu9dchvUHlrDddEGb6skTHIIQHHerybMofo0g+JkmXRyHcBR3kvjQVKEJsJJgGhB8Sb0hG1IpANGVIlhqT/8i86hG3++n+V+f3kI1PW/B5zpmP/f5lErmvWMykv35RLkw16Y0K/I2X4beqeGRfNSNXaTIW6vtcdfuSjRJmya5iWR6TgO+Cx6eCjqsXm+5Mr9Mj0itIjjvuSwSy6PlyYDmSY0qRH4GiemoJ0KMSeVf+HokuavQdaQOnK8kq4U5bRbtQJH4HRVQkahgX+ObVtrpDIQWBDeRS36L1shi5Ih3SVT0RpOIfZRI+IEORbtN0dmRuK5msHIAt+yjHNcLKZm49vioLd53XGxJafRYxIZgT1Z90LLQxkSQ55/3kXA0fl2uLWqdlYn4/65dMO0DqSliC5NZT8dvxnfxXxdS9anopdhPIqK5Tw==;F7lYb4VbGbwzOaN7CjslIw=="
 ---
 

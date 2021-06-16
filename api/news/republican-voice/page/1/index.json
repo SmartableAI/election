@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-16-trump-texas-gov-greg-abbott-to-visit-us-mexico-border-june-30.md",
-      "title": "Trump, Texas Gov. Greg Abbott to visit US-Mexico border June 30",
-      "excerpt": "As the crisis at the southern US border continues, former President Trump will be heading there with Texas governor Greg Abbott. Trump said the situation is an “unmitigated disaster",
+      "path": "_news/2021-06-16-trump-to-visit-decimated-mexico-border-with-texas-gov-abbott-on-june-30.md",
+      "title": "Trump to visit 'decimated' Mexico border with Texas Gov. Abbott on June 30",
+      "excerpt": "President Donald Trump is scheduled to visit the U.S.-Mexico border with Texas Gov. Greg Abbott at the end of the month, which he described on Tuesday as an “unmitigated disaster zone.”",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/15/donald-trump-texas-gov-greg-abbott-to-visit-us-mexico-border-june-30/",
-      "originalUrl": "https://nypost.com/2021/06/15/donald-trump-texas-gov-greg-abbott-to-visit-us-mexico-border-june-30/",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_BrcixYkGM0/trump-visit-mexico-border-abbott-june-30",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_BrcixYkGM0/trump-visit-mexico-border-abbott-june-30",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 173,
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-border-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/donald-trump-control.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,14 +28,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/15/donald-trump-texas-gov-greg-abbott-to-visit-us-mexico-border-june-30/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/15/donald-trump-texas-gov-greg-abbott-to-visit-us-mexico-border-june-30/amp/",
-      "publishedDateTime": "2021-06-15T16:12:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T18:45:11-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -45,7 +54,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },

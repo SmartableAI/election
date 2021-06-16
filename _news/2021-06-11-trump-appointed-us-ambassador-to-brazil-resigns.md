@@ -269,6 +269,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Past criticism of Trump becomes potent weapon in GOP primaries"
+    excerpt: "By the same token, opposition researchers are discovering the most potent weapon against potential rivals: past comments critical of Trump, or acknowledgement that Trump lost to President Biden in the 2020 election."
+    publishedDateTime: 2021-06-16T00:21:00Z
+    webUrl: "https://thehill.com/homenews/campaign/558636-past-criticism-of-trump-becomes-potent-weapon-in-gop-primaries"
+    ampWebUrl: "https://thehill.com/homenews/campaign/558636-past-criticism-of-trump-becomes-potent-weapon-in-gop-primaries?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/558636-past-criticism-of-trump-becomes-potent-weapon-in-gop-primaries?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_011221getty.jpg"
+        width: 980
+        height: 580
+        isCached: true
   - title: "Democrats urge Justice Department not to defend Trump in defamation suit"
     excerpt: "House Democrats are urging Attorney General Merrick Garland to reconsider the Justice Department's decision to take up the defense of former President Trump in a defamation lawsuit. The 2019 suit was filed by writer E."
     publishedDateTime: 2021-06-10T01:27:00Z
@@ -672,6 +688,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/13/BELTWAY_Trump_35152.jpg-801f8_c0-0-4573-2667_s1200x700.jpg?cbe289b14c47a4339267b432674b9f5abf177ad6"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Republican Leader Defends Secret Subpoenas, Democrat Blasts Trump's DOJ"
+    excerpt: "In defending the secret subpoenas, Stefanik attacked Rep. Adam Schiff, D-Calif., who has been a fierce critic of Trump, and was one of the House Intelligence Committee members to have his phone data seized."
+    publishedDateTime: 2021-06-15T23:41:00Z
+    webUrl: "https://www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727"
+    ampWebUrl: "https://www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/us-representative-elise-stefanik-a-new-york-republican.jpg"
+        width: 1024
+        height: 676
         isCached: true
   - title: "Food Deliverer Posed As Trump's Family; Used Social Media Following To Steal Thousands"
     excerpt: "A 22-year old former food delivery worker was arrested this week for creating fake Twitter accounts of former President Trump's family members and duping MAGA supporters of money."

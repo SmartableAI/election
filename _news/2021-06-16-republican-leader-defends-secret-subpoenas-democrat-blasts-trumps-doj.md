@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Congress, Justice Dept. probing Trump seizures of Dems' data"
-excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
-publishedDateTime: 2021-06-11T18:50:00Z
-originalUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+title: "Republican Leader Defends Secret Subpoenas, Democrat Blasts Trump's DOJ"
+excerpt: "In defending the secret subpoenas, Stefanik attacked Rep. Adam Schiff, D-Calif., who has been a fierce critic of Trump, and was one of the House Intelligence Committee members to have his phone data seized."
+publishedDateTime: 2021-06-15T23:41:00Z
+originalUrl: "https://www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727"
+webUrl: "https://www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727"
+ampWebUrl: "https://www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727?amp=1"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: International Business Times
+  domain: ibtimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/us-representative-elise-stefanik-a-new-york-republican.jpg"
+    width: 1024
+    height: 676
     isCached: true
 
 related:
@@ -623,6 +627,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Congress, Justice Dept. probing Trump seizures of Dems' data"
+    excerpt: "The Justice Department's internal watchdog launched an investigation Friday after revelations that former President Donald Trump's administration secretly seized phone data from at least two House Democrats as part of an aggressive leaks probe."
+    publishedDateTime: 2021-06-11T18:50:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-DOJ-seized-data-from-House-Democrats-in-16240461.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "US closes Trump-era office for victims of immigrant crime"
     excerpt: "The Biden administration said Friday it has dismantled a Trump-era government office to help victims of crimes committed by immigrants, a move that symbolizes President Joe Biden's rejection of former President Donald Trump's repeated efforts to link immigrants to crime."
     publishedDateTime: 2021-06-12T01:54:00Z
@@ -670,22 +690,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/13/BELTWAY_Trump_35152.jpg-801f8_c0-0-4573-2667_s1200x700.jpg?cbe289b14c47a4339267b432674b9f5abf177ad6"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Republican Leader Defends Secret Subpoenas, Democrat Blasts Trump's DOJ"
-    excerpt: "In defending the secret subpoenas, Stefanik attacked Rep. Adam Schiff, D-Calif., who has been a fierce critic of Trump, and was one of the House Intelligence Committee members to have his phone data seized."
-    publishedDateTime: 2021-06-15T23:41:00Z
-    webUrl: "https://www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727"
-    ampWebUrl: "https://www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/republican-leader-defends-secret-subpoenas-democrat-blasts-trumps-doj-3226727?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/us-representative-elise-stefanik-a-new-york-republican.jpg"
-        width: 1024
-        height: 676
         isCached: true
   - title: "Food Deliverer Posed As Trump's Family; Used Social Media Following To Steal Thousands"
     excerpt: "A 22-year old former food delivery worker was arrested this week for creating fake Twitter accounts of former President Trump's family members and duping MAGA supporters of money."
@@ -847,6 +851,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "swf8bjD8QRjunjFd6Tzbh+Vq3ppN56koknr2troTYhbdx52977DdWWqmo+Gi/Z9QF6x8gcIvNGAGRCibaEQFKz21bwsngQWEd+vY9AGtDEARTGai8+9R5i0Qgriho7HyTJHMcgrpmk+812uYS3u1CfjNJjDyexf+B1UDoh0a9zlKnhYzrCRaHBGAZh2ulmJ/FBJljzvLWzAoCpEaMft/ygwdwX+/79h0g4w0GgIAkZRd110uPRMv0xTPaPu478Cr+lt+EJE1AJHQfz7ismHsFJGO4uw3p4MU1b7Dkm8/HFbmvBaZxuGC0psXeShEQG+fFcUDp+JdZMtmSYWwMU+bjT6gYKCAWYmdzglZs12Z7Ik=;eJSgmD/ECitY/XnwhoMA3A=="
+secured: "QJ5tKjH3N4s2uHvS0TiHyRzynMZSHXwhLRwp4usTufHwas4Q35PSe1ivzzIAlWHbS7+ceVvSMmut+Gdy90CxtQ1+Ud1K+geQhni8yqx2mI1NwVL/jAnsSv6Fj94NZMMCdNreEyTK3NCsuQM/FJze8zk83eRbAO+lpgiwFdSqzbCLlbwiJuNjfyqAOpkA0QKD0rkdlZLoPhPJd3Y5TeO0Y9eOQV+hmkNtOT7+uQQwJe1SBJxrPSCBwP7LLS3QTXZSmKznp51spZKy0t4f4I8e2yjCT7a8S9nT95Vpuq7i5cGO6vEO3DI2zBcVHfCeW40dchbM/h9qnnFB+dxcoJUu4iIp0K1u+Ee+Fd6tDwm7nPE=;WRZprMdb8unWZwAqxiO5pw=="
 ---
 
