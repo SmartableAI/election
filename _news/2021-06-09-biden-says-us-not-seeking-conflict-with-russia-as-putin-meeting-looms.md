@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-meeting-us-not-seeking-conflict-russia.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
     quality: 146
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-Putin2-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden-Putin meeting: Republicans outline 5 things POTUS should be doing to counter Russian president"
+    excerpt: "House conservatives released a new memo in advance of President Biden's Wednesday summit with Vladimir Putin calling out the Democrat's \"tough words but weak actions\" and offering advice on policies that could actually counter Russian aggression."
+    publishedDateTime: 2021-06-16T11:00:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LI6tgFaZnf4/biden-putin-meeting-republicans-5-things-counter-russian-president"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Vladimir-Putin-Joe-Biden-Meeting-AP.jpg"
         width: 1280
         height: 720
         isCached: true

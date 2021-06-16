@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Biden open to Vladimir Putin proposal on swapping cybercriminals"
-excerpt: "President Biden signaled openness to a prisoner swap of cyber criminals with Russia ahead of his meeting with Russian President Vladimir Putin on Wednesday."
-publishedDateTime: 2021-06-13T18:55:57Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2XxdqRgj9iw/biden-open-to-vladimir-putin-proposal-on-swapping-cybercriminals"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2XxdqRgj9iw/biden-open-to-vladimir-putin-proposal-on-swapping-cybercriminals"
-ampWebUrl: "https://www.foxnews.com/politics/biden-open-to-vladimir-putin-proposal-on-swapping-cybercriminals.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-to-vladimir-putin-proposal-on-swapping-cybercriminals.amp"
+title: "Biden-Putin meeting: Republicans outline 5 things POTUS should be doing to counter Russian president"
+excerpt: "House conservatives released a new memo in advance of President Biden's Wednesday summit with Vladimir Putin calling out the Democrat's \"tough words but weak actions\" and offering advice on policies that could actually counter Russian aggression."
+publishedDateTime: 2021-06-16T11:00:07Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LI6tgFaZnf4/biden-putin-meeting-republicans-5-things-counter-russian-president"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LI6tgFaZnf4/biden-putin-meeting-republicans-5-things-counter-russian-president"
 type: article
-quality: 175
+quality: 140
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a5fbcea-0331-4b64-93d7-39e9203a7294/210ccfb6-19fb-49a4-ad94-c7f611c8fb9c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Vladimir-Putin-Joe-Biden-Meeting-AP.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -44,6 +42,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66fb34b2-88ee-4794-a45c-0dd47703dce0/d2addf7e-d6f7-4cd9-ad3a-c9109e8796c6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden open to Vladimir Putin proposal on swapping cybercriminals"
+    excerpt: "President Biden signaled openness to a prisoner swap of cyber criminals with Russia ahead of his meeting with Russian President Vladimir Putin on Wednesday."
+    publishedDateTime: 2021-06-13T18:55:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2XxdqRgj9iw/biden-open-to-vladimir-putin-proposal-on-swapping-cybercriminals"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-open-to-vladimir-putin-proposal-on-swapping-cybercriminals.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-to-vladimir-putin-proposal-on-swapping-cybercriminals.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a5fbcea-0331-4b64-93d7-39e9203a7294/210ccfb6-19fb-49a4-ad94-c7f611c8fb9c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -153,20 +167,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden-Putin meeting: Republicans outline 5 things POTUS should be doing to counter Russian president"
-    excerpt: "House conservatives released a new memo in advance of President Biden's Wednesday summit with Vladimir Putin calling out the Democrat's \"tough words but weak actions\" and offering advice on policies that could actually counter Russian aggression."
-    publishedDateTime: 2021-06-16T11:00:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LI6tgFaZnf4/biden-putin-meeting-republicans-5-things-counter-russian-president"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 140
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Vladimir-Putin-Joe-Biden-Meeting-AP.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden's Bumbling on World Stage Is Boosting Our Foes"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-06-15T18:44:00Z
@@ -182,6 +182,6 @@ related:
         height: 500
         isCached: true
 
-secured: "9hTZ5HTZwueqQWR+5LfIcCb8iNsjBSkfuDAM9QdR1xcnGBg23eaDIcEx4U+67GvuAmTMymRxlbzOpzXTtJgUy2htHWRXMgwQL4G2CWI2wLSAno/ozEqRM6NPjph1JwzvX3jl1YBZYyow9PiMawg3oxhq9TZAz/Yhya2J8+IGoRXxjJRohYOLq8lDNevdv0l1kgO+1LQUkI54DP/cahtdCBYU+KgSF1aTB88S6kgkW32zdKWGekajE67/AAeY9KUqlqrdhZzUq36mY7cTRBgXFmkukdzyzYTWchlJ4U9fY4mg2n0dialRs58TCNV/V8P859+ynXixuRpQxo2lSiaHxCvTQDpTTA+TcEpapH9aeqA=;tHxHke01EUSUBlKN34P0dw=="
+secured: "5LXOj+VB10iuJZKeGL0bW2kl+MkQqEH6S3GmOXXir8MHcElROu78kJByPRIGl1EueXSYxFCZvudio1SKZWFXqr4vLDIn3Ep0N95GVaFE8UZPYuGAQdsDoK01sga+RkP9PI8wZg72mkvTLzj8VlVpnoSVDWH9UfBTxGVBgpHCgOjWbNCr7UDvDQqNHPUDj3JMBFhpdz8V8QsjjS7Qw+iXtpE4FPZa+AvgqG8Ixqa3Vw8ETnDFv4w3qQ91d6Any1/yR4VHhD3cBb499L1kddu+3GsNL0bSadGvPxiZohhmEW1CcIRTfEWnRpNAAUf2xJCFrKpajuSlCkEL7wMd7yi65ZlzBmgKJPnPLOtMBZbbeww=;VjVG+C4m+dFQG1TH2qCqYg=="
 ---
 

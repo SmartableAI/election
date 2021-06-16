@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Vladimir Putin offers Joe Biden exchange of cybercriminals ahead of summit"
-excerpt: "Ahead of his highly anticipated Wednesday summit with U.S. President Joe Biden, Russian President Vladimir Putin said he is willing to exchange cybercriminals with United States, state-run media said."
-publishedDateTime: 2021-06-14T08:31:00Z
-originalUrl: "https://www.upi.com/Top_News/World-News/2021/06/14/russia-Russian-President-Vladimir-Putin-offers-cybercriminal-swap-with-United-States-President-Joe-Biden/8391623655947/"
-webUrl: "https://www.upi.com/Top_News/World-News/2021/06/14/russia-Russian-President-Vladimir-Putin-offers-cybercriminal-swap-with-United-States-President-Joe-Biden/8391623655947/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/06/14/russia-Russian-President-Vladimir-Putin-offers-cybercriminal-swap-with-United-States-President-Joe-Biden/8391623655947/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/06/14/russia-Russian-President-Vladimir-Putin-offers-cybercriminal-swap-with-United-States-President-Joe-Biden/8391623655947/"
+title: "Joe Biden set for Geneva showdown with Vladimir Putin after European tour of allies"
+excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
+publishedDateTime: 2021-06-16T11:18:00Z
+originalUrl: "https://www.freep.com/story/news/politics/2021/06/16/joe-biden-set-putin-summit-geneva-after-g-7-nato-meetings/7700426002/"
+webUrl: "https://www.freep.com/story/news/politics/2021/06/16/joe-biden-set-putin-summit-geneva-after-g-7-nato-meetings/7700426002/"
+ampWebUrl: "https://amp.freep.com/amp/7700426002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7700426002"
 type: article
-quality: 73
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi_com/8391623655947/2021/1/1460b214c5de6c54a593b8e3b9c65aa8/v1.5/Vladimir-Putin-offers-Joe-Biden-exchange-of-cybercriminals-ahead-of-summit.jpg"
-    width: 800
-    height: 533
+  - url: "https://www.gannett-cdn.com/presto/2021/06/16/USAT/53b4d8f5-797f-4431-860c-bb1109025f6c-AP21167417852813.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -185,6 +185,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Vladimir Putin offers Joe Biden exchange of cybercriminals ahead of summit"
+    excerpt: "Ahead of his highly anticipated Wednesday summit with U.S. President Joe Biden, Russian President Vladimir Putin said he is willing to exchange cybercriminals with United States, state-run media said."
+    publishedDateTime: 2021-06-14T08:31:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/06/14/russia-Russian-President-Vladimir-Putin-offers-cybercriminal-swap-with-United-States-President-Joe-Biden/8391623655947/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/06/14/russia-Russian-President-Vladimir-Putin-offers-cybercriminal-swap-with-United-States-President-Joe-Biden/8391623655947/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/06/14/russia-Russian-President-Vladimir-Putin-offers-cybercriminal-swap-with-United-States-President-Joe-Biden/8391623655947/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/8391623655947/2021/1/1460b214c5de6c54a593b8e3b9c65aa8/v1.5/Vladimir-Putin-offers-Joe-Biden-exchange-of-cybercriminals-ahead-of-summit.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Joe Biden to hold solo news conference after meeting with Vladimir Putin in Geneva"
     excerpt: "White House says solo press event is 'appropriate format\" to communicate with media about topics raised during Joe Biden, Vladimir Putin meeting."
     publishedDateTime: 2021-06-12T13:36:00Z
@@ -216,22 +232,6 @@ related:
       - url: "https://www.baltimoresun.com/resizer/7xWUqp8XmQGYVCVZiA2uooROlhk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NE6LQF2WMNDYHLTM6YQB7CFQSA.aspx"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Joe Biden set for Geneva showdown with Vladimir Putin after European tour of allies"
-    excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
-    publishedDateTime: 2021-06-16T11:18:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2021/06/16/joe-biden-set-putin-summit-geneva-after-g-7-nato-meetings/7700426002/"
-    ampWebUrl: "https://amp.freep.com/amp/7700426002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7700426002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 69
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/16/USAT/53b4d8f5-797f-4431-860c-bb1109025f6c-AP21167417852813.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Joe Biden embarks on first overseas trip as president to assure European allies, meet with Russia’s Putin"
     excerpt: "Biden told reporters the trip is about making clear to the leaders of China and Russia that the United States and Europe “are tight.”"
@@ -266,6 +266,6 @@ related:
         height: 707
         isCached: true
 
-secured: "1xbAiZzouC08N7qGpZE0zmYoL8R4WMqMBp32oqjeLwSSQQYVP5yCo6vLulPJxJmpc8cgoBz+0rmjHvsTN/EyddvtXhEV1N5sytB2KALmQWwR0xdYWcbFktCv8guWoKCeNpkKeQGAEKrq7ZPx1G7a+S5aDLf9XAfPm1QR6mtrADrAr179d6Y7CaxE9nckXGQGT3qbyFTt9hV8+JrtdE2+5i7I7YEBl5RX+Qf8x4pxqUtYCLBGCUTSf8SI1kXGPIl+EgVEM/KDztTMGipM6/9ycj7EE7L3X0gy8fakEnr/T8qcO9TU1JA75/XdM24+JjFLjjfGlFIlbxRPVuMeh3uSnQMCOYtngPWv0kQg7AJ1wlo=;lhnhZPzw+KHlmWDaNBx+VA=="
+secured: "JjJmDiOOQ1lzU+g7NRXKk07gf97ADrSuspopxCnTrYhcDq4gxONwjNXEQCVLPHwGApdKFreSJeVWCSaBfAPH1qJlHz+m5Z/4CjNXtGoC9REPUbCdDXJYBqQKIR7MbwE4s149mcxKfQDO3qgMZtayYe/Y6nPnMLE6Ic9312p+5tnb7/IKi3Z3V662bocbPvJXFAHIVi8E1voagK9odoqvsH1IjbQ88qgz4AzzhTQYviupOSecmCoLuUR+00uhXhT7afVg3qCGK3L/8h6vZZKitX/41UkEZckxbQfaoraLCjSspJ5o1ccBowOYkHEwiGqeFoUqdBYz3xXVn3n5+1Vjr4rkS+OpxaSE7GcLdL9fZAo=;KeWFABy0pBDhzOKcg5IOjA=="
 ---
 

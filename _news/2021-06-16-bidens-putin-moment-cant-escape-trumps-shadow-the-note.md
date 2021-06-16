@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Fact Check-Donald Trump remains suspended from Facebook and Instagram"
-excerpt: "Claims that former President Donald Trump has returned to Facebook and Instagram after being banned months ago are false. Representatives from Facebook, the parent company of Instagram, confirmed in an email to Reuters the former president remains off both platforms."
-publishedDateTime: 2021-06-04T18:55:00Z
-originalUrl: "https://www.reuters.com/article/factcheck-trump-facebook-ban-idUSL2N2NM2CA"
-webUrl: "https://www.reuters.com/article/factcheck-trump-facebook-ban-idUSL2N2NM2CA"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NM2CA"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NM2CA"
+title: "Biden's Putin moment can't escape Trump's shadow: The Note"
+excerpt: "The staggering range of issues Biden and Putin have to discuss are reminders of how much America's policies toward Russia changed with the change of administrations."
+publishedDateTime: 2021-06-16T10:00:00Z
+originalUrl: "https://abcnews.go.com/Politics/bidens-putin-moment-escape-trumps-shadow-note/story?id=78294207"
+webUrl: "https://abcnews.go.com/Politics/bidens-putin-moment-escape-trumps-shadow-note/story?id=78294207"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-putin-moment-escape-trumps-shadow-note/story?id=78294207"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-putin-moment-escape-trumps-shadow-note/story?id=78294207"
 type: article
-quality: 105
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/joe-biden-europe-02-gty-jc-210615_1623787263702_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden revokes Trump executive orders targeting TikTok and WeChat"
@@ -72,22 +78,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/3e414ae4f418b1fa5eadaca9addcc6c4e9dc8798/0_27_2679_1607/master/2679.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=980f1da8cf325779dffdd0834725fe8e"
         width: 600
         height: 360
-        isCached: true
-  - title: "Biden's Putin moment can't escape Trump's shadow: The Note"
-    excerpt: "The staggering range of issues Biden and Putin have to discuss are reminders of how much America's policies toward Russia changed with the change of administrations."
-    publishedDateTime: 2021-06-16T10:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/bidens-putin-moment-escape-trumps-shadow-note/story?id=78294207"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-putin-moment-escape-trumps-shadow-note/story?id=78294207"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-putin-moment-escape-trumps-shadow-note/story?id=78294207"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/joe-biden-europe-02-gty-jc-210615_1623787263702_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "From Jill Biden to Melania Trump – why are women always sent to schools?"
     excerpt: "Letter: Diane Reay wonders why female public figures are always sent to meet schoolchildren rather than to visit factories or laboratories"
@@ -307,6 +297,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fact Check-Donald Trump remains suspended from Facebook and Instagram"
+    excerpt: "Claims that former President Donald Trump has returned to Facebook and Instagram after being banned months ago are false. Representatives from Facebook, the parent company of Instagram, confirmed in an email to Reuters the former president remains off both platforms."
+    publishedDateTime: 2021-06-04T18:55:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-trump-facebook-ban-idUSL2N2NM2CA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2NM2CA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NM2CA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Lawmakers preview Biden's summit with Putin"
     excerpt: "Secretary of State Anthony Blinken and lawmakers on June 13 outlined the challenge President Joe Biden will face in his upcoming Geneva meeting with Russian President Vladimir Putin."
     publishedDateTime: 2021-06-13T17:34:00Z
@@ -413,6 +414,6 @@ related:
       domain: indystar.com
     quality: 16
 
-secured: "QBUnz7WnCB0TnPz1gJw6BdVFSixRez62TuVDJqAee3E5U3gUdhULFCtLkkBWKaC5q0+j3ucorYddf2KGTusquqlnoqmvXRdp8079RNADFdHCSZObkwK2/bfm04nKwfElh5Rk1mvEPk2IRA7+Ar1OjoK9JpeRvXdOPUC8NphzLh4fsvTBh9Ylz43K1cbCvXE+l5D9kHZPRjABPJ48kIUIRyNUqCw+cGSTY4H2BUZF/17Rr4tvHgyXUpMvhgJQw2SHbWjx8zZvhioQuVqlPogRHXHerv6GacYNHRzfkMDuyWgiZiPqgZErDJ0pIG3QGE/4UfgfBTUFnfHmxSkiRqf9ba5I+EIpSvtSTuzZO1XiJqE=;1/ue+9PHrqoZJ9eLJQLiEw=="
+secured: "QXGNDKoU8hu908Z4ddCynYt36X5hwZ9hZYTfKMjURbQzHg+1ajAY+n8g0JTzZVGYj9a4Wr+L9f/h/mo5qjsJ+qlYe6Im8c9DZ+XzKlilOl7FRNQ38G4B7Ee2lRtIRjlDlzuniNgR2QoA40CxXva2gMg6rA1gkIs4VA+XV0xlywogsA6APe+KyDl6rJc8lj52qGL2zTtxK+pSgobPFLrnXvB2LNRBVTO1Igz46N+nAGdt3ZzMfBA9eNwUE7ASUe1iowHzwL3HFnz+M3Yg9HnrwAN+HONEbIiUDnoe6axq9Dtzj0e0QvGhD7zaVXr0xtDrylPkCdIKYMxScm1+c5OLWAyif1ZCBaHs7CJ9e5ADDUQ=;0EwIJnaZeVEKs64V1bRyyQ=="
 ---
 

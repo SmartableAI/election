@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden's Putin moment can't escape Trump's shadow: The Note"
+    excerpt: "The staggering range of issues Biden and Putin have to discuss are reminders of how much America's policies toward Russia changed with the change of administrations."
+    publishedDateTime: 2021-06-16T10:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-putin-moment-escape-trumps-shadow-note/story?id=78294207"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-putin-moment-escape-trumps-shadow-note/story?id=78294207"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-putin-moment-escape-trumps-shadow-note/story?id=78294207"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-europe-02-gty-jc-210615_1623787263702_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden officials move to reinstate Alaska roadless rule, overturning Trump policy"
     excerpt: "The Biden administration prohibited road building in half of Alaska’s Tongass National Forest on xx, resurrecting 20-year old protections Donald Trump had stripped three months before leaving office."
     publishedDateTime: 2021-06-11T18:46:00Z

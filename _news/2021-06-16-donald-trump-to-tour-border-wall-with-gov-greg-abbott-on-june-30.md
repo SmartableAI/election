@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Donald Trump to tour border wall with Gov. Greg Abbott on June 30"
-excerpt: "Abbott announced last Thursday that Texas would build its own border wall to stem the flow of migrants from Mexico."
-publishedDateTime: 2021-06-15T23:34:00Z
-originalUrl: "https://www.texastribune.org/2021/06/15/texas-greg-abbott-trump-border-wall/"
-webUrl: "https://www.texastribune.org/2021/06/15/texas-greg-abbott-trump-border-wall/"
-ampWebUrl: "https://www.texastribune.org/2021/06/15/texas-greg-abbott-trump-border-wall/amp/"
-cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/06/15/texas-greg-abbott-trump-border-wall/amp/"
+excerpt: "Former president Donald Trump announced Tuesday that he “accepted the invitation” to tour Texas’ southern border with Gov. Greg Abbott on June 30. “The Biden Administration inherited from me the strongest,"
+publishedDateTime: 2021-06-16T10:43:00Z
+originalUrl: "https://www.chron.com/news/houston-texas/article/texas-greg-abbott-trump-border-wall-16251476.php"
+webUrl: "https://www.chron.com/news/houston-texas/article/texas-greg-abbott-trump-border-wall-16251476.php"
+ampWebUrl: "https://www.chron.com/news/houston-texas/amp/texas-greg-abbott-trump-border-wall-16251476.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-greg-abbott-trump-border-wall-16251476.php"
 type: article
 quality: 75
 heat: 75
 published: true
 
 provider:
-  name: Texas Tribune
-  domain: texastribune.org
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://thumbnails.texastribune.org/ta1gAGhy42enRFwkMdW-dWXLGJw=/1200x630/filters:quality(95)/static.texastribune.org/media/files/7386f547c57926ee097aa3e3973d1265/Trump%20in%20RGV%20JG%20TT%2005.jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
-secured: "mlWGhijPs6y55DGHOBz3OmUm6MVKT1m8fnHPnOwLx0ev3TXy69a+AMo75IDDIQbMf4YHQTGmIzYZhqZyqCPUFzal+eCbhD9ozg24LhNIDGH2FNf/0+SM+EY0SrWThr3sBH276HJLG2+7eVoM43d3QmD7k56U996iUz6Ct8EsYoCjmrnTnIPHdYX2LVsO+VOmx928G6oswQ3yZoJvMveAsk7YCJvCC6eX7TlUBJx0oZOKchkhb2WKyCCwcyYOVqnww5s8Mk8be9hhqicGVWpKL39ElKFCajVKtfTMAYSWQwo8rXGzEuQeamo8uzsR8DeorV2GEzoMirwR1OD+zuBun2V8CTTWUU03F4i6SU3RWFY=;X8E1i2D+wzOmODUt3+QlQQ=="
+secured: "BsR8c2fh5oL4pRcNmD0VUG03n7Zfvrl012/W80dY/rMZMp/dtjByab6DmufLFrdwvGnPI1isMUWhac+qziLvkoOmA6bDZtV1XVslNUitzaDIkj70IoJaEcr4hivjsleArDT9cfSfla8Vry9NmqNyMpjeir/MzbrcdPTWw6KAfbNpruv07YlZDJfmTMWjP4h7VqjFns/ToB6zQNwu6NADvDEY7MZhGfcvvTJ8Q2LuIlOB4eW5/r/g0cKlioYQEYyPkuhvn6DlQxwnPOaa1CaXfLj2bPw6XzR2Nx7MEPNLueTAlDViDun/omPyNf/0BBMMwXGA7TBQYtMMDmRRoLUUzq1WWJVMCF2CZzPEXaFma7A=;Jn60ywaPFGx3bHommKDEjw=="
 ---
 

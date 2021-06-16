@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/technology/557523-biden-revokes-trump-exe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp"
 type: article
 quality: 140
-heat: 640
+heat: 660
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/3e414ae4f418b1fa5eadaca9addcc6c4e9dc8798/0_27_2679_1607/master/2679.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=980f1da8cf325779dffdd0834725fe8e"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden's Putin moment can't escape Trump's shadow: The Note"
+    excerpt: "The staggering range of issues Biden and Putin have to discuss are reminders of how much America's policies toward Russia changed with the change of administrations."
+    publishedDateTime: 2021-06-16T10:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-putin-moment-escape-trumps-shadow-note/story?id=78294207"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-putin-moment-escape-trumps-shadow-note/story?id=78294207"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-putin-moment-escape-trumps-shadow-note/story?id=78294207"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-europe-02-gty-jc-210615_1623787263702_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "From Jill Biden to Melania Trump – why are women always sent to schools?"
     excerpt: "Letter: Diane Reay wonders why female public figures are always sent to meet schoolchildren rather than to visit factories or laboratories"

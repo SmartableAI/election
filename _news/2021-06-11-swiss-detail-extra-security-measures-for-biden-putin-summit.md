@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/swiss-detail-extr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/7xWUqp8XmQGYVCVZiA2uooROlhk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NE6LQF2WMNDYHLTM6YQB7CFQSA.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden set for Geneva showdown with Vladimir Putin after European tour of allies"
+    excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
+    publishedDateTime: 2021-06-16T11:18:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/06/16/joe-biden-set-putin-summit-geneva-after-g-7-nato-meetings/7700426002/"
+    ampWebUrl: "https://amp.freep.com/amp/7700426002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7700426002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/16/USAT/53b4d8f5-797f-4431-860c-bb1109025f6c-AP21167417852813.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Joe Biden embarks on first overseas trip as president to assure European allies, meet with Russia’s Putin"
     excerpt: "Biden told reporters the trip is about making clear to the leaders of China and Russia that the United States and Europe “are tight.”"

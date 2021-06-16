@@ -2,13 +2,11 @@
 category: news
 title: "Buoyed by allied summits, Biden ready to take on Putin"
 excerpt: "Fresh from supportive summits with allies, Joe Biden is declaring himself ready to take on Russia’s Vladimir Putin in far more confrontational talks"
-publishedDateTime: 2021-06-15T20:20:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
-webUrl: "https://abcnews.go.com/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
+publishedDateTime: 2021-06-15T22:09:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78282309"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78282309"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -142,6 +140,6 @@ related:
         height: 675
         isCached: true
 
-secured: "2GGT2p5OOUxtqEkLnrmWufZqU9Mn34KAGeiwBKnZTMnd/9iNjjkhfYgc4Ke+xje/tkpea4HTTaSnu0DKmMMGyQ4VSrS9mz23O4yvXRNMMQpLLR+lVfNRhW3qqWZXzrprVTLXRorJw0iqd+l+XSd4ObT4+UC4l6knrZmT5qQbrp1MtCqJGurYkdXu0SIkBgeBdOfsYmD5kcfqzEat3IB0cC7Yza2CRoStMFEiethTUpdYr6CokyCjOQOOmaBoEPnF9zw5JX0zbpHobBDxim+0qVG6iGWfT3nZLRM/2VfyC7E20hQTsi0PhzrVoZnZTeheNuU/Cb4KooI3QAa5VjSsScGL10KG9X0ZrTYS4hjTurk=;hnRnXGLbQ2q5a/ZyLF1+fA=="
+secured: "2wc2Xk8uQWzU0S0mcKHrCKif3RtcI7BJS/X1IDBwQV93M60nKNhCQmjW3swYKByrk7rg1ly3Ltpw8zCU5Cz+Zlh8cgqEalgo+69BqomNvlS8l9gz5IcfE0K8pyKKdjGNrjrWs89dJ/3l90zjGirOd77zbJNVhLtpLjxcH59agGFZBznwDtdOcS9AqxAKOE1ECWTh/oOAVhhobeeU4jHnGh5OPtFItgenS8xxPr30czEWPO/m2YtcO3WRS/bXwq8CTGr10hXHBWbdugL6155YaDViylMVIwmDmsUuxx4T4UWwXdnma7puoLSAvfbIdV5MAscbEYBkic/MYeT6w0qd3MQifYRKJvtjzqMMG7n5/Ys=;SX7sa47i9jI2Gkdv1GducA=="
 ---
 

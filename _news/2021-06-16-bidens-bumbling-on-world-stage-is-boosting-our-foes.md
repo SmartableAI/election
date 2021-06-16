@@ -164,6 +164,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden-Putin meeting: Republicans outline 5 things POTUS should be doing to counter Russian president"
+    excerpt: "House conservatives released a new memo in advance of President Biden's Wednesday summit with Vladimir Putin calling out the Democrat's \"tough words but weak actions\" and offering advice on policies that could actually counter Russian aggression."
+    publishedDateTime: 2021-06-16T11:00:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LI6tgFaZnf4/biden-putin-meeting-republicans-5-things-counter-russian-president"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Vladimir-Putin-Joe-Biden-Meeting-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "7RRt79dY5ziaO3I5/CWwi62cNrUKiByU+zicWqjanEtxBeUI0yYQCULlV1QIvSKFbEj0s4K8eulBwCmhGLFjcFahrJCw6KIQtivJsghm3kPr30dTaBqQuaS2GuP2lh0d+f+ctX1Iiox+7/SPIoeyJ1FIrve0myKi4WucnfCB5jVkgnfMkfkhCgOTS2ElzRN1N7dijkYkY5A/QB2MkU2Sa3kJmRi9WJ2gYCaxGzIM4uS11HKHgPy1e0LmkN4Yaw+nLYeaqHhD5y6ai8kSxmaRZW6mKOB+LpWwFi0LoJPWV00F6dy+NaxQiCQ8s7gYxuoeCTaV3cm1JQU0CQcF7tlsLklA5KxW+D3zLxzNprITz+G/sGZaLFWdN0Z8eTaBbINjCsS9jfZxQPmsET94rDnpYgiXHSHfWV+YbP+YyLtsLvwbYl8DNqilG1JD2TlRVtsf3M/3iFcJnoVqT1sZtAXtQRPKqOizkm6ceDy5bBUzhJKhZ/wUkFvjs8bHWTRyf5tppYWddcK7VTsHv386CuttNQ==;iE2zrW8QvNlYvm4AHpog1g=="
 ---

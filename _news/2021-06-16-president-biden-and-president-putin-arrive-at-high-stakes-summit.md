@@ -1,34 +1,33 @@
 ---
 category: news
-title: "A tale of two jackets: From Melania Trump to Jill Biden"
-excerpt: "Mika Brzezinski says Jill Biden’s “love” jacket shows the Bidens are turning the page on Trump’s tenure — and all of the Trump family, including former first lady Melania."
-publishedDateTime: 2021-06-11T19:52:00Z
-originalUrl: "https://www.nbcnews.com/know-your-value/feature/melania-trump-s-jacket-sent-clear-message-2018-now-it-ncna1270525"
-webUrl: "https://www.nbcnews.com/know-your-value/feature/melania-trump-s-jacket-sent-clear-message-2018-now-it-ncna1270525"
-ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1270525"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1270525"
+title: "President Biden and President Putin arrive at high-stakes summit"
+excerpt: "President Joe Biden convenes the highest-stakes talks of his long career Wednesday when he joins Russia's Vladimir Putin for a summit, an encounter set to test his decades of experience on the world stage and lay down an early marker of his diplomatic skills.\n    \n"
+publishedDateTime: 2021-06-16T11:50:59Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z4njU5g07S0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z4njU5g07S0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/president-biden-president-putin-meeting/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/president-biden-president-putin-meeting/index.html"
 type: article
-quality: 150
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3482376/210611-2x1-melania-jill-jacket-ew-227p.jpg"
-    width: 1200
-    height: 600
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616073925-04-biden-putin-summit-0616-handshake-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -157,22 +156,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "President Biden and President Putin arrive at high-stakes summit"
-    excerpt: "President Joe Biden convenes the highest-stakes talks of his long career Wednesday when he joins Russia's Vladimir Putin for a summit, an encounter set to test his decades of experience on the world stage and lay down an early marker of his diplomatic skills.\n    \n"
-    publishedDateTime: 2021-06-16T11:50:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z4njU5g07S0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/president-biden-president-putin-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/president-biden-president-putin-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616073925-04-biden-putin-summit-0616-handshake-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -319,6 +302,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/09/us/politics/09dc-TIKTOK-SWAP/09dc-TIKTOK-SWAP-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "A tale of two jackets: From Melania Trump to Jill Biden"
+    excerpt: "Mika Brzezinski says Jill Biden’s “love” jacket shows the Bidens are turning the page on Trump’s tenure — and all of the Trump family, including former first lady Melania."
+    publishedDateTime: 2021-06-11T19:52:00Z
+    webUrl: "https://www.nbcnews.com/know-your-value/feature/melania-trump-s-jacket-sent-clear-message-2018-now-it-ncna1270525"
+    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1270525"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1270525"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3482376/210611-2x1-melania-jill-jacket-ew-227p.jpg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden Plans to Restore Alaskan Forest Protections Stripped Under Trump"
     excerpt: "The administration says it will “repeal or replace” the rule that opened up more than half of Tongass National Forest to logging."
@@ -473,6 +472,6 @@ related:
         height: 629
         isCached: true
 
-secured: "rE0U9RfQuESCQt6T3AeAnvfoQ8v/7A1Gf8yqcg2WMLLxW79dpsXp7g1Tj2X36R1iDQFPjiz7VsigIfFIW6rFJLhiQAmJ521Y6uTWFsuzakJgueHUxBU/mFVwOEPDax6p59Q/xuBQ756cCBYyCE+ORuXRjtIz3QsE1YGObcydpJcmn6uY8tqV5ceYTGVSKvIJpqgp04WOqxBg+Uc8HOKVfva8aoJooWxPc/wGe1IRyWnm29pG3jmOHPHS1pycWryzatVdvayMqM2xPWcWSHuT8P0vPS3Wm2n0hiXFHJGuWyHlTqar5UxUPbFFR3ezVPuMXPb/XogjgHz3fuCKwOwxrjPgMLvM22v+857JLTzuRA0=;QquJTUaWXQDbS3iahJ0fWw=="
+secured: "9jNdwwEKLj7MnI3oY5SfS9qGG8ULNbgSPRsLip1Rq8Tqc9u0taAOFIbKINBOn8dCENydikrxTe7rArzM3U05KQlTcFDPwph7+UltvKchM40FHp4Iy4oYlRNNkMrMTs50XkkPxtxrT9Wz96tctjKIZAdzvjh/xYb4f7Flh3zoFxtq840nsgEYuaJ5+su7GZRD5NB8z4mxa03ws4TaBrdUjLTKZZqK/LqZ7/lW9GPgnKOc4OB7+3q4T/FEohRkoL4OnUCNYy3CL4lIx64R4EoNqsWqJik50n1FDNbHmb9o81Jrn14k5xW9ih43gVlYzbBiWYolZkULR5fgwdMR4TUZf4qN9J4fxkvvvv7jDTi3Pgg=;okaQi43lA2M4V2z7BOTlQA=="
 ---
 
