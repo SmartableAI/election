@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-16-biden-land-management-nominee-collaborated-with-eco-terrorists-traded-testimony-for-immunity.md",
+      "title": "Biden Land Management nominee 'collaborated with eco-terrorists,' traded testimony for immunity",
+      "excerpt": "In 1993, Biden’s nominee to head up BLM, Tracy Stone-Manning, was granted legal immunity for her testimony that she retyped and sent an anonymous letter to the U.S. Forest Service on behalf of John P. Blount, her former roommate and friend, according to documents obtained by Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3k7xn5bn1nk/biden-blm-nominee-eco-terrorists",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3k7xn5bn1nk/biden-blm-nominee-eco-terrorists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Stone-Manning.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T07:37:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-gop-rep-pushes-biden-admin-to-ensure-va-doesnt-start-providing-abortions-calls-dems-party-of-death.md",
       "title": "GOP rep pushes Biden admin to ensure VA doesn't start providing abortions, calls Dems 'party of death'",
       "excerpt": "More than 130 Republicans, led by Rep. Matt Rosendale, signed onto a letter to Veterans Affairs (VA) Secretary Denis McDonough asking him to provide assurances that the VA won't attempt to change its rules to provide abortion or abortion-related services under the new administration.",
@@ -1561,62 +1617,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-g-7-summit-2021.amp",
       "publishedDateTime": "2021-06-11T01:42:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g-7-gets-underway.md",
-      "title": "Jill Biden and Kate Middleton to meet in Cornwall as G-7 gets underway",
-      "excerpt": "First lady Jill Biden will meet with the Duchess of Cambridge for the first time on Friday during her husband’s first trip abroad as president.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_U8YRCx_TE/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_U8YRCx_TE/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5d27ae1-ccee-45ec-b569-83491164a783/c6bfc349-5323-49c2-b1db-400bc8784729/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-and-kate-middleton-to-meet-in-cornwall-as-g7-gets-underway.amp",
-      "publishedDateTime": "2021-06-11T01:41:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

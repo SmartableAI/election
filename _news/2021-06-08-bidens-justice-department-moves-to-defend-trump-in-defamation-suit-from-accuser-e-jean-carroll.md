@@ -384,6 +384,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Hillary Clinton says Biden must clean up 'disaster' Trump created with Putin"
+    excerpt: "The former secretary of state also warned that Americans are doing Putin’s work in the U.S. to sow distrust and divisiveness."
+    publishedDateTime: 2021-06-16T14:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/hillary-clinton-says-biden-must-clean-disaster-trump-created-putin-n1271000"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1271000"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271000"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3483499/210616-hillary-clinton-jm-0822.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "President Biden meets with allies on G-7 Summit day two"
     excerpt: "President Joe Biden met with French President Emmanuel Macron and will also visit the queen at Windsor Castle on Sunday. This comes ahead of next week’s high-stakes summit with Russian President Vladimir Putin."
     publishedDateTime: 2021-06-12T22:38:00Z

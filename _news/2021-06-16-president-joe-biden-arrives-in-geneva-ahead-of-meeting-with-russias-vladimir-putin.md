@@ -159,6 +159,38 @@ related:
         width: 600
         height: 428
         isCached: true
+  - title: "Biden, Putin summit in Geneva wraps up after meeting for more than three hours"
+    excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
+    publishedDateTime: 2021-06-16T15:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/16/joe-biden-set-putin-summit-geneva-after-g-7-nato-meetings/7700426002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7700426002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7700426002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/16/USAT/53b4d8f5-797f-4431-860c-bb1109025f6c-AP21167417852813.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Russian President Vladimir Putin: No hostility in meeting with US President Joe Biden; tone was constructive"
+    excerpt: "No hostility in meeting with US President Joe Biden; tone was constructive. 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2021-06-16T15:56:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/russian-president-vladimir-putin-hostility-meeting-us-president-78316294"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/russian-president-vladimir-putin-hostility-meeting-us-president-78316294"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/russian-president-vladimir-putin-hostility-meeting-us-president-78316294"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 106
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Biden says U.S. \"not looking for conflict\" with Russia ahead of meeting with Putin"
     excerpt: "President Biden says he's not seeking conflict with Russia, but that the U.S. would respond if Russia continued its \"harmful activities.\" CBS News chief White House correspondent Nancy Cordes joins CBSN's Elaine Quijano to discuss Monday's NATO summit and preview Mr."
     publishedDateTime: 2021-06-15T01:46:00Z

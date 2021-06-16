@@ -3,18 +3,18 @@ category: news
 title: "Vice President Kamala Harris invites all 24 female US senators for dinner at her home"
 excerpt: "Vice President Kamala Harris is set to host all 24 female senators in her home for a first-of-its-kind dinner."
 publishedDateTime: 2021-06-15T20:23:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
-webUrl: "https://www.indystar.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
-ampWebUrl: "https://amp.indystar.com/amp/7706598002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7706598002"
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/7706598002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7706598002"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -769,14 +769,14 @@ related:
   - title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
     excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-06-15T19:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/7e74eedfcc5cdea409f4c5cdce8018f9/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9f94fb3645d1f08c63c8b800019348ce/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/7e74eedfcc5cdea409f4c5cdce8018f9/HARRIS-RECOVERY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/9f94fb3645d1f08c63c8b800019348ce/HARRIS-RECOVERY.jpg"
         width: 650
         height: 433
         isCached: true
@@ -874,6 +874,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "0EkNWxq/832WdPTCGwW4gLozRozaNPXuYqQul+F4LwZogtyaJ7oxgIfY7tIjYfgz8ZlQmn/xi2vlylsFWHfEUkMpkQD77biy/dr/ZJHvVJM37payJNK5bg8cK6oLhAiw6dmHQSnZ3CQunMaKs6ZAWa0knJEx2+BLvtbA8PKIx+r3/7iSQWq119hNdXoMYnM2R5mbabO5xiw7zbpcBrCyoUmF8rLtifNzUYvFKzVH7SFfWfk5I0N1aSBaU81oowapeY0RxgV9zgGFVsDIDDYaMS/aVu577fMKUXtFVVhdfvuXP7SVENMQj5jzoxlQHfQER5FvUaCT91PdOJDzBpDM0qGmkbvqiNuvPOGWJBPAF4M=;nEcy4RSDDu+UUvdaMbCvTg=="
+secured: "PMYY/OuW4YOf5BJxU3PDhM5SGjmxM1WTjiUKnUjxbXowm3i0I/Sxi0nYU3to5H9Zd5rc5J1I5eVtIPkYMTUGCv8T/ZuRmxPtRw5VB9UsM0GyEkKut0XPzd5CkHCGkTNfw1Jfs81CwnQMiPr0Ruo6FBTp/pORzY9QECJzMtwElIqkSbKc2DczRg5ePO/GKf5635D9zT9ycJ0mm7/ANU/5AaTjcJBQNQnEmvxgAyyqosbJVE2V8VdI3q86Dm/1ZVE7bNTpU6004T+W4lr/V7tEbNjX72gyIGnfxYrQbRFcckIAuOGP5W1DKXrLSmyaUHFZJHRSQ9i+KkFmq0o4WxPws+URswJUl/8+afwm1g58aqE=;xZFt3LIaUqh/AulPJSBeJg=="
 ---
 

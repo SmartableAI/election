@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-u
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/07/biden-to-affirm-us-uk-special-relationship-at-g7-meeting-with-johnson"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -232,6 +232,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/FA61/production/_118879046_p09l40mt.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "3 takeaways from President Joe Biden's first G7 summit"
+    excerpt: "When President Joe Biden and his aides were planning his visit to the Cornish coast this weekend, many -- including the President -- viewed it as something of a homecoming."
+    publishedDateTime: 2021-06-13T17:37:00Z
+    webUrl: "https://www.albanyherald.com/news/3-takeaways-from-president-joe-bidens-first-g7-summit/article_356c1175-0aed-5ddf-9295-b19e3bf84f83.html"
+    type: article
+    provider:
+      name: Albany Herald
+      domain: albanyherald.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/b/1c/b1c12f9d-f95d-5f7c-b0db-c62b6c31a43a/60c69cb084a15.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "ajN3eyXG8Nf/os8dC30CtJkzTHyl//bE3xm9HssxEDhBdtmpTocMwCZoCed7I6fcavc7ZinzKYkUQjI73AoKUYjpgVh79a9OAEhyKQY4gUhw5Zwwl8oKuAL5V4IHeyGPMG144GnQKfKlQaMJetoyIuYocFSY7qZRsVqJhT73t2MTw+Lt5uPa60S7p5oJ607KtRHclrfy+hfQ2TpaawCWNJ0vTYfJW21lqwdDN60ZpgpT0XlH0zkpt7hPhnIpdUebcGZR0BCdKDTObvKcEM1vyN5jYKvzUoSgs/DTG8xxYZqfzUsBPuj/1Mz3Ro9uv9ZiACM6GvI+eA1n2k9DYUamoBUOqrND4bGEzUn4c7te0VKkOMap/eXkCIUCjDs2tSf3Yr02nGNRwu6FaYxmE9veDruBNhvZ8FHEEc4fp+mqGScJVUsbsqDsq12QIC+iuSvJHmECBBwOUjHrjiStpkwR59Nj0XgWlTsWiqzFCCXrqyCgYx41+f85Q4OQncfCrjhjxiO7G/Q1ZpUYCcC5p+H58A==;VKOd7Ma+DOEVjbsMITbscQ=="

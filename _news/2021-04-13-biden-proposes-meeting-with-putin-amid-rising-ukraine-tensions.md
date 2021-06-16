@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin-meeting-proposal/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464339/210413-biden-putin-mb-1709_f992cb72bd6ed910718633f276f04c2a.jpg"
         width: 3778
         height: 2519
+        isCached: true
+  - title: "Biden begins long, tense meeting with Putin"
+    excerpt: "Biden said he plans to raise the issues of cyberattacks, human rights abuses, Ukraine and election interference with the Russian leader."
+    publishedDateTime: 2021-06-16T14:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-prepares-long-tense-meeting-putin-n1270950"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270950"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270950"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3483454/210616-putin-biden-mc-8383.JPG"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Teeing up the Biden-Putin meeting"
     excerpt: "T-minus two days until the Biden-Putin meeting. After two Russian cyber criminal gangs were linked to ransomware attacks on U.S. critical infrastructure, will we see any progress? (Probably not.) — The G-7 walked away from its summit promising to tackle ransomware together."

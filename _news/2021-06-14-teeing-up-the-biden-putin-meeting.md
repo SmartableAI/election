@@ -142,6 +142,22 @@ related:
         width: 3778
         height: 2519
         isCached: true
+  - title: "Biden begins long, tense meeting with Putin"
+    excerpt: "Biden said he plans to raise the issues of cyberattacks, human rights abuses, Ukraine and election interference with the Russian leader."
+    publishedDateTime: 2021-06-16T14:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-prepares-long-tense-meeting-putin-n1270950"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270950"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270950"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3483454/210616-putin-biden-mc-8383.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "ywthVP842jemt7Q4Lki+WJpmIt2EiD9u+giEnW4uk69RyJhm3On+QmSD1ylbMXNcLBjIXo/xsboG7FIOlSeIsbldx8be4GM7EDWAOL9vmKU3iZdf81ALQoLf80K9bTGzKXaW8c7mc7Z9XLMJ7XslGF9SuUqDklQSW6hArUtoAOnVLo9FX4/Ll8gkJPctG3Nn/n0QvAfRrQpr1lfAKfa/SvzizALD4yPAswfvCCRceQeH3/eYjz8F3rdB8rZ7xzByEWR67tFHYd5JHb1cDei2kdG88umrGCgfQ9k9PuCCeAO1evzjjY+Gs9VFIamo6yfvOq3UFonOvl7WfoEigD44eRsCSuuboOBL/5d47dOCQPs=;NiGX0WkEtfVq8Ztu6IG6Jw=="
 ---

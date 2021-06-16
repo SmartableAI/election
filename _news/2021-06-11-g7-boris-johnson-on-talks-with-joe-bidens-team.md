@@ -233,6 +233,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "3 takeaways from President Joe Biden's first G7 summit"
+    excerpt: "When President Joe Biden and his aides were planning his visit to the Cornish coast this weekend, many -- including the President -- viewed it as something of a homecoming."
+    publishedDateTime: 2021-06-13T17:37:00Z
+    webUrl: "https://www.albanyherald.com/news/3-takeaways-from-president-joe-bidens-first-g7-summit/article_356c1175-0aed-5ddf-9295-b19e3bf84f83.html"
+    type: article
+    provider:
+      name: Albany Herald
+      domain: albanyherald.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/b/1c/b1c12f9d-f95d-5f7c-b0db-c62b6c31a43a/60c69cb084a15.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "dNaubRSK18gTZ36aXtbzw/E+SKSZZAOVWzVKFO5BVRTnzgqJzZgqmTPfGGrjc1EgnIvgDMllBn82Obr6z6iH6T7d2sJzC4iqXb6lNt+Sf8x4SWORLfceYukoktcNuxtj+1taIS3DTFJBnxvy1YRAi7bRMO4PnnzUr4pBqgIakiMbR2xvOKrt/7Jz31Sz7PDnxOmZvzi+DQLCBKD5yTraZ3CflSZGkgdp6nadjYwN4K5gknZjmFeV8RwbZl2AfVFhQvqL38vKFPDgDBhpy004fMIyg86p2ibTstlWta4cpa3jD3VVULIyvyt6nMdv3zk0NkUlPljy+6BFaLSvX40zPgjBAZ7yISAPfkMd+K1DFOs=;I6Bpb66lrmG4ZzzR+STfOw=="
 ---
