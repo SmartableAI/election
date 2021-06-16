@@ -2,13 +2,11 @@
 category: news
 title: "Buoyed by allied summits, Biden ready to take on Putin"
 excerpt: "Fresh from supportive summits with allies, Joe Biden is declaring himself ready to take on Russia’s Vladimir Putin in far more confrontational talks"
-publishedDateTime: 2021-06-15T20:20:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
-webUrl: "https://abcnews.go.com/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78283722"
+publishedDateTime: 2021-06-15T22:09:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78282309"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78282309"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -142,6 +140,6 @@ related:
         height: 675
         isCached: true
 
-secured: "AUo8J7gNrorwRXrjSu1+9GDWP4MgmP2EZ3rZ7fHcTuGNLW50pTlbpfwS/dqLKnX26i2o0QmtFv10BLw04Dz0UPkOzZCNuPaT12gRLXji3H/cATmfwU32mPZvkkpqtva3EIqXf22t5ckY+pvupuYwF+QasT2PH8bt4TgUL5lUMtvbUxnYNutYIF09VeL3o5KMSwxGUAfNTZ60VFp7H9p1Bm69NsP6GFnIdCZBct6joQh/CZbzCxZvNX5LAo8ZAHz5nis4xsk4evTEPKxF9qeFdP5ObyIhwfwOQNDrLiZNvA4ISWjkxEYtOApyVPNWd5oto3n0RF+9BUMPWSaQXtFXReWJYGb3/bsd7Xr+J5/16NiJ2YTfSpyof3QPfrXx7THVvKOXpdKjR+n+sgwOOanghbBAD0sFZCDbpuODn78zxvzMshpjN7NB39OMUYoe77rEzeVUYHDx3sug9wFVpZ/0PPzQLylBO5L2F2+oIHl7rk5DjX1VPyHHFF6tXJC1bSQHEyeOJt+y6L5+uHdbkGzgcw==;ma/NTNznwy1zyEWtLqd+ng=="
+secured: "ixW5Odzf3U/WZMj0z00cyUQoCKQLfYSTED9F5mFMuQ9jBkSUDFvugDVpGR5YGlPGHFrxVimXkzi5wFodInT6PxxG7W9KgrhPMmW+67zS0gdAF0oYw2Qo1vbS6pI4W0G2tCmw8TEw7iyoz0RzIC+xQGG92mVtgG6Uu54HyO9RZCJRCJmg0nULSftExXyIkG9MjqivEcQGMqSchsSD9dayo8vDtd/XY+dIZSATFnPFkE4ax2bk4Tk1tbuz53nDU/WMfePk/xngxdDXHcaYDDK8lwNQQqRC7/ph4cTaUL5INPaidt8Vi/YYLkZiQ6sOq2bN+otjdtJmsZVE4TWQqvY9CeM3nUiKiKOwbhg5bkT9/JY=;aVxkiLZVdKjt0Dv632sQKA=="
 ---
 

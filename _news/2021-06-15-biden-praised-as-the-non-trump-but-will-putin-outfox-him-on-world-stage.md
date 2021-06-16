@@ -174,6 +174,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Hannity: Administration 'scared' Biden will embarrass himself with Putin"
+    excerpt: "Fox News host Sean Hannity slammed President Biden's foreign policy ahead of his highly anticipated summit with Russian President Vladimir Putin, Tuesday on \"Hannity.\""
+    publishedDateTime: 2021-06-16T03:17:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-administration-scared-biden-embarrass-himself-putin"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 114
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40418d30-f93d-496d-a0bc-53d63fb80241/b5025c93-5d2c-4e65-8a66-a533b2c404f2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden Should Make China Pay"
     excerpt: "President Joe Biden heads to Europe Wednesday to meet with European leaders. He says the goal is to work together to"
     publishedDateTime: 2021-06-09T10:13:00Z

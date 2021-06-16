@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fiona Hill reflects on 'terrible spectacle' of Trump-Putin summit ahead of Biden's meeting with Russian President"
+    excerpt: "Fiona Hill, once then-President Donald Trump's top Russia adviser, said Tuesday evening that she was so alarmed during Trump's 2018 press conference with Russian President Vladimir Putin that she had looked for a fire alarm to pull and considered faking a medical emergency.\n    \n"
+    publishedDateTime: 2021-06-16T03:48:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BGMEBxDs8Ok/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/fiona-hill-trump-biden-putin-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/fiona-hill-trump-biden-putin-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191121104246-fiona-hill-testimony-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration will return $2 billion to military projects that had been set aside for border wall construction "
     excerpt: "The Biden administration is returning more than $2 billion to military projects that had previously been set aside for the construction of former President Donald Trump's border wall, the White House Office of Management and Budget said Friday.\n    \n"
     publishedDateTime: 2021-06-11T18:39:03Z

@@ -170,6 +170,15 @@ related:
         width: 1862
         height: 1396
         isCached: true
+  - title: "We're Beginning to See the Real Kamala Harris"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-15T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/15/were_beginning_to_see_the_real_kamala_harris_545134.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "b4gQRcknmFRRk1eJMDQpDaQfuS/LcTLxeUmfoJRoFUczsvGNf0S6RW2e4Zjrw51jwrrbJRWzubsv4qCnz2thmsKQar3WgL7hT03ooNRAaIocmcE8u3qrg+GyZCf9BnCjt614K8X7hqsPuVt/CaYjP152zWcb5BBKyPhYEm53+dRV9ro9z9PFH8UQDZqPCJUBvRz8645DUmGG3qskfstTWcuYg3SD3viambe2pUXzpMIyLfrcDUjdAlDfuapSPz69JbazPUmqAp876N2kF5Bu4572svZzDlklPUPngq21XE7o4yS0glr+gEHCPoGH0r/3xH2Lf1j/MWjhNytgP48XynrLPS64e9Ky8ydLCJIK08s=;7C5xKsbVbJS24ePM3qEbgw=="
 ---

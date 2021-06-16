@@ -496,17 +496,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "A sense of relief over 'dear Joe' and post-Trump summit era"
-    excerpt: "For all of President Joe Biden’s decades on the diplomatic circuit, most of the world leaders he met in three summits over the past week were strangers to him"
-    publishedDateTime: 2021-06-15T19:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/sense-relief-dear-joe-post-trump-summit-era-78296591"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/sense-relief-dear-joe-post-trump-summit-era-78296591"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/sense-relief-dear-joe-post-trump-summit-era-78296591"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
   - title: "Media leaders meet with attorney general about Trump-era phone record seizures"
     excerpt: "Attorney General Merrick Garland is meeting with leaders from top media organizations today about the Trump-era Justice Department secretly seizing phone records of journalists. CBS News legal contributor Rebecca Roiphe joins \"CBSN AM\" to talk about the latest."
     publishedDateTime: 2021-06-14T15:24:00Z
@@ -674,6 +663,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/13/BELTWAY_Trump_35152.jpg-801f8_c0-0-4573-2667_s1200x700.jpg?cbe289b14c47a4339267b432674b9f5abf177ad6"
         width: 1200
         height: 700
+        isCached: true
+  - title: "A sense of relief over 'dear Joe' and post-Trump summit era"
+    excerpt: "A core number of His Excellencies and Her Excellencies — diplo-speak for heads of government — converged repeatedly as the gathering for the G-7's seven government and two European institutional leaders morphed into the summit for the 30-member NATO alliance."
+    publishedDateTime: 2021-06-15T23:33:00Z
+    webUrl: "https://www.chron.com/news/article/A-sense-of-relief-over-dear-Joe-and-post-Trump-16249921.php"
+    ampWebUrl: "https://www.chron.com/news/amp/A-sense-of-relief-over-dear-Joe-and-post-Trump-16249921.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/A-sense-of-relief-over-dear-Joe-and-post-Trump-16249921.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Republican Leader Defends Secret Subpoenas, Democrat Blasts Trump's DOJ"
     excerpt: "In defending the secret subpoenas, Stefanik attacked Rep. Adam Schiff, D-Calif., who has been a fierce critic of Trump, and was one of the House Intelligence Committee members to have his phone data seized."

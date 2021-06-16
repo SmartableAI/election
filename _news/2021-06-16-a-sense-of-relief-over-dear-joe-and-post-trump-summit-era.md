@@ -1,28 +1,30 @@
 ---
 category: news
 title: "A sense of relief over 'dear Joe' and post-Trump summit era"
-excerpt: "For all of President Joe Biden’s decades on the diplomatic circuit, most of the world leaders he met in three summits over the past week were strangers to him"
-publishedDateTime: 2021-06-15T19:33:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/sense-relief-dear-joe-post-trump-summit-era-78296591"
-webUrl: "https://abcnews.go.com/Politics/wireStory/sense-relief-dear-joe-post-trump-summit-era-78296591"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/sense-relief-dear-joe-post-trump-summit-era-78296591"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/sense-relief-dear-joe-post-trump-summit-era-78296591"
+excerpt: "A core number of His Excellencies and Her Excellencies — diplo-speak for heads of government — converged repeatedly as the gathering for the G-7's seven government and two European institutional leaders morphed into the summit for the 30-member NATO alliance."
+publishedDateTime: 2021-06-15T23:33:00Z
+originalUrl: "https://www.chron.com/news/article/A-sense-of-relief-over-dear-Joe-and-post-Trump-16249921.php"
+webUrl: "https://www.chron.com/news/article/A-sense-of-relief-over-dear-Joe-and-post-Trump-16249921.php"
+ampWebUrl: "https://www.chron.com/news/amp/A-sense-of-relief-over-dear-Joe-and-post-Trump-16249921.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/A-sense-of-relief-over-dear-Joe-and-post-Trump-16249921.php"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Emails show Trump pressured Justice Dept. over 2020 election"
@@ -850,6 +852,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "xalpUgzvfj5Lh1yMGlCI+38jMpAvwuP9Dlkqx0G7JzE/p9VyA6vHPWqGupC0vJaJzoi2uM2k8+Hr2bpKH4Z5CmU7bbY46Zo9yheX9wK7wois88coj8JeHZU5Onh7m0EnJay61ix9ig0i6a8naSj4axVwHOIDUcObkJ6AY/8fuvT2hfxJc74C8TjyQHQe2uWV+kzVO6XfQ0/peWfVV1Tc85jGvyGezeB0u1qRvQDPhA/VKqZGiNEwe2E0lyFM34TJdpycidme/nsljDpiezAFSPAYS5TSq8uXl97TWbCoXygnYjQFdn+UoO0aGpStfUCDFsMVXAx/gS0qRnmEFvrZIxTt3DK65nRk/zF/B2bHa97QRfHKNiuWPC79q0eP0dYYWfJxoKH1BOeyWnqg39qWVZ8/2Filfsz+4CM1uFmCvaBJcbxqKQOfac8JaT9GKpc8Gxi7dpESS/YRAwbCe6rqku6KYaWR7bIgGAuQX2fwkng1+Xw9MGGoYDZOcmyIS4CWqTEEoMdwiJTtPA+0a5eakg==;F+RWRn3DCv8sE3RaRBor6Q=="
+secured: "Up7VE72ZWoH3fgAVjUwu1MbndwcLzTcrB5Zw0XWWfvNU1NsOfvchf1FKlvQq2Koilin1oBncAvp03oo+02sA2GaKy/8XSxFD5c/PFFEW3Xzo2bOm0CWfgKatYiJUN/qBdPQ1HzjQNxpkuNmw+s0TckmtkwgMd0G1vFSxoIw1UFB9xfqJ+TLOHh4UqT7GPG6oPeocWA4C6gre6l5lUT586YeT1PYO5GDJim+A1gfhTYhg1Ky4oTtUihVWmTsUECiw8gf/dJoCUHH+aC+O+5hkQ7kM71vR+g52m+3YsYO9gQrsKpXxrsd5Zjze+lT0uQFGUXoLjMPlN4AxusAQn9UC/3ZUR8vau6fdY89H8/1OyEI=;nL0t8KgXyB9TXCvaNXF+5g=="
 ---
 

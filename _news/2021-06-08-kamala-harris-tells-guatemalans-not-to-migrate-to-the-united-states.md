@@ -594,6 +594,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Kamala Harris invites all 24 female US senators for dinner at her home"
+    excerpt: "Vice President Kamala Harris is set to host all 24 female senators in her home for a first-of-its-kind dinner."
+    publishedDateTime: 2021-06-15T20:23:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/15/kamala-harris-set-host-all-female-senators-dinner-her-home/7706598002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7706598002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7706598002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/28/USAT/3ee71268-b3d9-4bcf-a461-edd6feb6e868-005_AP_Naval_Academy_Harris_2.jpg?auto=webp&crop=4334,2438,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris to host White House meeting with Texas Democrats who blocked voting bill"
     excerpt: "The meeting will take place Wednesday, according to Harris' office. Sign up for The Brief, our daily newsletter that keeps readers up to speed on the most essential Texas news. Vice President Kamala Harris is hosting a meeting next week at the White House with Democratic state lawmakers who killed Texas Republicans' priority elections bill in the regular session."
     publishedDateTime: 2021-06-10T22:01:00Z
@@ -739,16 +755,16 @@ related:
         height: 360
         isCached: true
   - title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
-    excerpt: "Lisa Mensah, President and CEO, Opportunity Finance Network speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
+    excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-06-15T19:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e0a0a0c941155fa7cf5a40361f407bc8/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3ec31fa177ec9babd24e4b98f17c29dd/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/e0a0a0c941155fa7cf5a40361f407bc8/HARRIS-RECOVERY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/3ec31fa177ec9babd24e4b98f17c29dd/HARRIS-RECOVERY.jpg"
         width: 650
         height: 433
         isCached: true

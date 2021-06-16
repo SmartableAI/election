@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-harris-may-go-to-the-bo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-may-go-to-the-border-at-some-point.amp"
 type: article
 quality: 185
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -170,6 +170,15 @@ related:
         width: 1862
         height: 1396
         isCached: true
+  - title: "We're Beginning to See the Real Kamala Harris"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-15T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/15/were_beginning_to_see_the_real_kamala_harris_545134.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "B7C8e+1qqnuL6BIQh9OkC8uaTlxKdYFwYk7fTyszsuASO3y95SupuWiw9eoCxCN5qh/MKD08aCRuIaBv0/RQ3Tpck8ML/GjbcJNkcI7XUe5cJ771vs7PZfBTj0gAoiYhc3w26DMqcCUbMOq2pnu7GzTyRUnHlJkHP9a6+sEKIb+Ke5g0cTzhZ9N8rVyMkUirhTfPAZbgbNsGqLQQ3jMyPNx1db2mCoF7qUuvrB4SNNxFwsmWdAZ0oC1+iySJwwxJOrIGRP8P3brCVTZQ+3CWxI8DUV6d4DtmWocSqPJ9YA2UKyhAe8LjZ2u3jdycjfyW838oJx2qe0xBe8CH7fbtTUnsBgmyhUM1L62Xud5Mqig=;rOaifHWbBKOn/WUr47ZfsA=="
 ---
