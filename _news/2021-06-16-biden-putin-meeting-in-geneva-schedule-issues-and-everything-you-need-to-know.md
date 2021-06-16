@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Biden's CBP nominee defended sanctuary cities, criticized police working with immigration authorities"
-excerpt: "President Biden's expected pick to lead U.S. Customs and Border Protection, Chris Magnus, has a record of defending sanctuary cities and resisting Trump administration orders about undocumented immigrants."
-publishedDateTime: 2021-04-12T19:53:16Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ZF22LaBpVI/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ZF22LaBpVI/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration"
-ampWebUrl: "https://www.foxnews.com/politics/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration.amp"
+title: "Biden-Putin meeting in Geneva: Schedule, issues and everything you need to know"
+excerpt: "President Biden and Russian President Vladimir Putin are expected to meet for four to five hours on Wednesday, senior White House officials said, noting that “nothing is off the table for an American president” during the highly-anticipated summit in Geneva."
+publishedDateTime: 2021-06-16T08:04:44Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aCZPvuHJQ0/biden-putin-meeting-geneva-schedule-issues"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aCZPvuHJQ0/biden-putin-meeting-geneva-schedule-issues"
 type: article
-quality: 160
+quality: 151
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Chris-Magnus.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Putin-Biden-color-correct.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -159,6 +157,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's CBP nominee defended sanctuary cities, criticized police working with immigration authorities"
+    excerpt: "President Biden's expected pick to lead U.S. Customs and Border Protection, Chris Magnus, has a record of defending sanctuary cities and resisting Trump administration orders about undocumented immigrants."
+    publishedDateTime: 2021-04-12T19:53:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ZF22LaBpVI/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Chris-Magnus.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Republicans to offer $650 billion infrastructure proposal as counter to Biden $2.2 trillion spending plan"
     excerpt: "Republicans plan to offer an infrastructure bill of their own that would spend about $650 billion, a GOP source tells Fox News, as the Biden administration and congressional Democrats continue to push President Biden's $2 trillion-plus spending plan. "
     publishedDateTime: 2021-04-14T18:58:47Z
@@ -188,20 +202,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden-Putin meeting in Geneva: Schedule, issues and everything you need to know"
-    excerpt: "President Biden and Russian President Vladimir Putin are expected to meet for four to five hours on Wednesday, senior White House officials said, noting that “nothing is off the table for an American president” during the highly-anticipated summit in Geneva."
-    publishedDateTime: 2021-06-16T08:04:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aCZPvuHJQ0/biden-putin-meeting-geneva-schedule-issues"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 151
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Putin-Biden-color-correct.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "GOP senators want FBI to probe if Biden Pentagon nominee disclosed classified info after leaving Obama admin"
     excerpt: "A group of Republican senators Tuesday asked FBI Director Christopher Wray to investigate one of President Biden's Pentagon nominees over whether he allegedly disclosed classified information on social media after leaving the Obama administration. "
@@ -321,6 +321,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "nqSq+ukQE0nHyyvzYej5zPpYy8NpYUfmJyll6ekXNSnHelDFIHYZ+xO/NKql1pGzULcti9sFs9PGkW80MRAN+N28lEOv2lnwIsdiJdQWblmpTloK29/sPqMr32Xb3+AFtrNJIiEHxP/yHm3/9i6EaVgCeNzjdC6vghWW239//oyw89Gy3BmcE2ZqMAZAaVNlKu/JJJHSVtEQQin5vtbnCRfouz9mW1cacTl/Q1XlRpeHQUa7BGHPue7nwE/cXozOdzdBkBzR2JilNJXLW//Z4Jk26kGkvNiR2ctsRsWZmzYUjns6A+EO4r1AejuQAxNbZzGHZ+SJd0m+J1fukNQUljIk6U2Ua3sBcS6KoXO2m7M=;z41lRs49whDsE5OGJ89Qcg=="
+secured: "29Ajw13MwpS9Cmt+su1kZyVPegaU3bMGL4BMYO/AEMUZj7a6ZwAIuazFN9xMH6zgGugg6UzB4o4MOUoFzZ6MbvW/klEJD4mDfW8z5QyeDZI8780KNockNH1RwFDpRKgnsTzhDy66DKvKzMlzBd6jr4HBjQiMuzumxWH42q94LbVJvCYFke7hpskr2405t/GXAPEOiMtNzlbVpFuVb2Tki95ZxkFCTjst3h4p3FaFlTjeBMj2YLQ2zH9MUSkRkcSfiEhGKhAbXF/vaU743L4NpIA1yEqlvYjbpGrUXmYPWbCJj6u9vBpbEem5XHODCJlhIXWdz2oSscNllbfkhIIRm1eGhdw67HMm13rkrKI8YU8=;SN/7bvioGorfDdioL5J3CQ=="
 ---
 

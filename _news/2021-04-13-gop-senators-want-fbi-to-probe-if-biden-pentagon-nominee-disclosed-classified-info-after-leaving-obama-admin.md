@@ -203,6 +203,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden-Putin meeting in Geneva: Schedule, issues and everything you need to know"
+    excerpt: "President Biden and Russian President Vladimir Putin are expected to meet for four to five hours on Wednesday, senior White House officials said, noting that “nothing is off the table for an American president” during the highly-anticipated summit in Geneva."
+    publishedDateTime: 2021-06-16T08:04:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aCZPvuHJQ0/biden-putin-meeting-geneva-schedule-issues"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 151
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Putin-Biden-color-correct.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Joe Biden, family attend confirmation of grandson in Delaware"
     excerpt: "President Biden and first lady Jill Biden on Sunday attended the confirmation of their 14-year-old grandson Robert Hunter Biden II — the son of the late Beau Biden. The service took place at"
     publishedDateTime: 2021-04-18T20:46:00Z

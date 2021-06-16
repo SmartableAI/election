@@ -202,6 +202,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden-Putin meeting in Geneva: Schedule, issues and everything you need to know"
+    excerpt: "President Biden and Russian President Vladimir Putin are expected to meet for four to five hours on Wednesday, senior White House officials said, noting that “nothing is off the table for an American president” during the highly-anticipated summit in Geneva."
+    publishedDateTime: 2021-06-16T08:04:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aCZPvuHJQ0/biden-putin-meeting-geneva-schedule-issues"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 151
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Putin-Biden-color-correct.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "GOP senators want FBI to probe if Biden Pentagon nominee disclosed classified info after leaving Obama admin"
     excerpt: "A group of Republican senators Tuesday asked FBI Director Christopher Wray to investigate one of President Biden's Pentagon nominees over whether he allegedly disclosed classified information on social media after leaving the Obama administration. "
     publishedDateTime: 2021-04-13T12:53:40Z
