@@ -108,6 +108,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden starts to call Putin 'President Trump' at press conference"
+    excerpt: "President Biden raised eyebrows with an odd gaffe during his press conference following a summit with Russian President Vladimir Putin, in which he appeared to mistakenly use the name of his own predecessor when discussing the Russian leader."
+    publishedDateTime: 2021-06-17T14:50:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VlebHwW1IKs/biden-putin-president-trump-press-conference"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden drops Trump ban on TikTok and WeChat, orders new security review"
     excerpt: "President Biden is withdrawing Trump-era executive orders that sought to ban new downloads of TikTok and WeChat, and is ordering a Commerce Department review of security concerns posed by the apps."
     publishedDateTime: 2021-06-09T15:03:00Z
@@ -267,7 +281,7 @@ related:
   - title: "Joe Biden's a Putin-Like Polarizer"
     excerpt: "In a contest between Vladimir Putin and Joe Biden, there's no comparison. Anyone in the world who cares about freedom wants to pull for the American president. The problem is Biden gives us so"
     publishedDateTime: 2021-06-17T11:48:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/17/joe_bidens_a_putin-like_polarizer_545243.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/06/17/joe_bidens_a_putin-like_polarizer_545243.html"
     type: article
     provider:
       name: RealClearPolitics

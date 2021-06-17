@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden administration reviewing judge's order to resume drilling auctions"
+    excerpt: "U.S. Interior Secretary Deb Haaland said on Wednesday her department was reviewing a federal court's decision that it must resume auctioning oil and gas leases on federal acreage but did not say when those auctions might restart."
+    publishedDateTime: 2021-06-16T20:37:00Z
+    webUrl: "https://www.reuters.com/article/usa-drilling-leases/biden-administration-reviewing-judges-order-to-resume-drilling-auctions-idUSL5N2NY4U4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DS203"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DS203"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210616&t=2&i=1565925391&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5F11H"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Deb Haaland to ask Biden to restore protections for three national monuments - report"
     excerpt: "Donald Trump ‘drastically shrunk’ the size of Utah’s Bears Ears and Grand Escalante national monuments in 2017 – follow all the day’s news"
     publishedDateTime: 2021-06-14T21:43:00Z

@@ -112,6 +112,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden starts to call Putin 'President Trump' at press conference"
+    excerpt: "President Biden raised eyebrows with an odd gaffe during his press conference following a summit with Russian President Vladimir Putin, in which he appeared to mistakenly use the name of his own predecessor when discussing the Russian leader."
+    publishedDateTime: 2021-06-17T14:50:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VlebHwW1IKs/biden-putin-president-trump-press-conference"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump to hit ‘timid and corrupt’ Biden on China in rare speech"
     excerpt: "President Donald Trump is expected to criticize President Joe Biden’s policy on China at a speech at the North Carolina Republican state convention."
     publishedDateTime: 2021-06-05T18:51:00Z
@@ -271,7 +285,7 @@ related:
   - title: "Joe Biden's a Putin-Like Polarizer"
     excerpt: "In a contest between Vladimir Putin and Joe Biden, there's no comparison. Anyone in the world who cares about freedom wants to pull for the American president. The problem is Biden gives us so"
     publishedDateTime: 2021-06-17T11:48:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/17/joe_bidens_a_putin-like_polarizer_545243.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/06/17/joe_bidens_a_putin-like_polarizer_545243.html"
     type: article
     provider:
       name: RealClearPolitics

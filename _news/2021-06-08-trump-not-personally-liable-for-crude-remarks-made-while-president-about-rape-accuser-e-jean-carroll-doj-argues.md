@@ -558,6 +558,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "U.S. reverses Trump era asylum restrictions"
+    excerpt: "Watch \"U.S. reverses Trump era asylum restrictions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-17T14:10:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210617141013-u-s-reverses-trump-era-asylum-restrictions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/17/story_10873672_1623939123.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Media leaders meet with attorney general about Trump-era phone record seizures"
     excerpt: "Attorney General Merrick Garland is meeting with leaders from top media organizations today about the Trump-era Justice Department secretly seizing phone records of journalists. CBS News legal contributor Rebecca Roiphe joins \"CBSN AM\" to talk about the latest."
     publishedDateTime: 2021-06-14T15:24:00Z

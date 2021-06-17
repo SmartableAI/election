@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
 type: article
 quality: 140
-heat: 1420
+heat: 1440
 published: true
 
 provider:
@@ -541,6 +541,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/80284b5d-2124-40a2-a0f9-4101aaf08230_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "U.S. reverses Trump era asylum restrictions"
+    excerpt: "Watch \"U.S. reverses Trump era asylum restrictions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-17T14:10:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210617141013-u-s-reverses-trump-era-asylum-restrictions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/17/story_10873672_1623939123.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
     excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden's a Putin-Like Polarizer"
 excerpt: "In a contest between Vladimir Putin and Joe Biden, there's no comparison. Anyone in the world who cares about freedom wants to pull for the American president. The problem is Biden gives us so"
 publishedDateTime: 2021-06-17T11:48:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/17/joe_bidens_a_putin-like_polarizer_545243.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/06/17/joe_bidens_a_putin-like_polarizer_545243.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/06/17/joe_bidens_a_putin-like_polarizer_545243.html"
+webUrl: "https://www.realclearpolitics.com/2021/06/17/joe_bidens_a_putin-like_polarizer_545243.html"
 type: article
 quality: 65
 heat: -1
@@ -105,6 +105,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea2088a8-b920-4e3c-95f1-05694b3bb30e/c26df30c-94d0-41b3-9f77-10d6a4a2163c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden starts to call Putin 'President Trump' at press conference"
+    excerpt: "President Biden raised eyebrows with an odd gaffe during his press conference following a summit with Russian President Vladimir Putin, in which he appeared to mistakenly use the name of his own predecessor when discussing the Russian leader."
+    publishedDateTime: 2021-06-17T14:50:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VlebHwW1IKs/biden-putin-president-trump-press-conference"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump to hit ‘timid and corrupt’ Biden on China in rare speech"
     excerpt: "President Donald Trump is expected to criticize President Joe Biden’s policy on China at a speech at the North Carolina Republican state convention."
@@ -279,6 +293,6 @@ related:
         height: 498
         isCached: true
 
-secured: "/L8WpRDonh20KwgkTf//5TC72XAlHVN00TEYX04TopTHKE0qAWCu3blgjrZ+6WDHjyqHSs/1O6M8sXuOHeeBJt0XWyjLz6kAkIoE/uiZPkt4f8beCRB4wUaML59rH+rg4Y4xH4wdyBgCoITB1lfQRtBfCHUqlA3BYLqUxRu5YzKKZkmKJ9Fz/hiSULbZ84E+Ack8B9DLgFmsFMo/Bot4syGQ/xg+vrusTb35Uu40vYvHV/9S/LziFTxTsaIDabjaXsO7ZhWL3WEjdM5kAtyHV9mMx2HaQP31LdfLYueYNj8daRLvioecTsDIy3HdRattnjsKly8iOw3ZpHa0G5KA8pKhE64MndOs9oipPMMXSXQ=;ZYxRrw7+O5MuN+VKE9EFLg=="
+secured: "kROvRKZuWgpdLtFwYVoeao0ZHDdOnTGAFwf8pdxSWokBBh0efQoEC5l5rC1N5IT/xOIY1CbM6rOixGZI3aHcecuwwmhK7GlSGmMLki2zn2OBT3QsjIiXTvDkVt6OSV4qjMKWUVY8NgJ8pXJCySo/YpZN+POWZyLEt1b5YW5u3rNgLtTiX/BSzH4c/yUihPvTosEtIWY8eevG5o8ouqt0R60FTeVPvzccd+bWw9QetgWDblm/UB7kWgOv2bwsy7jaBMSK2FxbGnGUKSwHCX/YhvbdF1mOhOOMYnQW8WfKq2rLISWhlDIqlmlU8cEy9l3m63X1KonaIxG86XcCeJBhg1yQgqqJ/XHTPdVEvAVQOQo=;UPiJun3caaH5Je/Z5CzB1w=="
 ---
 

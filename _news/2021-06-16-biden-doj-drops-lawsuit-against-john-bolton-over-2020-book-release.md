@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "House repeals 2002 authorization of use of force in Iraq, Biden backs"
+    excerpt: "The House Thursday voted to repeal the 2002 authorization for use of military force in Iraq and will send the legislation to the Senate, which is expected to take up the issue in the coming weeks. "
+    publishedDateTime: 2021-06-17T15:32:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wAZ9ttR9V24/house-repeals-2002-authorization-use-force-iraq-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/house-repeals-2002-authorization-use-force-iraq-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-repeals-2002-authorization-use-force-iraq-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden admin asks Supreme Court to reinstate death penalty for Boston Marathon bomber Dzhokhar Tsarnaev"
     excerpt: "The Department of Justice is asking the Supreme Court to overturn a lower court ruling and reinstate the death penalty for Boston Marathon bomber Dzhokhar Tsarnaev."
     publishedDateTime: 2021-06-15T15:27:43Z

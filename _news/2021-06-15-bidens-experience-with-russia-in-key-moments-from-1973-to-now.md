@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timel
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616135322-11-biden-presser-biden-putin-summit-0616-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McCarthy slams Biden for giving 'Putin a pass' after years of silence on Trump's relationship with Russian president"
+    excerpt: "House Republican Leader Kevin McCarthy criticized President Joe Biden's summit with Russian President Vladimir Putin, saying in a statement on Thursday that Biden \"gave Vladimir Putin a pass.\"\n    \n"
+    publishedDateTime: 2021-06-17T14:48:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WlESnfJHWuU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/mccarthy-biden-trump-putin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/mccarthy-biden-trump-putin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518203238-kevin-mccarthy-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

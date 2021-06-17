@@ -120,6 +120,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lara Trump rips Biden for only taking questions from pre-approved reporters: 'Are you kidding me?'"
+    excerpt: "Fox News contributor Lara Trump tore into President Biden on Thursday for only taking pre-approved questions from reporters during a press conference following his meeting with Putin in Geneva."
+    publishedDateTime: 2021-06-17T14:36:00Z
+    webUrl: "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit"
+    ampWebUrl: "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 136
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c4dd680-ab9f-40bd-aa35-325cd721dcf8/67a41eac-58b9-43de-b14a-ae16084f548d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "fXbzuR2FaXO+VbIhWZuAAptooeAA0RVaBqSVTIF0xn1ckM8pEdp78V56T71En2p+NFLK+vM5DY26nx63NSJ1k4HMUug8gJ4bwKLDAPA3etv2MrI0NZWxUzshOfdY/2XE8WzSs0xOMYdp+NS4/iKL0qHVdnQFbGCM7Uu9TMkFrhJqWRIbqWyjuoUYnYnmLesWZ4mswGYQPPlL8x22v5lzG0kIYZNfSYLssyUFc81jns2xJ2JieFcYz4r8Cocdo0evrKqyVKlpX2FhPQf4maasQUypoob9+eknMcG3rrbTS8J8v3KNHWDxVV2Dzy5Y7VTv2+1MKlhXZRiPLd4vZc0+zNhkzBMkA9I0rYJPTcTQ9hY=;gf3CAKoDgc4Y9/Z8LF7O0Q=="
 ---

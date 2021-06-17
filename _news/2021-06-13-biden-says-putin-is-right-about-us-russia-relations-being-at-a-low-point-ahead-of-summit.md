@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McCarthy slams Biden for giving 'Putin a pass' after years of silence on Trump's relationship with Russian president"
+    excerpt: "House Republican Leader Kevin McCarthy criticized President Joe Biden's summit with Russian President Vladimir Putin, saying in a statement on Thursday that Biden \"gave Vladimir Putin a pass.\"\n    \n"
+    publishedDateTime: 2021-06-17T14:48:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WlESnfJHWuU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/mccarthy-biden-trump-putin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/mccarthy-biden-trump-putin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518203238-kevin-mccarthy-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "mF66wfPhcIC01gNpzvHLekbJCZ2cEAZbFWYeNnM82J8eI+kC/xtnLjegSf4eXPNiMygKQeCIXXeIUfcfWu52yP2VO5rhGgn+xAR02rt5aXIo+eQyjrUqc36T9EaojE6yI3d/KP6fNDKKbe9i0M4xnwIGX/PotexCoJrF5v3Ogb4fi6LrbZ1ayGpsnGCbhwnmOU3z4Z5hLDsXoSS9P691z1B2zS7bb20SRaTfVXKVc1rafhVCE4vxUBi5e8/i6Ub6P1HrdSzIFK8g15F99VSMGc5hqCy2ryyb84oLRUpeoGufkhx7gGff6/y2bHEQxtvknCqRPrJYeXlyHH+H2mGnwz3pjTaqxTO6VvteKqZdCHk=;rFpecNyWFcvfE34X0qWa2Q=="
 ---
