@@ -78,6 +78,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Missouri gov, attorney general fire back at Biden DOJ over 'federal overreach' on 2nd Amendment rights"
+    excerpt: "Missouri Gov. Mike Parson and and state Attorney General (AG) Eric Schmitt fired back on Thursday after the Justice Department (DOJ) sent a warning to the state over Parson's recent bill he said protects residents' Second Amendment rights."
+    publishedDateTime: 2021-06-17T19:15:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86g_twdd_tM/missouri-governor-biden-justice-department-guns-federal"
+    ampWebUrl: "https://www.foxnews.com/politics/missouri-governor-biden-justice-department-guns-federal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-governor-biden-justice-department-guns-federal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2935c26-f1dc-4a8c-8dc7-96095b373eac/56232e35-e1d3-43e8-ba56-42317fe5ed66/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "KJ8LD0B3DWTY4lXz2pLfmoAkgS4IenBtu1sT+BQqwPkO5Zf37QqgrQiOmfInS8Xx7247OMkvfRGZZ9YvG2YReV9eYgaPfat/HemFv/SIsZAfdQ22uhoeiNCJw0FhK0j0hZGaqpldg5I0IDVZWJIgjjnAjvXmtfRUi8sR2eyUxgURp8AccNh5VxaEFOwk3kpV8ZsovwVXddCPhRJZtcRZ4fT5l805IJo1UcRYJ0fHmFn24yyjR9oA7fI1ccXygoU4IyerJN6UqBJE4Ol++WjNrlFdDxGqDVgSToy++otMgMP+6kR6ufiQCALgAslkri394NDgD4rIvNaDtFgR1uRpbAsvlgx8l0jUByHOYkqq9GQUq4YfCPM9TOaoT0F89SFguQrg9iClF47w56NyvutMl51awkyhgvRnzoEfCqkc8HnC1zSK8VS9s0/sntXhtQPSk1QJNIeyVpIB6lQY239vHXHE221f0V2oNdhUjH5Y40gUmdNJbfWX+3nWVofQj1iaJECwzHmjfj5JBDWJ9D0KUg==;dEiOc9Sk45niB0MKCZHs7w=="
 ---

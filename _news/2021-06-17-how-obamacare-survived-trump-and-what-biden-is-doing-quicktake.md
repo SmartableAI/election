@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-tru
 webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-is-doing-quicktake/2021/06/17/68dee964-cf7b-11eb-a224-bd59bd22197c_story.html"
 type: article
 quality: 120
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1440
     height: 952
     isCached: true
+
+related:
+  - title: "Affordable Care Act survives third Supreme Court challenge, as case from Trump administration and GOP-led states is rejected"
+    excerpt: "The key issue was whether a 2017 decision by Congress to remove the penalty for not buying health insurance — the so-called individual mandate — meant that the law was unconstitutional and should be wiped from the books."
+    publishedDateTime: 2021-06-17T18:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected/2021/06/17/1d800dce-cf6f-11eb-8cd2-4e95230cfac2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected/2021/06/17/1d800dce-cf6f-11eb-8cd2-4e95230cfac2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected/2021/06/17/1d800dce-cf6f-11eb-8cd2-4e95230cfac2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 98
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VWN5RNEX5YI6PAXE6EDW63LBKI.jpg&w=1440"
+        width: 1440
+        height: 963
+        isCached: true
 
 secured: "Jb0Iq6fx4NMczHW9fi/gvvIfp3A2Fug9VaSyjflNpjtHT78SNxYCZ7BGnYoxaHp5QHZ+Ut8UsKOhVcmI2xj1DmhY10GObHL8lEL66cfx5CSMl7U53/a91ZmA44GkvVMEzPpp2qFrFMcg8nf8omWjcfPSH8dns5b95tvaVnnJv+LmVQ9LWt1tjcCDBkv6o1JyAVq5n05XR232EgxkklXI/zMsgG1yO17t8xXvbFsuhcYZCE5L3Ao8jj0ycjClqMJZXRBBM9yTemOJcqQzS/aKJBiT06a6C4rN/6H0FlSuC3qtBTCUf+0u2qFUuZ8bHwGIzvsD7J8KzepYStKXGwqPFItWFR/JShR2ZYhDShtvRG4=;KSACutHNaYdhSR9gOY6a7A=="
 ---

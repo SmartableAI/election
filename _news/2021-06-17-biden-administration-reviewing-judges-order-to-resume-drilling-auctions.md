@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to sign bill making Juneteenth a federal holiday"
+    excerpt: "The United States is commemorating the end of slavery with a new federal holiday. President Joe Biden is set to sign legislation into law Thursday to make Juneteenth, or June 19, the 12th federal holiday."
+    publishedDateTime: 2021-06-17T19:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/congress-approves-bill-to-make-juneteenth-a-federal-holiday/2021/06/17/55035578-cf4f-11eb-a224-bd59bd22197c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/congress-approves-bill-to-make-juneteenth-a-federal-holiday/2021/06/17/55035578-cf4f-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/congress-approves-bill-to-make-juneteenth-a-federal-holiday/2021/06/17/55035578-cf4f-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LNW755GPO4I6XIREXVM32IQZPQ.jpg&w=1440"
+        width: 1440
+        height: 1024
+        isCached: true
   - title: "G7: Macron says US is back under Biden as leaders meet in Cornwall - as it happened"
     excerpt: "News from today’s meeting of leaders of the G7 industrialised countries in Cornwall to discuss vaccines, the pandemic recovery and the climate crisis"
     publishedDateTime: 2021-06-12T15:01:00Z

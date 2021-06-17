@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-con
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-conference.amp"
 type: article
 quality: 171
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden nominee accused of deceiving senators about investigation of eco-terrorist plot"
+    excerpt: "Senate Energy and Natural Resource Committee ranking member John Barrasso, R-Wyo., accused Biden’s BLM director nominee Tracy Stone-Manning of “intentionally trying to deceive” the committee when she said in her committee questionnaire that she had never been investigated by law enforcement."
+    publishedDateTime: 2021-06-17T19:03:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-XFxaoTD394/biden-blm-nominee-eco-terrorism-tree-spiking"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blm-nominee-eco-terrorism-tree-spiking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blm-nominee-eco-terrorism-tree-spiking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27a07c0e-3ad9-4a22-bc53-485eb8313f3c/73adeb30-5a90-42c9-a638-e0425f2e8a79/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "pY1UZ0RkQspyAxuzeFDo/0MdIoGrXP6IsPSTMzPHzsLfiBcjiH63HQOWrE4/geUq7hfdsNLrO1hMiqUPhrhSK519t2wlW3cXXNSiEAj27ioIu3Yz75pRF8zQVbqIJHgBgMYvM1ocPVQWjeJs5A7FU79QcT+Tiw2B7IDUr5IhE4PMgX9wfEsVmkKU2sF5jJ2R+riNldXoTvNEDLbe3zBSQouvg84nGcBcfAGY34K7a1vcE6BEhJ770eloioxcGa9l8Ip22KmOItCHnBeSqPdsQiYqcGAjX+ard/Kp/pYToerclWDqmPun9dqXfap7UXqQ9YATVddO2Xc/KlceF7bGZscrzeF55H5AD90GUyuAaEo=;IiRA6QSDc4rX2snpkPmhDw=="
 ---

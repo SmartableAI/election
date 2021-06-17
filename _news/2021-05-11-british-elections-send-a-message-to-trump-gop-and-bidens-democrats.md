@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-mes
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1415
+heat: 1435
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_2c710332089f41fe8c0f5a98d401d9ee_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "After Trump's flattery, GOP hits Biden as weak on Russia"
+    excerpt: "Republicans are criticizing President Joe Biden, accusing him of being weak on Russia after his summit with Vladimir Putin"
+    publishedDateTime: 2021-06-17T18:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ESVLWGPTEI6XIREXVM32IQZPQ.jpg&w=1440"
+        width: 1440
+        height: 982
         isCached: true
   - title: "Biden rescinds Trump-era health insurance requirement for new immigrants"
     excerpt: "U.S. President Joe Biden on Friday revoked a 2019 proclamation by former President Donald Trump that sought to bar the entry of immigrants who could not prove they had health insurance or could cover healthcare costs."

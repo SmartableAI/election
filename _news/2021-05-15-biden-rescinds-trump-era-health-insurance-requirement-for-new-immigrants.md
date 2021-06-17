@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "After Trump's flattery, GOP hits Biden as weak on Russia"
+    excerpt: "Republicans are criticizing President Joe Biden, accusing him of being weak on Russia after his summit with Vladimir Putin"
+    publishedDateTime: 2021-06-17T18:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ESVLWGPTEI6XIREXVM32IQZPQ.jpg&w=1440"
+        width: 1440
+        height: 982
+        isCached: true
   - title: "Biden: Trump administration ‘didn’t do a damn thing’ on infrastructure – live"
     excerpt: "The future will be built right here in America.” The president said that he expects to hear more details about the Republican counterproposal on infrastructure either today or tomorrow. Biden has previously indicated he is willing to move forward on parts of his infrastructure plan with or without Republican support."
     publishedDateTime: 2021-05-18T18:17:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-57394351.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57394351.amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1819322/us-president-biden-arrives-g7.jpg"
         width: 3000
         height: 1999
+        isCached: true
+  - title: "Biden to sign Juneteenth bill, creating holiday marking U.S. slavery's end"
+    excerpt: "U.S. President Joe Biden and Vice President Kamala Harris will sign a bill into law on Thursday afternoon to make June 19 a federal holiday commemorating the end of the legal enslavement of Black Americans."
+    publishedDateTime: 2021-06-17T19:25:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-sign-juneteenth-bill-creating-holiday-marking-us-slaverys-end-2021-06-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://www.reuters.com/resizer/9sJClrqOF9uWxsf5afHDwDKsNS0=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SD7MOK2STVJCVL6O53Q6RKJW7Q.jpg"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "PY/Za/UILl+XdTBKGThnTl1tYfMr6J7RGqjhal4/YQ9coI4wViMmUzjKHnIOZ/m/PK2czVrnm7CH6rue4WU/QZQMXHCowyrNEERi31uV0CoHd1egx+uq97FeGZqgO9ul6DWLeohP6zCagW37WbjNy2xPGK7UFs1ssX3CL1TZK0oeTegftVZqnJmFFqjpVLPe1dxLCHyS+j2owROiWTtXun5S+FI1WHInsQ1mCStDnlyUrHXmMgrCXQdQSgfOfhQez+7ikzmGwsN4bhpYAguvMM4al5NgiRYuTr6ZmSRO35aTQnXLc6Nvq4OBZPFFdBSiNMzvA81CC8Y5InAOtDiNNnO3eNsMFOUj3TvB4vfCBl8Gb3DL46kpNyn3YxO65SzBnmNywCZcsZ6DviyDg2wYZZyIuGDwMHUvZaJ/9qJDvORfWKf/sywNuOJ5B9NUmdaWIm38V71y4sh5MYA7XzPQzamt8x4ymH7njszmcPl6po40UvluQ+6aN67yu4pPxSwc6kWopHHSf08eeAoIbTPeuQ==;yw5fAhpVLJnRjB37+E4xyQ=="

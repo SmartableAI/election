@@ -1,0 +1,53 @@
+---
+category: news
+title: "Biden nominee accused of deceiving senators about investigation of eco-terrorist plot"
+excerpt: "Senate Energy and Natural Resource Committee ranking member John Barrasso, R-Wyo., accused Biden’s BLM director nominee Tracy Stone-Manning of “intentionally trying to deceive” the committee when she said in her committee questionnaire that she had never been investigated by law enforcement."
+publishedDateTime: 2021-06-17T19:03:16Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-XFxaoTD394/biden-blm-nominee-eco-terrorism-tree-spiking"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-XFxaoTD394/biden-blm-nominee-eco-terrorism-tree-spiking"
+ampWebUrl: "https://www.foxnews.com/politics/biden-blm-nominee-eco-terrorism-tree-spiking.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blm-nominee-eco-terrorism-tree-spiking.amp"
+type: article
+quality: 168
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27a07c0e-3ad9-4a22-bc53-485eb8313f3c/73adeb30-5a90-42c9-a638-e0425f2e8a79/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
+
+related:
+  - title: "Biden to face questions about rallying allies against China's Uyghur treatment"
+    excerpt: "President Biden could face questions about his progress convincing allies to publicly call out China over its Uyghur reeducation camps."
+    publishedDateTime: 2021-06-13T13:24:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvJDbn5zp6g/biden-uk-china-uyghurs-g7-press-conference"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-conference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-conference.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3ff18a4-6c7f-4a39-a5da-be054b9d608d/2ce9defe-82e0-4faa-909b-84ab2b1e248b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+
+secured: "kjLZPXbjkMezCgQTuFNv+C2ccfej87A00ry1j4JXmUiECpaoAD+Go/WatoHTjiDF2kVQFdnrGHjDeir23+sEoQE6+zgJuw3GF9lUi/AOeEcyjsuur86pOw3PtINWA2d2fzCD4dNKjgPWALe+w2hYDhxyzNAMZf+2bcVUjeYnR4uZ6w5cHJsHpqxdByohfNWq7h00wKj5RDQPfmUU7qZwQuG6WCvC/bhBz1VG0bzT9WPuH0KFsh2EFOja0LFeBnX3NAnfE8vLl2EmbbqLOnCHHcTZDPIApy5iE4gXScAGGykDyKEHdrBr9bT/wFGsOVlCXcA0GIRbev6T2ZsAv7JFmBpTtHWnappxwoKiMpxQS/w=;vfMcgLBDoSjWfr5pSrGsig=="
+---
+

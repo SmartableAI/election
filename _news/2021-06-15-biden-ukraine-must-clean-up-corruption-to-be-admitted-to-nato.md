@@ -95,6 +95,20 @@ related:
         width: 3000
         height: 1999
         isCached: true
+  - title: "Biden to sign Juneteenth bill, creating holiday marking U.S. slavery's end"
+    excerpt: "U.S. President Joe Biden and Vice President Kamala Harris will sign a bill into law on Thursday afternoon to make June 19 a federal holiday commemorating the end of the legal enslavement of Black Americans."
+    publishedDateTime: 2021-06-17T19:25:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-sign-juneteenth-bill-creating-holiday-marking-us-slaverys-end-2021-06-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://www.reuters.com/resizer/9sJClrqOF9uWxsf5afHDwDKsNS0=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SD7MOK2STVJCVL6O53Q6RKJW7Q.jpg"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "z5KMqoqR1qFGHDj4P7rULYnUHjVrHuQR2unKh7mnrGIuQTCp1azEmEhEzpF52ZtH2JfUQtpHlbOCXFE8Ym6vkN9TPMoDqbTsSyq+kriJpTqZ2h7SLycyWuV+mvedWlR/fZ1G8PwQmgmsIDBGfEw1cJ552Fln07tNGQacwehi/FptvmWbUyGxPDcFiRmu0Smzjtq/926gGS6xtI392VMb+FgUP3ufbfWxATSO7KrY+zf3XAydESFOJarNtVg31C2YG5maSdisiyzfO4vRBJd8YCux/lBfdIbFXdcGVvoaQ5o5sQ6Hr4/ALOVpccX0XboPuPlnCWQuTNXpdenuSV1Ko5t98fflCribDVEZiqywG84=;fm5ao3zT/EwhAjyRNr09Hw=="
 ---

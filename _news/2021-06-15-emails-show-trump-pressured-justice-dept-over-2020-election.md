@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
 type: article
 quality: 140
-heat: 1500
+heat: 1520
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_f0db61debaab401b9ea41f1d6fbe4a15_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "New York grand jury stores up trouble for Trump Organization executives"
+    excerpt: "Glimpses of the deliberations behind closed doors suggest a case is being built against Trump’s CFO, Allen Weisselberg, which could be bad news for his boss"
+    publishedDateTime: 2021-06-17T15:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/17/trump-organization-allen-weisselberg-new-york-grand-jury"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/17/trump-organization-allen-weisselberg-new-york-grand-jury"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/17/trump-organization-allen-weisselberg-new-york-grand-jury"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/88146fa9eae37f134d9137e0727b78bb573ce7be/0_5_6502_3901/master/6502.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=89329d579b2e39c0ec8bdece4ac2fac8"
+        width: 600
+        height: 360
         isCached: true
   - title: "US ends Trump-era asylum rules for immigrants fleeing violence"
     excerpt: "Advocates celebrated the move, which could facilitate those facing domestic or gang violence to be granted humanitarian protection"
