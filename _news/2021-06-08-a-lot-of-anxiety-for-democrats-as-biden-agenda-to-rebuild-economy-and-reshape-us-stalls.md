@@ -96,19 +96,12 @@ related:
   - title: "Joe Biden, a father's love and the legacy of 'daddy issues' among presidents"
     excerpt: "President Joe Biden often talks about the close relationship he had with his father and how this influenced him growing up as “the scrappy kid from Scranton,” Pennsylvania. Biden was born into wealth,"
     publishedDateTime: 2021-06-15T14:07:00Z
-    webUrl: "https://www.middletownpress.com/news/article/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
-    ampWebUrl: "https://www.middletownpress.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
-    cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
+    webUrl: "https://www.myplainview.com/news/article/Joe-Biden-a-father-s-love-and-the-legacy-of-16248875.php"
     type: article
     provider:
-      name: The Middletown Press
-      domain: middletownpress.com
-    quality: 72
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: My Plainview
+      domain: myplainview.com
+    quality: 32
 
 secured: "SrUMjuX+iqWWYlyNODksB6Re1pqWd6RigaedOKXnvtYq1KvZStawRoDs1qN5YZnzJkAeMnhks5HUrQ1L4FVVCgoATo6R4wWE6Wpe+HD9eFueaIzPdw+XtjosL7MTxV1kQ8wYvpHJHTmeo/prd2AlrHykHx/1P/tQWieHM6XpCEhcUj4Utp+fCjn7n3P994aJF1ba/I89GFNxGXrNV0V88UQs6pSj5dUM2j8dtOawuZuF0Hur25rUyp63+RlLmBJJ4HkrJKOsgQPAf/ijhy7d4IsXKaS3Jt7DlXJifIrdSLxW5eJT4mtbgskHtcRVedCkKbucHxVBKaCUIunYaJzaBpXUwQXFd+4GgSIY6X8TSsM=;cK8STHtcv6ZyQWS7f58Igw=="
 ---

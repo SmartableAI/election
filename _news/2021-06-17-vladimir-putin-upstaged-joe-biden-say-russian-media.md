@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden, Putin summit in Geneva wraps up after meeting for more than three hours"
-excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
-publishedDateTime: 2021-06-16T15:39:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/06/16/joe-biden-set-putin-summit-geneva-after-g-7-nato-meetings/7700426002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/06/16/joe-biden-set-putin-summit-geneva-after-g-7-nato-meetings/7700426002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7700426002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7700426002"
+title: "Vladimir Putin Upstaged Joe Biden, Say Russian Media"
+excerpt: "Kremlin-loyal newspapers were full of praise for the Russian president's decisiveness—and his tie—but commentators pointed out that there was little progress made during the Geneva summit."
+publishedDateTime: 2021-06-17T09:46:00Z
+originalUrl: "https://www.newsweek.com/vladimir-putin-upstaged-joe-biden-russian-media-geneva-summit-ties-1601441"
+webUrl: "https://www.newsweek.com/vladimir-putin-upstaged-joe-biden-russian-media-geneva-summit-ties-1601441"
+ampWebUrl: "https://www.newsweek.com/vladimir-putin-upstaged-joe-biden-russian-media-geneva-summit-ties-1601441?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/vladimir-putin-upstaged-joe-biden-russian-media-geneva-summit-ties-1601441?amp=1"
 type: article
-quality: 121
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/16/USAT/53b4d8f5-797f-4431-860c-bb1109025f6c-AP21167417852813.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 676
+  - url: "https://d.newsweek.com/en/full/1823181/vladimir-putin-shakes-joe-bidens-hand.jpg"
+    width: 3889
+    height: 3023
     isCached: true
 
 related:
@@ -159,22 +159,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Vladimir Putin Upstaged Joe Biden, Say Russian Media"
-    excerpt: "Kremlin-loyal newspapers were full of praise for the Russian president's decisiveness—and his tie—but commentators pointed out that there was little progress made during the Geneva summit."
-    publishedDateTime: 2021-06-17T09:46:00Z
-    webUrl: "https://www.newsweek.com/vladimir-putin-upstaged-joe-biden-russian-media-geneva-summit-ties-1601441"
-    ampWebUrl: "https://www.newsweek.com/vladimir-putin-upstaged-joe-biden-russian-media-geneva-summit-ties-1601441?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/vladimir-putin-upstaged-joe-biden-russian-media-geneva-summit-ties-1601441?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1823181/vladimir-putin-shakes-joe-bidens-hand.jpg"
-        width: 3889
-        height: 3023
-        isCached: true
   - title: "Joe Biden heads to Geneva for summit with ‘worthy adversary’ Putin – live"
     excerpt: "Reports say Biden has prepared extensively for Geneva meeting on Wednesday – follow all the day’s politics live"
     publishedDateTime: 2021-06-15T12:26:00Z
@@ -206,6 +190,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/13939ed6e393addf2054376a48f1f2627fcbc9de/0_0_3500_2500/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e7f7ec5e38bdcd0c374bc9cb1eff8a0a"
         width: 600
         height: 428
+        isCached: true
+  - title: "Biden, Putin summit in Geneva wraps up after meeting for more than three hours"
+    excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
+    publishedDateTime: 2021-06-16T15:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/16/joe-biden-set-putin-summit-geneva-after-g-7-nato-meetings/7700426002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7700426002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7700426002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/16/USAT/53b4d8f5-797f-4431-860c-bb1109025f6c-AP21167417852813.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "President Joe Biden arrives in Geneva ahead of meeting with Russia’s Vladimir Putin"
     excerpt: "President Biden plans to confront Vladimir Putin on everything from Moscow’s cyberattacks to its election interference efforts and human rights abuses."
@@ -424,6 +424,6 @@ related:
         height: 707
         isCached: true
 
-secured: "Rv3u+Mu4CpFujI108qDte1zrzI/zq3Z0Sw63iLdLPBc59tw7bCUnrUmLCESzYy51zfdDsN/CWUHh5uDdo+9VYqvcpDX8cnO9NoInHlSA2hyfG4+3DpDnWOOuKpLJh2FS13k1mNGPj3vF+7mV8NjZ77cTTJFZ5yL03QYwBUnX88yfd+1iU1DP9+Hw9JHu/+j+A/zvDaIjA5QtKiiMnJg3z95DM9jmwJC6lKbFlJL6/mMI4y+vh2e6G3KgW220LWTIqUtILJghFASKj7MqC6cwEkVxOKRw6I3u+X6brf5fnyD3PKtsY+Lz755ofKFTs+3F6TMh8jMqSZDvHIkLRcOH+IGcd6QyCTSe4HdVIqNCOb+pFxbi0iLuqaAlrJN2xrRfp764eoBIDwhS/TrPa0bka4Qe0ot5++se+sxD85K1m89DCokHj/0pHQwOEsZa48A0q+6NHfkiQYEaK9qDsLRPk97HTVA1j3RxOUwdOXmOt9tv+EybRC3SSSpRBqBN6u4XT7fjrN0LhAyx7T5Wn4scgA==;/JFf9gAqx7FViD6GhUKEhw=="
+secured: "04K+rPttzimXMnAQj3fqADCX1gHcwAadcSdpdY3/zQsGEsLzqT7Fqzq2oD+VYtdG/2MARtyGqUFXGKSte6mhY8umVvVC97chG+bFskySLypfVdb/GKtI9Yc/O47jYWkJIhuZ9kmkdxru+c1a/wI3rRjMfKJTC/zAzZNk7sgnm7xySBgWW2oo3mQ7zuOhlO87ZiGE7ZqjHX0eevCcr26IwCvMMsAY14oS3ArFyWLPuRnPpvRVenAIHfSdM8U/i8gSr+mi/J71jn54AqusgXpZ3r/NYsS2QPoOI/raW8u+jUTvip3gPpY0WHIlhyRIuz/o1EAk5xzabqgI+hiyh4TPYe2M9ZMK+SaaAQhXbiU4AQ8=;Z9h9d8ZONl1Ao8c/SWoFow=="
 ---
 

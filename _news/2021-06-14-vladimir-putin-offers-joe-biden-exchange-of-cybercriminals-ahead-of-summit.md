@@ -139,6 +139,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Latest: Biden and Putin depart Geneva after summit"
+    excerpt: "Geneva can breathe a sigh of relief after hosting a U.S.-Russia summit. President Joe Biden is aboard Air Force One and is on his way back to Washington after Wednesday’s meeting at an 18th century lakeside villa."
+    publishedDateTime: 2021-06-16T18:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-kremlin-official-says-summit-will-not-be-easy/2021/06/16/13238168-ce79-11eb-a224-bd59bd22197c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-kremlin-official-says-summit-will-not-be-easy/2021/06/16/13238168-ce79-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-kremlin-official-says-summit-will-not-be-easy/2021/06/16/13238168-ce79-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4EU3TWGOYQI6XIREXVM32IQZPQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Vladimir Putin Upstaged Joe Biden, Say Russian Media"
+    excerpt: "Kremlin-loyal newspapers were full of praise for the Russian president's decisiveness—and his tie—but commentators pointed out that there was little progress made during the Geneva summit."
+    publishedDateTime: 2021-06-17T09:46:00Z
+    webUrl: "https://www.newsweek.com/vladimir-putin-upstaged-joe-biden-russian-media-geneva-summit-ties-1601441"
+    ampWebUrl: "https://www.newsweek.com/vladimir-putin-upstaged-joe-biden-russian-media-geneva-summit-ties-1601441?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/vladimir-putin-upstaged-joe-biden-russian-media-geneva-summit-ties-1601441?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1823181/vladimir-putin-shakes-joe-bidens-hand.jpg"
+        width: 3889
+        height: 3023
+        isCached: true
   - title: "Joe Biden heads to Geneva for summit with ‘worthy adversary’ Putin – live"
     excerpt: "Reports say Biden has prepared extensively for Geneva meeting on Wednesday – follow all the day’s politics live"
     publishedDateTime: 2021-06-15T12:26:00Z

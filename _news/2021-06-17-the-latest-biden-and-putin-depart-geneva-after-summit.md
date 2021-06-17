@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden, Putin summit in Geneva wraps up after meeting for more than three hours"
-excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
-publishedDateTime: 2021-06-16T15:39:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/06/16/joe-biden-set-putin-summit-geneva-after-g-7-nato-meetings/7700426002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/06/16/joe-biden-set-putin-summit-geneva-after-g-7-nato-meetings/7700426002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7700426002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7700426002"
+title: "The Latest: Biden and Putin depart Geneva after summit"
+excerpt: "Geneva can breathe a sigh of relief after hosting a U.S.-Russia summit. President Joe Biden is aboard Air Force One and is on his way back to Washington after Wednesday’s meeting at an 18th century lakeside villa."
+publishedDateTime: 2021-06-16T18:08:00Z
+originalUrl: "https://www.washingtonpost.com/politics/the-latest-kremlin-official-says-summit-will-not-be-easy/2021/06/16/13238168-ce79-11eb-a224-bd59bd22197c_story.html"
+webUrl: "https://www.washingtonpost.com/politics/the-latest-kremlin-official-says-summit-will-not-be-easy/2021/06/16/13238168-ce79-11eb-a224-bd59bd22197c_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-kremlin-official-says-summit-will-not-be-easy/2021/06/16/13238168-ce79-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-kremlin-official-says-summit-will-not-be-easy/2021/06/16/13238168-ce79-11eb-a224-bd59bd22197c_story.html?outputType=amp"
 type: article
-quality: 121
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/16/USAT/53b4d8f5-797f-4431-860c-bb1109025f6c-AP21167417852813.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 676
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4EU3TWGOYQI6XIREXVM32IQZPQ.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -143,22 +143,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Latest: Biden and Putin depart Geneva after summit"
-    excerpt: "Geneva can breathe a sigh of relief after hosting a U.S.-Russia summit. President Joe Biden is aboard Air Force One and is on his way back to Washington after Wednesday’s meeting at an 18th century lakeside villa."
-    publishedDateTime: 2021-06-16T18:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-kremlin-official-says-summit-will-not-be-easy/2021/06/16/13238168-ce79-11eb-a224-bd59bd22197c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-kremlin-official-says-summit-will-not-be-easy/2021/06/16/13238168-ce79-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-kremlin-official-says-summit-will-not-be-easy/2021/06/16/13238168-ce79-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4EU3TWGOYQI6XIREXVM32IQZPQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Vladimir Putin Upstaged Joe Biden, Say Russian Media"
     excerpt: "Kremlin-loyal newspapers were full of praise for the Russian president's decisiveness—and his tie—but commentators pointed out that there was little progress made during the Geneva summit."
     publishedDateTime: 2021-06-17T09:46:00Z
@@ -206,6 +190,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/13939ed6e393addf2054376a48f1f2627fcbc9de/0_0_3500_2500/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e7f7ec5e38bdcd0c374bc9cb1eff8a0a"
         width: 600
         height: 428
+        isCached: true
+  - title: "Biden, Putin summit in Geneva wraps up after meeting for more than three hours"
+    excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
+    publishedDateTime: 2021-06-16T15:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/16/joe-biden-set-putin-summit-geneva-after-g-7-nato-meetings/7700426002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7700426002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7700426002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/16/USAT/53b4d8f5-797f-4431-860c-bb1109025f6c-AP21167417852813.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "President Joe Biden arrives in Geneva ahead of meeting with Russia’s Vladimir Putin"
     excerpt: "President Biden plans to confront Vladimir Putin on everything from Moscow’s cyberattacks to its election interference efforts and human rights abuses."
@@ -424,6 +424,6 @@ related:
         height: 707
         isCached: true
 
-secured: "Rv3u+Mu4CpFujI108qDte1zrzI/zq3Z0Sw63iLdLPBc59tw7bCUnrUmLCESzYy51zfdDsN/CWUHh5uDdo+9VYqvcpDX8cnO9NoInHlSA2hyfG4+3DpDnWOOuKpLJh2FS13k1mNGPj3vF+7mV8NjZ77cTTJFZ5yL03QYwBUnX88yfd+1iU1DP9+Hw9JHu/+j+A/zvDaIjA5QtKiiMnJg3z95DM9jmwJC6lKbFlJL6/mMI4y+vh2e6G3KgW220LWTIqUtILJghFASKj7MqC6cwEkVxOKRw6I3u+X6brf5fnyD3PKtsY+Lz755ofKFTs+3F6TMh8jMqSZDvHIkLRcOH+IGcd6QyCTSe4HdVIqNCOb+pFxbi0iLuqaAlrJN2xrRfp764eoBIDwhS/TrPa0bka4Qe0ot5++se+sxD85K1m89DCokHj/0pHQwOEsZa48A0q+6NHfkiQYEaK9qDsLRPk97HTVA1j3RxOUwdOXmOt9tv+EybRC3SSSpRBqBN6u4XT7fjrN0LhAyx7T5Wn4scgA==;/JFf9gAqx7FViD6GhUKEhw=="
+secured: "Nx+myfgmGoVgOT31nsZEEDWv24RCUtA721mC8OtgO2S4WAFn1CvpJqWvEiWIFtWneNUX4qXRxQUKPL45QWCCfEc+ZfK3tmDDAvmfsb3rvt7NDMTRYEYS/9QfxeDbBmB7TMZdT28vi1jgouN3U4eje08JhUmEVTiegXrLHKnKHwckLxuBlxSMw1NDbsflb90iuT/ij7SQH3jcsSXxZTCkOFU125ILJO88mRqfV70Un1acY/nlMNFM9q7+Wi0tYHqeDqRNHJfc2cjt34iEVtU9o5F4qVgJG/prpm7Em2exyd5u7vOu2Wl1sqooJWoyVahF13klEr0C8n9DbNxBPDAn4JWJCJVykbW02ft4XxttSyY=;Pe5StUvPzBV0NtB6qvNKlA=="
 ---
 
