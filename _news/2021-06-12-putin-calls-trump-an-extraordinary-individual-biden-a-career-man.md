@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-trump-extraordinary-individua
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp"
 type: article
 quality: 190
-heat: 450
+heat: 470
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-putin-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump says Biden-Putin summit ‘good day for Russia’: ‘We didn’t get anything’"
+    excerpt: "Former President Donald Trump blasted Joe Biden’s meeting with Russian President Vladimir Putin saying that Americans came away with nothing and Russia got a better deal."
+    publishedDateTime: 2021-06-17T04:08:00Z
+    webUrl: "https://nypost.com/2021/06/17/trump-blasts-biden-putin-summit-saying-good-day-for-russia/"
+    ampWebUrl: "https://nypost.com/2021/06/17/trump-blasts-biden-putin-summit-saying-good-day-for-russia/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/17/trump-blasts-biden-putin-summit-saying-good-day-for-russia/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-putin-index-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

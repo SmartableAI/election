@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/swiss-detail-extr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/7xWUqp8XmQGYVCVZiA2uooROlhk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NE6LQF2WMNDYHLTM6YQB7CFQSA.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Putin savored the global spotlight after his direct but largely fruitless meeting with Biden"
+    excerpt: "\"Bottom line is I told President Putin that we need to have some basic rules of the road that we can all abide by,\" Biden said."
+    publishedDateTime: 2021-06-16T21:29:00Z
+    webUrl: "https://www.businessinsider.com/putin-relishes-spotlight-biden-shows-off-foreign-policy-chops-summit-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/putin-relishes-spotlight-biden-shows-off-foreign-policy-chops-summit-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-relishes-spotlight-biden-shows-off-foreign-policy-chops-summit-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/60ca47a623393a00188e3932?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Russian President Vladimir Putin: No hostility in meeting with US President Joe Biden; tone was constructive"
     excerpt: "No hostility in meeting with US President Joe Biden; tone was constructive. 24/7 coverage of breaking news and live events"

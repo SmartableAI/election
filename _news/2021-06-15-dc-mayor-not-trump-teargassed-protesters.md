@@ -202,6 +202,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump announces first post-White House rally set for June 26 in Ohio"
+    excerpt: "Former President Donald Trump will hold the first of four promised campaign-style rallies in Ohio on June 26 to support a primary challenger to a Republican lawmaker who voted to impeach Trump"
+    publishedDateTime: 2021-06-17T04:37:00Z
+    webUrl: "https://nypost.com/2021/06/17/trump-announces-first-post-white-house-rally-set-for-june-26-in-ohio/"
+    ampWebUrl: "https://nypost.com/2021/06/17/trump-announces-first-post-white-house-rally-set-for-june-26-in-ohio/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/17/trump-announces-first-post-white-house-rally-set-for-june-26-in-ohio/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-campaign-rally-168.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "H5TXvlJMZ4I1Ombr9Yw21gScPZ/ATq47xah3u/psd4laeDPk3HlBrUJcZzI3sw1MgHFB5ItmzWS2ThO0yPf0hP+tRDQEZaSdeeiSlmPgHXtY5oguR09XaJD8tuBzLiz4LRE5XDoAoDn5ifx17hBTnXgmHGbN3J5eR04HwvAWckJNO1mo1aMraORERysBGlK+7i7PDBjUOD6EXdRc6Qsp0R9XIAMV0FwxTvbuwONWx6t4ukVhlTUCqc9GCHgESlZpoOk+A2Kog7BSdvuiQOoO/wkHyPu082eI8Nt0qtt+F4NTMbUWARcfAe3F/aYVE9W3u8aUps35Szod/LbXz1yGcv5gtrQiyDstXdXtHr/G5TM=;MP6BH2gI7bsXelYSB615NQ=="
 ---

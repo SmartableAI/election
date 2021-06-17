@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/technology/557523-biden-revokes-trump-exe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp"
 type: article
 quality: 140
-heat: 740
+heat: 760
 published: true
 
 provider:
@@ -383,6 +383,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/16/USAT/0741ef73-064a-46f4-93c3-9c99ad986108-e5844f17-db57-4607-a011-d073498e406b_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "Biden says Putin not looking for Cold War"
+    excerpt: "Top News Biden says Putin not looking for Cold War. Posted . U.S. President Joe Biden described his meeting with Russian President Vladimir Putin as \"good, positive,\" but added \"t"
+    publishedDateTime: 2021-06-16T19:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-says-putin-not-looking-for-cold-wa-id731634643"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210616&i=OVEHNOVKV&r=OVEHNOVKV&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Trump Asks Biden For A Favor As He Meets With Russia’s Putin"
     excerpt: "Donald Trump on Thursday wished President Joe Biden luck and asked him for a favor ahead of his anticipated meeting with Russian President Vladimir Putin next week. In a statement, the former president asked Biden to send Putin his “warmest regards” and also warned him not to fall asleep during the meeting."

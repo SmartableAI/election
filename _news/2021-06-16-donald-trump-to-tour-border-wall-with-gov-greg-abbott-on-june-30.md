@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/houston-texas/amp/texas-greg-abbott-trump
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-greg-abbott-trump-border-wall-16251476.php"
 type: article
 quality: 75
-heat: 75
+heat: 95
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 600
     height: 336
     isCached: true
+
+related:
+  - title: "Donald Trump to hold rally at Lorain County Fairgrounds on June 26"
+    excerpt: "Former president Donald Trump will hold his first rally since leaving office on June 26 The rally was confirmed Wednesday on Trump’s website. The rally will start at 7 p.m. but doors will open at 2 p."
+    publishedDateTime: 2021-06-17T02:24:00Z
+    webUrl: "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html"
+    ampWebUrl: "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBEEPWYU7FCH7NF2B7WEM4OTK4.jpg"
+        width: 3796
+        height: 2534
+        isCached: true
 
 secured: "BsR8c2fh5oL4pRcNmD0VUG03n7Zfvrl012/W80dY/rMZMp/dtjByab6DmufLFrdwvGnPI1isMUWhac+qziLvkoOmA6bDZtV1XVslNUitzaDIkj70IoJaEcr4hivjsleArDT9cfSfla8Vry9NmqNyMpjeir/MzbrcdPTWw6KAfbNpruv07YlZDJfmTMWjP4h7VqjFns/ToB6zQNwu6NADvDEY7MZhGfcvvTJ8Q2LuIlOB4eW5/r/g0cKlioYQEYyPkuhvn6DlQxwnPOaa1CaXfLj2bPw6XzR2Nx7MEPNLueTAlDViDun/omPyNf/0BBMMwXGA7TBQYtMMDmRRoLUUzq1WWJVMCF2CZzPEXaFma7A=;Jn60ywaPFGx3bHommKDEjw=="
 ---

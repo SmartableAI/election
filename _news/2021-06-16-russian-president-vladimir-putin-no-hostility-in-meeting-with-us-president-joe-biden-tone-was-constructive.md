@@ -207,6 +207,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Putin savored the global spotlight after his direct but largely fruitless meeting with Biden"
+    excerpt: "\"Bottom line is I told President Putin that we need to have some basic rules of the road that we can all abide by,\" Biden said."
+    publishedDateTime: 2021-06-16T21:29:00Z
+    webUrl: "https://www.businessinsider.com/putin-relishes-spotlight-biden-shows-off-foreign-policy-chops-summit-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/putin-relishes-spotlight-biden-shows-off-foreign-policy-chops-summit-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-relishes-spotlight-biden-shows-off-foreign-policy-chops-summit-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/60ca47a623393a00188e3932?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Putin says satisfied with Biden explanation for calling him a \"killer\""
     excerpt: "Russian President Vladimir Putin said on Wednesday that U.S. President Joe Biden had phoned him to explain why he had called him \"a killer\" in March and that the explanation he had offered had satisfied Putin."
     publishedDateTime: 2021-06-16T16:51:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/doj-sought-account-information-top-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://images.wsj.net/im-353735/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump announces first post-White House rally set for June 26 in Ohio"
+    excerpt: "Former President Donald Trump will hold the first of four promised campaign-style rallies in Ohio on June 26 to support a primary challenger to a Republican lawmaker who voted to impeach Trump"
+    publishedDateTime: 2021-06-17T04:37:00Z
+    webUrl: "https://nypost.com/2021/06/17/trump-announces-first-post-white-house-rally-set-for-june-26-in-ohio/"
+    ampWebUrl: "https://nypost.com/2021/06/17/trump-announces-first-post-white-house-rally-set-for-june-26-in-ohio/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/17/trump-announces-first-post-white-house-rally-set-for-june-26-in-ohio/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-campaign-rally-168.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "DC Mayor, Not Trump, Teargassed Protesters"
     excerpt: "RealClearPolitics"

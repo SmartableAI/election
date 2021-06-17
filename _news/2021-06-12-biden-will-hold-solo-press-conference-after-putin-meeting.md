@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump says Biden-Putin summit ‘good day for Russia’: ‘We didn’t get anything’"
+    excerpt: "Former President Donald Trump blasted Joe Biden’s meeting with Russian President Vladimir Putin saying that Americans came away with nothing and Russia got a better deal."
+    publishedDateTime: 2021-06-17T04:08:00Z
+    webUrl: "https://nypost.com/2021/06/17/trump-blasts-biden-putin-summit-saying-good-day-for-russia/"
+    ampWebUrl: "https://nypost.com/2021/06/17/trump-blasts-biden-putin-summit-saying-good-day-for-russia/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/17/trump-blasts-biden-putin-summit-saying-good-day-for-russia/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-putin-index-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Ingraham on Biden-Putin summit, G-7 world leaders"
     excerpt: "The Ingraham Angle' exposes exactly how Biden is surrendering America to the global elites at G-7 and how that is going to lower your standard of living This is a rush transcript from \"The Ingraham Angle,"
     publishedDateTime: 2021-06-15T15:04:00Z

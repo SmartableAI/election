@@ -385,6 +385,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Biden says Putin not looking for Cold War"
+    excerpt: "Top News Biden says Putin not looking for Cold War. Posted . U.S. President Joe Biden described his meeting with Russian President Vladimir Putin as \"good, positive,\" but added \"t"
+    publishedDateTime: 2021-06-16T19:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-says-putin-not-looking-for-cold-wa-id731634643"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210616&i=OVEHNOVKV&r=OVEHNOVKV&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump Asks Biden For A Favor As He Meets With Russia’s Putin"
     excerpt: "Donald Trump on Thursday wished President Joe Biden luck and asked him for a favor ahead of his anticipated meeting with Russian President Vladimir Putin next week. In a statement, the former president asked Biden to send Putin his “warmest regards” and also warned him not to fall asleep during the meeting."
     publishedDateTime: 2021-06-11T00:55:00Z
