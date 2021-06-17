@@ -3,8 +3,8 @@ category: news
 title: "Biden Apologizes To CNN Reporter After Telling Her She's In \"The Wrong Business\""
 excerpt: "President Joe Biden apologized to CNN correspondent Kaitlan Collins after losing his temper and yelling at her at the end of his press conference on Wednesday after he met with Russian President Vladimir Putin in Geneva."
 publishedDateTime: 2021-06-16T22:12:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.amp.html"
 type: article
@@ -43,6 +43,6 @@ related:
         height: 720
         isCached: true
 
-secured: "K/Hfc97pVsv9Kd50SUUmgX4tzS4E6bNO14XwmrIZwuqi6ZRa8WlzHJWOMzysAEsm3FrOmLFHovkqxhjK89tJNTkp8SNuKD1RL832rAnkRovMOix+EX413rTXCY/6NFPCSS+FYQDKK7q1LmG38fJAENPDLShS9ZOkcCBfhgKOlew2l4UD03oToMmytbg3Y2lN0PT1HMd0vZk0nNSGNiBbAwAHYibUH/+r4mK384+Mq6PAH+gDEF6qApwiiTSlPdK9tLFNAlxlXe7pm94DplyoDpcNVY1KQme3v5rQB/eR12K4zVHsCpQUZ0aucQUNU+JEd1+fug6OW/CGaoTlgULJsh9l2ocd9bTs1rugiMAKJweYC878UCExWCVeOJV333JO2PTTrbtjBUj5XPdGomAotp3qKkYKYM47+CgiuwAC6gvDcmSJunBfYeyJQtqLJCM8rd9V+vg8B8CW1GoGBxDmK9zPCociwqXgwLnjpylFApvP5sg/QBLFgkz7MGEmn8eh5IATiGbtjqP7XHte9S2Y7A==;eQOmIqXHFTm9/6ADvk62eA=="
+secured: "9Apeyow55XGM4C3oG2agvEm3Hq5fVudL3tR/KkrpvGNm+g+om5fPoiWoxu1dzsEf1RsXQCAyz4F13JVC2AzuOeviDvuRWOltbZgCjeVYOWIOlMdBUeKpuhPNlmExPePUW6E3aS8GTDqskty3CdubtUPF5hE1/AmH3xJ8EtWMbfCWc2zHo+hkMnK0q33bfkmI4AZebn0cgs3aGbIB0SbY+3MQt8DmmOJRmRpuHMQxrb2PxyrXEdIO5qNilJrLHMhdDgDGdveI0fgkdu1t7z9dOENtI4+2263K/n6b434eD5FjPRxmWA0E0qQdu4Ecsk+lw7dbNLPkM+6O4aQ4Ab7bOiFPjhhiuJa7yk5mRuuRCMk=;6k5efZcV7G15udsiiEVBGw=="
 ---
 

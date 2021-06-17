@@ -143,6 +143,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump rails against Biden's 'good day for Russia' summit with Putin, highlights Hunter's alleged ties"
+    excerpt: "Former President Donald J. Trump joined \"Hannity\" on Thursday for an exclusive and wide-ranging interview, hours after President Biden held a closed-door summit with Russian leader Vladimir Putin in Geneva,"
+    publishedDateTime: 2021-06-17T03:18:00Z
+    webUrl: "https://www.foxnews.com/media/trump-rails-against-bidens-good-day-for-russia-summit-with-putin-highlights-hunters-alleged-ties"
+    ampWebUrl: "https://www.foxnews.com/media/trump-rails-against-bidens-good-day-for-russia-summit-with-putin-highlights-hunters-alleged-ties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-rails-against-bidens-good-day-for-russia-summit-with-putin-highlights-hunters-alleged-ties.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11c26203-ab6c-4660-8720-2838b24f913d/3eadbb12-c6fa-4366-8068-2a9f39042bd7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Media ignores Biden's attack against GOP while abroad after shredding Trump for violating political norm"
     excerpt: "Mainstream media outlets came under fire Monday night for ignoring President Biden's attack against former president Donald Trump and Republicans during a press conference in Brussels, despite ripping Trump in 2019 for waging a political attack of a similar nature overseas."
     publishedDateTime: 2021-06-15T00:40:00Z

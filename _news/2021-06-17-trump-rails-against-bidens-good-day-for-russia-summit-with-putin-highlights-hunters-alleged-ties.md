@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden's Justice Department defends Trump in E. Jean Carroll defamation case"
-excerpt: "The Justice Department is attempting to push its way into a defamation suit against former President Donald Trump brought by writer E. Jean Carroll."
-publishedDateTime: 2021-06-08T18:54:17Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQM1YSkFeaI/biden-justice-department-trump-e-jean-carroll"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQM1YSkFeaI/biden-justice-department-trump-e-jean-carroll"
-ampWebUrl: "https://www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp"
+title: "Trump rails against Biden's 'good day for Russia' summit with Putin, highlights Hunter's alleged ties"
+excerpt: "Former President Donald J. Trump joined \"Hannity\" on Thursday for an exclusive and wide-ranging interview, hours after President Biden held a closed-door summit with Russian leader Vladimir Putin in Geneva,"
+publishedDateTime: 2021-06-17T03:18:00Z
+originalUrl: "https://www.foxnews.com/media/trump-rails-against-bidens-good-day-for-russia-summit-with-putin-highlights-hunters-alleged-ties"
+webUrl: "https://www.foxnews.com/media/trump-rails-against-bidens-good-day-for-russia-summit-with-putin-highlights-hunters-alleged-ties"
+ampWebUrl: "https://www.foxnews.com/media/trump-rails-against-bidens-good-day-for-russia-summit-with-putin-highlights-hunters-alleged-ties.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-rails-against-bidens-good-day-for-russia-summit-with-putin-highlights-hunters-alleged-ties.amp"
 type: article
-quality: 188
+quality: 135
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/871d5882-3214-4239-9819-324e15de69c6/2511659f-c83e-4156-b33f-5990b03c54e5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11c26203-ab6c-4660-8720-2838b24f913d/3eadbb12-c6fa-4366-8068-2a9f39042bd7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -44,6 +45,22 @@ related:
     quality: 190
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Russia-Vladimir-Putin-AP.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden's Justice Department defends Trump in E. Jean Carroll defamation case"
+    excerpt: "The Justice Department is attempting to push its way into a defamation suit against former President Donald Trump brought by writer E. Jean Carroll."
+    publishedDateTime: 2021-06-08T18:54:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQM1YSkFeaI/biden-justice-department-trump-e-jean-carroll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-trump-e-jean-carroll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/871d5882-3214-4239-9819-324e15de69c6/2511659f-c83e-4156-b33f-5990b03c54e5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -143,22 +160,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Trump rails against Biden's 'good day for Russia' summit with Putin, highlights Hunter's alleged ties"
-    excerpt: "Former President Donald J. Trump joined \"Hannity\" on Thursday for an exclusive and wide-ranging interview, hours after President Biden held a closed-door summit with Russian leader Vladimir Putin in Geneva,"
-    publishedDateTime: 2021-06-17T03:18:00Z
-    webUrl: "https://www.foxnews.com/media/trump-rails-against-bidens-good-day-for-russia-summit-with-putin-highlights-hunters-alleged-ties"
-    ampWebUrl: "https://www.foxnews.com/media/trump-rails-against-bidens-good-day-for-russia-summit-with-putin-highlights-hunters-alleged-ties.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-rails-against-bidens-good-day-for-russia-summit-with-putin-highlights-hunters-alleged-ties.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11c26203-ab6c-4660-8720-2838b24f913d/3eadbb12-c6fa-4366-8068-2a9f39042bd7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Media ignores Biden's attack against GOP while abroad after shredding Trump for violating political norm"
     excerpt: "Mainstream media outlets came under fire Monday night for ignoring President Biden's attack against former president Donald Trump and Republicans during a press conference in Brussels, despite ripping Trump in 2019 for waging a political attack of a similar nature overseas."
     publishedDateTime: 2021-06-15T00:40:00Z
@@ -236,6 +237,6 @@ related:
         height: 498
         isCached: true
 
-secured: "Z9MYWES8KhEz17TV/HbwpSsDN8S+ec7FG7SlPeNCAPF7k1EYjjS+K+kfNKKpOoo4onItiX40ivO6OpDL0DA4ftuCB0ABl2jp2iFsetoqaf3C1qHIAy3aPRStDuL0RzM7wEKm+8Rp+elRH5p1gMm5/Vs7u42UuNYgFHpx5lfnxltpRqcqBz1CQ1M3XINKJ1wVhrGR2nB9U9IbEtVzf3WxWHeYR+sShjigqgMjRZHTDpwe97LoXyUNh+B9mPDx0+pNC/vJYvJI5XIrig8KTLNeHR9vB7zS+gMH+XvkNBQWVMT3p1XFO4eGZvBOEMKRuhYsgN7GuWwB3rtKQIC6X8dYOSut1vJdgLsngdArnnVr0ow=;YE9vc9p9+K2mdoovNXYnCw=="
+secured: "OrbHfXFafiVnCoJyEhSBI5z9fm/3hQS3WHjNrR5H0HRwU8oPAJTQZMqZ6JRWCx1LOfeJ+gGs4cx9FFC9VuDI8xevU8DO+/fFkRTDXYJ0TqMn26xUbdrsqmSHKV4sH07pBapAFZK6PE4hH2RJINxnjIW1HECgVPYLnuIAkRjPQQUQeazVYV5n7hNaRfm9iYXUVQPmNOcLhz5F6VpW/iC1VyGyGIVykJgvvuWaNmUXmEQM/Yrr7W59Nm26RM2B6V7vFq+vtmw0HvWTlJHBxkKTBJX89IkkFUcbT9H5yZzrE1/CZfTrQjCPjkOu6j0H85h6iCsct0BGJn5B12g6P29KuEb62+ZQMCisQHgn0WhCfv4=;slJil8pOXXndr1Wu8XtAmg=="
 ---
 

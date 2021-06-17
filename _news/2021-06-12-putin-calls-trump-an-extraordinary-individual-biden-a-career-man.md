@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-trump-extraordinary-individua
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp"
 type: article
 quality: 190
-heat: 430
+heat: 450
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 135
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/481c093a-4e17-4583-bcec-a0cb53b5fb5d/74955865-a702-419f-8891-008d3aa5d23f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump rails against Biden's 'good day for Russia' summit with Putin, highlights Hunter's alleged ties"
+    excerpt: "Former President Donald J. Trump joined \"Hannity\" on Thursday for an exclusive and wide-ranging interview, hours after President Biden held a closed-door summit with Russian leader Vladimir Putin in Geneva,"
+    publishedDateTime: 2021-06-17T03:18:00Z
+    webUrl: "https://www.foxnews.com/media/trump-rails-against-bidens-good-day-for-russia-summit-with-putin-highlights-hunters-alleged-ties"
+    ampWebUrl: "https://www.foxnews.com/media/trump-rails-against-bidens-good-day-for-russia-summit-with-putin-highlights-hunters-alleged-ties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-rails-against-bidens-good-day-for-russia-summit-with-putin-highlights-hunters-alleged-ties.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11c26203-ab6c-4660-8720-2838b24f913d/3eadbb12-c6fa-4366-8068-2a9f39042bd7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
