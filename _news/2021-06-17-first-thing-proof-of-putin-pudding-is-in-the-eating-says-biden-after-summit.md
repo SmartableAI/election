@@ -313,6 +313,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Kremlin pleased with Putin-Biden summit, hails pledge to never wage nuclear war"
+    excerpt: "The Kremlin said on Thursday it was pleased with what it called a positive summit between Russian President Vladimir Putin and his U.S. counterpart Joe Biden, singling out a joint statement that reiterated the need to avoid nuclear war as significant."
+    publishedDateTime: 2021-06-17T11:29:00Z
+    webUrl: "https://www.reuters.com/world/russia-says-it-expects-us-arms-control-talks-agreed-summit-start-within-weeks-2021-06-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://www.reuters.com/resizer/dFRuB982M8qeES-nlCJVuyLKSRI=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XQBYTGRU6FJOZFGX7AM7ESHYZY.jpg"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Biden says U.S. \"not looking for conflict\" with Russia ahead of meeting with Putin"
     excerpt: "President Biden says he's not seeking conflict with Russia, but that the U.S. would respond if Russia continued its \"harmful activities.\" CBS News chief White House correspondent Nancy Cordes joins CBSN's Elaine Quijano to discuss Monday's NATO summit and preview Mr."
     publishedDateTime: 2021-06-15T01:46:00Z
@@ -440,6 +454,6 @@ related:
         height: 707
         isCached: true
 
-secured: "sR38j3LD4iCKng1yBSjQXzJKfI/iGLeMU+HGiHpBqYn1TKo3E0T8S++JNnkccVVuuwpKV4pbFinwVwAeCibo4F5bo8s6ESTp88rh8kdLpbWx1TwychgpQEF/6FdTSh00johMo4OPRG877cW9CmfTIFjpbweM4K5wdLxfwjYeW7yQLWTBrejKWDmwAraVJdqfeI/a66RHk44076hnCsPuHKYo+4EcVinb1e5NLqU45lfXiZ5YWSTrptH2Ep+3NOxPlFtKw6WlSvU6OIp9NVslaIFzbPKVxpPhilsun17hK5tSNI54+7xScb1bEqU1U27VK1ESVzPG4W+KE7faMhIU+vaTbLlcjbDFKpUyB7G9zSk=;39PGYh8gP11nLyJ8wLfIdg=="
+secured: "tiyeDHnN6q3p/u/njCSEWm0G1ruOw90S9l2vBhwmJ7SGa6Bc3/dJFbvnUIWWQLO0cUL3XUvr9eTdqyySpemVyYtXWl6oOmHx1p5RSkPNvPHC65k1yeWh+e9rvS4UFQ6nthsx35NCJ9T+2U2cqCyEKquw1zbVnsgulNmD2Os33O4HHjrXbSjQmsJn65ayTPubj/iOfkSy1Vx0Y21+9jWGtxvJIsAATQ40eMy/HcNfCB1AkZZuYLICgXu0qTa4ofvjJ18AKRP9ZJH9mKV7vfpG7/eck5tWKXeqGBadJDdxNSZagNaktkQ+54v8Rt0R1Ub7pWDv5ie8AVhenNaZhcUE0YiU52k3cs03aShpU+bNtacKqTG1fNJBKm3TAgMnOm7O3tpn46LdIQYQNzgz3pzh/pIE6VyVlc3dJPqZ8JoFG4ziouDMUads+zlLWtY1A2vAVpuYKvOb/2Z1V0Pbkszf5lVl3x5QX94Vvb9odYFLVJcCKqDfeADNoGz1Jss7RAHODMQI35TaRTP2JSh/PP94Lg==;q6lXPCNaOsiaHG5HhSllfg=="
 ---
 

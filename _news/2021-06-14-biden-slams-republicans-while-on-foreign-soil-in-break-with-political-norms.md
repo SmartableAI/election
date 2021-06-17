@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-trump-republicans-nato-foreig
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp"
 type: article
 quality: 173
-heat: 273
+heat: 293
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to sign bill making Juneteenth a national holiday after 14 House Republicans vote no"
+    excerpt: "President Biden on Thursday will sign the bill making Juneteenth, a day celebrating the freeing of Black slaves after the Civil War, into a national holiday and make remarks alongside Vice President Harris."
+    publishedDateTime: 2021-06-17T12:28:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9JFKAPtkEvg/biden-juneteenth-national-holiday-bill-signing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "68 GOP members send letter to Biden admin slamming POTUS for waiving Nord Stream 2 Pipeline sanctions"
     excerpt: "Russia's Nord Stream 2 gas pipeline is the subject of a letter 68 Republican House of Representatives members sent to the Biden administration."
     publishedDateTime: 2021-06-07T16:24:13Z

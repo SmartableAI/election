@@ -1,12 +1,14 @@
 ---
 category: news
-title: "US adversaries 'salivating' over Joe Biden's 'America last' agenda: Tomi Lahren"
-excerpt: "In a press conference in Brussels, President Biden attacked former President Trump for “phony populism” and claimed Republican leadership is fractured. Fox News contributor Tomi Lahren ripped the president and mainstream media,"
-publishedDateTime: 2021-06-15T18:44:00Z
-originalUrl: "https://www.foxnews.com/media/biden-america-last-agenda-tomi-lahren"
-webUrl: "https://www.foxnews.com/media/biden-america-last-agenda-tomi-lahren"
+title: "Biden to sign bill making Juneteenth a national holiday after 14 House Republicans vote no"
+excerpt: "President Biden on Thursday will sign the bill making Juneteenth, a day celebrating the freeing of Black slaves after the Civil War, into a national holiday and make remarks alongside Vice President Harris."
+publishedDateTime: 2021-06-17T12:28:51Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9JFKAPtkEvg/biden-juneteenth-national-holiday-bill-signing"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9JFKAPtkEvg/biden-juneteenth-national-holiday-bill-signing"
+ampWebUrl: "https://www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
 type: article
-quality: 111
+quality: 165
 heat: -1
 published: false
 
@@ -20,13 +22,12 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -45,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea2088a8-b920-4e3c-95f1-05694b3bb30e/c26df30c-94d0-41b3-9f77-10d6a4a2163c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Biden to sign bill making Juneteenth a national holiday after 14 House Republicans vote no"
-    excerpt: "President Biden on Thursday will sign the bill making Juneteenth, a day celebrating the freeing of Black slaves after the Civil War, into a national holiday and make remarks alongside Vice President Harris."
-    publishedDateTime: 2021-06-17T12:28:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9JFKAPtkEvg/biden-juneteenth-national-holiday-bill-signing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "68 GOP members send letter to Biden admin slamming POTUS for waiving Nord Stream 2 Pipeline sanctions"
     excerpt: "Russia's Nord Stream 2 gas pipeline is the subject of a letter 68 Republican House of Representatives members sent to the Biden administration."
@@ -120,7 +105,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "US adversaries 'salivating' over Joe Biden's 'America last' agenda: Tomi Lahren"
+    excerpt: "In a press conference in Brussels, President Biden attacked former President Trump for “phony populism” and claimed Republican leadership is fractured. Fox News contributor Tomi Lahren ripped the president and mainstream media,"
+    publishedDateTime: 2021-06-15T18:44:00Z
+    webUrl: "https://www.foxnews.com/media/biden-america-last-agenda-tomi-lahren"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 111
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "fXbzuR2FaXO+VbIhWZuAAptooeAA0RVaBqSVTIF0xn1ckM8pEdp78V56T71En2p+NFLK+vM5DY26nx63NSJ1k4HMUug8gJ4bwKLDAPA3etv2MrI0NZWxUzshOfdY/2XE8WzSs0xOMYdp+NS4/iKL0qHVdnQFbGCM7Uu9TMkFrhJqWRIbqWyjuoUYnYnmLesWZ4mswGYQPPlL8x22v5lzG0kIYZNfSYLssyUFc81jns2xJ2JieFcYz4r8Cocdo0evrKqyVKlpX2FhPQf4maasQUypoob9+eknMcG3rrbTS8J8v3KNHWDxVV2Dzy5Y7VTv2+1MKlhXZRiPLd4vZc0+zNhkzBMkA9I0rYJPTcTQ9hY=;gf3CAKoDgc4Y9/Z8LF7O0Q=="
+secured: "zeth9zp8fTDLRz3Ar0MjDAoIFvZ1+5F7lc9XEyzKBGOjjsYWZuXFx/abIOU2EIiivYwDAzSMnjMxtziup1mh8EbFBLO2RnofsJPzsAkVF8rPAelKsRJVj/q0qjgPxs34m8JgqcRUb81FxCMs5pSaSuO4PqQq5P2lqFhn7nzQbmhMRKsrtnfWL/ixs+WshmQRa9VSofMbUixZ8Jd5gQaMptk63gZdduwFyBxjcQzTxDApyzQH7C17NerRD4KM65xp8+nsFZ09bhwFB6jqfVfCGIqbAotoCgcZBPyfL9QCb0mmSBH4HP2jJMSgZcKnbCYzHpob2QUX8QqCY+rCv1SKIGmD7haJL6ifMpugu1Blz+U=;JvCvadMkk6huzlLQfktB/A=="
 ---
 

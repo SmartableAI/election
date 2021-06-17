@@ -76,6 +76,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "The Biden-Putin summit: Winners and losers"
+    excerpt: "President Biden and Russian President Vladimir Putin sat down in Geneva for a widely anticipated show of diplomacy, where despite the deeply strained U.S.-Russia relationship, both leaders claimed to have a \"positive\" dialogue."
+    publishedDateTime: 2021-06-17T13:21:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NeJengQgPvw/biden-putin-summit-experts-winners-losers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-putin-summit-experts-winners-losers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-summit-experts-winners-losers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bdbbe70-6bd1-47e2-af4f-f6d52fa30bcd/c89c2b28-ad52-41b9-9df9-1bd61848c68f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden calls Putin a 'worthy adversary' after Russian prez calls him 'career man'"
     excerpt: "President Biden called Russian President Vladimir Putin a \"worthy adversary\" at a press conference following a NATO summit in Brussels on Monday — days after Putin praised former president Donald Trump and called Biden a \"career man\" in an interview."
     publishedDateTime: 2021-06-14T20:23:15Z
@@ -247,6 +263,20 @@ related:
       - url: "https://assets.realclear.com/images/54/544585_5_.jpg"
         width: 750
         height: 501
+        isCached: true
+  - title: "Joe Biden's a Putin-Like Polarizer"
+    excerpt: "In a contest between Vladimir Putin and Joe Biden, there's no comparison. Anyone in the world who cares about freedom wants to pull for the American president. The problem is Biden gives us so"
+    publishedDateTime: 2021-06-17T11:48:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/17/joe_bidens_a_putin-like_polarizer_545243.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/545957_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "GvWv1eckjsDTFgPho8jPhOMFp9Z06+SdMrL7KdkRXN0qnMyNeWLxm9napAxGpQYMSy3h2PIsi0CeGxBTgphjAOtlJZDvBTpLjetPmS3mgIaGTG/qaYpT2ziQVkB/yen9cPHnVDutk7/IgZ7vimLx//oiE2I0kc+7mOnBRb9P+MgtDUhm5Raykhy2iu/z2ZwAALYHUtSewsEX37tdusj9KudEoMr0/NvzGh3rs9J5VpzSKXl/pD3RrrpmVVLCITcAPnBh/B1J+kWW6ZXvDwBVh9wfTNBK5VvE9y6gRsGmUzZBpeNL26fPK1ohOZiHcs7PkYym9vAR4IQT7jB2tm6m2I/QYgP/ml8Fe10/ctAWW0eepsEJCCz2wRxAUMCpVGL6kbR7xQ8tUsnI2wy+KhQg7SstU6F1FcMSDFK4MewT8kTegGF4JEjJfXhN1iPIWwJWz4AWCRUwqKyBKJKhdyLAAiu3eLeo/mddoTTjUZuo6wu8ykUIfBBFEBZEjGZTpKKpd103fM7IkYMaD6mhepWFtQ==;sl8q4vlrdX2AiWK7LQSJOQ=="

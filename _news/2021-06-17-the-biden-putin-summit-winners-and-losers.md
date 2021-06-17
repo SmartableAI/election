@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Trump to Biden: ‘Good luck’ with Putin meeting, ‘don’t fall asleep!’"
-excerpt: "Former President Donald Trump on Thursday wished President Biden luck in his upcoming meeting with Russian President Vladimir Putin — and also encouraged him to stay awake."
-publishedDateTime: 2021-06-10T22:41:00Z
-originalUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/"
-webUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/"
-ampWebUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
+title: "The Biden-Putin summit: Winners and losers"
+excerpt: "President Biden and Russian President Vladimir Putin sat down in Geneva for a widely anticipated show of diplomacy, where despite the deeply strained U.S.-Russia relationship, both leaders claimed to have a \"positive\" dialogue."
+publishedDateTime: 2021-06-17T13:21:07Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NeJengQgPvw/biden-putin-summit-experts-winners-losers"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NeJengQgPvw/biden-putin-summit-experts-winners-losers"
+ampWebUrl: "https://www.foxnews.com/politics/biden-putin-summit-experts-winners-losers.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-summit-experts-winners-losers.amp"
 type: article
-quality: 150
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-putin-index.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bdbbe70-6bd1-47e2-af4f-f6d52fa30bcd/c89c2b28-ad52-41b9-9df9-1bd61848c68f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -76,22 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "The Biden-Putin summit: Winners and losers"
-    excerpt: "President Biden and Russian President Vladimir Putin sat down in Geneva for a widely anticipated show of diplomacy, where despite the deeply strained U.S.-Russia relationship, both leaders claimed to have a \"positive\" dialogue."
-    publishedDateTime: 2021-06-17T13:21:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NeJengQgPvw/biden-putin-summit-experts-winners-losers"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-putin-summit-experts-winners-losers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-summit-experts-winners-losers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bdbbe70-6bd1-47e2-af4f-f6d52fa30bcd/c89c2b28-ad52-41b9-9df9-1bd61848c68f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden calls Putin a 'worthy adversary' after Russian prez calls him 'career man'"
     excerpt: "President Biden called Russian President Vladimir Putin a \"worthy adversary\" at a press conference following a NATO summit in Brussels on Monday — days after Putin praised former president Donald Trump and called Biden a \"career man\" in an interview."
     publishedDateTime: 2021-06-14T20:23:15Z
@@ -137,6 +124,22 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/tiktok-wechat-white-house-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump to Biden: ‘Good luck’ with Putin meeting, ‘don’t fall asleep!’"
+    excerpt: "Former President Donald Trump on Thursday wished President Biden luck in his upcoming meeting with Russian President Vladimir Putin — and also encouraged him to stay awake."
+    publishedDateTime: 2021-06-10T22:41:00Z
+    webUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/"
+    ampWebUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-putin-index.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -279,6 +282,6 @@ related:
         height: 500
         isCached: true
 
-secured: "zCTj5FMFqnx0rc0WtkiVte1P9LWZl5e3ZjBEcTJemGRTJgTQ3GZIMuhgARuovxyxVn2midx0VXidYTidprQsdHVtWysOdvJkw8Ed9GI0yAJ/Sc8AZ3nrv+FYcGSmk5zG16gLhi+nJzy8NvuV9yiZzIjU/E5S30YgJkh0hWYVxXQ1kvzporRcvZvrXyQegM6EaAinflC8S2NUNZDyOkLIlhOhCepbUdjcaBCWDPl6YfcHhYVNfE7i7Hm+OqHR1MIzNbW7Xf3PCWR5FF59q9I/n592FI7k4+FDiGAbgFiuf3EHXr7e49tSSIrTh1814wU8KFoOCcRkQWlynBG0awkCNdSMheiZXTaTA3TSrMa91kE=;7mqAWO1n58BDJALE9p8AhQ=="
+secured: "arrZzVIJl+6jK6hGaEAaPnQe+xnLHACyxpaWP0jMJFV96bWUWfsacyZzQI32j+6IM79gQo4Iar/3K4lnA/wDcvzJDN/df6zT8dFMPtSfMCS5x7h/MzBDt+D+k9WNUiDLstws/OiUjXXxJTCaC0WH0w/pfydQ6AsAnPJIaWIp3fnaT763zVOe5KF9jd2kXhdZEoxsWWiivNUNJ/d++XdbHUoU3R/32dxP8z4vYRFyOnN+ivpdmdiWQpK5QzhaEQh2qHxP58gvexoo1BheVhFesxI99vkPV0jjTaah5AyQrcXCP1WQjuE3U354McaOkNAGr/E+tbk8w++Pg/yIcbJBHPT8hsWASU5Wx4l1uzmI4FE=;0/XYWVal03JwSRxxJfx2gA=="
 ---
 

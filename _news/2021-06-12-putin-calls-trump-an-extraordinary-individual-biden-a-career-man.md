@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-trump-extraordinary-individua
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp"
 type: article
 quality: 190
-heat: 470
+heat: 510
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "The Biden-Putin summit: Winners and losers"
+    excerpt: "President Biden and Russian President Vladimir Putin sat down in Geneva for a widely anticipated show of diplomacy, where despite the deeply strained U.S.-Russia relationship, both leaders claimed to have a \"positive\" dialogue."
+    publishedDateTime: 2021-06-17T13:21:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NeJengQgPvw/biden-putin-summit-experts-winners-losers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-putin-summit-experts-winners-losers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-summit-experts-winners-losers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bdbbe70-6bd1-47e2-af4f-f6d52fa30bcd/c89c2b28-ad52-41b9-9df9-1bd61848c68f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden calls Putin a 'worthy adversary' after Russian prez calls him 'career man'"
     excerpt: "President Biden called Russian President Vladimir Putin a \"worthy adversary\" at a press conference following a NATO summit in Brussels on Monday — days after Putin praised former president Donald Trump and called Biden a \"career man\" in an interview."
@@ -250,6 +266,20 @@ related:
       - url: "https://assets.realclear.com/images/54/545713_5_.jpg"
         width: 750
         height: 498
+        isCached: true
+  - title: "Joe Biden's a Putin-Like Polarizer"
+    excerpt: "In a contest between Vladimir Putin and Joe Biden, there's no comparison. Anyone in the world who cares about freedom wants to pull for the American president. The problem is Biden gives us so"
+    publishedDateTime: 2021-06-17T11:48:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/17/joe_bidens_a_putin-like_polarizer_545243.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/545957_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "8HLOzzTpSI1b8C8zJjXIiLU1Y8ZdMD2YHxc8FCXy7IVP97KFDoshJ51zxTdaCU+U/HXWP/bDfnV4dqGaszX2dtBGvA6trkCxsdFVPegueswJDOHTGsW3+IEEC9izrhIPMOmYbWFzoY5h/s+iE89LBqKYpGsJf2PKhKvr8Yc8quM5G/9Lv31umfgvFGIPmHUuOOOrFVbtmIdeqtpPSAm8oGiorZa3UllqysOQT6XlXm9UDA2QCCkf/hFy7droRpJgAbgM5uZnVsubKY1mgOcOppYLY+vYhvszbDsiEGGcqVLTt8W+aFqdUTR/FVX8Q/VcKjGXXsUDORtsXzDjLyt7b3aWeJEHnWW+6d1aegttOR8=;pkGEPFAoIP79dcserRs1+g=="

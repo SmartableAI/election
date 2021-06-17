@@ -1,29 +1,31 @@
 ---
 category: news
-title: "President Joe Biden arrives in Geneva ahead of meeting with Russia’s Vladimir Putin"
-excerpt: "President Biden plans to confront Vladimir Putin on everything from Moscow’s cyberattacks to its election interference efforts and human rights abuses."
-publishedDateTime: 2021-06-15T15:49:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html?outputType=amp"
+title: "Kremlin pleased with Putin-Biden summit, hails pledge to never wage nuclear war"
+excerpt: "The Kremlin said on Thursday it was pleased with what it called a positive summit between Russian President Vladimir Putin and his U.S. counterpart Joe Biden, singling out a joint statement that reiterated the need to avoid nuclear war as significant."
+publishedDateTime: 2021-06-17T11:29:00Z
+originalUrl: "https://www.reuters.com/world/russia-says-it-expects-us-arms-control-talks-agreed-summit-start-within-weeks-2021-06-17/"
+webUrl: "https://www.reuters.com/world/russia-says-it-expects-us-arms-control-talks-agreed-summit-start-within-weeks-2021-06-17/"
 type: article
-quality: 69
+quality: 101
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/7xWUqp8XmQGYVCVZiA2uooROlhk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NE6LQF2WMNDYHLTM6YQB7CFQSA.aspx"
-    width: 1200
-    height: 675
+  - url: "https://www.reuters.com/resizer/dFRuB982M8qeES-nlCJVuyLKSRI=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XQBYTGRU6FJOZFGX7AM7ESHYZY.jpg"
+    width: 800
+    height: 419
     isCached: true
 
 related:
@@ -325,20 +327,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Kremlin pleased with Putin-Biden summit, hails pledge to never wage nuclear war"
-    excerpt: "The Kremlin said on Thursday it was pleased with what it called a positive summit between Russian President Vladimir Putin and his U.S. counterpart Joe Biden, singling out a joint statement that reiterated the need to avoid nuclear war as significant."
-    publishedDateTime: 2021-06-17T11:29:00Z
-    webUrl: "https://www.reuters.com/world/russia-says-it-expects-us-arms-control-talks-agreed-summit-start-within-weeks-2021-06-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 101
-    images:
-      - url: "https://www.reuters.com/resizer/dFRuB982M8qeES-nlCJVuyLKSRI=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XQBYTGRU6FJOZFGX7AM7ESHYZY.jpg"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Biden says U.S. \"not looking for conflict\" with Russia ahead of meeting with Putin"
     excerpt: "President Biden says he's not seeking conflict with Russia, but that the U.S. would respond if Russia continued its \"harmful activities.\" CBS News chief White House correspondent Nancy Cordes joins CBSN's Elaine Quijano to discuss Monday's NATO summit and preview Mr."
     publishedDateTime: 2021-06-15T01:46:00Z
@@ -401,6 +389,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden arrives in Geneva ahead of meeting with Russia’s Vladimir Putin"
+    excerpt: "President Biden plans to confront Vladimir Putin on everything from Moscow’s cyberattacks to its election interference efforts and human rights abuses."
+    publishedDateTime: 2021-06-15T15:49:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 69
+    images:
+      - url: "https://www.baltimoresun.com/resizer/7xWUqp8XmQGYVCVZiA2uooROlhk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NE6LQF2WMNDYHLTM6YQB7CFQSA.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden set for Geneva showdown with Vladimir Putin after European tour of allies"
     excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
     publishedDateTime: 2021-06-16T11:18:00Z
@@ -450,6 +454,6 @@ related:
         height: 707
         isCached: true
 
-secured: "ZS25q9VT1aOoh6CXJ2LEew0cnJvKhMPvvy4PXMhRb8i8tZhbewbDEjQh0fDI8+XEBQQjma8B3pEmjVs/zMTOo+7elXbJYqAmHdtJeoqSgdakczNBR6mlQeJPKqOlcczeVwPs61IpVSc5T/kXdUqVkjo5DXA3jZIPuyHlcU2EbuAJE8QQXKM0rcoaxO3nlpILqcoK5B18V9q+E3c0+4it7H1W0KMO7ZxdI4V2u5p5dTMLmaiMAlQ1p91hb/QhL/cfScq9A2lgOu1p2o79s/pxyb3tQXBJmJk127lchQhxGwWArmu8cArg23OFtYUGMD0cj2tSo4iyYuyJzptzU7BekP6LnpOiz/d3LK6d/mZZwemwXRLVxdYrJ8o8GPQBl9L9aWhluEF42jQJBbGFwRetz0whOGM/M+yxUhfwdfJEFLrWATh4AIJwIivOuVOt3rFzli09Bz7yiYcJ0E+U4YE9Zi0XXnHIJWDcyGijLByAGihADbHr3VFkJggX3QR1viWDEinSB5d5IGYWCk68k1WeDw==;WmELDERLFxuESp8BmrPrDQ=="
+secured: "XG8hKG3N7oHJ5dS/5QJAsry4XnZS09Vv5ig69PrMdADWBJIgp4GyQ1dz3xyLBhkWUjYYSoMncRAb1LWEoHARgHqwKQOIq1/wJ3AxjXgrhCfcF9dCCppAVweqiEz6ctDBy66aFFVurS1lDDNDj3JfYqPdBY/zzwZ0oi65Xe6dwPTNLVoyLV9/eXPSDrZkIFTZHGVGLekqWXAvpX2oUH9OdVV2Sa2hZ5IxsSk3LDaZStmwvJZUW65biP27Up7KmQWU2xYsG4PgvnEMv/R/qja1QFK7dL1CHSJPgZHjMFQm6GXcifZqw18/PG5VAiPVRpWAvbGmyqgTwnD70zaOUT8tWLHBecutPJsMVgwYuVhQC2E=;JXMUNWEYjbYWkUZYgEjTHw=="
 ---
 

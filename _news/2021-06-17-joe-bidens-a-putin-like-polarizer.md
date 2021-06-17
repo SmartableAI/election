@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Trump to Biden: ‘Good luck’ with Putin meeting, ‘don’t fall asleep!’"
-excerpt: "Former President Donald Trump on Thursday wished President Biden luck in his upcoming meeting with Russian President Vladimir Putin — and also encouraged him to stay awake."
-publishedDateTime: 2021-06-10T22:41:00Z
-originalUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/"
-webUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/"
-ampWebUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
+title: "Joe Biden's a Putin-Like Polarizer"
+excerpt: "In a contest between Vladimir Putin and Joe Biden, there's no comparison. Anyone in the world who cares about freedom wants to pull for the American president. The problem is Biden gives us so"
+publishedDateTime: 2021-06-17T11:48:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/06/17/joe_bidens_a_putin-like_polarizer_545243.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/06/17/joe_bidens_a_putin-like_polarizer_545243.html#!"
 type: article
-quality: 150
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-putin-index.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://assets.realclear.com/images/54/545957_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -137,6 +135,22 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/tiktok-wechat-white-house-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump to Biden: ‘Good luck’ with Putin meeting, ‘don’t fall asleep!’"
+    excerpt: "Former President Donald Trump on Thursday wished President Biden luck in his upcoming meeting with Russian President Vladimir Putin — and also encouraged him to stay awake."
+    publishedDateTime: 2021-06-10T22:41:00Z
+    webUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/"
+    ampWebUrl: "https://nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/trump-to-biden-good-luck-with-putin-dont-fall-asleep/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-putin-index.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -264,21 +278,7 @@ related:
         width: 750
         height: 498
         isCached: true
-  - title: "Joe Biden's a Putin-Like Polarizer"
-    excerpt: "In a contest between Vladimir Putin and Joe Biden, there's no comparison. Anyone in the world who cares about freedom wants to pull for the American president. The problem is Biden gives us so"
-    publishedDateTime: 2021-06-17T11:48:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/17/joe_bidens_a_putin-like_polarizer_545243.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/545957_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "zCTj5FMFqnx0rc0WtkiVte1P9LWZl5e3ZjBEcTJemGRTJgTQ3GZIMuhgARuovxyxVn2midx0VXidYTidprQsdHVtWysOdvJkw8Ed9GI0yAJ/Sc8AZ3nrv+FYcGSmk5zG16gLhi+nJzy8NvuV9yiZzIjU/E5S30YgJkh0hWYVxXQ1kvzporRcvZvrXyQegM6EaAinflC8S2NUNZDyOkLIlhOhCepbUdjcaBCWDPl6YfcHhYVNfE7i7Hm+OqHR1MIzNbW7Xf3PCWR5FF59q9I/n592FI7k4+FDiGAbgFiuf3EHXr7e49tSSIrTh1814wU8KFoOCcRkQWlynBG0awkCNdSMheiZXTaTA3TSrMa91kE=;7mqAWO1n58BDJALE9p8AhQ=="
+secured: "/L8WpRDonh20KwgkTf//5TC72XAlHVN00TEYX04TopTHKE0qAWCu3blgjrZ+6WDHjyqHSs/1O6M8sXuOHeeBJt0XWyjLz6kAkIoE/uiZPkt4f8beCRB4wUaML59rH+rg4Y4xH4wdyBgCoITB1lfQRtBfCHUqlA3BYLqUxRu5YzKKZkmKJ9Fz/hiSULbZ84E+Ack8B9DLgFmsFMo/Bot4syGQ/xg+vrusTb35Uu40vYvHV/9S/LziFTxTsaIDabjaXsO7ZhWL3WEjdM5kAtyHV9mMx2HaQP31LdfLYueYNj8daRLvioecTsDIy3HdRattnjsKly8iOw3ZpHa0G5KA8pKhE64MndOs9oipPMMXSXQ=;ZYxRrw7+O5MuN+VKE9EFLg=="
 ---
 
