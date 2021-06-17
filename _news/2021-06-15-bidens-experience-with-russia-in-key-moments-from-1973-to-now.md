@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timel
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "President Biden on historic Putin summit: 'I did what I came to do'"
+    excerpt: "President Joe Biden convenes the highest-stakes talks of his long career Wednesday when he joins Russia's Vladimir Putin for a summit, an encounter set to test his decades of experience on the world stage and lay down an early marker of his diplomatic skills.\n    \n"
+    publishedDateTime: 2021-06-17T11:19:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z4njU5g07S0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/president-biden-president-putin-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/president-biden-president-putin-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616073925-04-biden-putin-summit-0616-handshake-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

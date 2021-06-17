@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "After showdown abroad, Biden faces one at home"
+    excerpt: "President Joe Biden now turns to a puzzle almost as thankless as negotiating with Vladimir Putin -- pushing his stalled agenda through a deadlocked Congress.\n    \n"
+    publishedDateTime: 2021-06-17T11:34:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JxtEVGzsHmI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/joe-biden-infrastructure-congress-deal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/joe-biden-infrastructure-congress-deal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616203048-joe-biden-infrastructure-congress-deal-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Sen. Josh Hawley holds up Biden personnel nominee over critical race theory"
     excerpt: "Senate Republicans are holding up President Joe Biden's nominee to lead the Office of Personnel Management over concerns about her stance on critical race theory.\n    \n"
     publishedDateTime: 2021-06-09T02:52:27Z
@@ -172,6 +188,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428111725-04-ketanji-brown-jackson-hearing-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden finds his comfort zone on the world stage in first international trip as president"
+    excerpt: "Even Queen Elizabeth II wanted to know: What would President Joe Biden say to Vladimir Putin?\n    \n"
+    publishedDateTime: 2021-06-17T11:42:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NeJT5VAa5ZM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-first-foreign-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-first-foreign-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616171155-biden-air-force-one-geneva-210616-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -238,6 +270,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/210616-joe-biden-al-1332-tease.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "With Putin, Biden Tries to Forge a Bond of Self-Interest, Not Souls"
+    excerpt: "Theirs seems likely to be a strained and frustrating association, one where the two leaders may maintain a veneer of civil discourse even as they joust on the international stage."
+    publishedDateTime: 2021-06-17T03:31:00Z
+    webUrl: "https://www.nytimes.com/2021/06/16/us/politics/biden-putin.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/16/us/politics/biden-putin.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/16/us/politics/biden-putin.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/16/us/politics/16dc-prexy1/16dc-prexy1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "President Biden and First Lady Jill Biden deliver ‘happy Pride Month’ message"
     excerpt: "President Joe Biden and First Lady Jill Biden wished the country a happy Pride Month on Twitter, saying Pride Month represents “defiance in the face of injustice.” The president also added that his administration is working to “build a better LGBTQ life for young people” across the country."

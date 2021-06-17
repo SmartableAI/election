@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "President Biden on historic Putin summit: 'I did what I came to do'"
+    excerpt: "President Joe Biden convenes the highest-stakes talks of his long career Wednesday when he joins Russia's Vladimir Putin for a summit, an encounter set to test his decades of experience on the world stage and lay down an early marker of his diplomatic skills.\n    \n"
+    publishedDateTime: 2021-06-17T11:19:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z4njU5g07S0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/president-biden-president-putin-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/president-biden-president-putin-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616073925-04-biden-putin-summit-0616-handshake-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to cap off first G7 summit with an audience with Queen Elizabeth II"
     excerpt: "When Joe Biden was preparing for his first audience with Britain's Queen Elizabeth II as a young senator, his mother -- an Irish American born with the surname Finnegan -- had a piece of advice.\n    \n"
     publishedDateTime: 2021-06-13T04:00:34Z

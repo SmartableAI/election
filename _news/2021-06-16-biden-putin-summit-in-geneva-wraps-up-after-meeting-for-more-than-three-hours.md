@@ -207,6 +207,22 @@ related:
         width: 600
         height: 428
         isCached: true
+  - title: "First Thing: proof of Putin pudding is in the eating, says Biden after summit"
+    excerpt: "President says he told Russian leader that the US would retaliate if cyber-attacks continued. Plus, California plane mystery solved"
+    publishedDateTime: 2021-06-17T10:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/17/first-thing-proof-of-putin-pudding-is-in-the-eating-says-biden-after-summit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/17/first-thing-proof-of-putin-pudding-is-in-the-eating-says-biden-after-summit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/17/first-thing-proof-of-putin-pudding-is-in-the-eating-says-biden-after-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/4cb75745f2857d4053881a54a8e5f90d93333ead/325_287_5583_3350/master/5583.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f443ac0fae5724bb4d3bcd048e87b38e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "President Joe Biden arrives in Geneva ahead of meeting with Russia’s Vladimir Putin"
     excerpt: "President Biden plans to confront Vladimir Putin on everything from Moscow’s cyberattacks to its election interference efforts and human rights abuses."
     publishedDateTime: 2021-06-15T18:41:00Z

@@ -191,6 +191,22 @@ related:
         width: 600
         height: 428
         isCached: true
+  - title: "First Thing: proof of Putin pudding is in the eating, says Biden after summit"
+    excerpt: "President says he told Russian leader that the US would retaliate if cyber-attacks continued. Plus, California plane mystery solved"
+    publishedDateTime: 2021-06-17T10:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/17/first-thing-proof-of-putin-pudding-is-in-the-eating-says-biden-after-summit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/17/first-thing-proof-of-putin-pudding-is-in-the-eating-says-biden-after-summit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/17/first-thing-proof-of-putin-pudding-is-in-the-eating-says-biden-after-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/4cb75745f2857d4053881a54a8e5f90d93333ead/325_287_5583_3350/master/5583.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f443ac0fae5724bb4d3bcd048e87b38e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden, Putin summit in Geneva wraps up after meeting for more than three hours"
     excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
     publishedDateTime: 2021-06-16T15:39:00Z
@@ -424,6 +440,6 @@ related:
         height: 707
         isCached: true
 
-secured: "Nx+myfgmGoVgOT31nsZEEDWv24RCUtA721mC8OtgO2S4WAFn1CvpJqWvEiWIFtWneNUX4qXRxQUKPL45QWCCfEc+ZfK3tmDDAvmfsb3rvt7NDMTRYEYS/9QfxeDbBmB7TMZdT28vi1jgouN3U4eje08JhUmEVTiegXrLHKnKHwckLxuBlxSMw1NDbsflb90iuT/ij7SQH3jcsSXxZTCkOFU125ILJO88mRqfV70Un1acY/nlMNFM9q7+Wi0tYHqeDqRNHJfc2cjt34iEVtU9o5F4qVgJG/prpm7Em2exyd5u7vOu2Wl1sqooJWoyVahF13klEr0C8n9DbNxBPDAn4JWJCJVykbW02ft4XxttSyY=;Pe5StUvPzBV0NtB6qvNKlA=="
+secured: "LDSkx999V/KhovqTmZBfl8rm8S4W2mkrT+BD8BS3+Hfanjf9xJARFI5gi3iZUq/4VOJSr9He+fFKUrpCorAJOZ5atb+eUMBckCLdVvNWQ/hXhbjFZivS1Z+YRevipwwPb2O/M4RkdLLNOK1+k6ag2gaL9L8UKWrj/uLBFpnEQ+pJ+V+gAW14iKxofmbl/1nOblB3xFtqe48ekj8Pl53LpJ1Ywe9sQmS2HFCUUUy1DVZvEeJvZPFsuXYStkIy4K0cOtkeUxy0sMDMmveytsa/OIG8Z/X2v3cTqHFH8Hrmr4usb8TP/BGkHX/BjU5bmgxZIyOm0LbSrmwMhpZXq0hN5mH00PIZiTqZ7ij/QGwYqXtCbp94YCeVaagNE+r7NYd9+XIuZN0IFMmgIu3Mvhirn/NaA08EN0oqCUhI3DT8obkDl/LazvLJsAdjrGKU4NhTKRzcYQJQI7rCLwsIrO4qRzh1smcAErQmWeBdteOwhk0VY7u0KGY87Cfy1iR0cQsyCk9iz7YUswDDHcgC2B14Vw==;qvOQibSfOEeemDquuz19zg=="
 ---
 

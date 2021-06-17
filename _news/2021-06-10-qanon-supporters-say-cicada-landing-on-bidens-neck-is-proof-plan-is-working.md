@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/qanon-supporters-joe-biden-cicada-neck-show
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-supporters-joe-biden-cicada-neck-shows-plan-working-1599401?amp=1"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1820022/joe-biden-meets-queen-sunglasses.jpg"
         width: 1312
         height: 846
+        isCached: true
+  - title: "Erdogan says he told Biden Turkey is not shifting on S-400s -state media"
+    excerpt: "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,"
+    publishedDateTime: 2021-06-17T10:37:00Z
+    webUrl: "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://www.reuters.com/resizer/efr0HPd6sQ58IZDnAuSDMutOEcY=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W7SETYTUYFLWVGRDFQOTBN4PBA.jpg"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "VF4d4hkq/55gjCjW3kAR/cuwnWethK6GIJx4C0yWGYiEmsnhmjlG3La6rLAoirCK48FiYLY8Vy0E+B6A9RCrjqUjfI88acCntITQ6uOkdk7zGqvS8oEMyhIe4as0P07u3GlCa5/9Mcnhvc2iKmOrS1uwqR7FCoMo1y3h+aATRpGzRPEzoxHsnyuJOPb+h+pk095jhOCgRta/wA5avgFNvLYuexCW9HfPgyCqWjYu4tVE9Bnmxl6tiQoKQNTMCbXrJIpvcusfM52jQYHsxKEDc1TEykpd3vslQcUlwknH2GA5KyFiu/Ji+q427nG4V17TJIizvpt4EBOEYGSPqrn4AiMqBy1ivWHD+ZzYPsD9SBE=;ziK6F12hFG3wj5bFZYdL7A=="

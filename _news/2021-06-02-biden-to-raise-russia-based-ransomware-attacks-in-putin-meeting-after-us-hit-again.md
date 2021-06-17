@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden-Putin summit: Who won and who lost? Experts offer key takeaways"
+    excerpt: "President Biden and Russian President Vladimir Putin sat down in Geneva for a widely anticipated summit, where despite the deeply strained U.S.-Russia relationship, both leaders claimed to have a \"positive\" dialogue. "
+    publishedDateTime: 2021-06-17T10:28:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Dgjy4N4NSs/biden-putin-summit-winners-losers-key-takeaways"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-putin-summit-winners-losers-key-takeaways.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-summit-winners-losers-key-takeaways.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bdbbe70-6bd1-47e2-af4f-f6d52fa30bcd/c89c2b28-ad52-41b9-9df9-1bd61848c68f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to target 'ghost guns,' stabilizing braces in new gun control actions"
     excerpt: "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence."
     publishedDateTime: 2021-04-08T00:02:07Z

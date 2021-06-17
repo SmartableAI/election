@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/swiss-detail-extr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576"
 type: article
 quality: 125
-heat: 625
+heat: 645
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/13939ed6e393addf2054376a48f1f2627fcbc9de/0_0_3500_2500/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e7f7ec5e38bdcd0c374bc9cb1eff8a0a"
         width: 600
         height: 428
+        isCached: true
+  - title: "First Thing: proof of Putin pudding is in the eating, says Biden after summit"
+    excerpt: "President says he told Russian leader that the US would retaliate if cyber-attacks continued. Plus, California plane mystery solved"
+    publishedDateTime: 2021-06-17T10:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/17/first-thing-proof-of-putin-pudding-is-in-the-eating-says-biden-after-summit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/17/first-thing-proof-of-putin-pudding-is-in-the-eating-says-biden-after-summit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/17/first-thing-proof-of-putin-pudding-is-in-the-eating-says-biden-after-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/4cb75745f2857d4053881a54a8e5f90d93333ead/325_287_5583_3350/master/5583.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f443ac0fae5724bb4d3bcd048e87b38e"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden, Putin summit in Geneva wraps up after meeting for more than three hours"
     excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
