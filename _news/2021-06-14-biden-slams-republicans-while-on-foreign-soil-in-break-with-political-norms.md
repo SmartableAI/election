@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-trump-republicans-nato-foreig
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp"
 type: article
 quality: 173
-heat: 293
+heat: 273
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
     quality: 144
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'Ingraham Angle' on border crisis, Biden policy"
-    excerpt: "The Ingraham Angle' welcomed guests Terry Turchie, Dinesh D'Souza, Dan Patrick, Jim Jordan, Mark Meadows, Elana Fishbein and Chris Rufo"
-    publishedDateTime: 2021-06-16T13:15:00Z
-    webUrl: "https://www.foxnews.com/transcript/ingraham-angle-on-border-crisis-biden-policy"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a2114de-2a2a-4bfa-bcf9-1e7179c4cc69/52c23c35-30a0-4447-ad5b-dd64364b902e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

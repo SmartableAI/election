@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-admin-supreme-court-reinstate
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-supreme-court-reinstate-death-penalty-boston-marathon-bomber-dzhokhar-tsarnaev.amp"
 type: article
 quality: 159
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,38 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden DOJ drops lawsuit against John Bolton over 2020 book release"
+    excerpt: "The Justice Department has dropped its civil lawsuit against former National Security Adviser John Bolton over the publication of his 2020 book, “The Room Where It Happened,” according to a court filing obtained by Fox News on Wednesday."
+    publishedDateTime: 2021-06-16T23:08:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1LPdxlRz5M/biden-doj-drops-lawsuit-john-bolton-2020-book-release"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21948497-d71d-4756-860b-01df3fc7e75c/a33233af-5627-4652-b2ba-ec4645bfdae9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'Ingraham Angle' on border crisis, Biden policy"
+    excerpt: "The Ingraham Angle' welcomed guests Terry Turchie, Dinesh D'Souza, Dan Patrick, Jim Jordan, Mark Meadows, Elana Fishbein and Chris Rufo"
+    publishedDateTime: 2021-06-16T13:15:00Z
+    webUrl: "https://www.foxnews.com/transcript/ingraham-angle-on-border-crisis-biden-policy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a2114de-2a2a-4bfa-bcf9-1e7179c4cc69/52c23c35-30a0-4447-ad5b-dd64364b902e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "3qzSbpTyfv9OvLBYFmL5WzwjnSlY/YgwA9YA6q9lUq3VgX/8cHtJAsMzcttiui925EAhj0aRxVm60fqI5Qm+KbPa3oGhJM7uKOKxqpXXSni1HrfQBEfjmUQlbQu0GTIQZBtQ3P4NDPV2tOP/btx24zVu1mA3q5TDU3S6RUbWKij3J3hta4KZhry+HPn3lGLYa6sSD6SEyf0KLn3KIezEsSo7vPFQlsR1fOYvvxKKrkJtDimozDgPGDLo7alwlEpQHEUPN5q47KcUA27SNla864q9ue/Y1RPme5bQyz1Y6WZgi+HvHYJtSX/kDSAoErliaDpvjxG6WZvqWLyNKGY/l70JnjFTrPCBVaGyH/pq7a4=;4wI1PzbmDGkBC8vSQHHzxA=="
 ---

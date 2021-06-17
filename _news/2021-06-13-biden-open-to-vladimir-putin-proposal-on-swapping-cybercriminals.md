@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "McCaul, Risch urge Biden to immediately impose sanctions on Russia"
+    excerpt: "Top congressional Republicans in the House and Senate called on President Biden Wednesday to instate a legally mandated second round of sanctions on Russia for the use of chemical weapons against opposition leader Alexei Navalny."
+    publishedDateTime: 2021-06-16T23:48:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g0m_XxZ4CGg/mccaul-risch-urge-biden-to-immediately-impose-sanctions-on-russia"
+    ampWebUrl: "https://www.foxnews.com/politics/mccaul-risch-urge-biden-to-immediately-impose-sanctions-on-russia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccaul-risch-urge-biden-to-immediately-impose-sanctions-on-russia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd0c3837-3642-4505-99bb-57c56469d722/6ea16637-869c-49aa-a347-e170710b1f0f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden mutters he'll 'get in trouble with my staff' for taking extra question"
     excerpt: "President Biden joked when taking questions at a press conference Sunday following the G-7 summit, claiming that his staff will be upset with him if he does not conduct the event as they want him to."
     publishedDateTime: 2021-06-13T17:50:23Z

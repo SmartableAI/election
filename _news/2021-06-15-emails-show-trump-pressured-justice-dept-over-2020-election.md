@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
 type: article
 quality: 140
-heat: 1380
+heat: 1400
 published: true
 
 provider:
@@ -874,6 +874,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US Ends Strict Trump-Era Asylum Rules for Violence Victims"
+    excerpt: "The U.S. government has put an end to two Trump administration policies that made it harder for immigrants fleeing violence to qualify for asylum."
+    publishedDateTime: 2021-06-16T23:27:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-16/us-ends-strict-trump-era-asylum-rules-for-violence-victims"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-16/us-ends-strict-trump-era-asylum-rules-for-violence-victims?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-16/us-ends-strict-trump-era-asylum-rules-for-violence-victims?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "How Donald Trump Celebrated First Birthday Since Leaving White House: Report"
     excerpt: "Former President Donald Trump celebrated his first birthday since leaving the White House with his son, Donald Trump Jr., at his golf club in Bedminster, New Jersey."
     publishedDateTime: 2021-06-16T04:49:00Z

@@ -874,6 +874,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US Ends Strict Trump-Era Asylum Rules for Violence Victims"
+    excerpt: "The U.S. government has put an end to two Trump administration policies that made it harder for immigrants fleeing violence to qualify for asylum."
+    publishedDateTime: 2021-06-16T23:27:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-16/us-ends-strict-trump-era-asylum-rules-for-violence-victims"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-16/us-ends-strict-trump-era-asylum-rules-for-violence-victims?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-16/us-ends-strict-trump-era-asylum-rules-for-violence-victims?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "How Donald Trump Celebrated First Birthday Since Leaving White House: Report"
     excerpt: "Former President Donald Trump celebrated his first birthday since leaving the White House with his son, Donald Trump Jr., at his golf club in Bedminster, New Jersey."
     publishedDateTime: 2021-06-16T04:49:00Z
@@ -946,6 +957,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "t798fnTXpvKVvRWGNTsRc8ok136OU0vAodwD0JkO95ICfbR2g+ha5rXPiwTFpmlaYf4S6dS2wQRVU4aJAIMi3iEpn4ev0v3UOTKmepiI4SuGzQ6XhQFAgu/rR7z26GpfpHIm/67AkriabZTN+NuiRFjwmrBny4CQ1YEFoYn4LdM5wjzefGAf6ErYQhWFgb+/GmHXaTc6zrQs5YplTqE9w788XEI4LDWEa4JHF6h0s4PZa74OfHLirNt8I7TceL4yDuOuDVfX5Kyf5xzD0UXA2j9wh78bJvJLpIMLF9KKMUh0fJxMRwS9uqUrgwvIEsDGqhJb4LgI7q0L4O9f6owkimJrpU82hyK21cW4v2A2C5c=;+N8fhAAGUNCZqnKkMbWySQ=="
+secured: "fIlx2yqqA9so9OPKhboJTJENluxj4RiFzikNFLG+4yvCtYIZp22zOk3dIfGM/qb+9eCB1de4AgCz926gxTBKbs0DAa3Fjl4CQFTe412n4TRcHpOdMXJv0fOaGkhB6tprzViCPX2NrnYyoPvU0G/69RNFCBKYMENuhbwjmoOo1ZvIq4A3Uy4SPTsnmPurS3SzT8v5CJoWs8QggWv1tF5IOOAOvBe6tsvpiFAaH04QA7nxt9yA069u93xkIFKbD3GZbQ+d15IqgGjsCqaRwHK/70G1cn6QBGB4pTBnmRzKzM9gQr1IVvWPKgTgKsu5ZVLOloqRH7IArhpyyeR+6e+MoEMq/OUTp21GvcPF0So1C5+h7X7Rb+fa1fG3SSmoklriqfaDikZKTzRykHQ5pPDmWGbxWkWHsDksVuHgLTNeTz/Ckn1OjJGuFBpvzPwEJI+sw1bRP9xW1O1gdzbOTzZciPe5UaRa7ayRqQuHdkbgzoAiMyz2sHEQ3+w0XnGTMruBkqTei5P8zwC5aLD1/aJCRg==;t3u/3quMe5U8tbSVzjGVVQ=="
 ---
 

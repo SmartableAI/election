@@ -888,6 +888,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US Ends Strict Trump-Era Asylum Rules for Violence Victims"
+    excerpt: "The U.S. government has put an end to two Trump administration policies that made it harder for immigrants fleeing violence to qualify for asylum."
+    publishedDateTime: 2021-06-16T23:27:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-16/us-ends-strict-trump-era-asylum-rules-for-violence-victims"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-16/us-ends-strict-trump-era-asylum-rules-for-violence-victims?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-16/us-ends-strict-trump-era-asylum-rules-for-violence-victims?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Former President Donald Trump endorses Mike Carey in 15th Congressional District race"
     excerpt: "Former President Donald Trump on Tuesday endorsed Mike Carey in the special election for Ohio's 15th Congressional District, giving Carey an edge in a contentious GOP primary."
     publishedDateTime: 2021-06-09T01:51:00Z

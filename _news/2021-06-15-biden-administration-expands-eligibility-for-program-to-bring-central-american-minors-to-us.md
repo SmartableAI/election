@@ -89,20 +89,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "'Ingraham Angle' on border crisis, Biden policy"
-    excerpt: "The Ingraham Angle' welcomed guests Terry Turchie, Dinesh D'Souza, Dan Patrick, Jim Jordan, Mark Meadows, Elana Fishbein and Chris Rufo"
-    publishedDateTime: 2021-06-16T13:15:00Z
-    webUrl: "https://www.foxnews.com/transcript/ingraham-angle-on-border-crisis-biden-policy"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a2114de-2a2a-4bfa-bcf9-1e7179c4cc69/52c23c35-30a0-4447-ad5b-dd64364b902e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "US adversaries 'salivating' over Joe Biden's 'America last' agenda: Tomi Lahren"
     excerpt: "In a press conference in Brussels, President Biden attacked former President Trump for “phony populism” and claimed Republican leadership is fractured. Fox News contributor Tomi Lahren ripped the president and mainstream media,"
     publishedDateTime: 2021-06-15T18:44:00Z
