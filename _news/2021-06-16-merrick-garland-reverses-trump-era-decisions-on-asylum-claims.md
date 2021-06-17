@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/garland-reverses-trump-era-asylum-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-reverses-trump-era-asylum-decisions.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "America’s Old Believers Need to Move Past Donald Trump"
+    excerpt: "He wasn’t up to the task of preserving democracy, civic sanity and freedom of speech and thought from progressive elites."
+    publishedDateTime: 2021-06-17T20:50:00Z
+    webUrl: "https://www.wsj.com/articles/americas-old-believers-need-to-move-past-donald-trump-11623948637?mod=hp_opin_pos_3"
+    ampWebUrl: "https://www.wsj.com/amp/articles/americas-old-believers-need-to-move-past-donald-trump-11623948637"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/americas-old-believers-need-to-move-past-donald-trump-11623948637"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-354640/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "1o4TT3K0e6PI0JR2yFIqwax/kjetzJOcBXYwoZhHn6Qt4ZxulCYd9ngawqvQXiVC794m4rBwLcuHRQiVdIpZYISnpGULC9OGj5tLdLff+izCZ4JeOpqc7I34ORmIhdKnRydpZDXrrnAlcrLS9Gq0ZDUMMJ56uqygjpPEeA/IAfd6tUOViBZbEvYcZAtlpKGDEVHTs+asPVD+6QYJs0PbmF4w0odcgxFLCvUBWMOxZCWp6/6AHFeUXrByhUxggaoYoCrqtPNwsbceT/DD19iTWuDm6dcgZRnzjGdX4KRiMs5qvu9cHxzJZbUQa/aIsGEDQvXs1Kjhv95Rx+Yo6klqgZ43Qws7K/1Gw6nNjsjGX8M=;1xTHA5K7HDeslUh3R4IrIA=="
 ---

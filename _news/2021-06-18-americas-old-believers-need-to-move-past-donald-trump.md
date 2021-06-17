@@ -1,0 +1,54 @@
+---
+category: news
+title: "America’s Old Believers Need to Move Past Donald Trump"
+excerpt: "He wasn’t up to the task of preserving democracy, civic sanity and freedom of speech and thought from progressive elites."
+publishedDateTime: 2021-06-17T20:50:00Z
+originalUrl: "https://www.wsj.com/articles/americas-old-believers-need-to-move-past-donald-trump-11623948637?mod=hp_opin_pos_3"
+webUrl: "https://www.wsj.com/articles/americas-old-believers-need-to-move-past-donald-trump-11623948637?mod=hp_opin_pos_3"
+ampWebUrl: "https://www.wsj.com/amp/articles/americas-old-believers-need-to-move-past-donald-trump-11623948637"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/americas-old-believers-need-to-move-past-donald-trump-11623948637"
+type: article
+quality: 135
+heat: -1
+published: false
+
+provider:
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+  - Republican Voice
+
+images:
+  - url: "https://images.wsj.net/im-354640/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+related:
+  - title: "Merrick Garland reverses Trump-era decisions on asylum claims"
+    excerpt: "The Department of Justice (DOJ) announced the reversals on Wednesday, which would set U.S. immigration policy back to where it was before decisions made by Trump-era DOJ officials Attorney General Jeff Sessions and Deputy Attorney General Jeffrey Rosen."
+    publishedDateTime: 2021-06-16T22:12:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/al3KUPd4sgA/garland-reverses-trump-era-asylum-decisions"
+    ampWebUrl: "https://www.foxnews.com/politics/garland-reverses-trump-era-asylum-decisions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-reverses-trump-era-asylum-decisions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4103c4e5-d00a-4af6-ad62-f5bd254ac7e9/f4748280-16c7-4002-8b38-39b4f00e46a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+
+secured: "kSpn05IIv/b3h+pV1CDc2qTW6ZSVc7eqZmKnkgrMoExLxsKZkuj835HZZQYGNB3KzTkAEl5l45uFPeD/j47dp70BkmLWy//4TePPpA/PhAg99RdjhhB/myXH38rjIZoGE/YT4resWyaeH98nmZm1gnvLmYotpZGYJVFoVv49/FbBTvyn2d40G0E3GWJPJV/Ow5FqXBg0lB1AtuR5+UvPfVWBlQ0J1dDrfSgBE0ahHViMNERMvLiaiR8UQlAuK2JUxIAbJ2qOsrL9YJyjxtH/Mq+nVypAlCS8wWwRqj0O60Qq2bPwDlk0fW0bITspEJgelzQg+O1PH9TKLjxdplurLrJC/NPgP0NvtVDADWN0yfM=;wv3/yRRTn3w0BnplnNVe3Q=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/557943-biden-to-host-ger
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/808df3efdb5a196330c45a50e30edb178e13b9fb/0_268_5578_3347/master/5578.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8c3dad6c7987a52609e907505aff5994"
         width: 600
         height: 360
+        isCached: true
+  - title: "Juneteenth is officially a federal holiday after President Biden signs bill in White House ceremony"
+    excerpt: "President Joe Biden signed a bill making June 19th a federal holiday at a White House ceremony with Vice President Kamala Harris, Opal Lee and others."
+    publishedDateTime: 2021-06-17T20:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/17/juneteenth-bill-marking-end-slavery-us-signed-biden/7717031002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7717031002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7717031002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/17/USAT/684fd8b3-250a-4316-a03d-5b9c21fcb137-USATSI_14827992.jpg?auto=webp&crop=1023,575,x1,y65&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
 
 secured: "7QO5vvN9CwWOn0I62g9X6rtyeSa/lc4FP5Zz2+aTqdcuCLu/z1mmf/I5O3dGZyjOAhqWj0dy/yEqs8x0F+c96L11hSHQyFBaxjzdQf6GVi87CSOXhFHIZPb37yXyFuLLELNegiCdCmo7RlHOdhw4DEw19euzuJWJwN1mF4ykeoI4vXlEUbWwpze4MbHg4hoWzQoMCavshrfUF6NY7DPladfLjV8uxlXp3Le29zJhXx4AD9MlNvgf2r/kw1idE91KxgXTQG3lFEq9fh6tPeKJvBTraEIC/dmbOT02+L/qM3s+bYwiXUERnrXIf8okLFgascI/HhfNFSZ7DqsMQlXMXcVqZh01w1Xy/9hE/HEymPQ=;GD6PR6sxOsC2Br6AWyvNAQ=="

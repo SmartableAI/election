@@ -2,6 +2,222 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-18-trump-is-gone-but-lingering-as-biden-vows-america-is-back-allies-wonder-for-how-long.md",
+      "title": "‘Trump is gone,’ but lingering: As Biden vows ‘America is back,’ allies wonder for how long",
+      "excerpt": "For all of Biden's attempts to reassure partners shaken by Trump, some allies have lingering doubts about the forces that produced Trump's election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/in-depth/news/world/2021/06/17/trump-gone-but-biden-europe-trip-brings-up-allies-lingering-worry/7699719002/",
+      "originalUrl": "https://www.usatoday.com/in-depth/news/world/2021/06/17/trump-gone-but-biden-europe-trip-brings-up-allies-lingering-worry/7699719002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/06/16/USAT/8c027dcc-7eb1-43ff-a8cc-ce4255bab4be-AP_Switzerland_Biden_Putin.jpg?auto=webp&crop=3096,1742,x1,y1332&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7699719002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7699719002",
+      "publishedDateTime": "2021-06-17T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-biden-administration-to-invest-3-billion-for-covid-19-antiviral-medicines.md",
+      "title": "Biden administration to invest $3 billion for Covid-19 antiviral medicines",
+      "excerpt": "The Biden administration on Thursday announced it would invest more than $3 billion from the American Rescue Plan to accelerate the discovery, development and manufacturing of Covid-19 antiviral medicines -- ideally like a pill someone could easily take at home early in an illness.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3HvcYiFHLI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3HvcYiFHLI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 253,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html",
+      "publishedDateTime": "2021-06-17T13:39:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-biden-signs-bill-making-juneteenth-a-federal-holiday.md",
+      "title": "Biden signs bill making Juneteenth a federal holiday",
+      "excerpt": "President Joe Biden signed legislation into law Thursday to make Juneteenth, or June 19, the 12th federal holiday. The House voted 415-14 on Wednesday to send the bill to Biden. Juneteenth commemorates June 19,",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/00337fb/2147483647/strip/true/crop/5559x3631+4+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2d%2Ffb%2Ff61d7d364c898cf16707787b85c4%2Fla-photos-1staff-560650-me-0619-juneteenth-leimert-park6-wjs.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday?_amp=true",
+      "publishedDateTime": "2021-06-17T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-arizona-sheriff-says-no-distinct-border-changes-from-biden-administration-despite-sec-mayorkas-meetings.md",
+      "title": "Arizona sheriff says 'no distinct' border changes from Biden administration despite Sec. Mayorkas meetings",
+      "excerpt": "An Arizona sheriff says there have been no changes in policy, messaging or results from the Biden administration on the crisis at the southern border -- despite multiple meetings between sheriffs and Homeland Security Secretary Alejandro Mayorkas.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vEzJrhg8Ras/arizona-sheriff-border-changes-biden-mayorkas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vEzJrhg8Ras/arizona-sheriff-border-changes-biden-mayorkas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abac2688-257e-4275-af2e-a3d4b1e197ec/97c79c78-24d2-437e-a39f-1696bc5f8bfe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/arizona-sheriff-border-changes-biden-mayorkas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-sheriff-border-changes-biden-mayorkas.amp",
+      "publishedDateTime": "2021-06-17T13:00:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-january-6-rioter-charged-with-bringing-gun-to-capitol-grounds-undercutting-gop-claims-that-the-pro-trump-mob-was-unarmed.md",
       "title": "January 6 rioter charged with bringing gun to Capitol grounds, undercutting GOP claims that the pro-Trump mob was unarmed",
       "excerpt": "The Justice Department on Thursday charged a US Capitol rioter with bringing a handgun onto Capitol grounds -- two days after a hearing where Republican lawmakers downplayed the deadly attack and claimed the pro-Trump rioters were unarmed.\n    \n",
@@ -55,6 +271,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected.md",
+      "title": "Affordable Care Act survives third Supreme Court challenge, as case from Trump administration and GOP-led states is rejected",
+      "excerpt": "The key issue was whether a 2017 decision by Congress to remove the penalty for not buying health insurance — the so-called individual mandate — meant that the law was unconstitutional and should be wiped from the books.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/courts_law/affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected/2021/06/17/1d800dce-cf6f-11eb-8cd2-4e95230cfac2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/courts_law/affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected/2021/06/17/1d800dce-cf6f-11eb-8cd2-4e95230cfac2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VWN5RNEX5YI6PAXE6EDW63LBKI.jpg&w=1440",
+          "width": 1440,
+          "height": 963,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/courts_law/affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected/2021/06/17/1d800dce-cf6f-11eb-8cd2-4e95230cfac2_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected/2021/06/17/1d800dce-cf6f-11eb-8cd2-4e95230cfac2_story.html?outputType=amp",
+      "publishedDateTime": "2021-06-17T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -114,64 +382,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-17-watch-live-biden-signs-law-creating-juneteenth-federal-holiday.md",
-      "title": "Watch live: Biden signs law creating Juneteenth federal holiday",
-      "excerpt": "A decades of lobbying and 155 years after the institution of slavery ended in the United States, President Joe Biden will sign a law Thursday making Juneteenth a federal holiday.",
+      "path": "_news/2021-06-17-erdogan-says-he-told-biden-turkey-is-not-shifting-on-s-400s-state-media.md",
+      "title": "Erdogan says he told Biden Turkey is not shifting on S-400s -state media",
+      "excerpt": "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,",
       "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/",
+      "webUrl": "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/",
+      "originalUrl": "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/1281623940080/2021/1/fbebdb5aa0b93bf9075906f1225649f9/v1.5/Watch-live-Biden-signs-law-creating-Juneteenth-federal-holiday.jpg",
+          "url": "https://www.reuters.com/resizer/efr0HPd6sQ58IZDnAuSDMutOEcY=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W7SETYTUYFLWVGRDFQOTBN4PBA.jpg",
           "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/",
-      "publishedDateTime": "2021-06-17T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-how-obamacare-survived-trump-and-what-biden-is-doing-quicktake.md",
-      "title": "How Obamacare Survived Trump and What Biden Is Doing: QuickTake",
-      "excerpt": "The Supreme Court shut down the latest challenge in a 7-2 decision that denied Republican states’ challenge to the law’s constitutionality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-is-doing-quicktake/2021/06/17/68dee964-cf7b-11eb-a224-bd59bd22197c_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-is-doing-quicktake/2021/06/17/68dee964-cf7b-11eb-a224-bd59bd22197c_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M3B5USWPPMI6XIREXVM32IQZPQ.jpg&w=1440",
-          "width": 1440,
-          "height": 952,
+          "height": 419,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,14 +406,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T08:05:00-07:00",
+      "publishedDateTime": "2021-06-17T03:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -205,7 +430,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Joe Biden"
       ]
     },
     {
@@ -494,7 +719,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1106,222 +1331,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-15T18:45:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-gov-noem-slams-biden-over-white-house-fireworks-event-what-a-hypocrite.md",
-      "title": "Gov. Noem slams Biden over White House fireworks event: 'What a hypocrite'",
-      "excerpt": "South Dakota Gov. Kristi Noem slammed President Biden on Tuesday after his administration unveiled plans to host an Independence Day fireworks display at the White House, weeks after federal officials rejected her bid to host a similar event at Mount Rushmore.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MKWICMlBAHU/gov-noem-slams-biden-white-house-fireworks-event",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MKWICMlBAHU/gov-noem-slams-biden-white-house-fireworks-event",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T15:03:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-biden-reveals-9-ambassador-nominations-including-thomas-nides-sully-sullenberger.md",
-      "title": "Biden reveals 9 ambassador nominations, including Thomas Nides, 'Sully' Sullenberger",
-      "excerpt": "President Biden unveiled a slate of nominations for nine ambassadorial positions on Tuesday, including his picks to hold the key diplomatic posts in Mexico, Israel and NATO.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/svGbEeYJl0I/biden-ambassador-nominations-thomas-nides-sully-sullenberger",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/svGbEeYJl0I/biden-ambassador-nominations-thomas-nides-sully-sullenberger",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21155541081134.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T13:50:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-trump-names-ex-rnc-spokeswoman-to-replace-departing-aide-jason-miller.md",
-      "title": "Trump names ex-RNC spokeswoman to replace departing aide Jason Miller",
-      "excerpt": "Former President Donald Trump has named Liz Harrington, a former Republican National Committee spokeswoman, to replace the departing advisor Jason Miller.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/",
-      "originalUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-miller-harrington-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/amp/",
-      "publishedDateTime": "2021-06-15T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-missouri-ag-slams-bidens-epa-for-federal-government-land-grab-over-reinstatement-of-water-rule.md",
-      "title": "Missouri AG slams Biden's EPA for 'federal government land grab' over reinstatement of water rule",
-      "excerpt": "Missouri Attorney General Eric Schmitt in a Tuesday letter condemned the EPA's “federal government land grab\" over its decision to revise the Obama-era definition of “waters of the United States.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8o0_C1SoCSg/missouri-ag-schmitt-water-rule",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8o0_C1SoCSg/missouri-ag-schmitt-water-rule",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Eric-Schmitt.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T10:10:42-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

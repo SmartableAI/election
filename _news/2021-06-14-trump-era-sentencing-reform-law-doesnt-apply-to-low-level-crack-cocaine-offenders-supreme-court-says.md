@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/supreme-court-first-step
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/supreme-court-first-step-act-crack-cocaine-conviction-case/index.html"
 type: article
 quality: 159
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Liberals Need To Stop Whining About Merrick Garland Defending Trump"
+    excerpt: "Garland’s not obliged to defend misconduct, but he does need to restore the confidence in the Department of Justice that the previous administration shattered and squandered."
+    publishedDateTime: 2021-06-17T11:23:00Z
+    webUrl: "https://www.thedailybeast.com/liberals-need-to-stop-whining-about-merrick-garland-defending-trump"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "D47OC5g7YKo6nBwy67RTtGA2q+1oE9XG4mtdh+GP9JsIz1Nhfyf3KumNG1pOUCEkdK+4qB1tKRQcAqwf3A4XjyNMNgFcaae8tEsNr/eN7xlOGcpKn9ePziEImTHz7vGYVS5SmiS8EEBxLOqzzPqMmU9GZkkRqrXmjnqJJxIJvVj0jLmyMOYxRWWvYC41IH/q2KK32UTE/WoRkzWnLkq/ozkXXRxCnnMGcGAlA0sK4aNbK9CQUwCMBmACK1H26N1h2vP3pvS9OLtw6ZSmE/w0IneAGKPlX5Nh3qZSUgknBJVqg33MIq2IMsLMPLHm1mR87JonXz5uNiYwz9KVnZ4xleCh138ZDXhenGs227IFk20=;01ckgoyNnAUkQMk7OgDyKQ=="
 ---
