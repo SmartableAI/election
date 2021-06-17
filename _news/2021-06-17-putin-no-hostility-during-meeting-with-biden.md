@@ -1,22 +1,20 @@
 ---
 category: news
-title: "In interview ahead of Biden meeting, Putin called a US Marine veteran imprisoned in Russia a 'drunk' who 'got himself s---faced'"
-excerpt: "Trevor Reed was sentenced to nine years in prison last July after being convicted of assaulting two Moscow police officers while drunk."
-publishedDateTime: 2021-06-15T19:13:00Z
-originalUrl: "https://www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6"
-webUrl: "https://www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6"
-ampWebUrl: "https://www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6?amp"
+title: "Putin: 'no hostility' during meeting with Biden"
+excerpt: "Russian President Vladimir Putin described the tone of the talks with U.S. President Joe Biden on Wednesday as “constructive” and said there was no hostility during the talks. (June 16)"
+publishedDateTime: 2021-06-16T21:31:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/06/16/putin-no-hostility-during-meeting-biden/7721035002/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/16/putin-no-hostility-during-meeting-biden/7721035002/"
 type: article
-quality: 96
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/60c86ba823393a00188e32b2?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d4a8ae58-e615-4b07-9620-e1addbab23a9_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -251,20 +249,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Putin: 'no hostility' during meeting with Biden"
-    excerpt: "Russian President Vladimir Putin described the tone of the talks with U.S. President Joe Biden on Wednesday as “constructive” and said there was no hostility during the talks. (June 16)"
-    publishedDateTime: 2021-06-16T21:31:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/16/putin-no-hostility-during-meeting-biden/7721035002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d4a8ae58-e615-4b07-9620-e1addbab23a9_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Biden says U.S. \"not looking for conflict\" with Russia ahead of meeting with Putin"
     excerpt: "President Biden says he's not seeking conflict with Russia, but that the U.S. would respond if Russia continued its \"harmful activities.\" CBS News chief White House correspondent Nancy Cordes joins CBSN's Elaine Quijano to discuss Monday's NATO summit and preview Mr."
     publishedDateTime: 2021-06-15T01:46:00Z
@@ -278,6 +262,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/15/f15a2967-82ec-4f03-8830-2ef851902861/thumbnail/1200x630/4e8606f7a1035c769c3e7eaf9cbe3199/cbsn-fusion-joe-biden-vladimir-putin-summit-preview-analysis-2021-06-14-thumbnail-734744-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "In interview ahead of Biden meeting, Putin called a US Marine veteran imprisoned in Russia a 'drunk' who 'got himself s---faced'"
+    excerpt: "Trevor Reed was sentenced to nine years in prison last July after being convicted of assaulting two Moscow police officers while drunk."
+    publishedDateTime: 2021-06-15T19:13:00Z
+    webUrl: "https://www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/60c86ba823393a00188e32b2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Vladimir Putin offers Joe Biden exchange of cybercriminals ahead of summit"
     excerpt: "Ahead of his highly anticipated Wednesday summit with U.S. President Joe Biden, Russian President Vladimir Putin said he is willing to exchange cybercriminals with United States, state-run media said."
@@ -376,6 +376,6 @@ related:
         height: 707
         isCached: true
 
-secured: "gfelPK/V9IUy4pLi08vchbAICXSpwXwRLBFSf6B9hy1RczlV6LS4kKcR725MGkhIvemS3y47y4Doz6Q3YXpL8zGAAo6yZAkDEcqmomqf9yturHudnVB5gT7AMsIIPdMVpZpJdoU6OaD+BKaOK5F1V+2or7lIf5gfyK39I1rZTNfHU+cOb5Aczd0wyHsh9RjMkT8q4S2m2qdsrDtwg94tZkuEA/1E3CkASiBwYX/g0Vc4WXMXn6/Nu6rCShukSgVWkc0vjCa88qXLPovbks0CyG8B7Xup0DWq4EYr1wLCumBc7xznFZPERa7SQzE3lhGkaMMx1VpAR/MaHOHd3AGx18xSYSpP2Cf8JLQHcvRgwHs=;necTW8D16Ydg6el7IiIukw=="
+secured: "+TNBMRgZS44OWswL26QNIiZ7CbV6mB9gBQCJixOuh1jWZMB7oGsxNIOv5zFH020GvlQhb4a/IQCo7G69spZAykA4c95zUSM8HBhygoItaPqH530Qd9uv7klRcSQA4IXcvSg9CidlJw+oWd5xdXX7c1gV+AJjy5kHgEsVxSiZLwvDXSGkacBMo28qqrumCPvH80/XtddsVWFkWyeUp2UZJC6dHmctb8iHxExmNw8gcgXeHQNgVyl8N+46+tFlUnAizwV9XFLcFLTMdHI6JKW12w5dM2Vgb77JoQ+KNjiH+8m/6YzQRVfH9uR7lFhGToLWQiUTo519DY3VpD5qI5lSMWXDUiWEGtJMp2nJPaNHxSw=;J/PCXPQxUoVvXq0Fw3arlQ=="
 ---
 

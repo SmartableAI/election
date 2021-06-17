@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Biden Says Republican Party Numbers 'Vastly Diminished' Under Trump"
-excerpt: "U.S. President Joe Biden views the Republican Party as vastly diminished in numbers even as it remains in lockstep with the man he defeated, former President Donald Trump. \"The leadership of the Republican Party is fractured and the Trump wing of the party is the bulk of the party,"
-publishedDateTime: 2021-06-14T22:03:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-06-14/biden-says-republican-party-numbers-vastly-diminished-under-trump"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-14/biden-says-republican-party-numbers-vastly-diminished-under-trump"
+title: "Images of Biden's meeting with Putin show a cool but cordial dynamic as the US president seeks a reset after Trump"
+excerpt: "Trump's behavior toward Putin repeatedly sparked criticism in Washington and fueled suspicions about the US president's loyalties."
+publishedDateTime: 2021-06-16T18:01:00Z
+originalUrl: "https://www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6"
+webUrl: "https://www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6"
+ampWebUrl: "https://www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6?amp"
 type: article
-quality: 50
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://i.insider.com/60ca1b6423393a00188e3824?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Biden revokes Trump executive orders targeting TikTok and WeChat"
@@ -307,22 +315,6 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "Images of Biden's meeting with Putin show a cool but cordial dynamic as the US president seeks a reset after Trump"
-    excerpt: "Trump's behavior toward Putin repeatedly sparked criticism in Washington and fueled suspicions about the US president's loyalties."
-    publishedDateTime: 2021-06-16T18:01:00Z
-    webUrl: "https://www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
-    images:
-      - url: "https://i.insider.com/60ca1b6423393a00188e3824?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Biden DOJ Plans To Continue To Defend Trump In E. Jean Carroll's Defamation Lawsuit"
     excerpt: "The Justice Department simultaneously distanced itself from the allegations Carroll has made that former President Donald Trump sexually assaulted her in the 1990s."
     publishedDateTime: 2021-06-08T15:18:00Z
@@ -465,6 +457,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Biden Says Republican Party Numbers 'Vastly Diminished' Under Trump"
+    excerpt: "U.S. President Joe Biden views the Republican Party as vastly diminished in numbers even as it remains in lockstep with the man he defeated, former President Donald Trump. \"The leadership of the Republican Party is fractured and the Trump wing of the party is the bulk of the party,"
+    publishedDateTime: 2021-06-14T22:03:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-14/biden-says-republican-party-numbers-vastly-diminished-under-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "Joe Biden is meeting with the G-7 on his first presidential trip abroad. What is the G-7 and what do they do?"
     excerpt: "Biden will attend the G-7 summit on his trip to Europe. Other stops include visits to Queen Elizabeth II and Russian President Vladimir Putin."
     publishedDateTime: 2021-06-11T10:26:00Z
@@ -475,6 +476,6 @@ related:
       domain: indystar.com
     quality: 16
 
-secured: "qpoTBl+HLEz4PAhie/FWbuFWbQzj1A4LmmFY7FbhlHbH+p4SqJAoDu+4D6Xi+6AZEerLhjJwEs8X6dZ1BQE438psRSdSzFP81EK53SMClLfJC8C85s9HMw1KzB5jwS2GTZAJWWG2hBQJ6tARXrtxdH2c9ACK6VJPR9MMR29P5Fg5KZb135hq8DkUzFbscjMst18L9f/hgjheQ6RlTgWhoS0B0J+4HZNKIQr1RrteLNiSHfzfn+49a3WQ/p0oX0Y67cT7KFghJoeZWaVN3yY/WNRWC72LjwnmnuCUB4OH3YHCaNnYq944LlcVEWVs7yqlUnJwpuwdOi5llo4qcaAV+UUw5v/2c8qm+/ehP4WzZpCMsAqLaXKWPqPw63ubIIq4v+GFvt+d+WOgNOeRx9UenTRNaToyB/7E9zujx54e9lDZEQ5uQUK7FL8I+IEsaby2y+Z6qzQ6O/wkCgSVwLiObWrNEFcpMx5lctr0wyirHZjzvGproiYnkDUOCxQCoNEpVYjXf6sktm/AJtyU39HYWQ==;b1fUomz7f8NSMlWyPs6K7w=="
+secured: "YK/fDuZEl/MeZ+tTFdUzpD4/gdbFFHteSC0uXzJ/C2P59BNGWCaO8l/pbyQ5zYhtb3+KUa3jHjwaqLPpiqLNOWX83nqKtuzdldFUUT/Mwe2g3gMFbq30VsWr1VJYmThaYNK3LHP+VygB5J4TEQ1h8VH21msvONXhyLLC0ct8C7XBnLWZET21mthFihscmfXMK1aEwNqWWLNyr9YkC8vrPIwK7ki77+r6q6m5ZWBwTWwO9ne6sQADFmX4BHFRdmNcz/4yHJ+jqzcNSB3LAOSxwuJOezQYtKgr6qF6Jpo6A2GzKub+kQNJb1yte8IofGIXVlQXL7MLHyw0b0qOG6lWX8utf/6llypWUGnQvq2rISo=;ALL7CI1JEIV3qeT77rO4MA=="
 ---
 

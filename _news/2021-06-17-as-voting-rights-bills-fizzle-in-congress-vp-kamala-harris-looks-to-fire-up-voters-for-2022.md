@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Guatemala is Kamala Harris' first stop on her trip to talk migration. Why is that nation an important player?"
-excerpt: "Vice President Kamala Harris has worked closely with Guatemala and Mexico to address the root causes of migration."
-publishedDateTime: 2021-06-07T12:34:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2021/06/07/kamala-harris-heads-guatemala-talk-root-causes-migration/7514875002/"
-webUrl: "https://www.azcentral.com/story/news/politics/2021/06/07/kamala-harris-heads-guatemala-talk-root-causes-migration/7514875002/"
+title: "As voting rights bills fizzle in Congress, VP Kamala Harris looks to fire up voters for 2022"
+excerpt: "Vice President Kamala Harris held her highest-profile event since grabbing the helm of the White House’s voting rights efforts earlier this month, meeting with a group of rogue"
+publishedDateTime: 2021-06-16T23:40:00Z
+originalUrl: "https://www.bozemandailychronicle.com/ap_news/washington/as-voting-rights-bills-fizzle-in-congress-vp-kamala-harris-looks-to-fire-up-voters/article_9af1c4d8-44ab-53a8-9311-ba1b191c066d.html"
+webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/as-voting-rights-bills-fizzle-in-congress-vp-kamala-harris-looks-to-fire-up-voters/article_9af1c4d8-44ab-53a8-9311-ba1b191c066d.html"
 type: article
-quality: 16
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Bozeman Daily Chronicle
+  domain: bozemandailychronicle.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Mike Pence Tells Kamala Harris 'It's Time' to Visit Southern Border"
@@ -888,21 +894,16 @@ related:
         width: 944
         height: 630
         isCached: true
-  - title: "As voting rights bills fizzle in Congress, VP Kamala Harris looks to fire up voters for 2022"
-    excerpt: "Vice President Kamala Harris held her highest-profile event since grabbing the helm of the White House’s voting rights efforts earlier this month, meeting with a group of rogue"
-    publishedDateTime: 2021-06-16T23:40:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/as-voting-rights-bills-fizzle-in-congress-vp-kamala-harris-looks-to-fire-up-voters/article_9af1c4d8-44ab-53a8-9311-ba1b191c066d.html"
+  - title: "Guatemala is Kamala Harris' first stop on her trip to talk migration. Why is that nation an important player?"
+    excerpt: "Vice President Kamala Harris has worked closely with Guatemala and Mexico to address the root causes of migration."
+    publishedDateTime: 2021-06-07T12:34:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/06/07/kamala-harris-heads-guatemala-talk-root-causes-migration/7514875002/"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 16
 
-secured: "AtDnweFLJPwzDyNXkGJZ0YUUZzuZ7cIisgxhBwVt1STHjaAMnN1LWDjPfQQUSiDdy0x4Hp9lC02a+GwpeQ17xL1L57nYooQvus9tVIL40f5Dtcf7Ez6GITK2NPHloBHz7cHpaMO4C4bpykfddASNedyoomLG0x18CqPPfp/0OWuAqz61pYBSiXoDa7siThVBDA9zOv0f1Qq5PhuiSZCygMdhmcQ1MVdnoKBcXqsKBMua6SfnbNE4gQnbzWGaXfI3xyVnmGMOI7s+vEtfYNRlunqmjS9IBhB+dKwFPoqMgbzbTeuyAHXea9YinXJE/zJc0Fq+Ac26XSGiPWVeIgqU3JyTI3eJM4TXGEKkPLp8/WjVgLuxqznEN/DW0rWwhnYA2tmgzBFSUwHW2L9uGLAfJ1TV5CfdhQWSfvchNr9s8MTMEjVOqIfwuguj2pRzkJFP+00ERreOyWqdDTVHlJSKzBodlZCemMSdlv8LG9cBno6qybWjlzD3Jwe82G4qySnMQjgMYa1pgwJrbJ9TKLs9tQ==;kV00w+ypXZd7hv4vmm2sPQ=="
+secured: "HbwJsDD/9M/oheTWfF/JxDp7iXhbJ05Uxg1ESc/canMQHYKlCjaRmNojK1VqHh64lvkFqKqc7t0mLXHz0uPX4qtgd3ZtbQmEbioC9FXCfp5f6FMh3+f6znATebhckDY8A/+L+CjSzu/zE+8PMEP4OYhhijrhWa8PKEATgVRASZtdOsAjVRohlGaJfAmjioTAdqSATgCR6QPxL2lUwM2FstaAgPyPFObaQEjuFKf7FeuZ2LVsNnLwpQBuvbbvBY+GSooyWl05YUs58ELrJwrfh2LbTHEfDKoaRSBmkMPJFrpU6KC825N39yQa4Zh1GNjTdZZ6IO3B+hrcRzFu+N+KfUuX1I+cxGr4fFfJg3Aao9E=;TMUIu2yeYiyA2PgmI9R4WQ=="
 ---
 

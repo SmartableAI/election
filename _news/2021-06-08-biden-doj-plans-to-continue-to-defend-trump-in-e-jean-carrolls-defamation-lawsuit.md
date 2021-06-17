@@ -313,6 +313,22 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Images of Biden's meeting with Putin show a cool but cordial dynamic as the US president seeks a reset after Trump"
+    excerpt: "Trump's behavior toward Putin repeatedly sparked criticism in Washington and fueled suspicions about the US president's loyalties."
+    publishedDateTime: 2021-06-16T18:01:00Z
+    webUrl: "https://www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/60ca1b6423393a00188e3824?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'I miss Trump': Lindsey Graham slams Biden foreign policy, alleges that the 'bad guys were afraid' of the former president"
     excerpt: "During an appearance on Fox News's \"The Ingraham Angle,\" Graham alleged that Biden is not pushing back forcefully against China and Russia."
     publishedDateTime: 2021-06-12T19:55:00Z

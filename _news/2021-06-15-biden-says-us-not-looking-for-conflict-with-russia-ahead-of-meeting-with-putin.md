@@ -249,6 +249,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Putin: 'no hostility' during meeting with Biden"
+    excerpt: "Russian President Vladimir Putin described the tone of the talks with U.S. President Joe Biden on Wednesday as “constructive” and said there was no hostility during the talks. (June 16)"
+    publishedDateTime: 2021-06-16T21:31:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/16/putin-no-hostility-during-meeting-biden/7721035002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d4a8ae58-e615-4b07-9620-e1addbab23a9_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "In interview ahead of Biden meeting, Putin called a US Marine veteran imprisoned in Russia a 'drunk' who 'got himself s---faced'"
     excerpt: "Trevor Reed was sentenced to nine years in prison last July after being convicted of assaulting two Moscow police officers while drunk."
     publishedDateTime: 2021-06-15T19:13:00Z

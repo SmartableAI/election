@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
-excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
+excerpt: "Lisa Mensah, President and CEO, Opportunity Finance Network speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
 publishedDateTime: 2021-06-15T19:21:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/40f41772693764fa3ce75c19df2d9049/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/40f41772693764fa3ce75c19df2d9049/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/1c26d01328b511c8df36eefe65a7cab2/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/1c26d01328b511c8df36eefe65a7cab2/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/40f41772693764fa3ce75c19df2d9049/HARRIS-RECOVERY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/1c26d01328b511c8df36eefe65a7cab2/HARRIS-RECOVERY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -880,6 +880,20 @@ related:
         width: 944
         height: 630
         isCached: true
+  - title: "As voting rights bills fizzle in Congress, VP Kamala Harris looks to fire up voters for 2022"
+    excerpt: "Vice President Kamala Harris held her highest-profile event since grabbing the helm of the White House’s voting rights efforts earlier this month, meeting with a group of rogue"
+    publishedDateTime: 2021-06-16T23:40:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/as-voting-rights-bills-fizzle-in-congress-vp-kamala-harris-looks-to-fire-up-voters/article_9af1c4d8-44ab-53a8-9311-ba1b191c066d.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Guatemala is Kamala Harris' first stop on her trip to talk migration. Why is that nation an important player?"
     excerpt: "Vice President Kamala Harris has worked closely with Guatemala and Mexico to address the root causes of migration."
     publishedDateTime: 2021-06-07T12:34:00Z
@@ -890,6 +904,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "fWRRApSE7RLYGcnF73kpUgU8nTkEL1n9Nrou9iwT6TwNFfBlqzNvB+lKsQFGHefTjVroM4KU8Ksy6ChcqNkNPS6Y+vEEu28eoZM3nQQZtz1fxQ6OqY32VDcD3Ibx8BDrJVSsi5sIavHhSQUv0vIgGtJdcuc+wH3vMCd43FJ1NygyoF6NlN0PEu5Xw0bC7wIDRvChRoE5yaG6d4bVmoYdMHE12jPqHio+fUqcJ8ELL1SKC0HV1T5BP1VQlmQpyd1EMeVuLqp4YPoaE+cJhRAyV9tJasrdNpPP8rgMd7xwWlUw27Rw+Srmj1E5KQuauvfhzSDNoCmO8VzKFO/xB5h7AiGAKyEU8BC+okvXEWGX04Q=;OL0NzdBLIpl3fxnJt5Skrw=="
+secured: "sIkcUF8A90dnzkd5Xgw7S4/xWlZHyEmRbmNl1Djg4tqg0XPEGHWgRT7fvW/wuoF5XlWZKBR4NdJ6a3PlkolFJrsudWz6ig7oANFs9SMicNG1KIRgA4s6TCWXJGVJrh2Xa++ZeTZIyxvdtCj32mah53UDM8PcB0pmxxDu+SDxbi/j5IhucVwJo1NzjTDuNsD+8KCZDKqVs2J5MAr6klCKgRzNpF0AIKw1mWcTqFRlZr7r+BU2SiiOozCIfyy5q+ETqKfJsKPQeUdoUWWIoU4qRF0VrvIPhQVE1uJ2Az1O3J8F6BOeZI3DkrIXUX6iUKT9q5yBg1PxUI5LQY5M+yoM7VbwSko7T0589QHHkKJFhyo=;y5V3CxgLsRP4pY2aE+cMzw=="
 ---
 

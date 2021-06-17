@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/technology/557523-biden-revokes-trump-exe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557523-biden-revokes-trump-executive-orders-targeting-tiktok-and-wechat?amp"
 type: article
 quality: 140
-heat: 720
+heat: 740
 published: true
 
 provider:
@@ -298,6 +298,22 @@ related:
       - url: "https://www.reuters.com/resizer/J7uThqW2-EsaVcCDYF2W57q9ggw=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HPBQXNVJFJNTLKENASTKDPKVG4.jpg"
         width: 800
         height: 419
+        isCached: true
+  - title: "Images of Biden's meeting with Putin show a cool but cordial dynamic as the US president seeks a reset after Trump"
+    excerpt: "Trump's behavior toward Putin repeatedly sparked criticism in Washington and fueled suspicions about the US president's loyalties."
+    publishedDateTime: 2021-06-16T18:01:00Z
+    webUrl: "https://www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/60ca1b6423393a00188e3824?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden DOJ Plans To Continue To Defend Trump In E. Jean Carroll's Defamation Lawsuit"
     excerpt: "The Justice Department simultaneously distanced itself from the allegations Carroll has made that former President Donald Trump sexually assaulted her in the 1990s."

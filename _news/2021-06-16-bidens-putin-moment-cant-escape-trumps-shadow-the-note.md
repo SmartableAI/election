@@ -299,6 +299,22 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Images of Biden's meeting with Putin show a cool but cordial dynamic as the US president seeks a reset after Trump"
+    excerpt: "Trump's behavior toward Putin repeatedly sparked criticism in Washington and fueled suspicions about the US president's loyalties."
+    publishedDateTime: 2021-06-16T18:01:00Z
+    webUrl: "https://www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pictures-of-biden-and-putin-and-pictures-trump-and-putin-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/60ca1b6423393a00188e3824?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden DOJ Plans To Continue To Defend Trump In E. Jean Carroll's Defamation Lawsuit"
     excerpt: "The Justice Department simultaneously distanced itself from the allegations Carroll has made that former President Donald Trump sexually assaulted her in the 1990s."
     publishedDateTime: 2021-06-08T15:18:00Z
