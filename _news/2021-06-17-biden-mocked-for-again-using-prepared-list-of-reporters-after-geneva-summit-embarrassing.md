@@ -33,7 +33,7 @@ related:
   - title: "Biden Apologizes To CNN Reporter After Telling Her She's In \"The Wrong Business\""
     excerpt: "President Joe Biden apologized to CNN correspondent Kaitlan Collins after losing his temper and yelling at her at the end of his press conference on Wednesday after he met with Russian President Vladimir Putin in Geneva."
     publishedDateTime: 2021-06-16T22:12:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.html#!"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.amp.html"
     type: article

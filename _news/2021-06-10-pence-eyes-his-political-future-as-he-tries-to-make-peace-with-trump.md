@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-fu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html"
 type: article
 quality: 200
-heat: 680
+heat: 700
 published: true
 
 provider:
@@ -333,6 +333,22 @@ related:
     quality: 131
     images:
       - url: "https://static01.nyt.com/images/2021/06/11/world/11new-washington-briefing-doj-folo-1/11new-washington-briefing-doj-folo-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "U.S. Ends Trump Policy Limiting Asylum for Gang and Domestic Violence Survivors"
+    excerpt: "Garland reversed on Wednesday Trump-era immigration rulings that had made it all but impossible for people to seek asylum in the United States over credible fears of domestic abuse or gang violence, marking one of the Justice Department’s most significant breaks with the previous administration."
+    publishedDateTime: 2021-06-16T23:25:00Z
+    webUrl: "https://www.nytimes.com/2021/06/16/us/politics/asylum-domestic-abuse-gang-violence.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/16/us/politics/asylum-domestic-abuse-gang-violence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/16/us/politics/asylum-domestic-abuse-gang-violence.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/16/us/politics/16dc-immig/16dc-immig-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

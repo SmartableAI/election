@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden says Putin not looking for Cold War"
-excerpt: "Top News Biden says Putin not looking for Cold War. Posted . U.S. President Joe Biden described his meeting with Russian President Vladimir Putin as \"good, positive,\" but added \"t"
+excerpt: "Rough Cuts Biden says Putin not looking for Cold War. Posted . U.S. President Joe Biden described his meeting with Russian President Vladimir Putin as \"good, positive,\" but added"
 publishedDateTime: 2021-06-16T19:21:00Z
-originalUrl: "https://www.reuters.com/video/watch/biden-says-putin-not-looking-for-cold-wa-id731634643"
-webUrl: "https://www.reuters.com/video/watch/biden-says-putin-not-looking-for-cold-wa-id731634643"
+originalUrl: "https://www.reuters.com/video/watch/idOVEHNOVKV"
+webUrl: "https://www.reuters.com/video/watch/idOVEHNOVKV"
 type: article
 quality: 105
 heat: -1
@@ -490,6 +490,6 @@ related:
       domain: indystar.com
     quality: 16
 
-secured: "r/4Hkt/dYmq8jR/W3JJYnM+YjwG80vwjsiNRhjMVWfsrS8EkZSf1L6rQboZ7gb6JZOvnR0ApHvZZ8MPpoNRQwWlA0z7F8S8Cn7BKdcLAqd3WLWIV7FF1YUzEFvoAnaNyk5o/4HDVJCERwOT4KbPwPbk5lb7uSsFvEWTHKy5FpjQRGkmXGVEqxGO/D9JtTG+dF8G/UiN0UIUFDsk9TNQxCpnvWDP6HVxWi4rqQmZai9hZrciAEDrspyhaVeNjWyYq0uW2Mntb7dtSeJFTKs+pSzHRdVtJhHidRo9XVYkCVOfYDAFiCoC8UphgeWwkxqHTBOLwvGEmrSvEBbn6KhsaO7PlTMxS2vsqFGTNxBJuecg=;C/E+KZKnsONdbcGmnt7o+g=="
+secured: "Wl2m5i5a618oKoUODu1Ah04OzHlcMU367vJpfYr2ORYcO5bSG/XA+Y3qYo9SSyY5kHdnBSXrAqsYsKMDAIW6k7lZwV5JQjLnikEUUfiBZ+x96wIdC5oqIUgK5d8+wSelXNr3HsZulHwEvzBnI96in5lVxkJ30zFSmKQQH1802XVowoopdrvwz4fUcRg8nLm9lZqDwqBVXRkukk7yBRTZeq/9sFU/931nHMGr+aPsE0kwzMZ+Oom/czfA1vfi8pJ5BRKiwckUchx4spA++1rEbAezr4kxq1NaZJ/QDA9Eha7apLpfjxy7fYAIO+KlwIwDnMwjl/N12j4wVWgYCPBUEQZbgK48vlfS7G2ntxTTYJQ=;Qoaakd6OMUbxM+hRKBB2ew=="
 ---
 

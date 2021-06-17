@@ -287,6 +287,22 @@ related:
         width: 980
         height: 580
         isCached: true
+  - title: "US ends Trump-era asylum rules for immigrants fleeing violence"
+    excerpt: "Advocates celebrated the move, which could facilitate those facing domestic or gang violence to be granted humanitarian protection"
+    publishedDateTime: 2021-06-16T22:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/16/us-immigration-asylum-trump-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/16/us-immigration-asylum-trump-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/16/us-immigration-asylum-trump-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/1d9c95abc47147777d3c32487a251a4ddc7be9f9/0_262_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef10c3318b4a4cd96baebaefafe4bec5"
+        width: 600
+        height: 360
+        isCached: true
   - title: "New Jersey voters to select GOP governor nominee after Trump-filled primary"
     excerpt: "New Jersey Republicans will select a challenger to Gov. Phil Murphy (D) on Tuesday after a primary that focused on how candidates would prevent future pandemic lockdowns and whether they had done enough to support Donald Trump’s reelection bid."
     publishedDateTime: 2021-06-08T10:58:00Z

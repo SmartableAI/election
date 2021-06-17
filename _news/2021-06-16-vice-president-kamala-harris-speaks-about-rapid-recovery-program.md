@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
 excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
 publishedDateTime: 2021-06-15T19:21:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/40f41772693764fa3ce75c19df2d9049/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/40f41772693764fa3ce75c19df2d9049/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/3ec31fa177ec9babd24e4b98f17c29dd/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/3ec31fa177ec9babd24e4b98f17c29dd/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/40f41772693764fa3ce75c19df2d9049/HARRIS-RECOVERY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/3ec31fa177ec9babd24e4b98f17c29dd/HARRIS-RECOVERY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -319,8 +319,8 @@ related:
         isCached: true
   - title: "Vice President Kamala Harris announces $1.2 billion for community lenders"
     excerpt: "The $1.2 billion Rapid Recovery Program announced by Vice President Kamala Harris will help enable community financial institutions loan money to small businesses, primarily in minority communities. The effort is part of a larger $12 billion in funding for community and minority financial institutions passed as part of COVID-19 relief in December."
-    publishedDateTime: 2021-06-15T18:45:00Z
-    webUrl: "https://www.cbsnews.com/video/kamala-harris-rapid-recovery-program-for-community-lenders/"
+    publishedDateTime: 2021-06-15T18:21:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-announces-12-billion-for-community-lenders/"
     type: article
     provider:
       name: CBS News
@@ -904,6 +904,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "XRuGbv6HhF2fu7jnUAKnyeW+n2E5/pYidK6kfUVNcIGtzJGDgBjfbKsjrfC+zQ0zyB8L+MoJPr9zi9ofqDIW55hOnvRtwhU/deLSM8D+7MlfSmmPT+V5WEBk24mscujvrNjKIYOYHmXEP0oXAOD8RrKIIvWLCLE7XYSXj90RqDe5d2tSvEcmFa4DUj1SS6etVRwfhGzYxFkp5vSHPF7htvfb7vB3/AawIeyNlFu7REEtTWoYVhoMu0vFdHuzAFLak47cuKR88Y/cYiw+MeBW/rtB3BOwmenwnFH1+hRNuCSKT8LQ7b0c/V8ezKiXWseD8+DirsZ82uJV+sCZRKkIO+d8KALU3t1laj+fZMss6ZMAXOsbUCPx3MHWgksWryFjQAKwYUoPRqc7vpG4BxVRPZe53RkVBgSh+qZsQkadFxtBS5DLSIvTNgETKzRCrOZMWGHgl9t+Z53eUskTOuce0lta5Ce8aUnBFfybEPcrQJqRlypfnMaStKH2XLgjy+8hz8PT/DjVjz6lughA08zfOQ==;Mgkuq4kYNpGdF1y35whOQw=="
+secured: "XB5WdGJjJ6SUvUbabdILg4qx0VLGbFFo0Z1DtKcRX3hjYK11MHEA+BNFMljgLFNM5p382U6cvbjYZJccemSuWmRMoANKPk6JO2XIaiCZSraJoB9AjT4R2y7la1r0xB6mzWSEw/F/wI1BTdvuwK3NxvmEQ3pfNYr+JWbdbvIQTRCnePo5qJ81+8uk2xkW8A0uWIlwKY297vU3v0AusokF0l7UQSGKSupKdo+ZD9/LBSFgTi/na32XSWNzuHwY930d3B+etHTiDIf0NYwEkCZU1uQJJODrjp8sQ5EcFdYqVHAhpSkhcgMF+VpyTR0nrP3etw0eVMHH16ecI7nehN8wdjZHfcISlRRAiYS6AXHV0IY=;1xbnjKtcTFes7h73HgA4Og=="
 ---
 

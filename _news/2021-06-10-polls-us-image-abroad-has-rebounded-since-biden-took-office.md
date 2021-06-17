@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/polls-us-image-abroad-rebounded-biden-office-78195103"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -137,6 +137,17 @@ related:
         width: 5588
         height: 3726
         isCached: true
+  - title: "Biden abroad: Pitching America to welcoming if wary allies"
+    excerpt: "President Joe Biden spent his first trip overseas highlighting a sharp break from his disruptive predecessor, selling that the United States was once more a reliable ally with a steady hand at the wheel."
+    publishedDateTime: 2021-06-17T05:12:00Z
+    webUrl: "https://www.sanluisobispo.com/news/health-and-medicine/article252174758.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/health-and-medicine/article252174758.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/health-and-medicine/article252174758.html"
+    type: article
+    provider:
+      name: SanLuisObispo
+      domain: sanluisobispo.com
+    quality: 55
   - title: "U.S. increasingly unlikely to meet Biden’s July 4 vax goal"
     excerpt: "For months, President Joe Biden has laid out goal after goal for taming the coronavirus pandemic and then exceeded his own benchmarks. Now, though, the U.S. is unlikely to meet his target to have 70% of Americans at least partially vaccinated by July 4."
     publishedDateTime: 2021-06-08T23:20:00Z

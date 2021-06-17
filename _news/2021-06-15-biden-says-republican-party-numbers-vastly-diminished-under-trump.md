@@ -393,9 +393,9 @@ related:
         height: 480
         isCached: true
   - title: "Biden says Putin not looking for Cold War"
-    excerpt: "Top News Biden says Putin not looking for Cold War. Posted . U.S. President Joe Biden described his meeting with Russian President Vladimir Putin as \"good, positive,\" but added \"t"
+    excerpt: "Rough Cuts Biden says Putin not looking for Cold War. Posted . U.S. President Joe Biden described his meeting with Russian President Vladimir Putin as \"good, positive,\" but added"
     publishedDateTime: 2021-06-16T19:21:00Z
-    webUrl: "https://www.reuters.com/video/watch/biden-says-putin-not-looking-for-cold-wa-id731634643"
+    webUrl: "https://www.reuters.com/video/watch/idOVEHNOVKV"
     type: article
     provider:
       name: Reuters

@@ -2,9 +2,9 @@
 category: news
 title: "Vice President Kamala Harris announces $1.2 billion for community lenders"
 excerpt: "The $1.2 billion Rapid Recovery Program announced by Vice President Kamala Harris will help enable community financial institutions loan money to small businesses, primarily in minority communities. The effort is part of a larger $12 billion in funding for community and minority financial institutions passed as part of COVID-19 relief in December."
-publishedDateTime: 2021-06-15T18:45:00Z
-originalUrl: "https://www.cbsnews.com/video/kamala-harris-rapid-recovery-program-for-community-lenders/"
-webUrl: "https://www.cbsnews.com/video/kamala-harris-rapid-recovery-program-for-community-lenders/"
+publishedDateTime: 2021-06-15T18:21:00Z
+originalUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-announces-12-billion-for-community-lenders/"
+webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-announces-12-billion-for-community-lenders/"
 type: article
 quality: 104
 heat: -1
@@ -789,14 +789,14 @@ related:
   - title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
     excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-06-15T19:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/40f41772693764fa3ce75c19df2d9049/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3ec31fa177ec9babd24e4b98f17c29dd/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/40f41772693764fa3ce75c19df2d9049/HARRIS-RECOVERY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/3ec31fa177ec9babd24e4b98f17c29dd/HARRIS-RECOVERY.jpg"
         width: 650
         height: 433
         isCached: true
@@ -908,6 +908,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "T5bOQX4qpjn340hj0wUFK4vXHmwSbfbthvp9qYbNBXX+6k4Uc7P6niVY88aFdmm94gsBDrkfIMeDYf+tX/cErLLLauugXo2jJ7w4DKFBkk6o7iZR1paPa/myMejhYccqpnw4ToLpQgOuMZHKtigHmRUir0x3LzoVYEsX1jNxGp/ofu54sabJVIHoe0LA3Li0slhH4DEeW1LwuoUZ4BUGpYVFY6PAH8wYvIeZEJKivTPquwcfXzVO6qg3RsrLHjOY2ued6HR32dCUk2+YTAlnQdvjea86W/WPD5hyci1w9Mw9YrjQwcmX7xFGffBjBuHwX2VOJAxtuYO+CyTaz0ShMa71/enW3RVO6L9031IPznC1v/q9IIHEsfcQOT8VHeXst6jjz7lobAb4ApzIPKq2OlDA4XqjgG2okMA0trf6v7Iun+FU28EqcgltAmq6jDAT3Qfsw+rXMvm+W5tnhh3JhNjRC03BpGaF49z4G9HVYd9y2P4Qva1yvhuzzciKFuoN6/yEeNAye4FrnscRpH1AYg==;CDasqMViZxoTU0JQhz5IdQ=="
+secured: "qJHctkm+T50PpP803at1489sITlnzlpNwNOfhnhz/nNjlqYGLE9Kv033TodGGuyP06pP4TTO51LjWI1kNwuTeucZrtHroGK1ild3n+SrNW0OyNGl5vDDqOq1XozB8yMCv8SDbUFU3t1iwhPvFqAQlYLmOgC+hA2fuoJ5w6iSxkS879r+r8cCsTtoRzSs9eBpDZ49o+uik/HVYdPth927oSACdXmFIAR1VQV1UJPAyeS5I9xiTOaAkL6so7lW/Os28OzfMUGXf8TO3zL/PRw4UkNiRiN+tJtiZSdiSX8Exje0s9NkqchugNDo93Lw+o59NobuPF0vUTsqmhUVI+3uECwzVtM0gyltjda2MTbomxY=;sQTF4XG7I4WkSi6udEHyoA=="
 ---
 

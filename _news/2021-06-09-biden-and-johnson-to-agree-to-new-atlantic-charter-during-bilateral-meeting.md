@@ -255,6 +255,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Putin Calls Meeting With Biden ‘Constructive’"
+    excerpt: "Mr. Putin told reporters Wednesday that there had been “no hostility” in his first meeting with Mr. Biden. Advertisement. Continue reading the main story"
+    publishedDateTime: 2021-06-16T20:27:00Z
+    webUrl: "https://www.nytimes.com/video/world/europe/100000007819054/putin-biden-meeting-press-conference.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/16/world/16biden-overseas-putin-analysis-sub/16biden-overseas-putin-analysis-sub-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "reW7Mwqr9z+L9B4ybRPWffnu3myXCLpGCrFpEGCfKm8PkvRVAnxZBkzp9HwvGSRprrOFdCFPB1MWHrkPMRXosL/Su605K+iJ5g6yInKUK19hgKKODkxhhxkqBLP6LB6YgIaOlKh5heSV3AdtZ0Kr6fU6ZG6R5bBKpvTuhNw+DliavzVbRIZpDkSMcFHgz7xfCsB4i1DPfF0lspsbFbpSlUTdmXP4Y0naFCs1lECGwoHOMNO6d3MKNRf6WeGdLYhQkTa1MGRE/ZYGx+6+HkCMYI9364tlCrXIMwOlj5fVrBwucjIAxdg9dSBBgb3YL7tic/9X6cIh1mAPRddmkb949xfb2KR/Bz3ZGZYb8wjOjH0=;iVR8mmF9bJ7gFJSSwV8qHQ=="
 ---

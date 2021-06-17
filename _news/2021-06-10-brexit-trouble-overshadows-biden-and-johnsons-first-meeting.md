@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/uk/joe-biden-boris-johnson-brexit-northern-ireland-intl/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -254,6 +254,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623757361841_ott_now_am_pride_month_210615_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Putin Calls Meeting With Biden ‘Constructive’"
+    excerpt: "Mr. Putin told reporters Wednesday that there had been “no hostility” in his first meeting with Mr. Biden. Advertisement. Continue reading the main story"
+    publishedDateTime: 2021-06-16T20:27:00Z
+    webUrl: "https://www.nytimes.com/video/world/europe/100000007819054/putin-biden-meeting-press-conference.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/16/world/16biden-overseas-putin-analysis-sub/16biden-overseas-putin-analysis-sub-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "Rx/osPFznyNyiL29fgW09k0z84Q9pJk14mSP2b3sVJmfBONt1JkT8JwQWcXOXhdUA0/O25rv0X9Ly4lNBCQuAFWUX0ZQzRoDQAeL/cO+3elU2NQpoGVLgHmyIy0tbrWE0tfBPbeB6mYaeaXKGFyHNtxlEepp5o9W/vAlsQMLH4C8/DwsoP4esKdaLScrM15wjoIRW92f5J/UnvD2DudpOmk9u9B3ZnnkqNhpMKYRBy5nm314SkVShHutJUV0lgeRHiot/si/Ar3mZPFbUTG2TNguc1tZmrOsAo6cqMfz+jQ+h5y2VOjU/C2Cbw4sXXGq3DvTb0ITR8kKFK51BCvbA+KOCWQ+W9+n7Vkbc0o68iE=;ExQMsdmAwZg8mk4z0VbH5g=="
