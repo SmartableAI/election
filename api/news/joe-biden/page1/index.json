@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-17-watch-live-biden-signs-law-creating-juneteenth-federal-holiday.md",
+      "title": "Watch live: Biden signs law creating Juneteenth federal holiday",
+      "excerpt": "A decades of lobbying and 155 years after the institution of slavery ended in the United States, President Joe Biden will sign a law Thursday making Juneteenth a federal holiday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/1281623940080/2021/1/fbebdb5aa0b93bf9075906f1225649f9/v1.5/Watch-live-Biden-signs-law-creating-Juneteenth-federal-holiday.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/",
+      "publishedDateTime": "2021-06-17T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-biden-mocked-for-again-using-prepared-list-of-reporters-after-geneva-summit-embarrassing.md",
       "title": "Biden mocked for again using prepared list of reporters after Geneva summit: 'Embarrassing'",
       "excerpt": "President Biden was mocked for \"saying the quiet part out loud\" on Wednesday when he admitted at the outset of his press conference in Geneva he would only be calling on reporters from a prepared list.",
@@ -631,7 +674,7 @@
       "originalUrl": "https://abcnews.go.com/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576",
       "featuredContent": null,
       "highlight": null,
-      "heat": 665,
+      "heat": 685,
       "tags": null,
       "images": [
         {
@@ -1512,58 +1555,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-joe-biden-once-said-god-save-the-queen-in-congress.md",
-      "title": "Joe Biden Once Said 'God Save the Queen' in Congress",
-      "excerpt": "Biden will meet the 95-year-old Queen Elizabeth II when he visits the U.K. for the G7 summit later this month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-once-said-god-save-queen-congress-1597170",
-      "originalUrl": "https://www.newsweek.com/joe-biden-once-said-god-save-queen-congress-1597170",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1812200/biden-speaks-commemoration-tulsa.jpg",
-          "width": 2539,
-          "height": 1670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-once-said-god-save-queen-congress-1597170?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-once-said-god-save-queen-congress-1597170?amp=1",
-      "publishedDateTime": "2021-06-03T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

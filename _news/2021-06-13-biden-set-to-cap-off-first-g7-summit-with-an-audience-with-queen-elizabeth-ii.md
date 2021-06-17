@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to sign bill making Juneteenth a federal holiday"
+    excerpt: "President Joe Biden is expected to sign a bill on Thursday establishing June 19 as Juneteenth National Independence Day, a US federal holiday commemorating the end of slavery in the United States.\n    \n"
+    publishedDateTime: 2021-06-17T16:46:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iKMKRnlZPkw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-juneteenth-bill-signing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-juneteenth-bill-signing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616203048-joe-biden-infrastructure-congress-deal-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President Biden on historic Putin summit: 'I did what I came to do'"
     excerpt: "President Joe Biden convenes the highest-stakes talks of his long career Wednesday when he joins Russia's Vladimir Putin for a summit, an encounter set to test his decades of experience on the world stage and lay down an early marker of his diplomatic skills.\n    \n"
     publishedDateTime: 2021-06-17T11:19:04Z

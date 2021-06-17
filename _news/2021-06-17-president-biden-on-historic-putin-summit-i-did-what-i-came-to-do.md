@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to sign bill making Juneteenth a federal holiday"
+    excerpt: "President Joe Biden is expected to sign a bill on Thursday establishing June 19 as Juneteenth National Independence Day, a US federal holiday commemorating the end of slavery in the United States.\n    \n"
+    publishedDateTime: 2021-06-17T16:46:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iKMKRnlZPkw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-juneteenth-bill-signing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-juneteenth-bill-signing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616203048-joe-biden-infrastructure-congress-deal-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to cap off first G7 summit with an audience with Queen Elizabeth II"
     excerpt: "When Joe Biden was preparing for his first audience with Britain's Queen Elizabeth II as a young senator, his mother -- an Irish American born with the surname Finnegan -- had a piece of advice.\n    \n"
     publishedDateTime: 2021-06-13T04:00:34Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timel
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to sign bill making Juneteenth a federal holiday"
+    excerpt: "President Joe Biden is expected to sign a bill on Thursday establishing June 19 as Juneteenth National Independence Day, a US federal holiday commemorating the end of slavery in the United States.\n    \n"
+    publishedDateTime: 2021-06-17T16:46:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iKMKRnlZPkw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-juneteenth-bill-signing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-juneteenth-bill-signing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616203048-joe-biden-infrastructure-congress-deal-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

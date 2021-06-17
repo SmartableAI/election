@@ -125,6 +125,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Putin praises summit result, calls Biden a tough negotiator"
+    excerpt: "Russian President Vladimir Putin has praised the outcome of his summit with U.S. President Joe Biden and called him an astute negotiator"
+    publishedDateTime: 2021-06-17T16:02:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_3217f5b3a69c49d2b024b5422df53c99_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden, Russia’s Vladimir Putin to meet next month for summit in Geneva"
     excerpt: "The two leaders’ scheduled meeting, set for June 16, is being tacked on to the end of Biden’s first international trip as president next month."
     publishedDateTime: 2021-05-25T14:22:00Z

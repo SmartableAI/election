@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "5 takeaways from Biden and Putin's summit"
+    excerpt: "President Joe Biden's meeting Wednesday with his Russian counterpart came after months of diplomatic wrangling over the details, days of preparation with reams of research and the elaborate construction of two separate lakeside venues for the leaders to appear afterward.\n    \n"
+    publishedDateTime: 2021-06-17T12:34:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VbsbwowQMTU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/takeaways-from-biden-and-putin-summit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/takeaways-from-biden-and-putin-summit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616134559-09-biden-presser-biden-putin-summit-0616-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The next three months could shape Biden's next three years in office"
     excerpt: "If things break his way, the president could close out the summer with domestic wins and an international boost. If not, he could find himself stymied at home, his foreign policy floundering."
     publishedDateTime: 2021-05-31T21:16:00Z

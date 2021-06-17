@@ -58,6 +58,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-17-watch-live-biden-signs-law-creating-juneteenth-federal-holiday.md",
+      "title": "Watch live: Biden signs law creating Juneteenth federal holiday",
+      "excerpt": "A decades of lobbying and 155 years after the institution of slavery ended in the United States, President Joe Biden will sign a law Thursday making Juneteenth a federal holiday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/1281623940080/2021/1/fbebdb5aa0b93bf9075906f1225649f9/v1.5/Watch-live-Biden-signs-law-creating-Juneteenth-federal-holiday.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/",
+      "publishedDateTime": "2021-06-17T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-how-obamacare-survived-trump-and-what-biden-is-doing-quicktake.md",
       "title": "How Obamacare Survived Trump and What Biden Is Doing: QuickTake",
       "excerpt": "The Supreme Court shut down the latest challenge in a 7-2 decision that denied Republican states’ challenge to the law’s constitutionality.",
@@ -1303,58 +1346,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-emails-show-trump-pressured-justice-dept-over-2020-election.md",
-      "title": "Emails show Trump pressured Justice Dept. over 2020 election",
-      "excerpt": "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his ter",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1440,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
-      "publishedDateTime": "2021-06-15T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

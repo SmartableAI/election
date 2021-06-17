@@ -223,6 +223,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Video shows Osama bin Laden's niece waving a flag saying 'Trump won' on a lake outside the Biden-Putin summit"
+    excerpt: "Osama bin Laden's niece Noor bin Laden waved the flag as Joe Biden and Vladimir Putin met in Geneva."
+    publishedDateTime: 2021-06-17T11:37:00Z
+    webUrl: "https://www.businessinsider.com/noor-bin-ladin-trump-flag-outside-biden-putin-summit-video-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/noor-bin-ladin-trump-flag-outside-biden-putin-summit-video-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/noor-bin-ladin-trump-flag-outside-biden-putin-summit-video-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/60cb124f20bd1300181c6c10?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "President Joe Biden arrives in Geneva ahead of meeting with Russia’s Vladimir Putin"
     excerpt: "President Biden plans to confront Vladimir Putin on everything from Moscow’s cyberattacks to its election interference efforts and human rights abuses."
     publishedDateTime: 2021-06-15T18:41:00Z

@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Putin praises summit result, calls Biden a tough negotiator"
+    excerpt: "Russian President Vladimir Putin has praised the outcome of his summit with U.S. President Joe Biden and called him an astute negotiator"
+    publishedDateTime: 2021-06-17T16:02:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_3217f5b3a69c49d2b024b5422df53c99_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Buoyed by allied summits, Biden ready to take on Putin"
     excerpt: "Fresh from supportive summits with allies, Joe Biden is declaring himself ready to take on Russia’s Vladimir Putin in far more confrontational talks"
     publishedDateTime: 2021-06-15T22:09:00Z

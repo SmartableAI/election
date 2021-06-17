@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/25/politics/biden-putin-summit-genev
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-putin-summit-geneva/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616072605-biden-putin-handshake-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "5 takeaways from Biden and Putin's summit"
+    excerpt: "President Joe Biden's meeting Wednesday with his Russian counterpart came after months of diplomatic wrangling over the details, days of preparation with reams of research and the elaborate construction of two separate lakeside venues for the leaders to appear afterward.\n    \n"
+    publishedDateTime: 2021-06-17T12:34:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VbsbwowQMTU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/takeaways-from-biden-and-putin-summit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/takeaways-from-biden-and-putin-summit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616134559-09-biden-presser-biden-putin-summit-0616-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/white-house-biden-to-meet-pu
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSX6YWWMGYI6XIREXVM32IQZPQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Putin praises summit result, calls Biden a tough negotiator"
+    excerpt: "Russian President Vladimir Putin has praised the outcome of his summit with U.S. President Joe Biden and called him an astute negotiator"
+    publishedDateTime: 2021-06-17T16:02:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_3217f5b3a69c49d2b024b5422df53c99_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Buoyed by allied summits, Biden ready to take on Putin"
     excerpt: "Fresh from supportive summits with allies, Joe Biden is declaring himself ready to take on Russia’s Vladimir Putin in far more confrontational talks"

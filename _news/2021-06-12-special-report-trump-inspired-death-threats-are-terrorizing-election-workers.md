@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump tells Fox News he ‘didn’t win’ election but doesn’t drop fraud lie"
+    excerpt: "Ex-president says ‘We got 75m votes and we didn’t win but let’s see what happens’ seven months after election called"
+    publishedDateTime: 2021-06-17T16:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/17/donald-trump-fox-news-sean-hannity-didnt-win-election-joe-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/17/donald-trump-fox-news-sean-hannity-didnt-win-election-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/17/donald-trump-fox-news-sean-hannity-didnt-win-election-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/715077472e9e0250f92132145ca3966b37e1c42c/0_124_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3024d17c8e26b158ac96547a700ecb7b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "US election officials still plagued by threats for certifying Trump defeat"
     excerpt: "A barrage of death threats against officials and volunteers from ex-president’s supporters could make recruiting poll workers harder"
     publishedDateTime: 2021-06-14T15:39:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/d73964ad17680ad1151e6c230004ac94a9277465/0_4_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dfcb1b506255a68725b213b5dfaf32fe"
         width: 600
         height: 360
+        isCached: true
+  - title: "Power Up: Trump's DOJ emails show relentless pursuit to overturn 2020 election"
+    excerpt: "New documents further illuminate just how far Trump and his allies pushed the Justice Department “to the brink of crisis.\""
+    publishedDateTime: 2021-06-17T14:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/17/power-up-trump-doj-emails-show-relentless-pursuit-overturn-2020-election/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/17/power-up-trump-doj-emails-show-relentless-pursuit-overturn-2020-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/17/power-up-trump-doj-emails-show-relentless-pursuit-overturn-2020-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 136
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XBCVXKEY5MI6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Brad Raffensperger Bemoans Ongoing Threats to Election Workers Over Trump Claims"
     excerpt: "Georgia Secretary of State Brad Raffensperger has called on elected officials to take action on threats against election officials because of \"continuing\" false claims about the 2020 presidential election."
@@ -270,6 +302,22 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_011221getty.jpg"
         width: 980
         height: 580
+        isCached: true
+  - title: "Man pleads guilty to shooting Black girl at Iowa Trump rally"
+    excerpt: "A supporter of former President Donald Trump has pleaded guilty to two felonies for firing his handgun into a carful of Black girls who were arguing with pro-Trump agitators near the Iowa Capitol last"
+    publishedDateTime: 2021-06-17T16:37:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/man-pleads-guilty-shooting-black-girl-iowa-trump-78337822"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/man-pleads-guilty-shooting-black-girl-iowa-trump-78337822"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/man-pleads-guilty-shooting-black-girl-iowa-trump-78337822"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_f0db61debaab401b9ea41f1d6fbe4a15_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "US ends Trump-era asylum rules for immigrants fleeing violence"
     excerpt: "Advocates celebrated the move, which could facilitate those facing domestic or gang violence to be granted humanitarian protection"
@@ -544,15 +592,15 @@ related:
         isCached: true
   - title: "U.S. reverses Trump era asylum restrictions"
     excerpt: "Watch \"U.S. reverses Trump era asylum restrictions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-06-17T14:10:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210617141013-u-s-reverses-trump-era-asylum-restrictions/"
+    publishedDateTime: 2021-06-17T16:45:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210617164501-u-s-reverses-trump-era-asylum-restrictions/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/17/story_10873672_1623939123.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/17/story_10877595_1623948424.jpg"
         width: 1280
         height: 720
         isCached: true

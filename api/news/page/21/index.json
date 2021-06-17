@@ -2,6 +2,62 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-05-07-not-who-we-are-as-a-country-elise-stefanik-once-harshly-blasted-trumps-rhetoric-and-policies.md",
+      "title": "'Not who we are as a country': Elise Stefanik once harshly blasted Trump's rhetoric and policies",
+      "excerpt": "New York Rep. Elise Stefanik, one of former President Donald Trump's loudest defenders in Congress, once harshly attacked Trump over both his rhetoric and policies, claiming that she'd be an \"independent voice.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ywu_Dp7PWA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ywu_Dp7PWA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210505140659-05-rep-elise-stefanik-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/07/politics/kfile-elise-stefanik-trump-comments/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/kfile-elise-stefanik-trump-comments/index.html",
+      "publishedDateTime": "2021-05-07T04:47:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-sara-carter-exclusive-biden-border-policies-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland.md",
       "title": "Sara Carter exclusive: Biden border policies fueling sprawling cartel-linked pot-growing operations far inland",
       "excerpt": "In a special “Hannity” investigation, investigative journalist Sara Carter traveled to the Antelope Valley around Lancaster, Calif., where – hundreds of miles away from the Mexican border – the Biden border crisis is starkly affecting everyday Americans as cartel-linked marijuana growing operations have",
@@ -1314,53 +1370,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-texas-house-candidate-susan-wright-spotlights-late-husbands-legacy-trumps-support-in-runoff.md",
-      "title": "Texas House candidate Susan Wright spotlights late husband's legacy, Trump's support, in runoff",
-      "excerpt": "Susan Wright says her late husband always took his constituents' concerns to Washington and “that’s the legacy I want to continue.” Rep. Ron Wright died from COVID-19 in February and his widow, a longtime GOP activist, came in first in a field of 23 candidates this past weekend in a special election",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VigjYkm43L4/texas-house-runoff-susan-wright-husband-legacy-trump-support",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VigjYkm43L4/texas-house-runoff-susan-wright-husband-legacy-trump-support",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 143,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T12:19:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
