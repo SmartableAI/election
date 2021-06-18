@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tucker Carlson: How Did Kamala Harris Wind Up Effectively In Charge Of The United States?"
-    excerpt: "Two years ago, during the Democratic presidential primaries, Kamala Harris appeared on CNN to explain where she stood in the race. At that moment, Harris had just been memorably humiliated by Tulsi Gabbard of Hawaii during a televised debate,"
-    publishedDateTime: 2021-06-09T08:56:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/09/tucker_carlson_how_did_kamala_harris_wind_up_effectively_in_charge_of_the_united_states.amp.html"
+  - title: "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report"
+    excerpt: "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region."
+    publishedDateTime: 2021-06-18T10:09:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 76
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
     images:
-      - url: "https://assets.realclear.com/images/54/545273.jpg"
-        width: 1162
-        height: 870
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86642280-7e76-4629-89c6-1176b5be4f98/6ea2cf6f-4d47-4e3c-8420-f9e6eaf3a19e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "Rob3Nkqlco6BHKwSldU639aw85MWzel3VVvryHHRl+bCf5qOx9wrS5QPvF+Yjd2jdPCVlGJmWh7PSyLS5uZ7A+uTjwmEPq0o8rNFNUT1FFstxJxWDv2Y+ncVpGi6WzlbwCMF8nR20m03MhGZ+j5hvfxE5eOhnZ9XWAkXNmokvRKw7iUp+Ouf3e37VAWzVTkyEgCGAdvS4U1LRXNjhelvCdzeFkD53zRAPJMqqa7mT6MObzt7nuhybPKCOM69kQj08UZsjEqXEy9FF2ytV87YOqBWwl5/S4lEdR9yM1LdTMOZHV1crYKMKEWaF/oCmbMd4dkx1DV85MQKIXWeIf0HfQqjuVwukYjZayVJHpLueJgG6tgg8DzC+scQewr+U1rI8S0mD/siN7cb7whMsZ7BmNzUkrlVdnk/UhkcNbtqiDXNAICnzk0YYI6qt6qN7ObqUCs4+6baaoGISGS9QM+KqHVch7lxRLr1JYesdkf3WE+slRpRYM4rUY883VckaJpoStJdIsZwlr5hTGpy8CUnog==;QObPtBTO+GCN0taJmxgjQA=="

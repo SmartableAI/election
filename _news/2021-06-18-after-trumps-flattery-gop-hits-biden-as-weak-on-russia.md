@@ -1,28 +1,34 @@
 ---
 category: news
-title: "After Trump's Flattery, GOP Hits Biden as Weak on Russia"
-excerpt: "Republicans are criticizing President Joe Biden, accusing him of being weak on Russia after his summit with Vladimir Putin."
-publishedDateTime: 2021-06-17T18:28:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia?context=amp"
+title: "After Trump's flattery, GOP hits Biden as weak on Russia"
+excerpt: "Republicans are criticizing President Joe Biden, accusing him of being weak on Russia after his summit with Vladimir Putin"
+publishedDateTime: 2021-06-17T18:29:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
 type: article
-quality: 70
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_23c164ab56a64884a7ca9d3fa7ed95b2_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "British elections send a message to Trump, GOP and Biden’s Democrats"
@@ -989,6 +995,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "e46Jxf1X2o9IxLAdP8IWQQcO+jpHLcH2fu4n+7QzNULfFXowX8ohh/o7/3iNZy/BOHwzBjOAHoJ33EEeTh6w2MQkKLi7CZ67tEkdAzlDL1QPjDR2m4Wd4npdGB6Lv+q77Xk1yaD1iQmv0wI2+EPtc/tQPyaGqiU74Kmf84J0nh/yONMK0Mq9pZeH0VqAwt4KC2YQMBLEgb0TYxJLjLhXuiOgNn9spg716dFUzuGEbHzcVo027B/F+oI0kAP5v/i6NvGz0clJ1XKzP6RL1zBy4R1CZHiFf1dRL6GBW6YaI4qZyljHYmHazlJiZGgNeAtbXB2hfuMkuagMPoQFM8PczbP3fDkUIMyH9ZeMiyLA4wGdl1PqWdMCSalt746+tceJjaZANGbZCYKWXwEG4XzjoHyQrgbrRojTiSUaivfnUpM2HbwMCezoF9VFNWOyAbIhE/E9DeEyR97RMnTxEibcag06P+nH1mqGQi5/il543/FEl4r0XavJLOMhudIC0tnxfFex3iWrw9ptkRBTTyEbMQ==;dSwqocKoyXZbq+LMKu6o9w=="
+secured: "jbDtp8Lwc1CJ9BB4qHouzvA8bzopluzl+WeD52QxbZjxatvygSimkdQYcwuUIVnbJYP6QKbQPcAn7gQgO9dCk6xveaLeKLK1WULxRyXiNwQahe3ycTMPLi9hj67f2V9Y7Vsu9VoDkYooXzVRJ4zlQnR/ldMeyVD9U/MajzWSxEyZnka6fZVV40ZyMWuyhw+GmL6ywmp9ux0or0lOpqwcMJeaywPl+DiOcHPWZfcOcPMQA/Lqhao47S6or5EBLcs80YV/po7qQzDvBK0DwW8qdEBFt0Rkx+rEO89aaKlcsbWw56kYWNVWuq72/4o66uv7jESFbFEmnAe9BC0iarVYiNetYMae+Y7WRJ0uP4pAGe8=;9hJzMUV5Drotkce/M831vA=="
 ---
 

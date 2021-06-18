@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-18-gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.md",
+      "title": "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report",
+      "excerpt": "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86642280-7e76-4629-89c6-1176b5be4f98/6ea2cf6f-4d47-4e3c-8420-f9e6eaf3a19e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp",
+      "publishedDateTime": "2021-06-18T03:09:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-harris-lays-out-voting-rights-strategy-as-she-meets-with-texas-lawmakers.md",
       "title": "Harris lays out voting rights strategy as she meets with Texas lawmakers",
       "excerpt": "Vice President Kamala Harris said on Wednesday that all American citizens should have the unequivocal right to vote during a high-profile meeting with nearly two dozen Democratic Texas state legislators who succeeded in killing a Republican election overhaul bill last month.\n    \n",
@@ -281,7 +338,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1350,
+      "heat": 1410,
       "tags": null,
       "images": [
         {
@@ -452,7 +509,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 96,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1563,63 +1620,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-harris-headlines-unity-summit-for-aapi-community.md",
-      "title": "Harris headlines unity summit for AAPI community",
-      "excerpt": "Vice President Kamala Harris will serve as the keynote speaker for a virtual unity summit for Asian Americans and Pacific Islanders this week, her latest outreach to a community that has faced a wave of racially motivated crimes during the pandemic and is growing as a voting bloc.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7-wnMIXHIqU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7-wnMIXHIqU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210427164345-01-kamala-harris-file-0422-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summit/index.html",
-      "publishedDateTime": "2021-05-17T05:35:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Kamala Harris"
       ]
     }

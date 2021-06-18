@@ -103,6 +103,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "After Trump's flattery, GOP hits Biden as weak on Russia"
+    excerpt: "Republicans are criticizing President Joe Biden, accusing him of being weak on Russia after his summit with Vladimir Putin"
+    publishedDateTime: 2021-06-17T18:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_23c164ab56a64884a7ca9d3fa7ed95b2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden rescinds Trump-era health insurance requirement for new immigrants"
     excerpt: "U.S. President Joe Biden on Friday revoked a 2019 proclamation by former President Donald Trump that sought to bar the entry of immigrants who could not prove they had health insurance or could cover healthcare costs."
     publishedDateTime: 2021-05-14T22:14:00Z
@@ -897,17 +913,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "After Trump's Flattery, GOP Hits Biden as Weak on Russia"
-    excerpt: "Republicans are criticizing President Joe Biden, accusing him of being weak on Russia after his summit with Vladimir Putin."
-    publishedDateTime: 2021-06-17T18:28:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
     excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"
     publishedDateTime: 2021-05-04T21:37:00Z

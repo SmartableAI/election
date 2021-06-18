@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-18-gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.md",
+      "title": "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report",
+      "excerpt": "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86642280-7e76-4629-89c6-1176b5be4f98/6ea2cf6f-4d47-4e3c-8420-f9e6eaf3a19e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp",
+      "publishedDateTime": "2021-06-18T03:09:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-bidens-off-limits-list-for-russian-cyberattacks-criticized-as-green-light-to-target-everything-else.md",
       "title": "Biden's 'off-limits' list for Russian cyberattacks criticized as 'green light' to target everything else",
       "excerpt": "President Biden's list of 16 key infrastructure entities that are “off-limits” to Russian cyberattacks has effectively given the Russians a green light to target everything not on that list without facing serious repercussions, national security experts and senior Republicans tell Fox News.",
@@ -1595,62 +1652,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-doj-sought-account-information-of-top-trump-white-house-lawyer-report.md",
-      "title": "DOJ sought account information of top Trump White House lawyer: report",
-      "excerpt": "Apple informed former Trump administration White House counsel Don McGahn that the Justice Department subpoenaed information about an email account of his in 2018, and forbade Apple from letting him know, according to a New York Times report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PvOaIbRau2c/doj-sought-account-information-top-trump-white-house-lawyer-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PvOaIbRau2c/doj-sought-account-information-top-trump-white-house-lawyer-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp",
-      "publishedDateTime": "2021-06-13T11:12:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "After Trump's flattery, GOP hits Biden as weak on Russia"
+    excerpt: "Republicans are criticizing President Joe Biden, accusing him of being weak on Russia after his summit with Vladimir Putin"
+    publishedDateTime: 2021-06-17T18:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_23c164ab56a64884a7ca9d3fa7ed95b2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden: Trump administration ‘didn’t do a damn thing’ on infrastructure – live"
     excerpt: "The future will be built right here in America.” The president said that he expects to hear more details about the Republican counterproposal on infrastructure either today or tomorrow. Biden has previously indicated he is willing to move forward on parts of his infrastructure plan with or without Republican support."
     publishedDateTime: 2021-05-18T18:17:00Z
@@ -889,17 +905,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "After Trump's Flattery, GOP Hits Biden as Weak on Russia"
-    excerpt: "Republicans are criticizing President Joe Biden, accusing him of being weak on Russia after his summit with Vladimir Putin."
-    publishedDateTime: 2021-06-17T18:28:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
     excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"
     publishedDateTime: 2021-05-04T21:37:00Z

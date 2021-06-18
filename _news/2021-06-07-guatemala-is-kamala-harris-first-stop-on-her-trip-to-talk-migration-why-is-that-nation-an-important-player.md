@@ -500,6 +500,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Vice President Kamala Harris takes voting rights fight on the road"
+    excerpt: "Vice President Kamala Harris met with Texas state legislators to push for the passage of voting rights legislation on Capitol Hill."
+    publishedDateTime: 2021-06-17T15:53:00Z
+    webUrl: "https://thegrio.com/2021/06/17/vice-president-kamala-harris-voting-rights-texas/"
+    ampWebUrl: "https://thegrio.com/2021/06/17/vice-president-kamala-harris-voting-rights-texas/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/06/17/vice-president-kamala-harris-voting-rights-texas/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 75
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/06/GettyImages-1233487741-scaled-e1623943792521.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris unveils $1.25B COVID-19 relief program for small businesses"
     excerpt: "The Biden administration announced $1.25 billion in federal COVID-19 relief funds for hundreds of community development lenders in an effort to boost local economies and small businesses struggling amid the pandemic."
     publishedDateTime: 2021-06-16T04:48:00Z
@@ -804,17 +820,28 @@ related:
         width: 360
         height: 360
         isCached: true
+  - title: "Kamala Harris Launches Bid to Boost Voting Rights Across U.S."
+    excerpt: "U.S. Vice President Kamala Harris on Wednesday will promote Biden administration efforts to advance voting rights when she meets fellow Democrats from the Texas state legislature who successfully blocked a bill they said would make it harder for Blacks and Hispanics to vote."
+    publishedDateTime: 2021-06-16T13:40:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-16/kamala-harris-launches-bid-to-boost-voting-rights-across-us"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-06-16/kamala-harris-launches-bid-to-boost-voting-rights-across-us?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-06-16/kamala-harris-launches-bid-to-boost-voting-rights-across-us?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
-    excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
+    excerpt: "Lisa Mensah, President and CEO, Opportunity Finance Network speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-06-15T19:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9f94fb3645d1f08c63c8b800019348ce/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e0a0a0c941155fa7cf5a40361f407bc8/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9f94fb3645d1f08c63c8b800019348ce/HARRIS-RECOVERY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/e0a0a0c941155fa7cf5a40361f407bc8/HARRIS-RECOVERY.jpg"
         width: 650
         height: 433
         isCached: true
@@ -916,6 +943,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris to visit Pittsburgh next week"
+    excerpt: "Vice President Kamala Harris plans to travel to Pittsburgh on Monday, White House officials announced. Harris will be joined during her visit to Western Pennsylvania by U.S. Labor Secretary Marty Walsh,"
+    publishedDateTime: 2021-06-17T15:51:00Z
+    webUrl: "https://triblive.com/local/vice-president-kamala-harris-to-visit-pittsburgh-next-week/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
 
 secured: "AtDnweFLJPwzDyNXkGJZ0YUUZzuZ7cIisgxhBwVt1STHjaAMnN1LWDjPfQQUSiDdy0x4Hp9lC02a+GwpeQ17xL1L57nYooQvus9tVIL40f5Dtcf7Ez6GITK2NPHloBHz7cHpaMO4C4bpykfddASNedyoomLG0x18CqPPfp/0OWuAqz61pYBSiXoDa7siThVBDA9zOv0f1Qq5PhuiSZCygMdhmcQ1MVdnoKBcXqsKBMua6SfnbNE4gQnbzWGaXfI3xyVnmGMOI7s+vEtfYNRlunqmjS9IBhB+dKwFPoqMgbzbTeuyAHXea9YinXJE/zJc0Fq+Ac26XSGiPWVeIgqU3JyTI3eJM4TXGEKkPLp8/WjVgLuxqznEN/DW0rWwhnYA2tmgzBFSUwHW2L9uGLAfJ1TV5CfdhQWSfvchNr9s8MTMEjVOqIfwuguj2pRzkJFP+00ERreOyWqdDTVHlJSKzBodlZCemMSdlv8LG9cBno6qybWjlzD3Jwe82G4qySnMQjgMYa1pgwJrbJ9TKLs9tQ==;kV00w+ypXZd7hv4vmm2sPQ=="
 ---

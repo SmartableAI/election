@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The absurd whitewashing of Trump's record reaches dangerous level"
+    excerpt: "The Republican Party has turned to another page in the authoritarian playbook as it whitewashes the history of Donald Trump's presidency.\n    \n"
+    publishedDateTime: 2021-06-18T10:29:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xu4j-cdwGY4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/18/politics/republicans-trump-january-6-whitewashing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/18/politics/republicans-trump-january-6-whitewashing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608191019-trump-0605-greenville-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House Democrats release former Trump White House Counsel Don McGahn's testimony "
     excerpt: "The House Judiciary Committee has released the transcript of its June 4 interview with Trump White House Counsel Don McGahn, the culmination of a two-year court fight Democrats waged against the Trump administration.\n    \n"
     publishedDateTime: 2021-06-09T21:47:29Z

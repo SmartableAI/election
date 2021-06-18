@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
-excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
+excerpt: "Lisa Mensah, President and CEO, Opportunity Finance Network speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
 publishedDateTime: 2021-06-15T19:21:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/9f94fb3645d1f08c63c8b800019348ce/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/9f94fb3645d1f08c63c8b800019348ce/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/e0a0a0c941155fa7cf5a40361f407bc8/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/e0a0a0c941155fa7cf5a40361f407bc8/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/9f94fb3645d1f08c63c8b800019348ce/HARRIS-RECOVERY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/e0a0a0c941155fa7cf5a40361f407bc8/HARRIS-RECOVERY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -506,6 +506,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Vice President Kamala Harris takes voting rights fight on the road"
+    excerpt: "Vice President Kamala Harris met with Texas state legislators to push for the passage of voting rights legislation on Capitol Hill."
+    publishedDateTime: 2021-06-17T15:53:00Z
+    webUrl: "https://thegrio.com/2021/06/17/vice-president-kamala-harris-voting-rights-texas/"
+    ampWebUrl: "https://thegrio.com/2021/06/17/vice-president-kamala-harris-voting-rights-texas/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/06/17/vice-president-kamala-harris-voting-rights-texas/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 75
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/06/GettyImages-1233487741-scaled-e1623943792521.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris unveils $1.25B COVID-19 relief program for small businesses"
     excerpt: "The Biden administration announced $1.25 billion in federal COVID-19 relief funds for hundreds of community development lenders in an effort to boost local economies and small businesses struggling amid the pandemic."
     publishedDateTime: 2021-06-16T04:48:00Z
@@ -810,6 +826,17 @@ related:
         width: 360
         height: 360
         isCached: true
+  - title: "Kamala Harris Launches Bid to Boost Voting Rights Across U.S."
+    excerpt: "U.S. Vice President Kamala Harris on Wednesday will promote Biden administration efforts to advance voting rights when she meets fellow Democrats from the Texas state legislature who successfully blocked a bill they said would make it harder for Blacks and Hispanics to vote."
+    publishedDateTime: 2021-06-16T13:40:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-16/kamala-harris-launches-bid-to-boost-voting-rights-across-us"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-06-16/kamala-harris-launches-bid-to-boost-voting-rights-across-us?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-06-16/kamala-harris-launches-bid-to-boost-voting-rights-across-us?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."
     publishedDateTime: 2021-05-13T20:39:00Z
@@ -908,6 +935,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris to visit Pittsburgh next week"
+    excerpt: "Vice President Kamala Harris plans to travel to Pittsburgh on Monday, White House officials announced. Harris will be joined during her visit to Western Pennsylvania by U.S. Labor Secretary Marty Walsh,"
+    publishedDateTime: 2021-06-17T15:51:00Z
+    webUrl: "https://triblive.com/local/vice-president-kamala-harris-to-visit-pittsburgh-next-week/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
   - title: "Guatemala is Kamala Harris' first stop on her trip to talk migration. Why is that nation an important player?"
     excerpt: "Vice President Kamala Harris has worked closely with Guatemala and Mexico to address the root causes of migration."
     publishedDateTime: 2021-06-07T12:34:00Z
@@ -918,6 +954,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "DO/lNANH5uzYM7sYD27ETzxB0IuSzAHlKWHfjYauxFXnL8PIFCqcsqPp76NYgRGxoejOsVTy56g73G8dql1+DVm6fFTQjRcnFcRJTl5tCftHWhorxdFiTGit4av4v5c4XYRzpD2KW41eDRiKuwxQPu/AF2FbiLEYMQaq6pJT+kb1rYj0i4d8tzAJ4ld2/7pbXui8y7oRFBAiM++O06S4Foa/hql3D9TXL3+LyNkTKbv/rAd9jGVRDyVBxkx7uUZkR692uK04ULckhJhHTtxUDRmPibHEjbhK5jPvZ8FYJ1GYCL/YsVq1LRWWgox8Dqq5EeKoJz3hXpOucnEevMw9pbZz/yjCuqrD0LoML5tjd44=;NbJf2JmhmhIU94AclLV8oQ=="
+secured: "T60eqzWoqPVbI1h6ZbfQp9k0iirNzc7zegRuB9J0dMr4tfm1S6m0lQXJqfalDaVANeu5Kih2Fh6dnWdUtsx1yjdjNqRlzYFadNb80AnkgIbH5Vk330DfuDpONtRRF3MACXoNwrxS2DEV9Db697OdoQpLGbVgLDFnFgHDy/LtlQ+hIGE+sA03bOqw4GDTa1tkA7ppWyowlu/P7CurUaxVaaWar3mYhrD80YKdX2kubgaEOt2fWCyEcVZUsPKXr0OOOKb6WEGxos2D79ar5odnDCJn6FUfXP15YQYeXM9H3nBsxjTvinmwdSkwSIEjsNgISE7aZAbv/M2SEcClZZDkhkbRyQdhg63/nwP+DUMCNO8=;bzPOOQHa1Cbpm3oeJ1jcYQ=="
 ---
 
