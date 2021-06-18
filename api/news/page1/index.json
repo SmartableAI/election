@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-19-covid-remains-a-serious-and-deadly-threat-for-unvaccinated-people-biden-says-live.md",
+      "title": "Covid ‘remains a serious and deadly threat’ for unvaccinated people, Biden says – live",
+      "excerpt": "President hails 300m vaccine doses administered since January – follow all the day’s politics news live",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccfa568f08f352987562eb",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccfa568f08f352987562eb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1b61ab0ae764aca3b6d30dbcfea2efae22b58381/0_298_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12492609694d9d44f20664bd1230817d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live",
+      "publishedDateTime": "2021-06-18T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-biden-says-the-us-will-not-enter-lockdown-despite-covid-delta-variant-threat.md",
       "title": "Biden says the US will not enter lockdown despite COVID delta variant threat",
       "excerpt": "President Biden on Friday said the United States will not enter another \"lockdown,\" despite the \"serious and deadly threat\" of the delta variant of COVID-19, while touting the 300 million COVID-19 shots administered to Americans in less than 150 days.",
@@ -55,58 +107,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-covid-remains-a-serious-and-deadly-threat-for-unvaccinated-people-biden-says-live.md",
-      "title": "Covid ‘remains a serious and deadly threat’ for unvaccinated people, Biden says – live",
-      "excerpt": "President hails 300m vaccine doses administered since January – follow all the day’s politics news live",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccea4d8f0812e6253f6bfb",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccea4d8f0812e6253f6bfb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1b61ab0ae764aca3b6d30dbcfea2efae22b58381/0_298_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12492609694d9d44f20664bd1230817d",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live",
-      "publishedDateTime": "2021-06-18T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -222,6 +222,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-19-biden-taps-ex-boies-partner-to-lead-doj-policy-office.md",
+      "title": "Biden taps ex-Boies partner to lead DOJ policy office",
+      "excerpt": "U.S. President Joe Biden on Friday tapped former Boies Schiller Flexner partner Hampton Dellinger to lead the Justice Department's policy office, which advises on nominations for federal judgeships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/legalindustry/biden-taps-ex-boies-partner-lead-doj-policy-office-2021-06-18/",
+      "originalUrl": "https://www.reuters.com/legal/legalindustry/biden-taps-ex-boies-partner-lead-doj-policy-office-2021-06-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/PYdSoR6bWMmYz0Xb8XEqaqhBGV0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R7LDXRGFFRND5IC6IDCWBKBDD4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-bidens-first-task-at-housing-agency-rebuilding-trump-depleted-ranks.md",
       "title": "Biden’s First Task at Housing Agency: Rebuilding Trump-Depleted Ranks",
       "excerpt": "An exodus of top-level officials during the previous administration has left the Department of Housing and Urban Development short of expertise even as its role expands.",
@@ -291,7 +343,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1008,19 +1060,19 @@
     {
       "path": "_news/2021-06-18-back-home-biden-has-daunting-to-do-list-after-european-tour.md",
       "title": "Back home: Biden has daunting to-do list after European tour",
-      "excerpt": "His overseas tour was meant to showcase the U.S. return to global leadership — a central pledge of Biden’s 2020 campaign for the White House – but he now faces a critical ju",
+      "excerpt": "President Joe Biden is facing a formidable to-do list now that he’s back from his summit-filled trip to Europe, with pressing legislative challenges, foreign policy follow-up and a need to steer the country’s reopening as the coronavirus threat recedes.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/back-home-biden-has-daunting-to-do-list-after-european-tour/2021/06/18/f09458a4-cfed-11eb-a224-bd59bd22197c_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/back-home-biden-has-daunting-to-do-list-after-european-tour/2021/06/18/f09458a4-cfed-11eb-a224-bd59bd22197c_story.html",
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/back-home-biden-daunting-list-european-tour-78351238",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/back-home-biden-daunting-list-european-tour-78351238",
       "featuredContent": null,
       "highlight": null,
       "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7UYC6PWPMEI6XIREXVM32IQZPQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://s.abcnews.com/images/Politics/WireAP_8e1d3b86a8d548a1b772e652b1504c02_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1028,16 +1080,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/back-home-biden-has-daunting-to-do-list-after-european-tour/2021/06/18/f09458a4-cfed-11eb-a224-bd59bd22197c_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/back-home-biden-has-daunting-to-do-list-after-european-tour/2021/06/18/f09458a4-cfed-11eb-a224-bd59bd22197c_story.html?outputType=amp",
-      "publishedDateTime": "2021-06-17T20:30:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/back-home-biden-daunting-list-european-tour-78351238",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/back-home-biden-daunting-list-european-tour-78351238",
+      "publishedDateTime": "2021-06-17T21:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1311,58 +1363,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-trump-is-gone-but-lingering-as-biden-vows-america-is-back-allies-wonder-for-how-long.md",
-      "title": "‘Trump is gone,’ but lingering: As Biden vows ‘America is back,’ allies wonder for how long",
-      "excerpt": "For all of Biden's attempts to reassure partners shaken by Trump, some allies have lingering doubts about the forces that produced Trump's election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/in-depth/news/world/2021/06/17/trump-gone-but-biden-europe-trip-brings-up-allies-lingering-worry/7699719002/",
-      "originalUrl": "https://www.usatoday.com/in-depth/news/world/2021/06/17/trump-gone-but-biden-europe-trip-brings-up-allies-lingering-worry/7699719002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/16/USAT/8c027dcc-7eb1-43ff-a8cc-ce4255bab4be-AP_Switzerland_Biden_Putin.jpg?auto=webp&crop=3096,1742,x1,y1332&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7699719002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7699719002",
-      "publishedDateTime": "2021-06-17T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

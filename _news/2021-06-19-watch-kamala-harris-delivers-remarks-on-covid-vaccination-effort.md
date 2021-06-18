@@ -916,6 +916,20 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
+  - title: "Vice President Kamala Harris takes COVID-19 vaccination push to Georgia"
+    excerpt: "ATLANTA - Vice President Kamala Harris brought the Biden administration’s “Month of Action” campaign for COVID-19 vaccinations to Atlanta Friday."
+    publishedDateTime: 2021-06-18T21:06:00Z
+    webUrl: "https://www.northwestgeorgianews.com/rome/news/local/vice-president-kamala-harris-takes-covid-19-vaccination-push-to-georgia/article_104b46d6-d079-11eb-affb-43fc9dd541d4.html"
+    type: article
+    provider:
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/e/94/e943c41b-e31d-5c3c-b9c5-016ee1b66062/6091884bcf3c4.image.jpg?resize=970%2C630"
+        width: 970
+        height: 630
+        isCached: true
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."
     publishedDateTime: 2021-05-13T20:39:00Z
@@ -1033,6 +1047,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "pPK2Jkaxami0iSxPKPby+sA49EvF91j9FtTRzY2+MlzguZMGbtlhzbRoG5dR5vM8mMMSj/o4J3x840DSsw2OX0TdPtzujX4bQX6JZ5LSfthgGewubMWY8CWESyt09r3GGTPxiKFCtNARbmR1UcRnzEmP2dyoSUrjeuN6wAKGNTRu5jjXm+lW9Oo5vLTSCQkdBRFqLKSW7GUNpookk2yOZc0DgoOBeZeIS1NO6JK3rJZk1gU+O2pBnOawJ9E8seYt4WnU1HxGn+22fcVawLU5Iw3VSzEih0eoqBIQWO+vmd/i/Dp9WIM404E0kNK7SsCFbfdKJ/MtVSdif8P9ustpSjeVCtpoOv7iRv+IiN3DdY4=;Rl4NdJhoVcGpolhYQg4J3g=="
+secured: "bZ9EQ/Lt8dYRg5L3y3CZV2fC/VxNfionoh1oX/J+NR8gpwKln0AKsMxBN16uoXFVKN+Vvm/HJItYKwQf623SINAGMrumNXNMYq0dCZYtLPOM1wUBr6ATEUfxZw0aMXEahMUIPSCf5XwRCtY36Wp7UZMznNxR8tc57FpBEvxhNLw3J3ZEU3v6AYR2vS61W0Wz2wn1vynZ0+pXQ5iQsrR6dyLhQOTaHWqwhds9JA+qgoA+Kd3nlxSyO9E02nzFg/McWv+uO4+fUTRxnA9262vFeie6AACKUobEw63AznWE5JrpDTbdvxuNHMcn4bF62YwM3dwklgdo/LTXKmkcBaH28baPypSeElU57uOsUDzLcx6ju0OtIktCtQ6b+9BfAhgbpyt8+TmjUCa3DkTP5I6bpEBaPPa7RGKlfO57KIsGO7oxG3BJweYinkvMdlLwxzqFqki/jeg2+/OIrLVTLFeo0CE45EbA90BmFDS0CiTCQ1sNOHQuX0sOXR2qerQCZqZpOYN+DIBR86LMAm3QPM+lNw==;7EXN2sIoARAhwZromQxh5Q=="
 ---
 

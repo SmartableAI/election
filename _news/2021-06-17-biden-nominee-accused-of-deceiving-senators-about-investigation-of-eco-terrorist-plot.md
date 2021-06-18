@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden doubts bishops will try to prevent officials backing abortion rights policies from receiving communion"
+    excerpt: "President Biden on Friday reacted to efforts of U.S. Catholic bishops to prevent him and other politicians who support abortion policies from receiving Communion at Mass, calling it a \"private matter,\" and telling reporters he does not think \"that's going to happen.\""
+    publishedDateTime: 2021-06-18T20:30:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QmBH642IicM/biden-says-he-does-not-believe-catholic-church-will-ban-abortion-supporters-from-receiving-communion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-he-does-not-believe-catholic-church-will-ban-abortion-supporters-from-receiving-communion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-he-does-not-believe-catholic-church-will-ban-abortion-supporters-from-receiving-communion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "kjLZPXbjkMezCgQTuFNv+C2ccfej87A00ry1j4JXmUiECpaoAD+Go/WatoHTjiDF2kVQFdnrGHjDeir23+sEoQE6+zgJuw3GF9lUi/AOeEcyjsuur86pOw3PtINWA2d2fzCD4dNKjgPWALe+w2hYDhxyzNAMZf+2bcVUjeYnR4uZ6w5cHJsHpqxdByohfNWq7h00wKj5RDQPfmUU7qZwQuG6WCvC/bhBz1VG0bzT9WPuH0KFsh2EFOja0LFeBnX3NAnfE8vLl2EmbbqLOnCHHcTZDPIApy5iE4gXScAGGykDyKEHdrBr9bT/wFGsOVlCXcA0GIRbev6T2ZsAv7JFmBpTtHWnappxwoKiMpxQS/w=;vfMcgLBDoSjWfr5pSrGsig=="
 ---

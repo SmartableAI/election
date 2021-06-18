@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/18/politics/trump-endorses-kelly-tsh
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/18/politics/trump-endorses-kelly-tshibaka-lisa-murkowski/index.html"
 type: article
 quality: 171
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Trump endorses Kelly Tshibaka, Murkowski’s challenger in Alaska’s Senate race."
+    excerpt: "Donald J. Trump has been following the race closely, his advisers said, hoping to unseat Senator Lisa Murkowski after she voted to convict him in his second impeachment trial."
+    publishedDateTime: 2021-06-18T15:50:00Z
+    webUrl: "https://www.nytimes.com/2021/06/18/us/politics/trump-kelly-tshibaka-murkowski.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/18/us/politics/trump-kelly-tshibaka-murkowski.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/18/us/politics/trump-kelly-tshibaka-murkowski.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/18/us/18new-washington-briefing-trump/18new-washington-briefing-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "UyGRyeHL8HwJTkMbPVPLKqcSrtkh/2R5gjhFAzOxhCoDG82Atr4BM3F7xGzvg6FuOQiTWj5wvPShVXNpojOb30PFeWk9C71oZ5gb5K6GhOlzAzZGOE9RbjE5WgPNfQJLME6mCZcqcNMshoQW3Y6wwNUMgELgkizfm6ifLGM4GwMPnn5RxjFeDi/RL17jtB9QySf8SOv1fv1U5H3dMI6inU3pBnN8dL9zh9VbR2LvYE75iI453hKnKMMQWW+OA6r8dCzuiD3E4u77V2DFnmu31MijuwHYCV534pkDBpzrPSUmeThKrWlgGE8JATBIdkISEMUuZWoTeu4iAPbubIRyM2eHqoIpEfJsLZzwa7r10+M=;vLMeZPsX+vh5jw3W1SUCHQ=="
 ---

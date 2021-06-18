@@ -175,6 +175,22 @@ related:
         width: 3889
         height: 3023
         isCached: true
+  - title: "Biden promotes milestone of 300 million vaccine shots in 150 days"
+    excerpt: "President Joe Biden took a cautious victory lap Friday in his quest to bring the COVID-19 pandemic under control, announcing that 300 million vaccine shots have been administered in the 150 days since he took office."
+    publishedDateTime: 2021-06-18T21:25:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-06-18/biden-promotes-milestone-of-300m-vaccine-shots-in-150-days"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-06-18/biden-promotes-milestone-of-300m-vaccine-shots-in-150-days?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-18/biden-promotes-milestone-of-300m-vaccine-shots-in-150-days?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8a3839f/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F38%2F702e2fa045f1a66ae0b9a2fea8c8%2Fla-photos-1staff-la-photos-1staff-773731-me-0514-vaccine-12-and-over-014.IK.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Joe Biden heads to Geneva for summit with ‘worthy adversary’ Putin – live"
     excerpt: "Reports say Biden has prepared extensively for Geneva meeting on Wednesday – follow all the day’s politics live"
     publishedDateTime: 2021-06-15T12:26:00Z

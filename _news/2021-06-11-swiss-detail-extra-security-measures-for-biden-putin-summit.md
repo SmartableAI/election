@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/swiss-detail-extr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DDFMPKGQDQI6XIREXVM32IQZPQ.jpg&w=1440"
         width: 1440
         height: 1066
+        isCached: true
+  - title: "Biden promotes milestone of 300 million vaccine shots in 150 days"
+    excerpt: "President Joe Biden took a cautious victory lap Friday in his quest to bring the COVID-19 pandemic under control, announcing that 300 million vaccine shots have been administered in the 150 days since he took office."
+    publishedDateTime: 2021-06-18T21:25:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-06-18/biden-promotes-milestone-of-300m-vaccine-shots-in-150-days"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-06-18/biden-promotes-milestone-of-300m-vaccine-shots-in-150-days?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-18/biden-promotes-milestone-of-300m-vaccine-shots-in-150-days?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8a3839f/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F38%2F702e2fa045f1a66ae0b9a2fea8c8%2Fla-photos-1staff-la-photos-1staff-773731-me-0514-vaccine-12-and-over-014.IK.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Joe Biden heads to Geneva for summit with ‘worthy adversary’ Putin – live"
     excerpt: "Reports say Biden has prepared extensively for Geneva meeting on Wednesday – follow all the day’s politics live"
