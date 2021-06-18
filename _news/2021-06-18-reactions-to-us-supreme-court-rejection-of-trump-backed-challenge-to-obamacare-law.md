@@ -2,11 +2,11 @@
 category: news
 title: "Reactions to U.S. Supreme Court rejection of Trump-backed challenge to Obamacare law"
 excerpt: "Politicians, doctors, hospitals and others with a stake in the expanded healthcare policy known as Obamacare reacted to a U.S. Supreme Court decision on Thursday rejecting a Republican challenge backe"
-publishedDateTime: 2021-06-17T22:05:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-court-obamacare-reaction/reactions-to-us-supreme-court-rejection-of-republican-challenge-to-obamacare-law-idUSKCN2DT1YF"
-webUrl: "https://www.reuters.com/article/us-usa-court-obamacare-reaction/reactions-to-us-supreme-court-rejection-of-republican-challenge-to-obamacare-law-idUSKCN2DT1YF"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DT1YL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DT1YL"
+publishedDateTime: 2021-06-17T17:05:00Z
+originalUrl: "https://www.reuters.com/article/legal-us-usa-court-obamacare-reaction/reactions-to-us-supreme-court-rejection-of-republican-challenge-to-obamacare-law-idUSKCN2DT1YL"
+webUrl: "https://www.reuters.com/article/legal-us-usa-court-obamacare-reaction/reactions-to-us-supreme-court-rejection-of-republican-challenge-to-obamacare-law-idUSKCN2DT1YL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DT1YF"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DT1YF"
 type: article
 quality: 118
 heat: -1
@@ -1145,6 +1145,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "J7ZL5EY7umfmEjbsqw7Md2mka/VvoP3QBJ5BqWnC6PezPRCX/C/CJ65y75g6lyERmuENGcfSg0d25IVQUf+DKkXFkM0o5GiNNrRhCoUfZWZNfEaMNKGcaXphYVINoWWHtf2lWUxldzXZsKcctZSqnFex/aGjbBJd4ux8vxphcW5bwj0OOPXZzSZzQDj/97HoDqmv76xHUFiC90RYoDbXCxASF9Rnf68SgOAtE0fZ795iy3IUedCUkIo9d+C5WrL25lmXpZyJBiyH3jNYyGw6kG62xSbR6bHeBhhvLAML5x/21Pt1KLRMw1AZdmukVah3huh2VSWCH2pJFUjSf+gWg57q1goKNH242sUeRnIgDLM=;2+9MbQQAbRX/bbyI6Ryaiw=="
+secured: "mXEUfc8oeGG0OJi0az018yg/sZ1HWXXRqMYiIvNnzdTQjLxQNXVxpXjhUiCF9/HNxJbro23N26xovX+i+KcuCoC1fiSVlzuPRHrz+PCfFDVMASEsm6Du5u60f4D+haZX7UpxK471MGaFlUnWAAAGzCSAyOHt+2ZDIU1cWlfNG7xvTEnd7kypa2f6ANcV9U/uzuOdn51eBvh2D01scLaFbDHt2ynOHEF6Pq6eQhgE3+eQkYCA5ewAA4RqqnF2AXVhHv4Rh8s6EWmgIlzIigXDB4p7nb3xCehTWzalC7+vOPod7rfWL0xOFVmsXJDLdtS+VxKnmM70Hz7hQz1L6wTZYprZaoCaJnvS3UWW7oCQrcs=;Thsr85s5lPLgJiLvhfxnNg=="
 ---
 

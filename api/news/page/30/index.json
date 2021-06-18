@@ -2,6 +2,114 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-04-17-swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific.md",
+      "title": "Swipes at China as Joe Biden and Japanese PM seek united front in Asia Pacific",
+      "excerpt": "In his first in-person summit since taking office, the US president hosts Yoshihide Suga as part of efforts to face down Beijing",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/62970e780e4e3dfcbbb8c7a43b722b32cf143d13/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f367ab421312de3408bd60c2ba0a1032",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
+      "publishedDateTime": "2021-04-16T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-biden-says-iran-enriching-uranium-at-60-is-not-helpful-but-is-pleased-country-engaging-in-indirect-talks.md",
+      "title": "Biden says Iran enriching uranium at 60% is not helpful, but is pleased country engaging in indirect talks",
+      "excerpt": "President Joe Biden on Friday said Iran's decision to enrich uranium at 60% is not helpful and counter to the agreement the countries made under the Iran nuclear deal, but said he is pleased the country continues to engage in indirect talks with the United States.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8rV8u9MjRy4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8rV8u9MjRy4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210411114711-file-01-iran-natanz-nuclear-facility-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/16/politics/iran-uranium-enrichment-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/iran-uranium-enrichment-biden/index.html",
+      "publishedDateTime": "2021-04-16T15:24:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones-have-shaped-the-taxation-debate.md",
       "title": "Fox Nation takes a look at taxes: How Trump, Cuomo and the Rolling Stones have shaped the taxation debate",
       "excerpt": "In the fifth, and final, episode of Fox Nation's special \"An Unauthorized History of Taxes,\" anchor Bret Baier and his guest experts explore the contemporary state of taxation, and its cause-and-effect.",
@@ -1266,110 +1374,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-joe-bidens-german-shepherd-major-is-getting-trained-after-biting-2-peopleheres-how-much-dog-training-typically-costs.md",
-      "title": "Joe Biden's German shepherd Major is getting trained after biting 2 people—here's how much dog training typically costs",
-      "excerpt": "President Biden's young German shepherd Major is being sent to undergo training after a number of biting incidents at the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/15/how-much-dog-training-can-cost.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/15/how-much-dog-training-can-cost.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106867474-1618322044595-gettyimages-1232008330-AFP_96Z7AP.jpeg?v=1618322110",
-          "width": 4736,
-          "height": 3151,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/15/how-much-dog-training-can-cost.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/15/how-much-dog-training-can-cost.html",
-      "publishedDateTime": "2021-04-15T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-pastor-darrell-scott-claims-capitol-riot-was-congress-set-up-to-impeach-donald-trump.md",
-      "title": "Pastor Darrell Scott Claims Capitol Riot Was Congress 'Set Up' to Impeach Donald Trump",
-      "excerpt": "The New Spirit Revival Center founder made the claims on his radio show while discussing the recent review about the January 6 disorder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878",
-      "originalUrl": "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1778410/darrell-scott.jpg",
-          "width": 2500,
-          "height": 1662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1",
-      "publishedDateTime": "2021-04-15T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

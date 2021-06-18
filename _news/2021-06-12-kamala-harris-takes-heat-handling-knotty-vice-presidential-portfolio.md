@@ -331,8 +331,8 @@ related:
         isCached: true
   - title: "Vice President Kamala Harris announces $1.2 billion for community lenders"
     excerpt: "The $1.2 billion Rapid Recovery Program announced by Vice President Kamala Harris will help enable community financial institutions loan money to small businesses, primarily in minority communities. The effort is part of a larger $12 billion in funding for community and minority financial institutions passed as part of COVID-19 relief in December."
-    publishedDateTime: 2021-06-15T18:21:00Z
-    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-announces-12-billion-for-community-lenders/"
+    publishedDateTime: 2021-06-15T18:45:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-rapid-recovery-program-for-community-lenders/"
     type: article
     provider:
       name: CBS News
@@ -843,16 +843,16 @@ related:
       domain: usnews.com
     quality: 55
   - title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
-    excerpt: "Lisa Mensah, President and CEO, Opportunity Finance Network speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
+    excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-06-15T19:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e0a0a0c941155fa7cf5a40361f407bc8/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9f94fb3645d1f08c63c8b800019348ce/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/e0a0a0c941155fa7cf5a40361f407bc8/HARRIS-RECOVERY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/9f94fb3645d1f08c63c8b800019348ce/HARRIS-RECOVERY.jpg"
         width: 650
         height: 433
         isCached: true

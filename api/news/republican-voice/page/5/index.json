@@ -2,6 +2,54 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-26-trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab.md",
+      "title": "Trump: ‘It was obvious to smart people’ COVID came from Wuhan lab",
+      "excerpt": "Former President Donald Trump claimed in a Newsmax interview that “it was obvious to smart people” that COVID-19 emerged from a lab in the Chinese city of Wuhan.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/",
+      "originalUrl": "https://nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-wuhan-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/amp/",
+      "publishedDateTime": "2021-05-25T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-trump-blasts-reported-grand-jury-says-part-of-greatest-witch-hunt.md",
       "title": "Trump blasts reported grand jury, says part of ‘greatest Witch Hunt’",
       "excerpt": "The 45th president claimed the grand jury probe is an extension of the Russia investigation that plagued his administration for two years.",
@@ -1587,54 +1635,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-vp-kamala-harris-covid-an-opportunity-to-transform-how-we-live-how-we-work-and-how-we-vote.md",
-      "title": "VP Kamala Harris: COVID An \"Opportunity\" to \"Transform\" How We Live, How We Work, And How We Vote",
-      "excerpt": "Vice President Kamala Harris called COVID-19 an \"opportunity\" to transform society in a speech to the Asian American Pacific Islander Heritage Month unity summit on Wednesday. \"As we emerge from the pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/543713.jpg",
-          "width": 844,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.amp.html",
-      "publishedDateTime": "2021-05-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

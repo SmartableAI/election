@@ -2,9 +2,9 @@
 category: news
 title: "Vice President Kamala Harris announces $1.2 billion for community lenders"
 excerpt: "The $1.2 billion Rapid Recovery Program announced by Vice President Kamala Harris will help enable community financial institutions loan money to small businesses, primarily in minority communities. The effort is part of a larger $12 billion in funding for community and minority financial institutions passed as part of COVID-19 relief in December."
-publishedDateTime: 2021-06-15T18:21:00Z
-originalUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-announces-12-billion-for-community-lenders/"
-webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-announces-12-billion-for-community-lenders/"
+publishedDateTime: 2021-06-15T18:45:00Z
+originalUrl: "https://www.cbsnews.com/video/kamala-harris-rapid-recovery-program-for-community-lenders/"
+webUrl: "https://www.cbsnews.com/video/kamala-harris-rapid-recovery-program-for-community-lenders/"
 type: article
 quality: 104
 heat: -1
@@ -844,16 +844,16 @@ related:
       domain: usnews.com
     quality: 55
   - title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
-    excerpt: "Lisa Mensah, President and CEO, Opportunity Finance Network speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
+    excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-06-15T19:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e0a0a0c941155fa7cf5a40361f407bc8/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9f94fb3645d1f08c63c8b800019348ce/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/e0a0a0c941155fa7cf5a40361f407bc8/HARRIS-RECOVERY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/9f94fb3645d1f08c63c8b800019348ce/HARRIS-RECOVERY.jpg"
         width: 650
         height: 433
         isCached: true
@@ -985,6 +985,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "Y5lC8E9hVKNE+QKvsjzUbpmYMS0WIq5YOUORWrGIlkFVWA/0xduFqouJTvmaGaLksrmeXDbrfzJ8NHug7lR+6C7JBDFCpXZ21wpaBqt9cDcG7K3WgJwfBCY25+BsvXRmsY5OuNTtdEk/coNT0gDEjWyDE94um5mUt1SWRmI1HYqG1685QIUPA5tLIYceQQ813p7BTac0MqA8/v8DOe7srThsFs0vbcYK9pcl5hcHKamik3PeQNI8azfUni94h49TWLTQ3qIcngb+44LcM9eGLGHCAbOpKGJJdKX1UsWYVObkvMV4+/qXIzN2FJB2X3Q9VffU+USfLbB1giln10XS2Owxk3ZxM3dZg30YkZo0EeNhZkdNIjcgkNkMOMKxxRSnVVOp7SM0laSexm3fN6xBCvJN6pIFlQGry91dxxerB+ugIux6QC45jET9HgKqOoYHRLrgh5lIJOWwF5gNlX/HvRZaT+mPZ1twX3U9ec376eozjr8CBMGRLQwg8k7FKiqpRMBkWqkNe1DFfb7mMNAmAQ==;ETuCS7ObT4+398AfJQxVAQ=="
+secured: "OJ9b1cgpVVtqC/KtvajlDOGsYLu8WV4bHgKMLMRR52H+L+9zoxxxuJjp52IA8/2kG0mL4H7FhmD9CLG/n8xi/p85IvyN43bf1bGOHekaEoFKDtgFn6LkoA/4Hfo2HJ10DX4dA1GL6v4nifU5dWzkbLCYvESvgQ+o3CJA/5y5VPC+m7/++rc1TE9nMsbawLn8wGu3f1ga8q+Q7FJYACVx3cB3qqk8Xu2HpACL4oBxplWae72baK4pNH1MLwbh4eZkOdSUx4ZqT9WKIh9SMU15NxXIvjTnqo+PKNNGH5MQpfR63v35u/XNuMgyvVG2a2jAr2KYBXDeRki4oaNOvnzXpSeM+HpI+V1bQ4eIW114dR4=;srEDXWpNpvAet3MbV1AR9w=="
 ---
 
