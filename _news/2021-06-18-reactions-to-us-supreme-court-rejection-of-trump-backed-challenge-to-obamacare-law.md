@@ -1,22 +1,22 @@
 ---
 category: news
-title: "DOJ drops civil lawsuit against former Trump national security adviser John Bolton"
-excerpt: "The DOJ on Wednesday dropped its civil lawsuit targeting former national security adviser John Bolton over his 2020 memoir about Donald Trump's presidency."
-publishedDateTime: 2021-06-16T21:17:00Z
-originalUrl: "https://abcnews.go.com/Politics/doj-drops-civil-lawsuit-trump-national-security-adviser/story?id=78320715"
-webUrl: "https://abcnews.go.com/Politics/doj-drops-civil-lawsuit-trump-national-security-adviser/story?id=78320715"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/doj-drops-civil-lawsuit-trump-national-security-adviser/story?id=78320715"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/doj-drops-civil-lawsuit-trump-national-security-adviser/story?id=78320715"
+title: "Reactions to U.S. Supreme Court rejection of Trump-backed challenge to Obamacare law"
+excerpt: "Politicians, doctors, hospitals and others with a stake in the expanded healthcare policy known as Obamacare reacted to a U.S. Supreme Court decision on Thursday rejecting a Republican challenge backe"
+publishedDateTime: 2021-06-17T22:05:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-court-obamacare-reaction/reactions-to-us-supreme-court-rejection-of-republican-challenge-to-obamacare-law-idUSKCN2DT1YF"
+webUrl: "https://www.reuters.com/article/us-usa-court-obamacare-reaction/reactions-to-us-supreme-court-rejection-of-republican-challenge-to-obamacare-law-idUSKCN2DT1YF"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DT1YL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DT1YL"
 type: article
-quality: 119
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/bolton-gty-rc-210616_1623870142399_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210617&t=2&i=1566076114&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5G12W"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -509,21 +509,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Reactions to U.S. Supreme Court rejection of Trump-backed challenge to Obamacare law"
-    excerpt: "Politicians, doctors, hospitals and others with a stake in the expanded healthcare policy known as Obamacare reacted to a U.S. Supreme Court decision on Thursday rejecting a Republican challenge backe"
-    publishedDateTime: 2021-06-17T22:05:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-obamacare-reaction/reactions-to-us-supreme-court-rejection-of-republican-challenge-to-obamacare-law-idUSKCN2DT1YF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DT1YL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DT1YL"
+  - title: "DOJ drops civil lawsuit against former Trump national security adviser John Bolton"
+    excerpt: "The DOJ on Wednesday dropped its civil lawsuit targeting former national security adviser John Bolton over his 2020 memoir about Donald Trump's presidency."
+    publishedDateTime: 2021-06-16T21:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/doj-drops-civil-lawsuit-trump-national-security-adviser/story?id=78320715"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/doj-drops-civil-lawsuit-trump-national-security-adviser/story?id=78320715"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/doj-drops-civil-lawsuit-trump-national-security-adviser/story?id=78320715"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210617&t=2&i=1566076114&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5G12W"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/bolton-gty-rc-210616_1623870142399_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "U.S. reverses Trump-era restrictions on asylum for victims of domestic and gang violence"
     excerpt: "Attorney General Merrick Garland revoked a Trump-era policy that severely restricted the ability of survivors of domestic and gang violence to seek humanitarian protection in the United States. CBS News immigration reporter Camilo Montoya-Galvez joins \"Red and Blue\" anchor Elaine Quijano with more on why it could pave the way for a broad shift in America's asylum policy."
@@ -1145,6 +1145,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "fIlx2yqqA9so9OPKhboJTJENluxj4RiFzikNFLG+4yvCtYIZp22zOk3dIfGM/qb+9eCB1de4AgCz926gxTBKbs0DAa3Fjl4CQFTe412n4TRcHpOdMXJv0fOaGkhB6tprzViCPX2NrnYyoPvU0G/69RNFCBKYMENuhbwjmoOo1ZvIq4A3Uy4SPTsnmPurS3SzT8v5CJoWs8QggWv1tF5IOOAOvBe6tsvpiFAaH04QA7nxt9yA069u93xkIFKbD3GZbQ+d15IqgGjsCqaRwHK/70G1cn6QBGB4pTBnmRzKzM9gQr1IVvWPKgTgKsu5ZVLOloqRH7IArhpyyeR+6e+MoEMq/OUTp21GvcPF0So1C5+h7X7Rb+fa1fG3SSmoklriqfaDikZKTzRykHQ5pPDmWGbxWkWHsDksVuHgLTNeTz/Ckn1OjJGuFBpvzPwEJI+sw1bRP9xW1O1gdzbOTzZciPe5UaRa7ayRqQuHdkbgzoAiMyz2sHEQ3+w0XnGTMruBkqTei5P8zwC5aLD1/aJCRg==;t3u/3quMe5U8tbSVzjGVVQ=="
+secured: "J7ZL5EY7umfmEjbsqw7Md2mka/VvoP3QBJ5BqWnC6PezPRCX/C/CJ65y75g6lyERmuENGcfSg0d25IVQUf+DKkXFkM0o5GiNNrRhCoUfZWZNfEaMNKGcaXphYVINoWWHtf2lWUxldzXZsKcctZSqnFex/aGjbBJd4ux8vxphcW5bwj0OOPXZzSZzQDj/97HoDqmv76xHUFiC90RYoDbXCxASF9Rnf68SgOAtE0fZ795iy3IUedCUkIo9d+C5WrL25lmXpZyJBiyH3jNYyGw6kG62xSbR6bHeBhhvLAML5x/21Pt1KLRMw1AZdmukVah3huh2VSWCH2pJFUjSf+gWg57q1goKNH242sUeRnIgDLM=;2+9MbQQAbRX/bbyI6Ryaiw=="
 ---
 

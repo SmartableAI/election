@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden signs bill making Juneteenth a federal holiday"
-    excerpt: "Biden signs legislation making June 19, or Juneteenth, the 12th federal holiday. The day commemorates the end of slavery in this country."
-    publishedDateTime: 2021-06-17T19:45:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/00337fb/2147483647/strip/true/crop/5559x3631+4+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2d%2Ffb%2Ff61d7d364c898cf16707787b85c4%2Fla-photos-1staff-560650-me-0619-juneteenth-leimert-park6-wjs.jpg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Joe Biden signs bill making Juneteenth a federal holiday – live"
     excerpt: "Great nations don’t ignore their most painful moments,’ president says while supreme court upholds Obamacare"
     publishedDateTime: 2021-06-17T21:44:00Z
@@ -58,38 +42,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/e50191cf70e74e898aefab8f248bdecc3ffb20d5/0_59_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cadf8eefc8cc683a2c73c18e956b5c57"
         width: 600
         height: 360
-        isCached: true
-  - title: "QAnon Supporters Say Cicada Landing on Biden's Neck Is Proof Plan Is Working"
-    excerpt: "QAnon influencers are struggling to come up with new ways to prove their movement holds true in the absence of Donald Trump and after the public failure of several predictions."
-    publishedDateTime: 2021-06-10T15:22:00Z
-    webUrl: "https://www.newsweek.com/qanon-supporters-joe-biden-cicada-neck-shows-plan-working-1599401"
-    ampWebUrl: "https://www.newsweek.com/qanon-supporters-joe-biden-cicada-neck-shows-plan-working-1599401?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-supporters-joe-biden-cicada-neck-shows-plan-working-1599401?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1817644/biden-cicada-qanon.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Joe Biden Keeps Sunglasses on for Queen Elizabeth II Meeting Despite Royal Protocol"
-    excerpt: "The royal gaffe was spotted by Twitter users after Biden didn't remove his glasses while exchanging words with the queen."
-    publishedDateTime: 2021-06-13T17:31:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-keeps-sunglasses-queen-elizabeth-ii-meeting-despite-royal-protocol-1600158"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-keeps-sunglasses-queen-elizabeth-ii-meeting-despite-royal-protocol-1600158?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-keeps-sunglasses-queen-elizabeth-ii-meeting-despite-royal-protocol-1600158?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
-    images:
-      - url: "https://d.newsweek.com/en/full/1820022/joe-biden-meets-queen-sunglasses.jpg"
-        width: 1312
-        height: 846
         isCached: true
   - title: "Biden signs law making Juneteenth a federal holiday"
     excerpt: "President Joe Biden signed legislation Thursday making Juneteenth, or June 19, a new federal holiday commemorating the end of slavery. Biden said he believes it will go down as one of the greatest honors he has as president."

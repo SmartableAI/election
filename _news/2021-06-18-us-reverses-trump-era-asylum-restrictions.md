@@ -523,6 +523,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Reactions to U.S. Supreme Court rejection of Trump-backed challenge to Obamacare law"
+    excerpt: "Politicians, doctors, hospitals and others with a stake in the expanded healthcare policy known as Obamacare reacted to a U.S. Supreme Court decision on Thursday rejecting a Republican challenge backe"
+    publishedDateTime: 2021-06-17T22:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-obamacare-reaction/reactions-to-us-supreme-court-rejection-of-republican-challenge-to-obamacare-law-idUSKCN2DT1YF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DT1YL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DT1YL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210617&t=2&i=1566076114&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5G12W"
+        width: 817
+        height: 545
+        isCached: true
   - title: "U.S. reverses Trump-era restrictions on asylum for victims of domestic and gang violence"
     excerpt: "Attorney General Merrick Garland revoked a Trump-era policy that severely restricted the ability of survivors of domestic and gang violence to seek humanitarian protection in the United States. CBS News immigration reporter Camilo Montoya-Galvez joins \"Red and Blue\" anchor Elaine Quijano with more on why it could pave the way for a broad shift in America's asylum policy."
     publishedDateTime: 2021-06-18T01:58:00Z
@@ -1129,6 +1145,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "OAjxsH+n1OCyUuzsNU5dllVrOD0CPT7uOhKOeVHL6Uv8/Fd9ucpg+R+mu0QAAUzZnJo909FDkUSCUvC7tYxxK467ZJv84UIoQhFul03+GmZ3yNCFwqZZbEZXGsxjo8kJ66zrkCAsuzQpa96FqrP4pyjm2ROZ/pYKQv7OC7m9xGLBuZmNohye4oU6hus0tDspSGn1vA1BVZCtm7EMuKavRPeJFwEiRhKpE3hXO8zoiUpfjST4eE5caoPIm+nYjoLfYWMd3RPiP3lAzZS2VBg3vsV6F0NAuVuh9DLFzT99jwqgAACziSSRn1X6WURrDyBYXa4FEsiltpwD3ejUv6IO2o/XsjgK8RdYjZYxoWGyEik=;DlInAol2pWUCB7Qlylh/WQ=="
+secured: "Tb0rBBWxuA6s082hRSDt7JUpPFCdLqx+p6hgbxJx1KB9xgrgAyxUVWUtILB196ECoLWoiREJIqfx87GdkwMWCKavR9Wz4k/XKCzcXKzMUUOuec3xB88fAG5s9BasaWl84fLDf4HRGI1gLTrPJli/duGbcZ50WdlDTe6soW0sBbZEk9IgYvkKntecmZoiYg5BTs1t7ChyHs7rBp1z5W6vkB6sVllnvc82tHKF1wXkdNqF4ArkNZJsZihLT9VHr1Z8tY4HiKIvNsKEJioBXBhGlR4U/szMeKpaNqtj5ZDjVdGtJBgHa5lTM2eyHLSPjcGzd9U6hqtYvP6PYtj6xSFf2c853gHBNyYdseoEvqWi4JKc39MPPW78YbA9rmzWTuY3v9LGT2E0bA8a5s/4lPXeFuAmjQG9HPaDEcVYysmXMn2tPCWmv12WH9/+HAZk3J66A1sKqvEiv93mTS98VE+TifxEsE4AeaYOvgcClkaRKqlwJFr+kt6syS6/JDy4cyqH4B3RjuEleWMlOTUjdEUw5w==;woWIRmZ7Y4mkGyfS6ZbXaQ=="
 ---
 

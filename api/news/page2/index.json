@@ -2,62 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-06-16-biden-land-management-nominee-collaborated-with-eco-terrorists-traded-testimony-for-immunity.md",
-      "title": "Biden Land Management nominee 'collaborated with eco-terrorists,' traded testimony for immunity",
-      "excerpt": "In 1993, Biden’s nominee to head up BLM, Tracy Stone-Manning, was granted legal immunity for her testimony that she retyped and sent an anonymous letter to the U.S. Forest Service on behalf of John P. Blount, her former roommate and friend, according to documents obtained by Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3k7xn5bn1nk/biden-blm-nominee-eco-terrorists",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3k7xn5bn1nk/biden-blm-nominee-eco-terrorists",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Stone-Manning.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T07:37:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-16-harris-hosts-female-senators-for-evening-of-relationship-building-at-vice-presidents-residence.md",
       "title": "Harris hosts female senators for 'evening of relationship building' at vice president's residence",
       "excerpt": "Vice President Kamala Harris held a private dinner Tuesday night for the female US senators, a show of bipartisanship among a deeply divided Congress.\n    \n",
@@ -602,7 +546,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1640,
+      "heat": 1660,
       "tags": null,
       "images": [
         {
@@ -1347,6 +1291,62 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-mcconnell-says-highly-unlikely-he-would-let-biden-fill-a-supreme-court-vacancy-in-2024-if-gop-wins-back-senate.md",
+      "title": "McConnell says 'highly unlikely' he would let Biden fill a Supreme Court vacancy in 2024 if GOP wins back Senate",
+      "excerpt": "Senate Minority Leader Mitch McConnell said on Monday that if his party regains the majority in 2022 it's \"highly unlikely\" he would let President Joe Biden confirm a Supreme Court vacancy if one opened up in 2024, and was non-committal when asked about an opening at the end of 2023.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-8by_Xs0Zx8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-8by_Xs0Zx8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527142427-01-mcconnell-0525-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/14/politics/mcconnell-scotus-nominee-biden-2024/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/mcconnell-scotus-nominee-biden-2024/index.html",
+      "publishedDateTime": "2021-06-14T10:53:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

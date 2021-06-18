@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden signs bill making Juneteenth a federal holiday"
-    excerpt: "Biden signs legislation making June 19, or Juneteenth, the 12th federal holiday. The day commemorates the end of slavery in this country."
-    publishedDateTime: 2021-06-17T19:45:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/00337fb/2147483647/strip/true/crop/5559x3631+4+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2d%2Ffb%2Ff61d7d364c898cf16707787b85c4%2Fla-photos-1staff-560650-me-0619-juneteenth-leimert-park6-wjs.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Joe Biden signs bill making Juneteenth a federal holiday – live"
-    excerpt: "Great nations don’t ignore their most painful moments,’ president says while supreme court upholds Obamacare"
-    publishedDateTime: 2021-06-17T21:44:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/e50191cf70e74e898aefab8f248bdecc3ffb20d5/0_59_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cadf8eefc8cc683a2c73c18e956b5c57"
-        width: 600
-        height: 360
-        isCached: true
   - title: "QAnon Supporters Say Cicada Landing on Biden's Neck Is Proof Plan Is Working"
     excerpt: "QAnon influencers are struggling to come up with new ways to prove their movement holds true in the absence of Donald Trump and after the public failure of several predictions."
     publishedDateTime: 2021-06-10T15:22:00Z
@@ -79,49 +47,19 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden signs law making Juneteenth a federal holiday"
-    excerpt: "President Joe Biden signed legislation Thursday making Juneteenth, or June 19, a new federal holiday commemorating the end of slavery. Biden said he believes it will go down as one of the greatest honors he has as president."
-    publishedDateTime: 2021-06-17T23:00:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/17/biden-signs-law-making-juneteenth-federal-holiday/7739341002/"
+  - title: "Erdogan says he told Biden Turkey is not shifting on S-400s -state media"
+    excerpt: "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,"
+    publishedDateTime: 2021-06-17T10:37:00Z
+    webUrl: "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Reuters
+      domain: reuters.com
+    quality: 104
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d18f70a0-fde0-4c76-8fca-bf67425b0823_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Watch live: Biden signs law creating Juneteenth federal holiday"
-    excerpt: "A decades of lobbying and 155 years after the institution of slavery ended in the United States, President Joe Biden will sign a law Thursday making Juneteenth a federal holiday."
-    publishedDateTime: 2021-06-17T15:22:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/17/joe-biden-signs-juneteenth-holiday/1281623940080/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1281623940080/2021/1/fbebdb5aa0b93bf9075906f1225649f9/v1.5/Watch-live-Biden-signs-law-creating-Juneteenth-federal-holiday.jpg"
+      - url: "https://www.reuters.com/resizer/efr0HPd6sQ58IZDnAuSDMutOEcY=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W7SETYTUYFLWVGRDFQOTBN4PBA.jpg"
         width: 800
-        height: 532
-        isCached: true
-  - title: "Queen Elizabeth II welcomes Joe and Jill Biden"
-    excerpt: "U.S. President Joe Biden flew Sunday from the Group of Seven summit in Cornwall, southwestern England, to have tea with Queen Elizabeth II. (June 13)"
-    publishedDateTime: 2021-06-13T23:08:00Z
-    webUrl: "https://www.freep.com/videos/news/nation/2021/06/13/queen-elizabeth-ii-welcomes-joe-and-jill-biden/7679764002/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/eaa4f9c1-5a5f-47c9-bbf9-39e6ff823998_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+        height: 419
         isCached: true
 
 secured: "s67jDOTfQcu96QIkubXrqSb7jEw4tf8pIcT76iiWtnXy3KvahuQMD4mX5LyXYnqSholfHoMAEbf6cKHXX9izmoJbOj5ofipopt8SlXnICWTso9wzPFvubAmohkNbCRvLtz/zUf6/+o2Ig1gzA8SfPyr6JZoY7ovdPbu/1TPiH3+FuZ4Qe4ntd4VlGvzFD9DXhRJlsZgyLuyftgYIIjEmtxuE/Sky7kFIlVkaF6sv0wBvMaeofzCDfJ7RtqFqVvAOAnPc8Ftpl/zZAPPMm89ubKoaUcc0yRxilU15OPFeP72xZDwXxLV4neFvV8U0oTooIGaqhZR+fTBBgB8y9Pp7kFJPWoUgM+xI3jG5+aYn5Ts=;qJVbihGXh5DrtUeG98AeGw=="

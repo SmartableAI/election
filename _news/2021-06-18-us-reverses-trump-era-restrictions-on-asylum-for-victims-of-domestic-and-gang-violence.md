@@ -525,6 +525,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Reactions to U.S. Supreme Court rejection of Trump-backed challenge to Obamacare law"
+    excerpt: "Politicians, doctors, hospitals and others with a stake in the expanded healthcare policy known as Obamacare reacted to a U.S. Supreme Court decision on Thursday rejecting a Republican challenge backe"
+    publishedDateTime: 2021-06-17T22:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-obamacare-reaction/reactions-to-us-supreme-court-rejection-of-republican-challenge-to-obamacare-law-idUSKCN2DT1YF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DT1YL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DT1YL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210617&t=2&i=1566076114&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5G12W"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump Justice Department subpoenaed Apple for communications data on House Democrats, report says"
     excerpt: "Democrats called for an investigation after The New York Times reported that President Donald Trump's DOJ seized data from House Democrats."
     publishedDateTime: 2021-06-11T05:53:00Z
