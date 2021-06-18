@@ -2,9 +2,9 @@
 category: news
 title: "U.S. reverses Trump era asylum restrictions"
 excerpt: "Watch \"U.S. reverses Trump era asylum restrictions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-06-17T22:17:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210617221706-u-s-reverses-trump-era-asylum-restrictions/"
-webUrl: "https://www.cbsnews.com/live/video/20210617221706-u-s-reverses-trump-era-asylum-restrictions/"
+publishedDateTime: 2021-06-18T04:17:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210618041701-u-s-reverses-trump-era-asylum-restrictions/"
+webUrl: "https://www.cbsnews.com/live/video/20210618041701-u-s-reverses-trump-era-asylum-restrictions/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/17/story_10882168_1623968823.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/18/story_10887634_1623990304.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -1129,6 +1129,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "RkPCFpbq43K7AienIhOSjQdQn8xOZlrUUlkGC0njzzv3QeDp9UEsE8p8g6p55gRJw1SwVGx/WJfYOgeYAVniLGcsjzKOS5DXxQ5aK9dEMox9N5IMbEdmK/w7T2IG0Y9Mmfhs2pLUhLOzNsgGhL33SLhxrxpIzk6yQHDxmPG/jS5NnuaS/pXvh/r/FLjCSCI0HWjkW39+iRvZSPZruhCbGyVRBQQ8tGlPS229yGzVVyZQ/8R3aLvaXALRb+j2doiIyqBMe2C8Jorx+TLUHdOfN/PEP8N1VOOxklQqOHiu2alrmzigFjjW6J5yc+r0JQsU4YUSjjI1X7ha/o6Ue2UugbAiitJEKjSA+Fmj3VinrTc=;RLQC05nM4MMefAVDkraI5Q=="
+secured: "OAjxsH+n1OCyUuzsNU5dllVrOD0CPT7uOhKOeVHL6Uv8/Fd9ucpg+R+mu0QAAUzZnJo909FDkUSCUvC7tYxxK467ZJv84UIoQhFul03+GmZ3yNCFwqZZbEZXGsxjo8kJ66zrkCAsuzQpa96FqrP4pyjm2ROZ/pYKQv7OC7m9xGLBuZmNohye4oU6hus0tDspSGn1vA1BVZCtm7EMuKavRPeJFwEiRhKpE3hXO8zoiUpfjST4eE5caoPIm+nYjoLfYWMd3RPiP3lAzZS2VBg3vsV6F0NAuVuh9DLFzT99jwqgAACziSSRn1X6WURrDyBYXa4FEsiltpwD3ejUv6IO2o/XsjgK8RdYjZYxoWGyEik=;DlInAol2pWUCB7Qlylh/WQ=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden signs the Juneteenth Independence Day Act"
-excerpt: "President Joe Biden listens as Vice President Kamala Harris speaks before the signing of the Juneteenth National Independence Day Act into law in the East Room of the White House in Washington, DC, on Thursday,"
+excerpt: "President Joe Biden hands a pen to Opal Lee after signing the Juneteenth National Independence Day Act into law in the East Room of the White House in Washington, DC, on Thursday, June 17, 2021. Pool"
 publishedDateTime: 2021-06-17T20:08:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/2c3c85376b97c911279974a83aec4d7a/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/2c3c85376b97c911279974a83aec4d7a/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c84a99633eec914d745adf467b0ceb39/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c84a99633eec914d745adf467b0ceb39/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/2c3c85376b97c911279974a83aec4d7a/JUNETEENTH-BILL-SIGNING.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c84a99633eec914d745adf467b0ceb39/JUNETEENTH-BILL-SIGNING.jpg"
     width: 650
     height: 433
     isCached: true
@@ -173,6 +173,6 @@ related:
       domain: lasvegassun.com
     quality: 35
 
-secured: "ZsiGcVhH1R2sU2zKkXlhYZnwryZTe9zllHIQ/P484ORr60bmTmYVh7IPzy3PsdXu0RaAhJvfzC3d1fTasv+U9kDO7BuRwc5JVOz9+Fot0V7xVmnz91FDCRdbGy8K7sYqNlGinwTlwZUV6OZ8D/2TQPM05EJ0uy+wJFgmvnT8Xgm5680v4uzHcdj4W43vOHnx2A+e3l6Zq3HuX139DFgQgpKg6dqJ9OGBj6GRphfqdprqsbSw4x1axDAouG38cXvkPZUIXzgt8OLr3YYVkHef+vdtaG5OSqDKrV7QhdeWSsHFnlGp0CQcNwrgk+RxiBfwa1YVm43tJFgH4HQ9PhRu/Lk98OMRD2ej9Yg9zYwLOaQ=;z1sVKsvOeShzIkxxjhncqQ=="
+secured: "NXpsDfIomvh4OerkIrGJCS0F0C6tvZ4mJbef8mZT3KribSQcfL4tohmgRye5A98Gr5xyiuFGSQAyJm6g5PhHjkr9T8ziqzIvKWi9TY/v69I3mfzSg4owC0o0WZq3j46mAWA5E8bt9pB4Ljzz07JeTNOUWrJS7Wh0V00L6uiwJP7OYIRkrTvngtbNmuir2449A6VTZliDyNGPOq+O4dYzPWA8paSiZ4X5w7qIRtd8mwDmspHZbc5goCwVSuSMJQwk4sEoQ/iR8QoLh9nZiQhtHpOgVyhqO15un9X6CS6FDy8iTu1fG5gZf3xcb11GgbxRc4HFYev1yRckRLx94GEawXe6shmVFNYt2i9MWxZ+mp8=;WEZTi7i0+enVunzdp28uPQ=="
 ---
 

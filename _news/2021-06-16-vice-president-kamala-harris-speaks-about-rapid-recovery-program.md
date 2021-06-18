@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Speaks About Rapid Recovery Program"
 excerpt: "United States Senator Mark Warner (Democrat of Virginia) speaks during the announcement of the disbursement of nearly $1.25 billion for Community Development Financial Institutions (CDFIs), via the Rapid Recovery Program in the Eisenhower Executive Office Building in Washington,"
 publishedDateTime: 2021-06-15T19:21:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/40f41772693764fa3ce75c19df2d9049/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/40f41772693764fa3ce75c19df2d9049/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/9f94fb3645d1f08c63c8b800019348ce/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/9f94fb3645d1f08c63c8b800019348ce/Vice-President-Kamala-Harris-Speaks-About-Rapid-Recovery-Program/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/40f41772693764fa3ce75c19df2d9049/HARRIS-RECOVERY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/9f94fb3645d1f08c63c8b800019348ce/HARRIS-RECOVERY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -316,6 +316,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/3917f24520fb2ecf0f93f27141b5e7b63f2be4f2/0_136_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e51cb995f716c8253f9a904850a2fab"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris launches campaign for voting rights across U.S."
+    excerpt: "U.S. Vice President Kamala Harris on Wednesday promoted the Biden administration's efforts to advance voting rights when she met 16 fellow Democrats from the Texas state legislature who successfully blocked a bill they said would make it harder for Blacks and Hispanics to vote."
+    publishedDateTime: 2021-06-16T17:33:00Z
+    webUrl: "https://www.reuters.com/world/us/kamala-harris-launches-bid-boost-voting-rights-across-us-2021-06-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/XeUcPT8gIPuDnyqZdofVqXr6xVU=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D4JFDB2F4FLSZJFAM4S2IXXIQE.jpg"
+        width: 800
+        height: 419
         isCached: true
   - title: "Vice President Kamala Harris announces $1.2 billion for community lenders"
     excerpt: "The $1.2 billion Rapid Recovery Program announced by Vice President Kamala Harris will help enable community financial institutions loan money to small businesses, primarily in minority communities. The effort is part of a larger $12 billion in funding for community and minority financial institutions passed as part of COVID-19 relief in December."
@@ -904,6 +918,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "+eOK5B9Y3ftYwwsH7XN+ciyHdPVq2DfTUwUeHaKw/JpTRaI/DeE0hs1+/LWy+5UudYiBmPZ+IalN7mg04keKCNI7rlQoV4Y70Pls8s9ucKCiCXaUSb63PYk88TUBEDkEN/IEYwLZ3rJpSs/baXvVTMZ80dNW8TkzwzavR31neMDH3Ut8bJhqBGuZjwAsen+qUS9OqfVw8L3pYqXxFszDZ1VXRLXU4Jxufq4dC3z91F1X6pnoBbhdixxXFFbOU8fHqQhc2ssZpF8yXX7IQIEocHhzG1Yc5LLhAa8xfQheOiVJdEDBofd13ZePEWoYrUGM99vVT1s5lQXMXACXjuAxyR7zgs1Dunm0yxw6ytXw1rnJEMyiORJnNdLm+IXbYJUPbsHNsfo2SyBtGKWJaBgXA6LSvyukmXPILjagnP4usKeEcvcqXz2H50LsYnMQiYhgoKrxzZ+v+pXKQC6X58NOxo6cMskaVC8s3/r2+tZY5menXCAGBqC2zrzjZP2SYHu6LMnaRQ+S5aldDvD0LsTudA==;/9ziXwRaK2NItgI50uXFQg=="
+secured: "3EPtUEdonV3Osdzzmn23bfPLh+20ZlNUf6oG/YQMej/LSoJOlUSsCHnM+c/EDzA6Jwd3MjYpjxP27ZWTcYcfL669PDrCT8b0/YoljDokqHowndTDGUY5RI5U4KOXX0FwRGB2LsMnIoFmnwBgsmOhxTu1NIp02EfvcOwnFo38jcxIMVVKFUkYbsXRkON8LQEcCd8cgAm5nHKEzi9RrXPA+Q6S8J4ZmB7FeUNIx9HylwQAH9UbJF2kheoNy8QWUXR/+QB8mqehMu6/ZdTPV8t0BQynucOxnFE1mexVt8ojeP3+ybJaz1wbHyVM1wo9CTUFMwAOeBo2mFzd2q7+SCWYccEvmXz97A2e8Luf+C3OGws=;1T/ncTru02gmEiXrQcDKJA=="
 ---
 

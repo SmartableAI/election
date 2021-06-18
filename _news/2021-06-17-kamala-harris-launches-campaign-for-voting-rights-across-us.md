@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Will Vice President Kamala Harris' visit increase vaccine rates in South Carolina?"
-excerpt: "SC state reps and officials and the community look at whether Vice President Kamala Harris' visit could get more people to vaccination clinics."
-publishedDateTime: 2021-06-13T11:38:00Z
-originalUrl: "https://www.azcentral.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
-webUrl: "https://www.azcentral.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
-ampWebUrl: "https://amp.azcentral.com/amp/7668764002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7668764002"
+title: "Kamala Harris launches campaign for voting rights across U.S."
+excerpt: "U.S. Vice President Kamala Harris on Wednesday promoted the Biden administration's efforts to advance voting rights when she met 16 fellow Democrats from the Texas state legislature who successfully blocked a bill they said would make it harder for Blacks and Hispanics to vote."
+publishedDateTime: 2021-06-16T17:33:00Z
+originalUrl: "https://www.reuters.com/world/us/kamala-harris-launches-bid-boost-voting-rights-across-us-2021-06-16/"
+webUrl: "https://www.reuters.com/world/us/kamala-harris-launches-bid-boost-voting-rights-across-us-2021-06-16/"
 type: article
-quality: 69
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/12/PGRE/b5a0f561-590c-4b58-8acb-320c2fe97996-0612_Vaccinationate_preferences_vary_in_Greenville_County_025.JPG?auto=webp&crop=2399,1350,x0,y40&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.reuters.com/resizer/XeUcPT8gIPuDnyqZdofVqXr6xVU=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D4JFDB2F4FLSZJFAM4S2IXXIQE.jpg"
+    width: 800
+    height: 419
     isCached: true
 
 related:
@@ -319,20 +321,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris launches campaign for voting rights across U.S."
-    excerpt: "U.S. Vice President Kamala Harris on Wednesday promoted the Biden administration's efforts to advance voting rights when she met 16 fellow Democrats from the Texas state legislature who successfully blocked a bill they said would make it harder for Blacks and Hispanics to vote."
-    publishedDateTime: 2021-06-16T17:33:00Z
-    webUrl: "https://www.reuters.com/world/us/kamala-harris-launches-bid-boost-voting-rights-across-us-2021-06-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/XeUcPT8gIPuDnyqZdofVqXr6xVU=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D4JFDB2F4FLSZJFAM4S2IXXIQE.jpg"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Vice President Kamala Harris announces $1.2 billion for community lenders"
     excerpt: "The $1.2 billion Rapid Recovery Program announced by Vice President Kamala Harris will help enable community financial institutions loan money to small businesses, primarily in minority communities. The effort is part of a larger $12 billion in funding for community and minority financial institutions passed as part of COVID-19 relief in December."
     publishedDateTime: 2021-06-15T18:21:00Z
@@ -617,6 +605,22 @@ related:
     quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/05/24/PTX1/369c7658-4220-438f-a5b2-04e1016fa226-Vaccination_Juarez1039.JPG?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Will Vice President Kamala Harris' visit increase vaccine rates in South Carolina?"
+    excerpt: "SC state reps and officials and the community look at whether Vice President Kamala Harris' visit could get more people to vaccination clinics."
+    publishedDateTime: 2021-06-13T11:38:00Z
+    webUrl: "https://www.azcentral.com/story/news/local/south-carolina/2021/06/13/vice-president-kamala-harris-visit-improve-vaccine-rates-south-carolina-among-lowest-rates-in-us/7668764002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/7668764002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7668764002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/12/PGRE/b5a0f561-590c-4b58-8acb-320c2fe97996-0612_Vaccinationate_preferences_vary_in_Greenville_County_025.JPG?auto=webp&crop=2399,1350,x0,y40&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -918,6 +922,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "CNvoBV4uItkrS47rr75K3K+5nG2Lrc5SU9FeuDzM9LtPXez06biwbt8J+vg5HSYJ5hZqPn7ZkG5UC0S5jmHbU4SYFHphdtXWPtxesdxz1QzOC4d3Lf8V2wWwdFxg18zUYMQGj49hpSiXysOWwtfQlg1pbBjEz7322MOyQkDbuUN+AWYrzWRDbfou5yeYvSOpv5mNhJeWUSYQuIDWyKyXYgsH8Cpi6Qi6au04I2AomgUZE3QlOX1a1HCKMCRzE5MB7zIQmZY5pmoV8XeT/YqTRMPbE7JyGu+LSKTE7OwgvEQ/AEs9g569RrChb7ctViwn+ciNeTnjEfHmA5aMwN7jwsNuuYWb9Q5FgTS4dH5d76imLFM9m9twzJR4syKQ0yQPvxnaiFONtLBHddcFXeV6TyTe2U8WtRsDsb+oywtuzgYO+nF7mtR7wm+qB0iuRbFMlYbr8DSC3EttLupfL3qWv5y4HeeiyB6LoV1fzzoqQvZkhvCTL7BFu3a8GLAb0tCsJGA/hKrbza1EwqJOMn60sQ==;q6VSCF937y1BiYlmZqfM9g=="
+secured: "AqNzbhV/OK/xOQq4QZauQkXYEmFMm6Kn0xO3hEsQ9xY5Qt/7w0KQajoUNhCiSPxsoFGqAxb67hcrHpL5RKlhMM68WlmMzFilV61K/aJArY7pi56acQ/W+658bXfBqjXai+VRJXb9Sq5t34uUSrsD0ot55vT3ryX+yAJrJnLHnuebvfd8UgOPr6QTsAGwFCmcFfu9VO3J+LKhNvmXDmT49sMKXZsejf3WqfwgFNhld4/i0rKHDHKaePgYb+O3t/EauptjQAFxBLJVcTa4UMOg7QyODejcV0fPGQM4rqaNC9jJMs3IUaEZeoDp7pdWOVGFDMrLNJtIOCHJSoap6LPsdTP7M19afZSrSOnEb2wAQWU=;COXmMRrMeEzPNyxrjeF3aA=="
 ---
 
