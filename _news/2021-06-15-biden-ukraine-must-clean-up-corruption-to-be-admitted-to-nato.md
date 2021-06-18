@@ -123,6 +123,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Alert: US Catholic bishops approve drafting of Communion document that could lead to rebuke of President Joe Biden"
+    excerpt: "US Catholic bishops approve drafting of Communion document that could lead to rebuke of President Joe Biden. Texas clears out a prison to hold migrants after Abbott orders state... What's it like delivering mail in the No."
+    publishedDateTime: 2021-06-18T17:47:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 83
 
 secured: "z5KMqoqR1qFGHDj4P7rULYnUHjVrHuQR2unKh7mnrGIuQTCp1azEmEhEzpF52ZtH2JfUQtpHlbOCXFE8Ym6vkN9TPMoDqbTsSyq+kriJpTqZ2h7SLycyWuV+mvedWlR/fZ1G8PwQmgmsIDBGfEw1cJ552Fln07tNGQacwehi/FptvmWbUyGxPDcFiRmu0Smzjtq/926gGS6xtI392VMb+FgUP3ufbfWxATSO7KrY+zf3XAydESFOJarNtVg31C2YG5maSdisiyzfO4vRBJd8YCux/lBfdIbFXdcGVvoaQ5o5sQ6Hr4/ALOVpccX0XboPuPlnCWQuTNXpdenuSV1Ko5t98fflCribDVEZiqywG84=;fm5ao3zT/EwhAjyRNr09Hw=="
 ---

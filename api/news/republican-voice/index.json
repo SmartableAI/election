@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-18-biden-admin-sending-f-you-message-with-string-of-family-related-hires-obama-ethics-chief.md",
+      "title": "Biden admin sending 'F--- you' message with string of family-related hires: Obama ethics chief",
+      "excerpt": "Walter Shaub, Obama’s director of the Office of Government Ethics, tore into the Biden administration’s hiring process in a Twitter thread citing an article about the family of top administration officials getting jobs in the federal government.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XmoZvWpSgxw/biden-administration-family-hires-richetti",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XmoZvWpSgxw/biden-administration-family-hires-richetti",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21166471478931.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T09:28:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-cruz-rips-kamala-harris-for-avoiding-border-trip-on-fox-friends-like-a-comedy-show.md",
       "title": "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’",
       "excerpt": "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show.",
@@ -570,7 +626,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1604,63 +1660,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-media-fawning-over-joe-biden-for-return-to-normalcy-are-missing-destabilizing-effects-ben-domenech.md",
-      "title": "Media fawning over Joe Biden for ‘return to normalcy’ are missing 'destabilizing effects': Ben Domenech",
-      "excerpt": "The mainstream media has spotlighted President Biden for replacing Trump, The Federalist founder Ben Domenech argued on \"Media Buzz.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech",
-      "originalUrl": "https://www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2411cae0-9c18-4a55-abf0-2cae2c64bb7d/a9cabb4f-5ce4-40c3-84ca-8a10a3d1e0ba/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech.amp",
-      "publishedDateTime": "2021-06-13T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

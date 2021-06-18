@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Catholic bishops approve Communion document aimed at possible rebuke of Biden"
+    excerpt: "The U.S. Conference of Catholic Bishops (USCCB) voted overwhelmingly to draft a formal document on the meaning of the Eucharist after a contentious debate on whether President Biden and other politicians who support abortion policies are worthy of receiving Communion at Mass. "
+    publishedDateTime: 2021-06-18T17:33:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y6NSM1PLQUY/catholic-bishops-communion-rebuke-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/catholic-bishops-communion-rebuke-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholic-bishops-communion-rebuke-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-57394351.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57394351.amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -123,6 +123,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Alert: US Catholic bishops approve drafting of Communion document that could lead to rebuke of President Joe Biden"
+    excerpt: "US Catholic bishops approve drafting of Communion document that could lead to rebuke of President Joe Biden. Texas clears out a prison to hold migrants after Abbott orders state... What's it like delivering mail in the No."
+    publishedDateTime: 2021-06-18T17:47:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 83
 
 secured: "PY/Za/UILl+XdTBKGThnTl1tYfMr6J7RGqjhal4/YQ9coI4wViMmUzjKHnIOZ/m/PK2czVrnm7CH6rue4WU/QZQMXHCowyrNEERi31uV0CoHd1egx+uq97FeGZqgO9ul6DWLeohP6zCagW37WbjNy2xPGK7UFs1ssX3CL1TZK0oeTegftVZqnJmFFqjpVLPe1dxLCHyS+j2owROiWTtXun5S+FI1WHInsQ1mCStDnlyUrHXmMgrCXQdQSgfOfhQez+7ikzmGwsN4bhpYAguvMM4al5NgiRYuTr6ZmSRO35aTQnXLc6Nvq4OBZPFFdBSiNMzvA81CC8Y5InAOtDiNNnO3eNsMFOUj3TvB4vfCBl8Gb3DL46kpNyn3YxO65SzBnmNywCZcsZ6DviyDg2wYZZyIuGDwMHUvZaJ/9qJDvORfWKf/sywNuOJ5B9NUmdaWIm38V71y4sh5MYA7XzPQzamt8x4ymH7njszmcPl6po40UvluQ+6aN67yu4pPxSwc6kWopHHSf08eeAoIbTPeuQ==;yw5fAhpVLJnRjB37+E4xyQ=="
 ---

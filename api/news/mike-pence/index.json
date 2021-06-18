@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-19-traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd.md",
+      "title": "‘Traitor!’ Mike Pence booed in Florida while addressing Christian crowd",
+      "excerpt": "Scattered boos greeted former Vice President Mike Pence in Central Florida as he stood behind a lectern to address a coalition of Christian and conservative voters. Someone yelled, “Traitor!” as Pence began to speak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tampabay.com/news/florida-politics/2021/06/18/traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd/",
+      "originalUrl": "https://www.tampabay.com/news/florida-politics/2021/06/18/traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tampabay.com/resizer/8mdUt2SqoYY4mOBdRjUraDGLVE4=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/TBMQISGD5WVO6C4QWVG3OOSU5U.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tampabay.com/news/florida-politics/2021/06/18/traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2021/06/18/traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd/?outputType=amp",
+      "publishedDateTime": "2021-06-18T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-mike-pence-tells-kamala-harris-its-time-to-visit-southern-border.md",
       "title": "Mike Pence Tells Kamala Harris 'It's Time' to Visit Southern Border",
       "excerpt": "Donald Trump's former VP criticized Harris while tweeting images of him visiting the border during his time in the office.",
@@ -1445,58 +1488,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-mike-pence-is-returning-to-the-public-eye-today-and-insiders-say-it-could-foreshadow-a-2024-presidential-run.md",
-      "title": "Mike Pence is returning to the public eye today — and insiders say it could foreshadow a 2024 presidential run",
-      "excerpt": "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
-      "originalUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg",
-          "width": 847,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

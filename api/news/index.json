@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-19-traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd.md",
+      "title": "‘Traitor!’ Mike Pence booed in Florida while addressing Christian crowd",
+      "excerpt": "Scattered boos greeted former Vice President Mike Pence in Central Florida as he stood behind a lectern to address a coalition of Christian and conservative voters. Someone yelled, “Traitor!” as Pence began to speak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tampabay.com/news/florida-politics/2021/06/18/traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd/",
+      "originalUrl": "https://www.tampabay.com/news/florida-politics/2021/06/18/traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tampabay.com/resizer/8mdUt2SqoYY4mOBdRjUraDGLVE4=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/TBMQISGD5WVO6C4QWVG3OOSU5U.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tampabay.com/news/florida-politics/2021/06/18/traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2021/06/18/traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd/?outputType=amp",
+      "publishedDateTime": "2021-06-18T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-floridas-top-democrat-files-complaint-against-former-trump-attorneys-charity.md",
+      "title": "Florida's top Democrat files complaint against former Trump attorney's charity",
+      "excerpt": "If you take advantage of Floridians, if you think the rules do not apply to you, we will release a Kraken of our own,” Fried added.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/florida/story/2021/06/18/floridas-top-democrat-files-complaint-against-former-trump-attorneys-charity-1386649",
+      "originalUrl": "https://www.politico.com/states/florida/story/2021/06/18/floridas-top-democrat-files-complaint-against-former-trump-attorneys-charity-1386649",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/fa/7c/281964ad4459be82fa9979a252a7/201202-sidney-powell-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-biden-admin-sending-f-you-message-with-string-of-family-related-hires-obama-ethics-chief.md",
+      "title": "Biden admin sending 'F--- you' message with string of family-related hires: Obama ethics chief",
+      "excerpt": "Walter Shaub, Obama’s director of the Office of Government Ethics, tore into the Biden administration’s hiring process in a Twitter thread citing an article about the family of top administration officials getting jobs in the federal government.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XmoZvWpSgxw/biden-administration-family-hires-richetti",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XmoZvWpSgxw/biden-administration-family-hires-richetti",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21166471478931.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T09:28:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-trumps-new-chief-spokeswoman-liz-harrington-has-been-a-serial-promoter-of-election-lies.md",
       "title": "Trump's new chief spokeswoman, Liz Harrington, has been a serial promoter of election lies",
       "excerpt": "Former President Donald Trump's new chief spokeswoman has been a serial promoter of lies about the 2020 election.\n    \n",
@@ -112,6 +268,63 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-trump-was-wrong-about-the-law-obamacare-politics-and-his-judges.md",
+      "title": "Trump was wrong about the law, Obamacare politics and his judges",
+      "excerpt": "Analysis: The former president promised that his Supreme Court picks would overturn the Affordable Care Act. He met the court's ruling with the deafening silence of defeat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/trump-was-wrong-about-law-obamacare-politics-his-judges-n1271216",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/trump-was-wrong-about-law-obamacare-politics-his-judges-n1271216",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3484063/210617-trump-obamacare-mb-1951.jpg",
+          "width": 3840,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1271216",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271216",
+      "publishedDateTime": "2021-06-18T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1125,226 +1338,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-trump-also-writing-a-book-like-jared-kushner-its-a-fact-checking-nightmare.md",
-      "title": "Trump Also Writing A Book Like Jared Kushner: It's 'A Fact-Checking Nightmare'",
-      "excerpt": "Trump said he was \"writing like crazy\" to complete the \"book of all books\" Publishers from the Big Five said they were not aware of any book deal with Trump Jared Kushner has also secured a publishing deal for a Trump-era memoir Jared Kushner,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-also-writing-book-jared-kushner-its-fact-checking-nightmare-3228062",
-      "originalUrl": "https://www.ibtimes.com/trump-also-writing-book-jared-kushner-its-fact-checking-nightmare-3228062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg",
-          "width": 1024,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-also-writing-book-jared-kushner-its-fact-checking-nightmare-3228062?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-also-writing-book-jared-kushner-its-fact-checking-nightmare-3228062?amp=1",
-      "publishedDateTime": "2021-06-16T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-house-approves-bill-marking-juneteenth-a-federal-holiday-sending-it-to-bidens-desk.md",
-      "title": "House approves bill marking Juneteenth a federal holiday, sending it to Biden's desk",
-      "excerpt": "The U.S. House of Representatives on Wednesday approved a bill that aims to establish June 19th, or Juneteenth, a federal holiday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zeIc4QDT4bo/house-approves-bill-juneteenth-federal-holiday-bidens-desk",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zeIc4QDT4bo/house-approves-bill-juneteenth-federal-holiday-bidens-desk",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b10afd56-de47-47cb-81f7-e9900422886c/770e256a-5e41-451e-bac1-0aee60b840fa/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-approves-bill-juneteenth-federal-holiday-bidens-desk.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-approves-bill-juneteenth-federal-holiday-bidens-desk.amp",
-      "publishedDateTime": "2021-06-16T17:25:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-biden-doj-drops-lawsuit-against-john-bolton-over-2020-book-release.md",
-      "title": "Biden DOJ drops lawsuit against John Bolton over 2020 book release",
-      "excerpt": "The Justice Department has dropped its civil lawsuit against former National Security Adviser John Bolton over the publication of his 2020 book, “The Room Where It Happened,” according to a court filing obtained by Fox News on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1LPdxlRz5M/biden-doj-drops-lawsuit-john-bolton-2020-book-release",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1LPdxlRz5M/biden-doj-drops-lawsuit-john-bolton-2020-book-release",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21948497-d71d-4756-860b-01df3fc7e75c/a33233af-5627-4652-b2ba-ec4645bfdae9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp",
-      "publishedDateTime": "2021-06-16T16:08:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-merrick-garland-reverses-trump-era-decisions-on-asylum-claims.md",
-      "title": "Merrick Garland reverses Trump-era decisions on asylum claims",
-      "excerpt": "The Department of Justice (DOJ) announced the reversals on Wednesday, which would set U.S. immigration policy back to where it was before decisions made by Trump-era DOJ officials Attorney General Jeff Sessions and Deputy Attorney General Jeffrey Rosen.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/al3KUPd4sgA/garland-reverses-trump-era-asylum-decisions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/al3KUPd4sgA/garland-reverses-trump-era-asylum-decisions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4103c4e5-d00a-4af6-ad62-f5bd254ac7e9/f4748280-16c7-4002-8b38-39b4f00e46a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/garland-reverses-trump-era-asylum-decisions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-reverses-trump-era-asylum-decisions.amp",
-      "publishedDateTime": "2021-06-16T15:12:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -35,7 +35,7 @@ related:
   - title: "RNC Chair McDaniel: Kamala Harris Is Sending A Clear Message That She Just Doesn't Care About The Border"
     excerpt: "RNC Chairwoman Ronna Romney McDaniel said on Wednesday to FOX News that Vice President Kamala Harris has turned a blind eye to the border. RNC CHAIRWOMAN RONNA MCDANIEL: The border is in crisis. And I think every American looks at what is happening with a 200% increase in people coming through,"
     publishedDateTime: 2021-06-16T17:43:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.amp.html"
     type: article
