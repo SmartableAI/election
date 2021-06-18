@@ -31,23 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Senate panel to hold hearing on Biden NTSB chair nominee - sources"
+  - title: "U.S. Senate panel to hold hearing on Biden NTSB chair nominee -sources"
     excerpt: "The U.S. Senate Commerce Committee plans to hold a confirmation hearing for President Joe Biden's nominee to chair the National Transportation Safety Board (NTSB) on June 24, sources said on Thursday."
-    publishedDateTime: 2021-06-18T00:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-transportation-idUSKCN2DT2NR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DT2NR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DT2NR"
+    publishedDateTime: 2021-06-18T00:35:00Z
+    webUrl: "https://www.reuters.com/world/us/us-senate-panel-hold-hearing-biden-ntsb-chair-nominee-sources-2021-06-17/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 105
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210617&t=2&i=1566091935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5G1EW"
-        width: 804
-        height: 545
+      - url: "https://www.reuters.com/resizer/V4Ci-n8-vdhdBQ8sVrBqH8YcfU4=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SCMCKRFX6NOX5BMSTVMHPMHRDU.jpg"
+        width: 800
+        height: 419
         isCached: true
 
-secured: "Wb8D+W80JrXcKjFID/XQh4qLHKAQaDPdpsPaHas42Wvoe+pUDC0Jl0wvWvtD/JP71UIl/DyqTzIybC97XYHE0uIneLFh7bXvWKX/zDg9WilM4KXxoHrXOEIyUIK/FlfcCGvFraaSPPbHvcCz22bZlFIn2gK/MpRLzBGpRTW5+B4jbLjAenmEnDUb8qLhppAUGf+lXRzbhP0IF8QmELYxaQhblxngUNyJJjT+c0Xg+l6R0ifrJ7xYk4/wVqJEtYgu8j6+xYcamhYabWIJKAT7gW6Sxy755LuJNW000hF1et96pjC8XjwtcHUoB2JYXUq799RS697JzHwRrNI/Y3zpjVpbO9fLcpxe3ywdhy3yVmw=;l0ypx3lLqOShPyYwuHt5Jg=="
+secured: "ejPFPVDueb9c9G32iwd37nMB9x7Jwj+BZIUJ3+SF5gdPWIw8cWqqeXLvMD2sJpIdHPuo9J1kvBCg3yAPqdjhU2iMaWs8J34WgT0m+0LE/4YCZ+WK4hqKt2gW4EHPIKfax/1o7w9WG/gUywru114OwIkNIX2fgMC8Lagyvc56o7hX8ITp5f/g31IGqvryWfv5TKyQ7t4gAT7+5Uv5/VZ9Ym0Sa6TwME/P2WYctu6jlBBLQ3C0PBnZE4btqq+d3OgIUot6OvrEinZazTQeR2vbOl2X/1/4d0VD8/dpzVX9RsOonQJEoTU0t4xlLOQM7UuwsPRc3NvwRf68kBQGDPLdt5zYNCeV889qGtjzYgozS+F8KXDXW3pYlSNy03ThXLs0nuNxqXxcaRcZ99t1tsCDxXm2zewElNfqi/MaK17YmlwA68dXsIw/xgu5oyCk2H+pusdm6Ro5+uVA97ImqGkgtX48dVv+Y/PqTS+5nrmL9lCqyGSBygrLE/CG1U4oEgC5BMYzqU3VbfN3FTqhbr0MSQ==;ga0zW8RvYSUKu/PDAiPU0w=="
 ---
 

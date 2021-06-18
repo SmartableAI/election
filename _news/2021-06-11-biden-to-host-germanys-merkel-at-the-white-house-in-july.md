@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/557943-biden-to-host-ger
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july?amp"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden signs bill making Juneteenth a federal holiday"
-    excerpt: "President Joe Biden has signed legislation Thursday establishing a new federal holiday commemorating the end of slavery, saying he believes it will go down as one of the greatest honors he has as pres"
-    publishedDateTime: 2021-06-17T19:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/congress-approves-bill-to-make-juneteenth-a-federal-holiday/2021/06/17/55035578-cf4f-11eb-a224-bd59bd22197c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/congress-approves-bill-to-make-juneteenth-a-federal-holiday/2021/06/17/55035578-cf4f-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/congress-approves-bill-to-make-juneteenth-a-federal-holiday/2021/06/17/55035578-cf4f-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DFULVLWPVAI6XIREXVM32IQZPQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Joe Manchin: the Democrat who holds the fate of Biden’s agenda in his hands"
     excerpt: "Burst of legislating slowed this week as most conservative Senate Democrat thrust into position of unique power"
     publishedDateTime: 2021-06-13T18:06:00Z

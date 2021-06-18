@@ -1,34 +1,28 @@
 ---
 category: news
-title: "After Trump's flattery, GOP hits Biden as weak on Russia"
-excerpt: "Republicans are criticizing President Joe Biden, accusing him of being weak on Russia after his summit with Vladimir Putin"
-publishedDateTime: 2021-06-17T22:29:00Z
-originalUrl: "https://www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html"
-webUrl: "https://www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+title: "After Trump's Flattery, GOP Hits Biden as Weak on Russia"
+excerpt: "Republicans are criticizing President Joe Biden, accusing him of being weak on Russia after his summit with Vladimir Putin."
+publishedDateTime: 2021-06-17T18:28:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-17/after-trumps-flattery-gop-hits-biden-as-weak-on-russia?context=amp"
 type: article
-quality: 140
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ESVLWGPTEI6XIREXVM32IQZPQ.jpg&w=1440"
-    width: 1440
-    height: 982
-    isCached: true
 
 related:
   - title: "British elections send a message to Trump, GOP and Biden’s Democrats"
@@ -995,6 +989,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "b9HOpoTsQNqFTtOpX/NIm/ikKWhvO6ZEeF3eCr0A2UuQa1Y7KVFOXNXcToVc81rQrH8j0YaeBJlIPw+yMrRt9omWuDEoDypiNw2/mcOunrP7B3upuBAgp9ok5qj1f/e1EeD3ouaQVce/Ce+k5EcLBM2O1qnmu3PbuyhSG+zwHgAy8Sg5dQikk5WF2s5g0EUryvMQETMj9zennQVjwtwO6WG1JmnHsLMuJhqblpHcpL7WmrKQbkBFSpawruAi2v9jOkkDkQU44sI2DlZMB+e/Pb4cr/rLkXuG5c9GgB6WfmbtoVtD+r/CfEPOH7IUrjEev5pgla/WSoHXcCu4AcZa8Y9gXZX0wGPoP1bJqiWEh/fxuc6ClZMSQ/e1Jv9TpqhYdNeuJ+4oOom6NTftuiw7bNoslIGMv9k8IRyoI/IBwKez4Y8c4r0L+ZQWn1DM03C5HQcZa75Ijk6xHbVqhOtu44O/ZuqWmobzXHTdCs/CgVgYcVyTItDNpTwxWRKmpOAF3Wy+TDqfU2D25APuKfwYQg==;UAo1a9nMD8wtqbH2Jlkvsw=="
+secured: "e46Jxf1X2o9IxLAdP8IWQQcO+jpHLcH2fu4n+7QzNULfFXowX8ohh/o7/3iNZy/BOHwzBjOAHoJ33EEeTh6w2MQkKLi7CZ67tEkdAzlDL1QPjDR2m4Wd4npdGB6Lv+q77Xk1yaD1iQmv0wI2+EPtc/tQPyaGqiU74Kmf84J0nh/yONMK0Mq9pZeH0VqAwt4KC2YQMBLEgb0TYxJLjLhXuiOgNn9spg716dFUzuGEbHzcVo027B/F+oI0kAP5v/i6NvGz0clJ1XKzP6RL1zBy4R1CZHiFf1dRL6GBW6YaI4qZyljHYmHazlJiZGgNeAtbXB2hfuMkuagMPoQFM8PczbP3fDkUIMyH9ZeMiyLA4wGdl1PqWdMCSalt746+tceJjaZANGbZCYKWXwEG4XzjoHyQrgbrRojTiSUaivfnUpM2HbwMCezoF9VFNWOyAbIhE/E9DeEyR97RMnTxEibcag06P+nH1mqGQi5/il543/FEl4r0XavJLOMhudIC0tnxfFex3iWrw9ptkRBTTyEbMQ==;dSwqocKoyXZbq+LMKu6o9w=="
 ---
 
