@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden signs bill making Juneteenth a federal holiday"
+    excerpt: "President Joe Biden has signed legislation Thursday establishing a new federal holiday commemorating the end of slavery, saying he believes it will go down as one of the greatest honors he has as pres"
+    publishedDateTime: 2021-06-17T19:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/congress-approves-bill-to-make-juneteenth-a-federal-holiday/2021/06/17/55035578-cf4f-11eb-a224-bd59bd22197c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/congress-approves-bill-to-make-juneteenth-a-federal-holiday/2021/06/17/55035578-cf4f-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/congress-approves-bill-to-make-juneteenth-a-federal-holiday/2021/06/17/55035578-cf4f-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DFULVLWPVAI6XIREXVM32IQZPQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Juneteenth is officially a federal holiday after President Biden signs bill in White House ceremony"
     excerpt: "President Joe Biden signed a bill making June 19th a federal holiday at a White House ceremony with Vice President Kamala Harris, Opal Lee and others."
     publishedDateTime: 2021-06-17T20:07:00Z

@@ -3,20 +3,20 @@ category: news
 title: "After Trump's flattery, GOP hits Biden as weak on Russia"
 excerpt: "Republicans are criticizing President Joe Biden, accusing him of being weak on Russia after his summit with Vladimir Putin"
 publishedDateTime: 2021-06-17T18:29:00Z
-originalUrl: "https://www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html"
-webUrl: "https://www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-trumps-flattery-gop-hits-biden-as-weak-on-russia/2021/06/17/f63b58b0-cf99-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-flattery-gop-hits-biden-weak-russia-78341506"
 type: article
 quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ESVLWGPTEI6XIREXVM32IQZPQ.jpg&w=1440"
-    width: 1440
-    height: 982
+  - url: "https://s.abcnews.com/images/Politics/WireAP_23c164ab56a64884a7ca9d3fa7ed95b2_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -995,6 +995,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "NnD4ofPtG4SihSJioIFPlpxREMC6I2xct6zDTAmUYnDkjka/LvslOnVy3ls6HXc04pxvghBHVU8UwIp6CFH5VXZhSydhtpve2XIjsMN87YGO8c4KPgXbRcRhujzpksNY6hDb4CrYQ9kPqXRJ8Z57DEd3Dv0MWQGqSlhru5vfvkZ7mixrkYSLwSKYXHLeUpgYlk9LpBGmhVKnNb6QnZUcanHmryGdczDodxsByVOa7wahKJsFxBaVMd2M6318LprbM9T/KlxO/vTJ4CB9CmrWoJOSIGpi4rD+BAYfSnliO9AopEf3c4yXiK18TTqySs+KiXysPdnXwfnz5GfibGyN+iocFNBXgdmBL8HJScnXC3ojBUKepGG1ZiXOeSqSE1Z/befOysuugqRYhaevFuiym0RnNTJcQBOIpoYrfCVyiBZJSwPTdl0G5bCF5NbQ5M/P22gPoUNLBH0uvxBAqZ0Dfc13CaWJW6y4BRkWhqFKqq61AuzVAKMdfhrJD2uU9UaQpo2chxQxtD/J51gLIJl+ag==;95bg5h60qtiamUAh1E0gfw=="
+secured: "zfEOilKYIL8XyVLq/2bpdS3bgaiRetl76Z4HJyJgqyjFnSMOPf/e/JMwkeoMfQvA/p6XgkqfJhb9preEt7sn8gPHziumjfHMAmzsPaOBWgXugFyWgx5VH6R5t+FFeBMMqEziJbLU/Rja1b2nIzQDqtocTd9ST+mfktwxGyqPh2+nzeH8OSsehabuExgucDrshEaKU/rqTxQHHLoEXm+k0z4BVje+51XWlE4o3U9JTM6zd6FHEOq7/lN+Qhyt94HYiu7zmGXdJdmVeJ7vdcyZBueJCD2WF0dFncuhbq/Gb3YoHPcydoaizYrLW7mpQRRBHx7aoM4iO1MRxMs9DGI293MYNKrS2WOjSjBad6Kw/5U=;oh/mWu+M8fvnuQuiW8PhzA=="
 ---
 

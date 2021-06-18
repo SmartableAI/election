@@ -2,9 +2,9 @@
 category: news
 title: "U.S. reverses Trump era asylum restrictions"
 excerpt: "Watch \"U.S. reverses Trump era asylum restrictions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-06-18T01:17:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210618011701-u-s-reverses-trump-era-asylum-restrictions/"
-webUrl: "https://www.cbsnews.com/live/video/20210618011701-u-s-reverses-trump-era-asylum-restrictions/"
+publishedDateTime: 2021-06-17T22:17:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210617221706-u-s-reverses-trump-era-asylum-restrictions/"
+webUrl: "https://www.cbsnews.com/live/video/20210617221706-u-s-reverses-trump-era-asylum-restrictions/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/18/story_10884292_1623979503.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/17/story_10882168_1623968823.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -523,6 +523,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. reverses Trump-era restrictions on asylum for victims of domestic and gang violence"
+    excerpt: "Attorney General Merrick Garland revoked a Trump-era policy that severely restricted the ability of survivors of domestic and gang violence to seek humanitarian protection in the United States. CBS News immigration reporter Camilo Montoya-Galvez joins \"Red and Blue\" anchor Elaine Quijano with more on why it could pave the way for a broad shift in America's asylum policy."
+    publishedDateTime: 2021-06-18T01:58:00Z
+    webUrl: "https://www.cbsnews.com/video/us-reverses-trump-era-restrictions-on-asylum-for-victims-of-domestic-and-gang-violence/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/us-reverses-trump-era-restrictions-on-asylum-for-victims-of-domestic-and-gang-violence/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/us-reverses-trump-era-restrictions-on-asylum-for-victims-of-domestic-and-gang-violence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/18/38294209-7bd1-472a-9b25-99cd51fa7b1b/thumbnail/1200x630/4cff48ade6d6bbd0677bb2d01444bb0e/cbsn-fusion-us-reverses-trump-era-restrictions-on-asylum-for-victims-of-domestic-and-gang-violence-thumbnail-736788-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Justice Department subpoenaed Apple for communications data on House Democrats, report says"
     excerpt: "Democrats called for an investigation after The New York Times reported that President Donald Trump's DOJ seized data from House Democrats."
     publishedDateTime: 2021-06-11T05:53:00Z
@@ -1009,6 +1025,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Man pleads guilty to shooting Black girl at Iowa Trump rally"
+    excerpt: "A supporter of former President Donald Trump has pleaded guilty to felony charges for firing his handgun into a carful of Black girls who were arguing with pro-Trump agitators near the Iowa Capitol last December,"
+    publishedDateTime: 2021-06-18T02:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/jun/17/man-pleads-guilty-shooting-black-girl-iowa-trump-rally/548837/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 55
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2021/06/17/ap211685407925999689617375_t1070_h05ed6a66af78a0517a9025eafb2327a9e0cdab1b.jpg"
+        width: 1070
+        height: 712
+        isCached: true
   - title: "How Donald Trump Celebrated First Birthday Since Leaving White House: Report"
     excerpt: "Former President Donald Trump celebrated his first birthday since leaving the White House with his son, Donald Trump Jr., at his golf club in Bedminster, New Jersey."
     publishedDateTime: 2021-06-16T04:49:00Z
@@ -1099,6 +1129,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "p1q7PumLfLwynEKGvtQMymWu0tXCrrE0Gw5lFJVJDGgFm2CQs7q9v7p5iZUFJ2N2LaVhIw4R2q7v4F1DrSD7JHPfZ1u9tONU5ZU9jJe2qJj59dcotiAqIDytWA+Q5xOSAPDdyWPGd2IbJPDmCQLszhLYREq4kZU2W0GKFpdV4jjkV0gfMrAIeFoMflCmWvFPiqK9Gf3Bj925LUzoy+F6K+sfIS77R+jJw+8PMAHb8swAP0GOYMg8u2BiKgcyO8nuH6oVKl/MPgHV6wesZuGEEEb9aDCcWCEt7t8HaUvJ1G/PMZyknMwmm4bvueof2qo2L/i5TUm30+f+aghbKSe/u6EfGOZYDZ45tbwdf5j5rzY=;8s5NbOFqwW8JzfDQ1jhc5Q=="
+secured: "RkPCFpbq43K7AienIhOSjQdQn8xOZlrUUlkGC0njzzv3QeDp9UEsE8p8g6p55gRJw1SwVGx/WJfYOgeYAVniLGcsjzKOS5DXxQ5aK9dEMox9N5IMbEdmK/w7T2IG0Y9Mmfhs2pLUhLOzNsgGhL33SLhxrxpIzk6yQHDxmPG/jS5NnuaS/pXvh/r/FLjCSCI0HWjkW39+iRvZSPZruhCbGyVRBQQ8tGlPS229yGzVVyZQ/8R3aLvaXALRb+j2doiIyqBMe2C8Jorx+TLUHdOfN/PEP8N1VOOxklQqOHiu2alrmzigFjjW6J5yc+r0JQsU4YUSjjI1X7ha/o6Ue2UugbAiitJEKjSA+Fmj3VinrTc=;RLQC05nM4MMefAVDkraI5Q=="
 ---
 

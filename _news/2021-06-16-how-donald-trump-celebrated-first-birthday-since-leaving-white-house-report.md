@@ -523,6 +523,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. reverses Trump-era restrictions on asylum for victims of domestic and gang violence"
+    excerpt: "Attorney General Merrick Garland revoked a Trump-era policy that severely restricted the ability of survivors of domestic and gang violence to seek humanitarian protection in the United States. CBS News immigration reporter Camilo Montoya-Galvez joins \"Red and Blue\" anchor Elaine Quijano with more on why it could pave the way for a broad shift in America's asylum policy."
+    publishedDateTime: 2021-06-18T01:58:00Z
+    webUrl: "https://www.cbsnews.com/video/us-reverses-trump-era-restrictions-on-asylum-for-victims-of-domestic-and-gang-violence/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/us-reverses-trump-era-restrictions-on-asylum-for-victims-of-domestic-and-gang-violence/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/us-reverses-trump-era-restrictions-on-asylum-for-victims-of-domestic-and-gang-violence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/18/38294209-7bd1-472a-9b25-99cd51fa7b1b/thumbnail/1200x630/4cff48ade6d6bbd0677bb2d01444bb0e/cbsn-fusion-us-reverses-trump-era-restrictions-on-asylum-for-victims-of-domestic-and-gang-violence-thumbnail-736788-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Justice Department subpoenaed Apple for communications data on House Democrats, report says"
     excerpt: "Democrats called for an investigation after The New York Times reported that President Donald Trump's DOJ seized data from House Democrats."
     publishedDateTime: 2021-06-11T05:53:00Z
@@ -652,15 +668,15 @@ related:
         isCached: true
   - title: "U.S. reverses Trump era asylum restrictions"
     excerpt: "Watch \"U.S. reverses Trump era asylum restrictions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-06-18T01:17:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210618011701-u-s-reverses-trump-era-asylum-restrictions/"
+    publishedDateTime: 2021-06-17T22:17:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210617221706-u-s-reverses-trump-era-asylum-restrictions/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/18/story_10884292_1623979503.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/17/story_10882168_1623968823.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1023,6 +1039,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Man pleads guilty to shooting Black girl at Iowa Trump rally"
+    excerpt: "A supporter of former President Donald Trump has pleaded guilty to felony charges for firing his handgun into a carful of Black girls who were arguing with pro-Trump agitators near the Iowa Capitol last December,"
+    publishedDateTime: 2021-06-18T02:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/jun/17/man-pleads-guilty-shooting-black-girl-iowa-trump-rally/548837/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 55
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2021/06/17/ap211685407925999689617375_t1070_h05ed6a66af78a0517a9025eafb2327a9e0cdab1b.jpg"
+        width: 1070
+        height: 712
+        isCached: true
   - title: "Former President Donald Trump endorses Mike Carey in 15th Congressional District race"
     excerpt: "Former President Donald Trump on Tuesday endorsed Mike Carey in the special election for Ohio's 15th Congressional District, giving Carey an edge in a contentious GOP primary."
     publishedDateTime: 2021-06-09T01:51:00Z

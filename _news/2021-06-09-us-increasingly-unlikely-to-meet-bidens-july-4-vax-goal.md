@@ -157,6 +157,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "President Joe Biden signs the Juneteenth Independence Day Act"
+    excerpt: "President Joe Biden listens as Vice President Kamala Harris speaks before the signing of the Juneteenth National Independence Day Act into law in the East Room of the White House in Washington, DC, on Thursday,"
+    publishedDateTime: 2021-06-17T20:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/2c3c85376b97c911279974a83aec4d7a/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/2c3c85376b97c911279974a83aec4d7a/JUNETEENTH-BILL-SIGNING.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "doIdPICtfTp6kSpCWAYuP/dVdk3OTyTzxFDiKRSz61lDhoYk34UwdrJ0WIqxybHtBuRxIK1gKEqrkGdPfq8vIfR49+7cHbJf0T0q77nilj7T9AOEF+J9flLaX66p6wb229xyCyfZ72RmCg5hT4d55KJmV0G3M3I4fxPur2UnYLVmtRhi7fLNIt3Skn7vxo7GPcmZoPVgDOlYCH6L8U5phbmatCX2g9OlW6Z8ordAtxW+QcoO5A6Rq1dmHdvSMjOG2Sjbdra35Z1h8FHrFjgTOXaPBjDpP2LtkQaibNQ9akWVwxw9MiBHpwn9+pFNZfq6LavCeAMXJOT67wBChx3gbUVborHuqOc+J3ipEZ155Oo=;S7XSfDNvo3rV42lTXzrwGQ=="
 ---

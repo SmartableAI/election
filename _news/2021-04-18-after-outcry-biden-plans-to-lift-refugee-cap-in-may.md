@@ -47,6 +47,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Should Joe Biden be interfering in Northern Ireland?"
+    excerpt: "President Joe Biden is known to be proud of his Irish roots. This connection has been a cause for celebration in the Republic of Ireland and concern in the U.K."
+    publishedDateTime: 2021-06-18T02:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/should-joe-biden-be-interfering-in-northern-ireland/article_29d77966-6bd6-5757-b636-7e3d99830c83.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/9d/29d77966-6bd6-5757-b636-7e3d99830c83/60cc02412939a.preview.jpg?resize=640%2C360"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "ryaTpmTUJSbRGjL0d1mIT6JZpO0n2oAgq6gOklPIWbETmMIpel9KvHNSmqYgj37nW01m5HzIpwqlXTJ3iX/IFursBdUlA55p56r1G/CmHW3BViqbMv1pn0rNPhYfvIjrgsvYiLGyPNT6aU4rMj9TyvQGT0t3b2DF6ANJkbOjXqAjpFzOdsAQOg5P0NRssrq1mQ+uC36JudYvecge0zZKQnbIhx7xX/hzq/dcD45etiDHXeUrWnBTt9+6zmJtNM53w+7VJ529dcvXQhAAB/YvKn1Mjq6YmX/aKp09JPiO7NgaLPvDqiyZLHHu/DvxCNwRJ1J6pUtHiReqDZMe4xTGyyTUoOAajVqdO88rcjWXDKU=;/eYciCb5m/YN50r0HGL8Uw=="
 ---

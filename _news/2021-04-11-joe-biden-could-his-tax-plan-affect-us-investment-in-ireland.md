@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-europe-56692865"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-europe-56692865"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_af5e476b20204daa83d9b6e02fe738f7_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Should Joe Biden be interfering in Northern Ireland?"
+    excerpt: "President Joe Biden is known to be proud of his Irish roots. This connection has been a cause for celebration in the Republic of Ireland and concern in the U.K."
+    publishedDateTime: 2021-06-18T02:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/should-joe-biden-be-interfering-in-northern-ireland/article_29d77966-6bd6-5757-b636-7e3d99830c83.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/9d/29d77966-6bd6-5757-b636-7e3d99830c83/60cc02412939a.preview.jpg?resize=640%2C360"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "+HC9yVaa17fXnPFeeYBbrUEWjhfwW+mqTR0rvt/D6CtOnnff/fPHcg80HHBeXriGExMdXClJ4Ug9G6qfGyk4IlFdk2y11sxoZdSyUlKykc/XhbQYNP9ffGxogrKdlGPbHsr1IQrm704CA9sSnWMeFlTWIYSf+YaRyvZon458Io9lyB19JcJ4HjZ+J4cGOVUqA7Ag0t9AvJ3M5E6ujTSZqloEPFUyGBjtjV9fcbPB59pgXe++JQ61YGkhBi6DFUUuyZv8LVkeCpee+1VhDwW8WdYQM8Jil5/kl0o0h3quKmPu58YOLsQVKbY0C3+oCxzv3H73nhJtLuug1bghQVzbAonoL0QwsyTEeQwHQIL0V/E=;FVbrELTf8VXGr/LFLvcrWQ=="

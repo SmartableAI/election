@@ -1,0 +1,63 @@
+---
+category: news
+title: "Should Joe Biden be interfering in Northern Ireland?"
+excerpt: "President Joe Biden is known to be proud of his Irish roots. This connection has been a cause for celebration in the Republic of Ireland and concern in the U.K."
+publishedDateTime: 2021-06-18T02:30:00Z
+originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/should-joe-biden-be-interfering-in-northern-ireland/article_29d77966-6bd6-5757-b636-7e3d99830c83.html"
+webUrl: "https://www.stltoday.com/news/national/govt-and-politics/should-joe-biden-be-interfering-in-northern-ireland/article_29d77966-6bd6-5757-b636-7e3d99830c83.html"
+type: article
+quality: 55
+heat: -1
+published: false
+
+provider:
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/9d/29d77966-6bd6-5757-b636-7e3d99830c83/60cc02412939a.preview.jpg?resize=640%2C360"
+    width: 640
+    height: 360
+    isCached: true
+
+related:
+  - title: "Joe Biden: Could his tax plan affect US investment in Ireland?"
+    excerpt: "The head of the country's inward investment agency, Martin Shanahan, described the Stripe investment as a \"phenomenal signal from Ireland and about Ireland\". But there's now a risk that the pipeline of investment from the US could dry up if President Joe Biden can lead a major change to global tax rules."
+    publishedDateTime: 2021-04-11T06:10:00Z
+    webUrl: "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-europe-56692865"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-europe-56692865"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13308/production/_117900687_06ffc346-865c-4109-8912-654957eb9bfa.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "After outcry, Biden plans to lift refugee cap in May"
+    excerpt: "President Joe Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements and getting swift blowback from allies in return."
+    publishedDateTime: 2021-04-17T23:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/outcry-wh-biden-lift-refugee-cap-77132342"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/outcry-wh-biden-lift-refugee-cap-77132342"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/outcry-wh-biden-lift-refugee-cap-77132342"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_af5e476b20204daa83d9b6e02fe738f7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+
+secured: "DRJHIbjO6d4m0+P3BsHqbDsRXlIL/OGM5dJOr7KB3gT8Y2hE6kJnZzI+aZadL6xP2R5QmTAK0fhF+oVtRYOADqxgB7dz1MdR2J/5xZpuYsTlied8q/ZryIdn8KYVNRTcx6DykroRXsJg4XKSg9XiF2cfHnrBMFIfDe2f6wXPnuoXl6AJp51ilLVicNIhpQ9fxlq/pmowUmxFI6O1yidN5Ewafem9rzrPBlV/WO+TDrpwV2Qxtxd3rx7tWXkAb7iniYhS1l5nM9XokI/hinOLMuSjUrdrs+7afoL8XNFhKukUIPd9L/jpdvDTeaBxo4/VJEQ4M0hjZtcj2G29dmpTrh6C9zOJon5LXdh+rADZ1EM=;bBPqbEtw3besN8QZ2GX72Q=="
+---
+
