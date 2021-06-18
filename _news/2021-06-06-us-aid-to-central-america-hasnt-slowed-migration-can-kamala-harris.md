@@ -32,12 +32,12 @@ images:
     isCached: true
 
 related:
-  - title: "Why Kamala Harris is heading to Guatemala and Mexico "
-    excerpt: "Kamala Harris leaves for Latin America on Sunday under intense political pressure to stem the flow of migrants to the US, with lots of people asking what she's doing heading out on her first foreign trip as vice president before releasing a comprehensive strategy.\n    \n"
-    publishedDateTime: 2021-06-06T14:25:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jSj2Jzr_iiI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-mexico-immigration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-mexico-immigration/index.html"
+  - title: "Harris faces first major diplomatic test"
+    excerpt: "Vice President Kamala Harris is facing the first major diplomatic test of her vice presidency as she looks to tackle the root causes of migration toward the US in her full day of meetings in Guatemala.\n    \n"
+    publishedDateTime: 2021-06-07T14:24:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qHtO0gxp_74/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic-test/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic-test/index.html"
     type: article
     provider:
       name: CNN
@@ -77,38 +77,6 @@ related:
     quality: 179
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607122242-01-kamala-harris-guatemala-0607-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Harris aiming to deepen US relationship with Guatemala and Mexico on first foreign trip"
-    excerpt: "Kamala Harris will try to deepen the United States' \"strategic partnership and bilateral relationship\" with Guatemala and Mexico on her first foreign trip as vice president, according to her senior staff members.\n    \n"
-    publishedDateTime: 2021-06-02T11:16:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bp3XSrhYEYE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/kamala-harris-guatemala-mexico-first-foreign-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/kamala-harris-guatemala-mexico-first-foreign-trip/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 177
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420152901-kamala-harris-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Harris invites all female senators for dinner at Naval Observatory amid infrastructure negotiations"
-    excerpt: "Vice President Kamala Harris has invited every female senator to the Naval Observatory for dinner next Tuesday, according to a Harris aide and Senate aide, in a show of bipartisanship among a deeply divided Congress.\n    \n"
-    publishedDateTime: 2021-06-08T19:07:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KCvgHDU-6eM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/vice-president-female-senators-dinner/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/vice-president-female-senators-dinner/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607173528-06-kamala-harris-guatemala-mexico-visit-unf-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -191,52 +159,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/KamAFP_9BJ4PM.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Kamala Harris meets with Mexico’s president in a high-stakes trip to the region."
-    excerpt: "While meeting with Mexico’s president, Vice President Kamala Harris will likely discuss a restrictionist policy that the administration has said is necessary to prevent overcrowding in detention facilities."
-    publishedDateTime: 2021-06-08T17:07:00Z
-    webUrl: "https://www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/08/world/08new-washington-briefing-harris2/08new-washington-briefing-harris2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Kamala Harris’s Vice Presidency Is Coming Into Focus. Everyone Has an Opinion About What They See."
-    excerpt: "In a role that seldom allows for error, Ms. Harris is trying to shape her vice presidency by tackling unwieldy policy issues."
-    publishedDateTime: 2021-06-11T21:47:00Z
-    webUrl: "https://www.nytimes.com/2021/06/11/us/politics/kamala-harris-vice-president.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/11/us/politics/kamala-harris-vice-president.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/us/politics/kamala-harris-vice-president.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 121
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/11/us/politics/11dc-harris1/11dc-harris1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Was Kamala Harris pushed over a glass cliff?"
-    excerpt: "Vice President Kamala Harris is back in Washington, D.C. after a difficult week. Harris arrived in Guatemala on Monday, the first part of a three-day trip that also included Mexico, as part of the diplomatic task President Joe Biden assigned her in March: treating the root causes of migration at the southern border."
-    publishedDateTime: 2021-06-11T16:17:00Z
-    webUrl: "https://www.politico.com/newsletters/women-rule/2021/06/11/was-kamala-harris-pushed-over-a-glass-cliff-493219"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "YEloIAYvF/DPFNAHnYZEBeAVRZ5AIvI8d1StlTyvyWk5DVJK7bN7WLWFHWeE/ISfmY/RDme4U6IyUE0DNQDmc9HvbGYqxsmHAVJ34ZcvYWxAiSJ+R5SyDOih1+x6XEr5piFlCWM7zTDxfMVtvItdEFQ9sBpVuf670QPRVdYlWhEr+t4WNcR4lad1EAFt+/7IJ1zAeVbS1x0jSsR9gCI6fNWP61RX7D1vp8b4xhiYUu8TqKo0i2UsdvGQcazEiWaK5akj6FcLTOwCWrKo0OUrzgPHaWk/9Y6wx+7RGeXW5cFfk0nDqAFXmLB0jcnjg4+Q/eAngZlYwzZ2YpvyIp7ls/VrYpRouWw1u/JcDDBc4nEfMZC5UxLc7hG621X9p1bBMM8WApkXp9rOCRqZJluQzn3hyyGKrHaCJGxFsQyf/qDKKg1rrDf6ZQyfB5x3qADfy35Qx4KmB5eszJqeX6giNoXZCOL1I/RZYC83r1RsxsXCVAcAXonXwHsGErAKVkKsFqhHlnG3yR92GLrJjPsfxg==;f4hL2HQfM1/hfu8asK3Nng=="

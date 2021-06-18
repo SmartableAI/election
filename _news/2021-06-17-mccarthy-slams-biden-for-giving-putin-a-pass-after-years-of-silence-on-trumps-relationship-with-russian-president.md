@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "US Catholic bishops advance communion document, setting up potential rebuke of Biden"
+    excerpt: "The United States Conference of Catholic Bishops on Friday proceeded with a plan that would deny communion to public figures who support abortion rights, setting up a potential public rebuke of President Joe Biden.\n    \n"
+    publishedDateTime: 2021-06-18T19:42:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dQCO3-hWSGo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/18/politics/catholic-bishops-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/18/politics/catholic-bishops-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517232716-01-joe-biden-0516-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says Putin is right about US-Russia relations being at 'a low point' ahead of summit"
     excerpt: "President Joe Biden said Sunday he agreed with Russian President Vladimir Putin that relations between the US and Russia are at a \"low point,\" days before the two leaders are scheduled to hold a highly anticipated summit in Geneva.\n    \n"
     publishedDateTime: 2021-06-13T15:12:17Z

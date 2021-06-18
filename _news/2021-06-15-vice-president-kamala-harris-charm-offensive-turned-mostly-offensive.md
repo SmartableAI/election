@@ -89,6 +89,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "WATCH: Kamala Harris delivers remarks on COVID vaccination effort"
+    excerpt: "Vice President Kamala Harris traveled to Atlanta on Friday to tour a pop-up COVID-19 vaccination site at Ebenezer Baptist Church, where Dr. Martin Luther King Jr. was a pastor until his assassination in 1968."
+    publishedDateTime: 2021-06-18T17:30:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-kamala-harris-delivers-remarks-on-covid-vaccination-effort"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-kamala-harris-delivers-remarks-on-covid-vaccination-effort"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-kamala-harris-delivers-remarks-on-covid-vaccination-effort"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/06/2021-06-18T163329Z_255133048_RC233O92HPI4_RTRMADP_3_USA-BIDEN-HARRIS-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "10 Texas Democrats to meet with Vice President Kamala Harris on Wednesday"
     excerpt: "Ten Texas Democratic lawmakers will meet with Vice President Kamala Harris in Washington on Wednesday after they staged a walkout that killed Republican-proposed voting restrictions. The Democrats who will be in attendance are: Rep."
     publishedDateTime: 2021-06-10T22:39:00Z
@@ -458,6 +474,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris says Texas is key example of why a new federal elections law is needed"
+    excerpt: "Vice President Kamala Harris on Wednesday pointed to Texas Republicans’ push for sweeping new voting restrictions as a key illustration of the need to restore federal oversight of elections. While meeting at the White House with a group of,"
+    publishedDateTime: 2021-06-18T00:04:00Z
+    webUrl: "https://www.expressnews.com/news/legislature/article/Vice-President-Kamala-Harris-election-law-texas-16253577.php"
+    ampWebUrl: "https://www.expressnews.com/news/legislature/amp/Vice-President-Kamala-Harris-election-law-texas-16253577.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/legislature/amp/Vice-President-Kamala-Harris-election-law-texas-16253577.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 76
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/47/57/21134316/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Kamala Harris has awkward interview with NBC's Lester Holt"
     excerpt: "During her trip to Guatemala this week, Vice President Kamala Harris did a sit-down interview with NBC's Lester Holt, who pressed Harris on the ongoing crisis at the southern U.S. border. Harris, who is visiting Guatemala to work on solutions for the \"root causes\" of migration,"
     publishedDateTime: 2021-06-09T17:29:00Z
@@ -567,6 +599,22 @@ related:
     quality: 73
     images:
       - url: "https://media.11alive.com/assets/WXIA/images/7100fe7e-4946-45b1-8873-3514f8e7374f/7100fe7e-4946-45b1-8873-3514f8e7374f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Atlanta mayor joins Vice President Kamala Harris on nationwide vaccine tour"
+    excerpt: "Atlanta Mayor Keisha Lance Bottoms joined Vice President Kamala Harris Friday on her nationwide COVID-19 vaccination tour. The \"We Can Do This\" tour helps with vaccine education and outreach efforts in order to reach President Biden's goal of getting 70 percent of Americans vaccinated by July 4."
+    publishedDateTime: 2021-06-18T18:06:00Z
+    webUrl: "https://www.11alive.com/article/news/health/coronavirus/vaccine/atlanta-mayor-joins-vice-president-kamala-harris-on-nationwide-vaccine-tour/85-b4271a09-8946-4948-8340-c1d6e5b275f1"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/health/coronavirus/vaccine/atlanta-mayor-joins-vice-president-kamala-harris-on-nationwide-vaccine-tour/85-b4271a09-8946-4948-8340-c1d6e5b275f1"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/health/coronavirus/vaccine/atlanta-mayor-joins-vice-president-kamala-harris-on-nationwide-vaccine-tour/85-b4271a09-8946-4948-8340-c1d6e5b275f1"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 73
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/72cbeba1-9999-482a-bcb1-fc2bc354119b/72cbeba1-9999-482a-bcb1-fc2bc354119b_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

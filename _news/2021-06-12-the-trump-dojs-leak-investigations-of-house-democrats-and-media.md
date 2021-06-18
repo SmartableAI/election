@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "State Dept clears Trump official of allegations of inappropriate comments on race"
+    excerpt: "EXCLUSIVE: The State Department's Office of Civil Rights cleared former Trump ambassador to the United Kingdom, Woody Johnson, from allegations of inappropriate comments regarding race, sex and religion, concluding they were \"unsubstantiated.\""
+    publishedDateTime: 2021-06-18T18:20:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W34KYi7Mbhg/state-dept-clears-trump-ambassador"
+    ampWebUrl: "https://www.foxnews.com/politics/state-dept-clears-trump-ambassador.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-dept-clears-trump-ambassador.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump Justice Department seized records of House Democrats as it searched for leakers: report"
     excerpt: "The Department of Justice under former President Donald Trump subpoenaed data from Apple belonging to a pair of House Democrats – and a least a dozen people with ties to them – as it looked into leaks of classified information, The New York Times reported on Thursday."
     publishedDateTime: 2021-06-11T01:55:36Z
@@ -236,6 +252,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Trump Was Right; So Were We"
+    excerpt: "Last Saturday, former President Donald Trump released a statement that said, Have you noticed that they are now admitting I was right about everything they lied about before the election?"
+    publishedDateTime: 2021-06-18T19:36:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/18/trump_was_right_so_were_we_545377.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "dtZI6d+/3yIPBm5f5Jyj3FzycmmH8Zky7YOc2D73C+qcbPEwr775ENQC28jAGibDZ8Pblnwa29twhIRF2Ozpl45V0MwBq1q9bT1wlpiqcKf/2YczRJlbQDVQ7gFAkGA83w+PKXMcSPm8S5qP7sWAJR5vXvo8aPrNGmvcFSoEn/wd5y5YZwDVoeCAz+BAbyHLPiyI+MBtDXfeA3jpt5+uL5tZlnw+7tJTOfd985LOiqFGMEime3b5Y8lr2UrcvjRA8touOjazeH7Q5R5SZHclmu0xU1iPm1NI7LZU4LBmpz0QBwGmcRtf2UQWk0T6yNEdjxV24bZMCszkiLxc6iaSk3ygB3KEMzo5jG3hhl5tvFcpTzuMAr968s41Q45gwvQneMtMhAEkOXFSTQz3bMn7cAzpWddlD/nHL6mWbxZP3fvaPiPA4Hpbab4W6Pr+4zOE2SsAw83dZBCdeUiwvHuYoih/znWCcVD9ScTdN/h3VJR/3KHCQd7eFBPx5kns8cHszGbJoAjyBRRoI7c4BeiqyQ==;PpOxMdbU4oKmWN+hPl4+cA=="
 ---

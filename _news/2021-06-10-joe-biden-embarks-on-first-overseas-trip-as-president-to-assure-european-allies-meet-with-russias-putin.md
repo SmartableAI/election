@@ -171,6 +171,22 @@ related:
         width: 3889
         height: 3023
         isCached: true
+  - title: "Biden's silence on executions adds to death penalty disarray"
+    excerpt: "Activists widely expected Joe Biden to take swift action against the death penalty as the first sitting president to oppose capital punishment, but the White House has been mostly silent"
+    publishedDateTime: 2021-06-18T09:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/bidens-silence-on-executions-adds-to-death-penalty-disarray/2021/06/18/db0bfb84-d01c-11eb-a224-bd59bd22197c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/bidens-silence-on-executions-adds-to-death-penalty-disarray/2021/06/18/db0bfb84-d01c-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bidens-silence-on-executions-adds-to-death-penalty-disarray/2021/06/18/db0bfb84-d01c-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DDFMPKGQDQI6XIREXVM32IQZPQ.jpg&w=1440"
+        width: 1440
+        height: 1066
+        isCached: true
   - title: "Joe Biden heads to Geneva for summit with ‘worthy adversary’ Putin – live"
     excerpt: "Reports say Biden has prepared extensively for Geneva meeting on Wednesday – follow all the day’s politics live"
     publishedDateTime: 2021-06-15T12:26:00Z

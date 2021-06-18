@@ -270,6 +270,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "'Hannity' on media praising Biden for Putin summit, latest on border crisis"
+    excerpt: "Make no mistake, this crisis is even worse than we knew or we thought, and now, tonight, we have discovered anyone that simply makes an application for asylum -- in other words, w"
+    publishedDateTime: 2021-06-18T18:57:00Z
+    webUrl: "https://www.foxnews.com/transcript/hannity-on-media-praising-biden-for-putin-summit-latest-on-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/transcript/hannity-on-media-praising-biden-for-putin-summit-latest-on-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-on-media-praising-biden-for-putin-summit-latest-on-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92cdecae-fc38-45cc-adb5-5c7d71fef071/34d320e4-c8d5-4c26-af6f-8f7c1ad9d8a1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "'Special Report' All-Star panel on Biden's foreign policy ahead of summit with Putin"
     excerpt: "I'm going to make clear to President Putin that there are areas where we can cooperate if he chooses."
     publishedDateTime: 2021-06-15T15:02:00Z

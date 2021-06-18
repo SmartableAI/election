@@ -32,19 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Florida woman charged for allegedly threatening to kill Kamala Harris"
-    excerpt: "A Miami woman has been charged for allegedly threatening to kill Vice President Kamala Harris, according to a criminal complaint filed in the United States District Court for the Southern District of Florida.\n    \n"
-    publishedDateTime: 2021-04-17T02:23:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D6pMHK2oAD4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/niviane-petit-phelps-charged-threatening-kamala-harris/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/niviane-petit-phelps-charged-threatening-kamala-harris/index.html"
+  - title: "Harris moving into Naval Observatory residence after renovations delay"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff will move in to the Naval Observatory residence Tuesday night after their move was delayed for more than two months because of \"repairs to the home,\" a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-04-06T23:55:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ByFF3oGXhds/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416215801-01-kamala-harris-0415-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris to move into Naval Observatory residence next week after renovations delay"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff will move into the vice president's official residence next week after their move was delayed for more than two months because of \"repairs to the home,\" Harris' chief spokeswoman Symone Sanders said on Thursday.\n    \n"
+    publishedDateTime: 2021-04-01T18:04:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvWuUhnDvJs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-move-naval-observatory-residence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-move-naval-observatory-residence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris invites all female senators for dinner at Naval Observatory amid infrastructure negotiations"
+    excerpt: "Vice President Kamala Harris has invited every female senator to the Naval Observatory for dinner next Tuesday, according to a Harris aide and Senate aide, in a show of bipartisanship among a deeply divided Congress.\n    \n"
+    publishedDateTime: 2021-06-08T19:07:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KCvgHDU-6eM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/vice-president-female-senators-dinner/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/vice-president-female-senators-dinner/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607173528-06-kamala-harris-guatemala-mexico-visit-unf-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "VP Harris is the latest White House official to appear with California Gov. Newsom amid recall effort"
+    excerpt: "Top members of the Biden White House have appeared with California's embattled Democratic governor, Gavin Newsom, twice over the last week -- a signal of support for a politician who is likely to face a recall election.\n    \n"
+    publishedDateTime: 2021-04-05T20:25:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qVt0uE2nr84/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/kamala-harris-gavin-newsom/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/kamala-harris-gavin-newsom/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405145532-01-harris-newsom-0405-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,21 +112,21 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Florida nurse accused of threatening to kill Vice President Kamala Harris"
-    excerpt: "Niviane Petit Phelps made the threats in a series of videos sent to her husband in prison, according to a Secret Service complaint."
-    publishedDateTime: 2021-04-17T19:49:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/florida-nurse-accused-threatening-kill-vice-president-kamala-harris-n1264402"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264402"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264402"
+  - title: "Kamala Harris dives into migration diplomacy as GOP aims to make her the face of the border crisis"
+    excerpt: "(CNN)Vice President Kamala Harris and her team are staring down attempts to make her the face of the Biden administration's response to the crisis at the border, a little more than a week after being assigned a role that positions her in the center of one ..."
+    publishedDateTime: 2021-04-01T06:38:00Z
+    webUrl: "https://www.cnn.com/2021/04/01/politics/kamala-harris-migration-border/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
+      name: CNN
+      domain: cnn.com
+    quality: 121
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_15/3465656/210417-miami-kamala-harris-mb-1747_b29a1b7cc10c510a24684af1bd63da77.jpg"
-        width: 2500
-        height: 1406
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310102406-01-kamala-harris-0302-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "2VPXuLsg2gpLdsSAhmgN+V5C1tsd4/2MbSlYgBoq+No6R/rGbYQnKybBq+/V5opfjK1QLgBPTpROehybBosnXhCXSzST3PzT58DlAXjV1nj7bs8sgIWqdevrAV6WBJwT976BGHWw9ocvl70f4NhriGigAAtlop3Ig5XaHcefUBB3mK6IO/FImNIE7dZP8oK2aXeNrLMCaIyZgq2EmQMWXs0nA6qamlqH9mjkod2aljhUx8P1LjOmIO2gw/64Mnfqv/gPLUhEttEGffq04H3ZjLwjIZ0ZxCPLsc3Vvpsj7Dj58n4bbffVuae55l0oUtZmChspgBJgYrG/dN9nuJdK8GPkqqN4w1YZV6anLOS2q10=;sFMRDMbOudXArGgW7cqAQQ=="

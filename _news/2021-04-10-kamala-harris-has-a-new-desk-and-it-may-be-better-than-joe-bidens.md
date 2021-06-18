@@ -879,6 +879,22 @@ related:
         width: 1024
         height: 687
         isCached: true
+  - title: "For Texas Republicans, Vice President Kamala Harris is a more tempting target than Biden"
+    excerpt: "Since Vice President Kamala Harris is relatively new to the national stage, Texas Republicans are not missing the opportunity to define her in a negative light."
+    publishedDateTime: 2021-06-18T19:25:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/06/18/texas-republicans-target-kamala-harris-they-push-immigration-issue/7747165002/"
+    ampWebUrl: "https://amp.statesman.com/amp/7747165002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7747165002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 81
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/17/USAT/a8756b3e-54fd-490a-be27-845fbd001483-Harris_and_voting_rights_Texas.jpg?auto=webp&crop=7802,4389,x0,y396&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Kamala Harris didn't say Joe Biden would 'do whatever the Chinese tell you' at debate"
     excerpt: "A meme claims Kamala Harris said during the 2020 Democratic presidential primary that Joe Biden would do what China told him to. That is false."
     publishedDateTime: 2021-04-29T22:11:00Z

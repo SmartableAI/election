@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-06-03/jill-biden-birthda
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-03/jill-biden-birthday-delaware-beach-day?_amp=true"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -327,6 +327,20 @@ related:
     quality: 55
     images:
       - url: "https://cdnph.upi.com/pv/upi/3a0a1529893c5eb345c1de40bbc58af7/BIDEN-TULSA.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "President Joe Biden Departs the White House for Delaware"
+    excerpt: "US President Joe Biden takes off in Marine One on the ellipse, at the White House in Washington, DC on Friday, June 18, 2021. President Joe Biden will spend the weekend with family in Delaware. Photo"
+    publishedDateTime: 2021-06-18T19:53:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a4ad5812738ad43af2a0dad4f372cb93/President-Joe-Biden-Departs-the-White-House-for-Delaware/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/a4ad5812738ad43af2a0dad4f372cb93/BIDEN-WHITE-HOUSE.jpg"
         width: 650
         height: 433
         isCached: true

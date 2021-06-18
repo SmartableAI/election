@@ -222,6 +222,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "‘The Five’ on crime in US cities, Biden-Putin meeting"
+    excerpt: "If we -- if you invite me back in 60 days and we see that there has been nothing -- nothing that`s happened after this meeting with Putin, that we`ve had more attacks that we have not responded, and I think one would have to say that everything that`s being said that`s being talked about around the table is largely right."
+    publishedDateTime: 2021-06-18T18:06:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-crime-in-us-cities-biden-putin-meeting"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-crime-in-us-cities-biden-putin-meeting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-crime-in-us-cities-biden-putin-meeting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f602b07-c9b4-4077-936a-5bba3ee5ee60/b05cff2d-0303-473c-b0bd-944f6dc3d3d7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden praised as the non-Trump, but will Putin outfox him on world stage?"
     excerpt: "The lack of any precooked deals between President Biden and Russian President Putin means not much of substance will be accomplished. Biden will be judged on the appearance of whether he got tough with the Russian leader who he once said he no soul."
     publishedDateTime: 2021-06-15T06:55:00Z

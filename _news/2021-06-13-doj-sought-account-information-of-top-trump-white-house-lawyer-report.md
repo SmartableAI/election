@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/doj-sought-account-information-top-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp"
 type: article
 quality: 175
-heat: 435
+heat: 475
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "State Dept clears Trump official of allegations of inappropriate comments on race"
+    excerpt: "EXCLUSIVE: The State Department's Office of Civil Rights cleared former Trump ambassador to the United Kingdom, Woody Johnson, from allegations of inappropriate comments regarding race, sex and religion, concluding they were \"unsubstantiated.\""
+    publishedDateTime: 2021-06-18T18:20:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W34KYi7Mbhg/state-dept-clears-trump-ambassador"
+    ampWebUrl: "https://www.foxnews.com/politics/state-dept-clears-trump-ambassador.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-dept-clears-trump-ambassador.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -235,6 +251,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Trump Was Right; So Were We"
+    excerpt: "Last Saturday, former President Donald Trump released a statement that said, Have you noticed that they are now admitting I was right about everything they lied about before the election?"
+    publishedDateTime: 2021-06-18T19:36:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/18/trump_was_right_so_were_we_545377.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "q3NBeDTx4vAnORonFeaaEXsowxR4DME6qTYy58HbBKP/QpWStNE4mF48xKIelWCPquF90vOOSxZPGNtmSuGue/PHCEyz0s9vraHr85wneH3Tr3JZ90lgLogbIfy3V3ebxOmbFu4HLMG5IBRRNMJYezMZf8e3vmCHhcY0UPCC95MkhmusMX+N7A+JO9L+xqlPFp6IQIQiEl9Rpvx1eXFhT/ne2Wm0TtPO7bl3cBasAtZoarXQup0y4sT5obU5n84dmOS4cbvIF3us3i7rg34hGRI7ogIBURABWjUJMpzN0TQYvjZh9+hKl58fwb9I8SL2CSUQSeYttMTYa3bZr6ICph7qtkQqTsHHc/SgB4V+S1M=;VaS2wV+hhDT7Y1T+9n+Tww=="
 ---

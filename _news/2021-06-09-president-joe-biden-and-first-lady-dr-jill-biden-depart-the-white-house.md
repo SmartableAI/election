@@ -340,6 +340,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden Departs the White House for Delaware"
+    excerpt: "US President Joe Biden takes off in Marine One on the ellipse, at the White House in Washington, DC on Friday, June 18, 2021. President Joe Biden will spend the weekend with family in Delaware. Photo"
+    publishedDateTime: 2021-06-18T19:53:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a4ad5812738ad43af2a0dad4f372cb93/President-Joe-Biden-Departs-the-White-House-for-Delaware/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/a4ad5812738ad43af2a0dad4f372cb93/BIDEN-WHITE-HOUSE.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "United States President Joe Biden and first lady Dr. Jill Biden depart the White House"
     excerpt: "United States President Joe Biden and first lady Dr. Jill Biden depart the White House, headed to Europe from the Ellipse in Washington, ?DC, June 9, 2021 Credit: Chris Kleponis / Pool via"
     publishedDateTime: 2021-06-09T15:08:00Z

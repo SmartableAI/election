@@ -32,211 +32,101 @@ images:
     isCached: true
 
 related:
-  - title: "Why Kamala Harris is heading to Guatemala and Mexico "
-    excerpt: "Kamala Harris leaves for Latin America on Sunday under intense political pressure to stem the flow of migrants to the US, with lots of people asking what she's doing heading out on her first foreign trip as vice president before releasing a comprehensive strategy.\n    \n"
-    publishedDateTime: 2021-06-06T14:25:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jSj2Jzr_iiI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-mexico-immigration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-guatemala-mexico-immigration/index.html"
+  - title: "Harris moving into Naval Observatory residence after renovations delay"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff will move in to the Naval Observatory residence Tuesday night after their move was delayed for more than two months because of \"repairs to the home,\" a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-04-06T23:55:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ByFF3oGXhds/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527183402-kamala-harris-triangulo-norte-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Kamala Harris' rocky first foreign trip"
-    excerpt: "Kamala Harris traveled to Guatemala and Mexico seeking a serious strategy for stemming migration from the Northern Triangle, but her efforts were quickly overshadowed by her flippant response about why she has not visited the US-Mexico border as vice president.\n    \n"
-    publishedDateTime: 2021-06-10T03:01:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i13OhRSNCKA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/kamala-harris-foreign-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/kamala-harris-foreign-trip/index.html"
+  - title: "Fact-checking Texas Republicans' attacks on Harris County voting procedures"
+    excerpt: "The Texas Senate passed new voting legislation on April 1. As the bill goes through the state House, corporations like Dell Technologies and American Airlines -- both based in Texas -- have started advocating against it, arguing that it restricts voter access.\n    \n"
+    publishedDateTime: 2021-04-09T13:28:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p8NT3P7_0zI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/texas-republicans-voting-bill-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/texas-republicans-voting-bill-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 185
+    quality: 183
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609223159-01-kamala-harris-foreign-trip-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104121638-ballot-2020-general-election-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Harris rejects criticism over lack of border visit: 'And I haven't been to Europe'"
-    excerpt: "Vice President Kamala Harris pushed back on criticism that she hasn't visited the US-Mexico border in an interview aired on Tuesday by arguing that her travel has been limited during the early days of the Biden administration.\n    \n"
-    publishedDateTime: 2021-06-08T14:33:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HlRMmQ9VaMU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/kamala-harris-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/kamala-harris-border/index.html"
+  - title: "Harris to move into Naval Observatory residence next week after renovations delay"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff will move into the vice president's official residence next week after their move was delayed for more than two months because of \"repairs to the home,\" Harris' chief spokeswoman Symone Sanders said on Thursday.\n    \n"
+    publishedDateTime: 2021-04-01T18:04:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvWuUhnDvJs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-move-naval-observatory-residence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-move-naval-observatory-residence/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 179
+    quality: 180
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210607122242-01-kamala-harris-guatemala-0607-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Harris aiming to deepen US relationship with Guatemala and Mexico on first foreign trip"
-    excerpt: "Kamala Harris will try to deepen the United States' \"strategic partnership and bilateral relationship\" with Guatemala and Mexico on her first foreign trip as vice president, according to her senior staff members.\n    \n"
-    publishedDateTime: 2021-06-02T11:16:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bp3XSrhYEYE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/02/politics/kamala-harris-guatemala-mexico-first-foreign-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/02/politics/kamala-harris-guatemala-mexico-first-foreign-trip/index.html"
+  - title: "VP Harris is the latest White House official to appear with California Gov. Newsom amid recall effort"
+    excerpt: "Top members of the Biden White House have appeared with California's embattled Democratic governor, Gavin Newsom, twice over the last week -- a signal of support for a politician who is likely to face a recall election.\n    \n"
+    publishedDateTime: 2021-04-05T20:25:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qVt0uE2nr84/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/kamala-harris-gavin-newsom/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/kamala-harris-gavin-newsom/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 177
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420152901-kamala-harris-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405145532-01-harris-newsom-0405-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Harris safely returns to air base after plane has 'technical issue' while departing for first foreign trip"
-    excerpt: "Vice President Kamala Harris, who was en route to Latin America on Sunday, safely returned to Joint Base Andrews after her plane had a \"technical issue,\" according to Harris' chief spokesperson and senior adviser Symone Sanders.\n    \n"
-    publishedDateTime: 2021-06-06T20:50:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvWcUZNMM5s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-plane-technical-issue-foreign-trip-guatemala/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/06/politics/kamala-harris-plane-technical-issue-foreign-trip-guatemala/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210606152000-01-kamala-harris-latam-0606-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Kamala Harris and a High-Risk, High-Reward Presidential Résumé"
-    excerpt: "For the vice president, another run at the Oval Office is a near certainty. How her current responsibilities help or hurt that bid is an open question."
-    publishedDateTime: 2021-06-05T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/05/us/politics/kamala-harris-president-2024.amp.html"
+  - title: "Kamala Harris Marks Black Maternal Health Week at White House"
+    excerpt: "The proclamation is part of a broader effort to address the vast racial disparities in pregnancy and childbirth-related deaths and complications in the United States."
+    publishedDateTime: 2021-04-13T18:25:00Z
+    webUrl: "https://www.nytimes.com/2021/04/13/us/politics/black-maternal-health-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/13/us/politics/black-maternal-health-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/13/us/politics/black-maternal-health-kamala-harris.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/06/05/us/politics/05onpolitics-newsletter/05onpolitics-newsletter-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/04/13/us/politics/13new-washington-briefing-harris/13new-washington-briefing-harris-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "U.S. Aid to Central America Hasn’t Slowed Migration. Can Kamala Harris?"
-    excerpt: "A stark reality faces the vice president as she visits the region: Expanding aid programs have failed to stem migration."
-    publishedDateTime: 2021-06-06T07:00:00Z
-    webUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/06/world/americas/central-america-migration-kamala-harris.amp.html"
+  - title: "Kamala Harris dives into migration diplomacy as GOP aims to make her the face of the border crisis"
+    excerpt: "(CNN)Vice President Kamala Harris and her team are staring down attempts to make her the face of the Biden administration's response to the crisis at the border, a little more than a week after being assigned a role that positions her in the center of one ..."
+    publishedDateTime: 2021-04-01T06:38:00Z
+    webUrl: "https://www.cnn.com/2021/04/01/politics/kamala-harris-migration-border/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/27/world/americas/00guatemala-foreign-aid-top/00guatemala-foreign-aid-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Kamala Harris Forges Moderate Image on Migration With Measured Approach"
-    excerpt: "The vice president concluded her first trip abroad, a high-stakes trip to Mexico and Guatemala during which she took on the politically volatile issue."
-    publishedDateTime: 2021-06-08T20:49:00Z
-    webUrl: "https://www.nytimes.com/2021/06/08/world/americas/Mexico-Kamala-Harris-Lopez-Obrado.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/08/world/americas/Mexico-Kamala-Harris-Lopez-Obrado.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/08/world/americas/Mexico-Kamala-Harris-Lopez-Obrado.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/08/world/08Mexico-Harris1/08Mexico-Harris1-videoSixteenByNine3000.jpg"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Kamala Harris, With Blunt Language on Border, Forges Immigration Image"
-    excerpt: "The vice president concluded her first trip abroad, a high-stakes trip to Mexico and Guatemala during which she took on the politically volatile issue."
-    publishedDateTime: 2021-06-08T20:55:00Z
-    webUrl: "https://www.nytimes.com/2021/06/08/world/americas/kamala-harris-immigration.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/08/world/americas/kamala-harris-immigration.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/08/world/americas/kamala-harris-immigration.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/08/world/08Mexico-Harris1/08Mexico-Harris1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Kamala Harris arrives in Guatemala on first foreign trip as vice president"
-    excerpt: "After an enforced return to Joint Base Andrews to change planes, Vice President Kamala Harris finally arrived in Guatemala at the start of her first foreign trip as vice president."
-    publishedDateTime: 2021-06-07T09:08:00Z
-    webUrl: "https://www.nbcnews.com/video/kamala-harris-arrives-in-guatemala-on-first-foreign-trip-as-vice-president-114415173748"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114415173748"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114415173748"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/KamAFP_9BJ4PM.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Kamala Harris meets with Mexico’s president in a high-stakes trip to the region."
-    excerpt: "While meeting with Mexico’s president, Vice President Kamala Harris will likely discuss a restrictionist policy that the administration has said is necessary to prevent overcrowding in detention facilities."
-    publishedDateTime: 2021-06-08T17:07:00Z
-    webUrl: "https://www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/08/us/kamala-harris-mexico-migration.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/08/world/08new-washington-briefing-harris2/08new-washington-briefing-harris2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Kamala Harris’s Vice Presidency Is Coming Into Focus. Everyone Has an Opinion About What They See."
-    excerpt: "In a role that seldom allows for error, Ms. Harris is trying to shape her vice presidency by tackling unwieldy policy issues."
-    publishedDateTime: 2021-06-11T21:47:00Z
-    webUrl: "https://www.nytimes.com/2021/06/11/us/politics/kamala-harris-vice-president.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/11/us/politics/kamala-harris-vice-president.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/us/politics/kamala-harris-vice-president.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
+      name: CNN
+      domain: cnn.com
     quality: 121
     images:
-      - url: "https://static01.nyt.com/images/2021/06/11/us/politics/11dc-harris1/11dc-harris1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Was Kamala Harris pushed over a glass cliff?"
-    excerpt: "Vice President Kamala Harris is back in Washington, D.C. after a difficult week. Harris arrived in Guatemala on Monday, the first part of a three-day trip that also included Mexico, as part of the diplomatic task President Joe Biden assigned her in March: treating the root causes of migration at the southern border."
-    publishedDateTime: 2021-06-11T16:17:00Z
-    webUrl: "https://www.politico.com/newsletters/women-rule/2021/06/11/was-kamala-harris-pushed-over-a-glass-cliff-493219"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310102406-01-kamala-harris-0302-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "K+IAr/G4xo4qLsE6QE7EvGhxdTkM52+6x0hD3DO+bm3hUnYi77k2x2WNxlf9nqciyljBgpWql7ted1X0IgnPFjPFIrP6HksWgsnzmsns0ktsVHspCqJQ/cLudIWa/vi3hTUHG9Gd1R6ILgVq/ClEWd9ASmpEI11FJ2IW7Y5L1hBZRWzXW+fephpb7wYrqzFKeZUNVCFyqYLALNKHxEVW12GDUszY/uAxS8umoozSHEfFyf9p0zpoJVoHl6Fyd228nMkb7nR+LXYKx19ABULPzifea/fTkjrjIeNzm1bAGcqgbCBvb2OrDA+2BywPbmtm9NlNMjiEh+bBPfZpBk+NR87Afmw34wq3mJrsODvnsuU=;m6z28lmbbZw64mMGzyjKnw=="
