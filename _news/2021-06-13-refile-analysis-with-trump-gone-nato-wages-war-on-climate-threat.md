@@ -361,6 +361,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "The Affordable Care Act was saved by Donald Trump’s presidency"
+    excerpt: "The central idea pushing Democrats to pass the Affordable Care Act a decade ago was the desire to expand health-care access to more Americans. But Democratic elected officials also talked about a secondary benefit: creating a broadly used government program that would pay political dividends for the party."
+    publishedDateTime: 2021-06-18T00:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/17/affordable-care-act-was-saved-by-donald-trumps-presidency/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/17/affordable-care-act-was-saved-by-donald-trumps-presidency/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/17/affordable-care-act-was-saved-by-donald-trumps-presidency/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IR76PHXX4MI6PKPDVMMM4QKDNI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Democrats urge Justice Department not to defend Trump in defamation suit"
     excerpt: "House Democrats are urging Attorney General Merrick Garland to reconsider the Justice Department's decision to take up the defense of former President Trump in a defamation lawsuit. The 2019 suit was filed by writer E."
     publishedDateTime: 2021-06-10T01:27:00Z
@@ -621,15 +637,15 @@ related:
         isCached: true
   - title: "U.S. reverses Trump era asylum restrictions"
     excerpt: "Watch \"U.S. reverses Trump era asylum restrictions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-06-17T22:17:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210617221706-u-s-reverses-trump-era-asylum-restrictions/"
+    publishedDateTime: 2021-06-18T01:17:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210618011701-u-s-reverses-trump-era-asylum-restrictions/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/17/story_10882168_1623968823.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/18/story_10884292_1623979503.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1049,6 +1065,24 @@ related:
     excerpt: "The Biden administration says it has dismantled a Trump-era goverment agency that was created help victims of crimes committed by immigrants."
     publishedDateTime: 2021-06-11T15:06:00Z
     webUrl: "https://www.usnews.com/news/politics/articles/2021-06-11/us-closes-trump-era-office-for-victims-of-immigrant-crime"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "U.S. House Panel Seeks Documents From Trump-Era Probes of Leaks"
+    excerpt: "A U.S. House of Representatives committee on Thursday requested documents from the Justice Department related to the Trump administration's seizure of phone records from lawmakers, journalists and the then-White House counsel as part of its investigations into leaks of classified information."
+    publishedDateTime: 2021-06-17T16:29:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-17/us-house-panel-demands-justice-department-documents-on-trump-era-leaks-probes"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "U.S. Supreme Court Rejects Trump-Backed Challenge to Obamacare"
+    excerpt: "The U.S. Supreme Court on Thursday rejected a Republican bid backed by former President Donald Trump's administration to invalidate Obamacare, preserving the landmark healthcare law for the third time since its 2010 enactment."
+    publishedDateTime: 2021-06-17T14:10:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-17/us-supreme-court-rejects-republican-challenge-to-obamacare-law"
     type: article
     provider:
       name: U.S. News & World Report
