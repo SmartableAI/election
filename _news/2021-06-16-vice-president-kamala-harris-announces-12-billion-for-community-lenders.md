@@ -2,9 +2,9 @@
 category: news
 title: "Vice President Kamala Harris announces $1.2 billion for community lenders"
 excerpt: "The $1.2 billion Rapid Recovery Program announced by Vice President Kamala Harris will help enable community financial institutions loan money to small businesses, primarily in minority communities. The effort is part of a larger $12 billion in funding for community and minority financial institutions passed as part of COVID-19 relief in December."
-publishedDateTime: 2021-06-15T18:45:00Z
-originalUrl: "https://www.cbsnews.com/video/kamala-harris-rapid-recovery-program-for-community-lenders/"
-webUrl: "https://www.cbsnews.com/video/kamala-harris-rapid-recovery-program-for-community-lenders/"
+publishedDateTime: 2021-06-15T18:21:00Z
+originalUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-announces-12-billion-for-community-lenders/"
+webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-announces-12-billion-for-community-lenders/"
 type: article
 quality: 104
 heat: -1
@@ -908,6 +908,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "vcrZti4d4dVLAkYNmPpP1H8SzOTpp6mkq2K/ivCGLVgF20s2XbuOVJq4hIdsjWyz+kr3KSuPyBbXkrcbcIFxXvHxRfdx1EkDzXZVcfrzlsqP7o2My3gZ43ebqCsC+qhm5ifEtZASUpWEFcTQMAfj7W+MHV5q1grYd582uW4qF7J4GDTqdBUHkv5AJ7VH8JK0OahdSmNCZJh1J3hPOlZ02irQhcgMzYcmVyAtggsHPvrjYkXV6llNNi86QvhJSRvktcsY5T7O63z6Y3VBEylEC821LP4XQ9KYBNpxsD1vIxtw7GAuKjaDXVMkLvDvlzDqxW6rkSQsAZOpfmHfP5aXiaZsryyQfaLPnNn+I4+xruMs5CCsvp49n7wTBgkniyT58yS4QlC0Vj5zWnR1xXRFPICldZFfD7EOVzBO+nl5ESfeDXp8LkaMfU+IdwWiIXtclFpj9R+o/VR9ROz7p81aEguQTbw2fpL0HoglRP/OtujwT73kLQlfGJ73pzrd3zAz7kNuD3+mHnfc3QaJ1+D9sg==;XYy0WKziIJQmpcfKRWMnEg=="
+secured: "UEnhWMito/YMmCXgCaEpso+0+LSS4JC6LkDQJbMgwmuTUMn+lX6p6D1LjpT/s2PvuuCQ5mOKgh2dUhGQtI8pWfdQBN9SeldTXHK3AtWLCdR42eUv8+8/VNxMDxgWMCcRrlqn1CRSNz5IN5UCI7oYowIIhvUvxcusBVyq3rXcL+nkOhtvzDicwy6s4Yd8sP+ksmQxN/fSCVEgwXOlwx5XsfnV1s2t8lUBrl7oC8e2Ir5VJyRqwtEjyGNNhlc7wYV2C01FzCzjhPsHLCNyOqYdJ20+uglEKNPtdedIo1fX3CQxbxLqVPK78MQQSh0WplUPC98089i9wXa2boQ9FVzQfm4lPsOSNX+zMAaBrUE1ttw=;2onXRsYr31lTxVpREBOqtA=="
 ---
 

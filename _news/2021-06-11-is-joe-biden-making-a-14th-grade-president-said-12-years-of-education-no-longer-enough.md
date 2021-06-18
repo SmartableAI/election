@@ -109,6 +109,20 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Biden to sign bill making Juneteenth, commemorating the end of slavery, a federal holiday"
+    excerpt: "President Joe Biden is set to sign a bill Thursday afternoon making Juneteenth a federal holiday commemorating the end of slavery in the United States -- just in time for Saturday's June 19 anniversary."
+    publishedDateTime: 2021-06-17T23:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-sign-bill-making-juneteenth-commemorating-end-slavery/story?id=78335485"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 96
+    images:
+      - url: "https://s.abcnews.com/images/Politics/juneteenth-federal-holiday-05-rt-llr-210617_1623960847870_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "A+pAAidpdB5NCrnYId4tNClA/986xaow6MYJKuzzzpmGtIbO2jJPrPknB2Ttc4Bcrw2ai+6u3ASoUJmKz6mrumkdPgDsUeHKo5YLHZzKMlRy0HbSjuNKkvQUStW9HkWiKrMzQUirm6RwnIg3bKXavpjmy2rX1V20Di4wdvShqw/mUcQoyDE1PyMhmMR715zhyk4ZaVwSMpQx93No72BP2yVBnsulVMh6JbcM9DdTqWOJS3m5YH+VuTIqSCC3Y8ZI/XyJGYSUVOPAiNLiglLPaoT/Y0RXq4XMhnopsItGhUfZTDhG6OhNQ3cED1J/+k+Iff30wLiM8GrqZAOkVecPb1UTsbXr43+KOJlBqmUGzRg=;JqS4NcVYXlzp+hH5/wz2Cg=="
 ---

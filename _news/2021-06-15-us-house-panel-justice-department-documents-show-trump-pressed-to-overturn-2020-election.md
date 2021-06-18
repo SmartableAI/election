@@ -628,6 +628,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "U.S. reverses Trump era asylum restrictions"
+    excerpt: "Watch \"U.S. reverses Trump era asylum restrictions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-17T22:17:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210617221706-u-s-reverses-trump-era-asylum-restrictions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/17/story_10882168_1623968823.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
     excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."
     publishedDateTime: 2021-06-08T11:13:00Z

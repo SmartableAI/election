@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Putin praises summit result, calls Biden a tough negotiator"
-excerpt: "Russian President Vladimir Putin has praised the outcome of his summit with U.S. President Joe Biden and called him an astute negotiator"
-publishedDateTime: 2021-06-17T16:02:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
-webUrl: "https://abcnews.go.com/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
+excerpt: "Russian President Putin has praised the outcome of his summit with U.S. President Joe Biden and called him an astute negotiator"
+publishedDateTime: 2021-06-17T14:55:00Z
+originalUrl: "https://www.washingtonpost.com/world/putin-praises-summit-result-calls-biden-a-tough-negotiator/2021/06/17/6e53fc82-cf84-11eb-a224-bd59bd22197c_story.html"
+webUrl: "https://www.washingtonpost.com/world/putin-praises-summit-result-calls-biden-a-tough-negotiator/2021/06/17/6e53fc82-cf84-11eb-a224-bd59bd22197c_story.html"
+ampWebUrl: "https://www.washingtonpost.com/world/putin-praises-summit-result-calls-biden-a-tough-negotiator/2021/06/17/6e53fc82-cf84-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/putin-praises-summit-result-calls-biden-a-tough-negotiator/2021/06/17/6e53fc82-cf84-11eb-a224-bd59bd22197c_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/International/WireAP_3217f5b3a69c49d2b024b5422df53c99_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -156,6 +156,6 @@ related:
         height: 675
         isCached: true
 
-secured: "hnuyA+K75QbMqHP1w8U6FmH/IXcdLOneNoB3ykJeDHqp6jt0orj+s840s0bHgFTd46tuINxrmMeXY1FmIbqBwWTW1pFXEmR77f03gciYGapVePTk2M1I7sFL1ZpxdM5zNYt2kwJieQ1iUen5vrCbhvM81Ork8cBsQSseFWIPs/3Zp1DI7WhIczwpPiO0sOY7k4Fp7Z1o81eGdfMXbUdybJKJc2crtEzAwnjn5Z6aNUThVAUXA/EajSKz6c05CdwsH8v62D9HhO4ZH7BmnXd/Iq4nqbgjs9M276pcILmw6ApPA36EHj08gIO2OgWLo/tp+WvD4zQ/QBdtpWYgpsQ2yHzWEUIIdTs1jt4OtsagYiPfkLapejYZgY5XVkS3yGdTFxTxRCUSF5WmMmTj7hotSmLYhVlk20FxKmA43/StJyfa5/XJWu2gGzorxWROfjE9nP0eVGCZ6Pi80AZvI+E1BdnBSK/Ha7DDsBg6M9gRMlkbSe6l05efnkFpvMnunHqcPfunmiRhJeiqugW6L2+79w==;MqMZegTPkBf6vZ+keQJdPw=="
+secured: "8JdI3VEJvF0MxtYIJ+zNSt6zBHQQwSX5bSBN75nNn8d6ZqsCBQjpgYznQZnLokZaQcEpbdXbIR4NmnuuVHJVOoAgEj9TIDG7WoB2rFwFNiZ+2FdwKyNR+a6P9jghQbufaTjFJhMDPzqGRDVQV0YC7/sa5Bq3L9wzM872hq9WlVSIH/gvK4T/OuWpp8y3JHgsRHw+sU+hdf7mRTJ9djZQ8RLTVwZtNtrzax9/nGfRLQCsG+xBbENMppS11hl6e/WzE9cb0IYOXh1wKIu0z0Gj4+9ggWr+onB98lGhBQPs5Kf7DxBVhQxl/n6WsWS6+E+soJqpaKvNXv8unOQN33iMBJzmr5gh+wR30MloJ0iSVrg=;PfC89UW2KMOY9OkGFDcw+Q=="
 ---
 

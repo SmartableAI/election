@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-57394351.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57394351.amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://www.reuters.com/resizer/9sJClrqOF9uWxsf5afHDwDKsNS0=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SD7MOK2STVJCVL6O53Q6RKJW7Q.jpg"
         width: 800
         height: 419
+        isCached: true
+  - title: "Biden to sign bill making Juneteenth, commemorating the end of slavery, a federal holiday"
+    excerpt: "President Joe Biden is set to sign a bill Thursday afternoon making Juneteenth a federal holiday commemorating the end of slavery in the United States -- just in time for Saturday's June 19 anniversary."
+    publishedDateTime: 2021-06-17T23:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-sign-bill-making-juneteenth-commemorating-end-slavery/story?id=78335485"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 96
+    images:
+      - url: "https://s.abcnews.com/images/Politics/juneteenth-federal-holiday-05-rt-llr-210617_1623960847870_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "PY/Za/UILl+XdTBKGThnTl1tYfMr6J7RGqjhal4/YQ9coI4wViMmUzjKHnIOZ/m/PK2czVrnm7CH6rue4WU/QZQMXHCowyrNEERi31uV0CoHd1egx+uq97FeGZqgO9ul6DWLeohP6zCagW37WbjNy2xPGK7UFs1ssX3CL1TZK0oeTegftVZqnJmFFqjpVLPe1dxLCHyS+j2owROiWTtXun5S+FI1WHInsQ1mCStDnlyUrHXmMgrCXQdQSgfOfhQez+7ikzmGwsN4bhpYAguvMM4al5NgiRYuTr6ZmSRO35aTQnXLc6Nvq4OBZPFFdBSiNMzvA81CC8Y5InAOtDiNNnO3eNsMFOUj3TvB4vfCBl8Gb3DL46kpNyn3YxO65SzBnmNywCZcsZ6DviyDg2wYZZyIuGDwMHUvZaJ/9qJDvORfWKf/sywNuOJ5B9NUmdaWIm38V71y4sh5MYA7XzPQzamt8x4ymH7njszmcPl6po40UvluQ+6aN67yu4pPxSwc6kWopHHSf08eeAoIbTPeuQ==;yw5fAhpVLJnRjB37+E4xyQ=="

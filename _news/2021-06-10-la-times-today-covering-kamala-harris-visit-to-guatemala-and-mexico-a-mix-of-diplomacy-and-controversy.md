@@ -323,8 +323,8 @@ related:
         isCached: true
   - title: "Vice President Kamala Harris announces $1.2 billion for community lenders"
     excerpt: "The $1.2 billion Rapid Recovery Program announced by Vice President Kamala Harris will help enable community financial institutions loan money to small businesses, primarily in minority communities. The effort is part of a larger $12 billion in funding for community and minority financial institutions passed as part of COVID-19 relief in December."
-    publishedDateTime: 2021-06-15T18:45:00Z
-    webUrl: "https://www.cbsnews.com/video/kamala-harris-rapid-recovery-program-for-community-lenders/"
+    publishedDateTime: 2021-06-15T18:21:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-announces-12-billion-for-community-lenders/"
     type: article
     provider:
       name: CBS News

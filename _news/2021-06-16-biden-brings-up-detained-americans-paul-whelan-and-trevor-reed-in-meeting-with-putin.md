@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Putin praises Biden, calling him a 'professional' following Geneva summit "
+    excerpt: "Russian President Vladimir Putin praised US President Joe Biden Thursday, describing him as a \"professional\" who is \"completely knowledgeable on all issues,\" according to a Kremlin transcript of Putin's televised remarks.\n    \n"
+    publishedDateTime: 2021-06-17T23:12:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/47hp5m6hjnc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/putin-biden-praise-professional/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/putin-biden-praise-professional/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616164712-45-biden-putin-summit-0616-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden warns he'll tell Putin 'what I want him to know' as he defines goals of foreign tour"
     excerpt: "President Joe Biden told a hangar of US troops on Wednesday he was in Europe to defend the very concept of democracy, setting high stakes for his first presidential trip abroad and warning Russian President Vladimir Putin he planned to raise touchy issues during their upcoming summit.\n    \n"
     publishedDateTime: 2021-06-09T21:32:06Z

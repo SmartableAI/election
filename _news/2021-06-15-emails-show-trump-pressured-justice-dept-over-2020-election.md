@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
 type: article
 quality: 140
-heat: 1520
+heat: 1540
 published: true
 
 provider:
@@ -617,6 +617,20 @@ related:
     quality: 105
     images:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/06/17/story_10877595_1623948424.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "U.S. reverses Trump era asylum restrictions"
+    excerpt: "Watch \"U.S. reverses Trump era asylum restrictions\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-17T22:17:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210617221706-u-s-reverses-trump-era-asylum-restrictions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/17/story_10882168_1623968823.jpg"
         width: 1280
         height: 720
         isCached: true

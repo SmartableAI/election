@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden signs bill making Juneteenth a federal holiday – live"
 excerpt: "Great nations don’t ignore their most painful moments,’ president says while supreme court upholds Obamacare"
-publishedDateTime: 2021-06-17T21:16:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates?page=with:block-60cbaa368f08990711744b1a"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates?page=with:block-60cbaa368f08990711744b1a"
+publishedDateTime: 2021-06-17T21:44:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
 type: article
@@ -110,6 +110,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "3KqvbtcyGnNihDg2TP6JeS+qwL9LpJSl21gTyh/38JBP3Cyt2AWiEHn3RqF/tzDsu0DIaWGHnDQdGua4Urjc7SuORi95V4rciWi4Vf+v23r63RPFxlPhCJmxIl5byd2f/eVSIZgX0hkloNNs8WeArLsj88UKBaDeKlb5j+XCmAEeWDbkpxbmVxCWGja53IwlQ9JGGhndJIszLyjdu5sExGBhSYm3bX6bc52ULcl7yK1qzxqvglVxtmq2D57DojH176YPIZgyFbmSl+tAtF/H/gnhXGWFTwv1tHN78js/EkVmCWaYmbCVc6A8i89MLctGYHO22Lw1dwP2io++lmngp5PvAs+ckEXMwRgq9vshc4E=;u6fLRrEoyjyBAQWbioZGGQ=="
+secured: "feQnU5ca0hfMgEcB5NI1gu5Lgvf5mVMZ0XBCkosCPGs+dFSpll47s5Bm2hj6CVy3RYZNjo62Hp4CEUB8H114sQ5yuPdNyvvzUbqxdpbisSX02fesC34WK2yy9nZ3SqyK8HUyvQ4kkqwCme1+ufarudYYx1wuUErCfCYSNgGr2araHwBCKhkoNpfoPAFC1cSrwtK8Qy/mklZCLmQLDQDU5LKne4LpOE+aF88uUmyaCtySUAEQgK4x5aV1s5ElcAwOa141750EXSWUd0iPsO6u06kwQFDSEhjGOsTS5lhCu/H3xKgkrBpJzXN57Kal9sej6ZwV8jatDuYpCtpjZ8UpRzYfwx14/ioSnbKLrpR9EyM=;GHqVleRxOW7E8Dm0j25GMg=="
 ---
 

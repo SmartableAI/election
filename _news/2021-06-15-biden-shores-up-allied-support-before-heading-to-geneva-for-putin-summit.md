@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/president-biden-internat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/president-biden-international-trip-vladimir-putin/index.html"
 type: article
 quality: 174
-heat: 254
+heat: 274
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Putin praises Biden, calling him a 'professional' following Geneva summit "
+    excerpt: "Russian President Vladimir Putin praised US President Joe Biden Thursday, describing him as a \"professional\" who is \"completely knowledgeable on all issues,\" according to a Kremlin transcript of Putin's televised remarks.\n    \n"
+    publishedDateTime: 2021-06-17T23:12:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/47hp5m6hjnc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/putin-biden-praise-professional/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/putin-biden-praise-professional/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616164712-45-biden-putin-summit-0616-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden brings up detained Americans Paul Whelan and Trevor Reed in meeting with Putin "
     excerpt: "US President Joe Biden said he had discussed the cases of two Americans detained in Russia during his meeting with Russian President Vladimir Putin on Wednesday, pledging to \"follow through\" on that discussion.\n    \n"
     publishedDateTime: 2021-06-16T18:58:51Z

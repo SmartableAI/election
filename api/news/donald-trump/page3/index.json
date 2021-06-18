@@ -2,6 +2,115 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-03-trump-doj-seized-phone-records-of-new-york-times-reporters.md",
+      "title": "Trump DOJ seized phone records of New York Times reporters",
+      "excerpt": "The New York Times reported on Wednesday that the Justice Department under former President Trump Donald Trump RNC warns it will advise presidential candidates against future debates if panel doesn't make changes Washington Post issues correction on 2020 report on Tom Cotton,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters",
+      "originalUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca_dojhatecrimechurchfire_041521getty.jpg",
+          "width": 1440,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp",
+      "publishedDateTime": "2021-06-02T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-washington-post-op-ed-claims-media-no-longer-needs-trump-despite-nonstop-coverage-of-former-potus.md",
+      "title": "Washington Post op-ed claims media 'no longer needs Trump' despite nonstop coverage of former POTUS",
+      "excerpt": "Washington Post columnist Paul Waldman made a questionable claim that the media \"no longer needs\" Donald Trump despite the continued coverage the former president still receives more than four months after leaving office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump",
+      "originalUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13047418-caba-44ab-b1ef-54005bdff3dc/dacbaf78-7f4d-4ad2-9cae-657e1f1b9c1b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/washington-post-media-no-longer-needs-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-media-no-longer-needs-trump.amp",
+      "publishedDateTime": "2021-06-02T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-donald-trumps-communications-platform-permanently-taken-offline.md",
       "title": "Donald Trump's 'communications' platform permanently taken offline",
       "excerpt": "Donald Trump's communications platform has been permanently shut down, his spokesperson told CNBC. \"It was just auxiliary to the broader efforts we have and are working on,\" senior aide Jason Miller said.",
@@ -1456,115 +1565,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-trump-patriots-owner-robert-kraft-accused-of-trying-to-influence-late-senators-spygate-probe-report.md",
-      "title": "Trump, Patriots owner Robert Kraft accused of trying to influence late senator's Spygate probe: report",
-      "excerpt": "Former President Donald Trump and New England Patriots owner Robert Kraft were accused in a new report Wednesday of trying to influence the investigation into the team’s 2007 Spygate scandal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/sports/trump-patriots-robert-kraft-accused-influence-senator-spygate-probe-report",
-      "originalUrl": "https://www.foxnews.com/sports/trump-patriots-robert-kraft-accused-influence-senator-spygate-probe-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/720/405/Trump-and-Robert-kraft.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/sports/trump-patriots-robert-kraft-accused-influence-senator-spygate-probe-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-patriots-robert-kraft-accused-influence-senator-spygate-probe-report.amp",
-      "publishedDateTime": "2021-05-26T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-trump-asks-court-to-toss-out-capitol-assault-suit-from-eric-swalwell.md",
-      "title": "Trump asks court to toss out Capitol assault suit from Eric Swalwell",
-      "excerpt": "Swalwell is suing Mr. Trump, Donald Trump Jr., GOP Congressman Mo Brooks of Alabama and Rudy Giuliani, the former president's lawyer, over the events of January 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/capitol-riot-suit-trump-swalwell/",
-      "originalUrl": "https://www.cbsnews.com/news/capitol-riot-suit-trump-swalwell/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/2d48bb4f-3279-4bf6-90d9-c7543fa89033/thumbnail/1200x630/61ea42e1b42e185ea35df3dd7de18759/gettyimages-1230692812.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-riot-suit-trump-swalwell/",
-      "publishedDateTime": "2021-05-26T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

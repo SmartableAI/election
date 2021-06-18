@@ -45,8 +45,8 @@ related:
         isCached: true
   - title: "Joe Biden signs bill making Juneteenth a federal holiday – live"
     excerpt: "Great nations don’t ignore their most painful moments,’ president says while supreme court upholds Obamacare"
-    publishedDateTime: 2021-06-17T21:16:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates?page=with:block-60cbaa368f08990711744b1a"
+    publishedDateTime: 2021-06-17T21:44:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
     type: article

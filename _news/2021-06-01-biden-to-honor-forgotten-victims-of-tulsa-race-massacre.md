@@ -112,20 +112,20 @@ related:
         height: 960
         isCached: true
   - title: "Putin praises summit result, calls Biden a tough negotiator"
-    excerpt: "Russian President Vladimir Putin has praised the outcome of his summit with U.S. President Joe Biden and called him an astute negotiator"
-    publishedDateTime: 2021-06-17T16:02:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/putin-praises-summit-result-calls-biden-tough-negotiator-78337892"
+    excerpt: "Russian President Putin has praised the outcome of his summit with U.S. President Joe Biden and called him an astute negotiator"
+    publishedDateTime: 2021-06-17T14:55:00Z
+    webUrl: "https://www.washingtonpost.com/world/putin-praises-summit-result-calls-biden-a-tough-negotiator/2021/06/17/6e53fc82-cf84-11eb-a224-bd59bd22197c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/putin-praises-summit-result-calls-biden-a-tough-negotiator/2021/06/17/6e53fc82-cf84-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/putin-praises-summit-result-calls-biden-a-tough-negotiator/2021/06/17/6e53fc82-cf84-11eb-a224-bd59bd22197c_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/International/WireAP_3217f5b3a69c49d2b024b5422df53c99_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Buoyed by allied summits, Biden ready to take on Putin"
     excerpt: "Fresh from supportive summits with allies, Joe Biden is declaring himself ready to take on Russia’s Vladimir Putin in far more confrontational talks"
