@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden, First President to Oppose Death Penalty, Silent as Spate of Executions to Begin"
+    excerpt: "Joe Biden is the first sitting president to oppose the death penalty, but his silence on the issue since taking office has left many anti-capital punishment activists confused."
+    publishedDateTime: 2021-06-18T13:41:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-first-president-oppose-death-penalty-silent-spate-executions-begin-1601936"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-first-president-oppose-death-penalty-silent-spate-executions-begin-1601936?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-first-president-oppose-death-penalty-silent-spate-executions-begin-1601936?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1824630/death-penaltythis-march-22-1995-file-photo.jpg"
+        width: 1000
+        height: 740
+        isCached: true
   - title: "Juneteenth is officially a federal holiday after President Biden signs bill in White House ceremony"
     excerpt: "President Joe Biden signed a bill making June 19th a federal holiday at a White House ceremony with Vice President Kamala Harris, Opal Lee and others."
     publishedDateTime: 2021-06-17T20:07:00Z

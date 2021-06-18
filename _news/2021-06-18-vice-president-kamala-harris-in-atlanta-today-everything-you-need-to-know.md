@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Women and youth a top focus of Vice President Kamala Harris' first visit to Mexico"
-excerpt: "U.S. Vice President Kamala Harris' talking points during Guatemala, Mexico trip includes discussing vulnerable populations, namely women and youth."
-publishedDateTime: 2021-06-07T21:00:00Z
-originalUrl: "https://www.indystar.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
-webUrl: "https://www.indystar.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
-ampWebUrl: "https://amp.indystar.com/amp/7569783002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7569783002"
+title: "Vice President Kamala Harris in Atlanta today | Everything you need to know"
+excerpt: "Vice President Kamala Harris is set to visit Atlanta today to promote COVID-19 vaccinations and attend a forum on voting rights. The vice president is making her visit as Georgia continues to lag behind most other states in vaccination rate - with about 36% of residents fully vaccinated."
+publishedDateTime: 2021-06-18T13:15:00Z
+originalUrl: "https://www.11alive.com/article/news/politics/vice-president-kamala-harris-in-atlanta-today-everything-you-need-to-know/85-0cc18d9a-6801-4194-a63b-2731bbe023cc"
+webUrl: "https://www.11alive.com/article/news/politics/vice-president-kamala-harris-in-atlanta-today-everything-you-need-to-know/85-0cc18d9a-6801-4194-a63b-2731bbe023cc"
+ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vice-president-kamala-harris-in-atlanta-today-everything-you-need-to-know/85-0cc18d9a-6801-4194-a63b-2731bbe023cc"
+cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vice-president-kamala-harris-in-atlanta-today-everything-you-need-to-know/85-0cc18d9a-6801-4194-a63b-2731bbe023cc"
 type: article
-quality: 69
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: 11Alive
+  domain: 11alive.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/24/PTX1/369c7658-4220-438f-a5b2-04e1016fa226-Vaccination_Juarez1039.JPG?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://media.11alive.com/assets/WXIA/images/7100fe7e-4946-45b1-8873-3514f8e7374f/7100fe7e-4946-45b1-8873-3514f8e7374f_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -556,22 +556,6 @@ related:
         width: 800
         height: 531
         isCached: true
-  - title: "Vice President Kamala Harris in Atlanta today | Everything you need to know"
-    excerpt: "Vice President Kamala Harris is set to visit Atlanta today to promote COVID-19 vaccinations and attend a forum on voting rights. The vice president is making her visit as Georgia continues to lag behind most other states in vaccination rate - with about 36% of residents fully vaccinated."
-    publishedDateTime: 2021-06-18T13:15:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/vice-president-kamala-harris-in-atlanta-today-everything-you-need-to-know/85-0cc18d9a-6801-4194-a63b-2731bbe023cc"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vice-president-kamala-harris-in-atlanta-today-everything-you-need-to-know/85-0cc18d9a-6801-4194-a63b-2731bbe023cc"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vice-president-kamala-harris-in-atlanta-today-everything-you-need-to-know/85-0cc18d9a-6801-4194-a63b-2731bbe023cc"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 73
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/7100fe7e-4946-45b1-8873-3514f8e7374f/7100fe7e-4946-45b1-8873-3514f8e7374f_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Politicking aside, some Democrats, nonpartisan policy experts and pro-immigrant advocacy groups also say Kamala Harris should visit the border."
     publishedDateTime: 2021-05-16T00:00:00Z
@@ -633,6 +617,22 @@ related:
     quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/06/USAT/ce7eb9ce-d915-47f0-b7f1-2da297f50042-AP_US_Harris_1.jpg?auto=webp&crop=5322,2994,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Women and youth a top focus of Vice President Kamala Harris' first visit to Mexico"
+    excerpt: "U.S. Vice President Kamala Harris' talking points during Guatemala, Mexico trip includes discussing vulnerable populations, namely women and youth."
+    publishedDateTime: 2021-06-07T21:00:00Z
+    webUrl: "https://www.indystar.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7569783002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7569783002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/24/PTX1/369c7658-4220-438f-a5b2-04e1016fa226-Vaccination_Juarez1039.JPG?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -981,6 +981,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "mLJh7yrF+VuWf5m/DM07saX/0rWOiuFwCOKDTeRvHnxolGrX4LMsCT82/ae85s8pm008e+QBnzke5KqjgemXLEpBCJnVLMLJxMhJ8JbEsus+thymgZJlruN04VVVKSYZro5+JlQnCN2hYW35vsMrvYcdLkyl5GNWIEy4lhY2x8UeGEVwx/b1lW217vCgWXjArP16pF+wUCgKIu9P6LnvBK4R5WTtmKZV+/X96wtPJHQh05SOUuTWti1zPmBH6MFSiJUOj0XV75+GfOPvkMyUL8vTB4eTA2UKxrAKFUMDFpIQJL4Xc0Y40nEVcNXKrdWtAJEFqFSIpOtnSRFSi0bgTdbQRT8zvxr3xZG+VyJrc5dpdYurBz88MI6LFssBo0uTyV/Yg+j91RME8vDoRhXAWod+Ca7DHvfokWTuJlrVuM0HA15GVeHQ6zFJjTbXNNpYmzfLR5HRIuF9j/e5QvSujFGrb8e2i1NQxyajSJdxgnYnJuVdQgk6SddoOwPxLlubn2aouFw6PdH6wbxA4rCnxQ==;534yPa8NRYcTK32zyz1gyw=="
+secured: "mvhiYMvpLqJMawYcZ3Yp9rM9+4DzGIXzxBSutijL8gYhk7nn8W0lUwhMbuZVlDVBLsF+Lpo0Lnr72o35I+zF2sipRYQvnReT3wrkWZb35ssDYBhJJnMuAazWUpLedu0Wy1oCeOn03Jkz4uXlJi3+APGinMK2Wt8/EQ7gOkHuAKqLlxt4g7ArXQ8KW8CNF1ebHv7Py8m2bZ8ef1eTzeP40EeFb2QOMqR3IeHaZXGVhU2bhEFkhnPUT1gQuTOtJAA4L13RGg+u7iper+UkpSe7tBKb/k5q1sBK8tuxZJxIaakweONy2fAKNSYzyT+HusQSeHaTKUBYXjkn3Vdhd+cStCRoSbiutAANew2OEDQgPAs=;6y2c5Q+REKQKs4ezPdr/Qw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "68 GOP members send letter to Biden admin slamming POTUS for waiving Nord Stream 2 Pipeline sanctions"
-excerpt: "Russia's Nord Stream 2 gas pipeline is the subject of a letter 68 Republican House of Representatives members sent to the Biden administration."
-publishedDateTime: 2021-06-07T16:24:13Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R-qDfZtjgns/biden-russia-nord-stream-pipeline-gop-letter"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R-qDfZtjgns/biden-russia-nord-stream-pipeline-gop-letter"
-ampWebUrl: "https://www.foxnews.com/politics/biden-russia-nord-stream-pipeline-gop-letter.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-nord-stream-pipeline-gop-letter.amp"
+title: "Dems ready to advance Biden nominee that Republicans accuse of promoting critical race theory"
+excerpt: "Senate Majority Leader Chuck Schumer. D-N.Y., filed cloture on President Biden's nomination of Kiran Ahuja to be the director of the Office of Personnel Management, a procedural step that will like set up a confirmation vote next week for the nominee Republicans accuse of espousing critical race theory."
+publishedDateTime: 2021-06-18T12:32:12Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pkim-J83VDo/dems-advance-biden-nominee-republicans-accuse-critical-race-theory"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pkim-J83VDo/dems-advance-biden-nominee-republicans-accuse-critical-race-theory"
+ampWebUrl: "https://www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
 type: article
-quality: 160
+quality: 164
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4c36659-25c2-40ab-b470-9cb115741d73/b60e912b-0aec-485a-b2e5-39bf269222ec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Dems ready to advance Biden nominee that Republicans accuse of promoting critical race theory"
-    excerpt: "Senate Majority Leader Chuck Schumer. D-N.Y., filed cloture on President Biden's nomination of Kiran Ahuja to be the director of the Office of Personnel Management, a procedural step that will like set up a confirmation vote next week for the nominee Republicans accuse of espousing critical race theory."
-    publishedDateTime: 2021-06-18T12:32:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pkim-J83VDo/dems-advance-biden-nominee-republicans-accuse-critical-race-theory"
-    ampWebUrl: "https://www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
+  - title: "68 GOP members send letter to Biden admin slamming POTUS for waiving Nord Stream 2 Pipeline sanctions"
+    excerpt: "Russia's Nord Stream 2 gas pipeline is the subject of a letter 68 Republican House of Representatives members sent to the Biden administration."
+    publishedDateTime: 2021-06-07T16:24:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R-qDfZtjgns/biden-russia-nord-stream-pipeline-gop-letter"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-russia-nord-stream-pipeline-gop-letter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-nord-stream-pipeline-gop-letter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4c36659-25c2-40ab-b470-9cb115741d73/b60e912b-0aec-485a-b2e5-39bf269222ec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden adviser's son lands Treasury job, promoted 'Defund the Police'"
     excerpt: "Biden aide and White House counselor Steve Ricchetti now has not one but three children working within the administration."
@@ -152,6 +152,6 @@ related:
         height: 720
         isCached: true
 
-secured: "oA18RWhYgORL8gix5amAdUaXgif/dpLRCcPDlcqcfQYrTjbxeWbbyjSXi1xmvWKajySb/H/ZvDLJkiIpvPD0OW8Z2oT4cwRwPZqGwDF0x4Bf4eSZ7d8Lk3bgkmCn8QjM7KQFwLsBIOxrAjo/F9PlXkAcYkC72IK5HsvVb0DsDXA8SEhojqVe0UMQTWqvTzggoiGjHktoMXHw6twm9/Nhktj/6WQubjKjqY6u1iHP7Kbypoupvx7GoNoJTtncpV/mnYNaKVgh5MV9wcQN73f7CdGrLM7P1/N0fk1U20Q/+URlU97vqmkauwOpmMANHFu/T6adsjFTJr71WBEseP9aHraCo0riDonE4etVjQQmm6k=;GHHVlbxpf++bh5M1YrZl2Q=="
+secured: "zC06AxSbrqOZzqIYljjIwukSvx5hRzEo9xYJiy4IJtiJE9C62xmvsRqsiOrm5ulZPkiGhN9bpaNDqFp/LAzamOdO+GFKkmCUMWkwAQ1LvIMVGx3TPQdrun/KMYj8dUuWgmlZeExSFn1LMBq+Xf3AvXl2Wqieu/W0tFTrW4cJFCkXM2AcpzmKxldWSkPG4gJnkQpfBDv/3JSjRerwZUR6S1x/iSojKi1CCHdnJq8I++S4OjarJ9xbknFw72txHHMqiwIL7ZzNqnNUSLYASEqOH1ZMZYUmXgTgcxYTGk+nlSbmfCnmTqba8iWgHaA0L4Poms+8b6YkR9M6axyL2nlo84HHlgp3KlqLkwe2bn+ilao=;HAM4Hjp6XcCorvQha9G5DQ=="
 ---
 

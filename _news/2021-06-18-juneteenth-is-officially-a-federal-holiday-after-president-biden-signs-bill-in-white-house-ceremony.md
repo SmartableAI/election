@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden, First President to Oppose Death Penalty, Silent as Spate of Executions to Begin"
+    excerpt: "Joe Biden is the first sitting president to oppose the death penalty, but his silence on the issue since taking office has left many anti-capital punishment activists confused."
+    publishedDateTime: 2021-06-18T13:41:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-first-president-oppose-death-penalty-silent-spate-executions-begin-1601936"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-first-president-oppose-death-penalty-silent-spate-executions-begin-1601936?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-first-president-oppose-death-penalty-silent-spate-executions-begin-1601936?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1824630/death-penaltythis-march-22-1995-file-photo.jpg"
+        width: 1000
+        height: 740
+        isCached: true
 
 secured: "a/QNS7E+5ChATCR0qlVl5oOd7elZ1/gVv832BdxdwzhL4ttEa9ot3Lk82iCjR0XxzXUvBhkwQCUWUJ6oEvuKGwOBunB1/G99+FSD/LK8zgC2iN2vL+jluk/ee2DYNCeLIv/A0wtUHgqAOu6/e9iNJs3pnrve0YAfP32ebkCtIONW8ynPUpIcZJjwA7rQ29dnr79FhJ3QGcBsTILHWZ46AHSKRYLXUAfRoBvzb4Xspqje+wWFiva6bb+rqW1XPYZ2KniS9kBlq/bMqNfP1434cEfZqDhTO7etiWFvFnlJK1lSCBFocEOh5rbQNcUsWzl6PJsPT0uK+xQdtx8IvTU2mx9EYtgQj687zfeYPtviNwf73ju0CmyMOALjohHQYA8nx7bMa5AoDdTd1r7zSM3xpvheTowYPltjw8OBtaRLmf+Obv0Va7dZoZR9eg+kCxn4VGcrbNF1wSl0n1y53zHY3w66vUMbl6erc3Iep2w06sXtSvedJAvJ7GkyyPswNLSo5Zfkdg+uEN7KUKotIdCODg==;yyuAhDjN4JMcPfTsCS+uHA=="
 ---

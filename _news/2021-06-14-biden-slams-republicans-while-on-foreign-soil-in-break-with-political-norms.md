@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-trump-republicans-nato-foreig
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp"
 type: article
 quality: 173
-heat: 313
+heat: 333
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Dems ready to advance Biden nominee that Republicans accuse of promoting critical race theory"
+    excerpt: "Senate Majority Leader Chuck Schumer. D-N.Y., filed cloture on President Biden's nomination of Kiran Ahuja to be the director of the Office of Personnel Management, a procedural step that will like set up a confirmation vote next week for the nominee Republicans accuse of espousing critical race theory."
+    publishedDateTime: 2021-06-18T12:32:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pkim-J83VDo/dems-advance-biden-nominee-republicans-accuse-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340

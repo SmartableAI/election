@@ -61,6 +61,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Dems ready to advance Biden nominee that Republicans accuse of promoting critical race theory"
+    excerpt: "Senate Majority Leader Chuck Schumer. D-N.Y., filed cloture on President Biden's nomination of Kiran Ahuja to be the director of the Office of Personnel Management, a procedural step that will like set up a confirmation vote next week for the nominee Republicans accuse of espousing critical race theory."
+    publishedDateTime: 2021-06-18T12:32:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pkim-J83VDo/dems-advance-biden-nominee-republicans-accuse-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "68 GOP members send letter to Biden admin slamming POTUS for waiving Nord Stream 2 Pipeline sanctions"
     excerpt: "Russia's Nord Stream 2 gas pipeline is the subject of a letter 68 Republican House of Representatives members sent to the Biden administration."
     publishedDateTime: 2021-06-07T16:24:13Z

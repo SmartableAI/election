@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to host Germany's Merkel at the White House in July"
-excerpt: "President Biden will host German Chancellor Angela Merkel at the White House next month, his third in-person visit with a foreign leader in Washington since taking office at the beginning of this year."
-publishedDateTime: 2021-06-11T11:53:00Z
-originalUrl: "https://thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july"
-webUrl: "https://thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july"
-ampWebUrl: "https://thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july?amp"
+title: "Joe Biden, First President to Oppose Death Penalty, Silent as Spate of Executions to Begin"
+excerpt: "Joe Biden is the first sitting president to oppose the death penalty, but his silence on the issue since taking office has left many anti-capital punishment activists confused."
+publishedDateTime: 2021-06-18T13:41:00Z
+originalUrl: "https://www.newsweek.com/joe-biden-first-president-oppose-death-penalty-silent-spate-executions-begin-1601936"
+webUrl: "https://www.newsweek.com/joe-biden-first-president-oppose-death-penalty-silent-spate-executions-begin-1601936"
+ampWebUrl: "https://www.newsweek.com/joe-biden-first-president-oppose-death-penalty-silent-spate-executions-begin-1601936?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-first-president-oppose-death-penalty-silent-spate-executions-begin-1601936?amp=1"
 type: article
-quality: 125
-heat: 205
-published: true
+quality: 115
+heat: -1
+published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/bidenjoe_merkelangela_germany_getty.jpg"
-    width: 980
-    height: 551
+  - url: "https://d.newsweek.com/en/full/1824630/death-penaltythis-march-22-1995-file-photo.jpg"
+    width: 1000
+    height: 740
     isCached: true
 
 related:
+  - title: "Biden to host Germany's Merkel at the White House in July"
+    excerpt: "President Biden will host German Chancellor Angela Merkel at the White House next month, his third in-person visit with a foreign leader in Washington since taking office at the beginning of this year."
+    publishedDateTime: 2021-06-11T11:53:00Z
+    webUrl: "https://thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july"
+    ampWebUrl: "https://thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/557943-biden-to-host-germanys-merkel-at-the-white-house-in-july?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_merkelangela_germany_getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden signs bill making Juneteenth a federal holiday"
     excerpt: "President Joe Biden has signed legislation Thursday establishing a new federal holiday commemorating the end of slavery, saying he believes it will go down as one of the greatest honors he has as pres"
     publishedDateTime: 2021-06-17T19:46:00Z
@@ -63,22 +79,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden, First President to Oppose Death Penalty, Silent as Spate of Executions to Begin"
-    excerpt: "Joe Biden is the first sitting president to oppose the death penalty, but his silence on the issue since taking office has left many anti-capital punishment activists confused."
-    publishedDateTime: 2021-06-18T13:41:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-first-president-oppose-death-penalty-silent-spate-executions-begin-1601936"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-first-president-oppose-death-penalty-silent-spate-executions-begin-1601936?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-first-president-oppose-death-penalty-silent-spate-executions-begin-1601936?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1824630/death-penaltythis-march-22-1995-file-photo.jpg"
-        width: 1000
-        height: 740
-        isCached: true
   - title: "Juneteenth is officially a federal holiday after President Biden signs bill in White House ceremony"
     excerpt: "President Joe Biden signed a bill making June 19th a federal holiday at a White House ceremony with Vice President Kamala Harris, Opal Lee and others."
     publishedDateTime: 2021-06-17T20:07:00Z
@@ -96,6 +96,6 @@ related:
         height: 674
         isCached: true
 
-secured: "7QO5vvN9CwWOn0I62g9X6rtyeSa/lc4FP5Zz2+aTqdcuCLu/z1mmf/I5O3dGZyjOAhqWj0dy/yEqs8x0F+c96L11hSHQyFBaxjzdQf6GVi87CSOXhFHIZPb37yXyFuLLELNegiCdCmo7RlHOdhw4DEw19euzuJWJwN1mF4ykeoI4vXlEUbWwpze4MbHg4hoWzQoMCavshrfUF6NY7DPladfLjV8uxlXp3Le29zJhXx4AD9MlNvgf2r/kw1idE91KxgXTQG3lFEq9fh6tPeKJvBTraEIC/dmbOT02+L/qM3s+bYwiXUERnrXIf8okLFgascI/HhfNFSZ7DqsMQlXMXcVqZh01w1Xy/9hE/HEymPQ=;GD6PR6sxOsC2Br6AWyvNAQ=="
+secured: "udfYMQfjRZxstm+IRzNHaGfK/nMkCZgE7rjpxUjm/GIDvqUqwzfdHrgKobMNqfxWpIdH9nyHWCwRaU87eCBYY/qqG8ORTzUVkz6Uopn7pD2bOAwnB0CvosCi6XyOgTPHHTh09EI/60GjefVKxpVpTx1vHlfKnXCZ2WxDQYIgTkFFymFJd46UsGmMNWHJadelLu+Hcq2P7YRv0SP8NoUOylMgInbujgmTqZsGcPElRSJuVaYD5ghVm2FGMtqd8ZLrBAzkFL34NxS2VCDqofO8eXFbVD0h7Smt8x30rwHFbh92JYTLTDcSeBjiwSurzl1EyPNDzheXUdFSpmwoK6jSQQVK+r+yJFaYyA9BYc9/5dc=;jNwZT7rgIclrW0ojErTmWg=="
 ---
 

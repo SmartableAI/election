@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Women and youth a top focus of Vice President Kamala Harris' first visit to Mexico"
-excerpt: "U.S. Vice President Kamala Harris' talking points during Guatemala, Mexico trip includes discussing vulnerable populations, namely women and youth."
-publishedDateTime: 2021-06-07T21:00:00Z
-originalUrl: "https://www.indystar.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
-webUrl: "https://www.indystar.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
-ampWebUrl: "https://amp.indystar.com/amp/7569783002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7569783002"
+title: "As Kamala Harris’ portfolio grows, so does the scrutiny"
+excerpt: "Her groundbreaking personal profile and leadership on top issues have put her in the spotlight. Supporters say a learning curve is inevitable."
+publishedDateTime: 2021-06-18T11:00:00Z
+originalUrl: "https://www.csmonitor.com/USA/Politics/2021/0618/As-Kamala-Harris-portfolio-grows-so-does-the-scrutiny"
+webUrl: "https://www.csmonitor.com/USA/Politics/2021/0618/As-Kamala-Harris-portfolio-grows-so-does-the-scrutiny"
+ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0618/As-Kamala-Harris-portfolio-grows-so-does-the-scrutiny"
+cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0618/As-Kamala-Harris-portfolio-grows-so-does-the-scrutiny"
 type: article
-quality: 69
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Christian Science Monitor
+  domain: csmonitor.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/24/PTX1/369c7658-4220-438f-a5b2-04e1016fa226-Vaccination_Juarez1039.JPG?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Mike Pence Tells Kamala Harris 'It's Time' to Visit Southern Border"
@@ -636,6 +630,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Women and youth a top focus of Vice President Kamala Harris' first visit to Mexico"
+    excerpt: "U.S. Vice President Kamala Harris' talking points during Guatemala, Mexico trip includes discussing vulnerable populations, namely women and youth."
+    publishedDateTime: 2021-06-07T21:00:00Z
+    webUrl: "https://www.indystar.com/story/news/2021/06/06/kamala-harris-visit-to-mexico-violence-poverty-wages/7569783002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7569783002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7569783002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/24/PTX1/369c7658-4220-438f-a5b2-04e1016fa226-Vaccination_Juarez1039.JPG?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Will Vice President Kamala Harris' visit increase vaccine rates in South Carolina?"
     excerpt: "SC state reps and officials and the community look at whether Vice President Kamala Harris' visit could get more people to vaccination clinics."
     publishedDateTime: 2021-06-13T11:38:00Z
@@ -853,17 +863,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "As Kamala Harris’ portfolio grows, so does the scrutiny"
-    excerpt: "Her groundbreaking personal profile and leadership on top issues have put her in the spotlight. Supporters say a learning curve is inevitable."
-    publishedDateTime: 2021-06-18T11:00:00Z
-    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0618/As-Kamala-Harris-portfolio-grows-so-does-the-scrutiny"
-    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0618/As-Kamala-Harris-portfolio-grows-so-does-the-scrutiny"
-    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0618/As-Kamala-Harris-portfolio-grows-so-does-the-scrutiny"
-    type: article
-    provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
-    quality: 55
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."
     publishedDateTime: 2021-05-13T20:39:00Z
@@ -981,6 +980,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "mLJh7yrF+VuWf5m/DM07saX/0rWOiuFwCOKDTeRvHnxolGrX4LMsCT82/ae85s8pm008e+QBnzke5KqjgemXLEpBCJnVLMLJxMhJ8JbEsus+thymgZJlruN04VVVKSYZro5+JlQnCN2hYW35vsMrvYcdLkyl5GNWIEy4lhY2x8UeGEVwx/b1lW217vCgWXjArP16pF+wUCgKIu9P6LnvBK4R5WTtmKZV+/X96wtPJHQh05SOUuTWti1zPmBH6MFSiJUOj0XV75+GfOPvkMyUL8vTB4eTA2UKxrAKFUMDFpIQJL4Xc0Y40nEVcNXKrdWtAJEFqFSIpOtnSRFSi0bgTdbQRT8zvxr3xZG+VyJrc5dpdYurBz88MI6LFssBo0uTyV/Yg+j91RME8vDoRhXAWod+Ca7DHvfokWTuJlrVuM0HA15GVeHQ6zFJjTbXNNpYmzfLR5HRIuF9j/e5QvSujFGrb8e2i1NQxyajSJdxgnYnJuVdQgk6SddoOwPxLlubn2aouFw6PdH6wbxA4rCnxQ==;534yPa8NRYcTK32zyz1gyw=="
+secured: "/8+M0asSd+4MwHdTkYzTZQ5Ei832YDcEa1uZNcPnfCuqyjdZOxkdLk1DKKWs8pMy9hawJjRq5rfu3LV+pKRf4It85CISBNwQSVP20cc/FiS69YUiVpYCDdv8sVClWZExWTwIElOllQsKM/glre0Rz0GLsPXcRR3A9W1epmrIKYsZwFutqVG5xU/HMzH5vGDMNqaSUiiBd3AsJdy7kp0Xp1ZiymGdNWUm3zD6XK6ZM8Vmvp7nXrKWlUlFmQ8RRPKNKDi8u8CDj0DrRz8W9/glxsVuNY40zs+VLHu3p8I5cZcSuOpW1+O/mN8QrzwNsF5rEXRU8acTIVUpbBW6+qALawGBV/xKs9f3HNaYuWxoO6dnB+Ea2YC6kjg1z/GdXS3i1l3JU22ph16cej6lwxKY5DO4L02BikzlWfmmlRjbieKTVDGBs/F6nkcyEa90tT80ct6+cLs//r8rWML4w3M2eFwwqqntCCcpkl9OvO99A1EIpTfo7psDFIcNW/NTwFJkQLTk9f8qQa6/wZ+xJSlCvQ==;45+0Euo7C91OVGdLCAcqrQ=="
 ---
 

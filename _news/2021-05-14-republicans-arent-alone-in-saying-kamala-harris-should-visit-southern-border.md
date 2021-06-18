@@ -554,6 +554,22 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "Vice President Kamala Harris in Atlanta today | Everything you need to know"
+    excerpt: "Vice President Kamala Harris is set to visit Atlanta today to promote COVID-19 vaccinations and attend a forum on voting rights. The vice president is making her visit as Georgia continues to lag behind most other states in vaccination rate - with about 36% of residents fully vaccinated."
+    publishedDateTime: 2021-06-18T13:15:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/vice-president-kamala-harris-in-atlanta-today-everything-you-need-to-know/85-0cc18d9a-6801-4194-a63b-2731bbe023cc"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vice-president-kamala-harris-in-atlanta-today-everything-you-need-to-know/85-0cc18d9a-6801-4194-a63b-2731bbe023cc"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vice-president-kamala-harris-in-atlanta-today-everything-you-need-to-know/85-0cc18d9a-6801-4194-a63b-2731bbe023cc"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 73
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/7100fe7e-4946-45b1-8873-3514f8e7374f/7100fe7e-4946-45b1-8873-3514f8e7374f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Politicking aside, some Democrats, nonpartisan policy experts and pro-immigrant advocacy groups also say Kamala Harris should visit the border."
     publishedDateTime: 2021-05-16T00:00:00Z
@@ -851,6 +867,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "As Kamala Harris’ portfolio grows, so does the scrutiny"
+    excerpt: "Her groundbreaking personal profile and leadership on top issues have put her in the spotlight. Supporters say a learning curve is inevitable."
+    publishedDateTime: 2021-06-18T11:00:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0618/As-Kamala-Harris-portfolio-grows-so-does-the-scrutiny"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0618/As-Kamala-Harris-portfolio-grows-so-does-the-scrutiny"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0618/As-Kamala-Harris-portfolio-grows-so-does-the-scrutiny"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
   - title: "In Greenville visit, VP Kamala Harris promotes COVID-19 vaccination campaign"
     excerpt: "Invoking the scripture that says to \"love thy neighbor,\" Vice President Kamala Harris on her tour of Greenville promoted the government's vaccination campaign as part of a nationwide"
     publishedDateTime: 2021-06-14T15:50:00Z

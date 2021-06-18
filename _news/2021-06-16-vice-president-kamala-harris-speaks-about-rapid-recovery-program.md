@@ -554,6 +554,22 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "Vice President Kamala Harris in Atlanta today | Everything you need to know"
+    excerpt: "Vice President Kamala Harris is set to visit Atlanta today to promote COVID-19 vaccinations and attend a forum on voting rights. The vice president is making her visit as Georgia continues to lag behind most other states in vaccination rate - with about 36% of residents fully vaccinated."
+    publishedDateTime: 2021-06-18T13:15:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/vice-president-kamala-harris-in-atlanta-today-everything-you-need-to-know/85-0cc18d9a-6801-4194-a63b-2731bbe023cc"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vice-president-kamala-harris-in-atlanta-today-everything-you-need-to-know/85-0cc18d9a-6801-4194-a63b-2731bbe023cc"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vice-president-kamala-harris-in-atlanta-today-everything-you-need-to-know/85-0cc18d9a-6801-4194-a63b-2731bbe023cc"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 73
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/7100fe7e-4946-45b1-8873-3514f8e7374f/7100fe7e-4946-45b1-8873-3514f8e7374f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Politicking aside, some Democrats, nonpartisan policy experts and pro-immigrant advocacy groups also say Kamala Harris should visit the border."
     publishedDateTime: 2021-05-16T00:00:00Z
@@ -837,6 +853,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "As Kamala Harris’ portfolio grows, so does the scrutiny"
+    excerpt: "Her groundbreaking personal profile and leadership on top issues have put her in the spotlight. Supporters say a learning curve is inevitable."
+    publishedDateTime: 2021-06-18T11:00:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0618/As-Kamala-Harris-portfolio-grows-so-does-the-scrutiny"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0618/As-Kamala-Harris-portfolio-grows-so-does-the-scrutiny"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0618/As-Kamala-Harris-portfolio-grows-so-does-the-scrutiny"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."
     publishedDateTime: 2021-05-13T20:39:00Z
@@ -954,6 +981,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "T60eqzWoqPVbI1h6ZbfQp9k0iirNzc7zegRuB9J0dMr4tfm1S6m0lQXJqfalDaVANeu5Kih2Fh6dnWdUtsx1yjdjNqRlzYFadNb80AnkgIbH5Vk330DfuDpONtRRF3MACXoNwrxS2DEV9Db697OdoQpLGbVgLDFnFgHDy/LtlQ+hIGE+sA03bOqw4GDTa1tkA7ppWyowlu/P7CurUaxVaaWar3mYhrD80YKdX2kubgaEOt2fWCyEcVZUsPKXr0OOOKb6WEGxos2D79ar5odnDCJn6FUfXP15YQYeXM9H3nBsxjTvinmwdSkwSIEjsNgISE7aZAbv/M2SEcClZZDkhkbRyQdhg63/nwP+DUMCNO8=;bzPOOQHa1Cbpm3oeJ1jcYQ=="
+secured: "GtGs2mbz4M/b2PescV2eAd8NNk9ZlwJJyLh8cng9y3Xn5Wt2TskfQ7Da5zpUV0LSCOkT6qweDXvBvx5NUhKexM8fye7N8l4KRUwGQQsDKb6jiOy9D2xzwXLUZskduC5CsxVO2zm9SnnoUUObtzkuAvScHm1NZ6viTqXUun9R8st+3t42qL58D4mA2kc1g6agM7o/tcpFbxc5CgI23zmqKtaRStWNf7+fzHM/KejtpYK/L/VNj4+Newft7GBppa7G04VqyYqR47fjaP6g3Jy27iN2qwz1Q+CX31JeXtlhqvZ7fys3xqx1FWCgLif0Z3kiImCSM4/oHUb4NT1a+FZ8OZc818UdAQ703D6GBSD/HOBphF+uMKVLdn9/ivlQremoeFJoXz/cIi4q/92O4MTRiOCapz0DmpbSY6cl9VyIuIKWoOJ4eYJMpxro+PmquoLNP5AH6vIebvy1ct5Q/ATYSJo8pynz2NU6SN+1IzgErw77nTTGou7A9uqJL47Uks8/TdiK6fHg5kasfKZKvEl1qw==;0c1GTdFThXyKNg++OSfOoA=="
 ---
 
