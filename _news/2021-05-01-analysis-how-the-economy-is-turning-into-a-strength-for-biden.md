@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How Trump turned Russia into a partisan issue"
+    excerpt: "This week's high profile summit between President Joe Biden and Russian President Vladimir Putin was markedly different from the meetings between Putin and Biden's predecessor, Donald Trump. The former President was largely seen as friendly toward Putin, while Biden is definitely not.\n    \n"
+    publishedDateTime: 2021-06-19T12:07:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9SlYIE9w684/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/trump-russia-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/trump-russia-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200802073303-vladimir-putin-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Takeaways from a day of congressional Republicans embracing Trump and downplaying the US Capitol riot"
     excerpt: "The ongoing battle between truth and lies, and the continued fallout from the January 6 insurrection, played out Wednesday on Capitol Hill with critical oversight hearings and a landmark vote among the House Republicans to oust Liz Cheney from their leadership ranks.\n    \n"
     publishedDateTime: 2021-05-12T21:12:16Z

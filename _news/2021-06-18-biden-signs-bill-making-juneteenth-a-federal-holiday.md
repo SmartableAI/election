@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bi
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday?_amp=true"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 122
     images:
       - url: "https://d.newsweek.com/en/full/1817644/biden-cicada-qanon.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Joe Biden Approval Rating Down With Democrats, But Up 8 Percent With Republicans"
+    excerpt: "Just 17 percent of Republicans and 59 percent of Democrats said they believe the country was going in the right direction."
+    publishedDateTime: 2021-06-19T13:49:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1825804/president-joe-biden-gives-thumbs.jpg"
         width: 2500
         height: 1667
         isCached: true

@@ -31,85 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Europe is opening to tourists. When will Biden make the move?"
-    excerpt: "Two completely different takes on whether travelers should have to prove vaccine or Covid test.\n    \n"
-    publishedDateTime: 2021-06-09T22:28:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hJ3i5-8xSzk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/what-matters-travel-restrictions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/what-matters-travel-restrictions/index.html"
+  - title: "Joe Biden wooed many on his tour of Europe. It'll take much more to fix the damage wrought by Trump"
+    excerpt: "Joe Biden's first overseas trip as US President -- a whistle-stop diplomatic tour of Europe -- achieved its primary goal of signaling to America's closest friends that it was ready once more to lead the Western alliance.\n    \n"
+    publishedDateTime: 2021-06-19T04:12:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNRmIa9qVK8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/biden-europe-tour-analysis-intl-cmd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/biden-europe-tour-analysis-intl-cmd/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 176
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928115533-01-paris-skyline-pfw-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610152515-01-biden-overseas-0610-uk-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Biden and Putin to meet in summit reverberating with Cold War echoes"
-    excerpt: "Joe Biden's showdown with Russia's Vladimir Putin on Wednesday is one of the most critical summits of recent times, and not just because relations between the two nations -- which together own 90% of the world's nuclear weapons -- have plummeted to post-Cold War lows.\n    \n"
-    publishedDateTime: 2021-06-15T21:50:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hPPJCNgHKzk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/geneva-summit-joe-biden-vladimir-putin/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/geneva-summit-joe-biden-vladimir-putin/index.html"
+  - title: "Biden causes sighs of relief among world leaders even as G7 divisions linger"
+    excerpt: "When President Donald Trump used his elbows at international summits, it was to throw them -- on trade, on Russia and, once, they helped him remove the Montenegrin prime minister from his path to a photo-op.\n    \n"
+    publishedDateTime: 2021-06-12T15:39:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qO9smieXdGo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210615162537-02-biden-putin-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611151658-04-g7-biden-queen-elizabeth-0611-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden names 9 ambassador nominees, including 'Sully' Sullenberger, but posts in Europe and Asia are still to come"
-    excerpt: "President Joe Biden on Tuesday announced his nominees to serve as ambassadors to Israel, Mexico, NATO and several other posts, including Capt. Chesley \"Sully\" Sullenberger III to represent the United States on an international civil aviation safety board.\n    \n"
-    publishedDateTime: 2021-06-15T19:59:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sp0h4Tx2Zwc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/ambassadors-named-by-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/ambassadors-named-by-biden/index.html"
+  - title: "Biden finds his comfort zone on the world stage in first international trip as president"
+    excerpt: "Even Queen Elizabeth II wanted to know: What would President Joe Biden say to Vladimir Putin?\n    \n"
+    publishedDateTime: 2021-06-17T11:42:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NeJT5VAa5ZM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-first-foreign-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-first-foreign-trip/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 154
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200905121919-01-captain-sully-sullenberger-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616171155-biden-air-force-one-geneva-210616-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Live Updates: Biden Departs for Europe to Bolster Alliances"
-    excerpt: "President Biden, in the first foreign trip of his term, will make the case that America is back and ready to lead anew. Before he left, Mr. Biden cut off infrastructure talks with Republicans that had failed to yield a deal,"
-    publishedDateTime: 2021-06-09T08:43:00Z
-    webUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/09/us/joe-biden.amp.html"
+  - title: "Biden’s First Task at Housing Agency: Rebuilding Trump-Depleted Ranks"
+    excerpt: "An exodus of top-level officials during the previous administration has left the Department of Housing and Urban Development short of expertise even as its role expands."
+    publishedDateTime: 2021-06-18T19:01:00Z
+    webUrl: "https://www.nytimes.com/2021/06/18/us/politics/biden-housing-agency-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/18/us/politics/biden-housing-agency-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/18/us/politics/biden-housing-agency-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2021/06/09/world/09dc-tiktok-1/09dc-tiktok-1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/06/17/us/politics/17dc-hud1/17dc-hud1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Jill Biden Models Love and Sustainability at the G7"
-    excerpt: "In her debut international trip as first lady, Dr. Biden played her part with style. Literally. By Vanessa Friedman The first Joe and Jill Biden American Outreach tour, a.k.a. the Group of 7 meeting in Britain,"
-    publishedDateTime: 2021-06-14T13:24:00Z
-    webUrl: "https://www.nytimes.com/2021/06/14/style/Joe-Jill-Biden-G7-style.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/14/style/Joe-Jill-Biden-G7-style.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/14/style/Joe-Jill-Biden-G7-style.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/14/us/14BIDEN-G7STYLE/14BIDEN-G7STYLE-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Biden meets with European leaders head of Putin summit"
     excerpt: "President Biden is set to meet with European Commission leaders before heading to Geneva, Switzerland for his highly anticipated meeting with Russian President Vladimir Putin. NBC News’ Monica Alba breaks down the president’s meetings with European allies and what to expect from his meeting with Putin."

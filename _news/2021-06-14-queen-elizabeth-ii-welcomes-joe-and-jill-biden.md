@@ -73,6 +73,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden Approval Rating Down With Democrats, But Up 8 Percent With Republicans"
+    excerpt: "Just 17 percent of Republicans and 59 percent of Democrats said they believe the country was going in the right direction."
+    publishedDateTime: 2021-06-19T13:49:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1825804/president-joe-biden-gives-thumbs.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Joe Biden Keeps Sunglasses on for Queen Elizabeth II Meeting Despite Royal Protocol"
     excerpt: "The royal gaffe was spotted by Twitter users after Biden didn't remove his glasses while exchanging words with the queen."
     publishedDateTime: 2021-06-13T17:31:00Z

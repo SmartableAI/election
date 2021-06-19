@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Joe Biden signs bill making Juneteenth a federal holiday – live"
-excerpt: "Great nations don’t ignore their most painful moments,’ president says while supreme court upholds Obamacare"
-publishedDateTime: 2021-06-17T23:16:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates?page=with:block-60cbd78f8f08863656a73fe9"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates?page=with:block-60cbd78f8f08863656a73fe9"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
+title: "Joe Biden Approval Rating Down With Democrats, But Up 8 Percent With Republicans"
+excerpt: "Just 17 percent of Republicans and 59 percent of Democrats said they believe the country was going in the right direction."
+publishedDateTime: 2021-06-19T13:49:00Z
+originalUrl: "https://www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252"
+webUrl: "https://www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252"
+ampWebUrl: "https://www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252?amp=1"
 type: article
-quality: 125
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/e50191cf70e74e898aefab8f248bdecc3ffb20d5/0_59_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cadf8eefc8cc683a2c73c18e956b5c57"
-    width: 600
-    height: 360
+  - url: "https://d.newsweek.com/en/full/1825804/president-joe-biden-gives-thumbs.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -47,6 +47,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Joe Biden signs bill making Juneteenth a federal holiday – live"
+    excerpt: "Great nations don’t ignore their most painful moments,’ president says while supreme court upholds Obamacare"
+    publishedDateTime: 2021-06-17T23:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates?page=with:block-60cbd78f8f08863656a73fe9"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/17/us-juneteenth-federal-holiday-congress-joe-biden-us-politics-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/e50191cf70e74e898aefab8f248bdecc3ffb20d5/0_59_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cadf8eefc8cc683a2c73c18e956b5c57"
+        width: 600
+        height: 360
+        isCached: true
   - title: "QAnon Supporters Say Cicada Landing on Biden's Neck Is Proof Plan Is Working"
     excerpt: "QAnon influencers are struggling to come up with new ways to prove their movement holds true in the absence of Donald Trump and after the public failure of several predictions."
     publishedDateTime: 2021-06-10T15:22:00Z
@@ -60,22 +76,6 @@ related:
     quality: 122
     images:
       - url: "https://d.newsweek.com/en/full/1817644/biden-cicada-qanon.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Joe Biden Approval Rating Down With Democrats, But Up 8 Percent With Republicans"
-    excerpt: "Just 17 percent of Republicans and 59 percent of Democrats said they believe the country was going in the right direction."
-    publishedDateTime: 2021-06-19T13:49:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
-    images:
-      - url: "https://d.newsweek.com/en/full/1825804/president-joe-biden-gives-thumbs.jpg"
         width: 2500
         height: 1667
         isCached: true
@@ -140,6 +140,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "UV5Ve8HiApHD5+Us8IN8W1USNlzTDZXqwJnvJ9j+r2Od7o1xC4BU6YvaL1vUbRne0rjO1v3uRxz6WX34fBL0JMwMcFSaZS/dlz+4Yt1vf2HQmxdfombmJANHze8NPdLeliRZq61TzrV4Q+pNaFnOdenu/o4n9atkafGqY7nfJ93s5zbugdhduOmThFE1m5z8fUzaXNmXyMg6x1PqaHlRcebPOAeBMHc3wt5+xL11x15DiIB5o+JjUk/jXYDr9JJXlPw01VloutiymC0SdblbY09xS8cqy7GZnCuD0oO3hpQC2kQgNdB/kQV0uFX4zx5TagiOMbMy72HnVeWRKCtOvrPAciWDBwRq1FCDQDmX9zw=;BHbVN1lcVFjQS+ga0RW/ew=="
+secured: "LKhInduRqFBxFC4krubWMK8ljQYG7NE4qrEwzMSwh8q4c8gJZrvgW4muAH1FTp4MTXvMcr2xkqSuJSdOfxuPLmL9m8aav2kCmOHaJzCSCBEWLOwnFrEywd0SPjH3JZgq3fWz1+A9cmh4z7UuzLYDRNyRJrLhOhFwFgtG2D0xADkNpF7Ae7HUTxvvDPIUTp5P6d2cWYuUZTVCzaEhb8cvmUQ9mJAHtPm4XU7htu6sjTCiIzTq95bF9bFLC0UAX2NnZT1JxICNeiyGk+LLjyI5cICsZTzjHfJtpgRCuLejwI/YC+IstgNjqzacRuuPQaVctD84sjM6+U4PF8XOqbdLnxRG2StK4XLKWyCaiYqO9aw=;bmlgo+f6A9HyTKtTmVRKeQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/what-matters-travel-rest
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/what-matters-travel-restrictions/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 255
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210615162537-02-biden-putin-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's preaching the benefits of democracy in Europe, but new concerns rise back home"
-    excerpt: "President Joe Biden's attempts to talk up democracy in Europe this week are facing headwinds from back home, where revelations about the Justice Department's attempts to obtain Democrats' data have raised new concerns about the state of American politics.\n    \n"
-    publishedDateTime: 2021-06-12T08:19:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7DfsZnAxpT0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/president-biden-g7-day-2/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/president-biden-g7-day-2/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611100750-03-g7-family-photo-0611-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -110,22 +94,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/14/us/14BIDEN-G7STYLE/14BIDEN-G7STYLE-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Biden meets with European leaders head of Putin summit"
-    excerpt: "President Biden is set to meet with European Commission leaders before heading to Geneva, Switzerland for his highly anticipated meeting with Russian President Vladimir Putin. NBC News’ Monica Alba breaks down the president’s meetings with European allies and what to expect from his meeting with Putin."
-    publishedDateTime: 2021-06-15T11:11:00Z
-    webUrl: "https://www.nbcnews.com/now/video/president-joe-biden-meets-with-european-leaders-head-of-putin-summit-114821701701"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114821701701"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114821701701"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623755416436_ott_now_am_biden_ec_210615_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "87ExT8XLlJVJyVQkN4XVNHMAFjt3vjuPPMANroR3WcGyv12eQBRnkgcXDUxHIF+VhttSXtCdc77yI63gUdEP7sVLMZ0mztgcj5zS/cq0dvosBKDEriYFrB6DzZweFs27hFleZBO7Fr79IKfPPJQlQt9Px1fek/7Ql+BQu6rhdhuVSVGbOS5oUAATBOVkH4XDj1drsIMrOpRTr2qEvCDNF6Nq4E5COn6n47I+lPelhXVHwpN/O4lp0CGqz1iVI7LQv7DBFu+CtWjgCJD+wBJmgIXpYdhBWpWC4y4nrEXOjX60XAvclmPTEUX0AbO+hsLljh+pGT3ubtLH8ficdzTlqDx4I5N26BDFvJ94oech1xE=;ZaMvTAoUGOml8s5hHyHQ7A=="

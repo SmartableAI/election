@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Analysis: Takeaways from a day of congressional Republicans embracing Trump and downplaying the US Capitol riot"
-excerpt: "The ongoing battle between truth and lies, and the continued fallout from the January 6 insurrection, played out Wednesday on Capitol Hill with critical oversight hearings and a landmark vote among the House Republicans to oust Liz Cheney from their leadership ranks.\n    \n"
-publishedDateTime: 2021-05-12T21:12:16Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Awl9sqVxTM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Awl9sqVxTM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/takeaways-capitol-riot-cheney-trump/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/takeaways-capitol-riot-cheney-trump/index.html"
+title: "Analysis: How Trump turned Russia into a partisan issue"
+excerpt: "This week's high profile summit between President Joe Biden and Russian President Vladimir Putin was markedly different from the meetings between Putin and Biden's predecessor, Donald Trump. The former President was largely seen as friendly toward Putin, while Biden is definitely not.\n    \n"
+publishedDateTime: 2021-06-19T12:07:09Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9SlYIE9w684/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9SlYIE9w684/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/trump-russia-analysis/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/trump-russia-analysis/index.html"
 type: article
-quality: 155
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512170948-gosar-cheney-mccarthy-split-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200802073303-vladimir-putin-donald-trump-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -95,19 +95,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: How Trump turned Russia into a partisan issue"
-    excerpt: "This week's high profile summit between President Joe Biden and Russian President Vladimir Putin was markedly different from the meetings between Putin and Biden's predecessor, Donald Trump. The former President was largely seen as friendly toward Putin, while Biden is definitely not.\n    \n"
-    publishedDateTime: 2021-06-19T12:07:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9SlYIE9w684/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/trump-russia-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/trump-russia-analysis/index.html"
+  - title: "Analysis: Takeaways from a day of congressional Republicans embracing Trump and downplaying the US Capitol riot"
+    excerpt: "The ongoing battle between truth and lies, and the continued fallout from the January 6 insurrection, played out Wednesday on Capitol Hill with critical oversight hearings and a landmark vote among the House Republicans to oust Liz Cheney from their leadership ranks.\n    \n"
+    publishedDateTime: 2021-05-12T21:12:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Awl9sqVxTM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/takeaways-capitol-riot-cheney-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/takeaways-capitol-riot-cheney-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200802073303-vladimir-putin-donald-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512170948-gosar-cheney-mccarthy-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,6 +128,6 @@ related:
         height: 550
         isCached: true
 
-secured: "oYLnAUglt/weOHQ++ZfUcU4K/QWxAGln2nmvOn2o0XQmOxUMUsCrflK4kzNph89a42pEt4FIjSb31In27eLUyLfgLqQTgj7jNhLMrca54u9Ve8MNMi7Mty+YsxQiXyrUlOFviYcTWIARVa/QQ6DUh2z2BPtctJo7HBQvSxeXFnL2zrrTGCoEI2TKhoeYs4zKPmcalBgRrOywOufAL2jiO7SLS2MibJPROY6S2EdHwkcmirIz6Eb1CdsP9tfcB7FhpW20Tk+1uvo+g3+kXiDyzZJxY+SHJ7TuEjqgcVv0spAZuy+u4XmAWW8L3MNuOpveP8yMnKbFONcMdnjvDpRPvGgCt9aOD9TV65srqwkZzcw=;M+dXgx0I22hVv3Z+bPithg=="
+secured: "qezxQ7KsWUtYPJ6QqpgTB015ZY7pTXkI1purv2N6QgTT9uiUFuJZroMeaw2KqhKDou4K7JiqUerdnbk0SBQQCfOSAhMktCRZ1AVMH9IX7xGRivPf/ieDUvzTf8kqkoWKLrSUiSGnG5JXUuBBYwBovE5ijGWQqYWoCox/ZW25EMcASq6teLz/xq992uGQPFigN9oC561UfDnV5A/h65dztwj0ZNQRecAu9KHRu41r6GARPew3JoVVLFgRsFMkLLAGTIEE65f/gg39ZfcRLhEYCd1yTH42qcq2dJEmCn8UmknczcsvHPxghjtp3/dbMf/X5p3ZbqwG/aJTNdtQKibdQdCQvFdEwC55YeeHOF3sgws=;R4xiK9gFC3Dl8Y8SlI+6kQ=="
 ---
 

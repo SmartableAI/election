@@ -55,6 +55,62 @@
       ]
     },
     {
+      "path": "_news/2021-06-19-joe-biden-wooed-many-on-his-tour-of-europe-itll-take-much-more-to-fix-the-damage-wrought-by-trump.md",
+      "title": "Joe Biden wooed many on his tour of Europe. It'll take much more to fix the damage wrought by Trump",
+      "excerpt": "Joe Biden's first overseas trip as US President -- a whistle-stop diplomatic tour of Europe -- achieved its primary goal of signaling to America's closest friends that it was ready once more to lead the Western alliance.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNRmIa9qVK8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNRmIa9qVK8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 276,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210610152515-01-biden-overseas-0610-uk-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/19/politics/biden-europe-tour-analysis-intl-cmd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/biden-europe-tour-analysis-intl-cmd/index.html",
+      "publishedDateTime": "2021-06-18T21:12:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.md",
       "title": "Joe Kent, veteran and Washington state congressional candidate, says Trump revealed military politicization",
       "excerpt": "Washington state congressional candidate Joe Kent, a U.S. Army veteran and Gold Star husband, joined Fox Nation's “Tucker Carlson Today” on Friday to sound off about the politicization of the military",
@@ -480,63 +536,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-bidens-first-task-at-housing-agency-rebuilding-trump-depleted-ranks.md",
-      "title": "Biden’s First Task at Housing Agency: Rebuilding Trump-Depleted Ranks",
-      "excerpt": "An exodus of top-level officials during the previous administration has left the Department of Housing and Urban Development short of expertise even as its role expands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/18/us/politics/biden-housing-agency-trump.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/18/us/politics/biden-housing-agency-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/17/us/politics/17dc-hud1/17dc-hud1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/18/us/politics/biden-housing-agency-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/18/us/politics/biden-housing-agency-trump.amp.html",
-      "publishedDateTime": "2021-06-18T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {

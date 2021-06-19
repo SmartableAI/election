@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden Approval Rating Down With Democrats, But Up 8 Percent With Republicans"
+    excerpt: "Just 17 percent of Republicans and 59 percent of Democrats said they believe the country was going in the right direction."
+    publishedDateTime: 2021-06-19T13:49:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-approval-rating-down-democrats-8-percent-republicans-1602252?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1825804/president-joe-biden-gives-thumbs.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden signs law making Juneteenth a federal holiday"
     excerpt: "President Joe Biden signed legislation Thursday making Juneteenth, or June 19, a new federal holiday commemorating the end of slavery. Biden said he believes it will go down as one of the greatest honors he has as president."
     publishedDateTime: 2021-06-17T23:00:00Z

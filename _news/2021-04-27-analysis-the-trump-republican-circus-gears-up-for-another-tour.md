@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429152424-01-biden-100-days-cnnphotos-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: How Trump turned Russia into a partisan issue"
+    excerpt: "This week's high profile summit between President Joe Biden and Russian President Vladimir Putin was markedly different from the meetings between Putin and Biden's predecessor, Donald Trump. The former President was largely seen as friendly toward Putin, while Biden is definitely not.\n    \n"
+    publishedDateTime: 2021-06-19T12:07:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9SlYIE9w684/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/trump-russia-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/trump-russia-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200802073303-vladimir-putin-donald-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

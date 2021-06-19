@@ -191,22 +191,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden finds his comfort zone on the world stage in first international trip as president"
-    excerpt: "Even Queen Elizabeth II wanted to know: What would President Joe Biden say to Vladimir Putin?\n    \n"
-    publishedDateTime: 2021-06-17T11:42:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NeJT5VAa5ZM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-first-foreign-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-first-foreign-trip/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616171155-biden-air-force-one-geneva-210616-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden, Putin not currently expected to hold joint news conference following meeting next week"
     excerpt: "President Joe Biden and Russian President Vladimir Putin are not currently expected to hold a joint press conference following their high-stakes summit in Geneva, Switzerland, next week, two US officials familiar with the matter said.\n    \n"
     publishedDateTime: 2021-06-12T11:25:44Z
