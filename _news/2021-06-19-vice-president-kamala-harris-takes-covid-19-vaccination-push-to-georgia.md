@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Vice President Kamala Harris takes COVID-19 vaccination push to Georgia"
-excerpt: "Vice President Kamala Harris brought the Biden administration’s “Month of Action” campaign for COVID-19 vaccinations to Atlanta Friday."
-publishedDateTime: 2021-06-18T21:06:00Z
-originalUrl: "https://www.northwestgeorgianews.com/rome/news/local/vice-president-kamala-harris-takes-covid-19-vaccination-push-to-georgia/article_104b46d6-d079-11eb-affb-43fc9dd541d4.html"
-webUrl: "https://www.northwestgeorgianews.com/rome/news/local/vice-president-kamala-harris-takes-covid-19-vaccination-push-to-georgia/article_104b46d6-d079-11eb-affb-43fc9dd541d4.html"
+excerpt: "ATLANTA - Vice President Kamala Harris brought the Biden administration’s “Month of Action” campaign for COVID-19 vaccinations to Atlanta Friday."
+publishedDateTime: 2021-06-18T20:35:00Z
+originalUrl: "https://www.gwinnettdailypost.com/news/vice-president-kamala-harris-takes-covid-19-vaccination-push-to-georgia/article_adc864de-d074-11eb-a05a-e7b19418f7c8.html"
+webUrl: "https://www.gwinnettdailypost.com/news/vice-president-kamala-harris-takes-covid-19-vaccination-push-to-georgia/article_adc864de-d074-11eb-a05a-e7b19418f7c8.html"
 type: article
-quality: 55
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Rome News-Tribune
-  domain: northwestgeorgianews.com
+  name: Gwinnett Daily Post
+  domain: gwinnettdailypost.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/e/94/e943c41b-e31d-5c3c-b9c5-016ee1b66062/6091884bcf3c4.image.jpg?resize=970%2C630"
-    width: 970
-    height: 630
-    isCached: true
 
 related:
   - title: "Mike Pence Tells Kamala Harris 'It's Time' to Visit Southern Border"
@@ -1043,6 +1037,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "nSacEJmSqyBeyyMsREpYDE+68EtkCYRImQk2mbfGCySR1OnELLw8RYGuTqgLR9oKLoo6YMB9gvvjBBJEF44Xc2Gm1bCWWBsNQoj7yFUMhV10M//q2VBJC4CUL5+yHmHt8j/cQqTlPGucb37o4XqGOzTroef7iPOSlXUy/LahlkJUWfThHjUL3KUrIXo1bR1TCnzBILh34Y1s1YqejsqjZDCC1JcpRw6K5yUOI0s3OOjwSWcar2Amty5IEyVkg6It6mCnw5Pmi+7xpBOJ6ouZ27W9aDNTGuzcwHrs/tVkgaXOOxiU9AXnEzdk1rmlh8Z4xerC5WQWkckPTezUhJJZb9PgbSiF7HxEBsK0/dJO3z4=;T/OZgxfrDzDwLxwJ8aayig=="
+secured: "O8Z/thWT9CJFg5UsdKyfjf5sU3T8vgDg8pN463Y2whpA06n0kcZcYeqllw+JzUzh6+gkZ1tqVRgG+KiekU3dgccDCwY5XoTFm5PNXpg6AEvy9mYIgBzvuJrrtouz33yb5l5zbIstofGLmmlhANHKLh/nHyN09o+BPlWzof3PEmLYO1zfyrr4vjBmXpV4KqyOvKZuHmVZnpGYiFfNtsORkq3MCGFB37wt6gHSNq64u+oXhT0DBRrnUDStsVnqPUEwQZZiGZOVbvbjXMjnHKr7HgX/IDdNxqcEDhwA/GYrLBb8+ANrV8/dIExaK3d8CFSo4/f4DuCXnfoHBXHAoXXJ0rMMhKgl7T4L3CoTI5+5bw68ZONs5B6zdM081KOGVrllbgdumV5Yq/FH6pA91pMjHf5aEHDgL3jteh8Kz7Pj3sAy7Yn2+GrwYaXULHfpMGx/yGV7u1EObyfWyGAhE6rWGINjSQVp7ZdQfVh8IeTUTQ7piX/jGf6pQRmIu7eUzAm9hw6kB4WGn/ObD+DigiA1PA==;4Del/ayvyfLKCHLUyn9z1Q=="
 ---
 

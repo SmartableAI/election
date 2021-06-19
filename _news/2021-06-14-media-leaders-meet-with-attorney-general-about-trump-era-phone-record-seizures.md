@@ -696,6 +696,20 @@ related:
         width: 640
         height: 456
         isCached: true
+  - title: "Trump, House Democrats working to resolve dispute on Deutsche Bank subpoenas"
+    excerpt: "Donald Trump and Democrats in the U.S. House of Representatives remain in talks to resolve disputes concerning congressional subpoenas of the former U.S. president's financial records from Deutsche Bank AG (DBKGn."
+    publishedDateTime: 2021-06-18T21:34:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/trump-house-democrats-working-resolve-dispute-deutsche-bank-subpoenas-2021-06-18/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://www.reuters.com/resizer/tGCwggj_Y2Z03tJJwfpm-6O1v04=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FA2O6CBE6BNXTB3HQ7X6BHNV3U.jpg"
+        width: 800
+        height: 419
+        isCached: true
   - title: "A House Panel Will Investigate Trump DOJ Surveillance Of Lawmakers And Journalists"
     excerpt: "A Democratic-led committee will probe efforts by the Trump-era U.S. Department of Justice to seize metadata from devices belonging to members of Congress, journalists and the then-White House counsel."
     publishedDateTime: 2021-06-15T02:19:00Z

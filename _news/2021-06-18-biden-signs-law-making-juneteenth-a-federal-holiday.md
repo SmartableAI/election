@@ -109,6 +109,22 @@ related:
         width: 1312
         height: 846
         isCached: true
+  - title: "U.S. bishops vote to draft Communion statement that may rebuke Biden for abortion views"
+    excerpt: "A divided conference of U.S. Roman Catholic bishops announced on Friday that they had voted to draft a statement on Holy Communion that may admonish Catholic politicians, including President Joe Biden,"
+    publishedDateTime: 2021-06-18T21:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-abortion-catholics-idUSKCN2DU22L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DU22L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DU22L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210618&t=2&i=1566203817&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5H13P"
+        width: 827
+        height: 545
+        isCached: true
   - title: "Watch live: Biden signs law creating Juneteenth federal holiday"
     excerpt: "A decades of lobbying and 155 years after the institution of slavery ended in the United States, President Joe Biden will sign a law Thursday making Juneteenth a federal holiday."
     publishedDateTime: 2021-06-17T15:22:00Z

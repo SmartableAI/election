@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
 type: article
 quality: 140
-heat: 1620
+heat: 1640
 published: true
 
 provider:
@@ -681,6 +681,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/27/00b220c7-efcc-4ab4-80ce-259b963ce720/thumbnail/640x456g2/4560b5a2be120c52c53750c611ffdb40/screen-shot-2020-10-27-at-12-04-41-pm.png#"
         width: 640
         height: 456
+        isCached: true
+  - title: "Trump, House Democrats working to resolve dispute on Deutsche Bank subpoenas"
+    excerpt: "Donald Trump and Democrats in the U.S. House of Representatives remain in talks to resolve disputes concerning congressional subpoenas of the former U.S. president's financial records from Deutsche Bank AG (DBKGn."
+    publishedDateTime: 2021-06-18T21:34:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/trump-house-democrats-working-resolve-dispute-deutsche-bank-subpoenas-2021-06-18/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://www.reuters.com/resizer/tGCwggj_Y2Z03tJJwfpm-6O1v04=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FA2O6CBE6BNXTB3HQ7X6BHNV3U.jpg"
+        width: 800
+        height: 419
         isCached: true
   - title: "Media leaders meet with attorney general about Trump-era phone record seizures"
     excerpt: "Attorney General Merrick Garland is meeting with leaders from top media organizations today about the Trump-era Justice Department secretly seizing phone records of journalists. CBS News legal contributor Rebecca Roiphe joins \"CBSN AM\" to talk about the latest."

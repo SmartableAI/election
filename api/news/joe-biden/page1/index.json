@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-20-our-constant-cherished-companion-bidens-german-shepherd-champ-dies-at-13.md",
+      "title": "‘Our constant, cherished companion’: Biden’s German shepherd Champ dies at 13",
+      "excerpt": "The Bidens got Champ from a breeder after Biden was elected vice president in 2008. Champ was a fixture at both the vice president’s residence at the Naval Observatory and now the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://chicago.suntimes.com/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
+      "originalUrl": "https://chicago.suntimes.com/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
+      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
+      "publishedDateTime": "2021-06-19T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Sun-Times",
+        "domain": "suntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-covid-remains-a-serious-and-deadly-threat-for-unvaccinated-people-biden-says-live.md",
       "title": "Covid ‘remains a serious and deadly threat’ for unvaccinated people, Biden says – live",
       "excerpt": "President hails 300m vaccine doses administered since January – follow all the day’s politics news live",
@@ -25,6 +68,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-at-risk-of-falling-short-on-vaccine-goal-biden-marks-new-milestone-300m-shots-under-his-watch.md",
+      "title": "At risk of falling short on vaccine goal, Biden marks new milestone: 300M shots under his watch",
+      "excerpt": "The White House is pointing to a new milestone on vaccinations – 300 million shots administered since President Joe Biden took office.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/risk-falling-short-vaccine-goal-biden-marks-milestone/story?id=78361761",
+      "originalUrl": "https://abcnews.go.com/Politics/risk-falling-short-vaccine-goal-biden-marks-milestone/story?id=78361761",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/american-covid-milestone-joe-biden-kamala-harris-07-rt-llr-210618_1624043312324_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -261,7 +356,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -422,7 +517,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1450,115 +1545,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-kamalas-migration-migraine-uber-lyfts-ny-setback-biden-doj-fights-private-prison-ban-pelosi-pushes-on-voting.md",
-      "title": "KAMALA’s migration migraine — UBER, LYFT’s NY setback — BIDEN DOJ fights PRIVATE PRISON ban — PELOSI pushes on voting",
-      "excerpt": "In case there was any doubt, Vice President Kamala Harris’s first official trip abroad has illuminated the supreme political difficulty of her migration policy assignment. When President Joe Biden made Harris his migration point person,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/california-playbook/2021/06/09/kamalas-migration-migraine-uber-lyfts-ny-setback-biden-doj-fights-private-prison-ban-pelosi-pushes-on-voting-493176",
-      "originalUrl": "https://www.politico.com/newsletters/california-playbook/2021/06/09/kamalas-migration-migraine-uber-lyfts-ny-setback-biden-doj-fights-private-prison-ban-pelosi-pushes-on-voting-493176",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-joe-biden-clone-conspiracy-theory-spreads-on-facebook.md",
-      "title": "Joe Biden 'Clone' Conspiracy Theory Spreads on Facebook",
-      "excerpt": "An outlandish theory suggesting the president is \"a lookalike, double or clone\" is starting to spread across social media platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-clone-conspiracy-theory-spreads-1598909",
-      "originalUrl": "https://www.newsweek.com/joe-biden-clone-conspiracy-theory-spreads-1598909",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1816464/joe-biden-speaks-about-may-job-report.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-clone-conspiracy-theory-spreads-1598909?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-clone-conspiracy-theory-spreads-1598909?amp=1",
-      "publishedDateTime": "2021-06-09T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

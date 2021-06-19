@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-20-our-constant-cherished-companion-bidens-german-shepherd-champ-dies-at-13.md",
+      "title": "‘Our constant, cherished companion’: Biden’s German shepherd Champ dies at 13",
+      "excerpt": "The Bidens got Champ from a breeder after Biden was elected vice president in 2008. Champ was a fixture at both the vice president’s residence at the Naval Observatory and now the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://chicago.suntimes.com/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
+      "originalUrl": "https://chicago.suntimes.com/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
+      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
+      "publishedDateTime": "2021-06-19T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Sun-Times",
+        "domain": "suntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-bidens-announce-their-beloved-german-shepherd-champ-has-died.md",
+      "title": "Bidens announce their 'beloved' German Shepherd Champ has died",
+      "excerpt": "The Bidens announced Saturday that their \"beloved\" German Shepherd Champ has died.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LUR3KMSshoY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LUR3KMSshoY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210619114227-champ-dog-joe-biden-02-24-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/19/politics/champ-biden-german-shepherd-dog-dies/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/champ-biden-german-shepherd-dog-dies/index.html",
+      "publishedDateTime": "2021-06-19T10:02:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-bidens-announce-death-of-family-dog-champ-our-sweet-good-boy.md",
+      "title": "Bidens announce death of family dog Champ, 'our sweet, good boy'",
+      "excerpt": "President Biden and First Lady Jill Biden on Saturday announced the death of Champ, one of their two German shepherds, describing him as a \"cherished companion\" and a \"sweet, good boy.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZpDEpw85vyA/bidens-announce-death-family-dog-champ",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZpDEpw85vyA/bidens-announce-death-family-dog-champ",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46e1d247-c90a-47f4-b9c5-2db30850f1a3/409933ae-16d5-48d8-86ec-bbe110fd6286/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-announce-death-family-dog-champ.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-announce-death-family-dog-champ.amp",
+      "publishedDateTime": "2021-06-19T08:57:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-mike-lindell-cites-divine-appointments-prophets-words-to-explain-affinity-for-trump.md",
       "title": "Mike Lindell Cites 'Divine Appointments,' Prophet's Words to Explain Affinity for Trump",
       "excerpt": "The MyPillow CEO claimed Trump \"will be in office by this fall\" after a July \"cyber symposium\" he plans to hold.",
@@ -51,58 +206,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-mike-pence-hecklers-brand-ex-vp-traitor-at-conservative-conference.md",
-      "title": "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference",
-      "excerpt": "In the speech, he criticised the policies of Democratic US President Joe Biden and defended those of his Republican predecessor, Donald Trump. But as Mr Pence took to the stage, some activists shouted abuse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-57540611.amp",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-57540611.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57540611.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp",
-      "publishedDateTime": "2021-06-19T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {
@@ -423,21 +526,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-19-mike-pence-heckled-during-speech-at-faith-freedom-coalition-summit.md",
-      "title": "Mike Pence heckled during speech at Faith & Freedom Coalition summit",
-      "excerpt": "Mike Pence was heckled Friday as the former vice president spoke at the conservative Faith & Freedom Coalition’s summit in Orlando, Florida. Reporters watching said the jeers included cries of “traitor!",
+      "path": "_news/2021-06-19-at-risk-of-falling-short-on-vaccine-goal-biden-marks-new-milestone-300m-shots-under-his-watch.md",
+      "title": "At risk of falling short on vaccine goal, Biden marks new milestone: 300M shots under his watch",
+      "excerpt": "The White House is pointing to a new milestone on vaccinations – 300 million shots administered since President Joe Biden took office.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/jun/18/mike-pence-heckled-during-speech-at-faith-freedom-/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/jun/18/mike-pence-heckled-during-speech-at-faith-freedom-/",
+      "webUrl": "https://abcnews.go.com/Politics/risk-falling-short-vaccine-goal-biden-marks-milestone/story?id=78361761",
+      "originalUrl": "https://abcnews.go.com/Politics/risk-falling-short-vaccine-goal-biden-marks-milestone/story?id=78361761",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/06/18/Road_to_Majority_convention_77224.jpg-9e446_c0-83-2000-1249_s1200x700.jpg?97771ece8cf6ad276bbc4f4e72e64b186f039a1f",
-          "width": 1200,
-          "height": 700,
+          "url": "https://s.abcnews.com/images/Politics/american-covid-milestone-joe-biden-kamala-harris-07-rt-llr-210618_1624043312324_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -445,14 +548,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/jun/18/mike-pence-heckled-during-speech-at-faith-freedom-/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/18/mike-pence-heckled-during-speech-at-faith-freedom-/",
-      "publishedDateTime": "2021-06-18T12:53:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T14:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -462,7 +574,7 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Joe Biden"
       ]
     },
     {
@@ -683,6 +795,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference.md",
+      "title": "Pence met with jeers and called a \"traitor\" at Florida conservative conference",
+      "excerpt": "When former Vice President Mike Pence took the stage in Florida to address a social conservative group, he was met with some jeers, and reporters in the room said some attendees called him a \"traitor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference/",
+      "originalUrl": "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/18/13afb519-4cfc-4c39-8efa-c7392a6cc066/thumbnail/1200x630/751c873882aa6692703147fa3e2598c7/cbsn-fusion-pence-traitor-florida-trump-2024-desantis-thumbnail-737055-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -910,49 +1074,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd.md",
-      "title": "‘Traitor!’ Mike Pence booed in Florida while addressing Christian crowd",
-      "excerpt": "Scattered boos greeted former Vice President Mike Pence in Central Florida as he stood behind a lectern to address a coalition of Christian and conservative voters. Someone yelled, “Traitor!” as Pence began to speak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tampabay.com/news/florida-politics/2021/06/18/traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd/",
-      "originalUrl": "https://www.tampabay.com/news/florida-politics/2021/06/18/traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tampabay.com/resizer/8mdUt2SqoYY4mOBdRjUraDGLVE4=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/TBMQISGD5WVO6C4QWVG3OOSU5U.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tampabay.com/news/florida-politics/2021/06/18/traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2021/06/18/traitor-mike-pence-booed-in-florida-while-addressing-christian-crowd/?outputType=amp",
-      "publishedDateTime": "2021-06-18T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tampa Bay Times",
-        "domain": "tampabay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {
@@ -1232,120 +1353,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-trump-was-wrong-about-the-law-obamacare-politics-and-his-judges.md",
-      "title": "Trump was wrong about the law, Obamacare politics and his judges",
-      "excerpt": "Analysis: The former president promised that his Supreme Court picks would overturn the Affordable Care Act. He met the court's ruling with the deafening silence of defeat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/trump-was-wrong-about-law-obamacare-politics-his-judges-n1271216",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/trump-was-wrong-about-law-obamacare-politics-his-judges-n1271216",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3484063/210617-trump-obamacare-mb-1951.jpg",
-          "width": 3840,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1271216",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271216",
-      "publishedDateTime": "2021-06-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.md",
-      "title": "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report",
-      "excerpt": "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86642280-7e76-4629-89c6-1176b5be4f98/6ea2cf6f-4d47-4e3c-8420-f9e6eaf3a19e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp",
-      "publishedDateTime": "2021-06-18T03:09:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

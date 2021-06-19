@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "U.S. Catholic bishops OK steps toward possible rebuke of Joe Biden"
+    excerpt: "U.S. Roman Catholic bishops have overwhelmingly approved the drafting of a \"teaching document\" that many of them hope will rebuke Catholic politicians, including President Joe Biden, for receiving Com"
+    publishedDateTime: 2021-06-19T16:51:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_c86ce428-d113-11eb-b504-97bb86b6e3bd.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_c86ce428-d113-11eb-b504-97bb86b6e3bd.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_c86ce428-d113-11eb-b504-97bb86b6e3bd.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/4b/c4b776b6-d115-11eb-9bfc-a74cfcb86aad/60ce11c2efd7d.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden embarks on first overseas trip as president to assure European allies, meet with Russia’s Putin"
     excerpt: "Biden told reporters the trip is about making clear to the leaders of China and Russia that the United States and Europe “are tight.”"
     publishedDateTime: 2021-06-09T19:30:00Z
