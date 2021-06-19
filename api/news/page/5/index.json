@@ -419,58 +419,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-11-swiss-detail-extra-security-measures-for-biden-putin-summit.md",
-      "title": "Swiss detail extra security measures for Biden-Putin summit",
-      "excerpt": "Swiss authorities will temporarily restrict airspace over the city of Geneva and deploy up to 1,000 troops to the area to help reinforce security for the summit of Russian President Vladimir Putin and U.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 705,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/210610_vod_OnLocationV2_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576",
-      "publishedDateTime": "2021-06-11T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-06-11-how-mike-pences-new-carmel-home-compares-to-the-last-one-he-owned.md",
       "title": "How Mike Pence's new Carmel home compares to the last one he owned",
       "excerpt": "Former Vice President Mike Pence and his wife Karen have improved their position in life since they last owned a home in Indiana in 2013. The Pences bought a modest home in Columbus in 2001 for about $116,",
@@ -883,6 +831,58 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-white-house-downplays-biden-putin-summit-not-expecting-huge-outcome.md",
+      "title": "White House downplays Biden-Putin summit, not expecting 'huge outcome'",
+      "excerpt": "White House press secretary Jen Psaki on Thursday doubled down on Biden using the summit as an opportunity to confront Putin. \"He's going to be straightforward, he's going to be candid, he's not going to hold back,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263",
+      "originalUrl": "https://abcnews.go.com/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/General/biden-summit-01-rt-llr-210609_1623270675294_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/white-house-downplays-biden-putin-summit-expecting-huge/story?id=78195263",
+      "publishedDateTime": "2021-06-10T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {

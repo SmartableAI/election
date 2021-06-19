@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-19-the-gops-gaslighting-on-biden-putin-and-trump.md",
+      "title": "The GOP’s gaslighting on Biden, Putin and Trump",
+      "excerpt": "In their quest to pitch Biden as weak on Russia, Republicans are attacking pretty much everything they ignored about Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 840,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-16-2021/t_31136d8876b14fb0a02e726c1921b27e_name_biden_presser_0616_scaled.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp",
+      "publishedDateTime": "2021-06-18T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-bidens-first-task-at-housing-agency-rebuilding-trump-depleted-ranks.md",
       "title": "Biden’s First Task at Housing Agency: Rebuilding Trump-Depleted Ranks",
       "excerpt": "An exodus of top-level officials during the previous administration has left the Department of Housing and Urban Development short of expertise even as its role expands.",
@@ -373,58 +425,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-18-trump-is-gone-but-lingering-as-biden-vows-america-is-back-allies-wonder-for-how-long.md",
-      "title": "‘Trump is gone,’ but lingering: As Biden vows ‘America is back,’ allies wonder for how long",
-      "excerpt": "For all of Biden's attempts to reassure partners shaken by Trump, some allies have lingering doubts about the forces that produced Trump's election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/in-depth/news/world/2021/06/17/trump-gone-but-biden-europe-trip-brings-up-allies-lingering-worry/7699719002/",
-      "originalUrl": "https://www.usatoday.com/in-depth/news/world/2021/06/17/trump-gone-but-biden-europe-trip-brings-up-allies-lingering-worry/7699719002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/16/USAT/8c027dcc-7eb1-43ff-a8cc-ce4255bab4be-AP_Switzerland_Biden_Putin.jpg?auto=webp&crop=3096,1742,x1,y1332&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7699719002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7699719002",
-      "publishedDateTime": "2021-06-17T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-06-18-affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected.md",
       "title": "Affordable Care Act survives third Supreme Court challenge, as case from Trump administration and GOP-led states is rejected",
       "excerpt": "The key issue was whether a 2017 decision by Congress to remove the penalty for not buying health insurance — the so-called individual mandate — meant that the law was unconstitutional and should be wiped from the books.",
@@ -777,58 +777,6 @@
         "name": "Houston Chronicle",
         "domain": "chron.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-still-a-summit-secret-what-happened-in-helsinki-between-putin-and-trump.md",
-      "title": "Still a summit secret: What happened in Helsinki between Putin and Trump?",
-      "excerpt": "Democrats are no longer pursuing what happened in private meetings at the 2018 summit in Helsinki, Finland, between Donald Trump and Vladimir Putin.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344",
-      "originalUrl": "https://abcnews.go.com/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/helsinki-trump-putin-gty-ps-210615_1623791556307_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344",
-      "publishedDateTime": "2021-06-16T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1545,6 +1493,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.md",
+      "title": "Michigan man gets prison for email threat to Trump whistleblower’s attorney",
+      "excerpt": "Emailing a “stark, brutal” threat to hunt down and kill an attorney for the whistleblower who sparked Donald J. Trump’s first impeachment has cost a Gladwin County man time in federal prison. Brittan J.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html",
+      "originalUrl": "https://www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/33OEFL4ORVCNTPHNAJQUD4TARE.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/saginaw-bay-city/2021/06/michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.html?outputType=amp",
+      "publishedDateTime": "2021-06-10T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence heckled with chants of ‘traitor!’ at conservative Christian conference – live"
-    excerpt: "Former vice-president jeered at Faith & Freedom summit in Florida – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-18T17:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccc31a8f0812e6253f6950"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/1b61ab0ae764aca3b6d30dbcfea2efae22b58381/0_298_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12492609694d9d44f20664bd1230817d"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Pence met with jeers and called a \"traitor\" at Florida conservative conference"
     excerpt: "When former Vice President Mike Pence took the stage in Florida to address a social conservative group, he was met with some jeers, and reporters in the room said some attendees called him a \"traitor."
     publishedDateTime: 2021-06-18T18:43:00Z
@@ -57,6 +41,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence heckled with chants of ‘traitor!’ at conservative Christian conference – live"
+    excerpt: "Former vice-president jeered at Faith & Freedom summit in Florida – follow all the day’s politics news live"
+    publishedDateTime: 2021-06-18T17:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccba168f087e657d9e723b"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 96
   - title: "‘Traitor!’ Mike Pence booed in Florida while addressing Christian crowd"
     excerpt: "Scattered boos greeted former Vice President Mike Pence in Central Florida as he stood behind a lectern to address a coalition of Christian and conservative voters. Someone yelled, “Traitor!” as Pence began to speak."
     publishedDateTime: 2021-06-18T17:39:00Z

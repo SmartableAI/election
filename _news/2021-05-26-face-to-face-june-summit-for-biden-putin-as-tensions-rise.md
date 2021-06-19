@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/white-house-biden-to-meet-pu
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 225
 published: true
 
 provider:
@@ -92,52 +92,6 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_f31c9f06758e48e98c1f2a10ec488122_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "At an arms control crossroads, Biden and Putin face choices"
-    excerpt: "At a low point in U.S.-Russian relations, President Joe Biden and Russian President Vladimir Putin appear to agree broadly on at least one thing, and that’s the need to set the stage for a new era in"
-    publishedDateTime: 2021-06-13T10:52:00Z
-    webUrl: "https://www.washingtonpost.com/politics/at-an-arms-control-crossroads-biden-and-putin-face-choices/2021/06/13/c2a297ac-cc3d-11eb-a224-bd59bd22197c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/at-an-arms-control-crossroads-biden-and-putin-face-choices/2021/06/13/c2a297ac-cc3d-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/at-an-arms-control-crossroads-biden-and-putin-face-choices/2021/06/13/c2a297ac-cc3d-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSX6YWWMGYI6XIREXVM32IQZPQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Putin praises summit result, calls Biden a tough negotiator"
-    excerpt: "Russian President Putin has praised the outcome of his summit with U.S. President Joe Biden and called him an astute negotiator"
-    publishedDateTime: 2021-06-17T14:55:00Z
-    webUrl: "https://www.washingtonpost.com/world/putin-praises-summit-result-calls-biden-a-tough-negotiator/2021/06/17/6e53fc82-cf84-11eb-a224-bd59bd22197c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/putin-praises-summit-result-calls-biden-a-tough-negotiator/2021/06/17/6e53fc82-cf84-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/putin-praises-summit-result-calls-biden-a-tough-negotiator/2021/06/17/6e53fc82-cf84-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Buoyed by allied summits, Biden ready to take on Putin"
-    excerpt: "Fresh from supportive summits with allies, Joe Biden is declaring himself ready to take on Russia’s Vladimir Putin in far more confrontational talks"
-    publishedDateTime: 2021-06-15T22:09:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78282309"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_b2ed2ad9ce3d47d69be41a7d134f2c41_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

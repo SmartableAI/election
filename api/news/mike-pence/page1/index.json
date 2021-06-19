@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-19-pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference.md",
+      "title": "Pence met with jeers and called a \"traitor\" at Florida conservative conference",
+      "excerpt": "When former Vice President Mike Pence took the stage in Florida to address a social conservative group, he was met with some jeers, and reporters in the room said some attendees called him a \"traitor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference/",
+      "originalUrl": "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/18/13afb519-4cfc-4c39-8efa-c7392a6cc066/thumbnail/1200x630/751c873882aa6692703147fa3e2598c7/cbsn-fusion-pence-traitor-florida-trump-2024-desantis-thumbnail-737055-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-pence-called-traitor-by-hecklers-at-conservative-florida-conference.md",
       "title": "Pence called ‘traitor’ by hecklers at conservative Florida conference",
       "excerpt": "Former Vice President Mike Pence was heckled during his remarks at the Faith & Freedom Coalition’s annual gathering in Florida.",
@@ -114,58 +166,6 @@
         "Democratic Voice",
         "Mike Pence",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-mike-pence-heckled-with-chants-of-traitor-at-conservative-christian-conference-live.md",
-      "title": "Mike Pence heckled with chants of ‘traitor!’ at conservative Christian conference – live",
-      "excerpt": "Former vice-president jeered at Faith & Freedom summit in Florida – follow all the day’s politics news live",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccc31a8f0812e6253f6950",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccc31a8f0812e6253f6950",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1b61ab0ae764aca3b6d30dbcfea2efae22b58381/0_298_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12492609694d9d44f20664bd1230817d",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live",
-      "publishedDateTime": "2021-06-18T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {

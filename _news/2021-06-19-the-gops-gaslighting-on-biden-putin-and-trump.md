@@ -1,52 +1,36 @@
 ---
 category: news
-title: "Russian President Vladimir Putin: No hostility in meeting with US President Joe Biden; tone was constructive"
-excerpt: "No hostility in meeting with US President Joe Biden; tone was constructive. 24/7 coverage of breaking news and live events"
-publishedDateTime: 2021-06-16T15:56:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/russian-president-vladimir-putin-hostility-meeting-us-president-78316294"
-webUrl: "https://abcnews.go.com/International/wireStory/russian-president-vladimir-putin-hostility-meeting-us-president-78316294"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/russian-president-vladimir-putin-hostility-meeting-us-president-78316294"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/russian-president-vladimir-putin-hostility-meeting-us-president-78316294"
+title: "The GOP’s gaslighting on Biden, Putin and Trump"
+excerpt: "In their quest to pitch Biden as weak on Russia, Republicans are attacking pretty much everything they ignored about Trump."
+publishedDateTime: 2021-06-18T21:33:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/"
+webUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/"
+ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp"
 type: article
-quality: 106
-heat: -1
-published: false
+quality: 140
+heat: 840
+published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-16-2021/t_31136d8876b14fb0a02e726c1921b27e_name_biden_presser_0616_scaled.jpg&w=1440"
+    width: 1440
+    height: 810
     isCached: true
 
 related:
-  - title: "The GOP’s gaslighting on Biden, Putin and Trump"
-    excerpt: "In their quest to pitch Biden as weak on Russia, Republicans are attacking pretty much everything they ignored about Trump."
-    publishedDateTime: 2021-06-18T21:33:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-16-2021/t_31136d8876b14fb0a02e726c1921b27e_name_biden_presser_0616_scaled.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "‘Trump is gone,’ but lingering: As Biden vows ‘America is back,’ allies wonder for how long"
     excerpt: "For all of Biden's attempts to reassure partners shaken by Trump, some allies have lingering doubts about the forces that produced Trump's election."
     publishedDateTime: 2021-06-17T20:44:00Z
@@ -413,6 +397,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Russian President Vladimir Putin: No hostility in meeting with US President Joe Biden; tone was constructive"
+    excerpt: "No hostility in meeting with US President Joe Biden; tone was constructive. 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2021-06-16T15:56:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/russian-president-vladimir-putin-hostility-meeting-us-president-78316294"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/russian-president-vladimir-putin-hostility-meeting-us-president-78316294"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/russian-president-vladimir-putin-hostility-meeting-us-president-78316294"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 106
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Buoyed by allied summits, Biden ready to take on Putin"
     excerpt: "Fresh from supportive summits with allies, Joe Biden is declaring himself ready to take on Russia’s Vladimir Putin in far more confrontational talks"
     publishedDateTime: 2021-06-15T22:09:00Z
@@ -578,6 +578,6 @@ related:
         height: 707
         isCached: true
 
-secured: "moHrqn0qTv6e5Qbi921lkIqB/NK+g42+tkWLyDne4zNxT40qS9X29ObM5c6lMG6Bmg/0OhMynzLKQtcj29eEBaIXeibnTV+fA+zIivLK72Yh6bpGUSuGqK/uICGzphaTMATDr2eK+s8QahbfOO8ZGDVbHfylbpcdRI4PNfZENxw/B9dOlVTZAXca8kr9sI+mZM3QC1lsB4hpaSiL3zPkzGnIXKmNugzFb0U1g0ru2EcMKGifrouaz946iajQZQxV+86RqzzGjmIHv4P+4TPZGt8Se9pxOidtOFkIjFOqj5HZ+VWKPoH7C5pY4qWvmdspYTDPxFq72upXAH9FXDNZto6R9EIe3C4MaKqHnaeONZ8=;aIUhql2WVZqsF1uOFptOkA=="
+secured: "vVIoX/ILeZghQH5YTqQKAYP9hSzeZ4FBgEFGqRL3AM2W57H/dJNz2Mo2eeVOmNN1pkMOXU7+t80wyPF7nsjgxUa1dsiYnMOKi4UntFEUjz7YAhd9XkL++b3mxY0/oZsupD8iS1mcykkedg4hLvKf6qSo81GIcB9/2lW6i1K3b6JwYZfKt+S7CZV0RkKcPShx/ph/UOiNenb61Qe2Z3bTECDWDawGmKdj8tLdwkr2yJJucDaUeMV7nN4RTpfaqPJy5cuK4UWod0oMLPnoW3bRBDpUEd10vmL+dHF8vbEPCxZvGw8nCET64+eH5cdezG/yDjoyOVXPJWdUJz8s6nFtvEjUt7eFVQXCMZhxg8zyGOQ=;X6EiV1NcU6SNMywvivdPkA=="
 ---
 

@@ -2,14 +2,14 @@
 category: news
 title: "Covid ‘remains a serious and deadly threat’ for unvaccinated people, Biden says – live"
 excerpt: "President hails 300m vaccine doses administered since January – follow all the day’s politics news live"
-publishedDateTime: 2021-06-18T21:32:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccfa568f08f352987562eb"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccfa568f08f352987562eb"
+publishedDateTime: 2021-06-18T21:17:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 type: article
-quality: 117
-heat: 137
+quality: 97
+heat: 117
 published: true
 
 provider:
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://i.guim.co.uk/img/media/1b61ab0ae764aca3b6d30dbcfea2efae22b58381/0_298_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12492609694d9d44f20664bd1230817d"
-    width: 600
-    height: 360
-    isCached: true
 
 related:
   - title: "Joe Biden touts 300M COVID-19 vaccinations during first 150 days in office"
@@ -48,6 +42,6 @@ related:
         height: 533
         isCached: true
 
-secured: "9rxGVgltLzDgQIg15JIY2TeqBmLp6Y+GFkRsefyK9UftTPRRE0Kd0P458/STespwzctYkhmYdfHX1G+ri1asXw5M/A0fAl6NrWPywkWmt9o1AZHPspeFg/i17kyuWZP3rfWKWno8NUYLi+6dIZSwtFkv+7P1sUBxMgKOAiTI4VGm3v6LTDbWONxMtNwopmu6et+vL3+gNIdGg+fVPAZaq5VWDbXpdP3aFtpYCE7LL2nh0mcfVx2O74ni8XWbXfDJ1YDqe2fDnHUIbvvVlHW2hCUGLywAm1d9aPCTxVInlergYUZ0ajGfn1qw2Li0naX2DZP7aMuAFCsKfPx0NCKG0yu2cwPsfKROout/MLYEBRs=;eu8LcTFfSOBLmyO4hwnQeA=="
+secured: "zQzVHOkx0q+PQFWcSaFCM7czy2Glk1Tg9YYZRDIeIAoObaeYmMTh2GaZz7wzZ42RDJDKlQAQJ0IzJ4Ff3YdhBYEWCU9hsmGPBMPZwGOzZZYuSU3AAiUKcDXLallTIr6L/Xxxpx4LopTK0C1vBTRm2kQ4tVvtPK6HQwAY7Ghd8w/Xo54irkyqF+p4U+XY9qMxAlo9obN5wPuiR8taY94UNHTiwnkie7ab9bqGD2X8h/j4uMEb9x377dLmE940VtC2Go6Ry9E5G5p4HLaxQx2f0u3incv9kX+LpA5QLkQYua1bEfAWFbIZTSWBALSaij5CC/Jkin63xG5mAm/oijWYVUwCcjn25BSFohO93bmRO4Qm+Xhc22y6LDqL2Xw4LfV/yIToNoK0VGeXZRrFE8dyWDv+QRmdzk6K4PHTkLiei7WVJLrsh3lVqf9tvWfjky06kJkNwceOSoDhH6X50Gc5ma77GAZ2QLFMseEnxjkN4ZA/dgagQVPDs6yFAP5VKleJay0pz/SMycDg23eBkJ1EoA==;oycxaaKQvhaTGYSeBOFlDQ=="
 ---
 

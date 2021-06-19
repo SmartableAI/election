@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-po
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
 type: article
 quality: 125
-heat: 605
+heat: 585
 published: true
 
 provider:
@@ -392,22 +392,6 @@ related:
       - url: "https://i.insider.com/606ec12730004b0019b26927?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "The Supreme Court Molded Joe Biden"
-    excerpt: "Joe Biden became president in no small part because he’d been vice president. Had he become neither, he would have been remembered for something else entirely: the fate of Robert Bork and Clarence Thomas,"
-    publishedDateTime: 2021-06-14T10:00:00Z
-    webUrl: "https://www.theatlantic.com/politics/archive/2021/06/supreme-court-joe-biden-breyer-bork-thomas/619119/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/619119/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/619119/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/8cc1QRnYB6HAGHWLBTgFeh4tnTg=/570x321/media/img/mt/2021/06/Biden_SCOTUS_Art/original.jpg"
-        width: 570
-        height: 321
         isCached: true
 
 secured: "W35+iNbEHIjnLy0LjWT+wu1uxT/vWQ8IDece65LVEIx6mojfnvO/TsA7lhTFFAqF0FtAq5vEa7gfDtL/SBGCkyG4jf9OVXQbHrx+fE+LFHTZVLX5mlqzPzO7bwEA95pOQp4VRPzcZWt05euayPcvu4i+7bpwuRZ5JuSAxol0xgOccQuXkSfRVE1uHAubzOfsl36RAuqcE0HXawlArODJrlzOdOa5aszcAbpLlrYy7xR2BKnbkMDNUQo4NxHkGVSC7p/KGXtQ9SUmMlEoxHdUyQK9CqB1hyJZembTWSC5h9lF7s8aLv7zunAKvDutB9uGM+kCinC/eaWibQ4oEXGseoAUaukeSzbjtxMYfUzL2AQ=;qYuTvCv0TtYKGt/gNaIS7w=="

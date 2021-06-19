@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Boebert appears to troll Biden, Harris on border crisis by unfurling Mylar blanket"
-excerpt: "Without speaking a word, U.S. Rep. Lauren Boebert appeared to tell President Biden and Vice President Harris on Wednesday night that she was thinking about their handling of the migrant crisis at the U.S.-Mexico border."
-publishedDateTime: 2021-04-29T06:13:54Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-2BwtMKOq70/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-2BwtMKOq70/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket"
-ampWebUrl: "https://www.foxnews.com/politics/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket.amp"
+title: "56 House Republicans urge Biden to remove Harris from leading role on migration crisis"
+excerpt: "More than 50 House Republicans are urging President Biden to remove Vice President Kamala Harris from her role dealing with the migrant crisis that has overwhelmed the southern border in recent months -- accusing her of \"inaction\" on the crisis due to her failure to visit the border."
+publishedDateTime: 2021-06-18T22:40:06Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/68Gg7Db346s/house-republicans-biden-remove-harris-migrant-role-inaction-border"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/68Gg7Db346s/house-republicans-biden-remove-harris-migrant-role-inaction-border"
+ampWebUrl: "https://www.foxnews.com/politics/house-republicans-biden-remove-harris-migrant-role-inaction-border.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-biden-remove-harris-migrant-role-inaction-border.amp"
 type: article
-quality: 194
+quality: 192
 heat: -1
 published: false
 
@@ -26,7 +26,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/522e72be-65f2-473f-8823-84318f6b4e6d/8481d89c-08ca-462e-9332-681511900b26/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b022dcc2-729e-41b3-b968-481b3dd04a7f/dbe75d1a-2e80-465d-873a-d252253e7ad2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -48,19 +48,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "56 House Republicans urge Biden to remove Harris from leading role on migration crisis"
-    excerpt: "More than 50 House Republicans are urging President Biden to remove Vice President Kamala Harris from her role dealing with the migrant crisis that has overwhelmed the southern border in recent months -- accusing her of \"inaction\" on the crisis due to her failure to visit the border."
-    publishedDateTime: 2021-06-18T22:40:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/68Gg7Db346s/house-republicans-biden-remove-harris-migrant-role-inaction-border"
-    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-biden-remove-harris-migrant-role-inaction-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-biden-remove-harris-migrant-role-inaction-border.amp"
+  - title: "Boebert appears to troll Biden, Harris on border crisis by unfurling Mylar blanket"
+    excerpt: "Without speaking a word, U.S. Rep. Lauren Boebert appeared to tell President Biden and Vice President Harris on Wednesday night that she was thinking about their handling of the migrant crisis at the U.S.-Mexico border."
+    publishedDateTime: 2021-04-29T06:13:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-2BwtMKOq70/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket"
+    ampWebUrl: "https://www.foxnews.com/politics/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 192
+    quality: 194
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b022dcc2-729e-41b3-b968-481b3dd04a7f/dbe75d1a-2e80-465d-873a-d252253e7ad2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/522e72be-65f2-473f-8823-84318f6b4e6d/8481d89c-08ca-462e-9332-681511900b26/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -416,6 +416,6 @@ related:
         height: 562
         isCached: true
 
-secured: "YvccEdxldZf1prJBIAZ4RQW15ZvOLqZ9pCFEyA02xTC/Q9RX2112OObwkAfjp+/78dZSUpS4YjN4froZSLl5R1MRigkvWkfEX0wSSZ/llNDOoVnjhOz6o4461ILq91PzOb2cgbprA7t7FW8xs3kKZfzAm2hxa+sGCuJuf/oqFSFI99we/lmKAE3ghlSh1MSe7DL5ckCeXFMI7PY4YYVDNsa06SHihc+AoccQH/C4txwqFQP/kXa5E4kHyrHbaQLUE3LoSXG/6Pdc2RQaUHbrsueMy0hj8gO0rUdXif4c9To3aPtmx1saj8M1J1UMnFSXVNC8+nJ6SD2ddQzqycoxn5fYy6rxWX42I/YgSe3Y2MY=;oUs9nh3lr8UYkMIvrki1vA=="
+secured: "yDvGX5CQwwvHasjYgEojGDBoh5Eo7JQ4hV3D75d0F1u6EnE3URn7bpUZg7Sce0RLNURYnJqfyGDegWAlzICiFv1XRFcfnZs1DYJAgA3iPBNVwxRpthjh+E3Y3yDZeF2OjEOrbaVkYgy3d8sgYbk20+/MZrM6J0Rv5qL2dBG/OOkHPkGSkNUsepHxuWLtg1456d/h2ajej/+/K0EXvYQyOfVcn+YhcuiPO7mpdTD+pJM4UXpje8gGUYvTkwDmkGF27O/P9+GRTc0+DwbZ+NU4c0IScy0jDH+P0A4506x2iP9wyO58joxom00MpvQCTyindp1IBhL4VOOuQbZ6Zy10YtFhhCw3Ajtn6JPGJ2csKF0=;ko/Zc/j2Vugoy+jjlgCr8w=="
 ---
 

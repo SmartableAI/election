@@ -393,22 +393,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Supreme Court Molded Joe Biden"
-    excerpt: "Joe Biden became president in no small part because he’d been vice president. Had he become neither, he would have been remembered for something else entirely: the fate of Robert Bork and Clarence Thomas,"
-    publishedDateTime: 2021-06-14T10:00:00Z
-    webUrl: "https://www.theatlantic.com/politics/archive/2021/06/supreme-court-joe-biden-breyer-bork-thomas/619119/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/619119/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/619119/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/8cc1QRnYB6HAGHWLBTgFeh4tnTg=/570x321/media/img/mt/2021/06/Biden_SCOTUS_Art/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
 
 secured: "8TRkDDTGDZat505gct8ikIadeQOH8XK3UUjxH/aVUrdUjvAXUQB71fTkQRFHomPsVi7EafwRGMFC+hZw3qwBu0a7sijF2qz/DiuiBhvRd1WYb3FCrc2dyzCWYKuSOmhbQVVFcGC1dNy1T1kEn8WA4Pcq7gTnrigUMkfarVodyX6PqN5J2gXfk/NCdMH0PPLlkUJThAFT0zt7t8iLQF7gaP2i6mi7kHXmD6wcqQkktyxb0R9PXOvx8vV0nNhZGvRTM0W3NlOoxFuQ5hFn5MOe46CxLXwSyscuut0lMaVaPwdROWjskhN2noFA5ZMbje0yDfqYWi+xI8ZVyyNiK+gmPR7v7YKwiLKKAd/xOGnjMfw9TEDuRGEBssNE5WWLwEIGnMsaFReUpqhC968HZwPyhlC9cA1QuNMUzDv+tv7aR7pKSllCfj7Vt6O/2OlBZqSTSy8rQqLAyvNGUZbB3HFqrRxpnPNs7JDnny5TKdmMfTGluqjHjuyXDgAoCNdEQNYr2A20b+avlY0kw2VUyH0bcg==;2tp6MbV/wwWkg7Ogg/CaLA=="
 ---

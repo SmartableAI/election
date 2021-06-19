@@ -2,15 +2,15 @@
 category: news
 title: "Mike Pence heckled with chants of ‘traitor!’ at conservative Christian conference – live"
 excerpt: "Former vice-president jeered at Faith & Freedom summit in Florida – follow all the day’s politics news live"
-publishedDateTime: 2021-06-18T17:53:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccc31a8f0812e6253f6950"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccc31a8f0812e6253f6950"
+publishedDateTime: 2021-06-18T17:33:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccba168f087e657d9e723b"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccba168f087e657d9e723b"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 type: article
-quality: 116
-heat: 196
-published: true
+quality: 96
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://i.guim.co.uk/img/media/1b61ab0ae764aca3b6d30dbcfea2efae22b58381/0_298_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12492609694d9d44f20664bd1230817d"
-    width: 600
-    height: 360
-    isCached: true
 
 related:
   - title: "Pence met with jeers and called a \"traitor\" at Florida conservative conference"
@@ -92,6 +86,6 @@ related:
         height: 679
         isCached: true
 
-secured: "YvZ7/CIMcZAhMkowqBbDraYFV4Nh3ydIWg4Dj8fnMRI+r3ctYS2nHL8fpoJQXz7VoVbxBNrwbwjNXrCHFkXUSnW8xai3NvAZ5GgWOu9R2IWCcGXI9qzFR58XH6uQ0Y0fAt+t7vKjM0iJjz8BTHRQt5ZVZ+Wze1TZsT2P3QiuQGc7GQ9ytvl+8Ml5kzvFRP/gM5jGawd9MjL83WgbKd8dTtK06j1IaKP0BLULjiUJ479rNylBLxprApI4Y3BvgVNg+Dh62LCqutMx0cIUuoDwVKR9iaX5E3j4M/WdgnfHkHYemSt3jBmy/PqxMdbsOBawvjUOMWbxXmPWuTQgPGJJHfPHu94gXr8QSKweA9ldiSvMhAAncdnWa3AD9Z+3v6jxaSENdBSVoJ1Ldrou9O/LO0q6ChxHx+aL0QmUmN5w8+jDIp9prdJLahHtOy54w8hrOJzm0XW6AfuclgPNR1xOuxm1KH/4sjhr0kFFMKU8BAx9pFXrL0ZgtCjoh9MI5ld8aDh3VXrG2tpr8gYcD/+2+g==;mJWSqkj1X2SM3PFWcLlHXA=="
+secured: "mb7D1GiW9ZaztNrgUZpBnUiwmD8VOnWPFNiba1ZntvSk60FZfzfp/utE/VkVRMS87Oj29rpqR0FfiAw3U2PetRq6PsgeC9SRIrrMAUSOI2CMLkIM/IpZsiKsfXAHcoflJjEdlYO5TAISzBBRZ6ewQgZQwUyMJ9tU6eXQsEQjZ0lUmnmnQm9jFwIRFZFhvFBagcL3805prBgpWTpLR4k7IwUhOPEQDm+xEKh7Zs08aLJv7+qABGbJQXLKgZYfoTUC5yslqtWr6kFqTwSr+V/LHut8AXffFZJ6/BA4wyP8BN2w1budjEogAe/FZZak3r0ddI5o2+AI3/Q3MT0N7ydh54h1qkx2uPusrIbHZ/kEsWpFHLeLwotqWGNfaHEkCITGVqmRk6ZmcxTZ1lKnjpcrgyjJvmCZXf+uwuztxyLfn/plwFGPObi+Hs+l2GOW8lEttld7SZnsFnLWv0yJ3gVvBVaNGlGHS1fcZkxZIHLFO3C/L10a9JwrRPd9jn6W2qDU2Q043FMT9XqCehXtnZWvpA==;l1hf4R27ussGIfFdJCDpPw=="
 ---
 

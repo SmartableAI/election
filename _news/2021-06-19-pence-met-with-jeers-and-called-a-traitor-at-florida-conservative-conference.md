@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-tr
 webUrl: "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference/"
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 181
+published: true
 
 provider:
   name: CBS News
@@ -31,20 +31,15 @@ images:
 related:
   - title: "Mike Pence heckled with chants of ‘traitor!’ at conservative Christian conference – live"
     excerpt: "Former vice-president jeered at Faith & Freedom summit in Florida – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-18T17:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccc31a8f0812e6253f6950"
+    publishedDateTime: 2021-06-18T17:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccba168f087e657d9e723b"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/1b61ab0ae764aca3b6d30dbcfea2efae22b58381/0_298_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=12492609694d9d44f20664bd1230817d"
-        width: 600
-        height: 360
-        isCached: true
+    quality: 96
   - title: "Mike Pence heckled during speech at Faith & Freedom Coalition summit"
     excerpt: "Mike Pence was heckled Friday as the former vice president spoke at the conservative Faith & Freedom Coalition’s summit in Orlando, Florida. Reporters watching said the jeers included cries of “traitor!"
     publishedDateTime: 2021-06-18T19:53:00Z

@@ -79,22 +79,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Biden-Putin summit highlights: 'I did what I came to do,' Biden said"
-    excerpt: "U.S. President Joe Biden held a high-stakes summit with Russian President Vladimir Putin on Wednesday. Here are the highlights."
-    publishedDateTime: 2021-06-16T21:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-putin-summit-live-updates/?id=78286684"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-putin-summit-live-updates/?id=78286684"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-putin-summit-live-updates/?id=78286684"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-geneva19-gty-ml-210616_1623864756769_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Biden to propose $6 trillion U.S. budget for 2022 fiscal year -NYT"
     excerpt: "President Joe Biden will seek $6 trillion in U.S. federal spending for the 2022 fiscal year, rising to $8.2 trillion by 2031, the New York Times reported on Thursday, a day before the White House is expected to unveil its budget proposal."
     publishedDateTime: 2021-05-27T12:55:00Z

@@ -63,22 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden nominee's link to 1989 logging sabotage blasted by GOP"
-    excerpt: "President Joe Biden’s nominee to oversee federal lands in the U.S. West is facing Republican pressure to withdraw over her ties to environmental activists convicted of spiking trees to sabotage a nati"
-    publishedDateTime: 2021-06-11T21:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229805"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229805"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229805"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_c8b6b6f1a05d48fa8b0719b37266a661_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Joe Biden Had His First Meeting With Queen Elizabeth As President"
     excerpt: "President Joe Biden met with Queen Elizabeth II in England on Friday — the first time he has encountered the British sovereign as commander in chief. The president and first lady Jill Biden were photographed chatting with the Queen at an event for heads of state attending the G7 summit in Cornwall."
     publishedDateTime: 2021-06-11T22:16:00Z

@@ -27,92 +27,204 @@ images:
     isCached: true
 
 related:
-  - title: "Biden sets up commission to study expansion of supreme court – live"
-    excerpt: "Updated at 1.18pm EDT Buttigieg said he hadn’t met with Senator Joe Manchin, a conservative Democrat who is opposed to Biden’s plan to raise the corporate tax rate from 21% to 28%. He prefers a rate of 25%. Buttigieg wouldn’t say how the lower rate ..."
-    publishedDateTime: 2021-04-09T16:18:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+  - title: "The GOP’s gaslighting on Biden, Putin and Trump"
+    excerpt: "In their quest to pitch Biden as weak on Russia, Republicans are attacking pretty much everything they ignored about Trump."
+    publishedDateTime: 2021-06-18T21:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
     images:
-      - url: "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f"
-        width: 600
-        height: 400
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-16-2021/t_31136d8876b14fb0a02e726c1921b27e_name_biden_presser_0616_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Biden sets up commission to study expansion of supreme court – live"
-    excerpt: "More on Joe Biden creating a commission to review the US Supreme Court. Congressional freshman and New York Democrat Mondaire Jones cheered the announcement. MONDAIRE JONES addresses The Fund Excluded Workers Coalition gathered earlier this week at The ..."
-    publishedDateTime: 2021-04-09T18:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-607096e78f088c820d8620d4"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+  - title: "‘Trump is gone,’ but lingering: As Biden vows ‘America is back,’ allies wonder for how long"
+    excerpt: "For all of Biden's attempts to reassure partners shaken by Trump, some allies have lingering doubts about the forces that produced Trump's election."
+    publishedDateTime: 2021-06-17T20:44:00Z
+    webUrl: "https://www.usatoday.com/in-depth/news/world/2021/06/17/trump-gone-but-biden-europe-trip-brings-up-allies-lingering-worry/7699719002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7699719002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7699719002"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/16/USAT/8c027dcc-7eb1-43ff-a8cc-ce4255bab4be-AP_Switzerland_Biden_Putin.jpg?auto=webp&crop=3096,1742,x1,y1332&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Swiss detail extra security measures for Biden-Putin summit"
+    excerpt: "Swiss authorities will temporarily restrict airspace over the city of Geneva and deploy up to 1,000 troops to the area to help reinforce security for the summit of Russian President Vladimir Putin and U."
+    publishedDateTime: 2021-06-11T09:39:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/swiss-detail-extra-security-measures-biden-putin-summit-78216576"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/8915c06ac7ac0fd7717b71364e16efc607e995e1/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c011fd1bdd14622966c05d125c673f45"
-        width: 600
-        height: 360
+      - url: "https://s.abcnews.com/images/US/210610_vod_OnLocationV2_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden unveils commission to study possible expansion of Supreme Court"
-    excerpt: "Democratic presidential nominee Joe Biden initially dodged questions in October 2020 about whether he would pack the court before saying he opposed it. (JM Rieger/The Washington Post) “The topics it will examine include the genesis of the reform debate ..."
-    publishedDateTime: 2021-04-09T21:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-unveil-commission-to-study-possible-expansion-of-supreme-court/2021/04/09/f644552c-9944-11eb-962b-78c1d8228819_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-unveil-commission-to-study-possible-expansion-of-supreme-court/2021/04/09/f644552c-9944-11eb-962b-78c1d8228819_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-unveil-commission-to-study-possible-expansion-of-supreme-court/2021/04/09/f644552c-9944-11eb-962b-78c1d8228819_story.html?outputType=amp"
+  - title: "Biden nominee's link to 1989 logging sabotage blasted by GOP"
+    excerpt: "President Joe Biden’s nominee to oversee federal lands in the U.S. West is facing Republican pressure to withdraw over her ties to environmental activists convicted of spiking trees to sabotage a nati"
+    publishedDateTime: 2021-06-11T21:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229805"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229805"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229805"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_c8b6b6f1a05d48fa8b0719b37266a661_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Switzerland Restricting Airspace Ahead of Biden-Putin Meeting"
+    excerpt: "Swiss authorities made the decision to restrict airspace and deploy up to 3,000 troops and police officers ahead of next week's Geneva summit to protect against terrorist threats that remain \"high in Switzerland and Europe."
+    publishedDateTime: 2021-06-11T17:22:00Z
+    webUrl: "https://www.newsweek.com/switzerland-restricting-airspace-ahead-biden-putin-meeting-1599933"
+    ampWebUrl: "https://www.newsweek.com/switzerland-restricting-airspace-ahead-biden-putin-meeting-1599933?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/switzerland-restricting-airspace-ahead-biden-putin-meeting-1599933?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1819530/g7-summit-buildup.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "At an arms control crossroads, Biden and Putin face choices"
+    excerpt: "At a low point in U.S.-Russian relations, President Joe Biden and Russian President Vladimir Putin appear to agree broadly on at least one thing, and that’s the need to set the stage for a new era in"
+    publishedDateTime: 2021-06-13T10:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/at-an-arms-control-crossroads-biden-and-putin-face-choices/2021/06/13/c2a297ac-cc3d-11eb-a224-bd59bd22197c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/at-an-arms-control-crossroads-biden-and-putin-face-choices/2021/06/13/c2a297ac-cc3d-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/at-an-arms-control-crossroads-biden-and-putin-face-choices/2021/06/13/c2a297ac-cc3d-11eb-a224-bd59bd22197c_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X22SV5EZIUI6XFRLPDA5QIUIDE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSX6YWWMGYI6XIREXVM32IQZPQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "The Agenda review: why Biden must expand the supreme court – fast"
-    excerpt: "Ian Millhiser offers a perfect short read for a key moment in US constitutional history, after Republicans hijacked the court Last modified on Sun 11 Apr 2021 02.01 EDT If Congress follows Joe Biden’s $1.9tn Covid relief bill with an even more ambitious ..."
-    publishedDateTime: 2021-04-11T05:01:00Z
-    webUrl: "https://www.theguardian.com/books/2021/apr/10/the-agenda-review-biden-expand-supreme-court-trump-republicans"
-    ampWebUrl: "https://amp.theguardian.com/books/2021/apr/10/the-agenda-review-biden-expand-supreme-court-trump-republicans"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/apr/10/the-agenda-review-biden-expand-supreme-court-trump-republicans"
+  - title: "Some US allies near Russia are wary of Biden-Putin summit"
+    excerpt: "Countries in Central and Eastern Europe are anxious about the coming summit meeting between U.S. President Joe Biden and Russian President Vladimir Putin"
+    publishedDateTime: 2021-06-14T05:23:00Z
+    webUrl: "https://www.washingtonpost.com/world/some-us-allies-near-russia-are-wary-of-biden-putin-summit/2021/06/14/10027c6a-ccd9-11eb-a224-bd59bd22197c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/some-us-allies-near-russia-are-wary-of-biden-putin-summit/2021/06/14/10027c6a-ccd9-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/some-us-allies-near-russia-are-wary-of-biden-putin-summit/2021/06/14/10027c6a-ccd9-11eb-a224-bd59bd22197c_story.html?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/b01f971dc8a8a609447df2793851052ce167a215/0_542_7276_4365/master/7276.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9b12b5fd7a73147358d01deaf6dac539"
-        width: 600
-        height: 360
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4O3UK5WM2UI6XIREXVM32IQZPQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Biden set to issue sweeping sanctions against Russia"
-    excerpt: "The sanctions, which may be issued as soon as Thursday, are expected to target over 30 Russian entities and include the expulsion of at least 10 Russian individuals."
-    publishedDateTime: 2021-04-15T11:07:00Z
-    webUrl: "https://www.cbsnews.com/news/russia-sanctions-us-biden-plans/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/russia-sanctions-us-biden-plans/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/russia-sanctions-us-biden-plans/"
+  - title: "Biden rallies NATO support ahead of confrontation with Putin"
+    excerpt: "Joe Biden has used his first appearance at the NATO summit as president to call on Russian President Vladimir Putin to step back from provocative actions targeting the U.S. and allies"
+    publishedDateTime: 2021-06-14T22:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-nato-ready-talk-china-russia-soothe-allies-78261031"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-nato-ready-talk-china-russia-soothe-allies-78261031"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nato-ready-talk-china-russia-soothe-allies-78261031"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_71582ad7de3b48a79c6be8e0c006f1e4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Geneva regains diplomatic spotlight with Putin-Biden summit"
+    excerpt: "With Presidents Joe Biden and Vladimir Putin heading to town, Geneva is returning to the international spotlight as a leading hub for diplomacy and multilateralism, things that were largely shunned by"
+    publishedDateTime: 2021-06-15T06:24:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/geneva-regains-diplomatic-spotlight-putin-biden-summit-78283178"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/geneva-regains-diplomatic-spotlight-putin-biden-summit-78283178"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/geneva-regains-diplomatic-spotlight-putin-biden-summit-78283178"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_15442b558462466abe950338311bd414_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Latest: Biden-Putin meeting opens with reporters shoving"
+    excerpt: "President Joe Biden’s summit with Russian President Vladimir Putin began with minutes of unusually fierce shoving and shouting among U.S. and Russian journalists and security forces"
+    publishedDateTime: 2021-06-16T12:58:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/latest-kremlin-official-summit-easy-78308831"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/latest-kremlin-official-summit-easy-78308831"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/latest-kremlin-official-summit-easy-78308831"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f87f02f140e64a35b1744006f41a67f2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden-Putin summit highlights: 'I did what I came to do,' Biden said"
+    excerpt: "U.S. President Joe Biden held a high-stakes summit with Russian President Vladimir Putin on Wednesday. Here are the highlights."
+    publishedDateTime: 2021-06-16T21:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-putin-summit-live-updates/?id=78286684"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-putin-summit-live-updates/?id=78286684"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-putin-summit-live-updates/?id=78286684"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-geneva19-gty-ml-210616_1623864756769_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Live Updates: Biden says \"I did what I came to do\" in Putin meeting"
+    excerpt: "President Biden and Russian President Vladimir Putin met Wednesday for the first time since Mr. Biden took office, at a summit in Geneva that the Russian president described as \"constructive,\" while Mr."
+    publishedDateTime: 2021-06-16T19:10:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-putin-geneva-summit-2021-06-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-putin-geneva-summit-2021-06-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-putin-geneva-summit-2021-06-16/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/15/57b60594-6a95-4159-b850-b005ab2e9db8/thumbnail/1200x630/5e310e510e58e3fb6a549696540f6fb3/gettyimages-1232304316.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/16/941fb5cb-4b48-4677-809d-ddfe1192bf1c/thumbnail/1200x630/a3d92b5524adb3e97d87e36fed105d0e/2021-06-16t174740z-1924575976-rc2t1o9zsnaf-rtrmadp-3-usa-russia-summit-geneva.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "After outcry, WH says Biden will lift refugee cap in May"
-    excerpt: "Facing swift blowback from allies and aid groups, the White House says President Joe Biden plans to lift in the next month his predecessor’s historically low cap on refugees, after initially moving on"
-    publishedDateTime: 2021-04-16T20:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-speeds-refugees-admissions-but-doesnt-lift-trump-cap/2021/04/16/56a23502-9ed0-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-speeds-refugees-admissions-but-doesnt-lift-trump-cap/2021/04/16/56a23502-9ed0-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-speeds-refugees-admissions-but-doesnt-lift-trump-cap/2021/04/16/56a23502-9ed0-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+  - title: "Putin praises summit result, calls Biden a tough negotiator"
+    excerpt: "Russian President Putin has praised the outcome of his summit with U.S. President Joe Biden and called him an astute negotiator"
+    publishedDateTime: 2021-06-17T14:55:00Z
+    webUrl: "https://www.washingtonpost.com/world/putin-praises-summit-result-calls-biden-a-tough-negotiator/2021/06/17/6e53fc82-cf84-11eb-a224-bd59bd22197c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/putin-praises-summit-result-calls-biden-a-tough-negotiator/2021/06/17/6e53fc82-cf84-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/putin-praises-summit-result-calls-biden-a-tough-negotiator/2021/06/17/6e53fc82-cf84-11eb-a224-bd59bd22197c_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -123,287 +235,343 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden's appeals for action on guns, policing face reality"
-    excerpt: "President Joe Biden is calling for action as the nation struggles with yet another mass shooting and faces a reckoning over the deaths of Black men at the hands of police"
-    publishedDateTime: 2021-04-17T04:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77132341"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77132341"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77132341"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_cdfc1a13c1c74d47b437976ce9b093fa_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Gun control advocates pin their hopes on Joe Biden"
-    excerpt: "Congress has shown little appetite to pass the sweeping reforms that gun control proponents believe can stem the violence - but advocates insist there is reason for optimism. Three years ago, as Americans heard the details of yet another mass shooting,"
-    publishedDateTime: 2021-04-17T00:07:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56682356.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17B3C/production/_117948079_fb_img_1535318390257.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Biden's U.S. Supreme Court commission meets to explore broad reforms"
-    excerpt: "President Joe Biden's commission to study potential changes to the U.S. Supreme Court held its first meeting on Wednesday and will have six months to issue a report on reforms including possibly expanding the number of justices,"
-    publishedDateTime: 2021-05-19T17:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-commission/bidens-u-s-supreme-court-commission-meets-to-explore-broad-reforms-idUSKCN2D0125"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D0131"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D0131"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210519&t=2&i=1562691602&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4I0IV"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden to host Japanese PM at White House in president’s first visit from foreign leader – live"
-    excerpt: "North Korea and China will be primary topics of conversation, senior official says"
-    publishedDateTime: 2021-04-16T14:34:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/7817b7be04dd2137db9e6559de71b3b27fe0c791/0_195_3008_1805/master/3008.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fa400964ddbbb8c6cb25902b044b5ad2"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden to announce all US adults vaccine-eligible by 19 April – US politics live"
-    excerpt: "Biden to make announcement as White House encourages older Americans to get vaccinated as quickly as possible – follow all the day’s US politics news"
-    publishedDateTime: 2021-04-06T16:25:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest?page=with:block-606c74338f08611d06d8d7ca"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/a77da5d15e3310643e78095fbbf0dbe303834a43/0_99_5307_3184/master/5307.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2fd62229786e5cf0c86525e5fbceff2f"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden to announce all US adults vaccine-eligible by 19 April – US politics live"
-    excerpt: "White House press secretary Jen Psaki was asked whether Vladimir Putin has confirmed his attendance to Joe Biden’s climate summit later this month. Bloomberg News reported today that the Russian president is making plans to attend the virtual summit."
-    publishedDateTime: 2021-04-06T18:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest?page=with:block-606c8a0b8f08098d4e05651c"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/c94bc3ce8b8e6da02323a2e4df87408b1e0c4f6c/0_158_4652_2792/master/4652.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c6c7b6781ad3305d641682f77ca4ad21"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden says Japan and U.S. committed to working together to meet China challenge"
-    excerpt: "U.S. President Joe Biden said he had a productive summit with Japanese Prime Minister Yoshihide Suga on Friday and the two countries were committed to working together to meet the challenge posed by China and issues including North Korea."
-    publishedDateTime: 2021-04-16T22:03:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-japan-biden-idUKKBN2C32P6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2C32P6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2C32P6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210417&t=2&i=1558812583&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3F1CK"
-        width: 837
-        height: 545
-        isCached: true
-  - title: "Biden welcomes Japan's prime minister to White House as he tries to counter China"
-    excerpt: "Japan is one of the few industrialized nations not sanctioning China for human rights abuses. The U.S. would like that to change."
-    publishedDateTime: 2021-04-16T21:46:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-china-xinjiang-human-rights-sanctions-japan-prime-minister-suga-live-stream-today-2021-04-16/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-china-xinjiang-human-rights-sanctions-japan-prime-minister-suga-live-stream-today-2021-04-16/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-china-xinjiang-human-rights-sanctions-japan-prime-minister-suga-live-stream-today-2021-04-16/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/16/2d9f7820-890e-4117-aed2-1887ae9d5e42/thumbnail/1200x630/f26b663185e1b3ae61c1bc3818ce0a1f/screen-shot-2021-04-16-at-5-46-09-pm.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden Decision to Delay Afghanistan Withdrawal to 9/11 Could Escalate Taliban Conflict"
-    excerpt: "President Joe Biden's plan to delay the withdrawal of U.S. troops from Afghanistan until September 11 could escalate tensions with the Taliban. According to the Associated Press, Biden is scheduled to announce the delayed withdrawal date in the upcoming ..."
-    publishedDateTime: 2021-04-13T17:11:00Z
-    webUrl: "https://www.newsweek.com/biden-decision-delay-afghanistan-withdrawal-9-11-could-escalate-taliban-conflict-1583337"
-    ampWebUrl: "https://www.newsweek.com/biden-decision-delay-afghanistan-withdrawal-9-11-could-escalate-taliban-conflict-1583337?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-decision-delay-afghanistan-withdrawal-9-11-could-escalate-taliban-conflict-1583337?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1777203/president-joe-biden.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden tells family of officer killed in Capitol car attack: ‘Your Dad was a hero’ – live"
-    excerpt: "“I don’t think it was pulling the trigger too quickly.” Joe Biden will withdraw all the remaining US troops from Afghanistan by September 11, the 20th anniversary of the al-Qaida terrorist attacks on New York and Washington, a senior administration ..."
-    publishedDateTime: 2021-04-13T16:12:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates?page=with:block-6075cc3a8f081d5f7f94ef4a"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/54c0ae823c55ace7e5b9ccbcb747b81cc2f69eb6/0_32_4845_2907/master/4845.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eebce1353e72fcc91b8e666f139d987"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Joe Manchin Puts a Damper on Biden's Infrastructure Plan, Says It Risks U.S. Competitiveness"
-    excerpt: "Senator Joe Manchin, a moderate West Virginia Democrat, criticized the corporate tax increase plan President Joe Biden has proposed to pay for a $2 trillion infrastructure bill, raising concerns it could risk American competitiveness. In an interview with ..."
-    publishedDateTime: 2021-04-05T18:40:00Z
-    webUrl: "https://www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102"
-    ampWebUrl: "https://www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
-    images:
-      - url: "https://d.newsweek.com/en/full/1771680/joe-manchin.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Biden administration still seizing land near border despite plans to stop building wall: report"
-    excerpt: "President Biden’s administration is still seizing land near the U.S.- Mexico border to be used to continue building a wall, according to an"
-    publishedDateTime: 2021-04-16T01:13:00Z
-    webUrl: "https://thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop"
-    ampWebUrl: "https://thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 113
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_04152021getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden to pay respects to police officer killed in car attack as casket arrives at Capitol – live"
-    excerpt: "As his father’s casket was carried up the Capitol steps, Logan could be seen clutching a teddy bear. pic.twitter.com/40oYXOyvVT Joe Biden and congressional leaders will attend this morning’s ceremony to honor William “Billy” Evans, the USCP officer ..."
-    publishedDateTime: 2021-04-13T14:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates?page=with:block-607599c68f08b7e3afb8a2b5"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 112
-    images:
-      - url: "https://i.guim.co.uk/img/media/54c0ae823c55ace7e5b9ccbcb747b81cc2f69eb6/0_32_4845_2907/master/4845.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eebce1353e72fcc91b8e666f139d987"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "'A heck of a guy': Joe Biden pays tribute to Prince Philip – video"
-    excerpt: "The US president on Friday paid tribute to the Duke of Edinburgh, Prince Philip, and sent condolences to Queen Elizabeth II."
-    publishedDateTime: 2021-04-09T21:34:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/09/a-heck-of-a-guy-joe-biden-pays-tribute-to-prince-philip-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/3427740fbb9252d413d0108d078651328660d5c0/0_118_4348_2609/master/4348.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c298b9b651401ae7eebb12c233c83595"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Nearly 40% of Marines decline COVID vaccine, prompting some Democrats to urge Biden to set mandate for military"
-    excerpt: "Nearly 40% of United States Marines who have been offered the COVID-19 vaccine have declined it, according to the Pentagon. Of the 123,500 Marines that have had access to the vaccine, 75,500 Marines are either fully vaccinated or have only received one ..."
-    publishedDateTime: 2021-04-10T21:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/10/covid-vaccine-nearly-forty-percent-us-marines-decline/7173918002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7173918002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7173918002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/a5dbf9d3-615a-4fab-8350-33f576afc6f9-AP_Virus_Outbreak_Ramadan_Vaccine.jpg?auto=webp&crop=5902,3320,x0,y299&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden announces tough new sanctions on Russia"
-    excerpt: "President Joe Biden announces tough new sanctions on Russia, expelling 10 diplomats and imposing sanctions against dozens of companies and people. The US holds the Kremlin accountable for interference in the 2020 presidential election hacking."
-    publishedDateTime: 2021-04-15T23:06:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/15/biden-announces-tough-new-sanctions-russia/7245271002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/772e29b1-6845-449c-816c-d6d58ede2602_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden administration to launch massive funeral assistance program for covid victims"
-    excerpt: "The Biden administration next week will launch a funeral assistance program that will provide up to $9,000 to cover the burial costs of each American who died of covid-19 — the largest program of its type ever offered by the federal government."
-    publishedDateTime: 2021-04-06T21:15:00Z
-    webUrl: "https://www.washingtonpost.com/national/covid-funerals-assistance/2021/04/06/d7d1db20-9659-11eb-b28d-bfa7bb5cb2a5_story.html"
+  - title: "The Latest: Biden and Putin depart Geneva after summit"
+    excerpt: "Geneva can breathe a sigh of relief after hosting a U.S.-Russia summit. President Joe Biden is aboard Air Force One and is on his way back to Washington after Wednesday’s meeting at an 18th century lakeside villa."
+    publishedDateTime: 2021-06-16T18:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-kremlin-official-says-summit-will-not-be-easy/2021/06/16/13238168-ce79-11eb-a224-bd59bd22197c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-kremlin-official-says-summit-will-not-be-easy/2021/06/16/13238168-ce79-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-kremlin-official-says-summit-will-not-be-easy/2021/06/16/13238168-ce79-11eb-a224-bd59bd22197c_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 99
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4XIAF4EXCMI6XMUNX6T3WXFSUU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4EU3TWGOYQI6XIREXVM32IQZPQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden could agree to a 25% corporate tax rate as a compromise with business groups, rather than the 28% he wanted, according to a report"
-    excerpt: "President Joe Biden. Jabin Botsford/The Washington Post via Getty Images Summary List Placement President Joe Biden may not achieve his proposed corporate tax rise to 28%, but lawmakers and corporations could agree on a 25% rate as a compromise ..."
-    publishedDateTime: 2021-04-08T09:40:00Z
-    webUrl: "https://www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4?amp"
+  - title: "U.S. falls behind on Biden's vaccination goal..."
+    excerpt: "Watch \"U.S. falls behind on President Biden's July 4 vaccination goal\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-16T23:16:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210616231644-u-s-falls-behind-on-president-bidens-july-4-vaccination-goal/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/covid19-delta-variant-contagious-vaccinations-dr-anand-swaminathan-analysis/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/covid19-delta-variant-contagious-vaccinations-dr-anand-swaminathan-analysis/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/17/5a34d628-b8ae-4184-bc5e-28cf005c2078/thumbnail/1200x630/a13807ea477aa599411866e0ab75f0c7/cbsn-fusion-covid19-delta-variant-contagious-vaccinations-dr-anand-swaminathan-analysis-thumbnail-735980-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vladimir Putin Upstaged Joe Biden, Say Russian Media"
+    excerpt: "Kremlin-loyal newspapers were full of praise for the Russian president's decisiveness—and his tie—but commentators pointed out that there was little progress made during the Geneva summit."
+    publishedDateTime: 2021-06-17T09:46:00Z
+    webUrl: "https://www.newsweek.com/vladimir-putin-upstaged-joe-biden-russian-media-geneva-summit-ties-1601441"
+    ampWebUrl: "https://www.newsweek.com/vladimir-putin-upstaged-joe-biden-russian-media-geneva-summit-ties-1601441?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/vladimir-putin-upstaged-joe-biden-russian-media-geneva-summit-ties-1601441?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1823181/vladimir-putin-shakes-joe-bidens-hand.jpg"
+        width: 3889
+        height: 3023
+        isCached: true
+  - title: "Still a summit secret: What happened in Helsinki between Putin and Trump?"
+    excerpt: "Democrats are no longer pursuing what happened in private meetings at the 2018 summit in Helsinki, Finland, between Donald Trump and Vladimir Putin."
+    publishedDateTime: 2021-06-16T09:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/helsinki-trump-putin-gty-ps-210615_1623791556307_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "GOP lawmakers urge Biden to add sanctions on Russia over Navalny poisoning"
+    excerpt: "The top Republican lawmakers with oversight of foreign affairs are raising concerns that President Biden is pulling his punches on Russian President Vladimir Putin, following their summit in Geneva on Wednesday."
+    publishedDateTime: 2021-06-16T19:47:00Z
+    webUrl: "https://thehill.com/policy/international/558800-gop-lawmakers-urge-biden-to-add-sanctions-on-russia-over-navalny"
+    ampWebUrl: "https://thehill.com/policy/international/558800-gop-lawmakers-urge-biden-to-add-sanctions-on-russia-over-navalny?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/558800-gop-lawmakers-urge-biden-to-add-sanctions-on-russia-over-navalny?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/rischjim_051821gn3_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "First Thing: proof of Putin pudding is in the eating, says Biden after summit"
+    excerpt: "President says he told Russian leader that the US would retaliate if cyber-attacks continued. Plus, California plane mystery solved"
+    publishedDateTime: 2021-06-17T10:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/17/first-thing-proof-of-putin-pudding-is-in-the-eating-says-biden-after-summit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/17/first-thing-proof-of-putin-pudding-is-in-the-eating-says-biden-after-summit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/17/first-thing-proof-of-putin-pudding-is-in-the-eating-says-biden-after-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/4cb75745f2857d4053881a54a8e5f90d93333ead/325_287_5583_3350/master/5583.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f443ac0fae5724bb4d3bcd048e87b38e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden, Putin summit in Geneva wraps up after meeting for more than three hours"
+    excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
+    publishedDateTime: 2021-06-16T15:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/16/joe-biden-set-putin-summit-geneva-after-g-7-nato-meetings/7700426002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7700426002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7700426002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/16/USAT/53b4d8f5-797f-4431-860c-bb1109025f6c-AP21167417852813.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Video shows Osama bin Laden's niece waving a flag saying 'Trump won' on a lake outside the Biden-Putin summit"
+    excerpt: "Osama bin Laden's niece Noor bin Laden waved the flag as Joe Biden and Vladimir Putin met in Geneva."
+    publishedDateTime: 2021-06-17T11:37:00Z
+    webUrl: "https://www.businessinsider.com/noor-bin-ladin-trump-flag-outside-biden-putin-summit-video-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/noor-bin-ladin-trump-flag-outside-biden-putin-summit-video-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/noor-bin-ladin-trump-flag-outside-biden-putin-summit-video-2021-6?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 92
+    quality: 121
     images:
-      - url: "https://i.insider.com/606ec12730004b0019b26927?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60cb124f20bd1300181c6c10?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How Obamacare Survived Trump and What Biden Is Doing: QuickTake"
+    excerpt: "The Supreme Court shut down the latest challenge in a 7-2 decision that denied Republican states’ challenge to the law’s constitutionality."
+    publishedDateTime: 2021-06-17T15:05:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-is-doing-quicktake/2021/06/17/68dee964-cf7b-11eb-a224-bd59bd22197c_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M3B5USWPPMI6XIREXVM32IQZPQ.jpg&w=1440"
+        width: 1440
+        height: 952
+        isCached: true
+  - title: "President Joe Biden arrives in Geneva ahead of meeting with Russia’s Vladimir Putin"
+    excerpt: "President Biden plans to confront Vladimir Putin on everything from Moscow’s cyberattacks to its election interference efforts and human rights abuses."
+    publishedDateTime: 2021-06-15T18:41:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 119
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7xWUqp8XmQGYVCVZiA2uooROlhk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NE6LQF2WMNDYHLTM6YQB7CFQSA.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Putin savored the global spotlight after his direct but largely fruitless meeting with Biden"
+    excerpt: "\"Bottom line is I told President Putin that we need to have some basic rules of the road that we can all abide by,\" Biden said."
+    publishedDateTime: 2021-06-16T21:29:00Z
+    webUrl: "https://www.businessinsider.com/putin-relishes-spotlight-biden-shows-off-foreign-policy-chops-summit-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/putin-relishes-spotlight-biden-shows-off-foreign-policy-chops-summit-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-relishes-spotlight-biden-shows-off-foreign-policy-chops-summit-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/60ca47a623393a00188e3932?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Russian President Vladimir Putin: No hostility in meeting with US President Joe Biden; tone was constructive"
+    excerpt: "No hostility in meeting with US President Joe Biden; tone was constructive. 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2021-06-16T15:56:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/russian-president-vladimir-putin-hostility-meeting-us-president-78316294"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/russian-president-vladimir-putin-hostility-meeting-us-president-78316294"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/russian-president-vladimir-putin-hostility-meeting-us-president-78316294"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 106
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Buoyed by allied summits, Biden ready to take on Putin"
+    excerpt: "Fresh from supportive summits with allies, Joe Biden is declaring himself ready to take on Russia’s Vladimir Putin in far more confrontational talks"
+    publishedDateTime: 2021-06-15T22:09:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-ease-eu-trade-tensions-ahead-putin-summit-78282309"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_b2ed2ad9ce3d47d69be41a7d134f2c41_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Putin says satisfied with Biden explanation for calling him a \"killer\""
+    excerpt: "Russian President Vladimir Putin said on Wednesday that U.S. President Joe Biden had phoned him to explain why he had called him \"a killer\" in March and that the explanation he had offered had satisfied Putin."
+    publishedDateTime: 2021-06-16T16:51:00Z
+    webUrl: "https://www.reuters.com/world/europe/putin-says-satisfied-with-biden-explanation-calling-him-killer-2021-06-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/uGdr0kZaHS03i-ssQoLgGW2XeyM=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T6FIG72UAZPCHDAYQ3JWRM52EM.jpg"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Biden: Tone of Putin meeting was 'good, positive'"
+    excerpt: "President Joe Biden said the tone of his first face-to-face meeting with Russian President Vladimir Putin was \"good\" and \"positive,\" and told he reporters he did what he \"came to do.\" (June 16)"
+    publishedDateTime: 2021-06-16T21:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/16/biden-tone-putin-meeting-good-positive/7721168002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3f06dc94-54cb-415d-80ca-26eedad1d8b1_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Putin: 'no hostility' during meeting with Biden"
+    excerpt: "Russian President Vladimir Putin described the tone of the talks with U.S. President Joe Biden on Wednesday as “constructive” and said there was no hostility during the talks. (June 16)"
+    publishedDateTime: 2021-06-16T21:31:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/16/putin-no-hostility-during-meeting-biden/7721035002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d4a8ae58-e615-4b07-9620-e1addbab23a9_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Kremlin pleased with Putin-Biden summit, hails pledge to never wage nuclear war"
+    excerpt: "The Kremlin said on Thursday it was pleased with what it called a positive summit between Russian President Vladimir Putin and his U.S. counterpart Joe Biden, singling out a joint statement that reiterated the need to avoid nuclear war as significant."
+    publishedDateTime: 2021-06-17T11:29:00Z
+    webUrl: "https://www.reuters.com/world/russia-says-it-expects-us-arms-control-talks-agreed-summit-start-within-weeks-2021-06-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://www.reuters.com/resizer/dFRuB982M8qeES-nlCJVuyLKSRI=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XQBYTGRU6FJOZFGX7AM7ESHYZY.jpg"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Biden says U.S. \"not looking for conflict\" with Russia ahead of meeting with Putin"
+    excerpt: "President Biden says he's not seeking conflict with Russia, but that the U.S. would respond if Russia continued its \"harmful activities.\" CBS News chief White House correspondent Nancy Cordes joins CBSN's Elaine Quijano to discuss Monday's NATO summit and preview Mr."
+    publishedDateTime: 2021-06-15T01:46:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-vladimir-putin-summit-preview-analysis-2021-06-14/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/15/f15a2967-82ec-4f03-8830-2ef851902861/thumbnail/1200x630/4e8606f7a1035c769c3e7eaf9cbe3199/cbsn-fusion-joe-biden-vladimir-putin-summit-preview-analysis-2021-06-14-thumbnail-734744-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vladimir Putin offers Joe Biden exchange of cybercriminals ahead of summit"
+    excerpt: "Ahead of his highly anticipated Wednesday summit with U.S. President Joe Biden, Russian President Vladimir Putin said he is willing to exchange cybercriminals with United States, state-run media said."
+    publishedDateTime: 2021-06-14T08:31:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/06/14/russia-Russian-President-Vladimir-Putin-offers-cybercriminal-swap-with-United-States-President-Joe-Biden/8391623655947/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/06/14/russia-Russian-President-Vladimir-Putin-offers-cybercriminal-swap-with-United-States-President-Joe-Biden/8391623655947/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/06/14/russia-Russian-President-Vladimir-Putin-offers-cybercriminal-swap-with-United-States-President-Joe-Biden/8391623655947/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/8391623655947/2021/1/1460b214c5de6c54a593b8e3b9c65aa8/v1.5/Vladimir-Putin-offers-Joe-Biden-exchange-of-cybercriminals-ahead-of-summit.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Joe Biden to hold solo news conference after meeting with Vladimir Putin in Geneva"
+    excerpt: "White House says solo press event is 'appropriate format\" to communicate with media about topics raised during Joe Biden, Vladimir Putin meeting."
+    publishedDateTime: 2021-06-12T13:36:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/06/12/biden-hold-solo-news-conference-after-summit-putin/7666869002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/7666869002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7666869002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/10/USAT/1f0ecd28-c37c-4a73-8247-004c960ffbf0-AFP_AFP_9BK7FL.jpg?auto=webp&crop=3999,2250,x0,y370&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Joe Biden arrives in Geneva ahead of meeting with Russia’s Vladimir Putin"
+    excerpt: "President Biden plans to confront Vladimir Putin on everything from Moscow’s cyberattacks to its election interference efforts and human rights abuses."
+    publishedDateTime: 2021-06-15T15:49:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-putin-meeting-20210615-zabicwx62bbkvbp27x3e2fyx6m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 69
+    images:
+      - url: "https://www.baltimoresun.com/resizer/7xWUqp8XmQGYVCVZiA2uooROlhk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NE6LQF2WMNDYHLTM6YQB7CFQSA.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Joe Biden could increase pressure on Vladimir Putin if their June 16 meeting fails to deter Russia's 'harmful' behavior"
+    excerpt: "When announcing financial penalties on Russia earlier this year, Biden hinted at the prospect of further sanctions. An energy scholar explains what Biden may have meant."
+    publishedDateTime: 2021-06-11T18:30:00Z
+    webUrl: "https://www.pri.org/stories/2021-06-11/how-joe-biden-could-increase-pressure-vladimir-putin-if-their-june-16-meeting"
+    ampWebUrl: "https://www.pri.org/stories/2021-06-11/how-joe-biden-could-increase-pressure-vladimir-putin-if-their-june-16-meeting?amp"
+    cdnAmpWebUrl: "https://www-pri-org.cdn.ampproject.org/c/s/www.pri.org/stories/2021-06-11/how-joe-biden-could-increase-pressure-vladimir-putin-if-their-june-16-meeting?amp"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 49
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2021/06/file-20210608-135197-1xrw33t.jpeg?itok=OwnwwivO"
+        width: 1200
+        height: 707
         isCached: true
 
 secured: "PZVUXGCVA9aUdRAjQmYQzyj3N4oouz+Jw1oO4p4h7yrID2TVT3+fOpCJxxG3yyjYk6rNQv4X+mtyYTTxNpRqVhy9U9JRmNBu+PvQDMF1qvzKwGh9nT/8gEK/zPsgDfgcVdx7YWjHJwB6Ij2t4HvqPEZ2f7b7sh2n0IwL5VOx48aHNe2BCuGVZw3GNav3rnLG7V4Ftn+GNbomI47EP4q6QTTdc3TMHTrFl6Mk7b6YUfUfT75uwC1O72/kaM4qwG3rlzhAr8ryBDxzkZfhFSX+ps+gndRiM8sKZsnLdop1NTS1AQ0pO7/1OfT1k8pATZbYUMa8r4yWsg3V+CNk7Vk+VGt/4rVDA1xtbtAaKRsfSSE=;t9vTaldN+OjgomJRmQ1vsQ=="

@@ -47,22 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden nominee's link to 1989 logging sabotage blasted by GOP"
-    excerpt: "President Joe Biden’s nominee to oversee federal lands in the U.S. West is facing Republican pressure to withdraw over her ties to environmental activists convicted of spiking trees to sabotage a nati"
-    publishedDateTime: 2021-06-11T21:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229805"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229805"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-nominees-link-1989-logging-sabotage-blasted-gop-78229805"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_c8b6b6f1a05d48fa8b0719b37266a661_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Go green or go bipartisan? Biden's big infrastructure choice"
     excerpt: "President Joe Biden’s hope of pouring billions of dollars into green infrastructure investments is running into the political obstacle of winning over Republican votes"
     publishedDateTime: 2021-06-12T04:26:00Z
