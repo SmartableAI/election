@@ -30,37 +30,101 @@ images:
     isCached: true
 
 related:
-  - title: "California Latino Caucus rebukes Harris for 'do not come' immigration warning"
-    excerpt: "California Latino lawmakers issued a statement Wednesday rebuking Vice President Kamala Harris’ controversial comments in El Salvador this week when she told “folks” from the northern triangle states \"Do not come.\""
-    publishedDateTime: 2021-06-10T01:53:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_wsHBOyti2Y/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come"
-    ampWebUrl: "https://www.foxnews.com/politics/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come.amp"
+  - title: "Dem Rep. Cuellar says he has not heard from VP Harris on border visit"
+    excerpt: "Democratic Rep. Henry Cuellar on Saturday said he had not heard from the office of Vice President Kamala Harris after he invited her to visit to the southern border -- while suggesting the administration’s policies were at least partly to blame for the crisis."
+    publishedDateTime: 2021-06-19T21:06:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-kNPFcq-BNg/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 182
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bff910dc-4c2d-4082-9b97-da2cfa1ec6fa/8ecf015e-aae7-4cf0-b8fe-a84a924199c9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed761222-cc08-4aaf-95cf-1b634bbb1f85/5383d477-226d-41c0-9cf6-66a562bcd30f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Tucker: Latin Americans tell Kamala Harris to 'buzz off'"
-    excerpt: "Imagine being Kamala Harris. You take your first big trip south of the border to what we used to call the developing world and you're pretty excited about it because you know that as a licensed person of color,"
-    publishedDateTime: 2021-06-10T12:08:00Z
-    webUrl: "https://www.foxnews.com/transcript/tucker-latin-americans-tell-kamala-harris-to-buzz-off"
-    ampWebUrl: "https://www.foxnews.com/transcript/tucker-latin-americans-tell-kamala-harris-to-buzz-off.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-latin-americans-tell-kamala-harris-to-buzz-off.amp"
+  - title: "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report"
+    excerpt: "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region."
+    publishedDateTime: 2021-06-18T10:09:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 180
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/114c6d14-1726-41cc-a875-7804de7ca375/7926c5fc-288a-4f7d-b5f1-01b0652e6bb2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86642280-7e76-4629-89c6-1176b5be4f98/6ea2cf6f-4d47-4e3c-8420-f9e6eaf3a19e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "56 House Republicans demand Kamala Harris be removed from border crisis role"
+    excerpt: "Torrents of migrants flooding the US-Mexico border have created one of the most pressing challenges of Biden’s presidency and Harris has been tapped with solving the problem."
+    publishedDateTime: 2021-06-19T20:27:00Z
+    webUrl: "https://nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/"
+    ampWebUrl: "https://nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-harris-border-patrol-73.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’"
+    excerpt: "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show."
+    publishedDateTime: 2021-06-18T14:19:00Z
+    webUrl: "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show"
+    ampWebUrl: "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "VP Kamala Harris Announces Small Business Program: \"We Must Re-Imagine Our Economy\""
+    excerpt: "AP: Vice President Kamala Harris announced Tuesday that the Biden administration is distributing $1.25 billion to hundreds of community lenders in an effort to help boost the economic recovery from the coronavirus for small businesses and disadvantaged business owners."
+    publishedDateTime: 2021-06-15T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
+    images:
+      - url: "https://assets.realclear.com/images/54/545821.jpg"
+        width: 990
+        height: 742
+        isCached: true
+  - title: "RNC Chair McDaniel: Kamala Harris Is Sending A Clear Message That She Just Doesn't Care About The Border"
+    excerpt: "RNC Chairwoman Ronna Romney McDaniel said on Wednesday to FOX News that Vice President Kamala Harris has turned a blind eye to the border. RNC CHAIRWOMAN RONNA MCDANIEL: The border is in crisis. And I think every American looks at what is happening with a 200% increase in people coming through,"
+    publishedDateTime: 2021-06-16T17:43:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 68
+    images:
+      - url: "https://assets.realclear.com/images/54/545887.jpg"
+        width: 838
+        height: 628
         isCached: true
 
 secured: "41j/38pRqXpFEXZa2yfQ47Sy+z1GZGtEMrwcnRg3vkoe3nKVSNXKPLqh15tXe1DBvSQBR5+l5EbffxjqYswzhrzqk47v06I3DnvpgpIgeFqzNsXfXsPjG4TLBDxYSdLr2UilZl9sTRB2qyKEivGshS1MpsPebIi/t5Z2s/WzWj/6e5eGcov3JBopb7g2Bd/QVnzVOwgioLeKF4aeFwO52S9sCjOlP/l9eD99c76YDUsKA5TsMcXXM44UhrU8zCijh48Rtw1Gd1VhYCPDtMNCj6fGEIUn3fm9brb2Iskqjze9QN35tBCEODDzqBJkSHpsoK2pqD8QD/xOUHH09xS8Xt/o7MrNFCfmg7yYaNCXebg=;MFIvLBqTKXeyuZDUg0WBRA=="

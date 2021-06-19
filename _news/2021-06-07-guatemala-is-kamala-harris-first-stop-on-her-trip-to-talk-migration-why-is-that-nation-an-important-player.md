@@ -920,6 +920,20 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
+  - title: "Vice President Kamala Harris takes COVID-19 vaccination push to Georgia"
+    excerpt: "Vice President Kamala Harris brought the Biden administration’s “Month of Action” campaign for COVID-19 vaccinations to Atlanta Friday."
+    publishedDateTime: 2021-06-18T21:06:00Z
+    webUrl: "https://www.northwestgeorgianews.com/rome/news/local/vice-president-kamala-harris-takes-covid-19-vaccination-push-to-georgia/article_104b46d6-d079-11eb-affb-43fc9dd541d4.html"
+    type: article
+    provider:
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/e/94/e943c41b-e31d-5c3c-b9c5-016ee1b66062/6091884bcf3c4.image.jpg?resize=970%2C630"
+        width: 970
+        height: 630
+        isCached: true
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."
     publishedDateTime: 2021-05-13T20:39:00Z
@@ -1026,15 +1040,6 @@ related:
     provider:
       name: TribLIVE.com
       domain: triblive.com
-    quality: 35
-  - title: "Vice President Kamala Harris takes COVID-19 vaccination push to Georgia"
-    excerpt: "ATLANTA - Vice President Kamala Harris brought the Biden administration’s “Month of Action” campaign for COVID-19 vaccinations to Atlanta Friday."
-    publishedDateTime: 2021-06-18T20:35:00Z
-    webUrl: "https://www.gwinnettdailypost.com/news/vice-president-kamala-harris-takes-covid-19-vaccination-push-to-georgia/article_adc864de-d074-11eb-a05a-e7b19418f7c8.html"
-    type: article
-    provider:
-      name: Gwinnett Daily Post
-      domain: gwinnettdailypost.com
     quality: 35
 
 secured: "AtDnweFLJPwzDyNXkGJZ0YUUZzuZ7cIisgxhBwVt1STHjaAMnN1LWDjPfQQUSiDdy0x4Hp9lC02a+GwpeQ17xL1L57nYooQvus9tVIL40f5Dtcf7Ez6GITK2NPHloBHz7cHpaMO4C4bpykfddASNedyoomLG0x18CqPPfp/0OWuAqz61pYBSiXoDa7siThVBDA9zOv0f1Qq5PhuiSZCygMdhmcQ1MVdnoKBcXqsKBMua6SfnbNE4gQnbzWGaXfI3xyVnmGMOI7s+vEtfYNRlunqmjS9IBhB+dKwFPoqMgbzbTeuyAHXea9YinXJE/zJc0Fq+Ac26XSGiPWVeIgqU3JyTI3eJM4TXGEKkPLp8/WjVgLuxqznEN/DW0rWwhnYA2tmgzBFSUwHW2L9uGLAfJ1TV5CfdhQWSfvchNr9s8MTMEjVOqIfwuguj2pRzkJFP+00ERreOyWqdDTVHlJSKzBodlZCemMSdlv8LG9cBno6qybWjlzD3Jwe82G4qySnMQjgMYa1pgwJrbJ9TKLs9tQ==;kV00w+ypXZd7hv4vmm2sPQ=="

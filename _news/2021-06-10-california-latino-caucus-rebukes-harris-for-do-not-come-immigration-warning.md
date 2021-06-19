@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/california-latino-caucus-rebuke-har
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-latino-caucus-rebuke-harris-for-immigration-warning-do-not-come.amp"
 type: article
 quality: 182
-heat: 222
+heat: 202
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Democratic Rep. Cuellar urges Kamala Harris to visit border amid immigration crisis"
-    excerpt: "Rep. Henry Cuellar, D-Texas, invited Vice President Harris to his district to visit the U.S.-Mexico border and warned the \"situation on the border will only worsen.\""
-    publishedDateTime: 2021-06-16T19:53:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/REruQkdx9Hg/cuellar-kamala-harris-border-visit-migrant-crisis"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Henry-Cuellar-Harris-GETTY-AP.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Tucker: Latin Americans tell Kamala Harris to 'buzz off'"
     excerpt: "Imagine being Kamala Harris. You take your first big trip south of the border to what we used to call the developing world and you're pretty excited about it because you know that as a licensed person of color,"
     publishedDateTime: 2021-06-10T12:08:00Z

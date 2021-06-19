@@ -1,16 +1,16 @@
 ---
 category: news
-title: "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report"
-excerpt: "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region."
-publishedDateTime: 2021-06-18T10:09:24Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report"
-ampWebUrl: "https://www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
+title: "Dem Rep. Cuellar says he has not heard from VP Harris on border visit"
+excerpt: "Democratic Rep. Henry Cuellar on Saturday said he had not heard from the office of Vice President Kamala Harris after he invited her to visit to the southern border -- while suggesting the administration’s policies were at least partly to blame for the crisis."
+publishedDateTime: 2021-06-19T21:06:09Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-kNPFcq-BNg/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-kNPFcq-BNg/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit"
+ampWebUrl: "https://www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp"
 type: article
-quality: 180
-heat: -1
-published: false
+quality: 185
+heat: 305
+published: true
 
 provider:
   name: Fox News
@@ -26,25 +26,25 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86642280-7e76-4629-89c6-1176b5be4f98/6ea2cf6f-4d47-4e3c-8420-f9e6eaf3a19e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed761222-cc08-4aaf-95cf-1b634bbb1f85/5383d477-226d-41c0-9cf6-66a562bcd30f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
 
 related:
-  - title: "Dem Rep. Cuellar says he has not heard from VP Harris on border visit"
-    excerpt: "Democratic Rep. Henry Cuellar on Saturday said he had not heard from the office of Vice President Kamala Harris after he invited her to visit to the southern border -- while suggesting the administration’s policies were at least partly to blame for the crisis."
-    publishedDateTime: 2021-06-19T21:06:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-kNPFcq-BNg/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp"
+  - title: "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report"
+    excerpt: "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region."
+    publishedDateTime: 2021-06-18T10:09:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 180
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed761222-cc08-4aaf-95cf-1b634bbb1f85/5383d477-226d-41c0-9cf6-66a562bcd30f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86642280-7e76-4629-89c6-1176b5be4f98/6ea2cf6f-4d47-4e3c-8420-f9e6eaf3a19e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -127,6 +127,6 @@ related:
         height: 628
         isCached: true
 
-secured: "SmIIbPYOij7pmWdeOOGAbb6mBqOu/hY8CmyiKwHaFh0jkhzXl+BfI0Lzyp8efApQKBtPCwC8nZed7fNURfXdXTb7iuFmme8ZR5r/V+cZZhkJ1AYHzSA7jLGkb3AqXI2VxPcVFfItS9ISexuLObKb3sJMn9NYHPAcC2QWx7Vle/vL4zg5oXCLFJeHU1UwnPsVg3k69dd8BOGv+PgQNA77USDVl7Bs3/krQ0a14HCtNP9Io9YMbzKL/9x9ABU5wPX/plLwFqlNNVxA1MoMamXxYQRpUjztuo3X6PUOJIMQELAoMNMF3vpfrDk2jP5/UCzKhQVg7OhrEIAChalBOrFFJn+cMlxh8BrzHZxr4Bj2LAs=;Te/MTeq2GFS83pk5IqRJcA=="
+secured: "7bGFV9wRMUtchCBPrbb2A7CkAGSLVi1dLQ8me+YwBoegAHmKDr+uVJumt1T9iZHElUossXjc6KldWOCOuYjoU2ZwJby8x0QvAuGkurt7G5QvbLPCH1d0u4dP/ZlcloCIfwVs4a4QNPXZkk5JNtj3prHxeEMirx3cXZLYLTDrfQvYqirGKLri7h+h6KxVry1J265Z8o24OzQETat8R/n9T6UVKdz621AKQpMp/CR27JTrefy5eRbue5+DcG4pm2x1Bxvvi4JRx8VBhkwRa6SqdL7O6AzO5Ue4y/u7cJcHQcFq4isxiKi9O3M9ZiOMqTKIseEQjrd6O+h9jn+eLz0pbNzbscyKA/xfYPLxrVmoUTw=;ws1krwIA7vWic23l6oE4ew=="
 ---
 

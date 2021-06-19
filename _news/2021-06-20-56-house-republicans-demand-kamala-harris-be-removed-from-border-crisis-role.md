@@ -1,34 +1,30 @@
 ---
 category: news
-title: "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report"
-excerpt: "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region."
-publishedDateTime: 2021-06-18T10:09:24Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report"
-ampWebUrl: "https://www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
+title: "56 House Republicans demand Kamala Harris be removed from border crisis role"
+excerpt: "Torrents of migrants flooding the US-Mexico border have created one of the most pressing challenges of Biden’s presidency and Harris has been tapped with solving the problem."
+publishedDateTime: 2021-06-19T20:27:00Z
+originalUrl: "https://nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/"
+webUrl: "https://nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/"
+ampWebUrl: "https://nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/amp/"
 type: article
-quality: 180
+quality: 132
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86642280-7e76-4629-89c6-1176b5be4f98/6ea2cf6f-4d47-4e3c-8420-f9e6eaf3a19e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-harris-border-patrol-73.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -48,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report"
+    excerpt: "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region."
+    publishedDateTime: 2021-06-18T10:09:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86642280-7e76-4629-89c6-1176b5be4f98/6ea2cf6f-4d47-4e3c-8420-f9e6eaf3a19e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Democratic Rep. Cuellar urges Kamala Harris to visit border amid immigration crisis"
     excerpt: "Rep. Henry Cuellar, D-Texas, invited Vice President Harris to his district to visit the U.S.-Mexico border and warned the \"situation on the border will only worsen.\""
     publishedDateTime: 2021-06-16T19:53:08Z
@@ -61,22 +73,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Henry-Cuellar-Harris-GETTY-AP.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "56 House Republicans demand Kamala Harris be removed from border crisis role"
-    excerpt: "Torrents of migrants flooding the US-Mexico border have created one of the most pressing challenges of Biden’s presidency and Harris has been tapped with solving the problem."
-    publishedDateTime: 2021-06-19T20:27:00Z
-    webUrl: "https://nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/"
-    ampWebUrl: "https://nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-harris-border-patrol-73.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’"
     excerpt: "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show."
@@ -127,6 +123,6 @@ related:
         height: 628
         isCached: true
 
-secured: "SmIIbPYOij7pmWdeOOGAbb6mBqOu/hY8CmyiKwHaFh0jkhzXl+BfI0Lzyp8efApQKBtPCwC8nZed7fNURfXdXTb7iuFmme8ZR5r/V+cZZhkJ1AYHzSA7jLGkb3AqXI2VxPcVFfItS9ISexuLObKb3sJMn9NYHPAcC2QWx7Vle/vL4zg5oXCLFJeHU1UwnPsVg3k69dd8BOGv+PgQNA77USDVl7Bs3/krQ0a14HCtNP9Io9YMbzKL/9x9ABU5wPX/plLwFqlNNVxA1MoMamXxYQRpUjztuo3X6PUOJIMQELAoMNMF3vpfrDk2jP5/UCzKhQVg7OhrEIAChalBOrFFJn+cMlxh8BrzHZxr4Bj2LAs=;Te/MTeq2GFS83pk5IqRJcA=="
+secured: "VqVeKIxvQnaXEdlxlzjL7GGfAOBZLqRyv+usP7HOnyz/EtQM9yims/EWy/VulYrv7xBJNE+oSVVjfCKXgeck3ZlbigPVpYMiMmQZ2/7JiOQ6bEyLWyCgmJf4u6kwvrHrYmaQW6q/TBGbD26P2NDcT/wyDx/c2hjY2Vwidg98HSATQ4fzT4nLBmXoH/T71O2+2cdklxlwUjuN0FyypWYFNN2zKGQeOOE06KVg48duPFzMAqS+O2CzysRmdcIMGOnVMwCh008oATNS4V8d7MwVKf5FecXVVMkt1lDSPeGDThkqe4wACGAJboL6/qyAAjknVobP41hexGXmTjSw26fhDAYDxZ0RDtnjrOXwNcZBTD4=;LVdSSqEHvFexlhyqQtuCuw=="
 ---
 

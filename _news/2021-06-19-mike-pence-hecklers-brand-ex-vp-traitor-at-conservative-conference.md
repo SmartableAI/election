@@ -3,18 +3,22 @@ category: news
 title: "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference"
 excerpt: "Former US Vice-President Mike Pence has been branded a \"traitor\" by hecklers during a speech at a conference for religious conservatives. Mr Pence faced jeers as he addressed the Faith and Freedom Coalition in Orlando,"
 publishedDateTime: 2021-06-19T15:24:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611"
-webUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611"
-ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57540611.amp"
+originalUrl: "https://www.bbc.com/news/world-us-canada-57540611"
+webUrl: "https://www.bbc.com/news/world-us-canada-57540611"
+ampWebUrl: "https://www.bbc.com/news/world-us-canada-57540611.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp"
 type: article
-quality: 75
-heat: -1
-published: false
+quality: 125
+heat: 325
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -59,8 +63,8 @@ related:
         isCached: true
   - title: "Mike Pence heckled with chants of ‘traitor!’ at conservative Christian conference – live"
     excerpt: "Former vice-president jeered at Faith & Freedom summit in Florida – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-18T17:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccdff08f08f352987561b7"
+    publishedDateTime: 2021-06-18T17:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60cce20b8f0812e6253f6ba4"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
     type: article
@@ -163,6 +167,6 @@ related:
       domain: c-span.org
     quality: 33
 
-secured: "02CWHXLIu6IBdUX4SZOVSVbxvb8YfMvsCD92AaInQLnrRzVDdeYNcNx2hLmTM4xVMkmWRaGCxma9k/gYuL9ulpWTePmc9mAp7xgx4+H0ReEL1FjSVjmLXdHg6RJ2SThyJt//QfzeC9D4BeDzPNyGdB4wsuyrhsbNb90whsys4H/p60sINgbLb5AK9S7mLBcBVIuxFHpf8HVssgWwkmnmG5NDwTUfe/g7UCH7s9ImZ7y5A0CUyAwtMoeN/PIJiZU8Ggc1YLZ9LotVVmBuU1mRAF6KS1oolt1VhV2ffZDDb79q7oYpm5BPOwX0s7QmHdPWDc/5S6nXI4BFQk7ZXmfLScsVUn+8GHxf8t/ePqEEMaw=;jlibBOP3BpjeZ0HiTqU6ag=="
+secured: "8yKlbZkDQ8WCggSgq0qabuy4K9cbOIdhhWsAvl6t7Nvl+qyG6YEdL9yWvIg7lRDmxzdM9N20Kd+PLXLBIUQKzvPNycGxugwk1ADyP3QcSyqEiIMTuKwqFl5Dr4okVjgtjQcRWxs16oimMkHBHs8Iod2xcptUVFIHLZyrjQN220wF0nzQ/EU4duAbCQUjpNqdnOZEj13Tt2BxtWjvw8ZWDEFR4+6B0JsF2ldOiL9A7ORqs3r7txQT8o5lyXiAl4/R0w6japLwBs2MoemEZSMpw2NwSxjb0kDGTsskn+m8oFFwdl1vjRNvST40VhR36+kg8WJZyEu8btApNgotqo+hs5coBntccahGPVqOgpPajR0=;CyObmXw8DlaweOugf6kJ6A=="
 ---
 

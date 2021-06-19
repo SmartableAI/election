@@ -28,6 +28,22 @@ images:
 
 related:
   - title: "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference"
+    excerpt: "Former US Vice-President Mike Pence has been branded a \"traitor\" by hecklers during a speech at a conference for religious conservatives. Mr Pence faced jeers as he addressed the Faith and Freedom Coalition in Orlando,"
+    publishedDateTime: 2021-06-19T15:24:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57540611"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57540611.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference"
     excerpt: "Former US Vice-President Mike Pence has been heckled during a speech at a conference for religious conservatives. Some audience members yelled \"traitor\" and \"freedom\" as he addressed the Faith and Freedom Coalition in Orlando,"
     publishedDateTime: 2021-06-19T17:16:00Z
     webUrl: "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
@@ -59,8 +75,8 @@ related:
         isCached: true
   - title: "Mike Pence heckled with chants of ‘traitor!’ at conservative Christian conference – live"
     excerpt: "Former vice-president jeered at Faith & Freedom summit in Florida – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-18T17:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccdff08f08f352987561b7"
+    publishedDateTime: 2021-06-18T17:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60cce20b8f0812e6253f6ba4"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
     type: article
@@ -68,22 +84,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 96
-  - title: "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference"
-    excerpt: "Former US Vice-President Mike Pence has been branded a \"traitor\" by hecklers during a speech at a conference for religious conservatives. Mr Pence faced jeers as he addressed the Faith and Freedom Coalition in Orlando,"
-    publishedDateTime: 2021-06-19T15:24:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57540611.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Mike Pence jeered as ‘traitor’ at a conservative religious conference"
     excerpt: "Former Vice President Mike Pence was taunted as a “traitor” by audience members at a Faith & Freedom Coalition event in Florida on Friday, where he prided himself as a “Christian, a conservative, and a Republican in that order."
     publishedDateTime: 2021-06-18T23:08:00Z
