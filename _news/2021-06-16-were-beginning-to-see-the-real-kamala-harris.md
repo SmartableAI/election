@@ -3,8 +3,8 @@ category: news
 title: "We're Beginning to See the Real Kamala Harris"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2021-06-16T02:59:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/16/were_beginning_to_see_the_real_kamala_harris_545134.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/06/16/were_beginning_to_see_the_real_kamala_harris_545134.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/06/16/were_beginning_to_see_the_real_kamala_harris_545134.html"
+webUrl: "https://www.realclearpolitics.com/2021/06/16/were_beginning_to_see_the_real_kamala_harris_545134.html"
 type: article
 quality: 65
 heat: -1
@@ -190,6 +190,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "NXIbT/0iwCmKuiedSJZr7HB0XRYGwe93D/qWvNY+93AXLxZ8BnzBGwGsdH8N4+QPKKeMnY2T4Hh9QjiKds1JsBys9c+jsFFsttGYtgbyiV81o8kOKzZzjJ5H1zraGHJpnK7PvgaRkD1DlhXch2nxAXdlOx09XgkTul5amPl3aoBfHk4zBXRCl5g9YOdXWS3s3NjCIM5s7oAkLNHR430KEKjDCEW3ducNSQpG0hy/x0FZxSJTv62eAvWzWccwB9CZufZk8Z1cFoEi/5/h6Bn/ASpBAPm1MSqSPcSSck+VCCCepXK2u9O0bcUSfaK/8UWXJcVvLmStUOcf4hB8wdHKoTJe1O2y7xz1hZZPuJvvQRxJxwvxhoOn7of/yxK+h6XccVtsSTFTlf+AGyFtpDBDzGQi4fYnMDXASeT5gUqaX3Ln/rmZK39bAsZMOI2xy+lJaMGOTwdm6Lf/vlE5c8VNJVEhVbaJYYlfcUFd34ilOv0W9Kj9IYGfSxbvssQuJ+M2aKZYs9PrPMiw5Wtdml5nQw==;W634DqIXrBdmUWGoCaJ1yA=="
+secured: "VJd8sOGo6m+iJ5MUl8CmDVdTi0pma0QkJlepMkdKRejhQF+JUWfDplFQkvpFDG6djr60LPINAILYnDzoBQ5UFP2SvfyUgXZeCEK9hS+5Mh1erYrIuVqpV7x4GbzzrjhediUa4QqmbCG/z0q8NMN8zxg3P/mp1pXjrcwpS24x6+CdBSiK+iuaf05FIF05AqPqnAclUA4Hexmu1jrsUekEK7n8TsHyQX0lCrZUicZtpmC4ULB1z/IkOMU6tpVbTvJlQTJ8oF4cZyok0l5QgqukiWu+h8BHH3pQD8/FiN0vtlUfP4lw+sIfEEsG4ElLFGWOahbLTaq3Y2GGp4PqV172N5VQM5LXEFicO6WDlyTOybw=;wrOMTXdJUzV2JUjXb2lh8g=="
 ---
 
