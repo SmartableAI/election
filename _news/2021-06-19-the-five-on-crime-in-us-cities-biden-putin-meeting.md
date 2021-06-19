@@ -222,6 +222,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "‘Your World’ on infrastructure, Biden-Putin meeting"
+    excerpt: "Guests: Alveda King, Jennifer Griffin, David Spunt, Gillian Turner, Terry Virts, Sarah Westwood, Stephen Moore, Rebeccah Heinrichs, Jenna Arnold, Chris Cabrera, Nancy Mace"
+    publishedDateTime: 2021-06-18T18:06:00Z
+    webUrl: "https://www.foxnews.com/transcript/your-world-on-infrastructure-biden-putin-meeting"
+    ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-infrastructure-biden-putin-meeting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-infrastructure-biden-putin-meeting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74156a60-f109-4fe2-8ddf-30d0d711edb3/773bb149-a8c3-474e-9000-bb9de04878fd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Media ignores Biden's attack against GOP while abroad after shredding Trump for violating political norm"
     excerpt: "Mainstream media outlets came under fire Monday night for ignoring President Biden's attack against former president Donald Trump and Republicans during a press conference in Brussels, despite ripping Trump in 2019 for waging a political attack of a similar nature overseas."
     publishedDateTime: 2021-06-15T00:40:00Z

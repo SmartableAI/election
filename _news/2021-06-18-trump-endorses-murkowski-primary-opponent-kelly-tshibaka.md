@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-murkowski-primary-op
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Trump backs Murkowski challenger, says GOP incumbent has ‘got to go’"
+    excerpt: "Former President Donald Trump endorsed Alaska Republican Senate candidate Kelly Tshibaka Friday, saying the GOP incumbent Lisa Murkowski “has got to go!”"
+    publishedDateTime: 2021-06-19T00:23:00Z
+    webUrl: "https://nypost.com/2021/06/18/trump-backs-murkowski-rival-says-gop-incumbent-has-got-to-go/"
+    ampWebUrl: "https://nypost.com/2021/06/18/trump-backs-murkowski-rival-says-gop-incumbent-has-got-to-go/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/18/trump-backs-murkowski-rival-says-gop-incumbent-has-got-to-go/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-Tshibaka-split-comp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "yU/GR3J3E5KnEw+WjADj8jcYCmHtGXkdc+/eEc3mKflw3BICdcvtyLsBdkmMSUpip1pGnsaJ/luGJlDyNiXxdrg9TsG8B4BgmJOwH1YSTVFZGSdUb6am8XjewmpugNRJkHLE+KRZb4klGn8p9Fy2kzo7E/5YvGaiBjb5rCPF1Ag+VPkSWPiflDddTL46XzY103HvTi9RXKXHGfnLVe4HB3w7IcCyMRoVIEvmUJZd4UN1gmRsRWWAeeZ7qt2ku2uhiqa7qvAtocgu2aDPJSZ79X549eDA4gvFHCgc9gCx1EfpXsHanTXCVyj6dYjCTPw4GIunermpV87hUO0IjwxrCvYn5us2EjLZOdjjlMgs9Ow=;5szALerJyAXDw0JTJi1ZmA=="
 ---

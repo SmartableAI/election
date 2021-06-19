@@ -43,8 +43,8 @@ related:
         isCached: true
   - title: "Mike Pence heckled with chants of ‘traitor!’ at conservative Christian conference – live"
     excerpt: "Former vice-president jeered at Faith & Freedom summit in Florida – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-18T17:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccba168f087e657d9e723b"
+    publishedDateTime: 2021-06-18T17:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccc31a8f0812e6253f6950"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
     type: article
@@ -70,18 +70,36 @@ related:
         isCached: true
   - title: "Mike Pence blasts Biden and Democrats but also heckled as ‘traitor’ at Orlando evangelical conference"
     excerpt: "A slate of more than a dozen prominent conservatives lambasted Democrats as pushing America toward socialism, blasted “The Squad,” and called on evangelical voters to deliver Republicans back into majorities in Congress in 2022."
-    publishedDateTime: 2021-06-18T18:39:00Z
-    webUrl: "https://www.orlandosentinel.com/politics/os-ne-cruz-scott-rubio-pence-20210618-3oxcnwp2yneyvnienvvfhnl3t4-story.html"
+    publishedDateTime: 2021-06-18T19:11:00Z
+    webUrl: "https://www.sun-sentinel.com/news/politics/os-ne-cruz-scott-rubio-pence-20210618-3oxcnwp2yneyvnienvvfhnl3t4-story.html"
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
+      name: Sun Sentinel
+      domain: sun-sentinel.com
     quality: 55
     images:
-      - url: "https://www.orlandosentinel.com/resizer/916BC-RgjY0ILBeKqIGF35rOVVM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WDH7ASDDURB2VCRJDWQ3XZTOQQ.jpg"
+      - url: "https://www.sun-sentinel.com/resizer/916BC-RgjY0ILBeKqIGF35rOVVM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WDH7ASDDURB2VCRJDWQ3XZTOQQ.jpg"
         width: 1200
         height: 679
         isCached: true
+  - title: "Mike Pence Remarks at Faith and Freedom Conference in Florida"
+    excerpt: "2021-06-18T13:30:36-04:00https://images.c-span.org/Files/03f/20210618133830011_hd.jpgFormer Vice President Mike Pence delivers keynote remarks at the 2021 Faith and Freedom Conference in Kissimmee, Florida. At the beginning of his remarks he is heckled ..."
+    publishedDateTime: 2021-06-18T00:01:00Z
+    webUrl: "https://www.c-span.org/video/?512749-1/mike-pence-heckled-calls-traitor-faith-freedom-conference"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Mike Pence Heckled with Calls of \"Traitor\" at Faith and Freedom Conference"
+    excerpt: "Former Vice President Mike Pence is heckled with calls of \"traitor\" at the Faith and Freedom Conference in Kissimmee, Florida."
+    publishedDateTime: 2021-06-18T00:00:00Z
+    webUrl: "https://www.c-span.org/video/?c4967276/mike-pence-heckled-calls-traitor-faith-freedom-conference"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 33
 
 secured: "ZK/czVtvLiqGQlVuFkSq/alxCMKDWRDLFxMywxK6X8/RvKEFBA4I/52GLYRyWZ1kR4L24Gd61DSC9HXZLiFo/LByVbMt357Ig4Iv794mfl+aN4itAOXJWrTCRF2R6sxsSgBZbUdZwd1PQy4LiBJ5Werz0CUjzJFrMvNWN9i9+uiVfu5OBX55fZo9u4uHqxJyud2jjlpVNol3Pwccm0aMRaHcUWHZ7SDGAOyWHhQcwatz2FMgdPx/2b7P0Lr0QDoHZDEH3D/GxQxJSM+60l5YzoP8evNiyizGJpe4ZfO1HTVj7UbmUUXKAxlheLVUyHXtRBy8m8ldTN8lFNbvbYUgXT5BjPXqefiyLRlo914aeMxuX9V2W1KngX5KhthFTh7giucXXL10VM55k6FQlLx6xc2pyuyiCdFfiPvcMLwXoj4xBpoo0MiGFg/CZFH+VxMXKYuJWdu+/RRTbC4ims47dIqla6rawHOxj5uDmai/U6/O7qrwpPuJgCDfzY5ckC9NtTyXTGjcysV2oIvjj+Zv3w==;2ZUUiNF+VTMF4LgGLCQd6g=="
 ---

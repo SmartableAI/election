@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-19-obamas-land-management-director-says-biden-nominee-should-be-disqualified-over-tree-spiking-plot.md",
+      "title": "Obama's Land Management director says Biden nominee should be disqualified over tree spiking plot",
+      "excerpt": "President Biden's nominee to lead the Bureau of Land Management (BLM) Tracy Stone-Manning received a stamp of disapproval from the agency’s director under former President Barack Obama over her involvement in a tree spiking plot decades ago.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C1BXUCU-aac/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C1BXUCU-aac/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc4e73ac-443a-42d0-8315-2a15e6cd7c8e/39463eaf-815f-4b06-923a-ad953299b0e7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot.amp",
+      "publishedDateTime": "2021-06-18T18:23:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-biden-says-the-us-will-not-enter-lockdown-despite-covid-delta-variant-threat.md",
       "title": "Biden says the US will not enter lockdown despite COVID delta variant threat",
       "excerpt": "President Biden on Friday said the United States will not enter another \"lockdown,\" despite the \"serious and deadly threat\" of the delta variant of COVID-19, while touting the 300 million COVID-19 shots administered to Americans in less than 150 days.",
@@ -182,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -199,62 +255,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
       "publishedDateTime": "2021-06-18T11:06:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-biden-admin-sending-f-you-message-with-string-of-family-related-hires-obama-ethics-chief.md",
-      "title": "Biden admin sending 'F--- you' message with string of family-related hires: Obama ethics chief",
-      "excerpt": "Walter Shaub, Obama’s director of the Office of Government Ethics, tore into the Biden administration’s hiring process in a Twitter thread citing an article about the family of top administration officials getting jobs in the federal government.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XmoZvWpSgxw/biden-administration-family-hires-richetti",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XmoZvWpSgxw/biden-administration-family-hires-richetti",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21166471478931.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T09:28:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1064,62 +1064,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-16-biden-land-management-nominee-collaborated-with-eco-terrorists-traded-testimony-for-immunity.md",
-      "title": "Biden Land Management nominee 'collaborated with eco-terrorists,' traded testimony for immunity",
-      "excerpt": "In 1993, Biden’s nominee to head up BLM, Tracy Stone-Manning, was granted legal immunity for her testimony that she retyped and sent an anonymous letter to the U.S. Forest Service on behalf of John P. Blount, her former roommate and friend, according to documents obtained by Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3k7xn5bn1nk/biden-blm-nominee-eco-terrorists",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3k7xn5bn1nk/biden-blm-nominee-eco-terrorists",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Stone-Manning.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T07:37:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-16-gop-rep-pushes-biden-admin-to-ensure-va-doesnt-start-providing-abortions-calls-dems-party-of-death.md",
       "title": "GOP rep pushes Biden admin to ensure VA doesn't start providing abortions, calls Dems 'party of death'",
       "excerpt": "More than 130 Republicans, led by Rep. Matt Rosendale, signed onto a letter to Veterans Affairs (VA) Secretary Denis McDonough asking him to provide assurances that the VA won't attempt to change its rules to provide abortion or abortion-related services under the new administration.",
@@ -1637,6 +1581,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp",
       "publishedDateTime": "2021-06-14T14:50:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-mcconnell-says-hell-block-bidens-supreme-court-nominee-in-2024-if-gop-controls-senate.md",
+      "title": "McConnell says he'll block Biden's Supreme Court nominee in 2024 if GOP controls Senate",
+      "excerpt": "Senate Minority Leader Mitch McConnell said Monday that he would block a Supreme Court nominee from President Biden in 2024 if Republicans are in the Senate majority – just as he did in 2016 after the death of late Justice Antonin Scalia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TkwdNsSZu5k/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TkwdNsSZu5k/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate.amp",
+      "publishedDateTime": "2021-06-14T09:44:40-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

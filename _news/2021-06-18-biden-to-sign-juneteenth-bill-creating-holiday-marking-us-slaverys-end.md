@@ -109,6 +109,20 @@ related:
         width: 3000
         height: 1999
         isCached: true
+  - title: "Biden's abortion views may be scolded by U.S. bishops"
+    excerpt: "News Agency Biden's abortion views may be scolded by U.S. bishops. Posted . A divided conference of U.S. Roman Catholic bishops announced on Friday that they had voted to draft a"
+    publishedDateTime: 2021-06-18T22:37:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEHXOC7Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210618&i=OVEHXOC7Z&r=OVEHXOC7Z&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Biden to sign bill making Juneteenth, commemorating the end of slavery, a federal holiday"
     excerpt: "President Joe Biden is set to sign a bill Thursday afternoon making Juneteenth a federal holiday commemorating the end of slavery in the United States -- just in time for Saturday's June 19 anniversary."
     publishedDateTime: 2021-06-17T23:28:00Z

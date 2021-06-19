@@ -7,8 +7,8 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3k7xn5bn1nk/biden-
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3k7xn5bn1nk/biden-blm-nominee-eco-terrorists"
 type: article
 quality: 143
-heat: 143
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -27,6 +27,38 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Obama's Land Management director says Biden nominee should be disqualified over tree spiking plot"
+    excerpt: "President Biden's nominee to lead the Bureau of Land Management (BLM) Tracy Stone-Manning received a stamp of disapproval from the agency’s director under former President Barack Obama over her involvement in a tree spiking plot decades ago."
+    publishedDateTime: 2021-06-19T01:23:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C1BXUCU-aac/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot"
+    ampWebUrl: "https://www.foxnews.com/politics/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc4e73ac-443a-42d0-8315-2a15e6cd7c8e/39463eaf-815f-4b06-923a-ad953299b0e7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden admin sending 'F--- you' message with string of family-related hires: Obama ethics chief"
+    excerpt: "Walter Shaub, Obama’s director of the Office of Government Ethics, tore into the Biden administration’s hiring process in a Twitter thread citing an article about the family of top administration officials getting jobs in the federal government."
+    publishedDateTime: 2021-06-18T16:28:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XmoZvWpSgxw/biden-administration-family-hires-richetti"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21166471478931.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "3AhhqXceEOQVlN9JRaT+/PQ942QfnQ3XzskDfbux4gOyvfBbiQ7JWK6KKZ3/P6TcRm2/iGD+HbeeXnV4/oKcqH9rgqen2aJ89nbySCQuI8ktP2EPo9NenIsIa3066z8oWBfX3G0s/UF4mDh6+1pesfMC2rdHI6vLTdF+djnrkywDAVkqS51BeVyfPuQYIgztsy8peu0jXNGg06X+PXJTnzJ3x8BhCLZHSxILgtFD4FHhgdh9jE8HRzYl/YtpkAdNNomHVku/0clxeCCNQu9Z89PHufDWXAjOc5f75BWJKf/7VavfNjUVHN4u/fmIAwvlVe5ltPpg/F9OFMr6CezlbJpJYFFMh7IPsc2bUA+mqcI=;/DnDNX3WqJYYkLi8N41vag=="
 ---

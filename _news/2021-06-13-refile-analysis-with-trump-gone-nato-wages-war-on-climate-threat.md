@@ -1040,20 +1040,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Man pleads guilty to shooting Black girl at Iowa Trump rally"
-    excerpt: "A supporter of former President Donald Trump has pleaded guilty to felony charges for firing his handgun into a carful of Black girls who were arguing with pro-Trump agitators near the Iowa Capitol last December,"
-    publishedDateTime: 2021-06-18T02:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/breakingnews/story/2021/jun/17/man-pleads-guilty-shooting-black-girl-iowa-trump-rally/548837/"
-    type: article
-    provider:
-      name: Times Free Press
-      domain: timesfreepress.com
-    quality: 55
-    images:
-      - url: "https://media.timesfreepress.com/img/photos/2021/06/17/ap211685407925999689617375_t1070_h05ed6a66af78a0517a9025eafb2327a9e0cdab1b.jpg"
-        width: 1070
-        height: 712
-        isCached: true
   - title: "How Donald Trump Celebrated First Birthday Since Leaving White House: Report"
     excerpt: "Former President Donald Trump celebrated his first birthday since leaving the White House with his son, Donald Trump Jr., at his golf club in Bedminster, New Jersey."
     publishedDateTime: 2021-06-16T04:49:00Z

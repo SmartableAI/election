@@ -2,9 +2,9 @@
 category: news
 title: "Mike Pence heckled with chants of ‘traitor!’ at conservative Christian conference – live"
 excerpt: "Former vice-president jeered at Faith & Freedom summit in Florida – follow all the day’s politics news live"
-publishedDateTime: 2021-06-18T17:33:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccba168f087e657d9e723b"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccba168f087e657d9e723b"
+publishedDateTime: 2021-06-18T17:53:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccc31a8f0812e6253f6950"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccc31a8f0812e6253f6950"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 type: article
@@ -73,19 +73,37 @@ related:
         isCached: true
   - title: "Mike Pence blasts Biden and Democrats but also heckled as ‘traitor’ at Orlando evangelical conference"
     excerpt: "A slate of more than a dozen prominent conservatives lambasted Democrats as pushing America toward socialism, blasted “The Squad,” and called on evangelical voters to deliver Republicans back into majorities in Congress in 2022."
-    publishedDateTime: 2021-06-18T18:39:00Z
-    webUrl: "https://www.orlandosentinel.com/politics/os-ne-cruz-scott-rubio-pence-20210618-3oxcnwp2yneyvnienvvfhnl3t4-story.html"
+    publishedDateTime: 2021-06-18T19:11:00Z
+    webUrl: "https://www.sun-sentinel.com/news/politics/os-ne-cruz-scott-rubio-pence-20210618-3oxcnwp2yneyvnienvvfhnl3t4-story.html"
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
+      name: Sun Sentinel
+      domain: sun-sentinel.com
     quality: 55
     images:
-      - url: "https://www.orlandosentinel.com/resizer/916BC-RgjY0ILBeKqIGF35rOVVM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WDH7ASDDURB2VCRJDWQ3XZTOQQ.jpg"
+      - url: "https://www.sun-sentinel.com/resizer/916BC-RgjY0ILBeKqIGF35rOVVM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WDH7ASDDURB2VCRJDWQ3XZTOQQ.jpg"
         width: 1200
         height: 679
         isCached: true
+  - title: "Mike Pence Remarks at Faith and Freedom Conference in Florida"
+    excerpt: "2021-06-18T13:30:36-04:00https://images.c-span.org/Files/03f/20210618133830011_hd.jpgFormer Vice President Mike Pence delivers keynote remarks at the 2021 Faith and Freedom Conference in Kissimmee, Florida. At the beginning of his remarks he is heckled ..."
+    publishedDateTime: 2021-06-18T00:01:00Z
+    webUrl: "https://www.c-span.org/video/?512749-1/mike-pence-heckled-calls-traitor-faith-freedom-conference"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Mike Pence Heckled with Calls of \"Traitor\" at Faith and Freedom Conference"
+    excerpt: "Former Vice President Mike Pence is heckled with calls of \"traitor\" at the Faith and Freedom Conference in Kissimmee, Florida."
+    publishedDateTime: 2021-06-18T00:00:00Z
+    webUrl: "https://www.c-span.org/video/?c4967276/mike-pence-heckled-calls-traitor-faith-freedom-conference"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 33
 
-secured: "mb7D1GiW9ZaztNrgUZpBnUiwmD8VOnWPFNiba1ZntvSk60FZfzfp/utE/VkVRMS87Oj29rpqR0FfiAw3U2PetRq6PsgeC9SRIrrMAUSOI2CMLkIM/IpZsiKsfXAHcoflJjEdlYO5TAISzBBRZ6ewQgZQwUyMJ9tU6eXQsEQjZ0lUmnmnQm9jFwIRFZFhvFBagcL3805prBgpWTpLR4k7IwUhOPEQDm+xEKh7Zs08aLJv7+qABGbJQXLKgZYfoTUC5yslqtWr6kFqTwSr+V/LHut8AXffFZJ6/BA4wyP8BN2w1budjEogAe/FZZak3r0ddI5o2+AI3/Q3MT0N7ydh54h1qkx2uPusrIbHZ/kEsWpFHLeLwotqWGNfaHEkCITGVqmRk6ZmcxTZ1lKnjpcrgyjJvmCZXf+uwuztxyLfn/plwFGPObi+Hs+l2GOW8lEttld7SZnsFnLWv0yJ3gVvBVaNGlGHS1fcZkxZIHLFO3C/L10a9JwrRPd9jn6W2qDU2Q043FMT9XqCehXtnZWvpA==;l1hf4R27ussGIfFdJCDpPw=="
+secured: "/UVgJpOX/b+9mTF/bp4C8hyQbpngCeqKaHKF2saPsKZjpPy6x4yktk8D5abUrW19Vhh4tRWqk5k8w9l4dAHg4Zgah/WLg8yXRXK48Y+rN/LvMPOt4d7eF8xULPlfSCXYSU7Oamhr29KDO8eEcXfOYytdXL9r+8bxh6KEotbyvkbkvSOPm6BNUBE/QZP7iLdtILkd4BZSlyE/6EPtVtWGnynbaD/rOn+NH0Kat4yJGbktTS8PvNkgUqW3pS1Pq4LBYx5JPTGLhWXeoK5KenG73XUNT2+8xssGlAW3K4wat/gIWL4pucqfUf6c6UV1pFhs76e2nNk45BWEAxAyssw551IqP5SteL8lrVXFq2pPUzDnuc/LMw5CNJgaqU1LiU0saZyFehAfaL1+X5EHkykG4LPzc62vPTaW0Fx/TcuPizrqI/5zYiXlekf3OMva5pSVbZ/O9t3DbMlt1mcoRMf824QRx4HszDO3P9WmdVBI3kBsENGnt9OjLmzXp+VdPPl3kosyEDU0nhnLkgBw8EJ4mw==;Enlh8m2w+kFnGa+BI43pcA=="
 ---
 

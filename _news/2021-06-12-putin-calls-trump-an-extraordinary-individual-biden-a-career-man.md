@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/putin-trump-extraordinary-individua
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-trump-extraordinary-individual-biden-career-man.amp"
 type: article
 quality: 190
-heat: 550
+heat: 570
 published: true
 
 provider:
@@ -218,6 +218,22 @@ related:
     quality: 135
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f602b07-c9b4-4077-936a-5bba3ee5ee60/b05cff2d-0303-473c-b0bd-944f6dc3d3d7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "‘Your World’ on infrastructure, Biden-Putin meeting"
+    excerpt: "Guests: Alveda King, Jennifer Griffin, David Spunt, Gillian Turner, Terry Virts, Sarah Westwood, Stephen Moore, Rebeccah Heinrichs, Jenna Arnold, Chris Cabrera, Nancy Mace"
+    publishedDateTime: 2021-06-18T18:06:00Z
+    webUrl: "https://www.foxnews.com/transcript/your-world-on-infrastructure-biden-putin-meeting"
+    ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-infrastructure-biden-putin-meeting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-infrastructure-biden-putin-meeting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74156a60-f109-4fe2-8ddf-30d0d711edb3/773bb149-a8c3-474e-9000-bb9de04878fd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
