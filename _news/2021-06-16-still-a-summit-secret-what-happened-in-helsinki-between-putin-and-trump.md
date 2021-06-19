@@ -287,6 +287,22 @@ related:
         width: 3889
         height: 3023
         isCached: true
+  - title: "AP FACT CHECK: Putin's twisted tale on rival; Biden GOP jab"
+    excerpt: "President Joe Biden is back in the domestic fray after a week of diplomacy in Europe, capped by his meetings with Russian President Vladimir Putin"
+    publishedDateTime: 2021-06-19T13:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-putins-twisted-tale-rival-biden-78374259"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-putins-twisted-tale-rival-biden-78374259"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-putins-twisted-tale-rival-biden-78374259"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f466b996f9bc4f38b2cbd09ae03ff67a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "GOP lawmakers urge Biden to add sanctions on Russia over Navalny poisoning"
     excerpt: "The top Republican lawmakers with oversight of foreign affairs are raising concerns that President Biden is pulling his punches on Russian President Vladimir Putin, following their summit in Geneva on Wednesday."
     publishedDateTime: 2021-06-16T19:47:00Z

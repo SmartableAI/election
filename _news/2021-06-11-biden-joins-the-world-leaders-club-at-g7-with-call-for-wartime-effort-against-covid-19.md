@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "First on CNN: Biden administration moves to make gender confirmation surgery available through Veteran Affairs health care system"
+    excerpt: "Veterans Affairs Secretary Denis McDonough is moving to make gender confirmation surgery available to transgender veterans through Veterans Affairs health care coverage, according to a VA department spokesperson.\n    \n"
+    publishedDateTime: 2021-06-19T14:10:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cb3yWwYVzZ0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/veterans-affairs-gender-confirmation-surgery/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/veterans-affairs-gender-confirmation-surgery/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210619093848-denis-mcdonough-03-04-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "U.S. Supreme Court seeks Biden views on Harvard admissions dispute"
     excerpt: "The lawsuit accused Harvard of discriminating against Asian American applicants in violation of a landmark 1964 federal civil rights law."
     publishedDateTime: 2021-06-15T16:19:00Z
