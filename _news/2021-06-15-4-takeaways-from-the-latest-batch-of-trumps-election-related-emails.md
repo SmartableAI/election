@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html"
 type: article
 quality: 190
-heat: 550
+heat: 570
 published: true
 
 provider:
@@ -302,6 +302,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623453730685_nn_pwi_doj_leak_investigation_210611_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump's influence on Republicans faces key test in Michigan"
+    excerpt: "Democratic Gov. Gretchen Whitmer’s pandemic leadership remains under scrutiny, but Republicans who hope she loses in 2022 are still fighting 2020 battles."
+    publishedDateTime: 2021-06-19T08:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/trump-s-influence-republicans-faces-key-test-michigan-n1271298"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1271298"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271298"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_16/3310021/200415-michigan-protest-se-425p-3310021.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Top Trump officials pushed the Covid-19 lab-leak theory. Investigators had doubts."
     excerpt: "New documents and interviews show how the president and his senior aides cherry-picked evidence and sidelined the government’s own virus sleuths."

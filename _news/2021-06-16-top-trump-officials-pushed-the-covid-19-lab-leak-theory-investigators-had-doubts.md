@@ -320,6 +320,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump's influence on Republicans faces key test in Michigan"
+    excerpt: "Democratic Gov. Gretchen Whitmer’s pandemic leadership remains under scrutiny, but Republicans who hope she loses in 2022 are still fighting 2020 battles."
+    publishedDateTime: 2021-06-19T08:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/trump-s-influence-republicans-faces-key-test-michigan-n1271298"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1271298"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271298"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_16/3310021/200415-michigan-protest-se-425p-3310021.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "dbse1+GdV1CwJx04pf9/IxOMF7JU1am0VqrwFmqaFjCQuPB7VrBZ/5JjrMOed5R+g2ET9lOfUdzfVSqqikJ75ta6rpeAjW97hNdPKGgepUxoSGKPpwj7x8aAqpakhfGpDVidnFlU9qr4BQ2cUPA0WfClhbtt1GWJ2nfxTbmVNs7V4R7MerKJqSmMOUIy+edBfKRRGGo8kr9nJ5nrPijft+x9foHr4z2d/z9Bpf+wtWB+GAqgDVmYDXhmcpmQ1joH7CLM16CPtYxPjZS1yqNWFaAEfuPH3I6+/iGj9BLP5lfuKD/xwwMtQzI/uTY3NY8h+ISShm/7KMGxVlRwE44HyP61eq4IsnrILx7wNL9Z+/2NVOEAkbuvWf6a2Cbxgp7PY3Brr9CDe6LUXIMv92RcMBgs+HBksAoOLhMA0zXydIlV1dYabja5cc3PvX0ZZb7u+SdEpJPA24XQ/t2NKwQOsyDJMz4NVbWUizUlQ8pqJiTqvd8rScnmJ/RWHGlRf8MzUVj6H9c6H7SD+dLELthogw==;ah8lrwr3WEB+xfXZEDeDaw=="
 ---

@@ -2,21 +2,21 @@
 category: news
 title: "Biden's silence on executions adds to death penalty disarray"
 excerpt: "Activists widely expected Joe Biden to take swift action against the death penalty as the first sitting president to oppose capital punishment, but the White House has been mostly silent"
-publishedDateTime: 2021-06-18T09:06:00Z
-originalUrl: "https://www.washingtonpost.com/politics/bidens-silence-on-executions-adds-to-death-penalty-disarray/2021/06/18/db0bfb84-d01c-11eb-a224-bd59bd22197c_story.html"
-webUrl: "https://www.washingtonpost.com/politics/bidens-silence-on-executions-adds-to-death-penalty-disarray/2021/06/18/db0bfb84-d01c-11eb-a224-bd59bd22197c_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/bidens-silence-on-executions-adds-to-death-penalty-disarray/2021/06/18/db0bfb84-d01c-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bidens-silence-on-executions-adds-to-death-penalty-disarray/2021/06/18/db0bfb84-d01c-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+publishedDateTime: 2021-06-18T10:22:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-silence-executions-adds-death-penalty-disarray-78353853"
+webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-silence-executions-adds-death-penalty-disarray-78353853"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-silence-executions-adds-death-penalty-disarray-78353853"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-silence-executions-adds-death-penalty-disarray-78353853"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DDFMPKGQDQI6XIREXVM32IQZPQ.jpg&w=1440"
-    width: 1440
-    height: 1066
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -112,6 +112,6 @@ related:
         height: 675
         isCached: true
 
-secured: "/Fp7Ft5b4l3BArSFMUNRzBxnHFRXjo8F7P1Ix3K+XU+ou8ysX0JzbT2zkiQhm+98i5/P0qNrq3B9/0ZUCXk5ymZdSysrhOL9o0A+iAMDEC4VK9yVTrK14ihIkBH2IGtYRoSAY/L2Zqt5Jy/r8L+Sk0fhJlxcAhRutjVe/c0UMsqGgyJvNsACSk0A2NLEyWWEpzIlDyqqRCDcIgwyWZmr8u1P0ft8NAm6/sKXT+RrBpRECYTUPcACVE00yFPpLGadzE1kL8YjRxSjUX96OPaaTPqmfUBK1JArN3iaINYpxC+US4i7K1aY4C1Q+qErLRUMSjIV6VqND2OJzKdWkIgjspJUBelcVt8hi1X3TbGiQSU=;bk1I8xp6GEPYDfy32Eah4g=="
+secured: "Dsb1RrulnWKWsqYA9xLPw7cDPz2VDk4bZOVO4/LnswkPYw90hFGhczS4XMSt2o2yCjGiu0YEKPrlLqWGKbI9bUv0fxIfl8g4laCptTXUD9S+VzDi846cVIrILG5h9XvH3rGOnnKPEVrMkpVsd5eaaDVBKij+wImQPTDJfnuOWA926qfTux183cqa/aDgBnJm+LVzYaKbB9QyRE4R7B5Fb+8nn39rD/4+A+oSLzmny6dkFr/meGmen7+28gFQ9fZieuNyy3aOXTuaSS/gY6nxMQpfs6rktsEnE4XJyOiHP1q3duOHoWwaSBEWgMJleVZy0FkQNd7xh3Bxpm6V7K1lCM7WnwRMwng0mVmwIlTXIQw=;lq2YnYtQmr2re6i1EtnElw=="
 ---
 

@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Analysis: Trump is doing more lying about the election than talking about any other subject"
-excerpt: "Since his presidency ended, Donald Trump has issued more statements lying about the 2020 election than statements talking about any other subject.\n    \n"
-publishedDateTime: 2021-06-12T16:00:40Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TZj3XmSpIJo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TZj3XmSpIJo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
+title: "Trump's influence on Republicans faces key test in Michigan"
+excerpt: "Democratic Gov. Gretchen Whitmer’s pandemic leadership remains under scrutiny, but Republicans who hope she loses in 2022 are still fighting 2020 battles."
+publishedDateTime: 2021-06-19T08:30:00Z
+originalUrl: "https://www.nbcnews.com/politics/elections/trump-s-influence-republicans-faces-key-test-michigan-n1271298"
+webUrl: "https://www.nbcnews.com/politics/elections/trump-s-influence-republicans-faces-key-test-michigan-n1271298"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1271298"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271298"
 type: article
-quality: 180
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608191019-trump-0605-greenville-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_16/3310021/200415-michigan-protest-se-425p-3310021.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -44,6 +45,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614174532-02-trump-senate-gop-nc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump is doing more lying about the election than talking about any other subject"
+    excerpt: "Since his presidency ended, Donald Trump has issued more statements lying about the 2020 election than statements talking about any other subject.\n    \n"
+    publishedDateTime: 2021-06-12T16:00:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TZj3XmSpIJo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210608191019-trump-0605-greenville-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -303,22 +320,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump's influence on Republicans faces key test in Michigan"
-    excerpt: "Democratic Gov. Gretchen Whitmer’s pandemic leadership remains under scrutiny, but Republicans who hope she loses in 2022 are still fighting 2020 battles."
-    publishedDateTime: 2021-06-19T08:30:00Z
-    webUrl: "https://www.nbcnews.com/politics/elections/trump-s-influence-republicans-faces-key-test-michigan-n1271298"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1271298"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271298"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_16/3310021/200415-michigan-protest-se-425p-3310021.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Top Trump officials pushed the Covid-19 lab-leak theory. Investigators had doubts."
     excerpt: "New documents and interviews show how the president and his senior aides cherry-picked evidence and sidelined the government’s own virus sleuths."
     publishedDateTime: 2021-06-15T23:50:00Z
@@ -336,6 +337,6 @@ related:
         height: 773
         isCached: true
 
-secured: "EOYZvxrnW6BGgP8NxWXOZQuSoMKKoPvMFtAPSQn4o7lx9NMdkK1AhstyDV0CIGeQ5bwr0mZM+ojDsLnIjpijc8gY2EOzvdlqxj3c55QlDTwhZXkHU2x2HiLxhS4IijLhjZe/+qvf6WYb0zyIEq0UsO+Pzeg8RjWTGX9xik1wv4gMfO0q82Yl2tpaoEEIUJ/ciuNXqEizdhOJpE48ORq5VEhoFtm+T7G5/OmzCrLvbGc2pkGtFlj0eqtoFb/J4X4/gT9koFrVQDUKYQ2maNLuq8c8X2rbZ3Y21qtjM3uSy2RhZqwGBwhuPrEbIWRSD+Q65TZQo7O9rNX+/Le2CzvOJlJhpxyWtzdcTMPuiMZIbJQ=;Ox19ad5ZqKx7qaMUj53Qug=="
+secured: "9Sob28NZrV6R+rfo1ud3lh9/K2dXGWHCXmRfYkBXLbbUt1MvBVb2RCo4xDdVdTixPWTw+BR4qgE+v/bX4snsNrURkfkwE7rNW5XgOpZdn6LYcj2fecVceqxAUceaRrfJFF5twk2un3rmrIHkQqDevHcqz+MDZGm2Yhl7OnRHqmKDXZjWc/uA4bsrAC9Ga5a4twlP/nRLpXVQlxdyabWMAofomYvrtsmGuONxfrWB/pdFVZF3sce6uo7V3SS0A90kuneDtZ5B8MYo2wEoXJ1ZAuvo/OJc8ZlFWcp8yXBgu1f/Kwav+hNb9d0gLGomIjt6A7xOcJgm422MCD5gYwOiOiUnMPE0RiJ6uu+mbHvTHf4=;cDDtCfl5/zFj8+vLl9IkBA=="
 ---
 

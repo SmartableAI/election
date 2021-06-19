@@ -49,19 +49,19 @@ related:
         isCached: true
   - title: "Biden's silence on executions adds to death penalty disarray"
     excerpt: "Activists widely expected Joe Biden to take swift action against the death penalty as the first sitting president to oppose capital punishment, but the White House has been mostly silent"
-    publishedDateTime: 2021-06-18T09:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/bidens-silence-on-executions-adds-to-death-penalty-disarray/2021/06/18/db0bfb84-d01c-11eb-a224-bd59bd22197c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/bidens-silence-on-executions-adds-to-death-penalty-disarray/2021/06/18/db0bfb84-d01c-11eb-a224-bd59bd22197c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bidens-silence-on-executions-adds-to-death-penalty-disarray/2021/06/18/db0bfb84-d01c-11eb-a224-bd59bd22197c_story.html?outputType=amp"
+    publishedDateTime: 2021-06-18T10:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-silence-executions-adds-death-penalty-disarray-78353853"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-silence-executions-adds-death-penalty-disarray-78353853"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-silence-executions-adds-death-penalty-disarray-78353853"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DDFMPKGQDQI6XIREXVM32IQZPQ.jpg&w=1440"
-        width: 1440
-        height: 1066
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Biden promotes milestone of 300 million vaccine shots in 150 days"
     excerpt: "President Joe Biden took a cautious victory lap Friday in his quest to bring the COVID-19 pandemic under control, announcing that 300 million vaccine shots have been administered in the 150 days since he took office."
