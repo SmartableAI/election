@@ -190,6 +190,20 @@ related:
       name: SanLuisObispo
       domain: sanluisobispo.com
     quality: 55
+  - title: "Despite what video implies, Joe Biden didn’t confuse son with grandson"
+    excerpt: "Hunter lost his dad, and I lost my son.” His reference was to his grandson Hunter, the son of Beau Biden, not to his son Hunter. Joe Biden has committed his share of gaffes, dating back to well before he became president."
+    publishedDateTime: 2021-06-17T19:42:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jun/17/tiktok-posts/despite-what-tiktok-video-implies-joe-biden-didnt-/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "U.S. increasingly unlikely to meet Biden’s July 4 vax goal"
     excerpt: "For months, President Joe Biden has laid out goal after goal for taming the coronavirus pandemic and then exceeded his own benchmarks. Now, though, the U.S. is unlikely to meet his target to have 70% of Americans at least partially vaccinated by July 4."
     publishedDateTime: 2021-06-08T23:20:00Z

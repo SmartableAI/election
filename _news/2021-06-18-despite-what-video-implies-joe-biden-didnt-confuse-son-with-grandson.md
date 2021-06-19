@@ -1,22 +1,28 @@
 ---
 category: news
-title: "U.S. increasingly unlikely to meet Biden’s July 4 vax goal"
-excerpt: "For months, President Joe Biden has laid out goal after goal for taming the coronavirus pandemic and then exceeded his own benchmarks. Now, though, the U.S. is unlikely to meet his target to have 70% of Americans at least partially vaccinated by July 4."
-publishedDateTime: 2021-06-08T23:20:00Z
-originalUrl: "https://lasvegassun.com/news/2021/jun/08/us-increasingly-unlikely-to-meet-bidens-july-4-vax/"
-webUrl: "https://lasvegassun.com/news/2021/jun/08/us-increasingly-unlikely-to-meet-bidens-july-4-vax/"
+title: "Despite what video implies, Joe Biden didn’t confuse son with grandson"
+excerpt: "Hunter lost his dad, and I lost my son.” His reference was to his grandson Hunter, the son of Beau Biden, not to his son Hunter. Joe Biden has committed his share of gaffes, dating back to well before he became president."
+publishedDateTime: 2021-06-17T19:42:00Z
+originalUrl: "https://www.politifact.com/factchecks/2021/jun/17/tiktok-posts/despite-what-tiktok-video-implies-joe-biden-didnt-/"
+webUrl: "https://www.politifact.com/factchecks/2021/jun/17/tiktok-posts/despite-what-tiktok-video-implies-joe-biden-didnt-/"
 type: article
-quality: 35
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Las Vegas Sun
-  domain: lasvegassun.com
+  name: Politifact
+  domain: politifact.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+    width: 438
+    height: 392
+    isCached: true
 
 related:
   - title: "Polls: US image abroad has rebounded since Biden took office"
@@ -184,20 +190,6 @@ related:
       name: SanLuisObispo
       domain: sanluisobispo.com
     quality: 55
-  - title: "Despite what video implies, Joe Biden didn’t confuse son with grandson"
-    excerpt: "Hunter lost his dad, and I lost my son.” His reference was to his grandson Hunter, the son of Beau Biden, not to his son Hunter. Joe Biden has committed his share of gaffes, dating back to well before he became president."
-    publishedDateTime: 2021-06-17T19:42:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/jun/17/tiktok-posts/despite-what-tiktok-video-implies-joe-biden-didnt-/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 55
-    images:
-      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
-        width: 438
-        height: 392
-        isCached: true
   - title: "President Joe Biden signs the Juneteenth Independence Day Act"
     excerpt: "Musician Usher arrives ahead of an event where President Joe Biden will sign the Juneteenth National Independence Day Act into law in the East Room of the White House in Washington, DC on Thursday, June 17,"
     publishedDateTime: 2021-06-17T20:08:00Z
@@ -212,7 +204,16 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "U.S. increasingly unlikely to meet Biden’s July 4 vax goal"
+    excerpt: "For months, President Joe Biden has laid out goal after goal for taming the coronavirus pandemic and then exceeded his own benchmarks. Now, though, the U.S. is unlikely to meet his target to have 70% of Americans at least partially vaccinated by July 4."
+    publishedDateTime: 2021-06-08T23:20:00Z
+    webUrl: "https://lasvegassun.com/news/2021/jun/08/us-increasingly-unlikely-to-meet-bidens-july-4-vax/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
-secured: "doIdPICtfTp6kSpCWAYuP/dVdk3OTyTzxFDiKRSz61lDhoYk34UwdrJ0WIqxybHtBuRxIK1gKEqrkGdPfq8vIfR49+7cHbJf0T0q77nilj7T9AOEF+J9flLaX66p6wb229xyCyfZ72RmCg5hT4d55KJmV0G3M3I4fxPur2UnYLVmtRhi7fLNIt3Skn7vxo7GPcmZoPVgDOlYCH6L8U5phbmatCX2g9OlW6Z8ordAtxW+QcoO5A6Rq1dmHdvSMjOG2Sjbdra35Z1h8FHrFjgTOXaPBjDpP2LtkQaibNQ9akWVwxw9MiBHpwn9+pFNZfq6LavCeAMXJOT67wBChx3gbUVborHuqOc+J3ipEZ155Oo=;S7XSfDNvo3rV42lTXzrwGQ=="
+secured: "y2r8udy8w9hHfvzFpFsrq09EUFfl3T2deZXujF+wCBXDgs30YoVFedNYVEhOIvJs3bEFUS538Qp9i53az4vuEJUOVOkeppcvPSCUr5nOzJ78NMJCz24REzoV2nAAj2B62yTVv4O9+AMNFwkEOFKgfE6kh2iYKUPT2JDwjMhuOgyxIg4lH1W8tnnbLw+7vt+0o+2QdgWgZcYfwBBfiDkuivNAp5mES8NS6Ehkh2G57sa1G9PWdy3UqemFLWcpmNe2x17QtKKy4IKA8H6Cwn3WNjgJAdG5UHwRuRWCV4RVdic1RV+C7q4iBwYV09VYG3N4hU2KqDAw5yvLMmqfhaOXD0o9Tc1YmNe+FBvpPXqaqgM=;6uyNqdLLwIyaU/Q+1pRMRA=="
 ---
 

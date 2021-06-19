@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-tr
 webUrl: "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference/"
 type: article
 quality: 101
-heat: 221
+heat: 241
 published: true
 
 provider:
@@ -55,6 +55,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/18/Road_to_Majority_convention_77224.jpg-9e446_c0-83-2000-1249_s1200x700.jpg?97771ece8cf6ad276bbc4f4e72e64b186f039a1f"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Mike Pence jeered as ‘traitor’ at a conservative religious conference"
+    excerpt: "Former Vice President Mike Pence was taunted as a “traitor” by audience members at a Faith & Freedom Coalition event in Florida on Friday, where he prided himself as a “Christian, a conservative, and a Republican in that order."
+    publishedDateTime: 2021-06-18T23:08:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-mike-pence-heckled-20210618-fwvpmhl6f5ewrmvxws7ip6idt4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/national/ny-mike-pence-heckled-20210618-fwvpmhl6f5ewrmvxws7ip6idt4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-mike-pence-heckled-20210618-fwvpmhl6f5ewrmvxws7ip6idt4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/7IRoxOcrxdItkn_Hm3-cIxitIGc=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/X34KBJMQI5GJJH5EPWOCUHNLDI.jpg"
+        width: 1200
+        height: 838
         isCached: true
   - title: "‘Traitor!’ Mike Pence booed in Florida while addressing Christian crowd"
     excerpt: "Scattered boos greeted former Vice President Mike Pence in Central Florida as he stood behind a lectern to address a coalition of Christian and conservative voters. Someone yelled, “Traitor!” as Pence began to speak."

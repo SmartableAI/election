@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-18-dr-ronny-jackson-calls-on-biden-to-immediately-undergo-cognitive-test-to-assess-mental-impairment.md",
+      "title": "Dr. Ronny Jackson calls on Biden to immediately undergo cognitive test to assess 'mental impairment'",
+      "excerpt": "Dr. Ronny Jackson, the former White House physician, called on President Biden to immediately undergo a cognitive test so the commander-in-chief can prove to the American public sound mental capabilities. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/puSuFoizBUs/dr-ronny-jackson-calls-on-biden-to-immediately-undergo-cognitive-test-to-assess-mental-impairment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/puSuFoizBUs/dr-ronny-jackson-calls-on-biden-to-immediately-undergo-cognitive-test-to-assess-mental-impairment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/ronny-jackson.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T20:01:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-republican-lawmakers-are-staging-trump-style-stunts-at-the-us-mexico-border-to-push-crisis-agenda.md",
       "title": "Republican lawmakers are staging Trump-style stunts at the US-Mexico border to push 'crisis' agenda",
       "excerpt": "A cutout of Vice President Kamala Harris, a state's plan to fund its own wall, and a governor sending police to Texas and Arizona.",
@@ -1085,7 +1141,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1257,62 +1313,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-15T18:45:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-gov-noem-slams-biden-over-white-house-fireworks-event-what-a-hypocrite.md",
-      "title": "Gov. Noem slams Biden over White House fireworks event: 'What a hypocrite'",
-      "excerpt": "South Dakota Gov. Kristi Noem slammed President Biden on Tuesday after his administration unveiled plans to host an Independence Day fireworks display at the White House, weeks after federal officials rejected her bid to host a similar event at Mount Rushmore.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MKWICMlBAHU/gov-noem-slams-biden-white-house-fireworks-event",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MKWICMlBAHU/gov-noem-slams-biden-white-house-fireworks-event",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T15:03:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

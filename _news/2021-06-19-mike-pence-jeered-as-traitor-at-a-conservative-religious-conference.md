@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Mike Pence Remarks at Faith and Freedom Conference in Florida"
-excerpt: "2021-06-18T13:30:36-04:00https://images.c-span.org/Files/03f/20210618133830011_hd.jpgFormer Vice President Mike Pence delivers keynote remarks at the 2021 Faith and Freedom Conference in Kissimmee, Florida. At the beginning of his remarks he is heckled ..."
-publishedDateTime: 2021-06-18T00:01:00Z
-originalUrl: "https://www.c-span.org/video/?512749-1/mike-pence-heckled-calls-traitor-faith-freedom-conference"
-webUrl: "https://www.c-span.org/video/?512749-1/mike-pence-heckled-calls-traitor-faith-freedom-conference"
+title: "Mike Pence jeered as ‘traitor’ at a conservative religious conference"
+excerpt: "Former Vice President Mike Pence was taunted as a “traitor” by audience members at a Faith & Freedom Coalition event in Florida on Friday, where he prided himself as a “Christian, a conservative, and a Republican in that order."
+publishedDateTime: 2021-06-18T23:08:00Z
+originalUrl: "https://www.nydailynews.com/news/national/ny-mike-pence-heckled-20210618-fwvpmhl6f5ewrmvxws7ip6idt4-story.html"
+webUrl: "https://www.nydailynews.com/news/national/ny-mike-pence-heckled-20210618-fwvpmhl6f5ewrmvxws7ip6idt4-story.html"
+ampWebUrl: "https://www.nydailynews.com/news/national/ny-mike-pence-heckled-20210618-fwvpmhl6f5ewrmvxws7ip6idt4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-mike-pence-heckled-20210618-fwvpmhl6f5ewrmvxws7ip6idt4-story.html?outputType=amp"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: C-SPAN
-  domain: c-span.org
+  name: New York Daily News
+  domain: nydailynews.com
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://www.nydailynews.com/resizer/7IRoxOcrxdItkn_Hm3-cIxitIGc=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/X34KBJMQI5GJJH5EPWOCUHNLDI.jpg"
+    width: 1200
+    height: 838
+    isCached: true
 
 related:
   - title: "Pence met with jeers and called a \"traitor\" at Florida conservative conference"
@@ -60,22 +68,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Mike Pence jeered as ‘traitor’ at a conservative religious conference"
-    excerpt: "Former Vice President Mike Pence was taunted as a “traitor” by audience members at a Faith & Freedom Coalition event in Florida on Friday, where he prided himself as a “Christian, a conservative, and a Republican in that order."
-    publishedDateTime: 2021-06-18T23:08:00Z
-    webUrl: "https://www.nydailynews.com/news/national/ny-mike-pence-heckled-20210618-fwvpmhl6f5ewrmvxws7ip6idt4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/national/ny-mike-pence-heckled-20210618-fwvpmhl6f5ewrmvxws7ip6idt4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-mike-pence-heckled-20210618-fwvpmhl6f5ewrmvxws7ip6idt4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/7IRoxOcrxdItkn_Hm3-cIxitIGc=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/X34KBJMQI5GJJH5EPWOCUHNLDI.jpg"
-        width: 1200
-        height: 838
-        isCached: true
   - title: "‘Traitor!’ Mike Pence booed in Florida while addressing Christian crowd"
     excerpt: "Scattered boos greeted former Vice President Mike Pence in Central Florida as he stood behind a lectern to address a coalition of Christian and conservative voters. Someone yelled, “Traitor!” as Pence began to speak."
     publishedDateTime: 2021-06-18T17:39:00Z
@@ -106,6 +98,15 @@ related:
         width: 1200
         height: 679
         isCached: true
+  - title: "Mike Pence Remarks at Faith and Freedom Conference in Florida"
+    excerpt: "2021-06-18T13:30:36-04:00https://images.c-span.org/Files/03f/20210618133830011_hd.jpgFormer Vice President Mike Pence delivers keynote remarks at the 2021 Faith and Freedom Conference in Kissimmee, Florida. At the beginning of his remarks he is heckled ..."
+    publishedDateTime: 2021-06-18T00:01:00Z
+    webUrl: "https://www.c-span.org/video/?512749-1/mike-pence-heckled-calls-traitor-faith-freedom-conference"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Mike Pence Heckled with Calls of \"Traitor\" at Faith and Freedom Conference"
     excerpt: "Former Vice President Mike Pence is heckled with calls of \"traitor\" at the Faith and Freedom Conference in Kissimmee, Florida."
     publishedDateTime: 2021-06-18T00:00:00Z
@@ -116,6 +117,6 @@ related:
       domain: c-span.org
     quality: 33
 
-secured: "q9aP2E2GGDMZWiELVCRUzzYPRWWzgMZnZR9DX+Ct6l35VrPD3udCEY1IUk2KvCgGYnxzp5Og95X8rEglvQv+r8kAqKyXTH8v238UN2qGGDYThyDAr6RFvl3gVb1eGKwjShF42Sd61HjcCnoNapgowSELk4n0i2ylC/BV4aQA1p+VaYLQRZ2CrFmL+nE17lJNzsCHXi9t31u1JbdknqBuXGNQBaD7VfEDQrrtEIZMZ3C+0aKHqoxl8YUFsWbxfJ1n8+/DolIJuU+WqUZscOj6qrOmIz62bEn80534qitu/cmMcbq720HVyZ1MGQKZ8dWAos7Wl8G0uTgGeZ+0MI2OID0mW7klHDSCcQw9pFPpkaH1FjLjvGEziw8qkd0zVzYaeq20fIZ46zCx9KkWXDDc6z0ToSpvOWk7iNhc9/z/ZR7wwp6zDn52gQtNwgQdx8Qc2Wnc1jaCyMeaobVc77+67sG7VPwZS8REty7pdZhvpz9T0jmQalFKR9CIkynwCCjpyw8Cu9/ZRAfAFCJMYoKF5A==;CwD5klLwBqbUXjHRjvQd6Q=="
+secured: "IhQWtO35aEIEu9c9WCkE5eCXkfjDaqhy/IgPudyXNP4jhtIuWdlZpfK71imEf37yByKtnfC4jk1QPi4B120NZmy+Hf5RIdYvogsW5LefDlqgyRydCL+asA/3SPhxPS75wu5E7fUZi9AlPTDymDOTLYV/el/4EnVNPXU0NNFNN2agtkI2zIxKE3B0ukLMf8BWFCsIMZqgmj627IGVrI2Vi8UaxpzyCp3h/+D4rqmOD7h/EnaL2UlB93pf7ZuKZkecsa4RqEIQMKNdhucGD3pbfs0zYQo7W0pwM4flFmLiSSMz4c4MkzDkRRtai1sh64qpSGXPsxaWIXYHyW8ZLDURouao7dq1rauD4oIxaz4OM38=;sFnsZBGCFRqM7dvs8vH2RA=="
 ---
 

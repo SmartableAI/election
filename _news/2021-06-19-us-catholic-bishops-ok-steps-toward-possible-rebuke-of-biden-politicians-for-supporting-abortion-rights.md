@@ -1,22 +1,22 @@
 ---
 category: news
-title: "The Latest: Biden open to possible prisoner swap with Russia"
-excerpt: "Russian President Vladimir Putin says that he and U.S. President Joe Biden have agreed to start consultations on cybersecurity"
-publishedDateTime: 2021-06-16T16:45:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
-webUrl: "https://abcnews.go.com/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
+title: "US Catholic bishops OK steps toward possible rebuke of Biden, politicians for supporting abortion rights"
+excerpt: "Catholic bishops approved a document that many hope will rebuke politicians, including Biden, for receiving Communion."
+publishedDateTime: 2021-06-18T20:30:00Z
+originalUrl: "https://www.usatoday.com/story/news/nation/2021/06/18/catholic-bishops-communion-document-rebuke-biden-abortion-rights/7746587002/"
+webUrl: "https://www.usatoday.com/story/news/nation/2021/06/18/catholic-bishops-communion-document-rebuke-biden-abortion-rights/7746587002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7746587002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7746587002"
 type: article
-quality: 125
-heat: 245
-published: true
+quality: 108
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/International/WireAP_244e26b298cd45f996df15ea2fdf2fc4_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.gannett-cdn.com/presto/2021/06/18/USAT/8a69cd82-69df-4c0d-b741-45ba2c91f68e-AP_Biden_Catholic_Bishops.jpg?auto=webp&crop=5750,3235,x0,y292&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
+  - title: "The Latest: Biden open to possible prisoner swap with Russia"
+    excerpt: "Russian President Vladimir Putin says that he and U.S. President Joe Biden have agreed to start consultations on cybersecurity"
+    publishedDateTime: 2021-06-16T16:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_244e26b298cd45f996df15ea2fdf2fc4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden's silence on executions adds to death penalty disarray"
     excerpt: "Activists widely expected Joe Biden to take swift action against the death penalty as the first sitting president to oppose capital punishment, but the White House has been mostly silent"
     publishedDateTime: 2021-06-18T10:22:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/8a3839f/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F38%2F702e2fa045f1a66ae0b9a2fea8c8%2Fla-photos-1staff-la-photos-1staff-773731-me-0514-vaccine-12-and-over-014.IK.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "US Catholic bishops OK steps toward possible rebuke of Biden, politicians for supporting abortion rights"
-    excerpt: "Catholic bishops approved a document that many hope will rebuke politicians, including Biden, for receiving Communion."
-    publishedDateTime: 2021-06-18T20:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2021/06/18/catholic-bishops-communion-document-rebuke-biden-abortion-rights/7746587002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7746587002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7746587002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/18/USAT/8a69cd82-69df-4c0d-b741-45ba2c91f68e-AP_Biden_Catholic_Bishops.jpg?auto=webp&crop=5750,3235,x0,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "In interview ahead of Biden meeting, Putin called a US Marine veteran imprisoned in Russia a 'drunk' who 'got himself s---faced'"
     excerpt: "Trevor Reed was sentenced to nine years in prison last July after being convicted of assaulting two Moscow police officers while drunk."
@@ -128,6 +128,6 @@ related:
         height: 675
         isCached: true
 
-secured: "W2nQ77VhS9JupS0wwgglYVmN3cD2EU8NPZhqZeU61C2NEtJQz5jUomLwyjKd0PTBbm+A/ixH3GU86/v0p+skMtBlwjR7+Z1IXyigLXvbmPIOiVQDOA/xT8kuHQwqEAgT1858Me+/Yhubg9TAzTprFvaKGiCTIwpTTtat0Tw9sXI2Yo3vT9pSNQxw2EuoV2tmnDr+vUdxmPcDtIOsNkI4pUdDpy0f4WteVrVkoVnZWvU6XVb3fTGwVuXG+bUTRYba7BBs3RmnuVaJ/iqmTE8/kI9/uaZPTpvNNprowsz9Wuf4IeJugwekri+EzeaJgd23DWsaqJpOmrV9ZpvsWWRM0UgY9O6O14WSjTb0ym4JJUu+Oy4tAV4ZhytyTGK04XraT74L80edd51TWaLpis7ixCgbTeMqRtZhx7IcKZeRlFydgA/EWkmKNpJisi1DR32pAclojWsQdX26ETwPfAufsby53wbGWTgnmrew6g/TEJlbmJWWk2IVPW2J7g5Nej/PqSZx8G+OGm/XqDOU5t5qSw==;l20mhtdJj7bUThR0WoQwuw=="
+secured: "/PcYUg2SOCeVp4/CfW3Twe7kmkV3/9ziRKUo8OIKwNHI1l1fdbpIJ7peblLDcYFSIJ5r4LJF1dsCF6DMYY4yjFifv0uNY1YwCVKTt7MxjIqXo8K1MB+Q0eJeirfEdZQC7YBSlZW0USct+ZSyu9nrEfLBx3ugt1RhBljYIfgeyw6TuhlpTpvCYE804Ft6jmy6Ok85KnicEb1vCU5AXDCq+FNceLTIk/hlk+T+q3865/FiI2YTIYmyEWaIgNMj+cyGE2gs2ow3zaoXG1xoDlhsqEAzh55QZHqctaTAzwauTQhNOSCq8bpgqg7eA9KjwXsNxHmGjeyiubCaQW2AdtQnNlbKd53xE+bk3qroUg3FTL0=;Zv6FfU+tMlJvN0f1jzeM5Q=="
 ---
 

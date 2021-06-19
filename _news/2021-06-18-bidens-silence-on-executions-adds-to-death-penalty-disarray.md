@@ -63,6 +63,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "US Catholic bishops OK steps toward possible rebuke of Biden, politicians for supporting abortion rights"
+    excerpt: "Catholic bishops approved a document that many hope will rebuke politicians, including Biden, for receiving Communion."
+    publishedDateTime: 2021-06-18T20:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/06/18/catholic-bishops-communion-document-rebuke-biden-abortion-rights/7746587002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7746587002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7746587002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/18/USAT/8a69cd82-69df-4c0d-b741-45ba2c91f68e-AP_Biden_Catholic_Bishops.jpg?auto=webp&crop=5750,3235,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In interview ahead of Biden meeting, Putin called a US Marine veteran imprisoned in Russia a 'drunk' who 'got himself s---faced'"
     excerpt: "Trevor Reed was sentenced to nine years in prison last July after being convicted of assaulting two Moscow police officers while drunk."
     publishedDateTime: 2021-06-15T19:13:00Z

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-19-mike-pence-not-a-traitor-says-kevin-mccarthy-stood-right-by-president-trump.md",
+      "title": "Mike Pence 'Not a Traitor' Says Kevin McCarthy, 'Stood Right by President Trump'",
+      "excerpt": "Pence continues to face strong criticism from some supporters of former President Donald Trump for his role on January 6.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240",
+      "originalUrl": "https://www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1825772/mike-pence-addresses-gops-lincoln-reagan-dinner.jpg",
+          "width": 2814,
+          "height": 1876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-not-traitor-kevin-mccarthy-stood-right-president-trump-1602240?amp=1",
+      "publishedDateTime": "2021-06-19T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.md",
       "title": "Joe Kent, veteran and Washington state congressional candidate, says Trump revealed military politicization",
       "excerpt": "Washington state congressional candidate Joe Kent, a U.S. Army veteran and Gold Star husband, joined Fox Nation's “Tucker Carlson Today” on Friday to sound off about the politicization of the military",
@@ -960,7 +1013,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1640,
+      "heat": 1620,
       "tags": null,
       "images": [
         {
@@ -1517,54 +1570,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-swalwell-donald-trump-was-the-biggest-brother-weve-ever-seen-in-terms-of-spying-on-opponents.md",
-      "title": "Swalwell: Donald Trump \"Was The Biggest Brother We've Ever Seen\" In Terms Of Spying On Opponents",
-      "excerpt": "Rep. Eric Swalwell (D-CA) said former President Donald Trump used the Department of Justice to spy on him: \"I hope Trump supporters who fear big brother see that Donald Trump was the biggest brother we've ever seen in our country who did weaponize this to go all the way down the stack into the private communications of people he perceived as political opponents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/545501.jpg",
-          "width": 1210,
-          "height": 906,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.amp.html",
-      "publishedDateTime": "2021-06-11T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

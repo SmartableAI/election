@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
 type: article
 quality: 140
-heat: 1640
+heat: 1620
 published: true
 
 provider:
@@ -350,22 +350,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/1d9c95abc47147777d3c32487a251a4ddc7be9f9/0_262_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef10c3318b4a4cd96baebaefafe4bec5"
         width: 600
         height: 360
-        isCached: true
-  - title: "The Affordable Care Act was saved by Donald Trump’s presidency"
-    excerpt: "The central idea pushing Democrats to pass the Affordable Care Act a decade ago was the desire to expand health-care access to more Americans. But Democratic elected officials also talked about a secondary benefit: creating a broadly used government program that would pay political dividends for the party."
-    publishedDateTime: 2021-06-18T00:49:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/06/17/affordable-care-act-was-saved-by-donald-trumps-presidency/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/17/affordable-care-act-was-saved-by-donald-trumps-presidency/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/17/affordable-care-act-was-saved-by-donald-trumps-presidency/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IR76PHXX4MI6PKPDVMMM4QKDNI.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Democrats urge Justice Department not to defend Trump in defamation suit"
     excerpt: "House Democrats are urging Attorney General Merrick Garland to reconsider the Justice Department's decision to take up the defense of former President Trump in a defamation lawsuit. The 2019 suit was filed by writer E."

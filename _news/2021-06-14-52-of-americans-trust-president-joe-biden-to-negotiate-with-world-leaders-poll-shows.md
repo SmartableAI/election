@@ -176,6 +176,20 @@ related:
       name: SanLuisObispo
       domain: sanluisobispo.com
     quality: 55
+  - title: "Despite what video implies, Joe Biden didn’t confuse son with grandson"
+    excerpt: "Hunter lost his dad, and I lost my son.” His reference was to his grandson Hunter, the son of Beau Biden, not to his son Hunter. Joe Biden has committed his share of gaffes, dating back to well before he became president."
+    publishedDateTime: 2021-06-17T19:42:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jun/17/tiktok-posts/despite-what-tiktok-video-implies-joe-biden-didnt-/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "President Joe Biden signs the Juneteenth Independence Day Act"
     excerpt: "Musician Usher arrives ahead of an event where President Joe Biden will sign the Juneteenth National Independence Day Act into law in the East Room of the White House in Washington, DC on Thursday, June 17,"
     publishedDateTime: 2021-06-17T20:08:00Z
