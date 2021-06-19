@@ -912,6 +912,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Upcoming Lorain County rally will show whether ex-President Donald Trump still has campaign mojo"
+    excerpt: "Trump will hold a rally at the Lorain County fairgrounds to support Max Miller's bid to unseat incumbent Rep. Anthony Gonzalez in the GOP primary."
+    publishedDateTime: 2021-06-19T14:00:00Z
+    webUrl: "https://www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Z2ANUQEECJDMRFG25HLPPMLFBY.jpg"
+        width: 5393
+        height: 3595
+        isCached: true
   - title: "Trump Family: Twitter Mocks Jared Kushner’s Book Deal To Tell ‘The Truth’ About Trump’s Presidency"
     excerpt: "Former President Donald Trump’s son-in-law Jared Kushner has signed a book deal with Broadside Books, the conservative imprint of HarperCollins Publishers, to tell “the truth” about his time in the White House."
     publishedDateTime: 2021-06-16T18:49:00Z
@@ -1129,6 +1145,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "KaWqqaBT4u9F5tEyHQhYP5oEEcn3VumMIwP8/O+Rb9/IdShqvu7W81BbUuw5Af45p45WvPXAa9P1nqLqVXWbkcT3JCHFc2ZLrRd6N41lHGzIBaLEPhfY52R0oozZRK5BMq76LQIXdpwQSzMGmxSdNG1hgkwWqw5zfWqC1q64P2sTSmCP3nOOxiPll91vR09UeoZDcuCI/UJOsdG/sjiiPHcKAOAcO9jPhzGdUnUe+6DmF+oFUnF/FzXk+J5S07XKzmOxnA7kKDWz+5Yrl8QWDSgec7cZqub1dWjgqB8N8NTOTum48FHReuvOik35zzogPyMzZDE8Qx9atxnVKrGV8OTZzQ3w+B1IjOOAFDVaSaQ=;yBSEl1Iei0ZERZpyeF6K1g=="
+secured: "1oLFub+dunH/z+OOfPwtw3s2pTL9ukexFhXHQjU40ocxtoBZ7MS4RcJ9VdyG7ntJirVmtlafrXbJR9yN3m90Dd0YuknWZFTxkZrWH/YItY5S8N5nA3rABIUXMfeJHfWjHvKSeepYtTrdw3fwpy62/VuyuuJiSiUZP7v4g7b6GenVcj4hAPCfVpQjaa7UhgXf4FblhX40lHPZTfUyCnVBT5Kxd4Um5IdMc6nR4Ze1uiy9lx2e5WIqgMSrMFQ3pSVzi1/+0uzxKfu4z5EoqVFehrcouO7VPE5vQybKFf36zmfT7YuWELB1pEap4ghoZyfTgAdti0KhD9Y6s5I+ZsTbUWCsij5MXP6LwHfLXApw2dpydRP2LyYWGCOHvQXtxqxUVEoW8xtNWfNJ48MmRO0A4xrT4wQLQySqfdB5CBvJtVez+s5aOxEoPHDArPIRt1Zk5vMv/V6c+TMDMlBwY+csBQ+f4lui2pb4ajwjxMmr15hf5z/LvdTTrQmJ7Kc70DE5qapylxbY7YGBhj6cbKEi9Q==;upObCBzteFjElyknoRnNIA=="
 ---
 

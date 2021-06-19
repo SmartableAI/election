@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-20-trumps-visits-to-new-jersey-golf-course-cost-taxpayers-over-24m-in-four-years.md",
+      "title": "Trump's Visits to New Jersey Golf Course Cost Taxpayers Over $2.4M in Four Years",
+      "excerpt": "New Jersey golf resort during his tenure in the White House cost taxpayers more than $2 million—with Trump spending a tota",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281",
+      "originalUrl": "https://www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1825828/trump-bedminster.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281?amp=1",
+      "publishedDateTime": "2021-06-19T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-mike-pence-hecklers-brand-ex-vp-traitor-at-conservative-conference.md",
+      "title": "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference",
+      "excerpt": "Former US Vice-President Mike Pence has been heckled during a speech at a conference for religious conservatives. Some audience members yelled \"traitor\" and \"freedom\" as he addressed the Faith and Freedom Coalition in Orlando,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57540611.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp",
+      "publishedDateTime": "2021-06-19T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-20-our-constant-cherished-companion-bidens-german-shepherd-champ-dies-at-13.md",
       "title": "‘Our constant, cherished companion’: Biden’s German shepherd Champ dies at 13",
       "excerpt": "The Bidens got Champ from a breeder after Biden was elected vice president in 2008. Champ was a fixture at both the vice president’s residence at the Naval Observatory and now the White House.",
@@ -487,8 +591,8 @@
       "title": "Covid ‘remains a serious and deadly threat’ for unvaccinated people, Biden says – live",
       "excerpt": "President hails 300m vaccine doses administered since January – follow all the day’s politics news live",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccfa568f08f352987562eb",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccfa568f08f352987562eb",
       "featuredContent": null,
       "highlight": null,
       "heat": 137,
@@ -498,7 +602,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live",
-      "publishedDateTime": "2021-06-18T14:17:00-07:00",
+      "publishedDateTime": "2021-06-18T14:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -795,58 +899,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference.md",
-      "title": "Pence met with jeers and called a \"traitor\" at Florida conservative conference",
-      "excerpt": "When former Vice President Mike Pence took the stage in Florida to address a social conservative group, he was met with some jeers, and reporters in the room said some attendees called him a \"traitor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference/",
-      "originalUrl": "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 281,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/18/13afb519-4cfc-4c39-8efa-c7392a6cc066/thumbnail/1200x630/751c873882aa6692703147fa3e2598c7/cbsn-fusion-pence-traitor-florida-trump-2024-desantis-thumbnail-737055-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {
@@ -1296,63 +1348,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-cruz-rips-kamala-harris-for-avoiding-border-trip-on-fox-friends-like-a-comedy-show.md",
-      "title": "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’",
-      "excerpt": "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
-      "originalUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
-      "publishedDateTime": "2021-06-18T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

@@ -1,31 +1,29 @@
 ---
 category: news
-title: "How Donald Trump Celebrated First Birthday Since Leaving White House: Report"
-excerpt: "Former President Donald Trump celebrated his first birthday since leaving the White House with his son, Donald Trump Jr., at his golf club in Bedminster, New Jersey."
-publishedDateTime: 2021-06-16T04:49:00Z
-originalUrl: "https://ibtimes.com/how-donald-trump-celebrated-first-birthday-leaving-white-house-report-3226901"
-webUrl: "https://ibtimes.com/how-donald-trump-celebrated-first-birthday-leaving-white-house-report-3226901"
+title: "Upcoming Lorain County rally will show whether ex-President Donald Trump still has campaign mojo"
+excerpt: "Trump will hold a rally at the Lorain County fairgrounds to support Max Miller's bid to unseat incumbent Rep. Anthony Gonzalez in the GOP primary."
+publishedDateTime: 2021-06-19T14:00:00Z
+originalUrl: "https://www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html"
+webUrl: "https://www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html"
+ampWebUrl: "https://www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html?outputType=amp"
+cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html?outputType=amp"
 type: article
-quality: 52
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cleveland.com
+  domain: cleveland.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
-    width: 1024
-    height: 657
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Z2ANUQEECJDMRFG25HLPPMLFBY.jpg"
+    width: 5393
+    height: 3595
     isCached: true
 
 related:
@@ -926,22 +924,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Upcoming Lorain County rally will show whether ex-President Donald Trump still has campaign mojo"
-    excerpt: "Trump will hold a rally at the Lorain County fairgrounds to support Max Miller's bid to unseat incumbent Rep. Anthony Gonzalez in the GOP primary."
-    publishedDateTime: 2021-06-19T14:00:00Z
-    webUrl: "https://www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 62
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Z2ANUQEECJDMRFG25HLPPMLFBY.jpg"
-        width: 5393
-        height: 3595
-        isCached: true
   - title: "Trump Family: Twitter Mocks Jared Kushner’s Book Deal To Tell ‘The Truth’ About Trump’s Presidency"
     excerpt: "Former President Donald Trump’s son-in-law Jared Kushner has signed a book deal with Broadside Books, the conservative imprint of HarperCollins Publishers, to tell “the truth” about his time in the White House."
     publishedDateTime: 2021-06-16T18:49:00Z
@@ -1069,6 +1051,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "How Donald Trump Celebrated First Birthday Since Leaving White House: Report"
+    excerpt: "Former President Donald Trump celebrated his first birthday since leaving the White House with his son, Donald Trump Jr., at his golf club in Bedminster, New Jersey."
+    publishedDateTime: 2021-06-16T04:49:00Z
+    webUrl: "https://ibtimes.com/how-donald-trump-celebrated-first-birthday-leaving-white-house-report-3226901"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
+        width: 1024
+        height: 657
+        isCached: true
   - title: "Former President Donald Trump endorses Mike Carey in 15th Congressional District race"
     excerpt: "Former President Donald Trump on Tuesday endorsed Mike Carey in the special election for Ohio's 15th Congressional District, giving Carey an edge in a contentious GOP primary."
     publishedDateTime: 2021-06-09T01:51:00Z
@@ -1145,6 +1141,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "YsmQa59KoDfxwa5jZOgsmQHMNN5wAyMvdC7UdJK3bNrA5OBV+d/LLJZS63AIYKwa5maR3bYnZPMDQwGwmXADKKsiVerJvlyTroet/+oOakXjW7KFZPgsyyh3ALRTxxM4+KRoQ7AYeZlSVeteXLyTJvKFNRIMaPsmPXKz467xw/BJhEff15lTrMCFV5RF7IheyojAIemyx8y4fL3HK8ckQiXdmZCuT23y+mCIPv+iiM5u3pUVVaNyG5m4fSLIwpCti/MDDOJnU5UKE5TTp4HvkvaBQYeXUmD5oCI0DADTxQ9wpjbCBBwbPqtnPfDQkcCpDIdAXlNFKFYzUjZWBEkW/XIs4GBUpc9LcMYi1B+m1+IB5ztAqA4dV2CbADqfZ64O4bFJXmS5gh/6jKlGgkzc2o0ryH/m19M5uJWPqNC5QD1SU8rIJn/kO78xm4Xo3wJQbvjC8S4G/WEaXkmyAsGKsbp8+MmflA+c0pJ0f7BF9svMLga2LkGlb3FYjrsnsECIZAZ7GnyWhXB2ssHBRHwgnA==;mF11r6qWwenCqNftNdP7Fw=="
+secured: "TuIswlVuNCE/fN2A8/FQUiFLjtirHP872erapVR8VuN4L5hjfh1rvwFBPkh2hXyUjX7y4qbFILjL0Z+k9NvABzCxKZiVpWuTF27f4pOLrSa3XNR36FlzX3HfJk9Ha57DV2OaT6I/TAZn8jT5Dnk2Eo74AgQ6rP3oQPd4I6DZZWQ9dohO71DPFCWaMc8QPE6zEv993WhNbPFzzrwhG2hEvssSfpDmuEmKQHXk6Rc/68hpOmpVM1MlCk3i9KIi6P95HgrZuxB1nnaz5XNMFwzpWvXBdLU/TX5PrOzemnjWtoBxstPMzq4NqScGEnO+rYLuP3GwK9Ka+pEqC7Mch+JUbWNPzVm5SFCdBR0NayW0+j4=;3rA2f6CPsOhuQlPsavh8AA=="
 ---
 

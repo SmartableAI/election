@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-20-trumps-visits-to-new-jersey-golf-course-cost-taxpayers-over-24m-in-four-years.md",
+      "title": "Trump's Visits to New Jersey Golf Course Cost Taxpayers Over $2.4M in Four Years",
+      "excerpt": "New Jersey golf resort during his tenure in the White House cost taxpayers more than $2 million—with Trump spending a tota",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281",
+      "originalUrl": "https://www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1825828/trump-bedminster.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281?amp=1",
+      "publishedDateTime": "2021-06-19T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-mike-lindell-cites-divine-appointments-prophets-words-to-explain-affinity-for-trump.md",
       "title": "Mike Lindell Cites 'Divine Appointments,' Prophet's Words to Explain Affinity for Trump",
       "excerpt": "The MyPillow CEO claimed Trump \"will be in office by this fall\" after a July \"cyber symposium\" he plans to hold.",
@@ -1008,7 +1060,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1640,
+      "heat": 1660,
       "tags": null,
       "images": [
         {
@@ -1496,58 +1548,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-feds-will-repeal-or-replace-trump-era-decision-to-lift-logging-road-building-restrictions-in-alaskas-tongass-national-forest.md",
-      "title": "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest",
-      "excerpt": "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/11/06/USAT/07f2e10a-a895-4a3b-8a78-4ca7d17513ae-Alaska_110618.jpg?auto=webp&crop=599,335,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7662402002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7662402002",
-      "publishedDateTime": "2021-06-11T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

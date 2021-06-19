@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
 type: article
 quality: 140
-heat: 1640
+heat: 1660
 published: true
 
 provider:
@@ -911,6 +911,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Upcoming Lorain County rally will show whether ex-President Donald Trump still has campaign mojo"
+    excerpt: "Trump will hold a rally at the Lorain County fairgrounds to support Max Miller's bid to unseat incumbent Rep. Anthony Gonzalez in the GOP primary."
+    publishedDateTime: 2021-06-19T14:00:00Z
+    webUrl: "https://www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Z2ANUQEECJDMRFG25HLPPMLFBY.jpg"
+        width: 5393
+        height: 3595
         isCached: true
   - title: "Trump Family: Twitter Mocks Jared Kushner’s Book Deal To Tell ‘The Truth’ About Trump’s Presidency"
     excerpt: "Former President Donald Trump’s son-in-law Jared Kushner has signed a book deal with Broadside Books, the conservative imprint of HarperCollins Publishers, to tell “the truth” about his time in the White House."

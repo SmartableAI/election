@@ -1,46 +1,36 @@
 ---
 category: news
-title: "Crowd calls Mike Pence a ‘traitor’ during his speech at conservative conference"
-excerpt: "Some attendees at a conference in Florida for conservative activists heckled former Vice President Mike Pence on Friday during a speech. A few attendees shouted, “Traitor!” as Pence spoke at the Faith and Freedom Coalition’s Policy Conference at a resort in Orlando."
-publishedDateTime: 2021-06-19T16:47:00Z
-originalUrl: "https://bangordailynews.com/2021/06/19/national-politics/crowd-calls-mike-pence-a-traitor-during-his-speech-at-conservative-conference/"
-webUrl: "https://bangordailynews.com/2021/06/19/national-politics/crowd-calls-mike-pence-a-traitor-during-his-speech-at-conservative-conference/"
+title: "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference"
+excerpt: "Former US Vice-President Mike Pence has been heckled during a speech at a conference for religious conservatives. Some audience members yelled \"traitor\" and \"freedom\" as he addressed the Faith and Freedom Coalition in Orlando,"
+publishedDateTime: 2021-06-19T17:16:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
+webUrl: "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
+ampWebUrl: "https://www.bbc.com/news/world-us-canada-57540611.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp"
 type: article
-quality: 51
-heat: -1
-published: false
+quality: 125
+heat: 325
+published: true
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: BBC
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Road-to-Majority-convention.jpg"
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg"
     width: 1024
-    height: 715
+    height: 576
     isCached: true
 
 related:
-  - title: "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference"
-    excerpt: "Former US Vice-President Mike Pence has been heckled during a speech at a conference for religious conservatives. Some audience members yelled \"traitor\" and \"freedom\" as he addressed the Faith and Freedom Coalition in Orlando,"
-    publishedDateTime: 2021-06-19T17:16:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57540611.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Pence met with jeers and called a \"traitor\" at Florida conservative conference"
     excerpt: "When former Vice President Mike Pence took the stage in Florida to address a social conservative group, he was met with some jeers, and reporters in the room said some attendees called him a \"traitor."
     publishedDateTime: 2021-06-18T18:43:00Z
@@ -144,6 +134,20 @@ related:
         width: 1200
         height: 679
         isCached: true
+  - title: "Crowd calls Mike Pence a ‘traitor’ during his speech at conservative conference"
+    excerpt: "Some attendees at a conference in Florida for conservative activists heckled former Vice President Mike Pence on Friday during a speech. A few attendees shouted, “Traitor!” as Pence spoke at the Faith and Freedom Coalition’s Policy Conference at a resort in Orlando."
+    publishedDateTime: 2021-06-19T16:47:00Z
+    webUrl: "https://bangordailynews.com/2021/06/19/national-politics/crowd-calls-mike-pence-a-traitor-during-his-speech-at-conservative-conference/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 51
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Road-to-Majority-convention.jpg"
+        width: 1024
+        height: 715
+        isCached: true
   - title: "Mike Pence Remarks at Faith and Freedom Conference in Florida"
     excerpt: "2021-06-18T13:30:36-04:00https://images.c-span.org/Files/03f/20210618133830011_hd.jpgFormer Vice President Mike Pence delivers keynote remarks at the 2021 Faith and Freedom Conference in Kissimmee, Florida. At the beginning of his remarks he is heckled ..."
     publishedDateTime: 2021-06-18T00:01:00Z
@@ -163,6 +167,6 @@ related:
       domain: c-span.org
     quality: 33
 
-secured: "pJ3C4cl83PmzOdQJqhFVUcSJpVPHKpqDPA0yar4KTC78zR8n51s8TaNvDclNfFivru6XCBMPWH6IbhLZ/6H8Y7dqeVF+3NlFAlvXZ2CzFH1WTq6ScUAi9+H8prd/+aVgwPnAMLJV+CtlPCaPh5YAmGJT/L/mXPX7uhLMiiMDnm2JmNPeheAgptAp0FLARQRYD6U6og6YjrGxpUeU1zkuN2e9wsnY13+QvXCUfyRL+AnCLDpLbxK4hH8bs/vkboflUxRt9Zov50wmEIa8o1pbsrVl+4o1s4N/NyUjyWYOf76xI15B+lSYibalpuIYi6/177KrFn+A0i/QbTyJ5v9vjEbhpN3KvPrf/cSWdADOGKFuPZqKd0CzMHNe1hiR1BS4NIb0ieYEBP4E92BgCn3dYPznXpArXlbg4vsDHz83l3f9xoLA7IKjg9ZcWAx4HtyyO2QoJPok+6iv6pjYbNr8D/mXeXjYSpZxIOHekRdI4KmzpiopMrL5l1U+Qk7gzbq47Bhf6HmiGTvPAgf7/UhCmQ==;dFz7Ogky5sKq/M10kulrDQ=="
+secured: "uosuKX5NArA4Pi+tOZB85oVwxoJmheB/hm8M9lSKFXeZMBH1HQouCbqmQQbADKqCi3Ai+Ru6uPQi4Qk30OK8xag4j5PbWTu1u62b/8zEpghqtnH/RvJMYWOWSJJCx5oJf1ApM7Hnbm2XIqaX3jHUoCWhH7RcR332Fg2mTR9OBHsusB/DqRXe0nS9BA3IVVt/DVxDGd74xd5NfwqKQV4ZEf6zomxyr7z8o6S2mGoE8U3u4kILF0ITTGHa4VjKGkecVqfPqCwujuoXy8iJQwIDhH4cbzvuHmuslHCvhqbvYcfyCoIScqd+AVpNKZiWyN6vteD2g0T2R8ZQkW3lHojKhJIxla6Sqie2zEgSxYFEc+U=;2ISkv8La7spy365cRCXPVQ=="
 ---
 

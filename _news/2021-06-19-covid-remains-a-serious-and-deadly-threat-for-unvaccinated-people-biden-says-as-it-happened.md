@@ -27,8 +27,8 @@ topics:
 related:
   - title: "Covid ‘remains a serious and deadly threat’ for unvaccinated people, Biden says – live"
     excerpt: "President hails 300m vaccine doses administered since January – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-18T21:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
+    publishedDateTime: 2021-06-18T21:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccfa568f08f352987562eb"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
     type: article

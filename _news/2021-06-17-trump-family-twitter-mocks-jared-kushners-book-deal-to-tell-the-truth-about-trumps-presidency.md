@@ -928,6 +928,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Upcoming Lorain County rally will show whether ex-President Donald Trump still has campaign mojo"
+    excerpt: "Trump will hold a rally at the Lorain County fairgrounds to support Max Miller's bid to unseat incumbent Rep. Anthony Gonzalez in the GOP primary."
+    publishedDateTime: 2021-06-19T14:00:00Z
+    webUrl: "https://www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/06/upcoming-lorain-county-rally-will-show-whether-ex-president-donald-trump-still-has-campaign-mojo.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Z2ANUQEECJDMRFG25HLPPMLFBY.jpg"
+        width: 5393
+        height: 3595
+        isCached: true
   - title: "Trump Impeachment Lawyer Defending Man in Capitol Riot"
     excerpt: "A lawyer who defended former President Donald Trump during his impeachment trial against a charge of inciting the riot at the U.S. Capitol is now representing a man charged alongside other members and associates of the far-right Oath Keepers extremist group in the Jan."
     publishedDateTime: 2021-06-08T17:56:00Z

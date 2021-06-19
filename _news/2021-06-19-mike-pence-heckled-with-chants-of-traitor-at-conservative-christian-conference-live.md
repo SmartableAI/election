@@ -2,9 +2,9 @@
 category: news
 title: "Mike Pence heckled with chants of ‘traitor!’ at conservative Christian conference – live"
 excerpt: "Former vice-president jeered at Faith & Freedom summit in Florida – follow all the day’s politics news live"
-publishedDateTime: 2021-06-18T17:53:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60cce20b8f0812e6253f6ba4"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60cce20b8f0812e6253f6ba4"
+publishedDateTime: 2021-06-18T17:33:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccdff08f08f352987561b7"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccdff08f08f352987561b7"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 type: article
@@ -25,6 +25,22 @@ topics:
   - Mike Pence
 
 related:
+  - title: "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference"
+    excerpt: "Former US Vice-President Mike Pence has been heckled during a speech at a conference for religious conservatives. Some audience members yelled \"traitor\" and \"freedom\" as he addressed the Faith and Freedom Coalition in Orlando,"
+    publishedDateTime: 2021-06-19T17:16:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57540611.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Pence met with jeers and called a \"traitor\" at Florida conservative conference"
     excerpt: "When former Vice President Mike Pence took the stage in Florida to address a social conservative group, he was met with some jeers, and reporters in the room said some attendees called him a \"traitor."
     publishedDateTime: 2021-06-18T18:43:00Z
@@ -150,6 +166,6 @@ related:
       domain: c-span.org
     quality: 33
 
-secured: "75l7YxcdqyTEjqeO57RT7OSzuWmHwt2qdPmqdN/1dTBp8Y+1kw/wbzpjnDnNKO5E7ujaI6t4J4vwvJzoT8K0SrNzJ/7qZXB4YDevBAAGc4DCPJXa1hNBMp1JRVG/xMfxTAtyHvxdgrk14e8AA5NtqqffRXokuc5z/6f3+3flaSdrTvKO6y1LcQWIKp0owH0P4r57MArr1q18Vj64dNQyaTdcfjy+oauNLsa4pCeCsBT+bHaHj08ZYIqcVKd8XGiBIE5kFqqBZnjIXqgb/ov7U/3ZzkRzdUbYqTi0rnzgu3cpmEUoKPPbsrr966DqCLlkWriNTLnvDxDWqtxBtL7IwDp6MDW9GIh6n5Z40oYipOlBxGti+MLWcREiWIUaxE32z1xTjEGjNL5ESyj4zSrfsgw3boB0BE7ekwOLajmcKyZ0UOkeJ2EpHmBVq7wMidhqn5jCJf+JAZhfpG7baLgLPuhlQypHctALsgVN3KEUmLspOYJnU5/X0TYpxPUB1Q/6t9pzIzqIXSMzEf3FQL/ZQg==;glnzw0QUJs39NVFMAGp0Bw=="
+secured: "w5I+sOSDOcoophJsOvxYm2Ly918siacqP9hI78x8MxN+nE+3pi6rNEVDCFA23MihukiwJL/ExyqxdS1xb2XUYvgCb5X72Irnf35zxzewvgyet2Ndk0uGzUyVUvQ5hATBDELmQsM0CFOZUAop36IyemgB8mX+bQXT3c5A0cLv64R5+Yi+8MJX9THY7wQ4lAEG47Ku9UK8vEbuac5A99oWqzPXjsl05W5FevboE2JBjtS/JzayW2OA213kvggOrsJLEGuL9kMhnCvTr8iJ/wJf5FzM6xmfATB6xTDvq8gdxhgPGPqSS4pB0Nf157PHwgiaQTkh45AIbAVqLZNdyY13u/p91Ss5KN3yfhEjJUjJrnycEZUgHaTZHJmjv9o5+KGh2APh9i0EgcLLzvNn2OWytQIfYSZ0ER+usMyrUNYhnUFGm7iFZ/EtTDTb755tGCjcLguu/NNiImBtXcNdAfS/nASzIHpShw/tKEh7BNbWNGmsmsHaxZXt2wXCm0imzy9DnHuijoTacMBLAavu3ALUiw==;GJkmmF/BZ/gJpNvPzwYVbA=="
 ---
 

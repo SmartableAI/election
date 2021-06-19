@@ -2,9 +2,9 @@
 category: news
 title: "Covid ‘remains a serious and deadly threat’ for unvaccinated people, Biden says – live"
 excerpt: "President hails 300m vaccine doses administered since January – follow all the day’s politics news live"
-publishedDateTime: 2021-06-18T21:17:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
+publishedDateTime: 2021-06-18T21:32:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccfa568f08f352987562eb"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccfa568f08f352987562eb"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 type: article
@@ -53,6 +53,6 @@ related:
         height: 533
         isCached: true
 
-secured: "WWwSqSYMvYtUJPQZpHwH7CeUtKtX4bFFfv9xPYTkqBR+Fg99ZISRJR2SwTDUY8C28HbOmrJn1K7RLT9CmaHnjU0fi9U7/kSr/QmciLNT2cq5j+Fg2Qtenb0nC6DLUaJD3egRBFOfZwFHJdN0YONMINl5cKAQ2FrXfQyCO3bYAK0G8DHcTNfL6zCktRX4ik7PznwhTpEYH7XrCcbDdC5qqL+Aq4ZCrkPhnzVTeOjmP9fZ528cR0RJYcqw+mzUxz/gZrHKQDV5UHAVblT9/OjqBvMXSrgMIl9ZjUvTIPXg/qSilgqToLQQJWnYvUs7+Rg6FDFrgEXIYMiPwlXzJqv+R5Z65BmZvPSQ0Paa+2PfSjyr46mbOgn3FqBNH0ke90hciDnroEov4qfEJ7Yn2KZXXY21c2TbxZWWRk7bZ4TnR4aOTUZnIqUG4kaVdPp5yzYaVAzf9VestcjSyXwk2iph3slUkr9vDhVaXh8oDFI+EvszCLxuhphqVoAzt5rZPDLFaSQD+zrJlb+SYmMsZkUT3Q==;LSEn0wulz6n2y97m3D+GCQ=="
+secured: "AjQYs+hMfZ4+J5k1o+Z4nEVTU4GL+MvFMKfQhrM1VyHrae6o3QiSvpjEzxKomPT4NpjKIhgro/1YV01xnh2ZdmB/cyxGfNjeKu4y2Y7Qaq6PQjTvZwXjHE2Js3QaFtnj+J0wDLOc2MZd2G5lmpQxZWP0noLS00kseQ409UbrdmAZHjroEsE7iAKr+xwuh0QpmURlAYvdtUN+qvZ5kVI+o0L5s1bPV5mDf0FbFoTX7Ec+S9GkJO3sDgW0MFPDlRSZfyLQN0lnJP7PtDwc/XD5NAnc08Bb4vAcUJ9J5S5EWZmPKawe3jTInpnQ8YBnsX+sdo6DcYH8tVSWCDa5xZWWEwEZR5TPxSmXolM2LBL66zulBQOQhtbGMXqe+UDYI2TEUgvdB6SWdPX79joqJJZ2nnvbpAS3vrs9phG8lxruZMp951G6q+yVmk8Wp7nxCUSSWQyU8aS7b/xd0YixacM3R8/g4raicUIawV4y3liW7lenfulFyZCYKMsvH2fFhUGaIdpvBxOU87x0+BEJhT7YzA==;4RBTdGuq9c/XQluSvaFOZw=="
 ---
 
