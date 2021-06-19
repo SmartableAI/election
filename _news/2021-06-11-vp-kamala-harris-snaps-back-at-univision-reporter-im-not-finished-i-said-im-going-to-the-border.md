@@ -169,7 +169,7 @@ related:
   - title: "We're Beginning to See the Real Kamala Harris"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-06-16T02:59:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/16/were_beginning_to_see_the_real_kamala_harris_545134.html"
+    webUrl: "https://www.realclearpolitics.com/2021/06/16/were_beginning_to_see_the_real_kamala_harris_545134.html#!"
     type: article
     provider:
       name: RealClearPolitics

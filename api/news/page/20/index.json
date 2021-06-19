@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-05-12-more-than-120-retired-generals-and-admirals-wrote-to-biden-suggesting-he-wasnt-legitimately-elected-and-questioning-his-mental-health.md",
+      "title": "More than 120 retired generals and admirals wrote to Biden suggesting he wasn't legitimately elected and questioning his mental health",
+      "excerpt": "The letter published by \"Flag Officers 4 America\" appeared to advance a false conspiracy theory that the 2020 election was illegitimate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5",
+      "originalUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6077445474da0300181e1b3a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-generals-admirals-letter-question-election-biden-health-2021-5?amp",
+      "publishedDateTime": "2021-05-12T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-former-trump-officials-to-defend-response-to-capitol-riot-when-they-appear-before-congress-wednesday.md",
       "title": "Former Trump officials to defend response to Capitol riot when they appear before Congress Wednesday",
       "excerpt": "Two senior Trump administration officials plan to defend their actions during the Jan. 6 riot at the U.S. Capitol when they appear before Congress Wednesday.",
@@ -1260,62 +1312,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/10/politics/larry-hogan-gop-firing-squad/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/larry-hogan-gop-firing-squad/index.html",
       "publishedDateTime": "2021-05-10T08:12:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-i-saw-it-on-tv-why-trump-supporter-says-she-believes-election-lie.md",
-      "title": "'I saw it on TV!': Why Trump supporter says she believes election lie",
-      "excerpt": "A couple attending an event hosted by Rep. Matt Gaetz (R-FL) and Rep. Marjorie Taylor Greene (R-GA) tell CNN's Donie O'Sullivan why they still believe debunked conspiracy theories cited as evidence that the 2020 presidential election was \"stolen\" from former President Donald Trump.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iyRhQrB_ZpY/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iyRhQrB_ZpY/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 510,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210510110049-donie-osullivan-gaetz-event-trump-voter-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2021/05/10/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2021/05/10/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
-      "publishedDateTime": "2021-05-10T08:11:32-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

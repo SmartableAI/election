@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-11-trump-doj-secretly-seized-house-democrats-data-in-crackdown-on-leaks.md",
+      "title": "Trump DoJ secretly seized House Democrats’ data in crackdown on leaks",
+      "excerpt": "At least two House members including Adam Schiff targeted in 2018, say officials familiar with the investigation",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/833a082fef419e963431b1565b44ba0c16badbf1/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7272812056fc84ee1bc19156633221c5",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/11/trump-doj-democrats-data-seized-apple-adam-schiff",
+      "publishedDateTime": "2021-06-11T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-michigan-man-gets-prison-for-email-threat-to-trump-whistleblowers-attorney.md",
       "title": "Michigan man gets prison for email threat to Trump whistleblower’s attorney",
       "excerpt": "Emailing a “stark, brutal” threat to hunt down and kill an attorney for the whistleblower who sparked Donald J. Trump’s first impeachment has cost a Gladwin County man time in federal prison. Brittan J.",
@@ -1517,59 +1569,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6.md",
-      "title": "Pence: I'll likely never see eye to eye with Trump on Jan. 6",
-      "excerpt": "Former Vice President Mike Pence says he isn't sure he and former President Donald Trump will ever see “eye to eye” over what happened on Jan_ 6 but he will “always be proud of what we accomplished for the American people over the last four years.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 710,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_222e493ae2ce4962910dd26824e1fa20_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
-      "publishedDateTime": "2021-06-03T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     }
   ],
