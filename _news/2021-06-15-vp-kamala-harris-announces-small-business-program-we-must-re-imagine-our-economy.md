@@ -74,6 +74,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Nina Simone’s family blames Kamala Harris for taking away singer’s estate"
+    excerpt: "Nina Simone’s granddaughter has accused Vice President Kamala Harris of “taking away” the legendary singer’s estate and handing it over “to white people.”"
+    publishedDateTime: 2021-06-20T14:24:00Z
+    webUrl: "https://nypost.com/2021/06/20/nina-simones-family-blames-kamala-harris-for-taking-away-estate/"
+    ampWebUrl: "https://nypost.com/2021/06/20/nina-simones-family-blames-kamala-harris-for-taking-away-estate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/nina-simones-family-blames-kamala-harris-for-taking-away-estate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/nina-simone-kamla-harris-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "56 House Republicans demand Kamala Harris be removed from border crisis role"
     excerpt: "Torrents of migrants flooding the US-Mexico border have created one of the most pressing challenges of Biden’s presidency and Harris has been tapped with solving the problem."
     publishedDateTime: 2021-06-19T20:27:00Z
