@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-20-qanon-supporters-dismayed-at-donald-trumps-december-tour-with-bill-oreilly.md",
+      "title": "QAnon Supporters Dismayed at Donald Trump's December Tour With Bill O'Reilly",
+      "excerpt": "The conspiracy theorists come to the realization that Trump will not be president by end of the year if he is touring the country with former Fox News host.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328",
+      "originalUrl": "https://www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1825858/donald-trump-december-qanon.jpg",
+          "width": 3565,
+          "height": 2259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328?amp=1",
+      "publishedDateTime": "2021-06-20T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-20-trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.md",
       "title": "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’",
       "excerpt": "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views",
@@ -232,7 +284,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -328,58 +380,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-20-mike-pence-hecklers-brand-ex-vp-traitor-at-conservative-conference.md",
-      "title": "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference",
-      "excerpt": "Former US Vice-President Mike Pence has been heckled during a speech at a conference for religious conservatives. Some audience members yelled \"traitor\" and \"freedom\" as he addressed the Faith and Freedom Coalition in Orlando,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57540611.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp",
-      "publishedDateTime": "2021-06-19T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-06-19-bidens-announce-their-beloved-german-shepherd-champ-has-died.md",
       "title": "Bidens announce their 'beloved' German Shepherd Champ has died",
       "excerpt": "The Bidens announced Saturday that their \"beloved\" German Shepherd Champ has died.\n    \n",
@@ -440,11 +440,11 @@
       "title": "Joe and Jill Biden announce death of 'beloved' dog Champ",
       "excerpt": "US President Joe Biden and First Lady Jill Biden have announced the passing of their \"beloved\" German Shepherd Champ, who had been with them for 13 years. \",\" President Biden wrote on Twitter. Champ was one of two German Shepherds living at the White House with the Bidens,",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/world-us-canada-57541044",
-      "originalUrl": "https://www.bbc.co.uk/news/world-us-canada-57541044",
+      "webUrl": "https://www.bbc.com/news/world-us-canada-57541044",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-57541044",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -458,14 +458,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/world-us-canada-57541044.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57541044.amp",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57541044.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57541044.amp",
       "publishedDateTime": "2021-06-19T09:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -584,6 +593,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-mike-pence-hecklers-brand-ex-vp-traitor-at-conservative-conference.md",
+      "title": "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference",
+      "excerpt": "Former US Vice-President Mike Pence has been branded a \"traitor\" by hecklers during a speech at a conference for religious conservatives. Mr Pence faced jeers as he addressed the Faith and Freedom Coalition in Orlando,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-57540611",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-57540611",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57540611.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp",
+      "publishedDateTime": "2021-06-19T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -1286,64 +1347,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-pence-criticizes-harris-over-declining-to-visit-us-mexico-border.md",
-      "title": "Pence criticizes Harris over declining to visit US-Mexico border",
-      "excerpt": "Former Vice President Mike Pence took aim at his successor on Friday at a conference for religious conservatives in Florida, criticizing Vice President Kamala Harris for declining to visit the US-Mexico border during a recent immigration-focused trip to Central America.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9g230bu-x9I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9g230bu-x9I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 410,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604101745-01-pence-nh-speech-0603-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/18/politics/mike-pence-faith-freedom-coalition-remarks/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/18/politics/mike-pence-faith-freedom-coalition-remarks/index.html",
-      "publishedDateTime": "2021-06-18T11:28:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence",
-        "Kamala Harris"
       ]
     }
   ],

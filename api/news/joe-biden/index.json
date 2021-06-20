@@ -67,7 +67,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -115,11 +115,11 @@
       "title": "Joe and Jill Biden announce death of 'beloved' dog Champ",
       "excerpt": "US President Joe Biden and First Lady Jill Biden have announced the passing of their \"beloved\" German Shepherd Champ, who had been with them for 13 years. \",\" President Biden wrote on Twitter. Champ was one of two German Shepherds living at the White House with the Bidens,",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/world-us-canada-57541044",
-      "originalUrl": "https://www.bbc.co.uk/news/world-us-canada-57541044",
+      "webUrl": "https://www.bbc.com/news/world-us-canada-57541044",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-57541044",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -133,14 +133,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/world-us-canada-57541044.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57541044.amp",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57541044.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57541044.amp",
       "publishedDateTime": "2021-06-19T09:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

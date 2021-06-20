@@ -2,9 +2,9 @@
 category: news
 title: "Mike Pence heckled with chants of ‘traitor!’ at conservative Christian conference – live"
 excerpt: "Former vice-president jeered at Faith & Freedom summit in Florida – follow all the day’s politics news live"
-publishedDateTime: 2021-06-18T17:33:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccdff08f08f352987561b7"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccdff08f08f352987561b7"
+publishedDateTime: 2021-06-18T17:53:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60cce20b8f0812e6253f6ba4"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60cce20b8f0812e6253f6ba4"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 type: article
@@ -25,6 +25,22 @@ topics:
   - Mike Pence
 
 related:
+  - title: "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference"
+    excerpt: "Former US Vice-President Mike Pence has been branded a \"traitor\" by hecklers during a speech at a conference for religious conservatives. Mr Pence faced jeers as he addressed the Faith and Freedom Coalition in Orlando,"
+    publishedDateTime: 2021-06-19T15:24:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57540611"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57540611.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference"
     excerpt: "Former US Vice-President Mike Pence has been heckled during a speech at a conference for religious conservatives. Some audience members yelled \"traitor\" and \"freedom\" as he addressed the Faith and Freedom Coalition in Orlando,"
     publishedDateTime: 2021-06-19T17:16:00Z
@@ -86,22 +102,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/18/Road_to_Majority_convention_77224.jpg-9e446_c0-83-2000-1249_s1200x700.jpg?97771ece8cf6ad276bbc4f4e72e64b186f039a1f"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference"
-    excerpt: "Former US Vice-President Mike Pence has been branded a \"traitor\" by hecklers during a speech at a conference for religious conservatives. Mr Pence faced jeers as he addressed the Faith and Freedom Coalition in Orlando,"
-    publishedDateTime: 2021-06-19T15:24:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57540611.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Mike Pence jeered as ‘traitor’ at a conservative religious conference"
     excerpt: "Former Vice President Mike Pence was taunted as a “traitor” by audience members at a Faith & Freedom Coalition event in Florida on Friday, where he prided himself as a “Christian, a conservative, and a Republican in that order."
@@ -182,6 +182,6 @@ related:
       domain: c-span.org
     quality: 33
 
-secured: "kPL9r3tbxOpTCImh9FnwgqIVtg/y3M78EuyOetwlnhrO09KlHr/Yuou79vvCP1i49dq0HrKVEUc7ands+v1048LtPTfmHLhwux/A551FBES+Ji47aITmYYyz7+kbHsFM+NSEgpOiiq246mx17ExLsqeuuCBevVnhlVlHjke1UbtMrzqneYQeL1jqmTqXDSe2+UOPRJDi4bE8rArWv4TH3uasyK5KqZHd6jWWPdwhCEQZHrFi/qE9Q3Nfa+r52Shr5QSxUH7yJtVz8kh6favyFdo/akLxGrXLxUQiY4zWC9Pk8DJ5ZNBh3rdrRkTkOJ+2O6lfukkzwWNx1xJFghtKtHdojCfgjQMIKjf2xAC79XVXu3LlfuqemyHVm4r3pIzg6kmBJFdP7Vos1tIttPFAbGKfUcOUFppiuzL5//hHshLoXwy/54m40b061EQc39fbuUxKKQmyqCyKsqnJQZToFvDLXQTN5yejXowFCp2U6w/0nKdWZ6iFr+WICf7oRA92A/T/HHKwCkk7lLo7JgVD/A==;/5H57HB25/PQUTf89CFdnA=="
+secured: "sVr42YlQy+uMRMuPMbYOyfwvQjy11V38AhCbFUA9G1gJenVgVcPJlG7pBmHJUtd0Tbmwc12hITexHNgJ+0HWTt3GzNKhrpbBogZief9z+p26kJXzTEQLHb5vIzqIOG8f1DxieHGvYHGfvgu52uSsYAcR4Rt4m9e9Hb2YNzQ1/WjS4hgDjztwiuvI/aelvOhqpfcs0tEGfA4SOgGfOkcrSYidtDY0Waf5Tyg/82uuOX2ulaMfrr80XAHRrK2wupMNltr9L7kGMmWKvG7MD9M9fK8ztzlq2Og4WviaN6A9atCupkp8B4qALKgYVswch5WPV0xFT6bCNJFTE77Y/GbEFLAVs7Igk+uzNoY599AbjuUb0atwayYvUry30a2a+XYbGzPkFU9z2R7SYO8bUctNtip6rPnXrJIsLK7uQcMr3arVnKlj/W2ArD3XNwr4ybhYV8B2E8F+6xp6/EcMZ6Eex7dgztZT11vxxqSx9I9iN3pPbqHPEIBGiI2bBGM2ui3yQf1T9omWAkTEUcAXmqJPvQ==;nE3d3J6hXIBQl/bViHW7YA=="
 ---
 

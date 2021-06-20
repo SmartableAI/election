@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Champ, Joe Biden’s German shepherd and ‘sweet, good boy’, dies aged 13"
-    excerpt: "Statement says pet was ‘constant, cherished companion during the last 13 years and was adored by the entire Biden family’"
-    publishedDateTime: 2021-06-19T21:06:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13"
+  - title: "Joe and Jill Biden announce death of 'beloved' dog Champ"
+    excerpt: "US President Joe Biden and First Lady Jill Biden have announced the passing of their \"beloved\" German Shepherd Champ, who had been with them for 13 years. \",\" President Biden wrote on Twitter. Champ was one of two German Shepherds living at the White House with the Bidens,"
+    publishedDateTime: 2021-06-19T16:56:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57541044"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57541044.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57541044.amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: BBC
+      domain: bbc.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/afb3cf6445c8c17efda0cce182b0aaad7cc2d50c/0_215_4200_2521/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=02b87230864e04daa4522883bbe4a0fd"
-        width: 600
-        height: 360
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/142BB/production/_118991628_gettyimages-144145515.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "IbrLAT546gT2mMFmx9+nL88cds/WzKq7wSruxeJeU4oYbWRAtFrvwrFq6CSr6yAzxzGVRe+RF4r2mFDSI3haxaLXkvapE+13/ooxkb1lV4c7JDKE+OewEaFyxg2mNLRF+3GLcKKI9B1Dj8WWlQ2jz28wz5s6v8jy944/3mQ+8+sHUKl3cWqTVAziQDpK1d7viIWHMxDEyCUnzs/VhnxF6X2QXPvgpZKVPDLyaXNsIz9OUleB2hhXqIEQcGwRteSrzB2GX5KyAsm7SA+k7mQsxyQ6tUR1hBmtCKki8Dc3gdIAUWHxjbdXAzThAE9X7uxkePrxoRLPCNH/G4ervWFzwd0HTRoO2DrJdKH1HMqC0Bk=;1nMLziOD58oyBe8CDVkb3Q=="
