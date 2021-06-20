@@ -912,6 +912,22 @@ related:
         width: 1024
         height: 676
         isCached: true
+  - title: "The reason most Republicans now back gay marriage is ... Donald Trump?"
+    excerpt: "A recent Gallup Poll found that for the first time a majority of Republicans (55%) said they supported same-sex marriage. Four years ago, only 40% backed it. So what changed over that period? “Obviously,"
+    publishedDateTime: 2021-06-20T11:14:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/51/74/21143329/7/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Upcoming Lorain County rally will show whether ex-President Donald Trump still has campaign mojo"
     excerpt: "Trump will hold a rally at the Lorain County fairgrounds to support Max Miller's bid to unseat incumbent Rep. Anthony Gonzalez in the GOP primary."
     publishedDateTime: 2021-06-19T14:00:00Z

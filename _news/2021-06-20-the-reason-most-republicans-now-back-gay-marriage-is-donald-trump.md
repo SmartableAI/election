@@ -1,33 +1,29 @@
 ---
 category: news
-title: "State bar investigating Texas Attorney General Ken Paxton over Trump election lawsuit"
-excerpt: "A Democratic Party activist complained that Ken Paxton's challenge to President Joe Biden's victory in four states was frivolous and unethical."
-publishedDateTime: 2021-06-10T12:37:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/06/10/texas-bar-investigates-attorney-general-ken-paxton-over-election-suit/7633751002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/06/10/texas-bar-investigates-attorney-general-ken-paxton-over-election-suit/7633751002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7633751002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633751002"
+title: "The reason most Republicans now back gay marriage is ... Donald Trump?"
+excerpt: "A recent Gallup Poll found that for the first time a majority of Republicans (55%) said they supported same-sex marriage. Four years ago, only 40% backed it. So what changed over that period? “Obviously,"
+publishedDateTime: 2021-06-20T11:14:00Z
+originalUrl: "https://www.sfchronicle.com/politics/article/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
+webUrl: "https://www.sfchronicle.com/politics/article/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
+ampWebUrl: "https://www.sfchronicle.com/politics/amp/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
 type: article
-quality: 133
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/01/06/NAAS/a4019b43-5247-4de3-96bb-87bf22051b19-Electoral_College_Protests.jpg?auto=webp&crop=4847,2727,x0,y246&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s.hdnux.com/photos/01/20/51/74/21143329/7/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -158,6 +154,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/15/c8793ae3-fe6e-491b-a33b-514786e527a1/thumbnail/1200x630/11b0b842cd1ee66b08802dfda35d0513/gettyimages-1233293639.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "State bar investigating Texas Attorney General Ken Paxton over Trump election lawsuit"
+    excerpt: "A Democratic Party activist complained that Ken Paxton's challenge to President Joe Biden's victory in four states was frivolous and unethical."
+    publishedDateTime: 2021-06-10T12:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/10/texas-bar-investigates-attorney-general-ken-paxton-over-election-suit/7633751002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7633751002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7633751002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/NAAS/a4019b43-5247-4de3-96bb-87bf22051b19-Electoral_College_Protests.jpg?auto=webp&crop=4847,2727,x0,y246&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump pressured attorney general to have Justice Department back false election claims, emails show"
     excerpt: "The former president began pressuring his incoming acting attorney general even before announcing that his predecessor was stepping down, emails show."
@@ -896,22 +908,6 @@ related:
         width: 1024
         height: 676
         isCached: true
-  - title: "The reason most Republicans now back gay marriage is ... Donald Trump?"
-    excerpt: "A recent Gallup Poll found that for the first time a majority of Republicans (55%) said they supported same-sex marriage. Four years ago, only 40% backed it. So what changed over that period? “Obviously,"
-    publishedDateTime: 2021-06-20T11:14:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/51/74/21143329/7/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Food Deliverer Posed As Trump's Family; Used Social Media Following To Steal Thousands"
     excerpt: "A 22-year old former food delivery worker was arrested this week for creating fake Twitter accounts of former President Trump's family members and duping MAGA supporters of money."
     publishedDateTime: 2021-06-10T11:23:00Z
@@ -1161,6 +1157,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "KnpbimsX+6xNycP6eH8abw+5lNgSZIsxzLUu1fAnygUVHhr4GUgvmOBbTdN/Ve/bUi5sqzTsMTkveAX0J/rxIWlADFuibT1ILfeHDYUwBFXxVtgVUaI1+5MsaJeIJ9T/PblmP+BwGn+1b+5JzTqIz1coY0mYAMc0kkKcpTXHtsPkcoer8FCUmWCFGQjKyF7LnxUWwUltUJstzx1gMDyb93CTguhlh4fNbW1jfUoROoFP1WdCH9+US0an47xIdF6MnbhGvD5s1x0fFIHYl9FTDFlMbyCrn6ISj4qdPCXgMw7Vi8P/loX4M2mdx4QWEGPg5eFQVnjfn5Cl7jBuXJIPKxLxJ/3PaEqAVl2vb9j0a4NgPKqJJdfK+sEPAG4qzc0V4eMdrLTtXxGgFNBF13FfXS7Urk79Lh0ilLs6l8vRv+zaFpARJMONFpc4TD08SS673A7FJYLshr527skruDp+ThZnEA581GXnHv3EjtSMjKJIEXd0BfE0s4+6IAi+zm5B9WVPmbaRHGNkoldJCIDJ7g==;5gs6cn445NycoqwwEjjyYQ=="
+secured: "u2sYdaa96Dn2i+XXWxt2Rp5OIGSOhmoU5mjOf8kLEGg95+OdPXS5VxuxMq13eBJ009utb1p/+nMfb1/Exks+bdz07qcbTr3QmwTCCyJOpQ3iSRINiQKcCH9LqD1DRUgWLuxwNE25zHPV5YouxgyBymOy46w+VTG/UVk9KGo1ka/wizOiel4yLp9B4Mt/4rY6iKardhPUzKPSA1kLJF5hWr4FEJM6lxsUjz+0XLjLLbS8Us7IE4g5/nUknehKmOWIBl+ujnxWtRTUgKTActK1mUQh0E+VPuZuEjnqJuoxEVSas4oFeqHgaVOlgpfmVWOq4xYpj7Tws6OoruyXJ90Zwq+L2sPLBsEOlDZtg/2vXe8=;6CVHgMo+323yu5eL8JPFkw=="
 ---
 

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Joe, Jill Biden join Queen Elizabeth II at Windsor Castle for tea following G-7 Summit"
-excerpt: "At 95, Queen Elizabeth II has met her 13th occupant of the White House, President Joe Biden and his wife, first lady Jill Biden, for tea at Windsor."
-publishedDateTime: 2021-06-13T21:41:00Z
-originalUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/06/13/joe-jill-biden-meet-queen-elizabeth-windsor-castle/7676168002/"
-webUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/06/13/joe-jill-biden-meet-queen-elizabeth-windsor-castle/7676168002/"
-ampWebUrl: "https://amp.cincinnati.com/amp/7676168002"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7676168002"
+title: "Biden's dog Champ has died, White House says"
+excerpt: "The White House announced the death of Champ, the Biden family's \"constant, cherished companion during the last 13 years.\""
+publishedDateTime: 2021-06-20T11:14:00Z
+originalUrl: "https://www.cbsnews.com/news/champ-biden-dog-dies/"
+webUrl: "https://www.cbsnews.com/news/champ-biden-dog-dies/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/champ-biden-dog-dies/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/champ-biden-dog-dies/"
 type: article
-quality: 67
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: CBS News
+  domain: cbsnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/13/USAT/8f34546e-a74b-40c4-89f0-f10004140421-GTY_1233432980.jpg?auto=webp&crop=5257,2957,x0,y417&format=pjpg&width=1200"
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/25/766b2e92-f0ab-4ee9-a694-cb112cb36265/thumbnail/1200x630/d9e87ea6734607bb65a262325d4f81f4/image4.jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -59,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden's dog Champ has died, White House says"
-    excerpt: "The White House announced the death of Champ, the Biden family's \"constant, cherished companion during the last 13 years.\""
-    publishedDateTime: 2021-06-20T11:14:00Z
-    webUrl: "https://www.cbsnews.com/news/champ-biden-dog-dies/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/champ-biden-dog-dies/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/champ-biden-dog-dies/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/25/766b2e92-f0ab-4ee9-a694-cb112cb36265/thumbnail/1200x630/d9e87ea6734607bb65a262325d4f81f4/image4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Queen met with Joe Biden and his wife Jill at Windsor Castle"
     excerpt: "The Queen met with President Joe Biden and his wife, First Lady Jill Biden at Windsor Castle on June 13 2021, the meeting was one of Joe Biden's first international appointments since he became presid"
     publishedDateTime: 2021-06-14T06:59:00Z
@@ -91,7 +79,23 @@ related:
         width: 640
         height: 425
         isCached: true
+  - title: "Joe, Jill Biden join Queen Elizabeth II at Windsor Castle for tea following G-7 Summit"
+    excerpt: "At 95, Queen Elizabeth II has met her 13th occupant of the White House, President Joe Biden and his wife, first lady Jill Biden, for tea at Windsor."
+    publishedDateTime: 2021-06-13T21:41:00Z
+    webUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/06/13/joe-jill-biden-meet-queen-elizabeth-windsor-castle/7676168002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/7676168002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7676168002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/13/USAT/8f34546e-a74b-40c4-89f0-f10004140421-GTY_1233432980.jpg?auto=webp&crop=5257,2957,x0,y417&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "AsGKWUHKrmtXFUms1IPu3Yi9ZAg5cH+ctFk8+/VgHUIt/D3YY48TsboyjRS+Q5RO5jBJ1IQEq6LdzjebSOIXtel/dAtVjJDiui+WcdE42j0w1xZ7lCPUvdjLTdypaAnUWnerHrOFuqtAOqNawYE+qScoNes/+lTj7bW3CX2tdyv4brnke1qE2SVlvqNGSRRqXd8oP7L+1i6gYTQT9TeK7a9K2jtwTdNWBDs5p0dDHaviY2cJbpsFXHCQ3FTCbYlcIfIct4q6ahucvWmmmGA9goPgngTnRwznhlYLrdEQugvZhuuGrJdkGbUFVPvGLX3yheNpXVLam8Z2G1PCSStW5jwRA94hOrGyK112e4DjWbs=;Ou7zGf+Q16QnkTwhhRz7iQ=="
+secured: "YMfMa1fGh/9cJnqzJLAM7as5HeRCTqZFPqvEw233onaI/8u/Ad7mQiPRkggXXpQdljukzlVxcOj+8N4gSGVx20OGcWMNvVL+ivukelCAyCk30v0XvJuJqi9XPdWfNYhuHtVL9f9FJC3CbTkt6lYhqZY+rzFwWT/Xec6PhK8T7H28KOwQISt7PPeWA48jli/iEUTtr8OZEmkGi0AsyuVRG7IUeI4glrUIxLo1t3PoEHUMSEJHRzfJX9ed1K2BBm/bb6Y9MYdLa5qdIeUOs9vg7DSWCOdIW4HI5zCixxutpn/Uxnht08BurYOzfAZbG1qRCnOWxUVNbPS6VMgAcJCwcDCVO/1SxXmdK4MT14tgUPU=;bbXldTnb01dNH9Oor7XYNQ=="
 ---
 

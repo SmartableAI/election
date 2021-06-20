@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/8a3839f/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F38%2F702e2fa045f1a66ae0b9a2fea8c8%2Fla-photos-1staff-la-photos-1staff-773731-me-0514-vaccine-12-and-over-014.IK.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "A new New Deal? How Biden's spending plans stack up to past presidential proposals"
+    excerpt: "Here's how President Joe Biden's plans for infrastructure and more stack up to what past presidents, including Franklin Roosevelt, have done."
+    publishedDateTime: 2021-06-20T10:00:00Z
+    webUrl: "https://www.usatoday.com/story/graphics/2021/06/20/new-new-deal-heres-how-bidens-big-plans-compare-historically/5295005001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5295005001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5295005001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/17/USAT/9636a6cf-0781-4b80-b56d-f79149f5c9b8-biden_new_deal_final2.jpg?auto=webp&crop=1911,1075,x378,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "US Catholic bishops OK steps toward possible rebuke of Biden, politicians for supporting abortion rights"
     excerpt: "Catholic bishops approved a document that many hope will rebuke politicians, including Biden, for receiving Communion."
