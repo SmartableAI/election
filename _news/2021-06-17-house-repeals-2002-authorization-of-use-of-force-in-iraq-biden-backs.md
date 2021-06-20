@@ -109,6 +109,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Can Biden Overcome GOP Resistance to His Agenda?"
+    excerpt: "With confidence and elan, President Joe Biden rallied allies abroad last week around the viability of 21st century democracy. Proving it here at home will be harder. Read Full Art"
+    publishedDateTime: 2021-06-20T18:42:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/20/can_biden_overcome_gop_resistance_to_his_agenda_545490.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543363_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "N0sgWeKjk1NPmeJpOhZJ/MHy9CuZ9U3f8IgX2poA7dL1+zJNuxutmyqDV1Onddu+T1WgrLmb7WgLDMQlFWn2S7vstYZBl0JoTfGUomVI5JJBwhLOYrlMlFs2YSNNXbfG1TQXswPH64ZQk6BbxvQD4u+qJwymsXF+8A7Mn439PBhTg6PW/uat2s0jB1JTVn5zDgKMZwiLevrc81ElG/sY/fL3WTZlfHZK9h9aTlrkcV1mCErWMg3zJFxOkJhNHAmLyD8FPlWV1fhvX4VvN+ffMky3qYn5J2Xqzza1AzIvMDM+g3kyf2np6lNWYTbeFMBtc0QVE3ix+5QHituJ9MFeL+aCDj5r2nt1AVyFBjQ4o/w=;vzo7ucO3dlgp0SnQsyUpMw=="
 ---

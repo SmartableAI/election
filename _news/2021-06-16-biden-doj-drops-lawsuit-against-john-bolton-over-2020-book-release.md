@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a2114de-2a2a-4bfa-bcf9-1e7179c4cc69/52c23c35-30a0-4447-ad5b-dd64364b902e/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Can Biden Overcome GOP Resistance to His Agenda?"
+    excerpt: "With confidence and elan, President Joe Biden rallied allies abroad last week around the viability of 21st century democracy. Proving it here at home will be harder. Read Full Art"
+    publishedDateTime: 2021-06-20T18:42:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/20/can_biden_overcome_gop_resistance_to_his_agenda_545490.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543363_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "H2VT2olrkVFLhsTYDnKx+9m8E9bsdNTF+8XdrX9LSAhCmQlyopGkg56W7Z0F+Xn6iWKiCc4sySzODKTMylC3/QSEipIEu+7m4s2EyUvtAO+ytebpVjk3mXCW1Rxw2Dtlz2/RgqH7B5EVUhto6kAwAQkPcPareTDWglHJ05AV5iiZRYaG+xTQkTCd8K7/8nJDy0wnvfzGiZvF9kaIqHx40IjpJudFDJn5Pd+l+MIdXN4uDbeH786HmhEfPLLaFGJP1S2ldQ/SM0cRKIEu917Zzxb2k55Lrt4ZQxM8KLCBbs56Y3PAQKhncoj/26QO0eys7iiro1gHctaMbaYWt+fqtsZ6cBBD/2sr/tTkianKgvo=;mtOsCDu+pwf7zF4d5l4nkQ=="

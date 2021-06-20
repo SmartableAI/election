@@ -2,15 +2,15 @@
 category: news
 title: "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’"
 excerpt: "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views"
-publishedDateTime: 2021-06-20T03:23:29Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ms3PaDRb4/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ms3PaDRb4/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me"
+publishedDateTime: 2021-06-20T03:23:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me"
+webUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me"
 ampWebUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
 type: article
-quality: 173
-heat: 193
-published: true
+quality: 133
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -48,6 +49,6 @@ related:
         height: 800
         isCached: true
 
-secured: "+toMpO0QMWn53VKFPZLsHMomT34AXFwT0brAzMcENJju+AwY9il3DOVPFFz25C0AtYtCe6MLbRqtOx0rezkyKvOtvCPoitK8O1Aq9LQJ5Buj3tCkdI/lVI1flFGNhSH8rL8ihQC1NqJtOmkFathZQJgblyLSuKXxbp8tBnQAtPA3YFXWI7xci/8KEa2F7VYrIMyk0JNfHZIq0WRelIe/X+Hw0TJnuBA4ts/MjsAOvvcU/ybbIiETbiaV2V0gKMGx4lQAbkuc4lWraBdL/8efC9vQjFvppRpet4LeRllDND/rjn8JIM4bBokKmKxJ4qWPMbBRWnVb23NJhxn3aLecDxWhhC/hD5eABCTT19fQUaM=;nxuQQjApTKYdapTDAYW5UA=="
+secured: "WCAk7fwkmCuPQ78gsrr12Yk3eBDIgpfOyOLlvZlwDH/UuScbmDZX7Xb/B71uvy9yOqDD29vH4rgGWg6TeAujqd9xNHjG+5E0VvsXUQmf5108egVwvVY1IGOhzR/l2Z/H4kQ02AzI6cE3vcyQ9q6wK/79UGEFvdPODoZ2cSQutEd6CRXrFUUOSD6tPd5jpIzMVQxOb6Gs96jui0obkxRw+GdW58QxzqcDKNGPKpqZ+CZZg3rcWAQCmD+tIXAS18mJt3h2UNa6GkssjZein/p0BGfdBzEvDwu03VSOz/ecFTkShkg2Uq4UVusuPefMOw85iWqr6WSev2IsHVcW+APT5VrKGNbKbgJoeKdM+MkXHYY=;XeWULhp1ixNlhLMDZ1MpkA=="
 ---
 
